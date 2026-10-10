@@ -1,0 +1,20 @@
+MANIFEST — Ayah Companion · RUSSIAN MANUSCRIPT (archive.org edition)
+Posted: 2026-10-02, Robert Tilford (via Muse, at his direction).
+
+STATUS: Complete manuscript — 114 surahs / 6,236 verses, Arabic preserved.
+A review draft translated from Robert Tilford's corrected English manuscript
+(AI-assisted translation under his direction). Not a locked recital edition.
+Native Russian review is invited.
+
+VERIFIED (fresh audit 2026-10-02): 114 surah headers in order; per-surah verse
+counts all match the canonical 6,236; numbering sequential; 0 [MISSING];
+0 replacement characters. Earlier structural verification: 11/11 PASS
+(see VERIFICATION-RU.md). All 79 worker flags adjudicated 2026-09-24
+(see FLAGS-RU.md).
+
+FILES (name | bytes | SHA-256)
+  ayah-companion-manuscript-RU.md | 2722555 | 6fd0c17ce2368859f1951db85320a7a2e2ecab6d54c17dc4631315aea2528ca2
+  CONCORDANCE-RU.md | 9303 | 411c677d499a6d3b50d72e0bde91b4c1d25f331c46e9e1fc9ce472fd9924d996
+  GLOSSARY-RU.md | 13554 | c3d53a1476bafd8d9ca27d28af928919538e35c8a315826aee7382e8fbcfad79
+  FLAGS-RU.md | 8835 | 9e995224af32f4f5c8c674cc090c442681bc2bc2179a998a295685ec94390925
+  VERIFICATION-RU.md | 4776 | 9565cbdd23bdff334009b156c00d04eb99b1b2d1f04ae44fb7ef9da7754ee287

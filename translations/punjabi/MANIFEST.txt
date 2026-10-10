@@ -1,0 +1,39 @@
+AYAH COMPANION — PUNJABI (Shahmukhi, ISO pa) REVISION DRAFT
+Source: corrected English master ~/workspace/ayah-audit/corrected/ayah-companion-manuscript.md (never edited)
+Built: 2026-10-05 · Method: Quran-alone (terms defined by the Quran; zakat NO percentage — 0 "%" verified)
+Script: Shahmukhi (Perso-Arabic, RTL) ONLY — Gurmukhi is a future-only script-edition question (see STYLEGUIDE-PA.md)
+Dialect: central Majhi standard · Register: plain, clear modern Punjabi
+Status: REVISION DRAFT — native Punjabi review REQUIRED before any use. NOT published/uploaded/emailed.
+No first-Punjabi claim (Punjabi Qurans exist in community use, both scripts). AI assistance disclosed in front matter. Freely given.
+
+DELIVERABLES (size bytes · SHA-256)
+ayah-companion-manuscript-PA.md            2809724  5c0275aa2770d7149f9e2967e0d826dff5862a638fc76644e06c730168d3fd9a
+Ayah_Companion_Tilford_Punjabi_Manuscript.pdf 1693839  84e4073d418c4459f5efce396f5ec4a0df275fb324cdd0738df42df4fb2d8486
+OBSERVATIONS-PA.md                              6959  c3025b728b239178cb685370438c5842880810fe797ef127465e9b7bbbd58f4c
+STYLEGUIDE-PA.md                                6054  ae22dc68f464521f1dba36c92a916ce60d100522d5f01a8e00af48b43d0b9ce3
+work/telemetry-pa.json                          1187  959276b3bf5352648d87498d95adadf9faf6bd43594fe2e342c0efef16e7fb12
+work/flags-pa.txt (618 lines)                 112583  3e2db4746aac9c0a2e5125f811387aab588d7e23440d0a455ca068dafbcf8a1f
+work/verification-pa.json                       3926  3014f2887dfb86ef5f631a398681dd375db672db04b89a00c09a4877686778b3
+
+VERIFICATION SUMMARY (work/verify.py + PDF text layer)
+- 114 surah headers in order; exactly 6,236 verses; per-surah counts and continuity match master
+- Arabic 6,462 runs byte-identical to master segment; 112 Basmalah frames; 15 markers (11 recommended / 4 obligatory); 5:6 note present
+- Slice parity: 114/114 files, 0 ref mismatches, 0 paragraph ( ¶ ) mismatches; [MISSING] 0
+- English-leak scan: 0 Latin letters in translated text; script-contamination scan clean (4 embedded Gurmukhi/Devanagari glyphs caught & fixed, 1 corrupted ref label restored)
+- Divine names (verse bodies): اللہ 2,733 · رب 1,164 (substring incl. compounds) · خدا 11 (generic-god slot, one range only — flagged) · پرماتما 0
+- PDF: 492 pages (A4); pdftotext verse-reference count exactly 6,236; 0 "%"; 0 missing-glyph warnings (Punjabi body set in Noto Naskh Arabic; manuscript is source of truth — see OBSERVATIONS)
+
+TELEMETRY (verse bodies only; work/telemetry-pa.json)
+EN words 139,027 · PA words 157,754 · ratio 1.1347 · PA chars 738,578 (586,825 excl. spaces)
+Mean words/verse EN 22.29 / PA 25.30 · Median EN 18 / PA 21
+Invariants: 114 / 6,236 / 6,462 / 112 / 15 (11+4) / 1 note · refs = master sequence
+
+TOP NATIVE-REVIEW RULINGS (detail: OBSERVATIONS-PA.md; flags: work/flags-pa.txt)
+1. Script ruling: Shahmukhi primary; Gurmukhi future-only. Special seam: surahs 47–50 converted from a Gurmukhi draft — phonetic spelling, hand-pass ruling needed.
+2. اللہ/رب/خدا boundary: generic-"god" slot split three ways across ranges (خدا ×11 / معبود / رب) — pick one.
+3. Pronoun geometry: God تو/اوہ held; Messenger-address توں vs تسیں split across ranges needs one ruling.
+4. 45:6 "message" → پیغام (neutral), held across the whole message-class; top-priority Quran-alone ruling.
+5. زکات/صدقہ boundary; 9:29 «مقرر ٹیکس» (traditional label deliberately not imported).
+6. Ezekiel → ذوالکفل (21:85, 38:48) outside the guide's name list; Surah 55 favours/marvels split; 112:2 Absolute-name phrase.
+
+Nothing published, uploaded, emailed, or contacted. Master untouched.

@@ -1,0 +1,16 @@
+Item: ayah-companion-tilford-bavarian-manuscript
+Title: Ayah Companion — BAVARIAN (BOARISCH) MANUSCRIPT (Tilford Quran)
+Creator: Robert Tilford
+Created: 2026-10-04
+Status: BAVARIAN MANUSCRIPT — REVISION DRAFT / ÜBERARBEITUNGS-ENTWURF (not a final edition; not native-reviewed).
+Completeness: 114 surahs / 6,236 verses, Arabic preserved verse by verse, verified 2026-10-04 (counts, sequence, Arabic identity to corrected English master/meta, 15 prostration markers, 5:6 note).
+Rule: Quran alone; zakat carries no percentage (the Quran gives none). Nothing published, uploaded, emailed, or posted.
+Claim boundary: no first-ever claim. No complete Bavarian Quran translation was found after research; that is not proof this draft is the first.
+
+Files (path, bytes, SHA-256):
+ayah-companion-manuscript-BAR.md	2257142	22139e3988424078b0c15fb333a17139ae0c75a35fc25c141bb78ae8da715c98
+Ayah_Companion_Tilford_Bavarian_Manuscript.pdf	1859904	41fa0516579ee6c098d1505e9c634f73dc75b54832e99b791f93347fcb3c917f
+OBSERVATIONS-BAR.md	8855	017cc5a2e23dc110ec76cd100c126e0fb76bf4a06b3f1082380ec3dcab92889e
+work/titles-bar.json	2636	325635b7d7da3a4e5c79463440ddcb725690ac0bd408b80f4ca336e4179ab971
+work/verification-bar.json	4854	d758f186b747809c3e3cdc659d7068e8a52aa5cf1465ba4b023b3483abe3ccfb
+work/flags-bar.txt	10942	49e0f3c47ac28a71ebdf4e3f7981627b6004cbb3502278b1d8af3792520378ce

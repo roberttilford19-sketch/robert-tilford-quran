@@ -1,0 +1,18 @@
+Item: ayah-companion-tilford-korean-manuscript
+Title: Ayah Companion — KOREAN (한국어) MANUSCRIPT (Tilford Quran)
+Creator: Robert Tilford
+Created: 2026-10-05
+Status: KOREAN MANUSCRIPT — REVISION DRAFT (not a final edition; not native-reviewed).
+Completeness: 114 surahs / 6,236 verses, Arabic preserved verse by verse, verified 2026-10-05 (counts, sequence, Arabic identity to corrected English master/meta, 15 prostration markers, 5:6 note, PDF 481 pages with 6,236 verse references).
+Rule: Quran alone; zakat carries no percentage (the Quran gives none). Prepared with AI assistance from the corrected English master. Nothing published, uploaded, emailed, posted, gifted, or contacted about.
+Claim boundary: no first-translation claim. Korean Quran translations already exist (for example the Korean Muslim Federation's translation lineage); this is a Quran-alone plain-language draft awaiting native Korean review.
+
+Files (path, bytes, SHA-256):
+ayah-companion-manuscript-KO.md	2540323	f5c052d3522e16fc7c127745a128f874d48534f732b1ae3010117f1c470de035
+Ayah_Companion_Tilford_Korean_Manuscript.pdf	2135022	cb4868929df21c60dd5aac84722cc25d77cd1942abf0e19053c4bc8fabc9049c
+OBSERVATIONS-KO.md	11595	efa78d7dd72498ffee3da2264b39c21e3b0c7a0ce6e18efe3f3b7f545816f867
+STYLEGUIDE-KO.md	3913	dd99ab5e2c3c6b6bd667463fd04f3ab6b32e2bc1545adb58b1968dab21e0543f
+work/titles-ko.json	2115	ca4cfcdaeb3b8ac5fe55fe5727f1c6597fbc7bd932e3e049102945127e0a934a
+work/verification-ko.json	3869	05f0e7962e818330073b6bb8d991edcb068b3e47478dc8068ba43f2dae856bfe
+work/flags-ko.txt	113078	9c14a1fdcc0bd0ecf9997ca30fb48aecd03712cc425681f0adcc29fb3243314e
+work/telemetry-ko.json	1176	a8166c4191f66dcb31a7e89a863ba965b5e25be1efb85bbc8da376e5885802c8

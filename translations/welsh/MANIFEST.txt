@@ -1,0 +1,37 @@
+AYAH COMPANION — WELSH (CYMRAEG) QURAN — WORKING DRAFT
+Archive identifier (reserved): ayah-companion-tilford-welsh-manuscript
+Item title: Ayah Companion — Welsh (Cymraeg) Quran — Working Draft — Dedicated to Dr. Laura Jones
+Staged: 2026-10-05 · Method: Quran-alone (terms defined by the Quran; zakat NO percentage — verified 0 "%")
+Status: WORKING DRAFT — native Welsh review REQUIRED before any use. NOT published/uploaded yet.
+Dedicated to Dr. Laura Jones. No first-Welsh claim. AI assistance disclosed.
+
+ARCHIVE PAYLOAD (bytes · SHA-256)
+ayah-companion-manuscript-CY.md            2256427  ad3570b2c07000b70d64d658f84c3d86f467170f424e7bedafbea0d0098c4419
+Ayah_Companion_Tilford_Welsh_Manuscript.pdf 1869195  cb3866ab09c45b954cb57752c86ddc064b36cc8605c47d429333a407b1a09ebe
+DESCRIPTION.txt                               2218  b2d081079d622915b4796cc815245c407b85ecf009853426462de7ceff6077c0
+MANIFEST.txt (this file; hash recorded in READY.txt report, not self-hashed)
+
+NOT PART OF THE ARCHIVE UPLOAD
+UNDERTAKING-DRAFT.md                         1656  e5ebc5155e351730f64f8cb2319ec5ae607b2111393bfd289213b2489093cb36
+— Robert's own unsigned undertaking (drawer copy for his signature): on Dr. Jones's or her estate's word he takes the item down or hands it over, delivers his Welsh files, deletes his working files, assigns his rights, and publishes a credit note. Excluded from the payload deliberately.
+The unsigned Deed of Gift (~/workspace/ayah-welsh/) is likewise EXCLUDED — it retires unsigned.
+
+SOURCE
+The manuscript staged here is byte-identical to the anonymized gift copy
+(~/workspace/ayah-welsh/DO-NOT-TOUCH-DO-NOT-PUBLISH/ayah-companion-manuscript-CY-GIFT.md,
+SHA-256 ad3570b2…4419 — matches). The text itself was not de-anonymized or edited.
+
+VERIFICATION (drop work/parse-report.json)
+- 114 surah headers in order; exactly 6,236 verses; reference sequence equals the master
+- Arabic runs 6,462, byte-identical to the corrected English master's Arabic sequence (names + frames + verses); missing verse Arabic: none
+- 112 Basmalah frames (Surah 9 none); Welsh Basmalah "Yn enw Allah, y Daionus, y Trugarog."
+- 15 prostration markers (11 recommended "argymhellir", 4 obligatory "gorfodol")
+- 5:6 reading note present: "Mae rhai darlleniadau'n parhau'r sychu i'r traed; mae'r darlleniad a argraffwyd yma'n dweud golchi."
+- PDF: 509 pages (A4); pdftotext verse-reference count exactly 6,236; title page, contents, Surah 1 and Surah 2 pages visually inspected — ŵ/ŷ render correctly in Noto Serif, Arabic shaped, no tofu; no PDF-layer glyph substitutions needed
+
+TELEMETRY (count-ledger COUNT-LEDGER-2026-10-05, now 35 of 35)
+English source 139,027 words · Welsh 143,433 words · ratio 1.031692 · mean/median per verse EN 22.294259/18, CY 23.000802/19
+Welsh characters 770,735 (632,992 excl. spaces); telemetry file ~/workspace/ayah-welsh/work/telemetry-cy.json
+
+POSTING-DAY PROCEDURE
+Robert supplies fresh S3 keys (never stored) → upload MD + PDF + DESCRIPTION text as the item description + MANIFEST → byte-verify after the archive task queue settles → set date 2026-10-05 and description from DESCRIPTION.txt → mediatype may land as "data" (cosmetic, leave it). Robert says yes on the exact drop before anything uploads.

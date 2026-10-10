@@ -1,0 +1,20 @@
+MANIFEST — Ayah Companion Turkish (Türkçe) REVISION DRAFT
+Built 2026-10-05 with AI assistance from the corrected English master. Local files only; nothing published/uploaded/emailed.
+
+  2199776  869d85534d097b05194474ca0c7ad4f7ce00c0b61eafd8f1aa2b28e7fa526588  ayah-companion-manuscript-TR.md
+  1689885  63fb01d19bc4cd14cc65802a58b3790776cecc6eb38a13c117681d35deee4ce0  Ayah_Companion_Tilford_Turkish_Manuscript.pdf
+     2231  17f7ddb584a4a64c6552374c7e7823accf7639bd22050057528a76b1f77eea52  STYLEGUIDE-TR.md
+     8509  539def20cb0a82777d67892245ee035fc3695b0d57f5948386d1f4b0fc04e233  OBSERVATIONS-TR.md
+  3080996  2f8512892910063bc171d4458df9e27d226f7eabe445e426ae96f50fa50f422a  work/meta.json
+     1865  b010b14e17e44202bcaac427e3040d4c35145071d6f4dc6e12787aafdbdb4ec0  work/extraction-report.json
+    42920  b740a16af9771a7cd14d6ede29bfa43528f1c65a767383c4d2a6eaba7504e4c1  work/verification-tr.json
+     1162  ae84b8fd56f8591c616b944a2f24d8181a490ddb849ed04860a6cb7d20b1b927  work/telemetry-tr.json
+     1983  eb57d0eb2cc03d3588702439b78c370007f6e2c3a3232bf11134f0a0eded1301  work/titles-tr.json
+    61560  3c045d2787a1c987cda6a5419cc6cf20e81b68e84b014a7f22e50a31c3dbf48e  work/flags-tr.txt
+     5715  fe5278ba7a677eece4d4b56d690ccb988f81927ea1bc00d065732c6dc542c10b  work/extract.py
+     4074  61e51cccb77a818fa421d3254dccb20a4016aad613425cb23c4cb9c097b0c2a3  work/assemble.py
+     6182  283d32ec29a6d5040bdff1f058e5f6d5b5834747c74e3441c2850b90311cb6c6  work/verify.py
+     5949  002a6169d68f4e14e1d6d3bac680faac0b93727d51ac23f6bfdc5e2e8541c3c4  work/build_pdf.py
+     3395  4f6d5f7916b5aa5a60a2d6c5c40a1983c3025ca632d55401e6f55310cbc6193a  work/telemetry.py
+      114  --  work/tr/surah_001.txt ... surah_114.txt (Turkish slices)
+      114  --  work/en/surah_001.txt ... surah_114.txt (English slices)

@@ -1,0 +1,47 @@
+AYAH COMPANION — AFRIKAANS (AF) MANUSCRIPT — REVISION DRAFT
+========================================================
+Item: Ayah Companion — Afrikaans Manuscript (Revision Draft)
+Title: AFRIKAANSE MANUSKRIP — HERSIENINGSKONSEP (Ayah Companion)
+Creator: Robert Tilford (translator of the corrected English master); Afrikaans rendering prepared with AI assistance
+Date: 2026-10-05
+Language: Afrikaans (af)
+Status: HERSIENINGSKONSEP / REVISION DRAFT — first complete draft awaiting native Afrikaans review; NOT locked, NOT final, NOT native-reviewed
+Completeness: 114 surahs / 6,236 verses (see verification notes below)
+Text rule: Quran-alone. Zakat given as "die verpligte liefdadigheid" with NO percentage added (the Quran gives none). No hadith/tafsir material added. Arabic preserved verse-by-verse from the corrected English master.
+Claim boundary: Not a first Afrikaans translation. Afrikaans Qurans already exist — best known: Imam Muhammad A. Baker, Die Heilige Qur'ān (1961). No first-translation claim is made. This draft must not be used, gifted, or published until a native Afrikaans reviewer has checked it line by line.
+
+FILES
+-----
+ayah-companion-manuscript-AF.md (manuscript markdown): 2,276,894 bytes
+  SHA-256 db5e67a2d23069f8b5bca0f8969068ff9ec0aed44e213a3a2c633eb2dfb39e68
+Ayah_Companion_Tilford_Afrikaans_Manuscript.pdf (reading PDF, 504 pages): 1,827,888 bytes
+  SHA-256 16b45fba19765ddbabd3950eb46e63f558c65175167eaeb1afc5d8a33ea79f2f
+OBSERVATIONS-AF.md (working notes, production record, reviewer flags): 9,446 bytes
+  SHA-256 8095408e5f50593d5fda1361bb8e41c1a3c6927a03bfcb5df57a0eb22da72972
+STYLEGUIDE-AF.md (house rules for the Afrikaans rendering): 5,082 bytes
+  SHA-256 b31a0f7a51c8d3a9ea1f5904245bd8a93800ce31486a82be84d56d656af61c94
+work/titles-af.json (Afrikaans surah titles): 2,779 bytes
+  SHA-256 7cdd03077903ba1a3ef92824079c6c20f905139ceb5f00921b823a6b49b78ad2
+work/verification-af.json (machine verification results): 57,705 bytes
+  SHA-256 cd601ead8b657472d3abf0ce032361b6f55c6e6d37af189c0efb5b3a228cd741
+work/flags-af.txt (per-range reviewer flags, 917 lines, 22 range files): 124,610 bytes
+  SHA-256 33fb597308fc905ec869e070f793ddac43f4f4eefda785d251b96b9653cc73ac
+
+VERIFICATION (2026-10-05)
+-------------------------
+114 surah headers in order; exactly 6,236 verses; per-surah counts match meta.json and the corrected English master; continuity verified in every surah.
+Arabic: 6,462 runs in the Afrikaans file, identical to the master segment and to the meta-derived expectation.
+Prostration markers: 15/15 placed (11 recommended / 4 obligatory; obligatory at 32:15, 41:38, 53:62, 96:19).
+Basmalah: 112 surah frames, fixed rendering "In die naam van Allah, die Barmhartige, die Genadige."
+5:6 readability note present in Afrikaans. 0 [MISSING]. 0 "%" anywhere in the manuscript.
+English-leakage scan (strict function-word list): 416 flagged verse lines, all Afrikaans homographs — of (or/whether/if) 414 lines, been (leg/bone) 3 lines (one overlap); zero real English leakage after fixes.
+PDF: 504 pages; text extraction counts exactly 6,236 verse references.
+
+SOURCE
+------
+Corrected English master (not modified): ~/workspace/ayah-audit/corrected/ayah-companion-manuscript.md. Arabic lines validated against the master's extraction. English master untouched.
+
+NOTES
+-----
+- PDF built with bundled Noto fonts; Arabic reshaped/bidi-processed at render.
+- Fully offline. This item was not published, uploaded, emailed, posted, or gifted anywhere; native Afrikaans review is the required next gate.

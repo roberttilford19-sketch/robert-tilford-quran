@@ -1,0 +1,18 @@
+Item: ayah-companion-tilford-thai-manuscript
+Title: Ayah Companion — THAI (ภาษาไทย) MANUSCRIPT (Tilford Quran)
+Creator: Robert Tilford
+Created: 2026-10-05
+Status: THAI MANUSCRIPT — REVISION DRAFT (not a final edition; not native-reviewed).
+Completeness: 114 surahs / 6,236 verses, Arabic preserved verse by verse, verified 2026-10-05 (counts, sequence, Arabic identity to corrected English master/meta, 15 prostration markers, 5:6 note, PDF 491 pages with 6,236 verse references).
+Rule: Quran alone; zakat carries no percentage (the Quran gives none). Prepared with AI assistance from the corrected English master. Nothing published, uploaded, emailed, posted, gifted, or contacted about.
+Claim boundary: no first-translation claim. Complete Thai Quran translations already exist (for example the Thai translation published through the King Fahd Complex lineage); this is a Quran-alone plain-language draft awaiting native Thai review.
+
+Files (path, bytes, SHA-256):
+ayah-companion-manuscript-TH.md	3719519	fc92528ad02267e3c8a2cd6e52ab1128566f40b59654f215da191369e8349380
+Ayah_Companion_Tilford_Thai_Manuscript.pdf	4057385	e6e62f31395689942fa552ee745e0f243ad3cad3eaf7a18e7a3ca47c26628269
+OBSERVATIONS-TH.md	9867	876735aa661aa03df803e64a7a6f669583d61e3ff59166a208ba42b1b19e3b94
+STYLEGUIDE-TH.md	7905	a3454b06fe150c8ec7da437f44ed4dc99d90736320ce340c44398e23eca79562
+work/titles-th.json	4304	e12bcdd2f8c07cf32baadb357692629a10c172a90791a957724ca07053e9948a
+work/verification-th.json	3910	d1172388a22ccf4fa350336ba292b00f86cb8b1442177292988b4eacd055d5ad
+work/flags-th.txt	105514	326d06b8f187950dfc9d3d8b91e6b0a12b25075b52c3af835eb1d4470fc033f6
+work/telemetry-th.json	2102	2dea06b27b416a6b90dddebb60c981da06ecbacec9e31aca879b352457179cca

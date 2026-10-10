@@ -1,0 +1,19 @@
+MANIFEST — Ayah Companion · SPANISH MANUSCRIPT (archive.org edition)
+Posted: 2026-10-02, Robert Tilford (via Muse, at his direction).
+
+STATUS: Complete manuscript — 114 surahs / 6,236 verses, Arabic preserved.
+A review draft translated from Robert Tilford's corrected English manuscript
+(AI-assisted translation under his direction). Not a locked recital edition.
+Native Spanish review is invited. Not the first Spanish Quran translation.
+
+VERIFIED (fresh audit 2026-10-02): 114 surah headers in order; per-surah verse
+counts all match the canonical 6,236; numbering sequential; global order
+1:1 → 114:6 strict; 0 [MISSING]; 0 replacement characters.
+
+NOTE (2026-10-02, Robert's ruling): at 3:106, 6:30, and 46:34 the phrase
+"por no haber creído" was changed to "porque no creíais" to match the Arabic
+بِمَا كُنْتُمْ تَكْفُرُونَ ("for what you used to disbelieve"). This archive
+edition is the current text; the September Drive copy predates this ruling.
+
+FILES (name | bytes | SHA-256)
+  ayah-companion-manuscript-ES.md | 2247951 | 7691863e37bc4243034a1139c8a3913e7ecd369639303c34f6b0377211ff9874

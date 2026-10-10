@@ -1,0 +1,5 @@
+AYAH COMPANION — URDU MANUSCRIPT (Tilford Quran)
+Posted October 2, 2026 by order of Robert Tilford — REVIEW DRAFT, not a locked recital edition. Native review invited. This is NOT claimed as the first Urdu Quran translation.
+Manuscript: ayah-companion-manuscript-UR.md (2753167 bytes, SHA-256 83eb93d4f7f09ebf3334af6aaa070c249c209d9ed84b10d33119c9c3ea45cb1f)
+PDF: Ayah_Companion_Tilford_Urdu_Manuscript.pdf (1681157 bytes, SHA-256 6e01d904a8bea0246a9bc955dcfa66a1ff87493412376eb4b838cb5da78f11cd, 736 pages)
+Observations: OBSERVATIONS-UR.md

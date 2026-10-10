@@ -1,0 +1,5 @@
+AYAH COMPANION — PORTUGUESE MANUSCRIPT (Tilford Quran)
+Posted October 2, 2026 by order of Robert Tilford — REVIEW DRAFT, not a locked recital edition. Native review invited. This is NOT claimed as the first Portuguese Quran translation — it is a Brazilian Portuguese Quran-alone recital from Tilford's corrected English.
+Manuscript: ayah-companion-manuscript-PT.md (2265622 bytes, SHA-256 95b7f6678502fe5973b4ee1f37b2a4f6919eb06ef07b39208a342b10d5e2d4d1)
+PDF: Ayah_Companion_Tilford_Portuguese_Manuscript.pdf (1839333 bytes, SHA-256 ae3a0ae7a4228d5af3dd4480cad9cb74d54168be7a7263382883119f2f91a7da, 717 pages)
+Observations: OBSERVATIONS-PT.md

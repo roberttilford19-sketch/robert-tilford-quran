@@ -1,0 +1,11 @@
+Ayah Companion — Picard (pcd) — REVISION DRAFT packet
+Built locally 2026-10-04 at Robert Tilford's direction. Local only — unpublished, not uploaded, not emailed.
+Status: REVISION DRAFT — draft in progress inviting peer/native Picard review; pan-Picard compromise flagged; no first-ever claim ("no complete Picard Quran translation was found after research"); no ownership claim.
+
+16534ff6e3b46789838300adf37d07badb370f9fdfe26974f05c9295a28ed41a  2316359 bytes  ayah-companion-manuscript-PCD.md
+f749d556ca8991fedbc2e8a606f60e57d1b3af762594afd62437640679048ead  1863176 bytes  Ayah_Companion_Tilford_Picard_Manuscript.pdf
+9be8fd54c7f39723855beb4996cbc87c0c8b0b8f3789ffa35d2897f362ff28ad  8919 bytes  OBSERVATIONS-PCD.md
+9f36b62be798c498bc95d8fa612dc3d0e6210c024342b96f95f5efc3f96615ab  3508 bytes  STYLEGUIDE-PCD.md
+a688ed9080a19ac49d45a4767723df24003de9381d02322496244f6640ac5208  2906 bytes  work/titles-pcd.json
+5289d3340ecd1d74cde347f4d60c9c5a066d001ee86e3bc20f13abae1b5dd3f2  15932 bytes  work/verification-pcd.json
+7feb54f95764ccd9767e6728e204caaed8067cdd1b7309f5fd776675ee196de1  4888 bytes  work/flags-pcd.txt

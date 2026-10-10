@@ -1,0 +1,13 @@
+Item: ayah-companion-tilford-german-manuscript
+Title: Ayah Companion — GERMAN MANUSCRIPT (Tilford Quran)
+Creator: Robert Tilford
+Uploaded: 2026-10-03
+Status: GERMAN MANUSCRIPT — REVIEW DRAFT (not a final edition).
+Completeness: 114 surahs / 6,236 verses, Arabic preserved verse by verse, verified 2026-10-03 (counts, sequence, Arabic byte-identity).
+Rule: Quran alone; zakat carries no percentage (the Quran gives none). Freely given to the world; copies welcomed.
+This is not claimed as the first German Quran translation; the existing German tradition (Rudi Paret) is acknowledged.
+
+Files (bytes, SHA-256):
+ayah-companion-manuscript-DE.md	2323775	ef3ab60028437b645b67f15ba10ad0200b027aa32c36f567abfb7df5c6f2733d
+Ayah_Companion_Tilford_German_Manuscript.pdf	1918735	2dad785f875655edbe634ab395e6337e10dcfee30f2059f8eec4cd98879bb39e
+OBSERVATIONS-DE.md	9963	b80382e4481f53ddc779d41d579844cb2be739dba25a23a9ab194044cdc61179

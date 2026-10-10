@@ -1,0 +1,16 @@
+Item: ayah-companion-tilford-dutch-manuscript
+Title: Ayah Companion — DUTCH (NEDERLANDS) MANUSCRIPT (Tilford Quran)
+Creator: Robert Tilford
+Created: 2026-10-05
+Status: DUTCH MANUSCRIPT — REVISION DRAFT / REVISIE-ONTWERP (not a final edition; not native-reviewed).
+Completeness: 114 surahs / 6,236 verses, Arabic preserved verse by verse, verified 2026-10-05 (counts, sequence, Arabic identity to corrected English master/meta, 15 prostration markers, 5:6 note, PDF 514 pages with 6,236 verse references).
+Rule: Quran alone; zakat carries no percentage (the Quran gives none). Prepared with AI assistance from the corrected English master. Nothing published, uploaded, emailed, or posted.
+Claim boundary: no first-translation claim. Dutch Quran translations already exist (since 1953 and many since); this is a Quran-alone plain-language draft awaiting native Dutch review.
+
+Files (path, bytes, SHA-256):
+ayah-companion-manuscript-NL.md	2298298	b12ded192f81d2cebf78ad53a631cdda363d7633eb4e0d173d2eb40e7284df08
+Ayah_Companion_Tilford_Dutch_Manuscript.pdf	1858880	109ea5e2840a217194aa4f646eccdc31dc3e73b8c991b38134e759fb1ea93e53
+OBSERVATIONS-NL.md	7155	eaa936ef083c71240bfe8ddb8cc9582f907847c3bfbc4b97960e17f79d746a60
+work/titles-nl.json	2255	c2286b4460253977011a313b08392b196ca95e3cdbd73cb9b3eae43339dab134
+work/verification-nl.json	57898	371ace94525ef6d58e867e7f61d3bb4d017448fdc363669215ecbca946175871
+work/flags-nl.txt	53263	ec83fac0cdfa5a22ab930c054c3a0aa993fcaf85d86e39855a1c2c8b1280c838

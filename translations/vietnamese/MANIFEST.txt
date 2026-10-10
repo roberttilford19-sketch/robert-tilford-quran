@@ -1,0 +1,19 @@
+Item: ayah-companion-tilford-vietnamese-manuscript
+Title: Ayah Companion — VIETNAMESE (TIẾNG VIỆT) MANUSCRIPT (Tilford Quran)
+Creator: Robert Tilford
+Created: 2026-10-05
+Status: VIETNAMESE MANUSCRIPT — REVISION DRAFT (not a final edition; not native-reviewed).
+Completeness: 114 surahs / 6,236 verses, Arabic preserved verse by verse, verified 2026-10-05 (counts, sequence, Arabic identity to corrected English master/meta, 15 prostration markers, 5:6 note, PDF 522 pages with 6,236 verse references).
+Rule: Quran alone; zakat carries no percentage (the Quran gives none). Prepared with AI assistance from the corrected English master. Nothing published, uploaded, emailed, posted, gifted, or contacted about.
+Claim boundary: no first-translation claim. Vietnamese Quran translations already exist in community use; this is a Quran-alone plain-language draft awaiting native Vietnamese review.
+
+Files (path, bytes, SHA-256):
+ayah-companion-manuscript-VI.md	2629925	7e98e1f44c9fdf944fc0ad4ec930ca071e63868027b13959a3b5fe6f8dcebe33
+Ayah_Companion_Tilford_Vietnamese_Manuscript.pdf	2015417	5c0d00bafe66fd69236b3b1297ed04c739b69476d393faf5ad55b329a28af981
+OBSERVATIONS-VI.md	11191	61570062cf3bd7cf93844be5ff32a82eb311528e879fdde5c221bf332193017f
+STYLEGUIDE-VI.md	7343	338d942797f934382eaa98dc61a5ae9b98b090752f499a20d95c72b0fae74d55
+work/titles-vi.json	2786	bc52c3ee9dce35a4e88e74f5abc838e6304626d1207a85b5dfe47b1a53a58559
+work/verification-vi.json	13722	a7c17b08de72183e87fe94e612d22bb482fc5a109b5a1400f21613d325a7076c
+work/flags-vi.txt	91537	da1f2ecc03edfb620707adf400551a308b8a57397cb534c58e80af4d6f151f50
+work/telemetry-vi.json	1391	fdd8e02fbfff7070309caed51f486cbe4e9610d8bbdb943880f534769817df93
+work/extraction-report.json	1865	b010b14e17e44202bcaac427e3040d4c35145071d6f4dc6e12787aafdbdb4ec0

@@ -1,0 +1,19 @@
+Item: ayah-companion-tilford-alemannic-manuscript
+Title: Ayah Companion — ALEMANIC (ALEMANNISCH) MANUSCRIPT (Tilford Quran)
+Creator: Robert Tilford
+Created: 2026-10-04
+Status: ALEMANIC MANUSCRIPT — REVISION DRAFT / ÜBERARBEITUNGS-ENTWURF (not a final edition; not native-reviewed). Draft in progress inviting later peer/native review.
+Completeness: 114 surahs / 6,236 verses, Arabic preserved verse by verse, verified 2026-10-04 (counts, sequence, Arabic identity to corrected English master/meta, 15 prostration markers, 5:6 note).
+Language device: readable pan-Alemannic written compromise (ISO gsw umbrella), explicitly flagged in the front matter as a draft device; not Swiss-only, Swabian-only, or Alsatian-only.
+Rule: Quran alone; zakat carries no percentage (the Quran gives none). Nothing published, uploaded, emailed, archived, or posted; local only.
+Claim boundary: no first-ever claim. No complete Alemannic Quran translation was found after research; that is not proof this draft is the first. No ownership overreach asserted.
+
+Files (path, bytes, SHA-256):
+ayah-companion-manuscript-ALS.md	2256574	4bf3493333d2cbda20bf474191605e68e5a05fd2202555af74628dff25a9c905
+Ayah_Companion_Tilford_Alemannic_Manuscript.pdf	1835265	f12686c720d6944e4808482678be5e53f1229d135553706ccc02301398befdb9
+OBSERVATIONS-ALS.md	9707	4f39525d94a6e06d6c3494777954eae44e7a0e2586e2a2402f9482bbec38b847
+work/titles-als.json	2483	3c36fd31e106f2fde35e7344b37b71aa88a454fe2e16ce1cce3102583401ee12
+work/verification-als.json	13244	71687d383dfdeb493bf8981ea9428932c34218bb200acdbf69e37c0c2a3e107d
+work/flags-als.txt	60475	24dcc0da78bfa0e167536a8b99642939c75942271f528299bb2e75fd172ca7f0
+work/als/surah_001.txt ... surah_114.txt	114 files	6,236 verse lines + 114 INTRO lines (slice audit clean; see OBSERVATIONS-ALS.md)
+work/flags/flags-r01.txt ... flags-r13.txt	13 files	per-range uncertainty/dialect flags, concatenated in work/flags-als.txt

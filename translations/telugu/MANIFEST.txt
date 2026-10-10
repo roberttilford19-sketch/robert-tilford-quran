@@ -1,0 +1,38 @@
+AYAH COMPANION — TELUGU (ISO te) REVISION DRAFT
+Source: corrected English master ~/workspace/ayah-audit/corrected/ayah-companion-manuscript.md (never edited)
+Built: 2026-10-05 · Method: Quran-alone (terms defined by the Quran; zakat NO percentage — 0 "%" verified)
+Script: Telugu script (LTR) throughout · Register: plain spoken vāḍuka Telugu (grāndhika echoes avoided, flagged where unavoidable)
+Status: REVISION DRAFT — native Telugu review REQUIRED before any use. NOT published/uploaded/emailed.
+No first-Telugu claim (Telugu Qurans exist in community use). AI assistance disclosed in front matter. Freely given.
+
+DELIVERABLES (size bytes · SHA-256)
+ayah-companion-manuscript-TE.md            3424860  7b846406059f1a53919cf72c279bbd5d8a34147f238c17fa0c5a2fe19f6d714b
+Ayah_Companion_Tilford_Telugu_Manuscript.pdf 1646696  467a721732d9e7cc62373b89232779836aa1ca20a0ecd7ebfd5787a8dcbb6e58
+OBSERVATIONS-TE.md                              5989  942207b720cddd38b9de272b25a18fe8d48d71e811a3863dd2c1c23f7f9c77bc
+STYLEGUIDE-TE.md                                5610  04c34d01e61b31b65ce7aff98fc35e24d5c87243faa63f69383fd73f2930b3b7
+work/telemetry-te.json                          1338  cd44c06d1e7cba9e7424ef1395301a2cc0c1e1c94260cbb3245654f5444fe8d9
+work/flags-te.txt (1,288 lines)               229064  727a3315ea8d91aaf2b97a8e73b743d4e086415c8f291bb16007182f1521d0f5
+work/verification-te.json                       4020  e617c4ac051c071953e2d02cc1eeaa7529607bfec9d3a4f5752852198b7dec3c
+
+VERIFICATION SUMMARY (work/verify.py + PDF text layer)
+- 114 surah headers in order; exactly 6,236 verses; per-surah counts and continuity match master
+- Arabic 6,462 runs byte-identical to master segment; fixed Basmalah ×114 (1:1 + 112 frames + 27:30); 15 markers (11 recommended / 4 obligatory); 5:6 note present
+- Slice parity: 114/114 files, 0 ref mismatches, 0 paragraph ( ¶ ) mismatches; [MISSING] 0
+- English-leak scan: 0 Latin letters in translated text; "%" 0
+- Divine names (verse bodies): అల్లాహ్ 2,734 · ప్రభువు 833 (substring incl. compounds) · దేవుడు 4 (negated "no god but He" formula only — flagged) · యెహోవా 0
+- PDF: 512 pages (A4); pdftotext verse-reference count exactly 6,236; 0 missing-glyph warnings (PDF-layer glyph substitutions disclosed in OBSERVATIONS); Surah 1 page visually inspected — conjuncts shaped, no tofu
+
+TELEMETRY (verse bodies only; work/telemetry-te.json)
+EN words 139,027 · TE whitespace tokens 95,378 · ratio 0.686 (agglutinative — characters are the honest measure) · TE chars 715,907 (626,339 excl. spaces)
+Mean words/verse EN 22.29 / TE 15.29 · Median EN 18 / TE 13
+Invariants: 114 / 6,236 / 6,462 / 112 / 15 (11+4) / 1 note · refs = master sequence
+
+TOP NATIVE-REVIEW RULINGS (detail: OBSERVATIONS-TE.md; flags: work/flags-te.txt)
+1. Allah/దేవుడు/ప్రభువు boundary: దేవుడు survives 4× in the negated "no god but He" formula (+ దైవం once at 64:13) vs the guide's దేవత — pick one generic-god word.
+2. Respect-pronoun geometry: God నీవు/ఆయన held; Messenger-address నువ్వు vs మీరు splits across ranges need one ruling; తమరు unused — reviewer decides.
+3. Register plainness: vāḍuka held; Sanskrit-loaded keepers (స్వర్గం/నరకం/ఆరాధించు/ఆత్మ) flagged; Spirit verses 19:17, 21:91 sensitive.
+4. 45:6 "message" → సందేశం (neutral), held across the whole message-class; top-priority Quran-alone ruling.
+5. జకాత్/దానం boundary; నమాజ్/ప్రార్థించు split.
+6. Ezekiel 21:85/38:48 split (యెహెజ్కేలు vs జుల్-కిఫ్ల్); Surah 55 favours/marvels; 112:2 Absolute-name phrase.
+
+Nothing published, uploaded, emailed, or contacted. Master untouched.

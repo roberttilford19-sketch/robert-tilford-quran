@@ -1,0 +1,18 @@
+Item: ayah-companion-tilford-japanese-manuscript
+Title: Ayah Companion — JAPANESE MANUSCRIPT (Tilford Quran)
+Creator: Robert Tilford
+Created: 2026-10-05
+Status: JAPANESE MANUSCRIPT — REVISION DRAFT (not a final edition; not native-reviewed).
+Completeness: 114 surahs / 6,236 verses, Arabic preserved verse by verse, verified 2026-10-05 (counts, sequence, Arabic identity to corrected English master/meta, 112 basmalah frames, 15 prostration markers incl. 96:19 obligatory, 5:6 note, PDF 549 pages with 6,236 verse references).
+Rule: Quran alone; zakat carries no percentage (the Quran gives none). Prepared with AI assistance from the corrected English master. Nothing published, uploaded, emailed, or posted.
+Claim boundary: no first-translation claim. Japanese Quran translations already exist (Sakamoto 1920; Izutsu 1957–58, first direct from Arabic; Fujimoto/Ban/Ikeda 1970; Mita 1972 / Japan Muslim Association 1983); this is a Quran-alone plain-language draft awaiting native Japanese review.
+Note: the gated-sample packet (FEASIBILITY-JA.md, sample-manuscript-JA.md, Ayah_Companion_Tilford_Japanese_SAMPLE.pdf, STYLEGUIDE-JA-SAMPLE.md, work/verification-ja-sample.json) remains alongside for provenance; its Surah 1 + 103–114 slices were reused unchanged in this build.
+
+Files (path, bytes, SHA-256):
+ayah-companion-manuscript-JA.md	2577476	7eb992af6d3a34b7ad743554bb8905dd06ed0029092c2727bc6d77f1d3040706
+Ayah_Companion_Tilford_Japanese_Manuscript.pdf	2323714	4bc4f63be94abaa057195da484a4e78b0013b5bc5d35bf7182c992a538c09de7
+OBSERVATIONS-JA.md	8715	e85044d5b2b0f9d3f7b23fb765c828b056b8337948c8f69af715a76ca50d8abf
+STYLEGUIDE-JA.md	6866	b3435473808568197f106a064c7b861071c043e9b1237f62764cc8778c57d9cf
+work/titles-ja.json	5547	ea876c9d2c1569b9be8176f0a5f0cfc3d0e11b98978fc7cd2490d5c4ff0aa23c
+work/verification-ja.json	2260	adf83083f55cc67af3a7db9aa343323df2f2faaa89da7557eceb234c0eb86171
+work/flags-ja.txt	40292	8d27b7f5723c13cfa3a8c0a3aa7cf9ba9f1bbd014b60b5c2a3e076e27a18dd1e

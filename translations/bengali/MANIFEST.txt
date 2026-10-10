@@ -1,0 +1,18 @@
+Item: ayah-companion-tilford-bengali-manuscript
+Title: Ayah Companion — BENGALI (বাংলা) MANUSCRIPT (Tilford Quran)
+Creator: Robert Tilford
+Created: 2026-10-05
+Status: BENGALI MANUSCRIPT — REVISION DRAFT (not a final edition; not native-reviewed).
+Completeness: 114 surahs / 6,236 verses, Arabic preserved verse by verse, verified 2026-10-05 (counts, sequence, Arabic identity to corrected English master/meta, 15 prostration markers, 5:6 note, PDF 467 pages with 6,236 verse references).
+Rule: Quran alone; zakat carries no percentage (the Quran gives none). Prepared with AI assistance from the corrected English master. Nothing published, uploaded, emailed, posted, gifted, or contacted about.
+Claim boundary: no first-translation claim. Bengali Quran translations already exist (for example Girish Chandra Sen’s pioneering 19th-century Bengali translation and many modern Muslim editions); this is a Quran-alone plain-language draft awaiting native Bengali review.
+
+Files (path, bytes, SHA-256):
+ayah-companion-manuscript-BN.md	3464057	7899cfb4007c9ac1d5c60d4f77f023048c1eb6fb1d90e15a850a4ade443fd121
+Ayah_Companion_Tilford_Bengali_Manuscript.pdf	2532635	cac74bcf8cd8aeee46816a443a78c4d88da6811f4c85802a24b4f29b3d8e8bd0
+OBSERVATIONS-BN.md	10092	fe39622ec002593a2528a36a17d729fe6d8333bee8f610fb1c7bd051fed9bf26
+STYLEGUIDE-BN.md	6324	c9c1af3e62d8a4a693846c2eb1b733ebc784fc1ea6405de0a5d41b01a554aeaf
+work/titles-bn.json	3697	b99bf513663bc57256505007425dc8d153b2dc6aef3bdafec9e7a6e24eab0c4a
+work/verification-bn.json	3868	fad26b921e901af377b39da897e4c0bf57c328b7862861a385cbeb78fa9fd153
+work/flags-bn.txt	128293	f66856c4a26249f63336394b5f3b9b1b43c53f67d70135d1121f67a46734ffba
+work/telemetry-bn.json	1129	03fa24429120f90e0be6af71a77d00ba6eb0be2dab48767121154cda9c47b324

@@ -1,0 +1,18 @@
+Item: ayah-companion-tilford-persian-manuscript
+Title: Ayah Companion — PERSIAN (فارسی) MANUSCRIPT (Tilford Quran)
+Creator: Robert Tilford
+Created: 2026-10-05
+Status: PERSIAN MANUSCRIPT — REVISION DRAFT (not a final edition; not native-reviewed).
+Completeness: 114 surahs / 6,236 verses, Arabic preserved verse by verse, verified 2026-10-05 (counts, sequence, Arabic identity to corrected English master/meta, 15 prostration markers, 5:6 note, 0 Persian lines equal to Arabic lines, 0 Latin-letter leaks in slices, PDF 448 pages with 6,236 verse references, rendered title + Surah 1 pages visually checked for RTL shaping).
+Rule: Quran alone; zakat carries no percentage (the Quran gives none). Prepared with AI assistance from the corrected English master. Nothing published, uploaded, emailed, posted, gifted, or contacted about.
+Claim boundary: no first-translation claim. Persian Quran translations are abundant (medieval renderings through modern standards such as Fooladvand and Ansarian); this is a Quran-alone plain-language draft awaiting native Persian review.
+
+Files (path, bytes, SHA-256):
+ayah-companion-manuscript-FA.md	2629458	84723ef09dc2d773dadfd991fae2413a28396c202b146d8f09696009f9584ddf
+Ayah_Companion_Tilford_Persian_Manuscript.pdf	1560700	4e7fff50942aaedd1c450c5025262d6a7523cf182a9f8d67c104c30c6504fd5f
+OBSERVATIONS-FA.md	9464	daaf3a1236aace2cd61f7f5d54f18e4cb8fe8131ce2d4752e8313a28dfadec37
+STYLEGUIDE-FA.md	6098	e3463d7ce41be32514e340c351afc3fb8d0522b19a13f5e437b0b0f844c47580
+work/titles-fa.json	1858	0bc45b5e663f89c5a53a1c12f651b6feadab7e879331afbc997e3c8d0d4c3f8f
+work/verification-fa.json	4064	dec2ada7c0200881cd7aaf6f615a61797f2f2a3650b8e49dc082b4a3b21555c1
+work/flags-fa.txt	156159	0af5a2fca0fefcf2c7b50561416e22bd72bb6d7d9381a21314de3adbbd6462d7
+work/telemetry-fa.json	1178	1eca8e8db76e578fcafdf40461dc3a25ca2f1a22747ecbcf6e21ed884613fd71

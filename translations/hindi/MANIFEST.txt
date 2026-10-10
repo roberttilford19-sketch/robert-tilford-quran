@@ -1,0 +1,13 @@
+Item: ayah-companion-tilford-hindi-manuscript
+Title: Ayah Companion — HINDI MANUSCRIPT (Tilford Quran)
+Creator: Robert Tilford
+Uploaded: 2026-10-03
+Status: HINDI MANUSCRIPT — REVIEW DRAFT (not a final edition).
+Completeness: 114 surahs / 6,236 verses, Arabic preserved verse by verse, verified 2026-10-03 (counts, sequence, Arabic byte-identity).
+Rule: Quran alone; zakat carries no percentage (the Quran gives none). Freely given to the world; copies welcomed.
+This is not claimed as the first Hindi Quran translation; the existing Hindi translation tradition is acknowledged.
+
+Files (bytes, SHA-256):
+ayah-companion-manuscript-HI.md	3390602	0af12b9096ba381d0b2579b2d61a8f679121345aaff0f91669484c2b920923b9
+Ayah_Companion_Tilford_Hindi_Manuscript.pdf	3208563	b27deb64534906c1428900c5b71337bd9e54ca022ed37c014d892442b9b76521
+OBSERVATIONS-HI.md	13433	0506ffd8e9259f339529f7b0066c9180350ce5c9bfa3005f03b22be41d1f8eab

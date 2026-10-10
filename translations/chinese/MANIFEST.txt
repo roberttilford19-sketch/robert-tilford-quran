@@ -1,0 +1,58 @@
+MANIFEST — Ayah Companion · CHINESE MANUSCRIPT (archive.org edition)
+Posted: 2026-10-02, Robert Tilford (via Muse, at his direction).
+
+STATUS: Complete manuscript — 114 surahs / 6,236 verses, Arabic preserved.
+A review draft translated from Robert Tilford's corrected English manuscript
+(AI-assisted translation under his direction). Not a locked recital edition.
+Native Chinese review is invited. Not the first Chinese Quran translation.
+
+VERIFIED (fresh audit 2026-10-02): 114 surah headers in order; per-surah verse
+counts all match the canonical 6,236; numbering sequential; global order
+1:1 → 114:6 strict; 0 [MISSING]; 0 replacement characters. Structural checks
+2026-09-24 all passed — see VERIFICATION-ZH.md. Translator judgment calls
+and open flags recorded openly — see FLAGS-ZH.md.
+
+FILES (name | bytes | SHA-256)
+  ayah-companion-manuscript-ZH.md | 2133557 | be7cbd1a2064029f7fd0ec3f88ee8467d072755b257e653ab136a4e215ae478d
+  Ayah_Companion_Tilford_Chinese_Manuscript.pdf | 2290442 | a8c23173fae21e5b9d1e80ecf78860de49d3d98ef2a5be3163abf04571d24f4e
+  CONCORDANCE-ZH.md | 8125 | a9370882a417f66a2826dfc5ad6e0596cf39f1f3c4f17944c5de621b95f8a17e
+  GLOSSARY-ZH.md | 13634 | 7544d1ec8667b47ad2dfbc879c80c5382771a168dddb729ace7f40b125f1c2d6
+  FLAGS-ZH.md | 50595 | 05f3ba43ee7d06b366083422cba7163e869749e44d7ffcc9a069e5c8f573c88e
+  OBSERVATIONS-ZH.md | 9324 | c4d79454887b962e4749684d4f23ec593f4ec67f7136005928a8b1d1f77b34f5
+  VERIFICATION-ZH.md | 3529 | 929a83c4c52c076cdc891d9c0a13f7fc17b8372b208de9e788aa6775139438f1
+
+FIX LOG — 2026-10-05 (Robert's order, local only; nothing uploaded/published/emailed/sent)
+Pre-fix snapshots: work/ayah-companion-manuscript-ZH-PREFIX-2026-10-05.md
+(2131824 B, bb7ee6bd309f9a0d88f9ed9648a1a97a8f68d3b50ea113b3ef5e5060e4366ef0) and
+work/Ayah_Companion_Tilford_Chinese_Manuscript-PREFIX-2026-10-05.pdf (2247102 B, 673 pp,
+92775cc019838e4b322ce2e7870e206361dbdf912bc85b623cee79f542c77bc9).
+1) Basmalah: 41 off-modal standalone frames normalized to *奉至仁至慈的真主之名。*
+   (19x 奉真主之名，至仁，至慈。 / 16x 奉真主之名，至仁、至慈的真主。 / 6x 奉真主之名，至仁的，至慈的。);
+   post-fix 112/112 modal.
+2) Prostration markers unified to *[叩头——建议的]* / *[叩头——必行的]* (half-width):
+   8 replaced, 5 already unified, 2 inserted (25:60, 27:26); post-fix 15 = 11 + 4 at master's verses.
+Battery post-fix: 114 headers, 6236 verses, ref-seq == master, 6462 Arabic runs identical,
+5:6 note present, 0 %, 0 [MISSING], 0 Latin in bodies. PDF rebuilt via work/build_pdf_zh.py
+(468 pp; pdftotext refs 6236, 0 U+FFFD). Telemetry refreshed in work/telemetry-zh.json
+(220030 chars / 220027 excl.; markers dropped 15). Both QA findings RESOLVED-2026-10-05
+in FLAGS-ZH.md; full log in OBSERVATIONS-ZH.md. Post-Phase-1 snapshot:
+work/ayah-companion-manuscript-ZH-PHASE1-2026-10-05.md (2131577 B,
+567bba84b4c202d2114b6361b940b59b214902bc79eb35e997cefb3275cbab3a).
+
+PHASE-2 LOG — 2026-10-05 (deep mechanical refinement, local only)
+Snapshot before Phase-2: work/ayah-companion-manuscript-ZH-PHASE1-2026-10-05.md (above).
+Fixes (505 verses touched; list work/phase2_touched_verses.txt):
+  S1 Traditional bleed: 0 (OpenCC t2s/TSCharacters/phrase all clean; 覆/藉 flagged P2-F1).
+  S2 Quotes: straight " 961 + ' 29 in 503 verses -> curly (484+477 doubles, 15+14 singles);
+     classifier validated 2758/2759 on curly ground truth; other punctuation already uniform.
+  S3 Names: 7:65 胡德->呼德 (1), 28:29 摩学->摩西 (1); all other canonicals verified present.
+Censuses only (no change): divine 真主 2700/安拉 0, negated formulas 27 (flags P2-F5);
+  zakat 天课 23 uniform, hadith-family trio flagged (P2-F6); body 叩拜 2 flagged.
+Flags raised: FLAGS-ZH.md Phase-2 P2-F1..F6 (Imran split, pairing omissions 11 verses,
+  distinct-referent pairs, formula variants) — none changed.
+Re-verified: battery ALL PASS again; PDF rebuilt (2290442 B, 469 pp,
+a8c23173fae21e5b9d1e80ecf78860de49d3d98ef2a5be3163abf04571d24f4e; refs 6236, 0 U+FFFD);
+telemetry unchanged (220030/220027, 1-for-1 swaps). Nothing left this machine.
+
+## Corrected edition — 2026-10-06 (Robert's order)
+Public files replaced with the re-audited best copy: Basmalah frames normalized (41 unified), all 15 prostration markers completed (25:60, 27:26 restored), quotation style normalized, two misspelled prophet names repaired, Surah 14 title unified (亚伯拉罕章）. Final manuscript SHA-256 2030fe976bb48f253968a4d4f3cbafe9d269b4a79137695cb8eee719293fd57b; reading PDF af830a2bcbc50242c6417e2c25f1c62482cdf5a7adce5d0b838ac43a47efb439 (469 pp., exactly 6,236 verse references). Battery: PASS. Still a REVISION DRAFT — native Chinese review invited.

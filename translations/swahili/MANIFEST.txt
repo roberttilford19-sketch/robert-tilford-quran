@@ -1,0 +1,40 @@
+AYAH COMPANION — SWAHILI (Kiswahili, ISO sw) REVISION DRAFT
+Source: corrected English master ~/workspace/ayah-audit/corrected/ayah-companion-manuscript.md (never edited)
+Built: 2026-10-05 · Method: Quran-alone (terms defined by the Quran; zakat NO percentage — 0 "%" verified)
+Script: Latin throughout (standard Kiswahili sanifu orthography; ng' apostrophe held) · Register: plain standard Swahili
+Status: REVISION DRAFT — native Swahili review REQUIRED before any use. NOT published/uploaded/emailed.
+No first-Swahili claim (Swahili Qurans exist in community use — Farsy, al-Barwani named in front matter). AI assistance disclosed in front matter. Freely given.
+
+DELIVERABLES (size bytes · SHA-256)
+ayah-companion-manuscript-SW.md               2166173  eb7e8f0b55dc3a8dcb1657d08661e1c7d6ad3b8e4350dffade46b2b63297ffcf
+Ayah_Companion_Tilford_Swahili_Manuscript.pdf  1607169  55bf9169138b6222f9d88f8015d90cae46ec95a12e1dce35437306c46a7dc664
+OBSERVATIONS-SW.md                                8303  1f943ee41e6744f19960d57ed0e7aa8d0aac0284bd2e5cf45a47d90d5249f081
+STYLEGUIDE-SW.md                                  6900  e42d0a3496516f4e598375e4f90770efc04074a1bf4d627aca4970e3ad2b8f47
+work/telemetry-sw.json                            1358  4f96b77ac003d65876e14ed3e55bc99fce955ebd78706428649c34c62593c87d
+work/flags-sw.txt (1048 lines)                  137190  97a44b05c46a547f26e74411bd6fab461a6da1f1b7261a8f9d392c753c661067
+work/verification-sw.json                         4348  fdbd6e5bec9c8c983b35763bd9691efdbd4aeee4b29ac201911ab933194aefeb
+
+VERIFICATION SUMMARY (work/verify.py + PDF text layer)
+- 114 surah headers in order; exactly 6,236 verses; per-surah counts and continuity match master
+- Arabic 6,462 runs byte-identical to master segment; fixed Basmalah «Kwa jina la Allah, Mwingi wa rehema, Mwenye kurehemu» ×114 in file (1:1 + 112 frames + 27:30); 15 markers (11 recommended / 4 obligatory); 5:6 reading-note present
+- Slice parity: 114/114 files, 0 ref mismatches, 0 paragraph ( ¶ ) mismatches; [MISSING] 0
+- English-leak scan (marker-word scan, Latin-script appropriate): 1 hit — 25:28 "Lo" = Swahili woe-interjection (false positive); true English leftovers 0. Arabic-loan Swahili vocabulary (rehema/imani/dhambi/sala…) is natural, not leakage
+- "%" 0 anywhere (zaka never a percentage)
+- Divine names (verse bodies): Allah 2,724 · Mola 972 · mungu lowercase 89 · miungu 39 · Bwana-for-God 0 (bwana 9× human/false-patron only) · capitalized standalone Mungu never God's name (6 tokens: 18:110 formula variant + wacha Mungu idiom ×5) · Mwenyezi 0 · Pepo 36 · zaka 21 · ujumbe 52 · aya 147 · ishara 197
+- PDF: 536 pages (A4); pdftotext verse-reference count exactly 6,236; Surah 1 page (p.5) visually inspected — text clean, Arabic shaped correctly, no tofu
+
+TELEMETRY (verse bodies only; work/telemetry-sw.json)
+EN words 139,027 · SW whitespace tokens 102,431 · ratio 0.736771 · SW chars 690,618 (594,205 excl. spaces)
+Swahili packs subject/tense/object markers onto verb stems; word count is whitespace-token count, character count is the primary volume measure (unit declared in telemetry file)
+Mean words/verse EN 22.29 / SW 16.43 · Median EN 18 / SW 13
+Invariants: 114 / 6,236 / 6,462 / 112 / 15 (11+4) / 1 note · refs = master sequence
+
+TOP NATIVE-REVIEW RULINGS (detail: OBSERVATIONS-SW.md; flags: work/flags-sw.txt, 1048 lines)
+1. Allah/Mungu/Bwana boundary: Allah uniform; Mwenyezi Mungu deliberately unused (0) though it is the living Swahili divine title and sits in living Swahili Qurans' Basmalah — reversal would be range-wide; Bwana never for God (human/false-patron only); 18:110 «Mungu Mmoja» formula variant + wacha Mungu idiom flagged.
+2. Basmalah «Kwa jina la Allah, Mwingi wa rehema, Mwenye kurehemu» (living Qurans: «Kwa jina la Mwenyezi Mungu...» — difference named); Rahman/Rahim pair held, superlative flattenings flagged.
+3. Pronoun-agreement geometry: God Wewe/Yeye held; master's number-blind "you" splits flagged verse by verse.
+4. 45:6 "message" → ujumbe held across the class; hadithi/hotuba/kauli/simulizi seam flagged for one boundary ruling.
+5. Pepo (Paradise) vs bustani seam; pepo wind/spirit polysemy (42:33; 45:5); Roho Takatifu Christian loading.
+6. aya/ishara split pressure points; sala/sadaka/zaka boundary; name seams (Ilyasa/Alyasa, Ezekieli, idol names).
+
+Nothing published, uploaded, emailed, or contacted. Master untouched.

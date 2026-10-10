@@ -1,0 +1,142 @@
+MANIFEST — Tilford Quran Recital · Icelandic DRAFT
+Date: 2026-10-01
+
+STATUS: DRAFT — NOT LOCKED — pending review by living Icelandic speakers.
+Source: Robert Tilford's English Recital (corrected manuscript, Sept 2026 audit).
+Not the first Icelandic Quran (cf. Helgi Hálfdanarson, Kóraninn 1993/2003).
+
+COUNTS
+Filled verses: 6236
+[MISSING] verses: 0
+Target: 6236 filled — MET
+
+PER-SURAH (number | title | expected | filled | missing)
+1 | The Opening | 7 | 7 | 0
+2 | The Heifer | 286 | 286 | 0
+3 | The Family of Imran | 200 | 200 | 0
+4 | The Women | 176 | 176 | 0
+5 | The Table | 120 | 120 | 0
+6 | The Cattle | 165 | 165 | 0
+7 | The Elevations | 206 | 206 | 0
+8 | The Spoils of War | 75 | 75 | 0
+9 | The Repentance | 129 | 129 | 0
+10 | Jonah | 109 | 109 | 0
+11 | Hud | 123 | 123 | 0
+12 | Joseph | 111 | 111 | 0
+13 | The Thunder | 43 | 43 | 0
+14 | Abraham | 52 | 52 | 0
+15 | The Rock City | 99 | 99 | 0
+16 | The Bee | 128 | 128 | 0
+17 | The Night Journey | 111 | 111 | 0
+18 | The Cave | 110 | 110 | 0
+19 | Mary | 98 | 98 | 0
+20 | Ta-Ha | 135 | 135 | 0
+21 | The Prophets | 112 | 112 | 0
+22 | The Pilgrimage | 78 | 78 | 0
+23 | The Believers | 118 | 118 | 0
+24 | The Light | 64 | 64 | 0
+25 | The Criterion | 77 | 77 | 0
+26 | The Poets | 227 | 227 | 0
+27 | The Ants | 93 | 93 | 0
+28 | The Narrations | 88 | 88 | 0
+29 | The Spider | 69 | 69 | 0
+30 | The Romans | 60 | 60 | 0
+31 | Luqman | 34 | 34 | 0
+32 | The Prostration | 30 | 30 | 0
+33 | The Allies | 73 | 73 | 0
+34 | Sheba | 54 | 54 | 0
+35 | The Originator | 45 | 45 | 0
+36 | Ya-Sin | 83 | 83 | 0
+37 | Those Ranked in Columns | 182 | 182 | 0
+38 | Sad | 88 | 88 | 0
+39 | The Throngs | 75 | 75 | 0
+40 | The Forgiver | 85 | 85 | 0
+41 | Detailed | 54 | 54 | 0
+42 | The Consultation | 53 | 53 | 0
+43 | The Ornaments of Gold | 89 | 89 | 0
+44 | The Smoke | 59 | 59 | 0
+45 | The Kneeling | 37 | 37 | 0
+46 | The Sand Dunes | 35 | 35 | 0
+47 | Muhammad | 38 | 38 | 0
+48 | The Victory | 29 | 29 | 0
+49 | The Chambers | 18 | 18 | 0
+50 | Qaf | 45 | 45 | 0
+51 | The Scattering Winds | 60 | 60 | 0
+52 | The Mount | 49 | 49 | 0
+53 | The Star | 62 | 62 | 0
+54 | The Moon | 55 | 55 | 0
+55 | The Beneficent | 78 | 78 | 0
+56 | The Inevitable | 96 | 96 | 0
+57 | The Iron | 29 | 29 | 0
+58 | The Pleading Woman | 22 | 22 | 0
+59 | The Exile | 24 | 24 | 0
+60 | The Examined One | 13 | 13 | 0
+61 | The Column | 14 | 14 | 0
+62 | The Congregation | 11 | 11 | 0
+63 | The Hypocrites | 11 | 11 | 0
+64 | The Mutual Loss | 18 | 18 | 0
+65 | The Divorce | 12 | 12 | 0
+66 | The Prohibition | 12 | 12 | 0
+67 | The Sovereignty | 30 | 30 | 0
+68 | The Pen | 52 | 52 | 0
+69 | The Inevitable Reality | 52 | 52 | 0
+70 | The Ways of Ascent | 44 | 44 | 0
+71 | Noah | 28 | 28 | 0
+72 | The Jinn | 28 | 28 | 0
+73 | The Enwrapped One | 20 | 20 | 0
+74 | The Cloaked One | 56 | 56 | 0
+75 | The Resurrection | 40 | 40 | 0
+76 | Man | 31 | 31 | 0
+77 | Those Sent Forth | 50 | 50 | 0
+78 | The Great News | 40 | 40 | 0
+79 | Those Who Extract | 46 | 46 | 0
+80 | He Frowned | 42 | 42 | 0
+81 | The Overthrowing | 29 | 29 | 0
+82 | The Cleaving | 19 | 19 | 0
+83 | The Defrauders | 36 | 36 | 0
+84 | The Splitting Open | 25 | 25 | 0
+85 | The Constellations | 22 | 22 | 0
+86 | The Nightcomer | 17 | 17 | 0
+87 | The Most High | 19 | 19 | 0
+88 | The Overwhelming | 26 | 26 | 0
+89 | The Dawn | 30 | 30 | 0
+90 | The City | 20 | 20 | 0
+91 | The Sun | 15 | 15 | 0
+92 | The Night | 21 | 21 | 0
+93 | The Morning Light | 11 | 11 | 0
+94 | The Expansion | 8 | 8 | 0
+95 | The Fig | 8 | 8 | 0
+96 | The Clot | 19 | 19 | 0
+97 | The Decree | 5 | 5 | 0
+98 | The Clear Evidence | 8 | 8 | 0
+99 | The Earthquake | 8 | 8 | 0
+100 | The Chargers | 11 | 11 | 0
+101 | The Striking Calamity | 11 | 11 | 0
+102 | Competition in Increase | 8 | 8 | 0
+103 | The Declining Day | 3 | 3 | 0
+104 | The Traducer | 9 | 9 | 0
+105 | The Elephant | 5 | 5 | 0
+106 | Quraysh | 4 | 4 | 0
+107 | The Neighborly Assistance | 7 | 7 | 0
+108 | The Abundance | 3 | 3 | 0
+109 | The Disbelievers | 6 | 6 | 0
+110 | The Support | 3 | 3 | 0
+111 | The Palm Fiber | 5 | 5 | 0
+112 | The Sincerity | 4 | 4 | 0
+113 | The Daybreak | 5 | 5 | 0
+114 | Mankind | 6 | 6 | 0
+
+SHA-256 of Quran_Recital_Tilford_ICELANDIC_DRAFT_FULL.txt:
+54787cd802e020cc77a64f9cde621d25cedb5df47b5bb42c60b5bed9eb8b78a9
+
+FILES
+1. Quran_Recital_Tilford_ICELANDIC_DRAFT_FULL.txt — UTF-8, one verse per line (S:V<TAB>Icelandic), surahs 1-114.
+2. Quran_Recital_Tilford_ICELANDIC_DRAFT_FULL.pdf — same verse text, body only (no hadith, no footnotes).
+3. MANIFEST.txt — this file.
+
+DRAFT NOTES FOR THE LIVING-ICELANDIC REVIEW
+- Single-pass draft; terminology follows the Tilford-voice glossary (Guð, Drottinn, trúaðir, ölmusa with no percentage).
+- 39:67: English source has the typo 'His righ'; rendered as 'His right hand' per obvious intent (flagged for the English-master review pile).
+- Source typos carried over faithfully and need review: 47:36 'this word' (likely 'world'), 5:65 'Scriputure', 23:110 'made then', 38:11 'with be defeated'.
+- Prostration markers, basmalahs (except 1:1), and the 5:6 translator note are not in the verse-line files (verses only, per spec).
+- Nothing was invented; no verse was marked complete that was not translated from the English source.

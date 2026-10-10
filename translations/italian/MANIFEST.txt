@@ -1,0 +1,5 @@
+AYAH COMPANION — ITALIAN MANUSCRIPT (Tilford Quran)
+Posted October 2, 2026 by order of Robert Tilford — REVIEW DRAFT, not a locked recital edition. Native review invited. This is NOT claimed as the first Italian Quran translation (acknowledging Bausani and Piccardo). It is Robert Tilford's Quran-alone recital from his corrected English.
+Manuscript: ayah-companion-manuscript-IT.md (2250260 bytes, SHA-256 64feac415dcd44c75378d936ee789b80d16d0135375a2e33d4399f6a1dda4e96)
+PDF: Ayah_Companion_Tilford_Italian_Manuscript.pdf (1826569 bytes, SHA-256 793fd30e6bc91ed968d0d516cf53014d131bb1cfe7c3a289ace77c2629fccdf1, 703 pages)
+Observations: OBSERVATIONS-IT.md

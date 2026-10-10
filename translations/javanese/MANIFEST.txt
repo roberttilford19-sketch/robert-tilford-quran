@@ -1,0 +1,38 @@
+AYAH COMPANION — JAVANESE (Basa Jawa, ISO jv) REVISION DRAFT
+Source: corrected English master ~/workspace/ayah-audit/corrected/ayah-companion-manuscript.md (never edited)
+Built: 2026-10-05 · Method: Quran-alone (terms defined by the Quran; zakat NO percentage — 0 "%" verified)
+Script: modern Latin · Register: respectful krama held steady (see STYLEGUIDE-JV.md)
+Status: REVISION DRAFT — native Javanese review REQUIRED before any use. NOT published/uploaded/emailed.
+No first-Javanese claim (Javanese Qurans exist in community use). AI assistance disclosed in front matter. Freely given.
+
+DELIVERABLES (size bytes · SHA-256)
+ayah-companion-manuscript-JV.md            2614421  89b7692aa0b248604b61f90d6ccae942306c206ff993b0820e3a4dda3965ec73
+Ayah_Companion_Tilford_Javanese_Manuscript.pdf 2048633  21fa4348fbf455930dd8110674706675a0fb1fff84c4792ccd308b29f68a0298
+OBSERVATIONS-JV.md                              4646  7afc5f714526b830f4f49b82ea6800b54b57b4de798fb19ff826a9eed0c81a2e
+STYLEGUIDE-JV.md                                3485  94a365dcb05c7d05fe202c93310fe2788536d173edc603bc1bb6d18c46e95a4f
+work/telemetry-jv.json                          1178  c9acf29c0e326b0a2e0f4b78fe57c6345031e3b99ee4a5050861edd3ea472fa0
+work/flags-jv.txt (803 lines)                 113315  b9e4a13c28dc4ab540ad592588c04fc00acbfac8bebb83ee38cd19c3b02fdec7
+work/verification-jv.json                       4400  5c684508a1892409241579b213de43b241b47095aa78bc7b022c68a9a8a8e1cd
+
+VERIFICATION SUMMARY (work/verify.py + PDF text layer)
+- 114 surah headers in order; exactly 6,236 verses; per-surah counts and continuity match master
+- Arabic 6,462 runs byte-identical to master segment; 112 Basmalah frames; 15 markers (11 recommended / 4 obligatory); 5:6 note present
+- Slice parity: 114/114 files, 0 ref mismatches, 0 paragraph ( ¶ ) mismatches; [MISSING] 0
+- English-leak scan: 3 hits, all false positives (Javanese was-was 7:2; name at-Tariq 86:1–2); true leftovers 0
+- Divine names (verse bodies): Gusti Allah 2,725 · Pangeran 970 (incl. compounds) · standalone Allah 3
+- PDF: 587 pages (A4); pdftotext verse-reference count exactly 6,236; 0 "%"
+
+TELEMETRY (verse bodies only; work/telemetry-jv.json)
+EN words 139,027 · JV words 137,092 · ratio 0.986 · JV chars 1,132,564 (1,001,175 excl. spaces)
+Mean words/verse EN 22.29 / JV 21.98 · Median EN 18 / JV 18
+Invariants: 114 / 6,236 / 6,462 / 112 / 15 (11+4) / 1 note · refs = master sequence
+
+TOP NATIVE-REVIEW RULINGS (detail: OBSERVATIONS-JV.md; flags: work/flags-jv.txt)
+1. Speech-level geometry: uniform krama; God = Panjenengan/Panjenenganipun; divine first person Ingsun vs human kawula; quoted low/mocking speech flattened — reviewer must rule.
+2. Allah/Gusti Allah/Pangeran boundary (incl. Pharaoh's "Pangeran" claim, 79:24).
+3. Fixed Basmalah: "Kanthi nyebut asmanipun Allah, Kang Mahamurah, Kang Mahaasih."
+4. 45:6 "message" → pawartos (neutral discourse word; Quran-alone load-bearing).
+5. Dutch loans naturalized in Javanese (potlot etc.) vs true leaks (0 remaining).
+6. Hanacaraka script: future edition question only — NOT used here.
+
+Nothing published, uploaded, emailed, or contacted. Master untouched.

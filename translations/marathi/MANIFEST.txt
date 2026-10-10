@@ -1,0 +1,39 @@
+AYAH COMPANION — MARATHI (ISO mr) REVISION DRAFT
+Source: corrected English master ~/workspace/ayah-audit/corrected/ayah-companion-manuscript.md (never edited)
+Built: 2026-10-05 · Method: Quran-alone (terms defined by the Quran; zakat NO percentage — 0 "%" verified)
+Script: Devanagari (LTR) throughout · Register: plain spoken Marathi (Sanskritized bookishness avoided, flagged where unavoidable)
+Status: REVISION DRAFT — native Marathi review REQUIRED before any use. NOT published/uploaded/emailed.
+No first-Marathi claim (Marathi Qurans exist in community use). AI assistance disclosed in front matter. Freely given.
+
+DELIVERABLES (size bytes · SHA-256)
+ayah-companion-manuscript-MR.md            3529273  d031a3a718a5c63511e563a32414cf5d1cf2ddf026dea08e066e9ec38c6f0aa0
+Ayah_Companion_Tilford_Marathi_Manuscript.pdf 1641697  957291bcda4020474d430fec18e0eb3ca61b4fe469d095cbfbc8364b6859596d
+OBSERVATIONS-MR.md                              7365  663f50c0e1bac0c012f9c0ab71c928af98a192239ac3d935ca38332aa4be5137
+STYLEGUIDE-MR.md                                5863  2bb4133ed46ef842a87c7c79f088ef9c2514a08ca191f63bb752a36b1469a404
+work/telemetry-mr.json                          1464  92720b53188a74e7e73ce0be522027d76adf0dcbd5d5c5cb424dc4bcd7e89877
+work/flags-mr.txt (759 lines)                 133861  b3caac34eea866bba7507dc6e5cf9a5208ea2daaccc3388de3eec8e450a37697
+work/verification-mr.json                       4076  d47478fabb29340589933628de7d34895bc33f34c70bb6bd8b00a7f6ead1923b
+
+VERIFICATION SUMMARY (work/verify.py + PDF text layer)
+- 114 surah headers in order; exactly 6,236 verses; per-surah counts and continuity match master
+- Arabic 6,462 runs byte-identical to master segment; fixed Basmalah ×114 (1:1 + 112 frames + 27:30); 15 markers (11 recommended / 4 obligatory); 5:6 note present
+- Slice parity: 114/114 files, 0 ref mismatches, 0 paragraph ( ¶ ) mismatches; [MISSING] 0
+- English-leak scan: 0 Latin letters in translated text; "%" 0
+- Divine names (verse bodies): अल्लाह 2,740 · प्रभू 982 (substring incl. compounds) · देवता 134 · देव-as-god 0 (bare-देव strings are only देवाणघेवाण/बहुदेववादी) · परमेश्वर 0 · यहोवा 0
+- PDF: 506 pages (A4); pdftotext verse-reference count exactly 6,236; Surah 1 (p.5) and Surah 2 (p.8) pages visually inspected — conjuncts/nuqta shaped, no tofu
+
+TELEMETRY (verse bodies only; work/telemetry-mr.json)
+EN words 139,027 · MR whitespace tokens 118,750 · ratio 0.854 · MR chars 765,724 (652,688 excl. spaces)
+Devanagari combining marks counted as individual code points (unit declared in telemetry file)
+Mean words/verse EN 22.29 / MR 19.04 · Median EN 18 / MR 16
+Invariants: 114 / 6,236 / 6,462 / 112 / 15 (11+4) / 1 note · refs = master sequence
+
+TOP NATIVE-REVIEW RULINGS (detail: OBSERVATIONS-MR.md; flags: work/flags-mr.txt)
+1. Allah/देव/प्रभू boundary: देवता held in the «त्याच्याशिवाय कोणताही देवता नाही» formula Quran-wide; देव-as-god 0, परमेश्वर/यहोवा 0 — reviewer picks the one permanent generic-god word.
+2. Respect geometry: God तू/तो, आपण never; Messenger-address तू (Surah 2 ranges) vs तुम्ही (33:51/59) — one Quran-wide ruling required.
+3. Register plainness: spoken line held; Sanskrit keepers (स्वर्ग/नरक/उपासना करणे/आत्मा; Holy Spirit verses 16:102 etc.) flagged for ruling.
+4. 45:6 "message" → संदेश (neutral), held across the whole message-class; top-priority Quran-alone ruling.
+5. जकात (19×, no percentage)/दान boundary; नमाज/प्रार्थना split.
+6. Ezekiel एझेकील; 6:86 इल्यास/Elisha seam; Surah 55 कृपा refrain pick; 112:2 Absolute-name phrase.
+
+Nothing published, uploaded, emailed, or contacted. Master untouched.

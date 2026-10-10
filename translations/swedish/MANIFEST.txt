@@ -1,0 +1,17 @@
+Item: ayah-companion-tilford-swedish-manuscript
+Title: Ayah Companion — SWEDISH (SVENSKA) MANUSCRIPT (Tilford Quran)
+Creator: Robert Tilford
+Created: 2026-10-05
+Status: SWEDISH MANUSCRIPT — REVISION DRAFT / REVISIONSUTKAST (not a final edition; not native-reviewed).
+Completeness: 114 surahs / 6,236 verses, Arabic preserved verse by verse, verified 2026-10-05 (counts, sequence, Arabic identity to corrected English master/meta, 15 prostration markers, 5:6 note, PDF 486 pages with 6,236 verse references).
+Rule: Quran alone; zakat carries no percentage (the Quran gives none). Prepared with AI assistance from the corrected English master. Nothing published, uploaded, emailed, posted, gifted, or contacted about.
+Claim boundary: no first-translation claim. Swedish Quran translations already exist (for example Mohammed Knut Bernström's Koranens budskap, 1998); this is a Quran-alone plain-language draft awaiting native Swedish review.
+
+Files (path, bytes, SHA-256):
+ayah-companion-manuscript-SV.md	2243115	f33c3fa9fec6c535a3c88a04293e42dcc39ad1cd80cfda5cc9c0334fe880635e
+Ayah_Companion_Tilford_Swedish_Manuscript.pdf	1783631	2558e6554087be435b4fe1fea726691ec093c00e79b180c2af0f4f36c9530113
+OBSERVATIONS-SV.md	8874	45e4e604f3174e64ba6941898251aa4983744900d3aadc0eed501bbd49a706d9
+STYLEGUIDE-SV.md	4869	57e9a324decf684b345b6404efbe7b8f5c243848e4dcf505461e8aa7032539f3
+work/titles-sv.json	2584	96e63bff2e6e982f4b5ec80e232a1602cca94c3962badc4857717702ff958c84
+work/verification-sv.json	5819	db4be6e1720b1c39182c7445b1f255ab70ea6baac6f7ca479fa8421ede205059
+work/flags-sv.txt	105711	ca67e3249b632aaee5d0322664613d8d6b01c948f74bfee7d5f6d6d2b56e8e5e

@@ -1,0 +1,39 @@
+AYAH COMPANION — TAMIL (ISO ta) REVISION DRAFT
+Source: corrected English master ~/workspace/ayah-audit/corrected/ayah-companion-manuscript.md (never edited)
+Built: 2026-10-05 · Method: Quran-alone (terms defined by the Quran; zakat NO percentage — 0 "%" verified)
+Script: Tamil (LTR) throughout · Register: plain spoken Tamil (Centamiḻ bookishness avoided, flagged where unavoidable)
+Status: REVISION DRAFT — native Tamil review REQUIRED before any use. NOT published/uploaded/emailed.
+No first-Tamil claim (Tamil Qurans exist in community use). AI assistance disclosed in front matter. Freely given.
+
+DELIVERABLES (size bytes · SHA-256)
+ayah-companion-manuscript-TA.md            3886979  0052b91ddc48785df38492cfc8ad590969f893e9953242d455e86bb3c7d4d99c
+Ayah_Companion_Tilford_Tamil_Manuscript.pdf 1844306  b2a88c6f463af306c3cf460d0f970e6da0d38739fb14c1477e3e802db21049fc
+OBSERVATIONS-TA.md                              8070  1a150973fdab227f9bde57c7f3e548a76bd24169668ce7041ea212845d50701c
+STYLEGUIDE-TA.md                                6198  aa222afa9599435875ff31d243a76ec7bf7ae11f2411d2bec4e0f647ac6407b7
+work/telemetry-ta.json                          1450  d54f27286a5e320d855e6bf55f7739398401638b4250854da21f7ff6c196cfda
+work/flags-ta.txt (801 lines)                 180706  8cf39ce3cd62e29d9562c3cfff088903df7f4b935cbf9c9f6774ac7c0314c28c
+work/verification-ta.json                       4109  9a6c22c19cfb0c6b2e9a525d0fc09f61cb4fc5f197d14f95f508d32573eefc32
+
+VERIFICATION SUMMARY (work/verify.py + PDF text layer)
+- 114 surah headers in order; exactly 6,236 verses; per-surah counts and continuity match master
+- Arabic 6,462 runs byte-identical to master segment; fixed Basmalah ×114 (1:1 + 112 frames + 27:30); 15 markers (11 recommended / 4 obligatory); 5:6 note present
+- Slice parity: 114/114 files, 0 ref mismatches, 0 paragraph ( ¶ ) mismatches; [MISSING] 0
+- English-leak scan: 0 Latin letters in translated text; "%" 0
+- Divine names (verse bodies): அல்லாஹ் 2,725 · ஆண்டவர்-stem 982 (EN "Lord" 969) · எஜமானர் 22 · கடவுள் 114 · இறைவன் 0 · யெகோவா 0
+- PDF: 654 pages (A4); pdftotext verse-reference count exactly 6,236; cover + Surah 1 (p.5) visually inspected — vowel signs/pullis shaped, no tofu
+
+TELEMETRY (verse bodies only; work/telemetry-ta.json)
+EN words 139,027 · TA whitespace tokens 91,822 · ratio 0.660 · TA chars 865,399 (779,348 excl. spaces)
+Tamil combining marks (vowel signs, pullis) counted as individual code points (unit declared in telemetry file)
+Mean words/verse EN 22.29 / TA 14.72 · Median EN 18 / TA 12
+Invariants: 114 / 6,236 / 6,462 / 112 / 15 (11+4) / 1 note · refs = master sequence
+
+TOP NATIVE-REVIEW RULINGS (detail: OBSERVATIONS-TA.md; flags: work/flags-ta.txt)
+1. Allah/கடவுள்/ஆண்டவர் boundary: கடவுள் never God's name (generic + «அவனைத் தவிர வேறு கடவுள் இல்லை» formula only); ஆண்டவர்-field held 982×; இறைவன்/யெகோவா 0 — reviewer owns the one permanent ruling.
+2. Respect geometry: God நீ/அவர்; Messenger-address and Pharaoh/Satan seams flagged — one Quran-wide ruling required.
+3. Register plainness: spoken line held; Sanskrit keepers (சொர்க்கம்/நரகம்/வணங்குதல்/ஆன்மா; நூல் vs வேதம் global ruling) flagged.
+4. 45:6 "message" → செய்தி (neutral), held across the whole message-class (183×); top-priority Quran-alone ruling.
+5. ஜகாத் (19×, no percentage)/தானம்-தர்மம் boundary; தொழுகை/வேண்டுதல் split.
+6. Ezekiel எசேக்கியேல்; 6:85–86 Elijah/Elisha seam; Surah 55 அற்புதங்கள் refrain pick; 112:2 முழுமையானவர்.
+
+Nothing published, uploaded, emailed, or contacted. Master untouched.
