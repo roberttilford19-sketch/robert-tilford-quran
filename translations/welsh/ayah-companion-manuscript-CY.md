@@ -3,8 +3,8 @@
 **Cyfieithiad Cymraeg cyfoes o ystyr y Qur'an**
 **A Contemporary Welsh Translation of the Meaning of the Quran**
 
-*Drafft adolygu — wedi'i seilio ar lawysgrif Saesneg gywiredig. Heb ei gyhoeddi.*
-*(Review draft — based on a corrected English manuscript. Unpublished.)*
+*Drafft adolygu — wedi'i gyfieithu o lawysgrif Saesneg gywiredig Robert Tilford. Heb ei gyhoeddi.*
+*(Review draft — translated from Robert Tilford's corrected English manuscript. Unpublished.)*
 
 ---
 
@@ -146,7 +146,7 @@
 - 108. Y Digonedd (Al-Kawthar) — 3 adnod
 - 109. Yr Anghredinwyr (Al-Kafirun) — 6 adnod
 - 110. Y Cymorth (An-Nasr) — 3 adnod
-- 111. Y Rhaff Balmwydd (Al-Masad) — 5 adnod
+- 111. Y Rhaff (Al-Masad) — 5 adnod
 - 112. Y Purdeb (Al-Ikhlas) — 4 adnod
 - 113. Gwawr y Dydd (Al-Falaq) — 5 adnod
 - 114. Y Bobl (An-Nas) — 6 adnod
@@ -157,7 +157,7 @@
 
 **ٱلْفَاتِحَة** · Al-Fatihah · Mecaidd · 7 adnod
 
-*Y saith adnod a ailadroddir yn fynych sy’n agor pob gweddi — mawl, arweiniad, a chyfamod ag Arglwydd y bydoedd.*
+*Y saith adnod a ailadroddir yn fynych sy'n agor pob gweddi — mawl, arweiniad, a chyfamod ag Arglwydd y bydoedd.*
 
 **1:1**  Yn enw Allah, y Daionus, y Trugarog.
 
@@ -175,11 +175,11 @@
 
 مَٰلِكِ يَوْمِ ٱلدِّينِ
 
-**1:5**  Ti yw’r un yr ydym yn ei addoli, ac arnat Ti yr ydym yn galw am gymorth.
+**1:5**  Ti yw'r un yr ydym yn ei addoli, ac arnat Ti yr ydym yn galw am gymorth.
 
 إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
 
-**1:6**  Arwain ni i’r llwybr union.
+**1:6**  Arwain ni i'r llwybr union.
 
 ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ
 
@@ -194,7 +194,7 @@
 
 **ٱلْبَقَرَة** · Al-Baqarah · Medinaidd · 286 adnod
 
-*Y bennod hiraf: cyfraith, hanes, ac Adnod yr Orsedd — cyfansoddiad i gymuned sy’n dysgu credu.*
+*Y bennod hiraf: cyfraith, hanes, ac Adnod yr Orsedd — cyfansoddiad i gymuned sy'n dysgu credu.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -204,23 +204,23 @@
 
 الٓمٓ
 
-**2:2**  Hwn yw’r Llyfr lle nad oes amheuaeth, yn arweiniad i’r cyfiawn.
+**2:2**  Hwn yw'r Llyfr lle nad oes amheuaeth, yn arweiniad i'r cyfiawn.
 
 ذَٰلِكَ ٱلْكِتَٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًۭى لِّلْمُتَّقِينَ
 
-**2:3**  Y rhai sy’n credu yn yr anweledig, ac yn cynnal y gweddïau, ac yn rhoi o’r hyn yr ydym wedi ei ddarparu iddynt.
+**2:3**  Y rhai sy'n credu yn yr anweledig, ac yn cynnal y gweddïau, ac yn rhoi o'r hyn yr ydym wedi ei ddarparu iddynt.
 
 ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ
 
-**2:4**  A’r rhai sy’n credu yn yr hyn a ddatguddiwyd i ti, ac yn yr hyn a ddatguddiwyd o’th flaen, ac sy’n sicr o’r Bywyd ar Ôl.
+**2:4**  A'r rhai sy'n credu yn yr hyn a ddatguddiwyd i ti, ac yn yr hyn a ddatguddiwyd o'th flaen, ac sy'n sicr o'r Bywyd ar Ôl.
 
 وَٱلَّذِينَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ وَبِٱلْءَاخِرَةِ هُمْ يُوقِنُونَ
 
-**2:5**  Y rhai hyn sydd ar arweiniad oddi wrth eu Harglwydd. Y rhai hyn yw’r llwyddiannus.
+**2:5**  Y rhai hyn sydd ar arweiniad oddi wrth eu Harglwydd. Y rhai hyn yw'r llwyddiannus.
 
 أُو۟لَٰٓئِكَ عَلَىٰ هُدًۭى مِّن رَّبِّهِمْ ۖ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
 
-**2:6**  O ran y rhai sy’n anghredu — mae’r un peth iddynt, p’un a wyt wedi eu rhybuddio, neu heb eu rhybuddio — nid ydynt yn credu.
+**2:6**  O ran y rhai sy'n anghredu — mae'r un peth iddynt, p'un a wyt wedi eu rhybuddio, neu heb eu rhybuddio — nid ydynt yn credu.
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ
 
@@ -228,11 +228,11 @@
 
 خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰٓ أَبْصَٰرِهِمْ غِشَٰوَةٌۭ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌۭ
 
-**2:8**  Ymhlith y bobl y mae rhai sy’n dweud, “Rydym yn credu yn Allah ac yn y Dydd Olaf,” ond nid credinwyr ydynt.
+**2:8**  Ymhlith y bobl y mae rhai sy'n dweud, "Rydym yn credu yn Allah ac yn y Dydd Olaf," ond nid credinwyr ydynt.
 
 وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ وَبِٱلْيَوْمِ ٱلْءَاخِرِ وَمَا هُم بِمُؤْمِنِينَ
 
-**2:9**  Maent yn ceisio twyllo Allah a’r rhai sy’n credu, ond nid ydynt yn twyllo neb ond nhw eu hunain, er nad ydynt yn ymwybodol.
+**2:9**  Maent yn ceisio twyllo Allah a'r rhai sy'n credu, ond nid ydynt yn twyllo neb ond nhw eu hunain, er nad ydynt yn ymwybodol.
 
 يُخَٰدِعُونَ ٱللَّهَ وَٱلَّذِينَ ءَامَنُوا۟ وَمَا يَخْدَعُونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ
 
@@ -240,31 +240,31 @@
 
 فِى قُلُوبِهِم مَّرَضٌۭ فَزَادَهُمُ ٱللَّهُ مَرَضًۭا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْذِبُونَ
 
-**2:11**  A phan ddywedir wrthynt, “Peidiwch â gwneud trafferth ar y ddaear,” maent yn dweud, “Diwygwyr yn unig ydym ni.”
+**2:11**  A phan ddywedir wrthynt, "Peidiwch â gwneud trafferth ar y ddaear," maent yn dweud, "Diwygwyr yn unig ydym ni."
 
 وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ قَالُوٓا۟ إِنَّمَا نَحْنُ مُصْلِحُونَ
 
-**2:12**  Yn wir, nhw yw’r trafferthwyr, ond nid ydynt yn ymwybodol.
+**2:12**  Yn wir, nhw yw'r trafferthwyr, ond nid ydynt yn ymwybodol.
 
 أَلَآ إِنَّهُمْ هُمُ ٱلْمُفْسِدُونَ وَلَٰكِن لَّا يَشْعُرُونَ
 
-**2:13**  A phan ddywedir wrthynt, “Credwch fel y mae’r bobl wedi credu,” maent yn dweud, “A gredwn ni fel y mae’r ffyliaid wedi credu?” Yn wir, nhw yw’r ffyliaid, ond nid ydynt yn gwybod.
+**2:13**  A phan ddywedir wrthynt, "Credwch fel y mae'r bobl wedi credu," maent yn dweud, "A gredwn ni fel y mae'r ffyliaid wedi credu?" Yn wir, nhw yw'r ffyliaid, ond nid ydynt yn gwybod.
 
 وَإِذَا قِيلَ لَهُمْ ءَامِنُوا۟ كَمَآ ءَامَنَ ٱلنَّاسُ قَالُوٓا۟ أَنُؤْمِنُ كَمَآ ءَامَنَ ٱلسُّفَهَآءُ ۗ أَلَآ إِنَّهُمْ هُمُ ٱلسُّفَهَآءُ وَلَٰكِن لَّا يَعْلَمُونَ
 
-**2:14**  A phan ddônt ar draws y rhai sy’n credu, maent yn dweud, “Rydym yn credu”; ond pan fyddant ar eu pen eu hunain gyda’u cythreuliaid, maent yn dweud, “Rydym gyda chi; gwawdio yn unig yr oeddem.”
+**2:14**  A phan ddônt ar draws y rhai sy'n credu, maent yn dweud, "Rydym yn credu"; ond pan fyddant ar eu pen eu hunain gyda'u cythreuliaid, maent yn dweud, "Rydym gyda chi; gwawdio yn unig yr oeddem."
 
 وَإِذَا لَقُوا۟ ٱلَّذِينَ ءَامَنُوا۟ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ إِلَىٰ شَيَٰطِينِهِمْ قَالُوٓا۟ إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ مُسْتَهْزِءُونَ
 
-**2:15**  Allah sy’n eu gwawdio nhw, ac yn eu gadael yn ddryslyd yn eu trosedd.
+**2:15**  Allah sy'n eu gwawdio nhw, ac yn eu gadael yn ddryslyd yn eu trosedd.
 
 ٱللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِى طُغْيَٰنِهِمْ يَعْمَهُونَ
 
-**2:16**  Y rhai hynny yw’r rhai sydd wedi cyfnewid cyfeiliorn am arweiniad; ond nid yw eu masnach yn elwa iddynt, ac nid ydynt wedi eu harwain.
+**2:16**  Y rhai hynny yw'r rhai sydd wedi cyfnewid cyfeiliorn am arweiniad; ond nid yw eu masnach yn elwa iddynt, ac nid ydynt wedi eu harwain.
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلضَّلَٰلَةَ بِٱلْهُدَىٰ فَمَا رَبِحَت تِّجَٰرَتُهُمْ وَمَا كَانُوا۟ مُهْتَدِينَ
 
-**2:17**  Eu cyffelybiaeth yw cyffelybiaeth rhywun a gynnauodd dân; pan oleuodd bopeth o’i gwmpas, cymerodd Allah eu goleuni oddi wrthynt, a’u gadael mewn tywyllwch, yn analluog i weld.
+**2:17**  Eu cyffelybiaeth yw cyffelybiaeth rhywun a gynnauodd dân; pan oleuodd bopeth o'i gwmpas, cymerodd Allah eu goleuni oddi wrthynt, a'u gadael mewn tywyllwch, yn analluog i weld.
 
 مَثَلُهُمْ كَمَثَلِ ٱلَّذِى ٱسْتَوْقَدَ نَارًۭا فَلَمَّآ أَضَآءَتْ مَا حَوْلَهُۥ ذَهَبَ ٱللَّهُ بِنُورِهِمْ وَتَرَكَهُمْ فِى ظُلُمَٰتٍۢ لَّا يُبْصِرُونَ
 
@@ -272,23 +272,23 @@
 
 صُمٌّۢ بُكْمٌ عُمْىٌۭ فَهُمْ لَا يَرْجِعُونَ
 
-**2:19**  Neu fel cawod o’r awyr, lle mae tywyllwch, a tharanau, a mellt. Maent yn pwyso eu bysedd yn eu clustiau rhag y taranfolltau, mewn ofn marwolaeth. Ond mae Allah yn amgylchu’r anghredinwyr.
+**2:19**  Neu fel cawod o'r awyr, lle mae tywyllwch, a tharanau, a mellt. Maent yn pwyso eu bysedd yn eu clustiau rhag y taranfolltau, mewn ofn marwolaeth. Ond mae Allah yn amgylchu'r anghredinwyr.
 
 أَوْ كَصَيِّبٍۢ مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَٰتٌۭ وَرَعْدٌۭ وَبَرْقٌۭ يَجْعَلُونَ أَصَٰبِعَهُمْ فِىٓ ءَاذَانِهِم مِّنَ ٱلصَّوَٰعِقِ حَذَرَ ٱلْمَوْتِ ۚ وَٱللَّهُ مُحِيطٌۢ بِٱلْكَٰفِرِينَ
 
-**2:20**  Mae’r mellt bron â chipio eu golwg oddi wrthynt. Pryd bynnag y mae’n goleuo iddynt, maent yn cerdded ynddo; ond pan fydd yn tywyllu drostynt, maent yn sefyll yn llonydd. Pe bai Allah wedi ewyllysio, gallai fod wedi cymryd eu clyw a’u golwg oddi wrthynt. Mae Allah yn abl i wneud popeth.
+**2:20**  Mae'r mellt bron â chipio eu golwg oddi wrthynt. Pryd bynnag y mae'n goleuo iddynt, maent yn cerdded ynddo; ond pan fydd yn tywyllu drostynt, maent yn sefyll yn llonydd. Pe bai Allah wedi ewyllysio, gallai fod wedi cymryd eu clyw a'u golwg oddi wrthynt. Mae Allah yn abl i wneud popeth.
 
 يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ ۖ كُلَّمَآ أَضَآءَ لَهُم مَّشَوْا۟ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُوا۟ ۚ وَلَوْ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**2:21**  O bobl! Addolwch eich Arglwydd a’ch creodd chi a’r rhai o’ch blaen, fel y gallech gyrraedd duwioldeb.
+**2:21**  O bobl! Addolwch eich Arglwydd a'ch creodd chi a'r rhai o'ch blaen, fel y gallech gyrraedd duwioldeb.
 
 يَٰٓأَيُّهَا ٱلنَّاسُ ٱعْبُدُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُمْ وَٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
 
-**2:22**  Yr hwn a wnaeth y ddaear yn gartref i chi, a’r awyr yn adeiladwaith, ac sy’n anfon dŵr i lawr o’r awyr, ac yn dwyn allan ffrwythau trwyddo, yn gynhaliaeth i chi. Felly, peidiwch â gosod cystadleuwyr i Allah tra byddwch yn gwybod.
+**2:22**  Yr hwn a wnaeth y ddaear yn gartref i chi, a'r awyr yn adeiladwaith, ac sy'n anfon dŵr i lawr o'r awyr, ac yn dwyn allan ffrwythau trwyddo, yn gynhaliaeth i chi. Felly, peidiwch â gosod cystadleuwyr i Allah tra byddwch yn gwybod.
 
 ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ فِرَٰشًۭا وَٱلسَّمَآءَ بِنَآءًۭ وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءًۭ فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًۭا لَّكُمْ ۖ فَلَا تَجْعَلُوا۟ لِلَّهِ أَندَادًۭا وَأَنتُمْ تَعْلَمُونَ
 
-**2:23**  Ac os ydych mewn amheuaeth ynghylch yr hyn yr ydym wedi ei ddatguddio i’n gwas, yna cynhyrchwch bennod fel y rhain, a galwch eich tystion ar wahân i Allah, os ydych yn wirioneddus.
+**2:23**  Ac os ydych mewn amheuaeth ynghylch yr hyn yr ydym wedi ei ddatguddio i'n gwas, yna cynhyrchwch bennod fel y rhain, a galwch eich tystion ar wahân i Allah, os ydych yn wirioneddus.
 
 وَإِن كُنتُمْ فِى رَيْبٍۢ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍۢ مِّن مِّثْلِهِۦ وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -296,15 +296,15 @@
 
 فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِى وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ ۖ أُعِدَّتْ لِلْكَٰفِرِينَ
 
-**2:25**  A rhowch newyddion da i’r rhai sy’n credu ac yn gwneud gweithredoedd cyfiawn; y bydd ganddynt erddi y mae afonydd yn llifo oddi tanynt. Pryd bynnag y darperir iddynt ffrwyth oddi yno yn gynhaliaeth, byddant yn dweud, “Dyma’r hyn a ddarparwyd i ni o’r blaen,” a rhoddir iddynt y tebyg iddo. A bydd ganddynt briodau pur ynddi, a byddant yn aros ynddi am byth.
+**2:25**  A rhowch newyddion da i'r rhai sy'n credu ac yn gwneud gweithredoedd cyfiawn; y bydd ganddynt erddi y mae afonydd yn llifo oddi tanynt. Pryd bynnag y darperir iddynt ffrwyth oddi yno yn gynhaliaeth, byddant yn dweud, "Dyma'r hyn a ddarparwyd i ni o'r blaen," a rhoddir iddynt y tebyg iddo. A bydd ganddynt briodau pur ynddi, a byddant yn aros ynddi am byth.
 
 وَبَشِّرِ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۖ كُلَّمَا رُزِقُوا۟ مِنْهَا مِن ثَمَرَةٍۢ رِّزْقًۭا ۙ قَالُوا۟ هَٰذَا ٱلَّذِى رُزِقْنَا مِن قَبْلُ ۖ وَأُتُوا۟ بِهِۦ مُتَشَٰبِهًۭا ۖ وَلَهُمْ فِيهَآ أَزْوَٰجٌۭ مُّطَهَّرَةٌۭ ۖ وَهُمْ فِيهَا خَٰلِدُونَ
 
-**2:26**  Nid yw Allah yn cilio rhag gwneud enghraifft o fosgito, neu rywbeth uwchlaw iddo. O ran y rhai sy’n credu, maent yn gwybod mai’r Gwirionedd oddi wrth eu Harglwydd ydyw. Ond o ran y rhai sy’n anghredu, maent yn dweud, “Beth a fwriadodd Allah wrth yr enghraifft hon?” Mae’n arwain llawer ar gyfeiliorn trwyddi, ac mae’n arwain llawer trwyddi; ond nid yw’n camarwain trwyddi ond y drwgweithredwyr.
+**2:26**  Nid yw Allah yn cilio rhag gwneud enghraifft o fosgito, neu rywbeth uwchlaw iddo. O ran y rhai sy'n credu, maent yn gwybod mai'r Gwirionedd oddi wrth eu Harglwydd ydyw. Ond o ran y rhai sy'n anghredu, maent yn dweud, "Beth a fwriadodd Allah wrth yr enghraifft hon?" Mae'n arwain llawer ar gyfeiliorn trwyddi, ac mae'n arwain llawer trwyddi; ond nid yw'n camarwain trwyddi ond y drwgweithredwyr.
 
 ۞ إِنَّ ٱللَّهَ لَا يَسْتَحْىِۦٓ أَن يَضْرِبَ مَثَلًۭا مَّا بَعُوضَةًۭ فَمَا فَوْقَهَا ۚ فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ فَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ ۖ وَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَيَقُولُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلًۭا ۘ يُضِلُّ بِهِۦ كَثِيرًۭا وَيَهْدِى بِهِۦ كَثِيرًۭا ۚ وَمَا يُضِلُّ بِهِۦٓ إِلَّا ٱلْفَٰسِقِينَ
 
-**2:27**  Y rhai sy’n torri cyfamod Allah ar ôl ei gadarnhad, ac yn torri’r hyn y mae Allah wedi gorchymyn ei uno, ac yn cyflawni drwg ar y ddaear. Y rhai hyn yw’r colledwyr.
+**2:27**  Y rhai sy'n torri cyfamod Allah ar ôl ei gadarnhad, ac yn torri'r hyn y mae Allah wedi gorchymyn ei uno, ac yn cyflawni drwg ar y ddaear. Y rhai hyn yw'r colledwyr.
 
 ٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِنۢ بَعْدِ مِيثَٰقِهِۦ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفْسِدُونَ فِى ٱلْأَرْضِ ۚ أُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ
 
@@ -312,47 +312,47 @@
 
 كَيْفَ تَكْفُرُونَ بِٱللَّهِ وَكُنتُمْ أَمْوَٰتًۭا فَأَحْيَٰكُمْ ۖ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ثُمَّ إِلَيْهِ تُرْجَعُونَ
 
-**2:29**  Ef yw’r hwn a greodd i chi bopeth ar y ddaear, yna a drodd at yr wybren, ac a’u gwnaeth yn saith wybren. Ac mae’n ymwybodol o bob peth.
+**2:29**  Ef yw'r hwn a greodd i chi bopeth ar y ddaear, yna a drodd at yr wybren, ac a'u gwnaeth yn saith wybren. Ac mae'n ymwybodol o bob peth.
 
 هُوَ ٱلَّذِى خَلَقَ لَكُم مَّا فِى ٱلْأَرْضِ جَمِيعًۭا ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ فَسَوَّىٰهُنَّ سَبْعَ سَمَٰوَٰتٍۢ ۚ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌۭ
 
-**2:30**  Pan ddywedodd dy Arglwydd wrth yr angylion, “Rwy’n gosod olynydd ar y ddaear.” Dywedasant, “A osodi di ynddi rywun a fydd yn achosi llygredd ynddi ac yn tywallt gwaed, tra yr ydym yn datgan dy foliant ac yn dy sancteiddio?” Dywedodd, “Rwy’n gwybod yr hyn nad ydych yn ei wybod.”
+**2:30**  Pan ddywedodd dy Arglwydd wrth yr angylion, "Rwy'n gosod olynydd ar y ddaear." Dywedasant, "A osodi di ynddi rywun a fydd yn achosi llygredd ynddi ac yn tywallt gwaed, tra yr ydym yn datgan dy foliant ac yn dy sancteiddio?" Dywedodd, "Rwy'n gwybod yr hyn nad ydych yn ei wybod."
 
 وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى جَاعِلٌۭ فِى ٱلْأَرْضِ خَلِيفَةًۭ ۖ قَالُوٓا۟ أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ ٱلدِّمَآءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ ۖ قَالَ إِنِّىٓ أَعْلَمُ مَا لَا تَعْلَمُونَ
 
-**2:31**  Ac fe ddysgodd i Adda yr enwau, pob un ohonynt; yna fe’u cyflwynodd i’r angylion, ac a ddywedodd, “Dywedwch wrthyf enwau’r rhain, os ydych yn ddiffuant.”
+**2:31**  Ac fe ddysgodd i Adda yr enwau, pob un ohonynt; yna fe'u cyflwynodd i'r angylion, ac a ddywedodd, "Dywedwch wrthyf enwau'r rhain, os ydych yn ddiffuant."
 
 وَعَلَّمَ ءَادَمَ ٱلْأَسْمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰٓئِكَةِ فَقَالَ أَنۢبِـُٔونِى بِأَسْمَآءِ هَٰٓؤُلَآءِ إِن كُنتُمْ صَٰدِقِينَ
 
-**2:32**  Dywedasant, “Gogoniant i Ti! Nid oes gennym wybodaeth ond yr hyn yr wyt wedi ei ddysgu i ni. Ti yw’r Hollwybodol, y Doeth.”
+**2:32**  Dywedasant, "Gogoniant i Ti! Nid oes gennym wybodaeth ond yr hyn yr wyt wedi ei ddysgu i ni. Ti yw'r Hollwybodol, y Doeth."
 
 قَالُوا۟ سُبْحَٰنَكَ لَا عِلْمَ لَنَآ إِلَّا مَا عَلَّمْتَنَآ ۖ إِنَّكَ أَنتَ ٱلْعَلِيمُ ٱلْحَكِيمُ
 
-**2:33**  Dywedodd, “O Adda, dywed wrthynt eu henwau.” A phan ddywedodd wrthynt eu henwau, dywedodd, “Oni ddywedais wrthych fy mod yn gwybod cyfrinachau’r nefoedd a’r ddaear, ac fy mod yn gwybod yr hyn yr ydych yn ei ddatguddio a’r hyn yr ydych yn ei guddio?”
+**2:33**  Dywedodd, "O Adda, dywed wrthynt eu henwau." A phan ddywedodd wrthynt eu henwau, dywedodd, "Oni ddywedais wrthych fy mod yn gwybod cyfrinachau'r nefoedd a'r ddaear, ac fy mod yn gwybod yr hyn yr ydych yn ei ddatguddio a'r hyn yr ydych yn ei guddio?"
 
 قَالَ يَٰٓـَٔادَمُ أَنۢبِئْهُم بِأَسْمَآئِهِمْ ۖ فَلَمَّآ أَنۢبَأَهُم بِأَسْمَآئِهِمْ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ غَيْبَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ
 
-**2:34**  A dywedasom wrth yr angylion, “Ymgrymwch i Adda.” Ymgrymasant, ac eithrio Satan. Gwrthododd, roedd yn falch, ac roedd yn un o’r anghredinwyr.
+**2:34**  A dywedasom wrth yr angylion, "Ymgrymwch i Adda." Ymgrymasant, ac eithrio Satan. Gwrthododd, roedd yn falch, ac roedd yn un o'r anghredinwyr.
 
 وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ وَٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَٰفِرِينَ
 
-**2:35**  Dywedasom, “O Adda, preswylia yn yr Ardd, ti a’th briod, a bwyta ohoni yn rhydd fel y mynnoch, ond peidiwch â nesáu at y goeden hon, rhag i chi ddod yn gamweddwyr.”
+**2:35**  Dywedasom, "O Adda, preswylia yn yr Ardd, ti a'th briod, a bwyta ohoni yn rhydd fel y mynnoch, ond peidiwch â nesáu at y goeden hon, rhag i chi ddod yn gamweddwyr."
 
 وَقُلْنَا يَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
 
-**2:36**  Ond achosodd Satan iddynt lithro oddi wrthi, ac achosodd iddynt ymadael â’r cyflwr yr oeddent ynddo. Dywedasom, “Ewch i lawr, rhai ohonoch yn elynion i’w gilydd. A bydd gennych breswylfa ar y ddaear, a mwynhad am ychydig.”
+**2:36**  Ond achosodd Satan iddynt lithro oddi wrthi, ac achosodd iddynt ymadael â'r cyflwr yr oeddent ynddo. Dywedasom, "Ewch i lawr, rhai ohonoch yn elynion i'w gilydd. A bydd gennych breswylfa ar y ddaear, a mwynhad am ychydig."
 
 فَأَزَلَّهُمَا ٱلشَّيْطَٰنُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ ۖ وَقُلْنَا ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّۭ ۖ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّۭ وَمَتَٰعٌ إِلَىٰ حِينٍۢ
 
-**2:37**  Yna derbyniodd Adda eiriau oddi wrth ei Arglwydd, felly trodd ato mewn edifeirwch. Ef yw’r Edifeiriol, y Trugarog.
+**2:37**  Yna derbyniodd Adda eiriau oddi wrth ei Arglwydd, felly trodd ato mewn edifeirwch. Ef yw'r Edifeiriol, y Trugarog.
 
 فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
-**2:38**  Dywedasom, “Ewch i lawr ohoni, bob un ohonoch. Eto pryd bynnag y daw arweiniad atoch oddi wrthyf, yna pwy bynnag sy’n dilyn fy arweiniad — nid oes ganddynt ddim i’w ofni, ac ni fyddant yn galaru.
+**2:38**  Dywedasom, "Ewch i lawr ohoni, bob un ohonoch. Eto pryd bynnag y daw arweiniad atoch oddi wrthyf, yna pwy bynnag sy'n dilyn fy arweiniad — nid oes ganddynt ddim i'w ofni, ac ni fyddant yn galaru.
 
 قُلْنَا ٱهْبِطُوا۟ مِنْهَا جَمِيعًۭا ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًۭى فَمَن تَبِعَ هُدَاىَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
-**2:39**  Ond o ran y rhai sy’n anghredu ac yn gwadu ein harwyddion — y rhain yw preswylwyr y Tân — lle byddant yn aros am byth.”
+**2:39**  Ond o ran y rhai sy'n anghredu ac yn gwadu ein harwyddion — y rhain yw preswylwyr y Tân — lle byddant yn aros am byth."
 
 وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
@@ -360,15 +360,15 @@
 
 يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَوْفُوا۟ بِعَهْدِىٓ أُوفِ بِعَهْدِكُمْ وَإِيَّٰىَ فَٱرْهَبُونِ
 
-**2:41**  A chredwch yn yr hyn a ddatguddiais, gan gadarnhau’r hyn sydd gyda chi; a pheidiwch â bod y cyntaf i’w wadu; a pheidiwch â chyfnewid fy natguddiadau am bris bach; a byddwch yn ymwybodol ohonof.
+**2:41**  A chredwch yn yr hyn a ddatguddiais, gan gadarnhau'r hyn sydd gyda chi; a pheidiwch â bod y cyntaf i'w wadu; a pheidiwch â chyfnewid fy natguddiadau am bris bach; a byddwch yn ymwybodol ohonof.
 
 وَءَامِنُوا۟ بِمَآ أَنزَلْتُ مُصَدِّقًۭا لِّمَا مَعَكُمْ وَلَا تَكُونُوٓا۟ أَوَّلَ كَافِرٍۭ بِهِۦ ۖ وَلَا تَشْتَرُوا۟ بِـَٔايَٰتِى ثَمَنًۭا قَلِيلًۭا وَإِيَّٰىَ فَٱتَّقُونِ
 
-**2:42**  A pheidiwch â chymysgu gwirionedd â chelwydd, a pheidiwch â chuddio’r gwirionedd tra byddwch yn gwybod.
+**2:42**  A pheidiwch â chymysgu gwirionedd â chelwydd, a pheidiwch â chuddio'r gwirionedd tra byddwch yn gwybod.
 
 وَلَا تَلْبِسُوا۟ ٱلْحَقَّ بِٱلْبَٰطِلِ وَتَكْتُمُوا۟ ٱلْحَقَّ وَأَنتُمْ تَعْلَمُونَ
 
-**2:43**  A mynychwch eich gweddïau, ac ymarferwch elusen reolaidd, a phlygwch gyda’r rhai sy’n plygu.
+**2:43**  A mynychwch eich gweddïau, ac ymarferwch elusen reolaidd, a phlygwch gyda'r rhai sy'n plygu.
 
 وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱرْكَعُوا۟ مَعَ ٱلرَّٰكِعِينَ
 
@@ -376,15 +376,15 @@
 
 ۞ أَتَأْمُرُونَ ٱلنَّاسَ بِٱلْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ تَتْلُونَ ٱلْكِتَٰبَ ۚ أَفَلَا تَعْقِلُونَ
 
-**2:45**  A cheisiwch gymorth trwy amynedd a gweddi. Ond mae’n anodd, ac eithrio i’r gostyngedig.
+**2:45**  A cheisiwch gymorth trwy amynedd a gweddi. Ond mae'n anodd, ac eithrio i'r gostyngedig.
 
 وَٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلْخَٰشِعِينَ
 
-**2:46**  Y rhai sy’n gwybod y byddant yn cyfarfod â’u Harglwydd, ac ato Ef y dychwelant.
+**2:46**  Y rhai sy'n gwybod y byddant yn cyfarfod â'u Harglwydd, ac ato Ef y dychwelant.
 
 ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟ رَبِّهِمْ وَأَنَّهُمْ إِلَيْهِ رَٰجِعُونَ
 
-**2:47**  O Blant Israel! Cofiwch fy ffafr a roddais i chi, a’m bod wedi eich ffafrio uwchlaw pob cenedl.
+**2:47**  O Blant Israel! Cofiwch fy ffafr a roddais i chi, a'm bod wedi eich ffafrio uwchlaw pob cenedl.
 
 يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَنِّى فَضَّلْتُكُمْ عَلَى ٱلْعَٰلَمِينَ
 
@@ -396,11 +396,11 @@
 
 وَإِذْ نَجَّيْنَٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ يُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌۭ مِّن رَّبِّكُمْ عَظِيمٌۭ
 
-**2:50**  A chofiwch i ni rannu’r môr i chi, felly achubasom chi, a boddasom bobl Ffaro tra oeddech yn edrych ymlaen.
+**2:50**  A chofiwch i ni rannu'r môr i chi, felly achubasom chi, a boddasom bobl Ffaro tra oeddech yn edrych ymlaen.
 
 وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَٰكُمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ وَأَنتُمْ تَنظُرُونَ
 
-**2:51**  A chofiwch i ni benodi ar gyfer Moses ddeugain nos. Yna cymerasoch i addoli’r llo ar ei ôl, a throesoch yn ddrygionus.
+**2:51**  A chofiwch i ni benodi ar gyfer Moses ddeugain nos. Yna cymerasoch i addoli'r llo ar ei ôl, a throesoch yn ddrygionus.
 
 وَإِذْ وَٰعَدْنَا مُوسَىٰٓ أَرْبَعِينَ لَيْلَةًۭ ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ ظَٰلِمُونَ
 
@@ -408,15 +408,15 @@
 
 ثُمَّ عَفَوْنَا عَنكُم مِّنۢ بَعْدِ ذَٰلِكَ لَعَلَّكُمْ تَشْكُرُونَ
 
-**2:53**  A chofiwch i ni roi i Moses yr Ysgrythur a’r Meini Prawf, fel y gallech gael eich arwain.
+**2:53**  A chofiwch i ni roi i Moses yr Ysgrythur a'r Meini Prawf, fel y gallech gael eich arwain.
 
 وَإِذْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ وَٱلْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ
 
-**2:54**  A chofiwch i Moses ddweud wrth ei bobl, “O fy mhobl, yr ydych wedi gwneud cam â’ch hunain trwy addoli’r llo. Felly edifarhewch i’ch Gwneuthurwr, a lladdwch eich hegoau. Byddai hynny’n well i chi gyda’ch Gwneuthurwr.” Felly trodd atoch mewn edifeirwch. Ef yw Derbynnydd Edifeirwch, y Trugarog.
+**2:54**  A chofiwch i Moses ddweud wrth ei bobl, "O fy mhobl, yr ydych wedi gwneud cam â'ch hunain trwy addoli'r llo. Felly edifarhewch i'ch Gwneuthurwr, a lladdwch eich hegoau. Byddai hynny'n well i chi gyda'ch Gwneuthurwr." Felly trodd atoch mewn edifeirwch. Ef yw Derbynnydd Edifeirwch, y Trugarog.
 
 وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلْعِجْلَ فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
-**2:55**  A chofiwch i chi ddweud, “O Moses, ni chredwn ynot oni welwn Allah yn eglur.” Ar hynny tarodd y daranfollt chi, tra oeddech yn edrych ymlaen.
+**2:55**  A chofiwch i chi ddweud, "O Moses, ni chredwn ynot oni welwn Allah yn eglur." Ar hynny tarodd y daranfollt chi, tra oeddech yn edrych ymlaen.
 
 وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نُّؤْمِنَ لَكَ حَتَّىٰ نَرَى ٱللَّهَ جَهْرَةًۭ فَأَخَذَتْكُمُ ٱلصَّٰعِقَةُ وَأَنتُمْ تَنظُرُونَ
 
@@ -424,31 +424,31 @@
 
 ثُمَّ بَعَثْنَٰكُم مِّنۢ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ
 
-**2:57**  A chysgodasom chi â chymylau, ac anfonasom i lawr i chi fanna a sofliar: “Bwytewch o’r pethau da yr ydym wedi eu darparu i chi.” Nid ydynt wedi gwneud cam â ni, ond yr oeddent yn arfer gwneud cam â’u heneidiau eu hunain.
+**2:57**  A chysgodasom chi â chymylau, ac anfonasom i lawr i chi fanna a sofliar: "Bwytewch o'r pethau da yr ydym wedi eu darparu i chi." Nid ydynt wedi gwneud cam â ni, ond yr oeddent yn arfer gwneud cam â'u heneidiau eu hunain.
 
 وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ ۖ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ ۖ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
 
-**2:58**  A chofiwch i ni ddweud, “Ewch i mewn i’r dref hon, a bwytewch yn helaeth ohoni beth bynnag y mynnoch; ond ewch i mewn trwy’r giât yn ostyngedig, a dywedwch, ‘Maddeuant.’ Byddwn yn maddau eich pechodau, ac yn rhoi cynnydd i’r rhinweddol.”
+**2:58**  A chofiwch i ni ddweud, "Ewch i mewn i'r dref hon, a bwytewch yn helaeth ohoni beth bynnag y mynnoch; ond ewch i mewn trwy'r giât yn ostyngedig, a dywedwch, 'Maddeuant.' Byddwn yn maddau eich pechodau, ac yn rhoi cynnydd i'r rhinweddol."
 
 وَإِذْ قُلْنَا ٱدْخُلُوا۟ هَٰذِهِ ٱلْقَرْيَةَ فَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ رَغَدًۭا وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًۭا وَقُولُوا۟ حِطَّةٌۭ نَّغْفِرْ لَكُمْ خَطَٰيَٰكُمْ ۚ وَسَنَزِيدُ ٱلْمُحْسِنِينَ
 
-**2:59**  Ond cyfnewidiodd y camweddwyr yn eu plith eiriau heblaw’r rhai a roddwyd iddynt, felly anfonasom i lawr ar y camweddwyr bla oddi wrth yr wybren, oherwydd eu hymddygiad drygionus.
+**2:59**  Ond cyfnewidiodd y camweddwyr yn eu plith eiriau heblaw'r rhai a roddwyd iddynt, felly anfonasom i lawr ar y camweddwyr bla oddi wrth yr wybren, oherwydd eu hymddygiad drygionus.
 
 فَبَدَّلَ ٱلَّذِينَ ظَلَمُوا۟ قَوْلًا غَيْرَ ٱلَّذِى قِيلَ لَهُمْ فَأَنزَلْنَا عَلَى ٱلَّذِينَ ظَلَمُوا۟ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ
 
-**2:60**  A chofiwch pan weddïodd Moses am ddŵr i’w bobl. Dywedasom, “Traw’r graig â’th ffon.” Ar hynny ffrydiodd deuddeg ffynnon ohoni, a chydnabu pob llwyth ei ddiodfa. “Bwytewch ac yfwch o ddarpariaeth Allah, a pheidiwch â llygru’r ddaear ag anufudd-dod.”
+**2:60**  A chofiwch pan weddïodd Moses am ddŵr i'w bobl. Dywedasom, "Traw'r graig â'th ffon." Ar hynny ffrydiodd deuddeg ffynnon ohoni, a chydnabu pob llwyth ei ddiodfa. "Bwytewch ac yfwch o ddarpariaeth Allah, a pheidiwch â llygru'r ddaear ag anufudd-dod."
 
 ۞ وَإِذِ ٱسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِۦ فَقُلْنَا ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ ۖ فَٱنفَجَرَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًۭا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍۢ مَّشْرَبَهُمْ ۖ كُلُوا۟ وَٱشْرَبُوا۟ مِن رِّزْقِ ٱللَّهِ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
 
-**2:61**  A chofiwch pan ddywedasoch, “O Moses, ni allwn ddioddef un math o fwyd, felly galw ar dy Arglwydd i gynhyrchu i ni o’r hyn y mae’r ddaear yn ei dyfu: o’i llysiau, a’i chiwcymbrau, a’i arlleg, a’i ffacbys, a’i winwns.” Dywedodd, “A gyfnewidiwch chi waeth am well? Ewch i lawr i’r Aifft, lle bydd gennych yr hyn a ofynasoch amdano.” Trawyd nhw â gwarth a thlodi, a chawsant ddigofaint oddi wrth Allah. Yr oedd hynny am iddynt wrthod datguddiadau Allah a lladd y proffwydi yn anghyfiawn. Yr oedd hynny am iddynt anufuddhau a throseddu.
+**2:61**  A chofiwch pan ddywedasoch, "O Moses, ni allwn ddioddef un math o fwyd, felly galw ar dy Arglwydd i gynhyrchu i ni o'r hyn y mae'r ddaear yn ei dyfu: o'i llysiau, a'i chiwcymbrau, a'i arlleg, a'i ffacbys, a'i winwns." Dywedodd, "A gyfnewidiwch chi waeth am well? Ewch i lawr i'r Aifft, lle bydd gennych yr hyn a ofynasoch amdano." Trawyd nhw â gwarth a thlodi, a chawsant ddigofaint oddi wrth Allah. Yr oedd hynny am iddynt wrthod datguddiadau Allah a lladd y proffwydi yn anghyfiawn. Yr oedd hynny am iddynt anufuddhau a throseddu.
 
 وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍۢ وَٰحِدٍۢ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا ۖ قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ۚ ٱهْبِطُوا۟ مِصْرًۭا فَإِنَّ لَكُم مَّا سَأَلْتُمْ ۗ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍۢ مِّنَ ٱللَّهِ ۗ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ بِغَيْرِ ٱلْحَقِّ ۗ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
 
-**2:62**  Y rhai sy’n credu, a’r rhai sy’n Iddewon, a’r Cristnogion, a’r Sabeaid — unrhyw un sy’n credu yn Allah a’r Dydd Olaf, ac yn gweithredu’n gyfiawn — bydd ganddynt eu gwobr gyda’u Harglwydd; nid oes ganddynt ddim i’w ofni, ac ni fyddant yn galaru.
+**2:62**  Y rhai sy'n credu, a'r rhai sy'n Iddewon, a'r Cristnogion, a'r Sabeaid — unrhyw un sy'n credu yn Allah a'r Dydd Olaf, ac yn gweithredu'n gyfiawn — bydd ganddynt eu gwobr gyda'u Harglwydd; nid oes ganddynt ddim i'w ofni, ac ni fyddant yn galaru.
 
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَعَمِلَ صَٰلِحًۭا فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
-**2:63**  A chofiwch pan dderbyniasom addewid oddi wrthych, a codasom y Mynydd uwch eich pen: “Cymerwch yr hyn yr ydym wedi ei roi i chi o ddifrif, a chofiwch yr hyn sydd ynddo, fel y gallech gyrraedd cyfiawnder.”
+**2:63**  A chofiwch pan dderbyniasom addewid oddi wrthych, a codasom y Mynydd uwch eich pen: "Cymerwch yr hyn yr ydym wedi ei roi i chi o ddifrif, a chofiwch yr hyn sydd ynddo, fel y gallech gyrraedd cyfiawnder."
 
 وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍۢ وَٱذْكُرُوا۟ مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ
 
@@ -456,111 +456,111 @@
 
 ثُمَّ تَوَلَّيْتُم مِّنۢ بَعْدِ ذَٰلِكَ ۖ فَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ لَكُنتُم مِّنَ ٱلْخَٰسِرِينَ
 
-**2:65**  Ac yn sicr gwyddoch y rhai ohonoch a dorrodd y Saboth. Dywedasom wrthynt, “Byddwch yn epaod dirmygus!”
+**2:65**  Ac yn sicr gwyddoch y rhai ohonoch a dorrodd y Saboth. Dywedasom wrthynt, "Byddwch yn epaod dirmygus!"
 
 وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَٰسِـِٔينَ
 
-**2:66**  Felly gwnaethom hi’n atalfa i’w cenhedlaeth nhw, ac i genedlaethau dilynol, ac yn wers i’r cyfiawn.
+**2:66**  Felly gwnaethom hi'n atalfa i'w cenhedlaeth nhw, ac i genedlaethau dilynol, ac yn wers i'r cyfiawn.
 
 فَجَعَلْنَٰهَا نَكَٰلًۭا لِّمَا بَيْنَ يَدَيْهَا وَمَا خَلْفَهَا وَمَوْعِظَةًۭ لِّلْمُتَّقِينَ
 
-**2:67**  A chofiwch pan ddywedodd Moses wrth ei bobl, “Mae Allah yn gorchymyn i chi aberthu anner.” Dywedasant, “A wyt yn gwneud ffars ohonom?” Dywedodd, “Na ato Allah i mi fod mor anwybodus.”
+**2:67**  A chofiwch pan ddywedodd Moses wrth ei bobl, "Mae Allah yn gorchymyn i chi aberthu anner." Dywedasant, "A wyt yn gwneud ffars ohonom?" Dywedodd, "Na ato Allah i mi fod mor anwybodus."
 
 وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦٓ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تَذْبَحُوا۟ بَقَرَةًۭ ۖ قَالُوٓا۟ أَتَتَّخِذُنَا هُزُوًۭا ۖ قَالَ أَعُوذُ بِٱللَّهِ أَنْ أَكُونَ مِنَ ٱلْجَٰهِلِينَ
 
-**2:68**  Dywedasant, “Galw ar dy Arglwydd i ddangos i ni pa un.” Dywedodd, “Mae’n dweud ei bod yn anner, nid yn rhy hen, nac yn rhy ifanc, ond rhyngddynt. Felly gwnewch yr hyn y’ch gorchmynnir.”
+**2:68**  Dywedasant, "Galw ar dy Arglwydd i ddangos i ni pa un." Dywedodd, "Mae'n dweud ei bod yn anner, nid yn rhy hen, nac yn rhy ifanc, ond rhyngddynt. Felly gwnewch yr hyn y'ch gorchmynnir."
 
 قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ ۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌۭ لَّا فَارِضٌۭ وَلَا بِكْرٌ عَوَانٌۢ بَيْنَ ذَٰلِكَ ۖ فَٱفْعَلُوا۟ مَا تُؤْمَرُونَ
 
-**2:69**  Dywedasant, “Galw ar dy Arglwydd i ddangos i ni beth yw ei lliw.” Dywedodd, “Mae’n dweud ei bod yn anner felen, yn llachar ei lliw, yn bleser i’r edrychwyr.”
+**2:69**  Dywedasant, "Galw ar dy Arglwydd i ddangos i ni beth yw ei lliw." Dywedodd, "Mae'n dweud ei bod yn anner felen, yn llachar ei lliw, yn bleser i'r edrychwyr."
 
 قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوْنُهَا ۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌۭ صَفْرَآءُ فَاقِعٌۭ لَّوْنُهَا تَسُرُّ ٱلنَّٰظِرِينَ
 
-**2:70**  Dywedasant, “Galw ar dy Arglwydd i ddangos i ni pa un; mae’r gwartheg yn edrych yr un fath i ni; ac os myn Allah, byddwn yn cael ein harwain.”
+**2:70**  Dywedasant, "Galw ar dy Arglwydd i ddangos i ni pa un; mae'r gwartheg yn edrych yr un fath i ni; ac os myn Allah, byddwn yn cael ein harwain."
 
 قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ إِنَّ ٱلْبَقَرَ تَشَٰبَهَ عَلَيْنَا وَإِنَّآ إِن شَآءَ ٱللَّهُ لَمُهْتَدُونَ
 
-**2:71**  Dywedodd, “Mae’n dweud ei bod yn anner, heb ei hieuo i aredig y ddaear, nac i ddyfrhau’r maes; yn iach heb nam.” Dywedasant, “Yn awr yr wyt wedi dwyn y gwirionedd.” Felly llasant hi; er eu bod bron heb wneud.
+**2:71**  Dywedodd, "Mae'n dweud ei bod yn anner, heb ei hieuo i aredig y ddaear, nac i ddyfrhau'r maes; yn iach heb nam." Dywedasant, "Yn awr yr wyt wedi dwyn y gwirionedd." Felly llasant hi; er eu bod bron heb wneud.
 
 قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌۭ لَّا ذَلُولٌۭ تُثِيرُ ٱلْأَرْضَ وَلَا تَسْقِى ٱلْحَرْثَ مُسَلَّمَةٌۭ لَّا شِيَةَ فِيهَا ۚ قَالُوا۟ ٱلْـَٰٔنَ جِئْتَ بِٱلْحَقِّ ۚ فَذَبَحُوهَا وَمَا كَادُوا۟ يَفْعَلُونَ
 
-**2:72**  A chofiwch pan laddasoch berson, ac ymryson yn y mater; ond yr oedd Allah i ddatguddio’r hyn yr oeddech yn ei guddio.
+**2:72**  A chofiwch pan laddasoch berson, ac ymryson yn y mater; ond yr oedd Allah i ddatguddio'r hyn yr oeddech yn ei guddio.
 
 وَإِذْ قَتَلْتُمْ نَفْسًۭا فَٱدَّٰرَْٰٔتُمْ فِيهَا ۖ وَٱللَّهُ مُخْرِجٌۭ مَّا كُنتُمْ تَكْتُمُونَ
 
-**2:73**  Dywedasom, “Trawch ef â rhan ohoni.” Felly mae Allah yn dwyn y meirw i fywyd; ac mae’n dangos i chi ei arwyddion, fel y gallech ddeall.
+**2:73**  Dywedasom, "Trawch ef â rhan ohoni." Felly mae Allah yn dwyn y meirw i fywyd; ac mae'n dangos i chi ei arwyddion, fel y gallech ddeall.
 
 فَقُلْنَا ٱضْرِبُوهُ بِبَعْضِهَا ۚ كَذَٰلِكَ يُحْىِ ٱللَّهُ ٱلْمَوْتَىٰ وَيُرِيكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
 
-**2:74**  Yna ar ôl hynny caledodd eich calonnau. Roeddent fel creigiau, neu hyd yn oed yn galetach. Oherwydd y mae rhai creigiau y mae afonydd yn ffrydio ohonynt, ac eraill sy’n hollti ac y mae dŵr yn dod allan ohonynt, ac eraill sy’n suddo mewn parchedig ofn o Allah. Nid yw Allah yn anymwybodol o’r hyn yr ydych yn ei wneud.
+**2:74**  Yna ar ôl hynny caledodd eich calonnau. Roeddent fel creigiau, neu hyd yn oed yn galetach. Oherwydd y mae rhai creigiau y mae afonydd yn ffrydio ohonynt, ac eraill sy'n hollti ac y mae dŵr yn dod allan ohonynt, ac eraill sy'n suddo mewn parchedig ofn o Allah. Nid yw Allah yn anymwybodol o'r hyn yr ydych yn ei wneud.
 
 ثُمَّ قَسَتْ قُلُوبُكُم مِّنۢ بَعْدِ ذَٰلِكَ فَهِىَ كَٱلْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةًۭ ۚ وَإِنَّ مِنَ ٱلْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ ٱلْأَنْهَٰرُ ۚ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ ٱلْمَآءُ ۚ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ ٱللَّهِ ۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ
 
-**2:75**  A ydych yn gobeithio y byddant yn credu ynoch, pan oedd rhai ohonynt yn arfer clywed Gair Allah, ac yna’n ei ystumio’n fwriadol, hyd yn oed ar ôl ei ddeall?
+**2:75**  A ydych yn gobeithio y byddant yn credu ynoch, pan oedd rhai ohonynt yn arfer clywed Gair Allah, ac yna'n ei ystumio'n fwriadol, hyd yn oed ar ôl ei ddeall?
 
 ۞ أَفَتَطْمَعُونَ أَن يُؤْمِنُوا۟ لَكُمْ وَقَدْ كَانَ فَرِيقٌۭ مِّنْهُمْ يَسْمَعُونَ كَلَٰمَ ٱللَّهِ ثُمَّ يُحَرِّفُونَهُۥ مِنۢ بَعْدِ مَا عَقَلُوهُ وَهُمْ يَعْلَمُونَ
 
-**2:76**  A phan ddônt ar draws y rhai sy’n credu, maent yn dweud, “Rydym yn credu,” ond pan ddônt at ei gilydd yn breifat, maent yn dweud, “A ddywedwch wrthynt yr hyn y mae Allah wedi ei ddatguddio i chi, fel y gallent ymryson â chi yn ei gylch gerbron eich Arglwydd?” Onid ydych yn deall?
+**2:76**  A phan ddônt ar draws y rhai sy'n credu, maent yn dweud, "Rydym yn credu," ond pan ddônt at ei gilydd yn breifat, maent yn dweud, "A ddywedwch wrthynt yr hyn y mae Allah wedi ei ddatguddio i chi, fel y gallent ymryson â chi yn ei gylch gerbron eich Arglwydd?" Onid ydych yn deall?
 
 وَإِذَا لَقُوا۟ ٱلَّذِينَ ءَامَنُوا۟ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَا بَعْضُهُمْ إِلَىٰ بَعْضٍۢ قَالُوٓا۟ أَتُحَدِّثُونَهُم بِمَا فَتَحَ ٱللَّهُ عَلَيْكُمْ لِيُحَآجُّوكُم بِهِۦ عِندَ رَبِّكُمْ ۚ أَفَلَا تَعْقِلُونَ
 
-**2:77**  Oni wyddant fod Allah yn gwybod yr hyn maent yn ei guddio a’r hyn maent yn ei ddatguddio?
+**2:77**  Oni wyddant fod Allah yn gwybod yr hyn maent yn ei guddio a'r hyn maent yn ei ddatguddio?
 
 أَوَلَا يَعْلَمُونَ أَنَّ ٱللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ
 
-**2:78**  Ac yn eu plith y mae rhai diaddysg sy’n adnabod yr Ysgrythur trwy glywed yn unig, a dim ond dyfalu y maent.
+**2:78**  Ac yn eu plith y mae rhai diaddysg sy'n adnabod yr Ysgrythur trwy glywed yn unig, a dim ond dyfalu y maent.
 
 وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ ٱلْكِتَٰبَ إِلَّآ أَمَانِىَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ
 
-**2:79**  Felly gwae’r rhai sy’n ysgrifennu’r Ysgrythur â’u dwylo eu hunain, ac yna’n dweud, “Hwn sydd oddi wrth Allah,” fel y gallent ei gyfnewid am bris bach. Gwae iddynt am yr hyn y mae eu dwylo wedi ei ysgrifennu, a gwae iddynt am yr hyn maent yn ei ennill.
+**2:79**  Felly gwae'r rhai sy'n ysgrifennu'r Ysgrythur â'u dwylo eu hunain, ac yna'n dweud, "Hwn sydd oddi wrth Allah," fel y gallent ei gyfnewid am bris bach. Gwae iddynt am yr hyn y mae eu dwylo wedi ei ysgrifennu, a gwae iddynt am yr hyn maent yn ei ennill.
 
 فَوَيْلٌۭ لِّلَّذِينَ يَكْتُبُونَ ٱلْكِتَٰبَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَٰذَا مِنْ عِندِ ٱللَّهِ لِيَشْتَرُوا۟ بِهِۦ ثَمَنًۭا قَلِيلًۭا ۖ فَوَيْلٌۭ لَّهُم مِّمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌۭ لَّهُم مِّمَّا يَكْسِبُونَ
 
-**2:80**  Ac maent yn dweud, “Ni chyffyrdd y Tân â ni ond am nifer o ddyddiau.” Dywed, “A ydych wedi derbyn addewid oddi wrth Allah — nid yw Allah byth yn torri ei addewid — neu a ydych yn dweud am Allah yr hyn nad ydych yn ei wybod?”
+**2:80**  Ac maent yn dweud, "Ni chyffyrdd y Tân â ni ond am nifer o ddyddiau." Dywed, "A ydych wedi derbyn addewid oddi wrth Allah — nid yw Allah byth yn torri ei addewid — neu a ydych yn dweud am Allah yr hyn nad ydych yn ei wybod?"
 
 وَقَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامًۭا مَّعْدُودَةًۭ ۚ قُلْ أَتَّخَذْتُمْ عِندَ ٱللَّهِ عَهْدًۭا فَلَن يُخْلِفَ ٱللَّهُ عَهْدَهُۥٓ ۖ أَمْ تَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ
 
-**2:81**  Yn wir, pwy bynnag sy’n cyflawni camweithredoedd, ac yn cael ei amgylchu gan ei anwireddau — y rhain yw preswylwyr y Tân, lle byddant yn trigo am byth.
+**2:81**  Yn wir, pwy bynnag sy'n cyflawni camweithredoedd, ac yn cael ei amgylchu gan ei anwireddau — y rhain yw preswylwyr y Tân, lle byddant yn trigo am byth.
 
 بَلَىٰ مَن كَسَبَ سَيِّئَةًۭ وَأَحَٰطَتْ بِهِۦ خَطِيٓـَٔتُهُۥ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
-**2:82**  O ran y rhai sy’n credu ac yn gwneud gweithredoedd cyfiawn — y rhain yw trigolion Paradwys, lle byddant yn trigo am byth.
+**2:82**  O ran y rhai sy'n credu ac yn gwneud gweithredoedd cyfiawn — y rhain yw trigolion Paradwys, lle byddant yn trigo am byth.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
-**2:83**  Gwnaethom gyfamod â Phlant Israel: “Addolwch neb ond Allah; a byddwch yn dda i rieni, a pherthnasau, ac amddifaid, a’r anghenus; a llefarwch yn garedig wrth bobl; a gweddïwch yn rheolaidd, a rhowch elusen.” Yna troesoch ymaith, ac eithrio ychydig ohonoch, gan wrthgilio.
+**2:83**  Gwnaethom gyfamod â Phlant Israel: "Addolwch neb ond Allah; a byddwch yn dda i rieni, a pherthnasau, ac amddifaid, a'r anghenus; a llefarwch yn garedig wrth bobl; a gweddïwch yn rheolaidd, a rhowch elusen." Yna troesoch ymaith, ac eithrio ychydig ohonoch, gan wrthgilio.
 
 وَإِذْ أَخَذْنَا مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ لَا تَعْبُدُونَ إِلَّا ٱللَّهَ وَبِٱلْوَٰلِدَيْنِ إِحْسَانًۭا وَذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَقُولُوا۟ لِلنَّاسِ حُسْنًۭا وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًۭا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ
 
-**2:84**  A gwnaethom gyfamod â chi: “Ni ollyngwch waed eich rhai eich hunain, ac ni yrruwch eich rhai eich hunain o’u cartrefi.” Cytunasoch, ac oeddech oll yn dystion.
+**2:84**  A gwnaethom gyfamod â chi: "Ni ollyngwch waed eich rhai eich hunain, ac ni yrruwch eich rhai eich hunain o'u cartrefi." Cytunasoch, ac oeddech oll yn dystion.
 
 وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ لَا تَسْفِكُونَ دِمَآءَكُمْ وَلَا تُخْرِجُونَ أَنفُسَكُم مِّن دِيَٰرِكُمْ ثُمَّ أَقْرَرْتُمْ وَأَنتُمْ تَشْهَدُونَ
 
-**2:85**  Ond dyma chi, yn lladd eich rhai eich hunain, ac yn gyrru grŵp o’ch rhai eich hunain o’u cartrefi — gan gynllwynio yn eu herbyn mewn camwedd a gelyniaeth. Ac os dônt atoch yn gaethweision, yr ydych yn eu prynu’n rhydd, er ei fod wedi ei wahardd i chi. Ai credu yr ydych mewn rhan o’r Ysgrythur, ac anghredu mewn rhan? Beth yw gwobr y rhai yn eich plith sy’n gwneud hynny ond gwarth yn y bywyd hwn? Ac ar Ddydd yr Atgyfodiad, neilltuir nhw i’r gosb fwyaf difrifol. Nid yw Allah yn anymwybodol o’r hyn yr ydych yn ei wneud.
+**2:85**  Ond dyma chi, yn lladd eich rhai eich hunain, ac yn gyrru grŵp o'ch rhai eich hunain o'u cartrefi — gan gynllwynio yn eu herbyn mewn camwedd a gelyniaeth. Ac os dônt atoch yn gaethweision, yr ydych yn eu prynu'n rhydd, er ei fod wedi ei wahardd i chi. Ai credu yr ydych mewn rhan o'r Ysgrythur, ac anghredu mewn rhan? Beth yw gwobr y rhai yn eich plith sy'n gwneud hynny ond gwarth yn y bywyd hwn? Ac ar Ddydd yr Atgyfodiad, neilltuir nhw i'r gosb fwyaf difrifol. Nid yw Allah yn anymwybodol o'r hyn yr ydych yn ei wneud.
 
 ثُمَّ أَنتُمْ هَٰٓؤُلَآءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًۭا مِّنكُم مِّن دِيَٰرِهِمْ تَظَٰهَرُونَ عَلَيْهِم بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَإِن يَأْتُوكُمْ أُسَٰرَىٰ تُفَٰدُوهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ ۚ أَفَتُؤْمِنُونَ بِبَعْضِ ٱلْكِتَٰبِ وَتَكْفُرُونَ بِبَعْضٍۢ ۚ فَمَا جَزَآءُ مَن يَفْعَلُ ذَٰلِكَ مِنكُمْ إِلَّا خِزْىٌۭ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَيَوْمَ ٱلْقِيَٰمَةِ يُرَدُّونَ إِلَىٰٓ أَشَدِّ ٱلْعَذَابِ ۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ
 
-**2:86**  Y rhai hynny yw’r rhai a brynodd y bywyd presennol am y Bywyd ar Ôl, felly ni leddfir y gosb iddynt, ac ni chânt eu helpu.
+**2:86**  Y rhai hynny yw'r rhai a brynodd y bywyd presennol am y Bywyd ar Ôl, felly ni leddfir y gosb iddynt, ac ni chânt eu helpu.
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْءَاخِرَةِ ۖ فَلَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنصَرُونَ
 
-**2:87**  Rhoesom i Moses yr Ysgrythur, ac anfonasom olyniaeth o genhadon ar ei ôl. A rhoesom i Iesu fab Mair y profion eglur, a chefnogasom ef â’r Ysbryd Glân. Ai pan ddaw cenhadwr atoch ag unrhyw beth nad yw eich eneidiau yn ei ddymuno, yr ydych yn ymfalchïo, gan alw rhai yn dwyllwyr, a lladd eraill?
+**2:87**  Rhoesom i Moses yr Ysgrythur, ac anfonasom olyniaeth o genhadon ar ei ôl. A rhoesom i Iesu fab Mair y profion eglur, a chefnogasom ef â'r Ysbryd Glân. Ai pan ddaw cenhadwr atoch ag unrhyw beth nad yw eich eneidiau yn ei ddymuno, yr ydych yn ymfalchïo, gan alw rhai yn dwyllwyr, a lladd eraill?
 
 وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ وَقَفَّيْنَا مِنۢ بَعْدِهِۦ بِٱلرُّسُلِ ۖ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَٰتِ وَأَيَّدْنَٰهُ بِرُوحِ ٱلْقُدُسِ ۗ أَفَكُلَّمَا جَآءَكُمْ رَسُولٌۢ بِمَا لَا تَهْوَىٰٓ أَنفُسُكُمُ ٱسْتَكْبَرْتُمْ فَفَرِيقًۭا كَذَّبْتُمْ وَفَرِيقًۭا تَقْتُلُونَ
 
-**2:88**  A dywedasant, “Mae ein calonnau wedi eu selio.” Yn hytrach, mae Allah wedi eu melltithio am eu hanghrediniaeth. Ychydig o ffydd sydd ganddynt.
+**2:88**  A dywedasant, "Mae ein calonnau wedi eu selio." Yn hytrach, mae Allah wedi eu melltithio am eu hanghrediniaeth. Ychydig o ffydd sydd ganddynt.
 
 وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ ۚ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًۭا مَّا يُؤْمِنُونَ
 
-**2:89**  A phan ddaeth ysgrythur atynt oddi wrth Allah, yn cadarnhau’r hyn sydd ganddynt — er eu bod o’r blaen yn ceisio buddugoliaeth yn erbyn y rhai a anghredodd — ond pan ddaeth atynt yr hyn a gydnabuant, anghredasant ynddo. Felly mae melltith Allah ar yr anghredinwyr.
+**2:89**  A phan ddaeth ysgrythur atynt oddi wrth Allah, yn cadarnhau'r hyn sydd ganddynt — er eu bod o'r blaen yn ceisio buddugoliaeth yn erbyn y rhai a anghredodd — ond pan ddaeth atynt yr hyn a gydnabuant, anghredasant ynddo. Felly mae melltith Allah ar yr anghredinwyr.
 
 وَلَمَّا جَآءَهُمْ كِتَٰبٌۭ مِّنْ عِندِ ٱللَّهِ مُصَدِّقٌۭ لِّمَا مَعَهُمْ وَكَانُوا۟ مِن قَبْلُ يَسْتَفْتِحُونَ عَلَى ٱلَّذِينَ كَفَرُوا۟ فَلَمَّا جَآءَهُم مَّا عَرَفُوا۟ كَفَرُوا۟ بِهِۦ ۚ فَلَعْنَةُ ٱللَّهِ عَلَى ٱلْكَٰفِرِينَ
 
-**2:90**  Trist yw’r hyn a werthasant eu heneidiau amdano — gan wrthod yr hyn y mae Allah wedi ei ddatguddio, o ddicter y byddai Allah yn anfon ei ras i lawr ar bwy bynnag a ddewiso o blith ei weision. Felly cawsant ddigofaint ar ddigofaint. Ac y mae cosb ddarostyngol i’r anghredinwyr.
+**2:90**  Trist yw'r hyn a werthasant eu heneidiau amdano — gan wrthod yr hyn y mae Allah wedi ei ddatguddio, o ddicter y byddai Allah yn anfon ei ras i lawr ar bwy bynnag a ddewiso o blith ei weision. Felly cawsant ddigofaint ar ddigofaint. Ac y mae cosb ddarostyngol i'r anghredinwyr.
 
 بِئْسَمَا ٱشْتَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ أَن يَكْفُرُوا۟ بِمَآ أَنزَلَ ٱللَّهُ بَغْيًا أَن يُنَزِّلَ ٱللَّهُ مِن فَضْلِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ فَبَآءُو بِغَضَبٍ عَلَىٰ غَضَبٍۢ ۚ وَلِلْكَٰفِرِينَ عَذَابٌۭ مُّهِينٌۭ
 
-**2:91**  A phan ddywedir wrthynt, “Credwch yn yr hyn y mae Allah wedi ei ddatguddio,” maent yn dweud, “Rydym yn credu yn yr hyn a ddatguddiwyd i ni,” ac maent yn gwrthod unrhyw beth y tu hwnt i hynny, er mai dyma’r gwirionedd sy’n cadarnhau’r hyn sydd ganddynt. Dywed, “Pam y lladdasoch broffwydi Allah o’r blaen, os oeddech yn gredinwyr?”
+**2:91**  A phan ddywedir wrthynt, "Credwch yn yr hyn y mae Allah wedi ei ddatguddio," maent yn dweud, "Rydym yn credu yn yr hyn a ddatguddiwyd i ni," ac maent yn gwrthod unrhyw beth y tu hwnt i hynny, er mai dyma'r gwirionedd sy'n cadarnhau'r hyn sydd ganddynt. Dywed, "Pam y lladdasoch broffwydi Allah o'r blaen, os oeddech yn gredinwyr?"
 
 وَإِذَا قِيلَ لَهُمْ ءَامِنُوا۟ بِمَآ أَنزَلَ ٱللَّهُ قَالُوا۟ نُؤْمِنُ بِمَآ أُنزِلَ عَلَيْنَا وَيَكْفُرُونَ بِمَا وَرَآءَهُۥ وَهُوَ ٱلْحَقُّ مُصَدِّقًۭا لِّمَا مَعَهُمْ ۗ قُلْ فَلِمَ تَقْتُلُونَ أَنۢبِيَآءَ ٱللَّهِ مِن قَبْلُ إِن كُنتُم مُّؤْمِنِينَ
 
@@ -568,27 +568,27 @@
 
 ۞ وَلَقَدْ جَآءَكُم مُّوسَىٰ بِٱلْبَيِّنَٰتِ ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ ظَٰلِمُونَ
 
-**2:93**  A gwnaethom gyfamod â chi, a chodasom y Mynydd uwch eich pen: “Cymerwch yr hyn yr ydym wedi ei roi i chi yn gadarn, a gwrandewch.” Dywedasant, “Rydym yn clywed ac yn anufuddhau.” A llenwyd eu calonnau â chariad y llo oherwydd eu hanghrediniaeth. Dywed, “Truenus yw’r hyn y mae eich ffydd yn eich gorchymyn i’w wneud, os ydych yn gredinwyr.”
+**2:93**  A gwnaethom gyfamod â chi, a chodasom y Mynydd uwch eich pen: "Cymerwch yr hyn yr ydym wedi ei roi i chi yn gadarn, a gwrandewch." Dywedasant, "Rydym yn clywed ac yn anufuddhau." A llenwyd eu calonnau â chariad y llo oherwydd eu hanghrediniaeth. Dywed, "Truenus yw'r hyn y mae eich ffydd yn eich gorchymyn i'w wneud, os ydych yn gredinwyr."
 
 وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍۢ وَٱسْمَعُوا۟ ۖ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ ۚ قُلْ بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ
 
-**2:94**  Dywed, “Os mai’r Cartref Olaf gydag Allah yw eich un chi yn unig, gan eithrio pawb arall o bobl, yna dymunwch farwolaeth os ydych yn ddiffuant.”
+**2:94**  Dywed, "Os mai'r Cartref Olaf gydag Allah yw eich un chi yn unig, gan eithrio pawb arall o bobl, yna dymunwch farwolaeth os ydych yn ddiffuant."
 
 قُلْ إِن كَانَتْ لَكُمُ ٱلدَّارُ ٱلْءَاخِرَةُ عِندَ ٱللَّهِ خَالِصَةًۭ مِّن دُونِ ٱلنَّاسِ فَتَمَنَّوُا۟ ٱلْمَوْتَ إِن كُنتُمْ صَٰدِقِينَ
 
-**2:95**  Ond ni ddymunant fyth amdani, oherwydd yr hyn y mae eu dwylo wedi ei anfon ymlaen. Mae Allah yn ymwybodol o’r camweddwyr.
+**2:95**  Ond ni ddymunant fyth amdani, oherwydd yr hyn y mae eu dwylo wedi ei anfon ymlaen. Mae Allah yn ymwybodol o'r camweddwyr.
 
 وَلَن يَتَمَنَّوْهُ أَبَدًۢا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّٰلِمِينَ
 
-**2:96**  Cewch nhw, o blith yr holl ddynolryw, y mwyaf awyddus am fywyd, hyd yn oed yn fwy na’r amldduwwyr. Mae pob un ohonynt yn dymuno y gallai fyw fil o flynyddoedd; ond ni fydd cael bywyd hir yn ei symud oddi wrth y gosb. Mae Allah yn Gweld yr hyn maent yn ei wneud.
+**2:96**  Cewch nhw, o blith yr holl ddynolryw, y mwyaf awyddus am fywyd, hyd yn oed yn fwy na'r amldduwwyr. Mae pob un ohonynt yn dymuno y gallai fyw fil o flynyddoedd; ond ni fydd cael bywyd hir yn ei symud oddi wrth y gosb. Mae Allah yn Gweld yr hyn maent yn ei wneud.
 
 وَلَتَجِدَنَّهُمْ أَحْرَصَ ٱلنَّاسِ عَلَىٰ حَيَوٰةٍۢ وَمِنَ ٱلَّذِينَ أَشْرَكُوا۟ ۚ يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍۢ وَمَا هُوَ بِمُزَحْزِحِهِۦ مِنَ ٱلْعَذَابِ أَن يُعَمَّرَ ۗ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ
 
-**2:97**  Dywed, “Pwy bynnag sy’n elyniaethus i Gabriel — ef yw’r hwn a’i datguddiodd i’th galon trwy ganiatâd Allah, gan gadarnhau’r hyn a’i rhagflaenodd, ac yn arweiniad a newyddion da i’r credinwyr.”
+**2:97**  Dywed, "Pwy bynnag sy'n elyniaethus i Gabriel — ef yw'r hwn a'i datguddiodd i'th galon trwy ganiatâd Allah, gan gadarnhau'r hyn a'i rhagflaenodd, ac yn arweiniad a newyddion da i'r credinwyr."
 
 قُلْ مَن كَانَ عَدُوًّۭا لِّجِبْرِيلَ فَإِنَّهُۥ نَزَّلَهُۥ عَلَىٰ قَلْبِكَ بِإِذْنِ ٱللَّهِ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ وَهُدًۭى وَبُشْرَىٰ لِلْمُؤْمِنِينَ
 
-**2:98**  Pwy bynnag sy’n elyniaethus i Allah, a’i angylion, a’i genhadon, a Gabriel, a Michael — mae Allah yn elyniaethus i’r diffydd.
+**2:98**  Pwy bynnag sy'n elyniaethus i Allah, a'i angylion, a'i genhadon, a Gabriel, a Michael — mae Allah yn elyniaethus i'r diffydd.
 
 مَن كَانَ عَدُوًّۭا لِّلَّهِ وَمَلَٰٓئِكَتِهِۦ وَرُسُلِهِۦ وَجِبْرِيلَ وَمِيكَىٰلَ فَإِنَّ ٱللَّهَ عَدُوٌّۭ لِّلْكَٰفِرِينَ
 
@@ -596,43 +596,43 @@
 
 وَلَقَدْ أَنزَلْنَآ إِلَيْكَ ءَايَٰتٍۭ بَيِّنَٰتٍۢ ۖ وَمَا يَكْفُرُ بِهَآ إِلَّا ٱلْفَٰسِقُونَ
 
-**2:100**  Onid pan fyddant yn gwneud cyfamod, y mae rhai ohonynt yn ei daflu o’r neilltu? Yn wir, nid yw’r rhan fwyaf ohonynt yn credu.
+**2:100**  Onid pan fyddant yn gwneud cyfamod, y mae rhai ohonynt yn ei daflu o'r neilltu? Yn wir, nid yw'r rhan fwyaf ohonynt yn credu.
 
 أَوَكُلَّمَا عَٰهَدُوا۟ عَهْدًۭا نَّبَذَهُۥ فَرِيقٌۭ مِّنْهُم ۚ بَلْ أَكْثَرُهُمْ لَا يُؤْمِنُونَ
 
-**2:101**  A phan ddaeth atynt genhadwr oddi wrth Allah, yn cadarnhau’r hyn oedd ganddynt, taflodd garfan o’r rhai y rhoddwyd y Llyfr iddynt Lyfr Allah y tu ôl i’w cefnau, fel pe na byddent yn gwybod.
+**2:101**  A phan ddaeth atynt genhadwr oddi wrth Allah, yn cadarnhau'r hyn oedd ganddynt, taflodd garfan o'r rhai y rhoddwyd y Llyfr iddynt Lyfr Allah y tu ôl i'w cefnau, fel pe na byddent yn gwybod.
 
 وَلَمَّا جَآءَهُمْ رَسُولٌۭ مِّنْ عِندِ ٱللَّهِ مُصَدِّقٌۭ لِّمَا مَعَهُمْ نَبَذَ فَرِيقٌۭ مِّنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ كِتَٰبَ ٱللَّهِ وَرَآءَ ظُهُورِهِمْ كَأَنَّهُمْ لَا يَعْلَمُونَ
 
-**2:102**  A dilynasant yr hyn a ddysgodd y cythreuliaid yn ystod teyrnasiad Solomon. Nid Solomon a anghredodd, ond y cythreuliaid a anghredodd. Dysgasant i’r bobl ddewiniaeth a’r hyn a ddatguddiwyd yn Babilon i’r ddau angel Harut a Marut. Ni ddysgasant neb nes iddynt ddweud, “Prawf ydym ni, felly paid â cholli ffydd.” Ond dysgasant ganddynt y modd i achosi gwahaniad rhwng dyn a’i wraig. Ond ni allant niweidio neb ond trwy ganiatâd Allah. A dysgasant yr hyn a’u niweidiai ac na’u buddiai. Eto gwyddent na fydd gan bwy bynnag sy’n delio ynddo gyfran yn y Bywyd ar Ôl. Trist yw’r hyn a werthasant eu heneidiau amdano, pe baent ond yn gwybod.
+**2:102**  A dilynasant yr hyn a ddysgodd y cythreuliaid yn ystod teyrnasiad Solomon. Nid Solomon a anghredodd, ond y cythreuliaid a anghredodd. Dysgasant i'r bobl ddewiniaeth a'r hyn a ddatguddiwyd yn Babilon i'r ddau angel Harut a Marut. Ni ddysgasant neb nes iddynt ddweud, "Prawf ydym ni, felly paid â cholli ffydd." Ond dysgasant ganddynt y modd i achosi gwahaniad rhwng dyn a'i wraig. Ond ni allant niweidio neb ond trwy ganiatâd Allah. A dysgasant yr hyn a'u niweidiai ac na'u buddiai. Eto gwyddent na fydd gan bwy bynnag sy'n delio ynddo gyfran yn y Bywyd ar Ôl. Trist yw'r hyn a werthasant eu heneidiau amdano, pe baent ond yn gwybod.
 
 وَٱتَّبَعُوا۟ مَا تَتْلُوا۟ ٱلشَّيَٰطِينُ عَلَىٰ مُلْكِ سُلَيْمَٰنَ ۖ وَمَا كَفَرَ سُلَيْمَٰنُ وَلَٰكِنَّ ٱلشَّيَٰطِينَ كَفَرُوا۟ يُعَلِّمُونَ ٱلنَّاسَ ٱلسِّحْرَ وَمَآ أُنزِلَ عَلَى ٱلْمَلَكَيْنِ بِبَابِلَ هَٰرُوتَ وَمَٰرُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَآ إِنَّمَا نَحْنُ فِتْنَةٌۭ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِۦ بَيْنَ ٱلْمَرْءِ وَزَوْجِهِۦ ۚ وَمَا هُم بِضَآرِّينَ بِهِۦ مِنْ أَحَدٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا۟ لَمَنِ ٱشْتَرَىٰهُ مَا لَهُۥ فِى ٱلْءَاخِرَةِ مِنْ خَلَٰقٍۢ ۚ وَلَبِئْسَ مَا شَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ
 
-**2:103**  Pe baent wedi credu a bod yn gyfiawn, byddai’r wobr oddi wrth Allah wedi bod yn well, pe baent ond yn gwybod.
+**2:103**  Pe baent wedi credu a bod yn gyfiawn, byddai'r wobr oddi wrth Allah wedi bod yn well, pe baent ond yn gwybod.
 
 وَلَوْ أَنَّهُمْ ءَامَنُوا۟ وَٱتَّقَوْا۟ لَمَثُوبَةٌۭ مِّنْ عِندِ ٱللَّهِ خَيْرٌۭ ۖ لَّوْ كَانُوا۟ يَعْلَمُونَ
 
-**2:104**  O chi sy’n credu! Peidiwch â dweud geiriau amwys, ond dywedwch eiriau parch, a gwrandewch. Bydd gan yr anghredinwyr gosb boenus.
+**2:104**  O chi sy'n credu! Peidiwch â dweud geiriau amwys, ond dywedwch eiriau parch, a gwrandewch. Bydd gan yr anghredinwyr gosb boenus.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقُولُوا۟ رَٰعِنَا وَقُولُوا۟ ٱنظُرْنَا وَٱسْمَعُوا۟ ۗ وَلِلْكَٰفِرِينَ عَذَابٌ أَلِيمٌۭ
 
-**2:105**  Nid yw byth yn ddymuniad yr anghredinwyr o blith Pobl y Llyfr, nac o’r amldduwwyr, y dylid anfon unrhyw ddaioni i lawr atoch oddi wrth eich Arglwydd. Ond mae Allah yn dewis ar gyfer ei drugaredd bwy bynnag a fyn. Mae Allah yn Berchen ar Ras Ardderchog.
+**2:105**  Nid yw byth yn ddymuniad yr anghredinwyr o blith Pobl y Llyfr, nac o'r amldduwwyr, y dylid anfon unrhyw ddaioni i lawr atoch oddi wrth eich Arglwydd. Ond mae Allah yn dewis ar gyfer ei drugaredd bwy bynnag a fyn. Mae Allah yn Berchen ar Ras Ardderchog.
 
 مَّا يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ وَلَا ٱلْمُشْرِكِينَ أَن يُنَزَّلَ عَلَيْكُم مِّنْ خَيْرٍۢ مِّن رَّبِّكُمْ ۗ وَٱللَّهُ يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
 
-**2:106**  Ni ddiddymwn adnod byth, nac yn peri iddi gael ei hanghofio, oni ddygwn un well na hi, neu debyg iddi. Onid wyt yn gwybod fod Allah yn abl i wneud pob peth?
+**2:106**  Ni ddiddymwn arwydd, nac yn peri iddo gael ei hanghofio, oni ddygwn un well nag ef, neu debyg iddo. Onid wyt yn gwybod fod Allah yn abl i wneud pob peth?
 
 ۞ مَا نَنسَخْ مِنْ ءَايَةٍ أَوْ نُنسِهَا نَأْتِ بِخَيْرٍۢ مِّنْهَآ أَوْ مِثْلِهَآ ۗ أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ
 
-**2:107**  Onid wyt yn gwybod mai i Allah y perthyn sofraniaeth y nefoedd a’r ddaear, ac nad oes gennych ar wahân i Allah warcheidwad na chynorthwyydd?
+**2:107**  Onid wyt yn gwybod mai i Allah y perthyn sofraniaeth y nefoedd a'r ddaear, ac nad oes gennych ar wahân i Allah warcheidwad na chynorthwyydd?
 
 أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۗ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّۢ وَلَا نَصِيرٍ
 
-**2:108**  Neu a ydych am holi eich Cenhadwr fel y holwyd Moses o’r blaen? Pwy bynnag sy’n cyfnewid ffydd am anghrediniaeth sydd wedi crwydro oddi ar y llwybr iawn.
+**2:108**  Neu a ydych am holi eich Cenhadwr fel y holwyd Moses o'r blaen? Pwy bynnag sy'n cyfnewid ffydd am anghrediniaeth sydd wedi crwydro oddi ar y llwybr iawn.
 
 أَمْ تُرِيدُونَ أَن تَسْـَٔلُوا۟ رَسُولَكُمْ كَمَا سُئِلَ مُوسَىٰ مِن قَبْلُ ۗ وَمَن يَتَبَدَّلِ ٱلْكُفْرَ بِٱلْإِيمَٰنِ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
 
-**2:109**  Mae llawer o Bobl y Llyfr yn dymuno eich troi yn ôl yn anghredinwyr ar ôl i chi gredu, o eiddigedd ar eu rhan nhw, ar ôl i’r Gwirionedd ddod yn eglur iddynt. Ond maddeuwch ac edrychwch heibio, nes i Allah ddwyn ei orchymyn. Mae gan Allah allu dros bob peth.
+**2:109**  Mae llawer o Bobl y Llyfr yn dymuno eich troi yn ôl yn anghredinwyr ar ôl i chi gredu, o eiddigedd ar eu rhan nhw, ar ôl i'r Gwirionedd ddod yn eglur iddynt. Ond maddeuwch ac edrychwch heibio, nes i Allah ddwyn ei orchymyn. Mae gan Allah allu dros bob peth.
 
 وَدَّ كَثِيرٌۭ مِّنْ أَهْلِ ٱلْكِتَٰبِ لَوْ يَرُدُّونَكُم مِّنۢ بَعْدِ إِيمَٰنِكُمْ كُفَّارًا حَسَدًۭا مِّنْ عِندِ أَنفُسِهِم مِّنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْحَقُّ ۖ فَٱعْفُوا۟ وَٱصْفَحُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ بِأَمْرِهِۦٓ ۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
@@ -640,51 +640,51 @@
 
 وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍۢ تَجِدُوهُ عِندَ ٱللَّهِ ۗ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌۭ
 
-**2:111**  Ac maent yn dweud, “Ni chaiff neb fynd i’r Nef ond Iddew neu Gristion.” Dyma eu dymuniadau. Dywed, “Dygwch eich prawf, os ydych yn wirioneddus.”
+**2:111**  Ac maent yn dweud, "Ni chaiff neb fynd i'r Nef ond Iddew neu Gristion." Dyma eu dymuniadau. Dywed, "Dygwch eich prawf, os ydych yn wirioneddus."
 
 وَقَالُوا۟ لَن يَدْخُلَ ٱلْجَنَّةَ إِلَّا مَن كَانَ هُودًا أَوْ نَصَٰرَىٰ ۗ تِلْكَ أَمَانِيُّهُمْ ۗ قُلْ هَاتُوا۟ بُرْهَٰنَكُمْ إِن كُنتُمْ صَٰدِقِينَ
 
-**2:112**  Yn wir, pwy bynnag sy’n ymddarostwng ei hun i Allah, ac yn wneuthurwr daioni, bydd ganddo ei wobr gyda’i Arglwydd — nid oes ganddynt ddim i’w ofni, ac ni fyddant yn galaru.
+**2:112**  Yn wir, pwy bynnag sy'n ymddarostwng ei hun i Allah, ac yn wneuthurwr daioni, bydd ganddo ei wobr gyda'i Arglwydd — nid oes ganddynt ddim i'w ofni, ac ni fyddant yn galaru.
 
 بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌۭ فَلَهُۥٓ أَجْرُهُۥ عِندَ رَبِّهِۦ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
-**2:113**  Mae’r Iddewon yn dweud, “Nid yw’r Cristnogion wedi eu seilio ar ddim;” ac mae’r Cristnogion yn dweud, “Nid yw’r Iddewon wedi eu seilio ar ddim.” Eto mae’r ddau yn darllen yr Ysgrythur. Yn yr un modd, dywedodd yr anwybodus yr un peth. Bydd Allah yn barnu rhyngddynt ar Ddydd yr Atgyfodiad ynghylch eu gwahaniaethau.
+**2:113**  Mae'r Iddewon yn dweud, "Nid yw'r Cristnogion wedi eu seilio ar ddim;" ac mae'r Cristnogion yn dweud, "Nid yw'r Iddewon wedi eu seilio ar ddim." Eto mae'r ddau yn darllen yr Ysgrythur. Yn yr un modd, dywedodd yr anwybodus yr un peth. Bydd Allah yn barnu rhyngddynt ar Ddydd yr Atgyfodiad ynghylch eu gwahaniaethau.
 
 وَقَالَتِ ٱلْيَهُودُ لَيْسَتِ ٱلنَّصَٰرَىٰ عَلَىٰ شَىْءٍۢ وَقَالَتِ ٱلنَّصَٰرَىٰ لَيْسَتِ ٱلْيَهُودُ عَلَىٰ شَىْءٍۢ وَهُمْ يَتْلُونَ ٱلْكِتَٰبَ ۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ لَا يَعْلَمُونَ مِثْلَ قَوْلِهِمْ ۚ فَٱللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ ٱلْقِيَٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ
 
-**2:114**  Pwy sy’n fwy anghyfiawn na’r hwn sy’n gwahardd coffáu enw Allah mewn mannau addoli, ac yn cyfrannu at eu dinistr? Ni ddylai’r rhain fynd i mewn iddynt ond mewn ofn. Iddynt nhw mae gwarth yn y byd hwn, ac iddynt nhw mae cosb erchyll yn y Bywyd ar Ôl.
+**2:114**  Pwy sy'n fwy anghyfiawn na'r hwn sy'n gwahardd coffáu enw Allah mewn mannau addoli, ac yn cyfrannu at eu dinistr? Ni ddylai'r rhain fynd i mewn iddynt ond mewn ofn. Iddynt nhw mae gwarth yn y byd hwn, ac iddynt nhw mae cosb erchyll yn y Bywyd ar Ôl.
 
 وَمَنْ أَظْلَمُ مِمَّن مَّنَعَ مَسَٰجِدَ ٱللَّهِ أَن يُذْكَرَ فِيهَا ٱسْمُهُۥ وَسَعَىٰ فِى خَرَابِهَآ ۚ أُو۟لَٰٓئِكَ مَا كَانَ لَهُمْ أَن يَدْخُلُوهَآ إِلَّا خَآئِفِينَ ۚ لَهُمْ فِى ٱلدُّنْيَا خِزْىٌۭ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌۭ
 
-**2:115**  I Allah y perthyn y Dwyrain a’r Gorllewin. Pa ffordd bynnag y trowch, y mae presenoldeb Allah yno. Mae Allah yn bresennol ym mhob man ac yn hollwybodol.
+**2:115**  I Allah y perthyn y Dwyrain a'r Gorllewin. Pa ffordd bynnag y trowch, y mae presenoldeb Allah yno. Mae Allah yn bresennol ym mhob man ac yn hollwybodol.
 
 وَلِلَّهِ ٱلْمَشْرِقُ وَٱلْمَغْرِبُ ۚ فَأَيْنَمَا تُوَلُّوا۟ فَثَمَّ وَجْهُ ٱللَّهِ ۚ إِنَّ ٱللَّهَ وَٰسِعٌ عَلِيمٌۭ
 
-**2:116**  Ac maent yn dweud, “Mae Allah wedi cael mab.” Gogonedder Ef. Yn hytrach, ei eiddo Ef yw popeth yn y nefoedd a’r ddaear; y mae pawb yn ufudd iddo.
+**2:116**  Ac maent yn dweud, "Mae Allah wedi cael mab." Gogonedder Ef. Yn hytrach, ei eiddo Ef yw popeth yn y nefoedd a'r ddaear; y mae pawb yn ufudd iddo.
 
 وَقَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًۭا ۗ سُبْحَٰنَهُۥ ۖ بَل لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ كُلٌّۭ لَّهُۥ قَٰنِتُونَ
 
-**2:117**  Gwneuthurwr y nefoedd a’r ddaear. Pryd bynnag y mae’n ordeinio peth, mae’n dweud wrtho, “Bydd,” ac y mae’n dod i fod.
+**2:117**  Gwneuthurwr y nefoedd a'r ddaear. Pryd bynnag y mae'n ordeinio peth, mae'n dweud wrtho, "Bydd," ac y mae'n dod i fod.
 
 بَدِيعُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ وَإِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 
-**2:118**  Mae’r rhai nad ydynt yn gwybod yn dweud, “Pe bai Allah yn siarad â ni, neu pe bai arwydd yn dod atom.” Felly y dywedodd y rhai o’u blaen nhw. Mae eu calonnau yr un fath. Yr ydym wedi gwneud yr arwyddion yn eglur i bobl sy’n sicr.
+**2:118**  Mae'r rhai nad ydynt yn gwybod yn dweud, "Pe bai Allah yn siarad â ni, neu pe bai arwydd yn dod atom." Felly y dywedodd y rhai o'u blaen nhw. Mae eu calonnau yr un fath. Yr ydym wedi gwneud yr arwyddion yn eglur i bobl sy'n sicr.
 
 وَقَالَ ٱلَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا ٱللَّهُ أَوْ تَأْتِينَآ ءَايَةٌۭ ۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ مِن قَبْلِهِم مِّثْلَ قَوْلِهِمْ ۘ تَشَٰبَهَتْ قُلُوبُهُمْ ۗ قَدْ بَيَّنَّا ٱلْءَايَٰتِ لِقَوْمٍۢ يُوقِنُونَ
 
-**2:119**  Yr ydym wedi dy anfon di â’r gwirionedd — yn dwyn newyddion da, ac yn rhoi rhybuddion. Ni’th holir am breswylwyr Uffern.
+**2:119**  Yr ydym wedi dy anfon di â'r gwirionedd — yn dwyn newyddion da, ac yn rhoi rhybuddion. Ni'th holir am breswylwyr Uffern.
 
 إِنَّآ أَرْسَلْنَٰكَ بِٱلْحَقِّ بَشِيرًۭا وَنَذِيرًۭا ۖ وَلَا تُسْـَٔلُ عَنْ أَصْحَٰبِ ٱلْجَحِيمِ
 
-**2:120**  Ni chymeradwya’r Iddewon a’r Cristnogion di, oni ddilyni eu credo. Dywed, “Arweiniad Allah yw’r arweiniad.” Pe dylit ddilyn eu dymuniadau, ar ôl y wybodaeth a ddaeth atat, ni chei yn Allah na warcheidwad na chynorthwyydd.
+**2:120**  Ni chymeradwya'r Iddewon a'r Cristnogion di, oni ddilyni eu credo. Dywed, "Arweiniad Allah yw'r arweiniad." Pe dylit ddilyn eu dymuniadau, ar ôl y wybodaeth a ddaeth atat, ni chei yn Allah na warcheidwad na chynorthwyydd.
 
 وَلَن تَرْضَىٰ عَنكَ ٱلْيَهُودُ وَلَا ٱلنَّصَٰرَىٰ حَتَّىٰ تَتَّبِعَ مِلَّتَهُمْ ۗ قُلْ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلْهُدَىٰ ۗ وَلَئِنِ ٱتَّبَعْتَ أَهْوَآءَهُم بَعْدَ ٱلَّذِى جَآءَكَ مِنَ ٱلْعِلْمِ ۙ مَا لَكَ مِنَ ٱللَّهِ مِن وَلِىٍّۢ وَلَا نَصِيرٍ
 
-**2:121**  Y rhai y rhoddasom yr Ysgrythur iddynt sy’n ei dilyn, fel y dylid ei dilyn — y rhain sy’n credu ynddi. Ond o ran y rhai sy’n ei gwrthod — y rhain yw’r colledwyr.
+**2:121**  Y rhai y rhoddasom yr Ysgrythur iddynt sy'n ei dilyn, fel y dylid ei dilyn — y rhain sy'n credu ynddi. Ond o ran y rhai sy'n ei gwrthod — y rhain yw'r colledwyr.
 
 ٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ يَتْلُونَهُۥ حَقَّ تِلَاوَتِهِۦٓ أُو۟لَٰٓئِكَ يُؤْمِنُونَ بِهِۦ ۗ وَمَن يَكْفُرْ بِهِۦ فَأُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ
 
-**2:122**  O Blant Israel! Cofiwch fy mendith a roddais i chi, a’m bod wedi eich ffafrio uwchlaw pob pobl.
+**2:122**  O Blant Israel! Cofiwch fy mendith a roddais i chi, a'm bod wedi eich ffafrio uwchlaw pob pobl.
 
 يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَنِّى فَضَّلْتُكُمْ عَلَى ٱلْعَٰلَمِينَ
 
@@ -692,115 +692,115 @@
 
 وَٱتَّقُوا۟ يَوْمًۭا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍۢ شَيْـًۭٔا وَلَا يُقْبَلُ مِنْهَا عَدْلٌۭ وَلَا تَنفَعُهَا شَفَٰعَةٌۭ وَلَا هُمْ يُنصَرُونَ
 
-**2:124**  A phan brofodd ei Arglwydd Abraham â geiriau penodol, a chyflawnodd nhw. Dywedodd, “Rwy’n dy wneud di yn arweinydd dynolryw.” Dywedodd, “A’m disgynyddion?” Dywedodd, “Nid yw fy addewid yn cynnwys y camweddwyr.”
+**2:124**  A phan brofodd ei Arglwydd Abraham â geiriau penodol, a chyflawnodd nhw. Dywedodd, "Rwy'n dy wneud di yn arweinydd dynolryw." Dywedodd, "A'm disgynyddion?" Dywedodd, "Nid yw fy addewid yn cynnwys y camweddwyr."
 
 ۞ وَإِذِ ٱبْتَلَىٰٓ إِبْرَٰهِۦمَ رَبُّهُۥ بِكَلِمَٰتٍۢ فَأَتَمَّهُنَّ ۖ قَالَ إِنِّى جَاعِلُكَ لِلنَّاسِ إِمَامًۭا ۖ قَالَ وَمِن ذُرِّيَّتِى ۖ قَالَ لَا يَنَالُ عَهْدِى ٱلظَّٰلِمِينَ
 
-**2:125**  A gwnaethom y Tŷ yn fan canolog i’r bobl, ac yn noddfa. Defnyddiwch gysegrfa Abraham fel man gweddi. A chomisiynasom Abraham ac Ismael, “Sancteiddiwch fy Nhŷ ar gyfer y rhai sy’n cylchdroi o’i gwmpas, a’r rhai sy’n ymgilio ynddo, a’r rhai sy’n penlinio ac yn ymgrymu.”
+**2:125**  A gwnaethom y Tŷ yn fan canolog i'r bobl, ac yn noddfa. Defnyddiwch gysegrfa Abraham fel man gweddi. A chomisiynasom Abraham ac Ismael, "Sancteiddiwch fy Nhŷ ar gyfer y rhai sy'n cylchdroi o'i gwmpas, a'r rhai sy'n ymgilio ynddo, a'r rhai sy'n penlinio ac yn ymgrymu."
 
 وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةًۭ لِّلنَّاسِ وَأَمْنًۭا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِۦمَ مُصَلًّۭى ۖ وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
 
-**2:126**  Pan ddywedodd Abraham, “O fy Arglwydd, gwna hwn yn dir heddychlon, a darpara i’w bobl â ffrwythau — pwy bynnag ohonynt sy’n credu yn Allah a’r Dydd Olaf.” Dywedodd, “A phwy bynnag sy’n anghredu, rhoddaf iddo ychydig o fwynhad, yna byddaf yn ei draddodi i gosb y Tân; mor druenus y dynged!”
+**2:126**  Pan ddywedodd Abraham, "O fy Arglwydd, gwna hwn yn dir heddychlon, a darpara i'w bobl â ffrwythau — pwy bynnag ohonynt sy'n credu yn Allah a'r Dydd Olaf." Dywedodd, "A phwy bynnag sy'n anghredu, rhoddaf iddo ychydig o fwynhad, yna byddaf yn ei draddodi i gosb y Tân; mor druenus y dynged!"
 
 وَإِذْ قَالَ إِبْرَٰهِۦمُ رَبِّ ٱجْعَلْ هَٰذَا بَلَدًا ءَامِنًۭا وَٱرْزُقْ أَهْلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنْ ءَامَنَ مِنْهُم بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۖ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلًۭا ثُمَّ أَضْطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِ ۖ وَبِئْسَ ٱلْمَصِيرُ
 
-**2:127**  Wrth i Abraham godi sylfeini’r Tŷ, ynghyd ag Ismael, “Ein Harglwydd, derbyn ef oddi wrthym, Ti yw’r Clywedwr, y Gwybodwr.
+**2:127**  Wrth i Abraham godi sylfeini'r Tŷ, ynghyd ag Ismael, "Ein Harglwydd, derbyn ef oddi wrthym, Ti yw'r Clywedwr, y Gwybodwr.
 
 وَإِذْ يَرْفَعُ إِبْرَٰهِۦمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
-**2:128**  Ein Harglwydd, a gwna ni yn ostyngedig i Ti, ac o’n disgynyddion yn gymuned ostyngedig i Ti. A dangos i ni ein defodau, a derbyn ein hedifeirwch. Ti yw Derbynnydd Edifeirwch, y Trugarog.
+**2:128**  Ein Harglwydd, a gwna ni yn ostyngedig i Ti, ac o'n disgynyddion yn gymuned ostyngedig i Ti. A dangos i ni ein defodau, a derbyn ein hedifeirwch. Ti yw Derbynnydd Edifeirwch, y Trugarog.
 
 رَبَّنَا وَٱجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةًۭ مُّسْلِمَةًۭ لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَآ ۖ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
-**2:129**  Ein Harglwydd, a chod yn eu plith genhadwr, ohonynt eu hunain, a fydd yn adrodd iddynt dy ddatguddiadau, ac yn dysgu iddynt y Llyfr a doethineb, ac yn eu puro. Ti yw’r Hollalluog, y Doeth.”
+**2:129**  Ein Harglwydd, a chod yn eu plith genhadwr, ohonynt eu hunain, a fydd yn adrodd iddynt dy ddatguddiadau, ac yn dysgu iddynt y Llyfr a doethineb, ac yn eu puro. Ti yw'r Hollalluog, y Doeth."
 
 رَبَّنَا وَٱبْعَثْ فِيهِمْ رَسُولًۭا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِكَ وَيُعَلِّمُهُمُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَيُزَكِّيهِمْ ۚ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**2:130**  Pwy a gefnai grefydd Abraham, ond yr hwn sy’n twyllo ei hun? Dewisasom ef yn y byd hwn, ac yn y Bywyd ar Ôl bydd ymhlith y cyfiawn.
+**2:130**  Pwy a gefnai grefydd Abraham, ond yr hwn sy'n twyllo ei hun? Dewisasom ef yn y byd hwn, ac yn y Bywyd ar Ôl bydd ymhlith y cyfiawn.
 
 وَمَن يَرْغَبُ عَن مِّلَّةِ إِبْرَٰهِۦمَ إِلَّا مَن سَفِهَ نَفْسَهُۥ ۚ وَلَقَدِ ٱصْطَفَيْنَٰهُ فِى ٱلدُّنْيَا ۖ وَإِنَّهُۥ فِى ٱلْءَاخِرَةِ لَمِنَ ٱلصَّٰلِحِينَ
 
-**2:131**  Pan ddywedodd ei Arglwydd wrtho, “Ymostwng!” Dywedodd, “Rwyf wedi ymostwng i Arglwydd y Bydoedd.”
+**2:131**  Pan ddywedodd ei Arglwydd wrtho, "Ymostwng!" Dywedodd, "Rwyf wedi ymostwng i Arglwydd y Bydoedd."
 
 إِذْ قَالَ لَهُۥ رَبُّهُۥٓ أَسْلِمْ ۖ قَالَ أَسْلَمْتُ لِرَبِّ ٱلْعَٰلَمِينَ
 
-**2:132**  A rhybuddiodd Abraham ei feibion, a Jacob, “O fy meibion, mae Allah wedi dewis y grefydd hon i chi, felly peidiwch â marw oni bai eich bod wedi ymostwng.”
+**2:132**  A rhybuddiodd Abraham ei feibion, a Jacob, "O fy meibion, mae Allah wedi dewis y grefydd hon i chi, felly peidiwch â marw oni bai eich bod wedi ymostwng."
 
 وَوَصَّىٰ بِهَآ إِبْرَٰهِۦمُ بَنِيهِ وَيَعْقُوبُ يَٰبَنِىَّ إِنَّ ٱللَّهَ ٱصْطَفَىٰ لَكُمُ ٱلدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ
 
-**2:133**  Neu a oeddech yn dystion pan nesaodd marwolaeth at Jacob, a dywedodd wrth ei feibion, “Beth a addolwch ar ôl Fi?” Dywedasant, “Addolwn dy Allah di, ac Allah dy dadau, Abraham, Ismael, ac Isaac; Un Allah; ac iddo Ef yr ydym yn ymostwng.”
+**2:133**  Neu a oeddech yn dystion pan nesaodd marwolaeth at Jacob, a dywedodd wrth ei feibion, "Beth a addolwch ar ôl Fi?" Dywedasant, "Addolwn dy Allah di, ac Allah dy dadau, Abraham, Ismael, ac Isaac; Un Allah; ac iddo Ef yr ydym yn ymostwng."
 
 أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ إِلَٰهًۭا وَٰحِدًۭا وَنَحْنُ لَهُۥ مُسْلِمُونَ
 
-**2:134**  Cymuned a aeth heibio oedd honno; iddynt nhw yr hyn maent wedi ei ennill, ac i chi yr hyn yr ydych wedi ei ennill; ac ni’ch holir am yr hyn yr oeddent yn arfer ei wneud.
+**2:134**  Cymuned a aeth heibio oedd honno; iddynt nhw yr hyn maent wedi ei ennill, ac i chi yr hyn yr ydych wedi ei ennill; ac ni'ch holir am yr hyn yr oeddent yn arfer ei wneud.
 
 تِلْكَ أُمَّةٌۭ قَدْ خَلَتْ ۖ لَهَا مَا كَسَبَتْ وَلَكُم مَّا كَسَبْتُمْ ۖ وَلَا تُسْـَٔلُونَ عَمَّا كَانُوا۟ يَعْمَلُونَ
 
-**2:135**  Ac maent yn dweud, “Byddwch yn Iddewon neu Gristnogion, a chawch eich arwain.” Dywed, “Yn hytrach, crefydd Abraham, yr Undduwiwr; nid oedd yn eilunaddolwr.”
+**2:135**  Ac maent yn dweud, "Byddwch yn Iddewon neu Gristnogion, a chawch eich arwain." Dywed, "Yn hytrach, crefydd Abraham, yr Undduwiwr; nid oedd yn eilunaddolwr."
 
 وَقَالُوا۟ كُونُوا۟ هُودًا أَوْ نَصَٰرَىٰ تَهْتَدُوا۟ ۗ قُلْ بَلْ مِلَّةَ إِبْرَٰهِۦمَ حَنِيفًۭا ۖ وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
 
-**2:136**  Dywedwch, “Rydym yn credu yn Allah; ac yn yr hyn a ddatguddiwyd i ni; ac yn yr hyn a ddatguddiwyd i Abraham, ac Ismael, ac Isaac, a Jacob, a’r Patriarchiaid; ac yn yr hyn a roddwyd i Moses ac Iesu; ac yn yr hyn a roddwyd i’r proffwydi — oddi wrth eu Harglwydd. Nid ydym yn gwneud gwahaniaeth rhwng yr un ohonynt, ac iddo Ef yr ydym yn ymostwng.”
+**2:136**  Dywedwch, "Rydym yn credu yn Allah; ac yn yr hyn a ddatguddiwyd i ni; ac yn yr hyn a ddatguddiwyd i Abraham, ac Ismael, ac Isaac, a Jacob, a'r Patriarchiaid; ac yn yr hyn a roddwyd i Moses ac Iesu; ac yn yr hyn a roddwyd i'r proffwydi — oddi wrth eu Harglwydd. Nid ydym yn gwneud gwahaniaeth rhwng yr un ohonynt, ac iddo Ef yr ydym yn ymostwng."
 
 قُولُوٓا۟ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْنَا وَمَآ أُنزِلَ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَمَآ أُوتِىَ ٱلنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍۢ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ
 
-**2:137**  Os credant yn yr un peth ag yr ydych wedi credu ynddo, yna maent wedi eu harwain. Ond os troant ymaith, yna maent mewn ymraniad. Bydd Allah yn eich amddiffyn yn eu herbyn; oherwydd Ef yw’r Clywedwr, y Gwybodwr.
+**2:137**  Os credant yn yr un peth ag yr ydych wedi credu ynddo, yna maent wedi eu harwain. Ond os troant ymaith, yna maent mewn ymraniad. Bydd Allah yn eich amddiffyn yn eu herbyn; oherwydd Ef yw'r Clywedwr, y Gwybodwr.
 
 فَإِنْ ءَامَنُوا۟ بِمِثْلِ مَآ ءَامَنتُم بِهِۦ فَقَدِ ٱهْتَدَوا۟ ۖ وَّإِن تَوَلَّوْا۟ فَإِنَّمَا هُمْ فِى شِقَاقٍۢ ۖ فَسَيَكْفِيكَهُمُ ٱللَّهُ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
-**2:138**  Lliw Allah. A phwy sy’n rhoi lliw gwell nag Allah? “Ac iddo Ef yr ydym yn ymroddedig.”
+**2:138**  Lliw Allah. A phwy sy'n rhoi lliw gwell nag Allah? "Ac iddo Ef yr ydym yn ymroddedig."
 
 صِبْغَةَ ٱللَّهِ ۖ وَمَنْ أَحْسَنُ مِنَ ٱللَّهِ صِبْغَةًۭ ۖ وَنَحْنُ لَهُۥ عَٰبِدُونَ
 
-**2:139**  Dywed, “A ydych yn dadlau â ni ynghylch Allah, pan yw’n ein Harglwydd ni a’ch Arglwydd chi, a chennym ni ein gweithredoedd, a chennym chi eich gweithredoedd, ac yr ydym yn ddiffuant iddo?”
+**2:139**  Dywed, "A ydych yn dadlau â ni ynghylch Allah, pan yw'n ein Harglwydd ni a'ch Arglwydd chi, a chennym ni ein gweithredoedd, a chennym chi eich gweithredoedd, ac yr ydym yn ddiffuant iddo?"
 
 قُلْ أَتُحَآجُّونَنَا فِى ٱللَّهِ وَهُوَ رَبُّنَا وَرَبُّكُمْ وَلَنَآ أَعْمَٰلُنَا وَلَكُمْ أَعْمَٰلُكُمْ وَنَحْنُ لَهُۥ مُخْلِصُونَ
 
-**2:140**  Neu a ddywedwch fod Abraham, Ismael, Isaac, Jacob, a’r Patriarchiaid yn Iddewon neu Gristnogion? Dywed, “Ai chi sy’n gwybod orau, neu Allah?” A phwy sy’n gwneud mwy o gam na’r hwn sy’n cuddio tystiolaeth sydd ganddo oddi wrth Allah? Nid yw Allah yn anymwybodol o’r hyn yr ydych yn ei wneud.
+**2:140**  Neu a ddywedwch fod Abraham, Ismael, Isaac, Jacob, a'r Patriarchiaid yn Iddewon neu Gristnogion? Dywed, "Ai chi sy'n gwybod orau, neu Allah?" A phwy sy'n gwneud mwy o gam na'r hwn sy'n cuddio tystiolaeth sydd ganddo oddi wrth Allah? Nid yw Allah yn anymwybodol o'r hyn yr ydych yn ei wneud.
 
 أَمْ تَقُولُونَ إِنَّ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطَ كَانُوا۟ هُودًا أَوْ نَصَٰرَىٰ ۗ قُلْ ءَأَنتُمْ أَعْلَمُ أَمِ ٱللَّهُ ۗ وَمَنْ أَظْلَمُ مِمَّن كَتَمَ شَهَٰدَةً عِندَهُۥ مِنَ ٱللَّهِ ۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ
 
-**2:141**  Cymuned a aeth heibio oedd honno. Iddynt nhw yr hyn maent wedi ei ennill, ac i chi yr hyn yr ydych wedi ei ennill. Ac ni’ch holir am yr hyn yr oeddent yn arfer ei wneud.
+**2:141**  Cymuned a aeth heibio oedd honno. Iddynt nhw yr hyn maent wedi ei ennill, ac i chi yr hyn yr ydych wedi ei ennill. Ac ni'ch holir am yr hyn yr oeddent yn arfer ei wneud.
 
 تِلْكَ أُمَّةٌۭ قَدْ خَلَتْ ۖ لَهَا مَا كَسَبَتْ وَلَكُم مَّا كَسَبْتُمْ ۖ وَلَا تُسْـَٔلُونَ عَمَّا كَانُوا۟ يَعْمَلُونَ
 
-**2:142**  Bydd yr anwybodus ymhlith y bobl yn dweud, “Beth a’u trodd nhw oddi wrth gyfeiriad y weddi yr oeddent yn ei ddilyn unwaith?” Dywed, “I Allah y perthyn y Dwyrain a’r Gorllewin. Mae’n arwain pwy bynnag a fyn i lwybr union.”
+**2:142**  Bydd yr anwybodus ymhlith y bobl yn dweud, "Beth a'u trodd nhw oddi wrth gyfeiriad y weddi yr oeddent yn ei ddilyn unwaith?" Dywed, "I Allah y perthyn y Dwyrain a'r Gorllewin. Mae'n arwain pwy bynnag a fyn i lwybr union."
 
 ۞ سَيَقُولُ ٱلسُّفَهَآءُ مِنَ ٱلنَّاسِ مَا وَلَّىٰهُمْ عَن قِبْلَتِهِمُ ٱلَّتِى كَانُوا۟ عَلَيْهَا ۚ قُل لِّلَّهِ ٱلْمَشْرِقُ وَٱلْمَغْرِبُ ۚ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
 
-**2:143**  Felly gwnaethom chi yn gymuned gymedrol, fel y gallech fod yn dystion i ddynolryw, ac fel y gallai’r Cenhadwr fod yn dyst i chi. Dim ond i wahaniaethu’r rhai sy’n dilyn y Cenhadwr oddi wrth y rhai sy’n troi ar eu sodlau y sefydlasom gyfeiriad y weddi, yr hwn yr oeddech yn ei ddilyn unwaith. Mae’n anodd yn wir, ac eithrio i’r rhai y mae Allah wedi eu harwain. Ond ni fyddai Allah byth yn gadael i’ch ffydd fynd yn ofer. Mae Allah yn Garedig tuag at y bobl, yn Drugarog.
+**2:143**  Felly gwnaethom chi yn gymuned gymedrol, fel y gallech fod yn dystion i ddynolryw, ac fel y gallai'r Cenhadwr fod yn dyst i chi. Dim ond i wahaniaethu'r rhai sy'n dilyn y Cenhadwr oddi wrth y rhai sy'n troi ar eu sodlau y sefydlasom gyfeiriad y weddi, yr hwn yr oeddech yn ei ddilyn unwaith. Mae'n anodd yn wir, ac eithrio i'r rhai y mae Allah wedi eu harwain. Ond ni fyddai Allah byth yn gadael i'ch ffydd fynd yn ofer. Mae Allah yn Garedig tuag at y bobl, yn Drugarog.
 
 وَكَذَٰلِكَ جَعَلْنَٰكُمْ أُمَّةًۭ وَسَطًۭا لِّتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيْكُمْ شَهِيدًۭا ۗ وَمَا جَعَلْنَا ٱلْقِبْلَةَ ٱلَّتِى كُنتَ عَلَيْهَآ إِلَّا لِنَعْلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيْهِ ۚ وَإِن كَانَتْ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى ٱللَّهُ ۗ وَمَا كَانَ ٱللَّهُ لِيُضِيعَ إِيمَٰنَكُمْ ۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٌۭ رَّحِيمٌۭ
 
-**2:144**  Yr ydym wedi gweld dy wyneb wedi ei droi tuag at yr wybren. Felly byddwn yn dy droi di tuag at gyfeiriad a’th fodlona. Felly tro dy wyneb tuag at y Mosg Sanctaidd. A lle bynnag y byddwch, trowch eich wynebau tuag ato. Mae’r rhai y rhoddwyd y Llyfr iddynt yn gwybod mai’r Gwirionedd oddi wrth eu Harglwydd ydyw; ac nid yw Allah yn anymwybodol o’r hyn maent yn ei wneud.
+**2:144**  Yr ydym wedi gweld dy wyneb wedi ei droi tuag at yr wybren. Felly byddwn yn dy droi di tuag at gyfeiriad a'th fodlona. Felly tro dy wyneb tuag at y Mosg Sanctaidd. A lle bynnag y byddwch, trowch eich wynebau tuag ato. Mae'r rhai y rhoddwyd y Llyfr iddynt yn gwybod mai'r Gwirionedd oddi wrth eu Harglwydd ydyw; ac nid yw Allah yn anymwybodol o'r hyn maent yn ei wneud.
 
 قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِى ٱلسَّمَآءِ ۖ فَلَنُوَلِّيَنَّكَ قِبْلَةًۭ تَرْضَىٰهَا ۚ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ ۗ وَإِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ ۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا يَعْمَلُونَ
 
-**2:145**  Hyd yn oed pe dygit i’r rhai y rhoddwyd y Llyfr iddynt bob prawf, ni ddilynent dy gyfeiriad di, ac nid wyt i ddilyn eu cyfeiriad nhw, ac nid ydynt yn dilyn cyfeiriad ei gilydd. Ac os dylit ddilyn eu dymuniadau, ar ôl y wybodaeth a ddaeth atat, byddit yn yr achos hwnnw yn un o’r camweddwyr.
+**2:145**  Hyd yn oed pe dygit i'r rhai y rhoddwyd y Llyfr iddynt bob prawf, ni ddilynent dy gyfeiriad di, ac nid wyt i ddilyn eu cyfeiriad nhw, ac nid ydynt yn dilyn cyfeiriad ei gilydd. Ac os dylit ddilyn eu dymuniadau, ar ôl y wybodaeth a ddaeth atat, byddit yn yr achos hwnnw yn un o'r camweddwyr.
 
 وَلَئِنْ أَتَيْتَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ بِكُلِّ ءَايَةٍۢ مَّا تَبِعُوا۟ قِبْلَتَكَ ۚ وَمَآ أَنتَ بِتَابِعٍۢ قِبْلَتَهُمْ ۚ وَمَا بَعْضُهُم بِتَابِعٍۢ قِبْلَةَ بَعْضٍۢ ۚ وَلَئِنِ ٱتَّبَعْتَ أَهْوَآءَهُم مِّنۢ بَعْدِ مَا جَآءَكَ مِنَ ٱلْعِلْمِ ۙ إِنَّكَ إِذًۭا لَّمِنَ ٱلظَّٰلِمِينَ
 
-**2:146**  Y rhai y rhoddasom y Llyfr iddynt sy’n ei gydnabod fel y maent yn cydnabod eu plant eu hunain. Ond mae rhai ohonynt yn cuddio’r gwirionedd tra maent yn gwybod.
+**2:146**  Y rhai y rhoddasom y Llyfr iddynt sy'n ei gydnabod fel y maent yn cydnabod eu plant eu hunain. Ond mae rhai ohonynt yn cuddio'r gwirionedd tra maent yn gwybod.
 
 ٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ يَعْرِفُونَهُۥ كَمَا يَعْرِفُونَ أَبْنَآءَهُمْ ۖ وَإِنَّ فَرِيقًۭا مِّنْهُمْ لَيَكْتُمُونَ ٱلْحَقَّ وَهُمْ يَعْلَمُونَ
 
-**2:147**  Mae’r gwirionedd oddi wrth dy Arglwydd, felly paid â bod yn amheuwr.
+**2:147**  Mae'r gwirionedd oddi wrth dy Arglwydd, felly paid â bod yn amheuwr.
 
 ٱلْحَقُّ مِن رَّبِّكَ ۖ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ
 
-**2:148**  I bob cymuned y mae cyfeiriad y mae’n troi tuag ato. Felly, rhedewch tuag at ddaioni. Lle bynnag y byddwch, bydd Allah yn eich dwyn oll at ei gilydd. Mae Allah yn abl i wneud popeth.
+**2:148**  I bob cymuned y mae cyfeiriad y mae'n troi tuag ato. Felly, rhedewch tuag at ddaioni. Lle bynnag y byddwch, bydd Allah yn eich dwyn oll at ei gilydd. Mae Allah yn abl i wneud popeth.
 
 وَلِكُلٍّۢ وِجْهَةٌ هُوَ مُوَلِّيهَا ۖ فَٱسْتَبِقُوا۟ ٱلْخَيْرَٰتِ ۚ أَيْنَ مَا تَكُونُوا۟ يَأْتِ بِكُمُ ٱللَّهُ جَمِيعًا ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**2:149**  A lle bynnag y deui di, tro dy wyneb tuag at y Mosg Sanctaidd. Hwn yw’r gwirionedd oddi wrth dy Arglwydd, ac nid yw Allah yn ddiofal o’r hyn yr ydych yn ei wneud.
+**2:149**  A lle bynnag y deui di, tro dy wyneb tuag at y Mosg Sanctaidd. Hwn yw'r gwirionedd oddi wrth dy Arglwydd, ac nid yw Allah yn ddiofal o'r hyn yr ydych yn ei wneud.
 
 وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۖ وَإِنَّهُۥ لَلْحَقُّ مِن رَّبِّكَ ۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ
 
-**2:150**  A lle bynnag y deui di, tro dy wyneb tuag at y Mosg Sanctaidd. A lle bynnag y byddwch, trowch eich wynebau tuag ato. Fel na chaiff y bobl unrhyw ddadl yn eich erbyn — ac eithrio’r rhai sy’n gwneud cam yn eu plith. Felly peidiwch â’u hofni nhw, ond ofnwch Fi, fel y gallaf gwblhau fy mendithion arnoch, ac fel y gallech gael eich arwain.
+**2:150**  A lle bynnag y deui di, tro dy wyneb tuag at y Mosg Sanctaidd. A lle bynnag y byddwch, trowch eich wynebau tuag ato. Fel na chaiff y bobl unrhyw ddadl yn eich erbyn — ac eithrio'r rhai sy'n gwneud cam yn eu plith. Felly peidiwch â'u hofni nhw, ond ofnwch Fi, fel y gallaf gwblhau fy mendithion arnoch, ac fel y gallech gael eich arwain.
 
 وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَيْكُمْ حُجَّةٌ إِلَّا ٱلَّذِينَ ظَلَمُوا۟ مِنْهُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِى وَلِأُتِمَّ نِعْمَتِى عَلَيْكُمْ وَلَعَلَّكُمْ تَهْتَدُونَ
 
-**2:151**  Yn union fel yr anfonasom atoch genhadwr o’ch plith, sy’n adrodd ein datguddiadau i chi, ac yn eich puro, ac yn dysgu i chi y Llyfr a doethineb, ac yn dysgu i chi’r hyn nad oeddech yn ei wybod.
+**2:151**  Yn union fel yr anfonasom atoch genhadwr o'ch plith, sy'n adrodd ein datguddiadau i chi, ac yn eich puro, ac yn dysgu i chi y Llyfr a doethineb, ac yn dysgu i chi'r hyn nad oeddech yn ei wybod.
 
 كَمَآ أَرْسَلْنَا فِيكُمْ رَسُولًۭا مِّنكُمْ يَتْلُوا۟ عَلَيْكُمْ ءَايَٰتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَيُعَلِّمُكُم مَّا لَمْ تَكُونُوا۟ تَعْلَمُونَ
 
@@ -808,39 +808,39 @@
 
 فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ
 
-**2:153**  O chi sy’n credu! Ceisiwch gymorth trwy amynedd a gweddïau. Mae Allah gyda’r rhai diysgog.
+**2:153**  O chi sy'n credu! Ceisiwch gymorth trwy amynedd a gweddïau. Mae Allah gyda'r rhai diysgog.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ
 
-**2:154**  A pheidiwch â dweud am y rhai a leddir yn achos Allah, “Meirw.” Yn hytrach, maent yn fyw, ond nid ydych yn canfod.
+**2:154**  A pheidiwch â dweud am y rhai a leddir yn achos Allah, "Meirw." Yn hytrach, maent yn fyw, ond nid ydych yn canfod.
 
 وَلَا تَقُولُوا۟ لِمَن يُقْتَلُ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتٌۢ ۚ بَلْ أَحْيَآءٌۭ وَلَٰكِن لَّا تَشْعُرُونَ
 
-**2:155**  Byddwn yn sicr yn eich profi â rhywfaint o ofn a newyn, a rhywfaint o golled eiddo a bywydau a chnydau. Ond rhowch newyddion da i’r rhai diysgog.
+**2:155**  Byddwn yn sicr yn eich profi â rhywfaint o ofn a newyn, a rhywfaint o golled eiddo a bywydau a chnydau. Ond rhowch newyddion da i'r rhai diysgog.
 
 وَلَنَبْلُوَنَّكُم بِشَىْءٍۢ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍۢ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ ۗ وَبَشِّرِ ٱلصَّٰبِرِينَ
 
-**2:156**  Y rhai sydd, pan fydd trychineb yn eu taro, yn dweud, “I Allah yr ydym yn perthyn, ac ato Ef y dychwelwn.”
+**2:156**  Y rhai sydd, pan fydd trychineb yn eu taro, yn dweud, "I Allah yr ydym yn perthyn, ac ato Ef y dychwelwn."
 
 ٱلَّذِينَ إِذَآ أَصَٰبَتْهُم مُّصِيبَةٌۭ قَالُوٓا۟ إِنَّا لِلَّهِ وَإِنَّآ إِلَيْهِ رَٰجِعُونَ
 
-**2:157**  Ar y rhain y mae bendithion a thrugaredd oddi wrth eu Harglwydd. Y rhain yw’r rhai a arweiniwyd.
+**2:157**  Ar y rhain y mae bendithion a thrugaredd oddi wrth eu Harglwydd. Y rhain yw'r rhai a arweiniwyd.
 
 أُو۟لَٰٓئِكَ عَلَيْهِمْ صَلَوَٰتٌۭ مِّن رَّبِّهِمْ وَرَحْمَةٌۭ ۖ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُهْتَدُونَ
 
-**2:158**  Mae Safa a Marwa ymhlith defodau Allah. Pwy bynnag sy’n gwneud y Bererindod i’r Tŷ, neu’n cyflawni’r Umrah, nid yw’n cyflawni cam trwy gylchdroi rhyngddynt. Pwy bynnag sy’n gwirfoddoli daioni — mae Allah yn Werthfawrogol ac yn Wybodus.
+**2:158**  Mae Safa a Marwa ymhlith defodau Allah. Pwy bynnag sy'n gwneud y Bererindod i'r Tŷ, neu'n cyflawni'r Umrah, nid yw'n cyflawni cam trwy gylchdroi rhyngddynt. Pwy bynnag sy'n gwirfoddoli daioni — mae Allah yn Werthfawrogol ac yn Wybodus.
 
 ۞ إِنَّ ٱلصَّفَا وَٱلْمَرْوَةَ مِن شَعَآئِرِ ٱللَّهِ ۖ فَمَنْ حَجَّ ٱلْبَيْتَ أَوِ ٱعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَن يَطَّوَّفَ بِهِمَا ۚ وَمَن تَطَوَّعَ خَيْرًۭا فَإِنَّ ٱللَّهَ شَاكِرٌ عَلِيمٌ
 
-**2:159**  Y rhai sy’n atal y profion a’r arweiniad yr ydym wedi eu datguddio, ar ôl i ni eu hegluro i ddynolryw yn yr Ysgrythur — y rhai hynny — mae Allah yn eu melltithio, ac mae’r melltithwyr yn eu melltithio.
+**2:159**  Y rhai sy'n atal y profion a'r arweiniad yr ydym wedi eu datguddio, ar ôl i ni eu hegluro i ddynolryw yn yr Ysgrythur — y rhai hynny — mae Allah yn eu melltithio, ac mae'r melltithwyr yn eu melltithio.
 
 إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلْنَا مِنَ ٱلْبَيِّنَٰتِ وَٱلْهُدَىٰ مِنۢ بَعْدِ مَا بَيَّنَّٰهُ لِلنَّاسِ فِى ٱلْكِتَٰبِ ۙ أُو۟لَٰٓئِكَ يَلْعَنُهُمُ ٱللَّهُ وَيَلْعَنُهُمُ ٱللَّٰعِنُونَ
 
-**2:160**  Ac eithrio’r rhai sy’n edifarhau, ac yn diwygio, ac yn cyhoeddi. Y rhai hynny — derbyniaf eu hedifeirwch. Myfi yw Derbynnydd Edifeirwch, y Trugarog.
+**2:160**  Ac eithrio'r rhai sy'n edifarhau, ac yn diwygio, ac yn cyhoeddi. Y rhai hynny — derbyniaf eu hedifeirwch. Myfi yw Derbynnydd Edifeirwch, y Trugarog.
 
 إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَبَيَّنُوا۟ فَأُو۟لَٰٓئِكَ أَتُوبُ عَلَيْهِمْ ۚ وَأَنَا ٱلتَّوَّابُ ٱلرَّحِيمُ
 
-**2:161**  Ond o ran y rhai sy’n gwrthod ffydd, ac yn marw yn gwrthod — y rhai hynny — arnynt nhw y mae melltith Allah, ac o’r angylion, ac o’r holl ddynolryw.
+**2:161**  Ond o ran y rhai sy'n gwrthod ffydd, ac yn marw yn gwrthod — y rhai hynny — arnynt nhw y mae melltith Allah, ac o'r angylion, ac o'r holl ddynolryw.
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌ أُو۟لَٰٓئِكَ عَلَيْهِمْ لَعْنَةُ ٱللَّهِ وَٱلْمَلَٰٓئِكَةِ وَٱلنَّاسِ أَجْمَعِينَ
 
@@ -852,63 +852,63 @@
 
 وَإِلَٰهُكُمْ إِلَٰهٌۭ وَٰحِدٌۭ ۖ لَّآ إِلَٰهَ إِلَّا هُوَ ٱلرَّحْمَٰنُ ٱلرَّحِيمُ
 
-**2:164**  Yng nghreadigaeth y nefoedd a’r ddaear; yn eilio nos a dydd; yn y llongau sy’n hwylio’r moroedd er budd dynolryw; yn y dŵr y mae Allah yn ei anfon i lawr o’r awyr, ac yn adfywio’r ddaear ag ef ar ôl iddi farw, ac yn gwasgaru ynddi bob math o greaduriaid; yn newid y gwyntoedd, a’r cymylau a drefnir rhwng yr awyr a’r ddaear; y mae arwyddion i bobl sy’n deall.
+**2:164**  Yng nghreadigaeth y nefoedd a'r ddaear; yn eilio nos a dydd; yn y llongau sy'n hwylio'r moroedd er budd dynolryw; yn y dŵr y mae Allah yn ei anfon i lawr o'r awyr, ac yn adfywio'r ddaear ag ef ar ôl iddi farw, ac yn gwasgaru ynddi bob math o greaduriaid; yn newid y gwyntoedd, a'r cymylau a drefnir rhwng yr awyr a'r ddaear; y mae arwyddion i bobl sy'n deall.
 
 إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَٱلْفُلْكِ ٱلَّتِى تَجْرِى فِى ٱلْبَحْرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن مَّآءٍۢ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍۢ وَتَصْرِيفِ ٱلرِّيَٰحِ وَٱلسَّحَابِ ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَعْقِلُونَ
 
-**2:165**  Eto ymhlith y bobl y mae rhai sy’n cymryd eraill nag Allah yn gyfartal ag Ef. Maent yn eu caru fel cariad Allah. Ond mae gan y rhai sy’n credu fwy o gariad at Allah. Pe bai’r camweddwyr ond yn sylweddoli, pan welant y gosb; mai holl allu Allah yw, a bod Allah yn ddifrifol mewn cosb.
+**2:165**  Eto ymhlith y bobl y mae rhai sy'n cymryd eraill nag Allah yn gyfartal ag Ef. Maent yn eu caru fel cariad Allah. Ond mae gan y rhai sy'n credu fwy o gariad at Allah. Pe bai'r camweddwyr ond yn sylweddoli, pan welant y gosb; mai holl allu Allah yw, a bod Allah yn ddifrifol mewn cosb.
 
 وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادًۭا يُحِبُّونَهُمْ كَحُبِّ ٱللَّهِ ۖ وَٱلَّذِينَ ءَامَنُوٓا۟ أَشَدُّ حُبًّۭا لِّلَّهِ ۗ وَلَوْ يَرَى ٱلَّذِينَ ظَلَمُوٓا۟ إِذْ يَرَوْنَ ٱلْعَذَابَ أَنَّ ٱلْقُوَّةَ لِلَّهِ جَمِيعًۭا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلْعَذَابِ
 
-**2:166**  Bydd y rhai a ddilynwyd yna’n ymwadu â’r rhai a’u dilynodd, a byddant yn gweld y gosb, a thorrir y cysylltiadau rhyngddynt.
+**2:166**  Bydd y rhai a ddilynwyd yna'n ymwadu â'r rhai a'u dilynodd, a byddant yn gweld y gosb, a thorrir y cysylltiadau rhyngddynt.
 
 إِذْ تَبَرَّأَ ٱلَّذِينَ ٱتُّبِعُوا۟ مِنَ ٱلَّذِينَ ٱتَّبَعُوا۟ وَرَأَوُا۟ ٱلْعَذَابَ وَتَقَطَّعَتْ بِهِمُ ٱلْأَسْبَابُ
 
-**2:167**  Bydd y rhai a ddilynodd yn dweud, “Pe gallem gael cyfle arall, byddem yn ymwadu â nhw, fel y gwnaethant nhw ymwadu â ni.” Felly bydd Allah yn dangos iddynt eu gweithredoedd, fel edifeirwch iddynt, ac ni ddônt allan o’r Tân.
+**2:167**  Bydd y rhai a ddilynodd yn dweud, "Pe gallem gael cyfle arall, byddem yn ymwadu â nhw, fel y gwnaethant nhw ymwadu â ni." Felly bydd Allah yn dangos iddynt eu gweithredoedd, fel edifeirwch iddynt, ac ni ddônt allan o'r Tân.
 
 وَقَالَ ٱلَّذِينَ ٱتَّبَعُوا۟ لَوْ أَنَّ لَنَا كَرَّةًۭ فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُوا۟ مِنَّا ۗ كَذَٰلِكَ يُرِيهِمُ ٱللَّهُ أَعْمَٰلَهُمْ حَسَرَٰتٍ عَلَيْهِمْ ۖ وَمَا هُم بِخَٰرِجِينَ مِنَ ٱلنَّارِ
 
-**2:168**  O bobl! Bwytewch o’r hyn sy’n gyfreithlon ac yn dda ar y ddaear, a pheidiwch â dilyn ôl troed Satan. Gelyn agored i chi ydyw.
+**2:168**  O bobl! Bwytewch o'r hyn sy'n gyfreithlon ac yn dda ar y ddaear, a pheidiwch â dilyn ôl troed Satan. Gelyn agored i chi ydyw.
 
 يَٰٓأَيُّهَا ٱلنَّاسُ كُلُوا۟ مِمَّا فِى ٱلْأَرْضِ حَلَٰلًۭا طَيِّبًۭا وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّۭ مُّبِينٌ
 
-**2:169**  Mae’n eich gorchymyn i wneud drwg a drygioni, ac i ddweud am Allah yr hyn nad ydych yn ei wybod.
+**2:169**  Mae'n eich gorchymyn i wneud drwg a drygioni, ac i ddweud am Allah yr hyn nad ydych yn ei wybod.
 
 إِنَّمَا يَأْمُرُكُم بِٱلسُّوٓءِ وَٱلْفَحْشَآءِ وَأَن تَقُولُوا۟ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ
 
-**2:170**  A phan ddywedir wrthynt, “Dilynwch yr hyn y mae Allah wedi ei ddatguddio,” maent yn dweud, “Dilynwn yr hyn y cawsom ein hynafiaid yn ei ddilyn.” Hyd yn oed os nad oedd eu hynafiaid yn deall dim, ac heb eu harwain?
+**2:170**  A phan ddywedir wrthynt, "Dilynwch yr hyn y mae Allah wedi ei ddatguddio," maent yn dweud, "Dilynwn yr hyn y cawsom ein hynafiaid yn ei ddilyn." Hyd yn oed os nad oedd eu hynafiaid yn deall dim, ac heb eu harwain?
 
 وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَآ أَلْفَيْنَا عَلَيْهِ ءَابَآءَنَآ ۗ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْقِلُونَ شَيْـًۭٔا وَلَا يَهْتَدُونَ
 
-**2:171**  Dameg y rhai sy’n anghredu yw dameg rhywun sy’n galw ar rywun nad yw’n clywed dim ond sgrechian a gweiddi. Byddar, mud, a dall — nid ydynt yn deall.
+**2:171**  Dameg y rhai sy'n anghredu yw dameg rhywun sy'n galw ar rywun nad yw'n clywed dim ond sgrechian a gweiddi. Byddar, mud, a dall — nid ydynt yn deall.
 
 وَمَثَلُ ٱلَّذِينَ كَفَرُوا۟ كَمَثَلِ ٱلَّذِى يَنْعِقُ بِمَا لَا يَسْمَعُ إِلَّا دُعَآءًۭ وَنِدَآءًۭ ۚ صُمٌّۢ بُكْمٌ عُمْىٌۭ فَهُمْ لَا يَعْقِلُونَ
 
-**2:172**  O chi sy’n credu! Bwytewch o’r pethau da yr ydym wedi eu darparu i chi, a rhowch ddiolch i Allah, os mai Ef yr ydych yn ei wasanaethu.
+**2:172**  O chi sy'n credu! Bwytewch o'r pethau da yr ydym wedi eu darparu i chi, a rhowch ddiolch i Allah, os mai Ef yr ydych yn ei wasanaethu.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَٱشْكُرُوا۟ لِلَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ
 
-**2:173**  Mae wedi gwahardd i chi gelain, a gwaed, a chig moch, a’r hyn a gysegrwyd i rywun heblaw Allah. Ond os caiff rhywun ei orfodi, heb ddymuno na mynd yn rhy bell, nid yw’n cyflawni pechod. Mae Allah yn Faddeugar ac yn Drugarog.
+**2:173**  Mae wedi gwahardd i chi gelain, a gwaed, a chig moch, a'r hyn a gysegrwyd i rywun heblaw Allah. Ond os caiff rhywun ei orfodi, heb ddymuno na mynd yn rhy bell, nid yw'n cyflawni pechod. Mae Allah yn Faddeugar ac yn Drugarog.
 
 إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ ٱللَّهِ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ
 
-**2:174**  Y rhai sy’n cuddio’r hyn y mae Allah wedi ei ddatguddio yn y Llyfr, ac yn ei gyfnewid am bris bach — y rhai hynny nid ydynt yn llyncu dim ond tân i’w boliau. Ac ni siarad Allah â nhw ar Ddydd yr Atgyfodiad, ac ni phura nhw, a bydd ganddynt gosb boenus.
+**2:174**  Y rhai sy'n cuddio'r hyn y mae Allah wedi ei ddatguddio yn y Llyfr, ac yn ei gyfnewid am bris bach — y rhai hynny nid ydynt yn llyncu dim ond tân i'w boliau. Ac ni siarad Allah â nhw ar Ddydd yr Atgyfodiad, ac ni phura nhw, a bydd ganddynt gosb boenus.
 
 إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلَ ٱللَّهُ مِنَ ٱلْكِتَٰبِ وَيَشْتَرُونَ بِهِۦ ثَمَنًۭا قَلِيلًا ۙ أُو۟لَٰٓئِكَ مَا يَأْكُلُونَ فِى بُطُونِهِمْ إِلَّا ٱلنَّارَ وَلَا يُكَلِّمُهُمُ ٱللَّهُ يَوْمَ ٱلْقِيَٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
 
-**2:175**  Nhw yw’r rhai sy’n cyfnewid arweiniad am gyfeiliorn, a maddeuant am gosb. Ond pam y maent yn mynnu ar y Tân?
+**2:175**  Nhw yw'r rhai sy'n cyfnewid arweiniad am gyfeiliorn, a maddeuant am gosb. Ond pam y maent yn mynnu ar y Tân?
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلضَّلَٰلَةَ بِٱلْهُدَىٰ وَٱلْعَذَابَ بِٱلْمَغْفِرَةِ ۚ فَمَآ أَصْبَرَهُمْ عَلَى ٱلنَّارِ
 
-**2:176**  Mae hynny am fod Allah wedi datguddio’r Llyfr mewn gwirionedd; ac mae’r rhai sy’n anghytuno ynghylch y Llyfr mewn anghydfod dwfn.
+**2:176**  Mae hynny am fod Allah wedi datguddio'r Llyfr mewn gwirionedd; ac mae'r rhai sy'n anghytuno ynghylch y Llyfr mewn anghydfod dwfn.
 
 ذَٰلِكَ بِأَنَّ ٱللَّهَ نَزَّلَ ٱلْكِتَٰبَ بِٱلْحَقِّ ۗ وَإِنَّ ٱلَّذِينَ ٱخْتَلَفُوا۟ فِى ٱلْكِتَٰبِ لَفِى شِقَاقٍۭ بَعِيدٍۢ
 
-**2:177**  Nid yw cyfiawnder yn golygu troi eich wynebau tuag at y Dwyrain a’r Gorllewin. Ond cyfiawn yw’r hwn sy’n credu yn Allah, a’r Dydd Olaf, a’r angylion, a’r Ysgrythur, a’r proffwydi. Sy’n rhoi arian, er yn annwyl, i berthnasau agos, ac amddifaid, a’r anghenus, a’r digartref, a’r cardotwyr, ac ar gyfer rhyddhau caethweision; y rhai sy’n cynnal y gweddïau, ac yn talu’r elusen orfodol, ac yn cyflawni eu haddewid pan addawant, ac yn dyfalbarhau yn amyneddgar yn wyneb erledigaeth, caledi, ac yn amser gwrthdaro. Y rhain yw’r diffuant; y rhain yw’r duwiol.
+**2:177**  Nid yw cyfiawnder yn golygu troi eich wynebau tuag at y Dwyrain a'r Gorllewin. Ond cyfiawn yw'r hwn sy'n credu yn Allah, a'r Dydd Olaf, a'r angylion, a'r Ysgrythur, a'r proffwydi. Sy'n rhoi arian, er yn annwyl, i berthnasau agos, ac amddifaid, a'r anghenus, a'r digartref, a'r cardotwyr, ac ar gyfer rhyddhau caethweision; y rhai sy'n cynnal y gweddïau, ac yn talu'r elusen orfodol, ac yn cyflawni eu haddewid pan addawant, ac yn dyfalbarhau yn amyneddgar yn wyneb erledigaeth, caledi, ac yn amser gwrthdaro. Y rhain yw'r diffuant; y rhain yw'r duwiol.
 
 ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَٱلْمَلَٰٓئِكَةِ وَٱلْكِتَٰبِ وَٱلنَّبِيِّۦنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَٰهَدُوا۟ ۖ وَٱلصَّٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُتَّقُونَ
 
-**2:178**  O chi sy’n credu! Mae dial am y llofruddiedig wedi ei ordeinio arnoch: y rhydd am y rhydd, y caethwas am y gaethwas, y fenyw am y fenyw. Ond os caiff ei faddau gan ei berthynas, yna rhoddwch unrhyw ofyn rhesymol, a thalwch ag ewyllys da. Consesiwn oddi wrth eich Arglwydd yw hwn, a thrugaredd. Ond pwy bynnag sy’n cyflawni ymosodedd ar ôl hynny, mae gosb boenus yn ei aros.
+**2:178**  O chi sy'n credu! Mae dial am y llofruddiedig wedi ei ordeinio arnoch: y rhydd am y rhydd, y caethwas am y gaethwas, y fenyw am y fenyw. Ond os caiff ei faddau gan ei berthynas, yna rhoddwch unrhyw ofyn rhesymol, a thalwch ag ewyllys da. Consesiwn oddi wrth eich Arglwydd yw hwn, a thrugaredd. Ond pwy bynnag sy'n cyflawni ymosodedd ar ôl hynny, mae gosb boenus yn ei aros.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلْقِصَاصُ فِى ٱلْقَتْلَى ۖ ٱلْحُرُّ بِٱلْحُرِّ وَٱلْعَبْدُ بِٱلْعَبْدِ وَٱلْأُنثَىٰ بِٱلْأُنثَىٰ ۚ فَمَنْ عُفِىَ لَهُۥ مِنْ أَخِيهِ شَىْءٌۭ فَٱتِّبَاعٌۢ بِٱلْمَعْرُوفِ وَأَدَآءٌ إِلَيْهِ بِإِحْسَٰنٍۢ ۗ ذَٰلِكَ تَخْفِيفٌۭ مِّن رَّبِّكُمْ وَرَحْمَةٌۭ ۗ فَمَنِ ٱعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٌۭ
 
@@ -916,27 +916,27 @@
 
 وَلَكُمْ فِى ٱلْقِصَاصِ حَيَوٰةٌۭ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ لَعَلَّكُمْ تَتَّقُونَ
 
-**2:180**  Mae wedi ei ordeinio i chi: pan fydd marwolaeth yn nesáu at un ohonoch, ac yn gadael cyfoeth, i wneud ewyllys o blaid y rhieni a’r perthnasau, yn deg ac yn gywir — dyletswydd ar y cyfiawn.
+**2:180**  Mae wedi ei ordeinio i chi: pan fydd marwolaeth yn nesáu at un ohonoch, ac yn gadael cyfoeth, i wneud ewyllys o blaid y rhieni a'r perthnasau, yn deg ac yn gywir — dyletswydd ar y cyfiawn.
 
 كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ إِن تَرَكَ خَيْرًا ٱلْوَصِيَّةُ لِلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ بِٱلْمَعْرُوفِ ۖ حَقًّا عَلَى ٱلْمُتَّقِينَ
 
-**2:181**  Ond pwy bynnag sy’n ei newid ar ôl ei glywed, mae’r euogrwydd ar y rhai sy’n ei newid. Mae Allah yn Hollglywedol, yn Hollwybodol.
+**2:181**  Ond pwy bynnag sy'n ei newid ar ôl ei glywed, mae'r euogrwydd ar y rhai sy'n ei newid. Mae Allah yn Hollglywedol, yn Hollwybodol.
 
 فَمَنۢ بَدَّلَهُۥ بَعْدَمَا سَمِعَهُۥ فَإِنَّمَآ إِثْمُهُۥ عَلَى ٱلَّذِينَ يُبَدِّلُونَهُۥٓ ۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌۭ
 
-**2:182**  Pe bai rhywun yn amau tuedd neu anghyfiawnder ar ran gwneuthurwr ewyllys, ac yna’n cymodi rhyngddynt, nid yw’n cyflawni pechod. Mae Allah yn Faddeugar ac yn Drugarog.
+**2:182**  Pe bai rhywun yn amau tuedd neu anghyfiawnder ar ran gwneuthurwr ewyllys, ac yna'n cymodi rhyngddynt, nid yw'n cyflawni pechod. Mae Allah yn Faddeugar ac yn Drugarog.
 
 فَمَنْ خَافَ مِن مُّوصٍۢ جَنَفًا أَوْ إِثْمًۭا فَأَصْلَحَ بَيْنَهُمْ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ
 
-**2:183**  O chi sy’n credu! Mae ympryd wedi ei ragnodi i chi, fel y’i rhagnodwyd i’r rhai o’ch blaen, fel y gallech ddod yn gyfiawn.
+**2:183**  O chi sy'n credu! Mae ympryd wedi ei ragnodi i chi, fel y'i rhagnodwyd i'r rhai o'ch blaen, fel y gallech ddod yn gyfiawn.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلصِّيَامُ كَمَا كُتِبَ عَلَى ٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
 
-**2:184**  Am nifer penodedig o ddyddiau. Ond pwy bynnag yn eich plith sy’n sâl, neu ar daith, yna nifer o ddyddiau eraill. I’r rhai sy’n gallu: pridwerth o fwydo person anghenus. Ond pwy bynnag sy’n gwirfoddoli daioni, mae’n well iddo. Ond ymprydio sydd orau i chi, pe baech ond yn gwybod.
+**2:184**  Am nifer penodedig o ddyddiau. Ond pwy bynnag yn eich plith sy'n sâl, neu ar daith, yna nifer o ddyddiau eraill. I'r rhai sy'n gallu: pridwerth o fwydo person anghenus. Ond pwy bynnag sy'n gwirfoddoli daioni, mae'n well iddo. Ond ymprydio sydd orau i chi, pe baech ond yn gwybod.
 
 أَيَّامًۭا مَّعْدُودَٰتٍۢ ۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ عَلَىٰ سَفَرٍۢ فَعِدَّةٌۭ مِّنْ أَيَّامٍ أُخَرَ ۚ وَعَلَى ٱلَّذِينَ يُطِيقُونَهُۥ فِدْيَةٌۭ طَعَامُ مِسْكِينٍۢ ۖ فَمَن تَطَوَّعَ خَيْرًۭا فَهُوَ خَيْرٌۭ لَّهُۥ ۚ وَأَن تَصُومُوا۟ خَيْرٌۭ لَّكُمْ ۖ إِن كُنتُمْ تَعْلَمُونَ
 
-**2:185**  Ramadan yw’r mis y datguddiwyd y Qur’an ynddo. Arweiniad i ddynolryw, ac arwyddion eglur o arweiniad, a’r Maen Prawf. Pwy bynnag ohonoch sy’n tystio’r mis, ymprydied ef. Ond pwy bynnag sy’n sâl, neu ar daith, yna nifer o ddyddiau eraill. Mae Allah yn dymuno rhwyddineb i chi, ac nid yw’n dymuno caledi i chi, fel y gallech gwblhau’r nifer, a dathlu Allah am eich arwain, fel y gallech fod yn ddiolchgar.
+**2:185**  Ramadan yw'r mis y datguddiwyd y Qur'an ynddo. Arweiniad i ddynolryw, ac arwyddion eglur o arweiniad, a'r Maen Prawf. Pwy bynnag ohonoch sy'n tystio'r mis, ymprydied ef. Ond pwy bynnag sy'n sâl, neu ar daith, yna nifer o ddyddiau eraill. Mae Allah yn dymuno rhwyddineb i chi, ac nid yw'n dymuno caledi i chi, fel y gallech gwblhau'r nifer, a dathlu Allah am eich arwain, fel y gallech fod yn ddiolchgar.
 
 شَهْرُ رَمَضَانَ ٱلَّذِىٓ أُنزِلَ فِيهِ ٱلْقُرْءَانُ هُدًۭى لِّلنَّاسِ وَبَيِّنَٰتٍۢ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ ۚ فَمَن شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ ۖ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍۢ فَعِدَّةٌۭ مِّنْ أَيَّامٍ أُخَرَ ۗ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلَا يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُوا۟ ٱلْعِدَّةَ وَلِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ
 
@@ -944,23 +944,23 @@
 
 وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ
 
-**2:187**  Caniateir i chi gyfathrach â’ch gwragedd ar noson yr ympryd. Maent yn wisg i chi, a chwithau yn wisg iddynt. Mae Allah yn gwybod eich bod yn arfer bradychu eich hunain, ond trodd atoch a’ch maddeuodd. Felly nesewch atynt yn awr, a cheisiwch yr hyn y mae Allah wedi ei ordeinio i chi, a bwytewch ac yfwch nes y gellir gwahaniaethu rhwng y llinyn gwyn o’r wawr a’r llinyn du. Yna cwblhewch yr ympryd hyd at noswyl. Ond peidiwch â nesáu atynt tra byddwch mewn encil yn y mosgiau. Dyma derfynau Allah, felly peidiwch â dod yn agos atynt. Felly y mae Allah yn egluro ei ddatguddiadau i’r bobl, fel y gallent gyrraedd duwioldeb.
+**2:187**  Caniateir i chi gyfathrach â'ch gwragedd ar noson yr ympryd. Maent yn wisg i chi, a chwithau yn wisg iddynt. Mae Allah yn gwybod eich bod yn arfer bradychu eich hunain, ond trodd atoch a'ch maddeuodd. Felly nesewch atynt yn awr, a cheisiwch yr hyn y mae Allah wedi ei ordeinio i chi, a bwytewch ac yfwch nes y gellir gwahaniaethu rhwng y llinyn gwyn o'r wawr a'r llinyn du. Yna cwblhewch yr ympryd hyd at noswyl. Ond peidiwch â nesáu atynt tra byddwch mewn encil yn y mosgiau. Dyma derfynau Allah, felly peidiwch â dod yn agos atynt. Felly y mae Allah yn egluro ei ddatguddiadau i'r bobl, fel y gallent gyrraedd duwioldeb.
 
 أُحِلَّ لَكُمْ لَيْلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمْ ۚ هُنَّ لِبَاسٌۭ لَّكُمْ وَأَنتُمْ لِبَاسٌۭ لَّهُنَّ ۗ عَلِمَ ٱللَّهُ أَنَّكُمْ كُنتُمْ تَخْتَانُونَ أَنفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا عَنكُمْ ۖ فَٱلْـَٰٔنَ بَٰشِرُوهُنَّ وَٱبْتَغُوا۟ مَا كَتَبَ ٱللَّهُ لَكُمْ ۚ وَكُلُوا۟ وَٱشْرَبُوا۟ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ ۖ ثُمَّ أَتِمُّوا۟ ٱلصِّيَامَ إِلَى ٱلَّيْلِ ۚ وَلَا تُبَٰشِرُوهُنَّ وَأَنتُمْ عَٰكِفُونَ فِى ٱلْمَسَٰجِدِ ۗ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَقْرَبُوهَا ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ
 
-**2:188**  A pheidiwch â bwyta cyfoeth eich gilydd trwy ddulliau anghyfiawn, nac yn ei gynnig fel llwgrwobr i’r swyddogion er mwyn bwyta rhan o gyfoeth pobl eraill yn anghyfreithlon, tra byddwch yn gwybod.
+**2:188**  A pheidiwch â bwyta cyfoeth eich gilydd trwy ddulliau anghyfiawn, nac yn ei gynnig fel llwgrwobr i'r swyddogion er mwyn bwyta rhan o gyfoeth pobl eraill yn anghyfreithlon, tra byddwch yn gwybod.
 
 وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ وَتُدْلُوا۟ بِهَآ إِلَى ٱلْحُكَّامِ لِتَأْكُلُوا۟ فَرِيقًۭا مِّنْ أَمْوَٰلِ ٱلنَّاسِ بِٱلْإِثْمِ وَأَنتُمْ تَعْلَمُونَ
 
-**2:189**  Maent yn gofyn i ti am y cilgantau. Dywed, “Amserlenni i bobl ydynt, ac ar gyfer yr Hajj.” Nid yw’n rhinweddol eich bod yn nesáu at gartrefi o’u cefnau, ond rhinwedd yw bod yn dduwiol. Felly nesewch at gartrefi o’u drysau, ac arsylwch Allah, fel y gallech lwyddo.
+**2:189**  Maent yn gofyn i ti am y cilgantau. Dywed, "Amserlenni i bobl ydynt, ac ar gyfer yr Hajj." Nid yw'n rhinweddol eich bod yn nesáu at gartrefi o'u cefnau, ond rhinwedd yw bod yn dduwiol. Felly nesewch at gartrefi o'u drysau, ac arsylwch Allah, fel y gallech lwyddo.
 
 ۞ يَسْـَٔلُونَكَ عَنِ ٱلْأَهِلَّةِ ۖ قُلْ هِىَ مَوَٰقِيتُ لِلنَّاسِ وَٱلْحَجِّ ۗ وَلَيْسَ ٱلْبِرُّ بِأَن تَأْتُوا۟ ٱلْبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ ٱلْبِرَّ مَنِ ٱتَّقَىٰ ۗ وَأْتُوا۟ ٱلْبُيُوتَ مِنْ أَبْوَٰبِهَا ۚ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
 
-**2:190**  Ac ymladdwch yn achos Allah y rhai sy’n ymladd â chi, ond peidiwch â chyflawni ymosodedd; nid yw Allah yn caru’r ymosodwyr.
+**2:190**  Ac ymladdwch yn achos Allah y rhai sy'n ymladd â chi, ond peidiwch â chyflawni ymosodedd; nid yw Allah yn caru'r ymosodwyr.
 
 وَقَٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَٰتِلُونَكُمْ وَلَا تَعْتَدُوٓا۟ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ
 
-**2:191**  A lladdwch nhw lle bynnag y goddiweddych nhw, a gyrrwch nhw o’r lle y’ch gyrrodd nhw. Mae gormes yn fwy difrifol na llofruddiaeth. Ond peidiwch â’u hymladd yn y Mosg Sanctaidd, oni bai eu bod yn eich ymladd chi yno. Os ymladdant â chi, yna lladdwch nhw. Dyna yw dial yr anghredinwyr.
+**2:191**  A lladdwch nhw lle bynnag y goddiweddych nhw, a gyrrwch nhw o'r lle y'ch gyrrodd nhw. Mae gormes yn fwy difrifol na llofruddiaeth. Ond peidiwch â'u hymladd yn y Mosg Sanctaidd, oni bai eu bod yn eich ymladd chi yno. Os ymladdant â chi, yna lladdwch nhw. Dyna yw dial yr anghredinwyr.
 
 وَٱقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ وَأَخْرِجُوهُم مِّنْ حَيْثُ أَخْرَجُوكُمْ ۚ وَٱلْفِتْنَةُ أَشَدُّ مِنَ ٱلْقَتْلِ ۚ وَلَا تُقَٰتِلُوهُمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ حَتَّىٰ يُقَٰتِلُوكُمْ فِيهِ ۖ فَإِن قَٰتَلُوكُمْ فَٱقْتُلُوهُمْ ۗ كَذَٰلِكَ جَزَآءُ ٱلْكَٰفِرِينَ
 
@@ -972,135 +972,135 @@
 
 وَقَٰتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌۭ وَيَكُونَ ٱلدِّينُ لِلَّهِ ۖ فَإِنِ ٱنتَهَوْا۟ فَلَا عُدْوَٰنَ إِلَّا عَلَى ٱلظَّٰلِمِينَ
 
-**2:194**  Y mis sanctaidd am y mis sanctaidd; ac mae sacrileg yn galw am ddial. Pwy bynnag sy’n cyflawni ymosodedd yn eich erbyn, dialwch yn ei erbyn yn yr un mesur ag y mae wedi ei gyflawni yn eich erbyn. A byddwch yn ymwybodol o Allah, a gwyddoch fod Allah gyda’r cyfiawn.
+**2:194**  Y mis sanctaidd am y mis sanctaidd; ac mae sacrileg yn galw am ddial. Pwy bynnag sy'n cyflawni ymosodedd yn eich erbyn, dialwch yn ei erbyn yn yr un mesur ag y mae wedi ei gyflawni yn eich erbyn. A byddwch yn ymwybodol o Allah, a gwyddoch fod Allah gyda'r cyfiawn.
 
 ٱلشَّهْرُ ٱلْحَرَامُ بِٱلشَّهْرِ ٱلْحَرَامِ وَٱلْحُرُمَٰتُ قِصَاصٌۭ ۚ فَمَنِ ٱعْتَدَىٰ عَلَيْكُمْ فَٱعْتَدُوا۟ عَلَيْهِ بِمِثْلِ مَا ٱعْتَدَىٰ عَلَيْكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ
 
-**2:195**  A gwariwch yn achos Allah, a pheidiwch â’ch taflu eich hunain â’ch dwylo eich hunain i ddistryw, a byddwch yn elusengar. Mae Allah yn caru’r elusengar.
+**2:195**  A gwariwch yn achos Allah, a pheidiwch â'ch taflu eich hunain â'ch dwylo eich hunain i ddistryw, a byddwch yn elusengar. Mae Allah yn caru'r elusengar.
 
 وَأَنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلَا تُلْقُوا۟ بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ ۛ وَأَحْسِنُوٓا۟ ۛ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ
 
-**2:196**  A chyflawnwch yr Hajj a’r Umrah i Allah. Ond os cewch eich atal, yna beth bynnag sy’n ymarferol o offrymau. A pheidiwch ag eillio eich pennau nes i’r offrwm gyrraedd ei gyrchfan. Pwy bynnag ohonoch sy’n sâl, neu sydd ag anaf i’r pen, yna pridwerth o ympryd, neu elusen, neu addoliad. Pan fyddwch yn ddiogel: pwy bynnag sy’n parhau’r Umrah hyd at yr Hajj, yna beth bynnag sy’n ymarferol o offrwm. Ond os nad oes ganddo’r modd, yna ympryd am dri diwrnod yn ystod yr Hajj a saith pan fyddwch wedi dychwelyd, gan wneud deg i gyd. Mae hwn ar gyfer yr hwn nad yw ei deulu yn bresennol yn y Mosg Sanctaidd. Ac arhoswch yn ymwybodol o Allah, a gwyddoch fod Allah yn ddifrifol mewn dial.
+**2:196**  A chyflawnwch yr Hajj a'r Umrah i Allah. Ond os cewch eich atal, yna beth bynnag sy'n ymarferol o offrymau. A pheidiwch ag eillio eich pennau nes i'r offrwm gyrraedd ei gyrchfan. Pwy bynnag ohonoch sy'n sâl, neu sydd ag anaf i'r pen, yna pridwerth o ympryd, neu elusen, neu addoliad. Pan fyddwch yn ddiogel: pwy bynnag sy'n parhau'r Umrah hyd at yr Hajj, yna beth bynnag sy'n ymarferol o offrwm. Ond os nad oes ganddo'r modd, yna ympryd am dri diwrnod yn ystod yr Hajj a saith pan fyddwch wedi dychwelyd, gan wneud deg i gyd. Mae hwn ar gyfer yr hwn nad yw ei deulu yn bresennol yn y Mosg Sanctaidd. Ac arhoswch yn ymwybodol o Allah, a gwyddoch fod Allah yn ddifrifol mewn dial.
 
 وَأَتِمُّوا۟ ٱلْحَجَّ وَٱلْعُمْرَةَ لِلَّهِ ۚ فَإِنْ أُحْصِرْتُمْ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ ۖ وَلَا تَحْلِقُوا۟ رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ ٱلْهَدْىُ مَحِلَّهُۥ ۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ بِهِۦٓ أَذًۭى مِّن رَّأْسِهِۦ فَفِدْيَةٌۭ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍۢ ۚ فَإِذَآ أَمِنتُمْ فَمَن تَمَتَّعَ بِٱلْعُمْرَةِ إِلَى ٱلْحَجِّ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ ۚ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَٰثَةِ أَيَّامٍۢ فِى ٱلْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ ۗ تِلْكَ عَشَرَةٌۭ كَامِلَةٌۭ ۗ ذَٰلِكَ لِمَن لَّمْ يَكُنْ أَهْلُهُۥ حَاضِرِى ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
 
-**2:197**  Mae’r Hajj yn ystod misoedd penodol. Pwy bynnag sy’n penderfynu cyflawni’r Hajj — ni fydd cysylltiadau rhywiol, nac ymddygiad drwg, nac ymryson yn ystod yr Hajj. A pha ddaioni bynnag a wnewch, mae Allah yn ei wybod. A chymerwch ddarpariaethau, ond y ddarpariaeth orau yw cyfiawnder. A byddwch yn ystyriol ohonof, O bobl o ddeall.
+**2:197**  Mae'r Hajj yn ystod misoedd penodol. Pwy bynnag sy'n penderfynu cyflawni'r Hajj — ni fydd cysylltiadau rhywiol, nac ymddygiad drwg, nac ymryson yn ystod yr Hajj. A pha ddaioni bynnag a wnewch, mae Allah yn ei wybod. A chymerwch ddarpariaethau, ond y ddarpariaeth orau yw cyfiawnder. A byddwch yn ystyriol ohonof, O bobl o ddeall.
 
 ٱلْحَجُّ أَشْهُرٌۭ مَّعْلُومَٰتٌۭ ۚ فَمَن فَرَضَ فِيهِنَّ ٱلْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِى ٱلْحَجِّ ۗ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍۢ يَعْلَمْهُ ٱللَّهُ ۗ وَتَزَوَّدُوا۟ فَإِنَّ خَيْرَ ٱلزَّادِ ٱلتَّقْوَىٰ ۚ وَٱتَّقُونِ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ
 
-**2:198**  Nid ydych yn cyflawni cam trwy geisio haelioni oddi wrth eich Arglwydd. Pan wasgerwch oddi wrth Arafat, cofiwch Allah wrth y Tirnod Sanctaidd. A cofiwch Ef fel y mae wedi eich arwain. Er, cyn hynny, yr oeddech o’r rhai ar gyfeiliorn.
+**2:198**  Nid ydych yn cyflawni cam trwy geisio haelioni oddi wrth eich Arglwydd. Pan wasgerwch oddi wrth Arafat, cofiwch Allah wrth y Tirnod Sanctaidd. A cofiwch Ef fel y mae wedi eich arwain. Er, cyn hynny, yr oeddech o'r rhai ar gyfeiliorn.
 
 لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَبْتَغُوا۟ فَضْلًۭا مِّن رَّبِّكُمْ ۚ فَإِذَآ أَفَضْتُم مِّنْ عَرَفَٰتٍۢ فَٱذْكُرُوا۟ ٱللَّهَ عِندَ ٱلْمَشْعَرِ ٱلْحَرَامِ ۖ وَٱذْكُرُوهُ كَمَا هَدَىٰكُمْ وَإِن كُنتُم مِّن قَبْلِهِۦ لَمِنَ ٱلضَّآلِّينَ
 
-**2:199**  Yna gwasgerwch o’r lle y mae’r bobl yn gwasgaru, a gofynnwch i Allah am faddeuant. Mae Allah yn Fwyaf Maddeugar, yn Fwyaf Trugarog.
+**2:199**  Yna gwasgerwch o'r lle y mae'r bobl yn gwasgaru, a gofynnwch i Allah am faddeuant. Mae Allah yn Fwyaf Maddeugar, yn Fwyaf Trugarog.
 
 ثُمَّ أَفِيضُوا۟ مِنْ حَيْثُ أَفَاضَ ٱلنَّاسُ وَٱسْتَغْفِرُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ
 
-**2:200**  Pan fyddwch wedi cwblhau eich defodau, cofiwch Allah fel y cofiwch eich rhieni, neu hyd yn oed yn fwy. Ymhlith y bobl y mae’r hwn sy’n dweud, “Ein Harglwydd, rho i ni yn y byd hwn,” eto nid oes ganddo gyfran yn y Bywyd ar Ôl.
+**2:200**  Pan fyddwch wedi cwblhau eich defodau, cofiwch Allah fel y cofiwch eich rhieni, neu hyd yn oed yn fwy. Ymhlith y bobl y mae'r hwn sy'n dweud, "Ein Harglwydd, rho i ni yn y byd hwn," eto nid oes ganddo gyfran yn y Bywyd ar Ôl.
 
 فَإِذَا قَضَيْتُم مَّنَٰسِكَكُمْ فَٱذْكُرُوا۟ ٱللَّهَ كَذِكْرِكُمْ ءَابَآءَكُمْ أَوْ أَشَدَّ ذِكْرًۭا ۗ فَمِنَ ٱلنَّاسِ مَن يَقُولُ رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا وَمَا لَهُۥ فِى ٱلْءَاخِرَةِ مِنْ خَلَٰقٍۢ
 
-**2:201**  Ac yn eu plith y mae’r hwn sy’n dweud, “Ein Harglwydd, rho i ni ddaioni yn y byd hwn, a daioni yn y Bywyd ar Ôl, ac amddiffyn ni rhag poen y Tân.”
+**2:201**  Ac yn eu plith y mae'r hwn sy'n dweud, "Ein Harglwydd, rho i ni ddaioni yn y byd hwn, a daioni yn y Bywyd ar Ôl, ac amddiffyn ni rhag poen y Tân."
 
 وَمِنْهُم مَّن يَقُولُ رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا حَسَنَةًۭ وَفِى ٱلْءَاخِرَةِ حَسَنَةًۭ وَقِنَا عَذَابَ ٱلنَّارِ
 
-**2:202**  Bydd gan y rhain gyfran o’r hyn maent wedi ei ennill. Mae Allah yn gyflym mewn cyfrif.
+**2:202**  Bydd gan y rhain gyfran o'r hyn maent wedi ei ennill. Mae Allah yn gyflym mewn cyfrif.
 
 أُو۟لَٰٓئِكَ لَهُمْ نَصِيبٌۭ مِّمَّا كَسَبُوا۟ ۚ وَٱللَّهُ سَرِيعُ ٱلْحِسَابِ
 
-**2:203**  A chofiwch Allah yn ystod y dyddiau penodedig. Ond pwy bynnag sy’n brysio ymlaen mewn dau ddiwrnod nid yw’n cyflawni cam, a phwy bynnag sy’n aros nid yw’n cyflawni cam — ar yr amod ei fod yn cynnal cyfiawnder. Ac ufuddhewch i Allah, a gwyddoch ato Ef y cewch eich casglu.
+**2:203**  A chofiwch Allah yn ystod y dyddiau penodedig. Ond pwy bynnag sy'n brysio ymlaen mewn dau ddiwrnod nid yw'n cyflawni cam, a phwy bynnag sy'n aros nid yw'n cyflawni cam — ar yr amod ei fod yn cynnal cyfiawnder. Ac ufuddhewch i Allah, a gwyddoch ato Ef y cewch eich casglu.
 
 ۞ وَٱذْكُرُوا۟ ٱللَّهَ فِىٓ أَيَّامٍۢ مَّعْدُودَٰتٍۢ ۚ فَمَن تَعَجَّلَ فِى يَوْمَيْنِ فَلَآ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ فَلَآ إِثْمَ عَلَيْهِ ۚ لِمَنِ ٱتَّقَىٰ ۗ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ
 
-**2:204**  Ymhlith y bobl y mae’r hwn y mae ei araith am y bywyd bydol yn eich synnu, ac mae’n galw Allah yn dyst i’r hyn sydd yn ei galon, tra mai ef yw’r mwyaf gelyniaethus o wrthwynebwyr.
+**2:204**  Ymhlith y bobl y mae'r hwn y mae ei araith am y bywyd bydol yn eich synnu, ac mae'n galw Allah yn dyst i'r hyn sydd yn ei galon, tra mai ef yw'r mwyaf gelyniaethus o wrthwynebwyr.
 
 وَمِنَ ٱلنَّاسِ مَن يُعْجِبُكَ قَوْلُهُۥ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَيُشْهِدُ ٱللَّهَ عَلَىٰ مَا فِى قَلْبِهِۦ وَهُوَ أَلَدُّ ٱلْخِصَامِ
 
-**2:205**  Pan fydd yn ennill grym, mae’n ymdrechu i ledaenu llygredd ar y ddaear, gan ddinistrio eiddo a bywydau. Nid yw Allah yn hoffi llygredd.
+**2:205**  Pan fydd yn ennill grym, mae'n ymdrechu i ledaenu llygredd ar y ddaear, gan ddinistrio eiddo a bywydau. Nid yw Allah yn hoffi llygredd.
 
 وَإِذَا تَوَلَّىٰ سَعَىٰ فِى ٱلْأَرْضِ لِيُفْسِدَ فِيهَا وَيُهْلِكَ ٱلْحَرْثَ وَٱلنَّسْلَ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلْفَسَادَ
 
-**2:206**  A phan ddywedir wrtho, “Gwyliwch rhag Allah,” mae ei falchder yn ei arwain i fwy o bechod. Mae Uffern yn ddigon iddo — trigfa erchyll.
+**2:206**  A phan ddywedir wrtho, "Gwyliwch rhag Allah," mae ei falchder yn ei arwain i fwy o bechod. Mae Uffern yn ddigon iddo — trigfa erchyll.
 
 وَإِذَا قِيلَ لَهُ ٱتَّقِ ٱللَّهَ أَخَذَتْهُ ٱلْعِزَّةُ بِٱلْإِثْمِ ۚ فَحَسْبُهُۥ جَهَنَّمُ ۚ وَلَبِئْسَ ٱلْمِهَادُ
 
-**2:207**  Ac ymhlith y bobl y mae’r hwn sy’n gwerthu ei hun yn ceisio cymeradwyaeth Allah. Mae Allah yn garedig tuag at y gweision.
+**2:207**  Ac ymhlith y bobl y mae'r hwn sy'n gwerthu ei hun yn ceisio cymeradwyaeth Allah. Mae Allah yn garedig tuag at y gweision.
 
 وَمِنَ ٱلنَّاسِ مَن يَشْرِى نَفْسَهُ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ ۗ وَٱللَّهُ رَءُوفٌۢ بِٱلْعِبَادِ
 
-**2:208**  O chi sy’n credu! Ewch i mewn i ymostyngiad, o galon gyfan, a pheidiwch â dilyn ôl troed Satan; gelyn llwyr i chi ydyw.
+**2:208**  O chi sy'n credu! Ewch i mewn i ymostyngiad, o galon gyfan, a pheidiwch â dilyn ôl troed Satan; gelyn llwyr i chi ydyw.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱدْخُلُوا۟ فِى ٱلسِّلْمِ كَآفَّةًۭ وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّۭ مُّبِينٌۭ
 
-**2:209**  Ond os llithrwch ar ôl i’r profion ddod atoch, gwyddoch fod Allah yn Nerthol ac yn Ddoeth.
+**2:209**  Ond os llithrwch ar ôl i'r profion ddod atoch, gwyddoch fod Allah yn Nerthol ac yn Ddoeth.
 
 فَإِن زَلَلْتُم مِّنۢ بَعْدِ مَا جَآءَتْكُمُ ٱلْبَيِّنَٰتُ فَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ
 
-**2:210**  A ydynt yn disgwyl i Allah ei Hun ddod atynt yng nghysgodion y cymylau, ynghyd â’r angylion, ac felly setlo’r mater? I Allah y dychwelir pob peth.
+**2:210**  A ydynt yn disgwyl i Allah ei Hun ddod atynt yng nghysgodion y cymylau, ynghyd â'r angylion, ac felly setlo'r mater? I Allah y dychwelir pob peth.
 
 هَلْ يَنظُرُونَ إِلَّآ أَن يَأْتِيَهُمُ ٱللَّهُ فِى ظُلَلٍۢ مِّنَ ٱلْغَمَامِ وَٱلْمَلَٰٓئِكَةُ وَقُضِىَ ٱلْأَمْرُ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
 
-**2:211**  Gofyn i Blant Israel faint o arwyddion eglur yr ydym wedi eu rhoi iddynt. Pwy bynnag sy’n newid bendith Allah ar ôl iddi ddod ato — mae Allah yn ddifrifol mewn dial.
+**2:211**  Gofyn i Blant Israel faint o arwyddion eglur yr ydym wedi eu rhoi iddynt. Pwy bynnag sy'n newid bendith Allah ar ôl iddi ddod ato — mae Allah yn ddifrifol mewn dial.
 
 سَلْ بَنِىٓ إِسْرَٰٓءِيلَ كَمْ ءَاتَيْنَٰهُم مِّنْ ءَايَةٍۭ بَيِّنَةٍۢ ۗ وَمَن يُبَدِّلْ نِعْمَةَ ٱللَّهِ مِنۢ بَعْدِ مَا جَآءَتْهُ فَإِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
 
-**2:212**  Harddwyd bywyd y byd hwn i’r rhai sy’n anghredu, ac maent yn gwawdio’r rhai sy’n credu. Ond bydd y cyfiawn uwchlaw iddynt ar Ddydd yr Atgyfodiad. Mae Allah yn darparu i bwy bynnag a fyn heb fesur.
+**2:212**  Harddwyd bywyd y byd hwn i'r rhai sy'n anghredu, ac maent yn gwawdio'r rhai sy'n credu. Ond bydd y cyfiawn uwchlaw iddynt ar Ddydd yr Atgyfodiad. Mae Allah yn darparu i bwy bynnag a fyn heb fesur.
 
 زُيِّنَ لِلَّذِينَ كَفَرُوا۟ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَيَسْخَرُونَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ ۘ وَٱلَّذِينَ ٱتَّقَوْا۟ فَوْقَهُمْ يَوْمَ ٱلْقِيَٰمَةِ ۗ وَٱللَّهُ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍۢ
 
-**2:213**  Roedd dynolryw yn un gymuned; yna anfonodd Allah y proffwydi, yn dwyn newyddion da ac yn rhoi rhybuddion. Ac anfonodd i lawr gyda nhw yr Ysgrythur, â’r gwirionedd, i farnu rhwng pobl ynghylch eu gwahaniaethau. Ond nid oedd neb yn anghytuno drosti ond y rhai y’i rhoddwyd iddynt — ar ôl i’r profion ddod atynt — o eiddigedd cydrhyngddynt. Yna arweiniodd Allah y rhai a gredodd i’r gwirionedd yr oeddent wedi ymryson yn ei gylch, yn unol â’i ewyllys. Mae Allah yn arwain pwy bynnag a fyn i lwybr union.
+**2:213**  Roedd dynolryw yn un gymuned; yna anfonodd Allah y proffwydi, yn dwyn newyddion da ac yn rhoi rhybuddion. Ac anfonodd i lawr gyda nhw yr Ysgrythur, â'r gwirionedd, i farnu rhwng pobl ynghylch eu gwahaniaethau. Ond nid oedd neb yn anghytuno drosti ond y rhai y'i rhoddwyd iddynt — ar ôl i'r profion ddod atynt — o eiddigedd cydrhyngddynt. Yna arweiniodd Allah y rhai a gredodd i'r gwirionedd yr oeddent wedi ymryson yn ei gylch, yn unol â'i ewyllys. Mae Allah yn arwain pwy bynnag a fyn i lwybr union.
 
 كَانَ ٱلنَّاسُ أُمَّةًۭ وَٰحِدَةًۭ فَبَعَثَ ٱللَّهُ ٱلنَّبِيِّۦنَ مُبَشِّرِينَ وَمُنذِرِينَ وَأَنزَلَ مَعَهُمُ ٱلْكِتَٰبَ بِٱلْحَقِّ لِيَحْكُمَ بَيْنَ ٱلنَّاسِ فِيمَا ٱخْتَلَفُوا۟ فِيهِ ۚ وَمَا ٱخْتَلَفَ فِيهِ إِلَّا ٱلَّذِينَ أُوتُوهُ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ بَغْيًۢا بَيْنَهُمْ ۖ فَهَدَى ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ لِمَا ٱخْتَلَفُوا۟ فِيهِ مِنَ ٱلْحَقِّ بِإِذْنِهِۦ ۗ وَٱللَّهُ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍ
 
-**2:214**  Neu a ydych yn disgwyl mynd i Baradwys cyn i esiampl y rhai a ddaeth o’ch blaen eich cyrraedd? Yr oedd adfyd a chaledi wedi eu taro, ac yr oeddent wedi eu hysgwyd gymaint, fel y dywedodd y Cenhadwr a’r rhai a gredodd gydag ef, “Pryd y mae buddugoliaeth Allah?” Yn wir, mae buddugoliaeth Allah yn agos.
+**2:214**  Neu a ydych yn disgwyl mynd i Baradwys cyn i esiampl y rhai a ddaeth o'ch blaen eich cyrraedd? Yr oedd adfyd a chaledi wedi eu taro, ac yr oeddent wedi eu hysgwyd gymaint, fel y dywedodd y Cenhadwr a'r rhai a gredodd gydag ef, "Pryd y mae buddugoliaeth Allah?" Yn wir, mae buddugoliaeth Allah yn agos.
 
 أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِكُم ۖ مَّسَّتْهُمُ ٱلْبَأْسَآءُ وَٱلضَّرَّآءُ وَزُلْزِلُوا۟ حَتَّىٰ يَقُولَ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ مَتَىٰ نَصْرُ ٱللَّهِ ۗ أَلَآ إِنَّ نَصْرَ ٱللَّهِ قَرِيبٌۭ
 
-**2:215**  Maent yn gofyn i ti beth y dylent ei roi. Dywed, “Pa elusen bynnag a roddwch sydd ar gyfer y rhieni, a’r perthnasau, a’r amddifaid, a’r tlodion, a’r teithiwr. Pa ddaioni bynnag a wnewch, mae Allah yn ymwybodol ohono.
+**2:215**  Maent yn gofyn i ti beth y dylent ei roi. Dywed, "Pa elusen bynnag a roddwch sydd ar gyfer y rhieni, a'r perthnasau, a'r amddifaid, a'r tlodion, a'r teithiwr. Pa ddaioni bynnag a wnewch, mae Allah yn ymwybodol ohono.
 
 يَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ ۖ قُلْ مَآ أَنفَقْتُم مِّنْ خَيْرٍۢ فَلِلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ ۗ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍۢ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌۭ
 
-**2:216**  Mae ymladd wedi ei ordeinio i chi, er eich bod yn ei gasáu. Ond gall fod eich bod yn casáu rhywbeth tra mae’n dda i chi, a gall fod eich bod yn hoffi rhywbeth tra mae’n ddrwg i chi. Mae Allah yn gwybod, ac nid ydych yn gwybod.
+**2:216**  Mae ymladd wedi ei ordeinio i chi, er eich bod yn ei gasáu. Ond gall fod eich bod yn casáu rhywbeth tra mae'n dda i chi, a gall fod eich bod yn hoffi rhywbeth tra mae'n ddrwg i chi. Mae Allah yn gwybod, ac nid ydych yn gwybod.
 
 كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ وَهُوَ كُرْهٌۭ لَّكُمْ ۖ وَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًۭٔا وَهُوَ خَيْرٌۭ لَّكُمْ ۖ وَعَسَىٰٓ أَن تُحِبُّوا۟ شَيْـًۭٔا وَهُوَ شَرٌّۭ لَّكُمْ ۗ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
 
-**2:217**  Maent yn gofyn i ti am ymladd yn ystod y Mis Sanctaidd. Dywed, “Mae ymladd ynddo yn warthus; ond rhwystro eraill rhag llwybr Allah, ac anghredu ynddo, ac atal mynediad i’r Mosg Sanctaidd, a gyrru ei bobl ohono, yn fwy gwaradwyddus gydag Allah. Ac mae erledigaeth yn fwy difrifol na lladd. Ni pheidian â’ch ymladd nes iddynt eich troi yn ôl oddi wrth eich crefydd, os gallant. Pwy bynnag yn eich plith sy’n troi yn ôl oddi wrth ei grefydd, ac yn marw’n anghredwr — y rhai hynny yw’r rhai y daw eu gweithredoedd i ddim, yn y bywyd hwn, ac yn y Bywyd ar Ôl. Y rhai hynny yw preswylwyr y Tân, yn aros ynddo am byth.
+**2:217**  Maent yn gofyn i ti am ymladd yn ystod y Mis Sanctaidd. Dywed, "Mae ymladd ynddo yn warthus; ond rhwystro eraill rhag llwybr Allah, ac anghredu ynddo, ac atal mynediad i'r Mosg Sanctaidd, a gyrru ei bobl ohono, yn fwy gwaradwyddus gydag Allah. Ac mae erledigaeth yn fwy difrifol na lladd. Ni pheidian â'ch ymladd nes iddynt eich troi yn ôl oddi wrth eich crefydd, os gallant. Pwy bynnag yn eich plith sy'n troi yn ôl oddi wrth ei grefydd, ac yn marw'n anghredwr — y rhai hynny yw'r rhai y daw eu gweithredoedd i ddim, yn y bywyd hwn, ac yn y Bywyd ar Ôl. Y rhai hynny yw preswylwyr y Tân, yn aros ynddo am byth.
 
 يَسْـَٔلُونَكَ عَنِ ٱلشَّهْرِ ٱلْحَرَامِ قِتَالٍۢ فِيهِ ۖ قُلْ قِتَالٌۭ فِيهِ كَبِيرٌۭ ۖ وَصَدٌّ عَن سَبِيلِ ٱللَّهِ وَكُفْرٌۢ بِهِۦ وَٱلْمَسْجِدِ ٱلْحَرَامِ وَإِخْرَاجُ أَهْلِهِۦ مِنْهُ أَكْبَرُ عِندَ ٱللَّهِ ۚ وَٱلْفِتْنَةُ أَكْبَرُ مِنَ ٱلْقَتْلِ ۗ وَلَا يَزَالُونَ يُقَٰتِلُونَكُمْ حَتَّىٰ يَرُدُّوكُمْ عَن دِينِكُمْ إِنِ ٱسْتَطَٰعُوا۟ ۚ وَمَن يَرْتَدِدْ مِنكُمْ عَن دِينِهِۦ فَيَمُتْ وَهُوَ كَافِرٌۭ فَأُو۟لَٰٓئِكَ حَبِطَتْ أَعْمَٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ ۖ وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
-**2:218**  Y rhai a gredodd, a’r rhai a ymfudodd ac a ymladdodd er mwyn Allah — y rhai hynny sy’n edrych ymlaen at drugaredd Allah. Mae Allah yn Faddeugar ac yn Drugarog.
+**2:218**  Y rhai a gredodd, a'r rhai a ymfudodd ac a ymladdodd er mwyn Allah — y rhai hynny sy'n edrych ymlaen at drugaredd Allah. Mae Allah yn Faddeugar ac yn Drugarog.
 
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَاجَرُوا۟ وَجَٰهَدُوا۟ فِى سَبِيلِ ٱللَّهِ أُو۟لَٰٓئِكَ يَرْجُونَ رَحْمَتَ ٱللَّهِ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ
 
-**2:219**  Maent yn gofyn i ti am feddwdod a gamblo. Dywed, “Y mae pechod mawr ynddynt, a rhywfaint o fudd i bobl, ond mae eu pechadurusrwydd yn drech na’u budd.” Ac maent yn gofyn i ti am yr hyn y dylent ei roi: dywed, “Y gweddill.” Felly y mae Allah yn egluro’r datguddiadau i chi, fel y gallech feddwl.
+**2:219**  Maent yn gofyn i ti am feddwdod a gamblo. Dywed, "Y mae pechod mawr ynddynt, a rhywfaint o fudd i bobl, ond mae eu pechadurusrwydd yn drech na'u budd." Ac maent yn gofyn i ti am yr hyn y dylent ei roi: dywed, "Y gweddill." Felly y mae Allah yn egluro'r datguddiadau i chi, fel y gallech feddwl.
 
 ۞ يَسْـَٔلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ ۖ قُلْ فِيهِمَآ إِثْمٌۭ كَبِيرٌۭ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا ۗ وَيَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ
 
-**2:220**  Am y byd hwn a’r nesaf. Ac maent yn gofyn i ti am amddifaid. Dywed, “Gwelliant iddynt sydd orau. Ac os cymysgwch â nhw, yna brodyr i chi ydynt.” Mae Allah yn adnabod yr anonest oddi wrth yr onest. Pe bai Allah wedi ewyllysio, gallai fod wedi eich gorlwytho. Mae Allah yn Gadarn ac yn Ddoeth.
+**2:220**  Am y byd hwn a'r nesaf. Ac maent yn gofyn i ti am amddifaid. Dywed, "Gwelliant iddynt sydd orau. Ac os cymysgwch â nhw, yna brodyr i chi ydynt." Mae Allah yn adnabod yr anonest oddi wrth yr onest. Pe bai Allah wedi ewyllysio, gallai fod wedi eich gorlwytho. Mae Allah yn Gadarn ac yn Ddoeth.
 
 فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ ۗ وَيَسْـَٔلُونَكَ عَنِ ٱلْيَتَٰمَىٰ ۖ قُلْ إِصْلَاحٌۭ لَّهُمْ خَيْرٌۭ ۖ وَإِن تُخَالِطُوهُمْ فَإِخْوَٰنُكُمْ ۚ وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ ۚ وَلَوْ شَآءَ ٱللَّهُ لَأَعْنَتَكُمْ ۚ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌۭ
 
-**2:221**  Peidiwch â phriodi eilunaddolwragedd, oni bai eu bod wedi credu. Mae morwyn grediniol yn well nag eilunaddolwraig, hyd yn oed os ydych yn ei hoffi. A pheidiwch â phriodi eilunaddolwyr, oni bai eu bod wedi credu. Mae gwas crediniol yn well nag eilunaddolwr, hyd yn oed os ydych yn ei hoffi. Mae’r rhain yn galw i’r Tân, ond mae Allah yn galw i’r Ardd ac i faddeuant, trwy ei ganiatâd. Mae’n gwneud ei gyfathrebiadau yn eglur i’r bobl, fel y gallent fod yn ystyriol.
+**2:221**  Peidiwch â phriodi eilunaddolwragedd, oni bai eu bod wedi credu. Mae morwyn grediniol yn well nag eilunaddolwraig, hyd yn oed os ydych yn ei hoffi. A pheidiwch â phriodi eilunaddolwyr, oni bai eu bod wedi credu. Mae gwas crediniol yn well nag eilunaddolwr, hyd yn oed os ydych yn ei hoffi. Mae'r rhain yn galw i'r Tân, ond mae Allah yn galw i'r Ardd ac i faddeuant, trwy ei ganiatâd. Mae'n gwneud ei gyfathrebiadau yn eglur i'r bobl, fel y gallent fod yn ystyriol.
 
 وَلَا تَنكِحُوا۟ ٱلْمُشْرِكَٰتِ حَتَّىٰ يُؤْمِنَّ ۚ وَلَأَمَةٌۭ مُّؤْمِنَةٌ خَيْرٌۭ مِّن مُّشْرِكَةٍۢ وَلَوْ أَعْجَبَتْكُمْ ۗ وَلَا تُنكِحُوا۟ ٱلْمُشْرِكِينَ حَتَّىٰ يُؤْمِنُوا۟ ۚ وَلَعَبْدٌۭ مُّؤْمِنٌ خَيْرٌۭ مِّن مُّشْرِكٍۢ وَلَوْ أَعْجَبَكُمْ ۗ أُو۟لَٰٓئِكَ يَدْعُونَ إِلَى ٱلنَّارِ ۖ وَٱللَّهُ يَدْعُوٓا۟ إِلَى ٱلْجَنَّةِ وَٱلْمَغْفِرَةِ بِإِذْنِهِۦ ۖ وَيُبَيِّنُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
 
-**2:222**  Ac maent yn gofyn i ti am fislif: dywed, “Mae’n niweidiol, felly cadwch draw oddi wrth wragedd yn ystod mislif. A pheidiwch â nesáu atynt nes iddynt ddod yn bur. Unwaith y maent wedi dod yn bur, nesewch atynt yn y ffordd y mae Allah wedi eich cyfarwyddo.” Mae Allah yn caru’r edifeiriol, ac mae’n caru’r rhai sy’n cadw’n lân.
+**2:222**  Ac maent yn gofyn i ti am fislif: dywed, "Mae'n niweidiol, felly cadwch draw oddi wrth wragedd yn ystod mislif. A pheidiwch â nesáu atynt nes iddynt ddod yn bur. Unwaith y maent wedi dod yn bur, nesewch atynt yn y ffordd y mae Allah wedi eich cyfarwyddo." Mae Allah yn caru'r edifeiriol, ac mae'n caru'r rhai sy'n cadw'n lân.
 
 وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ ۖ قُلْ هُوَ أَذًۭى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ ۖ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ ۖ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ
 
-**2:223**  Mae eich gwragedd yn gnwd i chi; felly nesewch at eich cnwd pryd bynnag y mynnoch, ac anfonwch ymlaen drosoch eich hunain. Ac ofnwch Allah, a gwyddoch y byddwch yn ei gyfarfod Ef. A rhowch newyddion da i’r credinwyr.
+**2:223**  Mae eich gwragedd yn gnwd i chi; felly nesewch at eich cnwd pryd bynnag y mynnoch, ac anfonwch ymlaen drosoch eich hunain. Ac ofnwch Allah, a gwyddoch y byddwch yn ei gyfarfod Ef. A rhowch newyddion da i'r credinwyr.
 
 نِسَآؤُكُمْ حَرْثٌۭ لَّكُمْ فَأْتُوا۟ حَرْثَكُمْ أَنَّىٰ شِئْتُمْ ۖ وَقَدِّمُوا۟ لِأَنفُسِكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّكُم مُّلَٰقُوهُ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ
 
-**2:224**  A pheidiwch â gadael i’ch llwon yn enw Allah eich rhwystro rhag rhinwedd, a chyfiawnder, a gwneud heddwch rhwng pobl. Mae Allah yn Wrandäwr ac yn Wybodwr.
+**2:224**  A pheidiwch â gadael i'ch llwon yn enw Allah eich rhwystro rhag rhinwedd, a chyfiawnder, a gwneud heddwch rhwng pobl. Mae Allah yn Wrandäwr ac yn Wybodwr.
 
 وَلَا تَجْعَلُوا۟ ٱللَّهَ عُرْضَةًۭ لِّأَيْمَٰنِكُمْ أَن تَبَرُّوا۟ وَتَتَّقُوا۟ وَتُصْلِحُوا۟ بَيْنَ ٱلنَّاسِ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌۭ
 
-**2:225**  Nid yw Allah yn eich dal yn gyfrifol am eich llwon anfwriadol, ond mae’n eich dal yn gyfrifol am eich bwriadau. Mae Allah yn Faddeugar ac yn Oddefgar.
+**2:225**  Nid yw Allah yn eich dal yn gyfrifol am eich llwon anfwriadol, ond mae'n eich dal yn gyfrifol am eich bwriadau. Mae Allah yn Faddeugar ac yn Oddefgar.
 
 لَّا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ فِىٓ أَيْمَٰنِكُمْ وَلَٰكِن يُؤَاخِذُكُم بِمَا كَسَبَتْ قُلُوبُكُمْ ۗ وَٱللَّهُ غَفُورٌ حَلِيمٌۭ
 
-**2:226**  Rhaid i’r rhai sy’n adduno ymatal oddi wrth eu gwragedd aros am bedwar mis. Ond os cymodant — mae Allah yn Faddeugar ac yn Drugarog.
+**2:226**  Rhaid i'r rhai sy'n adduno ymatal oddi wrth eu gwragedd aros am bedwar mis. Ond os cymodant — mae Allah yn Faddeugar ac yn Drugarog.
 
 لِّلَّذِينَ يُؤْلُونَ مِن نِّسَآئِهِمْ تَرَبُّصُ أَرْبَعَةِ أَشْهُرٍۢ ۖ فَإِن فَآءُو فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ
 
@@ -1108,55 +1108,55 @@
 
 وَإِنْ عَزَمُوا۟ ٱلطَّلَٰقَ فَإِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌۭ
 
-**2:228**  Bydd gwragedd ysgaredig yn aros ar eu pen eu hunain am dri chyfnod. Ac nid yw’n gyfreithlon iddynt guddio’r hyn y mae Allah wedi ei greu yn eu crothau, os ydynt yn credu yn Allah a’r Dydd Olaf. Yn y cyfamser, mae gan eu gwŷr yr hawl well i’w cymryd yn ôl, os dymunant gymodi. Ac mae gan wragedd hawliau tebyg i’w rhwymedigaethau, yn ôl yr hyn sy’n deg. Ond mae gan ddynion radd uwchlaw iddynt. Mae Allah yn Gadarn ac yn Ddoeth.
+**2:228**  Bydd gwragedd ysgaredig yn aros ar eu pen eu hunain am dri chyfnod. Ac nid yw'n gyfreithlon iddynt guddio'r hyn y mae Allah wedi ei greu yn eu crothau, os ydynt yn credu yn Allah a'r Dydd Olaf. Yn y cyfamser, mae gan eu gwŷr yr hawl well i'w cymryd yn ôl, os dymunant gymodi. Ac mae gan wragedd hawliau tebyg i'w rhwymedigaethau, yn ôl yr hyn sy'n deg. Ond mae gan ddynion radd uwchlaw iddynt. Mae Allah yn Gadarn ac yn Ddoeth.
 
 وَٱلْمُطَلَّقَٰتُ يَتَرَبَّصْنَ بِأَنفُسِهِنَّ ثَلَٰثَةَ قُرُوٓءٍۢ ۚ وَلَا يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ ٱللَّهُ فِىٓ أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۚ وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ فِى ذَٰلِكَ إِنْ أَرَادُوٓا۟ إِصْلَٰحًۭا ۚ وَلَهُنَّ مِثْلُ ٱلَّذِى عَلَيْهِنَّ بِٱلْمَعْرُوفِ ۚ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌۭ ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ
 
-**2:229**  Caniateir ysgariad ddwywaith. Yna, naill ai cadw’n anrhydeddus, neu ollwng yn garedig. Nid yw’n gyfreithlon i chi gymryd yn ôl unrhyw beth yr ydych wedi ei roi iddynt, oni bai eu bod yn ofni na allant gynnal terfynau Allah. Os ofnwch na allant gynnal terfynau Allah, yna nid oes bai arnynt os bydd hi’n aberthu rhywbeth ar gyfer ei rhyddhad. Dyma derfynau Allah, felly peidiwch â’u troseddu. Y rhai sy’n troseddu terfynau Allah yw’r anghyfiawn.
+**2:229**  Caniateir ysgariad ddwywaith. Yna, naill ai cadw'n anrhydeddus, neu ollwng yn garedig. Nid yw'n gyfreithlon i chi gymryd yn ôl unrhyw beth yr ydych wedi ei roi iddynt, oni bai eu bod yn ofni na allant gynnal terfynau Allah. Os ofnwch na allant gynnal terfynau Allah, yna nid oes bai arnynt os bydd hi'n aberthu rhywbeth ar gyfer ei rhyddhad. Dyma derfynau Allah, felly peidiwch â'u troseddu. Y rhai sy'n troseddu terfynau Allah yw'r anghyfiawn.
 
 ٱلطَّلَٰقُ مَرَّتَانِ ۖ فَإِمْسَاكٌۢ بِمَعْرُوفٍ أَوْ تَسْرِيحٌۢ بِإِحْسَٰنٍۢ ۗ وَلَا يَحِلُّ لَكُمْ أَن تَأْخُذُوا۟ مِمَّآ ءَاتَيْتُمُوهُنَّ شَيْـًٔا إِلَّآ أَن يَخَافَآ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ ۖ فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ فَلَا جُنَاحَ عَلَيْهِمَا فِيمَا ٱفْتَدَتْ بِهِۦ ۗ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَعْتَدُوهَا ۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
 
-**2:230**  Os bydd yn ei hysgaru, ni fydd yn gyfreithlon iddo eto nes iddi briodi gŵr arall. Os bydd yr olaf yn ei hysgaru, yna nid oes bai arnynt am ailuno, ar yr amod eu bod yn meddwl y gallant gynnal terfynau Allah. Dyma derfynau Allah; mae’n eu gwneud yn eglur i bobl sy’n gwybod.
+**2:230**  Os bydd yn ei hysgaru, ni fydd yn gyfreithlon iddo eto nes iddi briodi gŵr arall. Os bydd yr olaf yn ei hysgaru, yna nid oes bai arnynt am ailuno, ar yr amod eu bod yn meddwl y gallant gynnal terfynau Allah. Dyma derfynau Allah; mae'n eu gwneud yn eglur i bobl sy'n gwybod.
 
 فَإِن طَلَّقَهَا فَلَا تَحِلُّ لَهُۥ مِنۢ بَعْدُ حَتَّىٰ تَنكِحَ زَوْجًا غَيْرَهُۥ ۗ فَإِن طَلَّقَهَا فَلَا جُنَاحَ عَلَيْهِمَآ أَن يَتَرَاجَعَآ إِن ظَنَّآ أَن يُقِيمَا حُدُودَ ٱللَّهِ ۗ وَتِلْكَ حُدُودُ ٱللَّهِ يُبَيِّنُهَا لِقَوْمٍۢ يَعْلَمُونَ
 
-**2:231**  Pan fyddwch yn ysgaru gwragedd, ac maent wedi cyrraedd eu tymor, naill ai cadwch nhw’n gyfeillgar, neu gollyngwch nhw’n gyfeillgar. Ond peidiwch â’u cadw i’w brifo ac i gyflawni ymosodedd. Pwy bynnag sy’n gwneud hynny sydd wedi gwneud cam â’i hun. A pheidiwch â chymryd datguddiadau Allah yn jôc. A chofiwch ffafr Allah i chi, a’i fod wedi datguddio i chi yr Ysgrythur a Doethineb i’ch dysgu. Ac ofnwch Allah, a gwyddoch fod Allah yn ymwybodol o bopeth.
+**2:231**  Pan fyddwch yn ysgaru gwragedd, ac maent wedi cyrraedd eu tymor, naill ai cadwch nhw'n gyfeillgar, neu gollyngwch nhw'n gyfeillgar. Ond peidiwch â'u cadw i'w brifo ac i gyflawni ymosodedd. Pwy bynnag sy'n gwneud hynny sydd wedi gwneud cam â'i hun. A pheidiwch â chymryd datguddiadau Allah yn jôc. A chofiwch ffafr Allah i chi, a'i fod wedi datguddio i chi yr Ysgrythur a Doethineb i'ch dysgu. Ac ofnwch Allah, a gwyddoch fod Allah yn ymwybodol o bopeth.
 
 وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍۢ ۚ وَلَا تُمْسِكُوهُنَّ ضِرَارًۭا لِّتَعْتَدُوا۟ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ وَلَا تَتَّخِذُوٓا۟ ءَايَٰتِ ٱللَّهِ هُزُوًۭا ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُم مِّنَ ٱلْكِتَٰبِ وَٱلْحِكْمَةِ يَعِظُكُم بِهِۦ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌۭ
 
-**2:232**  Pan fyddwch yn ysgaru gwragedd, ac maent wedi cyrraedd eu tymor, peidiwch â’u hatal rhag priodi eu gwŷr, ar yr amod eu bod yn cytuno ar delerau teg. Trwy hyn y cynghorir pwy bynnag yn eich plith sy’n credu yn Allah a’r Dydd Olaf. Mae hynny’n well ac yn fwy gweddus i chi. Mae Allah yn gwybod, ac nid ydych yn gwybod.
+**2:232**  Pan fyddwch yn ysgaru gwragedd, ac maent wedi cyrraedd eu tymor, peidiwch â'u hatal rhag priodi eu gwŷr, ar yr amod eu bod yn cytuno ar delerau teg. Trwy hyn y cynghorir pwy bynnag yn eich plith sy'n credu yn Allah a'r Dydd Olaf. Mae hynny'n well ac yn fwy gweddus i chi. Mae Allah yn gwybod, ac nid ydych yn gwybod.
 
 وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَلَا تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَٰجَهُنَّ إِذَا تَرَٰضَوْا۟ بَيْنَهُم بِٱلْمَعْرُوفِ ۗ ذَٰلِكَ يُوعَظُ بِهِۦ مَن كَانَ مِنكُمْ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۗ ذَٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ ۗ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
 
-**2:233**  Gall mamau fagu eu babanod am ddwy flynedd gyfan, i’r rhai sy’n dymuno cwblhau’r cyfnod magu. Dyletswydd y tad yw darparu ar eu cyfer a’u dilladu mewn modd priodol. Ni fydd unrhyw enaid yn cael ei faich y tu hwnt i’w allu. Ni chaiff unrhyw fam ei niweidio ar gyfrif ei phlentyn, ac ni chaiff unrhyw dad ei niweidio ar gyfrif ei blentyn. Mae’r un ddyletswydd yn gorwedd ar yr etifedd. Os bydd y cwpl yn dymuno diddyfnu, trwy gydsyniad a chydymgynghoriad, nid ydynt yn cyflawni cam trwy wneud hynny. Nid ydych yn cyflawni cam trwy logi mamau magu, cyhyd ag y talwch iddynt yn deg. A byddwch yn wyliadwrus o Allah, a gwyddoch fod Allah yn Gweld yr hyn yr ydych yn ei wneud.
+**2:233**  Gall mamau fagu eu babanod am ddwy flynedd gyfan, i'r rhai sy'n dymuno cwblhau'r cyfnod magu. Dyletswydd y tad yw darparu ar eu cyfer a'u dilladu mewn modd priodol. Ni fydd unrhyw enaid yn cael ei faich y tu hwnt i'w allu. Ni chaiff unrhyw fam ei niweidio ar gyfrif ei phlentyn, ac ni chaiff unrhyw dad ei niweidio ar gyfrif ei blentyn. Mae'r un ddyletswydd yn gorwedd ar yr etifedd. Os bydd y cwpl yn dymuno diddyfnu, trwy gydsyniad a chydymgynghoriad, nid ydynt yn cyflawni cam trwy wneud hynny. Nid ydych yn cyflawni cam trwy logi mamau magu, cyhyd ag y talwch iddynt yn deg. A byddwch yn wyliadwrus o Allah, a gwyddoch fod Allah yn Gweld yr hyn yr ydych yn ei wneud.
 
 ۞ وَٱلْوَٰلِدَٰتُ يُرْضِعْنَ أَوْلَٰدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ ۖ لِمَنْ أَرَادَ أَن يُتِمَّ ٱلرَّضَاعَةَ ۚ وَعَلَى ٱلْمَوْلُودِ لَهُۥ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِٱلْمَعْرُوفِ ۚ لَا تُكَلَّفُ نَفْسٌ إِلَّا وُسْعَهَا ۚ لَا تُضَآرَّ وَٰلِدَةٌۢ بِوَلَدِهَا وَلَا مَوْلُودٌۭ لَّهُۥ بِوَلَدِهِۦ ۚ وَعَلَى ٱلْوَارِثِ مِثْلُ ذَٰلِكَ ۗ فَإِنْ أَرَادَا فِصَالًا عَن تَرَاضٍۢ مِّنْهُمَا وَتَشَاوُرٍۢ فَلَا جُنَاحَ عَلَيْهِمَا ۗ وَإِنْ أَرَدتُّمْ أَن تَسْتَرْضِعُوٓا۟ أَوْلَٰدَكُمْ فَلَا جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُم مَّآ ءَاتَيْتُم بِٱلْمَعْرُوفِ ۗ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌۭ
 
-**2:234**  O ran y rhai yn eich plith sy’n marw ac yn gadael gweddwon ar ôl, bydd eu gweddwon yn aros ar eu pen eu hunain am bedwar mis a deg diwrnod. Pan fyddant wedi cyrraedd eu tymor, nid oes bai arnoch ynghylch yr hyn y gallent yn anrhydeddus ei wneud â nhw eu hunain. Mae Allah yn gwbl gyfarwydd â’r hyn yr ydych yn ei wneud.
+**2:234**  O ran y rhai yn eich plith sy'n marw ac yn gadael gweddwon ar ôl, bydd eu gweddwon yn aros ar eu pen eu hunain am bedwar mis a deg diwrnod. Pan fyddant wedi cyrraedd eu tymor, nid oes bai arnoch ynghylch yr hyn y gallent yn anrhydeddus ei wneud â nhw eu hunain. Mae Allah yn gwbl gyfarwydd â'r hyn yr ydych yn ei wneud.
 
 وَٱلَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَٰجًۭا يَتَرَبَّصْنَ بِأَنفُسِهِنَّ أَرْبَعَةَ أَشْهُرٍۢ وَعَشْرًۭا ۖ فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِىٓ أَنفُسِهِنَّ بِٱلْمَعْرُوفِ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ
 
-**2:235**  Nid ydych yn cyflawni cam trwy gyhoeddi eich dyweddïad i wragedd, neu trwy ei gadw i’ch hunain. Mae Allah yn gwybod y byddwch yn meddwl amdanynt. Ond peidiwch â’u cyfarfod yn gyfrinachol, oni bai bod gennych rywbeth priodol i’w ddweud. A pheidiwch â chadarnhau’r cwlwm priodas nes i’r ysgrifen gael ei chyflawni. A gwyddoch fod Allah yn gwybod yr hyn sydd yn eich eneidiau, felly gwyliwch rhagddo. A gwyddoch fod Allah yn Faddeugar ac yn Oddefgar.
+**2:235**  Nid ydych yn cyflawni cam trwy gyhoeddi eich dyweddïad i wragedd, neu trwy ei gadw i'ch hunain. Mae Allah yn gwybod y byddwch yn meddwl amdanynt. Ond peidiwch â'u cyfarfod yn gyfrinachol, oni bai bod gennych rywbeth priodol i'w ddweud. A pheidiwch â chadarnhau'r cwlwm priodas nes i'r ysgrifen gael ei chyflawni. A gwyddoch fod Allah yn gwybod yr hyn sydd yn eich eneidiau, felly gwyliwch rhagddo. A gwyddoch fod Allah yn Faddeugar ac yn Oddefgar.
 
 وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا عَرَّضْتُم بِهِۦ مِنْ خِطْبَةِ ٱلنِّسَآءِ أَوْ أَكْنَنتُمْ فِىٓ أَنفُسِكُمْ ۚ عَلِمَ ٱللَّهُ أَنَّكُمْ سَتَذْكُرُونَهُنَّ وَلَٰكِن لَّا تُوَاعِدُوهُنَّ سِرًّا إِلَّآ أَن تَقُولُوا۟ قَوْلًۭا مَّعْرُوفًۭا ۚ وَلَا تَعْزِمُوا۟ عُقْدَةَ ٱلنِّكَاحِ حَتَّىٰ يَبْلُغَ ٱلْكِتَٰبُ أَجَلَهُۥ ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِىٓ أَنفُسِكُمْ فَٱحْذَرُوهُ ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ غَفُورٌ حَلِيمٌۭ
 
-**2:236**  Nid ydych yn cyflawni cam trwy ysgaru gwragedd cyn eu cyffwrdd, neu cyn gosod y gwaddol iddynt. A digolledu nhw — y cyfoethog yn ôl ei fodd, a’r tlawd yn ôl ei fodd — â digollediad teg, dyletswydd ar wneuthurwyr daioni.
+**2:236**  Nid ydych yn cyflawni cam trwy ysgaru gwragedd cyn eu cyffwrdd, neu cyn gosod y gwaddol iddynt. A digolledu nhw — y cyfoethog yn ôl ei fodd, a'r tlawd yn ôl ei fodd — â digollediad teg, dyletswydd ar wneuthurwyr daioni.
 
 لَّا جُنَاحَ عَلَيْكُمْ إِن طَلَّقْتُمُ ٱلنِّسَآءَ مَا لَمْ تَمَسُّوهُنَّ أَوْ تَفْرِضُوا۟ لَهُنَّ فَرِيضَةًۭ ۚ وَمَتِّعُوهُنَّ عَلَى ٱلْمُوسِعِ قَدَرُهُۥ وَعَلَى ٱلْمُقْتِرِ قَدَرُهُۥ مَتَٰعًۢا بِٱلْمَعْرُوفِ ۖ حَقًّا عَلَى ٱلْمُحْسِنِينَ
 
-**2:237**  Os ysgarwch nhw cyn i chi eu cyffwrdd, ond ar ôl i chi osod y gwaddol iddynt, rhowch iddynt hanner yr hyn a nodasoch — oni bai eu bod yn ildio’r hawl, neu fod yr un y mae’r contract priodas yn ei law yn ei ildio. Ond mae ildio yn nes at dduwioldeb. A pheidiwch ag anghofio haelioni rhyngoch. Mae Allah yn gweld popeth yr ydych yn ei wneud.
+**2:237**  Os ysgarwch nhw cyn i chi eu cyffwrdd, ond ar ôl i chi osod y gwaddol iddynt, rhowch iddynt hanner yr hyn a nodasoch — oni bai eu bod yn ildio'r hawl, neu fod yr un y mae'r contract priodas yn ei law yn ei ildio. Ond mae ildio yn nes at dduwioldeb. A pheidiwch ag anghofio haelioni rhyngoch. Mae Allah yn gweld popeth yr ydych yn ei wneud.
 
 وَإِن طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ وَقَدْ فَرَضْتُمْ لَهُنَّ فَرِيضَةًۭ فَنِصْفُ مَا فَرَضْتُمْ إِلَّآ أَن يَعْفُونَ أَوْ يَعْفُوَا۟ ٱلَّذِى بِيَدِهِۦ عُقْدَةُ ٱلنِّكَاحِ ۚ وَأَن تَعْفُوٓا۟ أَقْرَبُ لِلتَّقْوَىٰ ۚ وَلَا تَنسَوُا۟ ٱلْفَضْلَ بَيْنَكُمْ ۚ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ
 
-**2:238**  Gwarchodwch eich gweddïau, a’r weddi ganol, a sefwch gerbron Allah mewn ymroddiad.
+**2:238**  Gwarchodwch eich gweddïau, a'r weddi ganol, a sefwch gerbron Allah mewn ymroddiad.
 
 حَٰفِظُوا۟ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلْوُسْطَىٰ وَقُومُوا۟ لِلَّهِ قَٰنِتِينَ
 
-**2:239**  Ond os ydych mewn ofn, yna ar droed, neu’n marchogaeth. A phan fyddwch yn ddiogel, cofiwch Allah, fel y dysgodd i chi’r hyn nad oeddech yn ei wybod.
+**2:239**  Ond os ydych mewn ofn, yna ar droed, neu'n marchogaeth. A phan fyddwch yn ddiogel, cofiwch Allah, fel y dysgodd i chi'r hyn nad oeddech yn ei wybod.
 
 فَإِنْ خِفْتُمْ فَرِجَالًا أَوْ رُكْبَانًۭا ۖ فَإِذَآ أَمِنتُمْ فَٱذْكُرُوا۟ ٱللَّهَ كَمَا عَلَّمَكُم مَّا لَمْ تَكُونُوا۟ تَعْلَمُونَ
 
-**2:240**  Y rhai ohonoch sy’n marw ac yn gadael gwragedd ar ôl — bydd ewyllys yn darparu cynhaliaeth i’w gwragedd am flwyddyn, ar yr amod nad ydynt yn gadael. Os gânt, nid ydych i’w beio am yr hyn maent yn ei wneud â nhw eu hunain, ar yr amod ei fod yn rhesymol. Mae Allah yn Gadarn ac yn Ddoeth.
+**2:240**  Y rhai ohonoch sy'n marw ac yn gadael gwragedd ar ôl — bydd ewyllys yn darparu cynhaliaeth i'w gwragedd am flwyddyn, ar yr amod nad ydynt yn gadael. Os gânt, nid ydych i'w beio am yr hyn maent yn ei wneud â nhw eu hunain, ar yr amod ei fod yn rhesymol. Mae Allah yn Gadarn ac yn Ddoeth.
 
 وَٱلَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَٰجًۭا وَصِيَّةًۭ لِّأَزْوَٰجِهِم مَّتَٰعًا إِلَى ٱلْحَوْلِ غَيْرَ إِخْرَاجٍۢ ۚ فَإِنْ خَرَجْنَ فَلَا جُنَاحَ عَلَيْكُمْ فِى مَا فَعَلْنَ فِىٓ أَنفُسِهِنَّ مِن مَّعْرُوفٍۢ ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌۭ
 
@@ -1168,7 +1168,7 @@
 
 كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
 
-**2:243**  Oni welaist ti’r rhai a ffoesodd o’u cartrefi, yn filoedd, yn ofni marwolaeth? Dywedodd Allah wrthynt, “Marwch.” Yna adfywiodd nhw. Mae Allah yn Raslon tuag at y bobl, ond nid yw’r rhan fwyaf o bobl yn ddiolchgar.
+**2:243**  Oni welaist ti'r rhai a ffoesodd o'u cartrefi, yn filoedd, yn ofni marwolaeth? Dywedodd Allah wrthynt, "Marwch." Yna adfywiodd nhw. Mae Allah yn Raslon tuag at y bobl, ond nid yw'r rhan fwyaf o bobl yn ddiolchgar.
 
 ۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ خَرَجُوا۟ مِن دِيَٰرِهِمْ وَهُمْ أُلُوفٌ حَذَرَ ٱلْمَوْتِ فَقَالَ لَهُمُ ٱللَّهُ مُوتُوا۟ ثُمَّ أَحْيَٰهُمْ ۚ إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ
 
@@ -1176,75 +1176,75 @@
 
 وَقَٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌۭ
 
-**2:245**  Pwy yw’r hwn a gynig i Allah fenthyciad hael, fel y bydd yn ei luosogi iddo lawer gwaith? Mae Allah yn derbyn ac yn chwyddo, ac ato Ef y dychwelir chi.
+**2:245**  Pwy yw'r hwn a gynig i Allah fenthyciad hael, fel y bydd yn ei luosogi iddo lawer gwaith? Mae Allah yn derbyn ac yn chwyddo, ac ato Ef y dychwelir chi.
 
 مَّن ذَا ٱلَّذِى يُقْرِضُ ٱللَّهَ قَرْضًا حَسَنًۭا فَيُضَٰعِفَهُۥ لَهُۥٓ أَضْعَافًۭا كَثِيرَةًۭ ۚ وَٱللَّهُ يَقْبِضُ وَيَبْصُۜطُ وَإِلَيْهِ تُرْجَعُونَ
 
-**2:246**  Oni welaist ti benaethiaid Plant Israel ar ôl Moses? Pan ddywedasant wrth broffwyd ohonynt, “Penoda frenin i ni, ac fe ymladdwn yn achos Allah.” Dywedodd, “A yw’n bosibl, os ordeinir ymladd i chi, na fyddech yn ymladd?” Dywedasant, “Pam na fydem yn ymladd yn achos Allah, pan gawsom ein gyrru o’n cartrefi, ynghyd â’n plant?” Ond pan ordeiniwyd ymladd iddynt, troesant ymaith, ac eithrio ychydig ohonynt. Ond mae Allah yn ymwybodol o’r camweddwyr.
+**2:246**  Oni welaist ti benaethiaid Plant Israel ar ôl Moses? Pan ddywedasant wrth broffwyd ohonynt, "Penoda frenin i ni, ac fe ymladdwn yn achos Allah." Dywedodd, "A yw'n bosibl, os ordeinir ymladd i chi, na fyddech yn ymladd?" Dywedasant, "Pam na fydem yn ymladd yn achos Allah, pan gawsom ein gyrru o'n cartrefi, ynghyd â'n plant?" Ond pan ordeiniwyd ymladd iddynt, troesant ymaith, ac eithrio ychydig ohonynt. Ond mae Allah yn ymwybodol o'r camweddwyr.
 
 أَلَمْ تَرَ إِلَى ٱلْمَلَإِ مِنۢ بَنِىٓ إِسْرَٰٓءِيلَ مِنۢ بَعْدِ مُوسَىٰٓ إِذْ قَالُوا۟ لِنَبِىٍّۢ لَّهُمُ ٱبْعَثْ لَنَا مَلِكًۭا نُّقَٰتِلْ فِى سَبِيلِ ٱللَّهِ ۖ قَالَ هَلْ عَسَيْتُمْ إِن كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ أَلَّا تُقَٰتِلُوا۟ ۖ قَالُوا۟ وَمَا لَنَآ أَلَّا نُقَٰتِلَ فِى سَبِيلِ ٱللَّهِ وَقَدْ أُخْرِجْنَا مِن دِيَٰرِنَا وَأَبْنَآئِنَا ۖ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ تَوَلَّوْا۟ إِلَّا قَلِيلًۭا مِّنْهُمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّٰلِمِينَ
 
-**2:247**  Dywedodd eu proffwyd wrthynt, “Mae Allah wedi penodi Saul i fod yn frenin i chi.” Dywedasant, “Sut y gall fod ag awdurdod drosom, pan ydym yn fwy teilwng o awdurdod nag ef, ac ni roddwyd digon o gyfoeth iddo?” Dywedodd, “Mae Allah wedi ei ddewis uwchlaw i chi, ac wedi ei gynyddu mewn gwybodaeth a maint.” Mae Allah yn rhoi ei sofraniaeth ar bwy bynnag a fyn. Mae Allah yn Gofleidgar ac yn Wybodus.
+**2:247**  Dywedodd eu proffwyd wrthynt, "Mae Allah wedi penodi Saul i fod yn frenin i chi." Dywedasant, "Sut y gall fod ag awdurdod drosom, pan ydym yn fwy teilwng o awdurdod nag ef, ac ni roddwyd digon o gyfoeth iddo?" Dywedodd, "Mae Allah wedi ei ddewis uwchlaw i chi, ac wedi ei gynyddu mewn gwybodaeth a maint." Mae Allah yn rhoi ei sofraniaeth ar bwy bynnag a fyn. Mae Allah yn Gofleidgar ac yn Wybodus.
 
 وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ٱللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًۭا ۚ قَالُوٓا۟ أَنَّىٰ يَكُونُ لَهُ ٱلْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِٱلْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةًۭ مِّنَ ٱلْمَالِ ۚ قَالَ إِنَّ ٱللَّهَ ٱصْطَفَىٰهُ عَلَيْكُمْ وَزَادَهُۥ بَسْطَةًۭ فِى ٱلْعِلْمِ وَٱلْجِسْمِ ۖ وَٱللَّهُ يُؤْتِى مُلْكَهُۥ مَن يَشَآءُ ۚ وَٱللَّهُ وَٰسِعٌ عَلِيمٌۭ
 
-**2:248**  A dywedodd eu proffwyd wrthynt, “Prawf ei frenhiniaeth yw y bydd yr Arch yn cael ei hadfer i chi, yn dwyn tawelwch oddi wrth eich Arglwydd, a chreiriau a adawyd gan deulu Moses a theulu Aaron. Caiff ei chario gan yr angylion. Ynddo y mae arwydd i chi, os ydych yn gredinwyr.”
+**2:248**  A dywedodd eu proffwyd wrthynt, "Prawf ei frenhiniaeth yw y bydd yr Arch yn cael ei hadfer i chi, yn dwyn tawelwch oddi wrth eich Arglwydd, a chreiriau a adawyd gan deulu Moses a theulu Aaron. Caiff ei chario gan yr angylion. Ynddo y mae arwydd i chi, os ydych yn gredinwyr."
 
 وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ءَايَةَ مُلْكِهِۦٓ أَن يَأْتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٌۭ مِّن رَّبِّكُمْ وَبَقِيَّةٌۭ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَٰرُونَ تَحْمِلُهُ ٱلْمَلَٰٓئِكَةُ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
 
-**2:249**  Pan gychwynnodd Saul gyda’r lluoedd, dywedodd, “Bydd Allah yn eich profi ag afon. Pwy bynnag sy’n yfed ohoni nid yw’n perthyn gyda mi. Ond pwy bynnag nad yw’n yfed ohoni, mae’n perthyn gyda mi, ac eithrio pwy bynnag sy’n codi ychydig â’i law.” Ond yfasant ohoni, ac eithrio ychydig ohonynt. Yna, pan groesodd hi, ef a’r rhai a gredodd gydag ef, dywedasant, “Nid oes gennym nerth i wynebu Goliath a’i luoedd heddiw.” Ond dywedodd y rhai a wyddent y byddent yn cyfarfod ag Allah, “Mor aml y mae grŵp bach wedi trechu grŵp mawr trwy ewyllys Allah. Mae Allah gyda’r rhai diysgog.”
+**2:249**  Pan gychwynnodd Saul gyda'r lluoedd, dywedodd, "Bydd Allah yn eich profi ag afon. Pwy bynnag sy'n yfed ohoni nid yw'n perthyn gyda mi. Ond pwy bynnag nad yw'n yfed ohoni, mae'n perthyn gyda mi, ac eithrio pwy bynnag sy'n codi ychydig â'i law." Ond yfasant ohoni, ac eithrio ychydig ohonynt. Yna, pan groesodd hi, ef a'r rhai a gredodd gydag ef, dywedasant, "Nid oes gennym nerth i wynebu Goliath a'i luoedd heddiw." Ond dywedodd y rhai a wyddent y byddent yn cyfarfod ag Allah, "Mor aml y mae grŵp bach wedi trechu grŵp mawr trwy ewyllys Allah. Mae Allah gyda'r rhai diysgog."
 
 فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ
 
-**2:250**  A phan wynebasant Goliath a’i luoedd, dywedasant, “Ein Harglwydd, tywallt amynedd arnom, a chryfha ein traed, a chefnoga ni yn erbyn y bobl ddiffydd.”
+**2:250**  A phan wynebasant Goliath a'i luoedd, dywedasant, "Ein Harglwydd, tywallt amynedd arnom, a chryfha ein traed, a chefnoga ni yn erbyn y bobl ddiffydd."
 
 وَلَمَّا بَرَزُوا۟ لِجَالُوتَ وَجُنُودِهِۦ قَالُوا۟ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًۭا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
 
-**2:251**  A threchasant nhw trwy ganiatâd Allah, a lladdodd Dafydd Goliath, a rhoddodd Allah iddo sofraniaeth a doethineb, a’i ddysgodd fel y mynnodd. Oni bai am Allah yn atal y bobl, rhai trwy gyfrwng eraill, byddai’r ddaear wedi mynd i ddistryw. Ond mae Allah yn raslon tuag at ddynolryw.
+**2:251**  A threchasant nhw trwy ganiatâd Allah, a lladdodd Dafydd Goliath, a rhoddodd Allah iddo sofraniaeth a doethineb, a'i ddysgodd fel y mynnodd. Oni bai am Allah yn atal y bobl, rhai trwy gyfrwng eraill, byddai'r ddaear wedi mynd i ddistryw. Ond mae Allah yn raslon tuag at ddynolryw.
 
 فَهَزَمُوهُم بِإِذْنِ ٱللَّهِ وَقَتَلَ دَاوُۥدُ جَالُوتَ وَءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ وَٱلْحِكْمَةَ وَعَلَّمَهُۥ مِمَّا يَشَآءُ ۗ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍۢ لَّفَسَدَتِ ٱلْأَرْضُ وَلَٰكِنَّ ٱللَّهَ ذُو فَضْلٍ عَلَى ٱلْعَٰلَمِينَ
 
-**2:252**  Dyma ddatguddiadau Allah, yr ydym yn eu hadrodd i ti mewn gwirionedd. Rwyt ti yn un o’r cenhadon.
+**2:252**  Dyma ddatguddiadau Allah, yr ydym yn eu hadrodd i ti mewn gwirionedd. Rwyt ti yn un o'r cenhadon.
 
 تِلْكَ ءَايَٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ ۚ وَإِنَّكَ لَمِنَ ٱلْمُرْسَلِينَ
 
-**2:253**  Y cenhadon hyn: rhoesom i rai fantais dros eraill. I rai ohonynt siaradodd Allah yn uniongyrchol, a rhai a gododd mewn gradd. Rhoesom i Iesu fab Mair y gwyrthiau eglur, a chryfhasom ef â’r Ysbryd Glân. Pe bai Allah wedi ewyllysio, ni fyddai’r rhai a’u holynodd wedi ymladd â’i gilydd, ar ôl i’r arwyddion eglur ddod atynt; ond ymrysonasant; credodd rhai ohonynt, ac anghredodd rhai ohonynt. Pe bai Allah wedi ewyllysio, ni fyddent wedi ymladd â’i gilydd; ond mae Allah yn gwneud beth bynnag a ddymuna.
+**2:253**  Y cenhadon hyn: rhoesom i rai fantais dros eraill. I rai ohonynt siaradodd Allah yn uniongyrchol, a rhai a gododd mewn gradd. Rhoesom i Iesu fab Mair y gwyrthiau eglur, a chryfhasom ef â'r Ysbryd Glân. Pe bai Allah wedi ewyllysio, ni fyddai'r rhai a'u holynodd wedi ymladd â'i gilydd, ar ôl i'r arwyddion eglur ddod atynt; ond ymrysonasant; credodd rhai ohonynt, ac anghredodd rhai ohonynt. Pe bai Allah wedi ewyllysio, ni fyddent wedi ymladd â'i gilydd; ond mae Allah yn gwneud beth bynnag a ddymuna.
 
 ۞ تِلْكَ ٱلرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍۢ ۘ مِّنْهُم مَّن كَلَّمَ ٱللَّهُ ۖ وَرَفَعَ بَعْضَهُمْ دَرَجَٰتٍۢ ۚ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَٰتِ وَأَيَّدْنَٰهُ بِرُوحِ ٱلْقُدُسِ ۗ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلَ ٱلَّذِينَ مِنۢ بَعْدِهِم مِّنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ وَلَٰكِنِ ٱخْتَلَفُوا۟ فَمِنْهُم مَّنْ ءَامَنَ وَمِنْهُم مَّن كَفَرَ ۚ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلُوا۟ وَلَٰكِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ
 
-**2:254**  O chi sy’n credu! Gwariwch o’r hyn yr ydym wedi ei roi i chi, cyn i Ddydd ddod lle nad oes na masnachu, na chyfeillgarwch, nac eiriolaeth. Yr anghredinwyr yw’r camweddwyr.
+**2:254**  O chi sy'n credu! Gwariwch o'r hyn yr ydym wedi ei roi i chi, cyn i Ddydd ddod lle nad oes na masnachu, na chyfeillgarwch, nac eiriolaeth. Yr anghredinwyr yw'r camweddwyr.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَنفِقُوا۟ مِمَّا رَزَقْنَٰكُم مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌۭ لَّا بَيْعٌۭ فِيهِ وَلَا خُلَّةٌۭ وَلَا شَفَٰعَةٌۭ ۗ وَٱلْكَٰفِرُونَ هُمُ ٱلظَّٰلِمُونَ
 
-**2:255**  Allah! Nid oes duw ond Ef, y Byw, y Cynhaliwr. Nid yw syrthni yn ei oddiweddyd, na chwsg. Iddo Ef y perthyn popeth yn y nefoedd a phopeth ar y ddaear. Pwy yw’r hwn a all eiriol gydag Ef ond trwy ei ganiatâd? Mae’n gwybod yr hyn sydd o’u blaen, a’r hyn sydd y tu ôl iddynt; ac ni allant amgyffred dim o’i wybodaeth, ond fel y myn. Mae ei Orsedd yn ymestyn dros y nefoedd a’r ddaear, ac nid yw eu cadwraeth yn ei faich. Ef yw’r Goruchaf, y Mawr.
+**2:255**  Allah! Nid oes duw ond Ef, y Byw, y Cynhaliwr. Nid yw syrthni yn ei oddiweddyd, na chwsg. Iddo Ef y perthyn popeth yn y nefoedd a phopeth ar y ddaear. Pwy yw'r hwn a all eiriol gydag Ef ond trwy ei ganiatâd? Mae'n gwybod yr hyn sydd o'u blaen, a'r hyn sydd y tu ôl iddynt; ac ni allant amgyffred dim o'i wybodaeth, ond fel y myn. Mae ei Orsedd yn ymestyn dros y nefoedd a'r ddaear, ac nid yw eu cadwraeth yn ei faich. Ef yw'r Goruchaf, y Mawr.
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌۭ وَلَا نَوْمٌۭ ۚ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍۢ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ
 
-**2:256**  Ni fydd gorfodaeth mewn crefydd; mae’r ffordd iawn wedi dod yn wahanol i’r ffordd anghywir. Pwy bynnag sy’n ymwrthod â drwg ac yn credu yn Allah sydd wedi gafael yn y ddolen fwyaf dibynadwy; yr hon nad yw’n torri. Mae Allah yn Glywedol ac yn Wybodus.
+**2:256**  Ni fydd gorfodaeth mewn crefydd; mae'r ffordd iawn wedi dod yn wahanol i'r ffordd anghywir. Pwy bynnag sy'n ymwrthod â drwg ac yn credu yn Allah sydd wedi gafael yn y ddolen fwyaf dibynadwy; yr hon nad yw'n torri. Mae Allah yn Glywedol ac yn Wybodus.
 
 لَآ إِكْرَاهَ فِى ٱلدِّينِ ۖ قَد تَّبَيَّنَ ٱلرُّشْدُ مِنَ ٱلْغَىِّ ۚ فَمَن يَكْفُرْ بِٱلطَّٰغُوتِ وَيُؤْمِنۢ بِٱللَّهِ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ لَا ٱنفِصَامَ لَهَا ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
 
-**2:257**  Allah yw Arglwydd y rhai sy’n credu; mae’n eu dwyn allan o dywyllwch ac i oleuni. O ran y rhai sy’n anghredu, eu harglwyddi yw’r rhai drwg; maent yn eu dwyn allan o oleuni ac i dywyllwch — y rhain yw preswylwyr y Tân, lle byddant yn aros am byth.
+**2:257**  Allah yw Arglwydd y rhai sy'n credu; mae'n eu dwyn allan o dywyllwch ac i oleuni. O ran y rhai sy'n anghredu, eu harglwyddi yw'r rhai drwg; maent yn eu dwyn allan o oleuni ac i dywyllwch — y rhain yw preswylwyr y Tân, lle byddant yn aros am byth.
 
 ٱللَّهُ وَلِىُّ ٱلَّذِينَ ءَامَنُوا۟ يُخْرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ ۖ وَٱلَّذِينَ كَفَرُوٓا۟ أَوْلِيَآؤُهُمُ ٱلطَّٰغُوتُ يُخْرِجُونَهُم مِّنَ ٱلنُّورِ إِلَى ٱلظُّلُمَٰتِ ۗ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
-**2:258**  Oni welaist ti’r hwn a ddadleuodd ag Abraham am ei Arglwydd, am fod Allah wedi rhoi sofraniaeth iddo? Dywedodd Abraham, “Fy Arglwydd yw’r hwn sy’n rhoi bywyd ac yn achosi marwolaeth.” Dywedodd, “Rwy’n rhoi bywyd ac yn achosi marwolaeth.” Dywedodd Abraham, “Mae Allah yn dwyn yr haul o’r Dwyrain, felly dwg ef o’r Gorllewin,” felly dryswyd y cableddwr. Nid yw Allah yn arwain y bobl gamweddus.
+**2:258**  Oni welaist ti'r hwn a ddadleuodd ag Abraham am ei Arglwydd, am fod Allah wedi rhoi sofraniaeth iddo? Dywedodd Abraham, "Fy Arglwydd yw'r hwn sy'n rhoi bywyd ac yn achosi marwolaeth." Dywedodd, "Rwy'n rhoi bywyd ac yn achosi marwolaeth." Dywedodd Abraham, "Mae Allah yn dwyn yr haul o'r Dwyrain, felly dwg ef o'r Gorllewin," felly dryswyd y cableddwr. Nid yw Allah yn arwain y bobl gamweddus.
 
 أَلَمْ تَرَ إِلَى ٱلَّذِى حَآجَّ إِبْرَٰهِۦمَ فِى رَبِّهِۦٓ أَنْ ءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ إِذْ قَالَ إِبْرَٰهِۦمُ رَبِّىَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ قَالَ أَنَا۠ أُحْىِۦ وَأُمِيتُ ۖ قَالَ إِبْرَٰهِۦمُ فَإِنَّ ٱللَّهَ يَأْتِى بِٱلشَّمْسِ مِنَ ٱلْمَشْرِقِ فَأْتِ بِهَا مِنَ ٱلْمَغْرِبِ فَبُهِتَ ٱلَّذِى كَفَرَ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**2:259**  Neu fel yr hwn a basiodd heibio i dref wedi cwympo ar ei sylfeini. Dywedodd, “Sut y gall Allah adfywio hwn ar ôl ei ddarfod?” Ar hynny achosodd Allah iddo farw am gant o flynyddoedd, ac yna ei atgyfodi. Dywedodd, “Am faint yr wyt wedi aros?” Dywedodd, “Rwyf wedi aros am ddiwrnod, neu ran o ddiwrnod.” Dywedodd, “Nage. Rwyt wedi aros am gant o flynyddoedd. Yn awr edrych ar dy fwyd a’th ddiod — nid yw wedi difetha — ac edrych ar dy asyn. Byddwn yn dy wneud yn rhyfeddod i ddynolryw. Ac edrych ar yr esgyrn, sut yr ydym yn eu trefnu, ac yna’n eu gwisgo â chnawd.” Felly pan ddaeth yn eglur iddo, dywedodd, “Rwy’n gwybod fod gan Allah allu dros bob peth.”
+**2:259**  Neu fel yr hwn a basiodd heibio i dref wedi cwympo ar ei sylfeini. Dywedodd, "Sut y gall Allah adfywio hwn ar ôl ei ddarfod?" Ar hynny achosodd Allah iddo farw am gant o flynyddoedd, ac yna ei atgyfodi. Dywedodd, "Am faint yr wyt wedi aros?" Dywedodd, "Rwyf wedi aros am ddiwrnod, neu ran o ddiwrnod." Dywedodd, "Nage. Rwyt wedi aros am gant o flynyddoedd. Yn awr edrych ar dy fwyd a'th ddiod — nid yw wedi difetha — ac edrych ar dy asyn. Byddwn yn dy wneud yn rhyfeddod i ddynolryw. Ac edrych ar yr esgyrn, sut yr ydym yn eu trefnu, ac yna'n eu gwisgo â chnawd." Felly pan ddaeth yn eglur iddo, dywedodd, "Rwy'n gwybod fod gan Allah allu dros bob peth."
 
 أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍۢ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا ۖ فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍۢ ثُمَّ بَعَثَهُۥ ۖ قَالَ كَمْ لَبِثْتَ ۖ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍۢ ۖ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍۢ فَٱنظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ ۖ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةًۭ لِّلنَّاسِ ۖ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًۭا ۚ فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**2:260**  A phan ddywedodd Abraham, “Fy Arglwydd, dangos i mi sut yr wyt yn rhoi bywyd i’r meirw.” Dywedodd, “Onid wyt wedi credu?” Dywedodd, “Ydw, ond i roi tawelwch i’m calon.” Dywedodd, “Cymer bedwar aderyn, a gostwng nhw atat dy hun, yna gosod ran ar bob bryn, yna galw arnynt; a byddant yn dod yn rhuthro atat. A gwybydd fod Allah yn Nerthol ac yn Ddoeth.”
+**2:260**  A phan ddywedodd Abraham, "Fy Arglwydd, dangos i mi sut yr wyt yn rhoi bywyd i'r meirw." Dywedodd, "Onid wyt wedi credu?" Dywedodd, "Ydw, ond i roi tawelwch i'm calon." Dywedodd, "Cymer bedwar aderyn, a gostwng nhw atat dy hun, yna gosod ran ar bob bryn, yna galw arnynt; a byddant yn dod yn rhuthro atat. A gwybydd fod Allah yn Nerthol ac yn Ddoeth."
 
 وَإِذْ قَالَ إِبْرَٰهِۦمُ رَبِّ أَرِنِى كَيْفَ تُحْىِ ٱلْمَوْتَىٰ ۖ قَالَ أَوَلَمْ تُؤْمِن ۖ قَالَ بَلَىٰ وَلَٰكِن لِّيَطْمَئِنَّ قَلْبِى ۖ قَالَ فَخُذْ أَرْبَعَةًۭ مِّنَ ٱلطَّيْرِ فَصُرْهُنَّ إِلَيْكَ ثُمَّ ٱجْعَلْ عَلَىٰ كُلِّ جَبَلٍۢ مِّنْهُنَّ جُزْءًۭا ثُمَّ ٱدْعُهُنَّ يَأْتِينَكَ سَعْيًۭا ۚ وَٱعْلَمْ أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌۭ
 
-**2:261**  Dameg y rhai sy’n gwario eu cyfoeth yn ffordd Allah yw dameg gronyn sy’n cynhyrchu saith dywysen; ym mhob tywysen y mae cant o ronynnau. Mae Allah yn lluosogi i bwy bynnag a fyn. Mae Allah yn Hael ac yn Wybodus.
+**2:261**  Dameg y rhai sy'n gwario eu cyfoeth yn ffordd Allah yw dameg gronyn sy'n cynhyrchu saith dywysen; ym mhob tywysen y mae cant o ronynnau. Mae Allah yn lluosogi i bwy bynnag a fyn. Mae Allah yn Hael ac yn Wybodus.
 
 مَّثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ كَمَثَلِ حَبَّةٍ أَنۢبَتَتْ سَبْعَ سَنَابِلَ فِى كُلِّ سُنۢبُلَةٍۢ مِّا۟ئَةُ حَبَّةٍۢ ۗ وَٱللَّهُ يُضَٰعِفُ لِمَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
 
-**2:262**  Bydd gan y rhai sy’n gwario eu cyfoeth yn ffordd Allah, ac yna heb ddilyn yr hyn a wariasant ag atgofion o’u haelioni neu â sarhad, eu gwobr gyda’u Harglwydd — nid oes ganddynt ddim i’w ofni, ac ni fyddant yn galaru.
+**2:262**  Bydd gan y rhai sy'n gwario eu cyfoeth yn ffordd Allah, ac yna heb ddilyn yr hyn a wariasant ag atgofion o'u haelioni neu â sarhad, eu gwobr gyda'u Harglwydd — nid oes ganddynt ddim i'w ofni, ac ni fyddant yn galaru.
 
 ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ ثُمَّ لَا يُتْبِعُونَ مَآ أَنفَقُوا۟ مَنًّۭا وَلَآ أَذًۭى ۙ لَّهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
@@ -1252,19 +1252,19 @@
 
 ۞ قَوْلٌۭ مَّعْرُوفٌۭ وَمَغْفِرَةٌ خَيْرٌۭ مِّن صَدَقَةٍۢ يَتْبَعُهَآ أَذًۭى ۗ وَٱللَّهُ غَنِىٌّ حَلِيمٌۭ
 
-**2:264**  O chi sy’n credu! Peidiwch â diddymu eich gweithredoedd elusengar ag atgofion a geiriau brifiol, fel yr hwn sy’n gwario ei gyfoeth i gael ei weld gan y bobl, ac nid yw’n credu yn Allah a’r Dydd Olaf. Ei gyffelybiaeth yw cyffelybiaeth craig llyfn wedi ei gorchuddio â phridd: mae glaw trwm yn ei tharo, ac yn ei gadael yn foel — nid ydynt yn ennill dim o’u hymdrechion. Nid yw Allah yn arwain y bobl anghrediniol.
+**2:264**  O chi sy'n credu! Peidiwch â diddymu eich gweithredoedd elusengar ag atgofion a geiriau brifiol, fel yr hwn sy'n gwario ei gyfoeth i gael ei weld gan y bobl, ac nid yw'n credu yn Allah a'r Dydd Olaf. Ei gyffelybiaeth yw cyffelybiaeth craig llyfn wedi ei gorchuddio â phridd: mae glaw trwm yn ei tharo, ac yn ei gadael yn foel — nid ydynt yn ennill dim o'u hymdrechion. Nid yw Allah yn arwain y bobl anghrediniol.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُبْطِلُوا۟ صَدَقَٰتِكُم بِٱلْمَنِّ وَٱلْأَذَىٰ كَٱلَّذِى يُنفِقُ مَالَهُۥ رِئَآءَ ٱلنَّاسِ وَلَا يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۖ فَمَثَلُهُۥ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌۭ فَأَصَابَهُۥ وَابِلٌۭ فَتَرَكَهُۥ صَلْدًۭا ۖ لَّا يَقْدِرُونَ عَلَىٰ شَىْءٍۢ مِّمَّا كَسَبُوا۟ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ
 
-**2:265**  A dameg y rhai sy’n gwario eu cyfoeth yn ceisio cymeradwyaeth Allah, ac i gryfhau eu heneidiau, yw dameg gardd ar lethr bryn. Os bydd glaw trwm yn disgyn arni, dyblir ei chynnyrch; ac os na fydd glaw trwm yn disgyn, yna mae gwlith yn ddigon. Mae Allah yn gweld popeth yr ydych yn ei wneud.
+**2:265**  A dameg y rhai sy'n gwario eu cyfoeth yn ceisio cymeradwyaeth Allah, ac i gryfhau eu heneidiau, yw dameg gardd ar lethr bryn. Os bydd glaw trwm yn disgyn arni, dyblir ei chynnyrch; ac os na fydd glaw trwm yn disgyn, yna mae gwlith yn ddigon. Mae Allah yn gweld popeth yr ydych yn ei wneud.
 
 وَمَثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمُ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ وَتَثْبِيتًۭا مِّنْ أَنفُسِهِمْ كَمَثَلِ جَنَّةٍۭ بِرَبْوَةٍ أَصَابَهَا وَابِلٌۭ فَـَٔاتَتْ أُكُلَهَا ضِعْفَيْنِ فَإِن لَّمْ يُصِبْهَا وَابِلٌۭ فَطَلٌّۭ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
 
-**2:266**  A hoffai unrhyw un ohonoch gael gardd o balmwydd a gwinwydd, y mae afonydd yn llifo oddi tani — â phob math o ffrwyth ynddi iddo, a henaint wedi ei daro, ac mae ganddo blant gwan — yna mae corwynt â thân yn ei tharo, ac mae’n llosgi i lawr? Felly y mae Allah yn gwneud yr arwyddion yn eglur i chi, fel y gallech fyfyrio.
+**2:266**  A hoffai unrhyw un ohonoch gael gardd o balmwydd a gwinwydd, y mae afonydd yn llifo oddi tani — â phob math o ffrwyth ynddi iddo, a henaint wedi ei daro, ac mae ganddo blant gwan — yna mae corwynt â thân yn ei tharo, ac mae'n llosgi i lawr? Felly y mae Allah yn gwneud yr arwyddion yn eglur i chi, fel y gallech fyfyrio.
 
 أَيَوَدُّ أَحَدُكُمْ أَن تَكُونَ لَهُۥ جَنَّةٌۭ مِّن نَّخِيلٍۢ وَأَعْنَابٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ لَهُۥ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَأَصَابَهُ ٱلْكِبَرُ وَلَهُۥ ذُرِّيَّةٌۭ ضُعَفَآءُ فَأَصَابَهَآ إِعْصَارٌۭ فِيهِ نَارٌۭ فَٱحْتَرَقَتْ ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ
 
-**2:267**  O chi sy’n credu! Rhoddwch o’r pethau da yr ydych wedi eu hennill, ac o’r hyn yr ydym wedi ei gynhyrchu i chi o’r ddaear. A pheidiwch â dewis y pethau israddol i’w rhoi ymaith, pan na fyddech eich hunain yn eu derbyn ond â llygaid caeedig. A gwyddoch fod Allah yn Ddigonol ac yn Glodwiw.
+**2:267**  O chi sy'n credu! Rhoddwch o'r pethau da yr ydych wedi eu hennill, ac o'r hyn yr ydym wedi ei gynhyrchu i chi o'r ddaear. A pheidiwch â dewis y pethau israddol i'w rhoi ymaith, pan na fyddech eich hunain yn eu derbyn ond â llygaid caeedig. A gwyddoch fod Allah yn Ddigonol ac yn Glodwiw.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَنفِقُوا۟ مِن طَيِّبَٰتِ مَا كَسَبْتُمْ وَمِمَّآ أَخْرَجْنَا لَكُم مِّنَ ٱلْأَرْضِ ۖ وَلَا تَيَمَّمُوا۟ ٱلْخَبِيثَ مِنْهُ تُنفِقُونَ وَلَسْتُم بِـَٔاخِذِيهِ إِلَّآ أَن تُغْمِضُوا۟ فِيهِ ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌ
 
@@ -1272,7 +1272,7 @@
 
 ٱلشَّيْطَٰنُ يَعِدُكُمُ ٱلْفَقْرَ وَيَأْمُرُكُم بِٱلْفَحْشَآءِ ۖ وَٱللَّهُ يَعِدُكُم مَّغْفِرَةًۭ مِّنْهُ وَفَضْلًۭا ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌۭ
 
-**2:269**  Mae’n rhoi doethineb i bwy bynnag a fyn. Pwy bynnag y rhoddir doethineb iddo sydd wedi cael llawer o ddaioni. Ond nid oes neb yn talu sylw ond y rhai â mewnwelediad.
+**2:269**  Mae'n rhoi doethineb i bwy bynnag a fyn. Pwy bynnag y rhoddir doethineb iddo sydd wedi cael llawer o ddaioni. Ond nid oes neb yn talu sylw ond y rhai â mewnwelediad.
 
 يُؤْتِى ٱلْحِكْمَةَ مَن يَشَآءُ ۚ وَمَن يُؤْتَ ٱلْحِكْمَةَ فَقَدْ أُوتِىَ خَيْرًۭا كَثِيرًۭا ۗ وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَٰبِ
 
@@ -1280,7 +1280,7 @@
 
 وَمَآ أَنفَقْتُم مِّن نَّفَقَةٍ أَوْ نَذَرْتُم مِّن نَّذْرٍۢ فَإِنَّ ٱللَّهَ يَعْلَمُهُۥ ۗ وَمَا لِلظَّٰلِمِينَ مِنْ أَنصَارٍ
 
-**2:271**  Os rhoddwch elusen yn agored, mae hynny’n dda. Ond os cadwch hi’n gyfrinachol, a’i rhoi i’r anghenus yn breifat, mae hynny’n well i chi. Bydd yn gwneud iawn am rai o’ch camweithredoedd. Mae Allah yn ymwybodol o’r hyn yr ydych yn ei wneud.
+**2:271**  Os rhoddwch elusen yn agored, mae hynny'n dda. Ond os cadwch hi'n gyfrinachol, a'i rhoi i'r anghenus yn breifat, mae hynny'n well i chi. Bydd yn gwneud iawn am rai o'ch camweithredoedd. Mae Allah yn ymwybodol o'r hyn yr ydych yn ei wneud.
 
 إِن تُبْدُوا۟ ٱلصَّدَقَٰتِ فَنِعِمَّا هِىَ ۖ وَإِن تُخْفُوهَا وَتُؤْتُوهَا ٱلْفُقَرَآءَ فَهُوَ خَيْرٌۭ لَّكُمْ ۚ وَيُكَفِّرُ عَنكُم مِّن سَيِّـَٔاتِكُمْ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ
 
@@ -1288,31 +1288,31 @@
 
 ۞ لَّيْسَ عَلَيْكَ هُدَىٰهُمْ وَلَٰكِنَّ ٱللَّهَ يَهْدِى مَن يَشَآءُ ۗ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍۢ فَلِأَنفُسِكُمْ ۚ وَمَا تُنفِقُونَ إِلَّا ٱبْتِغَآءَ وَجْهِ ٱللَّهِ ۚ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍۢ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ
 
-**2:273**  Mae ar gyfer y tlodion; y rhai sy’n cael eu hatal yn ffordd Allah, ac yn analluog i deithio yn y tir. Byddai’r anymwybodol yn eu meddwl yn gyfoethog, oherwydd eu hurddas. Cydnabyddwch nhw wrth eu nodweddion. Nid ydynt yn gofyn gan bobl yn daer. Pa elusen bynnag a roddwch, mae Allah yn ymwybodol ohoni.
+**2:273**  Mae ar gyfer y tlodion; y rhai sy'n cael eu hatal yn ffordd Allah, ac yn analluog i deithio yn y tir. Byddai'r anymwybodol yn eu meddwl yn gyfoethog, oherwydd eu hurddas. Cydnabyddwch nhw wrth eu nodweddion. Nid ydynt yn gofyn gan bobl yn daer. Pa elusen bynnag a roddwch, mae Allah yn ymwybodol ohoni.
 
 لِلْفُقَرَآءِ ٱلَّذِينَ أُحْصِرُوا۟ فِى سَبِيلِ ٱللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًۭا فِى ٱلْأَرْضِ يَحْسَبُهُمُ ٱلْجَاهِلُ أَغْنِيَآءَ مِنَ ٱلتَّعَفُّفِ تَعْرِفُهُم بِسِيمَٰهُمْ لَا يَسْـَٔلُونَ ٱلنَّاسَ إِلْحَافًۭا ۗ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍۢ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ
 
-**2:274**  Bydd y rhai sy’n gwario eu cyfoeth liw nos a dydd, yn breifat ac yn gyhoeddus, yn derbyn eu gwobr oddi wrth eu Harglwydd. Nid oes ganddynt ddim i’w ofni, ac ni fyddant yn galaru.
+**2:274**  Bydd y rhai sy'n gwario eu cyfoeth liw nos a dydd, yn breifat ac yn gyhoeddus, yn derbyn eu gwobr oddi wrth eu Harglwydd. Nid oes ganddynt ddim i'w ofni, ac ni fyddant yn galaru.
 
 ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُم بِٱلَّيْلِ وَٱلنَّهَارِ سِرًّۭا وَعَلَانِيَةًۭ فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
-**2:275**  Ni chyfyd y rhai sy’n llyncu usuriaeth, ond fel rhywun a yrwyd yn wallgof gan gyffyrddiad Satan. Mae hynny am eu bod yn dweud, “Mae masnach fel usuriaeth.” Ond mae Allah wedi caniatáu masnach, ac wedi gwahardd usuriaeth. Pwy bynnag, ar ôl derbyn cyngor oddi wrth ei Arglwydd, sy’n ymatal, caiff gadw ei enillion gorffennol, ac mae ei achos yn gorwedd gydag Allah. Ond pwy bynnag sy’n ailafael — y rhain yw preswylwyr y Tân, lle byddant yn aros am byth.
+**2:275**  Ni chyfyd y rhai sy'n llyncu usuriaeth, ond fel rhywun a yrwyd yn wallgof gan gyffyrddiad Satan. Mae hynny am eu bod yn dweud, "Mae masnach fel usuriaeth." Ond mae Allah wedi caniatáu masnach, ac wedi gwahardd usuriaeth. Pwy bynnag, ar ôl derbyn cyngor oddi wrth ei Arglwydd, sy'n ymatal, caiff gadw ei enillion gorffennol, ac mae ei achos yn gorwedd gydag Allah. Ond pwy bynnag sy'n ailafael — y rhain yw preswylwyr y Tân, lle byddant yn aros am byth.
 
 ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ ٱلشَّيْطَٰنُ مِنَ ٱلْمَسِّ ۚ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟ ۗ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ ۚ فَمَن جَآءَهُۥ مَوْعِظَةٌۭ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ وَأَمْرُهُۥٓ إِلَى ٱللَّهِ ۖ وَمَنْ عَادَ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
-**2:276**  Mae Allah yn condemnio usuriaeth, ac mae’n bendithio elusennau. Nid yw Allah yn caru unrhyw bechadur anniochgar.
+**2:276**  Mae Allah yn condemnio usuriaeth, ac mae'n bendithio elusennau. Nid yw Allah yn caru unrhyw bechadur anniochgar.
 
 يَمْحَقُ ٱللَّهُ ٱلرِّبَوٰا۟ وَيُرْبِى ٱلصَّدَقَٰتِ ۗ وَٱللَّهُ لَا يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ
 
-**2:277**  Bydd gan y rhai sy’n credu, ac yn gwneud gweithredoedd da, ac yn gweddïo’n rheolaidd, ac yn rhoi elusen, eu gwobr gyda’u Harglwydd; ni fydd ganddynt ofn, ac ni fyddant yn galaru.
+**2:277**  Bydd gan y rhai sy'n credu, ac yn gwneud gweithredoedd da, ac yn gweddïo'n rheolaidd, ac yn rhoi elusen, eu gwobr gyda'u Harglwydd; ni fydd ganddynt ofn, ac ni fyddant yn galaru.
 
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
-**2:278**  O chi sy’n credu! Ofnwch Allah, a rhowch heibio’r hyn sy’n weddill o usuriaeth, os ydych yn gredinwyr.
+**2:278**  O chi sy'n credu! Ofnwch Allah, a rhowch heibio'r hyn sy'n weddill o usuriaeth, os ydych yn gredinwyr.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَذَرُوا۟ مَا بَقِىَ مِنَ ٱلرِّبَوٰٓا۟ إِن كُنتُم مُّؤْمِنِينَ
 
-**2:279**  Os na wnewch, yna cymerwch sylw o ryfel gan Allah a’i Genhadwr. Ond os edifarhewch, cewch gadw eich cyfalaf, heb wneud cam, nac yn cael eich camdrin.
+**2:279**  Os na wnewch, yna cymerwch sylw o ryfel gan Allah a'i Genhadwr. Ond os edifarhewch, cewch gadw eich cyfalaf, heb wneud cam, nac yn cael eich camdrin.
 
 فَإِن لَّمْ تَفْعَلُوا۟ فَأْذَنُوا۟ بِحَرْبٍۢ مِّنَ ٱللَّهِ وَرَسُولِهِۦ ۖ وَإِن تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَٰلِكُمْ لَا تَظْلِمُونَ وَلَا تُظْلَمُونَ
 
@@ -1324,23 +1324,23 @@
 
 وَٱتَّقُوا۟ يَوْمًۭا تُرْجَعُونَ فِيهِ إِلَى ٱللَّهِ ۖ ثُمَّ تُوَفَّىٰ كُلُّ نَفْسٍۢ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
 
-**2:282**  O chi sy’n credu! Pan fyddwch yn mynd i ddyled yn eich plith am gyfnod penodol o amser, ysgrifennwch hi i lawr. A chael ysgrifennydd i ysgrifennu yn eich presenoldeb, mewn tegwch llwyr. A na wrthoded ysgrifennydd ysgrifennu, fel y mae Allah wedi ei ddysgu. Felly gadewch iddo ysgrifennu, a gadewch i’r dyledwr lefaru. A gadewch iddo ofni Allah, ei Arglwydd, a lleihau dim ohoni. Ond os yw’r dyledwr yn ddiffygiol yn feddyliol, neu’n wan, neu’n analluog i lefaru, yna gadewch i’w warcheidwad lefaru ag onestrwydd. A galwch yn dystion ddau ddyn yn eich plith. Os nad oes dau ddyn ar gael, yna un dyn a dwy wraig y mae eu tystiolaeth yn dderbyniol i bawb — os bydd un ohonynt yn methu cofio, byddai’r llall yn ei hatgoffa. Ni ddylai tystion wrthod pan gânt eu galw. A pheidiwch â meddwl ei fod yn rhy ddibwys i’w ysgrifennu i lawr, boed yn fach neu’n fawr, gan gynnwys amser yr ad-daliad. Mae hynny’n fwy teg gydag Allah, ac yn gryfach fel tystiolaeth, ac yn fwy tebygol o atal amheuaeth — ac eithrio yn achos trafodyn ar y pryd rhyngoch — yna nid oes bai arnoch os na fyddwch yn ei ysgrifennu i lawr. A bydded tystion pryd bynnag y byddwch yn dod i gytundeb, ac na wnaed niwed i ysgrifennydd na thyst. Os gwnewch hynny, llygredd ar eich rhan ydyw. Ac ofnwch Allah. Mae Allah yn eich dysgu. Mae Allah yn ymwybodol o bopeth.
+**2:282**  O chi sy'n credu! Pan fyddwch yn mynd i ddyled yn eich plith am gyfnod penodol o amser, ysgrifennwch hi i lawr. A chael ysgrifennydd i ysgrifennu yn eich presenoldeb, mewn tegwch llwyr. A na wrthoded ysgrifennydd ysgrifennu, fel y mae Allah wedi ei ddysgu. Felly gadewch iddo ysgrifennu, a gadewch i'r dyledwr lefaru. A gadewch iddo ofni Allah, ei Arglwydd, a lleihau dim ohoni. Ond os yw'r dyledwr yn ddiffygiol yn feddyliol, neu'n wan, neu'n analluog i lefaru, yna gadewch i'w warcheidwad lefaru ag onestrwydd. A galwch yn dystion ddau ddyn yn eich plith. Os nad oes dau ddyn ar gael, yna un dyn a dwy wraig y mae eu tystiolaeth yn dderbyniol i bawb — os bydd un ohonynt yn methu cofio, byddai'r llall yn ei hatgoffa. Ni ddylai tystion wrthod pan gânt eu galw. A pheidiwch â meddwl ei fod yn rhy ddibwys i'w ysgrifennu i lawr, boed yn fach neu'n fawr, gan gynnwys amser yr ad-daliad. Mae hynny'n fwy teg gydag Allah, ac yn gryfach fel tystiolaeth, ac yn fwy tebygol o atal amheuaeth — ac eithrio yn achos trafodyn ar y pryd rhyngoch — yna nid oes bai arnoch os na fyddwch yn ei ysgrifennu i lawr. A bydded tystion pryd bynnag y byddwch yn dod i gytundeb, ac na wnaed niwed i ysgrifennydd na thyst. Os gwnewch hynny, llygredd ar eich rhan ydyw. Ac ofnwch Allah. Mae Allah yn eich dysgu. Mae Allah yn ymwybodol o bopeth.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا تَدَايَنتُم بِدَيْنٍ إِلَىٰٓ أَجَلٍۢ مُّسَمًّۭى فَٱكْتُبُوهُ ۚ وَلْيَكْتُب بَّيْنَكُمْ كَاتِبٌۢ بِٱلْعَدْلِ ۚ وَلَا يَأْبَ كَاتِبٌ أَن يَكْتُبَ كَمَا عَلَّمَهُ ٱللَّهُ ۚ فَلْيَكْتُبْ وَلْيُمْلِلِ ٱلَّذِى عَلَيْهِ ٱلْحَقُّ وَلْيَتَّقِ ٱللَّهَ رَبَّهُۥ وَلَا يَبْخَسْ مِنْهُ شَيْـًۭٔا ۚ فَإِن كَانَ ٱلَّذِى عَلَيْهِ ٱلْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَن يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُۥ بِٱلْعَدْلِ ۚ وَٱسْتَشْهِدُوا۟ شَهِيدَيْنِ مِن رِّجَالِكُمْ ۖ فَإِن لَّمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌۭ وَٱمْرَأَتَانِ مِمَّن تَرْضَوْنَ مِنَ ٱلشُّهَدَآءِ أَن تَضِلَّ إِحْدَىٰهُمَا فَتُذَكِّرَ إِحْدَىٰهُمَا ٱلْأُخْرَىٰ ۚ وَلَا يَأْبَ ٱلشُّهَدَآءُ إِذَا مَا دُعُوا۟ ۚ وَلَا تَسْـَٔمُوٓا۟ أَن تَكْتُبُوهُ صَغِيرًا أَوْ كَبِيرًا إِلَىٰٓ أَجَلِهِۦ ۚ ذَٰلِكُمْ أَقْسَطُ عِندَ ٱللَّهِ وَأَقْوَمُ لِلشَّهَٰدَةِ وَأَدْنَىٰٓ أَلَّا تَرْتَابُوٓا۟ ۖ إِلَّآ أَن تَكُونَ تِجَٰرَةً حَاضِرَةًۭ تُدِيرُونَهَا بَيْنَكُمْ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَلَّا تَكْتُبُوهَا ۗ وَأَشْهِدُوٓا۟ إِذَا تَبَايَعْتُمْ ۚ وَلَا يُضَآرَّ كَاتِبٌۭ وَلَا شَهِيدٌۭ ۚ وَإِن تَفْعَلُوا۟ فَإِنَّهُۥ فُسُوقٌۢ بِكُمْ ۗ وَٱتَّقُوا۟ ٱللَّهَ ۖ وَيُعَلِّمُكُمُ ٱللَّهُ ۗ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ
 
-**2:283**  Os ydych ar daith, ac ni allwch ddod o hyd i ysgrifennydd, yna dylid trosglwyddo blaendal diogelwch. Ond os ymddiriedwch yn eich gilydd, gadewch i’r ymddiriedolwr gyflawni ei ymddiriedaeth, a gadewch iddo ofni Allah, ei Arglwydd. A pheidiwch â chuddio tystiolaeth. Pwy bynnag sy’n ei chuddio sy’n bechadur yn ei galon. Mae Allah yn ymwybodol o’r hyn yr ydych yn ei wneud.
+**2:283**  Os ydych ar daith, ac ni allwch ddod o hyd i ysgrifennydd, yna dylid trosglwyddo blaendal diogelwch. Ond os ymddiriedwch yn eich gilydd, gadewch i'r ymddiriedolwr gyflawni ei ymddiriedaeth, a gadewch iddo ofni Allah, ei Arglwydd. A pheidiwch â chuddio tystiolaeth. Pwy bynnag sy'n ei chuddio sy'n bechadur yn ei galon. Mae Allah yn ymwybodol o'r hyn yr ydych yn ei wneud.
 
 ۞ وَإِن كُنتُمْ عَلَىٰ سَفَرٍۢ وَلَمْ تَجِدُوا۟ كَاتِبًۭا فَرِهَٰنٌۭ مَّقْبُوضَةٌۭ ۖ فَإِنْ أَمِنَ بَعْضُكُم بَعْضًۭا فَلْيُؤَدِّ ٱلَّذِى ٱؤْتُمِنَ أَمَٰنَتَهُۥ وَلْيَتَّقِ ٱللَّهَ رَبَّهُۥ ۗ وَلَا تَكْتُمُوا۟ ٱلشَّهَٰدَةَ ۚ وَمَن يَكْتُمْهَا فَإِنَّهُۥٓ ءَاثِمٌۭ قَلْبُهُۥ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌۭ
 
-**2:284**  I Allah y perthyn popeth yn y nefoedd a’r ddaear. P’un a ddatguddiwch yr hyn sydd o fewn eich hunain, neu ei guddio, bydd Allah yn eich galw i gyfrif amdano. Mae’n maddau i bwy bynnag a fyn, ac mae’n cosbi pwy bynnag a fyn. Mae Allah yn Abl i wneud pob peth.
+**2:284**  I Allah y perthyn popeth yn y nefoedd a'r ddaear. P'un a ddatguddiwch yr hyn sydd o fewn eich hunain, neu ei guddio, bydd Allah yn eich galw i gyfrif amdano. Mae'n maddau i bwy bynnag a fyn, ac mae'n cosbi pwy bynnag a fyn. Mae Allah yn Abl i wneud pob peth.
 
 لِّلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَإِن تُبْدُوا۟ مَا فِىٓ أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ ٱللَّهُ ۖ فَيَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ
 
-**2:285**  Mae’r Cenhadwr wedi credu yn yr hyn a ddatguddiwyd iddo oddi wrth ei Arglwydd, fel y gwnaeth y credinwyr. Maent oll wedi credu yn Allah, a’i angylion, a’i ysgrythurau, a’i genhadon: “Nid ydym yn gwneud gwahaniaeth rhwng yr un o’i genhadon.” Ac maent yn dweud, “Rydym yn clywed ac yn ufuddhau. Dy faddeuant, ein Harglwydd. Atat ti y mae’r dynged.”
+**2:285**  Mae'r Cenhadwr wedi credu yn yr hyn a ddatguddiwyd iddo oddi wrth ei Arglwydd, fel y gwnaeth y credinwyr. Maent oll wedi credu yn Allah, a'i angylion, a'i ysgrythurau, a'i genhadon: "Nid ydym yn gwneud gwahaniaeth rhwng yr un o'i genhadon." Ac maent yn dweud, "Rydym yn clywed ac yn ufuddhau. Dy faddeuant, ein Harglwydd. Atat ti y mae'r dynged."
 
 ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيْهِ مِن رَّبِّهِۦ وَٱلْمُؤْمِنُونَ ۚ كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيْنَ أَحَدٍۢ مِّن رُّسُلِهِۦ ۚ وَقَالُوا۟ سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ
 
-**2:286**  Nid yw Allah yn beichio unrhyw enaid y tu hwnt i’w allu. I’w glod y mae’r hyn y mae’n ei ennill, ac yn ei erbyn y mae’r hyn y mae’n ei gyflawni. “Ein Harglwydd, paid â’n condemnio os anghofiwn neu wneud camgymeriad. Ein Harglwydd, paid â’n beichio fel y beichiaist y rhai o’n blaen. Ein Harglwydd, paid â’n beichio â mwy nag y mae gennym nerth i’w ddwyn; a maddau i ni, a maddau i ni, a thrugarha wrthym. Ti yw ein Harglwydd a’n Meistr, felly cynorthwya ni yn erbyn y bobl anghrediniol.”
+**2:286**  Nid yw Allah yn beichio unrhyw enaid y tu hwnt i'w allu. I'w glod y mae'r hyn y mae'n ei ennill, ac yn ei erbyn y mae'r hyn y mae'n ei gyflawni. "Ein Harglwydd, paid â'n condemnio os anghofiwn neu wneud camgymeriad. Ein Harglwydd, paid â'n beichio fel y beichiaist y rhai o'n blaen. Ein Harglwydd, paid â'n beichio â mwy nag y mae gennym nerth i'w ddwyn; a maddau i ni, a maddau i ni, a thrugarha wrthym. Ti yw ein Harglwydd a'n Meistr, felly cynorthwya ni yn erbyn y bobl anghrediniol."
 
 لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًۭا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
 
@@ -1351,7 +1351,7 @@
 
 **آلِ عِمْرَان** · Aal-Imran · Medinaidd · 200 adnod
 
-*Teulu Imran, genedigaeth Mair, a galwad i ddal yn dynn gyda’n gilydd wrth raff Allah.*
+*Teulu Imran, genedigaeth Mair, a galwad i ddal yn dynn gyda'n gilydd wrth raff Allah.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -1365,7 +1365,7 @@
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ
 
-**3:3**  Anfonodd i lawr i ti y Llyfr â’r Gwirionedd, yn cadarnhau’r hyn a ddaeth o’i flaen; ac anfonodd i lawr y Torah a’r Efengyl.
+**3:3**  Anfonodd i lawr i ti y Llyfr â'r Gwirionedd, yn cadarnhau'r hyn a ddaeth o'i flaen; ac anfonodd i lawr y Torah a'r Efengyl.
 
 نَزَّلَ عَلَيْكَ ٱلْكِتَٰبَ بِٱلْحَقِّ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ
 
@@ -1377,79 +1377,79 @@
 
 إِنَّ ٱللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَىْءٌۭ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ
 
-**3:6**  Ef yw’r hwn sy’n eich ffurfio yn y crothau fel y myn. Nid oes duw ond Ef, yr Hollalluog, y Doeth.
+**3:6**  Ef yw'r hwn sy'n eich ffurfio yn y crothau fel y myn. Nid oes duw ond Ef, yr Hollalluog, y Doeth.
 
 هُوَ ٱلَّذِى يُصَوِّرُكُمْ فِى ٱلْأَرْحَامِ كَيْفَ يَشَآءُ ۚ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**3:7**  Ef yw’r hwn a ddatguddiodd i ti y Llyfr. Mae rhai o’i adnodau yn bendant; nhw yw sylfaen y Llyfr, ac eraill yn amhenodol. O ran y rhai y mae gwyriad yn eu calonnau, maent yn dilyn y rhan amhenodol, yn ceisio disgyniad, ac yn ceisio deillio dehongliad. Ond nid oes neb yn gwybod ei ddehongliad ond Allah a’r rhai sydd wedi eu gwreiddio’n gadarn mewn gwybodaeth sy’n dweud, “Rydym yn credu ynddo; mae’r cyfan oddi wrth ein Harglwydd.” Ond nid oes neb yn cofio ond y rhai â deall.
+**3:7**  Ef yw'r hwn a ddatguddiodd i ti y Llyfr. Mae rhai o'i adnodau yn bendant; nhw yw sylfaen y Llyfr, ac eraill yn amhenodol. O ran y rhai y mae gwyriad yn eu calonnau, maent yn dilyn y rhan amhenodol, yn ceisio disgyniad, ac yn ceisio deillio dehongliad. Ond nid oes neb yn gwybod ei ddehongliad ond Allah a'r rhai sydd wedi eu gwreiddio'n gadarn mewn gwybodaeth sy'n dweud, "Rydym yn credu ynddo; mae'r cyfan oddi wrth ein Harglwydd." Ond nid oes neb yn cofio ond y rhai â deall.
 
 هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَٰبَ مِنْهُ ءَايَٰتٌۭ مُّحْكَمَٰتٌ هُنَّ أُمُّ ٱلْكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٌۭ ۖ فَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِمْ زَيْغٌۭ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنْهُ ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ ۗ وَمَا يَعْلَمُ تَأْوِيلَهُۥٓ إِلَّا ٱللَّهُ ۗ وَٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلٌّۭ مِّنْ عِندِ رَبِّنَا ۗ وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَٰبِ
 
-**3:8**  “Ein Harglwydd, paid â pheri i’n calonnau wyro ar ôl i Ti ein harwain, a rhodda arnom drugaredd o’th bresenoldeb; Ti yw’r Rhoddwr.”
+**3:8**  "Ein Harglwydd, paid â pheri i'n calonnau wyro ar ôl i Ti ein harwain, a rhodda arnom drugaredd o'th bresenoldeb; Ti yw'r Rhoddwr."
 
 رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ ٱلْوَهَّابُ
 
-**3:9**  “Ein Harglwydd, byddi’n casglu’r bobl ar gyfer Dydd lle nad oes amheuaeth.” Ni fydd Allah byth yn torri ei addewid.
+**3:9**  "Ein Harglwydd, byddi'n casglu'r bobl ar gyfer Dydd lle nad oes amheuaeth." Ni fydd Allah byth yn torri ei addewid.
 
 رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوْمٍۢ لَّا رَيْبَ فِيهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ
 
-**3:10**  O ran y rhai sy’n anghredu, ni fydd na’u cyfoeth na’u plant yn eu helpu dim yn erbyn Allah. Y rhain fydd tanwydd i’r Tân.
+**3:10**  O ran y rhai sy'n anghredu, ni fydd na'u cyfoeth na'u plant yn eu helpu dim yn erbyn Allah. Y rhain fydd tanwydd i'r Tân.
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَٰدُهُم مِّنَ ٱللَّهِ شَيْـًۭٔا ۖ وَأُو۟لَٰٓئِكَ هُمْ وَقُودُ ٱلنَّارِ
 
-**3:11**  Fel ymddygiad pobl Ffaro a’r rhai o’u blaen. Gwrthodasant ein harwyddion, felly cipiodd Allah nhw am eu pechodau. Mae Allah yn Llym mewn dial.
+**3:11**  Fel ymddygiad pobl Ffaro a'r rhai o'u blaen. Gwrthodasant ein harwyddion, felly cipiodd Allah nhw am eu pechodau. Mae Allah yn Llym mewn dial.
 
 كَدَأْبِ ءَالِ فِرْعَوْنَ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَذَّبُوا۟ بِـَٔايَٰتِنَا فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمْ ۗ وَٱللَّهُ شَدِيدُ ٱلْعِقَابِ
 
-**3:12**  Dywed wrth y rhai sy’n anghredu, “Cewch eich trechu, a’ch crynhoi i Uffern — gorffwysfa erchyll.”
+**3:12**  Dywed wrth y rhai sy'n anghredu, "Cewch eich trechu, a'ch crynhoi i Uffern — gorffwysfa erchyll."
 
 قُل لِّلَّذِينَ كَفَرُوا۟ سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَىٰ جَهَنَّمَ ۚ وَبِئْسَ ٱلْمِهَادُ
 
-**3:13**  Yr oedd arwydd i chi yn y ddwy blaid a gyfarfu. Un blaid yn ymladd yn ffordd Allah, a’r llall yn anghredu. Gwelsant nhw â’u llygaid eu hunain ddwywaith eu nifer. Ond mae Allah yn cefnogi â’i gymorth pwy bynnag a fyn. Ynddo y mae gwers i’r rhai â mewnwelediad.
+**3:13**  Yr oedd arwydd i chi yn y ddwy blaid a gyfarfu. Un blaid yn ymladd yn ffordd Allah, a'r llall yn anghredu. Gwelsant nhw â'u llygaid eu hunain ddwywaith eu nifer. Ond mae Allah yn cefnogi â'i gymorth pwy bynnag a fyn. Ynddo y mae gwers i'r rhai â mewnwelediad.
 
 قَدْ كَانَ لَكُمْ ءَايَةٌۭ فِى فِئَتَيْنِ ٱلْتَقَتَا ۖ فِئَةٌۭ تُقَٰتِلُ فِى سَبِيلِ ٱللَّهِ وَأُخْرَىٰ كَافِرَةٌۭ يَرَوْنَهُم مِّثْلَيْهِمْ رَأْىَ ٱلْعَيْنِ ۚ وَٱللَّهُ يُؤَيِّدُ بِنَصْرِهِۦ مَن يَشَآءُ ۗ إِنَّ فِى ذَٰلِكَ لَعِبْرَةًۭ لِّأُو۟لِى ٱلْأَبْصَٰرِ
 
-**3:14**  Addurnwyd i’r bobl gariad chwantau, megis gwragedd, a phlant, a phentyrrau ar bentyrrau o aur ac arian, a cheffylau nodiedig, a da byw, a chaeau. Dyma gyfleusterau’r bywyd bydol, ond gydag Allah y mae’r gyrchfan orau.
+**3:14**  Addurnwyd i'r bobl gariad chwantau, megis gwragedd, a phlant, a phentyrrau ar bentyrrau o aur ac arian, a cheffylau nodiedig, a da byw, a chaeau. Dyma gyfleusterau'r bywyd bydol, ond gydag Allah y mae'r gyrchfan orau.
 
 زُيِّنَ لِلنَّاسِ حُبُّ ٱلشَّهَوَٰتِ مِنَ ٱلنِّسَآءِ وَٱلْبَنِينَ وَٱلْقَنَٰطِيرِ ٱلْمُقَنطَرَةِ مِنَ ٱلذَّهَبِ وَٱلْفِضَّةِ وَٱلْخَيْلِ ٱلْمُسَوَّمَةِ وَٱلْأَنْعَٰمِ وَٱلْحَرْثِ ۗ ذَٰلِكَ مَتَٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلْمَـَٔابِ
 
-**3:15**  Dywed, “A roddaf wybod i chi am rywbeth gwell na hynny? I’r rhai sy’n gyfiawn, gyda’u Harglwydd y mae Erddi y mae afonydd yn llifo oddi tanynt, lle byddant yn aros am byth, a phriodau puredig, a derbyniad oddi wrth Allah.” Mae Allah yn Sylwgar o’r gweision.
+**3:15**  Dywed, "A roddaf wybod i chi am rywbeth gwell na hynny? I'r rhai sy'n gyfiawn, gyda'u Harglwydd y mae Erddi y mae afonydd yn llifo oddi tanynt, lle byddant yn aros am byth, a phriodau puredig, a derbyniad oddi wrth Allah." Mae Allah yn Sylwgar o'r gweision.
 
 ۞ قُلْ أَؤُنَبِّئُكُم بِخَيْرٍۢ مِّن ذَٰلِكُمْ ۚ لِلَّذِينَ ٱتَّقَوْا۟ عِندَ رَبِّهِمْ جَنَّٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَأَزْوَٰجٌۭ مُّطَهَّرَةٌۭ وَرِضْوَٰنٌۭ مِّنَ ٱللَّهِ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ
 
-**3:16**  Y rhai sy’n dweud, “Ein Harglwydd, yr ydym wedi credu, felly maddau i ni ein pechodau, ac achub ni rhag dioddefaint y Tân.”
+**3:16**  Y rhai sy'n dweud, "Ein Harglwydd, yr ydym wedi credu, felly maddau i ni ein pechodau, ac achub ni rhag dioddefaint y Tân."
 
 ٱلَّذِينَ يَقُولُونَ رَبَّنَآ إِنَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ
 
-**3:17**  Yr amyneddgar, a’r gwirioneddus, a’r parchedig, a’r elusengar, a cheiswyr maddeuant ar doriad gwawr.
+**3:17**  Yr amyneddgar, a'r gwirioneddus, a'r parchedig, a'r elusengar, a cheiswyr maddeuant ar doriad gwawr.
 
 ٱلصَّٰبِرِينَ وَٱلصَّٰدِقِينَ وَٱلْقَٰنِتِينَ وَٱلْمُنفِقِينَ وَٱلْمُسْتَغْفِرِينَ بِٱلْأَسْحَارِ
 
-**3:18**  Mae Allah yn tystio nad oes duw ond Ef, fel y mae’r angylion, a’r rhai a roddwyd gwybodaeth iddynt — yn cynnal cyfiawnder. Nid oes duw ond Ef, y Cadarn, y Doeth.
+**3:18**  Mae Allah yn tystio nad oes duw ond Ef, fel y mae'r angylion, a'r rhai a roddwyd gwybodaeth iddynt — yn cynnal cyfiawnder. Nid oes duw ond Ef, y Cadarn, y Doeth.
 
 شَهِدَ ٱللَّهُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا هُوَ وَٱلْمَلَٰٓئِكَةُ وَأُو۟لُوا۟ ٱلْعِلْمِ قَآئِمًۢا بِٱلْقِسْطِ ۚ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**3:19**  Crefydd gydag Allah yw Islam. Dim ond ar ôl i wybodaeth ddod atynt y gwahaniaethodd y rhai y rhoddwyd yr Ysgrythur iddynt, o eiddigedd yn eu plith. Pwy bynnag sy’n gwrthod arwyddion Allah — mae Allah yn gyflym i gymryd cyfrif.
+**3:19**  Crefydd gydag Allah yw Islam. Dim ond ar ôl i wybodaeth ddod atynt y gwahaniaethodd y rhai y rhoddwyd yr Ysgrythur iddynt, o eiddigedd yn eu plith. Pwy bynnag sy'n gwrthod arwyddion Allah — mae Allah yn gyflym i gymryd cyfrif.
 
 إِنَّ ٱلدِّينَ عِندَ ٱللَّهِ ٱلْإِسْلَٰمُ ۗ وَمَا ٱخْتَلَفَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۗ وَمَن يَكْفُرْ بِـَٔايَٰتِ ٱللَّهِ فَإِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
 
-**3:20**  Os dadleuant â thi, dywed, “Rwyf wedi ildio fy hun i Allah, a’r rhai sy’n fy nilyn.” A dywed wrth y rhai y rhoddwyd yr Ysgrythur iddynt, a’r rhai diaddysg, “A ydych wedi ildio?” Os ydynt wedi ildio, yna maent wedi eu harwain; ond os troant ymaith, yna dy ddyletswydd yw cyfleu. Mae Allah yn Gweld y gweision.
+**3:20**  Os dadleuant â thi, dywed, "Rwyf wedi ildio fy hun i Allah, a'r rhai sy'n fy nilyn." A dywed wrth y rhai y rhoddwyd yr Ysgrythur iddynt, a'r rhai diaddysg, "A ydych wedi ildio?" Os ydynt wedi ildio, yna maent wedi eu harwain; ond os troant ymaith, yna dy ddyletswydd yw cyfleu. Mae Allah yn Gweld y gweision.
 
 فَإِنْ حَآجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِىَ لِلَّهِ وَمَنِ ٱتَّبَعَنِ ۗ وَقُل لِّلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَٱلْأُمِّيِّۦنَ ءَأَسْلَمْتُمْ ۚ فَإِنْ أَسْلَمُوا۟ فَقَدِ ٱهْتَدَوا۟ ۖ وَّإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْكَ ٱلْبَلَٰغُ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ
 
-**3:21**  O ran y rhai sy’n herio datguddiadau Allah, ac yn lladd y proffwydi yn anghyfiawn, ac yn lladd y rhai sy’n eiriol cyfiawnder ymhlith y bobl — addawa iddynt ddial boenus.
+**3:21**  O ran y rhai sy'n herio datguddiadau Allah, ac yn lladd y proffwydi yn anghyfiawn, ac yn lladd y rhai sy'n eiriol cyfiawnder ymhlith y bobl — addawa iddynt ddial boenus.
 
 إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ بِغَيْرِ حَقٍّۢ وَيَقْتُلُونَ ٱلَّذِينَ يَأْمُرُونَ بِٱلْقِسْطِ مِنَ ٱلنَّاسِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ
 
-**3:22**  Nhw yw’r rhai y daw eu gweithredoedd i ddim, yn y byd hwn ac yn y Bywyd ar Ôl; ac ni fydd ganddynt achubwyr.
+**3:22**  Nhw yw'r rhai y daw eu gweithredoedd i ddim, yn y byd hwn ac yn y Bywyd ar Ôl; ac ni fydd ganddynt achubwyr.
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ حَبِطَتْ أَعْمَٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَمَا لَهُم مِّن نَّٰصِرِينَ
 
-**3:23**  Oni welaist ti’r rhai y rhoddwyd cyfran o’r Ysgrythur iddynt, wrth iddynt gael eu galw at Ysgrythur Allah i gyflafareddu rhyngddynt; yna trodd rhai ohonynt yn ôl, a gwrthod?
+**3:23**  Oni welaist ti'r rhai y rhoddwyd cyfran o'r Ysgrythur iddynt, wrth iddynt gael eu galw at Ysgrythur Allah i gyflafareddu rhyngddynt; yna trodd rhai ohonynt yn ôl, a gwrthod?
 
 أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًۭا مِّنَ ٱلْكِتَٰبِ يُدْعَوْنَ إِلَىٰ كِتَٰبِ ٱللَّهِ لِيَحْكُمَ بَيْنَهُمْ ثُمَّ يَتَوَلَّىٰ فَرِيقٌۭ مِّنْهُمْ وَهُم مُّعْرِضُونَ
 
-**3:24**  Mae hynny am iddynt ddweud, “Ni chyffyrdd y Tân â ni ond am nifer cyfyngedig o ddyddiau.” Maent wedi cael eu camarwain yn eu crefydd gan y celwyddau a wnaethant.
+**3:24**  Mae hynny am iddynt ddweud, "Ni chyffyrdd y Tân â ni ond am nifer cyfyngedig o ddyddiau." Maent wedi cael eu camarwain yn eu crefydd gan y celwyddau a wnaethant.
 
 ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامًۭا مَّعْدُودَٰتٍۢ ۖ وَغَرَّهُمْ فِى دِينِهِم مَّا كَانُوا۟ يَفْتَرُونَ
 
@@ -1457,151 +1457,151 @@
 
 فَكَيْفَ إِذَا جَمَعْنَٰهُمْ لِيَوْمٍۢ لَّا رَيْبَ فِيهِ وَوُفِّيَتْ كُلُّ نَفْسٍۢ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
 
-**3:26**  Dywed, “O Allah, Berchen ar Sofraniaeth. Rwyt yn rhoi sofraniaeth i bwy bynnag a fynni, ac rwyt yn tynnu sofraniaeth oddi wrth bwy bynnag a fynni. Rwyt yn anrhydeddu pwy bynnag a fynni, ac rwyt yn darostwng pwy bynnag a fynni. Yn dy law y mae pob daioni. Rwyt yn Alluog o bob peth.”
+**3:26**  Dywed, "O Allah, Berchen ar Sofraniaeth. Rwyt yn rhoi sofraniaeth i bwy bynnag a fynni, ac rwyt yn tynnu sofraniaeth oddi wrth bwy bynnag a fynni. Rwyt yn anrhydeddu pwy bynnag a fynni, ac rwyt yn darostwng pwy bynnag a fynni. Yn dy law y mae pob daioni. Rwyt yn Alluog o bob peth."
 
 قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ ۖ بِيَدِكَ ٱلْخَيْرُ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**3:27**  “Rwyt yn uno’r nos i’r dydd, ac rwyt yn uno’r dydd i’r nos; ac rwyt yn dwyn y byw allan o’r marw, ac rwyt yn dwyn y marw allan o’r byw; ac rwyt yn darparu i bwy bynnag a fynni heb fesur.”
+**3:27**  "Rwyt yn uno'r nos i'r dydd, ac rwyt yn uno'r dydd i'r nos; ac rwyt yn dwyn y byw allan o'r marw, ac rwyt yn dwyn y marw allan o'r byw; ac rwyt yn darparu i bwy bynnag a fynni heb fesur."
 
 تُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ ۖ وَتُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَتُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ ۖ وَتَرْزُقُ مَن تَشَآءُ بِغَيْرِ حِسَابٍۢ
 
-**3:28**  Nid yw credinwyr i gymryd anghredinwyr yn gyfeillion yn lle credinwyr. Pwy bynnag sy’n gwneud hynny nid oes ganddo ddim i’w wneud ag Allah, oni bai ei fod i amddiffyn eich hunain yn eu herbyn. Mae Allah yn eich rhybuddio i wylied rhagddo. I Allah y mae’r dynged.
+**3:28**  Nid yw credinwyr i gymryd anghredinwyr yn gyfeillion yn lle credinwyr. Pwy bynnag sy'n gwneud hynny nid oes ganddo ddim i'w wneud ag Allah, oni bai ei fod i amddiffyn eich hunain yn eu herbyn. Mae Allah yn eich rhybuddio i wylied rhagddo. I Allah y mae'r dynged.
 
 لَّا يَتَّخِذِ ٱلْمُؤْمِنُونَ ٱلْكَٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ ۖ وَمَن يَفْعَلْ ذَٰلِكَ فَلَيْسَ مِنَ ٱللَّهِ فِى شَىْءٍ إِلَّآ أَن تَتَّقُوا۟ مِنْهُمْ تُقَىٰةًۭ ۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ ۗ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ
 
-**3:29**  Dywed, “P’un a guddioch yr hyn sydd yn eich calonnau, neu ei ddatguddio, mae Allah yn ei wybod.” Mae’n gwybod popeth yn y nefoedd a’r ddaear. Mae Allah yn Nerthol dros bopeth.
+**3:29**  Dywed, "P'un a guddioch yr hyn sydd yn eich calonnau, neu ei ddatguddio, mae Allah yn ei wybod." Mae'n gwybod popeth yn y nefoedd a'r ddaear. Mae Allah yn Nerthol dros bopeth.
 
 قُلْ إِن تُخْفُوا۟ مَا فِى صُدُورِكُمْ أَوْ تُبْدُوهُ يَعْلَمْهُ ٱللَّهُ ۗ وَيَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**3:30**  Ar y Dydd pan fydd pob enaid yn dod o hyd i’r holl ddaioni y mae wedi ei wneud wedi ei gyflwyno. Ac o ran y drwg y mae wedi ei wneud, bydd yn dymuno y byddai pellter mawr rhyngddynt. Mae Allah yn eich rhybuddio amdano ei Hun. Mae Allah yn Garedig tuag at y gweision.
+**3:30**  Ar y Dydd pan fydd pob enaid yn dod o hyd i'r holl ddaioni y mae wedi ei wneud wedi ei gyflwyno. Ac o ran y drwg y mae wedi ei wneud, bydd yn dymuno y byddai pellter mawr rhyngddynt. Mae Allah yn eich rhybuddio amdano ei Hun. Mae Allah yn Garedig tuag at y gweision.
 
 يَوْمَ تَجِدُ كُلُّ نَفْسٍۢ مَّا عَمِلَتْ مِنْ خَيْرٍۢ مُّحْضَرًۭا وَمَا عَمِلَتْ مِن سُوٓءٍۢ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُۥٓ أَمَدًۢا بَعِيدًۭا ۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ ۗ وَٱللَّهُ رَءُوفٌۢ بِٱلْعِبَادِ
 
-**3:31**  Dywed, “Os ydych yn caru Allah, yna dilynwch fi, a bydd Allah yn eich caru, ac yn maddau i chi eich pechodau.” Mae Allah yn Faddeugar ac yn Drugarog.
+**3:31**  Dywed, "Os ydych yn caru Allah, yna dilynwch fi, a bydd Allah yn eich caru, ac yn maddau i chi eich pechodau." Mae Allah yn Faddeugar ac yn Drugarog.
 
 قُلْ إِن كُنتُمْ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ
 
-**3:32**  Dywed, “Ufuddhewch i Allah a’r Cenhadwr.” Ond os troant ymaith — nid yw Allah yn caru’r diffydd.
+**3:32**  Dywed, "Ufuddhewch i Allah a'r Cenhadwr." Ond os troant ymaith — nid yw Allah yn caru'r diffydd.
 
 قُلْ أَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ ۖ فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْكَٰفِرِينَ
 
-**3:33**  Dewisodd Allah Adda, a Noa, a theulu Abraham, a theulu Imran, uwchlaw’r holl ddynolryw.
+**3:33**  Dewisodd Allah Adda, a Noa, a theulu Abraham, a theulu Imran, uwchlaw'r holl ddynolryw.
 
 ۞ إِنَّ ٱللَّهَ ٱصْطَفَىٰٓ ءَادَمَ وَنُوحًۭا وَءَالَ إِبْرَٰهِيمَ وَءَالَ عِمْرَٰنَ عَلَى ٱلْعَٰلَمِينَ
 
-**3:34**  Disgynyddion un o’r llall. Mae Allah yn Glywedwr ac yn Wybodwr.
+**3:34**  Disgynyddion un o'r llall. Mae Allah yn Glywedwr ac yn Wybodwr.
 
 ذُرِّيَّةًۢ بَعْضُهَا مِنۢ بَعْضٍۢ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
 
-**3:35**  Dywedodd gwraig Imran, “Fy Arglwydd, yr wyf wedi adduno i Ti’r hyn sydd yn fy nghroth, yn gysegredig, felly derbyn oddi wrthyf; Ti yw’r Clywedwr a’r Gwybodwr.”
+**3:35**  Dywedodd gwraig Imran, "Fy Arglwydd, yr wyf wedi adduno i Ti'r hyn sydd yn fy nghroth, yn gysegredig, felly derbyn oddi wrthyf; Ti yw'r Clywedwr a'r Gwybodwr."
 
 إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
-**3:36**  A phan esgorodd arni, dywedodd, “Fy Arglwydd, yr wyf wedi esgor ar fenyw,” ac yr oedd Allah yn dda ymwybodol o’r hyn y mae wedi esgor arno, “ac nid yw’r gwryw fel y fenyw, ac yr wyf wedi ei henwi’n Mair, ac wedi ei hymddiried hi a’i disgynyddion i’th amddiffyniad di, rhag Satan yr alltud.”
+**3:36**  A phan esgorodd arni, dywedodd, "Fy Arglwydd, yr wyf wedi esgor ar fenyw," ac yr oedd Allah yn dda ymwybodol o'r hyn y mae wedi esgor arno, "ac nid yw'r gwryw fel y fenyw, ac yr wyf wedi ei henwi'n Mair, ac wedi ei hymddiried hi a'i disgynyddion i'th amddiffyniad di, rhag Satan yr alltud."
 
 فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ إِنِّى وَضَعْتُهَآ أُنثَىٰ وَٱللَّهُ أَعْلَمُ بِمَا وَضَعَتْ وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ ۖ وَإِنِّى سَمَّيْتُهَا مَرْيَمَ وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ ٱلشَّيْطَٰنِ ٱلرَّجِيمِ
 
-**3:37**  Derbyniodd ei Harglwydd hi â derbyniad graslon, a daeth â magwraeth hardd iddi, a’i hymddiriedodd i ofal Sechareia. Pryd bynnag yr aeth Sechareia i mewn ati yn y cysegr, cafodd hi â darpariaeth. Dywedodd, “O Mair, o ble y cefaist ti hyn?” Dywedodd, “Oddi wrth Allah y mae; mae Allah yn darparu i bwy bynnag a fyn heb gyfrif.”
+**3:37**  Derbyniodd ei Harglwydd hi â derbyniad graslon, a daeth â magwraeth hardd iddi, a'i hymddiriedodd i ofal Sechareia. Pryd bynnag yr aeth Sechareia i mewn ati yn y cysegr, cafodd hi â darpariaeth. Dywedodd, "O Mair, o ble y cefaist ti hyn?" Dywedodd, "Oddi wrth Allah y mae; mae Allah yn darparu i bwy bynnag a fyn heb gyfrif."
 
 فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍۢ وَأَنۢبَتَهَا نَبَاتًا حَسَنًۭا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًۭا ۖ قَالَ يَٰمَرْيَمُ أَنَّىٰ لَكِ هَٰذَا ۖ قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ ۖ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ
 
-**3:38**  Ar hynny gweddïodd Sechareia ar ei Arglwydd; dywedodd, “Fy Arglwydd, rhodda arnaf ddisgynyddion da o’th bresenoldeb; Ti yw Clywedwr Gweddïau.”
+**3:38**  Ar hynny gweddïodd Sechareia ar ei Arglwydd; dywedodd, "Fy Arglwydd, rhodda arnaf ddisgynyddion da o'th bresenoldeb; Ti yw Clywedwr Gweddïau."
 
 هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُۥ ۖ قَالَ رَبِّ هَبْ لِى مِن لَّدُنكَ ذُرِّيَّةًۭ طَيِّبَةً ۖ إِنَّكَ سَمِيعُ ٱلدُّعَآءِ
 
-**3:39**  Yna galwodd yr angylion arno, wrth iddo sefyll yn gweddïo yn y cysegr: “Mae Allah yn rhoi newyddion da i ti o Ioan; yn cadarnhau Gair oddi wrth Allah, ac yn anrhydeddus, ac yn foesol, ac yn broffwyd; yn un o’r rhai uniawn.”
+**3:39**  Yna galwodd yr angylion arno, wrth iddo sefyll yn gweddïo yn y cysegr: "Mae Allah yn rhoi newyddion da i ti o Ioan; yn cadarnhau Gair oddi wrth Allah, ac yn anrhydeddus, ac yn foesol, ac yn broffwyd; yn un o'r rhai uniawn."
 
 فَنَادَتْهُ ٱلْمَلَٰٓئِكَةُ وَهُوَ قَآئِمٌۭ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍۢ مِّنَ ٱللَّهِ وَسَيِّدًۭا وَحَصُورًۭا وَنَبِيًّۭا مِّنَ ٱلصَّٰلِحِينَ
 
-**3:40**  Dywedodd, “Fy Arglwydd, sut y caf fi fab, pan mae henaint wedi fy ngoddiwedd, ac mae fy ngwraig yn ddiffrwyth?” Dywedodd, “Hyd yn oed felly, mae Allah yn gwneud beth bynnag a fyn.”
+**3:40**  Dywedodd, "Fy Arglwydd, sut y caf fi fab, pan mae henaint wedi fy ngoddiwedd, ac mae fy ngwraig yn ddiffrwyth?" Dywedodd, "Hyd yn oed felly, mae Allah yn gwneud beth bynnag a fyn."
 
 قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌۭ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌۭ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
 
-**3:41**  Dywedodd, “Fy Arglwydd, rho arwydd i mi.” Dywedodd, “Dy arwydd di yw na leferi wrth y bobl am dri diwrnod, ond trwy ystumiau. A chofia dy Arglwydd yn fawr, a moliant yn yr hwyr a’r bore.”
+**3:41**  Dywedodd, "Fy Arglwydd, rho arwydd i mi." Dywedodd, "Dy arwydd di yw na leferi wrth y bobl am dri diwrnod, ond trwy ystumiau. A chofia dy Arglwydd yn fawr, a moliant yn yr hwyr a'r bore."
 
 قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةًۭ ۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَةَ أَيَّامٍ إِلَّا رَمْزًۭا ۗ وَٱذْكُر رَّبَّكَ كَثِيرًۭا وَسَبِّحْ بِٱلْعَشِىِّ وَٱلْإِبْكَٰرِ
 
-**3:42**  Dywedodd yr angylion, “O Mair, mae Allah wedi dy ddewis di, ac wedi dy buro. Mae wedi dy ddewis di uwchlaw holl wragedd y byd.
+**3:42**  Dywedodd yr angylion, "O Mair, mae Allah wedi dy ddewis di, ac wedi dy buro. Mae wedi dy ddewis di uwchlaw holl wragedd y byd.
 
 وَإِذْ قَالَتِ ٱلْمَلَٰٓئِكَةُ يَٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَٰلَمِينَ
 
-**3:43**  “O Mair, bydd yn ymroddedig i’th Arglwydd, ac ymgryma, a phenlinia gyda’r rhai sy’n penlinio.”
+**3:43**  "O Mair, bydd yn ymroddedig i'th Arglwydd, ac ymgryma, a phenlinia gyda'r rhai sy'n penlinio."
 
 يَٰمَرْيَمُ ٱقْنُتِى لِرَبِّكِ وَٱسْجُدِى وَٱرْكَعِى مَعَ ٱلرَّٰكِعِينَ
 
-**3:44**  Hanesion o’r Anweledig yw’r rhain, yr ydym yn eu datguddio i ti. Nid oeddet gyda nhw pan daflasant eu coelbrennau ynghylch pa un ohonynt a gymerai ofal Mair; ac nid oeddet gyda nhw wrth iddynt ymryson.
+**3:44**  Hanesion o'r Anweledig yw'r rhain, yr ydym yn eu datguddio i ti. Nid oeddet gyda nhw pan daflasant eu coelbrennau ynghylch pa un ohonynt a gymerai ofal Mair; ac nid oeddet gyda nhw wrth iddynt ymryson.
 
 ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ ۚ وَمَا كُنتَ لَدَيْهِمْ إِذْ يُلْقُونَ أَقْلَٰمَهُمْ أَيُّهُمْ يَكْفُلُ مَرْيَمَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يَخْتَصِمُونَ
 
-**3:45**  Dywedodd yr Angylion, “O Mair, mae Allah yn rhoi newyddion da i ti o Air oddi wrtho. Ei enw yw’r Meseia, Iesu, fab Mair, yn uchel ei barch yn y byd hwn a’r nesaf, ac yn un o’r rhai agosaf.
+**3:45**  Dywedodd yr Angylion, "O Mair, mae Allah yn rhoi newyddion da i ti o Air oddi wrtho. Ei enw yw'r Meseia, Iesu, fab Mair, yn uchel ei barch yn y byd hwn a'r nesaf, ac yn un o'r rhai agosaf.
 
 إِذْ قَالَتِ ٱلْمَلَٰٓئِكَةُ يَٰمَرْيَمُ إِنَّ ٱللَّهَ يُبَشِّرُكِ بِكَلِمَةٍۢ مِّنْهُ ٱسْمُهُ ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ وَجِيهًۭا فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَمِنَ ٱلْمُقَرَّبِينَ
 
-**3:46**  Bydd yn siarad â’r bobl o’r crud, ac yn oedolyn, a bydd yn un o’r cyfiawn.”
+**3:46**  Bydd yn siarad â'r bobl o'r crud, ac yn oedolyn, a bydd yn un o'r cyfiawn."
 
 وَيُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًۭا وَمِنَ ٱلصَّٰلِحِينَ
 
-**3:47**  Dywedodd, “Fy Arglwydd, sut y gallaf gael plentyn, pan nad oes dyn wedi fy nghyffwrdd?” Dywedodd, “Fel hyn y bydd. Mae Allah yn creu beth bynnag a fyn. I gael unrhyw beth wedi ei wneud, dim ond dweud wrtho y mae, ‘Bydd,’ ac y mae.”
+**3:47**  Dywedodd, "Fy Arglwydd, sut y gallaf gael plentyn, pan nad oes dyn wedi fy nghyffwrdd?" Dywedodd, "Fel hyn y bydd. Mae Allah yn creu beth bynnag a fyn. I gael unrhyw beth wedi ei wneud, dim ond dweud wrtho y mae, 'Bydd,' ac y mae."
 
 قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌۭ وَلَمْ يَمْسَسْنِى بَشَرٌۭ ۖ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ مَا يَشَآءُ ۚ إِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 
-**3:48**  A bydd yn ei ddysgu yr Ysgrythur a doethineb, a’r Torah a’r Efengyl.
+**3:48**  A bydd yn ei ddysgu yr Ysgrythur a doethineb, a'r Torah a'r Efengyl.
 
 وَيُعَلِّمُهُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ
 
-**3:49**  Yn genhadwr i Blant Israel: “Yr wyf wedi dod atoch ag arwydd oddi wrth eich Arglwydd. Gwnaf i chi allan o glai ffurf aderyn; yna chwythaf iddo, ac y mae’n dod yn aderyn trwy ganiatâd Allah. Ac iachaf y dall a’r gwahanglwyfus, ac adfywiaf y meirw, trwy ganiatâd Allah. A rhoddaf wybod i chi ynghylch yr hyn yr ydych yn ei fwyta, a’r hyn yr ydych yn ei storio yn eich cartrefi. Ynddo y mae arwydd i chi, os ydych yn gredinwyr.”
+**3:49**  Yn genhadwr i Blant Israel: "Yr wyf wedi dod atoch ag arwydd oddi wrth eich Arglwydd. Gwnaf i chi allan o glai ffurf aderyn; yna chwythaf iddo, ac y mae'n dod yn aderyn trwy ganiatâd Allah. Ac iachaf y dall a'r gwahanglwyfus, ac adfywiaf y meirw, trwy ganiatâd Allah. A rhoddaf wybod i chi ynghylch yr hyn yr ydych yn ei fwyta, a'r hyn yr ydych yn ei storio yn eich cartrefi. Ynddo y mae arwydd i chi, os ydych yn gredinwyr."
 
 وَرَسُولًا إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنِّى قَدْ جِئْتُكُم بِـَٔايَةٍۢ مِّن رَّبِّكُمْ ۖ أَنِّىٓ أَخْلُقُ لَكُم مِّنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ فَأَنفُخُ فِيهِ فَيَكُونُ طَيْرًۢا بِإِذْنِ ٱللَّهِ ۖ وَأُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ وَأُحْىِ ٱلْمَوْتَىٰ بِإِذْنِ ٱللَّهِ ۖ وَأُنَبِّئُكُم بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِى بُيُوتِكُمْ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
 
-**3:50**  “Ac yn gwirio’r hyn sydd o’m blaen o’r Torah, ac i wneud yn gyfreithlon i chi rai o’r hyn a waharddwyd i chi. Yr wyf wedi dod atoch ag arwydd oddi wrth eich Arglwydd; felly ofnwch Allah, ac ufuddhewch i mi.”
+**3:50**  "Ac yn gwirio'r hyn sydd o'm blaen o'r Torah, ac i wneud yn gyfreithlon i chi rai o'r hyn a waharddwyd i chi. Yr wyf wedi dod atoch ag arwydd oddi wrth eich Arglwydd; felly ofnwch Allah, ac ufuddhewch i mi."
 
 وَمُصَدِّقًۭا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَلِأُحِلَّ لَكُم بَعْضَ ٱلَّذِى حُرِّمَ عَلَيْكُمْ ۚ وَجِئْتُكُم بِـَٔايَةٍۢ مِّن رَّبِّكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ
 
-**3:51**  “Allah yw fy Arglwydd i a’ch Arglwydd chi, felly addolwch Ef. Llwybr union yw hynny.”
+**3:51**  "Allah yw fy Arglwydd i a'ch Arglwydd chi, felly addolwch Ef. Llwybr union yw hynny."
 
 إِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۗ هَٰذَا صِرَٰطٌۭ مُّسْتَقِيمٌۭ
 
-**3:52**  Pan ganfu Iesu anghrediniaeth ar eu rhan, dywedodd, “Pwy yw fy nghynghreiriaid tuag at Allah?” Dywedodd y disgyblion, “Ni yw cynghreiriaid Allah; yr ydym wedi credu yn Allah, a thystia ein bod yn ymostwng.”
+**3:52**  Pan ganfu Iesu anghrediniaeth ar eu rhan, dywedodd, "Pwy yw fy nghynghreiriaid tuag at Allah?" Dywedodd y disgyblion, "Ni yw cynghreiriaid Allah; yr ydym wedi credu yn Allah, a thystia ein bod yn ymostwng."
 
 ۞ فَلَمَّآ أَحَسَّ عِيسَىٰ مِنْهُمُ ٱلْكُفْرَ قَالَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ءَامَنَّا بِٱللَّهِ وَٱشْهَدْ بِأَنَّا مُسْلِمُونَ
 
-**3:53**  “Ein Harglwydd, yr ydym wedi credu yn yr hyn yr wyt wedi ei ddatguddio, ac yr ydym wedi dilyn y Cenhadwr, felly cyfrif ni ymhlith y tystion.”
+**3:53**  "Ein Harglwydd, yr ydym wedi credu yn yr hyn yr wyt wedi ei ddatguddio, ac yr ydym wedi dilyn y Cenhadwr, felly cyfrif ni ymhlith y tystion."
 
 رَبَّنَآ ءَامَنَّا بِمَآ أَنزَلْتَ وَٱتَّبَعْنَا ٱلرَّسُولَ فَٱكْتُبْنَا مَعَ ٱلشَّٰهِدِينَ
 
-**3:54**  Cynlluniasant, a chynlluniodd Allah; ond Allah yw Gorau’r cynllunwyr.
+**3:54**  Cynlluniasant, a chynlluniodd Allah; ond Allah yw Gorau'r cynllunwyr.
 
 وَمَكَرُوا۟ وَمَكَرَ ٱللَّهُ ۖ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ
 
-**3:55**  Dywedodd Allah, “O Iesu, yr wyf yn terfynu dy fywyd, ac yn dy godi ataf Fi, ac yn dy glirio oddi wrth y rhai sy’n anghredu. A byddaf yn gwneud y rhai sy’n dy ddilyn di yn uwch na’r rhai sy’n anghredu, hyd Ddydd yr Atgyfodiad. Yna ataf Fi y mae eich dychweliad; yna byddaf yn barnu rhyngoch ynghylch yr hyn yr oeddech yn ymryson yn ei gylch.
+**3:55**  Dywedodd Allah, "O Iesu, yr wyf yn terfynu dy fywyd, ac yn dy godi ataf Fi, ac yn dy glirio oddi wrth y rhai sy'n anghredu. A byddaf yn gwneud y rhai sy'n dy ddilyn di yn uwch na'r rhai sy'n anghredu, hyd Ddydd yr Atgyfodiad. Yna ataf Fi y mae eich dychweliad; yna byddaf yn barnu rhyngoch ynghylch yr hyn yr oeddech yn ymryson yn ei gylch.
 
 إِذْ قَالَ ٱللَّهُ يَٰعِيسَىٰٓ إِنِّى مُتَوَفِّيكَ وَرَافِعُكَ إِلَىَّ وَمُطَهِّرُكَ مِنَ ٱلَّذِينَ كَفَرُوا۟ وَجَاعِلُ ٱلَّذِينَ ٱتَّبَعُوكَ فَوْقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ۖ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأَحْكُمُ بَيْنَكُمْ فِيمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
 
-**3:56**  O ran y rhai sy’n anghredu, cosbaf nhw â chosb ddifrifol, yn y byd hwn a’r nesaf, ac ni fydd ganddynt gynorthwywyr.
+**3:56**  O ran y rhai sy'n anghredu, cosbaf nhw â chosb ddifrifol, yn y byd hwn a'r nesaf, ac ni fydd ganddynt gynorthwywyr.
 
 فَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَأُعَذِّبُهُمْ عَذَابًۭا شَدِيدًۭا فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَمَا لَهُم مِّن نَّٰصِرِينَ
 
-**3:57**  Ac o ran y rhai sy’n credu ac yn gwneud gweithredoedd da, bydd yn rhoi eu gwobrau yn llawn iddynt. Nid yw Allah yn caru’r anghyfiawn.”
+**3:57**  Ac o ran y rhai sy'n credu ac yn gwneud gweithredoedd da, bydd yn rhoi eu gwobrau yn llawn iddynt. Nid yw Allah yn caru'r anghyfiawn."
 
 وَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّٰلِمِينَ
 
-**3:58**  Dyma’r hyn yr ydym yn ei adrodd i ti o’r Adnodau a’r Atgof Doeth.
+**3:58**  Dyma'r hyn yr ydym yn ei adrodd i ti o'r Adnodau a'r Atgof Doeth.
 
 ذَٰلِكَ نَتْلُوهُ عَلَيْكَ مِنَ ٱلْءَايَٰتِ وَٱلذِّكْرِ ٱلْحَكِيمِ
 
-**3:59**  Mae cyffelybiaeth Iesu yng ngolwg Allah fel cyffelybiaeth Adda: creodd ef o lwch, yna dywedodd wrtho, “Bydd,” ac yr oedd.
+**3:59**  Mae cyffelybiaeth Iesu yng ngolwg Allah fel cyffelybiaeth Adda: creodd ef o lwch, yna dywedodd wrtho, "Bydd," ac yr oedd.
 
 إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ ۖ خَلَقَهُۥ مِن تُرَابٍۢ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ
 
-**3:60**  Mae’r gwirionedd oddi wrth dy Arglwydd, felly paid â bod o’r rhai sy’n amau.
+**3:60**  Mae'r gwirionedd oddi wrth dy Arglwydd, felly paid â bod o'r rhai sy'n amau.
 
 ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُن مِّنَ ٱلْمُمْتَرِينَ
 
-**3:61**  Ac os bydd rhywun yn ymryson â thi amdano, ar ôl y wybodaeth a ddaeth atat, dywed, “Dewch, galwn ein plant a’ch plant, a’n gwragedd a’ch gwragedd, a ni ein hunain a chwithau eich hunain, a galwn ar felltith Allah ar y celwyddwyr.”
+**3:61**  Ac os bydd rhywun yn ymryson â thi amdano, ar ôl y wybodaeth a ddaeth atat, dywed, "Dewch, galwn ein plant a'ch plant, a'n gwragedd a'ch gwragedd, a ni ein hunain a chwithau eich hunain, a galwn ar felltith Allah ar y celwyddwyr."
 
 فَمَنْ حَآجَّكَ فِيهِ مِنۢ بَعْدِ مَا جَآءَكَ مِنَ ٱلْعِلْمِ فَقُلْ تَعَالَوْا۟ نَدْعُ أَبْنَآءَنَا وَأَبْنَآءَكُمْ وَنِسَآءَنَا وَنِسَآءَكُمْ وَأَنفُسَنَا وَأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَتَ ٱللَّهِ عَلَى ٱلْكَٰذِبِينَ
 
-**3:62**  Hwn yw naratif y gwirionedd: nid oes duw ond Allah. Allah yw’r Cadarn, y Doeth.
+**3:62**  Hwn yw naratif y gwirionedd: nid oes duw ond Allah. Allah yw'r Cadarn, y Doeth.
 
 إِنَّ هَٰذَا لَهُوَ ٱلْقَصَصُ ٱلْحَقُّ ۚ وَمَا مِنْ إِلَٰهٍ إِلَّا ٱللَّهُ ۚ وَإِنَّ ٱللَّهَ لَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
@@ -1609,11 +1609,11 @@
 
 فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ عَلِيمٌۢ بِٱلْمُفْسِدِينَ
 
-**3:64**  Dywed, “O Bobl y Llyfr, dewch i delerau cyffredin rhyngom ni a chi: nad addolwn neb ond Allah, ac na chysylltom ddim ag Ef, ac na chymer yr un ohonom eraill yn arglwyddi ar wahân i Allah.” Ac os troant ymaith, dywedwch, “Tystiwch ein bod wedi ymostwng.”
+**3:64**  Dywed, "O Bobl y Llyfr, dewch i delerau cyffredin rhyngom ni a chi: nad addolwn neb ond Allah, ac na chysylltom ddim ag Ef, ac na chymer yr un ohonom eraill yn arglwyddi ar wahân i Allah." Ac os troant ymaith, dywedwch, "Tystiwch ein bod wedi ymostwng."
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍۢ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًۭٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًۭا مِّن دُونِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ
 
-**3:65**  O Bobl y Llyfr! Pam yr ydych yn dadlau ynghylch Abraham, pan na ddatguddiwyd y Torah na’r Efengyl tan ar ei ôl? Oni resymwch?
+**3:65**  O Bobl y Llyfr! Pam yr ydych yn dadlau ynghylch Abraham, pan na ddatguddiwyd y Torah na'r Efengyl tan ar ei ôl? Oni resymwch?
 
 يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تُحَآجُّونَ فِىٓ إِبْرَٰهِيمَ وَمَآ أُنزِلَتِ ٱلتَّوْرَىٰةُ وَٱلْإِنجِيلُ إِلَّا مِنۢ بَعْدِهِۦٓ ۚ أَفَلَا تَعْقِلُونَ
 
@@ -1621,11 +1621,11 @@
 
 هَٰٓأَنتُمْ هَٰٓؤُلَآءِ حَٰجَجْتُمْ فِيمَا لَكُم بِهِۦ عِلْمٌۭ فَلِمَ تُحَآجُّونَ فِيمَا لَيْسَ لَكُم بِهِۦ عِلْمٌۭ ۚ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
 
-**3:67**  Nid oedd Abraham yn Iddew nac yn Gristion, ond yr oedd yn Undduwiwr, yn Fwslim. Ac nid oedd o’r Aml-dduwwyr.
+**3:67**  Nid oedd Abraham yn Iddew nac yn Gristion, ond yr oedd yn Undduwiwr, yn Fwslim. Ac nid oedd o'r Aml-dduwwyr.
 
 مَا كَانَ إِبْرَٰهِيمُ يَهُودِيًّۭا وَلَا نَصْرَانِيًّۭا وَلَٰكِن كَانَ حَنِيفًۭا مُّسْلِمًۭا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
 
-**3:68**  Y bobl fwyaf teilwng o Abraham yw’r rhai a’i dilynodd, a’r proffwyd hwn, a’r rhai sy’n credu. Allah yw Gwarchodwr y credinwyr.
+**3:68**  Y bobl fwyaf teilwng o Abraham yw'r rhai a'i dilynodd, a'r proffwyd hwn, a'r rhai sy'n credu. Allah yw Gwarchodwr y credinwyr.
 
 إِنَّ أَوْلَى ٱلنَّاسِ بِإِبْرَٰهِيمَ لَلَّذِينَ ٱتَّبَعُوهُ وَهَٰذَا ٱلنَّبِىُّ وَٱلَّذِينَ ءَامَنُوا۟ ۗ وَٱللَّهُ وَلِىُّ ٱلْمُؤْمِنِينَ
 
@@ -1637,63 +1637,63 @@
 
 يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَأَنتُمْ تَشْهَدُونَ
 
-**3:71**  O Bobl y Llyfr! Pam yr ydych yn drysu’r gwirionedd â chelwydd, ac yn cuddio’r gwirionedd yn fwriadol?
+**3:71**  O Bobl y Llyfr! Pam yr ydych yn drysu'r gwirionedd â chelwydd, ac yn cuddio'r gwirionedd yn fwriadol?
 
 يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تَلْبِسُونَ ٱلْحَقَّ بِٱلْبَٰطِلِ وَتَكْتُمُونَ ٱلْحَقَّ وَأَنتُمْ تَعْلَمُونَ
 
-**3:72**  Mae rhai o Bobl y Llyfr yn dweud, “Credwch yn yr hyn a ddatguddiwyd i’r credinwyr ar ddechrau’r dydd, a’i wrthod ar ei ddiwedd, fel y gallent ddychwelyd.”
+**3:72**  Mae rhai o Bobl y Llyfr yn dweud, "Credwch yn yr hyn a ddatguddiwyd i'r credinwyr ar ddechrau'r dydd, a'i wrthod ar ei ddiwedd, fel y gallent ddychwelyd."
 
 وَقَالَت طَّآئِفَةٌۭ مِّنْ أَهْلِ ٱلْكِتَٰبِ ءَامِنُوا۟ بِٱلَّذِىٓ أُنزِلَ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَجْهَ ٱلنَّهَارِ وَٱكْفُرُوٓا۟ ءَاخِرَهُۥ لَعَلَّهُمْ يَرْجِعُونَ
 
-**3:73**  Ac ymddiriedwch yn neb ond y rhai sy’n dilyn eich crefydd.” Dywed, “Arweiniad Allah yw’r arweiniad. Os rhoddir i rywun y tebyg i’r hyn a roddwyd i chi, neu eu bod yn dadlau â chi gerbron eich Arglwydd, dywedwch, “Mae pob gras yn llaw Allah; mae’n ei roi i bwy bynnag a fyn.” Mae Allah yn Hael ac yn Wybodus.
+**3:73**  Ac ymddiriedwch yn neb ond y rhai sy'n dilyn eich crefydd." Dywed, "Arweiniad Allah yw'r arweiniad. Os rhoddir i rywun y tebyg i'r hyn a roddwyd i chi, neu eu bod yn dadlau â chi gerbron eich Arglwydd, dywedwch, "Mae pob gras yn llaw Allah; mae'n ei roi i bwy bynnag a fyn." Mae Allah yn Hael ac yn Wybodus.
 
 وَلَا تُؤْمِنُوٓا۟ إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ ٱلْهُدَىٰ هُدَى ٱللَّهِ أَن يُؤْتَىٰٓ أَحَدٌۭ مِّثْلَ مَآ أُوتِيتُمْ أَوْ يُحَآجُّوكُمْ عِندَ رَبِّكُمْ ۗ قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌۭ
 
-**3:74**  Mae’n neilltuo ei drugaredd i bwy bynnag a fyn. Mae Allah yn Berchen ar Ras Ardderchog.
+**3:74**  Mae'n neilltuo ei drugaredd i bwy bynnag a fyn. Mae Allah yn Berchen ar Ras Ardderchog.
 
 يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ ۗ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
 
-**3:75**  Ymhlith Pobl y Llyfr y mae’r hwn, os ymddiriedwch ynddo â phentwr o aur, a’i rhoi yn ôl i chi. Ac yn eu plith y mae’r hwn, os ymddiriedwch ynddo ag un darn arian, na fydd yn ei roi yn ôl i chi, oni bai eich bod yn aros ar ei ôl. Mae hynny am eu bod yn dweud, “Nid oes rhwymedigaeth arnom tuag at y cenhedloedd.” Maent yn dweud celwyddau am Allah, ac maent yn ei wybod.
+**3:75**  Ymhlith Pobl y Llyfr y mae'r hwn, os ymddiriedwch ynddo â phentwr o aur, a'i rhoi yn ôl i chi. Ac yn eu plith y mae'r hwn, os ymddiriedwch ynddo ag un darn arian, na fydd yn ei roi yn ôl i chi, oni bai eich bod yn aros ar ei ôl. Mae hynny am eu bod yn dweud, "Nid oes rhwymedigaeth arnom tuag at y cenhedloedd." Maent yn dweud celwyddau am Allah, ac maent yn ei wybod.
 
 ۞ وَمِنْ أَهْلِ ٱلْكِتَٰبِ مَنْ إِن تَأْمَنْهُ بِقِنطَارٍۢ يُؤَدِّهِۦٓ إِلَيْكَ وَمِنْهُم مَّنْ إِن تَأْمَنْهُ بِدِينَارٍۢ لَّا يُؤَدِّهِۦٓ إِلَيْكَ إِلَّا مَا دُمْتَ عَلَيْهِ قَآئِمًۭا ۗ ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَيْسَ عَلَيْنَا فِى ٱلْأُمِّيِّۦنَ سَبِيلٌۭ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ
 
-**3:76**  Yn wir, pwy bynnag sy’n cyflawni ei ymrwymiadau ac yn cynnal duwioldeb — mae Allah yn caru’r duwiol.
+**3:76**  Yn wir, pwy bynnag sy'n cyflawni ei ymrwymiadau ac yn cynnal duwioldeb — mae Allah yn caru'r duwiol.
 
 بَلَىٰ مَنْ أَوْفَىٰ بِعَهْدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ
 
-**3:77**  Ni fydd gan y rhai sy’n cyfnewid cyfamod Allah, a’u haddunedau, am bris bach gyfran yn y Bywyd ar Ôl, ac ni siarad Allah â nhw, ac ni edrych arnynt ar Ddydd yr Atgyfodiad, ac ni phura nhw. Bydd ganddynt gosb boenus.
+**3:77**  Ni fydd gan y rhai sy'n cyfnewid cyfamod Allah, a'u haddunedau, am bris bach gyfran yn y Bywyd ar Ôl, ac ni siarad Allah â nhw, ac ni edrych arnynt ar Ddydd yr Atgyfodiad, ac ni phura nhw. Bydd ganddynt gosb boenus.
 
 إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَٰنِهِمْ ثَمَنًۭا قَلِيلًا أُو۟لَٰٓئِكَ لَا خَلَٰقَ لَهُمْ فِى ٱلْءَاخِرَةِ وَلَا يُكَلِّمُهُمُ ٱللَّهُ وَلَا يَنظُرُ إِلَيْهِمْ يَوْمَ ٱلْقِيَٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌۭ
 
-**3:78**  Ac yn eu plith y mae’r rhai sy’n troi’r Ysgrythur â’u tafodau, fel y meddyliech ei fod o’r Ysgrythur, pan nad yw o’r Ysgrythur. Ac maent yn dweud, “Oddi wrth Allah y mae,” pan nad yw oddi wrth Allah. Maent yn dweud celwyddau ac yn eu priodoli i Allah, yn fwriadol.
+**3:78**  Ac yn eu plith y mae'r rhai sy'n troi'r Ysgrythur â'u tafodau, fel y meddyliech ei fod o'r Ysgrythur, pan nad yw o'r Ysgrythur. Ac maent yn dweud, "Oddi wrth Allah y mae," pan nad yw oddi wrth Allah. Maent yn dweud celwyddau ac yn eu priodoli i Allah, yn fwriadol.
 
 وَإِنَّ مِنْهُمْ لَفَرِيقًۭا يَلْوُۥنَ أَلْسِنَتَهُم بِٱلْكِتَٰبِ لِتَحْسَبُوهُ مِنَ ٱلْكِتَٰبِ وَمَا هُوَ مِنَ ٱلْكِتَٰبِ وَيَقُولُونَ هُوَ مِنْ عِندِ ٱللَّهِ وَمَا هُوَ مِنْ عِندِ ٱللَّهِ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ
 
-**3:79**  Ni fyddai unrhyw berson y mae Allah wedi rhoi’r Ysgrythur iddo, a doethineb, a phroffwydoliaeth, byth yn dweud wrth y bobl, “Byddwch yn addolwyr i mi yn hytrach nag i Allah.” Yn hytrach, “Byddwch yn bobl yr Arglwydd, yn ôl yr Ysgrythur yr ydych yn ei dysgu, a’r dysgeidiaeth yr ydych yn eu dysgu.”
+**3:79**  Ni fyddai unrhyw berson y mae Allah wedi rhoi'r Ysgrythur iddo, a doethineb, a phroffwydoliaeth, byth yn dweud wrth y bobl, "Byddwch yn addolwyr i mi yn hytrach nag i Allah." Yn hytrach, "Byddwch yn bobl yr Arglwydd, yn ôl yr Ysgrythur yr ydych yn ei dysgu, a'r dysgeidiaeth yr ydych yn eu dysgu."
 
 مَا كَانَ لِبَشَرٍ أَن يُؤْتِيَهُ ٱللَّهُ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُوا۟ عِبَادًۭا لِّى مِن دُونِ ٱللَّهِ وَلَٰكِن كُونُوا۟ رَبَّٰنِيِّۦنَ بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَٰبَ وَبِمَا كُنتُمْ تَدْرُسُونَ
 
-**3:80**  Ac ni fyddai’n eich gorchymyn i gymryd yr angylion a’r proffwydi yn arglwyddi. A orchmynnai i chi anffyddlondeb ar ôl i chi ymostwng?
+**3:80**  Ac ni fyddai'n eich gorchymyn i gymryd yr angylion a'r proffwydi yn arglwyddi. A orchmynnai i chi anffyddlondeb ar ôl i chi ymostwng?
 
 وَلَا يَأْمُرَكُمْ أَن تَتَّخِذُوا۟ ٱلْمَلَٰٓئِكَةَ وَٱلنَّبِيِّۦنَ أَرْبَابًا ۗ أَيَأْمُرُكُم بِٱلْكُفْرِ بَعْدَ إِذْ أَنتُم مُّسْلِمُونَ
 
-**3:81**  Derbyniodd Allah gyfamod y proffwydi, “Yn gymaint ag yr wyf wedi rhoi i chi o ysgrythur a doethineb; pe bai cenhadwr yn dod atoch yn gwirio’r hyn sydd gennych, byddwch yn credu ynddo, ac yn ei gefnogi.” Dywedodd, “A ydych yn cadarnhau fy nghyfamod ac yn ei gymryd arnoch eich hunain?” Dywedasant, “Rydym yn ei gadarnhau.” Dywedodd, “Yna tystiwch, ac yr wyf gyda chi ymhlith y tystion.”
+**3:81**  Derbyniodd Allah gyfamod y proffwydi, "Yn gymaint ag yr wyf wedi rhoi i chi o ysgrythur a doethineb; pe bai cenhadwr yn dod atoch yn gwirio'r hyn sydd gennych, byddwch yn credu ynddo, ac yn ei gefnogi." Dywedodd, "A ydych yn cadarnhau fy nghyfamod ac yn ei gymryd arnoch eich hunain?" Dywedasant, "Rydym yn ei gadarnhau." Dywedodd, "Yna tystiwch, ac yr wyf gyda chi ymhlith y tystion."
 
 وَإِذْ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلنَّبِيِّۦنَ لَمَآ ءَاتَيْتُكُم مِّن كِتَٰبٍۢ وَحِكْمَةٍۢ ثُمَّ جَآءَكُمْ رَسُولٌۭ مُّصَدِّقٌۭ لِّمَا مَعَكُمْ لَتُؤْمِنُنَّ بِهِۦ وَلَتَنصُرُنَّهُۥ ۚ قَالَ ءَأَقْرَرْتُمْ وَأَخَذْتُمْ عَلَىٰ ذَٰلِكُمْ إِصْرِى ۖ قَالُوٓا۟ أَقْرَرْنَا ۚ قَالَ فَٱشْهَدُوا۟ وَأَنَا۠ مَعَكُم مِّنَ ٱلشَّٰهِدِينَ
 
-**3:82**  Pwy bynnag sy’n troi ymaith ar ôl hynny — y rhain yw’r twyllodrus.
+**3:82**  Pwy bynnag sy'n troi ymaith ar ôl hynny — y rhain yw'r twyllodrus.
 
 فَمَن تَوَلَّىٰ بَعْدَ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ
 
-**3:83**  A ydynt yn dymuno rhywbeth heblaw crefydd Allah, pan iddo Ef y mae popeth yn y nefoedd a’r ddaear wedi ymostwng, yn fodlon neu’n anfodlon, ac ato Ef y dychwelir nhw?
+**3:83**  A ydynt yn dymuno rhywbeth heblaw crefydd Allah, pan iddo Ef y mae popeth yn y nefoedd a'r ddaear wedi ymostwng, yn fodlon neu'n anfodlon, ac ato Ef y dychwelir nhw?
 
 أَفَغَيْرَ دِينِ ٱللَّهِ يَبْغُونَ وَلَهُۥٓ أَسْلَمَ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَإِلَيْهِ يُرْجَعُونَ
 
-**3:84**  Dywed, “Rydym yn credu yn Allah, ac yn yr hyn a ddatguddiwyd i ni; ac yn yr hyn a ddatguddiwyd i Abraham, ac Ismael, ac Isaac, a Jacob, a’r Patriarchiaid; ac yn yr hyn a roddwyd i Moses, ac Iesu, a’r proffwydi oddi wrth eu Harglwydd. Nid ydym yn gwneud gwahaniaeth rhwng yr un ohonynt, ac iddo Ef yr ydym yn ymostwng.”
+**3:84**  Dywed, "Rydym yn credu yn Allah, ac yn yr hyn a ddatguddiwyd i ni; ac yn yr hyn a ddatguddiwyd i Abraham, ac Ismael, ac Isaac, a Jacob, a'r Patriarchiaid; ac yn yr hyn a roddwyd i Moses, ac Iesu, a'r proffwydi oddi wrth eu Harglwydd. Nid ydym yn gwneud gwahaniaeth rhwng yr un ohonynt, ac iddo Ef yr ydym yn ymostwng."
 
 قُلْ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ عَلَيْنَا وَمَآ أُنزِلَ عَلَىٰٓ إِبْرَٰهِيمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَٱلنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍۢ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ
 
-**3:85**  Pwy bynnag sy’n ceisio rhywbeth heblaw Islam yn grefydd, ni dderbynnir ef oddi wrtho, ac yn y Bywyd ar Ôl bydd ymhlith y colledwyr.
+**3:85**  Pwy bynnag sy'n ceisio rhywbeth heblaw Islam yn grefydd, ni dderbynnir ef oddi wrtho, ac yn y Bywyd ar Ôl bydd ymhlith y colledwyr.
 
 وَمَن يَبْتَغِ غَيْرَ ٱلْإِسْلَٰمِ دِينًۭا فَلَن يُقْبَلَ مِنْهُ وَهُوَ فِى ٱلْءَاخِرَةِ مِنَ ٱلْخَٰسِرِينَ
 
@@ -1701,83 +1701,83 @@
 
 كَيْفَ يَهْدِى ٱللَّهُ قَوْمًۭا كَفَرُوا۟ بَعْدَ إِيمَٰنِهِمْ وَشَهِدُوٓا۟ أَنَّ ٱلرَّسُولَ حَقٌّۭ وَجَآءَهُمُ ٱلْبَيِّنَٰتُ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**3:87**  Y rhai hynny — eu cosb yw y bydd melltith Allah yn disgyn arnynt, ac o’r angylion, ac o’r holl ddynolryw.
+**3:87**  Y rhai hynny — eu cosb yw y bydd melltith Allah yn disgyn arnynt, ac o'r angylion, ac o'r holl ddynolryw.
 
 أُو۟لَٰٓئِكَ جَزَآؤُهُمْ أَنَّ عَلَيْهِمْ لَعْنَةَ ٱللَّهِ وَٱلْمَلَٰٓئِكَةِ وَٱلنَّاسِ أَجْمَعِينَ
 
-**3:88**  Yn aros ynddo yn dragwyddol, heb i’w cosb gael ei lleddfu oddi wrthynt, a heb gael eu harbed.
+**3:88**  Yn aros ynddo yn dragwyddol, heb i'w cosb gael ei lleddfu oddi wrthynt, a heb gael eu harbed.
 
 خَٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ
 
-**3:89**  Ac eithrio’r rhai sy’n edifarhau wedi hynny, ac yn diwygio; oherwydd mae Allah yn Faddeugar ac yn Drugarog.
+**3:89**  Ac eithrio'r rhai sy'n edifarhau wedi hynny, ac yn diwygio; oherwydd mae Allah yn Faddeugar ac yn Drugarog.
 
 إِلَّا ٱلَّذِينَ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ وَأَصْلَحُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ
 
-**3:90**  O ran y rhai sy’n anghredu ar ôl credu, yna’n plymio’n ddyfnach i anghrediniaeth, ni dderbynnir eu hedifeirwch; y rhain yw’r colledig.
+**3:90**  O ran y rhai sy'n anghredu ar ôl credu, yna'n plymio'n ddyfnach i anghrediniaeth, ni dderbynnir eu hedifeirwch; y rhain yw'r colledig.
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ بَعْدَ إِيمَٰنِهِمْ ثُمَّ ٱزْدَادُوا۟ كُفْرًۭا لَّن تُقْبَلَ تَوْبَتُهُمْ وَأُو۟لَٰٓئِكَ هُمُ ٱلضَّآلُّونَ
 
-**3:91**  O ran y rhai sy’n anghredu ac yn marw’n anghredinwyr, ni dderbynnir hyd yn oed y ddaear yn llawn o aur oddi wrth yr un ohonynt, pe bai’n ei gynnig yn bridwerth. Bydd gan y rhain gosb boenus, ac ni fydd ganddynt achubwyr.
+**3:91**  O ran y rhai sy'n anghredu ac yn marw'n anghredinwyr, ni dderbynnir hyd yn oed y ddaear yn llawn o aur oddi wrth yr un ohonynt, pe bai'n ei gynnig yn bridwerth. Bydd gan y rhain gosb boenus, ac ni fydd ganddynt achubwyr.
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌۭ فَلَن يُقْبَلَ مِنْ أَحَدِهِم مِّلْءُ ٱلْأَرْضِ ذَهَبًۭا وَلَوِ ٱفْتَدَىٰ بِهِۦٓ ۗ أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌۭ وَمَا لَهُم مِّن نَّٰصِرِينَ
 
-**3:92**  Ni chyrhaeddwch ymddygiad rhinweddol nes i chi roi o’r hyn yr ydych yn ei goleddu. Pa beth bynnag a roddwch ymaith, mae Allah yn ymwybodol ohono.
+**3:92**  Ni chyrhaeddwch ymddygiad rhinweddol nes i chi roi o'r hyn yr ydych yn ei goleddu. Pa beth bynnag a roddwch ymaith, mae Allah yn ymwybodol ohono.
 
 لَن تَنَالُوا۟ ٱلْبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَ ۚ وَمَا تُنفِقُوا۟ مِن شَىْءٍۢ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌۭ
 
-**3:93**  Yr oedd pob bwyd yn ganiataol i Blant Israel, ac eithrio’r hyn y gwaharddodd Israel iddo ei hun cyn i’r Torah gael ei ddatguddio. Dywed, “Dewch â’r Torah, a’i ddarllen, os ydych yn wirioneddus.”
+**3:93**  Yr oedd pob bwyd yn ganiataol i Blant Israel, ac eithrio'r hyn y gwaharddodd Israel iddo ei hun cyn i'r Torah gael ei ddatguddio. Dywed, "Dewch â'r Torah, a'i ddarllen, os ydych yn wirioneddus."
 
 ۞ كُلُّ ٱلطَّعَامِ كَانَ حِلًّۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ إِلَّا مَا حَرَّمَ إِسْرَٰٓءِيلُ عَلَىٰ نَفْسِهِۦ مِن قَبْلِ أَن تُنَزَّلَ ٱلتَّوْرَىٰةُ ۗ قُلْ فَأْتُوا۟ بِٱلتَّوْرَىٰةِ فَٱتْلُوهَآ إِن كُنتُمْ صَٰدِقِينَ
 
-**3:94**  Pwy bynnag sy’n ffugio celwyddau am Allah ar ôl hynny — y rhain yw’r anghyfiawn.
+**3:94**  Pwy bynnag sy'n ffugio celwyddau am Allah ar ôl hynny — y rhain yw'r anghyfiawn.
 
 فَمَنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ مِنۢ بَعْدِ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
 
-**3:95**  Dywed, “Mae Allah wedi llefaru’r gwirionedd, felly dilynwch grefydd Abraham yr Undduwiwr; nid oedd yn Baganiad.
+**3:95**  Dywed, "Mae Allah wedi llefaru'r gwirionedd, felly dilynwch grefydd Abraham yr Undduwiwr; nid oedd yn Baganiad.
 
 قُلْ صَدَقَ ٱللَّهُ ۗ فَٱتَّبِعُوا۟ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًۭا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
 
-**3:96**  Y tŷ cyntaf a sefydlwyd ar gyfer dynolryw yw’r un yn Bekka; yn fendigedig, ac yn arweiniad i’r holl bobl.
+**3:96**  Y tŷ cyntaf a sefydlwyd ar gyfer dynolryw yw'r un yn Bekka; yn fendigedig, ac yn arweiniad i'r holl bobl.
 
 إِنَّ أَوَّلَ بَيْتٍۢ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكًۭا وَهُدًۭى لِّلْعَٰلَمِينَ
 
-**3:97**  Ynddo y mae arwyddion amlwg; Gorsaf Abraham. Pwy bynnag sy’n mynd i mewn iddo sy’n cyrraedd diogelwch. Mae Pererindod i’r Tŷ yn ddyletswydd i Allah ar bawb a all wneud y daith. Ond o ran y rhai sy’n gwrthod — mae Allah yn Annibynnol o’r bydoedd.
+**3:97**  Ynddo y mae arwyddion amlwg; Gorsaf Abraham. Pwy bynnag sy'n mynd i mewn iddo sy'n cyrraedd diogelwch. Mae Pererindod i'r Tŷ yn ddyletswydd i Allah ar bawb a all wneud y daith. Ond o ran y rhai sy'n gwrthod — mae Allah yn Annibynnol o'r bydoedd.
 
 فِيهِ ءَايَٰتٌۢ بَيِّنَٰتٌۭ مَّقَامُ إِبْرَٰهِيمَ ۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنًۭا ۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًۭا ۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ ٱلْعَٰلَمِينَ
 
-**3:98**  Dywed, “O Bobl yr Ysgrythur, pam yr ydych yn gwrthod Datguddiadau Allah, pan mae Allah yn tystio’r hyn yr ydych yn ei wneud?”
+**3:98**  Dywed, "O Bobl yr Ysgrythur, pam yr ydych yn gwrthod Datguddiadau Allah, pan mae Allah yn tystio'r hyn yr ydych yn ei wneud?"
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَٱللَّهُ شَهِيدٌ عَلَىٰ مَا تَعْمَلُونَ
 
-**3:99**  Dywed, “O Bobl yr Ysgrythur, pam yr ydych yn rhwystro oddi wrth lwybr Allah y rhai sy’n credu, yn ceisio ei ystumio, er eich bod yn dystion? Nid yw Allah yn anymwybodol o’r hyn yr ydych yn ei wneud.”
+**3:99**  Dywed, "O Bobl yr Ysgrythur, pam yr ydych yn rhwystro oddi wrth lwybr Allah y rhai sy'n credu, yn ceisio ei ystumio, er eich bod yn dystion? Nid yw Allah yn anymwybodol o'r hyn yr ydych yn ei wneud."
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ تَبْغُونَهَا عِوَجًۭا وَأَنتُمْ شُهَدَآءُ ۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ
 
-**3:100**  O chi sy’n credu! Os ufuddhewch i blaid o’r rhai y rhoddwyd yr Ysgrythur iddynt, byddant yn eich troi, ar ôl eich cred, yn anghredinwyr.
+**3:100**  O chi sy'n credu! Os ufuddhewch i blaid o'r rhai y rhoddwyd yr Ysgrythur iddynt, byddant yn eich troi, ar ôl eich cred, yn anghredinwyr.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تُطِيعُوا۟ فَرِيقًۭا مِّنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ يَرُدُّوكُم بَعْدَ إِيمَٰنِكُمْ كَٰفِرِينَ
 
-**3:101**  A sut y gallech anghredu, pan mae datguddiadau Allah yn cael eu hadrodd i chi, ac yn eich plith y mae ei Genhadwr? Pwy bynnag sy’n glynu wrth Allah sydd wedi ei arwain i lwybr union.
+**3:101**  A sut y gallech anghredu, pan mae datguddiadau Allah yn cael eu hadrodd i chi, ac yn eich plith y mae ei Genhadwr? Pwy bynnag sy'n glynu wrth Allah sydd wedi ei arwain i lwybr union.
 
 وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَىٰ عَلَيْكُمْ ءَايَٰتُ ٱللَّهِ وَفِيكُمْ رَسُولُهُۥ ۗ وَمَن يَعْتَصِم بِٱللَّهِ فَقَدْ هُدِىَ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
 
-**3:102**  O chi sy’n credu! Parchedig ofnwch Allah â pharchedig ofn dyledus, a pheidiwch â marw ond yn Fwslimiaid.
+**3:102**  O chi sy'n credu! Parchedig ofnwch Allah â pharchedig ofn dyledus, a pheidiwch â marw ond yn Fwslimiaid.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ حَقَّ تُقَاتِهِۦ وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ
 
-**3:103**  A daliwch yn gadarn wrth raff Allah, gyda’ch gilydd, a pheidiwch â chael eich rhannu. A chofiwch fendithion Allah arnoch; sut yr oeddech yn elynion, a chymododd eich calonnau, a thrwy ei ras daethoch yn frodyr. Ac yr oeddech ar fin pwll o dân, ac achubodd chi ohono. Felly y mae Allah yn egluro ei ddatguddiadau i chi, fel y gallech gael eich arwain.
+**3:103**  A daliwch yn gadarn wrth raff Allah, gyda'ch gilydd, a pheidiwch â chael eich rhannu. A chofiwch fendithion Allah arnoch; sut yr oeddech yn elynion, a chymododd eich calonnau, a thrwy ei ras daethoch yn frodyr. Ac yr oeddech ar fin pwll o dân, ac achubodd chi ohono. Felly y mae Allah yn egluro ei ddatguddiadau i chi, fel y gallech gael eich arwain.
 
 وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًۭا وَلَا تَفَرَّقُوا۟ ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَآءًۭ فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِۦٓ إِخْوَٰنًۭا وَكُنتُمْ عَلَىٰ شَفَا حُفْرَةٍۢ مِّنَ ٱلنَّارِ فَأَنقَذَكُم مِّنْهَا ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَهْتَدُونَ
 
-**3:104**  A bydded yn eich plith gymuned yn galw i rinwedd, ac yn eiriol cyfiawnder, ac yn atal rhag drwg. Y rhain yw’r llwyddiannus.
+**3:104**  A bydded yn eich plith gymuned yn galw i rinwedd, ac yn eiriol cyfiawnder, ac yn atal rhag drwg. Y rhain yw'r llwyddiannus.
 
 وَلْتَكُن مِّنكُمْ أُمَّةٌۭ يَدْعُونَ إِلَى ٱلْخَيْرِ وَيَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ ۚ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
 
-**3:105**  A pheidiwch â bod fel y rhai a wahanodd ac a ymrysonodd ar ôl i’r profion eglur ddod atynt; iddynt nhw y mae cosb fawr.
+**3:105**  A pheidiwch â bod fel y rhai a wahanodd ac a ymrysonodd ar ôl i'r profion eglur ddod atynt; iddynt nhw y mae cosb fawr.
 
 وَلَا تَكُونُوا۟ كَٱلَّذِينَ تَفَرَّقُوا۟ وَٱخْتَلَفُوا۟ مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْبَيِّنَٰتُ ۚ وَأُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ عَظِيمٌۭ
 
-**3:106**  Ar y Dydd pan fydd rhai wynebau’n cael eu gwynnu, a rhai wynebau’n cael eu duo. O ran y rhai y mae eu hwynebau wedi eu duo: “A anghredasoch ar ôl eich cred?” Yna blaswch y gosb am fod wedi anghredu.
+**3:106**  Ar y Dydd pan fydd rhai wynebau'n cael eu gwynnu, a rhai wynebau'n cael eu duo. O ran y rhai y mae eu hwynebau wedi eu duo: "A anghredasoch ar ôl eich cred?" Yna blaswch y gosb am fod wedi anghredu.
 
 يَوْمَ تَبْيَضُّ وُجُوهٌۭ وَتَسْوَدُّ وُجُوهٌۭ ۚ فَأَمَّا ٱلَّذِينَ ٱسْوَدَّتْ وُجُوهُهُمْ أَكَفَرْتُم بَعْدَ إِيمَٰنِكُمْ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
 
@@ -1793,11 +1793,11 @@
 
 وَلِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
 
-**3:110**  Chi yw’r gymuned orau a ddaeth erioed i ddynolryw: yr ydych yn eiriol yr hyn sy’n foesol, ac yn gwahardd yr hyn sy’n anfoesol, ac yn credu yn Allah. Pe bai Pobl yr Ysgrythur wedi credu, byddai wedi bod yn well iddynt. Yn eu plith y mae’r credinwyr, ond y rhan fwyaf ohonynt yn bechaduriaid.
+**3:110**  Chi yw'r gymuned orau a ddaeth erioed i ddynolryw: yr ydych yn eiriol yr hyn sy'n foesol, ac yn gwahardd yr hyn sy'n anfoesol, ac yn credu yn Allah. Pe bai Pobl yr Ysgrythur wedi credu, byddai wedi bod yn well iddynt. Yn eu plith y mae'r credinwyr, ond y rhan fwyaf ohonynt yn bechaduriaid.
 
 كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ بِٱلْمَعْرُوفِ وَتَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَتُؤْمِنُونَ بِٱللَّهِ ۗ وَلَوْ ءَامَنَ أَهْلُ ٱلْكِتَٰبِ لَكَانَ خَيْرًۭا لَّهُم ۚ مِّنْهُمُ ٱلْمُؤْمِنُونَ وَأَكْثَرُهُمُ ٱلْفَٰسِقُونَ
 
-**3:111**  Ni wnant niwed i chi, y tu hwnt i’ch sarhau. Ac os ymladdant â chi, byddant yn troi o gwmpas ac yn ffoi, yna ni chânt eu helpu.
+**3:111**  Ni wnant niwed i chi, y tu hwnt i'ch sarhau. Ac os ymladdant â chi, byddant yn troi o gwmpas ac yn ffoi, yna ni chânt eu helpu.
 
 لَن يَضُرُّوكُمْ إِلَّآ أَذًۭى ۖ وَإِن يُقَٰتِلُوكُمْ يُوَلُّوكُمُ ٱلْأَدْبَارَ ثُمَّ لَا يُنصَرُونَ
 
@@ -1805,11 +1805,11 @@
 
 ضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ أَيْنَ مَا ثُقِفُوٓا۟ إِلَّا بِحَبْلٍۢ مِّنَ ٱللَّهِ وَحَبْلٍۢ مِّنَ ٱلنَّاسِ وَبَآءُو بِغَضَبٍۢ مِّنَ ٱللَّهِ وَضُرِبَتْ عَلَيْهِمُ ٱلْمَسْكَنَةُ ۚ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّۢ ۚ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
 
-**3:113**  Nid ydynt yr un fath. Ymhlith Pobl yr Ysgrythur y mae cymuned sy’n uniawn; maent yn adrodd datguddiadau Allah trwy’r nos, ac maent yn ymgrymu.
+**3:113**  Nid ydynt yr un fath. Ymhlith Pobl yr Ysgrythur y mae cymuned sy'n uniawn; maent yn adrodd datguddiadau Allah trwy'r nos, ac maent yn ymgrymu.
 
 ۞ لَيْسُوا۟ سَوَآءًۭ ۗ مِّنْ أَهْلِ ٱلْكِتَٰبِ أُمَّةٌۭ قَآئِمَةٌۭ يَتْلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيْلِ وَهُمْ يَسْجُدُونَ
 
-**3:114**  Maent yn credu yn Allah a’r Dydd Olaf, ac yn eiriol cyfiawnder ac yn gwahardd drwg, ac yn gyflym i wneud gweithredoedd da. Y rhain sydd ymhlith y cyfiawn.
+**3:114**  Maent yn credu yn Allah a'r Dydd Olaf, ac yn eiriol cyfiawnder ac yn gwahardd drwg, ac yn gyflym i wneud gweithredoedd da. Y rhain sydd ymhlith y cyfiawn.
 
 يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَيَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَيُسَٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَأُو۟لَٰٓئِكَ مِنَ ٱلصَّٰلِحِينَ
 
@@ -1817,31 +1817,31 @@
 
 وَمَا يَفْعَلُوا۟ مِنْ خَيْرٍۢ فَلَن يُكْفَرُوهُ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلْمُتَّقِينَ
 
-**3:116**  O ran y rhai sy’n anghredu, ni fydd na’u meddiannau na’u plant yn eu helpu dim yn erbyn Allah. Y rhain yw preswylwyr y Tân, yn aros ynddo am byth.
+**3:116**  O ran y rhai sy'n anghredu, ni fydd na'u meddiannau na'u plant yn eu helpu dim yn erbyn Allah. Y rhain yw preswylwyr y Tân, yn aros ynddo am byth.
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَٰدُهُم مِّنَ ٱللَّهِ شَيْـًۭٔا ۖ وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۚ هُمْ فِيهَا خَٰلِدُونَ
 
-**3:117**  Mae dameg yr hyn maent yn ei wario yn y bywyd bydol hwn fel dameg gwynt rhewllyd sy’n taro cynhaeaf pobl sydd wedi gwneud cam â’u heneidiau, ac yn ei ddinistrio. Ni wnaeth Allah gam â nhw, ond gwnaethant gam â’u hunain.
+**3:117**  Mae dameg yr hyn maent yn ei wario yn y bywyd bydol hwn fel dameg gwynt rhewllyd sy'n taro cynhaeaf pobl sydd wedi gwneud cam â'u heneidiau, ac yn ei ddinistrio. Ni wnaeth Allah gam â nhw, ond gwnaethant gam â'u hunain.
 
 مَثَلُ مَا يُنفِقُونَ فِى هَٰذِهِ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَثَلِ رِيحٍۢ فِيهَا صِرٌّ أَصَابَتْ حَرْثَ قَوْمٍۢ ظَلَمُوٓا۟ أَنفُسَهُمْ فَأَهْلَكَتْهُ ۚ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَٰكِنْ أَنفُسَهُمْ يَظْلِمُونَ
 
-**3:118**  O chi sy’n credu! Peidiwch â chyfeillio â dieithriaid nad ydynt byth yn peidio â dymuno niwed i chi. Maent yn caru eich gweld yn dioddef. Mae casineb eisoes wedi ymddangos o’u genau, ond mae’r hyn y mae eu calonnau yn ei guddio yn waeth. Yr ydym wedi gwneud y negeseuon yn eglur i chi, os deallwch.
+**3:118**  O chi sy'n credu! Peidiwch â chyfeillio â dieithriaid nad ydynt byth yn peidio â dymuno niwed i chi. Maent yn caru eich gweld yn dioddef. Mae casineb eisoes wedi ymddangos o'u genau, ond mae'r hyn y mae eu calonnau yn ei guddio yn waeth. Yr ydym wedi gwneud y negeseuon yn eglur i chi, os deallwch.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ بِطَانَةًۭ مِّن دُونِكُمْ لَا يَأْلُونَكُمْ خَبَالًۭا وَدُّوا۟ مَا عَنِتُّمْ قَدْ بَدَتِ ٱلْبَغْضَآءُ مِنْ أَفْوَٰهِهِمْ وَمَا تُخْفِى صُدُورُهُمْ أَكْبَرُ ۚ قَدْ بَيَّنَّا لَكُمُ ٱلْءَايَٰتِ ۖ إِن كُنتُمْ تَعْقِلُونَ
 
-**3:119**  Dyna chi, yr ydych yn eu caru nhw, ond nid ydynt yn eich caru chi, ac yr ydych yn credu yn yr ysgrythur gyfan. A phan fyddant yn eich cyfarfod, maent yn dweud, “Rydym yn credu;” ond pan fyddant ar eu pen eu hunain, maent yn brathu eu bysedd mewn cynddaredd atoch. Dywed, “Marwch yn eich cynddaredd; mae Allah yn gwybod yr hyn sydd o fewn y calonnau.”
+**3:119**  Dyna chi, yr ydych yn eu caru nhw, ond nid ydynt yn eich caru chi, ac yr ydych yn credu yn yr ysgrythur gyfan. A phan fyddant yn eich cyfarfod, maent yn dweud, "Rydym yn credu;" ond pan fyddant ar eu pen eu hunain, maent yn brathu eu bysedd mewn cynddaredd atoch. Dywed, "Marwch yn eich cynddaredd; mae Allah yn gwybod yr hyn sydd o fewn y calonnau."
 
 هَٰٓأَنتُمْ أُو۟لَآءِ تُحِبُّونَهُمْ وَلَا يُحِبُّونَكُمْ وَتُؤْمِنُونَ بِٱلْكِتَٰبِ كُلِّهِۦ وَإِذَا لَقُوكُمْ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ عَضُّوا۟ عَلَيْكُمُ ٱلْأَنَامِلَ مِنَ ٱلْغَيْظِ ۚ قُلْ مُوتُوا۟ بِغَيْظِكُمْ ۗ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
-**3:120**  Os bydd rhywbeth da yn digwydd i chi, mae’n eu cynhyrfu; ond os bydd rhywbeth drwg yn eich taro, maent yn llawenhau ynddo. Ond os dyfalbarhewch a chynnal cyfiawnder, ni fydd eu cynlluniau yn eich niweidio o gwbl. Mae Allah yn amgyffred yr hyn maent yn ei wneud.
+**3:120**  Os bydd rhywbeth da yn digwydd i chi, mae'n eu cynhyrfu; ond os bydd rhywbeth drwg yn eich taro, maent yn llawenhau ynddo. Ond os dyfalbarhewch a chynnal cyfiawnder, ni fydd eu cynlluniau yn eich niweidio o gwbl. Mae Allah yn amgyffred yr hyn maent yn ei wneud.
 
 إِن تَمْسَسْكُمْ حَسَنَةٌۭ تَسُؤْهُمْ وَإِن تُصِبْكُمْ سَيِّئَةٌۭ يَفْرَحُوا۟ بِهَا ۖ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ لَا يَضُرُّكُمْ كَيْدُهُمْ شَيْـًٔا ۗ إِنَّ ٱللَّهَ بِمَا يَعْمَلُونَ مُحِيطٌۭ
 
-**3:121**  Cofia pan adawaist dy gartref yn y bore, i neilltuo safleoedd brwydr i’r credinwyr. Mae Allah yn Glywedol ac yn Wybodus.
+**3:121**  Cofia pan adawaist dy gartref yn y bore, i neilltuo safleoedd brwydr i'r credinwyr. Mae Allah yn Glywedol ac yn Wybodus.
 
 وَإِذْ غَدَوْتَ مِنْ أَهْلِكَ تُبَوِّئُ ٱلْمُؤْمِنِينَ مَقَٰعِدَ لِلْقِتَالِ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
 
-**3:122**  Pan oedd dau grŵp yn eich plith bron â llithro, ond Allah oedd eu Hamddiffynnwr. Felly yn Allah gadewch i’r credinwyr roi eu hymddiriedaeth.
+**3:122**  Pan oedd dau grŵp yn eich plith bron â llithro, ond Allah oedd eu Hamddiffynnwr. Felly yn Allah gadewch i'r credinwyr roi eu hymddiriedaeth.
 
 إِذْ هَمَّت طَّآئِفَتَانِ مِنكُمْ أَن تَفْشَلَا وَٱللَّهُ وَلِيُّهُمَا ۗ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
 
@@ -1849,11 +1849,11 @@
 
 وَلَقَدْ نَصَرَكُمُ ٱللَّهُ بِبَدْرٍۢ وَأَنتُمْ أَذِلَّةٌۭ ۖ فَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تَشْكُرُونَ
 
-**3:124**  Pan ddywedaist wrth y credinwyr, “Onid yw’n ddigon i chi fod eich Arglwydd wedi eich atgyfnerthu â thair mil o angylion, wedi eu hanfon i lawr?”
+**3:124**  Pan ddywedaist wrth y credinwyr, "Onid yw'n ddigon i chi fod eich Arglwydd wedi eich atgyfnerthu â thair mil o angylion, wedi eu hanfon i lawr?"
 
 إِذْ تَقُولُ لِلْمُؤْمِنِينَ أَلَن يَكْفِيَكُمْ أَن يُمِدَّكُمْ رَبُّكُم بِثَلَٰثَةِ ءَالَٰفٍۢ مِّنَ ٱلْمَلَٰٓئِكَةِ مُنزَلِينَ
 
-**3:125**  Y mae; ond os dyfalbarhewch ac arhoswch yn wyliadwrus, ac ymosodant arnoch yn sydyn, bydd eich Arglwydd yn eich atgyfnerthu â phum mil o angylion, wedi eu hyfforddi’n dda.
+**3:125**  Y mae; ond os dyfalbarhewch ac arhoswch yn wyliadwrus, ac ymosodant arnoch yn sydyn, bydd eich Arglwydd yn eich atgyfnerthu â phum mil o angylion, wedi eu hyfforddi'n dda.
 
 بَلَىٰٓ ۚ إِن تَصْبِرُوا۟ وَتَتَّقُوا۟ وَيَأْتُوكُم مِّن فَوْرِهِمْ هَٰذَا يُمْدِدْكُمْ رَبُّكُم بِخَمْسَةِ ءَالَٰفٍۢ مِّنَ ٱلْمَلَٰٓئِكَةِ مُسَوِّمِينَ
 
@@ -1861,19 +1861,19 @@
 
 وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشْرَىٰ لَكُمْ وَلِتَطْمَئِنَّ قُلُوبُكُم بِهِۦ ۗ وَمَا ٱلنَّصْرُ إِلَّا مِنْ عِندِ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ
 
-**3:127**  Felly y mae’n torri adran o’r rhai a anghredodd, neu’n eu darostwng, fel eu bod yn cilio’n siomedig.
+**3:127**  Felly y mae'n torri adran o'r rhai a anghredodd, neu'n eu darostwng, fel eu bod yn cilio'n siomedig.
 
 لِيَقْطَعَ طَرَفًۭا مِّنَ ٱلَّذِينَ كَفَرُوٓا۟ أَوْ يَكْبِتَهُمْ فَيَنقَلِبُوا۟ خَآئِبِينَ
 
-**3:128**  Nid yw’n bryder i ti a yw’n eu prynu’n rhydd neu’n eu cosbi. Camweddwyr ydynt.
+**3:128**  Nid yw'n bryder i ti a yw'n eu prynu'n rhydd neu'n eu cosbi. Camweddwyr ydynt.
 
 لَيْسَ لَكَ مِنَ ٱلْأَمْرِ شَىْءٌ أَوْ يَتُوبَ عَلَيْهِمْ أَوْ يُعَذِّبَهُمْ فَإِنَّهُمْ ظَٰلِمُونَ
 
-**3:129**  I Allah y perthyn popeth yn y nefoedd a’r ddaear. Mae’n maddau i bwy bynnag a fyn, ac mae’n cosbi pwy bynnag a fyn. Mae Allah yn Fwyaf Maddeugar, yn Fwyaf Trugarog.
+**3:129**  I Allah y perthyn popeth yn y nefoedd a'r ddaear. Mae'n maddau i bwy bynnag a fyn, ac mae'n cosbi pwy bynnag a fyn. Mae Allah yn Fwyaf Maddeugar, yn Fwyaf Trugarog.
 
 وَلِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ
 
-**3:130**  O chi sy’n credu! Peidiwch â bwydo ar usuriaeth, wedi ei chyfansoddi dro ar ôl tro, ac ofnwch Allah, fel y gallech ffynnu.
+**3:130**  O chi sy'n credu! Peidiwch â bwydo ar usuriaeth, wedi ei chyfansoddi dro ar ôl tro, ac ofnwch Allah, fel y gallech ffynnu.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوا۟ ٱلرِّبَوٰٓا۟ أَضْعَٰفًۭا مُّضَٰعَفَةًۭ ۖ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
 
@@ -1881,19 +1881,19 @@
 
 وَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِىٓ أُعِدَّتْ لِلْكَٰفِرِينَ
 
-**3:132**  Ac ufuddhewch i Allah a’r Cenhadwr, fel y gallech gael trugaredd.
+**3:132**  Ac ufuddhewch i Allah a'r Cenhadwr, fel y gallech gael trugaredd.
 
 وَأَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ
 
-**3:133**  A rhedewch tuag at faddeuant oddi wrth eich Arglwydd, a Gardd mor eang â’r nefoedd a’r ddaear, wedi ei pharatoi ar gyfer y cyfiawn.
+**3:133**  A rhedewch tuag at faddeuant oddi wrth eich Arglwydd, a Gardd mor eang â'r nefoedd a'r ddaear, wedi ei pharatoi ar gyfer y cyfiawn.
 
 ۞ وَسَارِعُوٓا۟ إِلَىٰ مَغْفِرَةٍۢ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا ٱلسَّمَٰوَٰتُ وَٱلْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ
 
-**3:134**  Y rhai sy’n rhoi mewn ffyniant ac adfyd, a’r rhai sy’n atal dicter, a’r rhai sy’n maddau i bobl. Mae Allah yn caru gwneuthurwyr daioni.
+**3:134**  Y rhai sy'n rhoi mewn ffyniant ac adfyd, a'r rhai sy'n atal dicter, a'r rhai sy'n maddau i bobl. Mae Allah yn caru gwneuthurwyr daioni.
 
 ٱلَّذِينَ يُنفِقُونَ فِى ٱلسَّرَّآءِ وَٱلضَّرَّآءِ وَٱلْكَٰظِمِينَ ٱلْغَيْظَ وَٱلْعَافِينَ عَنِ ٱلنَّاسِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ
 
-**3:135**  A’r rhai sydd, pan fyddant yn cyflawni anlladrwydd neu’n gwneud cam â nhw eu hunain, yn cofio Allah ac yn gofyn maddeuant am eu pechodau — a phwy sy’n maddau pechodau ond Allah? Ac nid ydynt yn parhau yn eu camwedd tra maent yn gwybod.
+**3:135**  A'r rhai sydd, pan fyddant yn cyflawni anlladrwydd neu'n gwneud cam â nhw eu hunain, yn cofio Allah ac yn gofyn maddeuant am eu pechodau — a phwy sy'n maddau pechodau ond Allah? Ac nid ydynt yn parhau yn eu camwedd tra maent yn gwybod.
 
 وَٱلَّذِينَ إِذَا فَعَلُوا۟ فَٰحِشَةً أَوْ ظَلَمُوٓا۟ أَنفُسَهُمْ ذَكَرُوا۟ ٱللَّهَ فَٱسْتَغْفَرُوا۟ لِذُنُوبِهِمْ وَمَن يَغْفِرُ ٱلذُّنُوبَ إِلَّا ٱللَّهُ وَلَمْ يُصِرُّوا۟ عَلَىٰ مَا فَعَلُوا۟ وَهُمْ يَعْلَمُونَ
 
@@ -1901,27 +1901,27 @@
 
 أُو۟لَٰٓئِكَ جَزَآؤُهُم مَّغْفِرَةٌۭ مِّن رَّبِّهِمْ وَجَنَّٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا ۚ وَنِعْمَ أَجْرُ ٱلْعَٰمِلِينَ
 
-**3:137**  Mae llawer o gymdeithasau wedi mynd heibio o’ch blaen. Felly teithiwch y ddaear a nodwch dynged y gwadwyr.
+**3:137**  Mae llawer o gymdeithasau wedi mynd heibio o'ch blaen. Felly teithiwch y ddaear a nodwch dynged y gwadwyr.
 
 قَدْ خَلَتْ مِن قَبْلِكُمْ سُنَنٌۭ فَسِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُكَذِّبِينَ
 
-**3:138**  Cyhoeddiad i ddynolryw yw hwn, ac arweiniad, a chyngor i’r cyfiawn.
+**3:138**  Cyhoeddiad i ddynolryw yw hwn, ac arweiniad, a chyngor i'r cyfiawn.
 
 هَٰذَا بَيَانٌۭ لِّلنَّاسِ وَهُدًۭى وَمَوْعِظَةٌۭ لِّلْمُتَّقِينَ
 
-**3:139**  A pheidiwch â siglo, na theimlo edifeirwch. Chi yw’r rhai uwchraddol, os ydych yn gredinwyr.
+**3:139**  A pheidiwch â siglo, na theimlo edifeirwch. Chi yw'r rhai uwchraddol, os ydych yn gredinwyr.
 
 وَلَا تَهِنُوا۟ وَلَا تَحْزَنُوا۟ وَأَنتُمُ ٱلْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ
 
-**3:140**  Os bydd clwyf yn eich taro, mae clwyf tebyg wedi taro’r lleill. Y dyddiau hyn yr ydym yn eu heilio rhwng y bobl, fel y gall Allah wybod y rhai sy’n credu, a chymryd merthyron o’ch plith. Nid yw Allah yn caru’r camweddwyr.
+**3:140**  Os bydd clwyf yn eich taro, mae clwyf tebyg wedi taro'r lleill. Y dyddiau hyn yr ydym yn eu heilio rhwng y bobl, fel y gall Allah wybod y rhai sy'n credu, a chymryd merthyron o'ch plith. Nid yw Allah yn caru'r camweddwyr.
 
 إِن يَمْسَسْكُمْ قَرْحٌۭ فَقَدْ مَسَّ ٱلْقَوْمَ قَرْحٌۭ مِّثْلُهُۥ ۚ وَتِلْكَ ٱلْأَيَّامُ نُدَاوِلُهَا بَيْنَ ٱلنَّاسِ وَلِيَعْلَمَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَيَتَّخِذَ مِنكُمْ شُهَدَآءَ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّٰلِمِينَ
 
-**3:141**  Fel y gall Allah brofi’r rhai sy’n credu, a dileu’r anghredinwyr.
+**3:141**  Fel y gall Allah brofi'r rhai sy'n credu, a dileu'r anghredinwyr.
 
 وَلِيُمَحِّصَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَيَمْحَقَ ٱلْكَٰفِرِينَ
 
-**3:142**  Neu a ydych yn disgwyl mynd i Baradwys, cyn i Allah wahaniaethu’r rhai yn eich plith sy’n ymdrechu, a chyn iddo wahaniaethu’r rhai diysgog?
+**3:142**  Neu a ydych yn disgwyl mynd i Baradwys, cyn i Allah wahaniaethu'r rhai yn eich plith sy'n ymdrechu, a chyn iddo wahaniaethu'r rhai diysgog?
 
 أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَعْلَمِ ٱللَّهُ ٱلَّذِينَ جَٰهَدُوا۟ مِنكُمْ وَيَعْلَمَ ٱلصَّٰبِرِينَ
 
@@ -1929,19 +1929,19 @@
 
 وَلَقَدْ كُنتُمْ تَمَنَّوْنَ ٱلْمَوْتَ مِن قَبْلِ أَن تَلْقَوْهُ فَقَدْ رَأَيْتُمُوهُ وَأَنتُمْ تَنظُرُونَ
 
-**3:144**  Nid yw Muhammad yn fwy na chenhadwr. Mae cenhadon wedi mynd heibio o’i flaen. Os bydd yn marw neu’n cael ei ladd, a drowch ar eich sodlau? Ni fydd yr hwn sy’n troi ar ei sodlau yn niweidio Allah mewn unrhyw fodd. A bydd Allah yn gwobrwyo’r diolchgar.
+**3:144**  Nid yw Muhammad yn fwy na chenhadwr. Mae cenhadon wedi mynd heibio o'i flaen. Os bydd yn marw neu'n cael ei ladd, a drowch ar eich sodlau? Ni fydd yr hwn sy'n troi ar ei sodlau yn niweidio Allah mewn unrhyw fodd. A bydd Allah yn gwobrwyo'r diolchgar.
 
 وَمَا مُحَمَّدٌ إِلَّا رَسُولٌۭ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ ۚ أَفَإِي۟ن مَّاتَ أَوْ قُتِلَ ٱنقَلَبْتُمْ عَلَىٰٓ أَعْقَٰبِكُمْ ۚ وَمَن يَنقَلِبْ عَلَىٰ عَقِبَيْهِ فَلَن يَضُرَّ ٱللَّهَ شَيْـًۭٔا ۗ وَسَيَجْزِى ٱللَّهُ ٱلشَّٰكِرِينَ
 
-**3:145**  Ni all unrhyw enaid farw ond trwy ganiatâd Allah, ar amser rhagderfynedig. Pwy bynnag sy’n dymuno gwobr y byd, byddwn yn rhoi peth ohoni iddo; a phwy bynnag sy’n dymuno gwobr y Bywyd ar Ôl, byddwn yn rhoi peth ohoni iddo; a byddwn yn gwobrwyo’r diolchgar.
+**3:145**  Ni all unrhyw enaid farw ond trwy ganiatâd Allah, ar amser rhagderfynedig. Pwy bynnag sy'n dymuno gwobr y byd, byddwn yn rhoi peth ohoni iddo; a phwy bynnag sy'n dymuno gwobr y Bywyd ar Ôl, byddwn yn rhoi peth ohoni iddo; a byddwn yn gwobrwyo'r diolchgar.
 
 وَمَا كَانَ لِنَفْسٍ أَن تَمُوتَ إِلَّا بِإِذْنِ ٱللَّهِ كِتَٰبًۭا مُّؤَجَّلًۭا ۗ وَمَن يُرِدْ ثَوَابَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَن يُرِدْ ثَوَابَ ٱلْءَاخِرَةِ نُؤْتِهِۦ مِنْهَا ۚ وَسَنَجْزِى ٱلشَّٰكِرِينَ
 
-**3:146**  Mor aml y mae proffwyd wedi ymladd ac ochr yn ochr ag ef nifer o bobl dduwiol? Ni siglasant am yr hyn a’u tarodd yn achos Allah, ac ni wanhasant, ac ni ildiasant. Mae Allah yn caru’r rhai sy’n dyfalbarhau.
+**3:146**  Mor aml y mae proffwyd wedi ymladd ac ochr yn ochr ag ef nifer o bobl dduwiol? Ni siglasant am yr hyn a'u tarodd yn achos Allah, ac ni wanhasant, ac ni ildiasant. Mae Allah yn caru'r rhai sy'n dyfalbarhau.
 
 وَكَأَيِّن مِّن نَّبِىٍّۢ قَٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٌۭ فَمَا وَهَنُوا۟ لِمَآ أَصَابَهُمْ فِى سَبِيلِ ٱللَّهِ وَمَا ضَعُفُوا۟ وَمَا ٱسْتَكَانُوا۟ ۗ وَٱللَّهُ يُحِبُّ ٱلصَّٰبِرِينَ
 
-**3:147**  Eu hunig eiriau oedd, “Ein Harglwydd, maddau i ni ein troseddau, a’n gormodeddau yn ein hymddygiad, a chryfha ein traed, a chynorthwya ni yn erbyn y bobl anghrediniol.”
+**3:147**  Eu hunig eiriau oedd, "Ein Harglwydd, maddau i ni ein troseddau, a'n gormodeddau yn ein hymddygiad, a chryfha ein traed, a chynorthwya ni yn erbyn y bobl anghrediniol."
 
 وَمَا كَانَ قَوْلَهُمْ إِلَّآ أَن قَالُوا۟ رَبَّنَا ٱغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِىٓ أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
 
@@ -1949,59 +1949,59 @@
 
 فَـَٔاتَىٰهُمُ ٱللَّهُ ثَوَابَ ٱلدُّنْيَا وَحُسْنَ ثَوَابِ ٱلْءَاخِرَةِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ
 
-**3:149**  O chi sy’n credu! Os ufuddhewch i’r rhai sy’n anghredu, byddant yn eich troi yn ôl ar eich sodlau, a byddwch yn gorffen yn golledwyr.
+**3:149**  O chi sy'n credu! Os ufuddhewch i'r rhai sy'n anghredu, byddant yn eich troi yn ôl ar eich sodlau, a byddwch yn gorffen yn golledwyr.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تُطِيعُوا۟ ٱلَّذِينَ كَفَرُوا۟ يَرُدُّوكُمْ عَلَىٰٓ أَعْقَٰبِكُمْ فَتَنقَلِبُوا۟ خَٰسِرِينَ
 
-**3:150**  Allah yw eich Meistr, ac Ef yw Gorau’r Cynorthwywyr.
+**3:150**  Allah yw eich Meistr, ac Ef yw Gorau'r Cynorthwywyr.
 
 بَلِ ٱللَّهُ مَوْلَىٰكُمْ ۖ وَهُوَ خَيْرُ ٱلنَّٰصِرِينَ
 
-**3:151**  Byddwn yn taflu dychryn i galonnau’r rhai sy’n anghredu, am eu bod yn priodoli i Allah bartneriaid na ddatguddiodd sancsiwn ar eu cyfer. Eu llety yw’r Tân. Truenus yw llety’r camweddwyr.
+**3:151**  Byddwn yn taflu dychryn i galonnau'r rhai sy'n anghredu, am eu bod yn priodoli i Allah bartneriaid na ddatguddiodd sancsiwn ar eu cyfer. Eu llety yw'r Tân. Truenus yw llety'r camweddwyr.
 
 سَنُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ بِمَآ أَشْرَكُوا۟ بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَٰنًۭا ۖ وَمَأْوَىٰهُمُ ٱلنَّارُ ۚ وَبِئْسَ مَثْوَى ٱلظَّٰلِمِينَ
 
-**3:152**  Mae Allah wedi cyflawni ei addewid i chi, a threchasoch nhw trwy ei ganiatâd; hyd pan lithrasoch, ac ymrysonasoch y gorchymyn, ac anufuddhau ar ôl iddo ddangos i chi’r hyn yr ydych yn ei hoffi. Mae rhai ohonoch yn dymuno’r byd hwn, ac mae rhai ohonoch yn dymuno’r nesaf. Yna trodd chi ymaith oddi wrthynt, i’ch profi; ond maddeuodd i chi. Mae Allah yn Raslon tuag at y credinwyr.
+**3:152**  Mae Allah wedi cyflawni ei addewid i chi, a threchasoch nhw trwy ei ganiatâd; hyd pan lithrasoch, ac ymrysonasoch y gorchymyn, ac anufuddhau ar ôl iddo ddangos i chi'r hyn yr ydych yn ei hoffi. Mae rhai ohonoch yn dymuno'r byd hwn, ac mae rhai ohonoch yn dymuno'r nesaf. Yna trodd chi ymaith oddi wrthynt, i'ch profi; ond maddeuodd i chi. Mae Allah yn Raslon tuag at y credinwyr.
 
 وَلَقَدْ صَدَقَكُمُ ٱللَّهُ وَعْدَهُۥٓ إِذْ تَحُسُّونَهُم بِإِذْنِهِۦ ۖ حَتَّىٰٓ إِذَا فَشِلْتُمْ وَتَنَٰزَعْتُمْ فِى ٱلْأَمْرِ وَعَصَيْتُم مِّنۢ بَعْدِ مَآ أَرَىٰكُم مَّا تُحِبُّونَ ۚ مِنكُم مَّن يُرِيدُ ٱلدُّنْيَا وَمِنكُم مَّن يُرِيدُ ٱلْءَاخِرَةَ ۚ ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ ۖ وَلَقَدْ عَفَا عَنكُمْ ۗ وَٱللَّهُ ذُو فَضْلٍ عَلَى ٱلْمُؤْمِنِينَ
 
-**3:153**  Cofiwch pan ffoesoch, heb ofalu am neb, er bod y Cenhadwr yn eich galw o’ch cefn. Yna talodd i chi â thristwch ar dristwch, fel na fyddech yn galaru dros yr hyn a gollasoch, nac am yr hyn a’ch tarodd. Mae Allah yn Hysbys o’r hyn yr ydych yn ei wneud.
+**3:153**  Cofiwch pan ffoesoch, heb ofalu am neb, er bod y Cenhadwr yn eich galw o'ch cefn. Yna talodd i chi â thristwch ar dristwch, fel na fyddech yn galaru dros yr hyn a gollasoch, nac am yr hyn a'ch tarodd. Mae Allah yn Hysbys o'r hyn yr ydych yn ei wneud.
 
 ۞ إِذْ تُصْعِدُونَ وَلَا تَلْوُۥنَ عَلَىٰٓ أَحَدٍۢ وَٱلرَّسُولُ يَدْعُوكُمْ فِىٓ أُخْرَىٰكُمْ فَأَثَٰبَكُمْ غَمًّۢا بِغَمٍّۢ لِّكَيْلَا تَحْزَنُوا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا مَآ أَصَٰبَكُمْ ۗ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ
 
-**3:154**  Yna ar ôl y rhwystr, anfonodd ddiogelwch i lawr arnoch. Trechodd cwsg rai ohonoch, tra nad oedd eraill yn gofalu ond amdanynt eu hunain, yn meddwl am Allah feddyliau nad oeddent yn wir — meddyliau anwybodaeth — yn dweud, “A oes unrhyw beth i fyny i ni?” Dywed, “Mae popeth i fyny i Allah.” Maent yn cuddio o fewn eu hunain yr hyn nad ydynt yn ei ddatguddio i ti. Ac maent yn dweud, “Pe bai i fyny i ni, ni fyddai’r un ohonom wedi cael ei ladd yma.” Dywed, “Hyd yn oed pe baech wedi aros yn eich cartrefi, byddai’r rhai a dynghedwyd i gael eu lladd wedi gorymdeithio i’w gwelyau marwolaeth.” Felly y mae Allah yn profi’r hyn sydd yn eich meddyliau, ac yn puro’r hyn sydd yn eich calonnau. Mae Allah yn gwybod yr hyn y mae’r calonnau yn ei gynnwys.
+**3:154**  Yna ar ôl y rhwystr, anfonodd ddiogelwch i lawr arnoch. Trechodd cwsg rai ohonoch, tra nad oedd eraill yn gofalu ond amdanynt eu hunain, yn meddwl am Allah feddyliau nad oeddent yn wir — meddyliau anwybodaeth — yn dweud, "A oes unrhyw beth i fyny i ni?" Dywed, "Mae popeth i fyny i Allah." Maent yn cuddio o fewn eu hunain yr hyn nad ydynt yn ei ddatguddio i ti. Ac maent yn dweud, "Pe bai i fyny i ni, ni fyddai'r un ohonom wedi cael ei ladd yma." Dywed, "Hyd yn oed pe baech wedi aros yn eich cartrefi, byddai'r rhai a dynghedwyd i gael eu lladd wedi gorymdeithio i'w gwelyau marwolaeth." Felly y mae Allah yn profi'r hyn sydd yn eich meddyliau, ac yn puro'r hyn sydd yn eich calonnau. Mae Allah yn gwybod yr hyn y mae'r calonnau yn ei gynnwys.
 
 ثُمَّ أَنزَلَ عَلَيْكُم مِّنۢ بَعْدِ ٱلْغَمِّ أَمَنَةًۭ نُّعَاسًۭا يَغْشَىٰ طَآئِفَةًۭ مِّنكُمْ ۖ وَطَآئِفَةٌۭ قَدْ أَهَمَّتْهُمْ أَنفُسُهُمْ يَظُنُّونَ بِٱللَّهِ غَيْرَ ٱلْحَقِّ ظَنَّ ٱلْجَٰهِلِيَّةِ ۖ يَقُولُونَ هَل لَّنَا مِنَ ٱلْأَمْرِ مِن شَىْءٍۢ ۗ قُلْ إِنَّ ٱلْأَمْرَ كُلَّهُۥ لِلَّهِ ۗ يُخْفُونَ فِىٓ أَنفُسِهِم مَّا لَا يُبْدُونَ لَكَ ۖ يَقُولُونَ لَوْ كَانَ لَنَا مِنَ ٱلْأَمْرِ شَىْءٌۭ مَّا قُتِلْنَا هَٰهُنَا ۗ قُل لَّوْ كُنتُمْ فِى بُيُوتِكُمْ لَبَرَزَ ٱلَّذِينَ كُتِبَ عَلَيْهِمُ ٱلْقَتْلُ إِلَىٰ مَضَاجِعِهِمْ ۖ وَلِيَبْتَلِىَ ٱللَّهُ مَا فِى صُدُورِكُمْ وَلِيُمَحِّصَ مَا فِى قُلُوبِكُمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
-**3:155**  Y rhai ohonoch a drodd yn ôl ar y diwrnod pan wrthdarodd y ddwy fyddin — Satan oedd yn achosi iddynt lithro yn ôl, ar gyfrif rhywfaint o’r hyn maent wedi ei ennill. Ond mae Allah wedi eu maddau. Mae Allah yn Faddeugar ac yn Gall.
+**3:155**  Y rhai ohonoch a drodd yn ôl ar y diwrnod pan wrthdarodd y ddwy fyddin — Satan oedd yn achosi iddynt lithro yn ôl, ar gyfrif rhywfaint o'r hyn maent wedi ei ennill. Ond mae Allah wedi eu maddau. Mae Allah yn Faddeugar ac yn Gall.
 
 إِنَّ ٱلَّذِينَ تَوَلَّوْا۟ مِنكُمْ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ إِنَّمَا ٱسْتَزَلَّهُمُ ٱلشَّيْطَٰنُ بِبَعْضِ مَا كَسَبُوا۟ ۖ وَلَقَدْ عَفَا ٱللَّهُ عَنْهُمْ ۗ إِنَّ ٱللَّهَ غَفُورٌ حَلِيمٌۭ
 
-**3:156**  O chi sy’n credu! Peidiwch â bod fel y rhai a anghredodd, ac a ddywedodd am eu brodyr a orymdeithiodd yn y tir, neu a aeth ar ymosodiad, “Pe baent wedi aros gyda ni, ni fyddent wedi marw nac wedi cael eu lladd.” Fel y gall Allah ei wneud yn achos edifeirwch yn eu calonnau. Mae Allah yn rhoi bywyd ac yn achosi marwolaeth. Mae Allah yn Gweld yr hyn yr ydych yn ei wneud.
+**3:156**  O chi sy'n credu! Peidiwch â bod fel y rhai a anghredodd, ac a ddywedodd am eu brodyr a orymdeithiodd yn y tir, neu a aeth ar ymosodiad, "Pe baent wedi aros gyda ni, ni fyddent wedi marw nac wedi cael eu lladd." Fel y gall Allah ei wneud yn achos edifeirwch yn eu calonnau. Mae Allah yn rhoi bywyd ac yn achosi marwolaeth. Mae Allah yn Gweld yr hyn yr ydych yn ei wneud.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِينَ كَفَرُوا۟ وَقَالُوا۟ لِإِخْوَٰنِهِمْ إِذَا ضَرَبُوا۟ فِى ٱلْأَرْضِ أَوْ كَانُوا۟ غُزًّۭى لَّوْ كَانُوا۟ عِندَنَا مَا مَاتُوا۟ وَمَا قُتِلُوا۟ لِيَجْعَلَ ٱللَّهُ ذَٰلِكَ حَسْرَةًۭ فِى قُلُوبِهِمْ ۗ وَٱللَّهُ يُحْىِۦ وَيُمِيتُ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌۭ
 
-**3:157**  Os cewch eich lladd yn achos Allah, neu’n marw — mae maddeuant a thrugaredd oddi wrth Allah yn well na’r hyn maent yn ei gronni.
+**3:157**  Os cewch eich lladd yn achos Allah, neu'n marw — mae maddeuant a thrugaredd oddi wrth Allah yn well na'r hyn maent yn ei gronni.
 
 وَلَئِن قُتِلْتُمْ فِى سَبِيلِ ٱللَّهِ أَوْ مُتُّمْ لَمَغْفِرَةٌۭ مِّنَ ٱللَّهِ وَرَحْمَةٌ خَيْرٌۭ مِّمَّا يَجْمَعُونَ
 
-**3:158**  Os byddwch yn marw, neu’n cael eich lladd — i Allah y cewch eich casglu.
+**3:158**  Os byddwch yn marw, neu'n cael eich lladd — i Allah y cewch eich casglu.
 
 وَلَئِن مُّتُّمْ أَوْ قُتِلْتُمْ لَإِلَى ٱللَّهِ تُحْشَرُونَ
 
-**3:159**  Trwy ras oddi wrth Allah yr oeddet yn dyner gyda nhw. Pe baet wedi bod yn llym, yn galongaled, byddent wedi gwasgaru oddi amgylch ti. Felly maddau iddynt, a gofyn faddeuant drostynt, ac ymgynghora â nhw yn y modd y cynhelir materion. A phan wnei benderfyniad, rho dy ymddiriedaeth yn Allah; mae Allah yn caru’r ymddiriedgar.
+**3:159**  Trwy ras oddi wrth Allah yr oeddet yn dyner gyda nhw. Pe baet wedi bod yn llym, yn galongaled, byddent wedi gwasgaru oddi amgylch ti. Felly maddau iddynt, a gofyn faddeuant drostynt, ac ymgynghora â nhw yn y modd y cynhelir materion. A phan wnei benderfyniad, rho dy ymddiriedaeth yn Allah; mae Allah yn caru'r ymddiriedgar.
 
 فَبِمَا رَحْمَةٍۢ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ ۖ فَٱعْفُ عَنْهُمْ وَٱسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِى ٱلْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ
 
-**3:160**  Os bydd Allah yn eich cefnogi, nid oes neb a all eich trechu. Ond os bydd yn eich methu, pwy sydd yno i’ch helpu ar ei ôl? Felly yn Allah gadewch i’r credinwyr roi eu hymddiriedaeth.
+**3:160**  Os bydd Allah yn eich cefnogi, nid oes neb a all eich trechu. Ond os bydd yn eich methu, pwy sydd yno i'ch helpu ar ei ôl? Felly yn Allah gadewch i'r credinwyr roi eu hymddiriedaeth.
 
 إِن يَنصُرْكُمُ ٱللَّهُ فَلَا غَالِبَ لَكُمْ ۖ وَإِن يَخْذُلْكُمْ فَمَن ذَا ٱلَّذِى يَنصُرُكُم مِّنۢ بَعْدِهِۦ ۗ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
 
-**3:161**  Nid yw i broffwyd weithredu’n anonest. Pwy bynnag sy’n gweithredu’n anonest bydd yn dwyn ei anonestrwydd ar Ddydd yr Atgyfodiad. Yna telir i bob enaid yn llawn am yr hyn y mae wedi ei ennill, ac ni chânt eu camdrin.
+**3:161**  Nid yw i broffwyd weithredu'n anonest. Pwy bynnag sy'n gweithredu'n anonest bydd yn dwyn ei anonestrwydd ar Ddydd yr Atgyfodiad. Yna telir i bob enaid yn llawn am yr hyn y mae wedi ei ennill, ac ni chânt eu camdrin.
 
 وَمَا كَانَ لِنَبِىٍّ أَن يَغُلَّ ۚ وَمَن يَغْلُلْ يَأْتِ بِمَا غَلَّ يَوْمَ ٱلْقِيَٰمَةِ ۚ ثُمَّ تُوَفَّىٰ كُلُّ نَفْسٍۢ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
 
-**3:162**  A yw rhywun sy’n dilyn cymeradwyaeth Allah yr un fath â rhywun sy’n cael digofaint Allah a’i loches yw Uffern — y gyrchfan druenus?
+**3:162**  A yw rhywun sy'n dilyn cymeradwyaeth Allah yr un fath â rhywun sy'n cael digofaint Allah a'i loches yw Uffern — y gyrchfan druenus?
 
 أَفَمَنِ ٱتَّبَعَ رِضْوَٰنَ ٱللَّهِ كَمَنۢ بَآءَ بِسَخَطٍۢ مِّنَ ٱللَّهِ وَمَأْوَىٰهُ جَهَنَّمُ ۚ وَبِئْسَ ٱلْمَصِيرُ
 
@@ -2009,31 +2009,31 @@
 
 هُمْ دَرَجَٰتٌ عِندَ ٱللَّهِ ۗ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ
 
-**3:164**  Mae Allah wedi bendithio’r credinwyr, wrth iddo godi yn eu plith genhadwr o’u plith, sy’n adrodd iddynt ei ddatguddiadau, ac yn eu puro, ac yn dysgu iddynt yr Ysgrythur a doethineb; er cyn hynny yr oeddent mewn cyfeiliorn amlwg.
+**3:164**  Mae Allah wedi bendithio'r credinwyr, wrth iddo godi yn eu plith genhadwr o'u plith, sy'n adrodd iddynt ei ddatguddiadau, ac yn eu puro, ac yn dysgu iddynt yr Ysgrythur a doethineb; er cyn hynny yr oeddent mewn cyfeiliorn amlwg.
 
 لَقَدْ مَنَّ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًۭا مِّنْ أَنفُسِهِمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَٰلٍۢ مُّبِينٍ
 
-**3:165**  A phan darodd trychineb chi, hyd yn oed ar ôl i chi achosi ddwywaith cymaint, dywedasoch, “Sut mae hyn?” Dywed, “Oddi wrth eich hunain y mae.” Mae Allah yn Abl i wneud pob peth.
+**3:165**  A phan darodd trychineb chi, hyd yn oed ar ôl i chi achosi ddwywaith cymaint, dywedasoch, "Sut mae hyn?" Dywed, "Oddi wrth eich hunain y mae." Mae Allah yn Abl i wneud pob peth.
 
 أَوَلَمَّآ أَصَٰبَتْكُم مُّصِيبَةٌۭ قَدْ أَصَبْتُم مِّثْلَيْهَا قُلْتُمْ أَنَّىٰ هَٰذَا ۖ قُلْ هُوَ مِنْ عِندِ أَنفُسِكُمْ ۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**3:166**  Yr hyn a’ch tarodd ar y diwrnod pan wrthdarodd y ddwy fyddin oedd trwy ganiatâd Allah; fel y gallai wybod y credinwyr.
+**3:166**  Yr hyn a'ch tarodd ar y diwrnod pan wrthdarodd y ddwy fyddin oedd trwy ganiatâd Allah; fel y gallai wybod y credinwyr.
 
 وَمَآ أَصَٰبَكُمْ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ فَبِإِذْنِ ٱللَّهِ وَلِيَعْلَمَ ٱلْمُؤْمِنِينَ
 
-**3:167**  Ac fel y gallai wybod y rhagrithwyr. A dywedwyd wrthynt, “Dewch, ymladdwch yn achos Allah, neu gyfrannwch.” Dywedasant, “Pe byddem yn gwybod sut i ymladd, byddem wedi eich dilyn.” Ar y diwrnod hwnnw yr oeddent yn nes at anffyddlondeb nag yr oeddent at ffydd. Maent yn dweud â’u genau yr hyn nad yw yn eu calonnau; ond mae Allah yn gwybod yr hyn maent yn ei guddio.
+**3:167**  Ac fel y gallai wybod y rhagrithwyr. A dywedwyd wrthynt, "Dewch, ymladdwch yn achos Allah, neu gyfrannwch." Dywedasant, "Pe byddem yn gwybod sut i ymladd, byddem wedi eich dilyn." Ar y diwrnod hwnnw yr oeddent yn nes at anffyddlondeb nag yr oeddent at ffydd. Maent yn dweud â'u genau yr hyn nad yw yn eu calonnau; ond mae Allah yn gwybod yr hyn maent yn ei guddio.
 
 وَلِيَعْلَمَ ٱلَّذِينَ نَافَقُوا۟ ۚ وَقِيلَ لَهُمْ تَعَالَوْا۟ قَٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَوِ ٱدْفَعُوا۟ ۖ قَالُوا۟ لَوْ نَعْلَمُ قِتَالًۭا لَّٱتَّبَعْنَٰكُمْ ۗ هُمْ لِلْكُفْرِ يَوْمَئِذٍ أَقْرَبُ مِنْهُمْ لِلْإِيمَٰنِ ۚ يَقُولُونَ بِأَفْوَٰهِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ ۗ وَٱللَّهُ أَعْلَمُ بِمَا يَكْتُمُونَ
 
-**3:168**  Y rhai a ddywedodd am eu brodyr, wrth iddynt aros ar ôl, “Pe baent wedi ufuddhau i ni, ni fyddent wedi cael eu lladd.” Dywed, “Yna trowch farwolaeth oddi wrthych eich hunain, os ydych yn wirioneddus.”
+**3:168**  Y rhai a ddywedodd am eu brodyr, wrth iddynt aros ar ôl, "Pe baent wedi ufuddhau i ni, ni fyddent wedi cael eu lladd." Dywed, "Yna trowch farwolaeth oddi wrthych eich hunain, os ydych yn wirioneddus."
 
 ٱلَّذِينَ قَالُوا۟ لِإِخْوَٰنِهِمْ وَقَعَدُوا۟ لَوْ أَطَاعُونَا مَا قُتِلُوا۟ ۗ قُلْ فَٱدْرَءُوا۟ عَنْ أَنفُسِكُمُ ٱلْمَوْتَ إِن كُنتُمْ صَٰدِقِينَ
 
-**3:169**  Peidiwch ag ystyried y rhai a laddwyd yn achos Allah yn farw. Yn wir, maent yn fyw, wrth eu Harglwydd, wedi eu darparu’n dda.
+**3:169**  Peidiwch ag ystyried y rhai a laddwyd yn achos Allah yn farw. Yn wir, maent yn fyw, wrth eu Harglwydd, wedi eu darparu'n dda.
 
 وَلَا تَحْسَبَنَّ ٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتًۢا ۚ بَلْ أَحْيَآءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ
 
-**3:170**  Yn ymhyfrydu yn yr hyn y mae Allah wedi ei roi iddynt o’i ras, ac yn hapus dros y rhai nad ydynt eto wedi ymuno â nhw; nad oes ganddynt ddim i’w ofni, ac na fyddant yn galaru.
+**3:170**  Yn ymhyfrydu yn yr hyn y mae Allah wedi ei roi iddynt o'i ras, ac yn hapus dros y rhai nad ydynt eto wedi ymuno â nhw; nad oes ganddynt ddim i'w ofni, ac na fyddant yn galaru.
 
 فَرِحِينَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَيَسْتَبْشِرُونَ بِٱلَّذِينَ لَمْ يَلْحَقُوا۟ بِهِم مِّنْ خَلْفِهِمْ أَلَّا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
@@ -2041,55 +2041,55 @@
 
 ۞ يَسْتَبْشِرُونَ بِنِعْمَةٍۢ مِّنَ ٱللَّهِ وَفَضْلٍۢ وَأَنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُؤْمِنِينَ
 
-**3:172**  Y rhai a ymatebodd i Allah a’r Cenhadwr, er gwaethaf yr erledigaeth a ddioddefasant. I’r rhinweddol a’r duwiol yn eu plith y mae gwobr fawr.
+**3:172**  Y rhai a ymatebodd i Allah a'r Cenhadwr, er gwaethaf yr erledigaeth a ddioddefasant. I'r rhinweddol a'r duwiol yn eu plith y mae gwobr fawr.
 
 ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعْدِ مَآ أَصَابَهُمُ ٱلْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ
 
-**3:173**  Y rhai y mae’r bobl wedi dweud wrthynt, “Mae’r bobl wedi ymgasglu yn eich erbyn, felly ofnwch nhw.” Ond dim ond cynyddu eu ffydd a wnaeth hyn, a dywedasant, “Mae Allah yn ddigon i ni; Ef yw’r Amddiffynnwr Rhagorol.”
+**3:173**  Y rhai y mae'r bobl wedi dweud wrthynt, "Mae'r bobl wedi ymgasglu yn eich erbyn, felly ofnwch nhw." Ond dim ond cynyddu eu ffydd a wnaeth hyn, a dywedasant, "Mae Allah yn ddigon i ni; Ef yw'r Amddiffynnwr Rhagorol."
 
 ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدْ جَمَعُوا۟ لَكُمْ فَٱخْشَوْهُمْ فَزَادَهُمْ إِيمَٰنًۭا وَقَالُوا۟ حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ
 
-**3:174**  Felly daethant yn ôl â gras oddi wrth Allah, a haelioni, a heb i niwed eu cyffwrdd. Dilynasant yr hyn sy’n plesio Allah. Mae gan Allah ras aruthrol.
+**3:174**  Felly daethant yn ôl â gras oddi wrth Allah, a haelioni, a heb i niwed eu cyffwrdd. Dilynasant yr hyn sy'n plesio Allah. Mae gan Allah ras aruthrol.
 
 فَٱنقَلَبُوا۟ بِنِعْمَةٍۢ مِّنَ ٱللَّهِ وَفَضْلٍۢ لَّمْ يَمْسَسْهُمْ سُوٓءٌۭ وَٱتَّبَعُوا۟ رِضْوَٰنَ ٱللَّهِ ۗ وَٱللَّهُ ذُو فَضْلٍ عَظِيمٍ
 
-**3:175**  Dim ond Satan sy’n dychryn ei bleidwyr ydyw hynny; felly peidiwch â’u hofni nhw, ond ofnwch Fi, os ydych yn gredinwyr.
+**3:175**  Dim ond Satan sy'n dychryn ei bleidwyr ydyw hynny; felly peidiwch â'u hofni nhw, ond ofnwch Fi, os ydych yn gredinwyr.
 
 إِنَّمَا ذَٰلِكُمُ ٱلشَّيْطَٰنُ يُخَوِّفُ أَوْلِيَآءَهُۥ فَلَا تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم مُّؤْمِنِينَ
 
-**3:176**  A pheidiwch â’ch tristáu gan y rhai sy’n rhuthro i anghrediniaeth. Ni fyddant yn niweidio Allah yn y lleiaf. Mae Allah yn dymuno rhoi dim cyfran iddynt yn y Bywyd ar Ôl. Mae poen erchyll yn eu haros.
+**3:176**  A pheidiwch â'ch tristáu gan y rhai sy'n rhuthro i anghrediniaeth. Ni fyddant yn niweidio Allah yn y lleiaf. Mae Allah yn dymuno rhoi dim cyfran iddynt yn y Bywyd ar Ôl. Mae poen erchyll yn eu haros.
 
 وَلَا يَحْزُنكَ ٱلَّذِينَ يُسَٰرِعُونَ فِى ٱلْكُفْرِ ۚ إِنَّهُمْ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًۭٔا ۗ يُرِيدُ ٱللَّهُ أَلَّا يَجْعَلَ لَهُمْ حَظًّۭا فِى ٱلْءَاخِرَةِ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ
 
-**3:177**  Ni fydd y rhai sy’n cyfnewid cabledd am ffydd yn niweidio Allah yn y lleiaf. Mae poen boenus yn eu haros.
+**3:177**  Ni fydd y rhai sy'n cyfnewid cabledd am ffydd yn niweidio Allah yn y lleiaf. Mae poen boenus yn eu haros.
 
 إِنَّ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلْكُفْرَ بِٱلْإِيمَٰنِ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًۭٔا وَلَهُمْ عَذَابٌ أَلِيمٌۭ
 
-**3:178**  Ni ddylai’r rhai sy’n anghredu dybio ein bod yn rhoi seibiant iddynt er eu lles eu hunain. Yn wir, dim ond rhoi seibiant iddynt yr ydym fel y gallent gynyddu mewn pechadurusrwydd. Mae poen ddarostyngol yn eu haros.
+**3:178**  Ni ddylai'r rhai sy'n anghredu dybio ein bod yn rhoi seibiant iddynt er eu lles eu hunain. Yn wir, dim ond rhoi seibiant iddynt yr ydym fel y gallent gynyddu mewn pechadurusrwydd. Mae poen ddarostyngol yn eu haros.
 
 وَلَا يَحْسَبَنَّ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّمَا نُمْلِى لَهُمْ خَيْرٌۭ لِّأَنفُسِهِمْ ۚ إِنَّمَا نُمْلِى لَهُمْ لِيَزْدَادُوٓا۟ إِثْمًۭا ۚ وَلَهُمْ عَذَابٌۭ مُّهِينٌۭ
 
-**3:179**  Ni fydd Allah yn gadael y credinwyr fel yr ydych, heb wahaniaethu’r drygionus oddi wrth y diffuant. Ac ni fydd Allah yn eich hysbysu o’r dyfodol, ond mae Allah yn ethol o blith ei genhadon pwy bynnag a fyn. Felly credwch yn Allah a’i genhadon. Os credwch ac ymarferwch dduwioldeb, bydd gennych wobr wych.
+**3:179**  Ni fydd Allah yn gadael y credinwyr fel yr ydych, heb wahaniaethu'r drygionus oddi wrth y diffuant. Ac ni fydd Allah yn eich hysbysu o'r dyfodol, ond mae Allah yn ethol o blith ei genhadon pwy bynnag a fyn. Felly credwch yn Allah a'i genhadon. Os credwch ac ymarferwch dduwioldeb, bydd gennych wobr wych.
 
 مَّا كَانَ ٱللَّهُ لِيَذَرَ ٱلْمُؤْمِنِينَ عَلَىٰ مَآ أَنتُمْ عَلَيْهِ حَتَّىٰ يَمِيزَ ٱلْخَبِيثَ مِنَ ٱلطَّيِّبِ ۗ وَمَا كَانَ ٱللَّهُ لِيُطْلِعَكُمْ عَلَى ٱلْغَيْبِ وَلَٰكِنَّ ٱللَّهَ يَجْتَبِى مِن رُّسُلِهِۦ مَن يَشَآءُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۚ وَإِن تُؤْمِنُوا۟ وَتَتَّقُوا۟ فَلَكُمْ أَجْرٌ عَظِيمٌۭ
 
-**3:180**  Ni ddylai’r rhai sy’n atal yr hyn y mae Allah wedi ei roi iddynt o’i haelioni dybio fod hynny’n dda iddynt. Yn wir, mae’n ddrwg iddynt. Byddant yn cael eu hamgylchu gan eu croniadau ar Ddydd yr Atgyfodiad. I Allah y perthyn etifeddiaeth y nefoedd a’r ddaear, ac mae Allah yn dda gyfarwydd â’r hyn yr ydych yn ei wneud.
+**3:180**  Ni ddylai'r rhai sy'n atal yr hyn y mae Allah wedi ei roi iddynt o'i haelioni dybio fod hynny'n dda iddynt. Yn wir, mae'n ddrwg iddynt. Byddant yn cael eu hamgylchu gan eu croniadau ar Ddydd yr Atgyfodiad. I Allah y perthyn etifeddiaeth y nefoedd a'r ddaear, ac mae Allah yn dda gyfarwydd â'r hyn yr ydych yn ei wneud.
 
 وَلَا يَحْسَبَنَّ ٱلَّذِينَ يَبْخَلُونَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ هُوَ خَيْرًۭا لَّهُم ۖ بَلْ هُوَ شَرٌّۭ لَّهُمْ ۖ سَيُطَوَّقُونَ مَا بَخِلُوا۟ بِهِۦ يَوْمَ ٱلْقِيَٰمَةِ ۗ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ
 
-**3:181**  Mae Allah wedi clywed datganiad y rhai a ddywedodd, “Mae Allah yn dlawd, ac yr ydym yn gyfoethog.” Byddwn yn ysgrifennu i lawr yr hyn a ddywedasant, a’u lladd anghyfiawn o’r proffwydi; a byddwn yn dweud, “Blaswch boen y llosgiad.”
+**3:181**  Mae Allah wedi clywed datganiad y rhai a ddywedodd, "Mae Allah yn dlawd, ac yr ydym yn gyfoethog." Byddwn yn ysgrifennu i lawr yr hyn a ddywedasant, a'u lladd anghyfiawn o'r proffwydi; a byddwn yn dweud, "Blaswch boen y llosgiad."
 
 لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌۭ وَنَحْنُ أَغْنِيَآءُ ۘ سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّۢ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
 
-**3:182**  “Mae hyn ar gyfrif yr hyn y mae eich dwylo wedi ei anfon ymlaen, ac am nad yw Allah yn anghyfiawn tuag at y creaduriaid.”
+**3:182**  "Mae hyn ar gyfrif yr hyn y mae eich dwylo wedi ei anfon ymlaen, ac am nad yw Allah yn anghyfiawn tuag at y creaduriaid."
 
 ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّامٍۢ لِّلْعَبِيدِ
 
-**3:183**  Y rhai a ddywedodd, “Mae Allah wedi gwneud cyfamod â ni, na chredwn mewn unrhyw genhadwr oni ddaw ag offrwm i gael ei ysu gan dân.” Dywed, “Mae cenhadon wedi dod atoch o’m blaen â phrofion, ac â’r hyn a ofynasoch amdano; felly pam y llofruddiasoch nhw, os ydych yn wirioneddus?”
+**3:183**  Y rhai a ddywedodd, "Mae Allah wedi gwneud cyfamod â ni, na chredwn mewn unrhyw genhadwr oni ddaw ag offrwm i gael ei ysu gan dân." Dywed, "Mae cenhadon wedi dod atoch o'm blaen â phrofion, ac â'r hyn a ofynasoch amdano; felly pam y llofruddiasoch nhw, os ydych yn wirioneddus?"
 
 ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا بِقُرْبَانٍۢ تَأْكُلُهُ ٱلنَّارُ ۗ قُلْ قَدْ جَآءَكُمْ رُسُلٌۭ مِّن قَبْلِى بِٱلْبَيِّنَٰتِ وَبِٱلَّذِى قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَٰدِقِينَ
 
-**3:184**  Os cyhuddir chi o ddweud celwydd, cyhuddwyd cenhadon o’ch blaen o ddweud celwydd. Daethant â’r profion, a’r Salmau, a’r Ysgrythur Oleuol.
+**3:184**  Os cyhuddir chi o ddweud celwydd, cyhuddwyd cenhadon o'ch blaen o ddweud celwydd. Daethant â'r profion, a'r Salmau, a'r Ysgrythur Oleuol.
 
 فَإِن كَذَّبُوكَ فَقَدْ كُذِّبَ رُسُلٌۭ مِّن قَبْلِكَ جَآءُو بِٱلْبَيِّنَٰتِ وَٱلزُّبُرِ وَٱلْكِتَٰبِ ٱلْمُنِيرِ
 
@@ -2097,47 +2097,47 @@
 
 كُلُّ نَفْسٍۢ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَٰمَةِ ۖ فَمَن زُحْزِحَ عَنِ ٱلنَّارِ وَأُدْخِلَ ٱلْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَٰعُ ٱلْغُرُورِ
 
-**3:186**  Cewch eich profi trwy eich meddiannau a’ch personau; a chlywch oddi wrth y rhai a dderbyniodd yr Ysgrythur o’ch blaen, ac oddi wrth addolwyr eilunod, lawer o sarhad. Ond os dyfalbarhewch ac arweiniwch fywyd cyfiawn — mae hynny yn wir yn nod o benderfyniad mawr.
+**3:186**  Cewch eich profi trwy eich meddiannau a'ch personau; a chlywch oddi wrth y rhai a dderbyniodd yr Ysgrythur o'ch blaen, ac oddi wrth addolwyr eilunod, lawer o sarhad. Ond os dyfalbarhewch ac arweiniwch fywyd cyfiawn — mae hynny yn wir yn nod o benderfyniad mawr.
 
 ۞ لَتُبْلَوُنَّ فِىٓ أَمْوَٰلِكُمْ وَأَنفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ وَمِنَ ٱلَّذِينَ أَشْرَكُوٓا۟ أَذًۭى كَثِيرًۭا ۚ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ
 
-**3:187**  Derbyniodd Allah addewid oddi wrth y rhai y rhoddwyd yr Ysgrythur iddynt: “Byddwch yn ei gyhoeddi i’r bobl, ac nid yn ei guddio.” Ond diystyrasant ef y tu ôl i’w cefnau, a’i gyfnewid am bris bach. Mor druenus y cyfnewid a wnaethant.
+**3:187**  Derbyniodd Allah addewid oddi wrth y rhai y rhoddwyd yr Ysgrythur iddynt: "Byddwch yn ei gyhoeddi i'r bobl, ac nid yn ei guddio." Ond diystyrasant ef y tu ôl i'w cefnau, a'i gyfnewid am bris bach. Mor druenus y cyfnewid a wnaethant.
 
 وَإِذْ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًۭا قَلِيلًۭا ۖ فَبِئْسَ مَا يَشْتَرُونَ
 
-**3:188**  Peidiwch â meddwl fod y rhai sy’n llawenhau yn yr hyn maent wedi ei wneud, ac yn caru cael eu canmol am yr hyn nad ydynt wedi ei wneud — peidiwch â meddwl y gallant osgoi’r gosb. Bydd ganddynt gosb boenus.
+**3:188**  Peidiwch â meddwl fod y rhai sy'n llawenhau yn yr hyn maent wedi ei wneud, ac yn caru cael eu canmol am yr hyn nad ydynt wedi ei wneud — peidiwch â meddwl y gallant osgoi'r gosb. Bydd ganddynt gosb boenus.
 
 لَا تَحْسَبَنَّ ٱلَّذِينَ يَفْرَحُونَ بِمَآ أَتَوا۟ وَّيُحِبُّونَ أَن يُحْمَدُوا۟ بِمَا لَمْ يَفْعَلُوا۟ فَلَا تَحْسَبَنَّهُم بِمَفَازَةٍۢ مِّنَ ٱلْعَذَابِ ۖ وَلَهُمْ عَذَابٌ أَلِيمٌۭ
 
-**3:189**  I Allah y perthyn sofraniaeth y nefoedd a’r ddaear. Mae gan Allah allu dros bob peth.
+**3:189**  I Allah y perthyn sofraniaeth y nefoedd a'r ddaear. Mae gan Allah allu dros bob peth.
 
 وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ
 
-**3:190**  Yng nghreadigaeth y nefoedd a’r ddaear, ac yn eilio nos a dydd, y mae arwyddion i bobl o ddeall.
+**3:190**  Yng nghreadigaeth y nefoedd a'r ddaear, ac yn eilio nos a dydd, y mae arwyddion i bobl o ddeall.
 
 إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَءَايَٰتٍۢ لِّأُو۟لِى ٱلْأَلْبَٰبِ
 
-**3:191**  Y rhai sy’n cofio Allah tra’n sefyll, ac yn eistedd, ac ar eu hochrau; ac maent yn myfyrio ar greadigaeth y nefoedd a’r ddaear: “Ein Harglwydd, ni chreaist hyn yn ofer, gogoniant i Ti, felly amddiffyn ni rhag cosb y Tân.”
+**3:191**  Y rhai sy'n cofio Allah tra'n sefyll, ac yn eistedd, ac ar eu hochrau; ac maent yn myfyrio ar greadigaeth y nefoedd a'r ddaear: "Ein Harglwydd, ni chreaist hyn yn ofer, gogoniant i Ti, felly amddiffyn ni rhag cosb y Tân."
 
 ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَٰمًۭا وَقُعُودًۭا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَٰطِلًۭا سُبْحَٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ
 
-**3:192**  “Ein Harglwydd, pwy bynnag yr wyt yn ei draddodi i’r Tân, rwyt wedi ei warthu. Ni fydd gan y camweddwyr gynorthwywyr.”
+**3:192**  "Ein Harglwydd, pwy bynnag yr wyt yn ei draddodi i'r Tân, rwyt wedi ei warthu. Ni fydd gan y camweddwyr gynorthwywyr."
 
 رَبَّنَآ إِنَّكَ مَن تُدْخِلِ ٱلنَّارَ فَقَدْ أَخْزَيْتَهُۥ ۖ وَمَا لِلظَّٰلِمِينَ مِنْ أَنصَارٍۢ
 
-**3:193**  “Ein Harglwydd, yr ydym wedi clywed galwr yn galw i’r ffydd: ‘Credwch yn eich Arglwydd,’ ac yr ydym wedi credu. Ein Harglwydd! Maddau i ni ein pechodau, a dilea ein camweithredoedd, a gwna i ni farw yng nghwmni’r rhinweddol.”
+**3:193**  "Ein Harglwydd, yr ydym wedi clywed galwr yn galw i'r ffydd: 'Credwch yn eich Arglwydd,' ac yr ydym wedi credu. Ein Harglwydd! Maddau i ni ein pechodau, a dilea ein camweithredoedd, a gwna i ni farw yng nghwmni'r rhinweddol."
 
 رَّبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًۭا يُنَادِى لِلْإِيمَٰنِ أَنْ ءَامِنُوا۟ بِرَبِّكُمْ فَـَٔامَنَّا ۚ رَبَّنَا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلْأَبْرَارِ
 
-**3:194**  “Ein Harglwydd, a rho i ni’r hyn yr wyt wedi ei addo i ni trwy dy genhadon, a paid â’n gwaradwyddo ar Ddydd yr Atgyfodiad. Yn sicr ni byddi byth yn torri addewid.”
+**3:194**  "Ein Harglwydd, a rho i ni'r hyn yr wyt wedi ei addo i ni trwy dy genhadon, a paid â'n gwaradwyddo ar Ddydd yr Atgyfodiad. Yn sicr ni byddi byth yn torri addewid."
 
 رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ ٱلْقِيَٰمَةِ ۗ إِنَّكَ لَا تُخْلِفُ ٱلْمِيعَادَ
 
-**3:195**  Ac felly atebodd eu Harglwydd nhw: “Ni wastraffaf waith unrhyw weithiwr yn eich plith, boed yn wryw neu’n fenyw. Un o’r llall ydych. I’r rhai a ymfudodd, ac a yrwyd o’u cartrefi, ac a erlidiwyd o’m hachos i, ac a ymladdodd ac a laddwyd — dileaf drostynt eu pechodau, a derbyniaf nhw i erddi y mae afonydd yn llifo oddi tanynt — gwobr oddi wrth Allah. Gydag Allah y mae’r wobr eithaf.”
+**3:195**  Ac felly atebodd eu Harglwydd nhw: "Ni wastraffaf waith unrhyw weithiwr yn eich plith, boed yn wryw neu'n fenyw. Un o'r llall ydych. I'r rhai a ymfudodd, ac a yrwyd o'u cartrefi, ac a erlidiwyd o'm hachos i, ac a ymladdodd ac a laddwyd — dileaf drostynt eu pechodau, a derbyniaf nhw i erddi y mae afonydd yn llifo oddi tanynt — gwobr oddi wrth Allah. Gydag Allah y mae'r wobr eithaf."
 
 فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّى لَآ أُضِيعُ عَمَلَ عَٰمِلٍۢ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ بَعْضُكُم مِّنۢ بَعْضٍۢ ۖ فَٱلَّذِينَ هَاجَرُوا۟ وَأُخْرِجُوا۟ مِن دِيَٰرِهِمْ وَأُوذُوا۟ فِى سَبِيلِى وَقَٰتَلُوا۟ وَقُتِلُوا۟ لَأُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ثَوَابًۭا مِّنْ عِندِ ٱللَّهِ ۗ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلثَّوَابِ
 
-**3:196**  Paid â chael dy synnu gan symudiadau’r anghredinwyr yn y tir.
+**3:196**  Paid â chael dy synnu gan symudiadau'r anghredinwyr yn y tir.
 
 لَا يَغُرَّنَّكَ تَقَلُّبُ ٱلَّذِينَ كَفَرُوا۟ فِى ٱلْبِلَٰدِ
 
@@ -2145,15 +2145,15 @@
 
 مَتَٰعٌۭ قَلِيلٌۭ ثُمَّ مَأْوَىٰهُمْ جَهَنَّمُ ۚ وَبِئْسَ ٱلْمِهَادُ
 
-**3:198**  O ran y rhai a ofnodd eu Harglwydd: iddynt nhw y bydd erddi y mae afonydd yn llifo oddi tanynt, lle byddant yn aros am byth — lletygarwch oddi wrth Allah. Yr hyn sydd gan Allah sydd orau i’r rhai cyfiawn.
+**3:198**  O ran y rhai a ofnodd eu Harglwydd: iddynt nhw y bydd erddi y mae afonydd yn llifo oddi tanynt, lle byddant yn aros am byth — lletygarwch oddi wrth Allah. Yr hyn sydd gan Allah sydd orau i'r rhai cyfiawn.
 
 لَٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ جَنَّٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا نُزُلًۭا مِّنْ عِندِ ٱللَّهِ ۗ وَمَا عِندَ ٱللَّهِ خَيْرٌۭ لِّلْأَبْرَارِ
 
-**3:199**  Ymhlith Pobl yr Ysgrythur y mae’r rhai sy’n credu yn Allah, ac yn yr hyn a ddatguddiwyd i ti, ac yn yr hyn a ddatguddiwyd iddynt. Maent yn ostyngedig gerbron Allah, ac nid ydynt yn gwerthu datguddiadau Allah am bris rhad. Bydd gan y rhain eu gwobr gyda’u Harglwydd. Mae Allah yn gyflym mewn cyfrif.
+**3:199**  Ymhlith Pobl yr Ysgrythur y mae'r rhai sy'n credu yn Allah, ac yn yr hyn a ddatguddiwyd i ti, ac yn yr hyn a ddatguddiwyd iddynt. Maent yn ostyngedig gerbron Allah, ac nid ydynt yn gwerthu datguddiadau Allah am bris rhad. Bydd gan y rhain eu gwobr gyda'u Harglwydd. Mae Allah yn gyflym mewn cyfrif.
 
 وَإِنَّ مِنْ أَهْلِ ٱلْكِتَٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَٰشِعِينَ لِلَّهِ لَا يَشْتَرُونَ بِـَٔايَٰتِ ٱللَّهِ ثَمَنًۭا قَلِيلًا ۗ أُو۟لَٰٓئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ ۗ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
 
-**3:200**  O chi sy’n credu! Byddwch yn amyneddgar, ac eiriolwch amynedd, a byddwch yn unedig, a pharchedig ofnwch Allah, fel y gallech ffynnu.
+**3:200**  O chi sy'n credu! Byddwch yn amyneddgar, ac eiriolwch amynedd, a byddwch yn unedig, a pharchedig ofnwch Allah, fel y gallech ffynnu.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
 
@@ -2164,21 +2164,21 @@
 
 **ٱلنِّسَاء** · An-Nisa · Medinaidd · 176 adnod
 
-*Hawliau, cyfiawnder, ac urddas gwragedd — pennod sy’n ymwneud â’r bregus a’r amddifad.*
+*Hawliau, cyfiawnder, ac urddas gwragedd — pennod sy'n ymwneud â'r bregus a'r amddifad.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
 *Yn enw Allah, y Daionus, y Trugarog.*
 
-**4:1**  O bobl! Ofnwch eich Arglwydd, a’ch creodd o un enaid, ac a greodd ohono ei gymar, ac a luosogodd ohonynt lawer o ddynion a gwragedd. A pharchedig ofnwch Allah yr ydych yn gofyn amdano, a’r rhieni. Yn sicr, mae Allah yn Wyliadwrus drosoch.
+**4:1**  O bobl! Ofnwch eich Arglwydd, a'ch creodd o un enaid, ac a greodd ohono ei gymar, ac a luosogodd ohonynt lawer o ddynion a gwragedd. A pharchedig ofnwch Allah yr ydych yn gofyn amdano, a'r rhieni. Yn sicr, mae Allah yn Wyliadwrus drosoch.
 
 يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍۢ وَٰحِدَةٍۢ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًۭا كَثِيرًۭا وَنِسَآءًۭ ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ ۚ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًۭا
 
-**4:2**  A rhoddwch i amddifaid eu heiddo, a pheidiwch â chyfnewid y drwg am y da. A pheidiwch â bwyta eu heiddo trwy ei gyfuno â’ch eiddo chi, oherwydd byddai hynny’n bechod difrifol.
+**4:2**  A rhoddwch i amddifaid eu heiddo, a pheidiwch â chyfnewid y drwg am y da. A pheidiwch â bwyta eu heiddo trwy ei gyfuno â'ch eiddo chi, oherwydd byddai hynny'n bechod difrifol.
 
 وَءَاتُوا۟ ٱلْيَتَٰمَىٰٓ أَمْوَٰلَهُمْ ۖ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ بِٱلطَّيِّبِ ۖ وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ ۚ إِنَّهُۥ كَانَ حُوبًۭا كَبِيرًۭا
 
-**4:3**  Os ofnwch na allwch weithredu’n deg tuag at yr amddifaid — yna priodwch y gwragedd yr ydych yn eu hoffi — dwy, neu dair, neu bedair. Ond os ofnwch na fyddwch yn deg, yna un, neu’r hyn sydd gennych eisoes. Mae hynny’n ei gwneud yn fwy tebygol eich bod yn osgoi tuedd.
+**4:3**  Os ofnwch na allwch weithredu'n deg tuag at yr amddifaid — yna priodwch y gwragedd yr ydych yn eu hoffi — dwy, neu dair, neu bedair. Ond os ofnwch na fyddwch yn deg, yna un, neu'r hyn sydd gennych eisoes. Mae hynny'n ei gwneud yn fwy tebygol eich bod yn osgoi tuedd.
 
 وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَٰمَىٰ فَٱنكِحُوا۟ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ مَثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ ۖ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً أَوْ مَا مَلَكَتْ أَيْمَٰنُكُمْ ۚ ذَٰلِكَ أَدْنَىٰٓ أَلَّا تَعُولُوا۟
 
@@ -2186,47 +2186,47 @@
 
 وَءَاتُوا۟ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحْلَةًۭ ۚ فَإِن طِبْنَ لَكُمْ عَن شَىْءٍۢ مِّنْهُ نَفْسًۭا فَكُلُوهُ هَنِيٓـًۭٔا مَّرِيٓـًۭٔا
 
-**4:5**  Peidiwch â rhoi i’r anaeddfed eich arian y mae Allah wedi ei neilltuo i chi ar gyfer cynhaliaeth. Ond darparwch ar eu cyfer ohono, a dilladwch nhw, a llefarwch wrthynt â geiriau caredig.
+**4:5**  Peidiwch â rhoi i'r anaeddfed eich arian y mae Allah wedi ei neilltuo i chi ar gyfer cynhaliaeth. Ond darparwch ar eu cyfer ohono, a dilladwch nhw, a llefarwch wrthynt â geiriau caredig.
 
 وَلَا تُؤْتُوا۟ ٱلسُّفَهَآءَ أَمْوَٰلَكُمُ ٱلَّتِى جَعَلَ ٱللَّهُ لَكُمْ قِيَٰمًۭا وَٱرْزُقُوهُمْ فِيهَا وَٱكْسُوهُمْ وَقُولُوا۟ لَهُمْ قَوْلًۭا مَّعْرُوفًۭا
 
-**4:6**  Profwch yr amddifaid nes iddynt gyrraedd oed priodas. Os cewch nhw’n ddigon aeddfed, trosglwyddwch eu heiddo iddynt. A pheidiwch â’i fwyta’n wastraffus nac yn frysiog cyn iddynt dyfu i fyny. Ni ddylai’r cyfoethog godi unrhyw gyflog, ond gall y tlawd godi’n deg. Pan fyddwch yn trosglwyddo eu heiddo iddynt, caiff ei dystio ar eu cyfer. Mae Allah yn ddigon fel Cyfrifydd.
+**4:6**  Profwch yr amddifaid nes iddynt gyrraedd oed priodas. Os cewch nhw'n ddigon aeddfed, trosglwyddwch eu heiddo iddynt. A pheidiwch â'i fwyta'n wastraffus nac yn frysiog cyn iddynt dyfu i fyny. Ni ddylai'r cyfoethog godi unrhyw gyflog, ond gall y tlawd godi'n deg. Pan fyddwch yn trosglwyddo eu heiddo iddynt, caiff ei dystio ar eu cyfer. Mae Allah yn ddigon fel Cyfrifydd.
 
 وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًۭا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ ۖ وَلَا تَأْكُلُوهَآ إِسْرَافًۭا وَبِدَارًا أَن يَكْبَرُوا۟ ۚ وَمَن كَانَ غَنِيًّۭا فَلْيَسْتَعْفِفْ ۖ وَمَن كَانَ فَقِيرًۭا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ ۚ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ ۚ وَكَفَىٰ بِٱللَّهِ حَسِيبًۭا
 
-**4:7**  Mae dynion yn derbyn cyfran o’r hyn y mae eu rhieni a’u perthnasau yn ei adael, ac mae gwragedd yn derbyn cyfran o’r hyn y mae eu rhieni a’u perthnasau yn ei adael; boed yn fach neu’n fawr — cyfran gyfreithiol.
+**4:7**  Mae dynion yn derbyn cyfran o'r hyn y mae eu rhieni a'u perthnasau yn ei adael, ac mae gwragedd yn derbyn cyfran o'r hyn y mae eu rhieni a'u perthnasau yn ei adael; boed yn fach neu'n fawr — cyfran gyfreithiol.
 
 لِّلرِّجَالِ نَصِيبٌۭ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَلِلنِّسَآءِ نَصِيبٌۭ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ ۚ نَصِيبًۭا مَّفْرُوضًۭا
 
-**4:8**  Os bydd y dosbarthiad yn cael ei fynychu gan y perthnasau, a’r amddifaid, a’r anghenus, rhowch iddynt rywbeth ohono, a llefarwch wrthynt yn garedig.
+**4:8**  Os bydd y dosbarthiad yn cael ei fynychu gan y perthnasau, a'r amddifaid, a'r anghenus, rhowch iddynt rywbeth ohono, a llefarwch wrthynt yn garedig.
 
 وَإِذَا حَضَرَ ٱلْقِسْمَةَ أُو۟لُوا۟ ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينُ فَٱرْزُقُوهُم مِّنْهُ وَقُولُوا۟ لَهُمْ قَوْلًۭا مَّعْرُوفًۭا
 
-**4:9**  Dylai’r rhai sy’n poeni am dynged eu plant gwan, rhag ofn eu bod yn eu gadael ar ôl, ofni Allah, a llefaru geiriau priodol.
+**4:9**  Dylai'r rhai sy'n poeni am dynged eu plant gwan, rhag ofn eu bod yn eu gadael ar ôl, ofni Allah, a llefaru geiriau priodol.
 
 وَلْيَخْشَ ٱلَّذِينَ لَوْ تَرَكُوا۟ مِنْ خَلْفِهِمْ ذُرِّيَّةًۭ ضِعَٰفًا خَافُوا۟ عَلَيْهِمْ فَلْيَتَّقُوا۟ ٱللَّهَ وَلْيَقُولُوا۟ قَوْلًۭا سَدِيدًا
 
-**4:10**  Y rhai sy’n bwyta cyfoeth amddifaid yn anghyfreithlon nid ydynt yn bwyta dim ond tân i’w boliau; a byddant yn rhostio mewn Fflam.
+**4:10**  Y rhai sy'n bwyta cyfoeth amddifaid yn anghyfreithlon nid ydynt yn bwyta dim ond tân i'w boliau; a byddant yn rhostio mewn Fflam.
 
 إِنَّ ٱلَّذِينَ يَأْكُلُونَ أَمْوَٰلَ ٱلْيَتَٰمَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَارًۭا ۖ وَسَيَصْلَوْنَ سَعِيرًۭا
 
-**4:11**  Mae Allah yn eich cyfarwyddo ynghylch eich plant: Mae’r gwryw yn derbyn cyfwerth â chyfran dwy fenyw. Os merched ydynt, yn fwy na dwy, maent yn cael dwy ran o dair o’r hyn y mae’n ei adael. Os mai dim ond un sydd, mae’n cael un hanner. O ran y rhieni, mae pob un yn cael un chwechfed ran o’r hyn y mae’n ei adael, os oedd ganddo blant. Os nad oedd ganddo blant, ac mae ei rieni yn etifeddu oddi wrtho, mae ei fam yn cael un drydedd ran. Os oes ganddo frodyr a chwiorydd, mae ei fam yn cael un chwechfed ran. Ar ôl cyflawni unrhyw gymyn ac ad-dalu dyledion. Eich rhieni a’ch plant — nid ydych yn gwybod pa rai sydd agosaf atoch mewn lles. Deddf Allah yw hon. Mae Allah yn Wybodus ac yn Farnol.
+**4:11**  Mae Allah yn eich cyfarwyddo ynghylch eich plant: Mae'r gwryw yn derbyn cyfwerth â chyfran dwy fenyw. Os merched ydynt, yn fwy na dwy, maent yn cael dwy ran o dair o'r hyn y mae'n ei adael. Os mai dim ond un sydd, mae'n cael un hanner. O ran y rhieni, mae pob un yn cael un chwechfed ran o'r hyn y mae'n ei adael, os oedd ganddo blant. Os nad oedd ganddo blant, ac mae ei rieni yn etifeddu oddi wrtho, mae ei fam yn cael un drydedd ran. Os oes ganddo frodyr a chwiorydd, mae ei fam yn cael un chwechfed ran. Ar ôl cyflawni unrhyw gymyn ac ad-dalu dyledion. Eich rhieni a'ch plant — nid ydych yn gwybod pa rai sydd agosaf atoch mewn lles. Deddf Allah yw hon. Mae Allah yn Wybodus ac yn Farnol.
 
 يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَٰدِكُمْ ۖ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ ۚ فَإِن كُنَّ نِسَآءًۭ فَوْقَ ٱثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ ۖ وَإِن كَانَتْ وَٰحِدَةًۭ فَلَهَا ٱلنِّصْفُ ۚ وَلِأَبَوَيْهِ لِكُلِّ وَٰحِدٍۢ مِّنْهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدٌۭ ۚ فَإِن لَّمْ يَكُن لَّهُۥ وَلَدٌۭ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ ۚ فَإِن كَانَ لَهُۥٓ إِخْوَةٌۭ فَلِأُمِّهِ ٱلسُّدُسُ ۚ مِنۢ بَعْدِ وَصِيَّةٍۢ يُوصِى بِهَآ أَوْ دَيْنٍ ۗ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًۭا ۚ فَرِيضَةًۭ مِّنَ ٱللَّهِ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًۭا
 
-**4:12**  Cewch un hanner o’r hyn y mae eich gwragedd yn ei adael ar ôl, os nad oedd ganddynt blant. Os oedd ganddynt blant, cewch un chwarter o’r hyn maent yn ei adael. Ar ôl cyflawni unrhyw gymyn ac ad-dalu dyledion. Maent yn cael un chwarter o’r hyn yr ydych yn ei adael ar ôl, os nad oes gennych blant. Os oes gennych blant, maent yn cael un wythfed ran o’r hyn yr ydych yn ei adael. Ar ôl cyflawni unrhyw gymyn ac ad-dalu dyledion. Os bydd dyn neu wraig yn gadael heb rieni na phlant, ond mae ganddo frawd neu chwaer, mae pob un ohonynt yn cael un chwechfed ran. Os oes mwy o frodyr a chwiorydd, maent yn rhannu un drydedd ran. Ar ôl cyflawni unrhyw gymyn ac ad-dalu dyledion, heb unrhyw ragfarn. Cymyn oddi wrth Allah yw hwn. Mae Allah yn Wybodus ac yn Addfwyn.
+**4:12**  Cewch un hanner o'r hyn y mae eich gwragedd yn ei adael ar ôl, os nad oedd ganddynt blant. Os oedd ganddynt blant, cewch un chwarter o'r hyn maent yn ei adael. Ar ôl cyflawni unrhyw gymyn ac ad-dalu dyledion. Maent yn cael un chwarter o'r hyn yr ydych yn ei adael ar ôl, os nad oes gennych blant. Os oes gennych blant, maent yn cael un wythfed ran o'r hyn yr ydych yn ei adael. Ar ôl cyflawni unrhyw gymyn ac ad-dalu dyledion. Os bydd dyn neu wraig yn gadael heb rieni na phlant, ond mae ganddo frawd neu chwaer, mae pob un ohonynt yn cael un chwechfed ran. Os oes mwy o frodyr a chwiorydd, maent yn rhannu un drydedd ran. Ar ôl cyflawni unrhyw gymyn ac ad-dalu dyledion, heb unrhyw ragfarn. Cymyn oddi wrth Allah yw hwn. Mae Allah yn Wybodus ac yn Addfwyn.
 
 ۞ وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَٰجُكُمْ إِن لَّمْ يَكُن لَّهُنَّ وَلَدٌۭ ۚ فَإِن كَانَ لَهُنَّ وَلَدٌۭ فَلَكُمُ ٱلرُّبُعُ مِمَّا تَرَكْنَ ۚ مِنۢ بَعْدِ وَصِيَّةٍۢ يُوصِينَ بِهَآ أَوْ دَيْنٍۢ ۚ وَلَهُنَّ ٱلرُّبُعُ مِمَّا تَرَكْتُمْ إِن لَّمْ يَكُن لَّكُمْ وَلَدٌۭ ۚ فَإِن كَانَ لَكُمْ وَلَدٌۭ فَلَهُنَّ ٱلثُّمُنُ مِمَّا تَرَكْتُم ۚ مِّنۢ بَعْدِ وَصِيَّةٍۢ تُوصُونَ بِهَآ أَوْ دَيْنٍۢ ۗ وَإِن كَانَ رَجُلٌۭ يُورَثُ كَلَٰلَةً أَوِ ٱمْرَأَةٌۭ وَلَهُۥٓ أَخٌ أَوْ أُخْتٌۭ فَلِكُلِّ وَٰحِدٍۢ مِّنْهُمَا ٱلسُّدُسُ ۚ فَإِن كَانُوٓا۟ أَكْثَرَ مِن ذَٰلِكَ فَهُمْ شُرَكَآءُ فِى ٱلثُّلُثِ ۚ مِنۢ بَعْدِ وَصِيَّةٍۢ يُوصَىٰ بِهَآ أَوْ دَيْنٍ غَيْرَ مُضَآرٍّۢ ۚ وَصِيَّةًۭ مِّنَ ٱللَّهِ ۗ وَٱللَّهُ عَلِيمٌ حَلِيمٌۭ
 
-**4:13**  Dyma’r terfynau a osodwyd gan Allah. Pwy bynnag sy’n ufuddhau i Allah a’i Genhadwr, bydd yn ei dderbyn i Erddi y mae afonydd yn llifo oddi tanynt, i aros ynddynt am byth. Dyna’r cyrhaeddiad mawr.
+**4:13**  Dyma'r terfynau a osodwyd gan Allah. Pwy bynnag sy'n ufuddhau i Allah a'i Genhadwr, bydd yn ei dderbyn i Erddi y mae afonydd yn llifo oddi tanynt, i aros ynddynt am byth. Dyna'r cyrhaeddiad mawr.
 
 تِلْكَ حُدُودُ ٱللَّهِ ۚ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا ۚ وَذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
-**4:14**  Ond pwy bynnag sy’n anufuddhau i Allah a’i Genhadwr, ac yn mynd dros ei derfynau, bydd yn ei dderbyn i Dân, lle mae’n aros am byth, a bydd ganddo gosb warthus.
+**4:14**  Ond pwy bynnag sy'n anufuddhau i Allah a'i Genhadwr, ac yn mynd dros ei derfynau, bydd yn ei dderbyn i Dân, lle mae'n aros am byth, a bydd ganddo gosb warthus.
 
 وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ وَيَتَعَدَّ حُدُودَهُۥ يُدْخِلْهُ نَارًا خَٰلِدًۭا فِيهَا وَلَهُۥ عَذَابٌۭ مُّهِينٌۭ
 
-**4:15**  Y rhai o’ch gwragedd sy’n cyflawni anlladrwydd, rhaid i chi gael pedwar tyst yn eu herbyn, yn eich plith. Os tystiant, cyfyngwch nhw i’r cartrefi nes i farwolaeth eu hawlio, neu i Allah wneud ffordd iddynt.
+**4:15**  Y rhai o'ch gwragedd sy'n cyflawni anlladrwydd, rhaid i chi gael pedwar tyst yn eu herbyn, yn eich plith. Os tystiant, cyfyngwch nhw i'r cartrefi nes i farwolaeth eu hawlio, neu i Allah wneud ffordd iddynt.
 
 وَٱلَّٰتِى يَأْتِينَ ٱلْفَٰحِشَةَ مِن نِّسَآئِكُمْ فَٱسْتَشْهِدُوا۟ عَلَيْهِنَّ أَرْبَعَةًۭ مِّنكُمْ ۖ فَإِن شَهِدُوا۟ فَأَمْسِكُوهُنَّ فِى ٱلْبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ أَوْ يَجْعَلَ ٱللَّهُ لَهُنَّ سَبِيلًۭا
 
@@ -2234,15 +2234,15 @@
 
 وَٱلَّذَانِ يَأْتِيَٰنِهَا مِنكُمْ فَـَٔاذُوهُمَا ۖ فَإِن تَابَا وَأَصْلَحَا فَأَعْرِضُوا۟ عَنْهُمَآ ۗ إِنَّ ٱللَّهَ كَانَ تَوَّابًۭا رَّحِيمًا
 
-**4:17**  Mae edifeirwch ar gael oddi wrth Allah i’r rhai sy’n cyflawni drwg o anwybodaeth, ac yna’n edifarhau yn fuan wedyn. Y rhai hyn — bydd Allah yn troi’n edifeiriol tuag atynt. Mae Allah yn Wybodus ac yn Ddoeth.
+**4:17**  Mae edifeirwch ar gael oddi wrth Allah i'r rhai sy'n cyflawni drwg o anwybodaeth, ac yna'n edifarhau yn fuan wedyn. Y rhai hyn — bydd Allah yn troi'n edifeiriol tuag atynt. Mae Allah yn Wybodus ac yn Ddoeth.
 
 إِنَّمَا ٱلتَّوْبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعْمَلُونَ ٱلسُّوٓءَ بِجَهَٰلَةٍۢ ثُمَّ يَتُوبُونَ مِن قَرِيبٍۢ فَأُو۟لَٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيْهِمْ ۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًۭا
 
-**4:18**  Ond nid yw edifeirwch ar gael i’r rhai sy’n cyflawni drygau, nes pan fydd marwolaeth yn nesáu at un ohonynt, y mae’n dweud, “Yn awr yr wyf yn edifarhau,” nac i’r rhai sy’n marw’n anghredinwyr. Y rhai hyn — yr ydym wedi paratoi ar eu cyfer boen boenus.
+**4:18**  Ond nid yw edifeirwch ar gael i'r rhai sy'n cyflawni drygau, nes pan fydd marwolaeth yn nesáu at un ohonynt, y mae'n dweud, "Yn awr yr wyf yn edifarhau," nac i'r rhai sy'n marw'n anghredinwyr. Y rhai hyn — yr ydym wedi paratoi ar eu cyfer boen boenus.
 
 وَلَيْسَتِ ٱلتَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ حَتَّىٰٓ إِذَا حَضَرَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ إِنِّى تُبْتُ ٱلْـَٰٔنَ وَلَا ٱلَّذِينَ يَمُوتُونَ وَهُمْ كُفَّارٌ ۚ أُو۟لَٰٓئِكَ أَعْتَدْنَا لَهُمْ عَذَابًا أَلِيمًۭا
 
-**4:19**  O chi sy’n credu! Nid yw’n ganiataol i chi etifeddu gwragedd yn erbyn eu hewyllys. A pheidiwch â’u gorfodi er mwyn cymryd ymaith ryw ran o’r hyn yr oeddech wedi ei roi iddynt, oni bai eu bod yn cyflawni godineb profedig. A byw gyda nhw mewn caredigrwydd. Os ydych yn eu casáu, gall fod eich bod yn casáu rhywbeth y mae Allah wedi gosod llawer o ddaioni ynddo.
+**4:19**  O chi sy'n credu! Nid yw'n ganiataol i chi etifeddu gwragedd yn erbyn eu hewyllys. A pheidiwch â'u gorfodi er mwyn cymryd ymaith ryw ran o'r hyn yr oeddech wedi ei roi iddynt, oni bai eu bod yn cyflawni godineb profedig. A byw gyda nhw mewn caredigrwydd. Os ydych yn eu casáu, gall fod eich bod yn casáu rhywbeth y mae Allah wedi gosod llawer o ddaioni ynddo.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًۭا ۖ وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا۟ بِبَعْضِ مَآ ءَاتَيْتُمُوهُنَّ إِلَّآ أَن يَأْتِينَ بِفَٰحِشَةٍۢ مُّبَيِّنَةٍۢ ۚ وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ ۚ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًۭٔا وَيَجْعَلَ ٱللَّهُ فِيهِ خَيْرًۭا كَثِيرًۭا
 
@@ -2254,27 +2254,27 @@
 
 وَكَيْفَ تَأْخُذُونَهُۥ وَقَدْ أَفْضَىٰ بَعْضُكُمْ إِلَىٰ بَعْضٍۢ وَأَخَذْنَ مِنكُم مِّيثَٰقًا غَلِيظًۭا
 
-**4:22**  Peidiwch â phriodi gwragedd y priododd eich tadau nhw, ac eithrio’r hyn sydd eisoes wedi mynd heibio. Mae hynny’n amhriodol, yn anweddus, ac yn arfer drwg.
+**4:22**  Peidiwch â phriodi gwragedd y priododd eich tadau nhw, ac eithrio'r hyn sydd eisoes wedi mynd heibio. Mae hynny'n amhriodol, yn anweddus, ac yn arfer drwg.
 
 وَلَا تَنكِحُوا۟ مَا نَكَحَ ءَابَآؤُكُم مِّنَ ٱلنِّسَآءِ إِلَّا مَا قَدْ سَلَفَ ۚ إِنَّهُۥ كَانَ فَٰحِشَةًۭ وَمَقْتًۭا وَسَآءَ سَبِيلًا
 
-**4:23**  Gwaherddir i chi eich mamau, eich merched, eich chwiorydd, eich modrybedd tadol, eich modrybedd famol, merched eich brawd, merched eich chwaer, eich mamau maeth a’ch magodd, eich chwiorydd trwy fagu, mamau eich gwragedd, a’ch llysferched yn eich gwarcheidiaeth — a anwyd o wragedd yr ydych wedi mynd i mewn iddynt — ond os nad ydych wedi mynd i mewn iddynt, nid oes bai arnoch. A gwragedd eich meibion genetig, a phriodi dwy chwaer ar yr un pryd. Ac eithrio’r hyn sydd wedi mynd heibio. Mae Allah yn Fynych Faddeugar, yn Fwyaf Trugarog.
+**4:23**  Gwaherddir i chi eich mamau, eich merched, eich chwiorydd, eich modrybedd tadol, eich modrybedd famol, merched eich brawd, merched eich chwaer, eich mamau maeth a'ch magodd, eich chwiorydd trwy fagu, mamau eich gwragedd, a'ch llysferched yn eich gwarcheidiaeth — a anwyd o wragedd yr ydych wedi mynd i mewn iddynt — ond os nad ydych wedi mynd i mewn iddynt, nid oes bai arnoch. A gwragedd eich meibion genetig, a phriodi dwy chwaer ar yr un pryd. Ac eithrio'r hyn sydd wedi mynd heibio. Mae Allah yn Fynych Faddeugar, yn Fwyaf Trugarog.
 
 حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ ٱلَّٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَٰٓئِلُ أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ ۗ إِنَّ ٱللَّهَ كَانَ غَفُورًۭا رَّحِيمًۭا
 
-**4:24**  A phob gwraig briod, ac eithrio’r rhai yr ydych yn eu meddu’n gyfiawn. Dyma orchymyn Allah, yn rhwymol arnoch. Caniateir i chi’r rhai sy’n gorwedd y tu allan i’r terfynau hyn, ar yr amod eich bod yn eu ceisio mewn priodas gyfreithiol, â rhoddion o’ch eiddo, yn ceisio priodas, nid puteindra. Os dymunwch eu mwynhau, yna rhowch iddynt eu gwaddol — rhwymedigaeth gyfreithiol. Nid ydych yn cyflawni cam trwy gytuno ar unrhyw newid i’r gwaddol. Mae Allah yn Hollwybodol, yn Fwyaf Doeth.
+**4:24**  A phob gwraig briod, ac eithrio'r rhai yr ydych yn eu meddu'n gyfiawn. Dyma orchymyn Allah, yn rhwymol arnoch. Caniateir i chi'r rhai sy'n gorwedd y tu allan i'r terfynau hyn, ar yr amod eich bod yn eu ceisio mewn priodas gyfreithiol, â rhoddion o'ch eiddo, yn ceisio priodas, nid puteindra. Os dymunwch eu mwynhau, yna rhowch iddynt eu gwaddol — rhwymedigaeth gyfreithiol. Nid ydych yn cyflawni cam trwy gytuno ar unrhyw newid i'r gwaddol. Mae Allah yn Hollwybodol, yn Fwyaf Doeth.
 
 ۞ وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلَّا مَا مَلَكَتْ أَيْمَٰنُكُمْ ۖ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ ۚ وَأُحِلَّ لَكُم مَّا وَرَآءَ ذَٰلِكُمْ أَن تَبْتَغُوا۟ بِأَمْوَٰلِكُم مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ ۚ فَمَا ٱسْتَمْتَعْتُم بِهِۦ مِنْهُنَّ فَـَٔاتُوهُنَّ أُجُورَهُنَّ فَرِيضَةًۭ ۚ وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا تَرَٰضَيْتُم بِهِۦ مِنۢ بَعْدِ ٱلْفَرِيضَةِ ۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًۭا
 
-**4:25**  Os bydd unrhyw un ohonoch yn brin o’r modd i briodi gwragedd crediniol rhydd, gall briodi un o’r morynion crediniol dan eich rheolaeth. Mae Allah yn dda ymwybodol o’ch ffydd. Un o’r llall ydych. Priodwch nhw â chaniatâd eu gwarcheidiaid, a rhowch iddynt eu tâl yn deg — i gael eu hamddiffyn — heb gyflawni godineb, na chymryd cariadon cyfrinachol. Pan fyddant yn briod, os cyflawnant odineb, bydd eu cosb yn hanner cosb gwragedd rhydd. Mae hynny ar gyfer y rhai yn eich plith sy’n ofni syrthio i ddirywiad. Ond mae ymarfer hunanatal yn well i chi. Mae Allah yn Fwyaf Maddeugar, yn Fwyaf Trugarog.
+**4:25**  Os bydd unrhyw un ohonoch yn brin o'r modd i briodi gwragedd crediniol rhydd, gall briodi un o'r morynion crediniol dan eich rheolaeth. Mae Allah yn dda ymwybodol o'ch ffydd. Un o'r llall ydych. Priodwch nhw â chaniatâd eu gwarcheidiaid, a rhowch iddynt eu tâl yn deg — i gael eu hamddiffyn — heb gyflawni godineb, na chymryd cariadon cyfrinachol. Pan fyddant yn briod, os cyflawnant odineb, bydd eu cosb yn hanner cosb gwragedd rhydd. Mae hynny ar gyfer y rhai yn eich plith sy'n ofni syrthio i ddirywiad. Ond mae ymarfer hunanatal yn well i chi. Mae Allah yn Fwyaf Maddeugar, yn Fwyaf Trugarog.
 
 وَمَن لَّمْ يَسْتَطِعْ مِنكُمْ طَوْلًا أَن يَنكِحَ ٱلْمُحْصَنَٰتِ ٱلْمُؤْمِنَٰتِ فَمِن مَّا مَلَكَتْ أَيْمَٰنُكُم مِّن فَتَيَٰتِكُمُ ٱلْمُؤْمِنَٰتِ ۚ وَٱللَّهُ أَعْلَمُ بِإِيمَٰنِكُم ۚ بَعْضُكُم مِّنۢ بَعْضٍۢ ۚ فَٱنكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَءَاتُوهُنَّ أُجُورَهُنَّ بِٱلْمَعْرُوفِ مُحْصَنَٰتٍ غَيْرَ مُسَٰفِحَٰتٍۢ وَلَا مُتَّخِذَٰتِ أَخْدَانٍۢ ۚ فَإِذَآ أُحْصِنَّ فَإِنْ أَتَيْنَ بِفَٰحِشَةٍۢ فَعَلَيْهِنَّ نِصْفُ مَا عَلَى ٱلْمُحْصَنَٰتِ مِنَ ٱلْعَذَابِ ۚ ذَٰلِكَ لِمَنْ خَشِىَ ٱلْعَنَتَ مِنكُمْ ۚ وَأَن تَصْبِرُوا۟ خَيْرٌۭ لَّكُمْ ۗ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ
 
-**4:26**  Mae Allah yn bwriadu gwneud pethau’n eglur i chi, ac i’ch arwain yn ffyrdd y rhai o’ch blaen, ac i’ch prynu’n rhydd. Mae Allah yn Fwyaf Gwybodus, yn Fwyaf Doeth.
+**4:26**  Mae Allah yn bwriadu gwneud pethau'n eglur i chi, ac i'ch arwain yn ffyrdd y rhai o'ch blaen, ac i'ch prynu'n rhydd. Mae Allah yn Fwyaf Gwybodus, yn Fwyaf Doeth.
 
 يُرِيدُ ٱللَّهُ لِيُبَيِّنَ لَكُمْ وَيَهْدِيَكُمْ سُنَنَ ٱلَّذِينَ مِن قَبْلِكُمْ وَيَتُوبَ عَلَيْكُمْ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ
 
-**4:27**  Mae Allah yn bwriadu eich prynu’n rhydd, ond mae’r rhai sy’n dilyn eu chwantau yn dymuno i chi droi ymaith yn llwyr.
+**4:27**  Mae Allah yn bwriadu eich prynu'n rhydd, ond mae'r rhai sy'n dilyn eu chwantau yn dymuno i chi droi ymaith yn llwyr.
 
 وَٱللَّهُ يُرِيدُ أَن يَتُوبَ عَلَيْكُمْ وَيُرِيدُ ٱلَّذِينَ يَتَّبِعُونَ ٱلشَّهَوَٰتِ أَن تَمِيلُوا۟ مَيْلًا عَظِيمًۭا
 
@@ -2282,19 +2282,19 @@
 
 يُرِيدُ ٱللَّهُ أَن يُخَفِّفَ عَنكُمْ ۚ وَخُلِقَ ٱلْإِنسَٰنُ ضَعِيفًۭا
 
-**4:29**  O chi sy’n credu! Peidiwch â bwyta cyfoeth eich gilydd yn anghyfreithlon, ond masnachwch trwy gydsyniad. A pheidiwch â’ch lladd eich hunain, oherwydd mae Allah yn Drugarog tuag atoch.
+**4:29**  O chi sy'n credu! Peidiwch â bwyta cyfoeth eich gilydd yn anghyfreithlon, ond masnachwch trwy gydsyniad. A pheidiwch â'ch lladd eich hunain, oherwydd mae Allah yn Drugarog tuag atoch.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ إِلَّآ أَن تَكُونَ تِجَٰرَةً عَن تَرَاضٍۢ مِّنكُمْ ۚ وَلَا تَقْتُلُوٓا۟ أَنفُسَكُمْ ۚ إِنَّ ٱللَّهَ كَانَ بِكُمْ رَحِيمًۭا
 
-**4:30**  Pwy bynnag sy’n gwneud hynny, o elyniaeth a chamwedd, byddwn yn ei daflu i Dân. A byddai hynny’n hawdd i Allah.
+**4:30**  Pwy bynnag sy'n gwneud hynny, o elyniaeth a chamwedd, byddwn yn ei daflu i Dân. A byddai hynny'n hawdd i Allah.
 
 وَمَن يَفْعَلْ ذَٰلِكَ عُدْوَٰنًۭا وَظُلْمًۭا فَسَوْفَ نُصْلِيهِ نَارًۭا ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا
 
-**4:31**  Os osgowch y gwaethaf o’r hyn y’ch gwaharddir, byddwn yn dileu eich pechodau, ac yn eich derbyn trwy Borth Anrhydedd.
+**4:31**  Os osgowch y gwaethaf o'r hyn y'ch gwaharddir, byddwn yn dileu eich pechodau, ac yn eich derbyn trwy Borth Anrhydedd.
 
 إِن تَجْتَنِبُوا۟ كَبَآئِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنكُمْ سَيِّـَٔاتِكُمْ وَنُدْخِلْكُم مُّدْخَلًۭا كَرِيمًۭا
 
-**4:32**  Peidiwch â chwennych yr hyn y mae Allah wedi ei roi i rai ohonoch yn hytrach nag i eraill. I ddynion y mae cyfran o’r hyn maent wedi ei ennill, ac i wragedd y mae cyfran o’r hyn maent wedi ei ennill. A gofynnwch i Allah o’i haelioni. Mae gan Allah wybodaeth o bopeth.
+**4:32**  Peidiwch â chwennych yr hyn y mae Allah wedi ei roi i rai ohonoch yn hytrach nag i eraill. I ddynion y mae cyfran o'r hyn maent wedi ei ennill, ac i wragedd y mae cyfran o'r hyn maent wedi ei ennill. A gofynnwch i Allah o'i haelioni. Mae gan Allah wybodaeth o bopeth.
 
 وَلَا تَتَمَنَّوْا۟ مَا فَضَّلَ ٱللَّهُ بِهِۦ بَعْضَكُمْ عَلَىٰ بَعْضٍۢ ۚ لِّلرِّجَالِ نَصِيبٌۭ مِّمَّا ٱكْتَسَبُوا۟ ۖ وَلِلنِّسَآءِ نَصِيبٌۭ مِّمَّا ٱكْتَسَبْنَ ۚ وَسْـَٔلُوا۟ ٱللَّهَ مِن فَضْلِهِۦٓ ۗ إِنَّ ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًۭا
 
@@ -2302,31 +2302,31 @@
 
 وَلِكُلٍّۢ جَعَلْنَا مَوَٰلِىَ مِمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ ۚ وَٱلَّذِينَ عَقَدَتْ أَيْمَٰنُكُمْ فَـَٔاتُوهُمْ نَصِيبَهُمْ ۚ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدًا
 
-**4:34**  Dynion yw amddiffynwyr a chynhalwyr gwragedd, gan fod Allah wedi rhoi mantais i rai ohonynt dros eraill, ac am eu bod yn gwario o’u cyfoeth. Mae’r gwragedd da yn ufudd, yn gwarchod yr hyn y byddai Allah yn ei gael wedi ei warchod. O ran y rhai y mae arnoch ofn anffyddlondeb, cynghorwch nhw, a gadaelwch nhw yn eu gwelyau, yna trawch nhw. Ond os ufuddhânt i chi, peidiwch â cheisio ffordd yn eu herbyn. Mae Allah yn Aruchel, yn Fawr.
+**4:34**  Dynion yw amddiffynwyr a chynhalwyr gwragedd, gan fod Allah wedi rhoi mantais i rai ohonynt dros eraill, ac am eu bod yn gwario o'u cyfoeth. Mae'r gwragedd da yn ufudd, yn gwarchod yr hyn y byddai Allah yn ei gael wedi ei warchod. O ran y rhai y mae arnoch ofn anffyddlondeb, cynghorwch nhw, a gadaelwch nhw yn eu gwelyau, yna trawch nhw. Ond os ufuddhânt i chi, peidiwch â cheisio ffordd yn eu herbyn. Mae Allah yn Aruchel, yn Fawr.
 
 ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍۢ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ ۚ فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ حَٰفِظَٰتٌۭ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ ۚ وَٱلَّٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ ۖ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا ۗ إِنَّ ٱللَّهَ كَانَ عَلِيًّۭا كَبِيرًۭا
 
-**4:35**  Os ofnwch doriad rhwng y ddau, penodwch gyflafareddwr o’i deulu ef a chyflafareddwr o’i theulu hi. Os dymunant gymodi, bydd Allah yn eu dwyn at ei gilydd. Mae Allah yn Wybodus, yn Arbenigol.
+**4:35**  Os ofnwch doriad rhwng y ddau, penodwch gyflafareddwr o'i deulu ef a chyflafareddwr o'i theulu hi. Os dymunant gymodi, bydd Allah yn eu dwyn at ei gilydd. Mae Allah yn Wybodus, yn Arbenigol.
 
 وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَٱبْعَثُوا۟ حَكَمًۭا مِّنْ أَهْلِهِۦ وَحَكَمًۭا مِّنْ أَهْلِهَآ إِن يُرِيدَآ إِصْلَٰحًۭا يُوَفِّقِ ٱللَّهُ بَيْنَهُمَآ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا خَبِيرًۭا
 
-**4:36**  Addolwch Allah, a pheidiwch â phriodoli partneriaid iddo, a byddwch yn dda i’r rhieni, a’r perthnasau, a’r amddifaid, a’r tlodion, a’r cymydog drws nesaf, a’r cymydog pell, a’r cydymaith agos, a’r teithiwr, a’ch gweision. Nid yw Allah yn caru’r balch ffroenuchel.
+**4:36**  Addolwch Allah, a pheidiwch â phriodoli partneriaid iddo, a byddwch yn dda i'r rhieni, a'r perthnasau, a'r amddifaid, a'r tlodion, a'r cymydog drws nesaf, a'r cymydog pell, a'r cydymaith agos, a'r teithiwr, a'ch gweision. Nid yw Allah yn caru'r balch ffroenuchel.
 
 ۞ وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًۭٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًۭا وَبِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَٰنُكُمْ ۗ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًۭا فَخُورًا
 
-**4:37**  Y rhai sy’n gybyddlyd, ac yn annog pobl i gybydd-dod, ac yn cuddio’r hyn y mae Allah wedi ei roi iddynt o’i haelioni. Yr ydym wedi paratoi ar gyfer yr anghredinwyr gosb warthus.
+**4:37**  Y rhai sy'n gybyddlyd, ac yn annog pobl i gybydd-dod, ac yn cuddio'r hyn y mae Allah wedi ei roi iddynt o'i haelioni. Yr ydym wedi paratoi ar gyfer yr anghredinwyr gosb warthus.
 
 ٱلَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ ٱلنَّاسَ بِٱلْبُخْلِ وَيَكْتُمُونَ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ ۗ وَأَعْتَدْنَا لِلْكَٰفِرِينَ عَذَابًۭا مُّهِينًۭا
 
-**4:38**  A’r rhai sy’n gwario eu harian i gael eu gweld gan bobl, ac nid ydynt yn credu yn Allah nac yn y Dydd Olaf. Pwy bynnag sydd â Satan yn gydymaith — mor ddrwg y cydymaith.
+**4:38**  A'r rhai sy'n gwario eu harian i gael eu gweld gan bobl, ac nid ydynt yn credu yn Allah nac yn y Dydd Olaf. Pwy bynnag sydd â Satan yn gydymaith — mor ddrwg y cydymaith.
 
 وَٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ رِئَآءَ ٱلنَّاسِ وَلَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْءَاخِرِ ۗ وَمَن يَكُنِ ٱلشَّيْطَٰنُ لَهُۥ قَرِينًۭا فَسَآءَ قَرِينًۭا
 
-**4:39**  Beth fyddent wedi ei golli, pe baent wedi credu yn Allah a’r Dydd Olaf, ac wedi rhoi o’r hyn y mae Allah wedi ei ddarparu iddynt? Mae Allah yn eu hadnabod yn dda iawn.
+**4:39**  Beth fyddent wedi ei golli, pe baent wedi credu yn Allah a'r Dydd Olaf, ac wedi rhoi o'r hyn y mae Allah wedi ei ddarparu iddynt? Mae Allah yn eu hadnabod yn dda iawn.
 
 وَمَاذَا عَلَيْهِمْ لَوْ ءَامَنُوا۟ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَأَنفَقُوا۟ مِمَّا رَزَقَهُمُ ٱللَّهُ ۚ وَكَانَ ٱللَّهُ بِهِمْ عَلِيمًا
 
-**4:40**  Nid yw Allah yn cyflawni anghyfiawnder pwysau atom; ac os oes gweithred dda, mae’n ei dyblu, ac yn rhoi o’i Bresenoldeb iawndal ardderchog.
+**4:40**  Nid yw Allah yn cyflawni anghyfiawnder pwysau atom; ac os oes gweithred dda, mae'n ei dyblu, ac yn rhoi o'i Bresenoldeb iawndal ardderchog.
 
 إِنَّ ٱللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍۢ ۖ وَإِن تَكُ حَسَنَةًۭ يُضَٰعِفْهَا وَيُؤْتِ مِن لَّدُنْهُ أَجْرًا عَظِيمًۭا
 
@@ -2334,15 +2334,15 @@
 
 فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أُمَّةٍۭ بِشَهِيدٍۢ وَجِئْنَا بِكَ عَلَىٰ هَٰٓؤُلَآءِ شَهِيدًۭا
 
-**4:42**  Ar y Dydd hwnnw, bydd y rhai a anghredodd ac a anufuddhaodd i’r Cenhadwr yn dymuno y byddai’r ddaear wedi ei lefelu drostynt. Ni fyddant yn cuddio dim oddi wrth Allah.
+**4:42**  Ar y Dydd hwnnw, bydd y rhai a anghredodd ac a anufuddhaodd i'r Cenhadwr yn dymuno y byddai'r ddaear wedi ei lefelu drostynt. Ni fyddant yn cuddio dim oddi wrth Allah.
 
 يَوْمَئِذٍۢ يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ وَعَصَوُا۟ ٱلرَّسُولَ لَوْ تُسَوَّىٰ بِهِمُ ٱلْأَرْضُ وَلَا يَكْتُمُونَ ٱللَّهَ حَدِيثًۭا
 
-**4:43**  O chi sy’n credu! Peidiwch â nesáu at y weddi tra byddwch yn feddw, fel y gwyddoch yr hyn yr ydych yn ei ddweud; nac mewn cyflwr o amhurdeb — oni bai eich bod yn teithio — nes i chi ymolchi. Os ydych yn sâl, neu’n teithio, neu os bydd un ohonoch yn dod o’r tŷ bach, neu os ydych wedi cael cyswllt â gwragedd, ac ni allwch ddod o hyd i ddŵr, dewch o hyd i ddaear lân a sychwch eich wynebau a’ch dwylo ag ef. Mae Allah yn Faddeugar ac yn Faddauwr.
+**4:43**  O chi sy'n credu! Peidiwch â nesáu at y weddi tra byddwch yn feddw, fel y gwyddoch yr hyn yr ydych yn ei ddweud; nac mewn cyflwr o amhurdeb — oni bai eich bod yn teithio — nes i chi ymolchi. Os ydych yn sâl, neu'n teithio, neu os bydd un ohonoch yn dod o'r tŷ bach, neu os ydych wedi cael cyswllt â gwragedd, ac ni allwch ddod o hyd i ddŵr, dewch o hyd i ddaear lân a sychwch eich wynebau a'ch dwylo ag ef. Mae Allah yn Faddeugar ac yn Faddauwr.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌۭ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءًۭ فَتَيَمَّمُوا۟ صَعِيدًۭا طَيِّبًۭا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ ۗ إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا
 
-**4:44**  Oni welaist ti’r rhai y rhoddwyd cyfran o’r Llyfr iddynt? Maent yn prynu cyfeiliorn, ac yn dymuno y byddech yn colli’r ffordd.
+**4:44**  Oni welaist ti'r rhai y rhoddwyd cyfran o'r Llyfr iddynt? Maent yn prynu cyfeiliorn, ac yn dymuno y byddech yn colli'r ffordd.
 
 أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًۭا مِّنَ ٱلْكِتَٰبِ يَشْتَرُونَ ٱلضَّلَٰلَةَ وَيُرِيدُونَ أَن تَضِلُّوا۟ ٱلسَّبِيلَ
 
@@ -2350,19 +2350,19 @@
 
 وَٱللَّهُ أَعْلَمُ بِأَعْدَآئِكُمْ ۚ وَكَفَىٰ بِٱللَّهِ وَلِيًّۭا وَكَفَىٰ بِٱللَّهِ نَصِيرًۭا
 
-**4:46**  Ymhlith yr Iddewon y mae rhai sy’n cymryd geiriau allan o’u cyd-destun, ac yn dweud, “Rydym yn clywed ac yn anufuddhau”, a “Clyw heb wrando”, ac “Edrych arnom,” yn troi â’u tafodau ac yn athrod y grefydd. Pe baent wedi dweud, “Rydym yn clywed ac yn ufuddhau”, a “Gwrandewch”, a “Rhowch eich sylw i ni,” byddai wedi bod yn well iddynt, ac yn fwy uniawn. Ond mae Allah wedi eu melltithio am eu hanghrediniaeth; nid ydynt yn credu ond ychydig.
+**4:46**  Ymhlith yr Iddewon y mae rhai sy'n cymryd geiriau allan o'u cyd-destun, ac yn dweud, "Rydym yn clywed ac yn anufuddhau", a "Clyw heb wrando", ac "Edrych arnom," yn troi â'u tafodau ac yn athrod y grefydd. Pe baent wedi dweud, "Rydym yn clywed ac yn ufuddhau", a "Gwrandewch", a "Rhowch eich sylw i ni," byddai wedi bod yn well iddynt, ac yn fwy uniawn. Ond mae Allah wedi eu melltithio am eu hanghrediniaeth; nid ydynt yn credu ond ychydig.
 
 مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ مُسْمَعٍۢ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًۭا فِى ٱلدِّينِ ۚ وَلَوْ أَنَّهُمْ قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًۭا لَّهُمْ وَأَقْوَمَ وَلَٰكِن لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًۭا
 
-**4:47**  O chi y rhoddwyd y Llyfr iddynt! Credwch yn yr hyn yr ydym wedi ei anfon i lawr, yn cadarnhau’r hyn sydd gennych, cyn i ni ddileu wynebau a’u troi tu mewn allan, neu eu melltithio fel y melltithiasom dorwyr y Saboth. Mae gorchymyn Allah bob amser yn cael ei wneud.
+**4:47**  O chi y rhoddwyd y Llyfr iddynt! Credwch yn yr hyn yr ydym wedi ei anfon i lawr, yn cadarnhau'r hyn sydd gennych, cyn i ni ddileu wynebau a'u troi tu mewn allan, neu eu melltithio fel y melltithiasom dorwyr y Saboth. Mae gorchymyn Allah bob amser yn cael ei wneud.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ ءَامِنُوا۟ بِمَا نَزَّلْنَا مُصَدِّقًۭا لِّمَا مَعَكُم مِّن قَبْلِ أَن نَّطْمِسَ وُجُوهًۭا فَنَرُدَّهَا عَلَىٰٓ أَدْبَارِهَآ أَوْ نَلْعَنَهُمْ كَمَا لَعَنَّآ أَصْحَٰبَ ٱلسَّبْتِ ۚ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا
 
-**4:48**  Nid yw Allah yn maddau cysylltu ag Ef, ond mae’n maddau unrhyw beth llai na hynny i bwy bynnag a fyn. Pwy bynnag sy’n cysylltu unrhyw beth ag Allah sydd wedi dyfeisio pechod aruthrol.
+**4:48**  Nid yw Allah yn maddau cysylltu ag Ef, ond mae'n maddau unrhyw beth llai na hynny i bwy bynnag a fyn. Pwy bynnag sy'n cysylltu unrhyw beth ag Allah sydd wedi dyfeisio pechod aruthrol.
 
 إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَقَدِ ٱفْتَرَىٰٓ إِثْمًا عَظِيمًا
 
-**4:49**  Oni welaist ti’r rhai sy’n hawlio purdeb iddynt eu hunain? Yn hytrach, mae Allah yn puro pwy bynnag a fyn, ac ni chânt eu camdrin ddim.
+**4:49**  Oni welaist ti'r rhai sy'n hawlio purdeb iddynt eu hunain? Yn hytrach, mae Allah yn puro pwy bynnag a fyn, ac ni chânt eu camdrin ddim.
 
 أَلَمْ تَرَ إِلَى ٱلَّذِينَ يُزَكُّونَ أَنفُسَهُم ۚ بَلِ ٱللَّهُ يُزَكِّى مَن يَشَآءُ وَلَا يُظْلَمُونَ فَتِيلًا
 
@@ -2370,59 +2370,59 @@
 
 ٱنظُرْ كَيْفَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ ۖ وَكَفَىٰ بِهِۦٓ إِثْمًۭا مُّبِينًا
 
-**4:51**  Oni welaist ti’r rhai y rhoddwyd cyfran o’r Llyfr iddynt? Maent yn credu mewn ofergoeliaeth a phwerau drwg, ac yn dweud am y rhai sy’n anghredu, “Y rhain sy’n cael eu harwain orau ar y ffordd na’r credinwyr.”
+**4:51**  Oni welaist ti'r rhai y rhoddwyd cyfran o'r Llyfr iddynt? Maent yn credu mewn ofergoeliaeth a phwerau drwg, ac yn dweud am y rhai sy'n anghredu, "Y rhain sy'n cael eu harwain orau ar y ffordd na'r credinwyr."
 
 أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًۭا مِّنَ ٱلْكِتَٰبِ يُؤْمِنُونَ بِٱلْجِبْتِ وَٱلطَّٰغُوتِ وَيَقُولُونَ لِلَّذِينَ كَفَرُوا۟ هَٰٓؤُلَآءِ أَهْدَىٰ مِنَ ٱلَّذِينَ ءَامَنُوا۟ سَبِيلًا
 
-**4:52**  Y rhai hynny yw’r rhai y mae Allah wedi eu melltithio. Pwy bynnag y mae Allah yn ei felltithio, ni chei achubwr iddo.
+**4:52**  Y rhai hynny yw'r rhai y mae Allah wedi eu melltithio. Pwy bynnag y mae Allah yn ei felltithio, ni chei achubwr iddo.
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ ۖ وَمَن يَلْعَنِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ نَصِيرًا
 
-**4:53**  Neu a ydynt yn berchen cyfran o’r deyrnas? Yna ni roddent i bobl ronyn.
+**4:53**  Neu a ydynt yn berchen cyfran o'r deyrnas? Yna ni roddent i bobl ronyn.
 
 أَمْ لَهُمْ نَصِيبٌۭ مِّنَ ٱلْمُلْكِ فَإِذًۭا لَّا يُؤْتُونَ ٱلنَّاسَ نَقِيرًا
 
-**4:54**  Neu a ydynt yn eiddigeddu wrth y bobl am yr hyn y mae Allah wedi ei roi iddynt o’i ras? Yr ydym wedi rhoi i deulu Abraham y Llyfr a doethineb, ac yr ydym wedi rhoi iddynt deyrnas fawr.
+**4:54**  Neu a ydynt yn eiddigeddu wrth y bobl am yr hyn y mae Allah wedi ei roi iddynt o'i ras? Yr ydym wedi rhoi i deulu Abraham y Llyfr a doethineb, ac yr ydym wedi rhoi iddynt deyrnas fawr.
 
 أَمْ يَحْسُدُونَ ٱلنَّاسَ عَلَىٰ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ ۖ فَقَدْ ءَاتَيْنَآ ءَالَ إِبْرَٰهِيمَ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَءَاتَيْنَٰهُم مُّلْكًا عَظِيمًۭا
 
-**4:55**  Yn eu plith y mae’r rhai a gredodd ynddo, ac yn eu plith y mae’r rhai a ataliwyd oddi wrtho. Mae Uffern yn Uffern ddigonol.
+**4:55**  Yn eu plith y mae'r rhai a gredodd ynddo, ac yn eu plith y mae'r rhai a ataliwyd oddi wrtho. Mae Uffern yn Uffern ddigonol.
 
 فَمِنْهُم مَّنْ ءَامَنَ بِهِۦ وَمِنْهُم مَّن صَدَّ عَنْهُ ۚ وَكَفَىٰ بِجَهَنَّمَ سَعِيرًا
 
-**4:56**  Y rhai sy’n gwrthod ein datguddiadau — byddwn yn eu llosgi mewn Tân. Bob tro y bydd eu crwyn wedi eu coginio, byddwn yn eu disodli â chrwyn eraill, fel y byddant yn profi’r dioddefaint. Mae Allah yn Fwyaf Nerthol, yn Fwyaf Doeth.
+**4:56**  Y rhai sy'n gwrthod ein datguddiadau — byddwn yn eu llosgi mewn Tân. Bob tro y bydd eu crwyn wedi eu coginio, byddwn yn eu disodli â chrwyn eraill, fel y byddant yn profi'r dioddefaint. Mae Allah yn Fwyaf Nerthol, yn Fwyaf Doeth.
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا سَوْفَ نُصْلِيهِمْ نَارًۭا كُلَّمَا نَضِجَتْ جُلُودُهُم بَدَّلْنَٰهُمْ جُلُودًا غَيْرَهَا لِيَذُوقُوا۟ ٱلْعَذَابَ ۗ إِنَّ ٱللَّهَ كَانَ عَزِيزًا حَكِيمًۭا
 
-**4:57**  O ran y rhai sy’n credu ac yn gwneud gweithredoedd da, byddwn yn eu derbyn i Erddi y mae afonydd yn llifo oddi tanynt, yn aros ynddynt am byth. Bydd ganddynt briodau puredig ynddynt, a byddwn yn eu derbyn i gysgod cysgodol.
+**4:57**  O ran y rhai sy'n credu ac yn gwneud gweithredoedd da, byddwn yn eu derbyn i Erddi y mae afonydd yn llifo oddi tanynt, yn aros ynddynt am byth. Bydd ganddynt briodau puredig ynddynt, a byddwn yn eu derbyn i gysgod cysgodol.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ سَنُدْخِلُهُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًۭا ۖ لَّهُمْ فِيهَآ أَزْوَٰجٌۭ مُّطَهَّرَةٌۭ ۖ وَنُدْخِلُهُمْ ظِلًّۭا ظَلِيلًا
 
-**4:58**  Mae Allah yn eich cyfarwyddo i roi yn ôl bethau a ymddiriedwyd i chi i’w perchnogion. A phan farnwch rhwng pobl, barnwch â chyfiawnder. Mae cyfarwyddiadau Allah i chi yn ardderchog. Mae Allah yn Hollglywedol, yn Hollweledol.
+**4:58**  Mae Allah yn eich cyfarwyddo i roi yn ôl bethau a ymddiriedwyd i chi i'w perchnogion. A phan farnwch rhwng pobl, barnwch â chyfiawnder. Mae cyfarwyddiadau Allah i chi yn ardderchog. Mae Allah yn Hollglywedol, yn Hollweledol.
 
 ۞ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا۟ ٱلْأَمَٰنَٰتِ إِلَىٰٓ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ ٱلنَّاسِ أَن تَحْكُمُوا۟ بِٱلْعَدْلِ ۚ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓ ۗ إِنَّ ٱللَّهَ كَانَ سَمِيعًۢا بَصِيرًۭا
 
-**4:59**  O chi sy’n credu! Ufuddhewch i Allah ac ufuddhewch i’r Cenhadwr a’r rhai mewn awdurdod yn eich plith. Ac os ymrysonwch dros unrhyw beth, cyfeiriwch ef at Allah a’r Cenhadwr, os ydych yn credu yn Allah a’r Dydd Olaf. Mae hynny orau, a phenderfyniad mwyaf ardderchog.
+**4:59**  O chi sy'n credu! Ufuddhewch i Allah ac ufuddhewch i'r Cenhadwr a'r rhai mewn awdurdod yn eich plith. Ac os ymrysonwch dros unrhyw beth, cyfeiriwch ef at Allah a'r Cenhadwr, os ydych yn credu yn Allah a'r Dydd Olaf. Mae hynny orau, a phenderfyniad mwyaf ardderchog.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَأُو۟لِى ٱلْأَمْرِ مِنكُمْ ۖ فَإِن تَنَٰزَعْتُمْ فِى شَىْءٍۢ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۚ ذَٰلِكَ خَيْرٌۭ وَأَحْسَنُ تَأْوِيلًا
 
-**4:60**  Oni welaist ti’r rhai sy’n hawlio eu bod yn credu yn yr hyn a ddatguddiwyd i ti, ac yn yr hyn a ddatguddiwyd o’th flaen, eto maent yn ceisio ffynonellau Satanaidd ar gyfer deddfwriaeth, er gwaethaf cael eu gorchymyn i’w gwrthod? Mae Satan yn bwriadu eu camarwain ymhell i ffwrdd.
+**4:60**  Oni welaist ti'r rhai sy'n hawlio eu bod yn credu yn yr hyn a ddatguddiwyd i ti, ac yn yr hyn a ddatguddiwyd o'th flaen, eto maent yn ceisio ffynonellau Satanaidd ar gyfer deddfwriaeth, er gwaethaf cael eu gorchymyn i'w gwrthod? Mae Satan yn bwriadu eu camarwain ymhell i ffwrdd.
 
 أَلَمْ تَرَ إِلَى ٱلَّذِينَ يَزْعُمُونَ أَنَّهُمْ ءَامَنُوا۟ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ يُرِيدُونَ أَن يَتَحَاكَمُوٓا۟ إِلَى ٱلطَّٰغُوتِ وَقَدْ أُمِرُوٓا۟ أَن يَكْفُرُوا۟ بِهِۦ وَيُرِيدُ ٱلشَّيْطَٰنُ أَن يُضِلَّهُمْ ضَلَٰلًۢا بَعِيدًۭا
 
-**4:61**  A phan ddywedir wrthynt, “Dewch at yr hyn y mae Allah wedi ei ddatguddio, ac at y Cenhadwr,” gweli’r rhagrithwyr yn dy osgoi’n llwyr.
+**4:61**  A phan ddywedir wrthynt, "Dewch at yr hyn y mae Allah wedi ei ddatguddio, ac at y Cenhadwr," gweli'r rhagrithwyr yn dy osgoi'n llwyr.
 
 وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ رَأَيْتَ ٱلْمُنَٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودًۭا
 
-**4:62**  Sut amdano pan fydd trychineb yn eu taro oherwydd yr hyn y mae eu dwylo wedi ei roi ymlaen, ac yna maent yn dod atat yn tyngu wrth Allah: “Dim ond ewyllys da a chymod a fwriadasom”?
+**4:62**  Sut amdano pan fydd trychineb yn eu taro oherwydd yr hyn y mae eu dwylo wedi ei roi ymlaen, ac yna maent yn dod atat yn tyngu wrth Allah: "Dim ond ewyllys da a chymod a fwriadasom"?
 
 فَكَيْفَ إِذَآ أَصَٰبَتْهُم مُّصِيبَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ ثُمَّ جَآءُوكَ يَحْلِفُونَ بِٱللَّهِ إِنْ أَرَدْنَآ إِلَّآ إِحْسَٰنًۭا وَتَوْفِيقًا
 
-**4:63**  Nhw yw’r rhai y mae Allah yn gwybod yr hyn sydd yn eu calonnau. Felly anwybydda nhw, a chynghora nhw, a dywed wrthynt yn eu cylch eu hunain eiriau treiddiol.
+**4:63**  Nhw yw'r rhai y mae Allah yn gwybod yr hyn sydd yn eu calonnau. Felly anwybydda nhw, a chynghora nhw, a dywed wrthynt yn eu cylch eu hunain eiriau treiddiol.
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ يَعْلَمُ ٱللَّهُ مَا فِى قُلُوبِهِمْ فَأَعْرِضْ عَنْهُمْ وَعِظْهُمْ وَقُل لَّهُمْ فِىٓ أَنفُسِهِمْ قَوْلًۢا بَلِيغًۭا
 
-**4:64**  Ni anfonasom unrhyw genhadwr ond i gael ei ufuddhau trwy ganiatâd Allah. Pe baent, pan wnaethant gam â nhw eu hunain, wedi dod atat, ac wedi gweddïo am faddeuant Allah, a’r Cenhadwr wedi gweddïo am eu maddeuant, byddent wedi dod o hyd i Allah yn Edifeiriol ac yn Drugarog.
+**4:64**  Ni anfonasom unrhyw genhadwr ond i gael ei ufuddhau trwy ganiatâd Allah. Pe baent, pan wnaethant gam â nhw eu hunain, wedi dod atat, ac wedi gweddïo am faddeuant Allah, a'r Cenhadwr wedi gweddïo am eu maddeuant, byddent wedi dod o hyd i Allah yn Edifeiriol ac yn Drugarog.
 
 وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذْنِ ٱللَّهِ ۚ وَلَوْ أَنَّهُمْ إِذ ظَّلَمُوٓا۟ أَنفُسَهُمْ جَآءُوكَ فَٱسْتَغْفَرُوا۟ ٱللَّهَ وَٱسْتَغْفَرَ لَهُمُ ٱلرَّسُولُ لَوَجَدُوا۟ ٱللَّهَ تَوَّابًۭا رَّحِيمًۭا
 
@@ -2430,11 +2430,11 @@
 
 فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا۟ فِىٓ أَنفُسِهِمْ حَرَجًۭا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا۟ تَسْلِيمًۭا
 
-**4:66**  Pe baem wedi ordeinio iddynt: “Lladdwch eich hunain,” neu “Gadewch eich cartrefi,” ni fyddent wedi ei wneud, ac eithrio ychydig ohonynt. Ond pe baent wedi gwneud yr hyn y cawsant eu cyfarwyddo i’w wneud, byddai wedi bod yn well iddynt, ac yn gadarnhad cadarnach.
+**4:66**  Pe baem wedi ordeinio iddynt: "Lladdwch eich hunain," neu "Gadewch eich cartrefi," ni fyddent wedi ei wneud, ac eithrio ychydig ohonynt. Ond pe baent wedi gwneud yr hyn y cawsant eu cyfarwyddo i'w wneud, byddai wedi bod yn well iddynt, ac yn gadarnhad cadarnach.
 
 وَلَوْ أَنَّا كَتَبْنَا عَلَيْهِمْ أَنِ ٱقْتُلُوٓا۟ أَنفُسَكُمْ أَوِ ٱخْرُجُوا۟ مِن دِيَٰرِكُم مَّا فَعَلُوهُ إِلَّا قَلِيلٌۭ مِّنْهُمْ ۖ وَلَوْ أَنَّهُمْ فَعَلُوا۟ مَا يُوعَظُونَ بِهِۦ لَكَانَ خَيْرًۭا لَّهُمْ وَأَشَدَّ تَثْبِيتًۭا
 
-**4:67**  A byddem wedi rhoi iddynt o’n presenoldeb iawndal cyfoethog.
+**4:67**  A byddem wedi rhoi iddynt o'n presenoldeb iawndal cyfoethog.
 
 وَإِذًۭا لَّءَاتَيْنَٰهُم مِّن لَّدُنَّآ أَجْرًا عَظِيمًۭا
 
@@ -2442,71 +2442,71 @@
 
 وَلَهَدَيْنَٰهُمْ صِرَٰطًۭا مُّسْتَقِيمًۭا
 
-**4:69**  Pwy bynnag sy’n ufuddhau i Allah a’r Cenhadwr — y rhain sydd gyda’r rhai y mae Allah wedi eu bendithio — ymhlith y proffwydi, a’r diffuant, a’r merthyron, a’r rhai uniawn. Rhagorol yw’r rhai hynny fel cymdeithion.
+**4:69**  Pwy bynnag sy'n ufuddhau i Allah a'r Cenhadwr — y rhain sydd gyda'r rhai y mae Allah wedi eu bendithio — ymhlith y proffwydi, a'r diffuant, a'r merthyron, a'r rhai uniawn. Rhagorol yw'r rhai hynny fel cymdeithion.
 
 وَمَن يُطِعِ ٱللَّهَ وَٱلرَّسُولَ فَأُو۟لَٰٓئِكَ مَعَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ وَٱلصِّدِّيقِينَ وَٱلشُّهَدَآءِ وَٱلصَّٰلِحِينَ ۚ وَحَسُنَ أُو۟لَٰٓئِكَ رَفِيقًۭا
 
-**4:70**  Dyna’r gras oddi wrth Allah. Mae Allah yn ddigon fel Gwybodwr.
+**4:70**  Dyna'r gras oddi wrth Allah. Mae Allah yn ddigon fel Gwybodwr.
 
 ذَٰلِكَ ٱلْفَضْلُ مِنَ ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ عَلِيمًۭا
 
-**4:71**  O chi sy’n credu! Cymerwch eich rhagofalon, ac ymgasglwch mewn grwpiau, neu ymgasglwch gyda’ch gilydd.
+**4:71**  O chi sy'n credu! Cymerwch eich rhagofalon, ac ymgasglwch mewn grwpiau, neu ymgasglwch gyda'ch gilydd.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ خُذُوا۟ حِذْرَكُمْ فَٱنفِرُوا۟ ثُبَاتٍ أَوِ ٱنفِرُوا۟ جَمِيعًۭا
 
-**4:72**  Yn eich plith y mae’r hwn sy’n llusgo ar ôl. Yna, pan fydd trychineb yn eich taro, mae’n dweud, “Mae Allah wedi fy ffafrio, na chefais fy merthyru gyda nhw.”
+**4:72**  Yn eich plith y mae'r hwn sy'n llusgo ar ôl. Yna, pan fydd trychineb yn eich taro, mae'n dweud, "Mae Allah wedi fy ffafrio, na chefais fy merthyru gyda nhw."
 
 وَإِنَّ مِنكُمْ لَمَن لَّيُبَطِّئَنَّ فَإِنْ أَصَٰبَتْكُم مُّصِيبَةٌۭ قَالَ قَدْ أَنْعَمَ ٱللَّهُ عَلَىَّ إِذْ لَمْ أَكُن مَّعَهُمْ شَهِيدًۭا
 
-**4:73**  Ond pan ddaw rhywfaint o haelioni oddi wrth Allah atoch, mae’n dweud — fel pe na bai hoffter yn bodoli rhyngoch chi ag ef — “Pe bawn wedi bod gyda nhw, byddwn wedi cyflawni buddugoliaeth fawr.”
+**4:73**  Ond pan ddaw rhywfaint o haelioni oddi wrth Allah atoch, mae'n dweud — fel pe na bai hoffter yn bodoli rhyngoch chi ag ef — "Pe bawn wedi bod gyda nhw, byddwn wedi cyflawni buddugoliaeth fawr."
 
 وَلَئِنْ أَصَٰبَكُمْ فَضْلٌۭ مِّنَ ٱللَّهِ لَيَقُولَنَّ كَأَن لَّمْ تَكُنۢ بَيْنَكُمْ وَبَيْنَهُۥ مَوَدَّةٌۭ يَٰلَيْتَنِى كُنتُ مَعَهُمْ فَأَفُوزَ فَوْزًا عَظِيمًۭا
 
-**4:74**  Gadewch i’r rhai sy’n gwerthu bywyd y byd hwn am y Bywyd ar Ôl ymladd yn achos Allah. Pwy bynnag sy’n ymladd yn achos Allah, ac yna’n cael ei ladd, neu’n cyflawni buddugoliaeth, byddwn yn rhoi iddo iawndal mawr.
+**4:74**  Gadewch i'r rhai sy'n gwerthu bywyd y byd hwn am y Bywyd ar Ôl ymladd yn achos Allah. Pwy bynnag sy'n ymladd yn achos Allah, ac yna'n cael ei ladd, neu'n cyflawni buddugoliaeth, byddwn yn rhoi iddo iawndal mawr.
 
 ۞ فَلْيُقَٰتِلْ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يَشْرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْءَاخِرَةِ ۚ وَمَن يُقَٰتِلْ فِى سَبِيلِ ٱللَّهِ فَيُقْتَلْ أَوْ يَغْلِبْ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًۭا
 
-**4:75**  A pham na fyddech yn ymladd yn achos Allah, a’r dynion diobaith, a gwragedd, a phlant, yn gweiddi, “Ein Harglwydd, gwared ni o’r dref hon y mae ei phobl yn ormesol, a phenoda i ni o’th Bresenoldeb Amddiffynnwr, a phenoda i ni o’th Bresenoldeb Fuddugwr.”
+**4:75**  A pham na fyddech yn ymladd yn achos Allah, a'r dynion diobaith, a gwragedd, a phlant, yn gweiddi, "Ein Harglwydd, gwared ni o'r dref hon y mae ei phobl yn ormesol, a phenoda i ni o'th Bresenoldeb Amddiffynnwr, a phenoda i ni o'th Bresenoldeb Fuddugwr."
 
 وَمَا لَكُمْ لَا تُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلْوِلْدَٰنِ ٱلَّذِينَ يَقُولُونَ رَبَّنَآ أَخْرِجْنَا مِنْ هَٰذِهِ ٱلْقَرْيَةِ ٱلظَّالِمِ أَهْلُهَا وَٱجْعَل لَّنَا مِن لَّدُنكَ وَلِيًّۭا وَٱجْعَل لَّنَا مِن لَّدُنكَ نَصِيرًا
 
-**4:76**  Y rhai sy’n credu sy’n ymladd yn achos Allah, tra bod y rhai sy’n anghredu yn ymladd yn achos Drwg. Felly ymladdwch gynghreiriaid y Diafol. Yn sicr mae strategaeth y Diafol yn wan.
+**4:76**  Y rhai sy'n credu sy'n ymladd yn achos Allah, tra bod y rhai sy'n anghredu yn ymladd yn achos Drwg. Felly ymladdwch gynghreiriaid y Diafol. Yn sicr mae strategaeth y Diafol yn wan.
 
 ٱلَّذِينَ ءَامَنُوا۟ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ ۖ وَٱلَّذِينَ كَفَرُوا۟ يُقَٰتِلُونَ فِى سَبِيلِ ٱلطَّٰغُوتِ فَقَٰتِلُوٓا۟ أَوْلِيَآءَ ٱلشَّيْطَٰنِ ۖ إِنَّ كَيْدَ ٱلشَّيْطَٰنِ كَانَ ضَعِيفًا
 
-**4:77**  Oni welaist ti’r rhai y dywedwyd wrthynt, “Ataliwch eich dwylo, a chynnaliwch eich gweddïau, a gwariwch mewn elusen reolaidd”? Ond pan ordeiniwyd ymladd iddynt, ofnodd carfan ohonynt y bobl fel y dylid ofni Allah, neu hyd yn oed yn fwy. A dywedasant, “Ein Harglwydd, pam yr ordeiniaist ymladd i ni? Pe baet ond yn ei ohirio i ni am ychydig.” Dywed, “Mae mwynhadau’r bywyd hwn yn fyr, ond mae’r Bywyd ar Ôl yn well i’r cyfiawn, ac ni chewch eich camdrin ddim.
+**4:77**  Oni welaist ti'r rhai y dywedwyd wrthynt, "Ataliwch eich dwylo, a chynnaliwch eich gweddïau, a gwariwch mewn elusen reolaidd"? Ond pan ordeiniwyd ymladd iddynt, ofnodd carfan ohonynt y bobl fel y dylid ofni Allah, neu hyd yn oed yn fwy. A dywedasant, "Ein Harglwydd, pam yr ordeiniaist ymladd i ni? Pe baet ond yn ei ohirio i ni am ychydig." Dywed, "Mae mwynhadau'r bywyd hwn yn fyr, ond mae'r Bywyd ar Ôl yn well i'r cyfiawn, ac ni chewch eich camdrin ddim.
 
 أَلَمْ تَرَ إِلَى ٱلَّذِينَ قِيلَ لَهُمْ كُفُّوٓا۟ أَيْدِيَكُمْ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ إِذَا فَرِيقٌۭ مِّنْهُمْ يَخْشَوْنَ ٱلنَّاسَ كَخَشْيَةِ ٱللَّهِ أَوْ أَشَدَّ خَشْيَةًۭ ۚ وَقَالُوا۟ رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا ٱلْقِتَالَ لَوْلَآ أَخَّرْتَنَآ إِلَىٰٓ أَجَلٍۢ قَرِيبٍۢ ۗ قُلْ مَتَٰعُ ٱلدُّنْيَا قَلِيلٌۭ وَٱلْءَاخِرَةُ خَيْرٌۭ لِّمَنِ ٱتَّقَىٰ وَلَا تُظْلَمُونَ فَتِيلًا
 
-**4:78**  Lle bynnag y byddwch, bydd marwolaeth yn eich goddiweddyd, hyd yn oed pe baech mewn tyrau caerog. Pan ddaw ffortiwn da i’w rhan, maent yn dweud, “Hwn sydd oddi wrth Allah.” Ond pan fydd anffawd yn eu taro, maent yn dweud, “Hwn sydd oddi wrthyt ti.” Dywed, “Mae’r cyfan oddi wrth Allah.” Felly beth sy’n bod ar y bobl hyn, nad ydynt prin yn deall dim?
+**4:78**  Lle bynnag y byddwch, bydd marwolaeth yn eich goddiweddyd, hyd yn oed pe baech mewn tyrau caerog. Pan ddaw ffortiwn da i'w rhan, maent yn dweud, "Hwn sydd oddi wrth Allah." Ond pan fydd anffawd yn eu taro, maent yn dweud, "Hwn sydd oddi wrthyt ti." Dywed, "Mae'r cyfan oddi wrth Allah." Felly beth sy'n bod ar y bobl hyn, nad ydynt prin yn deall dim?
 
 أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍۢ مُّشَيَّدَةٍۢ ۗ وَإِن تُصِبْهُمْ حَسَنَةٌۭ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِ ٱللَّهِ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۭ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِكَ ۚ قُلْ كُلٌّۭ مِّنْ عِندِ ٱللَّهِ ۖ فَمَالِ هَٰٓؤُلَآءِ ٱلْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَدِيثًۭا
 
-**4:79**  Pa ddaioni bynnag sy’n digwydd i ti sydd oddi wrth Allah, a pha ddrwg bynnag sy’n digwydd i ti sydd oddi wrthyt dy hun. Anfonasom di i ddynolryw yn genhadwr, ac mae Allah yn Dyst ddigonol.
+**4:79**  Pa ddaioni bynnag sy'n digwydd i ti sydd oddi wrth Allah, a pha ddrwg bynnag sy'n digwydd i ti sydd oddi wrthyt dy hun. Anfonasom di i ddynolryw yn genhadwr, ac mae Allah yn Dyst ddigonol.
 
 مَّآ أَصَابَكَ مِنْ حَسَنَةٍۢ فَمِنَ ٱللَّهِ ۖ وَمَآ أَصَابَكَ مِن سَيِّئَةٍۢ فَمِن نَّفْسِكَ ۚ وَأَرْسَلْنَٰكَ لِلنَّاسِ رَسُولًۭا ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًۭا
 
-**4:80**  Pwy bynnag sy’n ufuddhau i’r Cenhadwr sy’n ufuddhau i Allah. A phwy bynnag sy’n troi ymaith — ni’th anfonasom yn wylwyr drostynt.
+**4:80**  Pwy bynnag sy'n ufuddhau i'r Cenhadwr sy'n ufuddhau i Allah. A phwy bynnag sy'n troi ymaith — ni'th anfonasom yn wylwyr drostynt.
 
 مَّن يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَاعَ ٱللَّهَ ۖ وَمَن تَوَلَّىٰ فَمَآ أَرْسَلْنَٰكَ عَلَيْهِمْ حَفِيظًۭا
 
-**4:81**  Maent yn proffesu ufudd-dod, ond pan fyddant yn gadael dy bresenoldeb, mae rhai ohonynt yn cynllwynio rhywbeth groes i’r hyn a ddywedaist. Ond mae Allah yn ysgrifennu i lawr yr hyn maent yn ei gynllwynio. Felly osgoi nhw, a rho dy ymddiriedaeth yn Allah. Mae Allah yn Warcheidwad ddigonol.
+**4:81**  Maent yn proffesu ufudd-dod, ond pan fyddant yn gadael dy bresenoldeb, mae rhai ohonynt yn cynllwynio rhywbeth groes i'r hyn a ddywedaist. Ond mae Allah yn ysgrifennu i lawr yr hyn maent yn ei gynllwynio. Felly osgoi nhw, a rho dy ymddiriedaeth yn Allah. Mae Allah yn Warcheidwad ddigonol.
 
 وَيَقُولُونَ طَاعَةٌۭ فَإِذَا بَرَزُوا۟ مِنْ عِندِكَ بَيَّتَ طَآئِفَةٌۭ مِّنْهُمْ غَيْرَ ٱلَّذِى تَقُولُ ۖ وَٱللَّهُ يَكْتُبُ مَا يُبَيِّتُونَ ۖ فَأَعْرِضْ عَنْهُمْ وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا
 
-**4:82**  Oni fyfyriant nhw ar y Qur’an? Pe bai oddi wrth unrhyw un heblaw Allah, byddent wedi dod o hyd ynddo i lawer o anghysondeb.
+**4:82**  Oni fyfyriant nhw ar y Qur'an? Pe bai oddi wrth unrhyw un heblaw Allah, byddent wedi dod o hyd ynddo i lawer o anghysondeb.
 
 أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ ۚ وَلَوْ كَانَ مِنْ عِندِ غَيْرِ ٱللَّهِ لَوَجَدُوا۟ فِيهِ ٱخْتِلَٰفًۭا كَثِيرًۭا
 
-**4:83**  Pan ddaw rhywfaint o newyddion diogelwch neu fraw i’w rhan, maent yn ei ddarlledu. Ond pe baent wedi ei gyfeirio at y Cenhadwr, ac at y rhai mewn awdurdod yn eu plith, byddai’r rhai a all dynnu casgliadau ohono wedi ei ddeall. Oni bai am fendith a thrugaredd Allah arnoch, byddech wedi dilyn y Diafol, ac eithrio ychydig.
+**4:83**  Pan ddaw rhywfaint o newyddion diogelwch neu fraw i'w rhan, maent yn ei ddarlledu. Ond pe baent wedi ei gyfeirio at y Cenhadwr, ac at y rhai mewn awdurdod yn eu plith, byddai'r rhai a all dynnu casgliadau ohono wedi ei ddeall. Oni bai am fendith a thrugaredd Allah arnoch, byddech wedi dilyn y Diafol, ac eithrio ychydig.
 
 وَإِذَا جَآءَهُمْ أَمْرٌۭ مِّنَ ٱلْأَمْنِ أَوِ ٱلْخَوْفِ أَذَاعُوا۟ بِهِۦ ۖ وَلَوْ رَدُّوهُ إِلَى ٱلرَّسُولِ وَإِلَىٰٓ أُو۟لِى ٱلْأَمْرِ مِنْهُمْ لَعَلِمَهُ ٱلَّذِينَ يَسْتَنۢبِطُونَهُۥ مِنْهُمْ ۗ وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ لَٱتَّبَعْتُمُ ٱلشَّيْطَٰنَ إِلَّا قَلِيلًۭا
 
-**4:84**  Felly ymladd yn achos Allah; rwyt yn gyfrifol amdanat dy hun yn unig. A chyffroa’r credinwyr. Efallai y bydd Allah yn atal grym y rhai sy’n anghredu. Mae Allah yn Gryfach mewn Nerth, ac yn Fwy Cosbol.
+**4:84**  Felly ymladd yn achos Allah; rwyt yn gyfrifol amdanat dy hun yn unig. A chyffroa'r credinwyr. Efallai y bydd Allah yn atal grym y rhai sy'n anghredu. Mae Allah yn Gryfach mewn Nerth, ac yn Fwy Cosbol.
 
 فَقَٰتِلْ فِى سَبِيلِ ٱللَّهِ لَا تُكَلَّفُ إِلَّا نَفْسَكَ ۚ وَحَرِّضِ ٱلْمُؤْمِنِينَ ۖ عَسَى ٱللَّهُ أَن يَكُفَّ بَأْسَ ٱلَّذِينَ كَفَرُوا۟ ۚ وَٱللَّهُ أَشَدُّ بَأْسًۭا وَأَشَدُّ تَنكِيلًۭا
 
-**4:85**  Pwy bynnag sy’n eiriol dros achos da mae ganddo gyfran ynddo, a phwy bynnag sy’n eiriol dros achos drwg sy’n rhannu yn ei feichiau. Mae Allah yn cadw golwg ar bopeth.
+**4:85**  Pwy bynnag sy'n eiriol dros achos da mae ganddo gyfran ynddo, a phwy bynnag sy'n eiriol dros achos drwg sy'n rhannu yn ei feichiau. Mae Allah yn cadw golwg ar bopeth.
 
 مَّن يَشْفَعْ شَفَٰعَةً حَسَنَةًۭ يَكُن لَّهُۥ نَصِيبٌۭ مِّنْهَا ۖ وَمَن يَشْفَعْ شَفَٰعَةًۭ سَيِّئَةًۭ يَكُن لَّهُۥ كِفْلٌۭ مِّنْهَا ۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ مُّقِيتًۭا
 
@@ -2514,39 +2514,39 @@
 
 وَإِذَا حُيِّيتُم بِتَحِيَّةٍۢ فَحَيُّوا۟ بِأَحْسَنَ مِنْهَآ أَوْ رُدُّوهَآ ۗ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ حَسِيبًا
 
-**4:87**  Allah — nid oes duw ond Ef. Bydd yn eich casglu i Ddydd yr Atgyfodiad, lle nad oes amheuaeth. A phwy sy’n siarad yn fwy gwir nag Allah?
+**4:87**  Allah — nid oes duw ond Ef. Bydd yn eich casglu i Ddydd yr Atgyfodiad, lle nad oes amheuaeth. A phwy sy'n siarad yn fwy gwir nag Allah?
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَا رَيْبَ فِيهِ ۗ وَمَنْ أَصْدَقُ مِنَ ٱللَّهِ حَدِيثًۭا
 
-**4:88**  Beth sy’n bod arnoch, wedi eich rhannu yn ddwy garfan ynghylch y rhagrithwyr, pan mae Allah ei Hun wedi eu llethu ar gyfrif yr hyn a wnaethant? A ydych am arwain y rhai y mae Allah wedi eu harwain ar gyfeiliorn? Pwy bynnag y mae Allah yn ei arwain ar gyfeiliorn — ni chei byth ffordd iddo.
+**4:88**  Beth sy'n bod arnoch, wedi eich rhannu yn ddwy garfan ynghylch y rhagrithwyr, pan mae Allah ei Hun wedi eu llethu ar gyfrif yr hyn a wnaethant? A ydych am arwain y rhai y mae Allah wedi eu harwain ar gyfeiliorn? Pwy bynnag y mae Allah yn ei arwain ar gyfeiliorn — ni chei byth ffordd iddo.
 
 ۞ فَمَا لَكُمْ فِى ٱلْمُنَٰفِقِينَ فِئَتَيْنِ وَٱللَّهُ أَرْكَسَهُم بِمَا كَسَبُوٓا۟ ۚ أَتُرِيدُونَ أَن تَهْدُوا۟ مَنْ أَضَلَّ ٱللَّهُ ۖ وَمَن يُضْلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلًۭا
 
-**4:89**  Byddent yn caru eich gweld yn anghredu, yn union fel y maent yn anghredu, fel y byddech yn gyfartal. Felly peidiwch â chyfeillio ag unrhyw un ohonynt, oni bai eu bod yn ymfudo yn ffordd Allah. Os troant ymaith, cipiwch nhw a’u dienyddio lle bynnag y gallech eu cael; a pheidiwch â chymryd yn eu plith gynghreiriaid na chefnogwyr.
+**4:89**  Byddent yn caru eich gweld yn anghredu, yn union fel y maent yn anghredu, fel y byddech yn gyfartal. Felly peidiwch â chyfeillio ag unrhyw un ohonynt, oni bai eu bod yn ymfudo yn ffordd Allah. Os troant ymaith, cipiwch nhw a'u dienyddio lle bynnag y gallech eu cael; a pheidiwch â chymryd yn eu plith gynghreiriaid na chefnogwyr.
 
 وَدُّوا۟ لَوْ تَكْفُرُونَ كَمَا كَفَرُوا۟ فَتَكُونُونَ سَوَآءًۭ ۖ فَلَا تَتَّخِذُوا۟ مِنْهُمْ أَوْلِيَآءَ حَتَّىٰ يُهَاجِرُوا۟ فِى سَبِيلِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَخُذُوهُمْ وَٱقْتُلُوهُمْ حَيْثُ وَجَدتُّمُوهُمْ ۖ وَلَا تَتَّخِذُوا۟ مِنْهُمْ وَلِيًّۭا وَلَا نَصِيرًا
 
-**4:90**  Ac eithrio’r rhai sy’n ymuno â phobl y mae gennych gytundeb â nhw, neu’r rhai sy’n dod atoch yn anfodlon i’ch ymladd chi neu ymladd eu pobl eu hunain. Pe bai Allah wedi ewyllysio, byddai wedi rhoi grym iddynt drosoch, a byddent wedi eich ymladd. Os cilio oddi wrthych, ac nid yn eich ymladd, ac yn cynnig heddwch i chi, yna nid yw Allah yn neilltuo esgus i chi yn eu herbyn.
+**4:90**  Ac eithrio'r rhai sy'n ymuno â phobl y mae gennych gytundeb â nhw, neu'r rhai sy'n dod atoch yn anfodlon i'ch ymladd chi neu ymladd eu pobl eu hunain. Pe bai Allah wedi ewyllysio, byddai wedi rhoi grym iddynt drosoch, a byddent wedi eich ymladd. Os cilio oddi wrthych, ac nid yn eich ymladd, ac yn cynnig heddwch i chi, yna nid yw Allah yn neilltuo esgus i chi yn eu herbyn.
 
 إِلَّا ٱلَّذِينَ يَصِلُونَ إِلَىٰ قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَٰقٌ أَوْ جَآءُوكُمْ حَصِرَتْ صُدُورُهُمْ أَن يُقَٰتِلُوكُمْ أَوْ يُقَٰتِلُوا۟ قَوْمَهُمْ ۚ وَلَوْ شَآءَ ٱللَّهُ لَسَلَّطَهُمْ عَلَيْكُمْ فَلَقَٰتَلُوكُمْ ۚ فَإِنِ ٱعْتَزَلُوكُمْ فَلَمْ يُقَٰتِلُوكُمْ وَأَلْقَوْا۟ إِلَيْكُمُ ٱلسَّلَمَ فَمَا جَعَلَ ٱللَّهُ لَكُمْ عَلَيْهِمْ سَبِيلًۭا
 
-**4:91**  Cewch eraill sydd eisiau diogelwch oddi wrthych, a diogelwch oddi wrth eu pobl eu hunain. Ond pryd bynnag y cânt eu temtio i anghydfod sifil, maent yn plymio iddo. Felly os na chilio oddi wrthych, nac yn cynnig heddwch i chi, nac yn atal eu dwylo, cipiwch nhw a’u dienyddio lle bynnag y dewch o hyd iddynt. Yn erbyn y rhain, yr ydym wedi rhoi i chi awdurdod eglur.
+**4:91**  Cewch eraill sydd eisiau diogelwch oddi wrthych, a diogelwch oddi wrth eu pobl eu hunain. Ond pryd bynnag y cânt eu temtio i anghydfod sifil, maent yn plymio iddo. Felly os na chilio oddi wrthych, nac yn cynnig heddwch i chi, nac yn atal eu dwylo, cipiwch nhw a'u dienyddio lle bynnag y dewch o hyd iddynt. Yn erbyn y rhain, yr ydym wedi rhoi i chi awdurdod eglur.
 
 سَتَجِدُونَ ءَاخَرِينَ يُرِيدُونَ أَن يَأْمَنُوكُمْ وَيَأْمَنُوا۟ قَوْمَهُمْ كُلَّ مَا رُدُّوٓا۟ إِلَى ٱلْفِتْنَةِ أُرْكِسُوا۟ فِيهَا ۚ فَإِن لَّمْ يَعْتَزِلُوكُمْ وَيُلْقُوٓا۟ إِلَيْكُمُ ٱلسَّلَمَ وَيَكُفُّوٓا۟ أَيْدِيَهُمْ فَخُذُوهُمْ وَٱقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ ۚ وَأُو۟لَٰٓئِكُمْ جَعَلْنَا لَكُمْ عَلَيْهِمْ سُلْطَٰنًۭا مُّبِينًۭا
 
-**4:92**  Ni ddylai credwr byth ladd credwr arall, oni bai trwy gamgymeriad. Rhaid i unrhyw un sy’n lladd credwr trwy gamgymeriad ryddhau caethwas crediniol, a thalu iawndal i deulu’r dioddefwr, oni bai eu bod yn ei ollwng fel elusen. Os oedd y dioddefwr yn perthyn i bobl sy’n elyniaethus i chi, ond yn gredwr, yna’r iawndal yw rhyddhau caethwas crediniol. Os oedd yn perthyn i bobl y mae gennych gytundeb â nhw, yna dylid trosglwyddo iawndal i’w deulu, a rhyddhau caethwas crediniol. Rhaid i unrhyw un sy’n brin o’r modd ymprydio am ddau fis yn olynol, trwy ffordd edifeirwch i Allah. Mae Allah yn Hollwybodol, yn Fwyaf Doeth.
+**4:92**  Ni ddylai credwr byth ladd credwr arall, oni bai trwy gamgymeriad. Rhaid i unrhyw un sy'n lladd credwr trwy gamgymeriad ryddhau caethwas crediniol, a thalu iawndal i deulu'r dioddefwr, oni bai eu bod yn ei ollwng fel elusen. Os oedd y dioddefwr yn perthyn i bobl sy'n elyniaethus i chi, ond yn gredwr, yna'r iawndal yw rhyddhau caethwas crediniol. Os oedd yn perthyn i bobl y mae gennych gytundeb â nhw, yna dylid trosglwyddo iawndal i'w deulu, a rhyddhau caethwas crediniol. Rhaid i unrhyw un sy'n brin o'r modd ymprydio am ddau fis yn olynol, trwy ffordd edifeirwch i Allah. Mae Allah yn Hollwybodol, yn Fwyaf Doeth.
 
 وَمَا كَانَ لِمُؤْمِنٍ أَن يَقْتُلَ مُؤْمِنًا إِلَّا خَطَـًۭٔا ۚ وَمَن قَتَلَ مُؤْمِنًا خَطَـًۭٔا فَتَحْرِيرُ رَقَبَةٍۢ مُّؤْمِنَةٍۢ وَدِيَةٌۭ مُّسَلَّمَةٌ إِلَىٰٓ أَهْلِهِۦٓ إِلَّآ أَن يَصَّدَّقُوا۟ ۚ فَإِن كَانَ مِن قَوْمٍ عَدُوٍّۢ لَّكُمْ وَهُوَ مُؤْمِنٌۭ فَتَحْرِيرُ رَقَبَةٍۢ مُّؤْمِنَةٍۢ ۖ وَإِن كَانَ مِن قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَٰقٌۭ فَدِيَةٌۭ مُّسَلَّمَةٌ إِلَىٰٓ أَهْلِهِۦ وَتَحْرِيرُ رَقَبَةٍۢ مُّؤْمِنَةٍۢ ۖ فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ تَوْبَةًۭ مِّنَ ٱللَّهِ ۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًۭا
 
-**4:93**  Pwy bynnag sy’n lladd credwr yn fwriadol, ei gosb yw Uffern, lle bydd yn aros am byth. A bydd Allah yn ddig wrtho, ac yn ei felltithio, ac yn paratoi ar ei gyfer gosb erchyll.
+**4:93**  Pwy bynnag sy'n lladd credwr yn fwriadol, ei gosb yw Uffern, lle bydd yn aros am byth. A bydd Allah yn ddig wrtho, ac yn ei felltithio, ac yn paratoi ar ei gyfer gosb erchyll.
 
 وَمَن يَقْتُلْ مُؤْمِنًۭا مُّتَعَمِّدًۭا فَجَزَآؤُهُۥ جَهَنَّمُ خَٰلِدًۭا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمًۭا
 
-**4:94**  O chi sy’n credu! Pan fyddwch yn teithio yn ffordd Allah, ymchwiliwch, a pheidiwch â dweud wrth yr hwn sy’n cynnig heddwch i chi, “Nid wyt yn gredwr,” yn dyheu am nwyddau’r byd hwn. Gydag Allah y mae cyfoeth toreithiog. Yr oeddech eich hunain fel hyn o’r blaen, a rhoddodd Allah ffafr arnoch; felly ymchwiliwch. Mae Allah yn dda ymwybodol o’r hyn yr ydych yn ei wneud.
+**4:94**  O chi sy'n credu! Pan fyddwch yn teithio yn ffordd Allah, ymchwiliwch, a pheidiwch â dweud wrth yr hwn sy'n cynnig heddwch i chi, "Nid wyt yn gredwr," yn dyheu am nwyddau'r byd hwn. Gydag Allah y mae cyfoeth toreithiog. Yr oeddech eich hunain fel hyn o'r blaen, a rhoddodd Allah ffafr arnoch; felly ymchwiliwch. Mae Allah yn dda ymwybodol o'r hyn yr ydych yn ei wneud.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا ضَرَبْتُمْ فِى سَبِيلِ ٱللَّهِ فَتَبَيَّنُوا۟ وَلَا تَقُولُوا۟ لِمَنْ أَلْقَىٰٓ إِلَيْكُمُ ٱلسَّلَٰمَ لَسْتَ مُؤْمِنًۭا تَبْتَغُونَ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا فَعِندَ ٱللَّهِ مَغَانِمُ كَثِيرَةٌۭ ۚ كَذَٰلِكَ كُنتُم مِّن قَبْلُ فَمَنَّ ٱللَّهُ عَلَيْكُمْ فَتَبَيَّنُوٓا۟ ۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًۭا
 
-**4:95**  Nid yw’r anweithredol ymhlith y credinwyr yn gyfartal — ac eithrio’r anabl — a’r ymdrechwyr yn achos Allah â’u meddiannau a’u personau. Mae Allah yn ffafrio’r ymdrechwyr â’u meddiannau a’u personau uwchlaw’r anweithredol, o radd. Ond mae Allah wedi addo daioni i’r ddau. Eto mae Allah yn ffafrio’r ymdrechwyr, dros yr anweithredol, â gwobr fawr.
+**4:95**  Nid yw'r anweithredol ymhlith y credinwyr yn gyfartal — ac eithrio'r anabl — a'r ymdrechwyr yn achos Allah â'u meddiannau a'u personau. Mae Allah yn ffafrio'r ymdrechwyr â'u meddiannau a'u personau uwchlaw'r anweithredol, o radd. Ond mae Allah wedi addo daioni i'r ddau. Eto mae Allah yn ffafrio'r ymdrechwyr, dros yr anweithredol, â gwobr fawr.
 
 لَّا يَسْتَوِى ٱلْقَٰعِدُونَ مِنَ ٱلْمُؤْمِنِينَ غَيْرُ أُو۟لِى ٱلضَّرَرِ وَٱلْمُجَٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ ۚ فَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ عَلَى ٱلْقَٰعِدِينَ دَرَجَةًۭ ۚ وَكُلًّۭا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ ۚ وَفَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ عَلَى ٱلْقَٰعِدِينَ أَجْرًا عَظِيمًۭا
 
@@ -2554,31 +2554,31 @@
 
 دَرَجَٰتٍۢ مِّنْهُ وَمَغْفِرَةًۭ وَرَحْمَةًۭ ۚ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًا
 
-**4:97**  Tra bod yr angylion yn tynnu eneidiau’r rhai sydd wedi gwneud cam â nhw eu hunain, byddant yn dweud, “Beth oedd yn bod arnoch?” Byddant yn dweud, “Yr oeddem yn ormesedig yn y tir.” Byddant yn dweud, “Onid oedd daear Allah yn ddigon eang i chi ymfudo ynddi?” Y rhai hyn — eu lloches yw Uffern. Mor druenus y gyrchfan!
+**4:97**  Tra bod yr angylion yn tynnu eneidiau'r rhai sydd wedi gwneud cam â nhw eu hunain, byddant yn dweud, "Beth oedd yn bod arnoch?" Byddant yn dweud, "Yr oeddem yn ormesedig yn y tir." Byddant yn dweud, "Onid oedd daear Allah yn ddigon eang i chi ymfudo ynddi?" Y rhai hyn — eu lloches yw Uffern. Mor druenus y gyrchfan!
 
 إِنَّ ٱلَّذِينَ تَوَفَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ ظَالِمِىٓ أَنفُسِهِمْ قَالُوا۟ فِيمَ كُنتُمْ ۖ قَالُوا۟ كُنَّا مُسْتَضْعَفِينَ فِى ٱلْأَرْضِ ۚ قَالُوٓا۟ أَلَمْ تَكُنْ أَرْضُ ٱللَّهِ وَٰسِعَةًۭ فَتُهَاجِرُوا۟ فِيهَا ۚ فَأُو۟لَٰٓئِكَ مَأْوَىٰهُمْ جَهَنَّمُ ۖ وَسَآءَتْ مَصِيرًا
 
-**4:98**  Ac eithrio’r gwan ymhlith dynion, a gwragedd, a phlant nad oes ganddynt fodd i weithredu, na modd i ddod o hyd i ffordd allan.
+**4:98**  Ac eithrio'r gwan ymhlith dynion, a gwragedd, a phlant nad oes ganddynt fodd i weithredu, na modd i ddod o hyd i ffordd allan.
 
 إِلَّا ٱلْمُسْتَضْعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلْوِلْدَٰنِ لَا يَسْتَطِيعُونَ حِيلَةًۭ وَلَا يَهْتَدُونَ سَبِيلًۭا
 
-**4:99**  Y rhai hyn — gall Allah eu maddeu’n dda. Mae Allah yn Faddeugar ac yn Faddauwr.
+**4:99**  Y rhai hyn — gall Allah eu maddeu'n dda. Mae Allah yn Faddeugar ac yn Faddauwr.
 
 فَأُو۟لَٰٓئِكَ عَسَى ٱللَّهُ أَن يَعْفُوَ عَنْهُمْ ۚ وَكَانَ ٱللَّهُ عَفُوًّا غَفُورًۭا
 
-**4:100**  Bydd unrhyw un sy’n ymfudo er mwyn Allah yn dod o hyd ar y ddaear i lawer o leoedd lloches, a digonedd. Bydd unrhyw un sy’n gadael ei gartref, yn ymfudo i Allah a’i Genhadwr, ac yna’n cael ei oddiweddyd gan farwolaeth, yn disgyn ar Allah ei iawndal. Mae Allah yn Faddeuwr, yn Fwyaf Trugarog.
+**4:100**  Bydd unrhyw un sy'n ymfudo er mwyn Allah yn dod o hyd ar y ddaear i lawer o leoedd lloches, a digonedd. Bydd unrhyw un sy'n gadael ei gartref, yn ymfudo i Allah a'i Genhadwr, ac yna'n cael ei oddiweddyd gan farwolaeth, yn disgyn ar Allah ei iawndal. Mae Allah yn Faddeuwr, yn Fwyaf Trugarog.
 
 ۞ وَمَن يُهَاجِرْ فِى سَبِيلِ ٱللَّهِ يَجِدْ فِى ٱلْأَرْضِ مُرَٰغَمًۭا كَثِيرًۭا وَسَعَةًۭ ۚ وَمَن يَخْرُجْ مِنۢ بَيْتِهِۦ مُهَاجِرًا إِلَى ٱللَّهِ وَرَسُولِهِۦ ثُمَّ يُدْرِكْهُ ٱلْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُۥ عَلَى ٱللَّهِ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا
 
-**4:101**  Pan fyddwch yn teithio yn y tir, nid oes bai arnoch am fyrhau’r gweddïau, os ofnwch y gall yr anghredinwyr eich niweidio. Mae’r anghredinwyr yn elynion amlwg i chi.
+**4:101**  Pan fyddwch yn teithio yn y tir, nid oes bai arnoch am fyrhau'r gweddïau, os ofnwch y gall yr anghredinwyr eich niweidio. Mae'r anghredinwyr yn elynion amlwg i chi.
 
 وَإِذَا ضَرَبْتُمْ فِى ٱلْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا۟ مِنَ ٱلصَّلَوٰةِ إِنْ خِفْتُمْ أَن يَفْتِنَكُمُ ٱلَّذِينَ كَفَرُوٓا۟ ۚ إِنَّ ٱلْكَٰفِرِينَ كَانُوا۟ لَكُمْ عَدُوًّۭا مُّبِينًۭا
 
-**4:102**  Pan fyddwch yn eu plith, a sefwch i’w harwain mewn gweddi, gadewch i grŵp ohonynt sefyll gyda chi, a gadewch iddynt ddal eu harfau. Yna, pan fyddant wedi gwneud eu hymgrymiadau, gadewch iddynt dynnu i’r cefn, a gadewch i grŵp arall, nad ydynt wedi gweddïo eto, ddod ymlaen a gweddïo gyda chi; a gadewch iddynt gymryd eu rhagofalon a’u harfau. Byddai’r rhai sy’n anghredu yn hoffi i chi esgeuluso eich arfau a’ch offer, fel y gallant ymosod arnoch mewn un ymosodiad. Nid ydych yn cyflawni cam, os cewch eich rhwystro gan law neu’n sâl, trwy roi eich arfau i lawr; ond cymerwch ragofalon. Yn wir, mae Allah wedi paratoi ar gyfer yr anghredinwyr gosb ddarostyngol.
+**4:102**  Pan fyddwch yn eu plith, a sefwch i'w harwain mewn gweddi, gadewch i grŵp ohonynt sefyll gyda chi, a gadewch iddynt ddal eu harfau. Yna, pan fyddant wedi gwneud eu hymgrymiadau, gadewch iddynt dynnu i'r cefn, a gadewch i grŵp arall, nad ydynt wedi gweddïo eto, ddod ymlaen a gweddïo gyda chi; a gadewch iddynt gymryd eu rhagofalon a'u harfau. Byddai'r rhai sy'n anghredu yn hoffi i chi esgeuluso eich arfau a'ch offer, fel y gallant ymosod arnoch mewn un ymosodiad. Nid ydych yn cyflawni cam, os cewch eich rhwystro gan law neu'n sâl, trwy roi eich arfau i lawr; ond cymerwch ragofalon. Yn wir, mae Allah wedi paratoi ar gyfer yr anghredinwyr gosb ddarostyngol.
 
 وَإِذَا كُنتَ فِيهِمْ فَأَقَمْتَ لَهُمُ ٱلصَّلَوٰةَ فَلْتَقُمْ طَآئِفَةٌۭ مِّنْهُم مَّعَكَ وَلْيَأْخُذُوٓا۟ أَسْلِحَتَهُمْ فَإِذَا سَجَدُوا۟ فَلْيَكُونُوا۟ مِن وَرَآئِكُمْ وَلْتَأْتِ طَآئِفَةٌ أُخْرَىٰ لَمْ يُصَلُّوا۟ فَلْيُصَلُّوا۟ مَعَكَ وَلْيَأْخُذُوا۟ حِذْرَهُمْ وَأَسْلِحَتَهُمْ ۗ وَدَّ ٱلَّذِينَ كَفَرُوا۟ لَوْ تَغْفُلُونَ عَنْ أَسْلِحَتِكُمْ وَأَمْتِعَتِكُمْ فَيَمِيلُونَ عَلَيْكُم مَّيْلَةًۭ وَٰحِدَةًۭ ۚ وَلَا جُنَاحَ عَلَيْكُمْ إِن كَانَ بِكُمْ أَذًۭى مِّن مَّطَرٍ أَوْ كُنتُم مَّرْضَىٰٓ أَن تَضَعُوٓا۟ أَسْلِحَتَكُمْ ۖ وَخُذُوا۟ حِذْرَكُمْ ۗ إِنَّ ٱللَّهَ أَعَدَّ لِلْكَٰفِرِينَ عَذَابًۭا مُّهِينًۭا
 
-**4:103**  Pan fyddwch wedi cwblhau’r weddi, cofiwch Allah, yn sefyll, neu’n eistedd, neu ar eich ochrau. A phan fyddwch yn teimlo’n ddiogel, cynnaliwch y weddi. Mae’r weddi yn orfodol i gredinwyr ar adegau penodol.
+**4:103**  Pan fyddwch wedi cwblhau'r weddi, cofiwch Allah, yn sefyll, neu'n eistedd, neu ar eich ochrau. A phan fyddwch yn teimlo'n ddiogel, cynnaliwch y weddi. Mae'r weddi yn orfodol i gredinwyr ar adegau penodol.
 
 فَإِذَا قَضَيْتُمُ ٱلصَّلَوٰةَ فَٱذْكُرُوا۟ ٱللَّهَ قِيَٰمًۭا وَقُعُودًۭا وَعَلَىٰ جُنُوبِكُمْ ۚ فَإِذَا ٱطْمَأْنَنتُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ ۚ إِنَّ ٱلصَّلَوٰةَ كَانَتْ عَلَى ٱلْمُؤْمِنِينَ كِتَٰبًۭا مَّوْقُوتًۭا
 
@@ -2586,7 +2586,7 @@
 
 وَلَا تَهِنُوا۟ فِى ٱبْتِغَآءِ ٱلْقَوْمِ ۖ إِن تَكُونُوا۟ تَأْلَمُونَ فَإِنَّهُمْ يَأْلَمُونَ كَمَا تَأْلَمُونَ ۖ وَتَرْجُونَ مِنَ ٱللَّهِ مَا لَا يَرْجُونَ ۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا
 
-**4:105**  Yr ydym wedi datguddio i ti yr Ysgrythur, â’r gwirionedd, fel y barni rhwng pobl yn unol â’r hyn y mae Allah wedi ei ddangos i ti. A pheidiwch â bod yn eiriolwr dros y bradwyr.
+**4:105**  Yr ydym wedi datguddio i ti yr Ysgrythur, â'r gwirionedd, fel y barni rhwng pobl yn unol â'r hyn y mae Allah wedi ei ddangos i ti. A pheidiwch â bod yn eiriolwr dros y bradwyr.
 
 إِنَّآ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَٰبَ بِٱلْحَقِّ لِتَحْكُمَ بَيْنَ ٱلنَّاسِ بِمَآ أَرَىٰكَ ٱللَّهُ ۚ وَلَا تَكُن لِّلْخَآئِنِينَ خَصِيمًۭا
 
@@ -2594,11 +2594,11 @@
 
 وَٱسْتَغْفِرِ ٱللَّهَ ۖ إِنَّ ٱللَّهَ كَانَ غَفُورًۭا رَّحِيمًۭا
 
-**4:107**  A pheidiwch â dadlau ar ran y rhai sy’n twyllo eu hunain. Nid yw Allah yn caru’r pechadur twyllodrus.
+**4:107**  A pheidiwch â dadlau ar ran y rhai sy'n twyllo eu hunain. Nid yw Allah yn caru'r pechadur twyllodrus.
 
 وَلَا تُجَٰدِلْ عَنِ ٱلَّذِينَ يَخْتَانُونَ أَنفُسَهُمْ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ خَوَّانًا أَثِيمًۭا
 
-**4:108**  Maent yn cuddio oddi wrth y bobl, ond ni allant guddio oddi wrth Allah. Mae gyda nhw, wrth iddynt gynllwynio liw nos â geiriau nad yw’n eu cymeradwyo. Mae Allah yn amgyffred yr hyn maent yn ei wneud.
+**4:108**  Maent yn cuddio oddi wrth y bobl, ond ni allant guddio oddi wrth Allah. Mae gyda nhw, wrth iddynt gynllwynio liw nos â geiriau nad yw'n eu cymeradwyo. Mae Allah yn amgyffred yr hyn maent yn ei wneud.
 
 يَسْتَخْفُونَ مِنَ ٱلنَّاسِ وَلَا يَسْتَخْفُونَ مِنَ ٱللَّهِ وَهُوَ مَعَهُمْ إِذْ يُبَيِّتُونَ مَا لَا يَرْضَىٰ مِنَ ٱلْقَوْلِ ۚ وَكَانَ ٱللَّهُ بِمَا يَعْمَلُونَ مُحِيطًا
 
@@ -2606,31 +2606,31 @@
 
 هَٰٓأَنتُمْ هَٰٓؤُلَآءِ جَٰدَلْتُمْ عَنْهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا فَمَن يُجَٰدِلُ ٱللَّهَ عَنْهُمْ يَوْمَ ٱلْقِيَٰمَةِ أَم مَّن يَكُونُ عَلَيْهِمْ وَكِيلًۭا
 
-**4:110**  Pwy bynnag sy’n cyflawni drwg, neu’n gwneud cam â’i enaid, yna’n erfyn ar Allah am faddeuant, bydd yn dod o hyd i Allah yn Faddeugar ac yn Drugarog.
+**4:110**  Pwy bynnag sy'n cyflawni drwg, neu'n gwneud cam â'i enaid, yna'n erfyn ar Allah am faddeuant, bydd yn dod o hyd i Allah yn Faddeugar ac yn Drugarog.
 
 وَمَن يَعْمَلْ سُوٓءًا أَوْ يَظْلِمْ نَفْسَهُۥ ثُمَّ يَسْتَغْفِرِ ٱللَّهَ يَجِدِ ٱللَّهَ غَفُورًۭا رَّحِيمًۭا
 
-**4:111**  A phwy bynnag sy’n ennill pechod, mae’n ei ennill yn ei erbyn ei hun. Mae Allah yn Ymwybodol ac yn Ddoeth.
+**4:111**  A phwy bynnag sy'n ennill pechod, mae'n ei ennill yn ei erbyn ei hun. Mae Allah yn Ymwybodol ac yn Ddoeth.
 
 وَمَن يَكْسِبْ إِثْمًۭا فَإِنَّمَا يَكْسِبُهُۥ عَلَىٰ نَفْسِهِۦ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًۭا
 
-**4:112**  A phwy bynnag sy’n cyflawni camgymeriad, neu bechod, ac yna’n ei feio ar berson diniwed, sydd wedi cymryd athrod a phechod eglur.
+**4:112**  A phwy bynnag sy'n cyflawni camgymeriad, neu bechod, ac yna'n ei feio ar berson diniwed, sydd wedi cymryd athrod a phechod eglur.
 
 وَمَن يَكْسِبْ خَطِيٓـَٔةً أَوْ إِثْمًۭا ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًۭٔا فَقَدِ ٱحْتَمَلَ بُهْتَٰنًۭا وَإِثْمًۭا مُّبِينًۭا
 
-**4:113**  Oni bai am ras Allah tuag atat, a’i drugaredd, byddai carfan ohonynt wedi llwyddo i’ch camarwain. Ond dim ond nhw eu hunain y maent yn eu camarwain, ac ni allant eich niweidio mewn unrhyw fodd. Mae Allah wedi datguddio i ti yr Ysgrythur a doethineb, ac wedi dy ddysgu’r hyn nad oeddet yn ei wybod. Mae daioni Allah tuag atat yn fawr.
+**4:113**  Oni bai am ras Allah tuag atat, a'i drugaredd, byddai carfan ohonynt wedi llwyddo i'ch camarwain. Ond dim ond nhw eu hunain y maent yn eu camarwain, ac ni allant eich niweidio mewn unrhyw fodd. Mae Allah wedi datguddio i ti yr Ysgrythur a doethineb, ac wedi dy ddysgu'r hyn nad oeddet yn ei wybod. Mae daioni Allah tuag atat yn fawr.
 
 وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكَ وَرَحْمَتُهُۥ لَهَمَّت طَّآئِفَةٌۭ مِّنْهُمْ أَن يُضِلُّوكَ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمْ ۖ وَمَا يَضُرُّونَكَ مِن شَىْءٍۢ ۚ وَأَنزَلَ ٱللَّهُ عَلَيْكَ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَعَلَّمَكَ مَا لَمْ تَكُن تَعْلَمُ ۚ وَكَانَ فَضْلُ ٱللَّهِ عَلَيْكَ عَظِيمًۭا
 
-**4:114**  Nid oes daioni mewn llawer o’u cynghorion preifat, ac eithrio’r hwn sy’n eiriol elusen, neu garedigrwydd, neu gymod rhwng pobl. Pwy bynnag sy’n gwneud hynny, yn ceisio cymeradwyaeth Allah, byddwn yn rhoi iddo iawndal mawr.
+**4:114**  Nid oes daioni mewn llawer o'u cynghorion preifat, ac eithrio'r hwn sy'n eiriol elusen, neu garedigrwydd, neu gymod rhwng pobl. Pwy bynnag sy'n gwneud hynny, yn ceisio cymeradwyaeth Allah, byddwn yn rhoi iddo iawndal mawr.
 
 ۞ لَّا خَيْرَ فِى كَثِيرٍۢ مِّن نَّجْوَىٰهُمْ إِلَّا مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلَٰحٍۭ بَيْنَ ٱلنَّاسِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًۭا
 
-**4:115**  Pwy bynnag sy’n torri â’r Cenhadwr, ar ôl i’r arweiniad ddod yn eglur iddo, ac yn dilyn heblaw llwybr y credinwyr, byddwn yn ei gyfeirio i’r cyfeiriad y mae wedi ei ddewis, ac yn ei draddodi i Uffern — mor erchyll y gyrchfan!
+**4:115**  Pwy bynnag sy'n torri â'r Cenhadwr, ar ôl i'r arweiniad ddod yn eglur iddo, ac yn dilyn heblaw llwybr y credinwyr, byddwn yn ei gyfeirio i'r cyfeiriad y mae wedi ei ddewis, ac yn ei draddodi i Uffern — mor erchyll y gyrchfan!
 
 وَمَن يُشَاقِقِ ٱلرَّسُولَ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُ ٱلْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ ٱلْمُؤْمِنِينَ نُوَلِّهِۦ مَا تَوَلَّىٰ وَنُصْلِهِۦ جَهَنَّمَ ۖ وَسَآءَتْ مَصِيرًا
 
-**4:116**  Ni fydd Allah yn maddau y bydd partneriaid yn cael eu cysylltu ag Ef; ond bydd yn maddau unrhyw beth llai na hynny, i bwy bynnag a fyn. Mae unrhyw un sy’n priodoli partneriaid i Allah wedi crwydro i gyfeiliorn pell.
+**4:116**  Ni fydd Allah yn maddau y bydd partneriaid yn cael eu cysylltu ag Ef; ond bydd yn maddau unrhyw beth llai na hynny, i bwy bynnag a fyn. Mae unrhyw un sy'n priodoli partneriaid i Allah wedi crwydro i gyfeiliorn pell.
 
 إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَقَدْ ضَلَّ ضَلَٰلًۢا بَعِيدًا
 
@@ -2638,15 +2638,15 @@
 
 إِن يَدْعُونَ مِن دُونِهِۦٓ إِلَّآ إِنَٰثًۭا وَإِن يَدْعُونَ إِلَّا شَيْطَٰنًۭا مَّرِيدًۭا
 
-**4:118**  Mae Allah wedi ei felltithio. Ac dywedodd, “Cymeraf i mi fy hun fy nghyfran ddyledus o’th weision.”
+**4:118**  Mae Allah wedi ei felltithio. Ac dywedodd, "Cymeraf i mi fy hun fy nghyfran ddyledus o'th weision."
 
 لَّعَنَهُ ٱللَّهُ ۘ وَقَالَ لَأَتَّخِذَنَّ مِنْ عِبَادِكَ نَصِيبًۭا مَّفْرُوضًۭا
 
-**4:119**  “A byddaf yn eu camarwain, a byddaf yn eu denu, a byddaf yn eu hannog i hollti clustiau gwartheg, a byddaf yn eu hannog i newid creadigaeth Allah.” Pwy bynnag sy’n cymryd Satan yn arglwydd, yn lle Allah, sydd yn sicr wedi dioddef colled ddofn.
+**4:119**  "A byddaf yn eu camarwain, a byddaf yn eu denu, a byddaf yn eu hannog i hollti clustiau gwartheg, a byddaf yn eu hannog i newid creadigaeth Allah." Pwy bynnag sy'n cymryd Satan yn arglwydd, yn lle Allah, sydd yn sicr wedi dioddef colled ddofn.
 
 وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَءَامُرَنَّهُمْ فَلَيُبَتِّكُنَّ ءَاذَانَ ٱلْأَنْعَٰمِ وَلَءَامُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ ٱللَّهِ ۚ وَمَن يَتَّخِذِ ٱلشَّيْطَٰنَ وَلِيًّۭا مِّن دُونِ ٱللَّهِ فَقَدْ خَسِرَ خُسْرَانًۭا مُّبِينًۭا
 
-**4:120**  Mae’n addo iddynt, ac yn codi eu disgwyliadau, ond nid yw Satan yn addo iddynt ddim ond twyll.
+**4:120**  Mae'n addo iddynt, ac yn codi eu disgwyliadau, ond nid yw Satan yn addo iddynt ddim ond twyll.
 
 يَعِدُهُمْ وَيُمَنِّيهِمْ ۖ وَمَا يَعِدُهُمُ ٱلشَّيْطَٰنُ إِلَّا غُرُورًا
 
@@ -2654,43 +2654,43 @@
 
 أُو۟لَٰٓئِكَ مَأْوَىٰهُمْ جَهَنَّمُ وَلَا يَجِدُونَ عَنْهَا مَحِيصًۭا
 
-**4:122**  Ond o ran y rhai sy’n credu ac yn gwneud gweithredoedd cyfiawn, byddwn yn eu derbyn i erddi y mae afonydd yn llifo oddi tanynt, lle byddant yn aros am byth. Mae addewid Allah yn wir — a phwy sy’n fwy gwir yn ei leferydd nag Allah?
+**4:122**  Ond o ran y rhai sy'n credu ac yn gwneud gweithredoedd cyfiawn, byddwn yn eu derbyn i erddi y mae afonydd yn llifo oddi tanynt, lle byddant yn aros am byth. Mae addewid Allah yn wir — a phwy sy'n fwy gwir yn ei leferydd nag Allah?
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ سَنُدْخِلُهُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًۭا ۖ وَعْدَ ٱللَّهِ حَقًّۭا ۚ وَمَنْ أَصْدَقُ مِنَ ٱللَّهِ قِيلًۭا
 
-**4:123**  Nid yw yn unol â’ch dymuniadau chi, nac yn unol â dymuniadau Pobl yr Ysgrythur. Pwy bynnag sy’n gweithio drwg bydd yn talu amdano, ac ni fydd yn dod o hyd iddo ei hun, heblaw Allah, unrhyw amddiffynnwr na gwaredwr.
+**4:123**  Nid yw yn unol â'ch dymuniadau chi, nac yn unol â dymuniadau Pobl yr Ysgrythur. Pwy bynnag sy'n gweithio drwg bydd yn talu amdano, ac ni fydd yn dod o hyd iddo ei hun, heblaw Allah, unrhyw amddiffynnwr na gwaredwr.
 
 لَّيْسَ بِأَمَانِيِّكُمْ وَلَآ أَمَانِىِّ أَهْلِ ٱلْكِتَٰبِ ۗ مَن يَعْمَلْ سُوٓءًۭا يُجْزَ بِهِۦ وَلَا يَجِدْ لَهُۥ مِن دُونِ ٱللَّهِ وَلِيًّۭا وَلَا نَصِيرًۭا
 
-**4:124**  Ond pwy bynnag sy’n gweithio cyfiawnder, boed yn wryw neu’n fenyw, ac yn gredwr — bydd y rhai hynny yn mynd i mewn i Baradwys, ac ni chânt eu camdrin ddim.
+**4:124**  Ond pwy bynnag sy'n gweithio cyfiawnder, boed yn wryw neu'n fenyw, ac yn gredwr — bydd y rhai hynny yn mynd i mewn i Baradwys, ac ni chânt eu camdrin ddim.
 
 وَمَن يَعْمَلْ مِنَ ٱلصَّٰلِحَٰتِ مِن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌۭ فَأُو۟لَٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًۭا
 
-**4:125**  A phwy sy’n well mewn crefydd na’r hwn sy’n ymostwng ei hun yn llwyr i Allah, ac yn wneuthurwr daioni, ac yn dilyn ffydd Abraham yr Unduwiwr? Mae Allah wedi dewis Abraham yn gyfaill.
+**4:125**  A phwy sy'n well mewn crefydd na'r hwn sy'n ymostwng ei hun yn llwyr i Allah, ac yn wneuthurwr daioni, ac yn dilyn ffydd Abraham yr Unduwiwr? Mae Allah wedi dewis Abraham yn gyfaill.
 
 وَمَنْ أَحْسَنُ دِينًۭا مِّمَّنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌۭ وَٱتَّبَعَ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًۭا ۗ وَٱتَّخَذَ ٱللَّهُ إِبْرَٰهِيمَ خَلِيلًۭا
 
-**4:126**  I Allah y perthyn yr hyn sydd yn y nefoedd a’r hyn sydd ar y ddaear, ac mae Allah yn amgylchu popeth.
+**4:126**  I Allah y perthyn yr hyn sydd yn y nefoedd a'r hyn sydd ar y ddaear, ac mae Allah yn amgylchu popeth.
 
 وَلِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍۢ مُّحِيطًۭا
 
-**4:127**  Maent yn gofyn i ti am ddyfarniad am wragedd. Dywed, “Mae Allah yn rhoi dyfarniad i chi amdanynt, ac felly hefyd yr hyn a ddatgenir i chi yn y Llyfr am wragedd gweddw y mae gennych eu hatal yr hyn a ordeiniwyd iddynt, eto yr ydych yn dymuno eu priodi, ac am blant diobaith: y dylech drin yr amddifaid yn deg.” Pa ddaioni bynnag a wnewch, mae Allah yn ei wybod.
+**4:127**  Maent yn gofyn i ti am ddyfarniad am wragedd. Dywed, "Mae Allah yn rhoi dyfarniad i chi amdanynt, ac felly hefyd yr hyn a ddatgenir i chi yn y Llyfr am wragedd gweddw y mae gennych eu hatal yr hyn a ordeiniwyd iddynt, eto yr ydych yn dymuno eu priodi, ac am blant diobaith: y dylech drin yr amddifaid yn deg." Pa ddaioni bynnag a wnewch, mae Allah yn ei wybod.
 
 وَيَسْتَفْتُونَكَ فِى ٱلنِّسَآءِ ۖ قُلِ ٱللَّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ فِى ٱلْكِتَٰبِ فِى يَتَٰمَى ٱلنِّسَآءِ ٱلَّٰتِى لَا تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ أَن تَنكِحُوهُنَّ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلْوِلْدَٰنِ وَأَن تَقُومُوا۟ لِلْيَتَٰمَىٰ بِٱلْقِسْطِ ۚ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍۢ فَإِنَّ ٱللَّهَ كَانَ بِهِۦ عَلِيمًۭا
 
-**4:128**  Os bydd gwraig yn ofni camdriniaeth neu adael gan ei gŵr, nid oes bai arnynt os cymodant eu gwahaniaethau, oherwydd cymod sydd orau. Mae eneidiau yn dueddol o gybydd-dod; eto os gwnewch yr hyn sy’n dda, ac yn ymarfer duwioldeb — mae Allah yn Wybyddus o’r hyn yr ydych yn ei wneud.
+**4:128**  Os bydd gwraig yn ofni camdriniaeth neu adael gan ei gŵr, nid oes bai arnynt os cymodant eu gwahaniaethau, oherwydd cymod sydd orau. Mae eneidiau yn dueddol o gybydd-dod; eto os gwnewch yr hyn sy'n dda, ac yn ymarfer duwioldeb — mae Allah yn Wybyddus o'r hyn yr ydych yn ei wneud.
 
 وَإِنِ ٱمْرَأَةٌ خَافَتْ مِنۢ بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًۭا فَلَا جُنَاحَ عَلَيْهِمَآ أَن يُصْلِحَا بَيْنَهُمَا صُلْحًۭا ۚ وَٱلصُّلْحُ خَيْرٌۭ ۗ وَأُحْضِرَتِ ٱلْأَنفُسُ ٱلشُّحَّ ۚ وَإِن تُحْسِنُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًۭا
 
-**4:129**  Ni fyddwch yn gallu trin gwragedd â thegwch cyfartal, ni waeth faint y dymunwch. Ond peidiwch â bod mor dueddol fel ag i adael un arall yn hongian. Os gwnewch iawn, ac yn gweithredu’n gyfiawn — mae Allah yn Faddeugar ac yn Drugarog.
+**4:129**  Ni fyddwch yn gallu trin gwragedd â thegwch cyfartal, ni waeth faint y dymunwch. Ond peidiwch â bod mor dueddol fel ag i adael un arall yn hongian. Os gwnewch iawn, ac yn gweithredu'n gyfiawn — mae Allah yn Faddeugar ac yn Drugarog.
 
 وَلَن تَسْتَطِيعُوٓا۟ أَن تَعْدِلُوا۟ بَيْنَ ٱلنِّسَآءِ وَلَوْ حَرَصْتُمْ ۖ فَلَا تَمِيلُوا۟ كُلَّ ٱلْمَيْلِ فَتَذَرُوهَا كَٱلْمُعَلَّقَةِ ۚ وَإِن تُصْلِحُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ كَانَ غَفُورًۭا رَّحِيمًۭا
 
-**4:130**  Ac os gwahanant, bydd Allah yn cyfoethogi pob un o’i helaethrwydd. Mae Allah yn Hael ac yn Ddoeth.
+**4:130**  Ac os gwahanant, bydd Allah yn cyfoethogi pob un o'i helaethrwydd. Mae Allah yn Hael ac yn Ddoeth.
 
 وَإِن يَتَفَرَّقَا يُغْنِ ٱللَّهُ كُلًّۭا مِّن سَعَتِهِۦ ۚ وَكَانَ ٱللَّهُ وَٰسِعًا حَكِيمًۭا
 
-**4:131**  I Allah y perthyn popeth yn y nefoedd a phopeth ar y ddaear. Yr ydym wedi cyfarwyddo’r rhai y rhoddwyd y Llyfr iddynt o’ch blaen, a chwithau, i fod yn ymwybodol o Allah. Ond os gwrthodwch — i Allah y perthyn popeth yn y nefoedd a phopeth ar y ddaear. Nid oes angen ar Allah, Canmoladwy.
+**4:131**  I Allah y perthyn popeth yn y nefoedd a phopeth ar y ddaear. Yr ydym wedi cyfarwyddo'r rhai y rhoddwyd y Llyfr iddynt o'ch blaen, a chwithau, i fod yn ymwybodol o Allah. Ond os gwrthodwch — i Allah y perthyn popeth yn y nefoedd a phopeth ar y ddaear. Nid oes angen ar Allah, Canmoladwy.
 
 وَلِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَلَقَدْ وَصَّيْنَا ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ وَإِيَّاكُمْ أَنِ ٱتَّقُوا۟ ٱللَّهَ ۚ وَإِن تَكْفُرُوا۟ فَإِنَّ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ غَنِيًّا حَمِيدًۭا
 
@@ -2702,47 +2702,47 @@
 
 إِن يَشَأْ يُذْهِبْكُمْ أَيُّهَا ٱلنَّاسُ وَيَأْتِ بِـَٔاخَرِينَ ۚ وَكَانَ ٱللَّهُ عَلَىٰ ذَٰلِكَ قَدِيرًۭا
 
-**4:134**  Pwy bynnag sy’n dymuno gwobr y byd hwn — gydag Allah y mae gwobr y byd hwn a’r nesaf. Mae Allah yn Hollglywedol, yn Hollweledol.
+**4:134**  Pwy bynnag sy'n dymuno gwobr y byd hwn — gydag Allah y mae gwobr y byd hwn a'r nesaf. Mae Allah yn Hollglywedol, yn Hollweledol.
 
 مَّن كَانَ يُرِيدُ ثَوَابَ ٱلدُّنْيَا فَعِندَ ٱللَّهِ ثَوَابُ ٱلدُّنْيَا وَٱلْءَاخِرَةِ ۚ وَكَانَ ٱللَّهُ سَمِيعًۢا بَصِيرًۭا
 
-**4:135**  O chi sy’n credu! Sefwch yn gadarn dros gyfiawnder, fel tystion i Allah, hyd yn oed os yn eich erbyn eich hunain, neu eich rhieni, neu eich perthnasau. P’un a yw un yn gyfoethog neu’n dlawd, mae Allah yn gofalu am y ddau. Felly peidiwch â dilyn eich chwantau, rhag i chi wyro. Os gwyrowch, neu’n troi ymaith — yna mae Allah yn Ymwybodol o’r hyn yr ydych yn ei wneud.
+**4:135**  O chi sy'n credu! Sefwch yn gadarn dros gyfiawnder, fel tystion i Allah, hyd yn oed os yn eich erbyn eich hunain, neu eich rhieni, neu eich perthnasau. P'un a yw un yn gyfoethog neu'n dlawd, mae Allah yn gofalu am y ddau. Felly peidiwch â dilyn eich chwantau, rhag i chi wyro. Os gwyrowch, neu'n troi ymaith — yna mae Allah yn Ymwybodol o'r hyn yr ydych yn ei wneud.
 
 ۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ ۚ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًۭا فَٱللَّهُ أَوْلَىٰ بِهِمَا ۖ فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ ۚ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًۭا
 
-**4:136**  O chi sy’n credu! Credwch yn Allah a’i genhadwr, a’r Llyfr a anfonodd i lawr i’w genhadwr, a’r Llyfr a anfonodd i lawr o’r blaen. Pwy bynnag sy’n gwrthod Allah, ei angylion, ei Lyfrau, ei genhadon, a’r Dydd Olaf, sydd wedi crwydro ymhell mewn cyfeiliorn.
+**4:136**  O chi sy'n credu! Credwch yn Allah a'i genhadwr, a'r Llyfr a anfonodd i lawr i'w genhadwr, a'r Llyfr a anfonodd i lawr o'r blaen. Pwy bynnag sy'n gwrthod Allah, ei angylion, ei Lyfrau, ei genhadon, a'r Dydd Olaf, sydd wedi crwydro ymhell mewn cyfeiliorn.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱلْكِتَٰبِ ٱلَّذِى نَزَّلَ عَلَىٰ رَسُولِهِۦ وَٱلْكِتَٰبِ ٱلَّذِىٓ أَنزَلَ مِن قَبْلُ ۚ وَمَن يَكْفُرْ بِٱللَّهِ وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ وَٱلْيَوْمِ ٱلْءَاخِرِ فَقَدْ ضَلَّ ضَلَٰلًۢا بَعِيدًا
 
-**4:137**  Y rhai sy’n credu, yna’n anghredu, yna’n credu, yna’n anghredu, yna’n cynyddu mewn anghrediniaeth, ni fydd Allah yn eu maddau, ac ni fydd yn eu harwain i ffordd.
+**4:137**  Y rhai sy'n credu, yna'n anghredu, yna'n credu, yna'n anghredu, yna'n cynyddu mewn anghrediniaeth, ni fydd Allah yn eu maddau, ac ni fydd yn eu harwain i ffordd.
 
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ٱزْدَادُوا۟ كُفْرًۭا لَّمْ يَكُنِ ٱللَّهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ سَبِيلًۢا
 
-**4:138**  Hysbysa’r rhagrithwyr y bydd ganddynt gosb boenus.
+**4:138**  Hysbysa'r rhagrithwyr y bydd ganddynt gosb boenus.
 
 بَشِّرِ ٱلْمُنَٰفِقِينَ بِأَنَّ لَهُمْ عَذَابًا أَلِيمًا
 
-**4:139**  Y rhai sy’n cynghreirio eu hunain â’r anghredinwyr yn lle’r credinwyr. A ydynt yn ceisio gogoniant ynddynt? I Allah y perthyn pob gogoniant.
+**4:139**  Y rhai sy'n cynghreirio eu hunain â'r anghredinwyr yn lle'r credinwyr. A ydynt yn ceisio gogoniant ynddynt? I Allah y perthyn pob gogoniant.
 
 ٱلَّذِينَ يَتَّخِذُونَ ٱلْكَٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ ۚ أَيَبْتَغُونَ عِندَهُمُ ٱلْعِزَّةَ فَإِنَّ ٱلْعِزَّةَ لِلَّهِ جَمِيعًۭا
 
-**4:140**  Mae wedi datguddio i chi yn y Llyfr fod pan glywch ddatguddiadau Allah yn cael eu gwrthod, neu eu gwatwar, peidiwch ag eistedd gyda nhw nes iddynt ymgymryd â rhyw bwnc arall. Fel arall, byddech fel nhw. Bydd Allah yn casglu’r rhagrithwyr a’r anghredinwyr, i Uffern, gyda’i gilydd.
+**4:140**  Mae wedi datguddio i chi yn y Llyfr fod pan glywch ddatguddiadau Allah yn cael eu gwrthod, neu eu gwatwar, peidiwch ag eistedd gyda nhw nes iddynt ymgymryd â rhyw bwnc arall. Fel arall, byddech fel nhw. Bydd Allah yn casglu'r rhagrithwyr a'r anghredinwyr, i Uffern, gyda'i gilydd.
 
 وَقَدْ نَزَّلَ عَلَيْكُمْ فِى ٱلْكِتَٰبِ أَنْ إِذَا سَمِعْتُمْ ءَايَٰتِ ٱللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا۟ مَعَهُمْ حَتَّىٰ يَخُوضُوا۟ فِى حَدِيثٍ غَيْرِهِۦٓ ۚ إِنَّكُمْ إِذًۭا مِّثْلُهُمْ ۗ إِنَّ ٱللَّهَ جَامِعُ ٱلْمُنَٰفِقِينَ وَٱلْكَٰفِرِينَ فِى جَهَنَّمَ جَمِيعًا
 
-**4:141**  Y rhai sy’n gorwedd yn disgwyl amdanoch: os cyrhaeddwch fuddugoliaeth oddi wrth Allah, maent yn dweud, “Onid oeddem gyda chi?” Ond os bydd yr anghredinwyr yn cael tro, maent yn dweud, “Oni wnaethom ochri â chi, a’ch amddiffyn rhag y credinwyr?” Bydd Allah yn barnu rhyngoch ar Ddydd yr Atgyfodiad; ac ni fydd Allah yn rhoi i’r anghredinwyr fodd i drechu’r credinwyr.
+**4:141**  Y rhai sy'n gorwedd yn disgwyl amdanoch: os cyrhaeddwch fuddugoliaeth oddi wrth Allah, maent yn dweud, "Onid oeddem gyda chi?" Ond os bydd yr anghredinwyr yn cael tro, maent yn dweud, "Oni wnaethom ochri â chi, a'ch amddiffyn rhag y credinwyr?" Bydd Allah yn barnu rhyngoch ar Ddydd yr Atgyfodiad; ac ni fydd Allah yn rhoi i'r anghredinwyr fodd i drechu'r credinwyr.
 
 ٱلَّذِينَ يَتَرَبَّصُونَ بِكُمْ فَإِن كَانَ لَكُمْ فَتْحٌۭ مِّنَ ٱللَّهِ قَالُوٓا۟ أَلَمْ نَكُن مَّعَكُمْ وَإِن كَانَ لِلْكَٰفِرِينَ نَصِيبٌۭ قَالُوٓا۟ أَلَمْ نَسْتَحْوِذْ عَلَيْكُمْ وَنَمْنَعْكُم مِّنَ ٱلْمُؤْمِنِينَ ۚ فَٱللَّهُ يَحْكُمُ بَيْنَكُمْ يَوْمَ ٱلْقِيَٰمَةِ ۗ وَلَن يَجْعَلَ ٱللَّهُ لِلْكَٰفِرِينَ عَلَى ٱلْمُؤْمِنِينَ سَبِيلًا
 
-**4:142**  Mae’r rhagrithwyr yn ceisio twyllo Allah, ond Ef sy’n eu twyllo. A phan fyddant yn sefyll ar gyfer gweddi, maent yn sefyll yn ddiog, yn dangos eu hunain o flaen pobl, ac yn cofio Allah ond ychydig.
+**4:142**  Mae'r rhagrithwyr yn ceisio twyllo Allah, ond Ef sy'n eu twyllo. A phan fyddant yn sefyll ar gyfer gweddi, maent yn sefyll yn ddiog, yn dangos eu hunain o flaen pobl, ac yn cofio Allah ond ychydig.
 
 إِنَّ ٱلْمُنَٰفِقِينَ يُخَٰدِعُونَ ٱللَّهَ وَهُوَ خَٰدِعُهُمْ وَإِذَا قَامُوٓا۟ إِلَى ٱلصَّلَوٰةِ قَامُوا۟ كُسَالَىٰ يُرَآءُونَ ٱلنَّاسَ وَلَا يَذْكُرُونَ ٱللَّهَ إِلَّا قَلِيلًۭا
 
-**4:143**  Yn wahanol rhyngddynt, heb fod gyda’r rhain, nac â’r rheiny. Pwy bynnag y mae Allah yn ei anfon ar gyfeiliorn, ni chei byth ffordd iddo.
+**4:143**  Yn wahanol rhyngddynt, heb fod gyda'r rhain, nac â'r rheiny. Pwy bynnag y mae Allah yn ei anfon ar gyfeiliorn, ni chei byth ffordd iddo.
 
 مُّذَبْذَبِينَ بَيْنَ ذَٰلِكَ لَآ إِلَىٰ هَٰٓؤُلَآءِ وَلَآ إِلَىٰ هَٰٓؤُلَآءِ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلًۭا
 
-**4:144**  O chi sy’n credu! Peidiwch â chyfeillio ag anghredinwyr yn hytrach na chredinwyr. A ydych am roi i Allah achos eglur yn eich erbyn?
+**4:144**  O chi sy'n credu! Peidiwch â chyfeillio ag anghredinwyr yn hytrach na chredinwyr. A ydych am roi i Allah achos eglur yn eich erbyn?
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ ٱلْكَٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ ۚ أَتُرِيدُونَ أَن تَجْعَلُوا۟ لِلَّهِ عَلَيْكُمْ سُلْطَٰنًۭا مُّبِينًا
 
@@ -2750,7 +2750,7 @@
 
 إِنَّ ٱلْمُنَٰفِقِينَ فِى ٱلدَّرْكِ ٱلْأَسْفَلِ مِنَ ٱلنَّارِ وَلَن تَجِدَ لَهُمْ نَصِيرًا
 
-**4:146**  Ac eithrio’r rhai sy’n edifarhau, ac yn diwygio, ac yn dal yn dynn wrth Allah, ac yn cysegru eu crefydd i Allah yn unig. Y rhain sydd gyda’r credinwyr; a bydd Allah yn rhoi i’r credinwyr wobr fawr.
+**4:146**  Ac eithrio'r rhai sy'n edifarhau, ac yn diwygio, ac yn dal yn dynn wrth Allah, ac yn cysegru eu crefydd i Allah yn unig. Y rhain sydd gyda'r credinwyr; a bydd Allah yn rhoi i'r credinwyr wobr fawr.
 
 إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَٱعْتَصَمُوا۟ بِٱللَّهِ وَأَخْلَصُوا۟ دِينَهُمْ لِلَّهِ فَأُو۟لَٰٓئِكَ مَعَ ٱلْمُؤْمِنِينَ ۖ وَسَوْفَ يُؤْتِ ٱللَّهُ ٱلْمُؤْمِنِينَ أَجْرًا عَظِيمًۭا
 
@@ -2758,7 +2758,7 @@
 
 مَّا يَفْعَلُ ٱللَّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَءَامَنتُمْ ۚ وَكَانَ ٱللَّهُ شَاكِرًا عَلِيمًۭا
 
-**4:148**  Nid yw Allah yn hoffi’r ynganu cyhoeddus o iaith ddrwg, oni bai bod rhywun wedi cael cam. Mae Allah yn Glywedol ac yn Wybodus.
+**4:148**  Nid yw Allah yn hoffi'r ynganu cyhoeddus o iaith ddrwg, oni bai bod rhywun wedi cael cam. Mae Allah yn Glywedol ac yn Wybodus.
 
 ۞ لَّا يُحِبُّ ٱللَّهُ ٱلْجَهْرَ بِٱلسُّوٓءِ مِنَ ٱلْقَوْلِ إِلَّا مَن ظُلِمَ ۚ وَكَانَ ٱللَّهُ سَمِيعًا عَلِيمًا
 
@@ -2766,39 +2766,39 @@
 
 إِن تُبْدُوا۟ خَيْرًا أَوْ تُخْفُوهُ أَوْ تَعْفُوا۟ عَن سُوٓءٍۢ فَإِنَّ ٱللَّهَ كَانَ عَفُوًّۭا قَدِيرًا
 
-**4:150**  Y rhai sy’n anghredu yn Allah a’i genhadon, ac yn dymuno gwahanu rhwng Allah a’i genhadon, ac yn dweud, “Rydym yn credu mewn rhai, ac yn gwrthod rhai,” ac yn dymuno cymryd llwybr rhyngddynt.
+**4:150**  Y rhai sy'n anghredu yn Allah a'i genhadon, ac yn dymuno gwahanu rhwng Allah a'i genhadon, ac yn dweud, "Rydym yn credu mewn rhai, ac yn gwrthod rhai," ac yn dymuno cymryd llwybr rhyngddynt.
 
 إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِٱللَّهِ وَرُسُلِهِۦ وَيُرِيدُونَ أَن يُفَرِّقُوا۟ بَيْنَ ٱللَّهِ وَرُسُلِهِۦ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍۢ وَنَكْفُرُ بِبَعْضٍۢ وَيُرِيدُونَ أَن يَتَّخِذُوا۟ بَيْنَ ذَٰلِكَ سَبِيلًا
 
-**4:151**  Y rhain yw’r anghredinwyr, yn wir. Yr ydym wedi paratoi ar gyfer yr anghredinwyr gosb warthus.
+**4:151**  Y rhain yw'r anghredinwyr, yn wir. Yr ydym wedi paratoi ar gyfer yr anghredinwyr gosb warthus.
 
 أُو۟لَٰٓئِكَ هُمُ ٱلْكَٰفِرُونَ حَقًّۭا ۚ وَأَعْتَدْنَا لِلْكَٰفِرِينَ عَذَابًۭا مُّهِينًۭا
 
-**4:152**  O ran y rhai sy’n credu yn Allah a’i genhadon, ac yn gwneud dim gwahaniaeth rhwng unrhyw un ohonynt — bydd yn rhoi iddynt eu gwobrau. Mae Allah yn Faddeuwr ac yn Drugarog.
+**4:152**  O ran y rhai sy'n credu yn Allah a'i genhadon, ac yn gwneud dim gwahaniaeth rhwng unrhyw un ohonynt — bydd yn rhoi iddynt eu gwobrau. Mae Allah yn Faddeuwr ac yn Drugarog.
 
 وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَلَمْ يُفَرِّقُوا۟ بَيْنَ أَحَدٍۢ مِّنْهُمْ أُو۟لَٰٓئِكَ سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا
 
-**4:153**  Mae Pobl yr Ysgrythur yn dy herio i ddod â llyfr i lawr iddynt o’r awyr. Yr oeddent wedi gofyn i Moses am rywbeth hyd yn oed yn fwy. Dywedasant, “Dangos i ni Allah yn eglur.” Trawodd y fellt nhw am eu drygioni. Yna cymerasant y llo i’w addoli, hyd yn oed ar ôl i’r profion eglur ddod atynt. Eto maddeuasom hynny, a rhoddasom i Moses awdurdod eglur.
+**4:153**  Mae Pobl yr Ysgrythur yn dy herio i ddod â llyfr i lawr iddynt o'r awyr. Yr oeddent wedi gofyn i Moses am rywbeth hyd yn oed yn fwy. Dywedasant, "Dangos i ni Allah yn eglur." Trawodd y fellt nhw am eu drygioni. Yna cymerasant y llo i'w addoli, hyd yn oed ar ôl i'r profion eglur ddod atynt. Eto maddeuasom hynny, a rhoddasom i Moses awdurdod eglur.
 
 يَسْـَٔلُكَ أَهْلُ ٱلْكِتَٰبِ أَن تُنَزِّلَ عَلَيْهِمْ كِتَٰبًۭا مِّنَ ٱلسَّمَآءِ ۚ فَقَدْ سَأَلُوا۟ مُوسَىٰٓ أَكْبَرَ مِن ذَٰلِكَ فَقَالُوٓا۟ أَرِنَا ٱللَّهَ جَهْرَةًۭ فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ بِظُلْمِهِمْ ۚ ثُمَّ ٱتَّخَذُوا۟ ٱلْعِجْلَ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ فَعَفَوْنَا عَن ذَٰلِكَ ۚ وَءَاتَيْنَا مُوسَىٰ سُلْطَٰنًۭا مُّبِينًۭا
 
-**4:154**  A choddasom y Mynydd uwchben nhw yn unol â’u cyfamod, a dywedasom wrthynt, “Ewch i mewn i’r porth yn ostyngedig”, a dywedasom wrthynt, “Peidiwch â thorri’r Saboth”, a derbyniasom oddi wrthynt addewid difrifol.
+**4:154**  A choddasom y Mynydd uwchben nhw yn unol â'u cyfamod, a dywedasom wrthynt, "Ewch i mewn i'r porth yn ostyngedig", a dywedasom wrthynt, "Peidiwch â thorri'r Saboth", a derbyniasom oddi wrthynt addewid difrifol.
 
 وَرَفَعْنَا فَوْقَهُمُ ٱلطُّورَ بِمِيثَٰقِهِمْ وَقُلْنَا لَهُمُ ٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًۭا وَقُلْنَا لَهُمْ لَا تَعْدُوا۟ فِى ٱلسَّبْتِ وَأَخَذْنَا مِنْهُم مِّيثَٰقًا غَلِيظًۭا
 
-**4:155**  Ond am eu torri o’u cyfamod, a’u gwadu o ddatguddiadau Allah, a’u lladd o’r proffwydi yn anghyfiawn, a’u dweud, “Mae ein meddyliau ar gau.” Yn wir, mae Allah wedi eu selio am eu hanghrediniaeth, felly nid ydynt yn credu, ac eithrio ychydig.
+**4:155**  Ond am eu torri o'u cyfamod, a'u gwadu o ddatguddiadau Allah, a'u lladd o'r proffwydi yn anghyfiawn, a'u dweud, "Mae ein meddyliau ar gau." Yn wir, mae Allah wedi eu selio am eu hanghrediniaeth, felly nid ydynt yn credu, ac eithrio ychydig.
 
 فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ وَكُفْرِهِم بِـَٔايَٰتِ ٱللَّهِ وَقَتْلِهِمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّۢ وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌۢ ۚ بَلْ طَبَعَ ٱللَّهُ عَلَيْهَا بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًۭا
 
-**4:156**  Ac am eu hanghrediniaeth, a’u dweud yn erbyn Mair athrod aruthrol.
+**4:156**  Ac am eu hanghrediniaeth, a'u dweud yn erbyn Mair athrod aruthrol.
 
 وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلَىٰ مَرْيَمَ بُهْتَٰنًا عَظِيمًۭا
 
-**4:157**  Ac am eu dweud, “Yr ydym wedi lladd y Meseia, Iesu, mab Mair, Cenhadwr Allah.” Yn wir, ni wnaethant ei ladd, ac ni wnaethant ei groeshoelio, ond ymddangosodd iddynt fel pe baent wedi gwneud. Yn wir, mae’r rhai sy’n anghytuno amdano mewn amheuaeth amdano. Nid oes ganddynt wybodaeth ohono, ac eithrio dilyn tybiaethau. Yn sicr, ni wnaethant ei ladd.
+**4:157**  Ac am eu dweud, "Yr ydym wedi lladd y Meseia, Iesu, mab Mair, Cenhadwr Allah." Yn wir, ni wnaethant ei ladd, ac ni wnaethant ei groeshoelio, ond ymddangosodd iddynt fel pe baent wedi gwneud. Yn wir, mae'r rhai sy'n anghytuno amdano mewn amheuaeth amdano. Nid oes ganddynt wybodaeth ohono, ac eithrio dilyn tybiaethau. Yn sicr, ni wnaethant ei ladd.
 
 وَقَوْلِهِمْ إِنَّا قَتَلْنَا ٱلْمَسِيحَ عِيسَى ٱبْنَ مَرْيَمَ رَسُولَ ٱللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِن شُبِّهَ لَهُمْ ۚ وَإِنَّ ٱلَّذِينَ ٱخْتَلَفُوا۟ فِيهِ لَفِى شَكٍّۢ مِّنْهُ ۚ مَا لَهُم بِهِۦ مِنْ عِلْمٍ إِلَّا ٱتِّبَاعَ ٱلظَّنِّ ۚ وَمَا قَتَلُوهُ يَقِينًۢا
 
-**4:158**  Yn hytrach, cododd Allah ef i fyny ato’i Hun. Mae Allah yn Nerthol ac yn Ddoeth.
+**4:158**  Yn hytrach, cododd Allah ef i fyny ato'i Hun. Mae Allah yn Nerthol ac yn Ddoeth.
 
 بَل رَّفَعَهُ ٱللَّهُ إِلَيْهِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًۭا
 
@@ -2814,11 +2814,11 @@
 
 وَأَخْذِهِمُ ٱلرِّبَوٰا۟ وَقَدْ نُهُوا۟ عَنْهُ وَأَكْلِهِمْ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ ۚ وَأَعْتَدْنَا لِلْكَٰفِرِينَ مِنْهُمْ عَذَابًا أَلِيمًۭا
 
-**4:162**  Ond y rhai yn eu plith sydd wedi eu gwreiddio’n gadarn mewn gwybodaeth, a’r credinwyr, sy’n credu yn yr hyn a ddatguddiwyd i ti, ac yn yr hyn a ddatguddiwyd o’th flaen; a’r sylwedyddion ar weddïau, a’r rhoddwyr elusen, a’r credinwyr yn Allah a’r Dydd Olaf — ar y rhai hyn byddwn yn rhoi gwobr anferth.
+**4:162**  Ond y rhai yn eu plith sydd wedi eu gwreiddio'n gadarn mewn gwybodaeth, a'r credinwyr, sy'n credu yn yr hyn a ddatguddiwyd i ti, ac yn yr hyn a ddatguddiwyd o'th flaen; a'r sylwedyddion ar weddïau, a'r rhoddwyr elusen, a'r credinwyr yn Allah a'r Dydd Olaf — ar y rhai hyn byddwn yn rhoi gwobr anferth.
 
 لَّٰكِنِ ٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ مِنْهُمْ وَٱلْمُؤْمِنُونَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ ۚ وَٱلْمُقِيمِينَ ٱلصَّلَوٰةَ ۚ وَٱلْمُؤْتُونَ ٱلزَّكَوٰةَ وَٱلْمُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ أُو۟لَٰٓئِكَ سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا
 
-**4:163**  Yr ydym wedi dy ysbrydoli, fel y gwnaethom ysbrydoli Noa a’r proffwydi ar ei ôl. Ac ysbrydolasom Abraham, ac Ismael, ac Isaac, a Jacob, a’r Pendefigion, ac Iesu, a Job, a Jona, ac Aaron, a Solomon. A rhoddasom i Ddafydd y Salmau.
+**4:163**  Yr ydym wedi dy ysbrydoli, fel y gwnaethom ysbrydoli Noa a'r proffwydi ar ei ôl. Ac ysbrydolasom Abraham, ac Ismael, ac Isaac, a Jacob, a'r Pendefigion, ac Iesu, a Job, a Jona, ac Aaron, a Solomon. A rhoddasom i Ddafydd y Salmau.
 
 ۞ إِنَّآ أَوْحَيْنَآ إِلَيْكَ كَمَآ أَوْحَيْنَآ إِلَىٰ نُوحٍۢ وَٱلنَّبِيِّۦنَ مِنۢ بَعْدِهِۦ ۚ وَأَوْحَيْنَآ إِلَىٰٓ إِبْرَٰهِيمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَعِيسَىٰ وَأَيُّوبَ وَيُونُسَ وَهَٰرُونَ وَسُلَيْمَٰنَ ۚ وَءَاتَيْنَا دَاوُۥدَ زَبُورًۭا
 
@@ -2830,35 +2830,35 @@
 
 رُّسُلًۭا مُّبَشِّرِينَ وَمُنذِرِينَ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى ٱللَّهِ حُجَّةٌۢ بَعْدَ ٱلرُّسُلِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًۭا
 
-**4:166**  Ond mae Allah yn tystio i’r hyn a ddatguddiodd i ti. Datguddiodd ef â’i wybodaeth. Ac mae’r angylion yn tystio. Er bod Allah yn dyst ddigonol.
+**4:166**  Ond mae Allah yn tystio i'r hyn a ddatguddiodd i ti. Datguddiodd ef â'i wybodaeth. Ac mae'r angylion yn tystio. Er bod Allah yn dyst ddigonol.
 
 لَّٰكِنِ ٱللَّهُ يَشْهَدُ بِمَآ أَنزَلَ إِلَيْكَ ۖ أَنزَلَهُۥ بِعِلْمِهِۦ ۖ وَٱلْمَلَٰٓئِكَةُ يَشْهَدُونَ ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًا
 
-**4:167**  Y rhai sy’n anghredu ac yn troi oddi ar lwybr Allah sydd wedi mynd ymhell ar gyfeiliorn.
+**4:167**  Y rhai sy'n anghredu ac yn troi oddi ar lwybr Allah sydd wedi mynd ymhell ar gyfeiliorn.
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ قَدْ ضَلُّوا۟ ضَلَٰلًۢا بَعِيدًا
 
-**4:168**  Y rhai sy’n anghredu ac yn troseddu; nid yw Allah ar fin eu maddau, ac ni fydd yn eu harwain i unrhyw lwybr.
+**4:168**  Y rhai sy'n anghredu ac yn troseddu; nid yw Allah ar fin eu maddau, ac ni fydd yn eu harwain i unrhyw lwybr.
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَظَلَمُوا۟ لَمْ يَكُنِ ٱللَّهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ طَرِيقًا
 
-**4:169**  Ac eithrio i lwybr Uffern, lle byddant yn trigo am byth. Ac mae hynny’n hawdd i Allah.
+**4:169**  Ac eithrio i lwybr Uffern, lle byddant yn trigo am byth. Ac mae hynny'n hawdd i Allah.
 
 إِلَّا طَرِيقَ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أَبَدًۭا ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًۭا
 
-**4:170**  O bobl! Mae’r Cenhadwr wedi dod atoch â’r gwirionedd oddi wrth eich Arglwydd, felly credwch — mae hynny orau i chi. Ond os anghredwch, i Allah y perthyn popeth yn y nefoedd a’r ddaear. Mae Allah yn Hollwybodus ac yn Ddoeth.
+**4:170**  O bobl! Mae'r Cenhadwr wedi dod atoch â'r gwirionedd oddi wrth eich Arglwydd, felly credwch — mae hynny orau i chi. Ond os anghredwch, i Allah y perthyn popeth yn y nefoedd a'r ddaear. Mae Allah yn Hollwybodus ac yn Ddoeth.
 
 يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُمُ ٱلرَّسُولُ بِٱلْحَقِّ مِن رَّبِّكُمْ فَـَٔامِنُوا۟ خَيْرًۭا لَّكُمْ ۚ وَإِن تَكْفُرُوا۟ فَإِنَّ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًۭا
 
-**4:171**  O Bobl yr Ysgrythur! Peidiwch â gorliwio yn eich crefydd, a pheidiwch â dweud am Allah ond y gwirionedd. Y Meseia, Iesu, mab Mair, yw Cenhadwr Allah, a’i Air a gyfleuodd i Mair, ac Ysbryd oddi wrtho. Felly credwch yn Allah a’i genhadon, a pheidiwch â dweud, “Tri.” Ymataliwch — mae’n well i chi. Dim ond un Duw yw Allah. Gogoniant iddo — na ddylai fod ganddo fab. Iddo y perthyn popeth yn y nefoedd a’r ddaear, ac mae Allah yn Amddiffynnwr ddigonol.
+**4:171**  O Bobl yr Ysgrythur! Peidiwch â gorliwio yn eich crefydd, a pheidiwch â dweud am Allah ond y gwirionedd. Y Meseia, Iesu, mab Mair, yw Cenhadwr Allah, a'i Air a gyfleuodd i Mair, ac Ysbryd oddi wrtho. Felly credwch yn Allah a'i genhadon, a pheidiwch â dweud, "Tri." Ymataliwch — mae'n well i chi. Dim ond un Duw yw Allah. Gogoniant iddo — na ddylai fod ganddo fab. Iddo y perthyn popeth yn y nefoedd a'r ddaear, ac mae Allah yn Amddiffynnwr ddigonol.
 
 يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ وَلَا تَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ ۚ إِنَّمَا ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ رَسُولُ ٱللَّهِ وَكَلِمَتُهُۥٓ أَلْقَىٰهَآ إِلَىٰ مَرْيَمَ وَرُوحٌۭ مِّنْهُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۖ وَلَا تَقُولُوا۟ ثَلَٰثَةٌ ۚ ٱنتَهُوا۟ خَيْرًۭا لَّكُمْ ۚ إِنَّمَا ٱللَّهُ إِلَٰهٌۭ وَٰحِدٌۭ ۖ سُبْحَٰنَهُۥٓ أَن يَكُونَ لَهُۥ وَلَدٌۭ ۘ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَكَفَىٰ بِٱللَّهِ وَكِيلًۭا
 
-**4:172**  Nid yw’r Meseia yn diystyru bod yn was i Allah, ac nid yw’r angylion ffafriedig chwaith. Pwy bynnag sy’n diystyru ei addoliad, ac yn rhy falch — bydd yn eu crynhoi ato’i Hun gyda’i gilydd.
+**4:172**  Nid yw'r Meseia yn diystyru bod yn was i Allah, ac nid yw'r angylion ffafriedig chwaith. Pwy bynnag sy'n diystyru ei addoliad, ac yn rhy falch — bydd yn eu crynhoi ato'i Hun gyda'i gilydd.
 
 لَّن يَسْتَنكِفَ ٱلْمَسِيحُ أَن يَكُونَ عَبْدًۭا لِّلَّهِ وَلَا ٱلْمَلَٰٓئِكَةُ ٱلْمُقَرَّبُونَ ۚ وَمَن يَسْتَنكِفْ عَنْ عِبَادَتِهِۦ وَيَسْتَكْبِرْ فَسَيَحْشُرُهُمْ إِلَيْهِ جَمِيعًۭا
 
-**4:173**  Ond o ran y rhai sy’n credu ac yn gwneud gweithredoedd da, bydd yn talu iddynt eu cyflogau yn llawn, ac yn cynyddu ei ras iddynt. Ond o ran y rhai sy’n diystyru ac yn rhy falch, bydd yn eu cosbi â chosb boenus. Ac ni chant ddod o hyd iddynt eu hunain, ar wahân i Allah, unrhyw arglwydd nac achubwr.
+**4:173**  Ond o ran y rhai sy'n credu ac yn gwneud gweithredoedd da, bydd yn talu iddynt eu cyflogau yn llawn, ac yn cynyddu ei ras iddynt. Ond o ran y rhai sy'n diystyru ac yn rhy falch, bydd yn eu cosbi â chosb boenus. Ac ni chant ddod o hyd iddynt eu hunain, ar wahân i Allah, unrhyw arglwydd nac achubwr.
 
 فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ وَيَزِيدُهُم مِّن فَضْلِهِۦ ۖ وَأَمَّا ٱلَّذِينَ ٱسْتَنكَفُوا۟ وَٱسْتَكْبَرُوا۟ فَيُعَذِّبُهُمْ عَذَابًا أَلِيمًۭا وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيًّۭا وَلَا نَصِيرًۭا
 
@@ -2866,11 +2866,11 @@
 
 يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُم بُرْهَٰنٌۭ مِّن رَّبِّكُمْ وَأَنزَلْنَآ إِلَيْكُمْ نُورًۭا مُّبِينًۭا
 
-**4:175**  O ran y rhai sy’n credu yn Allah, ac yn dal yn dynn wrtho, bydd yn eu derbyn i drugaredd a gras oddi wrtho, ac yn eu harwain ato’i Hun mewn llwybr union.
+**4:175**  O ran y rhai sy'n credu yn Allah, ac yn dal yn dynn wrtho, bydd yn eu derbyn i drugaredd a gras oddi wrtho, ac yn eu harwain ato'i Hun mewn llwybr union.
 
 فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَٱعْتَصَمُوا۟ بِهِۦ فَسَيُدْخِلُهُمْ فِى رَحْمَةٍۢ مِّنْهُ وَفَضْلٍۢ وَيَهْدِيهِمْ إِلَيْهِ صِرَٰطًۭا مُّسْتَقِيمًۭا
 
-**4:176**  Maent yn gofyn i ti am ddyfarniad. Dywed, “Mae Allah yn rhoi dyfarniad i chi ynghylch y person nad oes ganddo rieni na phlant.” Os bydd dyn yn marw, ac yn gadael dim plant, ac roedd ganddo chwaer, mae’n derbyn un hanner o’r hyn y mae’n ei adael. Ac mae’n etifeddu oddi wrthi os nad yw’n gadael plant. Ond os oes dwy chwaer, maent yn derbyn dwy ran o dair o’r hyn y mae’n ei adael. Os yw’r brodyr a’r chwiorydd yn ddynion a gwragedd, mae’r gwryw yn derbyn cyfran dwy fenyw.” Mae Allah yn gwneud pethau’n eglur i chi, rhag i chi gyfeiliorni. Mae Allah yn Ymwybodol o bopeth.
+**4:176**  Maent yn gofyn i ti am ddyfarniad. Dywed, "Mae Allah yn rhoi dyfarniad i chi ynghylch y person nad oes ganddo rieni na phlant." Os bydd dyn yn marw, ac yn gadael dim plant, ac roedd ganddo chwaer, mae'n derbyn un hanner o'r hyn y mae'n ei adael. Ac mae'n etifeddu oddi wrthi os nad yw'n gadael plant. Ond os oes dwy chwaer, maent yn derbyn dwy ran o dair o'r hyn y mae'n ei adael. Os yw'r brodyr a'r chwiorydd yn ddynion a gwragedd, mae'r gwryw yn derbyn cyfran dwy fenyw." Mae Allah yn gwneud pethau'n eglur i chi, rhag i chi gyfeiliorni. Mae Allah yn Ymwybodol o bopeth.
 
 يَسْتَفْتُونَكَ قُلِ ٱللَّهُ يُفْتِيكُمْ فِى ٱلْكَلَٰلَةِ ۚ إِنِ ٱمْرُؤٌا۟ هَلَكَ لَيْسَ لَهُۥ وَلَدٌۭ وَلَهُۥٓ أُخْتٌۭ فَلَهَا نِصْفُ مَا تَرَكَ ۚ وَهُوَ يَرِثُهَآ إِن لَّمْ يَكُن لَّهَا وَلَدٌۭ ۚ فَإِن كَانَتَا ٱثْنَتَيْنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَ ۚ وَإِن كَانُوٓا۟ إِخْوَةًۭ رِّجَالًۭا وَنِسَآءًۭ فَلِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ ۗ يُبَيِّنُ ٱللَّهُ لَكُمْ أَن تَضِلُّوا۟ ۗ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ
 
@@ -2906,9 +2906,9 @@
 
 ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ ۖ وَطَعَامُ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حِلٌّۭ لَّكُمْ وَطَعَامُكُمْ حِلٌّۭ لَّهُمْ ۖ وَٱلْمُحْصَنَٰتُ مِنَ ٱلْمُؤْمِنَٰتِ وَٱلْمُحْصَنَٰتُ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَٰفِحِينَ وَلَا مُتَّخِذِىٓ أَخْدَانٍۢ ۗ وَمَن يَكْفُرْ بِٱلْإِيمَٰنِ فَقَدْ حَبِطَ عَمَلُهُۥ وَهُوَ فِى ٱلْءَاخِرَةِ مِنَ ٱلْخَٰسِرِينَ
 
-**5:6**  O chi sy'n credu! Pan godwch i weddïo, golchwch eich wynebau a'ch dwylo a'ch breichiau hyd y penelinoedd, a sychwch eich pennau, a golchwch eich traed hyd y fferau.
+**5:6**  O chi sy'n credu! Pan godwch i weddïo, golchwch eich wynebau a'ch dwylo a'ch breichiau hyd y penelinoedd, a sychwch eich pennau, a sychwch eich traed hyd y fferau.
 
-*[Mae rhai darlleniadau'n parhau'r sychu i'r traed; mae'r darlleniad a argraffwyd yma'n dweud golchi.]*
+
 
 Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar daith, neu os daw un ohonoch o'r tŷ bach, neu os cawsoch gyswllt â gwragedd, ac na allech gael dŵr, yna defnyddiwch ychydig o bridd glân a sychwch eich wynebau a'ch dwylo ag ef. Nid yw Allah yn bwriadu eich beichio, ond y mae'n bwriadu eich glanhau, ac i gwblhau Ei fendith arnoch, fel y byddoch yn ddiolchgar.
 
@@ -8537,7 +8537,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَكُلَّ إِنسَٰنٍ أَلْزَمْنَٰهُ طَٰٓئِرَهُۥ فِى عُنُقِهِۦ ۖ وَنُخْرِجُ لَهُۥ يَوْمَ ٱلْقِيَٰمَةِ كِتَٰبًۭا يَلْقَىٰهُ مَنشُورًا
 
-**17:14**  “Darllen dy lyfr; heddiw ni bydd neb ond ti dy hun i'th alw i gyfrif.”
+**17:14**  "Darllen dy lyfr; heddiw ni bydd neb ond ti dy hun i'th alw i gyfrif."
 
 ٱقْرَأْ كِتَٰبَكَ كَفَىٰ بِنَفْسِكَ ٱلْيَوْمَ عَلَيْكَ حَسِيبًۭا
 
@@ -8577,7 +8577,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ۞ وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا ۚ إِمَّا يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّۢ وَلَا تَنْهَرْهُمَا وَقُل لَّهُمَا قَوْلًۭا كَرِيمًۭا
 
-**17:24**  A gostwng iddynt adain yr ymostyngiad, o drugaredd, a dywed, “Fy Arglwydd, trugarha wrthynt, fel y'm magasant pan oeddwn yn blentyn.”
+**17:24**  A gostwng iddynt adain yr ymostyngiad, o drugaredd, a dywed, "Fy Arglwydd, trugarha wrthynt, fel y'm magasant pan oeddwn yn blentyn."
 
 وَٱخْفِضْ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحْمَةِ وَقُل رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى صَغِيرًۭا
 
@@ -8649,7 +8649,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَلَقَدْ صَرَّفْنَا فِى هَٰذَا ٱلْقُرْءَانِ لِيَذَّكَّرُوا۟ وَمَا يَزِيدُهُمْ إِلَّا نُفُورًۭا
 
-**17:42**  Dywed, “Pe bai duwiau eraill gydag Ef, fel y dywedant nhw, buasent wedi ceisio ffordd at Arglwydd yr Orsedd.”
+**17:42**  Dywed, "Pe bai duwiau eraill gydag Ef, fel y dywedant nhw, buasent wedi ceisio ffordd at Arglwydd yr Orsedd."
 
 قُل لَّوْ كَانَ مَعَهُۥٓ ءَالِهَةٌۭ كَمَا يَقُولُونَ إِذًۭا لَّٱبْتَغَوْا۟ إِلَىٰ ذِى ٱلْعَرْشِ سَبِيلًۭا
 
@@ -8669,7 +8669,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًۭا ۚ وَإِذَا ذَكَرْتَ رَبَّكَ فِى ٱلْقُرْءَانِ وَحْدَهُۥ وَلَّوْا۟ عَلَىٰٓ أَدْبَٰرِهِمْ نُفُورًۭا
 
-**17:47**  Gwyddom Ni'n dda beth y maent yn gwrando arno, pan wrandawant arnat ti, wrth iddynt gynllwynio, pan ddywed y troseddwyr, “Nid ydych yn dilyn ond dyn wedi ei swyno.”
+**17:47**  Gwyddom Ni'n dda beth y maent yn gwrando arno, pan wrandawant arnat ti, wrth iddynt gynllwynio, pan ddywed y troseddwyr, "Nid ydych yn dilyn ond dyn wedi ei swyno."
 
 نَّحْنُ أَعْلَمُ بِمَا يَسْتَمِعُونَ بِهِۦٓ إِذْ يَسْتَمِعُونَ إِلَيْكَ وَإِذْ هُمْ نَجْوَىٰٓ إِذْ يَقُولُ ٱلظَّٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلًۭا مَّسْحُورًا
 
@@ -8677,15 +8677,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ٱنظُرْ كَيْفَ ضَرَبُوا۟ لَكَ ٱلْأَمْثَالَ فَضَلُّوا۟ فَلَا يَسْتَطِيعُونَ سَبِيلًۭا
 
-**17:49**  A dywedant nhw, “Pan fyddom wedi dyfod yn esgyrn a thameidiau, a wir godir ni yn greadigaeth newydd?”
+**17:49**  A dywedant nhw, "Pan fyddom wedi dyfod yn esgyrn a thameidiau, a wir godir ni yn greadigaeth newydd?"
 
 وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَٰمًۭا وَرُفَٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًۭا جَدِيدًۭا
 
-**17:50**  Dywed, “Hyd yn oed pe deuech yn greigiau neu'n haearn.
+**17:50**  Dywed, "Hyd yn oed pe deuech yn greigiau neu'n haearn.
 
 ۞ قُلْ كُونُوا۟ حِجَارَةً أَوْ حَدِيدًا
 
-**17:51**  Neu ryw sylwedd, sydd, yn eich meddyliau chi, yn galetach fyth.” Yna dywedant nhw, “Pwy a'n hadfera ni?” Dywed, “Yr Un a'ch tarddodd y tro cyntaf.” Yna ysgydwant nhw eu pennau arnat ti, a dweud, “Pryd y bydd?” Dywed, “Efallai y bydd yn fuan.”
+**17:51**  Neu ryw sylwedd, sydd, yn eich meddyliau chi, yn galetach fyth." Yna dywedant nhw, "Pwy a'n hadfera ni?" Dywed, "Yr Un a'ch tarddodd y tro cyntaf." Yna ysgydwant nhw eu pennau arnat ti, a dweud, "Pryd y bydd?" Dywed, "Efallai y bydd yn fuan."
 
 أَوْ خَلْقًۭا مِّمَّا يَكْبُرُ فِى صُدُورِكُمْ ۚ فَسَيَقُولُونَ مَن يُعِيدُنَا ۖ قُلِ ٱلَّذِى فَطَرَكُمْ أَوَّلَ مَرَّةٍۢ ۚ فَسَيُنْغِضُونَ إِلَيْكَ رُءُوسَهُمْ وَيَقُولُونَ مَتَىٰ هُوَ ۖ قُلْ عَسَىٰٓ أَن يَكُونَ قَرِيبًۭا
 
@@ -8705,7 +8705,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَرَبُّكَ أَعْلَمُ بِمَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۗ وَلَقَدْ فَضَّلْنَا بَعْضَ ٱلنَّبِيِّۦنَ عَلَىٰ بَعْضٍۢ ۖ وَءَاتَيْنَا دَاوُۥدَ زَبُورًۭا
 
-**17:56**  Dywed, “Galwch ar y rhai yr honnwch ar wahân iddo Ef. Nid oes ganddynt bŵer i leddfu eich adfyd, ac ni allant ei newid.”
+**17:56**  Dywed, "Galwch ar y rhai yr honnwch ar wahân iddo Ef. Nid oes ganddynt bŵer i leddfu eich adfyd, ac ni allant ei newid."
 
 قُلِ ٱدْعُوا۟ ٱلَّذِينَ زَعَمْتُم مِّن دُونِهِۦ فَلَا يَمْلِكُونَ كَشْفَ ٱلضُّرِّ عَنكُمْ وَلَا تَحْوِيلًا
 
@@ -8725,23 +8725,23 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَإِذْ قُلْنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِٱلنَّاسِ ۚ وَمَا جَعَلْنَا ٱلرُّءْيَا ٱلَّتِىٓ أَرَيْنَٰكَ إِلَّا فِتْنَةًۭ لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلْمَلْعُونَةَ فِى ٱلْقُرْءَانِ ۚ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ إِلَّا طُغْيَٰنًۭا كَبِيرًۭا
 
-**17:61**  Pan ddywedasom Ni wrth yr angylion, “Ymgrymwch gerbron Adda,” ymgrymasant, ac eithrio Satan. Dywedodd ef, “A ymgrymaf gerbron rhywun a grewyd gennyt o glai?”
+**17:61**  Pan ddywedasom Ni wrth yr angylion, "Ymgrymwch gerbron Adda," ymgrymasant, ac eithrio Satan. Dywedodd ef, "A ymgrymaf gerbron rhywun a grewyd gennyt o glai?"
 
 وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ قَالَ ءَأَسْجُدُ لِمَنْ خَلَقْتَ طِينًۭا
 
-**17:62**  Dywedodd ef, “A weli di hwn yr anrhydeddaist yn fwy na mi? Os rhoi di ohiriad i mi hyd Ddydd yr Atgyfodiad, dygaf ei ddisgynyddion dan fy nylanwad, ac eithrio ychydig.”
+**17:62**  Dywedodd ef, "A weli di hwn yr anrhydeddaist yn fwy na mi? Os rhoi di ohiriad i mi hyd Ddydd yr Atgyfodiad, dygaf ei ddisgynyddion dan fy nylanwad, ac eithrio ychydig."
 
 قَالَ أَرَءَيْتَكَ هَٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا
 
-**17:63**  Dywedodd Ef, “Dos ymaith! Pwy bynnag ohonynt a'th ddilyn — Uffern yw dy wobr di, yn wobr helaeth.”
+**17:63**  Dywedodd Ef, "Dos ymaith! Pwy bynnag ohonynt a'th ddilyn — Uffern yw dy wobr di, yn wobr helaeth."
 
 قَالَ ٱذْهَبْ فَمَن تَبِعَكَ مِنْهُمْ فَإِنَّ جَهَنَّمَ جَزَآؤُكُمْ جَزَآءًۭ مَّوْفُورًۭا
 
-**17:64**  “A huda pwy bynnag ohonynt a elli â'th lais, a chasgl yn eu herbyn dy farchogion a'th droedfilwyr, a chymera ran gyda nhw mewn cyfoeth a phlant, a gwna addewidion iddynt.” Ond nid addawa Satan iddynt ddim ond twyll.
+**17:64**  "A huda pwy bynnag ohonynt a elli â'th lais, a chasgl yn eu herbyn dy farchogion a'th droedfilwyr, a chymera ran gyda nhw mewn cyfoeth a phlant, a gwna addewidion iddynt." Ond nid addawa Satan iddynt ddim ond twyll.
 
 وَٱسْتَفْزِزْ مَنِ ٱسْتَطَعْتَ مِنْهُم بِصَوْتِكَ وَأَجْلِبْ عَلَيْهِم بِخَيْلِكَ وَرَجِلِكَ وَشَارِكْهُمْ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَٰدِ وَعِدْهُمْ ۚ وَمَا يَعِدُهُمُ ٱلشَّيْطَٰنُ إِلَّا غُرُورًا
 
-**17:65**  “O ran fy ngweision ymroddedig, nid oes gennyt awdurdod arnynt.” Digonol yw dy Arglwydd fel Gwarcheidwad.
+**17:65**  "O ran fy ngweision ymroddedig, nid oes gennyt awdurdod arnynt." Digonol yw dy Arglwydd fel Gwarcheidwad.
 
 إِنَّ عِبَادِى لَيْسَ لَكَ عَلَيْهِمْ سُلْطَٰنٌۭ ۚ وَكَفَىٰ بِرَبِّكَ وَكِيلًۭا
 
@@ -8801,11 +8801,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَمِنَ ٱلَّيْلِ فَتَهَجَّدْ بِهِۦ نَافِلَةًۭ لَّكَ عَسَىٰٓ أَن يَبْعَثَكَ رَبُّكَ مَقَامًۭا مَّحْمُودًۭا
 
-**17:80**  A dywed, “Fy Arglwydd, arwain fi i mewn trwy fynedfa gwirionedd, ac arwain fi allan trwy allanfa gwirionedd, a chaniatâ i mi oddi wrthyt Ti nerth cynnal.”
+**17:80**  A dywed, "Fy Arglwydd, arwain fi i mewn trwy fynedfa gwirionedd, ac arwain fi allan trwy allanfa gwirionedd, a chaniatâ i mi oddi wrthyt Ti nerth cynnal."
 
 وَقُل رَّبِّ أَدْخِلْنِى مُدْخَلَ صِدْقٍۢ وَأَخْرِجْنِى مُخْرَجَ صِدْقٍۢ وَٱجْعَل لِّى مِن لَّدُنكَ سُلْطَٰنًۭا نَّصِيرًۭا
 
-**17:81**  A dywed, “Daeth y gwirionedd, a gwywo y mae'r anwiredd; oherwydd rhaid i'r anwiredd wywo.”
+**17:81**  A dywed, "Daeth y gwirionedd, a gwywo y mae'r anwiredd; oherwydd rhaid i'r anwiredd wywo."
 
 وَقُلْ جَآءَ ٱلْحَقُّ وَزَهَقَ ٱلْبَٰطِلُ ۚ إِنَّ ٱلْبَٰطِلَ كَانَ زَهُوقًۭا
 
@@ -8817,11 +8817,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَإِذَآ أَنْعَمْنَا عَلَى ٱلْإِنسَٰنِ أَعْرَضَ وَنَـَٔا بِجَانِبِهِۦ ۖ وَإِذَا مَسَّهُ ٱلشَّرُّ كَانَ يَـُٔوسًۭا
 
-**17:84**  Dywed, “Y mae pawb yn gwneud yn ôl ei natur. Dy Arglwydd a ŵyr orau pwy sydd wedi ei dywys yn well ar y ffordd.”
+**17:84**  Dywed, "Y mae pawb yn gwneud yn ôl ei natur. Dy Arglwydd a ŵyr orau pwy sydd wedi ei dywys yn well ar y ffordd."
 
 قُلْ كُلٌّۭ يَعْمَلُ عَلَىٰ شَاكِلَتِهِۦ فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَىٰ سَبِيلًۭا
 
-**17:85**  A gofynnant nhw i ti am yr Ysbryd. Dywed, “Y mae'r Ysbryd yn perthyn i barth fy Arglwydd; a rhoddwyd i chi ond ychydig o wybodaeth.”
+**17:85**  A gofynnant nhw i ti am yr Ysbryd. Dywed, "Y mae'r Ysbryd yn perthyn i barth fy Arglwydd; a rhoddwyd i chi ond ychydig o wybodaeth."
 
 وَيَسْـَٔلُونَكَ عَنِ ٱلرُّوحِ ۖ قُلِ ٱلرُّوحُ مِنْ أَمْرِ رَبِّى وَمَآ أُوتِيتُم مِّنَ ٱلْعِلْمِ إِلَّا قَلِيلًۭا
 
@@ -8833,7 +8833,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِلَّا رَحْمَةًۭ مِّن رَّبِّكَ ۚ إِنَّ فَضْلَهُۥ كَانَ عَلَيْكَ كَبِيرًۭا
 
-**17:88**  Dywed, “Pe deuai dynolryw a jinn ynghyd i gynhyrchu'r fath â'r Qur'an hwn, ni allent byth gynhyrchu'r fath ag ef, hyd yn oed pe cynhalient ei gilydd.”
+**17:88**  Dywed, "Pe deuai dynolryw a jinn ynghyd i gynhyrchu'r fath â'r Qur'an hwn, ni allent byth gynhyrchu'r fath ag ef, hyd yn oed pe cynhalient ei gilydd."
 
 قُل لَّئِنِ ٱجْتَمَعَتِ ٱلْإِنسُ وَٱلْجِنُّ عَلَىٰٓ أَن يَأْتُوا۟ بِمِثْلِ هَٰذَا ٱلْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِۦ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍۢ ظَهِيرًۭا
 
@@ -8841,7 +8841,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَلَقَدْ صَرَّفْنَا لِلنَّاسِ فِى هَٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍۢ فَأَبَىٰٓ أَكْثَرُ ٱلنَّاسِ إِلَّا كُفُورًۭا
 
-**17:90**  A dywedasant nhw, “Ni chredwn ynot ti oni wnei i ffynnon dorri o'r ddaear i ni.
+**17:90**  A dywedasant nhw, "Ni chredwn ynot ti oni wnei i ffynnon dorri o'r ddaear i ni.
 
 وَقَالُوا۟ لَن نُّؤْمِنَ لَكَ حَتَّىٰ تَفْجُرَ لَنَا مِنَ ٱلْأَرْضِ يَنۢبُوعًا
 
@@ -8853,19 +8853,19 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 أَوْ تُسْقِطَ ٱلسَّمَآءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا أَوْ تَأْتِىَ بِٱللَّهِ وَٱلْمَلَٰٓئِكَةِ قَبِيلًا
 
-**17:93**  Neu fod gennyt dŷ o aur. Neu esgyn di i'r awyr. Hyd yn oed wedyn, ni chredwn yn dy esgyniad di, oni ddygi di i lawr i ni lyfr y gallwn ei ddarllen.” Dywed, “Gogoniant i fy Arglwydd. A wyf fi ddim ond cenad dynol?”
+**17:93**  Neu fod gennyt dŷ o aur. Neu esgyn di i'r awyr. Hyd yn oed wedyn, ni chredwn yn dy esgyniad di, oni ddygi di i lawr i ni lyfr y gallwn ei ddarllen." Dywed, "Gogoniant i fy Arglwydd. A wyf fi ddim ond cenad dynol?"
 
 أَوْ يَكُونَ لَكَ بَيْتٌۭ مِّن زُخْرُفٍ أَوْ تَرْقَىٰ فِى ٱلسَّمَآءِ وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَٰبًۭا نَّقْرَؤُهُۥ ۗ قُلْ سُبْحَانَ رَبِّى هَلْ كُنتُ إِلَّا بَشَرًۭا رَّسُولًۭا
 
-**17:94**  Ni rwystrodd ddim y bobl rhag credu, pan ddaeth yr arweiniad atynt, ac eithrio iddynt ddweud, “A anfonodd Allah genad dynol?”
+**17:94**  Ni rwystrodd ddim y bobl rhag credu, pan ddaeth yr arweiniad atynt, ac eithrio iddynt ddweud, "A anfonodd Allah genad dynol?"
 
 وَمَا مَنَعَ ٱلنَّاسَ أَن يُؤْمِنُوٓا۟ إِذْ جَآءَهُمُ ٱلْهُدَىٰٓ إِلَّآ أَن قَالُوٓا۟ أَبَعَثَ ٱللَّهُ بَشَرًۭا رَّسُولًۭا
 
-**17:95**  Dywed, “Pe bai angylion ar y ddaear, yn cerdded o gwmpas mewn heddwch, buasem Ni wedi anfon i lawr iddynt o'r nef angel yn genad.”
+**17:95**  Dywed, "Pe bai angylion ar y ddaear, yn cerdded o gwmpas mewn heddwch, buasem Ni wedi anfon i lawr iddynt o'r nef angel yn genad."
 
 قُل لَّوْ كَانَ فِى ٱلْأَرْضِ مَلَٰٓئِكَةٌۭ يَمْشُونَ مُطْمَئِنِّينَ لَنَزَّلْنَا عَلَيْهِم مِّنَ ٱلسَّمَآءِ مَلَكًۭا رَّسُولًۭا
 
-**17:96**  Dywed, “Digon yw Allah yn dyst rhyngoch chi a mi. Y mae Ef yn gwbl ymwybodol o'i weision, ac y mae'n eu gweled nhw yn dda.”
+**17:96**  Dywed, "Digon yw Allah yn dyst rhyngoch chi a mi. Y mae Ef yn gwbl ymwybodol o'i weision, ac y mae'n eu gweled nhw yn dda."
 
 قُلْ كَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۚ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِيرًۢا بَصِيرًۭا
 
@@ -8873,7 +8873,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَمَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُمْ أَوْلِيَآءَ مِن دُونِهِۦ ۖ وَنَحْشُرُهُمْ يَوْمَ ٱلْقِيَٰمَةِ عَلَىٰ وُجُوهِهِمْ عُمْيًۭا وَبُكْمًۭا وَصُمًّۭا ۖ مَّأْوَىٰهُمْ جَهَنَّمُ ۖ كُلَّمَا خَبَتْ زِدْنَٰهُمْ سَعِيرًۭا
 
-**17:98**  Dyma eu had-daliad am iddynt gablu yn erbyn ein datguddiadau Ni, ac am iddynt ddweud, “A ni, pan fyddom wedi dyfod yn esgyrn a thameidiau, a godir ni yn greadigaeth newydd?”
+**17:98**  Dyma eu had-daliad am iddynt gablu yn erbyn ein datguddiadau Ni, ac am iddynt ddweud, "A ni, pan fyddom wedi dyfod yn esgyrn a thameidiau, a godir ni yn greadigaeth newydd?"
 
 ذَٰلِكَ جَزَآؤُهُم بِأَنَّهُمْ كَفَرُوا۟ بِـَٔايَٰتِنَا وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَٰمًۭا وَرُفَٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًۭا جَدِيدًا
 
@@ -8881,15 +8881,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ۞ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ قَادِرٌ عَلَىٰٓ أَن يَخْلُقَ مِثْلَهُمْ وَجَعَلَ لَهُمْ أَجَلًۭا لَّا رَيْبَ فِيهِ فَأَبَى ٱلظَّٰلِمُونَ إِلَّا كُفُورًۭا
 
-**17:100**  Dywed, “Pe meddech chi drysorau trugaredd fy Arglwydd, buasech wedi eu dal yn ôl rhag ofn gwario.” Cybyddlyd fu'r bod dynol erioed.
+**17:100**  Dywed, "Pe meddech chi drysorau trugaredd fy Arglwydd, buasech wedi eu dal yn ôl rhag ofn gwario." Cybyddlyd fu'r bod dynol erioed.
 
 قُل لَّوْ أَنتُمْ تَمْلِكُونَ خَزَآئِنَ رَحْمَةِ رَبِّىٓ إِذًۭا لَّأَمْسَكْتُمْ خَشْيَةَ ٱلْإِنفَاقِ ۚ وَكَانَ ٱلْإِنسَٰنُ قَتُورًۭا
 
-**17:101**  Rhoddasom Ni i Moses naw arwydd eglur — gofyn i Blant Israel. Pan aeth ef atynt, dywedodd Ffaro wrtho, “Yr wyf yn meddwl dy fod di, Moses, wedi dy swyno.”
+**17:101**  Rhoddasom Ni i Moses naw arwydd eglur — gofyn i Blant Israel. Pan aeth ef atynt, dywedodd Ffaro wrtho, "Yr wyf yn meddwl dy fod di, Moses, wedi dy swyno."
 
 وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَٰتٍۭ بَيِّنَٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَٰمُوسَىٰ مَسْحُورًۭا
 
-**17:102**  Dywedodd ef, “Gwyddoch na anfonodd neb y rhain i lawr ond Arglwydd y nefoedd a'r ddaear — yn agorwyr llygaid; ac yr wyf yn meddwl dy fod di, Ffaro, wedi dy dynghedu.”
+**17:102**  Dywedodd ef, "Gwyddoch na anfonodd neb y rhain i lawr ond Arglwydd y nefoedd a'r ddaear — yn agorwyr llygaid; ac yr wyf yn meddwl dy fod di, Ffaro, wedi dy dynghedu."
 
 قَالَ لَقَدْ عَلِمْتَ مَآ أَنزَلَ هَٰٓؤُلَآءِ إِلَّا رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ بَصَآئِرَ وَإِنِّى لَأَظُنُّكَ يَٰفِرْعَوْنُ مَثْبُورًۭا
 
@@ -8897,7 +8897,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَأَرَادَ أَن يَسْتَفِزَّهُم مِّنَ ٱلْأَرْضِ فَأَغْرَقْنَٰهُ وَمَن مَّعَهُۥ جَمِيعًۭا
 
-**17:104**  Ar ei ôl ef, dywedasom Ni wrth Blant Israel, “Trigiannwch y tir, a phan ddaw addewid y Byd a Ddaw, dygwn Ni chi oll ynghyd.”
+**17:104**  Ar ei ôl ef, dywedasom Ni wrth Blant Israel, "Trigiannwch y tir, a phan ddaw addewid y Byd a Ddaw, dygwn Ni chi oll ynghyd."
 
 وَقُلْنَا مِنۢ بَعْدِهِۦ لِبَنِىٓ إِسْرَٰٓءِيلَ ٱسْكُنُوا۟ ٱلْأَرْضَ فَإِذَا جَآءَ وَعْدُ ٱلْءَاخِرَةِ جِئْنَا بِكُمْ لَفِيفًۭا
 
@@ -8909,11 +8909,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَقُرْءَانًۭا فَرَقْنَٰهُ لِتَقْرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكْثٍۢ وَنَزَّلْنَٰهُ تَنزِيلًۭا
 
-**17:107**  Dywed, “Credwch ynddo, neu peidiwch â chredu.” Y rhai y rhoddwyd gwybodaeth iddynt o'i flaen, pan adroddir ef iddynt, syrthiant ar eu gênau, gan ymgrymu.
+**17:107**  Dywed, "Credwch ynddo, neu peidiwch â chredu." Y rhai y rhoddwyd gwybodaeth iddynt o'i flaen, pan adroddir ef iddynt, syrthiant ar eu gênau, gan ymgrymu.
 
 قُلْ ءَامِنُوا۟ بِهِۦٓ أَوْ لَا تُؤْمِنُوٓا۟ ۚ إِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مِن قَبْلِهِۦٓ إِذَا يُتْلَىٰ عَلَيْهِمْ يَخِرُّونَ لِلْأَذْقَانِ سُجَّدًۭا
 
-**17:108**  A dywedant nhw, “Gogoniant i'n Harglwydd. Cyflawnwyd addewid ein Harglwydd.”
+**17:108**  A dywedant nhw, "Gogoniant i'n Harglwydd. Cyflawnwyd addewid ein Harglwydd."
 
 وَيَقُولُونَ سُبْحَٰنَ رَبِّنَآ إِن كَانَ وَعْدُ رَبِّنَا لَمَفْعُولًۭا
 
@@ -8922,11 +8922,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًۭا ۩
 
-**17:110**  Dywed, “Galwch arno Ef Allah, neu galwch arno y Trugarogaf. Pa enw bynnag a ddefnyddiwch, iddo Ef y perthyn yr Enwau Gorau.” Ac na fydd yn uchel yn dy weddi, nac yn dawel ynddi, ond dilyn gwrs rhyngddynt.
+**17:110**  Dywed, "Galwch arno Ef Allah, neu galwch arno y Trugarogaf. Pa enw bynnag a ddefnyddiwch, iddo Ef y perthyn yr Enwau Gorau." Ac na fydd yn uchel yn dy weddi, nac yn dawel ynddi, ond dilyn gwrs rhyngddynt.
 
 قُلِ ٱدْعُوا۟ ٱللَّهَ أَوِ ٱدْعُوا۟ ٱلرَّحْمَٰنَ ۖ أَيًّۭا مَّا تَدْعُوا۟ فَلَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ ۚ وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَٱبْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًۭا
 
-**17:111**  A dywed, “Moliant i Allah, yr hwn nid yw wedi cenhedlu mab, ac nid oes ganddo bartner yn y sofraniaeth, ac nid oes ganddo gynghreiriad o wendid, a gogonedda Ef yn gyson.”
+**17:111**  A dywed, "Moliant i Allah, yr hwn nid yw wedi cenhedlu mab, ac nid oes ganddo bartner yn y sofraniaeth, ac nid oes ganddo gynghreiriad o wendid, a gogonedda Ef yn gyson."
 
 وَقُلِ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى لَمْ يَتَّخِذْ وَلَدًۭا وَلَمْ يَكُن لَّهُۥ شَرِيكٌۭ فِى ٱلْمُلْكِ وَلَمْ يَكُن لَّهُۥ وَلِىٌّۭ مِّنَ ٱلذُّلِّ ۖ وَكَبِّرْهُ تَكْبِيرًۢا
 
@@ -8955,7 +8955,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 مَّٰكِثِينَ فِيهِ أَبَدًۭا
 
-**18:4**  Ac i rybuddio'r rhai sy'n dweud, “Y mae Allah wedi cenhedlu mab.”
+**18:4**  Ac i rybuddio'r rhai sy'n dweud, "Y mae Allah wedi cenhedlu mab."
 
 وَيُنذِرَ ٱلَّذِينَ قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًۭا
 
@@ -8979,7 +8979,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 أَمْ حَسِبْتَ أَنَّ أَصْحَٰبَ ٱلْكَهْفِ وَٱلرَّقِيمِ كَانُوا۟ مِنْ ءَايَٰتِنَا عَجَبًا
 
-**18:10**  Pan gymerodd yr ieuenctid loches yn yr ogof, dywedasant, “Ein Harglwydd, rhoddwch i ni drugaredd oddi wrthyt Ti dy hun, a bendithia ein hachos ag arweiniad.”
+**18:10**  Pan gymerodd yr ieuenctid loches yn yr ogof, dywedasant, "Ein Harglwydd, rhoddwch i ni drugaredd oddi wrthyt Ti dy hun, a bendithia ein hachos ag arweiniad."
 
 إِذْ أَوَى ٱلْفِتْيَةُ إِلَى ٱلْكَهْفِ فَقَالُوا۟ رَبَّنَآ ءَاتِنَا مِن لَّدُنكَ رَحْمَةًۭ وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًۭا
 
@@ -8995,15 +8995,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 نَّحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُم بِٱلْحَقِّ ۚ إِنَّهُمْ فِتْيَةٌ ءَامَنُوا۟ بِرَبِّهِمْ وَزِدْنَٰهُمْ هُدًۭى
 
-**18:14**  A chryfhasom Ni eu calonnau, pan safasant a dweud, “Ein Harglwydd yw Arglwydd y nefoedd a'r ddaear; ni alwn ar un duw ar wahân iddo Ef, oherwydd yna buasem wedi llefaru sarhad.”
+**18:14**  A chryfhasom Ni eu calonnau, pan safasant a dweud, "Ein Harglwydd yw Arglwydd y nefoedd a'r ddaear; ni alwn ar un duw ar wahân iddo Ef, oherwydd yna buasem wedi llefaru sarhad."
 
 وَرَبَطْنَا عَلَىٰ قُلُوبِهِمْ إِذْ قَامُوا۟ فَقَالُوا۟ رَبُّنَا رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَن نَّدْعُوَا۟ مِن دُونِهِۦٓ إِلَٰهًۭا ۖ لَّقَدْ قُلْنَآ إِذًۭا شَطَطًا
 
-**18:15**  “Y bobl hyn, ein pobl ni, sydd wedi cymryd iddynt eu hunain dduwiau ar wahân iddo Ef. Pam nad ydynt yn dwyn prawf eglur yn eu cylch? Pwy, ynteu, sy'n gwneud cam mwy na'r hwn sy'n dyfeisio celwyddau ac yn eu priodoli i Allah?”
+**18:15**  "Y bobl hyn, ein pobl ni, sydd wedi cymryd iddynt eu hunain dduwiau ar wahân iddo Ef. Pam nad ydynt yn dwyn prawf eglur yn eu cylch? Pwy, ynteu, sy'n gwneud cam mwy na'r hwn sy'n dyfeisio celwyddau ac yn eu priodoli i Allah?"
 
 هَٰٓؤُلَآءِ قَوْمُنَا ٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةًۭ ۖ لَّوْلَا يَأْتُونَ عَلَيْهِم بِسُلْطَٰنٍۭ بَيِّنٍۢ ۖ فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا
 
-**18:16**  “Yn awr eich bod wedi ymgilio oddi wrthynt, ac oddi wrth yr hyn y maent yn ei addoli ar wahân i Allah, cymerwch loches yn yr ogof. Ac y mae eich Arglwydd yn datblygu ei drugaredd i chi, ac yn cyfeirio eich achos tuag at rwyddineb.”
+**18:16**  "Yn awr eich bod wedi ymgilio oddi wrthynt, ac oddi wrth yr hyn y maent yn ei addoli ar wahân i Allah, cymerwch loches yn yr ogof. Ac y mae eich Arglwydd yn datblygu ei drugaredd i chi, ac yn cyfeirio eich achos tuag at rwyddineb."
 
 وَإِذِ ٱعْتَزَلْتُمُوهُمْ وَمَا يَعْبُدُونَ إِلَّا ٱللَّهَ فَأْوُۥٓا۟ إِلَى ٱلْكَهْفِ يَنشُرْ لَكُمْ رَبُّكُم مِّن رَّحْمَتِهِۦ وَيُهَيِّئْ لَكُم مِّنْ أَمْرِكُم مِّرْفَقًۭا
 
@@ -9015,27 +9015,27 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَتَحْسَبُهُمْ أَيْقَاظًۭا وَهُمْ رُقُودٌۭ ۚ وَنُقَلِّبُهُمْ ذَاتَ ٱلْيَمِينِ وَذَاتَ ٱلشِّمَالِ ۖ وَكَلْبُهُم بَٰسِطٌۭ ذِرَاعَيْهِ بِٱلْوَصِيدِ ۚ لَوِ ٱطَّلَعْتَ عَلَيْهِمْ لَوَلَّيْتَ مِنْهُمْ فِرَارًۭا وَلَمُلِئْتَ مِنْهُمْ رُعْبًۭا
 
-**18:19**  Yn yr un modd, deffroasom Ni nhw, er mwyn iddynt ofyn i'w gilydd. Dywedodd llefarydd yn eu plith, “Pa hyd yr arhosasoch?” Dywedasant nhw, “Arhosasom ddiwrnod, neu ran o ddiwrnod.” Dywedasant nhw, “Eich Arglwydd a ŵyr orau pa hyd yr arhosasoch.” “Anfonwch un ohonoch i'r ddinas, gyda'r arian hwn i chi, a gadewch iddo weld pa fwyd sydd fwyaf addas, a gadewch iddo ddwyn i chi ryw ddarpariaeth ohono. A bydded iddo fod yn dyner, ac na wybydded neb amdanoch.”
+**18:19**  Yn yr un modd, deffroasom Ni nhw, er mwyn iddynt ofyn i'w gilydd. Dywedodd llefarydd yn eu plith, "Pa hyd yr arhosasoch?" Dywedasant nhw, "Arhosasom ddiwrnod, neu ran o ddiwrnod." Dywedasant nhw, "Eich Arglwydd a ŵyr orau pa hyd yr arhosasoch." "Anfonwch un ohonoch i'r ddinas, gyda'r arian hwn i chi, a gadewch iddo weld pa fwyd sydd fwyaf addas, a gadewch iddo ddwyn i chi ryw ddarpariaeth ohono. A bydded iddo fod yn dyner, ac na wybydded neb amdanoch."
 
 وَكَذَٰلِكَ بَعَثْنَٰهُمْ لِيَتَسَآءَلُوا۟ بَيْنَهُمْ ۚ قَالَ قَآئِلٌۭ مِّنْهُمْ كَمْ لَبِثْتُمْ ۖ قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍۢ ۚ قَالُوا۟ رَبُّكُمْ أَعْلَمُ بِمَا لَبِثْتُمْ فَٱبْعَثُوٓا۟ أَحَدَكُم بِوَرِقِكُمْ هَٰذِهِۦٓ إِلَى ٱلْمَدِينَةِ فَلْيَنظُرْ أَيُّهَآ أَزْكَىٰ طَعَامًۭا فَلْيَأْتِكُم بِرِزْقٍۢ مِّنْهُ وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا
 
-**18:20**  “Os darganfyddant nhw chi, nhw a'ch llabyddiant, neu a'ch gorfodi yn ôl i'w crefydd; yna ni chewch byth eich achub.”
+**18:20**  "Os darganfyddant nhw chi, nhw a'ch llabyddiant, neu a'ch gorfodi yn ôl i'w crefydd; yna ni chewch byth eich achub."
 
 إِنَّهُمْ إِن يَظْهَرُوا۟ عَلَيْكُمْ يَرْجُمُوكُمْ أَوْ يُعِيدُوكُمْ فِى مِلَّتِهِمْ وَلَن تُفْلِحُوٓا۟ إِذًا أَبَدًۭا
 
-**18:21**  Felly y bu, i Ni beri iddynt gael eu darganfod, er mwyn iddynt wybod fod addewid Allah yn wir, ac nad oes amheuaeth ynghylch yr Awr. Wrth iddynt ddadlau eu hachos yn eu plith eu hunain, dywedasant nhw, “Adeiladwch drostynt adeilad.” Eu Harglwydd a ŵyr orau amdanynt. Dywedodd y rhai a drechodd dros eu hachos, “Gosodwn Ni drostynt fan addoli.”
+**18:21**  Felly y bu, i Ni beri iddynt gael eu darganfod, er mwyn iddynt wybod fod addewid Allah yn wir, ac nad oes amheuaeth ynghylch yr Awr. Wrth iddynt ddadlau eu hachos yn eu plith eu hunain, dywedasant nhw, "Adeiladwch drostynt adeilad." Eu Harglwydd a ŵyr orau amdanynt. Dywedodd y rhai a drechodd dros eu hachos, "Gosodwn Ni drostynt fan addoli."
 
 وَكَذَٰلِكَ أَعْثَرْنَا عَلَيْهِمْ لِيَعْلَمُوٓا۟ أَنَّ وَعْدَ ٱللَّهِ حَقٌّۭ وَأَنَّ ٱلسَّاعَةَ لَا رَيْبَ فِيهَآ إِذْ يَتَنَٰزَعُونَ بَيْنَهُمْ أَمْرَهُمْ ۖ فَقَالُوا۟ ٱبْنُوا۟ عَلَيْهِم بُنْيَٰنًۭا ۖ رَّبُّهُمْ أَعْلَمُ بِهِمْ ۚ قَالَ ٱلَّذِينَ غَلَبُوا۟ عَلَىٰٓ أَمْرِهِمْ لَنَتَّخِذَنَّ عَلَيْهِم مَّسْجِدًۭا
 
-**18:22**  Dywedant nhw, “Tri, a'u pedwerydd yn eu ci.” A dywedant nhw, “Pump, a'u chweched yn eu ci,” yn dyfalu wrth yr anhysbys. A dywedant nhw, “Saith, a'u hwythfed yn eu ci.” Dywed, “Fy Arglwydd a ŵyr orau eu rhif.” Ni ŵyr amdanynt ond ychydig. Felly na ddadlewch yn eu cylch ac eithrio â dadl amlwg, ac na ymgynghorwch ag un ohonynt amdanynt.
+**18:22**  Dywedant nhw, "Tri, a'u pedwerydd yn eu ci." A dywedant nhw, "Pump, a'u chweched yn eu ci," yn dyfalu wrth yr anhysbys. A dywedant nhw, "Saith, a'u hwythfed yn eu ci." Dywed, "Fy Arglwydd a ŵyr orau eu rhif." Ni ŵyr amdanynt ond ychydig. Felly na ddadlewch yn eu cylch ac eithrio â dadl amlwg, ac na ymgynghorwch ag un ohonynt amdanynt.
 
 سَيَقُولُونَ ثَلَٰثَةٌۭ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌۭ سَادِسُهُمْ كَلْبُهُمْ رَجْمًۢا بِٱلْغَيْبِ ۖ وَيَقُولُونَ سَبْعَةٌۭ وَثَامِنُهُمْ كَلْبُهُمْ ۚ قُل رَّبِّىٓ أَعْلَمُ بِعِدَّتِهِم مَّا يَعْلَمُهُمْ إِلَّا قَلِيلٌۭ ۗ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَآءًۭ ظَٰهِرًۭا وَلَا تَسْتَفْتِ فِيهِم مِّنْهُمْ أَحَدًۭا
 
-**18:23**  Ac na ddywedwch byth am ddim, “Gwnaf hynny yfory.”
+**18:23**  Ac na ddywedwch byth am ddim, "Gwnaf hynny yfory."
 
 وَلَا تَقُولَنَّ لِشَا۟ىْءٍ إِنِّى فَاعِلٌۭ ذَٰلِكَ غَدًا
 
-**18:24**  Heb ddweud, “Os ewyllys Allah.” A chofia dy Arglwydd os anghofi, a dywed, “Efallai y tywys fy Arglwydd fi at yr hyn sydd nes na hyn o ran uniondeb.”
+**18:24**  Heb ddweud, "Os ewyllys Allah." A chofia dy Arglwydd os anghofi, a dywed, "Efallai y tywys fy Arglwydd fi at yr hyn sydd nes na hyn o ran uniondeb."
 
 إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ وَٱذْكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَىٰٓ أَن يَهْدِيَنِ رَبِّى لِأَقْرَبَ مِنْ هَٰذَا رَشَدًۭا
 
@@ -9043,7 +9043,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا
 
-**18:26**  Dywed, “Allah a ŵyr orau pa hyd yr arhosasant.” Eiddo Ef yw dirgelwch y nefoedd a'r ddaear. Trwyddo Ef y gwelwch ac y clywch. Nid oes ganddynt warcheidwad ar wahân iddo Ef, ac nid yw Ef yn rhannu ei Sofraniaeth ag neb.
+**18:26**  Dywed, "Allah a ŵyr orau pa hyd yr arhosasant." Eiddo Ef yw dirgelwch y nefoedd a'r ddaear. Trwyddo Ef y gwelwch ac y clywch. Nid oes ganddynt warcheidwad ar wahân iddo Ef, ac nid yw Ef yn rhannu ei Sofraniaeth ag neb.
 
 قُلِ ٱللَّهُ أَعْلَمُ بِمَا لَبِثُوا۟ ۖ لَهُۥ غَيْبُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ أَبْصِرْ بِهِۦ وَأَسْمِعْ ۚ مَا لَهُم مِّن دُونِهِۦ مِن وَلِىٍّۢ وَلَا يُشْرِكُ فِى حُكْمِهِۦٓ أَحَدًۭا
 
@@ -9055,7 +9055,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَٱصْبِرْ نَفْسَكَ مَعَ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُۥ عَن ذِكْرِنَا وَٱتَّبَعَ هَوَىٰهُ وَكَانَ أَمْرُهُۥ فُرُطًۭا
 
-**18:29**  A dywed, “Y gwirionedd sydd oddi wrth dy Arglwydd. Pwy bynnag a ewyllysio — bydded iddo gredu. A phwy bynnag a ewyllysio — bydded iddo anghredu.” Paratöasom Ni i'r anghyfiawn Dân, y bydd ei llenni yn eu hamgylchu. A phan lefant am ryddhad, cânt ryddhad â dŵr fel pres tawdd, sy'n llosgi'r wynebau. Mor druenus o ddiod, a mor ofnadwy o le.
+**18:29**  A dywed, "Y gwirionedd sydd oddi wrth dy Arglwydd. Pwy bynnag a ewyllysio — bydded iddo gredu. A phwy bynnag a ewyllysio — bydded iddo anghredu." Paratöasom Ni i'r anghyfiawn Dân, y bydd ei llenni yn eu hamgylchu. A phan lefant am ryddhad, cânt ryddhad â dŵr fel pres tawdd, sy'n llosgi'r wynebau. Mor druenus o ddiod, a mor ofnadwy o le.
 
 وَقُلِ ٱلْحَقُّ مِن رَّبِّكُمْ ۖ فَمَن شَآءَ فَلْيُؤْمِن وَمَن شَآءَ فَلْيَكْفُرْ ۚ إِنَّآ أَعْتَدْنَا لِلظَّٰلِمِينَ نَارًا أَحَاطَ بِهِمْ سُرَادِقُهَا ۚ وَإِن يَسْتَغِيثُوا۟ يُغَاثُوا۟ بِمَآءٍۢ كَٱلْمُهْلِ يَشْوِى ٱلْوُجُوهَ ۚ بِئْسَ ٱلشَّرَابُ وَسَآءَتْ مُرْتَفَقًا
 
@@ -9075,27 +9075,27 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 كِلْتَا ٱلْجَنَّتَيْنِ ءَاتَتْ أُكُلَهَا وَلَمْ تَظْلِم مِّنْهُ شَيْـًۭٔا ۚ وَفَجَّرْنَا خِلَٰلَهُمَا نَهَرًۭا
 
-**18:34**  Ac felly yr oedd ganddo ffrwythau helaeth. Dywedodd wrth ei gyfaill, wrth iddo siarad ag ef, “Cyfoethocach wyf na thi, a mwy o ran dynion.”
+**18:34**  Ac felly yr oedd ganddo ffrwythau helaeth. Dywedodd wrth ei gyfaill, wrth iddo siarad ag ef, "Cyfoethocach wyf na thi, a mwy o ran dynion."
 
 وَكَانَ لَهُۥ ثَمَرٌۭ فَقَالَ لِصَٰحِبِهِۦ وَهُوَ يُحَاوِرُهُۥٓ أَنَا۠ أَكْثَرُ مِنكَ مَالًۭا وَأَعَزُّ نَفَرًۭا
 
-**18:35**  Ac aeth i mewn i'w ardd, gan wneud cam â'i hun. Dywedodd, “Nid wyf yn meddwl y diflanna hyn fyth.”
+**18:35**  Ac aeth i mewn i'w ardd, gan wneud cam â'i hun. Dywedodd, "Nid wyf yn meddwl y diflanna hyn fyth."
 
 وَدَخَلَ جَنَّتَهُۥ وَهُوَ ظَالِمٌۭ لِّنَفْسِهِۦ قَالَ مَآ أَظُنُّ أَن تَبِيدَ هَٰذِهِۦٓ أَبَدًۭا
 
-**18:36**  “Ac nid wyf yn meddwl fod yr Awr yn dod. A hyd yn oed os dychwelir fi at fy Arglwydd, caf rywbeth gwell na hyn yn ôl.”
+**18:36**  "Ac nid wyf yn meddwl fod yr Awr yn dod. A hyd yn oed os dychwelir fi at fy Arglwydd, caf rywbeth gwell na hyn yn ôl."
 
 وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةًۭ وَلَئِن رُّدِدتُّ إِلَىٰ رَبِّى لَأَجِدَنَّ خَيْرًۭا مِّنْهَا مُنقَلَبًۭا
 
-**18:37**  Dywedodd ei gyfaill wrtho, wrth iddo siarad ag ef, “Ai di-ddiolch wyt ti i'r Hwn a'th greodd o lwch, yna o ddefnyn had, yna a'th luniodd yn ddyn?
+**18:37**  Dywedodd ei gyfaill wrtho, wrth iddo siarad ag ef, "Ai di-ddiolch wyt ti i'r Hwn a'th greodd o lwch, yna o ddefnyn had, yna a'th luniodd yn ddyn?
 
 قَالَ لَهُۥ صَاحِبُهُۥ وَهُوَ يُحَاوِرُهُۥٓ أَكَفَرْتَ بِٱلَّذِى خَلَقَكَ مِن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ سَوَّىٰكَ رَجُلًۭا
 
-**18:38**  Ond o ran fi, Ef yw Allah, fy Arglwydd, ac ni chysylltaf byth â fy Arglwydd neb.”
+**18:38**  Ond o ran fi, Ef yw Allah, fy Arglwydd, ac ni chysylltaf byth â fy Arglwydd neb."
 
 لَّٰكِنَّا۠ هُوَ ٱللَّهُ رَبِّى وَلَآ أُشْرِكُ بِرَبِّىٓ أَحَدًۭا
 
-**18:39**  Pan aethost i mewn i'th ardd, pam na ddywedaist, “Fel y mae Allah yn ewyllysio; nid oes nerth ac eithrio trwy Allah”? Er dy fod yn fy ngweld yn israddol i ti o ran cyfoeth a phlant.
+**18:39**  Pan aethost i mewn i'th ardd, pam na ddywedaist, "Fel y mae Allah yn ewyllysio; nid oes nerth ac eithrio trwy Allah"? Er dy fod yn fy ngweld yn israddol i ti o ran cyfoeth a phlant.
 
 وَلَوْلَآ إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَآءَ ٱللَّهُ لَا قُوَّةَ إِلَّا بِٱللَّهِ ۚ إِن تَرَنِ أَنَا۠ أَقَلَّ مِنكَ مَالًۭا وَوَلَدًۭا
 
@@ -9103,11 +9103,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَعَسَىٰ رَبِّىٓ أَن يُؤْتِيَنِ خَيْرًۭا مِّن جَنَّتِكَ وَيُرْسِلَ عَلَيْهَا حُسْبَانًۭا مِّنَ ٱلسَّمَآءِ فَتُصْبِحَ صَعِيدًۭا زَلَقًا
 
-**18:41**  Neu y sudda ei dŵr i'r ddaear, ac na elli di ei dynnu.”
+**18:41**  Neu y sudda ei dŵr i'r ddaear, ac na elli di ei dynnu."
 
 أَوْ يُصْبِحَ مَآؤُهَا غَوْرًۭا فَلَن تَسْتَطِيعَ لَهُۥ طَلَبًۭا
 
-**18:42**  A chaeodd adfail ar ei gnydau, ac felly dechreuodd wasgu ei ddwylo dros yr hyn yr oedd wedi ei fuddsoddi ynddi, wrth iddi orwedd wedi syrthio ar ei delltwaith. Ac yr oedd yn dweud, “O na bai gennyf i erioed gysylltu neb â'm Harglwydd.”
+**18:42**  A chaeodd adfail ar ei gnydau, ac felly dechreuodd wasgu ei ddwylo dros yr hyn yr oedd wedi ei fuddsoddi ynddi, wrth iddi orwedd wedi syrthio ar ei delltwaith. Ac yr oedd yn dweud, "O na bai gennyf i erioed gysylltu neb â'm Harglwydd."
 
 وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَآ أَنفَقَ فِيهَا وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَيَقُولُ يَٰلَيْتَنِى لَمْ أُشْرِكْ بِرَبِّىٓ أَحَدًۭا
 
@@ -9131,15 +9131,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَيَوْمَ نُسَيِّرُ ٱلْجِبَالَ وَتَرَى ٱلْأَرْضَ بَارِزَةًۭ وَحَشَرْنَٰهُمْ فَلَمْ نُغَادِرْ مِنْهُمْ أَحَدًۭا
 
-**18:48**  Nhw a gyflwynir gerbron dy Arglwydd mewn rhes. “Daethoch atom Ni fel y creasom Ni chi y tro cyntaf. Er eich bod yn honni na osodem Ni gyfarfod i chi.”
+**18:48**  Nhw a gyflwynir gerbron dy Arglwydd mewn rhes. "Daethoch atom Ni fel y creasom Ni chi y tro cyntaf. Er eich bod yn honni na osodem Ni gyfarfod i chi."
 
 وَعُرِضُوا۟ عَلَىٰ رَبِّكَ صَفًّۭا لَّقَدْ جِئْتُمُونَا كَمَا خَلَقْنَٰكُمْ أَوَّلَ مَرَّةٍۭ ۚ بَلْ زَعَمْتُمْ أَلَّن نَّجْعَلَ لَكُم مَّوْعِدًۭا
 
-**18:49**  A gosodir y llyfr, a gweli di'r pechaduriaid yn ofni ei gynnwys. A dywedant nhw, “Gwae ni! Beth sydd gyda'r llyfr hwn nad yw'n gadael dim, bach na mawr, ond ei fod wedi ei rifo?” Nhw a gaiff bopeth yr oeddent wedi ei wneud yn bresennol. Nid yw dy Arglwydd yn gwneud cam ag neb.
+**18:49**  A gosodir y llyfr, a gweli di'r pechaduriaid yn ofni ei gynnwys. A dywedant nhw, "Gwae ni! Beth sydd gyda'r llyfr hwn nad yw'n gadael dim, bach na mawr, ond ei fod wedi ei rifo?" Nhw a gaiff bopeth yr oeddent wedi ei wneud yn bresennol. Nid yw dy Arglwydd yn gwneud cam ag neb.
 
 وَوُضِعَ ٱلْكِتَٰبُ فَتَرَى ٱلْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ وَيَقُولُونَ يَٰوَيْلَتَنَا مَالِ هَٰذَا ٱلْكِتَٰبِ لَا يُغَادِرُ صَغِيرَةًۭ وَلَا كَبِيرَةً إِلَّآ أَحْصَىٰهَا ۚ وَوَجَدُوا۟ مَا عَمِلُوا۟ حَاضِرًۭا ۗ وَلَا يَظْلِمُ رَبُّكَ أَحَدًۭا
 
-**18:50**  Dywedasom Ni wrth yr angylion, “Ymgrymwch i Adda.” Felly ymgrymasant, ac eithrio Satan. O'r jinn yr oedd ef, ac fe wrthwynebodd orchymyn ei Arglwydd. A gymerwch chi ef a'i blant yn arglwyddi yn lle Myfi, pan fyddant yn elyn i chi? Drwg yw'r cyfnewid i'r troseddwyr.
+**18:50**  Dywedasom Ni wrth yr angylion, "Ymgrymwch i Adda." Felly ymgrymasant, ac eithrio Satan. O'r jinn yr oedd ef, ac fe wrthwynebodd orchymyn ei Arglwydd. A gymerwch chi ef a'i blant yn arglwyddi yn lle Myfi, pan fyddant yn elyn i chi? Drwg yw'r cyfnewid i'r troseddwyr.
 
 وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ كَانَ مِنَ ٱلْجِنِّ فَفَسَقَ عَنْ أَمْرِ رَبِّهِۦٓ ۗ أَفَتَتَّخِذُونَهُۥ وَذُرِّيَّتَهُۥٓ أَوْلِيَآءَ مِن دُونِى وَهُمْ لَكُمْ عَدُوٌّۢ ۚ بِئْسَ لِلظَّٰلِمِينَ بَدَلًۭا
 
@@ -9147,7 +9147,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ۞ مَّآ أَشْهَدتُّهُمْ خَلْقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَا خَلْقَ أَنفُسِهِمْ وَمَا كُنتُ مُتَّخِذَ ٱلْمُضِلِّينَ عَضُدًۭا
 
-**18:52**  Ar y Dydd pan ddywed Ef, “Galwch ar fy mhartneriaid yr honnasoch.” Nhw a alwant arnynt, ond ni atebant nhw iddynt. A gosodwn Ni rhyngddynt rwystr.
+**18:52**  Ar y Dydd pan ddywed Ef, "Galwch ar fy mhartneriaid yr honnasoch." Nhw a alwant arnynt, ond ni atebant nhw iddynt. A gosodwn Ni rhyngddynt rwystr.
 
 وَيَوْمَ يَقُولُ نَادُوا۟ شُرَكَآءِىَ ٱلَّذِينَ زَعَمْتُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا۟ لَهُمْ وَجَعَلْنَا بَيْنَهُم مَّوْبِقًۭا
 
@@ -9179,7 +9179,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَتِلْكَ ٱلْقُرَىٰٓ أَهْلَكْنَٰهُمْ لَمَّا ظَلَمُوا۟ وَجَعَلْنَا لِمَهْلِكِهِم مَّوْعِدًۭا
 
-**18:60**  Cofia pan ddywedodd Moses wrth ei was, “Ni roddaf i fyny nes i mi gyrraedd cyffordd y ddwy afon, hyd yn oed os cymer flynyddoedd.”
+**18:60**  Cofia pan ddywedodd Moses wrth ei was, "Ni roddaf i fyny nes i mi gyrraedd cyffordd y ddwy afon, hyd yn oed os cymer flynyddoedd."
 
 وَإِذْ قَالَ مُوسَىٰ لِفَتَىٰهُ لَآ أَبْرَحُ حَتَّىٰٓ أَبْلُغَ مَجْمَعَ ٱلْبَحْرَيْنِ أَوْ أَمْضِىَ حُقُبًۭا
 
@@ -9187,15 +9187,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَلَمَّا بَلَغَا مَجْمَعَ بَيْنِهِمَا نَسِيَا حُوتَهُمَا فَٱتَّخَذَ سَبِيلَهُۥ فِى ٱلْبَحْرِ سَرَبًۭا
 
-**18:62**  Pan aethant ymhellach, dywedodd wrth ei was, “Dwg i ni ein cinio; yr oeddem wedi ein hamlygu yn ein taith i lawer o flinder.”
+**18:62**  Pan aethant ymhellach, dywedodd wrth ei was, "Dwg i ni ein cinio; yr oeddem wedi ein hamlygu yn ein taith i lawer o flinder."
 
 فَلَمَّا جَاوَزَا قَالَ لِفَتَىٰهُ ءَاتِنَا غَدَآءَنَا لَقَدْ لَقِينَا مِن سَفَرِنَا هَٰذَا نَصَبًۭا
 
-**18:63**  Dywedodd ef, “A gofi di pan orffwysasom wrth y graig? Anghofiais am y pysgodyn. Y diafol yn unig a wnaeth i mi ei anghofio. Ac felly cafodd ei ffordd i'r afon, yn rhyfeddol.”
+**18:63**  Dywedodd ef, "A gofi di pan orffwysasom wrth y graig? Anghofiais am y pysgodyn. Y diafol yn unig a wnaeth i mi ei anghofio. Ac felly cafodd ei ffordd i'r afon, yn rhyfeddol."
 
 قَالَ أَرَءَيْتَ إِذْ أَوَيْنَآ إِلَى ٱلصَّخْرَةِ فَإِنِّى نَسِيتُ ٱلْحُوتَ وَمَآ أَنسَىٰنِيهُ إِلَّا ٱلشَّيْطَٰنُ أَنْ أَذْكُرَهُۥ ۚ وَٱتَّخَذَ سَبِيلَهُۥ فِى ٱلْبَحْرِ عَجَبًۭا
 
-**18:64**  Dywedodd ef, “Dyma'r hyn yr oeddem yn ei geisio.” Ac felly troasant yn ôl gan ddilyn eu camau.
+**18:64**  Dywedodd ef, "Dyma'r hyn yr oeddem yn ei geisio." Ac felly troasant yn ôl gan ddilyn eu camau.
 
 قَالَ ذَٰلِكَ مَا كُنَّا نَبْغِ ۚ فَٱرْتَدَّا عَلَىٰٓ ءَاثَارِهِمَا قَصَصًۭا
 
@@ -9203,55 +9203,55 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَٰهُ مِن لَّدُنَّا عِلْمًۭا
 
-**18:66**  Dywedodd Moses wrtho, “A gaf i dy ddilyn, er mwyn i ti fy nysgu i rywfaint o'r arweiniad y'th ddysgwyd?”
+**18:66**  Dywedodd Moses wrtho, "A gaf i dy ddilyn, er mwyn i ti fy nysgu i rywfaint o'r arweiniad y'th ddysgwyd?"
 
 قَالَ لَهُۥ مُوسَىٰ هَلْ أَتَّبِعُكَ عَلَىٰٓ أَن تُعَلِّمَنِ مِمَّا عُلِّمْتَ رُشْدًۭا
 
-**18:67**  Dywedodd ef, “Ni allu di oddef gyda mi.
+**18:67**  Dywedodd ef, "Ni allu di oddef gyda mi.
 
 قَالَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًۭا
 
-**18:68**  A sut y goddefi di yr hyn nad oes gennyt wybodaeth ohono?”
+**18:68**  A sut y goddefi di yr hyn nad oes gennyt wybodaeth ohono?"
 
 وَكَيْفَ تَصْبِرُ عَلَىٰ مَا لَمْ تُحِطْ بِهِۦ خُبْرًۭا
 
-**18:69**  Dywedodd ef, “Cei di fi, os ewyllys Allah, yn amyneddgar; ac ni anufuddhaf i ti yn unrhyw orchymyn i ti.”
+**18:69**  Dywedodd ef, "Cei di fi, os ewyllys Allah, yn amyneddgar; ac ni anufuddhaf i ti yn unrhyw orchymyn i ti."
 
 قَالَ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ صَابِرًۭا وَلَآ أَعْصِى لَكَ أَمْرًۭا
 
-**18:70**  Dywedodd ef, “Os dilyni di fi, paid â gofyn i mi am ddim, hyd oni wnaf fi fy hun grybwyll amdano i ti.”
+**18:70**  Dywedodd ef, "Os dilyni di fi, paid â gofyn i mi am ddim, hyd oni wnaf fi fy hun grybwyll amdano i ti."
 
 قَالَ فَإِنِ ٱتَّبَعْتَنِى فَلَا تَسْـَٔلْنِى عَن شَىْءٍ حَتَّىٰٓ أُحْدِثَ لَكَ مِنْهُ ذِكْرًۭا
 
-**18:71**  Felly cychwynasant. Hyd, pan aethant ar fwrdd y cwch, tyllodd ef dwll ynddo. Dywedodd ef, “A dyllaist ti dwll ynddo, i foddi ei deithwyr? Gwnaethost rywbeth erchyll.”
+**18:71**  Felly cychwynasant. Hyd, pan aethant ar fwrdd y cwch, tyllodd ef dwll ynddo. Dywedodd ef, "A dyllaist ti dwll ynddo, i foddi ei deithwyr? Gwnaethost rywbeth erchyll."
 
 فَٱنطَلَقَا حَتَّىٰٓ إِذَا رَكِبَا فِى ٱلسَّفِينَةِ خَرَقَهَا ۖ قَالَ أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْـًٔا إِمْرًۭا
 
-**18:72**  Dywedodd ef, “Oni ddywedais wrthyt na allu di oddef gyda mi?”
+**18:72**  Dywedodd ef, "Oni ddywedais wrthyt na allu di oddef gyda mi?"
 
 قَالَ أَلَمْ أَقُلْ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًۭا
 
-**18:73**  Dywedodd ef, “Paid â'm ceryddu i am anghofio, ac na wna fy nghwrs yn anodd i mi.”
+**18:73**  Dywedodd ef, "Paid â'm ceryddu i am anghofio, ac na wna fy nghwrs yn anodd i mi."
 
 قَالَ لَا تُؤَاخِذْنِى بِمَا نَسِيتُ وَلَا تُرْهِقْنِى مِنْ أَمْرِى عُسْرًۭا
 
-**18:74**  Yna cychwynasant. Hyd, pan ddaethant ar draws bachgen, lladdodd ef ef. Dywedodd ef, “A laddodd ti enaid pur, na laddodd neb? Gwnaethost rywbeth ofnadwy.”
+**18:74**  Yna cychwynasant. Hyd, pan ddaethant ar draws bachgen, lladdodd ef ef. Dywedodd ef, "A laddodd ti enaid pur, na laddodd neb? Gwnaethost rywbeth ofnadwy."
 
 فَٱنطَلَقَا حَتَّىٰٓ إِذَا لَقِيَا غُلَٰمًۭا فَقَتَلَهُۥ قَالَ أَقَتَلْتَ نَفْسًۭا زَكِيَّةًۢ بِغَيْرِ نَفْسٍۢ لَّقَدْ جِئْتَ شَيْـًۭٔا نُّكْرًۭا
 
-**18:75**  Dywedodd ef, “Oni ddywedais wrthyt na allu di oddef gyda mi?”
+**18:75**  Dywedodd ef, "Oni ddywedais wrthyt na allu di oddef gyda mi?"
 
 ۞ قَالَ أَلَمْ أَقُل لَّكَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًۭا
 
-**18:76**  Dywedodd ef, “Os gofynnaf i ti am ddim ar ôl hyn, yna paid â chadw cwmni â mi. Derbyniaist esgusodion gennyf i.”
+**18:76**  Dywedodd ef, "Os gofynnaf i ti am ddim ar ôl hyn, yna paid â chadw cwmni â mi. Derbyniaist esgusodion gennyf i."
 
 قَالَ إِن سَأَلْتُكَ عَن شَىْءٍۭ بَعْدَهَا فَلَا تُصَٰحِبْنِى ۖ قَدْ بَلَغْتَ مِن لَّدُنِّى عُذْرًۭا
 
-**18:77**  Felly cychwynasant. Hyd, pan gyrhaeddasant bobl tref, gofynasant iddynt am fwyd, ond gwrthodasant gynnig lletygarwch iddynt. Yno daethant o hyd i wal ar fin syrthio, ac fe'i hatgyweiriodd. Dywedodd ef, “Pe mynnet, gallet fod wedi cael tâl amdano.”
+**18:77**  Felly cychwynasant. Hyd, pan gyrhaeddasant bobl tref, gofynasant iddynt am fwyd, ond gwrthodasant gynnig lletygarwch iddynt. Yno daethant o hyd i wal ar fin syrthio, ac fe'i hatgyweiriodd. Dywedodd ef, "Pe mynnet, gallet fod wedi cael tâl amdano."
 
 فَٱنطَلَقَا حَتَّىٰٓ إِذَآ أَتَيَآ أَهْلَ قَرْيَةٍ ٱسْتَطْعَمَآ أَهْلَهَا فَأَبَوْا۟ أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًۭا يُرِيدُ أَن يَنقَضَّ فَأَقَامَهُۥ ۖ قَالَ لَوْ شِئْتَ لَتَّخَذْتَ عَلَيْهِ أَجْرًۭا
 
-**18:78**  Dywedodd ef, “Dyma'r ymadawiad rhyngot ti a mi. Dywedaf i ti ddehongliad yr hyn na allet ti ei oddef.
+**18:78**  Dywedodd ef, "Dyma'r ymadawiad rhyngot ti a mi. Dywedaf i ti ddehongliad yr hyn na allet ti ei oddef.
 
 قَالَ هَٰذَا فِرَاقُ بَيْنِى وَبَيْنِكَ ۚ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِع عَّلَيْهِ صَبْرًا
 
@@ -9267,11 +9267,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَأَرَدْنَآ أَن يُبْدِلَهُمَا رَبُّهُمَا خَيْرًۭا مِّنْهُ زَكَوٰةًۭ وَأَقْرَبَ رُحْمًۭا
 
-**18:82**  Ac o ran y wal, yr oedd yn perthyn i ddau fachgen amddifad yn y dref. O dani yr oedd trysor yn perthyn iddynt. Dyn cyfiawn oedd eu tad. Yr oedd dy Arglwydd eisiau iddynt gyrraedd eu llawn oed, ac yna dynnu eu trysor — fel trugaredd oddi wrth dy Arglwydd. Ni wneuthum i hynny o'm gwirfodd fy hun. Dyma ddehongliad yr hyn na allet ti ei oddef.”
+**18:82**  Ac o ran y wal, yr oedd yn perthyn i ddau fachgen amddifad yn y dref. O dani yr oedd trysor yn perthyn iddynt. Dyn cyfiawn oedd eu tad. Yr oedd dy Arglwydd eisiau iddynt gyrraedd eu llawn oed, ac yna dynnu eu trysor — fel trugaredd oddi wrth dy Arglwydd. Ni wneuthum i hynny o'm gwirfodd fy hun. Dyma ddehongliad yr hyn na allet ti ei oddef."
 
 وَأَمَّا ٱلْجِدَارُ فَكَانَ لِغُلَٰمَيْنِ يَتِيمَيْنِ فِى ٱلْمَدِينَةِ وَكَانَ تَحْتَهُۥ كَنزٌۭ لَّهُمَا وَكَانَ أَبُوهُمَا صَٰلِحًۭا فَأَرَادَ رَبُّكَ أَن يَبْلُغَآ أَشُدَّهُمَا وَيَسْتَخْرِجَا كَنزَهُمَا رَحْمَةًۭ مِّن رَّبِّكَ ۚ وَمَا فَعَلْتُهُۥ عَنْ أَمْرِى ۚ ذَٰلِكَ تَأْوِيلُ مَا لَمْ تَسْطِع عَّلَيْهِ صَبْرًۭا
 
-**18:83**  A gofynnant nhw i ti am Zul-Qarnain. Dywed, “Dywedaf i ti rywbeth amdano.”
+**18:83**  A gofynnant nhw i ti am Zul-Qarnain. Dywed, "Dywedaf i ti rywbeth amdano."
 
 وَيَسْـَٔلُونَكَ عَن ذِى ٱلْقَرْنَيْنِ ۖ قُلْ سَأَتْلُوا۟ عَلَيْكُم مِّنْهُ ذِكْرًا
 
@@ -9283,15 +9283,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَأَتْبَعَ سَبَبًا
 
-**18:86**  Hyd, pan gyrhaeddodd fachludiad yr haul, cafodd ef yn machlud mewn ffynnon dywyll, a chafodd bobl yn ei chyffiniau. Dywedasom Ni, “O Zul-Qarnain, fe elli naill ai gosbi, neu drin nhw yn garedig.”
+**18:86**  Hyd, pan gyrhaeddodd fachludiad yr haul, cafodd ef yn machlud mewn ffynnon dywyll, a chafodd bobl yn ei chyffiniau. Dywedasom Ni, "O Zul-Qarnain, fe elli naill ai gosbi, neu drin nhw yn garedig."
 
 حَتَّىٰٓ إِذَا بَلَغَ مَغْرِبَ ٱلشَّمْسِ وَجَدَهَا تَغْرُبُ فِى عَيْنٍ حَمِئَةٍۢ وَوَجَدَ عِندَهَا قَوْمًۭا ۗ قُلْنَا يَٰذَا ٱلْقَرْنَيْنِ إِمَّآ أَن تُعَذِّبَ وَإِمَّآ أَن تَتَّخِذَ فِيهِمْ حُسْنًۭا
 
-**18:87**  Dywedodd ef, “O ran yr hwn sy'n gwneud cam, cosbwn ef, yna dychwelir ef at ei Arglwydd, ac Ef a'i cosba ef â phoen nas clywyd ei bath.
+**18:87**  Dywedodd ef, "O ran yr hwn sy'n gwneud cam, cosbwn ef, yna dychwelir ef at ei Arglwydd, ac Ef a'i cosba ef â phoen nas clywyd ei bath.
 
 قَالَ أَمَّا مَن ظَلَمَ فَسَوْفَ نُعَذِّبُهُۥ ثُمَّ يُرَدُّ إِلَىٰ رَبِّهِۦ فَيُعَذِّبُهُۥ عَذَابًۭا نُّكْرًۭا
 
-**18:88**  “Ond o ran yr hwn sy'n credu ac yn gweithredu'n gyfiawn, ef a gaiff y wobr orau, a llefarwn Ni wrtho am ein gorchymyn Ni yn rhwydd.”
+**18:88**  "Ond o ran yr hwn sy'n credu ac yn gweithredu'n gyfiawn, ef a gaiff y wobr orau, a llefarwn Ni wrtho am ein gorchymyn Ni yn rhwydd."
 
 وَأَمَّا مَنْ ءَامَنَ وَعَمِلَ صَٰلِحًۭا فَلَهُۥ جَزَآءً ٱلْحُسْنَىٰ ۖ وَسَنَقُولُ لَهُۥ مِنْ أَمْرِنَا يُسْرًۭا
 
@@ -9315,15 +9315,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 حَتَّىٰٓ إِذَا بَلَغَ بَيْنَ ٱلسَّدَّيْنِ وَجَدَ مِن دُونِهِمَا قَوْمًۭا لَّا يَكَادُونَ يَفْقَهُونَ قَوْلًۭا
 
-**18:94**  Dywedasant nhw, “O Zul-Qarnain, y mae Gog a Magog yn lledaenu anhrefn yn y tir. A allwn dalu i ti, i adeiladu rhyngom ni a nhw wal?”
+**18:94**  Dywedasant nhw, "O Zul-Qarnain, y mae Gog a Magog yn lledaenu anhrefn yn y tir. A allwn dalu i ti, i adeiladu rhyngom ni a nhw wal?"
 
 قَالُوا۟ يَٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا
 
-**18:95**  Dywedodd ef, “Yr hyn y mae fy Arglwydd wedi fy ngrymuso ag ef sydd well. Ond cynorthwywch fi â nerth, ac adeiladaf i rhyngoch chi a nhw argae.”
+**18:95**  Dywedodd ef, "Yr hyn y mae fy Arglwydd wedi fy ngrymuso ag ef sydd well. Ond cynorthwywch fi â nerth, ac adeiladaf i rhyngoch chi a nhw argae."
 
 قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا
 
-**18:96**  “Dewch â blociau o haearn i mi.” Felly, pan oedd wedi lefelu rhwng y ddwy graig, dywedodd, “Chwythwch.” Ac wedi ei droi yn dân, dywedodd, “Dewch â thar i mi i'w dywallt drosto.”
+**18:96**  "Dewch â blociau o haearn i mi." Felly, pan oedd wedi lefelu rhwng y ddwy graig, dywedodd, "Chwythwch." Ac wedi ei droi yn dân, dywedodd, "Dewch â thar i mi i'w dywallt drosto."
 
 ءَاتُونِى زُبَرَ ٱلْحَدِيدِ ۖ حَتَّىٰٓ إِذَا سَاوَىٰ بَيْنَ ٱلصَّدَفَيْنِ قَالَ ٱنفُخُوا۟ ۖ حَتَّىٰٓ إِذَا جَعَلَهُۥ نَارًۭا قَالَ ءَاتُونِىٓ أُفْرِغْ عَلَيْهِ قِطْرًۭا
 
@@ -9331,7 +9331,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَمَا ٱسْطَٰعُوٓا۟ أَن يَظْهَرُوهُ وَمَا ٱسْتَطَٰعُوا۟ لَهُۥ نَقْبًۭا
 
-**18:98**  Dywedodd ef, “Trugaredd oddi wrth fy Arglwydd yw hyn. Ond pan ddaw addewid fy Arglwydd yn wir, Ef a'i try yn rwbel, ac y mae addewid fy Arglwydd yn wir bob amser.”
+**18:98**  Dywedodd ef, "Trugaredd oddi wrth fy Arglwydd yw hyn. Ond pan ddaw addewid fy Arglwydd yn wir, Ef a'i try yn rwbel, ac y mae addewid fy Arglwydd yn wir bob amser."
 
 قَالَ هَٰذَا رَحْمَةٌۭ مِّن رَّبِّى ۖ فَإِذَا جَآءَ وَعْدُ رَبِّى جَعَلَهُۥ دَكَّآءَ ۖ وَكَانَ وَعْدُ رَبِّى حَقًّۭا
 
@@ -9351,11 +9351,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 أَفَحَسِبَ ٱلَّذِينَ كَفَرُوٓا۟ أَن يَتَّخِذُوا۟ عِبَادِى مِن دُونِىٓ أَوْلِيَآءَ ۚ إِنَّآ أَعْتَدْنَا جَهَنَّمَ لِلْكَٰفِرِينَ نُزُلًۭا
 
-**18:103**  Dywed, “A hysbyswn Ni chi am y colledwyr mwyaf yn eu gweithredoedd?”
+**18:103**  Dywed, "A hysbyswn Ni chi am y colledwyr mwyaf yn eu gweithredoedd?"
 
 قُلْ هَلْ نُنَبِّئُكُم بِٱلْأَخْسَرِينَ أَعْمَٰلًا
 
-**18:104**  “Y rhai y mae eu hymdrechion yn y byd hwn wedi eu camgyfeirio, tra bo nhw yn tybio eu bod yn gwneud yn dda.”
+**18:104**  "Y rhai y mae eu hymdrechion yn y byd hwn wedi eu camgyfeirio, tra bo nhw yn tybio eu bod yn gwneud yn dda."
 
 ٱلَّذِينَ ضَلَّ سَعْيُهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا
 
@@ -9375,11 +9375,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 خَٰلِدِينَ فِيهَا لَا يَبْغُونَ عَنْهَا حِوَلًۭا
 
-**18:109**  Dywed, “Pe bai'r cefnfor yn inc ar gyfer geiriau fy Arglwydd, rhedai'r cefnfor allan, cyn i eiriau fy Arglwydd redeg allan,” hyd yn oed pe dygem Ni yr un fath ag ef yn ychwanegol ato.
+**18:109**  Dywed, "Pe bai'r cefnfor yn inc ar gyfer geiriau fy Arglwydd, rhedai'r cefnfor allan, cyn i eiriau fy Arglwydd redeg allan," hyd yn oed pe dygem Ni yr un fath ag ef yn ychwanegol ato.
 
 قُل لَّوْ كَانَ ٱلْبَحْرُ مِدَادًۭا لِّكَلِمَٰتِ رَبِّى لَنَفِدَ ٱلْبَحْرُ قَبْلَ أَن تَنفَدَ كَلِمَٰتُ رَبِّى وَلَوْ جِئْنَا بِمِثْلِهِۦ مَدَدًۭا
 
-**18:110**  Dywed, “Nid wyf ond bod dynol fel chi, yn cael fy ysbrydoli fod eich duw yn Un Duw. Pwy bynnag sy'n gobeithio cyfarfod ei Arglwydd, bydded iddo weithio cyfiawnder, a pheidio byth â chysylltu neb â gwasanaeth ei Arglwydd.”
+**18:110**  Dywed, "Nid wyf ond bod dynol fel chi, yn cael fy ysbrydoli fod eich duw yn Un Duw. Pwy bynnag sy'n gobeithio cyfarfod ei Arglwydd, bydded iddo weithio cyfiawnder, a pheidio byth â chysylltu neb â gwasanaeth ei Arglwydd."
 
 قُلْ إِنَّمَآ أَنَا۠ بَشَرٌۭ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَٰهُكُمْ إِلَٰهٌۭ وَٰحِدٌۭ ۖ فَمَن كَانَ يَرْجُوا۟ لِقَآءَ رَبِّهِۦ فَلْيَعْمَلْ عَمَلًۭا صَٰلِحًۭا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِۦٓ أَحَدًۢا
 
@@ -9408,31 +9408,31 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِذْ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيًّۭا
 
-**19:4**  Dywedodd, “Fy Arglwydd, y mae fy esgyrn wedi dyfod yn wan, ac y mae fy ngwallt yn fflam o lwyd, ac erioed, Arglwydd, nid wyf wedi fy siomi yn fy ngweddi i ti.
+**19:4**  Dywedodd, "Fy Arglwydd, y mae fy esgyrn wedi dyfod yn wan, ac y mae fy ngwallt yn fflam o lwyd, ac erioed, Arglwydd, nid wyf wedi fy siomi yn fy ngweddi i ti.
 
 قَالَ رَبِّ إِنِّى وَهَنَ ٱلْعَظْمُ مِنِّى وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًۭا وَلَمْ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيًّۭا
 
-**19:5**  “Ac yr wyf yn ofni dros fy nheulu ar fy ôl, ac y mae fy ngwraig yn ddiffrwyth. Felly caniatâ i mi, oddi wrthyt Ti dy hun, etifedd.
+**19:5**  "Ac yr wyf yn ofni dros fy nheulu ar fy ôl, ac y mae fy ngwraig yn ddiffrwyth. Felly caniatâ i mi, oddi wrthyt Ti dy hun, etifedd.
 
 وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا
 
-**19:6**  I etifeddu fi, ac etifeddu o Dŷ Jacob, a gwna ef, fy Arglwydd, yn ddymunol.”
+**19:6**  I etifeddu fi, ac etifeddu o Dŷ Jacob, a gwna ef, fy Arglwydd, yn ddymunol."
 
 يَرِثُنِى وَيَرِثُ مِنْ ءَالِ يَعْقُوبَ ۖ وَٱجْعَلْهُ رَبِّ رَضِيًّۭا
 
-**19:7**  “O Sechareia, rhoddwn Ni i ti newyddion da am fab, a'i enw yw Ioan, enw na roddasom Ni erioed o'r blaen.”
+**19:7**  "O Sechareia, rhoddwn Ni i ti newyddion da am fab, a'i enw yw Ioan, enw na roddasom Ni erioed o'r blaen."
 
 يَٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ ٱسْمُهُۥ يَحْيَىٰ لَمْ نَجْعَل لَّهُۥ مِن قَبْلُ سَمِيًّۭا
 
-**19:8**  Dywedodd ef, “Fy Arglwydd, sut y caf i fab, pan fo fy ngwraig yn ddiffrwyth, ac yr wyf wedi dyfod yn egwan â henaint?”
+**19:8**  Dywedodd ef, "Fy Arglwydd, sut y caf i fab, pan fo fy ngwraig yn ddiffrwyth, ac yr wyf wedi dyfod yn egwan â henaint?"
 
 قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌۭ وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا وَقَدْ بَلَغْتُ مِنَ ٱلْكِبَرِ عِتِيًّۭا
 
-**19:9**  Dywedodd Ef, “Fel hyn y bydd, medd dy Arglwydd, 'hawdd yw i mi, a'th greais di o'r blaen, pan oeddit yn ddim.'”
+**19:9**  Dywedodd Ef, "Fel hyn y bydd, medd dy Arglwydd, 'hawdd yw i mi, a'th greais di o'r blaen, pan oeddit yn ddim.'"
 
 قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَىَّ هَيِّنٌۭ وَقَدْ خَلَقْتُكَ مِن قَبْلُ وَلَمْ تَكُ شَيْـًۭٔا
 
-**19:10**  Dywedodd ef, “Fy Arglwydd, rhoddwch i mi arwydd.” Dywedodd Ef, “Dy arwydd yw na leferi di wrth y bobl am dair nos yn olynol.”
+**19:10**  Dywedodd ef, "Fy Arglwydd, rhoddwch i mi arwydd." Dywedodd Ef, "Dy arwydd yw na leferi di wrth y bobl am dair nos yn olynol."
 
 قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةًۭ ۚ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَ لَيَالٍۢ سَوِيًّۭا
 
@@ -9440,7 +9440,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَخَرَجَ عَلَىٰ قَوْمِهِۦ مِنَ ٱلْمِحْرَابِ فَأَوْحَىٰٓ إِلَيْهِمْ أَن سَبِّحُوا۟ بُكْرَةًۭ وَعَشِيًّۭا
 
-**19:12**  “O Ioan, dal yr Ysgrythur yn gadarn,” a rhoddasom Ni iddo ddoethineb yn ei ieuenctid.
+**19:12**  "O Ioan, dal yr Ysgrythur yn gadarn," a rhoddasom Ni iddo ddoethineb yn ei ieuenctid.
 
 يَٰيَحْيَىٰ خُذِ ٱلْكِتَٰبَ بِقُوَّةٍۢ ۖ وَءَاتَيْنَٰهُ ٱلْحُكْمَ صَبِيًّۭا
 
@@ -9464,19 +9464,19 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَٱتَّخَذَتْ مِن دُونِهِمْ حِجَابًۭا فَأَرْسَلْنَآ إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًۭا سَوِيًّۭا
 
-**19:18**  Dywedodd hi, “Cymeraf loches oddi wrthyt yn y Daionus, os wyt ti'n gyfiawn.”
+**19:18**  Dywedodd hi, "Cymeraf loches oddi wrthyt yn y Daionus, os wyt ti'n gyfiawn."
 
 قَالَتْ إِنِّىٓ أَعُوذُ بِٱلرَّحْمَٰنِ مِنكَ إِن كُنتَ تَقِيًّۭا
 
-**19:19**  Dywedodd ef, “Nid wyf ond cenhadwr dy Arglwydd, i roi i ti rodd mab pur.”
+**19:19**  Dywedodd ef, "Nid wyf ond cenhadwr dy Arglwydd, i roi i ti rodd mab pur."
 
 قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَٰمًۭا زَكِيًّۭا
 
-**19:20**  Dywedodd hi, “Sut y caf i fab, pan na chyffyrddodd dyn â mi, ac ni bûm i erioed yn anllad?”
+**19:20**  Dywedodd hi, "Sut y caf i fab, pan na chyffyrddodd dyn â mi, ac ni bûm i erioed yn anllad?"
 
 قَالَتْ أَنَّىٰ يَكُونُ لِى غُلَٰمٌۭ وَلَمْ يَمْسَسْنِى بَشَرٌۭ وَلَمْ أَكُ بَغِيًّۭا
 
-**19:21**  Dywedodd ef, “Fel hyn y dywedodd dy Arglwydd, 'Hawdd yw i Mi, a gwnaethom ef yn arwydd i ddynoliaeth, ac yn drugaredd oddi wrthym Ni. Mater wedi ei benderfynu yn barod ydyw.'”
+**19:21**  Dywedodd ef, "Fel hyn y dywedodd dy Arglwydd, 'Hawdd yw i Mi, a gwnaethom ef yn arwydd i ddynoliaeth, ac yn drugaredd oddi wrthym Ni. Mater wedi ei benderfynu yn barod ydyw.'"
 
 قَالَ كَذَٰلِكِ قَالَ رَبُّكِ هُوَ عَلَىَّ هَيِّنٌۭ ۖ وَلِنَجْعَلَهُۥٓ ءَايَةًۭ لِّلنَّاسِ وَرَحْمَةًۭ مِّنَّا ۚ وَكَانَ أَمْرًۭا مَّقْضِيًّۭا
 
@@ -9484,35 +9484,35 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا
 
-**19:23**  Daeth poenau esgor arni, wrth foncyff palmwydden. Dywedodd hi, “O na bawn i wedi marw cyn hyn, a'm hanghofio'n llwyr.”
+**19:23**  Daeth poenau esgor arni, wrth foncyff palmwydden. Dywedodd hi, "O na bawn i wedi marw cyn hyn, a'm hanghofio'n llwyr."
 
 فَأَجَآءَهَا ٱلْمَخَاضُ إِلَىٰ جِذْعِ ٱلنَّخْلَةِ قَالَتْ يَٰلَيْتَنِى مِتُّ قَبْلَ هَٰذَا وَكُنتُ نَسْيًۭا مَّنسِيًّۭا
 
-**19:24**  Yna y galwodd ef arni oddi tani: “Paid â phoeni; y mae dy Arglwydd wedi gosod nant oddi tanat.
+**19:24**  Yna y galwodd ef arni oddi tani: "Paid â phoeni; y mae dy Arglwydd wedi gosod nant oddi tanat.
 
 فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا
 
-**19:25**  Ac ysgwyd foncyff y balmwydden tuag atat, a bydd yn gollwng datys aeddfed wrthyt.”
+**19:25**  Ac ysgwyd foncyff y balmwydden tuag atat, a bydd yn gollwng datys aeddfed wrthyt."
 
 وَهُزِّىٓ إِلَيْكِ بِجِذْعِ ٱلنَّخْلَةِ تُسَٰقِطْ عَلَيْكِ رُطَبًۭا جَنِيًّۭا
 
-**19:26**  “Felly bwyta, ac yfa, a bydd gysurus. Ac os gweli di unrhyw ddyn, dywed, 'Rwyf wedi addo ympryd i'r Daionus, felly ni lefaraf wrth unrhyw ddyn heddiw.'”
+**19:26**  "Felly bwyta, ac yfa, a bydd gysurus. Ac os gweli di unrhyw ddyn, dywed, 'Rwyf wedi addo ympryd i'r Daionus, felly ni lefaraf wrth unrhyw ddyn heddiw.'"
 
 فَكُلِى وَٱشْرَبِى وَقَرِّى عَيْنًۭا ۖ فَإِمَّا تَرَيِنَّ مِنَ ٱلْبَشَرِ أَحَدًۭا فَقُولِىٓ إِنِّى نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًۭا فَلَنْ أُكَلِّمَ ٱلْيَوْمَ إِنسِيًّۭا
 
-**19:27**  Yna daeth hi at ei phobl, gan ei gludo. Dywedasant nhw, “O Fair, gwnaethost rywbeth ofnadwy.
+**19:27**  Yna daeth hi at ei phobl, gan ei gludo. Dywedasant nhw, "O Fair, gwnaethost rywbeth ofnadwy.
 
 فَأَتَتْ بِهِۦ قَوْمَهَا تَحْمِلُهُۥ ۖ قَالُوا۟ يَٰمَرْيَمُ لَقَدْ جِئْتِ شَيْـًۭٔا فَرِيًّۭا
 
-**19:28**  O chwaer Aaron, nid oedd dy dad yn ddyn drwg, ac nid oedd dy fam yn butain.”
+**19:28**  O chwaer Aaron, nid oedd dy dad yn ddyn drwg, ac nid oedd dy fam yn butain."
 
 يَٰٓأُخْتَ هَٰرُونَ مَا كَانَ أَبُوكِ ٱمْرَأَ سَوْءٍۢ وَمَا كَانَتْ أُمُّكِ بَغِيًّۭا
 
-**19:29**  Felly pwyntiodd hi ato. Dywedasant nhw, “Sut y gallwn lefaru wrth faban yn y crud?”
+**19:29**  Felly pwyntiodd hi ato. Dywedasant nhw, "Sut y gallwn lefaru wrth faban yn y crud?"
 
 فَأَشَارَتْ إِلَيْهِ ۖ قَالُوا۟ كَيْفَ نُكَلِّمُ مَن كَانَ فِى ٱلْمَهْدِ صَبِيًّۭا
 
-**19:30**  Dywedodd ef, “Gwas Allah wyf fi. Y mae Ef wedi rhoi i mi'r Ysgrythur, ac wedi fy ngwneud yn broffwyd.
+**19:30**  Dywedodd ef, "Gwas Allah wyf fi. Y mae Ef wedi rhoi i mi'r Ysgrythur, ac wedi fy ngwneud yn broffwyd.
 
 قَالَ إِنِّى عَبْدُ ٱللَّهِ ءَاتَىٰنِىَ ٱلْكِتَٰبَ وَجَعَلَنِى نَبِيًّۭا
 
@@ -9524,7 +9524,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَبَرًّۢا بِوَٰلِدَتِى وَلَمْ يَجْعَلْنِى جَبَّارًۭا شَقِيًّۭا
 
-**19:33**  Felly bydded Heddwch arnaf y diwrnod y'm ganwyd, a'r diwrnod y byddaf farw, a'r Dydd y'm hatgyfodir yn fyw.”
+**19:33**  Felly bydded Heddwch arnaf y diwrnod y'm ganwyd, a'r diwrnod y byddaf farw, a'r Dydd y'm hatgyfodir yn fyw."
 
 وَٱلسَّلَٰمُ عَلَىَّ يَوْمَ وُلِدتُّ وَيَوْمَ أَمُوتُ وَيَوْمَ أُبْعَثُ حَيًّۭا
 
@@ -9532,11 +9532,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ذَٰلِكَ عِيسَى ٱبْنُ مَرْيَمَ ۚ قَوْلَ ٱلْحَقِّ ٱلَّذِى فِيهِ يَمْتَرُونَ
 
-**19:35**  Nid yw'n perthyn i Allah gael plentyn — gogoniant iddo Ef. I gael unrhyw beth wedi ei wneud, dywed Ef wrtho, “Bydd,” ac y mae'n dyfod.
+**19:35**  Nid yw'n perthyn i Allah gael plentyn — gogoniant iddo Ef. I gael unrhyw beth wedi ei wneud, dywed Ef wrtho, "Bydd," ac y mae'n dyfod.
 
 مَا كَانَ لِلَّهِ أَن يَتَّخِذَ مِن وَلَدٍۢ ۖ سُبْحَٰنَهُۥٓ ۚ إِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 
-**19:36**  “Allah yw fy Arglwydd a'ch Arglwydd chi, felly addolwch Ef. Dyna lwybr union.”
+**19:36**  "Allah yw fy Arglwydd a'ch Arglwydd chi, felly addolwch Ef. Dyna lwybr union."
 
 وَإِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۚ هَٰذَا صِرَٰطٌۭ مُّسْتَقِيمٌۭ
 
@@ -9560,7 +9560,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَٱذْكُرْ فِى ٱلْكِتَٰبِ إِبْرَٰهِيمَ ۚ إِنَّهُۥ كَانَ صِدِّيقًۭا نَّبِيًّا
 
-**19:42**  Dywedodd wrth ei dad, “O fy nhad, pam yr addoli di yr hyn na all na chlywed, na gweld, na'th fuddi di mewn unrhyw ffordd?
+**19:42**  Dywedodd wrth ei dad, "O fy nhad, pam yr addoli di yr hyn na all na chlywed, na gweld, na'th fuddi di mewn unrhyw ffordd?
 
 إِذْ قَالَ لِأَبِيهِ يَٰٓأَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِى عَنكَ شَيْـًۭٔا
 
@@ -9572,19 +9572,19 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 يَٰٓأَبَتِ لَا تَعْبُدِ ٱلشَّيْطَٰنَ ۖ إِنَّ ٱلشَّيْطَٰنَ كَانَ لِلرَّحْمَٰنِ عَصِيًّۭا
 
-**19:45**  O fy nhad, yr wyf yn ofni y daw cosb oddi wrth y Daionus arnat, a deui di'n gynghreiriad i'r diafol.”
+**19:45**  O fy nhad, yr wyf yn ofni y daw cosb oddi wrth y Daionus arnat, a deui di'n gynghreiriad i'r diafol."
 
 يَٰٓأَبَتِ إِنِّىٓ أَخَافُ أَن يَمَسَّكَ عَذَابٌۭ مِّنَ ٱلرَّحْمَٰنِ فَتَكُونَ لِلشَّيْطَٰنِ وَلِيًّۭا
 
-**19:46**  Dywedodd ef, “A wyt ti'n ymwrthod â'm duwiau i, O Abraham? Os na pheidiaist, mi a'th labyddiaf. Felly gad fi'n llonydd am ychydig.”
+**19:46**  Dywedodd ef, "A wyt ti'n ymwrthod â'm duwiau i, O Abraham? Os na pheidiaist, mi a'th labyddiaf. Felly gad fi'n llonydd am ychydig."
 
 قَالَ أَرَاغِبٌ أَنتَ عَنْ ءَالِهَتِى يَٰٓإِبْرَٰهِيمُ ۖ لَئِن لَّمْ تَنتَهِ لَأَرْجُمَنَّكَ ۖ وَٱهْجُرْنِى مَلِيًّۭا
 
-**19:47**  Dywedodd ef, “Bydded heddwch arnat. Gofynnaf i'm Harglwydd dy faddau di; bu'n garedig wrthyf;
+**19:47**  Dywedodd ef, "Bydded heddwch arnat. Gofynnaf i'm Harglwydd dy faddau di; bu'n garedig wrthyf;
 
 قَالَ سَلَٰمٌ عَلَيْكَ ۖ سَأَسْتَغْفِرُ لَكَ رَبِّىٓ ۖ إِنَّهُۥ كَانَ بِى حَفِيًّۭا
 
-**19:48**  Ac ymadawaf oddi wrthych, ac oddi wrth yr hyn y gweddïwch arno yn lle Allah. A gweddïaf ar fy Arglwydd, a gobeithiaf na chaf fy siomi yn fy ngweddi ar fy Arglwydd.”
+**19:48**  Ac ymadawaf oddi wrthych, ac oddi wrth yr hyn y gweddïwch arno yn lle Allah. A gweddïaf ar fy Arglwydd, a gobeithiaf na chaf fy siomi yn fy ngweddi ar fy Arglwydd."
 
 وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِن دُونِ ٱللَّهِ وَأَدْعُوا۟ رَبِّى عَسَىٰٓ أَلَّآ أَكُونَ بِدُعَآءِ رَبِّى شَقِيًّۭا
 
@@ -9649,7 +9649,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 تِلْكَ ٱلْجَنَّةُ ٱلَّتِى نُورِثُ مِنْ عِبَادِنَا مَن كَانَ تَقِيًّۭا
 
-**19:64**  “Ni ddisgynnwn ond trwy orchymyn dy Arglwydd. Eiddo Ef yw'r hyn sydd o'n blaen, a'r hyn sydd y tu ôl i ni, a'r hyn sydd rhyngddynt. Nid yw dy Arglwydd byth yn anghofus.”
+**19:64**  "Ni ddisgynnwn ond trwy orchymyn dy Arglwydd. Eiddo Ef yw'r hyn sydd o'n blaen, a'r hyn sydd y tu ôl i ni, a'r hyn sydd rhyngddynt. Nid yw dy Arglwydd byth yn anghofus."
 
 وَمَا نَتَنَزَّلُ إِلَّا بِأَمْرِ رَبِّكَ ۖ لَهُۥ مَا بَيْنَ أَيْدِينَا وَمَا خَلْفَنَا وَمَا بَيْنَ ذَٰلِكَ ۚ وَمَا كَانَ رَبُّكَ نَسِيًّۭا
 
@@ -9657,7 +9657,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا فَٱعْبُدْهُ وَٱصْطَبِرْ لِعِبَٰدَتِهِۦ ۚ هَلْ تَعْلَمُ لَهُۥ سَمِيًّۭا
 
-**19:66**  A dywed y bod dynol, “Pan fyddaf farw, a'm dygir yn ôl yn fyw?”
+**19:66**  A dywed y bod dynol, "Pan fyddaf farw, a'm dygir yn ôl yn fyw?"
 
 وَيَقُولُ ٱلْإِنسَٰنُ أَءِذَا مَا مِتُّ لَسَوْفَ أُخْرَجُ حَيًّا
 
@@ -9685,7 +9685,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ثُمَّ نُنَجِّى ٱلَّذِينَ ٱتَّقَوا۟ وَّنَذَرُ ٱلظَّٰلِمِينَ فِيهَا جِثِيًّۭا
 
-**19:73**  Pan adroddir ein datguddiadau eglur Ni iddynt, dywed y rhai sy'n anghredu wrth y rhai sy'n credu, “Pa un o'r ddwy blaid sydd well o ran safle, ac yn uwch o ran dylanwad?”
+**19:73**  Pan adroddir ein datguddiadau eglur Ni iddynt, dywed y rhai sy'n anghredu wrth y rhai sy'n credu, "Pa un o'r ddwy blaid sydd well o ran safle, ac yn uwch o ran dylanwad?"
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَىُّ ٱلْفَرِيقَيْنِ خَيْرٌۭ مَّقَامًۭا وَأَحْسَنُ نَدِيًّۭا
 
@@ -9693,7 +9693,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَحْسَنُ أَثَٰثًۭا وَرِءْيًۭا
 
-**19:75**  Dywed, “Pwy bynnag sydd mewn cyfeiliorni, y Daionus a'i harwain ymlaen.” Hyd, pan welant yr hyn a addawyd iddynt — naill ai'r gosb, neu'r Awr. Yna gwybyddant pwy oedd mewn safle gwaethaf ac yn wannaf o ran lluoedd.
+**19:75**  Dywed, "Pwy bynnag sydd mewn cyfeiliorni, y Daionus a'i harwain ymlaen." Hyd, pan welant yr hyn a addawyd iddynt — naill ai'r gosb, neu'r Awr. Yna gwybyddant pwy oedd mewn safle gwaethaf ac yn wannaf o ran lluoedd.
 
 قُلْ مَن كَانَ فِى ٱلضَّلَٰلَةِ فَلْيَمْدُدْ لَهُ ٱلرَّحْمَٰنُ مَدًّا ۚ حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ إِمَّا ٱلْعَذَابَ وَإِمَّا ٱلسَّاعَةَ فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّۭ مَّكَانًۭا وَأَضْعَفُ جُندًۭا
 
@@ -9701,7 +9701,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَيَزِيدُ ٱللَّهُ ٱلَّذِينَ ٱهْتَدَوْا۟ هُدًۭى ۗ وَٱلْبَٰقِيَٰتُ ٱلصَّٰلِحَٰتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًۭا وَخَيْرٌۭ مَّرَدًّا
 
-**19:77**  A welaist ti ef a wadodd ein datguddiadau Ni, ac a ddywedodd, “Rhoddir i mi gyfoeth a phlant”?
+**19:77**  A welaist ti ef a wadodd ein datguddiadau Ni, ac a ddywedodd, "Rhoddir i mi gyfoeth a phlant"?
 
 أَفَرَءَيْتَ ٱلَّذِى كَفَرَ بِـَٔايَٰتِنَا وَقَالَ لَأُوتَيَنَّ مَالًۭا وَوَلَدًا
 
@@ -9745,7 +9745,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 لَّا يَمْلِكُونَ ٱلشَّفَٰعَةَ إِلَّا مَنِ ٱتَّخَذَ عِندَ ٱلرَّحْمَٰنِ عَهْدًۭا
 
-**19:88**  A dywedant nhw, “Y mae'r Daionus wedi cenhedlu mab.”
+**19:88**  A dywedant nhw, "Y mae'r Daionus wedi cenhedlu mab."
 
 وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًۭا
 
@@ -9838,11 +9838,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَهَلْ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ
 
-**20:10**  Pan welodd dân, dywedodd wrth ei deulu, “Arhoswch; yr wyf wedi sylwi ar dân; Efallai y gallaf ddwyn i chi dortsh oddi yno, neu ddod o hyd i ryw arweiniad wrth y tân.”
+**20:10**  Pan welodd dân, dywedodd wrth ei deulu, "Arhoswch; yr wyf wedi sylwi ar dân; Efallai y gallaf ddwyn i chi dortsh oddi yno, neu ddod o hyd i ryw arweiniad wrth y tân."
 
 إِذْ رَءَا نَارًۭا فَقَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًۭا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِقَبَسٍ أَوْ أَجِدُ عَلَى ٱلنَّارِ هُدًۭى
 
-**20:11**  Yna, pan gyrhaeddodd ef, galwyd arno, “O Moses.
+**20:11**  Yna, pan gyrhaeddodd ef, galwyd arno, "O Moses.
 
 فَلَمَّآ أَتَىٰهَا نُودِىَ يَٰمُوسَىٰٓ
 
@@ -9866,15 +9866,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَلَا يَصُدَّنَّكَ عَنْهَا مَن لَّا يُؤْمِنُ بِهَا وَٱتَّبَعَ هَوَىٰهُ فَتَرْدَىٰ
 
-**20:17**  A beth yw hynny yn dy law dde, O Moses?”
+**20:17**  A beth yw hynny yn dy law dde, O Moses?"
 
 وَمَا تِلْكَ بِيَمِينِكَ يَٰمُوسَىٰ
 
-**20:18**  Dywedodd ef, “Dyma fy ffon. Pwysaf arni, a bugeiliaf fy nefaid â hi, ac y mae gennyf ddefnyddiau eraill ar ei chyfer.”
+**20:18**  Dywedodd ef, "Dyma fy ffon. Pwysaf arni, a bugeiliaf fy nefaid â hi, ac y mae gennyf ddefnyddiau eraill ar ei chyfer."
 
 قَالَ هِىَ عَصَاىَ أَتَوَكَّؤُا۟ عَلَيْهَا وَأَهُشُّ بِهَا عَلَىٰ غَنَمِى وَلِىَ فِيهَا مَـَٔارِبُ أُخْرَىٰ
 
-**20:19**  Dywedodd Ef, “Tafla hi, O Moses.”
+**20:19**  Dywedodd Ef, "Tafla hi, O Moses."
 
 قَالَ أَلْقِهَا يَٰمُوسَىٰ
 
@@ -9882,7 +9882,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَأَلْقَىٰهَا فَإِذَا هِىَ حَيَّةٌۭ تَسْعَىٰ
 
-**20:21**  Dywedodd Ef, “Cymer afael ynddi, ac nac ofna. Adferwn Ni hi i'w chyflwr gwreiddiol.
+**20:21**  Dywedodd Ef, "Cymer afael ynddi, ac nac ofna. Adferwn Ni hi i'w chyflwr gwreiddiol.
 
 قَالَ خُذْهَا وَلَا تَخَفْ ۖ سَنُعِيدُهَا سِيرَتَهَا ٱلْأُولَىٰ
 
@@ -9894,11 +9894,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 لِنُرِيَكَ مِنْ ءَايَٰتِنَا ٱلْكُبْرَى
 
-**20:24**  Dos at Ffaro; Y mae wedi troseddu.”
+**20:24**  Dos at Ffaro; Y mae wedi troseddu."
 
 ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ
 
-**20:25**  Dywedodd ef, “Fy Arglwydd, rhoddwch i'm calon heddwch i mi.
+**20:25**  Dywedodd ef, "Fy Arglwydd, rhoddwch i'm calon heddwch i mi.
 
 قَالَ رَبِّ ٱشْرَحْ لِى صَدْرِى
 
@@ -9938,11 +9938,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَنَذْكُرَكَ كَثِيرًا
 
-**20:35**  Yr wyt Ti bob amser yn gwylio drosom.”
+**20:35**  Yr wyt Ti bob amser yn gwylio drosom."
 
 إِنَّكَ كُنتَ بِنَا بَصِيرًۭا
 
-**20:36**  Dywedodd Ef, “Rhoddwyd i ti dy gais, O Moses.
+**20:36**  Dywedodd Ef, "Rhoddwyd i ti dy gais, O Moses.
 
 قَالَ قَدْ أُوتِيتَ سُؤْلَكَ يَٰمُوسَىٰ
 
@@ -9954,7 +9954,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِذْ أَوْحَيْنَآ إِلَىٰٓ أُمِّكَ مَا يُوحَىٰٓ
 
-**20:39**  ‘Rhodd ef yn y gist; yna tafla ef i'r afon. Y mae'r afon yn ei olchi i'r lan, lle y mae gelyn i Mi a gelyn iddo ef yn ei godi. Ac yr wyf wedi rhoddi arnat ti gariad oddi wrthyf Fi, er mwyn i ti gael dy fagu gerbron fy llygad i.
+**20:39**  'Rhodd ef yn y gist; yna tafla ef i'r afon. Y mae'r afon yn ei olchi i'r lan, lle y mae gelyn i Mi a gelyn iddo ef yn ei godi. Ac yr wyf wedi rhoddi arnat ti gariad oddi wrthyf Fi, er mwyn i ti gael dy fagu gerbron fy llygad i.
 
 أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ يَأْخُذْهُ عَدُوٌّۭ لِّى وَعَدُوٌّۭ لَّهُۥ ۚ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةًۭ مِّنِّى وَلِتُصْنَعَ عَلَىٰ عَيْنِىٓ
 
@@ -9974,39 +9974,39 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ٱذْهَبَآ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ
 
-**20:44**  Ond llefara wrtho yn garedig. Efallai y cofia, neu y bydd rhywfaint o ofn arno.”
+**20:44**  Ond llefara wrtho yn garedig. Efallai y cofia, neu y bydd rhywfaint o ofn arno."
 
 فَقُولَا لَهُۥ قَوْلًۭا لَّيِّنًۭا لَّعَلَّهُۥ يَتَذَكَّرُ أَوْ يَخْشَىٰ
 
-**20:45**  Dywedasant nhw, “Arglwydd, ofnwn y gall ef ein herlid, neu dyfod yn dreisgar.”
+**20:45**  Dywedasant nhw, "Arglwydd, ofnwn y gall ef ein herlid, neu dyfod yn dreisgar."
 
 قَالَا رَبَّنَآ إِنَّنَا نَخَافُ أَن يَفْرُطَ عَلَيْنَآ أَوْ أَن يَطْغَىٰ
 
-**20:46**  Dywedodd Ef, “Nac ofnwch, yr wyf gyda chi, clywaf a gwelaf.
+**20:46**  Dywedodd Ef, "Nac ofnwch, yr wyf gyda chi, clywaf a gwelaf.
 
 قَالَ لَا تَخَافَآ ۖ إِنَّنِى مَعَكُمَآ أَسْمَعُ وَأَرَىٰ
 
-**20:47**  Ewch ato a dweud, ‘Yr ydym ni yn genhadon dy Arglwydd; felly gad i Blant Israel ddod gyda ni, ac na phoena nhw. Dygwn i ti arwydd oddi wrth dy Arglwydd, a bydded heddwch ar yr hwn sy'n dilyn arweiniad.
+**20:47**  Ewch ato a dweud, 'Yr ydym ni yn genhadon dy Arglwydd; felly gad i Blant Israel ddod gyda ni, ac na phoena nhw. Dygwn i ti arwydd oddi wrth dy Arglwydd, a bydded heddwch ar yr hwn sy'n dilyn arweiniad.
 
 فَأْتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ وَلَا تُعَذِّبْهُمْ ۖ قَدْ جِئْنَٰكَ بِـَٔايَةٍۢ مِّن رَّبِّكَ ۖ وَٱلسَّلَٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلْهُدَىٰٓ
 
-**20:48**  Datguddiwyd i ni fod y gosb yn syrthio ar yr hwn sy'n anghredu ac yn troi ymaith.'”
+**20:48**  Datguddiwyd i ni fod y gosb yn syrthio ar yr hwn sy'n anghredu ac yn troi ymaith.'"
 
 إِنَّا قَدْ أُوحِىَ إِلَيْنَآ أَنَّ ٱلْعَذَابَ عَلَىٰ مَن كَذَّبَ وَتَوَلَّىٰ
 
-**20:49**  Dywedodd ef, “Pwy yw dy Arglwydd, O Moses.”
+**20:49**  Dywedodd ef, "Pwy yw dy Arglwydd, O Moses."
 
 قَالَ فَمَن رَّبُّكُمَا يَٰمُوسَىٰ
 
-**20:50**  Dywedodd ef, “Ein Harglwydd yw'r Hwn a roddodd i bopeth ei fodolaeth, yna a'i tywysodd.”
+**20:50**  Dywedodd ef, "Ein Harglwydd yw'r Hwn a roddodd i bopeth ei fodolaeth, yna a'i tywysodd."
 
 قَالَ رَبُّنَا ٱلَّذِىٓ أَعْطَىٰ كُلَّ شَىْءٍ خَلْقَهُۥ ثُمَّ هَدَىٰ
 
-**20:51**  Dywedodd ef, “Beth am y cenedlaethau cyntaf?”
+**20:51**  Dywedodd ef, "Beth am y cenedlaethau cyntaf?"
 
 قَالَ فَمَا بَالُ ٱلْقُرُونِ ٱلْأُولَىٰ
 
-**20:52**  Dywedodd ef, “Y mae gwybodaeth am hynny gyda'm Harglwydd, mewn Llyfr. Nid yw fy Arglwydd byth yn cyfeiliorni, ac nid yw'n anghofio.”
+**20:52**  Dywedodd ef, "Y mae gwybodaeth am hynny gyda'm Harglwydd, mewn Llyfr. Nid yw fy Arglwydd byth yn cyfeiliorni, ac nid yw'n anghofio."
 
 قَالَ عِلْمُهَا عِندَ رَبِّى فِى كِتَٰبٍۢ ۖ لَّا يَضِلُّ رَبِّى وَلَا يَنسَى
 
@@ -10026,15 +10026,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَلَقَدْ أَرَيْنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
 
-**20:57**  Dywedodd ef, “A ddaethost ti atom i'n gyrru ni allan o'n tir â'th hud, O Moses?
+**20:57**  Dywedodd ef, "A ddaethost ti atom i'n gyrru ni allan o'n tir â'th hud, O Moses?
 
 قَالَ أَجِئْتَنَا لِتُخْرِجَنَا مِنْ أَرْضِنَا بِسِحْرِكَ يَٰمُوسَىٰ
 
-**20:58**  Cynhyrchwn Ni i ti hud fel ef; felly gwna apwyntiad rhyngom ni a thi, na chollwn — na ni, na thi — mewn lle canolog.”
+**20:58**  Cynhyrchwn Ni i ti hud fel ef; felly gwna apwyntiad rhyngom ni a thi, na chollwn — na ni, na thi — mewn lle canolog."
 
 فَلَنَأْتِيَنَّكَ بِسِحْرٍۢ مِّثْلِهِۦ فَٱجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًۭا لَّا نُخْلِفُهُۥ نَحْنُ وَلَآ أَنتَ مَكَانًۭا سُوًۭى
 
-**20:59**  Dywedodd ef, “Eich apwyntiad yw diwrnod yr ŵyl, felly gadewch i'r bobl gael eu casglu ynghyd ganol bore.”
+**20:59**  Dywedodd ef, "Eich apwyntiad yw diwrnod yr ŵyl, felly gadewch i'r bobl gael eu casglu ynghyd ganol bore."
 
 قَالَ مَوْعِدُكُمْ يَوْمُ ٱلزِّينَةِ وَأَن يُحْشَرَ ٱلنَّاسُ ضُحًۭى
 
@@ -10042,7 +10042,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَتَوَلَّىٰ فِرْعَوْنُ فَجَمَعَ كَيْدَهُۥ ثُمَّ أَتَىٰ
 
-**20:61**  Dywedodd Moses wrthynt, “Gwae chi. Paid â ffugio celwyddau yn erbyn Allah, neu Ef a'ch dinistria â chosb. Y mae'r hwn sy'n dyfeisio celwyddau yn methu.”
+**20:61**  Dywedodd Moses wrthynt, "Gwae chi. Paid â ffugio celwyddau yn erbyn Allah, neu Ef a'ch dinistria â chosb. Y mae'r hwn sy'n dyfeisio celwyddau yn methu."
 
 قَالَ لَهُم مُّوسَىٰ وَيْلَكُمْ لَا تَفْتَرُوا۟ عَلَى ٱللَّهِ كَذِبًۭا فَيُسْحِتَكُم بِعَذَابٍۢ ۖ وَقَدْ خَابَ مَنِ ٱفْتَرَىٰ
 
@@ -10050,19 +10050,19 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَتَنَٰزَعُوٓا۟ أَمْرَهُم بَيْنَهُمْ وَأَسَرُّوا۟ ٱلنَّجْوَىٰ
 
-**20:63**  Dywedasant nhw, “Y ddau hyn yw swynwyr sydd eisiau eich gyrru allan o'ch tir â'u hud, ac i ddiddymu eich ffordd o fyw esiampl.
+**20:63**  Dywedasant nhw, "Y ddau hyn yw swynwyr sydd eisiau eich gyrru allan o'ch tir â'u hud, ac i ddiddymu eich ffordd o fyw esiampl.
 
 قَالُوٓا۟ إِنْ هَٰذَٰنِ لَسَٰحِرَٰنِ يُرِيدَانِ أَن يُخْرِجَاكُم مِّنْ أَرْضِكُم بِسِحْرِهِمَا وَيَذْهَبَا بِطَرِيقَتِكُمُ ٱلْمُثْلَىٰ
 
-**20:64**  Felly setlwch eich cynllun, a dewch fel un ffrynt. Heddiw, pwy bynnag a enilla'r llaw uchaf a lwydda.”
+**20:64**  Felly setlwch eich cynllun, a dewch fel un ffrynt. Heddiw, pwy bynnag a enilla'r llaw uchaf a lwydda."
 
 فَأَجْمِعُوا۟ كَيْدَكُمْ ثُمَّ ٱئْتُوا۟ صَفًّۭا ۚ وَقَدْ أَفْلَحَ ٱلْيَوْمَ مَنِ ٱسْتَعْلَىٰ
 
-**20:65**  Dywedasant nhw, “O Moses, naill ai tafla di, neu byddwn ni y cyntaf i daflu.”
+**20:65**  Dywedasant nhw, "O Moses, naill ai tafla di, neu byddwn ni y cyntaf i daflu."
 
 قَالُوا۟ يَٰمُوسَىٰٓ إِمَّآ أَن تُلْقِىَ وَإِمَّآ أَن نَّكُونَ أَوَّلَ مَنْ أَلْقَىٰ
 
-**20:66**  Dywedodd ef, “Taflwch chi.” Ac yn sydyn, ymddangosodd eu rhaffau a'u ffyn iddo, oherwydd eu hud, fel pe baent yn cropian yn gyflym.
+**20:66**  Dywedodd ef, "Taflwch chi." Ac yn sydyn, ymddangosodd eu rhaffau a'u ffyn iddo, oherwydd eu hud, fel pe baent yn cropian yn gyflym.
 
 قَالَ بَلْ أَلْقُوا۟ ۖ فَإِذَا حِبَالُهُمْ وَعِصِيُّهُمْ يُخَيَّلُ إِلَيْهِ مِن سِحْرِهِمْ أَنَّهَا تَسْعَىٰ
 
@@ -10070,27 +10070,27 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَأَوْجَسَ فِى نَفْسِهِۦ خِيفَةًۭ مُّوسَىٰ
 
-**20:68**  Dywedasom Ni, “Paid ag ofni, ti yw'r uchaf.
+**20:68**  Dywedasom Ni, "Paid ag ofni, ti yw'r uchaf.
 
 قُلْنَا لَا تَخَفْ إِنَّكَ أَنتَ ٱلْأَعْلَىٰ
 
-**20:69**  Yn awr tafla i lawr yr hyn sydd yn dy law dde — bydd yn llyncu yr hyn y maent wedi ei grefftio. Yr hyn y maent wedi ei grefftio nid yw ond twyll swynwr. Ond ni lwydda'r swynwr, beth bynnag a wna.”
+**20:69**  Yn awr tafla i lawr yr hyn sydd yn dy law dde — bydd yn llyncu yr hyn y maent wedi ei grefftio. Yr hyn y maent wedi ei grefftio nid yw ond twyll swynwr. Ond ni lwydda'r swynwr, beth bynnag a wna."
 
 وَأَلْقِ مَا فِى يَمِينِكَ تَلْقَفْ مَا صَنَعُوٓا۟ ۖ إِنَّمَا صَنَعُوا۟ كَيْدُ سَٰحِرٍۢ ۖ وَلَا يُفْلِحُ ٱلسَّاحِرُ حَيْثُ أَتَىٰ
 
-**20:70**  A syrthiodd y swynwyr i lawr gan ymgrymu. Dywedasant nhw, “Yr ydym wedi credu yn Arglwydd Aaron a Moses.”
+**20:70**  A syrthiodd y swynwyr i lawr gan ymgrymu. Dywedasant nhw, "Yr ydym wedi credu yn Arglwydd Aaron a Moses."
 
 فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَٰرُونَ وَمُوسَىٰ
 
-**20:71**  Dywedodd ef, “A gredasoch ynddo cyn i mi roi caniatâd i chi? Rhaid ei fod yn eich pennaeth, sydd wedi eich dysgu hud. Torraf eich dwylo a'ch traed ar ochrau bob yn ail, a'ch croeshoelio ar foncyffion y palmwydd. Yna cewch wybod pa un ohonom sydd fwyaf llym o ran cosb, ac yn fwy parhaol.”
+**20:71**  Dywedodd ef, "A gredasoch ynddo cyn i mi roi caniatâd i chi? Rhaid ei fod yn eich pennaeth, sydd wedi eich dysgu hud. Torraf eich dwylo a'ch traed ar ochrau bob yn ail, a'ch croeshoelio ar foncyffion y palmwydd. Yna cewch wybod pa un ohonom sydd fwyaf llym o ran cosb, ac yn fwy parhaol."
 
 قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ ۖ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ ۖ فَلَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍۢ وَلَأُصَلِّبَنَّكُمْ فِى جُذُوعِ ٱلنَّخْلِ وَلَتَعْلَمُنَّ أَيُّنَآ أَشَدُّ عَذَابًۭا وَأَبْقَىٰ
 
-**20:72**  Dywedasant nhw, “Ni ffafriwn di uwchlaw'r profion sydd wedi dod atom, a'r Hwn a'n creodd. Felly cyhoedda pa farn bynnag yr wyt yn dymuno ei chyhoeddi. Dim ond yn y bywyd isel hwn y galli di deyrnasu.
+**20:72**  Dywedasant nhw, "Ni ffafriwn di uwchlaw'r profion sydd wedi dod atom, a'r Hwn a'n creodd. Felly cyhoedda pa farn bynnag yr wyt yn dymuno ei chyhoeddi. Dim ond yn y bywyd isel hwn y galli di deyrnasu.
 
 قَالُوا۟ لَن نُّؤْثِرَكَ عَلَىٰ مَا جَآءَنَا مِنَ ٱلْبَيِّنَٰتِ وَٱلَّذِى فَطَرَنَا ۖ فَٱقْضِ مَآ أَنتَ قَاضٍ ۖ إِنَّمَا تَقْضِى هَٰذِهِ ٱلْحَيَوٰةَ ٱلدُّنْيَآ
 
-**20:73**  Yr ydym wedi credu yn ein Harglwydd, er mwyn iddo Ef faddau i ni ein pechodau, a'r hud y'th orfodaist ni i'w ymarfer. Gwell yw Allah, ac yn fwy Parhaol.”
+**20:73**  Yr ydym wedi credu yn ein Harglwydd, er mwyn iddo Ef faddau i ni ein pechodau, a'r hud y'th orfodaist ni i'w ymarfer. Gwell yw Allah, ac yn fwy Parhaol."
 
 إِنَّآ ءَامَنَّا بِرَبِّنَا لِيَغْفِرَ لَنَا خَطَٰيَٰنَا وَمَآ أَكْرَهْتَنَا عَلَيْهِ مِنَ ٱلسِّحْرِ ۗ وَٱللَّهُ خَيْرٌۭ وَأَبْقَىٰٓ
 
@@ -10106,7 +10106,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 جَنَّٰتُ عَدْنٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا ۚ وَذَٰلِكَ جَزَآءُ مَن تَزَكَّىٰ
 
-**20:77**  Ac ysbrydolasom Ni Moses: “Teithia liw nos gyda'm gweision, a thrawa iddynt lwybr sych ar draws y môr, heb ofni cael dy oddiweddyd, na phoeni.”
+**20:77**  Ac ysbrydolasom Ni Moses: "Teithia liw nos gyda'm gweision, a thrawa iddynt lwybr sych ar draws y môr, heb ofni cael dy oddiweddyd, na phoeni."
 
 وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَٰفُ دَرَكًۭا وَلَا تَخْشَىٰ
 
@@ -10130,27 +10130,27 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَإِنِّى لَغَفَّارٌۭ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحًۭا ثُمَّ ٱهْتَدَىٰ
 
-**20:83**  “A beth a wnaeth i ti ruthro o flaen dy bobl, O Moses?”
+**20:83**  "A beth a wnaeth i ti ruthro o flaen dy bobl, O Moses?"
 
 ۞ وَمَآ أَعْجَلَكَ عَن قَوْمِكَ يَٰمُوسَىٰ
 
-**20:84**  Dywedodd ef, “Y maent yn dilyn yn fy nghamau i; a brysiais atat Ti, fy Arglwydd, er mwyn i ti fod yn fodlon.”
+**20:84**  Dywedodd ef, "Y maent yn dilyn yn fy nghamau i; a brysiais atat Ti, fy Arglwydd, er mwyn i ti fod yn fodlon."
 
 قَالَ هُمْ أُو۟لَآءِ عَلَىٰٓ أَثَرِى وَعَجِلْتُ إِلَيْكَ رَبِّ لِتَرْضَىٰ
 
-**20:85**  Dywedodd Ef, “Yr ydym Ni wedi profi dy bobl yn dy absenoldeb, a chamarweiniodd y Samariad nhw.”
+**20:85**  Dywedodd Ef, "Yr ydym Ni wedi profi dy bobl yn dy absenoldeb, a chamarweiniodd y Samariad nhw."
 
 قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ
 
-**20:86**  Felly dychwelodd Moses at ei bobl, yn ddig ac yn siomedig. Dywedodd, “O fy mhobl, oni addawodd eich Arglwydd i chi addewid da? A oedd yr amser yn rhy hir i chi? Neu a oeddech eisiau i ddigofaint oddi wrth eich Arglwydd ddisgyn arnoch, fel y torrasoch eich addewid i mi?”
+**20:86**  Felly dychwelodd Moses at ei bobl, yn ddig ac yn siomedig. Dywedodd, "O fy mhobl, oni addawodd eich Arglwydd i chi addewid da? A oedd yr amser yn rhy hir i chi? Neu a oeddech eisiau i ddigofaint oddi wrth eich Arglwydd ddisgyn arnoch, fel y torrasoch eich addewid i mi?"
 
 فَرَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًۭا ۚ قَالَ يَٰقَوْمِ أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْدًا حَسَنًا ۚ أَفَطَالَ عَلَيْكُمُ ٱلْعَهْدُ أَمْ أَرَدتُّمْ أَن يَحِلَّ عَلَيْكُمْ غَضَبٌۭ مِّن رَّبِّكُمْ فَأَخْلَفْتُم مَّوْعِدِى
 
-**20:87**  Dywedasant nhw, “Ni thorrasom ein haddewid i ti o'n dewis, ond gwnaethpwyd i ni gario llwythi o addurniadau'r bobl, a thaflasom nhw i mewn. Dyna'r hyn yr awgrymodd y Samariad.”
+**20:87**  Dywedasant nhw, "Ni thorrasom ein haddewid i ti o'n dewis, ond gwnaethpwyd i ni gario llwythi o addurniadau'r bobl, a thaflasom nhw i mewn. Dyna'r hyn yr awgrymodd y Samariad."
 
 قَالُوا۟ مَآ أَخْلَفْنَا مَوْعِدَكَ بِمَلْكِنَا وَلَٰكِنَّا حُمِّلْنَآ أَوْزَارًۭا مِّن زِينَةِ ٱلْقَوْمِ فَقَذَفْنَٰهَا فَكَذَٰلِكَ أَلْقَى ٱلسَّامِرِىُّ
 
-**20:88**  Felly cynhyrchodd iddynt lo — corff yn unig a frefai. A dywedasant nhw, “Dyma dy dduw di, a duw Moses, ond y mae wedi anghofio.”
+**20:88**  Felly cynhyrchodd iddynt lo — corff yn unig a frefai. A dywedasant nhw, "Dyma dy dduw di, a duw Moses, ond y mae wedi anghofio."
 
 فَأَخْرَجَ لَهُمْ عِجْلًۭا جَسَدًۭا لَّهُۥ خُوَارٌۭ فَقَالُوا۟ هَٰذَآ إِلَٰهُكُمْ وَإِلَٰهُ مُوسَىٰ فَنَسِىَ
 
@@ -10158,35 +10158,35 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًۭا وَلَا يَمْلِكُ لَهُمْ ضَرًّۭا وَلَا نَفْعًۭا
 
-**20:90**  Yr oedd Aaron wedi dweud wrthynt o'r blaen, “O fy mhobl, yr ydych yn cael eich profi gan hyn. A'ch Arglwydd yw'r Trugarog, felly dilynwch fi, ac ufuddhewch i'm gorchymyn.”
+**20:90**  Yr oedd Aaron wedi dweud wrthynt o'r blaen, "O fy mhobl, yr ydych yn cael eich profi gan hyn. A'ch Arglwydd yw'r Trugarog, felly dilynwch fi, ac ufuddhewch i'm gorchymyn."
 
 وَلَقَدْ قَالَ لَهُمْ هَٰرُونُ مِن قَبْلُ يَٰقَوْمِ إِنَّمَا فُتِنتُم بِهِۦ ۖ وَإِنَّ رَبَّكُمُ ٱلرَّحْمَٰنُ فَٱتَّبِعُونِى وَأَطِيعُوٓا۟ أَمْرِى
 
-**20:91**  Dywedasant nhw, “Ni roddwn ein hymroddiad iddo i fyny, hyd oni ddychwel Moses atom.”
+**20:91**  Dywedasant nhw, "Ni roddwn ein hymroddiad iddo i fyny, hyd oni ddychwel Moses atom."
 
 قَالُوا۟ لَن نَّبْرَحَ عَلَيْهِ عَٰكِفِينَ حَتَّىٰ يَرْجِعَ إِلَيْنَا مُوسَىٰ
 
-**20:92**  Dywedodd ef, “O Aaron, beth a'th rwystrodd, pan welaist nhw yn mynd ar gyfeiliorni.
+**20:92**  Dywedodd ef, "O Aaron, beth a'th rwystrodd, pan welaist nhw yn mynd ar gyfeiliorni.
 
 قَالَ يَٰهَٰرُونُ مَا مَنَعَكَ إِذْ رَأَيْتَهُمْ ضَلُّوٓا۟
 
-**20:93**  Rhag fy nilyn i? A anufuddaist ti fy ngorchymyn?”
+**20:93**  Rhag fy nilyn i? A anufuddaist ti fy ngorchymyn?"
 
 أَلَّا تَتَّبِعَنِ ۖ أَفَعَصَيْتَ أَمْرِى
 
-**20:94**  Dywedodd ef, “Fab fy mam, paid â'm cydio wrth fy marf na'm pen. Ofnwn y dywedet, 'Rwyt ti wedi achosi rhaniad ymhlith Plant Israel, ac ni ystyriaist fy ngair i.'”
+**20:94**  Dywedodd ef, "Fab fy mam, paid â'm cydio wrth fy marf na'm pen. Ofnwn y dywedet, 'Rwyt ti wedi achosi rhaniad ymhlith Plant Israel, ac ni ystyriaist fy ngair i.'"
 
 قَالَ يَبْنَؤُمَّ لَا تَأْخُذْ بِلِحْيَتِى وَلَا بِرَأْسِىٓ ۖ إِنِّى خَشِيتُ أَن تَقُولَ فَرَّقْتَ بَيْنَ بَنِىٓ إِسْرَٰٓءِيلَ وَلَمْ تَرْقُبْ قَوْلِى
 
-**20:95**  Dywedodd ef, “Beth sydd gennyt i'w ddweud, O Samariad?”
+**20:95**  Dywedodd ef, "Beth sydd gennyt i'w ddweud, O Samariad?"
 
 قَالَ فَمَا خَطْبُكَ يَٰسَٰمِرِىُّ
 
-**20:96**  Dywedodd ef, “Gwelais yr hyn na welsant nhw, felly cydiais ddyrnaid o olion y Cenhadwr, a thaflais ef ymaith. Felly y cymhellodd fy enaid fi.”
+**20:96**  Dywedodd ef, "Gwelais yr hyn na welsant nhw, felly cydiais ddyrnaid o olion y Cenhadwr, a thaflais ef ymaith. Felly y cymhellodd fy enaid fi."
 
 قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُوا۟ بِهِۦ فَقَبَضْتُ قَبْضَةًۭ مِّنْ أَثَرِ ٱلرَّسُولِ فَنَبَذْتُهَا وَكَذَٰلِكَ سَوَّلَتْ لِى نَفْسِى
 
-**20:97**  Dywedodd ef, “Dos ymaith! Dy ran yn y bywyd hwn yw dweud, 'Dim cyswllt.' Ac y mae gennyt apwyntiad na cholli di. Yn awr edrych ar dy dduw yr arhosait yn ymroddedig iddo — llosgwn Ni ef i fyny, ac yna ei chwythu ymaith i'r môr, fel powdr.”
+**20:97**  Dywedodd ef, "Dos ymaith! Dy ran yn y bywyd hwn yw dweud, 'Dim cyswllt.' Ac y mae gennyt apwyntiad na cholli di. Yn awr edrych ar dy dduw yr arhosait yn ymroddedig iddo — llosgwn Ni ef i fyny, ac yna ei chwythu ymaith i'r môr, fel powdr."
 
 قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا
 
@@ -10210,15 +10210,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 يَوْمَ يُنفَخُ فِى ٱلصُّورِ ۚ وَنَحْشُرُ ٱلْمُجْرِمِينَ يَوْمَئِذٍۢ زُرْقًۭا
 
-**20:103**  Yn sibrwd yn eu plith eu hunain: “Arosasoch ond am ddeg.”
+**20:103**  Yn sibrwd yn eu plith eu hunain: "Arosasoch ond am ddeg."
 
 يَتَخَٰفَتُونَ بَيْنَهُمْ إِن لَّبِثْتُمْ إِلَّا عَشْرًۭا
 
-**20:104**  Yr ydym Ni yn gwbl ymwybodol o'r hyn y maent yn ei ddweud, pan ddywed y mwyaf esiampl ohonynt o ran ymddygiad, “Arosasoch ond am ddiwrnod.”
+**20:104**  Yr ydym Ni yn gwbl ymwybodol o'r hyn y maent yn ei ddweud, pan ddywed y mwyaf esiampl ohonynt o ran ymddygiad, "Arosasoch ond am ddiwrnod."
 
 نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ إِذْ يَقُولُ أَمْثَلُهُمْ طَرِيقَةً إِن لَّبِثْتُمْ إِلَّا يَوْمًۭا
 
-**20:105**  A gofynnant nhw i ti am y mynyddoedd. Dywed, “Fy Arglwydd a'u maluria nhw yn llwyr.”
+**20:105**  A gofynnant nhw i ti am y mynyddoedd. Dywed, "Fy Arglwydd a'u maluria nhw yn llwyr."
 
 وَيَسْـَٔلُونَكَ عَنِ ٱلْجِبَالِ فَقُلْ يَنسِفُهَا رَبِّى نَسْفًۭا
 
@@ -10254,7 +10254,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَكَذَٰلِكَ أَنزَلْنَٰهُ قُرْءَانًا عَرَبِيًّۭا وَصَرَّفْنَا فِيهِ مِنَ ٱلْوَعِيدِ لَعَلَّهُمْ يَتَّقُونَ أَوْ يُحْدِثُ لَهُمْ ذِكْرًۭا
 
-**20:114**  Dyrchafedig yw Allah, y Brenin Gwir. Paid â bod yn frysiog gyda'r Qur'an cyn i'w ysbrydoliaeth i ti gael ei chwblhau, a dywed, “Fy Arglwydd, cynydda fi mewn gwybodaeth.”
+**20:114**  Dyrchafedig yw Allah, y Brenin Gwir. Paid â bod yn frysiog gyda'r Qur'an cyn i'w ysbrydoliaeth i ti gael ei chwblhau, a dywed, "Fy Arglwydd, cynydda fi mewn gwybodaeth."
 
 فَتَعَٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۗ وَلَا تَعْجَلْ بِٱلْقُرْءَانِ مِن قَبْلِ أَن يُقْضَىٰٓ إِلَيْكَ وَحْيُهُۥ ۖ وَقُل رَّبِّ زِدْنِى عِلْمًۭا
 
@@ -10262,11 +10262,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَلَقَدْ عَهِدْنَآ إِلَىٰٓ ءَادَمَ مِن قَبْلُ فَنَسِىَ وَلَمْ نَجِدْ لَهُۥ عَزْمًۭا
 
-**20:116**  A phan ddywedasom Ni wrth yr angylion, “Ymgrymwch i Adda.” Ymgrymasant, ac eithrio Satan; gwrthododd.
+**20:116**  A phan ddywedasom Ni wrth yr angylion, "Ymgrymwch i Adda." Ymgrymasant, ac eithrio Satan; gwrthododd.
 
 وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ
 
-**20:117**  Dywedasom Ni, “O Adda, gelyn i ti ac i'th wraig yw hwn. Felly na adawed iddo dy wneud i adael yr Ardd, oherwydd yna dioddefi.
+**20:117**  Dywedasom Ni, "O Adda, gelyn i ti ac i'th wraig yw hwn. Felly na adawed iddo dy wneud i adael yr Ardd, oherwydd yna dioddefi.
 
 فَقُلْنَا يَٰٓـَٔادَمُ إِنَّ هَٰذَا عَدُوٌّۭ لَّكَ وَلِزَوْجِكَ فَلَا يُخْرِجَنَّكُمَا مِنَ ٱلْجَنَّةِ فَتَشْقَىٰٓ
 
@@ -10274,11 +10274,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعْرَىٰ
 
-**20:119**  Ac ni byddi di'n sychedig ynddi, ac ni losgi di gan wres.”
+**20:119**  Ac ni byddi di'n sychedig ynddi, ac ni losgi di gan wres."
 
 وَأَنَّكَ لَا تَظْمَؤُا۟ فِيهَا وَلَا تَضْحَىٰ
 
-**20:120**  Ond sibrwdodd Satan iddo. Dywedodd, “O Adda, a ddangosaf i ti Goeden Anfarwoldeb, a theyrnas na bydd yn pydru?”
+**20:120**  Ond sibrwdodd Satan iddo. Dywedodd, "O Adda, a ddangosaf i ti Goeden Anfarwoldeb, a theyrnas na bydd yn pydru?"
 
 فَوَسْوَسَ إِلَيْهِ ٱلشَّيْطَٰنُ قَالَ يَٰٓـَٔادَمُ هَلْ أَدُلُّكَ عَلَىٰ شَجَرَةِ ٱلْخُلْدِ وَمُلْكٍۢ لَّا يَبْلَىٰ
 
@@ -10290,19 +10290,19 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ثُمَّ ٱجْتَبَٰهُ رَبُّهُۥ فَتَابَ عَلَيْهِ وَهَدَىٰ
 
-**20:123**  Dywedodd Ef, “Disgynnwch ohoni, ynghyd; rhai ohonoch yn elynion i rai eraill. Ond pryd bynnag y daw arweiniad i chi oddi wrthyf Fi, pwy bynnag a ddilyn fy arweiniad i, ni fydd yn mynd ar gyfeiliorni, ac ni ddioddefa.
+**20:123**  Dywedodd Ef, "Disgynnwch ohoni, ynghyd; rhai ohonoch yn elynion i rai eraill. Ond pryd bynnag y daw arweiniad i chi oddi wrthyf Fi, pwy bynnag a ddilyn fy arweiniad i, ni fydd yn mynd ar gyfeiliorni, ac ni ddioddefa.
 
 قَالَ ٱهْبِطَا مِنْهَا جَمِيعًۢا ۖ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّۭ ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًۭى فَمَنِ ٱتَّبَعَ هُدَاىَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ
 
-**20:124**  Ond pwy bynnag a drodd oddi wrth fy Atgof i, iddo ef y mae bywyd cyfyng. A chodwn Ni ef ar Ddydd yr Atgyfodiad yn ddall.”
+**20:124**  Ond pwy bynnag a drodd oddi wrth fy Atgof i, iddo ef y mae bywyd cyfyng. A chodwn Ni ef ar Ddydd yr Atgyfodiad yn ddall."
 
 وَمَنْ أَعْرَضَ عَن ذِكْرِى فَإِنَّ لَهُۥ مَعِيشَةًۭ ضَنكًۭا وَنَحْشُرُهُۥ يَوْمَ ٱلْقِيَٰمَةِ أَعْمَىٰ
 
-**20:125**  Dywed ef, “Fy Arglwydd, pam y'm codaist yn ddall, er fy mod yn gweld?”
+**20:125**  Dywed ef, "Fy Arglwydd, pam y'm codaist yn ddall, er fy mod yn gweld?"
 
 قَالَ رَبِّ لِمَ حَشَرْتَنِىٓ أَعْمَىٰ وَقَدْ كُنتُ بَصِيرًۭا
 
-**20:126**  Dywed Ef, “Yn union fel y daeth ein datguddiadau Ni atat, ac yr anghofiaist nhw, heddiw fe'th anghofir.”
+**20:126**  Dywed Ef, "Yn union fel y daeth ein datguddiadau Ni atat, ac yr anghofiaist nhw, heddiw fe'th anghofir."
 
 قَالَ كَذَٰلِكَ أَتَتْكَ ءَايَٰتُنَا فَنَسِيتَهَا ۖ وَكَذَٰلِكَ ٱلْيَوْمَ تُنسَىٰ
 
@@ -10330,15 +10330,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَأْمُرْ أَهْلَكَ بِٱلصَّلَوٰةِ وَٱصْطَبِرْ عَلَيْهَا ۖ لَا نَسْـَٔلُكَ رِزْقًۭا ۖ نَّحْنُ نَرْزُقُكَ ۗ وَٱلْعَٰقِبَةُ لِلتَّقْوَىٰ
 
-**20:133**  A dywedant nhw, “Pam nad yw'n dwyn i ni wyrth oddi wrth ei Arglwydd?” Oni roddwyd iddynt ddigon o wyrthiau yn yr ysgrythurau cynharach?
+**20:133**  A dywedant nhw, "Pam nad yw'n dwyn i ni wyrth oddi wrth ei Arglwydd?" Oni roddwyd iddynt ddigon o wyrthiau yn yr ysgrythurau cynharach?
 
 وَقَالُوا۟ لَوْلَا يَأْتِينَا بِـَٔايَةٍۢ مِّن رَّبِّهِۦٓ ۚ أَوَلَمْ تَأْتِهِم بَيِّنَةُ مَا فِى ٱلصُّحُفِ ٱلْأُولَىٰ
 
-**20:134**  Pe baem Ni wedi eu dinistrio â chosb o'i flaen, buasent wedi dweud, “Ein Harglwydd, pe baet ti wedi anfon cenhadwr atom, buasem wedi dilyn dy ddatguddiadau cyn i ni gael ein bychanu a'n gwaradwyddo.”
+**20:134**  Pe baem Ni wedi eu dinistrio â chosb o'i flaen, buasent wedi dweud, "Ein Harglwydd, pe baet ti wedi anfon cenhadwr atom, buasem wedi dilyn dy ddatguddiadau cyn i ni gael ein bychanu a'n gwaradwyddo."
 
 وَلَوْ أَنَّآ أَهْلَكْنَٰهُم بِعَذَابٍۢ مِّن قَبْلِهِۦ لَقَالُوا۟ رَبَّنَا لَوْلَآ أَرْسَلْتَ إِلَيْنَا رَسُولًۭا فَنَتَّبِعَ ءَايَٰتِكَ مِن قَبْلِ أَن نَّذِلَّ وَنَخْزَىٰ
 
-**20:135**  Dywed, “Y mae pawb yn aros, felly arhoswch. Cewch wybod pwy yw pobl y llwybr union, a phwy sydd wedi ei dywys yn iawn.”
+**20:135**  Dywed, "Y mae pawb yn aros, felly arhoswch. Cewch wybod pwy yw pobl y llwybr union, a phwy sydd wedi ei dywys yn iawn."
 
 قُلْ كُلٌّۭ مُّتَرَبِّصٌۭ فَتَرَبَّصُوا۟ ۖ فَسَتَعْلَمُونَ مَنْ أَصْحَٰبُ ٱلصِّرَٰطِ ٱلسَّوِىِّ وَمَنِ ٱهْتَدَىٰ
 
@@ -10363,15 +10363,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 مَا يَأْتِيهِم مِّن ذِكْرٍۢ مِّن رَّبِّهِم مُّحْدَثٍ إِلَّا ٱسْتَمَعُوهُ وَهُمْ يَلْعَبُونَ
 
-**21:3**  Eu calonnau wedi eu tynnu sylw, y troseddwyr yn ymgynghori yn ddirgel, “Onid yw hwn ddim ond marwol fel chi? A gymerwch i swyngyfaredd, â llygaid agored?”
+**21:3**  Eu calonnau wedi eu tynnu sylw, y troseddwyr yn ymgynghori yn ddirgel, "Onid yw hwn ddim ond marwol fel chi? A gymerwch i swyngyfaredd, â llygaid agored?"
 
 لَاهِيَةًۭ قُلُوبُهُمْ ۗ وَأَسَرُّوا۟ ٱلنَّجْوَى ٱلَّذِينَ ظَلَمُوا۟ هَلْ هَٰذَآ إِلَّا بَشَرٌۭ مِّثْلُكُمْ ۖ أَفَتَأْتُونَ ٱلسِّحْرَ وَأَنتُمْ تُبْصِرُونَ
 
-**21:4**  Dywedodd ef, “Fy Arglwydd a ŵyr yr hyn a ddywedir yn y nef a'r ddaear; ac Ef yw'r Gwrandawr, y Gwybyddwr.”
+**21:4**  Dywedodd ef, "Fy Arglwydd a ŵyr yr hyn a ddywedir yn y nef a'r ddaear; ac Ef yw'r Gwrandawr, y Gwybyddwr."
 
 قَالَ رَبِّى يَعْلَمُ ٱلْقَوْلَ فِى ٱلسَّمَآءِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
-**21:5**  A dywedasant nhw, “Cymysgedd o freuddwydion,” ac, “Fe'i dyfeisiodd,” ac, “Bardd yw ef,” “gadewch iddo ddwyn i ni arwydd, fel y rhai a anfonwyd i'r hen bobl.”
+**21:5**  A dywedasant nhw, "Cymysgedd o freuddwydion," ac, "Fe'i dyfeisiodd," ac, "Bardd yw ef," "gadewch iddo ddwyn i ni arwydd, fel y rhai a anfonwyd i'r hen bobl."
 
 بَلْ قَالُوٓا۟ أَضْغَٰثُ أَحْلَٰمٍۭ بَلِ ٱفْتَرَىٰهُ بَلْ هُوَ شَاعِرٌۭ فَلْيَأْتِنَا بِـَٔايَةٍۢ كَمَآ أُرْسِلَ ٱلْأَوَّلُونَ
 
@@ -10407,7 +10407,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 لَا تَرْكُضُوا۟ وَٱرْجِعُوٓا۟ إِلَىٰ مَآ أُتْرِفْتُمْ فِيهِ وَمَسَٰكِنِكُمْ لَعَلَّكُمْ تُسْـَٔلُونَ
 
-**21:14**  Dywedasant nhw, “Gwae ni; anghyfiawn oeddem.”
+**21:14**  Dywedasant nhw, "Gwae ni; anghyfiawn oeddem."
 
 قَالُوا۟ يَٰوَيْلَنَآ إِنَّا كُنَّا ظَٰلِمِينَ
 
@@ -10447,15 +10447,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ
 
-**21:24**  Neu a ydynt wedi cymryd, ar wahân iddo Ef, dduwiau eraill? Dywed, “Dewch â'ch prawf. Neges yw hon i'r rhai gyda mi, a neges y rhai o'm blaen i.” Ond nid yw'r rhan fwyaf ohonynt yn gwybod y gwirionedd, felly troant ymaith.
+**21:24**  Neu a ydynt wedi cymryd, ar wahân iddo Ef, dduwiau eraill? Dywed, "Dewch â'ch prawf. Neges yw hon i'r rhai gyda mi, a neges y rhai o'm blaen i." Ond nid yw'r rhan fwyaf ohonynt yn gwybod y gwirionedd, felly troant ymaith.
 
 أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةًۭ ۖ قُلْ هَاتُوا۟ بُرْهَٰنَكُمْ ۖ هَٰذَا ذِكْرُ مَن مَّعِىَ وَذِكْرُ مَن قَبْلِى ۗ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ ٱلْحَقَّ ۖ فَهُم مُّعْرِضُونَ
 
-**21:25**  Ni anfonasom Ni genhadwr o'th flaen di erioed heb ei ysbrydoli fel hyn: “Nid oes duw ond Myfi, felly addolwch Fi.”
+**21:25**  Ni anfonasom Ni genhadwr o'th flaen di erioed heb ei ysbrydoli fel hyn: "Nid oes duw ond Myfi, felly addolwch Fi."
 
 وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِىٓ إِلَيْهِ أَنَّهُۥ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعْبُدُونِ
 
-**21:26**  A dywedant nhw, “Y mae'r Daionus wedi cymryd iddo ei hun fab.” Gogoneddedig fyddo Ef; nid ydynt ond gweision anrhydeddus.
+**21:26**  A dywedant nhw, "Y mae'r Daionus wedi cymryd iddo ei hun fab." Gogoneddedig fyddo Ef; nid ydynt ond gweision anrhydeddus.
 
 وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًۭا ۗ سُبْحَٰنَهُۥ ۚ بَلْ عِبَادٌۭ مُّكْرَمُونَ
 
@@ -10467,7 +10467,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ٱرْتَضَىٰ وَهُم مِّنْ خَشْيَتِهِۦ مُشْفِقُونَ
 
-**21:29**  A phwy bynnag ohonynt sy'n dweud, “Duw wyf fi ar wahân iddo Ef,” talwn Ni iddo ag Uffern. Fel hyn y talwn Ni i'r troseddwyr.
+**21:29**  A phwy bynnag ohonynt sy'n dweud, "Duw wyf fi ar wahân iddo Ef," talwn Ni iddo ag Uffern. Fel hyn y talwn Ni i'r troseddwyr.
 
 ۞ وَمَن يَقُلْ مِنْهُمْ إِنِّىٓ إِلَٰهٌۭ مِّن دُونِهِۦ فَذَٰلِكَ نَجْزِيهِ جَهَنَّمَ ۚ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ
 
@@ -10495,7 +10495,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 كُلُّ نَفْسٍۢ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةًۭ ۖ وَإِلَيْنَا تُرْجَعُونَ
 
-**21:36**  Pan wêl y rhai sy'n anghredu di, nid ydynt yn dy drin ond â gwawd: “Onid hwn yw'r un sy'n crybwyll eich duwiau?” Ac y maent yn gwrthod crybwyll y Trugarog.
+**21:36**  Pan wêl y rhai sy'n anghredu di, nid ydynt yn dy drin ond â gwawd: "Onid hwn yw'r un sy'n crybwyll eich duwiau?" Ac y maent yn gwrthod crybwyll y Trugarog.
 
 وَإِذَا رَءَاكَ ٱلَّذِينَ كَفَرُوٓا۟ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِى يَذْكُرُ ءَالِهَتَكُمْ وَهُم بِذِكْرِ ٱلرَّحْمَٰنِ هُمْ كَٰفِرُونَ
 
@@ -10503,7 +10503,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 خُلِقَ ٱلْإِنسَٰنُ مِنْ عَجَلٍۢ ۚ سَأُو۟رِيكُمْ ءَايَٰتِى فَلَا تَسْتَعْجِلُونِ
 
-**21:38**  A dywedant nhw, “Pryd y daw'r addewid hwn yn wir, os ydych yn eirwir?”
+**21:38**  A dywedant nhw, "Pryd y daw'r addewid hwn yn wir, os ydych yn eirwir?"
 
 وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -10519,7 +10519,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍۢ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**21:42**  Dywed, “Pwy sy'n eich gwarchod chi rhag y Trugarog liw nos a dydd?” Ond troant nhw oddi wrth goffadwriaeth eu Harglwydd.
+**21:42**  Dywed, "Pwy sy'n eich gwarchod chi rhag y Trugarog liw nos a dydd?" Ond troant nhw oddi wrth goffadwriaeth eu Harglwydd.
 
 قُلْ مَن يَكْلَؤُكُم بِٱلَّيْلِ وَٱلنَّهَارِ مِنَ ٱلرَّحْمَٰنِ ۗ بَلْ هُمْ عَن ذِكْرِ رَبِّهِم مُّعْرِضُونَ
 
@@ -10531,11 +10531,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 بَلْ مَتَّعْنَا هَٰٓؤُلَآءِ وَءَابَآءَهُمْ حَتَّىٰ طَالَ عَلَيْهِمُ ٱلْعُمُرُ ۗ أَفَلَا يَرَوْنَ أَنَّا نَأْتِى ٱلْأَرْضَ نَنقُصُهَا مِنْ أَطْرَافِهَآ ۚ أَفَهُمُ ٱلْغَٰلِبُونَ
 
-**21:45**  Dywed, “Yr wyf yn eich rhybuddio trwy ysbrydoliaeth.” Ond ni all y byddar glywed yr alwad pan fyddant yn cael eu rhybuddio.
+**21:45**  Dywed, "Yr wyf yn eich rhybuddio trwy ysbrydoliaeth." Ond ni all y byddar glywed yr alwad pan fyddant yn cael eu rhybuddio.
 
 قُلْ إِنَّمَآ أُنذِرُكُم بِٱلْوَحْىِ ۚ وَلَا يَسْمَعُ ٱلصُّمُّ ٱلدُّعَآءَ إِذَا مَا يُنذَرُونَ
 
-**21:46**  A phan gyffwrdd anadl o gosb dy Arglwydd â nhw, dywedant nhw, “Gwae ni, drygionus yn wir oeddem.”
+**21:46**  A phan gyffwrdd anadl o gosb dy Arglwydd â nhw, dywedant nhw, "Gwae ni, drygionus yn wir oeddem."
 
 وَلَئِن مَّسَّتْهُمْ نَفْحَةٌۭ مِّنْ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَٰوَيْلَنَآ إِنَّا كُنَّا ظَٰلِمِينَ
 
@@ -10559,27 +10559,27 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ۞ وَلَقَدْ ءَاتَيْنَآ إِبْرَٰهِيمَ رُشْدَهُۥ مِن قَبْلُ وَكُنَّا بِهِۦ عَٰلِمِينَ
 
-**21:52**  Pan ddywedodd wrth ei dad a'i bobl, “Beth yw'r cerfluniau hyn yr ydych yn ymroddedig iddynt?”
+**21:52**  Pan ddywedodd wrth ei dad a'i bobl, "Beth yw'r cerfluniau hyn yr ydych yn ymroddedig iddynt?"
 
 إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِىٓ أَنتُمْ لَهَا عَٰكِفُونَ
 
-**21:53**  Dywedasant nhw, “Daethom o hyd i'n rhieni yn eu haddoli.”
+**21:53**  Dywedasant nhw, "Daethom o hyd i'n rhieni yn eu haddoli."
 
 قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ
 
-**21:54**  Dywedodd ef, “Chi a'ch rhieni sydd mewn cyfeiliorni amlwg.”
+**21:54**  Dywedodd ef, "Chi a'ch rhieni sydd mewn cyfeiliorni amlwg."
 
 قَالَ لَقَدْ كُنتُمْ أَنتُمْ وَءَابَآؤُكُمْ فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
-**21:55**  Dywedasant nhw, “A wyt ti'n dweud y gwir wrthym, neu wyt ti'n chware yn unig?”
+**21:55**  Dywedasant nhw, "A wyt ti'n dweud y gwir wrthym, neu wyt ti'n chware yn unig?"
 
 قَالُوٓا۟ أَجِئْتَنَا بِٱلْحَقِّ أَمْ أَنتَ مِنَ ٱللَّٰعِبِينَ
 
-**21:56**  Dywedodd ef, “Eich Arglwydd yw Arglwydd y nefoedd a'r ddaear, yr Un a'u creodd, ac yr wyf yn dwyn tystiolaeth i hynny.
+**21:56**  Dywedodd ef, "Eich Arglwydd yw Arglwydd y nefoedd a'r ddaear, yr Un a'u creodd, ac yr wyf yn dwyn tystiolaeth i hynny.
 
 قَالَ بَل رَّبُّكُمْ رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ٱلَّذِى فَطَرَهُنَّ وَأَنَا۠ عَلَىٰ ذَٰلِكُم مِّنَ ٱلشَّٰهِدِينَ
 
-**21:57**  “Trwy Allah, bydd gennyf gynllun ar gyfer eich cerfluniau ar ôl i chi fod wedi mynd ymaith.”
+**21:57**  "Trwy Allah, bydd gennyf gynllun ar gyfer eich cerfluniau ar ôl i chi fod wedi mynd ymaith."
 
 وَتَٱللَّهِ لَأَكِيدَنَّ أَصْنَٰمَكُم بَعْدَ أَن تُوَلُّوا۟ مُدْبِرِينَ
 
@@ -10587,47 +10587,47 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَجَعَلَهُمْ جُذَٰذًا إِلَّا كَبِيرًۭا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ
 
-**21:59**  Dywedasant nhw, “Pwy a wnaeth hyn i'n duwiau? Y mae'n sicr yn un o'r troseddwyr.”
+**21:59**  Dywedasant nhw, "Pwy a wnaeth hyn i'n duwiau? Y mae'n sicr yn un o'r troseddwyr."
 
 قَالُوا۟ مَن فَعَلَ هَٰذَا بِـَٔالِهَتِنَآ إِنَّهُۥ لَمِنَ ٱلظَّٰلِمِينَ
 
-**21:60**  Dywedasant nhw, “Clywsom fachgen yn eu crybwyll. Abraham yw ei enw.”
+**21:60**  Dywedasant nhw, "Clywsom fachgen yn eu crybwyll. Abraham yw ei enw."
 
 قَالُوا۟ سَمِعْنَا فَتًۭى يَذْكُرُهُمْ يُقَالُ لَهُۥٓ إِبْرَٰهِيمُ
 
-**21:61**  Dywedasant nhw, “Dewch ag ef gerbron llygaid y bobl, er mwyn iddynt dystio.”
+**21:61**  Dywedasant nhw, "Dewch ag ef gerbron llygaid y bobl, er mwyn iddynt dystio."
 
 قَالُوا۟ فَأْتُوا۟ بِهِۦ عَلَىٰٓ أَعْيُنِ ٱلنَّاسِ لَعَلَّهُمْ يَشْهَدُونَ
 
-**21:62**  Dywedasant nhw, “Ai ti yw'r un a wnaeth hyn i'n duwiau, O Abraham?”
+**21:62**  Dywedasant nhw, "Ai ti yw'r un a wnaeth hyn i'n duwiau, O Abraham?"
 
 قَالُوٓا۟ ءَأَنتَ فَعَلْتَ هَٰذَا بِـَٔالِهَتِنَا يَٰٓإِبْرَٰهِيمُ
 
-**21:63**  Dywedodd ef, “Ond y mwyaf hwn ohonynt a'i gwnaeth. Gofynnwch iddynt, os gallant lefaru.”
+**21:63**  Dywedodd ef, "Ond y mwyaf hwn ohonynt a'i gwnaeth. Gofynnwch iddynt, os gallant lefaru."
 
 قَالَ بَلْ فَعَلَهُۥ كَبِيرُهُمْ هَٰذَا فَسْـَٔلُوهُمْ إِن كَانُوا۟ يَنطِقُونَ
 
-**21:64**  Yna troasant at ei gilydd, a dweud, “Chi eich hunain yw'r troseddwyr.”
+**21:64**  Yna troasant at ei gilydd, a dweud, "Chi eich hunain yw'r troseddwyr."
 
 فَرَجَعُوٓا۟ إِلَىٰٓ أَنفُسِهِمْ فَقَالُوٓا۟ إِنَّكُمْ أَنتُمُ ٱلظَّٰلِمُونَ
 
-**21:65**  Ond dychwelasant at eu hen syniadau: “Gwyddoch yn sicr nad yw'r rhain yn llefaru.”
+**21:65**  Ond dychwelasant at eu hen syniadau: "Gwyddoch yn sicr nad yw'r rhain yn llefaru."
 
 ثُمَّ نُكِسُوا۟ عَلَىٰ رُءُوسِهِمْ لَقَدْ عَلِمْتَ مَا هَٰٓؤُلَآءِ يَنطِقُونَ
 
-**21:66**  Dywedodd ef, “A ydych yn addoli, yn lle Allah, yr hyn na all na'ch buddio mewn dim, na'ch niweidio?
+**21:66**  Dywedodd ef, "A ydych yn addoli, yn lle Allah, yr hyn na all na'ch buddio mewn dim, na'ch niweidio?
 
 قَالَ أَفَتَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكُمْ شَيْـًۭٔا وَلَا يَضُرُّكُمْ
 
-**21:67**  Ffi arnoch, ac ar yr hyn yr ydych yn ei addoli yn lle Allah. Oni ddeallwch?”
+**21:67**  Ffi arnoch, ac ar yr hyn yr ydych yn ei addoli yn lle Allah. Oni ddeallwch?"
 
 أُفٍّۢ لَّكُمْ وَلِمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ ۖ أَفَلَا تَعْقِلُونَ
 
-**21:68**  Dywedasant nhw, “Llosgwch ef a chefnogwch eich duwiau, os ydych yn mynd i weithredu.”
+**21:68**  Dywedasant nhw, "Llosgwch ef a chefnogwch eich duwiau, os ydych yn mynd i weithredu."
 
 قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَٰعِلِينَ
 
-**21:69**  Dywedasom Ni, “O dân, bydd yn oerni a diogelwch ar Abraham.”
+**21:69**  Dywedasom Ni, "O dân, bydd yn oerni a diogelwch ar Abraham."
 
 قُلْنَا يَٰنَارُ كُونِى بَرْدًۭا وَسَلَٰمًا عَلَىٰٓ إِبْرَٰهِيمَ
 
@@ -10683,7 +10683,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَمِنَ ٱلشَّيَٰطِينِ مَن يَغُوصُونَ لَهُۥ وَيَعْمَلُونَ عَمَلًۭا دُونَ ذَٰلِكَ ۖ وَكُنَّا لَهُمْ حَٰفِظِينَ
 
-**21:83**  A Job, pan lefodd ar ei Arglwydd: “Niwaid mawr sydd wedi fy nghyffwrdd, a thi yw'r Trugarogaf o'r trugarogion.”
+**21:83**  A Job, pan lefodd ar ei Arglwydd: "Niwaid mawr sydd wedi fy nghyffwrdd, a thi yw'r Trugarogaf o'r trugarogion."
 
 ۞ وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلضُّرُّ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ
 
@@ -10699,7 +10699,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَأَدْخَلْنَٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّٰلِحِينَ
 
-**21:87**  A Jona, pan ruthrodd allan mewn cynddaredd, gan feddwl nad oedd gan Ni bŵer arno. Ond yna llefodd Ef yn y tywyllwch, “Nid oes duw ond Ti! Gogoniant i Ti! Yr oeddwn yn un o'r troseddwyr!”
+**21:87**  A Jona, pan ruthrodd allan mewn cynddaredd, gan feddwl nad oedd gan Ni bŵer arno. Ond yna llefodd Ef yn y tywyllwch, "Nid oes duw ond Ti! Gogoniant i Ti! Yr oeddwn yn un o'r troseddwyr!"
 
 وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًۭا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ
 
@@ -10707,7 +10707,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَٱسْتَجَبْنَا لَهُۥ وَنَجَّيْنَٰهُ مِنَ ٱلْغَمِّ ۚ وَكَذَٰلِكَ نُۨجِى ٱلْمُؤْمِنِينَ
 
-**21:89**  A Sechareia, pan alwodd ar ei Arglwydd, “Fy Arglwydd, paid â'm gadael ar fy mhen fy hun, er dy fod ti yn Orau'r etifeddion.”
+**21:89**  A Sechareia, pan alwodd ar ei Arglwydd, "Fy Arglwydd, paid â'm gadael ar fy mhen fy hun, er dy fod ti yn Orau'r etifeddion."
 
 وَزَكَرِيَّآ إِذْ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرْنِى فَرْدًۭا وَأَنتَ خَيْرُ ٱلْوَٰرِثِينَ
 
@@ -10739,7 +10739,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 حَتَّىٰٓ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُم مِّن كُلِّ حَدَبٍۢ يَنسِلُونَ
 
-**21:97**  Agosáu y mae addewid y gwirionedd. Syllu'n arswydus y mae llygaid y rhai a anghredodd: “Gwae ni. Yr oeddem yn ddiofal o hyn. Yn wir, troseddwyr oeddem.”
+**21:97**  Agosáu y mae addewid y gwirionedd. Syllu'n arswydus y mae llygaid y rhai a anghredodd: "Gwae ni. Yr oeddem yn ddiofal o hyn. Yn wir, troseddwyr oeddem."
 
 وَٱقْتَرَبَ ٱلْوَعْدُ ٱلْحَقُّ فَإِذَا هِىَ شَٰخِصَةٌ أَبْصَٰرُ ٱلَّذِينَ كَفَرُوا۟ يَٰوَيْلَنَا قَدْ كُنَّا فِى غَفْلَةٍۢ مِّنْ هَٰذَا بَلْ كُنَّا ظَٰلِمِينَ
 
@@ -10763,7 +10763,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 لَا يَسْمَعُونَ حَسِيسَهَا ۖ وَهُمْ فِى مَا ٱشْتَهَتْ أَنفُسُهُمْ خَٰلِدُونَ
 
-**21:103**  Ni phoena'r Ofn Goruchaf nhw, a derbyn yr angylion nhw: “Dyma'ch Dydd yr addawyd i chi.”
+**21:103**  Ni phoena'r Ofn Goruchaf nhw, a derbyn yr angylion nhw: "Dyma'ch Dydd yr addawyd i chi."
 
 لَا يَحْزُنُهُمُ ٱلْفَزَعُ ٱلْأَكْبَرُ وَتَتَلَقَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ هَٰذَا يَوْمُكُمُ ٱلَّذِى كُنتُمْ تُوعَدُونَ
 
@@ -10783,11 +10783,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةًۭ لِّلْعَٰلَمِينَ
 
-**21:108**  Dywed, “Datguddiwyd i mi fod eich Duw yn Un Duw. A ydych yn mynd i ymostwng?”
+**21:108**  Dywed, "Datguddiwyd i mi fod eich Duw yn Un Duw. A ydych yn mynd i ymostwng?"
 
 قُلْ إِنَّمَا يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَٰهُكُمْ إِلَٰهٌۭ وَٰحِدٌۭ ۖ فَهَلْ أَنتُم مُّسْلِمُونَ
 
-**21:109**  Ond os troant nhw ymaith, dywed, “Yr wyf wedi eich hysbysu yn ddigonol. Er nad wyf yn gwybod a yw'r hyn a addawir i chi yn agos neu'n bell.”
+**21:109**  Ond os troant nhw ymaith, dywed, "Yr wyf wedi eich hysbysu yn ddigonol. Er nad wyf yn gwybod a yw'r hyn a addawir i chi yn agos neu'n bell."
 
 فَإِن تَوَلَّوْا۟ فَقُلْ ءَاذَنتُكُمْ عَلَىٰ سَوَآءٍۢ ۖ وَإِنْ أَدْرِىٓ أَقَرِيبٌ أَم بَعِيدٌۭ مَّا تُوعَدُونَ
 
@@ -10795,11 +10795,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ مِنَ ٱلْقَوْلِ وَيَعْلَمُ مَا تَكْتُمُونَ
 
-**21:111**  “Ac nid wyf yn gwybod a yw efallai yn brawf i chi, ac yn fwynhad am ychydig.”
+**21:111**  "Ac nid wyf yn gwybod a yw efallai yn brawf i chi, ac yn fwynhad am ychydig."
 
 وَإِنْ أَدْرِى لَعَلَّهُۥ فِتْنَةٌۭ لَّكُمْ وَمَتَٰعٌ إِلَىٰ حِينٍۢ
 
-**21:112**  Dywedodd ef, “Fy Arglwydd, barna â chyfiawnder.” Ac, “Ein Harglwydd yw'r Daionus, yr hwn y ceisir ei gymorth yn erbyn yr hyn yr ydych yn ei honni.”
+**21:112**  Dywedodd ef, "Fy Arglwydd, barna â chyfiawnder." Ac, "Ein Harglwydd yw'r Daionus, yr hwn y ceisir ei gymorth yn erbyn yr hyn yr ydych yn ei honni."
 
 قَٰلَ رَبِّ ٱحْكُم بِٱلْحَقِّ ۗ وَرَبُّنَا ٱلرَّحْمَٰنُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ
 
@@ -10901,7 +10901,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَلَهُم مَّقَٰمِعُ مِنْ حَدِيدٍۢ
 
-**22:22**  Pryd bynnag y ceisiant ddianc o'r gwyll, gyrir nhw yn ôl iddo: “Blaswch ddioddefaint llosgi.”
+**22:22**  Pryd bynnag y ceisiant ddianc o'r gwyll, gyrir nhw yn ôl iddo: "Blaswch ddioddefaint llosgi."
 
 كُلَّمَآ أَرَادُوٓا۟ أَن يَخْرُجُوا۟ مِنْهَا مِنْ غَمٍّ أُعِيدُوا۟ فِيهَا وَذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
 
@@ -10917,7 +10917,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلْمَسْجِدِ ٱلْحَرَامِ ٱلَّذِى جَعَلْنَٰهُ لِلنَّاسِ سَوَآءً ٱلْعَٰكِفُ فِيهِ وَٱلْبَادِ ۚ وَمَن يُرِدْ فِيهِ بِإِلْحَادٍۭ بِظُلْمٍۢ نُّذِقْهُ مِنْ عَذَابٍ أَلِيمٍۢ
 
-**22:26**  Dangosasom Ni i Abraham leoliad y Tŷ: “Paid â chysylltu dim â Mi; a phura fy Nhŷ i'r rhai sy'n cylchu o gwmpas, a'r rhai sy'n sefyll i weddïo, a'r rhai sy'n penlinio ac yn ymgrymu.”
+**22:26**  Dangosasom Ni i Abraham leoliad y Tŷ: "Paid â chysylltu dim â Mi; a phura fy Nhŷ i'r rhai sy'n cylchu o gwmpas, a'r rhai sy'n sefyll i weddïo, a'r rhai sy'n penlinio ac yn ymgrymu."
 
 وَإِذْ بَوَّأْنَا لِإِبْرَٰهِيمَ مَكَانَ ٱلْبَيْتِ أَن لَّا تُشْرِكْ بِى شَيْـًۭٔا وَطَهِّرْ بَيْتِىَ لِلطَّآئِفِينَ وَٱلْقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
 
@@ -10973,7 +10973,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 أُذِنَ لِلَّذِينَ يُقَٰتَلُونَ بِأَنَّهُمْ ظُلِمُوا۟ ۚ وَإِنَّ ٱللَّهَ عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ
 
-**22:40**  Y rhai a drowyd yn anghyfiawn o'u cartrefi, yn unig am ddweud, “Ein Harglwydd yw Allah.” Pe na bai fod Allah yn gwrthyrru pobl trwy foddion eraill: mynachlogydd, eglwysi, synagogau, a mosgiau — lle y crybwyllir enw Allah yn fawr — a fuasai wedi eu dymchwel. Y mae Allah yn cynnal pwy bynnag sy'n ei gynnal Ef. Cryf a Nerthol yw Allah.
+**22:40**  Y rhai a drowyd yn anghyfiawn o'u cartrefi, yn unig am ddweud, "Ein Harglwydd yw Allah." Pe na bai fod Allah yn gwrthyrru pobl trwy foddion eraill: mynachlogydd, eglwysi, synagogau, a mosgiau — lle y crybwyllir enw Allah yn fawr — a fuasai wedi eu dymchwel. Y mae Allah yn cynnal pwy bynnag sy'n ei gynnal Ef. Cryf a Nerthol yw Allah.
 
 ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَٰرِهِم بِغَيْرِ حَقٍّ إِلَّآ أَن يَقُولُوا۟ رَبُّنَا ٱللَّهُ ۗ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍۢ لَّهُدِّمَتْ صَوَٰمِعُ وَبِيَعٌۭ وَصَلَوَٰتٌۭ وَمَسَٰجِدُ يُذْكَرُ فِيهَا ٱسْمُ ٱللَّهِ كَثِيرًۭا ۗ وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓ ۗ إِنَّ ٱللَّهَ لَقَوِىٌّ عَزِيزٌ
 
@@ -11009,7 +11009,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَكَأَيِّن مِّن قَرْيَةٍ أَمْلَيْتُ لَهَا وَهِىَ ظَالِمَةٌۭ ثُمَّ أَخَذْتُهَا وَإِلَىَّ ٱلْمَصِيرُ
 
-**22:49**  Dywed, “O bobl, nid wyf ond rhybuddiwr plaen i chi.”
+**22:49**  Dywed, "O bobl, nid wyf ond rhybuddiwr plaen i chi."
 
 قُلْ يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّمَآ أَنَا۠ لَكُمْ نَذِيرٌۭ مُّبِينٌۭ
 
@@ -11085,7 +11085,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 لِّكُلِّ أُمَّةٍۢ جَعَلْنَا مَنسَكًا هُمْ نَاسِكُوهُ ۖ فَلَا يُنَٰزِعُنَّكَ فِى ٱلْأَمْرِ ۚ وَٱدْعُ إِلَىٰ رَبِّكَ ۖ إِنَّكَ لَعَلَىٰ هُدًۭى مُّسْتَقِيمٍۢ
 
-**22:68**  Ond os dadleuant nhw â thi, dywed, “Y mae Allah yn gwbl ymwybodol o'r hyn yr ydych yn ei wneud.”
+**22:68**  Ond os dadleuant nhw â thi, dywed, "Y mae Allah yn gwbl ymwybodol o'r hyn yr ydych yn ei wneud."
 
 وَإِن جَٰدَلُوكَ فَقُلِ ٱللَّهُ أَعْلَمُ بِمَا تَعْمَلُونَ
 
@@ -11101,7 +11101,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَٰنًۭا وَمَا لَيْسَ لَهُم بِهِۦ عِلْمٌۭ ۗ وَمَا لِلظَّٰلِمِينَ مِن نَّصِيرٍۢ
 
-**22:72**  A phan adroddir ein Hadnodau Eglur Ni iddynt, adnabydi di ffieidd-dod ar wynebau'r rhai sy'n anghredu. Bron y maent yn ymosod ar y rhai sy'n adrodd iddynt ein Hadnodau Ni. Dywed, “A hysbysaf i chi am rywbeth gwaeth na hynny? Y Tân! Y mae Allah wedi ei addo i'r rhai sy'n anghredu. A mor druenus o ganlyniad!”
+**22:72**  A phan adroddir ein Hadnodau Eglur Ni iddynt, adnabydi di ffieidd-dod ar wynebau'r rhai sy'n anghredu. Bron y maent yn ymosod ar y rhai sy'n adrodd iddynt ein Hadnodau Ni. Dywed, "A hysbysaf i chi am rywbeth gwaeth na hynny? Y Tân! Y mae Allah wedi ei addo i'r rhai sy'n anghredu. A mor druenus o ganlyniad!"
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ تَعْرِفُ فِى وُجُوهِ ٱلَّذِينَ كَفَرُوا۟ ٱلْمُنكَرَ ۖ يَكَادُونَ يَسْطُونَ بِٱلَّذِينَ يَتْلُونَ عَلَيْهِمْ ءَايَٰتِنَا ۗ قُلْ أَفَأُنَبِّئُكُم بِشَرٍّۢ مِّن ذَٰلِكُمُ ۗ ٱلنَّارُ وَعَدَهَا ٱللَّهُ ٱلَّذِينَ كَفَرُوا۟ ۖ وَبِئْسَ ٱلْمَصِيرُ
 
@@ -13413,7 +13413,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 لَقَدْ وُعِدْنَا هَٰذَا نَحْنُ وَءَابَآؤُنَا مِن قَبْلُ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
-**27:69**  Dywed, teithiwch trwy'r ddaear, ac arsylwch dynged yr euog."
+**27:69**  Dywed, "teithiwch trwy'r ddaear, ac arsylwch dynged yr euog."
 
 قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُجْرِمِينَ
 
@@ -15985,11 +15985,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 قَالَ قَآئِلٌۭ مِّنْهُمْ إِنِّى كَانَ لِى قَرِينٌۭ
 
-**37:52**  A arferai ddweud, "Ai un o'r rhai sy'n credu wyt ti?
+**37:52**  A arferai ddweud, 'Ai un o'r rhai sy'n credu wyt ti?
 
 يَقُولُ أَءِنَّكَ لَمِنَ ٱلْمُصَدِّقِينَ
 
-**37:53**  Y byddwn, ar ôl i ni farw a dod yn llwch ac esgyrn, yn cael ein galw i gyfrif?"
+**37:53**  Y byddwn, ar ôl i ni farw a dod yn llwch ac esgyrn, yn cael ein galw i gyfrif?'"
 
 أَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَٰمًا أَءِنَّا لَمَدِينُونَ
 
@@ -16197,7 +16197,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَنَٰدَيْنَٰهُ أَن يَٰٓإِبْرَٰهِيمُ
 
-**37:105**  Yr wyt wedi cyflawni'r weledigaeth." Fel hyn yr ydym yn gwobrwyo gwneuthurwyr da."
+**37:105**  Yr wyt wedi cyflawni'r weledigaeth." Fel hyn yr ydym yn gwobrwyo gwneuthurwyr da.
 
 قَدْ صَدَّقْتَ ٱلرُّءْيَآ ۚ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
 
@@ -16377,7 +16377,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَٱسْتَفْتِهِمْ أَلِرَبِّكَ ٱلْبَنَاتُ وَلَهُمُ ٱلْبَنُونَ
 
-**37:150**  Neu a greasom yr angylion yn fenywod, tra oeddent yn dystion?"
+**37:150**  Neu a greasom yr angylion yn fenywod, tra oeddent yn dystion?
 
 أَمْ خَلَقْنَا ٱلْمَلَٰٓئِكَةَ إِنَٰثًۭا وَهُمْ شَٰهِدُونَ
 
@@ -16515,7 +16515,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 **ص** · Sad · Mecaidd · 88 adnod
 
-*Sad: Dafydd y barnwr, Solomon y diolchgar, a rhybudd i beidio â dilyn y rhai sy’n crwydro.*
+*Sad: Dafydd y barnwr, Solomon y diolchgar, a rhybudd i beidio â dilyn y rhai sy'n crwydro.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -16533,15 +16533,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍۢ فَنَادَوا۟ وَّلَاتَ حِينَ مَنَاصٍۢ
 
-**38:4**  A rhyfeddasant fod rhybuddiwr wedi dod atynt o'u plith eu hunain. Dywedodd yr anghredinwyr, “Dewin celwyddog yw hwn.”
+**38:4**  A rhyfeddasant fod rhybuddiwr wedi dod atynt o'u plith eu hunain. Dywedodd yr anghredinwyr, "Dewin celwyddog yw hwn."
 
 وَعَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌۭ مِّنْهُمْ ۖ وَقَالَ ٱلْكَٰفِرُونَ هَٰذَا سَٰحِرٌۭ كَذَّابٌ
 
-**38:5**  “A drodd e'r holl dduwiau yn un Allah? Peth rhyfedd yw hyn.”
+**38:5**  "A drodd e'r holl dduwiau yn un Allah? Peth rhyfedd yw hyn."
 
 أَجَعَلَ ٱلْءَالِهَةَ إِلَٰهًۭا وَٰحِدًا ۖ إِنَّ هَٰذَا لَشَىْءٌ عُجَابٌۭ
 
-**38:6**  Cyhoeddodd y penaethiaid yn eu plith: “Ewch ymlaen, a glynwch wrth eich duwiau. Peth wedi'i gynllunio yw hyn.”
+**38:6**  Cyhoeddodd y penaethiaid yn eu plith: "Ewch ymlaen, a glynwch wrth eich duwiau. Peth wedi'i gynllunio yw hyn."
 
 وَٱنطَلَقَ ٱلْمَلَأُ مِنْهُمْ أَنِ ٱمْشُوا۟ وَٱصْبِرُوا۟ عَلَىٰٓ ءَالِهَتِكُمْ ۖ إِنَّ هَٰذَا لَشَىْءٌۭ يُرَادُ
 
@@ -16549,7 +16549,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 مَا سَمِعْنَا بِهَٰذَا فِى ٱلْمِلَّةِ ٱلْءَاخِرَةِ إِنْ هَٰذَآ إِلَّا ٱخْتِلَٰقٌ
 
-**38:8**  “A anfonwyd y neges i lawr ato ef, allan ohonom ni i gyd?” Yn wir, y maent yn amau Fy rhybudd. Yn wir, nid ydynt eto wedi blasu Fy nghosb.
+**38:8**  "A anfonwyd y neges i lawr ato ef, allan ohonom ni i gyd?" Yn wir, y maent yn amau Fy rhybudd. Yn wir, nid ydynt eto wedi blasu Fy nghosb.
 
 أَءُنزِلَ عَلَيْهِ ٱلذِّكْرُ مِنۢ بَيْنِنَا ۚ بَلْ هُمْ فِى شَكٍّۢ مِّن ذِكْرِى ۖ بَل لَّمَّا يَذُوقُوا۟ عَذَابِ
 
@@ -16581,7 +16581,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَمَا يَنظُرُ هَٰٓؤُلَآءِ إِلَّا صَيْحَةًۭ وَٰحِدَةًۭ مَّا لَهَا مِن فَوَاقٍۢ
 
-**38:16**  A dywedant, “Ein Harglwydd, prysura Dy orchymyn arnom, cyn Dydd y Cyfrif.”
+**38:16**  A dywedant, "Ein Harglwydd, prysura Dy orchymyn arnom, cyn Dydd y Cyfrif."
 
 وَقَالُوا۟ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبْلَ يَوْمِ ٱلْحِسَابِ
 
@@ -16605,15 +16605,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ۞ وَهَلْ أَتَىٰكَ نَبَؤُا۟ ٱلْخَصْمِ إِذْ تَسَوَّرُوا۟ ٱلْمِحْرَابَ
 
-**38:22**  Pan ddaethant at Dafydd, a dychrynwyd ef ganddynt. Dywedasant, “Paid ag ofni. Dau ddadleuwr; y mae un ohonom wedi camu ar y llall; felly barn rhyngom yn deg, a phaid â bod yn rhagfarnllyd, a thywys ni i'r ffordd union.”
+**38:22**  Pan ddaethant at Dafydd, a dychrynwyd ef ganddynt. Dywedasant, "Paid ag ofni. Dau ddadleuwr; y mae un ohonom wedi camu ar y llall; felly barn rhyngom yn deg, a phaid â bod yn rhagfarnllyd, a thywys ni i'r ffordd union."
 
 إِذْ دَخَلُوا۟ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنْهُمْ ۖ قَالُوا۟ لَا تَخَفْ ۖ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍۢ فَٱحْكُم بَيْنَنَا بِٱلْحَقِّ وَلَا تُشْطِطْ وَٱهْدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ
 
-**38:23**  “Y mae gan y brawd hwn o'm heiddo naw deg naw o famogiaid, a gennyf fi un famog, a dywedodd, 'Ymddiried hi i mi,' a phwysodd arnaf â geiriau.”
+**38:23**  "Y mae gan y brawd hwn o'm heiddo naw deg naw o famogiaid, a gennyf fi un famog, a dywedodd, 'Ymddiried hi i mi,' a phwysodd arnaf â geiriau."
 
 إِنَّ هَٰذَآ أَخِى لَهُۥ تِسْعٌۭ وَتِسْعُونَ نَعْجَةًۭ وَلِىَ نَعْجَةٌۭ وَٰحِدَةٌۭ فَقَالَ أَكْفِلْنِيهَا وَعَزَّنِى فِى ٱلْخِطَابِ
 
-**38:24**  Dywedodd, “Y mae wedi gwneud cam â thi trwy ofyn am dy famog yn ychwanegol at ei famogiaid ef. Y mae llawer o bartneriaid yn manteisio ar ei gilydd, ac eithrio'r rhai sy'n credu ac yn gwneud gweithredoedd da, ond ychydig iawn yw'r rhain.” Sylweddolodd Dafydd ein bod yn ei brofi, felly ceisiodd faddeuant gan ei Arglwydd, a syrthiodd ar ei liniau, ac edifarhaodd.  
+**38:24**  Dywedodd, "Y mae wedi gwneud cam â thi trwy ofyn am dy famog yn ychwanegol at ei famogiaid ef. Y mae llawer o bartneriaid yn manteisio ar ei gilydd, ac eithrio'r rhai sy'n credu ac yn gwneud gweithredoedd da, ond ychydig iawn yw'r rhain." Sylweddolodd Dafydd ein bod yn ei brofi, felly ceisiodd faddeuant gan ei Arglwydd, a syrthiodd ar ei liniau, ac edifarhaodd.  
 *[ymgrymu — argymhellir]*
 
 قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَأَنَابَ ۩
@@ -16622,7 +16622,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَغَفَرْنَا لَهُۥ ذَٰلِكَ ۖ وَإِنَّ لَهُۥ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍۢ
 
-**38:26**  “O Ddafydd, gwnaethom Ni di yn llywodraethwr yn y tir, felly barn rhwng y bobl â chyfiawnder, a phaid â dilyn chwant, rhag iddo dy droi oddi wrth lwybr Allah. Bydd gan y rhai sy'n crwydro oddi wrth lwybr Allah gosb boenus, am iddynt anwybyddu Dydd y Cyfrif.”
+**38:26**  "O Ddafydd, gwnaethom Ni di yn llywodraethwr yn y tir, felly barn rhwng y bobl â chyfiawnder, a phaid â dilyn chwant, rhag iddo dy droi oddi wrth lwybr Allah. Bydd gan y rhai sy'n crwydro oddi wrth lwybr Allah gosb boenus, am iddynt anwybyddu Dydd y Cyfrif."
 
 يَٰدَاوُۥدُ إِنَّا جَعَلْنَٰكَ خَلِيفَةًۭ فِى ٱلْأَرْضِ فَٱحْكُم بَيْنَ ٱلنَّاسِ بِٱلْحَقِّ وَلَا تَتَّبِعِ ٱلْهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ ٱللَّهِ ۚ إِنَّ ٱلَّذِينَ يَضِلُّونَ عَن سَبِيلِ ٱللَّهِ لَهُمْ عَذَابٌۭ شَدِيدٌۢ بِمَا نَسُوا۟ يَوْمَ ٱلْحِسَابِ
 
@@ -16646,11 +16646,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِذْ عُرِضَ عَلَيْهِ بِٱلْعَشِىِّ ٱلصَّٰفِنَٰتُ ٱلْجِيَادُ
 
-**38:32**  Dywedodd, “Yr wyf wedi ffafrio cariad at bethau braf uwchlaw cofio fy Arglwydd — hyd nes iddo ddiflannu y tu ôl i'r llen.”
+**38:32**  Dywedodd, "Yr wyf wedi ffafrio cariad at bethau braf uwchlaw cofio fy Arglwydd — hyd nes iddo ddiflannu y tu ôl i'r llen."
 
 فَقَالَ إِنِّىٓ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ عَن ذِكْرِ رَبِّى حَتَّىٰ تَوَارَتْ بِٱلْحِجَابِ
 
-**38:33**  “Dewch â nhw'n ôl ataf.” A dechreuodd fwytho eu coesau a'u gyddfau.
+**38:33**  "Dewch â nhw'n ôl ataf." A dechreuodd fwytho eu coesau a'u gyddfau.
 
 رُدُّوهَا عَلَىَّ ۖ فَطَفِقَ مَسْحًۢا بِٱلسُّوقِ وَٱلْأَعْنَاقِ
 
@@ -16658,7 +16658,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَلَقَدْ فَتَنَّا سُلَيْمَٰنَ وَأَلْقَيْنَا عَلَىٰ كُرْسِيِّهِۦ جَسَدًۭا ثُمَّ أَنَابَ
 
-**38:35**  Dywedodd, “Fy Arglwydd, maddau i mi, a chaniatâ i mi deyrnas na chaiff neb ar fy ôl ei chyrraedd byth. Ti yw'r Rhoddwr.”
+**38:35**  Dywedodd, "Fy Arglwydd, maddau i mi, a chaniatâ i mi deyrnas na chaiff neb ar fy ôl ei chyrraedd byth. Ti yw'r Rhoddwr."
 
 قَالَ رَبِّ ٱغْفِرْ لِى وَهَبْ لِى مُلْكًۭا لَّا يَنۢبَغِى لِأَحَدٍۢ مِّنۢ بَعْدِىٓ ۖ إِنَّكَ أَنتَ ٱلْوَهَّابُ
 
@@ -16674,7 +16674,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَءَاخَرِينَ مُقَرَّنِينَ فِى ٱلْأَصْفَادِ
 
-**38:39**  “Dyma Ein rhodd; felly rho'n hael, neu atal; heb gyfrif.”
+**38:39**  "Dyma Ein rhodd; felly rho'n hael, neu atal; heb gyfrif."
 
 هَٰذَا عَطَآؤُنَا فَٱمْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍۢ
 
@@ -16682,11 +16682,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَإِنَّ لَهُۥ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍۢ
 
-**38:41**  A chofia Ein gwas Job, pan waeddodd ar ei Arglwydd, “Y mae Satan wedi fy mhoeni â chaledi a phoen.”
+**38:41**  A chofia Ein gwas Job, pan waeddodd ar ei Arglwydd, "Y mae Satan wedi fy mhoeni â chaledi a phoen."
 
 وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَٰنُ بِنُصْبٍۢ وَعَذَابٍ
 
-**38:42**  “Stampia â'th droed — dyma ddŵr oer i ymolchi ag ef, ac i'w yfed.”
+**38:42**  "Stampia â'th droed — dyma ddŵr oer i ymolchi ag ef, ac i'w yfed."
 
 ٱرْكُضْ بِرِجْلِكَ ۖ هَٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ
 
@@ -16694,7 +16694,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَٰبِ
 
-**38:44**  “Cymer yn dy law fwrn, a tharo ag ef, a phaid â thorri dy lw.” Cawsom ef yn amyneddgar. Mor was rhagorol! Yr oedd yn ufudd.
+**38:44**  "Cymer yn dy law fwrn, a tharo ag ef, a phaid â thorri dy lw." Cawsom ef yn amyneddgar. Mor was rhagorol! Yr oedd yn ufudd.
 
 وَخُذْ بِيَدِكَ ضِغْثًۭا فَٱضْرِب بِّهِۦ وَلَا تَحْنَثْ ۗ إِنَّا وَجَدْنَٰهُ صَابِرًۭا ۚ نِّعْمَ ٱلْعَبْدُ ۖ إِنَّهُۥٓ أَوَّابٌۭ
 
@@ -16754,23 +16754,23 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَءَاخَرُ مِن شَكْلِهِۦٓ أَزْوَٰجٌ
 
-**38:59**  “Dyma dyrfa'n rhuthro benben â chi.” Nid oes croeso iddynt. Cânt eu llosgi gan y Tân.
+**38:59**  "Dyma dyrfa'n rhuthro benben â chi." Nid oes croeso iddynt. Cânt eu llosgi gan y Tân.
 
 هَٰذَا فَوْجٌۭ مُّقْتَحِمٌۭ مَّعَكُمْ ۖ لَا مَرْحَبًۢا بِهِمْ ۚ إِنَّهُمْ صَالُوا۟ ٱلنَّارِ
 
-**38:60**  Dywedant, “Ond chwychwi! Nid oes croeso i chi! Chwychwi a ddaeth ag ef arnom! Mor drist yw'r diwedd!”
+**38:60**  Dywedant, "Ond chwychwi! Nid oes croeso i chi! Chwychwi a ddaeth ag ef arnom! Mor drist yw'r diwedd!"
 
 قَالُوا۟ بَلْ أَنتُمْ لَا مَرْحَبًۢا بِكُمْ ۖ أَنتُمْ قَدَّمْتُمُوهُ لَنَا ۖ فَبِئْسَ ٱلْقَرَارُ
 
-**38:61**  Dywedant, “Ein Harglwydd, pwy bynnag a ddaeth â hyn arnom, rho iddo boen ddeublyg yn y Tân.”
+**38:61**  Dywedant, "Ein Harglwydd, pwy bynnag a ddaeth â hyn arnom, rho iddo boen ddeublyg yn y Tân."
 
 قَالُوا۟ رَبَّنَا مَن قَدَّمَ لَنَا هَٰذَا فَزِدْهُ عَذَابًۭا ضِعْفًۭا فِى ٱلنَّارِ
 
-**38:62**  A dywedant, “Beth sydd arnom nad ydym yn gweld dynion yr arferem eu cyfrif ymhlith y drygionus?
+**38:62**  A dywedant, "Beth sydd arnom nad ydym yn gweld dynion yr arferem eu cyfrif ymhlith y drygionus?
 
 وَقَالُوا۟ مَا لَنَا لَا نَرَىٰ رِجَالًۭا كُنَّا نَعُدُّهُم مِّنَ ٱلْأَشْرَارِ
 
-**38:63**  A wnaethom ni watwar ohonynt, neu a yw ein llygaid wedi gwyro oddi wrthynt?“
+**38:63**  A wnaethom ni watwar ohonynt, neu a yw ein llygaid wedi gwyro oddi wrthynt?"
 
 أَتَّخَذْنَٰهُمْ سِخْرِيًّا أَمْ زَاغَتْ عَنْهُمُ ٱلْأَبْصَٰرُ
 
@@ -16778,15 +16778,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِنَّ ذَٰلِكَ لَحَقٌّۭ تَخَاصُمُ أَهْلِ ٱلنَّارِ
 
-**38:65**  Dywed, “Nid wyf ond rhybuddiwr, ac nid oes duw ond Allah — yr Un, y Concwerwr.
+**38:65**  Dywed, "Nid wyf ond rhybuddiwr, ac nid oes duw ond Allah — yr Un, y Concwerwr.
 
 قُلْ إِنَّمَآ أَنَا۠ مُنذِرٌۭ ۖ وَمَا مِنْ إِلَٰهٍ إِلَّا ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ
 
-**38:66**  Arglwydd y nefoedd a'r ddaear, a phopeth rhyngddynt; y Nerthol, y Maddeuwr.“
+**38:66**  Arglwydd y nefoedd a'r ddaear, a phopeth rhyngddynt; y Nerthol, y Maddeuwr."
 
 رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلْعَزِيزُ ٱلْغَفَّٰرُ
 
-**38:67**  Dywed, “Neges o bwysigrwydd mawr yw hi.
+**38:67**  Dywed, "Neges o bwysigrwydd mawr yw hi.
 
 قُلْ هُوَ نَبَؤٌا۟ عَظِيمٌ
 
@@ -16798,11 +16798,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 مَا كَانَ لِىَ مِنْ عِلْمٍۭ بِٱلْمَلَإِ ٱلْأَعْلَىٰٓ إِذْ يَخْتَصِمُونَ
 
-**38:70**  Nid yw'n cael ei ddatguddio i mi ond fy mod yn rhybuddiwr eglur.“
+**38:70**  Nid yw'n cael ei ddatguddio i mi ond fy mod yn rhybuddiwr eglur."
 
 إِن يُوحَىٰٓ إِلَىَّ إِلَّآ أَنَّمَآ أَنَا۠ نَذِيرٌۭ مُّبِينٌ
 
-**38:71**  Dywedodd dy Arglwydd wrth yr angylion, “Yr wyf yn creu bod dynol o glai.
+**38:71**  Dywedodd dy Arglwydd wrth yr angylion, "Yr wyf yn creu bod dynol o glai.
 
 إِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًۭا مِّن طِينٍۢ
 
@@ -16818,51 +16818,51 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِلَّآ إِبْلِيسَ ٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَٰفِرِينَ
 
-**38:75**  Dywedodd, “O Satan, beth a'th rwystrodd rhag ymgrymu gerbron yr hyn a greais â'm Dwylo Fy Hun? A wyt ti'n rhy falch, neu a oeddet ti yn un o'r dyrchafedig?”
+**38:75**  Dywedodd, "O Satan, beth a'th rwystrodd rhag ymgrymu gerbron yr hyn a greais â'm Dwylo Fy Hun? A wyt ti'n rhy falch, neu a oeddet ti yn un o'r dyrchafedig?"
 
 قَالَ يَٰٓإِبْلِيسُ مَا مَنَعَكَ أَن تَسْجُدَ لِمَا خَلَقْتُ بِيَدَىَّ ۖ أَسْتَكْبَرْتَ أَمْ كُنتَ مِنَ ٱلْعَالِينَ
 
-**38:76**  Dywedodd, “Yr wyf yn well nag ef; creuaist fi o dân, a chreuaist ef o glai.”
+**38:76**  Dywedodd, "Yr wyf yn well nag ef; creuaist fi o dân, a chreuaist ef o glai."
 
 قَالَ أَنَا۠ خَيْرٌۭ مِّنْهُ ۖ خَلَقْتَنِى مِن نَّارٍۢ وَخَلَقْتَهُۥ مِن طِينٍۢ
 
-**38:77**  Dywedodd, “Yna dos allan oddi yma! Yr wyt yn alltud!
+**38:77**  Dywedodd, "Yna dos allan oddi yma! Yr wyt yn alltud!
 
 قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌۭ
 
-**38:78**  A bydd Fy melltith arnat hyd Ddydd y Farn.“
+**38:78**  A bydd Fy melltith arnat hyd Ddydd y Farn."
 
 وَإِنَّ عَلَيْكَ لَعْنَتِىٓ إِلَىٰ يَوْمِ ٱلدِّينِ
 
-**38:79**  Dywedodd, “Arglwydd, gohiria fi hyd y Dydd y cânt eu hatgyfodi.”
+**38:79**  Dywedodd, "Arglwydd, gohiria fi hyd y Dydd y cânt eu hatgyfodi."
 
 قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
 
-**38:80**  Dywedodd, “Yr wyt yn un o'r rhai a ohiriwyd.
+**38:80**  Dywedodd, "Yr wyt yn un o'r rhai a ohiriwyd.
 
 قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ
 
-**38:81**  Hyd Ddydd yr Amser Penodedig.“
+**38:81**  Hyd Ddydd yr Amser Penodedig."
 
 إِلَىٰ يَوْمِ ٱلْوَقْتِ ٱلْمَعْلُومِ
 
-**38:82**  Dywedodd, “Trwy Dy fawredd, hudiâf nhw i gyd.
+**38:82**  Dywedodd, "Trwy Dy fawredd, hudiâf nhw i gyd.
 
 قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ
 
-**38:83**  Ac eithrio dy weision ffyddlon yn eu plith.“
+**38:83**  Ac eithrio dy weision ffyddlon yn eu plith."
 
 إِلَّا عِبَادَكَ مِنْهُمُ ٱلْمُخْلَصِينَ
 
-**38:84**  Dywedodd, “Y gwirionedd yw, ac y mae'r gwirionedd a ddywedaf.
+**38:84**  Dywedodd, "Y gwirionedd yw, ac y mae'r gwirionedd a ddywedaf.
 
 قَالَ فَٱلْحَقُّ وَٱلْحَقَّ أَقُولُ
 
-**38:85**  Llanwaf Uffern â thi, a phob un ohonynt sy'n dy ddilyn.“
+**38:85**  Llanwaf Uffern â thi, a phob un ohonynt sy'n dy ddilyn."
 
 لَأَمْلَأَنَّ جَهَنَّمَ مِنكَ وَمِمَّن تَبِعَكَ مِنْهُمْ أَجْمَعِينَ
 
-**38:86**  Dywed, “Ni ofynnaf gyflog gennych am hyn, ac nid wyf yn ffugiwr.
+**38:86**  Dywed, "Ni ofynnaf gyflog gennych am hyn, ac nid wyf yn ffugiwr.
 
 قُلْ مَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍۢ وَمَآ أَنَا۠ مِنَ ٱلْمُتَكَلِّفِينَ
 
@@ -16870,7 +16870,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِنْ هُوَ إِلَّا ذِكْرٌۭ لِّلْعَٰلَمِينَ
 
-**38:88**  A chi a ŵyr ei neges ar ôl ychydig.“
+**38:88**  A chi a ŵyr ei neges ar ôl ychydig."
 
 وَلَتَعْلَمُنَّ نَبَأَهُۥ بَعْدَ حِينٍۭ
 
@@ -16881,7 +16881,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 **ٱلزُّمَر** · Az-Zumar · Mecaidd · 75 adnod
 
-*Y mintai yn mynd i mewn i Baradwys mewn cwmnïau — ac adnod o obaith i’r rhai sydd wedi gwneud cam.*
+*Y mintai yn mynd i mewn i Baradwys mewn cwmnïau — ac adnod o obaith i'r rhai sydd wedi gwneud cam.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -16895,7 +16895,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِنَّآ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَٰبَ بِٱلْحَقِّ فَٱعْبُدِ ٱللَّهَ مُخْلِصًۭا لَّهُ ٱلدِّينَ
 
-**39:3**  Onid i Allah y mae ffydd ddiffuant yn ddyledus? O ran y rhai sy'n cymryd gwarcheidwaid heblaw Ef, “Nid ydym yn eu haddoli ond er mwyn iddynt ein dwyn yn nes at Allah.” Bydd Allah yn barnu rhyngddynt ynglŷn â'u gwahaniaethau. Nid yw Allah yn tywys y celwyddwr cableddus.
+**39:3**  Onid i Allah y mae ffydd ddiffuant yn ddyledus? O ran y rhai sy'n cymryd gwarcheidwaid heblaw Ef, "Nid ydym yn eu haddoli ond er mwyn iddynt ein dwyn yn nes at Allah." Bydd Allah yn barnu rhyngddynt ynglŷn â'u gwahaniaethau. Nid yw Allah yn tywys y celwyddwr cableddus.
 
 أَلَا لِلَّهِ ٱلدِّينُ ٱلْخَالِصُ ۚ وَٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَآ إِلَى ٱللَّهِ زُلْفَىٰٓ إِنَّ ٱللَّهَ يَحْكُمُ بَيْنَهُمْ فِى مَا هُمْ فِيهِ يَخْتَلِفُونَ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ كَٰذِبٌۭ كَفَّارٌۭ
 
@@ -16915,39 +16915,39 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِن تَكْفُرُوا۟ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنكُمْ ۖ وَلَا يَرْضَىٰ لِعِبَادِهِ ٱلْكُفْرَ ۖ وَإِن تَشْكُرُوا۟ يَرْضَهُ لَكُمْ ۗ وَلَا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ۗ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
-**39:8**  Pan gyffwrdd rhyw adfyd â'r bod dynol, y mae'n gweddïo ar ei Arglwydd, gan edifarhau ato. Ond yna, pan roddo iddo ras ohono Ef, y mae'n anghofio'r hyn yr oedd yn gweddïo amdano o'r blaen, ac yn priodoli cystadleuwyr i Allah, er mwyn camarwain oddi wrth ei ffordd. Dywed, “Mwynha dy anghred am ychydig; byddi ymhlith preswylwyr y Tân.”
+**39:8**  Pan gyffwrdd rhyw adfyd â'r bod dynol, y mae'n gweddïo ar ei Arglwydd, gan edifarhau ato. Ond yna, pan roddo iddo ras ohono Ef, y mae'n anghofio'r hyn yr oedd yn gweddïo amdano o'r blaen, ac yn priodoli cystadleuwyr i Allah, er mwyn camarwain oddi wrth ei ffordd. Dywed, "Mwynha dy anghred am ychydig; byddi ymhlith preswylwyr y Tân."
 
 ۞ وَإِذَا مَسَّ ٱلْإِنسَٰنَ ضُرٌّۭ دَعَا رَبَّهُۥ مُنِيبًا إِلَيْهِ ثُمَّ إِذَا خَوَّلَهُۥ نِعْمَةًۭ مِّنْهُ نَسِىَ مَا كَانَ يَدْعُوٓا۟ إِلَيْهِ مِن قَبْلُ وَجَعَلَ لِلَّهِ أَندَادًۭا لِّيُضِلَّ عَن سَبِيلِهِۦ ۚ قُلْ تَمَتَّعْ بِكُفْرِكَ قَلِيلًا ۖ إِنَّكَ مِنْ أَصْحَٰبِ ٱلنَّارِ
 
-**39:9**  A yw ef sy'n addoli'n dduwiol yn ystod oriau'r nos, yn ymgrymu ac yn sefyll, yn gofalu am yr Oes Ddiwethaf, ac yn gosod ei obaith yn nhrugaredd ei Arglwydd? Dywed, “A yw'r rhai sy'n gwybod a'r rhai nad ydynt yn gwybod yn gyfartal?” Dim ond y rhai â rheswm fydd yn cofio.
+**39:9**  A yw ef sy'n addoli'n dduwiol yn ystod oriau'r nos, yn ymgrymu ac yn sefyll, yn gofalu am yr Oes Ddiwethaf, ac yn gosod ei obaith yn nhrugaredd ei Arglwydd? Dywed, "A yw'r rhai sy'n gwybod a'r rhai nad ydynt yn gwybod yn gyfartal?" Dim ond y rhai â rheswm fydd yn cofio.
 
 أَمَّنْ هُوَ قَٰنِتٌ ءَانَآءَ ٱلَّيْلِ سَاجِدًۭا وَقَآئِمًۭا يَحْذَرُ ٱلْءَاخِرَةَ وَيَرْجُوا۟ رَحْمَةَ رَبِّهِۦ ۗ قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَ ۗ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَٰبِ
 
-**39:10**  Dywed, “O Fy ngweision sydd wedi credu, cadwch eich dyletswydd i'ch Arglwydd. I'r rhai sy'n gwneud da yn y byd hwn, y mae daioni. Ac y mae daear Allah yn eang. Telir cyflogau'r rhai cadarn yn llawn, heb gyfrif.”
+**39:10**  Dywed, "O Fy ngweision sydd wedi credu, cadwch eich dyletswydd i'ch Arglwydd. I'r rhai sy'n gwneud da yn y byd hwn, y mae daioni. Ac y mae daear Allah yn eang. Telir cyflogau'r rhai cadarn yn llawn, heb gyfrif."
 
 قُلْ يَٰعِبَادِ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ رَبَّكُمْ ۚ لِلَّذِينَ أَحْسَنُوا۟ فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةٌۭ ۗ وَأَرْضُ ٱللَّهِ وَٰسِعَةٌ ۗ إِنَّمَا يُوَفَّى ٱلصَّٰبِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍۢ
 
-**39:11**  Dywed, “Gorchmynnwyd i mi wasanaethu Allah, gan gysegru fy nghrefydd yn llwyr iddo.
+**39:11**  Dywed, "Gorchmynnwyd i mi wasanaethu Allah, gan gysegru fy nghrefydd yn llwyr iddo.
 
 قُلْ إِنِّىٓ أُمِرْتُ أَنْ أَعْبُدَ ٱللَّهَ مُخْلِصًۭا لَّهُ ٱلدِّينَ
 
-**39:12**  A gorchmynnwyd i mi fod yn gyntaf y rhai sy'n ymostwng.“
+**39:12**  A gorchmynnwyd i mi fod yn gyntaf y rhai sy'n ymostwng."
 
 وَأُمِرْتُ لِأَنْ أَكُونَ أَوَّلَ ٱلْمُسْلِمِينَ
 
-**39:13**  Dywed, “Yr wyf yn ofni, pe bawn yn anufuddhau i'm Harglwydd, gosb Diwrnod erchyll.”
+**39:13**  Dywed, "Yr wyf yn ofni, pe bawn yn anufuddhau i'm Harglwydd, gosb Diwrnod erchyll."
 
 قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍۢ
 
-**39:14**  Dywed, “Allah yr wyf yn ei addoli, yn ddiffuant yn fy ffydd ynddo.”
+**39:14**  Dywed, "Allah yr wyf yn ei addoli, yn ddiffuant yn fy ffydd ynddo."
 
 قُلِ ٱللَّهَ أَعْبُدُ مُخْلِصًۭا لَّهُۥ دِينِى
 
-**39:15**  “Ond gallwch addoli beth bynnag a fynnoch heblaw Ef.” Dywed, “Y colledwyr yw'r rhai sy'n colli eu heneidiau a'u pobl ar Ddydd yr Atgyfodiad.” Dyna yn wir y golled amlwg.
+**39:15**  "Ond gallwch addoli beth bynnag a fynnoch heblaw Ef." Dywed, "Y colledwyr yw'r rhai sy'n colli eu heneidiau a'u pobl ar Ddydd yr Atgyfodiad." Dyna yn wir y golled amlwg.
 
 فَٱعْبُدُوا۟ مَا شِئْتُم مِّن دُونِهِۦ ۗ قُلْ إِنَّ ٱلْخَٰسِرِينَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ ٱلْقِيَٰمَةِ ۗ أَلَا ذَٰلِكَ هُوَ ٱلْخُسْرَانُ ٱلْمُبِينُ
 
-**39:16**  Bydd ganddynt haenau o Dân uwchbenynt, a haenau oddi tanynt. Dyna sut y mae Allah yn taro ofn i'w weision — “O Fy ngweision! Gwyliwch rhagof Fi!”
+**39:16**  Bydd ganddynt haenau o Dân uwchbenynt, a haenau oddi tanynt. Dyna sut y mae Allah yn taro ofn i'w weision — "O Fy ngweision! Gwyliwch rhagof Fi!"
 
 لَهُم مِّن فَوْقِهِمْ ظُلَلٌۭ مِّنَ ٱلنَّارِ وَمِن تَحْتِهِمْ ظُلَلٌۭ ۚ ذَٰلِكَ يُخَوِّفُ ٱللَّهُ بِهِۦ عِبَادَهُۥ ۚ يَٰعِبَادِ فَٱتَّقُونِ
 
@@ -16979,7 +16979,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ٱللَّهُ نَزَّلَ أَحْسَنَ ٱلْحَدِيثِ كِتَٰبًۭا مُّتَشَٰبِهًۭا مَّثَانِىَ تَقْشَعِرُّ مِنْهُ جُلُودُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَىٰ ذِكْرِ ٱللَّهِ ۚ ذَٰلِكَ هُدَى ٱللَّهِ يَهْدِى بِهِۦ مَن يَشَآءُ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ
 
-**39:24**  Beth am rywun sy'n cuddio ei wyneb rhag trueni ofnadwy Dydd yr Atgyfodiad? I'r drwgweithredwyr fe ddywedir, “Blaswch yr hyn yr arferch ei ennill.”
+**39:24**  Beth am rywun sy'n cuddio ei wyneb rhag trueni ofnadwy Dydd yr Atgyfodiad? I'r drwgweithredwyr fe ddywedir, "Blaswch yr hyn yr arferch ei ennill."
 
 أَفَمَن يَتَّقِى بِوَجْهِهِۦ سُوٓءَ ٱلْعَذَابِ يَوْمَ ٱلْقِيَٰمَةِ ۚ وَقِيلَ لِلظَّٰلِمِينَ ذُوقُوا۟ مَا كُنتُمْ تَكْسِبُونَ
 
@@ -17035,15 +17035,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَمَن يَهْدِ ٱللَّهُ فَمَا لَهُۥ مِن مُّضِلٍّ ۗ أَلَيْسَ ٱللَّهُ بِعَزِيزٍۢ ذِى ٱنتِقَامٍۢ
 
-**39:38**  A phe gofynnit iddynt, “Pwy a greodd y nefoedd a'r ddaear?” dywedent, “Allah.” Dywed, “A welsoch chi'r rhai yr ydych yn gweddïo arnynt yn lle Allah? Pe bai Allah yn dymuno rhyw niwed i mi, a allant godi ei niwed? Ac pe bai'n dymuno bendith i mi, a allant atal ei drugaredd?” Dywed, “Y mae Allah yn ddigon i mi. Arno Ef y mae'r dibynnol yn dibynnu.”
+**39:38**  A phe gofynnit iddynt, "Pwy a greodd y nefoedd a'r ddaear?" dywedent, "Allah." Dywed, "A welsoch chi'r rhai yr ydych yn gweddïo arnynt yn lle Allah? Pe bai Allah yn dymuno rhyw niwed i mi, a allant godi ei niwed? Ac pe bai'n dymuno bendith i mi, a allant atal ei drugaredd?" Dywed, "Y mae Allah yn ddigon i mi. Arno Ef y mae'r dibynnol yn dibynnu."
 
 وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ ٱللَّهُ ۚ قُلْ أَفَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ إِنْ أَرَادَنِىَ ٱللَّهُ بِضُرٍّ هَلْ هُنَّ كَٰشِفَٰتُ ضُرِّهِۦٓ أَوْ أَرَادَنِى بِرَحْمَةٍ هَلْ هُنَّ مُمْسِكَٰتُ رَحْمَتِهِۦ ۚ قُلْ حَسْبِىَ ٱللَّهُ ۖ عَلَيْهِ يَتَوَكَّلُ ٱلْمُتَوَكِّلُونَ
 
-**39:39**  Dywed: “O fy mhobl, gweithiwch yn ôl eich gallu; a minnau hefyd. Yna byddwch yn gwybod.
+**39:39**  Dywed: "O fy mhobl, gweithiwch yn ôl eich gallu; a minnau hefyd. Yna byddwch yn gwybod.
 
 قُلْ يَٰقَوْمِ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنِّى عَٰمِلٌۭ ۖ فَسَوْفَ تَعْلَمُونَ
 
-**39:40**  Pwy a gaiff gosb warthus, ac ar bwy y disgyn poenyd parhaol.“
+**39:40**  Pwy a gaiff gosb warthus, ac ar bwy y disgyn poenyd parhaol."
 
 مَن يَأْتِيهِ عَذَابٌۭ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌۭ مُّقِيمٌ
 
@@ -17055,11 +17055,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا ۖ فَيُمْسِكُ ٱلَّتِى قَضَىٰ عَلَيْهَا ٱلْمَوْتَ وَيُرْسِلُ ٱلْأُخْرَىٰٓ إِلَىٰٓ أَجَلٍۢ مُّسَمًّى ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ
 
-**39:43**  Neu a ydynt wedi dewis eiriolwyr heblaw Allah? Dywed, “Hyd yn oed er nad oes ganddynt rym dros ddim, ac yn ddiffyg rheswm?”
+**39:43**  Neu a ydynt wedi dewis eiriolwyr heblaw Allah? Dywed, "Hyd yn oed er nad oes ganddynt rym dros ddim, ac yn ddiffyg rheswm?"
 
 أَمِ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ شُفَعَآءَ ۚ قُلْ أَوَلَوْ كَانُوا۟ لَا يَمْلِكُونَ شَيْـًۭٔا وَلَا يَعْقِلُونَ
 
-**39:44**  Dywed, “I Allah y mae pob eiriolaeth. Eiddo Ef yw teyrnas y nefoedd a'r ddaear. Yna ato Ef y dychwelir chi.”
+**39:44**  Dywed, "I Allah y mae pob eiriolaeth. Eiddo Ef yw teyrnas y nefoedd a'r ddaear. Yna ato Ef y dychwelir chi."
 
 قُل لِّلَّهِ ٱلشَّفَٰعَةُ جَمِيعًۭا ۖ لَّهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ ثُمَّ إِلَيْهِ تُرْجَعُونَ
 
@@ -17067,7 +17067,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَإِذَا ذُكِرَ ٱللَّهُ وَحْدَهُ ٱشْمَأَزَّتْ قُلُوبُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ ۖ وَإِذَا ذُكِرَ ٱلَّذِينَ مِن دُونِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ
 
-**39:46**  Dywed, “O Allah, Gychwynnwr y nefoedd a'r ddaear, Wybyddwr pob cyfrinach a datganiad. Ti a farni rhwng dy weision ynglŷn â'r hyn yr oeddent wedi anghytuno yn ei gylch.”
+**39:46**  Dywed, "O Allah, Gychwynnwr y nefoedd a'r ddaear, Wybyddwr pob cyfrinach a datganiad. Ti a farni rhwng dy weision ynglŷn â'r hyn yr oeddent wedi anghytuno yn ei gylch."
 
 قُلِ ٱللَّهُمَّ فَاطِرَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ عَٰلِمَ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ أَنتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِى مَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ
 
@@ -17079,7 +17079,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَبَدَا لَهُمْ سَيِّـَٔاتُ مَا كَسَبُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**39:49**  Pan gyffwrdd adfyd â'r bod dynol, y mae'n galw arnom Ni. Ond yna, pan ffafriwn ef â bendith oddi wrthym Ni, y mae'n dweud, “Yr wyf wedi cyrraedd hyn trwy rinwedd fy ngwybodaeth.” Fodd bynnag, prawf ydyw, ond nid yw'r rhan fwyaf ohonynt yn gwybod.
+**39:49**  Pan gyffwrdd adfyd â'r bod dynol, y mae'n galw arnom Ni. Ond yna, pan ffafriwn ef â bendith oddi wrthym Ni, y mae'n dweud, "Yr wyf wedi cyrraedd hyn trwy rinwedd fy ngwybodaeth." Fodd bynnag, prawf ydyw, ond nid yw'r rhan fwyaf ohonynt yn gwybod.
 
 فَإِذَا مَسَّ ٱلْإِنسَٰنَ ضُرٌّۭ دَعَانَا ثُمَّ إِذَا خَوَّلْنَٰهُ نِعْمَةًۭ مِّنَّا قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلْمٍۭ ۚ بَلْ هِىَ فِتْنَةٌۭ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 
@@ -17095,7 +17095,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 أَوَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يُؤْمِنُونَ
 
-**39:53**  Dywed, “O Fy ngweision sydd wedi troseddu yn erbyn eu hunain: peidiwch ag anobeithio o drugaredd Allah, oherwydd y mae Allah yn maddau pob pechod. Ef yn wir yw'r Maddeuwr, y Trugarog.”
+**39:53**  Dywed, "O Fy ngweision sydd wedi troseddu yn erbyn eu hunain: peidiwch ag anobeithio o drugaredd Allah, oherwydd y mae Allah yn maddau pob pechod. Ef yn wir yw'r Maddeuwr, y Trugarog."
 
 ۞ قُلْ يَٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
@@ -17107,15 +17107,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَٱتَّبِعُوٓا۟ أَحْسَنَ مَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُم مِّن قَبْلِ أَن يَأْتِيَكُمُ ٱلْعَذَابُ بَغْتَةًۭ وَأَنتُمْ لَا تَشْعُرُونَ
 
-**39:56**  Fel na ddywed enaid, “Mor flin gennyf, am esgeuluso fy nyletswydd i Allah, ac am fod yn un o'r gwatwarwyr.”
+**39:56**  Fel na ddywed enaid, "Mor flin gennyf, am esgeuluso fy nyletswydd i Allah, ac am fod yn un o'r gwatwarwyr."
 
 أَن تَقُولَ نَفْسٌۭ يَٰحَسْرَتَىٰ عَلَىٰ مَا فَرَّطتُ فِى جَنۢبِ ٱللَّهِ وَإِن كُنتُ لَمِنَ ٱلسَّٰخِرِينَ
 
-**39:57**  Neu ddywedyd, “Pe bai Allah wedi fy nhywys; byddwn wedi bod yn un o'r duwiol.”
+**39:57**  Neu ddywedyd, "Pe bai Allah wedi fy nhywys; byddwn wedi bod yn un o'r duwiol."
 
 أَوْ تَقُولَ لَوْ أَنَّ ٱللَّهَ هَدَىٰنِى لَكُنتُ مِنَ ٱلْمُتَّقِينَ
 
-**39:58**  Neu ddywedyd, pan welo'r gosb, “Pe bai gennyf gyfle arall, byddwn yn un o'r rhinweddol.”
+**39:58**  Neu ddywedyd, pan welo'r gosb, "Pe bai gennyf gyfle arall, byddwn yn un o'r rhinweddol."
 
 أَوْ تَقُولَ حِينَ تَرَى ٱلْعَذَابَ لَوْ أَنَّ لِى كَرَّةًۭ فَأَكُونَ مِنَ ٱلْمُحْسِنِينَ
 
@@ -17139,7 +17139,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 لَّهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِ ٱللَّهِ أُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ
 
-**39:64**  Dywed, “Ai heblaw Allah yr ydych yn fy nghyfarwyddo i'w addoli, chi'r anwybodus?”
+**39:64**  Dywed, "Ai heblaw Allah yr ydych yn fy nghyfarwyddo i'w addoli, chi'r anwybodus?"
 
 قُلْ أَفَغَيْرَ ٱللَّهِ تَأْمُرُوٓنِّىٓ أَعْبُدُ أَيُّهَا ٱلْجَٰهِلُونَ
 
@@ -17167,23 +17167,23 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَوُفِّيَتْ كُلُّ نَفْسٍۢ مَّا عَمِلَتْ وَهُوَ أَعْلَمُ بِمَا يَفْعَلُونَ
 
-**39:71**  Gyrir y rhai a anghredodd i Uffern mewn mintai. Hyd nes, pan gyrhaeddant hi, a'i gatiau ar agor, y bydd ei cheidwaid yn dweud wrthynt, “Oni ddaeth cenhadon o'ch plith atoch, yn adrodd i chi ddatguddiadau eich Arglwydd, ac yn eich rhybuddio am gyfarfod y Dydd hwn ohonoch?” Dywedant, “Do, ond y mae dedfryd cosb wedi'i chyfiawnhau yn erbyn yr anghredinwyr.”
+**39:71**  Gyrir y rhai a anghredodd i Uffern mewn mintai. Hyd nes, pan gyrhaeddant hi, a'i gatiau ar agor, y bydd ei cheidwaid yn dweud wrthynt, "Oni ddaeth cenhadon o'ch plith atoch, yn adrodd i chi ddatguddiadau eich Arglwydd, ac yn eich rhybuddio am gyfarfod y Dydd hwn ohonoch?" Dywedant, "Do, ond y mae dedfryd cosb wedi'i chyfiawnhau yn erbyn yr anghredinwyr."
 
 وَسِيقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ جَهَنَّمَ زُمَرًا ۖ حَتَّىٰٓ إِذَا جَآءُوهَا فُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ رُسُلٌۭ مِّنكُمْ يَتْلُونَ عَلَيْكُمْ ءَايَٰتِ رَبِّكُمْ وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا ۚ قَالُوا۟ بَلَىٰ وَلَٰكِنْ حَقَّتْ كَلِمَةُ ٱلْعَذَابِ عَلَى ٱلْكَٰفِرِينَ
 
-**39:72**  Dywedir, “Ewch i mewn trwy gatiau Uffern, i aros ynddi'n dragwyddol.” Mor druenus yw cyrchfan y balch.
+**39:72**  Dywedir, "Ewch i mewn trwy gatiau Uffern, i aros ynddi'n dragwyddol." Mor druenus yw cyrchfan y balch.
 
 قِيلَ ٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَٰلِدِينَ فِيهَا ۖ فَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ
 
-**39:73**  A bydd y rhai a ofnodd eu Harglwydd yn cael eu harwain i Baradwys mewn mintai. Hyd nes, pan gyrhaeddant hi, a'i gatiau ar agor, y bydd ei cheidwaid yn dweud wrthynt, “Tangnefedd arnoch, yr ydych wedi bod yn dda, felly ewch i mewn iddi, i aros ynddi'n dragwyddol.”
+**39:73**  A bydd y rhai a ofnodd eu Harglwydd yn cael eu harwain i Baradwys mewn mintai. Hyd nes, pan gyrhaeddant hi, a'i gatiau ar agor, y bydd ei cheidwaid yn dweud wrthynt, "Tangnefedd arnoch, yr ydych wedi bod yn dda, felly ewch i mewn iddi, i aros ynddi'n dragwyddol."
 
 وَسِيقَ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ إِلَى ٱلْجَنَّةِ زُمَرًا ۖ حَتَّىٰٓ إِذَا جَآءُوهَا وَفُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَا سَلَٰمٌ عَلَيْكُمْ طِبْتُمْ فَٱدْخُلُوهَا خَٰلِدِينَ
 
-**39:74**  A dywedant, “Moliant i Allah, sydd wedi cyflawni ei addewid i ni, ac wedi ein gwneud i etifeddu'r tir, gan fwynhau Paradwys fel y mynnwn.” Mor rhagorol yw gwobr y gweithwyr.
+**39:74**  A dywedant, "Moliant i Allah, sydd wedi cyflawni ei addewid i ni, ac wedi ein gwneud i etifeddu'r tir, gan fwynhau Paradwys fel y mynnwn." Mor rhagorol yw gwobr y gweithwyr.
 
 وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى صَدَقَنَا وَعْدَهُۥ وَأَوْرَثَنَا ٱلْأَرْضَ نَتَبَوَّأُ مِنَ ٱلْجَنَّةِ حَيْثُ نَشَآءُ ۖ فَنِعْمَ أَجْرُ ٱلْعَٰمِلِينَ
 
-**39:75**  A gweli'r angylion yn hofran o amgylch yr Orsedd, yn gogoneddu eu Harglwydd â moliant. A bernir rhyngddynt yn deg, a dywedir, “Moliant i Allah, Arglwydd y Bydoedd.”
+**39:75**  A gweli'r angylion yn hofran o amgylch yr Orsedd, yn gogoneddu eu Harglwydd â moliant. A bernir rhyngddynt yn deg, a dywedir, "Moliant i Allah, Arglwydd y Bydoedd."
 
 وَتَرَى ٱلْمَلَٰٓئِكَةَ حَآفِّينَ مِنْ حَوْلِ ٱلْعَرْشِ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ ۖ وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَقِيلَ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
@@ -17224,7 +17224,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَكَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ كَفَرُوٓا۟ أَنَّهُمْ أَصْحَٰبُ ٱلنَّارِ
 
-**40:7**  Y rhai sy'n cario'r Orsedd, a'r rhai o'i chwmpas, yn gogoneddu eu Harglwydd â moliant, ac yn credu ynddo, ac yn gofyn am faddeuant i'r rhai sy'n credu: “Ein Harglwydd, yr wyt wedi amgylchynu popeth mewn trugaredd a gwybodaeth; felly maddau i'r rhai sy'n edifarhau ac yn dilyn Dy lwybr, a gwarchod nhw rhag ing y Fflam.
+**40:7**  Y rhai sy'n cario'r Orsedd, a'r rhai o'i chwmpas, yn gogoneddu eu Harglwydd â moliant, ac yn credu ynddo, ac yn gofyn am faddeuant i'r rhai sy'n credu: "Ein Harglwydd, yr wyt wedi amgylchynu popeth mewn trugaredd a gwybodaeth; felly maddau i'r rhai sy'n edifarhau ac yn dilyn Dy lwybr, a gwarchod nhw rhag ing y Fflam.
 
 ٱلَّذِينَ يَحْمِلُونَ ٱلْعَرْشَ وَمَنْ حَوْلَهُۥ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِۦ وَيَسْتَغْفِرُونَ لِلَّذِينَ ءَامَنُوا۟ رَبَّنَا وَسِعْتَ كُلَّ شَىْءٍۢ رَّحْمَةًۭ وَعِلْمًۭا فَٱغْفِرْ لِلَّذِينَ تَابُوا۟ وَٱتَّبَعُوا۟ سَبِيلَكَ وَقِهِمْ عَذَابَ ٱلْجَحِيمِ
 
@@ -17232,15 +17232,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 رَبَّنَا وَأَدْخِلْهُمْ جَنَّٰتِ عَدْنٍ ٱلَّتِى وَعَدتَّهُمْ وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّٰتِهِمْ ۚ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**40:9**  A gwarchod nhw rhag y gweithredoedd drwg. Pwy bynnag yr wyt yn ei warchod rhag y gweithredoedd drwg, ar y Dydd hwnnw, yr wyt wedi trugarhau wrtho. Dyna'r gamp eithaf.“
+**40:9**  A gwarchod nhw rhag y gweithredoedd drwg. Pwy bynnag yr wyt yn ei warchod rhag y gweithredoedd drwg, ar y Dydd hwnnw, yr wyt wedi trugarhau wrtho. Dyna'r gamp eithaf."
 
 وَقِهِمُ ٱلسَّيِّـَٔاتِ ۚ وَمَن تَقِ ٱلسَّيِّـَٔاتِ يَوْمَئِذٍۢ فَقَدْ رَحِمْتَهُۥ ۚ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
-**40:10**  Bydd y rhai a anghredodd yn cael eu cyfarch, “Y mae ffieidd-dod Allah yn fwy na'ch ffieidd-dod chi ohonoch eich hunain — oherwydd fe'ch gwahoddwyd i'r ffydd, ond gwrthodasoch.”
+**40:10**  Bydd y rhai a anghredodd yn cael eu cyfarch, "Y mae ffieidd-dod Allah yn fwy na'ch ffieidd-dod chi ohonoch eich hunain — oherwydd fe'ch gwahoddwyd i'r ffydd, ond gwrthodasoch."
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ يُنَادَوْنَ لَمَقْتُ ٱللَّهِ أَكْبَرُ مِن مَّقْتِكُمْ أَنفُسَكُمْ إِذْ تُدْعَوْنَ إِلَى ٱلْإِيمَٰنِ فَتَكْفُرُونَ
 
-**40:11**  Dywedant, “Ein Harglwydd, gwnaethost i ni farw ddwywaith, a dwywaith rhoist fywyd i ni. Yn awr yr ydym yn cydnabod ein pechodau. A oes unrhyw ffordd allan?”
+**40:11**  Dywedant, "Ein Harglwydd, gwnaethost i ni farw ddwywaith, a dwywaith rhoist fywyd i ni. Yn awr yr ydym yn cydnabod ein pechodau. A oes unrhyw ffordd allan?"
 
 قَالُوا۟ رَبَّنَآ أَمَتَّنَا ٱثْنَتَيْنِ وَأَحْيَيْتَنَا ٱثْنَتَيْنِ فَٱعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَىٰ خُرُوجٍۢ مِّن سَبِيلٍۢ
 
@@ -17260,7 +17260,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 رَفِيعُ ٱلدَّرَجَٰتِ ذُو ٱلْعَرْشِ يُلْقِى ٱلرُّوحَ مِنْ أَمْرِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ لِيُنذِرَ يَوْمَ ٱلتَّلَاقِ
 
-**40:16**  Y Dydd pan ddeuant allan, ni chelir dim amdanynt oddi wrth Allah. “I bwy y mae'r sofraniaeth heddiw?” “I Allah, yr Un, yr Anorchfygol.”
+**40:16**  Y Dydd pan ddeuant allan, ni chelir dim amdanynt oddi wrth Allah. "I bwy y mae'r sofraniaeth heddiw?" "I Allah, yr Un, yr Anorchfygol."
 
 يَوْمَ هُم بَٰرِزُونَ ۖ لَا يَخْفَىٰ عَلَى ٱللَّهِ مِنْهُمْ شَىْءٌۭ ۚ لِّمَنِ ٱلْمُلْكُ ٱلْيَوْمَ ۖ لِلَّهِ ٱلْوَٰحِدِ ٱلْقَهَّارِ
 
@@ -17292,31 +17292,31 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَا وَسُلْطَٰنٍۢ مُّبِينٍ
 
-**40:24**  At Ffaro, Haman, a Corach. Ond dywedasant, “Dewin celwyddog.”
+**40:24**  At Ffaro, Haman, a Corach. Ond dywedasant, "Dewin celwyddog."
 
 إِلَىٰ فِرْعَوْنَ وَهَٰمَٰنَ وَقَٰرُونَ فَقَالُوا۟ سَٰحِرٌۭ كَذَّابٌۭ
 
-**40:25**  Yna, pan ddaeth atynt gyda'r gwirionedd oddi wrthym Ni, dywedasant, “Lladdwch feibion y rhai sydd wedi credu gydag ef, ac arbedwch eu merched.” Ond ni all cynllwyn yr anghredinwyr ond mynd ar gyfeiliorn.
+**40:25**  Yna, pan ddaeth atynt gyda'r gwirionedd oddi wrthym Ni, dywedasant, "Lladdwch feibion y rhai sydd wedi credu gydag ef, ac arbedwch eu merched." Ond ni all cynllwyn yr anghredinwyr ond mynd ar gyfeiliorn.
 
 فَلَمَّا جَآءَهُم بِٱلْحَقِّ مِنْ عِندِنَا قَالُوا۟ ٱقْتُلُوٓا۟ أَبْنَآءَ ٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ وَٱسْتَحْيُوا۟ نِسَآءَهُمْ ۚ وَمَا كَيْدُ ٱلْكَٰفِرِينَ إِلَّا فِى ضَلَٰلٍۢ
 
-**40:26**  Dywedodd Ffaro, “Gadewch i mi ladd Moses, a gadewch iddo apelio at ei Arglwydd. Yr wyf yn ofni y gall newid eich crefydd, neu ledaenu anrhefn yn y tir.”
+**40:26**  Dywedodd Ffaro, "Gadewch i mi ladd Moses, a gadewch iddo apelio at ei Arglwydd. Yr wyf yn ofni y gall newid eich crefydd, neu ledaenu anrhefn yn y tir."
 
 وَقَالَ فِرْعَوْنُ ذَرُونِىٓ أَقْتُلْ مُوسَىٰ وَلْيَدْعُ رَبَّهُۥٓ ۖ إِنِّىٓ أَخَافُ أَن يُبَدِّلَ دِينَكُمْ أَوْ أَن يُظْهِرَ فِى ٱلْأَرْضِ ٱلْفَسَادَ
 
-**40:27**  Dywedodd Moses, “Yr wyf wedi ceisio nawdd fy Arglwydd a'ch Arglwydd chi, rhag pob gormeswr nad yw'n credu yn Nydd y Cyfrif.”
+**40:27**  Dywedodd Moses, "Yr wyf wedi ceisio nawdd fy Arglwydd a'ch Arglwydd chi, rhag pob gormeswr nad yw'n credu yn Nydd y Cyfrif."
 
 وَقَالَ مُوسَىٰٓ إِنِّى عُذْتُ بِرَبِّى وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرٍۢ لَّا يُؤْمِنُ بِيَوْمِ ٱلْحِسَابِ
 
-**40:28**  Dywedodd dyn crediniol o deulu Ffaro, a oedd wedi cuddio ei ffydd, “A ydych am ladd dyn am ddweud, 'Fy Arglwydd yw Allah,' ac y mae wedi dwyn i chi brofion eglur oddi wrth eich Arglwydd? Os yw'n gelwyddwr, bydd ei gelwydd yn adlamu arno; ond os yw'n wirioneddol, yna bydd rhywfaint o'r hyn y mae'n ei addo i chi yn eich cyrraedd. Nid yw Allah yn tywys y ffugiwr afradlon.
+**40:28**  Dywedodd dyn crediniol o deulu Ffaro, a oedd wedi cuddio ei ffydd, "A ydych am ladd dyn am ddweud, 'Fy Arglwydd yw Allah,' ac y mae wedi dwyn i chi brofion eglur oddi wrth eich Arglwydd? Os yw'n gelwyddwr, bydd ei gelwydd yn adlamu arno; ond os yw'n wirioneddol, yna bydd rhywfaint o'r hyn y mae'n ei addo i chi yn eich cyrraedd. Nid yw Allah yn tywys y ffugiwr afradlon.
 
 وَقَالَ رَجُلٌۭ مُّؤْمِنٌۭ مِّنْ ءَالِ فِرْعَوْنَ يَكْتُمُ إِيمَٰنَهُۥٓ أَتَقْتُلُونَ رَجُلًا أَن يَقُولَ رَبِّىَ ٱللَّهُ وَقَدْ جَآءَكُم بِٱلْبَيِّنَٰتِ مِن رَّبِّكُمْ ۖ وَإِن يَكُ كَٰذِبًۭا فَعَلَيْهِ كَذِبُهُۥ ۖ وَإِن يَكُ صَادِقًۭا يُصِبْكُم بَعْضُ ٱلَّذِى يَعِدُكُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ مُسْرِفٌۭ كَذَّابٌۭ
 
-**40:29**  O fy mhobl! Eich eiddo chi yw'r arglwyddiaeth heddiw, yn oruchaf yn y tir; ond pwy a'n helpa yn erbyn gallu Allah, pe bai'n disgyn arnom?“ Dywedodd Ffaro, ”Nid wyf yn dangos i chi ond yr hyn a welaf, ac nid wyf yn eich tywys ond i lwybr doethineb.“
+**40:29**  O fy mhobl! Eich eiddo chi yw'r arglwyddiaeth heddiw, yn oruchaf yn y tir; ond pwy a'n helpa yn erbyn gallu Allah, pe bai'n disgyn arnom?" Dywedodd Ffaro, "Nid wyf yn dangos i chi ond yr hyn a welaf, ac nid wyf yn eich tywys ond i lwybr doethineb."
 
 يَٰقَوْمِ لَكُمُ ٱلْمُلْكُ ٱلْيَوْمَ ظَٰهِرِينَ فِى ٱلْأَرْضِ فَمَن يَنصُرُنَا مِنۢ بَأْسِ ٱللَّهِ إِن جَآءَنَا ۚ قَالَ فِرْعَوْنُ مَآ أُرِيكُمْ إِلَّا مَآ أَرَىٰ وَمَآ أَهْدِيكُمْ إِلَّا سَبِيلَ ٱلرَّشَادِ
 
-**40:30**  Dywedodd yr un a oedd wedi credu, “O fy mhobl, yr wyf yn ofni i chi y cyffelyb i ddydd y cynghreiriaid.
+**40:30**  Dywedodd yr un a oedd wedi credu, "O fy mhobl, yr wyf yn ofni i chi y cyffelyb i ddydd y cynghreiriaid.
 
 وَقَالَ ٱلَّذِىٓ ءَامَنَ يَٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُم مِّثْلَ يَوْمِ ٱلْأَحْزَابِ
 
@@ -17328,11 +17328,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَيَٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُمْ يَوْمَ ٱلتَّنَادِ
 
-**40:33**  Y Dydd pan fyddwch yn troi ac yn ffoi, heb amddiffynnwr yn erbyn Allah. Nid oes tywysydd i bwy bynnag y mae Allah yn ei gamdywys.“
+**40:33**  Y Dydd pan fyddwch yn troi ac yn ffoi, heb amddiffynnwr yn erbyn Allah. Nid oes tywysydd i bwy bynnag y mae Allah yn ei gamdywys."
 
 يَوْمَ تُوَلُّونَ مُدْبِرِينَ مَا لَكُم مِّنَ ٱللَّهِ مِنْ عَاصِمٍۢ ۗ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍۢ
 
-**40:34**  Yr oedd Joseff wedi dod atoch â datguddiadau eglur, ond parhasoch i amau'r hyn a ddaeth atoch ag ef. Hyd nes, pan ddarfuddodd, y dywedasoch, “Ni anfon Allah byth genhadwr ar ei ôl.” Felly y mae Allah yn arwain ar gyfeiliorn yr amheuwr afradlon.
+**40:34**  Yr oedd Joseff wedi dod atoch â datguddiadau eglur, ond parhasoch i amau'r hyn a ddaeth atoch ag ef. Hyd nes, pan ddarfuddodd, y dywedasoch, "Ni anfon Allah byth genhadwr ar ei ôl." Felly y mae Allah yn arwain ar gyfeiliorn yr amheuwr afradlon.
 
 وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ
 
@@ -17340,19 +17340,19 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ٱلَّذِينَ يُجَٰدِلُونَ فِىٓ ءَايَٰتِ ٱللَّهِ بِغَيْرِ سُلْطَٰنٍ أَتَىٰهُمْ ۖ كَبُرَ مَقْتًا عِندَ ٱللَّهِ وَعِندَ ٱلَّذِينَ ءَامَنُوا۟ ۚ كَذَٰلِكَ يَطْبَعُ ٱللَّهُ عَلَىٰ كُلِّ قَلْبِ مُتَكَبِّرٍۢ جَبَّارٍۢ
 
-**40:36**  A dywedodd Ffaro, “O Haman, adeilada i mi dwr, fel y gallaf gyrraedd y llwybrau.
+**40:36**  A dywedodd Ffaro, "O Haman, adeilada i mi dwr, fel y gallaf gyrraedd y llwybrau.
 
 وَقَالَ فِرْعَوْنُ يَٰهَٰمَٰنُ ٱبْنِ لِى صَرْحًۭا لَّعَلِّىٓ أَبْلُغُ ٱلْأَسْبَٰبَ
 
-**40:37**  Llwybrau'r nefoedd, fel y gallaf gael cip ar Allah Moses; er fy mod yn meddwl ei fod yn dweud celwydd.“ Felly gwnaed gweithredoedd drwg Ffaro i ymddangos yn dda iddo, a throdd ymaith oddi wrth y llwybr. Nid oedd twyll Ffaro ond mewn trechiad.
+**40:37**  Llwybrau'r nefoedd, fel y gallaf gael cip ar Allah Moses; er fy mod yn meddwl ei fod yn dweud celwydd." Felly gwnaed gweithredoedd drwg Ffaro i ymddangos yn dda iddo, a throdd ymaith oddi wrth y llwybr. Nid oedd twyll Ffaro ond mewn trechiad.
 
 أَسْبَٰبَ ٱلسَّمَٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ
 
-**40:38**  Dywedodd yr un a oedd wedi credu, “O fy mhobl, dilynwch fi, a mi a'ch tywys i lwybr uniondeb.”
+**40:38**  Dywedodd yr un a oedd wedi credu, "O fy mhobl, dilynwch fi, a mi a'ch tywys i lwybr uniondeb."
 
 وَقَالَ ٱلَّذِىٓ ءَامَنَ يَٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ
 
-**40:39**  “O fy mhobl, nid yw bywyd y byd hwn yn ddim ond mwynhad diflanedig, ond yr Oes Ddiwethaf yw Cartref Parhad.
+**40:39**  "O fy mhobl, nid yw bywyd y byd hwn yn ddim ond mwynhad diflanedig, ond yr Oes Ddiwethaf yw Cartref Parhad.
 
 يَٰقَوْمِ إِنَّمَا هَٰذِهِ ٱلْحَيَوٰةُ ٱلدُّنْيَا مَتَٰعٌۭ وَإِنَّ ٱلْءَاخِرَةَ هِىَ دَارُ ٱلْقَرَارِ
 
@@ -17372,7 +17372,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 لَا جَرَمَ أَنَّمَا تَدْعُونَنِىٓ إِلَيْهِ لَيْسَ لَهُۥ دَعْوَةٌۭ فِى ٱلدُّنْيَا وَلَا فِى ٱلْءَاخِرَةِ وَأَنَّ مَرَدَّنَآ إِلَى ٱللَّهِ وَأَنَّ ٱلْمُسْرِفِينَ هُمْ أَصْحَٰبُ ٱلنَّارِ
 
-**40:44**  Byddwch yn cofio'r hyn yr wyf yn ei ddweud wrthych, felly yr wyf yn ymrwymo fy achos i Allah. Y mae Allah yn Arsyllwr y gweision.“
+**40:44**  Byddwch yn cofio'r hyn yr wyf yn ei ddweud wrthych, felly yr wyf yn ymrwymo fy achos i Allah. Y mae Allah yn Arsyllwr y gweision."
 
 فَسَتَذْكُرُونَ مَآ أَقُولُ لَكُمْ ۚ وَأُفَوِّضُ أَمْرِىٓ إِلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ بَصِيرٌۢ بِٱلْعِبَادِ
 
@@ -17380,23 +17380,23 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ
 
-**40:46**  Y Tân. Cânt eu hamlygu iddo fore a hwyr. Ac ar y Dydd y cymer yr Awr le: “Derbyniwch deulu Ffaro i'r ing mwyaf dwys.”
+**40:46**  Y Tân. Cânt eu hamlygu iddo fore a hwyr. Ac ar y Dydd y cymer yr Awr le: "Derbyniwch deulu Ffaro i'r ing mwyaf dwys."
 
 ٱلنَّارُ يُعْرَضُونَ عَلَيْهَا غُدُوًّۭا وَعَشِيًّۭا ۖ وَيَوْمَ تَقُومُ ٱلسَّاعَةُ أَدْخِلُوٓا۟ ءَالَ فِرْعَوْنَ أَشَدَّ ٱلْعَذَابِ
 
-**40:47**  Wrth iddynt ymryson yn y Tân, bydd y gwan yn dweud wrth y rhai a oedd yn falch, “Yr oeddem yn ddilynwyr i chi; a arbedwch chi ran o'r Tân i ni?”
+**40:47**  Wrth iddynt ymryson yn y Tân, bydd y gwan yn dweud wrth y rhai a oedd yn falch, "Yr oeddem yn ddilynwyr i chi; a arbedwch chi ran o'r Tân i ni?"
 
 وَإِذْ يَتَحَآجُّونَ فِى ٱلنَّارِ فَيَقُولُ ٱلضُّعَفَٰٓؤُا۟ لِلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُنَّا لَكُمْ تَبَعًۭا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا نَصِيبًۭا مِّنَ ٱلنَّارِ
 
-**40:48**  Bydd y rhai a oedd yn falch yn dweud, “Yr ydym i gyd ynddo; y mae Allah wedi barnu rhwng y gweision.”
+**40:48**  Bydd y rhai a oedd yn falch yn dweud, "Yr ydym i gyd ynddo; y mae Allah wedi barnu rhwng y gweision."
 
 قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُلٌّۭ فِيهَآ إِنَّ ٱللَّهَ قَدْ حَكَمَ بَيْنَ ٱلْعِبَادِ
 
-**40:49**  A bydd y rhai yn y Tân yn dweud wrth geidwaid Uffern, “Galwch ar eich Arglwydd i leddfu ein dioddefaint am un diwrnod.”
+**40:49**  A bydd y rhai yn y Tân yn dweud wrth geidwaid Uffern, "Galwch ar eich Arglwydd i leddfu ein dioddefaint am un diwrnod."
 
 وَقَالَ ٱلَّذِينَ فِى ٱلنَّارِ لِخَزَنَةِ جَهَنَّمَ ٱدْعُوا۟ رَبَّكُمْ يُخَفِّفْ عَنَّا يَوْمًۭا مِّنَ ٱلْعَذَابِ
 
-**40:50**  Dywedant, “Oni ddaeth eich cenhadon atoch ag arwyddion eglur?” Dywedant, “Do.” Dywedant, “Yna gweddïwch, ond bydd gweddïau'r anghredinwyr bob amser yn ofer.”
+**40:50**  Dywedant, "Oni ddaeth eich cenhadon atoch ag arwyddion eglur?" Dywedant, "Do." Dywedant, "Yna gweddïwch, ond bydd gweddïau'r anghredinwyr bob amser yn ofer."
 
 قَالُوٓا۟ أَوَلَمْ تَكُ تَأْتِيكُمْ رُسُلُكُم بِٱلْبَيِّنَٰتِ ۖ قَالُوا۟ بَلَىٰ ۚ قَالُوا۟ فَٱدْعُوا۟ ۗ وَمَا دُعَٰٓؤُا۟ ٱلْكَٰفِرِينَ إِلَّا فِى ضَلَٰلٍ
 
@@ -17436,7 +17436,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِنَّ ٱلسَّاعَةَ لَءَاتِيَةٌۭ لَّا رَيْبَ فِيهَا وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ
 
-**40:60**  Y mae dy Arglwydd wedi dweud, “Gweddïwch arnaf Fi, a mi a atebaf chi. Ond bydd y rhai sy'n rhy falch i'm haddoli yn mynd i mewn i Uffern yn orfodol.”
+**40:60**  Y mae dy Arglwydd wedi dweud, "Gweddïwch arnaf Fi, a mi a atebaf chi. Ond bydd y rhai sy'n rhy falch i'm haddoli yn mynd i mewn i Uffern yn orfodol."
 
 وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 
@@ -17460,7 +17460,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 هُوَ ٱلْحَىُّ لَآ إِلَٰهَ إِلَّا هُوَ فَٱدْعُوهُ مُخْلِصِينَ لَهُ ٱلدِّينَ ۗ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
-**40:66**  Dywed, “Gwaherddwyd i mi addoli'r rhai yr ydych yn galw arnynt heblaw Allah, yn awr y mae datguddiadau eglur wedi dod ataf oddi wrth fy Arglwydd; a gorchmynnwyd i mi ymostwng i Arglwydd y Bydoedd.”
+**40:66**  Dywed, "Gwaherddwyd i mi addoli'r rhai yr ydych yn galw arnynt heblaw Allah, yn awr y mae datguddiadau eglur wedi dod ataf oddi wrth fy Arglwydd; a gorchmynnwyd i mi ymostwng i Arglwydd y Bydoedd."
 
 ۞ قُلْ إِنِّى نُهِيتُ أَنْ أَعْبُدَ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ لَمَّا جَآءَنِىَ ٱلْبَيِّنَٰتُ مِن رَّبِّى وَأُمِرْتُ أَنْ أُسْلِمَ لِرَبِّ ٱلْعَٰلَمِينَ
 
@@ -17468,7 +17468,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 هُوَ ٱلَّذِى خَلَقَكُم مِّن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ مِنْ عَلَقَةٍۢ ثُمَّ يُخْرِجُكُمْ طِفْلًۭا ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ ثُمَّ لِتَكُونُوا۟ شُيُوخًۭا ۚ وَمِنكُم مَّن يُتَوَفَّىٰ مِن قَبْلُ ۖ وَلِتَبْلُغُوٓا۟ أَجَلًۭا مُّسَمًّۭى وَلَعَلَّكُمْ تَعْقِلُونَ
 
-**40:68**  Ef yw'r Hwn sy'n rhoi bywyd a marwolaeth; a phan benderfyna ar beth, nid yw ond yn dweud wrtho, “Bydd,” ac y mae'n dod i fod.
+**40:68**  Ef yw'r Hwn sy'n rhoi bywyd a marwolaeth; a phan benderfyna ar beth, nid yw ond yn dweud wrtho, "Bydd," ac y mae'n dod i fod.
 
 هُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ ۖ فَإِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 
@@ -17488,11 +17488,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فِى ٱلْحَمِيمِ ثُمَّ فِى ٱلنَّارِ يُسْجَرُونَ
 
-**40:73**  Yna dywedir wrthynt, “Ble mae'r rhai yr arferch eu duwio?
+**40:73**  Yna dywedir wrthynt, "Ble mae'r rhai yr arferch eu duwio?
 
 ثُمَّ قِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تُشْرِكُونَ
 
-**40:74**  Yn lle Allah?“ Dywedant, ”Y maent wedi ein gadael. Yn wir, nid oeddem yn gweddïo ar ddim o'r blaen.“ Felly y mae Allah yn anfon yr anghredinwyr ar gyfeiliorn.
+**40:74**  Yn lle Allah?" Dywedant, "Y maent wedi ein gadael. Yn wir, nid oeddem yn gweddïo ar ddim o'r blaen." Felly y mae Allah yn anfon yr anghredinwyr ar gyfeiliorn.
 
 مِن دُونِ ٱللَّهِ ۖ قَالُوا۟ ضَلُّوا۟ عَنَّا بَل لَّمْ نَكُن نَّدْعُوا۟ مِن قَبْلُ شَيْـًۭٔا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ ٱلْكَٰفِرِينَ
 
@@ -17532,7 +17532,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَلَمَّا جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَرِحُوا۟ بِمَا عِندَهُم مِّنَ ٱلْعِلْمِ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**40:84**  Yna, pan welsant Ein gallu, dywedasant, “Yr ydym yn credu yn Allah yn unig, ac yr ydym yn gwrthod yr hyn yr arferem ei gysylltu ag Ef.”
+**40:84**  Yna, pan welsant Ein gallu, dywedasant, "Yr ydym yn credu yn Allah yn unig, ac yr ydym yn gwrthod yr hyn yr arferem ei gysylltu ag Ef."
 
 فَلَمَّا رَأَوْا۟ بَأْسَنَا قَالُوٓا۟ ءَامَنَّا بِٱللَّهِ وَحْدَهُۥ وَكَفَرْنَا بِمَا كُنَّا بِهِۦ مُشْرِكِينَ
 
@@ -17547,7 +17547,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 **فُصِّلَت** · Fussilat · Mecaidd · 54 adnod
 
-*Yr Eglurhad: arwyddion wedi’u hegluro, a phobl a ddywedodd fod ein calonnau dan orchuddion.*
+*Yr Eglurhad: arwyddion wedi'u hegluro, a phobl a ddywedodd fod ein calonnau dan orchuddion.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -17569,11 +17569,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 بَشِيرًۭا وَنَذِيرًۭا فَأَعْرَضَ أَكْثَرُهُمْ فَهُمْ لَا يَسْمَعُونَ
 
-**41:5**  A dywedant, “Y mae ein calonnau wedi'u sgrinio rhag yr hyn yr wyt yn ein galw ato, ac yn ein clustiau y mae byddardod, a rhyngom ni a thi y mae rhwystr. Felly gwna'r hyn a fynni, a minnau a wnawn.”
+**41:5**  A dywedant, "Y mae ein calonnau wedi'u sgrinio rhag yr hyn yr wyt yn ein galw ato, ac yn ein clustiau y mae byddardod, a rhyngom ni a thi y mae rhwystr. Felly gwna'r hyn a fynni, a minnau a wnawn."
 
 وَقَالُوا۟ قُلُوبُنَا فِىٓ أَكِنَّةٍۢ مِّمَّا تَدْعُونَآ إِلَيْهِ وَفِىٓ ءَاذَانِنَا وَقْرٌۭ وَمِنۢ بَيْنِنَا وَبَيْنِكَ حِجَابٌۭ فَٱعْمَلْ إِنَّنَا عَٰمِلُونَ
 
-**41:6**  Dywed, “Nid wyf ond dyn fel chi; y mae wedi'i ysbrydoli ynof fod eich Allah yn un Allah. Felly byddwch union tuag ato, a cheisiwch faddeuant ganddo.” A gwae'r eilunaddolwyr.
+**41:6**  Dywed, "Nid wyf ond dyn fel chi; y mae wedi'i ysbrydoli ynof fod eich Allah yn un Allah. Felly byddwch union tuag ato, a cheisiwch faddeuant ganddo." A gwae'r eilunaddolwyr.
 
 قُلْ إِنَّمَآ أَنَا۠ بَشَرٌۭ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَٰهُكُمْ إِلَٰهٌۭ وَٰحِدٌۭ فَٱسْتَقِيمُوٓا۟ إِلَيْهِ وَٱسْتَغْفِرُوهُ ۗ وَوَيْلٌۭ لِّلْمُشْرِكِينَ
 
@@ -17585,7 +17585,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۢ
 
-**41:9**  Dywed, “A ydych yn gwrthod yr Hwn a greodd y ddaear mewn deuddydd? Ac yr ydych yn priodoli cyfartal iddo? Dyna Arglwydd y Bydysawd.”
+**41:9**  Dywed, "A ydych yn gwrthod yr Hwn a greodd y ddaear mewn deuddydd? Ac yr ydych yn priodoli cyfartal iddo? Dyna Arglwydd y Bydysawd."
 
 ۞ قُلْ أَئِنَّكُمْ لَتَكْفُرُونَ بِٱلَّذِى خَلَقَ ٱلْأَرْضَ فِى يَوْمَيْنِ وَتَجْعَلُونَ لَهُۥٓ أَندَادًۭا ۚ ذَٰلِكَ رَبُّ ٱلْعَٰلَمِينَ
 
@@ -17593,7 +17593,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَجَعَلَ فِيهَا رَوَٰسِىَ مِن فَوْقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا فِىٓ أَرْبَعَةِ أَيَّامٍۢ سَوَآءًۭ لِّلسَّآئِلِينَ
 
-**41:11**  Yna trodd at yr awyr, ac yr oedd yn fwg, a dywedodd wrthi hi ac wrth y ddaear, “Dewch, yn fodlon neu'n anfodlon.” Dywedasant, “Yr ydym yn dod yn fodlon.”
+**41:11**  Yna trodd at yr awyr, ac yr oedd yn fwg, a dywedodd wrthi hi ac wrth y ddaear, "Dewch, yn fodlon neu'n anfodlon." Dywedasant, "Yr ydym yn dod yn fodlon."
 
 ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌۭ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا أَوْ كَرْهًۭا قَالَتَآ أَتَيْنَا طَآئِعِينَ
 
@@ -17601,15 +17601,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَقَضَىٰهُنَّ سَبْعَ سَمَٰوَاتٍۢ فِى يَوْمَيْنِ وَأَوْحَىٰ فِى كُلِّ سَمَآءٍ أَمْرَهَا ۚ وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَحِفْظًۭا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ
 
-**41:13**  Ond os troant ymaith, dywed, “Yr wyf wedi eich rhybuddio am fellten, fel mellten Aad a Thamud.”
+**41:13**  Ond os troant ymaith, dywed, "Yr wyf wedi eich rhybuddio am fellten, fel mellten Aad a Thamud."
 
 فَإِنْ أَعْرَضُوا۟ فَقُلْ أَنذَرْتُكُمْ صَٰعِقَةًۭ مِّثْلَ صَٰعِقَةِ عَادٍۢ وَثَمُودَ
 
-**41:14**  Daeth eu cenhadon atynt, o'u blaen ac o'u hôl, gan ddweud, “Peidiwch ag addoli neb ond Allah.” Dywedasant, “Pe bai ein Harglwydd wedi ewyllysio, byddai wedi anfon angylion i lawr; Felly, yr ydym yn gwrthod yr hyn yr ydych wedi'ch anfon ag ef.”
+**41:14**  Daeth eu cenhadon atynt, o'u blaen ac o'u hôl, gan ddweud, "Peidiwch ag addoli neb ond Allah." Dywedasant, "Pe bai ein Harglwydd wedi ewyllysio, byddai wedi anfon angylion i lawr; Felly, yr ydym yn gwrthod yr hyn yr ydych wedi'ch anfon ag ef."
 
 إِذْ جَآءَتْهُمُ ٱلرُّسُلُ مِنۢ بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ ۖ قَالُوا۟ لَوْ شَآءَ رَبُّنَا لَأَنزَلَ مَلَٰٓئِكَةًۭ فَإِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَٰفِرُونَ
 
-**41:15**  O ran Aad, troesant yn falch ar y ddaear, a gwrthwynebasant gyfiawnder, a dywedasant, “Pwy sy'n fwy nerthol na ni?” Oni ystyriasant fod Allah, a'u creodd, yn fwy nerthol na nhw? A pharhasant i wadu Ein datguddiadau.
+**41:15**  O ran Aad, troesant yn falch ar y ddaear, a gwrthwynebasant gyfiawnder, a dywedasant, "Pwy sy'n fwy nerthol na ni?" Oni ystyriasant fod Allah, a'u creodd, yn fwy nerthol na nhw? A pharhasant i wadu Ein datguddiadau.
 
 فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَٰتِنَا يَجْحَدُونَ
 
@@ -17633,7 +17633,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 حَتَّىٰٓ إِذَا مَا جَآءُوهَا شَهِدَ عَلَيْهِمْ سَمْعُهُمْ وَأَبْصَٰرُهُمْ وَجُلُودُهُم بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**41:21**  A dywedant wrth eu croenau, “Pam y tystioch yn ein herbyn?” Dywedant, “Allah, yr Hwn a wnaeth i bob peth lefaru, a wnaeth i ni lefaru. Ef yw'r Hwn a'ch creodd y tro cyntaf, ac ato Ef y dychwelir chi.”
+**41:21**  A dywedant wrth eu croenau, "Pam y tystioch yn ein herbyn?" Dywedant, "Allah, yr Hwn a wnaeth i bob peth lefaru, a wnaeth i ni lefaru. Ef yw'r Hwn a'ch creodd y tro cyntaf, ac ato Ef y dychwelir chi."
 
 وَقَالُوا۟ لِجُلُودِهِمْ لِمَ شَهِدتُّمْ عَلَيْنَا ۖ قَالُوٓا۟ أَنطَقَنَا ٱللَّهُ ٱلَّذِىٓ أَنطَقَ كُلَّ شَىْءٍۢ وَهُوَ خَلَقَكُمْ أَوَّلَ مَرَّةٍۢ وَإِلَيْهِ تُرْجَعُونَ
 
@@ -17653,7 +17653,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ۞ وَقَيَّضْنَا لَهُمْ قُرَنَآءَ فَزَيَّنُوا۟ لَهُم مَّا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَحَقَّ عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍۢ قَدْ خَلَتْ مِن قَبْلِهِم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ۖ إِنَّهُمْ كَانُوا۟ خَٰسِرِينَ
 
-**41:26**  Y mae'r rhai sy'n anghredu'n dweud, “Peidiwch â gwrando ar y Qur'an hwn, a siaradwch drosto, fel y gallech drechu.”
+**41:26**  Y mae'r rhai sy'n anghredu'n dweud, "Peidiwch â gwrando ar y Qur'an hwn, a siaradwch drosto, fel y gallech drechu."
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَا تَسْمَعُوا۟ لِهَٰذَا ٱلْقُرْءَانِ وَٱلْغَوْا۟ فِيهِ لَعَلَّكُمْ تَغْلِبُونَ
 
@@ -17665,11 +17665,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ذَٰلِكَ جَزَآءُ أَعْدَآءِ ٱللَّهِ ٱلنَّارُ ۖ لَهُمْ فِيهَا دَارُ ٱلْخُلْدِ ۖ جَزَآءًۢ بِمَا كَانُوا۟ بِـَٔايَٰتِنَا يَجْحَدُونَ
 
-**41:29**  Bydd y rhai a anghredodd yn dweud, “Ein Harglwydd, dangos i ni'r rhai a'n harweiniodd ar gyfeiliorn — ymhlith jinn a dynolryw — a byddwn yn eu sathru dan ein traed, fel y byddont ymhlith yr isaf.”
+**41:29**  Bydd y rhai a anghredodd yn dweud, "Ein Harglwydd, dangos i ni'r rhai a'n harweiniodd ar gyfeiliorn — ymhlith jinn a dynolryw — a byddwn yn eu sathru dan ein traed, fel y byddont ymhlith yr isaf."
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ رَبَّنَآ أَرِنَا ٱلَّذَيْنِ أَضَلَّانَا مِنَ ٱلْجِنِّ وَٱلْإِنسِ نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا لِيَكُونَا مِنَ ٱلْأَسْفَلِينَ
 
-**41:30**  Yn sicr, y rhai sy'n dweud: “Ein Harglwydd yw Allah,” ac yna'n mynd yn syth, bydd yr angylion yn disgyn arnynt: “Peidiwch ag ofni, a pheidiwch â thristáu, ond llawenhewch wrth y newyddion da am yr Ardd yr addawyd i chi.
+**41:30**  Yn sicr, y rhai sy'n dweud: "Ein Harglwydd yw Allah," ac yna'n mynd yn syth, bydd yr angylion yn disgyn arnynt: "Peidiwch ag ofni, a pheidiwch â thristáu, ond llawenhewch wrth y newyddion da am yr Ardd yr addawyd i chi.
 
 إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَٰمُوا۟ تَتَنَزَّلُ عَلَيْهِمُ ٱلْمَلَٰٓئِكَةُ أَلَّا تَخَافُوا۟ وَلَا تَحْزَنُوا۟ وَأَبْشِرُوا۟ بِٱلْجَنَّةِ ٱلَّتِى كُنتُمْ تُوعَدُونَ
 
@@ -17677,11 +17677,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 نَحْنُ أَوْلِيَآؤُكُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَفِى ٱلْءَاخِرَةِ ۖ وَلَكُمْ فِيهَا مَا تَشْتَهِىٓ أَنفُسُكُمْ وَلَكُمْ فِيهَا مَا تَدَّعُونَ
 
-**41:32**  Fel Lletygarwch oddi wrth Un Holl-faddeugar, Trugarog.“
+**41:32**  Fel Lletygarwch oddi wrth Un Holl-faddeugar, Trugarog."
 
 نُزُلًۭا مِّنْ غَفُورٍۢ رَّحِيمٍۢ
 
-**41:33**  A phwy sy'n well ei leferydd na rhywun sy'n galw at Allah, ac yn gweithredu ag uniondeb, ac yn dweud, “Yr wyf yn un o'r rhai sy'n ymostwng”?
+**41:33**  A phwy sy'n well ei leferydd na rhywun sy'n galw at Allah, ac yn gweithredu ag uniondeb, ac yn dweud, "Yr wyf yn un o'r rhai sy'n ymostwng"?
 
 وَمَنْ أَحْسَنُ قَوْلًۭا مِّمَّن دَعَآ إِلَى ٱللَّهِ وَعَمِلَ صَٰلِحًۭا وَقَالَ إِنَّنِى مِنَ ٱلْمُسْلِمِينَ
 
@@ -17726,7 +17726,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 مَّا يُقَالُ لَكَ إِلَّا مَا قَدْ قِيلَ لِلرُّسُلِ مِن قَبْلِكَ ۚ إِنَّ رَبَّكَ لَذُو مَغْفِرَةٍۢ وَذُو عِقَابٍ أَلِيمٍۢ
 
-**41:44**  Pe baem wedi ei wneud yn Qur'an mewn iaith estron, byddent wedi dweud, “Pe bai ei adnodau wedi'u gwneud yn eglur.” Anfrodorol ac yn Arab? Dywed, “I'r rhai sy'n credu, tywysiad ac iachâd ydyw. Ond o ran y rhai nad ydynt yn credu: y mae trymder yn eu clustiau, ac y mae'n ddallineb iddynt. Y mae'r rhain yn cael eu galw o le pell.”
+**41:44**  Pe baem wedi ei wneud yn Qur'an mewn iaith estron, byddent wedi dweud, "Pe bai ei adnodau wedi'u gwneud yn eglur." Anfrodorol ac yn Arab? Dywed, "I'r rhai sy'n credu, tywysiad ac iachâd ydyw. Ond o ran y rhai nad ydynt yn credu: y mae trymder yn eu clustiau, ac y mae'n ddallineb iddynt. Y mae'r rhain yn cael eu galw o le pell."
 
 وَلَوْ جَعَلْنَٰهُ قُرْءَانًا أَعْجَمِيًّۭا لَّقَالُوا۟ لَوْلَا فُصِّلَتْ ءَايَٰتُهُۥٓ ۖ ءَا۬عْجَمِىٌّۭ وَعَرَبِىٌّۭ ۗ قُلْ هُوَ لِلَّذِينَ ءَامَنُوا۟ هُدًۭى وَشِفَآءٌۭ ۖ وَٱلَّذِينَ لَا يُؤْمِنُونَ فِىٓ ءَاذَانِهِمْ وَقْرٌۭ وَهُوَ عَلَيْهِمْ عَمًى ۚ أُو۟لَٰٓئِكَ يُنَادَوْنَ مِن مَّكَانٍۭ بَعِيدٍۢ
 
@@ -17738,7 +17738,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 مَّنْ عَمِلَ صَٰلِحًۭا فَلِنَفْسِهِۦ ۖ وَمَنْ أَسَآءَ فَعَلَيْهَا ۗ وَمَا رَبُّكَ بِظَلَّٰمٍۢ لِّلْعَبِيدِ
 
-**41:47**  Ato Ef y cyfeirir gwybodaeth yr Awr. Nid oes ffrwyth yn dod allan o'i wain, ac nid oes benyw yn beichiogi nac yn esgor, ond â'i wybodaeth Ef. Ac ar y Dydd pan alwo arnynt, “Ble mae Fy nghymdeithion?” Dywedant, “Yr ydym yn cyfaddef i ti, nid oes yr un ohonom yn dyst.”
+**41:47**  Ato Ef y cyfeirir gwybodaeth yr Awr. Nid oes ffrwyth yn dod allan o'i wain, ac nid oes benyw yn beichiogi nac yn esgor, ond â'i wybodaeth Ef. Ac ar y Dydd pan alwo arnynt, "Ble mae Fy nghymdeithion?" Dywedant, "Yr ydym yn cyfaddef i ti, nid oes yr un ohonom yn dyst."
 
 ۞ إِلَيْهِ يُرَدُّ عِلْمُ ٱلسَّاعَةِ ۚ وَمَا تَخْرُجُ مِن ثَمَرَٰتٍۢ مِّنْ أَكْمَامِهَا وَمَا تَحْمِلُ مِنْ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِۦ ۚ وَيَوْمَ يُنَادِيهِمْ أَيْنَ شُرَكَآءِى قَالُوٓا۟ ءَاذَنَّٰكَ مَا مِنَّا مِن شَهِيدٍۢ
 
@@ -17750,7 +17750,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 لَّا يَسْـَٔمُ ٱلْإِنسَٰنُ مِن دُعَآءِ ٱلْخَيْرِ وَإِن مَّسَّهُ ٱلشَّرُّ فَيَـُٔوسٌۭ قَنُوطٌۭ
 
-**41:50**  A phan adaawn iddo flasu trugaredd oddi wrthym Ni, ar ôl yr adfyd a'i cystuddiodd, bydd yn dweud, “Fy eiddo i yw hyn, ac nid wyf yn meddwl bod yr Awr yn dod; a hyd yn oed os dychwelir fi at fy Arglwydd, bydd gennyf y gorau un gydag Ef.” Byddwn yn hysbysu'r rhai sy'n anghredu o'r hyn a wnaethant, a gwnawn iddynt flasu cosb erchyll.
+**41:50**  A phan adaawn iddo flasu trugaredd oddi wrthym Ni, ar ôl yr adfyd a'i cystuddiodd, bydd yn dweud, "Fy eiddo i yw hyn, ac nid wyf yn meddwl bod yr Awr yn dod; a hyd yn oed os dychwelir fi at fy Arglwydd, bydd gennyf y gorau un gydag Ef." Byddwn yn hysbysu'r rhai sy'n anghredu o'r hyn a wnaethant, a gwnawn iddynt flasu cosb erchyll.
 
 وَلَئِنْ أَذَقْنَٰهُ رَحْمَةًۭ مِّنَّا مِنۢ بَعْدِ ضَرَّآءَ مَسَّتْهُ لَيَقُولَنَّ هَٰذَا لِى وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةًۭ وَلَئِن رُّجِعْتُ إِلَىٰ رَبِّىٓ إِنَّ لِى عِندَهُۥ لَلْحُسْنَىٰ ۚ فَلَنُنَبِّئَنَّ ٱلَّذِينَ كَفَرُوا۟ بِمَا عَمِلُوا۟ وَلَنُذِيقَنَّهُم مِّنْ عَذَابٍ غَلِيظٍۢ
 
@@ -17758,7 +17758,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَإِذَآ أَنْعَمْنَا عَلَى ٱلْإِنسَٰنِ أَعْرَضَ وَنَـَٔا بِجَانِبِهِۦ وَإِذَا مَسَّهُ ٱلشَّرُّ فَذُو دُعَآءٍ عَرِيضٍۢ
 
-**41:52**  Dywed, “A ydych wedi ystyried? Os yw oddi wrth Allah a'ch bod yn ei wrthod — pwy sy'n bellach ar gyfeiliorn nag ef sydd wedi'i dorri i ffwrdd ac wedi'i ddieithrio?”
+**41:52**  Dywed, "A ydych wedi ystyried? Os yw oddi wrth Allah a'ch bod yn ei wrthod — pwy sy'n bellach ar gyfeiliorn nag ef sydd wedi'i dorri i ffwrdd ac wedi'i ddieithrio?"
 
 قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ ثُمَّ كَفَرْتُم بِهِۦ مَنْ أَضَلُّ مِمَّنْ هُوَ فِى شِقَاقٍۭ بَعِيدٍۢ
 
@@ -17819,7 +17819,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ۖ فَٱللَّهُ هُوَ ٱلْوَلِىُّ وَهُوَ يُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**42:10**  Pa fater bynnag yr ydych yn anghytuno yn ei gylch, y mae ei farn yn gorffwys gydag Allah. “Dyna Allah, fy Arglwydd, yr wyf yn ymddiried ynddo, ac ato Ef yr wyf yn edifarhau.”
+**42:10**  Pa fater bynnag yr ydych yn anghytuno yn ei gylch, y mae ei farn yn gorffwys gydag Allah. "Dyna Allah, fy Arglwydd, yr wyf yn ymddiried ynddo, ac ato Ef yr wyf yn edifarhau."
 
 وَمَا ٱخْتَلَفْتُمْ فِيهِ مِن شَىْءٍۢ فَحُكْمُهُۥٓ إِلَى ٱللَّهِ ۚ ذَٰلِكُمُ ٱللَّهُ رَبِّى عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ
 
@@ -17831,7 +17831,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 لَهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍ عَلِيمٌۭ
 
-**42:13**  Rhagnododd i chi'r un grefydd ag a orchmynnodd i Noa, a'r hyn yr ysbrydolasom Ni i ti, a'r hyn a orchmynnasom i Abraham, ac i Moses, ac i Iesu: “Byddwch yn cynnal y grefydd, ac na fyddwch yn ymrannu ynddi.” O ran yr eilunaddolwyr, y mae'r hyn yr ydych yn eu galw ato yn warthus iddynt. Y mae Allah yn dewis ato Ef ei Hun bwy bynnag a fynno, ac yn tywys ato Ef ei Hun pwy bynnag sy'n edifarhau.
+**42:13**  Rhagnododd i chi'r un grefydd ag a orchmynnodd i Noa, a'r hyn yr ysbrydolasom Ni i ti, a'r hyn a orchmynnasom i Abraham, ac i Moses, ac i Iesu: "Byddwch yn cynnal y grefydd, ac na fyddwch yn ymrannu ynddi." O ran yr eilunaddolwyr, y mae'r hyn yr ydych yn eu galw ato yn warthus iddynt. Y mae Allah yn dewis ato Ef ei Hun bwy bynnag a fynno, ac yn tywys ato Ef ei Hun pwy bynnag sy'n edifarhau.
 
 ۞ شَرَعَ لَكُم مِّنَ ٱلدِّينِ مَا وَصَّىٰ بِهِۦ نُوحًۭا وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَمَا وَصَّيْنَا بِهِۦٓ إِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَىٰٓ ۖ أَنْ أَقِيمُوا۟ ٱلدِّينَ وَلَا تَتَفَرَّقُوا۟ فِيهِ ۚ كَبُرَ عَلَى ٱلْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ۚ ٱللَّهُ يَجْتَبِىٓ إِلَيْهِ مَن يَشَآءُ وَيَهْدِىٓ إِلَيْهِ مَن يُنِيبُ
 
@@ -17839,7 +17839,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَمَا تَفَرَّقُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۚ وَلَوْلَا كَلِمَةٌۭ سَبَقَتْ مِن رَّبِّكَ إِلَىٰٓ أَجَلٍۢ مُّسَمًّۭى لَّقُضِىَ بَيْنَهُمْ ۚ وَإِنَّ ٱلَّذِينَ أُورِثُوا۟ ٱلْكِتَٰبَ مِنۢ بَعْدِهِمْ لَفِى شَكٍّۢ مِّنْهُ مُرِيبٍۢ
 
-**42:15**  At hyn bydd yn parhau i wahodd, a bydd union fel y gorchmynnwyd i ti, a phaid â dilyn eu tueddiadau, a dywed, “Yr wyf yn credu ym mha Lyfr bynnag y mae Allah wedi ei anfon i lawr, a gorchmynnwyd i mi farnu rhyngoch yn deg. Allah yw ein Harglwydd ni a'ch Arglwydd chi. Ein gweithredoedd ni sydd gennym, a'ch gweithredoedd chi sydd gennych. Na fydded ymryson rhyngom ni a chi. Bydd Allah yn ein dwyn ynghyd, ac ato Ef y mae'r dychweliad eithaf.”
+**42:15**  At hyn bydd yn parhau i wahodd, a bydd union fel y gorchmynnwyd i ti, a phaid â dilyn eu tueddiadau, a dywed, "Yr wyf yn credu ym mha Lyfr bynnag y mae Allah wedi ei anfon i lawr, a gorchmynnwyd i mi farnu rhyngoch yn deg. Allah yw ein Harglwydd ni a'ch Arglwydd chi. Ein gweithredoedd ni sydd gennym, a'ch gweithredoedd chi sydd gennych. Na fydded ymryson rhyngom ni a chi. Bydd Allah yn ein dwyn ynghyd, ac ato Ef y mae'r dychweliad eithaf."
 
 فَلِذَٰلِكَ فَٱدْعُ ۖ وَٱسْتَقِمْ كَمَآ أُمِرْتَ ۖ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ ۖ وَقُلْ ءَامَنتُ بِمَآ أَنزَلَ ٱللَّهُ مِن كِتَٰبٍۢ ۖ وَأُمِرْتُ لِأَعْدِلَ بَيْنَكُمُ ۖ ٱللَّهُ رَبُّنَا وَرَبُّكُمْ ۖ لَنَآ أَعْمَٰلُنَا وَلَكُمْ أَعْمَٰلُكُمْ ۖ لَا حُجَّةَ بَيْنَنَا وَبَيْنَكُمُ ۖ ٱللَّهُ يَجْمَعُ بَيْنَنَا ۖ وَإِلَيْهِ ٱلْمَصِيرُ
 
@@ -17871,11 +17871,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 تَرَى ٱلظَّٰلِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا۟ وَهُوَ وَاقِعٌۢ بِهِمْ ۗ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فِى رَوْضَاتِ ٱلْجَنَّاتِ ۖ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ۚ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ
 
-**42:23**  Dyna'r newydd da y mae Allah yn ei roi i'w weision sy'n credu ac yn gwneud gweithredoedd da. Dywed, “Ni ofynnaf gyflog gennych amdano, ac eithrio anwyldeb ymhlith y perthnasau agos.” Pwy bynnag a wna weithred dda, cynyddwn ei daioni iddo. Y mae Allah yn Faddeugar ac yn Ddiolchgar.
+**42:23**  Dyna'r newydd da y mae Allah yn ei roi i'w weision sy'n credu ac yn gwneud gweithredoedd da. Dywed, "Ni ofynnaf gyflog gennych amdano, ac eithrio anwyldeb ymhlith y perthnasau agos." Pwy bynnag a wna weithred dda, cynyddwn ei daioni iddo. Y mae Allah yn Faddeugar ac yn Ddiolchgar.
 
 ذَٰلِكَ ٱلَّذِى يُبَشِّرُ ٱللَّهُ عِبَادَهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ ۗ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِلَّا ٱلْمَوَدَّةَ فِى ٱلْقُرْبَىٰ ۗ وَمَن يَقْتَرِفْ حَسَنَةًۭ نَّزِدْ لَهُۥ فِيهَا حُسْنًا ۚ إِنَّ ٱللَّهَ غَفُورٌۭ شَكُورٌ
 
-**42:24**  Neu a ddywedant, “Ffugiodd gelwydd am Allah.” Pe bai Allah yn ewyllysio hynny, gallai fod wedi selio dy galon. Ond y mae Allah yn dileu'r ffals, ac yn cadarnhau'r gwir trwy ei Eiriau. Y mae'n gwybod yr hyn sydd yn y calonnau.
+**42:24**  Neu a ddywedant, "Ffugiodd gelwydd am Allah." Pe bai Allah yn ewyllysio hynny, gallai fod wedi selio dy galon. Ond y mae Allah yn dileu'r ffals, ac yn cadarnhau'r gwir trwy ei Eiriau. Y mae'n gwybod yr hyn sydd yn y calonnau.
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا ۖ فَإِن يَشَإِ ٱللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ ۗ وَيَمْحُ ٱللَّهُ ٱلْبَٰطِلَ وَيُحِقُّ ٱلْحَقَّ بِكَلِمَٰتِهِۦٓ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
@@ -17955,11 +17955,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ
 
-**42:44**  Nid oes gan bwy bynnag y mae Allah yn ei adael ar gyfeiliorn amddiffynnwr heblaw Ef. A gweli'r troseddwyr, pan welant y poenyd, yn dweud, “A oes ffordd o fynd yn ôl?”
+**42:44**  Nid oes gan bwy bynnag y mae Allah yn ei adael ar gyfeiliorn amddiffynnwr heblaw Ef. A gweli'r troseddwyr, pan welant y poenyd, yn dweud, "A oes ffordd o fynd yn ôl?"
 
 وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن وَلِىٍّۢ مِّنۢ بَعْدِهِۦ ۗ وَتَرَى ٱلظَّٰلِمِينَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ يَقُولُونَ هَلْ إِلَىٰ مَرَدٍّۢ مِّن سَبِيلٍۢ
 
-**42:45**  A gweli nhw wedi'u hamlygu iddo, yn crynu rhag gwarth, yn edrych â llygaid cuddiedig. Bydd y rhai a gredodd yn dweud, “Y colledwyr yw'r rhai a gollodd eu hunain a'u teuluoedd ar Ddydd yr Atgyfodiad.” Yn wir, y mae'r drwgweithredwyr mewn poenyd parhaol.
+**42:45**  A gweli nhw wedi'u hamlygu iddo, yn crynu rhag gwarth, yn edrych â llygaid cuddiedig. Bydd y rhai a gredodd yn dweud, "Y colledwyr yw'r rhai a gollodd eu hunain a'u teuluoedd ar Ddydd yr Atgyfodiad." Yn wir, y mae'r drwgweithredwyr mewn poenyd parhaol.
 
 وَتَرَىٰهُمْ يُعْرَضُونَ عَلَيْهَا خَٰشِعِينَ مِنَ ٱلذُّلِّ يَنظُرُونَ مِن طَرْفٍ خَفِىٍّۢ ۗ وَقَالَ ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ ٱلْخَٰسِرِينَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ ٱلْقِيَٰمَةِ ۗ أَلَآ إِنَّ ٱلظَّٰلِمِينَ فِى عَذَابٍۢ مُّقِيمٍۢ
 
@@ -18002,7 +18002,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 **ٱلزُّخْرُف** · Az-Zukhruf · Mecaidd · 89 adnod
 
-*Addurniadau aur nad ydynt yn para — a’r Qur’an wedi’i wneud yn hawdd mewn Arabeg eglur.*
+*Addurniadau aur nad ydynt yn para — a'r Qur'an wedi'i wneud yn hawdd mewn Arabeg eglur.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -18040,7 +18040,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَأَهْلَكْنَآ أَشَدَّ مِنْهُم بَطْشًۭا وَمَضَىٰ مَثَلُ ٱلْأَوَّلِينَ
 
-**43:9**  A phe gofynnit iddynt, “Pwy a greodd y nefoedd a'r ddaear?” Dywedent, “Y Nerthol, y Gwybyddwr a'u creodd.”
+**43:9**  A phe gofynnit iddynt, "Pwy a greodd y nefoedd a'r ddaear?" Dywedent, "Y Nerthol, y Gwybyddwr a'u creodd."
 
 وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ خَلَقَهُنَّ ٱلْعَزِيزُ ٱلْعَلِيمُ
 
@@ -18056,11 +18056,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَٱلَّذِى خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا وَجَعَلَ لَكُم مِّنَ ٱلْفُلْكِ وَٱلْأَنْعَٰمِ مَا تَرْكَبُونَ
 
-**43:13**  Fel y gallech farchogaeth eu cefnau, a chofio ffafr eich Arglwydd wrth ichi eistedd yn gadarn arnynt, a dweud, “Gogoniant i'r Hwn a osododd y rhain wrth ein gwasanaeth; yn sicr ni allem fod wedi ei wneud ar ein pennau ein hunain.
+**43:13**  Fel y gallech farchogaeth eu cefnau, a chofio ffafr eich Arglwydd wrth ichi eistedd yn gadarn arnynt, a dweud, "Gogoniant i'r Hwn a osododd y rhain wrth ein gwasanaeth; yn sicr ni allem fod wedi ei wneud ar ein pennau ein hunain.
 
 لِتَسْتَوُۥا۟ عَلَىٰ ظُهُورِهِۦ ثُمَّ تَذْكُرُوا۟ نِعْمَةَ رَبِّكُمْ إِذَا ٱسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا۟ سُبْحَٰنَ ٱلَّذِى سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُۥ مُقْرِنِينَ
 
-**43:14**  Ac yn sicr, at ein Harglwydd y dychwelwn.“
+**43:14**  Ac yn sicr, at ein Harglwydd y dychwelwn."
 
 وَإِنَّآ إِلَىٰ رَبِّنَا لَمُنقَلِبُونَ
 
@@ -18076,7 +18076,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَإِذَا بُشِّرَ أَحَدُهُم بِمَا ضَرَبَ لِلرَّحْمَٰنِ مَثَلًۭا ظَلَّ وَجْهُهُۥ مُسْوَدًّۭا وَهُوَ كَظِيمٌ
 
-**43:18**  “Rhywun wedi'i fagu i fod yn brydferth, ac yn analluog i helpu mewn ymladd?”
+**43:18**  "Rhywun wedi'i fagu i fod yn brydferth, ac yn analluog i helpu mewn ymladd?"
 
 أَوَمَن يُنَشَّؤُا۟ فِى ٱلْحِلْيَةِ وَهُوَ فِى ٱلْخِصَامِ غَيْرُ مُبِينٍۢ
 
@@ -18084,7 +18084,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَجَعَلُوا۟ ٱلْمَلَٰٓئِكَةَ ٱلَّذِينَ هُمْ عِبَٰدُ ٱلرَّحْمَٰنِ إِنَٰثًا ۚ أَشَهِدُوا۟ خَلْقَهُمْ ۚ سَتُكْتَبُ شَهَٰدَتُهُمْ وَيُسْـَٔلُونَ
 
-**43:20**  A dywedant, “Pe bai'r Daionus wedi ewyllysio, ni fyddem wedi eu haddoli.” Ond nid oes ganddynt wybodaeth am hynny; nid ydynt ond yn dyfalu.
+**43:20**  A dywedant, "Pe bai'r Daionus wedi ewyllysio, ni fyddem wedi eu haddoli." Ond nid oes ganddynt wybodaeth am hynny; nid ydynt ond yn dyfalu.
 
 وَقَالُوا۟ لَوْ شَآءَ ٱلرَّحْمَٰنُ مَا عَبَدْنَٰهُم ۗ مَّا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَخْرُصُونَ
 
@@ -18092,15 +18092,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 أَمْ ءَاتَيْنَٰهُمْ كِتَٰبًۭا مِّن قَبْلِهِۦ فَهُم بِهِۦ مُسْتَمْسِكُونَ
 
-**43:22**  Ond dywedant, “Cawsom ein rhieni ar gwrs, ac yr ydym yn cael ein tywys yn eu holion traed.”
+**43:22**  Ond dywedant, "Cawsom ein rhieni ar gwrs, ac yr ydym yn cael ein tywys yn eu holion traed."
 
 بَلْ قَالُوٓا۟ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍۢ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّهْتَدُونَ
 
-**43:23**  Yn yr un modd, ni anfonasom Ni rybuddiwr o'th flaen i unrhyw dref, ond bod y cyfoethog yn eu plith yn dweud, “Cawsom ein rhieni ar gwrs, ac yr ydym yn dilyn yn eu holion traed.”
+**43:23**  Yn yr un modd, ni anfonasom Ni rybuddiwr o'th flaen i unrhyw dref, ond bod y cyfoethog yn eu plith yn dweud, "Cawsom ein rhieni ar gwrs, ac yr ydym yn dilyn yn eu holion traed."
 
 وَكَذَٰلِكَ مَآ أَرْسَلْنَا مِن قَبْلِكَ فِى قَرْيَةٍۢ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍۢ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّقْتَدُونَ
 
-**43:24**  Byddai'n dweud, “Hyd yn oed os dof â thywysiad gwell i chi na'r hyn y cawsoch eich rhieni'n ei ddilyn?” Byddent yn dweud, “Yr ydym yn gwrthod yr hyn yr ydych wedi'ch anfon ag ef.”
+**43:24**  Byddai'n dweud, "Hyd yn oed os dof â thywysiad gwell i chi na'r hyn y cawsoch eich rhieni'n ei ddilyn?" Byddent yn dweud, "Yr ydym yn gwrthod yr hyn yr ydych wedi'ch anfon ag ef."
 
 ۞ قَٰلَ أَوَلَوْ جِئْتُكُم بِأَهْدَىٰ مِمَّا وَجَدتُّمْ عَلَيْهِ ءَابَآءَكُمْ ۖ قَالُوٓا۟ إِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَٰفِرُونَ
 
@@ -18108,11 +18108,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَٱنتَقَمْنَا مِنْهُمْ ۖ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُكَذِّبِينَ
 
-**43:26**  Pan ddywedodd Abraham wrth ei dad a'i bobl, “Yr wyf yn ddieuog o'r hyn yr ydych yn ei addoli.
+**43:26**  Pan ddywedodd Abraham wrth ei dad a'i bobl, "Yr wyf yn ddieuog o'r hyn yr ydych yn ei addoli.
 
 وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ وَقَوْمِهِۦٓ إِنَّنِى بَرَآءٌۭ مِّمَّا تَعْبُدُونَ
 
-**43:27**  Ac eithrio'r Hwn a'm creodd, oherwydd bydd yn fy nhywys.“
+**43:27**  Ac eithrio'r Hwn a'm creodd, oherwydd bydd yn fy nhywys."
 
 إِلَّا ٱلَّذِى فَطَرَنِى فَإِنَّهُۥ سَيَهْدِينِ
 
@@ -18124,11 +18124,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 بَلْ مَتَّعْتُ هَٰٓؤُلَآءِ وَءَابَآءَهُمْ حَتَّىٰ جَآءَهُمُ ٱلْحَقُّ وَرَسُولٌۭ مُّبِينٌۭ
 
-**43:30**  Ond pan ddaeth y gwirionedd atynt, dywedasant, “Swynwriaeth yw hyn, ac yr ydym yn gwrthod credu ynddo.”
+**43:30**  Ond pan ddaeth y gwirionedd atynt, dywedasant, "Swynwriaeth yw hyn, ac yr ydym yn gwrthod credu ynddo."
 
 وَلَمَّا جَآءَهُمُ ٱلْحَقُّ قَالُوا۟ هَٰذَا سِحْرٌۭ وَإِنَّا بِهِۦ كَٰفِرُونَ
 
-**43:31**  Dywedasant hefyd, “Pe bai'r Qur'an hwn wedi'i anfon i lawr at ddyn o bwys o'r ddwy ddinas.”
+**43:31**  Dywedasant hefyd, "Pe bai'r Qur'an hwn wedi'i anfon i lawr at ddyn o bwys o'r ddwy ddinas."
 
 وَقَالُوا۟ لَوْلَا نُزِّلَ هَٰذَا ٱلْقُرْءَانُ عَلَىٰ رَجُلٍۢ مِّنَ ٱلْقَرْيَتَيْنِ عَظِيمٍ
 
@@ -18156,7 +18156,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَإِنَّهُمْ لَيَصُدُّونَهُمْ عَنِ ٱلسَّبِيلِ وَيَحْسَبُونَ أَنَّهُم مُّهْتَدُونَ
 
-**43:38**  Hyd nes, pan ddaw atom Ni, y bydd yn dweud, “Pe bai rhyngof fi a thi bellter y ddau Ddwyrain.” Mor gymydog drwg!
+**43:38**  Hyd nes, pan ddaw atom Ni, y bydd yn dweud, "Pe bai rhyngof fi a thi bellter y ddau Ddwyrain." Mor gymydog drwg!
 
 حَتَّىٰٓ إِذَا جَآءَنَا قَالَ يَٰلَيْتَ بَيْنِى وَبَيْنَكَ بُعْدَ ٱلْمَشْرِقَيْنِ فَبِئْسَ ٱلْقَرِينُ
 
@@ -18184,11 +18184,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَإِنَّهُۥ لَذِكْرٌۭ لَّكَ وَلِقَوْمِكَ ۖ وَسَوْفَ تُسْـَٔلُونَ
 
-**43:45**  Gofyn i'r rhai o'n cenhadon yr anfonasom Ni o'th flaen: “A benodasom Ni dduwiau heblaw'r Daionus i'w haddoli?”
+**43:45**  Gofyn i'r rhai o'n cenhadon yr anfonasom Ni o'th flaen: "A benodasom Ni dduwiau heblaw'r Daionus i'w haddoli?"
 
 وَسْـَٔلْ مَنْ أَرْسَلْنَا مِن قَبْلِكَ مِن رُّسُلِنَآ أَجَعَلْنَا مِن دُونِ ٱلرَّحْمَٰنِ ءَالِهَةًۭ يُعْبَدُونَ
 
-**43:46**  Anfonasom Ni Moses gyda'n datguddiadau at Ffaro a'i urddasolion. Dywedodd, “Myfi yw Cenhadwr Arglwydd y Bydoedd.”
+**43:46**  Anfonasom Ni Moses gyda'n datguddiadau at Ffaro a'i urddasolion. Dywedodd, "Myfi yw Cenhadwr Arglwydd y Bydoedd."
 
 وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَآ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَقَالَ إِنِّى رَسُولُ رَبِّ ٱلْعَٰلَمِينَ
 
@@ -18200,7 +18200,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَمَا نُرِيهِم مِّنْ ءَايَةٍ إِلَّا هِىَ أَكْبَرُ مِنْ أُخْتِهَا ۖ وَأَخَذْنَٰهُم بِٱلْعَذَابِ لَعَلَّهُمْ يَرْجِعُونَ
 
-**43:49**  Dywedasant, “O ddewin, gweddïa ar dy Arglwydd drosom, yn ôl ei addewid i ti, ac yna byddwn yn cael ein tywys.”
+**43:49**  Dywedasant, "O ddewin, gweddïa ar dy Arglwydd drosom, yn ôl ei addewid i ti, ac yna byddwn yn cael ein tywys."
 
 وَقَالُوا۟ يَٰٓأَيُّهَ ٱلسَّاحِرُ ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهْتَدُونَ
 
@@ -18208,7 +18208,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلْعَذَابَ إِذَا هُمْ يَنكُثُونَ
 
-**43:51**  Cyhoeddodd Ffaro ymhlith ei bobl, gan ddweud, “O fy mhobl, onid wyf yn berchen ar Deyrnas yr Aifft, ac y mae'r afonydd hyn yn llifo oddi tanaf? Oni welwch?
+**43:51**  Cyhoeddodd Ffaro ymhlith ei bobl, gan ddweud, "O fy mhobl, onid wyf yn berchen ar Deyrnas yr Aifft, ac y mae'r afonydd hyn yn llifo oddi tanaf? Oni welwch?
 
 وَنَادَىٰ فِرْعَوْنُ فِى قَوْمِهِۦ قَالَ يَٰقَوْمِ أَلَيْسَ لِى مُلْكُ مِصْرَ وَهَٰذِهِ ٱلْأَنْهَٰرُ تَجْرِى مِن تَحْتِىٓ ۖ أَفَلَا تُبْصِرُونَ
 
@@ -18216,7 +18216,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 أَمْ أَنَا۠ خَيْرٌۭ مِّنْ هَٰذَا ٱلَّذِى هُوَ مَهِينٌۭ وَلَا يَكَادُ يُبِينُ
 
-**43:53**  Pam na ollyngwyd breichledau o aur arno, neu y daeth yr angylion gydag ef mewn gorymdaith?“
+**43:53**  Pam na ollyngwyd breichledau o aur arno, neu y daeth yr angylion gydag ef mewn gorymdaith?"
 
 فَلَوْلَآ أُلْقِىَ عَلَيْهِ أَسْوِرَةٌۭ مِّن ذَهَبٍ أَوْ جَآءَ مَعَهُ ٱلْمَلَٰٓئِكَةُ مُقْتَرِنِينَ
 
@@ -18236,7 +18236,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ۞ وَلَمَّا ضُرِبَ ٱبْنُ مَرْيَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ
 
-**43:58**  Dywedasant, “A yw ein duwiau yn well, neu ef?” Ni chrybwyllasant ef ond ar gyfer dadl. Yn wir, pobl ffraegar ydynt.
+**43:58**  Dywedasant, "A yw ein duwiau yn well, neu ef?" Ni chrybwyllasant ef ond ar gyfer dadl. Yn wir, pobl ffraegar ydynt.
 
 وَقَالُوٓا۟ ءَأَٰلِهَتُنَا خَيْرٌ أَمْ هُوَ ۚ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلًۢا ۚ بَلْ هُمْ قَوْمٌ خَصِمُونَ
 
@@ -18256,11 +18256,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَلَا يَصُدَّنَّكُمُ ٱلشَّيْطَٰنُ ۖ إِنَّهُۥ لَكُمْ عَدُوٌّۭ مُّبِينٌۭ
 
-**43:63**  Pan ddaeth Iesu â'r eglurhadau, dywedodd, “Yr wyf wedi dod atoch â doethineb, ac i egluro i chi rywfaint o'r hyn yr ydych yn anghytuno yn ei gylch. Felly ofnwch Allah, ac ufuddhewch i mi.
+**43:63**  Pan ddaeth Iesu â'r eglurhadau, dywedodd, "Yr wyf wedi dod atoch â doethineb, ac i egluro i chi rywfaint o'r hyn yr ydych yn anghytuno yn ei gylch. Felly ofnwch Allah, ac ufuddhewch i mi.
 
 وَلَمَّا جَآءَ عِيسَىٰ بِٱلْبَيِّنَٰتِ قَالَ قَدْ جِئْتُكُم بِٱلْحِكْمَةِ وَلِأُبَيِّنَ لَكُم بَعْضَ ٱلَّذِى تَخْتَلِفُونَ فِيهِ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ
 
-**43:64**  Allah yw fy Arglwydd i a'ch Arglwydd chi, felly addolwch Ef — ffordd union yw hyn.“
+**43:64**  Allah yw fy Arglwydd i a'ch Arglwydd chi, felly addolwch Ef — ffordd union yw hyn."
 
 إِنَّ ٱللَّهَ هُوَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۚ هَٰذَا صِرَٰطٌۭ مُّسْتَقِيمٌۭ
 
@@ -18312,7 +18312,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَمَا ظَلَمْنَٰهُمْ وَلَٰكِن كَانُوا۟ هُمُ ٱلظَّٰلِمِينَ
 
-**43:77**  A byddant yn gweiddi, “O Malik, gadawer i'th Arglwydd ein gorffen.” Bydd yn dweud, “Yr ydych yn aros.”
+**43:77**  A byddant yn gweiddi, "O Malik, gadawer i'th Arglwydd ein gorffen." Bydd yn dweud, "Yr ydych yn aros."
 
 وَنَادَوْا۟ يَٰمَٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّٰكِثُونَ
 
@@ -18328,7 +18328,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 أَمْ يَحْسَبُونَ أَنَّا لَا نَسْمَعُ سِرَّهُمْ وَنَجْوَىٰهُم ۚ بَلَىٰ وَرُسُلُنَا لَدَيْهِمْ يَكْتُبُونَ
 
-**43:81**  Dywed, “Pe bai gan y Daionus fab, byddwn i'n gyntaf i addoli.”
+**43:81**  Dywed, "Pe bai gan y Daionus fab, byddwn i'n gyntaf i addoli."
 
 قُلْ إِن كَانَ لِلرَّحْمَٰنِ وَلَدٌۭ فَأَنَا۠ أَوَّلُ ٱلْعَٰبِدِينَ
 
@@ -18352,15 +18352,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَلَا يَمْلِكُ ٱلَّذِينَ يَدْعُونَ مِن دُونِهِ ٱلشَّفَٰعَةَ إِلَّا مَن شَهِدَ بِٱلْحَقِّ وَهُمْ يَعْلَمُونَ
 
-**43:87**  A phe gofynnit iddynt, “Pwy a'u creodd?” dywedent, “Allah.” Pam felly y maent yn gwyro?
+**43:87**  A phe gofynnit iddynt, "Pwy a'u creodd?" dywedent, "Allah." Pam felly y maent yn gwyro?
 
 وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَهُمْ لَيَقُولُنَّ ٱللَّهُ ۖ فَأَنَّىٰ يُؤْفَكُونَ
 
-**43:88**  O ran ei ddatganiad: “Fy Arglwydd, pobl ydynt nhw nad ydynt yn credu.”
+**43:88**  O ran ei ddatganiad: "Fy Arglwydd, pobl ydynt nhw nad ydynt yn credu."
 
 وَقِيلِهِۦ يَٰرَبِّ إِنَّ هَٰٓؤُلَآءِ قَوْمٌۭ لَّا يُؤْمِنُونَ
 
-**43:89**  Maddau iddynt, a dywed, “Tangnefedd.” Byddant yn dod i wybod.
+**43:89**  Maddau iddynt, a dywed, "Tangnefedd." Byddant yn dod i wybod.
 
 فَٱصْفَحْ عَنْهُمْ وَقُلْ سَلَٰمٌۭ ۚ فَسَوْفَ يَعْلَمُونَ
 
@@ -18371,7 +18371,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 **ٱلدُّخَان** · Ad-Dukhan · Mecaidd · 59 adnod
 
-*Y mwg a orchuddia’r bobl — rhybudd, a Moses wedi’i anfon at deyrn.*
+*Y mwg a orchuddia'r bobl — rhybudd, a Moses wedi'i anfon at deyrn.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -18421,7 +18421,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 يَغْشَى ٱلنَّاسَ ۖ هَٰذَا عَذَابٌ أَلِيمٌۭ
 
-**44:12**  “Ein Harglwydd, coda'r poenyd oddi arnom, yr ydym yn gredinwyr.”
+**44:12**  "Ein Harglwydd, coda'r poenyd oddi arnom, yr ydym yn gredinwyr."
 
 رَّبَّنَا ٱكْشِفْ عَنَّا ٱلْعَذَابَ إِنَّا مُؤْمِنُونَ
 
@@ -18429,7 +18429,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 أَنَّىٰ لَهُمُ ٱلذِّكْرَىٰ وَقَدْ جَآءَهُمْ رَسُولٌۭ مُّبِينٌۭ
 
-**44:14**  Ond troasant oddi wrtho, a dywedasant, “Wedi'i addysgu, ond yn wallgof!”
+**44:14**  Ond troasant oddi wrtho, a dywedasant, "Wedi'i addysgu, ond yn wallgof!"
 
 ثُمَّ تَوَلَّوْا۟ عَنْهُ وَقَالُوا۟ مُعَلَّمٌۭ مَّجْنُونٌ
 
@@ -18445,11 +18445,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ۞ وَلَقَدْ فَتَنَّا قَبْلَهُمْ قَوْمَ فِرْعَوْنَ وَجَآءَهُمْ رَسُولٌۭ كَرِيمٌ
 
-**44:18**  Gan ddweud, “Rhowch weision Allah i mi. Cenhadwr gonest i chi ydwyf.
+**44:18**  Gan ddweud, "Rhowch weision Allah i mi. Cenhadwr gonest i chi ydwyf.
 
 أَنْ أَدُّوٓا۟ إِلَىَّ عِبَادَ ٱللَّهِ ۖ إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ
 
-**44:19**  Ac, “Peidiwch ag eich dyrchafu eich hunain uwchlaw Allah. Yr wyf yn dod atoch ag awdurdod eglur.
+**44:19**  Ac, "Peidiwch ag eich dyrchafu eich hunain uwchlaw Allah. Yr wyf yn dod atoch ag awdurdod eglur.
 
 وَأَن لَّا تَعْلُوا۟ عَلَى ٱللَّهِ ۖ إِنِّىٓ ءَاتِيكُم بِسُلْطَٰنٍۢ مُّبِينٍۢ
 
@@ -18457,19 +18457,19 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَإِنِّى عُذْتُ بِرَبِّى وَرَبِّكُمْ أَن تَرْجُمُونِ
 
-**44:21**  Ond os nad ydych yn credu ynof fi, cadwch draw oddi wrthyf.“
+**44:21**  Ond os nad ydych yn credu ynof fi, cadwch draw oddi wrthyf."
 
 وَإِن لَّمْ تُؤْمِنُوا۟ لِى فَٱعْتَزِلُونِ
 
-**44:22**  Apeliodd at ei Arglwydd: “Pobl bechadurus yw'r rhain.”
+**44:22**  Apeliodd at ei Arglwydd: "Pobl bechadurus yw'r rhain."
 
 فَدَعَا رَبَّهُۥٓ أَنَّ هَٰٓؤُلَآءِ قَوْمٌۭ مُّجْرِمُونَ
 
-**44:23**  “Cychwynna gyda Fy ngweision yn y nos — byddwch yn cael eich dilyn.
+**44:23**  "Cychwynna gyda Fy ngweision yn y nos — byddwch yn cael eich dilyn.
 
 فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ
 
-**44:24**  A chroesa'r môr yn gyflym; byddin i'w boddi ydynt.“
+**44:24**  A chroesa'r môr yn gyflym; byddin i'w boddi ydynt."
 
 وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا ۖ إِنَّهُمْ جُندٌۭ مُّغْرَقُونَ
 
@@ -18513,11 +18513,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِنَّ هَٰٓؤُلَآءِ لَيَقُولُونَ
 
-**44:35**  “Nid oes dim ond ein marwolaeth gyntaf, ac ni chawn ein hatgyfodi.
+**44:35**  "Nid oes dim ond ein marwolaeth gyntaf, ac ni chawn ein hatgyfodi.
 
 إِنْ هِىَ إِلَّا مَوْتَتُنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُنشَرِينَ
 
-**44:36**  Dewch â'n hynafiaid yn ôl, os ydych yn eirwir.“
+**44:36**  Dewch â'n hynafiaid yn ôl, os ydych yn eirwir."
 
 فَأْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -18620,7 +18620,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 **ٱلْجَاثِيَة** · Al-Jathiyah · Mecaidd · 37 adnod
 
-*Y cenhedloedd penliniedig, pob cymuned wedi’i galw at ei chofnod.*
+*Y cenhedloedd penliniedig, pob cymuned wedi'i galw at ei chofnod.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -18718,15 +18718,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 أَفَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلْمٍۢ وَخَتَمَ عَلَىٰ سَمْعِهِۦ وَقَلْبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةًۭ فَمَن يَهْدِيهِ مِنۢ بَعْدِ ٱللَّهِ ۚ أَفَلَا تَذَكَّرُونَ
 
-**45:24**  A dywedant, “Nid oes dim ond ein bywyd presennol hwn; yr ydym yn marw ac yn byw, ac nid oes dim yn ein dinistrio ond amser.” Ond nid oes ganddynt wybodaeth am hynny; nid ydynt ond yn dyfalu.
+**45:24**  A dywedant, "Nid oes dim ond ein bywyd presennol hwn; yr ydym yn marw ac yn byw, ac nid oes dim yn ein dinistrio ond amser." Ond nid oes ganddynt wybodaeth am hynny; nid ydynt ond yn dyfalu.
 
 وَقَالُوا۟ مَا هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا يُهْلِكُنَآ إِلَّا ٱلدَّهْرُ ۚ وَمَا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَظُنُّونَ
 
-**45:25**  Pan adroddir Ein Hadnodau eglur iddynt, eu hunig ddadl yw dweud, “Dewch â'n hynafiaid yn ôl, os ydych yn eirwir.”
+**45:25**  Pan adroddir Ein Hadnodau eglur iddynt, eu hunig ddadl yw dweud, "Dewch â'n hynafiaid yn ôl, os ydych yn eirwir."
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ مَّا كَانَ حُجَّتَهُمْ إِلَّآ أَن قَالُوا۟ ٱئْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَٰدِقِينَ
 
-**45:26**  Dywed, “Y mae Allah yn rhoi bywyd i chi, yna y mae'n eich gwneud i farw; yna y mae'n eich casglu ar gyfer Dydd yr Atgyfodiad, nad oes amheuaeth yn ei gylch. Ond nid yw'r rhan fwyaf o bobl yn gwybod.”
+**45:26**  Dywed, "Y mae Allah yn rhoi bywyd i chi, yna y mae'n eich gwneud i farw; yna y mae'n eich casglu ar gyfer Dydd yr Atgyfodiad, nad oes amheuaeth yn ei gylch. Ond nid yw'r rhan fwyaf o bobl yn gwybod."
 
 قُلِ ٱللَّهُ يُحْيِيكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يَجْمَعُكُمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَا رَيْبَ فِيهِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
@@ -18734,11 +18734,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يَوْمَئِذٍۢ يَخْسَرُ ٱلْمُبْطِلُونَ
 
-**45:28**  Byddi'n gweld pob cymuned ar ei gliniau; bydd pob cymuned yn cael ei galw at ei Llyfr: “Heddiw yr ydych yn cael eich talu am yr hyn yr arferch ei wneud.
+**45:28**  Byddi'n gweld pob cymuned ar ei gliniau; bydd pob cymuned yn cael ei galw at ei Llyfr: "Heddiw yr ydych yn cael eich talu am yr hyn yr arferch ei wneud.
 
 وَتَرَىٰ كُلَّ أُمَّةٍۢ جَاثِيَةًۭ ۚ كُلُّ أُمَّةٍۢ تُدْعَىٰٓ إِلَىٰ كِتَٰبِهَا ٱلْيَوْمَ تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ
 
-**45:29**  Y mae'r Llyfr hwn ohonom Ni yn siarad amdanoch mewn gwirionedd. Yr ydym wedi bod yn trawsgrifio'r hyn yr ydych wedi bod yn ei wneud.“
+**45:29**  Y mae'r Llyfr hwn ohonom Ni yn siarad amdanoch mewn gwirionedd. Yr ydym wedi bod yn trawsgrifio'r hyn yr ydych wedi bod yn ei wneud."
 
 هَٰذَا كِتَٰبُنَا يَنطِقُ عَلَيْكُم بِٱلْحَقِّ ۚ إِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ
 
@@ -18746,11 +18746,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُدْخِلُهُمْ رَبُّهُمْ فِى رَحْمَتِهِۦ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْمُبِينُ
 
-**45:31**  Ond o ran y rhai a anghredodd: “Oni adroddwyd Fy natguddiadau i chi? Ond trosoch yn drahaus, ac yn bobl euog oeddech.”
+**45:31**  Ond o ran y rhai a anghredodd: "Oni adroddwyd Fy natguddiadau i chi? Ond trosoch yn drahaus, ac yn bobl euog oeddech."
 
 وَأَمَّا ٱلَّذِينَ كَفَرُوٓا۟ أَفَلَمْ تَكُنْ ءَايَٰتِى تُتْلَىٰ عَلَيْكُمْ فَٱسْتَكْبَرْتُمْ وَكُنتُمْ قَوْمًۭا مُّجْرِمِينَ
 
-**45:32**  A phan ddywedwyd, “Y mae addewid Allah yn wir, ac nid oes amheuaeth am yr Awr,” dywedasoch, “Ni wyddom beth yw'r Awr; yr ydym yn meddwl nad yw ond dyfalu; nid ydym yn argyhoeddedig.”
+**45:32**  A phan ddywedwyd, "Y mae addewid Allah yn wir, ac nid oes amheuaeth am yr Awr," dywedasoch, "Ni wyddom beth yw'r Awr; yr ydym yn meddwl nad yw ond dyfalu; nid ydym yn argyhoeddedig."
 
 وَإِذَا قِيلَ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ وَٱلسَّاعَةُ لَا رَيْبَ فِيهَا قُلْتُم مَّا نَدْرِى مَا ٱلسَّاعَةُ إِن نَّظُنُّ إِلَّا ظَنًّۭا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ
 
@@ -18758,11 +18758,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَبَدَا لَهُمْ سَيِّـَٔاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**45:34**  A dywedir, “Heddiw yr ydym yn eich anghofio, fel yr anghofiasoch gyfarfod y Dydd hwn ohonoch. Eich cartref yw'r Tân, ac nid oes gwaredwyr i chi.
+**45:34**  A dywedir, "Heddiw yr ydym yn eich anghofio, fel yr anghofiasoch gyfarfod y Dydd hwn ohonoch. Eich cartref yw'r Tân, ac nid oes gwaredwyr i chi.
 
 وَقِيلَ ٱلْيَوْمَ نَنسَىٰكُمْ كَمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا وَمَأْوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّٰصِرِينَ
 
-**45:35**  Oherwydd eich bod wedi cymryd datguddiadau Allah yn jôc, a'r bywyd bydol wedi eich hudo.“ Felly heddiw ni chânt eu dwyn allan ohono, ac ni chânt eu caniatáu i edifarhau.
+**45:35**  Oherwydd eich bod wedi cymryd datguddiadau Allah yn jôc, a'r bywyd bydol wedi eich hudo." Felly heddiw ni chânt eu dwyn allan ohono, ac ni chânt eu caniatáu i edifarhau.
 
 ذَٰلِكُم بِأَنَّكُمُ ٱتَّخَذْتُمْ ءَايَٰتِ ٱللَّهِ هُزُوًۭا وَغَرَّتْكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ فَٱلْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَلَا هُمْ يُسْتَعْتَبُونَ
 
@@ -18781,7 +18781,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 **ٱلْأَحْقَاف** · Al-Ahqaf · Mecaidd · 35 adnod
 
-*Twyni tywod Ahqaf, a mab a ddywedodd, ‘Paid â phregethu i mi am atgyfodiad.’*
+*Twyni tywod Ahqaf, a mab a ddywedodd, 'Paid â phregethu i mi am atgyfodiad.'*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -18799,7 +18799,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 مَا خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ وَأَجَلٍۢ مُّسَمًّۭى ۚ وَٱلَّذِينَ كَفَرُوا۟ عَمَّآ أُنذِرُوا۟ مُعْرِضُونَ
 
-**46:4**  Dywed, “A ydych wedi ystyried y rhai yr ydych yn eu haddoli yn lle Allah? Dangoswch i mi pa ran o'r ddaear y maent wedi ei chreu. Neu a oes ganddynt gyfran o'r nefoedd? Dewch â llyfr i mi cyn yr un hon, neu ryw olwg o wybodaeth, os ydych yn eirwir.”
+**46:4**  Dywed, "A ydych wedi ystyried y rhai yr ydych yn eu haddoli yn lle Allah? Dangoswch i mi pa ran o'r ddaear y maent wedi ei chreu. Neu a oes ganddynt gyfran o'r nefoedd? Dewch â llyfr i mi cyn yr un hon, neu ryw olwg o wybodaeth, os ydych yn eirwir."
 
 قُلْ أَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌۭ فِى ٱلسَّمَٰوَٰتِ ۖ ٱئْتُونِى بِكِتَٰبٍۢ مِّن قَبْلِ هَٰذَآ أَوْ أَثَٰرَةٍۢ مِّنْ عِلْمٍ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -18811,23 +18811,23 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَإِذَا حُشِرَ ٱلنَّاسُ كَانُوا۟ لَهُمْ أَعْدَآءًۭ وَكَانُوا۟ بِعِبَادَتِهِمْ كَٰفِرِينَ
 
-**46:7**  Pan adroddir Ein datguddiadau iddynt, yn blaen ac yn eglur, y mae'r rhai sy'n anghredu yn dweud am y gwirionedd pan fydd wedi dod atynt, “Hud a lledrith amlwg yw hyn.”
+**46:7**  Pan adroddir Ein datguddiadau iddynt, yn blaen ac yn eglur, y mae'r rhai sy'n anghredu yn dweud am y gwirionedd pan fydd wedi dod atynt, "Hud a lledrith amlwg yw hyn."
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلْحَقِّ لَمَّا جَآءَهُمْ هَٰذَا سِحْرٌۭ مُّبِينٌ
 
-**46:8**  Neu a ddywedant, “Dyfeisiodd ef ei hun”? Dywed, “Os dyfeisiais ef fy hun, nid oes dim y gallwch ei wneud i'm hamddiffyn rhag Allah. Y mae'n gwybod yn dda beth yr ydych yn ymwneud ag ef. Y mae'n ddigon o dyst rhyngof fi a chi. Ef yw'r Maddeuwr, y Trugarog.”
+**46:8**  Neu a ddywedant, "Dyfeisiodd ef ei hun"? Dywed, "Os dyfeisiais ef fy hun, nid oes dim y gallwch ei wneud i'm hamddiffyn rhag Allah. Y mae'n gwybod yn dda beth yr ydych yn ymwneud ag ef. Y mae'n ddigon o dyst rhyngof fi a chi. Ef yw'r Maddeuwr, y Trugarog."
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَلَا تَمْلِكُونَ لِى مِنَ ٱللَّهِ شَيْـًٔا ۖ هُوَ أَعْلَمُ بِمَا تُفِيضُونَ فِيهِ ۖ كَفَىٰ بِهِۦ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۖ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
-**46:9**  Dywed, “Nid wyf yn wahanol i'r cenhadon eraill; ac nid wyf yn gwybod beth a wneir â mi, neu â chi. Nid wyf ond yn dilyn yr hyn a ysbrydolir ynof fi, ac nid wyf ond yn rhybuddiwr eglur.”
+**46:9**  Dywed, "Nid wyf yn wahanol i'r cenhadon eraill; ac nid wyf yn gwybod beth a wneir â mi, neu â chi. Nid wyf ond yn dilyn yr hyn a ysbrydolir ynof fi, ac nid wyf ond yn rhybuddiwr eglur."
 
 قُلْ مَا كُنتُ بِدْعًۭا مِّنَ ٱلرُّسُلِ وَمَآ أَدْرِى مَا يُفْعَلُ بِى وَلَا بِكُمْ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ وَمَآ أَنَا۠ إِلَّا نَذِيرٌۭ مُّبِينٌۭ
 
-**46:10**  Dywed, “A ydych wedi ystyried? Beth os yw oddi wrth Allah ac yr ydych yn anghredu ynddo? Tystiodd tyst o Blant Israel i'w debyg, ac y mae wedi credu, tra y trosoch chi yn drahaus. Nid yw Allah yn tywys y bobl anghyfiawn.”
+**46:10**  Dywed, "A ydych wedi ystyried? Beth os yw oddi wrth Allah ac yr ydych yn anghredu ynddo? Tystiodd tyst o Blant Israel i'w debyg, ac y mae wedi credu, tra y trosoch chi yn drahaus. Nid yw Allah yn tywys y bobl anghyfiawn."
 
 قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ وَكَفَرْتُم بِهِۦ وَشَهِدَ شَاهِدٌۭ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ عَلَىٰ مِثْلِهِۦ فَـَٔامَنَ وَٱسْتَكْبَرْتُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**46:11**  Y mae'r rhai sy'n anghredu yn dweud wrth y rhai sy'n credu, “Pe bai'n rhywbeth da, ni fyddent wedi ein rhagflaenu iddo.” Ac gan nad oeddent yn cael eu tywys ganddo, byddant yn dweud, “Celwydd hynafol yw hyn.”
+**46:11**  Y mae'r rhai sy'n anghredu yn dweud wrth y rhai sy'n credu, "Pe bai'n rhywbeth da, ni fyddent wedi ein rhagflaenu iddo." Ac gan nad oeddent yn cael eu tywys ganddo, byddant yn dweud, "Celwydd hynafol yw hyn."
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ لَوْ كَانَ خَيْرًۭا مَّا سَبَقُونَآ إِلَيْهِ ۚ وَإِذْ لَمْ يَهْتَدُوا۟ بِهِۦ فَسَيَقُولُونَ هَٰذَآ إِفْكٌۭ قَدِيمٌۭ
 
@@ -18835,7 +18835,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَمِن قَبْلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامًۭا وَرَحْمَةًۭ ۚ وَهَٰذَا كِتَٰبٌۭ مُّصَدِّقٌۭ لِّسَانًا عَرَبِيًّۭا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُوا۟ وَبُشْرَىٰ لِلْمُحْسِنِينَ
 
-**46:13**  Y rhai sy'n dweud, “Ein Harglwydd yw Allah,” yna'n arwain bywyd cyfiawn — nid oes ganddynt ddim i'w ofni, ac ni thristânt.
+**46:13**  Y rhai sy'n dweud, "Ein Harglwydd yw Allah," yna'n arwain bywyd cyfiawn — nid oes ganddynt ddim i'w ofni, ac ni thristânt.
 
 إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَٰمُوا۟ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
@@ -18843,7 +18843,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ خَٰلِدِينَ فِيهَا جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**46:15**  Yr ydym wedi gorchymyn ar ddyn garedigrwydd at ei rieni. Cludodd ei fam ef ag anhawster, a'i esgorodd ag anhawster. Y mae ei gludo a'i ddiddyfnu yn cymryd deg mis ar hugain. Hyd nes, pan fydd wedi cyrraedd ei aeddfedrwydd, ac wedi cyrraedd deugain mlynedd, y mae'n dweud, “Arglwydd, galluoga fi i werthfawrogi'r bendithion yr wyt wedi eu rhoi arnaf fi ac ar fy rhieni, ac i weithredu â chyfiawnder, sy'n dy blesio. A gwella fy mhlant i mi. Yr wyf wedi edifarhau'n ddiffuant atat, ac yr wyf o'r rhai sydd wedi ildio.”
+**46:15**  Yr ydym wedi gorchymyn ar ddyn garedigrwydd at ei rieni. Cludodd ei fam ef ag anhawster, a'i esgorodd ag anhawster. Y mae ei gludo a'i ddiddyfnu yn cymryd deg mis ar hugain. Hyd nes, pan fydd wedi cyrraedd ei aeddfedrwydd, ac wedi cyrraedd deugain mlynedd, y mae'n dweud, "Arglwydd, galluoga fi i werthfawrogi'r bendithion yr wyt wedi eu rhoi arnaf fi ac ar fy rhieni, ac i weithredu â chyfiawnder, sy'n dy blesio. A gwella fy mhlant i mi. Yr wyf wedi edifarhau'n ddiffuant atat, ac yr wyf o'r rhai sydd wedi ildio."
 
 وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ إِحْسَٰنًا ۖ حَمَلَتْهُ أُمُّهُۥ كُرْهًۭا وَوَضَعَتْهُ كُرْهًۭا ۖ وَحَمْلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ شَهْرًا ۚ حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرْبَعِينَ سَنَةًۭ قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًۭا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ ۖ إِنِّى تُبْتُ إِلَيْكَ وَإِنِّى مِنَ ٱلْمُسْلِمِينَ
 
@@ -18851,7 +18851,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ نَتَقَبَّلُ عَنْهُمْ أَحْسَنَ مَا عَمِلُوا۟ وَنَتَجَاوَزُ عَن سَيِّـَٔاتِهِمْ فِىٓ أَصْحَٰبِ ٱلْجَنَّةِ ۖ وَعْدَ ٱلصِّدْقِ ٱلَّذِى كَانُوا۟ يُوعَدُونَ
 
-**46:17**  O ran ef sy'n dweud wrth ei rieni, “Digon ohonoch! A ydych yn addo i mi y caf fy nghodi, pan fydd cenedlaethau wedi darfod o'm blaen?” Tra y maent yn gweiddi am help Allah, “Gwae di! Cred! Y mae addewid Allah yn wir!” Ond y mae'n dweud, “Nid yw'r rhain yn ddim ond chwedlau'r rhai hynafol.”
+**46:17**  O ran ef sy'n dweud wrth ei rieni, "Digon ohonoch! A ydych yn addo i mi y caf fy nghodi, pan fydd cenedlaethau wedi darfod o'm blaen?" Tra y maent yn gweiddi am help Allah, "Gwae di! Cred! Y mae addewid Allah yn wir!" Ond y mae'n dweud, "Nid yw'r rhain yn ddim ond chwedlau'r rhai hynafol."
 
 وَٱلَّذِى قَالَ لِوَٰلِدَيْهِ أُفٍّۢ لَّكُمَآ أَتَعِدَانِنِىٓ أَنْ أُخْرَجَ وَقَدْ خَلَتِ ٱلْقُرُونُ مِن قَبْلِى وَهُمَا يَسْتَغِيثَانِ ٱللَّهَ وَيْلَكَ ءَامِنْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ فَيَقُولُ مَا هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
@@ -18863,23 +18863,23 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَلِكُلٍّۢ دَرَجَٰتٌۭ مِّمَّا عَمِلُوا۟ ۖ وَلِيُوَفِّيَهُمْ أَعْمَٰلَهُمْ وَهُمْ لَا يُظْلَمُونَ
 
-**46:20**  Ar y Dydd pan fydd y diffydd yn cael eu harddangos o flaen y Tân: “Yr ydych wedi gwastraffu eich da yn eich bywyd bydol, a chymerasoch bleser ynddynt. Felly heddiw yr ydych yn cael eich talu â phoenyd cywilydd, oherwydd eich traha di-gyfiawn ar y ddaear, ac oherwydd eich bod yn arfer pechu.”
+**46:20**  Ar y Dydd pan fydd y diffydd yn cael eu harddangos o flaen y Tân: "Yr ydych wedi gwastraffu eich da yn eich bywyd bydol, a chymerasoch bleser ynddynt. Felly heddiw yr ydych yn cael eich talu â phoenyd cywilydd, oherwydd eich traha di-gyfiawn ar y ddaear, ac oherwydd eich bod yn arfer pechu."
 
 وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَذْهَبْتُمْ طَيِّبَٰتِكُمْ فِى حَيَاتِكُمُ ٱلدُّنْيَا وَٱسْتَمْتَعْتُم بِهَا فَٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَسْتَكْبِرُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَبِمَا كُنتُمْ تَفْسُقُونَ
 
-**46:21**  A chofia frawd Aad, fel y rhybuddiodd ei bobl wrth y twyni. Y mae rhybuddion wedi darfod o'i flaen, ac ar ei ôl: “Nac addolwch neb ond Allah; yr wyf yn ofni i chi boenyd Diwrnod aruthrol.”
+**46:21**  A chofia frawd Aad, fel y rhybuddiodd ei bobl wrth y twyni. Y mae rhybuddion wedi darfod o'i flaen, ac ar ei ôl: "Nac addolwch neb ond Allah; yr wyf yn ofni i chi boenyd Diwrnod aruthrol."
 
 ۞ وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦٓ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍۢ
 
-**46:22**  Dywedasant, “A ddaethost atom i'n troi oddi wrth ein duwiau? Yna dwg i ni'r hyn yr wyt yn ein bygwth ag ef, os wyt yn eirwir.”
+**46:22**  Dywedasant, "A ddaethost atom i'n troi oddi wrth ein duwiau? Yna dwg i ni'r hyn yr wyt yn ein bygwth ag ef, os wyt yn eirwir."
 
 قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 
-**46:23**  Dywedodd, “Nid yw'r wybodaeth ond gydag Allah, ac yr wyf yn eich hysbysu o'r hyn yr anfonwyd fi ag ef; ond yr wyf yn eich gweld yn bobl anwybodus.”
+**46:23**  Dywedodd, "Nid yw'r wybodaeth ond gydag Allah, ac yr wyf yn eich hysbysu o'r hyn yr anfonwyd fi ag ef; ond yr wyf yn eich gweld yn bobl anwybodus."
 
 قَالَ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَأُبَلِّغُكُم مَّآ أُرْسِلْتُ بِهِۦ وَلَٰكِنِّىٓ أَرَىٰكُمْ قَوْمًۭا تَجْهَلُونَ
 
-**46:24**  Yna, pan welsant gwmwl yn nesáu at eu dyffryn, dywedasant, “Cwmwl yw hwn a ddaw â glaw i ni.” “Yn wir, dyma'r hyn yr oeddech yn ddiamynedd amdano: gwynt y mae dioddefaint creulon ynddo.”
+**46:24**  Yna, pan welsant gwmwl yn nesáu at eu dyffryn, dywedasant, "Cwmwl yw hwn a ddaw â glaw i ni." "Yn wir, dyma'r hyn yr oeddech yn ddiamynedd amdano: gwynt y mae dioddefaint creulon ynddo."
 
 فَلَمَّا رَأَوْهُ عَارِضًۭا مُّسْتَقْبِلَ أَوْدِيَتِهِمْ قَالُوا۟ هَٰذَا عَارِضٌۭ مُّمْطِرُنَا ۚ بَلْ هُوَ مَا ٱسْتَعْجَلْتُم بِهِۦ ۖ رِيحٌۭ فِيهَا عَذَابٌ أَلِيمٌۭ
 
@@ -18899,15 +18899,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَلَوْلَا نَصَرَهُمُ ٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ قُرْبَانًا ءَالِهَةًۢ ۖ بَلْ ضَلُّوا۟ عَنْهُمْ ۚ وَذَٰلِكَ إِفْكُهُمْ وَمَا كَانُوا۟ يَفْتَرُونَ
 
-**46:29**  Cofia pan anfonasom Ni tuag atat nifer o jinn, i wrando ar y Qur'an. Pan ddaethant yn ei bresenoldeb, dywedasant, “Rhowch sylw!” Yna, pan orffennwyd, rhuthrasant at eu pobl, yn eu rhybuddio.
+**46:29**  Cofia pan anfonasom Ni tuag atat nifer o jinn, i wrando ar y Qur'an. Pan ddaethant yn ei bresenoldeb, dywedasant, "Rhowch sylw!" Yna, pan orffennwyd, rhuthrasant at eu pobl, yn eu rhybuddio.
 
 وَإِذْ صَرَفْنَآ إِلَيْكَ نَفَرًۭا مِّنَ ٱلْجِنِّ يَسْتَمِعُونَ ٱلْقُرْءَانَ فَلَمَّا حَضَرُوهُ قَالُوٓا۟ أَنصِتُوا۟ ۖ فَلَمَّا قُضِىَ وَلَّوْا۟ إِلَىٰ قَوْمِهِم مُّنذِرِينَ
 
-**46:30**  Dywedasant, “O'n pobl, yr ydym wedi clywed Ysgrythur, wedi'i hanfon i lawr ar ôl Moses, yn cadarnhau'r hyn a ddaeth o'i flaen. Y mae'n tywys i'r gwirionedd, ac i lwybr union.
+**46:30**  Dywedasant, "O'n pobl, yr ydym wedi clywed Ysgrythur, wedi'i hanfon i lawr ar ôl Moses, yn cadarnhau'r hyn a ddaeth o'i flaen. Y mae'n tywys i'r gwirionedd, ac i lwybr union.
 
 قَالُوا۟ يَٰقَوْمَنَآ إِنَّا سَمِعْنَا كِتَٰبًا أُنزِلَ مِنۢ بَعْدِ مُوسَىٰ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ يَهْدِىٓ إِلَى ٱلْحَقِّ وَإِلَىٰ طَرِيقٍۢ مُّسْتَقِيمٍۢ
 
-**46:31**  O'n pobl! Atebwch alwr Allah, a chredwch ynddo; a bydd yn maddau i chi eich pechodau, ac yn eich achub rhag poenyd poenus.“
+**46:31**  O'n pobl! Atebwch alwr Allah, a chredwch ynddo; a bydd yn maddau i chi eich pechodau, ac yn eich achub rhag poenyd poenus."
 
 يَٰقَوْمَنَآ أَجِيبُوا۟ دَاعِىَ ٱللَّهِ وَءَامِنُوا۟ بِهِۦ يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُجِرْكُم مِّنْ عَذَابٍ أَلِيمٍۢ
 
@@ -18919,7 +18919,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَمْ يَعْىَ بِخَلْقِهِنَّ بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ ۚ بَلَىٰٓ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**46:34**  Ar y Dydd pan fydd y rhai a anghredodd yn cael eu cyflwyno i'r Tân: “Onid yw hyn yn real?” Byddant yn dweud, “Ydy, yn wir, gan ein Harglwydd.” Bydd yn dweud, “Yna blaswch y dioddefaint am fod wedi anghredu.”
+**46:34**  Ar y Dydd pan fydd y rhai a anghredodd yn cael eu cyflwyno i'r Tân: "Onid yw hyn yn real?" Byddant yn dweud, "Ydy, yn wir, gan ein Harglwydd." Bydd yn dweud, "Yna blaswch y dioddefaint am fod wedi anghredu."
 
 وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَلَيْسَ هَٰذَا بِٱلْحَقِّ ۖ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
 
@@ -18934,7 +18934,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 **مُحَمَّد** · Muhammad · Medinaidd · 38 adnod
 
-*Muhammad: y rhai sy’n credu ac yn gwneud iawn, ac afon wedi’i haddo ym Mharadwys.*
+*Muhammad: y rhai sy'n credu ac yn gwneud iawn, ac afon wedi'i haddo ym Mharadwys.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -19000,7 +19000,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ ۖ فِيهَآ أَنْهَٰرٌۭ مِّن مَّآءٍ غَيْرِ ءَاسِنٍۢ وَأَنْهَٰرٌۭ مِّن لَّبَنٍۢ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَٰرٌۭ مِّنْ خَمْرٍۢ لَّذَّةٍۢ لِّلشَّٰرِبِينَ وَأَنْهَٰرٌۭ مِّنْ عَسَلٍۢ مُّصَفًّۭى ۖ وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌۭ مِّن رَّبِّهِمْ ۖ كَمَنْ هُوَ خَٰلِدٌۭ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًۭا فَقَطَّعَ أَمْعَآءَهُمْ
 
-**47:16**  Yn eu plith y mae'r rhai sy'n gwrando arnat, ond pan fyddant yn gadael dy bresenoldeb, dywedant wrth y rhai a roddwyd gwybodaeth iddynt, “Beth a ddywedodd ef yn awr?” Dyma'r rhai y mae Allah wedi selio eu calonnau, ac y maent yn dilyn eu chwantau eu hunain.
+**47:16**  Yn eu plith y mae'r rhai sy'n gwrando arnat, ond pan fyddant yn gadael dy bresenoldeb, dywedant wrth y rhai a roddwyd gwybodaeth iddynt, "Beth a ddywedodd ef yn awr?" Dyma'r rhai y mae Allah wedi selio eu calonnau, ac y maent yn dilyn eu chwantau eu hunain.
 
 وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ حَتَّىٰٓ إِذَا خَرَجُوا۟ مِنْ عِندِكَ قَالُوا۟ لِلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مَاذَا قَالَ ءَانِفًا ۚ أُو۟لَٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ
 
@@ -19016,7 +19016,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَٱعْلَمْ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱللَّهُ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ ۗ وَٱللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَىٰكُمْ
 
-**47:20**  Y mae'r rhai sy'n credu yn dweud, “Pe bai pennod yn cael ei hanfon i lawr.” Eto pan anfonir pennod bendant i lawr, a chrybwyllir ymladd ynddi, byddi'n gweld y rhai y mae clefyd yn eu calonnau yn edrych arnat â golwg rhywun sy'n llewygu wrth farw. Felly gwae iddynt!
+**47:20**  Y mae'r rhai sy'n credu yn dweud, "Pe bai pennod yn cael ei hanfon i lawr." Eto pan anfonir pennod bendant i lawr, a chrybwyllir ymladd ynddi, byddi'n gweld y rhai y mae clefyd yn eu calonnau yn edrych arnat â golwg rhywun sy'n llewygu wrth farw. Felly gwae iddynt!
 
 وَيَقُولُ ٱلَّذِينَ ءَامَنُوا۟ لَوْلَا نُزِّلَتْ سُورَةٌۭ ۖ فَإِذَآ أُنزِلَتْ سُورَةٌۭ مُّحْكَمَةٌۭ وَذُكِرَ فِيهَا ٱلْقِتَالُ ۙ رَأَيْتَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِىِّ عَلَيْهِ مِنَ ٱلْمَوْتِ ۖ فَأَوْلَىٰ لَهُمْ
 
@@ -19040,7 +19040,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِنَّ ٱلَّذِينَ ٱرْتَدُّوا۟ عَلَىٰٓ أَدْبَٰرِهِم مِّنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْهُدَى ۙ ٱلشَّيْطَٰنُ سَوَّلَ لَهُمْ وَأَمْلَىٰ لَهُمْ
 
-**47:26**  Oherwydd eu bod wedi dweud wrth y rhai a gasaodd yr hyn y mae Allah wedi ei anfon i lawr, “Byddwn yn ufuddhau i chi mewn rhai materion.” Ond y mae Allah yn gwybod eu meddyliau cyfrin.
+**47:26**  Oherwydd eu bod wedi dweud wrth y rhai a gasaodd yr hyn y mae Allah wedi ei anfon i lawr, "Byddwn yn ufuddhau i chi mewn rhai materion." Ond y mae Allah yn gwybod eu meddyliau cyfrin.
 
 ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لِلَّذِينَ كَرِهُوا۟ مَا نَزَّلَ ٱللَّهُ سَنُطِيعُكُمْ فِى بَعْضِ ٱلْأَمْرِ ۖ وَٱللَّهُ يَعْلَمُ إِسْرَارَهُمْ
 
@@ -21455,11 +21455,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلْإِيمَٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةًۭ مِّمَّآ أُوتُوا۟ وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌۭ ۚ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
 
-**59:10**  A'r rhai a ddaeth ar eu hôl, gan ddweud, “Ein Harglwydd, maddau i ni, ac i'n brodyr a'n rhagflaenodd yn y ffydd, ac na ad ddim casineb yn ein calonnau tuag at y rhai sy'n credu. Ein Harglwydd, yr wyt ti'n dyner ac yn drugarog.”
+**59:10**  A'r rhai a ddaeth ar eu hôl, gan ddweud, "Ein Harglwydd, maddau i ni, ac i'n brodyr a'n rhagflaenodd yn y ffydd, ac na ad ddim casineb yn ein calonnau tuag at y rhai sy'n credu. Ein Harglwydd, yr wyt ti'n dyner ac yn drugarog."
 
 وَٱلَّذِينَ جَآءُو مِنۢ بَعْدِهِمْ يَقُولُونَ رَبَّنَا ٱغْفِرْ لَنَا وَلِإِخْوَٰنِنَا ٱلَّذِينَ سَبَقُونَا بِٱلْإِيمَٰنِ وَلَا تَجْعَلْ فِى قُلُوبِنَا غِلًّۭا لِّلَّذِينَ ءَامَنُوا۟ رَبَّنَآ إِنَّكَ رَءُوفٌۭ رَّحِيمٌ
 
-**59:11**  Onid wyt ti wedi ystyried y rhai sy'n ymddwyn yn rhagrithiol? Maent yn dweud wrth eu brodyr anghrediniol ymhlith Pobl y Llyfr, “Os cewch eich troi allan, fe awn allan gyda chi, ac ni fyddwn yn ufuddhau i neb yn eich erbyn; ac os bydd neb yn ymladd yn eich erbyn, fe'ch cynorthwywn yn sicr.” Ond y mae Allah yn tystio eu bod yn gelwyddog.
+**59:11**  Onid wyt ti wedi ystyried y rhai sy'n ymddwyn yn rhagrithiol? Maent yn dweud wrth eu brodyr anghrediniol ymhlith Pobl y Llyfr, "Os cewch eich troi allan, fe awn allan gyda chi, ac ni fyddwn yn ufuddhau i neb yn eich erbyn; ac os bydd neb yn ymladd yn eich erbyn, fe'ch cynorthwywn yn sicr." Ond y mae Allah yn tystio eu bod yn gelwyddog.
 
 ۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ نَافَقُوا۟ يَقُولُونَ لِإِخْوَٰنِهِمُ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ لَئِنْ أُخْرِجْتُمْ لَنَخْرُجَنَّ مَعَكُمْ وَلَا نُطِيعُ فِيكُمْ أَحَدًا أَبَدًۭا وَإِن قُوتِلْتُمْ لَنَنصُرَنَّكُمْ وَٱللَّهُ يَشْهَدُ إِنَّهُمْ لَكَٰذِبُونَ
 
@@ -21479,7 +21479,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 كَمَثَلِ ٱلَّذِينَ مِن قَبْلِهِمْ قَرِيبًۭا ۖ ذَاقُوا۟ وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌۭ
 
-**59:16**  Fel y diafol, pan ddywed wrth y bod dynol, “Anghreda.” Ond pan fydd wedi anghredu, dywed, “Yr wyf yn ddieuog ohonot ti; yr wyf yn ofni Allah, Arglwydd y Bydoedd.”
+**59:16**  Fel y diafol, pan ddywed wrth y bod dynol, "Anghreda." Ond pan fydd wedi anghredu, dywed, "Yr wyf yn ddieuog ohonot ti; yr wyf yn ofni Allah, Arglwydd y Bydoedd."
 
 كَمَثَلِ ٱلشَّيْطَٰنِ إِذْ قَالَ لِلْإِنسَٰنِ ٱكْفُرْ فَلَمَّا كَفَرَ قَالَ إِنِّى بَرِىٓءٌۭ مِّنكَ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ
 
@@ -21540,11 +21540,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 لَن تَنفَعَكُمْ أَرْحَامُكُمْ وَلَآ أَوْلَٰدُكُمْ ۚ يَوْمَ ٱلْقِيَٰمَةِ يَفْصِلُ بَيْنَكُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌۭ
 
-**60:4**  Cawsoch esiampl ardderchog yn Abraham a'r rhai gydag ef; pan ddywedasant wrth eu pobl, “Yr ydym yn rhydd ohonoch, ac oddi wrth yr hyn yr ydych yn ei addoli heblaw Allah. Yr ydym yn eich gwadu. Mae gelyniaeth a chasineb wedi dod i'r golwg rhyngom ni a chi, am byth, nes y credoch yn Allah yn unig.” Ac eithrio geiriau Abraham wrth ei dad, “Gofynnaf faddeuant i ti, er nad oes gennyf unrhyw allu oddi wrth Allah i wneud dim i ti.” “Ein Harglwydd, ynot ti yr ydym yn ymddiried, ac atat ti yr ydym yn edifarhau, ac atat ti y mae'r gyrchfan olaf.
+**60:4**  Cawsoch esiampl ardderchog yn Abraham a'r rhai gydag ef; pan ddywedasant wrth eu pobl, "Yr ydym yn rhydd ohonoch, ac oddi wrth yr hyn yr ydych yn ei addoli heblaw Allah. Yr ydym yn eich gwadu. Mae gelyniaeth a chasineb wedi dod i'r golwg rhyngom ni a chi, am byth, nes y credoch yn Allah yn unig." Ac eithrio geiriau Abraham wrth ei dad, "Gofynnaf faddeuant i ti, er nad oes gennyf unrhyw allu oddi wrth Allah i wneud dim i ti." "Ein Harglwydd, ynot ti yr ydym yn ymddiried, ac atat ti yr ydym yn edifarhau, ac atat ti y mae'r gyrchfan olaf.
 
 قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌۭ فِىٓ إِبْرَٰهِيمَ وَٱلَّذِينَ مَعَهُۥٓ إِذْ قَالُوا۟ لِقَوْمِهِمْ إِنَّا بُرَءَٰٓؤُا۟ مِنكُمْ وَمِمَّا تَعْبُدُونَ مِن دُونِ ٱللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ ٱلْعَدَٰوَةُ وَٱلْبَغْضَآءُ أَبَدًا حَتَّىٰ تُؤْمِنُوا۟ بِٱللَّهِ وَحْدَهُۥٓ إِلَّا قَوْلَ إِبْرَٰهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَآ أَمْلِكُ لَكَ مِنَ ٱللَّهِ مِن شَىْءٍۢ ۖ رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ ٱلْمَصِيرُ
 
-**60:5**  Ein Harglwydd, na wna ni'n darged i'r rhai sy'n anghredu, a maddau i ni, ein Harglwydd. Yr wyt ti'n wir yr Hollalluog, y Doeth.”
+**60:5**  Ein Harglwydd, na wna ni'n darged i'r rhai sy'n anghredu, a maddau i ni, ein Harglwydd. Yr wyt ti'n wir yr Hollalluog, y Doeth."
 
 رَبَّنَا لَا تَجْعَلْنَا فِتْنَةًۭ لِّلَّذِينَ كَفَرُوا۟ وَٱغْفِرْ لَنَا رَبَّنَآ ۖ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
@@ -21609,11 +21609,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَٰتِلُونَ فِى سَبِيلِهِۦ صَفًّۭا كَأَنَّهُم بُنْيَٰنٌۭ مَّرْصُوصٌۭ
 
-**61:5**  Pan ddywedodd Moses wrth ei bobl, “O fy mhobl, pam yr ydych yn fy mrifo, er eich bod yn gwybod mai Cenhadwr Allah atoch ydwyf?” A phan wyrasant, fe wyrodd Allah eu calonnau. Nid yw Allah yn arwain y bobl bechadurus.
+**61:5**  Pan ddywedodd Moses wrth ei bobl, "O fy mhobl, pam yr ydych yn fy mrifo, er eich bod yn gwybod mai Cenhadwr Allah atoch ydwyf?" A phan wyrasant, fe wyrodd Allah eu calonnau. Nid yw Allah yn arwain y bobl bechadurus.
 
 وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ ۖ فَلَمَّا زَاغُوٓا۟ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 
-**61:6**  A phan ddywedodd Iesu fab Mair, “O blant Israel, Cenhadwr Allah atoch ydwyf, yn cadarnhau yr hyn a'm rhagflaenodd o'r Torah, ac yn cyhoeddi newydd da am genhadwr a ddaw ar fy ôl, a'i enw yw Ahmad.” Ond pan ddangosodd iddynt y gwyrthiau, dywedasant, “Hudoliaeth amlwg yw hyn.”
+**61:6**  A phan ddywedodd Iesu fab Mair, "O blant Israel, Cenhadwr Allah atoch ydwyf, yn cadarnhau yr hyn a'm rhagflaenodd o'r Torah, ac yn cyhoeddi newydd da am genhadwr a ddaw ar fy ôl, a'i enw yw Ahmad." Ond pan ddangosodd iddynt y gwyrthiau, dywedasant, "Hudoliaeth amlwg yw hyn."
 
 وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًۭا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍۢ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَٰتِ قَالُوا۟ هَٰذَا سِحْرٌۭ مُّبِينٌۭ
 
@@ -21645,7 +21645,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَأُخْرَىٰ تُحِبُّونَهَا ۖ نَصْرٌۭ مِّنَ ٱللَّهِ وَفَتْحٌۭ قَرِيبٌۭ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ
 
-**61:14**  O chi sy'n credu! Byddwch yn gynorthwywyr i Allah, fel y dywedodd Iesu fab Mair wrth y disgyblion, “Pwy yw fy nghynorthwywyr tuag at Allah?” Dywedodd y disgyblion, “Ni yw cynorthwywyr Allah.” Felly credodd mintai o blant Israel, tra bod mintai arall wedi anghredu. Fe gynorthwyasom y rhai a gredodd yn erbyn eu gelyn, fel y daethant yn drechaf.
+**61:14**  O chi sy'n credu! Byddwch yn gynorthwywyr i Allah, fel y dywedodd Iesu fab Mair wrth y disgyblion, "Pwy yw fy nghynorthwywyr tuag at Allah?" Dywedodd y disgyblion, "Ni yw cynorthwywyr Allah." Felly credodd mintai o blant Israel, tra bod mintai arall wedi anghredu. Fe gynorthwyasom y rhai a gredodd yn erbyn eu gelyn, fel y daethant yn drechaf.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوٓا۟ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ لِلْحَوَارِيِّۦنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ۖ فَـَٔامَنَت طَّآئِفَةٌۭ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌۭ ۖ فَأَيَّدْنَا ٱلَّذِينَ ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَٰهِرِينَ
 
@@ -21682,7 +21682,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 مَثَلُ ٱلَّذِينَ حُمِّلُوا۟ ٱلتَّوْرَىٰةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ ٱلْحِمَارِ يَحْمِلُ أَسْفَارًۢا ۚ بِئْسَ مَثَلُ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِ ٱللَّهِ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**62:6**  Dywed, “O chi sy'n dilyn Iddewiaeth; os ydych yn honni mai chi yw etholedigion Allah, i eithrio gweddill dynolryw, yna dymunwch am farwolaeth os ydych yn onest.”
+**62:6**  Dywed, "O chi sy'n dilyn Iddewiaeth; os ydych yn honni mai chi yw etholedigion Allah, i eithrio gweddill dynolryw, yna dymunwch am farwolaeth os ydych yn onest."
 
 قُلْ يَٰٓأَيُّهَا ٱلَّذِينَ هَادُوٓا۟ إِن زَعَمْتُمْ أَنَّكُمْ أَوْلِيَآءُ لِلَّهِ مِن دُونِ ٱلنَّاسِ فَتَمَنَّوُا۟ ٱلْمَوْتَ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -21690,7 +21690,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَلَا يَتَمَنَّوْنَهُۥٓ أَبَدًۢا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۚ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّٰلِمِينَ
 
-**62:8**  Dywed, “Y farwolaeth yr ydych yn ffoi oddi wrthi a'ch dal i fyny; yna fe'ch dychwelir at Wybyddwr yr Anweledig a'r Gweledig, a bydd yn eich hysbysu o'r hyn yr oeddech yn ei wneud.”
+**62:8**  Dywed, "Y farwolaeth yr ydych yn ffoi oddi wrthi a'ch dal i fyny; yna fe'ch dychwelir at Wybyddwr yr Anweledig a'r Gweledig, a bydd yn eich hysbysu o'r hyn yr oeddech yn ei wneud."
 
 قُلْ إِنَّ ٱلْمَوْتَ ٱلَّذِى تَفِرُّونَ مِنْهُ فَإِنَّهُۥ مُلَٰقِيكُمْ ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 
@@ -21702,7 +21702,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُوا۟ ٱللَّهَ كَثِيرًۭا لَّعَلَّكُمْ تُفْلِحُونَ
 
-**62:11**  Eto pryd bynnag y deuant ar draws rhywfaint o fusnes, neu ryw adloniant, maent yn brysio tuag ato, ac yn dy adael yn sefyll. Dywed, “Y mae'r hyn sydd gydag Allah yn well nag adloniant a busnes; ac Allah yw'r Gorau o ddarparwyr.”
+**62:11**  Eto pryd bynnag y deuant ar draws rhywfaint o fusnes, neu ryw adloniant, maent yn brysio tuag ato, ac yn dy adael yn sefyll. Dywed, "Y mae'r hyn sydd gydag Allah yn well nag adloniant a busnes; ac Allah yw'r Gorau o ddarparwyr."
 
 وَإِذَا رَأَوْا۟ تِجَٰرَةً أَوْ لَهْوًا ٱنفَضُّوٓا۟ إِلَيْهَا وَتَرَكُوكَ قَآئِمًۭا ۚ قُلْ مَا عِندَ ٱللَّهِ خَيْرٌۭ مِّنَ ٱللَّهْوِ وَمِنَ ٱلتِّجَٰرَةِ ۚ وَٱللَّهُ خَيْرُ ٱلرَّٰزِقِينَ
 
@@ -21713,13 +21713,13 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 **ٱلْمُنَافِقُون** · Al-Munafiqun · Medinaidd · 11 adnod
 
-*Y rhagrithwyr a ddywedodd, ‘Peidiwch â gwario ar y rhai sydd gyda'r Cenhadwr.’*
+*Y rhagrithwyr a ddywedodd, 'Peidiwch â gwario ar y rhai sydd gyda'r Cenhadwr.'*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
 *Yn enw Allah, y Daionus, y Trugarog.*
 
-**63:1**  Pan ddaw'r rhagrithwyr atat ti, maent yn dweud, “Yr ydym yn tystio mai ti yw Cenhadwr Allah.” Y mae Allah yn gwybod mai ti yw ei Genhadwr, ac y mae Allah yn tystio bod y rhagrithwyr yn gelwyddog.
+**63:1**  Pan ddaw'r rhagrithwyr atat ti, maent yn dweud, "Yr ydym yn tystio mai ti yw Cenhadwr Allah." Y mae Allah yn gwybod mai ti yw ei Genhadwr, ac y mae Allah yn tystio bod y rhagrithwyr yn gelwyddog.
 
 إِذَا جَآءَكَ ٱلْمُنَٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَٰفِقِينَ لَكَٰذِبُونَ
 
@@ -21735,7 +21735,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ۞ وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا۟ تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌۭ مُّسَنَّدَةٌۭ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ ٱلْعَدُوُّ فَٱحْذَرْهُمْ ۚ قَٰتَلَهُمُ ٱللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ
 
-**63:5**  A phan ddywedir wrthynt, “Dewch, bydd Cenhadwr Allah yn gofyn maddeuant i chi,” maent yn plygu eu pennau, a gwelir nhw'n troi ymaith yn falch.
+**63:5**  A phan ddywedir wrthynt, "Dewch, bydd Cenhadwr Allah yn gofyn maddeuant i chi," maent yn plygu eu pennau, a gwelir nhw'n troi ymaith yn falch.
 
 وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ يَسْتَغْفِرْ لَكُمْ رَسُولُ ٱللَّهِ لَوَّوْا۟ رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ
 
@@ -21743,11 +21743,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 
-**63:7**  Nhw yw'r rhai sy'n dweud: “Peidiwch â gwario dim ar y rhai sydd gyda Chenhadwr Allah, nes y byddont wedi gwasgaru.” I Allah y mae trysorau'r nefoedd a'r ddaear, ond nid yw'r rhagrithwyr yn deall.
+**63:7**  Nhw yw'r rhai sy'n dweud: "Peidiwch â gwario dim ar y rhai sydd gyda Chenhadwr Allah, nes y byddont wedi gwasgaru." I Allah y mae trysorau'r nefoedd a'r ddaear, ond nid yw'r rhagrithwyr yn deall.
 
 هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُوا۟ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّوا۟ ۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَٰكِنَّ ٱلْمُنَٰفِقِينَ لَا يَفْقَهُونَ
 
-**63:8**  Maent yn dweud, “Os dychwelwn i'r Ddinas, fe fydd y mwyaf grymus ynddi yn troi'r gwan allan.” Ond i Allah y mae'r grym, ac i'w Genhadwr, ac i'r credinwyr; ond nid yw'r rhagrithwyr yn gwybod.
+**63:8**  Maent yn dweud, "Os dychwelwn i'r Ddinas, fe fydd y mwyaf grymus ynddi yn troi'r gwan allan." Ond i Allah y mae'r grym, ac i'w Genhadwr, ac i'r credinwyr; ond nid yw'r rhagrithwyr yn gwybod.
 
 يَقُولُونَ لَئِن رَّجَعْنَآ إِلَى ٱلْمَدِينَةِ لَيُخْرِجَنَّ ٱلْأَعَزُّ مِنْهَا ٱلْأَذَلَّ ۚ وَلِلَّهِ ٱلْعِزَّةُ وَلِرَسُولِهِۦ وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ ٱلْمُنَٰفِقِينَ لَا يَعْلَمُونَ
 
@@ -21755,7 +21755,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُلْهِكُمْ أَمْوَٰلُكُمْ وَلَآ أَوْلَٰدُكُمْ عَن ذِكْرِ ٱللَّهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ
 
-**63:10**  A rhoddwch o'r hyn yr ydym wedi ei ddarparu i chi, cyn i farwolaeth nesáu at un ohonoch, ac y dywed, “Fy Arglwydd, pe baet ti'n fy oedi am ychydig, fel y gallaf roi elusen, a bod yn un o'r rhai cyfiawn.”
+**63:10**  A rhoddwch o'r hyn yr ydym wedi ei ddarparu i chi, cyn i farwolaeth nesáu at un ohonoch, ac y dywed, "Fy Arglwydd, pe baet ti'n fy oedi am ychydig, fel y gallaf roi elusen, a bod yn un o'r rhai cyfiawn."
 
 وَأَنفِقُوا۟ مِن مَّا رَزَقْنَٰكُم مِّن قَبْلِ أَن يَأْتِىَ أَحَدَكُمُ ٱلْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ أَخَّرْتَنِىٓ إِلَىٰٓ أَجَلٍۢ قَرِيبٍۢ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّٰلِحِينَ
 
@@ -21796,11 +21796,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 أَلَمْ يَأْتِكُمْ نَبَؤُا۟ ٱلَّذِينَ كَفَرُوا۟ مِن قَبْلُ فَذَاقُوا۟ وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌۭ
 
-**64:6**  Y mae hynny am i'w cenhadon ddyfod atynt ag eglurhadau clir, ond dywedasant, “Ai bodau dynol sy'n mynd i'n harwain?” Felly anghredasant a throesant ymaith. Ond nid oes ar Allah angen. Y mae Allah yn Annibynnol ac yn Ganmoladwy.
+**64:6**  Y mae hynny am i'w cenhadon ddyfod atynt ag eglurhadau clir, ond dywedasant, "Ai bodau dynol sy'n mynd i'n harwain?" Felly anghredasant a throesant ymaith. Ond nid oes ar Allah angen. Y mae Allah yn Annibynnol ac yn Ganmoladwy.
 
 ذَٰلِكَ بِأَنَّهُۥ كَانَت تَّأْتِيهِمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَقَالُوٓا۟ أَبَشَرٌۭ يَهْدُونَنَا فَكَفَرُوا۟ وَتَوَلَّوا۟ ۚ وَّٱسْتَغْنَى ٱللَّهُ ۚ وَٱللَّهُ غَنِىٌّ حَمِيدٌۭ
 
-**64:7**  Y mae'r rhai sy'n anghredu yn honni na fyddant yn cael eu hatgyfodi. Dywed, “Ie yn wir, trwy fy Arglwydd, fe'ch atgyfodir; yna fe'ch hysbysir o bopeth y gwnaethoch; ac y mae hynny'n hawdd i Allah.”
+**64:7**  Y mae'r rhai sy'n anghredu yn honni na fyddant yn cael eu hatgyfodi. Dywed, "Ie yn wir, trwy fy Arglwydd, fe'ch atgyfodir; yna fe'ch hysbysir o bopeth y gwnaethoch; ac y mae hynny'n hawdd i Allah."
 
 زَعَمَ ٱلَّذِينَ كَفَرُوٓا۟ أَن لَّن يُبْعَثُوا۟ ۚ قُلْ بَلَىٰ وَرَبِّى لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ ۚ وَذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌۭ
 
@@ -21930,7 +21930,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 قَدْ فَرَضَ ٱللَّهُ لَكُمْ تَحِلَّةَ أَيْمَٰنِكُمْ ۚ وَٱللَّهُ مَوْلَىٰكُمْ ۖ وَهُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
 
-**66:3**  Dywedodd y Proffwyd rywbeth yn gyfrinachol wrth un o'i wragedd. Ond pan ddatgelodd hi hynny, a phan wnaeth Allah hynny'n hysbys iddo; cyfleodd ran ohono, ac osgoi ran arall. Yna, pan hysbysodd hi ohono, dywedodd hi, “Pwy a'th hysbysodd o hyn?” Dywedodd yntau, “Yr Hollwybodus, yr Hollhysbys, a'm hysbysodd.”
+**66:3**  Dywedodd y Proffwyd rywbeth yn gyfrinachol wrth un o'i wragedd. Ond pan ddatgelodd hi hynny, a phan wnaeth Allah hynny'n hysbys iddo; cyfleodd ran ohono, ac osgoi ran arall. Yna, pan hysbysodd hi ohono, dywedodd hi, "Pwy a'th hysbysodd o hyn?" Dywedodd yntau, "Yr Hollwybodus, yr Hollhysbys, a'm hysbysodd."
 
 وَإِذْ أَسَرَّ ٱلنَّبِىُّ إِلَىٰ بَعْضِ أَزْوَٰجِهِۦ حَدِيثًۭا فَلَمَّا نَبَّأَتْ بِهِۦ وَأَظْهَرَهُ ٱللَّهُ عَلَيْهِ عَرَّفَ بَعْضَهُۥ وَأَعْرَضَ عَنۢ بَعْضٍۢ ۖ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتْ مَنْ أَنۢبَأَكَ هَٰذَا ۖ قَالَ نَبَّأَنِىَ ٱلْعَلِيمُ ٱلْخَبِيرُ
 
@@ -21950,7 +21950,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 يَٰٓأَيُّهَا ٱلَّذِينَ كَفَرُوا۟ لَا تَعْتَذِرُوا۟ ٱلْيَوْمَ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ
 
-**66:8**  O chi sy'n credu! Edifarhewch at Allah ag edifeirwch diffuant. Efallai y bydd eich Arglwydd yn maddau eich pechodau, ac yn eich derbyn i erddi y mae afonydd yn llifo oddi tanynt, ar y Dydd pan na fydd Allah yn siomi'r Proffwyd a'r rhai a gredodd gydag ef. Eu goleuni yn llifo o'u blaen, ac ar eu llaw dde, byddant yn dweud, “Ein Harglwydd, cwblha ein goleuni i ni, a maddau i ni; yr wyt ti'n abl ar bob peth.”
+**66:8**  O chi sy'n credu! Edifarhewch at Allah ag edifeirwch diffuant. Efallai y bydd eich Arglwydd yn maddau eich pechodau, ac yn eich derbyn i erddi y mae afonydd yn llifo oddi tanynt, ar y Dydd pan na fydd Allah yn siomi'r Proffwyd a'r rhai a gredodd gydag ef. Eu goleuni yn llifo o'u blaen, ac ar eu llaw dde, byddant yn dweud, "Ein Harglwydd, cwblha ein goleuni i ni, a maddau i ni; yr wyt ti'n abl ar bob peth."
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ تُوبُوٓا۟ إِلَى ٱللَّهِ تَوْبَةًۭ نَّصُوحًا عَسَىٰ رَبُّكُمْ أَن يُكَفِّرَ عَنكُمْ سَيِّـَٔاتِكُمْ وَيُدْخِلَكُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ يَوْمَ لَا يُخْزِى ٱللَّهُ ٱلنَّبِىَّ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ ۖ نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِمْ يَقُولُونَ رَبَّنَآ أَتْمِمْ لَنَا نُورَنَا وَٱغْفِرْ لَنَآ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
@@ -21958,11 +21958,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 يَٰٓأَيُّهَا ٱلنَّبِىُّ جَٰهِدِ ٱلْكُفَّارَ وَٱلْمُنَٰفِقِينَ وَٱغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَىٰهُمْ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ
 
-**66:10**  Y mae Allah yn dangos esiampl o'r rhai sy'n anghredu: gwraig Noa a gwraig Lot. Roeddent o dan ddau o'n gweision cyfiawn, ond bradychasant nhw. Ni wnaethant ddim lles iddynt yn erbyn Allah, a dywedwyd, “Ewch i mewn i'r Tân gyda'r rhai sy'n mynd i mewn.”
+**66:10**  Y mae Allah yn dangos esiampl o'r rhai sy'n anghredu: gwraig Noa a gwraig Lot. Roeddent o dan ddau o'n gweision cyfiawn, ond bradychasant nhw. Ni wnaethant ddim lles iddynt yn erbyn Allah, a dywedwyd, "Ewch i mewn i'r Tân gyda'r rhai sy'n mynd i mewn."
 
 ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ
 
-**66:11**  Ac y mae Allah yn dangos esiampl o'r rhai sy'n credu: gwraig Ffaro, pan ddywedodd, “Fy Arglwydd, adeilada i mi, gyda thi, dŷ ym Mharadwys, ac achub fi rhag Ffaro a'i weithredoedd, ac achub fi rhag y bobl gamweddog.”
+**66:11**  Ac y mae Allah yn dangos esiampl o'r rhai sy'n credu: gwraig Ffaro, pan ddywedodd, "Fy Arglwydd, adeilada i mi, gyda thi, dŷ ym Mharadwys, ac achub fi rhag Ffaro a'i weithredoedd, ac achub fi rhag y bobl gamweddog."
 
 وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
 
@@ -22011,15 +22011,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِذَآ أُلْقُوا۟ فِيهَا سَمِعُوا۟ لَهَا شَهِيقًۭا وَهِىَ تَفُورُ
 
-**67:8**  Y mae bron â byrstio o gynddaredd. Bob tro y taflir swp i mewn iddi, bydd ei cheidwaid yn gofyn iddynt, “Onid oes rhybuddiwr wedi dod atoch?”
+**67:8**  Y mae bron â byrstio o gynddaredd. Bob tro y taflir swp i mewn iddi, bydd ei cheidwaid yn gofyn iddynt, "Onid oes rhybuddiwr wedi dod atoch?"
 
 تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ ۖ كُلَّمَآ أُلْقِىَ فِيهَا فَوْجٌۭ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌۭ
 
-**67:9**  Byddant yn dweud, “Do, daeth rhybuddiwr atom, ond fe wadasom, a dywedasom, ‘Ni anfonodd Allah ddim i lawr; yr ydych ar gyfeiliorn mawr iawn.’”
+**67:9**  Byddant yn dweud, "Do, daeth rhybuddiwr atom, ond fe wadasom, a dywedasom, 'Ni anfonodd Allah ddim i lawr; yr ydych ar gyfeiliorn mawr iawn.'"
 
 قَالُوا۟ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌۭ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ ٱللَّهُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا فِى ضَلَٰلٍۢ كَبِيرٍۢ
 
-**67:10**  A byddant yn dweud, “Pe baem wedi gwrando neu resymu, ni fyddem wedi bod ymhlith trigolion y Fflam.”
+**67:10**  A byddant yn dweud, "Pe baem wedi gwrando neu resymu, ni fyddem wedi bod ymhlith trigolion y Fflam."
 
 وَقَالُوا۟ لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىٓ أَصْحَٰبِ ٱلسَّعِيرِ
 
@@ -22071,35 +22071,35 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 أَفَمَن يَمْشِى مُكِبًّا عَلَىٰ وَجْهِهِۦٓ أَهْدَىٰٓ أَمَّن يَمْشِى سَوِيًّا عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
 
-**67:23**  Dywed, “Ef yw'r hwn a'ch cynhyrchodd; ac a wnaeth i chi'r clyw, a'r golwg, a'r organau. Ond anaml yr ydych yn diolch.”
+**67:23**  Dywed, "Ef yw'r hwn a'ch cynhyrchodd; ac a wnaeth i chi'r clyw, a'r golwg, a'r organau. Ond anaml yr ydych yn diolch."
 
 قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ ۖ قَلِيلًۭا مَّا تَشْكُرُونَ
 
-**67:24**  Dywed, “Ef yw'r hwn a'ch gwasgarodd ar y ddaear, ac iddo Ef y cewch eich casglu.”
+**67:24**  Dywed, "Ef yw'r hwn a'ch gwasgarodd ar y ddaear, ac iddo Ef y cewch eich casglu."
 
 قُلْ هُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ
 
-**67:25**  Ac maent yn dweud, “Pryd y cyflawnir yr addewid hwn, os ydych yn eirwir?”
+**67:25**  Ac maent yn dweud, "Pryd y cyflawnir yr addewid hwn, os ydych yn eirwir?"
 
 وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
 
-**67:26**  Dywed, “Y mae'r wybodaeth gydag Allah, a dim ond rhybuddiwr eglur ydwyf fi.”
+**67:26**  Dywed, "Y mae'r wybodaeth gydag Allah, a dim ond rhybuddiwr eglur ydwyf fi."
 
 قُلْ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٌۭ مُّبِينٌۭ
 
-**67:27**  Ond pan welant hi'n nesáu, bydd wynebau'r rhai a anghredodd yn troi'n dywyll, a dywedir, “Dyma'r hyn yr oeddech yn galw amdano.”
+**67:27**  Ond pan welant hi'n nesáu, bydd wynebau'r rhai a anghredodd yn troi'n dywyll, a dywedir, "Dyma'r hyn yr oeddech yn galw amdano."
 
 فَلَمَّا رَأَوْهُ زُلْفَةًۭ سِيٓـَٔتْ وُجُوهُ ٱلَّذِينَ كَفَرُوا۟ وَقِيلَ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تَدَّعُونَ
 
-**67:28**  Dywed, “A ydych wedi ystyried? Pe bai Allah yn peri i mi ddarfod, a'r rhai gyda mi; neu fel arall yn estyn ei drugaredd arnom; pwy a amddiffyn yr anghredinwyr rhag poenyd arteithiol?”
+**67:28**  Dywed, "A ydych wedi ystyried? Pe bai Allah yn peri i mi ddarfod, a'r rhai gyda mi; neu fel arall yn estyn ei drugaredd arnom; pwy a amddiffyn yr anghredinwyr rhag poenyd arteithiol?"
 
 قُلْ أَرَءَيْتُمْ إِنْ أَهْلَكَنِىَ ٱللَّهُ وَمَن مَّعِىَ أَوْ رَحِمَنَا فَمَن يُجِيرُ ٱلْكَٰفِرِينَ مِنْ عَذَابٍ أَلِيمٍۢ
 
-**67:29**  Dywed, “Ef yw'r Daionus. Yr ydym wedi credu ynddo, ac ynddo yr ydym yn ymddiried. Yn fuan byddwch yn gwybod pwy sydd mewn cyfeiliornad amlwg.”
+**67:29**  Dywed, "Ef yw'r Daionus. Yr ydym wedi credu ynddo, ac ynddo yr ydym yn ymddiried. Yn fuan byddwch yn gwybod pwy sydd mewn cyfeiliornad amlwg."
 
 قُلْ هُوَ ٱلرَّحْمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيْهِ تَوَكَّلْنَا ۖ فَسَتَعْلَمُونَ مَنْ هُوَ فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
-**67:30**  Dywed, “A ydych wedi ystyried? Os bydd eich dŵr yn draenio ymaith, pwy a ddwg i chi ddŵr rhedegog pur?”
+**67:30**  Dywed, "A ydych wedi ystyried? Os bydd eich dŵr yn draenio ymaith, pwy a ddwg i chi ddŵr rhedegog pur?"
 
 قُلْ أَرَءَيْتُمْ إِنْ أَصْبَحَ مَآؤُكُمْ غَوْرًۭا فَمَن يَأْتِيكُم بِمَآءٍۢ مَّعِينٍۭ
 
@@ -22172,7 +22172,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 أَن كَانَ ذَا مَالٍۢ وَبَنِينَ
 
-**68:15**  Pan adroddir Ein Hadnodau iddo, dywed, “Chwedlau'r hen bobl!”
+**68:15**  Pan adroddir Ein Hadnodau iddo, dywed, "Chwedlau'r hen bobl!"
 
 إِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
@@ -22200,7 +22200,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَتَنَادَوْا۟ مُصْبِحِينَ
 
-**68:22**  “Ewch yn gynnar i'ch planhigfa, os ydych yn mynd i gynaeafu.”
+**68:22**  "Ewch yn gynnar i'ch planhigfa, os ydych yn mynd i gynaeafu."
 
 أَنِ ٱغْدُوا۟ عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَٰرِمِينَ
 
@@ -22208,7 +22208,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَٱنطَلَقُوا۟ وَهُمْ يَتَخَٰفَتُونَ
 
-**68:24**  “Ni chaiff yr un person tlawd fynd i mewn ati arnoch heddiw.”
+**68:24**  "Ni chaiff yr un person tlawd fynd i mewn ati arnoch heddiw."
 
 أَن لَّا يَدْخُلَنَّهَا ٱلْيَوْمَ عَلَيْكُم مِّسْكِينٌۭ
 
@@ -22216,19 +22216,19 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَغَدَوْا۟ عَلَىٰ حَرْدٍۢ قَٰدِرِينَ
 
-**68:26**  Ond pan welsant hi, dywedasant, “Yr oeddem ar gyfeiliorn.
+**68:26**  Ond pan welsant hi, dywedasant, "Yr oeddem ar gyfeiliorn.
 
 فَلَمَّا رَأَوْهَا قَالُوٓا۟ إِنَّا لَضَآلُّونَ
 
-**68:27**  Yr ydym nawr wedi'n hamddifadu.”
+**68:27**  Yr ydym nawr wedi'n hamddifadu."
 
 بَلْ نَحْنُ مَحْرُومُونَ
 
-**68:28**  Dywedodd y mwyaf rhesymol ohonynt, “Oni ddywedais wrthych, ‘pe baech ond yn gogoneddu?’”
+**68:28**  Dywedodd y mwyaf rhesymol ohonynt, "Oni ddywedais wrthych, 'pe baech ond yn gogoneddu?'"
 
 قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ
 
-**68:29**  Dywedasant, “Gogoniant i'n Harglwydd — yr oeddem yn wir ar fai.”
+**68:29**  Dywedasant, "Gogoniant i'n Harglwydd — yr oeddem yn wir ar fai."
 
 قَالُوا۟ سُبْحَٰنَ رَبِّنَآ إِنَّا كُنَّا ظَٰلِمِينَ
 
@@ -22236,11 +22236,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَٰوَمُونَ
 
-**68:31**  Dywedasant, “Gwae ni — yr oeddem yn wir yn ormesol.
+**68:31**  Dywedasant, "Gwae ni — yr oeddem yn wir yn ormesol.
 
 قَالُوا۟ يَٰوَيْلَنَآ إِنَّا كُنَّا طَٰغِينَ
 
-**68:32**  Efallai y bydd ein Harglwydd yn rhoi gwell eilydd i ni yn ei lle. Yr ydym yn troi at ein Harglwydd.”
+**68:32**  Efallai y bydd ein Harglwydd yn rhoi gwell eilydd i ni yn ei lle. Yr ydym yn troi at ein Harglwydd."
 
 عَسَىٰ رَبُّنَآ أَن يُبْدِلَنَا خَيْرًۭا مِّنْهَآ إِنَّآ إِلَىٰ رَبِّنَا رَٰغِبُونَ
 
@@ -22316,7 +22316,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَٱجْتَبَٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّٰلِحِينَ
 
-**68:51**  Y mae'r rhai sy'n anghredu bron â'th drywanu di â'u golygon pan glywant y neges, ac yn dweud, “Y mae'n wallgof!”
+**68:51**  Y mae'r rhai sy'n anghredu bron â'th drywanu di â'u golygon pan glywant y neges, ac yn dweud, "Y mae'n wallgof!"
 
 وَإِن يَكَادُ ٱلَّذِينَ كَفَرُوا۟ لَيُزْلِقُونَكَ بِأَبْصَٰرِهِمْ لَمَّا سَمِعُوا۟ ٱلذِّكْرَ وَيَقُولُونَ إِنَّهُۥ لَمَجْنُونٌۭ
 
@@ -22409,11 +22409,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 يَوْمَئِذٍۢ تُعْرَضُونَ لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌۭ
 
-**69:19**  O ran yr hwn y rhoddir ei lyfr yn ei law dde, bydd yn dweud, “Dyma, cymerwch fy llyfr a'i ddarllen.
+**69:19**  O ran yr hwn y rhoddir ei lyfr yn ei law dde, bydd yn dweud, "Dyma, cymerwch fy llyfr a'i ddarllen.
 
 فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَٰبِيَهْ
 
-**69:20**  Gwyddwn y byddwn yn cael fy nal yn atebol.”
+**69:20**  Gwyddwn y byddwn yn cael fy nal yn atebol."
 
 إِنِّى ظَنَنتُ أَنِّى مُلَٰقٍ حِسَابِيَهْ
 
@@ -22429,11 +22429,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 قُطُوفُهَا دَانِيَةٌۭ
 
-**69:24**  “Bwytewch ac yfwch yn llawen am yr hyn y gwnaethoch yn y dyddiau a aeth heibio.”
+**69:24**  "Bwytewch ac yfwch yn llawen am yr hyn y gwnaethoch yn y dyddiau a aeth heibio."
 
 كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَآ أَسْلَفْتُمْ فِى ٱلْأَيَّامِ ٱلْخَالِيَةِ
 
-**69:25**  Ond o ran yr hwn y rhoddir ei lyfr yn ei law chwith, bydd yn dweud, “O na chawn i byth fy llyfr.
+**69:25**  Ond o ran yr hwn y rhoddir ei lyfr yn ei law chwith, bydd yn dweud, "O na chawn i byth fy llyfr.
 
 وَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَٰلَيْتَنِى لَمْ أُوتَ كِتَٰبِيَهْ
 
@@ -22449,11 +22449,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 مَآ أَغْنَىٰ عَنِّى مَالِيَهْ ۜ
 
-**69:29**  Y mae fy ngrym wedi diflannu oddi wrthyf.”
+**69:29**  Y mae fy ngrym wedi diflannu oddi wrthyf."
 
 هَلَكَ عَنِّى سُلْطَٰنِيَهْ
 
-**69:30**  “Cymerwch ef a'i gadwyno.
+**69:30**  "Cymerwch ef a'i gadwyno.
 
 خُذُوهُ فَغُلُّوهُ
 
@@ -22481,7 +22481,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍۢ
 
-**69:37**  Nid oes neb yn ei fwyta ond y pechaduriaid.”
+**69:37**  Nid oes neb yn ei fwyta ond y pechaduriaid."
 
 لَّا يَأْكُلُهُۥٓ إِلَّا ٱلْخَٰطِـُٔونَ
 
@@ -22747,11 +22747,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 *Yn enw Allah, y Daionus, y Trugarog.*
 
-**71:1**  Fe anfonasom Noa at ei bobl: “Rhybuddia dy bobl cyn i gosb boenus ddod arnynt.
+**71:1**  Fe anfonasom Noa at ei bobl: "Rhybuddia dy bobl cyn i gosb boenus ddod arnynt.
 
 إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌۭ
 
-**71:2**  Dywedodd, “O fy mhobl, rhybuddiwr eglur i chi ydwyf fi.
+**71:2**  Dywedodd, "O fy mhobl, rhybuddiwr eglur i chi ydwyf fi.
 
 قَالَ يَٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ
 
@@ -22759,11 +22759,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ
 
-**71:4**  Ac fe faddeua eich pechodau i chi, ac fe'ch oeda hyd dymor penodedig. Ni ellir oedi tymor Allah unwaith y mae wedi cyrraedd, pe baech ond yn gwybod.”
+**71:4**  Ac fe faddeua eich pechodau i chi, ac fe'ch oeda hyd dymor penodedig. Ni ellir oedi tymor Allah unwaith y mae wedi cyrraedd, pe baech ond yn gwybod."
 
 يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰٓ أَجَلٍۢ مُّسَمًّى ۚ إِنَّ أَجَلَ ٱللَّهِ إِذَا جَآءَ لَا يُؤَخَّرُ ۖ لَوْ كُنتُمْ تَعْلَمُونَ
 
-**71:5**  Dywedodd, “Fy Arglwydd, yr wyf wedi galw fy mhobl liw nos a dydd.
+**71:5**  Dywedodd, "Fy Arglwydd, yr wyf wedi galw fy mhobl liw nos a dydd.
 
 قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا
 
@@ -22783,7 +22783,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ثُمَّ إِنِّىٓ أَعْلَنتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًۭا
 
-**71:10**  Dywedais, ‘Gofynnwch i'ch Arglwydd am faddeuant; y mae'n Faddeugar.
+**71:10**  Dywedais, 'Gofynnwch i'ch Arglwydd am faddeuant; y mae'n Faddeugar.
 
 فَقُلْتُ ٱسْتَغْفِرُوا۟ رَبَّكُمْ إِنَّهُۥ كَانَ غَفَّارًۭا
 
@@ -22823,11 +22823,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَٱللَّهُ جَعَلَ لَكُمُ ٱلْأَرْضَ بِسَاطًۭا
 
-**71:20**  Fel y galloch deithio ei ffyrdd amrywiol.’”
+**71:20**  Fel y galloch deithio ei ffyrdd amrywiol.'"
 
 لِّتَسْلُكُوا۟ مِنْهَا سُبُلًۭا فِجَاجًۭا
 
-**71:21**  Dywedodd Noa, “Fy Arglwydd, maent wedi fy herio, ac wedi dilyn yr hwn nad yw ei gyfoeth a'i blant yn ei gynyddu ond mewn dinistr.”
+**71:21**  Dywedodd Noa, "Fy Arglwydd, maent wedi fy herio, ac wedi dilyn yr hwn nad yw ei gyfoeth a'i blant yn ei gynyddu ond mewn dinistr."
 
 قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا
 
@@ -22835,11 +22835,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَمَكَرُوا۟ مَكْرًۭا كُبَّارًۭا
 
-**71:23**  A dywedasant, “Peidiwch â rhoi'r gorau i'ch duwiau; peidiwch â rhoi'r gorau i Wadd, na Suwa, na Yaghuth, na Ya'uq, na Nasr.
+**71:23**  A dywedasant, "Peidiwch â rhoi'r gorau i'ch duwiau; peidiwch â rhoi'r gorau i Wadd, na Suwa, na Yaghuth, na Ya'uq, na Nasr.
 
 وَقَالُوا۟ لَا تَذَرُنَّ ءَالِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّۭا وَلَا سُوَاعًۭا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًۭا
 
-**71:24**  Maent wedi camarwain llawer, felly na chynydda'r camweddogion ond mewn dryswch.”
+**71:24**  Maent wedi camarwain llawer, felly na chynydda'r camweddogion ond mewn dryswch."
 
 وَقَدْ أَضَلُّوا۟ كَثِيرًۭا ۖ وَلَا تَزِدِ ٱلظَّٰلِمِينَ إِلَّا ضَلَٰلًۭا
 
@@ -22847,7 +22847,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 مِّمَّا خَطِيٓـَٰٔتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا
 
-**71:26**  Dywedodd Noa, “Fy Arglwydd, na ad o'r anghredinwyr un preswylydd ar y ddaear.
+**71:26**  Dywedodd Noa, "Fy Arglwydd, na ad o'r anghredinwyr un preswylydd ar y ddaear.
 
 وَقَالَ نُوحٌۭ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَٰفِرِينَ دَيَّارًا
 
@@ -22855,7 +22855,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا۟ عِبَادَكَ وَلَا يَلِدُوٓا۟ إِلَّا فَاجِرًۭا كَفَّارًۭا
 
-**71:28**  Fy Arglwydd! Maddau i mi ac i'm rhieni, ac i bwy bynnag sy'n mynd i mewn i'm tŷ mewn ffydd, ac i'r holl wŷr crediniol a'r gwragedd crediniol; ac na chynydda'r camweddogion ond mewn dinistr.”
+**71:28**  Fy Arglwydd! Maddau i mi ac i'm rhieni, ac i bwy bynnag sy'n mynd i mewn i'm tŷ mewn ffydd, ac i'r holl wŷr crediniol a'r gwragedd crediniol; ac na chynydda'r camweddogion ond mewn dinistr."
 
 رَّبِّ ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِمَن دَخَلَ بَيْتِىَ مُؤْمِنًۭا وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ وَلَا تَزِدِ ٱلظَّٰلِمِينَ إِلَّا تَبَارًۢا
 
@@ -22872,7 +22872,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 *Yn enw Allah, y Daionus, y Trugarog.*
 
-**72:1**  Dywed, “Fe ddatguddiwyd i mi fod mintai o jinn wedi gwrando, a dweud, ‘Yr ydym wedi clywed Qur'an rhyfeddol.
+**72:1**  Dywed, "Fe ddatguddiwyd i mi fod mintai o jinn wedi gwrando, a dweud, 'Yr ydym wedi clywed Qur'an rhyfeddol.
 
 قُلْ أُوحِىَ إِلَىَّ أَنَّهُ ٱسْتَمَعَ نَفَرٌۭ مِّنَ ٱلْجِنِّ فَقَالُوٓا۟ إِنَّا سَمِعْنَا قُرْءَانًا عَجَبًۭا
 
@@ -22928,7 +22928,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَأَنَّا مِنَّا ٱلْمُسْلِمُونَ وَمِنَّا ٱلْقَٰسِطُونَ ۖ فَمَنْ أَسْلَمَ فَأُو۟لَٰٓئِكَ تَحَرَّوْا۟ رَشَدًۭا
 
-**72:15**  Ond o ran y cyfaddawdwyr — byddant yn goed tân i Uffern.’”
+**72:15**  Ond o ran y cyfaddawdwyr — byddant yn goed tân i Uffern.'"
 
 وَأَمَّا ٱلْقَٰسِطُونَ فَكَانُوا۟ لِجَهَنَّمَ حَطَبًۭا
 
@@ -22948,19 +22948,19 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَأَنَّهُۥ لَمَّا قَامَ عَبْدُ ٱللَّهِ يَدْعُوهُ كَادُوا۟ يَكُونُونَ عَلَيْهِ لِبَدًۭا
 
-**72:20**  Dywed, “Nid wyf yn gweddïo ond ar fy Arglwydd, ac nid wyf byth yn cysylltu neb ag Ef.”
+**72:20**  Dywed, "Nid wyf yn gweddïo ond ar fy Arglwydd, ac nid wyf byth yn cysylltu neb ag Ef."
 
 قُلْ إِنَّمَآ أَدْعُوا۟ رَبِّى وَلَآ أُشْرِكُ بِهِۦٓ أَحَدًۭا
 
-**72:21**  Dywed, “Nid yw yn fy ngallu i'ch niweidio, nac i'ch dwyn i ymddygiad iawn.”
+**72:21**  Dywed, "Nid yw yn fy ngallu i'ch niweidio, nac i'ch dwyn i ymddygiad iawn."
 
 قُلْ إِنِّى لَآ أَمْلِكُ لَكُمْ ضَرًّۭا وَلَا رَشَدًۭا
 
-**72:22**  Dywed, “Ni all neb fy amddiffyn rhag Allah, ac ni chaf unlloches ond gydag Ef.
+**72:22**  Dywed, "Ni all neb fy amddiffyn rhag Allah, ac ni chaf unlloches ond gydag Ef.
 
 قُلْ إِنِّى لَن يُجِيرَنِى مِنَ ٱللَّهِ أَحَدٌۭ وَلَنْ أَجِدَ مِن دُونِهِۦ مُلْتَحَدًا
 
-**72:23**  Ac eithrio cyhoeddiad oddi wrth Allah a'i negeseuon. Y sawl sy'n herio Allah a'i Genhadwr — iddo ef y mae Tân Uffern, lle byddant yn aros am byth.”
+**72:23**  Ac eithrio cyhoeddiad oddi wrth Allah a'i negeseuon. Y sawl sy'n herio Allah a'i Genhadwr — iddo ef y mae Tân Uffern, lle byddant yn aros am byth."
 
 إِلَّا بَلَٰغًۭا مِّنَ ٱللَّهِ وَرِسَٰلَٰتِهِۦ ۚ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ لَهُۥ نَارَ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أَبَدًا
 
@@ -22968,7 +22968,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًۭا وَأَقَلُّ عَدَدًۭا
 
-**72:25**  Dywed, “Ni wn i a yw'r hyn yr ydych wedi'i addo yn agos, neu a fydd fy Arglwydd yn ei ymestyn am gyfnod.”
+**72:25**  Dywed, "Ni wn i a yw'r hyn yr ydych wedi'i addo yn agos, neu a fydd fy Arglwydd yn ei ymestyn am gyfnod."
 
 قُلْ إِنْ أَدْرِىٓ أَقَرِيبٌۭ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُۥ رَبِّىٓ أَمَدًا
 
@@ -23182,11 +23182,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ثُمَّ أَدْبَرَ وَٱسْتَكْبَرَ
 
-**74:24**  A dywedodd, “Nid yw hyn yn ddim ond hud o'r gorffennol.
+**74:24**  A dywedodd, "Nid yw hyn yn ddim ond hud o'r gorffennol.
 
 فَقَالَ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ يُؤْثَرُ
 
-**74:25**  Nid yw hyn yn ddim ond gair marwol.”
+**74:25**  Nid yw hyn yn ddim ond gair marwol."
 
 إِنْ هَٰذَآ إِلَّا قَوْلُ ٱلْبَشَرِ
 
@@ -23210,7 +23210,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 عَلَيْهَا تِسْعَةَ عَشَرَ
 
-**74:31**  Nid ydym wedi penodi neb ond angylion i fod yn wardeniaid y Tân, ac wedi peri i'w nifer fod yn faen tramgwydd i'r rhai sy'n anghredu; fel y gall y rhai y rhoddwyd yr Ysgrythur iddynt gyrraedd sicrwydd; a'r rhai sy'n credu gynyddu mewn ffydd; a'r rhai y rhoddwyd yr Ysgrythur iddynt a'r credinwyr beidio ag amau; a'r rhai y mae clefyd yn eu calonnau a'r anghredinwyr ddweud, “Beth a fwriadodd Allah wrth y ddameg hon?” Fel hyn y mae Allah yn camarwain pwy bynnag y myn, ac yn arwain pwy bynnag y myn. Nid oes neb yn gwybod byddinoedd dy Arglwydd ond Ef. Nid yw hyn yn ddim ond atgof i'r meidrolion.
+**74:31**  Nid ydym wedi penodi neb ond angylion i fod yn wardeniaid y Tân, ac wedi peri i'w nifer fod yn faen tramgwydd i'r rhai sy'n anghredu; fel y gall y rhai y rhoddwyd yr Ysgrythur iddynt gyrraedd sicrwydd; a'r rhai sy'n credu gynyddu mewn ffydd; a'r rhai y rhoddwyd yr Ysgrythur iddynt a'r credinwyr beidio ag amau; a'r rhai y mae clefyd yn eu calonnau a'r anghredinwyr ddweud, "Beth a fwriadodd Allah wrth y ddameg hon?" Fel hyn y mae Allah yn camarwain pwy bynnag y myn, ac yn arwain pwy bynnag y myn. Nid oes neb yn gwybod byddinoedd dy Arglwydd ond Ef. Nid yw hyn yn ddim ond atgof i'r meidrolion.
 
 وَمَا جَعَلْنَآ أَصْحَٰبَ ٱلنَّارِ إِلَّا مَلَٰٓئِكَةًۭ ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةًۭ لِّلَّذِينَ كَفَرُوا۟ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوٓا۟ إِيمَٰنًۭا ۙ وَلَا يَرْتَابَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَٱلْمُؤْمِنُونَ ۙ وَلِيَقُولَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ وَٱلْكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ
 
@@ -23254,11 +23254,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 عَنِ ٱلْمُجْرِمِينَ
 
-**74:42**  “Beth a'ch gyrrodd i Saqar?”
+**74:42**  "Beth a'ch gyrrodd i Saqar?"
 
 مَا سَلَكَكُمْ فِى سَقَرَ
 
-**74:43**  Byddant yn dweud, “Nid oeddem o'r rhai a weddïai.
+**74:43**  Byddant yn dweud, "Nid oeddem o'r rhai a weddïai.
 
 قَالُوا۟ لَمْ نَكُ مِنَ ٱلْمُصَلِّينَ
 
@@ -23274,7 +23274,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَكُنَّا نُكَذِّبُ بِيَوْمِ ٱلدِّينِ
 
-**74:47**  Nes i'r Anocheladwy ddod arnom.”
+**74:47**  Nes i'r Anocheladwy ddod arnom."
 
 حَتَّىٰٓ أَتَىٰنَا ٱلْيَقِينُ
 
@@ -23347,7 +23347,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 بَلْ يُرِيدُ ٱلْإِنسَٰنُ لِيَفْجُرَ أَمَامَهُۥ
 
-**75:6**  Y mae'n gofyn, “Pryd mae Dydd yr Atgyfodiad?”
+**75:6**  Y mae'n gofyn, "Pryd mae Dydd yr Atgyfodiad?"
 
 يَسْـَٔلُ أَيَّانَ يَوْمُ ٱلْقِيَٰمَةِ
 
@@ -23363,7 +23363,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَجُمِعَ ٱلشَّمْسُ وَٱلْقَمَرُ
 
-**75:10**  Ar y Dydd hwnnw, bydd dyn yn dweud, “Ble mae'r ddihangfa?”
+**75:10**  Ar y Dydd hwnnw, bydd dyn yn dweud, "Ble mae'r ddihangfa?"
 
 يَقُولُ ٱلْإِنسَٰنُ يَوْمَئِذٍ أَيْنَ ٱلْمَفَرُّ
 
@@ -23431,7 +23431,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِىَ
 
-**75:27**  A dywedir, “Pwy yw'r iachäwr?”
+**75:27**  A dywedir, "Pwy yw'r iachäwr?"
 
 وَقِيلَ مَنْ ۜ رَاقٍۢ
 
@@ -23532,11 +23532,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًۭا وَيَتِيمًۭا وَأَسِيرًا
 
-**76:9**  “Nid ydym yn eich bwydo ond er mwyn Allah. Nid ydym am ddim tâl gennych, na diolch.
+**76:9**  "Nid ydym yn eich bwydo ond er mwyn Allah. Nid ydym am ddim tâl gennych, na diolch.
 
 إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ ٱللَّهِ لَا نُرِيدُ مِنكُمْ جَزَآءًۭ وَلَا شُكُورًا
 
-**76:10**  Yr ydym yn ofni oddi wrth ein Harglwydd Ddydd dig gwgu.”
+**76:10**  Yr ydym yn ofni oddi wrth ein Harglwydd Ddydd dig gwgu."
 
 إِنَّا نَخَافُ مِن رَّبِّنَا يَوْمًا عَبُوسًۭا قَمْطَرِيرًۭا
 
@@ -23584,7 +23584,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 عَٰلِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌۭ وَإِسْتَبْرَقٌۭ ۖ وَحُلُّوٓا۟ أَسَاوِرَ مِن فِضَّةٍۢ وَسَقَىٰهُمْ رَبُّهُمْ شَرَابًۭا طَهُورًا
 
-**76:22**  “Gwobr i chi yw hyn. Y mae eich ymdrechion wedi'u gwerthfawrogi'n dda.”
+**76:22**  "Gwobr i chi yw hyn. Y mae eich ymdrechion wedi'u gwerthfawrogi'n dda."
 
 إِنَّ هَٰذَا كَانَ لَكُمْ جَزَآءًۭ وَكَانَ سَعْيُكُم مَّشْكُورًا
 
@@ -23749,11 +23749,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ
 
-**77:29**  “Ewch ymlaen at yr hyn yr oeddech yn ei wadu.”
+**77:29**  "Ewch ymlaen at yr hyn yr oeddech yn ei wadu."
 
 ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ
 
-**77:30**  “Ewch ymlaen i gysgod o dri phentwr gwahanol.”
+**77:30**  "Ewch ymlaen i gysgod o dri phentwr gwahanol."
 
 ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّۢ ذِى ثَلَٰثِ شُعَبٍۢ
 
@@ -23805,7 +23805,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ
 
-**77:43**  “Bwytewch ac yfwch yn hyfryd, am yr hyn yr oeddech yn ei wneud.”
+**77:43**  "Bwytewch ac yfwch yn hyfryd, am yr hyn yr oeddech yn ei wneud."
 
 كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ
 
@@ -23817,7 +23817,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ
 
-**77:46**  “Bwytewch a mwynhewch eich hunain ychydig; yr ydych yn wir yn droseddwyr.”
+**77:46**  "Bwytewch a mwynhewch eich hunain ychydig; yr ydych yn wir yn droseddwyr."
 
 كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ
 
@@ -23825,7 +23825,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ
 
-**77:48**  A phan ddywedir wrthynt, “Penliniwch”, nid ydynt yn penlinio.
+**77:48**  A phan ddywedir wrthynt, "Penliniwch", nid ydynt yn penlinio.
 
 وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ
 
@@ -24005,7 +24005,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا
 
-**78:40**  Rydym wedi eich rhybuddio am gosb agos—y Dydd y gwêl rhywun yr hyn a gynhyrchodd ei ddwylo, a dywed yr anghredadun, “O, oni bawn yn llwch.”
+**78:40**  Rydym wedi eich rhybuddio am gosb agos—y Dydd y gwêl rhywun yr hyn a gynhyrchodd ei ddwylo, a dywed yr anghredadun, "O, oni bawn yn llwch."
 
 إِنَّآ أَنذَرْنَٰكُمْ عَذَابًۭا قَرِيبًۭا يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ ٱلْكَافِرُ يَٰلَيْتَنِى كُنتُ تُرَٰبًۢا
 
@@ -24057,15 +24057,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 أَبْصَٰرُهَا خَٰشِعَةٌۭ
 
-**79:10**  Dywedant, “A adferir ni i'r cyflwr cyntaf?
+**79:10**  Dywedant, "A adferir ni i'r cyflwr cyntaf?
 
 يَقُولُونَ أَءِنَّا لَمَرْدُودُونَ فِى ٱلْحَافِرَةِ
 
-**79:11**  Pan fyddom wedi troi'n esgyrn gwag?”
+**79:11**  Pan fyddom wedi troi'n esgyrn gwag?"
 
 أَءِذَا كُنَّا عِظَٰمًۭا نَّخِرَةًۭ
 
-**79:12**  Dywedant, “Colled yw hyn.”
+**79:12**  Dywedant, "Colled yw hyn."
 
 قَالُوا۟ تِلْكَ إِذًۭا كَرَّةٌ خَاسِرَةٌۭ
 
@@ -24085,15 +24085,15 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِذْ نَادَىٰهُ رَبُّهُۥ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى
 
-**79:17**  “Dos at Ffaro—y mae wedi troseddu.”
+**79:17**  "Dos at Ffaro—y mae wedi troseddu."
 
 ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ
 
-**79:18**  A dywed, “A fynnit gael dy lanhau?
+**79:18**  A dywed, "A fynnit gael dy lanhau?
 
 فَقُلْ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ
 
-**79:19**  A mi a'th arwain at dy Arglwydd, a thro yn barchus.”
+**79:19**  A mi a'th arwain at dy Arglwydd, a thro yn barchus."
 
 وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ
 
@@ -24113,7 +24113,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَحَشَرَ فَنَادَىٰ
 
-**79:24**  Dywedodd, “Myfi yw eich Arglwydd, y goruchaf.”
+**79:24**  Dywedodd, "Myfi yw eich Arglwydd, y goruchaf."
 
 فَقَالَ أَنَا۠ رَبُّكُمُ ٱلْأَعْلَىٰ
 
@@ -24185,7 +24185,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 فَإِنَّ ٱلْجَنَّةَ هِىَ ٱلْمَأْوَىٰ
 
-**79:42**  Holant di am yr Awr, “Pryd y digwydd?”
+**79:42**  Holant di am yr Awr, "Pryd y digwydd?"
 
 يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا
 
@@ -24661,7 +24661,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ
 
-**83:13**  Pan adroddir Ein datguddiadau iddo, dywed, “Chwedlau'r hynafiaid.”
+**83:13**  Pan adroddir Ein datguddiadau iddo, dywed, "Chwedlau'r hynafiaid."
 
 إِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
@@ -24677,7 +24677,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ
 
-**83:17**  Yna dywedir, “Dyma'r hyn yr oeddech yn ei wadu.”
+**83:17**  Yna dywedir, "Dyma'r hyn yr oeddech yn ei wadu."
 
 ثُمَّ يُقَالُ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ
 
@@ -24737,7 +24737,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَإِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمُ ٱنقَلَبُوا۟ فَكِهِينَ
 
-**83:32**  A phe gwelent nhw, dywedent, “Y mae'r bobl hyn ar goll.”
+**83:32**  A phe gwelent nhw, dywedent, "Y mae'r bobl hyn ar goll."
 
 وَإِذَا رَأَوْهُمْ قَالُوٓا۟ إِنَّ هَٰٓؤُلَآءِ لَضَآلُّونَ
 
@@ -25322,11 +25322,11 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ
 
-**89:15**  Am ddyn, pryd bynnag y profa ei Arglwydd ef, a'i hanrhydedda, a'i ffynnu, dywed, “Y mae fy Arglwydd wedi fy anrhydeddu.”
+**89:15**  Am ddyn, pryd bynnag y profa ei Arglwydd ef, a'i hanrhydedda, a'i ffynnu, dywed, "Y mae fy Arglwydd wedi fy anrhydeddu."
 
 فَأَمَّا ٱلْإِنسَٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ
 
-**89:16**  Ond pryd bynnag y profa ef, a chyfyngu ei fywoliaeth iddo, dywed, “Y mae fy Arglwydd wedi fy sarhau.”
+**89:16**  Ond pryd bynnag y profa ef, a chyfyngu ei fywoliaeth iddo, dywed, "Y mae fy Arglwydd wedi fy sarhau."
 
 وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَٰنَنِ
 
@@ -25358,7 +25358,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍۢ يَتَذَكَّرُ ٱلْإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ
 
-**89:24**  Dywed, “Pe bawn wedi anfon ymlaen ar gyfer fy mywyd.”
+**89:24**  Dywed, "Pe bawn wedi anfon ymlaen ar gyfer fy mywyd."
 
 يَقُولُ يَٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى
 
@@ -25418,7 +25418,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌۭ
 
-**90:6**  Dywed, “Yr wyf wedi defnyddio cymaint o arian.”
+**90:6**  Dywed, "Yr wyf wedi defnyddio cymaint o arian."
 
 يَقُولُ أَهْلَكْتُ مَالًۭا لُّبَدًا
 
@@ -25538,7 +25538,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا
 
-**91:13**  Dywedodd cenhadwr Allah wrthynt, “Dyma gamel fenywaidd Allah, felly gadewch iddi yfed.”
+**91:13**  Dywedodd cenhadwr Allah wrthynt, "Dyma gamel fenywaidd Allah, felly gadewch iddi yfed."
 
 فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَٰهَا
 
@@ -25975,7 +25975,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا
 
-**99:3**  A dywed dyn, “Beth sy'n bod arni?”
+**99:3**  A dywed dyn, "Beth sy'n bod arni?"
 
 وَقَالَ ٱلْإِنسَٰنُ مَا لَهَا
 
@@ -26363,7 +26363,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 *Yn enw Allah, y Daionus, y Trugarog.*
 
-**109:1**  Dywed, “O anghredinwyr.
+**109:1**  Dywed, "O anghredinwyr.
 
 قُلْ يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ
 
@@ -26383,7 +26383,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ
 
-**109:6**  Y mae eich ffordd chi gennych, a'm ffordd i gennyf i.”
+**109:6**  Y mae eich ffordd chi gennych, a'm ffordd i gennyf i."
 
 لَكُمْ دِينُكُمْ وَلِىَ دِينِ
 
@@ -26413,7 +26413,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ---
 
-## 111. Y Rhaff Balmwydd
+## 111. Y Rhaff
 
 **ٱلْمَسَد** · Al-Masad · Mecaidd · 5 adnod
 
@@ -26439,7 +26439,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ
 
-**111:5**  O amgylch ei gwddf y mae rhaff o balmwydd.
+**111:5**  O amgylch ei gwddf y mae rhaff droellog.
 
 فِى جِيدِهَا حَبْلٌۭ مِّن مَّسَدٍۭ
 
@@ -26455,7 +26455,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 *Yn enw Allah, y Daionus, y Trugarog.*
 
-**112:1**  Dywed, “Ef yw Allah, yr Un.
+**112:1**  Dywed, "Ef yw Allah, yr Un.
 
 قُلْ هُوَ ٱللَّهُ أَحَدٌ
 
@@ -26467,7 +26467,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 لَمْ يَلِدْ وَلَمْ يُولَدْ
 
-**112:4**  Ac nid oes dim yn gymaradwy iddo Ef.”
+**112:4**  Ac nid oes dim yn gymaradwy iddo Ef."
 
 وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ
 
@@ -26483,7 +26483,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 *Yn enw Allah, y Daionus, y Trugarog.*
 
-**113:1**  Dywed, “Cymeraf loches gydag Arglwydd Gwawr y Dydd.
+**113:1**  Dywed, "Cymeraf loches gydag Arglwydd Gwawr y Dydd.
 
 قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ
 
@@ -26499,7 +26499,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ
 
-**113:5**  A rhag drwg cenfigennus pan genfigenna.”
+**113:5**  A rhag drwg cenfigennus pan genfigenna."
 
 وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
 
@@ -26515,7 +26515,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 *Yn enw Allah, y Daionus, y Trugarog.*
 
-**114:1**  Dywed, “Ceisiaf loches yn Arglwydd y ddynolryw.
+**114:1**  Dywed, "Ceisiaf loches yn Arglwydd y ddynolryw.
 
 قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ
 
@@ -26535,6 +26535,6 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ
 
-**114:6**  O blith jinn ac o blith pobl.”
+**114:6**  O blith jinn ac o blith pobl."
 
 مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ
