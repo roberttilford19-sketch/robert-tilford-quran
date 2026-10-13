@@ -2878,7 +2878,7 @@ SWAHILI MANUSCRIPT — REVISION DRAFT, not a final edition. A Swahili rendering 
 
 حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًۭا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍۢ لِّإِثْمٍۢ ۙ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ
 
-**5:4** Wanakuuliza nini kilichoruhusiwa kwao. Sema, “Mmehalalishiwa vitu vyote vizuri, pamoja na vile ambavyo mbwa na vipanga waliofunzwa hukamata kwa ajili yenu.” Mnawafundisha kulingana na yale ambayo Allah amewafundisha. Basi kuleni kutokana na vile wanavyowakamata kwa ajili yenu, na litajeni jina la Allah juu yake. Na mcheni Allah. Allah ni Mwepesi katika kuhesabu.
+**5:4** Wanakuuliza nini kilichoruhusiwa kwao. Sema, "Mmehalalishiwa vitu vyote vizuri, pamoja na vile ambavyo mbwa na vipanga waliofunzwa hukamata kwa ajili yenu." Mnawafundisha kulingana na yale ambayo Allah amewafundisha. Basi kuleni kutokana na vile wanavyowakamata kwa ajili yenu, na litajeni jina la Allah juu yake. Na mcheni Allah. Allah ni Mwepesi katika kuhesabu.
 
 يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ ۖ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ ۙ وَمَا عَلَّمْتُم مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ ۖ فَكُلُوا۟ مِمَّآ أَمْسَكْنَ عَلَيْكُمْ وَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهِ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
 
@@ -2894,7 +2894,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ ۚ وَإِن كُنتُمْ جُنُبًۭا فَٱطَّهَّرُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌۭ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءًۭ فَتَيَمَّمُوا۟ صَعِيدًۭا طَيِّبًۭا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ ۚ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍۢ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ
 
-**5:7** Na kumbukeni baraka za Allah juu yenu, na ahadi Yake ambayo alifanya nanyi mkataba; mliposema, “Tumesikia na tunatii.” Na mcheni Allah, kwani Allah anajua yale yaliyomo ndani ya mioyo.
+**5:7** Na kumbukeni baraka za Allah juu yenu, na ahadi Yake ambayo alifanya nanyi mkataba; mliposema, "Tumesikia na tunatii." Na mcheni Allah, kwani Allah anajua yale yaliyomo ndani ya mioyo.
 
 وَٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ وَمِيثَٰقَهُ ٱلَّذِى وَاثَقَكُم بِهِۦٓ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
@@ -2914,7 +2914,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ هَمَّ قَوْمٌ أَن يَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ فَكَفَّ أَيْدِيَهُمْ عَنكُمْ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
 
-**5:12** Allah alichukua ahadi kutoka kwa Wana wa Israeli, na Tukawainua miongoni mwao wakuu kumi na wawili. Allah alisema, “Mimi niko pamoja nanyi; mkifanya sala, na kutoa zaka, na kuwaamini wajumbe Wangu na kuwaunga mkono, na kumkopesha Allah mkopo mwema; Nitawasamehe dhambi zenu, na Nitawaingiza katika Mabustani ambayo mito inapita chini yake. Lakini yeyote miongoni mwenu atakayekufuru baada ya hayo amepotea njia iliyonyooka.”
+**5:12** Allah alichukua ahadi kutoka kwa Wana wa Israeli, na Tukawainua miongoni mwao wakuu kumi na wawili. Allah alisema, "Mimi niko pamoja nanyi; mkifanya sala, na kutoa zaka, na kuwaamini wajumbe Wangu na kuwaunga mkono, na kumkopesha Allah mkopo mwema; Nitawasamehe dhambi zenu, na Nitawaingiza katika Mabustani ambayo mito inapita chini yake. Lakini yeyote miongoni mwenu atakayekufuru baada ya hayo amepotea njia iliyonyooka."
 
 ۞ وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ نَقِيبًۭا ۖ وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ ۖ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًۭا لَّأُكَفِّرَنَّ عَنكُمْ سَيِّـَٔاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۚ فَمَن كَفَرَ بَعْدَ ذَٰلِكَ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
 
@@ -2922,7 +2922,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةًۭ ۖ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ ۙ وَنَسُوا۟ حَظًّۭا مِّمَّا ذُكِّرُوا۟ بِهِۦ ۚ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍۢ مِّنْهُمْ إِلَّا قَلِيلًۭا مِّنْهُمْ ۖ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ
 
-**5:14** Na kutoka kwa wale wanaosema, “Sisi ni Wakristo,” Tulichukua ahadi yao, lakini wakasahau sehemu ya yale waliyokumbushwa. Basi Tukachochea uadui na chuki miongoni mwao hadi Siku ya Ufufuo; hapo Allah atawajulisha yale waliyokuwa wakiyatunga.
+**5:14** Na kutoka kwa wale wanaosema, "Sisi ni Wakristo," Tulichukua ahadi yao, lakini wakasahau sehemu ya yale waliyokumbushwa. Basi Tukachochea uadui na chuki miongoni mwao hadi Siku ya Ufufuo; hapo Allah atawajulisha yale waliyokuwa wakiyatunga.
 
 وَمِنَ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰٓ أَخَذْنَا مِيثَٰقَهُمْ فَنَسُوا۟ حَظًّۭا مِّمَّا ذُكِّرُوا۟ بِهِۦ فَأَغْرَيْنَا بَيْنَهُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ۚ وَسَوْفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُوا۟ يَصْنَعُونَ
 
@@ -2934,55 +2934,55 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 يَهْدِى بِهِ ٱللَّهُ مَنِ ٱتَّبَعَ رِضْوَٰنَهُۥ سُبُلَ ٱلسَّلَٰمِ وَيُخْرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ بِإِذْنِهِۦ وَيَهْدِيهِمْ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
 
-**5:17** Wamekufuru wale wanaosema, “Allah ni Masihi, mwana wa Mariamu.” Sema, “Ni nani anayeweza kumzuia Allah, kama angetaka, kumwangamiza Masihi mwana wa Mariamu, na mama yake, na kila mtu duniani?” Ufalme wa mbingu na ardhi na vilivyomo kati yake ni wa Allah. Huumba atakacho, na Allah ana uwezo juu ya kila kitu.
+**5:17** Wamekufuru wale wanaosema, "Allah ni Masihi, mwana wa Mariamu." Sema, "Ni nani anayeweza kumzuia Allah, kama angetaka, kumwangamiza Masihi mwana wa Mariamu, na mama yake, na kila mtu duniani?" Ufalme wa mbingu na ardhi na vilivyomo kati yake ni wa Allah. Huumba atakacho, na Allah ana uwezo juu ya kila kitu.
 
 لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ ۚ قُلْ فَمَن يَمْلِكُ مِنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ أَن يُهْلِكَ ٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَأُمَّهُۥ وَمَن فِى ٱلْأَرْضِ جَمِيعًۭا ۗ وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۚ يَخْلُقُ مَا يَشَآءُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**5:18** Mayahudi na Wakristo husema, “Sisi ni watoto wa Allah, na wapenzi Wake.” Sema, “Kwa nini basi anawaadhibu kwa dhambi zenu?” Kwa kweli, ninyi ni wanadamu miongoni mwa wale aliowaumba. Husamehe amtakaye, na humwadhibu amtakaye. Ufalme wa mbingu na ardhi na vilivyomo kati yake ni wa Allah, na Kwake ndiko marejeo.
+**5:18** Mayahudi na Wakristo husema, "Sisi ni watoto wa Allah, na wapenzi Wake." Sema, "Kwa nini basi anawaadhibu kwa dhambi zenu?" Kwa kweli, ninyi ni wanadamu miongoni mwa wale aliowaumba. Husamehe amtakaye, na humwadhibu amtakaye. Ufalme wa mbingu na ardhi na vilivyomo kati yake ni wa Allah, na Kwake ndiko marejeo.
 
 وَقَالَتِ ٱلْيَهُودُ وَٱلنَّصَٰرَىٰ نَحْنُ أَبْنَٰٓؤُا۟ ٱللَّهِ وَأَحِبَّٰٓؤُهُۥ ۚ قُلْ فَلِمَ يُعَذِّبُكُم بِذُنُوبِكُم ۖ بَلْ أَنتُم بَشَرٌۭ مِّمَّنْ خَلَقَ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۖ وَإِلَيْهِ ٱلْمَصِيرُ
 
-**5:19** Enyi Watu wa Kitabu! Mjumbe Wetu amewajia, akiwabainishia mambo — baada ya kipindi cha kukosekana kwa wajumbe — ili msiseme, “Hakuna mhubiri aliyetujia, wala mwonyaji.” Kwa kweli, mhubiri amewajia, na mwonyaji; na Allah ana uwezo juu ya kila kitu.
+**5:19** Enyi Watu wa Kitabu! Mjumbe Wetu amewajia, akiwabainishia mambo — baada ya kipindi cha kukosekana kwa wajumbe — ili msiseme, "Hakuna mhubiri aliyetujia, wala mwonyaji." Kwa kweli, mhubiri amewajia, na mwonyaji; na Allah ana uwezo juu ya kila kitu.
 
 يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍۢ مِّنَ ٱلرُّسُلِ أَن تَقُولُوا۟ مَا جَآءَنَا مِنۢ بَشِيرٍۢ وَلَا نَذِيرٍۢ ۖ فَقَدْ جَآءَكُم بَشِيرٌۭ وَنَذِيرٌۭ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**5:20** Musa alipowaambia watu wake, “Enyi watu wangu, kumbukeni baraka za Allah juu yenu, alipoweka manabii miongoni mwenu, na kuwafanya wafalme, na kuwapa yale ambayo hakuwahi kumpa mtu mwingine yeyote.”
+**5:20** Musa alipowaambia watu wake, "Enyi watu wangu, kumbukeni baraka za Allah juu yenu, alipoweka manabii miongoni mwenu, na kuwafanya wafalme, na kuwapa yale ambayo hakuwahi kumpa mtu mwingine yeyote."
 
 وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَعَلَ فِيكُمْ أَنۢبِيَآءَ وَجَعَلَكُم مُّلُوكًۭا وَءَاتَىٰكُم مَّا لَمْ يُؤْتِ أَحَدًۭا مِّنَ ٱلْعَٰلَمِينَ
 
-**5:21** “Enyi watu wangu, ingieni Ardhi Takatifu ambayo Allah amewaandikia, wala msirudi nyuma, msije mkageuka kuwa waliopata hasara.”
+**5:21** "Enyi watu wangu, ingieni Ardhi Takatifu ambayo Allah amewaandikia, wala msirudi nyuma, msije mkageuka kuwa waliopata hasara."
 
 يَٰقَوْمِ ٱدْخُلُوا۟ ٱلْأَرْضَ ٱلْمُقَدَّسَةَ ٱلَّتِى كَتَبَ ٱللَّهُ لَكُمْ وَلَا تَرْتَدُّوا۟ عَلَىٰٓ أَدْبَارِكُمْ فَتَنقَلِبُوا۟ خَٰسِرِينَ
 
-**5:22** Walisema, “Ewe Musa, kuna watu majabari humo; hatutaingia humo hadi watoke humo. Wakitoka humo, tutaingia.”
+**5:22** Walisema, "Ewe Musa, kuna watu majabari humo; hatutaingia humo hadi watoke humo. Wakitoka humo, tutaingia."
 
 قَالُوا۟ يَٰمُوسَىٰٓ إِنَّ فِيهَا قَوْمًۭا جَبَّارِينَ وَإِنَّا لَن نَّدْخُلَهَا حَتَّىٰ يَخْرُجُوا۟ مِنْهَا فَإِن يَخْرُجُوا۟ مِنْهَا فَإِنَّا دَٰخِلُونَ
 
-**5:23** Wanaume wawili miongoni mwa wale waliomcha Allah, lakini ambao Allah aliwabariki, walisema, “Wavamieni kupitia mlangoni; mkishaingia humo, mtashinda. Na mtegemeeni Allah, mkiwa waumini.”
+**5:23** Wanaume wawili miongoni mwa wale waliomcha Allah, lakini ambao Allah aliwabariki, walisema, "Wavamieni kupitia mlangoni; mkishaingia humo, mtashinda. Na mtegemeeni Allah, mkiwa waumini."
 
 قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنْعَمَ ٱللَّهُ عَلَيْهِمَا ٱدْخُلُوا۟ عَلَيْهِمُ ٱلْبَابَ فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ غَٰلِبُونَ ۚ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓا۟ إِن كُنتُم مُّؤْمِنِينَ
 
-**5:24** Walisema, “Ewe Musa, hatutaingia humo kamwe, maadamu wako humo. Basi nenda, wewe na Mola wako, mkapigane. Sisi tunakaa hapa hapa.”
+**5:24** Walisema, "Ewe Musa, hatutaingia humo kamwe, maadamu wako humo. Basi nenda, wewe na Mola wako, mkapigane. Sisi tunakaa hapa hapa."
 
 قَالُوا۟ يَٰمُوسَىٰٓ إِنَّا لَن نَّدْخُلَهَآ أَبَدًۭا مَّا دَامُوا۟ فِيهَا ۖ فَٱذْهَبْ أَنتَ وَرَبُّكَ فَقَٰتِلَآ إِنَّا هَٰهُنَا قَٰعِدُونَ
 
-**5:25** Alisema, “Mola wangu! Sina mamlaka isipokuwa juu yangu na juu ya ndugu yangu, basi tutenganishe sisi na watu waasi.”
+**5:25** Alisema, "Mola wangu! Sina mamlaka isipokuwa juu yangu na juu ya ndugu yangu, basi tutenganishe sisi na watu waasi."
 
 قَالَ رَبِّ إِنِّى لَآ أَمْلِكُ إِلَّا نَفْسِى وَأَخِى ۖ فَٱفْرُقْ بَيْنَنَا وَبَيْنَ ٱلْقَوْمِ ٱلْفَٰسِقِينَ
 
-**5:26** Alisema, “Imeharamishwa kwao kwa miaka arobaini. Watatangatanga ardhini bila mwelekeo. Basi usihuzunike juu ya watu waasi.”
+**5:26** Alisema, "Imeharamishwa kwao kwa miaka arobaini. Watatangatanga ardhini bila mwelekeo. Basi usihuzunike juu ya watu waasi."
 
 قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةًۭ ۛ يَتِيهُونَ فِى ٱلْأَرْضِ ۚ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْفَٰسِقِينَ
 
-**5:27** Na wasimulie habari ya kweli ya wana wawili wa Adamu: walipotoa sadaka, ikakubaliwa kutoka kwa mmoja wao, lakini haikukubaliwa kutoka kwa mwingine. Alisema, “Nitakuua.” Alisema, “Allah hukubali tu kutoka kwa waadilifu.”
+**5:27** Na wasimulie habari ya kweli ya wana wawili wa Adamu: walipotoa sadaka, ikakubaliwa kutoka kwa mmoja wao, lakini haikukubaliwa kutoka kwa mwingine. Alisema, "Nitakuua." Alisema, "Allah hukubali tu kutoka kwa waadilifu."
 
 ۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْءَاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ
 
-**5:28** “Ukininyoshea mkono wako kuniua, sitakunyoshea mkono wangu kukuua; kwani ninamcha Allah, Mola wa walimwengu.”
+**5:28** "Ukininyoshea mkono wako kuniua, sitakunyoshea mkono wangu kukuua; kwani ninamcha Allah, Mola wa walimwengu."
 
 لَئِنۢ بَسَطتَ إِلَىَّ يَدَكَ لِتَقْتُلَنِى مَآ أَنَا۠ بِبَاسِطٍۢ يَدِىَ إِلَيْكَ لِأَقْتُلَكَ ۖ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ
 
-**5:29** “Ningependa zaidi ubebe dhambi yangu na dhambi yako, nawe uwe miongoni mwa wakaaji wa Moto. Hayo ndiyo malipo ya waovu.”
+**5:29** "Ningependa zaidi ubebe dhambi yangu na dhambi yako, nawe uwe miongoni mwa wakaaji wa Moto. Hayo ndiyo malipo ya waovu."
 
 إِنِّىٓ أُرِيدُ أَن تَبُوٓأَ بِإِثْمِى وَإِثْمِكَ فَتَكُونَ مِنْ أَصْحَٰبِ ٱلنَّارِ ۚ وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّٰلِمِينَ
 
@@ -2990,7 +2990,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَٰسِرِينَ
 
-**5:31** Basi Allah akamtuma kunguru akifukua ardhi, kumwonyesha jinsi ya kufunika maiti ya ndugu yake. Alisema, “Ole wangu! Nimeshindwa kuwa kama kunguru huyu, na kuizika maiti ya ndugu yangu.” Basi akawa miongoni mwa wenye kujuta.
+**5:31** Basi Allah akamtuma kunguru akifukua ardhi, kumwonyesha jinsi ya kufunika maiti ya ndugu yake. Alisema, "Ole wangu! Nimeshindwa kuwa kama kunguru huyu, na kuizika maiti ya ndugu yangu." Basi akawa miongoni mwa wenye kujuta.
 
 فَبَعَثَ ٱللَّهُ غُرَابًۭا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ ۚ قَالَ يَٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى ۖ فَأَصْبَحَ مِنَ ٱلنَّٰدِمِينَ
 
@@ -3030,7 +3030,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يُعَذِّبُ مَن يَشَآءُ وَيَغْفِرُ لِمَن يَشَآءُ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**5:41** Ewe Mjumbe! Wale walio wepesi kukufuru wasikuhuzunishe — miongoni mwa wale wanaosema kwa vinywa vyao, “Tunaamini,” lakini nyoyo zao haziamini; na miongoni mwa Mayahudi — wasikilizaji wa uongo, wasikilizaji wa watu wengine ambao hawakukujia. Wanayageuza maneno kutoka mahali pake, na husema, “Mkipewa hili, lichukueni; lakini msipopewa, jihadharini.” Yeyote ambaye Allah amekusudia kumwacha apotee, huna chochote kwa ajili yake kutoka kwa Allah. Hao ndio ambao nyoyo zao Allah hataki kuzitakasa. Watapata fedheha duniani, na watapata adhabu kubwa katika Akhera.
+**5:41** Ewe Mjumbe! Wale walio wepesi kukufuru wasikuhuzunishe — miongoni mwa wale wanaosema kwa vinywa vyao, "Tunaamini," lakini nyoyo zao haziamini; na miongoni mwa Mayahudi — wasikilizaji wa uongo, wasikilizaji wa watu wengine ambao hawakukujia. Wanayageuza maneno kutoka mahali pake, na husema, "Mkipewa hili, lichukueni; lakini msipopewa, jihadharini." Yeyote ambaye Allah amekusudia kumwacha apotee, huna chochote kwa ajili yake kutoka kwa Allah. Hao ndio ambao nyoyo zao Allah hataki kuzitakasa. Watapata fedheha duniani, na watapata adhabu kubwa katika Akhera.
 
 ۞ يَٰٓأَيُّهَا ٱلرَّسُولُ لَا يَحْزُنكَ ٱلَّذِينَ يُسَٰرِعُونَ فِى ٱلْكُفْرِ مِنَ ٱلَّذِينَ قَالُوٓا۟ ءَامَنَّا بِأَفْوَٰهِهِمْ وَلَمْ تُؤْمِن قُلُوبُهُمْ ۛ وَمِنَ ٱلَّذِينَ هَادُوا۟ ۛ سَمَّٰعُونَ لِلْكَذِبِ سَمَّٰعُونَ لِقَوْمٍ ءَاخَرِينَ لَمْ يَأْتُوكَ ۖ يُحَرِّفُونَ ٱلْكَلِمَ مِنۢ بَعْدِ مَوَاضِعِهِۦ ۖ يَقُولُونَ إِنْ أُوتِيتُمْ هَٰذَا فَخُذُوهُ وَإِن لَّمْ تُؤْتَوْهُ فَٱحْذَرُوا۟ ۚ وَمَن يُرِدِ ٱللَّهُ فِتْنَتَهُۥ فَلَن تَمْلِكَ لَهُۥ مِنَ ٱللَّهِ شَيْـًٔا ۚ أُو۟لَٰٓئِكَ ٱلَّذِينَ لَمْ يُرِدِ ٱللَّهُ أَن يُطَهِّرَ قُلُوبَهُمْ ۚ لَهُمْ فِى ٱلدُّنْيَا خِزْىٌۭ ۖ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌۭ
 
@@ -3074,11 +3074,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ ٱلْيَهُودَ وَٱلنَّصَٰرَىٰٓ أَوْلِيَآءَ ۘ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍۢ ۚ وَمَن يَتَوَلَّهُم مِّنكُمْ فَإِنَّهُۥ مِنْهُمْ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**5:52** Utawaona wale ambao mioyoni mwao kuna ugonjwa wakikimbilia kwao. Husema, “Tunaogopa gurudumu la bahati linaweza kutugeuka.” Lakini huenda Allah akaleta ushindi, au jambo fulani kutoka Kwake; hapo watajuta kwa yale waliyoyaficha ndani yao.
+**5:52** Utawaona wale ambao mioyoni mwao kuna ugonjwa wakikimbilia kwao. Husema, "Tunaogopa gurudumu la bahati linaweza kutugeuka." Lakini huenda Allah akaleta ushindi, au jambo fulani kutoka Kwake; hapo watajuta kwa yale waliyoyaficha ndani yao.
 
 فَتَرَى ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ يُسَٰرِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰٓ أَن تُصِيبَنَا دَآئِرَةٌۭ ۚ فَعَسَى ٱللَّهُ أَن يَأْتِىَ بِٱلْفَتْحِ أَوْ أَمْرٍۢ مِّنْ عِندِهِۦ فَيُصْبِحُوا۟ عَلَىٰ مَآ أَسَرُّوا۟ فِىٓ أَنفُسِهِمْ نَٰدِمِينَ
 
-**5:53** Wale wanaoamini watasema, “Je, hawa ndio wale walioapa kwa Allah kwa viapo vyao vikali kwamba wako pamoja nanyi?” Kazi zao zimeharibika, basi wamekuwa waliopata hasara.
+**5:53** Wale wanaoamini watasema, "Je, hawa ndio wale walioapa kwa Allah kwa viapo vyao vikali kwamba wako pamoja nanyi?" Kazi zao zimeharibika, basi wamekuwa waliopata hasara.
 
 وَيَقُولُ ٱلَّذِينَ ءَامَنُوٓا۟ أَهَٰٓؤُلَآءِ ٱلَّذِينَ أَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ ۙ إِنَّهُمْ لَمَعَكُمْ ۚ حَبِطَتْ أَعْمَٰلُهُمْ فَأَصْبَحُوا۟ خَٰسِرِينَ
 
@@ -3102,15 +3102,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَإِذَا نَادَيْتُمْ إِلَى ٱلصَّلَوٰةِ ٱتَّخَذُوهَا هُزُوًۭا وَلَعِبًۭا ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌۭ لَّا يَعْقِلُونَ
 
-**5:59** Sema, “Enyi Watu wa Kitabu! Mnatuchukia tu kwa sababu tunaamini katika Allah, na katika yale yaliyoteremshwa kwetu, na katika yale yaliyoteremshwa hapo awali; na wengi wenu ni waasi?”
+**5:59** Sema, "Enyi Watu wa Kitabu! Mnatuchukia tu kwa sababu tunaamini katika Allah, na katika yale yaliyoteremshwa kwetu, na katika yale yaliyoteremshwa hapo awali; na wengi wenu ni waasi?"
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ هَلْ تَنقِمُونَ مِنَّآ إِلَّآ أَنْ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْنَا وَمَآ أُنزِلَ مِن قَبْلُ وَأَنَّ أَكْثَرَكُمْ فَٰسِقُونَ
 
-**5:60** Sema, “Je, niwajulishe yaliyo mabaya zaidi kuliko hayo kwa malipo kutoka kwa Allah? Yule ambaye Allah amemlaani, na akakasirika naye; na akafanya baadhi yao kuwa nyani, na nguruwe, na waabudu masanamu. Hao wako katika hali mbaya zaidi, na wamepotea zaidi kutoka katika njia iliyonyooka.”
+**5:60** Sema, "Je, niwajulishe yaliyo mabaya zaidi kuliko hayo kwa malipo kutoka kwa Allah? Yule ambaye Allah amemlaani, na akakasirika naye; na akafanya baadhi yao kuwa nyani, na nguruwe, na waabudu masanamu. Hao wako katika hali mbaya zaidi, na wamepotea zaidi kutoka katika njia iliyonyooka."
 
 قُلْ هَلْ أُنَبِّئُكُم بِشَرٍّۢ مِّن ذَٰلِكَ مَثُوبَةً عِندَ ٱللَّهِ ۚ مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ ٱلْقِرَدَةَ وَٱلْخَنَازِيرَ وَعَبَدَ ٱلطَّٰغُوتَ ۚ أُو۟لَٰٓئِكَ شَرٌّۭ مَّكَانًۭا وَأَضَلُّ عَن سَوَآءِ ٱلسَّبِيلِ
 
-**5:61** Wakikujia, husema, “Tumeamini,” hali wameingia na ukafiri, na wametoka nao. Lakini Allah anajua vizuri yale wanayoyaficha.
+**5:61** Wakikujia, husema, "Tumeamini," hali wameingia na ukafiri, na wametoka nao. Lakini Allah anajua vizuri yale wanayoyaficha.
 
 وَإِذَا جَآءُوكُمْ قَالُوٓا۟ ءَامَنَّا وَقَد دَّخَلُوا۟ بِٱلْكُفْرِ وَهُمْ قَدْ خَرَجُوا۟ بِهِۦ ۚ وَٱللَّهُ أَعْلَمُ بِمَا كَانُوا۟ يَكْتُمُونَ
 
@@ -3122,7 +3122,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 لَوْلَا يَنْهَىٰهُمُ ٱلرَّبَّٰنِيُّونَ وَٱلْأَحْبَارُ عَن قَوْلِهِمُ ٱلْإِثْمَ وَأَكْلِهِمُ ٱلسُّحْتَ ۚ لَبِئْسَ مَا كَانُوا۟ يَصْنَعُونَ
 
-**5:64** Mayahudi husema, “Mkono wa Allah umefungwa.” Mikono yao ndiyo iliyofungwa, na wamelaaniwa kwa yale wanayosema. Kwa kweli, mikono Yake imekunjuliwa; hutoa atakavyo. Hakika, yale yaliyoteremshwa kwako kutoka kwa Mola wako yatawazidishia wengi wao uasi na ukafiri. Na Tuliweka uadui na chuki kati yao, hadi Siku ya Ufufuo. Kila wanapowasha moto wa vita, Allah huuzima. Na wanajitahidi kueneza uharibifu ardhini. Allah hawapendi waharibifu.
+**5:64** Mayahudi husema, "Mkono wa Allah umefungwa." Mikono yao ndiyo iliyofungwa, na wamelaaniwa kwa yale wanayosema. Kwa kweli, mikono Yake imekunjuliwa; hutoa atakavyo. Hakika, yale yaliyoteremshwa kwako kutoka kwa Mola wako yatawazidishia wengi wao uasi na ukafiri. Na Tuliweka uadui na chuki kati yao, hadi Siku ya Ufufuo. Kila wanapowasha moto wa vita, Allah huuzima. Na wanajitahidi kueneza uharibifu ardhini. Allah hawapendi waharibifu.
 
 وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ ۚ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟ ۘ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ ۚ وَلَيَزِيدَنَّ كَثِيرًۭا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَٰنًۭا وَكُفْرًۭا ۚ وَأَلْقَيْنَا بَيْنَهُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ۚ كُلَّمَآ أَوْقَدُوا۟ نَارًۭا لِّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ ۚ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًۭا ۚ وَٱللَّهُ لَا يُحِبُّ ٱلْمُفْسِدِينَ
 
@@ -3138,7 +3138,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ۞ يَٰٓأَيُّهَا ٱلرَّسُولُ بَلِّغْ مَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ۖ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُۥ ۚ وَٱللَّهُ يَعْصِمُكَ مِنَ ٱلنَّاسِ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ
 
-**5:68** Sema, “Enyi Watu wa Kitabu! Hamna msingi hadi mshike Torati, na Injili, na yale yaliyoteremshwa kwenu kutoka kwa Mola wenu.” Lakini yale yaliyoteremshwa kwako kutoka kwa Mola wako yatawazidishia wengi wao uasi na ukafiri, basi usiwahuzunikie watu makafiri.
+**5:68** Sema, "Enyi Watu wa Kitabu! Hamna msingi hadi mshike Torati, na Injili, na yale yaliyoteremshwa kwenu kutoka kwa Mola wenu." Lakini yale yaliyoteremshwa kwako kutoka kwa Mola wako yatawazidishia wengi wao uasi na ukafiri, basi usiwahuzunikie watu makafiri.
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لَسْتُمْ عَلَىٰ شَىْءٍ حَتَّىٰ تُقِيمُوا۟ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَمَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُمْ ۗ وَلَيَزِيدَنَّ كَثِيرًۭا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَٰنًۭا وَكُفْرًۭا ۖ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
 
@@ -3154,11 +3154,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَحَسِبُوٓا۟ أَلَّا تَكُونَ فِتْنَةٌۭ فَعَمُوا۟ وَصَمُّوا۟ ثُمَّ تَابَ ٱللَّهُ عَلَيْهِمْ ثُمَّ عَمُوا۟ وَصَمُّوا۟ كَثِيرٌۭ مِّنْهُمْ ۚ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ
 
-**5:72** Wamekufuru wale wanaosema, “Allah ni Masihi mwana wa Mariamu.” Lakini Masihi mwenyewe alisema, “Enyi Wana wa Israeli, mwabuduni Allah, Mola wangu na Mola wenu. Yeyote anayemshirikisha Allah na wengine, Allah amemharamishia Pepo, na makazi yake ni Moto. Waovu hawana waokozi.”
+**5:72** Wamekufuru wale wanaosema, "Allah ni Masihi mwana wa Mariamu." Lakini Masihi mwenyewe alisema, "Enyi Wana wa Israeli, mwabuduni Allah, Mola wangu na Mola wenu. Yeyote anayemshirikisha Allah na wengine, Allah amemharamishia Pepo, na makazi yake ni Moto. Waovu hawana waokozi."
 
 لَقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ ۖ وَقَالَ ٱلْمَسِيحُ يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱعْبُدُوا۟ ٱللَّهَ رَبِّى وَرَبَّكُمْ ۖ إِنَّهُۥ مَن يُشْرِكْ بِٱللَّهِ فَقَدْ حَرَّمَ ٱللَّهُ عَلَيْهِ ٱلْجَنَّةَ وَمَأْوَىٰهُ ٱلنَّارُ ۖ وَمَا لِلظَّٰلِمِينَ مِنْ أَنصَارٍۢ
 
-**5:73** Wamekufuru wale wanaosema, “Allah ni wa tatu wa watatu.” Lakini hakuna mungu ila Allah Mmoja. Wasipoacha yale wanayosema, mateso yenye uchungu yatawafikia wale miongoni mwao wanaokufuru.
+**5:73** Wamekufuru wale wanaosema, "Allah ni wa tatu wa watatu." Lakini hakuna mungu ila Allah Mmoja. Wasipoacha yale wanayosema, mateso yenye uchungu yatawafikia wale miongoni mwao wanaokufuru.
 
 لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ ثَالِثُ ثَلَٰثَةٍۢ ۘ وَمَا مِنْ إِلَٰهٍ إِلَّآ إِلَٰهٌۭ وَٰحِدٌۭ ۚ وَإِن لَّمْ يَنتَهُوا۟ عَمَّا يَقُولُونَ لَيَمَسَّنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابٌ أَلِيمٌ
 
@@ -3170,11 +3170,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌۭ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌۭ ۖ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ۗ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْءَايَٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ
 
-**5:76** Sema, “Je, mwaabudu, badala ya Allah, kile kisicho na uwezo wa kuwadhuru wala kuwanufaisha?” Lakini Allah: Yeye ni Msikivu, Mjuzi.
+**5:76** Sema, "Je, mwaabudu, badala ya Allah, kile kisicho na uwezo wa kuwadhuru wala kuwanufaisha?" Lakini Allah: Yeye ni Msikivu, Mjuzi.
 
 قُلْ أَتَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَمْلِكُ لَكُمْ ضَرًّۭا وَلَا نَفْعًۭا ۚ وَٱللَّهُ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
-**5:77** Sema, “Enyi Watu wa Kitabu! Msizidishe katika dini yenu kupita kweli; wala msifuate maoni ya watu waliopotea hapo awali, na wakawapoteza wengi, na wao wenyewe wakapotea kutoka katika njia yenye usawa.”
+**5:77** Sema, "Enyi Watu wa Kitabu! Msizidishe katika dini yenu kupita kweli; wala msifuate maoni ya watu waliopotea hapo awali, na wakawapoteza wengi, na wao wenyewe wakapotea kutoka katika njia yenye usawa."
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ غَيْرَ ٱلْحَقِّ وَلَا تَتَّبِعُوٓا۟ أَهْوَآءَ قَوْمٍۢ قَدْ ضَلُّوا۟ مِن قَبْلُ وَأَضَلُّوا۟ كَثِيرًۭا وَضَلُّوا۟ عَن سَوَآءِ ٱلسَّبِيلِ
 
@@ -3194,15 +3194,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَوْ كَانُوا۟ يُؤْمِنُونَ بِٱللَّهِ وَٱلنَّبِىِّ وَمَآ أُنزِلَ إِلَيْهِ مَا ٱتَّخَذُوهُمْ أَوْلِيَآءَ وَلَٰكِنَّ كَثِيرًۭا مِّنْهُمْ فَٰسِقُونَ
 
-**5:82** Utawakuta watu wenye uadui mkubwa zaidi kwa waumini kuwa Mayahudi na washirikina. Na utawakuta walio karibu zaidi kwa upendo kwa waumini kuwa wale wanaosema, “Sisi ni Wakristo.” Hiyo ni kwa sababu miongoni mwao kuna makuhani na watawa, na wao si wenye kiburi.
+**5:82** Utawakuta watu wenye uadui mkubwa zaidi kwa waumini kuwa Mayahudi na washirikina. Na utawakuta walio karibu zaidi kwa upendo kwa waumini kuwa wale wanaosema, "Sisi ni Wakristo." Hiyo ni kwa sababu miongoni mwao kuna makuhani na watawa, na wao si wenye kiburi.
 
 ۞ لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَٰوَةًۭ لِّلَّذِينَ ءَامَنُوا۟ ٱلْيَهُودَ وَٱلَّذِينَ أَشْرَكُوا۟ ۖ وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةًۭ لِّلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰ ۚ ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًۭا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ
 
-**5:83** Na wanaposikia yale yaliyoteremshwa kwa Mjumbe, unaona macho yao yakijaa machozi, wanapoutambua ukweli uliomo. Husema, “Mola wetu, tumeamini, basi tuhesabu miongoni mwa mashahidi.”
+**5:83** Na wanaposikia yale yaliyoteremshwa kwa Mjumbe, unaona macho yao yakijaa machozi, wanapoutambua ukweli uliomo. Husema, "Mola wetu, tumeamini, basi tuhesabu miongoni mwa mashahidi."
 
 وَإِذَا سَمِعُوا۟ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعْيُنَهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ مِمَّا عَرَفُوا۟ مِنَ ٱلْحَقِّ ۖ يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكْتُبْنَا مَعَ ٱلشَّٰهِدِينَ
 
-**5:84** “Na kwa nini tusiamini katika Allah, na katika kweli uliotujia, na kutumaini kwamba Mola wetu atatuingiza miongoni mwa watu wema?”
+**5:84** "Na kwa nini tusiamini katika Allah, na katika kweli uliotujia, na kutumaini kwamba Mola wetu atatuingiza miongoni mwa watu wema?"
 
 وَمَا لَنَا لَا نُؤْمِنُ بِٱللَّهِ وَمَا جَآءَنَا مِنَ ٱلْحَقِّ وَنَطْمَعُ أَن يُدْخِلَنَا رَبُّنَا مَعَ ٱلْقَوْمِ ٱلصَّٰلِحِينَ
 
@@ -3266,7 +3266,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 مَّا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَٰغُ ۗ وَٱللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ
 
-**5:100** Sema: “Mbaya na mzuri hawalingani, hata kama wingi wa mbaya unakuvutia. Basi mcheni Allah, enyi wenye akili, ili mpate kufanikiwa.”
+**5:100** Sema: "Mbaya na mzuri hawalingani, hata kama wingi wa mbaya unakuvutia. Basi mcheni Allah, enyi wenye akili, ili mpate kufanikiwa."
 
 قُل لَّا يَسْتَوِى ٱلْخَبِيثُ وَٱلطَّيِّبُ وَلَوْ أَعْجَبَكَ كَثْرَةُ ٱلْخَبِيثِ ۚ فَٱتَّقُوا۟ ٱللَّهَ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ لَعَلَّكُمْ تُفْلِحُونَ
 
@@ -3282,7 +3282,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 مَا جَعَلَ ٱللَّهُ مِنۢ بَحِيرَةٍۢ وَلَا سَآئِبَةٍۢ وَلَا وَصِيلَةٍۢ وَلَا حَامٍۢ ۙ وَلَٰكِنَّ ٱلَّذِينَ كَفَرُوا۟ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ ۖ وَأَكْثَرُهُمْ لَا يَعْقِلُونَ
 
-**5:104** Na wanapoambiwa, “Njooni kwenye yale ambayo Allah ameyateremsha, na kwa Mjumbe,” husema, “Yanatutosha yale tuliyowakuta baba zetu wakiwa juu yake.” Hata kama baba zao hawakujua chochote, na hawakuongozwa?
+**5:104** Na wanapoambiwa, "Njooni kwenye yale ambayo Allah ameyateremsha, na kwa Mjumbe," husema, "Yanatutosha yale tuliyowakuta baba zetu wakiwa juu yake." Hata kama baba zao hawakujua chochote, na hawakuongozwa?
 
 وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ قَالُوا۟ حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْلَمُونَ شَيْـًۭٔا وَلَا يَهْتَدُونَ
 
@@ -3290,11 +3290,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ عَلَيْكُمْ أَنفُسَكُمْ ۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهْتَدَيْتُمْ ۚ إِلَى ٱللَّهِ مَرْجِعُكُمْ جَمِيعًۭا فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 
-**5:106** Enyi mlioamini! Kifo kinapomkaribia mmoja wenu, watu wawili wa kuaminika miongoni mwenu wafanye kama mashahidi wakati wa kuandika wasia, au watu wawili kutoka kwa watu wengine mkiwa safarini ardhini na tukio la kifo linawakaribia. Wazuieni baada ya sala. Mkiwa na shaka, waapishe kwa Allah: “Hatutauza ushuhuda wetu kwa bei yoyote, hata kama alikuwa ndugu wa karibu, na hatutauficha ushuhuda wa Allah, kwani hapo tutakuwa wenye dhambi.”
+**5:106** Enyi mlioamini! Kifo kinapomkaribia mmoja wenu, watu wawili wa kuaminika miongoni mwenu wafanye kama mashahidi wakati wa kuandika wasia, au watu wawili kutoka kwa watu wengine mkiwa safarini ardhini na tukio la kifo linawakaribia. Wazuieni baada ya sala. Mkiwa na shaka, waapishe kwa Allah: "Hatutauza ushuhuda wetu kwa bei yoyote, hata kama alikuwa ndugu wa karibu, na hatutauficha ushuhuda wa Allah, kwani hapo tutakuwa wenye dhambi."
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ ۚ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ بِٱللَّهِ إِنِ ٱرْتَبْتُمْ لَا نَشْتَرِى بِهِۦ ثَمَنًۭا وَلَوْ كَانَ ذَا قُرْبَىٰ ۙ وَلَا نَكْتُمُ شَهَٰدَةَ ٱللَّهِ إِنَّآ إِذًۭا لَّمِنَ ٱلْءَاثِمِينَ
 
-**5:107** Ikigundulika kwamba wanastahili hatia ya kiapo cha uongo: watu wawili wengine wachukue nafasi yao, wawili miongoni mwa wale wenye haki ya dai, na waapishe kwa Allah, “Ushuhuda wetu ni wa kweli zaidi kuliko ushuhuda wao, na hatutakuwa na upendeleo, kwani hapo tutakuwa waovu.”
+**5:107** Ikigundulika kwamba wanastahili hatia ya kiapo cha uongo: watu wawili wengine wachukue nafasi yao, wawili miongoni mwa wale wenye haki ya dai, na waapishe kwa Allah, "Ushuhuda wetu ni wa kweli zaidi kuliko ushuhuda wao, na hatutakuwa na upendeleo, kwani hapo tutakuwa waovu."
 
 فَإِنْ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسْتَحَقَّآ إِثْمًۭا فَـَٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ ٱلَّذِينَ ٱسْتَحَقَّ عَلَيْهِمُ ٱلْأَوْلَيَٰنِ فَيُقْسِمَانِ بِٱللَّهِ لَشَهَٰدَتُنَآ أَحَقُّ مِن شَهَٰدَتِهِمَا وَمَا ٱعْتَدَيْنَآ إِنَّآ إِذًۭا لَّمِنَ ٱلظَّٰلِمِينَ
 
@@ -3302,35 +3302,35 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ذَٰلِكَ أَدْنَىٰٓ أَن يَأْتُوا۟ بِٱلشَّهَٰدَةِ عَلَىٰ وَجْهِهَآ أَوْ يَخَافُوٓا۟ أَن تُرَدَّ أَيْمَٰنٌۢ بَعْدَ أَيْمَٰنِهِمْ ۗ وَٱتَّقُوا۟ ٱللَّهَ وَٱسْمَعُوا۟ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 
-**5:109** Siku ambayo Allah atawakusanya wajumbe, kisha aseme, “Mlijibiwa nini?” Watasema, “Hatuna ujuzi; Wewe ndiye Mjuzi wa yaliyofichika.”
+**5:109** Siku ambayo Allah atawakusanya wajumbe, kisha aseme, "Mlijibiwa nini?" Watasema, "Hatuna ujuzi; Wewe ndiye Mjuzi wa yaliyofichika."
 
 ۞ يَوْمَ يَجْمَعُ ٱللَّهُ ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبْتُمْ ۖ قَالُوا۟ لَا عِلْمَ لَنَآ ۖ إِنَّكَ أَنتَ عَلَّٰمُ ٱلْغُيُوبِ
 
-**5:110** Allah atakaposema, “Ewe Issa mwana wa Mariamu, kumbuka neema Yangu juu yako na juu ya mama yako, jinsi Nilivyokusaidia kwa Roho Takatifu. Ulizungumza na watu ukiwa mtoto mchanga, na ukiwa mtu mzima. Jinsi Nilivyokufundisha Kitabu na hekima, na Torati na Injili. Na kumbuka ulipofinyanga kwa udongo umbo la ndege, kwa idhini Yangu, kisha ukapulizia ndani yake, ikawa ndege, kwa idhini Yangu. Na uliwaponya vipofu na wenye ukoma, kwa idhini Yangu; na uliwafufua wafu, kwa idhini Yangu. Na kumbuka Nilipowazuia Wana wa Israeli dhidi yako ulipowajia na ishara zilizo wazi. Lakini wale waliokufuru miongoni mwao wakasema, ‘Huu si chochote isipokuwa uchawi ulio wazi.’”
+**5:110** Allah atakaposema, "Ewe Issa mwana wa Mariamu, kumbuka neema Yangu juu yako na juu ya mama yako, jinsi Nilivyokusaidia kwa Roho Takatifu. Ulizungumza na watu ukiwa mtoto mchanga, na ukiwa mtu mzima. Jinsi Nilivyokufundisha Kitabu na hekima, na Torati na Injili. Na kumbuka ulipofinyanga kwa udongo umbo la ndege, kwa idhini Yangu, kisha ukapulizia ndani yake, ikawa ndege, kwa idhini Yangu. Na uliwaponya vipofu na wenye ukoma, kwa idhini Yangu; na uliwafufua wafu, kwa idhini Yangu. Na kumbuka Nilipowazuia Wana wa Israeli dhidi yako ulipowajia na ishara zilizo wazi. Lakini wale waliokufuru miongoni mwao wakasema, 'Huu si chochote isipokuwa uchawi ulio wazi.'"
 
 إِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ٱذْكُرْ نِعْمَتِى عَلَيْكَ وَعَلَىٰ وَٰلِدَتِكَ إِذْ أَيَّدتُّكَ بِرُوحِ ٱلْقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًۭا ۖ وَإِذْ عَلَّمْتُكَ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ ۖ وَإِذْ تَخْلُقُ مِنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ بِإِذْنِى فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًۢا بِإِذْنِى ۖ وَتُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ بِإِذْنِى ۖ وَإِذْ تُخْرِجُ ٱلْمَوْتَىٰ بِإِذْنِى ۖ وَإِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ إِذْ جِئْتَهُم بِٱلْبَيِّنَٰتِ فَقَالَ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌۭ
 
-**5:111** “Na Nilipowafunulia wanafunzi: ‘Aminini Kwangu na kwa Mjumbe Wangu.’ Wakasema, ‘Tumeamini, basi shuhudia kwamba tumejisalimisha.’”
+**5:111** "Na Nilipowafunulia wanafunzi: 'Aminini Kwangu na kwa Mjumbe Wangu.' Wakasema, 'Tumeamini, basi shuhudia kwamba tumejisalimisha.'"
 
 وَإِذْ أَوْحَيْتُ إِلَى ٱلْحَوَارِيِّۦنَ أَنْ ءَامِنُوا۟ بِى وَبِرَسُولِى قَالُوٓا۟ ءَامَنَّا وَٱشْهَدْ بِأَنَّنَا مُسْلِمُونَ
 
-**5:112** “Na wanafunzi waliposema, ‘Ewe Issa mwana wa Mariamu, je, Mola wako anaweza kututeremshia meza ya chakula kutoka mbinguni?’ Akasema, ‘Mcheni Allah, mkiwa waumini.’”
+**5:112** "Na wanafunzi waliposema, 'Ewe Issa mwana wa Mariamu, je, Mola wako anaweza kututeremshia meza ya chakula kutoka mbinguni?' Akasema, 'Mcheni Allah, mkiwa waumini.'"
 
 إِذْ قَالَ ٱلْحَوَارِيُّونَ يَٰعِيسَى ٱبْنَ مَرْيَمَ هَلْ يَسْتَطِيعُ رَبُّكَ أَن يُنَزِّلَ عَلَيْنَا مَآئِدَةًۭ مِّنَ ٱلسَّمَآءِ ۖ قَالَ ٱتَّقُوا۟ ٱللَّهَ إِن كُنتُم مُّؤْمِنِينَ
 
-**5:113** Wakasema, “Tunataka kula kutoka kwayo, ili nyoyo zetu zipate uhakika, na tujue kwamba umetuambia kweli, na tuwe miongoni mwa wale wanaoishuhudia.”
+**5:113** Wakasema, "Tunataka kula kutoka kwayo, ili nyoyo zetu zipate uhakika, na tujue kwamba umetuambia kweli, na tuwe miongoni mwa wale wanaoishuhudia."
 
 قَالُوا۟ نُرِيدُ أَن نَّأْكُلَ مِنْهَا وَتَطْمَئِنَّ قُلُوبُنَا وَنَعْلَمَ أَن قَدْ صَدَقْتَنَا وَنَكُونَ عَلَيْهَا مِنَ ٱلشَّٰهِدِينَ
 
-**5:114** Issa mwana wa Mariamu alisema, “Ewe Allah, Mola wetu, tuteremshie meza kutoka mbinguni, iwe sikukuu kwetu, kwa wa kwanza wetu, na wa mwisho wetu, na ishara kutoka Kwako; na turuzuku; Wewe ndiye Bora wa watoa riziki.”
+**5:114** Issa mwana wa Mariamu alisema, "Ewe Allah, Mola wetu, tuteremshie meza kutoka mbinguni, iwe sikukuu kwetu, kwa wa kwanza wetu, na wa mwisho wetu, na ishara kutoka Kwako; na turuzuku; Wewe ndiye Bora wa watoa riziki."
 
 قَالَ عِيسَى ٱبْنُ مَرْيَمَ ٱللَّهُمَّ رَبَّنَآ أَنزِلْ عَلَيْنَا مَآئِدَةًۭ مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيدًۭا لِّأَوَّلِنَا وَءَاخِرِنَا وَءَايَةًۭ مِّنكَ ۖ وَٱرْزُقْنَا وَأَنتَ خَيْرُ ٱلرَّٰزِقِينَ
 
-**5:115** Allah alisema, “Nitaiteremsha kwenu. Lakini yeyote miongoni mwenu atakayekufuru baada ya hayo, Nitamwadhibu kwa adhabu ambayo sijaadhibu nayo kiumbe kingine chochote.”
+**5:115** Allah alisema, "Nitaiteremsha kwenu. Lakini yeyote miongoni mwenu atakayekufuru baada ya hayo, Nitamwadhibu kwa adhabu ambayo sijaadhibu nayo kiumbe kingine chochote."
 
 قَالَ ٱللَّهُ إِنِّى مُنَزِّلُهَا عَلَيْكُمْ ۖ فَمَن يَكْفُرْ بَعْدُ مِنكُمْ فَإِنِّىٓ أُعَذِّبُهُۥ عَذَابًۭا لَّآ أُعَذِّبُهُۥٓ أَحَدًۭا مِّنَ ٱلْعَٰلَمِينَ
 
-**5:116** Na Allah atasema, “Ewe Issa mwana wa Mariamu, je, uliwaambia watu, ‘Nichukueni mimi na mama yangu kuwa miungu badala ya Allah?’” Atasema, “Utukufu ni Wako! Si haki yangu kusema yale ambayo sina haki nayo. Ningelisema, Ungelijua. Unajua yaliyomo ndani ya nafsi yangu, na sijui yaliyomo ndani ya nafsi Yako. Wewe ndiye Mjuzi wa yaliyofichika.
+**5:116** Na Allah atasema, "Ewe Issa mwana wa Mariamu, je, uliwaambia watu, 'Nichukueni mimi na mama yangu kuwa miungu badala ya Allah?'" Atasema, "Utukufu ni Wako! Si haki yangu kusema yale ambayo sina haki nayo. Ningelisema, Ungelijua. Unajua yaliyomo ndani ya nafsi yangu, na sijui yaliyomo ndani ya nafsi Yako. Wewe ndiye Mjuzi wa yaliyofichika.
 
 وَإِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ءَأَنتَ قُلْتَ لِلنَّاسِ ٱتَّخِذُونِى وَأُمِّىَ إِلَٰهَيْنِ مِن دُونِ ٱللَّهِ ۖ قَالَ سُبْحَٰنَكَ مَا يَكُونُ لِىٓ أَنْ أَقُولَ مَا لَيْسَ لِى بِحَقٍّ ۚ إِن كُنتُ قُلْتُهُۥ فَقَدْ عَلِمْتَهُۥ ۚ تَعْلَمُ مَا فِى نَفْسِى وَلَآ أَعْلَمُ مَا فِى نَفْسِكَ ۚ إِنَّكَ أَنتَ عَلَّٰمُ ٱلْغُيُوبِ
 
@@ -3338,11 +3338,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 مَا قُلْتُ لَهُمْ إِلَّا مَآ أَمَرْتَنِى بِهِۦٓ أَنِ ٱعْبُدُوا۟ ٱللَّهَ رَبِّى وَرَبَّكُمْ ۚ وَكُنتُ عَلَيْهِمْ شَهِيدًۭا مَّا دُمْتُ فِيهِمْ ۖ فَلَمَّا تَوَفَّيْتَنِى كُنتَ أَنتَ ٱلرَّقِيبَ عَلَيْهِمْ ۚ وَأَنتَ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدٌ
 
-**5:118** Ukiwaadhibu, wao ni watumishi Wako; lakini Ukiwasamehe, Wewe ni Mwenye nguvu na Mwenye hekima.”
+**5:118** Ukiwaadhibu, wao ni watumishi Wako; lakini Ukiwasamehe, Wewe ni Mwenye nguvu na Mwenye hekima."
 
 إِن تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ ۖ وَإِن تَغْفِرْ لَهُمْ فَإِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**5:119** Allah atasema, “Hii ni Siku ambayo wakweli watanufaika na ukweli wao.” Watakuwa na Mabustani ambayo mito inapita chini yake, ambamo watabaki milele. Allah anaridhika nao, na wanaridhika Naye. Hayo ndiyo mafanikio makubwa.
+**5:119** Allah atasema, "Hii ni Siku ambayo wakweli watanufaika na ukweli wao." Watakuwa na Mabustani ambayo mito inapita chini yake, ambamo watabaki milele. Allah anaridhika nao, na wanaridhika Naye. Hayo ndiyo mafanikio makubwa.
 
 قَالَ ٱللَّهُ هَٰذَا يَوْمُ يَنفَعُ ٱلصَّٰدِقِينَ صِدْقُهُمْ ۚ لَهُمْ جَنَّٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًۭا ۚ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
@@ -3386,11 +3386,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَلَمْ يَرَوْا۟ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍۢ مَّكَّنَّٰهُمْ فِى ٱلْأَرْضِ مَا لَمْ نُمَكِّن لَّكُمْ وَأَرْسَلْنَا ٱلسَّمَآءَ عَلَيْهِم مِّدْرَارًۭا وَجَعَلْنَا ٱلْأَنْهَٰرَ تَجْرِى مِن تَحْتِهِمْ فَأَهْلَكْنَٰهُم بِذُنُوبِهِمْ وَأَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ
 
-**6:7** Tungaliteremsha kwako kitabu kwenye karatasi, na wakakigusa kwa mikono yao, wale wanaokufuru wangesema, “Huu si chochote isipokuwa uchawi ulio wazi.”
+**6:7** Tungaliteremsha kwako kitabu kwenye karatasi, na wakakigusa kwa mikono yao, wale wanaokufuru wangesema, "Huu si chochote isipokuwa uchawi ulio wazi."
 
 وَلَوْ نَزَّلْنَا عَلَيْكَ كِتَٰبًۭا فِى قِرْطَاسٍۢ فَلَمَسُوهُ بِأَيْدِيهِمْ لَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌۭ
 
-**6:8** Na husema, “Kwa nini malaika hakuteremshwa kwake?” Tungaliteremsha malaika, jambo lingetamatika, na wasingelipewa muda.
+**6:8** Na husema, "Kwa nini malaika hakuteremshwa kwake?" Tungaliteremsha malaika, jambo lingetamatika, na wasingelipewa muda.
 
 وَقَالُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ مَلَكٌۭ ۖ وَلَوْ أَنزَلْنَا مَلَكًۭا لَّقُضِىَ ٱلْأَمْرُ ثُمَّ لَا يُنظَرُونَ
 
@@ -3402,11 +3402,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍۢ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**6:11** Sema, “Safirini ardhini na tazameni mwisho wa wakataaji.”
+**6:11** Sema, "Safirini ardhini na tazameni mwisho wa wakataaji."
 
 قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ ثُمَّ ٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُكَذِّبِينَ
 
-**6:12** Sema, “Ni vya nani vilivyomo mbinguni na ardhini?” Sema, “Ni vya Allah.” Amejiandikia rehema. Atawakusanya hadi Siku ya Ufufuo, ambayo haina shaka. Wale waliopoteza nafsi zao hawaamini.
+**6:12** Sema, "Ni vya nani vilivyomo mbinguni na ardhini?" Sema, "Ni vya Allah." Amejiandikia rehema. Atawakusanya hadi Siku ya Ufufuo, ambayo haina shaka. Wale waliopoteza nafsi zao hawaamini.
 
 قُل لِّمَن مَّا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ قُل لِّلَّهِ ۚ كَتَبَ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَا رَيْبَ فِيهِ ۚ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ
 
@@ -3414,11 +3414,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ۞ وَلَهُۥ مَا سَكَنَ فِى ٱلَّيْلِ وَٱلنَّهَارِ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
-**6:14** Sema, “Je, nijichukulie mlinzi mwingine badala ya Allah, Muumba wa mbingu na ardhi, naye hulisha na halishwi?” Sema, “Nimeamrishwa kuwa wa kwanza wa wale wanaojisalimisha.” Wala usiwe miongoni mwa washirikina.
+**6:14** Sema, "Je, nijichukulie mlinzi mwingine badala ya Allah, Muumba wa mbingu na ardhi, naye hulisha na halishwi?" Sema, "Nimeamrishwa kuwa wa kwanza wa wale wanaojisalimisha." Wala usiwe miongoni mwa washirikina.
 
 قُلْ أَغَيْرَ ٱللَّهِ أَتَّخِذُ وَلِيًّۭا فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ يُطْعِمُ وَلَا يُطْعَمُ ۗ قُلْ إِنِّىٓ أُمِرْتُ أَنْ أَكُونَ أَوَّلَ مَنْ أَسْلَمَ ۖ وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ
 
-**6:15** Sema, “Ninaogopa, nikimwasi Mola wangu, adhabu ya Siku kubwa.”
+**6:15** Sema, "Ninaogopa, nikimwasi Mola wangu, adhabu ya Siku kubwa."
 
 قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍۢ
 
@@ -3434,7 +3434,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَهُوَ ٱلْقَاهِرُ فَوْقَ عِبَادِهِۦ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ
 
-**6:19** Sema, “Ni kitu gani kilicho kikubwa zaidi katika ushuhuda?” Sema, “Allah ni Shahidi kati yenu na mimi. Kurani hii imefunuliwa kwangu, ili niwaonye kwayo, na yeyote itakayemfikia. Je, mnashuhudia kweli kwamba kuna miungu mingine pamoja na Allah?” Sema, “Mimi mwenyewe sishuhudii.” Sema, “Yeye ni Allah mmoja tu, na mimi siko pamoja na ushirikina wenu.”
+**6:19** Sema, "Ni kitu gani kilicho kikubwa zaidi katika ushuhuda?" Sema, "Allah ni Shahidi kati yenu na mimi. Kurani hii imefunuliwa kwangu, ili niwaonye kwayo, na yeyote itakayemfikia. Je, mnashuhudia kweli kwamba kuna miungu mingine pamoja na Allah?" Sema, "Mimi mwenyewe sishuhudii." Sema, "Yeye ni Allah mmoja tu, na mimi siko pamoja na ushirikina wenu."
 
 قُلْ أَىُّ شَىْءٍ أَكْبَرُ شَهَٰدَةًۭ ۖ قُلِ ٱللَّهُ ۖ شَهِيدٌۢ بَيْنِى وَبَيْنَكُمْ ۚ وَأُوحِىَ إِلَىَّ هَٰذَا ٱلْقُرْءَانُ لِأُنذِرَكُم بِهِۦ وَمَنۢ بَلَغَ ۚ أَئِنَّكُمْ لَتَشْهَدُونَ أَنَّ مَعَ ٱللَّهِ ءَالِهَةً أُخْرَىٰ ۚ قُل لَّآ أَشْهَدُ ۚ قُلْ إِنَّمَا هُوَ إِلَٰهٌۭ وَٰحِدٌۭ وَإِنَّنِى بَرِىٓءٌۭ مِّمَّا تُشْرِكُونَ
 
@@ -3446,11 +3446,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِـَٔايَٰتِهِۦٓ ۗ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
 
-**6:22** Siku ambayo Tutawakusanya wote pamoja, kisha tuwaambie washirikina, “Wako wapi masanamu yenu, wale mliokuwa mkiwadai?”
+**6:22** Siku ambayo Tutawakusanya wote pamoja, kisha tuwaambie washirikina, "Wako wapi masanamu yenu, wale mliokuwa mkiwadai?"
 
 وَيَوْمَ نَحْشُرُهُمْ جَمِيعًۭا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوٓا۟ أَيْنَ شُرَكَآؤُكُمُ ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ
 
-**6:23** Basi hoja yao pekee itakuwa kusema, “Kwa Allah, Mola wetu, hatukuwa washirikina.”
+**6:23** Basi hoja yao pekee itakuwa kusema, "Kwa Allah, Mola wetu, hatukuwa washirikina."
 
 ثُمَّ لَمْ تَكُن فِتْنَتُهُمْ إِلَّآ أَن قَالُوا۟ وَٱللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ
 
@@ -3458,7 +3458,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ٱنظُرْ كَيْفَ كَذَبُوا۟ عَلَىٰٓ أَنفُسِهِمْ ۚ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ
 
-**6:25** Miongoni mwao kuna wanaokusikiliza; lakini Tunaweka vifuniko juu ya nyoyo zao, kuwazuia wasiielewe, na uzito masikioni mwao. Hata wakiona kila ishara, hawataamini kwayo. Hadi, wanapokujia, kubishana nawe, wale wanaokufuru husema, “Hizi si chochote isipokuwa hadithi za watu wa kale.”
+**6:25** Miongoni mwao kuna wanaokusikiliza; lakini Tunaweka vifuniko juu ya nyoyo zao, kuwazuia wasiielewe, na uzito masikioni mwao. Hata wakiona kila ishara, hawataamini kwayo. Hadi, wanapokujia, kubishana nawe, wale wanaokufuru husema, "Hizi si chochote isipokuwa hadithi za watu wa kale."
 
 وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ ۖ وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًۭا ۚ وَإِن يَرَوْا۟ كُلَّ ءَايَةٍۢ لَّا يُؤْمِنُوا۟ بِهَا ۚ حَتَّىٰٓ إِذَا جَآءُوكَ يُجَٰدِلُونَكَ يَقُولُ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
@@ -3466,7 +3466,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَهُمْ يَنْهَوْنَ عَنْهُ وَيَنْـَٔوْنَ عَنْهُ ۖ وَإِن يُهْلِكُونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ
 
-**6:27** Laiti ungewaona, wanaposimamishwa mbele ya Moto; watasema, “Laiti tungerudishwa, na tusizikatae aya za Mola wetu, na tuwe miongoni mwa waumini.”
+**6:27** Laiti ungewaona, wanaposimamishwa mbele ya Moto; watasema, "Laiti tungerudishwa, na tusizikatae aya za Mola wetu, na tuwe miongoni mwa waumini."
 
 وَلَوْ تَرَىٰٓ إِذْ وُقِفُوا۟ عَلَى ٱلنَّارِ فَقَالُوا۟ يَٰلَيْتَنَا نُرَدُّ وَلَا نُكَذِّبَ بِـَٔايَٰتِ رَبِّنَا وَنَكُونَ مِنَ ٱلْمُؤْمِنِينَ
 
@@ -3474,15 +3474,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 بَلْ بَدَا لَهُم مَّا كَانُوا۟ يُخْفُونَ مِن قَبْلُ ۖ وَلَوْ رُدُّوا۟ لَعَادُوا۟ لِمَا نُهُوا۟ عَنْهُ وَإِنَّهُمْ لَكَٰذِبُونَ
 
-**6:29** Na husema, “Hakuna chochote isipokuwa maisha yetu ya duniani, na hatutafufuliwa.”
+**6:29** Na husema, "Hakuna chochote isipokuwa maisha yetu ya duniani, na hatutafufuliwa."
 
 وَقَالُوٓا۟ إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ
 
-**6:30** Laiti ungewaona, wanaposimamishwa mbele ya Mola wao. Atasema, “Je, hii si kweli?” Watasema, “Ndiyo, kwa Mola wetu.” Atasema, “Basi onjeni mateso kwa kukufuru kwenu.”
+**6:30** Laiti ungewaona, wanaposimamishwa mbele ya Mola wao. Atasema, "Je, hii si kweli?" Watasema, "Ndiyo, kwa Mola wetu." Atasema, "Basi onjeni mateso kwa kukufuru kwenu."
 
 وَلَوْ تَرَىٰٓ إِذْ وُقِفُوا۟ عَلَىٰ رَبِّهِمْ ۚ قَالَ أَلَيْسَ هَٰذَا بِٱلْحَقِّ ۚ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
 
-**6:31** Waliopata hasara ni wale wanaokataa kukutana na Allah. Basi, ile Saa inapowajia ghafla, watasema, “Ole wetu, jinsi tulivyoipuuza.” Na watabeba mizigo yao migongoni mwao — ni mizigo mibaya wanayoibeba.
+**6:31** Waliopata hasara ni wale wanaokataa kukutana na Allah. Basi, ile Saa inapowajia ghafla, watasema, "Ole wetu, jinsi tulivyoipuuza." Na watabeba mizigo yao migongoni mwao — ni mizigo mibaya wanayoibeba.
 
 قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ ۖ حَتَّىٰٓ إِذَا جَآءَتْهُمُ ٱلسَّاعَةُ بَغْتَةًۭ قَالُوا۟ يَٰحَسْرَتَنَا عَلَىٰ مَا فَرَّطْنَا فِيهَا وَهُمْ يَحْمِلُونَ أَوْزَارَهُمْ عَلَىٰ ظُهُورِهِمْ ۚ أَلَا سَآءَ مَا يَزِرُونَ
 
@@ -3506,7 +3506,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ۞ إِنَّمَا يَسْتَجِيبُ ٱلَّذِينَ يَسْمَعُونَ ۘ وَٱلْمَوْتَىٰ يَبْعَثُهُمُ ٱللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ
 
-**6:37** Na husema, “Laiti ishara ingeteremshwa kwake kutoka kwa Mola wake.” Sema, “Allah ana uwezo wa kuteremsha ishara, lakini wengi wao hawajui.”
+**6:37** Na husema, "Laiti ishara ingeteremshwa kwake kutoka kwa Mola wake." Sema, "Allah ana uwezo wa kuteremsha ishara, lakini wengi wao hawajui."
 
 وَقَالُوا۟ لَوْلَا نُزِّلَ عَلَيْهِ ءَايَةٌۭ مِّن رَّبِّهِۦ ۚ قُلْ إِنَّ ٱللَّهَ قَادِرٌ عَلَىٰٓ أَن يُنَزِّلَ ءَايَةًۭ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 
@@ -3518,7 +3518,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا صُمٌّۭ وَبُكْمٌۭ فِى ٱلظُّلُمَٰتِ ۗ مَن يَشَإِ ٱللَّهُ يُضْلِلْهُ وَمَن يَشَأْ يَجْعَلْهُ عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
 
-**6:40** Sema, “Je, mmefikiria? adhabu ya Allah ingewajia, au ile Saa ingewafikia, je, mngemwita mwingine badala ya Allah, mkiwa wakweli?”
+**6:40** Sema, "Je, mmefikiria? adhabu ya Allah ingewajia, au ile Saa ingewafikia, je, mngemwita mwingine badala ya Allah, mkiwa wakweli?"
 
 قُلْ أَرَءَيْتَكُمْ إِنْ أَتَىٰكُمْ عَذَابُ ٱللَّهِ أَوْ أَتَتْكُمُ ٱلسَّاعَةُ أَغَيْرَ ٱللَّهِ تَدْعُونَ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -3542,11 +3542,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَقُطِعَ دَابِرُ ٱلْقَوْمِ ٱلَّذِينَ ظَلَمُوا۟ ۚ وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
-**6:46** Sema, “Je, mmefikiria? Allah angaliondoa usikivu wenu na kuona kwenu, na kuweka muhuri juu ya nyoyo zenu, ni mungu gani mwingine badala ya Allah anayeweza kuwarudishia?” Tazama jinsi Tunavyoeleza aya kwa njia mbalimbali, hata hivyo bado hugeuka mbali.
+**6:46** Sema, "Je, mmefikiria? Allah angaliondoa usikivu wenu na kuona kwenu, na kuweka muhuri juu ya nyoyo zenu, ni mungu gani mwingine badala ya Allah anayeweza kuwarudishia?" Tazama jinsi Tunavyoeleza aya kwa njia mbalimbali, hata hivyo bado hugeuka mbali.
 
 قُلْ أَرَءَيْتُمْ إِنْ أَخَذَ ٱللَّهُ سَمْعَكُمْ وَأَبْصَٰرَكُمْ وَخَتَمَ عَلَىٰ قُلُوبِكُم مَّنْ إِلَٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِهِ ۗ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْءَايَٰتِ ثُمَّ هُمْ يَصْدِفُونَ
 
-**6:47** Sema, “Je, mmefikiria? adhabu ya Allah ingewashukia ghafla au taratibu, je, kuna yeyote angeangamizwa isipokuwa watu waovu?”
+**6:47** Sema, "Je, mmefikiria? adhabu ya Allah ingewashukia ghafla au taratibu, je, kuna yeyote angeangamizwa isipokuwa watu waovu?"
 
 قُلْ أَرَءَيْتَكُمْ إِنْ أَتَىٰكُمْ عَذَابُ ٱللَّهِ بَغْتَةً أَوْ جَهْرَةً هَلْ يُهْلَكُ إِلَّا ٱلْقَوْمُ ٱلظَّٰلِمُونَ
 
@@ -3558,7 +3558,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا يَمَسُّهُمُ ٱلْعَذَابُ بِمَا كَانُوا۟ يَفْسُقُونَ
 
-**6:50** Sema, “Sisemi kwenu kwamba ninamiliki hazina za Allah, wala sijui mambo ya baadaye, wala sisemi kwenu kwamba mimi ni malaika. Nafuta tu yale ninayofunuliwa.” Sema, “Je, kipofu na anayeona ni sawa? Je, hamfikiri?”
+**6:50** Sema, "Sisemi kwenu kwamba ninamiliki hazina za Allah, wala sijui mambo ya baadaye, wala sisemi kwenu kwamba mimi ni malaika. Nafuta tu yale ninayofunuliwa." Sema, "Je, kipofu na anayeona ni sawa? Je, hamfikiri?"
 
 قُل لَّآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ وَلَآ أَقُولُ لَكُمْ إِنِّى مَلَكٌ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ ۚ أَفَلَا تَتَفَكَّرُونَ
 
@@ -3570,11 +3570,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَا تَطْرُدِ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ مَا عَلَيْكَ مِنْ حِسَابِهِم مِّن شَىْءٍۢ وَمَا مِنْ حِسَابِكَ عَلَيْهِم مِّن شَىْءٍۢ فَتَطْرُدَهُمْ فَتَكُونَ مِنَ ٱلظَّٰلِمِينَ
 
-**6:53** Hivyo Tunawajaribu baadhi yao kwa wengine, ili waseme, “Je, hawa ndio wale ambao Allah amewafadhili miongoni mwetu?” Je, Allah hajui wenye kushukuru?
+**6:53** Hivyo Tunawajaribu baadhi yao kwa wengine, ili waseme, "Je, hawa ndio wale ambao Allah amewafadhili miongoni mwetu?" Je, Allah hajui wenye kushukuru?
 
 وَكَذَٰلِكَ فَتَنَّا بَعْضَهُم بِبَعْضٍۢ لِّيَقُولُوٓا۟ أَهَٰٓؤُلَآءِ مَنَّ ٱللَّهُ عَلَيْهِم مِّنۢ بَيْنِنَآ ۗ أَلَيْسَ ٱللَّهُ بِأَعْلَمَ بِٱلشَّٰكِرِينَ
 
-**6:54** Wale wanaoamini katika aya Zetu wanapokujia, sema, “Amani iwe juu yenu, Mola wenu amejiandikia rehema. Yeyote miongoni mwenu anayefanya uovu kwa ujinga, na kisha akatubu baadaye na kujirekebisha — Yeye ni Mwenye kusamehe na Mwenye kurehemu.”
+**6:54** Wale wanaoamini katika aya Zetu wanapokujia, sema, "Amani iwe juu yenu, Mola wenu amejiandikia rehema. Yeyote miongoni mwenu anayefanya uovu kwa ujinga, na kisha akatubu baadaye na kujirekebisha — Yeye ni Mwenye kusamehe na Mwenye kurehemu."
 
 وَإِذَا جَآءَكَ ٱلَّذِينَ يُؤْمِنُونَ بِـَٔايَٰتِنَا فَقُلْ سَلَٰمٌ عَلَيْكُمْ ۖ كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۖ أَنَّهُۥ مَنْ عَمِلَ مِنكُمْ سُوٓءًۢا بِجَهَٰلَةٍۢ ثُمَّ تَابَ مِنۢ بَعْدِهِۦ وَأَصْلَحَ فَأَنَّهُۥ غَفُورٌۭ رَّحِيمٌۭ
 
@@ -3582,15 +3582,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَكَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ وَلِتَسْتَبِينَ سَبِيلُ ٱلْمُجْرِمِينَ
 
-**6:56** Sema, “Nimekatazwa kuwaabudu wale mnaowaomba badala ya Allah.” Sema, “Sitafuata matamanio yenu; vinginevyo ningepotea na nisingekuwa miongoni mwa walioongozwa.”
+**6:56** Sema, "Nimekatazwa kuwaabudu wale mnaowaomba badala ya Allah." Sema, "Sitafuata matamanio yenu; vinginevyo ningepotea na nisingekuwa miongoni mwa walioongozwa."
 
 قُلْ إِنِّى نُهِيتُ أَنْ أَعْبُدَ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ ۚ قُل لَّآ أَتَّبِعُ أَهْوَآءَكُمْ ۙ قَدْ ضَلَلْتُ إِذًۭا وَمَآ أَنَا۠ مِنَ ٱلْمُهْتَدِينَ
 
-**6:57** Sema, “Ninasimama juu ya ushahidi ulio wazi kutoka kwa Mola wangu, na mmemkataa Yeye. Sina yale mnayotaka niyaharakishe; uamuzi ni wa Allah pekee. Husema kweli, naye ndiye Bora wa Waamuzi.”
+**6:57** Sema, "Ninasimama juu ya ushahidi ulio wazi kutoka kwa Mola wangu, na mmemkataa Yeye. Sina yale mnayotaka niyaharakishe; uamuzi ni wa Allah pekee. Husema kweli, naye ndiye Bora wa Waamuzi."
 
 قُلْ إِنِّى عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَكَذَّبْتُم بِهِۦ ۚ مَا عِندِى مَا تَسْتَعْجِلُونَ بِهِۦٓ ۚ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۖ يَقُصُّ ٱلْحَقَّ ۖ وَهُوَ خَيْرُ ٱلْفَٰصِلِينَ
 
-**6:58** Sema, “Ningekuwa na yale mnayotaka niyaharakishe, jambo kati yenu na mimi lingetamatika. Allah anawajua vizuri waovu.”
+**6:58** Sema, "Ningekuwa na yale mnayotaka niyaharakishe, jambo kati yenu na mimi lingetamatika. Allah anawajua vizuri waovu."
 
 قُل لَّوْ أَنَّ عِندِى مَا تَسْتَعْجِلُونَ بِهِۦ لَقُضِىَ ٱلْأَمْرُ بَيْنِى وَبَيْنَكُمْ ۗ وَٱللَّهُ أَعْلَمُ بِٱلظَّٰلِمِينَ
 
@@ -3610,19 +3610,19 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ثُمَّ رُدُّوٓا۟ إِلَى ٱللَّهِ مَوْلَىٰهُمُ ٱلْحَقِّ ۚ أَلَا لَهُ ٱلْحُكْمُ وَهُوَ أَسْرَعُ ٱلْحَٰسِبِينَ
 
-**6:63** Sema, “Ni nani anayewakomboa kutoka katika giza la nchi kavu na bahari?” Mnamwita kwa unyenyekevu na kwa ndani: “Akituokoa kutoka katika hali hii, hakika tutakuwa miongoni mwa wenye kushukuru.”
+**6:63** Sema, "Ni nani anayewakomboa kutoka katika giza la nchi kavu na bahari?" Mnamwita kwa unyenyekevu na kwa ndani: "Akituokoa kutoka katika hali hii, hakika tutakuwa miongoni mwa wenye kushukuru."
 
 قُلْ مَن يُنَجِّيكُم مِّن ظُلُمَٰتِ ٱلْبَرِّ وَٱلْبَحْرِ تَدْعُونَهُۥ تَضَرُّعًۭا وَخُفْيَةًۭ لَّئِنْ أَنجَىٰنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
 
-**6:64** Sema, “Ni Allah anayewakomboa kutoka kwayo, na kutoka katika kila janga. Hata hivyo kisha mnashirikisha wengine Naye.”
+**6:64** Sema, "Ni Allah anayewakomboa kutoka kwayo, na kutoka katika kila janga. Hata hivyo kisha mnashirikisha wengine Naye."
 
 قُلِ ٱللَّهُ يُنَجِّيكُم مِّنْهَا وَمِن كُلِّ كَرْبٍۢ ثُمَّ أَنتُمْ تُشْرِكُونَ
 
-**6:65** Sema, “Ana uwezo wa kuwatumia adhabu, kutoka juu yenu, au kutoka chini ya miguu yenu. Au anaweza kuwagawa katika makundi, na kuwafanya muonjane ukali wa wengine. Tazama jinsi Tunavyoeleza aya, ili waelewe.”
+**6:65** Sema, "Ana uwezo wa kuwatumia adhabu, kutoka juu yenu, au kutoka chini ya miguu yenu. Au anaweza kuwagawa katika makundi, na kuwafanya muonjane ukali wa wengine. Tazama jinsi Tunavyoeleza aya, ili waelewe."
 
 قُلْ هُوَ ٱلْقَادِرُ عَلَىٰٓ أَن يَبْعَثَ عَلَيْكُمْ عَذَابًۭا مِّن فَوْقِكُمْ أَوْ مِن تَحْتِ أَرْجُلِكُمْ أَوْ يَلْبِسَكُمْ شِيَعًۭا وَيُذِيقَ بَعْضَكُم بَأْسَ بَعْضٍ ۗ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْءَايَٰتِ لَعَلَّهُمْ يَفْقَهُونَ
 
-**6:66** Lakini watu wako waliikataa, ingawa ni kweli. Sema, “Mimi si msimamizi wenu.”
+**6:66** Lakini watu wako waliikataa, ingawa ni kweli. Sema, "Mimi si msimamizi wenu."
 
 وَكَذَّبَ بِهِۦ قَوْمُكَ وَهُوَ ٱلْحَقُّ ۚ قُل لَّسْتُ عَلَيْكُم بِوَكِيلٍۢ
 
@@ -3642,19 +3642,19 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَذَرِ ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَهُمْ لَعِبًۭا وَلَهْوًۭا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ وَذَكِّرْ بِهِۦٓ أَن تُبْسَلَ نَفْسٌۢ بِمَا كَسَبَتْ لَيْسَ لَهَا مِن دُونِ ٱللَّهِ وَلِىٌّۭ وَلَا شَفِيعٌۭ وَإِن تَعْدِلْ كُلَّ عَدْلٍۢ لَّا يُؤْخَذْ مِنْهَآ ۗ أُو۟لَٰٓئِكَ ٱلَّذِينَ أُبْسِلُوا۟ بِمَا كَسَبُوا۟ ۖ لَهُمْ شَرَابٌۭ مِّنْ حَمِيمٍۢ وَعَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْفُرُونَ
 
-**6:71** Sema, “Je, tuwaombe badala ya Allah kitu kisichoweza kutunufaisha wala kutudhuru, na turudi nyuma baada ya Allah kutuongoza; kama mtu aliyepotoshwa na mashetani na kuchanganyikiwa ardhini, ambaye ana marafiki wanaomwita kwenye uongozi: ‘Njoo kwetu’?” Sema, “Uongozi wa Allah ndio uongozi, na tumeamrishwa kujisalimisha kwa Mola wa walimwengu.”
+**6:71** Sema, "Je, tuwaombe badala ya Allah kitu kisichoweza kutunufaisha wala kutudhuru, na turudi nyuma baada ya Allah kutuongoza; kama mtu aliyepotoshwa na mashetani na kuchanganyikiwa ardhini, ambaye ana marafiki wanaomwita kwenye uongozi: 'Njoo kwetu'?" Sema, "Uongozi wa Allah ndio uongozi, na tumeamrishwa kujisalimisha kwa Mola wa walimwengu."
 
 قُلْ أَنَدْعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا وَنُرَدُّ عَلَىٰٓ أَعْقَابِنَا بَعْدَ إِذْ هَدَىٰنَا ٱللَّهُ كَٱلَّذِى ٱسْتَهْوَتْهُ ٱلشَّيَٰطِينُ فِى ٱلْأَرْضِ حَيْرَانَ لَهُۥٓ أَصْحَٰبٌۭ يَدْعُونَهُۥٓ إِلَى ٱلْهُدَى ٱئْتِنَا ۗ قُلْ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلْهُدَىٰ ۖ وَأُمِرْنَا لِنُسْلِمَ لِرَبِّ ٱلْعَٰلَمِينَ
 
-**6:72** “Na kufanya sala, na kumcha Yeye; ni Kwake mtakusanywa.”
+**6:72** "Na kufanya sala, na kumcha Yeye; ni Kwake mtakusanywa."
 
 وَأَنْ أَقِيمُوا۟ ٱلصَّلَوٰةَ وَٱتَّقُوهُ ۚ وَهُوَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ
 
-**6:73** Yeye ndiye aliyeumba mbingu na ardhi kwa kweli. Siku ambayo husema: “Kuwa,” itakuwa. Kauli Yake ni kweli, na ufalme ni Wake Siku ambayo baragumu litapulizwa. Mjuzi wa yaliyofichika na yanayoonekana. Yeye ni Mwenye hekima, Mwenye habari.
+**6:73** Yeye ndiye aliyeumba mbingu na ardhi kwa kweli. Siku ambayo husema: "Kuwa," itakuwa. Kauli Yake ni kweli, na ufalme ni Wake Siku ambayo baragumu litapulizwa. Mjuzi wa yaliyofichika na yanayoonekana. Yeye ni Mwenye hekima, Mwenye habari.
 
 وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۖ وَيَوْمَ يَقُولُ كُن فَيَكُونُ ۚ قَوْلُهُ ٱلْحَقُّ ۚ وَلَهُ ٱلْمُلْكُ يَوْمَ يُنفَخُ فِى ٱلصُّورِ ۚ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ
 
-**6:74** Ibrahimu alimwambia baba yake Azar, “Je, unachukua masanamu kuwa miungu? Naona wewe na watu wako mko katika upotevu ulio wazi.”
+**6:74** Ibrahimu alimwambia baba yake Azar, "Je, unachukua masanamu kuwa miungu? Naona wewe na watu wako mko katika upotevu ulio wazi."
 
 ۞ وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصْنَامًا ءَالِهَةً ۖ إِنِّىٓ أَرَىٰكَ وَقَوْمَكَ فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
@@ -3662,15 +3662,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ
 
-**6:76** Usiku ulipomfunika, akaona sayari. Akasema, “Huyu ndiye mola wangu.” Lakini ilipozama, akasema, “Siwapendi wanaozama.”
+**6:76** Usiku ulipomfunika, akaona sayari. Akasema, "Huyu ndiye mola wangu." Lakini ilipozama, akasema, "Siwapendi wanaozama."
 
 فَلَمَّا جَنَّ عَلَيْهِ ٱلَّيْلُ رَءَا كَوْكَبًۭا ۖ قَالَ هَٰذَا رَبِّى ۖ فَلَمَّآ أَفَلَ قَالَ لَآ أُحِبُّ ٱلْءَافِلِينَ
 
-**6:77** Basi, alipoona mwezi ukichomoza, akasema, “Huyu ndiye mola wangu.” Lakini ulipozama, akasema, “Mola wangu asiponiongoza, nitakuwa miongoni mwa watu waliopotea.”
+**6:77** Basi, alipoona mwezi ukichomoza, akasema, "Huyu ndiye mola wangu." Lakini ulipozama, akasema, "Mola wangu asiponiongoza, nitakuwa miongoni mwa watu waliopotea."
 
 فَلَمَّا رَءَا ٱلْقَمَرَ بَازِغًۭا قَالَ هَٰذَا رَبِّى ۖ فَلَمَّآ أَفَلَ قَالَ لَئِن لَّمْ يَهْدِنِى رَبِّى لَأَكُونَنَّ مِنَ ٱلْقَوْمِ ٱلضَّآلِّينَ
 
-**6:78** Basi, alipoona jua likichomoza, akasema, “Huyu ndiye mola wangu, huyu ni mkubwa zaidi.” Lakini lilipozama, akasema, “Enyi watu wangu, mimi siko pamoja na ushirikina wenu.”
+**6:78** Basi, alipoona jua likichomoza, akasema, "Huyu ndiye mola wangu, huyu ni mkubwa zaidi." Lakini lilipozama, akasema, "Enyi watu wangu, mimi siko pamoja na ushirikina wenu."
 
 فَلَمَّا رَءَا ٱلشَّمْسَ بَازِغَةًۭ قَالَ هَٰذَا رَبِّى هَٰذَآ أَكْبَرُ ۖ فَلَمَّآ أَفَلَتْ قَالَ يَٰقَوْمِ إِنِّى بَرِىٓءٌۭ مِّمَّا تُشْرِكُونَ
 
@@ -3678,11 +3678,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ حَنِيفًۭا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ
 
-**6:80** Na watu wake wakabishana naye. Akasema, “Je, mnabishana nami kuhusu Allah, hali ameniongoza? Siogopi mnayoyashirikisha Naye, isipokuwa Mola wangu akitaka. Mola wangu amekumbatia kila kitu kwa ujuzi. Je, hamtafikiria?
+**6:80** Na watu wake wakabishana naye. Akasema, "Je, mnabishana nami kuhusu Allah, hali ameniongoza? Siogopi mnayoyashirikisha Naye, isipokuwa Mola wangu akitaka. Mola wangu amekumbatia kila kitu kwa ujuzi. Je, hamtafikiria?
 
 وَحَآجَّهُۥ قَوْمُهُۥ ۚ قَالَ أَتُحَٰٓجُّوٓنِّى فِى ٱللَّهِ وَقَدْ هَدَىٰنِ ۚ وَلَآ أَخَافُ مَا تُشْرِكُونَ بِهِۦٓ إِلَّآ أَن يَشَآءَ رَبِّى شَيْـًۭٔا ۗ وَسِعَ رَبِّى كُلَّ شَىْءٍ عِلْمًا ۗ أَفَلَا تَتَذَكَّرُونَ
 
-**6:81** Na kwa nini niogope mnayoyashirikisha Naye, na hamwogopi kushirikisha wengine na Allah ambayo hakuwateremshia mamlaka yoyote? Ni upande gani wenye haki zaidi ya usalama, mkiwa mnajua?”
+**6:81** Na kwa nini niogope mnayoyashirikisha Naye, na hamwogopi kushirikisha wengine na Allah ambayo hakuwateremshia mamlaka yoyote? Ni upande gani wenye haki zaidi ya usalama, mkiwa mnajua?"
 
 وَكَيْفَ أَخَافُ مَآ أَشْرَكْتُمْ وَلَا تَخَافُونَ أَنَّكُمْ أَشْرَكْتُم بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ عَلَيْكُمْ سُلْطَٰنًۭا ۚ فَأَىُّ ٱلْفَرِيقَيْنِ أَحَقُّ بِٱلْأَمْنِ ۖ إِن كُنتُمْ تَعْلَمُونَ
 
@@ -3718,11 +3718,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ۚ فَإِن يَكْفُرْ بِهَا هَٰٓؤُلَآءِ فَقَدْ وَكَّلْنَا بِهَا قَوْمًۭا لَّيْسُوا۟ بِهَا بِكَٰفِرِينَ
 
-**6:90** Hao ndio wale ambao Allah amewaongoza, basi fuata uongozi wao. Sema, “Siwaombi malipo yoyote kwa ajili yake; ni ukumbusho tu kwa wanadamu wote.”
+**6:90** Hao ndio wale ambao Allah amewaongoza, basi fuata uongozi wao. Sema, "Siwaombi malipo yoyote kwa ajili yake; ni ukumbusho tu kwa wanadamu wote."
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ هَدَى ٱللَّهُ ۖ فَبِهُدَىٰهُمُ ٱقْتَدِهْ ۗ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا ۖ إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَٰلَمِينَ
 
-**6:91** Hawamthamini Allah kama anavyopaswa kuthaminiwa, wanaposema, “Allah hakufunua chochote kwa mwanadamu yeyote.” Sema, “Ni nani aliyefunua Kitabu ambacho Musa alikileta — nuru na uongozi kwa wanadamu?” Mnakiweka katika mafungu ya karatasi, mkiyonyesha, huku mkificha mengi. Na mlifundishwa yale ambayo hamkuyajua — si ninyi, wala baba zenu. Sema, “Allah;” kisha waache wakicheza katika makisio yao.
+**6:91** Hawamthamini Allah kama anavyopaswa kuthaminiwa, wanaposema, "Allah hakufunua chochote kwa mwanadamu yeyote." Sema, "Ni nani aliyefunua Kitabu ambacho Musa alikileta — nuru na uongozi kwa wanadamu?" Mnakiweka katika mafungu ya karatasi, mkiyonyesha, huku mkificha mengi. Na mlifundishwa yale ambayo hamkuyajua — si ninyi, wala baba zenu. Sema, "Allah;" kisha waache wakicheza katika makisio yao.
 
 وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِذْ قَالُوا۟ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرٍۢ مِّن شَىْءٍۢ ۗ قُلْ مَنْ أَنزَلَ ٱلْكِتَٰبَ ٱلَّذِى جَآءَ بِهِۦ مُوسَىٰ نُورًۭا وَهُدًۭى لِّلنَّاسِ ۖ تَجْعَلُونَهُۥ قَرَاطِيسَ تُبْدُونَهَا وَتُخْفُونَ كَثِيرًۭا ۖ وَعُلِّمْتُم مَّا لَمْ تَعْلَمُوٓا۟ أَنتُمْ وَلَآ ءَابَآؤُكُمْ ۖ قُلِ ٱللَّهُ ۖ ثُمَّ ذَرْهُمْ فِى خَوْضِهِمْ يَلْعَبُونَ
 
@@ -3730,11 +3730,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَهَٰذَا كِتَٰبٌ أَنزَلْنَٰهُ مُبَارَكٌۭ مُّصَدِّقُ ٱلَّذِى بَيْنَ يَدَيْهِ وَلِتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا ۚ وَٱلَّذِينَ يُؤْمِنُونَ بِٱلْءَاخِرَةِ يُؤْمِنُونَ بِهِۦ ۖ وَهُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ
 
-**6:93** Ni nani anayefanya uovu mkubwa zaidi kuliko yule anayezua uongo dhidi ya Allah, au anasema, “Nimefunuliwa,” wakati hakufunuliwa chochote, au anasema, “Nitafunua kama yale ambayo Allah ameyafunua”? Laiti ungewaona waovu katika mafuriko ya kifo, malaika wakiwa wamenyosha mikono: “Toeni nafsi zenu. Leo mnalipwa mateso ya fedheha kwa kusema kuhusu Allah yasiyo kweli, na kwa kuwa na kiburi kukataa aya Zake.”
+**6:93** Ni nani anayefanya uovu mkubwa zaidi kuliko yule anayezua uongo dhidi ya Allah, au anasema, "Nimefunuliwa," wakati hakufunuliwa chochote, au anasema, "Nitafunua kama yale ambayo Allah ameyafunua"? Laiti ungewaona waovu katika mafuriko ya kifo, malaika wakiwa wamenyosha mikono: "Toeni nafsi zenu. Leo mnalipwa mateso ya fedheha kwa kusema kuhusu Allah yasiyo kweli, na kwa kuwa na kiburi kukataa aya Zake."
 
 وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ يُوحَ إِلَيْهِ شَىْءٌۭ وَمَن قَالَ سَأُنزِلُ مِثْلَ مَآ أَنزَلَ ٱللَّهُ ۗ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ فِى غَمَرَٰتِ ٱلْمَوْتِ وَٱلْمَلَٰٓئِكَةُ بَاسِطُوٓا۟ أَيْدِيهِمْ أَخْرِجُوٓا۟ أَنفُسَكُمُ ۖ ٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَقُولُونَ عَلَى ٱللَّهِ غَيْرَ ٱلْحَقِّ وَكُنتُمْ عَنْ ءَايَٰتِهِۦ تَسْتَكْبِرُونَ
 
-**6:94** “Mmeujia kwetu mmoja mmoja, kama Tulivyo waumba mara ya kwanza, mkiacha nyuma yenu kila kitu Tulichowapa. Hatuoni pamoja nanyi waombezi wenu — wale mliodai kuwa washirika wenu. Kiungo kati yenu kimekatwa, na yale mliyodai yamewapotea.”
+**6:94** "Mmeujia kwetu mmoja mmoja, kama Tulivyo waumba mara ya kwanza, mkiacha nyuma yenu kila kitu Tulichowapa. Hatuoni pamoja nanyi waombezi wenu — wale mliodai kuwa washirika wenu. Kiungo kati yenu kimekatwa, na yale mliyodai yamewapotea."
 
 وَلَقَدْ جِئْتُمُونَا فُرَٰدَىٰ كَمَا خَلَقْنَٰكُمْ أَوَّلَ مَرَّةٍۢ وَتَرَكْتُم مَّا خَوَّلْنَٰكُمْ وَرَآءَ ظُهُورِكُمْ ۖ وَمَا نَرَىٰ مَعَكُمْ شُفَعَآءَكُمُ ٱلَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ شُرَكَٰٓؤُا۟ ۚ لَقَد تَّقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنكُم مَّا كُنتُمْ تَزْعُمُونَ
 
@@ -3774,11 +3774,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 لَّا تُدْرِكُهُ ٱلْأَبْصَٰرُ وَهُوَ يُدْرِكُ ٱلْأَبْصَٰرَ ۖ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ
 
-**6:104** “Ufahamu umewajia kutoka kwa Mola wenu. Yeyote anayeona, ni kwa faida ya nafsi yake; na yeyote anayebaki kipofu, ni kwa hasara yake. Mimi si mlinzi juu yenu.”
+**6:104** "Ufahamu umewajia kutoka kwa Mola wenu. Yeyote anayeona, ni kwa faida ya nafsi yake; na yeyote anayebaki kipofu, ni kwa hasara yake. Mimi si mlinzi juu yenu."
 
 قَدْ جَآءَكُم بَصَآئِرُ مِن رَّبِّكُمْ ۖ فَمَنْ أَبْصَرَ فَلِنَفْسِهِۦ ۖ وَمَنْ عَمِىَ فَعَلَيْهَا ۚ وَمَآ أَنَا۠ عَلَيْكُم بِحَفِيظٍۢ
 
-**6:105** Hivyo Tunatofautisha aya, wasije wakasema, “Umejifunza,” na kuzibainisha kwa watu wanaojua.
+**6:105** Hivyo Tunatofautisha aya, wasije wakasema, "Umejifunza," na kuzibainisha kwa watu wanaojua.
 
 وَكَذَٰلِكَ نُصَرِّفُ ٱلْءَايَٰتِ وَلِيَقُولُوا۟ دَرَسْتَ وَلِنُبَيِّنَهُۥ لِقَوْمٍۢ يَعْلَمُونَ
 
@@ -3794,7 +3794,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَا تَسُبُّوا۟ ٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ فَيَسُبُّوا۟ ٱللَّهَ عَدْوًۢا بِغَيْرِ عِلْمٍۢ ۗ كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ ثُمَّ إِلَىٰ رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**6:109** Wanaapa kwa Allah, kwa viapo vyao vizito zaidi, kwamba ishara ingekuja kwao, wangeamini kwayo. Sema, “Ishara ziko kwa Allah tu.” Lakini mnajuaje? Hata ingekuja, bado hawataamini.
+**6:109** Wanaapa kwa Allah, kwa viapo vyao vizito zaidi, kwamba ishara ingekuja kwao, wangeamini kwayo. Sema, "Ishara ziko kwa Allah tu." Lakini mnajuaje? Hata ingekuja, bado hawataamini.
 
 وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ لَئِن جَآءَتْهُمْ ءَايَةٌۭ لَّيُؤْمِنُنَّ بِهَا ۚ قُلْ إِنَّمَا ٱلْءَايَٰتُ عِندَ ٱللَّهِ ۖ وَمَا يُشْعِرُكُمْ أَنَّهَآ إِذَا جَآءَتْ لَا يُؤْمِنُونَ
 
@@ -3814,7 +3814,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلِتَصْغَىٰٓ إِلَيْهِ أَفْـِٔدَةُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ وَلِيَرْضَوْهُ وَلِيَقْتَرِفُوا۟ مَا هُم مُّقْتَرِفُونَ
 
-**6:114** “Je, nitafute mwamuzi mwingine badala ya Allah, wakati Yeye ndiye aliyewateremshia Kitabu, kilichofafanuliwa kwa kina?” Wale tuliowapa Kitabu wanajua kwamba ni kweli iliyofunuliwa kutoka kwa Mola wako. Basi usiwe miongoni mwa wenye shaka.
+**6:114** "Je, nitafute mwamuzi mwingine badala ya Allah, wakati Yeye ndiye aliyewateremshia Kitabu, kilichofafanuliwa kwa kina?" Wale tuliowapa Kitabu wanajua kwamba ni kweli iliyofunuliwa kutoka kwa Mola wako. Basi usiwe miongoni mwa wenye shaka.
 
 أَفَغَيْرَ ٱللَّهِ أَبْتَغِى حَكَمًۭا وَهُوَ ٱلَّذِىٓ أَنزَلَ إِلَيْكُمُ ٱلْكِتَٰبَ مُفَصَّلًۭا ۚ وَٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ يَعْلَمُونَ أَنَّهُۥ مُنَزَّلٌۭ مِّن رَّبِّكَ بِٱلْحَقِّ ۖ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ
 
@@ -3854,7 +3854,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَكَذَٰلِكَ جَعَلْنَا فِى كُلِّ قَرْيَةٍ أَكَٰبِرَ مُجْرِمِيهَا لِيَمْكُرُوا۟ فِيهَا ۖ وَمَا يَمْكُرُونَ إِلَّا بِأَنفُسِهِمْ وَمَا يَشْعُرُونَ
 
-**6:124** Ishara inapowajia, husema, “Hatutaamini hadi tupewe kama yale waliyopewa wajumbe wa Allah.” Allah anajua vizuri zaidi wapi pa kuweka ujumbe Wake. Fedheha kutoka kwa Allah na mateso makali yatawafikia wahalifu kwa hila zao.
+**6:124** Ishara inapowajia, husema, "Hatutaamini hadi tupewe kama yale waliyopewa wajumbe wa Allah." Allah anajua vizuri zaidi wapi pa kuweka ujumbe Wake. Fedheha kutoka kwa Allah na mateso makali yatawafikia wahalifu kwa hila zao.
 
 وَإِذَا جَآءَتْهُمْ ءَايَةٌۭ قَالُوا۟ لَن نُّؤْمِنَ حَتَّىٰ نُؤْتَىٰ مِثْلَ مَآ أُوتِىَ رُسُلُ ٱللَّهِ ۘ ٱللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُۥ ۗ سَيُصِيبُ ٱلَّذِينَ أَجْرَمُوا۟ صَغَارٌ عِندَ ٱللَّهِ وَعَذَابٌۭ شَدِيدٌۢ بِمَا كَانُوا۟ يَمْكُرُونَ
 
@@ -3870,7 +3870,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ۞ لَهُمْ دَارُ ٱلسَّلَٰمِ عِندَ رَبِّهِمْ ۖ وَهُوَ وَلِيُّهُم بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**6:128** Siku ambayo atawakusanya wote pamoja: “Enyi jamii ya majini, mmewafanya wanadamu wengi kuwa wafuasi wenu.” Wafuasi wao miongoni mwa wanadamu watasema, “Mola wetu, tumefaidika sisi kwa sisi, lakini tumefikia muda uliotuwekea.” Atasema, “Moto ndio makazi yenu, ambamo mtakaa, isipokuwa Allah akitaka. Mola wako ni Mwenye hekima na Mwenye habari.”
+**6:128** Siku ambayo atawakusanya wote pamoja: "Enyi jamii ya majini, mmewafanya wanadamu wengi kuwa wafuasi wenu." Wafuasi wao miongoni mwa wanadamu watasema, "Mola wetu, tumefaidika sisi kwa sisi, lakini tumefikia muda uliotuwekea." Atasema, "Moto ndio makazi yenu, ambamo mtakaa, isipokuwa Allah akitaka. Mola wako ni Mwenye hekima na Mwenye habari."
 
 وَيَوْمَ يَحْشُرُهُمْ جَمِيعًۭا يَٰمَعْشَرَ ٱلْجِنِّ قَدِ ٱسْتَكْثَرْتُم مِّنَ ٱلْإِنسِ ۖ وَقَالَ أَوْلِيَآؤُهُم مِّنَ ٱلْإِنسِ رَبَّنَا ٱسْتَمْتَعَ بَعْضُنَا بِبَعْضٍۢ وَبَلَغْنَآ أَجَلَنَا ٱلَّذِىٓ أَجَّلْتَ لَنَا ۚ قَالَ ٱلنَّارُ مَثْوَىٰكُمْ خَٰلِدِينَ فِيهَآ إِلَّا مَا شَآءَ ٱللَّهُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌۭ
 
@@ -3878,7 +3878,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَكَذَٰلِكَ نُوَلِّى بَعْضَ ٱلظَّٰلِمِينَ بَعْضًۢا بِمَا كَانُوا۟ يَكْسِبُونَ
 
-**6:130** “Enyi jamii ya majini na wanadamu, je, hawakuwajia wajumbe kutoka miongoni mwenu, wakiwasimulia aya Zangu, na kuwaonya kuhusu kukutana na Siku hii yenu?” Watasema, “Tunashuhudia dhidi ya nafsi zetu.” Maisha ya dunia yaliwadanganya. Watashuhudia dhidi ya nafsi zao kwamba walikuwa makafiri.
+**6:130** "Enyi jamii ya majini na wanadamu, je, hawakuwajia wajumbe kutoka miongoni mwenu, wakiwasimulia aya Zangu, na kuwaonya kuhusu kukutana na Siku hii yenu?" Watasema, "Tunashuhudia dhidi ya nafsi zetu." Maisha ya dunia yaliwadanganya. Watashuhudia dhidi ya nafsi zao kwamba walikuwa makafiri.
 
 يَٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌۭ مِّنكُمْ يَقُصُّونَ عَلَيْكُمْ ءَايَٰتِى وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا ۚ قَالُوا۟ شَهِدْنَا عَلَىٰٓ أَنفُسِنَا ۖ وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَشَهِدُوا۟ عَلَىٰٓ أَنفُسِهِمْ أَنَّهُمْ كَانُوا۟ كَٰفِرِينَ
 
@@ -3898,11 +3898,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنَّ مَا تُوعَدُونَ لَءَاتٍۢ ۖ وَمَآ أَنتُم بِمُعْجِزِينَ
 
-**6:135** Sema, “Enyi watu wangu! Fanyeni kulingana na uwezo wenu, nami pia nitafanya. Mtakuja kujua ni nani atakayekuwa na mwisho wa makazi.” Waovu hawatafanikiwa.
+**6:135** Sema, "Enyi watu wangu! Fanyeni kulingana na uwezo wenu, nami pia nitafanya. Mtakuja kujua ni nani atakayekuwa na mwisho wa makazi." Waovu hawatafanikiwa.
 
 قُلْ يَٰقَوْمِ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنِّى عَامِلٌۭ ۖ فَسَوْفَ تَعْلَمُونَ مَن تَكُونُ لَهُۥ عَٰقِبَةُ ٱلدَّارِ ۗ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
 
-**6:136** Na wanamwekea Allah sehemu ya mazao na mifugo aliyoiumba, na husema, “Hii ni ya Allah,” kulingana na dai lao, “na hii ni ya masanamu yetu.” Lakini sehemu ya masanamu yao haimfikii Allah, lakini sehemu ya Allah inawafikia masanamu yao. Uovu ni hukumu yao.
+**6:136** Na wanamwekea Allah sehemu ya mazao na mifugo aliyoiumba, na husema, "Hii ni ya Allah," kulingana na dai lao, "na hii ni ya masanamu yetu." Lakini sehemu ya masanamu yao haimfikii Allah, lakini sehemu ya Allah inawafikia masanamu yao. Uovu ni hukumu yao.
 
 وَجَعَلُوا۟ لِلَّهِ مِمَّا ذَرَأَ مِنَ ٱلْحَرْثِ وَٱلْأَنْعَٰمِ نَصِيبًۭا فَقَالُوا۟ هَٰذَا لِلَّهِ بِزَعْمِهِمْ وَهَٰذَا لِشُرَكَآئِنَا ۖ فَمَا كَانَ لِشُرَكَآئِهِمْ فَلَا يَصِلُ إِلَى ٱللَّهِ ۖ وَمَا كَانَ لِلَّهِ فَهُوَ يَصِلُ إِلَىٰ شُرَكَآئِهِمْ ۗ سَآءَ مَا يَحْكُمُونَ
 
@@ -3910,11 +3910,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍۢ مِّنَ ٱلْمُشْرِكِينَ قَتْلَ أَوْلَٰدِهِمْ شُرَكَآؤُهُمْ لِيُرْدُوهُمْ وَلِيَلْبِسُوا۟ عَلَيْهِمْ دِينَهُمْ ۖ وَلَوْ شَآءَ ٱللَّهُ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ
 
-**6:138** Na husema, “Wanyama hawa na mazao haya yamezuiliwa; hakuna anayeweza kula isipokuwa wale tunaowaruhusu,” kwa madai yao, na wanyama ambao migongo yao imeharamishwa, na wanyama ambao juu yao hawataji jina la Allah — wakizua uongo dhidi Yake. Atawalipa kwa yale waliyokuwa wakiyazua.
+**6:138** Na husema, "Wanyama hawa na mazao haya yamezuiliwa; hakuna anayeweza kula isipokuwa wale tunaowaruhusu," kwa madai yao, na wanyama ambao migongo yao imeharamishwa, na wanyama ambao juu yao hawataji jina la Allah — wakizua uongo dhidi Yake. Atawalipa kwa yale waliyokuwa wakiyazua.
 
 وَقَالُوا۟ هَٰذِهِۦٓ أَنْعَٰمٌۭ وَحَرْثٌ حِجْرٌۭ لَّا يَطْعَمُهَآ إِلَّا مَن نَّشَآءُ بِزَعْمِهِمْ وَأَنْعَٰمٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَٰمٌۭ لَّا يَذْكُرُونَ ٱسْمَ ٱللَّهِ عَلَيْهَا ٱفْتِرَآءً عَلَيْهِ ۚ سَيَجْزِيهِم بِمَا كَانُوا۟ يَفْتَرُونَ
 
-**6:139** Na husema, “Kilichomo matumboni mwa wanyama hawa ni kwa wanaume wetu pekee, na kimeharamishwa kwa wake zetu.” Lakini kikiwa kimekufa tumboni, wanaweza kushiriki humo. Hakika atawaadhibu kwa madai yao. Yeye ni Mwenye hekima na Mwenye kujua.
+**6:139** Na husema, "Kilichomo matumboni mwa wanyama hawa ni kwa wanaume wetu pekee, na kimeharamishwa kwa wake zetu." Lakini kikiwa kimekufa tumboni, wanaweza kushiriki humo. Hakika atawaadhibu kwa madai yao. Yeye ni Mwenye hekima na Mwenye kujua.
 
 وَقَالُوا۟ مَا فِى بُطُونِ هَٰذِهِ ٱلْأَنْعَٰمِ خَالِصَةٌۭ لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰٓ أَزْوَٰجِنَا ۖ وَإِن يَكُن مَّيْتَةًۭ فَهُمْ فِيهِ شُرَكَآءُ ۚ سَيَجْزِيهِمْ وَصْفَهُمْ ۚ إِنَّهُۥ حَكِيمٌ عَلِيمٌۭ
 
@@ -3930,15 +3930,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمِنَ ٱلْأَنْعَٰمِ حَمُولَةًۭ وَفَرْشًۭا ۚ كُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّۭ مُّبِينٌۭ
 
-**6:143** Jozi nane: wawili wa kondoo, na wawili wa mbuzi. Sema, “Je, ameharamisha wanaume wawili, au wanawake wawili, au kilichomo matumboni mwa wanawake wawili? Nijulisheni kwa ujuzi, mkiwa wakweli.”
+**6:143** Jozi nane: wawili wa kondoo, na wawili wa mbuzi. Sema, "Je, ameharamisha wanaume wawili, au wanawake wawili, au kilichomo matumboni mwa wanawake wawili? Nijulisheni kwa ujuzi, mkiwa wakweli."
 
 ثَمَٰنِيَةَ أَزْوَٰجٍۢ ۖ مِّنَ ٱلضَّأْنِ ٱثْنَيْنِ وَمِنَ ٱلْمَعْزِ ٱثْنَيْنِ ۗ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ ۖ نَبِّـُٔونِى بِعِلْمٍ إِن كُنتُمْ صَٰدِقِينَ
 
-**6:144** Na wawili wa ngamia, na wawili wa ng'ombe. Sema, “Je, ameharamisha wanaume wawili, au wanawake wawili, au kilichomo matumboni mwa wanawake wawili? Je, mlikuwepo Allah alipowaamuru haya?” Ni nani anayefanya uovu mkubwa zaidi kuliko yule anayezua uongo na kuuhusisha na Allah, ili kuwapoteza watu bila ujuzi? Allah hawaongozi watu waovu.
+**6:144** Na wawili wa ngamia, na wawili wa ng'ombe. Sema, "Je, ameharamisha wanaume wawili, au wanawake wawili, au kilichomo matumboni mwa wanawake wawili? Je, mlikuwepo Allah alipowaamuru haya?" Ni nani anayefanya uovu mkubwa zaidi kuliko yule anayezua uongo na kuuhusisha na Allah, ili kuwapoteza watu bila ujuzi? Allah hawaongozi watu waovu.
 
 وَمِنَ ٱلْإِبِلِ ٱثْنَيْنِ وَمِنَ ٱلْبَقَرِ ٱثْنَيْنِ ۗ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ ۖ أَمْ كُنتُمْ شُهَدَآءَ إِذْ وَصَّىٰكُمُ ٱللَّهُ بِهَٰذَا ۚ فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا لِّيُضِلَّ ٱلنَّاسَ بِغَيْرِ عِلْمٍ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**6:145** Sema, “Katika yale niliyofunuliwa, sipati chochote kilichoharamishwa kwa mlaji anayekula, isipokuwa mzoga, au damu iliyomwagika, au nyama ya nguruwe — kwa sababu ni najisi — au dhabihu ya uovu iliyotolewa kwa asiye Allah. Lakini mtu akilazimishwa na ulazima, bila kukusudia uasi wala kupita kiasi — Mola wako ni Mwenye kusamehe na Mwenye kurehemu.”
+**6:145** Sema, "Katika yale niliyofunuliwa, sipati chochote kilichoharamishwa kwa mlaji anayekula, isipokuwa mzoga, au damu iliyomwagika, au nyama ya nguruwe — kwa sababu ni najisi — au dhabihu ya uovu iliyotolewa kwa asiye Allah. Lakini mtu akilazimishwa na ulazima, bila kukusudia uasi wala kupita kiasi — Mola wako ni Mwenye kusamehe na Mwenye kurehemu."
 
 قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍۢ يَطْعَمُهُۥٓ إِلَّآ أَن يَكُونَ مَيْتَةً أَوْ دَمًۭا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍۢ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ ۚ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَإِنَّ رَبَّكَ غَفُورٌۭ رَّحِيمٌۭ
 
@@ -3946,23 +3946,23 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍۢ ۖ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ بِعَظْمٍۢ ۚ ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ ۖ وَإِنَّا لَصَٰدِقُونَ
 
-**6:147** Wakikushtaki kwa uongo, sema, “Mola wako ni Mwenye rehema kubwa isiyo na kikomo, lakini ghadhabu Yake haiwezi kuzuilika kutoka kwa watu wenye hatia.”
+**6:147** Wakikushtaki kwa uongo, sema, "Mola wako ni Mwenye rehema kubwa isiyo na kikomo, lakini ghadhabu Yake haiwezi kuzuilika kutoka kwa watu wenye hatia."
 
 فَإِن كَذَّبُوكَ فَقُل رَّبُّكُمْ ذُو رَحْمَةٍۢ وَٰسِعَةٍۢ وَلَا يُرَدُّ بَأْسُهُۥ عَنِ ٱلْقَوْمِ ٱلْمُجْرِمِينَ
 
-**6:148** Washirikina watasema, “Allah angetaka, tusingefanya ushirikina, wala baba zetu, wala tusingeharamisha chochote.” Vivyo hivyo wale waliokuwa kabla yao walisema uongo, hadi walipoonja nguvu Yetu. Sema, “Je, mna ujuzi wowote mnayeweza kutuletea? Hamfuati chochote isipokuwa dhana, na mnabahatisha tu.”
+**6:148** Washirikina watasema, "Allah angetaka, tusingefanya ushirikina, wala baba zetu, wala tusingeharamisha chochote." Vivyo hivyo wale waliokuwa kabla yao walisema uongo, hadi walipoonja nguvu Yetu. Sema, "Je, mna ujuzi wowote mnayeweza kutuletea? Hamfuati chochote isipokuwa dhana, na mnabahatisha tu."
 
 سَيَقُولُ ٱلَّذِينَ أَشْرَكُوا۟ لَوْ شَآءَ ٱللَّهُ مَآ أَشْرَكْنَا وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن شَىْءٍۢ ۚ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ حَتَّىٰ ذَاقُوا۟ بَأْسَنَا ۗ قُلْ هَلْ عِندَكُم مِّنْ عِلْمٍۢ فَتُخْرِجُوهُ لَنَآ ۖ إِن تَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ أَنتُمْ إِلَّا تَخْرُصُونَ
 
-**6:149** Sema, “Hoja ya mwisho na kamili ni ya Allah. Angetaka, angewaongoza nyote.”
+**6:149** Sema, "Hoja ya mwisho na kamili ni ya Allah. Angetaka, angewaongoza nyote."
 
 قُلْ فَلِلَّهِ ٱلْحُجَّةُ ٱلْبَٰلِغَةُ ۖ فَلَوْ شَآءَ لَهَدَىٰكُمْ أَجْمَعِينَ
 
-**6:150** Sema, “Leteni mashahidi wenu ambao wangashuhudia kwamba Allah ameharamisha hili.” Wakishuhudia, usishuhudie pamoja nao. Wala usifuate matamanio ya wale wanaozikataa aya Zetu, na wale wasioamini katika Akhera, na wale wanaowalinganisha wengine na Mola wao.
+**6:150** Sema, "Leteni mashahidi wenu ambao wangashuhudia kwamba Allah ameharamisha hili." Wakishuhudia, usishuhudie pamoja nao. Wala usifuate matamanio ya wale wanaozikataa aya Zetu, na wale wasioamini katika Akhera, na wale wanaowalinganisha wengine na Mola wao.
 
 قُلْ هَلُمَّ شُهَدَآءَكُمُ ٱلَّذِينَ يَشْهَدُونَ أَنَّ ٱللَّهَ حَرَّمَ هَٰذَا ۖ فَإِن شَهِدُوا۟ فَلَا تَشْهَدْ مَعَهُمْ ۚ وَلَا تَتَّبِعْ أَهْوَآءَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ وَهُم بِرَبِّهِمْ يَعْدِلُونَ
 
-**6:151** Sema, “Njooni, niwasimulie yale ambayo Mola wenu amewaharamishia: kwamba msimshirikishe na chochote; kwamba muwatendea wema wazazi wenu; kwamba msiue watoto wenu kwa sababu ya umasikini — Tunawaruzuku ninyi na wao; kwamba msikaribie mambo machafu, ya nje au ya ndani; na kwamba msiue nafsi ambayo Allah ameharamisha kuiua — isipokuwa kwa haki. Hayo yote amewaamuru, ili muelewe.”
+**6:151** Sema, "Njooni, niwasimulie yale ambayo Mola wenu amewaharamishia: kwamba msimshirikishe na chochote; kwamba muwatendea wema wazazi wenu; kwamba msiue watoto wenu kwa sababu ya umasikini — Tunawaruzuku ninyi na wao; kwamba msikaribie mambo machafu, ya nje au ya ndani; na kwamba msiue nafsi ambayo Allah ameharamisha kuiua — isipokuwa kwa haki. Hayo yote amewaamuru, ili muelewe."
 
 ۞ قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ ۖ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًۭٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًۭا ۖ وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍۢ ۖ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ ۖ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ ۖ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
 
@@ -3982,15 +3982,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَهَٰذَا كِتَٰبٌ أَنزَلْنَٰهُ مُبَارَكٌۭ فَٱتَّبِعُوهُ وَٱتَّقُوا۟ لَعَلَّكُمْ تُرْحَمُونَ
 
-**6:156** Msije mkasema, “Kitabu kilifunuliwa kwa makundi mawili kabla yetu, na hatukujua mafundisho yao.”
+**6:156** Msije mkasema, "Kitabu kilifunuliwa kwa makundi mawili kabla yetu, na hatukujua mafundisho yao."
 
 أَن تَقُولُوٓا۟ إِنَّمَآ أُنزِلَ ٱلْكِتَٰبُ عَلَىٰ طَآئِفَتَيْنِ مِن قَبْلِنَا وَإِن كُنَّا عَن دِرَاسَتِهِمْ لَغَٰفِلِينَ
 
-**6:157** Au msije mkasema, “Kitabu kingelifunuliwa kwetu, tungeliongozwa vizuri zaidi kuliko wao.” Ushahidi ulio wazi umewajia kutoka kwa Mola wenu, na uongozi, na rehema. Ni nani basi anayefanya uovu mkubwa zaidi kuliko yule anayeukataa ujumbe wa Allah, na kujitenga nao? Tutawalipa wale wanaojitenga na ujumbe Wetu kwa adhabu kali zaidi, kwa sababu ya kujitenga kwao.
+**6:157** Au msije mkasema, "Kitabu kingelifunuliwa kwetu, tungeliongozwa vizuri zaidi kuliko wao." Ushahidi ulio wazi umewajia kutoka kwa Mola wenu, na uongozi, na rehema. Ni nani basi anayefanya uovu mkubwa zaidi kuliko yule anayeukataa ujumbe wa Allah, na kujitenga nao? Tutawalipa wale wanaojitenga na ujumbe Wetu kwa adhabu kali zaidi, kwa sababu ya kujitenga kwao.
 
 أَوْ تَقُولُوا۟ لَوْ أَنَّآ أُنزِلَ عَلَيْنَا ٱلْكِتَٰبُ لَكُنَّآ أَهْدَىٰ مِنْهُمْ ۚ فَقَدْ جَآءَكُم بَيِّنَةٌۭ مِّن رَّبِّكُمْ وَهُدًۭى وَرَحْمَةٌۭ ۚ فَمَنْ أَظْلَمُ مِمَّن كَذَّبَ بِـَٔايَٰتِ ٱللَّهِ وَصَدَفَ عَنْهَا ۗ سَنَجْزِى ٱلَّذِينَ يَصْدِفُونَ عَنْ ءَايَٰتِنَا سُوٓءَ ٱلْعَذَابِ بِمَا كَانُوا۟ يَصْدِفُونَ
 
-**6:158** Je, wanasubiri chochote isipokuwa malaika wawajie, au Mola wako afike, au baadhi ya ishara za Mola wako zije? Siku ambayo baadhi ya ishara za Mola wako zitakuja, nafsi haitafaidika na imani yake isipokuwa iliamini hapo awali, au ilichuma wema kupitia imani yake. Sema, “Subirini, nasi pia tunasubiri.”
+**6:158** Je, wanasubiri chochote isipokuwa malaika wawajie, au Mola wako afike, au baadhi ya ishara za Mola wako zije? Siku ambayo baadhi ya ishara za Mola wako zitakuja, nafsi haitafaidika na imani yake isipokuwa iliamini hapo awali, au ilichuma wema kupitia imani yake. Sema, "Subirini, nasi pia tunasubiri."
 
 هَلْ يَنظُرُونَ إِلَّآ أَن تَأْتِيَهُمُ ٱلْمَلَٰٓئِكَةُ أَوْ يَأْتِىَ رَبُّكَ أَوْ يَأْتِىَ بَعْضُ ءَايَٰتِ رَبِّكَ ۗ يَوْمَ يَأْتِى بَعْضُ ءَايَٰتِ رَبِّكَ لَا يَنفَعُ نَفْسًا إِيمَٰنُهَا لَمْ تَكُنْ ءَامَنَتْ مِن قَبْلُ أَوْ كَسَبَتْ فِىٓ إِيمَٰنِهَا خَيْرًۭا ۗ قُلِ ٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ
 
@@ -4002,11 +4002,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 مَن جَآءَ بِٱلْحَسَنَةِ فَلَهُۥ عَشْرُ أَمْثَالِهَا ۖ وَمَن جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ
 
-**6:161** Sema, “Mola wangu ameniongoza katika njia iliyonyooka, dini iliyo sawa, imani ya Ibrahimu mwenye kuegemea ukweli mmoja, ambaye hakuwa mshirikina.”
+**6:161** Sema, "Mola wangu ameniongoza katika njia iliyonyooka, dini iliyo sawa, imani ya Ibrahimu mwenye kuegemea ukweli mmoja, ambaye hakuwa mshirikina."
 
 قُلْ إِنَّنِى هَدَىٰنِى رَبِّىٓ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ دِينًۭا قِيَمًۭا مِّلَّةَ إِبْرَٰهِيمَ حَنِيفًۭا ۚ وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
 
-**6:162** Sema, “Sala yangu na ibada yangu, na uhai wangu na kifo changu, vimetolewa kwa Allah, Mola wa walimwengu.
+**6:162** Sema, "Sala yangu na ibada yangu, na uhai wangu na kifo changu, vimetolewa kwa Allah, Mola wa walimwengu.
 
 قُلْ إِنَّ صَلَاتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
@@ -4014,7 +4014,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 لَا شَرِيكَ لَهُۥ ۖ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا۠ أَوَّلُ ٱلْمُسْلِمِينَ
 
-**6:164** Sema, “Je, nitafute mola mwingine badala ya Allah, wakati Yeye ndiye Mola wa kila kitu?” Hakuna nafsi inayopata isipokuwa yale iliyoyachuma, na hakuna nafsi inayobeba mzigo wa mwingine. Kisha kwa Mola wenu ndiko marejeo yenu, hapo atawajulisha kuhusu mabishano yenu.
+**6:164** Sema, "Je, nitafute mola mwingine badala ya Allah, wakati Yeye ndiye Mola wa kila kitu?" Hakuna nafsi inayopata isipokuwa yale iliyoyachuma, na hakuna nafsi inayobeba mzigo wa mwingine. Kisha kwa Mola wenu ndiko marejeo yenu, hapo atawajulisha kuhusu mabishano yenu.
 
 قُلْ أَغَيْرَ ٱللَّهِ أَبْغِى رَبًّۭا وَهُوَ رَبُّ كُلِّ شَىْءٍۢ ۚ وَلَا تَكْسِبُ كُلُّ نَفْسٍ إِلَّا عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ۚ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
 
@@ -4050,7 +4050,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَكَم مِّن قَرْيَةٍ أَهْلَكْنَٰهَا فَجَآءَهَا بَأْسُنَا بَيَٰتًا أَوْ هُمْ قَآئِلُونَ
 
-**7:5** Nguvu Zetu zilipowafikia, kilio chao pekee kilikuwa: “Kwa hakika tulikuwa wadhalimu.”
+**7:5** Nguvu Zetu zilipowafikia, kilio chao pekee kilikuwa: "Kwa hakika tulikuwa wadhalimu."
 
 فَمَا كَانَ دَعْوَىٰهُمْ إِذْ جَآءَهُم بَأْسُنَآ إِلَّآ أَن قَالُوٓا۟ إِنَّا كُنَّا ظَٰلِمِينَ
 
@@ -4074,63 +4074,63 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَقَدْ مَكَّنَّٰكُمْ فِى ٱلْأَرْضِ وَجَعَلْنَا لَكُمْ فِيهَا مَعَٰيِشَ ۗ قَلِيلًۭا مَّا تَشْكُرُونَ
 
-**7:11** Tuliwaumba, kisha Tukawaumba kwa umbo, kisha Tukawaambia malaika: “Msujudieni Adamu;” basi wakasujudu, isipokuwa Shetani; hakuwa miongoni mwa waliosujudu.
+**7:11** Tuliwaumba, kisha Tukawaumba kwa umbo, kisha Tukawaambia malaika: "Msujudieni Adamu;" basi wakasujudu, isipokuwa Shetani; hakuwa miongoni mwa waliosujudu.
 
 وَلَقَدْ خَلَقْنَٰكُمْ ثُمَّ صَوَّرْنَٰكُمْ ثُمَّ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّٰجِدِينَ
 
-**7:12** Alisema: “Kipi kilikuzuia kusujudu Nilipokuamrisha?” Akasema: “Mimi ni bora kuliko yeye; Uliniumba kutokana na moto, na Ulimuumba kutokana na udongo.”
+**7:12** Alisema: "Kipi kilikuzuia kusujudu Nilipokuamrisha?" Akasema: "Mimi ni bora kuliko yeye; Uliniumba kutokana na moto, na Ulimuumba kutokana na udongo."
 
 قَالَ مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ ۖ قَالَ أَنَا۠ خَيْرٌۭ مِّنْهُ خَلَقْتَنِى مِن نَّارٍۢ وَخَلَقْتَهُۥ مِن طِينٍۢ
 
-**7:13** Alisema: “Shuka kutoka humo! Si kwako kujivuna ndani yake. Toka! Wewe ni miongoni mwa walio chini.”
+**7:13** Alisema: "Shuka kutoka humo! Si kwako kujivuna ndani yake. Toka! Wewe ni miongoni mwa walio chini."
 
 قَالَ فَٱهْبِطْ مِنْهَا فَمَا يَكُونُ لَكَ أَن تَتَكَبَّرَ فِيهَا فَٱخْرُجْ إِنَّكَ مِنَ ٱلصَّٰغِرِينَ
 
-**7:14** Akasema: “Nipe muhula, mpaka Siku watakapofufuliwa.”
+**7:14** Akasema: "Nipe muhula, mpaka Siku watakapofufuliwa."
 
 قَالَ أَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
 
-**7:15** Alisema: “Wewe ni miongoni mwa waliopewa muhula.”
+**7:15** Alisema: "Wewe ni miongoni mwa waliopewa muhula."
 
 قَالَ إِنَّكَ مِنَ ٱلْمُنظَرِينَ
 
-**7:16** Akasema: “Kwa sababu Umenipotosha, nitawavizia katika njia Yako iliyonyooka.
+**7:16** Akasema: "Kwa sababu Umenipotosha, nitawavizia katika njia Yako iliyonyooka.
 
 قَالَ فَبِمَآ أَغْوَيْتَنِى لَأَقْعُدَنَّ لَهُمْ صِرَٰطَكَ ٱلْمُسْتَقِيمَ
 
-**7:17** Kisha nitawafikia kutoka mbele yao, na kutoka nyuma yao, na kutoka kulia kwao, na kutoka kushoto kwao; na hutawakuta wengi wao wakishukuru.”
+**7:17** Kisha nitawafikia kutoka mbele yao, na kutoka nyuma yao, na kutoka kulia kwao, na kutoka kushoto kwao; na hutawakuta wengi wao wakishukuru."
 
 ثُمَّ لَءَاتِيَنَّهُم مِّنۢ بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ وَعَنْ أَيْمَٰنِهِمْ وَعَن شَمَآئِلِهِمْ ۖ وَلَا تَجِدُ أَكْثَرَهُمْ شَٰكِرِينَ
 
-**7:18** Alisema: “Toka humo, ukiwa umeaibishwa na kushindwa. Yeyote miongoni mwao atakayekufuata — Nitaijaza Jahannamu ninyi nyote.
+**7:18** Alisema: "Toka humo, ukiwa umeaibishwa na kushindwa. Yeyote miongoni mwao atakayekufuata — Nitaijaza Jahannamu ninyi nyote.
 
 قَالَ ٱخْرُجْ مِنْهَا مَذْءُومًۭا مَّدْحُورًۭا ۖ لَّمَن تَبِعَكَ مِنْهُمْ لَأَمْلَأَنَّ جَهَنَّمَ مِنكُمْ أَجْمَعِينَ
 
-**7:19** Na wewe, Adamu, kaa katika Bustani, wewe na mke wako, na kuleni chochote mnachotaka; lakini msiusogelee mti huu, msije mkawa wenye dhambi.”
+**7:19** Na wewe, Adamu, kaa katika Bustani, wewe na mke wako, na kuleni chochote mnachotaka; lakini msiusogelee mti huu, msije mkawa wenye dhambi."
 
 وَيَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ فَكُلَا مِنْ حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
 
-**7:20** Lakini Shetani akawanong’oneza, ili kuwafunulia uchi wao, ambao ulikuwa umefichika kwao. Akasema: “Mola wenu Amewakataza tu mti huu, msije mkawa malaika, au mkawa wa kudumu milele.”
+**7:20** Lakini Shetani akawanong'oneza, ili kuwafunulia uchi wao, ambao ulikuwa umefichika kwao. Akasema: "Mola wenu Amewakataza tu mti huu, msije mkawa malaika, au mkawa wa kudumu milele."
 
 فَوَسْوَسَ لَهُمَا ٱلشَّيْطَٰنُ لِيُبْدِىَ لَهُمَا مَا وُۥرِىَ عَنْهُمَا مِن سَوْءَٰتِهِمَا وَقَالَ مَا نَهَىٰكُمَا رَبُّكُمَا عَنْ هَٰذِهِ ٱلشَّجَرَةِ إِلَّآ أَن تَكُونَا مَلَكَيْنِ أَوْ تَكُونَا مِنَ ٱلْخَٰلِدِينَ
 
-**7:21** Na akawaapia: “Mimi ni mshauri mwaminifu kwenu.”
+**7:21** Na akawaapia: "Mimi ni mshauri mwaminifu kwenu."
 
 وَقَاسَمَهُمَآ إِنِّى لَكُمَا لَمِنَ ٱلنَّٰصِحِينَ
 
-**7:22** Basi akawadanganya kwa udanganyifu. Na walipouonja mti, uchi wao ukawa wazi kwao, na wakaanza kujifunika kwa majani ya Bustani. Na Mola wao Akawaita: “Je, Sikuwakataza mti huu, na kuwaambia kwamba Shetani ni adui aliyeapa kwenu?”
+**7:22** Basi akawadanganya kwa udanganyifu. Na walipouonja mti, uchi wao ukawa wazi kwao, na wakaanza kujifunika kwa majani ya Bustani. Na Mola wao Akawaita: "Je, Sikuwakataza mti huu, na kuwaambia kwamba Shetani ni adui aliyeapa kwenu?"
 
 فَدَلَّىٰهُمَا بِغُرُورٍۢ ۚ فَلَمَّا ذَاقَا ٱلشَّجَرَةَ بَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ ۖ وَنَادَىٰهُمَا رَبُّهُمَآ أَلَمْ أَنْهَكُمَا عَن تِلْكُمَا ٱلشَّجَرَةِ وَأَقُل لَّكُمَآ إِنَّ ٱلشَّيْطَٰنَ لَكُمَا عَدُوٌّۭ مُّبِينٌۭ
 
-**7:23** Wakasema: “Mola wetu, tumejidhulumu nafsi zetu. Usipotosamehe, na kutuhurumia, tutakuwa miongoni mwa walioshindwa.”
+**7:23** Wakasema: "Mola wetu, tumejidhulumu nafsi zetu. Usipotosamehe, na kutuhurumia, tutakuwa miongoni mwa walioshindwa."
 
 قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَٰسِرِينَ
 
-**7:24** Alisema: “Shukeni, baadhi yenu maadui kwa wengine. Duniani mtakuwa na makazi na maisha kwa muda.”
+**7:24** Alisema: "Shukeni, baadhi yenu maadui kwa wengine. Duniani mtakuwa na makazi na maisha kwa muda."
 
 قَالَ ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّۭ ۖ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّۭ وَمَتَٰعٌ إِلَىٰ حِينٍۢ
 
-**7:25** Alisema: “Ndani yake mtaishi, na ndani yake mtakufa, na kutoka humo mtatolewa.”
+**7:25** Alisema: "Ndani yake mtaishi, na ndani yake mtakufa, na kutoka humo mtatolewa."
 
 قَالَ فِيهَا تَحْيَوْنَ وَفِيهَا تَمُوتُونَ وَمِنْهَا تُخْرَجُونَ
 
@@ -4142,11 +4142,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 يَٰبَنِىٓ ءَادَمَ لَا يَفْتِنَنَّكُمُ ٱلشَّيْطَٰنُ كَمَآ أَخْرَجَ أَبَوَيْكُم مِّنَ ٱلْجَنَّةِ يَنزِعُ عَنْهُمَا لِبَاسَهُمَا لِيُرِيَهُمَا سَوْءَٰتِهِمَآ ۗ إِنَّهُۥ يَرَىٰكُمْ هُوَ وَقَبِيلُهُۥ مِنْ حَيْثُ لَا تَرَوْنَهُمْ ۗ إِنَّا جَعَلْنَا ٱلشَّيَٰطِينَ أَوْلِيَآءَ لِلَّذِينَ لَا يُؤْمِنُونَ
 
-**7:28** Na wanapofanya uchafu, wanasema: “Tuliwakuta wazazi wetu wakifanya hivi, na Allah Ametuamrisha tufanye hivyo.” Sema: “Allah Haamrishi machafu. Je, mnasema juu ya Allah yale msiyoyajua?”
+**7:28** Na wanapofanya uchafu, wanasema: "Tuliwakuta wazazi wetu wakifanya hivi, na Allah Ametuamrisha tufanye hivyo." Sema: "Allah Haamrishi machafu. Je, mnasema juu ya Allah yale msiyoyajua?"
 
 وَإِذَا فَعَلُوا۟ فَٰحِشَةًۭ قَالُوا۟ وَجَدْنَا عَلَيْهَآ ءَابَآءَنَا وَٱللَّهُ أَمَرَنَا بِهَا ۗ قُلْ إِنَّ ٱللَّهَ لَا يَأْمُرُ بِٱلْفَحْشَآءِ ۖ أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ
 
-**7:29** Sema: “Mola wangu Anaamrisha uadilifu, na kusimama kwa kujitolea katika kila mahali pa ibada. Basi Mwombeni, na mjitolee imani yenu Kwake peke Yake. Kama Alivyowaumba mwanzo, ndivyo mtakavyorudi.”
+**7:29** Sema: "Mola wangu Anaamrisha uadilifu, na kusimama kwa kujitolea katika kila mahali pa ibada. Basi Mwombeni, na mjitolee imani yenu Kwake peke Yake. Kama Alivyowaumba mwanzo, ndivyo mtakavyorudi."
 
 قُلْ أَمَرَ رَبِّى بِٱلْقِسْطِ ۖ وَأَقِيمُوا۟ وُجُوهَكُمْ عِندَ كُلِّ مَسْجِدٍۢ وَٱدْعُوهُ مُخْلِصِينَ لَهُ ٱلدِّينَ ۚ كَمَا بَدَأَكُمْ تَعُودُونَ
 
@@ -4158,11 +4158,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ۞ يَٰبَنِىٓ ءَادَمَ خُذُوا۟ زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍۢ وَكُلُوا۟ وَٱشْرَبُوا۟ وَلَا تُسْرِفُوٓا۟ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ
 
-**7:32** Sema: “Ni nani aliyeharamisha fahari ya Allah ambayo Ameiweka kwa watumishi Wake, na starehe za maisha?” Sema: “Ni za wale wanaoamini, katika dunia ya sasa, lakini ni zao peke yao Siku ya Ufufuo.” Hivyo Tunazibainisha aya kwa watu wajuao.
+**7:32** Sema: "Ni nani aliyeharamisha fahari ya Allah ambayo Ameiweka kwa watumishi Wake, na starehe za maisha?" Sema: "Ni za wale wanaoamini, katika dunia ya sasa, lakini ni zao peke yao Siku ya Ufufuo." Hivyo Tunazibainisha aya kwa watu wajuao.
 
 قُلْ مَنْ حَرَّمَ زِينَةَ ٱللَّهِ ٱلَّتِىٓ أَخْرَجَ لِعِبَادِهِۦ وَٱلطَّيِّبَٰتِ مِنَ ٱلرِّزْقِ ۚ قُلْ هِىَ لِلَّذِينَ ءَامَنُوا۟ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا خَالِصَةًۭ يَوْمَ ٱلْقِيَٰمَةِ ۗ كَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍۢ يَعْلَمُونَ
 
-**7:33** Sema: “Mola wangu Ameharamisha machafu — ya wazi na ya siri — na dhambi, na uadui usio na haki, na kwamba mshirikishe na Allah chochote ambacho Hakuteremsha idhini yake, na kwamba mseme juu ya Allah yale msiyoyajua.”
+**7:33** Sema: "Mola wangu Ameharamisha machafu — ya wazi na ya siri — na dhambi, na uadui usio na haki, na kwamba mshirikishe na Allah chochote ambacho Hakuteremsha idhini yake, na kwamba mseme juu ya Allah yale msiyoyajua."
 
 قُلْ إِنَّمَا حَرَّمَ رَبِّىَ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَٱلْإِثْمَ وَٱلْبَغْىَ بِغَيْرِ ٱلْحَقِّ وَأَن تُشْرِكُوا۟ بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَٰنًۭا وَأَن تَقُولُوا۟ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ
 
@@ -4178,15 +4178,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَٱسْتَكْبَرُوا۟ عَنْهَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
-**7:37** Ni nani anayefanya dhuluma kubwa zaidi kuliko yule anayemzulia Allah uongo, au kuzikana aya Zake? Hao — sehemu yao ya amri itawafikia. Mpaka, wajumbe Wetu wanapowafikia, ili kuwatoa roho zao, watasema: “Wako wapi wale mliokuwa mkiwaomba badala ya Allah?” Watasema: “Wametuacha,” na watashuhudia dhidi ya nafsi zao kwamba walikuwa makafiri.
+**7:37** Ni nani anayefanya dhuluma kubwa zaidi kuliko yule anayemzulia Allah uongo, au kuzikana aya Zake? Hao — sehemu yao ya amri itawafikia. Mpaka, wajumbe Wetu wanapowafikia, ili kuwatoa roho zao, watasema: "Wako wapi wale mliokuwa mkiwaomba badala ya Allah?" Watasema: "Wametuacha," na watashuhudia dhidi ya nafsi zao kwamba walikuwa makafiri.
 
 فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِـَٔايَٰتِهِۦٓ ۚ أُو۟لَٰٓئِكَ يَنَالُهُمْ نَصِيبُهُم مِّنَ ٱلْكِتَٰبِ ۖ حَتَّىٰٓ إِذَا جَآءَتْهُمْ رُسُلُنَا يَتَوَفَّوْنَهُمْ قَالُوٓا۟ أَيْنَ مَا كُنتُمْ تَدْعُونَ مِن دُونِ ٱللَّهِ ۖ قَالُوا۟ ضَلُّوا۟ عَنَّا وَشَهِدُوا۟ عَلَىٰٓ أَنفُسِهِمْ أَنَّهُمْ كَانُوا۟ كَٰفِرِينَ
 
-**7:38** Atasema: “Ingieni katika makundi ya majini na wanadamu waliopita Motoni kabla yenu.” Kila kundi linapoingia, litalilaani kundi dada lake. Mpaka, watakapokuwa wote ndani yake, wa mwisho wao atasema kwa wa kwanza wao: “Mola wetu, hawa ndio waliotupotosha, basi wape adhabu maradufu Motoni.” Atasema: “Kila mmoja atapata maradufu, lakini hamjui.”
+**7:38** Atasema: "Ingieni katika makundi ya majini na wanadamu waliopita Motoni kabla yenu." Kila kundi linapoingia, litalilaani kundi dada lake. Mpaka, watakapokuwa wote ndani yake, wa mwisho wao atasema kwa wa kwanza wao: "Mola wetu, hawa ndio waliotupotosha, basi wape adhabu maradufu Motoni." Atasema: "Kila mmoja atapata maradufu, lakini hamjui."
 
 قَالَ ٱدْخُلُوا۟ فِىٓ أُمَمٍۢ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ فِى ٱلنَّارِ ۖ كُلَّمَا دَخَلَتْ أُمَّةٌۭ لَّعَنَتْ أُخْتَهَا ۖ حَتَّىٰٓ إِذَا ٱدَّارَكُوا۟ فِيهَا جَمِيعًۭا قَالَتْ أُخْرَىٰهُمْ لِأُولَىٰهُمْ رَبَّنَا هَٰٓؤُلَآءِ أَضَلُّونَا فَـَٔاتِهِمْ عَذَابًۭا ضِعْفًۭا مِّنَ ٱلنَّارِ ۖ قَالَ لِكُلٍّۢ ضِعْفٌۭ وَلَٰكِن لَّا تَعْلَمُونَ
 
-**7:39** Wa kwanza wao atasema kwa wa mwisho wao: “Hamna ubora wowote juu yetu, basi onjeni adhabu kwa yale mliyokuwa mkichuma.”
+**7:39** Wa kwanza wao atasema kwa wa mwisho wao: "Hamna ubora wowote juu yetu, basi onjeni adhabu kwa yale mliyokuwa mkichuma."
 
 وَقَالَتْ أُولَىٰهُمْ لِأُخْرَىٰهُمْ فَمَا كَانَ لَكُمْ عَلَيْنَا مِن فَضْلٍۢ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْسِبُونَ
 
@@ -4202,35 +4202,35 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
-**7:43** Tutaondoa chuki yoyote iliyo mioyoni mwao. Mito itatiririka chini yao. Na watasema: “Sifa ni za Allah, Aliyetuongoza kwenye hili. Kama Allah Asingetuongoza, tusingeliongoa kamwe. Mitume wa Mola wetu walikuja na haki.” Na watatangaziwa: “Hii ndiyo Pepo mnayorithishwa, kwa sababu ya yale mliyokuwa mkifanya.”
+**7:43** Tutaondoa chuki yoyote iliyo mioyoni mwao. Mito itatiririka chini yao. Na watasema: "Sifa ni za Allah, Aliyetuongoza kwenye hili. Kama Allah Asingetuongoza, tusingeliongoa kamwe. Mitume wa Mola wetu walikuja na haki." Na watatangaziwa: "Hii ndiyo Pepo mnayorithishwa, kwa sababu ya yale mliyokuwa mkifanya."
 
 وَنَزَعْنَا مَا فِى صُدُورِهِم مِّنْ غِلٍّۢ تَجْرِى مِن تَحْتِهِمُ ٱلْأَنْهَٰرُ ۖ وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى هَدَىٰنَا لِهَٰذَا وَمَا كُنَّا لِنَهْتَدِىَ لَوْلَآ أَنْ هَدَىٰنَا ٱللَّهُ ۖ لَقَدْ جَآءَتْ رُسُلُ رَبِّنَا بِٱلْحَقِّ ۖ وَنُودُوٓا۟ أَن تِلْكُمُ ٱلْجَنَّةُ أُورِثْتُمُوهَا بِمَا كُنتُمْ تَعْمَلُونَ
 
-**7:44** Na wenyeji wa Pepo watawaita wenyeji wa Moto: “Tumekuta kile Mola wetu Alituahidi kuwa cha kweli; je, mmekuta kile Mola wenu Aliwaahidi kuwa cha kweli?” Watasema: “Ndio.” Kisha mtangazaji atatangaza kati yao: “Laana ya Allah iko juu ya wadhalimu.”
+**7:44** Na wenyeji wa Pepo watawaita wenyeji wa Moto: "Tumekuta kile Mola wetu Alituahidi kuwa cha kweli; je, mmekuta kile Mola wenu Aliwaahidi kuwa cha kweli?" Watasema: "Ndio." Kisha mtangazaji atatangaza kati yao: "Laana ya Allah iko juu ya wadhalimu."
 
 وَنَادَىٰٓ أَصْحَٰبُ ٱلْجَنَّةِ أَصْحَٰبَ ٱلنَّارِ أَن قَدْ وَجَدْنَا مَا وَعَدَنَا رَبُّنَا حَقًّۭا فَهَلْ وَجَدتُّم مَّا وَعَدَ رَبُّكُمْ حَقًّۭا ۖ قَالُوا۟ نَعَمْ ۚ فَأَذَّنَ مُؤَذِّنٌۢ بَيْنَهُمْ أَن لَّعْنَةُ ٱللَّهِ عَلَى ٱلظَّٰلِمِينَ
 
-**7:45** “Wale wanaowazuia watu na njia ya Allah, na kuitafutia upotovu, na wanaokana Akhera.”
+**7:45** "Wale wanaowazuia watu na njia ya Allah, na kuitafutia upotovu, na wanaokana Akhera."
 
 ٱلَّذِينَ يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًۭا وَهُم بِٱلْءَاخِرَةِ كَٰفِرُونَ
 
-**7:46** Na kati yao kuna kizuizi, na kwenye Mwinuko kuna watu wanaowatambua kila mmoja kwa alama zao. Watawaita wenyeji wa Pepo: “Amani iwe juu yenu.” Hawajaingia, lakini wanatumaini.
+**7:46** Na kati yao kuna kizuizi, na kwenye Mwinuko kuna watu wanaowatambua kila mmoja kwa alama zao. Watawaita wenyeji wa Pepo: "Amani iwe juu yenu." Hawajaingia, lakini wanatumaini.
 
 وَبَيْنَهُمَا حِجَابٌۭ ۚ وَعَلَى ٱلْأَعْرَافِ رِجَالٌۭ يَعْرِفُونَ كُلًّۢا بِسِيمَىٰهُمْ ۚ وَنَادَوْا۟ أَصْحَٰبَ ٱلْجَنَّةِ أَن سَلَٰمٌ عَلَيْكُمْ ۚ لَمْ يَدْخُلُوهَا وَهُمْ يَطْمَعُونَ
 
-**7:47** Na macho yao yanapoelekezwa kwa wenyeji wa Moto, watasema: “Mola wetu, usituweke miongoni mwa watu wadhalimu.”
+**7:47** Na macho yao yanapoelekezwa kwa wenyeji wa Moto, watasema: "Mola wetu, usituweke miongoni mwa watu wadhalimu."
 
 ۞ وَإِذَا صُرِفَتْ أَبْصَٰرُهُمْ تِلْقَآءَ أَصْحَٰبِ ٱلنَّارِ قَالُوا۟ رَبَّنَا لَا تَجْعَلْنَا مَعَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
 
-**7:48** Na wenyeji wa Mwinuko watawaita watu wanaowatambua kwa alama zao, wakisema: “Mkusanyiko wenu haukuwafaa, wala kiburi chenu.”
+**7:48** Na wenyeji wa Mwinuko watawaita watu wanaowatambua kwa alama zao, wakisema: "Mkusanyiko wenu haukuwafaa, wala kiburi chenu."
 
 وَنَادَىٰٓ أَصْحَٰبُ ٱلْأَعْرَافِ رِجَالًۭا يَعْرِفُونَهُم بِسِيمَىٰهُمْ قَالُوا۟ مَآ أَغْنَىٰ عَنكُمْ جَمْعُكُمْ وَمَا كُنتُمْ تَسْتَكْبِرُونَ
 
-**7:49** “Je, hawa ndio mliowaapia kwamba Allah Hatawagusa kwa rehema?” “Ingieni Peponi; hamna cha kuogopa, na wala hamtahuzunika.”
+**7:49** "Je, hawa ndio mliowaapia kwamba Allah Hatawagusa kwa rehema?" "Ingieni Peponi; hamna cha kuogopa, na wala hamtahuzunika."
 
 أَهَٰٓؤُلَآءِ ٱلَّذِينَ أَقْسَمْتُمْ لَا يَنَالُهُمُ ٱللَّهُ بِرَحْمَةٍ ۚ ٱدْخُلُوا۟ ٱلْجَنَّةَ لَا خَوْفٌ عَلَيْكُمْ وَلَآ أَنتُمْ تَحْزَنُونَ
 
-**7:50** Wenyeji wa Moto watawaita wenyeji wa Pepo: “Tumiminieni maji kidogo, au baadhi ya kile Allah Alichowapa.” Watasema: “Allah Amewaharamishia makafiri.”
+**7:50** Wenyeji wa Moto watawaita wenyeji wa Pepo: "Tumiminieni maji kidogo, au baadhi ya kile Allah Alichowapa." Watasema: "Allah Amewaharamishia makafiri."
 
 وَنَادَىٰٓ أَصْحَٰبُ ٱلنَّارِ أَصْحَٰبَ ٱلْجَنَّةِ أَنْ أَفِيضُوا۟ عَلَيْنَا مِنَ ٱلْمَآءِ أَوْ مِمَّا رَزَقَكُمُ ٱللَّهُ ۚ قَالُوٓا۟ إِنَّ ٱللَّهَ حَرَّمَهُمَا عَلَى ٱلْكَٰفِرِينَ
 
@@ -4242,7 +4242,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَقَدْ جِئْنَٰهُم بِكِتَٰبٍۢ فَصَّلْنَٰهُ عَلَىٰ عِلْمٍ هُدًۭى وَرَحْمَةًۭ لِّقَوْمٍۢ يُؤْمِنُونَ
 
-**7:53** Je, wanangoja chochote ila utimilifu wake? Siku utimilifu wake utakapokuwa kweli, wale waliokuwa wameupuuza kabla watasema: “Mitume wa Mola wetu walikuja na haki. Je, tuna waombezi wowote wa kutuombea? Au, tunaweza kurudishwa, ili tufanye tofauti na tulivyofanya kabla?” Waliziharibu nafsi zao, na kile walichokuwa wakizua kimewashinda.
+**7:53** Je, wanangoja chochote ila utimilifu wake? Siku utimilifu wake utakapokuwa kweli, wale waliokuwa wameupuuza kabla watasema: "Mitume wa Mola wetu walikuja na haki. Je, tuna waombezi wowote wa kutuombea? Au, tunaweza kurudishwa, ili tufanye tofauti na tulivyofanya kabla?" Waliziharibu nafsi zao, na kile walichokuwa wakizua kimewashinda.
 
 هَلْ يَنظُرُونَ إِلَّا تَأْوِيلَهُۥ ۚ يَوْمَ يَأْتِى تَأْوِيلُهُۥ يَقُولُ ٱلَّذِينَ نَسُوهُ مِن قَبْلُ قَدْ جَآءَتْ رُسُلُ رَبِّنَا بِٱلْحَقِّ فَهَل لَّنَا مِن شُفَعَآءَ فَيَشْفَعُوا۟ لَنَآ أَوْ نُرَدُّ فَنَعْمَلَ غَيْرَ ٱلَّذِى كُنَّا نَعْمَلُ ۚ قَدْ خَسِرُوٓا۟ أَنفُسَهُمْ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ
 
@@ -4266,23 +4266,23 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَٱلْبَلَدُ ٱلطَّيِّبُ يَخْرُجُ نَبَاتُهُۥ بِإِذْنِ رَبِّهِۦ ۖ وَٱلَّذِى خَبُثَ لَا يَخْرُجُ إِلَّا نَكِدًۭا ۚ كَذَٰلِكَ نُصَرِّفُ ٱلْءَايَٰتِ لِقَوْمٍۢ يَشْكُرُونَ
 
-**7:59** Tulimtuma Nuhu kwa watu wake. Akasema: “Enyi watu wangu! Mwabuduni Allah; hamna mungu mwingine ila Yeye. Ninaogopa kwa ajili yenu adhabu ya Siku kubwa kupita kiasi.”
+**7:59** Tulimtuma Nuhu kwa watu wake. Akasema: "Enyi watu wangu! Mwabuduni Allah; hamna mungu mwingine ila Yeye. Ninaogopa kwa ajili yenu adhabu ya Siku kubwa kupita kiasi."
 
 لَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَقَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥٓ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍۢ
 
-**7:60** Wakuu miongoni mwa watu wake wakasema: “Tunaona kwamba uko katika upotevu wa wazi.”
+**7:60** Wakuu miongoni mwa watu wake wakasema: "Tunaona kwamba uko katika upotevu wa wazi."
 
 قَالَ ٱلْمَلَأُ مِن قَوْمِهِۦٓ إِنَّا لَنَرَىٰكَ فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
-**7:61** Akasema: “Enyi watu wangu, siko katika upotevu, lakini mimi ni mtume kutoka kwa Mola wa walimwengu.”
+**7:61** Akasema: "Enyi watu wangu, siko katika upotevu, lakini mimi ni mtume kutoka kwa Mola wa walimwengu."
 
 قَالَ يَٰقَوْمِ لَيْسَ بِى ضَلَٰلَةٌۭ وَلَٰكِنِّى رَسُولٌۭ مِّن رَّبِّ ٱلْعَٰلَمِينَ
 
-**7:62** “Nawafikishia ujumbe wa Mola wangu, na nawanasihi, na ninajua kutoka kwa Allah yale msiyoyajua.”
+**7:62** "Nawafikishia ujumbe wa Mola wangu, na nawanasihi, na ninajua kutoka kwa Allah yale msiyoyajua."
 
 أُبَلِّغُكُمْ رِسَٰلَٰتِ رَبِّى وَأَنصَحُ لَكُمْ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ
 
-**7:63** “Je, mnashangaa kwamba ukumbusho umewafikia kutoka kwa Mola wenu, kupitia mtu kutoka miongoni mwenu, ili awaonye, na kuwaongoza kwenye uadilifu, ili mpate rehema?”
+**7:63** "Je, mnashangaa kwamba ukumbusho umewafikia kutoka kwa Mola wenu, kupitia mtu kutoka miongoni mwenu, ili awaonye, na kuwaongoza kwenye uadilifu, ili mpate rehema?"
 
 أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ وَلِتَتَّقُوا۟ وَلَعَلَّكُمْ تُرْحَمُونَ
 
@@ -4290,31 +4290,31 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَكَذَّبُوهُ فَأَنجَيْنَٰهُ وَٱلَّذِينَ مَعَهُۥ فِى ٱلْفُلْكِ وَأَغْرَقْنَا ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَآ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًا عَمِينَ
 
-**7:65** Na kwa Adi, ndugu yao Hud. Akasema: “Enyi watu wangu! Mwabuduni Allah; hamna mungu mwingine ila Yeye. Je, hamta zingatia?”
+**7:65** Na kwa Adi, ndugu yao Hud. Akasema: "Enyi watu wangu! Mwabuduni Allah; hamna mungu mwingine ila Yeye. Je, hamta zingatia?"
 
 ۞ وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًۭا ۗ قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥٓ ۚ أَفَلَا تَتَّقُونَ
 
-**7:66** Wakuu wa watu wake waliokufuru wakasema: “Tunaona upumbavu ndani yako, na tunadhani kwamba wewe ni mwongo.”
+**7:66** Wakuu wa watu wake waliokufuru wakasema: "Tunaona upumbavu ndani yako, na tunadhani kwamba wewe ni mwongo."
 
 قَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦٓ إِنَّا لَنَرَىٰكَ فِى سَفَاهَةٍۢ وَإِنَّا لَنَظُنُّكَ مِنَ ٱلْكَٰذِبِينَ
 
-**7:67** Akasema: “Enyi watu wangu! Hakuna upumbavu ndani yangu, lakini mimi ni mtume kutoka kwa Mola wa walimwengu.
+**7:67** Akasema: "Enyi watu wangu! Hakuna upumbavu ndani yangu, lakini mimi ni mtume kutoka kwa Mola wa walimwengu.
 
 قَالَ يَٰقَوْمِ لَيْسَ بِى سَفَاهَةٌۭ وَلَٰكِنِّى رَسُولٌۭ مِّن رَّبِّ ٱلْعَٰلَمِينَ
 
-**7:68** “Nawafikishia ujumbe wa Mola wangu, nami ni mshauri mwaminifu kwenu.”
+**7:68** "Nawafikishia ujumbe wa Mola wangu, nami ni mshauri mwaminifu kwenu."
 
 أُبَلِّغُكُمْ رِسَٰلَٰتِ رَبِّى وَأَنَا۠ لَكُمْ نَاصِحٌ أَمِينٌ
 
-**7:69** “Je, mnashangaa kwamba ukumbusho umewafikia kutoka kwa Mola wenu, kupitia mtu kutoka miongoni mwenu, ili awaonye? Kumbukeni Alivyowafanya warithi baada ya watu wa Nuhu, na kuwaongezea sana kimo. Na kumbukeni neema za Allah, ili mpate kufanikiwa.”
+**7:69** "Je, mnashangaa kwamba ukumbusho umewafikia kutoka kwa Mola wenu, kupitia mtu kutoka miongoni mwenu, ili awaonye? Kumbukeni Alivyowafanya warithi baada ya watu wa Nuhu, na kuwaongezea sana kimo. Na kumbukeni neema za Allah, ili mpate kufanikiwa."
 
 أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ
 
-**7:70** Wakasema: “Je, umekuja kwetu ili utufanye tumwabudu Allah peke Yake, na kuacha kile mababu zetu walichokuwa wakikiabudu? Basi tuletee kile unachotuahidi, ikiwa wewe ni wa kweli.”
+**7:70** Wakasema: "Je, umekuja kwetu ili utufanye tumwabudu Allah peke Yake, na kuacha kile mababu zetu walichokuwa wakikiabudu? Basi tuletee kile unachotuahidi, ikiwa wewe ni wa kweli."
 
 قَالُوٓا۟ أَجِئْتَنَا لِنَعْبُدَ ٱللَّهَ وَحْدَهُۥ وَنَذَرَ مَا كَانَ يَعْبُدُ ءَابَآؤُنَا ۖ فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 
-**7:71** Akasema: “Hukumu na ghadhabu zimewaangukia kutoka kwa Mola wenu. Je, mnanibishia juu ya majina, ambayo ninyi na mababu zenu mlizua, ambayo Allah Hakuteremsha mamlaka yoyote? Ngojeni tu; ninangoja nanyi.”
+**7:71** Akasema: "Hukumu na ghadhabu zimewaangukia kutoka kwa Mola wenu. Je, mnanibishia juu ya majina, ambayo ninyi na mababu zenu mlizua, ambayo Allah Hakuteremsha mamlaka yoyote? Ngojeni tu; ninangoja nanyi."
 
 قَالَ قَدْ وَقَعَ عَلَيْكُم مِّن رَّبِّكُمْ رِجْسٌۭ وَغَضَبٌ ۖ أَتُجَٰدِلُونَنِى فِىٓ أَسْمَآءٍۢ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّا نَزَّلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍۢ ۚ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ
 
@@ -4322,23 +4322,23 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَأَنجَيْنَٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ
 
-**7:73** Na kwa Thamudi, ndugu yao Swalehe. Akasema: “Enyi watu wangu! Mwabuduni Allah; hamna mungu mwingine ila Yeye. Ufafanuzi umewafikia kutoka kwa Mola wenu. Ngamia huyu wa kike wa Allah ni ishara kwenu. Basi mwache alishe katika ardhi ya Allah, na msimfanyie madhara yoyote, adhabu yenye uchungu isije ikawachukua.”
+**7:73** Na kwa Thamudi, ndugu yao Swalehe. Akasema: "Enyi watu wangu! Mwabuduni Allah; hamna mungu mwingine ila Yeye. Ufafanuzi umewafikia kutoka kwa Mola wenu. Ngamia huyu wa kike wa Allah ni ishara kwenu. Basi mwache alishe katika ardhi ya Allah, na msimfanyie madhara yoyote, adhabu yenye uchungu isije ikawachukua."
 
 وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًۭا ۗ قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ ۖ قَدْ جَآءَتْكُم بَيِّنَةٌۭ مِّن رَّبِّكُمْ ۖ هَٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمْ ءَايَةًۭ ۖ فَذَرُوهَا تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ ۖ وَلَا تَمَسُّوهَا بِسُوٓءٍۢ فَيَأْخُذَكُمْ عَذَابٌ أَلِيمٌۭ
 
-**7:74** “Na kumbukeni Alivyowafanya warithi baada ya Adi, na kuwapa makazi katika ardhi. Mnajifanyia majumba katika tambarare zake, na kuchonga makazi milimani. Basi kumbukeni faida za Allah, na msitembee duniani kwa ufisadi.”
+**7:74** "Na kumbukeni Alivyowafanya warithi baada ya Adi, na kuwapa makazi katika ardhi. Mnajifanyia majumba katika tambarare zake, na kuchonga makazi milimani. Basi kumbukeni faida za Allah, na msitembee duniani kwa ufisadi."
 
 وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ عَادٍۢ وَبَوَّأَكُمْ فِى ٱلْأَرْضِ تَتَّخِذُونَ مِن سُهُولِهَا قُصُورًۭا وَتَنْحِتُونَ ٱلْجِبَالَ بُيُوتًۭا ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
 
-**7:75** Wakuu wa watu wake, waliokuwa na kiburi, waliwaambia watu wa kawaida waliokuwa wameamini: “Je, mnajua kwamba Swalehe ametumwa kutoka kwa Mola wake?” Wakasema: “Sisi ni waumini wa kile alichotumwa nacho.”
+**7:75** Wakuu wa watu wake, waliokuwa na kiburi, waliwaambia watu wa kawaida waliokuwa wameamini: "Je, mnajua kwamba Swalehe ametumwa kutoka kwa Mola wake?" Wakasema: "Sisi ni waumini wa kile alichotumwa nacho."
 
 قَالَ ٱلْمَلَأُ ٱلَّذِينَ ٱسْتَكْبَرُوا۟ مِن قَوْمِهِۦ لِلَّذِينَ ٱسْتُضْعِفُوا۟ لِمَنْ ءَامَنَ مِنْهُمْ أَتَعْلَمُونَ أَنَّ صَٰلِحًۭا مُّرْسَلٌۭ مِّن رَّبِّهِۦ ۚ قَالُوٓا۟ إِنَّا بِمَآ أُرْسِلَ بِهِۦ مُؤْمِنُونَ
 
-**7:76** Wale waliokuwa na kiburi wakasema: “Tunakataa kile mnachoamini.”
+**7:76** Wale waliokuwa na kiburi wakasema: "Tunakataa kile mnachoamini."
 
 قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا بِٱلَّذِىٓ ءَامَنتُم بِهِۦ كَٰفِرُونَ
 
-**7:77** Basi wakamchinja ngamia wa kike, na wakaasi amri ya Mola wao, na wakasema: “Ewe Swalehe, tuletee kile unachotuahidi, ikiwa wewe ni miongoni mwa mitume.”
+**7:77** Basi wakamchinja ngamia wa kike, na wakaasi amri ya Mola wao, na wakasema: "Ewe Swalehe, tuletee kile unachotuahidi, ikiwa wewe ni miongoni mwa mitume."
 
 فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَٰصَٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ
 
@@ -4346,19 +4346,19 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَأَخَذَتْهُمُ ٱلرَّجْفَةُ فَأَصْبَحُوا۟ فِى دَارِهِمْ جَٰثِمِينَ
 
-**7:79** Kisha akageuka kutoka kwao, na akasema: “Enyi watu wangu, nimewafikishia ujumbe wa Mola wangu, na nimewanasihi, lakini hamwapendi wanaotoa nasiha.”
+**7:79** Kisha akageuka kutoka kwao, na akasema: "Enyi watu wangu, nimewafikishia ujumbe wa Mola wangu, na nimewanasihi, lakini hamwapendi wanaotoa nasiha."
 
 فَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَٰقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّى وَنَصَحْتُ لَكُمْ وَلَٰكِن لَّا تُحِبُّونَ ٱلنَّٰصِحِينَ
 
-**7:80** Na Luti, alipowaambia watu wake: “Je, mnafanya uchafu ambao hakuna watu wowote popote waliowahi kuutenda kabla yenu?”
+**7:80** Na Luti, alipowaambia watu wake: "Je, mnafanya uchafu ambao hakuna watu wowote popote waliowahi kuutenda kabla yenu?"
 
 وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ أَتَأْتُونَ ٱلْفَٰحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍۢ مِّنَ ٱلْعَٰلَمِينَ
 
-**7:81** “Mnawaendea wanaume kwa tamaa badala ya wanawake. Ni watu mnaopita kiasi.”
+**7:81** "Mnawaendea wanaume kwa tamaa badala ya wanawake. Ni watu mnaopita kiasi."
 
 إِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ شَهْوَةًۭ مِّن دُونِ ٱلنِّسَآءِ ۚ بَلْ أَنتُمْ قَوْمٌۭ مُّسْرِفُونَ
 
-**7:82** Na jibu pekee la watu wake lilikuwa kusema: “Wafukuzeni kutoka mji wenu; wao ni watu wanaojitakasa.”
+**7:82** Na jibu pekee la watu wake lilikuwa kusema: "Wafukuzeni kutoka mji wenu; wao ni watu wanaojitakasa."
 
 وَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوهُم مِّن قَرْيَتِكُمْ ۖ إِنَّهُمْ أُنَاسٌۭ يَتَطَهَّرُونَ
 
@@ -4370,27 +4370,27 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَأَمْطَرْنَا عَلَيْهِم مَّطَرًۭا ۖ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُجْرِمِينَ
 
-**7:85** Na kwa Madyani, ndugu yao Shuaibu. Akasema: “Enyi watu wangu, mwabuduni Allah; hamna mungu mwingine ila Yeye. Uthibitisho wazi umewafikia kutoka kwa Mola wenu. Toeni kipimo na uzito kamili, na msiwapunje watu haki zao, na msifanye ufisadi katika ardhi baada ya kutengenezwa kwake. Hii ni bora kwenu, ikiwa ni waumini.”
+**7:85** Na kwa Madyani, ndugu yao Shuaibu. Akasema: "Enyi watu wangu, mwabuduni Allah; hamna mungu mwingine ila Yeye. Uthibitisho wazi umewafikia kutoka kwa Mola wenu. Toeni kipimo na uzito kamili, na msiwapunje watu haki zao, na msifanye ufisadi katika ardhi baada ya kutengenezwa kwake. Hii ni bora kwenu, ikiwa ni waumini."
 
 وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا ۗ قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ ۖ قَدْ جَآءَتْكُم بَيِّنَةٌۭ مِّن رَّبِّكُمْ ۖ فَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ وَلَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ بَعْدَ إِصْلَٰحِهَا ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
 
-**7:86** “Na msikae katika kila njia, mkitoa vitisho na kuwazuia watu na njia ya Allah wale wanaomwamini, mkitafuta kuipotosha. Na kumbukeni mlipokuwa wachache, na Alivyowafanya muwe wengi. Basi angalieni matokeo kwa wafisadi.”
+**7:86** "Na msikae katika kila njia, mkitoa vitisho na kuwazuia watu na njia ya Allah wale wanaomwamini, mkitafuta kuipotosha. Na kumbukeni mlipokuwa wachache, na Alivyowafanya muwe wengi. Basi angalieni matokeo kwa wafisadi."
 
 وَلَا تَقْعُدُوا۟ بِكُلِّ صِرَٰطٍۢ تُوعِدُونَ وَتَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ بِهِۦ وَتَبْغُونَهَا عِوَجًۭا ۚ وَٱذْكُرُوٓا۟ إِذْ كُنتُمْ قَلِيلًۭا فَكَثَّرَكُمْ ۖ وَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُفْسِدِينَ
 
-**7:87** “Kama baadhi yenu wameamini kile nilichotumwa nacho, na baadhi hawajaamini, kuweni na subira mpaka Allah Atakapohukumu kati yetu; kwani Yeye ni Mbora wa Mahakimu.”
+**7:87** "Kama baadhi yenu wameamini kile nilichotumwa nacho, na baadhi hawajaamini, kuweni na subira mpaka Allah Atakapohukumu kati yetu; kwani Yeye ni Mbora wa Mahakimu."
 
 وَإِن كَانَ طَآئِفَةٌۭ مِّنكُمْ ءَامَنُوا۟ بِٱلَّذِىٓ أُرْسِلْتُ بِهِۦ وَطَآئِفَةٌۭ لَّمْ يُؤْمِنُوا۟ فَٱصْبِرُوا۟ حَتَّىٰ يَحْكُمَ ٱللَّهُ بَيْنَنَا ۚ وَهُوَ خَيْرُ ٱلْحَٰكِمِينَ
 
-**7:88** Wakuu wenye kiburi miongoni mwa watu wake wakasema: “Ewe Shuaibu, Tutakufukuza kutoka mji wetu, pamoja na wale wanaoamini pamoja nawe, isipokuwa mtarudi kwenye dini yetu.” Akasema: “Hata kama hatutaki?”
+**7:88** Wakuu wenye kiburi miongoni mwa watu wake wakasema: "Ewe Shuaibu, Tutakufukuza kutoka mji wetu, pamoja na wale wanaoamini pamoja nawe, isipokuwa mtarudi kwenye dini yetu." Akasema: "Hata kama hatutaki?"
 
 ۞ قَالَ ٱلْمَلَأُ ٱلَّذِينَ ٱسْتَكْبَرُوا۟ مِن قَوْمِهِۦ لَنُخْرِجَنَّكَ يَٰشُعَيْبُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَكَ مِن قَرْيَتِنَآ أَوْ لَتَعُودُنَّ فِى مِلَّتِنَا ۚ قَالَ أَوَلَوْ كُنَّا كَٰرِهِينَ
 
-**7:89** “Tungekuwa tunamzulia Allah uongo, kama tungeirudia dini yenu, baada ya Allah Kutuokoa kutoka humo. Si kwetu kuirudia, isipokuwa Allah, Mola wetu, Atake. Mola wetu Anakumbatia kila kitu kwa ujuzi. Kwa Allah tunaweka tegemeo letu. Mola wetu, amua kati yetu na watu wetu kwa haki, kwani Wewe ni Mbora wa Waamuzi.”
+**7:89** "Tungekuwa tunamzulia Allah uongo, kama tungeirudia dini yenu, baada ya Allah Kutuokoa kutoka humo. Si kwetu kuirudia, isipokuwa Allah, Mola wetu, Atake. Mola wetu Anakumbatia kila kitu kwa ujuzi. Kwa Allah tunaweka tegemeo letu. Mola wetu, amua kati yetu na watu wetu kwa haki, kwani Wewe ni Mbora wa Waamuzi."
 
 قَدِ ٱفْتَرَيْنَا عَلَى ٱللَّهِ كَذِبًا إِنْ عُدْنَا فِى مِلَّتِكُم بَعْدَ إِذْ نَجَّىٰنَا ٱللَّهُ مِنْهَا ۚ وَمَا يَكُونُ لَنَآ أَن نَّعُودَ فِيهَآ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّنَا ۚ وَسِعَ رَبُّنَا كُلَّ شَىْءٍ عِلْمًا ۚ عَلَى ٱللَّهِ تَوَكَّلْنَا ۚ رَبَّنَا ٱفْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِٱلْحَقِّ وَأَنتَ خَيْرُ ٱلْفَٰتِحِينَ
 
-**7:90** Wakuu wa watu wake waliokufuru wakasema: “Ikiwa mtamfuata Shuaibu, mtakuwa walioshindwa.”
+**7:90** Wakuu wa watu wake waliokufuru wakasema: "Ikiwa mtamfuata Shuaibu, mtakuwa walioshindwa."
 
 وَقَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ لَئِنِ ٱتَّبَعْتُمْ شُعَيْبًا إِنَّكُمْ إِذًۭا لَّخَٰسِرُونَ
 
@@ -4402,7 +4402,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ٱلَّذِينَ كَذَّبُوا۟ شُعَيْبًۭا كَأَن لَّمْ يَغْنَوْا۟ فِيهَا ۚ ٱلَّذِينَ كَذَّبُوا۟ شُعَيْبًۭا كَانُوا۟ هُمُ ٱلْخَٰسِرِينَ
 
-**7:93** Basi akageuka kutoka kwao, na akasema: “Enyi watu wangu, nimewafikishia ujumbe wa Mola wangu, na nimewanasihi, basi kwa nini niwahuzunikie watu makafiri?”
+**7:93** Basi akageuka kutoka kwao, na akasema: "Enyi watu wangu, nimewafikishia ujumbe wa Mola wangu, na nimewanasihi, basi kwa nini niwahuzunikie watu makafiri?"
 
 فَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَٰقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَٰلَٰتِ رَبِّى وَنَصَحْتُ لَكُمْ ۖ فَكَيْفَ ءَاسَىٰ عَلَىٰ قَوْمٍۢ كَٰفِرِينَ
 
@@ -4410,7 +4410,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمَآ أَرْسَلْنَا فِى قَرْيَةٍۢ مِّن نَّبِىٍّ إِلَّآ أَخَذْنَآ أَهْلَهَا بِٱلْبَأْسَآءِ وَٱلضَّرَّآءِ لَعَلَّهُمْ يَضَّرَّعُونَ
 
-**7:95** Kisha Tukabadilisha ustawi badala ya ugumu. Mpaka wakaongezeka idadi, na wakasema: “Dhiki na ustawi vimewagusa mababu zetu.” Kisha Tukawachukua ghafla, wakiwa hawajui.
+**7:95** Kisha Tukabadilisha ustawi badala ya ugumu. Mpaka wakaongezeka idadi, na wakasema: "Dhiki na ustawi vimewagusa mababu zetu." Kisha Tukawachukua ghafla, wakiwa hawajui.
 
 ثُمَّ بَدَّلْنَا مَكَانَ ٱلسَّيِّئَةِ ٱلْحَسَنَةَ حَتَّىٰ عَفَوا۟ وَّقَالُوا۟ قَدْ مَسَّ ءَابَآءَنَا ٱلضَّرَّآءُ وَٱلسَّرَّآءُ فَأَخَذْنَٰهُم بَغْتَةًۭ وَهُمْ لَا يَشْعُرُونَ
 
@@ -4446,15 +4446,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ بِـَٔايَٰتِنَآ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَظَلَمُوا۟ بِهَا ۖ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُفْسِدِينَ
 
-**7:104** Musa akasema: “Ewe Firauni, mimi ni mtume kutoka kwa Mola wa walimwengu.”
+**7:104** Musa akasema: "Ewe Firauni, mimi ni mtume kutoka kwa Mola wa walimwengu."
 
 وَقَالَ مُوسَىٰ يَٰفِرْعَوْنُ إِنِّى رَسُولٌۭ مِّن رَّبِّ ٱلْعَٰلَمِينَ
 
-**7:105** “Ni sawa tu kwamba niseme juu ya Allah chochote ila haki. Nimekuja kwenu kwa uthibitisho wazi kutoka kwa Mola wenu, basi waache Wana wa Israeli waende nami.”
+**7:105** "Ni sawa tu kwamba niseme juu ya Allah chochote ila haki. Nimekuja kwenu kwa uthibitisho wazi kutoka kwa Mola wenu, basi waache Wana wa Israeli waende nami."
 
 حَقِيقٌ عَلَىٰٓ أَن لَّآ أَقُولَ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ ۚ قَدْ جِئْتُكُم بِبَيِّنَةٍۢ مِّن رَّبِّكُمْ فَأَرْسِلْ مَعِىَ بَنِىٓ إِسْرَٰٓءِيلَ
 
-**7:106** Akasema: “Kama umeleta ishara, basi ilete, ikiwa wewe ni wa kweli.”
+**7:106** Akasema: "Kama umeleta ishara, basi ilete, ikiwa wewe ni wa kweli."
 
 قَالَ إِن كُنتَ جِئْتَ بِـَٔايَةٍۢ فَأْتِ بِهَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 
@@ -4466,39 +4466,39 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ
 
-**7:109** Wakuu miongoni mwa watu wa Firauni wakasema: “Huyu kweli ni mchawi mwenye ujuzi.”
+**7:109** Wakuu miongoni mwa watu wa Firauni wakasema: "Huyu kweli ni mchawi mwenye ujuzi."
 
 قَالَ ٱلْمَلَأُ مِن قَوْمِ فِرْعَوْنَ إِنَّ هَٰذَا لَسَٰحِرٌ عَلِيمٌۭ
 
-**7:110** “Anataka kuwafukuza kutoka ardhi yenu, basi mnapendekeza nini?”
+**7:110** "Anataka kuwafukuza kutoka ardhi yenu, basi mnapendekeza nini?"
 
 يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُمْ ۖ فَمَاذَا تَأْمُرُونَ
 
-**7:111** Wakasema: “Mcheleweshe yeye, na ndugu yake, na tuma waambaji kwenye miji.”
+**7:111** Wakasema: "Mcheleweshe yeye, na ndugu yake, na tuma waambaji kwenye miji."
 
 قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَأَرْسِلْ فِى ٱلْمَدَآئِنِ حَٰشِرِينَ
 
-**7:112** “Na waache wakuletee kila mchawi mwenye ujuzi.”
+**7:112** "Na waache wakuletee kila mchawi mwenye ujuzi."
 
 يَأْتُوكَ بِكُلِّ سَٰحِرٍ عَلِيمٍۢ
 
-**7:113** Wachawi wakaja kwa Firauni, na wakasema: “Hakika kuna thawabu kwetu, ikiwa sisi ndio washindi.”
+**7:113** Wachawi wakaja kwa Firauni, na wakasema: "Hakika kuna thawabu kwetu, ikiwa sisi ndio washindi."
 
 وَجَآءَ ٱلسَّحَرَةُ فِرْعَوْنَ قَالُوٓا۟ إِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ ٱلْغَٰلِبِينَ
 
-**7:114** Akasema: “Ndio, na mtakuwa miongoni mwa vipenzi vyangu.”
+**7:114** Akasema: "Ndio, na mtakuwa miongoni mwa vipenzi vyangu."
 
 قَالَ نَعَمْ وَإِنَّكُمْ لَمِنَ ٱلْمُقَرَّبِينَ
 
-**7:115** Wakasema: “Ewe Musa! Ima wewe utupe, au sisi ndio wa kutupa.”
+**7:115** Wakasema: "Ewe Musa! Ima wewe utupe, au sisi ndio wa kutupa."
 
 قَالُوا۟ يَٰمُوسَىٰٓ إِمَّآ أَن تُلْقِىَ وَإِمَّآ أَن نَّكُونَ نَحْنُ ٱلْمُلْقِينَ
 
-**7:116** Akasema: “Tupeni ninyi!” Na walipotupa, waliwadanganya macho ya watu, na kuwatisha, na wakazalisha uchawi mkubwa.
+**7:116** Akasema: "Tupeni ninyi!" Na walipotupa, waliwadanganya macho ya watu, na kuwatisha, na wakazalisha uchawi mkubwa.
 
 قَالَ أَلْقُوا۟ ۖ فَلَمَّآ أَلْقَوْا۟ سَحَرُوٓا۟ أَعْيُنَ ٱلنَّاسِ وَٱسْتَرْهَبُوهُمْ وَجَآءُو بِسِحْرٍ عَظِيمٍۢ
 
-**7:117** Na Tukamfunulia Musa: “Tupa fimbo yako.” Na mara moja, ikameza kile walichokuwa wakikizua.
+**7:117** Na Tukamfunulia Musa: "Tupa fimbo yako." Na mara moja, ikameza kile walichokuwa wakikizua.
 
 ۞ وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَلْقِ عَصَاكَ ۖ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ
 
@@ -4514,39 +4514,39 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَأُلْقِىَ ٱلسَّحَرَةُ سَٰجِدِينَ
 
-**7:121** Wakasema: “Tumemwamini Mola wa walimwengu.”
+**7:121** Wakasema: "Tumemwamini Mola wa walimwengu."
 
 قَالُوٓا۟ ءَامَنَّا بِرَبِّ ٱلْعَٰلَمِينَ
 
-**7:122** “Mola wa Musa na Haruni.”
+**7:122** "Mola wa Musa na Haruni."
 
 رَبِّ مُوسَىٰ وَهَٰرُونَ
 
-**7:123** Firauni akasema: “Je, mlimwamini kabla Sijawapa ruhusa? Hii hakika ni njama mliyoipanga mjini, ili kuwafukuza watu wake kutoka humo. Hakika mtajua.”
+**7:123** Firauni akasema: "Je, mlimwamini kabla Sijawapa ruhusa? Hii hakika ni njama mliyoipanga mjini, ili kuwafukuza watu wake kutoka humo. Hakika mtajua."
 
 قَالَ فِرْعَوْنُ ءَامَنتُم بِهِۦ قَبْلَ أَنْ ءَاذَنَ لَكُمْ ۖ إِنَّ هَٰذَا لَمَكْرٌۭ مَّكَرْتُمُوهُ فِى ٱلْمَدِينَةِ لِتُخْرِجُوا۟ مِنْهَآ أَهْلَهَا ۖ فَسَوْفَ تَعْلَمُونَ
 
-**7:124** “Nitakata mikono yenu na miguu yenu kwa pande zinazokinzana; kisha Nitawasulubu nyote.”
+**7:124** "Nitakata mikono yenu na miguu yenu kwa pande zinazokinzana; kisha Nitawasulubu nyote."
 
 لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍۢ ثُمَّ لَأُصَلِّبَنَّكُمْ أَجْمَعِينَ
 
-**7:125** Wakasema: “Ni kwa Mola wetu tutarudi.”
+**7:125** Wakasema: "Ni kwa Mola wetu tutarudi."
 
 قَالُوٓا۟ إِنَّآ إِلَىٰ رَبِّنَا مُنقَلِبُونَ
 
-**7:126** “Unatuchukia tu kwa sababu tumeziamini ishara za Mola wetu zilipotufikia.” “Mola wetu! Tumiminie subira juu yetu, na uzipokee roho zetu tukiwa tumesalimu.”
+**7:126** "Unatuchukia tu kwa sababu tumeziamini ishara za Mola wetu zilipotufikia." "Mola wetu! Tumiminie subira juu yetu, na uzipokee roho zetu tukiwa tumesalimu."
 
 وَمَا تَنقِمُ مِنَّآ إِلَّآ أَنْ ءَامَنَّا بِـَٔايَٰتِ رَبِّنَا لَمَّا جَآءَتْنَا ۚ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًۭا وَتَوَفَّنَا مُسْلِمِينَ
 
-**7:127** Wakuu wa watu wa Firauni wakasema: “Je, utamwacha Musa na watu wake wasababishe fujo katika ardhi, na kuwaacha wewe na miungu yenu?” Akasema: “Tutawaua wana wao, na kuwaacha hai wanawake wao. Tuna nguvu kabisa juu yao.”
+**7:127** Wakuu wa watu wa Firauni wakasema: "Je, utamwacha Musa na watu wake wasababishe fujo katika ardhi, na kuwaacha wewe na miungu yenu?" Akasema: "Tutawaua wana wao, na kuwaacha hai wanawake wao. Tuna nguvu kabisa juu yao."
 
 وَقَالَ ٱلْمَلَأُ مِن قَوْمِ فِرْعَوْنَ أَتَذَرُ مُوسَىٰ وَقَوْمَهُۥ لِيُفْسِدُوا۟ فِى ٱلْأَرْضِ وَيَذَرَكَ وَءَالِهَتَكَ ۚ قَالَ سَنُقَتِّلُ أَبْنَآءَهُمْ وَنَسْتَحْىِۦ نِسَآءَهُمْ وَإِنَّا فَوْقَهُمْ قَٰهِرُونَ
 
-**7:128** Musa akawaambia watu wake: “Tafuteni msaada kwa Allah, na kuweni na subira. Ardhi ni ya Allah. Anairithisha kwa yeyote Anayemtaka miongoni mwa watumishi Wake, na mwisho ni wa waadilifu.”
+**7:128** Musa akawaambia watu wake: "Tafuteni msaada kwa Allah, na kuweni na subira. Ardhi ni ya Allah. Anairithisha kwa yeyote Anayemtaka miongoni mwa watumishi Wake, na mwisho ni wa waadilifu."
 
 قَالَ مُوسَىٰ لِقَوْمِهِ ٱسْتَعِينُوا۟ بِٱللَّهِ وَٱصْبِرُوٓا۟ ۖ إِنَّ ٱلْأَرْضَ لِلَّهِ يُورِثُهَا مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ وَٱلْعَٰقِبَةُ لِلْمُتَّقِينَ
 
-**7:129** Wakasema: “Tuliteswa kabla hujaja kwetu, na baada ya kuja kwetu.” Akasema: “Labda Mola wenu Atamwangamiza adui yenu, na kuwafanya warithi katika ardhi; kisha Ataona jinsi mnayotenda.”
+**7:129** Wakasema: "Tuliteswa kabla hujaja kwetu, na baada ya kuja kwetu." Akasema: "Labda Mola wenu Atamwangamiza adui yenu, na kuwafanya warithi katika ardhi; kisha Ataona jinsi mnayotenda."
 
 قَالُوٓا۟ أُوذِينَا مِن قَبْلِ أَن تَأْتِيَنَا وَمِنۢ بَعْدِ مَا جِئْتَنَا ۚ قَالَ عَسَىٰ رَبُّكُمْ أَن يُهْلِكَ عَدُوَّكُمْ وَيَسْتَخْلِفَكُمْ فِى ٱلْأَرْضِ فَيَنظُرَ كَيْفَ تَعْمَلُونَ
 
@@ -4554,11 +4554,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَقَدْ أَخَذْنَآ ءَالَ فِرْعَوْنَ بِٱلسِّنِينَ وَنَقْصٍۢ مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَذَّكَّرُونَ
 
-**7:131** Jambo zuri lilipokuja kwao, wakasema: “Hili ni letu.” Na jambo baya lilipotokea kwao, waliliamba Musa na wale waliokuwa pamoja naye kinyume. Kwa kweli, auguri yao iko kwa Allah, lakini wengi wao hawajui.
+**7:131** Jambo zuri lilipokuja kwao, wakasema: "Hili ni letu." Na jambo baya lilipotokea kwao, waliliamba Musa na wale waliokuwa pamoja naye kinyume. Kwa kweli, auguri yao iko kwa Allah, lakini wengi wao hawajui.
 
 فَإِذَا جَآءَتْهُمُ ٱلْحَسَنَةُ قَالُوا۟ لَنَا هَٰذِهِۦ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۭ يَطَّيَّرُوا۟ بِمُوسَىٰ وَمَن مَّعَهُۥٓ ۗ أَلَآ إِنَّمَا طَٰٓئِرُهُمْ عِندَ ٱللَّهِ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 
-**7:132** Na wakasema: “Hakuna ishara yoyote utakayotuletea, kutuchawi kwayo, hatutakuamini.”
+**7:132** Na wakasema: "Hakuna ishara yoyote utakayotuletea, kutuchawi kwayo, hatutakuamini."
 
 وَقَالُوا۟ مَهْمَا تَأْتِنَا بِهِۦ مِنْ ءَايَةٍۢ لِّتَسْحَرَنَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ
 
@@ -4566,7 +4566,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍۢ مُّفَصَّلَٰتٍۢ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ
 
-**7:134** Kila pigo lilipowapata, wangesema: “Ewe Musa, tuombee kwa Mola wako, kulingana na agano Alilofanya nawe. Ukiwaondolea pigo, tutakuamini, na kuwaacha Wana wa Israeli waende nawe.”
+**7:134** Kila pigo lilipowapata, wangesema: "Ewe Musa, tuombee kwa Mola wako, kulingana na agano Alilofanya nawe. Ukiwaondolea pigo, tutakuamini, na kuwaacha Wana wa Israeli waende nawe."
 
 وَلَمَّا وَقَعَ عَلَيْهِمُ ٱلرِّجْزُ قَالُوا۟ يَٰمُوسَى ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ ۖ لَئِن كَشَفْتَ عَنَّا ٱلرِّجْزَ لَنُؤْمِنَنَّ لَكَ وَلَنُرْسِلَنَّ مَعَكَ بَنِىٓ إِسْرَٰٓءِيلَ
 
@@ -4582,15 +4582,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَأَوْرَثْنَا ٱلْقَوْمَ ٱلَّذِينَ كَانُوا۟ يُسْتَضْعَفُونَ مَشَٰرِقَ ٱلْأَرْضِ وَمَغَٰرِبَهَا ٱلَّتِى بَٰرَكْنَا فِيهَا ۖ وَتَمَّتْ كَلِمَتُ رَبِّكَ ٱلْحُسْنَىٰ عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ بِمَا صَبَرُوا۟ ۖ وَدَمَّرْنَا مَا كَانَ يَصْنَعُ فِرْعَوْنُ وَقَوْمُهُۥ وَمَا كَانُوا۟ يَعْرِشُونَ
 
-**7:138** Na Tukawavusha Wana wa Israeli baharini. Na walipofika kwa watu waliokuwa wakijitolea kwa masanamu yao, wakasema: “Ewe Musa, tufanyie mungu, kama wao wanavyo miungu.” Akasema: “Ninyi kweli ni watu wajinga.”
+**7:138** Na Tukawavusha Wana wa Israeli baharini. Na walipofika kwa watu waliokuwa wakijitolea kwa masanamu yao, wakasema: "Ewe Musa, tufanyie mungu, kama wao wanavyo miungu." Akasema: "Ninyi kweli ni watu wajinga."
 
 وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتَوْا۟ عَلَىٰ قَوْمٍۢ يَعْكُفُونَ عَلَىٰٓ أَصْنَامٍۢ لَّهُمْ ۚ قَالُوا۟ يَٰمُوسَى ٱجْعَل لَّنَآ إِلَٰهًۭا كَمَا لَهُمْ ءَالِهَةٌۭ ۚ قَالَ إِنَّكُمْ قَوْمٌۭ تَجْهَلُونَ
 
-**7:139** “Kile watu hawa wanachokijali ni maangamizo, na matendo yao yamejengwa juu ya uongo.”
+**7:139** "Kile watu hawa wanachokijali ni maangamizo, na matendo yao yamejengwa juu ya uongo."
 
 إِنَّ هَٰٓؤُلَآءِ مُتَبَّرٌۭ مَّا هُمْ فِيهِ وَبَٰطِلٌۭ مَّا كَانُوا۟ يَعْمَلُونَ
 
-**7:140** Akasema: “Je, niwatafutie mungu mwingine badala ya Allah, ilhali Amewapendelea juu ya watu wote?”
+**7:140** Akasema: "Je, niwatafutie mungu mwingine badala ya Allah, ilhali Amewapendelea juu ya watu wote?"
 
 قَالَ أَغَيْرَ ٱللَّهِ أَبْغِيكُمْ إِلَٰهًۭا وَهُوَ فَضَّلَكُمْ عَلَى ٱلْعَٰلَمِينَ
 
@@ -4598,19 +4598,19 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَإِذْ أَنجَيْنَٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ ۖ يُقَتِّلُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌۭ مِّن رَّبِّكُمْ عَظِيمٌۭ
 
-**7:142** Na Tukampa Musa muda wa usiku thelathini, na tukazikamilisha kwa kumi; na hivyo muda uliowekwa na Mola wake ukawa usiku arobaini. Na Musa akamwambia ndugu yake Haruni: “Chukua mahali pangu miongoni mwa watu wangu, na uwe mwadilifu, na usiifuate njia ya wafisadi.”
+**7:142** Na Tukampa Musa muda wa usiku thelathini, na tukazikamilisha kwa kumi; na hivyo muda uliowekwa na Mola wake ukawa usiku arobaini. Na Musa akamwambia ndugu yake Haruni: "Chukua mahali pangu miongoni mwa watu wangu, na uwe mwadilifu, na usiifuate njia ya wafisadi."
 
 ۞ وَوَٰعَدْنَا مُوسَىٰ ثَلَٰثِينَ لَيْلَةًۭ وَأَتْمَمْنَٰهَا بِعَشْرٍۢ فَتَمَّ مِيقَٰتُ رَبِّهِۦٓ أَرْبَعِينَ لَيْلَةًۭ ۚ وَقَالَ مُوسَىٰ لِأَخِيهِ هَٰرُونَ ٱخْلُفْنِى فِى قَوْمِى وَأَصْلِحْ وَلَا تَتَّبِعْ سَبِيلَ ٱلْمُفْسِدِينَ
 
-**7:143** Na Musa alipokuja kwenye muda Wetu uliowekwa, na Mola wake akasema naye, akasema: “Mola wangu, niruhusu nitazame na Nikuone.” Akasema: “Hutaniona, lakini tazama mlima; ukibaki mahali pake, utaniona.” Lakini Mola wake Alipojidhihirisha kwa mlima, Aliugeuza kuwa vumbi, na Musa akaanguka bila fahamu. Kisha, alipozinduka, akasema: “Utukufu ni Wako Wewe, ninatubu Kwako Wewe, nami ni wa kwanza wa waumini.”
+**7:143** Na Musa alipokuja kwenye muda Wetu uliowekwa, na Mola wake akasema naye, akasema: "Mola wangu, niruhusu nitazame na Nikuone." Akasema: "Hutaniona, lakini tazama mlima; ukibaki mahali pake, utaniona." Lakini Mola wake Alipojidhihirisha kwa mlima, Aliugeuza kuwa vumbi, na Musa akaanguka bila fahamu. Kisha, alipozinduka, akasema: "Utukufu ni Wako Wewe, ninatubu Kwako Wewe, nami ni wa kwanza wa waumini."
 
 وَلَمَّا جَآءَ مُوسَىٰ لِمِيقَٰتِنَا وَكَلَّمَهُۥ رَبُّهُۥ قَالَ رَبِّ أَرِنِىٓ أَنظُرْ إِلَيْكَ ۚ قَالَ لَن تَرَىٰنِى وَلَٰكِنِ ٱنظُرْ إِلَى ٱلْجَبَلِ فَإِنِ ٱسْتَقَرَّ مَكَانَهُۥ فَسَوْفَ تَرَىٰنِى ۚ فَلَمَّا تَجَلَّىٰ رَبُّهُۥ لِلْجَبَلِ جَعَلَهُۥ دَكًّۭا وَخَرَّ مُوسَىٰ صَعِقًۭا ۚ فَلَمَّآ أَفَاقَ قَالَ سُبْحَٰنَكَ تُبْتُ إِلَيْكَ وَأَنَا۠ أَوَّلُ ٱلْمُؤْمِنِينَ
 
-**7:144** Akasema: “Ewe Musa, Nimekuchagua juu ya watu wote kwa ujumbe Wangu na kwa Maneno Yangu. Basi chukua nilichokupa, na uwe miongoni mwa wanaoshukuru.”
+**7:144** Akasema: "Ewe Musa, Nimekuchagua juu ya watu wote kwa ujumbe Wangu na kwa Maneno Yangu. Basi chukua nilichokupa, na uwe miongoni mwa wanaoshukuru."
 
 قَالَ يَٰمُوسَىٰٓ إِنِّى ٱصْطَفَيْتُكَ عَلَى ٱلنَّاسِ بِرِسَٰلَٰتِى وَبِكَلَٰمِى فَخُذْ مَآ ءَاتَيْتُكَ وَكُن مِّنَ ٱلشَّٰكِرِينَ
 
-**7:145** Na Tukamwandikia katika Mbao kila aina ya mwangaza, na ufafanuzi wa mwisho wa kila kitu. “Shika imara, na wahamasisha watu wako kuchukua zilizo bora zaidi. Nitawaonyesha hatima ya wenye dhambi.”
+**7:145** Na Tukamwandikia katika Mbao kila aina ya mwangaza, na ufafanuzi wa mwisho wa kila kitu. "Shika imara, na wahamasisha watu wako kuchukua zilizo bora zaidi. Nitawaonyesha hatima ya wenye dhambi."
 
 وَكَتَبْنَا لَهُۥ فِى ٱلْأَلْوَاحِ مِن كُلِّ شَىْءٍۢ مَّوْعِظَةًۭ وَتَفْصِيلًۭا لِّكُلِّ شَىْءٍۢ فَخُذْهَا بِقُوَّةٍۢ وَأْمُرْ قَوْمَكَ يَأْخُذُوا۟ بِأَحْسَنِهَا ۚ سَأُو۟رِيكُمْ دَارَ ٱلْفَٰسِقِينَ
 
@@ -4626,15 +4626,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَٱتَّخَذَ قَوْمُ مُوسَىٰ مِنۢ بَعْدِهِۦ مِنْ حُلِيِّهِمْ عِجْلًۭا جَسَدًۭا لَّهُۥ خُوَارٌ ۚ أَلَمْ يَرَوْا۟ أَنَّهُۥ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا ۘ ٱتَّخَذُوهُ وَكَانُوا۟ ظَٰلِمِينَ
 
-**7:149** Kisha, walipojuta, na kutambua kwamba wamekosea, wakasema: “Isipokuwa Mola wetu Atatupa rehema Yake, na kutusamehe, tutakuwa miongoni mwa walioshindwa.”
+**7:149** Kisha, walipojuta, na kutambua kwamba wamekosea, wakasema: "Isipokuwa Mola wetu Atatupa rehema Yake, na kutusamehe, tutakuwa miongoni mwa walioshindwa."
 
 وَلَمَّا سُقِطَ فِىٓ أَيْدِيهِمْ وَرَأَوْا۟ أَنَّهُمْ قَدْ ضَلُّوا۟ قَالُوا۟ لَئِن لَّمْ يَرْحَمْنَا رَبُّنَا وَيَغْفِرْ لَنَا لَنَكُونَنَّ مِنَ ٱلْخَٰسِرِينَ
 
-**7:150** Na Musa aliporudi kwa watu wake, akiwa na hasira na kuhuzunika, akasema: “Ni jambo baya lililoje mlilofanya kwa kutokuwepo kwangu. Je, mliacha amri za Mola wenu haraka sana?” Na akazitupa mbao; na akamshika kichwa cha ndugu yake, akimvuta kuelekea kwake. Akasema: “Mwana wa mama yangu, watu wamenishinda kwa nguvu, na walikuwa karibu kuniua; basi usiwaache maadui wanchekelee, na usinihesabu miongoni mwa watu wadhalimu.”
+**7:150** Na Musa aliporudi kwa watu wake, akiwa na hasira na kuhuzunika, akasema: "Ni jambo baya lililoje mlilofanya kwa kutokuwepo kwangu. Je, mliacha amri za Mola wenu haraka sana?" Na akazitupa mbao; na akamshika kichwa cha ndugu yake, akimvuta kuelekea kwake. Akasema: "Mwana wa mama yangu, watu wamenishinda kwa nguvu, na walikuwa karibu kuniua; basi usiwaache maadui wanchekelee, na usinihesabu miongoni mwa watu wadhalimu."
 
 وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًۭا قَالَ بِئْسَمَا خَلَفْتُمُونِى مِنۢ بَعْدِىٓ ۖ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ ۖ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ إِلَيْهِ ۚ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
 
-**7:151** Akasema: “Mola wangu, nisamehe mimi na ndugu yangu, na utuingize katika rehema Yako; kwani Wewe ni Mwenye kurehemu zaidi kuliko wenye kurehemu.”
+**7:151** Akasema: "Mola wangu, nisamehe mimi na ndugu yangu, na utuingize katika rehema Yako; kwani Wewe ni Mwenye kurehemu zaidi kuliko wenye kurehemu."
 
 قَالَ رَبِّ ٱغْفِرْ لِى وَلِأَخِى وَأَدْخِلْنَا فِى رَحْمَتِكَ ۖ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ
 
@@ -4650,11 +4650,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَمَّا سَكَتَ عَن مُّوسَى ٱلْغَضَبُ أَخَذَ ٱلْأَلْوَاحَ ۖ وَفِى نُسْخَتِهَا هُدًۭى وَرَحْمَةٌۭ لِّلَّذِينَ هُمْ لِرَبِّهِمْ يَرْهَبُونَ
 
-**7:155** Na Musa alichagua kutoka kwa watu wake watu sabini kwa muda Wetu uliowekwa. Tetemeko lilipowapata, akasema: “Mola wangu, kama Ungetaka, Ungeliwaangamiza kabla, na mimi pia. Je, utatuangamiza kwa yale wapumbavu miongoni mwetu waliyofanya? Hili si ila jaribio Lako — kwayo Unampotosha yeyote Unayemtaka, na kumwongoza yeyote Unayemtaka. Wewe ni Mlinzi wetu, basi tusamehe, na utuhurumie. Wewe ni Mbora wa Wasamehevu.”
+**7:155** Na Musa alichagua kutoka kwa watu wake watu sabini kwa muda Wetu uliowekwa. Tetemeko lilipowapata, akasema: "Mola wangu, kama Ungetaka, Ungeliwaangamiza kabla, na mimi pia. Je, utatuangamiza kwa yale wapumbavu miongoni mwetu waliyofanya? Hili si ila jaribio Lako — kwayo Unampotosha yeyote Unayemtaka, na kumwongoza yeyote Unayemtaka. Wewe ni Mlinzi wetu, basi tusamehe, na utuhurumie. Wewe ni Mbora wa Wasamehevu."
 
 وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًۭا لِّمِيقَٰتِنَا ۖ فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّٰىَ ۖ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ مِنَّآ ۖ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ ۖ أَنتَ وَلِيُّنَا فَٱغْفِرْ لَنَا وَٱرْحَمْنَا ۖ وَأَنتَ خَيْرُ ٱلْغَٰفِرِينَ
 
-**7:156** “Na tuandikie wema duniani hapa, na Akhera. Tumekugeukia Wewe.” Akasema: “Adhabu Yangu — Naifikisha kwa yeyote Ninayemtaka, lakini rehema Yangu inakumbatia kila kitu. Nitaiweka maalum kwa wale wanaotenda kwa uadilifu na kutoa sadaka mara kwa mara, na wale wanaoamini ishara Zetu.”
+**7:156** "Na tuandikie wema duniani hapa, na Akhera. Tumekugeukia Wewe." Akasema: "Adhabu Yangu — Naifikisha kwa yeyote Ninayemtaka, lakini rehema Yangu inakumbatia kila kitu. Nitaiweka maalum kwa wale wanaotenda kwa uadilifu na kutoa sadaka mara kwa mara, na wale wanaoamini ishara Zetu."
 
 ۞ وَٱكْتُبْ لَنَا فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةًۭ وَفِى ٱلْءَاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ ۚ قَالَ عَذَابِىٓ أُصِيبُ بِهِۦ مَنْ أَشَآءُ ۖ وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍۢ ۚ فَسَأَكْتُبُهَا لِلَّذِينَ يَتَّقُونَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَٱلَّذِينَ هُم بِـَٔايَٰتِنَا يُؤْمِنُونَ
 
@@ -4662,7 +4662,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَٰلَ ٱلَّتِى كَانَتْ عَلَيْهِمْ ۚ فَٱلَّذِينَ ءَامَنُوا۟ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُوا۟ ٱلنُّورَ ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ ۙ أُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
 
-**7:158** Sema: “Enyi watu, mimi ni Mtume wa Allah kwenu nyote — Yeye Ambaye milki ya mbingu na ardhi ni Yake. Hakuna mungu ila Yeye. Anahuisha na Anasababisha kifo.” Basi mwaminini Allah na Mtume Wake, Nabii asiyesoma na kuandika, anayemwamini Allah na maneno Yake. Na mfuate, ili mpate kuongoka.
+**7:158** Sema: "Enyi watu, mimi ni Mtume wa Allah kwenu nyote — Yeye Ambaye milki ya mbingu na ardhi ni Yake. Hakuna mungu ila Yeye. Anahuisha na Anasababisha kifo." Basi mwaminini Allah na Mtume Wake, Nabii asiyesoma na kuandika, anayemwamini Allah na maneno Yake. Na mfuate, ili mpate kuongoka.
 
 قُلْ يَٰٓأَيُّهَا ٱلنَّاسُ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ جَمِيعًا ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ لَآ إِلَٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرَسُولِهِ ٱلنَّبِىِّ ٱلْأُمِّىِّ ٱلَّذِى يُؤْمِنُ بِٱللَّهِ وَكَلِمَٰتِهِۦ وَٱتَّبِعُوهُ لَعَلَّكُمْ تَهْتَدُونَ
 
@@ -4670,11 +4670,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمِن قَوْمِ مُوسَىٰٓ أُمَّةٌۭ يَهْدُونَ بِٱلْحَقِّ وَبِهِۦ يَعْدِلُونَ
 
-**7:160** Tukawagawa katika jamii kumi na mbili za kikabila. Na Tukamfunulia Musa, watu wake walipomwomba kitu cha kunywa: “Piga mwamba kwa fimbo yako.” Basi chemchemi kumi na mbili zikabubujika kutoka humo. Kila kundi lilitambua mahali pake pa kunywea. Na Tukawafunika kwa mawingu, na Tukawateremshia manna na kwale: “Kuleni vitu vizuri Tulivyowapa.” Hawakutudhulumu, lakini walikuwa wakijidhulumu nafsi zao.
+**7:160** Tukawagawa katika jamii kumi na mbili za kikabila. Na Tukamfunulia Musa, watu wake walipomwomba kitu cha kunywa: "Piga mwamba kwa fimbo yako." Basi chemchemi kumi na mbili zikabubujika kutoka humo. Kila kundi lilitambua mahali pake pa kunywea. Na Tukawafunika kwa mawingu, na Tukawateremshia manna na kwale: "Kuleni vitu vizuri Tulivyowapa." Hawakutudhulumu, lakini walikuwa wakijidhulumu nafsi zao.
 
 وَقَطَّعْنَٰهُمُ ٱثْنَتَىْ عَشْرَةَ أَسْبَاطًا أُمَمًۭا ۚ وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ إِذِ ٱسْتَسْقَىٰهُ قَوْمُهُۥٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ ۖ فَٱنۢبَجَسَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًۭا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍۢ مَّشْرَبَهُمْ ۚ وَظَلَّلْنَا عَلَيْهِمُ ٱلْغَمَٰمَ وَأَنزَلْنَا عَلَيْهِمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ ۖ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ ۚ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
 
-**7:161** Na ikaambiwa kwao: “Kaeni mji huu, na kuleni humo chochote mnachotaka, na semeni kwa unyenyekevu, na ingieni langoni kwa unyenyekevu — Tutawasamehe dhambi zenu, na Tutawakuza waadilifi.”
+**7:161** Na ikaambiwa kwao: "Kaeni mji huu, na kuleni humo chochote mnachotaka, na semeni kwa unyenyekevu, na ingieni langoni kwa unyenyekevu — Tutawasamehe dhambi zenu, na Tutawakuza waadilifi."
 
 وَإِذْ قِيلَ لَهُمُ ٱسْكُنُوا۟ هَٰذِهِ ٱلْقَرْيَةَ وَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ وَقُولُوا۟ حِطَّةٌۭ وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًۭا نَّغْفِرْ لَكُمْ خَطِيٓـَٰٔتِكُمْ ۚ سَنَزِيدُ ٱلْمُحْسِنِينَ
 
@@ -4686,7 +4686,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ
 
-**7:164** Na kundi lao liliposema: “Kwa nini mnawashauri watu ambao Allah Atawaangamiza, au kuwaadhibu kwa adhabu kali?” Wakasema: “Kama udhuru kwa Mola wenu, na ili wapate kuwa waadilifu.”
+**7:164** Na kundi lao liliposema: "Kwa nini mnawashauri watu ambao Allah Atawaangamiza, au kuwaadhibu kwa adhabu kali?" Wakasema: "Kama udhuru kwa Mola wenu, na ili wapate kuwa waadilifu."
 
 وَإِذْ قَالَتْ أُمَّةٌۭ مِّنْهُمْ لِمَ تَعِظُونَ قَوْمًا ۙ ٱللَّهُ مُهْلِكُهُمْ أَوْ مُعَذِّبُهُمْ عَذَابًۭا شَدِيدًۭا ۖ قَالُوا۟ مَعْذِرَةً إِلَىٰ رَبِّكُمْ وَلَعَلَّهُمْ يَتَّقُونَ
 
@@ -4694,7 +4694,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَلَمَّا نَسُوا۟ مَا ذُكِّرُوا۟ بِهِۦٓ أَنجَيْنَا ٱلَّذِينَ يَنْهَوْنَ عَنِ ٱلسُّوٓءِ وَأَخَذْنَا ٱلَّذِينَ ظَلَمُوا۟ بِعَذَابٍۭ بَـِٔيسٍۭ بِمَا كَانُوا۟ يَفْسُقُونَ
 
-**7:166** Kisha, walipoasi amri za kujizuia, Tukawaambia: “Kuweni nyani walioaibishwa.”
+**7:166** Kisha, walipoasi amri za kujizuia, Tukawaambia: "Kuweni nyani walioaibishwa."
 
 فَلَمَّا عَتَوْا۟ عَن مَّا نُهُوا۟ عَنْهُ قُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَٰسِـِٔينَ
 
@@ -4706,7 +4706,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَقَطَّعْنَٰهُمْ فِى ٱلْأَرْضِ أُمَمًۭا ۖ مِّنْهُمُ ٱلصَّٰلِحُونَ وَمِنْهُمْ دُونَ ذَٰلِكَ ۖ وَبَلَوْنَٰهُم بِٱلْحَسَنَٰتِ وَٱلسَّيِّـَٔاتِ لَعَلَّهُمْ يَرْجِعُونَ
 
-**7:169** Walifuatiwa na vizazi vilivyorithi Kitabu na kuchagua mali ya dunia hii, wakisema: “Tutasamehewa.” Na kama mali kama hizo zingekuja kwao, wangezichukua tena. Je, hawakufanya agano la kushika Kitabu, na kutokusema juu ya Allah ila haki? Je, hawakujifunza yaliyomo? Lakini Nyumba ya Akhera ni bora kwa wenye kucha; je, hamtaelewa?
+**7:169** Walifuatiwa na vizazi vilivyorithi Kitabu na kuchagua mali ya dunia hii, wakisema: "Tutasamehewa." Na kama mali kama hizo zingekuja kwao, wangezichukua tena. Je, hawakufanya agano la kushika Kitabu, na kutokusema juu ya Allah ila haki? Je, hawakujifunza yaliyomo? Lakini Nyumba ya Akhera ni bora kwa wenye kucha; je, hamtaelewa?
 
 فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌۭ وَرِثُوا۟ ٱلْكِتَٰبَ يَأْخُذُونَ عَرَضَ هَٰذَا ٱلْأَدْنَىٰ وَيَقُولُونَ سَيُغْفَرُ لَنَا وَإِن يَأْتِهِمْ عَرَضٌۭ مِّثْلُهُۥ يَأْخُذُوهُ ۚ أَلَمْ يُؤْخَذْ عَلَيْهِم مِّيثَٰقُ ٱلْكِتَٰبِ أَن لَّا يَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ وَدَرَسُوا۟ مَا فِيهِ ۗ وَٱلدَّارُ ٱلْءَاخِرَةُ خَيْرٌۭ لِّلَّذِينَ يَتَّقُونَ ۗ أَفَلَا تَعْقِلُونَ
 
@@ -4714,15 +4714,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَٱلَّذِينَ يُمَسِّكُونَ بِٱلْكِتَٰبِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ إِنَّا لَا نُضِيعُ أَجْرَ ٱلْمُصْلِحِينَ
 
-**7:171** Na Tulipounyanyua mlima juu yao, kama kwamba ulikuwa mwavuli, na wakadhani kwamba utaanguka juu yao: “Shikeni imara kile Tulichowapa, na kumbukeni yaliyomo, ili mpate kuokolewa.”
+**7:171** Na Tulipounyanyua mlima juu yao, kama kwamba ulikuwa mwavuli, na wakadhani kwamba utaanguka juu yao: "Shikeni imara kile Tulichowapa, na kumbukeni yaliyomo, ili mpate kuokolewa."
 
 ۞ وَإِذْ نَتَقْنَا ٱلْجَبَلَ فَوْقَهُمْ كَأَنَّهُۥ ظُلَّةٌۭ وَظَنُّوٓا۟ أَنَّهُۥ وَاقِعٌۢ بِهِمْ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍۢ وَٱذْكُرُوا۟ مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ
 
-**7:172** Na Mola wako Alipowaita wazao wa Adamu, na kuwafanya washuhudie juu ya nafsi zao. “Je, Mimi si Mola wenu?” Wakasema: “Ndio, tunashuhudia.” Hivyo hamwezi kusema Siku ya Ufufuo: “Hatukuwa tunajua hili.”
+**7:172** Na Mola wako Alipowaita wazao wa Adamu, na kuwafanya washuhudie juu ya nafsi zao. "Je, Mimi si Mola wenu?" Wakasema: "Ndio, tunashuhudia." Hivyo hamwezi kusema Siku ya Ufufuo: "Hatukuwa tunajua hili."
 
 وَإِذْ أَخَذَ رَبُّكَ مِنۢ بَنِىٓ ءَادَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰٓ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ ۖ قَالُوا۟ بَلَىٰ ۛ شَهِدْنَآ ۛ أَن تَقُولُوا۟ يَوْمَ ٱلْقِيَٰمَةِ إِنَّا كُنَّا عَنْ هَٰذَا غَٰفِلِينَ
 
-**7:173** Wala hamwezi Kusema: “Mababu zetu walifanya ushirikina kabla; na sisi ni wazao wao waliokuja baada yao; je, utatuangamiza kwa yale wazushi waliyofanya?”
+**7:173** Wala hamwezi Kusema: "Mababu zetu walifanya ushirikina kabla; na sisi ni wazao wao waliokuja baada yao; je, utatuangamiza kwa yale wazushi waliyofanya?"
 
 أَوْ تَقُولُوٓا۟ إِنَّمَآ أَشْرَكَ ءَابَآؤُنَا مِن قَبْلُ وَكُنَّا ذُرِّيَّةًۭ مِّنۢ بَعْدِهِمْ ۖ أَفَتُهْلِكُنَا بِمَا فَعَلَ ٱلْمُبْطِلُونَ
 
@@ -4778,15 +4778,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 مَن يُضْلِلِ ٱللَّهُ فَلَا هَادِىَ لَهُۥ ۚ وَيَذَرُهُمْ فِى طُغْيَٰنِهِمْ يَعْمَهُونَ
 
-**7:187** Watakuuliza kuhusu Saa: “Itakuja lini?” Sema: “Ujuzi wake uko kwa Mola wangu. Hakuna awezaye kufunua kuja kwake ila Yeye. Inalemewa mbinguni na duniani. Haitawafikia ila ghafla.” Wanakuuliza kama kwamba wewe ndio una wajibu wake. Sema: “Ujuzi wake uko kwa Allah,” lakini watu wengi hawajui.
+**7:187** Watakuuliza kuhusu Saa: "Itakuja lini?" Sema: "Ujuzi wake uko kwa Mola wangu. Hakuna awezaye kufunua kuja kwake ila Yeye. Inalemewa mbinguni na duniani. Haitawafikia ila ghafla." Wanakuuliza kama kwamba wewe ndio una wajibu wake. Sema: "Ujuzi wake uko kwa Allah," lakini watu wengi hawajui.
 
 يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ رَبِّى ۖ لَا يُجَلِّيهَا لِوَقْتِهَآ إِلَّا هُوَ ۚ ثَقُلَتْ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ لَا تَأْتِيكُمْ إِلَّا بَغْتَةًۭ ۗ يَسْـَٔلُونَكَ كَأَنَّكَ حَفِىٌّ عَنْهَا ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
-**7:188** Sema: “Sina udhibiti wowote wa faida au madhara kwa nafsi yangu, isipokuwa kama Allah Anavyotaka. Kama ningekuwa ninajua yajayo, ningepata mema mengi, na hakuna madhara yoyote yangeweza kunigusa. Mimi si ila mwonyaji, na mbashiri wa habari njema kwa watu wanaoamini.”
+**7:188** Sema: "Sina udhibiti wowote wa faida au madhara kwa nafsi yangu, isipokuwa kama Allah Anavyotaka. Kama ningekuwa ninajua yajayo, ningepata mema mengi, na hakuna madhara yoyote yangeweza kunigusa. Mimi si ila mwonyaji, na mbashiri wa habari njema kwa watu wanaoamini."
 
 قُل لَّآ أَمْلِكُ لِنَفْسِى نَفْعًۭا وَلَا ضَرًّا إِلَّا مَا شَآءَ ٱللَّهُ ۚ وَلَوْ كُنتُ أَعْلَمُ ٱلْغَيْبَ لَٱسْتَكْثَرْتُ مِنَ ٱلْخَيْرِ وَمَا مَسَّنِىَ ٱلسُّوٓءُ ۚ إِنْ أَنَا۠ إِلَّا نَذِيرٌۭ وَبَشِيرٌۭ لِّقَوْمٍۢ يُؤْمِنُونَ
 
-**7:189** Ni Yeye Aliyewaumba kutoka kwa mtu mmoja, na akafanya kutoka kwake mwenzi wake, ili apate faraja naye. Kisha, alipomfunika, hubeba mimba nyepesi, na hubeba karibu. Lakini anapokuwa mzito, wanaomba Allah Mola wao: “Ukitupa mtoto mwema, tutakuwa miongoni mwa wanaoshukuru.”
+**7:189** Ni Yeye Aliyewaumba kutoka kwa mtu mmoja, na akafanya kutoka kwake mwenzi wake, ili apate faraja naye. Kisha, alipomfunika, hubeba mimba nyepesi, na hubeba karibu. Lakini anapokuwa mzito, wanaomba Allah Mola wao: "Ukitupa mtoto mwema, tutakuwa miongoni mwa wanaoshukuru."
 
 ۞ هُوَ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍۢ وَٰحِدَةٍۢ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا ۖ فَلَمَّا تَغَشَّىٰهَا حَمَلَتْ حَمْلًا خَفِيفًۭا فَمَرَّتْ بِهِۦ ۖ فَلَمَّآ أَثْقَلَت دَّعَوَا ٱللَّهَ رَبَّهُمَا لَئِنْ ءَاتَيْتَنَا صَٰلِحًۭا لَّنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
 
@@ -4810,11 +4810,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنَّ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ عِبَادٌ أَمْثَالُكُمْ ۖ فَٱدْعُوهُمْ فَلْيَسْتَجِيبُوا۟ لَكُمْ إِن كُنتُمْ صَٰدِقِينَ
 
-**7:195** Je, wana miguu wanayotembea nayo? Au wana mikono wanayopiga nayo? Au wana macho wanayoona nayo? Au wana masikio wanayosikia nayo? Sema: “Waombeni washirika wenu, kisha nipangieni hila, na msingoje.”
+**7:195** Je, wana miguu wanayotembea nayo? Au wana mikono wanayopiga nayo? Au wana macho wanayoona nayo? Au wana masikio wanayosikia nayo? Sema: "Waombeni washirika wenu, kisha nipangieni hila, na msingoje."
 
 أَلَهُمْ أَرْجُلٌۭ يَمْشُونَ بِهَآ ۖ أَمْ لَهُمْ أَيْدٍۢ يَبْطِشُونَ بِهَآ ۖ أَمْ لَهُمْ أَعْيُنٌۭ يُبْصِرُونَ بِهَآ ۖ أَمْ لَهُمْ ءَاذَانٌۭ يَسْمَعُونَ بِهَا ۗ قُلِ ٱدْعُوا۟ شُرَكَآءَكُمْ ثُمَّ كِيدُونِ فَلَا تُنظِرُونِ
 
-**7:196** “Mmiliki wangu ni Allah, Ambaye Ameteremsha Kitabu, na Yeye Huwatunza waadilifu.”
+**7:196** "Mmiliki wangu ni Allah, Ambaye Ameteremsha Kitabu, na Yeye Huwatunza waadilifu."
 
 إِنَّ وَلِۦِّىَ ٱللَّهُ ٱلَّذِى نَزَّلَ ٱلْكِتَٰبَ ۖ وَهُوَ يَتَوَلَّى ٱلصَّٰلِحِينَ
 
@@ -4842,7 +4842,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَإِخْوَٰنُهُمْ يَمُدُّونَهُمْ فِى ٱلْغَىِّ ثُمَّ لَا يُقْصِرُونَ
 
-**7:203** Ikiwa hutawazalisha ishara, wanasema: “Kwa nini usiibuni moja.” Sema: “Ninafuata tu kile kinachofunuliwa kwangu kutoka kwa Mola wangu.” Hizi ni ufahamu kutoka kwa Mola wenu, na uongofu, na rehema, kwa watu wanaoamini.
+**7:203** Ikiwa hutawazalisha ishara, wanasema: "Kwa nini usiibuni moja." Sema: "Ninafuata tu kile kinachofunuliwa kwangu kutoka kwa Mola wangu." Hizi ni ufahamu kutoka kwa Mola wenu, na uongofu, na rehema, kwa watu wanaoamini.
 
 وَإِذَا لَمْ تَأْتِهِم بِـَٔايَةٍۢ قَالُوا۟ لَوْلَا ٱجْتَبَيْتَهَا ۚ قُلْ إِنَّمَآ أَتَّبِعُ مَا يُوحَىٰٓ إِلَىَّ مِن رَّبِّى ۚ هَٰذَا بَصَآئِرُ مِن رَّبِّكُمْ وَهُدًۭى وَرَحْمَةٌۭ لِّقَوْمٍۢ يُؤْمِنُونَ
 
@@ -4872,7 +4872,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 *Kwa jina la Allah, Mwingi wa rehema, Mwenye kurehemu*
 
-**8:1** Watakuuliza kuhusu ngawira. Sema: “Ngawira ni za Allah na Mtume.” Basi mcheni Allah, na tengenezeni tofauti zenu, na mtiini Allah na Mtume Wake, ikiwa ni waumini.
+**8:1** Watakuuliza kuhusu ngawira. Sema: "Ngawira ni za Allah na Mtume." Basi mcheni Allah, na tengenezeni tofauti zenu, na mtiini Allah na Mtume Wake, ikiwa ni waumini.
 
 يَسْـَٔلُونَكَ عَنِ ٱلْأَنفَالِ ۖ قُلِ ٱلْأَنفَالُ لِلَّهِ وَٱلرَّسُولِ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَصْلِحُوا۟ ذَاتَ بَيْنِكُمْ ۖ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤْمِنِينَ
 
@@ -4896,7 +4896,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 يُجَٰدِلُونَكَ فِى ٱلْحَقِّ بَعْدَمَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ إِلَى ٱلْمَوْتِ وَهُمْ يَنظُرُونَ
 
-**8:7** Allah Aliwaahidi moja ya makundi mawili — kwamba litakuwa lenu — lakini mlikuwa mkitaka kundi lisilo na silaha liwe lenu. Allah Anakusudia kuthibitisha haki kwa maneno Yake, na kuwang’oa makafiri.
+**8:7** Allah Aliwaahidi moja ya makundi mawili — kwamba litakuwa lenu — lakini mlikuwa mkitaka kundi lisilo na silaha liwe lenu. Allah Anakusudia kuthibitisha haki kwa maneno Yake, na kuwang'oa makafiri.
 
 وَإِذْ يَعِدُكُمُ ٱللَّهُ إِحْدَى ٱلطَّآئِفَتَيْنِ أَنَّهَا لَكُمْ وَتَوَدُّونَ أَنَّ غَيْرَ ذَاتِ ٱلشَّوْكَةِ تَكُونُ لَكُمْ وَيُرِيدُ ٱللَّهُ أَن يُحِقَّ ٱلْحَقَّ بِكَلِمَٰتِهِۦ وَيَقْطَعَ دَابِرَ ٱلْكَٰفِرِينَ
 
@@ -4904,7 +4904,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 لِيُحِقَّ ٱلْحَقَّ وَيُبْطِلَ ٱلْبَٰطِلَ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ
 
-**8:9** Mlipomwomba Mola wenu msaada, Aliwajibu: “Mimi Nawaimarisha kwa malaika elfu moja mfululizo.”
+**8:9** Mlipomwomba Mola wenu msaada, Aliwajibu: "Mimi Nawaimarisha kwa malaika elfu moja mfululizo."
 
 إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَٱسْتَجَابَ لَكُمْ أَنِّى مُمِدُّكُم بِأَلْفٍۢ مِّنَ ٱلْمَلَٰٓئِكَةِ مُرْدِفِينَ
 
@@ -4916,7 +4916,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِذْ يُغَشِّيكُمُ ٱلنُّعَاسَ أَمَنَةًۭ مِّنْهُ وَيُنَزِّلُ عَلَيْكُم مِّنَ ٱلسَّمَآءِ مَآءًۭ لِّيُطَهِّرَكُم بِهِۦ وَيُذْهِبَ عَنكُمْ رِجْزَ ٱلشَّيْطَٰنِ وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ ٱلْأَقْدَامَ
 
-**8:12** Mola wako Aliwafunulia malaika: “Mimi Nipo pamoja nanyi, basi waimarisheni walioamini. Nitawatia hofu mioyoni mwa waliokufuru. Basi wapigeni juu ya shingo, na wapigeni kila ncha ya vidole vyao.”
+**8:12** Mola wako Aliwafunulia malaika: "Mimi Nipo pamoja nanyi, basi waimarisheni walioamini. Nitawatia hofu mioyoni mwa waliokufuru. Basi wapigeni juu ya shingo, na wapigeni kila ncha ya vidole vyao."
 
 إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟ ۚ سَأُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟ مِنْهُمْ كُلَّ بَنَانٍۢ
 
@@ -4924,7 +4924,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ذَٰلِكَ بِأَنَّهُمْ شَآقُّوا۟ ٱللَّهَ وَرَسُولَهُۥ ۚ وَمَن يُشَاقِقِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
 
-**8:14** “Hii hapa; basi ionjeeni.” Kwa makafiri kuna adhabu ya Moto.
+**8:14** "Hii hapa; basi ionjeeni." Kwa makafiri kuna adhabu ya Moto.
 
 ذَٰلِكُمْ فَذُوقُوهُ وَأَنَّ لِلْكَٰفِرِينَ عَذَابَ ٱلنَّارِ
 
@@ -4952,7 +4952,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَوَلَّوْا۟ عَنْهُ وَأَنتُمْ تَسْمَعُونَ
 
-**8:21** Na msiwe kama wale wanaosema: “Tumesikia,” ilhali hawasikii.
+**8:21** Na msiwe kama wale wanaosema: "Tumesikia," ilhali hawasikii.
 
 وَلَا تَكُونُوا۟ كَٱلَّذِينَ قَالُوا۟ سَمِعْنَا وَهُمْ لَا يَسْمَعُونَ
 
@@ -4992,11 +4992,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَإِذْ يَمْكُرُ بِكَ ٱلَّذِينَ كَفَرُوا۟ لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ ۚ وَيَمْكُرُونَ وَيَمْكُرُ ٱللَّهُ ۖ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ
 
-**8:31** Na aya Zetu zinaposomwa kwao, wanasema: “Tumesikia. Kama tungetaka, tungesema kama haya; haya si chochote ila hadithi za watu wa kale.”
+**8:31** Na aya Zetu zinaposomwa kwao, wanasema: "Tumesikia. Kama tungetaka, tungesema kama haya; haya si chochote ila hadithi za watu wa kale."
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا قَالُوا۟ قَدْ سَمِعْنَا لَوْ نَشَآءُ لَقُلْنَا مِثْلَ هَٰذَآ ۙ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
-**8:32** Na walisema: “Mola wetu, ikiwa hii ndiyo haki kutoka Kwako, basi tunyeshee mawe kutoka mbinguni, au tuletee adhabu yenye uchungu.”
+**8:32** Na walisema: "Mola wetu, ikiwa hii ndiyo haki kutoka Kwako, basi tunyeshee mawe kutoka mbinguni, au tuletee adhabu yenye uchungu."
 
 وَإِذْ قَالُوا۟ ٱللَّهُمَّ إِن كَانَ هَٰذَا هُوَ ٱلْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةًۭ مِّنَ ٱلسَّمَآءِ أَوِ ٱئْتِنَا بِعَذَابٍ أَلِيمٍۢ
 
@@ -5060,19 +5060,19 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَا تَكُونُوا۟ كَٱلَّذِينَ خَرَجُوا۟ مِن دِيَٰرِهِم بَطَرًۭا وَرِئَآءَ ٱلنَّاسِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ ۚ وَٱللَّهُ بِمَا يَعْمَلُونَ مُحِيطٌۭ
 
-**8:48** Shetani aliwafanya matendo yao yaonekane mazuri kwao, na akasema: “Hamuwezi kushindwa na watu wowote leo, nami niko upande wenu.” Lakini majeshi mawili yalipoonana, aligeuka visigino vyake, na akasema: “Mimi sina uhusiano nanyi; naona msiyoyaona; namwogopa Allah; Allah ni Mkali wa kuadhibu.”
+**8:48** Shetani aliwafanya matendo yao yaonekane mazuri kwao, na akasema: "Hamuwezi kushindwa na watu wowote leo, nami niko upande wenu." Lakini majeshi mawili yalipoonana, aligeuka visigino vyake, na akasema: "Mimi sina uhusiano nanyi; naona msiyoyaona; namwogopa Allah; Allah ni Mkali wa kuadhibu."
 
 وَإِذْ زَيَّنَ لَهُمُ ٱلشَّيْطَٰنُ أَعْمَٰلَهُمْ وَقَالَ لَا غَالِبَ لَكُمُ ٱلْيَوْمَ مِنَ ٱلنَّاسِ وَإِنِّى جَارٌۭ لَّكُمْ ۖ فَلَمَّا تَرَآءَتِ ٱلْفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيْهِ وَقَالَ إِنِّى بَرِىٓءٌۭ مِّنكُمْ إِنِّىٓ أَرَىٰ مَا لَا تَرَوْنَ إِنِّىٓ أَخَافُ ٱللَّهَ ۚ وَٱللَّهُ شَدِيدُ ٱلْعِقَابِ
 
-**8:49** Wanafiki na wale wenye ugonjwa mioyoni mwao walisema: “Dini yao imewadanganya watu hawa.” Lakini yeyote anayemtegemea Allah — Allah ni Mwenye nguvu, Mwenye hekima.
+**8:49** Wanafiki na wale wenye ugonjwa mioyoni mwao walisema: "Dini yao imewadanganya watu hawa." Lakini yeyote anayemtegemea Allah — Allah ni Mwenye nguvu, Mwenye hekima.
 
 إِذْ يَقُولُ ٱلْمُنَٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ غَرَّ هَٰٓؤُلَآءِ دِينُهُمْ ۗ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَإِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌۭ
 
-**8:50** Laiti ungeweza kuona, malaika wanapowatoa wale waliokufuru, wakiwapiga nyuso zao na migongo yao: “Onjeni maumivu ya Kuungua.”
+**8:50** Laiti ungeweza kuona, malaika wanapowatoa wale waliokufuru, wakiwapiga nyuso zao na migongo yao: "Onjeni maumivu ya Kuungua."
 
 وَلَوْ تَرَىٰٓ إِذْ يَتَوَفَّى ٱلَّذِينَ كَفَرُوا۟ ۙ ٱلْمَلَٰٓئِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَٰرَهُمْ وَذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
 
-**8:51** “Hiyo ni kwa sababu ya yale mikono yenu iliyoyafanya, na kwa sababu Allah Si mdhalimu kwa watumishi.”
+**8:51** "Hiyo ni kwa sababu ya yale mikono yenu iliyoyafanya, na kwa sababu Allah Si mdhalimu kwa watumishi."
 
 ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّٰمٍۢ لِّلْعَبِيدِ
 
@@ -5148,7 +5148,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَكُلُوا۟ مِمَّا غَنِمْتُمْ حَلَٰلًۭا طَيِّبًۭا ۚ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ
 
-**8:70** Ewe nabii! Waambie wale unaowashikilia mateka: “Ikiwa Allah Ataona wema wowote mioyoni mwenu, Atawapa kilicho bora kuliko kile kilichochukuliwa kutoka kwenu, na Atawasamehe. Allah ni Mwenye kusamehe, Mwenye kurehemu.”
+**8:70** Ewe nabii! Waambie wale unaowashikilia mateka: "Ikiwa Allah Ataona wema wowote mioyoni mwenu, Atawapa kilicho bora kuliko kile kilichochukuliwa kutoka kwenu, na Atawasamehe. Allah ni Mwenye kusamehe, Mwenye kurehemu."
 
 يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّمَن فِىٓ أَيْدِيكُم مِّنَ ٱلْأَسْرَىٰٓ إِن يَعْلَمِ ٱللَّهُ فِى قُلُوبِكُمْ خَيْرًۭا يُؤْتِكُمْ خَيْرًۭا مِّمَّآ أُخِذَ مِنكُمْ وَيَغْفِرْ لَكُمْ ۗ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ
 
@@ -5272,7 +5272,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوٓا۟ ءَابَآءَكُمْ وَإِخْوَٰنَكُمْ أَوْلِيَآءَ إِنِ ٱسْتَحَبُّوا۟ ٱلْكُفْرَ عَلَى ٱلْإِيمَٰنِ ۚ وَمَن يَتَوَلَّهُم مِّنكُمْ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
 
-**9:24** Sema: “Ikiwa wazazi wenu, na watoto wenu, na ndugu zenu, na wake zenu, na jamaa zenu, na mali mliyoichuma, na biashara mnayoihofia, na nyumba mnazozipenda, ni wapenzi zaidi kwenu kuliko Allah, na Mtume Wake, na juhudi katika njia Yake, basi ngojeni mpaka Allah Atakapoleta hukumu Yake.” Allah Hawaongozi watu waasi.
+**9:24** Sema: "Ikiwa wazazi wenu, na watoto wenu, na ndugu zenu, na wake zenu, na jamaa zenu, na mali mliyoichuma, na biashara mnayoihofia, na nyumba mnazozipenda, ni wapenzi zaidi kwenu kuliko Allah, na Mtume Wake, na juhudi katika njia Yake, basi ngojeni mpaka Allah Atakapoleta hukumu Yake." Allah Hawaongozi watu waasi.
 
 قُلْ إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَٰلٌ ٱقْتَرَفْتُمُوهَا وَتِجَٰرَةٌۭ تَخْشَوْنَ كَسَادَهَا وَمَسَٰكِنُ تَرْضَوْنَهَآ أَحَبَّ إِلَيْكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٍۢ فِى سَبِيلِهِۦ فَتَرَبَّصُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ بِأَمْرِهِۦ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 
@@ -5296,7 +5296,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 قَٰتِلُوا۟ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْءَاخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلْحَقِّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حَتَّىٰ يُعْطُوا۟ ٱلْجِزْيَةَ عَن يَدٍۢ وَهُمْ صَٰغِرُونَ
 
-**9:30** Mayahudi walisema: “Uzayri ni mwana wa Allah,” na Wakristo walisema: “Masihi ni mwana wa Allah.” Hayo ndiyo maneno yao, kutoka vinywani mwao. Wanaiga maneno ya wale waliokufuru kabla. Allah Awashambulie! Wamedanganywa kiasi gani!
+**9:30** Mayahudi walisema: "Uzayri ni mwana wa Allah," na Wakristo walisema: "Masihi ni mwana wa Allah." Hayo ndiyo maneno yao, kutoka vinywani mwao. Wanaiga maneno ya wale waliokufuru kabla. Allah Awashambulie! Wamedanganywa kiasi gani!
 
 وَقَالَتِ ٱلْيَهُودُ عُزَيْرٌ ٱبْنُ ٱللَّهِ وَقَالَتِ ٱلنَّصَٰرَى ٱلْمَسِيحُ ٱبْنُ ٱللَّهِ ۖ ذَٰلِكَ قَوْلُهُم بِأَفْوَٰهِهِمْ ۖ يُضَٰهِـُٔونَ قَوْلَ ٱلَّذِينَ كَفَرُوا۟ مِن قَبْلُ ۚ قَٰتَلَهُمُ ٱللَّهُ ۚ أَنَّىٰ يُؤْفَكُونَ
 
@@ -5316,7 +5316,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ كَثِيرًۭا مِّنَ ٱلْأَحْبَارِ وَٱلرُّهْبَانِ لَيَأْكُلُونَ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ ۗ وَٱلَّذِينَ يَكْنِزُونَ ٱلذَّهَبَ وَٱلْفِضَّةَ وَلَا يُنفِقُونَهَا فِى سَبِيلِ ٱللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍۢ
 
-**9:35** Siku ambayo zitatiwa moto katika Moto wa Jahannamu, kisha paji za nyuso zao, na mbavu zao, na migongo yao itachomwa nazo: “Hii ndiyo mliyoizoa kwa nafsi zenu; basi onjeni mliyozoa.”
+**9:35** Siku ambayo zitatiwa moto katika Moto wa Jahannamu, kisha paji za nyuso zao, na mbavu zao, na migongo yao itachomwa nazo: "Hii ndiyo mliyoizoa kwa nafsi zenu; basi onjeni mliyozoa."
 
 يَوْمَ يُحْمَىٰ عَلَيْهَا فِى نَارِ جَهَنَّمَ فَتُكْوَىٰ بِهَا جِبَاهُهُمْ وَجُنُوبُهُمْ وَظُهُورُهُمْ ۖ هَٰذَا مَا كَنَزْتُمْ لِأَنفُسِكُمْ فَذُوقُوا۟ مَا كُنتُمْ تَكْنِزُونَ
 
@@ -5328,7 +5328,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنَّمَا ٱلنَّسِىٓءُ زِيَادَةٌۭ فِى ٱلْكُفْرِ ۖ يُضَلُّ بِهِ ٱلَّذِينَ كَفَرُوا۟ يُحِلُّونَهُۥ عَامًۭا وَيُحَرِّمُونَهُۥ عَامًۭا لِّيُوَاطِـُٔوا۟ عِدَّةَ مَا حَرَّمَ ٱللَّهُ فَيُحِلُّوا۟ مَا حَرَّمَ ٱللَّهُ ۚ زُيِّنَ لَهُمْ سُوٓءُ أَعْمَٰلِهِمْ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ
 
-**9:38** Enyi mlioamini! Kuna nini kwenu, mnapoambiwa: “Hamasisheni katika njia ya Allah,” mnalemewa na ardhi? Je, mnaridhika na maisha ya sasa kuliko Akhera? Starehe ya maisha ya sasa, ikilinganishwa na Akhera, ni ndogo tu.
+**9:38** Enyi mlioamini! Kuna nini kwenu, mnapoambiwa: "Hamasisheni katika njia ya Allah," mnalemewa na ardhi? Je, mnaridhika na maisha ya sasa kuliko Akhera? Starehe ya maisha ya sasa, ikilinganishwa na Akhera, ni ndogo tu.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَا لَكُمْ إِذَا قِيلَ لَكُمُ ٱنفِرُوا۟ فِى سَبِيلِ ٱللَّهِ ٱثَّاقَلْتُمْ إِلَى ٱلْأَرْضِ ۚ أَرَضِيتُم بِٱلْحَيَوٰةِ ٱلدُّنْيَا مِنَ ٱلْءَاخِرَةِ ۚ فَمَا مَتَٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا فِى ٱلْءَاخِرَةِ إِلَّا قَلِيلٌ
 
@@ -5336,7 +5336,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِلَّا تَنفِرُوا۟ يُعَذِّبْكُمْ عَذَابًا أَلِيمًۭا وَيَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ وَلَا تَضُرُّوهُ شَيْـًۭٔا ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ
 
-**9:40** Ikiwa hamtamsaidia, Allah Tayari Amemsaidia, wakati wale waliokufuru walipomfukuza, na alikuwa wa pili kati ya wawili pangoni. Alimwambia rafiki yake: “Usiogope, Allah Yupo pamoja nasi.” Na Allah Akamteremshia utulivu Wake, na Akamsaidia kwa majeshi ambayo hamkuyaona, na Akalifanya neno la wale waliokufuru liwe la chini, ilhali Neno la Allah ndilo la Juu. Allah ni Mwenye nguvu, Mwenye hekima.
+**9:40** Ikiwa hamtamsaidia, Allah Tayari Amemsaidia, wakati wale waliokufuru walipomfukuza, na alikuwa wa pili kati ya wawili pangoni. Alimwambia rafiki yake: "Usiogope, Allah Yupo pamoja nasi." Na Allah Akamteremshia utulivu Wake, na Akamsaidia kwa majeshi ambayo hamkuyaona, na Akalifanya neno la wale waliokufuru liwe la chini, ilhali Neno la Allah ndilo la Juu. Allah ni Mwenye nguvu, Mwenye hekima.
 
 إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا ۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍۢ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُوا۟ ٱلسُّفْلَىٰ ۗ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ
 
@@ -5344,7 +5344,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ٱنفِرُوا۟ خِفَافًۭا وَثِقَالًۭا وَجَٰهِدُوا۟ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ فِى سَبِيلِ ٱللَّهِ ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
 
-**9:42** Kama faida ingekuwa ya haraka, na safari ingekuwa fupi zaidi, wangewafuata; lakini umbali ulionekana mrefu sana kwao. Bado wanaapa kwa Allah: “Kama tungeweza, tungetoka nanyi.” Wanaziharibu nafsi zao, na Allah Anajua kwamba wanasema uongo.
+**9:42** Kama faida ingekuwa ya haraka, na safari ingekuwa fupi zaidi, wangewafuata; lakini umbali ulionekana mrefu sana kwao. Bado wanaapa kwa Allah: "Kama tungeweza, tungetoka nanyi." Wanaziharibu nafsi zao, na Allah Anajua kwamba wanasema uongo.
 
 لَوْ كَانَ عَرَضًۭا قَرِيبًۭا وَسَفَرًۭا قَاصِدًۭا لَّٱتَّبَعُوكَ وَلَٰكِنۢ بَعُدَتْ عَلَيْهِمُ ٱلشُّقَّةُ ۚ وَسَيَحْلِفُونَ بِٱللَّهِ لَوِ ٱسْتَطَعْنَا لَخَرَجْنَا مَعَكُمْ يُهْلِكُونَ أَنفُسَهُمْ وَٱللَّهُ يَعْلَمُ إِنَّهُمْ لَكَٰذِبُونَ
 
@@ -5360,7 +5360,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنَّمَا يَسْتَـْٔذِنُكَ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَٱرْتَابَتْ قُلُوبُهُمْ فَهُمْ فِى رَيْبِهِمْ يَتَرَدَّدُونَ
 
-**9:46** Kama wangetaka kuhamasika, wangefanya maandalizi kwa ajili yake; lakini Allah Alikichukia kushiriki kwao, basi Akawaweka nyuma, na ikaambiwa: “Kaeni nyuma pamoja na wanaokaa nyuma.”
+**9:46** Kama wangetaka kuhamasika, wangefanya maandalizi kwa ajili yake; lakini Allah Alikichukia kushiriki kwao, basi Akawaweka nyuma, na ikaambiwa: "Kaeni nyuma pamoja na wanaokaa nyuma."
 
 ۞ وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ لَأَعَدُّوا۟ لَهُۥ عُدَّةًۭ وَلَٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ ٱقْعُدُوا۟ مَعَ ٱلْقَٰعِدِينَ
 
@@ -5372,23 +5372,23 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 لَقَدِ ٱبْتَغَوُا۟ ٱلْفِتْنَةَ مِن قَبْلُ وَقَلَّبُوا۟ لَكَ ٱلْأُمُورَ حَتَّىٰ جَآءَ ٱلْحَقُّ وَظَهَرَ أَمْرُ ٱللَّهِ وَهُمْ كَٰرِهُونَ
 
-**9:49** Miongoni mwao kuna anayesema: “Niruhusu, na usinitie matatizoni.” Kwa kweli, walitumbukia matatizoni. Kwa kweli, Jahannamu itawazunguka makafiri.
+**9:49** Miongoni mwao kuna anayesema: "Niruhusu, na usinitie matatizoni." Kwa kweli, walitumbukia matatizoni. Kwa kweli, Jahannamu itawazunguka makafiri.
 
 وَمِنْهُم مَّن يَقُولُ ٱئْذَن لِّى وَلَا تَفْتِنِّىٓ ۚ أَلَا فِى ٱلْفِتْنَةِ سَقَطُوا۟ ۗ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌۢ بِٱلْكَٰفِرِينَ
 
-**9:50** Ikiwa jambo zuri litakupata, linawahuzunisha; na ikiwa msiba utakupata, wanasema: “Tulichukua tahadhari yetu mapema,” na wanaondoka, wakiwa wenye furaha.
+**9:50** Ikiwa jambo zuri litakupata, linawahuzunisha; na ikiwa msiba utakupata, wanasema: "Tulichukua tahadhari yetu mapema," na wanaondoka, wakiwa wenye furaha.
 
 إِن تُصِبْكَ حَسَنَةٌۭ تَسُؤْهُمْ ۖ وَإِن تُصِبْكَ مُصِيبَةٌۭ يَقُولُوا۟ قَدْ أَخَذْنَآ أَمْرَنَا مِن قَبْلُ وَيَتَوَلَّوا۟ وَّهُمْ فَرِحُونَ
 
-**9:51** Sema: “Hakuna kitakachotupata isipokuwa kile Allah Alichotuandikia; Yeye ni Mlinzi wetu.” Kwa Allah waumini na wategemee.
+**9:51** Sema: "Hakuna kitakachotupata isipokuwa kile Allah Alichotuandikia; Yeye ni Mlinzi wetu." Kwa Allah waumini na wategemee.
 
 قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
 
-**9:52** Sema: “Je, mnatutarajia chochote isipokuwa moja ya mazuri mawili? Kuhusu sisi: tunatarajia kwamba Allah Atawaadhibu kwa adhabu kutoka Kwake, au kwa mikono yetu. Basi ngojeni, tunangoja nanyi.”
+**9:52** Sema: "Je, mnatutarajia chochote isipokuwa moja ya mazuri mawili? Kuhusu sisi: tunatarajia kwamba Allah Atawaadhibu kwa adhabu kutoka Kwake, au kwa mikono yetu. Basi ngojeni, tunangoja nanyi."
 
 قُلْ هَلْ تَرَبَّصُونَ بِنَآ إِلَّآ إِحْدَى ٱلْحُسْنَيَيْنِ ۖ وَنَحْنُ نَتَرَبَّصُ بِكُمْ أَن يُصِيبَكُمُ ٱللَّهُ بِعَذَابٍۢ مِّنْ عِندِهِۦٓ أَوْ بِأَيْدِينَا ۖ فَتَرَبَّصُوٓا۟ إِنَّا مَعَكُم مُّتَرَبِّصُونَ
 
-**9:53** Sema: “Ikiwa mnatoa kwa hiari au bila hiari, haitakubaliwa kutoka kwenu. Ni watu waovu.”
+**9:53** Sema: "Ikiwa mnatoa kwa hiari au bila hiari, haitakubaliwa kutoka kwenu. Ni watu waovu."
 
 قُلْ أَنفِقُوا۟ طَوْعًا أَوْ كَرْهًۭا لَّن يُتَقَبَّلَ مِنكُمْ ۖ إِنَّكُمْ كُنتُمْ قَوْمًۭا فَٰسِقِينَ
 
@@ -5412,7 +5412,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمِنْهُم مَّن يَلْمِزُكَ فِى ٱلصَّدَقَٰتِ فَإِنْ أُعْطُوا۟ مِنْهَا رَضُوا۟ وَإِن لَّمْ يُعْطَوْا۟ مِنْهَآ إِذَا هُمْ يَسْخَطُونَ
 
-**9:59** Laiti wangeridhika na kile Allah na Mtume Wake walichowapa, na kusema: “Allah Anatutosha; Allah Atatupa kutokana na fadhila Yake, na vivyo hivyo Mtume Wake; kwa Allah tunarudi kwa hamu.”
+**9:59** Laiti wangeridhika na kile Allah na Mtume Wake walichowapa, na kusema: "Allah Anatutosha; Allah Atatupa kutokana na fadhila Yake, na vivyo hivyo Mtume Wake; kwa Allah tunarudi kwa hamu."
 
 وَلَوْ أَنَّهُمْ رَضُوا۟ مَآ ءَاتَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ وَقَالُوا۟ حَسْبُنَا ٱللَّهُ سَيُؤْتِينَا ٱللَّهُ مِن فَضْلِهِۦ وَرَسُولُهُۥٓ إِنَّآ إِلَى ٱللَّهِ رَٰغِبُونَ
 
@@ -5420,7 +5420,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ۞ إِنَّمَا ٱلصَّدَقَٰتُ لِلْفُقَرَآءِ وَٱلْمَسَٰكِينِ وَٱلْعَٰمِلِينَ عَلَيْهَا وَٱلْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِى ٱلرِّقَابِ وَٱلْغَٰرِمِينَ وَفِى سَبِيلِ ٱللَّهِ وَٱبْنِ ٱلسَّبِيلِ ۖ فَرِيضَةًۭ مِّنَ ٱللَّهِ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ
 
-**9:61** Na miongoni mwao kuna wanaomtuhumu Nabii, na kusema: “Yeye ni masikio yote.” Sema: “Anasikiliza kwa faida yenu wenyewe. Anamwamini Allah, na anawaamini waumini, na ni rehema kwa wale miongoni mwenu wanaoamini.” Wale wanaomtuhumu Mtume wa Allah watapata adhabu yenye uchungu.
+**9:61** Na miongoni mwao kuna wanaomtuhumu Nabii, na kusema: "Yeye ni masikio yote." Sema: "Anasikiliza kwa faida yenu wenyewe. Anamwamini Allah, na anawaamini waumini, na ni rehema kwa wale miongoni mwenu wanaoamini." Wale wanaomtuhumu Mtume wa Allah watapata adhabu yenye uchungu.
 
 وَمِنْهُمُ ٱلَّذِينَ يُؤْذُونَ ٱلنَّبِىَّ وَيَقُولُونَ هُوَ أُذُنٌۭ ۚ قُلْ أُذُنُ خَيْرٍۢ لَّكُمْ يُؤْمِنُ بِٱللَّهِ وَيُؤْمِنُ لِلْمُؤْمِنِينَ وَرَحْمَةٌۭ لِّلَّذِينَ ءَامَنُوا۟ مِنكُمْ ۚ وَٱلَّذِينَ يُؤْذُونَ رَسُولَ ٱللَّهِ لَهُمْ عَذَابٌ أَلِيمٌۭ
 
@@ -5432,11 +5432,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَلَمْ يَعْلَمُوٓا۟ أَنَّهُۥ مَن يُحَادِدِ ٱللَّهَ وَرَسُولَهُۥ فَأَنَّ لَهُۥ نَارَ جَهَنَّمَ خَٰلِدًۭا فِيهَا ۚ ذَٰلِكَ ٱلْخِزْىُ ٱلْعَظِيمُ
 
-**9:64** Wanafiki wanaogopa kwamba sura inaweza kufunuliwa juu yao, ikiwajulisha yaliyo mioyoni mwao. Sema: “Endeleeni kudhihaki; Allah Ataleta yale mnayoogopa.”
+**9:64** Wanafiki wanaogopa kwamba sura inaweza kufunuliwa juu yao, ikiwajulisha yaliyo mioyoni mwao. Sema: "Endeleeni kudhihaki; Allah Ataleta yale mnayoogopa."
 
 يَحْذَرُ ٱلْمُنَٰفِقُونَ أَن تُنَزَّلَ عَلَيْهِمْ سُورَةٌۭ تُنَبِّئُهُم بِمَا فِى قُلُوبِهِمْ ۚ قُلِ ٱسْتَهْزِءُوٓا۟ إِنَّ ٱللَّهَ مُخْرِجٌۭ مَّا تَحْذَرُونَ
 
-**9:65** Ukiwauliza, watasema: “Tulikuwa tukitania na kucheza tu.” Sema: “Je, mlitania kuhusu Allah, aya Zake, na Mtume Wake?”
+**9:65** Ukiwauliza, watasema: "Tulikuwa tukitania na kucheza tu." Sema: "Je, mlitania kuhusu Allah, aya Zake, na Mtume Wake?"
 
 وَلَئِن سَأَلْتَهُمْ لَيَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلْعَبُ ۚ قُلْ أَبِٱللَّهِ وَءَايَٰتِهِۦ وَرَسُولِهِۦ كُنتُمْ تَسْتَهْزِءُونَ
 
@@ -5476,7 +5476,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 يَحْلِفُونَ بِٱللَّهِ مَا قَالُوا۟ وَلَقَدْ قَالُوا۟ كَلِمَةَ ٱلْكُفْرِ وَكَفَرُوا۟ بَعْدَ إِسْلَٰمِهِمْ وَهَمُّوا۟ بِمَا لَمْ يَنَالُوا۟ ۚ وَمَا نَقَمُوٓا۟ إِلَّآ أَنْ أَغْنَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ مِن فَضْلِهِۦ ۚ فَإِن يَتُوبُوا۟ يَكُ خَيْرًۭا لَّهُمْ ۖ وَإِن يَتَوَلَّوْا۟ يُعَذِّبْهُمُ ٱللَّهُ عَذَابًا أَلِيمًۭا فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ ۚ وَمَا لَهُمْ فِى ٱلْأَرْضِ مِن وَلِىٍّۢ وَلَا نَصِيرٍۢ
 
-**9:75** Miongoni mwao kuna wale waliomwahidi Allah: “Akitupa kutokana na fadhila Yake, tutatoa sadaka na kuwa miongoni mwa waadilifu.”
+**9:75** Miongoni mwao kuna wale waliomwahidi Allah: "Akitupa kutokana na fadhila Yake, tutatoa sadaka na kuwa miongoni mwa waadilifu."
 
 ۞ وَمِنْهُم مَّنْ عَٰهَدَ ٱللَّهَ لَئِنْ ءَاتَىٰنَا مِن فَضْلِهِۦ لَنَصَّدَّقَنَّ وَلَنَكُونَنَّ مِنَ ٱلصَّٰلِحِينَ
 
@@ -5500,7 +5500,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ٱسْتَغْفِرْ لَهُمْ أَوْ لَا تَسْتَغْفِرْ لَهُمْ إِن تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةًۭ فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ ذَٰلِكَ بِأَنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 
-**9:81** Wale waliobaki nyuma walifurahi kwa kubaki kwao nyuma ya Mtume wa Allah. Na walichukia kujitahidi kwa mali zao na maisha yao katika njia ya Allah. Na wakasema: “Msitoke kwenye joto.” Sema: “Moto wa Jahannamu ni mkali zaidi, laiti wangekuwa wanaelewa.”
+**9:81** Wale waliobaki nyuma walifurahi kwa kubaki kwao nyuma ya Mtume wa Allah. Na walichukia kujitahidi kwa mali zao na maisha yao katika njia ya Allah. Na wakasema: "Msitoke kwenye joto." Sema: "Moto wa Jahannamu ni mkali zaidi, laiti wangekuwa wanaelewa."
 
 فَرِحَ ٱلْمُخَلَّفُونَ بِمَقْعَدِهِمْ خِلَٰفَ رَسُولِ ٱللَّهِ وَكَرِهُوٓا۟ أَن يُجَٰهِدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ وَقَالُوا۟ لَا تَنفِرُوا۟ فِى ٱلْحَرِّ ۗ قُلْ نَارُ جَهَنَّمَ أَشَدُّ حَرًّۭا ۚ لَّوْ كَانُوا۟ يَفْقَهُونَ
 
@@ -5508,7 +5508,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَلْيَضْحَكُوا۟ قَلِيلًۭا وَلْيَبْكُوا۟ كَثِيرًۭا جَزَآءًۢ بِمَا كَانُوا۟ يَكْسِبُونَ
 
-**9:83** Ikiwa Allah Atakurudisha kwa kundi lao, nao wakakuomba ruhusa ya kutoka, sema: “Hamtatoka nami, kamwe, wala hamtapigana na adui yeyote nami. Mlikubali kukaa nyuma mara ya kwanza, basi kaeni nyuma pamoja na wanaokaa nyuma.”
+**9:83** Ikiwa Allah Atakurudisha kwa kundi lao, nao wakakuomba ruhusa ya kutoka, sema: "Hamtatoka nami, kamwe, wala hamtapigana na adui yeyote nami. Mlikubali kukaa nyuma mara ya kwanza, basi kaeni nyuma pamoja na wanaokaa nyuma."
 
 فَإِن رَّجَعَكَ ٱللَّهُ إِلَىٰ طَآئِفَةٍۢ مِّنْهُمْ فَٱسْتَـْٔذَنُوكَ لِلْخُرُوجِ فَقُل لَّن تَخْرُجُوا۟ مَعِىَ أَبَدًۭا وَلَن تُقَٰتِلُوا۟ مَعِىَ عَدُوًّا ۖ إِنَّكُمْ رَضِيتُم بِٱلْقُعُودِ أَوَّلَ مَرَّةٍۢ فَٱقْعُدُوا۟ مَعَ ٱلْخَٰلِفِينَ
 
@@ -5520,7 +5520,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَا تُعْجِبْكَ أَمْوَٰلُهُمْ وَأَوْلَٰدُهُمْ ۚ إِنَّمَا يُرِيدُ ٱللَّهُ أَن يُعَذِّبَهُم بِهَا فِى ٱلدُّنْيَا وَتَزْهَقَ أَنفُسُهُمْ وَهُمْ كَٰفِرُونَ
 
-**9:86** Sura inapofunuliwa, ikisema: “Mwaminini Allah na jitahidini pamoja na Mtume Wake,” maarufu miongoni mwao wanakuomba ruhusa. Wanasema: “Turuhusu tukae na wanaokaa nyuma.”
+**9:86** Sura inapofunuliwa, ikisema: "Mwaminini Allah na jitahidini pamoja na Mtume Wake," maarufu miongoni mwao wanakuomba ruhusa. Wanasema: "Turuhusu tukae na wanaokaa nyuma."
 
 وَإِذَآ أُنزِلَتْ سُورَةٌ أَنْ ءَامِنُوا۟ بِٱللَّهِ وَجَٰهِدُوا۟ مَعَ رَسُولِهِ ٱسْتَـْٔذَنَكَ أُو۟لُوا۟ ٱلطَّوْلِ مِنْهُمْ وَقَالُوا۟ ذَرْنَا نَكُن مَّعَ ٱلْقَٰعِدِينَ
 
@@ -5544,7 +5544,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 لَّيْسَ عَلَى ٱلضُّعَفَآءِ وَلَا عَلَى ٱلْمَرْضَىٰ وَلَا عَلَى ٱلَّذِينَ لَا يَجِدُونَ مَا يُنفِقُونَ حَرَجٌ إِذَا نَصَحُوا۟ لِلَّهِ وَرَسُولِهِۦ ۚ مَا عَلَى ٱلْمُحْسِنِينَ مِن سَبِيلٍۢ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ
 
-**9:92** Wala kwa wale wanaokufikia, wakitamani wapande nawe, na ukasema: “Sina chochote cha kuwabeba.” Basi wakaondoka, macho yao yakitiririka machozi, wakihuzunika kwa kutopata njia ya kutoa.
+**9:92** Wala kwa wale wanaokufikia, wakitamani wapande nawe, na ukasema: "Sina chochote cha kuwabeba." Basi wakaondoka, macho yao yakitiririka machozi, wakihuzunika kwa kutopata njia ya kutoa.
 
 وَلَا عَلَى ٱلَّذِينَ إِذَا مَآ أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لَآ أَجِدُ مَآ أَحْمِلُكُمْ عَلَيْهِ تَوَلَّوا۟ وَّأَعْيُنُهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ حَزَنًا أَلَّا يَجِدُوا۟ مَا يُنفِقُونَ
 
@@ -5552,7 +5552,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ۞ إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَسْتَـْٔذِنُونَكَ وَهُمْ أَغْنِيَآءُ ۚ رَضُوا۟ بِأَن يَكُونُوا۟ مَعَ ٱلْخَوَالِفِ وَطَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَعْلَمُونَ
 
-**9:94** Wanatoa udhuru kwenu mnaporudi kwao. Sema: “Msitoe udhuru; hatuwaamini; Allah Ametujulisha kuhusu ninyi. Na Allah Ataona matendo yenu, na vivyo hivyo Mtume; kisha mtarudishwa kwa Mjuzi wa Yasiyoonekana na Yanayoonekana, na Atawajulisha mliyokuwa mkifanya.”
+**9:94** Wanatoa udhuru kwenu mnaporudi kwao. Sema: "Msitoe udhuru; hatuwaamini; Allah Ametujulisha kuhusu ninyi. Na Allah Ataona matendo yenu, na vivyo hivyo Mtume; kisha mtarudishwa kwa Mjuzi wa Yasiyoonekana na Yanayoonekana, na Atawajulisha mliyokuwa mkifanya."
 
 يَعْتَذِرُونَ إِلَيْكُمْ إِذَا رَجَعْتُمْ إِلَيْهِمْ ۚ قُل لَّا تَعْتَذِرُوا۟ لَن نُّؤْمِنَ لَكُمْ قَدْ نَبَّأَنَا ٱللَّهُ مِنْ أَخْبَارِكُمْ ۚ وَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ ثُمَّ تُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 
@@ -5596,7 +5596,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ هُوَ يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَأْخُذُ ٱلصَّدَقَٰتِ وَأَنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
-**9:105** Sema: “Fanyeni kazi. Allah Ataona kazi yenu, na vivyo hivyo Mtume Wake, na waumini. Kisha mtarudishwa kwa Mjuzi wa siri na matamko, na Atawajulisha mliyokuwa mkifanya.”
+**9:105** Sema: "Fanyeni kazi. Allah Ataona kazi yenu, na vivyo hivyo Mtume Wake, na waumini. Kisha mtarudishwa kwa Mjuzi wa siri na matamko, na Atawajulisha mliyokuwa mkifanya."
 
 وَقُلِ ٱعْمَلُوا۟ فَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ وَٱلْمُؤْمِنُونَ ۖ وَسَتُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 
@@ -5604,7 +5604,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَءَاخَرُونَ مُرْجَوْنَ لِأَمْرِ ٱللَّهِ إِمَّا يُعَذِّبُهُمْ وَإِمَّا يَتُوبُ عَلَيْهِمْ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ
 
-**9:107** Kisha kuna wale wanaoanzisha msikiti ili kusababisha madhara, na ukafiri, na utengano kati ya waumini, na kama ngome kwa wale wanaopigana na Allah na Mtume Wake. Wataapa: “Nia zetu si chochote ila nzuri.” Lakini Allah Anashuhudia kwamba wao ni waongo.
+**9:107** Kisha kuna wale wanaoanzisha msikiti ili kusababisha madhara, na ukafiri, na utengano kati ya waumini, na kama ngome kwa wale wanaopigana na Allah na Mtume Wake. Wataapa: "Nia zetu si chochote ila nzuri." Lakini Allah Anashuhudia kwamba wao ni waongo.
 
 وَٱلَّذِينَ ٱتَّخَذُوا۟ مَسْجِدًۭا ضِرَارًۭا وَكُفْرًۭا وَتَفْرِيقًۢا بَيْنَ ٱلْمُؤْمِنِينَ وَإِرْصَادًۭا لِّمَنْ حَارَبَ ٱللَّهَ وَرَسُولَهُۥ مِن قَبْلُ ۚ وَلَيَحْلِفُنَّ إِنْ أَرَدْنَآ إِلَّا ٱلْحُسْنَىٰ ۖ وَٱللَّهُ يَشْهَدُ إِنَّهُمْ لَكَٰذِبُونَ
 
@@ -5672,7 +5672,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قَٰتِلُوا۟ ٱلَّذِينَ يَلُونَكُم مِّنَ ٱلْكُفَّارِ وَلْيَجِدُوا۟ فِيكُمْ غِلْظَةًۭ ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ
 
-**9:124** Sura inapofunuliwa, baadhi yao husema: “Ni nani miongoni mwenu ambaye hii imemwongezea imani?” Kuhusu wale walioamini: inawaongezea imani, na wanafurahi.
+**9:124** Sura inapofunuliwa, baadhi yao husema: "Ni nani miongoni mwenu ambaye hii imemwongezea imani?" Kuhusu wale walioamini: inawaongezea imani, na wanafurahi.
 
 وَإِذَا مَآ أُنزِلَتْ سُورَةٌۭ فَمِنْهُم مَّن يَقُولُ أَيُّكُمْ زَادَتْهُ هَٰذِهِۦٓ إِيمَٰنًۭا ۚ فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ فَزَادَتْهُمْ إِيمَٰنًۭا وَهُمْ يَسْتَبْشِرُونَ
 
@@ -5684,7 +5684,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَوَلَا يَرَوْنَ أَنَّهُمْ يُفْتَنُونَ فِى كُلِّ عَامٍۢ مَّرَّةً أَوْ مَرَّتَيْنِ ثُمَّ لَا يَتُوبُونَ وَلَا هُمْ يَذَّكَّرُونَ
 
-**9:127** Na sura inapofunuliwa, wanatazamana: “Je, kuna mtu anayewaona?” Kisha wanaondoka. Allah Ameigeuza mioyo yao, kwa sababu wao ni watu wasioelewa.
+**9:127** Na sura inapofunuliwa, wanatazamana: "Je, kuna mtu anayewaona?" Kisha wanaondoka. Allah Ameigeuza mioyo yao, kwa sababu wao ni watu wasioelewa.
 
 وَإِذَا مَآ أُنزِلَتْ سُورَةٌۭ نَّظَرَ بَعْضُهُمْ إِلَىٰ بَعْضٍ هَلْ يَرَىٰكُم مِّنْ أَحَدٍۢ ثُمَّ ٱنصَرَفُوا۟ ۚ صَرَفَ ٱللَّهُ قُلُوبَهُم بِأَنَّهُمْ قَوْمٌۭ لَّا يَفْقَهُونَ
 
@@ -5692,7 +5692,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 لَقَدْ جَآءَكُمْ رَسُولٌۭ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِٱلْمُؤْمِنِينَ رَءُوفٌۭ رَّحِيمٌۭ
 
-**9:129** Wakigeuka, sema: “Allah Ananitosha; hakuna mungu ila Yeye; Kwake nimeweka tegemeo langu; Yeye ni Mola wa Kiti Kitukufu.”
+**9:129** Wakigeuka, sema: "Allah Ananitosha; hakuna mungu ila Yeye; Kwake nimeweka tegemeo langu; Yeye ni Mola wa Kiti Kitukufu."
 
 فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ
 
@@ -5712,7 +5712,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 الٓر ۚ تِلْكَ ءَايَٰتُ ٱلْكِتَٰبِ ٱلْحَكِيمِ
 
-**10:2** Je, ni ajabu kwa watu kwamba tulimpa wahyi mtu miongoni mwao: “Waonye wanadamu, na uwape habari njema walioamini kwamba wamepata msimamo ulio imara kwa Mola wao”? Makafiri walisema, “Huyu ni mchawi wa wazi.”
+**10:2** Je, ni ajabu kwa watu kwamba tulimpa wahyi mtu miongoni mwao: "Waonye wanadamu, na uwape habari njema walioamini kwamba wamepata msimamo ulio imara kwa Mola wao"? Makafiri walisema, "Huyu ni mchawi wa wazi."
 
 أَكَانَ لِلنَّاسِ عَجَبًا أَنْ أَوْحَيْنَآ إِلَىٰ رَجُلٍۢ مِّنْهُمْ أَنْ أَنذِرِ ٱلنَّاسَ وَبَشِّرِ ٱلَّذِينَ ءَامَنُوٓا۟ أَنَّ لَهُمْ قَدَمَ صِدْقٍ عِندَ رَبِّهِمْ ۗ قَالَ ٱلْكَٰفِرُونَ إِنَّ هَٰذَا لَسَٰحِرٌۭ مُّبِينٌ
 
@@ -5744,7 +5744,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ يَهْدِيهِمْ رَبُّهُم بِإِيمَٰنِهِمْ ۖ تَجْرِى مِن تَحْتِهِمُ ٱلْأَنْهَٰرُ فِى جَنَّٰتِ ٱلنَّعِيمِ
 
-**10:10** Wito wao humo ni, “Utukufu ni wako, Ee Allah wetu.” Na salamu yao humo ni, “Amani.” Na mwisho wa wito wao ni, “Sifa zote ni za Allah, Mola wa walimwengu wote.”
+**10:10** Wito wao humo ni, "Utukufu ni wako, Ee Allah wetu." Na salamu yao humo ni, "Amani." Na mwisho wa wito wao ni, "Sifa zote ni za Allah, Mola wa walimwengu wote."
 
 دَعْوَىٰهُمْ فِيهَا سُبْحَٰنَكَ ٱللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا سَلَٰمٌۭ ۚ وَءَاخِرُ دَعْوَىٰهُمْ أَنِ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
@@ -5764,11 +5764,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ثُمَّ جَعَلْنَٰكُمْ خَلَٰٓئِفَ فِى ٱلْأَرْضِ مِنۢ بَعْدِهِمْ لِنَنظُرَ كَيْفَ تَعْمَلُونَ
 
-**10:15** Aya zetu zilizo wazi zikisomwa kwao, wale wasiotarajia kukutana nasi husema, “Leta Kurani nyingine tofauti na hii, au ibadili.” Sema, “Si juu yangu kuibadili kwa matakwa yangu mwenyewe. Mimi ninafuata tu niliyofunuliwa. Ninaogopa, nikimwasi Mola wangu, adhabu ya Siku kubwa yenye kutisha.”
+**10:15** Aya zetu zilizo wazi zikisomwa kwao, wale wasiotarajia kukutana nasi husema, "Leta Kurani nyingine tofauti na hii, au ibadili." Sema, "Si juu yangu kuibadili kwa matakwa yangu mwenyewe. Mimi ninafuata tu niliyofunuliwa. Ninaogopa, nikimwasi Mola wangu, adhabu ya Siku kubwa yenye kutisha."
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَاتُنَا بَيِّنَٰتٍۢ ۙ قَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا ٱئْتِ بِقُرْءَانٍ غَيْرِ هَٰذَآ أَوْ بَدِّلْهُ ۚ قُلْ مَا يَكُونُ لِىٓ أَنْ أُبَدِّلَهُۥ مِن تِلْقَآئِ نَفْسِىٓ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۖ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍۢ
 
-**10:16** Sema, “Kama Allah angetaka, nisingewasomea, wala asingewajulisha. Nimeishi kati yenu maisha yote kabla yake. Je, hamuelewi?”
+**10:16** Sema, "Kama Allah angetaka, nisingewasomea, wala asingewajulisha. Nimeishi kati yenu maisha yote kabla yake. Je, hamuelewi?"
 
 قُل لَّوْ شَآءَ ٱللَّهُ مَا تَلَوْتُهُۥ عَلَيْكُمْ وَلَآ أَدْرَىٰكُم بِهِۦ ۖ فَقَدْ لَبِثْتُ فِيكُمْ عُمُرًۭا مِّن قَبْلِهِۦٓ ۚ أَفَلَا تَعْقِلُونَ
 
@@ -5776,7 +5776,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِـَٔايَٰتِهِۦٓ ۚ إِنَّهُۥ لَا يُفْلِحُ ٱلْمُجْرِمُونَ
 
-**10:18** Huwaabudu, badala ya Allah, visivyowadhuru wala kuwafaa. Na husema, “Hawa ni waombezi wetu kwa Allah.” Sema, “Je, mnamjulisha Allah kuhusu asichokijua mbinguni wala ardhini?” Utukufu ni wake, ametukuka juu ya wanavyoshirikisha.
+**10:18** Huwaabudu, badala ya Allah, visivyowadhuru wala kuwafaa. Na husema, "Hawa ni waombezi wetu kwa Allah." Sema, "Je, mnamjulisha Allah kuhusu asichokijua mbinguni wala ardhini?" Utukufu ni wake, ametukuka juu ya wanavyoshirikisha.
 
 وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ وَيَقُولُونَ هَٰٓؤُلَآءِ شُفَعَٰٓؤُنَا عِندَ ٱللَّهِ ۚ قُلْ أَتُنَبِّـُٔونَ ٱللَّهَ بِمَا لَا يَعْلَمُ فِى ٱلسَّمَٰوَٰتِ وَلَا فِى ٱلْأَرْضِ ۚ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ
 
@@ -5784,15 +5784,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمَا كَانَ ٱلنَّاسُ إِلَّآ أُمَّةًۭ وَٰحِدَةًۭ فَٱخْتَلَفُوا۟ ۚ وَلَوْلَا كَلِمَةٌۭ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ فِيمَا فِيهِ يَخْتَلِفُونَ
 
-**10:20** Husema, “Laiti ishara ingeteremshwa kwake kutoka kwa Mola wake.” Sema, “Mambo yasiyoonekana ni ya Allah; basi subirin, mimi ninasubiri pamoja nanyi.”
+**10:20** Husema, "Laiti ishara ingeteremshwa kwake kutoka kwa Mola wake." Sema, "Mambo yasiyoonekana ni ya Allah; basi subirin, mimi ninasubiri pamoja nanyi."
 
 وَيَقُولُونَ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌۭ مِّن رَّبِّهِۦ ۖ فَقُلْ إِنَّمَا ٱلْغَيْبُ لِلَّهِ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ
 
-**10:21** Tunapowaonjesha watu rehema baada ya dhiki iliyowagusa, huanza kupanga hila dhidi ya aya zetu. Sema, “Allah ana kasi zaidi katika kupanga.” Watumwa wetu wanaandika mnayoyapanga.
+**10:21** Tunapowaonjesha watu rehema baada ya dhiki iliyowagusa, huanza kupanga hila dhidi ya aya zetu. Sema, "Allah ana kasi zaidi katika kupanga." Watumwa wetu wanaandika mnayoyapanga.
 
 وَإِذَآ أَذَقْنَا ٱلنَّاسَ رَحْمَةًۭ مِّنۢ بَعْدِ ضَرَّآءَ مَسَّتْهُمْ إِذَا لَهُم مَّكْرٌۭ فِىٓ ءَايَاتِنَا ۚ قُلِ ٱللَّهُ أَسْرَعُ مَكْرًا ۚ إِنَّ رُسُلَنَا يَكْتُبُونَ مَا تَمْكُرُونَ
 
-**10:22** Yeye ndiye anayewasafirisha katika nchi kavu na baharini. Mpaka mnapokuwa katika meli, zikienda kwa upepo mzuri, na mnafurahia, upepo mkali wenye dhoruba hufika. Mawimbi huwajia kutoka kila upande, na hutambua kwamba wamezingirwa. Hapo humwomba Allah, wakijitakasa katika kumwomba: “Ukituokoa katika hili, tutakuwa miongoni mwa wenye kushukuru.”
+**10:22** Yeye ndiye anayewasafirisha katika nchi kavu na baharini. Mpaka mnapokuwa katika meli, zikienda kwa upepo mzuri, na mnafurahia, upepo mkali wenye dhoruba hufika. Mawimbi huwajia kutoka kila upande, na hutambua kwamba wamezingirwa. Hapo humwomba Allah, wakijitakasa katika kumwomba: "Ukituokoa katika hili, tutakuwa miongoni mwa wenye kushukuru."
 
 هُوَ ٱلَّذِى يُسَيِّرُكُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ ۖ حَتَّىٰٓ إِذَا كُنتُمْ فِى ٱلْفُلْكِ وَجَرَيْنَ بِهِم بِرِيحٍۢ طَيِّبَةٍۢ وَفَرِحُوا۟ بِهَا جَآءَتْهَا رِيحٌ عَاصِفٌۭ وَجَآءَهُمُ ٱلْمَوْجُ مِن كُلِّ مَكَانٍۢ وَظَنُّوٓا۟ أَنَّهُمْ أُحِيطَ بِهِمْ ۙ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ لَئِنْ أَنجَيْتَنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
 
@@ -5816,11 +5816,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَٱلَّذِينَ كَسَبُوا۟ ٱلسَّيِّـَٔاتِ جَزَآءُ سَيِّئَةٍۭ بِمِثْلِهَا وَتَرْهَقُهُمْ ذِلَّةٌۭ ۖ مَّا لَهُم مِّنَ ٱللَّهِ مِنْ عَاصِمٍۢ ۖ كَأَنَّمَآ أُغْشِيَتْ وُجُوهُهُمْ قِطَعًۭا مِّنَ ٱلَّيْلِ مُظْلِمًا ۚ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
-**10:28** Siku tutakapowakusanya wote, kisha tutawaambia walioshirikisha, “Kuweni mahali penu, ninyi na washirika wenu.” Kisha tutawatenganisha kati yao, na washirika wao watasema, “Si sisi mliokuwa mkiwaabudu.”
+**10:28** Siku tutakapowakusanya wote, kisha tutawaambia walioshirikisha, "Kuweni mahali penu, ninyi na washirika wenu." Kisha tutawatenganisha kati yao, na washirika wao watasema, "Si sisi mliokuwa mkiwaabudu."
 
 وَيَوْمَ نَحْشُرُهُمْ جَمِيعًۭا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوا۟ مَكَانَكُمْ أَنتُمْ وَشُرَكَآؤُكُمْ ۚ فَزَيَّلْنَا بَيْنَهُمْ ۖ وَقَالَ شُرَكَآؤُهُم مَّا كُنتُمْ إِيَّانَا تَعْبُدُونَ
 
-**10:29** “Allah anatosha kuwa shahidi kati yetu na ninyi. Hatukujua kuwa mlikuwa mkituabudu.”
+**10:29** "Allah anatosha kuwa shahidi kati yetu na ninyi. Hatukujua kuwa mlikuwa mkituabudu."
 
 فَكَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنَنَا وَبَيْنَكُمْ إِن كُنَّا عَنْ عِبَادَتِكُمْ لَغَٰفِلِينَ
 
@@ -5828,7 +5828,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 هُنَالِكَ تَبْلُوا۟ كُلُّ نَفْسٍۢ مَّآ أَسْلَفَتْ ۚ وَرُدُّوٓا۟ إِلَى ٱللَّهِ مَوْلَىٰهُمُ ٱلْحَقِّ ۖ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ
 
-**10:31** Sema, “Ni nani anayewaruzuku kutoka mbinguni na ardhini? Na ni nani anayetawala kusikia na kuona? Na ni nani anayemtoa aliye hai kutoka kwa aliyekufa, na anayemtoa aliyekufa kutoka kwa aliye hai? Na ni nani anayeendesha mambo yote?” Watasema, “Allah.” Sema, “Je, hamjihadharini?”
+**10:31** Sema, "Ni nani anayewaruzuku kutoka mbinguni na ardhini? Na ni nani anayetawala kusikia na kuona? Na ni nani anayemtoa aliye hai kutoka kwa aliyekufa, na anayemtoa aliyekufa kutoka kwa aliye hai? Na ni nani anayeendesha mambo yote?" Watasema, "Allah." Sema, "Je, hamjihadharini?"
 
 قُلْ مَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ أَمَّن يَمْلِكُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَمَن يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَمَن يُدَبِّرُ ٱلْأَمْرَ ۚ فَسَيَقُولُونَ ٱللَّهُ ۚ فَقُلْ أَفَلَا تَتَّقُونَ
 
@@ -5840,11 +5840,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 كَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ فَسَقُوٓا۟ أَنَّهُمْ لَا يُؤْمِنُونَ
 
-**10:34** Sema, “Je, yuko miongoni mwa washirika wenu anayeweza kuanzisha uumbaji, kisha akaurejesha?” Sema, “Allah huanzisha uumbaji, kisha huurejesha. Mnadanganyika vipi hivyo?”
+**10:34** Sema, "Je, yuko miongoni mwa washirika wenu anayeweza kuanzisha uumbaji, kisha akaurejesha?" Sema, "Allah huanzisha uumbaji, kisha huurejesha. Mnadanganyika vipi hivyo?"
 
 قُلْ هَلْ مِن شُرَكَآئِكُم مَّن يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ۚ قُلِ ٱللَّهُ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ۖ فَأَنَّىٰ تُؤْفَكُونَ
 
-**10:35** Sema, “Je, yuko miongoni mwa washirika wenu anayeongoza kwenye ukweli?” Sema, “Allah huongoza kwenye ukweli. Je, anayeongoza kwenye ukweli anastahili zaidi kufuatwa, au asiyeongoza isipokuwa aongozwe mwenyewe? Mna nini? Mnahukumu vipi?”
+**10:35** Sema, "Je, yuko miongoni mwa washirika wenu anayeongoza kwenye ukweli?" Sema, "Allah huongoza kwenye ukweli. Je, anayeongoza kwenye ukweli anastahili zaidi kufuatwa, au asiyeongoza isipokuwa aongozwe mwenyewe? Mna nini? Mnahukumu vipi?"
 
 قُلْ هَلْ مِن شُرَكَآئِكُم مَّن يَهْدِىٓ إِلَى ٱلْحَقِّ ۚ قُلِ ٱللَّهُ يَهْدِى لِلْحَقِّ ۗ أَفَمَن يَهْدِىٓ إِلَى ٱلْحَقِّ أَحَقُّ أَن يُتَّبَعَ أَمَّن لَّا يَهِدِّىٓ إِلَّآ أَن يُهْدَىٰ ۖ فَمَا لَكُمْ كَيْفَ تَحْكُمُونَ
 
@@ -5856,7 +5856,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمَا كَانَ هَٰذَا ٱلْقُرْءَانُ أَن يُفْتَرَىٰ مِن دُونِ ٱللَّهِ وَلَٰكِن تَصْدِيقَ ٱلَّذِى بَيْنَ يَدَيْهِ وَتَفْصِيلَ ٱلْكِتَٰبِ لَا رَيْبَ فِيهِ مِن رَّبِّ ٱلْعَٰلَمِينَ
 
-**10:38** Au husema, “Ameitunga”? Sema, “Basi leteni sura moja mfano wake, na waiteni mnayeweza, badala ya Allah, ikiwa ninyi ni wakweli.”
+**10:38** Au husema, "Ameitunga"? Sema, "Basi leteni sura moja mfano wake, na waiteni mnayeweza, badala ya Allah, ikiwa ninyi ni wakweli."
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِسُورَةٍۢ مِّثْلِهِۦ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -5868,7 +5868,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمِنْهُم مَّن يُؤْمِنُ بِهِۦ وَمِنْهُم مَّن لَّا يُؤْمِنُ بِهِۦ ۚ وَرَبُّكَ أَعْلَمُ بِٱلْمُفْسِدِينَ
 
-**10:41** Wakikukadhibisha, sema, “Mimi nina matendo yangu, nanyi nina matendo yenu. Hamhusiki na ninayoyafanya, nami sihusiki na mnayoyafanya.”
+**10:41** Wakikukadhibisha, sema, "Mimi nina matendo yangu, nanyi nina matendo yenu. Hamhusiki na ninayoyafanya, nami sihusiki na mnayoyafanya."
 
 وَإِن كَذَّبُوكَ فَقُل لِّى عَمَلِى وَلَكُمْ عَمَلُكُمْ ۖ أَنتُم بَرِيٓـُٔونَ مِمَّآ أَعْمَلُ وَأَنَا۠ بَرِىٓءٌۭ مِّمَّا تَعْمَلُونَ
 
@@ -5896,27 +5896,27 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلِكُلِّ أُمَّةٍۢ رَّسُولٌۭ ۖ فَإِذَا جَآءَ رَسُولُهُمْ قُضِىَ بَيْنَهُم بِٱلْقِسْطِ وَهُمْ لَا يُظْلَمُونَ
 
-**10:48** Husema, “Ahadi hii itatimia lini, ikiwa ninyi ni wakweli?”
+**10:48** Husema, "Ahadi hii itatimia lini, ikiwa ninyi ni wakweli?"
 
 وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
 
-**10:49** Sema, “Sina uwezo wa kujidhuru wala kujifaa, isipokuwa apendavyo Allah. Kila taifa lina muda uliowekwa. Muda wao utakapofika, hawawezi kuuchelewesha kwa saa moja, wala kuutanguliza.”
+**10:49** Sema, "Sina uwezo wa kujidhuru wala kujifaa, isipokuwa apendavyo Allah. Kila taifa lina muda uliowekwa. Muda wao utakapofika, hawawezi kuuchelewesha kwa saa moja, wala kuutanguliza."
 
 قُل لَّآ أَمْلِكُ لِنَفْسِى ضَرًّۭا وَلَا نَفْعًا إِلَّا مَا شَآءَ ٱللَّهُ ۗ لِكُلِّ أُمَّةٍ أَجَلٌ ۚ إِذَا جَآءَ أَجَلُهُمْ فَلَا يَسْتَـْٔخِرُونَ سَاعَةًۭ ۖ وَلَا يَسْتَقْدِمُونَ
 
-**10:50** Sema, “Je, mmefikiria? Adhabu yake ikiwakujieni usiku au mchana, wenye hatia watataka kuharakisha sehemu gani yake?”
+**10:50** Sema, "Je, mmefikiria? Adhabu yake ikiwakujieni usiku au mchana, wenye hatia watataka kuharakisha sehemu gani yake?"
 
 قُلْ أَرَءَيْتُمْ إِنْ أَتَىٰكُمْ عَذَابُهُۥ بَيَٰتًا أَوْ نَهَارًۭا مَّاذَا يَسْتَعْجِلُ مِنْهُ ٱلْمُجْرِمُونَ
 
-**10:51** “Kisha itakapotokea, mtaamini? Sasa hivi? Wakati kabla mlikuwa mkiitaka iharakishwe?”
+**10:51** "Kisha itakapotokea, mtaamini? Sasa hivi? Wakati kabla mlikuwa mkiitaka iharakishwe?"
 
 أَثُمَّ إِذَا مَا وَقَعَ ءَامَنتُم بِهِۦٓ ۚ ءَآلْـَٰٔنَ وَقَدْ كُنتُم بِهِۦ تَسْتَعْجِلُونَ
 
-**10:52** Kisha wataambiwa waliodhulumu, “Onjeni adhabu ya milele. Je, mtalipwa isipokuwa kwa mliyokuwa mkiyafanya?”
+**10:52** Kisha wataambiwa waliodhulumu, "Onjeni adhabu ya milele. Je, mtalipwa isipokuwa kwa mliyokuwa mkiyafanya?"
 
 ثُمَّ قِيلَ لِلَّذِينَ ظَلَمُوا۟ ذُوقُوا۟ عَذَابَ ٱلْخُلْدِ هَلْ تُجْزَوْنَ إِلَّا بِمَا كُنتُمْ تَكْسِبُونَ
 
-**10:53** Wanakuuliza, “Je, ni kweli?” Sema, “Naam, naapa kwa Mola wangu, ni kweli, na hamtaweza kuikwepa.”
+**10:53** Wanakuuliza, "Je, ni kweli?" Sema, "Naam, naapa kwa Mola wangu, ni kweli, na hamtaweza kuikwepa."
 
 ۞ وَيَسْتَنۢبِـُٔونَكَ أَحَقٌّ هُوَ ۖ قُلْ إِى وَرَبِّىٓ إِنَّهُۥ لَحَقٌّۭ ۖ وَمَآ أَنتُم بِمُعْجِزِينَ
 
@@ -5936,11 +5936,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَتْكُم مَّوْعِظَةٌۭ مِّن رَّبِّكُمْ وَشِفَآءٌۭ لِّمَا فِى ٱلصُّدُورِ وَهُدًۭى وَرَحْمَةٌۭ لِّلْمُؤْمِنِينَ
 
-**10:58** Sema, “Kwa fadhila za Allah na rehema yake, na wafurahi. Hilo ni bora kuliko wanayoyakusanya.”
+**10:58** Sema, "Kwa fadhila za Allah na rehema yake, na wafurahi. Hilo ni bora kuliko wanayoyakusanya."
 
 قُلْ بِفَضْلِ ٱللَّهِ وَبِرَحْمَتِهِۦ فَبِذَٰلِكَ فَلْيَفْرَحُوا۟ هُوَ خَيْرٌۭ مِّمَّا يَجْمَعُونَ
 
-**10:59** Sema, “Je, mmeiona riziki ambayo Allah amewateremshia, sehemu mliifanya haramu, na sehemu halali?” Sema, “Je, Allah amewapa ruhusa, au mnamzushia uwongo Allah?”
+**10:59** Sema, "Je, mmeiona riziki ambayo Allah amewateremshia, sehemu mliifanya haramu, na sehemu halali?" Sema, "Je, Allah amewapa ruhusa, au mnamzushia uwongo Allah?"
 
 قُلْ أَرَءَيْتُم مَّآ أَنزَلَ ٱللَّهُ لَكُم مِّن رِّزْقٍۢ فَجَعَلْتُم مِّنْهُ حَرَامًۭا وَحَلَٰلًۭا قُلْ ءَآللَّهُ أَذِنَ لَكُمْ ۖ أَمْ عَلَى ٱللَّهِ تَفْتَرُونَ
 
@@ -5976,11 +5976,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِتَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَسْمَعُونَ
 
-**10:68** Walisema, “Allah amejichukulia mwana.” Utukufu ni wake. Yeye ni asiyehitaji. Kila kilicho mbinguni na kila kilicho ardhini ni chake. Je, mnao ushahidi wowote wa hili? Au mnamsemea Allah msiyoyajua?
+**10:68** Walisema, "Allah amejichukulia mwana." Utukufu ni wake. Yeye ni asiyehitaji. Kila kilicho mbinguni na kila kilicho ardhini ni chake. Je, mnao ushahidi wowote wa hili? Au mnamsemea Allah msiyoyajua?
 
 قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًۭا ۗ سُبْحَٰنَهُۥ ۖ هُوَ ٱلْغَنِىُّ ۖ لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ إِنْ عِندَكُم مِّن سُلْطَٰنٍۭ بِهَٰذَآ ۚ أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ
 
-**10:69** Sema, “Wanaomzushia Allah uwongo hawatafaulu.”
+**10:69** Sema, "Wanaomzushia Allah uwongo hawatafaulu."
 
 قُلْ إِنَّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ لَا يُفْلِحُونَ
 
@@ -5988,11 +5988,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 مَتَٰعٌۭ فِى ٱلدُّنْيَا ثُمَّ إِلَيْنَا مَرْجِعُهُمْ ثُمَّ نُذِيقُهُمُ ٱلْعَذَابَ ٱلشَّدِيدَ بِمَا كَانُوا۟ يَكْفُرُونَ
 
-**10:71** Wasimulie habari za Nuhu, alipowaambia watu wake, “Enyi watu wangu, ikiwa kukaa kwangu kati yenu na kuwakumbusha ishara za Allah ni mzigo mkubwa kwenu, basi nimemtegemea Allah. Basi amueni jambo lenu, ninyi na washirika wenu, wala jambo hilo lisikutatizeni; kisha nitekelezeeni uamuzi wenu juu yangu, wala msinipe muda.”
+**10:71** Wasimulie habari za Nuhu, alipowaambia watu wake, "Enyi watu wangu, ikiwa kukaa kwangu kati yenu na kuwakumbusha ishara za Allah ni mzigo mkubwa kwenu, basi nimemtegemea Allah. Basi amueni jambo lenu, ninyi na washirika wenu, wala jambo hilo lisikutatizeni; kisha nitekelezeeni uamuzi wenu juu yangu, wala msinipe muda."
 
 ۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ نُوحٍ إِذْ قَالَ لِقَوْمِهِۦ يَٰقَوْمِ إِن كَانَ كَبُرَ عَلَيْكُم مَّقَامِى وَتَذْكِيرِى بِـَٔايَٰتِ ٱللَّهِ فَعَلَى ٱللَّهِ تَوَكَّلْتُ فَأَجْمِعُوٓا۟ أَمْرَكُمْ وَشُرَكَآءَكُمْ ثُمَّ لَا يَكُنْ أَمْرُكُمْ عَلَيْكُمْ غُمَّةًۭ ثُمَّ ٱقْضُوٓا۟ إِلَىَّ وَلَا تُنظِرُونِ
 
-**10:72** “Lakini mkigeuka, sikuwatajia ujira wowote. Ujira wangu ni kwa Allah tu, na niliamriwa kuwa miongoni mwa wanaojisalimisha.”
+**10:72** "Lakini mkigeuka, sikuwatajia ujira wowote. Ujira wangu ni kwa Allah tu, na niliamriwa kuwa miongoni mwa wanaojisalimisha."
 
 فَإِن تَوَلَّيْتُمْ فَمَا سَأَلْتُكُم مِّنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ ۖ وَأُمِرْتُ أَنْ أَكُونَ مِنَ ٱلْمُسْلِمِينَ
 
@@ -6008,31 +6008,31 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ
 
-**10:76** Ukweli ulipowafikia kutoka kwetu, walisema, “Huu ni uchawi wa wazi.”
+**10:76** Ukweli ulipowafikia kutoka kwetu, walisema, "Huu ni uchawi wa wazi."
 
 فَلَمَّا جَآءَهُمُ ٱلْحَقُّ مِنْ عِندِنَا قَالُوٓا۟ إِنَّ هَٰذَا لَسِحْرٌۭ مُّبِينٌۭ
 
-**10:77** Musa alisema, “Je, hivi ndivyo mnavyosema kuhusu ukweli ulipowafikia? Huu ni uchawi? Wachawi hawafaulu.”
+**10:77** Musa alisema, "Je, hivi ndivyo mnavyosema kuhusu ukweli ulipowafikia? Huu ni uchawi? Wachawi hawafaulu."
 
 قَالَ مُوسَىٰٓ أَتَقُولُونَ لِلْحَقِّ لَمَّا جَآءَكُمْ ۖ أَسِحْرٌ هَٰذَا وَلَا يُفْلِحُ ٱلسَّٰحِرُونَ
 
-**10:78** Walisema, “Je, umetufikia ili utugeuze kutoka tuliyowakuta mababu zetu wakiyafuata, na ili mpate ukubwa katika ardhi? Hatutaamini kamwe juu yenu.”
+**10:78** Walisema, "Je, umetufikia ili utugeuze kutoka tuliyowakuta mababu zetu wakiyafuata, na ili mpate ukubwa katika ardhi? Hatutaamini kamwe juu yenu."
 
 قَالُوٓا۟ أَجِئْتَنَا لِتَلْفِتَنَا عَمَّا وَجَدْنَا عَلَيْهِ ءَابَآءَنَا وَتَكُونَ لَكُمَا ٱلْكِبْرِيَآءُ فِى ٱلْأَرْضِ وَمَا نَحْنُ لَكُمَا بِمُؤْمِنِينَ
 
-**10:79** Firauni alisema, “Nileteeni kila mchawi mwenye ujuzi.”
+**10:79** Firauni alisema, "Nileteeni kila mchawi mwenye ujuzi."
 
 وَقَالَ فِرْعَوْنُ ٱئْتُونِى بِكُلِّ سَٰحِرٍ عَلِيمٍۢ
 
-**10:80** Wachawi walipofika, Musa aliwaambia, “Tupeni mnachokwenda kukitupa.”
+**10:80** Wachawi walipofika, Musa aliwaambia, "Tupeni mnachokwenda kukitupa."
 
 فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ
 
-**10:81** Na walipotupa, Musa alisema, “Mlichokileta ni uchawi, Allah atakifanya kibatilike. Allah hairekebishi kazi ya waharibifu.”
+**10:81** Na walipotupa, Musa alisema, "Mlichokileta ni uchawi, Allah atakifanya kibatilike. Allah hairekebishi kazi ya waharibifu."
 
 فَلَمَّآ أَلْقَوْا۟ قَالَ مُوسَىٰ مَا جِئْتُم بِهِ ٱلسِّحْرُ ۖ إِنَّ ٱللَّهَ سَيُبْطِلُهُۥٓ ۖ إِنَّ ٱللَّهَ لَا يُصْلِحُ عَمَلَ ٱلْمُفْسِدِينَ
 
-**10:82** “Na Allah huuthibitisha ukweli kwa maneno yake, ingawa wahalifu huchukia.”
+**10:82** "Na Allah huuthibitisha ukweli kwa maneno yake, ingawa wahalifu huchukia."
 
 وَيُحِقُّ ٱللَّهُ ٱلْحَقَّ بِكَلِمَٰتِهِۦ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ
 
@@ -6040,31 +6040,31 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَمَآ ءَامَنَ لِمُوسَىٰٓ إِلَّا ذُرِّيَّةٌۭ مِّن قَوْمِهِۦ عَلَىٰ خَوْفٍۢ مِّن فِرْعَوْنَ وَمَلَإِي۟هِمْ أَن يَفْتِنَهُمْ ۚ وَإِنَّ فِرْعَوْنَ لَعَالٍۢ فِى ٱلْأَرْضِ وَإِنَّهُۥ لَمِنَ ٱلْمُسْرِفِينَ
 
-**10:84** Musa alisema, “Enyi watu wangu, ikiwa mmemwamini Allah, basi mtegemeeni Yeye, ikiwa mmejisalimisha.”
+**10:84** Musa alisema, "Enyi watu wangu, ikiwa mmemwamini Allah, basi mtegemeeni Yeye, ikiwa mmejisalimisha."
 
 وَقَالَ مُوسَىٰ يَٰقَوْمِ إِن كُنتُمْ ءَامَنتُم بِٱللَّهِ فَعَلَيْهِ تَوَكَّلُوٓا۟ إِن كُنتُم مُّسْلِمِينَ
 
-**10:85** Walisema, “Tumemtegemea Allah. Ee Mola wetu, usituache tuteswe na watu wadhalimu.”
+**10:85** Walisema, "Tumemtegemea Allah. Ee Mola wetu, usituache tuteswe na watu wadhalimu."
 
 فَقَالُوا۟ عَلَى ٱللَّهِ تَوَكَّلْنَا رَبَّنَا لَا تَجْعَلْنَا فِتْنَةًۭ لِّلْقَوْمِ ٱلظَّٰلِمِينَ
 
-**10:86** “Na tuokoe, kwa rehema yako, kutoka kwa watu makafiri.”
+**10:86** "Na tuokoe, kwa rehema yako, kutoka kwa watu makafiri."
 
 وَنَجِّنَا بِرَحْمَتِكَ مِنَ ٱلْقَوْمِ ٱلْكَٰفِرِينَ
 
-**10:87** Tulimfunulia Musa na ndugu yake, “Wawekeni watu wenu waishi Misri, na fanyeni nyumba zenu mahali pa kuabudu, na simamisheni sala, na wape habari njema waumini.”
+**10:87** Tulimfunulia Musa na ndugu yake, "Wawekeni watu wenu waishi Misri, na fanyeni nyumba zenu mahali pa kuabudu, na simamisheni sala, na wape habari njema waumini."
 
 وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوْمِكُمَا بِمِصْرَ بُيُوتًۭا وَٱجْعَلُوا۟ بُيُوتَكُمْ قِبْلَةًۭ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ
 
-**10:88** Musa alisema, “Ee Mola wetu, umempa Firauni na wakuu wake fahari na mali katika maisha ya dunia. Ee Mola wetu, wamezitumia kuwapoteza watu kutoka kwenye njia yako. Ee Mola wetu, zifute mali zao, na ifanye mioyo yao kuwa migumu, ili wasiamini mpaka waone adhabu yenye uchungu.”
+**10:88** Musa alisema, "Ee Mola wetu, umempa Firauni na wakuu wake fahari na mali katika maisha ya dunia. Ee Mola wetu, wamezitumia kuwapoteza watu kutoka kwenye njia yako. Ee Mola wetu, zifute mali zao, na ifanye mioyo yao kuwa migumu, ili wasiamini mpaka waone adhabu yenye uchungu."
 
 وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةًۭ وَأَمْوَٰلًۭا فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ ۖ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
 
-**10:89** Alisema, “Maombi yenu yamekubaliwa, basi simameni imara, wala msifuate njia ya wasiojua.”
+**10:89** Alisema, "Maombi yenu yamekubaliwa, basi simameni imara, wala msifuate njia ya wasiojua."
 
 قَالَ قَدْ أُجِيبَت دَّعْوَتُكُمَا فَٱسْتَقِيمَا وَلَا تَتَّبِعَآنِّ سَبِيلَ ٱلَّذِينَ لَا يَعْلَمُونَ
 
-**10:90** Tuliwavusha Wana wa Israeli kuvuka bahari. Firauni na majeshi yake waliwafuata kwa kiburi na uadui. Mpaka alipokuwa karibu kuzama, alisema, “Naamini kwamba hakuna mungu ila yule ambaye Wana wa Israeli wanamwamini, na mimi ni miongoni mwa wanaojisalimisha.”
+**10:90** Tuliwavusha Wana wa Israeli kuvuka bahari. Firauni na majeshi yake waliwafuata kwa kiburi na uadui. Mpaka alipokuwa karibu kuzama, alisema, "Naamini kwamba hakuna mungu ila yule ambaye Wana wa Israeli wanamwamini, na mimi ni miongoni mwa wanaojisalimisha."
 
 ۞ وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًۭا وَعَدْوًا ۖ حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱلَّذِىٓ ءَامَنَتْ بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ
 
@@ -6108,11 +6108,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمَا كَانَ لِنَفْسٍ أَن تُؤْمِنَ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَيَجْعَلُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يَعْقِلُونَ
 
-**10:101** Sema, “Tazameni kilicho mbinguni na ardhini.” Lakini ishara na maonyo hayawafai watu wasioamini.
+**10:101** Sema, "Tazameni kilicho mbinguni na ardhini." Lakini ishara na maonyo hayawafai watu wasioamini.
 
 قُلِ ٱنظُرُوا۟ مَاذَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَمَا تُغْنِى ٱلْءَايَٰتُ وَٱلنُّذُرُ عَن قَوْمٍۢ لَّا يُؤْمِنُونَ
 
-**10:102** Je, wanasubiri isipokuwa mfano wa siku za wale waliopita kabla yao? Sema, “Basi subirin, mimi ninasubiri pamoja nanyi.”
+**10:102** Je, wanasubiri isipokuwa mfano wa siku za wale waliopita kabla yao? Sema, "Basi subirin, mimi ninasubiri pamoja nanyi."
 
 فَهَلْ يَنتَظِرُونَ إِلَّا مِثْلَ أَيَّامِ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِهِمْ ۚ قُلْ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ
 
@@ -6120,7 +6120,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ثُمَّ نُنَجِّى رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟ ۚ كَذَٰلِكَ حَقًّا عَلَيْنَا نُنجِ ٱلْمُؤْمِنِينَ
 
-**10:104** Sema, “Enyi watu, ikiwa mna shaka kuhusu dini yangu, siwaabudu mnaowaabudu badala ya Allah. Bali namwabudu Allah, yule atakayewafisha. Na niliamriwa kuwa miongoni mwa waumini.”
+**10:104** Sema, "Enyi watu, ikiwa mna shaka kuhusu dini yangu, siwaabudu mnaowaabudu badala ya Allah. Bali namwabudu Allah, yule atakayewafisha. Na niliamriwa kuwa miongoni mwa waumini."
 
 قُلْ يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمْ فِى شَكٍّۢ مِّن دِينِى فَلَآ أَعْبُدُ ٱلَّذِينَ تَعْبُدُونَ مِن دُونِ ٱللَّهِ وَلَٰكِنْ أَعْبُدُ ٱللَّهَ ٱلَّذِى يَتَوَفَّىٰكُمْ ۖ وَأُمِرْتُ أَنْ أَكُونَ مِنَ ٱلْمُؤْمِنِينَ
 
@@ -6136,7 +6136,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَإِن يَمْسَسْكَ ٱللَّهُ بِضُرٍّۢ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَ ۖ وَإِن يُرِدْكَ بِخَيْرٍۢ فَلَا رَآدَّ لِفَضْلِهِۦ ۚ يُصِيبُ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۚ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
-**10:108** Sema, “Enyi watu, ukweli umewafikia kutoka kwa Mola wenu. Anayekubali mwongozo, anaongoka kwa faida ya nafsi yake; na anayepotea, anapotea kwa hasara yake. Mimi si mlinzi wenu.”
+**10:108** Sema, "Enyi watu, ukweli umewafikia kutoka kwa Mola wenu. Anayekubali mwongozo, anaongoka kwa faida ya nafsi yake; na anayepotea, anapotea kwa hasara yake. Mimi si mlinzi wenu."
 
 قُلْ يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُمُ ٱلْحَقُّ مِن رَّبِّكُمْ ۖ فَمَنِ ٱهْتَدَىٰ فَإِنَّمَا يَهْتَدِى لِنَفْسِهِۦ ۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۖ وَمَآ أَنَا۠ عَلَيْكُم بِوَكِيلٍۢ
 
@@ -6160,15 +6160,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 الٓر ۚ كِتَٰبٌ أُحْكِمَتْ ءَايَٰتُهُۥ ثُمَّ فُصِّلَتْ مِن لَّدُنْ حَكِيمٍ خَبِيرٍ
 
-**11:2** Kwamba msiabudu yeyote isipokuwa Allah. “Mimi ni mwonyaji wenu kutoka kwake, na mtoaji wa habari njema.”
+**11:2** Kwamba msiabudu yeyote isipokuwa Allah. "Mimi ni mwonyaji wenu kutoka kwake, na mtoaji wa habari njema."
 
 أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ ۚ إِنَّنِى لَكُم مِّنْهُ نَذِيرٌۭ وَبَشِيرٌۭ
 
-**11:3** “Na mwombeni Mola wenu msamaha, na tubuni kwake. Atawapa starehe nzuri mpaka muda uliowekwa, na atampa fadhila yake kila mwenye wema. Lakini mkigeuka, basi ninaogopa kwa ajili yenu adhabu ya Siku kubwa yenye kuhuzunisha.”
+**11:3** "Na mwombeni Mola wenu msamaha, na tubuni kwake. Atawapa starehe nzuri mpaka muda uliowekwa, na atampa fadhila yake kila mwenye wema. Lakini mkigeuka, basi ninaogopa kwa ajili yenu adhabu ya Siku kubwa yenye kuhuzunisha."
 
 وَأَنِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُمَتِّعْكُم مَّتَٰعًا حَسَنًا إِلَىٰٓ أَجَلٍۢ مُّسَمًّۭى وَيُؤْتِ كُلَّ ذِى فَضْلٍۢ فَضْلَهُۥ ۖ وَإِن تَوَلَّوْا۟ فَإِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍۢ كَبِيرٍ
 
-**11:4** “Marejeo yenu ni kwa Allah, na Yeye ana uwezo juu ya kila kitu.”
+**11:4** "Marejeo yenu ni kwa Allah, na Yeye ana uwezo juu ya kila kitu."
 
 إِلَى ٱللَّهِ مَرْجِعُكُمْ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ
 
@@ -6180,11 +6180,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ۞ وَمَا مِن دَآبَّةٍۢ فِى ٱلْأَرْضِ إِلَّا عَلَى ٱللَّهِ رِزْقُهَا وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا ۚ كُلٌّۭ فِى كِتَٰبٍۢ مُّبِينٍۢ
 
-**11:7** Yeye ndiye aliyeumba mbingu na ardhi katika siku sita, na Kiti chake cha Enzi kilikuwa juu ya maji, ili awajaribu, ni nani miongoni mwenu aliye bora katika matendo. Na ukisema, “Mtafufuka baada ya kufa,” waliokufuru watasema, “Huu si chochote isipokuwa uchawi wa wazi.”
+**11:7** Yeye ndiye aliyeumba mbingu na ardhi katika siku sita, na Kiti chake cha Enzi kilikuwa juu ya maji, ili awajaribu, ni nani miongoni mwenu aliye bora katika matendo. Na ukisema, "Mtafufuka baada ya kufa," waliokufuru watasema, "Huu si chochote isipokuwa uchawi wa wazi."
 
 وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍۢ وَكَانَ عَرْشُهُۥ عَلَى ٱلْمَآءِ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًۭا ۗ وَلَئِن قُلْتَ إِنَّكُم مَّبْعُوثُونَ مِنۢ بَعْدِ ٱلْمَوْتِ لَيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌۭ
 
-**11:8** Na tukiichelewesha adhabu yao mpaka muda uliowekwa, watasema, “Ni nini kinachoizuia?” Siku itakapowafikia, haitaweza kuepushwa kwao, na waliyokuwa wakiyacheka yatawazunguka.
+**11:8** Na tukiichelewesha adhabu yao mpaka muda uliowekwa, watasema, "Ni nini kinachoizuia?" Siku itakapowafikia, haitaweza kuepushwa kwao, na waliyokuwa wakiyacheka yatawazunguka.
 
 وَلَئِنْ أَخَّرْنَا عَنْهُمُ ٱلْعَذَابَ إِلَىٰٓ أُمَّةٍۢ مَّعْدُودَةٍۢ لَّيَقُولُنَّ مَا يَحْبِسُهُۥٓ ۗ أَلَا يَوْمَ يَأْتِيهِمْ لَيْسَ مَصْرُوفًا عَنْهُمْ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
@@ -6192,7 +6192,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَئِنْ أَذَقْنَا ٱلْإِنسَٰنَ مِنَّا رَحْمَةًۭ ثُمَّ نَزَعْنَٰهَا مِنْهُ إِنَّهُۥ لَيَـُٔوسٌۭ كَفُورٌۭ
 
-**11:10** Na tukimwonjesha ustawi, baada ya dhiki iliyomgusa, atasema, “Shida zimeondoka kwangu.” Huwa mwenye furaha na kiburi.
+**11:10** Na tukimwonjesha ustawi, baada ya dhiki iliyomgusa, atasema, "Shida zimeondoka kwangu." Huwa mwenye furaha na kiburi.
 
 وَلَئِنْ أَذَقْنَٰهُ نَعْمَآءَ بَعْدَ ضَرَّآءَ مَسَّتْهُ لَيَقُولَنَّ ذَهَبَ ٱلسَّيِّـَٔاتُ عَنِّىٓ ۚ إِنَّهُۥ لَفَرِحٌۭ فَخُورٌ
 
@@ -6200,11 +6200,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِلَّا ٱلَّذِينَ صَبَرُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أُو۟لَٰٓئِكَ لَهُم مَّغْفِرَةٌۭ وَأَجْرٌۭ كَبِيرٌۭ
 
-**11:12** Labda unataka kuacha sehemu ya uliyofunuliwa, na kifua chako kikawa na dhiki kwa sababu yake, kwa kuwa husema, “Laiti hazina ingeteremshwa kwake, au malaika angekuja naye.” Wewe ni mwonyaji tu, na Allah ndiye mwenye kuwajibika kwa kila kitu.
+**11:12** Labda unataka kuacha sehemu ya uliyofunuliwa, na kifua chako kikawa na dhiki kwa sababu yake, kwa kuwa husema, "Laiti hazina ingeteremshwa kwake, au malaika angekuja naye." Wewe ni mwonyaji tu, na Allah ndiye mwenye kuwajibika kwa kila kitu.
 
 فَلَعَلَّكَ تَارِكٌۢ بَعْضَ مَا يُوحَىٰٓ إِلَيْكَ وَضَآئِقٌۢ بِهِۦ صَدْرُكَ أَن يَقُولُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ كَنزٌ أَوْ جَآءَ مَعَهُۥ مَلَكٌ ۚ إِنَّمَآ أَنتَ نَذِيرٌۭ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ وَكِيلٌ
 
-**11:13** Au husema, “Ameitunga”? Sema, “Basi leteni sura kumi mfano wake, zilizotungwa, na waiteni mnayeweza, badala ya Allah, ikiwa ninyi ni wakweli.”
+**11:13** Au husema, "Ameitunga"? Sema, "Basi leteni sura kumi mfano wake, zilizotungwa, na waiteni mnayeweza, badala ya Allah, ikiwa ninyi ni wakweli."
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِعَشْرِ سُوَرٍۢ مِّثْلِهِۦ مُفْتَرَيَٰتٍۢ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -6224,7 +6224,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّهِۦ وَيَتْلُوهُ شَاهِدٌۭ مِّنْهُ وَمِن قَبْلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامًۭا وَرَحْمَةً ۚ أُو۟لَٰٓئِكَ يُؤْمِنُونَ بِهِۦ ۚ وَمَن يَكْفُرْ بِهِۦ مِنَ ٱلْأَحْزَابِ فَٱلنَّارُ مَوْعِدُهُۥ ۚ فَلَا تَكُ فِى مِرْيَةٍۢ مِّنْهُ ۚ إِنَّهُ ٱلْحَقُّ مِن رَّبِّكَ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ
 
-**11:18** Ni nani mdhalimu zaidi kuliko anayemzushia Allah uwongo? Hao watafikishwa mbele ya Mola wao, na mashahidi watasema, “Hao ndio waliomzushia Mola wao uwongo.” Hakika, laana ya Allah ni juu ya wadhalimu.
+**11:18** Ni nani mdhalimu zaidi kuliko anayemzushia Allah uwongo? Hao watafikishwa mbele ya Mola wao, na mashahidi watasema, "Hao ndio waliomzushia Mola wao uwongo." Hakika, laana ya Allah ni juu ya wadhalimu.
 
 وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا ۚ أُو۟لَٰٓئِكَ يُعْرَضُونَ عَلَىٰ رَبِّهِمْ وَيَقُولُ ٱلْأَشْهَٰدُ هَٰٓؤُلَآءِ ٱلَّذِينَ كَذَبُوا۟ عَلَىٰ رَبِّهِمْ ۚ أَلَا لَعْنَةُ ٱللَّهِ عَلَى ٱلظَّٰلِمِينَ
 
@@ -6252,99 +6252,99 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ۞ مَثَلُ ٱلْفَرِيقَيْنِ كَٱلْأَعْمَىٰ وَٱلْأَصَمِّ وَٱلْبَصِيرِ وَٱلسَّمِيعِ ۚ هَلْ يَسْتَوِيَانِ مَثَلًا ۚ أَفَلَا تَذَكَّرُونَ
 
-**11:25** Tulimtuma Nuhu kwa watu wake, “Mimi ni mwonyaji wenu wa wazi.”
+**11:25** Tulimtuma Nuhu kwa watu wake, "Mimi ni mwonyaji wenu wa wazi."
 
 وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ
 
-**11:26** “Kwamba msiabudu yeyote isipokuwa Allah. Ninaogopa kwa ajili yenu mateso ya Siku yenye uchungu.”
+**11:26** "Kwamba msiabudu yeyote isipokuwa Allah. Ninaogopa kwa ajili yenu mateso ya Siku yenye uchungu."
 
 أَن لَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ ۖ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ أَلِيمٍۢ
 
-**11:27** Wakuu waliokufuru miongoni mwa watu wake walisema, “Hatukuoni isipokuwa mtu kama sisi, na tunaona kwamba hawakukufuata isipokuwa wabaya zaidi miongoni mwetu, wenye uamuzi usiokomaa. Na hatuoni kwamba mna ubora wowote juu yetu. Bali tunadhani ninyi ni waongo.”
+**11:27** Wakuu waliokufuru miongoni mwa watu wake walisema, "Hatukuoni isipokuwa mtu kama sisi, na tunaona kwamba hawakukufuata isipokuwa wabaya zaidi miongoni mwetu, wenye uamuzi usiokomaa. Na hatuoni kwamba mna ubora wowote juu yetu. Bali tunadhani ninyi ni waongo."
 
 فَقَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا نَرَىٰكَ إِلَّا بَشَرًۭا مِّثْلَنَا وَمَا نَرَىٰكَ ٱتَّبَعَكَ إِلَّا ٱلَّذِينَ هُمْ أَرَاذِلُنَا بَادِىَ ٱلرَّأْىِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِن فَضْلٍۭ بَلْ نَظُنُّكُمْ كَٰذِبِينَ
 
-**11:28** Alisema, “Enyi watu wangu, je, mmefikiria? Ikiwa nimesimama juu ya uthibitisho ulio wazi kutoka kwa Mola wangu, na amenipa rehema kutoka kwake, lakini hamkuiona, je, tunaweza kuwalazimisha kuikubali, ingawa mnaichukia?”
+**11:28** Alisema, "Enyi watu wangu, je, mmefikiria? Ikiwa nimesimama juu ya uthibitisho ulio wazi kutoka kwa Mola wangu, na amenipa rehema kutoka kwake, lakini hamkuiona, je, tunaweza kuwalazimisha kuikubali, ingawa mnaichukia?"
 
 قَالَ يَٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَءَاتَىٰنِى رَحْمَةًۭ مِّنْ عِندِهِۦ فَعُمِّيَتْ عَلَيْكُمْ أَنُلْزِمُكُمُوهَا وَأَنتُمْ لَهَا كَٰرِهُونَ
 
-**11:29** “Enyi watu wangu! Siwaombeni mali yoyote kwa hilo. Malipo yangu ni kwa Allah tu. Na sitaweza kuwafukuza walioamini; hakika watakutana na Mola wao. Na ninaona kwamba ninyi ni watu wasiojua.”
+**11:29** "Enyi watu wangu! Siwaombeni mali yoyote kwa hilo. Malipo yangu ni kwa Allah tu. Na sitaweza kuwafukuza walioamini; hakika watakutana na Mola wao. Na ninaona kwamba ninyi ni watu wasiojua."
 
 وَيَٰقَوْمِ لَآ أَسْـَٔلُكُمْ عَلَيْهِ مَالًا ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ ۚ وَمَآ أَنَا۠ بِطَارِدِ ٱلَّذِينَ ءَامَنُوٓا۟ ۚ إِنَّهُم مُّلَٰقُوا۟ رَبِّهِمْ وَلَٰكِنِّىٓ أَرَىٰكُمْ قَوْمًۭا تَجْهَلُونَ
 
-**11:30** “Enyi watu wangu! Ni nani atakayenisaidia dhidi ya Allah, nikiwafukuza? Je, hamfikirii?”
+**11:30** "Enyi watu wangu! Ni nani atakayenisaidia dhidi ya Allah, nikiwafukuza? Je, hamfikirii?"
 
 وَيَٰقَوْمِ مَن يَنصُرُنِى مِنَ ٱللَّهِ إِن طَرَدتُّهُمْ ۚ أَفَلَا تَذَكَّرُونَ
 
-**11:31** “Siwaambii kwamba ninamiliki hazina za Allah, wala sijui yajayo, wala sisemi kwamba mimi ni malaika. Wala siwasemei wale mnaowadharau machoni mwenu kwamba Allah hatawapa wema wowote. Allah anajua yaliyo mioyoni mwao. Nikifanya hivyo, nitakuwa miongoni mwa wadhalimu.”
+**11:31** "Siwaambii kwamba ninamiliki hazina za Allah, wala sijui yajayo, wala sisemi kwamba mimi ni malaika. Wala siwasemei wale mnaowadharau machoni mwenu kwamba Allah hatawapa wema wowote. Allah anajua yaliyo mioyoni mwao. Nikifanya hivyo, nitakuwa miongoni mwa wadhalimu."
 
 وَلَآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ وَلَآ أَقُولُ إِنِّى مَلَكٌۭ وَلَآ أَقُولُ لِلَّذِينَ تَزْدَرِىٓ أَعْيُنُكُمْ لَن يُؤْتِيَهُمُ ٱللَّهُ خَيْرًا ۖ ٱللَّهُ أَعْلَمُ بِمَا فِىٓ أَنفُسِهِمْ ۖ إِنِّىٓ إِذًۭا لَّمِنَ ٱلظَّٰلِمِينَ
 
-**11:32** Walisema, “Ee Nuhu, umejadiliana nasi, na umejadiliana sana. Basi tuletee unachotuahidi nacho, ikiwa wewe ni mkweli.”
+**11:32** Walisema, "Ee Nuhu, umejadiliana nasi, na umejadiliana sana. Basi tuletee unachotuahidi nacho, ikiwa wewe ni mkweli."
 
 قَالُوا۟ يَٰنُوحُ قَدْ جَٰدَلْتَنَا فَأَكْثَرْتَ جِدَٰلَنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 
-**11:33** Alisema, “Allah ndiye atakayewaletea, akitaka, na hamtaweza kuepuka.”
+**11:33** Alisema, "Allah ndiye atakayewaletea, akitaka, na hamtaweza kuepuka."
 
 قَالَ إِنَّمَا يَأْتِيكُم بِهِ ٱللَّهُ إِن شَآءَ وَمَآ أَنتُم بِمُعْجِزِينَ
 
-**11:34** “Ushauri wangu hautawafaa, hata nikitaka sana kuwashauri, ikiwa Allah anataka kuwapoteza. Yeye ni Mola wenu, na kwake mtarejeshwa.”
+**11:34** "Ushauri wangu hautawafaa, hata nikitaka sana kuwashauri, ikiwa Allah anataka kuwapoteza. Yeye ni Mola wenu, na kwake mtarejeshwa."
 
 وَلَا يَنفَعُكُمْ نُصْحِىٓ إِنْ أَرَدتُّ أَنْ أَنصَحَ لَكُمْ إِن كَانَ ٱللَّهُ يُرِيدُ أَن يُغْوِيَكُمْ ۚ هُوَ رَبُّكُمْ وَإِلَيْهِ تُرْجَعُونَ
 
-**11:35** Au husema, “Ameitunga”? Sema, “Nikiwa nimeitunga, hatia yangu ni juu yangu, na mimi ni mbali na hatia mnazozifanya.”
+**11:35** Au husema, "Ameitunga"? Sema, "Nikiwa nimeitunga, hatia yangu ni juu yangu, na mimi ni mbali na hatia mnazozifanya."
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَعَلَىَّ إِجْرَامِى وَأَنَا۠ بَرِىٓءٌۭ مِّمَّا تُجْرِمُونَ
 
-**11:36** Ilifunuliwa kwa Nuhu: “Hakuna yeyote wa watu wako atakayeamini, isipokuwa walio kwisha amini, basi usihuzunike kwa wanayoyafanya.”
+**11:36** Ilifunuliwa kwa Nuhu: "Hakuna yeyote wa watu wako atakayeamini, isipokuwa walio kwisha amini, basi usihuzunike kwa wanayoyafanya."
 
 وَأُوحِىَ إِلَىٰ نُوحٍ أَنَّهُۥ لَن يُؤْمِنَ مِن قَوْمِكَ إِلَّا مَن قَدْ ءَامَنَ فَلَا تَبْتَئِسْ بِمَا كَانُوا۟ يَفْعَلُونَ
 
-**11:37** “Na unda safina, chini ya macho yetu, na kwa wahyi wetu, na usinisemeze kuhusu waliodhulumu; watazamishwa.”
+**11:37** "Na unda safina, chini ya macho yetu, na kwa wahyi wetu, na usinisemeze kuhusu waliodhulumu; watazamishwa."
 
 وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ ۚ إِنَّهُم مُّغْرَقُونَ
 
-**11:38** Alipokuwa akiunda safina, kila watu wake walipopita karibu naye, walimdhihaki. Alisema, “Mkitudhihaki, tutawadhihaki, kama mnavyotudhihaki.”
+**11:38** Alipokuwa akiunda safina, kila watu wake walipopita karibu naye, walimdhihaki. Alisema, "Mkitudhihaki, tutawadhihaki, kama mnavyotudhihaki."
 
 وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌۭ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ ۚ قَالَ إِن تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ
 
-**11:39** “Hakika mtajua ni nani atakayefikiwa na adhabu itakayomfedhehesha, na ni nani atakayeangukiwa na adhabu ya kudumu.”
+**11:39** "Hakika mtajua ni nani atakayefikiwa na adhabu itakayomfedhehesha, na ni nani atakayeangukiwa na adhabu ya kudumu."
 
 فَسَوْفَ تَعْلَمُونَ مَن يَأْتِيهِ عَذَابٌۭ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌۭ مُّقِيمٌ
 
-**11:40** Mpaka amri yetu ilipofika, na volkeno ikalipuka, tulisema, “Pakia ndani yake jozi ya kila aina, na familia yako, isipokuwa walio kwisha hukumiwa, na walioamini.” Lakini walioamini naye walikuwa wachache tu.
+**11:40** Mpaka amri yetu ilipofika, na volkeno ikalipuka, tulisema, "Pakia ndani yake jozi ya kila aina, na familia yako, isipokuwa walio kwisha hukumiwa, na walioamini." Lakini walioamini naye walikuwa wachache tu.
 
 حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّۢ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ ۚ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا قَلِيلٌۭ
 
-**11:41** Alisema, “Pandeni ndani yake. Kwa jina la Allah ndiko kwenda kwake na kutua kwake. Hakika Mola wangu ni Msamehevu, Mwenye kurehemu.”
+**11:41** Alisema, "Pandeni ndani yake. Kwa jina la Allah ndiko kwenda kwake na kutua kwake. Hakika Mola wangu ni Msamehevu, Mwenye kurehemu."
 
 ۞ وَقَالَ ٱرْكَبُوا۟ فِيهَا بِسْمِ ٱللَّهِ مَجْر۪ىٰهَا وَمُرْسَىٰهَآ ۚ إِنَّ رَبِّى لَغَفُورٌۭ رَّحِيمٌۭ
 
-**11:42** Ikaenda nao katikati ya mawimbi kama milima. Na Nuhu akamwita mwanawe, aliyekuwa amejitenga, “Ee mwanangu! Panda pamoja nasi, wala usiwe pamoja na makafiri.”
+**11:42** Ikaenda nao katikati ya mawimbi kama milima. Na Nuhu akamwita mwanawe, aliyekuwa amejitenga, "Ee mwanangu! Panda pamoja nasi, wala usiwe pamoja na makafiri."
 
 وَهِىَ تَجْرِى بِهِمْ فِى مَوْجٍۢ كَٱلْجِبَالِ وَنَادَىٰ نُوحٌ ٱبْنَهُۥ وَكَانَ فِى مَعْزِلٍۢ يَٰبُنَىَّ ٱرْكَب مَّعَنَا وَلَا تَكُن مَّعَ ٱلْكَٰفِرِينَ
 
-**11:43** Alisema, “Nitakimbilia mlimani, utanilinda na maji.” Alisema, “Hakuna kinga leo dhidi ya amri ya Allah, isipokuwa kwa aliyemrehemu.” Na mawimbi yakapita kati yao, na akawa miongoni mwa waliozamishwa.
+**11:43** Alisema, "Nitakimbilia mlimani, utanilinda na maji." Alisema, "Hakuna kinga leo dhidi ya amri ya Allah, isipokuwa kwa aliyemrehemu." Na mawimbi yakapita kati yao, na akawa miongoni mwa waliozamishwa.
 
 قَالَ سَـَٔاوِىٓ إِلَىٰ جَبَلٍۢ يَعْصِمُنِى مِنَ ٱلْمَآءِ ۚ قَالَ لَا عَاصِمَ ٱلْيَوْمَ مِنْ أَمْرِ ٱللَّهِ إِلَّا مَن رَّحِمَ ۚ وَحَالَ بَيْنَهُمَا ٱلْمَوْجُ فَكَانَ مِنَ ٱلْمُغْرَقِينَ
 
-**11:44** Ikasemwa, “Ee ardhi, meza maji yako,” na “Ee mbingu, acha.” Na maji yakapungua, na jambo likakamilika, na ikatua juu ya Judi, na ikatangazwa: “Mbali na watu wadhalimu.”
+**11:44** Ikasemwa, "Ee ardhi, meza maji yako," na "Ee mbingu, acha." Na maji yakapungua, na jambo likakamilika, na ikatua juu ya Judi, na ikatangazwa: "Mbali na watu wadhalimu."
 
 وَقِيلَ يَٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ ۖ وَقِيلَ بُعْدًۭا لِّلْقَوْمِ ٱلظَّٰلِمِينَ
 
-**11:45** Na Nuhu akamwita Mola wake. Alisema, “Ee Mola wangu, mwanangu ni wa familia yangu, na ahadi yako ni kweli, na Wewe ni mbora wa mahakimu wenye hekima.”
+**11:45** Na Nuhu akamwita Mola wake. Alisema, "Ee Mola wangu, mwanangu ni wa familia yangu, na ahadi yako ni kweli, na Wewe ni mbora wa mahakimu wenye hekima."
 
 وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَٰكِمِينَ
 
-**11:46** Alisema, “Ee Nuhu, yeye si wa familia yako. Ni tendo lisilo la haki. Basi usiniulize kuhusu usilolijua. Ninakuonya, usije ukawa miongoni mwa wasiojua.”
+**11:46** Alisema, "Ee Nuhu, yeye si wa familia yako. Ni tendo lisilo la haki. Basi usiniulize kuhusu usilolijua. Ninakuonya, usije ukawa miongoni mwa wasiojua."
 
 قَالَ يَٰنُوحُ إِنَّهُۥ لَيْسَ مِنْ أَهْلِكَ ۖ إِنَّهُۥ عَمَلٌ غَيْرُ صَٰلِحٍۢ ۖ فَلَا تَسْـَٔلْنِ مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ ۖ إِنِّىٓ أَعِظُكَ أَن تَكُونَ مِنَ ٱلْجَٰهِلِينَ
 
-**11:47** Alisema, “Ee Mola wangu, najikinga kwako, kukuuliza kuhusu nisilolijua. Usiponisamehe, na ukanirehemu, nitakuwa miongoni mwa waliohasirika.”
+**11:47** Alisema, "Ee Mola wangu, najikinga kwako, kukuuliza kuhusu nisilolijua. Usiponisamehe, na ukanirehemu, nitakuwa miongoni mwa waliohasirika."
 
 قَالَ رَبِّ إِنِّىٓ أَعُوذُ بِكَ أَنْ أَسْـَٔلَكَ مَا لَيْسَ لِى بِهِۦ عِلْمٌۭ ۖ وَإِلَّا تَغْفِرْ لِى وَتَرْحَمْنِىٓ أَكُن مِّنَ ٱلْخَٰسِرِينَ
 
-**11:48** Ikasemwa, “Ee Nuhu, shuka kwa amani kutoka kwetu; na kwa baraka juu yako, na juu ya jamii za waliokuwa pamoja nawe. Na jamii nyingine tutawapa ustawi, kisha adhabu yenye uchungu kutoka kwetu itawafikia.”
+**11:48** Ikasemwa, "Ee Nuhu, shuka kwa amani kutoka kwetu; na kwa baraka juu yako, na juu ya jamii za waliokuwa pamoja nawe. Na jamii nyingine tutawapa ustawi, kisha adhabu yenye uchungu kutoka kwetu itawafikia."
 
 قِيلَ يَٰنُوحُ ٱهْبِطْ بِسَلَٰمٍۢ مِّنَّا وَبَرَكَٰتٍ عَلَيْكَ وَعَلَىٰٓ أُمَمٍۢ مِّمَّن مَّعَكَ ۚ وَأُمَمٌۭ سَنُمَتِّعُهُمْ ثُمَّ يَمَسُّهُم مِّنَّا عَذَابٌ أَلِيمٌۭ
 
@@ -6352,23 +6352,23 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 تِلْكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهَآ إِلَيْكَ ۖ مَا كُنتَ تَعْلَمُهَآ أَنتَ وَلَا قَوْمُكَ مِن قَبْلِ هَٰذَا ۖ فَٱصْبِرْ ۖ إِنَّ ٱلْعَٰقِبَةَ لِلْمُتَّقِينَ
 
-**11:50** Na kwa Adi, ndugu yao Hud. Alisema, “Enyi watu wangu, mwabuduni Allah, hakuna mungu ila Yeye. Hamfanyi isipokuwa kuzusha uwongo.”
+**11:50** Na kwa Adi, ndugu yao Hud. Alisema, "Enyi watu wangu, mwabuduni Allah, hakuna mungu ila Yeye. Hamfanyi isipokuwa kuzusha uwongo."
 
 وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًۭا ۚ قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥٓ ۖ إِنْ أَنتُمْ إِلَّا مُفْتَرُونَ
 
-**11:51** “Enyi watu wangu, siwaombeni ujira wowote kwa hilo; ujira wangu ni kwa aliyeniumba. Je, hamuelewi?”
+**11:51** "Enyi watu wangu, siwaombeni ujira wowote kwa hilo; ujira wangu ni kwa aliyeniumba. Je, hamuelewi?"
 
 يَٰقَوْمِ لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱلَّذِى فَطَرَنِىٓ ۚ أَفَلَا تَعْقِلُونَ
 
-**11:52** “Enyi watu wangu, mwombeni Mola wenu msamaha, na tubuni kwake. Atateremsha mbingu ikimwaga mvua juu yenu, na ataongeza nguvu juu ya nguvu zenu. Wala msigeuke na kuwa wahalifu.”
+**11:52** "Enyi watu wangu, mwombeni Mola wenu msamaha, na tubuni kwake. Atateremsha mbingu ikimwaga mvua juu yenu, na ataongeza nguvu juu ya nguvu zenu. Wala msigeuke na kuwa wahalifu."
 
 وَيَٰقَوْمِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًۭا وَيَزِدْكُمْ قُوَّةً إِلَىٰ قُوَّتِكُمْ وَلَا تَتَوَلَّوْا۟ مُجْرِمِينَ
 
-**11:53** Walisema, “Ee Hud, hukutuletea uthibitisho wowote, na hatutaacha miungu yetu kwa neno lako, na hatutaamini juu yako.”
+**11:53** Walisema, "Ee Hud, hukutuletea uthibitisho wowote, na hatutaacha miungu yetu kwa neno lako, na hatutaamini juu yako."
 
 قَالُوا۟ يَٰهُودُ مَا جِئْتَنَا بِبَيِّنَةٍۢ وَمَا نَحْنُ بِتَارِكِىٓ ءَالِهَتِنَا عَن قَوْلِكَ وَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ
 
-**11:54** “Tunasema tu kwamba baadhi ya miungu yetu imekugusa kwa uovu.” Alisema, “Namshuhudisha Allah, na shuhudieni, kwamba mimi ni mbali na mnachoshirikisha.
+**11:54** "Tunasema tu kwamba baadhi ya miungu yetu imekugusa kwa uovu." Alisema, "Namshuhudisha Allah, na shuhudieni, kwamba mimi ni mbali na mnachoshirikisha.
 
 إِن نَّقُولُ إِلَّا ٱعْتَرَىٰكَ بَعْضُ ءَالِهَتِنَا بِسُوٓءٍۢ ۗ قَالَ إِنِّىٓ أُشْهِدُ ٱللَّهَ وَٱشْهَدُوٓا۟ أَنِّى بَرِىٓءٌۭ مِّمَّا تُشْرِكُونَ
 
@@ -6380,7 +6380,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنِّى تَوَكَّلْتُ عَلَى ٱللَّهِ رَبِّى وَرَبِّكُم ۚ مَّا مِن دَآبَّةٍ إِلَّا هُوَ ءَاخِذٌۢ بِنَاصِيَتِهَآ ۚ إِنَّ رَبِّى عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
 
-**11:57** Mkigeuka, nimewafikishia niliyotumwa kwenu nayo; na Mola wangu atawabadilisha kwa watu wengine, na hamtaweza kumdhuru chochote. Mola wangu ni mlinzi juu ya kila kitu.”
+**11:57** Mkigeuka, nimewafikishia niliyotumwa kwenu nayo; na Mola wangu atawabadilisha kwa watu wengine, na hamtaweza kumdhuru chochote. Mola wangu ni mlinzi juu ya kila kitu."
 
 فَإِن تَوَلَّوْا۟ فَقَدْ أَبْلَغْتُكُم مَّآ أُرْسِلْتُ بِهِۦٓ إِلَيْكُمْ ۚ وَيَسْتَخْلِفُ رَبِّى قَوْمًا غَيْرَكُمْ وَلَا تَضُرُّونَهُۥ شَيْـًٔا ۚ إِنَّ رَبِّى عَلَىٰ كُلِّ شَىْءٍ حَفِيظٌۭ
 
@@ -6396,23 +6396,23 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَأُتْبِعُوا۟ فِى هَٰذِهِ ٱلدُّنْيَا لَعْنَةًۭ وَيَوْمَ ٱلْقِيَٰمَةِ ۗ أَلَآ إِنَّ عَادًۭا كَفَرُوا۟ رَبَّهُمْ ۗ أَلَا بُعْدًۭا لِّعَادٍۢ قَوْمِ هُودٍۢ
 
-**11:61** Na kwa Thamudi, ndugu yao Swalehe. Alisema, “Enyi watu wangu, mwabuduni Allah, hakuna mungu ila Yeye. Yeye aliwaanzisha kutoka ardhini, na akawafanya muishi humo. Basi mwombeni msamaha, na tubuni kwake. Mola wangu yuko karibu na anajibu.”
+**11:61** Na kwa Thamudi, ndugu yao Swalehe. Alisema, "Enyi watu wangu, mwabuduni Allah, hakuna mungu ila Yeye. Yeye aliwaanzisha kutoka ardhini, na akawafanya muishi humo. Basi mwombeni msamaha, na tubuni kwake. Mola wangu yuko karibu na anajibu."
 
 ۞ وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًۭا ۚ قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ ۖ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟ إِلَيْهِ ۚ إِنَّ رَبِّى قَرِيبٌۭ مُّجِيبٌۭ
 
-**11:62** Walisema, “Ee Swalehe, tulikuwa na matumaini kwako kabla ya hii. Je, unajaribu kutuzuia kuabudu waliyokuwa wakiabudu wazazi wetu? Hakika tuna shaka kubwa kuhusu unachotuita kwacho.”
+**11:62** Walisema, "Ee Swalehe, tulikuwa na matumaini kwako kabla ya hii. Je, unajaribu kutuzuia kuabudu waliyokuwa wakiabudu wazazi wetu? Hakika tuna shaka kubwa kuhusu unachotuita kwacho."
 
 قَالُوا۟ يَٰصَٰلِحُ قَدْ كُنتَ فِينَا مَرْجُوًّۭا قَبْلَ هَٰذَآ ۖ أَتَنْهَىٰنَآ أَن نَّعْبُدَ مَا يَعْبُدُ ءَابَآؤُنَا وَإِنَّنَا لَفِى شَكٍّۢ مِّمَّا تَدْعُونَآ إِلَيْهِ مُرِيبٍۢ
 
-**11:63** Alisema, “Enyi watu wangu, je, mmefikiria? Ikiwa nimesimama juu ya uthibitisho ulio wazi kutoka kwa Mola wangu, na amenipa rehema kutoka kwake, ni nani atakayenilinda na Allah, nikimwasi? Hamniongezei isipokuwa hasara.”
+**11:63** Alisema, "Enyi watu wangu, je, mmefikiria? Ikiwa nimesimama juu ya uthibitisho ulio wazi kutoka kwa Mola wangu, na amenipa rehema kutoka kwake, ni nani atakayenilinda na Allah, nikimwasi? Hamniongezei isipokuwa hasara."
 
 قَالَ يَٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَءَاتَىٰنِى مِنْهُ رَحْمَةًۭ فَمَن يَنصُرُنِى مِنَ ٱللَّهِ إِنْ عَصَيْتُهُۥ ۖ فَمَا تَزِيدُونَنِى غَيْرَ تَخْسِيرٍۢ
 
-**11:64** “Enyi watu wangu, huyu ni ngamia jike wa Allah, ishara kwa ajili yenu. Mwacheni alishe katika ardhi ya Allah, wala msimdhuru, isije adhabu iliyo karibu ikawafikia.”
+**11:64** "Enyi watu wangu, huyu ni ngamia jike wa Allah, ishara kwa ajili yenu. Mwacheni alishe katika ardhi ya Allah, wala msimdhuru, isije adhabu iliyo karibu ikawafikia."
 
 وَيَٰقَوْمِ هَٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمْ ءَايَةًۭ فَذَرُوهَا تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ وَلَا تَمَسُّوهَا بِسُوٓءٍۢ فَيَأْخُذَكُمْ عَذَابٌۭ قَرِيبٌۭ
 
-**11:65** Lakini walimkata miguu, basi akasema, “Furahini katika nyumba zenu kwa siku tatu. Hii ni ahadi isiyokuwa na uwongo.”
+**11:65** Lakini walimkata miguu, basi akasema, "Furahini katika nyumba zenu kwa siku tatu. Hii ni ahadi isiyokuwa na uwongo."
 
 فَعَقَرُوهَا فَقَالَ تَمَتَّعُوا۟ فِى دَارِكُمْ ثَلَٰثَةَ أَيَّامٍۢ ۖ ذَٰلِكَ وَعْدٌ غَيْرُ مَكْذُوبٍۢ
 
@@ -6428,11 +6428,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 كَأَن لَّمْ يَغْنَوْا۟ فِيهَآ ۗ أَلَآ إِنَّ ثَمُودَا۟ كَفَرُوا۟ رَبَّهُمْ ۗ أَلَا بُعْدًۭا لِّثَمُودَ
 
-**11:69** Watume wetu walimfikia Ibrahimu kwa habari njema. Walisema, “Amani.” Alisema, “Amani.” Muda mfupi baadaye, alikuja na ndama aliyeokwa.
+**11:69** Watume wetu walimfikia Ibrahimu kwa habari njema. Walisema, "Amani." Alisema, "Amani." Muda mfupi baadaye, alikuja na ndama aliyeokwa.
 
 وَلَقَدْ جَآءَتْ رُسُلُنَآ إِبْرَٰهِيمَ بِٱلْبُشْرَىٰ قَالُوا۟ سَلَٰمًۭا ۖ قَالَ سَلَٰمٌۭ ۖ فَمَا لَبِثَ أَن جَآءَ بِعِجْلٍ حَنِيذٍۢ
 
-**11:70** Lakini alipoona mikono yao haimfikii, aliwashuku, na akawaogopa. Walisema, “Usiogope, tulitumwa kwa watu wa Luti.”
+**11:70** Lakini alipoona mikono yao haimfikii, aliwashuku, na akawaogopa. Walisema, "Usiogope, tulitumwa kwa watu wa Luti."
 
 فَلَمَّا رَءَآ أَيْدِيَهُمْ لَا تَصِلُ إِلَيْهِ نَكِرَهُمْ وَأَوْجَسَ مِنْهُمْ خِيفَةًۭ ۚ قَالُوا۟ لَا تَخَفْ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمِ لُوطٍۢ
 
@@ -6440,11 +6440,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَٱمْرَأَتُهُۥ قَآئِمَةٌۭ فَضَحِكَتْ فَبَشَّرْنَٰهَا بِإِسْحَٰقَ وَمِن وَرَآءِ إِسْحَٰقَ يَعْقُوبَ
 
-**11:72** Alisema, “Ole wangu. Je, nitazaa, nami ni mwanamke mzee, na huyu, mume wangu, ni mzee? Hakika hili ni jambo la ajabu.”
+**11:72** Alisema, "Ole wangu. Je, nitazaa, nami ni mwanamke mzee, na huyu, mume wangu, ni mzee? Hakika hili ni jambo la ajabu."
 
 قَالَتْ يَٰوَيْلَتَىٰٓ ءَأَلِدُ وَأَنَا۠ عَجُوزٌۭ وَهَٰذَا بَعْلِى شَيْخًا ۖ إِنَّ هَٰذَا لَشَىْءٌ عَجِيبٌۭ
 
-**11:73** Walisema, “Je, unaona ajabu amri ya Allah? Rehema na baraka za Allah ziko juu yenu, enyi watu wa nyumba. Yeye ni mwenye kusifiwa na mwenye utukufu.”
+**11:73** Walisema, "Je, unaona ajabu amri ya Allah? Rehema na baraka za Allah ziko juu yenu, enyi watu wa nyumba. Yeye ni mwenye kusifiwa na mwenye utukufu."
 
 قَالُوٓا۟ أَتَعْجَبِينَ مِنْ أَمْرِ ٱللَّهِ ۖ رَحْمَتُ ٱللَّهِ وَبَرَكَٰتُهُۥ عَلَيْكُمْ أَهْلَ ٱلْبَيْتِ ۚ إِنَّهُۥ حَمِيدٌۭ مَّجِيدٌۭ
 
@@ -6456,27 +6456,27 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنَّ إِبْرَٰهِيمَ لَحَلِيمٌ أَوَّٰهٌۭ مُّنِيبٌۭ
 
-**11:76** “Ee Ibrahimu, acha hili. Amri ya Mola wako imefika; wamepata adhabu isiyoweza kurejeshwa.”
+**11:76** "Ee Ibrahimu, acha hili. Amri ya Mola wako imefika; wamepata adhabu isiyoweza kurejeshwa."
 
 يَٰٓإِبْرَٰهِيمُ أَعْرِضْ عَنْ هَٰذَآ ۖ إِنَّهُۥ قَدْ جَآءَ أَمْرُ رَبِّكَ ۖ وَإِنَّهُمْ ءَاتِيهِمْ عَذَابٌ غَيْرُ مَرْدُودٍۢ
 
-**11:77** Na watumwa wetu walipomfikia Luti, aliwahuzunikia, na akawa na wasiwasi kwa ajili yao. Alisema, “Hii ni siku ngumu yenye kutisha.”
+**11:77** Na watumwa wetu walipomfikia Luti, aliwahuzunikia, na akawa na wasiwasi kwa ajili yao. Alisema, "Hii ni siku ngumu yenye kutisha."
 
 وَلَمَّا جَآءَتْ رُسُلُنَا لُوطًۭا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًۭا وَقَالَ هَٰذَا يَوْمٌ عَصِيبٌۭ
 
-**11:78** Na watu wake wakamjia kwa kukimbia, walikuwa na tabia ya kufanya dhambi. Alisema, “Enyi watu wangu, hawa ni binti zangu; wao ni safi zaidi kwenu. Basi mcheni Allah, wala msinifedheheshe mbele ya wageni wangu. Je, hakuna hata mtu mmoja mwenye akili miongoni mwenu?”
+**11:78** Na watu wake wakamjia kwa kukimbia, walikuwa na tabia ya kufanya dhambi. Alisema, "Enyi watu wangu, hawa ni binti zangu; wao ni safi zaidi kwenu. Basi mcheni Allah, wala msinifedheheshe mbele ya wageni wangu. Je, hakuna hata mtu mmoja mwenye akili miongoni mwenu?"
 
 وَجَآءَهُۥ قَوْمُهُۥ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا۟ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ ۚ قَالَ يَٰقَوْمِ هَٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ فِى ضَيْفِىٓ ۖ أَلَيْسَ مِنكُمْ رَجُلٌۭ رَّشِيدٌۭ
 
-**11:79** Walisema, “Unajua vizuri kwamba hatuna haki yoyote juu ya binti zako, na unajua vizuri tunachokitaka.”
+**11:79** Walisema, "Unajua vizuri kwamba hatuna haki yoyote juu ya binti zako, na unajua vizuri tunachokitaka."
 
 قَالُوا۟ لَقَدْ عَلِمْتَ مَا لَنَا فِى بَنَاتِكَ مِنْ حَقٍّۢ وَإِنَّكَ لَتَعْلَمُ مَا نُرِيدُ
 
-**11:80** Alisema, “Laiti ningekuwa na nguvu za kuwazuia, au ningeweza kutegemea msaada wenye nguvu.”
+**11:80** Alisema, "Laiti ningekuwa na nguvu za kuwazuia, au ningeweza kutegemea msaada wenye nguvu."
 
 قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ
 
-**11:81** Walisema, “Ee Luti, sisi ni watumwa wa Mola wako; hawataweza kukufikia. Basi ondoka na familia yako wakati wa usiku, wala yeyote wenu asitazame nyuma, isipokuwa mke wako. Atapata yatakayowapata. Muda wao uliowekwa ni asubuhi. Je, asubuhi si karibu?”
+**11:81** Walisema, "Ee Luti, sisi ni watumwa wa Mola wako; hawataweza kukufikia. Basi ondoka na familia yako wakati wa usiku, wala yeyote wenu asitazame nyuma, isipokuwa mke wako. Atapata yatakayowapata. Muda wao uliowekwa ni asubuhi. Je, asubuhi si karibu?"
 
 قَالُوا۟ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ ۖ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍۢ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ ۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ ۚ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ ۚ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍۢ
 
@@ -6488,43 +6488,43 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 مُّسَوَّمَةً عِندَ رَبِّكَ ۖ وَمَا هِىَ مِنَ ٱلظَّٰلِمِينَ بِبَعِيدٍۢ
 
-**11:84** Na kwa Madyani, ndugu yao Shuaibu. Alisema, “Enyi watu wangu, mwabuduni Allah; hakuna mungu ila Yeye. Wala msipunguze kipimo wala mizani. Ninaona mko katika hali nzuri, lakini ninaogopa kwa ajili yenu mateso ya Siku inayozunguka kila kitu.”
+**11:84** Na kwa Madyani, ndugu yao Shuaibu. Alisema, "Enyi watu wangu, mwabuduni Allah; hakuna mungu ila Yeye. Wala msipunguze kipimo wala mizani. Ninaona mko katika hali nzuri, lakini ninaogopa kwa ajili yenu mateso ya Siku inayozunguka kila kitu."
 
 ۞ وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا ۚ قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ ۖ وَلَا تَنقُصُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ ۚ إِنِّىٓ أَرَىٰكُم بِخَيْرٍۢ وَإِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍۢ مُّحِيطٍۢ
 
-**11:85** “Enyi watu wangu! Toeni kipimo kamili na mizani kamili, kwa haki yote, wala msiwadhulumu watu haki zao, wala msieneze uharibifu ardhini.
+**11:85** "Enyi watu wangu! Toeni kipimo kamili na mizani kamili, kwa haki yote, wala msiwadhulumu watu haki zao, wala msieneze uharibifu ardhini.
 
 وَيَٰقَوْمِ أَوْفُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ بِٱلْقِسْطِ ۖ وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
 
-**11:86** Kilichobaki kutoka kwa Allah ni bora kwenu, ikiwa ninyi ni waumini. Na mimi si mlinzi wenu.”
+**11:86** Kilichobaki kutoka kwa Allah ni bora kwenu, ikiwa ninyi ni waumini. Na mimi si mlinzi wenu."
 
 بَقِيَّتُ ٱللَّهِ خَيْرٌۭ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ ۚ وَمَآ أَنَا۠ عَلَيْكُم بِحَفِيظٍۢ
 
-**11:87** Walisema, “Ee Shuaibu, je, sala yako inakuamuru tuache waliyokuwa wakiabudu mababu zetu, au kufanya kwa mali yetu tunachokitaka? Wewe ndiye mwenye akili na hekima.”
+**11:87** Walisema, "Ee Shuaibu, je, sala yako inakuamuru tuache waliyokuwa wakiabudu mababu zetu, au kufanya kwa mali yetu tunachokitaka? Wewe ndiye mwenye akili na hekima."
 
 قَالُوا۟ يَٰشُعَيْبُ أَصَلَوٰتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءَابَآؤُنَآ أَوْ أَن نَّفْعَلَ فِىٓ أَمْوَٰلِنَا مَا نَشَٰٓؤُا۟ ۖ إِنَّكَ لَأَنتَ ٱلْحَلِيمُ ٱلرَّشِيدُ
 
-**11:88** Alisema, “Enyi watu wangu, je, mmefikiria? Ikiwa nina uthibitisho ulio wazi kutoka kwa Mola wangu, na amenipa riziki nzuri kutoka kwake? Sina tamaa ya kufanya ninalowakataza. Sitaki isipokuwa marekebisho, kadiri niwezavyo. Ufanisi wangu ni kwa Allah tu. Ninamtegemea Yeye, na kwake ninarudi.”
+**11:88** Alisema, "Enyi watu wangu, je, mmefikiria? Ikiwa nina uthibitisho ulio wazi kutoka kwa Mola wangu, na amenipa riziki nzuri kutoka kwake? Sina tamaa ya kufanya ninalowakataza. Sitaki isipokuwa marekebisho, kadiri niwezavyo. Ufanisi wangu ni kwa Allah tu. Ninamtegemea Yeye, na kwake ninarudi."
 
 قَالَ يَٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَرَزَقَنِى مِنْهُ رِزْقًا حَسَنًۭا ۚ وَمَآ أُرِيدُ أَنْ أُخَالِفَكُمْ إِلَىٰ مَآ أَنْهَىٰكُمْ عَنْهُ ۚ إِنْ أُرِيدُ إِلَّا ٱلْإِصْلَٰحَ مَا ٱسْتَطَعْتُ ۚ وَمَا تَوْفِيقِىٓ إِلَّا بِٱللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ
 
-**11:89** “Enyi watu wangu, uadui wenu kwangu usiwafanye mpate yaliyowapata watu wa Nuhu, au watu wa Hud, au watu wa Swalehe. Watu wa Luti hawako mbali nanyi.”
+**11:89** "Enyi watu wangu, uadui wenu kwangu usiwafanye mpate yaliyowapata watu wa Nuhu, au watu wa Hud, au watu wa Swalehe. Watu wa Luti hawako mbali nanyi."
 
 وَيَٰقَوْمِ لَا يَجْرِمَنَّكُمْ شِقَاقِىٓ أَن يُصِيبَكُم مِّثْلُ مَآ أَصَابَ قَوْمَ نُوحٍ أَوْ قَوْمَ هُودٍ أَوْ قَوْمَ صَٰلِحٍۢ ۚ وَمَا قَوْمُ لُوطٍۢ مِّنكُم بِبَعِيدٍۢ
 
-**11:90** “Na mwombeni Mola wenu msamaha, na tubuni kwake. Mola wangu ni mwenye kurehemu na mwenye kupenda.”
+**11:90** "Na mwombeni Mola wenu msamaha, na tubuni kwake. Mola wangu ni mwenye kurehemu na mwenye kupenda."
 
 وَٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ ۚ إِنَّ رَبِّى رَحِيمٌۭ وَدُودٌۭ
 
-**11:91** Walisema, “Ee Shuaibu, hatuelewi mengi ya unayoyasema, na tunaona kwamba wewe ni dhaifu kati yetu. Kama si kabila lako, tungekupiga mawe. Wewe huna thamani kwetu.”
+**11:91** Walisema, "Ee Shuaibu, hatuelewi mengi ya unayoyasema, na tunaona kwamba wewe ni dhaifu kati yetu. Kama si kabila lako, tungekupiga mawe. Wewe huna thamani kwetu."
 
 قَالُوا۟ يَٰشُعَيْبُ مَا نَفْقَهُ كَثِيرًۭا مِّمَّا تَقُولُ وَإِنَّا لَنَرَىٰكَ فِينَا ضَعِيفًۭا ۖ وَلَوْلَا رَهْطُكَ لَرَجَمْنَٰكَ ۖ وَمَآ أَنتَ عَلَيْنَا بِعَزِيزٍۢ
 
-**11:92** Alisema, “Enyi watu wangu, je, kabila langu ni muhimu zaidi kwenu kuliko Allah? Na mmempa mgongo? Mola wangu anazunguka kila mnachokifanya.”
+**11:92** Alisema, "Enyi watu wangu, je, kabila langu ni muhimu zaidi kwenu kuliko Allah? Na mmempa mgongo? Mola wangu anazunguka kila mnachokifanya."
 
 قَالَ يَٰقَوْمِ أَرَهْطِىٓ أَعَزُّ عَلَيْكُم مِّنَ ٱللَّهِ وَٱتَّخَذْتُمُوهُ وَرَآءَكُمْ ظِهْرِيًّا ۖ إِنَّ رَبِّى بِمَا تَعْمَلُونَ مُحِيطٌۭ
 
-**11:93** “Enyi watu wangu, fanyeni muwezavyo, nami nitafanya. Mtajua ni nani atakayefikiwa na adhabu itakayomfedhehesha, na ni nani mwongo. Basi angalien; mimi ninaangalia pamoja nanyi.”
+**11:93** "Enyi watu wangu, fanyeni muwezavyo, nami nitafanya. Mtajua ni nani atakayefikiwa na adhabu itakayomfedhehesha, na ni nani mwongo. Basi angalien; mimi ninaangalia pamoja nanyi."
 
 وَيَٰقَوْمِ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنِّى عَٰمِلٌۭ ۖ سَوْفَ تَعْلَمُونَ مَن يَأْتِيهِ عَذَابٌۭ يُخْزِيهِ وَمَنْ هُوَ كَٰذِبٌۭ ۖ وَٱرْتَقِبُوٓا۟ إِنِّى مَعَكُمْ رَقِيبٌۭ
 
@@ -6628,7 +6628,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَوْ شَآءَ رَبُّكَ لَجَعَلَ ٱلنَّاسَ أُمَّةًۭ وَٰحِدَةًۭ ۖ وَلَا يَزَالُونَ مُخْتَلِفِينَ
 
-**11:119** Isipokuwa wale ambao Mola wako amewarehemu, kwa sababu hiyo aliwaumba. Neno la Mola wako ni la mwisho: “Nitaijaza Jahannamu kwa majini na wanadamu, wote pamoja.”
+**11:119** Isipokuwa wale ambao Mola wako amewarehemu, kwa sababu hiyo aliwaumba. Neno la Mola wako ni la mwisho: "Nitaijaza Jahannamu kwa majini na wanadamu, wote pamoja."
 
 إِلَّا مَن رَّحِمَ رَبُّكَ ۚ وَلِذَٰلِكَ خَلَقَهُمْ ۗ وَتَمَّتْ كَلِمَةُ رَبِّكَ لَأَمْلَأَنَّ جَهَنَّمَ مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ أَجْمَعِينَ
 
@@ -6636,11 +6636,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَكُلًّۭا نَّقُصُّ عَلَيْكَ مِنْ أَنۢبَآءِ ٱلرُّسُلِ مَا نُثَبِّتُ بِهِۦ فُؤَادَكَ ۚ وَجَآءَكَ فِى هَٰذِهِ ٱلْحَقُّ وَمَوْعِظَةٌۭ وَذِكْرَىٰ لِلْمُؤْمِنِينَ
 
-**11:121** Waambie wasioamini, “Tendeni kadiri muwezavyo; nasi tutatenda.”
+**11:121** Waambie wasioamini, "Tendeni kadiri muwezavyo; nasi tutatenda."
 
 وَقُل لِّلَّذِينَ لَا يُؤْمِنُونَ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنَّا عَٰمِلُونَ
 
-**11:122** “Na subirin; nasi tunasubiri.”
+**11:122** "Na subirin; nasi tunasubiri."
 
 وَٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ
 
@@ -6672,11 +6672,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ ٱلْقَصَصِ بِمَآ أَوْحَيْنَآ إِلَيْكَ هَٰذَا ٱلْقُرْءَانَ وَإِن كُنتَ مِن قَبْلِهِۦ لَمِنَ ٱلْغَٰفِلِينَ
 
-**12:4** Yusufu alipomwambia baba yake, “Ee baba yangu, niliona sayari kumi na moja, na jua, na mwezi; niliziona zinanisujudia.”
+**12:4** Yusufu alipomwambia baba yake, "Ee baba yangu, niliona sayari kumi na moja, na jua, na mwezi; niliziona zinanisujudia."
 
 إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَٰجِدِينَ
 
-**12:5** Alisema, “Ee mwanangu, usiwaeleze ndugu zako ndoto yako, wasije wakakupangia hila. Shetani ni adui wa mwanadamu aliyetangaza uadui wake.
+**12:5** Alisema, "Ee mwanangu, usiwaeleze ndugu zako ndoto yako, wasije wakakupangia hila. Shetani ni adui wa mwanadamu aliyetangaza uadui wake.
 
 قَالَ يَٰبُنَىَّ لَا تَقْصُصْ رُءْيَاكَ عَلَىٰٓ إِخْوَتِكَ فَيَكِيدُوا۟ لَكَ كَيْدًا ۖ إِنَّ ٱلشَّيْطَٰنَ لِلْإِنسَٰنِ عَدُوٌّۭ مُّبِينٌۭ
 
@@ -6688,35 +6688,35 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ۞ لَّقَدْ كَانَ فِى يُوسُفَ وَإِخْوَتِهِۦٓ ءَايَٰتٌۭ لِّلسَّآئِلِينَ
 
-**12:8** Waliposema, “Yusufu na ndugu yake wanapendwa zaidi na baba yetu kuliko sisi, ingawa sisi ni kundi zima. Hakika baba yetu yuko katika upotofu wa wazi.
+**12:8** Waliposema, "Yusufu na ndugu yake wanapendwa zaidi na baba yetu kuliko sisi, ingawa sisi ni kundi zima. Hakika baba yetu yuko katika upotofu wa wazi.
 
 إِذْ قَالُوا۟ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِى ضَلَٰلٍۢ مُّبِينٍ
 
-**12:9** “Muue Yusufu, au mtupeni mahali fulani ardhini, na uso wa baba yenu utakuwa wenu. Baada ya hapo, mtakuwa watu wema.”
+**12:9** "Muue Yusufu, au mtupeni mahali fulani ardhini, na uso wa baba yenu utakuwa wenu. Baada ya hapo, mtakuwa watu wema."
 
 ٱقْتُلُوا۟ يُوسُفَ أَوِ ٱطْرَحُوهُ أَرْضًۭا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا۟ مِنۢ بَعْدِهِۦ قَوْمًۭا صَٰلِحِينَ
 
-**12:10** Mmoja wao alisema, “Msimue Yusufu, lakini mtupeni ndani ya kina cha kisima; msafara fulani utamwokota, ikiwa ni lazima mufanye jambo.”
+**12:10** Mmoja wao alisema, "Msimue Yusufu, lakini mtupeni ndani ya kina cha kisima; msafara fulani utamwokota, ikiwa ni lazima mufanye jambo."
 
 قَالَ قَآئِلٌۭ مِّنْهُمْ لَا تَقْتُلُوا۟ يُوسُفَ وَأَلْقُوهُ فِى غَيَٰبَتِ ٱلْجُبِّ يَلْتَقِطْهُ بَعْضُ ٱلسَّيَّارَةِ إِن كُنتُمْ فَٰعِلِينَ
 
-**12:11** Walisema, “Ee baba, kwa nini humwamini juu ya Yusufu, ingawa tunamtunza?”
+**12:11** Walisema, "Ee baba, kwa nini humwamini juu ya Yusufu, ingawa tunamtunza?"
 
 قَالُوا۟ يَٰٓأَبَانَا مَا لَكَ لَا تَأْمَ۫نَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَٰصِحُونَ
 
-**12:12** “Mpeleke pamoja nasi kesho, atembelee na acheze; tutamtunza.”
+**12:12** "Mpeleke pamoja nasi kesho, atembelee na acheze; tutamtunza."
 
 أَرْسِلْهُ مَعَنَا غَدًۭا يَرْتَعْ وَيَلْعَبْ وَإِنَّا لَهُۥ لَحَٰفِظُونَ
 
-**12:13** Alisema, “Inanihuzunisha kwamba mtampeleka. Na ninaogopa mbwa mwitu atamla mnapokuwa hamjali juu yake.”
+**12:13** Alisema, "Inanihuzunisha kwamba mtampeleka. Na ninaogopa mbwa mwitu atamla mnapokuwa hamjali juu yake."
 
 قَالَ إِنِّى لَيَحْزُنُنِىٓ أَن تَذْهَبُوا۟ بِهِۦ وَأَخَافُ أَن يَأْكُلَهُ ٱلذِّئْبُ وَأَنتُمْ عَنْهُ غَٰفِلُونَ
 
-**12:14** Walisema, “Ikiwa mbwa mwitu atamla, nasi tuko wengi, tutakuwa watu wasiofaa kitu.”
+**12:14** Walisema, "Ikiwa mbwa mwitu atamla, nasi tuko wengi, tutakuwa watu wasiofaa kitu."
 
 قَالُوا۟ لَئِنْ أَكَلَهُ ٱلذِّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّآ إِذًۭا لَّخَٰسِرُونَ
 
-**12:15** Basi wakaenda naye, na wakakubaliana kumweka ndani ya kina cha kisima. Na tukamfunulia, “Utawajulia kuhusu tendo hili lao wakati hawatambui.”
+**12:15** Basi wakaenda naye, na wakakubaliana kumweka ndani ya kina cha kisima. Na tukamfunulia, "Utawajulia kuhusu tendo hili lao wakati hawatambui."
 
 فَلَمَّا ذَهَبُوا۟ بِهِۦ وَأَجْمَعُوٓا۟ أَن يَجْعَلُوهُ فِى غَيَٰبَتِ ٱلْجُبِّ ۚ وَأَوْحَيْنَآ إِلَيْهِ لَتُنَبِّئَنَّهُم بِأَمْرِهِمْ هَٰذَا وَهُمْ لَا يَشْعُرُونَ
 
@@ -6724,15 +6724,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَجَآءُوٓ أَبَاهُمْ عِشَآءًۭ يَبْكُونَ
 
-**12:17** Walisema, “Ee baba, tulienda kushindana mbio, na tukamwacha Yusufu karibu na mizigo yetu; na mbwa mwitu akamla. Lakini hutatuamini, ingawa tunasema kweli.”
+**12:17** Walisema, "Ee baba, tulienda kushindana mbio, na tukamwacha Yusufu karibu na mizigo yetu; na mbwa mwitu akamla. Lakini hutatuamini, ingawa tunasema kweli."
 
 قَالُوا۟ يَٰٓأَبَانَآ إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِندَ مَتَٰعِنَا فَأَكَلَهُ ٱلذِّئْبُ ۖ وَمَآ أَنتَ بِمُؤْمِنٍۢ لَّنَا وَلَوْ كُنَّا صَٰدِقِينَ
 
-**12:18** Na wakaleta kanzu yake, ikiwa na damu ya uwongo juu yake. Alisema, “Nafsi zenu zimewashawishi mufanye jambo. Lakini subira ni nzuri, na Allah ndiye msaada wangu dhidi ya mnayoyaeleza.”
+**12:18** Na wakaleta kanzu yake, ikiwa na damu ya uwongo juu yake. Alisema, "Nafsi zenu zimewashawishi mufanye jambo. Lakini subira ni nzuri, na Allah ndiye msaada wangu dhidi ya mnayoyaeleza."
 
 وَجَآءُو عَلَىٰ قَمِيصِهِۦ بِدَمٍۢ كَذِبٍۢ ۚ قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًۭا ۖ فَصَبْرٌۭ جَمِيلٌۭ ۖ وَٱللَّهُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ
 
-**12:19** Msafara ukapita, na wakamtuma mchukua maji wao. Akateremsha ndoo yake, na akasema, “Habari njema. Huyu ni kijana.” Na wakamficha kama bidhaa. Lakini Allah alijua wanayoyafanya.
+**12:19** Msafara ukapita, na wakamtuma mchukua maji wao. Akateremsha ndoo yake, na akasema, "Habari njema. Huyu ni kijana." Na wakamficha kama bidhaa. Lakini Allah alijua wanayoyafanya.
 
 وَجَآءَتْ سَيَّارَةٌۭ فَأَرْسَلُوا۟ وَارِدَهُمْ فَأَدْلَىٰ دَلْوَهُۥ ۖ قَالَ يَٰبُشْرَىٰ هَٰذَا غُلَٰمٌۭ ۚ وَأَسَرُّوهُ بِضَٰعَةًۭ ۚ وَٱللَّهُ عَلِيمٌۢ بِمَا يَعْمَلُونَ
 
@@ -6740,7 +6740,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَشَرَوْهُ بِثَمَنٍۭ بَخْسٍۢ دَرَٰهِمَ مَعْدُودَةٍۢ وَكَانُوا۟ فِيهِ مِنَ ٱلزَّٰهِدِينَ
 
-**12:21** Mmisri aliyemnunua akamwambia mke wake, “Mtunze vizuri; anaweza kutufaa, au tunaweza kumchukua kuwa mwana.” Ndivyo tulivyomweka Yusufu ardhini, ili tumfundishe ufafanuzi wa matukio. Allah ana udhibiti juu ya mambo yake, lakini watu wengi hawajui.
+**12:21** Mmisri aliyemnunua akamwambia mke wake, "Mtunze vizuri; anaweza kutufaa, au tunaweza kumchukua kuwa mwana." Ndivyo tulivyomweka Yusufu ardhini, ili tumfundishe ufafanuzi wa matukio. Allah ana udhibiti juu ya mambo yake, lakini watu wengi hawajui.
 
 وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
@@ -6748,7 +6748,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَمَّا بَلَغَ أَشُدَّهُۥٓ ءَاتَيْنَٰهُ حُكْمًۭا وَعِلْمًۭا ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
 
-**12:23** Mwanamke ambaye alikuwa nyumbani kwake alijaribu kumshawishi. Akafunga milango, na akasema, “Mimi ni wako.” Alisema, “Najikinga kwa Allah! Yeye ni Mola wangu. Amenipa makazi mazuri. Wenye dhambi hawafaulu kamwe.”
+**12:23** Mwanamke ambaye alikuwa nyumbani kwake alijaribu kumshawishi. Akafunga milango, na akasema, "Mimi ni wako." Alisema, "Najikinga kwa Allah! Yeye ni Mola wangu. Amenipa makazi mazuri. Wenye dhambi hawafaulu kamwe."
 
 وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ ۚ قَالَ مَعَاذَ ٱللَّهِ ۖ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ ۖ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
 
@@ -6756,39 +6756,39 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَقَدْ هَمَّتْ بِهِۦ ۖ وَهَمَّ بِهَا لَوْلَآ أَن رَّءَا بُرْهَٰنَ رَبِّهِۦ ۚ كَذَٰلِكَ لِنَصْرِفَ عَنْهُ ٱلسُّوٓءَ وَٱلْفَحْشَآءَ ۚ إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُخْلَصِينَ
 
-**12:25** Waliposhindana kukimbilia mlangoni, alichana kanzu yake kwa nyuma. Mlangoni, wakamkuta mume wake. Alisema, “Ni adhabu gani kwa anayetaka kumdhalilisha mke wako, isipokuwa kifungo au adhabu yenye uchungu?”
+**12:25** Waliposhindana kukimbilia mlangoni, alichana kanzu yake kwa nyuma. Mlangoni, wakamkuta mume wake. Alisema, "Ni adhabu gani kwa anayetaka kumdhalilisha mke wako, isipokuwa kifungo au adhabu yenye uchungu?"
 
 وَٱسْتَبَقَا ٱلْبَابَ وَقَدَّتْ قَمِيصَهُۥ مِن دُبُرٍۢ وَأَلْفَيَا سَيِّدَهَا لَدَا ٱلْبَابِ ۚ قَالَتْ مَا جَزَآءُ مَنْ أَرَادَ بِأَهْلِكَ سُوٓءًا إِلَّآ أَن يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌۭ
 
-**12:26** Alisema, “Yeye ndiye aliyejaribu kunishawishi.” Shahidi kutoka familia yake akatoa wazo: “Ikiwa kanzu yake imechanwa kwa mbele: basi amesema kweli, naye ni mwongo.
+**12:26** Alisema, "Yeye ndiye aliyejaribu kunishawishi." Shahidi kutoka familia yake akatoa wazo: "Ikiwa kanzu yake imechanwa kwa mbele: basi amesema kweli, naye ni mwongo.
 
 قَالَ هِىَ رَٰوَدَتْنِى عَن نَّفْسِى ۚ وَشَهِدَ شَاهِدٌۭ مِّنْ أَهْلِهَآ إِن كَانَ قَمِيصُهُۥ قُدَّ مِن قُبُلٍۢ فَصَدَقَتْ وَهُوَ مِنَ ٱلْكَٰذِبِينَ
 
-**12:27** Lakini ikiwa kanzu yake imechanwa kwa nyuma: basi ameliegopa, naye ni mkweli.”
+**12:27** Lakini ikiwa kanzu yake imechanwa kwa nyuma: basi ameliegopa, naye ni mkweli."
 
 وَإِن كَانَ قَمِيصُهُۥ قُدَّ مِن دُبُرٍۢ فَكَذَبَتْ وَهُوَ مِنَ ٱلصَّٰدِقِينَ
 
-**12:28** Na alipoona kwamba kanzu yake imechanwa kwa nyuma, alisema, “Hii ni hila ya wanawake. Hakika hila zenu ni kubwa.”
+**12:28** Na alipoona kwamba kanzu yake imechanwa kwa nyuma, alisema, "Hii ni hila ya wanawake. Hakika hila zenu ni kubwa."
 
 فَلَمَّا رَءَا قَمِيصَهُۥ قُدَّ مِن دُبُرٍۢ قَالَ إِنَّهُۥ مِن كَيْدِكُنَّ ۖ إِنَّ كَيْدَكُنَّ عَظِيمٌۭ
 
-**12:29** “Yusufu, acha hili. Na wewe, mwanamke, omba msamaha kwa dhambi yako; hakika wewe uko katika makosa.”
+**12:29** "Yusufu, acha hili. Na wewe, mwanamke, omba msamaha kwa dhambi yako; hakika wewe uko katika makosa."
 
 يُوسُفُ أَعْرِضْ عَنْ هَٰذَا ۚ وَٱسْتَغْفِرِى لِذَنۢبِكِ ۖ إِنَّكِ كُنتِ مِنَ ٱلْخَاطِـِٔينَ
 
-**12:30** Baadhi ya wanawake mjini walisema, “Mke wa mtawala anajaribu kumshawishi mtumwa wake. Anampenda sana. Tunaona amepotea.”
+**12:30** Baadhi ya wanawake mjini walisema, "Mke wa mtawala anajaribu kumshawishi mtumwa wake. Anampenda sana. Tunaona amepotea."
 
 ۞ وَقَالَ نِسْوَةٌۭ فِى ٱلْمَدِينَةِ ٱمْرَأَتُ ٱلْعَزِيزِ تُرَٰوِدُ فَتَىٰهَا عَن نَّفْسِهِۦ ۖ قَدْ شَغَفَهَا حُبًّا ۖ إِنَّا لَنَرَىٰهَا فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
-**12:31** Na aliposikia uvumi wao, aliwaalika, na akawaandalia karamu, na akampa kila mmoja wao kisu. Akasema, “Tokea mbele yao.” Na walipomwona, walimwona wa ajabu, na wakajikata mikono. Walisema, “Ametakasika Allah, huyu si mwanadamu, huyu ni malaika mwenye heshima.”
+**12:31** Na aliposikia uvumi wao, aliwaalika, na akawaandalia karamu, na akampa kila mmoja wao kisu. Akasema, "Tokea mbele yao." Na walipomwona, walimwona wa ajabu, na wakajikata mikono. Walisema, "Ametakasika Allah, huyu si mwanadamu, huyu ni malaika mwenye heshima."
 
 فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَـًۭٔا وَءَاتَتْ كُلَّ وَٰحِدَةٍۢ مِّنْهُنَّ سِكِّينًۭا وَقَالَتِ ٱخْرُجْ عَلَيْهِنَّ ۖ فَلَمَّا رَأَيْنَهُۥٓ أَكْبَرْنَهُۥ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَٰشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنْ هَٰذَآ إِلَّا مَلَكٌۭ كَرِيمٌۭ
 
-**12:32** Alisema, “Huyu ndiye ambaye mlinilaumu kwa ajili yake. Hakika nilijaribu kumshawishi, lakini alikataa. Lakini asipofanya ninayomwambia afanye, atafungwa, na atakuwa miongoni mwa wanaodhalilishwa.”
+**12:32** Alisema, "Huyu ndiye ambaye mlinilaumu kwa ajili yake. Hakika nilijaribu kumshawishi, lakini alikataa. Lakini asipofanya ninayomwambia afanye, atafungwa, na atakuwa miongoni mwa wanaodhalilishwa."
 
 قَالَتْ فَذَٰلِكُنَّ ٱلَّذِى لُمْتُنَّنِى فِيهِ ۖ وَلَقَدْ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ فَٱسْتَعْصَمَ ۖ وَلَئِن لَّمْ يَفْعَلْ مَآ ءَامُرُهُۥ لَيُسْجَنَنَّ وَلَيَكُونًۭا مِّنَ ٱلصَّٰغِرِينَ
 
-**12:33** Alisema, “Ee Mola wangu, gereza ni bora kwangu kuliko wanayoniitia. Usipozigeuza hila zao mbali nami, ninaweza kuwaelekea, na nikawa miongoni mwa wasiojua.”
+**12:33** Alisema, "Ee Mola wangu, gereza ni bora kwangu kuliko wanayoniitia. Usipozigeuza hila zao mbali nami, ninaweza kuwaelekea, na nikawa miongoni mwa wasiojua."
 
 قَالَ رَبِّ ٱلسِّجْنُ أَحَبُّ إِلَىَّ مِمَّا يَدْعُونَنِىٓ إِلَيْهِ ۖ وَإِلَّا تَصْرِفْ عَنِّى كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُن مِّنَ ٱلْجَٰهِلِينَ
 
@@ -6800,51 +6800,51 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ثُمَّ بَدَا لَهُم مِّنۢ بَعْدِ مَا رَأَوُا۟ ٱلْءَايَٰتِ لَيَسْجُنُنَّهُۥ حَتَّىٰ حِينٍۢ
 
-**12:36** Vijana wawili waliingia gerezani pamoja naye. Mmoja wao alisema, “Najiona nikikamua divai.” Mwingine alisema, “Najiona nikibeba mkate juu ya kichwa changu, ambao ndege wanakula. Tuambie ufafanuzi wake, tunaona kwamba wewe ni miongoni mwa watenda haki.”
+**12:36** Vijana wawili waliingia gerezani pamoja naye. Mmoja wao alisema, "Najiona nikikamua divai." Mwingine alisema, "Najiona nikibeba mkate juu ya kichwa changu, ambao ndege wanakula. Tuambie ufafanuzi wake, tunaona kwamba wewe ni miongoni mwa watenda haki."
 
 وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ ۖ قَالَ أَحَدُهُمَآ إِنِّىٓ أَرَىٰنِىٓ أَعْصِرُ خَمْرًۭا ۖ وَقَالَ ٱلْءَاخَرُ إِنِّىٓ أَرَىٰنِىٓ أَحْمِلُ فَوْقَ رَأْسِى خُبْزًۭا تَأْكُلُ ٱلطَّيْرُ مِنْهُ ۖ نَبِّئْنَا بِتَأْوِيلِهِۦٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ
 
-**12:37** Alisema, “Hakuna chakula kinacholetwa kwenu, isipokuwa nimewajulia kuhusu nacho kabla hamjakipokea. Hiyo ni sehemu ya alichonifundisha Mola wangu. Nimeacha mila ya watu wasiomwamini Allah; na kuhusu Akhera, wao wanaikana.”
+**12:37** Alisema, "Hakuna chakula kinacholetwa kwenu, isipokuwa nimewajulia kuhusu nacho kabla hamjakipokea. Hiyo ni sehemu ya alichonifundisha Mola wangu. Nimeacha mila ya watu wasiomwamini Allah; na kuhusu Akhera, wao wanaikana."
 
 قَالَ لَا يَأْتِيكُمَا طَعَامٌۭ تُرْزَقَانِهِۦٓ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِۦ قَبْلَ أَن يَأْتِيَكُمَا ۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِى رَبِّىٓ ۚ إِنِّى تَرَكْتُ مِلَّةَ قَوْمٍۢ لَّا يُؤْمِنُونَ بِٱللَّهِ وَهُم بِٱلْءَاخِرَةِ هُمْ كَٰفِرُونَ
 
-**12:38** “Na nimefuata imani ya mababu zangu, Ibrahimu, na Isihaka, na Yaakubu. Si juu yetu kushirikisha chochote na Allah. Hii ni kwa fadhila za Allah juu yetu na juu ya watu, lakini watu wengi hawashukuru.
+**12:38** "Na nimefuata imani ya mababu zangu, Ibrahimu, na Isihaka, na Yaakubu. Si juu yetu kushirikisha chochote na Allah. Hii ni kwa fadhila za Allah juu yetu na juu ya watu, lakini watu wengi hawashukuru.
 
 وَٱتَّبَعْتُ مِلَّةَ ءَابَآءِىٓ إِبْرَٰهِيمَ وَإِسْحَٰقَ وَيَعْقُوبَ ۚ مَا كَانَ لَنَآ أَن نُّشْرِكَ بِٱللَّهِ مِن شَىْءٍۢ ۚ ذَٰلِكَ مِن فَضْلِ ٱللَّهِ عَلَيْنَا وَعَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ
 
-**12:39** “Enyi wenzangu wa gerezani, je, miungu mbalimbali ni bora, au Allah, wa pekee, mwenye nguvu kuu?”
+**12:39** "Enyi wenzangu wa gerezani, je, miungu mbalimbali ni bora, au Allah, wa pekee, mwenye nguvu kuu?"
 
 يَٰصَىٰحِبَىِ ٱلسِّجْنِ ءَأَرْبَابٌۭ مُّتَفَرِّقُونَ خَيْرٌ أَمِ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ
 
-**12:40** “Hamwaabudu, badala yake, isipokuwa majina mliyoyapa, ninyi na mababu zenu, ambayo Allah hakuteremsha mamlaka yoyote kwayo. Hukumu si ya yeyote isipokuwa Allah. Ameamuru msiabudu yeyote isipokuwa Yeye. Hii ndiyo dini iliyo sawa, lakini watu wengi hawajui.
+**12:40** "Hamwaabudu, badala yake, isipokuwa majina mliyoyapa, ninyi na mababu zenu, ambayo Allah hakuteremsha mamlaka yoyote kwayo. Hukumu si ya yeyote isipokuwa Allah. Ameamuru msiabudu yeyote isipokuwa Yeye. Hii ndiyo dini iliyo sawa, lakini watu wengi hawajui.
 
 مَا تَعْبُدُونَ مِن دُونِهِۦٓ إِلَّآ أَسْمَآءًۭ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍ ۚ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
-**12:41** “Enyi wenzangu wa gerezani! Mmoja wenu atamnywesha bwana wake divai; ama mwingine atasulubiwa, na ndege watakula kutoka kichwani kwake. Hivyo jambo mnayoliulizia limeamuliwa.”
+**12:41** "Enyi wenzangu wa gerezani! Mmoja wenu atamnywesha bwana wake divai; ama mwingine atasulubiwa, na ndege watakula kutoka kichwani kwake. Hivyo jambo mnayoliulizia limeamuliwa."
 
 يَٰصَىٰحِبَىِ ٱلسِّجْنِ أَمَّآ أَحَدُكُمَا فَيَسْقِى رَبَّهُۥ خَمْرًۭا ۖ وَأَمَّا ٱلْءَاخَرُ فَيُصْلَبُ فَتَأْكُلُ ٱلطَّيْرُ مِن رَّأْسِهِۦ ۚ قُضِىَ ٱلْأَمْرُ ٱلَّذِى فِيهِ تَسْتَفْتِيَانِ
 
-**12:42** Na akamwambia yule aliyedhani ataachiliwa, “Nitaje kwa bwana wako.” Lakini Shetani akamsahaulisha kumtaja kwa bwana wake, basi akabaki gerezani kwa miaka kadhaa.
+**12:42** Na akamwambia yule aliyedhani ataachiliwa, "Nitaje kwa bwana wako." Lakini Shetani akamsahaulisha kumtaja kwa bwana wake, basi akabaki gerezani kwa miaka kadhaa.
 
 وَقَالَ لِلَّذِى ظَنَّ أَنَّهُۥ نَاجٍۢ مِّنْهُمَا ٱذْكُرْنِى عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّيْطَٰنُ ذِكْرَ رَبِّهِۦ فَلَبِثَ فِى ٱلسِّجْنِ بِضْعَ سِنِينَ
 
-**12:43** Mfalme alisema, “Naona ng'ombe saba wanene wakiliwa na saba waliokonda, na masuke saba ya kijani, na mengine yaliyokauka. Enyi wakuu, nielezeni ndoto yangu, ikiwa mnaweza kufafanua ndoto.”
+**12:43** Mfalme alisema, "Naona ng'ombe saba wanene wakiliwa na saba waliokonda, na masuke saba ya kijani, na mengine yaliyokauka. Enyi wakuu, nielezeni ndoto yangu, ikiwa mnaweza kufafanua ndoto."
 
 وَقَالَ ٱلْمَلِكُ إِنِّىٓ أَرَىٰ سَبْعَ بَقَرَٰتٍۢ سِمَانٍۢ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌۭ وَسَبْعَ سُنۢبُلَٰتٍ خُضْرٍۢ وَأُخَرَ يَابِسَٰتٍۢ ۖ يَٰٓأَيُّهَا ٱلْمَلَأُ أَفْتُونِى فِى رُءْيَٰىَ إِن كُنتُمْ لِلرُّءْيَا تَعْبُرُونَ
 
-**12:44** Walisema, “Ndoto zilizochanganyika, na hatujui chochote kuhusu ufafanuzi wa ndoto.”
+**12:44** Walisema, "Ndoto zilizochanganyika, na hatujui chochote kuhusu ufafanuzi wa ndoto."
 
 قَالُوٓا۟ أَضْغَٰثُ أَحْلَٰمٍۢ ۖ وَمَا نَحْنُ بِتَأْوِيلِ ٱلْأَحْلَٰمِ بِعَٰلِمِينَ
 
-**12:45** Yule aliyeachiliwa alisema, baada ya kukumbuka baada ya muda, “Nitawajulisha ufafanuzi wake, basi nitumeni.”
+**12:45** Yule aliyeachiliwa alisema, baada ya kukumbuka baada ya muda, "Nitawajulisha ufafanuzi wake, basi nitumeni."
 
 وَقَالَ ٱلَّذِى نَجَا مِنْهُمَا وَٱدَّكَرَ بَعْدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأْوِيلِهِۦ فَأَرْسِلُونِ
 
-**12:46** “Yusufu, ee mtu wa kweli, tujulishe kuhusu ng'ombe saba wanene wakiliwa na saba waliokonda, na masuke saba ya kijani, na mengine yaliyokauka, ili nirudi kwa watu, ili wajue.”
+**12:46** "Yusufu, ee mtu wa kweli, tujulishe kuhusu ng'ombe saba wanene wakiliwa na saba waliokonda, na masuke saba ya kijani, na mengine yaliyokauka, ili nirudi kwa watu, ili wajue."
 
 يُوسُفُ أَيُّهَا ٱلصِّدِّيقُ أَفْتِنَا فِى سَبْعِ بَقَرَٰتٍۢ سِمَانٍۢ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌۭ وَسَبْعِ سُنۢبُلَٰتٍ خُضْرٍۢ وَأُخَرَ يَابِسَٰتٍۢ لَّعَلِّىٓ أَرْجِعُ إِلَى ٱلنَّاسِ لَعَلَّهُمْ يَعْلَمُونَ
 
-**12:47** Alisema, “Mtalima kwa miaka saba mfululizo. Lakini mnayoyavuna, yaacheni katika masuke yake, isipokuwa kidogo mnachokila.”
+**12:47** Alisema, "Mtalima kwa miaka saba mfululizo. Lakini mnayoyavuna, yaacheni katika masuke yake, isipokuwa kidogo mnachokila."
 
 قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًۭا فَمَا حَصَدتُّمْ فَذَرُوهُ فِى سُنۢبُلِهِۦٓ إِلَّا قَلِيلًۭا مِّمَّا تَأْكُلُونَ
 
@@ -6852,31 +6852,31 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ سَبْعٌۭ شِدَادٌۭ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ إِلَّا قَلِيلًۭا مِّمَّا تُحْصِنُونَ
 
-**12:49** Kisha baada ya hapo kutakuja mwaka unaoleta nafuu kwa watu, na ambao watakamua.”
+**12:49** Kisha baada ya hapo kutakuja mwaka unaoleta nafuu kwa watu, na ambao watakamua."
 
 ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ عَامٌۭ فِيهِ يُغَاثُ ٱلنَّاسُ وَفِيهِ يَعْصِرُونَ
 
-**12:50** Mfalme alisema, “Nileteeni.” Na mjumbe alipomfikia, alisema, “Rudi kwa bwana wako, na umwulize kuhusu nia za wanawake waliojikata mikono; Mola wangu anajua vizuri hila zao.”
+**12:50** Mfalme alisema, "Nileteeni." Na mjumbe alipomfikia, alisema, "Rudi kwa bwana wako, na umwulize kuhusu nia za wanawake waliojikata mikono; Mola wangu anajua vizuri hila zao."
 
 وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦ ۖ فَلَمَّا جَآءَهُ ٱلرَّسُولُ قَالَ ٱرْجِعْ إِلَىٰ رَبِّكَ فَسْـَٔلْهُ مَا بَالُ ٱلنِّسْوَةِ ٱلَّٰتِى قَطَّعْنَ أَيْدِيَهُنَّ ۚ إِنَّ رَبِّى بِكَيْدِهِنَّ عَلِيمٌۭ
 
-**12:51** Alisema, “Ilikuwaje kwenu, enyi wanawake, mlipojaribu kumshawishi Yusufu?” Walisema, “Tunajikinga kwa Allah! Hatukujua uovu wowote alioufanya.” Mke wa mtawala akasema, “Sasa ukweli umetoka. Mimi ndiye niliyejaribu kumshawishi, naye anasema kweli.”
+**12:51** Alisema, "Ilikuwaje kwenu, enyi wanawake, mlipojaribu kumshawishi Yusufu?" Walisema, "Tunajikinga kwa Allah! Hatukujua uovu wowote alioufanya." Mke wa mtawala akasema, "Sasa ukweli umetoka. Mimi ndiye niliyejaribu kumshawishi, naye anasema kweli."
 
 قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٰٔنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّٰدِقِينَ
 
-**12:52** “Hii ni ili ajue kwamba sikumsaliti kwa siri, na kwamba Allah haiongozi hila ya wasaliti.”
+**12:52** "Hii ni ili ajue kwamba sikumsaliti kwa siri, na kwamba Allah haiongozi hila ya wasaliti."
 
 ذَٰلِكَ لِيَعْلَمَ أَنِّى لَمْ أَخُنْهُ بِٱلْغَيْبِ وَأَنَّ ٱللَّهَ لَا يَهْدِى كَيْدَ ٱلْخَآئِنِينَ
 
-**12:53** “Lakini sidai kuwa sina hatia. Nafsi huamuru uovu, isipokuwa wale ambao Mola wangu amewarehemu. Hakika Mola wangu ni Msamehevu, Mwenye kurehemu.”
+**12:53** "Lakini sidai kuwa sina hatia. Nafsi huamuru uovu, isipokuwa wale ambao Mola wangu amewarehemu. Hakika Mola wangu ni Msamehevu, Mwenye kurehemu."
 
 ۞ وَمَآ أُبَرِّئُ نَفْسِىٓ ۚ إِنَّ ٱلنَّفْسَ لَأَمَّارَةٌۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّىٓ ۚ إِنَّ رَبِّى غَفُورٌۭ رَّحِيمٌۭ
 
-**12:54** Mfalme alisema, “Nileteeni, na nitamweka kwa ajili yangu mwenyewe.” Na alipozungumza naye, alisema, “Leo wewe uko nasi umewekwa na umeaminiwa.”
+**12:54** Mfalme alisema, "Nileteeni, na nitamweka kwa ajili yangu mwenyewe." Na alipozungumza naye, alisema, "Leo wewe uko nasi umewekwa na umeaminiwa."
 
 وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦٓ أَسْتَخْلِصْهُ لِنَفْسِى ۖ فَلَمَّا كَلَّمَهُۥ قَالَ إِنَّكَ ٱلْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌۭ
 
-**12:55** Alisema, “Niweke nisimamie maghala ya ardhi; mimi ni mwaminifu na mwenye ujuzi.”
+**12:55** Alisema, "Niweke nisimamie maghala ya ardhi; mimi ni mwaminifu na mwenye ujuzi."
 
 قَالَ ٱجْعَلْنِى عَلَىٰ خَزَآئِنِ ٱلْأَرْضِ ۖ إِنِّى حَفِيظٌ عَلِيمٌۭ
 
@@ -6892,39 +6892,39 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَجَآءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا۟ عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُۥ مُنكِرُونَ
 
-**12:59** Alipowapa mahitaji yao, alisema, “Nileteeni ndugu yenu kutoka kwa baba yenu. Je, hamwoni kwamba ninajaza kipimo, na mimi ni bora wa wenyeji?”
+**12:59** Alipowapa mahitaji yao, alisema, "Nileteeni ndugu yenu kutoka kwa baba yenu. Je, hamwoni kwamba ninajaza kipimo, na mimi ni bora wa wenyeji?"
 
 وَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ قَالَ ٱئْتُونِى بِأَخٍۢ لَّكُم مِّنْ أَبِيكُمْ ۚ أَلَا تَرَوْنَ أَنِّىٓ أُوفِى ٱلْكَيْلَ وَأَنَا۠ خَيْرُ ٱلْمُنزِلِينَ
 
-**12:60** “Lakini msipomleta kwangu, hamtakuwa na kipimo kutoka kwangu, na hamtaweza kunikaribia.”
+**12:60** "Lakini msipomleta kwangu, hamtakuwa na kipimo kutoka kwangu, na hamtaweza kunikaribia."
 
 فَإِن لَّمْ تَأْتُونِى بِهِۦ فَلَا كَيْلَ لَكُمْ عِندِى وَلَا تَقْرَبُونِ
 
-**12:61** Walisema, “Tutamwomba kutoka kwa baba yake. Hakika tutafanya.”
+**12:61** Walisema, "Tutamwomba kutoka kwa baba yake. Hakika tutafanya."
 
 قَالُوا۟ سَنُرَٰوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَٰعِلُونَ
 
-**12:62** Akawaambia watumwa wake, “Wekeni bidhaa zao katika mizigo yao ya safari; labda watazitambua watakaporudi kwa familia zao, na labda watarudi.”
+**12:62** Akawaambia watumwa wake, "Wekeni bidhaa zao katika mizigo yao ya safari; labda watazitambua watakaporudi kwa familia zao, na labda watarudi."
 
 وَقَالَ لِفِتْيَٰنِهِ ٱجْعَلُوا۟ بِضَٰعَتَهُمْ فِى رِحَالِهِمْ لَعَلَّهُمْ يَعْرِفُونَهَآ إِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمْ لَعَلَّهُمْ يَرْجِعُونَ
 
-**12:63** Waliporudi kwa baba yao, walisema, “Ee baba, tulinyimwa kipimo, basi tuma ndugu yetu aende pamoja nasi, na tutapata kipimo. Tutamtunza.”
+**12:63** Waliporudi kwa baba yao, walisema, "Ee baba, tulinyimwa kipimo, basi tuma ndugu yetu aende pamoja nasi, na tutapata kipimo. Tutamtunza."
 
 فَلَمَّا رَجَعُوٓا۟ إِلَىٰٓ أَبِيهِمْ قَالُوا۟ يَٰٓأَبَانَا مُنِعَ مِنَّا ٱلْكَيْلُ فَأَرْسِلْ مَعَنَآ أَخَانَا نَكْتَلْ وَإِنَّا لَهُۥ لَحَٰفِظُونَ
 
-**12:64** Alisema, “Je, nitawaamini juu yake, kama nilivyowaamini juu ya ndugu yake kabla? Allah ndiye Mlinzi bora, na Yeye ndiye mwenye kurehemu zaidi kuliko wanaorehemu wote.”
+**12:64** Alisema, "Je, nitawaamini juu yake, kama nilivyowaamini juu ya ndugu yake kabla? Allah ndiye Mlinzi bora, na Yeye ndiye mwenye kurehemu zaidi kuliko wanaorehemu wote."
 
 قَالَ هَلْ ءَامَنُكُمْ عَلَيْهِ إِلَّا كَمَآ أَمِنتُكُمْ عَلَىٰٓ أَخِيهِ مِن قَبْلُ ۖ فَٱللَّهُ خَيْرٌ حَٰفِظًۭا ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
 
-**12:65** Na walipofungua mizigo yao, walikuta kwamba bidhaa zao zimerudishwa kwao. Walisema, “Ee baba, tunataka nini zaidi? Hizi ni bidhaa zetu, zimerudishwa kwetu. Tutatoa mahitaji kwa familia yetu, na tutamlinda ndugu yetu, na tutakuwa na mzigo wa ziada wa ngamia mmoja. Hii ni biashara rahisi.”
+**12:65** Na walipofungua mizigo yao, walikuta kwamba bidhaa zao zimerudishwa kwao. Walisema, "Ee baba, tunataka nini zaidi? Hizi ni bidhaa zetu, zimerudishwa kwetu. Tutatoa mahitaji kwa familia yetu, na tutamlinda ndugu yetu, na tutakuwa na mzigo wa ziada wa ngamia mmoja. Hii ni biashara rahisi."
 
 وَلَمَّا فَتَحُوا۟ مَتَٰعَهُمْ وَجَدُوا۟ بِضَٰعَتَهُمْ رُدَّتْ إِلَيْهِمْ ۖ قَالُوا۟ يَٰٓأَبَانَا مَا نَبْغِى ۖ هَٰذِهِۦ بِضَٰعَتُنَا رُدَّتْ إِلَيْنَا ۖ وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍۢ ۖ ذَٰلِكَ كَيْلٌۭ يَسِيرٌۭ
 
-**12:66** Alisema, “Sitamtuma pamoja nanyi, isipokuwa mnipe ahadi mbele ya Allah kwamba mtamrudisha kwangu, isipokuwa mkizongwa.” Na walipompa ahadi yao, alisema, “Allah ni shahidi wa tunayoyasema.”
+**12:66** Alisema, "Sitamtuma pamoja nanyi, isipokuwa mnipe ahadi mbele ya Allah kwamba mtamrudisha kwangu, isipokuwa mkizongwa." Na walipompa ahadi yao, alisema, "Allah ni shahidi wa tunayoyasema."
 
 قَالَ لَنْ أُرْسِلَهُۥ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًۭا مِّنَ ٱللَّهِ لَتَأْتُنَّنِى بِهِۦٓ إِلَّآ أَن يُحَاطَ بِكُمْ ۖ فَلَمَّآ ءَاتَوْهُ مَوْثِقَهُمْ قَالَ ٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌۭ
 
-**12:67** Na alisema, “Enyi wanangu, msiingie kwa lango moja, lakini ingieni kwa malango tofauti. Siwezi kuwafaa chochote dhidi ya Allah. Uamuzi ni wa Allah tu. Ninamtegemea Yeye, na kwake na wategemee wanaotegemea.”
+**12:67** Na alisema, "Enyi wanangu, msiingie kwa lango moja, lakini ingieni kwa malango tofauti. Siwezi kuwafaa chochote dhidi ya Allah. Uamuzi ni wa Allah tu. Ninamtegemea Yeye, na kwake na wategemee wanaotegemea."
 
 وَقَالَ يَٰبَنِىَّ لَا تَدْخُلُوا۟ مِنۢ بَابٍۢ وَٰحِدٍۢ وَٱدْخُلُوا۟ مِنْ أَبْوَٰبٍۢ مُّتَفَرِّقَةٍۢ ۖ وَمَآ أُغْنِى عَنكُم مِّنَ ٱللَّهِ مِن شَىْءٍ ۖ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ
 
@@ -6932,31 +6932,31 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَمَّا دَخَلُوا۟ مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ يُغْنِى عَنْهُم مِّنَ ٱللَّهِ مِن شَىْءٍ إِلَّا حَاجَةًۭ فِى نَفْسِ يَعْقُوبَ قَضَىٰهَا ۚ وَإِنَّهُۥ لَذُو عِلْمٍۢ لِّمَا عَلَّمْنَٰهُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
-**12:69** Na walipoingia mbele ya Yusufu, alimkumbatia ndugu yake, na akasema, “Mimi ni ndugu yako; usihuzunike kwa waliyokuwa wakiyafanya.”
+**12:69** Na walipoingia mbele ya Yusufu, alimkumbatia ndugu yake, na akasema, "Mimi ni ndugu yako; usihuzunike kwa waliyokuwa wakiyafanya."
 
 وَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَخَاهُ ۖ قَالَ إِنِّىٓ أَنَا۠ أَخُوكَ فَلَا تَبْتَئِسْ بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**12:70** Kisha, alipowapa mahitaji yao, aliweka kikombe cha kunywea katika mzigo wa safari wa ndugu yake. Kisha mtangazaji akaita, “Enyi watu wa msafara, ninyi ni wezi.”
+**12:70** Kisha, alipowapa mahitaji yao, aliweka kikombe cha kunywea katika mzigo wa safari wa ndugu yake. Kisha mtangazaji akaita, "Enyi watu wa msafara, ninyi ni wezi."
 
 فَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ جَعَلَ ٱلسِّقَايَةَ فِى رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا ٱلْعِيرُ إِنَّكُمْ لَسَٰرِقُونَ
 
-**12:71** Walisema, walipokuja kuelekea kwao, “Mmekosa nini?”
+**12:71** Walisema, walipokuja kuelekea kwao, "Mmekosa nini?"
 
 قَالُوا۟ وَأَقْبَلُوا۟ عَلَيْهِم مَّاذَا تَفْقِدُونَ
 
-**12:72** Walisema, “Tumekosa kikombe cha mfalme. Atakayekileta atakuwa na mzigo wa ngamia mmoja; na mimi ninadhamini binafsi.”
+**12:72** Walisema, "Tumekosa kikombe cha mfalme. Atakayekileta atakuwa na mzigo wa ngamia mmoja; na mimi ninadhamini binafsi."
 
 قَالُوا۟ نَفْقِدُ صُوَاعَ ٱلْمَلِكِ وَلِمَن جَآءَ بِهِۦ حِمْلُ بَعِيرٍۢ وَأَنَا۠ بِهِۦ زَعِيمٌۭ
 
-**12:73** Walisema, “Tunaapa kwa Allah, mnajua hatukufika kuleta uharibifu ardhini, na sisi si wezi.”
+**12:73** Walisema, "Tunaapa kwa Allah, mnajua hatukufika kuleta uharibifu ardhini, na sisi si wezi."
 
 قَالُوا۟ تَٱللَّهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنُفْسِدَ فِى ٱلْأَرْضِ وَمَا كُنَّا سَٰرِقِينَ
 
-**12:74** Walisema, “Itakuwa adhabu gani yake, ikiwa ninyi ni waongo?”
+**12:74** Walisema, "Itakuwa adhabu gani yake, ikiwa ninyi ni waongo?"
 
 قَالُوا۟ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمْ كَٰذِبِينَ
 
-**12:75** Walisema, “Adhabu yake, ikipatikana katika mzigo wake: yeye mwenyewe atakuwa wenu. Ndivyo tunavyowalipa wenye hatia.”
+**12:75** Walisema, "Adhabu yake, ikipatikana katika mzigo wake: yeye mwenyewe atakuwa wenu. Ndivyo tunavyowalipa wenye hatia."
 
 قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ ۚ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ
 
@@ -6964,103 +6964,103 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ ۚ كَذَٰلِكَ كِدْنَا لِيُوسُفَ ۖ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ نَرْفَعُ دَرَجَٰتٍۢ مَّن نَّشَآءُ ۗ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌۭ
 
-**12:77** Walisema, “Ikiwa ameiba, ndugu yake ameiba kabla.” Lakini Yusufu aliweka moyoni, na hakuwafunulia. Alisema, “Ninyi mko katika hali mbaya zaidi, na Allah anajua mnayoyadai.”
+**12:77** Walisema, "Ikiwa ameiba, ndugu yake ameiba kabla." Lakini Yusufu aliweka moyoni, na hakuwafunulia. Alisema, "Ninyi mko katika hali mbaya zaidi, na Allah anajua mnayoyadai."
 
 ۞ قَالُوٓا۟ إِن يَسْرِقْ فَقَدْ سَرَقَ أَخٌۭ لَّهُۥ مِن قَبْلُ ۚ فَأَسَرَّهَا يُوسُفُ فِى نَفْسِهِۦ وَلَمْ يُبْدِهَا لَهُمْ ۚ قَالَ أَنتُمْ شَرٌّۭ مَّكَانًۭا ۖ وَٱللَّهُ أَعْلَمُ بِمَا تَصِفُونَ
 
-**12:78** Walisema, “Ee mtawala mwenye heshima, ana baba, mzee sana, basi chukua mmoja wetu badala yake. Tunaona kwamba wewe ni mtu mwema.”
+**12:78** Walisema, "Ee mtawala mwenye heshima, ana baba, mzee sana, basi chukua mmoja wetu badala yake. Tunaona kwamba wewe ni mtu mwema."
 
 قَالُوا۟ يَٰٓأَيُّهَا ٱلْعَزِيزُ إِنَّ لَهُۥٓ أَبًۭا شَيْخًۭا كَبِيرًۭا فَخُذْ أَحَدَنَا مَكَانَهُۥٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ
 
-**12:79** Alisema, “Tunajikinga kwa Allah tusije tukamshika yeyote isipokuwa yule tuliyemkuta na mali yetu; kwani hapo tutakuwa wadhalimu.”
+**12:79** Alisema, "Tunajikinga kwa Allah tusije tukamshika yeyote isipokuwa yule tuliyemkuta na mali yetu; kwani hapo tutakuwa wadhalimu."
 
 قَالَ مَعَاذَ ٱللَّهِ أَن نَّأْخُذَ إِلَّا مَن وَجَدْنَا مَتَٰعَنَا عِندَهُۥٓ إِنَّآ إِذًۭا لَّظَٰلِمُونَ
 
-**12:80** Na walipokata tamaa kwake, wakajadiliana kwa siri. Mkubwa wao alisema, “Je, hamjui kwamba baba yenu alichukua ahadi kutoka kwenu mbele ya Allah, na hapo awali mlishindwa kuhusu Yusufu? Sitaondoka katika ardhi hii mpaka baba yangu aniruhusu, au Allah aniamulie; kwani Yeye ni mbora wa waamuzi.”
+**12:80** Na walipokata tamaa kwake, wakajadiliana kwa siri. Mkubwa wao alisema, "Je, hamjui kwamba baba yenu alichukua ahadi kutoka kwenu mbele ya Allah, na hapo awali mlishindwa kuhusu Yusufu? Sitaondoka katika ardhi hii mpaka baba yangu aniruhusu, au Allah aniamulie; kwani Yeye ni mbora wa waamuzi."
 
 فَلَمَّا ٱسْتَيْـَٔسُوا۟ مِنْهُ خَلَصُوا۟ نَجِيًّۭا ۖ قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوٓا۟ أَنَّ أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُم مَّوْثِقًۭا مِّنَ ٱللَّهِ وَمِن قَبْلُ مَا فَرَّطتُمْ فِى يُوسُفَ ۖ فَلَنْ أَبْرَحَ ٱلْأَرْضَ حَتَّىٰ يَأْذَنَ لِىٓ أَبِىٓ أَوْ يَحْكُمَ ٱللَّهُ لِى ۖ وَهُوَ خَيْرُ ٱلْحَٰكِمِينَ
 
-**12:81** “Rudini kwa baba yenu, na semeni, ‘Ee baba yetu, mwanao ameiba. Tunashuhudia tu tunayoyajua, na tusingeweza kuzuia lililotokea bila kutarajiwa.’”
+**12:81** "Rudini kwa baba yenu, na semeni, 'Ee baba yetu, mwanao ameiba. Tunashuhudia tu tunayoyajua, na tusingeweza kuzuia lililotokea bila kutarajiwa.'"
 
 ٱرْجِعُوٓا۟ إِلَىٰٓ أَبِيكُمْ فَقُولُوا۟ يَٰٓأَبَانَآ إِنَّ ٱبْنَكَ سَرَقَ وَمَا شَهِدْنَآ إِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَٰفِظِينَ
 
-**12:82** “Uliza mji tulikokuwa, na msafara tuliokuja nao. Tunasema kweli.”
+**12:82** "Uliza mji tulikokuwa, na msafara tuliokuja nao. Tunasema kweli."
 
 وَسْـَٔلِ ٱلْقَرْيَةَ ٱلَّتِى كُنَّا فِيهَا وَٱلْعِيرَ ٱلَّتِىٓ أَقْبَلْنَا فِيهَا ۖ وَإِنَّا لَصَٰدِقُونَ
 
-**12:83** Alisema, “Bali, nafsi zenu zimewapangia jambo. Subira ni wema. Labda Allah atawaleta wote kwangu. Yeye ni Mjuzi, mwenye hekima.”
+**12:83** Alisema, "Bali, nafsi zenu zimewapangia jambo. Subira ni wema. Labda Allah atawaleta wote kwangu. Yeye ni Mjuzi, mwenye hekima."
 
 قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًۭا ۖ فَصَبْرٌۭ جَمِيلٌ ۖ عَسَى ٱللَّهُ أَن يَأْتِيَنِى بِهِمْ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
 
-**12:84** Kisha akageuka kutoka kwao, na akasema, “Ee uchungu wangu kwa Yusufu.” Na macho yake yakawa meupe kwa huzuni, na akawa mwenye huzuni kubwa.
+**12:84** Kisha akageuka kutoka kwao, na akasema, "Ee uchungu wangu kwa Yusufu." Na macho yake yakawa meupe kwa huzuni, na akawa mwenye huzuni kubwa.
 
 وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ فَهُوَ كَظِيمٌۭ
 
-**12:85** Walisema, “Tunaapa kwa Allah, hutaacha kumkumbuka Yusufu, mpaka uharibu afya yako, au ufe.”
+**12:85** Walisema, "Tunaapa kwa Allah, hutaacha kumkumbuka Yusufu, mpaka uharibu afya yako, au ufe."
 
 قَالُوا۟ تَٱللَّهِ تَفْتَؤُا۟ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ ٱلْهَٰلِكِينَ
 
-**12:86** Alisema, “Ninalalamika tu huzuni yangu na majonzi yangu kwa Allah, na najua kutoka kwa Allah msiyoyajua.”
+**12:86** Alisema, "Ninalalamika tu huzuni yangu na majonzi yangu kwa Allah, na najua kutoka kwa Allah msiyoyajua."
 
 قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ
 
-**12:87** “Enyi wanangu, nendeni mkaulize kuhusu Yusufu na ndugu yake, na msikate tamaa na faraja ya Allah. Hakuna anayekata tamaa na faraja ya Allah isipokuwa watu makafiri.”
+**12:87** "Enyi wanangu, nendeni mkaulize kuhusu Yusufu na ndugu yake, na msikate tamaa na faraja ya Allah. Hakuna anayekata tamaa na faraja ya Allah isipokuwa watu makafiri."
 
 يَٰبَنِىَّ ٱذْهَبُوا۟ فَتَحَسَّسُوا۟ مِن يُوسُفَ وَأَخِيهِ وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ ۖ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَٰفِرُونَ
 
-**12:88** Kisha, walipoingia mbele yake, walisema, “Ee mtawala mwenye nguvu, dhiki imetufikia, sisi na familia yetu. Tumeleta bidhaa chache. Lakini tupe kipimo kamili, na tufanyie hisani, Allah huwalipa wenye hisani.”
+**12:88** Kisha, walipoingia mbele yake, walisema, "Ee mtawala mwenye nguvu, dhiki imetufikia, sisi na familia yetu. Tumeleta bidhaa chache. Lakini tupe kipimo kamili, na tufanyie hisani, Allah huwalipa wenye hisani."
 
 فَلَمَّا دَخَلُوا۟ عَلَيْهِ قَالُوا۟ يَٰٓأَيُّهَا ٱلْعَزِيزُ مَسَّنَا وَأَهْلَنَا ٱلضُّرُّ وَجِئْنَا بِبِضَٰعَةٍۢ مُّزْجَىٰةٍۢ فَأَوْفِ لَنَا ٱلْكَيْلَ وَتَصَدَّقْ عَلَيْنَآ ۖ إِنَّ ٱللَّهَ يَجْزِى ٱلْمُتَصَدِّقِينَ
 
-**12:89** Alisema, “Je, mnatambua mlichomfanya Yusufu na ndugu yake, katika ujinga wenu?”
+**12:89** Alisema, "Je, mnatambua mlichomfanya Yusufu na ndugu yake, katika ujinga wenu?"
 
 قَالَ هَلْ عَلِمْتُم مَّا فَعَلْتُم بِيُوسُفَ وَأَخِيهِ إِذْ أَنتُمْ جَٰهِلُونَ
 
-**12:90** Walisema, “Je, wewe ni Yusufu?” Alisema, “Mimi ni Yusufu, na huyu ni ndugu yangu. Allah ametuneemesha. Anayejihadhari na akasubiri, Allah hauwotezi kamwe ujira wa watenda haki.”
+**12:90** Walisema, "Je, wewe ni Yusufu?" Alisema, "Mimi ni Yusufu, na huyu ni ndugu yangu. Allah ametuneemesha. Anayejihadhari na akasubiri, Allah hauwotezi kamwe ujira wa watenda haki."
 
 قَالُوٓا۟ أَءِنَّكَ لَأَنتَ يُوسُفُ ۖ قَالَ أَنَا۠ يُوسُفُ وَهَٰذَآ أَخِى ۖ قَدْ مَنَّ ٱللَّهُ عَلَيْنَآ ۖ إِنَّهُۥ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ
 
-**12:91** Walisema, “Tunaapa kwa Allah, Allah amekupa ubora juu yetu. Hakika tulikuwa katika makosa.”
+**12:91** Walisema, "Tunaapa kwa Allah, Allah amekupa ubora juu yetu. Hakika tulikuwa katika makosa."
 
 قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَٰطِـِٔينَ
 
-**12:92** Alisema, “Hakuna lawama juu yenu leo. Allah atawasamehe. Yeye ndiye mwenye kurehemu zaidi kuliko wanaorehemu wote.”
+**12:92** Alisema, "Hakuna lawama juu yenu leo. Allah atawasamehe. Yeye ndiye mwenye kurehemu zaidi kuliko wanaorehemu wote."
 
 قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ ۖ يَغْفِرُ ٱللَّهُ لَكُمْ ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
 
-**12:93** “Chukueni kanzu hii yangu, na mwekeni juu ya uso wa baba yangu, na atapata kuona tena. Na nileteeni familia yenu yote.”
+**12:93** "Chukueni kanzu hii yangu, na mwekeni juu ya uso wa baba yangu, na atapata kuona tena. Na nileteeni familia yenu yote."
 
 ٱذْهَبُوا۟ بِقَمِيصِى هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِى يَأْتِ بَصِيرًۭا وَأْتُونِى بِأَهْلِكُمْ أَجْمَعِينَ
 
-**12:94** Msafara ulipoondoka, baba yao alisema, “Ninahisi uwepo wa Yusufu, ingawa mnaweza kudhani nimezeeka na kuchanganyikiwa.”
+**12:94** Msafara ulipoondoka, baba yao alisema, "Ninahisi uwepo wa Yusufu, ingawa mnaweza kudhani nimezeeka na kuchanganyikiwa."
 
 وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّى لَأَجِدُ رِيحَ يُوسُفَ ۖ لَوْلَآ أَن تُفَنِّدُونِ
 
-**12:95** Walisema, “Tunaapa kwa Allah, bado uko katika mkanganyiko wako wa zamani.”
+**12:95** Walisema, "Tunaapa kwa Allah, bado uko katika mkanganyiko wako wa zamani."
 
 قَالُوا۟ تَٱللَّهِ إِنَّكَ لَفِى ضَلَٰلِكَ ٱلْقَدِيمِ
 
-**12:96** Kisha, mbeba habari njema alipofika, aliweka juu ya uso wake, na akapata kuona tena. Alisema, “Je, sikuwambia kwamba najua kutoka kwa Allah msiyoyajua?”
+**12:96** Kisha, mbeba habari njema alipofika, aliweka juu ya uso wake, na akapata kuona tena. Alisema, "Je, sikuwambia kwamba najua kutoka kwa Allah msiyoyajua?"
 
 فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ
 
-**12:97** Walisema, “Ee baba, tuombee msamaha wa dhambi zetu; hakika tulikuwa katika makosa.”
+**12:97** Walisema, "Ee baba, tuombee msamaha wa dhambi zetu; hakika tulikuwa katika makosa."
 
 قَالُوا۟ يَٰٓأَبَانَا ٱسْتَغْفِرْ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا خَٰطِـِٔينَ
 
-**12:98** Alisema, “Nitamwomba Mola wangu awasamehe. Yeye ni Msamehevu, mwenye kurehemu zaidi.”
+**12:98** Alisema, "Nitamwomba Mola wangu awasamehe. Yeye ni Msamehevu, mwenye kurehemu zaidi."
 
 قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّىٓ ۖ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
-**12:99** Kisha, walipoingia mbele ya Yusufu, aliwakumbatia wazazi wake, na akasema, “Ingieni Misri, apendavyo Allah, salama na wenye amani.”
+**12:99** Kisha, walipoingia mbele ya Yusufu, aliwakumbatia wazazi wake, na akasema, "Ingieni Misri, apendavyo Allah, salama na wenye amani."
 
 فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ
 
-**12:100** Na akawainua wazazi wake juu ya kiti cha enzi, na wakaanguka wakimsujudia. Alisema, “Ee baba, huu ndio utimilifu wa ndoto yangu ya zamani. Mola wangu ameifanya kuwa kweli. Amenineemesha, aliponitoa gerezani, na akawaleta kutoka jangwani, baada ya Shetani kupanda mgogoro kati yangu na ndugu zangu. Mola wangu ni mpole kwa amtakaye. Yeye ni Mjuzi wa vyote, mwenye hekima zaidi.”
+**12:100** Na akawainua wazazi wake juu ya kiti cha enzi, na wakaanguka wakimsujudia. Alisema, "Ee baba, huu ndio utimilifu wa ndoto yangu ya zamani. Mola wangu ameifanya kuwa kweli. Amenineemesha, aliponitoa gerezani, na akawaleta kutoka jangwani, baada ya Shetani kupanda mgogoro kati yangu na ndugu zangu. Mola wangu ni mpole kwa amtakaye. Yeye ni Mjuzi wa vyote, mwenye hekima zaidi."
 
 وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًۭا ۖ وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّۭا ۖ وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ ۚ إِنَّ رَبِّى لَطِيفٌۭ لِّمَا يَشَآءُ ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
 
-**12:101** “Ee Mola wangu, umenipa mamlaka fulani, na umenifundisha ufafanuzi fulani wa matukio. Ee Mwanzilishi wa mbingu na ardhi; Wewe ni Mlinzi wangu katika maisha haya na Akhera. Nipokee nafsi yangu katika kujisalimisha, na niunganishe na watenda haki.”
+**12:101** "Ee Mola wangu, umenipa mamlaka fulani, na umenifundisha ufafanuzi fulani wa matukio. Ee Mwanzilishi wa mbingu na ardhi; Wewe ni Mlinzi wangu katika maisha haya na Akhera. Nipokee nafsi yangu katika kujisalimisha, na niunganishe na watenda haki."
 
 ۞ رَبِّ قَدْ ءَاتَيْتَنِى مِنَ ٱلْمُلْكِ وَعَلَّمْتَنِى مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ فَاطِرَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ أَنتَ وَلِىِّۦ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ ۖ تَوَفَّنِى مُسْلِمًۭا وَأَلْحِقْنِى بِٱلصَّٰلِحِينَ
 
@@ -7088,11 +7088,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَفَأَمِنُوٓا۟ أَن تَأْتِيَهُمْ غَٰشِيَةٌۭ مِّنْ عَذَابِ ٱللَّهِ أَوْ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةًۭ وَهُمْ لَا يَشْعُرُونَ
 
-**12:108** Sema, “Hii ndiyo njia yangu; ninaita kwa Allah, kwa ujuzi ulio wazi, mimi na anayenifuata. Utukufu ni wa Allah; na mimi si miongoni mwa washirikina.”
+**12:108** Sema, "Hii ndiyo njia yangu; ninaita kwa Allah, kwa ujuzi ulio wazi, mimi na anayenifuata. Utukufu ni wa Allah; na mimi si miongoni mwa washirikina."
 
 قُلْ هَٰذِهِۦ سَبِيلِىٓ أَدْعُوٓا۟ إِلَى ٱللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا۠ وَمَنِ ٱتَّبَعَنِى ۖ وَسُبْحَٰنَ ٱللَّهِ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ
 
-**12:109** Hatukuwahi kutuma kabla yako isipokuwa wanaume, tuliowapa wahyi, kutoka kwa watu wa miji. Je, hawakutembea ardhini na kuona mwisho wa wale waliokuwa kabla yao? Nyumba ya Akhera ni bora kwa watenda haki. Je, hamuelewi?”
+**12:109** Hatukuwahi kutuma kabla yako isipokuwa wanaume, tuliowapa wahyi, kutoka kwa watu wa miji. Je, hawakutembea ardhini na kuona mwisho wa wale waliokuwa kabla yao? Nyumba ya Akhera ni bora kwa watenda haki. Je, hamuelewi?"
 
 وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًۭا نُّوحِىٓ إِلَيْهِم مِّنْ أَهْلِ ٱلْقُرَىٰٓ ۗ أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۗ وَلَدَارُ ٱلْءَاخِرَةِ خَيْرٌۭ لِّلَّذِينَ ٱتَّقَوْا۟ ۗ أَفَلَا تَعْقِلُونَ
 
@@ -7132,7 +7132,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَفِى ٱلْأَرْضِ قِطَعٌۭ مُّتَجَٰوِرَٰتٌۭ وَجَنَّٰتٌۭ مِّنْ أَعْنَٰبٍۢ وَزَرْعٌۭ وَنَخِيلٌۭ صِنْوَانٌۭ وَغَيْرُ صِنْوَانٍۢ يُسْقَىٰ بِمَآءٍۢ وَٰحِدٍۢ وَنُفَضِّلُ بَعْضَهَا عَلَىٰ بَعْضٍۢ فِى ٱلْأُكُلِ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَعْقِلُونَ
 
-**13:5** Ukiona ajabu, ajabu ya kweli ni kauli yao: “Tutakapokuwa udongo, je, tutakuwa katika uumbaji mpya?” Hao ndio waliomkana Mola wao. Hao ndio watakaokuwa na minyororo shingoni mwao. Hao ndio wakazi wa Moto, watakaokaa humo milele.
+**13:5** Ukiona ajabu, ajabu ya kweli ni kauli yao: "Tutakapokuwa udongo, je, tutakuwa katika uumbaji mpya?" Hao ndio waliomkana Mola wao. Hao ndio watakaokuwa na minyororo shingoni mwao. Hao ndio wakazi wa Moto, watakaokaa humo milele.
 
 ۞ وَإِن تَعْجَبْ فَعَجَبٌۭ قَوْلُهُمْ أَءِذَا كُنَّا تُرَٰبًا أَءِنَّا لَفِى خَلْقٍۢ جَدِيدٍ ۗ أُو۟لَٰٓئِكَ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ ۖ وَأُو۟لَٰٓئِكَ ٱلْأَغْلَٰلُ فِىٓ أَعْنَاقِهِمْ ۖ وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
@@ -7140,7 +7140,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَيَسْتَعْجِلُونَكَ بِٱلسَّيِّئَةِ قَبْلَ ٱلْحَسَنَةِ وَقَدْ خَلَتْ مِن قَبْلِهِمُ ٱلْمَثُلَٰتُ ۗ وَإِنَّ رَبَّكَ لَذُو مَغْفِرَةٍۢ لِّلنَّاسِ عَلَىٰ ظُلْمِهِمْ ۖ وَإِنَّ رَبَّكَ لَشَدِيدُ ٱلْعِقَابِ
 
-**13:7** Waliokufuru husema, “Kwa nini ishara haikuteremshwa kwake kutoka kwa Mola wake?” Wewe ni mwonyaji tu, na kila jamii ina mwongozaji.
+**13:7** Waliokufuru husema, "Kwa nini ishara haikuteremshwa kwake kutoka kwa Mola wake?" Wewe ni mwonyaji tu, na kila jamii ina mwongozaji.
 
 وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌۭ مِّن رَّبِّهِۦٓ ۗ إِنَّمَآ أَنتَ مُنذِرٌۭ ۖ وَلِكُلِّ قَوْمٍ هَادٍ
 
@@ -7178,7 +7178,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 
 
-**13:16** Sema, “Ni nani Mola wa mbingu na ardhi?” Sema, “Allah.” Sema, “Je, mmechukua badala yake walinzi, wasio na uwezo wa kufaa wala kudhuru hata nafsi zao?” Sema, “Je, kipofu na anayeona wako sawa? Au je, giza na mwanga viko sawa? Au wamempa Allah washirika, walioumba kama uumbaji wake, hata uumbaji ukawachanganya kuwa sawa?” Sema, “Allah ndiye Muumba wa kila kitu, na Yeye ni wa pekee, asiyeshindika.”
+**13:16** Sema, "Ni nani Mola wa mbingu na ardhi?" Sema, "Allah." Sema, "Je, mmechukua badala yake walinzi, wasio na uwezo wa kufaa wala kudhuru hata nafsi zao?" Sema, "Je, kipofu na anayeona wako sawa? Au je, giza na mwanga viko sawa? Au wamempa Allah washirika, walioumba kama uumbaji wake, hata uumbaji ukawachanganya kuwa sawa?" Sema, "Allah ndiye Muumba wa kila kitu, na Yeye ni wa pekee, asiyeshindika."
 
 قُلْ مَن رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ قُلِ ٱللَّهُ ۚ قُلْ أَفَٱتَّخَذْتُم مِّن دُونِهِۦٓ أَوْلِيَآءَ لَا يَمْلِكُونَ لِأَنفُسِهِمْ نَفْعًۭا وَلَا ضَرًّۭا ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ أَمْ هَلْ تَسْتَوِى ٱلظُّلُمَٰتُ وَٱلنُّورُ ۗ أَمْ جَعَلُوا۟ لِلَّهِ شُرَكَآءَ خَلَقُوا۟ كَخَلْقِهِۦ فَتَشَٰبَهَ ٱلْخَلْقُ عَلَيْهِمْ ۚ قُلِ ٱللَّهُ خَٰلِقُ كُلِّ شَىْءٍۢ وَهُوَ ٱلْوَٰحِدُ ٱلْقَهَّٰرُ
 
@@ -7210,7 +7210,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 جَنَّٰتُ عَدْنٍۢ يَدْخُلُونَهَا وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّٰتِهِمْ ۖ وَٱلْمَلَٰٓئِكَةُ يَدْخُلُونَ عَلَيْهِم مِّن كُلِّ بَابٍۢ
 
-**13:24** “Amani iwe juu yenu, kwa sababu mlisubiri. Nyumba ya Mwisho ni nzuri kiasi gani.”
+**13:24** "Amani iwe juu yenu, kwa sababu mlisubiri. Nyumba ya Mwisho ni nzuri kiasi gani."
 
 سَلَٰمٌ عَلَيْكُم بِمَا صَبَرْتُمْ ۚ فَنِعْمَ عُقْبَى ٱلدَّارِ
 
@@ -7222,7 +7222,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ وَفَرِحُوا۟ بِٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا فِى ٱلْءَاخِرَةِ إِلَّا مَتَٰعٌۭ
 
-**13:27** Waliokufuru husema, “Laiti ishara ingeteremshwa kwake kutoka kwa Mola wake.” Sema, “Allah humwacha apotee amtakaye, na humwongoza kwake anayetubia.”
+**13:27** Waliokufuru husema, "Laiti ishara ingeteremshwa kwake kutoka kwa Mola wake." Sema, "Allah humwacha apotee amtakaye, na humwongoza kwake anayetubia."
 
 وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌۭ مِّن رَّبِّهِۦ ۗ قُلْ إِنَّ ٱللَّهَ يُضِلُّ مَن يَشَآءُ وَيَهْدِىٓ إِلَيْهِ مَنْ أَنَابَ
 
@@ -7234,7 +7234,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ طُوبَىٰ لَهُمْ وَحُسْنُ مَـَٔابٍۢ
 
-**13:30** Ndivyo tulivyokutuma miongoni mwa jamii ambayo jamii nyingine zimepita kabla yake, ili uwasomee tulichokufunulia. Lakini wanamkana Mwingi wa rehema. Sema, “Yeye ni Mola wangu; hakuna mungu ila Yeye; ninamtegemea Yeye, na kwake ndiko kutubia kwangu.”
+**13:30** Ndivyo tulivyokutuma miongoni mwa jamii ambayo jamii nyingine zimepita kabla yake, ili uwasomee tulichokufunulia. Lakini wanamkana Mwingi wa rehema. Sema, "Yeye ni Mola wangu; hakuna mungu ila Yeye; ninamtegemea Yeye, na kwake ndiko kutubia kwangu."
 
 كَذَٰلِكَ أَرْسَلْنَٰكَ فِىٓ أُمَّةٍۢ قَدْ خَلَتْ مِن قَبْلِهَآ أُمَمٌۭ لِّتَتْلُوَا۟ عَلَيْهِمُ ٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَهُمْ يَكْفُرُونَ بِٱلرَّحْمَٰنِ ۚ قُلْ هُوَ رَبِّى لَآ إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ مَتَابِ
 
@@ -7246,7 +7246,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍۢ مِّن قَبْلِكَ فَأَمْلَيْتُ لِلَّذِينَ كَفَرُوا۟ ثُمَّ أَخَذْتُهُمْ ۖ فَكَيْفَ كَانَ عِقَابِ
 
-**13:33** Je, Yeye anayechunga matendo ya kila nafsi? Lakini wanampa Allah washirika. Sema, “Yatajeni! Au mnajulisha kuhusu jambo ardhini asilolijua, au ni maneno ya kuonyesha tu?” Bali, hila za waliokufuru zimefanywa zionekane nzuri kwao, na wamezuiliwa kutoka kwenye njia. Ambaye Allah humwacha apotee hana mwongozaji.
+**13:33** Je, Yeye anayechunga matendo ya kila nafsi? Lakini wanampa Allah washirika. Sema, "Yatajeni! Au mnajulisha kuhusu jambo ardhini asilolijua, au ni maneno ya kuonyesha tu?" Bali, hila za waliokufuru zimefanywa zionekane nzuri kwao, na wamezuiliwa kutoka kwenye njia. Ambaye Allah humwacha apotee hana mwongozaji.
 
 أَفَمَنْ هُوَ قَآئِمٌ عَلَىٰ كُلِّ نَفْسٍۭ بِمَا كَسَبَتْ ۗ وَجَعَلُوا۟ لِلَّهِ شُرَكَآءَ قُلْ سَمُّوهُمْ ۚ أَمْ تُنَبِّـُٔونَهُۥ بِمَا لَا يَعْلَمُ فِى ٱلْأَرْضِ أَم بِظَٰهِرٍۢ مِّنَ ٱلْقَوْلِ ۗ بَلْ زُيِّنَ لِلَّذِينَ كَفَرُوا۟ مَكْرُهُمْ وَصُدُّوا۟ عَنِ ٱلسَّبِيلِ ۗ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍۢ
 
@@ -7258,7 +7258,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ۞ مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ ۖ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۖ أُكُلُهَا دَآئِمٌۭ وَظِلُّهَا ۚ تِلْكَ عُقْبَى ٱلَّذِينَ ٱتَّقَوا۟ ۖ وَّعُقْبَى ٱلْكَٰفِرِينَ ٱلنَّارُ
 
-**13:36** Wale tuliowapa Kitabu hufurahia uliyofunuliwa, lakini baadhi ya makundi hukataa sehemu zake. Sema, “Nimeamriwa kumwabudu Allah, na nisishirikishe chochote naye. Ninaita kwake, na kwake ndiko marejeo yangu.”
+**13:36** Wale tuliowapa Kitabu hufurahia uliyofunuliwa, lakini baadhi ya makundi hukataa sehemu zake. Sema, "Nimeamriwa kumwabudu Allah, na nisishirikishe chochote naye. Ninaita kwake, na kwake ndiko marejeo yangu."
 
 وَٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ يَفْرَحُونَ بِمَآ أُنزِلَ إِلَيْكَ ۖ وَمِنَ ٱلْأَحْزَابِ مَن يُنكِرُ بَعْضَهُۥ ۚ قُلْ إِنَّمَآ أُمِرْتُ أَنْ أَعْبُدَ ٱللَّهَ وَلَآ أُشْرِكَ بِهِۦٓ ۚ إِلَيْهِ أَدْعُوا۟ وَإِلَيْهِ مَـَٔابِ
 
@@ -7286,7 +7286,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَقَدْ مَكَرَ ٱلَّذِينَ مِن قَبْلِهِمْ فَلِلَّهِ ٱلْمَكْرُ جَمِيعًۭا ۖ يَعْلَمُ مَا تَكْسِبُ كُلُّ نَفْسٍۢ ۗ وَسَيَعْلَمُ ٱلْكُفَّٰرُ لِمَنْ عُقْبَى ٱلدَّارِ
 
-**13:43** Waliokufuru husema, “Wewe si mtume.” Sema, “Allah anatosha kuwa shahidi kati yangu na ninyi, na yeyote mwenye ujuzi wa Kitabu.”
+**13:43** Waliokufuru husema, "Wewe si mtume." Sema, "Allah anatosha kuwa shahidi kati yangu na ninyi, na yeyote mwenye ujuzi wa Kitabu."
 
 وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَسْتَ مُرْسَلًۭا ۚ قُلْ كَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ وَمَنْ عِندَهُۥ عِلْمُ ٱلْكِتَٰبِ
 
@@ -7318,43 +7318,43 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوْمِهِۦ لِيُبَيِّنَ لَهُمْ ۖ فَيُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**14:5** Tulimtuma Musa pamoja na ishara Zetu: “Watoe watu wako kutoka gizani kwenda nuruni, na uwakumbushe Siku za Allah.” Hakika katika hayo kuna ishara kwa kila mwenye subira na mwenye kushukuru.
+**14:5** Tulimtuma Musa pamoja na ishara Zetu: "Watoe watu wako kutoka gizani kwenda nuruni, na uwakumbushe Siku za Allah." Hakika katika hayo kuna ishara kwa kila mwenye subira na mwenye kushukuru.
 
 وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَآ أَنْ أَخْرِجْ قَوْمَكَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَذَكِّرْهُم بِأَيَّىٰمِ ٱللَّهِ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّكُلِّ صَبَّارٍۢ شَكُورٍۢ
 
-**14:6** Musa aliwaambia watu wake, “Kumbukeni neema za Allah juu yenu, alipowaokoa kutoka kwa watu wa Firauni, waliowapa mateso mabaya, wakawachinja wana wenu wa kiume na kuwaacha hai wanawake wenu. Katika hayo palikuwa na jaribio zito kutoka kwa Mola wenu.”
+**14:6** Musa aliwaambia watu wake, "Kumbukeni neema za Allah juu yenu, alipowaokoa kutoka kwa watu wa Firauni, waliowapa mateso mabaya, wakawachinja wana wenu wa kiume na kuwaacha hai wanawake wenu. Katika hayo palikuwa na jaribio zito kutoka kwa Mola wenu."
 
 وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ أَنجَىٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ وَيُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌۭ مِّن رَّبِّكُمْ عَظِيمٌۭ
 
-**14:7** Na Mola wenu alipotangaza: “Mkishukuru, nitawazidishia; lakini mkikufuru, adhabu Yangu ni kali.”
+**14:7** Na Mola wenu alipotangaza: "Mkishukuru, nitawazidishia; lakini mkikufuru, adhabu Yangu ni kali."
 
 وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِى لَشَدِيدٌۭ
 
-**14:8** Na Musa akasema, “Hata mkikufuru, pamoja na wote walioko duniani—Allah hana haja, Mwenye kusifiwa.”
+**14:8** Na Musa akasema, "Hata mkikufuru, pamoja na wote walioko duniani—Allah hana haja, Mwenye kusifiwa."
 
 وَقَالَ مُوسَىٰٓ إِن تَكْفُرُوٓا۟ أَنتُمْ وَمَن فِى ٱلْأَرْضِ جَمِيعًۭا فَإِنَّ ٱللَّهَ لَغَنِىٌّ حَمِيدٌ
 
-**14:9** Je, habari haijawafikia, za wale wa kabla yenu, watu wa Nuhu, na Adi, na Thamudi—na wale wa baada yao? Hakuna anayewajua isipokuwa Allah. Mitume wao waliwafikia kwa hoja zilizo wazi, lakini walijaribu kuwanyamazisha, na wakasema, “Tunakataa mliyotumwa nayo, na tuna shaka kubwa kuhusu mnachotuitia.”
+**14:9** Je, habari haijawafikia, za wale wa kabla yenu, watu wa Nuhu, na Adi, na Thamudi—na wale wa baada yao? Hakuna anayewajua isipokuwa Allah. Mitume wao waliwafikia kwa hoja zilizo wazi, lakini walijaribu kuwanyamazisha, na wakasema, "Tunakataa mliyotumwa nayo, na tuna shaka kubwa kuhusu mnachotuitia."
 
 أَلَمْ يَأْتِكُمْ نَبَؤُا۟ ٱلَّذِينَ مِن قَبْلِكُمْ قَوْمِ نُوحٍۢ وَعَادٍۢ وَثَمُودَ ۛ وَٱلَّذِينَ مِنۢ بَعْدِهِمْ ۛ لَا يَعْلَمُهُمْ إِلَّا ٱللَّهُ ۚ جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَرَدُّوٓا۟ أَيْدِيَهُمْ فِىٓ أَفْوَٰهِهِمْ وَقَالُوٓا۟ إِنَّا كَفَرْنَا بِمَآ أُرْسِلْتُم بِهِۦ وَإِنَّا لَفِى شَكٍّۢ مِّمَّا تَدْعُونَنَآ إِلَيْهِ مُرِيبٍۢ
 
-**14:10** Mitume wao wakasema, “Je, kuna shaka kuhusu Allah, Muumba wa mbingu na ardhi? Anawaita awasamehe dhambi zenu, na awaahirishe hadi muda uliowekwa.” Wakasema, “Ninyi ni wanadamu tu kama sisi; mnataka kutuzuia tusiyaabudu yale waliyokuwa wakiyaabudu mababu zetu; basi tuleteeni hoja iliyo wazi.”
+**14:10** Mitume wao wakasema, "Je, kuna shaka kuhusu Allah, Muumba wa mbingu na ardhi? Anawaita awasamehe dhambi zenu, na awaahirishe hadi muda uliowekwa." Wakasema, "Ninyi ni wanadamu tu kama sisi; mnataka kutuzuia tusiyaabudu yale waliyokuwa wakiyaabudu mababu zetu; basi tuleteeni hoja iliyo wazi."
 
 ۞ قَالَتْ رُسُلُهُمْ أَفِى ٱللَّهِ شَكٌّۭ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ يَدْعُوكُمْ لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَىٰٓ أَجَلٍۢ مُّسَمًّۭى ۚ قَالُوٓا۟ إِنْ أَنتُمْ إِلَّا بَشَرٌۭ مِّثْلُنَا تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ ءَابَآؤُنَا فَأْتُونَا بِسُلْطَٰنٍۢ مُّبِينٍۢ
 
-**14:11** Mitume wao wakawaambia, “Sisi ni wanadamu tu kama ninyi, lakini Allah humfadhili amtakaye miongoni mwa waja Wake. Hatuwezi kuwaletea hoja yoyote, isipokuwa kwa idhini ya Allah. Na waumini wamtegemee Allah.”
+**14:11** Mitume wao wakawaambia, "Sisi ni wanadamu tu kama ninyi, lakini Allah humfadhili amtakaye miongoni mwa waja Wake. Hatuwezi kuwaletea hoja yoyote, isipokuwa kwa idhini ya Allah. Na waumini wamtegemee Allah."
 
 قَالَتْ لَهُمْ رُسُلُهُمْ إِن نَّحْنُ إِلَّا بَشَرٌۭ مِّثْلُكُمْ وَلَٰكِنَّ ٱللَّهَ يَمُنُّ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ وَمَا كَانَ لَنَآ أَن نَّأْتِيَكُم بِسُلْطَٰنٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
 
-**14:12** “Na kwa nini tusimtegemee Allah, naye ametuongoza katika njia zetu? Tutastahimili mateso yenu. Na wategemeao wamtegemee Allah.”
+**14:12** "Na kwa nini tusimtegemee Allah, naye ametuongoza katika njia zetu? Tutastahimili mateso yenu. Na wategemeao wamtegemee Allah."
 
 وَمَا لَنَآ أَلَّا نَتَوَكَّلَ عَلَى ٱللَّهِ وَقَدْ هَدَىٰنَا سُبُلَنَا ۚ وَلَنَصْبِرَنَّ عَلَىٰ مَآ ءَاذَيْتُمُونَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ
 
-**14:13** Wale waliokufuru wakawaambia mitume wao, “Tutawatoa katika ardhi yetu, isipokuwa mrudi katika dini yetu.” Na Mola wao akawafunulia: “Tutawaangamiza wadhalimu.”
+**14:13** Wale waliokufuru wakawaambia mitume wao, "Tutawatoa katika ardhi yetu, isipokuwa mrudi katika dini yetu." Na Mola wao akawafunulia: "Tutawaangamiza wadhalimu."
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِرُسُلِهِمْ لَنُخْرِجَنَّكُم مِّنْ أَرْضِنَآ أَوْ لَتَعُودُنَّ فِى مِلَّتِنَا ۖ فَأَوْحَىٰٓ إِلَيْهِمْ رَبُّهُمْ لَنُهْلِكَنَّ ٱلظَّٰلِمِينَ
 
-**14:14** “Na tutawapa makazi katika ardhi baada yao. Hayo ni kwa yule anayeiogopa Hadhi Yangu, na anayeogopa vitisho Vyangu.”
+**14:14** "Na tutawapa makazi katika ardhi baada yao. Hayo ni kwa yule anayeiogopa Hadhi Yangu, na anayeogopa vitisho Vyangu."
 
 وَلَنُسْكِنَنَّكُمُ ٱلْأَرْضَ مِنۢ بَعْدِهِمْ ۚ ذَٰلِكَ لِمَنْ خَافَ مَقَامِى وَخَافَ وَعِيدِ
 
@@ -7382,15 +7382,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٍۢ
 
-**14:21** Watajitokeza mbele ya Allah, wote pamoja. Walio dhaifu watawaambia waliokuwa wamejivuna, “Sisi tulikuwa wafuasi wenu, je, mnaweza kutukinga chochote dhidi ya adhabu ya Allah?” Watasema, “Allah angelituongoza, tungeliwaongoza ninyi. Ni sawa kwetu; tukilalamika, au tukisubiri; hatuna pa kukimbilia.”
+**14:21** Watajitokeza mbele ya Allah, wote pamoja. Walio dhaifu watawaambia waliokuwa wamejivuna, "Sisi tulikuwa wafuasi wenu, je, mnaweza kutukinga chochote dhidi ya adhabu ya Allah?" Watasema, "Allah angelituongoza, tungeliwaongoza ninyi. Ni sawa kwetu; tukilalamika, au tukisubiri; hatuna pa kukimbilia."
 
 وَبَرَزُوا۟ لِلَّهِ جَمِيعًۭا فَقَالَ ٱلضُّعَفَٰٓؤُا۟ لِلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُنَّا لَكُمْ تَبَعًۭا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا مِنْ عَذَابِ ٱللَّهِ مِن شَىْءٍۢ ۚ قَالُوا۟ لَوْ هَدَىٰنَا ٱللَّهُ لَهَدَيْنَٰكُمْ ۖ سَوَآءٌ عَلَيْنَآ أَجَزِعْنَآ أَمْ صَبَرْنَا مَا لَنَا مِن مَّحِيصٍۢ
 
-**14:22** Na Shetani atasema, suala litakapokwishaamuliwa, “Allah aliwaahidi ahadi ya haki, na mimi niliwaahidi, lakini nikawadanganya. Sikuwa na mamlaka juu yenu, isipokuwa niliwaita, na mkaniitikia. Basi msinilaumu, bali jilaumuni wenyewe. Siwezi kuwasaidia, wala ninyi hamwezi kunisaidia. Nakataa mliyonishirikisha hapo awali. Wadhalimu watapata adhabu yenye uchungu.”
+**14:22** Na Shetani atasema, suala litakapokwishaamuliwa, "Allah aliwaahidi ahadi ya haki, na mimi niliwaahidi, lakini nikawadanganya. Sikuwa na mamlaka juu yenu, isipokuwa niliwaita, na mkaniitikia. Basi msinilaumu, bali jilaumuni wenyewe. Siwezi kuwasaidia, wala ninyi hamwezi kunisaidia. Nakataa mliyonishirikisha hapo awali. Wadhalimu watapata adhabu yenye uchungu."
 
 وَقَالَ ٱلشَّيْطَٰنُ لَمَّا قُضِىَ ٱلْأَمْرُ إِنَّ ٱللَّهَ وَعَدَكُمْ وَعْدَ ٱلْحَقِّ وَوَعَدتُّكُمْ فَأَخْلَفْتُكُمْ ۖ وَمَا كَانَ لِىَ عَلَيْكُم مِّن سُلْطَٰنٍ إِلَّآ أَن دَعَوْتُكُمْ فَٱسْتَجَبْتُمْ لِى ۖ فَلَا تَلُومُونِى وَلُومُوٓا۟ أَنفُسَكُم ۖ مَّآ أَنَا۠ بِمُصْرِخِكُمْ وَمَآ أَنتُم بِمُصْرِخِىَّ ۖ إِنِّى كَفَرْتُ بِمَآ أَشْرَكْتُمُونِ مِن قَبْلُ ۗ إِنَّ ٱلظَّٰلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌۭ
 
-**14:23** Lakini wale walioamini na wakatenda mema wataingizwa katika bustani ambazo mito inapita chini yake, watakaa humo milele, kwa idhini ya Mola wao. Salamu yao humo itakuwa: “Amani.”
+**14:23** Lakini wale walioamini na wakatenda mema wataingizwa katika bustani ambazo mito inapita chini yake, watakaa humo milele, kwa idhini ya Mola wao. Salamu yao humo itakuwa: "Amani."
 
 وَأُدْخِلَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا بِإِذْنِ رَبِّهِمْ ۖ تَحِيَّتُهُمْ فِيهَا سَلَٰمٌ
 
@@ -7418,7 +7418,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 جَهَنَّمَ يَصْلَوْنَهَا ۖ وَبِئْسَ ٱلْقَرَارُ
 
-**14:30** Na wakamwekea Allah washirika, ili wapoteze watu kutoka njia Yake. Sema, “Jifurahisheni; marudio yenu ni Motoni.”
+**14:30** Na wakamwekea Allah washirika, ili wapoteze watu kutoka njia Yake. Sema, "Jifurahisheni; marudio yenu ni Motoni."
 
 وَجَعَلُوا۟ لِلَّهِ أَندَادًۭا لِّيُضِلُّوا۟ عَن سَبِيلِهِۦ ۗ قُلْ تَمَتَّعُوا۟ فَإِنَّ مَصِيرَكُمْ إِلَى ٱلنَّارِ
 
@@ -7438,31 +7438,31 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَءَاتَىٰكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ ۚ وَإِن تَعُدُّوا۟ نِعْمَتَ ٱللَّهِ لَا تُحْصُوهَآ ۗ إِنَّ ٱلْإِنسَٰنَ لَظَلُومٌۭ كَفَّارٌۭ
 
-**14:35** Kumbuka Ibrahimu aliposema, “Ee Mola wangu, ifanye ardhi hii iwe na amani, na uniepushe mimi na wana wangu tusiabudu masanamu.”
+**14:35** Kumbuka Ibrahimu aliposema, "Ee Mola wangu, ifanye ardhi hii iwe na amani, na uniepushe mimi na wana wangu tusiabudu masanamu."
 
 وَإِذْ قَالَ إِبْرَٰهِيمُ رَبِّ ٱجْعَلْ هَٰذَا ٱلْبَلَدَ ءَامِنًۭا وَٱجْنُبْنِى وَبَنِىَّ أَن نَّعْبُدَ ٱلْأَصْنَامَ
 
-**14:36** “Mola wangu, yamewapoteza watu wengi. Anayenifuata ni wangu; na anayeniasi—Wewe ni Mwenye kusamehe na Mwenye kurehemu.
+**14:36** "Mola wangu, yamewapoteza watu wengi. Anayenifuata ni wangu; na anayeniasi—Wewe ni Mwenye kusamehe na Mwenye kurehemu.
 
 رَبِّ إِنَّهُنَّ أَضْلَلْنَ كَثِيرًۭا مِّنَ ٱلنَّاسِ ۖ فَمَن تَبِعَنِى فَإِنَّهُۥ مِنِّى ۖ وَمَنْ عَصَانِى فَإِنَّكَ غَفُورٌۭ رَّحِيمٌۭ
 
-**14:37** “Mola wetu, nimewaweka baadhi ya uzao wangu katika bonde lisilo na mimea, karibu na Nyumba Yako Tukufu, Mola wetu, ili wasimamishe sala. Basi zifanye nyoyo za baadhi ya watu zielekee kwao, na uwape matunda, ili washukuru.”
+**14:37** "Mola wetu, nimewaweka baadhi ya uzao wangu katika bonde lisilo na mimea, karibu na Nyumba Yako Tukufu, Mola wetu, ili wasimamishe sala. Basi zifanye nyoyo za baadhi ya watu zielekee kwao, na uwape matunda, ili washukuru."
 
 رَّبَّنَآ إِنِّىٓ أَسْكَنتُ مِن ذُرِّيَّتِى بِوَادٍ غَيْرِ ذِى زَرْعٍ عِندَ بَيْتِكَ ٱلْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا۟ ٱلصَّلَوٰةَ فَٱجْعَلْ أَفْـِٔدَةًۭ مِّنَ ٱلنَّاسِ تَهْوِىٓ إِلَيْهِمْ وَٱرْزُقْهُم مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَشْكُرُونَ
 
-**14:38** “Mola wetu, Wewe unajua tunachoficha na tunachodhihirisha. Na hakuna kilichofichika kwa Allah, ardhini wala mbinguni.”
+**14:38** "Mola wetu, Wewe unajua tunachoficha na tunachodhihirisha. Na hakuna kilichofichika kwa Allah, ardhini wala mbinguni."
 
 رَبَّنَآ إِنَّكَ تَعْلَمُ مَا نُخْفِى وَمَا نُعْلِنُ ۗ وَمَا يَخْفَىٰ عَلَى ٱللَّهِ مِن شَىْءٍۢ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ
 
-**14:39** “Sifa ni za Allah, ambaye amenipa, katika uzee wangu, Ismaili na Isihaka. Mola wangu ni Msikivu wa maombi.”
+**14:39** "Sifa ni za Allah, ambaye amenipa, katika uzee wangu, Ismaili na Isihaka. Mola wangu ni Msikivu wa maombi."
 
 ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَٰعِيلَ وَإِسْحَٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ
 
-**14:40** “Mola wangu, nifanye niwe miongoni mwa wanaosimamisha sala, na katika uzao wangu. Mola wetu, ukubali dua yangu.”
+**14:40** "Mola wangu, nifanye niwe miongoni mwa wanaosimamisha sala, na katika uzao wangu. Mola wetu, ukubali dua yangu."
 
 رَبِّ ٱجْعَلْنِى مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِى ۚ رَبَّنَا وَتَقَبَّلْ دُعَآءِ
 
-**14:41** “Mola wetu, nisamehe mimi, na wazazi wangu, na waumini, Siku ya Hesabu itakapotokea.”
+**14:41** "Mola wetu, nisamehe mimi, na wazazi wangu, na waumini, Siku ya Hesabu itakapotokea."
 
 رَبَّنَا ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ ٱلْحِسَابُ
 
@@ -7474,7 +7474,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 مُهْطِعِينَ مُقْنِعِى رُءُوسِهِمْ لَا يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ ۖ وَأَفْـِٔدَتُهُمْ هَوَآءٌۭ
 
-**14:44** Na waonye wanadamu Siku ambayo adhabu itawajia, na wadhalimu watasema, “Mola wetu, tuahirishe kwa muda mfupi, na tutaitikia wito Wako na tutawafuata mitume.” Je, hamkuapa hapo awali kwamba hamtatoweka?
+**14:44** Na waonye wanadamu Siku ambayo adhabu itawajia, na wadhalimu watasema, "Mola wetu, tuahirishe kwa muda mfupi, na tutaitikia wito Wako na tutawafuata mitume." Je, hamkuapa hapo awali kwamba hamtatoweka?
 
 وَأَنذِرِ ٱلنَّاسَ يَوْمَ يَأْتِيهِمُ ٱلْعَذَابُ فَيَقُولُ ٱلَّذِينَ ظَلَمُوا۟ رَبَّنَآ أَخِّرْنَآ إِلَىٰٓ أَجَلٍۢ قَرِيبٍۢ نُّجِبْ دَعْوَتَكَ وَنَتَّبِعِ ٱلرُّسُلَ ۗ أَوَلَمْ تَكُونُوٓا۟ أَقْسَمْتُم مِّن قَبْلُ مَا لَكُم مِّن زَوَالٍۢ
 
@@ -7542,11 +7542,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 مَّا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَـْٔخِرُونَ
 
-**15:6** Na wakasema, “Ee wewe uliyeteremshiwa ujumbe, hakika wewe ni mwendawazimu.”
+**15:6** Na wakasema, "Ee wewe uliyeteremshiwa ujumbe, hakika wewe ni mwendawazimu."
 
 وَقَالُوا۟ يَٰٓأَيُّهَا ٱلَّذِى نُزِّلَ عَلَيْهِ ٱلذِّكْرُ إِنَّكَ لَمَجْنُونٌۭ
 
-**15:7** Kwa nini hutuletei malaika, ikiwa wewe ni mkweli?”
+**15:7** Kwa nini hutuletei malaika, ikiwa wewe ni mkweli?"
 
 لَّوْ مَا تَأْتِينَا بِٱلْمَلَٰٓئِكَةِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 
@@ -7578,7 +7578,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَوْ فَتَحْنَا عَلَيْهِم بَابًۭا مِّنَ ٱلسَّمَآءِ فَظَلُّوا۟ فِيهِ يَعْرُجُونَ
 
-**15:15** Wangesema bado, “Macho yetu yanatupotosha; bali sisi ni watu tuliorogwa.”
+**15:15** Wangesema bado, "Macho yetu yanatupotosha; bali sisi ni watu tuliorogwa."
 
 لَقَالُوٓا۟ إِنَّمَا سُكِّرَتْ أَبْصَٰرُنَا بَلْ نَحْنُ قَوْمٌۭ مَّسْحُورُونَ
 
@@ -7630,11 +7630,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَٱلْجَآنَّ خَلَقْنَٰهُ مِن قَبْلُ مِن نَّارِ ٱلسَّمُومِ
 
-**15:28** Mola wako aliwaambia malaika, “Mimi naumba mwanadamu kutokana na udongo, kutokana na tope lililoundwa.”
+**15:28** Mola wako aliwaambia malaika, "Mimi naumba mwanadamu kutokana na udongo, kutokana na tope lililoundwa."
 
 وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًۭا مِّن صَلْصَٰلٍۢ مِّنْ حَمَإٍۢ مَّسْنُونٍۢ
 
-**15:29** “Nitakapomkamilisha, na nikampulizia kutoka roho Yangu, mwangukeni mkimsujudia.”
+**15:29** "Nitakapomkamilisha, na nikampulizia kutoka roho Yangu, mwangukeni mkimsujudia."
 
 فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ
 
@@ -7646,47 +7646,47 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِلَّآ إِبْلِيسَ أَبَىٰٓ أَن يَكُونَ مَعَ ٱلسَّٰجِدِينَ
 
-**15:32** Akasema, “Ee Ibilisi, ni nini kilichokuzuia usiwe miongoni mwa waliosujudu?”
+**15:32** Akasema, "Ee Ibilisi, ni nini kilichokuzuia usiwe miongoni mwa waliosujudu?"
 
 قَالَ يَٰٓإِبْلِيسُ مَا لَكَ أَلَّا تَكُونَ مَعَ ٱلسَّٰجِدِينَ
 
-**15:33** Akasema, “Siwezi kumsujudia mwanadamu, ambaye Umemuumba kutokana na udongo, kutokana na tope lililoundwa.”
+**15:33** Akasema, "Siwezi kumsujudia mwanadamu, ambaye Umemuumba kutokana na udongo, kutokana na tope lililoundwa."
 
 قَالَ لَمْ أَكُن لِّأَسْجُدَ لِبَشَرٍ خَلَقْتَهُۥ مِن صَلْصَٰلٍۢ مِّنْ حَمَإٍۢ مَّسْنُونٍۢ
 
-**15:34** Akasema, “Basi toka humu, kwani wewe umefukuzwa.”
+**15:34** Akasema, "Basi toka humu, kwani wewe umefukuzwa."
 
 قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌۭ
 
-**15:35** “Na laana itakuwa juu yako hadi Siku ya Hukumu.”
+**15:35** "Na laana itakuwa juu yako hadi Siku ya Hukumu."
 
 وَإِنَّ عَلَيْكَ ٱللَّعْنَةَ إِلَىٰ يَوْمِ ٱلدِّينِ
 
-**15:36** Akasema, “Mola wangu, nipe muhula hadi Siku watakapofufuliwa.”
+**15:36** Akasema, "Mola wangu, nipe muhula hadi Siku watakapofufuliwa."
 
 قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
 
-**15:37** Akasema, “Wewe ni miongoni mwa waliopewa muhula.”
+**15:37** Akasema, "Wewe ni miongoni mwa waliopewa muhula."
 
 قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ
 
-**15:38** “Hadi Siku ya muda uliowekwa.”
+**15:38** "Hadi Siku ya muda uliowekwa."
 
 إِلَىٰ يَوْمِ ٱلْوَقْتِ ٱلْمَعْلُومِ
 
-**15:39** Akasema, “Mola wangu, kwa kuwa Umenipoteza, nitawapambia duniani, na nitawapoteza wote.”
+**15:39** Akasema, "Mola wangu, kwa kuwa Umenipoteza, nitawapambia duniani, na nitawapoteza wote."
 
 قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ
 
-**15:40** “Isipokuwa waja Wako walio safi miongoni mwao.”
+**15:40** "Isipokuwa waja Wako walio safi miongoni mwao."
 
 إِلَّا عِبَادَكَ مِنْهُمُ ٱلْمُخْلَصِينَ
 
-**15:41** Akasema, “Hii ni njia iliyo sawa kwangu.”
+**15:41** Akasema, "Hii ni njia iliyo sawa kwangu."
 
 قَالَ هَٰذَا صِرَٰطٌ عَلَىَّ مُسْتَقِيمٌ
 
-**15:42** “Juu ya waja Wangu huna mamlaka, isipokuwa wakosaji wanaokufuata.”
+**15:42** "Juu ya waja Wangu huna mamlaka, isipokuwa wakosaji wanaokufuata."
 
 إِنَّ عِبَادِى لَيْسَ لَكَ عَلَيْهِمْ سُلْطَٰنٌ إِلَّا مَنِ ٱتَّبَعَكَ مِنَ ٱلْغَاوِينَ
 
@@ -7694,7 +7694,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَإِنَّ جَهَنَّمَ لَمَوْعِدُهُمْ أَجْمَعِينَ
 
-**15:44** “Ina milango saba; kwa kila mlango kuna kundi lililopangwa.”
+**15:44** "Ina milango saba; kwa kila mlango kuna kundi lililopangwa."
 
 لَهَا سَبْعَةُ أَبْوَٰبٍۢ لِّكُلِّ بَابٍۢ مِّنْهُمْ جُزْءٌۭ مَّقْسُومٌ
 
@@ -7702,7 +7702,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنَّ ٱلْمُتَّقِينَ فِى جَنَّٰتٍۢ وَعُيُونٍ
 
-**15:46** “Ingieni humo kwa amani na usalama.”
+**15:46** "Ingieni humo kwa amani na usalama."
 
 ٱدْخُلُوهَا بِسَلَٰمٍ ءَامِنِينَ
 
@@ -7726,39 +7726,39 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ
 
-**15:52** Walipoingia kwake, na wakasema, “Amani.” Akasema, “Sisi tunawaogopa.”
+**15:52** Walipoingia kwake, na wakasema, "Amani." Akasema, "Sisi tunawaogopa."
 
 إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَٰمًۭا قَالَ إِنَّا مِنكُمْ وَجِلُونَ
 
-**15:53** Wakasema, “Usiogope; tunakuletea habari njema ya mvulana mwenye elimu.”
+**15:53** Wakasema, "Usiogope; tunakuletea habari njema ya mvulana mwenye elimu."
 
 قَالُوا۟ لَا تَوْجَلْ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ عَلِيمٍۢ
 
-**15:54** Akasema, “Je, mnaniletea habari njema, na uzee umenifikia? Ni habari njema gani mnayoleta?”
+**15:54** Akasema, "Je, mnaniletea habari njema, na uzee umenifikia? Ni habari njema gani mnayoleta?"
 
 قَالَ أَبَشَّرْتُمُونِى عَلَىٰٓ أَن مَّسَّنِىَ ٱلْكِبَرُ فَبِمَ تُبَشِّرُونَ
 
-**15:55** Wakasema, “Tunakuletea habari njema kwa haki, basi usiwe miongoni mwa wanaokata tamaa.”
+**15:55** Wakasema, "Tunakuletea habari njema kwa haki, basi usiwe miongoni mwa wanaokata tamaa."
 
 قَالُوا۟ بَشَّرْنَٰكَ بِٱلْحَقِّ فَلَا تَكُن مِّنَ ٱلْقَٰنِطِينَ
 
-**15:56** Akasema, “Na ni nani anayekata tamaa ya rehema ya Mola wake isipokuwa waliopotea?”
+**15:56** Akasema, "Na ni nani anayekata tamaa ya rehema ya Mola wake isipokuwa waliopotea?"
 
 قَالَ وَمَن يَقْنَطُ مِن رَّحْمَةِ رَبِّهِۦٓ إِلَّا ٱلضَّآلُّونَ
 
-**15:57** Akasema, “Basi ni nini shughuli yenu, enyi wajumbe?”
+**15:57** Akasema, "Basi ni nini shughuli yenu, enyi wajumbe?"
 
 قَالَ فَمَا خَطْبُكُمْ أَيُّهَا ٱلْمُرْسَلُونَ
 
-**15:58** Wakasema, “Tumetumwa kwa watu wakosaji.”
+**15:58** Wakasema, "Tumetumwa kwa watu wakosaji."
 
 قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍۢ مُّجْرِمِينَ
 
-**15:59** “Isipokuwa familia ya Luti; tutawaokoa wote.”
+**15:59** "Isipokuwa familia ya Luti; tutawaokoa wote."
 
 إِلَّآ ءَالَ لُوطٍ إِنَّا لَمُنَجُّوهُمْ أَجْمَعِينَ
 
-**15:60** “Isipokuwa mke wake.” Tumeamua kwamba atakuwa miongoni mwa wanaobaki nyuma.
+**15:60** "Isipokuwa mke wake." Tumeamua kwamba atakuwa miongoni mwa wanaobaki nyuma.
 
 إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَآ ۙ إِنَّهَا لَمِنَ ٱلْغَٰبِرِينَ
 
@@ -7766,19 +7766,19 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَلَمَّا جَآءَ ءَالَ لُوطٍ ٱلْمُرْسَلُونَ
 
-**15:62** Akasema, “Ninyi ni watu wasiojulikana kwangu.”
+**15:62** Akasema, "Ninyi ni watu wasiojulikana kwangu."
 
 قَالَ إِنَّكُمْ قَوْمٌۭ مُّنكَرُونَ
 
-**15:63** Wakasema, “Tunakuletea walichokuwa wakishuku.”
+**15:63** Wakasema, "Tunakuletea walichokuwa wakishuku."
 
 قَالُوا۟ بَلْ جِئْنَٰكَ بِمَا كَانُوا۟ فِيهِ يَمْتَرُونَ
 
-**15:64** “Tunakuletea haki, na sisi ni wakweli.”
+**15:64** "Tunakuletea haki, na sisi ni wakweli."
 
 وَأَتَيْنَٰكَ بِٱلْحَقِّ وَإِنَّا لَصَٰدِقُونَ
 
-**15:65** “Safiri na familia yako usiku wa manane, na ufuate nyuma yao, na asiwepo yeyote kati yenu atakayetazama nyuma, na endeleeni kama mlivyoamriwa.”
+**15:65** "Safiri na familia yako usiku wa manane, na ufuate nyuma yao, na asiwepo yeyote kati yenu atakayetazama nyuma, na endeleeni kama mlivyoamriwa."
 
 فَأَسْرِ بِأَهْلِكَ بِقِطْعٍۢ مِّنَ ٱلَّيْلِ وَٱتَّبِعْ أَدْبَٰرَهُمْ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌۭ وَٱمْضُوا۟ حَيْثُ تُؤْمَرُونَ
 
@@ -7790,19 +7790,19 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَجَآءَ أَهْلُ ٱلْمَدِينَةِ يَسْتَبْشِرُونَ
 
-**15:68** Akasema, “Hawa ni wageni wangu, basi msiniabishe.”
+**15:68** Akasema, "Hawa ni wageni wangu, basi msiniabishe."
 
 قَالَ إِنَّ هَٰٓؤُلَآءِ ضَيْفِى فَلَا تَفْضَحُونِ
 
-**15:69** “Na mcheni Allah, na msinidhalilishe.”
+**15:69** "Na mcheni Allah, na msinidhalilishe."
 
 وَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ
 
-**15:70** Wakasema, “Je, hatukukukataza wasiojulikana?”
+**15:70** Wakasema, "Je, hatukukukataza wasiojulikana?"
 
 قَالُوٓا۟ أَوَلَمْ نَنْهَكَ عَنِ ٱلْعَٰلَمِينَ
 
-**15:71** Akasema, “Hawa ni binti zangu, ikiwa ni lazima.”
+**15:71** Akasema, "Hawa ni binti zangu, ikiwa ni lazima."
 
 قَالَ هَٰٓؤُلَآءِ بَنَاتِىٓ إِن كُنتُمْ فَٰعِلِينَ
 
@@ -7874,7 +7874,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 لَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًۭا مِّنْهُمْ وَلَا تَحْزَنْ عَلَيْهِمْ وَٱخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ
 
-**15:89** Na sema, “Mimi ni mwonyaji wa wazi.”
+**15:89** Na sema, "Mimi ni mwonyaji wa wazi."
 
 وَقُلْ إِنِّىٓ أَنَا ٱلنَّذِيرُ ٱلْمُبِينُ
 
@@ -7934,7 +7934,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَتَىٰٓ أَمْرُ ٱللَّهِ فَلَا تَسْتَعْجِلُوهُ ۚ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ
 
-**16:2** Huteremsha malaika pamoja na Roho kwa amri Yake, kwa amtakaye miongoni mwa waja Wake: “Watahadharisheni kwamba hakuna mungu ila Mimi, na mniogope Mimi.”
+**16:2** Huteremsha malaika pamoja na Roho kwa amri Yake, kwa amtakaye miongoni mwa waja Wake: "Watahadharisheni kwamba hakuna mungu ila Mimi, na mniogope Mimi."
 
 يُنَزِّلُ ٱلْمَلَٰٓئِكَةَ بِٱلرُّوحِ مِنْ أَمْرِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ أَنْ أَنذِرُوٓا۟ أَنَّهُۥ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱتَّقُونِ
 
@@ -8022,7 +8022,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 لَا جَرَمَ أَنَّ ٱللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْتَكْبِرِينَ
 
-**16:24** Na wanapoambiwa, “Mola wenu ameteremsha nini?” Wanasema, “Hadithi za watu wa kale.”
+**16:24** Na wanapoambiwa, "Mola wenu ameteremsha nini?" Wanasema, "Hadithi za watu wa kale."
 
 وَإِذَا قِيلَ لَهُم مَّاذَآ أَنزَلَ رَبُّكُمْ ۙ قَالُوٓا۟ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
@@ -8034,11 +8034,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 قَدْ مَكَرَ ٱلَّذِينَ مِن قَبْلِهِمْ فَأَتَى ٱللَّهُ بُنْيَٰنَهُم مِّنَ ٱلْقَوَاعِدِ فَخَرَّ عَلَيْهِمُ ٱلسَّقْفُ مِن فَوْقِهِمْ وَأَتَىٰهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ
 
-**16:27** Kisha, Siku ya Ufufuo, atawafedhehesha, na atasema, “Wako wapi washirika Wangu ambao kwa ajili yao mlizozana?” Wale waliopewa elimu watasema, “Leo aibu na huzuni ni juu ya makafiri.”
+**16:27** Kisha, Siku ya Ufufuo, atawafedhehesha, na atasema, "Wako wapi washirika Wangu ambao kwa ajili yao mlizozana?" Wale waliopewa elimu watasema, "Leo aibu na huzuni ni juu ya makafiri."
 
 ثُمَّ يَوْمَ ٱلْقِيَٰمَةِ يُخْزِيهِمْ وَيَقُولُ أَيْنَ شُرَكَآءِىَ ٱلَّذِينَ كُنتُمْ تُشَٰٓقُّونَ فِيهِمْ ۚ قَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ إِنَّ ٱلْخِزْىَ ٱلْيَوْمَ وَٱلسُّوٓءَ عَلَى ٱلْكَٰفِرِينَ
 
-**16:28** Wale wanaojidhulumu nafsi zao huku malaika wakiwatoa—watatoa salama: “Hatukufanya ubaya.” Ndio mlifanya. Allah anajua mliyokuwa mkifanya.”
+**16:28** Wale wanaojidhulumu nafsi zao huku malaika wakiwatoa—watatoa salama: "Hatukufanya ubaya." Ndio mlifanya. Allah anajua mliyokuwa mkifanya."
 
 ٱلَّذِينَ تَتَوَفَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ ظَالِمِىٓ أَنفُسِهِمْ ۖ فَأَلْقَوُا۟ ٱلسَّلَمَ مَا كُنَّا نَعْمَلُ مِن سُوٓءٍۭ ۚ بَلَىٰٓ إِنَّ ٱللَّهَ عَلِيمٌۢ بِمَا كُنتُمْ تَعْمَلُونَ
 
@@ -8046,7 +8046,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَٰلِدِينَ فِيهَا ۖ فَلَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ
 
-**16:30** Na wataambiwa wale waliomcha Allah, “Mola wenu amefunua nini?” Watasema, “Wema.” Kwa wale wanaotenda mema katika dunia hii kuna wema, na Nyumba ya Akhera ni bora zaidi. Ni makazi mazuri yaliyoje ya wacha Allah.
+**16:30** Na wataambiwa wale waliomcha Allah, "Mola wenu amefunua nini?" Watasema, "Wema." Kwa wale wanaotenda mema katika dunia hii kuna wema, na Nyumba ya Akhera ni bora zaidi. Ni makazi mazuri yaliyoje ya wacha Allah.
 
 ۞ وَقِيلَ لِلَّذِينَ ٱتَّقَوْا۟ مَاذَآ أَنزَلَ رَبُّكُمْ ۚ قَالُوا۟ خَيْرًۭا ۗ لِّلَّذِينَ أَحْسَنُوا۟ فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةٌۭ ۚ وَلَدَارُ ٱلْءَاخِرَةِ خَيْرٌۭ ۚ وَلَنِعْمَ دَارُ ٱلْمُتَّقِينَ
 
@@ -8054,7 +8054,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 جَنَّٰتُ عَدْنٍۢ يَدْخُلُونَهَا تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۖ لَهُمْ فِيهَا مَا يَشَآءُونَ ۚ كَذَٰلِكَ يَجْزِى ٱللَّهُ ٱلْمُتَّقِينَ
 
-**16:32** Wale walio katika hali njema malaika wanapowatoa—watasema, “Amani iwe juu yenu; ingieni Peponi, kwa yale mliyokuwa mkifanya.”
+**16:32** Wale walio katika hali njema malaika wanapowatoa—watasema, "Amani iwe juu yenu; ingieni Peponi, kwa yale mliyokuwa mkifanya."
 
 ٱلَّذِينَ تَتَوَفَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ طَيِّبِينَ ۙ يَقُولُونَ سَلَٰمٌ عَلَيْكُمُ ٱدْخُلُوا۟ ٱلْجَنَّةَ بِمَا كُنتُمْ تَعْمَلُونَ
 
@@ -8066,11 +8066,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَأَصَابَهُمْ سَيِّـَٔاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**16:35** Washirikina wanasema, “Allah angelitaka, tusingeabudu chochote badala Yake, si sisi, wala mababu zetu, wala tusingeharamisha chochote badala ya maharamisho Yake.” Wale wa kabla yao walifanya vivyo hivyo. Je, mitume wanawajibika kwa chochote isipokuwa mawasiliano yaliyo wazi?
+**16:35** Washirikina wanasema, "Allah angelitaka, tusingeabudu chochote badala Yake, si sisi, wala mababu zetu, wala tusingeharamisha chochote badala ya maharamisho Yake." Wale wa kabla yao walifanya vivyo hivyo. Je, mitume wanawajibika kwa chochote isipokuwa mawasiliano yaliyo wazi?
 
 وَقَالَ ٱلَّذِينَ أَشْرَكُوا۟ لَوْ شَآءَ ٱللَّهُ مَا عَبَدْنَا مِن دُونِهِۦ مِن شَىْءٍۢ نَّحْنُ وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن دُونِهِۦ مِن شَىْءٍۢ ۚ كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ فَهَلْ عَلَى ٱلرُّسُلِ إِلَّا ٱلْبَلَٰغُ ٱلْمُبِينُ
 
-**16:36** Kwa kila umma tulimtuma mtume: “Mwabuduni Allah, na iepukeni ibada ya masanamu.” Baadhi yao Allah aliwaongoza, na wengine walistahiki upotevu. Basi tembeeni duniani, na mone hatima ya waliokadhibisha ilivyokuwa.
+**16:36** Kwa kila umma tulimtuma mtume: "Mwabuduni Allah, na iepukeni ibada ya masanamu." Baadhi yao Allah aliwaongoza, na wengine walistahiki upotevu. Basi tembeeni duniani, na mone hatima ya waliokadhibisha ilivyokuwa.
 
 وَلَقَدْ بَعَثْنَا فِى كُلِّ أُمَّةٍۢ رَّسُولًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱجْتَنِبُوا۟ ٱلطَّٰغُوتَ ۖ فَمِنْهُم مَّنْ هَدَى ٱللَّهُ وَمِنْهُم مَّنْ حَقَّتْ عَلَيْهِ ٱلضَّلَٰلَةُ ۚ فَسِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُكَذِّبِينَ
 
@@ -8078,7 +8078,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِن تَحْرِصْ عَلَىٰ هُدَىٰهُمْ فَإِنَّ ٱللَّهَ لَا يَهْدِى مَن يُضِلُّ ۖ وَمَا لَهُم مِّن نَّٰصِرِينَ
 
-**16:38** Na wanaapa kwa Allah kwa viapo vyao vizito sana, “Allah hatamfufua yeyote anayekufa.” Ndio, ni ahadi inayomlazimu, lakini watu wengi hawajui.
+**16:38** Na wanaapa kwa Allah kwa viapo vyao vizito sana, "Allah hatamfufua yeyote anayekufa." Ndio, ni ahadi inayomlazimu, lakini watu wengi hawajui.
 
 وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ ۙ لَا يَبْعَثُ ٱللَّهُ مَن يَمُوتُ ۚ بَلَىٰ وَعْدًا عَلَيْهِ حَقًّۭا وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
@@ -8086,7 +8086,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 لِيُبَيِّنَ لَهُمُ ٱلَّذِى يَخْتَلِفُونَ فِيهِ وَلِيَعْلَمَ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّهُمْ كَانُوا۟ كَٰذِبِينَ
 
-**16:40** Tunapotaka jambo litokee, tunaliambia, “Kuwa,” na linakuwa.
+**16:40** Tunapotaka jambo litokee, tunaliambia, "Kuwa," na linakuwa.
 
 إِنَّمَا قَوْلُنَا لِشَىْءٍ إِذَآ أَرَدْنَٰهُ أَن نَّقُولَ لَهُۥ كُن فَيَكُونُ
 
@@ -8132,7 +8132,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 
 
-**16:51** Allah amesema: “Msiweke miungu wawili; Yeye ni Allah Mmoja tu; basi niogopeni Mimi tu.”
+**16:51** Allah amesema: "Msiweke miungu wawili; Yeye ni Allah Mmoja tu; basi niogopeni Mimi tu."
 
 ۞ وَقَالَ ٱللَّهُ لَا تَتَّخِذُوٓا۟ إِلَٰهَيْنِ ٱثْنَيْنِ ۖ إِنَّمَا هُوَ إِلَٰهٌۭ وَٰحِدٌۭ ۖ فَإِيَّٰىَ فَٱرْهَبُونِ
 
@@ -8200,7 +8200,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمِن ثَمَرَٰتِ ٱلنَّخِيلِ وَٱلْأَعْنَٰبِ تَتَّخِذُونَ مِنْهُ سَكَرًۭا وَرِزْقًا حَسَنًا ۗ إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ لِّقَوْمٍۢ يَعْقِلُونَ
 
-**16:68** Na Mola wako akamfunulia nyuki: “Jitengeze mizinga milimani, na katika miti, na katika wanayojenga.”
+**16:68** Na Mola wako akamfunulia nyuki: "Jitengeze mizinga milimani, na katika miti, na katika wanayojenga."
 
 وَأَوْحَىٰ رَبُّكَ إِلَى ٱلنَّحْلِ أَنِ ٱتَّخِذِى مِنَ ٱلْجِبَالِ بُيُوتًۭا وَمِنَ ٱلشَّجَرِ وَمِمَّا يَعْرِشُونَ
 
@@ -8272,7 +8272,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَإِذَا رَءَا ٱلَّذِينَ ظَلَمُوا۟ ٱلْعَذَابَ فَلَا يُخَفَّفُ عَنْهُمْ وَلَا هُمْ يُنظَرُونَ
 
-**16:86** Na washirikina watakapowaona washirika wao, watasema, “Mola wetu, hawa ni washirika wetu tuliokuwa tukiwaomba badala Yako.” Watawarudishia kwa kusema, “Hakika ninyi ni waongo.”
+**16:86** Na washirikina watakapowaona washirika wao, watasema, "Mola wetu, hawa ni washirika wetu tuliokuwa tukiwaomba badala Yako." Watawarudishia kwa kusema, "Hakika ninyi ni waongo."
 
 وَإِذَا رَءَا ٱلَّذِينَ أَشْرَكُوا۟ شُرَكَآءَهُمْ قَالُوا۟ رَبَّنَا هَٰٓؤُلَآءِ شُرَكَآؤُنَا ٱلَّذِينَ كُنَّا نَدْعُوا۟ مِن دُونِكَ ۖ فَأَلْقَوْا۟ إِلَيْهِمُ ٱلْقَوْلَ إِنَّكُمْ لَكَٰذِبُونَ
 
@@ -8332,15 +8332,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنَّمَا سُلْطَٰنُهُۥ عَلَى ٱلَّذِينَ يَتَوَلَّوْنَهُۥ وَٱلَّذِينَ هُم بِهِۦ مُشْرِكُونَ
 
-**16:101** Tunapobadili aya mahali pa aya nyingine—na Allah anajua zaidi anachokifunua—wanasema, “Wewe ni mzushi.” Lakini wengi wao hawajui.
+**16:101** Tunapobadili aya mahali pa aya nyingine—na Allah anajua zaidi anachokifunua—wanasema, "Wewe ni mzushi." Lakini wengi wao hawajui.
 
 وَإِذَا بَدَّلْنَآ ءَايَةًۭ مَّكَانَ ءَايَةٍۢ ۙ وَٱللَّهُ أَعْلَمُ بِمَا يُنَزِّلُ قَالُوٓا۟ إِنَّمَآ أَنتَ مُفْتَرٍۭ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
 
-**16:102** Sema, “Roho Takatifu ameiteremsha kutoka kwa Mola wako, kwa haki, ili kuwathibitisha wale wanaoamini, na kama uongofu na habari njema kwa wanaojisalimisha.”
+**16:102** Sema, "Roho Takatifu ameiteremsha kutoka kwa Mola wako, kwa haki, ili kuwathibitisha wale wanaoamini, na kama uongofu na habari njema kwa wanaojisalimisha."
 
 قُلْ نَزَّلَهُۥ رُوحُ ٱلْقُدُسِ مِن رَّبِّكَ بِٱلْحَقِّ لِيُثَبِّتَ ٱلَّذِينَ ءَامَنُوا۟ وَهُدًۭى وَبُشْرَىٰ لِلْمُسْلِمِينَ
 
-**16:103** Tunajua vizuri kwamba wanasema, “Ni mwanadamu anayemfundisha.” Lakini lugha ya wanayemrejea ni ya kigeni, na hii ni lugha ya Kiarabu iliyo wazi.
+**16:103** Tunajua vizuri kwamba wanasema, "Ni mwanadamu anayemfundisha." Lakini lugha ya wanayemrejea ni ya kigeni, na hii ni lugha ya Kiarabu iliyo wazi.
 
 وَلَقَدْ نَعْلَمُ أَنَّهُمْ يَقُولُونَ إِنَّمَا يُعَلِّمُهُۥ بَشَرٌۭ ۗ لِّسَانُ ٱلَّذِى يُلْحِدُونَ إِلَيْهِ أَعْجَمِىٌّۭ وَهَٰذَا لِسَانٌ عَرَبِىٌّۭ مُّبِينٌ
 
@@ -8392,7 +8392,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ
 
-**16:116** Na msiseme uongo unaotamkwa na ndimi zenu, “Hiki ni halali, na hiki ni haramu,” ili kuzua uongo na kuuhusisha na Allah. Wanaozua uongo na kuuhusisha na Allah hawatafanikiwa.
+**16:116** Na msiseme uongo unaotamkwa na ndimi zenu, "Hiki ni halali, na hiki ni haramu," ili kuzua uongo na kuuhusisha na Allah. Wanaozua uongo na kuuhusisha na Allah hawatafanikiwa.
 
 وَلَا تَقُولُوا۟ لِمَا تَصِفُ أَلْسِنَتُكُمُ ٱلْكَذِبَ هَٰذَا حَلَٰلٌۭ وَهَٰذَا حَرَامٌۭ لِّتَفْتَرُوا۟ عَلَى ٱللَّهِ ٱلْكَذِبَ ۚ إِنَّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ لَا يُفْلِحُونَ
 
@@ -8420,7 +8420,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَءَاتَيْنَٰهُ فِى ٱلدُّنْيَا حَسَنَةًۭ ۖ وَإِنَّهُۥ فِى ٱلْءَاخِرَةِ لَمِنَ ٱلصَّٰلِحِينَ
 
-**16:123** Kisha tukakufunulia: “Fuata dini ya Ibrahimu, Mwislamu wa pekee. Hakuwa mwabudu masanamu.”
+**16:123** Kisha tukakufunulia: "Fuata dini ya Ibrahimu, Mwislamu wa pekee. Hakuwa mwabudu masanamu."
 
 ثُمَّ أَوْحَيْنَآ إِلَيْكَ أَنِ ٱتَّبِعْ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًۭا ۖ وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
 
@@ -8508,7 +8508,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَكُلَّ إِنسَٰنٍ أَلْزَمْنَٰهُ طَٰٓئِرَهُۥ فِى عُنُقِهِۦ ۖ وَنُخْرِجُ لَهُۥ يَوْمَ ٱلْقِيَٰمَةِ كِتَٰبًۭا يَلْقَىٰهُ مَنشُورًا
 
-**17:14** “Soma kitabu chako; leo hakuna wa kukuhesabia ila wewe mwenyewe.”
+**17:14** "Soma kitabu chako; leo hakuna wa kukuhesabia ila wewe mwenyewe."
 
 ٱقْرَأْ كِتَٰبَكَ كَفَىٰ بِنَفْسِكَ ٱلْيَوْمَ عَلَيْكَ حَسِيبًۭا
 
@@ -8548,7 +8548,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ۞ وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا ۚ إِمَّا يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّۢ وَلَا تَنْهَرْهُمَا وَقُل لَّهُمَا قَوْلًۭا كَرِيمًۭا
 
-**17:24** Na uwainamishie bawa la unyenyekevu, kwa rehema, na useme, “Mola wangu, wahurumie, kama walivyonilea nilipokuwa mtoto.”
+**17:24** Na uwainamishie bawa la unyenyekevu, kwa rehema, na useme, "Mola wangu, wahurumie, kama walivyonilea nilipokuwa mtoto."
 
 وَٱخْفِضْ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحْمَةِ وَقُل رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى صَغِيرًۭا
 
@@ -8620,7 +8620,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَقَدْ صَرَّفْنَا فِى هَٰذَا ٱلْقُرْءَانِ لِيَذَّكَّرُوا۟ وَمَا يَزِيدُهُمْ إِلَّا نُفُورًۭا
 
-**17:42** Sema, “Kama kungekuwa na miungu wengine pamoja naye, kama wasemavyo, wangetafuta njia ya kwenda kwa Mola wa Arshi.”
+**17:42** Sema, "Kama kungekuwa na miungu wengine pamoja naye, kama wasemavyo, wangetafuta njia ya kwenda kwa Mola wa Arshi."
 
 قُل لَّوْ كَانَ مَعَهُۥٓ ءَالِهَةٌۭ كَمَا يَقُولُونَ إِذًۭا لَّٱبْتَغَوْا۟ إِلَىٰ ذِى ٱلْعَرْشِ سَبِيلًۭا
 
@@ -8640,7 +8640,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًۭا ۚ وَإِذَا ذَكَرْتَ رَبَّكَ فِى ٱلْقُرْءَانِ وَحْدَهُۥ وَلَّوْا۟ عَلَىٰٓ أَدْبَٰرِهِمْ نُفُورًۭا
 
-**17:47** Sisi tunajua vema wanachosikiliza, wanapokusikiliza, wanapozungumza kwa siri, wanaposema wadhalimu, “Mnamfuata tu mtu aliyerogwa.”
+**17:47** Sisi tunajua vema wanachosikiliza, wanapokusikiliza, wanapozungumza kwa siri, wanaposema wadhalimu, "Mnamfuata tu mtu aliyerogwa."
 
 نَّحْنُ أَعْلَمُ بِمَا يَسْتَمِعُونَ بِهِۦٓ إِذْ يَسْتَمِعُونَ إِلَيْكَ وَإِذْ هُمْ نَجْوَىٰٓ إِذْ يَقُولُ ٱلظَّٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلًۭا مَّسْحُورًا
 
@@ -8648,15 +8648,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ٱنظُرْ كَيْفَ ضَرَبُوا۟ لَكَ ٱلْأَمْثَالَ فَضَلُّوا۟ فَلَا يَسْتَطِيعُونَ سَبِيلًۭا
 
-**17:49** Na wanasema, “Tutakapokuwa mifupa na vipande vipande, je, hakika tutafufuliwa kuwa uumbaji mpya?”
+**17:49** Na wanasema, "Tutakapokuwa mifupa na vipande vipande, je, hakika tutafufuliwa kuwa uumbaji mpya?"
 
 وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَٰمًۭا وَرُفَٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًۭا جَدِيدًۭا
 
-**17:50** Sema, “Hata mkawa mawe au chuma.
+**17:50** Sema, "Hata mkawa mawe au chuma.
 
 ۞ قُلْ كُونُوا۟ حِجَارَةً أَوْ حَدِيدًا
 
-**17:51** Au kitu chochote, ambacho, katika akili zenu, ni kigumu zaidi.” Basi watasema, “Ni nani atakayeturejesha?” Sema, “Yule aliyewaumba mara ya kwanza.” Basi watakutingishieni vichwa vyao, na watasema, “Itakuwa lini?” Sema, “Huenda ikawa karibu.”
+**17:51** Au kitu chochote, ambacho, katika akili zenu, ni kigumu zaidi." Basi watasema, "Ni nani atakayeturejesha?" Sema, "Yule aliyewaumba mara ya kwanza." Basi watakutingishieni vichwa vyao, na watasema, "Itakuwa lini?" Sema, "Huenda ikawa karibu."
 
 أَوْ خَلْقًۭا مِّمَّا يَكْبُرُ فِى صُدُورِكُمْ ۚ فَسَيَقُولُونَ مَن يُعِيدُنَا ۖ قُلِ ٱلَّذِى فَطَرَكُمْ أَوَّلَ مَرَّةٍۢ ۚ فَسَيُنْغِضُونَ إِلَيْكَ رُءُوسَهُمْ وَيَقُولُونَ مَتَىٰ هُوَ ۖ قُلْ عَسَىٰٓ أَن يَكُونَ قَرِيبًۭا
 
@@ -8676,7 +8676,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَرَبُّكَ أَعْلَمُ بِمَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۗ وَلَقَدْ فَضَّلْنَا بَعْضَ ٱلنَّبِيِّۦنَ عَلَىٰ بَعْضٍۢ ۖ وَءَاتَيْنَا دَاوُۥدَ زَبُورًۭا
 
-**17:56** Sema, “Waiteni wale mnaodai kuwa wa pamoja naye. Hawana uwezo wa kuwaondoleeni shida yenu, wala hawawezi kuibadilisha.”
+**17:56** Sema, "Waiteni wale mnaodai kuwa wa pamoja naye. Hawana uwezo wa kuwaondoleeni shida yenu, wala hawawezi kuibadilisha."
 
 قُلِ ٱدْعُوا۟ ٱلَّذِينَ زَعَمْتُم مِّن دُونِهِۦ فَلَا يَمْلِكُونَ كَشْفَ ٱلضُّرِّ عَنكُمْ وَلَا تَحْوِيلًا
 
@@ -8696,23 +8696,23 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَإِذْ قُلْنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِٱلنَّاسِ ۚ وَمَا جَعَلْنَا ٱلرُّءْيَا ٱلَّتِىٓ أَرَيْنَٰكَ إِلَّا فِتْنَةًۭ لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلْمَلْعُونَةَ فِى ٱلْقُرْءَانِ ۚ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ إِلَّا طُغْيَٰنًۭا كَبِيرًۭا
 
-**17:61** Tulipowaambia malaika, “Msujudieni Adamu,” wakasujudu, isipokuwa Shetani. Akasema, “Je, nimsujudie mtu uliyemuumba kwa udongo?”
+**17:61** Tulipowaambia malaika, "Msujudieni Adamu," wakasujudu, isipokuwa Shetani. Akasema, "Je, nimsujudie mtu uliyemuumba kwa udongo?"
 
 وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ قَالَ ءَأَسْجُدُ لِمَنْ خَلَقْتَ طِينًۭا
 
-**17:62** Akasema, “Je, unamwona huyu uliyemheshimu zaidi kuliko mimi? Ukinipa resi mpaka Siku ya Ufufuo, nitayadhibiti uzao wake, isipokuwa wachache.”
+**17:62** Akasema, "Je, unamwona huyu uliyemheshimu zaidi kuliko mimi? Ukinipa resi mpaka Siku ya Ufufuo, nitayadhibiti uzao wake, isipokuwa wachache."
 
 قَالَ أَرَءَيْتَكَ هَٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا
 
-**17:63** Akasema, “Ondoka! Yeyote kati yao atakayekufuata—Jahannamu ni malipo yenu, malipo ya kutosha.”
+**17:63** Akasema, "Ondoka! Yeyote kati yao atakayekufuata—Jahannamu ni malipo yenu, malipo ya kutosha."
 
 قَالَ ٱذْهَبْ فَمَن تَبِعَكَ مِنْهُمْ فَإِنَّ جَهَنَّمَ جَزَآؤُكُمْ جَزَآءًۭ مَّوْفُورًۭا
 
-**17:64** “Na washawishi yeyote kati yao uwezaye kwa sauti yako, na wakusanyie farasi wako na askari wako wa miguu, na shirikiana nao katika mali na watoto, na uwape ahadi.” Lakini Shetani hawaahidi chochote isipokuwa udanganyifu.
+**17:64** "Na washawishi yeyote kati yao uwezaye kwa sauti yako, na wakusanyie farasi wako na askari wako wa miguu, na shirikiana nao katika mali na watoto, na uwape ahadi." Lakini Shetani hawaahidi chochote isipokuwa udanganyifu.
 
 وَٱسْتَفْزِزْ مَنِ ٱسْتَطَعْتَ مِنْهُم بِصَوْتِكَ وَأَجْلِبْ عَلَيْهِم بِخَيْلِكَ وَرَجِلِكَ وَشَارِكْهُمْ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَٰدِ وَعِدْهُمْ ۚ وَمَا يَعِدُهُمُ ٱلشَّيْطَٰنُ إِلَّا غُرُورًا
 
-**17:65** “Kwa waja wangu waliojitolea, huna mamlaka juu yao.” Mola wako ni Mlinzi wa kutosha.
+**17:65** "Kwa waja wangu waliojitolea, huna mamlaka juu yao." Mola wako ni Mlinzi wa kutosha.
 
 إِنَّ عِبَادِى لَيْسَ لَكَ عَلَيْهِمْ سُلْطَٰنٌۭ ۚ وَكَفَىٰ بِرَبِّكَ وَكِيلًۭا
 
@@ -8772,11 +8772,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمِنَ ٱلَّيْلِ فَتَهَجَّدْ بِهِۦ نَافِلَةًۭ لَّكَ عَسَىٰٓ أَن يَبْعَثَكَ رَبُّكَ مَقَامًۭا مَّحْمُودًۭا
 
-**17:80** Na sema, “Mola wangu, niingize kwa mlango wa kweli, na unitoe kwa mlango wa kweli, na unipe kutoka kwako uwezo wa kunisaidia.”
+**17:80** Na sema, "Mola wangu, niingize kwa mlango wa kweli, na unitoe kwa mlango wa kweli, na unipe kutoka kwako uwezo wa kunisaidia."
 
 وَقُل رَّبِّ أَدْخِلْنِى مُدْخَلَ صِدْقٍۢ وَأَخْرِجْنِى مُخْرَجَ صِدْقٍۢ وَٱجْعَل لِّى مِن لَّدُنكَ سُلْطَٰنًۭا نَّصِيرًۭا
 
-**17:81** Na sema, “Kweli imekuja, na uongo umeangamia; kwani uongo ni wa kuangamia.”
+**17:81** Na sema, "Kweli imekuja, na uongo umeangamia; kwani uongo ni wa kuangamia."
 
 وَقُلْ جَآءَ ٱلْحَقُّ وَزَهَقَ ٱلْبَٰطِلُ ۚ إِنَّ ٱلْبَٰطِلَ كَانَ زَهُوقًۭا
 
@@ -8788,11 +8788,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَإِذَآ أَنْعَمْنَا عَلَى ٱلْإِنسَٰنِ أَعْرَضَ وَنَـَٔا بِجَانِبِهِۦ ۖ وَإِذَا مَسَّهُ ٱلشَّرُّ كَانَ يَـُٔوسًۭا
 
-**17:84** Sema, “Kila mtu hutenda kulingana na mwelekeo wake. Mola wenu anajua zaidi ni nani aliyeongoka zaidi katika njia.”
+**17:84** Sema, "Kila mtu hutenda kulingana na mwelekeo wake. Mola wenu anajua zaidi ni nani aliyeongoka zaidi katika njia."
 
 قُلْ كُلٌّۭ يَعْمَلُ عَلَىٰ شَاكِلَتِهِۦ فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَىٰ سَبِيلًۭا
 
-**17:85** Na wanakuuliza kuhusu Roho. Sema, “Roho ni katika mambo ya Mola wangu; na hamkupewa ujuzi isipokuwa kidogo tu.”
+**17:85** Na wanakuuliza kuhusu Roho. Sema, "Roho ni katika mambo ya Mola wangu; na hamkupewa ujuzi isipokuwa kidogo tu."
 
 وَيَسْـَٔلُونَكَ عَنِ ٱلرُّوحِ ۖ قُلِ ٱلرُّوحُ مِنْ أَمْرِ رَبِّى وَمَآ أُوتِيتُم مِّنَ ٱلْعِلْمِ إِلَّا قَلِيلًۭا
 
@@ -8804,7 +8804,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِلَّا رَحْمَةًۭ مِّن رَّبِّكَ ۚ إِنَّ فَضْلَهُۥ كَانَ عَلَيْكَ كَبِيرًۭا
 
-**17:88** Sema, “Kama wanadamu na majini wangekusanyika ili kuleta mfano wa Kurani hii, wasingeweza kuleta mfano wake kamwe, hata kama wangesaidiana wao kwa wao.”
+**17:88** Sema, "Kama wanadamu na majini wangekusanyika ili kuleta mfano wa Kurani hii, wasingeweza kuleta mfano wake kamwe, hata kama wangesaidiana wao kwa wao."
 
 قُل لَّئِنِ ٱجْتَمَعَتِ ٱلْإِنسُ وَٱلْجِنُّ عَلَىٰٓ أَن يَأْتُوا۟ بِمِثْلِ هَٰذَا ٱلْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِۦ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍۢ ظَهِيرًۭا
 
@@ -8812,7 +8812,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَقَدْ صَرَّفْنَا لِلنَّاسِ فِى هَٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍۢ فَأَبَىٰٓ أَكْثَرُ ٱلنَّاسِ إِلَّا كُفُورًۭا
 
-**17:90** Na wakasema, “Hatutakuamini mpaka ututimbulie chemchemi kutoka ardhini kwa ajili yetu.
+**17:90** Na wakasema, "Hatutakuamini mpaka ututimbulie chemchemi kutoka ardhini kwa ajili yetu.
 
 وَقَالُوا۟ لَن نُّؤْمِنَ لَكَ حَتَّىٰ تَفْجُرَ لَنَا مِنَ ٱلْأَرْضِ يَنۢبُوعًا
 
@@ -8824,19 +8824,19 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَوْ تُسْقِطَ ٱلسَّمَآءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا أَوْ تَأْتِىَ بِٱللَّهِ وَٱلْمَلَٰٓئِكَةِ قَبِيلًا
 
-**17:93** Au uwe na nyumba ya dhahabu. Au upande mbinguni. Hata hivyo, hatutaamini kupanda kwako, mpaka ututeremshie kitabu tunachoweza kukisoma.” Sema, “Utukufu ni wa Mola wangu. Je, mimi ni chochote isipokuwa mtume mwanadamu?”
+**17:93** Au uwe na nyumba ya dhahabu. Au upande mbinguni. Hata hivyo, hatutaamini kupanda kwako, mpaka ututeremshie kitabu tunachoweza kukisoma." Sema, "Utukufu ni wa Mola wangu. Je, mimi ni chochote isipokuwa mtume mwanadamu?"
 
 أَوْ يَكُونَ لَكَ بَيْتٌۭ مِّن زُخْرُفٍ أَوْ تَرْقَىٰ فِى ٱلسَّمَآءِ وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَٰبًۭا نَّقْرَؤُهُۥ ۗ قُلْ سُبْحَانَ رَبِّى هَلْ كُنتُ إِلَّا بَشَرًۭا رَّسُولًۭا
 
-**17:94** Hakuna kilichowazuia watu kuamini, mwongozo ulipowajia, isipokuwa kwamba walisema, “Je, Allah amemtuma mtume mwanadamu?”
+**17:94** Hakuna kilichowazuia watu kuamini, mwongozo ulipowajia, isipokuwa kwamba walisema, "Je, Allah amemtuma mtume mwanadamu?"
 
 وَمَا مَنَعَ ٱلنَّاسَ أَن يُؤْمِنُوٓا۟ إِذْ جَآءَهُمُ ٱلْهُدَىٰٓ إِلَّآ أَن قَالُوٓا۟ أَبَعَثَ ٱللَّهُ بَشَرًۭا رَّسُولًۭا
 
-**17:95** Sema, “Kama kungekuwa na malaika katika ardhi, wakitembea kwa amani, tungewateremshia kutoka mbinguni malaika mtume.”
+**17:95** Sema, "Kama kungekuwa na malaika katika ardhi, wakitembea kwa amani, tungewateremshia kutoka mbinguni malaika mtume."
 
 قُل لَّوْ كَانَ فِى ٱلْأَرْضِ مَلَٰٓئِكَةٌۭ يَمْشُونَ مُطْمَئِنِّينَ لَنَزَّلْنَا عَلَيْهِم مِّنَ ٱلسَّمَآءِ مَلَكًۭا رَّسُولًۭا
 
-**17:96** Sema, “Allah anatosha kuwa shahidi kati yenu na mimi. Yeye ana habari kamili kuhusu waja wake, na anawaona vema.”
+**17:96** Sema, "Allah anatosha kuwa shahidi kati yenu na mimi. Yeye ana habari kamili kuhusu waja wake, na anawaona vema."
 
 قُلْ كَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۚ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِيرًۢا بَصِيرًۭا
 
@@ -8844,7 +8844,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُمْ أَوْلِيَآءَ مِن دُونِهِۦ ۖ وَنَحْشُرُهُمْ يَوْمَ ٱلْقِيَٰمَةِ عَلَىٰ وُجُوهِهِمْ عُمْيًۭا وَبُكْمًۭا وَصُمًّۭا ۖ مَّأْوَىٰهُمْ جَهَنَّمُ ۖ كُلَّمَا خَبَتْ زِدْنَٰهُمْ سَعِيرًۭا
 
-**17:98** Hayo ndiyo malipo yao kwa kukufuru aya zetu, na kusema, “Je, tutakapokuwa mifupa na vipande vipande, tutafufuliwa kuwa uumbaji mpya?”
+**17:98** Hayo ndiyo malipo yao kwa kukufuru aya zetu, na kusema, "Je, tutakapokuwa mifupa na vipande vipande, tutafufuliwa kuwa uumbaji mpya?"
 
 ذَٰلِكَ جَزَآؤُهُم بِأَنَّهُمْ كَفَرُوا۟ بِـَٔايَٰتِنَا وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَٰمًۭا وَرُفَٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًۭا جَدِيدًا
 
@@ -8852,15 +8852,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ۞ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ قَادِرٌ عَلَىٰٓ أَن يَخْلُقَ مِثْلَهُمْ وَجَعَلَ لَهُمْ أَجَلًۭا لَّا رَيْبَ فِيهِ فَأَبَى ٱلظَّٰلِمُونَ إِلَّا كُفُورًۭا
 
-**17:100** Sema, “Kama mngekuwa na hazina za rehema ya Mola wangu, mngezi zuia kwa kuogopa kutumia.” Mwanadamu amekuwa bahili daima.
+**17:100** Sema, "Kama mngekuwa na hazina za rehema ya Mola wangu, mngezi zuia kwa kuogopa kutumia." Mwanadamu amekuwa bahili daima.
 
 قُل لَّوْ أَنتُمْ تَمْلِكُونَ خَزَآئِنَ رَحْمَةِ رَبِّىٓ إِذًۭا لَّأَمْسَكْتُمْ خَشْيَةَ ٱلْإِنفَاقِ ۚ وَكَانَ ٱلْإِنسَٰنُ قَتُورًۭا
 
-**17:101** Tulimpa Musa ishara tisa zilizo wazi—waulize Wana wa Israeli. Alipowajia, Firauni akamwambia, “Nadhani wewe, Musa, umerogwa.”
+**17:101** Tulimpa Musa ishara tisa zilizo wazi—waulize Wana wa Israeli. Alipowajia, Firauni akamwambia, "Nadhani wewe, Musa, umerogwa."
 
 وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَٰتٍۭ بَيِّنَٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَٰمُوسَىٰ مَسْحُورًۭا
 
-**17:102** Akasema, “Unajua kwamba hakuna aliyeziteremsha hizi isipokuwa Mola wa mbingu na ardhi—kuwa ni za kufungua macho; na nadhani wewe, Firauni, umeangamia.”
+**17:102** Akasema, "Unajua kwamba hakuna aliyeziteremsha hizi isipokuwa Mola wa mbingu na ardhi—kuwa ni za kufungua macho; na nadhani wewe, Firauni, umeangamia."
 
 قَالَ لَقَدْ عَلِمْتَ مَآ أَنزَلَ هَٰٓؤُلَآءِ إِلَّا رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ بَصَآئِرَ وَإِنِّى لَأَظُنُّكَ يَٰفِرْعَوْنُ مَثْبُورًۭا
 
@@ -8868,7 +8868,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَأَرَادَ أَن يَسْتَفِزَّهُم مِّنَ ٱلْأَرْضِ فَأَغْرَقْنَٰهُ وَمَن مَّعَهُۥ جَمِيعًۭا
 
-**17:104** Baada yake, tuliwaambia Wana wa Israeli, “Kae ni katika ardhi, na ahadi ya Akhera ikifika, tutawaleta nyote pamoja.”
+**17:104** Baada yake, tuliwaambia Wana wa Israeli, "Kae ni katika ardhi, na ahadi ya Akhera ikifika, tutawaleta nyote pamoja."
 
 وَقُلْنَا مِنۢ بَعْدِهِۦ لِبَنِىٓ إِسْرَٰٓءِيلَ ٱسْكُنُوا۟ ٱلْأَرْضَ فَإِذَا جَآءَ وَعْدُ ٱلْءَاخِرَةِ جِئْنَا بِكُمْ لَفِيفًۭا
 
@@ -8880,11 +8880,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَقُرْءَانًۭا فَرَقْنَٰهُ لِتَقْرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكْثٍۢ وَنَزَّلْنَٰهُ تَنزِيلًۭا
 
-**17:107** Sema, “Iaminini, au msiamini.” Wale waliopewa ujuzi kabla yake, inaposomwa kwao, huanguka kwa videvu vyao, wakisujudu.
+**17:107** Sema, "Iaminini, au msiamini." Wale waliopewa ujuzi kabla yake, inaposomwa kwao, huanguka kwa videvu vyao, wakisujudu.
 
 قُلْ ءَامِنُوا۟ بِهِۦٓ أَوْ لَا تُؤْمِنُوٓا۟ ۚ إِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مِن قَبْلِهِۦٓ إِذَا يُتْلَىٰ عَلَيْهِمْ يَخِرُّونَ لِلْأَذْقَانِ سُجَّدًۭا
 
-**17:108** Na husema, “Utukufu ni wa Mola wetu. Ahadi ya Mola wetu imetimizwa.”
+**17:108** Na husema, "Utukufu ni wa Mola wetu. Ahadi ya Mola wetu imetimizwa."
 
 وَيَقُولُونَ سُبْحَٰنَ رَبِّنَآ إِن كَانَ وَعْدُ رَبِّنَا لَمَفْعُولًۭا
 
@@ -8894,11 +8894,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 
 
-**17:110** Sema, “Mwiteni Allah, au mwiteni Mwingi wa rehema. Jina lolote mtakalotumia, majina bora kabisa ni yake Yeye.” Na usiwe na sauti kubwa katika sala yako, wala usiwe kimya kwayo, bali fuata njia iliyo kati.
+**17:110** Sema, "Mwiteni Allah, au mwiteni Mwingi wa rehema. Jina lolote mtakalotumia, majina bora kabisa ni yake Yeye." Na usiwe na sauti kubwa katika sala yako, wala usiwe kimya kwayo, bali fuata njia iliyo kati.
 
 قُلِ ٱدْعُوا۟ ٱللَّهَ أَوِ ٱدْعُوا۟ ٱلرَّحْمَٰنَ ۖ أَيًّۭا مَّا تَدْعُوا۟ فَلَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ ۚ وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَٱبْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًۭا
 
-**17:111** Na sema, “Sifa ni za Allah, ambaye hajazaa mwana, wala hana mshirika katika ufalme, wala hana msaidizi kwa sababu ya udhaifu, na mtukuze Yeye daima.”
+**17:111** Na sema, "Sifa ni za Allah, ambaye hajazaa mwana, wala hana mshirika katika ufalme, wala hana msaidizi kwa sababu ya udhaifu, na mtukuze Yeye daima."
 
 وَقُلِ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى لَمْ يَتَّخِذْ وَلَدًۭا وَلَمْ يَكُن لَّهُۥ شَرِيكٌۭ فِى ٱلْمُلْكِ وَلَمْ يَكُن لَّهُۥ وَلِىٌّۭ مِّنَ ٱلذُّلِّ ۖ وَكَبِّرْهُ تَكْبِيرًۢا
 
@@ -8926,7 +8926,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 مَّٰكِثِينَ فِيهِ أَبَدًۭا
 
-**18:4** Na kuwaonya wale wanaosema, “Allah amezaa mwana.”
+**18:4** Na kuwaonya wale wanaosema, "Allah amezaa mwana."
 
 وَيُنذِرَ ٱلَّذِينَ قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًۭا
 
@@ -8950,7 +8950,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَمْ حَسِبْتَ أَنَّ أَصْحَٰبَ ٱلْكَهْفِ وَٱلرَّقِيمِ كَانُوا۟ مِنْ ءَايَٰتِنَا عَجَبًا
 
-**18:10** Vijana walipokimbilia pangoni, wakasema, “Mola wetu, tupe rehema kutoka kwako, na utubariki mambo yetu kwa mwongozo.”
+**18:10** Vijana walipokimbilia pangoni, wakasema, "Mola wetu, tupe rehema kutoka kwako, na utubariki mambo yetu kwa mwongozo."
 
 إِذْ أَوَى ٱلْفِتْيَةُ إِلَى ٱلْكَهْفِ فَقَالُوا۟ رَبَّنَآ ءَاتِنَا مِن لَّدُنكَ رَحْمَةًۭ وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًۭا
 
@@ -8966,15 +8966,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 نَّحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُم بِٱلْحَقِّ ۚ إِنَّهُمْ فِتْيَةٌ ءَامَنُوا۟ بِرَبِّهِمْ وَزِدْنَٰهُمْ هُدًۭى
 
-**18:14** Na tukaiimarisha mioyo yao, waliposimama na kusema, “Mola wetu ni Mola wa mbingu na ardhi; hatutamwita mungu yeyote isipokuwa Yeye, kwani basi tungekuwa tumesema jambo la kuchukiza.”
+**18:14** Na tukaiimarisha mioyo yao, waliposimama na kusema, "Mola wetu ni Mola wa mbingu na ardhi; hatutamwita mungu yeyote isipokuwa Yeye, kwani basi tungekuwa tumesema jambo la kuchukiza."
 
 وَرَبَطْنَا عَلَىٰ قُلُوبِهِمْ إِذْ قَامُوا۟ فَقَالُوا۟ رَبُّنَا رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَن نَّدْعُوَا۟ مِن دُونِهِۦٓ إِلَٰهًۭا ۖ لَّقَدْ قُلْنَآ إِذًۭا شَطَطًا
 
-**18:15** “Watu hawa, watu wetu, wamejichagulia miungu isiyokuwa Yeye. Kwa nini hawalei uthibitisho ulio wazi kuhusu wao? Basi ni nani anayefanya dhulma kubwa zaidi kuliko yule anayezua uongo na kuunasibisha kwa Allah?”
+**18:15** "Watu hawa, watu wetu, wamejichagulia miungu isiyokuwa Yeye. Kwa nini hawalei uthibitisho ulio wazi kuhusu wao? Basi ni nani anayefanya dhulma kubwa zaidi kuliko yule anayezua uongo na kuunasibisha kwa Allah?"
 
 هَٰٓؤُلَآءِ قَوْمُنَا ٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةًۭ ۖ لَّوْلَا يَأْتُونَ عَلَيْهِم بِسُلْطَٰنٍۭ بَيِّنٍۢ ۖ فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا
 
-**18:16** “Sasa mmejitenga nao, na na kile wanachokiabudu isipokuwa Allah, kimbilieni pangoni. Na Mola wenu atawafunulieni rehema yake, na atawawekeni mambo yenu yafike kwenye wepesi.”
+**18:16** "Sasa mmejitenga nao, na na kile wanachokiabudu isipokuwa Allah, kimbilieni pangoni. Na Mola wenu atawafunulieni rehema yake, na atawawekeni mambo yenu yafike kwenye wepesi."
 
 وَإِذِ ٱعْتَزَلْتُمُوهُمْ وَمَا يَعْبُدُونَ إِلَّا ٱللَّهَ فَأْوُۥٓا۟ إِلَى ٱلْكَهْفِ يَنشُرْ لَكُمْ رَبُّكُم مِّن رَّحْمَتِهِۦ وَيُهَيِّئْ لَكُم مِّنْ أَمْرِكُم مِّرْفَقًۭا
 
@@ -8986,27 +8986,27 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَتَحْسَبُهُمْ أَيْقَاظًۭا وَهُمْ رُقُودٌۭ ۚ وَنُقَلِّبُهُمْ ذَاتَ ٱلْيَمِينِ وَذَاتَ ٱلشِّمَالِ ۖ وَكَلْبُهُم بَٰسِطٌۭ ذِرَاعَيْهِ بِٱلْوَصِيدِ ۚ لَوِ ٱطَّلَعْتَ عَلَيْهِمْ لَوَلَّيْتَ مِنْهُمْ فِرَارًۭا وَلَمُلِئْتَ مِنْهُمْ رُعْبًۭا
 
-**18:19** Vivyo hivyo, tuliwaamsha, ili waulizane wao kwa wao. Msemaji mmoja kati yao akasema, “Mmekaa muda gani?” Wakasema, “Tumekaa siku moja, au sehemu ya siku.” Wakasema, “Mola wenu anajua zaidi muda mlio kaa.” “Mtume mmoja wenu aende mjini, kwa pesa hii yenu, na aone chakula gani kinachofaa zaidi, na awaletee riziki kutoka humo. Na awe mpole, na asimfanye mtu yeyote awatambue.”
+**18:19** Vivyo hivyo, tuliwaamsha, ili waulizane wao kwa wao. Msemaji mmoja kati yao akasema, "Mmekaa muda gani?" Wakasema, "Tumekaa siku moja, au sehemu ya siku." Wakasema, "Mola wenu anajua zaidi muda mlio kaa." "Mtume mmoja wenu aende mjini, kwa pesa hii yenu, na aone chakula gani kinachofaa zaidi, na awaletee riziki kutoka humo. Na awe mpole, na asimfanye mtu yeyote awatambue."
 
 وَكَذَٰلِكَ بَعَثْنَٰهُمْ لِيَتَسَآءَلُوا۟ بَيْنَهُمْ ۚ قَالَ قَآئِلٌۭ مِّنْهُمْ كَمْ لَبِثْتُمْ ۖ قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍۢ ۚ قَالُوا۟ رَبُّكُمْ أَعْلَمُ بِمَا لَبِثْتُمْ فَٱبْعَثُوٓا۟ أَحَدَكُم بِوَرِقِكُمْ هَٰذِهِۦٓ إِلَى ٱلْمَدِينَةِ فَلْيَنظُرْ أَيُّهَآ أَزْكَىٰ طَعَامًۭا فَلْيَأْتِكُم بِرِزْقٍۢ مِّنْهُ وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا
 
-**18:20** “Ikiwa watakugundueni, watawapiga mawe, au watawarudisha katika dini yao; basi hamtafanikiwa kamwe.”
+**18:20** "Ikiwa watakugundueni, watawapiga mawe, au watawarudisha katika dini yao; basi hamtafanikiwa kamwe."
 
 إِنَّهُمْ إِن يَظْهَرُوا۟ عَلَيْكُمْ يَرْجُمُوكُمْ أَوْ يُعِيدُوكُمْ فِى مِلَّتِهِمْ وَلَن تُفْلِحُوٓا۟ إِذًا أَبَدًۭا
 
-**18:21** Na hivyo ndivyo, tuliwafanya wagundulike, ili wajue kwamba ahadi ya Allah ni kweli, na kwamba ile Saa haina shaka. Walipokuwa wakizozana kuhusu jambo lao wao kwa wao, wakasema, “Jengeni juu yao jengo.” Mola wao anajua zaidi kuhusu wao. Wale walioshinda katika jambo lao wakasema, “Tutajenga juu yao mahali pa kuabudu.”
+**18:21** Na hivyo ndivyo, tuliwafanya wagundulike, ili wajue kwamba ahadi ya Allah ni kweli, na kwamba ile Saa haina shaka. Walipokuwa wakizozana kuhusu jambo lao wao kwa wao, wakasema, "Jengeni juu yao jengo." Mola wao anajua zaidi kuhusu wao. Wale walioshinda katika jambo lao wakasema, "Tutajenga juu yao mahali pa kuabudu."
 
 وَكَذَٰلِكَ أَعْثَرْنَا عَلَيْهِمْ لِيَعْلَمُوٓا۟ أَنَّ وَعْدَ ٱللَّهِ حَقٌّۭ وَأَنَّ ٱلسَّاعَةَ لَا رَيْبَ فِيهَآ إِذْ يَتَنَٰزَعُونَ بَيْنَهُمْ أَمْرَهُمْ ۖ فَقَالُوا۟ ٱبْنُوا۟ عَلَيْهِم بُنْيَٰنًۭا ۖ رَّبُّهُمْ أَعْلَمُ بِهِمْ ۚ قَالَ ٱلَّذِينَ غَلَبُوا۟ عَلَىٰٓ أَمْرِهِمْ لَنَتَّخِذَنَّ عَلَيْهِم مَّسْجِدًۭا
 
-**18:22** Watasema, “Watatu, na wa nne wao ni mbwa wao.” Na watasema, “Watano, na wa sita wao ni mbwa wao,” wakikisia yasiyojulikana. Na watasema, “Saba, na wa nane wao ni mbwa wao.” Sema, “Mola wangu anajua zaidi idadi yao.” Hakuna anayewajua isipokuwa wachache. Basi usibishane kuhusu wao isipokuwa kwa hoja iliyo wazi, na usishauriane na yeyote kati yao kuhusu wao.
+**18:22** Watasema, "Watatu, na wa nne wao ni mbwa wao." Na watasema, "Watano, na wa sita wao ni mbwa wao," wakikisia yasiyojulikana. Na watasema, "Saba, na wa nane wao ni mbwa wao." Sema, "Mola wangu anajua zaidi idadi yao." Hakuna anayewajua isipokuwa wachache. Basi usibishane kuhusu wao isipokuwa kwa hoja iliyo wazi, na usishauriane na yeyote kati yao kuhusu wao.
 
 سَيَقُولُونَ ثَلَٰثَةٌۭ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌۭ سَادِسُهُمْ كَلْبُهُمْ رَجْمًۢا بِٱلْغَيْبِ ۖ وَيَقُولُونَ سَبْعَةٌۭ وَثَامِنُهُمْ كَلْبُهُمْ ۚ قُل رَّبِّىٓ أَعْلَمُ بِعِدَّتِهِم مَّا يَعْلَمُهُمْ إِلَّا قَلِيلٌۭ ۗ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَآءًۭ ظَٰهِرًۭا وَلَا تَسْتَفْتِ فِيهِم مِّنْهُمْ أَحَدًۭا
 
-**18:23** Na usiseme kamwe kuhusu jambo lolote, “Nitafanya hilo kesho.”
+**18:23** Na usiseme kamwe kuhusu jambo lolote, "Nitafanya hilo kesho."
 
 وَلَا تَقُولَنَّ لِشَا۟ىْءٍ إِنِّى فَاعِلٌۭ ذَٰلِكَ غَدًا
 
-**18:24** Bila kusema, “Allah akipenda.” Na mkumbuke Mola wako ukisahau, na useme, “Huenda Mola wangu akaniongoza kwenye lililo karibu zaidi na hili katika uadilifu.”
+**18:24** Bila kusema, "Allah akipenda." Na mkumbuke Mola wako ukisahau, na useme, "Huenda Mola wangu akaniongoza kwenye lililo karibu zaidi na hili katika uadilifu."
 
 إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ وَٱذْكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَىٰٓ أَن يَهْدِيَنِ رَبِّى لِأَقْرَبَ مِنْ هَٰذَا رَشَدًۭا
 
@@ -9014,7 +9014,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا
 
-**18:26** Sema, “Allah anajua zaidi muda walio kaa.” Yake ni siri ya mbingu na ardhi. Kwa Yeye huona na husikia. Hawana mlinzi isipokuwa Yeye, na hashirikishi Ufalme wake na yeyote.
+**18:26** Sema, "Allah anajua zaidi muda walio kaa." Yake ni siri ya mbingu na ardhi. Kwa Yeye huona na husikia. Hawana mlinzi isipokuwa Yeye, na hashirikishi Ufalme wake na yeyote.
 
 قُلِ ٱللَّهُ أَعْلَمُ بِمَا لَبِثُوا۟ ۖ لَهُۥ غَيْبُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ أَبْصِرْ بِهِۦ وَأَسْمِعْ ۚ مَا لَهُم مِّن دُونِهِۦ مِن وَلِىٍّۢ وَلَا يُشْرِكُ فِى حُكْمِهِۦٓ أَحَدًۭا
 
@@ -9026,7 +9026,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَٱصْبِرْ نَفْسَكَ مَعَ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُۥ عَن ذِكْرِنَا وَٱتَّبَعَ هَوَىٰهُ وَكَانَ أَمْرُهُۥ فُرُطًۭا
 
-**18:29** Na sema, “Kweli inatoka kwa Mola wenu. Yeyote anayetaka—na aamini. Na yeyote anayetaka—na akufuru.” Tumewaandalia wadhalimu Moto, ambao mapazia yake yatawazunguka. Na wakiomba msaada, watasaidiwa kwa maji kama shaba iliyoyeyuka, inayochoma nyuso. Ni kinywaji kibaya kiasi gani, na mahali pabaya kiasi gani.
+**18:29** Na sema, "Kweli inatoka kwa Mola wenu. Yeyote anayetaka—na aamini. Na yeyote anayetaka—na akufuru." Tumewaandalia wadhalimu Moto, ambao mapazia yake yatawazunguka. Na wakiomba msaada, watasaidiwa kwa maji kama shaba iliyoyeyuka, inayochoma nyuso. Ni kinywaji kibaya kiasi gani, na mahali pabaya kiasi gani.
 
 وَقُلِ ٱلْحَقُّ مِن رَّبِّكُمْ ۖ فَمَن شَآءَ فَلْيُؤْمِن وَمَن شَآءَ فَلْيَكْفُرْ ۚ إِنَّآ أَعْتَدْنَا لِلظَّٰلِمِينَ نَارًا أَحَاطَ بِهِمْ سُرَادِقُهَا ۚ وَإِن يَسْتَغِيثُوا۟ يُغَاثُوا۟ بِمَآءٍۢ كَٱلْمُهْلِ يَشْوِى ٱلْوُجُوهَ ۚ بِئْسَ ٱلشَّرَابُ وَسَآءَتْ مُرْتَفَقًا
 
@@ -9046,19 +9046,19 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 كِلْتَا ٱلْجَنَّتَيْنِ ءَاتَتْ أُكُلَهَا وَلَمْ تَظْلِم مِّنْهُ شَيْـًۭٔا ۚ وَفَجَّرْنَا خِلَٰلَهُمَا نَهَرًۭا
 
-**18:34** Na hivyo akawa na matunda mengi. Akamwambia rafiki yake, akizungumza naye, “Mimi ni tajiri zaidi kuliko wewe, na mkubwa zaidi kwa watu.”
+**18:34** Na hivyo akawa na matunda mengi. Akamwambia rafiki yake, akizungumza naye, "Mimi ni tajiri zaidi kuliko wewe, na mkubwa zaidi kwa watu."
 
 وَكَانَ لَهُۥ ثَمَرٌۭ فَقَالَ لِصَٰحِبِهِۦ وَهُوَ يُحَاوِرُهُۥٓ أَنَا۠ أَكْثَرُ مِنكَ مَالًۭا وَأَعَزُّ نَفَرًۭا
 
-**18:35** Na akaingia bustanini kwake, akijidhulumu mwenyewe. Akasema, “Sidhani hii itaangamia kamwe.”
+**18:35** Na akaingia bustanini kwake, akijidhulumu mwenyewe. Akasema, "Sidhani hii itaangamia kamwe."
 
 وَدَخَلَ جَنَّتَهُۥ وَهُوَ ظَالِمٌۭ لِّنَفْسِهِۦ قَالَ مَآ أَظُنُّ أَن تَبِيدَ هَٰذِهِۦٓ أَبَدًۭا
 
-**18:36** “Na sidhani ile Saa inakuja. Na hata nikirudishwa kwa Mola wangu, nitapata kitu bora zaidi kuliko hiki kwa malipo.”
+**18:36** "Na sidhani ile Saa inakuja. Na hata nikirudishwa kwa Mola wangu, nitapata kitu bora zaidi kuliko hiki kwa malipo."
 
 وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةًۭ وَلَئِن رُّدِدتُّ إِلَىٰ رَبِّى لَأَجِدَنَّ خَيْرًۭا مِّنْهَا مُنقَلَبًۭا
 
-**18:37** Rafiki yake akamwambia, akizungumza naye, “Je, unamkufuru Yeye aliyekuumba kwa udongo, kisha kwa tone la manii, kisha akakukamilisha kuwa mwanaume?
+**18:37** Rafiki yake akamwambia, akizungumza naye, "Je, unamkufuru Yeye aliyekuumba kwa udongo, kisha kwa tone la manii, kisha akakukamilisha kuwa mwanaume?
 
 قَالَ لَهُۥ صَاحِبُهُۥ وَهُوَ يُحَاوِرُهُۥٓ أَكَفَرْتَ بِٱلَّذِى خَلَقَكَ مِن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ سَوَّىٰكَ رَجُلًۭا
 
@@ -9066,7 +9066,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 لَّٰكِنَّا۠ هُوَ ٱللَّهُ رَبِّى وَلَآ أُشْرِكُ بِرَبِّىٓ أَحَدًۭا
 
-**18:39** Ulipokuwa umeingia bustanini kwako, kwa nini hukusema, “Kama Allah anavyopenda; hakuna nguvu isipokuwa kwa Allah”? Ingawa unaniona nikiwa duni kuliko wewe kwa mali na watoto.
+**18:39** Ulipokuwa umeingia bustanini kwako, kwa nini hukusema, "Kama Allah anavyopenda; hakuna nguvu isipokuwa kwa Allah"? Ingawa unaniona nikiwa duni kuliko wewe kwa mali na watoto.
 
 وَلَوْلَآ إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَآءَ ٱللَّهُ لَا قُوَّةَ إِلَّا بِٱللَّهِ ۚ إِن تَرَنِ أَنَا۠ أَقَلَّ مِنكَ مَالًۭا وَوَلَدًۭا
 
@@ -9074,11 +9074,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَعَسَىٰ رَبِّىٓ أَن يُؤْتِيَنِ خَيْرًۭا مِّن جَنَّتِكَ وَيُرْسِلَ عَلَيْهَا حُسْبَانًۭا مِّنَ ٱلسَّمَآءِ فَتُصْبِحَ صَعِيدًۭا زَلَقًا
 
-**18:41** Au maji yake yazame ardhini, na usiweze kuyatoa.”
+**18:41** Au maji yake yazame ardhini, na usiweze kuyatoa."
 
 أَوْ يُصْبِحَ مَآؤُهَا غَوْرًۭا فَلَن تَسْتَطِيعَ لَهُۥ طَلَبًۭا
 
-**18:42** Na maangamizo yakazunguka mazao yake, basi akaanza kupiga viganja vyake kwa kile alichokuwa amewekeza ndani yake, ikiwa imeanguka juu ya trelli zake. Na akasema, “Laiti nisingemshirikisha yeyote na Mola wangu.”
+**18:42** Na maangamizo yakazunguka mazao yake, basi akaanza kupiga viganja vyake kwa kile alichokuwa amewekeza ndani yake, ikiwa imeanguka juu ya trelli zake. Na akasema, "Laiti nisingemshirikisha yeyote na Mola wangu."
 
 وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَآ أَنفَقَ فِيهَا وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَيَقُولُ يَٰلَيْتَنِى لَمْ أُشْرِكْ بِرَبِّىٓ أَحَدًۭا
 
@@ -9102,15 +9102,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَيَوْمَ نُسَيِّرُ ٱلْجِبَالَ وَتَرَى ٱلْأَرْضَ بَارِزَةًۭ وَحَشَرْنَٰهُمْ فَلَمْ نُغَادِرْ مِنْهُمْ أَحَدًۭا
 
-**18:48** Watawasilishwa mbele ya Mola wako katika safu. “Mmetufikia kama tulivyowaumba mara ya kwanza. Ingawa mlidai hatungewawekea miadi.”
+**18:48** Watawasilishwa mbele ya Mola wako katika safu. "Mmetufikia kama tulivyowaumba mara ya kwanza. Ingawa mlidai hatungewawekea miadi."
 
 وَعُرِضُوا۟ عَلَىٰ رَبِّكَ صَفًّۭا لَّقَدْ جِئْتُمُونَا كَمَا خَلَقْنَٰكُمْ أَوَّلَ مَرَّةٍۭ ۚ بَلْ زَعَمْتُمْ أَلَّن نَّجْعَلَ لَكُم مَّوْعِدًۭا
 
-**18:49** Na kitabu kitawekwa, na utawaona wakosaji wakiogopa yaliyomo ndani yake. Na watasema, “Ole wetu! Kitabu hiki kina nini cha kuacha chochote, kidogo au kikubwa, isipokuwa kimekihesabu?” Watakuta kila walichofanya kikiwepo. Mola wako hamdhulumu yeyote.
+**18:49** Na kitabu kitawekwa, na utawaona wakosaji wakiogopa yaliyomo ndani yake. Na watasema, "Ole wetu! Kitabu hiki kina nini cha kuacha chochote, kidogo au kikubwa, isipokuwa kimekihesabu?" Watakuta kila walichofanya kikiwepo. Mola wako hamdhulumu yeyote.
 
 وَوُضِعَ ٱلْكِتَٰبُ فَتَرَى ٱلْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ وَيَقُولُونَ يَٰوَيْلَتَنَا مَالِ هَٰذَا ٱلْكِتَٰبِ لَا يُغَادِرُ صَغِيرَةًۭ وَلَا كَبِيرَةً إِلَّآ أَحْصَىٰهَا ۚ وَوَجَدُوا۟ مَا عَمِلُوا۟ حَاضِرًۭا ۗ وَلَا يَظْلِمُ رَبُّكَ أَحَدًۭا
 
-**18:50** Tuliwaambia malaika, “Msujudieni Adamu.” Basi wakasujudu, isipokuwa Shetani. Yeye alikuwa wa majini, na akaasi amri ya Mola wake. Je, mtamchagua yeye na uzao wake kuwa mabwana badala ya Mimi, ilhali wao ni adui kwenu? Ni mbadilishano mbaya kwa wadhalimu.
+**18:50** Tuliwaambia malaika, "Msujudieni Adamu." Basi wakasujudu, isipokuwa Shetani. Yeye alikuwa wa majini, na akaasi amri ya Mola wake. Je, mtamchagua yeye na uzao wake kuwa mabwana badala ya Mimi, ilhali wao ni adui kwenu? Ni mbadilishano mbaya kwa wadhalimu.
 
 وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ كَانَ مِنَ ٱلْجِنِّ فَفَسَقَ عَنْ أَمْرِ رَبِّهِۦٓ ۗ أَفَتَتَّخِذُونَهُۥ وَذُرِّيَّتَهُۥٓ أَوْلِيَآءَ مِن دُونِى وَهُمْ لَكُمْ عَدُوٌّۢ ۚ بِئْسَ لِلظَّٰلِمِينَ بَدَلًۭا
 
@@ -9118,7 +9118,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ۞ مَّآ أَشْهَدتُّهُمْ خَلْقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَا خَلْقَ أَنفُسِهِمْ وَمَا كُنتُ مُتَّخِذَ ٱلْمُضِلِّينَ عَضُدًۭا
 
-**18:52** Siku atakayosema, “Waiteni washirika wangu mnaodai.” Watawaita, lakini hawatawajibu. Na tutaweka kati yao kizuizi.
+**18:52** Siku atakayosema, "Waiteni washirika wangu mnaodai." Watawaita, lakini hawatawajibu. Na tutaweka kati yao kizuizi.
 
 وَيَوْمَ يَقُولُ نَادُوا۟ شُرَكَآءِىَ ٱلَّذِينَ زَعَمْتُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا۟ لَهُمْ وَجَعَلْنَا بَيْنَهُم مَّوْبِقًۭا
 
@@ -9150,7 +9150,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَتِلْكَ ٱلْقُرَىٰٓ أَهْلَكْنَٰهُمْ لَمَّا ظَلَمُوا۟ وَجَعَلْنَا لِمَهْلِكِهِم مَّوْعِدًۭا
 
-**18:60** Kumbuka Musa alipomwambia mtumishi wake, “Sitaacha mpaka nifike kwenye muunganiko wa bahari mbili, hata kama itanichukua miaka.”
+**18:60** Kumbuka Musa alipomwambia mtumishi wake, "Sitaacha mpaka nifike kwenye muunganiko wa bahari mbili, hata kama itanichukua miaka."
 
 وَإِذْ قَالَ مُوسَىٰ لِفَتَىٰهُ لَآ أَبْرَحُ حَتَّىٰٓ أَبْلُغَ مَجْمَعَ ٱلْبَحْرَيْنِ أَوْ أَمْضِىَ حُقُبًۭا
 
@@ -9158,15 +9158,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَلَمَّا بَلَغَا مَجْمَعَ بَيْنِهِمَا نَسِيَا حُوتَهُمَا فَٱتَّخَذَ سَبِيلَهُۥ فِى ٱلْبَحْرِ سَرَبًۭا
 
-**18:62** Walipokwenda mbele zaidi, akamwambia mtumishi wake, “Tuletee chakula chetu cha mchana; tumepata uchovu mwingi katika safari yetu.”
+**18:62** Walipokwenda mbele zaidi, akamwambia mtumishi wake, "Tuletee chakula chetu cha mchana; tumepata uchovu mwingi katika safari yetu."
 
 فَلَمَّا جَاوَزَا قَالَ لِفَتَىٰهُ ءَاتِنَا غَدَآءَنَا لَقَدْ لَقِينَا مِن سَفَرِنَا هَٰذَا نَصَبًۭا
 
-**18:63** Akasema, “Je, unakumbuka tulipopumzika karibu na mwamba? Nimesahau samaki. Ni shetani tu ndiye aliyenisahaulisha. Na basi akajipenyeza kuelekea baharini, kwa kushangaza.”
+**18:63** Akasema, "Je, unakumbuka tulipopumzika karibu na mwamba? Nimesahau samaki. Ni shetani tu ndiye aliyenisahaulisha. Na basi akajipenyeza kuelekea baharini, kwa kushangaza."
 
 قَالَ أَرَءَيْتَ إِذْ أَوَيْنَآ إِلَى ٱلصَّخْرَةِ فَإِنِّى نَسِيتُ ٱلْحُوتَ وَمَآ أَنسَىٰنِيهُ إِلَّا ٱلشَّيْطَٰنُ أَنْ أَذْكُرَهُۥ ۚ وَٱتَّخَذَ سَبِيلَهُۥ فِى ٱلْبَحْرِ عَجَبًۭا
 
-**18:64** Akasema, “Hiki ndicho tulichokuwa tunakitafuta.” Basi wakarudi nyuma wakifuatilia nyayo zao.
+**18:64** Akasema, "Hiki ndicho tulichokuwa tunakitafuta." Basi wakarudi nyuma wakifuatilia nyayo zao.
 
 قَالَ ذَٰلِكَ مَا كُنَّا نَبْغِ ۚ فَٱرْتَدَّا عَلَىٰٓ ءَاثَارِهِمَا قَصَصًۭا
 
@@ -9174,55 +9174,55 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَٰهُ مِن لَّدُنَّا عِلْمًۭا
 
-**18:66** Musa akamwambia, “Je, nifuate wewe, ili unifundishe baadhi ya mwongozo uliofundishwa?”
+**18:66** Musa akamwambia, "Je, nifuate wewe, ili unifundishe baadhi ya mwongozo uliofundishwa?"
 
 قَالَ لَهُۥ مُوسَىٰ هَلْ أَتَّبِعُكَ عَلَىٰٓ أَن تُعَلِّمَنِ مِمَّا عُلِّمْتَ رُشْدًۭا
 
-**18:67** Akasema, “Hutaweza kuvumilia pamoja nami.
+**18:67** Akasema, "Hutaweza kuvumilia pamoja nami.
 
 قَالَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًۭا
 
-**18:68** Na utawezaje kuvumilia kile usicho na ujuzi nacho?”
+**18:68** Na utawezaje kuvumilia kile usicho na ujuzi nacho?"
 
 وَكَيْفَ تَصْبِرُ عَلَىٰ مَا لَمْ تُحِطْ بِهِۦ خُبْرًۭا
 
-**18:69** Akasema, “Utanikuta, Allah akipenda, mvumilivu; na sitakuasi katika amri yako yoyote.”
+**18:69** Akasema, "Utanikuta, Allah akipenda, mvumilivu; na sitakuasi katika amri yako yoyote."
 
 قَالَ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ صَابِرًۭا وَلَآ أَعْصِى لَكَ أَمْرًۭا
 
-**18:70** Akasema, “Ukinifuata, usiniulize kuhusu chochote, mpaka mimi mwenyewe nikukumbushe.”
+**18:70** Akasema, "Ukinifuata, usiniulize kuhusu chochote, mpaka mimi mwenyewe nikukumbushe."
 
 قَالَ فَإِنِ ٱتَّبَعْتَنِى فَلَا تَسْـَٔلْنِى عَن شَىْءٍ حَتَّىٰٓ أُحْدِثَ لَكَ مِنْهُ ذِكْرًۭا
 
-**18:71** Basi wakaondoka. Mpaka, walipokuwa wamepanda mashua, akaitoboa. Akasema, “Umeitoboa, ili uwazamishe abiria wake? Umefanya jambo baya sana.”
+**18:71** Basi wakaondoka. Mpaka, walipokuwa wamepanda mashua, akaitoboa. Akasema, "Umeitoboa, ili uwazamishe abiria wake? Umefanya jambo baya sana."
 
 فَٱنطَلَقَا حَتَّىٰٓ إِذَا رَكِبَا فِى ٱلسَّفِينَةِ خَرَقَهَا ۖ قَالَ أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْـًٔا إِمْرًۭا
 
-**18:72** Akasema, “Je, sikukuambia kwamba hutaweza kuvumilia pamoja nami?”
+**18:72** Akasema, "Je, sikukuambia kwamba hutaweza kuvumilia pamoja nami?"
 
 قَالَ أَلَمْ أَقُلْ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًۭا
 
-**18:73** Akasema, “Usinilaumu kwa kusahau, na usinifanye njia yangu kuwa ngumu kwangu.”
+**18:73** Akasema, "Usinilaumu kwa kusahau, na usinifanye njia yangu kuwa ngumu kwangu."
 
 قَالَ لَا تُؤَاخِذْنِى بِمَا نَسِيتُ وَلَا تُرْهِقْنِى مِنْ أَمْرِى عُسْرًۭا
 
-**18:74** Basi wakaondoka. Mpaka, walipokutana na kijana, akamuua. Akasema, “Umeua roho safi, ambayo haijamuua mtu yeyote? Umefanya jambo baya sana.”
+**18:74** Basi wakaondoka. Mpaka, walipokutana na kijana, akamuua. Akasema, "Umeua roho safi, ambayo haijamuua mtu yeyote? Umefanya jambo baya sana."
 
 فَٱنطَلَقَا حَتَّىٰٓ إِذَا لَقِيَا غُلَٰمًۭا فَقَتَلَهُۥ قَالَ أَقَتَلْتَ نَفْسًۭا زَكِيَّةًۢ بِغَيْرِ نَفْسٍۢ لَّقَدْ جِئْتَ شَيْـًۭٔا نُّكْرًۭا
 
-**18:75** Akasema, “Je, sikukuambia kwamba hutaweza kuvumilia pamoja nami?”
+**18:75** Akasema, "Je, sikukuambia kwamba hutaweza kuvumilia pamoja nami?"
 
 ۞ قَالَ أَلَمْ أَقُل لَّكَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًۭا
 
-**18:76** Akasema, “Nikikuuliza kuhusu chochote baada ya hili, basi usifuatane nami. Umepokea udhuru kutoka kwangu.”
+**18:76** Akasema, "Nikikuuliza kuhusu chochote baada ya hili, basi usifuatane nami. Umepokea udhuru kutoka kwangu."
 
 قَالَ إِن سَأَلْتُكَ عَن شَىْءٍۭ بَعْدَهَا فَلَا تُصَٰحِبْنِى ۖ قَدْ بَلَغْتَ مِن لَّدُنِّى عُذْرًۭا
 
-**18:77** Basi wakaondoka. Mpaka, walipofika kwa watu wa mji, wakawaomba chakula, lakini wakakataa kuwakaribisha. Huko wakakuta ukuta unaokaribia kuporomoka, naye akaurekebisha. Akasema, “Ungetaka, ungelipata malipo kwa ajili yake.”
+**18:77** Basi wakaondoka. Mpaka, walipofika kwa watu wa mji, wakawaomba chakula, lakini wakakataa kuwakaribisha. Huko wakakuta ukuta unaokaribia kuporomoka, naye akaurekebisha. Akasema, "Ungetaka, ungelipata malipo kwa ajili yake."
 
 فَٱنطَلَقَا حَتَّىٰٓ إِذَآ أَتَيَآ أَهْلَ قَرْيَةٍ ٱسْتَطْعَمَآ أَهْلَهَا فَأَبَوْا۟ أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًۭا يُرِيدُ أَن يَنقَضَّ فَأَقَامَهُۥ ۖ قَالَ لَوْ شِئْتَ لَتَّخَذْتَ عَلَيْهِ أَجْرًۭا
 
-**18:78** Akasema, “Huku ndiko kutengana kati yako na mimi. Nitakuambia tafsiri ya kile ambacho hukuweza kuvumilia.
+**18:78** Akasema, "Huku ndiko kutengana kati yako na mimi. Nitakuambia tafsiri ya kile ambacho hukuweza kuvumilia.
 
 قَالَ هَٰذَا فِرَاقُ بَيْنِى وَبَيْنِكَ ۚ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِع عَّلَيْهِ صَبْرًا
 
@@ -9238,11 +9238,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَأَرَدْنَآ أَن يُبْدِلَهُمَا رَبُّهُمَا خَيْرًۭا مِّنْهُ زَكَوٰةًۭ وَأَقْرَبَ رُحْمًۭا
 
-**18:82** Na kuhusu ukuta, ulikuwa wa vijana wawili mayatima katika mji. Chini yake kulikuwa na hazina iliyokuwa yao. Baba yao alikuwa mtu mwema. Mola wako alitaka wafikie ukomavu wao, na kisha watoe hazina yao—kama rehema kutoka kwa Mola wako. Sikufanya kwa hiari yangu mwenyewe. Hii ndiyo tafsiri ya kile ambacho hukuweza kuvumilia.”
+**18:82** Na kuhusu ukuta, ulikuwa wa vijana wawili mayatima katika mji. Chini yake kulikuwa na hazina iliyokuwa yao. Baba yao alikuwa mtu mwema. Mola wako alitaka wafikie ukomavu wao, na kisha watoe hazina yao—kama rehema kutoka kwa Mola wako. Sikufanya kwa hiari yangu mwenyewe. Hii ndiyo tafsiri ya kile ambacho hukuweza kuvumilia."
 
 وَأَمَّا ٱلْجِدَارُ فَكَانَ لِغُلَٰمَيْنِ يَتِيمَيْنِ فِى ٱلْمَدِينَةِ وَكَانَ تَحْتَهُۥ كَنزٌۭ لَّهُمَا وَكَانَ أَبُوهُمَا صَٰلِحًۭا فَأَرَادَ رَبُّكَ أَن يَبْلُغَآ أَشُدَّهُمَا وَيَسْتَخْرِجَا كَنزَهُمَا رَحْمَةًۭ مِّن رَّبِّكَ ۚ وَمَا فَعَلْتُهُۥ عَنْ أَمْرِى ۚ ذَٰلِكَ تَأْوِيلُ مَا لَمْ تَسْطِع عَّلَيْهِ صَبْرًۭا
 
-**18:83** Na wanakuuliza kuhusu Dhul-Qarnayn. Sema, “Nitakusimulieni kitu kumhusu.”
+**18:83** Na wanakuuliza kuhusu Dhul-Qarnayn. Sema, "Nitakusimulieni kitu kumhusu."
 
 وَيَسْـَٔلُونَكَ عَن ذِى ٱلْقَرْنَيْنِ ۖ قُلْ سَأَتْلُوا۟ عَلَيْكُم مِّنْهُ ذِكْرًا
 
@@ -9254,15 +9254,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَأَتْبَعَ سَبَبًا
 
-**18:86** Mpaka, alipofika kwenye kutua kwa jua, akaliona linatua katika chemchemi yenye matope, na akakuta watu karibu nayo. Tukasema, “Ewe Dhul-Qarnayn, unaweza ama kutoa adhabu, au kuwatendea kwa wema.”
+**18:86** Mpaka, alipofika kwenye kutua kwa jua, akaliona linatua katika chemchemi yenye matope, na akakuta watu karibu nayo. Tukasema, "Ewe Dhul-Qarnayn, unaweza ama kutoa adhabu, au kuwatendea kwa wema."
 
 حَتَّىٰٓ إِذَا بَلَغَ مَغْرِبَ ٱلشَّمْسِ وَجَدَهَا تَغْرُبُ فِى عَيْنٍ حَمِئَةٍۢ وَوَجَدَ عِندَهَا قَوْمًۭا ۗ قُلْنَا يَٰذَا ٱلْقَرْنَيْنِ إِمَّآ أَن تُعَذِّبَ وَإِمَّآ أَن تَتَّخِذَ فِيهِمْ حُسْنًۭا
 
-**18:87** Akasema, “Kwa yule anayefanya uovu, tutamwadhibu, kisha atarudishwa kwa Mola wake, naye atamwadhibu kwa adhabu isiyosikika.
+**18:87** Akasema, "Kwa yule anayefanya uovu, tutamwadhibu, kisha atarudishwa kwa Mola wake, naye atamwadhibu kwa adhabu isiyosikika.
 
 قَالَ أَمَّا مَن ظَلَمَ فَسَوْفَ نُعَذِّبُهُۥ ثُمَّ يُرَدُّ إِلَىٰ رَبِّهِۦ فَيُعَذِّبُهُۥ عَذَابًۭا نُّكْرًۭا
 
-**18:88** “Lakini kwa yule anayeamini na kutenda wema, atapata ujira mzuri zaidi, na tutazungumza naye kuhusu amri yetu kwa wepesi.”
+**18:88** "Lakini kwa yule anayeamini na kutenda wema, atapata ujira mzuri zaidi, na tutazungumza naye kuhusu amri yetu kwa wepesi."
 
 وَأَمَّا مَنْ ءَامَنَ وَعَمِلَ صَٰلِحًۭا فَلَهُۥ جَزَآءً ٱلْحُسْنَىٰ ۖ وَسَنَقُولُ لَهُۥ مِنْ أَمْرِنَا يُسْرًۭا
 
@@ -9286,15 +9286,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 حَتَّىٰٓ إِذَا بَلَغَ بَيْنَ ٱلسَّدَّيْنِ وَجَدَ مِن دُونِهِمَا قَوْمًۭا لَّا يَكَادُونَ يَفْقَهُونَ قَوْلًۭا
 
-**18:94** Wakasema, “Ewe Dhul-Qarnayn, Yajuji na Majuji wanaeneza uharibifu katika ardhi. Je, tunaweza kukulipa, ili ujenge kati yetu na wao ukuta?”
+**18:94** Wakasema, "Ewe Dhul-Qarnayn, Yajuji na Majuji wanaeneza uharibifu katika ardhi. Je, tunaweza kukulipa, ili ujenge kati yetu na wao ukuta?"
 
 قَالُوا۟ يَٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا
 
-**18:95** Akasema, “Kile ambacho Mola wangu amenipa uwezo nacho ni bora zaidi. Lakini nisaidieni kwa nguvu, na nitajenga kati yenu na wao boma.”
+**18:95** Akasema, "Kile ambacho Mola wangu amenipa uwezo nacho ni bora zaidi. Lakini nisaidieni kwa nguvu, na nitajenga kati yenu na wao boma."
 
 قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا
 
-**18:96** “Nileteeni vipande vya chuma.” Basi, alipokuwa amesawazisha kati ya majabali mawili, akasema, “Pulizeni.” Na akiisha kugeuza kuwa moto, akasema, “Nileteeni lami nimwage juu yake.”
+**18:96** "Nileteeni vipande vya chuma." Basi, alipokuwa amesawazisha kati ya majabali mawili, akasema, "Pulizeni." Na akiisha kugeuza kuwa moto, akasema, "Nileteeni lami nimwage juu yake."
 
 ءَاتُونِى زُبَرَ ٱلْحَدِيدِ ۖ حَتَّىٰٓ إِذَا سَاوَىٰ بَيْنَ ٱلصَّدَفَيْنِ قَالَ ٱنفُخُوا۟ ۖ حَتَّىٰٓ إِذَا جَعَلَهُۥ نَارًۭا قَالَ ءَاتُونِىٓ أُفْرِغْ عَلَيْهِ قِطْرًۭا
 
@@ -9302,7 +9302,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَمَا ٱسْطَٰعُوٓا۟ أَن يَظْهَرُوهُ وَمَا ٱسْتَطَٰعُوا۟ لَهُۥ نَقْبًۭا
 
-**18:98** Akasema, “Hii ni rehema kutoka kwa Mola wangu. Lakini ahadi ya Mola wangu ikifika, ataigeuza kuwa vifusi, na ahadi ya Mola wangu ni kweli daima.”
+**18:98** Akasema, "Hii ni rehema kutoka kwa Mola wangu. Lakini ahadi ya Mola wangu ikifika, ataigeuza kuwa vifusi, na ahadi ya Mola wangu ni kweli daima."
 
 قَالَ هَٰذَا رَحْمَةٌۭ مِّن رَّبِّى ۖ فَإِذَا جَآءَ وَعْدُ رَبِّى جَعَلَهُۥ دَكَّآءَ ۖ وَكَانَ وَعْدُ رَبِّى حَقًّۭا
 
@@ -9322,11 +9322,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَفَحَسِبَ ٱلَّذِينَ كَفَرُوٓا۟ أَن يَتَّخِذُوا۟ عِبَادِى مِن دُونِىٓ أَوْلِيَآءَ ۚ إِنَّآ أَعْتَدْنَا جَهَنَّمَ لِلْكَٰفِرِينَ نُزُلًۭا
 
-**18:103** Sema, “Je, tuwaambieni wenye hasara kubwa zaidi katika kazi zao?”
+**18:103** Sema, "Je, tuwaambieni wenye hasara kubwa zaidi katika kazi zao?"
 
 قُلْ هَلْ نُنَبِّئُكُم بِٱلْأَخْسَرِينَ أَعْمَٰلًا
 
-**18:104** “Wale ambao juhudi zao katika dunia hii zimepotea, ilhali wanadhani kwamba wanafanya vizuri.”
+**18:104** "Wale ambao juhudi zao katika dunia hii zimepotea, ilhali wanadhani kwamba wanafanya vizuri."
 
 ٱلَّذِينَ ضَلَّ سَعْيُهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا
 
@@ -9346,11 +9346,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 خَٰلِدِينَ فِيهَا لَا يَبْغُونَ عَنْهَا حِوَلًۭا
 
-**18:109** Sema, “Kama bahari ingekuwa wino kwa maneno ya Mola wangu, bahari ingekwisha, kabla maneno ya Mola wangu hayajakwisha,” hata kama tungeleta mfano wake zaidi yake.
+**18:109** Sema, "Kama bahari ingekuwa wino kwa maneno ya Mola wangu, bahari ingekwisha, kabla maneno ya Mola wangu hayajakwisha," hata kama tungeleta mfano wake zaidi yake.
 
 قُل لَّوْ كَانَ ٱلْبَحْرُ مِدَادًۭا لِّكَلِمَٰتِ رَبِّى لَنَفِدَ ٱلْبَحْرُ قَبْلَ أَن تَنفَدَ كَلِمَٰتُ رَبِّى وَلَوْ جِئْنَا بِمِثْلِهِۦ مَدَدًۭا
 
-**18:110** Sema, “Mimi ni mwanadamu tu kama nyinyi, nikifunuliwa kwamba mungu wenu ni Mungu Mmoja. Yeyote anayetumaini kukutana na Mola wake, na atende wema, na asimshirikishe yeyote katika ibada ya Mola wake.”
+**18:110** Sema, "Mimi ni mwanadamu tu kama nyinyi, nikifunuliwa kwamba mungu wenu ni Mungu Mmoja. Yeyote anayetumaini kukutana na Mola wake, na atende wema, na asimshirikishe yeyote katika ibada ya Mola wake."
 
 قُلْ إِنَّمَآ أَنَا۠ بَشَرٌۭ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَٰهُكُمْ إِلَٰهٌۭ وَٰحِدٌۭ ۖ فَمَن كَانَ يَرْجُوا۟ لِقَآءَ رَبِّهِۦ فَلْيَعْمَلْ عَمَلًۭا صَٰلِحًۭا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِۦٓ أَحَدًۢا
 
@@ -9378,31 +9378,31 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِذْ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيًّۭا
 
-**19:4** Akasema, “Mola wangu, mifupa yangu imekuwa dhaifu, na nywele zangu zinawaka kwa mvi, na kamwe, Mola, sijakatishwa tamaa katika maombi yangu kwako.
+**19:4** Akasema, "Mola wangu, mifupa yangu imekuwa dhaifu, na nywele zangu zinawaka kwa mvi, na kamwe, Mola, sijakatishwa tamaa katika maombi yangu kwako.
 
 قَالَ رَبِّ إِنِّى وَهَنَ ٱلْعَظْمُ مِنِّى وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًۭا وَلَمْ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيًّۭا
 
-**19:5** “Na ninawaogopa wanaonifuatia baada yangu, na mke wangu ni tasa. Basi nipe, kutoka kwako, mrithi.
+**19:5** "Na ninawaogopa wanaonifuatia baada yangu, na mke wangu ni tasa. Basi nipe, kutoka kwako, mrithi.
 
 وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا
 
-**19:6** Atakayenirithi mimi, na kurithi kutoka katika Nyumba ya Yaakubu, na umfanye, Mola wangu, mwenye kuridhiwa.”
+**19:6** Atakayenirithi mimi, na kurithi kutoka katika Nyumba ya Yaakubu, na umfanye, Mola wangu, mwenye kuridhiwa."
 
 يَرِثُنِى وَيَرِثُ مِنْ ءَالِ يَعْقُوبَ ۖ وَٱجْعَلْهُ رَبِّ رَضِيًّۭا
 
-**19:7** “Ewe Zakaria, tunakupa habari njema ya mwana, ambaye jina lake ni Yahya, jina ambalo hatujawahi kumpa yeyote kabla.”
+**19:7** "Ewe Zakaria, tunakupa habari njema ya mwana, ambaye jina lake ni Yahya, jina ambalo hatujawahi kumpa yeyote kabla."
 
 يَٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ ٱسْمُهُۥ يَحْيَىٰ لَمْ نَجْعَل لَّهُۥ مِن قَبْلُ سَمِيًّۭا
 
-**19:8** Akasema, “Mola wangu, nitapataje mwana, ilhali mke wangu ni tasa, na nimekuwa mzee sana kwa uzee?”
+**19:8** Akasema, "Mola wangu, nitapataje mwana, ilhali mke wangu ni tasa, na nimekuwa mzee sana kwa uzee?"
 
 قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌۭ وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا وَقَدْ بَلَغْتُ مِنَ ٱلْكِبَرِ عِتِيًّۭا
 
-**19:9** Akasema, “Itakuwa hivyo, Mola wako anasema, ‘ni rahisi kwangu, na nilikuumba kabla, ulipokuwa si chochote.’”
+**19:9** Akasema, "Itakuwa hivyo, Mola wako anasema, 'ni rahisi kwangu, na nilikuumba kabla, ulipokuwa si chochote.'"
 
 قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَىَّ هَيِّنٌۭ وَقَدْ خَلَقْتُكَ مِن قَبْلُ وَلَمْ تَكُ شَيْـًۭٔا
 
-**19:10** Akasema, “Mola wangu, nipe ishara.” Akasema, “Ishara yako ni kwamba hutazungumza na watu kwa nyusiku tatu mfululizo.”
+**19:10** Akasema, "Mola wangu, nipe ishara." Akasema, "Ishara yako ni kwamba hutazungumza na watu kwa nyusiku tatu mfululizo."
 
 قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةًۭ ۚ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَ لَيَالٍۢ سَوِيًّۭا
 
@@ -9410,7 +9410,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَخَرَجَ عَلَىٰ قَوْمِهِۦ مِنَ ٱلْمِحْرَابِ فَأَوْحَىٰٓ إِلَيْهِمْ أَن سَبِّحُوا۟ بُكْرَةًۭ وَعَشِيًّۭا
 
-**19:12** “Ewe Yahya, kishike Kitabu kwa nguvu,” na tulimpa hekima katika ujana wake.
+**19:12** "Ewe Yahya, kishike Kitabu kwa nguvu," na tulimpa hekima katika ujana wake.
 
 يَٰيَحْيَىٰ خُذِ ٱلْكِتَٰبَ بِقُوَّةٍۢ ۖ وَءَاتَيْنَٰهُ ٱلْحُكْمَ صَبِيًّۭا
 
@@ -9434,19 +9434,19 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَٱتَّخَذَتْ مِن دُونِهِمْ حِجَابًۭا فَأَرْسَلْنَآ إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًۭا سَوِيًّۭا
 
-**19:18** Akasema, “Najilinda kwako kwa Mwingi wa rehema, ikiwa wewe ni mcha.”
+**19:18** Akasema, "Najilinda kwako kwa Mwingi wa rehema, ikiwa wewe ni mcha."
 
 قَالَتْ إِنِّىٓ أَعُوذُ بِٱلرَّحْمَٰنِ مِنكَ إِن كُنتَ تَقِيًّۭا
 
-**19:19** Akasema, “Mimi ni mtume tu wa Mola wako, ili nikupe zawadi ya mwana safi.”
+**19:19** Akasema, "Mimi ni mtume tu wa Mola wako, ili nikupe zawadi ya mwana safi."
 
 قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَٰمًۭا زَكِيًّۭا
 
-**19:20** Akasema, “Nitapataje mwana, ilhali hakuna mwanaume aliyenigusa, na sikuwahi kuwa mzinifu?”
+**19:20** Akasema, "Nitapataje mwana, ilhali hakuna mwanaume aliyenigusa, na sikuwahi kuwa mzinifu?"
 
 قَالَتْ أَنَّىٰ يَكُونُ لِى غُلَٰمٌۭ وَلَمْ يَمْسَسْنِى بَشَرٌۭ وَلَمْ أَكُ بَغِيًّۭا
 
-**19:21** Akasema, “Hivyo ndivyo Mola wako alivyosema, `Ni rahisi kwangu, na tutamfanya kuwa ishara kwa wanadamu, na rehema kutoka kwetu. Ni jambo lililoamuliwa tayari.'“
+**19:21** Akasema, "Hivyo ndivyo Mola wako alivyosema, `Ni rahisi kwangu, na tutamfanya kuwa ishara kwa wanadamu, na rehema kutoka kwetu. Ni jambo lililoamuliwa tayari.'"
 
 قَالَ كَذَٰلِكِ قَالَ رَبُّكِ هُوَ عَلَىَّ هَيِّنٌۭ ۖ وَلِنَجْعَلَهُۥٓ ءَايَةًۭ لِّلنَّاسِ وَرَحْمَةًۭ مِّنَّا ۚ وَكَانَ أَمْرًۭا مَّقْضِيًّۭا
 
@@ -9454,35 +9454,35 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا
 
-**19:23** Uchungu wa kuzaa ukamjia, karibu na shina la mtende. Akasema, “Laiti ningekufa kabla ya hili, na ningekuwa nimesahaulika kabisa.”
+**19:23** Uchungu wa kuzaa ukamjia, karibu na shina la mtende. Akasema, "Laiti ningekufa kabla ya hili, na ningekuwa nimesahaulika kabisa."
 
 فَأَجَآءَهَا ٱلْمَخَاضُ إِلَىٰ جِذْعِ ٱلنَّخْلَةِ قَالَتْ يَٰلَيْتَنِى مِتُّ قَبْلَ هَٰذَا وَكُنتُ نَسْيًۭا مَّنسِيًّۭا
 
-**19:24** Basi akamwita kutoka chini yake: “Usihuzunike; Mola wako ameweka kijito chini yako.
+**19:24** Basi akamwita kutoka chini yake: "Usihuzunike; Mola wako ameweka kijito chini yako.
 
 فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا
 
-**19:25** Na litikise shina la mtende kuelekea kwako, nalo litakuangushia tende zilizoiva.”
+**19:25** Na litikise shina la mtende kuelekea kwako, nalo litakuangushia tende zilizoiva."
 
 وَهُزِّىٓ إِلَيْكِ بِجِذْعِ ٱلنَّخْلَةِ تُسَٰقِطْ عَلَيْكِ رُطَبًۭا جَنِيًّۭا
 
-**19:26** “Basi kula, na kunywa, na ufurahike. Na ukimwona mwanadamu yeyote, sema, ‘Nimeweka nadhiri ya kufunga kwa Mwingi wa rehema, basi leo sitazungumza na mwanadamu yeyote.'“
+**19:26** "Basi kula, na kunywa, na ufurahike. Na ukimwona mwanadamu yeyote, sema, 'Nimeweka nadhiri ya kufunga kwa Mwingi wa rehema, basi leo sitazungumza na mwanadamu yeyote.'"
 
 فَكُلِى وَٱشْرَبِى وَقَرِّى عَيْنًۭا ۖ فَإِمَّا تَرَيِنَّ مِنَ ٱلْبَشَرِ أَحَدًۭا فَقُولِىٓ إِنِّى نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًۭا فَلَنْ أُكَلِّمَ ٱلْيَوْمَ إِنسِيًّۭا
 
-**19:27** Basi akawajia watu wake, akiwa amembeba. Wakasema, “Ewe Mariamu, umefanya jambo baya sana.
+**19:27** Basi akawajia watu wake, akiwa amembeba. Wakasema, "Ewe Mariamu, umefanya jambo baya sana.
 
 فَأَتَتْ بِهِۦ قَوْمَهَا تَحْمِلُهُۥ ۖ قَالُوا۟ يَٰمَرْيَمُ لَقَدْ جِئْتِ شَيْـًۭٔا فَرِيًّۭا
 
-**19:28** Ewe dada wa Haruni, baba yako hakuwa mtu mwovu, na mama yako hakuwa kahaba.”
+**19:28** Ewe dada wa Haruni, baba yako hakuwa mtu mwovu, na mama yako hakuwa kahaba."
 
 يَٰٓأُخْتَ هَٰرُونَ مَا كَانَ أَبُوكِ ٱمْرَأَ سَوْءٍۢ وَمَا كَانَتْ أُمُّكِ بَغِيًّۭا
 
-**19:29** Basi akamwashiria. Wakasema, “Tutazungumzaje na mtoto mchanga aliye utotoni?”
+**19:29** Basi akamwashiria. Wakasema, "Tutazungumzaje na mtoto mchanga aliye utotoni?"
 
 فَأَشَارَتْ إِلَيْهِ ۖ قَالُوا۟ كَيْفَ نُكَلِّمُ مَن كَانَ فِى ٱلْمَهْدِ صَبِيًّۭا
 
-**19:30** Akasema, “Mimi ni mja wa Allah. Amenipa Kitabu, na amenifanya kuwa nabii.
+**19:30** Akasema, "Mimi ni mja wa Allah. Amenipa Kitabu, na amenifanya kuwa nabii.
 
 قَالَ إِنِّى عَبْدُ ٱللَّهِ ءَاتَىٰنِىَ ٱلْكِتَٰبَ وَجَعَلَنِى نَبِيًّۭا
 
@@ -9494,7 +9494,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَبَرًّۢا بِوَٰلِدَتِى وَلَمْ يَجْعَلْنِى جَبَّارًۭا شَقِيًّۭا
 
-**19:33** Basi Amani iwe juu yangu siku niliyozaliwa, na siku ninayokufa, na Siku ninayofufuliwa nikiwa hai.”
+**19:33** Basi Amani iwe juu yangu siku niliyozaliwa, na siku ninayokufa, na Siku ninayofufuliwa nikiwa hai."
 
 وَٱلسَّلَٰمُ عَلَىَّ يَوْمَ وُلِدتُّ وَيَوْمَ أَمُوتُ وَيَوْمَ أُبْعَثُ حَيًّۭا
 
@@ -9502,11 +9502,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ذَٰلِكَ عِيسَى ٱبْنُ مَرْيَمَ ۚ قَوْلَ ٱلْحَقِّ ٱلَّذِى فِيهِ يَمْتَرُونَ
 
-**19:35** Haistahiki Allah kuwa na mtoto—utukufu ni wake Yeye. Anapotaka jambo lifanyike, huliambia, “Kuwa,” nalo huwa.
+**19:35** Haistahiki Allah kuwa na mtoto—utukufu ni wake Yeye. Anapotaka jambo lifanyike, huliambia, "Kuwa," nalo huwa.
 
 مَا كَانَ لِلَّهِ أَن يَتَّخِذَ مِن وَلَدٍۢ ۖ سُبْحَٰنَهُۥٓ ۚ إِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 
-**19:36** “Allah ni Mola wangu na Mola wenu, basi mwabuduni. Hiyo ni njia iliyonyooka.”
+**19:36** "Allah ni Mola wangu na Mola wenu, basi mwabuduni. Hiyo ni njia iliyonyooka."
 
 وَإِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۚ هَٰذَا صِرَٰطٌۭ مُّسْتَقِيمٌۭ
 
@@ -9530,7 +9530,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَٱذْكُرْ فِى ٱلْكِتَٰبِ إِبْرَٰهِيمَ ۚ إِنَّهُۥ كَانَ صِدِّيقًۭا نَّبِيًّا
 
-**19:42** Alimwambia baba yake, “Ewe baba yangu, kwa nini unaabudu kile kisichoweza kusikia, wala kuona, wala kukufaa kwa njia yoyote?
+**19:42** Alimwambia baba yake, "Ewe baba yangu, kwa nini unaabudu kile kisichoweza kusikia, wala kuona, wala kukufaa kwa njia yoyote?
 
 إِذْ قَالَ لِأَبِيهِ يَٰٓأَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِى عَنكَ شَيْـًۭٔا
 
@@ -9542,19 +9542,19 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 يَٰٓأَبَتِ لَا تَعْبُدِ ٱلشَّيْطَٰنَ ۖ إِنَّ ٱلشَّيْطَٰنَ كَانَ لِلرَّحْمَٰنِ عَصِيًّۭا
 
-**19:45** Ewe baba yangu, ninaogopa kwamba adhabu kutoka kwa Mwingi wa rehema itakugusa, nawe ukawa mshirika wa shetani.”
+**19:45** Ewe baba yangu, ninaogopa kwamba adhabu kutoka kwa Mwingi wa rehema itakugusa, nawe ukawa mshirika wa shetani."
 
 يَٰٓأَبَتِ إِنِّىٓ أَخَافُ أَن يَمَسَّكَ عَذَابٌۭ مِّنَ ٱلرَّحْمَٰنِ فَتَكُونَ لِلشَّيْطَٰنِ وَلِيًّۭا
 
-**19:46** Akasema, “Je, unaikataa miungu yangu, ewe Ibrahimu? Usipokoma, nitakupiga mawe. Basi niache kwa muda.”
+**19:46** Akasema, "Je, unaikataa miungu yangu, ewe Ibrahimu? Usipokoma, nitakupiga mawe. Basi niache kwa muda."
 
 قَالَ أَرَاغِبٌ أَنتَ عَنْ ءَالِهَتِى يَٰٓإِبْرَٰهِيمُ ۖ لَئِن لَّمْ تَنتَهِ لَأَرْجُمَنَّكَ ۖ وَٱهْجُرْنِى مَلِيًّۭا
 
-**19:47** Akasema, “Amani iwe juu yako. Nitamwomba Mola wangu akusamehe; Yeye amekuwa Mpole kwangu.
+**19:47** Akasema, "Amani iwe juu yako. Nitamwomba Mola wangu akusamehe; Yeye amekuwa Mpole kwangu.
 
 قَالَ سَلَٰمٌ عَلَيْكَ ۖ سَأَسْتَغْفِرُ لَكَ رَبِّىٓ ۖ إِنَّهُۥ كَانَ بِى حَفِيًّۭا
 
-**19:48** Na nitajitenga nanyi, na nanyi mnachokiomba badala ya Allah. Na nitamwomba Mola wangu, na natumaini sitakatishwa tamaa katika maombi yangu kwa Mola wangu.”
+**19:48** Na nitajitenga nanyi, na nanyi mnachokiomba badala ya Allah. Na nitamwomba Mola wangu, na natumaini sitakatishwa tamaa katika maombi yangu kwa Mola wangu."
 
 وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِن دُونِ ٱللَّهِ وَأَدْعُوا۟ رَبِّى عَسَىٰٓ أَلَّآ أَكُونَ بِدُعَآءِ رَبِّى شَقِيًّۭا
 
@@ -9620,7 +9620,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 تِلْكَ ٱلْجَنَّةُ ٱلَّتِى نُورِثُ مِنْ عِبَادِنَا مَن كَانَ تَقِيًّۭا
 
-**19:64** “Hatuteremki isipokuwa kwa amri ya Mola wako. Yake ni yaliyo mbele yetu, na yaliyo nyuma yetu, na yaliyo kati yao. Mola wako si mwenye kusahau kamwe.”
+**19:64** "Hatuteremki isipokuwa kwa amri ya Mola wako. Yake ni yaliyo mbele yetu, na yaliyo nyuma yetu, na yaliyo kati yao. Mola wako si mwenye kusahau kamwe."
 
 وَمَا نَتَنَزَّلُ إِلَّا بِأَمْرِ رَبِّكَ ۖ لَهُۥ مَا بَيْنَ أَيْدِينَا وَمَا خَلْفَنَا وَمَا بَيْنَ ذَٰلِكَ ۚ وَمَا كَانَ رَبُّكَ نَسِيًّۭا
 
@@ -9628,7 +9628,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا فَٱعْبُدْهُ وَٱصْطَبِرْ لِعِبَٰدَتِهِۦ ۚ هَلْ تَعْلَمُ لَهُۥ سَمِيًّۭا
 
-**19:66** Na mwanadamu anasema, “Nitakapokuwa nimekufa, je, nitarudishwa nikiwa hai?”
+**19:66** Na mwanadamu anasema, "Nitakapokuwa nimekufa, je, nitarudishwa nikiwa hai?"
 
 وَيَقُولُ ٱلْإِنسَٰنُ أَءِذَا مَا مِتُّ لَسَوْفَ أُخْرَجُ حَيًّا
 
@@ -9656,7 +9656,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ثُمَّ نُنَجِّى ٱلَّذِينَ ٱتَّقَوا۟ وَّنَذَرُ ٱلظَّٰلِمِينَ فِيهَا جِثِيًّۭا
 
-**19:73** Aya zetu zilizo wazi zinaposomwa kwao, wale wanaokufuru huwaambia wale walioamini, “Ni kundi lipi kati ya makundi mawili lililo bora kwa cheo, na bora kwa ushawishi?”
+**19:73** Aya zetu zilizo wazi zinaposomwa kwao, wale wanaokufuru huwaambia wale walioamini, "Ni kundi lipi kati ya makundi mawili lililo bora kwa cheo, na bora kwa ushawishi?"
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَىُّ ٱلْفَرِيقَيْنِ خَيْرٌۭ مَّقَامًۭا وَأَحْسَنُ نَدِيًّۭا
 
@@ -9664,7 +9664,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَحْسَنُ أَثَٰثًۭا وَرِءْيًۭا
 
-**19:75** Sema, “Yeyote aliye katika upotofu, Mwingi wa rehema atamwendeleza.” Mpaka, watakapoona kile walichoahidiwa—iwe adhabu, au ile Saa. Basi watajua ni nani aliye katika cheo kibaya zaidi na dhaifu zaidi kwa nguvu.
+**19:75** Sema, "Yeyote aliye katika upotofu, Mwingi wa rehema atamwendeleza." Mpaka, watakapoona kile walichoahidiwa—iwe adhabu, au ile Saa. Basi watajua ni nani aliye katika cheo kibaya zaidi na dhaifu zaidi kwa nguvu.
 
 قُلْ مَن كَانَ فِى ٱلضَّلَٰلَةِ فَلْيَمْدُدْ لَهُ ٱلرَّحْمَٰنُ مَدًّا ۚ حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ إِمَّا ٱلْعَذَابَ وَإِمَّا ٱلسَّاعَةَ فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّۭ مَّكَانًۭا وَأَضْعَفُ جُندًۭا
 
@@ -9672,7 +9672,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَيَزِيدُ ٱللَّهُ ٱلَّذِينَ ٱهْتَدَوْا۟ هُدًۭى ۗ وَٱلْبَٰقِيَٰتُ ٱلصَّٰلِحَٰتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًۭا وَخَيْرٌۭ مَّرَدًّا
 
-**19:77** Je, umemwona yule aliyezikataa aya zetu, na kusema, “Nitapewa mali na watoto”?
+**19:77** Je, umemwona yule aliyezikataa aya zetu, na kusema, "Nitapewa mali na watoto"?
 
 أَفَرَءَيْتَ ٱلَّذِى كَفَرَ بِـَٔايَٰتِنَا وَقَالَ لَأُوتَيَنَّ مَالًۭا وَوَلَدًا
 
@@ -9716,7 +9716,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 لَّا يَمْلِكُونَ ٱلشَّفَٰعَةَ إِلَّا مَنِ ٱتَّخَذَ عِندَ ٱلرَّحْمَٰنِ عَهْدًۭا
 
-**19:88** Na wanasema, “Mwingi wa rehema amezaa mwana.”
+**19:88** Na wanasema, "Mwingi wa rehema amezaa mwana."
 
 وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًۭا
 
@@ -9808,11 +9808,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَهَلْ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ
 
-**20:10** Alipoona moto, aliwaambia familia yake, “Kaeni; nimeona moto; huenda nikawaletea mwenge kutoka humo, au nipate mwongozo karibu na moto.”
+**20:10** Alipoona moto, aliwaambia familia yake, "Kaeni; nimeona moto; huenda nikawaletea mwenge kutoka humo, au nipate mwongozo karibu na moto."
 
 إِذْ رَءَا نَارًۭا فَقَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًۭا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِقَبَسٍ أَوْ أَجِدُ عَلَى ٱلنَّارِ هُدًۭى
 
-**20:11** Basi, alipoufikia, aliitwa, “Ewe Musa.
+**20:11** Basi, alipoufikia, aliitwa, "Ewe Musa.
 
 فَلَمَّآ أَتَىٰهَا نُودِىَ يَٰمُوسَىٰٓ
 
@@ -9836,15 +9836,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَلَا يَصُدَّنَّكَ عَنْهَا مَن لَّا يُؤْمِنُ بِهَا وَٱتَّبَعَ هَوَىٰهُ فَتَرْدَىٰ
 
-**20:17** Na ni kitu gani hicho kilicho katika mkono wako wa kulia, ewe Musa?”
+**20:17** Na ni kitu gani hicho kilicho katika mkono wako wa kulia, ewe Musa?"
 
 وَمَا تِلْكَ بِيَمِينِكَ يَٰمُوسَىٰ
 
-**20:18** Akasema, “Hii ni fimbo yangu. Naiegemea, na ninaichungia mbuzi wangu kwayo, na nina matumizi mengine kwayo.”
+**20:18** Akasema, "Hii ni fimbo yangu. Naiegemea, na ninaichungia mbuzi wangu kwayo, na nina matumizi mengine kwayo."
 
 قَالَ هِىَ عَصَاىَ أَتَوَكَّؤُا۟ عَلَيْهَا وَأَهُشُّ بِهَا عَلَىٰ غَنَمِى وَلِىَ فِيهَا مَـَٔارِبُ أُخْرَىٰ
 
-**20:19** Akasema, “Itupe, ewe Musa.”
+**20:19** Akasema, "Itupe, ewe Musa."
 
 قَالَ أَلْقِهَا يَٰمُوسَىٰ
 
@@ -9852,7 +9852,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَأَلْقَىٰهَا فَإِذَا هِىَ حَيَّةٌۭ تَسْعَىٰ
 
-**20:21** Akasema, “Ikamate, na usiogope. Tutairejesha katika hali yake ya awali.
+**20:21** Akasema, "Ikamate, na usiogope. Tutairejesha katika hali yake ya awali.
 
 قَالَ خُذْهَا وَلَا تَخَفْ ۖ سَنُعِيدُهَا سِيرَتَهَا ٱلْأُولَىٰ
 
@@ -9864,11 +9864,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 لِنُرِيَكَ مِنْ ءَايَٰتِنَا ٱلْكُبْرَى
 
-**20:24** Nenda kwa Firauni; yeye amepita mipaka.”
+**20:24** Nenda kwa Firauni; yeye amepita mipaka."
 
 ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ
 
-**20:25** Akasema, “Mola wangu, nifungulie moyo wangu kwa ajili yangu.
+**20:25** Akasema, "Mola wangu, nifungulie moyo wangu kwa ajili yangu.
 
 قَالَ رَبِّ ٱشْرَحْ لِى صَدْرِى
 
@@ -9908,11 +9908,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَنَذْكُرَكَ كَثِيرًا
 
-**20:35** Wewe daima unatuangalia.”
+**20:35** Wewe daima unatuangalia."
 
 إِنَّكَ كُنتَ بِنَا بَصِيرًۭا
 
-**20:36** Akasema, “Umepewa ombi lako, ewe Musa.
+**20:36** Akasema, "Umepewa ombi lako, ewe Musa.
 
 قَالَ قَدْ أُوتِيتَ سُؤْلَكَ يَٰمُوسَىٰ
 
@@ -9928,7 +9928,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ يَأْخُذْهُ عَدُوٌّۭ لِّى وَعَدُوٌّۭ لَّهُۥ ۚ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةًۭ مِّنِّى وَلِتُصْنَعَ عَلَىٰ عَيْنِىٓ
 
-**20:40** Dada yako alipotembea, na kusema, ‘Je, niwaambieni kuhusu mtu atakayemtunza?' Basi tukakurudisha kwa mama yako, ili afarijike, na asihuzunike. Na uliua mtu, lakini tulikuokoa kutokana na msongo; na tulikujaribu kabisa. Na ulikaa miaka kati ya watu wa Madyani. Kisha ukarudi, kama ulivyopangiwa, ewe Musa.
+**20:40** Dada yako alipotembea, na kusema, 'Je, niwaambieni kuhusu mtu atakayemtunza?' Basi tukakurudisha kwa mama yako, ili afarijike, na asihuzunike. Na uliua mtu, lakini tulikuokoa kutokana na msongo; na tulikujaribu kabisa. Na ulikaa miaka kati ya watu wa Madyani. Kisha ukarudi, kama ulivyopangiwa, ewe Musa.
 
 إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ ۖ فَرَجَعْنَٰكَ إِلَىٰٓ أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ ۚ وَقَتَلْتَ نَفْسًۭا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ وَفَتَنَّٰكَ فُتُونًۭا ۚ فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍۢ يَٰمُوسَىٰ
 
@@ -9944,15 +9944,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ٱذْهَبَآ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ
 
-**20:44** Lakini zungumzeni naye kwa upole. Huenda akakumbuka, au akaogopa kidogo.”
+**20:44** Lakini zungumzeni naye kwa upole. Huenda akakumbuka, au akaogopa kidogo."
 
 فَقُولَا لَهُۥ قَوْلًۭا لَّيِّنًۭا لَّعَلَّهُۥ يَتَذَكَّرُ أَوْ يَخْشَىٰ
 
-**20:45** Wakasema, “Mola, tunaogopa anaweza kutudhulumu, au akawa mkali.”
+**20:45** Wakasema, "Mola, tunaogopa anaweza kutudhulumu, au akawa mkali."
 
 قَالَا رَبَّنَآ إِنَّنَا نَخَافُ أَن يَفْرُطَ عَلَيْنَآ أَوْ أَن يَطْغَىٰ
 
-**20:46** Akasema, “Msiogope, mimi niko pamoja nanyi, ninasikia na ninaona.
+**20:46** Akasema, "Msiogope, mimi niko pamoja nanyi, ninasikia na ninaona.
 
 قَالَ لَا تَخَافَآ ۖ إِنَّنِى مَعَكُمَآ أَسْمَعُ وَأَرَىٰ
 
@@ -9960,23 +9960,23 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَأْتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ وَلَا تُعَذِّبْهُمْ ۖ قَدْ جِئْنَٰكَ بِـَٔايَةٍۢ مِّن رَّبِّكَ ۖ وَٱلسَّلَٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلْهُدَىٰٓ
 
-**20:48** Imefunuliwa kwetu kwamba adhabu itamwangukia yule anayekufuru na kugeuka mbali.'“
+**20:48** Imefunuliwa kwetu kwamba adhabu itamwangukia yule anayekufuru na kugeuka mbali.'"
 
 إِنَّا قَدْ أُوحِىَ إِلَيْنَآ أَنَّ ٱلْعَذَابَ عَلَىٰ مَن كَذَّبَ وَتَوَلَّىٰ
 
-**20:49** Akasema, “Ni nani Mola wenu, ewe Musa.”
+**20:49** Akasema, "Ni nani Mola wenu, ewe Musa."
 
 قَالَ فَمَن رَّبُّكُمَا يَٰمُوسَىٰ
 
-**20:50** Akasema, “Mola wetu ni Yeye aliyekipa kila kitu uumbaji wake, kisha akakiongoza.”
+**20:50** Akasema, "Mola wetu ni Yeye aliyekipa kila kitu uumbaji wake, kisha akakiongoza."
 
 قَالَ رَبُّنَا ٱلَّذِىٓ أَعْطَىٰ كُلَّ شَىْءٍ خَلْقَهُۥ ثُمَّ هَدَىٰ
 
-**20:51** Akasema, “Vipi kuhusu vizazi vya kwanza?”
+**20:51** Akasema, "Vipi kuhusu vizazi vya kwanza?"
 
 قَالَ فَمَا بَالُ ٱلْقُرُونِ ٱلْأُولَىٰ
 
-**20:52** Akasema, “Ujuzi wa hayo uko kwa Mola wangu, katika Kitabu. Mola wangu hakosei kamwe, wala hasahau.”
+**20:52** Akasema, "Ujuzi wa hayo uko kwa Mola wangu, katika Kitabu. Mola wangu hakosei kamwe, wala hasahau."
 
 قَالَ عِلْمُهَا عِندَ رَبِّى فِى كِتَٰبٍۢ ۖ لَّا يَضِلُّ رَبِّى وَلَا يَنسَى
 
@@ -9996,15 +9996,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَقَدْ أَرَيْنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
 
-**20:57** Akasema, “Je, umetujia ili ututoe katika ardhi yetu kwa uchawi wako, ewe Musa?
+**20:57** Akasema, "Je, umetujia ili ututoe katika ardhi yetu kwa uchawi wako, ewe Musa?
 
 قَالَ أَجِئْتَنَا لِتُخْرِجَنَا مِنْ أَرْضِنَا بِسِحْرِكَ يَٰمُوسَىٰ
 
-**20:58** Tutakuletea uchawi kama huo; basi weka miadi kati yetu na wewe, ambayo hatutaikosa—sisi, wala wewe—katika mahali pa kati.”
+**20:58** Tutakuletea uchawi kama huo; basi weka miadi kati yetu na wewe, ambayo hatutaikosa—sisi, wala wewe—katika mahali pa kati."
 
 فَلَنَأْتِيَنَّكَ بِسِحْرٍۢ مِّثْلِهِۦ فَٱجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًۭا لَّا نُخْلِفُهُۥ نَحْنُ وَلَآ أَنتَ مَكَانًۭا سُوًۭى
 
-**20:59** Akasema, “Miadi yenu ni siku ya sikukuu, basi watu wakusanyike asubuhi na mapema.”
+**20:59** Akasema, "Miadi yenu ni siku ya sikukuu, basi watu wakusanyike asubuhi na mapema."
 
 قَالَ مَوْعِدُكُمْ يَوْمُ ٱلزِّينَةِ وَأَن يُحْشَرَ ٱلنَّاسُ ضُحًۭى
 
@@ -10012,7 +10012,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَتَوَلَّىٰ فِرْعَوْنُ فَجَمَعَ كَيْدَهُۥ ثُمَّ أَتَىٰ
 
-**20:61** Musa akawaambia, “Ole wenu. Msimzulie Allah uongo, la sivyo atawaangamiza kwa adhabu. Yeyote anayezua uongo atashindwa.”
+**20:61** Musa akawaambia, "Ole wenu. Msimzulie Allah uongo, la sivyo atawaangamiza kwa adhabu. Yeyote anayezua uongo atashindwa."
 
 قَالَ لَهُم مُّوسَىٰ وَيْلَكُمْ لَا تَفْتَرُوا۟ عَلَى ٱللَّهِ كَذِبًۭا فَيُسْحِتَكُم بِعَذَابٍۢ ۖ وَقَدْ خَابَ مَنِ ٱفْتَرَىٰ
 
@@ -10020,19 +10020,19 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَتَنَٰزَعُوٓا۟ أَمْرَهُم بَيْنَهُمْ وَأَسَرُّوا۟ ٱلنَّجْوَىٰ
 
-**20:63** Wakasema, “Hawa wawili ni wachawi wanaotaka kuwatoa katika ardhi yenu kwa uchawi wao, na kuondoa njia yenu ya maisha iliyo bora.
+**20:63** Wakasema, "Hawa wawili ni wachawi wanaotaka kuwatoa katika ardhi yenu kwa uchawi wao, na kuondoa njia yenu ya maisha iliyo bora.
 
 قَالُوٓا۟ إِنْ هَٰذَٰنِ لَسَٰحِرَٰنِ يُرِيدَانِ أَن يُخْرِجَاكُم مِّنْ أَرْضِكُم بِسِحْرِهِمَا وَيَذْهَبَا بِطَرِيقَتِكُمُ ٱلْمُثْلَىٰ
 
-**20:64** Basi imarisheni mpango wenu, na njooni kama safu moja. Leo, yeyote atakayeshinda atakuwa amefanikiwa.”
+**20:64** Basi imarisheni mpango wenu, na njooni kama safu moja. Leo, yeyote atakayeshinda atakuwa amefanikiwa."
 
 فَأَجْمِعُوا۟ كَيْدَكُمْ ثُمَّ ٱئْتُوا۟ صَفًّۭا ۚ وَقَدْ أَفْلَحَ ٱلْيَوْمَ مَنِ ٱسْتَعْلَىٰ
 
-**20:65** Wakasema, “Ewe Musa, ama utupe wewe, au sisi tutakuwa wa kwanza kutupa.”
+**20:65** Wakasema, "Ewe Musa, ama utupe wewe, au sisi tutakuwa wa kwanza kutupa."
 
 قَالُوا۟ يَٰمُوسَىٰٓ إِمَّآ أَن تُلْقِىَ وَإِمَّآ أَن نَّكُونَ أَوَّلَ مَنْ أَلْقَىٰ
 
-**20:66** Akasema, “Nyinyi tupeni.” Na ghafla, kamba zao na fimbo zao zikaonekana kwake, kwa sababu ya uchawi wao, zikitambaa haraka.
+**20:66** Akasema, "Nyinyi tupeni." Na ghafla, kamba zao na fimbo zao zikaonekana kwake, kwa sababu ya uchawi wao, zikitambaa haraka.
 
 قَالَ بَلْ أَلْقُوا۟ ۖ فَإِذَا حِبَالُهُمْ وَعِصِيُّهُمْ يُخَيَّلُ إِلَيْهِ مِن سِحْرِهِمْ أَنَّهَا تَسْعَىٰ
 
@@ -10040,27 +10040,27 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَأَوْجَسَ فِى نَفْسِهِۦ خِيفَةًۭ مُّوسَىٰ
 
-**20:68** Tukasema, “Usiogope, wewe ndiye wa juu zaidi.
+**20:68** Tukasema, "Usiogope, wewe ndiye wa juu zaidi.
 
 قُلْنَا لَا تَخَفْ إِنَّكَ أَنتَ ٱلْأَعْلَىٰ
 
-**20:69** Basi tupa kilicho katika mkono wako wa kulia—kitameza kile walichokitengeneza. Kile walichokitengeneza ni hila tu ya mchawi. Lakini mchawi hatafanikiwa, chochote atakachofanya.”
+**20:69** Basi tupa kilicho katika mkono wako wa kulia—kitameza kile walichokitengeneza. Kile walichokitengeneza ni hila tu ya mchawi. Lakini mchawi hatafanikiwa, chochote atakachofanya."
 
 وَأَلْقِ مَا فِى يَمِينِكَ تَلْقَفْ مَا صَنَعُوٓا۟ ۖ إِنَّمَا صَنَعُوا۟ كَيْدُ سَٰحِرٍۢ ۖ وَلَا يُفْلِحُ ٱلسَّاحِرُ حَيْثُ أَتَىٰ
 
-**20:70** Na wachawi wakajitupa wakisujudu. Wakasema, “Tumemwamini Mola wa Haruni na Musa.”
+**20:70** Na wachawi wakajitupa wakisujudu. Wakasema, "Tumemwamini Mola wa Haruni na Musa."
 
 فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَٰرُونَ وَمُوسَىٰ
 
-**20:71** Akasema, “Je, mlimwamini kabla sijawapa ruhusa? Hakika yeye ndiye mkuu wenu, aliyewafundisha uchawi. Nitakata mikono yenu na miguu yenu kwa kubadilishana, na nitawasulubisha kwenye mashina ya mitende. Basi mtajua ni nani kati yetu aliye mkali zaidi kwa adhabu, na anayedumu zaidi.”
+**20:71** Akasema, "Je, mlimwamini kabla sijawapa ruhusa? Hakika yeye ndiye mkuu wenu, aliyewafundisha uchawi. Nitakata mikono yenu na miguu yenu kwa kubadilishana, na nitawasulubisha kwenye mashina ya mitende. Basi mtajua ni nani kati yetu aliye mkali zaidi kwa adhabu, na anayedumu zaidi."
 
 قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ ۖ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ ۖ فَلَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍۢ وَلَأُصَلِّبَنَّكُمْ فِى جُذُوعِ ٱلنَّخْلِ وَلَتَعْلَمُنَّ أَيُّنَآ أَشَدُّ عَذَابًۭا وَأَبْقَىٰ
 
-**20:72** Wakasema, “Hatutakupendelea wewe kuliko uthibitisho uliotujia, na Yeye aliyetuumba. Basi toa hukumu yoyote unayotaka kutoa. Unaweza kuhukumu tu katika maisha haya ya chini.
+**20:72** Wakasema, "Hatutakupendelea wewe kuliko uthibitisho uliotujia, na Yeye aliyetuumba. Basi toa hukumu yoyote unayotaka kutoa. Unaweza kuhukumu tu katika maisha haya ya chini.
 
 قَالُوا۟ لَن نُّؤْثِرَكَ عَلَىٰ مَا جَآءَنَا مِنَ ٱلْبَيِّنَٰتِ وَٱلَّذِى فَطَرَنَا ۖ فَٱقْضِ مَآ أَنتَ قَاضٍ ۖ إِنَّمَا تَقْضِى هَٰذِهِ ٱلْحَيَوٰةَ ٱلدُّنْيَآ
 
-**20:73** Tumemwamini Mola wetu, ili atusamehe dhambi zetu, na uchawi uliotulazimisha kuutenda. Allah ni Bora, na anayedumu zaidi.”
+**20:73** Tumemwamini Mola wetu, ili atusamehe dhambi zetu, na uchawi uliotulazimisha kuutenda. Allah ni Bora, na anayedumu zaidi."
 
 إِنَّآ ءَامَنَّا بِرَبِّنَا لِيَغْفِرَ لَنَا خَطَٰيَٰنَا وَمَآ أَكْرَهْتَنَا عَلَيْهِ مِنَ ٱلسِّحْرِ ۗ وَٱللَّهُ خَيْرٌۭ وَأَبْقَىٰٓ
 
@@ -10076,7 +10076,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 جَنَّٰتُ عَدْنٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا ۚ وَذَٰلِكَ جَزَآءُ مَن تَزَكَّىٰ
 
-**20:77** Na tulimfunulia Musa: “Safiri usiku pamoja na waja wangu, na uwapigie njia kavu kuvuka bahari, bila kuogopa kushikwa, wala kuwa na wasiwasi.”
+**20:77** Na tulimfunulia Musa: "Safiri usiku pamoja na waja wangu, na uwapigie njia kavu kuvuka bahari, bila kuogopa kushikwa, wala kuwa na wasiwasi."
 
 وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَٰفُ دَرَكًۭا وَلَا تَخْشَىٰ
 
@@ -10100,27 +10100,27 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَإِنِّى لَغَفَّارٌۭ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحًۭا ثُمَّ ٱهْتَدَىٰ
 
-**20:83** “Na ni nini kilichokufanya uwahi mbele ya watu wako, ewe Musa?”
+**20:83** "Na ni nini kilichokufanya uwahi mbele ya watu wako, ewe Musa?"
 
 ۞ وَمَآ أَعْجَلَكَ عَن قَوْمِكَ يَٰمُوسَىٰ
 
-**20:84** Akasema, “Wao wanafuata nyayo zangu; na nimeharakia kwako, Mola wangu, ili uridhike.”
+**20:84** Akasema, "Wao wanafuata nyayo zangu; na nimeharakia kwako, Mola wangu, ili uridhike."
 
 قَالَ هُمْ أُو۟لَآءِ عَلَىٰٓ أَثَرِى وَعَجِلْتُ إِلَيْكَ رَبِّ لِتَرْضَىٰ
 
-**20:85** Akasema, “Tumewajaribu watu wako katika kutokuwepo kwako, na Msamaria amewapoteza.”
+**20:85** Akasema, "Tumewajaribu watu wako katika kutokuwepo kwako, na Msamaria amewapoteza."
 
 قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ
 
-**20:86** Basi Musa akarudi kwa watu wake, akiwa na hasira na amekatishwa tamaa. Akasema, “Ewe watu wangu, je, Mola wenu hakuwapa ahadi nzuri? Je, muda ulikuwa mrefu kwenu? Au mlitaka hasira kutoka kwa Mola wenu iwashiukie, basi mkavunja ahadi yenu kwangu?”
+**20:86** Basi Musa akarudi kwa watu wake, akiwa na hasira na amekatishwa tamaa. Akasema, "Ewe watu wangu, je, Mola wenu hakuwapa ahadi nzuri? Je, muda ulikuwa mrefu kwenu? Au mlitaka hasira kutoka kwa Mola wenu iwashiukie, basi mkavunja ahadi yenu kwangu?"
 
 فَرَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًۭا ۚ قَالَ يَٰقَوْمِ أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْدًا حَسَنًا ۚ أَفَطَالَ عَلَيْكُمُ ٱلْعَهْدُ أَمْ أَرَدتُّمْ أَن يَحِلَّ عَلَيْكُمْ غَضَبٌۭ مِّن رَّبِّكُمْ فَأَخْلَفْتُم مَّوْعِدِى
 
-**20:87** Wakasema, “Hatukuvunja ahadi yetu kwako kwa hiari yetu, lakini tulifanywa kubeba mizigo ya mapambo ya watu, na tukayatia. Hivyo ndivyo Msamaria alivyopendekeza.”
+**20:87** Wakasema, "Hatukuvunja ahadi yetu kwako kwa hiari yetu, lakini tulifanywa kubeba mizigo ya mapambo ya watu, na tukayatia. Hivyo ndivyo Msamaria alivyopendekeza."
 
 قَالُوا۟ مَآ أَخْلَفْنَا مَوْعِدَكَ بِمَلْكِنَا وَلَٰكِنَّا حُمِّلْنَآ أَوْزَارًۭا مِّن زِينَةِ ٱلْقَوْمِ فَقَذَفْنَٰهَا فَكَذَٰلِكَ أَلْقَى ٱلسَّامِرِىُّ
 
-**20:88** Basi akawazalishia ndama—mwili tu uliokuwa ukilia. Na wakasema, “Huyu ni mungu wenu, na mungu wa Musa, lakini amesahau.”
+**20:88** Basi akawazalishia ndama—mwili tu uliokuwa ukilia. Na wakasema, "Huyu ni mungu wenu, na mungu wa Musa, lakini amesahau."
 
 فَأَخْرَجَ لَهُمْ عِجْلًۭا جَسَدًۭا لَّهُۥ خُوَارٌۭ فَقَالُوا۟ هَٰذَآ إِلَٰهُكُمْ وَإِلَٰهُ مُوسَىٰ فَنَسِىَ
 
@@ -10128,35 +10128,35 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًۭا وَلَا يَمْلِكُ لَهُمْ ضَرًّۭا وَلَا نَفْعًۭا
 
-**20:90** Haruni alikuwa amewaambia kabla, “Ewe watu wangu, mnajaribiwa kwa hii. Na Mola wenu ni Mwingi wa rehema, basi nifuateni, na mtii amri yangu.”
+**20:90** Haruni alikuwa amewaambia kabla, "Ewe watu wangu, mnajaribiwa kwa hii. Na Mola wenu ni Mwingi wa rehema, basi nifuateni, na mtii amri yangu."
 
 وَلَقَدْ قَالَ لَهُمْ هَٰرُونُ مِن قَبْلُ يَٰقَوْمِ إِنَّمَا فُتِنتُم بِهِۦ ۖ وَإِنَّ رَبَّكُمُ ٱلرَّحْمَٰنُ فَٱتَّبِعُونِى وَأَطِيعُوٓا۟ أَمْرِى
 
-**20:91** Wakasema, “Hatuacha kujitolea kwayo, mpaka Musa arudi kwetu.”
+**20:91** Wakasema, "Hatuacha kujitolea kwayo, mpaka Musa arudi kwetu."
 
 قَالُوا۟ لَن نَّبْرَحَ عَلَيْهِ عَٰكِفِينَ حَتَّىٰ يَرْجِعَ إِلَيْنَا مُوسَىٰ
 
-**20:92** Akasema, “Ewe Haruni, ni nini kilichokuzuia, ulipowaona wanapotea.
+**20:92** Akasema, "Ewe Haruni, ni nini kilichokuzuia, ulipowaona wanapotea.
 
 قَالَ يَٰهَٰرُونُ مَا مَنَعَكَ إِذْ رَأَيْتَهُمْ ضَلُّوٓا۟
 
-**20:93** Kunifuata mimi? Je, uliasi amri yangu?”
+**20:93** Kunifuata mimi? Je, uliasi amri yangu?"
 
 أَلَّا تَتَّبِعَنِ ۖ أَفَعَصَيْتَ أَمْرِى
 
-**20:94** Akasema, “Mwana wa mama yangu, usinishike kwa ndevu zangu au kichwa changu. Niliogopa ungesema, `Umesababisha mgawanyiko kati ya Wana wa Israeli, na hukuzingatia neno langu.'“
+**20:94** Akasema, "Mwana wa mama yangu, usinishike kwa ndevu zangu au kichwa changu. Niliogopa ungesema, `Umesababisha mgawanyiko kati ya Wana wa Israeli, na hukuzingatia neno langu.'"
 
 قَالَ يَبْنَؤُمَّ لَا تَأْخُذْ بِلِحْيَتِى وَلَا بِرَأْسِىٓ ۖ إِنِّى خَشِيتُ أَن تَقُولَ فَرَّقْتَ بَيْنَ بَنِىٓ إِسْرَٰٓءِيلَ وَلَمْ تَرْقُبْ قَوْلِى
 
-**20:95** Akasema, “Una nini cha kusema, ewe Msamaria?”
+**20:95** Akasema, "Una nini cha kusema, ewe Msamaria?"
 
 قَالَ فَمَا خَطْبُكَ يَٰسَٰمِرِىُّ
 
-**20:96** Akasema, “Niliona kile wasichokiona, basi nikachukua konzi kutoka katika athari za Mtume, na nikaitupa mbali. Hivyo ndivyo roho yangu ilivyonielekeza.”
+**20:96** Akasema, "Niliona kile wasichokiona, basi nikachukua konzi kutoka katika athari za Mtume, na nikaitupa mbali. Hivyo ndivyo roho yangu ilivyonielekeza."
 
 قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُوا۟ بِهِۦ فَقَبَضْتُ قَبْضَةًۭ مِّنْ أَثَرِ ٱلرَّسُولِ فَنَبَذْتُهَا وَكَذَٰلِكَ سَوَّلَتْ لِى نَفْسِى
 
-**20:97** Akasema, “Ondoka! Sehemu yako katika maisha haya ni kusema, ‘Hakuna kugusana.’ Na una miadi ambayo hutaikosa. Basi mtazame mungu wako uliyebaki umejitolea kwake—tutamuchoma, na kisha tutampeperusha baharini, kama unga.”
+**20:97** Akasema, "Ondoka! Sehemu yako katika maisha haya ni kusema, 'Hakuna kugusana.' Na una miadi ambayo hutaikosa. Basi mtazame mungu wako uliyebaki umejitolea kwake—tutamuchoma, na kisha tutampeperusha baharini, kama unga."
 
 قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا
 
@@ -10180,15 +10180,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 يَوْمَ يُنفَخُ فِى ٱلصُّورِ ۚ وَنَحْشُرُ ٱلْمُجْرِمِينَ يَوْمَئِذٍۢ زُرْقًۭا
 
-**20:103** Wakinong'onezana wao kwa wao: “Mmekaa siku kumi tu.”
+**20:103** Wakinong'onezana wao kwa wao: "Mmekaa siku kumi tu."
 
 يَتَخَٰفَتُونَ بَيْنَهُمْ إِن لَّبِثْتُمْ إِلَّا عَشْرًۭا
 
-**20:104** Sisi tunajua vema wanachosema, yule aliye bora zaidi kati yao kwa mwenendo atakaposema, “Mmekaa siku moja tu.”
+**20:104** Sisi tunajua vema wanachosema, yule aliye bora zaidi kati yao kwa mwenendo atakaposema, "Mmekaa siku moja tu."
 
 نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ إِذْ يَقُولُ أَمْثَلُهُمْ طَرِيقَةً إِن لَّبِثْتُمْ إِلَّا يَوْمًۭا
 
-**20:105** Na wanakuuliza kuhusu milima. Sema, “Mola wangu ataivunja kabisa.”
+**20:105** Na wanakuuliza kuhusu milima. Sema, "Mola wangu ataivunja kabisa."
 
 وَيَسْـَٔلُونَكَ عَنِ ٱلْجِبَالِ فَقُلْ يَنسِفُهَا رَبِّى نَسْفًۭا
 
@@ -10196,7 +10196,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَيَذَرُهَا قَاعًۭا صَفْصَفًۭا
 
-**20:107** Hutaona humo upotofu wowote, wala mkengeuko wowote.”
+**20:107** Hutaona humo upotofu wowote, wala mkengeuko wowote."
 
 لَّا تَرَىٰ فِيهَا عِوَجًۭا وَلَآ أَمْتًۭا
 
@@ -10224,7 +10224,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَكَذَٰلِكَ أَنزَلْنَٰهُ قُرْءَانًا عَرَبِيًّۭا وَصَرَّفْنَا فِيهِ مِنَ ٱلْوَعِيدِ لَعَلَّهُمْ يَتَّقُونَ أَوْ يُحْدِثُ لَهُمْ ذِكْرًۭا
 
-**20:114** Allah ametukuka, Mfalme wa Kweli. Usiharakishe Kurani kabla ufunuo wake kwako haujakamilika, na useme, “Mola wangu, nizidishie ujuzi.”
+**20:114** Allah ametukuka, Mfalme wa Kweli. Usiharakishe Kurani kabla ufunuo wake kwako haujakamilika, na useme, "Mola wangu, nizidishie ujuzi."
 
 فَتَعَٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۗ وَلَا تَعْجَلْ بِٱلْقُرْءَانِ مِن قَبْلِ أَن يُقْضَىٰٓ إِلَيْكَ وَحْيُهُۥ ۖ وَقُل رَّبِّ زِدْنِى عِلْمًۭا
 
@@ -10232,11 +10232,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَقَدْ عَهِدْنَآ إِلَىٰٓ ءَادَمَ مِن قَبْلُ فَنَسِىَ وَلَمْ نَجِدْ لَهُۥ عَزْمًۭا
 
-**20:116** Na tulipowaambia malaika, “Msujudieni Adamu.” Wakasujudu, isipokuwa Shetani; akakataa.
+**20:116** Na tulipowaambia malaika, "Msujudieni Adamu." Wakasujudu, isipokuwa Shetani; akakataa.
 
 وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ
 
-**20:117** Tukasema, “Ewe Adamu, huyu ni adui kwako na kwa mke wako. Basi asikufanye utoke Bustanini, kwani basi utateseka.
+**20:117** Tukasema, "Ewe Adamu, huyu ni adui kwako na kwa mke wako. Basi asikufanye utoke Bustanini, kwani basi utateseka.
 
 فَقُلْنَا يَٰٓـَٔادَمُ إِنَّ هَٰذَا عَدُوٌّۭ لَّكَ وَلِزَوْجِكَ فَلَا يُخْرِجَنَّكُمَا مِنَ ٱلْجَنَّةِ فَتَشْقَىٰٓ
 
@@ -10244,11 +10244,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعْرَىٰ
 
-**20:119** Wala hutahisi kiu humo, wala hutapigwa na jua.”
+**20:119** Wala hutahisi kiu humo, wala hutapigwa na jua."
 
 وَأَنَّكَ لَا تَظْمَؤُا۟ فِيهَا وَلَا تَضْحَىٰ
 
-**20:120** Lakini Shetani akamnong'oneza. Akasema, “Ewe Adamu, je, nikuonyeshe Mti wa Milele, na ufalme usiopungua kamwe?”
+**20:120** Lakini Shetani akamnong'oneza. Akasema, "Ewe Adamu, je, nikuonyeshe Mti wa Milele, na ufalme usiopungua kamwe?"
 
 فَوَسْوَسَ إِلَيْهِ ٱلشَّيْطَٰنُ قَالَ يَٰٓـَٔادَمُ هَلْ أَدُلُّكَ عَلَىٰ شَجَرَةِ ٱلْخُلْدِ وَمُلْكٍۢ لَّا يَبْلَىٰ
 
@@ -10260,19 +10260,19 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ثُمَّ ٱجْتَبَٰهُ رَبُّهُۥ فَتَابَ عَلَيْهِ وَهَدَىٰ
 
-**20:123** Akasema, “Shukeni kutoka humo, nyote kwa pamoja; baadhi yenu ni maadui kwa wengine. Lakini mwongozo ukiwajia kutoka kwangu, yeyote anayefuata mwongozo wangu, hatapotea, wala hatateseka.
+**20:123** Akasema, "Shukeni kutoka humo, nyote kwa pamoja; baadhi yenu ni maadui kwa wengine. Lakini mwongozo ukiwajia kutoka kwangu, yeyote anayefuata mwongozo wangu, hatapotea, wala hatateseka.
 
 قَالَ ٱهْبِطَا مِنْهَا جَمِيعًۢا ۖ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّۭ ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًۭى فَمَنِ ٱتَّبَعَ هُدَاىَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ
 
-**20:124** Lakini yeyote anayegeuka mbali na ukumbusho wangu, kwake ni maisha yenye dhiki. Na tutamfufua Siku ya Ufufuo akiwa kipofu.”
+**20:124** Lakini yeyote anayegeuka mbali na ukumbusho wangu, kwake ni maisha yenye dhiki. Na tutamfufua Siku ya Ufufuo akiwa kipofu."
 
 وَمَنْ أَعْرَضَ عَن ذِكْرِى فَإِنَّ لَهُۥ مَعِيشَةًۭ ضَنكًۭا وَنَحْشُرُهُۥ يَوْمَ ٱلْقِيَٰمَةِ أَعْمَىٰ
 
-**20:125** Atasema, “Mola wangu, kwa nini umenifufua kipofu, ilhali nilikuwa naona?”
+**20:125** Atasema, "Mola wangu, kwa nini umenifufua kipofu, ilhali nilikuwa naona?"
 
 قَالَ رَبِّ لِمَ حَشَرْتَنِىٓ أَعْمَىٰ وَقَدْ كُنتُ بَصِيرًۭا
 
-**20:126** Atasema, “Kama vile aya zetu zilivyokujia, nawe ukazisahau, leo utasahaulika.”
+**20:126** Atasema, "Kama vile aya zetu zilivyokujia, nawe ukazisahau, leo utasahaulika."
 
 قَالَ كَذَٰلِكَ أَتَتْكَ ءَايَٰتُنَا فَنَسِيتَهَا ۖ وَكَذَٰلِكَ ٱلْيَوْمَ تُنسَىٰ
 
@@ -10300,15 +10300,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَأْمُرْ أَهْلَكَ بِٱلصَّلَوٰةِ وَٱصْطَبِرْ عَلَيْهَا ۖ لَا نَسْـَٔلُكَ رِزْقًۭا ۖ نَّحْنُ نَرْزُقُكَ ۗ وَٱلْعَٰقِبَةُ لِلتَّقْوَىٰ
 
-**20:133** Na wanasema, “Kwa nini hatuletei muujiza kutoka kwa Mola wake?” Je, hawakupewa miujiza ya kutosha katika maandiko ya awali?
+**20:133** Na wanasema, "Kwa nini hatuletei muujiza kutoka kwa Mola wake?" Je, hawakupewa miujiza ya kutosha katika maandiko ya awali?
 
 وَقَالُوا۟ لَوْلَا يَأْتِينَا بِـَٔايَةٍۢ مِّن رَّبِّهِۦٓ ۚ أَوَلَمْ تَأْتِهِم بَيِّنَةُ مَا فِى ٱلصُّحُفِ ٱلْأُولَىٰ
 
-**20:134** Kama tungewaangamiza kwa adhabu kabla yake, wangesema, “Mola wetu, laiti ungetutumia mtume, tungefuata aya zako kabla hatuja fedheheka na kudharauliwa.”
+**20:134** Kama tungewaangamiza kwa adhabu kabla yake, wangesema, "Mola wetu, laiti ungetutumia mtume, tungefuata aya zako kabla hatuja fedheheka na kudharauliwa."
 
 وَلَوْ أَنَّآ أَهْلَكْنَٰهُم بِعَذَابٍۢ مِّن قَبْلِهِۦ لَقَالُوا۟ رَبَّنَا لَوْلَآ أَرْسَلْتَ إِلَيْنَا رَسُولًۭا فَنَتَّبِعَ ءَايَٰتِكَ مِن قَبْلِ أَن نَّذِلَّ وَنَخْزَىٰ
 
-**20:135** Sema, “Kila mtu anasubiri, basi subirini. Mtajua ni nani watu wa njia iliyonyooka, na ni nani aliyeongoka.”
+**20:135** Sema, "Kila mtu anasubiri, basi subirini. Mtajua ni nani watu wa njia iliyonyooka, na ni nani aliyeongoka."
 
 قُلْ كُلٌّۭ مُّتَرَبِّصٌۭ فَتَرَبَّصُوا۟ ۖ فَسَتَعْلَمُونَ مَنْ أَصْحَٰبُ ٱلصِّرَٰطِ ٱلسَّوِىِّ وَمَنِ ٱهْتَدَىٰ
 
@@ -14440,11 +14440,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 هَٰذَا خَلْقُ ٱللَّهِ فَأَرُونِى مَاذَا خَلَقَ ٱلَّذِينَ مِن دُونِهِۦ ۚ بَلِ ٱلظَّٰلِمُونَ فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
-**31:12** Tulimpa Lukmani hekima: “Mshukuru Allah.” Anayeshukuru—anashukuru kwa manufaa ya nafsi yake mwenyewe. Na asiyeshukuru—Allah ni Mwenye kujitosheleza, Mwenye kusifiwa.
+**31:12** Tulimpa Lukmani hekima: "Mshukuru Allah." Anayeshukuru—anashukuru kwa manufaa ya nafsi yake mwenyewe. Na asiyeshukuru—Allah ni Mwenye kujitosheleza, Mwenye kusifiwa.
 
 وَلَقَدْ ءَاتَيْنَا لُقْمَٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ
 
-**31:13** Na Lukmani alipomwambia mwanawe, huku akimshauri, “Ewe mwanangu, usimshirikishe Allah na chochote, maana ushirikina ni dhuluma kubwa.”
+**31:13** Na Lukmani alipomwambia mwanawe, huku akimshauri, "Ewe mwanangu, usimshirikishe Allah na chochote, maana ushirikina ni dhuluma kubwa."
 
 وَإِذْ قَالَ لُقْمَٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ ۖ إِنَّ ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌۭ
 
@@ -14456,7 +14456,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَإِن جَٰهَدَاكَ عَلَىٰٓ أَن تُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِۦ عِلْمٌۭ فَلَا تُطِعْهُمَا ۖ وَصَاحِبْهُمَا فِى ٱلدُّنْيَا مَعْرُوفًۭا ۖ وَٱتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَىَّ ۚ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 
-**31:16** “Ewe mwanangu, hata kama ni uzito wa mbegu ya haradali, ndani ya mwamba, au mbinguni, au ardhini, Allah atayaleta hadharani. Allah ni Mpole, Mjuzi.
+**31:16** "Ewe mwanangu, hata kama ni uzito wa mbegu ya haradali, ndani ya mwamba, au mbinguni, au ardhini, Allah atayaleta hadharani. Allah ni Mpole, Mjuzi.
 
 يَٰبُنَىَّ إِنَّهَآ إِن تَكُ مِثْقَالَ حَبَّةٍۢ مِّنْ خَرْدَلٍۢ فَتَكُن فِى صَخْرَةٍ أَوْ فِى ٱلسَّمَٰوَٰتِ أَوْ فِى ٱلْأَرْضِ يَأْتِ بِهَا ٱللَّهُ ۚ إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٌۭ
 
@@ -14468,7 +14468,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِى ٱلْأَرْضِ مَرَحًا ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍۢ فَخُورٍۢ
 
-**31:19** Na tembea kwa kiasi, na uiteremshe sauti yako. Sauti mbaya kuliko zote ni sauti ya punda.”
+**31:19** Na tembea kwa kiasi, na uiteremshe sauti yako. Sauti mbaya kuliko zote ni sauti ya punda."
 
 وَٱقْصِدْ فِى مَشْيِكَ وَٱغْضُضْ مِن صَوْتِكَ ۚ إِنَّ أَنكَرَ ٱلْأَصْوَٰتِ لَصَوْتُ ٱلْحَمِيرِ
 
@@ -14476,7 +14476,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَلَمْ تَرَوْا۟ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُۥ ظَٰهِرَةًۭ وَبَاطِنَةًۭ ۗ وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِى ٱللَّهِ بِغَيْرِ عِلْمٍۢ وَلَا هُدًۭى وَلَا كِتَٰبٍۢ مُّنِيرٍۢ
 
-**31:21** Na wakiambiwa, “Fuateni aliyoyateremsha Allah,” husema, “Bali, tutafuata tuliyowakuta nayo wazazi wetu.” Hata kama Shetani anawaita kwenye mateso ya Moto uwakao?
+**31:21** Na wakiambiwa, "Fuateni aliyoyateremsha Allah," husema, "Bali, tutafuata tuliyowakuta nayo wazazi wetu." Hata kama Shetani anawaita kwenye mateso ya Moto uwakao?
 
 وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ أَوَلَوْ كَانَ ٱلشَّيْطَٰنُ يَدْعُوهُمْ إِلَىٰ عَذَابِ ٱلسَّعِيرِ
 
@@ -14492,7 +14492,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 نُمَتِّعُهُمْ قَلِيلًۭا ثُمَّ نَضْطَرُّهُمْ إِلَىٰ عَذَابٍ غَلِيظٍۢ
 
-**31:25** Na ukiwauliza, “Nani aliyeziumba mbingu na ardhi?” Watasema, “Allah.” Sema, “Sifa zote ni za Allah.” Lakini wengi wao hawajui.
+**31:25** Na ukiwauliza, "Nani aliyeziumba mbingu na ardhi?" Watasema, "Allah." Sema, "Sifa zote ni za Allah." Lakini wengi wao hawajui.
 
 وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ ٱللَّهُ ۚ قُلِ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
 
@@ -14552,7 +14552,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 تَنزِيلُ ٱلْكِتَٰبِ لَا رَيْبَ فِيهِ مِن رَّبِّ ٱلْعَٰلَمِينَ
 
-**32:3** Lakini wanasema, “Amekizua.” Bali, ni Ukweli kutoka kwa Mola wako, ili uwaonye watu ambao hawakupewa mwonyaji kabla yako, ili wapate kuongoka.
+**32:3** Lakini wanasema, "Amekizua." Bali, ni Ukweli kutoka kwa Mola wako, ili uwaonye watu ambao hawakupewa mwonyaji kabla yako, ili wapate kuongoka.
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۚ بَلْ هُوَ ٱلْحَقُّ مِن رَّبِّكَ لِتُنذِرَ قَوْمًۭا مَّآ أَتَىٰهُم مِّن نَّذِيرٍۢ مِّن قَبْلِكَ لَعَلَّهُمْ يَهْتَدُونَ
 
@@ -14580,19 +14580,19 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ ۖ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًۭا مَّا تَشْكُرُونَ
 
-**32:10** Na wanasema, “Tukishapotea ndani ya ardhi, je, tutakuwa katika uumbaji mpya?” Bali, wanakanusha kukutana na Mola wao.
+**32:10** Na wanasema, "Tukishapotea ndani ya ardhi, je, tutakuwa katika uumbaji mpya?" Bali, wanakanusha kukutana na Mola wao.
 
 وَقَالُوٓا۟ أَءِذَا ضَلَلْنَا فِى ٱلْأَرْضِ أَءِنَّا لَفِى خَلْقٍۢ جَدِيدٍۭ ۚ بَلْ هُم بِلِقَآءِ رَبِّهِمْ كَٰفِرُونَ
 
-**32:11** Sema, “Malaika wa mauti aliyewekwa juu yenu atawachukua. Kisha kwa Mola wenu mtarejeshwa.”
+**32:11** Sema, "Malaika wa mauti aliyewekwa juu yenu atawachukua. Kisha kwa Mola wenu mtarejeshwa."
 
 ۞ قُلْ يَتَوَفَّىٰكُم مَّلَكُ ٱلْمَوْتِ ٱلَّذِى وُكِّلَ بِكُمْ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ
 
-**32:12** Laiti ungewaona wahalifu, wakiinamisha vichwa vyao mbele ya Mola wao: “Mola wetu, tumeona na tumesikia, basi turudishe, na tutafanya mema; sasa tuna yakini.”
+**32:12** Laiti ungewaona wahalifu, wakiinamisha vichwa vyao mbele ya Mola wao: "Mola wetu, tumeona na tumesikia, basi turudishe, na tutafanya mema; sasa tuna yakini."
 
 وَلَوْ تَرَىٰٓ إِذِ ٱلْمُجْرِمُونَ نَاكِسُوا۟ رُءُوسِهِمْ عِندَ رَبِّهِمْ رَبَّنَآ أَبْصَرْنَا وَسَمِعْنَا فَٱرْجِعْنَا نَعْمَلْ صَٰلِحًا إِنَّا مُوقِنُونَ
 
-**32:13** Lau Tungalitaka, Tungaliiweza kuipa kila nafsi mwongozo wake, lakini kauli kutoka Kwangu itatimia: “Nitajaza Jahannamu kwa majini na wanadamu, wote pamoja.”
+**32:13** Lau Tungalitaka, Tungaliiweza kuipa kila nafsi mwongozo wake, lakini kauli kutoka Kwangu itatimia: "Nitajaza Jahannamu kwa majini na wanadamu, wote pamoja."
 
 وَلَوْ شِئْنَا لَءَاتَيْنَا كُلَّ نَفْسٍ هُدَىٰهَا وَلَٰكِنْ حَقَّ ٱلْقَوْلُ مِنِّى لَأَمْلَأَنَّ جَهَنَّمَ مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ أَجْمَعِينَ
 
@@ -14622,7 +14622,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَلَهُمْ جَنَّٰتُ ٱلْمَأْوَىٰ نُزُلًۢا بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**32:20** Lakini wale waliokiuka mipaka, makao yao ni Moto. Kila wanapojaribu kutoka humo, watarudishwa humo, na wataambiwa, “Onjeni mateso ya Moto ambao mlikuwa mkiukana.”
+**32:20** Lakini wale waliokiuka mipaka, makao yao ni Moto. Kila wanapojaribu kutoka humo, watarudishwa humo, na wataambiwa, "Onjeni mateso ya Moto ambao mlikuwa mkiukana."
 
 وَأَمَّا ٱلَّذِينَ فَسَقُوا۟ فَمَأْوَىٰهُمُ ٱلنَّارُ ۖ كُلَّمَآ أَرَادُوٓا۟ أَن يَخْرُجُوا۟ مِنْهَآ أُعِيدُوا۟ فِيهَا وَقِيلَ لَهُمْ ذُوقُوا۟ عَذَابَ ٱلنَّارِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ
 
@@ -14654,11 +14654,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَوَلَمْ يَرَوْا۟ أَنَّا نَسُوقُ ٱلْمَآءَ إِلَى ٱلْأَرْضِ ٱلْجُرُزِ فَنُخْرِجُ بِهِۦ زَرْعًۭا تَأْكُلُ مِنْهُ أَنْعَٰمُهُمْ وَأَنفُسُهُمْ ۖ أَفَلَا يُبْصِرُونَ
 
-**32:28** Na wanasema, “Ushindi huu ni lini, ikiwa mnasema kweli?”
+**32:28** Na wanasema, "Ushindi huu ni lini, ikiwa mnasema kweli?"
 
 وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْفَتْحُ إِن كُنتُمْ صَٰدِقِينَ
 
-**32:29** Sema, “Siku ya ushindi, imani ya wale waliokufuru haitawafaa, wala hawatapewa muhula.”
+**32:29** Sema, "Siku ya ushindi, imani ya wale waliokufuru haitawafaa, wala hawatapewa muhula."
 
 قُلْ يَوْمَ ٱلْفَتْحِ لَا يَنفَعُ ٱلَّذِينَ كَفَرُوٓا۟ إِيمَٰنُهُمْ وَلَا هُمْ يُنظَرُونَ
 
@@ -14722,11 +14722,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ وَزُلْزِلُوا۟ زِلْزَالًۭا شَدِيدًۭا
 
-**33:12** Wanafiki na wale wenye ugonjwa mioyoni mwao waliposema, “Allah na Mtume Wake hawakutuahidi ila udanganyifu.”
+**33:12** Wanafiki na wale wenye ugonjwa mioyoni mwao waliposema, "Allah na Mtume Wake hawakutuahidi ila udanganyifu."
 
 وَإِذْ يَقُولُ ٱلْمُنَٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ مَّا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥٓ إِلَّا غُرُورًۭا
 
-**33:13** Na kundi miongoni mwao liliposema, “Enyi watu wa Yathrib, hamuwezi kusimama, basi rudini nyuma.” Na kikundi miongoni mwao kilimwomba Nabii awape ruhusa, wakisema, “Nyumba zetu ziko wazi,” ingawa hazikuwa wazi. Walitaka tu kukimbia.
+**33:13** Na kundi miongoni mwao liliposema, "Enyi watu wa Yathrib, hamuwezi kusimama, basi rudini nyuma." Na kikundi miongoni mwao kilimwomba Nabii awape ruhusa, wakisema, "Nyumba zetu ziko wazi," ingawa hazikuwa wazi. Walitaka tu kukimbia.
 
 وَإِذْ قَالَت طَّآئِفَةٌۭ مِّنْهُمْ يَٰٓأَهْلَ يَثْرِبَ لَا مُقَامَ لَكُمْ فَٱرْجِعُوا۟ ۚ وَيَسْتَـْٔذِنُ فَرِيقٌۭ مِّنْهُمُ ٱلنَّبِىَّ يَقُولُونَ إِنَّ بُيُوتَنَا عَوْرَةٌۭ وَمَا هِىَ بِعَوْرَةٍ ۖ إِن يُرِيدُونَ إِلَّا فِرَارًۭا
 
@@ -14738,15 +14738,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَقَدْ كَانُوا۟ عَٰهَدُوا۟ ٱللَّهَ مِن قَبْلُ لَا يُوَلُّونَ ٱلْأَدْبَٰرَ ۚ وَكَانَ عَهْدُ ٱللَّهِ مَسْـُٔولًۭا
 
-**33:16** Sema, “Kukimbia hakutawafaa, mkikimbia kifo au kuuliwa, hata hivyo mtapewa starehe fupi tu.”
+**33:16** Sema, "Kukimbia hakutawafaa, mkikimbia kifo au kuuliwa, hata hivyo mtapewa starehe fupi tu."
 
 قُل لَّن يَنفَعَكُمُ ٱلْفِرَارُ إِن فَرَرْتُم مِّنَ ٱلْمَوْتِ أَوِ ٱلْقَتْلِ وَإِذًۭا لَّا تُمَتَّعُونَ إِلَّا قَلِيلًۭا
 
-**33:17** Sema, “Ni nani atakayewakinga na Allah, ikiwa anakusudia msiba kwenu, au anakusudia rehema kwenu?” Badala ya Allah, hawatajipatia rafiki wala msaidizi.
+**33:17** Sema, "Ni nani atakayewakinga na Allah, ikiwa anakusudia msiba kwenu, au anakusudia rehema kwenu?" Badala ya Allah, hawatajipatia rafiki wala msaidizi.
 
 قُلْ مَن ذَا ٱلَّذِى يَعْصِمُكُم مِّنَ ٱللَّهِ إِنْ أَرَادَ بِكُمْ سُوٓءًا أَوْ أَرَادَ بِكُمْ رَحْمَةًۭ ۚ وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيًّۭا وَلَا نَصِيرًۭا
 
-**33:18** Allah anawajua vizuizi miongoni mwenu, na wale wanaowaambia ndugu zao, “Njooni mjiunge nasi.” Ni mara chache wanajihamasisha kwa vita.
+**33:18** Allah anawajua vizuizi miongoni mwenu, na wale wanaowaambia ndugu zao, "Njooni mjiunge nasi." Ni mara chache wanajihamasisha kwa vita.
 
 ۞ قَدْ يَعْلَمُ ٱللَّهُ ٱلْمُعَوِّقِينَ مِنكُمْ وَٱلْقَآئِلِينَ لِإِخْوَٰنِهِمْ هَلُمَّ إِلَيْنَا ۖ وَلَا يَأْتُونَ ٱلْبَأْسَ إِلَّا قَلِيلًا
 
@@ -14762,7 +14762,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌۭ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْءَاخِرَ وَذَكَرَ ٱللَّهَ كَثِيرًۭا
 
-**33:22** Na waumini walipoyaona makundi yaliyoungana, walisema, “Hivi ndivyo Allah na Mtume Wake walivyotuahidi; na Allah na Mtume Wake wamesema kweli.” Na ika waongezea tu imani na kujisalimisha.
+**33:22** Na waumini walipoyaona makundi yaliyoungana, walisema, "Hivi ndivyo Allah na Mtume Wake walivyotuahidi; na Allah na Mtume Wake wamesema kweli." Na ika waongezea tu imani na kujisalimisha.
 
 وَلَمَّا رَءَا ٱلْمُؤْمِنُونَ ٱلْأَحْزَابَ قَالُوا۟ هَٰذَا مَا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥ وَصَدَقَ ٱللَّهُ وَرَسُولُهُۥ ۚ وَمَا زَادَهُمْ إِلَّآ إِيمَٰنًۭا وَتَسْلِيمًۭا
 
@@ -14786,11 +14786,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَٰرَهُمْ وَأَمْوَٰلَهُمْ وَأَرْضًۭا لَّمْ تَطَـُٔوهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرًۭا
 
-**33:28** Ewe Nabii! Waambie wake zako, “Mkitaka maisha ya dunia hii na urembo wake, basi nitawalipa, na kuwaacha kwa wema.
+**33:28** Ewe Nabii! Waambie wake zako, "Mkitaka maisha ya dunia hii na urembo wake, basi nitawalipa, na kuwaacha kwa wema.
 
 يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ إِن كُنتُنَّ تُرِدْنَ ٱلْحَيَوٰةَ ٱلدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ أُمَتِّعْكُنَّ وَأُسَرِّحْكُنَّ سَرَاحًۭا جَمِيلًۭا
 
-**33:29** Lakini mkimtaka Allah, na Mtume Wake, na Makao ya Akhera, basi Allah amewaandalia watenda mema miongoni mwenu malipo makubwa mno.”
+**33:29** Lakini mkimtaka Allah, na Mtume Wake, na Makao ya Akhera, basi Allah amewaandalia watenda mema miongoni mwenu malipo makubwa mno."
 
 وَإِن كُنتُنَّ تُرِدْنَ ٱللَّهَ وَرَسُولَهُۥ وَٱلدَّارَ ٱلْءَاخِرَةَ فَإِنَّ ٱللَّهَ أَعَدَّ لِلْمُحْسِنَٰتِ مِنكُنَّ أَجْرًا عَظِيمًۭا
 
@@ -14822,7 +14822,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمَا كَانَ لِمُؤْمِنٍۢ وَلَا مُؤْمِنَةٍ إِذَا قَضَى ٱللَّهُ وَرَسُولُهُۥٓ أَمْرًا أَن يَكُونَ لَهُمُ ٱلْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ ضَلَّ ضَلَٰلًۭا مُّبِينًۭا
 
-**33:37** Ulipomwambia yule ambaye Allah amemneemesha, na wewe umemfadhili, “Mshike mkeo kwako, na mche Allah.” Lakini ulificha ndani yako yale ambayo Allah alikuwa ayafunue. Na ukawaogopa watu, lakini Allah ndiye ulipaswa kumwogopa. Kisha, Zaid alipomaliza uhusiano wake naye, Tulimwoza kwako, ili kusiwe na kizuizi kwa waumini kuhusu wake wa watoto wao wa kuasili, uhusiano wao unapoisha. Amri ya Allah ilitimizwa.
+**33:37** Ulipomwambia yule ambaye Allah amemneemesha, na wewe umemfadhili, "Mshike mkeo kwako, na mche Allah." Lakini ulificha ndani yako yale ambayo Allah alikuwa ayafunue. Na ukawaogopa watu, lakini Allah ndiye ulipaswa kumwogopa. Kisha, Zaid alipomaliza uhusiano wake naye, Tulimwoza kwako, ili kusiwe na kizuizi kwa waumini kuhusu wake wa watoto wao wa kuasili, uhusiano wao unapoisha. Amri ya Allah ilitimizwa.
 
 وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌۭ مِّنْهَا وَطَرًۭا زَوَّجْنَٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌۭ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًۭا ۚ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًۭا
 
@@ -14850,7 +14850,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 هُوَ ٱلَّذِى يُصَلِّى عَلَيْكُمْ وَمَلَٰٓئِكَتُهُۥ لِيُخْرِجَكُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ ۚ وَكَانَ بِٱلْمُؤْمِنِينَ رَحِيمًۭا
 
-**33:44** Salamu yao Siku watakayokutana Naye ni, “Amani,” na amewaandalia malipo yenye ukarimu.
+**33:44** Salamu yao Siku watakayokutana Naye ni, "Amani," na amewaandalia malipo yenye ukarimu.
 
 تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُۥ سَلَٰمٌۭ ۚ وَأَعَدَّ لَهُمْ أَجْرًۭا كَرِيمًۭا
 
@@ -14926,7 +14926,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْا۟ مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًۭا
 
-**33:63** Watu wanakuuliza kuhusu ile Saa. Sema, “Elimu yake iko kwa Allah. Lakini unajua nini? Huenda ile Saa iko karibu.”
+**33:63** Watu wanakuuliza kuhusu ile Saa. Sema, "Elimu yake iko kwa Allah. Lakini unajua nini? Huenda ile Saa iko karibu."
 
 يَسْـَٔلُكَ ٱلنَّاسُ عَنِ ٱلسَّاعَةِ ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ ۚ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ تَكُونُ قَرِيبًا
 
@@ -14938,15 +14938,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 خَٰلِدِينَ فِيهَآ أَبَدًۭا ۖ لَّا يَجِدُونَ وَلِيًّۭا وَلَا نَصِيرًۭا
 
-**33:66** Siku nyuso zao zitakapogeuzwa ndani ya Moto, watasema, “Laiti tungaliwatii Allah na kumtii Mtume.”
+**33:66** Siku nyuso zao zitakapogeuzwa ndani ya Moto, watasema, "Laiti tungaliwatii Allah na kumtii Mtume."
 
 يَوْمَ تُقَلَّبُ وُجُوهُهُمْ فِى ٱلنَّارِ يَقُولُونَ يَٰلَيْتَنَآ أَطَعْنَا ٱللَّهَ وَأَطَعْنَا ٱلرَّسُولَا۠
 
-**33:67** Na watasema, “Mola wetu, tuliwatii wakubwa wetu na waheshimiwa wetu, lakini walitupotosha kutoka kwenye njia.
+**33:67** Na watasema, "Mola wetu, tuliwatii wakubwa wetu na waheshimiwa wetu, lakini walitupotosha kutoka kwenye njia.
 
 وَقَالُوا۟ رَبَّنَآ إِنَّآ أَطَعْنَا سَادَتَنَا وَكُبَرَآءَنَا فَأَضَلُّونَا ٱلسَّبِيلَا۠
 
-**33:68** Mola wetu, wape adhabu maradufu, na uwalaani kwa laana kubwa.”
+**33:68** Mola wetu, wape adhabu maradufu, na uwalaani kwa laana kubwa."
 
 رَبَّنَآ ءَاتِهِمْ ضِعْفَيْنِ مِنَ ٱلْعَذَابِ وَٱلْعَنْهُمْ لَعْنًۭا كَبِيرًۭا
 
@@ -14990,7 +14990,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا ۚ وَهُوَ ٱلرَّحِيمُ ٱلْغَفُورُ
 
-**34:3** Waliokufuru husema, “Ile Saa haitatujia.” Sema, “Naam, kwa Mola wangu, hakika itawajia. Yeye ni Mjuzi wa visivyoonekana.” Hakuna uzito wa chembe mbinguni na ardhini, wala kilicho kidogo au kikubwa zaidi, kinachomponyoka katika elimu Yake. Vyote viko katika Kitabu kilicho wazi.
+**34:3** Waliokufuru husema, "Ile Saa haitatujia." Sema, "Naam, kwa Mola wangu, hakika itawajia. Yeye ni Mjuzi wa visivyoonekana." Hakuna uzito wa chembe mbinguni na ardhini, wala kilicho kidogo au kikubwa zaidi, kinachomponyoka katika elimu Yake. Vyote viko katika Kitabu kilicho wazi.
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَا تَأْتِينَا ٱلسَّاعَةُ ۖ قُلْ بَلَىٰ وَرَبِّى لَتَأْتِيَنَّكُمْ عَٰلِمِ ٱلْغَيْبِ ۖ لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍۢ فِى ٱلسَّمَٰوَٰتِ وَلَا فِى ٱلْأَرْضِ وَلَآ أَصْغَرُ مِن ذَٰلِكَ وَلَآ أَكْبَرُ إِلَّا فِى كِتَٰبٍۢ مُّبِينٍۢ
 
@@ -15006,11 +15006,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَيَرَى ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ ٱلَّذِىٓ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ هُوَ ٱلْحَقَّ وَيَهْدِىٓ إِلَىٰ صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ
 
-**34:7** Waliokufuru walisema, “Je, tuwaonyeshe mtu, atakayewaambia kwamba, mkishachanika vipande vipande, mtakuwa katika uumbaji mpya?
+**34:7** Waliokufuru walisema, "Je, tuwaonyeshe mtu, atakayewaambia kwamba, mkishachanika vipande vipande, mtakuwa katika uumbaji mpya?
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ هَلْ نَدُلُّكُمْ عَلَىٰ رَجُلٍۢ يُنَبِّئُكُمْ إِذَا مُزِّقْتُمْ كُلَّ مُمَزَّقٍ إِنَّكُمْ لَفِى خَلْقٍۢ جَدِيدٍ
 
-**34:8** Je, amemzua uwongo Allah, au kuna wazimu ndani yake?” Bali, wale wasioamini Akhera wako katika mateso, na wamepotea mbali.
+**34:8** Je, amemzua uwongo Allah, au kuna wazimu ndani yake?" Bali, wale wasioamini Akhera wako katika mateso, na wamepotea mbali.
 
 أَفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَم بِهِۦ جِنَّةٌۢ ۗ بَلِ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ فِى ٱلْعَذَابِ وَٱلضَّلَٰلِ ٱلْبَعِيدِ
 
@@ -15018,11 +15018,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَفَلَمْ يَرَوْا۟ إِلَىٰ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ ۚ إِن نَّشَأْ نَخْسِفْ بِهِمُ ٱلْأَرْضَ أَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًۭا مِّنَ ٱلسَّمَآءِ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ لِّكُلِّ عَبْدٍۢ مُّنِيبٍۢ
 
-**34:10** Tulimpa Daudi fadhila kutoka Kwetu: “Enyi milima, na ndege: rudieni pamoja naye.” Na Tulimlainisha chuma.
+**34:10** Tulimpa Daudi fadhila kutoka Kwetu: "Enyi milima, na ndege: rudieni pamoja naye." Na Tulimlainisha chuma.
 
 ۞ وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ مِنَّا فَضْلًۭا ۖ يَٰجِبَالُ أَوِّبِى مَعَهُۥ وَٱلطَّيْرَ ۖ وَأَلَنَّا لَهُ ٱلْحَدِيدَ
 
-**34:11** “Tengeneza nguo za kivita, na pima viungo vizuri; na fanyeni mema. Mimi naona yote mnayoyafanya.”
+**34:11** "Tengeneza nguo za kivita, na pima viungo vizuri; na fanyeni mema. Mimi naona yote mnayoyafanya."
 
 أَنِ ٱعْمَلْ سَٰبِغَٰتٍۢ وَقَدِّرْ فِى ٱلسَّرْدِ ۖ وَٱعْمَلُوا۟ صَٰلِحًا ۖ إِنِّى بِمَا تَعْمَلُونَ بَصِيرٌۭ
 
@@ -15030,7 +15030,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلِسُلَيْمَٰنَ ٱلرِّيحَ غُدُوُّهَا شَهْرٌۭ وَرَوَاحُهَا شَهْرٌۭ ۖ وَأَسَلْنَا لَهُۥ عَيْنَ ٱلْقِطْرِ ۖ وَمِنَ ٱلْجِنِّ مَن يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِۦ ۖ وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا نُذِقْهُ مِنْ عَذَابِ ٱلسَّعِيرِ
 
-**34:13** Walimfanyia chochote alichotaka: misikiti, sanamu, mabakuli kama mabwawa, na masufuria mazito. “Enyi nyumba ya Daudi, fanyeni kazi kwa shukrani,” lakini wachache wa watumishi Wangu ni wenye shukrani.
+**34:13** Walimfanyia chochote alichotaka: misikiti, sanamu, mabakuli kama mabwawa, na masufuria mazito. "Enyi nyumba ya Daudi, fanyeni kazi kwa shukrani," lakini wachache wa watumishi Wangu ni wenye shukrani.
 
 يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٍۢ كَٱلْجَوَابِ وَقُدُورٍۢ رَّاسِيَٰتٍ ۚ ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًۭا ۚ وَقَلِيلٌۭ مِّنْ عِبَادِىَ ٱلشَّكُورُ
 
@@ -15038,7 +15038,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ
 
-**34:15** Katika nchi ya Saba kulikuwa na ajabu: bustani mbili, moja kulia, na nyingine kushoto. “Kuleni riziki ya Mola wenu, na mshukuruni.” Nchi nzuri, na Mola mwenye kusamehe.
+**34:15** Katika nchi ya Saba kulikuwa na ajabu: bustani mbili, moja kulia, na nyingine kushoto. "Kuleni riziki ya Mola wenu, na mshukuruni." Nchi nzuri, na Mola mwenye kusamehe.
 
 لَقَدْ كَانَ لِسَبَإٍۢ فِى مَسْكَنِهِمْ ءَايَةٌۭ ۖ جَنَّتَانِ عَن يَمِينٍۢ وَشِمَالٍۢ ۖ كُلُوا۟ مِن رِّزْقِ رَبِّكُمْ وَٱشْكُرُوا۟ لَهُۥ ۚ بَلْدَةٌۭ طَيِّبَةٌۭ وَرَبٌّ غَفُورٌۭ
 
@@ -15050,11 +15050,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ذَٰلِكَ جَزَيْنَٰهُم بِمَا كَفَرُوا۟ ۖ وَهَلْ نُجَٰزِىٓ إِلَّا ٱلْكَفُورَ
 
-**34:18** Kati yao na miji Tuliyoibariki, Tulijipanga miji iliyo wazi, na Tulifanya safari kati yao kuwa rahisi. “Safirini kati yao usiku na mchana, kwa usalama.”
+**34:18** Kati yao na miji Tuliyoibariki, Tulijipanga miji iliyo wazi, na Tulifanya safari kati yao kuwa rahisi. "Safirini kati yao usiku na mchana, kwa usalama."
 
 وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ ٱلْقُرَى ٱلَّتِى بَٰرَكْنَا فِيهَا قُرًۭى ظَٰهِرَةًۭ وَقَدَّرْنَا فِيهَا ٱلسَّيْرَ ۖ سِيرُوا۟ فِيهَا لَيَالِىَ وَأَيَّامًا ءَامِنِينَ
 
-**34:19** Lakini walisema, “Mola wetu, refuisha masafa ya safari zetu.” Walijidhulumu wenyewe; basi Tuliwafanya historia, na Tukawatawanya kila upande. Hakika katika hayo kuna masomo kwa kila mwenye subira na shukrani.
+**34:19** Lakini walisema, "Mola wetu, refuisha masafa ya safari zetu." Walijidhulumu wenyewe; basi Tuliwafanya historia, na Tukawatawanya kila upande. Hakika katika hayo kuna masomo kwa kila mwenye subira na shukrani.
 
 فَقَالُوا۟ رَبَّنَا بَٰعِدْ بَيْنَ أَسْفَارِنَا وَظَلَمُوٓا۟ أَنفُسَهُمْ فَجَعَلْنَٰهُمْ أَحَادِيثَ وَمَزَّقْنَٰهُمْ كُلَّ مُمَزَّقٍ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّكُلِّ صَبَّارٍۢ شَكُورٍۢ
 
@@ -15066,27 +15066,27 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمَا كَانَ لَهُۥ عَلَيْهِم مِّن سُلْطَٰنٍ إِلَّا لِنَعْلَمَ مَن يُؤْمِنُ بِٱلْءَاخِرَةِ مِمَّنْ هُوَ مِنْهَا فِى شَكٍّۢ ۗ وَرَبُّكَ عَلَىٰ كُلِّ شَىْءٍ حَفِيظٌۭ
 
-**34:22** Sema, “Waite wale mnayodai badala ya Allah. Hawamiliki uzito wa chembe mbinguni wala ardhini, wala hawana sehemu yoyote katika hivyo, wala Yeye hana wasaidizi miongoni mwao.”
+**34:22** Sema, "Waite wale mnayodai badala ya Allah. Hawamiliki uzito wa chembe mbinguni wala ardhini, wala hawana sehemu yoyote katika hivyo, wala Yeye hana wasaidizi miongoni mwao."
 
 قُلِ ٱدْعُوا۟ ٱلَّذِينَ زَعَمْتُم مِّن دُونِ ٱللَّهِ ۖ لَا يَمْلِكُونَ مِثْقَالَ ذَرَّةٍۢ فِى ٱلسَّمَٰوَٰتِ وَلَا فِى ٱلْأَرْضِ وَمَا لَهُمْ فِيهِمَا مِن شِرْكٍۢ وَمَا لَهُۥ مِنْهُم مِّن ظَهِيرٍۢ
 
-**34:23** Uombezi Kwake hauna thamani, isipokuwa kwa yule ambaye amemruhusu. Hadi, hofu itakapoondoka mioyoni mwao, watasema, “Mola wenu amesema nini?” Watasema, “Kweli, na Yeye ni Aliye juu, Mkubwa.”
+**34:23** Uombezi Kwake hauna thamani, isipokuwa kwa yule ambaye amemruhusu. Hadi, hofu itakapoondoka mioyoni mwao, watasema, "Mola wenu amesema nini?" Watasema, "Kweli, na Yeye ni Aliye juu, Mkubwa."
 
 وَلَا تَنفَعُ ٱلشَّفَٰعَةُ عِندَهُۥٓ إِلَّا لِمَنْ أَذِنَ لَهُۥ ۚ حَتَّىٰٓ إِذَا فُزِّعَ عَن قُلُوبِهِمْ قَالُوا۟ مَاذَا قَالَ رَبُّكُمْ ۖ قَالُوا۟ ٱلْحَقَّ ۖ وَهُوَ ٱلْعَلِىُّ ٱلْكَبِيرُ
 
-**34:24** Sema, “Nani anayewapa riziki kutoka mbinguni na ardhini?” Sema, “Allah. Na ama nyinyi, au sisi, tuko kwenye mwongozo sahihi, au katika upotofu ulio wazi.”
+**34:24** Sema, "Nani anayewapa riziki kutoka mbinguni na ardhini?" Sema, "Allah. Na ama nyinyi, au sisi, tuko kwenye mwongozo sahihi, au katika upotofu ulio wazi."
 
 ۞ قُلْ مَن يَرْزُقُكُم مِّنَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ قُلِ ٱللَّهُ ۖ وَإِنَّآ أَوْ إِيَّاكُمْ لَعَلَىٰ هُدًى أَوْ فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
-**34:25** Sema, “Hamtaulizwa juu ya makosa yetu, wala sisi hatutaulizwa juu ya mnayoyafanya.”
+**34:25** Sema, "Hamtaulizwa juu ya makosa yetu, wala sisi hatutaulizwa juu ya mnayoyafanya."
 
 قُل لَّا تُسْـَٔلُونَ عَمَّآ أَجْرَمْنَا وَلَا نُسْـَٔلُ عَمَّا تَعْمَلُونَ
 
-**34:26** Sema, “Mola wetu atatukusanya pamoja; kisha atahukumu baina yetu kwa haki. Yeye ni Hakimu Mjuzi wa yote.”
+**34:26** Sema, "Mola wetu atatukusanya pamoja; kisha atahukumu baina yetu kwa haki. Yeye ni Hakimu Mjuzi wa yote."
 
 قُلْ يَجْمَعُ بَيْنَنَا رَبُّنَا ثُمَّ يَفْتَحُ بَيْنَنَا بِٱلْحَقِّ وَهُوَ ٱلْفَتَّاحُ ٱلْعَلِيمُ
 
-**34:27** Sema, “Nionyesheni wale mliowaambatanisha Naye kama washirika. Hasha! Bali Yeye ni Allah, Mwenye nguvu, Mwenye hekima.”
+**34:27** Sema, "Nionyesheni wale mliowaambatanisha Naye kama washirika. Hasha! Bali Yeye ni Allah, Mwenye nguvu, Mwenye hekima."
 
 قُلْ أَرُونِىَ ٱلَّذِينَ أَلْحَقْتُم بِهِۦ شُرَكَآءَ ۖ كَلَّا ۚ بَلْ هُوَ ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
@@ -15094,35 +15094,35 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمَآ أَرْسَلْنَٰكَ إِلَّا كَآفَّةًۭ لِّلنَّاسِ بَشِيرًۭا وَنَذِيرًۭا وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
-**34:29** Na wanasema, “Ahadi hii ni lini, ikiwa mnasema kweli?”
+**34:29** Na wanasema, "Ahadi hii ni lini, ikiwa mnasema kweli?"
 
 وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
 
-**34:30** Sema, “Mmeahidiwa Siku, ambayo hamwezi kuichelewesha kwa saa moja, wala kuitanguliza.”
+**34:30** Sema, "Mmeahidiwa Siku, ambayo hamwezi kuichelewesha kwa saa moja, wala kuitanguliza."
 
 قُل لَّكُم مِّيعَادُ يَوْمٍۢ لَّا تَسْتَـْٔخِرُونَ عَنْهُ سَاعَةًۭ وَلَا تَسْتَقْدِمُونَ
 
-**34:31** Waliokufuru husema, “Hatutaiamini kamwe Kurani hii, wala yaliyotangulia.” Lau ungewaona waovu, wakiwa mateka mbele ya Mola wao, wakitupiana maneno wao kwa wao. Waliokuwa wameonewa watawaambia waliokuwa na kiburi, “Lau si nyinyi, tungalikuwa waumini.”
+**34:31** Waliokufuru husema, "Hatutaiamini kamwe Kurani hii, wala yaliyotangulia." Lau ungewaona waovu, wakiwa mateka mbele ya Mola wao, wakitupiana maneno wao kwa wao. Waliokuwa wameonewa watawaambia waliokuwa na kiburi, "Lau si nyinyi, tungalikuwa waumini."
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَن نُّؤْمِنَ بِهَٰذَا ٱلْقُرْءَانِ وَلَا بِٱلَّذِى بَيْنَ يَدَيْهِ ۗ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ مَوْقُوفُونَ عِندَ رَبِّهِمْ يَرْجِعُ بَعْضُهُمْ إِلَىٰ بَعْضٍ ٱلْقَوْلَ يَقُولُ ٱلَّذِينَ ٱسْتُضْعِفُوا۟ لِلَّذِينَ ٱسْتَكْبَرُوا۟ لَوْلَآ أَنتُمْ لَكُنَّا مُؤْمِنِينَ
 
-**34:32** Waliokuwa na kiburi watawaambia waliokuwa wameonewa, “Je, sisi ndio tuliwazuia kutoka mwongozoni ulipowajia? Hasha, nyinyi wenyewe mlikuwa wenye dhambi.”
+**34:32** Waliokuwa na kiburi watawaambia waliokuwa wameonewa, "Je, sisi ndio tuliwazuia kutoka mwongozoni ulipowajia? Hasha, nyinyi wenyewe mlikuwa wenye dhambi."
 
 قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوا۟ لِلَّذِينَ ٱسْتُضْعِفُوٓا۟ أَنَحْنُ صَدَدْنَٰكُمْ عَنِ ٱلْهُدَىٰ بَعْدَ إِذْ جَآءَكُم ۖ بَلْ كُنتُم مُّجْرِمِينَ
 
-**34:33** Na waliokuwa wameonewa watawaambia waliokuwa na kiburi, “Ilikuwa ni njama zenu za usiku na mchana; mlipotuamuru kumkataa Allah, na kumwekea washindani.” Wataficha majuto yao watakapoona adhabu. Tutaweka minyororo shingoni mwa waliokufuru. Je, watalipwa kwa lolote isipokuwa yale waliyokuwa wakitenda?
+**34:33** Na waliokuwa wameonewa watawaambia waliokuwa na kiburi, "Ilikuwa ni njama zenu za usiku na mchana; mlipotuamuru kumkataa Allah, na kumwekea washindani." Wataficha majuto yao watakapoona adhabu. Tutaweka minyororo shingoni mwa waliokufuru. Je, watalipwa kwa lolote isipokuwa yale waliyokuwa wakitenda?
 
 وَقَالَ ٱلَّذِينَ ٱسْتُضْعِفُوا۟ لِلَّذِينَ ٱسْتَكْبَرُوا۟ بَلْ مَكْرُ ٱلَّيْلِ وَٱلنَّهَارِ إِذْ تَأْمُرُونَنَآ أَن نَّكْفُرَ بِٱللَّهِ وَنَجْعَلَ لَهُۥٓ أَندَادًۭا ۚ وَأَسَرُّوا۟ ٱلنَّدَامَةَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ وَجَعَلْنَا ٱلْأَغْلَٰلَ فِىٓ أَعْنَاقِ ٱلَّذِينَ كَفَرُوا۟ ۚ هَلْ يُجْزَوْنَ إِلَّا مَا كَانُوا۟ يَعْمَلُونَ
 
-**34:34** Hatukutuma mwonyaji kwa mji wowote, isipokuwa matajiri wake walisema, “Tunakataa mnayotumwa nayo.”
+**34:34** Hatukutuma mwonyaji kwa mji wowote, isipokuwa matajiri wake walisema, "Tunakataa mnayotumwa nayo."
 
 وَمَآ أَرْسَلْنَا فِى قَرْيَةٍۢ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ إِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَٰفِرُونَ
 
-**34:35** Na husema, “Tuna mali nyingi na watoto wengi, wala hatutaadhibiwa.”
+**34:35** Na husema, "Tuna mali nyingi na watoto wengi, wala hatutaadhibiwa."
 
 وَقَالُوا۟ نَحْنُ أَكْثَرُ أَمْوَٰلًۭا وَأَوْلَٰدًۭا وَمَا نَحْنُ بِمُعَذَّبِينَ
 
-**34:36** Sema, “Mola wangu hukunjua riziki Yake kwa anayemtaka, au huipunguza; lakini watu wengi hawajui.”
+**34:36** Sema, "Mola wangu hukunjua riziki Yake kwa anayemtaka, au huipunguza; lakini watu wengi hawajui."
 
 قُلْ إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
@@ -15134,23 +15134,23 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَٱلَّذِينَ يَسْعَوْنَ فِىٓ ءَايَٰتِنَا مُعَٰجِزِينَ أُو۟لَٰٓئِكَ فِى ٱلْعَذَابِ مُحْضَرُونَ
 
-**34:39** Sema, “Mola wangu humkunjulia riziki anayemtaka miongoni mwa watumishi Wake, au humzuia. Chochote mnachokitoa, Yeye atakibadili. Yeye ni Mbora wa watoa riziki.”
+**34:39** Sema, "Mola wangu humkunjulia riziki anayemtaka miongoni mwa watumishi Wake, au humzuia. Chochote mnachokitoa, Yeye atakibadili. Yeye ni Mbora wa watoa riziki."
 
 قُلْ إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَهُۥ ۚ وَمَآ أَنفَقْتُم مِّن شَىْءٍۢ فَهُوَ يُخْلِفُهُۥ ۖ وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ
 
-**34:40** Siku atakayowakusanya wote pamoja, kisha atawaambia malaika, “Je, hawa walikuwa wakiwaabudu nyinyi?”
+**34:40** Siku atakayowakusanya wote pamoja, kisha atawaambia malaika, "Je, hawa walikuwa wakiwaabudu nyinyi?"
 
 وَيَوْمَ يَحْشُرُهُمْ جَمِيعًۭا ثُمَّ يَقُولُ لِلْمَلَٰٓئِكَةِ أَهَٰٓؤُلَآءِ إِيَّاكُمْ كَانُوا۟ يَعْبُدُونَ
 
-**34:41** Watasema, “Utukufu ni Wako; Wewe ni Mola wetu, si wao. Bali, walikuwa wakiwaabudu majini, na wengi wao walikuwa na imani kwao.”
+**34:41** Watasema, "Utukufu ni Wako; Wewe ni Mola wetu, si wao. Bali, walikuwa wakiwaabudu majini, na wengi wao walikuwa na imani kwao."
 
 قَالُوا۟ سُبْحَٰنَكَ أَنتَ وَلِيُّنَا مِن دُونِهِم ۖ بَلْ كَانُوا۟ يَعْبُدُونَ ٱلْجِنَّ ۖ أَكْثَرُهُم بِهِم مُّؤْمِنُونَ
 
-**34:42** “Leo, hakuna yeyote miongoni mwenu mwenye uwezo wa kumsaidia au kumdhuru mwingine.” Na Tutawaambia wale waliofanya uovu, “Onjeni mateso ya Moto ambao mlikuwa mkiukana.”
+**34:42** "Leo, hakuna yeyote miongoni mwenu mwenye uwezo wa kumsaidia au kumdhuru mwingine." Na Tutawaambia wale waliofanya uovu, "Onjeni mateso ya Moto ambao mlikuwa mkiukana."
 
 فَٱلْيَوْمَ لَا يَمْلِكُ بَعْضُكُمْ لِبَعْضٍۢ نَّفْعًۭا وَلَا ضَرًّۭا وَنَقُولُ لِلَّذِينَ ظَلَمُوا۟ ذُوقُوا۟ عَذَابَ ٱلنَّارِ ٱلَّتِى كُنتُم بِهَا تُكَذِّبُونَ
 
-**34:43** Na aya Zetu zenye kubainisha zikisomwa kwao, husema, “Huyu si lolote ila ni mtu anayetaka kuwazuia na yale mababu zenu waliyokuwa wakiyaabudu.” Na husema, “Hii si lolote ila ni uwongo uliozuliwa.” Na Ukweli unapowajia, makafiri husema juu ya Ukweli, “Hii si lolote ila ni uchawi wa wazi.”
+**34:43** Na aya Zetu zenye kubainisha zikisomwa kwao, husema, "Huyu si lolote ila ni mtu anayetaka kuwazuia na yale mababu zenu waliyokuwa wakiyaabudu." Na husema, "Hii si lolote ila ni uwongo uliozuliwa." Na Ukweli unapowajia, makafiri husema juu ya Ukweli, "Hii si lolote ila ni uchawi wa wazi."
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ قَالُوا۟ مَا هَٰذَآ إِلَّا رَجُلٌۭ يُرِيدُ أَن يَصُدَّكُمْ عَمَّا كَانَ يَعْبُدُ ءَابَآؤُكُمْ وَقَالُوا۟ مَا هَٰذَآ إِلَّآ إِفْكٌۭ مُّفْتَرًۭى ۚ وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلْحَقِّ لَمَّا جَآءَهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌۭ
 
@@ -15162,23 +15162,23 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَكَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ وَمَا بَلَغُوا۟ مِعْشَارَ مَآ ءَاتَيْنَٰهُمْ فَكَذَّبُوا۟ رُسُلِى ۖ فَكَيْفَ كَانَ نَكِيرِ
 
-**34:46** Sema, “Nawapa shauri moja: jitoeni kwa Allah, wawili wawili, au mmoja mmoja; kisha mtafaksi. Hakuna wazimu kwa rafiki yenu. Yeye ni mwonyaji tu kwenu, kabla ya adhabu kali.”
+**34:46** Sema, "Nawapa shauri moja: jitoeni kwa Allah, wawili wawili, au mmoja mmoja; kisha mtafaksi. Hakuna wazimu kwa rafiki yenu. Yeye ni mwonyaji tu kwenu, kabla ya adhabu kali."
 
 ۞ قُلْ إِنَّمَآ أَعِظُكُم بِوَٰحِدَةٍ ۖ أَن تَقُومُوا۟ لِلَّهِ مَثْنَىٰ وَفُرَٰدَىٰ ثُمَّ تَتَفَكَّرُوا۟ ۚ مَا بِصَاحِبِكُم مِّن جِنَّةٍ ۚ إِنْ هُوَ إِلَّا نَذِيرٌۭ لَّكُم بَيْنَ يَدَىْ عَذَابٍۢ شَدِيدٍۢ
 
-**34:47** Sema, “Fidia yoyote niliyowaomba, ni yenu. Fidia yangu inatoka kwa Allah tu, na Yeye ni Shahidi wa vitu vyote.”
+**34:47** Sema, "Fidia yoyote niliyowaomba, ni yenu. Fidia yangu inatoka kwa Allah tu, na Yeye ni Shahidi wa vitu vyote."
 
 قُلْ مَا سَأَلْتُكُم مِّنْ أَجْرٍۢ فَهُوَ لَكُمْ ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدٌۭ
 
-**34:48** Sema, “Mola wangu huirusha kweli. Yeye ni Mjuzi wa visivyoonekana.”
+**34:48** Sema, "Mola wangu huirusha kweli. Yeye ni Mjuzi wa visivyoonekana."
 
 قُلْ إِنَّ رَبِّى يَقْذِفُ بِٱلْحَقِّ عَلَّٰمُ ٱلْغُيُوبِ
 
-**34:49** Sema, “Kweli imekuja; na uwongo hauwezi kuanza chochote, wala kurudia.”
+**34:49** Sema, "Kweli imekuja; na uwongo hauwezi kuanza chochote, wala kurudia."
 
 قُلْ جَآءَ ٱلْحَقُّ وَمَا يُبْدِئُ ٱلْبَٰطِلُ وَمَا يُعِيدُ
 
-**34:50** Sema, “Nikikosea, nakosea kwa hasara yangu mwenyewe; lakini nikiongozwa, ni kwa yale Mola wangu anayonifunulia. Yeye ni Mwenye kusikia na Aliye karibu.”
+**34:50** Sema, "Nikikosea, nakosea kwa hasara yangu mwenyewe; lakini nikiongozwa, ni kwa yale Mola wangu anayonifunulia. Yeye ni Mwenye kusikia na Aliye karibu."
 
 قُلْ إِن ضَلَلْتُ فَإِنَّمَآ أَضِلُّ عَلَىٰ نَفْسِى ۖ وَإِنِ ٱهْتَدَيْتُ فَبِمَا يُوحِىٓ إِلَىَّ رَبِّىٓ ۚ إِنَّهُۥ سَمِيعٌۭ قَرِيبٌۭ
 
@@ -15186,7 +15186,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَوْ تَرَىٰٓ إِذْ فَزِعُوا۟ فَلَا فَوْتَ وَأُخِذُوا۟ مِن مَّكَانٍۢ قَرِيبٍۢ
 
-**34:52** Na wanasema, “Tumeiamini.” Lakini wataipataje kutoka mahali pa mbali?
+**34:52** Na wanasema, "Tumeiamini." Lakini wataipataje kutoka mahali pa mbali?
 
 وَقَالُوٓا۟ ءَامَنَّا بِهِۦ وَأَنَّىٰ لَهُمُ ٱلتَّنَاوُشُ مِن مَّكَانٍۭ بَعِيدٍۢ
 
@@ -15342,11 +15342,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 جَنَّٰتُ عَدْنٍۢ يَدْخُلُونَهَا يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍۢ وَلُؤْلُؤًۭا ۖ وَلِبَاسُهُمْ فِيهَا حَرِيرٌۭ
 
-**35:34** Na watasema, “Sifa ni za Allah, aliye tuondolea huzuni yote. Mola wetu ni Mwenye kusamehe sana, Mwenye shukrani sana.
+**35:34** Na watasema, "Sifa ni za Allah, aliye tuondolea huzuni yote. Mola wetu ni Mwenye kusamehe sana, Mwenye shukrani sana.
 
 وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَذْهَبَ عَنَّا ٱلْحَزَنَ ۖ إِنَّ رَبَّنَا لَغَفُورٌۭ شَكُورٌ
 
-**35:35** Ambaye ametuamirisha katika Makao ya Kudumu, kwa fadhila Zake, ambapo uchovu hautatugusa, wala kuchoka hakutatufikia.”
+**35:35** Ambaye ametuamirisha katika Makao ya Kudumu, kwa fadhila Zake, ambapo uchovu hautatugusa, wala kuchoka hakutatufikia."
 
 ٱلَّذِىٓ أَحَلَّنَا دَارَ ٱلْمُقَامَةِ مِن فَضْلِهِۦ لَا يَمَسُّنَا فِيهَا نَصَبٌۭ وَلَا يَمَسُّنَا فِيهَا لُغُوبٌۭ
 
@@ -15354,7 +15354,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَٱلَّذِينَ كَفَرُوا۟ لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُوا۟ وَلَا يُخَفَّفُ عَنْهُم مِّنْ عَذَابِهَا ۚ كَذَٰلِكَ نَجْزِى كُلَّ كَفُورٍۢ
 
-**35:37** Na watapiga kelele humo, “Mola wetu, tutoe nje, na tutafanya mema, tofauti na tulivyokuwa tukifanya.” Je, hatukuwapa maisha marefu ya kutosha, ambayo yeyote aliyetaka kuelewa angeliweza kuelewa? Na mwonyaji aliwajia. Basi onjeni. Waovu hawatakuwa na msaidizi.
+**35:37** Na watapiga kelele humo, "Mola wetu, tutoe nje, na tutafanya mema, tofauti na tulivyokuwa tukifanya." Je, hatukuwapa maisha marefu ya kutosha, ambayo yeyote aliyetaka kuelewa angeliweza kuelewa? Na mwonyaji aliwajia. Basi onjeni. Waovu hawatakuwa na msaidizi.
 
 وَهُمْ يَصْطَرِخُونَ فِيهَا رَبَّنَآ أَخْرِجْنَا نَعْمَلْ صَٰلِحًا غَيْرَ ٱلَّذِى كُنَّا نَعْمَلُ ۚ أَوَلَمْ نُعَمِّرْكُم مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ وَجَآءَكُمُ ٱلنَّذِيرُ ۖ فَذُوقُوا۟ فَمَا لِلظَّٰلِمِينَ مِن نَّصِيرٍ
 
@@ -15366,7 +15366,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 هُوَ ٱلَّذِى جَعَلَكُمْ خَلَٰٓئِفَ فِى ٱلْأَرْضِ ۚ فَمَن كَفَرَ فَعَلَيْهِ كُفْرُهُۥ ۖ وَلَا يَزِيدُ ٱلْكَٰفِرِينَ كُفْرُهُمْ عِندَ رَبِّهِمْ إِلَّا مَقْتًۭا ۖ وَلَا يَزِيدُ ٱلْكَٰفِرِينَ كُفْرُهُمْ إِلَّا خَسَارًۭا
 
-**35:40** Sema, “Je, mmefikiria juu ya washirika wenu mnaowaabudu badala ya Allah? Nionyesheni wameumba nini ardhini. Au wana sehemu yoyote mbinguni?” Au Tumewapa kitabu ambacho mafundisho yake yaliyo wazi wanayafuata? Bali, waovu huahidi wao kwa wao ila udanganyifu tu.
+**35:40** Sema, "Je, mmefikiria juu ya washirika wenu mnaowaabudu badala ya Allah? Nionyesheni wameumba nini ardhini. Au wana sehemu yoyote mbinguni?" Au Tumewapa kitabu ambacho mafundisho yake yaliyo wazi wanayafuata? Bali, waovu huahidi wao kwa wao ila udanganyifu tu.
 
 قُلْ أَرَءَيْتُمْ شُرَكَآءَكُمُ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌۭ فِى ٱلسَّمَٰوَٰتِ أَمْ ءَاتَيْنَٰهُمْ كِتَٰبًۭا فَهُمْ عَلَىٰ بَيِّنَتٍۢ مِّنْهُ ۚ بَلْ إِن يَعِدُ ٱلظَّٰلِمُونَ بَعْضُهُم بَعْضًا إِلَّا غُرُورًا
 
@@ -15454,31 +15454,31 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَٱضْرِبْ لَهُم مَّثَلًا أَصْحَٰبَ ٱلْقَرْيَةِ إِذْ جَآءَهَا ٱلْمُرْسَلُونَ
 
-**36:14** Tuliwatuma mitume wawili, lakini waliwakataa wote wawili, basi Tukawaimarisha kwa wa tatu. Wakasema, “Sisi ni mitume kwenu.”
+**36:14** Tuliwatuma mitume wawili, lakini waliwakataa wote wawili, basi Tukawaimarisha kwa wa tatu. Wakasema, "Sisi ni mitume kwenu."
 
 إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ
 
-**36:15** Wakasema, “Nyinyi si lolote ila wanadamu kama sisi, na Mwingi wa rehema hakuteremsha chochote; nyinyi mnasema uwongo tu.”
+**36:15** Wakasema, "Nyinyi si lolote ila wanadamu kama sisi, na Mwingi wa rehema hakuteremsha chochote; nyinyi mnasema uwongo tu."
 
 قَالُوا۟ مَآ أَنتُمْ إِلَّا بَشَرٌۭ مِّثْلُنَا وَمَآ أَنزَلَ ٱلرَّحْمَٰنُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا تَكْذِبُونَ
 
-**36:16** Wakasema, “Mola wetu anajua kwamba sisi ni mitume kwenu.
+**36:16** Wakasema, "Mola wetu anajua kwamba sisi ni mitume kwenu.
 
 قَالُوا۟ رَبُّنَا يَعْلَمُ إِنَّآ إِلَيْكُمْ لَمُرْسَلُونَ
 
-**36:17** Na jukumu letu si ila kuwasilisha kwa uwazi.”
+**36:17** Na jukumu letu si ila kuwasilisha kwa uwazi."
 
 وَمَا عَلَيْنَآ إِلَّا ٱلْبَلَٰغُ ٱلْمُبِينُ
 
-**36:18** Wakasema, “Tunaona ishara mbaya kwenu; msipoacha, tutawapiga mawe, na adhabu yenye uchungu kutoka kwetu itawafikia.”
+**36:18** Wakasema, "Tunaona ishara mbaya kwenu; msipoacha, tutawapiga mawe, na adhabu yenye uchungu kutoka kwetu itawafikia."
 
 قَالُوٓا۟ إِنَّا تَطَيَّرْنَا بِكُمْ ۖ لَئِن لَّمْ تَنتَهُوا۟ لَنَرْجُمَنَّكُمْ وَلَيَمَسَّنَّكُم مِّنَّا عَذَابٌ أَلِيمٌۭ
 
-**36:19** Wakasema, “Ishara yenu mbaya iko juu yenu wenyewe. Je, ni kwa sababu mlakumbushwa? Bali nyinyi ni watu wenye kupita kiasi.”
+**36:19** Wakasema, "Ishara yenu mbaya iko juu yenu wenyewe. Je, ni kwa sababu mlakumbushwa? Bali nyinyi ni watu wenye kupita kiasi."
 
 قَالُوا۟ طَٰٓئِرُكُم مَّعَكُمْ ۚ أَئِن ذُكِّرْتُم ۚ بَلْ أَنتُمْ قَوْمٌۭ مُّسْرِفُونَ
 
-**36:20** Kisha mtu mmoja akaja akikimbia kutoka sehemu ya mbali kabisa ya mji. Akasema, “Enyi watu wangu, wafuate mitume.
+**36:20** Kisha mtu mmoja akaja akikimbia kutoka sehemu ya mbali kabisa ya mji. Akasema, "Enyi watu wangu, wafuate mitume.
 
 وَجَآءَ مِنْ أَقْصَا ٱلْمَدِينَةِ رَجُلٌۭ يَسْعَىٰ قَالَ يَٰقَوْمِ ٱتَّبِعُوا۟ ٱلْمُرْسَلِينَ
 
@@ -15486,7 +15486,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ٱتَّبِعُوا۟ مَن لَّا يَسْـَٔلُكُمْ أَجْرًۭا وَهُم مُّهْتَدُونَ
 
-**36:22** “Na kwa nini nisimwabudu Yeye aliyeniumba, na Kwake mtarejeshwa?
+**36:22** "Na kwa nini nisimwabudu Yeye aliyeniumba, na Kwake mtarejeshwa?
 
 وَمَا لِىَ لَآ أَعْبُدُ ٱلَّذِى فَطَرَنِى وَإِلَيْهِ تُرْجَعُونَ
 
@@ -15498,15 +15498,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنِّىٓ إِذًۭا لَّفِى ضَلَٰلٍۢ مُّبِينٍ
 
-**36:25** Nimeamini Mola wenu, basi nisikilizeni.”
+**36:25** Nimeamini Mola wenu, basi nisikilizeni."
 
 إِنِّىٓ ءَامَنتُ بِرَبِّكُمْ فَٱسْمَعُونِ
 
-**36:26** Ikasemwa, “Ingia Peponi.” Akasema, “Laiti watu wangu wangalijua.
+**36:26** Ikasemwa, "Ingia Peponi." Akasema, "Laiti watu wangu wangalijua.
 
 قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَٰلَيْتَ قَوْمِى يَعْلَمُونَ
 
-**36:27** Jinsi Mola wangu amenisamehe, na amenifanya miongoni mwa wenye kuheshimiwa.”
+**36:27** Jinsi Mola wangu amenisamehe, na amenifanya miongoni mwa wenye kuheshimiwa."
 
 بِمَا غَفَرَ لِى رَبِّى وَجَعَلَنِى مِنَ ٱلْمُكْرَمِينَ
 
@@ -15578,7 +15578,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِلَّا رَحْمَةًۭ مِّنَّا وَمَتَٰعًا إِلَىٰ حِينٍۢ
 
-**36:45** Lakini wakiambiwa, “Jihadharini na yaliyo mbele yenu, na yaliyo nyuma yenu, ili mpate rehema.”
+**36:45** Lakini wakiambiwa, "Jihadharini na yaliyo mbele yenu, na yaliyo nyuma yenu, ili mpate rehema."
 
 وَإِذَا قِيلَ لَهُمُ ٱتَّقُوا۟ مَا بَيْنَ أَيْدِيكُمْ وَمَا خَلْفَكُمْ لَعَلَّكُمْ تُرْحَمُونَ
 
@@ -15586,11 +15586,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمَا تَأْتِيهِم مِّنْ ءَايَةٍۢ مِّنْ ءَايَٰتِ رَبِّهِمْ إِلَّا كَانُوا۟ عَنْهَا مُعْرِضِينَ
 
-**36:47** Na wakiambiwa, “Toeni katika yale Allah aliyowapa riziki,” waliokufuru huwaambia walioamini, “Je, tumlishe yule ambaye Allah angeliweza kumlisha, akitaka? Hakika nyinyi mmepotea kwa uwazi.”
+**36:47** Na wakiambiwa, "Toeni katika yale Allah aliyowapa riziki," waliokufuru huwaambia walioamini, "Je, tumlishe yule ambaye Allah angeliweza kumlisha, akitaka? Hakika nyinyi mmepotea kwa uwazi."
 
 وَإِذَا قِيلَ لَهُمْ أَنفِقُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَنُطْعِمُ مَن لَّوْ يَشَآءُ ٱللَّهُ أَطْعَمَهُۥٓ إِنْ أَنتُمْ إِلَّا فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
-**36:48** Na wanasema, “Ahadi hii ni lini, ikiwa mnasema kweli?”
+**36:48** Na wanasema, "Ahadi hii ni lini, ikiwa mnasema kweli?"
 
 وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -15606,7 +15606,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَنُفِخَ فِى ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ
 
-**36:52** Watasema, “Ole wetu! Nani aliyetufufua kutoka mahali petu pa kupumzika?” Hiki ndicho Mwingi wa rehema alichoahidi, na mitume walisema kweli.
+**36:52** Watasema, "Ole wetu! Nani aliyetufufua kutoka mahali petu pa kupumzika?" Hiki ndicho Mwingi wa rehema alichoahidi, na mitume walisema kweli.
 
 قَالُوا۟ يَٰوَيْلَنَا مَنۢ بَعَثَنَا مِن مَّرْقَدِنَا ۜ ۗ هَٰذَا مَا وَعَدَ ٱلرَّحْمَٰنُ وَصَدَقَ ٱلْمُرْسَلُونَ
 
@@ -15710,11 +15710,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَوَلَمْ يَرَ ٱلْإِنسَٰنُ أَنَّا خَلَقْنَٰهُ مِن نُّطْفَةٍۢ فَإِذَا هُوَ خَصِيمٌۭ مُّبِينٌۭ
 
-**36:78** Na anatoa hoja dhidi Yetu, na anasahau uumbaji wake mwenyewe. Anasema, “Nani ataihuisha mifupa ikiwa imeoza?”
+**36:78** Na anatoa hoja dhidi Yetu, na anasahau uumbaji wake mwenyewe. Anasema, "Nani ataihuisha mifupa ikiwa imeoza?"
 
 وَضَرَبَ لَنَا مَثَلًۭا وَنَسِىَ خَلْقَهُۥ ۖ قَالَ مَن يُحْىِ ٱلْعِظَٰمَ وَهِىَ رَمِيمٌۭ
 
-**36:79** Sema, “Ataihuisha Yeye aliyeianzisha mara ya kwanza. Yeye ana elimu ya kila uumbaji.”
+**36:79** Sema, "Ataihuisha Yeye aliyeianzisha mara ya kwanza. Yeye ana elimu ya kila uumbaji."
 
 قُلْ يُحْيِيهَا ٱلَّذِىٓ أَنشَأَهَآ أَوَّلَ مَرَّةٍۢ ۖ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ
 
@@ -15726,7 +15726,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَوَلَيْسَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِقَٰدِرٍ عَلَىٰٓ أَن يَخْلُقَ مِثْلَهُم ۚ بَلَىٰ وَهُوَ ٱلْخَلَّٰقُ ٱلْعَلِيمُ
 
-**36:82** Amri Yake, anapotaka kitu, ni kukiambia, “Kuwa,” na kinakuwa.
+**36:82** Amri Yake, anapotaka kitu, ni kukiambia, "Kuwa," na kinakuwa.
 
 إِنَّمَآ أَمْرُهُۥٓ إِذَآ أَرَادَ شَيْـًٔا أَن يَقُولَ لَهُۥ كُن فَيَكُونُ
 
@@ -17188,7 +17188,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَكَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ كَفَرُوٓا۟ أَنَّهُمْ أَصْحَٰبُ ٱلنَّارِ
 
-**40:7** Wale wanaobeba Arshi, na wale walio karibu nayo, wanamtukuza Mola wao kwa sifa, na wanamwamini Yeye, na wanaomba msamaha kwa wale walioamini: “Mola wetu, Wewe umekusanya kila kitu katika rehema na ujuzi; basi wasamehe wale waliotubu na kufuata njia Yako, na waepushe na adhabu ya Moto uwakao.
+**40:7** Wale wanaobeba Arshi, na wale walio karibu nayo, wanamtukuza Mola wao kwa sifa, na wanamwamini Yeye, na wanaomba msamaha kwa wale walioamini: "Mola wetu, Wewe umekusanya kila kitu katika rehema na ujuzi; basi wasamehe wale waliotubu na kufuata njia Yako, na waepushe na adhabu ya Moto uwakao.
 
 ٱلَّذِينَ يَحْمِلُونَ ٱلْعَرْشَ وَمَنْ حَوْلَهُۥ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِۦ وَيَسْتَغْفِرُونَ لِلَّذِينَ ءَامَنُوا۟ رَبَّنَا وَسِعْتَ كُلَّ شَىْءٍۢ رَّحْمَةًۭ وَعِلْمًۭا فَٱغْفِرْ لِلَّذِينَ تَابُوا۟ وَٱتَّبَعُوا۟ سَبِيلَكَ وَقِهِمْ عَذَابَ ٱلْجَحِيمِ
 
@@ -17196,15 +17196,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 رَبَّنَا وَأَدْخِلْهُمْ جَنَّٰتِ عَدْنٍ ٱلَّتِى وَعَدتَّهُمْ وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّٰتِهِمْ ۚ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**40:9** Na waepushe na maovu. Yeyote Wewe unayemwepusha na maovu, siku hiyo, Wewe umemrehemu. Hiyo ndiyo mafanikio makuu.”
+**40:9** Na waepushe na maovu. Yeyote Wewe unayemwepusha na maovu, siku hiyo, Wewe umemrehemu. Hiyo ndiyo mafanikio makuu."
 
 وَقِهِمُ ٱلسَّيِّـَٔاتِ ۚ وَمَن تَقِ ٱلسَّيِّـَٔاتِ يَوْمَئِذٍۢ فَقَدْ رَحِمْتَهُۥ ۚ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
-**40:10** Wale waliokufuru wataambiwa, “Kuchukia kwa Allah ni kukubwa kuliko kujichukia kwenu — kwa maana mliitwa kwenye imani, lakini mkakataa.”
+**40:10** Wale waliokufuru wataambiwa, "Kuchukia kwa Allah ni kukubwa kuliko kujichukia kwenu — kwa maana mliitwa kwenye imani, lakini mkakataa."
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ يُنَادَوْنَ لَمَقْتُ ٱللَّهِ أَكْبَرُ مِن مَّقْتِكُمْ أَنفُسَكُمْ إِذْ تُدْعَوْنَ إِلَى ٱلْإِيمَٰنِ فَتَكْفُرُونَ
 
-**40:11** Watasema, “Mola wetu, Wewe ulitufisha mara mbili, na mara mbili ulituhuisha. Sasa tunakiri dhambi zetu. Je, kuna njia yoyote ya kutoka?”
+**40:11** Watasema, "Mola wetu, Wewe ulitufisha mara mbili, na mara mbili ulituhuisha. Sasa tunakiri dhambi zetu. Je, kuna njia yoyote ya kutoka?"
 
 قَالُوا۟ رَبَّنَآ أَمَتَّنَا ٱثْنَتَيْنِ وَأَحْيَيْتَنَا ٱثْنَتَيْنِ فَٱعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَىٰ خُرُوجٍۢ مِّن سَبِيلٍۢ
 
@@ -17224,7 +17224,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 رَفِيعُ ٱلدَّرَجَٰتِ ذُو ٱلْعَرْشِ يُلْقِى ٱلرُّوحَ مِنْ أَمْرِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ لِيُنذِرَ يَوْمَ ٱلتَّلَاقِ
 
-**40:16** Siku ambayo watatoka, hakuna chochote kuhusu wao kitakachofichika kwa Allah. “Ufalme ni wa nani leo?” “Ni wa Allah, wa Pekee, Asiyeshindika.”
+**40:16** Siku ambayo watatoka, hakuna chochote kuhusu wao kitakachofichika kwa Allah. "Ufalme ni wa nani leo?" "Ni wa Allah, wa Pekee, Asiyeshindika."
 
 يَوْمَ هُم بَٰرِزُونَ ۖ لَا يَخْفَىٰ عَلَى ٱللَّهِ مِنْهُمْ شَىْءٌۭ ۚ لِّمَنِ ٱلْمُلْكُ ٱلْيَوْمَ ۖ لِلَّهِ ٱلْوَٰحِدِ ٱلْقَهَّارِ
 
@@ -17256,31 +17256,31 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَا وَسُلْطَٰنٍۢ مُّبِينٍ
 
-**40:24** Kwa Firauni, Hamani, na Karuni. Lakini walisema, “Mchawi muongo.”
+**40:24** Kwa Firauni, Hamani, na Karuni. Lakini walisema, "Mchawi muongo."
 
 إِلَىٰ فِرْعَوْنَ وَهَٰمَٰنَ وَقَٰرُونَ فَقَالُوا۟ سَٰحِرٌۭ كَذَّابٌۭ
 
-**40:25** Kisha, alipowafikia kwa ukweli kutoka Kwetu, walisema, “Waueni wana wa wale walioamini pamoja naye, na waacheni hai binti zao.” Lakini njama za makafiri haziwi ila kupotea.
+**40:25** Kisha, alipowafikia kwa ukweli kutoka Kwetu, walisema, "Waueni wana wa wale walioamini pamoja naye, na waacheni hai binti zao." Lakini njama za makafiri haziwi ila kupotea.
 
 فَلَمَّا جَآءَهُم بِٱلْحَقِّ مِنْ عِندِنَا قَالُوا۟ ٱقْتُلُوٓا۟ أَبْنَآءَ ٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ وَٱسْتَحْيُوا۟ نِسَآءَهُمْ ۚ وَمَا كَيْدُ ٱلْكَٰفِرِينَ إِلَّا فِى ضَلَٰلٍۢ
 
-**40:26** Firauni akasema, “Niachieni nimuue Musa, na amwite Mola wake. Naogopa anaweza kubadili dini yenu, au kueneza uharibifu katika ardhi.”
+**40:26** Firauni akasema, "Niachieni nimuue Musa, na amwite Mola wake. Naogopa anaweza kubadili dini yenu, au kueneza uharibifu katika ardhi."
 
 وَقَالَ فِرْعَوْنُ ذَرُونِىٓ أَقْتُلْ مُوسَىٰ وَلْيَدْعُ رَبَّهُۥٓ ۖ إِنِّىٓ أَخَافُ أَن يُبَدِّلَ دِينَكُمْ أَوْ أَن يُظْهِرَ فِى ٱلْأَرْضِ ٱلْفَسَادَ
 
-**40:27** Musa akasema, “Nimeomba hifadhi kwa Mola wangu na Mola wenu, dhidi ya kila mwenye kiburi asiyeamini Siku ya Hesabu.”
+**40:27** Musa akasema, "Nimeomba hifadhi kwa Mola wangu na Mola wenu, dhidi ya kila mwenye kiburi asiyeamini Siku ya Hesabu."
 
 وَقَالَ مُوسَىٰٓ إِنِّى عُذْتُ بِرَبِّى وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرٍۢ لَّا يُؤْمِنُ بِيَوْمِ ٱلْحِسَابِ
 
-**40:28** Mtu muumini kutoka katika familia ya Firauni, aliyekuwa ameficha imani yake, akasema, “Je, mtamuua mtu kwa kusema, ‘Mola wangu ni Allah,’ na amewaletea dalili zilizo wazi kutoka kwa Mola wenu? Ikiwa ni muongo, uongo wake utamrudia; lakini ikiwa ni mkweli, basi baadhi ya yale anayowaahidi yatakupateni. Allah hamwongoi mwenye kupita kiasi, muongo mkuu.
+**40:28** Mtu muumini kutoka katika familia ya Firauni, aliyekuwa ameficha imani yake, akasema, "Je, mtamuua mtu kwa kusema, 'Mola wangu ni Allah,' na amewaletea dalili zilizo wazi kutoka kwa Mola wenu? Ikiwa ni muongo, uongo wake utamrudia; lakini ikiwa ni mkweli, basi baadhi ya yale anayowaahidi yatakupateni. Allah hamwongoi mwenye kupita kiasi, muongo mkuu.
 
 وَقَالَ رَجُلٌۭ مُّؤْمِنٌۭ مِّنْ ءَالِ فِرْعَوْنَ يَكْتُمُ إِيمَٰنَهُۥٓ أَتَقْتُلُونَ رَجُلًا أَن يَقُولَ رَبِّىَ ٱللَّهُ وَقَدْ جَآءَكُم بِٱلْبَيِّنَٰتِ مِن رَّبِّكُمْ ۖ وَإِن يَكُ كَٰذِبًۭا فَعَلَيْهِ كَذِبُهُۥ ۖ وَإِن يَكُ صَادِقًۭا يُصِبْكُم بَعْضُ ٱلَّذِى يَعِدُكُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ مُسْرِفٌۭ كَذَّابٌۭ
 
-**40:29** Enyi watu wangu! Ufalme ni wenu leo, mnatawala katika ardhi; lakini ni nani atakayetusaidia dhidi ya nguvu za Allah, ikiwa itatufikia?” Firauni akasema, “Siwaonyeshi ila yale niyoyaona, na siwaongoi ila kwenye njia ya busara.”
+**40:29** Enyi watu wangu! Ufalme ni wenu leo, mnatawala katika ardhi; lakini ni nani atakayetusaidia dhidi ya nguvu za Allah, ikiwa itatufikia?" Firauni akasema, "Siwaonyeshi ila yale niyoyaona, na siwaongoi ila kwenye njia ya busara."
 
 يَٰقَوْمِ لَكُمُ ٱلْمُلْكُ ٱلْيَوْمَ ظَٰهِرِينَ فِى ٱلْأَرْضِ فَمَن يَنصُرُنَا مِنۢ بَأْسِ ٱللَّهِ إِن جَآءَنَا ۚ قَالَ فِرْعَوْنُ مَآ أُرِيكُمْ إِلَّا مَآ أَرَىٰ وَمَآ أَهْدِيكُمْ إِلَّا سَبِيلَ ٱلرَّشَادِ
 
-**40:30** Yule aliyeamini akasema, “Enyi watu wangu, naogopa juu yenu mfano wa siku ya makundi.
+**40:30** Yule aliyeamini akasema, "Enyi watu wangu, naogopa juu yenu mfano wa siku ya makundi.
 
 وَقَالَ ٱلَّذِىٓ ءَامَنَ يَٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُم مِّثْلَ يَوْمِ ٱلْأَحْزَابِ
 
@@ -17292,11 +17292,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَيَٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُمْ يَوْمَ ٱلتَّنَادِ
 
-**40:33** Siku ambayo mtageuka na kukimbia, hamna mlinzi dhidi ya Allah. Yeyote ambaye Allah amempoteza hana mwongozaji.”
+**40:33** Siku ambayo mtageuka na kukimbia, hamna mlinzi dhidi ya Allah. Yeyote ambaye Allah amempoteza hana mwongozaji."
 
 يَوْمَ تُوَلُّونَ مُدْبِرِينَ مَا لَكُم مِّنَ ٱللَّهِ مِنْ عَاصِمٍۢ ۗ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍۢ
 
-**40:34** Yusufu aliwafikia kwa ufunuo ulio wazi, lakini mliendelea kuwa na shaka juu ya yale aliyoyaleta kwenu. Hata, alipokufa, mkasema, “Allah hatatuma mtume baada yake kamwe.” Hivyo Allah humwacha kupotea mwenye kupita kiasi, mwenye shaka.
+**40:34** Yusufu aliwafikia kwa ufunuo ulio wazi, lakini mliendelea kuwa na shaka juu ya yale aliyoyaleta kwenu. Hata, alipokufa, mkasema, "Allah hatatuma mtume baada yake kamwe." Hivyo Allah humwacha kupotea mwenye kupita kiasi, mwenye shaka.
 
 وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ
 
@@ -17304,19 +17304,19 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ٱلَّذِينَ يُجَٰدِلُونَ فِىٓ ءَايَٰتِ ٱللَّهِ بِغَيْرِ سُلْطَٰنٍ أَتَىٰهُمْ ۖ كَبُرَ مَقْتًا عِندَ ٱللَّهِ وَعِندَ ٱلَّذِينَ ءَامَنُوا۟ ۚ كَذَٰلِكَ يَطْبَعُ ٱللَّهُ عَلَىٰ كُلِّ قَلْبِ مُتَكَبِّرٍۢ جَبَّارٍۢ
 
-**40:36** Na Firauni akasema, “Ewe Hamani, nijengee mnara, ili nifike kwenye njia.
+**40:36** Na Firauni akasema, "Ewe Hamani, nijengee mnara, ili nifike kwenye njia.
 
 وَقَالَ فِرْعَوْنُ يَٰهَٰمَٰنُ ٱبْنِ لِى صَرْحًۭا لَّعَلِّىٓ أَبْلُغُ ٱلْأَسْبَٰبَ
 
-**40:37** Njia za mbinguni, ili nimtazame Allah wa Musa; ingawa nafikiri yeye ni muongo.” Hivyo maovu ya Firauni yalifanywa yaonekane mazuri kwake, na akazuiliwa kutoka kwenye njia. Hila za Firauni zilikuwa tu katika kushindwa.
+**40:37** Njia za mbinguni, ili nimtazame Allah wa Musa; ingawa nafikiri yeye ni muongo." Hivyo maovu ya Firauni yalifanywa yaonekane mazuri kwake, na akazuiliwa kutoka kwenye njia. Hila za Firauni zilikuwa tu katika kushindwa.
 
 أَسْبَٰبَ ٱلسَّمَٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ
 
-**40:38** Yule aliyeamini akasema, “Enyi watu wangu, nifuateni, na nitawaongoza kwenye njia ya uongofu.”
+**40:38** Yule aliyeamini akasema, "Enyi watu wangu, nifuateni, na nitawaongoza kwenye njia ya uongofu."
 
 وَقَالَ ٱلَّذِىٓ ءَامَنَ يَٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ
 
-**40:39** “Enyi watu wangu, maisha ya dunia hii si chochote ila starehe ya kupita, lakini Akhera ndiyo Nyumba ya Kudumu.
+**40:39** "Enyi watu wangu, maisha ya dunia hii si chochote ila starehe ya kupita, lakini Akhera ndiyo Nyumba ya Kudumu.
 
 يَٰقَوْمِ إِنَّمَا هَٰذِهِ ٱلْحَيَوٰةُ ٱلدُّنْيَا مَتَٰعٌۭ وَإِنَّ ٱلْءَاخِرَةَ هِىَ دَارُ ٱلْقَرَارِ
 
@@ -17336,7 +17336,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 لَا جَرَمَ أَنَّمَا تَدْعُونَنِىٓ إِلَيْهِ لَيْسَ لَهُۥ دَعْوَةٌۭ فِى ٱلدُّنْيَا وَلَا فِى ٱلْءَاخِرَةِ وَأَنَّ مَرَدَّنَآ إِلَى ٱللَّهِ وَأَنَّ ٱلْمُسْرِفِينَ هُمْ أَصْحَٰبُ ٱلنَّارِ
 
-**40:44** Mtakumbuka yale ninayowaambia, basi nalikabidhi shauri langu kwa Allah. Allah ni Mwona wa waja.”
+**40:44** Mtakumbuka yale ninayowaambia, basi nalikabidhi shauri langu kwa Allah. Allah ni Mwona wa waja."
 
 فَسَتَذْكُرُونَ مَآ أَقُولُ لَكُمْ ۚ وَأُفَوِّضُ أَمْرِىٓ إِلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ بَصِيرٌۢ بِٱلْعِبَادِ
 
@@ -17344,23 +17344,23 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ
 
-**40:46** Moto. Wataonyeshwa huo asubuhi na jioni. Na Siku ile Saa itakapotokea: “Waingizeni watu wa Firauni katika adhabu kali zaidi.”
+**40:46** Moto. Wataonyeshwa huo asubuhi na jioni. Na Siku ile Saa itakapotokea: "Waingizeni watu wa Firauni katika adhabu kali zaidi."
 
 ٱلنَّارُ يُعْرَضُونَ عَلَيْهَا غُدُوًّۭا وَعَشِيًّۭا ۖ وَيَوْمَ تَقُومُ ٱلسَّاعَةُ أَدْخِلُوٓا۟ ءَالَ فِرْعَوْنَ أَشَدَّ ٱلْعَذَابِ
 
-**40:47** Watakapogombana Motoni, wanyonge watawaambia wale waliokuwa na kiburi, “Sisi tulikuwa wafuasi wenu; je, basi mtatuondolea sehemu ya Moto?”
+**40:47** Watakapogombana Motoni, wanyonge watawaambia wale waliokuwa na kiburi, "Sisi tulikuwa wafuasi wenu; je, basi mtatuondolea sehemu ya Moto?"
 
 وَإِذْ يَتَحَآجُّونَ فِى ٱلنَّارِ فَيَقُولُ ٱلضُّعَفَٰٓؤُا۟ لِلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُنَّا لَكُمْ تَبَعًۭا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا نَصِيبًۭا مِّنَ ٱلنَّارِ
 
-**40:48** Wale waliokuwa na kiburi watasema, “Sisi sote tuko humo; Allah amehukumu kati ya waja.”
+**40:48** Wale waliokuwa na kiburi watasema, "Sisi sote tuko humo; Allah amehukumu kati ya waja."
 
 قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُلٌّۭ فِيهَآ إِنَّ ٱللَّهَ قَدْ حَكَمَ بَيْنَ ٱلْعِبَادِ
 
-**40:49** Na wale walio Motoni watawaambia walinzi wa Jahannamu, “Mwombeni Mola wenu atupunguzie adhabu yetu kwa siku moja.”
+**40:49** Na wale walio Motoni watawaambia walinzi wa Jahannamu, "Mwombeni Mola wenu atupunguzie adhabu yetu kwa siku moja."
 
 وَقَالَ ٱلَّذِينَ فِى ٱلنَّارِ لِخَزَنَةِ جَهَنَّمَ ٱدْعُوا۟ رَبَّكُمْ يُخَفِّفْ عَنَّا يَوْمًۭا مِّنَ ٱلْعَذَابِ
 
-**40:50** Watasema, “Je, wajumbe wenu hawakuwafikia kwa ishara zilizo wazi?” Watasema, “Ndiyo.” Watasema, “Basi ombeni, lakini maombi ya makafiri yatakuwa tu bure.”
+**40:50** Watasema, "Je, wajumbe wenu hawakuwafikia kwa ishara zilizo wazi?" Watasema, "Ndiyo." Watasema, "Basi ombeni, lakini maombi ya makafiri yatakuwa tu bure."
 
 قَالُوٓا۟ أَوَلَمْ تَكُ تَأْتِيكُمْ رُسُلُكُم بِٱلْبَيِّنَٰتِ ۖ قَالُوا۟ بَلَىٰ ۚ قَالُوا۟ فَٱدْعُوا۟ ۗ وَمَا دُعَٰٓؤُا۟ ٱلْكَٰفِرِينَ إِلَّا فِى ضَلَٰلٍ
 
@@ -17400,7 +17400,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنَّ ٱلسَّاعَةَ لَءَاتِيَةٌۭ لَّا رَيْبَ فِيهَا وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ
 
-**40:60** Mola wenu amesema, “Niombeni, Nami nitawaitikia. Lakini wale wenye kiburi mno kuabudu Mimi wataingia Jahannamu kwa nguvu.”
+**40:60** Mola wenu amesema, "Niombeni, Nami nitawaitikia. Lakini wale wenye kiburi mno kuabudu Mimi wataingia Jahannamu kwa nguvu."
 
 وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 
@@ -17424,7 +17424,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 هُوَ ٱلْحَىُّ لَآ إِلَٰهَ إِلَّا هُوَ فَٱدْعُوهُ مُخْلِصِينَ لَهُ ٱلدِّينَ ۗ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
-**40:66** Sema, “Nimekatazwa kuwaabudu wale mnaowaomba badala ya Allah, sasa ambapo ufunuo ulio wazi umenifikia kutoka kwa Mola wangu; na nimeamrishwa kunyenyekea kwa Mola wa walimwengu wote.”
+**40:66** Sema, "Nimekatazwa kuwaabudu wale mnaowaomba badala ya Allah, sasa ambapo ufunuo ulio wazi umenifikia kutoka kwa Mola wangu; na nimeamrishwa kunyenyekea kwa Mola wa walimwengu wote."
 
 ۞ قُلْ إِنِّى نُهِيتُ أَنْ أَعْبُدَ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ لَمَّا جَآءَنِىَ ٱلْبَيِّنَٰتُ مِن رَّبِّى وَأُمِرْتُ أَنْ أُسْلِمَ لِرَبِّ ٱلْعَٰلَمِينَ
 
@@ -17432,7 +17432,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 هُوَ ٱلَّذِى خَلَقَكُم مِّن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ مِنْ عَلَقَةٍۢ ثُمَّ يُخْرِجُكُمْ طِفْلًۭا ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ ثُمَّ لِتَكُونُوا۟ شُيُوخًۭا ۚ وَمِنكُم مَّن يُتَوَفَّىٰ مِن قَبْلُ ۖ وَلِتَبْلُغُوٓا۟ أَجَلًۭا مُّسَمًّۭى وَلَعَلَّكُمْ تَعْقِلُونَ
 
-**40:68** Yeye ndiye anayehuisha na kufisha; na anapoamua jambo, huliambia tu, “Kuwa,” nalo huwa.
+**40:68** Yeye ndiye anayehuisha na kufisha; na anapoamua jambo, huliambia tu, "Kuwa," nalo huwa.
 
 هُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ ۖ فَإِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 
@@ -17452,11 +17452,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فِى ٱلْحَمِيمِ ثُمَّ فِى ٱلنَّارِ يُسْجَرُونَ
 
-**40:73** Kisha wataambiwa, “Wako wapi wale mliokuwa mkiwaabudu kama miungu?
+**40:73** Kisha wataambiwa, "Wako wapi wale mliokuwa mkiwaabudu kama miungu?
 
 ثُمَّ قِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تُشْرِكُونَ
 
-**40:74** Badala ya Allah?” Watasema, “Wametuacha. Kwa hakika, hatukuwa tukiomba chochote kabla.” Hivyo Allah huwaacha makafiri kupotea.
+**40:74** Badala ya Allah?" Watasema, "Wametuacha. Kwa hakika, hatukuwa tukiomba chochote kabla." Hivyo Allah huwaacha makafiri kupotea.
 
 مِن دُونِ ٱللَّهِ ۖ قَالُوا۟ ضَلُّوا۟ عَنَّا بَل لَّمْ نَكُن نَّدْعُوا۟ مِن قَبْلُ شَيْـًۭٔا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ ٱلْكَٰفِرِينَ
 
@@ -17496,7 +17496,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَلَمَّا جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَرِحُوا۟ بِمَا عِندَهُم مِّنَ ٱلْعِلْمِ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**40:84** Kisha, walipoona nguvu Zetu, wakasema, “Tunamwamini Allah pekee, na tunawakataa wale tuliokuwa tukimshirikisha Naye.”
+**40:84** Kisha, walipoona nguvu Zetu, wakasema, "Tunamwamini Allah pekee, na tunawakataa wale tuliokuwa tukimshirikisha Naye."
 
 فَلَمَّا رَأَوْا۟ بَأْسَنَا قَالُوٓا۟ ءَامَنَّا بِٱللَّهِ وَحْدَهُۥ وَكَفَرْنَا بِمَا كُنَّا بِهِۦ مُشْرِكِينَ
 
@@ -17532,11 +17532,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 بَشِيرًۭا وَنَذِيرًۭا فَأَعْرَضَ أَكْثَرُهُمْ فَهُمْ لَا يَسْمَعُونَ
 
-**41:5** Na wanasema, “Nyoyo zetu zimefunikwa dhidi ya yale unayotuiitia, na masikioni mwetu kuna uziwi, na kati yetu na wewe kuna kizuizi. Basi fanya unachotaka, na sisi pia tutafanya.”
+**41:5** Na wanasema, "Nyoyo zetu zimefunikwa dhidi ya yale unayotuiitia, na masikioni mwetu kuna uziwi, na kati yetu na wewe kuna kizuizi. Basi fanya unachotaka, na sisi pia tutafanya."
 
 وَقَالُوا۟ قُلُوبُنَا فِىٓ أَكِنَّةٍۢ مِّمَّا تَدْعُونَآ إِلَيْهِ وَفِىٓ ءَاذَانِنَا وَقْرٌۭ وَمِنۢ بَيْنِنَا وَبَيْنِكَ حِجَابٌۭ فَٱعْمَلْ إِنَّنَا عَٰمِلُونَ
 
-**41:6** Sema, “Mimi ni binadamu tu kama ninyi; nimefunuliwa kwamba Allah wenu ni Allah Mmoja. Basi nyookeni Kwake, na muombeni msamaha.” Na ole kwa washirikina.
+**41:6** Sema, "Mimi ni binadamu tu kama ninyi; nimefunuliwa kwamba Allah wenu ni Allah Mmoja. Basi nyookeni Kwake, na muombeni msamaha." Na ole kwa washirikina.
 
 قُلْ إِنَّمَآ أَنَا۠ بَشَرٌۭ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَٰهُكُمْ إِلَٰهٌۭ وَٰحِدٌۭ فَٱسْتَقِيمُوٓا۟ إِلَيْهِ وَٱسْتَغْفِرُوهُ ۗ وَوَيْلٌۭ لِّلْمُشْرِكِينَ
 
@@ -17548,7 +17548,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۢ
 
-**41:9** Sema, “Je, mnamkataa Yule aliyeumba ardhi kwa siku mbili? Na mnamfanyia washirika? Huyo ndiye Mola wa walimwengu.”
+**41:9** Sema, "Je, mnamkataa Yule aliyeumba ardhi kwa siku mbili? Na mnamfanyia washirika? Huyo ndiye Mola wa walimwengu."
 
 ۞ قُلْ أَئِنَّكُمْ لَتَكْفُرُونَ بِٱلَّذِى خَلَقَ ٱلْأَرْضَ فِى يَوْمَيْنِ وَتَجْعَلُونَ لَهُۥٓ أَندَادًۭا ۚ ذَٰلِكَ رَبُّ ٱلْعَٰلَمِينَ
 
@@ -17556,7 +17556,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَجَعَلَ فِيهَا رَوَٰسِىَ مِن فَوْقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا فِىٓ أَرْبَعَةِ أَيَّامٍۢ سَوَآءًۭ لِّلسَّآئِلِينَ
 
-**41:11** Kisha akageukia mbingu, na ilikuwa moshi, na akasema kwa mbingu na ardhi, “Njooni, kwa kupenda au kwa kutopenda.” Wakasema, “Tunakuja kwa kupenda.”
+**41:11** Kisha akageukia mbingu, na ilikuwa moshi, na akasema kwa mbingu na ardhi, "Njooni, kwa kupenda au kwa kutopenda." Wakasema, "Tunakuja kwa kupenda."
 
 ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌۭ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا أَوْ كَرْهًۭا قَالَتَآ أَتَيْنَا طَآئِعِينَ
 
@@ -17564,15 +17564,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَقَضَىٰهُنَّ سَبْعَ سَمَٰوَاتٍۢ فِى يَوْمَيْنِ وَأَوْحَىٰ فِى كُلِّ سَمَآءٍ أَمْرَهَا ۚ وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَحِفْظًۭا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ
 
-**41:13** Lakini wakigeuka, sema, “Nimewaonya juu ya radi, kama radi ya Adi na Thamudi.”
+**41:13** Lakini wakigeuka, sema, "Nimewaonya juu ya radi, kama radi ya Adi na Thamudi."
 
 فَإِنْ أَعْرَضُوا۟ فَقُلْ أَنذَرْتُكُمْ صَٰعِقَةًۭ مِّثْلَ صَٰعِقَةِ عَادٍۢ وَثَمُودَ
 
-**41:14** Wajumbe wao wakawafikia, kutoka mbele yao na kutoka nyuma yao, wakisema, “Msimwabudu yeyote ila Allah.” Wakasema, “Kama Mola wetu angetaka, angeteremsha malaika; kwa hiyo, tunayakataa yale mliyotumwa nayo.”
+**41:14** Wajumbe wao wakawafikia, kutoka mbele yao na kutoka nyuma yao, wakisema, "Msimwabudu yeyote ila Allah." Wakasema, "Kama Mola wetu angetaka, angeteremsha malaika; kwa hiyo, tunayakataa yale mliyotumwa nayo."
 
 إِذْ جَآءَتْهُمُ ٱلرُّسُلُ مِنۢ بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ ۖ قَالُوا۟ لَوْ شَآءَ رَبُّنَا لَأَنزَلَ مَلَٰٓئِكَةًۭ فَإِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَٰفِرُونَ
 
-**41:15** Na ama Adi, walijivuna duniani, na kupinga haki, na wakasema, “Ni nani mwenye nguvu zaidi kuliko sisi?” Je, hawakuona kwamba Allah, aliyewaumba, ni Mwenye nguvu zaidi kuliko wao? Na waliendelea kuzikana aya Zetu.
+**41:15** Na ama Adi, walijivuna duniani, na kupinga haki, na wakasema, "Ni nani mwenye nguvu zaidi kuliko sisi?" Je, hawakuona kwamba Allah, aliyewaumba, ni Mwenye nguvu zaidi kuliko wao? Na waliendelea kuzikana aya Zetu.
 
 فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَٰتِنَا يَجْحَدُونَ
 
@@ -17596,7 +17596,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 حَتَّىٰٓ إِذَا مَا جَآءُوهَا شَهِدَ عَلَيْهِمْ سَمْعُهُمْ وَأَبْصَٰرُهُمْ وَجُلُودُهُم بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**41:21** Na wataziambia ngozi zao, “Kwa nini mlitushuhudia dhidi yetu?” Watasema, “Allah, ambaye huvifanya vitu vyote vizungumze, ametufanya tuzungumze. Yeye ndiye aliyewaumba mara ya kwanza, na Kwake mnarudishwa.”
+**41:21** Na wataziambia ngozi zao, "Kwa nini mlitushuhudia dhidi yetu?" Watasema, "Allah, ambaye huvifanya vitu vyote vizungumze, ametufanya tuzungumze. Yeye ndiye aliyewaumba mara ya kwanza, na Kwake mnarudishwa."
 
 وَقَالُوا۟ لِجُلُودِهِمْ لِمَ شَهِدتُّمْ عَلَيْنَا ۖ قَالُوٓا۟ أَنطَقَنَا ٱللَّهُ ٱلَّذِىٓ أَنطَقَ كُلَّ شَىْءٍۢ وَهُوَ خَلَقَكُمْ أَوَّلَ مَرَّةٍۢ وَإِلَيْهِ تُرْجَعُونَ
 
@@ -17616,7 +17616,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ۞ وَقَيَّضْنَا لَهُمْ قُرَنَآءَ فَزَيَّنُوا۟ لَهُم مَّا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَحَقَّ عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍۢ قَدْ خَلَتْ مِن قَبْلِهِم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ۖ إِنَّهُمْ كَانُوا۟ خَٰسِرِينَ
 
-**41:26** Wale waliokufuru wanasema, “Msiisikilize Kurani hii, na pigeni kelele juu yake, ili mpate kushinda.”
+**41:26** Wale waliokufuru wanasema, "Msiisikilize Kurani hii, na pigeni kelele juu yake, ili mpate kushinda."
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَا تَسْمَعُوا۟ لِهَٰذَا ٱلْقُرْءَانِ وَٱلْغَوْا۟ فِيهِ لَعَلَّكُمْ تَغْلِبُونَ
 
@@ -17628,11 +17628,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ذَٰلِكَ جَزَآءُ أَعْدَآءِ ٱللَّهِ ٱلنَّارُ ۖ لَهُمْ فِيهَا دَارُ ٱلْخُلْدِ ۖ جَزَآءًۢ بِمَا كَانُوا۟ بِـَٔايَٰتِنَا يَجْحَدُونَ
 
-**41:29** Wale waliokufuru watasema, “Mola wetu, tuonyeshe wale waliotupoteza — miongoni mwa majini na wanadamu — na tutawakanyaga chini ya miguu yetu, ili wawe miongoni mwa walio chini zaidi.”
+**41:29** Wale waliokufuru watasema, "Mola wetu, tuonyeshe wale waliotupoteza — miongoni mwa majini na wanadamu — na tutawakanyaga chini ya miguu yetu, ili wawe miongoni mwa walio chini zaidi."
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ رَبَّنَآ أَرِنَا ٱلَّذَيْنِ أَضَلَّانَا مِنَ ٱلْجِنِّ وَٱلْإِنسِ نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا لِيَكُونَا مِنَ ٱلْأَسْفَلِينَ
 
-**41:30** Hakika, wale wanaosema: “Mola wetu ni Allah,” na kisha wakanyooka, malaika watawateremkia: “Msiogope, na msihuzunike, bali furahini kwa habari ya Bustani mliyoahidiwa.
+**41:30** Hakika, wale wanaosema: "Mola wetu ni Allah," na kisha wakanyooka, malaika watawateremkia: "Msiogope, na msihuzunike, bali furahini kwa habari ya Bustani mliyoahidiwa.
 
 إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَٰمُوا۟ تَتَنَزَّلُ عَلَيْهِمُ ٱلْمَلَٰٓئِكَةُ أَلَّا تَخَافُوا۟ وَلَا تَحْزَنُوا۟ وَأَبْشِرُوا۟ بِٱلْجَنَّةِ ٱلَّتِى كُنتُمْ تُوعَدُونَ
 
@@ -17640,11 +17640,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 نَحْنُ أَوْلِيَآؤُكُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَفِى ٱلْءَاخِرَةِ ۖ وَلَكُمْ فِيهَا مَا تَشْتَهِىٓ أَنفُسُكُمْ وَلَكُمْ فِيهَا مَا تَدَّعُونَ
 
-**41:32** Kama ukarimu kutoka kwa Mwenye kusamehe mno, Mwenye kurehemu.”
+**41:32** Kama ukarimu kutoka kwa Mwenye kusamehe mno, Mwenye kurehemu."
 
 نُزُلًۭا مِّنْ غَفُورٍۢ رَّحِيمٍۢ
 
-**41:33** Na ni nani bora kwa usemi kuliko mtu anayewaita kwa Allah, na anatenda kwa unyofu, na anasema, “Mimi ni miongoni mwa walionyenyekea”?
+**41:33** Na ni nani bora kwa usemi kuliko mtu anayewaita kwa Allah, na anatenda kwa unyofu, na anasema, "Mimi ni miongoni mwa walionyenyekea"?
 
 وَمَنْ أَحْسَنُ قَوْلًۭا مِّمَّن دَعَآ إِلَى ٱللَّهِ وَعَمِلَ صَٰلِحًۭا وَقَالَ إِنَّنِى مِنَ ٱلْمُسْلِمِينَ
 
@@ -17690,7 +17690,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 مَّا يُقَالُ لَكَ إِلَّا مَا قَدْ قِيلَ لِلرُّسُلِ مِن قَبْلِكَ ۚ إِنَّ رَبَّكَ لَذُو مَغْفِرَةٍۢ وَذُو عِقَابٍ أَلِيمٍۢ
 
-**41:44** Tungeifanya Kurani kwa lugha ya kigeni, wangesema, “Laiti aya zake zingefafanuliwa.” Isiyo ya Kiarabu na Mwarabu? Sema, “Kwa wale wanaoamini, ni uongofu na ponyo. Lakini kwa wale wasioamini: kuna uzito masikioni mwao, na ni upofu kwao. Hao wanaitwa kutoka mahali pa mbali.”
+**41:44** Tungeifanya Kurani kwa lugha ya kigeni, wangesema, "Laiti aya zake zingefafanuliwa." Isiyo ya Kiarabu na Mwarabu? Sema, "Kwa wale wanaoamini, ni uongofu na ponyo. Lakini kwa wale wasioamini: kuna uzito masikioni mwao, na ni upofu kwao. Hao wanaitwa kutoka mahali pa mbali."
 
 وَلَوْ جَعَلْنَٰهُ قُرْءَانًا أَعْجَمِيًّۭا لَّقَالُوا۟ لَوْلَا فُصِّلَتْ ءَايَٰتُهُۥٓ ۖ ءَا۬عْجَمِىٌّۭ وَعَرَبِىٌّۭ ۗ قُلْ هُوَ لِلَّذِينَ ءَامَنُوا۟ هُدًۭى وَشِفَآءٌۭ ۖ وَٱلَّذِينَ لَا يُؤْمِنُونَ فِىٓ ءَاذَانِهِمْ وَقْرٌۭ وَهُوَ عَلَيْهِمْ عَمًى ۚ أُو۟لَٰٓئِكَ يُنَادَوْنَ مِن مَّكَانٍۭ بَعِيدٍۢ
 
@@ -17702,7 +17702,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 مَّنْ عَمِلَ صَٰلِحًۭا فَلِنَفْسِهِۦ ۖ وَمَنْ أَسَآءَ فَعَلَيْهَا ۗ وَمَا رَبُّكَ بِظَلَّٰمٍۢ لِّلْعَبِيدِ
 
-**41:47** Kwake kunarejeshwa ujuzi wa ile Saa. Hakuna tunda linalotoka kwenye ala yake, na hakuna mwanamke anayeshika mimba au kuzaa, ila kwa ujuzi Wake. Na Siku ambayo atawaita, “Wako wapi washirika Wangu?” Watasema, “Tunakukiri Kwako, hakuna miongoni mwetu aliye shahidi.”
+**41:47** Kwake kunarejeshwa ujuzi wa ile Saa. Hakuna tunda linalotoka kwenye ala yake, na hakuna mwanamke anayeshika mimba au kuzaa, ila kwa ujuzi Wake. Na Siku ambayo atawaita, "Wako wapi washirika Wangu?" Watasema, "Tunakukiri Kwako, hakuna miongoni mwetu aliye shahidi."
 
 ۞ إِلَيْهِ يُرَدُّ عِلْمُ ٱلسَّاعَةِ ۚ وَمَا تَخْرُجُ مِن ثَمَرَٰتٍۢ مِّنْ أَكْمَامِهَا وَمَا تَحْمِلُ مِنْ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِۦ ۚ وَيَوْمَ يُنَادِيهِمْ أَيْنَ شُرَكَآءِى قَالُوٓا۟ ءَاذَنَّٰكَ مَا مِنَّا مِن شَهِيدٍۢ
 
@@ -17714,7 +17714,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 لَّا يَسْـَٔمُ ٱلْإِنسَٰنُ مِن دُعَآءِ ٱلْخَيْرِ وَإِن مَّسَّهُ ٱلشَّرُّ فَيَـُٔوسٌۭ قَنُوطٌۭ
 
-**41:50** Na Tunapomwonjesha rehema kutoka Kwetu, baada ya dhiki iliyomgusa, hakika atasema, “Hii ni yangu, na sidhani kwamba ile Saa inakuja; na hata nikirudishwa kwa Mola wangu, nitakuwa na kilicho bora kabisa Kwake.” Tutawajulisha wale waliokufuru yale waliyoyafanya, na Tutawaonjesha adhabu mbaya.
+**41:50** Na Tunapomwonjesha rehema kutoka Kwetu, baada ya dhiki iliyomgusa, hakika atasema, "Hii ni yangu, na sidhani kwamba ile Saa inakuja; na hata nikirudishwa kwa Mola wangu, nitakuwa na kilicho bora kabisa Kwake." Tutawajulisha wale waliokufuru yale waliyoyafanya, na Tutawaonjesha adhabu mbaya.
 
 وَلَئِنْ أَذَقْنَٰهُ رَحْمَةًۭ مِّنَّا مِنۢ بَعْدِ ضَرَّآءَ مَسَّتْهُ لَيَقُولَنَّ هَٰذَا لِى وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةًۭ وَلَئِن رُّجِعْتُ إِلَىٰ رَبِّىٓ إِنَّ لِى عِندَهُۥ لَلْحُسْنَىٰ ۚ فَلَنُنَبِّئَنَّ ٱلَّذِينَ كَفَرُوا۟ بِمَا عَمِلُوا۟ وَلَنُذِيقَنَّهُم مِّنْ عَذَابٍ غَلِيظٍۢ
 
@@ -17722,7 +17722,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَإِذَآ أَنْعَمْنَا عَلَى ٱلْإِنسَٰنِ أَعْرَضَ وَنَـَٔا بِجَانِبِهِۦ وَإِذَا مَسَّهُ ٱلشَّرُّ فَذُو دُعَآءٍ عَرِيضٍۢ
 
-**41:52** Sema, “Je, mmeona? Ikiwa inatoka kwa Allah na mnaikataa — ni nani aliyepotea zaidi kuliko yule aliyekatwa na kutengwa?”
+**41:52** Sema, "Je, mmeona? Ikiwa inatoka kwa Allah na mnaikataa — ni nani aliyepotea zaidi kuliko yule aliyekatwa na kutengwa?"
 
 قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ ثُمَّ كَفَرْتُم بِهِۦ مَنْ أَضَلُّ مِمَّنْ هُوَ فِى شِقَاقٍۭ بَعِيدٍۢ
 
@@ -17782,7 +17782,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ۖ فَٱللَّهُ هُوَ ٱلْوَلِىُّ وَهُوَ يُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**42:10** Jambo lolote mnayotofautiana nalo, hukumu yake iko kwa Allah. “Huyo ndiye Allah, Mola wangu, ambaye ninamtegemea, na Kwake ninarejea.”
+**42:10** Jambo lolote mnayotofautiana nalo, hukumu yake iko kwa Allah. "Huyo ndiye Allah, Mola wangu, ambaye ninamtegemea, na Kwake ninarejea."
 
 وَمَا ٱخْتَلَفْتُمْ فِيهِ مِن شَىْءٍۢ فَحُكْمُهُۥٓ إِلَى ٱللَّهِ ۚ ذَٰلِكُمُ ٱللَّهُ رَبِّى عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ
 
@@ -17794,7 +17794,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 لَهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍ عَلِيمٌۭ
 
-**42:13** Amewawekea dini ile ile aliyomwekea Nuhu, na yale Tuliyokufunulia, na yale Tuliyowawekea Ibrahimu, na Musa, na Issa: “Mtaisimamisha dini, na msigawanyike ndani yake.” Kwa washirikina, yale mnayowaitia ni makubwa kwao. Allah humchagua Kwake yeyote amtakaye, na anamwongoza Kwake yeyote anayetubu.
+**42:13** Amewawekea dini ile ile aliyomwekea Nuhu, na yale Tuliyokufunulia, na yale Tuliyowawekea Ibrahimu, na Musa, na Issa: "Mtaisimamisha dini, na msigawanyike ndani yake." Kwa washirikina, yale mnayowaitia ni makubwa kwao. Allah humchagua Kwake yeyote amtakaye, na anamwongoza Kwake yeyote anayetubu.
 
 ۞ شَرَعَ لَكُم مِّنَ ٱلدِّينِ مَا وَصَّىٰ بِهِۦ نُوحًۭا وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَمَا وَصَّيْنَا بِهِۦٓ إِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَىٰٓ ۖ أَنْ أَقِيمُوا۟ ٱلدِّينَ وَلَا تَتَفَرَّقُوا۟ فِيهِ ۚ كَبُرَ عَلَى ٱلْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ۚ ٱللَّهُ يَجْتَبِىٓ إِلَيْهِ مَن يَشَآءُ وَيَهْدِىٓ إِلَيْهِ مَن يُنِيبُ
 
@@ -17802,7 +17802,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمَا تَفَرَّقُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۚ وَلَوْلَا كَلِمَةٌۭ سَبَقَتْ مِن رَّبِّكَ إِلَىٰٓ أَجَلٍۢ مُّسَمًّۭى لَّقُضِىَ بَيْنَهُمْ ۚ وَإِنَّ ٱلَّذِينَ أُورِثُوا۟ ٱلْكِتَٰبَ مِنۢ بَعْدِهِمْ لَفِى شَكٍّۢ مِّنْهُ مُرِيبٍۢ
 
-**42:15** Basi endelea kualika kwa hili, na nyooka kama ulivyoamrishwa, na usifuate matamanio yao, na sema, “Naamini Kitabu chochote Allah alichokiteremsha, na nimeamrishwa kuhukumu kati yenu kwa usawa. Allah ndiye Mola wetu na Mola wenu. Tuna matendo yetu, na ninyi mna matendo yenu. Kusiwe na ugomvi kati yetu na ninyi. Allah atatukusanya, na Kwake ndiko marejeo ya mwisho.”
+**42:15** Basi endelea kualika kwa hili, na nyooka kama ulivyoamrishwa, na usifuate matamanio yao, na sema, "Naamini Kitabu chochote Allah alichokiteremsha, na nimeamrishwa kuhukumu kati yenu kwa usawa. Allah ndiye Mola wetu na Mola wenu. Tuna matendo yetu, na ninyi mna matendo yenu. Kusiwe na ugomvi kati yetu na ninyi. Allah atatukusanya, na Kwake ndiko marejeo ya mwisho."
 
 فَلِذَٰلِكَ فَٱدْعُ ۖ وَٱسْتَقِمْ كَمَآ أُمِرْتَ ۖ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ ۖ وَقُلْ ءَامَنتُ بِمَآ أَنزَلَ ٱللَّهُ مِن كِتَٰبٍۢ ۖ وَأُمِرْتُ لِأَعْدِلَ بَيْنَكُمُ ۖ ٱللَّهُ رَبُّنَا وَرَبُّكُمْ ۖ لَنَآ أَعْمَٰلُنَا وَلَكُمْ أَعْمَٰلُكُمْ ۖ لَا حُجَّةَ بَيْنَنَا وَبَيْنَكُمُ ۖ ٱللَّهُ يَجْمَعُ بَيْنَنَا ۖ وَإِلَيْهِ ٱلْمَصِيرُ
 
@@ -17834,11 +17834,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 تَرَى ٱلظَّٰلِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا۟ وَهُوَ وَاقِعٌۢ بِهِمْ ۗ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فِى رَوْضَاتِ ٱلْجَنَّاتِ ۖ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ۚ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ
 
-**42:23** Hiyo ndiyo habari njema Allah anayowapa waja Wake walioamini na kutenda mema. Sema, “Siwaombei ujira wowote kwa hilo, ila upendo kati ya jamaa wa karibu.” Yeyote anayetenda jema, Tutamzidishia wema wake kwa hilo. Allah ni Msamehevu na Mwenye kushukuru.
+**42:23** Hiyo ndiyo habari njema Allah anayowapa waja Wake walioamini na kutenda mema. Sema, "Siwaombei ujira wowote kwa hilo, ila upendo kati ya jamaa wa karibu." Yeyote anayetenda jema, Tutamzidishia wema wake kwa hilo. Allah ni Msamehevu na Mwenye kushukuru.
 
 ذَٰلِكَ ٱلَّذِى يُبَشِّرُ ٱللَّهُ عِبَادَهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ ۗ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِلَّا ٱلْمَوَدَّةَ فِى ٱلْقُرْبَىٰ ۗ وَمَن يَقْتَرِفْ حَسَنَةًۭ نَّزِدْ لَهُۥ فِيهَا حُسْنًا ۚ إِنَّ ٱللَّهَ غَفُورٌۭ شَكُورٌ
 
-**42:24** Au wanasema, “Amezua uongo kuhusu Allah.” Kama Allah angetaka, angeweza kutia muhuri kwenye moyo wako. Lakini Allah huufuta ubatili, na huuthibitisha ukweli kwa Maneno Yake. Yeye anajua yaliyo nyoyoni.
+**42:24** Au wanasema, "Amezua uongo kuhusu Allah." Kama Allah angetaka, angeweza kutia muhuri kwenye moyo wako. Lakini Allah huufuta ubatili, na huuthibitisha ukweli kwa Maneno Yake. Yeye anajua yaliyo nyoyoni.
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا ۖ فَإِن يَشَإِ ٱللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ ۗ وَيَمْحُ ٱللَّهُ ٱلْبَٰطِلَ وَيُحِقُّ ٱلْحَقَّ بِكَلِمَٰتِهِۦٓ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
@@ -17918,11 +17918,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ
 
-**42:44** Yeyote ambaye Allah amemwacha kupotea hana mlinzi badala Yake. Na utawaona wapita kiasi, watakapoiona adhabu, wakisema, “Je, kuna njia ya kurudi?”
+**42:44** Yeyote ambaye Allah amemwacha kupotea hana mlinzi badala Yake. Na utawaona wapita kiasi, watakapoiona adhabu, wakisema, "Je, kuna njia ya kurudi?"
 
 وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن وَلِىٍّۢ مِّنۢ بَعْدِهِۦ ۗ وَتَرَى ٱلظَّٰلِمِينَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ يَقُولُونَ هَلْ إِلَىٰ مَرَدٍّۢ مِّن سَبِيلٍۢ
 
-**42:45** Na utawaona wakiwekwa mbele yake, wakinyenyekea kwa fedheha, wakitazama kwa macho yaliyofichika. Wale walioamini watasema, “Waliopoteza ni wale waliopoteza nafsi zao na familia zao Siku ya Ufufuo.” Hakika, waovu wako katika adhabu ya kudumu.
+**42:45** Na utawaona wakiwekwa mbele yake, wakinyenyekea kwa fedheha, wakitazama kwa macho yaliyofichika. Wale walioamini watasema, "Waliopoteza ni wale waliopoteza nafsi zao na familia zao Siku ya Ufufuo." Hakika, waovu wako katika adhabu ya kudumu.
 
 وَتَرَىٰهُمْ يُعْرَضُونَ عَلَيْهَا خَٰشِعِينَ مِنَ ٱلذُّلِّ يَنظُرُونَ مِن طَرْفٍ خَفِىٍّۢ ۗ وَقَالَ ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ ٱلْخَٰسِرِينَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ ٱلْقِيَٰمَةِ ۗ أَلَآ إِنَّ ٱلظَّٰلِمِينَ فِى عَذَابٍۢ مُّقِيمٍۢ
 
@@ -18002,7 +18002,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَأَهْلَكْنَآ أَشَدَّ مِنْهُم بَطْشًۭا وَمَضَىٰ مَثَلُ ٱلْأَوَّلِينَ
 
-**43:9** Na ukiwauliza, “Ni nani aliyeumba mbingu na ardhi?” Wangesema, “Mwenye nguvu, Mjuzi ndiye aliyeziumba.”
+**43:9** Na ukiwauliza, "Ni nani aliyeumba mbingu na ardhi?" Wangesema, "Mwenye nguvu, Mjuzi ndiye aliyeziumba."
 
 وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ خَلَقَهُنَّ ٱلْعَزِيزُ ٱلْعَلِيمُ
 
@@ -18018,11 +18018,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَٱلَّذِى خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا وَجَعَلَ لَكُم مِّنَ ٱلْفُلْكِ وَٱلْأَنْعَٰمِ مَا تَرْكَبُونَ
 
-**43:13** Ili mpande migongo yao, na mkumbuke neema ya Mola wenu mnapokaa imara juu yao, na mseme, “Utukufu ni Wake aliyeviweka hivi katika huduma yetu; hakika tusingeweza kufanya hivyo peke yetu.
+**43:13** Ili mpande migongo yao, na mkumbuke neema ya Mola wenu mnapokaa imara juu yao, na mseme, "Utukufu ni Wake aliyeviweka hivi katika huduma yetu; hakika tusingeweza kufanya hivyo peke yetu.
 
 لِتَسْتَوُۥا۟ عَلَىٰ ظُهُورِهِۦ ثُمَّ تَذْكُرُوا۟ نِعْمَةَ رَبِّكُمْ إِذَا ٱسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا۟ سُبْحَٰنَ ٱلَّذِى سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُۥ مُقْرِنِينَ
 
-**43:14** Na hakika, kwa Mola wetu tutarudi.”
+**43:14** Na hakika, kwa Mola wetu tutarudi."
 
 وَإِنَّآ إِلَىٰ رَبِّنَا لَمُنقَلِبُونَ
 
@@ -18038,7 +18038,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَإِذَا بُشِّرَ أَحَدُهُم بِمَا ضَرَبَ لِلرَّحْمَٰنِ مَثَلًۭا ظَلَّ وَجْهُهُۥ مُسْوَدًّۭا وَهُوَ كَظِيمٌ
 
-**43:18** “Mtu aliyelelewa kuwa mzuri, na asiyeweza kusaidia katika mapigano?”
+**43:18** "Mtu aliyelelewa kuwa mzuri, na asiyeweza kusaidia katika mapigano?"
 
 أَوَمَن يُنَشَّؤُا۟ فِى ٱلْحِلْيَةِ وَهُوَ فِى ٱلْخِصَامِ غَيْرُ مُبِينٍۢ
 
@@ -18046,7 +18046,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَجَعَلُوا۟ ٱلْمَلَٰٓئِكَةَ ٱلَّذِينَ هُمْ عِبَٰدُ ٱلرَّحْمَٰنِ إِنَٰثًا ۚ أَشَهِدُوا۟ خَلْقَهُمْ ۚ سَتُكْتَبُ شَهَٰدَتُهُمْ وَيُسْـَٔلُونَ
 
-**43:20** Na wanasema, “Kama Mwingi wa rehema angetaka, tusingewaabudu.” Lakini hawana ujuzi wa hilo; wanabashiri tu.
+**43:20** Na wanasema, "Kama Mwingi wa rehema angetaka, tusingewaabudu." Lakini hawana ujuzi wa hilo; wanabashiri tu.
 
 وَقَالُوا۟ لَوْ شَآءَ ٱلرَّحْمَٰنُ مَا عَبَدْنَٰهُم ۗ مَّا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَخْرُصُونَ
 
@@ -18054,15 +18054,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَمْ ءَاتَيْنَٰهُمْ كِتَٰبًۭا مِّن قَبْلِهِۦ فَهُم بِهِۦ مُسْتَمْسِكُونَ
 
-**43:22** Lakini wanasema, “Tuliwakuta wazazi wetu kwenye mwendo, na tunaongozwa katika nyayo zao.”
+**43:22** Lakini wanasema, "Tuliwakuta wazazi wetu kwenye mwendo, na tunaongozwa katika nyayo zao."
 
 بَلْ قَالُوٓا۟ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍۢ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّهْتَدُونَ
 
-**43:23** Vivyo hivyo, hatukumtuma mwonyaji kabla yako kwenye mji wowote, ila matajiri miongoni mwao wakasema, “Tuliwakuta wazazi wetu kwenye mwendo, na tunafuata nyayo zao.”
+**43:23** Vivyo hivyo, hatukumtuma mwonyaji kabla yako kwenye mji wowote, ila matajiri miongoni mwao wakasema, "Tuliwakuta wazazi wetu kwenye mwendo, na tunafuata nyayo zao."
 
 وَكَذَٰلِكَ مَآ أَرْسَلْنَا مِن قَبْلِكَ فِى قَرْيَةٍۢ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍۢ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّقْتَدُونَ
 
-**43:24** Angesema, “Hata kama ninawaletea uongofu bora kuliko ule mliowakuta wazazi wenu wakiufuata?” Wangesema, “Tunakikataa kile ulichotumwa nacho.”
+**43:24** Angesema, "Hata kama ninawaletea uongofu bora kuliko ule mliowakuta wazazi wenu wakiufuata?" Wangesema, "Tunakikataa kile ulichotumwa nacho."
 
 ۞ قَٰلَ أَوَلَوْ جِئْتُكُم بِأَهْدَىٰ مِمَّا وَجَدتُّمْ عَلَيْهِ ءَابَآءَكُمْ ۖ قَالُوٓا۟ إِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَٰفِرُونَ
 
@@ -18070,11 +18070,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَٱنتَقَمْنَا مِنْهُمْ ۖ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُكَذِّبِينَ
 
-**43:26** Ibrahimu alipomwambia baba yake na watu wake, “Mimi sina hatia kwa yale mnayoabudu.
+**43:26** Ibrahimu alipomwambia baba yake na watu wake, "Mimi sina hatia kwa yale mnayoabudu.
 
 وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ وَقَوْمِهِۦٓ إِنَّنِى بَرَآءٌۭ مِّمَّا تَعْبُدُونَ
 
-**43:27** Isipokuwa Yeye aliyeniumba, kwani Yeye ataniongoza.”
+**43:27** Isipokuwa Yeye aliyeniumba, kwani Yeye ataniongoza."
 
 إِلَّا ٱلَّذِى فَطَرَنِى فَإِنَّهُۥ سَيَهْدِينِ
 
@@ -18086,11 +18086,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 بَلْ مَتَّعْتُ هَٰٓؤُلَآءِ وَءَابَآءَهُمْ حَتَّىٰ جَآءَهُمُ ٱلْحَقُّ وَرَسُولٌۭ مُّبِينٌۭ
 
-**43:30** Lakini ukweli ulipowafikia, wakasema, “Huu ni uchawi, na tunakataa kuuamini.”
+**43:30** Lakini ukweli ulipowafikia, wakasema, "Huu ni uchawi, na tunakataa kuuamini."
 
 وَلَمَّا جَآءَهُمُ ٱلْحَقُّ قَالُوا۟ هَٰذَا سِحْرٌۭ وَإِنَّا بِهِۦ كَٰفِرُونَ
 
-**43:31** Pia wakasema, “Laiti Kurani hii ingeteremshwa kwa mtu maarufu kutoka miji miwili.”
+**43:31** Pia wakasema, "Laiti Kurani hii ingeteremshwa kwa mtu maarufu kutoka miji miwili."
 
 وَقَالُوا۟ لَوْلَا نُزِّلَ هَٰذَا ٱلْقُرْءَانُ عَلَىٰ رَجُلٍۢ مِّنَ ٱلْقَرْيَتَيْنِ عَظِيمٍ
 
@@ -18118,7 +18118,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَإِنَّهُمْ لَيَصُدُّونَهُمْ عَنِ ٱلسَّبِيلِ وَيَحْسَبُونَ أَنَّهُم مُّهْتَدُونَ
 
-**43:38** Hadi, atakapofika Kwetu, atasema, “Laiti kungekuwa kati yangu na wewe umbali wa mashariki mbili.” Ni rafiki mwovu kiasi gani!
+**43:38** Hadi, atakapofika Kwetu, atasema, "Laiti kungekuwa kati yangu na wewe umbali wa mashariki mbili." Ni rafiki mwovu kiasi gani!
 
 حَتَّىٰٓ إِذَا جَآءَنَا قَالَ يَٰلَيْتَ بَيْنِى وَبَيْنَكَ بُعْدَ ٱلْمَشْرِقَيْنِ فَبِئْسَ ٱلْقَرِينُ
 
@@ -18146,11 +18146,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَإِنَّهُۥ لَذِكْرٌۭ لَّكَ وَلِقَوْمِكَ ۖ وَسَوْفَ تُسْـَٔلُونَ
 
-**43:45** Waulize wale wa wajumbe Wetu Tuliowatuma kabla yako: “Je, Tuliweka miungu mingine badala ya Mwingi wa rehema iabudiwe?”
+**43:45** Waulize wale wa wajumbe Wetu Tuliowatuma kabla yako: "Je, Tuliweka miungu mingine badala ya Mwingi wa rehema iabudiwe?"
 
 وَسْـَٔلْ مَنْ أَرْسَلْنَا مِن قَبْلِكَ مِن رُّسُلِنَآ أَجَعَلْنَا مِن دُونِ ٱلرَّحْمَٰنِ ءَالِهَةًۭ يُعْبَدُونَ
 
-**43:46** Tulimtuma Musa kwa aya Zetu kwa Firauni na wakuu wake. Akasema, “Mimi ni Mtume wa Mola wa walimwengu wote.”
+**43:46** Tulimtuma Musa kwa aya Zetu kwa Firauni na wakuu wake. Akasema, "Mimi ni Mtume wa Mola wa walimwengu wote."
 
 وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَآ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَقَالَ إِنِّى رَسُولُ رَبِّ ٱلْعَٰلَمِينَ
 
@@ -18162,7 +18162,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمَا نُرِيهِم مِّنْ ءَايَةٍ إِلَّا هِىَ أَكْبَرُ مِنْ أُخْتِهَا ۖ وَأَخَذْنَٰهُم بِٱلْعَذَابِ لَعَلَّهُمْ يَرْجِعُونَ
 
-**43:49** Wakasema, “Ewe mchawi, mwombe Mola wako kwa ajili yetu, kulingana na ahadi Yake kwako, na kisha tutaongozwa.”
+**43:49** Wakasema, "Ewe mchawi, mwombe Mola wako kwa ajili yetu, kulingana na ahadi Yake kwako, na kisha tutaongozwa."
 
 وَقَالُوا۟ يَٰٓأَيُّهَ ٱلسَّاحِرُ ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهْتَدُونَ
 
@@ -18170,7 +18170,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلْعَذَابَ إِذَا هُمْ يَنكُثُونَ
 
-**43:51** Firauni akatangaza kati ya watu wake, akisema, “Enyi watu wangu, je, siumiliki Ufalme wa Misri, na mito hii inatiririka chini yangu? Je, hamuoni?
+**43:51** Firauni akatangaza kati ya watu wake, akisema, "Enyi watu wangu, je, siumiliki Ufalme wa Misri, na mito hii inatiririka chini yangu? Je, hamuoni?
 
 وَنَادَىٰ فِرْعَوْنُ فِى قَوْمِهِۦ قَالَ يَٰقَوْمِ أَلَيْسَ لِى مُلْكُ مِصْرَ وَهَٰذِهِ ٱلْأَنْهَٰرُ تَجْرِى مِن تَحْتِىٓ ۖ أَفَلَا تُبْصِرُونَ
 
@@ -18178,7 +18178,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَمْ أَنَا۠ خَيْرٌۭ مِّنْ هَٰذَا ٱلَّذِى هُوَ مَهِينٌۭ وَلَا يَكَادُ يُبِينُ
 
-**43:53** Kwa nini vikuku vya dhahabu havikutupwa juu yake, au malaika hawakuja pamoja naye kwa msafara?”
+**43:53** Kwa nini vikuku vya dhahabu havikutupwa juu yake, au malaika hawakuja pamoja naye kwa msafara?"
 
 فَلَوْلَآ أُلْقِىَ عَلَيْهِ أَسْوِرَةٌۭ مِّن ذَهَبٍ أَوْ جَآءَ مَعَهُ ٱلْمَلَٰٓئِكَةُ مُقْتَرِنِينَ
 
@@ -18198,7 +18198,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ۞ وَلَمَّا ضُرِبَ ٱبْنُ مَرْيَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ
 
-**43:58** Wakasema, “Je, miungu yetu ni bora, au yeye?” Walimtaja tu kwa ubishi. Kwa hakika, wao ni watu wagomvi.
+**43:58** Wakasema, "Je, miungu yetu ni bora, au yeye?" Walimtaja tu kwa ubishi. Kwa hakika, wao ni watu wagomvi.
 
 وَقَالُوٓا۟ ءَأَٰلِهَتُنَا خَيْرٌ أَمْ هُوَ ۚ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلًۢا ۚ بَلْ هُمْ قَوْمٌ خَصِمُونَ
 
@@ -18218,11 +18218,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَا يَصُدَّنَّكُمُ ٱلشَّيْطَٰنُ ۖ إِنَّهُۥ لَكُمْ عَدُوٌّۭ مُّبِينٌۭ
 
-**43:63** Issa alipokuja kwa ufafanuzi, akasema, “Nimewajia kwa hekima, na kuwafafanulia baadhi ya yale mnayotofautiana. Basi mcheni Allah, na mnitii.
+**43:63** Issa alipokuja kwa ufafanuzi, akasema, "Nimewajia kwa hekima, na kuwafafanulia baadhi ya yale mnayotofautiana. Basi mcheni Allah, na mnitii.
 
 وَلَمَّا جَآءَ عِيسَىٰ بِٱلْبَيِّنَٰتِ قَالَ قَدْ جِئْتُكُم بِٱلْحِكْمَةِ وَلِأُبَيِّنَ لَكُم بَعْضَ ٱلَّذِى تَخْتَلِفُونَ فِيهِ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ
 
-**43:64** Allah ndiye Mola wangu na Mola wenu, basi mwabuduni Yeye — hii ni njia iliyonyooka.”
+**43:64** Allah ndiye Mola wangu na Mola wenu, basi mwabuduni Yeye — hii ni njia iliyonyooka."
 
 إِنَّ ٱللَّهَ هُوَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۚ هَٰذَا صِرَٰطٌۭ مُّسْتَقِيمٌۭ
 
@@ -18274,7 +18274,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمَا ظَلَمْنَٰهُمْ وَلَٰكِن كَانُوا۟ هُمُ ٱلظَّٰلِمِينَ
 
-**43:77** Na wataita, “Ewe Malik, Mola wako atuue kabisa.” Atasema, “Ninyi mnabaki.”
+**43:77** Na wataita, "Ewe Malik, Mola wako atuue kabisa." Atasema, "Ninyi mnabaki."
 
 وَنَادَوْا۟ يَٰمَٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّٰكِثُونَ
 
@@ -18290,7 +18290,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَمْ يَحْسَبُونَ أَنَّا لَا نَسْمَعُ سِرَّهُمْ وَنَجْوَىٰهُم ۚ بَلَىٰ وَرُسُلُنَا لَدَيْهِمْ يَكْتُبُونَ
 
-**43:81** Sema, “Kama Mwingi wa rehema angekuwa na mtoto, ningekuwa wa kwanza kuabudu.”
+**43:81** Sema, "Kama Mwingi wa rehema angekuwa na mtoto, ningekuwa wa kwanza kuabudu."
 
 قُلْ إِن كَانَ لِلرَّحْمَٰنِ وَلَدٌۭ فَأَنَا۠ أَوَّلُ ٱلْعَٰبِدِينَ
 
@@ -18314,15 +18314,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَا يَمْلِكُ ٱلَّذِينَ يَدْعُونَ مِن دُونِهِ ٱلشَّفَٰعَةَ إِلَّا مَن شَهِدَ بِٱلْحَقِّ وَهُمْ يَعْلَمُونَ
 
-**43:87** Na ukiwauliza, “Ni nani aliyewaumba?”, wangesema, “Allah.” Kwa nini basi wanapotoka?
+**43:87** Na ukiwauliza, "Ni nani aliyewaumba?", wangesema, "Allah." Kwa nini basi wanapotoka?
 
 وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَهُمْ لَيَقُولُنَّ ٱللَّهُ ۖ فَأَنَّىٰ يُؤْفَكُونَ
 
-**43:88** Na kuhusu kauli yake: “Mola wangu, hawa ni watu wasioamini.”
+**43:88** Na kuhusu kauli yake: "Mola wangu, hawa ni watu wasioamini."
 
 وَقِيلِهِۦ يَٰرَبِّ إِنَّ هَٰٓؤُلَآءِ قَوْمٌۭ لَّا يُؤْمِنُونَ
 
-**43:89** Wasamehe, na sema, “Amani.” Watakuja kujua.
+**43:89** Wasamehe, na sema, "Amani." Watakuja kujua.
 
 فَٱصْفَحْ عَنْهُمْ وَقُلْ سَلَٰمٌۭ ۚ فَسَوْفَ يَعْلَمُونَ
 
@@ -18382,7 +18382,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 يَغْشَى ٱلنَّاسَ ۖ هَٰذَا عَذَابٌ أَلِيمٌۭ
 
-**44:12** “Mola wetu, tuondolee adhabu, sisi tu waumini.”
+**44:12** "Mola wetu, tuondolee adhabu, sisi tu waumini."
 
 رَّبَّنَا ٱكْشِفْ عَنَّا ٱلْعَذَابَ إِنَّا مُؤْمِنُونَ
 
@@ -18390,7 +18390,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَنَّىٰ لَهُمُ ٱلذِّكْرَىٰ وَقَدْ جَآءَهُمْ رَسُولٌۭ مُّبِينٌۭ
 
-**44:14** Lakini wakageuka kutoka kwake, na wakasema, “Amefundishwa, lakini ni mwendawazimu!”
+**44:14** Lakini wakageuka kutoka kwake, na wakasema, "Amefundishwa, lakini ni mwendawazimu!"
 
 ثُمَّ تَوَلَّوْا۟ عَنْهُ وَقَالُوا۟ مُعَلَّمٌۭ مَّجْنُونٌ
 
@@ -18406,11 +18406,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ۞ وَلَقَدْ فَتَنَّا قَبْلَهُمْ قَوْمَ فِرْعَوْنَ وَجَآءَهُمْ رَسُولٌۭ كَرِيمٌ
 
-**44:18** Akisema, “Nikabidhini waja wa Allah. Mimi ni mtume mwaminifu kwenu.”
+**44:18** Akisema, "Nikabidhini waja wa Allah. Mimi ni mtume mwaminifu kwenu."
 
 أَنْ أَدُّوٓا۟ إِلَىَّ عِبَادَ ٱللَّهِ ۖ إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ
 
-**44:19** Na, “Msijikweze juu ya Allah. Nawajia kwa mamlaka iliyo wazi.
+**44:19** Na, "Msijikweze juu ya Allah. Nawajia kwa mamlaka iliyo wazi.
 
 وَأَن لَّا تَعْلُوا۟ عَلَى ٱللَّهِ ۖ إِنِّىٓ ءَاتِيكُم بِسُلْطَٰنٍۢ مُّبِينٍۢ
 
@@ -18418,19 +18418,19 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَإِنِّى عُذْتُ بِرَبِّى وَرَبِّكُمْ أَن تَرْجُمُونِ
 
-**44:21** Lakini kama hamniamini, kaeni mbali nami.”
+**44:21** Lakini kama hamniamini, kaeni mbali nami."
 
 وَإِن لَّمْ تُؤْمِنُوا۟ لِى فَٱعْتَزِلُونِ
 
-**44:22** Akamwomba Mola wake: “Hawa ni watu wenye dhambi.”
+**44:22** Akamwomba Mola wake: "Hawa ni watu wenye dhambi."
 
 فَدَعَا رَبَّهُۥٓ أَنَّ هَٰٓؤُلَآءِ قَوْمٌۭ مُّجْرِمُونَ
 
-**44:23** “Ondoka na waja Wangu usiku — mtafuatwa.
+**44:23** "Ondoka na waja Wangu usiku — mtafuatwa.
 
 فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ
 
-**44:24** Na vuka bahari haraka; wao ni jeshi litakalozamishwa.”
+**44:24** Na vuka bahari haraka; wao ni jeshi litakalozamishwa."
 
 وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا ۖ إِنَّهُمْ جُندٌۭ مُّغْرَقُونَ
 
@@ -18474,11 +18474,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنَّ هَٰٓؤُلَآءِ لَيَقُولُونَ
 
-**44:35** “Hakuna chochote ila kifo chetu cha kwanza, na hatutafufuliwa.
+**44:35** "Hakuna chochote ila kifo chetu cha kwanza, na hatutafufuliwa.
 
 إِنْ هِىَ إِلَّا مَوْتَتُنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُنشَرِينَ
 
-**44:36** Warejesheni baba zetu, ikiwa ninyi ni wakweli.”
+**44:36** Warejesheni baba zetu, ikiwa ninyi ni wakweli."
 
 فَأْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -18678,15 +18678,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَفَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلْمٍۢ وَخَتَمَ عَلَىٰ سَمْعِهِۦ وَقَلْبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةًۭ فَمَن يَهْدِيهِ مِنۢ بَعْدِ ٱللَّهِ ۚ أَفَلَا تَذَكَّرُونَ
 
-**45:24** Na wanasema, “Hakuna chochote ila maisha yetu haya ya sasa; tunakufa na tunaishi, na hakuna kinachotuangamiza ila wakati.” Lakini hawana ujuzi wa hilo; wanabashiri tu.
+**45:24** Na wanasema, "Hakuna chochote ila maisha yetu haya ya sasa; tunakufa na tunaishi, na hakuna kinachotuangamiza ila wakati." Lakini hawana ujuzi wa hilo; wanabashiri tu.
 
 وَقَالُوا۟ مَا هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا يُهْلِكُنَآ إِلَّا ٱلدَّهْرُ ۚ وَمَا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَظُنُّونَ
 
-**45:25** Aya Zetu zinazobainisha zinaposomwa kwao, hoja yao pekee ni kusema, “Warejesheni baba zetu, ikiwa ninyi ni wakweli.”
+**45:25** Aya Zetu zinazobainisha zinaposomwa kwao, hoja yao pekee ni kusema, "Warejesheni baba zetu, ikiwa ninyi ni wakweli."
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ مَّا كَانَ حُجَّتَهُمْ إِلَّآ أَن قَالُوا۟ ٱئْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَٰدِقِينَ
 
-**45:26** Sema, “Allah anawapa uhai, kisha anawafisha; kisha anawakusanya kwa Siku ya Ufufuo, ambayo hakuna shaka juu yake. Lakini watu wengi hawajui.”
+**45:26** Sema, "Allah anawapa uhai, kisha anawafisha; kisha anawakusanya kwa Siku ya Ufufuo, ambayo hakuna shaka juu yake. Lakini watu wengi hawajui."
 
 قُلِ ٱللَّهُ يُحْيِيكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يَجْمَعُكُمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَا رَيْبَ فِيهِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
@@ -18694,11 +18694,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يَوْمَئِذٍۢ يَخْسَرُ ٱلْمُبْطِلُونَ
 
-**45:28** Utaona kila jamii imepiga magoti; kila jamii itaitwa kwenye Kitabu chake: “Leo mnalipwa kwa yale mliyokuwa mkifanya.
+**45:28** Utaona kila jamii imepiga magoti; kila jamii itaitwa kwenye Kitabu chake: "Leo mnalipwa kwa yale mliyokuwa mkifanya.
 
 وَتَرَىٰ كُلَّ أُمَّةٍۢ جَاثِيَةًۭ ۚ كُلُّ أُمَّةٍۢ تُدْعَىٰٓ إِلَىٰ كِتَٰبِهَا ٱلْيَوْمَ تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ
 
-**45:29** Kitabu chetu hiki kinazungumza juu yenu kwa ukweli. Tumekuwa tukiandika yale mliyokuwa mkifanya.”
+**45:29** Kitabu chetu hiki kinazungumza juu yenu kwa ukweli. Tumekuwa tukiandika yale mliyokuwa mkifanya."
 
 هَٰذَا كِتَٰبُنَا يَنطِقُ عَلَيْكُم بِٱلْحَقِّ ۚ إِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ
 
@@ -18706,11 +18706,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُدْخِلُهُمْ رَبُّهُمْ فِى رَحْمَتِهِۦ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْمُبِينُ
 
-**45:31** Lakini wale waliokufuru: “Je, aya Zangu hazikusomwa kwenu? Lakini mligeuka kwa kiburi, na mkawa watu wenye hatia.”
+**45:31** Lakini wale waliokufuru: "Je, aya Zangu hazikusomwa kwenu? Lakini mligeuka kwa kiburi, na mkawa watu wenye hatia."
 
 وَأَمَّا ٱلَّذِينَ كَفَرُوٓا۟ أَفَلَمْ تَكُنْ ءَايَٰتِى تُتْلَىٰ عَلَيْكُمْ فَٱسْتَكْبَرْتُمْ وَكُنتُمْ قَوْمًۭا مُّجْرِمِينَ
 
-**45:32** Na iliposemwa, “Ahadi ya Allah ni kweli, na kuhusu ile Saa hakuna shaka,” mkasema, “Hatujui ile Saa ni nini; tunadhani ni dhana tu; hatuna yakini.”
+**45:32** Na iliposemwa, "Ahadi ya Allah ni kweli, na kuhusu ile Saa hakuna shaka," mkasema, "Hatujui ile Saa ni nini; tunadhani ni dhana tu; hatuna yakini."
 
 وَإِذَا قِيلَ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ وَٱلسَّاعَةُ لَا رَيْبَ فِيهَا قُلْتُم مَّا نَدْرِى مَا ٱلسَّاعَةُ إِن نَّظُنُّ إِلَّا ظَنًّۭا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ
 
@@ -18718,11 +18718,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَبَدَا لَهُمْ سَيِّـَٔاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**45:34** Na kutasemwa, “Leo Tunawasahau, kama mlivyousahau mkutano wa Siku yenu hii. Makazi yenu ni Moto, na hamna waokozi kwenu.
+**45:34** Na kutasemwa, "Leo Tunawasahau, kama mlivyousahau mkutano wa Siku yenu hii. Makazi yenu ni Moto, na hamna waokozi kwenu.
 
 وَقِيلَ ٱلْيَوْمَ نَنسَىٰكُمْ كَمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا وَمَأْوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّٰصِرِينَ
 
-**45:35** Hiyo ni kwa sababu mlichukua aya za Allah kwa mzaha, na maisha ya dunia yakawadanganya.” Basi leo hawatatolewa humo, na hawataruhusiwa kutubu.
+**45:35** Hiyo ni kwa sababu mlichukua aya za Allah kwa mzaha, na maisha ya dunia yakawadanganya." Basi leo hawatatolewa humo, na hawataruhusiwa kutubu.
 
 ذَٰلِكُم بِأَنَّكُمُ ٱتَّخَذْتُمْ ءَايَٰتِ ٱللَّهِ هُزُوًۭا وَغَرَّتْكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ فَٱلْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَلَا هُمْ يُسْتَعْتَبُونَ
 
@@ -20192,7 +20192,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ
 
-**54:2** Lakini kila wanapoona muujiza, hugeuka, na husema, “Uchawi unaoendelea.”
+**54:2** Lakini kila wanapoona muujiza, hugeuka, na husema, "Uchawi unaoendelea."
 
 وَإِن يَرَوْا۟ ءَايَةًۭ يُعْرِضُوا۟ وَيَقُولُوا۟ سِحْرٌۭ مُّسْتَمِرٌّۭ
 
@@ -20216,15 +20216,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 خُشَّعًا أَبْصَٰرُهُمْ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌۭ مُّنتَشِرٌۭ
 
-**54:8** Wakikimbilia kwa Mwita, makafiri watasema, “Hii ni Siku ngumu.”
+**54:8** Wakikimbilia kwa Mwita, makafiri watasema, "Hii ni Siku ngumu."
 
 مُّهْطِعِينَ إِلَى ٱلدَّاعِ ۖ يَقُولُ ٱلْكَٰفِرُونَ هَٰذَا يَوْمٌ عَسِرٌۭ
 
-**54:9** Kabla yao watu wa Nuhu walikufuru. Walimkataa mja Wetu, na wakasema, “Mwendawazimu,” naye akakaripiwa.
+**54:9** Kabla yao watu wa Nuhu walikufuru. Walimkataa mja Wetu, na wakasema, "Mwendawazimu," naye akakaripiwa.
 
 ۞ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ فَكَذَّبُوا۟ عَبْدَنَا وَقَالُوا۟ مَجْنُونٌۭ وَٱزْدُجِرَ
 
-**54:10** Basi akamwomba Mola wake, “Nimeshindwa, basi nisaidie.”
+**54:10** Basi akamwomba Mola wake, "Nimeshindwa, basi nisaidie."
 
 فَدَعَا رَبَّهُۥٓ أَنِّى مَغْلُوبٌۭ فَٱنتَصِرْ
 
@@ -20280,11 +20280,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 كَذَّبَتْ ثَمُودُ بِٱلنُّذُرِ
 
-**54:24** Wakasema, “Je, tumfuate mmoja wetu, binadamu? Basi tungalipotea, na kuishia Jahannamu.
+**54:24** Wakasema, "Je, tumfuate mmoja wetu, binadamu? Basi tungalipotea, na kuishia Jahannamu.
 
 فَقَالُوٓا۟ أَبَشَرًۭا مِّنَّا وَٰحِدًۭا نَّتَّبِعُهُۥٓ إِنَّآ إِذًۭا لَّفِى ضَلَٰلٍۢ وَسُعُرٍ
 
-**54:25** Je, ujumbe ulipewa yeye, kati yetu sote? Kweli, yeye ni mwongo mwenye uovu.”
+**54:25** Je, ujumbe ulipewa yeye, kati yetu sote? Kweli, yeye ni mwongo mwenye uovu."
 
 أَءُلْقِىَ ٱلذِّكْرُ عَلَيْهِ مِنۢ بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌۭ
 
@@ -20332,7 +20332,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا۟ بِٱلنُّذُرِ
 
-**54:37** Wakammezea mate mgeni wake, basi Tukayafuta macho yao. “Basi onjeni adhabu Yangu na maonyo Yangu.”
+**54:37** Wakammezea mate mgeni wake, basi Tukayafuta macho yao. "Basi onjeni adhabu Yangu na maonyo Yangu."
 
 وَلَقَدْ رَٰوَدُوهُ عَن ضَيْفِهِۦ فَطَمَسْنَآ أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ
 
@@ -20360,7 +20360,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَكُفَّارُكُمْ خَيْرٌۭ مِّنْ أُو۟لَٰٓئِكُمْ أَمْ لَكُم بَرَآءَةٌۭ فِى ٱلزُّبُرِ
 
-**54:44** Au wanasema, “Sisi tumeungana, na tutashinda”?
+**54:44** Au wanasema, "Sisi tumeungana, na tutashinda"?
 
 أَمْ يَقُولُونَ نَحْنُ جَمِيعٌۭ مُّنتَصِرٌۭ
 
@@ -20376,7 +20376,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنَّ ٱلْمُجْرِمِينَ فِى ضَلَٰلٍۢ وَسُعُرٍۢ
 
-**54:48** Siku watakapobururwa kwenye nyuso zao Motoni: “Onjeni mguso wa Sakara.”
+**54:48** Siku watakapobururwa kwenye nyuso zao Motoni: "Onjeni mguso wa Sakara."
 
 يَوْمَ يُسْحَبُونَ فِى ٱلنَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا۟ مَسَّ سَقَرَ
 
@@ -20844,7 +20844,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 لَا يَسْمَعُونَ فِيهَا لَغْوًۭا وَلَا تَأْثِيمًا
 
-**56:26** Isipokuwa tu salamu: “Amani, amani.”
+**56:26** Isipokuwa tu salamu: "Amani, amani."
 
 إِلَّا قِيلًۭا سَلَٰمًۭا سَلَٰمًۭا
 
@@ -20928,19 +20928,19 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَكَانُوا۟ يُصِرُّونَ عَلَى ٱلْحِنثِ ٱلْعَظِيمِ
 
-**56:47** Na walikuwa wakisema, “Tutakapokufa na kuwa udongo na mifupa, je, tutafufuliwa?
+**56:47** Na walikuwa wakisema, "Tutakapokufa na kuwa udongo na mifupa, je, tutafufuliwa?
 
 وَكَانُوا۟ يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ
 
-**56:48** Na mababu zetu wa kale pia?”
+**56:48** Na mababu zetu wa kale pia?"
 
 أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ
 
-**56:49** Sema, “Wa kwanza na wa mwisho.
+**56:49** Sema, "Wa kwanza na wa mwisho.
 
 قُلْ إِنَّ ٱلْأَوَّلِينَ وَٱلْءَاخِرِينَ
 
-**56:50** Watakusanywa kwa miadi ya Siku inayojulikana.”
+**56:50** Watakusanywa kwa miadi ya Siku inayojulikana."
 
 لَمَجْمُوعُونَ إِلَىٰ مِيقَٰتِ يَوْمٍۢ مَّعْلُومٍۢ
 
@@ -21004,11 +21004,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 لَوْ نَشَآءُ لَجَعَلْنَٰهُ حُطَٰمًۭا فَظَلْتُمْ تَفَكَّهُونَ
 
-**56:66** “Tumeadhibiwa.
+**56:66** "Tumeadhibiwa.
 
 إِنَّا لَمُغْرَمُونَ
 
-**56:67** Hapana, tumekoseshwa.”
+**56:67** Hapana, tumekoseshwa."
 
 بَلْ نَحْنُ مَحْرُومُونَ
 
@@ -21104,7 +21104,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَأَمَّآ إِن كَانَ مِنْ أَصْحَٰبِ ٱلْيَمِينِ
 
-**56:91** Basi, “Amani juu yako,” kutoka kwa walio upande wa kulia.
+**56:91** Basi, "Amani juu yako," kutoka kwa walio upande wa kulia.
 
 فَسَلَٰمٌۭ لَّكَ مِنْ أَصْحَٰبِ ٱلْيَمِينِ
 
@@ -21184,19 +21184,19 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 مَّن ذَا ٱلَّذِى يُقْرِضُ ٱللَّهَ قَرْضًا حَسَنًۭا فَيُضَٰعِفَهُۥ لَهُۥ وَلَهُۥٓ أَجْرٌۭ كَرِيمٌۭ
 
-**57:12** Siku utakapowaona wanaume waumini na wanawake waumini—mwanga wao uking'aa mbele yao, na kulia kwao: “Habari njema kwenu leo: bustani ambazo mito hupita chini yake, mkikaa humo milele. Huo ndio ushindi mkuu.”
+**57:12** Siku utakapowaona wanaume waumini na wanawake waumini—mwanga wao uking'aa mbele yao, na kulia kwao: "Habari njema kwenu leo: bustani ambazo mito hupita chini yake, mkikaa humo milele. Huo ndio ushindi mkuu."
 
 يَوْمَ تَرَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ يَسْعَىٰ نُورُهُم بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِم بُشْرَىٰكُمُ ٱلْيَوْمَ جَنَّٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
-**57:13** Siku ambayo wanaume wanafiki na wanawake wanafiki watawaambia wale walioamini, “Tungojeni; tupate mwanga kidogo kutoka kwenu.” Itasemwa, “Rudini nyuma yenu, na mtafute mwanga.” Kuta utainuliwa kati yao, wenye mlango; ndani yake mna rehema, na nje yake mna maumivu.
+**57:13** Siku ambayo wanaume wanafiki na wanawake wanafiki watawaambia wale walioamini, "Tungojeni; tupate mwanga kidogo kutoka kwenu." Itasemwa, "Rudini nyuma yenu, na mtafute mwanga." Kuta utainuliwa kati yao, wenye mlango; ndani yake mna rehema, na nje yake mna maumivu.
 
 يَوْمَ يَقُولُ ٱلْمُنَٰفِقُونَ وَٱلْمُنَٰفِقَٰتُ لِلَّذِينَ ءَامَنُوا۟ ٱنظُرُونَا نَقْتَبِسْ مِن نُّورِكُمْ قِيلَ ٱرْجِعُوا۟ وَرَآءَكُمْ فَٱلْتَمِسُوا۟ نُورًۭا فَضُرِبَ بَيْنَهُم بِسُورٍۢ لَّهُۥ بَابٌۢ بَاطِنُهُۥ فِيهِ ٱلرَّحْمَةُ وَظَٰهِرُهُۥ مِن قِبَلِهِ ٱلْعَذَابُ
 
-**57:14** Watawaita, “Je, hatukuwa pamoja nanyi?” Watasema, “Ndiyo, lakini mlijidanganya nafsi zenu, na mkasubiri, na mkatia shaka, na mkadanganyika kwa matumaini ya uongo, mpaka amri ya Allah ikafika; na kiburi kikawadanganya kuhusu Allah.”
+**57:14** Watawaita, "Je, hatukuwa pamoja nanyi?" Watasema, "Ndiyo, lakini mlijidanganya nafsi zenu, na mkasubiri, na mkatia shaka, na mkadanganyika kwa matumaini ya uongo, mpaka amri ya Allah ikafika; na kiburi kikawadanganya kuhusu Allah."
 
 يُنَادُونَهُمْ أَلَمْ نَكُن مَّعَكُمْ ۖ قَالُوا۟ بَلَىٰ وَلَٰكِنَّكُمْ فَتَنتُمْ أَنفُسَكُمْ وَتَرَبَّصْتُمْ وَٱرْتَبْتُمْ وَغَرَّتْكُمُ ٱلْأَمَانِىُّ حَتَّىٰ جَآءَ أَمْرُ ٱللَّهِ وَغَرَّكُم بِٱللَّهِ ٱلْغَرُورُ
 
-**57:15** “Kwa hiyo, leo hakuna fidia itakayokubaliwa kutoka kwenu, wala kutoka kwa waliokufuru. Moto ndio makazi yenu. Ndio mwenzi wenu—mwisho mbaya ulioje!”
+**57:15** "Kwa hiyo, leo hakuna fidia itakayokubaliwa kutoka kwenu, wala kutoka kwa waliokufuru. Moto ndio makazi yenu. Ndio mwenzi wenu—mwisho mbaya ulioje!"
 
 فَٱلْيَوْمَ لَا يُؤْخَذُ مِنكُمْ فِدْيَةٌۭ وَلَا مِنَ ٱلَّذِينَ كَفَرُوا۟ ۚ مَأْوَىٰكُمُ ٱلنَّارُ ۖ هِىَ مَوْلَىٰكُمْ ۖ وَبِئْسَ ٱلْمَصِيرُ
 
@@ -21296,7 +21296,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ مَا يَكُونُ مِن نَّجْوَىٰ ثَلَٰثَةٍ إِلَّا هُوَ رَابِعُهُمْ وَلَا خَمْسَةٍ إِلَّا هُوَ سَادِسُهُمْ وَلَآ أَدْنَىٰ مِن ذَٰلِكَ وَلَآ أَكْثَرَ إِلَّا هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا۟ ۖ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُوا۟ يَوْمَ ٱلْقِيَٰمَةِ ۚ إِنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ
 
-**58:8** Je, umewaona wale waliokatazwa kufanya njama kwa siri, lakini kisha wakarudia waliyokatazwa? Wanafanya njama kufanya dhambi, na uadui, na kumuasi Mtume. Na wanapokuja kwako, wanakusalimu kwa salamu ambayo Allah Hakukusalimu nayo kamwe. Na wanasema ndani yao, “Kwa nini Allah Hatuadhibu kwa tunayoyasema?” Jahannamu inawatosha. Watachomwa humo. Mwisho mbaya ulioje!
+**58:8** Je, umewaona wale waliokatazwa kufanya njama kwa siri, lakini kisha wakarudia waliyokatazwa? Wanafanya njama kufanya dhambi, na uadui, na kumuasi Mtume. Na wanapokuja kwako, wanakusalimu kwa salamu ambayo Allah Hakukusalimu nayo kamwe. Na wanasema ndani yao, "Kwa nini Allah Hatuadhibu kwa tunayoyasema?" Jahannamu inawatosha. Watachomwa humo. Mwisho mbaya ulioje!
 
 أَلَمْ تَرَ إِلَى ٱلَّذِينَ نُهُوا۟ عَنِ ٱلنَّجْوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُوا۟ عَنْهُ وَيَتَنَٰجَوْنَ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَإِذَا جَآءُوكَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ ٱللَّهُ وَيَقُولُونَ فِىٓ أَنفُسِهِمْ لَوْلَا يُعَذِّبُنَا ٱللَّهُ بِمَا نَقُولُ ۚ حَسْبُهُمْ جَهَنَّمُ يَصْلَوْنَهَا ۖ فَبِئْسَ ٱلْمَصِيرُ
 
@@ -21348,7 +21348,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنَّ ٱلَّذِينَ يُحَآدُّونَ ٱللَّهَ وَرَسُولَهُۥٓ أُو۟لَٰٓئِكَ فِى ٱلْأَذَلِّينَ
 
-**58:21** Allah Ameandika: “Hakika Nitashinda, Mimi na mitume Yangu.” Allah ni Mwenye Nguvu, Mwenye Uwezo.
+**58:21** Allah Ameandika: "Hakika Nitashinda, Mimi na mitume Yangu." Allah ni Mwenye Nguvu, Mwenye Uwezo.
 
 كَتَبَ ٱللَّهُ لَأَغْلِبَنَّ أَنَا۠ وَرُسُلِىٓ ۚ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌۭ
 
@@ -21404,11 +21404,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلْإِيمَٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةًۭ مِّمَّآ أُوتُوا۟ وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌۭ ۚ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
 
-**59:10** Na wale waliokuja baada yao, wakisema, “Mola wetu, tusamehe sisi, na ndugu zetu waliotutangulia katika imani, na usiache chuki yoyote nyoyoni mwetu kwa wale walioamini. Mola wetu, Wewe ni Mpaji mwema na Mwenye kurehemu.”
+**59:10** Na wale waliokuja baada yao, wakisema, "Mola wetu, tusamehe sisi, na ndugu zetu waliotutangulia katika imani, na usiache chuki yoyote nyoyoni mwetu kwa wale walioamini. Mola wetu, Wewe ni Mpaji mwema na Mwenye kurehemu."
 
 وَٱلَّذِينَ جَآءُو مِنۢ بَعْدِهِمْ يَقُولُونَ رَبَّنَا ٱغْفِرْ لَنَا وَلِإِخْوَٰنِنَا ٱلَّذِينَ سَبَقُونَا بِٱلْإِيمَٰنِ وَلَا تَجْعَلْ فِى قُلُوبِنَا غِلًّۭا لِّلَّذِينَ ءَامَنُوا۟ رَبَّنَآ إِنَّكَ رَءُوفٌۭ رَّحِيمٌ
 
-**59:11** Je, hujawafikiria wale wanaofanya unafiki? Wanasema kwa ndugu zao waliokufuru miongoni mwa Watu wa Kitabu, “Kama mtafukuzwa, tutaondoka pamoja nanyi, na hatutamtii yeyote dhidi yenu; na kama yeyote atawapiga vita, hakika tutawasaidia.” Lakini Allah Anashuhudia kuwa wao ni waongo.
+**59:11** Je, hujawafikiria wale wanaofanya unafiki? Wanasema kwa ndugu zao waliokufuru miongoni mwa Watu wa Kitabu, "Kama mtafukuzwa, tutaondoka pamoja nanyi, na hatutamtii yeyote dhidi yenu; na kama yeyote atawapiga vita, hakika tutawasaidia." Lakini Allah Anashuhudia kuwa wao ni waongo.
 
 ۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ نَافَقُوا۟ يَقُولُونَ لِإِخْوَٰنِهِمُ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ لَئِنْ أُخْرِجْتُمْ لَنَخْرُجَنَّ مَعَكُمْ وَلَا نُطِيعُ فِيكُمْ أَحَدًا أَبَدًۭا وَإِن قُوتِلْتُمْ لَنَنصُرَنَّكُمْ وَٱللَّهُ يَشْهَدُ إِنَّهُمْ لَكَٰذِبُونَ
 
@@ -21428,7 +21428,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 كَمَثَلِ ٱلَّذِينَ مِن قَبْلِهِمْ قَرِيبًۭا ۖ ذَاقُوا۟ وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌۭ
 
-**59:16** Kama shetani, anapomwambia binadamu, “Kufuru.” Lakini anapokufuru, husema, “Mimi sina hatia juu yako; namwogopa Allah, Mola wa walimwengu.”
+**59:16** Kama shetani, anapomwambia binadamu, "Kufuru." Lakini anapokufuru, husema, "Mimi sina hatia juu yako; namwogopa Allah, Mola wa walimwengu."
 
 كَمَثَلِ ٱلشَّيْطَٰنِ إِذْ قَالَ لِلْإِنسَٰنِ ٱكْفُرْ فَلَمَّا كَفَرَ قَالَ إِنِّى بَرِىٓءٌۭ مِّنكَ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ
 
@@ -21488,11 +21488,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 لَن تَنفَعَكُمْ أَرْحَامُكُمْ وَلَآ أَوْلَٰدُكُمْ ۚ يَوْمَ ٱلْقِيَٰمَةِ يَفْصِلُ بَيْنَكُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌۭ
 
-**60:4** Mlikuwa na mfano mzuri katika Ibrahimu na wale waliokuwa pamoja naye; walipowaambia watu wao, “Sisi tuko huru nanyi, na mnavyoviabudu mbali na Allah. Tunawakataa. Uadui na chuki vimejitokeza kati yetu na ninyi, milele, mpaka mmwamini Allah peke yake.” Isipokuwa maneno ya Ibrahimu kwa baba yake, “Nitakuombea msamaha, ingawa sina uwezo kutoka kwa Allah wa kufanya chochote kwa ajili yako.” “Mola wetu, Kwako tunategemea, na Kwako tunatubia, na Kwako ndio mwisho wa kurudi.
+**60:4** Mlikuwa na mfano mzuri katika Ibrahimu na wale waliokuwa pamoja naye; walipowaambia watu wao, "Sisi tuko huru nanyi, na mnavyoviabudu mbali na Allah. Tunawakataa. Uadui na chuki vimejitokeza kati yetu na ninyi, milele, mpaka mmwamini Allah peke yake." Isipokuwa maneno ya Ibrahimu kwa baba yake, "Nitakuombea msamaha, ingawa sina uwezo kutoka kwa Allah wa kufanya chochote kwa ajili yako." "Mola wetu, Kwako tunategemea, na Kwako tunatubia, na Kwako ndio mwisho wa kurudi.
 
 قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌۭ فِىٓ إِبْرَٰهِيمَ وَٱلَّذِينَ مَعَهُۥٓ إِذْ قَالُوا۟ لِقَوْمِهِمْ إِنَّا بُرَءَٰٓؤُا۟ مِنكُمْ وَمِمَّا تَعْبُدُونَ مِن دُونِ ٱللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ ٱلْعَدَٰوَةُ وَٱلْبَغْضَآءُ أَبَدًا حَتَّىٰ تُؤْمِنُوا۟ بِٱللَّهِ وَحْدَهُۥٓ إِلَّا قَوْلَ إِبْرَٰهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَآ أَمْلِكُ لَكَ مِنَ ٱللَّهِ مِن شَىْءٍۢ ۖ رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ ٱلْمَصِيرُ
 
-**60:5** Mola wetu, usitufanye shabaha kwa wale waliokufuru, na tusamehe, Mola wetu. Hakika Wewe ni Mwenye nguvu na Mwenye hekima.”
+**60:5** Mola wetu, usitufanye shabaha kwa wale waliokufuru, na tusamehe, Mola wetu. Hakika Wewe ni Mwenye nguvu na Mwenye hekima."
 
 رَبَّنَا لَا تَجْعَلْنَا فِتْنَةًۭ لِّلَّذِينَ كَفَرُوا۟ وَٱغْفِرْ لَنَا رَبَّنَآ ۖ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
@@ -21556,11 +21556,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَٰتِلُونَ فِى سَبِيلِهِۦ صَفًّۭا كَأَنَّهُم بُنْيَٰنٌۭ مَّرْصُوصٌۭ
 
-**61:5** Musa alipowaambia watu wake, “Enyi watu wangu, kwa nini mnaniudhi, hali mnajua kuwa mimi ni Mtume wa Allah kwenu?” Na walipoigeuka, Allah Aliigeuza nyoyo zao. Allah Hawaongozi watu wenye dhambi.
+**61:5** Musa alipowaambia watu wake, "Enyi watu wangu, kwa nini mnaniudhi, hali mnajua kuwa mimi ni Mtume wa Allah kwenu?" Na walipoigeuka, Allah Aliigeuza nyoyo zao. Allah Hawaongozi watu wenye dhambi.
 
 وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ ۖ فَلَمَّا زَاغُوٓا۟ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 
-**61:6** Na Issa mwana wa Mariamu aliposema, “Enyi Wana wa Israeli, mimi ni Mtume wa Allah kwenu, nikiuthibitisha uliotangulia kabla yangu katika Taurati, na nikitoa habari njema ya mtume atakayekuja baada yangu, ambaye jina lake ni Ahmadi.” Lakini alipowaonyesha miujiza, wakasema, “Huu ni uchawi wa wazi.”
+**61:6** Na Issa mwana wa Mariamu aliposema, "Enyi Wana wa Israeli, mimi ni Mtume wa Allah kwenu, nikiuthibitisha uliotangulia kabla yangu katika Taurati, na nikitoa habari njema ya mtume atakayekuja baada yangu, ambaye jina lake ni Ahmadi." Lakini alipowaonyesha miujiza, wakasema, "Huu ni uchawi wa wazi."
 
 وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًۭا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍۢ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَٰتِ قَالُوا۟ هَٰذَا سِحْرٌۭ مُّبِينٌۭ
 
@@ -21592,7 +21592,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَأُخْرَىٰ تُحِبُّونَهَا ۖ نَصْرٌۭ مِّنَ ٱللَّهِ وَفَتْحٌۭ قَرِيبٌۭ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ
 
-**61:14** Enyi mlioamini! Kuweni wasaidizi wa Allah, kama Issa mwana wa Mariamu alivyowaambia wanafunzi, “Ni nani wasaidizi wangu kwa Allah?” Wanafunzi wakasema, “Sisi ni wasaidizi wa Allah.” Basi kundi la Wana wa Israeli likaamini, huku kundi jingine likikufuru. Tukawasaidia wale walioamini dhidi ya adui yao, basi wakawa washindi.
+**61:14** Enyi mlioamini! Kuweni wasaidizi wa Allah, kama Issa mwana wa Mariamu alivyowaambia wanafunzi, "Ni nani wasaidizi wangu kwa Allah?" Wanafunzi wakasema, "Sisi ni wasaidizi wa Allah." Basi kundi la Wana wa Israeli likaamini, huku kundi jingine likikufuru. Tukawasaidia wale walioamini dhidi ya adui yao, basi wakawa washindi.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوٓا۟ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ لِلْحَوَارِيِّۦنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ۖ فَـَٔامَنَت طَّآئِفَةٌۭ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌۭ ۖ فَأَيَّدْنَا ٱلَّذِينَ ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَٰهِرِينَ
 
@@ -21628,7 +21628,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 مَثَلُ ٱلَّذِينَ حُمِّلُوا۟ ٱلتَّوْرَىٰةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ ٱلْحِمَارِ يَحْمِلُ أَسْفَارًۢا ۚ بِئْسَ مَثَلُ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِ ٱللَّهِ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**62:6** Sema, “Enyi mnaofuata Uyahudi; kama mnadai kuwa ninyi ni wateule wa Allah, mbali na binadamu wengine, basi tamanini kifo kama ninyi ni wakweli.”
+**62:6** Sema, "Enyi mnaofuata Uyahudi; kama mnadai kuwa ninyi ni wateule wa Allah, mbali na binadamu wengine, basi tamanini kifo kama ninyi ni wakweli."
 
 قُلْ يَٰٓأَيُّهَا ٱلَّذِينَ هَادُوٓا۟ إِن زَعَمْتُمْ أَنَّكُمْ أَوْلِيَآءُ لِلَّهِ مِن دُونِ ٱلنَّاسِ فَتَمَنَّوُا۟ ٱلْمَوْتَ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -21636,7 +21636,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَا يَتَمَنَّوْنَهُۥٓ أَبَدًۢا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۚ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّٰلِمِينَ
 
-**62:8** Sema, “Kifo mnachokikimbia kitawafikia; kisha mtarejeshwa kwa Mjuzi wa Visivyoonekana na Vyoonekana, na Atawaambia mliyokuwa mkiyafanya.”
+**62:8** Sema, "Kifo mnachokikimbia kitawafikia; kisha mtarejeshwa kwa Mjuzi wa Visivyoonekana na Vyoonekana, na Atawaambia mliyokuwa mkiyafanya."
 
 قُلْ إِنَّ ٱلْمَوْتَ ٱلَّذِى تَفِرُّونَ مِنْهُ فَإِنَّهُۥ مُلَٰقِيكُمْ ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 
@@ -21648,7 +21648,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُوا۟ ٱللَّهَ كَثِيرًۭا لَّعَلَّكُمْ تُفْلِحُونَ
 
-**62:11** Lakini wanapoona biashara fulani, au burudani fulani, wanakimbilia huko, na wanakuacha umesimama. Sema, “Kilicho kwa Allah ni bora kuliko burudani na biashara; na Allah ni Mbora wa watoaji.”
+**62:11** Lakini wanapoona biashara fulani, au burudani fulani, wanakimbilia huko, na wanakuacha umesimama. Sema, "Kilicho kwa Allah ni bora kuliko burudani na biashara; na Allah ni Mbora wa watoaji."
 
 وَإِذَا رَأَوْا۟ تِجَٰرَةً أَوْ لَهْوًا ٱنفَضُّوٓا۟ إِلَيْهَا وَتَرَكُوكَ قَآئِمًۭا ۚ قُلْ مَا عِندَ ٱللَّهِ خَيْرٌۭ مِّنَ ٱللَّهْوِ وَمِنَ ٱلتِّجَٰرَةِ ۚ وَٱللَّهُ خَيْرُ ٱلرَّٰزِقِينَ
 
@@ -21664,7 +21664,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 *Kwa jina la Allah, Mwingi wa rehema, Mwenye kurehemu*
 
-**63:1** Wanafiki wanapokuja kwako, husema, “Tunashuhudia kuwa wewe ni Mtume wa Allah.” Allah Anajua kuwa wewe ni Mtume Wake, na Allah Anashuhudia kuwa wanafiki ni waongo.
+**63:1** Wanafiki wanapokuja kwako, husema, "Tunashuhudia kuwa wewe ni Mtume wa Allah." Allah Anajua kuwa wewe ni Mtume Wake, na Allah Anashuhudia kuwa wanafiki ni waongo.
 
 إِذَا جَآءَكَ ٱلْمُنَٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَٰفِقِينَ لَكَٰذِبُونَ
 
@@ -21680,7 +21680,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ۞ وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا۟ تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌۭ مُّسَنَّدَةٌۭ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ ٱلْعَدُوُّ فَٱحْذَرْهُمْ ۚ قَٰتَلَهُمُ ٱللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ
 
-**63:5** Na inapowaambiwa, “Njooni, Mtume wa Allah atawaombea msamaha,” wanainamisha vichwa vyao, na unawaona wakigeuka kwa kiburi.
+**63:5** Na inapowaambiwa, "Njooni, Mtume wa Allah atawaombea msamaha," wanainamisha vichwa vyao, na unawaona wakigeuka kwa kiburi.
 
 وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ يَسْتَغْفِرْ لَكُمْ رَسُولُ ٱللَّهِ لَوَّوْا۟ رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ
 
@@ -21688,11 +21688,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 
-**63:7** Ndiyo wale wanaosema: “Msiwatumie chochote wale walio upande wa Mtume wa Allah, mpaka wametawanyika.” Hazina za mbingu na ardhi ni za Allah, lakini wanafiki hawaelewi.
+**63:7** Ndiyo wale wanaosema: "Msiwatumie chochote wale walio upande wa Mtume wa Allah, mpaka wametawanyika." Hazina za mbingu na ardhi ni za Allah, lakini wanafiki hawaelewi.
 
 هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُوا۟ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّوا۟ ۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَٰكِنَّ ٱلْمُنَٰفِقِينَ لَا يَفْقَهُونَ
 
-**63:8** Wanasema, “Kama tukirejea mjini, wenye nguvu zaidi humo watawafukuza walio dhaifu.” Lakini nguvu ni ya Allah, na Mtume Wake, na waumini; lakini wanafiki hawajui.
+**63:8** Wanasema, "Kama tukirejea mjini, wenye nguvu zaidi humo watawafukuza walio dhaifu." Lakini nguvu ni ya Allah, na Mtume Wake, na waumini; lakini wanafiki hawajui.
 
 يَقُولُونَ لَئِن رَّجَعْنَآ إِلَى ٱلْمَدِينَةِ لَيُخْرِجَنَّ ٱلْأَعَزُّ مِنْهَا ٱلْأَذَلَّ ۚ وَلِلَّهِ ٱلْعِزَّةُ وَلِرَسُولِهِۦ وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ ٱلْمُنَٰفِقِينَ لَا يَعْلَمُونَ
 
@@ -21700,7 +21700,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُلْهِكُمْ أَمْوَٰلُكُمْ وَلَآ أَوْلَٰدُكُمْ عَن ذِكْرِ ٱللَّهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ
 
-**63:10** Na toeni kutoka katika Tulichowapa, kabla kifo hakijamfikia mmoja wenu, na akasema, “Mola wangu, laiti Ungalinichelewesha kwa muda mfupi, ili niweze kutoa sadaka, na niwe miongoni mwa waadilifu.”
+**63:10** Na toeni kutoka katika Tulichowapa, kabla kifo hakijamfikia mmoja wenu, na akasema, "Mola wangu, laiti Ungalinichelewesha kwa muda mfupi, ili niweze kutoa sadaka, na niwe miongoni mwa waadilifu."
 
 وَأَنفِقُوا۟ مِن مَّا رَزَقْنَٰكُم مِّن قَبْلِ أَن يَأْتِىَ أَحَدَكُمُ ٱلْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ أَخَّرْتَنِىٓ إِلَىٰٓ أَجَلٍۢ قَرِيبٍۢ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّٰلِحِينَ
 
@@ -21740,11 +21740,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَلَمْ يَأْتِكُمْ نَبَؤُا۟ ٱلَّذِينَ كَفَرُوا۟ مِن قَبْلُ فَذَاقُوا۟ وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌۭ
 
-**64:6** Hayo ni kwa sababu wajumbe wao waliwafikia kwa maelezo yaliyo wazi, lakini walisema, “Je, wanadamu ndio watatuongoza sisi?” Basi wakakufuru na wakageuka. Lakini Allah hana haja. Allah ni Mkwasi na Mwenye kusifiwa.
+**64:6** Hayo ni kwa sababu wajumbe wao waliwafikia kwa maelezo yaliyo wazi, lakini walisema, "Je, wanadamu ndio watatuongoza sisi?" Basi wakakufuru na wakageuka. Lakini Allah hana haja. Allah ni Mkwasi na Mwenye kusifiwa.
 
 ذَٰلِكَ بِأَنَّهُۥ كَانَت تَّأْتِيهِمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَقَالُوٓا۟ أَبَشَرٌۭ يَهْدُونَنَا فَكَفَرُوا۟ وَتَوَلَّوا۟ ۚ وَّٱسْتَغْنَى ٱللَّهُ ۚ وَٱللَّهُ غَنِىٌّ حَمِيدٌۭ
 
-**64:7** Wale wanaokufuru hudai kwamba hawatafufuliwa. Sema, “Naam hakika, naapa kwa Mola wangu, mtafufuliwa; kisha mtaelezwa kila mlilolifanya; na hayo ni mepesi kwa Allah.”
+**64:7** Wale wanaokufuru hudai kwamba hawatafufuliwa. Sema, "Naam hakika, naapa kwa Mola wangu, mtafufuliwa; kisha mtaelezwa kila mlilolifanya; na hayo ni mepesi kwa Allah."
 
 زَعَمَ ٱلَّذِينَ كَفَرُوٓا۟ أَن لَّن يُبْعَثُوا۟ ۚ قُلْ بَلَىٰ وَرَبِّى لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ ۚ وَذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌۭ
 
@@ -21872,7 +21872,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 قَدْ فَرَضَ ٱللَّهُ لَكُمْ تَحِلَّةَ أَيْمَٰنِكُمْ ۚ وَٱللَّهُ مَوْلَىٰكُمْ ۖ وَهُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
 
-**66:3** Mtume aliambia mmoja wa wake zake jambo kwa siri. Lakini alipolifichua, na Allah akamjulisha; alisema sehemu yake, na akaepuka sehemu nyingine. Kisha, alipomjulisha, alisema, “Ni nani aliyekujulisha haya?” Akasema, “Mjuzi wa yote, Mwenye habari zote, ndiye aliyenijulisha.”
+**66:3** Mtume aliambia mmoja wa wake zake jambo kwa siri. Lakini alipolifichua, na Allah akamjulisha; alisema sehemu yake, na akaepuka sehemu nyingine. Kisha, alipomjulisha, alisema, "Ni nani aliyekujulisha haya?" Akasema, "Mjuzi wa yote, Mwenye habari zote, ndiye aliyenijulisha."
 
 وَإِذْ أَسَرَّ ٱلنَّبِىُّ إِلَىٰ بَعْضِ أَزْوَٰجِهِۦ حَدِيثًۭا فَلَمَّا نَبَّأَتْ بِهِۦ وَأَظْهَرَهُ ٱللَّهُ عَلَيْهِ عَرَّفَ بَعْضَهُۥ وَأَعْرَضَ عَنۢ بَعْضٍۢ ۖ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتْ مَنْ أَنۢبَأَكَ هَٰذَا ۖ قَالَ نَبَّأَنِىَ ٱلْعَلِيمُ ٱلْخَبِيرُ
 
@@ -21892,7 +21892,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 يَٰٓأَيُّهَا ٱلَّذِينَ كَفَرُوا۟ لَا تَعْتَذِرُوا۟ ٱلْيَوْمَ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ
 
-**66:8** Enyi mliyoamini! Tubuni kwa Allah kwa toba ya kweli. Huenda Mola wenu akawasamehe dhambi zenu, na akawaingiza katika bustani ambazo mito inapita chini yake, Siku ambayo Allah hatamfedhehesha Mtume na wale walioamini pamoja naye. Nuru yao inakwenda mbele yao, na upande wao wa kulia, watasema, “Mola wetu, tukamilishie nuru yetu, na tusamehe; Wewe una uwezo juu ya kila kitu.”
+**66:8** Enyi mliyoamini! Tubuni kwa Allah kwa toba ya kweli. Huenda Mola wenu akawasamehe dhambi zenu, na akawaingiza katika bustani ambazo mito inapita chini yake, Siku ambayo Allah hatamfedhehesha Mtume na wale walioamini pamoja naye. Nuru yao inakwenda mbele yao, na upande wao wa kulia, watasema, "Mola wetu, tukamilishie nuru yetu, na tusamehe; Wewe una uwezo juu ya kila kitu."
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ تُوبُوٓا۟ إِلَى ٱللَّهِ تَوْبَةًۭ نَّصُوحًا عَسَىٰ رَبُّكُمْ أَن يُكَفِّرَ عَنكُمْ سَيِّـَٔاتِكُمْ وَيُدْخِلَكُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ يَوْمَ لَا يُخْزِى ٱللَّهُ ٱلنَّبِىَّ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ ۖ نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِمْ يَقُولُونَ رَبَّنَآ أَتْمِمْ لَنَا نُورَنَا وَٱغْفِرْ لَنَآ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
@@ -21900,11 +21900,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 يَٰٓأَيُّهَا ٱلنَّبِىُّ جَٰهِدِ ٱلْكُفَّارَ وَٱلْمُنَٰفِقِينَ وَٱغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَىٰهُمْ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ
 
-**66:10** Allah anatoa mfano wa wale waliokufuru: mke wa Nuhu na mke wa Luti. Walikuwa chini ya watumishi wetu wawili wema, lakini wakawasaliti. Hawakuwafaa kitu dhidi ya Allah, na ikasemwa, “Ingieni Motoni pamoja na wanaoingia.”
+**66:10** Allah anatoa mfano wa wale waliokufuru: mke wa Nuhu na mke wa Luti. Walikuwa chini ya watumishi wetu wawili wema, lakini wakawasaliti. Hawakuwafaa kitu dhidi ya Allah, na ikasemwa, "Ingieni Motoni pamoja na wanaoingia."
 
 ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ
 
-**66:11** Na Allah anatoa mfano wa wale wanaoamini: mke wa Firauni, aliposema, “Mola wangu, nijengee, Kwako Wewe, nyumba Peponi, na niokoe na Firauni na matendo yake, na niokoe na watu wadhalimu.”
+**66:11** Na Allah anatoa mfano wa wale wanaoamini: mke wa Firauni, aliposema, "Mola wangu, nijengee, Kwako Wewe, nyumba Peponi, na niokoe na Firauni na matendo yake, na niokoe na watu wadhalimu."
 
 وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
 
@@ -21952,15 +21952,15 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِذَآ أُلْقُوا۟ فِيهَا سَمِعُوا۟ لَهَا شَهِيقًۭا وَهِىَ تَفُورُ
 
-**67:8** Inakaribia kupasuka kwa hasira. Kila mara kikundi kinapotupwa humo, walinzi wake watawauliza, “Je, hakuna muonyaji aliyewafikia?”
+**67:8** Inakaribia kupasuka kwa hasira. Kila mara kikundi kinapotupwa humo, walinzi wake watawauliza, "Je, hakuna muonyaji aliyewafikia?"
 
 تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ ۖ كُلَّمَآ أُلْقِىَ فِيهَا فَوْجٌۭ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌۭ
 
-**67:9** Watasema, “Naam, muonyaji alitufikia kweli, lakini tukakufuru, na tukasema, ‘Allah hakuteremsha kitu chochote; ninyi mme potoka sana.’”
+**67:9** Watasema, "Naam, muonyaji alitufikia kweli, lakini tukakufuru, na tukasema, 'Allah hakuteremsha kitu chochote; ninyi mme potoka sana.'"
 
 قَالُوا۟ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌۭ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ ٱللَّهُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا فِى ضَلَٰلٍۢ كَبِيرٍۢ
 
-**67:10** Na watasema, “Laiti tungesikiliza au kutumia akili, tusingekuwa miongoni mwa wenyeji wa Moto unaowaka.”
+**67:10** Na watasema, "Laiti tungesikiliza au kutumia akili, tusingekuwa miongoni mwa wenyeji wa Moto unaowaka."
 
 وَقَالُوا۟ لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىٓ أَصْحَٰبِ ٱلسَّعِيرِ
 
@@ -22012,35 +22012,35 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَفَمَن يَمْشِى مُكِبًّا عَلَىٰ وَجْهِهِۦٓ أَهْدَىٰٓ أَمَّن يَمْشِى سَوِيًّا عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
 
-**67:23** Sema, “Ndiye aliyewaumba ninyi; na akawapa usikivu, na uoni, na viungo. Lakini ni mara chache tu mnashukuru.”
+**67:23** Sema, "Ndiye aliyewaumba ninyi; na akawapa usikivu, na uoni, na viungo. Lakini ni mara chache tu mnashukuru."
 
 قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ ۖ قَلِيلًۭا مَّا تَشْكُرُونَ
 
-**67:24** Sema, “Ndiye aliyewatawanya ardhini, na kwake Yeye mtakusanywa.”
+**67:24** Sema, "Ndiye aliyewatawanya ardhini, na kwake Yeye mtakusanywa."
 
 قُلْ هُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ
 
-**67:25** Na wanasema, “Ahadi hii itatimizwa lini, ikiwa mnasema kweli?”
+**67:25** Na wanasema, "Ahadi hii itatimizwa lini, ikiwa mnasema kweli?"
 
 وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
 
-**67:26** Sema, “Ujuzi uko kwa Allah, na mimi ni muonyaji tu aliye wazi.”
+**67:26** Sema, "Ujuzi uko kwa Allah, na mimi ni muonyaji tu aliye wazi."
 
 قُلْ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٌۭ مُّبِينٌۭ
 
-**67:27** Lakini watakapoiona ikikaribia, nyuso za wale waliokufuru zitakuwa na huzuni, na itasemwa, “Hii ndiyo mliyokuwa mkiitaka.”
+**67:27** Lakini watakapoiona ikikaribia, nyuso za wale waliokufuru zitakuwa na huzuni, na itasemwa, "Hii ndiyo mliyokuwa mkiitaka."
 
 فَلَمَّا رَأَوْهُ زُلْفَةًۭ سِيٓـَٔتْ وُجُوهُ ٱلَّذِينَ كَفَرُوا۟ وَقِيلَ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تَدَّعُونَ
 
-**67:28** Sema, “Je, mmefikiria? Kama Allah akinifanya niangamie, na wale walio pamoja nami; au akituhurumia; ni nani atakayewalinda makafiri na adhabu yenye uchungu?”
+**67:28** Sema, "Je, mmefikiria? Kama Allah akinifanya niangamie, na wale walio pamoja nami; au akituhurumia; ni nani atakayewalinda makafiri na adhabu yenye uchungu?"
 
 قُلْ أَرَءَيْتُمْ إِنْ أَهْلَكَنِىَ ٱللَّهُ وَمَن مَّعِىَ أَوْ رَحِمَنَا فَمَن يُجِيرُ ٱلْكَٰفِرِينَ مِنْ عَذَابٍ أَلِيمٍۢ
 
-**67:29** Sema, “Yeye ni Mwingi wa rehema. Tunamwamini Yeye, na tunamtegemea Yeye. Hivi karibuni mtajua ni nani aliye katika upotofu ulio wazi.”
+**67:29** Sema, "Yeye ni Mwingi wa rehema. Tunamwamini Yeye, na tunamtegemea Yeye. Hivi karibuni mtajua ni nani aliye katika upotofu ulio wazi."
 
 قُلْ هُوَ ٱلرَّحْمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيْهِ تَوَكَّلْنَا ۖ فَسَتَعْلَمُونَ مَنْ هُوَ فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
-**67:30** Sema, “Je, mmefikiria? Kama maji yenu yakitoweka, ni nani atakayewaletea maji safi yanayotiririka?”
+**67:30** Sema, "Je, mmefikiria? Kama maji yenu yakitoweka, ni nani atakayewaletea maji safi yanayotiririka?"
 
 قُلْ أَرَءَيْتُمْ إِنْ أَصْبَحَ مَآؤُكُمْ غَوْرًۭا فَمَن يَأْتِيكُم بِمَآءٍۢ مَّعِينٍۭ
 
@@ -22112,7 +22112,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَن كَانَ ذَا مَالٍۢ وَبَنِينَ
 
-**68:15** Aya zetu zinaposomwa kwake, husema, “Hadithi za watu wa kale!”
+**68:15** Aya zetu zinaposomwa kwake, husema, "Hadithi za watu wa kale!"
 
 إِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
@@ -22140,7 +22140,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَتَنَادَوْا۟ مُصْبِحِينَ
 
-**68:22** “Nendeni mapema katika shamba lenu, kama mtavuna.”
+**68:22** "Nendeni mapema katika shamba lenu, kama mtavuna."
 
 أَنِ ٱغْدُوا۟ عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَٰرِمِينَ
 
@@ -22148,7 +22148,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَٱنطَلَقُوا۟ وَهُمْ يَتَخَٰفَتُونَ
 
-**68:24** “Maskini yeyote asiingie kwenu leo.”
+**68:24** "Maskini yeyote asiingie kwenu leo."
 
 أَن لَّا يَدْخُلَنَّهَا ٱلْيَوْمَ عَلَيْكُم مِّسْكِينٌۭ
 
@@ -22156,19 +22156,19 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَغَدَوْا۟ عَلَىٰ حَرْدٍۢ قَٰدِرِينَ
 
-**68:26** Lakini walipoiona, wakasema, “Tumekosea.
+**68:26** Lakini walipoiona, wakasema, "Tumekosea.
 
 فَلَمَّا رَأَوْهَا قَالُوٓا۟ إِنَّا لَضَآلُّونَ
 
-**68:27** Sasa tumenyimwa.”
+**68:27** Sasa tumenyimwa."
 
 بَلْ نَحْنُ مَحْرُومُونَ
 
-**68:28** Mwenye akili zaidi miongoni mwao akasema, “Je, sikukuambieni, ‘laiti mngemtukuza?’”
+**68:28** Mwenye akili zaidi miongoni mwao akasema, "Je, sikukuambieni, 'laiti mngemtukuza?'"
 
 قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ
 
-**68:29** Wakasema, “Utukufu kwa Mola wetu—hakika tulikuwa tumekosea.”
+**68:29** Wakasema, "Utukufu kwa Mola wetu—hakika tulikuwa tumekosea."
 
 قَالُوا۟ سُبْحَٰنَ رَبِّنَآ إِنَّا كُنَّا ظَٰلِمِينَ
 
@@ -22176,11 +22176,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَٰوَمُونَ
 
-**68:31** Wakasema, “Ole wetu—hakika tulikuwa wadhalimu.
+**68:31** Wakasema, "Ole wetu—hakika tulikuwa wadhalimu.
 
 قَالُوا۟ يَٰوَيْلَنَآ إِنَّا كُنَّا طَٰغِينَ
 
-**68:32** Huenda Mola wetu akatupa badala yake kilicho bora zaidi. Tunageukia kwa Mola wetu.”
+**68:32** Huenda Mola wetu akatupa badala yake kilicho bora zaidi. Tunageukia kwa Mola wetu."
 
 عَسَىٰ رَبُّنَآ أَن يُبْدِلَنَا خَيْرًۭا مِّنْهَآ إِنَّآ إِلَىٰ رَبِّنَا رَٰغِبُونَ
 
@@ -22256,7 +22256,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَٱجْتَبَٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّٰلِحِينَ
 
-**68:51** Wale wanaokufuru karibu wanakuchoma kwa mionzi ya macho yao wanaposikia ujumbe, na wanasema, “Yeye ni mwendawazimu!”
+**68:51** Wale wanaokufuru karibu wanakuchoma kwa mionzi ya macho yao wanaposikia ujumbe, na wanasema, "Yeye ni mwendawazimu!"
 
 وَإِن يَكَادُ ٱلَّذِينَ كَفَرُوا۟ لَيُزْلِقُونَكَ بِأَبْصَٰرِهِمْ لَمَّا سَمِعُوا۟ ٱلذِّكْرَ وَيَقُولُونَ إِنَّهُۥ لَمَجْنُونٌۭ
 
@@ -22348,11 +22348,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 يَوْمَئِذٍۢ تُعْرَضُونَ لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌۭ
 
-**69:19** Kwa yule anayepewa kitabu chake mkononi mwake wa kulia, atasema, “Haya, chukueni kitabu changu na mkisome.
+**69:19** Kwa yule anayepewa kitabu chake mkononi mwake wa kulia, atasema, "Haya, chukueni kitabu changu na mkisome.
 
 فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَٰبِيَهْ
 
-**69:20** Nilijua kwamba nitahesabiwa.”
+**69:20** Nilijua kwamba nitahesabiwa."
 
 إِنِّى ظَنَنتُ أَنِّى مُلَٰقٍ حِسَابِيَهْ
 
@@ -22368,11 +22368,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 قُطُوفُهَا دَانِيَةٌۭ
 
-**69:24** “Kuleni na kunyweni kwa furaha kwa yale mliyoyafanya katika siku zilizopita.”
+**69:24** "Kuleni na kunyweni kwa furaha kwa yale mliyoyafanya katika siku zilizopita."
 
 كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَآ أَسْلَفْتُمْ فِى ٱلْأَيَّامِ ٱلْخَالِيَةِ
 
-**69:25** Lakini kwa yule anayepewa kitabu chake mkononi mwake wa kushoto, atasema, “Laiti nisingepewa kitabu changu kamwe.
+**69:25** Lakini kwa yule anayepewa kitabu chake mkononi mwake wa kushoto, atasema, "Laiti nisingepewa kitabu changu kamwe.
 
 وَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَٰلَيْتَنِى لَمْ أُوتَ كِتَٰبِيَهْ
 
@@ -22388,11 +22388,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 مَآ أَغْنَىٰ عَنِّى مَالِيَهْ ۜ
 
-**69:29** Nguvu zangu zimetoweka kwangu.”
+**69:29** Nguvu zangu zimetoweka kwangu."
 
 هَلَكَ عَنِّى سُلْطَٰنِيَهْ
 
-**69:30** “Mchukueni na mfungieni minyororo.
+**69:30** "Mchukueni na mfungieni minyororo.
 
 خُذُوهُ فَغُلُّوهُ
 
@@ -22420,7 +22420,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍۢ
 
-**69:37** Ambayo watenda dhambi tu huila.”
+**69:37** Ambayo watenda dhambi tu huila."
 
 لَّا يَأْكُلُهُۥٓ إِلَّا ٱلْخَٰطِـُٔونَ
 
@@ -22684,11 +22684,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 *Kwa jina la Allah, Mwingi wa rehema, Mwenye kurehemu*
 
-**71:1** Tulimtuma Nuhu kwa watu wake: “Waonye watu wako kabla haijawafikia adhabu yenye uchungu.”
+**71:1** Tulimtuma Nuhu kwa watu wake: "Waonye watu wako kabla haijawafikia adhabu yenye uchungu."
 
 إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌۭ
 
-**71:2** Akasema, “Enyi watu wangu, mimi kwenu ni muonyaji aliye wazi.
+**71:2** Akasema, "Enyi watu wangu, mimi kwenu ni muonyaji aliye wazi.
 
 قَالَ يَٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ
 
@@ -22696,11 +22696,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ
 
-**71:4** Na atawasamehe dhambi zenu, na atawaahirishia mpaka muda uliowekwa. Muda wa Allah hauwezi kuahirishwa ukishafika, laiti mngekuwa mnajua.”
+**71:4** Na atawasamehe dhambi zenu, na atawaahirishia mpaka muda uliowekwa. Muda wa Allah hauwezi kuahirishwa ukishafika, laiti mngekuwa mnajua."
 
 يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰٓ أَجَلٍۢ مُّسَمًّى ۚ إِنَّ أَجَلَ ٱللَّهِ إِذَا جَآءَ لَا يُؤَخَّرُ ۖ لَوْ كُنتُمْ تَعْلَمُونَ
 
-**71:5** Akasema, “Mola wangu, nimewaita watu wangu usiku na mchana.
+**71:5** Akasema, "Mola wangu, nimewaita watu wangu usiku na mchana.
 
 قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا
 
@@ -22720,7 +22720,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ثُمَّ إِنِّىٓ أَعْلَنتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًۭا
 
-**71:10** Nikasema, ‘Mwombeni Mola wenu msamaha; Yeye ni Mwenye kusamehe.
+**71:10** Nikasema, 'Mwombeni Mola wenu msamaha; Yeye ni Mwenye kusamehe.
 
 فَقُلْتُ ٱسْتَغْفِرُوا۟ رَبَّكُمْ إِنَّهُۥ كَانَ غَفَّارًۭا
 
@@ -22760,11 +22760,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَٱللَّهُ جَعَلَ لَكُمُ ٱلْأَرْضَ بِسَاطًۭا
 
-**71:20** Ili mtembee katika barabara zake mbalimbali.’”
+**71:20** Ili mtembee katika barabara zake mbalimbali.'"
 
 لِّتَسْلُكُوا۟ مِنْهَا سُبُلًۭا فِجَاجًۭا
 
-**71:21** Nuhu akasema, “Mola wangu, wameniasi, na wamemfuata yule ambaye mali yake na watoto wake vinamzidishia tu hasara.”
+**71:21** Nuhu akasema, "Mola wangu, wameniasi, na wamemfuata yule ambaye mali yake na watoto wake vinamzidishia tu hasara."
 
 قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا
 
@@ -22772,11 +22772,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَمَكَرُوا۟ مَكْرًۭا كُبَّارًۭا
 
-**71:23** Na wakasema, “Msiwaache miungu yenu; msiwaache Wadd, wala Suwa, wala Yaghuth, na Ya'uq, na Nasr.
+**71:23** Na wakasema, "Msiwaache miungu yenu; msiwaache Wadd, wala Suwa, wala Yaghuth, na Ya'uq, na Nasr.
 
 وَقَالُوا۟ لَا تَذَرُنَّ ءَالِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّۭا وَلَا سُوَاعًۭا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًۭا
 
-**71:24** Wamewapoteza wengi, basi usiwazidishie wadhalimu isipokuwa kuchanganyikiwa.”
+**71:24** Wamewapoteza wengi, basi usiwazidishie wadhalimu isipokuwa kuchanganyikiwa."
 
 وَقَدْ أَضَلُّوا۟ كَثِيرًۭا ۖ وَلَا تَزِدِ ٱلظَّٰلِمِينَ إِلَّا ضَلَٰلًۭا
 
@@ -22784,7 +22784,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 مِّمَّا خَطِيٓـَٰٔتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا
 
-**71:26** Nuhu akasema, “Mola wangu, usiwaache makafiri hata mkaaji mmoja ardhini.
+**71:26** Nuhu akasema, "Mola wangu, usiwaache makafiri hata mkaaji mmoja ardhini.
 
 وَقَالَ نُوحٌۭ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَٰفِرِينَ دَيَّارًا
 
@@ -22792,7 +22792,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا۟ عِبَادَكَ وَلَا يَلِدُوٓا۟ إِلَّا فَاجِرًۭا كَفَّارًۭا
 
-**71:28** Mola wangu! Nisamehe mimi na wazazi wangu, na yeyote anayeingia nyumbani kwangu akiwa na imani, na wanaume waumini wote na wanawake waumini wote; na usiwazidishie wadhalimu isipokuwa hasara.”
+**71:28** Mola wangu! Nisamehe mimi na wazazi wangu, na yeyote anayeingia nyumbani kwangu akiwa na imani, na wanaume waumini wote na wanawake waumini wote; na usiwazidishie wadhalimu isipokuwa hasara."
 
 رَّبِّ ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِمَن دَخَلَ بَيْتِىَ مُؤْمِنًۭا وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ وَلَا تَزِدِ ٱلظَّٰلِمِينَ إِلَّا تَبَارًۢا
 
@@ -22808,7 +22808,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 *Kwa jina la Allah, Mwingi wa rehema, Mwenye kurehemu*
 
-**72:1** Sema, “Nilifunuliwa kwamba kikundi cha majini kilisikiliza, na kikisema, ‘Tumesikia Kurani ya kushangaza.
+**72:1** Sema, "Nilifunuliwa kwamba kikundi cha majini kilisikiliza, na kikisema, 'Tumesikia Kurani ya kushangaza.
 
 قُلْ أُوحِىَ إِلَىَّ أَنَّهُ ٱسْتَمَعَ نَفَرٌۭ مِّنَ ٱلْجِنِّ فَقَالُوٓا۟ إِنَّا سَمِعْنَا قُرْءَانًا عَجَبًۭا
 
@@ -22864,7 +22864,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَأَنَّا مِنَّا ٱلْمُسْلِمُونَ وَمِنَّا ٱلْقَٰسِطُونَ ۖ فَمَنْ أَسْلَمَ فَأُو۟لَٰٓئِكَ تَحَرَّوْا۟ رَشَدًۭا
 
-**72:15** Lakini kwa wafanya maelewano—watakuwa kuni za Jahannamu.’”
+**72:15** Lakini kwa wafanya maelewano—watakuwa kuni za Jahannamu.'"
 
 وَأَمَّا ٱلْقَٰسِطُونَ فَكَانُوا۟ لِجَهَنَّمَ حَطَبًۭا
 
@@ -22884,19 +22884,19 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَأَنَّهُۥ لَمَّا قَامَ عَبْدُ ٱللَّهِ يَدْعُوهُ كَادُوا۟ يَكُونُونَ عَلَيْهِ لِبَدًۭا
 
-**72:20** Sema, “Namwomba Mola wangu tu, na simshirikishi yeyote na Yeye kamwe.”
+**72:20** Sema, "Namwomba Mola wangu tu, na simshirikishi yeyote na Yeye kamwe."
 
 قُلْ إِنَّمَآ أَدْعُوا۟ رَبِّى وَلَآ أُشْرِكُ بِهِۦٓ أَحَدًۭا
 
-**72:21** Sema, “Sina uwezo wa kuwadhuru ninyi, wala kuwaongoza kwenye mwenendo sahihi.”
+**72:21** Sema, "Sina uwezo wa kuwadhuru ninyi, wala kuwaongoza kwenye mwenendo sahihi."
 
 قُلْ إِنِّى لَآ أَمْلِكُ لَكُمْ ضَرًّۭا وَلَا رَشَدًۭا
 
-**72:22** Sema, “Hakuna anayeweza kunilinda na Allah, na sitapata kimbilio lolote isipokuwa kwake Yeye.
+**72:22** Sema, "Hakuna anayeweza kunilinda na Allah, na sitapata kimbilio lolote isipokuwa kwake Yeye.
 
 قُلْ إِنِّى لَن يُجِيرَنِى مِنَ ٱللَّهِ أَحَدٌۭ وَلَنْ أَجِدَ مِن دُونِهِۦ مُلْتَحَدًا
 
-**72:23** Isipokuwa kwa tangazo kutoka kwa Allah na ujumbe wake. Yeyote anayemwasi Allah na Mjumbe wake—kwake kuna Moto wa Jahannamu, ambao watakaa humo milele.”
+**72:23** Isipokuwa kwa tangazo kutoka kwa Allah na ujumbe wake. Yeyote anayemwasi Allah na Mjumbe wake—kwake kuna Moto wa Jahannamu, ambao watakaa humo milele."
 
 إِلَّا بَلَٰغًۭا مِّنَ ٱللَّهِ وَرِسَٰلَٰتِهِۦ ۚ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ لَهُۥ نَارَ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أَبَدًا
 
@@ -22904,7 +22904,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًۭا وَأَقَلُّ عَدَدًۭا
 
-**72:25** Sema, “Sijui kama mnachoahidiwa kiko karibu, au kama Mola wangu atakirefusha kwa muda.”
+**72:25** Sema, "Sijui kama mnachoahidiwa kiko karibu, au kama Mola wangu atakirefusha kwa muda."
 
 قُلْ إِنْ أَدْرِىٓ أَقَرِيبٌۭ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُۥ رَبِّىٓ أَمَدًا
 
@@ -23116,11 +23116,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ثُمَّ أَدْبَرَ وَٱسْتَكْبَرَ
 
-**74:24** Na akasema, “Huu si kitu isipokuwa uchawi wa zamani.
+**74:24** Na akasema, "Huu si kitu isipokuwa uchawi wa zamani.
 
 فَقَالَ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ يُؤْثَرُ
 
-**74:25** Huu si kitu isipokuwa neno la mwanadamu.”
+**74:25** Huu si kitu isipokuwa neno la mwanadamu."
 
 إِنْ هَٰذَآ إِلَّا قَوْلُ ٱلْبَشَرِ
 
@@ -23144,7 +23144,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 عَلَيْهَا تِسْعَةَ عَشَرَ
 
-**74:31** Tumewateua malaika tu kuwa walinzi wa Moto, na tumeifanya idadi yao kuwa jaribio kwa wale wanaokufuru; ili wale waliopewa Kitabu wapate uhakika; na wale wanaoamini wazidi kuamini; na wale waliopewa Kitabu na waumini wasiwe na shaka; na wale ambao mioyoni mwao kuna ugonjwa na makafiri waseme, “Allah alikusudia nini kwa mfano huu?” Hivyo Allah humwongoza anayetaka kupotea, na humwongoza anayetaka. Hakuna anayejua majeshi ya Mola wako isipokuwa Yeye. Huu si kitu isipokuwa ukumbusho kwa wanadamu.
+**74:31** Tumewateua malaika tu kuwa walinzi wa Moto, na tumeifanya idadi yao kuwa jaribio kwa wale wanaokufuru; ili wale waliopewa Kitabu wapate uhakika; na wale wanaoamini wazidi kuamini; na wale waliopewa Kitabu na waumini wasiwe na shaka; na wale ambao mioyoni mwao kuna ugonjwa na makafiri waseme, "Allah alikusudia nini kwa mfano huu?" Hivyo Allah humwongoza anayetaka kupotea, na humwongoza anayetaka. Hakuna anayejua majeshi ya Mola wako isipokuwa Yeye. Huu si kitu isipokuwa ukumbusho kwa wanadamu.
 
 وَمَا جَعَلْنَآ أَصْحَٰبَ ٱلنَّارِ إِلَّا مَلَٰٓئِكَةًۭ ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةًۭ لِّلَّذِينَ كَفَرُوا۟ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوٓا۟ إِيمَٰنًۭا ۙ وَلَا يَرْتَابَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَٱلْمُؤْمِنُونَ ۙ وَلِيَقُولَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ وَٱلْكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ
 
@@ -23188,11 +23188,11 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 عَنِ ٱلْمُجْرِمِينَ
 
-**74:42** “Ni nini kilichowapeleka katika Saqar?”
+**74:42** "Ni nini kilichowapeleka katika Saqar?"
 
 مَا سَلَكَكُمْ فِى سَقَرَ
 
-**74:43** Watasema, “Hatukuwa miongoni mwa waliokuwa wakisali.
+**74:43** Watasema, "Hatukuwa miongoni mwa waliokuwa wakisali.
 
 قَالُوا۟ لَمْ نَكُ مِنَ ٱلْمُصَلِّينَ
 
@@ -23208,7 +23208,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَكُنَّا نُكَذِّبُ بِيَوْمِ ٱلدِّينِ
 
-**74:47** Mpaka Hakika isiyoepukika ikatufikia.”
+**74:47** Mpaka Hakika isiyoepukika ikatufikia."
 
 حَتَّىٰٓ أَتَىٰنَا ٱلْيَقِينُ
 

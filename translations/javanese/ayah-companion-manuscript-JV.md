@@ -210,7 +210,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰٓ أَبْصَٰرِهِمْ غِشَٰوَةٌۭ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌۭ
 
-**2:8** Ing antawisipun manungsa wonten tiyang ingkang matur, “Kawula pitados dhumateng Gusti Allah lan dhumateng Dinten Pungkasan,” nanging piyambakipun sanes tiyang pitados.
+**2:8** Ing antawisipun manungsa wonten tiyang ingkang matur, "Kawula pitados dhumateng Gusti Allah lan dhumateng Dinten Pungkasan," nanging piyambakipun sanes tiyang pitados.
 
 وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ وَبِٱلْيَوْمِ ٱلْءَاخِرِ وَمَا هُم بِمُؤْمِنِينَ
 
@@ -222,7 +222,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 فِى قُلُوبِهِم مَّرَضٌۭ فَزَادَهُمُ ٱللَّهُ مَرَضًۭا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْذِبُونَ
 
-**2:11** Lan menawi dipunngendikakaken dhumateng piyambakipun, “Aja gawe kisruh ing bumi,” piyambakipun matur, “Kawula namung tiyang ingkang ndandosi.”
+**2:11** Lan menawi dipunngendikakaken dhumateng piyambakipun, "Aja gawe kisruh ing bumi," piyambakipun matur, "Kawula namung tiyang ingkang ndandosi."
 
 وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ قَالُوٓا۟ إِنَّمَا نَحْنُ مُصْلِحُونَ
 
@@ -230,11 +230,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 أَلَآ إِنَّهُمْ هُمُ ٱلْمُفْسِدُونَ وَلَٰكِن لَّا يَشْعُرُونَ
 
-**2:13** Lan menawi dipunngendikakaken dhumateng piyambakipun, “Pitadosa kados tiyang-tiyang sampun pitados,” piyambakipun matur, “Menapa kawula badhe pitados kados tiyang bodho sampun pitados?” Satemene, piyambakipun ingkang bodho, nanging piyambakipun mboten mangertos.
+**2:13** Lan menawi dipunngendikakaken dhumateng piyambakipun, "Pitadosa kados tiyang-tiyang sampun pitados," piyambakipun matur, "Menapa kawula badhe pitados kados tiyang bodho sampun pitados?" Satemene, piyambakipun ingkang bodho, nanging piyambakipun mboten mangertos.
 
 وَإِذَا قِيلَ لَهُمْ ءَامِنُوا۟ كَمَآ ءَامَنَ ٱلنَّاسُ قَالُوٓا۟ أَنُؤْمِنُ كَمَآ ءَامَنَ ٱلسُّفَهَآءُ ۗ أَلَآ إِنَّهُمْ هُمُ ٱلسُّفَهَآءُ وَلَٰكِن لَّا يَعْلَمُونَ
 
-**2:14** Lan menawi piyambakipun kepanggih tiyang-tiyang ingkang pitados, piyambakipun matur, “Kawula pitados”; nanging menawi piyambakipun piyambakan kaliyan setan-setanipun, piyambakipun matur, “Kawula kaliyan sampeyan; kawula namung ngece.”
+**2:14** Lan menawi piyambakipun kepanggih tiyang-tiyang ingkang pitados, piyambakipun matur, "Kawula pitados"; nanging menawi piyambakipun piyambakan kaliyan setan-setanipun, piyambakipun matur, "Kawula kaliyan sampeyan; kawula namung ngece."
 
 وَإِذَا لَقُوا۟ ٱلَّذِينَ ءَامَنُوا۟ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ إِلَىٰ شَيَٰطِينِهِمْ قَالُوٓا۟ إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ مُسْتَهْزِءُونَ
 
@@ -278,11 +278,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِى وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ ۖ أُعِدَّتْ لِلْكَٰفِرِينَ
 
-**2:25** Lan paringana pawartos bingah dhumateng tiyang-tiyang ingkang pitados lan nindakaken tumindak sae; bilih piyambakipun badhe pikantuk kebon-kebon ingkang ing sangandhapipun kali-kali mili. Saben piyambakipun dipunparingi woh saking mrika dados rejeki, piyambakipun badhe matur, “Punika menapa ingkang sampun dipunparingaken dhumateng kawula sadherengipun,” lan piyambakipun badhe dipunparingi ingkang kados punika. Lan piyambakipun badhe pikantuk garwa-garwa ingkang suci ing mrika, lan piyambakipun badhe manggon ing mrika salaminipun.
+**2:25** Lan paringana pawartos bingah dhumateng tiyang-tiyang ingkang pitados lan nindakaken tumindak sae; bilih piyambakipun badhe pikantuk kebon-kebon ingkang ing sangandhapipun kali-kali mili. Saben piyambakipun dipunparingi woh saking mrika dados rejeki, piyambakipun badhe matur, "Punika menapa ingkang sampun dipunparingaken dhumateng kawula sadherengipun," lan piyambakipun badhe dipunparingi ingkang kados punika. Lan piyambakipun badhe pikantuk garwa-garwa ingkang suci ing mrika, lan piyambakipun badhe manggon ing mrika salaminipun.
 
 وَبَشِّرِ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۖ كُلَّمَا رُزِقُوا۟ مِنْهَا مِن ثَمَرَةٍۢ رِّزْقًۭا ۙ قَالُوا۟ هَٰذَا ٱلَّذِى رُزِقْنَا مِن قَبْلُ ۖ وَأُتُوا۟ بِهِۦ مُتَشَٰبِهًۭا ۖ وَلَهُمْ فِيهَآ أَزْوَٰجٌۭ مُّطَهَّرَةٌۭ ۖ وَهُمْ فِيهَا خَٰلِدُونَ
 
-**2:26** Gusti Allah mboten sungkan damel tuladha lemud, utawi menapa ingkang inggilipun. Menawi tiyang-tiyang ingkang pitados, piyambakipun mangertos bilih punika Bebener saking Pangeranipun. Nanging menawi tiyang-tiyang ingkang mboten pitados, piyambakipun matur, “Menapa maksudipun Gusti Allah kanthi tuladha punika?” Panjenenganipun nyasarakan kathah tiyang kanthi punika, lan Panjenenganipun nedahaken kathah tiyang kanthi punika; nanging Panjenenganipun mboten nyasarakan kanthi punika kejawi tiyang-tiyang ingkang tumindak ala.
+**2:26** Gusti Allah mboten sungkan damel tuladha lemud, utawi menapa ingkang inggilipun. Menawi tiyang-tiyang ingkang pitados, piyambakipun mangertos bilih punika Bebener saking Pangeranipun. Nanging menawi tiyang-tiyang ingkang mboten pitados, piyambakipun matur, "Menapa maksudipun Gusti Allah kanthi tuladha punika?" Panjenenganipun nyasarakan kathah tiyang kanthi punika, lan Panjenenganipun nedahaken kathah tiyang kanthi punika; nanging Panjenenganipun mboten nyasarakan kanthi punika kejawi tiyang-tiyang ingkang tumindak ala.
 
 ۞ إِنَّ ٱللَّهَ لَا يَسْتَحْىِۦٓ أَن يَضْرِبَ مَثَلًۭا مَّا بَعُوضَةًۭ فَمَا فَوْقَهَا ۚ فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ فَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ ۖ وَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَيَقُولُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلًۭا ۘ يُضِلُّ بِهِۦ كَثِيرًۭا وَيَهْدِى بِهِۦ كَثِيرًۭا ۚ وَمَا يُضِلُّ بِهِۦٓ إِلَّا ٱلْفَٰسِقِينَ
 
@@ -298,31 +298,31 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 هُوَ ٱلَّذِى خَلَقَ لَكُم مَّا فِى ٱلْأَرْضِ جَمِيعًۭا ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ فَسَوَّىٰهُنَّ سَبْعَ سَمَٰوَٰتٍۢ ۚ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌۭ
 
-**2:30** Nalika Pangeran sampeyan ngendika dhumateng para malaikat, “Ingsun badhe ndadosaken wakil ing bumi.” Piyambakipun matur, “Menapa Panjenengan badhe ndadosaken ing mrika tiyang ingkang badhe gawe karusakan ing mrika lan ngucuraken rah, nalika kawula ngucapaken puji Panjenengan lan nyucekaken Panjenengan?” Panjenenganipun ngendika, “Ingsun mangertos menapa ingkang sampeyan mboten mangertos.”
+**2:30** Nalika Pangeran sampeyan ngendika dhumateng para malaikat, "Ingsun badhe ndadosaken wakil ing bumi." Piyambakipun matur, "Menapa Panjenengan badhe ndadosaken ing mrika tiyang ingkang badhe gawe karusakan ing mrika lan ngucuraken rah, nalika kawula ngucapaken puji Panjenengan lan nyucekaken Panjenengan?" Panjenenganipun ngendika, "Ingsun mangertos menapa ingkang sampeyan mboten mangertos."
 
 وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى جَاعِلٌۭ فِى ٱلْأَرْضِ خَلِيفَةًۭ ۖ قَالُوٓا۟ أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ ٱلدِّمَآءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ ۖ قَالَ إِنِّىٓ أَعْلَمُ مَا لَا تَعْلَمُونَ
 
-**2:31** Lan Panjenenganipun mulang Adam asma-asma, sadayanipun; lajeng Panjenenganipun nedahaken asma-asma punika dhumateng para malaikat, lan ngendika, “Sebutna dhumateng Ingsun asma-asma punika, menawi sampeyan pancen tulus.”
+**2:31** Lan Panjenenganipun mulang Adam asma-asma, sadayanipun; lajeng Panjenenganipun nedahaken asma-asma punika dhumateng para malaikat, lan ngendika, "Sebutna dhumateng Ingsun asma-asma punika, menawi sampeyan pancen tulus."
 
 وَعَلَّمَ ءَادَمَ ٱلْأَسْمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰٓئِكَةِ فَقَالَ أَنۢبِـُٔونِى بِأَسْمَآءِ هَٰٓؤُلَآءِ إِن كُنتُمْ صَٰدِقِينَ
 
-**2:32** Piyambakipun matur, “Maha Suci Panjenengan! Kawula mboten gadhah kawruh kejawi menapa ingkang sampun Panjenengan wulangaken dhumateng kawula. Panjenengan ingkang Maha Mangertos, Maha Wicaksana.”
+**2:32** Piyambakipun matur, "Maha Suci Panjenengan! Kawula mboten gadhah kawruh kejawi menapa ingkang sampun Panjenengan wulangaken dhumateng kawula. Panjenengan ingkang Maha Mangertos, Maha Wicaksana."
 
 قَالُوا۟ سُبْحَٰنَكَ لَا عِلْمَ لَنَآ إِلَّا مَا عَلَّمْتَنَآ ۖ إِنَّكَ أَنتَ ٱلْعَلِيمُ ٱلْحَكِيمُ
 
-**2:33** Panjenenganipun ngendika, “Dhuh Adam, sebutna dhumateng piyambakipun asma-asma punika.” Lan nalika piyambakipun nyebutaken asma-asma punika dhumateng piyambakipun, Panjenenganipun ngendika, “Menapa Ingsun mboten ngendika dhumateng sampeyan bilih Ingsun mangertos wewadi langit lan bumi, lan bilih Ingsun mangertos menapa ingkang sampeyan wedharaken lan menapa ingkang sampeyan umpetaken?”
+**2:33** Panjenenganipun ngendika, "Dhuh Adam, sebutna dhumateng piyambakipun asma-asma punika." Lan nalika piyambakipun nyebutaken asma-asma punika dhumateng piyambakipun, Panjenenganipun ngendika, "Menapa Ingsun mboten ngendika dhumateng sampeyan bilih Ingsun mangertos wewadi langit lan bumi, lan bilih Ingsun mangertos menapa ingkang sampeyan wedharaken lan menapa ingkang sampeyan umpetaken?"
 
 قَالَ يَٰٓـَٔادَمُ أَنۢبِئْهُم بِأَسْمَآئِهِمْ ۖ فَلَمَّآ أَنۢبَأَهُم بِأَسْمَآئِهِمْ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ غَيْبَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ
 
-**2:34** Lan Ingsun ngendika dhumateng para malaikat, “Sujuda dhumateng Adam.” Piyambakipun sami sujud, kejawi Setan. Piyambakipun nolak, gumunggung, lan kalebet tiyang-tiyang ingkang mboten pitados.
+**2:34** Lan Ingsun ngendika dhumateng para malaikat, "Sujuda dhumateng Adam." Piyambakipun sami sujud, kejawi Setan. Piyambakipun nolak, gumunggung, lan kalebet tiyang-tiyang ingkang mboten pitados.
 
 وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ وَٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَٰفِرِينَ
 
-**2:35** Ingsun ngendika, “Dhuh Adam, manggona ing Kebon, sampeyan lan garwa sampeyan, lan nedha saking mrika kanthi bebas kados karep sampeyan, nanging aja nyedhaki wit punika, supados sampeyan mboten dados tiyang ingkang tumindak ala.”
+**2:35** Ingsun ngendika, "Dhuh Adam, manggona ing Kebon, sampeyan lan garwa sampeyan, lan nedha saking mrika kanthi bebas kados karep sampeyan, nanging aja nyedhaki wit punika, supados sampeyan mboten dados tiyang ingkang tumindak ala."
 
 وَقُلْنَا يَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
 
-**2:36** Nanging Setan ndadosaken piyambakipun sami kesrimpet saking mrika, lan ndadosaken piyambakipun medal saking kawontenan ingkang dipunlampahi. Ingsun ngendika, “Muduna, sawetawis sampeyan dados mengsahipun satunggal lan satunggalipun. Lan sampeyan badhe pikantuk papan dunung ing bumi, lan kanikmatan sawetawis dangu.”
+**2:36** Nanging Setan ndadosaken piyambakipun sami kesrimpet saking mrika, lan ndadosaken piyambakipun medal saking kawontenan ingkang dipunlampahi. Ingsun ngendika, "Muduna, sawetawis sampeyan dados mengsahipun satunggal lan satunggalipun. Lan sampeyan badhe pikantuk papan dunung ing bumi, lan kanikmatan sawetawis dangu."
 
 فَأَزَلَّهُمَا ٱلشَّيْطَٰنُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ ۖ وَقُلْنَا ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّۭ ۖ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّۭ وَمَتَٰعٌ إِلَىٰ حِينٍۢ
 
@@ -330,11 +330,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
-**2:38** Ingsun ngendika, “Muduna saking mrika, sampeyan sedaya. Nanging menawi pituduh dhateng dhumateng sampeyan saking Ingsun, mila sinten ingkang manut pituduh Ingsun — piyambakipun mboten perlu ajrih, lan piyambakipun mboten badhe sedhih.
+**2:38** Ingsun ngendika, "Muduna saking mrika, sampeyan sedaya. Nanging menawi pituduh dhateng dhumateng sampeyan saking Ingsun, mila sinten ingkang manut pituduh Ingsun — piyambakipun mboten perlu ajrih, lan piyambakipun mboten badhe sedhih.
 
 قُلْنَا ٱهْبِطُوا۟ مِنْهَا جَمِيعًۭا ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًۭى فَمَن تَبِعَ هُدَاىَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
-**2:39** Nanging menawi tiyang-tiyang ingkang mboten pitados lan nolak pratandha-pratandha Ingsun — tiyang punika penghuni Geni — ing mrika piyambakipun badhe manggon salaminipun.”
+**2:39** Nanging menawi tiyang-tiyang ingkang mboten pitados lan nolak pratandha-pratandha Ingsun — tiyang punika penghuni Geni — ing mrika piyambakipun badhe manggon salaminipun."
 
 وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
@@ -394,11 +394,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَإِذْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ وَٱلْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ
 
-**2:54** Lan elinga bilih Musa matur dhumateng tiyang-tiyangipun, “Dhuh tiyang-tiyang kawula, sampeyan sampun tumindak ala dhumateng dhiri sampeyan piyambak kanthi nyembah pedhet. Mila tobata dhumateng ingkang Nitahaken sampeyan, lan pejahana ego sampeyan. Punika langkung sae kagem sampeyan ing ngarsanipun ingkang Nitahaken sampeyan.” Mila Panjenenganipun nampi tobat sampeyan. Panjenenganipun ingkang Maha Nampi Tobat, Mahaasih.
+**2:54** Lan elinga bilih Musa matur dhumateng tiyang-tiyangipun, "Dhuh tiyang-tiyang kawula, sampeyan sampun tumindak ala dhumateng dhiri sampeyan piyambak kanthi nyembah pedhet. Mila tobata dhumateng ingkang Nitahaken sampeyan, lan pejahana ego sampeyan. Punika langkung sae kagem sampeyan ing ngarsanipun ingkang Nitahaken sampeyan." Mila Panjenenganipun nampi tobat sampeyan. Panjenenganipun ingkang Maha Nampi Tobat, Mahaasih.
 
 وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلْعِجْلَ فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
-**2:55** Lan elinga bilih sampeyan matur, “Dhuh Musa, kawula mboten badhe pitados dhumateng sampeyan ngantos kawula ningali Gusti Allah kanthi cetha.” Lajeng gludhug nyamber sampeyan, nalika sampeyan ningali.
+**2:55** Lan elinga bilih sampeyan matur, "Dhuh Musa, kawula mboten badhe pitados dhumateng sampeyan ngantos kawula ningali Gusti Allah kanthi cetha." Lajeng gludhug nyamber sampeyan, nalika sampeyan ningali.
 
 وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نُّؤْمِنَ لَكَ حَتَّىٰ نَرَى ٱللَّهَ جَهْرَةًۭ فَأَخَذَتْكُمُ ٱلصَّٰعِقَةُ وَأَنتُمْ تَنظُرُونَ
 
@@ -406,11 +406,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 ثُمَّ بَعَثْنَٰكُم مِّنۢ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ
 
-**2:57** Lan Ingsun ngayomi sampeyan kanthi mendhung, lan Ingsun ngudhunaken dhumateng sampeyan manna lan puyuh: “Nedha saking prakawis sae ingkang sampun Ingsun paringaken dhumateng sampeyan.” Piyambakipun mboten tumindak ala dhumateng Ingsun, nanging piyambakipun tumindak ala dhumateng jiwa piyambakipun piyambak.
+**2:57** Lan Ingsun ngayomi sampeyan kanthi mendhung, lan Ingsun ngudhunaken dhumateng sampeyan manna lan puyuh: "Nedha saking prakawis sae ingkang sampun Ingsun paringaken dhumateng sampeyan." Piyambakipun mboten tumindak ala dhumateng Ingsun, nanging piyambakipun tumindak ala dhumateng jiwa piyambakipun piyambak.
 
 وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ ۖ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ ۖ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
 
-**2:58** Lan elinga bilih Ingsun ngendika, “Mlebuna kitha punika, lan nedha kanthi kathah saking mrika menapa kemawon ingkang sampeyan karepaken; nanging mlebuna lawang kanthi andhap asor, lan matur, 'Pangapunten.' Ingsun badhe ngapunten kalepatan sampeyan, lan maringi tambahan dhumateng tiyang-tiyang ingkang sae.”
+**2:58** Lan elinga bilih Ingsun ngendika, "Mlebuna kitha punika, lan nedha kanthi kathah saking mrika menapa kemawon ingkang sampeyan karepaken; nanging mlebuna lawang kanthi andhap asor, lan matur, 'Pangapunten.' Ingsun badhe ngapunten kalepatan sampeyan, lan maringi tambahan dhumateng tiyang-tiyang ingkang sae."
 
 وَإِذْ قُلْنَا ٱدْخُلُوا۟ هَٰذِهِ ٱلْقَرْيَةَ فَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ رَغَدًۭا وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًۭا وَقُولُوا۟ حِطَّةٌۭ نَّغْفِرْ لَكُمْ خَطَٰيَٰكُمْ ۚ وَسَنَزِيدُ ٱلْمُحْسِنِينَ
 
@@ -418,11 +418,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 فَبَدَّلَ ٱلَّذِينَ ظَلَمُوا۟ قَوْلًا غَيْرَ ٱلَّذِى قِيلَ لَهُمْ فَأَنزَلْنَا عَلَى ٱلَّذِينَ ظَلَمُوا۟ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ
 
-**2:60** Lan elinga nalika Musa nyuwun toya kagem tiyang-tiyangipun. Ingsun ngendika, “Tatakana watu punika kanthi tongkat sampeyan.” Lajeng kalih welas sumber medal saking mrika, lan saben suku mangertos papan ngombenipun. “Nedha lan ngombea saking rejeki-nipun Gusti Allah, lan aja ngrusak bumi kanthi mboten manut.”
+**2:60** Lan elinga nalika Musa nyuwun toya kagem tiyang-tiyangipun. Ingsun ngendika, "Tatakana watu punika kanthi tongkat sampeyan." Lajeng kalih welas sumber medal saking mrika, lan saben suku mangertos papan ngombenipun. "Nedha lan ngombea saking rejeki-nipun Gusti Allah, lan aja ngrusak bumi kanthi mboten manut."
 
 ۞ وَإِذِ ٱسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِۦ فَقُلْنَا ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ ۖ فَٱنفَجَرَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًۭا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍۢ مَّشْرَبَهُمْ ۖ كُلُوا۟ وَٱشْرَبُوا۟ مِن رِّزْقِ ٱللَّهِ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
 
-**2:61** Lan elinga nalika sampeyan matur, “Dhuh Musa, kawula mboten saged tahan satunggal jinis tedha, mila nimbali Pangeran sampeyan supados medalaken kagem kawula saking menapa ingkang bumi thukulaken: saking janganipun, lan timunipun, lan bawangipun, lan kacangipun, lan brambangipun.” Piyambakipun ngendika, “Menapa sampeyan badhe ngijolaken ingkang awon kagem ingkang langkung sae? Muduna dhateng Mesir, ing mrika sampeyan badhe pikantuk menapa ingkang sampeyan nyuwun.” Piyambakipun dipuntempuh asor lan mlarat, lan pikantuk bendhu saking Gusti Allah. Punika amargi piyambakipun nolak wahyu-wahyunipun Gusti Allah lan mejahi para nabi kanthi mboten bener. Punika amargi piyambakipun mboten manut lan nglanggar.
+**2:61** Lan elinga nalika sampeyan matur, "Dhuh Musa, kawula mboten saged tahan satunggal jinis tedha, mila nimbali Pangeran sampeyan supados medalaken kagem kawula saking menapa ingkang bumi thukulaken: saking janganipun, lan timunipun, lan bawangipun, lan kacangipun, lan brambangipun." Piyambakipun ngendika, "Menapa sampeyan badhe ngijolaken ingkang awon kagem ingkang langkung sae? Muduna dhateng Mesir, ing mrika sampeyan badhe pikantuk menapa ingkang sampeyan nyuwun." Piyambakipun dipuntempuh asor lan mlarat, lan pikantuk bendhu saking Gusti Allah. Punika amargi piyambakipun nolak wahyu-wahyunipun Gusti Allah lan mejahi para nabi kanthi mboten bener. Punika amargi piyambakipun mboten manut lan nglanggar.
 
 وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍۢ وَٰحِدٍۢ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا ۖ قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ۚ ٱهْبِطُوا۟ مِصْرًۭا فَإِنَّ لَكُم مَّا سَأَلْتُمْ ۗ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍۢ مِّنَ ٱللَّهِ ۗ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ بِغَيْرِ ٱلْحَقِّ ۗ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
 
@@ -430,7 +430,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَعَمِلَ صَٰلِحًۭا فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
-**2:63** Lan elinga nalika Ingsun nampi prajanjian saking sampeyan, lan ngangkat Gunung ing sandhuwuripun sampeyan: “Pendheta menapa ingkang sampun Ingsun paringaken dhumateng sampeyan kanthi temen, lan elinga menapa ingkang wonten ing salebetipun, supados sampeyan saged nggayuh kaleresan.”
+**2:63** Lan elinga nalika Ingsun nampi prajanjian saking sampeyan, lan ngangkat Gunung ing sandhuwuripun sampeyan: "Pendheta menapa ingkang sampun Ingsun paringaken dhumateng sampeyan kanthi temen, lan elinga menapa ingkang wonten ing salebetipun, supados sampeyan saged nggayuh kaleresan."
 
 وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍۢ وَٱذْكُرُوا۟ مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ
 
@@ -438,7 +438,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 ثُمَّ تَوَلَّيْتُم مِّنۢ بَعْدِ ذَٰلِكَ ۖ فَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ لَكُنتُم مِّنَ ٱلْخَٰسِرِينَ
 
-**2:65** Lan sampeyan saestu mangertos tiyang-tiyang ing antawisipun sampeyan ingkang nglanggar Sabat. Ingsun ngendika dhumateng piyambakipun, “Dadosa kethek ingkang asor!”
+**2:65** Lan sampeyan saestu mangertos tiyang-tiyang ing antawisipun sampeyan ingkang nglanggar Sabat. Ingsun ngendika dhumateng piyambakipun, "Dadosa kethek ingkang asor!"
 
 وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَٰسِـِٔينَ
 
@@ -446,23 +446,23 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 فَجَعَلْنَٰهَا نَكَٰلًۭا لِّمَا بَيْنَ يَدَيْهَا وَمَا خَلْفَهَا وَمَوْعِظَةًۭ لِّلْمُتَّقِينَ
 
-**2:67** Lan elinga nalika Musa matur dhumateng tiyang-tiyangipun, “Gusti Allah dhawuh sampeyan supados nyembelih sapi estri.” Piyambakipun matur, “Menapa sampeyan ngece kawula?” Piyambakipun ngendika, “Gusti Allah ngalang-alangi supados kawula mboten dados bodho makaten.”
+**2:67** Lan elinga nalika Musa matur dhumateng tiyang-tiyangipun, "Gusti Allah dhawuh sampeyan supados nyembelih sapi estri." Piyambakipun matur, "Menapa sampeyan ngece kawula?" Piyambakipun ngendika, "Gusti Allah ngalang-alangi supados kawula mboten dados bodho makaten."
 
 وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦٓ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تَذْبَحُوا۟ بَقَرَةًۭ ۖ قَالُوٓا۟ أَتَتَّخِذُنَا هُزُوًۭا ۖ قَالَ أَعُوذُ بِٱللَّهِ أَنْ أَكُونَ مِنَ ٱلْجَٰهِلِينَ
 
-**2:68** Piyambakipun matur, “Nimbali Pangeran sampeyan supados nedahaken dhumateng kawula ingkang pundi.” Piyambakipun ngendika, “Panjenenganipun ngendika piyambakipun sapi estri, mboten sepuh sanget, lan mboten enem sanget, nanging ing antawisipun. Mila tindakna menapa ingkang dipundhawuhaken.”
+**2:68** Piyambakipun matur, "Nimbali Pangeran sampeyan supados nedahaken dhumateng kawula ingkang pundi." Piyambakipun ngendika, "Panjenenganipun ngendika piyambakipun sapi estri, mboten sepuh sanget, lan mboten enem sanget, nanging ing antawisipun. Mila tindakna menapa ingkang dipundhawuhaken."
 
 قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ ۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌۭ لَّا فَارِضٌۭ وَلَا بِكْرٌ عَوَانٌۢ بَيْنَ ذَٰلِكَ ۖ فَٱفْعَلُوا۟ مَا تُؤْمَرُونَ
 
-**2:69** Piyambakipun matur, “Nimbali Pangeran sampeyan supados nedahaken dhumateng kawula menapa warninipun.” Piyambakipun ngendika, “Panjenenganipun ngendika piyambakipun sapi estri kuning, padhang warninipun, ngremenaken tiyang ingkang ningali.”
+**2:69** Piyambakipun matur, "Nimbali Pangeran sampeyan supados nedahaken dhumateng kawula menapa warninipun." Piyambakipun ngendika, "Panjenenganipun ngendika piyambakipun sapi estri kuning, padhang warninipun, ngremenaken tiyang ingkang ningali."
 
 قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوْنُهَا ۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌۭ صَفْرَآءُ فَاقِعٌۭ لَّوْنُهَا تَسُرُّ ٱلنَّٰظِرِينَ
 
-**2:70** Piyambakipun matur, “Nimbali Pangeran sampeyan supados nedahaken dhumateng kawula ingkang pundi; sapi-sapi punika katingal sami kagem kawula; lan menawi Gusti Allah ngersaaken, kawula badhe pikantuk pituduh.”
+**2:70** Piyambakipun matur, "Nimbali Pangeran sampeyan supados nedahaken dhumateng kawula ingkang pundi; sapi-sapi punika katingal sami kagem kawula; lan menawi Gusti Allah ngersaaken, kawula badhe pikantuk pituduh."
 
 قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ إِنَّ ٱلْبَقَرَ تَشَٰبَهَ عَلَيْنَا وَإِنَّآ إِن شَآءَ ٱللَّهُ لَمُهْتَدُونَ
 
-**2:71** Piyambakipun ngendika, “Panjenenganipun ngendika piyambakipun sapi estri, mboten dipunginakaken ngluku bumi, lan mboten kagem ngilekaken sabin; sehat tanpa cacat.” Piyambakipun matur, “Samenika sampeyan sampun mbeta bebener.” Mila piyambakipun nyembelih piyambakipun; senadyan piyambakipun meh mboten nindakaken.
+**2:71** Piyambakipun ngendika, "Panjenenganipun ngendika piyambakipun sapi estri, mboten dipunginakaken ngluku bumi, lan mboten kagem ngilekaken sabin; sehat tanpa cacat." Piyambakipun matur, "Samenika sampeyan sampun mbeta bebener." Mila piyambakipun nyembelih piyambakipun; senadyan piyambakipun meh mboten nindakaken.
 
 قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌۭ لَّا ذَلُولٌۭ تُثِيرُ ٱلْأَرْضَ وَلَا تَسْقِى ٱلْحَرْثَ مُسَلَّمَةٌۭ لَّا شِيَةَ فِيهَا ۚ قَالُوا۟ ٱلْـَٰٔنَ جِئْتَ بِٱلْحَقِّ ۚ فَذَبَحُوهَا وَمَا كَادُوا۟ يَفْعَلُونَ
 
@@ -470,7 +470,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَإِذْ قَتَلْتُمْ نَفْسًۭا فَٱدَّٰرَْٰٔتُمْ فِيهَا ۖ وَٱللَّهُ مُخْرِجٌۭ مَّا كُنتُمْ تَكْتُمُونَ
 
-**2:73** Ingsun ngendika, “Tataka piyambakipun kanthi saperangan saking punika.” Mekaten Gusti Allah nguripaken ingkang pejah; lan Panjenenganipun nedahaken pratandha-pratandha Panjenenganipun dhumateng sampeyan, supados sampeyan saged mangertos.
+**2:73** Ingsun ngendika, "Tataka piyambakipun kanthi saperangan saking punika." Mekaten Gusti Allah nguripaken ingkang pejah; lan Panjenenganipun nedahaken pratandha-pratandha Panjenenganipun dhumateng sampeyan, supados sampeyan saged mangertos.
 
 فَقُلْنَا ٱضْرِبُوهُ بِبَعْضِهَا ۚ كَذَٰلِكَ يُحْىِ ٱللَّهُ ٱلْمَوْتَىٰ وَيُرِيكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
 
@@ -482,7 +482,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 ۞ أَفَتَطْمَعُونَ أَن يُؤْمِنُوا۟ لَكُمْ وَقَدْ كَانَ فَرِيقٌۭ مِّنْهُمْ يَسْمَعُونَ كَلَٰمَ ٱللَّهِ ثُمَّ يُحَرِّفُونَهُۥ مِنۢ بَعْدِ مَا عَقَلُوهُ وَهُمْ يَعْلَمُونَ
 
-**2:76** Lan menawi piyambakipun kepanggih tiyang-tiyang ingkang pitados, piyambakipun matur, “Kawula pitados,” nanging menawi piyambakipun sami piyambakan, piyambakipun matur, “Menapa sampeyan badhe ngabari piyambakipun bab menapa ingkang Gusti Allah sampun mbikak dhumateng sampeyan, supados piyambakipun saged padudon kaliyan sampeyan bab punika ing ngarsanipun Pangeran sampeyan?” Menapa sampeyan mboten mangertos?
+**2:76** Lan menawi piyambakipun kepanggih tiyang-tiyang ingkang pitados, piyambakipun matur, "Kawula pitados," nanging menawi piyambakipun sami piyambakan, piyambakipun matur, "Menapa sampeyan badhe ngabari piyambakipun bab menapa ingkang Gusti Allah sampun mbikak dhumateng sampeyan, supados piyambakipun saged padudon kaliyan sampeyan bab punika ing ngarsanipun Pangeran sampeyan?" Menapa sampeyan mboten mangertos?
 
 وَإِذَا لَقُوا۟ ٱلَّذِينَ ءَامَنُوا۟ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَا بَعْضُهُمْ إِلَىٰ بَعْضٍۢ قَالُوٓا۟ أَتُحَدِّثُونَهُم بِمَا فَتَحَ ٱللَّهُ عَلَيْكُمْ لِيُحَآجُّوكُم بِهِۦ عِندَ رَبِّكُمْ ۚ أَفَلَا تَعْقِلُونَ
 
@@ -494,11 +494,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ ٱلْكِتَٰبَ إِلَّآ أَمَانِىَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ
 
-**2:79** Mila cilaka kagem tiyang-tiyang ingkang nyerat Kitab kanthi tanganipun piyambak, lan lajeng matur, “Punika saking Gusti Allah,” supados piyambakipun saged ngijolaken kanthi regi alit. Cilaka kagem piyambakipun amargi menapa ingkang tanganipun sampun nyerat, lan cilaka kagem piyambakipun amargi menapa ingkang piyambakipun pikantuk.
+**2:79** Mila cilaka kagem tiyang-tiyang ingkang nyerat Kitab kanthi tanganipun piyambak, lan lajeng matur, "Punika saking Gusti Allah," supados piyambakipun saged ngijolaken kanthi regi alit. Cilaka kagem piyambakipun amargi menapa ingkang tanganipun sampun nyerat, lan cilaka kagem piyambakipun amargi menapa ingkang piyambakipun pikantuk.
 
 فَوَيْلٌۭ لِّلَّذِينَ يَكْتُبُونَ ٱلْكِتَٰبَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَٰذَا مِنْ عِندِ ٱللَّهِ لِيَشْتَرُوا۟ بِهِۦ ثَمَنًۭا قَلِيلًۭا ۖ فَوَيْلٌۭ لَّهُم مِّمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌۭ لَّهُم مِّمَّا يَكْسِبُونَ
 
-**2:80** Lan piyambakipun matur, “Geni mboten badhe ngemek kawula kejawi sawetawis dinten.” Matura, “Menapa sampeyan sampun nampi prajanjian saking Gusti Allah — Gusti Allah mboten nate nglanggar prajanjian Panjenenganipun — utawi menapa sampeyan matur bab Gusti Allah menapa ingkang sampeyan mboten mangertos?”
+**2:80** Lan piyambakipun matur, "Geni mboten badhe ngemek kawula kejawi sawetawis dinten." Matura, "Menapa sampeyan sampun nampi prajanjian saking Gusti Allah — Gusti Allah mboten nate nglanggar prajanjian Panjenenganipun — utawi menapa sampeyan matur bab Gusti Allah menapa ingkang sampeyan mboten mangertos?"
 
 وَقَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامًۭا مَّعْدُودَةًۭ ۚ قُلْ أَتَّخَذْتُمْ عِندَ ٱللَّهِ عَهْدًۭا فَلَن يُخْلِفَ ٱللَّهُ عَهْدَهُۥٓ ۖ أَمْ تَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ
 
@@ -510,11 +510,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
-**2:83** Ingsun damel prajanjian kaliyan Bani Israel: “Aja nyembah kejawi Gusti Allah; lan dadosa sae dhumateng tiyang sepuh, lan sanak, lan yatim, lan tiyang mlarat; lan matura kanthi sae dhumateng tiyang; lan tindakna salat kanthi ajeg, lan paringana zakat.” Lajeng sampeyan mingkur, kejawi sakedhik saking sampeyan, mboten netepi.
+**2:83** Ingsun damel prajanjian kaliyan Bani Israel: "Aja nyembah kejawi Gusti Allah; lan dadosa sae dhumateng tiyang sepuh, lan sanak, lan yatim, lan tiyang mlarat; lan matura kanthi sae dhumateng tiyang; lan tindakna salat kanthi ajeg, lan paringana zakat." Lajeng sampeyan mingkur, kejawi sakedhik saking sampeyan, mboten netepi.
 
 وَإِذْ أَخَذْنَا مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ لَا تَعْبُدُونَ إِلَّا ٱللَّهَ وَبِٱلْوَٰلِدَيْنِ إِحْسَانًۭا وَذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَقُولُوا۟ لِلنَّاسِ حُسْنًۭا وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًۭا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ
 
-**2:84** Lan Ingsun damel prajanjian kaliyan sampeyan: “Sampeyan mboten badhe ngucuraken rah sampeyan piyambak, lan sampeyan mboten badhe ngusir tiyang sampeyan piyambak saking griyanipun.” Sampeyan sarujuk, lan sedaya dados saksi.
+**2:84** Lan Ingsun damel prajanjian kaliyan sampeyan: "Sampeyan mboten badhe ngucuraken rah sampeyan piyambak, lan sampeyan mboten badhe ngusir tiyang sampeyan piyambak saking griyanipun." Sampeyan sarujuk, lan sedaya dados saksi.
 
 وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ لَا تَسْفِكُونَ دِمَآءَكُمْ وَلَا تُخْرِجُونَ أَنفُسَكُم مِّن دِيَٰرِكُمْ ثُمَّ أَقْرَرْتُمْ وَأَنتُمْ تَشْهَدُونَ
 
@@ -530,7 +530,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ وَقَفَّيْنَا مِنۢ بَعْدِهِۦ بِٱلرُّسُلِ ۖ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَٰتِ وَأَيَّدْنَٰهُ بِرُوحِ ٱلْقُدُسِ ۗ أَفَكُلَّمَا جَآءَكُمْ رَسُولٌۢ بِمَا لَا تَهْوَىٰٓ أَنفُسُكُمُ ٱسْتَكْبَرْتُمْ فَفَرِيقًۭا كَذَّبْتُمْ وَفَرِيقًۭا تَقْتُلُونَ
 
-**2:88** Lan piyambakipun matur, “Manah kawula katutup.” Luwih-luwih, Gusti Allah sampun ngutuk piyambakipun amargi mboten syukuripun. Piyambakipun gadhah kapitadosan sakedhik.
+**2:88** Lan piyambakipun matur, "Manah kawula katutup." Luwih-luwih, Gusti Allah sampun ngutuk piyambakipun amargi mboten syukuripun. Piyambakipun gadhah kapitadosan sakedhik.
 
 وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ ۚ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًۭا مَّا يُؤْمِنُونَ
 
@@ -542,7 +542,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 بِئْسَمَا ٱشْتَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ أَن يَكْفُرُوا۟ بِمَآ أَنزَلَ ٱللَّهُ بَغْيًا أَن يُنَزِّلَ ٱللَّهُ مِن فَضْلِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ فَبَآءُو بِغَضَبٍ عَلَىٰ غَضَبٍۢ ۚ وَلِلْكَٰفِرِينَ عَذَابٌۭ مُّهِينٌۭ
 
-**2:91** Lan menawi dipunngendikakaken dhumateng piyambakipun, “Pitadosa dhumateng menapa ingkang Gusti Allah sampun wedharaken,” piyambakipun matur, “Kawula pitados dhumateng menapa ingkang dipunwedharaken dhumateng kawula,” lan piyambakipun nolak menapa kemawon sanesipun punika, senadyan punika bebener ingkang neguhaken menapa ingkang piyambakipun gadhahi. Matura, “Kenging menapa sampeyan mejahi nabi-nabi Gusti Allah sadherengipun, menawi sampeyan pancen tiyang pitados?”
+**2:91** Lan menawi dipunngendikakaken dhumateng piyambakipun, "Pitadosa dhumateng menapa ingkang Gusti Allah sampun wedharaken," piyambakipun matur, "Kawula pitados dhumateng menapa ingkang dipunwedharaken dhumateng kawula," lan piyambakipun nolak menapa kemawon sanesipun punika, senadyan punika bebener ingkang neguhaken menapa ingkang piyambakipun gadhahi. Matura, "Kenging menapa sampeyan mejahi nabi-nabi Gusti Allah sadherengipun, menawi sampeyan pancen tiyang pitados?"
 
 وَإِذَا قِيلَ لَهُمْ ءَامِنُوا۟ بِمَآ أَنزَلَ ٱللَّهُ قَالُوا۟ نُؤْمِنُ بِمَآ أُنزِلَ عَلَيْنَا وَيَكْفُرُونَ بِمَا وَرَآءَهُۥ وَهُوَ ٱلْحَقُّ مُصَدِّقًۭا لِّمَا مَعَهُمْ ۗ قُلْ فَلِمَ تَقْتُلُونَ أَنۢبِيَآءَ ٱللَّهِ مِن قَبْلُ إِن كُنتُم مُّؤْمِنِينَ
 
@@ -550,11 +550,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 ۞ وَلَقَدْ جَآءَكُم مُّوسَىٰ بِٱلْبَيِّنَٰتِ ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ ظَٰلِمُونَ
 
-**2:93** Lan Ingsun damel prajanjian kaliyan sampeyan, lan ngangkat Gunung ing sandhuwuripun sampeyan: “Pendheta menapa ingkang sampun Ingsun paringaken dhumateng sampeyan kanthi kenceng, lan mirengna.” Piyambakipun matur, “Kawula mireng lan mboten manut.” Lan manahipun dados kebak tresna dhumateng pedhet amargi mboten pitadosipun. Matura, “Awon menapa ingkang kapitadosan sampeyan dhawuhaken dhumateng sampeyan, menawi sampeyan pancen tiyang pitados.”
+**2:93** Lan Ingsun damel prajanjian kaliyan sampeyan, lan ngangkat Gunung ing sandhuwuripun sampeyan: "Pendheta menapa ingkang sampun Ingsun paringaken dhumateng sampeyan kanthi kenceng, lan mirengna." Piyambakipun matur, "Kawula mireng lan mboten manut." Lan manahipun dados kebak tresna dhumateng pedhet amargi mboten pitadosipun. Matura, "Awon menapa ingkang kapitadosan sampeyan dhawuhaken dhumateng sampeyan, menawi sampeyan pancen tiyang pitados."
 
 وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍۢ وَٱسْمَعُوا۟ ۖ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ ۚ قُلْ بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ
 
-**2:94** Matura, “Menawi Griya Pungkasan ing ngarsanipun Gusti Allah punika kagungan sampeyan piyambak, ngilangi sadaya tiyang sanes, mila ngajengna pejah menawi sampeyan pancen tulus.”
+**2:94** Matura, "Menawi Griya Pungkasan ing ngarsanipun Gusti Allah punika kagungan sampeyan piyambak, ngilangi sadaya tiyang sanes, mila ngajengna pejah menawi sampeyan pancen tulus."
 
 قُلْ إِن كَانَتْ لَكُمُ ٱلدَّارُ ٱلْءَاخِرَةُ عِندَ ٱللَّهِ خَالِصَةًۭ مِّن دُونِ ٱلنَّاسِ فَتَمَنَّوُا۟ ٱلْمَوْتَ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -566,7 +566,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَلَتَجِدَنَّهُمْ أَحْرَصَ ٱلنَّاسِ عَلَىٰ حَيَوٰةٍۢ وَمِنَ ٱلَّذِينَ أَشْرَكُوا۟ ۚ يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍۢ وَمَا هُوَ بِمُزَحْزِحِهِۦ مِنَ ٱلْعَذَابِ أَن يُعَمَّرَ ۗ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ
 
-**2:97** Matura, “Sinten kemawon ingkang memungsuhi Jibril — piyambakipun ingkang sampun wedharaken punika dhumateng manah sampeyan kanthi idinipun Gusti Allah, neguhaken menapa ingkang sadherengipun, lan pituduh lan pawartos bingah kagem tiyang-tiyang pitados.”
+**2:97** Matura, "Sinten kemawon ingkang memungsuhi Jibril — piyambakipun ingkang sampun wedharaken punika dhumateng manah sampeyan kanthi idinipun Gusti Allah, neguhaken menapa ingkang sadherengipun, lan pituduh lan pawartos bingah kagem tiyang-tiyang pitados."
 
 قُلْ مَن كَانَ عَدُوًّۭا لِّجِبْرِيلَ فَإِنَّهُۥ نَزَّلَهُۥ عَلَىٰ قَلْبِكَ بِإِذْنِ ٱللَّهِ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ وَهُدًۭى وَبُشْرَىٰ لِلْمُؤْمِنِينَ
 
@@ -586,7 +586,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَلَمَّا جَآءَهُمْ رَسُولٌۭ مِّنْ عِندِ ٱللَّهِ مُصَدِّقٌۭ لِّمَا مَعَهُمْ نَبَذَ فَرِيقٌۭ مِّنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ كِتَٰبَ ٱللَّهِ وَرَآءَ ظُهُورِهِمْ كَأَنَّهُمْ لَا يَعْلَمُونَ
 
-**2:102** Lan piyambakipun manut menapa ingkang setan-setan wulangaken nalika pamarintahanipun Sulaiman. Sanes Sulaiman ingkang mboten pitados, nanging setan-setan ingkang mboten pitados. Piyambakipun mulang tiyang sihir lan menapa ingkang dipunwedharaken ing Babil dhumateng kalih malaikat Harut lan Marut. Piyambakipun mboten mulang sinten-sinten ngantos sampun matur, “Kawula punika pacoban, mila aja ngantos kecalan kapitadosan.” Nanging piyambakipun sinau saking piyambakipun cara ndadosaken pepisahan antawisipun tiyang lan garwanipun. Nanging piyambakipun mboten saged mbebayani sinten-sinten kejawi kanthi idinipun Gusti Allah. Lan piyambakipun sinau menapa ingkang badhe mbebayani piyambakipun lan mboten mupangati piyambakipun. Nanging piyambakipun mangertos bilih sinten kemawon ingkang dagang ing punika mboten badhe pikantuk saperangan ing Akhirat. Awon menapa ingkang piyambakipun sade jiwa piyambakipun kagemipun, menawi piyambakipun namung mangertos.
+**2:102** Lan piyambakipun manut menapa ingkang setan-setan wulangaken nalika pamarintahanipun Sulaiman. Sanes Sulaiman ingkang mboten pitados, nanging setan-setan ingkang mboten pitados. Piyambakipun mulang tiyang sihir lan menapa ingkang dipunwedharaken ing Babil dhumateng kalih malaikat Harut lan Marut. Piyambakipun mboten mulang sinten-sinten ngantos sampun matur, "Kawula punika pacoban, mila aja ngantos kecalan kapitadosan." Nanging piyambakipun sinau saking piyambakipun cara ndadosaken pepisahan antawisipun tiyang lan garwanipun. Nanging piyambakipun mboten saged mbebayani sinten-sinten kejawi kanthi idinipun Gusti Allah. Lan piyambakipun sinau menapa ingkang badhe mbebayani piyambakipun lan mboten mupangati piyambakipun. Nanging piyambakipun mangertos bilih sinten kemawon ingkang dagang ing punika mboten badhe pikantuk saperangan ing Akhirat. Awon menapa ingkang piyambakipun sade jiwa piyambakipun kagemipun, menawi piyambakipun namung mangertos.
 
 وَٱتَّبَعُوا۟ مَا تَتْلُوا۟ ٱلشَّيَٰطِينُ عَلَىٰ مُلْكِ سُلَيْمَٰنَ ۖ وَمَا كَفَرَ سُلَيْمَٰنُ وَلَٰكِنَّ ٱلشَّيَٰطِينَ كَفَرُوا۟ يُعَلِّمُونَ ٱلنَّاسَ ٱلسِّحْرَ وَمَآ أُنزِلَ عَلَى ٱلْمَلَكَيْنِ بِبَابِلَ هَٰرُوتَ وَمَٰرُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَآ إِنَّمَا نَحْنُ فِتْنَةٌۭ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِۦ بَيْنَ ٱلْمَرْءِ وَزَوْجِهِۦ ۚ وَمَا هُم بِضَآرِّينَ بِهِۦ مِنْ أَحَدٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا۟ لَمَنِ ٱشْتَرَىٰهُ مَا لَهُۥ فِى ٱلْءَاخِرَةِ مِنْ خَلَٰقٍۢ ۚ وَلَبِئْسَ مَا شَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ
 
@@ -622,7 +622,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍۢ تَجِدُوهُ عِندَ ٱللَّهِ ۗ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌۭ
 
-**2:111** Lan piyambakipun matur, “Mboten wonten ingkang badhe mlebet Suwarga kejawi piyambakipun Yahudi utawi Kristen.” Punika pangajeng-ajengipun. Matura, “Medalna bukti sampeyan, menawi sampeyan pancen bener.”
+**2:111** Lan piyambakipun matur, "Mboten wonten ingkang badhe mlebet Suwarga kejawi piyambakipun Yahudi utawi Kristen." Punika pangajeng-ajengipun. Matura, "Medalna bukti sampeyan, menawi sampeyan pancen bener."
 
 وَقَالُوا۟ لَن يَدْخُلَ ٱلْجَنَّةَ إِلَّا مَن كَانَ هُودًا أَوْ نَصَٰرَىٰ ۗ تِلْكَ أَمَانِيُّهُمْ ۗ قُلْ هَاتُوا۟ بُرْهَٰنَكُمْ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -630,7 +630,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌۭ فَلَهُۥٓ أَجْرُهُۥ عِندَ رَبِّهِۦ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
-**2:113** Tiyang Yahudi matur, “Tiyang Kristen mboten adhedhasar menapa-menapa;” lan tiyang Kristen matur, “Tiyang Yahudi mboten adhedhasar menapa-menapa.” Nanging kekalihipun maos Kitab. Makaten ugi, tiyang bodho matur bab ingkang sami. Gusti Allah badhe ngadili antawisipun piyambakipun ing Dinten Kiamat bab bedanipun.
+**2:113** Tiyang Yahudi matur, "Tiyang Kristen mboten adhedhasar menapa-menapa;" lan tiyang Kristen matur, "Tiyang Yahudi mboten adhedhasar menapa-menapa." Nanging kekalihipun maos Kitab. Makaten ugi, tiyang bodho matur bab ingkang sami. Gusti Allah badhe ngadili antawisipun piyambakipun ing Dinten Kiamat bab bedanipun.
 
 وَقَالَتِ ٱلْيَهُودُ لَيْسَتِ ٱلنَّصَٰرَىٰ عَلَىٰ شَىْءٍۢ وَقَالَتِ ٱلنَّصَٰرَىٰ لَيْسَتِ ٱلْيَهُودُ عَلَىٰ شَىْءٍۢ وَهُمْ يَتْلُونَ ٱلْكِتَٰبَ ۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ لَا يَعْلَمُونَ مِثْلَ قَوْلِهِمْ ۚ فَٱللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ ٱلْقِيَٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ
 
@@ -642,15 +642,15 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَلِلَّهِ ٱلْمَشْرِقُ وَٱلْمَغْرِبُ ۚ فَأَيْنَمَا تُوَلُّوا۟ فَثَمَّ وَجْهُ ٱللَّهِ ۚ إِنَّ ٱللَّهَ وَٰسِعٌ عَلِيمٌۭ
 
-**2:116** Lan piyambakipun matur, “Gusti Allah sampun peputra.” Maha Suci Panjenenganipun. Luwih-luwih, kagungan Panjenenganipun sadaya ingkang wonten ing langit lan bumi; sedaya manut dhumateng Panjenenganipun.
+**2:116** Lan piyambakipun matur, "Gusti Allah sampun peputra." Maha Suci Panjenenganipun. Luwih-luwih, kagungan Panjenenganipun sadaya ingkang wonten ing langit lan bumi; sedaya manut dhumateng Panjenenganipun.
 
 وَقَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًۭا ۗ سُبْحَٰنَهُۥ ۖ بَل لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ كُلٌّۭ لَّهُۥ قَٰنِتُونَ
 
-**2:117** Ingkang Nitahaken langit lan bumi saking wiwitan. Menawi Panjenenganipun nemtokaken prakawis, Panjenenganipun ngendika dhumateng punika, “Dadosa,” lan punika dados.
+**2:117** Ingkang Nitahaken langit lan bumi saking wiwitan. Menawi Panjenenganipun nemtokaken prakawis, Panjenenganipun ngendika dhumateng punika, "Dadosa," lan punika dados.
 
 بَدِيعُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ وَإِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 
-**2:118** Tiyang-tiyang ingkang mboten mangertos matur, “Menawi kemawon Gusti Allah badhe ngendika dhumateng kawula, utawi pratandha badhe dhateng dhumateng kawula.” Makaten ingkang dipunngendikakaken tiyang-tiyang sadherengipun piyambakipun. Manahipun sami. Ingsun sampun ndadosaken pratandha-pratandha cetha kagem tiyang-tiyang ingkang yakin.
+**2:118** Tiyang-tiyang ingkang mboten mangertos matur, "Menawi kemawon Gusti Allah badhe ngendika dhumateng kawula, utawi pratandha badhe dhateng dhumateng kawula." Makaten ingkang dipunngendikakaken tiyang-tiyang sadherengipun piyambakipun. Manahipun sami. Ingsun sampun ndadosaken pratandha-pratandha cetha kagem tiyang-tiyang ingkang yakin.
 
 وَقَالَ ٱلَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا ٱللَّهُ أَوْ تَأْتِينَآ ءَايَةٌۭ ۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ مِن قَبْلِهِم مِّثْلَ قَوْلِهِمْ ۘ تَشَٰبَهَتْ قُلُوبُهُمْ ۗ قَدْ بَيَّنَّا ٱلْءَايَٰتِ لِقَوْمٍۢ يُوقِنُونَ
 
@@ -658,7 +658,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 إِنَّآ أَرْسَلْنَٰكَ بِٱلْحَقِّ بَشِيرًۭا وَنَذِيرًۭا ۖ وَلَا تُسْـَٔلُ عَنْ أَصْحَٰبِ ٱلْجَحِيمِ
 
-**2:120** Tiyang Yahudi lan tiyang Kristen mboten badhe sarujuk dhumateng sampeyan, ngantos sampeyan manut kapitadosanipun. Matura, “Pituduhipun Gusti Allah punika pituduh.” Menawi sampeyan manut karepipun, sasampunipun kawruh ingkang sampun dhateng dhumateng sampeyan, sampeyan mboten badhe pikantuk ing Gusti Allah wali utawi panulung.
+**2:120** Tiyang Yahudi lan tiyang Kristen mboten badhe sarujuk dhumateng sampeyan, ngantos sampeyan manut kapitadosanipun. Matura, "Pituduhipun Gusti Allah punika pituduh." Menawi sampeyan manut karepipun, sasampunipun kawruh ingkang sampun dhateng dhumateng sampeyan, sampeyan mboten badhe pikantuk ing Gusti Allah wali utawi panulung.
 
 وَلَن تَرْضَىٰ عَنكَ ٱلْيَهُودُ وَلَا ٱلنَّصَٰرَىٰ حَتَّىٰ تَتَّبِعَ مِلَّتَهُمْ ۗ قُلْ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلْهُدَىٰ ۗ وَلَئِنِ ٱتَّبَعْتَ أَهْوَآءَهُم بَعْدَ ٱلَّذِى جَآءَكَ مِنَ ٱلْعِلْمِ ۙ مَا لَكَ مِنَ ٱللَّهِ مِن وَلِىٍّۢ وَلَا نَصِيرٍ
 
@@ -674,19 +674,19 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَٱتَّقُوا۟ يَوْمًۭا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍۢ شَيْـًۭٔا وَلَا يُقْبَلُ مِنْهَا عَدْلٌۭ وَلَا تَنفَعُهَا شَفَٰعَةٌۭ وَلَا هُمْ يُنصَرُونَ
 
-**2:124** Lan nalika Pangeranipun nyoba Ibrahim kanthi tembung-tembung tartamtu, lan piyambakipun netepi punika. Panjenenganipun ngendika, “Ingsun ndadosaken sampeyan dados pemimpin manungsa.” Piyambakipun matur, “Lan keturunan kawula?” Panjenenganipun ngendika, “Prajanjian Ingsun mboten kalebet tiyang-tiyang ingkang tumindak ala.”
+**2:124** Lan nalika Pangeranipun nyoba Ibrahim kanthi tembung-tembung tartamtu, lan piyambakipun netepi punika. Panjenenganipun ngendika, "Ingsun ndadosaken sampeyan dados pemimpin manungsa." Piyambakipun matur, "Lan keturunan kawula?" Panjenenganipun ngendika, "Prajanjian Ingsun mboten kalebet tiyang-tiyang ingkang tumindak ala."
 
 ۞ وَإِذِ ٱبْتَلَىٰٓ إِبْرَٰهِۦمَ رَبُّهُۥ بِكَلِمَٰتٍۢ فَأَتَمَّهُنَّ ۖ قَالَ إِنِّى جَاعِلُكَ لِلنَّاسِ إِمَامًۭا ۖ قَالَ وَمِن ذُرِّيَّتِى ۖ قَالَ لَا يَنَالُ عَهْدِى ٱلظَّٰلِمِينَ
 
-**2:125** Lan Ingsun ndadosaken Griya dados titik fokus kagem tiyang-tiyang, lan dados papan suci. Ginakna papan suci Ibrahim dados papan salat. Lan Ingsun dhawuh Ibrahim lan Ismail, “Sucekna Griya Ingsun kagem tiyang-tiyang ingkang ngubengi punika, lan tiyang-tiyang ingkang nyepi ing salebetipun, lan tiyang-tiyang ingkang ruku lan sujud.”
+**2:125** Lan Ingsun ndadosaken Griya dados titik fokus kagem tiyang-tiyang, lan dados papan suci. Ginakna papan suci Ibrahim dados papan salat. Lan Ingsun dhawuh Ibrahim lan Ismail, "Sucekna Griya Ingsun kagem tiyang-tiyang ingkang ngubengi punika, lan tiyang-tiyang ingkang nyepi ing salebetipun, lan tiyang-tiyang ingkang ruku lan sujud."
 
 وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةًۭ لِّلنَّاسِ وَأَمْنًۭا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِۦمَ مُصَلًّۭى ۖ وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
 
-**2:126** Nalika Ibrahim matur, “Dhuh Pangeran kawula, dadosna punika tanah ingkang tentrem, lan paringana tiyang-tiyangipun woh-wohan — sinten kemawon saking piyambakipun ingkang pitados dhumateng Gusti Allah lan Dinten Pungkasan.” Panjenenganipun ngendika, “Lan sinten kemawon ingkang mboten pitados, Ingsun badhe maringi piyambakipun kanikmatan sakedhik, lajeng Ingsun badhe masrahaken piyambakipun dhumateng siksa Geni; awon sanget tujuanipun!”
+**2:126** Nalika Ibrahim matur, "Dhuh Pangeran kawula, dadosna punika tanah ingkang tentrem, lan paringana tiyang-tiyangipun woh-wohan — sinten kemawon saking piyambakipun ingkang pitados dhumateng Gusti Allah lan Dinten Pungkasan." Panjenenganipun ngendika, "Lan sinten kemawon ingkang mboten pitados, Ingsun badhe maringi piyambakipun kanikmatan sakedhik, lajeng Ingsun badhe masrahaken piyambakipun dhumateng siksa Geni; awon sanget tujuanipun!"
 
 وَإِذْ قَالَ إِبْرَٰهِۦمُ رَبِّ ٱجْعَلْ هَٰذَا بَلَدًا ءَامِنًۭا وَٱرْزُقْ أَهْلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنْ ءَامَنَ مِنْهُم بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۖ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلًۭا ثُمَّ أَضْطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِ ۖ وَبِئْسَ ٱلْمَصِيرُ
 
-**2:127** Nalika Ibrahim ngangkat dhasar-dhasar Griya, sesarengan kaliyan Ismail, “Pangeran kawula, tampia punika saking kawula, Panjenengan ingkang Maha Mireng, Maha Mangertos.
+**2:127** Nalika Ibrahim ngangkat dhasar-dhasar Griya, sesarengan kaliyan Ismail, "Pangeran kawula, tampia punika saking kawula, Panjenengan ingkang Maha Mireng, Maha Mangertos.
 
 وَإِذْ يَرْفَعُ إِبْرَٰهِۦمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
@@ -694,7 +694,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 رَبَّنَا وَٱجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةًۭ مُّسْلِمَةًۭ لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَآ ۖ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
-**2:129** Pangeran kawula, lan wanguna ing antawisipun utusan, saking piyambakipun piyambak, ingkang badhe maosaken dhumateng piyambakipun wahyu-wahyu Panjenengan, lan mulang piyambakipun Kitab lan kawicaksanan, lan nyucekaken piyambakipun. Panjenengan ingkang Mahakwaos, Maha Wicaksana.”
+**2:129** Pangeran kawula, lan wanguna ing antawisipun utusan, saking piyambakipun piyambak, ingkang badhe maosaken dhumateng piyambakipun wahyu-wahyu Panjenengan, lan mulang piyambakipun Kitab lan kawicaksanan, lan nyucekaken piyambakipun. Panjenengan ingkang Mahakwaos, Maha Wicaksana."
 
 رَبَّنَا وَٱبْعَثْ فِيهِمْ رَسُولًۭا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِكَ وَيُعَلِّمُهُمُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَيُزَكِّيهِمْ ۚ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
@@ -702,15 +702,15 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَمَن يَرْغَبُ عَن مِّلَّةِ إِبْرَٰهِۦمَ إِلَّا مَن سَفِهَ نَفْسَهُۥ ۚ وَلَقَدِ ٱصْطَفَيْنَٰهُ فِى ٱلدُّنْيَا ۖ وَإِنَّهُۥ فِى ٱلْءَاخِرَةِ لَمِنَ ٱلصَّٰلِحِينَ
 
-**2:131** Nalika Pangeranipun ngendika dhumateng piyambakipun, “Masrahna dhiri!” Piyambakipun matur, “Kawula sampun masrahaken dhiri dhumateng Pangeranipun sadaya alam.”
+**2:131** Nalika Pangeranipun ngendika dhumateng piyambakipun, "Masrahna dhiri!" Piyambakipun matur, "Kawula sampun masrahaken dhiri dhumateng Pangeranipun sadaya alam."
 
 إِذْ قَالَ لَهُۥ رَبُّهُۥٓ أَسْلِمْ ۖ قَالَ أَسْلَمْتُ لِرَبِّ ٱلْعَٰلَمِينَ
 
-**2:132** Lan Ibrahim ngemutaken putra-putranipun, lan Yakub, “Dhuh putra-putra kawula, Gusti Allah sampun milih agami punika kagem sampeyan, mila aja pejah kejawi sampeyan sampun masrahaken dhiri.”
+**2:132** Lan Ibrahim ngemutaken putra-putranipun, lan Yakub, "Dhuh putra-putra kawula, Gusti Allah sampun milih agami punika kagem sampeyan, mila aja pejah kejawi sampeyan sampun masrahaken dhiri."
 
 وَوَصَّىٰ بِهَآ إِبْرَٰهِۦمُ بَنِيهِ وَيَعْقُوبُ يَٰبَنِىَّ إِنَّ ٱللَّهَ ٱصْطَفَىٰ لَكُمُ ٱلدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ
 
-**2:133** Utawi menapa sampeyan dados saksi nalika pejah nyedhaki Yakub, lan piyambakipun matur dhumateng putra-putranipun, “Menapa ingkang sampeyan sembah sasampunipun kawula?” Piyambakipun matur, “Kawula badhe nyembah Gusti Allah sampeyan, lan Gusti Allahipun leluhur sampeyan, Ibrahim, Ismail, lan Ishak; Gusti Allah ingkang Satunggal; lan dhumateng Panjenenganipun kawula masrahaken dhiri.”
+**2:133** Utawi menapa sampeyan dados saksi nalika pejah nyedhaki Yakub, lan piyambakipun matur dhumateng putra-putranipun, "Menapa ingkang sampeyan sembah sasampunipun kawula?" Piyambakipun matur, "Kawula badhe nyembah Gusti Allah sampeyan, lan Gusti Allahipun leluhur sampeyan, Ibrahim, Ismail, lan Ishak; Gusti Allah ingkang Satunggal; lan dhumateng Panjenenganipun kawula masrahaken dhiri."
 
 أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ إِلَٰهًۭا وَٰحِدًۭا وَنَحْنُ لَهُۥ مُسْلِمُونَ
 
@@ -718,11 +718,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 تِلْكَ أُمَّةٌۭ قَدْ خَلَتْ ۖ لَهَا مَا كَسَبَتْ وَلَكُم مَّا كَسَبْتُمْ ۖ وَلَا تُسْـَٔلُونَ عَمَّا كَانُوا۟ يَعْمَلُونَ
 
-**2:135** Lan piyambakipun matur, “Dadosa Yahudi utawi Kristen, lan sampeyan badhe pikantuk pituduh.” Matura, “Luwih-luwih, agaminipun Ibrahim, ingkang Monoteis; piyambakipun sanes penyembah brahala.”
+**2:135** Lan piyambakipun matur, "Dadosa Yahudi utawi Kristen, lan sampeyan badhe pikantuk pituduh." Matura, "Luwih-luwih, agaminipun Ibrahim, ingkang Monoteis; piyambakipun sanes penyembah brahala."
 
 وَقَالُوا۟ كُونُوا۟ هُودًا أَوْ نَصَٰرَىٰ تَهْتَدُوا۟ ۗ قُلْ بَلْ مِلَّةَ إِبْرَٰهِۦمَ حَنِيفًۭا ۖ وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
 
-**2:136** Matura, “Kawula pitados dhumateng Gusti Allah; lan dhumateng menapa ingkang dipunwedharaken dhumateng kawula; lan dhumateng menapa ingkang dipunwedharaken dhumateng Ibrahim, lan Ismail, lan Ishak, lan Yakub, lan para Patriark; lan dhumateng menapa ingkang dipunparingaken dhumateng Musa lan Isa; lan dhumateng menapa ingkang dipunparingaken dhumateng para nabi — saking Pangeranipun. Kawula mboten mbedakaken antawisipun sinten kemawon saking piyambakipun, lan dhumateng Panjenenganipun kawula masrahaken dhiri.”
+**2:136** Matura, "Kawula pitados dhumateng Gusti Allah; lan dhumateng menapa ingkang dipunwedharaken dhumateng kawula; lan dhumateng menapa ingkang dipunwedharaken dhumateng Ibrahim, lan Ismail, lan Ishak, lan Yakub, lan para Patriark; lan dhumateng menapa ingkang dipunparingaken dhumateng Musa lan Isa; lan dhumateng menapa ingkang dipunparingaken dhumateng para nabi — saking Pangeranipun. Kawula mboten mbedakaken antawisipun sinten kemawon saking piyambakipun, lan dhumateng Panjenenganipun kawula masrahaken dhiri."
 
 قُولُوٓا۟ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْنَا وَمَآ أُنزِلَ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَمَآ أُوتِىَ ٱلنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍۢ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ
 
@@ -730,15 +730,15 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 فَإِنْ ءَامَنُوا۟ بِمِثْلِ مَآ ءَامَنتُم بِهِۦ فَقَدِ ٱهْتَدَوا۟ ۖ وَّإِن تَوَلَّوْا۟ فَإِنَّمَا هُمْ فِى شِقَاقٍۢ ۖ فَسَيَكْفِيكَهُمُ ٱللَّهُ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
-**2:138** Warninipun Gusti Allah. Lan sinten ingkang maringi warni langkung sae tinimbang Gusti Allah? “Lan kawula ngabdi dhumateng Panjenenganipun.”
+**2:138** Warninipun Gusti Allah. Lan sinten ingkang maringi warni langkung sae tinimbang Gusti Allah? "Lan kawula ngabdi dhumateng Panjenenganipun."
 
 صِبْغَةَ ٱللَّهِ ۖ وَمَنْ أَحْسَنُ مِنَ ٱللَّهِ صِبْغَةًۭ ۖ وَنَحْنُ لَهُۥ عَٰبِدُونَ
 
-**2:139** Matura, “Menapa sampeyan padudon kaliyan kawula bab Gusti Allah, nalika Panjenenganipun Pangeran kawula lan Pangeran sampeyan, lan kawula gadhah tumindak kawula, lan sampeyan gadhah tumindak sampeyan, lan kawula tulus dhumateng Panjenenganipun?”
+**2:139** Matura, "Menapa sampeyan padudon kaliyan kawula bab Gusti Allah, nalika Panjenenganipun Pangeran kawula lan Pangeran sampeyan, lan kawula gadhah tumindak kawula, lan sampeyan gadhah tumindak sampeyan, lan kawula tulus dhumateng Panjenenganipun?"
 
 قُلْ أَتُحَآجُّونَنَا فِى ٱللَّهِ وَهُوَ رَبُّنَا وَرَبُّكُمْ وَلَنَآ أَعْمَٰلُنَا وَلَكُمْ أَعْمَٰلُكُمْ وَنَحْنُ لَهُۥ مُخْلِصُونَ
 
-**2:140** Utawi menapa sampeyan matur bilih Ibrahim, Ismail, Ishak, Yakub, lan para Patriark punika Yahudi utawi Kristen? Matura, “Menapa sampeyan mangertos langkung sae, utawi Gusti Allah?” Lan sinten ingkang tumindak ala langkung ageng tinimbang tiyang ingkang ngumpetaken kesaksian ingkang piyambakipun gadhahi saking Gusti Allah? Gusti Allah mboten lengah dhumateng menapa ingkang sampeyan tindakaken.
+**2:140** Utawi menapa sampeyan matur bilih Ibrahim, Ismail, Ishak, Yakub, lan para Patriark punika Yahudi utawi Kristen? Matura, "Menapa sampeyan mangertos langkung sae, utawi Gusti Allah?" Lan sinten ingkang tumindak ala langkung ageng tinimbang tiyang ingkang ngumpetaken kesaksian ingkang piyambakipun gadhahi saking Gusti Allah? Gusti Allah mboten lengah dhumateng menapa ingkang sampeyan tindakaken.
 
 أَمْ تَقُولُونَ إِنَّ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطَ كَانُوا۟ هُودًا أَوْ نَصَٰرَىٰ ۗ قُلْ ءَأَنتُمْ أَعْلَمُ أَمِ ٱللَّهُ ۗ وَمَنْ أَظْلَمُ مِمَّن كَتَمَ شَهَٰدَةً عِندَهُۥ مِنَ ٱللَّهِ ۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ
 
@@ -746,7 +746,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 تِلْكَ أُمَّةٌۭ قَدْ خَلَتْ ۖ لَهَا مَا كَسَبَتْ وَلَكُم مَّا كَسَبْتُمْ ۖ وَلَا تُسْـَٔلُونَ عَمَّا كَانُوا۟ يَعْمَلُونَ
 
-**2:142** Tiyang bodho ing antawisipun tiyang badhe matur, “Menapa ingkang ndadosaken piyambakipun mingkur saking arah salat ingkang rumiyin dipunmanut?” Matura, “Kagunganipun Gusti Allah Wetan lan Kilen. Panjenenganipun nedahaken sinten kemawon ingkang Panjenenganipun kersaaken dhumateng margi ingkang lurus.”
+**2:142** Tiyang bodho ing antawisipun tiyang badhe matur, "Menapa ingkang ndadosaken piyambakipun mingkur saking arah salat ingkang rumiyin dipunmanut?" Matura, "Kagunganipun Gusti Allah Wetan lan Kilen. Panjenenganipun nedahaken sinten kemawon ingkang Panjenenganipun kersaaken dhumateng margi ingkang lurus."
 
 ۞ سَيَقُولُ ٱلسُّفَهَآءُ مِنَ ٱلنَّاسِ مَا وَلَّىٰهُمْ عَن قِبْلَتِهِمُ ٱلَّتِى كَانُوا۟ عَلَيْهَا ۚ قُل لِّلَّهِ ٱلْمَشْرِقُ وَٱلْمَغْرِبُ ۚ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
 
@@ -794,7 +794,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ
 
-**2:154** Lan aja matur bab tiyang-tiyang ingkang dipunpejahi ing margi-nipun Gusti Allah, “Pejah.” Luwih-luwih, piyambakipun gesang, nanging sampeyan mboten mangertos.
+**2:154** Lan aja matur bab tiyang-tiyang ingkang dipunpejahi ing margi-nipun Gusti Allah, "Pejah." Luwih-luwih, piyambakipun gesang, nanging sampeyan mboten mangertos.
 
 وَلَا تَقُولُوا۟ لِمَن يُقْتَلُ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتٌۢ ۚ بَلْ أَحْيَآءٌۭ وَلَٰكِن لَّا تَشْعُرُونَ
 
@@ -802,7 +802,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَلَنَبْلُوَنَّكُم بِشَىْءٍۢ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍۢ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ ۗ وَبَشِّرِ ٱلصَّٰبِرِينَ
 
-**2:156** Tiyang-tiyang ingkang, nalika musibah nempuh piyambakipun, matur, “Kagunganipun Gusti Allah kawula, lan dhumateng Panjenenganipun kawula badhe wangsul.”
+**2:156** Tiyang-tiyang ingkang, nalika musibah nempuh piyambakipun, matur, "Kagunganipun Gusti Allah kawula, lan dhumateng Panjenenganipun kawula badhe wangsul."
 
 ٱلَّذِينَ إِذَآ أَصَٰبَتْهُم مُّصِيبَةٌۭ قَالُوٓا۟ إِنَّا لِلَّهِ وَإِنَّآ إِلَيْهِ رَٰجِعُونَ
 
@@ -846,7 +846,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 إِذْ تَبَرَّأَ ٱلَّذِينَ ٱتُّبِعُوا۟ مِنَ ٱلَّذِينَ ٱتَّبَعُوا۟ وَرَأَوُا۟ ٱلْعَذَابَ وَتَقَطَّعَتْ بِهِمُ ٱلْأَسْبَابُ
 
-**2:167** Tiyang-tiyang ingkang manut badhe matur, “Menawi kemawon kawula saged pikantuk kesempatan sanes, kawula badhe nglirwaaken piyambakipun, kados piyambakipun nglirwaaken kawula.” Mekaten Gusti Allah badhe nedahaken dhumateng piyambakipun tumindakipun, dados getun kagem piyambakipun, lan piyambakipun mboten badhe medal saking Geni.
+**2:167** Tiyang-tiyang ingkang manut badhe matur, "Menawi kemawon kawula saged pikantuk kesempatan sanes, kawula badhe nglirwaaken piyambakipun, kados piyambakipun nglirwaaken kawula." Mekaten Gusti Allah badhe nedahaken dhumateng piyambakipun tumindakipun, dados getun kagem piyambakipun, lan piyambakipun mboten badhe medal saking Geni.
 
 وَقَالَ ٱلَّذِينَ ٱتَّبَعُوا۟ لَوْ أَنَّ لَنَا كَرَّةًۭ فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُوا۟ مِنَّا ۗ كَذَٰلِكَ يُرِيهِمُ ٱللَّهُ أَعْمَٰلَهُمْ حَسَرَٰتٍ عَلَيْهِمْ ۖ وَمَا هُم بِخَٰرِجِينَ مِنَ ٱلنَّارِ
 
@@ -858,7 +858,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 إِنَّمَا يَأْمُرُكُم بِٱلسُّوٓءِ وَٱلْفَحْشَآءِ وَأَن تَقُولُوا۟ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ
 
-**2:170** Lan menawi dipunngendikakaken dhumateng piyambakipun, “Manuta menapa ingkang Gusti Allah sampun wedharaken,” piyambakipun matur, “Kawula badhe manut menapa ingkang kawula manggihi leluhur kawula manut.” Senadyan leluhuripun mboten mangertos menapa-menapa, lan mboten pikantuk pituduh?
+**2:170** Lan menawi dipunngendikakaken dhumateng piyambakipun, "Manuta menapa ingkang Gusti Allah sampun wedharaken," piyambakipun matur, "Kawula badhe manut menapa ingkang kawula manggihi leluhur kawula manut." Senadyan leluhuripun mboten mangertos menapa-menapa, lan mboten pikantuk pituduh?
 
 وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَآ أَلْفَيْنَا عَلَيْهِ ءَابَآءَنَآ ۗ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْقِلُونَ شَيْـًۭٔا وَلَا يَهْتَدُونَ
 
@@ -934,7 +934,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ وَتُدْلُوا۟ بِهَآ إِلَى ٱلْحُكَّامِ لِتَأْكُلُوا۟ فَرِيقًۭا مِّنْ أَمْوَٰلِ ٱلنَّاسِ بِٱلْإِثْمِ وَأَنتُمْ تَعْلَمُونَ
 
-**2:189** Piyambakipun takon dhumateng sampeyan bab rembulan sabit. Matura, “Piyambakipun punika jadwal kagem tiyang-tiyang, lan kagem Haji.” Sanes kabecikan bilih sampeyan nyedhaki griya saking wingkingipun, nanging kabecikan punika dados takwa. Mila cedhakana griya saking lawangipun, lan elinga dhumateng Gusti Allah, supados sampeyan saged kasil.
+**2:189** Piyambakipun takon dhumateng sampeyan bab rembulan sabit. Matura, "Piyambakipun punika jadwal kagem tiyang-tiyang, lan kagem Haji." Sanes kabecikan bilih sampeyan nyedhaki griya saking wingkingipun, nanging kabecikan punika dados takwa. Mila cedhakana griya saking lawangipun, lan elinga dhumateng Gusti Allah, supados sampeyan saged kasil.
 
 ۞ يَسْـَٔلُونَكَ عَنِ ٱلْأَهِلَّةِ ۖ قُلْ هِىَ مَوَٰقِيتُ لِلنَّاسِ وَٱلْحَجِّ ۗ وَلَيْسَ ٱلْبِرُّ بِأَن تَأْتُوا۟ ٱلْبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ ٱلْبِرَّ مَنِ ٱتَّقَىٰ ۗ وَأْتُوا۟ ٱلْبُيُوتَ مِنْ أَبْوَٰبِهَا ۚ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
 
@@ -978,11 +978,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 ثُمَّ أَفِيضُوا۟ مِنْ حَيْثُ أَفَاضَ ٱلنَّاسُ وَٱسْتَغْفِرُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ
 
-**2:200** Nalika sampeyan sampun ngrampungaken upacara-upacara sampeyan, elinga dhumateng Gusti Allah kados sampeyan eling dhumateng tiyang sepuh sampeyan, utawi malah langkung. Ing antawisipun tiyang wonten ingkang matur, “Pangeran kawula, paringana dhumateng kawula ing donya punika,” nanging piyambakipun mboten gadhah saperangan ing Akhirat.
+**2:200** Nalika sampeyan sampun ngrampungaken upacara-upacara sampeyan, elinga dhumateng Gusti Allah kados sampeyan eling dhumateng tiyang sepuh sampeyan, utawi malah langkung. Ing antawisipun tiyang wonten ingkang matur, "Pangeran kawula, paringana dhumateng kawula ing donya punika," nanging piyambakipun mboten gadhah saperangan ing Akhirat.
 
 فَإِذَا قَضَيْتُم مَّنَٰسِكَكُمْ فَٱذْكُرُوا۟ ٱللَّهَ كَذِكْرِكُمْ ءَابَآءَكُمْ أَوْ أَشَدَّ ذِكْرًۭا ۗ فَمِنَ ٱلنَّاسِ مَن يَقُولُ رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا وَمَا لَهُۥ فِى ٱلْءَاخِرَةِ مِنْ خَلَٰقٍۢ
 
-**2:201** Lan ing antawisipun wonten ingkang matur, “Pangeran kawula, paringana dhumateng kawula kasaenan ing donya punika, lan kasaenan ing Akhirat, lan lindhungana kawula saking siksa Geni.”
+**2:201** Lan ing antawisipun wonten ingkang matur, "Pangeran kawula, paringana dhumateng kawula kasaenan ing donya punika, lan kasaenan ing Akhirat, lan lindhungana kawula saking siksa Geni."
 
 وَمِنْهُم مَّن يَقُولُ رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا حَسَنَةًۭ وَفِى ٱلْءَاخِرَةِ حَسَنَةًۭ وَقِنَا عَذَابَ ٱلنَّارِ
 
@@ -1002,7 +1002,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَإِذَا تَوَلَّىٰ سَعَىٰ فِى ٱلْأَرْضِ لِيُفْسِدَ فِيهَا وَيُهْلِكَ ٱلْحَرْثَ وَٱلنَّسْلَ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلْفَسَادَ
 
-**2:206** Lan nalika piyambakipun dipunngendikani, “Wedi-a dhumateng Gusti Allah,” gumunggungipun ndadosaken piyambakipun langkung dosa. Neraka cekap kagem piyambakipun — papan dunung ingkang awon sanget.
+**2:206** Lan nalika piyambakipun dipunngendikani, "Wedi-a dhumateng Gusti Allah," gumunggungipun ndadosaken piyambakipun langkung dosa. Neraka cekap kagem piyambakipun — papan dunung ingkang awon sanget.
 
 وَإِذَا قِيلَ لَهُ ٱتَّقِ ٱللَّهَ أَخَذَتْهُ ٱلْعِزَّةُ بِٱلْإِثْمِ ۚ فَحَسْبُهُۥ جَهَنَّمُ ۚ وَلَبِئْسَ ٱلْمِهَادُ
 
@@ -1034,11 +1034,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 كَانَ ٱلنَّاسُ أُمَّةًۭ وَٰحِدَةًۭ فَبَعَثَ ٱللَّهُ ٱلنَّبِيِّۦنَ مُبَشِّرِينَ وَمُنذِرِينَ وَأَنزَلَ مَعَهُمُ ٱلْكِتَٰبَ بِٱلْحَقِّ لِيَحْكُمَ بَيْنَ ٱلنَّاسِ فِيمَا ٱخْتَلَفُوا۟ فِيهِ ۚ وَمَا ٱخْتَلَفَ فِيهِ إِلَّا ٱلَّذِينَ أُوتُوهُ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ بَغْيًۢا بَيْنَهُمْ ۖ فَهَدَى ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ لِمَا ٱخْتَلَفُوا۟ فِيهِ مِنَ ٱلْحَقِّ بِإِذْنِهِۦ ۗ وَٱللَّهُ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍ
 
-**2:214** Utawi menapa sampeyan ngajengaken mlebet Suwarga sadherengipun tuladha tiyang-tiyang sadherengipun sampeyan sampun dumugi dhumateng sampeyan? Kasusahan lan awrat sampun nempuh piyambakipun, lan piyambakipun sanget gonjing, ngantos Utusan lan tiyang-tiyang ingkang pitados sesarengan kaliyan piyambakipun matur, “Kapan kamenanganipun Gusti Allah?” Pancene, kamenanganipun Gusti Allah caket.
+**2:214** Utawi menapa sampeyan ngajengaken mlebet Suwarga sadherengipun tuladha tiyang-tiyang sadherengipun sampeyan sampun dumugi dhumateng sampeyan? Kasusahan lan awrat sampun nempuh piyambakipun, lan piyambakipun sanget gonjing, ngantos Utusan lan tiyang-tiyang ingkang pitados sesarengan kaliyan piyambakipun matur, "Kapan kamenanganipun Gusti Allah?" Pancene, kamenanganipun Gusti Allah caket.
 
 أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِكُم ۖ مَّسَّتْهُمُ ٱلْبَأْسَآءُ وَٱلضَّرَّآءُ وَزُلْزِلُوا۟ حَتَّىٰ يَقُولَ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ مَتَىٰ نَصْرُ ٱللَّهِ ۗ أَلَآ إِنَّ نَصْرَ ٱللَّهِ قَرِيبٌۭ
 
-**2:215** Piyambakipun takon dhumateng sampeyan menapa ingkang kedah piyambakipun paringaken. Matura, “Sedekah menapa kemawon ingkang sampeyan paringaken punika kagem tiyang sepuh, lan sanak, lan yatim, lan tiyang mlarat, lan tiyang lelampahan. Kasaenan menapa kemawon ingkang sampeyan tindakaken, Gusti Allah mangertos punika.
+**2:215** Piyambakipun takon dhumateng sampeyan menapa ingkang kedah piyambakipun paringaken. Matura, "Sedekah menapa kemawon ingkang sampeyan paringaken punika kagem tiyang sepuh, lan sanak, lan yatim, lan tiyang mlarat, lan tiyang lelampahan. Kasaenan menapa kemawon ingkang sampeyan tindakaken, Gusti Allah mangertos punika.
 
 يَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ ۖ قُلْ مَآ أَنفَقْتُم مِّنْ خَيْرٍۢ فَلِلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ ۗ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍۢ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌۭ
 
@@ -1046,7 +1046,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ وَهُوَ كُرْهٌۭ لَّكُمْ ۖ وَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًۭٔا وَهُوَ خَيْرٌۭ لَّكُمْ ۖ وَعَسَىٰٓ أَن تُحِبُّوا۟ شَيْـًۭٔا وَهُوَ شَرٌّۭ لَّكُمْ ۗ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
 
-**2:217** Piyambakipun takon dhumateng sampeyan bab peperangan nalika Wulan Suci. Matura, “Peperangan nalika punika awon; nanging ngalang-alangi sanesipun saking margi-nipun Gusti Allah, lan mboten pitados dhumateng Panjenenganipun, lan nyegah akses dhumateng Masjid Suci, lan ngusir tiyang-tiyangipun saking mrika, langkung awon ing ngarsanipun Gusti Allah. Lan panganiaya langkung awrat tinimbang pepejahan. Piyambakipun mboten badhe mandheg merangi sampeyan ngantos piyambakipun mbangsulaken sampeyan saking agami sampeyan, menawi piyambakipun saged. Sinten kemawon ing antawisipun sampeyan ingkang mbangsul saking agaminipun, lan pejah dados mboten pitados — tiyang punika ingkang tumindakipun badhe muspra, ing gesang punika, lan ing Akhirat. Tiyang punika penghuni Geni, manggon ing mrika salaminipun.
+**2:217** Piyambakipun takon dhumateng sampeyan bab peperangan nalika Wulan Suci. Matura, "Peperangan nalika punika awon; nanging ngalang-alangi sanesipun saking margi-nipun Gusti Allah, lan mboten pitados dhumateng Panjenenganipun, lan nyegah akses dhumateng Masjid Suci, lan ngusir tiyang-tiyangipun saking mrika, langkung awon ing ngarsanipun Gusti Allah. Lan panganiaya langkung awrat tinimbang pepejahan. Piyambakipun mboten badhe mandheg merangi sampeyan ngantos piyambakipun mbangsulaken sampeyan saking agami sampeyan, menawi piyambakipun saged. Sinten kemawon ing antawisipun sampeyan ingkang mbangsul saking agaminipun, lan pejah dados mboten pitados — tiyang punika ingkang tumindakipun badhe muspra, ing gesang punika, lan ing Akhirat. Tiyang punika penghuni Geni, manggon ing mrika salaminipun.
 
 يَسْـَٔلُونَكَ عَنِ ٱلشَّهْرِ ٱلْحَرَامِ قِتَالٍۢ فِيهِ ۖ قُلْ قِتَالٌۭ فِيهِ كَبِيرٌۭ ۖ وَصَدٌّ عَن سَبِيلِ ٱللَّهِ وَكُفْرٌۢ بِهِۦ وَٱلْمَسْجِدِ ٱلْحَرَامِ وَإِخْرَاجُ أَهْلِهِۦ مِنْهُ أَكْبَرُ عِندَ ٱللَّهِ ۚ وَٱلْفِتْنَةُ أَكْبَرُ مِنَ ٱلْقَتْلِ ۗ وَلَا يَزَالُونَ يُقَٰتِلُونَكُمْ حَتَّىٰ يَرُدُّوكُمْ عَن دِينِكُمْ إِنِ ٱسْتَطَٰعُوا۟ ۚ وَمَن يَرْتَدِدْ مِنكُمْ عَن دِينِهِۦ فَيَمُتْ وَهُوَ كَافِرٌۭ فَأُو۟لَٰٓئِكَ حَبِطَتْ أَعْمَٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ ۖ وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
@@ -1054,11 +1054,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَاجَرُوا۟ وَجَٰهَدُوا۟ فِى سَبِيلِ ٱللَّهِ أُو۟لَٰٓئِكَ يَرْجُونَ رَحْمَتَ ٱللَّهِ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ
 
-**2:219** Piyambakipun takon dhumateng sampeyan bab minuman ingkang mabukaken lan judi. Matura, “Wonten dosa ageng ing salebetipun, lan sawetawis mupangat kagem tiyang, nanging dosanipun langkung ageng tinimbang mupangatipun.” Lan piyambakipun takon dhumateng sampeyan bab menapa ingkang kedah piyambakipun paringaken: matura, “Ingkang turah.” Mekaten Gusti Allah njelasaken wahyu-wahyu dhumateng sampeyan, supados sampeyan saged mikir.
+**2:219** Piyambakipun takon dhumateng sampeyan bab minuman ingkang mabukaken lan judi. Matura, "Wonten dosa ageng ing salebetipun, lan sawetawis mupangat kagem tiyang, nanging dosanipun langkung ageng tinimbang mupangatipun." Lan piyambakipun takon dhumateng sampeyan bab menapa ingkang kedah piyambakipun paringaken: matura, "Ingkang turah." Mekaten Gusti Allah njelasaken wahyu-wahyu dhumateng sampeyan, supados sampeyan saged mikir.
 
 ۞ يَسْـَٔلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ ۖ قُلْ فِيهِمَآ إِثْمٌۭ كَبِيرٌۭ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا ۗ وَيَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ
 
-**2:220** Bab donya punika lan ingkang salajengipun. Lan piyambakipun takon dhumateng sampeyan bab yatim. Matura, “Ndandosi kagem piyambakipun punika paling sae. Lan menawi sampeyan nyampur kaliyan piyambakipun, mila piyambakipun sedherek sampeyan.” Gusti Allah mangertos ingkang mboten jujur saking ingkang jujur. Menawi Gusti Allah ngersaaken, Panjenenganipun saged mbebani sampeyan. Gusti Allah Mahakwaos lan Maha Wicaksana.
+**2:220** Bab donya punika lan ingkang salajengipun. Lan piyambakipun takon dhumateng sampeyan bab yatim. Matura, "Ndandosi kagem piyambakipun punika paling sae. Lan menawi sampeyan nyampur kaliyan piyambakipun, mila piyambakipun sedherek sampeyan." Gusti Allah mangertos ingkang mboten jujur saking ingkang jujur. Menawi Gusti Allah ngersaaken, Panjenenganipun saged mbebani sampeyan. Gusti Allah Mahakwaos lan Maha Wicaksana.
 
 فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ ۗ وَيَسْـَٔلُونَكَ عَنِ ٱلْيَتَٰمَىٰ ۖ قُلْ إِصْلَاحٌۭ لَّهُمْ خَيْرٌۭ ۖ وَإِن تُخَالِطُوهُمْ فَإِخْوَٰنُكُمْ ۚ وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ ۚ وَلَوْ شَآءَ ٱللَّهُ لَأَعْنَتَكُمْ ۚ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌۭ
 
@@ -1066,7 +1066,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَلَا تَنكِحُوا۟ ٱلْمُشْرِكَٰتِ حَتَّىٰ يُؤْمِنَّ ۚ وَلَأَمَةٌۭ مُّؤْمِنَةٌ خَيْرٌۭ مِّن مُّشْرِكَةٍۢ وَلَوْ أَعْجَبَتْكُمْ ۗ وَلَا تُنكِحُوا۟ ٱلْمُشْرِكِينَ حَتَّىٰ يُؤْمِنُوا۟ ۚ وَلَعَبْدٌۭ مُّؤْمِنٌ خَيْرٌۭ مِّن مُّشْرِكٍۢ وَلَوْ أَعْجَبَكُمْ ۗ أُو۟لَٰٓئِكَ يَدْعُونَ إِلَى ٱلنَّارِ ۖ وَٱللَّهُ يَدْعُوٓا۟ إِلَى ٱلْجَنَّةِ وَٱلْمَغْفِرَةِ بِإِذْنِهِۦ ۖ وَيُبَيِّنُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
 
-**2:222** Lan piyambakipun takon dhumateng sampeyan bab haid: matura, “Punika mbebayani, mila adohana wanita nalika haid. Lan aja nyedhaki piyambakipun ngantos piyambakipun sampun suci. Menawi piyambakipun sampun suci, cedhakana piyambakipun kanthi cara ingkang Gusti Allah sampun dhawuhaken dhumateng sampeyan.” Gusti Allah tresna dhumateng tiyang-tiyang ingkang tobat, lan Panjenenganipun tresna dhumateng tiyang-tiyang ingkang njagi resik.
+**2:222** Lan piyambakipun takon dhumateng sampeyan bab haid: matura, "Punika mbebayani, mila adohana wanita nalika haid. Lan aja nyedhaki piyambakipun ngantos piyambakipun sampun suci. Menawi piyambakipun sampun suci, cedhakana piyambakipun kanthi cara ingkang Gusti Allah sampun dhawuhaken dhumateng sampeyan." Gusti Allah tresna dhumateng tiyang-tiyang ingkang tobat, lan Panjenenganipun tresna dhumateng tiyang-tiyang ingkang njagi resik.
 
 وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ ۖ قُلْ هُوَ أَذًۭى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ ۖ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ ۖ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ
 
@@ -1150,7 +1150,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
 
-**2:243** Menapa sampeyan dereng nimbang tiyang-tiyang ingkang minggat saking griyanipun, kanthi ewunan, ajrih pejah? Gusti Allah ngendika dhumateng piyambakipun, “Pejaha.” Lajeng Panjenenganipun nguripaken piyambakipun. Gusti Allah Maha Murah dhumateng tiyang-tiyang, nanging kathah tiyang mboten matur nuwun.
+**2:243** Menapa sampeyan dereng nimbang tiyang-tiyang ingkang minggat saking griyanipun, kanthi ewunan, ajrih pejah? Gusti Allah ngendika dhumateng piyambakipun, "Pejaha." Lajeng Panjenenganipun nguripaken piyambakipun. Gusti Allah Maha Murah dhumateng tiyang-tiyang, nanging kathah tiyang mboten matur nuwun.
 
 ۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ خَرَجُوا۟ مِن دِيَٰرِهِمْ وَهُمْ أُلُوفٌ حَذَرَ ٱلْمَوْتِ فَقَالَ لَهُمُ ٱللَّهُ مُوتُوا۟ ثُمَّ أَحْيَٰهُمْ ۚ إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ
 
@@ -1162,23 +1162,23 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 مَّن ذَا ٱلَّذِى يُقْرِضُ ٱللَّهَ قَرْضًا حَسَنًۭا فَيُضَٰعِفَهُۥ لَهُۥٓ أَضْعَافًۭا كَثِيرَةًۭ ۚ وَٱللَّهُ يَقْبِضُ وَيَبْصُۜطُ وَإِلَيْهِ تُرْجَعُونَ
 
-**2:246** Menapa sampeyan dereng nimbang para pinunjul Bani Israel sasampunipun Musa? Nalika piyambakipun matur dhumateng nabi saking piyambakipun, “Angkata raja kagem kawula, lan kawula badhe merangi ing margi-nipun Gusti Allah.” Piyambakipun ngendika, “Menapa saged, menawi peperangan dipundhawuhaken kagem sampeyan, sampeyan mboten badhe merangi?” Piyambakipun matur, “Kenging menapa kawula mboten badhe merangi ing margi-nipun Gusti Allah, nalika kawula dipunusir saking griya kawula, sesarengan kaliyan putra-putra kawula?” Nanging nalika peperangan dipundhawuhaken kagem piyambakipun, piyambakipun mingkur, kejawi sakedhik saking piyambakipun. Nanging Gusti Allah mangertos tiyang-tiyang ingkang tumindak ala.
+**2:246** Menapa sampeyan dereng nimbang para pinunjul Bani Israel sasampunipun Musa? Nalika piyambakipun matur dhumateng nabi saking piyambakipun, "Angkata raja kagem kawula, lan kawula badhe merangi ing margi-nipun Gusti Allah." Piyambakipun ngendika, "Menapa saged, menawi peperangan dipundhawuhaken kagem sampeyan, sampeyan mboten badhe merangi?" Piyambakipun matur, "Kenging menapa kawula mboten badhe merangi ing margi-nipun Gusti Allah, nalika kawula dipunusir saking griya kawula, sesarengan kaliyan putra-putra kawula?" Nanging nalika peperangan dipundhawuhaken kagem piyambakipun, piyambakipun mingkur, kejawi sakedhik saking piyambakipun. Nanging Gusti Allah mangertos tiyang-tiyang ingkang tumindak ala.
 
 أَلَمْ تَرَ إِلَى ٱلْمَلَإِ مِنۢ بَنِىٓ إِسْرَٰٓءِيلَ مِنۢ بَعْدِ مُوسَىٰٓ إِذْ قَالُوا۟ لِنَبِىٍّۢ لَّهُمُ ٱبْعَثْ لَنَا مَلِكًۭا نُّقَٰتِلْ فِى سَبِيلِ ٱللَّهِ ۖ قَالَ هَلْ عَسَيْتُمْ إِن كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ أَلَّا تُقَٰتِلُوا۟ ۖ قَالُوا۟ وَمَا لَنَآ أَلَّا نُقَٰتِلَ فِى سَبِيلِ ٱللَّهِ وَقَدْ أُخْرِجْنَا مِن دِيَٰرِنَا وَأَبْنَآئِنَا ۖ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ تَوَلَّوْا۟ إِلَّا قَلِيلًۭا مِّنْهُمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّٰلِمِينَ
 
-**2:247** Nabi-nipun matur dhumateng piyambakipun, “Gusti Allah sampun ngangkat Talut dados raja sampeyan.” Piyambakipun matur, “Kadospundi piyambakipun saged gadhah kuwaos ing sandhuwuripun kawula, nalika kawula langkung pantes kuwaos tinimbang piyambakipun, lan piyambakipun mboten dipunparingi bandha kathah?” Piyambakipun ngendika, “Gusti Allah sampun milih piyambakipun ing sandhuwuripun sampeyan, lan sampun nambah piyambakipun ing kawruh lan dedeg.” Gusti Allah maringi pamarintahan Panjenenganipun dhumateng sinten kemawon ingkang Panjenenganipun kersaaken. Gusti Allah Maha Ngupengi lan Mangertos.
+**2:247** Nabi-nipun matur dhumateng piyambakipun, "Gusti Allah sampun ngangkat Talut dados raja sampeyan." Piyambakipun matur, "Kadospundi piyambakipun saged gadhah kuwaos ing sandhuwuripun kawula, nalika kawula langkung pantes kuwaos tinimbang piyambakipun, lan piyambakipun mboten dipunparingi bandha kathah?" Piyambakipun ngendika, "Gusti Allah sampun milih piyambakipun ing sandhuwuripun sampeyan, lan sampun nambah piyambakipun ing kawruh lan dedeg." Gusti Allah maringi pamarintahan Panjenenganipun dhumateng sinten kemawon ingkang Panjenenganipun kersaaken. Gusti Allah Maha Ngupengi lan Mangertos.
 
 وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ٱللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًۭا ۚ قَالُوٓا۟ أَنَّىٰ يَكُونُ لَهُ ٱلْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِٱلْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةًۭ مِّنَ ٱلْمَالِ ۚ قَالَ إِنَّ ٱللَّهَ ٱصْطَفَىٰهُ عَلَيْكُمْ وَزَادَهُۥ بَسْطَةًۭ فِى ٱلْعِلْمِ وَٱلْجِسْمِ ۖ وَٱللَّهُ يُؤْتِى مُلْكَهُۥ مَن يَشَآءُ ۚ وَٱللَّهُ وَٰسِعٌ عَلِيمٌۭ
 
-**2:248** Lan nabi-nipun matur dhumateng piyambakipun, “Bukti pamarintahanipun punika bilih Tabut badhe dipunwangsulaken dhumateng sampeyan, mbeta tentrem saking Pangeran sampeyan, lan tilas ingkang dipuntilar kulawarga Musa lan kulawarga Harun. Punika badhe dipunbeta dening para malaikat. Ing mrika wonten pratandha kagem sampeyan, menawi sampeyan pancen tiyang pitados.”
+**2:248** Lan nabi-nipun matur dhumateng piyambakipun, "Bukti pamarintahanipun punika bilih Tabut badhe dipunwangsulaken dhumateng sampeyan, mbeta tentrem saking Pangeran sampeyan, lan tilas ingkang dipuntilar kulawarga Musa lan kulawarga Harun. Punika badhe dipunbeta dening para malaikat. Ing mrika wonten pratandha kagem sampeyan, menawi sampeyan pancen tiyang pitados."
 
 وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ءَايَةَ مُلْكِهِۦٓ أَن يَأْتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٌۭ مِّن رَّبِّكُمْ وَبَقِيَّةٌۭ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَٰرُونَ تَحْمِلُهُ ٱلْمَلَٰٓئِكَةُ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
 
-**2:249** Nalika Talut medal kaliyan tentara, piyambakipun ngendika, “Gusti Allah badhe nyoba sampeyan kanthi kali. Sinten kemawon ingkang ngombe saking mrika mboten kalebet kaliyan kawula. Nanging sinten kemawon ingkang mboten ngombe saking mrika, piyambakipun kalebet kaliyan kawula, kejawi sinten kemawon ingkang nyendhok sakedhik kanthi tanganipun.” Nanging piyambakipun ngombe saking mrika, kejawi sakedhik saking piyambakipun. Lajeng, nalika piyambakipun nyabrang punika, piyambakipun lan tiyang-tiyang ingkang pitados sesarengan kaliyan piyambakipun, piyambakipun matur, “Kawula mboten gadhah kekiyatan ngadhepi Jalut lan tentarani-pun dinten punika.” Nanging tiyang-tiyang ingkang mangertos bilih piyambakipun badhe kepanggih Gusti Allah matur, “Pinten golongan alit ingkang sampun ngalahaken golongan ageng kanthi kersa-nipun Gusti Allah. Gusti Allah sesarengan kaliyan tiyang-tiyang ingkang sabar.”
+**2:249** Nalika Talut medal kaliyan tentara, piyambakipun ngendika, "Gusti Allah badhe nyoba sampeyan kanthi kali. Sinten kemawon ingkang ngombe saking mrika mboten kalebet kaliyan kawula. Nanging sinten kemawon ingkang mboten ngombe saking mrika, piyambakipun kalebet kaliyan kawula, kejawi sinten kemawon ingkang nyendhok sakedhik kanthi tanganipun." Nanging piyambakipun ngombe saking mrika, kejawi sakedhik saking piyambakipun. Lajeng, nalika piyambakipun nyabrang punika, piyambakipun lan tiyang-tiyang ingkang pitados sesarengan kaliyan piyambakipun, piyambakipun matur, "Kawula mboten gadhah kekiyatan ngadhepi Jalut lan tentarani-pun dinten punika." Nanging tiyang-tiyang ingkang mangertos bilih piyambakipun badhe kepanggih Gusti Allah matur, "Pinten golongan alit ingkang sampun ngalahaken golongan ageng kanthi kersa-nipun Gusti Allah. Gusti Allah sesarengan kaliyan tiyang-tiyang ingkang sabar."
 
 فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ
 
-**2:250** Lan nalika piyambakipun ngadhepi Jalut lan tentarani-pun, piyambakipun matur, “Pangeran kawula, paringana sabar dhumateng kawula, lan kiyatna papan dunung kawula, lan biyantuna kawula nglawan tiyang-tiyang ingkang mboten pitados.”
+**2:250** Lan nalika piyambakipun ngadhepi Jalut lan tentarani-pun, piyambakipun matur, "Pangeran kawula, paringana sabar dhumateng kawula, lan kiyatna papan dunung kawula, lan biyantuna kawula nglawan tiyang-tiyang ingkang mboten pitados."
 
 وَلَمَّا بَرَزُوا۟ لِجَالُوتَ وَجُنُودِهِۦ قَالُوا۟ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًۭا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
 
@@ -1210,15 +1210,15 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 ٱللَّهُ وَلِىُّ ٱلَّذِينَ ءَامَنُوا۟ يُخْرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ ۖ وَٱلَّذِينَ كَفَرُوٓا۟ أَوْلِيَآؤُهُمُ ٱلطَّٰغُوتُ يُخْرِجُونَهُم مِّنَ ٱلنُّورِ إِلَى ٱلظُّلُمَٰتِ ۗ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
-**2:258** Menapa sampeyan dereng nimbang piyambakipun ingkang padudon kaliyan Ibrahim bab Pangeranipun, amargi Gusti Allah sampun maringi piyambakipun pamarintahan? Ibrahim matur, “Pangeran kawula punika Panjenenganipun ingkang maringi gesang lan ndadosaken pejah.” Piyambakipun matur, “Kawula maringi gesang lan ndadosaken pejah.” Ibrahim matur, “Gusti Allah mbeta srengenge saking Wetan, mila betaa saking Kilen,” mila tiyang ingkang mboten pitados punika bingung. Gusti Allah mboten nedahaken tiyang-tiyang ingkang tumindak ala.
+**2:258** Menapa sampeyan dereng nimbang piyambakipun ingkang padudon kaliyan Ibrahim bab Pangeranipun, amargi Gusti Allah sampun maringi piyambakipun pamarintahan? Ibrahim matur, "Pangeran kawula punika Panjenenganipun ingkang maringi gesang lan ndadosaken pejah." Piyambakipun matur, "Kawula maringi gesang lan ndadosaken pejah." Ibrahim matur, "Gusti Allah mbeta srengenge saking Wetan, mila betaa saking Kilen," mila tiyang ingkang mboten pitados punika bingung. Gusti Allah mboten nedahaken tiyang-tiyang ingkang tumindak ala.
 
 أَلَمْ تَرَ إِلَى ٱلَّذِى حَآجَّ إِبْرَٰهِۦمَ فِى رَبِّهِۦٓ أَنْ ءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ إِذْ قَالَ إِبْرَٰهِۦمُ رَبِّىَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ قَالَ أَنَا۠ أُحْىِۦ وَأُمِيتُ ۖ قَالَ إِبْرَٰهِۦمُ فَإِنَّ ٱللَّهَ يَأْتِى بِٱلشَّمْسِ مِنَ ٱلْمَشْرِقِ فَأْتِ بِهَا مِنَ ٱلْمَغْرِبِ فَبُهِتَ ٱلَّذِى كَفَرَ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**2:259** Utawi kados piyambakipun ingkang langkung kitha ingkang ambruk ing dhasaripun. Piyambakipun matur, “Kadospundi Gusti Allah saged nguripaken punika sasampunipun pejahipun?” Lajeng Gusti Allah ndadosaken piyambakipun pejah satus taun, lan lajeng nguripaken piyambakipun. Panjenenganipun ngendika, “Sampun pinten dangu sampeyan manggon?” Piyambakipun matur, “Kawula sampun manggon sedinten, utawi saperangan dinten.” Panjenenganipun ngendika, “Mboten. Sampeyan sampun manggon satus taun. Samenika tingali tedha lan omben sampeyan — punika dereng rusak — lan tingali kuldi sampeyan. Ingsun badhe ndadosaken sampeyan dados kaajaiban kagem manungsa. Lan tingali balung-balung, kadospundi Ingsun nyusun punika, lan lajeng nutupi punika kanthi daging.” Mila nalika punika dados cetha dhumateng piyambakipun, piyambakipun matur, “Kawula mangertos bilih Gusti Allah gadhah kuwaos ing sandhuwuripun sadaya prakawis.”
+**2:259** Utawi kados piyambakipun ingkang langkung kitha ingkang ambruk ing dhasaripun. Piyambakipun matur, "Kadospundi Gusti Allah saged nguripaken punika sasampunipun pejahipun?" Lajeng Gusti Allah ndadosaken piyambakipun pejah satus taun, lan lajeng nguripaken piyambakipun. Panjenenganipun ngendika, "Sampun pinten dangu sampeyan manggon?" Piyambakipun matur, "Kawula sampun manggon sedinten, utawi saperangan dinten." Panjenenganipun ngendika, "Mboten. Sampeyan sampun manggon satus taun. Samenika tingali tedha lan omben sampeyan — punika dereng rusak — lan tingali kuldi sampeyan. Ingsun badhe ndadosaken sampeyan dados kaajaiban kagem manungsa. Lan tingali balung-balung, kadospundi Ingsun nyusun punika, lan lajeng nutupi punika kanthi daging." Mila nalika punika dados cetha dhumateng piyambakipun, piyambakipun matur, "Kawula mangertos bilih Gusti Allah gadhah kuwaos ing sandhuwuripun sadaya prakawis."
 
 أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍۢ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا ۖ فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍۢ ثُمَّ بَعَثَهُۥ ۖ قَالَ كَمْ لَبِثْتَ ۖ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍۢ ۖ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍۢ فَٱنظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ ۖ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةًۭ لِّلنَّاسِ ۖ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًۭا ۚ فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**2:260** Lan nalika Ibrahim matur, “Pangeran kawula, tedahna dhumateng kawula kadospundi Panjenengan maringi gesang dhumateng ingkang pejah.” Panjenenganipun ngendika, “Menapa sampeyan dereng pitados?” Piyambakipun matur, “Inggih, nanging supados manah kawula tentrem.” Panjenenganipun ngendika, “Pendheta sekawan peksi, lan miringna piyambakipun dhumateng sampeyan, lajeng papanana saperangan ing saben bukit, lajeng nimbali piyambakipun; lan piyambakipun badhe dhateng kesusu dhumateng sampeyan. Lan mangertosa bilih Gusti Allah Mahakwaos lan Maha Wicaksana.”
+**2:260** Lan nalika Ibrahim matur, "Pangeran kawula, tedahna dhumateng kawula kadospundi Panjenengan maringi gesang dhumateng ingkang pejah." Panjenenganipun ngendika, "Menapa sampeyan dereng pitados?" Piyambakipun matur, "Inggih, nanging supados manah kawula tentrem." Panjenenganipun ngendika, "Pendheta sekawan peksi, lan miringna piyambakipun dhumateng sampeyan, lajeng papanana saperangan ing saben bukit, lajeng nimbali piyambakipun; lan piyambakipun badhe dhateng kesusu dhumateng sampeyan. Lan mangertosa bilih Gusti Allah Mahakwaos lan Maha Wicaksana."
 
 وَإِذْ قَالَ إِبْرَٰهِۦمُ رَبِّ أَرِنِى كَيْفَ تُحْىِ ٱلْمَوْتَىٰ ۖ قَالَ أَوَلَمْ تُؤْمِن ۖ قَالَ بَلَىٰ وَلَٰكِن لِّيَطْمَئِنَّ قَلْبِى ۖ قَالَ فَخُذْ أَرْبَعَةًۭ مِّنَ ٱلطَّيْرِ فَصُرْهُنَّ إِلَيْكَ ثُمَّ ٱجْعَلْ عَلَىٰ كُلِّ جَبَلٍۢ مِّنْهُنَّ جُزْءًۭا ثُمَّ ٱدْعُهُنَّ يَأْتِينَكَ سَعْيًۭا ۚ وَٱعْلَمْ أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌۭ
 
@@ -1278,7 +1278,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُم بِٱلَّيْلِ وَٱلنَّهَارِ سِرًّۭا وَعَلَانِيَةًۭ فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
-**2:275** Tiyang-tiyang ingkang nguntal riba mboten badhe tangi, kejawi kados tiyang ingkang dipundadosaken edan dening demekipun Setan. Punika amargi piyambakipun matur, “Dagang punika kados riba.” Nanging Gusti Allah sampun ngidinaken dagang, lan sampun nglarang riba. Sinten kemawon, nalika nampi pitutur saking Pangeranipun, mandheg, saged nyimpen penghasilanipun ingkang kapungkur, lan prakawis ipun wonten ing Gusti Allah. Nanging sinten kemawon ingkang wangsul malih — tiyang punika penghuni Geni, ing mrika piyambakipun badhe manggon salaminipun.
+**2:275** Tiyang-tiyang ingkang nguntal riba mboten badhe tangi, kejawi kados tiyang ingkang dipundadosaken edan dening demekipun Setan. Punika amargi piyambakipun matur, "Dagang punika kados riba." Nanging Gusti Allah sampun ngidinaken dagang, lan sampun nglarang riba. Sinten kemawon, nalika nampi pitutur saking Pangeranipun, mandheg, saged nyimpen penghasilanipun ingkang kapungkur, lan prakawis ipun wonten ing Gusti Allah. Nanging sinten kemawon ingkang wangsul malih — tiyang punika penghuni Geni, ing mrika piyambakipun badhe manggon salaminipun.
 
 ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ ٱلشَّيْطَٰنُ مِنَ ٱلْمَسِّ ۚ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟ ۗ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ ۚ فَمَن جَآءَهُۥ مَوْعِظَةٌۭ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ وَأَمْرُهُۥٓ إِلَى ٱللَّهِ ۖ وَمَنْ عَادَ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
@@ -1318,11 +1318,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 لِّلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَإِن تُبْدُوا۟ مَا فِىٓ أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ ٱللَّهُ ۖ فَيَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ
 
-**2:285** Utusan sampun pitados dhumateng menapa ingkang dipunwedharaken dhumateng piyambakipun saking Pangeranipun, kados ugi tiyang-tiyang pitados. Sedayanipun sampun pitados dhumateng Gusti Allah, lan malaikat-malaikat Panjenenganipun, lan kitab-kitab Panjenenganipun, lan utusan-utusan Panjenenganipun: “Kawula mboten mbedakaken antawisipun sinten kemawon saking utusan-utusan Panjenenganipun.” Lan piyambakipun matur, “Kawula mireng lan kawula manut. Pangapunten Panjenengan, Pangeran kawula. Dhumateng Panjenengan tujuanipun.”
+**2:285** Utusan sampun pitados dhumateng menapa ingkang dipunwedharaken dhumateng piyambakipun saking Pangeranipun, kados ugi tiyang-tiyang pitados. Sedayanipun sampun pitados dhumateng Gusti Allah, lan malaikat-malaikat Panjenenganipun, lan kitab-kitab Panjenenganipun, lan utusan-utusan Panjenenganipun: "Kawula mboten mbedakaken antawisipun sinten kemawon saking utusan-utusan Panjenenganipun." Lan piyambakipun matur, "Kawula mireng lan kawula manut. Pangapunten Panjenengan, Pangeran kawula. Dhumateng Panjenengan tujuanipun."
 
 ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيْهِ مِن رَّبِّهِۦ وَٱلْمُؤْمِنُونَ ۚ كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيْنَ أَحَدٍۢ مِّن رُّسُلِهِۦ ۚ وَقَالُوا۟ سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ
 
-**2:286** Gusti Allah mboten mbebani jiwa nglangkungi kapasitasipun. Kagem kreditipun menapa ingkang piyambakipun pikantuk, lan nglawan punika menapa ingkang piyambakipun tindakaken. “Pangeran kawula, aja ngukum kawula menawi kawula lali utawi damel kalepatan. Pangeran kawula, aja mbebani kawula kados Panjenengan sampun mbebani tiyang-tiyang sadherengipun kawula. Pangeran kawula, aja mbebani kawula kanthi langkung saking kekiyatan kawula tahan; lan ngapuntenana kawula, lan ampunanana kawula, lan welasana kawula. Panjenengan punika Pangeran lan Gusti kawula, mila biyantuna kawula nglawan tiyang-tiyang ingkang mboten pitados.”
+**2:286** Gusti Allah mboten mbebani jiwa nglangkungi kapasitasipun. Kagem kreditipun menapa ingkang piyambakipun pikantuk, lan nglawan punika menapa ingkang piyambakipun tindakaken. "Pangeran kawula, aja ngukum kawula menawi kawula lali utawi damel kalepatan. Pangeran kawula, aja mbebani kawula kados Panjenengan sampun mbebani tiyang-tiyang sadherengipun kawula. Pangeran kawula, aja mbebani kawula kanthi langkung saking kekiyatan kawula tahan; lan ngapuntenana kawula, lan ampunanana kawula, lan welasana kawula. Panjenengan punika Pangeran lan Gusti kawula, mila biyantuna kawula nglawan tiyang-tiyang ingkang mboten pitados."
 
 لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًۭا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
 
@@ -1362,15 +1362,15 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 هُوَ ٱلَّذِى يُصَوِّرُكُمْ فِى ٱلْأَرْحَامِ كَيْفَ يَشَآءُ ۚ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**3:7** Panjenenganipun ingkang sampun nurunaken Kitab dhateng panjenengan. Sapérangan ayat-ayatipun cetha tegesipun; punika dados dhasaripun Kitab, lan sanèsipun boten cetha. Dene tiyang-tiyang ingkang manahipun nyimpang, sami ngetutaken pérangan ingkang boten cetha punika, kanthi ngupaya kerusuhan, lan ngupaya narik tegesipun. Nanging boten wonten ingkang mangertos tegesipun kajawi Gusti Allah, lan tiyang-tiyang ingkang mantep ing kawruh sami matur, “Kawula sedaya pitados dhateng punika; sedayanipun saking Pangeran kawula.” Nanging boten wonten ingkang émut kajawi tiyang-tiyang ingkang gadhah pangerten.
+**3:7** Panjenenganipun ingkang sampun nurunaken Kitab dhateng panjenengan. Sapérangan ayat-ayatipun cetha tegesipun; punika dados dhasaripun Kitab, lan sanèsipun boten cetha. Dene tiyang-tiyang ingkang manahipun nyimpang, sami ngetutaken pérangan ingkang boten cetha punika, kanthi ngupaya kerusuhan, lan ngupaya narik tegesipun. Nanging boten wonten ingkang mangertos tegesipun kajawi Gusti Allah, lan tiyang-tiyang ingkang mantep ing kawruh sami matur, "Kawula sedaya pitados dhateng punika; sedayanipun saking Pangeran kawula." Nanging boten wonten ingkang émut kajawi tiyang-tiyang ingkang gadhah pangerten.
 
 هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَٰبَ مِنْهُ ءَايَٰتٌۭ مُّحْكَمَٰتٌ هُنَّ أُمُّ ٱلْكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٌۭ ۖ فَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِمْ زَيْغٌۭ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنْهُ ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ ۗ وَمَا يَعْلَمُ تَأْوِيلَهُۥٓ إِلَّا ٱللَّهُ ۗ وَٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلٌّۭ مِّنْ عِندِ رَبِّنَا ۗ وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَٰبِ
 
-**3:8** “Dhuh Pangeran kawula, sampun ngantos Panjenengan damel manah kawula nyimpang sasampunipun Panjenengan maringi pituduh dhateng kawula, lan mugi Panjenengan maringi welas asih saking ngarsanipun Panjenengan dhateng kawula; Panjenengan punika Kang Maringi.”
+**3:8** "Dhuh Pangeran kawula, sampun ngantos Panjenengan damel manah kawula nyimpang sasampunipun Panjenengan maringi pituduh dhateng kawula, lan mugi Panjenengan maringi welas asih saking ngarsanipun Panjenengan dhateng kawula; Panjenengan punika Kang Maringi."
 
 رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ ٱلْوَهَّابُ
 
-**3:9** “Dhuh Pangeran kawula, Panjenengan badhe ngempalaken manungsa ing satunggaling Dinten ingkang boten wonten mangu-mangu ing salebetipun.” Gusti Allah boten badhe nyidrani janji Panjenenganipun.
+**3:9** "Dhuh Pangeran kawula, Panjenengan badhe ngempalaken manungsa ing satunggaling Dinten ingkang boten wonten mangu-mangu ing salebetipun." Gusti Allah boten badhe nyidrani janji Panjenenganipun.
 
 رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوْمٍۢ لَّا رَيْبَ فِيهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ
 
@@ -1382,7 +1382,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 كَدَأْبِ ءَالِ فِرْعَوْنَ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَذَّبُوا۟ بِـَٔايَٰتِنَا فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمْ ۗ وَٱللَّهُ شَدِيدُ ٱلْعِقَابِ
 
-**3:12** Matura dhateng tiyang-tiyang ingkang boten pitados, “Panjenengan sedaya badhe dipunkalahaken, lan dipunkempalaken dhateng Neraka—panggènan lèrèn ingkang awon sanget.”
+**3:12** Matura dhateng tiyang-tiyang ingkang boten pitados, "Panjenengan sedaya badhe dipunkalahaken, lan dipunkempalaken dhateng Neraka—panggènan lèrèn ingkang awon sanget."
 
 قُل لِّلَّذِينَ كَفَرُوا۟ سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَىٰ جَهَنَّمَ ۚ وَبِئْسَ ٱلْمِهَادُ
 
@@ -1394,11 +1394,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 زُيِّنَ لِلنَّاسِ حُبُّ ٱلشَّهَوَٰتِ مِنَ ٱلنِّسَآءِ وَٱلْبَنِينَ وَٱلْقَنَٰطِيرِ ٱلْمُقَنطَرَةِ مِنَ ٱلذَّهَبِ وَٱلْفِضَّةِ وَٱلْخَيْلِ ٱلْمُسَوَّمَةِ وَٱلْأَنْعَٰمِ وَٱلْحَرْثِ ۗ ذَٰلِكَ مَتَٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلْمَـَٔابِ
 
-**3:15** Matura, “Punapa kawula maringi kabar dhateng panjenengan bab ingkang langkung saé tinimbang punika? Kangge tiyang-tiyang ingkang leres, ing ngarsanipun Pangeranipun wonten Taman-taman ingkang ing sangandhapipun kali-kali sami mili, ing papan punika piyambakipun badhe tetep salaminipun, lan pasangan-pasangan ingkang resik, lan karidhan saking Gusti Allah.” Gusti Allah punika tansah mirsani para kawula.
+**3:15** Matura, "Punapa kawula maringi kabar dhateng panjenengan bab ingkang langkung saé tinimbang punika? Kangge tiyang-tiyang ingkang leres, ing ngarsanipun Pangeranipun wonten Taman-taman ingkang ing sangandhapipun kali-kali sami mili, ing papan punika piyambakipun badhe tetep salaminipun, lan pasangan-pasangan ingkang resik, lan karidhan saking Gusti Allah." Gusti Allah punika tansah mirsani para kawula.
 
 ۞ قُلْ أَؤُنَبِّئُكُم بِخَيْرٍۢ مِّن ذَٰلِكُمْ ۚ لِلَّذِينَ ٱتَّقَوْا۟ عِندَ رَبِّهِمْ جَنَّٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَأَزْوَٰجٌۭ مُّطَهَّرَةٌۭ وَرِضْوَٰنٌۭ مِّنَ ٱللَّهِ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ
 
-**3:16** Piyambakipun ingkang sami matur, “Dhuh Pangeran kawula, kawula sampun pitados, pramila mugi Panjenengan ngapunten dosa-dosa kawula, lan mugi Panjenengan nguwalaken kawula saking siksa Geni.”
+**3:16** Piyambakipun ingkang sami matur, "Dhuh Pangeran kawula, kawula sampun pitados, pramila mugi Panjenengan ngapunten dosa-dosa kawula, lan mugi Panjenengan nguwalaken kawula saking siksa Geni."
 
 ٱلَّذِينَ يَقُولُونَ رَبَّنَآ إِنَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ
 
@@ -1414,7 +1414,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 إِنَّ ٱلدِّينَ عِندَ ٱللَّهِ ٱلْإِسْلَٰمُ ۗ وَمَا ٱخْتَلَفَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۗ وَمَن يَكْفُرْ بِـَٔايَٰتِ ٱللَّهِ فَإِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
 
-**3:20** Menawi piyambakipun sami mbantah panjenengan, matura, “Kawula sampun masrahaken dhiri kawula dhateng Gusti Allah, lan makaten ugi tiyang-tiyang ingkang ngetutaken kawula.” Lan matura dhateng tiyang-tiyang ingkang sampun dipunparingi Kitab, lan dhateng tiyang-tiyang ingkang boten sinau, “Punapa panjenengan sedaya sampun masrahaken dhiri?” Menawi piyambakipun sampun masrahaken dhiri, piyambakipun sampun pikantuk pituduh; nanging menawi piyambakipun sami mèngèr, kuwajiban panjenengan namung nglantaraken. Gusti Allah punika mirsani para kawula.
+**3:20** Menawi piyambakipun sami mbantah panjenengan, matura, "Kawula sampun masrahaken dhiri kawula dhateng Gusti Allah, lan makaten ugi tiyang-tiyang ingkang ngetutaken kawula." Lan matura dhateng tiyang-tiyang ingkang sampun dipunparingi Kitab, lan dhateng tiyang-tiyang ingkang boten sinau, "Punapa panjenengan sedaya sampun masrahaken dhiri?" Menawi piyambakipun sampun masrahaken dhiri, piyambakipun sampun pikantuk pituduh; nanging menawi piyambakipun sami mèngèr, kuwajiban panjenengan namung nglantaraken. Gusti Allah punika mirsani para kawula.
 
 فَإِنْ حَآجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِىَ لِلَّهِ وَمَنِ ٱتَّبَعَنِ ۗ وَقُل لِّلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَٱلْأُمِّيِّۦنَ ءَأَسْلَمْتُمْ ۚ فَإِنْ أَسْلَمُوا۟ فَقَدِ ٱهْتَدَوا۟ ۖ وَّإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْكَ ٱلْبَلَٰغُ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ
 
@@ -1430,7 +1430,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًۭا مِّنَ ٱلْكِتَٰبِ يُدْعَوْنَ إِلَىٰ كِتَٰبِ ٱللَّهِ لِيَحْكُمَ بَيْنَهُمْ ثُمَّ يَتَوَلَّىٰ فَرِيقٌۭ مِّنْهُمْ وَهُم مُّعْرِضُونَ
 
-**3:24** Punika amargi piyambakipun sami matur, “Geni boten badhe ndemek kawula kajawi namung sawetara dinten kémawon.” Piyambakipun sampun kasasaraken ing agamanipun déning goroh ingkang piyambakipun damel-damel.
+**3:24** Punika amargi piyambakipun sami matur, "Geni boten badhe ndemek kawula kajawi namung sawetara dinten kémawon." Piyambakipun sampun kasasaraken ing agamanipun déning goroh ingkang piyambakipun damel-damel.
 
 ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامًۭا مَّعْدُودَٰتٍۢ ۖ وَغَرَّهُمْ فِى دِينِهِم مَّا كَانُوا۟ يَفْتَرُونَ
 
@@ -1438,11 +1438,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 فَكَيْفَ إِذَا جَمَعْنَٰهُمْ لِيَوْمٍۢ لَّا رَيْبَ فِيهِ وَوُفِّيَتْ كُلُّ نَفْسٍۢ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
 
-**3:26** Matura, “Dhuh Gusti Allah, Ingkang Kagungan Panguwasa. Panjenengan maringi panguwasa dhateng sinten kémawon ingkang Panjenengan karsakaken, lan Panjenengan ngendhat panguwasa saking sinten kémawon ingkang Panjenengan karsakaken. Panjenengan ngluhuraken sinten kémawon ingkang Panjenengan karsakaken, lan Panjenengan ngasoraken sinten kémawon ingkang Panjenengan karsakaken. Ing astanipun Panjenengan wonten sedaya kabecikan. Panjenengan kuwaos tumrap sedaya punapa kémawon.”
+**3:26** Matura, "Dhuh Gusti Allah, Ingkang Kagungan Panguwasa. Panjenengan maringi panguwasa dhateng sinten kémawon ingkang Panjenengan karsakaken, lan Panjenengan ngendhat panguwasa saking sinten kémawon ingkang Panjenengan karsakaken. Panjenengan ngluhuraken sinten kémawon ingkang Panjenengan karsakaken, lan Panjenengan ngasoraken sinten kémawon ingkang Panjenengan karsakaken. Ing astanipun Panjenengan wonten sedaya kabecikan. Panjenengan kuwaos tumrap sedaya punapa kémawon."
 
 قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ ۖ بِيَدِكَ ٱلْخَيْرُ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**3:27** “Panjenengan nglebetaken dalu dhateng siyang, lan Panjenengan nglebetaken siyang dhateng dalu; lan Panjenengan ngedalaken ingkang gesang saking ingkang pejah, lan Panjenengan ngedalaken ingkang pejah saking ingkang gesang; lan Panjenengan maringi rejeki dhateng sinten kémawon ingkang Panjenengan karsakaken tanpa ukuran.”
+**3:27** "Panjenengan nglebetaken dalu dhateng siyang, lan Panjenengan nglebetaken siyang dhateng dalu; lan Panjenengan ngedalaken ingkang gesang saking ingkang pejah, lan Panjenengan ngedalaken ingkang pejah saking ingkang gesang; lan Panjenengan maringi rejeki dhateng sinten kémawon ingkang Panjenengan karsakaken tanpa ukuran."
 
 تُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ ۖ وَتُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَتُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ ۖ وَتَرْزُقُ مَن تَشَآءُ بِغَيْرِ حِسَابٍۢ
 
@@ -1450,7 +1450,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 لَّا يَتَّخِذِ ٱلْمُؤْمِنُونَ ٱلْكَٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ ۖ وَمَن يَفْعَلْ ذَٰلِكَ فَلَيْسَ مِنَ ٱللَّهِ فِى شَىْءٍ إِلَّآ أَن تَتَّقُوا۟ مِنْهُمْ تُقَىٰةًۭ ۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ ۗ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ
 
-**3:29** Matura, “Senaosa panjenengan sedaya ngumpetaken punapa ingkang wonten ing manah panjenengan, utawi panjenengan lairaken, Gusti Allah mangertos punika.” Panjenenganipun mangertos sedaya ingkang wonten ing langit-langit lan ing bumi. Gusti Allah kuwaos tumrap sedaya punapa kémawon.
+**3:29** Matura, "Senaosa panjenengan sedaya ngumpetaken punapa ingkang wonten ing manah panjenengan, utawi panjenengan lairaken, Gusti Allah mangertos punika." Panjenenganipun mangertos sedaya ingkang wonten ing langit-langit lan ing bumi. Gusti Allah kuwaos tumrap sedaya punapa kémawon.
 
 قُلْ إِن تُخْفُوا۟ مَا فِى صُدُورِكُمْ أَوْ تُبْدُوهُ يَعْلَمْهُ ٱللَّهُ ۗ وَيَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
@@ -1458,11 +1458,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 يَوْمَ تَجِدُ كُلُّ نَفْسٍۢ مَّا عَمِلَتْ مِنْ خَيْرٍۢ مُّحْضَرًۭا وَمَا عَمِلَتْ مِن سُوٓءٍۢ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُۥٓ أَمَدًۢا بَعِيدًۭا ۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ ۗ وَٱللَّهُ رَءُوفٌۢ بِٱلْعِبَادِ
 
-**3:31** Matura, “Menawi panjenengan sedaya tresna dhateng Gusti Allah, mangga ngetutaken kawula, lan Gusti Allah badhe tresna dhateng panjenengan, lan badhe ngapunten dosa-dosa panjenengan.” Gusti Allah punika Maha Pangapunten lan Mahaasih.
+**3:31** Matura, "Menawi panjenengan sedaya tresna dhateng Gusti Allah, mangga ngetutaken kawula, lan Gusti Allah badhe tresna dhateng panjenengan, lan badhe ngapunten dosa-dosa panjenengan." Gusti Allah punika Maha Pangapunten lan Mahaasih.
 
 قُلْ إِن كُنتُمْ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ
 
-**3:32** Matura, “Sami manuta dhateng Gusti Allah lan Rasul.” Nanging menawi piyambakipun sami mèngèr—Gusti Allah boten tresna dhateng tiyang-tiyang ingkang boten pitados.
+**3:32** Matura, "Sami manuta dhateng Gusti Allah lan Rasul." Nanging menawi piyambakipun sami mèngèr—Gusti Allah boten tresna dhateng tiyang-tiyang ingkang boten pitados.
 
 قُلْ أَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ ۖ فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْكَٰفِرِينَ
 
@@ -1474,39 +1474,39 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 ذُرِّيَّةًۢ بَعْضُهَا مِنۢ بَعْضٍۢ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
 
-**3:35** Garwanipun Imran matur, “Dhuh Pangeran kawula, kawula sampun nadharaken dhateng Panjenengan punapa ingkang wonten ing weteng kawula, kanthi dipunsukakaken, pramila mugi Panjenengan nampi saking kawula; Panjenengan punika Kang Midhanget lan Kang Mangertos.”
+**3:35** Garwanipun Imran matur, "Dhuh Pangeran kawula, kawula sampun nadharaken dhateng Panjenengan punapa ingkang wonten ing weteng kawula, kanthi dipunsukakaken, pramila mugi Panjenengan nampi saking kawula; Panjenengan punika Kang Midhanget lan Kang Mangertos."
 
 إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
-**3:36** Lan nalika piyambakipun nglairaken, piyambakipun matur, “Dhuh Pangeran kawula, kawula sampun nglairaken anak wadon,” lan Gusti Allah sampun mangertos sanget punapa ingkang piyambakipun lairaken, “lan anak lanang boten kados anak wadon, lan kawula sampun maringi nama Maryam dhateng piyambakipun, lan kawula sampun masrahaken piyambakipun lan anak-turunipun dhateng pangayomanipun Panjenengan, saking Setan ingkang dipunbucal.”
+**3:36** Lan nalika piyambakipun nglairaken, piyambakipun matur, "Dhuh Pangeran kawula, kawula sampun nglairaken anak wadon," lan Gusti Allah sampun mangertos sanget punapa ingkang piyambakipun lairaken, "lan anak lanang boten kados anak wadon, lan kawula sampun maringi nama Maryam dhateng piyambakipun, lan kawula sampun masrahaken piyambakipun lan anak-turunipun dhateng pangayomanipun Panjenengan, saking Setan ingkang dipunbucal."
 
 فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ إِنِّى وَضَعْتُهَآ أُنثَىٰ وَٱللَّهُ أَعْلَمُ بِمَا وَضَعَتْ وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ ۖ وَإِنِّى سَمَّيْتُهَا مَرْيَمَ وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ ٱلشَّيْطَٰنِ ٱلرَّجِيمِ
 
-**3:37** Pangeranipun nampi piyambakipun kanthi panampi ingkang saé, lan ndadosaken piyambakipun tuwuh kanthi tuwuh ingkang éndah, lan masrahaken pangreksanipun dhateng Zakariya. Saben-saben Zakariya lumebet manggihi piyambakipun ing papan sembahyang, piyambakipun manggih rejeki ing sisihipun. Piyambakipun matur, “Dhuh Maryam, saking pundi panjenengan pikantuk punika?” Piyambakipun matur, “Punika saking Gusti Allah; Gusti Allah maringi rejeki dhateng sinten kémawon ingkang Panjenenganipun karsakaken tanpa etangan.”
+**3:37** Pangeranipun nampi piyambakipun kanthi panampi ingkang saé, lan ndadosaken piyambakipun tuwuh kanthi tuwuh ingkang éndah, lan masrahaken pangreksanipun dhateng Zakariya. Saben-saben Zakariya lumebet manggihi piyambakipun ing papan sembahyang, piyambakipun manggih rejeki ing sisihipun. Piyambakipun matur, "Dhuh Maryam, saking pundi panjenengan pikantuk punika?" Piyambakipun matur, "Punika saking Gusti Allah; Gusti Allah maringi rejeki dhateng sinten kémawon ingkang Panjenenganipun karsakaken tanpa etangan."
 
 فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍۢ وَأَنۢبَتَهَا نَبَاتًا حَسَنًۭا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًۭا ۖ قَالَ يَٰمَرْيَمُ أَنَّىٰ لَكِ هَٰذَا ۖ قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ ۖ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ
 
-**3:38** Ing mriku Zakariya ndedonga dhateng Pangeranipun; piyambakipun matur, “Dhuh Pangeran kawula, mugi Panjenengan maringi anak-turun ingkang saé saking ngarsanipun Panjenengan dhateng kawula; Panjenengan punika Kang Midhanget pandonga.”
+**3:38** Ing mriku Zakariya ndedonga dhateng Pangeranipun; piyambakipun matur, "Dhuh Pangeran kawula, mugi Panjenengan maringi anak-turun ingkang saé saking ngarsanipun Panjenengan dhateng kawula; Panjenengan punika Kang Midhanget pandonga."
 
 هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُۥ ۖ قَالَ رَبِّ هَبْ لِى مِن لَّدُنكَ ذُرِّيَّةًۭ طَيِّبَةً ۖ إِنَّكَ سَمِيعُ ٱلدُّعَآءِ
 
-**3:39** Lajeng para malaekat nimbali piyambakipun, nalika piyambakipun jumeneng sembahyang ing papan sembahyang: “Gusti Allah maringi kabar saé dhateng panjenengan bab Yahya; ingkang mbeneraken satunggaling Pangandika saking Gusti Allah, lan minulya, lan suci tindakipun, lan satunggaling nabi; kalebet tiyang-tiyang ingkang saleh.”
+**3:39** Lajeng para malaekat nimbali piyambakipun, nalika piyambakipun jumeneng sembahyang ing papan sembahyang: "Gusti Allah maringi kabar saé dhateng panjenengan bab Yahya; ingkang mbeneraken satunggaling Pangandika saking Gusti Allah, lan minulya, lan suci tindakipun, lan satunggaling nabi; kalebet tiyang-tiyang ingkang saleh."
 
 فَنَادَتْهُ ٱلْمَلَٰٓئِكَةُ وَهُوَ قَآئِمٌۭ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍۢ مِّنَ ٱللَّهِ وَسَيِّدًۭا وَحَصُورًۭا وَنَبِيًّۭا مِّنَ ٱلصَّٰلِحِينَ
 
-**3:40** Piyambakipun matur, “Dhuh Pangeran kawula, kados pundi kawula badhe gadhah anak lanang, nalika sepuh sampun ndhatengi kawula, lan garwa kawula gabug?” Panjenenganipun ngendika, “Makaten punika, Gusti Allah nindakaken punapa kémawon ingkang Panjenenganipun karsakaken.”
+**3:40** Piyambakipun matur, "Dhuh Pangeran kawula, kados pundi kawula badhe gadhah anak lanang, nalika sepuh sampun ndhatengi kawula, lan garwa kawula gabug?" Panjenenganipun ngendika, "Makaten punika, Gusti Allah nindakaken punapa kémawon ingkang Panjenenganipun karsakaken."
 
 قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌۭ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌۭ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
 
-**3:41** Piyambakipun matur, “Dhuh Pangeran kawula, paringana pratanda dhateng kawula.” Panjenenganipun ngendika, “Pratanda panjenengan inggih punika panjenengan boten badhe matur dhateng manungsa tigang dinten, kajawi kanthi isyarat. Lan émut-é mutha Pangeran panjenengan kanthi kathah, lan mahasucèkna ing wanci sonten lan énjing.”
+**3:41** Piyambakipun matur, "Dhuh Pangeran kawula, paringana pratanda dhateng kawula." Panjenenganipun ngendika, "Pratanda panjenengan inggih punika panjenengan boten badhe matur dhateng manungsa tigang dinten, kajawi kanthi isyarat. Lan émut-é mutha Pangeran panjenengan kanthi kathah, lan mahasucèkna ing wanci sonten lan énjing."
 
 قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةًۭ ۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَةَ أَيَّامٍ إِلَّا رَمْزًۭا ۗ وَٱذْكُر رَّبَّكَ كَثِيرًۭا وَسَبِّحْ بِٱلْعَشِىِّ وَٱلْإِبْكَٰرِ
 
-**3:42** Para malaekat sami matur, “Dhuh Maryam, Gusti Allah sampun milih panjenengan, lan sampun nucèkaken panjenengan. Panjenenganipun sampun milih panjenengan ngungkuli sedaya wanita ing donya.
+**3:42** Para malaekat sami matur, "Dhuh Maryam, Gusti Allah sampun milih panjenengan, lan sampun nucèkaken panjenengan. Panjenenganipun sampun milih panjenengan ngungkuli sedaya wanita ing donya.
 
 وَإِذْ قَالَتِ ٱلْمَلَٰٓئِكَةُ يَٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَٰلَمِينَ
 
-**3:43** “Dhuh Maryam, tansah taata dhateng Pangeran panjenengan, lan sujuda, lan rukuka sesarengan kaliyan tiyang-tiyang ingkang rukuk.”
+**3:43** "Dhuh Maryam, tansah taata dhateng Pangeran panjenengan, lan sujuda, lan rukuka sesarengan kaliyan tiyang-tiyang ingkang rukuk."
 
 يَٰمَرْيَمُ ٱقْنُتِى لِرَبِّكِ وَٱسْجُدِى وَٱرْكَعِى مَعَ ٱلرَّٰكِعِينَ
 
@@ -1514,15 +1514,15 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ ۚ وَمَا كُنتَ لَدَيْهِمْ إِذْ يُلْقُونَ أَقْلَٰمَهُمْ أَيُّهُمْ يَكْفُلُ مَرْيَمَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يَخْتَصِمُونَ
 
-**3:45** Para Malaekat sami matur, “Dhuh Maryam, Gusti Allah maringi kabar saé dhateng panjenengan bab satunggaling Pangandika saking Panjenenganipun. Namanipun Almasih, Isa, putranipun Maryam, dipunurmati ing donya punika lan ing Akhirat, lan kalebet tiyang-tiyang ingkang celak piyambak.
+**3:45** Para Malaekat sami matur, "Dhuh Maryam, Gusti Allah maringi kabar saé dhateng panjenengan bab satunggaling Pangandika saking Panjenenganipun. Namanipun Almasih, Isa, putranipun Maryam, dipunurmati ing donya punika lan ing Akhirat, lan kalebet tiyang-tiyang ingkang celak piyambak.
 
 إِذْ قَالَتِ ٱلْمَلَٰٓئِكَةُ يَٰمَرْيَمُ إِنَّ ٱللَّهَ يُبَشِّرُكِ بِكَلِمَةٍۢ مِّنْهُ ٱسْمُهُ ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ وَجِيهًۭا فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَمِنَ ٱلْمُقَرَّبِينَ
 
-**3:46** Piyambakipun badhe matur dhateng manungsa wiwit ing ayunan, lan ing yuswa diwasa, lan piyambakipun badhe kalebet tiyang-tiyang ingkang saleh.”
+**3:46** Piyambakipun badhe matur dhateng manungsa wiwit ing ayunan, lan ing yuswa diwasa, lan piyambakipun badhe kalebet tiyang-tiyang ingkang saleh."
 
 وَيُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًۭا وَمِنَ ٱلصَّٰلِحِينَ
 
-**3:47** Piyambakipun matur, “Dhuh Pangeran kawula, kados pundi kawula saged gadhah anak, nalika boten wonten tiyang jaler ingkang ndemek kawula?” Panjenenganipun ngendika, “Badhe makaten. Gusti Allah nitahaken punapa kémawon ingkang Panjenenganipun karsakaken. Kangge nindakaken punapa kémawon, Panjenenganipun namung ngendika dhateng punika, ‘Dadosa,’ lajeng punika dados.”
+**3:47** Piyambakipun matur, "Dhuh Pangeran kawula, kados pundi kawula saged gadhah anak, nalika boten wonten tiyang jaler ingkang ndemek kawula?" Panjenenganipun ngendika, "Badhe makaten. Gusti Allah nitahaken punapa kémawon ingkang Panjenenganipun karsakaken. Kangge nindakaken punapa kémawon, Panjenenganipun namung ngendika dhateng punika, 'Dadosa,' lajeng punika dados."
 
 قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌۭ وَلَمْ يَمْسَسْنِى بَشَرٌۭ ۖ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ مَا يَشَآءُ ۚ إِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 
@@ -1530,23 +1530,23 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَيُعَلِّمُهُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ
 
-**3:49** Satunggaling utusan dhateng Anak-turun Israel: “Kawula sampun dhumateng panjenengan sedaya kanthi pratanda saking Pangeran panjenengan. Kawula ndamel kangge panjenengan saking lendhut wujudipun peksi; lajeng kawula sebul, lan punika dados peksi kanthi idinipun Gusti Allah. Lan kawula marasaken tiyang wuta lan tiyang lara kusta, lan kawula nggesangaken tiyang pejah, kanthi idinipun Gusti Allah. Lan kawula maringi kabar dhateng panjenengan bab punapa ingkang panjenengan tedha, lan punapa ingkang panjenengan simpen ing griya panjenengan. Ing salebetipun punika wonten pratanda kangge panjenengan, menawi panjenengan tiyang-tiyang ingkang pitados.”
+**3:49** Satunggaling utusan dhateng Anak-turun Israel: "Kawula sampun dhumateng panjenengan sedaya kanthi pratanda saking Pangeran panjenengan. Kawula ndamel kangge panjenengan saking lendhut wujudipun peksi; lajeng kawula sebul, lan punika dados peksi kanthi idinipun Gusti Allah. Lan kawula marasaken tiyang wuta lan tiyang lara kusta, lan kawula nggesangaken tiyang pejah, kanthi idinipun Gusti Allah. Lan kawula maringi kabar dhateng panjenengan bab punapa ingkang panjenengan tedha, lan punapa ingkang panjenengan simpen ing griya panjenengan. Ing salebetipun punika wonten pratanda kangge panjenengan, menawi panjenengan tiyang-tiyang ingkang pitados."
 
 وَرَسُولًا إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنِّى قَدْ جِئْتُكُم بِـَٔايَةٍۢ مِّن رَّبِّكُمْ ۖ أَنِّىٓ أَخْلُقُ لَكُم مِّنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ فَأَنفُخُ فِيهِ فَيَكُونُ طَيْرًۢا بِإِذْنِ ٱللَّهِ ۖ وَأُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ وَأُحْىِ ٱلْمَوْتَىٰ بِإِذْنِ ٱللَّهِ ۖ وَأُنَبِّئُكُم بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِى بُيُوتِكُمْ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
 
-**3:50** “Lan mbeneraken punapa ingkang wonten ing sangajeng kawula saking Taurat, lan supados kawula ngalalaken kangge panjenengan sapérangan saking punapa ingkang sampun dipunlarang kangge panjenengan. Kawula sampun dhumateng panjenengan kanthi pratanda saking Pangeran panjenengan; pramila ajriha dhateng Gusti Allah, lan manuta dhateng kawula.”
+**3:50** "Lan mbeneraken punapa ingkang wonten ing sangajeng kawula saking Taurat, lan supados kawula ngalalaken kangge panjenengan sapérangan saking punapa ingkang sampun dipunlarang kangge panjenengan. Kawula sampun dhumateng panjenengan kanthi pratanda saking Pangeran panjenengan; pramila ajriha dhateng Gusti Allah, lan manuta dhateng kawula."
 
 وَمُصَدِّقًۭا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَلِأُحِلَّ لَكُم بَعْضَ ٱلَّذِى حُرِّمَ عَلَيْكُمْ ۚ وَجِئْتُكُم بِـَٔايَةٍۢ مِّن رَّبِّكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ
 
-**3:51** “Gusti Allah punika Pangeran kawula lan Pangeran panjenengan; pramila sembaha Panjenenganipun. Punika margining lurus.”
+**3:51** "Gusti Allah punika Pangeran kawula lan Pangeran panjenengan; pramila sembaha Panjenenganipun. Punika margining lurus."
 
 إِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۗ هَٰذَا صِرَٰطٌۭ مُّسْتَقِيمٌۭ
 
-**3:52** Nalika Isa ngraosaken boten pitadosipun piyambakipun, piyambakipun matur, “Sinten kanca-kanca kawula tumuju Gusti Allah?” Para murid sami matur, “Kawula punika kanca-kancanipun Gusti Allah; kawula sampun pitados dhateng Gusti Allah, lan dadosa saksi bilih kawula sampun masrahaken dhiri.”
+**3:52** Nalika Isa ngraosaken boten pitadosipun piyambakipun, piyambakipun matur, "Sinten kanca-kanca kawula tumuju Gusti Allah?" Para murid sami matur, "Kawula punika kanca-kancanipun Gusti Allah; kawula sampun pitados dhateng Gusti Allah, lan dadosa saksi bilih kawula sampun masrahaken dhiri."
 
 ۞ فَلَمَّآ أَحَسَّ عِيسَىٰ مِنْهُمُ ٱلْكُفْرَ قَالَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ءَامَنَّا بِٱللَّهِ وَٱشْهَدْ بِأَنَّا مُسْلِمُونَ
 
-**3:53** “Dhuh Pangeran kawula, kawula sampun pitados dhateng punapa ingkang Panjenengan nurunaken, lan kawula sampun ngetutaken Rasul, pramila etanga kawula kalebet para saksi.”
+**3:53** "Dhuh Pangeran kawula, kawula sampun pitados dhateng punapa ingkang Panjenengan nurunaken, lan kawula sampun ngetutaken Rasul, pramila etanga kawula kalebet para saksi."
 
 رَبَّنَآ ءَامَنَّا بِمَآ أَنزَلْتَ وَٱتَّبَعْنَا ٱلرَّسُولَ فَٱكْتُبْنَا مَعَ ٱلشَّٰهِدِينَ
 
@@ -1554,7 +1554,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَمَكَرُوا۟ وَمَكَرَ ٱللَّهُ ۖ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ
 
-**3:55** Gusti Allah ngendika, “Dhuh Isa, Ingsun mungkasi gesang panjenengan, lan ngangkat panjenengan dhateng Ingsun, lan ngresikaken panjenengan saking tiyang-tiyang ingkang boten pitados. Lan Ingsun badhe ndadosaken tiyang-tiyang ingkang ngetutaken panjenengan ngungkuli tiyang-tiyang ingkang boten pitados, ngantos Dinten Kiamat. Lajeng dhateng Ingsun wangsul panjenengan; lajeng Ingsun badhe mrentah antawisipun panjenengan bab punapa ingkang panjenengan sami padoni.
+**3:55** Gusti Allah ngendika, "Dhuh Isa, Ingsun mungkasi gesang panjenengan, lan ngangkat panjenengan dhateng Ingsun, lan ngresikaken panjenengan saking tiyang-tiyang ingkang boten pitados. Lan Ingsun badhe ndadosaken tiyang-tiyang ingkang ngetutaken panjenengan ngungkuli tiyang-tiyang ingkang boten pitados, ngantos Dinten Kiamat. Lajeng dhateng Ingsun wangsul panjenengan; lajeng Ingsun badhe mrentah antawisipun panjenengan bab punapa ingkang panjenengan sami padoni.
 
 إِذْ قَالَ ٱللَّهُ يَٰعِيسَىٰٓ إِنِّى مُتَوَفِّيكَ وَرَافِعُكَ إِلَىَّ وَمُطَهِّرُكَ مِنَ ٱلَّذِينَ كَفَرُوا۟ وَجَاعِلُ ٱلَّذِينَ ٱتَّبَعُوكَ فَوْقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ۖ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأَحْكُمُ بَيْنَكُمْ فِيمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
 
@@ -1562,7 +1562,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 فَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَأُعَذِّبُهُمْ عَذَابًۭا شَدِيدًۭا فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَمَا لَهُم مِّن نَّٰصِرِينَ
 
-**3:57** Lan dene tiyang-tiyang ingkang pitados lan nindakaken amal saé, Panjenenganipun badhe maringi ganjaranipun kanthi wutuh dhateng piyambakipun. Gusti Allah boten tresna dhateng tiyang-tiyang ingkang aniaya.”
+**3:57** Lan dene tiyang-tiyang ingkang pitados lan nindakaken amal saé, Panjenenganipun badhe maringi ganjaranipun kanthi wutuh dhateng piyambakipun. Gusti Allah boten tresna dhateng tiyang-tiyang ingkang aniaya."
 
 وَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّٰلِمِينَ
 
@@ -1570,7 +1570,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 ذَٰلِكَ نَتْلُوهُ عَلَيْكَ مِنَ ٱلْءَايَٰتِ وَٱلذِّكْرِ ٱلْحَكِيمِ
 
-**3:59** Upami Isa ing paningalipun Gusti Allah punika kados Adam: Panjenenganipun nitahaken piyambakipun saking lebu, lajeng ngendika dhateng piyambakipun, “Dadosa,” lajeng piyambakipun dados.
+**3:59** Upami Isa ing paningalipun Gusti Allah punika kados Adam: Panjenenganipun nitahaken piyambakipun saking lebu, lajeng ngendika dhateng piyambakipun, "Dadosa," lajeng piyambakipun dados.
 
 إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ ۖ خَلَقَهُۥ مِن تُرَابٍۢ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ
 
@@ -1578,7 +1578,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُن مِّنَ ٱلْمُمْتَرِينَ
 
-**3:61** Lan menawi wonten tiyang ingkang mbantah panjenengan bab piyambakipun, sasampunipun kawruh ingkang sampun dhumateng panjenengan, matura, “Mangga, sumangga kawula sami nimbali anak-anak kawula lan anak-anak panjenengan, lan wanita-wanita kawula lan wanita-wanita panjenengan, lan dhiri kawula lan dhiri panjenengan, lan sumangga kawula sami nyuwun laknatipun Gusti Allah tumrap tiyang-tiyang ingkang goroh.”
+**3:61** Lan menawi wonten tiyang ingkang mbantah panjenengan bab piyambakipun, sasampunipun kawruh ingkang sampun dhumateng panjenengan, matura, "Mangga, sumangga kawula sami nimbali anak-anak kawula lan anak-anak panjenengan, lan wanita-wanita kawula lan wanita-wanita panjenengan, lan dhiri kawula lan dhiri panjenengan, lan sumangga kawula sami nyuwun laknatipun Gusti Allah tumrap tiyang-tiyang ingkang goroh."
 
 فَمَنْ حَآجَّكَ فِيهِ مِنۢ بَعْدِ مَا جَآءَكَ مِنَ ٱلْعِلْمِ فَقُلْ تَعَالَوْا۟ نَدْعُ أَبْنَآءَنَا وَأَبْنَآءَكُمْ وَنِسَآءَنَا وَنِسَآءَكُمْ وَأَنفُسَنَا وَأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَتَ ٱللَّهِ عَلَى ٱلْكَٰذِبِينَ
 
@@ -1590,7 +1590,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ عَلِيمٌۢ بِٱلْمُفْسِدِينَ
 
-**3:64** Matura, “Dhuh Ahli Kitab, mangga dhumateng tetembungan ingkang sami antawisipun kawula lan panjenengan: bilih kawula boten nyembah kajawi Gusti Allah, lan bilih kawula boten nyekuthukaken punapa-punapa kaliyan Panjenenganipun, lan bilih boten wonten satunggal kémawon saking kawula ingkang ndadosaken sanèsipun dados pangeran kajawi Gusti Allah.” Lan menawi piyambakipun sami mèngèr, matura, “Dadosa saksi bilih kawula sampun masrahaken dhiri.”
+**3:64** Matura, "Dhuh Ahli Kitab, mangga dhumateng tetembungan ingkang sami antawisipun kawula lan panjenengan: bilih kawula boten nyembah kajawi Gusti Allah, lan bilih kawula boten nyekuthukaken punapa-punapa kaliyan Panjenenganipun, lan bilih boten wonten satunggal kémawon saking kawula ingkang ndadosaken sanèsipun dados pangeran kajawi Gusti Allah." Lan menawi piyambakipun sami mèngèr, matura, "Dadosa saksi bilih kawula sampun masrahaken dhiri."
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍۢ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًۭٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًۭا مِّن دُونِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ
 
@@ -1622,11 +1622,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تَلْبِسُونَ ٱلْحَقَّ بِٱلْبَٰطِلِ وَتَكْتُمُونَ ٱلْحَقَّ وَأَنتُمْ تَعْلَمُونَ
 
-**3:72** Sapérangan saking Ahli Kitab sami matur, “Pitadosa dhateng punapa ingkang dipunnurunaken dhateng tiyang-tiyang ingkang pitados ing wiwitanipun dinten, lan tolaka ing wekasanipun, supados piyambakipun saged wangsul.”
+**3:72** Sapérangan saking Ahli Kitab sami matur, "Pitadosa dhateng punapa ingkang dipunnurunaken dhateng tiyang-tiyang ingkang pitados ing wiwitanipun dinten, lan tolaka ing wekasanipun, supados piyambakipun saged wangsul."
 
 وَقَالَت طَّآئِفَةٌۭ مِّنْ أَهْلِ ٱلْكِتَٰبِ ءَامِنُوا۟ بِٱلَّذِىٓ أُنزِلَ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَجْهَ ٱلنَّهَارِ وَٱكْفُرُوٓا۟ ءَاخِرَهُۥ لَعَلَّهُمْ يَرْجِعُونَ
 
-**3:73** Lan sampun ngantos pitados dhateng sinten kémawon kajawi tiyang-tiyang ingkang ngetut agama panjenengan.” Matura, “Pituduh punika pituduhipun Gusti Allah. Menawi wonten tiyang dipunparingi kados punapa ingkang dipunparingaken dhateng panjenengan, utawi piyambakipun sami mbantah panjenengan ing ngarsanipun Pangeran panjenengan, matura, “Sedaya kanugrahan wonten ing astanipun Gusti Allah; Panjenenganipun maringi punika dhateng sinten kémawon ingkang Panjenenganipun karsakaken.” Gusti Allah punika Jembar paringipun lan Mangertos.
+**3:73** Lan sampun ngantos pitados dhateng sinten kémawon kajawi tiyang-tiyang ingkang ngetut agama panjenengan." Matura, "Pituduh punika pituduhipun Gusti Allah. Menawi wonten tiyang dipunparingi kados punapa ingkang dipunparingaken dhateng panjenengan, utawi piyambakipun sami mbantah panjenengan ing ngarsanipun Pangeran panjenengan, matura, "Sedaya kanugrahan wonten ing astanipun Gusti Allah; Panjenenganipun maringi punika dhateng sinten kémawon ingkang Panjenenganipun karsakaken." Gusti Allah punika Jembar paringipun lan Mangertos.
 
 وَلَا تُؤْمِنُوٓا۟ إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ ٱلْهُدَىٰ هُدَى ٱللَّهِ أَن يُؤْتَىٰٓ أَحَدٌۭ مِّثْلَ مَآ أُوتِيتُمْ أَوْ يُحَآجُّوكُمْ عِندَ رَبِّكُمْ ۗ قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌۭ
 
@@ -1634,7 +1634,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ ۗ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
 
-**3:75** Ing antawisipun Ahli Kitab wonten tiyang, ingkang menawi panjenengan masrahaken tumpukan emas dhateng piyambakipun, piyambakipun badhe mbalèkaken punika dhateng panjenengan. Lan ing antawisipun wonten tiyang, ingkang menawi panjenengan masrahaken namung satunggal keping dhateng piyambakipun, piyambakipun boten badhe mbalèkaken punika dhateng panjenengan, kajawi panjenengan tansah ngetutaken piyambakipun. Punika amargi piyambakipun sami matur, “Kawula boten gadhah kuwajiban tumrap tiyang-tiyang sanès Yahudi.” Piyambakipun sami goroh bab Gusti Allah, lan piyambakipun mangertos punika.
+**3:75** Ing antawisipun Ahli Kitab wonten tiyang, ingkang menawi panjenengan masrahaken tumpukan emas dhateng piyambakipun, piyambakipun badhe mbalèkaken punika dhateng panjenengan. Lan ing antawisipun wonten tiyang, ingkang menawi panjenengan masrahaken namung satunggal keping dhateng piyambakipun, piyambakipun boten badhe mbalèkaken punika dhateng panjenengan, kajawi panjenengan tansah ngetutaken piyambakipun. Punika amargi piyambakipun sami matur, "Kawula boten gadhah kuwajiban tumrap tiyang-tiyang sanès Yahudi." Piyambakipun sami goroh bab Gusti Allah, lan piyambakipun mangertos punika.
 
 ۞ وَمِنْ أَهْلِ ٱلْكِتَٰبِ مَنْ إِن تَأْمَنْهُ بِقِنطَارٍۢ يُؤَدِّهِۦٓ إِلَيْكَ وَمِنْهُم مَّنْ إِن تَأْمَنْهُ بِدِينَارٍۢ لَّا يُؤَدِّهِۦٓ إِلَيْكَ إِلَّا مَا دُمْتَ عَلَيْهِ قَآئِمًۭا ۗ ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَيْسَ عَلَيْنَا فِى ٱلْأُمِّيِّۦنَ سَبِيلٌۭ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ
 
@@ -1646,11 +1646,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَٰنِهِمْ ثَمَنًۭا قَلِيلًا أُو۟لَٰٓئِكَ لَا خَلَٰقَ لَهُمْ فِى ٱلْءَاخِرَةِ وَلَا يُكَلِّمُهُمُ ٱللَّهُ وَلَا يَنظُرُ إِلَيْهِمْ يَوْمَ ٱلْقِيَٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌۭ
 
-**3:78** Lan ing antawisipun wonten tiyang-tiyang ingkang mlintir Kitab kanthi ilatipun, supados panjenengan nginten punika saking Kitab, nalika punika sanès saking Kitab. Lan piyambakipun sami matur, “Punika saking Gusti Allah,” nalika punika sanès saking Gusti Allah. Piyambakipun sami goroh lan ngatasnamakaken dhateng Gusti Allah, kanthi mangertos.
+**3:78** Lan ing antawisipun wonten tiyang-tiyang ingkang mlintir Kitab kanthi ilatipun, supados panjenengan nginten punika saking Kitab, nalika punika sanès saking Kitab. Lan piyambakipun sami matur, "Punika saking Gusti Allah," nalika punika sanès saking Gusti Allah. Piyambakipun sami goroh lan ngatasnamakaken dhateng Gusti Allah, kanthi mangertos.
 
 وَإِنَّ مِنْهُمْ لَفَرِيقًۭا يَلْوُۥنَ أَلْسِنَتَهُم بِٱلْكِتَٰبِ لِتَحْسَبُوهُ مِنَ ٱلْكِتَٰبِ وَمَا هُوَ مِنَ ٱلْكِتَٰبِ وَيَقُولُونَ هُوَ مِنْ عِندِ ٱللَّهِ وَمَا هُوَ مِنْ عِندِ ٱللَّهِ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ
 
-**3:79** Boten wonten tiyang ingkang Gusti Allah sampun maringi Kitab, lan kawicaksanan, lan kanabian ingkang badhe matur dhumateng manungsa, “Dadosa panyembah kawula tinimbang panyembah Gusti Allah.” Nanging, “Dadosa tiyang-tiyangipun Pangeran, miturut Kitab ingkang panjenengan wulangaken, lan piwulang ingkang panjenengan sinau.”
+**3:79** Boten wonten tiyang ingkang Gusti Allah sampun maringi Kitab, lan kawicaksanan, lan kanabian ingkang badhe matur dhumateng manungsa, "Dadosa panyembah kawula tinimbang panyembah Gusti Allah." Nanging, "Dadosa tiyang-tiyangipun Pangeran, miturut Kitab ingkang panjenengan wulangaken, lan piwulang ingkang panjenengan sinau."
 
 مَا كَانَ لِبَشَرٍ أَن يُؤْتِيَهُ ٱللَّهُ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُوا۟ عِبَادًۭا لِّى مِن دُونِ ٱللَّهِ وَلَٰكِن كُونُوا۟ رَبَّٰنِيِّۦنَ بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَٰبَ وَبِمَا كُنتُمْ تَدْرُسُونَ
 
@@ -1658,7 +1658,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَلَا يَأْمُرَكُمْ أَن تَتَّخِذُوا۟ ٱلْمَلَٰٓئِكَةَ وَٱلنَّبِيِّۦنَ أَرْبَابًا ۗ أَيَأْمُرُكُم بِٱلْكُفْرِ بَعْدَ إِذْ أَنتُم مُّسْلِمُونَ
 
-**3:81** Gusti Allah nampi janjinipun para nabi, “Sakathahipun ingkang sampun Ingsun paringaken dhateng panjenengan saking kitab lan kawicaksanan; menawi satunggaling utusan dhumateng panjenengan mbeneraken punapa ingkang panjenengan gadhah, panjenengan kedah pitados dhateng piyambakipun, lan nyengkuyung piyambakipun.” Panjenenganipun ngendika, “Punapa panjenengan ngiyani janji Ingsun lan nampi punika?” Piyambakipun sami matur, “Kawula ngiyani.” Panjenenganipun ngendika, “Pramila dadosa saksi, lan Ingsun sesarengan panjenengan kalebet para saksi.”
+**3:81** Gusti Allah nampi janjinipun para nabi, "Sakathahipun ingkang sampun Ingsun paringaken dhateng panjenengan saking kitab lan kawicaksanan; menawi satunggaling utusan dhumateng panjenengan mbeneraken punapa ingkang panjenengan gadhah, panjenengan kedah pitados dhateng piyambakipun, lan nyengkuyung piyambakipun." Panjenenganipun ngendika, "Punapa panjenengan ngiyani janji Ingsun lan nampi punika?" Piyambakipun sami matur, "Kawula ngiyani." Panjenenganipun ngendika, "Pramila dadosa saksi, lan Ingsun sesarengan panjenengan kalebet para saksi."
 
 وَإِذْ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلنَّبِيِّۦنَ لَمَآ ءَاتَيْتُكُم مِّن كِتَٰبٍۢ وَحِكْمَةٍۢ ثُمَّ جَآءَكُمْ رَسُولٌۭ مُّصَدِّقٌۭ لِّمَا مَعَكُمْ لَتُؤْمِنُنَّ بِهِۦ وَلَتَنصُرُنَّهُۥ ۚ قَالَ ءَأَقْرَرْتُمْ وَأَخَذْتُمْ عَلَىٰ ذَٰلِكُمْ إِصْرِى ۖ قَالُوٓا۟ أَقْرَرْنَا ۚ قَالَ فَٱشْهَدُوا۟ وَأَنَا۠ مَعَكُم مِّنَ ٱلشَّٰهِدِينَ
 
@@ -1670,7 +1670,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 أَفَغَيْرَ دِينِ ٱللَّهِ يَبْغُونَ وَلَهُۥٓ أَسْلَمَ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَإِلَيْهِ يُرْجَعُونَ
 
-**3:84** Matura, “Kawula pitados dhateng Gusti Allah, lan dhateng punapa ingkang dipunnurunaken dhateng kawula; lan dhateng punapa ingkang dipunnurunaken dhateng Ibrahim, lan Ismail, lan Ishak, lan Yakub, lan para Patriark; lan dhateng punapa ingkang dipunparingaken dhateng Musa, lan Isa, lan para nabi saking Pangeranipun. Kawula boten mbédakaken satunggal kémawon saking piyambakipun, lan dhateng Panjenenganipun kawula masrahaken dhiri.”
+**3:84** Matura, "Kawula pitados dhateng Gusti Allah, lan dhateng punapa ingkang dipunnurunaken dhateng kawula; lan dhateng punapa ingkang dipunnurunaken dhateng Ibrahim, lan Ismail, lan Ishak, lan Yakub, lan para Patriark; lan dhateng punapa ingkang dipunparingaken dhateng Musa, lan Isa, lan para nabi saking Pangeranipun. Kawula boten mbédakaken satunggal kémawon saking piyambakipun, lan dhateng Panjenenganipun kawula masrahaken dhiri."
 
 قُلْ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ عَلَيْنَا وَمَآ أُنزِلَ عَلَىٰٓ إِبْرَٰهِيمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَٱلنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍۢ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ
 
@@ -1706,7 +1706,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 لَن تَنَالُوا۟ ٱلْبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَ ۚ وَمَا تُنفِقُوا۟ مِن شَىْءٍۢ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌۭ
 
-**3:93** Sedaya tetedhan halal kangge Anak-turun Israel, kajawi punapa ingkang Israel ngaramaken kangge dhirinipun piyambak sadèrèngipun Taurat dipunnurunaken. Matura, “Bektakna Taurat, lan waosa punika, menawi panjenengan leres.”
+**3:93** Sedaya tetedhan halal kangge Anak-turun Israel, kajawi punapa ingkang Israel ngaramaken kangge dhirinipun piyambak sadèrèngipun Taurat dipunnurunaken. Matura, "Bektakna Taurat, lan waosa punika, menawi panjenengan leres."
 
 ۞ كُلُّ ٱلطَّعَامِ كَانَ حِلًّۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ إِلَّا مَا حَرَّمَ إِسْرَٰٓءِيلُ عَلَىٰ نَفْسِهِۦ مِن قَبْلِ أَن تُنَزَّلَ ٱلتَّوْرَىٰةُ ۗ قُلْ فَأْتُوا۟ بِٱلتَّوْرَىٰةِ فَٱتْلُوهَآ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -1714,7 +1714,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 فَمَنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ مِنۢ بَعْدِ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
 
-**3:95** Matura, “Gusti Allah sampun ngendika kanthi leres, pramila turutana agama Ibrahim ingkang ngugemi setunggalipun Gusti; piyambakipun sanès tiyang musyrik.”
+**3:95** Matura, "Gusti Allah sampun ngendika kanthi leres, pramila turutana agama Ibrahim ingkang ngugemi setunggalipun Gusti; piyambakipun sanès tiyang musyrik."
 
 قُلْ صَدَقَ ٱللَّهُ ۗ فَٱتَّبِعُوا۟ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًۭا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
 
@@ -1726,11 +1726,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 فِيهِ ءَايَٰتٌۢ بَيِّنَٰتٌۭ مَّقَامُ إِبْرَٰهِيمَ ۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنًۭا ۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًۭا ۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ ٱلْعَٰلَمِينَ
 
-**3:98** Matura, “Dhuh Ahli Kitab, kénging punapa panjenengan nolak Wahyu-wahyunipun Gusti Allah, nalika Gusti Allah neksèni punapa ingkang panjenengan tindakaken?”
+**3:98** Matura, "Dhuh Ahli Kitab, kénging punapa panjenengan nolak Wahyu-wahyunipun Gusti Allah, nalika Gusti Allah neksèni punapa ingkang panjenengan tindakaken?"
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَٱللَّهُ شَهِيدٌ عَلَىٰ مَا تَعْمَلُونَ
 
-**3:99** Matura, “Dhuh Ahli Kitab, kénging punapa panjenengan ngalang-alangi tiyang-tiyang ingkang pitados saking marginipun Gusti Allah, kanthi ngupaya mbengkongaken margi punika, sinaosa panjenengan dados saksi? Gusti Allah boten lali tumrap punapa ingkang panjenengan tindakaken.”
+**3:99** Matura, "Dhuh Ahli Kitab, kénging punapa panjenengan ngalang-alangi tiyang-tiyang ingkang pitados saking marginipun Gusti Allah, kanthi ngupaya mbengkongaken margi punika, sinaosa panjenengan dados saksi? Gusti Allah boten lali tumrap punapa ingkang panjenengan tindakaken."
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ تَبْغُونَهَا عِوَجًۭا وَأَنتُمْ شُهَدَآءُ ۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ
 
@@ -1758,7 +1758,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَلَا تَكُونُوا۟ كَٱلَّذِينَ تَفَرَّقُوا۟ وَٱخْتَلَفُوا۟ مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْبَيِّنَٰتُ ۚ وَأُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ عَظِيمٌۭ
 
-**3:106** Ing Dinten nalika sawetara pasuryan badhe dados pethak, lan sawetara pasuryan badhe dados cemeng. Dene tiyang-tiyang ingkang pasuryanipun cemeng: “Punapa panjenengan boten pitados sasampunipun pitados panjenengan?” Pramila raosakna siksa amargi sampun boten pitados.
+**3:106** Ing Dinten nalika sawetara pasuryan badhe dados pethak, lan sawetara pasuryan badhe dados cemeng. Dene tiyang-tiyang ingkang pasuryanipun cemeng: "Punapa panjenengan boten pitados sasampunipun pitados panjenengan?" Pramila raosakna siksa amargi sampun boten pitados.
 
 يَوْمَ تَبْيَضُّ وُجُوهٌۭ وَتَسْوَدُّ وُجُوهٌۭ ۚ فَأَمَّا ٱلَّذِينَ ٱسْوَدَّتْ وُجُوهُهُمْ أَكَفَرْتُم بَعْدَ إِيمَٰنِكُمْ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
 
@@ -1810,7 +1810,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ بِطَانَةًۭ مِّن دُونِكُمْ لَا يَأْلُونَكُمْ خَبَالًۭا وَدُّوا۟ مَا عَنِتُّمْ قَدْ بَدَتِ ٱلْبَغْضَآءُ مِنْ أَفْوَٰهِهِمْ وَمَا تُخْفِى صُدُورُهُمْ أَكْبَرُ ۚ قَدْ بَيَّنَّا لَكُمُ ٱلْءَايَٰتِ ۖ إِن كُنتُمْ تَعْقِلُونَ
 
-**3:119** Mangké panjenengan wonten, panjenengan tresna dhateng piyambakipun, nanging piyambakipun boten tresna dhateng panjenengan, lan panjenengan pitados dhateng sedaya kitab. Lan nalika piyambakipun pinanggih panjenengan, piyambakipun sami matur, “Kawula pitados;” nanging nalika piyambakipun piyambakan, piyambakipun sami nggigit drijinipun kanthi nepsu dhateng panjenengan. Matura, “Pejaha ing nepsu panjenengan; Gusti Allah mangertos punapa ingkang wonten ing salebetipun manah.”
+**3:119** Mangké panjenengan wonten, panjenengan tresna dhateng piyambakipun, nanging piyambakipun boten tresna dhateng panjenengan, lan panjenengan pitados dhateng sedaya kitab. Lan nalika piyambakipun pinanggih panjenengan, piyambakipun sami matur, "Kawula pitados;" nanging nalika piyambakipun piyambakan, piyambakipun sami nggigit drijinipun kanthi nepsu dhateng panjenengan. Matura, "Pejaha ing nepsu panjenengan; Gusti Allah mangertos punapa ingkang wonten ing salebetipun manah."
 
 هَٰٓأَنتُمْ أُو۟لَآءِ تُحِبُّونَهُمْ وَلَا يُحِبُّونَكُمْ وَتُؤْمِنُونَ بِٱلْكِتَٰبِ كُلِّهِۦ وَإِذَا لَقُوكُمْ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ عَضُّوا۟ عَلَيْكُمُ ٱلْأَنَامِلَ مِنَ ٱلْغَيْظِ ۚ قُلْ مُوتُوا۟ بِغَيْظِكُمْ ۗ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
@@ -1830,7 +1830,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَلَقَدْ نَصَرَكُمُ ٱللَّهُ بِبَدْرٍۢ وَأَنتُمْ أَذِلَّةٌۭ ۖ فَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تَشْكُرُونَ
 
-**3:124** Nalika panjenengan matur dhateng tiyang-tiyang ingkang pitados, “Punapa boten cekap kangge panjenengan bilih Pangeran panjenengan sampun ngiyataken panjenengan kanthi tigang èwu malaekat, ingkang dipunnurunaken?”
+**3:124** Nalika panjenengan matur dhateng tiyang-tiyang ingkang pitados, "Punapa boten cekap kangge panjenengan bilih Pangeran panjenengan sampun ngiyataken panjenengan kanthi tigang èwu malaekat, ingkang dipunnurunaken?"
 
 إِذْ تَقُولُ لِلْمُؤْمِنِينَ أَلَن يَكْفِيَكُمْ أَن يُمِدَّكُمْ رَبُّكُم بِثَلَٰثَةِ ءَالَٰفٍۢ مِّنَ ٱلْمَلَٰٓئِكَةِ مُنزَلِينَ
 
@@ -1922,7 +1922,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَكَأَيِّن مِّن نَّبِىٍّۢ قَٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٌۭ فَمَا وَهَنُوا۟ لِمَآ أَصَابَهُمْ فِى سَبِيلِ ٱللَّهِ وَمَا ضَعُفُوا۟ وَمَا ٱسْتَكَانُوا۟ ۗ وَٱللَّهُ يُحِبُّ ٱلصَّٰبِرِينَ
 
-**3:147** Tembungipun namung, “Dhuh Pangeran kawula, ngapuntena kalepatan kawula, lan keluwihan kawula ing tindak kawula, lan kiyatakena tlapakan kawula, lan tulungana kawula nglawan tiyang-tiyang ingkang boten pitados.”
+**3:147** Tembungipun namung, "Dhuh Pangeran kawula, ngapuntena kalepatan kawula, lan keluwihan kawula ing tindak kawula, lan kiyatakena tlapakan kawula, lan tulungana kawula nglawan tiyang-tiyang ingkang boten pitados."
 
 وَمَا كَانَ قَوْلَهُمْ إِلَّآ أَن قَالُوا۟ رَبَّنَا ٱغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِىٓ أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
 
@@ -1950,7 +1950,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 ۞ إِذْ تُصْعِدُونَ وَلَا تَلْوُۥنَ عَلَىٰٓ أَحَدٍۢ وَٱلرَّسُولُ يَدْعُوكُمْ فِىٓ أُخْرَىٰكُمْ فَأَثَٰبَكُمْ غَمًّۢا بِغَمٍّۢ لِّكَيْلَا تَحْزَنُوا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا مَآ أَصَٰبَكُمْ ۗ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ
 
-**3:154** Lajeng sasampunipun kamunduran punika, Panjenenganipun nurunaken kaamanan dhateng panjenengan. Ngantuk ngalahaken sapérangan saking panjenengan, dene sanèsipun namung perduli dhateng dhirinipun piyambak, mikir bab Gusti Allah pikiran ingkang boten leres—pikiran kabodhoan—matur, “Punapa wonten prakawis ingkang gumantung dhateng kawula?” Matura, “Sedaya prakawis gumantung dhateng Gusti Allah.” Piyambakipun ngumpetaken ing salebetipun dhiri punapa ingkang piyambakipun boten lairaken dhateng panjenengan. Lan piyambakipun sami matur, “Menawi prakawis punika gumantung dhateng kawula, boten wonten satunggal kémawon saking kawula ingkang badhe dipunpatèni ing mriki.” Matura, “Sinaosa panjenengan tetep wonten ing griya panjenengan, tiyang-tiyang ingkang sampun ditemtokaken badhe dipunpatèni badhe lumampah dhateng panggènan pejahipun.” Makaten Gusti Allah nguji punapa ingkang wonten ing pikiran panjenengan, lan nucèkaken punapa ingkang wonten ing manah panjenengan. Gusti Allah mangertos punapa ingkang dipungadhahi manah.
+**3:154** Lajeng sasampunipun kamunduran punika, Panjenenganipun nurunaken kaamanan dhateng panjenengan. Ngantuk ngalahaken sapérangan saking panjenengan, dene sanèsipun namung perduli dhateng dhirinipun piyambak, mikir bab Gusti Allah pikiran ingkang boten leres—pikiran kabodhoan—matur, "Punapa wonten prakawis ingkang gumantung dhateng kawula?" Matura, "Sedaya prakawis gumantung dhateng Gusti Allah." Piyambakipun ngumpetaken ing salebetipun dhiri punapa ingkang piyambakipun boten lairaken dhateng panjenengan. Lan piyambakipun sami matur, "Menawi prakawis punika gumantung dhateng kawula, boten wonten satunggal kémawon saking kawula ingkang badhe dipunpatèni ing mriki." Matura, "Sinaosa panjenengan tetep wonten ing griya panjenengan, tiyang-tiyang ingkang sampun ditemtokaken badhe dipunpatèni badhe lumampah dhateng panggènan pejahipun." Makaten Gusti Allah nguji punapa ingkang wonten ing pikiran panjenengan, lan nucèkaken punapa ingkang wonten ing manah panjenengan. Gusti Allah mangertos punapa ingkang dipungadhahi manah.
 
 ثُمَّ أَنزَلَ عَلَيْكُم مِّنۢ بَعْدِ ٱلْغَمِّ أَمَنَةًۭ نُّعَاسًۭا يَغْشَىٰ طَآئِفَةًۭ مِّنكُمْ ۖ وَطَآئِفَةٌۭ قَدْ أَهَمَّتْهُمْ أَنفُسُهُمْ يَظُنُّونَ بِٱللَّهِ غَيْرَ ٱلْحَقِّ ظَنَّ ٱلْجَٰهِلِيَّةِ ۖ يَقُولُونَ هَل لَّنَا مِنَ ٱلْأَمْرِ مِن شَىْءٍۢ ۗ قُلْ إِنَّ ٱلْأَمْرَ كُلَّهُۥ لِلَّهِ ۗ يُخْفُونَ فِىٓ أَنفُسِهِم مَّا لَا يُبْدُونَ لَكَ ۖ يَقُولُونَ لَوْ كَانَ لَنَا مِنَ ٱلْأَمْرِ شَىْءٌۭ مَّا قُتِلْنَا هَٰهُنَا ۗ قُل لَّوْ كُنتُمْ فِى بُيُوتِكُمْ لَبَرَزَ ٱلَّذِينَ كُتِبَ عَلَيْهِمُ ٱلْقَتْلُ إِلَىٰ مَضَاجِعِهِمْ ۖ وَلِيَبْتَلِىَ ٱللَّهُ مَا فِى صُدُورِكُمْ وَلِيُمَحِّصَ مَا فِى قُلُوبِكُمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
@@ -1958,7 +1958,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 إِنَّ ٱلَّذِينَ تَوَلَّوْا۟ مِنكُمْ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ إِنَّمَا ٱسْتَزَلَّهُمُ ٱلشَّيْطَٰنُ بِبَعْضِ مَا كَسَبُوا۟ ۖ وَلَقَدْ عَفَا ٱللَّهُ عَنْهُمْ ۗ إِنَّ ٱللَّهَ غَفُورٌ حَلِيمٌۭ
 
-**3:156** Dhuh tiyang-tiyang ingkang pitados! Sampun ngantos panjenengan kados tiyang-tiyang ingkang boten pitados, lan matur bab sedhèrèkipun ingkang lumampah ing tanah, utawi tindak nyerang, “Menawi piyambakipun tetep sesarengan kawula, piyambakipun boten badhe pejah utawi dipunpatèni.” Supados Gusti Allah ndadosaken punika dados sebab getun ing manahipun. Gusti Allah maringi gesang lan ndadosaken pejah. Gusti Allah mirsani punapa ingkang panjenengan tindakaken.
+**3:156** Dhuh tiyang-tiyang ingkang pitados! Sampun ngantos panjenengan kados tiyang-tiyang ingkang boten pitados, lan matur bab sedhèrèkipun ingkang lumampah ing tanah, utawi tindak nyerang, "Menawi piyambakipun tetep sesarengan kawula, piyambakipun boten badhe pejah utawi dipunpatèni." Supados Gusti Allah ndadosaken punika dados sebab getun ing manahipun. Gusti Allah maringi gesang lan ndadosaken pejah. Gusti Allah mirsani punapa ingkang panjenengan tindakaken.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِينَ كَفَرُوا۟ وَقَالُوا۟ لِإِخْوَٰنِهِمْ إِذَا ضَرَبُوا۟ فِى ٱلْأَرْضِ أَوْ كَانُوا۟ غُزًّۭى لَّوْ كَانُوا۟ عِندَنَا مَا مَاتُوا۟ وَمَا قُتِلُوا۟ لِيَجْعَلَ ٱللَّهُ ذَٰلِكَ حَسْرَةًۭ فِى قُلُوبِهِمْ ۗ وَٱللَّهُ يُحْىِۦ وَيُمِيتُ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌۭ
 
@@ -1994,7 +1994,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 لَقَدْ مَنَّ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًۭا مِّنْ أَنفُسِهِمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَٰلٍۢ مُّبِينٍ
 
-**3:165** Lan nalika musibah ndhatengi panjenengan, sinaosa panjenengan sampun ndhatengaken kaping kalih lipatipun, panjenengan matur, “Kados pundi punika?” Matura, “Punika saking dhiri panjenengan piyambak.” Gusti Allah kuwaos nindakaken sedaya punapa kémawon.
+**3:165** Lan nalika musibah ndhatengi panjenengan, sinaosa panjenengan sampun ndhatengaken kaping kalih lipatipun, panjenengan matur, "Kados pundi punika?" Matura, "Punika saking dhiri panjenengan piyambak." Gusti Allah kuwaos nindakaken sedaya punapa kémawon.
 
 أَوَلَمَّآ أَصَٰبَتْكُم مُّصِيبَةٌۭ قَدْ أَصَبْتُم مِّثْلَيْهَا قُلْتُمْ أَنَّىٰ هَٰذَا ۖ قُلْ هُوَ مِنْ عِندِ أَنفُسِكُمْ ۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
@@ -2002,11 +2002,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَمَآ أَصَٰبَكُمْ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ فَبِإِذْنِ ٱللَّهِ وَلِيَعْلَمَ ٱلْمُؤْمِنِينَ
 
-**3:167** Lan supados Panjenenganipun mangertos tiyang-tiyang munafik. Lan dipunmaturaken dhateng piyambakipun, “Mangga, perang ing margi Gusti Allah, utawi nyumbang.” Piyambakipun sami matur, “Menawi kawula mangertos caranipun perang, kawula badhe ngetutaken panjenengan.” Ing dinten punika piyambakipun langkung celak dhateng boten pitados tinimbang dhateng pitados. Piyambakipun matur kanthi cangkemipun punapa ingkang boten wonten ing manahipun; nanging Gusti Allah mangertos punapa ingkang piyambakipun umpetaken.
+**3:167** Lan supados Panjenenganipun mangertos tiyang-tiyang munafik. Lan dipunmaturaken dhateng piyambakipun, "Mangga, perang ing margi Gusti Allah, utawi nyumbang." Piyambakipun sami matur, "Menawi kawula mangertos caranipun perang, kawula badhe ngetutaken panjenengan." Ing dinten punika piyambakipun langkung celak dhateng boten pitados tinimbang dhateng pitados. Piyambakipun matur kanthi cangkemipun punapa ingkang boten wonten ing manahipun; nanging Gusti Allah mangertos punapa ingkang piyambakipun umpetaken.
 
 وَلِيَعْلَمَ ٱلَّذِينَ نَافَقُوا۟ ۚ وَقِيلَ لَهُمْ تَعَالَوْا۟ قَٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَوِ ٱدْفَعُوا۟ ۖ قَالُوا۟ لَوْ نَعْلَمُ قِتَالًۭا لَّٱتَّبَعْنَٰكُمْ ۗ هُمْ لِلْكُفْرِ يَوْمَئِذٍ أَقْرَبُ مِنْهُمْ لِلْإِيمَٰنِ ۚ يَقُولُونَ بِأَفْوَٰهِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ ۗ وَٱللَّهُ أَعْلَمُ بِمَا يَكْتُمُونَ
 
-**3:168** Tiyang-tiyang ingkang matur bab sedhèrèkipun, nalika piyambakipun tetep kèndel ing wingking, “Menawi piyambakipun manut dhateng kawula, piyambakipun boten badhe dipunpatèni.” Matura, “Pramila cegahana pejah saking dhiri panjenengan, menawi panjenengan leres.”
+**3:168** Tiyang-tiyang ingkang matur bab sedhèrèkipun, nalika piyambakipun tetep kèndel ing wingking, "Menawi piyambakipun manut dhateng kawula, piyambakipun boten badhe dipunpatèni." Matura, "Pramila cegahana pejah saking dhiri panjenengan, menawi panjenengan leres."
 
 ٱلَّذِينَ قَالُوا۟ لِإِخْوَٰنِهِمْ وَقَعَدُوا۟ لَوْ أَطَاعُونَا مَا قُتِلُوا۟ ۗ قُلْ فَٱدْرَءُوا۟ عَنْ أَنفُسِكُمُ ٱلْمَوْتَ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -2026,7 +2026,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعْدِ مَآ أَصَابَهُمُ ٱلْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ
 
-**3:173** Tiyang-tiyang ingkang manungsa matur dhateng piyambakipun, “Manungsa sampun ngempal nglawan panjenengan, pramila ajriha dhateng piyambakipun.” Nanging punika namung nambah pitadosipun, lan piyambakipun sami matur, “Gusti Allah cekap kangge kawula; Panjenenganipun punika Pangreksa ingkang saé piyambak.”
+**3:173** Tiyang-tiyang ingkang manungsa matur dhateng piyambakipun, "Manungsa sampun ngempal nglawan panjenengan, pramila ajriha dhateng piyambakipun." Nanging punika namung nambah pitadosipun, lan piyambakipun sami matur, "Gusti Allah cekap kangge kawula; Panjenenganipun punika Pangreksa ingkang saé piyambak."
 
 ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدْ جَمَعُوا۟ لَكُمْ فَٱخْشَوْهُمْ فَزَادَهُمْ إِيمَٰنًۭا وَقَالُوا۟ حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ
 
@@ -2058,15 +2058,15 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَلَا يَحْسَبَنَّ ٱلَّذِينَ يَبْخَلُونَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ هُوَ خَيْرًۭا لَّهُم ۖ بَلْ هُوَ شَرٌّۭ لَّهُمْ ۖ سَيُطَوَّقُونَ مَا بَخِلُوا۟ بِهِۦ يَوْمَ ٱلْقِيَٰمَةِ ۗ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ
 
-**3:181** Gusti Allah sampun midhanget pangucapipun tiyang-tiyang ingkang matur, “Gusti Allah punika miskin, lan kawula sugih.” Ingsun badhe nyerat punapa ingkang piyambakipun maturaken, lan panganiaya patènipun dhateng para nabi kanthi boten leres; lan Ingsun badhe ngendika, “Raosakna siksa kobongan.”
+**3:181** Gusti Allah sampun midhanget pangucapipun tiyang-tiyang ingkang matur, "Gusti Allah punika miskin, lan kawula sugih." Ingsun badhe nyerat punapa ingkang piyambakipun maturaken, lan panganiaya patènipun dhateng para nabi kanthi boten leres; lan Ingsun badhe ngendika, "Raosakna siksa kobongan."
 
 لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌۭ وَنَحْنُ أَغْنِيَآءُ ۘ سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّۢ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
 
-**3:182** “Punika amargi punapa ingkang tangan panjenengan sampun majengaken, lan amargi Gusti Allah boten aniaya dhateng makhluk.”
+**3:182** "Punika amargi punapa ingkang tangan panjenengan sampun majengaken, lan amargi Gusti Allah boten aniaya dhateng makhluk."
 
 ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّامٍۢ لِّلْعَبِيدِ
 
-**3:183** Tiyang-tiyang ingkang matur, “Gusti Allah sampun damel janji kaliyan kawula, bilih kawula boten badhe pitados dhateng utusan kémawon kajawi piyambakipun mbekta kurban ingkang badhe dipuntedha geni.” Matura, “Para utusan sampun dhumateng panjenengan sadèrèngipun kawula kanthi bukti-bukti, lan kanthi punapa ingkang panjenengan suwun; pramila kénging punapa panjenengan matèni piyambakipun, menawi panjenengan leres?”
+**3:183** Tiyang-tiyang ingkang matur, "Gusti Allah sampun damel janji kaliyan kawula, bilih kawula boten badhe pitados dhateng utusan kémawon kajawi piyambakipun mbekta kurban ingkang badhe dipuntedha geni." Matura, "Para utusan sampun dhumateng panjenengan sadèrèngipun kawula kanthi bukti-bukti, lan kanthi punapa ingkang panjenengan suwun; pramila kénging punapa panjenengan matèni piyambakipun, menawi panjenengan leres?"
 
 ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا بِقُرْبَانٍۢ تَأْكُلُهُ ٱلنَّارُ ۗ قُلْ قَدْ جَآءَكُمْ رُسُلٌۭ مِّن قَبْلِى بِٱلْبَيِّنَٰتِ وَبِٱلَّذِى قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -2082,7 +2082,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 ۞ لَتُبْلَوُنَّ فِىٓ أَمْوَٰلِكُمْ وَأَنفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ وَمِنَ ٱلَّذِينَ أَشْرَكُوٓا۟ أَذًۭى كَثِيرًۭا ۚ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ
 
-**3:187** Gusti Allah nampi janji saking tiyang-tiyang ingkang sampun dipunparingi Kitab: “Panjenengan kedah ngumumaken punika dhateng manungsa, lan sampun ngantos ngumpetaken punika.” Nanging piyambakipun nglengosaken punika ing wingkingipun, lan ngijoli punika kanthi regi ingkang alit. Awon sanget ijol ingkang piyambakipun damel.
+**3:187** Gusti Allah nampi janji saking tiyang-tiyang ingkang sampun dipunparingi Kitab: "Panjenengan kedah ngumumaken punika dhateng manungsa, lan sampun ngantos ngumpetaken punika." Nanging piyambakipun nglengosaken punika ing wingkingipun, lan ngijoli punika kanthi regi ingkang alit. Awon sanget ijol ingkang piyambakipun damel.
 
 وَإِذْ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًۭا قَلِيلًۭا ۖ فَبِئْسَ مَا يَشْتَرُونَ
 
@@ -2098,23 +2098,23 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَءَايَٰتٍۢ لِّأُو۟لِى ٱلْأَلْبَٰبِ
 
-**3:191** Tiyang-tiyang ingkang émut dhateng Gusti Allah nalika jumeneng, lan lenggah, lan ing sisihanipun; lan piyambakipun mikir bab tumitahipun langit-langit lan bumi: “Dhuh Pangeran kawula, Panjenengan boten nitahaken punika kanthi muspra, kamulyan kagem Panjenengan, pramila reksakna kawula saking siksa Geni.”
+**3:191** Tiyang-tiyang ingkang émut dhateng Gusti Allah nalika jumeneng, lan lenggah, lan ing sisihanipun; lan piyambakipun mikir bab tumitahipun langit-langit lan bumi: "Dhuh Pangeran kawula, Panjenengan boten nitahaken punika kanthi muspra, kamulyan kagem Panjenengan, pramila reksakna kawula saking siksa Geni."
 
 ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَٰمًۭا وَقُعُودًۭا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَٰطِلًۭا سُبْحَٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ
 
-**3:192** “Dhuh Pangeran kawula, sinten kémawon ingkang Panjenengan lebetaken dhateng Geni, Panjenengan sampun ngasoraken piyambakipun. Tiyang-tiyang ingkang damel awon boten badhe gadhah panulung.”
+**3:192** "Dhuh Pangeran kawula, sinten kémawon ingkang Panjenengan lebetaken dhateng Geni, Panjenengan sampun ngasoraken piyambakipun. Tiyang-tiyang ingkang damel awon boten badhe gadhah panulung."
 
 رَبَّنَآ إِنَّكَ مَن تُدْخِلِ ٱلنَّارَ فَقَدْ أَخْزَيْتَهُۥ ۖ وَمَا لِلظَّٰلِمِينَ مِنْ أَنصَارٍۢ
 
-**3:193** “Dhuh Pangeran kawula, kawula sampun midhanget satunggaling panimbali ingkang nimbali dhateng pitados: ‘Pitadosa dhateng Pangeran panjenengan,’ lan kawula sampun pitados. Dhuh Pangeran kawula! Ngapuntena dosa-dosa kawula, lan ngapuntena kalepatan kawula, lan damela kawula pejah sesarengan kaliyan tiyang-tiyang ingkang saé.”
+**3:193** "Dhuh Pangeran kawula, kawula sampun midhanget satunggaling panimbali ingkang nimbali dhateng pitados: 'Pitadosa dhateng Pangeran panjenengan,' lan kawula sampun pitados. Dhuh Pangeran kawula! Ngapuntena dosa-dosa kawula, lan ngapuntena kalepatan kawula, lan damela kawula pejah sesarengan kaliyan tiyang-tiyang ingkang saé."
 
 رَّبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًۭا يُنَادِى لِلْإِيمَٰنِ أَنْ ءَامِنُوا۟ بِرَبِّكُمْ فَـَٔامَنَّا ۚ رَبَّنَا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلْأَبْرَارِ
 
-**3:194** “Dhuh Pangeran kawula, lan paringana dhateng kawula punapa ingkang Panjenengan janjèkaken dhateng kawula lumantar para utusan Panjenengan, lan sampun ngantos ngasoraken kawula ing Dinten Kiamat. Saèstu Panjenengan boten nate nyidrani janji.”
+**3:194** "Dhuh Pangeran kawula, lan paringana dhateng kawula punapa ingkang Panjenengan janjèkaken dhateng kawula lumantar para utusan Panjenengan, lan sampun ngantos ngasoraken kawula ing Dinten Kiamat. Saèstu Panjenengan boten nate nyidrani janji."
 
 رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ ٱلْقِيَٰمَةِ ۗ إِنَّكَ لَا تُخْلِفُ ٱلْمِيعَادَ
 
-**3:195** Lan pramila Pangeranipun njawab piyambakipun: “Ingsun boten badhe nyia-nyiakaken pakaryanipun satunggal kémawon ingkang nyambut damel ing antawisipun panjenengan, jaler utawi wadon. Panjenengan satunggal saking sanèsipun. Kangge tiyang-tiyang ingkang pindhah, lan dipunbucal saking griyanipun, lan dipunaniaya amargi Ingsun, lan perang lan dipunpatèni—Ingsun badhe ngapunten dosa-dosanipun, lan badhe nglebetaken piyambakipun dhateng taman-taman ingkang ing sangandhapipun kali-kali sami mili—ganjaran saking Gusti Allah. Ing ngarsanipun Gusti Allah wonten ganjaran ingkang pungkasan.”
+**3:195** Lan pramila Pangeranipun njawab piyambakipun: "Ingsun boten badhe nyia-nyiakaken pakaryanipun satunggal kémawon ingkang nyambut damel ing antawisipun panjenengan, jaler utawi wadon. Panjenengan satunggal saking sanèsipun. Kangge tiyang-tiyang ingkang pindhah, lan dipunbucal saking griyanipun, lan dipunaniaya amargi Ingsun, lan perang lan dipunpatèni—Ingsun badhe ngapunten dosa-dosanipun, lan badhe nglebetaken piyambakipun dhateng taman-taman ingkang ing sangandhapipun kali-kali sami mili—ganjaran saking Gusti Allah. Ing ngarsanipun Gusti Allah wonten ganjaran ingkang pungkasan."
 
 فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّى لَآ أُضِيعُ عَمَلَ عَٰمِلٍۢ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ بَعْضُكُم مِّنۢ بَعْضٍۢ ۖ فَٱلَّذِينَ هَاجَرُوا۟ وَأُخْرِجُوا۟ مِن دِيَٰرِهِمْ وَأُوذُوا۟ فِى سَبِيلِى وَقَٰتَلُوا۟ وَقُتِلُوا۟ لَأُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ثَوَابًۭا مِّنْ عِندِ ٱللَّهِ ۗ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلثَّوَابِ
 
@@ -2218,7 +2218,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 إِنَّمَا ٱلتَّوْبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعْمَلُونَ ٱلسُّوٓءَ بِجَهَٰلَةٍۢ ثُمَّ يَتُوبُونَ مِن قَرِيبٍۢ فَأُو۟لَٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيْهِمْ ۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًۭا
 
-**4:18** Nanging tobat boten cumawis kangge tiyang-tiyang ingkang nindakaken awon-awon, ngantos nalika pejah nyelaki satunggal saking piyambakipun, piyambakipun matur, “Samenika kawula tobat,” lan boten kangge tiyang-tiyang ingkang pejah minangka tiyang ingkang boten pitados. Piyambakipun punika—Ingsun sampun nyawisaken siksa ingkang nglarani kangge piyambakipun.
+**4:18** Nanging tobat boten cumawis kangge tiyang-tiyang ingkang nindakaken awon-awon, ngantos nalika pejah nyelaki satunggal saking piyambakipun, piyambakipun matur, "Samenika kawula tobat," lan boten kangge tiyang-tiyang ingkang pejah minangka tiyang ingkang boten pitados. Piyambakipun punika—Ingsun sampun nyawisaken siksa ingkang nglarani kangge piyambakipun.
 
 وَلَيْسَتِ ٱلتَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ حَتَّىٰٓ إِذَا حَضَرَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ إِنِّى تُبْتُ ٱلْـَٰٔنَ وَلَا ٱلَّذِينَ يَمُوتُونَ وَهُمْ كُفَّارٌ ۚ أُو۟لَٰٓئِكَ أَعْتَدْنَا لَهُمْ عَذَابًا أَلِيمًۭا
 
@@ -2330,7 +2330,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَٱللَّهُ أَعْلَمُ بِأَعْدَآئِكُمْ ۚ وَكَفَىٰ بِٱللَّهِ وَلِيًّۭا وَكَفَىٰ بِٱللَّهِ نَصِيرًۭا
 
-**4:46** Ing antawisipun tiyang Yahudi wonten ingkang mendhet tembung-tembung medal saking konteksipun, lan matur, “Kawula midhanget lan kawula mbangkang”, lan “Midhangeta tanpa mirengaken”, lan “Gatèkna kawula,” mlintir kanthi ilatipun lan nyela agama. Menawi piyambakipun matur, “Kawula midhanget lan kawula manut”, lan “Mirengaken”, lan “Paringana kawigatosan Panjenengan dhateng kawula,” punika badhe langkung saé kangge piyambakipun, lan langkung leres. Nanging Gusti Allah sampun nglaknat piyambakipun amargi boten pitadosipun; piyambakipun boten pitados kajawi sekedhik.
+**4:46** Ing antawisipun tiyang Yahudi wonten ingkang mendhet tembung-tembung medal saking konteksipun, lan matur, "Kawula midhanget lan kawula mbangkang", lan "Midhangeta tanpa mirengaken", lan "Gatèkna kawula," mlintir kanthi ilatipun lan nyela agama. Menawi piyambakipun matur, "Kawula midhanget lan kawula manut", lan "Mirengaken", lan "Paringana kawigatosan Panjenengan dhateng kawula," punika badhe langkung saé kangge piyambakipun, lan langkung leres. Nanging Gusti Allah sampun nglaknat piyambakipun amargi boten pitadosipun; piyambakipun boten pitados kajawi sekedhik.
 
 مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ مُسْمَعٍۢ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًۭا فِى ٱلدِّينِ ۚ وَلَوْ أَنَّهُمْ قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًۭا لَّهُمْ وَأَقْوَمَ وَلَٰكِن لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًۭا
 
@@ -2350,7 +2350,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 ٱنظُرْ كَيْفَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ ۖ وَكَفَىٰ بِهِۦٓ إِثْمًۭا مُّبِينًا
 
-**4:51** Punapa panjenengan boten nimbang tiyang-tiyang ingkang sampun dipunparingi sapérangan saking Kitab? Piyambakipun pitados dhateng tahayul lan kakuwatan awon, lan matur bab tiyang-tiyang ingkang boten pitados, “Piyambakipun punika langkung pikantuk pituduh ing margi tinimbang tiyang-tiyang ingkang pitados.”
+**4:51** Punapa panjenengan boten nimbang tiyang-tiyang ingkang sampun dipunparingi sapérangan saking Kitab? Piyambakipun pitados dhateng tahayul lan kakuwatan awon, lan matur bab tiyang-tiyang ingkang boten pitados, "Piyambakipun punika langkung pikantuk pituduh ing margi tinimbang tiyang-tiyang ingkang pitados."
 
 أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًۭا مِّنَ ٱلْكِتَٰبِ يُؤْمِنُونَ بِٱلْجِبْتِ وَٱلطَّٰغُوتِ وَيَقُولُونَ لِلَّذِينَ كَفَرُوا۟ هَٰٓؤُلَآءِ أَهْدَىٰ مِنَ ٱلَّذِينَ ءَامَنُوا۟ سَبِيلًا
 
@@ -2390,11 +2390,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 أَلَمْ تَرَ إِلَى ٱلَّذِينَ يَزْعُمُونَ أَنَّهُمْ ءَامَنُوا۟ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ يُرِيدُونَ أَن يَتَحَاكَمُوٓا۟ إِلَى ٱلطَّٰغُوتِ وَقَدْ أُمِرُوٓا۟ أَن يَكْفُرُوا۟ بِهِۦ وَيُرِيدُ ٱلشَّيْطَٰنُ أَن يُضِلَّهُمْ ضَلَٰلًۢا بَعِيدًۭا
 
-**4:61** Lan nalika dipunmaturaken dhateng piyambakipun, “Mangga dhateng punapa ingkang Gusti Allah sampun nurunaken, lan dhateng Rasul,” panjenengan mirsani tiyang-tiyang munafik sami nyingkiri panjenengan babar pisan.
+**4:61** Lan nalika dipunmaturaken dhateng piyambakipun, "Mangga dhateng punapa ingkang Gusti Allah sampun nurunaken, lan dhateng Rasul," panjenengan mirsani tiyang-tiyang munafik sami nyingkiri panjenengan babar pisan.
 
 وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ رَأَيْتَ ٱلْمُنَٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودًۭا
 
-**4:62** Lajeng kados pundi nalika musibah ndhatengi piyambakipun amargi punapa ingkang tanganipun sampun majengaken, lan lajeng piyambakipun dhumateng panjenengan kanthi sumpah demi Gusti Allah: “Kawula namung ngarsakaken kabecikan lan rukun”?
+**4:62** Lajeng kados pundi nalika musibah ndhatengi piyambakipun amargi punapa ingkang tanganipun sampun majengaken, lan lajeng piyambakipun dhumateng panjenengan kanthi sumpah demi Gusti Allah: "Kawula namung ngarsakaken kabecikan lan rukun"?
 
 فَكَيْفَ إِذَآ أَصَٰبَتْهُم مُّصِيبَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ ثُمَّ جَآءُوكَ يَحْلِفُونَ بِٱللَّهِ إِنْ أَرَدْنَآ إِلَّآ إِحْسَٰنًۭا وَتَوْفِيقًا
 
@@ -2410,7 +2410,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا۟ فِىٓ أَنفُسِهِمْ حَرَجًۭا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا۟ تَسْلِيمًۭا
 
-**4:66** Menawi Ingsun sampun nemtokaken kangge piyambakipun: “Patènana dhiri panjenengan piyambak,” utawi “Medala saking griya panjenengan,” piyambakipun boten badhe nindakaken punika, kajawi sekedhik saking piyambakipun. Nanging menawi piyambakipun nindakaken punapa ingkang dipundhawuhaken dhateng piyambakipun, punika badhe langkung saé kangge piyambakipun, lan langkung kiyat minangka pangiyat.
+**4:66** Menawi Ingsun sampun nemtokaken kangge piyambakipun: "Patènana dhiri panjenengan piyambak," utawi "Medala saking griya panjenengan," piyambakipun boten badhe nindakaken punika, kajawi sekedhik saking piyambakipun. Nanging menawi piyambakipun nindakaken punapa ingkang dipundhawuhaken dhateng piyambakipun, punika badhe langkung saé kangge piyambakipun, lan langkung kiyat minangka pangiyat.
 
 وَلَوْ أَنَّا كَتَبْنَا عَلَيْهِمْ أَنِ ٱقْتُلُوٓا۟ أَنفُسَكُمْ أَوِ ٱخْرُجُوا۟ مِن دِيَٰرِكُم مَّا فَعَلُوهُ إِلَّا قَلِيلٌۭ مِّنْهُمْ ۖ وَلَوْ أَنَّهُمْ فَعَلُوا۟ مَا يُوعَظُونَ بِهِۦ لَكَانَ خَيْرًۭا لَّهُمْ وَأَشَدَّ تَثْبِيتًۭا
 
@@ -2434,11 +2434,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ خُذُوا۟ حِذْرَكُمْ فَٱنفِرُوا۟ ثُبَاتٍ أَوِ ٱنفِرُوا۟ جَمِيعًۭا
 
-**4:72** Ing antawisipun panjenengan wonten tiyang ingkang ketinggalan ing wingking. Lajeng, nalika musibah ndhatengi panjenengan, piyambakipun matur, “Gusti Allah sampun maringi kanugrahan dhateng kawula, bilih kawula boten dados syahid sesarengan piyambakipun.”
+**4:72** Ing antawisipun panjenengan wonten tiyang ingkang ketinggalan ing wingking. Lajeng, nalika musibah ndhatengi panjenengan, piyambakipun matur, "Gusti Allah sampun maringi kanugrahan dhateng kawula, bilih kawula boten dados syahid sesarengan piyambakipun."
 
 وَإِنَّ مِنكُمْ لَمَن لَّيُبَطِّئَنَّ فَإِنْ أَصَٰبَتْكُم مُّصِيبَةٌۭ قَالَ قَدْ أَنْعَمَ ٱللَّهُ عَلَىَّ إِذْ لَمْ أَكُن مَّعَهُمْ شَهِيدًۭا
 
-**4:73** Nanging nalika sapérangan karunia saking Gusti Allah ndhatengi panjenengan, piyambakipun matur—kados-kados boten wonten katresnan antawisipun panjenengan lan piyambakipun—“Saupami kawula sesarengan piyambakipun, kawula badhe nggayuh kamenangan ingkang ageng.”
+**4:73** Nanging nalika sapérangan karunia saking Gusti Allah ndhatengi panjenengan, piyambakipun matur—kados-kados boten wonten katresnan antawisipun panjenengan lan piyambakipun—"Saupami kawula sesarengan piyambakipun, kawula badhe nggayuh kamenangan ingkang ageng."
 
 وَلَئِنْ أَصَٰبَكُمْ فَضْلٌۭ مِّنَ ٱللَّهِ لَيَقُولَنَّ كَأَن لَّمْ تَكُنۢ بَيْنَكُمْ وَبَيْنَهُۥ مَوَدَّةٌۭ يَٰلَيْتَنِى كُنتُ مَعَهُمْ فَأَفُوزَ فَوْزًا عَظِيمًۭا
 
@@ -2446,7 +2446,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 ۞ فَلْيُقَٰتِلْ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يَشْرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْءَاخِرَةِ ۚ وَمَن يُقَٰتِلْ فِى سَبِيلِ ٱللَّهِ فَيُقْتَلْ أَوْ يَغْلِبْ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًۭا
 
-**4:75** Lan kénging punapa panjenengan boten badhe perang ing margi Gusti Allah, lan tiyang-tiyang jaler ingkang tanpa daya, lan para wanita, lan anak-anak, sami nguwuh, “Dhuh Pangeran kawula, uwalanana kawula saking kitha punika ingkang tiyang-tiyangipun aniaya, lan ngangkata kangge kawula saking ngarsanipun Panjenengan satunggaling Pangreksa, lan ngangkata kangge kawula saking ngarsanipun Panjenengan satunggaling Pamenang.”
+**4:75** Lan kénging punapa panjenengan boten badhe perang ing margi Gusti Allah, lan tiyang-tiyang jaler ingkang tanpa daya, lan para wanita, lan anak-anak, sami nguwuh, "Dhuh Pangeran kawula, uwalanana kawula saking kitha punika ingkang tiyang-tiyangipun aniaya, lan ngangkata kangge kawula saking ngarsanipun Panjenengan satunggaling Pangreksa, lan ngangkata kangge kawula saking ngarsanipun Panjenengan satunggaling Pamenang."
 
 وَمَا لَكُمْ لَا تُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلْوِلْدَٰنِ ٱلَّذِينَ يَقُولُونَ رَبَّنَآ أَخْرِجْنَا مِنْ هَٰذِهِ ٱلْقَرْيَةِ ٱلظَّالِمِ أَهْلُهَا وَٱجْعَل لَّنَا مِن لَّدُنكَ وَلِيًّۭا وَٱجْعَل لَّنَا مِن لَّدُنكَ نَصِيرًا
 
@@ -2454,11 +2454,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 ٱلَّذِينَ ءَامَنُوا۟ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ ۖ وَٱلَّذِينَ كَفَرُوا۟ يُقَٰتِلُونَ فِى سَبِيلِ ٱلطَّٰغُوتِ فَقَٰتِلُوٓا۟ أَوْلِيَآءَ ٱلشَّيْطَٰنِ ۖ إِنَّ كَيْدَ ٱلشَّيْطَٰنِ كَانَ ضَعِيفًا
 
-**4:77** Punapa panjenengan boten nimbang tiyang-tiyang ingkang dipunmaturaken, “Nahanana tangan panjenengan, lan tindakna sembahyang panjenengan, lan blanjakna ing sedekah ingkang ajeg”? Nanging nalika perang dipunwajibaken kangge piyambakipun, satunggaling golongan saking piyambakipun ajrih dhateng manungsa kados Gusti Allah kedah dipunajrihi, utawi malah langkung. Lan piyambakipun sami matur, “Dhuh Pangeran kawula, kénging punapa Panjenengan ngwajibaken perang kangge kawula? Saupami Panjenengan nundha punika kangge kawula sakedhap kémawon.” Matura, “Kanikmatan gesang punika sekedhap, nanging Akhirat langkung saé kangge tiyang-tiyang ingkang saleh, lan panjenengan boten badhe dipunaniaya sakedhik kémawon.”
+**4:77** Punapa panjenengan boten nimbang tiyang-tiyang ingkang dipunmaturaken, "Nahanana tangan panjenengan, lan tindakna sembahyang panjenengan, lan blanjakna ing sedekah ingkang ajeg"? Nanging nalika perang dipunwajibaken kangge piyambakipun, satunggaling golongan saking piyambakipun ajrih dhateng manungsa kados Gusti Allah kedah dipunajrihi, utawi malah langkung. Lan piyambakipun sami matur, "Dhuh Pangeran kawula, kénging punapa Panjenengan ngwajibaken perang kangge kawula? Saupami Panjenengan nundha punika kangge kawula sakedhap kémawon." Matura, "Kanikmatan gesang punika sekedhap, nanging Akhirat langkung saé kangge tiyang-tiyang ingkang saleh, lan panjenengan boten badhe dipunaniaya sakedhik kémawon."
 
 أَلَمْ تَرَ إِلَى ٱلَّذِينَ قِيلَ لَهُمْ كُفُّوٓا۟ أَيْدِيَكُمْ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ إِذَا فَرِيقٌۭ مِّنْهُمْ يَخْشَوْنَ ٱلنَّاسَ كَخَشْيَةِ ٱللَّهِ أَوْ أَشَدَّ خَشْيَةًۭ ۚ وَقَالُوا۟ رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا ٱلْقِتَالَ لَوْلَآ أَخَّرْتَنَآ إِلَىٰٓ أَجَلٍۢ قَرِيبٍۢ ۗ قُلْ مَتَٰعُ ٱلدُّنْيَا قَلِيلٌۭ وَٱلْءَاخِرَةُ خَيْرٌۭ لِّمَنِ ٱتَّقَىٰ وَلَا تُظْلَمُونَ فَتِيلًا
 
-**4:78** Ing pundi kémawon panjenengan wonten, pejah badhe nyusul panjenengan, sinaosa panjenengan wonten ing menara ingkang dipunkukuhaken. Nalika kabegjan ndhatengi piyambakipun, piyambakipun sami matur, “Punika saking Gusti Allah.” Nanging nalika musibah ndhatengi piyambakipun, piyambakipun sami matur, “Punika saking panjenengan.” Matura, “Sedaya saking Gusti Allah.” Pramila punapa prakawisipun tiyang-tiyang punika, bilih piyambakipun mèh boten mangertos punapa-punapa?
+**4:78** Ing pundi kémawon panjenengan wonten, pejah badhe nyusul panjenengan, sinaosa panjenengan wonten ing menara ingkang dipunkukuhaken. Nalika kabegjan ndhatengi piyambakipun, piyambakipun sami matur, "Punika saking Gusti Allah." Nanging nalika musibah ndhatengi piyambakipun, piyambakipun sami matur, "Punika saking panjenengan." Matura, "Sedaya saking Gusti Allah." Pramila punapa prakawisipun tiyang-tiyang punika, bilih piyambakipun mèh boten mangertos punapa-punapa?
 
 أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍۢ مُّشَيَّدَةٍۢ ۗ وَإِن تُصِبْهُمْ حَسَنَةٌۭ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِ ٱللَّهِ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۭ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِكَ ۚ قُلْ كُلٌّۭ مِّنْ عِندِ ٱللَّهِ ۖ فَمَالِ هَٰٓؤُلَآءِ ٱلْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَدِيثًۭا
 
@@ -2522,7 +2522,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَمَن يَقْتُلْ مُؤْمِنًۭا مُّتَعَمِّدًۭا فَجَزَآؤُهُۥ جَهَنَّمُ خَٰلِدًۭا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمًۭا
 
-**4:94** Dhuh tiyang-tiyang ingkang pitados! Nalika panjenengan lelampahan ing margi Gusti Allah, priksakna, lan sampun ngantos matur dhateng tiyang ingkang nawakaken katentreman dhateng panjenengan, “Panjenengan sanès tiyang pitados,” kanthi ngarepaken barang-barang donya punika. Ing ngarsanipun Gusti Allah wonten bandha ingkang kathah. Panjenengan piyambak rumiyin kados makaten, lan Gusti Allah maringi kanugrahan dhateng panjenengan; pramila priksakna. Gusti Allah sampun pirsa sanget tumrap punapa ingkang panjenengan tindakaken.
+**4:94** Dhuh tiyang-tiyang ingkang pitados! Nalika panjenengan lelampahan ing margi Gusti Allah, priksakna, lan sampun ngantos matur dhateng tiyang ingkang nawakaken katentreman dhateng panjenengan, "Panjenengan sanès tiyang pitados," kanthi ngarepaken barang-barang donya punika. Ing ngarsanipun Gusti Allah wonten bandha ingkang kathah. Panjenengan piyambak rumiyin kados makaten, lan Gusti Allah maringi kanugrahan dhateng panjenengan; pramila priksakna. Gusti Allah sampun pirsa sanget tumrap punapa ingkang panjenengan tindakaken.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا ضَرَبْتُمْ فِى سَبِيلِ ٱللَّهِ فَتَبَيَّنُوا۟ وَلَا تَقُولُوا۟ لِمَنْ أَلْقَىٰٓ إِلَيْكُمُ ٱلسَّلَٰمَ لَسْتَ مُؤْمِنًۭا تَبْتَغُونَ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا فَعِندَ ٱللَّهِ مَغَانِمُ كَثِيرَةٌۭ ۚ كَذَٰلِكَ كُنتُم مِّن قَبْلُ فَمَنَّ ٱللَّهُ عَلَيْكُمْ فَتَبَيَّنُوٓا۟ ۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًۭا
 
@@ -2534,7 +2534,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 دَرَجَٰتٍۢ مِّنْهُ وَمَغْفِرَةًۭ وَرَحْمَةًۭ ۚ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًا
 
-**4:97** Nalika para malaekat mendhet nyawanipun tiyang-tiyang ingkang sampun nganiaya dhirinipun, piyambakipun badhe matur, “Punapa prakawisipun panjenengan?” Piyambakipun badhe matur, “Kawula dipunaniaya ing tanah.” Piyambakipun badhe matur, “Punapa bumi Gusti Allah boten wiyar cekap kangge panjenengan pindhah ing salebetipun?” Piyambakipun punika—papan pangungsènipun Neraka. Awon sanget panggènan mundur punika!
+**4:97** Nalika para malaekat mendhet nyawanipun tiyang-tiyang ingkang sampun nganiaya dhirinipun, piyambakipun badhe matur, "Punapa prakawisipun panjenengan?" Piyambakipun badhe matur, "Kawula dipunaniaya ing tanah." Piyambakipun badhe matur, "Punapa bumi Gusti Allah boten wiyar cekap kangge panjenengan pindhah ing salebetipun?" Piyambakipun punika—papan pangungsènipun Neraka. Awon sanget panggènan mundur punika!
 
 إِنَّ ٱلَّذِينَ تَوَفَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ ظَالِمِىٓ أَنفُسِهِمْ قَالُوا۟ فِيمَ كُنتُمْ ۖ قَالُوا۟ كُنَّا مُسْتَضْعَفِينَ فِى ٱلْأَرْضِ ۚ قَالُوٓا۟ أَلَمْ تَكُنْ أَرْضُ ٱللَّهِ وَٰسِعَةًۭ فَتُهَاجِرُوا۟ فِيهَا ۚ فَأُو۟لَٰٓئِكَ مَأْوَىٰهُمْ جَهَنَّمُ ۖ وَسَآءَتْ مَصِيرًا
 
@@ -2618,11 +2618,11 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 إِن يَدْعُونَ مِن دُونِهِۦٓ إِلَّآ إِنَٰثًۭا وَإِن يَدْعُونَ إِلَّا شَيْطَٰنًۭا مَّرِيدًۭا
 
-**4:118** Gusti Allah sampun nglaknat piyambakipun. Lan piyambakipun matur, “Kawula badhe mendhet kangge dhiri kawula pérangan ingkang sampun ditemtokaken saking para kawula Panjenengan.”
+**4:118** Gusti Allah sampun nglaknat piyambakipun. Lan piyambakipun matur, "Kawula badhe mendhet kangge dhiri kawula pérangan ingkang sampun ditemtokaken saking para kawula Panjenengan."
 
 لَّعَنَهُ ٱللَّهُ ۘ وَقَالَ لَأَتَّخِذَنَّ مِنْ عِبَادِكَ نَصِيبًۭا مَّفْرُوضًۭا
 
-**4:119** “Lan kawula badhe nasaraken piyambakipun, lan kawula badhe mbujuk piyambakipun, lan kawula badhe ndhawuhi piyambakipun supados ngiris kupingipun raja-kaya, lan kawula badhe ndhawuhi piyambakipun supados ngowahi tumitahipun Gusti Allah.” Sinten kémawon ingkang ndadosaken Setan dados pangeran, minangka gantosipun Gusti Allah, saèstu sampun nandhang karugian ingkang lebet.
+**4:119** "Lan kawula badhe nasaraken piyambakipun, lan kawula badhe mbujuk piyambakipun, lan kawula badhe ndhawuhi piyambakipun supados ngiris kupingipun raja-kaya, lan kawula badhe ndhawuhi piyambakipun supados ngowahi tumitahipun Gusti Allah." Sinten kémawon ingkang ndadosaken Setan dados pangeran, minangka gantosipun Gusti Allah, saèstu sampun nandhang karugian ingkang lebet.
 
 وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَءَامُرَنَّهُمْ فَلَيُبَتِّكُنَّ ءَاذَانَ ٱلْأَنْعَٰمِ وَلَءَامُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ ٱللَّهِ ۚ وَمَن يَتَّخِذِ ٱلشَّيْطَٰنَ وَلِيًّۭا مِّن دُونِ ٱللَّهِ فَقَدْ خَسِرَ خُسْرَانًۭا مُّبِينًۭا
 
@@ -2654,7 +2654,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَلِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍۢ مُّحِيطًۭا
 
-**4:127** Piyambakipun nyuwun kaputusan dhateng panjenengan bab para wanita. Matura, “Gusti Allah maringi kaputusan dhateng panjenengan bab piyambakipun, lan makaten ugi punapa ingkang dipunmaturaken dhateng panjenengan ing Kitab bab wanita-wanita randha ingkang panjenengan nahan punapa ingkang sampun ditemtokaken kangge piyambakipun saking piyambakipun, nanging panjenengan kepéngin nikahi piyambakipun, lan bab anak-anak ingkang tanpa daya: bilih panjenengan kedah tindak adil tumrap anak-anak yatim.” Punapa kémawon saé ingkang panjenengan tindakaken, Gusti Allah mangertos punika.
+**4:127** Piyambakipun nyuwun kaputusan dhateng panjenengan bab para wanita. Matura, "Gusti Allah maringi kaputusan dhateng panjenengan bab piyambakipun, lan makaten ugi punapa ingkang dipunmaturaken dhateng panjenengan ing Kitab bab wanita-wanita randha ingkang panjenengan nahan punapa ingkang sampun ditemtokaken kangge piyambakipun saking piyambakipun, nanging panjenengan kepéngin nikahi piyambakipun, lan bab anak-anak ingkang tanpa daya: bilih panjenengan kedah tindak adil tumrap anak-anak yatim." Punapa kémawon saé ingkang panjenengan tindakaken, Gusti Allah mangertos punika.
 
 وَيَسْتَفْتُونَكَ فِى ٱلنِّسَآءِ ۖ قُلِ ٱللَّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ فِى ٱلْكِتَٰبِ فِى يَتَٰمَى ٱلنِّسَآءِ ٱلَّٰتِى لَا تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ أَن تَنكِحُوهُنَّ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلْوِلْدَٰنِ وَأَن تَقُومُوا۟ لِلْيَتَٰمَىٰ بِٱلْقِسْطِ ۚ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍۢ فَإِنَّ ٱللَّهَ كَانَ بِهِۦ عَلِيمًۭا
 
@@ -2710,7 +2710,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَقَدْ نَزَّلَ عَلَيْكُمْ فِى ٱلْكِتَٰبِ أَنْ إِذَا سَمِعْتُمْ ءَايَٰتِ ٱللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا۟ مَعَهُمْ حَتَّىٰ يَخُوضُوا۟ فِى حَدِيثٍ غَيْرِهِۦٓ ۚ إِنَّكُمْ إِذًۭا مِّثْلُهُمْ ۗ إِنَّ ٱللَّهَ جَامِعُ ٱلْمُنَٰفِقِينَ وَٱلْكَٰفِرِينَ فِى جَهَنَّمَ جَمِيعًا
 
-**4:141** Tiyang-tiyang ingkang nengga panjenengan: menawi panjenengan nggayuh kamenangan saking Gusti Allah, piyambakipun sami matur, “Punapa kawula boten sesarengan panjenengan?” Nanging menawi tiyang-tiyang ingkang boten pitados pikantuk giliran, piyambakipun sami matur, “Punapa kawula boten nyengkuyung panjenengan, lan mbélani panjenengan saking tiyang-tiyang ingkang pitados?” Gusti Allah badhe mrentah antawisipun panjenengan ing Dinten Kiamat; lan Gusti Allah boten badhe maringi tiyang-tiyang ingkang boten pitados margi punapa-punapa kanggé ngalahaken tiyang-tiyang ingkang pitados.
+**4:141** Tiyang-tiyang ingkang nengga panjenengan: menawi panjenengan nggayuh kamenangan saking Gusti Allah, piyambakipun sami matur, "Punapa kawula boten sesarengan panjenengan?" Nanging menawi tiyang-tiyang ingkang boten pitados pikantuk giliran, piyambakipun sami matur, "Punapa kawula boten nyengkuyung panjenengan, lan mbélani panjenengan saking tiyang-tiyang ingkang pitados?" Gusti Allah badhe mrentah antawisipun panjenengan ing Dinten Kiamat; lan Gusti Allah boten badhe maringi tiyang-tiyang ingkang boten pitados margi punapa-punapa kanggé ngalahaken tiyang-tiyang ingkang pitados.
 
 ٱلَّذِينَ يَتَرَبَّصُونَ بِكُمْ فَإِن كَانَ لَكُمْ فَتْحٌۭ مِّنَ ٱللَّهِ قَالُوٓا۟ أَلَمْ نَكُن مَّعَكُمْ وَإِن كَانَ لِلْكَٰفِرِينَ نَصِيبٌۭ قَالُوٓا۟ أَلَمْ نَسْتَحْوِذْ عَلَيْكُمْ وَنَمْنَعْكُم مِّنَ ٱلْمُؤْمِنِينَ ۚ فَٱللَّهُ يَحْكُمُ بَيْنَكُمْ يَوْمَ ٱلْقِيَٰمَةِ ۗ وَلَن يَجْعَلَ ٱللَّهُ لِلْكَٰفِرِينَ عَلَى ٱلْمُؤْمِنِينَ سَبِيلًا
 
@@ -2746,7 +2746,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 إِن تُبْدُوا۟ خَيْرًا أَوْ تُخْفُوهُ أَوْ تَعْفُوا۟ عَن سُوٓءٍۢ فَإِنَّ ٱللَّهَ كَانَ عَفُوًّۭا قَدِيرًا
 
-**4:150** Tiyang-tiyang ingkang boten pitados dhateng Gusti Allah lan para utusanipun Panjenenganipun, lan kepéngin misah antawisipun Gusti Allah lan para utusanipun Panjenenganipun, lan matur, “Kawula pitados dhateng sapérangan, lan nolak sapérangan,” lan kepéngin mendhet margi ing antawisipun.
+**4:150** Tiyang-tiyang ingkang boten pitados dhateng Gusti Allah lan para utusanipun Panjenenganipun, lan kepéngin misah antawisipun Gusti Allah lan para utusanipun Panjenenganipun, lan matur, "Kawula pitados dhateng sapérangan, lan nolak sapérangan," lan kepéngin mendhet margi ing antawisipun.
 
 إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِٱللَّهِ وَرُسُلِهِۦ وَيُرِيدُونَ أَن يُفَرِّقُوا۟ بَيْنَ ٱللَّهِ وَرُسُلِهِۦ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍۢ وَنَكْفُرُ بِبَعْضٍۢ وَيُرِيدُونَ أَن يَتَّخِذُوا۟ بَيْنَ ذَٰلِكَ سَبِيلًا
 
@@ -2758,15 +2758,15 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَلَمْ يُفَرِّقُوا۟ بَيْنَ أَحَدٍۢ مِّنْهُمْ أُو۟لَٰٓئِكَ سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا
 
-**4:153** Ahli Kitab nantang panjenengan supados nurunaken satunggaling kitab saking langit dhateng piyambakipun. Piyambakipun sampun nyuwun dhateng Musa prakawis ingkang malah langkung ageng. Piyambakipun sami matur, “Tedahna Gusti Allah dhateng kawula kanthi cetha.” Guntur nyamber piyambakipun amargi awonipun. Lajeng piyambakipun mendhet pedhet kanggé dipunsembah, sinaosa bukti-bukti ingkang cetha sampun dhumateng piyambakipun. Nanging Ingsun ngapunten punika, lan Ingsun maringi Musa panguwasa ingkang cetha.
+**4:153** Ahli Kitab nantang panjenengan supados nurunaken satunggaling kitab saking langit dhateng piyambakipun. Piyambakipun sampun nyuwun dhateng Musa prakawis ingkang malah langkung ageng. Piyambakipun sami matur, "Tedahna Gusti Allah dhateng kawula kanthi cetha." Guntur nyamber piyambakipun amargi awonipun. Lajeng piyambakipun mendhet pedhet kanggé dipunsembah, sinaosa bukti-bukti ingkang cetha sampun dhumateng piyambakipun. Nanging Ingsun ngapunten punika, lan Ingsun maringi Musa panguwasa ingkang cetha.
 
 يَسْـَٔلُكَ أَهْلُ ٱلْكِتَٰبِ أَن تُنَزِّلَ عَلَيْهِمْ كِتَٰبًۭا مِّنَ ٱلسَّمَآءِ ۚ فَقَدْ سَأَلُوا۟ مُوسَىٰٓ أَكْبَرَ مِن ذَٰلِكَ فَقَالُوٓا۟ أَرِنَا ٱللَّهَ جَهْرَةًۭ فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ بِظُلْمِهِمْ ۚ ثُمَّ ٱتَّخَذُوا۟ ٱلْعِجْلَ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ فَعَفَوْنَا عَن ذَٰلِكَ ۚ وَءَاتَيْنَا مُوسَىٰ سُلْطَٰنًۭا مُّبِينًۭا
 
-**4:154** Lan Ingsun ngangkat Gunung ing sanginggilipun piyambakipun miturut janjinipun, lan Ingsun ngendika dhateng piyambakipun, “Lumebeta gapura kanthi andhap asor”, lan Ingsun ngendika dhateng piyambakipun, “Sampun ngantos panjenengan nglanggar Sabat”, lan Ingsun nampi janji ingkang trang saking piyambakipun.
+**4:154** Lan Ingsun ngangkat Gunung ing sanginggilipun piyambakipun miturut janjinipun, lan Ingsun ngendika dhateng piyambakipun, "Lumebeta gapura kanthi andhap asor", lan Ingsun ngendika dhateng piyambakipun, "Sampun ngantos panjenengan nglanggar Sabat", lan Ingsun nampi janji ingkang trang saking piyambakipun.
 
 وَرَفَعْنَا فَوْقَهُمُ ٱلطُّورَ بِمِيثَٰقِهِمْ وَقُلْنَا لَهُمُ ٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًۭا وَقُلْنَا لَهُمْ لَا تَعْدُوا۟ فِى ٱلسَّبْتِ وَأَخَذْنَا مِنْهُم مِّيثَٰقًا غَلِيظًۭا
 
-**4:155** Nanging amargi piyambakipun nglanggar janjinipun, lan piyambakipun nolak wahyu-wahyunipun Gusti Allah, lan piyambakipun matèni para nabi kanthi boten leres, lan pangucapipun, “Pikiran kawula katutup.” Saèstu, Gusti Allah sampun nutup piyambakipun amargi boten pitadosipun, pramila piyambakipun boten pitados, kajawi sekedhik.
+**4:155** Nanging amargi piyambakipun nglanggar janjinipun, lan piyambakipun nolak wahyu-wahyunipun Gusti Allah, lan piyambakipun matèni para nabi kanthi boten leres, lan pangucapipun, "Pikiran kawula katutup." Saèstu, Gusti Allah sampun nutup piyambakipun amargi boten pitadosipun, pramila piyambakipun boten pitados, kajawi sekedhik.
 
 فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ وَكُفْرِهِم بِـَٔايَٰتِ ٱللَّهِ وَقَتْلِهِمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّۢ وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌۢ ۚ بَلْ طَبَعَ ٱللَّهُ عَلَيْهَا بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًۭا
 
@@ -2774,7 +2774,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلَىٰ مَرْيَمَ بُهْتَٰنًا عَظِيمًۭا
 
-**4:157** Lan amargi pangucapipun, “Kawula sampun matèni Almasih, Isa, putranipun Maryam, Rasulipun Gusti Allah.” Saèstu, piyambakipun boten matèni piyambakipun, lan piyambakipun boten nyalib piyambakipun, nanging katingal tumrap piyambakipun kados-kados piyambakipun nindakaken. Saèstu, tiyang-tiyang ingkang bédha bab piyambakipun wonten ing mangu-mangu bab punika. Piyambakipun boten gadhah kawruh bab punika, kajawi ngetutaken panginten. Saèstu, piyambakipun boten matèni piyambakipun.
+**4:157** Lan amargi pangucapipun, "Kawula sampun matèni Almasih, Isa, putranipun Maryam, Rasulipun Gusti Allah." Saèstu, piyambakipun boten matèni piyambakipun, lan piyambakipun boten nyalib piyambakipun, nanging katingal tumrap piyambakipun kados-kados piyambakipun nindakaken. Saèstu, tiyang-tiyang ingkang bédha bab piyambakipun wonten ing mangu-mangu bab punika. Piyambakipun boten gadhah kawruh bab punika, kajawi ngetutaken panginten. Saèstu, piyambakipun boten matèni piyambakipun.
 
 وَقَوْلِهِمْ إِنَّا قَتَلْنَا ٱلْمَسِيحَ عِيسَى ٱبْنَ مَرْيَمَ رَسُولَ ٱللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِن شُبِّهَ لَهُمْ ۚ وَإِنَّ ٱلَّذِينَ ٱخْتَلَفُوا۟ فِيهِ لَفِى شَكٍّۢ مِّنْهُ ۚ مَا لَهُم بِهِۦ مِنْ عِلْمٍ إِلَّا ٱتِّبَاعَ ٱلظَّنِّ ۚ وَمَا قَتَلُوهُ يَقِينًۢا
 
@@ -2830,7 +2830,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُمُ ٱلرَّسُولُ بِٱلْحَقِّ مِن رَّبِّكُمْ فَـَٔامِنُوا۟ خَيْرًۭا لَّكُمْ ۚ وَإِن تَكْفُرُوا۟ فَإِنَّ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًۭا
 
-**4:171** Dhuh Ahli Kitab! Sampun ngantos panjenengan keluwihan ing agama panjenengan, lan sampun ngantos matur bab Gusti Allah kajawi kaleresan. Almasih, Isa, putranipun Maryam, punika Rasulipun Gusti Allah, lan Pangandika Panjenenganipun ingkang Panjenenganipun lantaraken dhateng Maryam, lan satunggaling Roh saking Panjenenganipun. Pramila pitadosa dhateng Gusti Allah lan para utusanipun Panjenenganipun, lan sampun ngantos matur, “Tiga.” Ngindhana—punika langkung saé kangge panjenengan. Gusti Allah namung setunggal Gusti Allah. Kamulyan kagem Panjenenganipun—bilih Panjenenganipun badhe gadhah putra. Dhateng Panjenenganipun kagungan sedaya ingkang wonten ing langit-langit lan ing bumi, lan Gusti Allah punika Pangreksa ingkang cekap.
+**4:171** Dhuh Ahli Kitab! Sampun ngantos panjenengan keluwihan ing agama panjenengan, lan sampun ngantos matur bab Gusti Allah kajawi kaleresan. Almasih, Isa, putranipun Maryam, punika Rasulipun Gusti Allah, lan Pangandika Panjenenganipun ingkang Panjenenganipun lantaraken dhateng Maryam, lan satunggaling Roh saking Panjenenganipun. Pramila pitadosa dhateng Gusti Allah lan para utusanipun Panjenenganipun, lan sampun ngantos matur, "Tiga." Ngindhana—punika langkung saé kangge panjenengan. Gusti Allah namung setunggal Gusti Allah. Kamulyan kagem Panjenenganipun—bilih Panjenenganipun badhe gadhah putra. Dhateng Panjenenganipun kagungan sedaya ingkang wonten ing langit-langit lan ing bumi, lan Gusti Allah punika Pangreksa ingkang cekap.
 
 يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ وَلَا تَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ ۚ إِنَّمَا ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ رَسُولُ ٱللَّهِ وَكَلِمَتُهُۥٓ أَلْقَىٰهَآ إِلَىٰ مَرْيَمَ وَرُوحٌۭ مِّنْهُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۖ وَلَا تَقُولُوا۟ ثَلَٰثَةٌ ۚ ٱنتَهُوا۟ خَيْرًۭا لَّكُمْ ۚ إِنَّمَا ٱللَّهُ إِلَٰهٌۭ وَٰحِدٌۭ ۖ سُبْحَٰنَهُۥٓ أَن يَكُونَ لَهُۥ وَلَدٌۭ ۘ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَكَفَىٰ بِٱللَّهِ وَكِيلًۭا
 
@@ -2850,7 +2850,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَٱعْتَصَمُوا۟ بِهِۦ فَسَيُدْخِلُهُمْ فِى رَحْمَةٍۢ مِّنْهُ وَفَضْلٍۢ وَيَهْدِيهِمْ إِلَيْهِ صِرَٰطًۭا مُّسْتَقِيمًۭا
 
-**4:176** Piyambakipun nyuwun kaputusan dhateng panjenengan. Matura, “Gusti Allah maringi kaputusan dhateng panjenengan bab tiyang ingkang boten gadhah tiyang sepuh lan boten gadhah anak.” Menawi satunggaling tiyang jaler pejah, lan boten ninggal anak, lan piyambakipun gadhah sedhèrèk wadon, piyambakipun nampi setengah saking punapa ingkang piyambakipun tinggalaken. Lan piyambakipun marisi saking piyambakipun menawi piyambakipun boten ninggal anak. Nanging menawi wonten kalih sedhèrèk wadon, piyambakipun nampi kalih pertiga saking punapa ingkang piyambakipun tinggalaken. Menawi sedhèrèk-sedhèrèk punika jaler lan wadon, tiyang jaler nampi péranganipun kalih wanita.” Gusti Allah njlentrehaken prakawis dhateng panjenengan, supados panjenengan boten sesat. Gusti Allah sampun pirsa tumrap sedaya punapa kémawon.
+**4:176** Piyambakipun nyuwun kaputusan dhateng panjenengan. Matura, "Gusti Allah maringi kaputusan dhateng panjenengan bab tiyang ingkang boten gadhah tiyang sepuh lan boten gadhah anak." Menawi satunggaling tiyang jaler pejah, lan boten ninggal anak, lan piyambakipun gadhah sedhèrèk wadon, piyambakipun nampi setengah saking punapa ingkang piyambakipun tinggalaken. Lan piyambakipun marisi saking piyambakipun menawi piyambakipun boten ninggal anak. Nanging menawi wonten kalih sedhèrèk wadon, piyambakipun nampi kalih pertiga saking punapa ingkang piyambakipun tinggalaken. Menawi sedhèrèk-sedhèrèk punika jaler lan wadon, tiyang jaler nampi péranganipun kalih wanita." Gusti Allah njlentrehaken prakawis dhateng panjenengan, supados panjenengan boten sesat. Gusti Allah sampun pirsa tumrap sedaya punapa kémawon.
 
 يَسْتَفْتُونَكَ قُلِ ٱللَّهُ يُفْتِيكُمْ فِى ٱلْكَلَٰلَةِ ۚ إِنِ ٱمْرُؤٌا۟ هَلَكَ لَيْسَ لَهُۥ وَلَدٌۭ وَلَهُۥٓ أُخْتٌۭ فَلَهَا نِصْفُ مَا تَرَكَ ۚ وَهُوَ يَرِثُهَآ إِن لَّمْ يَكُن لَّهَا وَلَدٌۭ ۚ فَإِن كَانَتَا ٱثْنَتَيْنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَ ۚ وَإِن كَانُوٓا۟ إِخْوَةًۭ رِّجَالًۭا وَنِسَآءًۭ فَلِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ ۗ يُبَيِّنُ ٱللَّهُ لَكُمْ أَن تَضِلُّوا۟ ۗ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ
 
@@ -2878,7 +2878,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًۭا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍۢ لِّإِثْمٍۢ ۙ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ
 
-**5:4** Piyambakipun tanglet dhumateng panjenengan punapa ingkang dipunidinaken kanggé piyambakipun. Ngendikakna, “Dipunidinaken kanggé panjenengan sedaya barang ingkang saé, kalebet punapa ingkang dipuntangkep asu lan manuk alap-alap ingkang sampun dipunlatih kanggé panjenengan.” Panjenengan nglatih piyambakipun miturut punapa ingkang Gusti Allah sampun mucalaken dhumateng panjenengan. Pramila dhaharna saking punapa ingkang piyambakipun tangkep kanggé panjenengan, lan sebatna asmanipun Gusti Allah ing nginggilipun. Lan ajriha dhumateng Gusti Allah. Gusti Allah punika Rikat ing etangan.
+**5:4** Piyambakipun tanglet dhumateng panjenengan punapa ingkang dipunidinaken kanggé piyambakipun. Ngendikakna, "Dipunidinaken kanggé panjenengan sedaya barang ingkang saé, kalebet punapa ingkang dipuntangkep asu lan manuk alap-alap ingkang sampun dipunlatih kanggé panjenengan." Panjenengan nglatih piyambakipun miturut punapa ingkang Gusti Allah sampun mucalaken dhumateng panjenengan. Pramila dhaharna saking punapa ingkang piyambakipun tangkep kanggé panjenengan, lan sebatna asmanipun Gusti Allah ing nginggilipun. Lan ajriha dhumateng Gusti Allah. Gusti Allah punika Rikat ing etangan.
 
 يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ ۖ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ ۙ وَمَا عَلَّمْتُم مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ ۖ فَكُلُوا۟ مِمَّآ أَمْسَكْنَ عَلَيْكُمْ وَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهِ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
 
@@ -2894,7 +2894,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ ۚ وَإِن كُنتُمْ جُنُبًۭا فَٱطَّهَّرُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌۭ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءًۭ فَتَيَمَّمُوا۟ صَعِيدًۭا طَيِّبًۭا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ ۚ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍۢ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ
 
-**5:7** Lan engeta kanugrahanipun Gusti Allah dhumateng panjenengan, lan prasetyanipun ingkang Panjenenganipun sampun damel kaliyan panjenengan; nalika panjenengan ngendika, “Kula sami mireng lan kula sami manut.” Lan tetepa eling dhumateng Gusti Allah, amargi Gusti Allah pirsa punapa ingkang wonten ing manah.
+**5:7** Lan engeta kanugrahanipun Gusti Allah dhumateng panjenengan, lan prasetyanipun ingkang Panjenenganipun sampun damel kaliyan panjenengan; nalika panjenengan ngendika, "Kula sami mireng lan kula sami manut." Lan tetepa eling dhumateng Gusti Allah, amargi Gusti Allah pirsa punapa ingkang wonten ing manah.
 
 وَٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ وَمِيثَٰقَهُ ٱلَّذِى وَاثَقَكُم بِهِۦٓ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
@@ -2914,7 +2914,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ هَمَّ قَوْمٌ أَن يَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ فَكَفَّ أَيْدِيَهُمْ عَنكُمْ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
 
-**5:12** Gusti Allah nampèni prasetya saking Bani Israil, lan Kula ngangkat ing antawisipun kalih welas pangarsa. Gusti Allah ngendika, “Kula sesarengan kaliyan panjenengan; menawi panjenengan nindakaken salat, lan mbayar zakat, lan pitados dhumateng utusan-utusan Kula lan nyengkuyung piyambakipun, lan ngampilaken dhumateng Gusti Allah ampilan kabecikan; Kula badhé ngapunten dosa-dosa panjenengan, lan nglebetaken panjenengan dhateng Taman-taman ingkang ing ngandhapipun kali-kali mili. Ananging sinten kemawon ing antawis panjenengan ingkang kafir sasampunipun punika sampun nyimpang saking margi ingkang leres.”
+**5:12** Gusti Allah nampèni prasetya saking Bani Israil, lan Kula ngangkat ing antawisipun kalih welas pangarsa. Gusti Allah ngendika, "Kula sesarengan kaliyan panjenengan; menawi panjenengan nindakaken salat, lan mbayar zakat, lan pitados dhumateng utusan-utusan Kula lan nyengkuyung piyambakipun, lan ngampilaken dhumateng Gusti Allah ampilan kabecikan; Kula badhé ngapunten dosa-dosa panjenengan, lan nglebetaken panjenengan dhateng Taman-taman ingkang ing ngandhapipun kali-kali mili. Ananging sinten kemawon ing antawis panjenengan ingkang kafir sasampunipun punika sampun nyimpang saking margi ingkang leres."
 
 ۞ وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ نَقِيبًۭا ۖ وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ ۖ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًۭا لَّأُكَفِّرَنَّ عَنكُمْ سَيِّـَٔاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۚ فَمَن كَفَرَ بَعْدَ ذَٰلِكَ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
 
@@ -2922,7 +2922,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةًۭ ۖ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ ۙ وَنَسُوا۟ حَظًّۭا مِّمَّا ذُكِّرُوا۟ بِهِۦ ۚ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍۢ مِّنْهُمْ إِلَّا قَلِيلًۭا مِّنْهُمْ ۖ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ
 
-**5:14** Lan saking tiyang-tiyang ingkang ngendika, “Kula punika Kristen,” Kula nampèni prasetyanipun, ananging piyambakipun nglirwakaken saperangan saking punapa ingkang sampun dipunengetaken dhumateng piyambakipun. Pramila Kula nuwuhaken permusuhan lan gething ing antawisipun ngantos Dinten Kiamat; Gusti Allah lajeng badhé maringi pirsa dhumateng piyambakipun bab punapa ingkang biyasa piyambakipun damel.
+**5:14** Lan saking tiyang-tiyang ingkang ngendika, "Kula punika Kristen," Kula nampèni prasetyanipun, ananging piyambakipun nglirwakaken saperangan saking punapa ingkang sampun dipunengetaken dhumateng piyambakipun. Pramila Kula nuwuhaken permusuhan lan gething ing antawisipun ngantos Dinten Kiamat; Gusti Allah lajeng badhé maringi pirsa dhumateng piyambakipun bab punapa ingkang biyasa piyambakipun damel.
 
 وَمِنَ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰٓ أَخَذْنَا مِيثَٰقَهُمْ فَنَسُوا۟ حَظًّۭا مِّمَّا ذُكِّرُوا۟ بِهِۦ فَأَغْرَيْنَا بَيْنَهُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ۚ وَسَوْفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُوا۟ يَصْنَعُونَ
 
@@ -2934,55 +2934,55 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 يَهْدِى بِهِ ٱللَّهُ مَنِ ٱتَّبَعَ رِضْوَٰنَهُۥ سُبُلَ ٱلسَّلَٰمِ وَيُخْرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ بِإِذْنِهِۦ وَيَهْدِيهِمْ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
 
-**5:17** Piyambakipun kafir ingkang ngendika, “Gusti Allah punika Sang Kristus, putranipun Maryam.” Ngendikakna, “Sinten ingkang saged ngalangi Gusti Allah, menawi Panjenenganipun kersa, mbirwakaken Sang Kristus putranipun Maryam, lan ibunipun, lan sedaya ingkang wonten ing bumi?” Dhumateng Gusti Allah kagunganipun panguwaos langit lan bumi lan punapa ingkang wonten ing antawisipun. Panjenenganipun nyipta punapa kemawon ingkang Panjenenganipun kersakaken, lan Gusti Allah gadhah panguwaos ing nginggilipun sedaya.
+**5:17** Piyambakipun kafir ingkang ngendika, "Gusti Allah punika Sang Kristus, putranipun Maryam." Ngendikakna, "Sinten ingkang saged ngalangi Gusti Allah, menawi Panjenenganipun kersa, mbirwakaken Sang Kristus putranipun Maryam, lan ibunipun, lan sedaya ingkang wonten ing bumi?" Dhumateng Gusti Allah kagunganipun panguwaos langit lan bumi lan punapa ingkang wonten ing antawisipun. Panjenenganipun nyipta punapa kemawon ingkang Panjenenganipun kersakaken, lan Gusti Allah gadhah panguwaos ing nginggilipun sedaya.
 
 لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ ۚ قُلْ فَمَن يَمْلِكُ مِنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ أَن يُهْلِكَ ٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَأُمَّهُۥ وَمَن فِى ٱلْأَرْضِ جَمِيعًۭا ۗ وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۚ يَخْلُقُ مَا يَشَآءُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**5:18** Tiyang Yahudi lan tiyang Kristen ngendika, “Kula punika putra-putranipun Gusti Allah, lan kekasih-kekasihipun.” Ngendikakna, “Pramila kenging punapa Panjenenganipun nyiksa panjenengan amargi dosa-dosa panjenengan?” Sakleresipun, panjenengan punika manungsa saking antawis ingkang Panjenenganipun cipta. Panjenenganipun ngapunten sinten kemawon ingkang Panjenenganipun kersakaken, lan Panjenenganipun nyiksa sinten kemawon ingkang Panjenenganipun kersakaken. Dhumateng Gusti Allah kagunganipun panguwaos langit lan bumi lan punapa ingkang wonten ing antawisipun, lan dhumateng Panjenenganipun panjenengan badhé wangsul.
+**5:18** Tiyang Yahudi lan tiyang Kristen ngendika, "Kula punika putra-putranipun Gusti Allah, lan kekasih-kekasihipun." Ngendikakna, "Pramila kenging punapa Panjenenganipun nyiksa panjenengan amargi dosa-dosa panjenengan?" Sakleresipun, panjenengan punika manungsa saking antawis ingkang Panjenenganipun cipta. Panjenenganipun ngapunten sinten kemawon ingkang Panjenenganipun kersakaken, lan Panjenenganipun nyiksa sinten kemawon ingkang Panjenenganipun kersakaken. Dhumateng Gusti Allah kagunganipun panguwaos langit lan bumi lan punapa ingkang wonten ing antawisipun, lan dhumateng Panjenenganipun panjenengan badhé wangsul.
 
 وَقَالَتِ ٱلْيَهُودُ وَٱلنَّصَٰرَىٰ نَحْنُ أَبْنَٰٓؤُا۟ ٱللَّهِ وَأَحِبَّٰٓؤُهُۥ ۚ قُلْ فَلِمَ يُعَذِّبُكُم بِذُنُوبِكُم ۖ بَلْ أَنتُم بَشَرٌۭ مِّمَّنْ خَلَقَ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۖ وَإِلَيْهِ ٱلْمَصِيرُ
 
-**5:19** Dhuh Ahli Kitab! Utusan Kula sampun rawuh dhumateng panjenengan, njlentrehaken samukawis dhumateng panjenengan—sasampunipun kendelipun para utusan—supados panjenengan mboten saged ngendika, “Mboten wonten pambabar ingkang rawuh dhumateng kula, lan mboten wonten pamenget.” Sakleresipun, pambabar sampun rawuh dhumateng panjenengan, lan pamenget; lan Gusti Allah Maha Kuwaos ing nginggilipun sedaya.
+**5:19** Dhuh Ahli Kitab! Utusan Kula sampun rawuh dhumateng panjenengan, njlentrehaken samukawis dhumateng panjenengan—sasampunipun kendelipun para utusan—supados panjenengan mboten saged ngendika, "Mboten wonten pambabar ingkang rawuh dhumateng kula, lan mboten wonten pamenget." Sakleresipun, pambabar sampun rawuh dhumateng panjenengan, lan pamenget; lan Gusti Allah Maha Kuwaos ing nginggilipun sedaya.
 
 يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍۢ مِّنَ ٱلرُّسُلِ أَن تَقُولُوا۟ مَا جَآءَنَا مِنۢ بَشِيرٍۢ وَلَا نَذِيرٍۢ ۖ فَقَدْ جَآءَكُم بَشِيرٌۭ وَنَذِيرٌۭ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**5:20** Nalika Musa ngendika dhumateng kaumipun, “Dhuh kaum kula, engeta kanugrahanipun Gusti Allah dhumateng panjenengan, nalika Panjenenganipun ndadosaken nabi-nabi ing antawis panjenengan, lan ndadosaken panjenengan raja-raja, lan maringi panjenengan punapa ingkang Panjenenganipun dèrèng nate maringi dhumateng tiyang sanès punapa kemawon.”
+**5:20** Nalika Musa ngendika dhumateng kaumipun, "Dhuh kaum kula, engeta kanugrahanipun Gusti Allah dhumateng panjenengan, nalika Panjenenganipun ndadosaken nabi-nabi ing antawis panjenengan, lan ndadosaken panjenengan raja-raja, lan maringi panjenengan punapa ingkang Panjenenganipun dèrèng nate maringi dhumateng tiyang sanès punapa kemawon."
 
 وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَعَلَ فِيكُمْ أَنۢبِيَآءَ وَجَعَلَكُم مُّلُوكًۭا وَءَاتَىٰكُم مَّا لَمْ يُؤْتِ أَحَدًۭا مِّنَ ٱلْعَٰلَمِينَ
 
-**5:21** “Dhuh kaum kula, mlebeta dhateng Tanah Suci ingkang Gusti Allah sampun nemtokaken kanggé panjenengan, lan sampun ngantos mundur, mangke panjenengan wangsul minangka tiyang ingkang kapitunan.”
+**5:21** "Dhuh kaum kula, mlebeta dhateng Tanah Suci ingkang Gusti Allah sampun nemtokaken kanggé panjenengan, lan sampun ngantos mundur, mangke panjenengan wangsul minangka tiyang ingkang kapitunan."
 
 يَٰقَوْمِ ٱدْخُلُوا۟ ٱلْأَرْضَ ٱلْمُقَدَّسَةَ ٱلَّتِى كَتَبَ ٱللَّهُ لَكُمْ وَلَا تَرْتَدُّوا۟ عَلَىٰٓ أَدْبَارِكُمْ فَتَنقَلِبُوا۟ خَٰسِرِينَ
 
-**5:22** Piyambakipun ngendika, “Dhuh Musa, wonten tiyang-tiyang ingkang kejem ing ngriku; kula mboten badhé mlebet ngriku ngantos piyambakipun medal saking ngriku. Menawi piyambakipun medal, kula badhé mlebet.”
+**5:22** Piyambakipun ngendika, "Dhuh Musa, wonten tiyang-tiyang ingkang kejem ing ngriku; kula mboten badhé mlebet ngriku ngantos piyambakipun medal saking ngriku. Menawi piyambakipun medal, kula badhé mlebet."
 
 قَالُوا۟ يَٰمُوسَىٰٓ إِنَّ فِيهَا قَوْمًۭا جَبَّارِينَ وَإِنَّا لَن نَّدْخُلَهَا حَتَّىٰ يَخْرُجُوا۟ مِنْهَا فَإِن يَخْرُجُوا۟ مِنْهَا فَإِنَّا دَٰخِلُونَ
 
-**5:23** Kaleh priyantun saking tiyang-tiyang ingkang ajrih, ananging ingkang sampun Gusti Allah paringi kanugrahan, ngendika, “Serang piyambakipun lumantar gapura; lan nalika panjenengan sampun mlebet, panjenengan badhé menang. Lan masraha dhumateng Gusti Allah, menawi panjenengan mukmin.”
+**5:23** Kaleh priyantun saking tiyang-tiyang ingkang ajrih, ananging ingkang sampun Gusti Allah paringi kanugrahan, ngendika, "Serang piyambakipun lumantar gapura; lan nalika panjenengan sampun mlebet, panjenengan badhé menang. Lan masraha dhumateng Gusti Allah, menawi panjenengan mukmin."
 
 قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنْعَمَ ٱللَّهُ عَلَيْهِمَا ٱدْخُلُوا۟ عَلَيْهِمُ ٱلْبَابَ فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ غَٰلِبُونَ ۚ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓا۟ إِن كُنتُم مُّؤْمِنِينَ
 
-**5:24** Piyambakipun ngendika, “Dhuh Musa, kula mboten badhé mlebet ngriku, salaminipun, salaminipun piyambakipun wonten ing ngriku. Pramila mangga tindak, panjenengan lan Pangeran panjenengan, lan perang. Kula lenggah ing ngriki kemawon.”
+**5:24** Piyambakipun ngendika, "Dhuh Musa, kula mboten badhé mlebet ngriku, salaminipun, salaminipun piyambakipun wonten ing ngriku. Pramila mangga tindak, panjenengan lan Pangeran panjenengan, lan perang. Kula lenggah ing ngriki kemawon."
 
 قَالُوا۟ يَٰمُوسَىٰٓ إِنَّا لَن نَّدْخُلَهَآ أَبَدًۭا مَّا دَامُوا۟ فِيهَا ۖ فَٱذْهَبْ أَنتَ وَرَبُّكَ فَقَٰتِلَآ إِنَّا هَٰهُنَا قَٰعِدُونَ
 
-**5:25** Piyambakipun ngendika, “Dhuh Pangeran kula! Kula namung gadhah panguwaos ing nginggilipun kula piyambak lan sadhèrèk kula, pramila pisahna antawis kula lan antawis tiyang-tiyang duraka.”
+**5:25** Piyambakipun ngendika, "Dhuh Pangeran kula! Kula namung gadhah panguwaos ing nginggilipun kula piyambak lan sadhèrèk kula, pramila pisahna antawis kula lan antawis tiyang-tiyang duraka."
 
 قَالَ رَبِّ إِنِّى لَآ أَمْلِكُ إِلَّا نَفْسِى وَأَخِى ۖ فَٱفْرُقْ بَيْنَنَا وَبَيْنَ ٱلْقَوْمِ ٱلْفَٰسِقِينَ
 
-**5:26** Panjenenganipun ngendika, “Punika dipunlarang kanggé piyambakipun salaminipun sekawan dasa warsa. Piyambakipun badhé nglembara tanpa ancas ing tanah. Pramila sampun ngantos sedhih dhumateng tiyang-tiyang ingkang mbangkang.”
+**5:26** Panjenenganipun ngendika, "Punika dipunlarang kanggé piyambakipun salaminipun sekawan dasa warsa. Piyambakipun badhé nglembara tanpa ancas ing tanah. Pramila sampun ngantos sedhih dhumateng tiyang-tiyang ingkang mbangkang."
 
 قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةًۭ ۛ يَتِيهُونَ فِى ٱلْأَرْضِ ۚ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْفَٰسِقِينَ
 
-**5:27** Lan caritakna dhumateng piyambakipun cariyos leres putra kekalihipun Adam: nalika piyambakipun ngaturaken kurban, lan dipuntampi saking salah satunggalipun, ananging mboten dipuntampi saking ingkang sanès. Piyambakipun ngendika, “Kula badhé mejahi panjenengan.” Piyambakipun ngendika, “Gusti Allah namung nampèni saking tiyang-tiyang ingkang leres.”
+**5:27** Lan caritakna dhumateng piyambakipun cariyos leres putra kekalihipun Adam: nalika piyambakipun ngaturaken kurban, lan dipuntampi saking salah satunggalipun, ananging mboten dipuntampi saking ingkang sanès. Piyambakipun ngendika, "Kula badhé mejahi panjenengan." Piyambakipun ngendika, "Gusti Allah namung nampèni saking tiyang-tiyang ingkang leres."
 
 ۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْءَاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ
 
-**5:28** “Menawi panjenengan nguluraken tangan panjenengan saperlu mejahi kula, kula mboten badhé nguluraken tangan kula saperlu mejahi panjenengan; amargi kula ajrih dhumateng Gusti Allah, Pangeranipun alam donya.”
+**5:28** "Menawi panjenengan nguluraken tangan panjenengan saperlu mejahi kula, kula mboten badhé nguluraken tangan kula saperlu mejahi panjenengan; amargi kula ajrih dhumateng Gusti Allah, Pangeranipun alam donya."
 
 لَئِنۢ بَسَطتَ إِلَىَّ يَدَكَ لِتَقْتُلَنِى مَآ أَنَا۠ بِبَاسِطٍۢ يَدِىَ إِلَيْكَ لِأَقْتُلَكَ ۖ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ
 
-**5:29** “Kula langkung remen panjenengan nyanggi dosa kula lan dosa panjenengan, lan panjenengan dados antawis penghuni Geni. Mekaten punika walesan kanggé tiyang-tiyang ingkang tumindak ala.”
+**5:29** "Kula langkung remen panjenengan nyanggi dosa kula lan dosa panjenengan, lan panjenengan dados antawis penghuni Geni. Mekaten punika walesan kanggé tiyang-tiyang ingkang tumindak ala."
 
 إِنِّىٓ أُرِيدُ أَن تَبُوٓأَ بِإِثْمِى وَإِثْمِكَ فَتَكُونَ مِنْ أَصْحَٰبِ ٱلنَّارِ ۚ وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّٰلِمِينَ
 
@@ -2990,7 +2990,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَٰسِرِينَ
 
-**5:31** Lajeng Gusti Allah ngutus manuk gagak ingkang nggali lemah, saperlu nedahaken dhumateng piyambakipun kados pundi nutupi mayitipun sadhèrèk laki­nipun. Piyambakipun ngendika, “Bilai kula! Kula mboten saged kados gagak puniki, lan ngubur mayitipun sadhèrèk laki kula.” Pramila piyambakipun dados kebak panyeselan.
+**5:31** Lajeng Gusti Allah ngutus manuk gagak ingkang nggali lemah, saperlu nedahaken dhumateng piyambakipun kados pundi nutupi mayitipun sadhèrèk laki­nipun. Piyambakipun ngendika, "Bilai kula! Kula mboten saged kados gagak puniki, lan ngubur mayitipun sadhèrèk laki kula." Pramila piyambakipun dados kebak panyeselan.
 
 فَبَعَثَ ٱللَّهُ غُرَابًۭا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ ۚ قَالَ يَٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى ۖ فَأَصْبَحَ مِنَ ٱلنَّٰدِمِينَ
 
@@ -3030,7 +3030,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يُعَذِّبُ مَن يَشَآءُ وَيَغْفِرُ لِمَن يَشَآءُ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**5:41** Dhuh Utusan! Sampun ngantos tiyang-tiyang ingkang rikat dhateng kekafiran ndadosaken panjenengan sedhih—saking antawis tiyang-tiyang ingkang ngendika mawi lesanipun, “Kula pitados,” ananging manahipun mboten pitados; lan saking antawis tiyang Yahudi—pamireng goroh, pamireng tiyang sanès ingkang mboten rawuh dhumateng panjenengan. Piyambakipun ngowahi tembung-tembung saking panggenanipun, lan piyambakipun ngendika, “Menawi panjenengan dipunparingi puniki, tampia; ananging menawi panjenengan mboten dipunparingi, waspada.” Sinten kemawon ingkang Gusti Allah kersakaken nyimpangaken, panjenengan mboten gadhah punapa-punapa kanggé piyambakipun saking Gusti Allah. Piyambakipun punika ingkang manahipun Gusti Allah mboten ngersakaken nyucekaken. Kanggé piyambakipun wonten kehinaan ing donya puniki, lan kanggé piyambakipun wonten siksa ingkang ageng ing Akhirat.
+**5:41** Dhuh Utusan! Sampun ngantos tiyang-tiyang ingkang rikat dhateng kekafiran ndadosaken panjenengan sedhih—saking antawis tiyang-tiyang ingkang ngendika mawi lesanipun, "Kula pitados," ananging manahipun mboten pitados; lan saking antawis tiyang Yahudi—pamireng goroh, pamireng tiyang sanès ingkang mboten rawuh dhumateng panjenengan. Piyambakipun ngowahi tembung-tembung saking panggenanipun, lan piyambakipun ngendika, "Menawi panjenengan dipunparingi puniki, tampia; ananging menawi panjenengan mboten dipunparingi, waspada." Sinten kemawon ingkang Gusti Allah kersakaken nyimpangaken, panjenengan mboten gadhah punapa-punapa kanggé piyambakipun saking Gusti Allah. Piyambakipun punika ingkang manahipun Gusti Allah mboten ngersakaken nyucekaken. Kanggé piyambakipun wonten kehinaan ing donya puniki, lan kanggé piyambakipun wonten siksa ingkang ageng ing Akhirat.
 
 ۞ يَٰٓأَيُّهَا ٱلرَّسُولُ لَا يَحْزُنكَ ٱلَّذِينَ يُسَٰرِعُونَ فِى ٱلْكُفْرِ مِنَ ٱلَّذِينَ قَالُوٓا۟ ءَامَنَّا بِأَفْوَٰهِهِمْ وَلَمْ تُؤْمِن قُلُوبُهُمْ ۛ وَمِنَ ٱلَّذِينَ هَادُوا۟ ۛ سَمَّٰعُونَ لِلْكَذِبِ سَمَّٰعُونَ لِقَوْمٍ ءَاخَرِينَ لَمْ يَأْتُوكَ ۖ يُحَرِّفُونَ ٱلْكَلِمَ مِنۢ بَعْدِ مَوَاضِعِهِۦ ۖ يَقُولُونَ إِنْ أُوتِيتُمْ هَٰذَا فَخُذُوهُ وَإِن لَّمْ تُؤْتَوْهُ فَٱحْذَرُوا۟ ۚ وَمَن يُرِدِ ٱللَّهُ فِتْنَتَهُۥ فَلَن تَمْلِكَ لَهُۥ مِنَ ٱللَّهِ شَيْـًٔا ۚ أُو۟لَٰٓئِكَ ٱلَّذِينَ لَمْ يُرِدِ ٱللَّهُ أَن يُطَهِّرَ قُلُوبَهُمْ ۚ لَهُمْ فِى ٱلدُّنْيَا خِزْىٌۭ ۖ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌۭ
 
@@ -3074,11 +3074,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ ٱلْيَهُودَ وَٱلنَّصَٰرَىٰٓ أَوْلِيَآءَ ۘ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍۢ ۚ وَمَن يَتَوَلَّهُم مِّنكُمْ فَإِنَّهُۥ مِنْهُمْ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**5:52** Panjenengan badhé mirsani tiyang-tiyang ingkang ing manahipun wonten lelara balapan tumuju dhumateng piyambakipun. Piyambakipun ngendika, “Kula ajrih rodhaning nasib mbok menawi malik nglawan kula.” Ananging mbok menawi Gusti Allah badhé ndhatengaken kemenangan, utawi prastawa saking damelanipun; lajeng piyambakipun badhé getun tumrap punapa ingkang piyambakipun simpen ing lebet piyambak.
+**5:52** Panjenengan badhé mirsani tiyang-tiyang ingkang ing manahipun wonten lelara balapan tumuju dhumateng piyambakipun. Piyambakipun ngendika, "Kula ajrih rodhaning nasib mbok menawi malik nglawan kula." Ananging mbok menawi Gusti Allah badhé ndhatengaken kemenangan, utawi prastawa saking damelanipun; lajeng piyambakipun badhé getun tumrap punapa ingkang piyambakipun simpen ing lebet piyambak.
 
 فَتَرَى ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ يُسَٰرِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰٓ أَن تُصِيبَنَا دَآئِرَةٌۭ ۚ فَعَسَى ٱللَّهُ أَن يَأْتِىَ بِٱلْفَتْحِ أَوْ أَمْرٍۢ مِّنْ عِندِهِۦ فَيُصْبِحُوا۟ عَلَىٰ مَآ أَسَرُّوا۟ فِىٓ أَنفُسِهِمْ نَٰدِمِينَ
 
-**5:53** Tiyang-tiyang ingkang pitados badhé ngendika, “ Punapa piyambakipun punika ingkang sampun sumpah mawi asmanipun Gusti Allah mawi sumpah ingkang paling kuat bilih piyambakipun sesarengan kaliyan panjenengan?” Pakaryanipun sampun gagal, pramila piyambakipun dados tiyang ingkang kapitunan.
+**5:53** Tiyang-tiyang ingkang pitados badhé ngendika, " Punapa piyambakipun punika ingkang sampun sumpah mawi asmanipun Gusti Allah mawi sumpah ingkang paling kuat bilih piyambakipun sesarengan kaliyan panjenengan?" Pakaryanipun sampun gagal, pramila piyambakipun dados tiyang ingkang kapitunan.
 
 وَيَقُولُ ٱلَّذِينَ ءَامَنُوٓا۟ أَهَٰٓؤُلَآءِ ٱلَّذِينَ أَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ ۙ إِنَّهُمْ لَمَعَكُمْ ۚ حَبِطَتْ أَعْمَٰلُهُمْ فَأَصْبَحُوا۟ خَٰسِرِينَ
 
@@ -3102,15 +3102,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَإِذَا نَادَيْتُمْ إِلَى ٱلصَّلَوٰةِ ٱتَّخَذُوهَا هُزُوًۭا وَلَعِبًۭا ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌۭ لَّا يَعْقِلُونَ
 
-**5:59** Ngendikakna, “Dhuh Ahli Kitab! Punapa panjenengan gething dhumateng kula namung amargi kula pitados dhumateng Gusti Allah, lan dhumateng punapa ingkang sampun dipunwahyukaken dhumateng kula, lan dhumateng punapa ingkang sampun dipunwahyukaken sadèrèngipun; lan kathah saking panjenengan punika tiyang dosa?”
+**5:59** Ngendikakna, "Dhuh Ahli Kitab! Punapa panjenengan gething dhumateng kula namung amargi kula pitados dhumateng Gusti Allah, lan dhumateng punapa ingkang sampun dipunwahyukaken dhumateng kula, lan dhumateng punapa ingkang sampun dipunwahyukaken sadèrèngipun; lan kathah saking panjenengan punika tiyang dosa?"
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ هَلْ تَنقِمُونَ مِنَّآ إِلَّآ أَنْ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْنَا وَمَآ أُنزِلَ مِن قَبْلُ وَأَنَّ أَكْثَرَكُمْ فَٰسِقُونَ
 
-**5:60** Ngendikakna, “ Punapa kula kedah maringi pirsa dhumateng panjenengan bab ingkang langkung ala tinimbang punika kanggé walesan saking Gusti Allah? Piyambakipun ingkang Gusti Allah sampun ngutuk, lan ingkang Panjenenganipun dukani; lan Panjenenganipun ndadosaken saperangan saking piyambakipun dados kethek, lan babi, lan penyembah berhala. Piyambakipun punika ing papan ingkang langkung ala, lan langkung tebih saking margi ingkang leres.”
+**5:60** Ngendikakna, " Punapa kula kedah maringi pirsa dhumateng panjenengan bab ingkang langkung ala tinimbang punika kanggé walesan saking Gusti Allah? Piyambakipun ingkang Gusti Allah sampun ngutuk, lan ingkang Panjenenganipun dukani; lan Panjenenganipun ndadosaken saperangan saking piyambakipun dados kethek, lan babi, lan penyembah berhala. Piyambakipun punika ing papan ingkang langkung ala, lan langkung tebih saking margi ingkang leres."
 
 قُلْ هَلْ أُنَبِّئُكُم بِشَرٍّۢ مِّن ذَٰلِكَ مَثُوبَةً عِندَ ٱللَّهِ ۚ مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ ٱلْقِرَدَةَ وَٱلْخَنَازِيرَ وَعَبَدَ ٱلطَّٰغُوتَ ۚ أُو۟لَٰٓئِكَ شَرٌّۭ مَّكَانًۭا وَأَضَلُّ عَن سَوَآءِ ٱلسَّبِيلِ
 
-**5:61** Nalika piyambakipun rawuh dhumateng panjenengan, piyambakipun ngendika, “Kula pitados,” sanajan piyambakipun mlebet mawi kekafiran, lan piyambakipun medal mawi punika. Ananging Gusti Allah pirsa sanget bab punapa ingkang piyambakipun umpetaken.
+**5:61** Nalika piyambakipun rawuh dhumateng panjenengan, piyambakipun ngendika, "Kula pitados," sanajan piyambakipun mlebet mawi kekafiran, lan piyambakipun medal mawi punika. Ananging Gusti Allah pirsa sanget bab punapa ingkang piyambakipun umpetaken.
 
 وَإِذَا جَآءُوكُمْ قَالُوٓا۟ ءَامَنَّا وَقَد دَّخَلُوا۟ بِٱلْكُفْرِ وَهُمْ قَدْ خَرَجُوا۟ بِهِۦ ۚ وَٱللَّهُ أَعْلَمُ بِمَا كَانُوا۟ يَكْتُمُونَ
 
@@ -3122,7 +3122,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 لَوْلَا يَنْهَىٰهُمُ ٱلرَّبَّٰنِيُّونَ وَٱلْأَحْبَارُ عَن قَوْلِهِمُ ٱلْإِثْمَ وَأَكْلِهِمُ ٱلسُّحْتَ ۚ لَبِئْسَ مَا كَانُوا۟ يَصْنَعُونَ
 
-**5:64** Tiyang Yahudi ngendika, “Tanganipun Gusti Allah dipunnaleni.” Tanganipun piyambakipun ingkang dipunnaleni, lan piyambakipun dipunkutuk amargi punapa ingkang piyambakipun ngendikakaken. Sakleresipun, tanganipun Panjenenganipun kabuka wiyar; Panjenenganipun maringi kados ingkang Panjenenganipun kersakaken. Tamtu, punapa ingkang sampun dipunwahyukaken dhumateng panjenengan saking Pangeran panjenengan badhé nambah kathah saking piyambakipun ing pambrontakan lan kekafiran. Lan Kula ndadosaken ing antawisipun permusuhan lan gething, ngantos Dinten Kiamat. Saben piyambakipun nyumet geni perang, Gusti Allah matèni punika. Lan piyambakipun ngupaya nyebar karusakan ing bumi. Gusti Allah mboten ngasihi tiyang-tiyang ingkang ngrusak.
+**5:64** Tiyang Yahudi ngendika, "Tanganipun Gusti Allah dipunnaleni." Tanganipun piyambakipun ingkang dipunnaleni, lan piyambakipun dipunkutuk amargi punapa ingkang piyambakipun ngendikakaken. Sakleresipun, tanganipun Panjenenganipun kabuka wiyar; Panjenenganipun maringi kados ingkang Panjenenganipun kersakaken. Tamtu, punapa ingkang sampun dipunwahyukaken dhumateng panjenengan saking Pangeran panjenengan badhé nambah kathah saking piyambakipun ing pambrontakan lan kekafiran. Lan Kula ndadosaken ing antawisipun permusuhan lan gething, ngantos Dinten Kiamat. Saben piyambakipun nyumet geni perang, Gusti Allah matèni punika. Lan piyambakipun ngupaya nyebar karusakan ing bumi. Gusti Allah mboten ngasihi tiyang-tiyang ingkang ngrusak.
 
 وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ ۚ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟ ۘ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ ۚ وَلَيَزِيدَنَّ كَثِيرًۭا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَٰنًۭا وَكُفْرًۭا ۚ وَأَلْقَيْنَا بَيْنَهُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ۚ كُلَّمَآ أَوْقَدُوا۟ نَارًۭا لِّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ ۚ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًۭا ۚ وَٱللَّهُ لَا يُحِبُّ ٱلْمُفْسِدِينَ
 
@@ -3138,7 +3138,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ۞ يَٰٓأَيُّهَا ٱلرَّسُولُ بَلِّغْ مَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ۖ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُۥ ۚ وَٱللَّهُ يَعْصِمُكَ مِنَ ٱلنَّاسِ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ
 
-**5:68** Ngendikakna, “Dhuh Ahli Kitab! Panjenengan mboten gadhah dhasar ngantos panjenengan netepi Taurat, lan Injil, lan punapa ingkang dipunwahyukaken dhumateng panjenengan saking Pangeran panjenengan.” Ananging punapa ingkang dipunwahyukaken dhumateng panjenengan saking Pangeran panjenengan badhé nambah kathah saking piyambakipun ing pambrontakan lan kekafiran, pramila sampun ngantos sedhih dhumateng tiyang-tiyang kafir.
+**5:68** Ngendikakna, "Dhuh Ahli Kitab! Panjenengan mboten gadhah dhasar ngantos panjenengan netepi Taurat, lan Injil, lan punapa ingkang dipunwahyukaken dhumateng panjenengan saking Pangeran panjenengan." Ananging punapa ingkang dipunwahyukaken dhumateng panjenengan saking Pangeran panjenengan badhé nambah kathah saking piyambakipun ing pambrontakan lan kekafiran, pramila sampun ngantos sedhih dhumateng tiyang-tiyang kafir.
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لَسْتُمْ عَلَىٰ شَىْءٍ حَتَّىٰ تُقِيمُوا۟ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَمَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُمْ ۗ وَلَيَزِيدَنَّ كَثِيرًۭا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَٰنًۭا وَكُفْرًۭا ۖ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
 
@@ -3154,11 +3154,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَحَسِبُوٓا۟ أَلَّا تَكُونَ فِتْنَةٌۭ فَعَمُوا۟ وَصَمُّوا۟ ثُمَّ تَابَ ٱللَّهُ عَلَيْهِمْ ثُمَّ عَمُوا۟ وَصَمُّوا۟ كَثِيرٌۭ مِّنْهُمْ ۚ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ
 
-**5:72** Piyambakipun kafir ingkang ngendika, “Gusti Allah punika Sang Mesias putranipun Maryam.” Ananging Sang Mesias piyambak ngendika, “Dhuh Bani Israil, sembaha Gusti Allah, Pangeran kula lan Pangeran panjenengan. Sinten kemawon ingkang nyekutokaken sanès kaliyan Gusti Allah, Gusti Allah sampun nglarang Swarga kanggé piyambakipun, lan papan dunungipun punika Geni. Tiyang-tiyang ingkang tumindak salah mboten gadhah juru slamet.”
+**5:72** Piyambakipun kafir ingkang ngendika, "Gusti Allah punika Sang Mesias putranipun Maryam." Ananging Sang Mesias piyambak ngendika, "Dhuh Bani Israil, sembaha Gusti Allah, Pangeran kula lan Pangeran panjenengan. Sinten kemawon ingkang nyekutokaken sanès kaliyan Gusti Allah, Gusti Allah sampun nglarang Swarga kanggé piyambakipun, lan papan dunungipun punika Geni. Tiyang-tiyang ingkang tumindak salah mboten gadhah juru slamet."
 
 لَقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ ۖ وَقَالَ ٱلْمَسِيحُ يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱعْبُدُوا۟ ٱللَّهَ رَبِّى وَرَبَّكُمْ ۖ إِنَّهُۥ مَن يُشْرِكْ بِٱللَّهِ فَقَدْ حَرَّمَ ٱللَّهُ عَلَيْهِ ٱلْجَنَّةَ وَمَأْوَىٰهُ ٱلنَّارُ ۖ وَمَا لِلظَّٰلِمِينَ مِنْ أَنصَارٍۢ
 
-**5:73** Piyambakipun kafir ingkang ngendika, “Gusti Allah punika katelu saking tiga.” Ananging mboten wonten déwa kejawi Gusti Allah ingkang Setunggal. Menawi piyambakipun mboten kendel saking punapa ingkang piyambakipun ngendikakaken, siksa ingkang nglarani badhé nimpa tiyang-tiyang ing antawisipun ingkang kafir.
+**5:73** Piyambakipun kafir ingkang ngendika, "Gusti Allah punika katelu saking tiga." Ananging mboten wonten déwa kejawi Gusti Allah ingkang Setunggal. Menawi piyambakipun mboten kendel saking punapa ingkang piyambakipun ngendikakaken, siksa ingkang nglarani badhé nimpa tiyang-tiyang ing antawisipun ingkang kafir.
 
 لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ ثَالِثُ ثَلَٰثَةٍۢ ۘ وَمَا مِنْ إِلَٰهٍ إِلَّآ إِلَٰهٌۭ وَٰحِدٌۭ ۚ وَإِن لَّمْ يَنتَهُوا۟ عَمَّا يَقُولُونَ لَيَمَسَّنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابٌ أَلِيمٌ
 
@@ -3170,11 +3170,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌۭ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌۭ ۖ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ۗ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْءَايَٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ
 
-**5:76** Ngendikakna, “ Punapa panjenengan nyembah, kejawi Gusti Allah, punapa ingkang mboten gadhah panguwaos mbebayani utawi maringi manfaat dhumateng panjenengan?” Ananging Gusti Allah: Panjenenganipun punika ingkang Mireng, ingkang Pirsa.
+**5:76** Ngendikakna, " Punapa panjenengan nyembah, kejawi Gusti Allah, punapa ingkang mboten gadhah panguwaos mbebayani utawi maringi manfaat dhumateng panjenengan?" Ananging Gusti Allah: Panjenenganipun punika ingkang Mireng, ingkang Pirsa.
 
 قُلْ أَتَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَمْلِكُ لَكُمْ ضَرًّۭا وَلَا نَفْعًۭا ۚ وَٱللَّهُ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
-**5:77** Ngendikakna, “Dhuh Ahli Kitab! Sampun ngantos panjenengan kliwat wates ing agami panjenengan nglangkungi kaleresan; lan sampun ngantos ndhèrèki pamanggih tiyang-tiyang ingkang nyimpang sadèrèngipun, lan nyesataken kathah, lan piyambak piyambak nyimpang saking margi ingkang seimbang.”
+**5:77** Ngendikakna, "Dhuh Ahli Kitab! Sampun ngantos panjenengan kliwat wates ing agami panjenengan nglangkungi kaleresan; lan sampun ngantos ndhèrèki pamanggih tiyang-tiyang ingkang nyimpang sadèrèngipun, lan nyesataken kathah, lan piyambak piyambak nyimpang saking margi ingkang seimbang."
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ غَيْرَ ٱلْحَقِّ وَلَا تَتَّبِعُوٓا۟ أَهْوَآءَ قَوْمٍۢ قَدْ ضَلُّوا۟ مِن قَبْلُ وَأَضَلُّوا۟ كَثِيرًۭا وَضَلُّوا۟ عَن سَوَآءِ ٱلسَّبِيلِ
 
@@ -3194,15 +3194,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَوْ كَانُوا۟ يُؤْمِنُونَ بِٱللَّهِ وَٱلنَّبِىِّ وَمَآ أُنزِلَ إِلَيْهِ مَا ٱتَّخَذُوهُمْ أَوْلِيَآءَ وَلَٰكِنَّ كَثِيرًۭا مِّنْهُمْ فَٰسِقُونَ
 
-**5:82** Panjenengan badhé manggihi bilih tiyang-tiyang ingkang paling memungsuhan dhumateng para mukmin punika tiyang Yahudi lan tiyang musyrik. Lan panjenengan badhé manggihi bilih ingkang paling celak ing katresnan dhumateng para mukmin punika tiyang-tiyang ingkang ngendika, “Kula punika Kristen.” Punika amargi ing antawisipun wonten pandhita lan rahib, lan piyambakipun mboten gumedhé.
+**5:82** Panjenengan badhé manggihi bilih tiyang-tiyang ingkang paling memungsuhan dhumateng para mukmin punika tiyang Yahudi lan tiyang musyrik. Lan panjenengan badhé manggihi bilih ingkang paling celak ing katresnan dhumateng para mukmin punika tiyang-tiyang ingkang ngendika, "Kula punika Kristen." Punika amargi ing antawisipun wonten pandhita lan rahib, lan piyambakipun mboten gumedhé.
 
 ۞ لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَٰوَةًۭ لِّلَّذِينَ ءَامَنُوا۟ ٱلْيَهُودَ وَٱلَّذِينَ أَشْرَكُوا۟ ۖ وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةًۭ لِّلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰ ۚ ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًۭا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ
 
-**5:83** Lan nalika piyambakipun mireng punapa ingkang sampun dipunwahyukaken dhumateng Utusan, panjenengan mirsani mripatipun lubèr mawi luh, amargi piyambakipun mangertosi kaleresan ing lebetipun. Piyambakipun ngendika, “Dhuh Pangeran kula, kula sampun pitados, pramila etang kula antawis para saksi.”
+**5:83** Lan nalika piyambakipun mireng punapa ingkang sampun dipunwahyukaken dhumateng Utusan, panjenengan mirsani mripatipun lubèr mawi luh, amargi piyambakipun mangertosi kaleresan ing lebetipun. Piyambakipun ngendika, "Dhuh Pangeran kula, kula sampun pitados, pramila etang kula antawis para saksi."
 
 وَإِذَا سَمِعُوا۟ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعْيُنَهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ مِمَّا عَرَفُوا۟ مِنَ ٱلْحَقِّ ۖ يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكْتُبْنَا مَعَ ٱلشَّٰهِدِينَ
 
-**5:84** “Lan kenging punapa kula mboten kedah pitados dhumateng Gusti Allah, lan dhumateng kaleresan ingkang sampun rawuh dhumateng kula, lan ngajeng-ajeng bilih Pangeran kula badhé nglebetaken kula antawis tiyang-tiyang ingkang leres?”
+**5:84** "Lan kenging punapa kula mboten kedah pitados dhumateng Gusti Allah, lan dhumateng kaleresan ingkang sampun rawuh dhumateng kula, lan ngajeng-ajeng bilih Pangeran kula badhé nglebetaken kula antawis tiyang-tiyang ingkang leres?"
 
 وَمَا لَنَا لَا نُؤْمِنُ بِٱللَّهِ وَمَا جَآءَنَا مِنَ ٱلْحَقِّ وَنَطْمَعُ أَن يُدْخِلَنَا رَبُّنَا مَعَ ٱلْقَوْمِ ٱلصَّٰلِحِينَ
 
@@ -3266,7 +3266,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 مَّا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَٰغُ ۗ وَٱللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ
 
-**5:100** Ngendikakna: “Ingkang ala lan ingkang saé punika mboten sami, sanajan kathahipun ingkang ala saged nggumunaken panjenengan. Pramila elinga dhumateng Gusti Allah, Dhuh panjenengan ingkang gadhah akal, supados panjenengan saged kasil.”
+**5:100** Ngendikakna: "Ingkang ala lan ingkang saé punika mboten sami, sanajan kathahipun ingkang ala saged nggumunaken panjenengan. Pramila elinga dhumateng Gusti Allah, Dhuh panjenengan ingkang gadhah akal, supados panjenengan saged kasil."
 
 قُل لَّا يَسْتَوِى ٱلْخَبِيثُ وَٱلطَّيِّبُ وَلَوْ أَعْجَبَكَ كَثْرَةُ ٱلْخَبِيثِ ۚ فَٱتَّقُوا۟ ٱللَّهَ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ لَعَلَّكُمْ تُفْلِحُونَ
 
@@ -3282,7 +3282,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 مَا جَعَلَ ٱللَّهُ مِنۢ بَحِيرَةٍۢ وَلَا سَآئِبَةٍۢ وَلَا وَصِيلَةٍۢ وَلَا حَامٍۢ ۙ وَلَٰكِنَّ ٱلَّذِينَ كَفَرُوا۟ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ ۖ وَأَكْثَرُهُمْ لَا يَعْقِلُونَ
 
-**5:104** Lan nalika dipunngendikakaken dhumateng piyambakipun, “Rawuha dhumateng punapa ingkang Gusti Allah sampun wahyukaken, lan dhumateng Utusan,” piyambakipun ngendika, “Cekap kanggé kula punapa ingkang kula manggihi leluhur kula ing nginggilipun.” Sanajan leluhuripun mboten pirsa punapa-punapa, lan mboten dipuntuntun?
+**5:104** Lan nalika dipunngendikakaken dhumateng piyambakipun, "Rawuha dhumateng punapa ingkang Gusti Allah sampun wahyukaken, lan dhumateng Utusan," piyambakipun ngendika, "Cekap kanggé kula punapa ingkang kula manggihi leluhur kula ing nginggilipun." Sanajan leluhuripun mboten pirsa punapa-punapa, lan mboten dipuntuntun?
 
 وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ قَالُوا۟ حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْلَمُونَ شَيْـًۭٔا وَلَا يَهْتَدُونَ
 
@@ -3290,11 +3290,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ عَلَيْكُمْ أَنفُسَكُمْ ۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهْتَدَيْتُمْ ۚ إِلَى ٱللَّهِ مَرْجِعُكُمْ جَمِيعًۭا فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 
-**5:106** Dhuh para priyantun ingkang pitados! Nalika pejah nyelaki salah satunggal panjenengan, sumangga kalih priyantun ingkang saged dipunpitados saking antawis panjenengan tumindak minangka saksi tumrap damel wasiat, utawi kalih priyantun saking tiyang sanès menawi panjenengan lelungan ing tanah lan prastawa pejah nyelaki panjenengan. Tahan piyambakipun sasampunipun salat. Menawi panjenengan gadhah keraguan, sumangga piyambakipun sumpah mawi asmanipun Gusti Allah: “Kula mboten badhé ngedol paseksi kula mawi regi punapa kemawon, sanajan piyambakipun sadhèrèk celak, lan kula mboten badhé ngumpetaken paseksinipun Gusti Allah, amargi lajeng kula badhé dados tiyang dosa.”
+**5:106** Dhuh para priyantun ingkang pitados! Nalika pejah nyelaki salah satunggal panjenengan, sumangga kalih priyantun ingkang saged dipunpitados saking antawis panjenengan tumindak minangka saksi tumrap damel wasiat, utawi kalih priyantun saking tiyang sanès menawi panjenengan lelungan ing tanah lan prastawa pejah nyelaki panjenengan. Tahan piyambakipun sasampunipun salat. Menawi panjenengan gadhah keraguan, sumangga piyambakipun sumpah mawi asmanipun Gusti Allah: "Kula mboten badhé ngedol paseksi kula mawi regi punapa kemawon, sanajan piyambakipun sadhèrèk celak, lan kula mboten badhé ngumpetaken paseksinipun Gusti Allah, amargi lajeng kula badhé dados tiyang dosa."
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ ۚ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ بِٱللَّهِ إِنِ ٱرْتَبْتُمْ لَا نَشْتَرِى بِهِۦ ثَمَنًۭا وَلَوْ كَانَ ذَا قُرْبَىٰ ۙ وَلَا نَكْتُمُ شَهَٰدَةَ ٱللَّهِ إِنَّآ إِذًۭا لَّمِنَ ٱلْءَاثِمِينَ
 
-**5:107** Menawi dipunmangertosi bilih piyambakipun kalepatan sumpah palsu: sumangga kalih sanèsipun nggantosaken panggenanipun, kalih saking antawis tiyang ingkang tanggung jawab tumrap tuntutan, lan sumangga piyambakipun sumpah mawi asmanipun Gusti Allah, “Paseksi kula langkung leres tinimbang paseksi piyambakipun, lan kula mboten badhé milih sisih, amargi lajeng kula badhé dados tiyang ingkang tumindak salah.”
+**5:107** Menawi dipunmangertosi bilih piyambakipun kalepatan sumpah palsu: sumangga kalih sanèsipun nggantosaken panggenanipun, kalih saking antawis tiyang ingkang tanggung jawab tumrap tuntutan, lan sumangga piyambakipun sumpah mawi asmanipun Gusti Allah, "Paseksi kula langkung leres tinimbang paseksi piyambakipun, lan kula mboten badhé milih sisih, amargi lajeng kula badhé dados tiyang ingkang tumindak salah."
 
 فَإِنْ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسْتَحَقَّآ إِثْمًۭا فَـَٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ ٱلَّذِينَ ٱسْتَحَقَّ عَلَيْهِمُ ٱلْأَوْلَيَٰنِ فَيُقْسِمَانِ بِٱللَّهِ لَشَهَٰدَتُنَآ أَحَقُّ مِن شَهَٰدَتِهِمَا وَمَا ٱعْتَدَيْنَآ إِنَّآ إِذًۭا لَّمِنَ ٱلظَّٰلِمِينَ
 
@@ -3302,35 +3302,35 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ذَٰلِكَ أَدْنَىٰٓ أَن يَأْتُوا۟ بِٱلشَّهَٰدَةِ عَلَىٰ وَجْهِهَآ أَوْ يَخَافُوٓا۟ أَن تُرَدَّ أَيْمَٰنٌۢ بَعْدَ أَيْمَٰنِهِمْ ۗ وَٱتَّقُوا۟ ٱللَّهَ وَٱسْمَعُوا۟ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 
-**5:109** Ing Dinten nalika Gusti Allah badhé ngempalaken para utusan, lajeng ngendika, “Wangsulan punapa ingkang dipunparingaken dhumateng panjenengan?” Piyambakipun badhé ngendika, “Kula mboten gadhah kawruh; panjenengan ingkang Pirsa ingkang mboten katingal.”
+**5:109** Ing Dinten nalika Gusti Allah badhé ngempalaken para utusan, lajeng ngendika, "Wangsulan punapa ingkang dipunparingaken dhumateng panjenengan?" Piyambakipun badhé ngendika, "Kula mboten gadhah kawruh; panjenengan ingkang Pirsa ingkang mboten katingal."
 
 ۞ يَوْمَ يَجْمَعُ ٱللَّهُ ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبْتُمْ ۖ قَالُوا۟ لَا عِلْمَ لَنَآ ۖ إِنَّكَ أَنتَ عَلَّٰمُ ٱلْغُيُوبِ
 
-**5:110** Nalika Gusti Allah badhé ngendika, “Dhuh Isa putranipun Maryam, engeta kanugrahan Kula dhumateng panjenengan lan dhumateng ibu panjenengan, kados pundi Kula nyengkuyung panjenengan mawi Roh Suci. Panjenengan ngendika dhumateng tiyang-tiyang saking ayunan, lan ing diwasa. Kados pundi Kula mucalaken Kitab lan kawicaksanan dhumateng panjenengan, lan Taurat lan Injil. Lan engeta bilih panjenengan ndamel saking lemah wujud manuk, mawi idin Kula, lan lajeng panjenengan sebul dhumateng punika, lan punika dados manuk, mawi idin Kula. Lan panjenengan marasaken tiyang wuta lan tiyang kusta, mawi idin Kula; lan panjenengan nggesangaken tiyang pejah, mawi idin Kula. Lan engeta bilih Kula nahan Bani Israil saking panjenengan nalika panjenengan ndhatengaken mukjizat ingkang cetha dhumateng piyambakipun. Ananging tiyang-tiyang ingkang kafir ing antawisipun ngendika, `Puniki namung sihir ingkang cetha.'“
+**5:110** Nalika Gusti Allah badhé ngendika, "Dhuh Isa putranipun Maryam, engeta kanugrahan Kula dhumateng panjenengan lan dhumateng ibu panjenengan, kados pundi Kula nyengkuyung panjenengan mawi Roh Suci. Panjenengan ngendika dhumateng tiyang-tiyang saking ayunan, lan ing diwasa. Kados pundi Kula mucalaken Kitab lan kawicaksanan dhumateng panjenengan, lan Taurat lan Injil. Lan engeta bilih panjenengan ndamel saking lemah wujud manuk, mawi idin Kula, lan lajeng panjenengan sebul dhumateng punika, lan punika dados manuk, mawi idin Kula. Lan panjenengan marasaken tiyang wuta lan tiyang kusta, mawi idin Kula; lan panjenengan nggesangaken tiyang pejah, mawi idin Kula. Lan engeta bilih Kula nahan Bani Israil saking panjenengan nalika panjenengan ndhatengaken mukjizat ingkang cetha dhumateng piyambakipun. Ananging tiyang-tiyang ingkang kafir ing antawisipun ngendika, `Puniki namung sihir ingkang cetha.'"
 
 إِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ٱذْكُرْ نِعْمَتِى عَلَيْكَ وَعَلَىٰ وَٰلِدَتِكَ إِذْ أَيَّدتُّكَ بِرُوحِ ٱلْقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًۭا ۖ وَإِذْ عَلَّمْتُكَ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ ۖ وَإِذْ تَخْلُقُ مِنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ بِإِذْنِى فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًۢا بِإِذْنِى ۖ وَتُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ بِإِذْنِى ۖ وَإِذْ تُخْرِجُ ٱلْمَوْتَىٰ بِإِذْنِى ۖ وَإِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ إِذْ جِئْتَهُم بِٱلْبَيِّنَٰتِ فَقَالَ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌۭ
 
-**5:111** “Lan nalika Kula maringi ilham dhumateng para murid: `Pitadosa dhumateng Kula lan dhumateng Utusan Kula.' Piyambakipun ngendika, `Kula sampun pitados, pramila dadosa saksi bilih Kula sampun pasrah.'“
+**5:111** "Lan nalika Kula maringi ilham dhumateng para murid: `Pitadosa dhumateng Kula lan dhumateng Utusan Kula.' Piyambakipun ngendika, `Kula sampun pitados, pramila dadosa saksi bilih Kula sampun pasrah.'"
 
 وَإِذْ أَوْحَيْتُ إِلَى ٱلْحَوَارِيِّۦنَ أَنْ ءَامِنُوا۟ بِى وَبِرَسُولِى قَالُوٓا۟ ءَامَنَّا وَٱشْهَدْ بِأَنَّنَا مُسْلِمُونَ
 
-**5:112** “Lan nalika para murid ngendika, 'Dhuh Isa putranipun Maryam, punapa Pangeran panjenengan saged nurunaken dhumateng kula hidangan saking langit?' Piyambakipun ngendika, 'Ajriha dhumateng Gusti Allah, menawi panjenengan mukmin.'“
+**5:112** "Lan nalika para murid ngendika, 'Dhuh Isa putranipun Maryam, punapa Pangeran panjenengan saged nurunaken dhumateng kula hidangan saking langit?' Piyambakipun ngendika, 'Ajriha dhumateng Gusti Allah, menawi panjenengan mukmin.'"
 
 إِذْ قَالَ ٱلْحَوَارِيُّونَ يَٰعِيسَى ٱبْنَ مَرْيَمَ هَلْ يَسْتَطِيعُ رَبُّكَ أَن يُنَزِّلَ عَلَيْنَا مَآئِدَةًۭ مِّنَ ٱلسَّمَآءِ ۖ قَالَ ٱتَّقُوا۟ ٱللَّهَ إِن كُنتُم مُّؤْمِنِينَ
 
-**5:113** Piyambakipun ngendika, “Kula kepéngin dhahar saking punika, supados manah kula saged tentrem, lan pirsa bilih panjenengan sampun ngendikakaken kaleresan dhumateng kula, lan dados antawis tiyang ingkang nyekseni punika.”
+**5:113** Piyambakipun ngendika, "Kula kepéngin dhahar saking punika, supados manah kula saged tentrem, lan pirsa bilih panjenengan sampun ngendikakaken kaleresan dhumateng kula, lan dados antawis tiyang ingkang nyekseni punika."
 
 قَالُوا۟ نُرِيدُ أَن نَّأْكُلَ مِنْهَا وَتَطْمَئِنَّ قُلُوبُنَا وَنَعْلَمَ أَن قَدْ صَدَقْتَنَا وَنَكُونَ عَلَيْهَا مِنَ ٱلشَّٰهِدِينَ
 
-**5:114** Isa putranipun Maryam ngendika, “Dhuh Gusti Allah, Pangeran kula, turunna dhumateng kula meja saking langit, saperlu dados pahargyan kanggé kula, kanggé ingkang wiwitan saking kula, lan ingkang pungkasan saking kula, lan pratandha saking Panjenengan; lan paringana rejeki dhumateng kula; Panjenengan punika ingkang Paling Saé saking para panyedia.”
+**5:114** Isa putranipun Maryam ngendika, "Dhuh Gusti Allah, Pangeran kula, turunna dhumateng kula meja saking langit, saperlu dados pahargyan kanggé kula, kanggé ingkang wiwitan saking kula, lan ingkang pungkasan saking kula, lan pratandha saking Panjenengan; lan paringana rejeki dhumateng kula; Panjenengan punika ingkang Paling Saé saking para panyedia."
 
 قَالَ عِيسَى ٱبْنُ مَرْيَمَ ٱللَّهُمَّ رَبَّنَآ أَنزِلْ عَلَيْنَا مَآئِدَةًۭ مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيدًۭا لِّأَوَّلِنَا وَءَاخِرِنَا وَءَايَةًۭ مِّنكَ ۖ وَٱرْزُقْنَا وَأَنتَ خَيْرُ ٱلرَّٰزِقِينَ
 
-**5:115** Gusti Allah ngendika, “Kula badhé nurunaken dhumateng panjenengan. Ananging sinten kemawon ing antawis panjenengan ingkang kafir sasampunipun punika, Kula badhé nyiksa piyambakipun mawi siksa ingkang kados punika Kula dèrèng nate nyiksa makhluk sanès punapa kemawon.”
+**5:115** Gusti Allah ngendika, "Kula badhé nurunaken dhumateng panjenengan. Ananging sinten kemawon ing antawis panjenengan ingkang kafir sasampunipun punika, Kula badhé nyiksa piyambakipun mawi siksa ingkang kados punika Kula dèrèng nate nyiksa makhluk sanès punapa kemawon."
 
 قَالَ ٱللَّهُ إِنِّى مُنَزِّلُهَا عَلَيْكُمْ ۖ فَمَن يَكْفُرْ بَعْدُ مِنكُمْ فَإِنِّىٓ أُعَذِّبُهُۥ عَذَابًۭا لَّآ أُعَذِّبُهُۥٓ أَحَدًۭا مِّنَ ٱلْعَٰلَمِينَ
 
-**5:116** Lan Gusti Allah badhé ngendika, “Dhuh Isa putranipun Maryam, punapa panjenengan ngendika dhumateng tiyang-tiyang, `Dadekna kula lan ibu kula dados déwa kejawi Gusti Allah?'“ Piyambakipun badhé ngendika, “Maha Suci Panjenengan! Mboten patut kanggé kula ngendikakaken punapa ingkang kula mboten gadhah hak. Menawi kula sampun ngendikakaken, Panjenengan tamtu badhé pirsa. Panjenengan pirsa punapa ingkang wonten ing jiwa kula, lan kula mboten pirsa punapa ingkang wonten ing jiwa Panjenengan. Panjenengan punika ingkang Pirsa ingkang ndhelik.
+**5:116** Lan Gusti Allah badhé ngendika, "Dhuh Isa putranipun Maryam, punapa panjenengan ngendika dhumateng tiyang-tiyang, `Dadekna kula lan ibu kula dados déwa kejawi Gusti Allah?'" Piyambakipun badhé ngendika, "Maha Suci Panjenengan! Mboten patut kanggé kula ngendikakaken punapa ingkang kula mboten gadhah hak. Menawi kula sampun ngendikakaken, Panjenengan tamtu badhé pirsa. Panjenengan pirsa punapa ingkang wonten ing jiwa kula, lan kula mboten pirsa punapa ingkang wonten ing jiwa Panjenengan. Panjenengan punika ingkang Pirsa ingkang ndhelik.
 
 وَإِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ءَأَنتَ قُلْتَ لِلنَّاسِ ٱتَّخِذُونِى وَأُمِّىَ إِلَٰهَيْنِ مِن دُونِ ٱللَّهِ ۖ قَالَ سُبْحَٰنَكَ مَا يَكُونُ لِىٓ أَنْ أَقُولَ مَا لَيْسَ لِى بِحَقٍّ ۚ إِن كُنتُ قُلْتُهُۥ فَقَدْ عَلِمْتَهُۥ ۚ تَعْلَمُ مَا فِى نَفْسِى وَلَآ أَعْلَمُ مَا فِى نَفْسِكَ ۚ إِنَّكَ أَنتَ عَلَّٰمُ ٱلْغُيُوبِ
 
@@ -3338,11 +3338,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 مَا قُلْتُ لَهُمْ إِلَّا مَآ أَمَرْتَنِى بِهِۦٓ أَنِ ٱعْبُدُوا۟ ٱللَّهَ رَبِّى وَرَبَّكُمْ ۚ وَكُنتُ عَلَيْهِمْ شَهِيدًۭا مَّا دُمْتُ فِيهِمْ ۖ فَلَمَّا تَوَفَّيْتَنِى كُنتَ أَنتَ ٱلرَّقِيبَ عَلَيْهِمْ ۚ وَأَنتَ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدٌ
 
-**5:118** Menawi Panjenengan nyiksa piyambakipun, piyambakipun punika abdi-abdi Panjenengan; ananging menawi Panjenengan ngapunten piyambakipun, Panjenengan punika ingkang Maha Perkasa lan Maha Wicaksana.”
+**5:118** Menawi Panjenengan nyiksa piyambakipun, piyambakipun punika abdi-abdi Panjenengan; ananging menawi Panjenengan ngapunten piyambakipun, Panjenengan punika ingkang Maha Perkasa lan Maha Wicaksana."
 
 إِن تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ ۖ وَإِن تَغْفِرْ لَهُمْ فَإِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**5:119** Gusti Allah badhé ngendika, “Puniki Dinten nalika tiyang-tiyang ingkang leres badhé pikantuk manfaat saking kaleresanipun.” Piyambakipun badhé gadhah Taman-taman ingkang ing ngandhapipun kali-kali mili, ing ngriku piyambakipun badhé tetep salaminipun. Gusti Allah remen dhumateng piyambakipun, lan piyambakipun remen dhumateng Panjenenganipun. Punika kamenangan ingkang ageng.
+**5:119** Gusti Allah badhé ngendika, "Puniki Dinten nalika tiyang-tiyang ingkang leres badhé pikantuk manfaat saking kaleresanipun." Piyambakipun badhé gadhah Taman-taman ingkang ing ngandhapipun kali-kali mili, ing ngriku piyambakipun badhé tetep salaminipun. Gusti Allah remen dhumateng piyambakipun, lan piyambakipun remen dhumateng Panjenenganipun. Punika kamenangan ingkang ageng.
 
 قَالَ ٱللَّهُ هَٰذَا يَوْمُ يَنفَعُ ٱلصَّٰدِقِينَ صِدْقُهُمْ ۚ لَهُمْ جَنَّٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًۭا ۚ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
@@ -3386,11 +3386,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَلَمْ يَرَوْا۟ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍۢ مَّكَّنَّٰهُمْ فِى ٱلْأَرْضِ مَا لَمْ نُمَكِّن لَّكُمْ وَأَرْسَلْنَا ٱلسَّمَآءَ عَلَيْهِم مِّدْرَارًۭا وَجَعَلْنَا ٱلْأَنْهَٰرَ تَجْرِى مِن تَحْتِهِمْ فَأَهْلَكْنَٰهُم بِذُنُوبِهِمْ وَأَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ
 
-**6:7** Menawi Kula sampun nurunaken Kitab ing kertas dhumateng panjenengan, lan piyambakipun sampun nggrayang mawi tanganipun, tiyang-tiyang ingkang kafir badhé ngendika, “Puniki namung sihir ingkang cetha.”
+**6:7** Menawi Kula sampun nurunaken Kitab ing kertas dhumateng panjenengan, lan piyambakipun sampun nggrayang mawi tanganipun, tiyang-tiyang ingkang kafir badhé ngendika, "Puniki namung sihir ingkang cetha."
 
 وَلَوْ نَزَّلْنَا عَلَيْكَ كِتَٰبًۭا فِى قِرْطَاسٍۢ فَلَمَسُوهُ بِأَيْدِيهِمْ لَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌۭ
 
-**6:8** Lan piyambakipun ngendika, “Kenging punapa malaikat mboten dipunturunaken dhumateng piyambakipun.” Menawi Kula sampun nurunaken malaikat, prakawis punika badhé rampung, lan piyambakipun mboten badhé dipuntanggelaken.
+**6:8** Lan piyambakipun ngendika, "Kenging punapa malaikat mboten dipunturunaken dhumateng piyambakipun." Menawi Kula sampun nurunaken malaikat, prakawis punika badhé rampung, lan piyambakipun mboten badhé dipuntanggelaken.
 
 وَقَالُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ مَلَكٌۭ ۖ وَلَوْ أَنزَلْنَا مَلَكًۭا لَّقُضِىَ ٱلْأَمْرُ ثُمَّ لَا يُنظَرُونَ
 
@@ -3402,11 +3402,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍۢ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**6:11** Ngendikakna, “Lelungan ing bumi lan mirsani pungkasanipun tiyang-tiyang ingkang nolak.”
+**6:11** Ngendikakna, "Lelungan ing bumi lan mirsani pungkasanipun tiyang-tiyang ingkang nolak."
 
 قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ ثُمَّ ٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُكَذِّبِينَ
 
-**6:12** Ngendikakna, “Dhumateng sinten kagunganipun punapa ingkang wonten ing langit lan bumi?” Ngendikakna, “Dhumateng Gusti Allah.” Panjenenganipun sampun nyerat kanggé Panjenenganipun piyambak welas asih. Panjenenganipun badhé ngempalaken panjenengan dhumateng Dinten Kiamat, ingkang mboten wonten keraguan ing lebetipun. Tiyang-tiyang ingkang kelangan jiwanipun mboten pitados.
+**6:12** Ngendikakna, "Dhumateng sinten kagunganipun punapa ingkang wonten ing langit lan bumi?" Ngendikakna, "Dhumateng Gusti Allah." Panjenenganipun sampun nyerat kanggé Panjenenganipun piyambak welas asih. Panjenenganipun badhé ngempalaken panjenengan dhumateng Dinten Kiamat, ingkang mboten wonten keraguan ing lebetipun. Tiyang-tiyang ingkang kelangan jiwanipun mboten pitados.
 
 قُل لِّمَن مَّا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ قُل لِّلَّهِ ۚ كَتَبَ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَا رَيْبَ فِيهِ ۚ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ
 
@@ -3414,11 +3414,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ۞ وَلَهُۥ مَا سَكَنَ فِى ٱلَّيْلِ وَٱلنَّهَارِ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
-**6:14** Ngendikakna, “ Punapa kula kedah mendhet kanggé kula pangayoman kejawi Gusti Allah, ingkang Nyipta langit lan bumi, lan Panjenenganipun maringi nedha lan mboten dipunparingi nedha?” Ngendikakna, “Kula dipundhawuhi dados ingkang wiwitan saking tiyang-tiyang ingkang pasrah.” Lan sampun ngantos dados antawis penyembah berhala.
+**6:14** Ngendikakna, " Punapa kula kedah mendhet kanggé kula pangayoman kejawi Gusti Allah, ingkang Nyipta langit lan bumi, lan Panjenenganipun maringi nedha lan mboten dipunparingi nedha?" Ngendikakna, "Kula dipundhawuhi dados ingkang wiwitan saking tiyang-tiyang ingkang pasrah." Lan sampun ngantos dados antawis penyembah berhala.
 
 قُلْ أَغَيْرَ ٱللَّهِ أَتَّخِذُ وَلِيًّۭا فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ يُطْعِمُ وَلَا يُطْعَمُ ۗ قُلْ إِنِّىٓ أُمِرْتُ أَنْ أَكُونَ أَوَّلَ مَنْ أَسْلَمَ ۖ وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ
 
-**6:15** Ngendikakna, “Kula ajrih, menawi kula mbangkang dhumateng Pangeran kula, siksa Dinten ingkang nggegirisi.”
+**6:15** Ngendikakna, "Kula ajrih, menawi kula mbangkang dhumateng Pangeran kula, siksa Dinten ingkang nggegirisi."
 
 قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍۢ
 
@@ -3434,7 +3434,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَهُوَ ٱلْقَاهِرُ فَوْقَ عِبَادِهِۦ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ
 
-**6:19** Ngendikakna, “Samukawis punapa ingkang paling khidmat ing paseksi?” Ngendikakna, “Gusti Allah punika Saksi antawis panjenengan lan kula. Quran puniki sampun dipunwahyukaken dhumateng kula, supados kula saged ngengetaken panjenengan mawi punika, lan sinten kemawon ingkang saged dipundumugi. Punapa panjenengan saèstu nyekseni bilih wonten déwa sanès sesarengan kaliyan Gusti Allah?” Ngendikakna, “Kula piyambak mboten nyekseni.” Ngendikakna, “Panjenenganipun namung Gusti Allah ingkang Setunggal, lan kula murni saking penyembahan berhala panjenengan.”
+**6:19** Ngendikakna, "Samukawis punapa ingkang paling khidmat ing paseksi?" Ngendikakna, "Gusti Allah punika Saksi antawis panjenengan lan kula. Quran puniki sampun dipunwahyukaken dhumateng kula, supados kula saged ngengetaken panjenengan mawi punika, lan sinten kemawon ingkang saged dipundumugi. Punapa panjenengan saèstu nyekseni bilih wonten déwa sanès sesarengan kaliyan Gusti Allah?" Ngendikakna, "Kula piyambak mboten nyekseni." Ngendikakna, "Panjenenganipun namung Gusti Allah ingkang Setunggal, lan kula murni saking penyembahan berhala panjenengan."
 
 قُلْ أَىُّ شَىْءٍ أَكْبَرُ شَهَٰدَةًۭ ۖ قُلِ ٱللَّهُ ۖ شَهِيدٌۢ بَيْنِى وَبَيْنَكُمْ ۚ وَأُوحِىَ إِلَىَّ هَٰذَا ٱلْقُرْءَانُ لِأُنذِرَكُم بِهِۦ وَمَنۢ بَلَغَ ۚ أَئِنَّكُمْ لَتَشْهَدُونَ أَنَّ مَعَ ٱللَّهِ ءَالِهَةً أُخْرَىٰ ۚ قُل لَّآ أَشْهَدُ ۚ قُلْ إِنَّمَا هُوَ إِلَٰهٌۭ وَٰحِدٌۭ وَإِنَّنِى بَرِىٓءٌۭ مِّمَّا تُشْرِكُونَ
 
@@ -3446,11 +3446,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِـَٔايَٰتِهِۦٓ ۗ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
 
-**6:22** Ing Dinten nalika Kula ngempalaken piyambakipun sedaya sesarengan, lajeng ngendika dhumateng penyembah berhala, “Ing pundi berhala-berhala panjenengan, ingkang piyambakipun biyasa panjenengan ngakoni?”
+**6:22** Ing Dinten nalika Kula ngempalaken piyambakipun sedaya sesarengan, lajeng ngendika dhumateng penyembah berhala, "Ing pundi berhala-berhala panjenengan, ingkang piyambakipun biyasa panjenengan ngakoni?"
 
 وَيَوْمَ نَحْشُرُهُمْ جَمِيعًۭا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوٓا۟ أَيْنَ شُرَكَآؤُكُمُ ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ
 
-**6:23** Lajeng dalih piyambakipun namung badhé ngendika, “Demi Gusti Allah, Pangeran kula, kula sanès penyembah berhala.”
+**6:23** Lajeng dalih piyambakipun namung badhé ngendika, "Demi Gusti Allah, Pangeran kula, kula sanès penyembah berhala."
 
 ثُمَّ لَمْ تَكُن فِتْنَتُهُمْ إِلَّآ أَن قَالُوا۟ وَٱللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ
 
@@ -3458,7 +3458,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ٱنظُرْ كَيْفَ كَذَبُوا۟ عَلَىٰٓ أَنفُسِهِمْ ۚ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ
 
-**6:25** Ing antawisipun wonten tiyang ingkang mirengaken panjenengan; ananging Kula ndadosaken tutup ing nginggilipun manahipun, saperlu ngalangi piyambakipun saking mangertos punika, lan abot ing kupingipun. Sanajan piyambakipun mirsani saben pratandha, piyambakipun mboten badhé pitados dhumateng punika. Ngantos, nalika piyambakipun rawuh dhumateng panjenengan, saperlu mbantah panjenengan, tiyang-tiyang ingkang kafir badhé ngendika, “Puniki namung dongengipun tiyang kuna.”
+**6:25** Ing antawisipun wonten tiyang ingkang mirengaken panjenengan; ananging Kula ndadosaken tutup ing nginggilipun manahipun, saperlu ngalangi piyambakipun saking mangertos punika, lan abot ing kupingipun. Sanajan piyambakipun mirsani saben pratandha, piyambakipun mboten badhé pitados dhumateng punika. Ngantos, nalika piyambakipun rawuh dhumateng panjenengan, saperlu mbantah panjenengan, tiyang-tiyang ingkang kafir badhé ngendika, "Puniki namung dongengipun tiyang kuna."
 
 وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ ۖ وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًۭا ۚ وَإِن يَرَوْا۟ كُلَّ ءَايَةٍۢ لَّا يُؤْمِنُوا۟ بِهَا ۚ حَتَّىٰٓ إِذَا جَآءُوكَ يُجَٰدِلُونَكَ يَقُولُ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
@@ -3466,7 +3466,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَهُمْ يَنْهَوْنَ عَنْهُ وَيَنْـَٔوْنَ عَنْهُ ۖ وَإِن يُهْلِكُونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ
 
-**6:27** Menawi kemawon panjenengan saged mirsani, nalika piyambakipun dipundadosaken jumeneng ing ngajengipun Geni; piyambakipun badhé ngendika, “Menawi kemawon kula saged dipunwangsulaken, lan mboten nolak wahyu-wahyuni­pun Pangeran kula, lan dados antawis tiyang ingkang setya.”
+**6:27** Menawi kemawon panjenengan saged mirsani, nalika piyambakipun dipundadosaken jumeneng ing ngajengipun Geni; piyambakipun badhé ngendika, "Menawi kemawon kula saged dipunwangsulaken, lan mboten nolak wahyu-wahyuni­pun Pangeran kula, lan dados antawis tiyang ingkang setya."
 
 وَلَوْ تَرَىٰٓ إِذْ وُقِفُوا۟ عَلَى ٱلنَّارِ فَقَالُوا۟ يَٰلَيْتَنَا نُرَدُّ وَلَا نُكَذِّبَ بِـَٔايَٰتِ رَبِّنَا وَنَكُونَ مِنَ ٱلْمُؤْمِنِينَ
 
@@ -3474,15 +3474,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 بَلْ بَدَا لَهُم مَّا كَانُوا۟ يُخْفُونَ مِن قَبْلُ ۖ وَلَوْ رُدُّوا۟ لَعَادُوا۟ لِمَا نُهُوا۟ عَنْهُ وَإِنَّهُمْ لَكَٰذِبُونَ
 
-**6:29** Lan piyambakipun ngendika, “Mboten wonten kejawi gesang kula ing donya puniki, lan kula mboten badhé dipunwungokaken.”
+**6:29** Lan piyambakipun ngendika, "Mboten wonten kejawi gesang kula ing donya puniki, lan kula mboten badhé dipunwungokaken."
 
 وَقَالُوٓا۟ إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ
 
-**6:30** Menawi kemawon panjenengan saged mirsani, nalika piyambakipun dipunpanggenaken ing ngajengipun Pangeranipun. Panjenenganipun badhé ngendika, “ Punapa puniki sanès nyata?” Piyambakipun badhé ngendika, “Inggih tamtu, demi Pangeran kula.” Panjenenganipun badhé ngendika, “Pramila rasanana siksa amargi sampun kafir.”
+**6:30** Menawi kemawon panjenengan saged mirsani, nalika piyambakipun dipunpanggenaken ing ngajengipun Pangeranipun. Panjenenganipun badhé ngendika, " Punapa puniki sanès nyata?" Piyambakipun badhé ngendika, "Inggih tamtu, demi Pangeran kula." Panjenenganipun badhé ngendika, "Pramila rasanana siksa amargi sampun kafir."
 
 وَلَوْ تَرَىٰٓ إِذْ وُقِفُوا۟ عَلَىٰ رَبِّهِمْ ۚ قَالَ أَلَيْسَ هَٰذَا بِٱلْحَقِّ ۚ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
 
-**6:31** Kapitunan tiyang-tiyang ingkang nolak patemon kaliyan Gusti Allah. Lajeng, nalika Wanci dhateng dhumateng piyambakipun dumadakan, piyambakipun badhé ngendika, “Bilai kula, kados pundi kula sampun nglirwakaken punika.” Lan piyambakipun badhé nyanggi bebanipun ing gegeripun—ala punapa ingkang piyambakipun sanggi.
+**6:31** Kapitunan tiyang-tiyang ingkang nolak patemon kaliyan Gusti Allah. Lajeng, nalika Wanci dhateng dhumateng piyambakipun dumadakan, piyambakipun badhé ngendika, "Bilai kula, kados pundi kula sampun nglirwakaken punika." Lan piyambakipun badhé nyanggi bebanipun ing gegeripun—ala punapa ingkang piyambakipun sanggi.
 
 قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ ۖ حَتَّىٰٓ إِذَا جَآءَتْهُمُ ٱلسَّاعَةُ بَغْتَةًۭ قَالُوا۟ يَٰحَسْرَتَنَا عَلَىٰ مَا فَرَّطْنَا فِيهَا وَهُمْ يَحْمِلُونَ أَوْزَارَهُمْ عَلَىٰ ظُهُورِهِمْ ۚ أَلَا سَآءَ مَا يَزِرُونَ
 
@@ -3506,7 +3506,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ۞ إِنَّمَا يَسْتَجِيبُ ٱلَّذِينَ يَسْمَعُونَ ۘ وَٱلْمَوْتَىٰ يَبْعَثُهُمُ ٱللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ
 
-**6:37** Lan piyambakipun ngendika, “Menawi kemawon pratandha saged tumurun dhumateng piyambakipun saking Pangeranipun.” Ngendikakna, “Gusti Allah Kuwaos nurunaken pratandha, ananging kathah saking piyambakipun mboten pirsa.”
+**6:37** Lan piyambakipun ngendika, "Menawi kemawon pratandha saged tumurun dhumateng piyambakipun saking Pangeranipun." Ngendikakna, "Gusti Allah Kuwaos nurunaken pratandha, ananging kathah saking piyambakipun mboten pirsa."
 
 وَقَالُوا۟ لَوْلَا نُزِّلَ عَلَيْهِ ءَايَةٌۭ مِّن رَّبِّهِۦ ۚ قُلْ إِنَّ ٱللَّهَ قَادِرٌ عَلَىٰٓ أَن يُنَزِّلَ ءَايَةًۭ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 
@@ -3518,7 +3518,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا صُمٌّۭ وَبُكْمٌۭ فِى ٱلظُّلُمَٰتِ ۗ مَن يَشَإِ ٱللَّهُ يُضْلِلْهُ وَمَن يَشَأْ يَجْعَلْهُ عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
 
-**6:40** Ngendikakna, “ Punapa panjenengan sampun nimbang? menawi siksa­Nipun Gusti Allah dhateng dhumateng panjenengan, utawi Wanci nyusul panjenengan, punapa panjenengan badhé nyeluk sanès kejawi Gusti Allah, menawi panjenengan tulus?”
+**6:40** Ngendikakna, " Punapa panjenengan sampun nimbang? menawi siksa­Nipun Gusti Allah dhateng dhumateng panjenengan, utawi Wanci nyusul panjenengan, punapa panjenengan badhé nyeluk sanès kejawi Gusti Allah, menawi panjenengan tulus?"
 
 قُلْ أَرَءَيْتَكُمْ إِنْ أَتَىٰكُمْ عَذَابُ ٱللَّهِ أَوْ أَتَتْكُمُ ٱلسَّاعَةُ أَغَيْرَ ٱللَّهِ تَدْعُونَ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -3542,11 +3542,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَقُطِعَ دَابِرُ ٱلْقَوْمِ ٱلَّذِينَ ظَلَمُوا۟ ۚ وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
-**6:46** Ngendikakna, “ Punapa panjenengan sampun nimbang? Menawi Gusti Allah mundhut pangrungu lan paningal panjenengan, lan ndadosaken segel ing manah panjenengan, déwa punapa kejawi Gusti Allah ingkang badhé ngwangsulaken dhumateng panjenengan?” Cateta kados pundi Kula njlentrehaken wahyu-wahyu mawi maneka cara, nanging piyambakipun tetep nyimpang.
+**6:46** Ngendikakna, " Punapa panjenengan sampun nimbang? Menawi Gusti Allah mundhut pangrungu lan paningal panjenengan, lan ndadosaken segel ing manah panjenengan, déwa punapa kejawi Gusti Allah ingkang badhé ngwangsulaken dhumateng panjenengan?" Cateta kados pundi Kula njlentrehaken wahyu-wahyu mawi maneka cara, nanging piyambakipun tetep nyimpang.
 
 قُلْ أَرَءَيْتُمْ إِنْ أَخَذَ ٱللَّهُ سَمْعَكُمْ وَأَبْصَٰرَكُمْ وَخَتَمَ عَلَىٰ قُلُوبِكُم مَّنْ إِلَٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِهِ ۗ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْءَايَٰتِ ثُمَّ هُمْ يَصْدِفُونَ
 
-**6:47** Ngendikakna, “ Punapa panjenengan sampun nimbang? menawi siksa­Nipun Gusti Allah tumurun dhumateng panjenengan dumadakan utawi mbaka sekedhik, punapa wonten ingkang badhé dipunbirwakaken kejawi tiyang-tiyang ingkang tumindak salah?”
+**6:47** Ngendikakna, " Punapa panjenengan sampun nimbang? menawi siksa­Nipun Gusti Allah tumurun dhumateng panjenengan dumadakan utawi mbaka sekedhik, punapa wonten ingkang badhé dipunbirwakaken kejawi tiyang-tiyang ingkang tumindak salah?"
 
 قُلْ أَرَءَيْتَكُمْ إِنْ أَتَىٰكُمْ عَذَابُ ٱللَّهِ بَغْتَةً أَوْ جَهْرَةً هَلْ يُهْلَكُ إِلَّا ٱلْقَوْمُ ٱلظَّٰلِمُونَ
 
@@ -3558,7 +3558,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا يَمَسُّهُمُ ٱلْعَذَابُ بِمَا كَانُوا۟ يَفْسُقُونَ
 
-**6:50** Ngendikakna, “Kula mboten ngendika dhumateng panjenengan bilih kula gadhah bandha­Nipun Gusti Allah, lan kula mboten pirsa mangsa ngajeng, lan kula mboten ngendika dhumateng panjenengan bilih kula punika malaikat. Kula namung ndhèrèki punapa ingkang dipunilhamaken dhumateng kula.” Ngendikakna, “ Punapa tiyang wuta lan tiyang ingkang mirsani punika sami? Punapa panjenengan mboten mikir?”
+**6:50** Ngendikakna, "Kula mboten ngendika dhumateng panjenengan bilih kula gadhah bandha­Nipun Gusti Allah, lan kula mboten pirsa mangsa ngajeng, lan kula mboten ngendika dhumateng panjenengan bilih kula punika malaikat. Kula namung ndhèrèki punapa ingkang dipunilhamaken dhumateng kula." Ngendikakna, " Punapa tiyang wuta lan tiyang ingkang mirsani punika sami? Punapa panjenengan mboten mikir?"
 
 قُل لَّآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ وَلَآ أَقُولُ لَكُمْ إِنِّى مَلَكٌ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ ۚ أَفَلَا تَتَفَكَّرُونَ
 
@@ -3570,11 +3570,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَا تَطْرُدِ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ مَا عَلَيْكَ مِنْ حِسَابِهِم مِّن شَىْءٍۢ وَمَا مِنْ حِسَابِكَ عَلَيْهِم مِّن شَىْءٍۢ فَتَطْرُدَهُمْ فَتَكُونَ مِنَ ٱلظَّٰلِمِينَ
 
-**6:53** Mekaten Kula nguji saperangan saking piyambakipun mawi sanèsipun, supados piyambakipun saged ngendika, “ Punapa piyambakipun punika ingkang Gusti Allah sampun paringi kanugrahan saking antawis kula?” Punapa Gusti Allah mboten pirsa tiyang-tiyang ingkang ngaturaken panuwun?
+**6:53** Mekaten Kula nguji saperangan saking piyambakipun mawi sanèsipun, supados piyambakipun saged ngendika, " Punapa piyambakipun punika ingkang Gusti Allah sampun paringi kanugrahan saking antawis kula?" Punapa Gusti Allah mboten pirsa tiyang-tiyang ingkang ngaturaken panuwun?
 
 وَكَذَٰلِكَ فَتَنَّا بَعْضَهُم بِبَعْضٍۢ لِّيَقُولُوٓا۟ أَهَٰٓؤُلَآءِ مَنَّ ٱللَّهُ عَلَيْهِم مِّنۢ بَيْنِنَآ ۗ أَلَيْسَ ٱللَّهُ بِأَعْلَمَ بِٱلشَّٰكِرِينَ
 
-**6:54** Nalika tiyang-tiyang ingkang pitados dhumateng wahyu-wahyu Kula rawuh dhumateng panjenengan, ngendikakna, “Katentreman dhumateng panjenengan, Pangeran panjenengan sampun nemtokaken welas asih kanggé Panjenenganipun piyambak. Sinten kemawon ing antawis panjenengan ingkang tumindak salah amargi kabodhoan, lan lajeng tobat sasampunipun lan ndandosi—Panjenenganipun punika Maha Ngapunten lan Maha Asih.”
+**6:54** Nalika tiyang-tiyang ingkang pitados dhumateng wahyu-wahyu Kula rawuh dhumateng panjenengan, ngendikakna, "Katentreman dhumateng panjenengan, Pangeran panjenengan sampun nemtokaken welas asih kanggé Panjenenganipun piyambak. Sinten kemawon ing antawis panjenengan ingkang tumindak salah amargi kabodhoan, lan lajeng tobat sasampunipun lan ndandosi—Panjenenganipun punika Maha Ngapunten lan Maha Asih."
 
 وَإِذَا جَآءَكَ ٱلَّذِينَ يُؤْمِنُونَ بِـَٔايَٰتِنَا فَقُلْ سَلَٰمٌ عَلَيْكُمْ ۖ كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۖ أَنَّهُۥ مَنْ عَمِلَ مِنكُمْ سُوٓءًۢا بِجَهَٰلَةٍۢ ثُمَّ تَابَ مِنۢ بَعْدِهِۦ وَأَصْلَحَ فَأَنَّهُۥ غَفُورٌۭ رَّحِيمٌۭ
 
@@ -3582,15 +3582,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَكَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ وَلِتَسْتَبِينَ سَبِيلُ ٱلْمُجْرِمِينَ
 
-**6:56** Ngendikakna, “Kula dipunlarang nyembah tiyang-tiyang ingkang panjenengan sembah kejawi Gusti Allah.” Ngendikakna, “Kula mboten badhé ndhèrèki kepénginan panjenengan; yen mboten kula badhé kesasar lan mboten dados saking tiyang ingkang dipuntuntun.”
+**6:56** Ngendikakna, "Kula dipunlarang nyembah tiyang-tiyang ingkang panjenengan sembah kejawi Gusti Allah." Ngendikakna, "Kula mboten badhé ndhèrèki kepénginan panjenengan; yen mboten kula badhé kesasar lan mboten dados saking tiyang ingkang dipuntuntun."
 
 قُلْ إِنِّى نُهِيتُ أَنْ أَعْبُدَ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ ۚ قُل لَّآ أَتَّبِعُ أَهْوَآءَكُمْ ۙ قَدْ ضَلَلْتُ إِذًۭا وَمَآ أَنَا۠ مِنَ ٱلْمُهْتَدِينَ
 
-**6:57** Ngendikakna, “Kula jumeneng ing bukti ingkang cetha saking Pangeran kula, lan panjenengan sampun nolak Panjenenganipun. Kula mboten gadhah punapa ingkang panjenengan upayakan kula rikataken; kaputusan namung kagunganipun Gusti Allah. Panjenenganipun ngendikakaken kaleresan, lan Panjenenganipun punika ingkang Paling Saé saking para Hakim.”
+**6:57** Ngendikakna, "Kula jumeneng ing bukti ingkang cetha saking Pangeran kula, lan panjenengan sampun nolak Panjenenganipun. Kula mboten gadhah punapa ingkang panjenengan upayakan kula rikataken; kaputusan namung kagunganipun Gusti Allah. Panjenenganipun ngendikakaken kaleresan, lan Panjenenganipun punika ingkang Paling Saé saking para Hakim."
 
 قُلْ إِنِّى عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَكَذَّبْتُم بِهِۦ ۚ مَا عِندِى مَا تَسْتَعْجِلُونَ بِهِۦٓ ۚ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۖ يَقُصُّ ٱلْحَقَّ ۖ وَهُوَ خَيْرُ ٱلْفَٰصِلِينَ
 
-**6:58** Ngendikakna, “Menawi kula gadhah punapa ingkang panjenengan upayakan kula rikataken, prakawis antawis panjenengan lan kula badhé sampun rampung. Gusti Allah pirsa sanget tiyang-tiyang ingkang mboten adil.”
+**6:58** Ngendikakna, "Menawi kula gadhah punapa ingkang panjenengan upayakan kula rikataken, prakawis antawis panjenengan lan kula badhé sampun rampung. Gusti Allah pirsa sanget tiyang-tiyang ingkang mboten adil."
 
 قُل لَّوْ أَنَّ عِندِى مَا تَسْتَعْجِلُونَ بِهِۦ لَقُضِىَ ٱلْأَمْرُ بَيْنِى وَبَيْنَكُمْ ۗ وَٱللَّهُ أَعْلَمُ بِٱلظَّٰلِمِينَ
 
@@ -3610,19 +3610,19 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ثُمَّ رُدُّوٓا۟ إِلَى ٱللَّهِ مَوْلَىٰهُمُ ٱلْحَقِّ ۚ أَلَا لَهُ ٱلْحُكْمُ وَهُوَ أَسْرَعُ ٱلْحَٰسِبِينَ
 
-**6:63** Ngendikakna, “Sinten ingkang nylametaken panjenengan saking pepeteng dharat lan segara?” Panjenengan nyeluk Panjenenganipun kanthi andhap asor lan ing lebet: “Menawi Panjenenganipun nylametaken kula saking puniki, Kula tamtu badhé dados antawis tiyang ingkang ngaturaken panuwun.”
+**6:63** Ngendikakna, "Sinten ingkang nylametaken panjenengan saking pepeteng dharat lan segara?" Panjenengan nyeluk Panjenenganipun kanthi andhap asor lan ing lebet: "Menawi Panjenenganipun nylametaken kula saking puniki, Kula tamtu badhé dados antawis tiyang ingkang ngaturaken panuwun."
 
 قُلْ مَن يُنَجِّيكُم مِّن ظُلُمَٰتِ ٱلْبَرِّ وَٱلْبَحْرِ تَدْعُونَهُۥ تَضَرُّعًۭا وَخُفْيَةًۭ لَّئِنْ أَنجَىٰنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
 
-**6:64** Ngendikakna, “Gusti Allah ingkang nylametaken panjenengan saking punika, lan saking saben bencana. Nanging lajeng panjenengan nyekutokaken sanès kaliyan Panjenenganipun.”
+**6:64** Ngendikakna, "Gusti Allah ingkang nylametaken panjenengan saking punika, lan saking saben bencana. Nanging lajeng panjenengan nyekutokaken sanès kaliyan Panjenenganipun."
 
 قُلِ ٱللَّهُ يُنَجِّيكُم مِّنْهَا وَمِن كُلِّ كَرْبٍۢ ثُمَّ أَنتُمْ تُشْرِكُونَ
 
-**6:65** Ngendikakna, “Panjenenganipun Kuwaos ngirim dhumateng panjenengan kasangsaran, saking nginggil panjenengan, utawi saking ngandhap suku panjenengan. Utawi Panjenenganipun saged mbagi panjenengan dados golongan-golongan, lan ndadosaken panjenengan ngrasakaken kekerasan satunggal lan sanèsipun. Cateta kados pundi Kula njlentrehaken wahyu-wahyu, supados piyambakipun saged mangertos.”
+**6:65** Ngendikakna, "Panjenenganipun Kuwaos ngirim dhumateng panjenengan kasangsaran, saking nginggil panjenengan, utawi saking ngandhap suku panjenengan. Utawi Panjenenganipun saged mbagi panjenengan dados golongan-golongan, lan ndadosaken panjenengan ngrasakaken kekerasan satunggal lan sanèsipun. Cateta kados pundi Kula njlentrehaken wahyu-wahyu, supados piyambakipun saged mangertos."
 
 قُلْ هُوَ ٱلْقَادِرُ عَلَىٰٓ أَن يَبْعَثَ عَلَيْكُمْ عَذَابًۭا مِّن فَوْقِكُمْ أَوْ مِن تَحْتِ أَرْجُلِكُمْ أَوْ يَلْبِسَكُمْ شِيَعًۭا وَيُذِيقَ بَعْضَكُم بَأْسَ بَعْضٍ ۗ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْءَايَٰتِ لَعَلَّهُمْ يَفْقَهُونَ
 
-**6:66** Ananging kaum panjenengan nolak punika, sanajan punika kaleresan. Ngendikakna, “Kula mboten tanggung jawab tumrap panjenengan.”
+**6:66** Ananging kaum panjenengan nolak punika, sanajan punika kaleresan. Ngendikakna, "Kula mboten tanggung jawab tumrap panjenengan."
 
 وَكَذَّبَ بِهِۦ قَوْمُكَ وَهُوَ ٱلْحَقُّ ۚ قُل لَّسْتُ عَلَيْكُم بِوَكِيلٍۢ
 
@@ -3642,19 +3642,19 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَذَرِ ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَهُمْ لَعِبًۭا وَلَهْوًۭا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ وَذَكِّرْ بِهِۦٓ أَن تُبْسَلَ نَفْسٌۢ بِمَا كَسَبَتْ لَيْسَ لَهَا مِن دُونِ ٱللَّهِ وَلِىٌّۭ وَلَا شَفِيعٌۭ وَإِن تَعْدِلْ كُلَّ عَدْلٍۢ لَّا يُؤْخَذْ مِنْهَآ ۗ أُو۟لَٰٓئِكَ ٱلَّذِينَ أُبْسِلُوا۟ بِمَا كَسَبُوا۟ ۖ لَهُمْ شَرَابٌۭ مِّنْ حَمِيمٍۢ وَعَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْفُرُونَ
 
-**6:71** Ngendikakna, “ Punapa kula kedah nyeluk kejawi Gusti Allah samukawis ingkang mboten saged maringi manfaat dhumateng kula lan mboten mbebayani kula, lan wangsul ing tumit kula sasampunipun Gusti Allah sampun nuntun kula; kados tiyang ingkang dipungodha déning setan-setan lan bingung ing bumi, ingkang gadhah kanca ingkang nyeluk piyambakipun dhumateng pitedah: 'Rawuha dhumateng kula'?” Ngendikakna, “Pitedahipun Gusti Allah punika pitedah, lan kula dipundhawuhi pasrah dhumateng Pangeranipun Alam Donya.”
+**6:71** Ngendikakna, " Punapa kula kedah nyeluk kejawi Gusti Allah samukawis ingkang mboten saged maringi manfaat dhumateng kula lan mboten mbebayani kula, lan wangsul ing tumit kula sasampunipun Gusti Allah sampun nuntun kula; kados tiyang ingkang dipungodha déning setan-setan lan bingung ing bumi, ingkang gadhah kanca ingkang nyeluk piyambakipun dhumateng pitedah: 'Rawuha dhumateng kula'?" Ngendikakna, "Pitedahipun Gusti Allah punika pitedah, lan kula dipundhawuhi pasrah dhumateng Pangeranipun Alam Donya."
 
 قُلْ أَنَدْعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا وَنُرَدُّ عَلَىٰٓ أَعْقَابِنَا بَعْدَ إِذْ هَدَىٰنَا ٱللَّهُ كَٱلَّذِى ٱسْتَهْوَتْهُ ٱلشَّيَٰطِينُ فِى ٱلْأَرْضِ حَيْرَانَ لَهُۥٓ أَصْحَٰبٌۭ يَدْعُونَهُۥٓ إِلَى ٱلْهُدَى ٱئْتِنَا ۗ قُلْ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلْهُدَىٰ ۖ وَأُمِرْنَا لِنُسْلِمَ لِرَبِّ ٱلْعَٰلَمِينَ
 
-**6:72** “Lan saperlu nindakaken salat, lan ajrih dhumateng Panjenenganipun; dhumateng Panjenenganipun panjenengan badhé dipunkempalaken.”
+**6:72** "Lan saperlu nindakaken salat, lan ajrih dhumateng Panjenenganipun; dhumateng Panjenenganipun panjenengan badhé dipunkempalaken."
 
 وَأَنْ أَقِيمُوا۟ ٱلصَّلَوٰةَ وَٱتَّقُوهُ ۚ وَهُوَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ
 
-**6:73** Panjenenganipun ingkang nyipta langit lan bumi kanthi leres. Ing Dinten nalika Panjenenganipun ngendika: “Dadosa,” punika badhé dados. Pangandikanipun punika kaleresan, lan kagunganipun Panjenenganipun panguwaos ing Dinten nalika slomprèt dipunsebuli. Ingkang Pirsa wewadi lan wedharan. Panjenenganipun punika ingkang Maha Wicaksana, ingkang Maha Ahli.
+**6:73** Panjenenganipun ingkang nyipta langit lan bumi kanthi leres. Ing Dinten nalika Panjenenganipun ngendika: "Dadosa," punika badhé dados. Pangandikanipun punika kaleresan, lan kagunganipun Panjenenganipun panguwaos ing Dinten nalika slomprèt dipunsebuli. Ingkang Pirsa wewadi lan wedharan. Panjenenganipun punika ingkang Maha Wicaksana, ingkang Maha Ahli.
 
 وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۖ وَيَوْمَ يَقُولُ كُن فَيَكُونُ ۚ قَوْلُهُ ٱلْحَقُّ ۚ وَلَهُ ٱلْمُلْكُ يَوْمَ يُنفَخُ فِى ٱلصُّورِ ۚ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ
 
-**6:74** Ibrahim ngendika dhumateng bapakipun Azar, “ Punapa panjenengan mendhet berhala dados déwa? Kula mirsani bilih panjenengan lan kaum panjenengan wonten ing kalepatan ingkang cetha.”
+**6:74** Ibrahim ngendika dhumateng bapakipun Azar, " Punapa panjenengan mendhet berhala dados déwa? Kula mirsani bilih panjenengan lan kaum panjenengan wonten ing kalepatan ingkang cetha."
 
 ۞ وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصْنَامًا ءَالِهَةً ۖ إِنِّىٓ أَرَىٰكَ وَقَوْمَكَ فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
@@ -3662,27 +3662,27 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ
 
-**6:76** Nalika dalu nutupi piyambakipun, piyambakipun mirsani planet. Piyambakipun ngendika, “Puniki pangeran kula.” Ananging nalika punika surup, piyambakipun ngendika, “Kula mboten remen ingkang surup.”
+**6:76** Nalika dalu nutupi piyambakipun, piyambakipun mirsani planet. Piyambakipun ngendika, "Puniki pangeran kula." Ananging nalika punika surup, piyambakipun ngendika, "Kula mboten remen ingkang surup."
 
 فَلَمَّا جَنَّ عَلَيْهِ ٱلَّيْلُ رَءَا كَوْكَبًۭا ۖ قَالَ هَٰذَا رَبِّى ۖ فَلَمَّآ أَفَلَ قَالَ لَآ أُحِبُّ ٱلْءَافِلِينَ
 
-**6:77** Lajeng, nalika piyambakipun mirsani rembulan mlethek, piyambakipun ngendika, “Puniki pangeran kula.” Ananging nalika punika surup, piyambakipun ngendika, “Menawi Pangeran kula mboten nuntun kula, kula badhé dados salah satunggal saking tiyang ingkang kesasar.”
+**6:77** Lajeng, nalika piyambakipun mirsani rembulan mlethek, piyambakipun ngendika, "Puniki pangeran kula." Ananging nalika punika surup, piyambakipun ngendika, "Menawi Pangeran kula mboten nuntun kula, kula badhé dados salah satunggal saking tiyang ingkang kesasar."
 
 فَلَمَّا رَءَا ٱلْقَمَرَ بَازِغًۭا قَالَ هَٰذَا رَبِّى ۖ فَلَمَّآ أَفَلَ قَالَ لَئِن لَّمْ يَهْدِنِى رَبِّى لَأَكُونَنَّ مِنَ ٱلْقَوْمِ ٱلضَّآلِّينَ
 
-**6:78** Lajeng, nalika piyambakipun mirsani surya mlethek, piyambakipun ngendika, “Puniki pangeran kula, puniki langkung ageng.” Ananging nalika punika surup, piyambakipun ngendika, “Dhuh kaum kula, kula murni saking penyembahan berhala panjenengan.
+**6:78** Lajeng, nalika piyambakipun mirsani surya mlethek, piyambakipun ngendika, "Puniki pangeran kula, puniki langkung ageng." Ananging nalika punika surup, piyambakipun ngendika, "Dhuh kaum kula, kula murni saking penyembahan berhala panjenengan.
 
 فَلَمَّا رَءَا ٱلشَّمْسَ بَازِغَةًۭ قَالَ هَٰذَا رَبِّى هَٰذَآ أَكْبَرُ ۖ فَلَمَّآ أَفَلَتْ قَالَ يَٰقَوْمِ إِنِّى بَرِىٓءٌۭ مِّمَّا تُشْرِكُونَ
 
-**6:79** Kula sampun ngeneraken kawigatosan kula dhumateng Panjenenganipun ingkang nyipta langit lan bumi—monoteis—lan kula sanès saking penyembah berhala.”
+**6:79** Kula sampun ngeneraken kawigatosan kula dhumateng Panjenenganipun ingkang nyipta langit lan bumi—monoteis—lan kula sanès saking penyembah berhala."
 
 إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ حَنِيفًۭا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ
 
-**6:80** Lan kaumipun mbantah piyambakipun. Piyambakipun ngendika, “ Punapa panjenengan mbantah kula bab Gusti Allah, nalika Panjenenganipun sampun nuntun kula? Kula mboten ajrih punapa ingkang panjenengan sekutokaken kaliyan Panjenenganipun, kejawi Pangeran kula kersa. Pangeran kula ngliputi sedaya samukawis ing kawruh. Punapa panjenengan mboten badhé nimbang malih?
+**6:80** Lan kaumipun mbantah piyambakipun. Piyambakipun ngendika, " Punapa panjenengan mbantah kula bab Gusti Allah, nalika Panjenenganipun sampun nuntun kula? Kula mboten ajrih punapa ingkang panjenengan sekutokaken kaliyan Panjenenganipun, kejawi Pangeran kula kersa. Pangeran kula ngliputi sedaya samukawis ing kawruh. Punapa panjenengan mboten badhé nimbang malih?
 
 وَحَآجَّهُۥ قَوْمُهُۥ ۚ قَالَ أَتُحَٰٓجُّوٓنِّى فِى ٱللَّهِ وَقَدْ هَدَىٰنِ ۚ وَلَآ أَخَافُ مَا تُشْرِكُونَ بِهِۦٓ إِلَّآ أَن يَشَآءَ رَبِّى شَيْـًۭٔا ۗ وَسِعَ رَبِّى كُلَّ شَىْءٍ عِلْمًا ۗ أَفَلَا تَتَذَكَّرُونَ
 
-**6:81** Lan kenging punapa kula kedah ajrih ingkang panjenengan sekutokaken kaliyan Panjenenganipun, lan panjenengan mboten ajrih nyekutokaken sanès kaliyan Gusti Allah ingkang Panjenenganipun mboten nurunaken wewenang dhumateng panjenengan? Sisih pundi ingkang langkung gadhah hak tumrap keamanan, menawi panjenengan mangertos?”
+**6:81** Lan kenging punapa kula kedah ajrih ingkang panjenengan sekutokaken kaliyan Panjenenganipun, lan panjenengan mboten ajrih nyekutokaken sanès kaliyan Gusti Allah ingkang Panjenenganipun mboten nurunaken wewenang dhumateng panjenengan? Sisih pundi ingkang langkung gadhah hak tumrap keamanan, menawi panjenengan mangertos?"
 
 وَكَيْفَ أَخَافُ مَآ أَشْرَكْتُمْ وَلَا تَخَافُونَ أَنَّكُمْ أَشْرَكْتُم بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ عَلَيْكُمْ سُلْطَٰنًۭا ۚ فَأَىُّ ٱلْفَرِيقَيْنِ أَحَقُّ بِٱلْأَمْنِ ۖ إِن كُنتُمْ تَعْلَمُونَ
 
@@ -3718,11 +3718,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ۚ فَإِن يَكْفُرْ بِهَا هَٰٓؤُلَآءِ فَقَدْ وَكَّلْنَا بِهَا قَوْمًۭا لَّيْسُوا۟ بِهَا بِكَٰفِرِينَ
 
-**6:90** Piyambakipun punika ingkang Gusti Allah sampun nuntun, pramila ndhèrèka pitedahipun. Ngendikakna, “Kula mboten nyuwun gantos punapa-punapa saking panjenengan tumrap punika; punika namung pamenget kanggé sedaya manungsa.”
+**6:90** Piyambakipun punika ingkang Gusti Allah sampun nuntun, pramila ndhèrèka pitedahipun. Ngendikakna, "Kula mboten nyuwun gantos punapa-punapa saking panjenengan tumrap punika; punika namung pamenget kanggé sedaya manungsa."
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ هَدَى ٱللَّهُ ۖ فَبِهُدَىٰهُمُ ٱقْتَدِهْ ۗ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا ۖ إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَٰلَمِينَ
 
-**6:91** Piyambakipun mboten ngurmati Gusti Allah kados ingkang kedah dipunurmati, nalika piyambakipun ngendika, “Gusti Allah mboten nurunaken punapa-punapa dhumateng manungsa punapa kemawon.” Ngendikakna, “Sinten ingkang nurunaken Kitab ingkang Musa beta—pepadhang lan pitedah kanggé manungsa?” Panjenengan ndadosaken punika ing gulungan, nedahaken punika, nanging ngumpetaken kathah. Lan panjenengan dipunucalaken punapa ingkang panjenengan mboten pirsa—sanès panjenengan, lan sanès leluhur panjenengan. Ngendikakna, “Gusti Allah;” lajeng tilarna piyambakipun dolanan ing spekulasi­pun.
+**6:91** Piyambakipun mboten ngurmati Gusti Allah kados ingkang kedah dipunurmati, nalika piyambakipun ngendika, "Gusti Allah mboten nurunaken punapa-punapa dhumateng manungsa punapa kemawon." Ngendikakna, "Sinten ingkang nurunaken Kitab ingkang Musa beta—pepadhang lan pitedah kanggé manungsa?" Panjenengan ndadosaken punika ing gulungan, nedahaken punika, nanging ngumpetaken kathah. Lan panjenengan dipunucalaken punapa ingkang panjenengan mboten pirsa—sanès panjenengan, lan sanès leluhur panjenengan. Ngendikakna, "Gusti Allah;" lajeng tilarna piyambakipun dolanan ing spekulasi­pun.
 
 وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِذْ قَالُوا۟ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرٍۢ مِّن شَىْءٍۢ ۗ قُلْ مَنْ أَنزَلَ ٱلْكِتَٰبَ ٱلَّذِى جَآءَ بِهِۦ مُوسَىٰ نُورًۭا وَهُدًۭى لِّلنَّاسِ ۖ تَجْعَلُونَهُۥ قَرَاطِيسَ تُبْدُونَهَا وَتُخْفُونَ كَثِيرًۭا ۖ وَعُلِّمْتُم مَّا لَمْ تَعْلَمُوٓا۟ أَنتُمْ وَلَآ ءَابَآؤُكُمْ ۖ قُلِ ٱللَّهُ ۖ ثُمَّ ذَرْهُمْ فِى خَوْضِهِمْ يَلْعَبُونَ
 
@@ -3730,11 +3730,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَهَٰذَا كِتَٰبٌ أَنزَلْنَٰهُ مُبَارَكٌۭ مُّصَدِّقُ ٱلَّذِى بَيْنَ يَدَيْهِ وَلِتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا ۚ وَٱلَّذِينَ يُؤْمِنُونَ بِٱلْءَاخِرَةِ يُؤْمِنُونَ بِهِۦ ۖ وَهُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ
 
-**6:93** Sinten ingkang langkung salah tinimbang tiyang ingkang ndamel goroh nglawan Gusti Allah, utawi ngendika, “Punika dipunwahyukaken dhumateng kula,” nalika mboten wonten ingkang dipunwahyukaken dhumateng piyambakipun, utawi ngendika, “Kula badhé nurunaken ingkang sami kaliyan punapa ingkang Gusti Allah sampun wahyukaken”? Menawi kemawon panjenengan saged mirsani tiyang-tiyang ingkang tumindak salah ing banjir pejah, nalika para malaikat mawi lengen kabuka: “Pasraha jiwa panjenengan. Ing dinten puniki panjenengan dipunwales mawi siksa kawirangan amargi sampun ngendikakaken bab Gusti Allah sanès kaleresan, lan amargi gumedhé sanget nampèni wahyu-wahyuni­pun.”
+**6:93** Sinten ingkang langkung salah tinimbang tiyang ingkang ndamel goroh nglawan Gusti Allah, utawi ngendika, "Punika dipunwahyukaken dhumateng kula," nalika mboten wonten ingkang dipunwahyukaken dhumateng piyambakipun, utawi ngendika, "Kula badhé nurunaken ingkang sami kaliyan punapa ingkang Gusti Allah sampun wahyukaken"? Menawi kemawon panjenengan saged mirsani tiyang-tiyang ingkang tumindak salah ing banjir pejah, nalika para malaikat mawi lengen kabuka: "Pasraha jiwa panjenengan. Ing dinten puniki panjenengan dipunwales mawi siksa kawirangan amargi sampun ngendikakaken bab Gusti Allah sanès kaleresan, lan amargi gumedhé sanget nampèni wahyu-wahyuni­pun."
 
 وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ يُوحَ إِلَيْهِ شَىْءٌۭ وَمَن قَالَ سَأُنزِلُ مِثْلَ مَآ أَنزَلَ ٱللَّهُ ۗ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ فِى غَمَرَٰتِ ٱلْمَوْتِ وَٱلْمَلَٰٓئِكَةُ بَاسِطُوٓا۟ أَيْدِيهِمْ أَخْرِجُوٓا۟ أَنفُسَكُمُ ۖ ٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَقُولُونَ عَلَى ٱللَّهِ غَيْرَ ٱلْحَقِّ وَكُنتُمْ عَنْ ءَايَٰتِهِۦ تَسْتَكْبِرُونَ
 
-**6:94** “Panjenengan sampun rawuh dhumateng Kula piyambak-piyambak, kados Kula nyipta panjenengan ingkang wiwitan, nilar ing wingking panjenengan sedaya ingkang Kula paringaken dhumateng panjenengan. Kula mboten mirsani sesarengan panjenengan perantara panjenengan—ingkang panjenengan ngakoni dados mitra panjenengan. Sambetan antawis panjenengan pedhot, lan punapa ingkang panjenengan ngakoni sampun gagalaken panjenengan.”
+**6:94** "Panjenengan sampun rawuh dhumateng Kula piyambak-piyambak, kados Kula nyipta panjenengan ingkang wiwitan, nilar ing wingking panjenengan sedaya ingkang Kula paringaken dhumateng panjenengan. Kula mboten mirsani sesarengan panjenengan perantara panjenengan—ingkang panjenengan ngakoni dados mitra panjenengan. Sambetan antawis panjenengan pedhot, lan punapa ingkang panjenengan ngakoni sampun gagalaken panjenengan."
 
 وَلَقَدْ جِئْتُمُونَا فُرَٰدَىٰ كَمَا خَلَقْنَٰكُمْ أَوَّلَ مَرَّةٍۢ وَتَرَكْتُم مَّا خَوَّلْنَٰكُمْ وَرَآءَ ظُهُورِكُمْ ۖ وَمَا نَرَىٰ مَعَكُمْ شُفَعَآءَكُمُ ٱلَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ شُرَكَٰٓؤُا۟ ۚ لَقَد تَّقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنكُم مَّا كُنتُمْ تَزْعُمُونَ
 
@@ -3774,11 +3774,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 لَّا تُدْرِكُهُ ٱلْأَبْصَٰرُ وَهُوَ يُدْرِكُ ٱلْأَبْصَٰرَ ۖ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ
 
-**6:104** “Kawigatosan sampun rawuh dhumateng panjenengan saking Pangeran panjenengan. Sinten kemawon ingkang mirsani, punika kanggé manfaat jiwanipun; lan sinten kemawon ingkang tetep wuta, punika kanggé kapitunanipun. Kula sanès pangawal ing nginggilipun panjenengan.”
+**6:104** "Kawigatosan sampun rawuh dhumateng panjenengan saking Pangeran panjenengan. Sinten kemawon ingkang mirsani, punika kanggé manfaat jiwanipun; lan sinten kemawon ingkang tetep wuta, punika kanggé kapitunanipun. Kula sanès pangawal ing nginggilipun panjenengan."
 
 قَدْ جَآءَكُم بَصَآئِرُ مِن رَّبِّكُمْ ۖ فَمَنْ أَبْصَرَ فَلِنَفْسِهِۦ ۖ وَمَنْ عَمِىَ فَعَلَيْهَا ۚ وَمَآ أَنَا۠ عَلَيْكُم بِحَفِيظٍۢ
 
-**6:105** Kula mekaten maneka warni wahyu-wahyu, mbok menawi piyambakipun ngendika, “Panjenengan sampun sinau,” lan saperlu njlentrehaken punika kanggé tiyang ingkang pirsa.
+**6:105** Kula mekaten maneka warni wahyu-wahyu, mbok menawi piyambakipun ngendika, "Panjenengan sampun sinau," lan saperlu njlentrehaken punika kanggé tiyang ingkang pirsa.
 
 وَكَذَٰلِكَ نُصَرِّفُ ٱلْءَايَٰتِ وَلِيَقُولُوا۟ دَرَسْتَ وَلِنُبَيِّنَهُۥ لِقَوْمٍۢ يَعْلَمُونَ
 
@@ -3794,7 +3794,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَا تَسُبُّوا۟ ٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ فَيَسُبُّوا۟ ٱللَّهَ عَدْوًۢا بِغَيْرِ عِلْمٍۢ ۗ كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ ثُمَّ إِلَىٰ رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**6:109** Piyambakipun sumpah mawi asmanipun Gusti Allah, mawi sumpah ingkang paling khidmat, bilih menawi mukjizat dhateng dhumateng piyambakipun, piyambakipun badhé pitados dhumateng punika. Ngendikakna, “Mukjizat namung wonten kaliyan Gusti Allah.” Ananging kados pundi panjenengan pirsa? Sanajan punika dhateng, piyambakipun tetep mboten badhé pitados.
+**6:109** Piyambakipun sumpah mawi asmanipun Gusti Allah, mawi sumpah ingkang paling khidmat, bilih menawi mukjizat dhateng dhumateng piyambakipun, piyambakipun badhé pitados dhumateng punika. Ngendikakna, "Mukjizat namung wonten kaliyan Gusti Allah." Ananging kados pundi panjenengan pirsa? Sanajan punika dhateng, piyambakipun tetep mboten badhé pitados.
 
 وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ لَئِن جَآءَتْهُمْ ءَايَةٌۭ لَّيُؤْمِنُنَّ بِهَا ۚ قُلْ إِنَّمَا ٱلْءَايَٰتُ عِندَ ٱللَّهِ ۖ وَمَا يُشْعِرُكُمْ أَنَّهَآ إِذَا جَآءَتْ لَا يُؤْمِنُونَ
 
@@ -3814,7 +3814,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلِتَصْغَىٰٓ إِلَيْهِ أَفْـِٔدَةُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ وَلِيَرْضَوْهُ وَلِيَقْتَرِفُوا۟ مَا هُم مُّقْتَرِفُونَ
 
-**6:114** “ Punapa kula kedah ngupaya hakim kejawi Gusti Allah, nalika Panjenenganipun ingkang sampun nurunaken Kitab dhumateng panjenengan, dipunjlentrehaken kanthi rinci?” Tiyang-tiyang ingkang Kula sampun paringi Kitab pirsa bilih punika kaleresan ingkang dipunwahyukaken saking Pangeran panjenengan. Pramila sampun ngantos dados saking tiyang ingkang mamang.
+**6:114** " Punapa kula kedah ngupaya hakim kejawi Gusti Allah, nalika Panjenenganipun ingkang sampun nurunaken Kitab dhumateng panjenengan, dipunjlentrehaken kanthi rinci?" Tiyang-tiyang ingkang Kula sampun paringi Kitab pirsa bilih punika kaleresan ingkang dipunwahyukaken saking Pangeran panjenengan. Pramila sampun ngantos dados saking tiyang ingkang mamang.
 
 أَفَغَيْرَ ٱللَّهِ أَبْتَغِى حَكَمًۭا وَهُوَ ٱلَّذِىٓ أَنزَلَ إِلَيْكُمُ ٱلْكِتَٰبَ مُفَصَّلًۭا ۚ وَٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ يَعْلَمُونَ أَنَّهُۥ مُنَزَّلٌۭ مِّن رَّبِّكَ بِٱلْحَقِّ ۖ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ
 
@@ -3854,7 +3854,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَكَذَٰلِكَ جَعَلْنَا فِى كُلِّ قَرْيَةٍ أَكَٰبِرَ مُجْرِمِيهَا لِيَمْكُرُوا۟ فِيهَا ۖ وَمَا يَمْكُرُونَ إِلَّا بِأَنفُسِهِمْ وَمَا يَشْعُرُونَ
 
-**6:124** Nalika pratandha dhateng dhumateng piyambakipun, piyambakipun ngendika, “Kula mboten badhé pitados kejawi kula dipunparingi ingkang sami kaliyan punapa ingkang sampun dipunparingaken dhumateng utusan-utusanipun Gusti Allah.” Gusti Allah pirsa paling saé ing pundi manggenaken pesenipun. Kehinaan saking Gusti Allah lan siksa ingkang abot badhé nimpa para kriminal amargi komplotanipun.
+**6:124** Nalika pratandha dhateng dhumateng piyambakipun, piyambakipun ngendika, "Kula mboten badhé pitados kejawi kula dipunparingi ingkang sami kaliyan punapa ingkang sampun dipunparingaken dhumateng utusan-utusanipun Gusti Allah." Gusti Allah pirsa paling saé ing pundi manggenaken pesenipun. Kehinaan saking Gusti Allah lan siksa ingkang abot badhé nimpa para kriminal amargi komplotanipun.
 
 وَإِذَا جَآءَتْهُمْ ءَايَةٌۭ قَالُوا۟ لَن نُّؤْمِنَ حَتَّىٰ نُؤْتَىٰ مِثْلَ مَآ أُوتِىَ رُسُلُ ٱللَّهِ ۘ ٱللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُۥ ۗ سَيُصِيبُ ٱلَّذِينَ أَجْرَمُوا۟ صَغَارٌ عِندَ ٱللَّهِ وَعَذَابٌۭ شَدِيدٌۢ بِمَا كَانُوا۟ يَمْكُرُونَ
 
@@ -3870,7 +3870,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ۞ لَهُمْ دَارُ ٱلسَّلَٰمِ عِندَ رَبِّهِمْ ۖ وَهُوَ وَلِيُّهُم بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**6:128** Ing Dinten nalika Panjenenganipun ngempalaken piyambakipun sedaya sesarengan: “Dhuh golongan jin, panjenengan sampun ngeksploitasi kathah manungsa.” Pengikutipun ing antawis manungsa badhé ngendika, “Dhuh Pangeran kula, kula sampun pikantuk manfaat satunggal lan sanèsipun, ananging kula sampun dumugi wanci ingkang panjenengan sampun nemtokaken kanggé kula.” Panjenenganipun badhé ngendika, “Geni punika papan dunung panjenengan, ing ngriku panjenengan badhé tetep, kejawi Gusti Allah kersa. Pangeran panjenengan punika Maha Wicaksana lan Maha Pirsa.
+**6:128** Ing Dinten nalika Panjenenganipun ngempalaken piyambakipun sedaya sesarengan: "Dhuh golongan jin, panjenengan sampun ngeksploitasi kathah manungsa." Pengikutipun ing antawis manungsa badhé ngendika, "Dhuh Pangeran kula, kula sampun pikantuk manfaat satunggal lan sanèsipun, ananging kula sampun dumugi wanci ingkang panjenengan sampun nemtokaken kanggé kula." Panjenenganipun badhé ngendika, "Geni punika papan dunung panjenengan, ing ngriku panjenengan badhé tetep, kejawi Gusti Allah kersa. Pangeran panjenengan punika Maha Wicaksana lan Maha Pirsa.
 
 وَيَوْمَ يَحْشُرُهُمْ جَمِيعًۭا يَٰمَعْشَرَ ٱلْجِنِّ قَدِ ٱسْتَكْثَرْتُم مِّنَ ٱلْإِنسِ ۖ وَقَالَ أَوْلِيَآؤُهُم مِّنَ ٱلْإِنسِ رَبَّنَا ٱسْتَمْتَعَ بَعْضُنَا بِبَعْضٍۢ وَبَلَغْنَآ أَجَلَنَا ٱلَّذِىٓ أَجَّلْتَ لَنَا ۚ قَالَ ٱلنَّارُ مَثْوَىٰكُمْ خَٰلِدِينَ فِيهَآ إِلَّا مَا شَآءَ ٱللَّهُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌۭ
 
@@ -3878,7 +3878,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَكَذَٰلِكَ نُوَلِّى بَعْضَ ٱلظَّٰلِمِينَ بَعْضًۢا بِمَا كَانُوا۟ يَكْسِبُونَ
 
-**6:130** “Dhuh golongan jin lan manungsa, punapa mboten sampun rawuh dhumateng panjenengan utusan-utusan saking antawis panjenengan, nyaritakaken wahyu-wahyu Kula dhumateng panjenengan, lan ngengetaken panjenengan bab patemon Dinten panjenengan puniki?” Piyambakipun badhé ngendika, “Kula nyekseni nglawan kula piyambak.” Gesang donya nggodha piyambakipun. Piyambakipun badhé nyekseni nglawan piyambak piyambak bilih piyambakipun kafir.
+**6:130** "Dhuh golongan jin lan manungsa, punapa mboten sampun rawuh dhumateng panjenengan utusan-utusan saking antawis panjenengan, nyaritakaken wahyu-wahyu Kula dhumateng panjenengan, lan ngengetaken panjenengan bab patemon Dinten panjenengan puniki?" Piyambakipun badhé ngendika, "Kula nyekseni nglawan kula piyambak." Gesang donya nggodha piyambakipun. Piyambakipun badhé nyekseni nglawan piyambak piyambak bilih piyambakipun kafir.
 
 يَٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌۭ مِّنكُمْ يَقُصُّونَ عَلَيْكُمْ ءَايَٰتِى وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا ۚ قَالُوا۟ شَهِدْنَا عَلَىٰٓ أَنفُسِنَا ۖ وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَشَهِدُوا۟ عَلَىٰٓ أَنفُسِهِمْ أَنَّهُمْ كَانُوا۟ كَٰفِرِينَ
 
@@ -3898,11 +3898,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِنَّ مَا تُوعَدُونَ لَءَاتٍۢ ۖ وَمَآ أَنتُم بِمُعْجِزِينَ
 
-**6:135** Ngendikakna, “Dhuh kaum kula! Makarya miturut kemampuan panjenengan, lan kula ugi makaten.” Panjenengan badhé pirsa dhumateng sinten ingkang badhé kagunganipun pungkasan papan dunung.” Tiyang-tiyang ingkang tumindak salah mboten badhé menang.
+**6:135** Ngendikakna, "Dhuh kaum kula! Makarya miturut kemampuan panjenengan, lan kula ugi makaten." Panjenengan badhé pirsa dhumateng sinten ingkang badhé kagunganipun pungkasan papan dunung." Tiyang-tiyang ingkang tumindak salah mboten badhé menang.
 
 قُلْ يَٰقَوْمِ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنِّى عَامِلٌۭ ۖ فَسَوْفَ تَعْلَمُونَ مَن تَكُونُ لَهُۥ عَٰقِبَةُ ٱلدَّارِ ۗ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
 
-**6:136** Lan piyambakipun nyisihaken kanggé Gusti Allah saperangan saking taneman lan kewan ternak ingkang Panjenenganipun cipta, lan piyambakipun ngendika, “Puniki kanggé Gusti Allah,” miturut ngakonipun, “lan puniki kanggé berhala-berhala kula.” Ananging saperangan berhala-berhalanipun mboten dumugi Gusti Allah, nanging saperanganipun Gusti Allah dumugi berhala-berhalanipun. Ala pangadilanipun.
+**6:136** Lan piyambakipun nyisihaken kanggé Gusti Allah saperangan saking taneman lan kewan ternak ingkang Panjenenganipun cipta, lan piyambakipun ngendika, "Puniki kanggé Gusti Allah," miturut ngakonipun, "lan puniki kanggé berhala-berhala kula." Ananging saperangan berhala-berhalanipun mboten dumugi Gusti Allah, nanging saperanganipun Gusti Allah dumugi berhala-berhalanipun. Ala pangadilanipun.
 
 وَجَعَلُوا۟ لِلَّهِ مِمَّا ذَرَأَ مِنَ ٱلْحَرْثِ وَٱلْأَنْعَٰمِ نَصِيبًۭا فَقَالُوا۟ هَٰذَا لِلَّهِ بِزَعْمِهِمْ وَهَٰذَا لِشُرَكَآئِنَا ۖ فَمَا كَانَ لِشُرَكَآئِهِمْ فَلَا يَصِلُ إِلَى ٱللَّهِ ۖ وَمَا كَانَ لِلَّهِ فَهُوَ يَصِلُ إِلَىٰ شُرَكَآئِهِمْ ۗ سَآءَ مَا يَحْكُمُونَ
 
@@ -3910,11 +3910,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍۢ مِّنَ ٱلْمُشْرِكِينَ قَتْلَ أَوْلَٰدِهِمْ شُرَكَآؤُهُمْ لِيُرْدُوهُمْ وَلِيَلْبِسُوا۟ عَلَيْهِمْ دِينَهُمْ ۖ وَلَوْ شَآءَ ٱللَّهُ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ
 
-**6:138** Lan piyambakipun ngendika, “Kewan lan taneman puniki dipunwatesi; mboten wonten ingkang kepareng dhahar kejawi tiyang ingkang kula idinaken,” miturut ngakonipun, lan kewan ingkang gegeripun dipunlarang, lan kewan ingkang ing nginggilipun piyambakipun mboten nyebut asmanipun Gusti Allah—ndamel goroh nglawan Panjenenganipun. Panjenenganipun badhé males piyambakipun tumrap punapa ingkang piyambakipun biyasa damel.
+**6:138** Lan piyambakipun ngendika, "Kewan lan taneman puniki dipunwatesi; mboten wonten ingkang kepareng dhahar kejawi tiyang ingkang kula idinaken," miturut ngakonipun, lan kewan ingkang gegeripun dipunlarang, lan kewan ingkang ing nginggilipun piyambakipun mboten nyebut asmanipun Gusti Allah—ndamel goroh nglawan Panjenenganipun. Panjenenganipun badhé males piyambakipun tumrap punapa ingkang piyambakipun biyasa damel.
 
 وَقَالُوا۟ هَٰذِهِۦٓ أَنْعَٰمٌۭ وَحَرْثٌ حِجْرٌۭ لَّا يَطْعَمُهَآ إِلَّا مَن نَّشَآءُ بِزَعْمِهِمْ وَأَنْعَٰمٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَٰمٌۭ لَّا يَذْكُرُونَ ٱسْمَ ٱللَّهِ عَلَيْهَا ٱفْتِرَآءً عَلَيْهِ ۚ سَيَجْزِيهِم بِمَا كَانُوا۟ يَفْتَرُونَ
 
-**6:139** Lan piyambakipun ngendika, “Punapa ingkang wonten ing weteng kewan-kewan puniki mligi kanggé priya kula, lan dipunlarang kanggé garwa-garwa kula.” Ananging menawi punika lair pejah, piyambakipun saged nuduhaken ing lebetipun. Panjenenganipun tamtu badhé nyiksa piyambakipun amargi tuduhanipun. Panjenenganipun punika Maha Wicaksana lan Maha Pirsa.
+**6:139** Lan piyambakipun ngendika, "Punapa ingkang wonten ing weteng kewan-kewan puniki mligi kanggé priya kula, lan dipunlarang kanggé garwa-garwa kula." Ananging menawi punika lair pejah, piyambakipun saged nuduhaken ing lebetipun. Panjenenganipun tamtu badhé nyiksa piyambakipun amargi tuduhanipun. Panjenenganipun punika Maha Wicaksana lan Maha Pirsa.
 
 وَقَالُوا۟ مَا فِى بُطُونِ هَٰذِهِ ٱلْأَنْعَٰمِ خَالِصَةٌۭ لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰٓ أَزْوَٰجِنَا ۖ وَإِن يَكُن مَّيْتَةًۭ فَهُمْ فِيهِ شُرَكَآءُ ۚ سَيَجْزِيهِمْ وَصْفَهُمْ ۚ إِنَّهُۥ حَكِيمٌ عَلِيمٌۭ
 
@@ -3930,15 +3930,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمِنَ ٱلْأَنْعَٰمِ حَمُولَةًۭ وَفَرْشًۭا ۚ كُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّۭ مُّبِينٌۭ
 
-**6:143** Wolu pasangan: kalih saking wedhus, lan kalih saking wedhus gembel. Ngendikakna, “ Punapa Panjenenganipun nglarang kalih ingkang jaler, utawi kalih ingkang èstri, utawi punapa ingkang weteng kalih èstri ngandhut? Paringana pirsa dhumateng kula mawi kawruh, menawi panjenengan leres.”
+**6:143** Wolu pasangan: kalih saking wedhus, lan kalih saking wedhus gembel. Ngendikakna, " Punapa Panjenenganipun nglarang kalih ingkang jaler, utawi kalih ingkang èstri, utawi punapa ingkang weteng kalih èstri ngandhut? Paringana pirsa dhumateng kula mawi kawruh, menawi panjenengan leres."
 
 ثَمَٰنِيَةَ أَزْوَٰجٍۢ ۖ مِّنَ ٱلضَّأْنِ ٱثْنَيْنِ وَمِنَ ٱلْمَعْزِ ٱثْنَيْنِ ۗ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ ۖ نَبِّـُٔونِى بِعِلْمٍ إِن كُنتُمْ صَٰدِقِينَ
 
-**6:144** Lan kalih saking unta, lan kalih saking sapi. Ngendikakna, “ Punapa Panjenenganipun nglarang kalih ingkang jaler, utawi kalih ingkang èstri, utawi punapa ingkang weteng kalih èstri ngandhut? Punapa panjenengan wonten nalika Gusti Allah ndhawuhaken puniki dhumateng panjenengan?” Sinten ingkang langkung salah tinimbang piyambakipun ingkang ndamel goroh lan nyebataken dhumateng Gusti Allah, saperlu nyesataken tiyang tanpa kawruh? Gusti Allah mboten nuntun tiyang-tiyang duraka.
+**6:144** Lan kalih saking unta, lan kalih saking sapi. Ngendikakna, " Punapa Panjenenganipun nglarang kalih ingkang jaler, utawi kalih ingkang èstri, utawi punapa ingkang weteng kalih èstri ngandhut? Punapa panjenengan wonten nalika Gusti Allah ndhawuhaken puniki dhumateng panjenengan?" Sinten ingkang langkung salah tinimbang piyambakipun ingkang ndamel goroh lan nyebataken dhumateng Gusti Allah, saperlu nyesataken tiyang tanpa kawruh? Gusti Allah mboten nuntun tiyang-tiyang duraka.
 
 وَمِنَ ٱلْإِبِلِ ٱثْنَيْنِ وَمِنَ ٱلْبَقَرِ ٱثْنَيْنِ ۗ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ ۖ أَمْ كُنتُمْ شُهَدَآءَ إِذْ وَصَّىٰكُمُ ٱللَّهُ بِهَٰذَا ۚ فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا لِّيُضِلَّ ٱلنَّاسَ بِغَيْرِ عِلْمٍ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**6:145** Ngendikakna, “Ing punapa ingkang sampun dipunwahyukaken dhumateng kula, kula mboten manggihi punapa-punapa ingkang dipunlarang kanggé konsumen ingkang dhahar punika, kejawi bathang, utawi rah ingkang kuncar, utawi daging babi—amargi punika reged—utawi persembahan dosa ingkang dipunaturaken dhumateng sanèsipun Gusti Allah. Ananging menawi tiyang kepeksa amargi kabutuhan, tanpa sengaja utawi ala—Pangeran panjenengan punika Maha Ngapunten lan Maha Asih.
+**6:145** Ngendikakna, "Ing punapa ingkang sampun dipunwahyukaken dhumateng kula, kula mboten manggihi punapa-punapa ingkang dipunlarang kanggé konsumen ingkang dhahar punika, kejawi bathang, utawi rah ingkang kuncar, utawi daging babi—amargi punika reged—utawi persembahan dosa ingkang dipunaturaken dhumateng sanèsipun Gusti Allah. Ananging menawi tiyang kepeksa amargi kabutuhan, tanpa sengaja utawi ala—Pangeran panjenengan punika Maha Ngapunten lan Maha Asih.
 
 قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍۢ يَطْعَمُهُۥٓ إِلَّآ أَن يَكُونَ مَيْتَةً أَوْ دَمًۭا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍۢ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ ۚ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَإِنَّ رَبَّكَ غَفُورٌۭ رَّحِيمٌۭ
 
@@ -3946,23 +3946,23 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍۢ ۖ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ بِعَظْمٍۢ ۚ ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ ۖ وَإِنَّا لَصَٰدِقُونَ
 
-**6:147** Menawi piyambakipun nuduh panjenengan goroh, ngendikakna, “Pangeran panjenengan punika ingkang Gadhah welas asih tanpa wates, ananging dukanipun mboten saged dipunendhani saking tiyang-tiyang ingkang kalepatan.”
+**6:147** Menawi piyambakipun nuduh panjenengan goroh, ngendikakna, "Pangeran panjenengan punika ingkang Gadhah welas asih tanpa wates, ananging dukanipun mboten saged dipunendhani saking tiyang-tiyang ingkang kalepatan."
 
 فَإِن كَذَّبُوكَ فَقُل رَّبُّكُمْ ذُو رَحْمَةٍۢ وَٰسِعَةٍۢ وَلَا يُرَدُّ بَأْسُهُۥ عَنِ ٱلْقَوْمِ ٱلْمُجْرِمِينَ
 
-**6:148** Tiyang musyrik badhé ngendika, “Menawi Gusti Allah kersa, kula mboten badhé nindakaken penyembahan berhala, lan leluhur kula ugi mboten, lan kula mboten badhé nglarang punapa-punapa.” Mekaten ugi tiyang sadèrèngipun goroh, ngantos piyambakipun ngrasakaken panguwaos Kula. Ngendikakna, “ Punapa panjenengan gadhah kawruh ingkang saged panjenengan asilaken kanggé kula? Panjenengan mboten ndhèrèki kejawi panginten, lan panjenengan namung nginten.”
+**6:148** Tiyang musyrik badhé ngendika, "Menawi Gusti Allah kersa, kula mboten badhé nindakaken penyembahan berhala, lan leluhur kula ugi mboten, lan kula mboten badhé nglarang punapa-punapa." Mekaten ugi tiyang sadèrèngipun goroh, ngantos piyambakipun ngrasakaken panguwaos Kula. Ngendikakna, " Punapa panjenengan gadhah kawruh ingkang saged panjenengan asilaken kanggé kula? Panjenengan mboten ndhèrèki kejawi panginten, lan panjenengan namung nginten."
 
 سَيَقُولُ ٱلَّذِينَ أَشْرَكُوا۟ لَوْ شَآءَ ٱللَّهُ مَآ أَشْرَكْنَا وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن شَىْءٍۢ ۚ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ حَتَّىٰ ذَاقُوا۟ بَأْسَنَا ۗ قُلْ هَلْ عِندَكُم مِّنْ عِلْمٍۢ فَتُخْرِجُوهُ لَنَآ ۖ إِن تَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ أَنتُمْ إِلَّا تَخْرُصُونَ
 
-**6:149** Ngendikakna, “Dhumateng Gusti Allah kagunganipun dalil ingkang ngrampungaken. Menawi Panjenenganipun kersa, Panjenenganipun badhé sampun nuntun panjenengan sedaya.”
+**6:149** Ngendikakna, "Dhumateng Gusti Allah kagunganipun dalil ingkang ngrampungaken. Menawi Panjenenganipun kersa, Panjenenganipun badhé sampun nuntun panjenengan sedaya."
 
 قُلْ فَلِلَّهِ ٱلْحُجَّةُ ٱلْبَٰلِغَةُ ۖ فَلَوْ شَآءَ لَهَدَىٰكُمْ أَجْمَعِينَ
 
-**6:150** Ngendikakna, “Asilna saksi-saksi panjenengan ingkang badhé nyekseni bilih Gusti Allah sampun nglarang puniki.” Menawi piyambakipun nyekseni, sampun ngantos nyekseni sesarengan piyambakipun. Lan sampun ngantos ndhèrèki kepénginan tiyang-tiyang ingkang nolak wahyu Kula, lan tiyang-tiyang ingkang mboten pitados dhumateng Akhirat, lan tiyang-tiyang ingkang nyamekaken sanès kaliyan Pangeranipun.
+**6:150** Ngendikakna, "Asilna saksi-saksi panjenengan ingkang badhé nyekseni bilih Gusti Allah sampun nglarang puniki." Menawi piyambakipun nyekseni, sampun ngantos nyekseni sesarengan piyambakipun. Lan sampun ngantos ndhèrèki kepénginan tiyang-tiyang ingkang nolak wahyu Kula, lan tiyang-tiyang ingkang mboten pitados dhumateng Akhirat, lan tiyang-tiyang ingkang nyamekaken sanès kaliyan Pangeranipun.
 
 قُلْ هَلُمَّ شُهَدَآءَكُمُ ٱلَّذِينَ يَشْهَدُونَ أَنَّ ٱللَّهَ حَرَّمَ هَٰذَا ۖ فَإِن شَهِدُوا۟ فَلَا تَشْهَدْ مَعَهُمْ ۚ وَلَا تَتَّبِعْ أَهْوَآءَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ وَهُم بِرَبِّهِمْ يَعْدِلُونَ
 
-**6:151** Ngendikakna, “Rawuha, sumangga kula cariyosaken dhumateng panjenengan punapa ingkang Pangeran panjenengan sampun larang panjenengan: bilih panjenengan mboten nyekutokaken punapa-punapa kaliyan Panjenenganipun; bilih panjenengan ngurmati tiyang sepuh panjenengan; bilih panjenengan mboten mejahi putra-putranipun panjenengan amargi kamiskinan—Kula nyediakaken kanggé panjenengan lan kanggé piyambakipun; bilih panjenengan mboten nyelaki tumindak nistha, njawi utawi lebet; lan bilih panjenengan mboten mejahi jiwa ingkang Gusti Allah sampun sucekaken—kejawi ing margi keadilan. Sedaya puniki Panjenenganipun sampun dhawuhaken dhumateng panjenengan, supados panjenengan saged mangertos.”
+**6:151** Ngendikakna, "Rawuha, sumangga kula cariyosaken dhumateng panjenengan punapa ingkang Pangeran panjenengan sampun larang panjenengan: bilih panjenengan mboten nyekutokaken punapa-punapa kaliyan Panjenenganipun; bilih panjenengan ngurmati tiyang sepuh panjenengan; bilih panjenengan mboten mejahi putra-putranipun panjenengan amargi kamiskinan—Kula nyediakaken kanggé panjenengan lan kanggé piyambakipun; bilih panjenengan mboten nyelaki tumindak nistha, njawi utawi lebet; lan bilih panjenengan mboten mejahi jiwa ingkang Gusti Allah sampun sucekaken—kejawi ing margi keadilan. Sedaya puniki Panjenenganipun sampun dhawuhaken dhumateng panjenengan, supados panjenengan saged mangertos."
 
 ۞ قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ ۖ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًۭٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًۭا ۖ وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍۢ ۖ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ ۖ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ ۖ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
 
@@ -3982,15 +3982,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَهَٰذَا كِتَٰبٌ أَنزَلْنَٰهُ مُبَارَكٌۭ فَٱتَّبِعُوهُ وَٱتَّقُوا۟ لَعَلَّكُمْ تُرْحَمُونَ
 
-**6:156** Supados panjenengan mboten ngendika, “Kitab dipunwahyukaken dhumateng kalih golongan sadèrèngipun kula, lan kula mboten mangertos piwulangipun.”
+**6:156** Supados panjenengan mboten ngendika, "Kitab dipunwahyukaken dhumateng kalih golongan sadèrèngipun kula, lan kula mboten mangertos piwulangipun."
 
 أَن تَقُولُوٓا۟ إِنَّمَآ أُنزِلَ ٱلْكِتَٰبُ عَلَىٰ طَآئِفَتَيْنِ مِن قَبْلِنَا وَإِن كُنَّا عَن دِرَاسَتِهِمْ لَغَٰفِلِينَ
 
-**6:157** Utawi supados panjenengan mboten ngendika, “Menawi Kitab sampun dipunwahyukaken dhumateng kula, kula badhé langkung dipuntuntun tinimbang piyambakipun.” Katrangan sampun rawuh dhumateng panjenengan saking Pangeran panjenengan, lan pitedah, lan welas asih. Sinten lajeng ingkang langkung salah tinimbang piyambakipun ingkang gorohaken pesen-pesenipun Gusti Allah, lan nyimpang saking punika? Kula badhé males tiyang-tiyang ingkang nyimpang saking pesen-pesen Kula mawi siksa ingkang paling ala, amargi nyimpangipun.
+**6:157** Utawi supados panjenengan mboten ngendika, "Menawi Kitab sampun dipunwahyukaken dhumateng kula, kula badhé langkung dipuntuntun tinimbang piyambakipun." Katrangan sampun rawuh dhumateng panjenengan saking Pangeran panjenengan, lan pitedah, lan welas asih. Sinten lajeng ingkang langkung salah tinimbang piyambakipun ingkang gorohaken pesen-pesenipun Gusti Allah, lan nyimpang saking punika? Kula badhé males tiyang-tiyang ingkang nyimpang saking pesen-pesen Kula mawi siksa ingkang paling ala, amargi nyimpangipun.
 
 أَوْ تَقُولُوا۟ لَوْ أَنَّآ أُنزِلَ عَلَيْنَا ٱلْكِتَٰبُ لَكُنَّآ أَهْدَىٰ مِنْهُمْ ۚ فَقَدْ جَآءَكُم بَيِّنَةٌۭ مِّن رَّبِّكُمْ وَهُدًۭى وَرَحْمَةٌۭ ۚ فَمَنْ أَظْلَمُ مِمَّن كَذَّبَ بِـَٔايَٰتِ ٱللَّهِ وَصَدَفَ عَنْهَا ۗ سَنَجْزِى ٱلَّذِينَ يَصْدِفُونَ عَنْ ءَايَٰتِنَا سُوٓءَ ٱلْعَذَابِ بِمَا كَانُوا۟ يَصْدِفُونَ
 
-**6:158**  Punapa piyambakipun ngentosi punapa-punapa kejawi para malaikat rawuh dhumateng piyambakipun, utawi Pangeran panjenengan rawuh, utawi saperangan pratandha-pratandhanipun Pangeran panjenengan rawuh? Ing Dinten nalika saperangan pratandha-pratandhanipun Pangeran panjenengan rawuh, mboten wonten jiwa ingkang badhé pikantuk manfaat saking imanipun kejawi sampun pitados sadèrèngipun, utawi sampun pikantuk kabecikan lumantar imanipun. Ngendikakna, “Entosa, kula ugi ngentosi.”
+**6:158**  Punapa piyambakipun ngentosi punapa-punapa kejawi para malaikat rawuh dhumateng piyambakipun, utawi Pangeran panjenengan rawuh, utawi saperangan pratandha-pratandhanipun Pangeran panjenengan rawuh? Ing Dinten nalika saperangan pratandha-pratandhanipun Pangeran panjenengan rawuh, mboten wonten jiwa ingkang badhé pikantuk manfaat saking imanipun kejawi sampun pitados sadèrèngipun, utawi sampun pikantuk kabecikan lumantar imanipun. Ngendikakna, "Entosa, kula ugi ngentosi."
 
 هَلْ يَنظُرُونَ إِلَّآ أَن تَأْتِيَهُمُ ٱلْمَلَٰٓئِكَةُ أَوْ يَأْتِىَ رَبُّكَ أَوْ يَأْتِىَ بَعْضُ ءَايَٰتِ رَبِّكَ ۗ يَوْمَ يَأْتِى بَعْضُ ءَايَٰتِ رَبِّكَ لَا يَنفَعُ نَفْسًا إِيمَٰنُهَا لَمْ تَكُنْ ءَامَنَتْ مِن قَبْلُ أَوْ كَسَبَتْ فِىٓ إِيمَٰنِهَا خَيْرًۭا ۗ قُلِ ٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ
 
@@ -4002,11 +4002,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 مَن جَآءَ بِٱلْحَسَنَةِ فَلَهُۥ عَشْرُ أَمْثَالِهَا ۖ وَمَن جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ
 
-**6:161** Ngendikakna, “Pangeran kula sampun nuntun kula dhumateng margi ingkang leres, agami ingkang jejeg, kapitadosanipun Ibrahim ingkang Monoteis, ingkang sanès penyembah berhala.”
+**6:161** Ngendikakna, "Pangeran kula sampun nuntun kula dhumateng margi ingkang leres, agami ingkang jejeg, kapitadosanipun Ibrahim ingkang Monoteis, ingkang sanès penyembah berhala."
 
 قُلْ إِنَّنِى هَدَىٰنِى رَبِّىٓ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ دِينًۭا قِيَمًۭا مِّلَّةَ إِبْرَٰهِيمَ حَنِيفًۭا ۚ وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
 
-**6:162** Ngendikakna, “Salat lan ibadah kula, lan gesang lan pejah kula, dipunaturaken dhumateng Gusti Allah, Pangeranipun Alam Donya.
+**6:162** Ngendikakna, "Salat lan ibadah kula, lan gesang lan pejah kula, dipunaturaken dhumateng Gusti Allah, Pangeranipun Alam Donya.
 
 قُلْ إِنَّ صَلَاتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
@@ -4014,7 +4014,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 لَا شَرِيكَ لَهُۥ ۖ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا۠ أَوَّلُ ٱلْمُسْلِمِينَ
 
-**6:164** Ngendikakna, “ Punapa kula kedah ngupaya Pangeran kejawi Gusti Allah, nalika Panjenenganipun punika Pangeranipun sedaya?” Mboten wonten jiwa ingkang pikantuk kejawi punapa ingkang dados hakipun, lan mboten wonten jiwa ingkang nyanggi beban sanès. Lajeng dhumateng Pangeran panjenengan panjenengan wangsul, lajeng Panjenenganipun badhé maringi pirsa dhumateng panjenengan bab pasulayan panjenengan.
+**6:164** Ngendikakna, " Punapa kula kedah ngupaya Pangeran kejawi Gusti Allah, nalika Panjenenganipun punika Pangeranipun sedaya?" Mboten wonten jiwa ingkang pikantuk kejawi punapa ingkang dados hakipun, lan mboten wonten jiwa ingkang nyanggi beban sanès. Lajeng dhumateng Pangeran panjenengan panjenengan wangsul, lajeng Panjenenganipun badhé maringi pirsa dhumateng panjenengan bab pasulayan panjenengan.
 
 قُلْ أَغَيْرَ ٱللَّهِ أَبْغِى رَبًّۭا وَهُوَ رَبُّ كُلِّ شَىْءٍۢ ۚ وَلَا تَكْسِبُ كُلُّ نَفْسٍ إِلَّا عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ۚ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
 
@@ -5712,7 +5712,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 الٓر ۚ تِلْكَ ءَايَٰتُ ٱلْكِتَٰبِ ٱلْحَكِيمِ
 
-**10:2** Punapa dados gumun tumrap tiyang-tiyang bilih Kita maringi wahyu dhateng satunggaling priya saking antawisipun: “Paringana pepenget dhateng manungsa, lan paringana kabar bingah dhateng tiyang-tiyang ingkang pitados bilih piyambakipun gadhah pijakan ingkang kukuh wonten ing ngarsanipun Pangeranipun”? Tiyang-tiyang ingkang kafir sami matur: “Tiyang punika saestu tukang sihir ingkang cetha.”
+**10:2** Punapa dados gumun tumrap tiyang-tiyang bilih Kita maringi wahyu dhateng satunggaling priya saking antawisipun: "Paringana pepenget dhateng manungsa, lan paringana kabar bingah dhateng tiyang-tiyang ingkang pitados bilih piyambakipun gadhah pijakan ingkang kukuh wonten ing ngarsanipun Pangeranipun"? Tiyang-tiyang ingkang kafir sami matur: "Tiyang punika saestu tukang sihir ingkang cetha."
 
 أَكَانَ لِلنَّاسِ عَجَبًا أَنْ أَوْحَيْنَآ إِلَىٰ رَجُلٍۢ مِّنْهُمْ أَنْ أَنذِرِ ٱلنَّاسَ وَبَشِّرِ ٱلَّذِينَ ءَامَنُوٓا۟ أَنَّ لَهُمْ قَدَمَ صِدْقٍ عِندَ رَبِّهِمْ ۗ قَالَ ٱلْكَٰفِرُونَ إِنَّ هَٰذَا لَسَٰحِرٌۭ مُّبِينٌ
 
@@ -5744,7 +5744,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ يَهْدِيهِمْ رَبُّهُم بِإِيمَٰنِهِمْ ۖ تَجْرِى مِن تَحْتِهِمُ ٱلْأَنْهَٰرُ فِى جَنَّٰتِ ٱلنَّعِيمِ
 
-**10:10** Panyuwunipun wonten ing mrika inggih: “Mahasuci Panjenengan, dhuh Gusti Allah kawula.” Lan salamipun wonten ing mrika inggih: “Salam tentrem.” Lan pungkasaning panyuwunipun inggih: “Sedaya puji kagunganipun Gusti Allah, Pangeraning Jagad.”
+**10:10** Panyuwunipun wonten ing mrika inggih: "Mahasuci Panjenengan, dhuh Gusti Allah kawula." Lan salamipun wonten ing mrika inggih: "Salam tentrem." Lan pungkasaning panyuwunipun inggih: "Sedaya puji kagunganipun Gusti Allah, Pangeraning Jagad."
 
 دَعْوَىٰهُمْ فِيهَا سُبْحَٰنَكَ ٱللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا سَلَٰمٌۭ ۚ وَءَاخِرُ دَعْوَىٰهُمْ أَنِ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
@@ -5764,11 +5764,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ثُمَّ جَعَلْنَٰكُمْ خَلَٰٓئِفَ فِى ٱلْأَرْضِ مِنۢ بَعْدِهِمْ لِنَنظُرَ كَيْفَ تَعْمَلُونَ
 
-**10:15** Lan menawi wahyu-wahyu Kita ingkang cetha kawaosaken dhateng piyambakipun, tiyang-tiyang ingkang boten ngajeng-ajeng pepanggihan kaliyan Kita sami matur: “Bekta Quran sanesipun punika, utawi ewahi.” Ngendikakna: “Boten dados urusan kula kangge ngowahi saking karep kula piyambak. Kula namung ndherek punapa ingkang kawahyokaken dhateng kula. Kula ajrih, menawi kula mbangkang dhateng Pangeranku, dhateng siksa Dinten ingkang nggegirisi.”
+**10:15** Lan menawi wahyu-wahyu Kita ingkang cetha kawaosaken dhateng piyambakipun, tiyang-tiyang ingkang boten ngajeng-ajeng pepanggihan kaliyan Kita sami matur: "Bekta Quran sanesipun punika, utawi ewahi." Ngendikakna: "Boten dados urusan kula kangge ngowahi saking karep kula piyambak. Kula namung ndherek punapa ingkang kawahyokaken dhateng kula. Kula ajrih, menawi kula mbangkang dhateng Pangeranku, dhateng siksa Dinten ingkang nggegirisi."
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَاتُنَا بَيِّنَٰتٍۢ ۙ قَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا ٱئْتِ بِقُرْءَانٍ غَيْرِ هَٰذَآ أَوْ بَدِّلْهُ ۚ قُلْ مَا يَكُونُ لِىٓ أَنْ أُبَدِّلَهُۥ مِن تِلْقَآئِ نَفْسِىٓ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۖ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍۢ
 
-**10:16** Ngendikakna: “Menawi Gusti Allah ngersakaken, kula boten badhe maosaken punika dhateng panjenengan, lan Panjenenganipun boten badhe ndadosaken panjenengan mangertos. Kula sampun gesang wonten ing antawis panjenengan sapantaran gesang saderengipun. Punapa panjenengan boten sami mangertos?”
+**10:16** Ngendikakna: "Menawi Gusti Allah ngersakaken, kula boten badhe maosaken punika dhateng panjenengan, lan Panjenenganipun boten badhe ndadosaken panjenengan mangertos. Kula sampun gesang wonten ing antawis panjenengan sapantaran gesang saderengipun. Punapa panjenengan boten sami mangertos?"
 
 قُل لَّوْ شَآءَ ٱللَّهُ مَا تَلَوْتُهُۥ عَلَيْكُمْ وَلَآ أَدْرَىٰكُم بِهِۦ ۖ فَقَدْ لَبِثْتُ فِيكُمْ عُمُرًۭا مِّن قَبْلِهِۦٓ ۚ أَفَلَا تَعْقِلُونَ
 
@@ -5776,7 +5776,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِـَٔايَٰتِهِۦٓ ۚ إِنَّهُۥ لَا يُفْلِحُ ٱلْمُجْرِمُونَ
 
-**10:18** Lan piyambakipun sami nyembah, kejawi Gusti Allah, punapa ingkang boten mbebayani piyambakipun lan boten mupangati piyambakipun. Lan piyambakipun sami matur: “Punika juru syafaat kawula wonten ing ngarsanipun Gusti Allah.” Ngendikakna: “Punapa panjenengan maringi kabar dhateng Gusti Allah bab punapa ingkang Panjenenganipun boten mangertos wonten ing langit-langit utawi ing bumi?” Mahasuci Panjenenganipun, Mahaluhur saking sekutu-sekutu ingkang piyambakipun damel.
+**10:18** Lan piyambakipun sami nyembah, kejawi Gusti Allah, punapa ingkang boten mbebayani piyambakipun lan boten mupangati piyambakipun. Lan piyambakipun sami matur: "Punika juru syafaat kawula wonten ing ngarsanipun Gusti Allah." Ngendikakna: "Punapa panjenengan maringi kabar dhateng Gusti Allah bab punapa ingkang Panjenenganipun boten mangertos wonten ing langit-langit utawi ing bumi?" Mahasuci Panjenenganipun, Mahaluhur saking sekutu-sekutu ingkang piyambakipun damel.
 
 وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ وَيَقُولُونَ هَٰٓؤُلَآءِ شُفَعَٰٓؤُنَا عِندَ ٱللَّهِ ۚ قُلْ أَتُنَبِّـُٔونَ ٱللَّهَ بِمَا لَا يَعْلَمُ فِى ٱلسَّمَٰوَٰتِ وَلَا فِى ٱلْأَرْضِ ۚ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ
 
@@ -5784,15 +5784,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمَا كَانَ ٱلنَّاسُ إِلَّآ أُمَّةًۭ وَٰحِدَةًۭ فَٱخْتَلَفُوا۟ ۚ وَلَوْلَا كَلِمَةٌۭ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ فِيمَا فِيهِ يَخْتَلِفُونَ
 
-**10:20** Lan piyambakipun sami matur: “Menawi kemawon mukjizat dipuntemurunaken dhateng piyambakipun saking Pangeranipun.” Ngendikakna: “Bab ingkang gaib punika kagunganipun Gusti Allah; pramila tengga, kula ugi nengga kaliyan panjenengan.”
+**10:20** Lan piyambakipun sami matur: "Menawi kemawon mukjizat dipuntemurunaken dhateng piyambakipun saking Pangeranipun." Ngendikakna: "Bab ingkang gaib punika kagunganipun Gusti Allah; pramila tengga, kula ugi nengga kaliyan panjenengan."
 
 وَيَقُولُونَ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌۭ مِّن رَّبِّهِۦ ۖ فَقُلْ إِنَّمَا ٱلْغَيْبُ لِلَّهِ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ
 
-**10:21** Menawi Kita ndadosaken tiyang-tiyang ngrasakaken kawelasan sasampunipun kasangsaran ndemek piyambakipun, piyambakipun wiwit nggathuk-nggathuk nglawan wahyu-wahyu Kita. Ngendikakna: “Gusti Allah langkung rikat anggenipun nggathuk.” Utusan-utusan Kita nyerat punapa ingkang panjenengan gathuk.
+**10:21** Menawi Kita ndadosaken tiyang-tiyang ngrasakaken kawelasan sasampunipun kasangsaran ndemek piyambakipun, piyambakipun wiwit nggathuk-nggathuk nglawan wahyu-wahyu Kita. Ngendikakna: "Gusti Allah langkung rikat anggenipun nggathuk." Utusan-utusan Kita nyerat punapa ingkang panjenengan gathuk.
 
 وَإِذَآ أَذَقْنَا ٱلنَّاسَ رَحْمَةًۭ مِّنۢ بَعْدِ ضَرَّآءَ مَسَّتْهُمْ إِذَا لَهُم مَّكْرٌۭ فِىٓ ءَايَاتِنَا ۚ قُلِ ٱللَّهُ أَسْرَعُ مَكْرًا ۚ إِنَّ رُسُلَنَا يَكْتُبُونَ مَا تَمْكُرُونَ
 
-**10:22** Panjenenganipun ingkang ngeteraken panjenengan nglangkungi dharat lan seganten. Ngantos, menawi panjenengan wonten ing kapal-kapal, mlampah kanthi angin ingkang sae, lan bingah awit punika, angin ribut dugi. Ombak mumbul nglangkungi piyambakipun saking saben sisih, lan piyambakipun sami sadar bilih piyambakipun kakepung. Lajeng piyambakipun ndedonga dhateng Gusti Allah, kanthi ngucapaken bekti ingkang tulus dhateng Panjenenganipun: “Menawi Panjenengan ngluwari kawula saking punika, kawula badhe dados tiyang-tiyang ingkang ngaturaken panuwun.”
+**10:22** Panjenenganipun ingkang ngeteraken panjenengan nglangkungi dharat lan seganten. Ngantos, menawi panjenengan wonten ing kapal-kapal, mlampah kanthi angin ingkang sae, lan bingah awit punika, angin ribut dugi. Ombak mumbul nglangkungi piyambakipun saking saben sisih, lan piyambakipun sami sadar bilih piyambakipun kakepung. Lajeng piyambakipun ndedonga dhateng Gusti Allah, kanthi ngucapaken bekti ingkang tulus dhateng Panjenenganipun: "Menawi Panjenengan ngluwari kawula saking punika, kawula badhe dados tiyang-tiyang ingkang ngaturaken panuwun."
 
 هُوَ ٱلَّذِى يُسَيِّرُكُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ ۖ حَتَّىٰٓ إِذَا كُنتُمْ فِى ٱلْفُلْكِ وَجَرَيْنَ بِهِم بِرِيحٍۢ طَيِّبَةٍۢ وَفَرِحُوا۟ بِهَا جَآءَتْهَا رِيحٌ عَاصِفٌۭ وَجَآءَهُمُ ٱلْمَوْجُ مِن كُلِّ مَكَانٍۢ وَظَنُّوٓا۟ أَنَّهُمْ أُحِيطَ بِهِمْ ۙ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ لَئِنْ أَنجَيْتَنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
 
@@ -5816,11 +5816,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَٱلَّذِينَ كَسَبُوا۟ ٱلسَّيِّـَٔاتِ جَزَآءُ سَيِّئَةٍۭ بِمِثْلِهَا وَتَرْهَقُهُمْ ذِلَّةٌۭ ۖ مَّا لَهُم مِّنَ ٱللَّهِ مِنْ عَاصِمٍۢ ۖ كَأَنَّمَآ أُغْشِيَتْ وُجُوهُهُمْ قِطَعًۭا مِّنَ ٱلَّيْلِ مُظْلِمًا ۚ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
-**10:28** Ing Dinten nalika Kita badhe ngempalaken piyambakipun sedaya sesarengan, lajeng ngendika dhateng tiyang-tiyang ingkang nyekutokaken: “Dhateng papan panjenengan, panjenengan lan sekutu-sekutu panjenengan.” Lajeng Kita badhe misahaken antawisipun, lan sekutu-sekutunipun badhe matur: “Sanès kawula ingkang panjenengan sembah.”
+**10:28** Ing Dinten nalika Kita badhe ngempalaken piyambakipun sedaya sesarengan, lajeng ngendika dhateng tiyang-tiyang ingkang nyekutokaken: "Dhateng papan panjenengan, panjenengan lan sekutu-sekutu panjenengan." Lajeng Kita badhe misahaken antawisipun, lan sekutu-sekutunipun badhe matur: "Sanès kawula ingkang panjenengan sembah."
 
 وَيَوْمَ نَحْشُرُهُمْ جَمِيعًۭا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوا۟ مَكَانَكُمْ أَنتُمْ وَشُرَكَآؤُكُمْ ۚ فَزَيَّلْنَا بَيْنَهُمْ ۖ وَقَالَ شُرَكَآؤُهُم مَّا كُنتُمْ إِيَّانَا تَعْبُدُونَ
 
-**10:29** “Gusti Allah cekap dados saksi antawis kawula lan panjenengan. Kawula boten mangertos panjenengan nyembah kawula.”
+**10:29** "Gusti Allah cekap dados saksi antawis kawula lan panjenengan. Kawula boten mangertos panjenengan nyembah kawula."
 
 فَكَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنَنَا وَبَيْنَكُمْ إِن كُنَّا عَنْ عِبَادَتِكُمْ لَغَٰفِلِينَ
 
@@ -5828,7 +5828,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 هُنَالِكَ تَبْلُوا۟ كُلُّ نَفْسٍۢ مَّآ أَسْلَفَتْ ۚ وَرُدُّوٓا۟ إِلَى ٱللَّهِ مَوْلَىٰهُمُ ٱلْحَقِّ ۖ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ
 
-**10:31** Ngendikakna: “Sinten ingkang maringi rejeki dhateng panjenengan saking langit lan bumi? Lan sinten ingkang nguwasani pangrungu lan paningal? Lan sinten ingkang ngedalaken ingkang gesang saking ingkang pejah, lan ngedalaken ingkang pejah saking ingkang gesang? Lan sinten ingkang ngatur Urusan?” Piyambakipun badhe matur: “Gusti Allah.” Ngendikakna: “Punapa panjenengan boten sami ngati-ati?”
+**10:31** Ngendikakna: "Sinten ingkang maringi rejeki dhateng panjenengan saking langit lan bumi? Lan sinten ingkang nguwasani pangrungu lan paningal? Lan sinten ingkang ngedalaken ingkang gesang saking ingkang pejah, lan ngedalaken ingkang pejah saking ingkang gesang? Lan sinten ingkang ngatur Urusan?" Piyambakipun badhe matur: "Gusti Allah." Ngendikakna: "Punapa panjenengan boten sami ngati-ati?"
 
 قُلْ مَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ أَمَّن يَمْلِكُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَمَن يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَمَن يُدَبِّرُ ٱلْأَمْرَ ۚ فَسَيَقُولُونَ ٱللَّهُ ۚ فَقُلْ أَفَلَا تَتَّقُونَ
 
@@ -5840,11 +5840,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 كَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ فَسَقُوٓا۟ أَنَّهُمْ لَا يُؤْمِنُونَ
 
-**10:34** Ngendikakna: “Punapa wonten sekutu panjenengan ingkang saged miwiti titah, lajeng mbaleni?” Ngendikakna: “Gusti Allah miwiti titah, lajeng mbaleni. Kados pundi panjenengan sami kesasar sanget?”
+**10:34** Ngendikakna: "Punapa wonten sekutu panjenengan ingkang saged miwiti titah, lajeng mbaleni?" Ngendikakna: "Gusti Allah miwiti titah, lajeng mbaleni. Kados pundi panjenengan sami kesasar sanget?"
 
 قُلْ هَلْ مِن شُرَكَآئِكُم مَّن يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ۚ قُلِ ٱللَّهُ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ۖ فَأَنَّىٰ تُؤْفَكُونَ
 
-**10:35** Ngendikakna: “Punapa wonten sekutu panjenengan ingkang saged nuntun dhateng kaleresan?” Ngendikakna: “Gusti Allah nuntun dhateng kaleresan. Punapa Panjenenganipun ingkang nuntun dhateng kaleresan langkung pantes dipundherek, utawi tiyang ingkang boten nuntun, kajaba piyambakipun piyambak kanuntun? Punapa prakawis panjenengan? Kados pundi panjenengan sami mutusaken?”
+**10:35** Ngendikakna: "Punapa wonten sekutu panjenengan ingkang saged nuntun dhateng kaleresan?" Ngendikakna: "Gusti Allah nuntun dhateng kaleresan. Punapa Panjenenganipun ingkang nuntun dhateng kaleresan langkung pantes dipundherek, utawi tiyang ingkang boten nuntun, kajaba piyambakipun piyambak kanuntun? Punapa prakawis panjenengan? Kados pundi panjenengan sami mutusaken?"
 
 قُلْ هَلْ مِن شُرَكَآئِكُم مَّن يَهْدِىٓ إِلَى ٱلْحَقِّ ۚ قُلِ ٱللَّهُ يَهْدِى لِلْحَقِّ ۗ أَفَمَن يَهْدِىٓ إِلَى ٱلْحَقِّ أَحَقُّ أَن يُتَّبَعَ أَمَّن لَّا يَهِدِّىٓ إِلَّآ أَن يُهْدَىٰ ۖ فَمَا لَكُمْ كَيْفَ تَحْكُمُونَ
 
@@ -5856,7 +5856,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمَا كَانَ هَٰذَا ٱلْقُرْءَانُ أَن يُفْتَرَىٰ مِن دُونِ ٱللَّهِ وَلَٰكِن تَصْدِيقَ ٱلَّذِى بَيْنَ يَدَيْهِ وَتَفْصِيلَ ٱلْكِتَٰبِ لَا رَيْبَ فِيهِ مِن رَّبِّ ٱلْعَٰلَمِينَ
 
-**10:38** Utawi punapa piyambakipun sami matur: “Piyambakipun sampun ngarang punika”? Ngendikakna: “Lajeng damela satunggal bab kados punika, lan undang sinten kemawon ingkang panjenengan saged, kejawi Gusti Allah, menawi panjenengan leres.”
+**10:38** Utawi punapa piyambakipun sami matur: "Piyambakipun sampun ngarang punika"? Ngendikakna: "Lajeng damela satunggal bab kados punika, lan undang sinten kemawon ingkang panjenengan saged, kejawi Gusti Allah, menawi panjenengan leres."
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِسُورَةٍۢ مِّثْلِهِۦ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -5868,7 +5868,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمِنْهُم مَّن يُؤْمِنُ بِهِۦ وَمِنْهُم مَّن لَّا يُؤْمِنُ بِهِۦ ۚ وَرَبُّكَ أَعْلَمُ بِٱلْمُفْسِدِينَ
 
-**10:41** Menawi piyambakipun nuduh panjenengan goroh, ngendikakna: “Kula gadhah tumindak kula, lan panjenengan gadhah tumindak panjenengan. Panjenengan bebas saking punapa ingkang kula tindakaken, lan kula bebas saking punapa ingkang panjenengan tindakaken.”
+**10:41** Menawi piyambakipun nuduh panjenengan goroh, ngendikakna: "Kula gadhah tumindak kula, lan panjenengan gadhah tumindak panjenengan. Panjenengan bebas saking punapa ingkang kula tindakaken, lan kula bebas saking punapa ingkang panjenengan tindakaken."
 
 وَإِن كَذَّبُوكَ فَقُل لِّى عَمَلِى وَلَكُمْ عَمَلُكُمْ ۖ أَنتُم بَرِيٓـُٔونَ مِمَّآ أَعْمَلُ وَأَنَا۠ بَرِىٓءٌۭ مِّمَّا تَعْمَلُونَ
 
@@ -5896,27 +5896,27 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلِكُلِّ أُمَّةٍۢ رَّسُولٌۭ ۖ فَإِذَا جَآءَ رَسُولُهُمْ قُضِىَ بَيْنَهُم بِٱلْقِسْطِ وَهُمْ لَا يُظْلَمُونَ
 
-**10:48** Lan piyambakipun sami matur: “Kapan janji punika badhe kapatrapaken, menawi panjenengan leres?”
+**10:48** Lan piyambakipun sami matur: "Kapan janji punika badhe kapatrapaken, menawi panjenengan leres?"
 
 وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
 
-**10:49** Ngendikakna: “Kula boten gadhah kuwaos kangge mbebayani utawi mupangati dhiri kula piyambak, kajaba kados ingkang Gusti Allah kersakaken. Tumrap saben bangsa wonten wekdal ingkang sampun katemtokaken. Lajeng, menawi wekdalipun dugi, piyambakipun boten saged nundha satunggal jam, lan boten saged majengaken.
+**10:49** Ngendikakna: "Kula boten gadhah kuwaos kangge mbebayani utawi mupangati dhiri kula piyambak, kajaba kados ingkang Gusti Allah kersakaken. Tumrap saben bangsa wonten wekdal ingkang sampun katemtokaken. Lajeng, menawi wekdalipun dugi, piyambakipun boten saged nundha satunggal jam, lan boten saged majengaken.
 
 قُل لَّآ أَمْلِكُ لِنَفْسِى ضَرًّۭا وَلَا نَفْعًا إِلَّا مَا شَآءَ ٱللَّهُ ۗ لِكُلِّ أُمَّةٍ أَجَلٌ ۚ إِذَا جَآءَ أَجَلُهُمْ فَلَا يَسْتَـْٔخِرُونَ سَاعَةًۭ ۖ وَلَا يَسْتَقْدِمُونَ
 
-**10:50** Ngendikakna: “Punapa panjenengan sampun nimbang? Menawi paukuman Panjenenganipun ndemek panjenengan ing dalu utawi ing siyang, perangan pundi saking punika ingkang tiyang-tiyang salah badhe nyepetaken?”
+**10:50** Ngendikakna: "Punapa panjenengan sampun nimbang? Menawi paukuman Panjenenganipun ndemek panjenengan ing dalu utawi ing siyang, perangan pundi saking punika ingkang tiyang-tiyang salah badhe nyepetaken?"
 
 قُلْ أَرَءَيْتُمْ إِنْ أَتَىٰكُمْ عَذَابُهُۥ بَيَٰتًا أَوْ نَهَارًۭا مَّاذَا يَسْتَعْجِلُ مِنْهُ ٱلْمُجْرِمُونَ
 
-**10:51** “Lajeng, menawi punika tumiba, punapa panjenengan badhe pitados dhatengipun? Samangke? Nalika sadurunge panjenengan nyobi nyepetaken?”
+**10:51** "Lajeng, menawi punika tumiba, punapa panjenengan badhe pitados dhatengipun? Samangke? Nalika sadurunge panjenengan nyobi nyepetaken?"
 
 أَثُمَّ إِذَا مَا وَقَعَ ءَامَنتُم بِهِۦٓ ۚ ءَآلْـَٰٔنَ وَقَدْ كُنتُم بِهِۦ تَسْتَعْجِلُونَ
 
-**10:52** Lajeng badhe kaendikakaken dhateng tiyang-tiyang ingkang sampun tumindak salah: “Rasakna siksa kalanggengan. Punapa panjenengan badhe kaganjaran kajaba tumrap punapa ingkang biyen panjenengan tindakaken?”
+**10:52** Lajeng badhe kaendikakaken dhateng tiyang-tiyang ingkang sampun tumindak salah: "Rasakna siksa kalanggengan. Punapa panjenengan badhe kaganjaran kajaba tumrap punapa ingkang biyen panjenengan tindakaken?"
 
 ثُمَّ قِيلَ لِلَّذِينَ ظَلَمُوا۟ ذُوقُوا۟ عَذَابَ ٱلْخُلْدِ هَلْ تُجْزَوْنَ إِلَّا بِمَا كُنتُمْ تَكْسِبُونَ
 
-**10:53** Lan piyambakipun nyuwun pirsa dhateng panjenengan: “Punapa punika leres?” Ngendikakna: “Inggih, demi Pangeranku, punika leres, lan panjenengan boten saged ngendhani.”
+**10:53** Lan piyambakipun nyuwun pirsa dhateng panjenengan: "Punapa punika leres?" Ngendikakna: "Inggih, demi Pangeranku, punika leres, lan panjenengan boten saged ngendhani."
 
 ۞ وَيَسْتَنۢبِـُٔونَكَ أَحَقٌّ هُوَ ۖ قُلْ إِى وَرَبِّىٓ إِنَّهُۥ لَحَقٌّۭ ۖ وَمَآ أَنتُم بِمُعْجِزِينَ
 
@@ -5936,11 +5936,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَتْكُم مَّوْعِظَةٌۭ مِّن رَّبِّكُمْ وَشِفَآءٌۭ لِّمَا فِى ٱلصُّدُورِ وَهُدًۭى وَرَحْمَةٌۭ لِّلْمُؤْمِنِينَ
 
-**10:58** Ngendikakna: “Wonten ing sih lan kawelasan Gusti Allah mangga piyambakipun sami bingah. Punika langkung sae tinimbang punapa ingkang piyambakipun klempakaken.”
+**10:58** Ngendikakna: "Wonten ing sih lan kawelasan Gusti Allah mangga piyambakipun sami bingah. Punika langkung sae tinimbang punapa ingkang piyambakipun klempakaken."
 
 قُلْ بِفَضْلِ ٱللَّهِ وَبِرَحْمَتِهِۦ فَبِذَٰلِكَ فَلْيَفْرَحُوا۟ هُوَ خَيْرٌۭ مِّمَّا يَجْمَعُونَ
 
-**10:59** Ngendikakna: “Punapa panjenengan sampun nimbang rejeki ingkang Gusti Allah temurunaken kangge panjenengan, sawetawis saking punika panjenengan dadosaken haram, lan sawetawis halal?” Ngendikakna: “Punapa Gusti Allah maringi idin dhateng panjenengan, utawi panjenengan ngarang goroh lan nyangkutaken dhateng Gusti Allah?”
+**10:59** Ngendikakna: "Punapa panjenengan sampun nimbang rejeki ingkang Gusti Allah temurunaken kangge panjenengan, sawetawis saking punika panjenengan dadosaken haram, lan sawetawis halal?" Ngendikakna: "Punapa Gusti Allah maringi idin dhateng panjenengan, utawi panjenengan ngarang goroh lan nyangkutaken dhateng Gusti Allah?"
 
 قُلْ أَرَءَيْتُم مَّآ أَنزَلَ ٱللَّهُ لَكُم مِّن رِّزْقٍۢ فَجَعَلْتُم مِّنْهُ حَرَامًۭا وَحَلَٰلًۭا قُلْ ءَآللَّهُ أَذِنَ لَكُمْ ۖ أَمْ عَلَى ٱللَّهِ تَفْتَرُونَ
 
@@ -5976,11 +5976,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِتَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَسْمَعُونَ
 
-**10:68** Lan piyambakipun sami matur: “Gusti Allah sampun mundhut putra.” Mahasuci Panjenenganipun. Panjenenganipun ingkang Cekap Piyambak. Kagunganipun sedaya ingkang wonten ing langit-langit lan sedaya ingkang wonten ing bumi. Punapa panjenengan gadhah bukti tumrap punika? Utawi panjenengan ngendika bab Gusti Allah punapa ingkang panjenengan boten mangertos?
+**10:68** Lan piyambakipun sami matur: "Gusti Allah sampun mundhut putra." Mahasuci Panjenenganipun. Panjenenganipun ingkang Cekap Piyambak. Kagunganipun sedaya ingkang wonten ing langit-langit lan sedaya ingkang wonten ing bumi. Punapa panjenengan gadhah bukti tumrap punika? Utawi panjenengan ngendika bab Gusti Allah punapa ingkang panjenengan boten mangertos?
 
 قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًۭا ۗ سُبْحَٰنَهُۥ ۖ هُوَ ٱلْغَنِىُّ ۖ لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ إِنْ عِندَكُم مِّن سُلْطَٰنٍۭ بِهَٰذَآ ۚ أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ
 
-**10:69** Ngendikakna: “Tiyang-tiyang ingkang ngarang goroh bab Gusti Allah boten badhe kasil.”
+**10:69** Ngendikakna: "Tiyang-tiyang ingkang ngarang goroh bab Gusti Allah boten badhe kasil."
 
 قُلْ إِنَّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ لَا يُفْلِحُونَ
 
@@ -5988,11 +5988,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 مَتَٰعٌۭ فِى ٱلدُّنْيَا ثُمَّ إِلَيْنَا مَرْجِعُهُمْ ثُمَّ نُذِيقُهُمُ ٱلْعَذَابَ ٱلشَّدِيدَ بِمَا كَانُوا۟ يَكْفُرُونَ
 
-**10:71** Lan cariyosna dhateng piyambakipun cariyosipun Nuh, nalika piyambakipun ngendika dhateng kaumipun: “Dhuh kaumku, menawi kamedal kula wonten ing antawis panjenengan lan pepenget kula dhateng panjenengan bab pratandha-pratandha Gusti Allah langkung awrat tumrap panjenengan, lajeng wonten ing Gusti Allah kula sampun masrahaken kapitadosan kula. Pramila damela keputusan, panjenengan lan sekutu-sekutu panjenengan, lan sampun ngantos prakawis punika ndadosaken panjenengan bingung; lajeng tindakna keputusan panjenengan tumrap kula, lan sampun ngantos nundha.”
+**10:71** Lan cariyosna dhateng piyambakipun cariyosipun Nuh, nalika piyambakipun ngendika dhateng kaumipun: "Dhuh kaumku, menawi kamedal kula wonten ing antawis panjenengan lan pepenget kula dhateng panjenengan bab pratandha-pratandha Gusti Allah langkung awrat tumrap panjenengan, lajeng wonten ing Gusti Allah kula sampun masrahaken kapitadosan kula. Pramila damela keputusan, panjenengan lan sekutu-sekutu panjenengan, lan sampun ngantos prakawis punika ndadosaken panjenengan bingung; lajeng tindakna keputusan panjenengan tumrap kula, lan sampun ngantos nundha."
 
 ۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ نُوحٍ إِذْ قَالَ لِقَوْمِهِۦ يَٰقَوْمِ إِن كَانَ كَبُرَ عَلَيْكُم مَّقَامِى وَتَذْكِيرِى بِـَٔايَٰتِ ٱللَّهِ فَعَلَى ٱللَّهِ تَوَكَّلْتُ فَأَجْمِعُوٓا۟ أَمْرَكُمْ وَشُرَكَآءَكُمْ ثُمَّ لَا يَكُنْ أَمْرُكُمْ عَلَيْكُمْ غُمَّةًۭ ثُمَّ ٱقْضُوٓا۟ إِلَىَّ وَلَا تُنظِرُونِ
 
-**10:72** “Nanging menawi panjenengan sami maling, kula boten nyuwun upah punapa-punapa dhateng panjenengan. Upah kula namung wonten ing Gusti Allah, lan kula kaprentah dados tiyang-tiyang ingkang masrahaken dhiri.”
+**10:72** "Nanging menawi panjenengan sami maling, kula boten nyuwun upah punapa-punapa dhateng panjenengan. Upah kula namung wonten ing Gusti Allah, lan kula kaprentah dados tiyang-tiyang ingkang masrahaken dhiri."
 
 فَإِن تَوَلَّيْتُمْ فَمَا سَأَلْتُكُم مِّنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ ۖ وَأُمِرْتُ أَنْ أَكُونَ مِنَ ٱلْمُسْلِمِينَ
 
@@ -6008,31 +6008,31 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ
 
-**10:76** Lan nalika kaleresan dugi dhateng piyambakipun saking Kita, piyambakipun sami matur: “Punika saestu sihir ingkang cetha.”
+**10:76** Lan nalika kaleresan dugi dhateng piyambakipun saking Kita, piyambakipun sami matur: "Punika saestu sihir ingkang cetha."
 
 فَلَمَّا جَآءَهُمُ ٱلْحَقُّ مِنْ عِندِنَا قَالُوٓا۟ إِنَّ هَٰذَا لَسِحْرٌۭ مُّبِينٌۭ
 
-**10:77** Musa ngendika: “Punapa mekaten pangucap panjenengan bab kaleresan nalika sampun dugi dhateng panjenengan? Punapa punika sihir? Tukang-tukang sihir boten kasil.”
+**10:77** Musa ngendika: "Punapa mekaten pangucap panjenengan bab kaleresan nalika sampun dugi dhateng panjenengan? Punapa punika sihir? Tukang-tukang sihir boten kasil."
 
 قَالَ مُوسَىٰٓ أَتَقُولُونَ لِلْحَقِّ لَمَّا جَآءَكُمْ ۖ أَسِحْرٌ هَٰذَا وَلَا يُفْلِحُ ٱلسَّٰحِرُونَ
 
-**10:78** Piyambakipun sami matur: “Punapa panjenengan dugi dhateng kawula kangge malingaken kawula saking punapa ingkang leluhur kawula ndherek, lan supados panjenengan dados misuwur wonten ing nagari? Kawula boten nate badhe pitados dhateng panjenengan.”
+**10:78** Piyambakipun sami matur: "Punapa panjenengan dugi dhateng kawula kangge malingaken kawula saking punapa ingkang leluhur kawula ndherek, lan supados panjenengan dados misuwur wonten ing nagari? Kawula boten nate badhe pitados dhateng panjenengan."
 
 قَالُوٓا۟ أَجِئْتَنَا لِتَلْفِتَنَا عَمَّا وَجَدْنَا عَلَيْهِ ءَابَآءَنَا وَتَكُونَ لَكُمَا ٱلْكِبْرِيَآءُ فِى ٱلْأَرْضِ وَمَا نَحْنُ لَكُمَا بِمُؤْمِنِينَ
 
-**10:79** Fir'aun matur: “Bekta dhateng kula saben tukang sihir ingkang prigel.”
+**10:79** Fir'aun matur: "Bekta dhateng kula saben tukang sihir ingkang prigel."
 
 وَقَالَ فِرْعَوْنُ ٱئْتُونِى بِكُلِّ سَٰحِرٍ عَلِيمٍۢ
 
-**10:80** Lan nalika tukang-tukang sihir dugi, Musa ngendika dhateng piyambakipun: “Uncalna punapa kemawon ingkang panjenengan gadhah kangge kauncalaken.”
+**10:80** Lan nalika tukang-tukang sihir dugi, Musa ngendika dhateng piyambakipun: "Uncalna punapa kemawon ingkang panjenengan gadhah kangge kauncalaken."
 
 فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ
 
-**10:81** Lan nalika piyambakipun nguncalaken, Musa ngendika: “Punapa ingkang panjenengan damel punika sihir, lan Gusti Allah badhe ndadosaken gagal. Gusti Allah boten njurung upayanipun tiyang-tiyang ingkang risak.”
+**10:81** Lan nalika piyambakipun nguncalaken, Musa ngendika: "Punapa ingkang panjenengan damel punika sihir, lan Gusti Allah badhe ndadosaken gagal. Gusti Allah boten njurung upayanipun tiyang-tiyang ingkang risak."
 
 فَلَمَّآ أَلْقَوْا۟ قَالَ مُوسَىٰ مَا جِئْتُم بِهِ ٱلسِّحْرُ ۖ إِنَّ ٱللَّهَ سَيُبْطِلُهُۥٓ ۖ إِنَّ ٱللَّهَ لَا يُصْلِحُ عَمَلَ ٱلْمُفْسِدِينَ
 
-**10:82** “Lan Gusti Allah njurung kaleresan kanthi pangandika Panjenenganipun, sanajan tiyang-tiyang dosa sami sengit.”
+**10:82** "Lan Gusti Allah njurung kaleresan kanthi pangandika Panjenenganipun, sanajan tiyang-tiyang dosa sami sengit."
 
 وَيُحِقُّ ٱللَّهُ ٱلْحَقَّ بِكَلِمَٰتِهِۦ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ
 
@@ -6040,31 +6040,31 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَمَآ ءَامَنَ لِمُوسَىٰٓ إِلَّا ذُرِّيَّةٌۭ مِّن قَوْمِهِۦ عَلَىٰ خَوْفٍۢ مِّن فِرْعَوْنَ وَمَلَإِي۟هِمْ أَن يَفْتِنَهُمْ ۚ وَإِنَّ فِرْعَوْنَ لَعَالٍۢ فِى ٱلْأَرْضِ وَإِنَّهُۥ لَمِنَ ٱلْمُسْرِفِينَ
 
-**10:84** Musa ngendika: “Dhuh kaumku, menawi panjenengan sampun pitados dhateng Gusti Allah, lajeng masrahna kapitadosan panjenengan dhateng Panjenenganipun, menawi panjenengan sampun masrahaken dhiri.”
+**10:84** Musa ngendika: "Dhuh kaumku, menawi panjenengan sampun pitados dhateng Gusti Allah, lajeng masrahna kapitadosan panjenengan dhateng Panjenenganipun, menawi panjenengan sampun masrahaken dhiri."
 
 وَقَالَ مُوسَىٰ يَٰقَوْمِ إِن كُنتُمْ ءَامَنتُم بِٱللَّهِ فَعَلَيْهِ تَوَكَّلُوٓا۟ إِن كُنتُم مُّسْلِمِينَ
 
-**10:85** Piyambakipun sami matur: “Wonten ing Gusti Allah kawula sampun masrahaken kapitadosan kawula. Dhuh Pangeran kita, sampun ngantos Panjenengan ndadosaken kawula dados kurban tumrap tiyang-tiyang ingkang nganiaya.”
+**10:85** Piyambakipun sami matur: "Wonten ing Gusti Allah kawula sampun masrahaken kapitadosan kawula. Dhuh Pangeran kita, sampun ngantos Panjenengan ndadosaken kawula dados kurban tumrap tiyang-tiyang ingkang nganiaya."
 
 فَقَالُوا۟ عَلَى ٱللَّهِ تَوَكَّلْنَا رَبَّنَا لَا تَجْعَلْنَا فِتْنَةًۭ لِّلْقَوْمِ ٱلظَّٰلِمِينَ
 
-**10:86** “Lan luwarana kawula, kanthi kawelasan Panjenengan, saking tiyang-tiyang ingkang kafir.”
+**10:86** "Lan luwarana kawula, kanthi kawelasan Panjenengan, saking tiyang-tiyang ingkang kafir."
 
 وَنَجِّنَا بِرَحْمَتِكَ مِنَ ٱلْقَوْمِ ٱلْكَٰفِرِينَ
 
-**10:87** Lan Kita maringi wahyu dhateng Musa lan sedherekipun: “Papana kaum panjenengan wonten ing Mesir, lan dadosna griya-griya panjenengan papan pangibadah, lan tindakna pandonga, lan paringana kabar bingah dhateng tiyang-tiyang ingkang pitados.”
+**10:87** Lan Kita maringi wahyu dhateng Musa lan sedherekipun: "Papana kaum panjenengan wonten ing Mesir, lan dadosna griya-griya panjenengan papan pangibadah, lan tindakna pandonga, lan paringana kabar bingah dhateng tiyang-tiyang ingkang pitados."
 
 وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوْمِكُمَا بِمِصْرَ بُيُوتًۭا وَٱجْعَلُوا۟ بُيُوتَكُمْ قِبْلَةًۭ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ
 
-**10:88** Musa matur: “Dhuh Pangeran kita, Panjenengan sampun maringi Fir'aun lan para pangagengipun kamulyan lan kasugihan wonten ing gesang donya. Dhuh Pangeran kita, supados piyambakipun nuntun kesah saking margi Panjenengan. Dhuh Pangeran kita, sirnakna kasugihanipun, lan atosna manahipun, piyambakipun boten badhe pitados ngantos piyambakipun ningali siksa ingkang nglarani.”
+**10:88** Musa matur: "Dhuh Pangeran kita, Panjenengan sampun maringi Fir'aun lan para pangagengipun kamulyan lan kasugihan wonten ing gesang donya. Dhuh Pangeran kita, supados piyambakipun nuntun kesah saking margi Panjenengan. Dhuh Pangeran kita, sirnakna kasugihanipun, lan atosna manahipun, piyambakipun boten badhe pitados ngantos piyambakipun ningali siksa ingkang nglarani."
 
 وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةًۭ وَأَمْوَٰلًۭا فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ ۖ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
 
-**10:89** Panjenenganipun ngendika: “Pandonga panjenengan sampun katurutan, pramila mlampaha lurus, lan sampun ngantos ndherek marginipun tiyang-tiyang ingkang boten mangertos.”
+**10:89** Panjenenganipun ngendika: "Pandonga panjenengan sampun katurutan, pramila mlampaha lurus, lan sampun ngantos ndherek marginipun tiyang-tiyang ingkang boten mangertos."
 
 قَالَ قَدْ أُجِيبَت دَّعْوَتُكُمَا فَٱسْتَقِيمَا وَلَا تَتَّبِعَآنِّ سَبِيلَ ٱلَّذِينَ لَا يَعْلَمُونَ
 
-**10:90** Lan Kita ngluwari Bani Israil nyabrang seganten. Fir'aun lan wadya-balanipun ngoyak piyambakipun, kanthi mbangkang lan agresif. Ngantos, nalika piyambakipun badhe kleleb, piyambakipun matur: “Kula pitados bilih boten wonten gusti kajaba Panjenengan ingkang Bani Israil pitados dhateng Panjenenganipun, lan kula kalebet tiyang-tiyang ingkang masrahaken dhiri.”
+**10:90** Lan Kita ngluwari Bani Israil nyabrang seganten. Fir'aun lan wadya-balanipun ngoyak piyambakipun, kanthi mbangkang lan agresif. Ngantos, nalika piyambakipun badhe kleleb, piyambakipun matur: "Kula pitados bilih boten wonten gusti kajaba Panjenengan ingkang Bani Israil pitados dhateng Panjenenganipun, lan kula kalebet tiyang-tiyang ingkang masrahaken dhiri."
 
 ۞ وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًۭا وَعَدْوًا ۖ حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱلَّذِىٓ ءَامَنَتْ بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ
 
@@ -6108,11 +6108,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمَا كَانَ لِنَفْسٍ أَن تُؤْمِنَ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَيَجْعَلُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يَعْقِلُونَ
 
-**10:101** Ngendikakna: “Tingali punapa ingkang wonten ing langit-langit lan ing bumi.” Nanging pratandha-pratandha lan pepenget-pepenget boten mupangati tumrap tiyang-tiyang ingkang boten pitados.
+**10:101** Ngendikakna: "Tingali punapa ingkang wonten ing langit-langit lan ing bumi." Nanging pratandha-pratandha lan pepenget-pepenget boten mupangati tumrap tiyang-tiyang ingkang boten pitados.
 
 قُلِ ٱنظُرُوا۟ مَاذَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَمَا تُغْنِى ٱلْءَايَٰتُ وَٱلنُّذُرُ عَن قَوْمٍۢ لَّا يُؤْمِنُونَ
 
-**10:102** Punapa piyambakipun ngajeng-ajeng kajaba kados dinten-dintenipun tiyang-tiyang ingkang sampun langkung rumiyin? Ngendikakna: “Lajeng tengga, kula badhe nengga sesarengan kaliyan panjenengan.”
+**10:102** Punapa piyambakipun ngajeng-ajeng kajaba kados dinten-dintenipun tiyang-tiyang ingkang sampun langkung rumiyin? Ngendikakna: "Lajeng tengga, kula badhe nengga sesarengan kaliyan panjenengan."
 
 فَهَلْ يَنتَظِرُونَ إِلَّا مِثْلَ أَيَّامِ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِهِمْ ۚ قُلْ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ
 
@@ -6120,7 +6120,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ثُمَّ نُنَجِّى رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟ ۚ كَذَٰلِكَ حَقًّا عَلَيْنَا نُنجِ ٱلْمُؤْمِنِينَ
 
-**10:104** Ngendikakna: “Dhuh tiyang-tiyang, menawi panjenengan ragu-ragu bab agami kula — kula boten ngabekti dhateng tiyang-tiyang ingkang panjenengan abekti kejawi Gusti Allah. Nanging kula ngabekti dhateng Gusti Allah, ingkang badhe mungkasi gesang panjenengan. Lan kula kaprentah dados tiyang-tiyang ingkang pitados.”
+**10:104** Ngendikakna: "Dhuh tiyang-tiyang, menawi panjenengan ragu-ragu bab agami kula — kula boten ngabekti dhateng tiyang-tiyang ingkang panjenengan abekti kejawi Gusti Allah. Nanging kula ngabekti dhateng Gusti Allah, ingkang badhe mungkasi gesang panjenengan. Lan kula kaprentah dados tiyang-tiyang ingkang pitados."
 
 قُلْ يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمْ فِى شَكٍّۢ مِّن دِينِى فَلَآ أَعْبُدُ ٱلَّذِينَ تَعْبُدُونَ مِن دُونِ ٱللَّهِ وَلَٰكِنْ أَعْبُدُ ٱللَّهَ ٱلَّذِى يَتَوَفَّىٰكُمْ ۖ وَأُمِرْتُ أَنْ أَكُونَ مِنَ ٱلْمُؤْمِنِينَ
 
@@ -6136,7 +6136,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَإِن يَمْسَسْكَ ٱللَّهُ بِضُرٍّۢ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَ ۖ وَإِن يُرِدْكَ بِخَيْرٍۢ فَلَا رَآدَّ لِفَضْلِهِۦ ۚ يُصِيبُ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۚ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
-**10:108** Ngendikakna: “Dhuh tiyang-tiyang, kaleresan sampun dugi dhateng panjenengan saking Pangeranmu. Sinten kemawon ingkang nampi pitedah kanuntun tumrap jiwane piyambak; lan sinten kemawon ingkang kesasar namung kesasar kangge karugianipun. Kula sanès pangayom tumrap panjenengan.”
+**10:108** Ngendikakna: "Dhuh tiyang-tiyang, kaleresan sampun dugi dhateng panjenengan saking Pangeranmu. Sinten kemawon ingkang nampi pitedah kanuntun tumrap jiwane piyambak; lan sinten kemawon ingkang kesasar namung kesasar kangge karugianipun. Kula sanès pangayom tumrap panjenengan."
 
 قُلْ يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُمُ ٱلْحَقُّ مِن رَّبِّكُمْ ۖ فَمَنِ ٱهْتَدَىٰ فَإِنَّمَا يَهْتَدِى لِنَفْسِهِۦ ۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۖ وَمَآ أَنَا۠ عَلَيْكُم بِوَكِيلٍۢ
 
@@ -6160,15 +6160,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 الٓر ۚ كِتَٰبٌ أُحْكِمَتْ ءَايَٰتُهُۥ ثُمَّ فُصِّلَتْ مِن لَّدُنْ حَكِيمٍ خَبِيرٍ
 
-**11:2** Bilih panjenengan boten badhe nyembah kajaba Gusti Allah. “Kula satunggaling juru pepenget dhateng panjenengan saking Panjenenganipun, lan juru bekta kabar bingah.”
+**11:2** Bilih panjenengan boten badhe nyembah kajaba Gusti Allah. "Kula satunggaling juru pepenget dhateng panjenengan saking Panjenenganipun, lan juru bekta kabar bingah."
 
 أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ ۚ إِنَّنِى لَكُم مِّنْهُ نَذِيرٌۭ وَبَشِيرٌۭ
 
-**11:3** “Lan nyuwuna pangapura dhateng Pangeranmu, lan tobat dhateng Panjenenganipun. Panjenenganipun badhe maringi panjenengan rejeki ingkang sae ngantos wekdal ingkang sampun katemtokaken, lan badhe maringi sih Panjenenganipun dhateng saben ingkang gadhah kautaman. Nanging menawi panjenengan sami maling, lajeng kula ajrih tumrap panjenengan paukuman Dinten ingkang awrat.”
+**11:3** "Lan nyuwuna pangapura dhateng Pangeranmu, lan tobat dhateng Panjenenganipun. Panjenenganipun badhe maringi panjenengan rejeki ingkang sae ngantos wekdal ingkang sampun katemtokaken, lan badhe maringi sih Panjenenganipun dhateng saben ingkang gadhah kautaman. Nanging menawi panjenengan sami maling, lajeng kula ajrih tumrap panjenengan paukuman Dinten ingkang awrat."
 
 وَأَنِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُمَتِّعْكُم مَّتَٰعًا حَسَنًا إِلَىٰٓ أَجَلٍۢ مُّسَمًّۭى وَيُؤْتِ كُلَّ ذِى فَضْلٍۢ فَضْلَهُۥ ۖ وَإِن تَوَلَّوْا۟ فَإِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍۢ كَبِيرٍ
 
-**11:4** “Dhateng Gusti Allah wangsul panjenengan, lan Panjenenganipun Kuwaos tumrap sedaya prakawis.”
+**11:4** "Dhateng Gusti Allah wangsul panjenengan, lan Panjenenganipun Kuwaos tumrap sedaya prakawis."
 
 إِلَى ٱللَّهِ مَرْجِعُكُمْ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ
 
@@ -6180,11 +6180,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ۞ وَمَا مِن دَآبَّةٍۢ فِى ٱلْأَرْضِ إِلَّا عَلَى ٱللَّهِ رِزْقُهَا وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا ۚ كُلٌّۭ فِى كِتَٰبٍۢ مُّبِينٍۢ
 
-**11:7** Panjenenganipun ingkang nitahaken langit-langit lan bumi wonten ing enem dinten — lan Dhampar Panjenenganipun wonten ing inggilipun toya — kangge nyoba panjenengan — sinten antawis panjenengan ingkang sae piyambak tindak-tandukipun. Lan menawi panjenengan ngendika: “Panjenengan badhe kawungokaken sasampunipun pejah,” tiyang-tiyang ingkang kafir badhe matur: “Punika sanès kajaba sihir ingkang cetha.”
+**11:7** Panjenenganipun ingkang nitahaken langit-langit lan bumi wonten ing enem dinten — lan Dhampar Panjenenganipun wonten ing inggilipun toya — kangge nyoba panjenengan — sinten antawis panjenengan ingkang sae piyambak tindak-tandukipun. Lan menawi panjenengan ngendika: "Panjenengan badhe kawungokaken sasampunipun pejah," tiyang-tiyang ingkang kafir badhe matur: "Punika sanès kajaba sihir ingkang cetha."
 
 وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍۢ وَكَانَ عَرْشُهُۥ عَلَى ٱلْمَآءِ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًۭا ۗ وَلَئِن قُلْتَ إِنَّكُم مَّبْعُوثُونَ مِنۢ بَعْدِ ٱلْمَوْتِ لَيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌۭ
 
-**11:8** Lan menawi Kita nundha paukumanipun ngantos wekdal ingkang sampun katemtokaken, piyambakipun badhe matur: “Punapa ingkang nahan?” Ing Dinten nalika punika dugi dhateng piyambakipun, punika boten badhe kapalingaken saking piyambakipun, lan punapa ingkang biyen piyambakipun ece badhe ngepung piyambakipun.
+**11:8** Lan menawi Kita nundha paukumanipun ngantos wekdal ingkang sampun katemtokaken, piyambakipun badhe matur: "Punapa ingkang nahan?" Ing Dinten nalika punika dugi dhateng piyambakipun, punika boten badhe kapalingaken saking piyambakipun, lan punapa ingkang biyen piyambakipun ece badhe ngepung piyambakipun.
 
 وَلَئِنْ أَخَّرْنَا عَنْهُمُ ٱلْعَذَابَ إِلَىٰٓ أُمَّةٍۢ مَّعْدُودَةٍۢ لَّيَقُولُنَّ مَا يَحْبِسُهُۥٓ ۗ أَلَا يَوْمَ يَأْتِيهِمْ لَيْسَ مَصْرُوفًا عَنْهُمْ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
@@ -6192,7 +6192,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَئِنْ أَذَقْنَا ٱلْإِنسَٰنَ مِنَّا رَحْمَةًۭ ثُمَّ نَزَعْنَٰهَا مِنْهُ إِنَّهُۥ لَيَـُٔوسٌۭ كَفُورٌۭ
 
-**11:10** Lan menawi Kita maringi piyambakipun raos kamakmuran, sasampunipun kasangsaran nandhang piyambakipun, piyambakipun badhe matur: “Kasangsaran sampun kesah saking kula.” Piyambakipun dados gumedhe lan gumunggung.
+**11:10** Lan menawi Kita maringi piyambakipun raos kamakmuran, sasampunipun kasangsaran nandhang piyambakipun, piyambakipun badhe matur: "Kasangsaran sampun kesah saking kula." Piyambakipun dados gumedhe lan gumunggung.
 
 وَلَئِنْ أَذَقْنَٰهُ نَعْمَآءَ بَعْدَ ضَرَّآءَ مَسَّتْهُ لَيَقُولَنَّ ذَهَبَ ٱلسَّيِّـَٔاتُ عَنِّىٓ ۚ إِنَّهُۥ لَفَرِحٌۭ فَخُورٌ
 
@@ -6200,11 +6200,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِلَّا ٱلَّذِينَ صَبَرُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أُو۟لَٰٓئِكَ لَهُم مَّغْفِرَةٌۭ وَأَجْرٌۭ كَبِيرٌۭ
 
-**11:12** Mbokmenawa panjenengan kepingin nglirwakaken sawetawis punapa ingkang kawahyokaken dhateng panjenengan, lan panjenengan saged dados kasesek awit punika, amargi piyambakipun sami matur: “Menawi kemawon bandha dipuntemurunaken dhateng piyambakipun, utawi malaikat dugi sesarengan kaliyan piyambakipun.” Panjenengan namung satunggaling juru pepenget, lan Gusti Allah Tanggung jawab tumrap sedaya prakawis.
+**11:12** Mbokmenawa panjenengan kepingin nglirwakaken sawetawis punapa ingkang kawahyokaken dhateng panjenengan, lan panjenengan saged dados kasesek awit punika, amargi piyambakipun sami matur: "Menawi kemawon bandha dipuntemurunaken dhateng piyambakipun, utawi malaikat dugi sesarengan kaliyan piyambakipun." Panjenengan namung satunggaling juru pepenget, lan Gusti Allah Tanggung jawab tumrap sedaya prakawis.
 
 فَلَعَلَّكَ تَارِكٌۢ بَعْضَ مَا يُوحَىٰٓ إِلَيْكَ وَضَآئِقٌۢ بِهِۦ صَدْرُكَ أَن يَقُولُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ كَنزٌ أَوْ جَآءَ مَعَهُۥ مَلَكٌ ۚ إِنَّمَآ أَنتَ نَذِيرٌۭ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ وَكِيلٌ
 
-**11:13** Utawi punapa piyambakipun sami matur: “Piyambakipun sampun ngarang punika?” Ngendikakna: “Lajeng damela sedasa bab kados punika, ingkang karang, lan undang sinten kemawon ingkang panjenengan saged, kejawi Gusti Allah, menawi panjenengan leres.”
+**11:13** Utawi punapa piyambakipun sami matur: "Piyambakipun sampun ngarang punika?" Ngendikakna: "Lajeng damela sedasa bab kados punika, ingkang karang, lan undang sinten kemawon ingkang panjenengan saged, kejawi Gusti Allah, menawi panjenengan leres."
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِعَشْرِ سُوَرٍۢ مِّثْلِهِۦ مُفْتَرَيَٰتٍۢ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -6224,7 +6224,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّهِۦ وَيَتْلُوهُ شَاهِدٌۭ مِّنْهُ وَمِن قَبْلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامًۭا وَرَحْمَةً ۚ أُو۟لَٰٓئِكَ يُؤْمِنُونَ بِهِۦ ۚ وَمَن يَكْفُرْ بِهِۦ مِنَ ٱلْأَحْزَابِ فَٱلنَّارُ مَوْعِدُهُۥ ۚ فَلَا تَكُ فِى مِرْيَةٍۢ مِّنْهُ ۚ إِنَّهُ ٱلْحَقُّ مِن رَّبِّكَ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ
 
-**11:18** Sinten ingkang langkung salah tinimbang piyambakipun ingkang ngarang goroh bab Gusti Allah? Piyambakipun badhe kaparingaken dhateng ngarsanipun Pangeranipun, lan saksi-saksi badhe matur: “Piyambakipun punika ingkang goroh bab Pangeranipun.” Saestu, laknat Gusti Allah tumrap tiyang-tiyang ingkang salah.
+**11:18** Sinten ingkang langkung salah tinimbang piyambakipun ingkang ngarang goroh bab Gusti Allah? Piyambakipun badhe kaparingaken dhateng ngarsanipun Pangeranipun, lan saksi-saksi badhe matur: "Piyambakipun punika ingkang goroh bab Pangeranipun." Saestu, laknat Gusti Allah tumrap tiyang-tiyang ingkang salah.
 
 وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا ۚ أُو۟لَٰٓئِكَ يُعْرَضُونَ عَلَىٰ رَبِّهِمْ وَيَقُولُ ٱلْأَشْهَٰدُ هَٰٓؤُلَآءِ ٱلَّذِينَ كَذَبُوا۟ عَلَىٰ رَبِّهِمْ ۚ أَلَا لَعْنَةُ ٱللَّهِ عَلَى ٱلظَّٰلِمِينَ
 
@@ -6252,99 +6252,99 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ۞ مَثَلُ ٱلْفَرِيقَيْنِ كَٱلْأَعْمَىٰ وَٱلْأَصَمِّ وَٱلْبَصِيرِ وَٱلسَّمِيعِ ۚ هَلْ يَسْتَوِيَانِ مَثَلًا ۚ أَفَلَا تَذَكَّرُونَ
 
-**11:25** Kita ngutus Nuh dhateng kaumipun: “Kula kangge panjenengan satunggaling juru pepenget ingkang cetha.”
+**11:25** Kita ngutus Nuh dhateng kaumipun: "Kula kangge panjenengan satunggaling juru pepenget ingkang cetha."
 
 وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ
 
-**11:26** “Bilih panjenengan boten badhe nyembah kajaba Gusti Allah. Kula ajrih tumrap panjenengan kasangsaran Dinten ingkang nglarani.”
+**11:26** "Bilih panjenengan boten badhe nyembah kajaba Gusti Allah. Kula ajrih tumrap panjenengan kasangsaran Dinten ingkang nglarani."
 
 أَن لَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ ۖ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ أَلِيمٍۢ
 
-**11:27** Para pangageng ingkang kafir antawis kaumipun sami matur: “Kawula ningali wonten ing panjenengan boten kajaba priya kados kawula, lan kawula ningali bilih namung tiyang-tiyang ingkang awon piyambak antawis kawula ingkang ndherek panjenengan, tiyang-tiyang ingkang dereng diwasa pamanggihipun. Lan kawula ningali bilih panjenengan boten gadhah kaluwihan nglangkungi kawula. Saestunipun, kawula nginten panjenengan tiyang-tiyang goroh.”
+**11:27** Para pangageng ingkang kafir antawis kaumipun sami matur: "Kawula ningali wonten ing panjenengan boten kajaba priya kados kawula, lan kawula ningali bilih namung tiyang-tiyang ingkang awon piyambak antawis kawula ingkang ndherek panjenengan, tiyang-tiyang ingkang dereng diwasa pamanggihipun. Lan kawula ningali bilih panjenengan boten gadhah kaluwihan nglangkungi kawula. Saestunipun, kawula nginten panjenengan tiyang-tiyang goroh."
 
 فَقَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا نَرَىٰكَ إِلَّا بَشَرًۭا مِّثْلَنَا وَمَا نَرَىٰكَ ٱتَّبَعَكَ إِلَّا ٱلَّذِينَ هُمْ أَرَاذِلُنَا بَادِىَ ٱلرَّأْىِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِن فَضْلٍۭ بَلْ نَظُنُّكُمْ كَٰذِبِينَ
 
-**11:28** Piyambakipun ngendika: “Dhuh kaumku, punapa panjenengan sampun nimbang? Menawi kula ngadeg ing bukti ingkang cetha saking Pangeranku, lan Panjenenganipun sampun maringi kula kawelasan saking Panjenenganipun piyambak, nanging panjenengan wuta dhatengipun, punapa kita saged meksa panjenengan nampi, sanajan panjenengan boten remen?”
+**11:28** Piyambakipun ngendika: "Dhuh kaumku, punapa panjenengan sampun nimbang? Menawi kula ngadeg ing bukti ingkang cetha saking Pangeranku, lan Panjenenganipun sampun maringi kula kawelasan saking Panjenenganipun piyambak, nanging panjenengan wuta dhatengipun, punapa kita saged meksa panjenengan nampi, sanajan panjenengan boten remen?"
 
 قَالَ يَٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَءَاتَىٰنِى رَحْمَةًۭ مِّنْ عِندِهِۦ فَعُمِّيَتْ عَلَيْكُمْ أَنُلْزِمُكُمُوهَا وَأَنتُمْ لَهَا كَٰرِهُونَ
 
-**11:29** “Dhuh kaumku! Kula boten nyuwun arta dhateng panjenengan tumrap punika. Ganjaran kula namung wonten ing Gusti Allah. Lan kula boten badhe nundhung tiyang-tiyang ingkang sampun pitados; piyambakipun saestu badhe pepanggihan kaliyan Pangeranipun. Lan kula ningali bilih panjenengan tiyang-tiyang ingkang bodho.”
+**11:29** "Dhuh kaumku! Kula boten nyuwun arta dhateng panjenengan tumrap punika. Ganjaran kula namung wonten ing Gusti Allah. Lan kula boten badhe nundhung tiyang-tiyang ingkang sampun pitados; piyambakipun saestu badhe pepanggihan kaliyan Pangeranipun. Lan kula ningali bilih panjenengan tiyang-tiyang ingkang bodho."
 
 وَيَٰقَوْمِ لَآ أَسْـَٔلُكُمْ عَلَيْهِ مَالًا ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ ۚ وَمَآ أَنَا۠ بِطَارِدِ ٱلَّذِينَ ءَامَنُوٓا۟ ۚ إِنَّهُم مُّلَٰقُوا۟ رَبِّهِمْ وَلَٰكِنِّىٓ أَرَىٰكُمْ قَوْمًۭا تَجْهَلُونَ
 
-**11:30** “Dhuh kaumku! Sinten ingkang badhe nyengkuyung kula nglawan Gusti Allah, menawi kula nundhung piyambakipun? Punapa panjenengan boten sami mikir?”
+**11:30** "Dhuh kaumku! Sinten ingkang badhe nyengkuyung kula nglawan Gusti Allah, menawi kula nundhung piyambakipun? Punapa panjenengan boten sami mikir?"
 
 وَيَٰقَوْمِ مَن يَنصُرُنِى مِنَ ٱللَّهِ إِن طَرَدتُّهُمْ ۚ أَفَلَا تَذَكَّرُونَ
 
-**11:31** “Kula boten ngendika dhateng panjenengan bilih kula gadhah bandha-bandhanipun Gusti Allah, lan kula boten mangertos mangsa ngajeng, lan kula boten ngendika bilih kula satunggaling malaikat. Lan kula boten ngendika bab tiyang-tiyang ingkang hina wonten ing paningal panjenengan bilih Gusti Allah boten nate badhe maringi piyambakipun kasaenan punapa-punapa. Gusti Allah Mangertos punapa ingkang wonten ing jiwa piyambakipun. Menawi kula nindakaken, kula badhe dados satunggaling tiyang ingkang salah.”
+**11:31** "Kula boten ngendika dhateng panjenengan bilih kula gadhah bandha-bandhanipun Gusti Allah, lan kula boten mangertos mangsa ngajeng, lan kula boten ngendika bilih kula satunggaling malaikat. Lan kula boten ngendika bab tiyang-tiyang ingkang hina wonten ing paningal panjenengan bilih Gusti Allah boten nate badhe maringi piyambakipun kasaenan punapa-punapa. Gusti Allah Mangertos punapa ingkang wonten ing jiwa piyambakipun. Menawi kula nindakaken, kula badhe dados satunggaling tiyang ingkang salah."
 
 وَلَآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ وَلَآ أَقُولُ إِنِّى مَلَكٌۭ وَلَآ أَقُولُ لِلَّذِينَ تَزْدَرِىٓ أَعْيُنُكُمْ لَن يُؤْتِيَهُمُ ٱللَّهُ خَيْرًا ۖ ٱللَّهُ أَعْلَمُ بِمَا فِىٓ أَنفُسِهِمْ ۖ إِنِّىٓ إِذًۭا لَّمِنَ ٱلظَّٰلِمِينَ
 
-**11:32** Piyambakipun sami matur: “Dhuh Nuh, panjenengan sampun padudon kaliyan kawula, lan padudon sanget. Samangke bekta dhateng kawula punapa ingkang panjenengan ancamaken dhateng kawula, menawi panjenengan leres.”
+**11:32** Piyambakipun sami matur: "Dhuh Nuh, panjenengan sampun padudon kaliyan kawula, lan padudon sanget. Samangke bekta dhateng kawula punapa ingkang panjenengan ancamaken dhateng kawula, menawi panjenengan leres."
 
 قَالُوا۟ يَٰنُوحُ قَدْ جَٰدَلْتَنَا فَأَكْثَرْتَ جِدَٰلَنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 
-**11:33** Piyambakipun ngendika: “Punika Gusti Allah ingkang badhe mbekta dhateng panjenengan, menawi Panjenenganipun ngersakaken, lan panjenengan boten badhe saged luput.”
+**11:33** Piyambakipun ngendika: "Punika Gusti Allah ingkang badhe mbekta dhateng panjenengan, menawi Panjenenganipun ngersakaken, lan panjenengan boten badhe saged luput."
 
 قَالَ إِنَّمَا يَأْتِيكُم بِهِ ٱللَّهُ إِن شَآءَ وَمَآ أَنتُم بِمُعْجِزِينَ
 
-**11:34** “Pitutur kula boten badhe mupangati panjenengan, sanajan kula kepingin sanget maringi pitutur dhateng panjenengan, menawi Gusti Allah ngersakaken bingungaken panjenengan. Panjenenganipun Pangeranmu, lan dhateng Panjenenganipun panjenengan badhe kawangsulaken.”
+**11:34** "Pitutur kula boten badhe mupangati panjenengan, sanajan kula kepingin sanget maringi pitutur dhateng panjenengan, menawi Gusti Allah ngersakaken bingungaken panjenengan. Panjenenganipun Pangeranmu, lan dhateng Panjenenganipun panjenengan badhe kawangsulaken."
 
 وَلَا يَنفَعُكُمْ نُصْحِىٓ إِنْ أَرَدتُّ أَنْ أَنصَحَ لَكُمْ إِن كَانَ ٱللَّهُ يُرِيدُ أَن يُغْوِيَكُمْ ۚ هُوَ رَبُّكُمْ وَإِلَيْهِ تُرْجَعُونَ
 
-**11:35** Utawi punapa piyambakipun sami matur: “Piyambakipun sampun damel punika?” Ngendikakna: “Menawi kula damel punika, tumrap kula tumiba dosa kula, lan kula resik saking dosa-dosa ingkang panjenengan tindakaken.”
+**11:35** Utawi punapa piyambakipun sami matur: "Piyambakipun sampun damel punika?" Ngendikakna: "Menawi kula damel punika, tumrap kula tumiba dosa kula, lan kula resik saking dosa-dosa ingkang panjenengan tindakaken."
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَعَلَىَّ إِجْرَامِى وَأَنَا۠ بَرِىٓءٌۭ مِّمَّا تُجْرِمُونَ
 
-**11:36** Lan kawahyokaken dhateng Nuh: “Boten wonten kaum panjenengan ingkang badhe pitados, kajaba tiyang-tiyang ingkang sampun pitados, pramila sampun ngantos sedhih bab punapa ingkang piyambakipun tindakaken.”
+**11:36** Lan kawahyokaken dhateng Nuh: "Boten wonten kaum panjenengan ingkang badhe pitados, kajaba tiyang-tiyang ingkang sampun pitados, pramila sampun ngantos sedhih bab punapa ingkang piyambakipun tindakaken."
 
 وَأُوحِىَ إِلَىٰ نُوحٍ أَنَّهُۥ لَن يُؤْمِنَ مِن قَوْمِكَ إِلَّا مَن قَدْ ءَامَنَ فَلَا تَبْتَئِسْ بِمَا كَانُوا۟ يَفْعَلُونَ
 
-**11:37** “Lan damela Prau, wonten ing ngandhap paningal Kita, lan kanthi wahyu Kita, lan sampun ngantos matur dhateng Kawula ngengingi tiyang-tiyang ingkang sampun tumindak salah; piyambakipun badhe kalelebaken.”
+**11:37** "Lan damela Prau, wonten ing ngandhap paningal Kita, lan kanthi wahyu Kita, lan sampun ngantos matur dhateng Kawula ngengingi tiyang-tiyang ingkang sampun tumindak salah; piyambakipun badhe kalelebaken."
 
 وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ ۚ إِنَّهُم مُّغْرَقُونَ
 
-**11:38** Nalika piyambakipun damel prau, saben sawetawis kaumipun langkung celak kaliyan piyambakipun, piyambakipun ngece piyambakipun. Piyambakipun ngendika: “Menawi panjenengan ngece kawula, kawula badhe ngece panjenengan, kados panjenengan ngece.”
+**11:38** Nalika piyambakipun damel prau, saben sawetawis kaumipun langkung celak kaliyan piyambakipun, piyambakipun ngece piyambakipun. Piyambakipun ngendika: "Menawi panjenengan ngece kawula, kawula badhe ngece panjenengan, kados panjenengan ngece."
 
 وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌۭ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ ۚ قَالَ إِن تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ
 
-**11:39** “Panjenengan saestu badhe mangertos dhateng sinten badhe dugi siksa ingkang badhe ngasoraken piyambakipun, lan dhateng sinten badhe tumiba siksa ingkang langgeng.”
+**11:39** "Panjenengan saestu badhe mangertos dhateng sinten badhe dugi siksa ingkang badhe ngasoraken piyambakipun, lan dhateng sinten badhe tumiba siksa ingkang langgeng."
 
 فَسَوْفَ تَعْلَمُونَ مَن يَأْتِيهِ عَذَابٌۭ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌۭ مُّقِيمٌ
 
-**11:40** Ngantos, nalika prentah Kita dugi, lan gunung geni njeblug, Kita ngendika: “Mlebeta dhateng salebetipun satunggal pasang saking saben jinis, lan kulawarga panjenengan — kajaba tiyang-tiyang ingkang ukuman sampun kaputusan nglawanipun — lan tiyang-tiyang ingkang sampun pitados.” Nanging tiyang-tiyang ingkang pitados sesarengan kaliyan piyambakipun namung sakedhik.
+**11:40** Ngantos, nalika prentah Kita dugi, lan gunung geni njeblug, Kita ngendika: "Mlebeta dhateng salebetipun satunggal pasang saking saben jinis, lan kulawarga panjenengan — kajaba tiyang-tiyang ingkang ukuman sampun kaputusan nglawanipun — lan tiyang-tiyang ingkang sampun pitados." Nanging tiyang-tiyang ingkang pitados sesarengan kaliyan piyambakipun namung sakedhik.
 
 حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّۢ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ ۚ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا قَلِيلٌۭ
 
-**11:41** Piyambakipun ngendika: “Mlebeta wonten ing salebetipun. Kanthi asmanipun Gusti Allah badhe lampahipun lan labuhipun. Pangeranku saestu Ngapura lan Mahaasih.”
+**11:41** Piyambakipun ngendika: "Mlebeta wonten ing salebetipun. Kanthi asmanipun Gusti Allah badhe lampahipun lan labuhipun. Pangeranku saestu Ngapura lan Mahaasih."
 
 ۞ وَقَالَ ٱرْكَبُوا۟ فِيهَا بِسْمِ ٱللَّهِ مَجْر۪ىٰهَا وَمُرْسَىٰهَآ ۚ إِنَّ رَبِّى لَغَفُورٌۭ رَّحِيمٌۭ
 
-**11:42** Lan makaten punika mlampah sesarengan kaliyan piyambakipun wonten ing antawis ombak kados redi-redi. Lan Nuh nimbali putranipun, ingkang sampun nyingid: “Dhuh putraku! Mlebeta sesarengan kaliyan kawula, lan sampun ngantos dados kaliyan tiyang-tiyang ingkang kafir.”
+**11:42** Lan makaten punika mlampah sesarengan kaliyan piyambakipun wonten ing antawis ombak kados redi-redi. Lan Nuh nimbali putranipun, ingkang sampun nyingid: "Dhuh putraku! Mlebeta sesarengan kaliyan kawula, lan sampun ngantos dados kaliyan tiyang-tiyang ingkang kafir."
 
 وَهِىَ تَجْرِى بِهِمْ فِى مَوْجٍۢ كَٱلْجِبَالِ وَنَادَىٰ نُوحٌ ٱبْنَهُۥ وَكَانَ فِى مَعْزِلٍۢ يَٰبُنَىَّ ٱرْكَب مَّعَنَا وَلَا تَكُن مَّعَ ٱلْكَٰفِرِينَ
 
-**11:43** Piyambakipun matur: “Kula badhe ngungsi wonten ing redi — punika badhe ngreksa kula saking toya.” Piyambakipun ngendika: “Boten wonten pangayoman saking dhawuh Gusti Allah dinten punika, kajaba tumrap piyambakipun ingkang Panjenenganipun paringi kawelasan.” Lan ombak mumbul antawisipun, lan piyambakipun kalebet tiyang-tiyang ingkang kleleb.
+**11:43** Piyambakipun matur: "Kula badhe ngungsi wonten ing redi — punika badhe ngreksa kula saking toya." Piyambakipun ngendika: "Boten wonten pangayoman saking dhawuh Gusti Allah dinten punika, kajaba tumrap piyambakipun ingkang Panjenenganipun paringi kawelasan." Lan ombak mumbul antawisipun, lan piyambakipun kalebet tiyang-tiyang ingkang kleleb.
 
 قَالَ سَـَٔاوِىٓ إِلَىٰ جَبَلٍۢ يَعْصِمُنِى مِنَ ٱلْمَآءِ ۚ قَالَ لَا عَاصِمَ ٱلْيَوْمَ مِنْ أَمْرِ ٱللَّهِ إِلَّا مَن رَّحِمَ ۚ وَحَالَ بَيْنَهُمَا ٱلْمَوْجُ فَكَانَ مِنَ ٱلْمُغْرَقِينَ
 
-**11:44** Lan kaendikakaken: “Dhuh bumi, legana toyamu,” lan “Dhuh langit, terangna.” Lan toya surut, lan prakawis rampung, lan punika mapan wonten ing Judi, lan kaproklamasi: “Adohna tiyang-tiyang ingkang ala.”
+**11:44** Lan kaendikakaken: "Dhuh bumi, legana toyamu," lan "Dhuh langit, terangna." Lan toya surut, lan prakawis rampung, lan punika mapan wonten ing Judi, lan kaproklamasi: "Adohna tiyang-tiyang ingkang ala."
 
 وَقِيلَ يَٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ ۖ وَقِيلَ بُعْدًۭا لِّلْقَوْمِ ٱلظَّٰلِمِينَ
 
-**11:45** Lan Nuh nimbali Pangeranipun. Piyambakipun matur: “Dhuh Pangeranku, putra kula kalebet kulawarga kula, lan janji Panjenengan leres, lan Panjenengan ingkang Wicaksana piyambak saking ingkang wicaksana.”
+**11:45** Lan Nuh nimbali Pangeranipun. Piyambakipun matur: "Dhuh Pangeranku, putra kula kalebet kulawarga kula, lan janji Panjenengan leres, lan Panjenengan ingkang Wicaksana piyambak saking ingkang wicaksana."
 
 وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَٰكِمِينَ
 
-**11:46** Panjenenganipun ngendika: “Dhuh Nuh, piyambakipun sanès kulawarga panjenengan. Punika tumindak ingkang boten leres. Pramila sampun ngantos nyuwun dhateng Kawula bab prakawis ingkang panjenengan boten mangertos. Kawula paring pepenget dhateng panjenengan, supados panjenengan boten dados satunggaling tiyang ingkang bodho.”
+**11:46** Panjenenganipun ngendika: "Dhuh Nuh, piyambakipun sanès kulawarga panjenengan. Punika tumindak ingkang boten leres. Pramila sampun ngantos nyuwun dhateng Kawula bab prakawis ingkang panjenengan boten mangertos. Kawula paring pepenget dhateng panjenengan, supados panjenengan boten dados satunggaling tiyang ingkang bodho."
 
 قَالَ يَٰنُوحُ إِنَّهُۥ لَيْسَ مِنْ أَهْلِكَ ۖ إِنَّهُۥ عَمَلٌ غَيْرُ صَٰلِحٍۢ ۖ فَلَا تَسْـَٔلْنِ مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ ۖ إِنِّىٓ أَعِظُكَ أَن تَكُونَ مِنَ ٱلْجَٰهِلِينَ
 
-**11:47** Piyambakipun matur: “Dhuh Pangeranku, kula nyuwun pangayoman dhateng Panjenengan, saking nyuwun dhateng Panjenengan bab punapa ingkang kula boten gadhah kawruh. Kajaba Panjenengan ngapura kula, lan paring kawelasan dhateng kula, kula badhe dados satunggaling tiyang ingkang kapitunan.”
+**11:47** Piyambakipun matur: "Dhuh Pangeranku, kula nyuwun pangayoman dhateng Panjenengan, saking nyuwun dhateng Panjenengan bab punapa ingkang kula boten gadhah kawruh. Kajaba Panjenengan ngapura kula, lan paring kawelasan dhateng kula, kula badhe dados satunggaling tiyang ingkang kapitunan."
 
 قَالَ رَبِّ إِنِّىٓ أَعُوذُ بِكَ أَنْ أَسْـَٔلَكَ مَا لَيْسَ لِى بِهِۦ عِلْمٌۭ ۖ وَإِلَّا تَغْفِرْ لِى وَتَرْحَمْنِىٓ أَكُن مِّنَ ٱلْخَٰسِرِينَ
 
-**11:48** Kaendikakaken: “Dhuh Nuh, tumedhuna kanthi tentrem saking Kita; lan kanthi berkah tumrap panjenengan, lan tumrap umat-umat saking tiyang-tiyang ingkang sesarengan kaliyan panjenengan. Lan umat-umat sanes Kita badhe paring kamakmuran, lajeng siksa ingkang nglarani saking Kita badhe nandhang piyambakipun.”
+**11:48** Kaendikakaken: "Dhuh Nuh, tumedhuna kanthi tentrem saking Kita; lan kanthi berkah tumrap panjenengan, lan tumrap umat-umat saking tiyang-tiyang ingkang sesarengan kaliyan panjenengan. Lan umat-umat sanes Kita badhe paring kamakmuran, lajeng siksa ingkang nglarani saking Kita badhe nandhang piyambakipun."
 
 قِيلَ يَٰنُوحُ ٱهْبِطْ بِسَلَٰمٍۢ مِّنَّا وَبَرَكَٰتٍ عَلَيْكَ وَعَلَىٰٓ أُمَمٍۢ مِّمَّن مَّعَكَ ۚ وَأُمَمٌۭ سَنُمَتِّعُهُمْ ثُمَّ يَمَسُّهُم مِّنَّا عَذَابٌ أَلِيمٌۭ
 
@@ -6352,23 +6352,23 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 تِلْكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهَآ إِلَيْكَ ۖ مَا كُنتَ تَعْلَمُهَآ أَنتَ وَلَا قَوْمُكَ مِن قَبْلِ هَٰذَا ۖ فَٱصْبِرْ ۖ إِنَّ ٱلْعَٰقِبَةَ لِلْمُتَّقِينَ
 
-**11:50** Lan dhateng Aad, sedherekipun Hud. Piyambakipun ngendika: “Dhuh kaumku, sembaha Gusti Allah, panjenengan boten gadhah gusti sanes kajaba Panjenenganipun. Panjenengan boten nindakaken kajaba ngarang goroh.”
+**11:50** Lan dhateng Aad, sedherekipun Hud. Piyambakipun ngendika: "Dhuh kaumku, sembaha Gusti Allah, panjenengan boten gadhah gusti sanes kajaba Panjenenganipun. Panjenengan boten nindakaken kajaba ngarang goroh."
 
 وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًۭا ۚ قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥٓ ۖ إِنْ أَنتُمْ إِلَّا مُفْتَرُونَ
 
-**11:51** “Dhuh kaumku, kula boten nyuwun upah dhateng panjenengan tumrap punika; upah kula wonten ing Panjenengan ingkang nitahaken kula. Punapa panjenengan boten sami mangertos?”
+**11:51** "Dhuh kaumku, kula boten nyuwun upah dhateng panjenengan tumrap punika; upah kula wonten ing Panjenengan ingkang nitahaken kula. Punapa panjenengan boten sami mangertos?"
 
 يَٰقَوْمِ لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱلَّذِى فَطَرَنِىٓ ۚ أَفَلَا تَعْقِلُونَ
 
-**11:52** “Dhuh kaumku, nyuwuna pangapura saking Pangeranmu, lan tobat dhateng Panjenenganipun. Panjenenganipun badhe ngeculaken langit tumurun dhateng panjenengan, lan badhe nambah kekiyatan dhateng kekiyatan panjenengan. Lan sampun ngantos maling lan dados ala.”
+**11:52** "Dhuh kaumku, nyuwuna pangapura saking Pangeranmu, lan tobat dhateng Panjenenganipun. Panjenenganipun badhe ngeculaken langit tumurun dhateng panjenengan, lan badhe nambah kekiyatan dhateng kekiyatan panjenengan. Lan sampun ngantos maling lan dados ala."
 
 وَيَٰقَوْمِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًۭا وَيَزِدْكُمْ قُوَّةً إِلَىٰ قُوَّتِكُمْ وَلَا تَتَوَلَّوْا۟ مُجْرِمِينَ
 
-**11:53** Piyambakipun sami matur: “Dhuh Hud, panjenengan boten mbekta bukti punapa-punapa dhateng kawula, lan kawula boten badhe ninggalaken gusti-gusti kawula amargi pangucap panjenengan, lan kawula sanès tiyang-tiyang ingkang pitados dhateng panjenengan.”
+**11:53** Piyambakipun sami matur: "Dhuh Hud, panjenengan boten mbekta bukti punapa-punapa dhateng kawula, lan kawula boten badhe ninggalaken gusti-gusti kawula amargi pangucap panjenengan, lan kawula sanès tiyang-tiyang ingkang pitados dhateng panjenengan."
 
 قَالُوا۟ يَٰهُودُ مَا جِئْتَنَا بِبَيِّنَةٍۢ وَمَا نَحْنُ بِتَارِكِىٓ ءَالِهَتِنَا عَن قَوْلِكَ وَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ
 
-**11:54** “Kawula namung matur bilih sawetawis gusti-gusti kawula sampun nguwasani panjenengan kanthi ala.” Piyambakipun ngendika: “Kula nimbali Gusti Allah dados saksi, lan panjenengan dados saksi, bilih kula resik saking punapa ingkang panjenengan sekutokaken.
+**11:54** "Kawula namung matur bilih sawetawis gusti-gusti kawula sampun nguwasani panjenengan kanthi ala." Piyambakipun ngendika: "Kula nimbali Gusti Allah dados saksi, lan panjenengan dados saksi, bilih kula resik saking punapa ingkang panjenengan sekutokaken.
 
 إِن نَّقُولُ إِلَّا ٱعْتَرَىٰكَ بَعْضُ ءَالِهَتِنَا بِسُوٓءٍۢ ۗ قَالَ إِنِّىٓ أُشْهِدُ ٱللَّهَ وَٱشْهَدُوٓا۟ أَنِّى بَرِىٓءٌۭ مِّمَّا تُشْرِكُونَ
 
@@ -6380,7 +6380,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِنِّى تَوَكَّلْتُ عَلَى ٱللَّهِ رَبِّى وَرَبِّكُم ۚ مَّا مِن دَآبَّةٍ إِلَّا هُوَ ءَاخِذٌۢ بِنَاصِيَتِهَآ ۚ إِنَّ رَبِّى عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
 
-**11:57** Menawi panjenengan sami maling, kula sampun ngaturaken dhateng panjenengan punapa ingkang kula kautus dhateng panjenengan; lan Pangeranku badhe nggantos panjenengan kanthi tiyang sanes, lan panjenengan boten badhe njalari Panjenenganipun bebaya punapa-punapa. Pangeranku Pangayom tumrap sedaya prakawis.”
+**11:57** Menawi panjenengan sami maling, kula sampun ngaturaken dhateng panjenengan punapa ingkang kula kautus dhateng panjenengan; lan Pangeranku badhe nggantos panjenengan kanthi tiyang sanes, lan panjenengan boten badhe njalari Panjenenganipun bebaya punapa-punapa. Pangeranku Pangayom tumrap sedaya prakawis."
 
 فَإِن تَوَلَّوْا۟ فَقَدْ أَبْلَغْتُكُم مَّآ أُرْسِلْتُ بِهِۦٓ إِلَيْكُمْ ۚ وَيَسْتَخْلِفُ رَبِّى قَوْمًا غَيْرَكُمْ وَلَا تَضُرُّونَهُۥ شَيْـًٔا ۚ إِنَّ رَبِّى عَلَىٰ كُلِّ شَىْءٍ حَفِيظٌۭ
 
@@ -6396,23 +6396,23 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَأُتْبِعُوا۟ فِى هَٰذِهِ ٱلدُّنْيَا لَعْنَةًۭ وَيَوْمَ ٱلْقِيَٰمَةِ ۗ أَلَآ إِنَّ عَادًۭا كَفَرُوا۟ رَبَّهُمْ ۗ أَلَا بُعْدًۭا لِّعَادٍۢ قَوْمِ هُودٍۢ
 
-**11:61** Lan dhateng Thamud, sedherekipun Salih. Piyambakipun ngendika: “Dhuh kaumku, sembaha Gusti Allah, panjenengan boten gadhah gusti sanes kajaba Panjenenganipun. Panjenenganipun miwiti panjenengan saking bumi, lan mapanaken panjenengan wonten ing salebetipun. Pramila nyuwuna pangapura Panjenenganipun, lan tobat dhateng Panjenenganipun. Pangeranku Celak lan Manguli.”
+**11:61** Lan dhateng Thamud, sedherekipun Salih. Piyambakipun ngendika: "Dhuh kaumku, sembaha Gusti Allah, panjenengan boten gadhah gusti sanes kajaba Panjenenganipun. Panjenenganipun miwiti panjenengan saking bumi, lan mapanaken panjenengan wonten ing salebetipun. Pramila nyuwuna pangapura Panjenenganipun, lan tobat dhateng Panjenenganipun. Pangeranku Celak lan Manguli."
 
 ۞ وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًۭا ۚ قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ ۖ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟ إِلَيْهِ ۚ إِنَّ رَبِّى قَرِيبٌۭ مُّجِيبٌۭ
 
-**11:62** Piyambakipun sami matur: “Dhuh Salih, kawula gadhah pangajeng-ajeng wonten ing panjenengan saderengipun punika. Punapa panjenengan nyobi ngalang-alangi kawula saking nyembah punapa ingkang tiyang sepuh kawula sembah? Kawula saestu ragu-ragu sanget ngengingi punapa ingkang panjenengan undang dhateng kawula.”
+**11:62** Piyambakipun sami matur: "Dhuh Salih, kawula gadhah pangajeng-ajeng wonten ing panjenengan saderengipun punika. Punapa panjenengan nyobi ngalang-alangi kawula saking nyembah punapa ingkang tiyang sepuh kawula sembah? Kawula saestu ragu-ragu sanget ngengingi punapa ingkang panjenengan undang dhateng kawula."
 
 قَالُوا۟ يَٰصَٰلِحُ قَدْ كُنتَ فِينَا مَرْجُوًّۭا قَبْلَ هَٰذَآ ۖ أَتَنْهَىٰنَآ أَن نَّعْبُدَ مَا يَعْبُدُ ءَابَآؤُنَا وَإِنَّنَا لَفِى شَكٍّۢ مِّمَّا تَدْعُونَآ إِلَيْهِ مُرِيبٍۢ
 
-**11:63** Piyambakipun ngendika: “Dhuh kaumku, punapa panjenengan sampun nimbang? Menawi kula ngadeg ing bukti ingkang cetha saking Pangeranku, lan Panjenenganipun sampun maringi kula kawelasan saking Panjenenganipun, sinten ingkang badhe ngreksa kula saking Gusti Allah, menawi kula mbangkang dhateng Panjenenganipun? Panjenengan boten nambah punapa-punapa tumrap kula kajaba kapitunan.”
+**11:63** Piyambakipun ngendika: "Dhuh kaumku, punapa panjenengan sampun nimbang? Menawi kula ngadeg ing bukti ingkang cetha saking Pangeranku, lan Panjenenganipun sampun maringi kula kawelasan saking Panjenenganipun, sinten ingkang badhe ngreksa kula saking Gusti Allah, menawi kula mbangkang dhateng Panjenenganipun? Panjenengan boten nambah punapa-punapa tumrap kula kajaba kapitunan."
 
 قَالَ يَٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَءَاتَىٰنِى مِنْهُ رَحْمَةًۭ فَمَن يَنصُرُنِى مِنَ ٱللَّهِ إِنْ عَصَيْتُهُۥ ۖ فَمَا تَزِيدُونَنِى غَيْرَ تَخْسِيرٍۢ
 
-**11:64** “Dhuh kaumku, punika unta estri Gusti Allah, satunggaling pratandha tumrap panjenengan. Marengna piyambakipun ngengon wonten ing tanah Gusti Allah, lan sampun ngantos mbebayani piyambakipun, mundhak paukuman ingkang celak ndemek panjenengan.”
+**11:64** "Dhuh kaumku, punika unta estri Gusti Allah, satunggaling pratandha tumrap panjenengan. Marengna piyambakipun ngengon wonten ing tanah Gusti Allah, lan sampun ngantos mbebayani piyambakipun, mundhak paukuman ingkang celak ndemek panjenengan."
 
 وَيَٰقَوْمِ هَٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمْ ءَايَةًۭ فَذَرُوهَا تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ وَلَا تَمَسُّوهَا بِسُوٓءٍۢ فَيَأْخُذَكُمْ عَذَابٌۭ قَرِيبٌۭ
 
-**11:65** Nanging piyambakipun nugel sikilipun, lan makaten Panjenenganipun ngendika: “Ngrasakna dhiri panjenengan wonten ing griya panjenengan tigang dinten. Punika wangsit ingkang boten saged salah.”
+**11:65** Nanging piyambakipun nugel sikilipun, lan makaten Panjenenganipun ngendika: "Ngrasakna dhiri panjenengan wonten ing griya panjenengan tigang dinten. Punika wangsit ingkang boten saged salah."
 
 فَعَقَرُوهَا فَقَالَ تَمَتَّعُوا۟ فِى دَارِكُمْ ثَلَٰثَةَ أَيَّامٍۢ ۖ ذَٰلِكَ وَعْدٌ غَيْرُ مَكْذُوبٍۢ
 
@@ -6428,11 +6428,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 كَأَن لَّمْ يَغْنَوْا۟ فِيهَآ ۗ أَلَآ إِنَّ ثَمُودَا۟ كَفَرُوا۟ رَبَّهُمْ ۗ أَلَا بُعْدًۭا لِّثَمُودَ
 
-**11:69** Utusan-utusan Kita dugi dhateng Ibrahim kanthi kabar bingah. Piyambakipun sami matur: “Salam tentrem.” Piyambakipun ngendika: “Salam tentrem.” Boten dangu sasampunipun, piyambakipun dugi kanthi pedhet panggang.
+**11:69** Utusan-utusan Kita dugi dhateng Ibrahim kanthi kabar bingah. Piyambakipun sami matur: "Salam tentrem." Piyambakipun ngendika: "Salam tentrem." Boten dangu sasampunipun, piyambakipun dugi kanthi pedhet panggang.
 
 وَلَقَدْ جَآءَتْ رُسُلُنَآ إِبْرَٰهِيمَ بِٱلْبُشْرَىٰ قَالُوا۟ سَلَٰمًۭا ۖ قَالَ سَلَٰمٌۭ ۖ فَمَا لَبِثَ أَن جَآءَ بِعِجْلٍ حَنِيذٍۢ
 
-**11:70** Nanging nalika piyambakipun ningali asta piyambakipun boten nggayuh dhatengipun, piyambakipun dados curiga dhateng piyambakipun, lan ngraos ajrih dhateng piyambakipun. Piyambakipun sami matur: “Sampun ngantos ajrih, kawula kautus dhateng kaumipun Luth.”
+**11:70** Nanging nalika piyambakipun ningali asta piyambakipun boten nggayuh dhatengipun, piyambakipun dados curiga dhateng piyambakipun, lan ngraos ajrih dhateng piyambakipun. Piyambakipun sami matur: "Sampun ngantos ajrih, kawula kautus dhateng kaumipun Luth."
 
 فَلَمَّا رَءَآ أَيْدِيَهُمْ لَا تَصِلُ إِلَيْهِ نَكِرَهُمْ وَأَوْجَسَ مِنْهُمْ خِيفَةًۭ ۚ قَالُوا۟ لَا تَخَفْ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمِ لُوطٍۢ
 
@@ -6440,11 +6440,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَٱمْرَأَتُهُۥ قَآئِمَةٌۭ فَضَحِكَتْ فَبَشَّرْنَٰهَا بِإِسْحَٰقَ وَمِن وَرَآءِ إِسْحَٰقَ يَعْقُوبَ
 
-**11:72** Piyambakipun matur: “Adhuh kawula. Punapa kula badhe nglairaken, nalika kula estri sepuh, lan punika, garwa kula, priya sepuh? Punika saestu prakawis ingkang aneh.”
+**11:72** Piyambakipun matur: "Adhuh kawula. Punapa kula badhe nglairaken, nalika kula estri sepuh, lan punika, garwa kula, priya sepuh? Punika saestu prakawis ingkang aneh."
 
 قَالَتْ يَٰوَيْلَتَىٰٓ ءَأَلِدُ وَأَنَا۠ عَجُوزٌۭ وَهَٰذَا بَعْلِى شَيْخًا ۖ إِنَّ هَٰذَا لَشَىْءٌ عَجِيبٌۭ
 
-**11:73** Piyambakipun sami matur: “Punapa panjenengan gumun dhateng dhawuh Gusti Allah? Kawelasan lan berkah Gusti Allah tumrap panjenengan, dhuh tiyang-tiyang ing griya. Panjenenganipun ingkang Kapuji lan Mulya.”
+**11:73** Piyambakipun sami matur: "Punapa panjenengan gumun dhateng dhawuh Gusti Allah? Kawelasan lan berkah Gusti Allah tumrap panjenengan, dhuh tiyang-tiyang ing griya. Panjenenganipun ingkang Kapuji lan Mulya."
 
 قَالُوٓا۟ أَتَعْجَبِينَ مِنْ أَمْرِ ٱللَّهِ ۖ رَحْمَتُ ٱللَّهِ وَبَرَكَٰتُهُۥ عَلَيْكُمْ أَهْلَ ٱلْبَيْتِ ۚ إِنَّهُۥ حَمِيدٌۭ مَّجِيدٌۭ
 
@@ -6456,27 +6456,27 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِنَّ إِبْرَٰهِيمَ لَحَلِيمٌ أَوَّٰهٌۭ مُّنِيبٌۭ
 
-**11:76** “Dhuh Ibrahim, ngendegna saking punika. Prentah Pangeranmu sampun dugi; piyambakipun sampun nandhang paukuman ingkang boten saged kawangsulaken.”
+**11:76** "Dhuh Ibrahim, ngendegna saking punika. Prentah Pangeranmu sampun dugi; piyambakipun sampun nandhang paukuman ingkang boten saged kawangsulaken."
 
 يَٰٓإِبْرَٰهِيمُ أَعْرِضْ عَنْ هَٰذَآ ۖ إِنَّهُۥ قَدْ جَآءَ أَمْرُ رَبِّكَ ۖ وَإِنَّهُمْ ءَاتِيهِمْ عَذَابٌ غَيْرُ مَرْدُودٍۢ
 
-**11:77** Lan nalika utusan-utusan Kita dugi dhateng Luth, piyambakipun kuwatos tumrap piyambakipun, lan kuwatir tumrap piyambakipun. Piyambakipun ngendika: “Punika dinten ingkang nggegirisi.”
+**11:77** Lan nalika utusan-utusan Kita dugi dhateng Luth, piyambakipun kuwatos tumrap piyambakipun, lan kuwatir tumrap piyambakipun. Piyambakipun ngendika: "Punika dinten ingkang nggegirisi."
 
 وَلَمَّا جَآءَتْ رُسُلُنَا لُوطًۭا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًۭا وَقَالَ هَٰذَا يَوْمٌ عَصِيبٌۭ
 
-**11:78** Lan kaumipun dugi kesusu dhateng piyambakipun — piyambakipun sampun kulina nindakaken dosa-dosa. Piyambakipun ngendika: “Dhuh kaumku, punika putri-putri kula; piyambakipun langkung resik tumrap panjenengan. Pramila ajriha dhateng Gusti Allah, lan sampun ngantos ndadosaken kula wirang wonten ing ngarsanipun tamu-tamu kula. Punapa boten wonten satunggal priya ingkang wicaksana antawis panjenengan?”
+**11:78** Lan kaumipun dugi kesusu dhateng piyambakipun — piyambakipun sampun kulina nindakaken dosa-dosa. Piyambakipun ngendika: "Dhuh kaumku, punika putri-putri kula; piyambakipun langkung resik tumrap panjenengan. Pramila ajriha dhateng Gusti Allah, lan sampun ngantos ndadosaken kula wirang wonten ing ngarsanipun tamu-tamu kula. Punapa boten wonten satunggal priya ingkang wicaksana antawis panjenengan?"
 
 وَجَآءَهُۥ قَوْمُهُۥ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا۟ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ ۚ قَالَ يَٰقَوْمِ هَٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ فِى ضَيْفِىٓ ۖ أَلَيْسَ مِنكُمْ رَجُلٌۭ رَّشِيدٌۭ
 
-**11:79** Piyambakipun sami matur: “Panjenengan mangertos saestu bilih kawula boten gadhah hak tumrap putri-putri panjenengan, lan panjenengan mangertos saestu punapa ingkang kawula kersakaken.”
+**11:79** Piyambakipun sami matur: "Panjenengan mangertos saestu bilih kawula boten gadhah hak tumrap putri-putri panjenengan, lan panjenengan mangertos saestu punapa ingkang kawula kersakaken."
 
 قَالُوا۟ لَقَدْ عَلِمْتَ مَا لَنَا فِى بَنَاتِكَ مِنْ حَقٍّۢ وَإِنَّكَ لَتَعْلَمُ مَا نُرِيدُ
 
-**11:80** Piyambakipun ngendika: “Menawi kemawon kula gadhah kekiyatan kangge ngendegaken panjenengan, utawi saged ngendelaken panyengkuyung ingkang kiyat.”
+**11:80** Piyambakipun ngendika: "Menawi kemawon kula gadhah kekiyatan kangge ngendegaken panjenengan, utawi saged ngendelaken panyengkuyung ingkang kiyat."
 
 قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ
 
-**11:81** Piyambakipun sami matur: “Dhuh Luth, kawula utusan-utusan Pangeranmu; piyambakipun boten badhe nggayuh panjenengan. Pramila kesaha sesarengan kaliyan kulawarga panjenengan wonten ing tutuping dalu, lan sampun ngantos wonten satunggal kemawon saking panjenengan ningali mang wingking, kajaba garwa panjenengan. Piyambakipun badhe katandhang dening punapa ingkang badhe nandhang piyambakipun. Wekdal ingkang katemtokaken inggih enjing. Punapa enjing boten celak?”
+**11:81** Piyambakipun sami matur: "Dhuh Luth, kawula utusan-utusan Pangeranmu; piyambakipun boten badhe nggayuh panjenengan. Pramila kesaha sesarengan kaliyan kulawarga panjenengan wonten ing tutuping dalu, lan sampun ngantos wonten satunggal kemawon saking panjenengan ningali mang wingking, kajaba garwa panjenengan. Piyambakipun badhe katandhang dening punapa ingkang badhe nandhang piyambakipun. Wekdal ingkang katemtokaken inggih enjing. Punapa enjing boten celak?"
 
 قَالُوا۟ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ ۖ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍۢ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ ۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ ۚ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ ۚ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍۢ
 
@@ -6488,43 +6488,43 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 مُّسَوَّمَةً عِندَ رَبِّكَ ۖ وَمَا هِىَ مِنَ ٱلظَّٰلِمِينَ بِبَعِيدٍۢ
 
-**11:84** Lan dhateng Madyan, sedherekipun Syu'aib. Piyambakipun ngendika: “Dhuh kaumku, sembaha Gusti Allah; panjenengan boten gadhah gusti sanes kajaba Panjenenganipun. Lan sampun ngantos kirang taker utawi kirang timbang. Kula ningali panjenengan wonten ing kawontenan ingkang sae, nanging kula ajrih tumrap panjenengan kasangsaran Dinten ingkang ngubengi.”
+**11:84** Lan dhateng Madyan, sedherekipun Syu'aib. Piyambakipun ngendika: "Dhuh kaumku, sembaha Gusti Allah; panjenengan boten gadhah gusti sanes kajaba Panjenenganipun. Lan sampun ngantos kirang taker utawi kirang timbang. Kula ningali panjenengan wonten ing kawontenan ingkang sae, nanging kula ajrih tumrap panjenengan kasangsaran Dinten ingkang ngubengi."
 
 ۞ وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا ۚ قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ ۖ وَلَا تَنقُصُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ ۚ إِنِّىٓ أَرَىٰكُم بِخَيْرٍۢ وَإِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍۢ مُّحِيطٍۢ
 
-**11:85** “Dhuh kaumku! Paringana takeran wetah lan timbangan wetah, kanthi adil sedaya, lan sampun ngantos ngapusi tiyang-tiyang saking hak-hakipun, lan sampun ngantos nyebar karisakan wonten ing nagari.
+**11:85** "Dhuh kaumku! Paringana takeran wetah lan timbangan wetah, kanthi adil sedaya, lan sampun ngantos ngapusi tiyang-tiyang saking hak-hakipun, lan sampun ngantos nyebar karisakan wonten ing nagari.
 
 وَيَٰقَوْمِ أَوْفُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ بِٱلْقِسْطِ ۖ وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
 
-**11:86** Punapa ingkang kantun dening Gusti Allah punika sae piyambak tumrap panjenengan, menawi panjenengan tiyang-tiyang ingkang pitados. Lan kula sanès pangayom tumrap panjenengan.”
+**11:86** Punapa ingkang kantun dening Gusti Allah punika sae piyambak tumrap panjenengan, menawi panjenengan tiyang-tiyang ingkang pitados. Lan kula sanès pangayom tumrap panjenengan."
 
 بَقِيَّتُ ٱللَّهِ خَيْرٌۭ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ ۚ وَمَآ أَنَا۠ عَلَيْكُم بِحَفِيظٍۢ
 
-**11:87** Piyambakipun sami matur: “Dhuh Syu'aib, punapa pandonga panjenengan mrentah panjenengan supados kawula ninggalaken punapa ingkang leluhur kawula sembah, utawi nindakaken kanthi bandha kawula punapa ingkang kawula kersakaken? Panjenengan tiyang ingkang wicaksana lan pinter.”
+**11:87** Piyambakipun sami matur: "Dhuh Syu'aib, punapa pandonga panjenengan mrentah panjenengan supados kawula ninggalaken punapa ingkang leluhur kawula sembah, utawi nindakaken kanthi bandha kawula punapa ingkang kawula kersakaken? Panjenengan tiyang ingkang wicaksana lan pinter."
 
 قَالُوا۟ يَٰشُعَيْبُ أَصَلَوٰتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءَابَآؤُنَآ أَوْ أَن نَّفْعَلَ فِىٓ أَمْوَٰلِنَا مَا نَشَٰٓؤُا۟ ۖ إِنَّكَ لَأَنتَ ٱلْحَلِيمُ ٱلرَّشِيدُ
 
-**11:88** Piyambakipun ngendika: “Dhuh kaumku, punapa panjenengan sampun nimbang? Punapa menawi kula gadhah bukti ingkang cetha saking Pangeranku, lan Panjenenganipun sampun maringi kula rejeki ingkang sae saking Panjenenganipun piyambak? Kula boten gadhah kekarepan nindakaken punapa ingkang kula larang panjenengan nindakaken. Kula boten kepingin kajaba reformasi, sapinten kula saged. Kasil kula namung wonten ing Gusti Allah. Wonten ing Panjenenganipun kula masrahaken kapitadosan, lan dhateng Panjenenganipun kula wangsul.”
+**11:88** Piyambakipun ngendika: "Dhuh kaumku, punapa panjenengan sampun nimbang? Punapa menawi kula gadhah bukti ingkang cetha saking Pangeranku, lan Panjenenganipun sampun maringi kula rejeki ingkang sae saking Panjenenganipun piyambak? Kula boten gadhah kekarepan nindakaken punapa ingkang kula larang panjenengan nindakaken. Kula boten kepingin kajaba reformasi, sapinten kula saged. Kasil kula namung wonten ing Gusti Allah. Wonten ing Panjenenganipun kula masrahaken kapitadosan, lan dhateng Panjenenganipun kula wangsul."
 
 قَالَ يَٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَرَزَقَنِى مِنْهُ رِزْقًا حَسَنًۭا ۚ وَمَآ أُرِيدُ أَنْ أُخَالِفَكُمْ إِلَىٰ مَآ أَنْهَىٰكُمْ عَنْهُ ۚ إِنْ أُرِيدُ إِلَّا ٱلْإِصْلَٰحَ مَا ٱسْتَطَعْتُ ۚ وَمَا تَوْفِيقِىٓ إِلَّا بِٱللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ
 
-**11:89** “Dhuh kaumku, sampun ngantos memungsuhan panjenengan dhateng kula njalari panjenengan nandhang punapa ingkang katandhang dening kaumipun Nuh, utawi kaumipun Hud, utawi kaumipun Salih. Kaumipun Luth boten tebih saking panjenengan.”
+**11:89** "Dhuh kaumku, sampun ngantos memungsuhan panjenengan dhateng kula njalari panjenengan nandhang punapa ingkang katandhang dening kaumipun Nuh, utawi kaumipun Hud, utawi kaumipun Salih. Kaumipun Luth boten tebih saking panjenengan."
 
 وَيَٰقَوْمِ لَا يَجْرِمَنَّكُمْ شِقَاقِىٓ أَن يُصِيبَكُم مِّثْلُ مَآ أَصَابَ قَوْمَ نُوحٍ أَوْ قَوْمَ هُودٍ أَوْ قَوْمَ صَٰلِحٍۢ ۚ وَمَا قَوْمُ لُوطٍۢ مِّنكُم بِبَعِيدٍۢ
 
-**11:90** “Lan nyuwuna pangapura dhateng Pangeranmu, lan tobat dhateng Panjenenganipun. Pangeranku Mahaasih lan Asih.”
+**11:90** "Lan nyuwuna pangapura dhateng Pangeranmu, lan tobat dhateng Panjenenganipun. Pangeranku Mahaasih lan Asih."
 
 وَٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ ۚ إِنَّ رَبِّى رَحِيمٌۭ وَدُودٌۭ
 
-**11:91** Piyambakipun sami matur: “Dhuh Syu'aib, kawula boten mangertos kathah bab punapa ingkang panjenengan ngendikakaken, lan kawula ningali bilih panjenengan ringkih antawis kawula. Menawi boten amargi suku panjenengan, kawula tamtu sampun mbenturi panjenengan kanthi watu. Panjenengan boten gadhah aji tumrap kawula.”
+**11:91** Piyambakipun sami matur: "Dhuh Syu'aib, kawula boten mangertos kathah bab punapa ingkang panjenengan ngendikakaken, lan kawula ningali bilih panjenengan ringkih antawis kawula. Menawi boten amargi suku panjenengan, kawula tamtu sampun mbenturi panjenengan kanthi watu. Panjenengan boten gadhah aji tumrap kawula."
 
 قَالُوا۟ يَٰشُعَيْبُ مَا نَفْقَهُ كَثِيرًۭا مِّمَّا تَقُولُ وَإِنَّا لَنَرَىٰكَ فِينَا ضَعِيفًۭا ۖ وَلَوْلَا رَهْطُكَ لَرَجَمْنَٰكَ ۖ وَمَآ أَنتَ عَلَيْنَا بِعَزِيزٍۢ
 
-**11:92** Piyambakipun ngendika: “Dhuh kaumku, punapa suku kula langkung wigati tumrap panjenengan tinimbang Gusti Allah? Lan panjenengan sampun maling ngadoh saking Panjenenganipun? Pangeranku njangkepi sedaya ingkang panjenengan tindakaken.”
+**11:92** Piyambakipun ngendika: "Dhuh kaumku, punapa suku kula langkung wigati tumrap panjenengan tinimbang Gusti Allah? Lan panjenengan sampun maling ngadoh saking Panjenenganipun? Pangeranku njangkepi sedaya ingkang panjenengan tindakaken."
 
 قَالَ يَٰقَوْمِ أَرَهْطِىٓ أَعَزُّ عَلَيْكُم مِّنَ ٱللَّهِ وَٱتَّخَذْتُمُوهُ وَرَآءَكُمْ ظِهْرِيًّا ۖ إِنَّ رَبِّى بِمَا تَعْمَلُونَ مُحِيطٌۭ
 
-**11:93** “Dhuh kaumku, tindakna kados ingkang panjenengan saged, lan kula ugi badhe. Panjenengan badhe mangertos dhateng sinten badhe dugi paukuman ingkang badhe ngasoraken piyambakipun, lan sinten ingkang goroh. Pramila gatekna; kula ugi gatekaken sesarengan kaliyan panjenengan.”
+**11:93** "Dhuh kaumku, tindakna kados ingkang panjenengan saged, lan kula ugi badhe. Panjenengan badhe mangertos dhateng sinten badhe dugi paukuman ingkang badhe ngasoraken piyambakipun, lan sinten ingkang goroh. Pramila gatekna; kula ugi gatekaken sesarengan kaliyan panjenengan."
 
 وَيَٰقَوْمِ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنِّى عَٰمِلٌۭ ۖ سَوْفَ تَعْلَمُونَ مَن يَأْتِيهِ عَذَابٌۭ يُخْزِيهِ وَمَنْ هُوَ كَٰذِبٌۭ ۖ وَٱرْتَقِبُوٓا۟ إِنِّى مَعَكُمْ رَقِيبٌۭ
 
@@ -6628,7 +6628,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَوْ شَآءَ رَبُّكَ لَجَعَلَ ٱلنَّاسَ أُمَّةًۭ وَٰحِدَةًۭ ۖ وَلَا يَزَالُونَ مُخْتَلِفِينَ
 
-**11:119** Kajaba tiyang-tiyang ingkang Pangeranmu paringi kawelasan — amargi punika Panjenenganipun nitahaken piyambakipun. Pangandika Pangeranmu pungkasan: “Kawula badhe ngebaki Neraka Jahannam kanthi jin lan manungsa, sesarengan.”
+**11:119** Kajaba tiyang-tiyang ingkang Pangeranmu paringi kawelasan — amargi punika Panjenenganipun nitahaken piyambakipun. Pangandika Pangeranmu pungkasan: "Kawula badhe ngebaki Neraka Jahannam kanthi jin lan manungsa, sesarengan."
 
 إِلَّا مَن رَّحِمَ رَبُّكَ ۚ وَلِذَٰلِكَ خَلَقَهُمْ ۗ وَتَمَّتْ كَلِمَةُ رَبِّكَ لَأَمْلَأَنَّ جَهَنَّمَ مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ أَجْمَعِينَ
 
@@ -6636,11 +6636,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَكُلًّۭا نَّقُصُّ عَلَيْكَ مِنْ أَنۢبَآءِ ٱلرُّسُلِ مَا نُثَبِّتُ بِهِۦ فُؤَادَكَ ۚ وَجَآءَكَ فِى هَٰذِهِ ٱلْحَقُّ وَمَوْعِظَةٌۭ وَذِكْرَىٰ لِلْمُؤْمِنِينَ
 
-**11:121** Lan ngendikakna dhateng tiyang-tiyang ingkang boten pitados: “Tindakna miturut kesagedan panjenengan; lan kita ugi badhe.”
+**11:121** Lan ngendikakna dhateng tiyang-tiyang ingkang boten pitados: "Tindakna miturut kesagedan panjenengan; lan kita ugi badhe."
 
 وَقُل لِّلَّذِينَ لَا يُؤْمِنُونَ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنَّا عَٰمِلُونَ
 
-**11:122** “Lan tengga; kita ugi nengga.”
+**11:122** "Lan tengga; kita ugi nengga."
 
 وَٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ
 
@@ -6672,11 +6672,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ ٱلْقَصَصِ بِمَآ أَوْحَيْنَآ إِلَيْكَ هَٰذَا ٱلْقُرْءَانَ وَإِن كُنتَ مِن قَبْلِهِۦ لَمِنَ ٱلْغَٰفِلِينَ
 
-**12:4** Nalika Yusuf ngendika dhateng ramanipun: “Dhuh rama kula, kula ningali sewelas planit, lan srengenge, lan rembulan; kula ningali piyambakipun sujud dhateng kula.”
+**12:4** Nalika Yusuf ngendika dhateng ramanipun: "Dhuh rama kula, kula ningali sewelas planit, lan srengenge, lan rembulan; kula ningali piyambakipun sujud dhateng kula."
 
 إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَٰجِدِينَ
 
-**12:5** Piyambakipun ngendika: “Dhuh putra kula, sampun ngantos nyariyosaken sesawangan panjenengan dhateng sedherek-sedherek panjenengan, mundhak piyambakipun nggathuk lan ngrancang nglawan panjenengan. Setan punika mengsah manungsa ingkang nyata.
+**12:5** Piyambakipun ngendika: "Dhuh putra kula, sampun ngantos nyariyosaken sesawangan panjenengan dhateng sedherek-sedherek panjenengan, mundhak piyambakipun nggathuk lan ngrancang nglawan panjenengan. Setan punika mengsah manungsa ingkang nyata.
 
 قَالَ يَٰبُنَىَّ لَا تَقْصُصْ رُءْيَاكَ عَلَىٰٓ إِخْوَتِكَ فَيَكِيدُوا۟ لَكَ كَيْدًا ۖ إِنَّ ٱلشَّيْطَٰنَ لِلْإِنسَٰنِ عَدُوٌّۭ مُّبِينٌۭ
 
@@ -6688,35 +6688,35 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ۞ لَّقَدْ كَانَ فِى يُوسُفَ وَإِخْوَتِهِۦٓ ءَايَٰتٌۭ لِّلسَّآئِلِينَ
 
-**12:8** Nalika piyambakipun sami matur: “Yusuf lan sedherekipun langkung kinasih dening rama kita tinimbang kita, sanajan kita satunggaling golongan wetah. Rama kita cetha salah.
+**12:8** Nalika piyambakipun sami matur: "Yusuf lan sedherekipun langkung kinasih dening rama kita tinimbang kita, sanajan kita satunggaling golongan wetah. Rama kita cetha salah.
 
 إِذْ قَالُوا۟ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِى ضَلَٰلٍۢ مُّبِينٍ
 
-**12:9** “Peja Yusuf, utawi uncalna piyambakipun wonten ing satunggaling papan wonten ing nagari, lan kawigatosan rama panjenengan badhe dados kagungan panjenengan. Sasampunipun punika, panjenengan badhe dados tiyang-tiyang ingkang sae.”
+**12:9** "Peja Yusuf, utawi uncalna piyambakipun wonten ing satunggaling papan wonten ing nagari, lan kawigatosan rama panjenengan badhe dados kagungan panjenengan. Sasampunipun punika, panjenengan badhe dados tiyang-tiyang ingkang sae."
 
 ٱقْتُلُوا۟ يُوسُفَ أَوِ ٱطْرَحُوهُ أَرْضًۭا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا۟ مِنۢ بَعْدِهِۦ قَوْمًۭا صَٰلِحِينَ
 
-**12:10** Satunggaling antawisipun matur: “Sampun ngantos peja Yusuf, nanging uncalna piyambakipun dhateng dhasaring sumur; sawetawis kafilah saged mundhut piyambakipun — menawi panjenengan kedah nindakaken satunggaling prakawis.”
+**12:10** Satunggaling antawisipun matur: "Sampun ngantos peja Yusuf, nanging uncalna piyambakipun dhateng dhasaring sumur; sawetawis kafilah saged mundhut piyambakipun — menawi panjenengan kedah nindakaken satunggaling prakawis."
 
 قَالَ قَآئِلٌۭ مِّنْهُمْ لَا تَقْتُلُوا۟ يُوسُفَ وَأَلْقُوهُ فِى غَيَٰبَتِ ٱلْجُبِّ يَلْتَقِطْهُ بَعْضُ ٱلسَّيَّارَةِ إِن كُنتُمْ فَٰعِلِينَ
 
-**12:11** Piyambakipun sami matur: “Rama, kenging punapa panjenengan boten pitados dhateng kawula kaliyan Yusuf, sanajan kawula ngopeni piyambakipun?”
+**12:11** Piyambakipun sami matur: "Rama, kenging punapa panjenengan boten pitados dhateng kawula kaliyan Yusuf, sanajan kawula ngopeni piyambakipun?"
 
 قَالُوا۟ يَٰٓأَبَانَا مَا لَكَ لَا تَأْمَ۫نَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَٰصِحُونَ
 
-**12:12** “Kintun piyambakipun sesarengan kaliyan kawula enjing, supados piyambakipun saged mlampah-mlampah lan dolanan; kawula badhe ngopeni piyambakipun.”
+**12:12** "Kintun piyambakipun sesarengan kaliyan kawula enjing, supados piyambakipun saged mlampah-mlampah lan dolanan; kawula badhe ngopeni piyambakipun."
 
 أَرْسِلْهُ مَعَنَا غَدًۭا يَرْتَعْ وَيَلْعَبْ وَإِنَّا لَهُۥ لَحَٰفِظُونَ
 
-**12:13** Piyambakipun ngendika: “Punika ndadosaken kula kuwatos bilih panjenengan badhe mbekta piyambakipun kesah. Lan kula ajrih asu ajag saged nedha piyambakipun nalika panjenengan boten nggatosaken piyambakipun.”
+**12:13** Piyambakipun ngendika: "Punika ndadosaken kula kuwatos bilih panjenengan badhe mbekta piyambakipun kesah. Lan kula ajrih asu ajag saged nedha piyambakipun nalika panjenengan boten nggatosaken piyambakipun."
 
 قَالَ إِنِّى لَيَحْزُنُنِىٓ أَن تَذْهَبُوا۟ بِهِۦ وَأَخَافُ أَن يَأْكُلَهُ ٱلذِّئْبُ وَأَنتُمْ عَنْهُ غَٰفِلُونَ
 
-**12:14** Piyambakipun sami matur: “Menawi asu ajag nedha piyambakipun, lan kawula kathah, kawula badhe boten wonten gunanipun.”
+**12:14** Piyambakipun sami matur: "Menawi asu ajag nedha piyambakipun, lan kawula kathah, kawula badhe boten wonten gunanipun."
 
 قَالُوا۟ لَئِنْ أَكَلَهُ ٱلذِّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّآ إِذًۭا لَّخَٰسِرُونَ
 
-**12:15** Pramila piyambakipun kesah sesarengan kaliyan piyambakipun, lan sarujuk mapanaken piyambakipun wonten ing dhasaring sumur. Lan Kita maringi wahyu dhateng piyambakipun: “Panjenengan badhe maringi kabar dhateng piyambakipun bab tumindakipun punika nalika piyambakipun boten sadar.”
+**12:15** Pramila piyambakipun kesah sesarengan kaliyan piyambakipun, lan sarujuk mapanaken piyambakipun wonten ing dhasaring sumur. Lan Kita maringi wahyu dhateng piyambakipun: "Panjenengan badhe maringi kabar dhateng piyambakipun bab tumindakipun punika nalika piyambakipun boten sadar."
 
 فَلَمَّا ذَهَبُوا۟ بِهِۦ وَأَجْمَعُوٓا۟ أَن يَجْعَلُوهُ فِى غَيَٰبَتِ ٱلْجُبِّ ۚ وَأَوْحَيْنَآ إِلَيْهِ لَتُنَبِّئَنَّهُم بِأَمْرِهِمْ هَٰذَا وَهُمْ لَا يَشْعُرُونَ
 
@@ -6724,15 +6724,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَجَآءُوٓ أَبَاهُمْ عِشَآءًۭ يَبْكُونَ
 
-**12:17** Piyambakipun sami matur: “Dhuh rama, kawula kesah balapan satunggal lan satunggalipun, lan ninggalaken Yusuf wonten ing sisi barang-barang kawula; lan asu ajag nedha piyambakipun. Nanging panjenengan boten badhe pitados dhateng kawula, sanajan kawula matur leres.”
+**12:17** Piyambakipun sami matur: "Dhuh rama, kawula kesah balapan satunggal lan satunggalipun, lan ninggalaken Yusuf wonten ing sisi barang-barang kawula; lan asu ajag nedha piyambakipun. Nanging panjenengan boten badhe pitados dhateng kawula, sanajan kawula matur leres."
 
 قَالُوا۟ يَٰٓأَبَانَآ إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِندَ مَتَٰعِنَا فَأَكَلَهُ ٱلذِّئْبُ ۖ وَمَآ أَنتَ بِمُؤْمِنٍۢ لَّنَا وَلَوْ كُنَّا صَٰدِقِينَ
 
-**12:18** Lan piyambakipun mbekta rasukanipun, kanthi getih palsu wonten ing mrika. Piyambakipun ngendika: “Jiwa panjenengan nggodha panjenengan nindakaken satunggaling prakawis. Nanging kasabaran punika endah, lan Gusti Allah punika Pitulung kula nglawan punapa ingkang panjenengan ngendikakaken.”
+**12:18** Lan piyambakipun mbekta rasukanipun, kanthi getih palsu wonten ing mrika. Piyambakipun ngendika: "Jiwa panjenengan nggodha panjenengan nindakaken satunggaling prakawis. Nanging kasabaran punika endah, lan Gusti Allah punika Pitulung kula nglawan punapa ingkang panjenengan ngendikakaken."
 
 وَجَآءُو عَلَىٰ قَمِيصِهِۦ بِدَمٍۢ كَذِبٍۢ ۚ قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًۭا ۖ فَصَبْرٌۭ جَمِيلٌۭ ۖ وَٱللَّهُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ
 
-**12:19** Satunggaling kafilah langkung, lan piyambakipun ngintun juru bekta toyanipun. Piyambakipun ngudhunaken emberipun, lan matur: “Kabar bingah. Punika satunggaling lare.” Lan piyambakipun nyingidaken piyambakipun minangka barang dagangan. Nanging Gusti Allah mangertos punapa ingkang piyambakipun tindakaken.
+**12:19** Satunggaling kafilah langkung, lan piyambakipun ngintun juru bekta toyanipun. Piyambakipun ngudhunaken emberipun, lan matur: "Kabar bingah. Punika satunggaling lare." Lan piyambakipun nyingidaken piyambakipun minangka barang dagangan. Nanging Gusti Allah mangertos punapa ingkang piyambakipun tindakaken.
 
 وَجَآءَتْ سَيَّارَةٌۭ فَأَرْسَلُوا۟ وَارِدَهُمْ فَأَدْلَىٰ دَلْوَهُۥ ۖ قَالَ يَٰبُشْرَىٰ هَٰذَا غُلَٰمٌۭ ۚ وَأَسَرُّوهُ بِضَٰعَةًۭ ۚ وَٱللَّهُ عَلِيمٌۢ بِمَا يَعْمَلُونَ
 
@@ -6740,7 +6740,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَشَرَوْهُ بِثَمَنٍۭ بَخْسٍۢ دَرَٰهِمَ مَعْدُودَةٍۢ وَكَانُوا۟ فِيهِ مِنَ ٱلزَّٰهِدِينَ
 
-**12:21** Tiyang Mesir ingkang tumbas piyambakipun ngendika dhateng garwanipun: “Openana piyambakipun kanthi sae; piyambakipun saged mupangati tumrap kita, utawi kita saged ngangkat piyambakipun dados putra.” Kita makaten mapanaken Yusuf wonten ing nagari, kangge mulang piyambakipun interpretasi prakawis-prakawis. Gusti Allah gadhah kuwaos tumrap urusan Panjenenganipun, nanging umumipun tiyang-tiyang boten mangertos.
+**12:21** Tiyang Mesir ingkang tumbas piyambakipun ngendika dhateng garwanipun: "Openana piyambakipun kanthi sae; piyambakipun saged mupangati tumrap kita, utawi kita saged ngangkat piyambakipun dados putra." Kita makaten mapanaken Yusuf wonten ing nagari, kangge mulang piyambakipun interpretasi prakawis-prakawis. Gusti Allah gadhah kuwaos tumrap urusan Panjenenganipun, nanging umumipun tiyang-tiyang boten mangertos.
 
 وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
@@ -6748,7 +6748,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَمَّا بَلَغَ أَشُدَّهُۥٓ ءَاتَيْنَٰهُ حُكْمًۭا وَعِلْمًۭا ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
 
-**12:23** Piyambakipun ingkang griyanipun piyambakipun manggen nyobi nggodha piyambakipun. Piyambakipun nutup lawang-lawang, lan matur: “Kula kagungan panjenengan.” Piyambakipun ngendika: “Gusti Allah nglarang! Panjenenganipun Pangeranku. Panjenenganipun sampun maringi kula griya ingkang sae. Tiyang-tiyang dosa boten nate kasil.”
+**12:23** Piyambakipun ingkang griyanipun piyambakipun manggen nyobi nggodha piyambakipun. Piyambakipun nutup lawang-lawang, lan matur: "Kula kagungan panjenengan." Piyambakipun ngendika: "Gusti Allah nglarang! Panjenenganipun Pangeranku. Panjenenganipun sampun maringi kula griya ingkang sae. Tiyang-tiyang dosa boten nate kasil."
 
 وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ ۚ قَالَ مَعَاذَ ٱللَّهِ ۖ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ ۖ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
 
@@ -6756,39 +6756,39 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَقَدْ هَمَّتْ بِهِۦ ۖ وَهَمَّ بِهَا لَوْلَآ أَن رَّءَا بُرْهَٰنَ رَبِّهِۦ ۚ كَذَٰلِكَ لِنَصْرِفَ عَنْهُ ٱلسُّوٓءَ وَٱلْفَحْشَآءَ ۚ إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُخْلَصِينَ
 
-**12:25** Nalika piyambakipun balapan dhateng lawang, piyambakipun nyuwek rasukanipun saking wingking. Wonten ing lawang, piyambakipun kepanggih garwanipun. Piyambakipun matur: “Punapa paukuman tumrap piyambakipun ingkang kepingin ngasoraken garwa panjenengan, kajaba dipunkunjara utawi paukuman ingkang nglarani?”
+**12:25** Nalika piyambakipun balapan dhateng lawang, piyambakipun nyuwek rasukanipun saking wingking. Wonten ing lawang, piyambakipun kepanggih garwanipun. Piyambakipun matur: "Punapa paukuman tumrap piyambakipun ingkang kepingin ngasoraken garwa panjenengan, kajaba dipunkunjara utawi paukuman ingkang nglarani?"
 
 وَٱسْتَبَقَا ٱلْبَابَ وَقَدَّتْ قَمِيصَهُۥ مِن دُبُرٍۢ وَأَلْفَيَا سَيِّدَهَا لَدَا ٱلْبَابِ ۚ قَالَتْ مَا جَزَآءُ مَنْ أَرَادَ بِأَهْلِكَ سُوٓءًا إِلَّآ أَن يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌۭ
 
-**12:26** Piyambakipun ngendika: “Piyambakipun ingkang nyobi nggodha kula.” Satunggaling saksi saking kulawarganipun ngusulaken: “Menawi rasukanipun suwek saking ngajeng: lajeng piyambakipun sampun matur leres, lan piyambakipun ingkang goroh.
+**12:26** Piyambakipun ngendika: "Piyambakipun ingkang nyobi nggodha kula." Satunggaling saksi saking kulawarganipun ngusulaken: "Menawi rasukanipun suwek saking ngajeng: lajeng piyambakipun sampun matur leres, lan piyambakipun ingkang goroh.
 
 قَالَ هِىَ رَٰوَدَتْنِى عَن نَّفْسِى ۚ وَشَهِدَ شَاهِدٌۭ مِّنْ أَهْلِهَآ إِن كَانَ قَمِيصُهُۥ قُدَّ مِن قُبُلٍۢ فَصَدَقَتْ وَهُوَ مِنَ ٱلْكَٰذِبِينَ
 
-**12:27** Nanging menawi rasukanipun suwek saking wingking: lajeng piyambakipun sampun goroh, lan piyambakipun ingkang leres.”
+**12:27** Nanging menawi rasukanipun suwek saking wingking: lajeng piyambakipun sampun goroh, lan piyambakipun ingkang leres."
 
 وَإِن كَانَ قَمِيصُهُۥ قُدَّ مِن دُبُرٍۢ فَكَذَبَتْ وَهُوَ مِنَ ٱلصَّٰدِقِينَ
 
-**12:28** Lan nalika piyambakipun ningali bilih rasukanipun suwek saking wingking, piyambakipun ngendika: “Punika rancangan wanita. Rancangan panjenengan saestu awrat.”
+**12:28** Lan nalika piyambakipun ningali bilih rasukanipun suwek saking wingking, piyambakipun ngendika: "Punika rancangan wanita. Rancangan panjenengan saestu awrat."
 
 فَلَمَّا رَءَا قَمِيصَهُۥ قُدَّ مِن دُبُرٍۢ قَالَ إِنَّهُۥ مِن كَيْدِكُنَّ ۖ إِنَّ كَيْدَكُنَّ عَظِيمٌۭ
 
-**12:29** “Yusuf, maling saking punika. Lan panjenengan, wanita, nyuwuna pangapura tumrap dosa panjenengan; panjenengan saestu salah.”
+**12:29** "Yusuf, maling saking punika. Lan panjenengan, wanita, nyuwuna pangapura tumrap dosa panjenengan; panjenengan saestu salah."
 
 يُوسُفُ أَعْرِضْ عَنْ هَٰذَا ۚ وَٱسْتَغْفِرِى لِذَنۢبِكِ ۖ إِنَّكِ كُنتِ مِنَ ٱلْخَاطِـِٔينَ
 
-**12:30** Sawetawis wanita wonten ing kitha sami matur: “Garwanipun gubernur nyobi nggodha abdinipun. Piyambakipun saestu tresna dhateng piyambakipun. Kawula ningali piyambakipun sampun kesasar.”
+**12:30** Sawetawis wanita wonten ing kitha sami matur: "Garwanipun gubernur nyobi nggodha abdinipun. Piyambakipun saestu tresna dhateng piyambakipun. Kawula ningali piyambakipun sampun kesasar."
 
 ۞ وَقَالَ نِسْوَةٌۭ فِى ٱلْمَدِينَةِ ٱمْرَأَتُ ٱلْعَزِيزِ تُرَٰوِدُ فَتَىٰهَا عَن نَّفْسِهِۦ ۖ قَدْ شَغَفَهَا حُبًّا ۖ إِنَّا لَنَرَىٰهَا فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
-**12:31** Lan nalika piyambakipun mireng gosipipun, piyambakipun ngundang piyambakipun, lan nyawisaken tumrap piyambakipun satunggaling jamuan, lan piyambakipun maringi saben satunggaling saking piyambakipun satunggaling lading. Piyambakipun matur: “Mlebeta medal wonten ing ngarsanipun.” Lan nalika piyambakipun ningali piyambakipun, piyambakipun gumun dhateng piyambakipun, lan ngethok astanipun. Piyambakipun sami matur: “Dhuh Gusti Allah, punika sanès manungsa, punika kedah malaikat ingkang aji.”
+**12:31** Lan nalika piyambakipun mireng gosipipun, piyambakipun ngundang piyambakipun, lan nyawisaken tumrap piyambakipun satunggaling jamuan, lan piyambakipun maringi saben satunggaling saking piyambakipun satunggaling lading. Piyambakipun matur: "Mlebeta medal wonten ing ngarsanipun." Lan nalika piyambakipun ningali piyambakipun, piyambakipun gumun dhateng piyambakipun, lan ngethok astanipun. Piyambakipun sami matur: "Dhuh Gusti Allah, punika sanès manungsa, punika kedah malaikat ingkang aji."
 
 فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَـًۭٔا وَءَاتَتْ كُلَّ وَٰحِدَةٍۢ مِّنْهُنَّ سِكِّينًۭا وَقَالَتِ ٱخْرُجْ عَلَيْهِنَّ ۖ فَلَمَّا رَأَيْنَهُۥٓ أَكْبَرْنَهُۥ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَٰشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنْ هَٰذَآ إِلَّا مَلَكٌۭ كَرِيمٌۭ
 
-**12:32** Piyambakipun matur: “Punika piyambakipun, ingkang panjenengan cacad kula awitipun. Kula saestu nyobi nggodha piyambakipun, nanging piyambakipun nolak. Nanging menawi piyambakipun boten nindakaken punapa ingkang kula ngendikakaken dhateng piyambakipun, piyambakipun badhe dipunkunjara, lan badhe dados satunggaling tiyang ingkang hina.”
+**12:32** Piyambakipun matur: "Punika piyambakipun, ingkang panjenengan cacad kula awitipun. Kula saestu nyobi nggodha piyambakipun, nanging piyambakipun nolak. Nanging menawi piyambakipun boten nindakaken punapa ingkang kula ngendikakaken dhateng piyambakipun, piyambakipun badhe dipunkunjara, lan badhe dados satunggaling tiyang ingkang hina."
 
 قَالَتْ فَذَٰلِكُنَّ ٱلَّذِى لُمْتُنَّنِى فِيهِ ۖ وَلَقَدْ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ فَٱسْتَعْصَمَ ۖ وَلَئِن لَّمْ يَفْعَلْ مَآ ءَامُرُهُۥ لَيُسْجَنَنَّ وَلَيَكُونًۭا مِّنَ ٱلصَّٰغِرِينَ
 
-**12:33** Piyambakipun ngendika: “Dhuh Pangeranku, kunjara langkung kula remeni tinimbang punapa ingkang piyambakipun undang dhateng kula. Kajaba Panjenengan malingaken rancanganipun saking kula, kula saged condhong dhateng piyambakipun, lan dados satunggaling tiyang ingkang bodho.”
+**12:33** Piyambakipun ngendika: "Dhuh Pangeranku, kunjara langkung kula remeni tinimbang punapa ingkang piyambakipun undang dhateng kula. Kajaba Panjenengan malingaken rancanganipun saking kula, kula saged condhong dhateng piyambakipun, lan dados satunggaling tiyang ingkang bodho."
 
 قَالَ رَبِّ ٱلسِّجْنُ أَحَبُّ إِلَىَّ مِمَّا يَدْعُونَنِىٓ إِلَيْهِ ۖ وَإِلَّا تَصْرِفْ عَنِّى كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُن مِّنَ ٱلْجَٰهِلِينَ
 
@@ -6800,51 +6800,51 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ثُمَّ بَدَا لَهُم مِّنۢ بَعْدِ مَا رَأَوُا۟ ٱلْءَايَٰتِ لَيَسْجُنُنَّهُۥ حَتَّىٰ حِينٍۢ
 
-**12:36** Kalih pemuda mlebet kunjara sesarengan kaliyan piyambakipun. Satunggaling antawisipun matur: “Kula ningali dhiri kula meres anggur.” Ingkang sanes matur: “Kula ningali dhiri kula mbekta roti wonten ing sirah kula, saking punika peksi-peksi sami nedha. Cariyosna dhateng kawula interpretasinipun — kawula ningali bilih panjenengan satunggaling tiyang ingkang leres.”
+**12:36** Kalih pemuda mlebet kunjara sesarengan kaliyan piyambakipun. Satunggaling antawisipun matur: "Kula ningali dhiri kula meres anggur." Ingkang sanes matur: "Kula ningali dhiri kula mbekta roti wonten ing sirah kula, saking punika peksi-peksi sami nedha. Cariyosna dhateng kawula interpretasinipun — kawula ningali bilih panjenengan satunggaling tiyang ingkang leres."
 
 وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ ۖ قَالَ أَحَدُهُمَآ إِنِّىٓ أَرَىٰنِىٓ أَعْصِرُ خَمْرًۭا ۖ وَقَالَ ٱلْءَاخَرُ إِنِّىٓ أَرَىٰنِىٓ أَحْمِلُ فَوْقَ رَأْسِى خُبْزًۭا تَأْكُلُ ٱلطَّيْرُ مِنْهُ ۖ نَبِّئْنَا بِتَأْوِيلِهِۦٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ
 
-**12:37** Piyambakipun ngendika: “Boten wonten tedhan ingkang kasajiaken dhateng panjenengan, nanging kula sampun maringi kabar dhateng panjenengan bab punika saderengipun panjenengan nampi. Punika sawetawis punapa ingkang Pangeranku sampun mulang dhateng kula. Kula sampun ninggalaken tradhisi tiyang-tiyang ingkang boten pitados dhateng Gusti Allah; lan ngengingi Akhirat, piyambakipun nolak.”
+**12:37** Piyambakipun ngendika: "Boten wonten tedhan ingkang kasajiaken dhateng panjenengan, nanging kula sampun maringi kabar dhateng panjenengan bab punika saderengipun panjenengan nampi. Punika sawetawis punapa ingkang Pangeranku sampun mulang dhateng kula. Kula sampun ninggalaken tradhisi tiyang-tiyang ingkang boten pitados dhateng Gusti Allah; lan ngengingi Akhirat, piyambakipun nolak."
 
 قَالَ لَا يَأْتِيكُمَا طَعَامٌۭ تُرْزَقَانِهِۦٓ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِۦ قَبْلَ أَن يَأْتِيَكُمَا ۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِى رَبِّىٓ ۚ إِنِّى تَرَكْتُ مِلَّةَ قَوْمٍۢ لَّا يُؤْمِنُونَ بِٱللَّهِ وَهُم بِٱلْءَاخِرَةِ هُمْ كَٰفِرُونَ
 
-**12:38** “Lan kula sampun ndherek kapitadosan leluhur kula, Ibrahim, lan Ishak, lan Yakub. Boten dados urusan kita kangge nyekutokaken punapa-punapa kaliyan Gusti Allah. Punika amargi sih Gusti Allah tumrap kita lan tumrap tiyang-tiyang, nanging umumipun tiyang-tiyang boten ngaturaken panuwun.
+**12:38** "Lan kula sampun ndherek kapitadosan leluhur kula, Ibrahim, lan Ishak, lan Yakub. Boten dados urusan kita kangge nyekutokaken punapa-punapa kaliyan Gusti Allah. Punika amargi sih Gusti Allah tumrap kita lan tumrap tiyang-tiyang, nanging umumipun tiyang-tiyang boten ngaturaken panuwun.
 
 وَٱتَّبَعْتُ مِلَّةَ ءَابَآءِىٓ إِبْرَٰهِيمَ وَإِسْحَٰقَ وَيَعْقُوبَ ۚ مَا كَانَ لَنَآ أَن نُّشْرِكَ بِٱللَّهِ مِن شَىْءٍۢ ۚ ذَٰلِكَ مِن فَضْلِ ٱللَّهِ عَلَيْنَا وَعَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ
 
-**12:39** “Dhuh kanca-kanca kunjara kula, punapa pangeran-pangeran ingkang beda-beda langkung sae, utawi Gusti Allah, ingkang Satunggal, ingkang Agung?”
+**12:39** "Dhuh kanca-kanca kunjara kula, punapa pangeran-pangeran ingkang beda-beda langkung sae, utawi Gusti Allah, ingkang Satunggal, ingkang Agung?"
 
 يَٰصَىٰحِبَىِ ٱلسِّجْنِ ءَأَرْبَابٌۭ مُّتَفَرِّقُونَ خَيْرٌ أَمِ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ
 
-**12:40** “Panjenengan boten nyembah, kejawi Panjenenganipun, kajaba nami-nami ingkang panjenengan namakaken, panjenengan lan leluhur panjenengan, ingkang Gusti Allah boten temurunaken kuwaos punapa-punapa. Paukuman boten kagunganipun sinten kemawon kajaba Gusti Allah. Panjenenganipun sampun mrentah supados panjenengan boten nyembah kajaba Panjenenganipun. Punika agami ingkang leres, nanging umumipun tiyang-tiyang boten mangertos.
+**12:40** "Panjenengan boten nyembah, kejawi Panjenenganipun, kajaba nami-nami ingkang panjenengan namakaken, panjenengan lan leluhur panjenengan, ingkang Gusti Allah boten temurunaken kuwaos punapa-punapa. Paukuman boten kagunganipun sinten kemawon kajaba Gusti Allah. Panjenenganipun sampun mrentah supados panjenengan boten nyembah kajaba Panjenenganipun. Punika agami ingkang leres, nanging umumipun tiyang-tiyang boten mangertos.
 
 مَا تَعْبُدُونَ مِن دُونِهِۦٓ إِلَّآ أَسْمَآءًۭ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍ ۚ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
-**12:41** “Dhuh kanca-kanca kunjara kula! Satunggaling antawis panjenengan badhe ngladeni bendaranipun anggur; dene ingkang sanes badhe kasalib, lan peksi-peksi badhe nedha saking sirahipun. Makaten prakawis ingkang panjenengan nyuwun pirsa sampun kaputusan.”
+**12:41** "Dhuh kanca-kanca kunjara kula! Satunggaling antawis panjenengan badhe ngladeni bendaranipun anggur; dene ingkang sanes badhe kasalib, lan peksi-peksi badhe nedha saking sirahipun. Makaten prakawis ingkang panjenengan nyuwun pirsa sampun kaputusan."
 
 يَٰصَىٰحِبَىِ ٱلسِّجْنِ أَمَّآ أَحَدُكُمَا فَيَسْقِى رَبَّهُۥ خَمْرًۭا ۖ وَأَمَّا ٱلْءَاخَرُ فَيُصْلَبُ فَتَأْكُلُ ٱلطَّيْرُ مِن رَّأْسِهِۦ ۚ قُضِىَ ٱلْأَمْرُ ٱلَّذِى فِيهِ تَسْتَفْتِيَانِ
 
-**12:42** Lan piyambakipun ngendika dhateng piyambakipun ingkang piyambakipun inten badhe kaluwari: “Sebutna kula dhateng bendara panjenengan.” Nanging Setan njalari piyambakipun kesupen nyebutaken piyambakipun dhateng bendaranipun, pramila piyambakipun tetep wonten ing kunjara sawetawis taun.
+**12:42** Lan piyambakipun ngendika dhateng piyambakipun ingkang piyambakipun inten badhe kaluwari: "Sebutna kula dhateng bendara panjenengan." Nanging Setan njalari piyambakipun kesupen nyebutaken piyambakipun dhateng bendaranipun, pramila piyambakipun tetep wonten ing kunjara sawetawis taun.
 
 وَقَالَ لِلَّذِى ظَنَّ أَنَّهُۥ نَاجٍۢ مِّنْهُمَا ٱذْكُرْنِى عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّيْطَٰنُ ذِكْرَ رَبِّهِۦ فَلَبِثَ فِى ٱلسِّجْنِ بِضْعَ سِنِينَ
 
-**12:43** Raja ngendika: “Kula ningali pitung lembu lemu dipuntedha dening pitung lembu kuru, lan pitung wulir ijem, lan sanesipun garing. Dhuh para pangageng, jlentrehen dhateng kula sesawangan kula, menawi panjenengan saged interpretasi sesawangan.”
+**12:43** Raja ngendika: "Kula ningali pitung lembu lemu dipuntedha dening pitung lembu kuru, lan pitung wulir ijem, lan sanesipun garing. Dhuh para pangageng, jlentrehen dhateng kula sesawangan kula, menawi panjenengan saged interpretasi sesawangan."
 
 وَقَالَ ٱلْمَلِكُ إِنِّىٓ أَرَىٰ سَبْعَ بَقَرَٰتٍۢ سِمَانٍۢ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌۭ وَسَبْعَ سُنۢبُلَٰتٍ خُضْرٍۢ وَأُخَرَ يَابِسَٰتٍۢ ۖ يَٰٓأَيُّهَا ٱلْمَلَأُ أَفْتُونِى فِى رُءْيَٰىَ إِن كُنتُمْ لِلرُّءْيَا تَعْبُرُونَ
 
-**12:44** Piyambakipun sami matur: “Campuran impen-impian, lan kawula boten mangertos bab interpretasi impen-impian.”
+**12:44** Piyambakipun sami matur: "Campuran impen-impian, lan kawula boten mangertos bab interpretasi impen-impian."
 
 قَالُوٓا۟ أَضْغَٰثُ أَحْلَٰمٍۢ ۖ وَمَا نَحْنُ بِتَأْوِيلِ ٱلْأَحْلَٰمِ بِعَٰلِمِينَ
 
-**12:45** Piyambakipun ingkang kaluwari matur, sasampunipun eling sasampunipun sawetawis wekdal: “Kula badhe maringi kabar dhateng panjenengan bab interpretasinipun, pramila kintun kula medal.”
+**12:45** Piyambakipun ingkang kaluwari matur, sasampunipun eling sasampunipun sawetawis wekdal: "Kula badhe maringi kabar dhateng panjenengan bab interpretasinipun, pramila kintun kula medal."
 
 وَقَالَ ٱلَّذِى نَجَا مِنْهُمَا وَٱدَّكَرَ بَعْدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأْوِيلِهِۦ فَأَرْسِلُونِ
 
-**12:46** “Yusuf, dhuh priya ingkang leres, paringana kabar dhateng kawula ngengingi pitung lembu lemu dipuntedha dening pitung lembu kuru, lan pitung wulir ijem, lan sanesipun garing, supados kula saged wangsul dhateng tiyang-tiyang, supados piyambakipun sami mangertos.”
+**12:46** "Yusuf, dhuh priya ingkang leres, paringana kabar dhateng kawula ngengingi pitung lembu lemu dipuntedha dening pitung lembu kuru, lan pitung wulir ijem, lan sanesipun garing, supados kula saged wangsul dhateng tiyang-tiyang, supados piyambakipun sami mangertos."
 
 يُوسُفُ أَيُّهَا ٱلصِّدِّيقُ أَفْتِنَا فِى سَبْعِ بَقَرَٰتٍۢ سِمَانٍۢ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌۭ وَسَبْعِ سُنۢبُلَٰتٍ خُضْرٍۢ وَأُخَرَ يَابِسَٰتٍۢ لَّعَلِّىٓ أَرْجِعُ إِلَى ٱلنَّاسِ لَعَلَّهُمْ يَعْلَمُونَ
 
-**12:47** Piyambakipun ngendika: “Panjenengan badhe tani pitung taun terus-terusan. Nanging punapa kemawon ingkang panjenengan panen, tilaraken wonten ing wuliripun, kajaba sakedhik ingkang panjenengan tedha.”
+**12:47** Piyambakipun ngendika: "Panjenengan badhe tani pitung taun terus-terusan. Nanging punapa kemawon ingkang panjenengan panen, tilaraken wonten ing wuliripun, kajaba sakedhik ingkang panjenengan tedha."
 
 قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًۭا فَمَا حَصَدتُّمْ فَذَرُوهُ فِى سُنۢبُلِهِۦٓ إِلَّا قَلِيلًۭا مِّمَّا تَأْكُلُونَ
 
@@ -6856,27 +6856,27 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ عَامٌۭ فِيهِ يُغَاثُ ٱلنَّاسُ وَفِيهِ يَعْصِرُونَ
 
-**12:50** Raja ngendika: “Bekta piyambakipun dhateng kula.” Lan nalika utusan dugi dhateng piyambakipun, piyambakipun ngendika: “Wangsula dhateng bendara panjenengan, lan nyuwuna pirsa dhateng piyambakipun bab kekarepan wanita-wanita ingkang ngethok astanipun; Pangeranku saestu mangertos rancanganipun.”
+**12:50** Raja ngendika: "Bekta piyambakipun dhateng kula." Lan nalika utusan dugi dhateng piyambakipun, piyambakipun ngendika: "Wangsula dhateng bendara panjenengan, lan nyuwuna pirsa dhateng piyambakipun bab kekarepan wanita-wanita ingkang ngethok astanipun; Pangeranku saestu mangertos rancanganipun."
 
 وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦ ۖ فَلَمَّا جَآءَهُ ٱلرَّسُولُ قَالَ ٱرْجِعْ إِلَىٰ رَبِّكَ فَسْـَٔلْهُ مَا بَالُ ٱلنِّسْوَةِ ٱلَّٰتِى قَطَّعْنَ أَيْدِيَهُنَّ ۚ إِنَّ رَبِّى بِكَيْدِهِنَّ عَلِيمٌۭ
 
-**12:51** Piyambakipun ngendika: “Punapa prakawis panjenengan, wanita-wanita, nalika panjenengan nyobi nggodha Yusuf?” Piyambakipun sami matur: “Gusti Allah nglarang! Kawula boten mangertos ala punapa-punapa ingkang dipuntindakaken dening piyambakipun.” Garwanipun gubernur lajeng matur: “Samangke kaleresan medal. Kula ingkang nyobi nggodha piyambakipun, lan piyambakipun matur leres.”
+**12:51** Piyambakipun ngendika: "Punapa prakawis panjenengan, wanita-wanita, nalika panjenengan nyobi nggodha Yusuf?" Piyambakipun sami matur: "Gusti Allah nglarang! Kawula boten mangertos ala punapa-punapa ingkang dipuntindakaken dening piyambakipun." Garwanipun gubernur lajeng matur: "Samangke kaleresan medal. Kula ingkang nyobi nggodha piyambakipun, lan piyambakipun matur leres."
 
 قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٰٔنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّٰدِقِينَ
 
-**12:52** “Punika supados piyambakipun mangertos bilih kula boten ngianati piyambakipun kanthi sesingidan, lan bilih Gusti Allah boten nuntun rancangan tiyang-tiyang ingkang ngianati.”
+**12:52** "Punika supados piyambakipun mangertos bilih kula boten ngianati piyambakipun kanthi sesingidan, lan bilih Gusti Allah boten nuntun rancangan tiyang-tiyang ingkang ngianati."
 
 ذَٰلِكَ لِيَعْلَمَ أَنِّى لَمْ أَخُنْهُ بِٱلْغَيْبِ وَأَنَّ ٱللَّهَ لَا يَهْدِى كَيْدَ ٱلْخَآئِنِينَ
 
-**12:53** “Nanging kula boten ngaku resik. Jiwa mrentah ala, kajaba tiyang-tiyang ingkang Pangeranku paringi kawelasan. Saestu Pangeranku Ngapura lan Mahaasih.”
+**12:53** "Nanging kula boten ngaku resik. Jiwa mrentah ala, kajaba tiyang-tiyang ingkang Pangeranku paringi kawelasan. Saestu Pangeranku Ngapura lan Mahaasih."
 
 ۞ وَمَآ أُبَرِّئُ نَفْسِىٓ ۚ إِنَّ ٱلنَّفْسَ لَأَمَّارَةٌۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّىٓ ۚ إِنَّ رَبِّى غَفُورٌۭ رَّحِيمٌۭ
 
-**12:54** Raja ngendika: “Bekta piyambakipun dhateng kula, lan kula badhe nyisihaken piyambakipun kangge kula piyambak.” Lan nalika piyambakipun ngendika dhateng piyambakipun, piyambakipun ngendika: “Dinten punika panjenengan wonten ing sisi kawula mapan lan aman.”
+**12:54** Raja ngendika: "Bekta piyambakipun dhateng kula, lan kula badhe nyisihaken piyambakipun kangge kula piyambak." Lan nalika piyambakipun ngendika dhateng piyambakipun, piyambakipun ngendika: "Dinten punika panjenengan wonten ing sisi kawula mapan lan aman."
 
 وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦٓ أَسْتَخْلِصْهُ لِنَفْسِى ۖ فَلَمَّا كَلَّمَهُۥ قَالَ إِنَّكَ ٱلْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌۭ
 
-**12:55** Piyambakipun ngendika: “Papanaken kula ngurus gudhang-gudhang nagari; kula jujur lan mangertos.”
+**12:55** Piyambakipun ngendika: "Papanaken kula ngurus gudhang-gudhang nagari; kula jujur lan mangertos."
 
 قَالَ ٱجْعَلْنِى عَلَىٰ خَزَآئِنِ ٱلْأَرْضِ ۖ إِنِّى حَفِيظٌ عَلِيمٌۭ
 
@@ -6892,39 +6892,39 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَجَآءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا۟ عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُۥ مُنكِرُونَ
 
-**12:59** Nalika piyambakipun maringi piyambakipun bekalipun, piyambakipun ngendika: “Bekta dhateng kula satunggaling sedherek panjenengan saking rama panjenengan. Punapa panjenengan boten ningali bilih kula ngebaki takeran, lan kula ingkang sae piyambak saking ramahtamah?”
+**12:59** Nalika piyambakipun maringi piyambakipun bekalipun, piyambakipun ngendika: "Bekta dhateng kula satunggaling sedherek panjenengan saking rama panjenengan. Punapa panjenengan boten ningali bilih kula ngebaki takeran, lan kula ingkang sae piyambak saking ramahtamah?"
 
 وَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ قَالَ ٱئْتُونِى بِأَخٍۢ لَّكُم مِّنْ أَبِيكُمْ ۚ أَلَا تَرَوْنَ أَنِّىٓ أُوفِى ٱلْكَيْلَ وَأَنَا۠ خَيْرُ ٱلْمُنزِلِينَ
 
-**12:60** “Nanging menawi panjenengan boten mbekta piyambakipun dhateng kula, panjenengan boten badhe gadhah takeran saking kula, lan panjenengan boten badhe celak kaliyan kula.”
+**12:60** "Nanging menawi panjenengan boten mbekta piyambakipun dhateng kula, panjenengan boten badhe gadhah takeran saking kula, lan panjenengan boten badhe celak kaliyan kula."
 
 فَإِن لَّمْ تَأْتُونِى بِهِۦ فَلَا كَيْلَ لَكُمْ عِندِى وَلَا تَقْرَبُونِ
 
-**12:61** Piyambakipun sami matur: “Kawula badhe nyuwun piyambakipun saking ramanipun. Kawula saestu badhe nindakaken.”
+**12:61** Piyambakipun sami matur: "Kawula badhe nyuwun piyambakipun saking ramanipun. Kawula saestu badhe nindakaken."
 
 قَالُوا۟ سَنُرَٰوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَٰعِلُونَ
 
-**12:62** Piyambakipun ngendika dhateng abdi-abdinipun: “Papanaken barang-barangipun wonten ing tas sadelipun; mbokmenawa piyambakipun badhe wanuh nalika piyambakipun wangsul dhateng kulawarganipun, lan mbokmenawa piyambakipun badhe wangsul malih.”
+**12:62** Piyambakipun ngendika dhateng abdi-abdinipun: "Papanaken barang-barangipun wonten ing tas sadelipun; mbokmenawa piyambakipun badhe wanuh nalika piyambakipun wangsul dhateng kulawarganipun, lan mbokmenawa piyambakipun badhe wangsul malih."
 
 وَقَالَ لِفِتْيَٰنِهِ ٱجْعَلُوا۟ بِضَٰعَتَهُمْ فِى رِحَالِهِمْ لَعَلَّهُمْ يَعْرِفُونَهَآ إِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمْ لَعَلَّهُمْ يَرْجِعُونَ
 
-**12:63** Nalika piyambakipun wangsul dhateng ramanipun, piyambakipun sami matur: “Dhuh rama, kawula katolak takeran, nanging kintun sedherek kawula sesarengan kaliyan kawula, lan kawula badhe pikantuk takeran. Kawula badhe ngopeni piyambakipun.”
+**12:63** Nalika piyambakipun wangsul dhateng ramanipun, piyambakipun sami matur: "Dhuh rama, kawula katolak takeran, nanging kintun sedherek kawula sesarengan kaliyan kawula, lan kawula badhe pikantuk takeran. Kawula badhe ngopeni piyambakipun."
 
 فَلَمَّا رَجَعُوٓا۟ إِلَىٰٓ أَبِيهِمْ قَالُوا۟ يَٰٓأَبَانَا مُنِعَ مِنَّا ٱلْكَيْلُ فَأَرْسِلْ مَعَنَآ أَخَانَا نَكْتَلْ وَإِنَّا لَهُۥ لَحَٰفِظُونَ
 
-**12:64** Piyambakipun ngendika: “Punapa kula pitados dhateng panjenengan kaliyan piyambakipun, kados kula pitados dhateng panjenengan kaliyan sedherekipun sadurunge? Gusti Allah ingkang Pangayom Sae piyambak, lan Panjenenganipun ingkang Mahaasih piyambak saking ingkang mahaasih.”
+**12:64** Piyambakipun ngendika: "Punapa kula pitados dhateng panjenengan kaliyan piyambakipun, kados kula pitados dhateng panjenengan kaliyan sedherekipun sadurunge? Gusti Allah ingkang Pangayom Sae piyambak, lan Panjenenganipun ingkang Mahaasih piyambak saking ingkang mahaasih."
 
 قَالَ هَلْ ءَامَنُكُمْ عَلَيْهِ إِلَّا كَمَآ أَمِنتُكُمْ عَلَىٰٓ أَخِيهِ مِن قَبْلُ ۖ فَٱللَّهُ خَيْرٌ حَٰفِظًۭا ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
 
-**12:65** Lan nalika piyambakipun mbikak bagasinipun, piyambakipun manggihaken bilih barang-barangipun kawangsulaken dhateng piyambakipun. Piyambakipun sami matur: “Rama, punapa malih ingkang kawula kersakaken? Punika barang-barang kawula, kawangsulaken dhateng kawula. Kawula badhe maringi kulawarga kawula, lan ngreksa sedherek kawula, lan gadhah satunggal momotan unta tambahan. Punika dagang ingkang gampil.”
+**12:65** Lan nalika piyambakipun mbikak bagasinipun, piyambakipun manggihaken bilih barang-barangipun kawangsulaken dhateng piyambakipun. Piyambakipun sami matur: "Rama, punapa malih ingkang kawula kersakaken? Punika barang-barang kawula, kawangsulaken dhateng kawula. Kawula badhe maringi kulawarga kawula, lan ngreksa sedherek kawula, lan gadhah satunggal momotan unta tambahan. Punika dagang ingkang gampil."
 
 وَلَمَّا فَتَحُوا۟ مَتَٰعَهُمْ وَجَدُوا۟ بِضَٰعَتَهُمْ رُدَّتْ إِلَيْهِمْ ۖ قَالُوا۟ يَٰٓأَبَانَا مَا نَبْغِى ۖ هَٰذِهِۦ بِضَٰعَتُنَا رُدَّتْ إِلَيْنَا ۖ وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍۢ ۖ ذَٰلِكَ كَيْلٌۭ يَسِيرٌۭ
 
-**12:66** Piyambakipun ngendika: “Kula boten badhe ngintun piyambakipun sesarengan kaliyan panjenengan, kajaba panjenengan maringi kula janji wonten ing ngarsanipun Gusti Allah bilih panjenengan badhe mbekta piyambakipun wangsul dhateng kula, kajaba panjenengan kajebak.” Lan nalika piyambakipun maringi piyambakipun janjinipun, piyambakipun ngendika: “Gusti Allah dados saksi tumrap punapa ingkang kita ngendikakaken.”
+**12:66** Piyambakipun ngendika: "Kula boten badhe ngintun piyambakipun sesarengan kaliyan panjenengan, kajaba panjenengan maringi kula janji wonten ing ngarsanipun Gusti Allah bilih panjenengan badhe mbekta piyambakipun wangsul dhateng kula, kajaba panjenengan kajebak." Lan nalika piyambakipun maringi piyambakipun janjinipun, piyambakipun ngendika: "Gusti Allah dados saksi tumrap punapa ingkang kita ngendikakaken."
 
 قَالَ لَنْ أُرْسِلَهُۥ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًۭا مِّنَ ٱللَّهِ لَتَأْتُنَّنِى بِهِۦٓ إِلَّآ أَن يُحَاطَ بِكُمْ ۖ فَلَمَّآ ءَاتَوْهُ مَوْثِقَهُمْ قَالَ ٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌۭ
 
-**12:67** Lan piyambakipun ngendika: “Dhuh putra-putra kula, sampun ngantos mlebet kanthi satunggal gapura, nanging mlebeta kanthi gapura-gapura ingkang beda. Kula boten saged mupangati panjenengan punapa-punapa nglawan Gusti Allah. Keputusan namung wonten ing Gusti Allah. Wonten ing Panjenenganipun kula ngendelaken, lan wonten ing Panjenenganipun mangga ingkang ngendelaken ngendelaken.”
+**12:67** Lan piyambakipun ngendika: "Dhuh putra-putra kula, sampun ngantos mlebet kanthi satunggal gapura, nanging mlebeta kanthi gapura-gapura ingkang beda. Kula boten saged mupangati panjenengan punapa-punapa nglawan Gusti Allah. Keputusan namung wonten ing Gusti Allah. Wonten ing Panjenenganipun kula ngendelaken, lan wonten ing Panjenenganipun mangga ingkang ngendelaken ngendelaken."
 
 وَقَالَ يَٰبَنِىَّ لَا تَدْخُلُوا۟ مِنۢ بَابٍۢ وَٰحِدٍۢ وَٱدْخُلُوا۟ مِنْ أَبْوَٰبٍۢ مُّتَفَرِّقَةٍۢ ۖ وَمَآ أُغْنِى عَنكُم مِّنَ ٱللَّهِ مِن شَىْءٍ ۖ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ
 
@@ -6932,31 +6932,31 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَمَّا دَخَلُوا۟ مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ يُغْنِى عَنْهُم مِّنَ ٱللَّهِ مِن شَىْءٍ إِلَّا حَاجَةًۭ فِى نَفْسِ يَعْقُوبَ قَضَىٰهَا ۚ وَإِنَّهُۥ لَذُو عِلْمٍۢ لِّمَا عَلَّمْنَٰهُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
-**12:69** Lan nalika piyambakipun mlebet dhateng ngarsanipun Yusuf, piyambakipun ngrangkul sedherekipun, lan ngendika: “Kula sedherek panjenengan; sampun ngantos sedhih awit punapa ingkang biyen piyambakipun tindakaken.”
+**12:69** Lan nalika piyambakipun mlebet dhateng ngarsanipun Yusuf, piyambakipun ngrangkul sedherekipun, lan ngendika: "Kula sedherek panjenengan; sampun ngantos sedhih awit punapa ingkang biyen piyambakipun tindakaken."
 
 وَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَخَاهُ ۖ قَالَ إِنِّىٓ أَنَا۠ أَخُوكَ فَلَا تَبْتَئِسْ بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**12:70** Lajeng, nalika piyambakipun maringi piyambakipun bekalipun, piyambakipun mapanaken gelas unjukan wonten ing tas sadel sedherekipun. Lajeng satunggaling juru undang ngundang: “Dhuh tiyang-tiyang kafilah, panjenengan maling.”
+**12:70** Lajeng, nalika piyambakipun maringi piyambakipun bekalipun, piyambakipun mapanaken gelas unjukan wonten ing tas sadel sedherekipun. Lajeng satunggaling juru undang ngundang: "Dhuh tiyang-tiyang kafilah, panjenengan maling."
 
 فَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ جَعَلَ ٱلسِّقَايَةَ فِى رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا ٱلْعِيرُ إِنَّكُمْ لَسَٰرِقُونَ
 
-**12:71** Piyambakipun sami matur, nalika piyambakipun dugi dhateng piyambakipun: “Punapa ingkang panjenengan icalaken?”
+**12:71** Piyambakipun sami matur, nalika piyambakipun dugi dhateng piyambakipun: "Punapa ingkang panjenengan icalaken?"
 
 قَالُوا۟ وَأَقْبَلُوا۟ عَلَيْهِم مَّاذَا تَفْقِدُونَ
 
-**12:72** Piyambakipun sami matur: “Kawula ical gelas raja. Sinten kemawon ingkang mbekta badhe gadhah satunggal momotan unta; lan kula piyambak njamin.”
+**12:72** Piyambakipun sami matur: "Kawula ical gelas raja. Sinten kemawon ingkang mbekta badhe gadhah satunggal momotan unta; lan kula piyambak njamin."
 
 قَالُوا۟ نَفْقِدُ صُوَاعَ ٱلْمَلِكِ وَلِمَن جَآءَ بِهِۦ حِمْلُ بَعِيرٍۢ وَأَنَا۠ بِهِۦ زَعِيمٌۭ
 
-**12:73** Piyambakipun sami matur: “Demi Gusti Allah, panjenengan mangertos kawula boten dugi kangge njalari masalah wonten ing nagari, lan kawula sanès maling.”
+**12:73** Piyambakipun sami matur: "Demi Gusti Allah, panjenengan mangertos kawula boten dugi kangge njalari masalah wonten ing nagari, lan kawula sanès maling."
 
 قَالُوا۟ تَٱللَّهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنُفْسِدَ فِى ٱلْأَرْضِ وَمَا كُنَّا سَٰرِقِينَ
 
-**12:74** Piyambakipun sami matur: “Punapa paukumanipun, menawi panjenengan goroh?”
+**12:74** Piyambakipun sami matur: "Punapa paukumanipun, menawi panjenengan goroh?"
 
 قَالُوا۟ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمْ كَٰذِبِينَ
 
-**12:75** Piyambakipun sami matur: “Paukumanipun, menawi kapanggih wonten ing tasipun: piyambakipun badhe dados kagungan panjenengan. Makaten kita ngukum tiyang ingkang salah.”
+**12:75** Piyambakipun sami matur: "Paukumanipun, menawi kapanggih wonten ing tasipun: piyambakipun badhe dados kagungan panjenengan. Makaten kita ngukum tiyang ingkang salah."
 
 قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ ۚ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ
 
@@ -6964,103 +6964,103 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ ۚ كَذَٰلِكَ كِدْنَا لِيُوسُفَ ۖ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ نَرْفَعُ دَرَجَٰتٍۢ مَّن نَّشَآءُ ۗ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌۭ
 
-**12:77** Piyambakipun sami matur: “Menawi piyambakipun sampun nyolong, satunggaling sedherekipun sampun nyolong sadurunge.” Nanging Yusuf nyimpen wonten ing dhiri piyambak, lan boten nglaiiraken dhateng piyambakipun. Piyambakipun ngendika: “Panjenengan wonten ing kawontenan ingkang langkung ala, lan Gusti Allah Mangertos punapa ingkang panjenengan tuduhaken.”
+**12:77** Piyambakipun sami matur: "Menawi piyambakipun sampun nyolong, satunggaling sedherekipun sampun nyolong sadurunge." Nanging Yusuf nyimpen wonten ing dhiri piyambak, lan boten nglaiiraken dhateng piyambakipun. Piyambakipun ngendika: "Panjenengan wonten ing kawontenan ingkang langkung ala, lan Gusti Allah Mangertos punapa ingkang panjenengan tuduhaken."
 
 ۞ قَالُوٓا۟ إِن يَسْرِقْ فَقَدْ سَرَقَ أَخٌۭ لَّهُۥ مِن قَبْلُ ۚ فَأَسَرَّهَا يُوسُفُ فِى نَفْسِهِۦ وَلَمْ يُبْدِهَا لَهُمْ ۚ قَالَ أَنتُمْ شَرٌّۭ مَّكَانًۭا ۖ وَٱللَّهُ أَعْلَمُ بِمَا تَصِفُونَ
 
-**12:78** Piyambakipun sami matur: “Dhuh pangeran ingkang mulya, piyambakipun gadhah rama, priya sepuh sanget, pramila mundhuta satunggaling antawis kawula wonten ing papanipun. Kawula ningali bilih panjenengan tiyang ingkang sae.”
+**12:78** Piyambakipun sami matur: "Dhuh pangeran ingkang mulya, piyambakipun gadhah rama, priya sepuh sanget, pramila mundhuta satunggaling antawis kawula wonten ing papanipun. Kawula ningali bilih panjenengan tiyang ingkang sae."
 
 قَالُوا۟ يَٰٓأَيُّهَا ٱلْعَزِيزُ إِنَّ لَهُۥٓ أَبًۭا شَيْخًۭا كَبِيرًۭا فَخُذْ أَحَدَنَا مَكَانَهُۥٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ
 
-**12:79** Piyambakipun ngendika: “Gusti Allah nglarang bilih kita nyepeng sinten kemawon kajaba piyambakipun ingkang kagunganipun kapanggih wonten ing kagunganipun; amargi lajeng kita badhe dados boten adil.”
+**12:79** Piyambakipun ngendika: "Gusti Allah nglarang bilih kita nyepeng sinten kemawon kajaba piyambakipun ingkang kagunganipun kapanggih wonten ing kagunganipun; amargi lajeng kita badhe dados boten adil."
 
 قَالَ مَعَاذَ ٱللَّهِ أَن نَّأْخُذَ إِلَّا مَن وَجَدْنَا مَتَٰعَنَا عِندَهُۥٓ إِنَّآ إِذًۭا لَّظَٰلِمُونَ
 
-**12:80** Lan nalika piyambakipun putus asa saking piyambakipun, piyambakipun rembagan kanthi sesingidan. Ingkang tuwa piyambak matur: “Punapa panjenengan boten mangertos bilih rama panjenengan nampi janji saking panjenengan wonten ing ngarsanipun Gusti Allah, lan ing jaman rumiyin panjenengan gagal ngengingi Yusuf? Kula boten badhe ninggalaken nagari punika ngantos rama kula maringi idin dhateng kula, utawi Gusti Allah mutusaken tumrap kula; amargi Panjenenganipun ingkang Sae piyambak saking Para Pemutus.”
+**12:80** Lan nalika piyambakipun putus asa saking piyambakipun, piyambakipun rembagan kanthi sesingidan. Ingkang tuwa piyambak matur: "Punapa panjenengan boten mangertos bilih rama panjenengan nampi janji saking panjenengan wonten ing ngarsanipun Gusti Allah, lan ing jaman rumiyin panjenengan gagal ngengingi Yusuf? Kula boten badhe ninggalaken nagari punika ngantos rama kula maringi idin dhateng kula, utawi Gusti Allah mutusaken tumrap kula; amargi Panjenenganipun ingkang Sae piyambak saking Para Pemutus."
 
 فَلَمَّا ٱسْتَيْـَٔسُوا۟ مِنْهُ خَلَصُوا۟ نَجِيًّۭا ۖ قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوٓا۟ أَنَّ أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُم مَّوْثِقًۭا مِّنَ ٱللَّهِ وَمِن قَبْلُ مَا فَرَّطتُمْ فِى يُوسُفَ ۖ فَلَنْ أَبْرَحَ ٱلْأَرْضَ حَتَّىٰ يَأْذَنَ لِىٓ أَبِىٓ أَوْ يَحْكُمَ ٱللَّهُ لِى ۖ وَهُوَ خَيْرُ ٱلْحَٰكِمِينَ
 
-**12:81** “Wangsula dhateng rama panjenengan, lan matur: ‘Rama kawula, putra panjenengan sampun nyolong. Kawula nyekseni namung dhateng punapa ingkang kawula mangertos, lan kawula boten saged ngalang-alangi ingkang boten kasangka.’”
+**12:81** "Wangsula dhateng rama panjenengan, lan matur: 'Rama kawula, putra panjenengan sampun nyolong. Kawula nyekseni namung dhateng punapa ingkang kawula mangertos, lan kawula boten saged ngalang-alangi ingkang boten kasangka.'"
 
 ٱرْجِعُوٓا۟ إِلَىٰٓ أَبِيكُمْ فَقُولُوا۟ يَٰٓأَبَانَآ إِنَّ ٱبْنَكَ سَرَقَ وَمَا شَهِدْنَآ إِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَٰفِظِينَ
 
-**12:82** “Nyuwuna pirsa dhateng kitha wonten ing pundi kawula wonten, lan kafilah wonten ing pundi kawula dugi. Kawula matur leres.”
+**12:82** "Nyuwuna pirsa dhateng kitha wonten ing pundi kawula wonten, lan kafilah wonten ing pundi kawula dugi. Kawula matur leres."
 
 وَسْـَٔلِ ٱلْقَرْيَةَ ٱلَّتِى كُنَّا فِيهَا وَٱلْعِيرَ ٱلَّتِىٓ أَقْبَلْنَا فِيهَا ۖ وَإِنَّا لَصَٰدِقُونَ
 
-**12:83** Piyambakipun ngendika: “Kosokwangsulipun, jiwa panjenengan sampun ngrancang satunggaling prakawis tumrap panjenengan. Kasabaran punika kautaman. Mbokmenawa Gusti Allah badhe mbekta piyambakipun sedaya wangsul dhateng kula. Panjenenganipun ingkang Mangertos, ingkang Wicaksana.”
+**12:83** Piyambakipun ngendika: "Kosokwangsulipun, jiwa panjenengan sampun ngrancang satunggaling prakawis tumrap panjenengan. Kasabaran punika kautaman. Mbokmenawa Gusti Allah badhe mbekta piyambakipun sedaya wangsul dhateng kula. Panjenenganipun ingkang Mangertos, ingkang Wicaksana."
 
 قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًۭا ۖ فَصَبْرٌۭ جَمِيلٌ ۖ عَسَى ٱللَّهُ أَن يَأْتِيَنِى بِهِمْ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
 
-**12:84** Lajeng piyambakipun maling saking piyambakipun, lan ngendika: “Dhuh pait kula tumrap Yusuf.” Lan paningalipun dados pethak amargi sedhih, lan piyambakipun dados depresi.
+**12:84** Lajeng piyambakipun maling saking piyambakipun, lan ngendika: "Dhuh pait kula tumrap Yusuf." Lan paningalipun dados pethak amargi sedhih, lan piyambakipun dados depresi.
 
 وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ فَهُوَ كَظِيمٌۭ
 
-**12:85** Piyambakipun sami matur: “Demi Gusti Allah, panjenengan boten badhe ngendeg eling dhateng Yusuf, ngantos panjenengan sampun ngrusak kasarasan panjenengan, utawi panjenengan sampun tilar donya.”
+**12:85** Piyambakipun sami matur: "Demi Gusti Allah, panjenengan boten badhe ngendeg eling dhateng Yusuf, ngantos panjenengan sampun ngrusak kasarasan panjenengan, utawi panjenengan sampun tilar donya."
 
 قَالُوا۟ تَٱللَّهِ تَفْتَؤُا۟ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ ٱلْهَٰلِكِينَ
 
-**12:86** Piyambakipun ngendika: “Kula namung ngaturaken keluhan sedhih lan susah kula dhateng Gusti Allah, lan kula mangertos saking Gusti Allah punapa ingkang panjenengan boten mangertos.”
+**12:86** Piyambakipun ngendika: "Kula namung ngaturaken keluhan sedhih lan susah kula dhateng Gusti Allah, lan kula mangertos saking Gusti Allah punapa ingkang panjenengan boten mangertos."
 
 قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ
 
-**12:87** “Dhuh putra-putra kula, kesaha lan nyuwuna pirsa bab Yusuf lan sedherekipun, lan sampun ngantos putus asa saking panglipur Gusti Allah. Boten wonten ingkang putus asa saking panglipur Gusti Allah kajaba tiyang-tiyang ingkang kafir.”
+**12:87** "Dhuh putra-putra kula, kesaha lan nyuwuna pirsa bab Yusuf lan sedherekipun, lan sampun ngantos putus asa saking panglipur Gusti Allah. Boten wonten ingkang putus asa saking panglipur Gusti Allah kajaba tiyang-tiyang ingkang kafir."
 
 يَٰبَنِىَّ ٱذْهَبُوا۟ فَتَحَسَّسُوا۟ مِن يُوسُفَ وَأَخِيهِ وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ ۖ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَٰفِرُونَ
 
-**12:88** Lajeng, nalika piyambakipun mlebet dhateng ngarsanipun, piyambakipun sami matur: “Gubernur ingkang kuwaos, kasangsaran sampun nandhang kawula, lan kulawarga kawula. Kawula sampun mbekta barang dagangan sakedhik. Nanging paringana kawula takeran wetah, lan dadosa dermawan dhateng kawula — Gusti Allah maringi ganjaran dhateng tiyang-tiyang ingkang dermawan.”
+**12:88** Lajeng, nalika piyambakipun mlebet dhateng ngarsanipun, piyambakipun sami matur: "Gubernur ingkang kuwaos, kasangsaran sampun nandhang kawula, lan kulawarga kawula. Kawula sampun mbekta barang dagangan sakedhik. Nanging paringana kawula takeran wetah, lan dadosa dermawan dhateng kawula — Gusti Allah maringi ganjaran dhateng tiyang-tiyang ingkang dermawan."
 
 فَلَمَّا دَخَلُوا۟ عَلَيْهِ قَالُوا۟ يَٰٓأَيُّهَا ٱلْعَزِيزُ مَسَّنَا وَأَهْلَنَا ٱلضُّرُّ وَجِئْنَا بِبِضَٰعَةٍۢ مُّزْجَىٰةٍۢ فَأَوْفِ لَنَا ٱلْكَيْلَ وَتَصَدَّقْ عَلَيْنَآ ۖ إِنَّ ٱللَّهَ يَجْزِى ٱلْمُتَصَدِّقِينَ
 
-**12:89** Piyambakipun ngendika: “Punapa panjenengan sadar punapa ingkang panjenengan tindakaken kaliyan Yusuf lan sedherekipun, wonten ing kabodhoan panjenengan?”
+**12:89** Piyambakipun ngendika: "Punapa panjenengan sadar punapa ingkang panjenengan tindakaken kaliyan Yusuf lan sedherekipun, wonten ing kabodhoan panjenengan?"
 
 قَالَ هَلْ عَلِمْتُم مَّا فَعَلْتُم بِيُوسُفَ وَأَخِيهِ إِذْ أَنتُمْ جَٰهِلُونَ
 
-**12:90** Piyambakipun sami matur: “Punapa punika panjenengan, Yusuf?” Piyambakipun ngendika: “Kula Yusuf, lan punika sedherek kula. Gusti Allah sampun paring sih dhateng kita. Piyambakipun ingkang nindakaken bekti lan kasabaran — Gusti Allah boten nate gagal maringi ganjaran dhateng tiyang-tiyang ingkang leres.”
+**12:90** Piyambakipun sami matur: "Punapa punika panjenengan, Yusuf?" Piyambakipun ngendika: "Kula Yusuf, lan punika sedherek kula. Gusti Allah sampun paring sih dhateng kita. Piyambakipun ingkang nindakaken bekti lan kasabaran — Gusti Allah boten nate gagal maringi ganjaran dhateng tiyang-tiyang ingkang leres."
 
 قَالُوٓا۟ أَءِنَّكَ لَأَنتَ يُوسُفُ ۖ قَالَ أَنَا۠ يُوسُفُ وَهَٰذَآ أَخِى ۖ قَدْ مَنَّ ٱللَّهُ عَلَيْنَآ ۖ إِنَّهُۥ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ
 
-**12:91** Piyambakipun sami matur: “Demi Gusti Allah, Gusti Allah sampun milih panjenengan nglangkungi kawula. Kawula saestu salah.”
+**12:91** Piyambakipun sami matur: "Demi Gusti Allah, Gusti Allah sampun milih panjenengan nglangkungi kawula. Kawula saestu salah."
 
 قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَٰطِـِٔينَ
 
-**12:92** Piyambakipun ngendika: “Boten wonten cacad tumrap panjenengan dinten punika. Gusti Allah badhe ngapura panjenengan. Panjenenganipun ingkang Mahaasih piyambak saking ingkang mahaasih.”
+**12:92** Piyambakipun ngendika: "Boten wonten cacad tumrap panjenengan dinten punika. Gusti Allah badhe ngapura panjenengan. Panjenenganipun ingkang Mahaasih piyambak saking ingkang mahaasih."
 
 قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ ۖ يَغْفِرُ ٱللَّهُ لَكُمْ ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
 
-**12:93** “Mundhuta rasukan kula punika, lan papanaken wonten ing inggil rainipun rama kula, lan piyambakipun badhe pulih paningalipun. Lan bekta sedaya kulawarga panjenengan dhateng kula.”
+**12:93** "Mundhuta rasukan kula punika, lan papanaken wonten ing inggil rainipun rama kula, lan piyambakipun badhe pulih paningalipun. Lan bekta sedaya kulawarga panjenengan dhateng kula."
 
 ٱذْهَبُوا۟ بِقَمِيصِى هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِى يَأْتِ بَصِيرًۭا وَأْتُونِى بِأَهْلِكُمْ أَجْمَعِينَ
 
-**12:94** Nalika kafilah medal, ramanipun ngendika: “Kula ngraos wontenipun Yusuf, sanajan panjenengan saged nginten kula pikun.”
+**12:94** Nalika kafilah medal, ramanipun ngendika: "Kula ngraos wontenipun Yusuf, sanajan panjenengan saged nginten kula pikun."
 
 وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّى لَأَجِدُ رِيحَ يُوسُفَ ۖ لَوْلَآ أَن تُفَنِّدُونِ
 
-**12:95** Piyambakipun sami matur: “Demi Gusti Allah, panjenengan taksih wonten ing bingung panjenengan ingkang lawas.”
+**12:95** Piyambakipun sami matur: "Demi Gusti Allah, panjenengan taksih wonten ing bingung panjenengan ingkang lawas."
 
 قَالُوا۟ تَٱللَّهِ إِنَّكَ لَفِى ضَلَٰلِكَ ٱلْقَدِيمِ
 
-**12:96** Lajeng, nalika juru bekta kabar bingah dugi, piyambakipun mapanaken wonten ing inggil rainipun, lan piyambakipun pulih paningalipun. Piyambakipun ngendika: “Punapa kula boten ngendika dhateng panjenengan bilih kula mangertos saking Gusti Allah punapa ingkang panjenengan boten mangertos?”
+**12:96** Lajeng, nalika juru bekta kabar bingah dugi, piyambakipun mapanaken wonten ing inggil rainipun, lan piyambakipun pulih paningalipun. Piyambakipun ngendika: "Punapa kula boten ngendika dhateng panjenengan bilih kula mangertos saking Gusti Allah punapa ingkang panjenengan boten mangertos?"
 
 فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ
 
-**12:97** Piyambakipun sami matur: “Rama, nyuwuna pangapura tumrap dosa-dosa kawula; kawula saestu salah.”
+**12:97** Piyambakipun sami matur: "Rama, nyuwuna pangapura tumrap dosa-dosa kawula; kawula saestu salah."
 
 قَالُوا۟ يَٰٓأَبَانَا ٱسْتَغْفِرْ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا خَٰطِـِٔينَ
 
-**12:98** Piyambakipun ngendika: “Kula badhe nyuwun dhateng Pangeranku kangge ngapura panjenengan. Panjenenganipun ingkang Ngapura, ingkang Mahaasih.”
+**12:98** Piyambakipun ngendika: "Kula badhe nyuwun dhateng Pangeranku kangge ngapura panjenengan. Panjenenganipun ingkang Ngapura, ingkang Mahaasih."
 
 قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّىٓ ۖ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
-**12:99** Lajeng, nalika piyambakipun mlebet dhateng ngarsanipun Yusuf, piyambakipun ngrangkul tiyang sepuhipun, lan ngendika: “Mlebeta Mesir, Gusti Allah ngersakaken, aman lan tentrem.”
+**12:99** Lajeng, nalika piyambakipun mlebet dhateng ngarsanipun Yusuf, piyambakipun ngrangkul tiyang sepuhipun, lan ngendika: "Mlebeta Mesir, Gusti Allah ngersakaken, aman lan tentrem."
 
 فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ
 
-**12:100** Lan piyambakipun nginggilaken tiyang sepuhipun wonten ing dhampar, lan piyambakipun sami sujud wonten ing ngarsanipun. Piyambakipun ngendika: “Rama, punika kawujudan sesawangan kula jaman rumiyin. Pangeranku sampun ndadosaken punika leres. Panjenenganipun sampun paring berkah dhateng kula, nalika Panjenenganipun ngluwari kula saking kunjara, lan mbekta panjenengan medal saking ara-ara, sasampunipun setan nandur padudon antawis kula lan sedherek-sedherek kula. Pangeranku Alus piyambak dhateng sinten kemawon ingkang Panjenenganipun kersakaken. Panjenenganipun ingkang Mangertos Sedaya, ingkang Wicaksana piyambak.”
+**12:100** Lan piyambakipun nginggilaken tiyang sepuhipun wonten ing dhampar, lan piyambakipun sami sujud wonten ing ngarsanipun. Piyambakipun ngendika: "Rama, punika kawujudan sesawangan kula jaman rumiyin. Pangeranku sampun ndadosaken punika leres. Panjenenganipun sampun paring berkah dhateng kula, nalika Panjenenganipun ngluwari kula saking kunjara, lan mbekta panjenengan medal saking ara-ara, sasampunipun setan nandur padudon antawis kula lan sedherek-sedherek kula. Pangeranku Alus piyambak dhateng sinten kemawon ingkang Panjenenganipun kersakaken. Panjenenganipun ingkang Mangertos Sedaya, ingkang Wicaksana piyambak."
 
 وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًۭا ۖ وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّۭا ۖ وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ ۚ إِنَّ رَبِّى لَطِيفٌۭ لِّمَا يَشَآءُ ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
 
-**12:101** “Dhuh Pangeranku, Panjenengan sampun maringi kula sawetawis kuwaos, lan mulang kula sawetawis interpretasi prakawis-prakawis. Pangintitah langit-langit lan bumi; Panjenengan Pangayom kula wonten ing gesang punika lan wonten ing Akhirat. Tampi jiwa kula kanthi masrahaken dhiri, lan kempalna kula kaliyan tiyang-tiyang ingkang leres.”
+**12:101** "Dhuh Pangeranku, Panjenengan sampun maringi kula sawetawis kuwaos, lan mulang kula sawetawis interpretasi prakawis-prakawis. Pangintitah langit-langit lan bumi; Panjenengan Pangayom kula wonten ing gesang punika lan wonten ing Akhirat. Tampi jiwa kula kanthi masrahaken dhiri, lan kempalna kula kaliyan tiyang-tiyang ingkang leres."
 
 ۞ رَبِّ قَدْ ءَاتَيْتَنِى مِنَ ٱلْمُلْكِ وَعَلَّمْتَنِى مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ فَاطِرَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ أَنتَ وَلِىِّۦ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ ۖ تَوَفَّنِى مُسْلِمًۭا وَأَلْحِقْنِى بِٱلصَّٰلِحِينَ
 
@@ -7088,7 +7088,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَفَأَمِنُوٓا۟ أَن تَأْتِيَهُمْ غَٰشِيَةٌۭ مِّنْ عَذَابِ ٱللَّهِ أَوْ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةًۭ وَهُمْ لَا يَشْعُرُونَ
 
-**12:108** Ngendikakna: “Punika margi kula; kula ngundang dhateng Gusti Allah, adhedhasar kawruh ingkang cetha — kula lan sinten kemawon ingkang ndherek kula. Mahasuci Gusti Allah; lan kula sanès tiyang-tiyang ingkang nyekutokaken.”
+**12:108** Ngendikakna: "Punika margi kula; kula ngundang dhateng Gusti Allah, adhedhasar kawruh ingkang cetha — kula lan sinten kemawon ingkang ndherek kula. Mahasuci Gusti Allah; lan kula sanès tiyang-tiyang ingkang nyekutokaken."
 
 قُلْ هَٰذِهِۦ سَبِيلِىٓ أَدْعُوٓا۟ إِلَى ٱللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا۠ وَمَنِ ٱتَّبَعَنِى ۖ وَسُبْحَٰنَ ٱللَّهِ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ
 
@@ -8508,7 +8508,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَكُلَّ إِنسَٰنٍ أَلْزَمْنَٰهُ طَٰٓئِرَهُۥ فِى عُنُقِهِۦ ۖ وَنُخْرِجُ لَهُۥ يَوْمَ ٱلْقِيَٰمَةِ كِتَٰبًۭا يَلْقَىٰهُ مَنشُورًا
 
-**17:14** “Waosen kitab panjenengan; dinten punika boten wonten ingkang nyuwun tanggung jawab panjenengan kajawi panjenengan piyambak.”
+**17:14** "Waosen kitab panjenengan; dinten punika boten wonten ingkang nyuwun tanggung jawab panjenengan kajawi panjenengan piyambak."
 
 ٱقْرَأْ كِتَٰبَكَ كَفَىٰ بِنَفْسِكَ ٱلْيَوْمَ عَلَيْكَ حَسِيبًۭا
 
@@ -8548,7 +8548,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ۞ وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا ۚ إِمَّا يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّۢ وَلَا تَنْهَرْهُمَا وَقُل لَّهُمَا قَوْلًۭا كَرِيمًۭا
 
-**17:24** Lan andhapna dhateng piyambakipun suwiwi asih asah kanthi kawelasan, lan maturma, “Dhuh Pangeranku, mugi Panjenengan paring kawelasan dhateng piyambakipun, kados dene piyambakipun sampun nggulawentah kula nalika kula taksih alit.”
+**17:24** Lan andhapna dhateng piyambakipun suwiwi asih asah kanthi kawelasan, lan maturma, "Dhuh Pangeranku, mugi Panjenengan paring kawelasan dhateng piyambakipun, kados dene piyambakipun sampun nggulawentah kula nalika kula taksih alit."
 
 وَٱخْفِضْ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحْمَةِ وَقُل رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى صَغِيرًۭا
 
@@ -8620,7 +8620,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَقَدْ صَرَّفْنَا فِى هَٰذَا ٱلْقُرْءَانِ لِيَذَّكَّرُوا۟ وَمَا يَزِيدُهُمْ إِلَّا نُفُورًۭا
 
-**17:42** Maturma, “Menawi wonten gusti-gusti sanes sesarengan kaliyan Panjenenganipun, kados ingkang piyambakipun matur, piyambakipun mesthi sampun ngupadi margi dhateng Pangeranipun Arsy.”
+**17:42** Maturma, "Menawi wonten gusti-gusti sanes sesarengan kaliyan Panjenenganipun, kados ingkang piyambakipun matur, piyambakipun mesthi sampun ngupadi margi dhateng Pangeranipun Arsy."
 
 قُل لَّوْ كَانَ مَعَهُۥٓ ءَالِهَةٌۭ كَمَا يَقُولُونَ إِذًۭا لَّٱبْتَغَوْا۟ إِلَىٰ ذِى ٱلْعَرْشِ سَبِيلًۭا
 
@@ -8640,7 +8640,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًۭا ۚ وَإِذَا ذَكَرْتَ رَبَّكَ فِى ٱلْقُرْءَانِ وَحْدَهُۥ وَلَّوْا۟ عَلَىٰٓ أَدْبَٰرِهِمْ نُفُورًۭا
 
-**17:47** Kula mangertos sae menapa ingkang piyambakipun mirengaken, ing nalika piyambakipun mirengaken panjenengan, nalika piyambakipun sami bisik-bisik, ing nalika tiyang-tiyang zalim matur, “Panjenengan namung ndherek tiyang ingkang kena sihir.”
+**17:47** Kula mangertos sae menapa ingkang piyambakipun mirengaken, ing nalika piyambakipun mirengaken panjenengan, nalika piyambakipun sami bisik-bisik, ing nalika tiyang-tiyang zalim matur, "Panjenengan namung ndherek tiyang ingkang kena sihir."
 
 نَّحْنُ أَعْلَمُ بِمَا يَسْتَمِعُونَ بِهِۦٓ إِذْ يَسْتَمِعُونَ إِلَيْكَ وَإِذْ هُمْ نَجْوَىٰٓ إِذْ يَقُولُ ٱلظَّٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلًۭا مَّسْحُورًا
 
@@ -8648,15 +8648,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ٱنظُرْ كَيْفَ ضَرَبُوا۟ لَكَ ٱلْأَمْثَالَ فَضَلُّوا۟ فَلَا يَسْتَطِيعُونَ سَبِيلًۭا
 
-**17:49** Lan piyambakipun matur, “Ing nalika kula sampun dados balung lan pecahan, menapa kula saestu badhe dipun tangekaken dados ciptaan anyar?”
+**17:49** Lan piyambakipun matur, "Ing nalika kula sampun dados balung lan pecahan, menapa kula saestu badhe dipun tangekaken dados ciptaan anyar?"
 
 وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَٰمًۭا وَرُفَٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًۭا جَدِيدًۭا
 
-**17:50** Maturma, “Sanajan panjenengan dados watu utawi wesi.
+**17:50** Maturma, "Sanajan panjenengan dados watu utawi wesi.
 
 ۞ قُلْ كُونُوا۟ حِجَارَةً أَوْ حَدِيدًا
 
-**17:51** Utawi barang sanes, ingkang, ing penggalihipanjenengan, langkung atos malih.” Salajengipun piyambakipun badhe matur, “Sinten ingkang badhe ngawangsulaken kula?” Maturma, “Ingkang sampun nyiptakaken panjenengan ing kaping kapisan.” Salajengipun piyambakipun badhe manthuk-manthukaken sirahipun dhateng panjenengan, lan matur, “Kapan punika?” Maturma, “Mokmenawi badhe enggal kalampahan.”
+**17:51** Utawi barang sanes, ingkang, ing penggalihipanjenengan, langkung atos malih." Salajengipun piyambakipun badhe matur, "Sinten ingkang badhe ngawangsulaken kula?" Maturma, "Ingkang sampun nyiptakaken panjenengan ing kaping kapisan." Salajengipun piyambakipun badhe manthuk-manthukaken sirahipun dhateng panjenengan, lan matur, "Kapan punika?" Maturma, "Mokmenawi badhe enggal kalampahan."
 
 أَوْ خَلْقًۭا مِّمَّا يَكْبُرُ فِى صُدُورِكُمْ ۚ فَسَيَقُولُونَ مَن يُعِيدُنَا ۖ قُلِ ٱلَّذِى فَطَرَكُمْ أَوَّلَ مَرَّةٍۢ ۚ فَسَيُنْغِضُونَ إِلَيْكَ رُءُوسَهُمْ وَيَقُولُونَ مَتَىٰ هُوَ ۖ قُلْ عَسَىٰٓ أَن يَكُونَ قَرِيبًۭا
 
@@ -8676,7 +8676,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَرَبُّكَ أَعْلَمُ بِمَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۗ وَلَقَدْ فَضَّلْنَا بَعْضَ ٱلنَّبِيِّۦنَ عَلَىٰ بَعْضٍۢ ۖ وَءَاتَيْنَا دَاوُۥدَ زَبُورًۭا
 
-**17:56** Maturma, “Timbalana tiyang-tiyang ingkang panjenengan aku sanesipun Panjenenganipun. Piyambakipun boten gadhah kakuwasan ngicali kasangsaran panjenengan, lan piyambakipun boten saged ngowahi punika.”
+**17:56** Maturma, "Timbalana tiyang-tiyang ingkang panjenengan aku sanesipun Panjenenganipun. Piyambakipun boten gadhah kakuwasan ngicali kasangsaran panjenengan, lan piyambakipun boten saged ngowahi punika."
 
 قُلِ ٱدْعُوا۟ ٱلَّذِينَ زَعَمْتُم مِّن دُونِهِۦ فَلَا يَمْلِكُونَ كَشْفَ ٱلضُّرِّ عَنكُمْ وَلَا تَحْوِيلًا
 
@@ -8696,23 +8696,23 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَإِذْ قُلْنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِٱلنَّاسِ ۚ وَمَا جَعَلْنَا ٱلرُّءْيَا ٱلَّتِىٓ أَرَيْنَٰكَ إِلَّا فِتْنَةًۭ لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلْمَلْعُونَةَ فِى ٱلْقُرْءَانِ ۚ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ إِلَّا طُغْيَٰنًۭا كَبِيرًۭا
 
-**17:61** Ing nalika Kula ngendika dhateng para malaikat, “Sujuda dhateng Adam,” piyambakipun sami sujud, kajawi Setan. Piyambakipun matur, “Menapa kula badhe sujud dhateng tiyang ingkang Panjenengan ciptakaken saking lempung?”
+**17:61** Ing nalika Kula ngendika dhateng para malaikat, "Sujuda dhateng Adam," piyambakipun sami sujud, kajawi Setan. Piyambakipun matur, "Menapa kula badhe sujud dhateng tiyang ingkang Panjenengan ciptakaken saking lempung?"
 
 وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ قَالَ ءَأَسْجُدُ لِمَنْ خَلَقْتَ طِينًۭا
 
-**17:62** Piyambakipun matur, “Menapa Panjenengan mirsani tiyang punika ingkang Panjenengan mulyakaken nglangkungi kula? Menawi Panjenengan ngundhuraken kula ngantos Dinten Kebangkitan, kula badhe nguwasani keturunanipun, kajawi sakedhik.”
+**17:62** Piyambakipun matur, "Menapa Panjenengan mirsani tiyang punika ingkang Panjenengan mulyakaken nglangkungi kula? Menawi Panjenengan ngundhuraken kula ngantos Dinten Kebangkitan, kula badhe nguwasani keturunanipun, kajawi sakedhik."
 
 قَالَ أَرَءَيْتَكَ هَٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا
 
-**17:63** Panjenenganipun ngendika, “Lunga! Sinten kemawon saking piyambakipun ingkang ndherek panjenengan — Neraka punika ganjaran panjenengan, ganjaran ingkang kathah.
+**17:63** Panjenenganipun ngendika, "Lunga! Sinten kemawon saking piyambakipun ingkang ndherek panjenengan — Neraka punika ganjaran panjenengan, ganjaran ingkang kathah.
 
 قَالَ ٱذْهَبْ فَمَن تَبِعَكَ مِنْهُمْ فَإِنَّ جَهَنَّمَ جَزَآؤُكُمْ جَزَآءًۭ مَّوْفُورًۭا
 
-**17:64** “Lan godhaa sinten kemawon saking piyambakipun ingkang panjenengan saged kanthi swara panjenengan, lan kerahna nglawan piyambakipun pasukan jaran panjenengan lan pasukan lumampah panjenengan, lan ndhereka sesarengan kaliyan piyambakipun ing bandha lan putra-putra, lan damela janji-janji dhateng piyambakipun.” Nanging Setan boten janji dhateng piyambakipun kajawi apus-apus.
+**17:64** "Lan godhaa sinten kemawon saking piyambakipun ingkang panjenengan saged kanthi swara panjenengan, lan kerahna nglawan piyambakipun pasukan jaran panjenengan lan pasukan lumampah panjenengan, lan ndhereka sesarengan kaliyan piyambakipun ing bandha lan putra-putra, lan damela janji-janji dhateng piyambakipun." Nanging Setan boten janji dhateng piyambakipun kajawi apus-apus.
 
 وَٱسْتَفْزِزْ مَنِ ٱسْتَطَعْتَ مِنْهُم بِصَوْتِكَ وَأَجْلِبْ عَلَيْهِم بِخَيْلِكَ وَرَجِلِكَ وَشَارِكْهُمْ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَٰدِ وَعِدْهُمْ ۚ وَمَا يَعِدُهُمُ ٱلشَّيْطَٰنُ إِلَّا غُرُورًا
 
-**17:65** “Minangka kawula-kawula Kula ingkang tulus, panjenengan boten gadhah kakuwasan atas piyambakipun.” Pangeran panjenengan punika Pelindhung ingkang cekap.
+**17:65** "Minangka kawula-kawula Kula ingkang tulus, panjenengan boten gadhah kakuwasan atas piyambakipun." Pangeran panjenengan punika Pelindhung ingkang cekap.
 
 إِنَّ عِبَادِى لَيْسَ لَكَ عَلَيْهِمْ سُلْطَٰنٌۭ ۚ وَكَفَىٰ بِرَبِّكَ وَكِيلًۭا
 
@@ -8772,11 +8772,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمِنَ ٱلَّيْلِ فَتَهَجَّدْ بِهِۦ نَافِلَةًۭ لَّكَ عَسَىٰٓ أَن يَبْعَثَكَ رَبُّكَ مَقَامًۭا مَّحْمُودًۭا
 
-**17:80** Lan maturma, “Dhuh Pangeranku, mugi Panjenengan nuntun kula mlebet kanthi mlebet ingkang leres, lan nuntun kula medal kanthi medal ingkang leres, lan paringi kula saking Panjenengan kakuwasan ingkang nulungi.”
+**17:80** Lan maturma, "Dhuh Pangeranku, mugi Panjenengan nuntun kula mlebet kanthi mlebet ingkang leres, lan nuntun kula medal kanthi medal ingkang leres, lan paringi kula saking Panjenengan kakuwasan ingkang nulungi."
 
 وَقُل رَّبِّ أَدْخِلْنِى مُدْخَلَ صِدْقٍۢ وَأَخْرِجْنِى مُخْرَجَ صِدْقٍۢ وَٱجْعَل لِّى مِن لَّدُنكَ سُلْطَٰنًۭا نَّصِيرًۭا
 
-**17:81** Lan maturma, “Kaleresan sampun dhateng, lan kabatilan sampun sirna; amargi kabatilan punika mesthi badhe sirna.”
+**17:81** Lan maturma, "Kaleresan sampun dhateng, lan kabatilan sampun sirna; amargi kabatilan punika mesthi badhe sirna."
 
 وَقُلْ جَآءَ ٱلْحَقُّ وَزَهَقَ ٱلْبَٰطِلُ ۚ إِنَّ ٱلْبَٰطِلَ كَانَ زَهُوقًۭا
 
@@ -8788,11 +8788,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَإِذَآ أَنْعَمْنَا عَلَى ٱلْإِنسَٰنِ أَعْرَضَ وَنَـَٔا بِجَانِبِهِۦ ۖ وَإِذَا مَسَّهُ ٱلشَّرُّ كَانَ يَـُٔوسًۭا
 
-**17:84** Maturma, “Saben tiyang nindakaken miturut watakipun piyambak. Pangeran panjenengan mangertos paling sae sinten ingkang langkung leres pitedahipun ing margi.”
+**17:84** Maturma, "Saben tiyang nindakaken miturut watakipun piyambak. Pangeran panjenengan mangertos paling sae sinten ingkang langkung leres pitedahipun ing margi."
 
 قُلْ كُلٌّۭ يَعْمَلُ عَلَىٰ شَاكِلَتِهِۦ فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَىٰ سَبِيلًۭا
 
-**17:85** Lan piyambakipun nyuwun pirsa dhateng panjenengan bab Roh. Maturma, “Roh punika kalebet urusan Pangeranku; lan panjenengan namung dipun paringi kawruh sakedhik.”
+**17:85** Lan piyambakipun nyuwun pirsa dhateng panjenengan bab Roh. Maturma, "Roh punika kalebet urusan Pangeranku; lan panjenengan namung dipun paringi kawruh sakedhik."
 
 وَيَسْـَٔلُونَكَ عَنِ ٱلرُّوحِ ۖ قُلِ ٱلرُّوحُ مِنْ أَمْرِ رَبِّى وَمَآ أُوتِيتُم مِّنَ ٱلْعِلْمِ إِلَّا قَلِيلًۭا
 
@@ -8804,7 +8804,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِلَّا رَحْمَةًۭ مِّن رَّبِّكَ ۚ إِنَّ فَضْلَهُۥ كَانَ عَلَيْكَ كَبِيرًۭا
 
-**17:88** Maturma, “Menawi manungsa lan jin makempal supados ngasilaken ingkang kados Quran punika, piyambakipun boten nate saged ngasilaken ingkang kados punika, sanajan piyambakipun sami tulung-tinulung satunggal lan satunggalipun.”
+**17:88** Maturma, "Menawi manungsa lan jin makempal supados ngasilaken ingkang kados Quran punika, piyambakipun boten nate saged ngasilaken ingkang kados punika, sanajan piyambakipun sami tulung-tinulung satunggal lan satunggalipun."
 
 قُل لَّئِنِ ٱجْتَمَعَتِ ٱلْإِنسُ وَٱلْجِنُّ عَلَىٰٓ أَن يَأْتُوا۟ بِمِثْلِ هَٰذَا ٱلْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِۦ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍۢ ظَهِيرًۭا
 
@@ -8812,7 +8812,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَقَدْ صَرَّفْنَا لِلنَّاسِ فِى هَٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍۢ فَأَبَىٰٓ أَكْثَرُ ٱلنَّاسِ إِلَّا كُفُورًۭا
 
-**17:90** Lan piyambakipun matur, “Kula boten badhe pitados dhateng panjenengan ngantos panjenengan ndadosaken sumber toya medal saking lemah kangge kula.
+**17:90** Lan piyambakipun matur, "Kula boten badhe pitados dhateng panjenengan ngantos panjenengan ndadosaken sumber toya medal saking lemah kangge kula.
 
 وَقَالُوا۟ لَن نُّؤْمِنَ لَكَ حَتَّىٰ تَفْجُرَ لَنَا مِنَ ٱلْأَرْضِ يَنۢبُوعًا
 
@@ -8824,19 +8824,19 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَوْ تُسْقِطَ ٱلسَّمَآءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا أَوْ تَأْتِىَ بِٱللَّهِ وَٱلْمَلَٰٓئِكَةِ قَبِيلًا
 
-**17:93** Utawi panjenengan gadhah griya saking emas. Utawi panjenengan minggah dhateng langit. Sanajan makaten, kula boten badhe pitados dhateng minggahipun panjenengan, ngantos panjenengan nurunaken kangge kula satunggaling kitab ingkang saged kula waos.” Maturma, “Maha Suci Pangeranku. Menapa kula punika kajawi manungsa utusan?”
+**17:93** Utawi panjenengan gadhah griya saking emas. Utawi panjenengan minggah dhateng langit. Sanajan makaten, kula boten badhe pitados dhateng minggahipun panjenengan, ngantos panjenengan nurunaken kangge kula satunggaling kitab ingkang saged kula waos." Maturma, "Maha Suci Pangeranku. Menapa kula punika kajawi manungsa utusan?"
 
 أَوْ يَكُونَ لَكَ بَيْتٌۭ مِّن زُخْرُفٍ أَوْ تَرْقَىٰ فِى ٱلسَّمَآءِ وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَٰبًۭا نَّقْرَؤُهُۥ ۗ قُلْ سُبْحَانَ رَبِّى هَلْ كُنتُ إِلَّا بَشَرًۭا رَّسُولًۭا
 
-**17:94** Boten wonten ingkang nyegah tiyang-tiyang supados pitados, ing nalika pitedah sampun dhateng dhateng piyambakipun, kajawi piyambakipun matur, “Menapa Gusti Allah ngutus manungsa dados utusan?”
+**17:94** Boten wonten ingkang nyegah tiyang-tiyang supados pitados, ing nalika pitedah sampun dhateng dhateng piyambakipun, kajawi piyambakipun matur, "Menapa Gusti Allah ngutus manungsa dados utusan?"
 
 وَمَا مَنَعَ ٱلنَّاسَ أَن يُؤْمِنُوٓا۟ إِذْ جَآءَهُمُ ٱلْهُدَىٰٓ إِلَّآ أَن قَالُوٓا۟ أَبَعَثَ ٱللَّهُ بَشَرًۭا رَّسُولًۭا
 
-**17:95** Maturma, “Menawi wonten malaikat ing bumi, lumampah kanthi tentrem, Kula mesthi sampun nurunaken dhateng piyambakipun saking langit satunggaling malaikat utusan.”
+**17:95** Maturma, "Menawi wonten malaikat ing bumi, lumampah kanthi tentrem, Kula mesthi sampun nurunaken dhateng piyambakipun saking langit satunggaling malaikat utusan."
 
 قُل لَّوْ كَانَ فِى ٱلْأَرْضِ مَلَٰٓئِكَةٌۭ يَمْشُونَ مُطْمَئِنِّينَ لَنَزَّلْنَا عَلَيْهِم مِّنَ ٱلسَّمَآءِ مَلَكًۭا رَّسُولًۭا
 
-**17:96** Maturma, “Gusti Allah cekap dados seksi antawisipun panjenengan lan kula. Panjenenganipun saestu Maha Mangertos kawulanipun, lan Panjenenganipun mirsani piyambakipun kanthi sae.”
+**17:96** Maturma, "Gusti Allah cekap dados seksi antawisipun panjenengan lan kula. Panjenenganipun saestu Maha Mangertos kawulanipun, lan Panjenenganipun mirsani piyambakipun kanthi sae."
 
 قُلْ كَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۚ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِيرًۢا بَصِيرًۭا
 
@@ -8844,7 +8844,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُمْ أَوْلِيَآءَ مِن دُونِهِۦ ۖ وَنَحْشُرُهُمْ يَوْمَ ٱلْقِيَٰمَةِ عَلَىٰ وُجُوهِهِمْ عُمْيًۭا وَبُكْمًۭا وَصُمًّۭا ۖ مَّأْوَىٰهُمْ جَهَنَّمُ ۖ كُلَّمَا خَبَتْ زِدْنَٰهُمْ سَعِيرًۭا
 
-**17:98** Punika ganjaranipun piyambakipun amargi sampun kafir dhateng wahyu-wahyu Kula, lan sampun matur, “Menapa kula, ing nalika kula sampun dados balung lan pecahan, badhe dipun tangekaken dados ciptaan anyar?”
+**17:98** Punika ganjaranipun piyambakipun amargi sampun kafir dhateng wahyu-wahyu Kula, lan sampun matur, "Menapa kula, ing nalika kula sampun dados balung lan pecahan, badhe dipun tangekaken dados ciptaan anyar?"
 
 ذَٰلِكَ جَزَآؤُهُم بِأَنَّهُمْ كَفَرُوا۟ بِـَٔايَٰتِنَا وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَٰمًۭا وَرُفَٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًۭا جَدِيدًا
 
@@ -8852,15 +8852,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ۞ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ قَادِرٌ عَلَىٰٓ أَن يَخْلُقَ مِثْلَهُمْ وَجَعَلَ لَهُمْ أَجَلًۭا لَّا رَيْبَ فِيهِ فَأَبَى ٱلظَّٰلِمُونَ إِلَّا كُفُورًۭا
 
-**17:100** Maturma, “Menawi panjenengan nguwasani gedhong kasugihan kawelasan Pangeranku, panjenengan mesthi sampun nahan punika amargi ajrih blanja.” Manungsa punika tansah kikir.
+**17:100** Maturma, "Menawi panjenengan nguwasani gedhong kasugihan kawelasan Pangeranku, panjenengan mesthi sampun nahan punika amargi ajrih blanja." Manungsa punika tansah kikir.
 
 قُل لَّوْ أَنتُمْ تَمْلِكُونَ خَزَآئِنَ رَحْمَةِ رَبِّىٓ إِذًۭا لَّأَمْسَكْتُمْ خَشْيَةَ ٱلْإِنفَاقِ ۚ وَكَانَ ٱلْإِنسَٰنُ قَتُورًۭا
 
-**17:101** Kula sampun maringi Musa sangang tanda ingkang cetha — takonna Bani Israil. Ing nalika piyambakipun dhateng dhateng piyambakipun, Firaun matur dhateng piyambakipun, “Kula nginten bilih panjenengan, Musa, kena sihir.”
+**17:101** Kula sampun maringi Musa sangang tanda ingkang cetha — takonna Bani Israil. Ing nalika piyambakipun dhateng dhateng piyambakipun, Firaun matur dhateng piyambakipun, "Kula nginten bilih panjenengan, Musa, kena sihir."
 
 وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَٰتٍۭ بَيِّنَٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَٰمُوسَىٰ مَسْحُورًۭا
 
-**17:102** Piyambakipun matur, “Panjenengan mangertos bilih boten wonten ingkang nurunaken punika kajawi Pangeranipun langit lan bumi — dados pambuka paningal; lan kula nginten bilih panjenengan, Firaun, badhe cilaka.”
+**17:102** Piyambakipun matur, "Panjenengan mangertos bilih boten wonten ingkang nurunaken punika kajawi Pangeranipun langit lan bumi — dados pambuka paningal; lan kula nginten bilih panjenengan, Firaun, badhe cilaka."
 
 قَالَ لَقَدْ عَلِمْتَ مَآ أَنزَلَ هَٰٓؤُلَآءِ إِلَّا رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ بَصَآئِرَ وَإِنِّى لَأَظُنُّكَ يَٰفِرْعَوْنُ مَثْبُورًۭا
 
@@ -8868,7 +8868,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَأَرَادَ أَن يَسْتَفِزَّهُم مِّنَ ٱلْأَرْضِ فَأَغْرَقْنَٰهُ وَمَن مَّعَهُۥ جَمِيعًۭا
 
-**17:104** Sasampunipun piyambakipun, Kula ngendika dhateng Bani Israil, “Manggona ing tanah punika, lan ing nalika janji Akhirat dhateng, Kula badhe ngasta panjenengan sedaya makempal.”
+**17:104** Sasampunipun piyambakipun, Kula ngendika dhateng Bani Israil, "Manggona ing tanah punika, lan ing nalika janji Akhirat dhateng, Kula badhe ngasta panjenengan sedaya makempal."
 
 وَقُلْنَا مِنۢ بَعْدِهِۦ لِبَنِىٓ إِسْرَٰٓءِيلَ ٱسْكُنُوا۟ ٱلْأَرْضَ فَإِذَا جَآءَ وَعْدُ ٱلْءَاخِرَةِ جِئْنَا بِكُمْ لَفِيفًۭا
 
@@ -8880,11 +8880,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَقُرْءَانًۭا فَرَقْنَٰهُ لِتَقْرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكْثٍۢ وَنَزَّلْنَٰهُ تَنزِيلًۭا
 
-**17:107** Maturma, “Pitadosa dhateng punika, utawi sampun ngantos pitados.” Tiyang-tiyang ingkang dipun paringi kawruh sadherengipun punika, ing nalika Quran punika kawaosaken dhateng piyambakipun, piyambakipun dhawah dhateng janggutipun, kanthi sujud.
+**17:107** Maturma, "Pitadosa dhateng punika, utawi sampun ngantos pitados." Tiyang-tiyang ingkang dipun paringi kawruh sadherengipun punika, ing nalika Quran punika kawaosaken dhateng piyambakipun, piyambakipun dhawah dhateng janggutipun, kanthi sujud.
 
 قُلْ ءَامِنُوا۟ بِهِۦٓ أَوْ لَا تُؤْمِنُوٓا۟ ۚ إِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مِن قَبْلِهِۦٓ إِذَا يُتْلَىٰ عَلَيْهِمْ يَخِرُّونَ لِلْأَذْقَانِ سُجَّدًۭا
 
-**17:108** Lan piyambakipun matur, “Maha Suci Pangeran kula. Janji Pangeran kula sampun kalampahan.”
+**17:108** Lan piyambakipun matur, "Maha Suci Pangeran kula. Janji Pangeran kula sampun kalampahan."
 
 وَيَقُولُونَ سُبْحَٰنَ رَبِّنَآ إِن كَانَ وَعْدُ رَبِّنَا لَمَفْعُولًۭا
 
@@ -8894,11 +8894,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 
 
-**17:110** Maturma, “Timbalana Panjenenganipun Gusti Allah, utawi timbalana Panjenenganipun Kang Mahaasih. Asma pundi kemawon ingkang panjenengan angge, kangge Panjenenganipun kagungan Asma-asma Ingkang Paling Sae.” Lan sampun ngantos seru ing salat panjenengan, utawi meneng ing salebetipun, nanging turutana margi ing antawisipun kekalihipun.
+**17:110** Maturma, "Timbalana Panjenenganipun Gusti Allah, utawi timbalana Panjenenganipun Kang Mahaasih. Asma pundi kemawon ingkang panjenengan angge, kangge Panjenenganipun kagungan Asma-asma Ingkang Paling Sae." Lan sampun ngantos seru ing salat panjenengan, utawi meneng ing salebetipun, nanging turutana margi ing antawisipun kekalihipun.
 
 قُلِ ٱدْعُوا۟ ٱللَّهَ أَوِ ٱدْعُوا۟ ٱلرَّحْمَٰنَ ۖ أَيًّۭا مَّا تَدْعُوا۟ فَلَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ ۚ وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَٱبْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًۭا
 
-**17:111** Lan maturma, “Sedaya puji kagunganipun Gusti Allah, ingkang boten peputra jaler, lan Panjenenganipun boten gadhah mitra ing kakuwasan, lan Panjenenganipun boten gadhah sekuthu amargi ringkih, lan agungna Panjenenganipun kanthi tansah.”
+**17:111** Lan maturma, "Sedaya puji kagunganipun Gusti Allah, ingkang boten peputra jaler, lan Panjenenganipun boten gadhah mitra ing kakuwasan, lan Panjenenganipun boten gadhah sekuthu amargi ringkih, lan agungna Panjenenganipun kanthi tansah."
 
 وَقُلِ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى لَمْ يَتَّخِذْ وَلَدًۭا وَلَمْ يَكُن لَّهُۥ شَرِيكٌۭ فِى ٱلْمُلْكِ وَلَمْ يَكُن لَّهُۥ وَلِىٌّۭ مِّنَ ٱلذُّلِّ ۖ وَكَبِّرْهُ تَكْبِيرًۢا
 
@@ -8926,7 +8926,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 مَّٰكِثِينَ فِيهِ أَبَدًۭا
 
-**18:4** Lan kangge paring pepenget dhateng tiyang-tiyang ingkang matur, “Gusti Allah sampun peputra jaler.”
+**18:4** Lan kangge paring pepenget dhateng tiyang-tiyang ingkang matur, "Gusti Allah sampun peputra jaler."
 
 وَيُنذِرَ ٱلَّذِينَ قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًۭا
 
@@ -8950,7 +8950,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَمْ حَسِبْتَ أَنَّ أَصْحَٰبَ ٱلْكَهْفِ وَٱلرَّقِيمِ كَانُوا۟ مِنْ ءَايَٰتِنَا عَجَبًا
 
-**18:10** Ing nalika para mudha punika ngayom ing guwa, piyambakipun matur, “Dhuh Pangeran kula, mugi Panjenengan paring kawelasan dhateng kula saking Panjenengan piyambak, lan berkahi urusan kula kanthi pitedah.”
+**18:10** Ing nalika para mudha punika ngayom ing guwa, piyambakipun matur, "Dhuh Pangeran kula, mugi Panjenengan paring kawelasan dhateng kula saking Panjenengan piyambak, lan berkahi urusan kula kanthi pitedah."
 
 إِذْ أَوَى ٱلْفِتْيَةُ إِلَى ٱلْكَهْفِ فَقَالُوا۟ رَبَّنَآ ءَاتِنَا مِن لَّدُنكَ رَحْمَةًۭ وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًۭا
 
@@ -8966,15 +8966,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 نَّحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُم بِٱلْحَقِّ ۚ إِنَّهُمْ فِتْيَةٌ ءَامَنُوا۟ بِرَبِّهِمْ وَزِدْنَٰهُمْ هُدًۭى
 
-**18:14** Lan Kula kiyataken penggalih punika, ing nalika piyambakipun jumeneng lan matur, “Pangeran kula punika Pangeranipun langit lan bumi; kula boten badhe nimbali gusti sanes kajawi Panjenenganipun, amargi salajengipun kula mesthi sampun matur bab ingkang ngluwihi wates.”
+**18:14** Lan Kula kiyataken penggalih punika, ing nalika piyambakipun jumeneng lan matur, "Pangeran kula punika Pangeranipun langit lan bumi; kula boten badhe nimbali gusti sanes kajawi Panjenenganipun, amargi salajengipun kula mesthi sampun matur bab ingkang ngluwihi wates."
 
 وَرَبَطْنَا عَلَىٰ قُلُوبِهِمْ إِذْ قَامُوا۟ فَقَالُوا۟ رَبُّنَا رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَن نَّدْعُوَا۟ مِن دُونِهِۦٓ إِلَٰهًۭا ۖ لَّقَدْ قُلْنَآ إِذًۭا شَطَطًا
 
-**18:15** “Tiyang-tiyang punika, tiyang-tiyang kula, sampun mendhet kangge piyambakipun piyambak gusti-gusti sanesipun Panjenenganipun. Kenging menapa piyambakipun boten ngasta bukti ingkang cetha bab piyambakipun? Sinten, salajengipun, ingkang langkung zalim tinimbang tiyang ingkang ngarang goroh lan ngecapaken punika dhateng Gusti Allah?”
+**18:15** "Tiyang-tiyang punika, tiyang-tiyang kula, sampun mendhet kangge piyambakipun piyambak gusti-gusti sanesipun Panjenenganipun. Kenging menapa piyambakipun boten ngasta bukti ingkang cetha bab piyambakipun? Sinten, salajengipun, ingkang langkung zalim tinimbang tiyang ingkang ngarang goroh lan ngecapaken punika dhateng Gusti Allah?"
 
 هَٰٓؤُلَآءِ قَوْمُنَا ٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةًۭ ۖ لَّوْلَا يَأْتُونَ عَلَيْهِم بِسُلْطَٰنٍۭ بَيِّنٍۢ ۖ فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا
 
-**18:16** “Sapunika panjenengan sampun nilar piyambakipun, lan menapa ingkang piyambakipun sembah sanesipun Gusti Allah, ngayoma ing guwa. Lan Pangeran panjenengan badhe mbebar kawelasanipun kangge panjenengan, lan badhe ndadosaken urusan panjenengan dhateng kamudahan.”
+**18:16** "Sapunika panjenengan sampun nilar piyambakipun, lan menapa ingkang piyambakipun sembah sanesipun Gusti Allah, ngayoma ing guwa. Lan Pangeran panjenengan badhe mbebar kawelasanipun kangge panjenengan, lan badhe ndadosaken urusan panjenengan dhateng kamudahan."
 
 وَإِذِ ٱعْتَزَلْتُمُوهُمْ وَمَا يَعْبُدُونَ إِلَّا ٱللَّهَ فَأْوُۥٓا۟ إِلَى ٱلْكَهْفِ يَنشُرْ لَكُمْ رَبُّكُم مِّن رَّحْمَتِهِۦ وَيُهَيِّئْ لَكُم مِّنْ أَمْرِكُم مِّرْفَقًۭا
 
@@ -8986,27 +8986,27 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَتَحْسَبُهُمْ أَيْقَاظًۭا وَهُمْ رُقُودٌۭ ۚ وَنُقَلِّبُهُمْ ذَاتَ ٱلْيَمِينِ وَذَاتَ ٱلشِّمَالِ ۖ وَكَلْبُهُم بَٰسِطٌۭ ذِرَاعَيْهِ بِٱلْوَصِيدِ ۚ لَوِ ٱطَّلَعْتَ عَلَيْهِمْ لَوَلَّيْتَ مِنْهُمْ فِرَارًۭا وَلَمُلِئْتَ مِنْهُمْ رُعْبًۭا
 
-**18:19** Kados makaten ugi, Kula tangekaken piyambakipun, supados piyambakipun sami takon-tinakon satunggal lan satunggalipun. Satunggaling juru wicara ing antawisipun matur, “Sampun pinten dangu panjenengan manggen?” Piyambakipun matur, “Kula sampun manggen sadinten, utawi saperangan dinten.” Piyambakipun matur, “Pangeran panjenengan mangertos langkung sae pinten dangu panjenengan sampun manggen.” “Utusen salah satunggal saking panjenengan dhateng kitha, kanthi arta panjenengan punika, lan supados piyambakipun ningali tedha pundi ingkang paling prayogi, lan supados piyambakipun ngasta saperangan bekalipun dhateng panjenengan. Lan supados piyambakipun alus, lan sampun ngantos wonten tiyang ingkang mangertos panjenengan.”
+**18:19** Kados makaten ugi, Kula tangekaken piyambakipun, supados piyambakipun sami takon-tinakon satunggal lan satunggalipun. Satunggaling juru wicara ing antawisipun matur, "Sampun pinten dangu panjenengan manggen?" Piyambakipun matur, "Kula sampun manggen sadinten, utawi saperangan dinten." Piyambakipun matur, "Pangeran panjenengan mangertos langkung sae pinten dangu panjenengan sampun manggen." "Utusen salah satunggal saking panjenengan dhateng kitha, kanthi arta panjenengan punika, lan supados piyambakipun ningali tedha pundi ingkang paling prayogi, lan supados piyambakipun ngasta saperangan bekalipun dhateng panjenengan. Lan supados piyambakipun alus, lan sampun ngantos wonten tiyang ingkang mangertos panjenengan."
 
 وَكَذَٰلِكَ بَعَثْنَٰهُمْ لِيَتَسَآءَلُوا۟ بَيْنَهُمْ ۚ قَالَ قَآئِلٌۭ مِّنْهُمْ كَمْ لَبِثْتُمْ ۖ قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍۢ ۚ قَالُوا۟ رَبُّكُمْ أَعْلَمُ بِمَا لَبِثْتُمْ فَٱبْعَثُوٓا۟ أَحَدَكُم بِوَرِقِكُمْ هَٰذِهِۦٓ إِلَى ٱلْمَدِينَةِ فَلْيَنظُرْ أَيُّهَآ أَزْكَىٰ طَعَامًۭا فَلْيَأْتِكُم بِرِزْقٍۢ مِّنْهُ وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا
 
-**18:20** “Menawi piyambakipun manggihi panjenengan, piyambakipun badhe mbenturi panjenengan kanthi watu, utawi meksa panjenengan wangsul dhateng agaminipun; salajengipun panjenengan boten nate badhe slamet.”
+**18:20** "Menawi piyambakipun manggihi panjenengan, piyambakipun badhe mbenturi panjenengan kanthi watu, utawi meksa panjenengan wangsul dhateng agaminipun; salajengipun panjenengan boten nate badhe slamet."
 
 إِنَّهُمْ إِن يَظْهَرُوا۟ عَلَيْكُمْ يَرْجُمُوكُمْ أَوْ يُعِيدُوكُمْ فِى مِلَّتِهِمْ وَلَن تُفْلِحُوٓا۟ إِذًا أَبَدًۭا
 
-**18:21** Kados makaten, Kula ndadosaken piyambakipun kapanggih, supados piyambakipun mangertos bilih janjinipun Gusti Allah punika leres, lan bilih Dinten Kiyamat boten wonten keraguan. Nalika piyambakipun sami rebat bab urusanipun ing antawisipun piyambakipun piyambak, piyambakipun matur, “Yasana ing sadhuwuripun piyambakipun satunggaling yasan.” Pangeranipun mangertos paling sae bab piyambakipun. Tiyang-tiyang ingkang unggul ing urusanipun matur, “Kula badhe ngadegaken ing sadhuwuripun piyambakipun satunggaling papan ibadah.”
+**18:21** Kados makaten, Kula ndadosaken piyambakipun kapanggih, supados piyambakipun mangertos bilih janjinipun Gusti Allah punika leres, lan bilih Dinten Kiyamat boten wonten keraguan. Nalika piyambakipun sami rebat bab urusanipun ing antawisipun piyambakipun piyambak, piyambakipun matur, "Yasana ing sadhuwuripun piyambakipun satunggaling yasan." Pangeranipun mangertos paling sae bab piyambakipun. Tiyang-tiyang ingkang unggul ing urusanipun matur, "Kula badhe ngadegaken ing sadhuwuripun piyambakipun satunggaling papan ibadah."
 
 وَكَذَٰلِكَ أَعْثَرْنَا عَلَيْهِمْ لِيَعْلَمُوٓا۟ أَنَّ وَعْدَ ٱللَّهِ حَقٌّۭ وَأَنَّ ٱلسَّاعَةَ لَا رَيْبَ فِيهَآ إِذْ يَتَنَٰزَعُونَ بَيْنَهُمْ أَمْرَهُمْ ۖ فَقَالُوا۟ ٱبْنُوا۟ عَلَيْهِم بُنْيَٰنًۭا ۖ رَّبُّهُمْ أَعْلَمُ بِهِمْ ۚ قَالَ ٱلَّذِينَ غَلَبُوا۟ عَلَىٰٓ أَمْرِهِمْ لَنَتَّخِذَنَّ عَلَيْهِم مَّسْجِدًۭا
 
-**18:22** Piyambakipun badhe matur, “Tiga, lan kaping sekawanipun segawonipun.” Lan piyambakipun badhe matur, “Gangsal, lan kaping enemipun segawonipun,” kanthi ngira-ngira bab ingkang boten dipun mangertosi. Lan piyambakipun badhe matur, “Pitu, lan kaping wolunipun segawonipun.” Maturma, “Pangeranku mangertos paling sae cacahipun piyambakipun.” Boten wonten ingkang mangertos piyambakipun kajawi sakedhik. Dados sampun ngantos panjenengan rebat bab piyambakipun kajawi kanthi alasan ingkang cetha, lan sampun ngantos panjenengan takon dhateng sinten kemawon saking piyambakipun bab piyambakipun.
+**18:22** Piyambakipun badhe matur, "Tiga, lan kaping sekawanipun segawonipun." Lan piyambakipun badhe matur, "Gangsal, lan kaping enemipun segawonipun," kanthi ngira-ngira bab ingkang boten dipun mangertosi. Lan piyambakipun badhe matur, "Pitu, lan kaping wolunipun segawonipun." Maturma, "Pangeranku mangertos paling sae cacahipun piyambakipun." Boten wonten ingkang mangertos piyambakipun kajawi sakedhik. Dados sampun ngantos panjenengan rebat bab piyambakipun kajawi kanthi alasan ingkang cetha, lan sampun ngantos panjenengan takon dhateng sinten kemawon saking piyambakipun bab piyambakipun.
 
 سَيَقُولُونَ ثَلَٰثَةٌۭ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌۭ سَادِسُهُمْ كَلْبُهُمْ رَجْمًۢا بِٱلْغَيْبِ ۖ وَيَقُولُونَ سَبْعَةٌۭ وَثَامِنُهُمْ كَلْبُهُمْ ۚ قُل رَّبِّىٓ أَعْلَمُ بِعِدَّتِهِم مَّا يَعْلَمُهُمْ إِلَّا قَلِيلٌۭ ۗ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَآءًۭ ظَٰهِرًۭا وَلَا تَسْتَفْتِ فِيهِم مِّنْهُمْ أَحَدًۭا
 
-**18:23** Lan sampun nate matur bab menapa kemawon, “Kula badhe nindakaken punika benjing.”
+**18:23** Lan sampun nate matur bab menapa kemawon, "Kula badhe nindakaken punika benjing."
 
 وَلَا تَقُولَنَّ لِشَا۟ىْءٍ إِنِّى فَاعِلٌۭ ذَٰلِكَ غَدًا
 
-**18:24** Kajawi kanthi matur, “Menawi Gusti Allah ngersakaken.” Lan elinga Pangeran panjenengan menawi panjenengan lali, lan maturma, “Mbokmenawi Pangeranku badhe nuntun kula dhateng ingkang langkung caket tinimbang punika ing kasalehan.”
+**18:24** Kajawi kanthi matur, "Menawi Gusti Allah ngersakaken." Lan elinga Pangeran panjenengan menawi panjenengan lali, lan maturma, "Mbokmenawi Pangeranku badhe nuntun kula dhateng ingkang langkung caket tinimbang punika ing kasalehan."
 
 إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ وَٱذْكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَىٰٓ أَن يَهْدِيَنِ رَبِّى لِأَقْرَبَ مِنْ هَٰذَا رَشَدًۭا
 
@@ -9014,7 +9014,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا
 
-**18:26** Maturma, “Gusti Allah mangertos paling sae pinten dangu piyambakipun sampun manggen.” Kagunganipun Panjenenganipun punika wadi langit lan bumi. Lumantar Panjenenganipun panjenengan mirsani lan mireng. Piyambakipun boten gadhah pelindhung kajawi Panjenenganipun, lan Panjenenganipun boten nyekuthokaken Kakuwasanipun kaliyan sinten kemawon.
+**18:26** Maturma, "Gusti Allah mangertos paling sae pinten dangu piyambakipun sampun manggen." Kagunganipun Panjenenganipun punika wadi langit lan bumi. Lumantar Panjenenganipun panjenengan mirsani lan mireng. Piyambakipun boten gadhah pelindhung kajawi Panjenenganipun, lan Panjenenganipun boten nyekuthokaken Kakuwasanipun kaliyan sinten kemawon.
 
 قُلِ ٱللَّهُ أَعْلَمُ بِمَا لَبِثُوا۟ ۖ لَهُۥ غَيْبُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ أَبْصِرْ بِهِۦ وَأَسْمِعْ ۚ مَا لَهُم مِّن دُونِهِۦ مِن وَلِىٍّۢ وَلَا يُشْرِكُ فِى حُكْمِهِۦٓ أَحَدًۭا
 
@@ -9026,7 +9026,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَٱصْبِرْ نَفْسَكَ مَعَ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُۥ عَن ذِكْرِنَا وَٱتَّبَعَ هَوَىٰهُ وَكَانَ أَمْرُهُۥ فُرُطًۭا
 
-**18:29** Lan maturma, “Kaleresan punika saking Pangeran panjenengan. Sinten kemawon ingkang ngersakaken — supados piyambakipun pitados. Lan sinten kemawon ingkang ngersakaken — supados piyambakipun kafir”. Kula sampun cawisaken kangge tiyang-tiyang zalim satunggaling Geni, ingkang tirai-tiraiinipun badhe ngurung piyambakipun. Lan ing nalika piyambakipun nyuwun pitulungan, piyambakipun badhe dipun tulungi kanthi toya kados kuningan leleh, ingkang ngobong pasuryan. Punika unjukan ingkang paling awon, lan panggenan ingkang paling nggegirisi.
+**18:29** Lan maturma, "Kaleresan punika saking Pangeran panjenengan. Sinten kemawon ingkang ngersakaken — supados piyambakipun pitados. Lan sinten kemawon ingkang ngersakaken — supados piyambakipun kafir". Kula sampun cawisaken kangge tiyang-tiyang zalim satunggaling Geni, ingkang tirai-tiraiinipun badhe ngurung piyambakipun. Lan ing nalika piyambakipun nyuwun pitulungan, piyambakipun badhe dipun tulungi kanthi toya kados kuningan leleh, ingkang ngobong pasuryan. Punika unjukan ingkang paling awon, lan panggenan ingkang paling nggegirisi.
 
 وَقُلِ ٱلْحَقُّ مِن رَّبِّكُمْ ۖ فَمَن شَآءَ فَلْيُؤْمِن وَمَن شَآءَ فَلْيَكْفُرْ ۚ إِنَّآ أَعْتَدْنَا لِلظَّٰلِمِينَ نَارًا أَحَاطَ بِهِمْ سُرَادِقُهَا ۚ وَإِن يَسْتَغِيثُوا۟ يُغَاثُوا۟ بِمَآءٍۢ كَٱلْمُهْلِ يَشْوِى ٱلْوُجُوهَ ۚ بِئْسَ ٱلشَّرَابُ وَسَآءَتْ مُرْتَفَقًا
 
@@ -9046,19 +9046,19 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 كِلْتَا ٱلْجَنَّتَيْنِ ءَاتَتْ أُكُلَهَا وَلَمْ تَظْلِم مِّنْهُ شَيْـًۭٔا ۚ وَفَجَّرْنَا خِلَٰلَهُمَا نَهَرًۭا
 
-**18:34** Lan makaten piyambakipun gadhah woh-wohan ingkang kathah. Piyambakipun matur dhateng kancanipun, nalika sesrawungan kaliyan piyambakipun, “Kula langkung sugih tinimbang panjenengan, lan langkung ageng cacah tiyangipun.”
+**18:34** Lan makaten piyambakipun gadhah woh-wohan ingkang kathah. Piyambakipun matur dhateng kancanipun, nalika sesrawungan kaliyan piyambakipun, "Kula langkung sugih tinimbang panjenengan, lan langkung ageng cacah tiyangipun."
 
 وَكَانَ لَهُۥ ثَمَرٌۭ فَقَالَ لِصَٰحِبِهِۦ وَهُوَ يُحَاوِرُهُۥٓ أَنَا۠ أَكْثَرُ مِنكَ مَالًۭا وَأَعَزُّ نَفَرًۭا
 
-**18:35** Lan piyambakipun mlebet kebonipun, kanthi ngzalimi piyambakipun piyambak. Piyambakipun matur, “Kula boten nginten punika badhe nate sirna.”
+**18:35** Lan piyambakipun mlebet kebonipun, kanthi ngzalimi piyambakipun piyambak. Piyambakipun matur, "Kula boten nginten punika badhe nate sirna."
 
 وَدَخَلَ جَنَّتَهُۥ وَهُوَ ظَالِمٌۭ لِّنَفْسِهِۦ قَالَ مَآ أَظُنُّ أَن تَبِيدَ هَٰذِهِۦٓ أَبَدًۭا
 
-**18:36** “Lan kula boten nginten Dinten Kiyamat badhe dhateng. Lan sanajan kula dipun wangsulaken dhateng Pangeranku, kula badhe manggihi ingkang langkung sae tinimbang punika dados wangsulan.”
+**18:36** "Lan kula boten nginten Dinten Kiyamat badhe dhateng. Lan sanajan kula dipun wangsulaken dhateng Pangeranku, kula badhe manggihi ingkang langkung sae tinimbang punika dados wangsulan."
 
 وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةًۭ وَلَئِن رُّدِدتُّ إِلَىٰ رَبِّى لَأَجِدَنَّ خَيْرًۭا مِّنْهَا مُنقَلَبًۭا
 
-**18:37** Kancanipun matur dhateng piyambakipun, nalika sesrawungan kaliyan piyambakipun, “Menapa panjenengan boten matur nuwun dhateng Panjenenganipun ingkang sampun nyiptakaken panjenengan saking lemah, salajengipun saking tetes mani, salajengipun ngrembakakaken panjenengan dados satunggaling tiyang jaler?
+**18:37** Kancanipun matur dhateng piyambakipun, nalika sesrawungan kaliyan piyambakipun, "Menapa panjenengan boten matur nuwun dhateng Panjenenganipun ingkang sampun nyiptakaken panjenengan saking lemah, salajengipun saking tetes mani, salajengipun ngrembakakaken panjenengan dados satunggaling tiyang jaler?
 
 قَالَ لَهُۥ صَاحِبُهُۥ وَهُوَ يُحَاوِرُهُۥٓ أَكَفَرْتَ بِٱلَّذِى خَلَقَكَ مِن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ سَوَّىٰكَ رَجُلًۭا
 
@@ -9066,7 +9066,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 لَّٰكِنَّا۠ هُوَ ٱللَّهُ رَبِّى وَلَآ أُشْرِكُ بِرَبِّىٓ أَحَدًۭا
 
-**18:39** Ing nalika panjenengan mlebet kebon panjenengan, kenging menapa panjenengan boten matur, “Kados ingkang Gusti Allah kersakaken; boten wonten kekiyatan kajawi lumantar Gusti Allah”? Sanajan panjenengan mirsani kula langkung asor tinimbang panjenengan ing bandha lan putra.
+**18:39** Ing nalika panjenengan mlebet kebon panjenengan, kenging menapa panjenengan boten matur, "Kados ingkang Gusti Allah kersakaken; boten wonten kekiyatan kajawi lumantar Gusti Allah"? Sanajan panjenengan mirsani kula langkung asor tinimbang panjenengan ing bandha lan putra.
 
 وَلَوْلَآ إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَآءَ ٱللَّهُ لَا قُوَّةَ إِلَّا بِٱللَّهِ ۚ إِن تَرَنِ أَنَا۠ أَقَلَّ مِنكَ مَالًۭا وَوَلَدًۭا
 
@@ -9074,11 +9074,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَعَسَىٰ رَبِّىٓ أَن يُؤْتِيَنِ خَيْرًۭا مِّن جَنَّتِكَ وَيُرْسِلَ عَلَيْهَا حُسْبَانًۭا مِّنَ ٱلسَّمَآءِ فَتُصْبِحَ صَعِيدًۭا زَلَقًا
 
-**18:41** Utawi toyanipun badhe ambles dhateng lemah, lan panjenengan boten badhe saged mendhetipun.”
+**18:41** Utawi toyanipun badhe ambles dhateng lemah, lan panjenengan boten badhe saged mendhetipun."
 
 أَوْ يُصْبِحَ مَآؤُهَا غَوْرًۭا فَلَن تَسْتَطِيعَ لَهُۥ طَلَبًۭا
 
-**18:42** Lan karusakan ngurung tanduranipun, lan makaten piyambakipun wiwit ngremet astaipun atas menapa ingkang sampun dipun invesaken ing salebetipun, nalika kebon punika dhawah ing anjang-anjangipun. Lan piyambakipun matur, “Mugi kula boten nate nyekuthokaken sinten kemawon kaliyan Pangeranku.”
+**18:42** Lan karusakan ngurung tanduranipun, lan makaten piyambakipun wiwit ngremet astaipun atas menapa ingkang sampun dipun invesaken ing salebetipun, nalika kebon punika dhawah ing anjang-anjangipun. Lan piyambakipun matur, "Mugi kula boten nate nyekuthokaken sinten kemawon kaliyan Pangeranku."
 
 وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَآ أَنفَقَ فِيهَا وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَيَقُولُ يَٰلَيْتَنِى لَمْ أُشْرِكْ بِرَبِّىٓ أَحَدًۭا
 
@@ -9102,15 +9102,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَيَوْمَ نُسَيِّرُ ٱلْجِبَالَ وَتَرَى ٱلْأَرْضَ بَارِزَةًۭ وَحَشَرْنَٰهُمْ فَلَمْ نُغَادِرْ مِنْهُمْ أَحَدًۭا
 
-**18:48** Piyambakipun badhe dipun aturaken ing ngajengipun Pangeran panjenengan kanthi larik. “Panjenengan sampun dhateng dhateng Kula kados dene Kula nyiptakaken panjenengan ing kaping kapisan. Sanajan panjenengan nganggep Kula boten badhe netepaken pepanggihan kangge panjenengan.”
+**18:48** Piyambakipun badhe dipun aturaken ing ngajengipun Pangeran panjenengan kanthi larik. "Panjenengan sampun dhateng dhateng Kula kados dene Kula nyiptakaken panjenengan ing kaping kapisan. Sanajan panjenengan nganggep Kula boten badhe netepaken pepanggihan kangge panjenengan."
 
 وَعُرِضُوا۟ عَلَىٰ رَبِّكَ صَفًّۭا لَّقَدْ جِئْتُمُونَا كَمَا خَلَقْنَٰكُمْ أَوَّلَ مَرَّةٍۭ ۚ بَلْ زَعَمْتُمْ أَلَّن نَّجْعَلَ لَكُم مَّوْعِدًۭا
 
-**18:49** Lan kitab punika badhe dipun paringaken, lan panjenengan badhe mirsani tiyang-tiyang dosa ajrih dhateng isinipun. Lan piyambakipun badhe matur, “Cilaka kula! Menapa kitab punika ingkang boten nilar menapa kemawon, alit utawi ageng, nanging sampun ngetang sedaya?” Piyambakipun badhe manggihi sedaya ingkang sampun piyambakipun tindakaken wonten. Pangeran panjenengan boten ngzalimi sinten kemawon.
+**18:49** Lan kitab punika badhe dipun paringaken, lan panjenengan badhe mirsani tiyang-tiyang dosa ajrih dhateng isinipun. Lan piyambakipun badhe matur, "Cilaka kula! Menapa kitab punika ingkang boten nilar menapa kemawon, alit utawi ageng, nanging sampun ngetang sedaya?" Piyambakipun badhe manggihi sedaya ingkang sampun piyambakipun tindakaken wonten. Pangeran panjenengan boten ngzalimi sinten kemawon.
 
 وَوُضِعَ ٱلْكِتَٰبُ فَتَرَى ٱلْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ وَيَقُولُونَ يَٰوَيْلَتَنَا مَالِ هَٰذَا ٱلْكِتَٰبِ لَا يُغَادِرُ صَغِيرَةًۭ وَلَا كَبِيرَةً إِلَّآ أَحْصَىٰهَا ۚ وَوَجَدُوا۟ مَا عَمِلُوا۟ حَاضِرًۭا ۗ وَلَا يَظْلِمُ رَبُّكَ أَحَدًۭا
 
-**18:50** Kula ngendika dhateng para malaikat, “Sujuda dhateng Adam.” Dados piyambakipun sami sujud, kajawi Setan. Piyambakipun punika saking jin, lan piyambakipun mbangkang printah Pangeranipun. Menapa panjenengan badhe mendhet piyambakipun lan keturunanipun dados pangeran-pangeran sanesipun Kula, nalika piyambakipun punika mengsah kangge panjenengan? Awon sanget ijolipun kangge tiyang-tiyang zalim.
+**18:50** Kula ngendika dhateng para malaikat, "Sujuda dhateng Adam." Dados piyambakipun sami sujud, kajawi Setan. Piyambakipun punika saking jin, lan piyambakipun mbangkang printah Pangeranipun. Menapa panjenengan badhe mendhet piyambakipun lan keturunanipun dados pangeran-pangeran sanesipun Kula, nalika piyambakipun punika mengsah kangge panjenengan? Awon sanget ijolipun kangge tiyang-tiyang zalim.
 
 وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ كَانَ مِنَ ٱلْجِنِّ فَفَسَقَ عَنْ أَمْرِ رَبِّهِۦٓ ۗ أَفَتَتَّخِذُونَهُۥ وَذُرِّيَّتَهُۥٓ أَوْلِيَآءَ مِن دُونِى وَهُمْ لَكُمْ عَدُوٌّۢ ۚ بِئْسَ لِلظَّٰلِمِينَ بَدَلًۭا
 
@@ -9118,7 +9118,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ۞ مَّآ أَشْهَدتُّهُمْ خَلْقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَا خَلْقَ أَنفُسِهِمْ وَمَا كُنتُ مُتَّخِذَ ٱلْمُضِلِّينَ عَضُدًۭا
 
-**18:52** Ing Dinten ing nalika Panjenenganipun badhe ngendika, “Timbalana mitra-mitra Kula ingkang sampun panjenengan aku.” Piyambakipun badhe nimbali piyambakipun, nanging piyambakipun boten badhe mangsuli piyambakipun. Lan Kula badhe paring ing antawisipun aling-aling.
+**18:52** Ing Dinten ing nalika Panjenenganipun badhe ngendika, "Timbalana mitra-mitra Kula ingkang sampun panjenengan aku." Piyambakipun badhe nimbali piyambakipun, nanging piyambakipun boten badhe mangsuli piyambakipun. Lan Kula badhe paring ing antawisipun aling-aling.
 
 وَيَوْمَ يَقُولُ نَادُوا۟ شُرَكَآءِىَ ٱلَّذِينَ زَعَمْتُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا۟ لَهُمْ وَجَعَلْنَا بَيْنَهُم مَّوْبِقًۭا
 
@@ -9150,7 +9150,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَتِلْكَ ٱلْقُرَىٰٓ أَهْلَكْنَٰهُمْ لَمَّا ظَلَمُوا۟ وَجَعَلْنَا لِمَهْلِكِهِم مَّوْعِدًۭا
 
-**18:60** Kelingana ing nalika Musa matur dhateng pelayanipun, “Kula boten badhe nyerah ngantos kula dumugi patemonipun kalih lepen, sanajan punika mbetahaken taun-taun kangge kula.”
+**18:60** Kelingana ing nalika Musa matur dhateng pelayanipun, "Kula boten badhe nyerah ngantos kula dumugi patemonipun kalih lepen, sanajan punika mbetahaken taun-taun kangge kula."
 
 وَإِذْ قَالَ مُوسَىٰ لِفَتَىٰهُ لَآ أَبْرَحُ حَتَّىٰٓ أَبْلُغَ مَجْمَعَ ٱلْبَحْرَيْنِ أَوْ أَمْضِىَ حُقُبًۭا
 
@@ -9158,15 +9158,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَلَمَّا بَلَغَا مَجْمَعَ بَيْنِهِمَا نَسِيَا حُوتَهُمَا فَٱتَّخَذَ سَبِيلَهُۥ فِى ٱلْبَحْرِ سَرَبًۭا
 
-**18:62** Ing nalika kekalihipun lajeng langkung tebih, piyambakipun matur dhateng pelayanipun, “Astakna nedha siyang kula; kula sampun kathah sayah ing lelampahan kula.”
+**18:62** Ing nalika kekalihipun lajeng langkung tebih, piyambakipun matur dhateng pelayanipun, "Astakna nedha siyang kula; kula sampun kathah sayah ing lelampahan kula."
 
 فَلَمَّا جَاوَزَا قَالَ لِفَتَىٰهُ ءَاتِنَا غَدَآءَنَا لَقَدْ لَقِينَا مِن سَفَرِنَا هَٰذَا نَصَبًۭا
 
-**18:63** Piyambakipun matur, “Menapa panjenengan kemutan ing nalika kula leren ing watu punika? Kula lali bab ulam punika. Namung setan ingkang ndadosaken kula lali punika. Lan makaten ulam punika manggihi marginipun dhateng lepen, kanthi nggumunaken.”
+**18:63** Piyambakipun matur, "Menapa panjenengan kemutan ing nalika kula leren ing watu punika? Kula lali bab ulam punika. Namung setan ingkang ndadosaken kula lali punika. Lan makaten ulam punika manggihi marginipun dhateng lepen, kanthi nggumunaken."
 
 قَالَ أَرَءَيْتَ إِذْ أَوَيْنَآ إِلَى ٱلصَّخْرَةِ فَإِنِّى نَسِيتُ ٱلْحُوتَ وَمَآ أَنسَىٰنِيهُ إِلَّا ٱلشَّيْطَٰنُ أَنْ أَذْكُرَهُۥ ۚ وَٱتَّخَذَ سَبِيلَهُۥ فِى ٱلْبَحْرِ عَجَبًۭا
 
-**18:64** Piyambakipun matur, “Punika ingkang kula upadi.” Lan makaten kekalihipun wangsul malih nglacak langkahipun.
+**18:64** Piyambakipun matur, "Punika ingkang kula upadi." Lan makaten kekalihipun wangsul malih nglacak langkahipun.
 
 قَالَ ذَٰلِكَ مَا كُنَّا نَبْغِ ۚ فَٱرْتَدَّا عَلَىٰٓ ءَاثَارِهِمَا قَصَصًۭا
 
@@ -9174,55 +9174,55 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَٰهُ مِن لَّدُنَّا عِلْمًۭا
 
-**18:66** Musa matur dhateng piyambakipun, “Keparenga kula ndherek panjenengan, supados panjenengan mucalaken dhateng kula saperangan pitedah ingkang sampun dipun mucalaken dhateng panjenengan?”
+**18:66** Musa matur dhateng piyambakipun, "Keparenga kula ndherek panjenengan, supados panjenengan mucalaken dhateng kula saperangan pitedah ingkang sampun dipun mucalaken dhateng panjenengan?"
 
 قَالَ لَهُۥ مُوسَىٰ هَلْ أَتَّبِعُكَ عَلَىٰٓ أَن تُعَلِّمَنِ مِمَّا عُلِّمْتَ رُشْدًۭا
 
-**18:67** Piyambakipun matur, “Panjenengan boten badhe saged sabar sesarengan kaliyan kula.
+**18:67** Piyambakipun matur, "Panjenengan boten badhe saged sabar sesarengan kaliyan kula.
 
 قَالَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًۭا
 
-**18:68** Lan kados pundi panjenengan badhe sabar dhateng menapa ingkang panjenengan boten gadhah kawruh bab punika?”
+**18:68** Lan kados pundi panjenengan badhe sabar dhateng menapa ingkang panjenengan boten gadhah kawruh bab punika?"
 
 وَكَيْفَ تَصْبِرُ عَلَىٰ مَا لَمْ تُحِطْ بِهِۦ خُبْرًۭا
 
-**18:69** Piyambakipun matur, “Panjenengan badhe manggihi kula, menawi Gusti Allah ngersakaken, sabar; lan kula boten badhe mbangkang dhateng panjenengan ing printah panjenengan menapa kemawon.”
+**18:69** Piyambakipun matur, "Panjenengan badhe manggihi kula, menawi Gusti Allah ngersakaken, sabar; lan kula boten badhe mbangkang dhateng panjenengan ing printah panjenengan menapa kemawon."
 
 قَالَ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ صَابِرًۭا وَلَآ أَعْصِى لَكَ أَمْرًۭا
 
-**18:70** Piyambakipun matur, “Menawi panjenengan ndherek kula, sampun ngantos panjenengan takon dhateng kula bab menapa kemawon, ngantos kula piyambak nyebataken punika dhateng panjenengan.”
+**18:70** Piyambakipun matur, "Menawi panjenengan ndherek kula, sampun ngantos panjenengan takon dhateng kula bab menapa kemawon, ngantos kula piyambak nyebataken punika dhateng panjenengan."
 
 قَالَ فَإِنِ ٱتَّبَعْتَنِى فَلَا تَسْـَٔلْنِى عَن شَىْءٍ حَتَّىٰٓ أُحْدِثَ لَكَ مِنْهُ ذِكْرًۭا
 
-**18:71** Dados kekalihipun bidhal. Ngantos, ing nalika kekalihipun sampun minggah prau, piyambakipun mbolongi prau punika. Piyambakipun matur, “Menapa panjenengan mbolongi punika, kangge nglelepaken penumpangipun? Panjenengan sampun nindakaken bab ingkang nggegirisi.”
+**18:71** Dados kekalihipun bidhal. Ngantos, ing nalika kekalihipun sampun minggah prau, piyambakipun mbolongi prau punika. Piyambakipun matur, "Menapa panjenengan mbolongi punika, kangge nglelepaken penumpangipun? Panjenengan sampun nindakaken bab ingkang nggegirisi."
 
 فَٱنطَلَقَا حَتَّىٰٓ إِذَا رَكِبَا فِى ٱلسَّفِينَةِ خَرَقَهَا ۖ قَالَ أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْـًٔا إِمْرًۭا
 
-**18:72** Piyambakipun matur, “Menapa kula boten sampun matur dhateng panjenengan bilih panjenengan boten badhe saged sabar sesarengan kaliyan kula?”
+**18:72** Piyambakipun matur, "Menapa kula boten sampun matur dhateng panjenengan bilih panjenengan boten badhe saged sabar sesarengan kaliyan kula?"
 
 قَالَ أَلَمْ أَقُلْ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًۭا
 
-**18:73** Piyambakipun matur, “Ampun ngantos panjenengan nyeruh kula amargi lali, lan sampun ngantos panjenengan ndadosaken margi kula awrat kangge kula.”
+**18:73** Piyambakipun matur, "Ampun ngantos panjenengan nyeruh kula amargi lali, lan sampun ngantos panjenengan ndadosaken margi kula awrat kangge kula."
 
 قَالَ لَا تُؤَاخِذْنِى بِمَا نَسِيتُ وَلَا تُرْهِقْنِى مِنْ أَمْرِى عُسْرًۭا
 
-**18:74** Salajengipun kekalihipun bidhal. Ngantos, ing nalika kekalihipun mrangguli satunggaling lare jaler, piyambakipun mejahi lare punika. Piyambakipun matur, “Menapa panjenengan mejahi jiwa ingkang suci, ingkang boten mejahi sinten kemawon? Panjenengan sampun nindakaken bab ingkang nggegirisi.”
+**18:74** Salajengipun kekalihipun bidhal. Ngantos, ing nalika kekalihipun mrangguli satunggaling lare jaler, piyambakipun mejahi lare punika. Piyambakipun matur, "Menapa panjenengan mejahi jiwa ingkang suci, ingkang boten mejahi sinten kemawon? Panjenengan sampun nindakaken bab ingkang nggegirisi."
 
 فَٱنطَلَقَا حَتَّىٰٓ إِذَا لَقِيَا غُلَٰمًۭا فَقَتَلَهُۥ قَالَ أَقَتَلْتَ نَفْسًۭا زَكِيَّةًۢ بِغَيْرِ نَفْسٍۢ لَّقَدْ جِئْتَ شَيْـًۭٔا نُّكْرًۭا
 
-**18:75** Piyambakipun matur, “Menapa kula boten sampun matur dhateng panjenengan bilih panjenengan boten badhe saged sabar sesarengan kaliyan kula?”
+**18:75** Piyambakipun matur, "Menapa kula boten sampun matur dhateng panjenengan bilih panjenengan boten badhe saged sabar sesarengan kaliyan kula?"
 
 ۞ قَالَ أَلَمْ أَقُل لَّكَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًۭا
 
-**18:76** Piyambakipun matur, “Menawi kula takon dhateng panjenengan bab menapa kemawon sasampunipun punika, salajengipun sampun ngantos panjenengan sesarengan malih kaliyan kula. Panjenengan sampun pikantuk alasan saking kula.”
+**18:76** Piyambakipun matur, "Menawi kula takon dhateng panjenengan bab menapa kemawon sasampunipun punika, salajengipun sampun ngantos panjenengan sesarengan malih kaliyan kula. Panjenengan sampun pikantuk alasan saking kula."
 
 قَالَ إِن سَأَلْتُكَ عَن شَىْءٍۭ بَعْدَهَا فَلَا تُصَٰحِبْنِى ۖ قَدْ بَلَغْتَ مِن لَّدُنِّى عُذْرًۭا
 
-**18:77** Dados kekalihipun bidhal. Ngantos, ing nalika kekalihipun dumugi tiyang-tiyang satunggaling kitha, kekalihipun nyuwun tedha dhateng tiyang-tiyang punika, nanging tiyang-tiyang punika nolak paring keramahan dhateng kekalihipun. Ing ngriku kekalihipun manggihi tembok ingkang badhe rubuh, lan piyambakipun ndandosi tembok punika. Piyambakipun matur, “Menawi panjenengan ngersakaken, panjenengan saged pikantuk bayaran kangge punika.”
+**18:77** Dados kekalihipun bidhal. Ngantos, ing nalika kekalihipun dumugi tiyang-tiyang satunggaling kitha, kekalihipun nyuwun tedha dhateng tiyang-tiyang punika, nanging tiyang-tiyang punika nolak paring keramahan dhateng kekalihipun. Ing ngriku kekalihipun manggihi tembok ingkang badhe rubuh, lan piyambakipun ndandosi tembok punika. Piyambakipun matur, "Menawi panjenengan ngersakaken, panjenengan saged pikantuk bayaran kangge punika."
 
 فَٱنطَلَقَا حَتَّىٰٓ إِذَآ أَتَيَآ أَهْلَ قَرْيَةٍ ٱسْتَطْعَمَآ أَهْلَهَا فَأَبَوْا۟ أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًۭا يُرِيدُ أَن يَنقَضَّ فَأَقَامَهُۥ ۖ قَالَ لَوْ شِئْتَ لَتَّخَذْتَ عَلَيْهِ أَجْرًۭا
 
-**18:78** Piyambakipun matur, “Punika pisahan antawisipun panjenengan lan kula. Kula badhe paring pirsa dhateng panjenengan tapsiripun menapa ingkang panjenengan boten saged sabar.
+**18:78** Piyambakipun matur, "Punika pisahan antawisipun panjenengan lan kula. Kula badhe paring pirsa dhateng panjenengan tapsiripun menapa ingkang panjenengan boten saged sabar.
 
 قَالَ هَٰذَا فِرَاقُ بَيْنِى وَبَيْنِكَ ۚ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِع عَّلَيْهِ صَبْرًا
 
@@ -9238,11 +9238,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَأَرَدْنَآ أَن يُبْدِلَهُمَا رَبُّهُمَا خَيْرًۭا مِّنْهُ زَكَوٰةًۭ وَأَقْرَبَ رُحْمًۭا
 
-**18:82** Lan minangka tembok punika, punika kagunganipun kalih lare yatim jaler ing kitha punika. Ing sangandhapipun wonten bandha ingkang kagunganipun piyambakipun. Ramanipun punika tiyang saleh. Pangeran panjenengan ngersakaken piyambakipun dumugi diwasa, lan salajengipun mendhet bandhanipun — dados kawelasan saking Pangeran panjenengan. Kula boten nindakaken punika saking pepinginan kula piyambak. Punika tapsiripun menapa ingkang panjenengan boten saged sabar.”
+**18:82** Lan minangka tembok punika, punika kagunganipun kalih lare yatim jaler ing kitha punika. Ing sangandhapipun wonten bandha ingkang kagunganipun piyambakipun. Ramanipun punika tiyang saleh. Pangeran panjenengan ngersakaken piyambakipun dumugi diwasa, lan salajengipun mendhet bandhanipun — dados kawelasan saking Pangeran panjenengan. Kula boten nindakaken punika saking pepinginan kula piyambak. Punika tapsiripun menapa ingkang panjenengan boten saged sabar."
 
 وَأَمَّا ٱلْجِدَارُ فَكَانَ لِغُلَٰمَيْنِ يَتِيمَيْنِ فِى ٱلْمَدِينَةِ وَكَانَ تَحْتَهُۥ كَنزٌۭ لَّهُمَا وَكَانَ أَبُوهُمَا صَٰلِحًۭا فَأَرَادَ رَبُّكَ أَن يَبْلُغَآ أَشُدَّهُمَا وَيَسْتَخْرِجَا كَنزَهُمَا رَحْمَةًۭ مِّن رَّبِّكَ ۚ وَمَا فَعَلْتُهُۥ عَنْ أَمْرِى ۚ ذَٰلِكَ تَأْوِيلُ مَا لَمْ تَسْطِع عَّلَيْهِ صَبْرًۭا
 
-**18:83** Lan piyambakipun nyuwun pirsa dhateng panjenengan bab Dhul-Qarnayn. Maturma, “Kula badhe nyariyosaken dhateng panjenengan saperangan bab piyambakipun.”
+**18:83** Lan piyambakipun nyuwun pirsa dhateng panjenengan bab Dhul-Qarnayn. Maturma, "Kula badhe nyariyosaken dhateng panjenengan saperangan bab piyambakipun."
 
 وَيَسْـَٔلُونَكَ عَن ذِى ٱلْقَرْنَيْنِ ۖ قُلْ سَأَتْلُوا۟ عَلَيْكُم مِّنْهُ ذِكْرًا
 
@@ -9254,15 +9254,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَأَتْبَعَ سَبَبًا
 
-**18:86** Ngantos, ing nalika piyambakipun dumugi dunung surupipun srengenge, piyambakipun manggihi srengenge surup ing satunggaling sumber ingkang buthek, lan manggihi satunggaling golongan ing caketipun. Kula ngendika, “Dhuh Dhul-Qarnayn, panjenengan saged paring ukuman, utawi nindakaken piyambakipun kanthi sae.”
+**18:86** Ngantos, ing nalika piyambakipun dumugi dunung surupipun srengenge, piyambakipun manggihi srengenge surup ing satunggaling sumber ingkang buthek, lan manggihi satunggaling golongan ing caketipun. Kula ngendika, "Dhuh Dhul-Qarnayn, panjenengan saged paring ukuman, utawi nindakaken piyambakipun kanthi sae."
 
 حَتَّىٰٓ إِذَا بَلَغَ مَغْرِبَ ٱلشَّمْسِ وَجَدَهَا تَغْرُبُ فِى عَيْنٍ حَمِئَةٍۢ وَوَجَدَ عِندَهَا قَوْمًۭا ۗ قُلْنَا يَٰذَا ٱلْقَرْنَيْنِ إِمَّآ أَن تُعَذِّبَ وَإِمَّآ أَن تَتَّخِذَ فِيهِمْ حُسْنًۭا
 
-**18:87** Piyambakipun matur, “Minangka tiyang ingkang nindakaken awon, kula badhe paring ukuman dhateng piyambakipun, salajengipun piyambakipun badhe dipun wangsulaken dhateng Pangeranipun, lan Panjenenganipun badhe nyiksa piyambakipun kanthi siksa ingkang boten nate kapireng.
+**18:87** Piyambakipun matur, "Minangka tiyang ingkang nindakaken awon, kula badhe paring ukuman dhateng piyambakipun, salajengipun piyambakipun badhe dipun wangsulaken dhateng Pangeranipun, lan Panjenenganipun badhe nyiksa piyambakipun kanthi siksa ingkang boten nate kapireng.
 
 قَالَ أَمَّا مَن ظَلَمَ فَسَوْفَ نُعَذِّبُهُۥ ثُمَّ يُرَدُّ إِلَىٰ رَبِّهِۦ فَيُعَذِّبُهُۥ عَذَابًۭا نُّكْرًۭا
 
-**18:88** “Nanging minangka tiyang ingkang pitados lan nindakaken kesalehan, piyambakipun badhe pikantuk ganjaran ingkang paling sae, lan Kula badhe ngendika dhateng piyambakipun bab printah Kula kanthi gampil.”
+**18:88** "Nanging minangka tiyang ingkang pitados lan nindakaken kesalehan, piyambakipun badhe pikantuk ganjaran ingkang paling sae, lan Kula badhe ngendika dhateng piyambakipun bab printah Kula kanthi gampil."
 
 وَأَمَّا مَنْ ءَامَنَ وَعَمِلَ صَٰلِحًۭا فَلَهُۥ جَزَآءً ٱلْحُسْنَىٰ ۖ وَسَنَقُولُ لَهُۥ مِنْ أَمْرِنَا يُسْرًۭا
 
@@ -9286,15 +9286,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 حَتَّىٰٓ إِذَا بَلَغَ بَيْنَ ٱلسَّدَّيْنِ وَجَدَ مِن دُونِهِمَا قَوْمًۭا لَّا يَكَادُونَ يَفْقَهُونَ قَوْلًۭا
 
-**18:94** Piyambakipun matur, “Dhuh Dhul-Qarnayn, Gog lan Magog sami nyebar karusakan ing tanah punika. Keparenga kula mbayar panjenengan, kangge yasa ing antawisipun kula lan piyambakipun satunggaling tembok?”
+**18:94** Piyambakipun matur, "Dhuh Dhul-Qarnayn, Gog lan Magog sami nyebar karusakan ing tanah punika. Keparenga kula mbayar panjenengan, kangge yasa ing antawisipun kula lan piyambakipun satunggaling tembok?"
 
 قَالُوا۟ يَٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا
 
-**18:95** Piyambakipun matur, “Menapa ingkang Pangeranku sampun paring kakuwasan dhateng kula punika langkung sae. Nanging tulungana kula kanthi kakiyatan, lan kula badhe yasa ing antawisipun panjenengan lan piyambakipun satunggaling bendungan.”
+**18:95** Piyambakipun matur, "Menapa ingkang Pangeranku sampun paring kakuwasan dhateng kula punika langkung sae. Nanging tulungana kula kanthi kakiyatan, lan kula badhe yasa ing antawisipun panjenengan lan piyambakipun satunggaling bendungan."
 
 قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا
 
-**18:96** “Astakna dhateng kula bongkahan-bongkahan wesi.” Saengga, ing nalika piyambakipun sampun ngratakaken ing antawisipun kalih jurang, piyambakipun matur, “Sebula.” Lan sasampunipun ndadosaken punika dados geni, piyambakipun matur, “Astakna dhateng kula ter kangge ngesokaken ing sadhuwuripun.”
+**18:96** "Astakna dhateng kula bongkahan-bongkahan wesi." Saengga, ing nalika piyambakipun sampun ngratakaken ing antawisipun kalih jurang, piyambakipun matur, "Sebula." Lan sasampunipun ndadosaken punika dados geni, piyambakipun matur, "Astakna dhateng kula ter kangge ngesokaken ing sadhuwuripun."
 
 ءَاتُونِى زُبَرَ ٱلْحَدِيدِ ۖ حَتَّىٰٓ إِذَا سَاوَىٰ بَيْنَ ٱلصَّدَفَيْنِ قَالَ ٱنفُخُوا۟ ۖ حَتَّىٰٓ إِذَا جَعَلَهُۥ نَارًۭا قَالَ ءَاتُونِىٓ أُفْرِغْ عَلَيْهِ قِطْرًۭا
 
@@ -9302,7 +9302,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَمَا ٱسْطَٰعُوٓا۟ أَن يَظْهَرُوهُ وَمَا ٱسْتَطَٰعُوا۟ لَهُۥ نَقْبًۭا
 
-**18:98** Piyambakipun matur, “Punika kawelasan saking Pangeranku. Nanging ing nalika janji Pangeranku kalampahan, Panjenenganipun badhe ndadosaken punika dados rerebahan, lan janji Pangeranku punika tansah leres.”
+**18:98** Piyambakipun matur, "Punika kawelasan saking Pangeranku. Nanging ing nalika janji Pangeranku kalampahan, Panjenenganipun badhe ndadosaken punika dados rerebahan, lan janji Pangeranku punika tansah leres."
 
 قَالَ هَٰذَا رَحْمَةٌۭ مِّن رَّبِّى ۖ فَإِذَا جَآءَ وَعْدُ رَبِّى جَعَلَهُۥ دَكَّآءَ ۖ وَكَانَ وَعْدُ رَبِّى حَقًّۭا
 
@@ -9322,11 +9322,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَفَحَسِبَ ٱلَّذِينَ كَفَرُوٓا۟ أَن يَتَّخِذُوا۟ عِبَادِى مِن دُونِىٓ أَوْلِيَآءَ ۚ إِنَّآ أَعْتَدْنَا جَهَنَّمَ لِلْكَٰفِرِينَ نُزُلًۭا
 
-**18:103** Maturma, “Keparenga Kula paring pirsa dhateng panjenengan bab tiyang-tiyang ingkang paling rugi ing pakaryanipun?”
+**18:103** Maturma, "Keparenga Kula paring pirsa dhateng panjenengan bab tiyang-tiyang ingkang paling rugi ing pakaryanipun?"
 
 قُلْ هَلْ نُنَبِّئُكُم بِٱلْأَخْسَرِينَ أَعْمَٰلًا
 
-**18:104** “Tiyang-tiyang ingkang pangupadiyanipun ing donya punika kesasar, nalika piyambakipun nganggep bilih piyambakipun nindakaken ingkang sae.”
+**18:104** "Tiyang-tiyang ingkang pangupadiyanipun ing donya punika kesasar, nalika piyambakipun nganggep bilih piyambakipun nindakaken ingkang sae."
 
 ٱلَّذِينَ ضَلَّ سَعْيُهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا
 
@@ -9346,11 +9346,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 خَٰلِدِينَ فِيهَا لَا يَبْغُونَ عَنْهَا حِوَلًۭا
 
-**18:109** Maturma, “Menawi segara punika mangsi kangge tembung-tembung Pangeranku, segara punika badhe entek, sadherengipun tembung-tembung Pangeranku entek,” sanajan Kula ngastaaken ingkang kados punika dados tambahanipun.
+**18:109** Maturma, "Menawi segara punika mangsi kangge tembung-tembung Pangeranku, segara punika badhe entek, sadherengipun tembung-tembung Pangeranku entek," sanajan Kula ngastaaken ingkang kados punika dados tambahanipun.
 
 قُل لَّوْ كَانَ ٱلْبَحْرُ مِدَادًۭا لِّكَلِمَٰتِ رَبِّى لَنَفِدَ ٱلْبَحْرُ قَبْلَ أَن تَنفَدَ كَلِمَٰتُ رَبِّى وَلَوْ جِئْنَا بِمِثْلِهِۦ مَدَدًۭا
 
-**18:110** Maturma, “Kula namung manungsa kados panjenengan, dipun wahyuaken bilih gusti panjenengan punika Gusti Allah Ingkang Setunggal. Sinten kemawon ingkang ngajeng-ajeng pepanggihan kaliyan Pangeranipun, supados piyambakipun nindakaken kesalehan, lan sampun nate nyekuthokaken sinten kemawon kaliyan ibadah dhateng Pangeranipun.”
+**18:110** Maturma, "Kula namung manungsa kados panjenengan, dipun wahyuaken bilih gusti panjenengan punika Gusti Allah Ingkang Setunggal. Sinten kemawon ingkang ngajeng-ajeng pepanggihan kaliyan Pangeranipun, supados piyambakipun nindakaken kesalehan, lan sampun nate nyekuthokaken sinten kemawon kaliyan ibadah dhateng Pangeranipun."
 
 قُلْ إِنَّمَآ أَنَا۠ بَشَرٌۭ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَٰهُكُمْ إِلَٰهٌۭ وَٰحِدٌۭ ۖ فَمَن كَانَ يَرْجُوا۟ لِقَآءَ رَبِّهِۦ فَلْيَعْمَلْ عَمَلًۭا صَٰلِحًۭا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِۦٓ أَحَدًۢا
 
@@ -9378,31 +9378,31 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِذْ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيًّۭا
 
-**19:4** Piyambakipun matur, “Dhuh Pangeranku, balung kula sampun ringkih, lan rikma kula sampun murub kanthi uban, lan boten nate, Dhuh Pangeran, kula kuciwa ing donga kula dhateng Panjenengan.
+**19:4** Piyambakipun matur, "Dhuh Pangeranku, balung kula sampun ringkih, lan rikma kula sampun murub kanthi uban, lan boten nate, Dhuh Pangeran, kula kuciwa ing donga kula dhateng Panjenengan.
 
 قَالَ رَبِّ إِنِّى وَهَنَ ٱلْعَظْمُ مِنِّى وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًۭا وَلَمْ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيًّۭا
 
-**19:5** “Lan kula ajrih bab tiyang-tiyang ingkang gumantos kula sasampunipun kula, lan semah kula punika gabug. Dados paringana kula, saking Panjenengan piyambak, satunggaling ahli waris.
+**19:5** "Lan kula ajrih bab tiyang-tiyang ingkang gumantos kula sasampunipun kula, lan semah kula punika gabug. Dados paringana kula, saking Panjenengan piyambak, satunggaling ahli waris.
 
 وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا
 
-**19:6** Supados marisi kula, lan marisi saking Kulawarga Yakub, lan dadosna piyambakipun, Dhuh Pangeranku, ingkang dipun remeni.”
+**19:6** Supados marisi kula, lan marisi saking Kulawarga Yakub, lan dadosna piyambakipun, Dhuh Pangeranku, ingkang dipun remeni."
 
 يَرِثُنِى وَيَرِثُ مِنْ ءَالِ يَعْقُوبَ ۖ وَٱجْعَلْهُ رَبِّ رَضِيًّۭا
 
-**19:7** “Dhuh Zakariya, Kula paring kabar sae dhateng panjenengan bab satunggaling putra jaler, ingkang asmanipun Yahya, satunggaling asma ingkang Kula boten nate maringaken sadherengipun.”
+**19:7** "Dhuh Zakariya, Kula paring kabar sae dhateng panjenengan bab satunggaling putra jaler, ingkang asmanipun Yahya, satunggaling asma ingkang Kula boten nate maringaken sadherengipun."
 
 يَٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ ٱسْمُهُۥ يَحْيَىٰ لَمْ نَجْعَل لَّهُۥ مِن قَبْلُ سَمِيًّۭا
 
-**19:8** Piyambakipun matur, “Dhuh Pangeranku, kados pundi kula saged gadhah putra jaler, nalika semah kula gabug, lan kula sampun dados ringkih sanget kanthi sepuh?”
+**19:8** Piyambakipun matur, "Dhuh Pangeranku, kados pundi kula saged gadhah putra jaler, nalika semah kula gabug, lan kula sampun dados ringkih sanget kanthi sepuh?"
 
 قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌۭ وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا وَقَدْ بَلَغْتُ مِنَ ٱلْكِبَرِ عِتِيًّۭا
 
-**19:9** Panjenenganipun ngendika, “Badhe makaten, Pangeran panjenengan ngendika, ‘punika gampil kangge Kula, lan Kula sampun nyiptakaken panjenengan sadherengipun, ing nalika panjenengan durung dados menapa-menapa.’”
+**19:9** Panjenenganipun ngendika, "Badhe makaten, Pangeran panjenengan ngendika, 'punika gampil kangge Kula, lan Kula sampun nyiptakaken panjenengan sadherengipun, ing nalika panjenengan durung dados menapa-menapa.'"
 
 قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَىَّ هَيِّنٌۭ وَقَدْ خَلَقْتُكَ مِن قَبْلُ وَلَمْ تَكُ شَيْـًۭٔا
 
-**19:10** Piyambakipun matur, “Dhuh Pangeranku, paringana kula satunggaling tanda.” Panjenenganipun ngendika, “Tanda panjenengan punika bilih panjenengan boten badhe matur dhateng tiyang-tiyang tigang dalu kanthi urut.”
+**19:10** Piyambakipun matur, "Dhuh Pangeranku, paringana kula satunggaling tanda." Panjenenganipun ngendika, "Tanda panjenengan punika bilih panjenengan boten badhe matur dhateng tiyang-tiyang tigang dalu kanthi urut."
 
 قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةًۭ ۚ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَ لَيَالٍۢ سَوِيًّۭا
 
@@ -9410,7 +9410,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَخَرَجَ عَلَىٰ قَوْمِهِۦ مِنَ ٱلْمِحْرَابِ فَأَوْحَىٰٓ إِلَيْهِمْ أَن سَبِّحُوا۟ بُكْرَةًۭ وَعَشِيًّۭا
 
-**19:12** “Dhuh Yahya, cekelana Kitab punika kanthi kiyat,” lan Kula sampun maringi piyambakipun kawicaksanan ing nalika piyambakipun taksih mudha.
+**19:12** "Dhuh Yahya, cekelana Kitab punika kanthi kiyat," lan Kula sampun maringi piyambakipun kawicaksanan ing nalika piyambakipun taksih mudha.
 
 يَٰيَحْيَىٰ خُذِ ٱلْكِتَٰبَ بِقُوَّةٍۢ ۖ وَءَاتَيْنَٰهُ ٱلْحُكْمَ صَبِيًّۭا
 
@@ -9434,19 +9434,19 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَٱتَّخَذَتْ مِن دُونِهِمْ حِجَابًۭا فَأَرْسَلْنَآ إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًۭا سَوِيًّۭا
 
-**19:18** Piyambakipun matur, “Kula nyuwun ngayom saking panjenengan dhateng Kang Mahaasih, menawi panjenengan tiyang ingkang saleh.”
+**19:18** Piyambakipun matur, "Kula nyuwun ngayom saking panjenengan dhateng Kang Mahaasih, menawi panjenengan tiyang ingkang saleh."
 
 قَالَتْ إِنِّىٓ أَعُوذُ بِٱلرَّحْمَٰنِ مِنكَ إِن كُنتَ تَقِيًّۭا
 
-**19:19** Panjenenganipun ngendika, “Kula namung utusanipun Pangeran panjenengan, kangge maringi panjenengan kanugrahan satunggaling putra jaler ingkang suci.”
+**19:19** Panjenenganipun ngendika, "Kula namung utusanipun Pangeran panjenengan, kangge maringi panjenengan kanugrahan satunggaling putra jaler ingkang suci."
 
 قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَٰمًۭا زَكِيًّۭا
 
-**19:20** Piyambakipun matur, “Kados pundi kula saged gadhah putra jaler, nalika boten wonten tiyang jaler ingkang sampun ndumuk kula, lan kula boten nate cabul?”
+**19:20** Piyambakipun matur, "Kados pundi kula saged gadhah putra jaler, nalika boten wonten tiyang jaler ingkang sampun ndumuk kula, lan kula boten nate cabul?"
 
 قَالَتْ أَنَّىٰ يَكُونُ لِى غُلَٰمٌۭ وَلَمْ يَمْسَسْنِى بَشَرٌۭ وَلَمْ أَكُ بَغِيًّۭا
 
-**19:21** Panjenenganipun ngendika, “Makaten Pangeran panjenengan sampun ngendika, ‘Punika gampil kangge Kula, lan Kula badhe ndadosaken piyambakipun dados tanda kangge manungsa, lan kawelasan saking Kula. Punika prakara ingkang sampun kaputusaken.’“
+**19:21** Panjenenganipun ngendika, "Makaten Pangeran panjenengan sampun ngendika, 'Punika gampil kangge Kula, lan Kula badhe ndadosaken piyambakipun dados tanda kangge manungsa, lan kawelasan saking Kula. Punika prakara ingkang sampun kaputusaken.'"
 
 قَالَ كَذَٰلِكِ قَالَ رَبُّكِ هُوَ عَلَىَّ هَيِّنٌۭ ۖ وَلِنَجْعَلَهُۥٓ ءَايَةًۭ لِّلنَّاسِ وَرَحْمَةًۭ مِّنَّا ۚ وَكَانَ أَمْرًۭا مَّقْضِيًّۭا
 
@@ -9454,35 +9454,35 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا
 
-**19:23** Ngraos nglarani badhe babaran dhateng piyambakipun, ing pangkalipun wit kurma. Piyambakipun matur, “Mugi kula sampun seda sadherengipun punika, lan sampun kalipaken kanthi wutuh.”
+**19:23** Ngraos nglarani badhe babaran dhateng piyambakipun, ing pangkalipun wit kurma. Piyambakipun matur, "Mugi kula sampun seda sadherengipun punika, lan sampun kalipaken kanthi wutuh."
 
 فَأَجَآءَهَا ٱلْمَخَاضُ إِلَىٰ جِذْعِ ٱلنَّخْلَةِ قَالَتْ يَٰلَيْتَنِى مِتُّ قَبْلَ هَٰذَا وَكُنتُ نَسْيًۭا مَّنسِيًّۭا
 
-**19:24** Saknalika piyambakipun nimbali piyambakipun saking sangandhapipun: “Ampun ngantos kuwatos; Pangeran panjenengan sampun paring satunggaling lepen ing sangandhapipun panjenengan.
+**19:24** Saknalika piyambakipun nimbali piyambakipun saking sangandhapipun: "Ampun ngantos kuwatos; Pangeran panjenengan sampun paring satunggaling lepen ing sangandhapipun panjenengan.
 
 فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا
 
-**19:25** Lan goyangna pangkal wit kurma punika dhateng panjenengan, lan wit punika badhe ngluruhaken kurma mateng dhateng panjenengan.”
+**19:25** Lan goyangna pangkal wit kurma punika dhateng panjenengan, lan wit punika badhe ngluruhaken kurma mateng dhateng panjenengan."
 
 وَهُزِّىٓ إِلَيْكِ بِجِذْعِ ٱلنَّخْلَةِ تُسَٰقِطْ عَلَيْكِ رُطَبًۭا جَنِيًّۭا
 
-**19:26** “Dadoas nedhaa, lan ngunjuka, lan kalipurana. Lan menawi panjenengan mirsani manungsa menapa kemawon, maturma, ‘Kula sampun nadhar pasa dhateng Kang Mahaasih, dados kula boten badhe matur dhateng manungsa menapa kemawon dinten punika.’“
+**19:26** "Dadoas nedhaa, lan ngunjuka, lan kalipurana. Lan menawi panjenengan mirsani manungsa menapa kemawon, maturma, 'Kula sampun nadhar pasa dhateng Kang Mahaasih, dados kula boten badhe matur dhateng manungsa menapa kemawon dinten punika.'"
 
 فَكُلِى وَٱشْرَبِى وَقَرِّى عَيْنًۭا ۖ فَإِمَّا تَرَيِنَّ مِنَ ٱلْبَشَرِ أَحَدًۭا فَقُولِىٓ إِنِّى نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًۭا فَلَنْ أُكَلِّمَ ٱلْيَوْمَ إِنسِيًّۭا
 
-**19:27** Salajengipun piyambakipun dhateng dhateng golonganipun, kanthi mbeta piyambakipun. Piyambakipun matur, “Dhuh Maryam, panjenengan sampun nindakaken bab ingkang nggegirisi.
+**19:27** Salajengipun piyambakipun dhateng dhateng golonganipun, kanthi mbeta piyambakipun. Piyambakipun matur, "Dhuh Maryam, panjenengan sampun nindakaken bab ingkang nggegirisi.
 
 فَأَتَتْ بِهِۦ قَوْمَهَا تَحْمِلُهُۥ ۖ قَالُوا۟ يَٰمَرْيَمُ لَقَدْ جِئْتِ شَيْـًۭٔا فَرِيًّۭا
 
-**19:28** Dhuh sedherekipun Harun, rama panjenengan sanes tiyang ingkang awon, lan ibu panjenengan sanes tiyang ingkang cabul.”
+**19:28** Dhuh sedherekipun Harun, rama panjenengan sanes tiyang ingkang awon, lan ibu panjenengan sanes tiyang ingkang cabul."
 
 يَٰٓأُخْتَ هَٰرُونَ مَا كَانَ أَبُوكِ ٱمْرَأَ سَوْءٍۢ وَمَا كَانَتْ أُمُّكِ بَغِيًّۭا
 
-**19:29** Dados piyambakipun nedah dhateng piyambakipun. Piyambakipun matur, “Kados pundi kula saged matur dhateng bayi ing ayunan?”
+**19:29** Dados piyambakipun nedah dhateng piyambakipun. Piyambakipun matur, "Kados pundi kula saged matur dhateng bayi ing ayunan?"
 
 فَأَشَارَتْ إِلَيْهِ ۖ قَالُوا۟ كَيْفَ نُكَلِّمُ مَن كَانَ فِى ٱلْمَهْدِ صَبِيًّۭا
 
-**19:30** Piyambakipun ngendika, “Kula punika kawulanipun Gusti Allah. Panjenenganipun sampun maringi kula Kitab, lan ndadosaken kula satunggaling nabi.
+**19:30** Piyambakipun ngendika, "Kula punika kawulanipun Gusti Allah. Panjenenganipun sampun maringi kula Kitab, lan ndadosaken kula satunggaling nabi.
 
 قَالَ إِنِّى عَبْدُ ٱللَّهِ ءَاتَىٰنِىَ ٱلْكِتَٰبَ وَجَعَلَنِى نَبِيًّۭا
 
@@ -9494,7 +9494,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَبَرًّۢا بِوَٰلِدَتِى وَلَمْ يَجْعَلْنِى جَبَّارًۭا شَقِيًّۭا
 
-**19:33** Dados Tentrem mugi katur dhateng kula ing dinten kula miyos, lan ing dinten kula seda, lan ing Dinten kula dipun tangekaken gesang malih.”
+**19:33** Dados Tentrem mugi katur dhateng kula ing dinten kula miyos, lan ing dinten kula seda, lan ing Dinten kula dipun tangekaken gesang malih."
 
 وَٱلسَّلَٰمُ عَلَىَّ يَوْمَ وُلِدتُّ وَيَوْمَ أَمُوتُ وَيَوْمَ أُبْعَثُ حَيًّۭا
 
@@ -9502,11 +9502,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ذَٰلِكَ عِيسَى ٱبْنُ مَرْيَمَ ۚ قَوْلَ ٱلْحَقِّ ٱلَّذِى فِيهِ يَمْتَرُونَ
 
-**19:35** Boten pantes kangge Gusti Allah gadhah putra — Maha Suci Panjenenganipun. Kangge nindakaken menapa kemawon, Panjenenganipun ngendika dhateng punika, “Dadosa,” lan punika dados.
+**19:35** Boten pantes kangge Gusti Allah gadhah putra — Maha Suci Panjenenganipun. Kangge nindakaken menapa kemawon, Panjenenganipun ngendika dhateng punika, "Dadosa," lan punika dados.
 
 مَا كَانَ لِلَّهِ أَن يَتَّخِذَ مِن وَلَدٍۢ ۖ سُبْحَٰنَهُۥٓ ۚ إِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 
-**19:36** “Gusti Allah punika Pangeranku lan Pangeran panjenengan, dados sembaha Panjenenganipun. Punika margi ingkang lurus.”
+**19:36** "Gusti Allah punika Pangeranku lan Pangeran panjenengan, dados sembaha Panjenenganipun. Punika margi ingkang lurus."
 
 وَإِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۚ هَٰذَا صِرَٰطٌۭ مُّسْتَقِيمٌۭ
 
@@ -9530,7 +9530,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَٱذْكُرْ فِى ٱلْكِتَٰبِ إِبْرَٰهِيمَ ۚ إِنَّهُۥ كَانَ صِدِّيقًۭا نَّبِيًّا
 
-**19:42** Piyambakipun matur dhateng ramanipun, “Dhuh ramaku, kenging menapa panjenengan nyembah ingkang boten saged mireng, utawi mirsani, utawi maringi manfaat dhateng panjenengan kanthi cara menapa kemawon?
+**19:42** Piyambakipun matur dhateng ramanipun, "Dhuh ramaku, kenging menapa panjenengan nyembah ingkang boten saged mireng, utawi mirsani, utawi maringi manfaat dhateng panjenengan kanthi cara menapa kemawon?
 
 إِذْ قَالَ لِأَبِيهِ يَٰٓأَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِى عَنكَ شَيْـًۭٔا
 
@@ -9542,19 +9542,19 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 يَٰٓأَبَتِ لَا تَعْبُدِ ٱلشَّيْطَٰنَ ۖ إِنَّ ٱلشَّيْطَٰنَ كَانَ لِلرَّحْمَٰنِ عَصِيًّۭا
 
-**19:45** Dhuh ramaku, kula ajrih bilih siksa saking Kang Mahaasih badhe dhateng dhateng panjenengan, lan panjenengan dados sekuthunipun setan.”
+**19:45** Dhuh ramaku, kula ajrih bilih siksa saking Kang Mahaasih badhe dhateng dhateng panjenengan, lan panjenengan dados sekuthunipun setan."
 
 يَٰٓأَبَتِ إِنِّىٓ أَخَافُ أَن يَمَسَّكَ عَذَابٌۭ مِّنَ ٱلرَّحْمَٰنِ فَتَكُونَ لِلشَّيْطَٰنِ وَلِيًّۭا
 
-**19:46** Piyambakipun matur, “Menapa panjenengan nilar gusti-gustiku, Dhuh Ibrahim? Menawi panjenengan boten mandheg, kula badhe mbenturi panjenengan kanthi watu. Dados tilarana kula piyambak sedhela.”
+**19:46** Piyambakipun matur, "Menapa panjenengan nilar gusti-gustiku, Dhuh Ibrahim? Menawi panjenengan boten mandheg, kula badhe mbenturi panjenengan kanthi watu. Dados tilarana kula piyambak sedhela."
 
 قَالَ أَرَاغِبٌ أَنتَ عَنْ ءَالِهَتِى يَٰٓإِبْرَٰهِيمُ ۖ لَئِن لَّمْ تَنتَهِ لَأَرْجُمَنَّكَ ۖ وَٱهْجُرْنِى مَلِيًّۭا
 
-**19:47** Piyambakipun matur, “Tentrem mugi katur dhateng panjenengan. Kula badhe nyuwunaken pangapunten Pangeranku kangge panjenengan; Panjenenganipun sampun Sae dhateng kula.
+**19:47** Piyambakipun matur, "Tentrem mugi katur dhateng panjenengan. Kula badhe nyuwunaken pangapunten Pangeranku kangge panjenengan; Panjenenganipun sampun Sae dhateng kula.
 
 قَالَ سَلَٰمٌ عَلَيْكَ ۖ سَأَسْتَغْفِرُ لَكَ رَبِّىٓ ۖ إِنَّهُۥ كَانَ بِى حَفِيًّۭا
 
-**19:48** Lan kula badhe nilar panjenengan, lan menapa ingkang panjenengan dongani sanesipun Gusti Allah. Lan kula badhe ndedonga dhateng Pangeranku, lan kula ngajeng-ajeng kula boten badhe kuciwa ing donga kula dhateng Pangeranku.”
+**19:48** Lan kula badhe nilar panjenengan, lan menapa ingkang panjenengan dongani sanesipun Gusti Allah. Lan kula badhe ndedonga dhateng Pangeranku, lan kula ngajeng-ajeng kula boten badhe kuciwa ing donga kula dhateng Pangeranku."
 
 وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِن دُونِ ٱللَّهِ وَأَدْعُوا۟ رَبِّى عَسَىٰٓ أَلَّآ أَكُونَ بِدُعَآءِ رَبِّى شَقِيًّۭا
 
@@ -9620,7 +9620,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 تِلْكَ ٱلْجَنَّةُ ٱلَّتِى نُورِثُ مِنْ عِبَادِنَا مَن كَانَ تَقِيًّۭا
 
-**19:64** “Kula boten tumurun kajawi kanthi printahipun Pangeran panjenengan. Kagunganipun Panjenenganipun punika menapa ingkang wonten ing ngajeng kula, lan menapa ingkang wonten ing wingking kula, lan menapa ingkang wonten ing antawisipun kekalihipun. Pangeran panjenengan boten nate kesupen.”
+**19:64** "Kula boten tumurun kajawi kanthi printahipun Pangeran panjenengan. Kagunganipun Panjenenganipun punika menapa ingkang wonten ing ngajeng kula, lan menapa ingkang wonten ing wingking kula, lan menapa ingkang wonten ing antawisipun kekalihipun. Pangeran panjenengan boten nate kesupen."
 
 وَمَا نَتَنَزَّلُ إِلَّا بِأَمْرِ رَبِّكَ ۖ لَهُۥ مَا بَيْنَ أَيْدِينَا وَمَا خَلْفَنَا وَمَا بَيْنَ ذَٰلِكَ ۚ وَمَا كَانَ رَبُّكَ نَسِيًّۭا
 
@@ -9628,7 +9628,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا فَٱعْبُدْهُ وَٱصْطَبِرْ لِعِبَٰدَتِهِۦ ۚ هَلْ تَعْلَمُ لَهُۥ سَمِيًّۭا
 
-**19:66** Lan manungsa matur, “Ing nalika kula sampun pejah, menapa kula badhe dipun wangsulaken gesang?”
+**19:66** Lan manungsa matur, "Ing nalika kula sampun pejah, menapa kula badhe dipun wangsulaken gesang?"
 
 وَيَقُولُ ٱلْإِنسَٰنُ أَءِذَا مَا مِتُّ لَسَوْفَ أُخْرَجُ حَيًّا
 
@@ -9656,7 +9656,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ثُمَّ نُنَجِّى ٱلَّذِينَ ٱتَّقَوا۟ وَّنَذَرُ ٱلظَّٰلِمِينَ فِيهَا جِثِيًّۭا
 
-**19:73** Ing nalika wahyu-wahyu Kula ingkang cetha kawaosaken dhateng piyambakipun, tiyang-tiyang ingkang kafir matur dhateng tiyang-tiyang ingkang pitados, “Golongan pundi saking kekalihipun ingkang langkung sae ing panggenan, lan langkung unggul ing pangaribawa?”
+**19:73** Ing nalika wahyu-wahyu Kula ingkang cetha kawaosaken dhateng piyambakipun, tiyang-tiyang ingkang kafir matur dhateng tiyang-tiyang ingkang pitados, "Golongan pundi saking kekalihipun ingkang langkung sae ing panggenan, lan langkung unggul ing pangaribawa?"
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَىُّ ٱلْفَرِيقَيْنِ خَيْرٌۭ مَّقَامًۭا وَأَحْسَنُ نَدِيًّۭا
 
@@ -9664,7 +9664,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَحْسَنُ أَثَٰثًۭا وَرِءْيًۭا
 
-**19:75** Maturma, “Sinten kemawon ingkang kesasar, Kang Mahaasih badhe nuntun piyambakipun lajeng.” Ngantos, ing nalika piyambakipun mirsani menapa ingkang sampun dipun janjekaken dhateng piyambakipun — siksa, utawi Dinten Kiyamat. Salajengipun piyambakipun badhe mangertos sinten ingkang langkung awon panggenanipun lan langkung ringkih kakiyatanipun.
+**19:75** Maturma, "Sinten kemawon ingkang kesasar, Kang Mahaasih badhe nuntun piyambakipun lajeng." Ngantos, ing nalika piyambakipun mirsani menapa ingkang sampun dipun janjekaken dhateng piyambakipun — siksa, utawi Dinten Kiyamat. Salajengipun piyambakipun badhe mangertos sinten ingkang langkung awon panggenanipun lan langkung ringkih kakiyatanipun.
 
 قُلْ مَن كَانَ فِى ٱلضَّلَٰلَةِ فَلْيَمْدُدْ لَهُ ٱلرَّحْمَٰنُ مَدًّا ۚ حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ إِمَّا ٱلْعَذَابَ وَإِمَّا ٱلسَّاعَةَ فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّۭ مَّكَانًۭا وَأَضْعَفُ جُندًۭا
 
@@ -9672,7 +9672,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَيَزِيدُ ٱللَّهُ ٱلَّذِينَ ٱهْتَدَوْا۟ هُدًۭى ۗ وَٱلْبَٰقِيَٰتُ ٱلصَّٰلِحَٰتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًۭا وَخَيْرٌۭ مَّرَدًّا
 
-**19:77** Menapa panjenengan sampun mirsani tiyang ingkang nolak wahyu-wahyu Kula, lan matur, “Kula badhe dipun paringi kasugihan lan putra-putra”?
+**19:77** Menapa panjenengan sampun mirsani tiyang ingkang nolak wahyu-wahyu Kula, lan matur, "Kula badhe dipun paringi kasugihan lan putra-putra"?
 
 أَفَرَءَيْتَ ٱلَّذِى كَفَرَ بِـَٔايَٰتِنَا وَقَالَ لَأُوتَيَنَّ مَالًۭا وَوَلَدًا
 
@@ -9716,7 +9716,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 لَّا يَمْلِكُونَ ٱلشَّفَٰعَةَ إِلَّا مَنِ ٱتَّخَذَ عِندَ ٱلرَّحْمَٰنِ عَهْدًۭا
 
-**19:88** Lan piyambakipun matur, “Kang Mahaasih sampun peputra jaler.”
+**19:88** Lan piyambakipun matur, "Kang Mahaasih sampun peputra jaler."
 
 وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًۭا
 
@@ -9808,11 +9808,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَهَلْ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ
 
-**20:10** Nalika piyambakipun sumerep geni, piyambakipun matur dhateng kulawarganipun, “Mangga kendel rumiyin; kula sumerep geni; mbokmenawi kula saged mbeta obor saking ngriku, utawi manggih pituduh wonten ing sacedhaking geni.”
+**20:10** Nalika piyambakipun sumerep geni, piyambakipun matur dhateng kulawarganipun, "Mangga kendel rumiyin; kula sumerep geni; mbokmenawi kula saged mbeta obor saking ngriku, utawi manggih pituduh wonten ing sacedhaking geni."
 
 إِذْ رَءَا نَارًۭا فَقَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًۭا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِقَبَسٍ أَوْ أَجِدُ عَلَى ٱلنَّارِ هُدًۭى
 
-**20:11** Lajeng, nalika piyambakipun dumugi wonten ing ngriku, piyambakipun katimbalan, “Dhuh Musa.
+**20:11** Lajeng, nalika piyambakipun dumugi wonten ing ngriku, piyambakipun katimbalan, "Dhuh Musa.
 
 فَلَمَّآ أَتَىٰهَا نُودِىَ يَٰمُوسَىٰٓ
 
@@ -9836,15 +9836,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَلَا يَصُدَّنَّكَ عَنْهَا مَن لَّا يُؤْمِنُ بِهَا وَٱتَّبَعَ هَوَىٰهُ فَتَرْدَىٰ
 
-**20:17** Lan menapa menika ingkang wonten ing asta tengen panjenengan, dhuh Musa?”
+**20:17** Lan menapa menika ingkang wonten ing asta tengen panjenengan, dhuh Musa?"
 
 وَمَا تِلْكَ بِيَمِينِكَ يَٰمُوسَىٰ
 
-**20:18** Piyambakipun matur, “Menika teken kula. Kula nyenderaken awak wonten ing menika, lan kula ngginakaken kangge ngengon menda-menda kula, lan kula gadhah kabetahan sanesipun tumrap menika.”
+**20:18** Piyambakipun matur, "Menika teken kula. Kula nyenderaken awak wonten ing menika, lan kula ngginakaken kangge ngengon menda-menda kula, lan kula gadhah kabetahan sanesipun tumrap menika."
 
 قَالَ هِىَ عَصَاىَ أَتَوَكَّؤُا۟ عَلَيْهَا وَأَهُشُّ بِهَا عَلَىٰ غَنَمِى وَلِىَ فِيهَا مَـَٔارِبُ أُخْرَىٰ
 
-**20:19** Panjenenganipun ngendika, “Uncalna menika, dhuh Musa.”
+**20:19** Panjenenganipun ngendika, "Uncalna menika, dhuh Musa."
 
 قَالَ أَلْقِهَا يَٰمُوسَىٰ
 
@@ -9852,7 +9852,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَأَلْقَىٰهَا فَإِذَا هِىَ حَيَّةٌۭ تَسْعَىٰ
 
-**20:21** Panjenenganipun ngendika, “Cepengana menika, lan sampun ajrih. Ingsun badhe mulihaken dhateng kawontenanipun ingkang wiwitan.
+**20:21** Panjenenganipun ngendika, "Cepengana menika, lan sampun ajrih. Ingsun badhe mulihaken dhateng kawontenanipun ingkang wiwitan.
 
 قَالَ خُذْهَا وَلَا تَخَفْ ۖ سَنُعِيدُهَا سِيرَتَهَا ٱلْأُولَىٰ
 
@@ -9864,11 +9864,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 لِنُرِيَكَ مِنْ ءَايَٰتِنَا ٱلْكُبْرَى
 
-**20:24** Lumampaha dhateng Fir'aun; piyambakipun sampun ngliwati wates.”
+**20:24** Lumampaha dhateng Fir'aun; piyambakipun sampun ngliwati wates."
 
 ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ
 
-**20:25** Piyambakipun matur, “Dhuh Pangeran kula, mugi Panjenengan damel manah kula tentrem.
+**20:25** Piyambakipun matur, "Dhuh Pangeran kula, mugi Panjenengan damel manah kula tentrem.
 
 قَالَ رَبِّ ٱشْرَحْ لِى صَدْرِى
 
@@ -9908,11 +9908,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَنَذْكُرَكَ كَثِيرًا
 
-**20:35** Panjenengan tansah mirsani kawula.”
+**20:35** Panjenengan tansah mirsani kawula."
 
 إِنَّكَ كُنتَ بِنَا بَصِيرًۭا
 
-**20:36** Panjenenganipun ngendika, “Panyuwun panjenengan sampun kaparingaken, dhuh Musa.
+**20:36** Panjenenganipun ngendika, "Panyuwun panjenengan sampun kaparingaken, dhuh Musa.
 
 قَالَ قَدْ أُوتِيتَ سُؤْلَكَ يَٰمُوسَىٰ
 
@@ -9928,7 +9928,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ يَأْخُذْهُ عَدُوٌّۭ لِّى وَعَدُوٌّۭ لَّهُۥ ۚ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةًۭ مِّنِّى وَلِتُصْنَعَ عَلَىٰ عَيْنِىٓ
 
-**20:40** Nalika sadherek estri panjenengan lumampah, lan matur, ‘Menapa kula nedahaken dhateng panjenengan tiyang ingkang badhe ngrawat piyambakipun?' Pramila Ingsun mulihaken panjenengan dhateng ibu panjenengan, supados piyambakipun bingah, lan mboten sedih. Lan panjenengan mateni satunggaling tiyang, ananging Ingsun nylametaken panjenengan saking kasedihan; lan Ingsun nguji panjenengan kanthi temenan. Lan panjenengan manggen taunan wonten ing antawisipun tiyang-tiyang Madyan. Lajeng panjenengan wangsul, kados ingkang sampun katetepaken, dhuh Musa.
+**20:40** Nalika sadherek estri panjenengan lumampah, lan matur, 'Menapa kula nedahaken dhateng panjenengan tiyang ingkang badhe ngrawat piyambakipun?' Pramila Ingsun mulihaken panjenengan dhateng ibu panjenengan, supados piyambakipun bingah, lan mboten sedih. Lan panjenengan mateni satunggaling tiyang, ananging Ingsun nylametaken panjenengan saking kasedihan; lan Ingsun nguji panjenengan kanthi temenan. Lan panjenengan manggen taunan wonten ing antawisipun tiyang-tiyang Madyan. Lajeng panjenengan wangsul, kados ingkang sampun katetepaken, dhuh Musa.
 
 إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ ۖ فَرَجَعْنَٰكَ إِلَىٰٓ أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ ۚ وَقَتَلْتَ نَفْسًۭا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ وَفَتَنَّٰكَ فُتُونًۭا ۚ فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍۢ يَٰمُوسَىٰ
 
@@ -9944,15 +9944,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ٱذْهَبَآ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ
 
-**20:44** Ananging sesoraha dhateng piyambakipun kanthi sae. Mbokmenawi piyambakipun badhe kemutan, utawi gadhah raos ajrih.”
+**20:44** Ananging sesoraha dhateng piyambakipun kanthi sae. Mbokmenawi piyambakipun badhe kemutan, utawi gadhah raos ajrih."
 
 فَقُولَا لَهُۥ قَوْلًۭا لَّيِّنًۭا لَّعَلَّهُۥ يَتَذَكَّرُ أَوْ يَخْشَىٰ
 
-**20:45** Kekalihipun matur, “Dhuh Pangeran, kawula ajrih piyambakipun badhe nganiaya kawula, utawi dados kasar.”
+**20:45** Kekalihipun matur, "Dhuh Pangeran, kawula ajrih piyambakipun badhe nganiaya kawula, utawi dados kasar."
 
 قَالَا رَبَّنَآ إِنَّنَا نَخَافُ أَن يَفْرُطَ عَلَيْنَآ أَوْ أَن يَطْغَىٰ
 
-**20:46** Panjenenganipun ngendika, “Sampun ajrih, Ingsun wonten kaliyan panjenengan kekalih, Ingsun mireng lan Ingsun mirsani.
+**20:46** Panjenenganipun ngendika, "Sampun ajrih, Ingsun wonten kaliyan panjenengan kekalih, Ingsun mireng lan Ingsun mirsani.
 
 قَالَ لَا تَخَافَآ ۖ إِنَّنِى مَعَكُمَآ أَسْمَعُ وَأَرَىٰ
 
@@ -9964,19 +9964,19 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِنَّا قَدْ أُوحِىَ إِلَيْنَآ أَنَّ ٱلْعَذَابَ عَلَىٰ مَن كَذَّبَ وَتَوَلَّىٰ
 
-**20:49** Piyambakipun ngendika, “Sinten Pangeran panjenengan, dhuh Musa.”
+**20:49** Piyambakipun ngendika, "Sinten Pangeran panjenengan, dhuh Musa."
 
 قَالَ فَمَن رَّبُّكُمَا يَٰمُوسَىٰ
 
-**20:50** Piyambakipun matur, “Pangeran kawula menika Panjenenganipun ingkang paring dhateng sedaya barang kawontenanipun, lajeng paring pituduh dhateng menika.”
+**20:50** Piyambakipun matur, "Pangeran kawula menika Panjenenganipun ingkang paring dhateng sedaya barang kawontenanipun, lajeng paring pituduh dhateng menika."
 
 قَالَ رَبُّنَا ٱلَّذِىٓ أَعْطَىٰ كُلَّ شَىْءٍ خَلْقَهُۥ ثُمَّ هَدَىٰ
 
-**20:51** Piyambakipun ngendika, “Lajeng kados pundi bab generasi-generasi ingkang rumiyin?”
+**20:51** Piyambakipun ngendika, "Lajeng kados pundi bab generasi-generasi ingkang rumiyin?"
 
 قَالَ فَمَا بَالُ ٱلْقُرُونِ ٱلْأُولَىٰ
 
-**20:52** Piyambakipun matur, “Kawruh bab menika wonten ing ngarsanipun Pangeran kula, wonten ing Kitab. Pangeran kula mboten nate klentu, lan mboten kesupen.”
+**20:52** Piyambakipun matur, "Kawruh bab menika wonten ing ngarsanipun Pangeran kula, wonten ing Kitab. Pangeran kula mboten nate klentu, lan mboten kesupen."
 
 قَالَ عِلْمُهَا عِندَ رَبِّى فِى كِتَٰبٍۢ ۖ لَّا يَضِلُّ رَبِّى وَلَا يَنسَى
 
@@ -9996,15 +9996,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَقَدْ أَرَيْنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
 
-**20:57** Piyambakipun ngendika, “Menapa panjenengan rawuh dhateng kawula kangge nundhung kawula medal saking tanah kawula kanthi sihir panjenengan, dhuh Musa?
+**20:57** Piyambakipun ngendika, "Menapa panjenengan rawuh dhateng kawula kangge nundhung kawula medal saking tanah kawula kanthi sihir panjenengan, dhuh Musa?
 
 قَالَ أَجِئْتَنَا لِتُخْرِجَنَا مِنْ أَرْضِنَا بِسِحْرِكَ يَٰمُوسَىٰ
 
-**20:58** Kawula badhe ngasilaken sihir kados menika tumrap panjenengan; pramila damela janji antawis kawula lan panjenengan, ingkang mboten badhe kawula selaki — lan panjenengan ugi mboten — wonten ing papan tengah.”
+**20:58** Kawula badhe ngasilaken sihir kados menika tumrap panjenengan; pramila damela janji antawis kawula lan panjenengan, ingkang mboten badhe kawula selaki — lan panjenengan ugi mboten — wonten ing papan tengah."
 
 فَلَنَأْتِيَنَّكَ بِسِحْرٍۢ مِّثْلِهِۦ فَٱجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًۭا لَّا نُخْلِفُهُۥ نَحْنُ وَلَآ أَنتَ مَكَانًۭا سُوًۭى
 
-**20:59** Piyambakipun matur, “Janji panjenengan menika dinten riyaya, pramila mugi tiyang-tiyang kakempalaken ing wekdal tengah enjing.”
+**20:59** Piyambakipun matur, "Janji panjenengan menika dinten riyaya, pramila mugi tiyang-tiyang kakempalaken ing wekdal tengah enjing."
 
 قَالَ مَوْعِدُكُمْ يَوْمُ ٱلزِّينَةِ وَأَن يُحْشَرَ ٱلنَّاسُ ضُحًۭى
 
@@ -10012,7 +10012,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَتَوَلَّىٰ فِرْعَوْنُ فَجَمَعَ كَيْدَهُۥ ثُمَّ أَتَىٰ
 
-**20:61** Musa matur dhateng piyambak-piyambakipun, “Cilaka panjenengan. Sampun ngarang goroh nglawan Gusti Allah, utawi Panjenenganipun badhe nyirnaaken panjenengan kanthi paukuman. Tiyang ingkang ngarang goroh badhe gagal.”
+**20:61** Musa matur dhateng piyambak-piyambakipun, "Cilaka panjenengan. Sampun ngarang goroh nglawan Gusti Allah, utawi Panjenenganipun badhe nyirnaaken panjenengan kanthi paukuman. Tiyang ingkang ngarang goroh badhe gagal."
 
 قَالَ لَهُم مُّوسَىٰ وَيْلَكُمْ لَا تَفْتَرُوا۟ عَلَى ٱللَّهِ كَذِبًۭا فَيُسْحِتَكُم بِعَذَابٍۢ ۖ وَقَدْ خَابَ مَنِ ٱفْتَرَىٰ
 
@@ -10020,19 +10020,19 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَتَنَٰزَعُوٓا۟ أَمْرَهُم بَيْنَهُمْ وَأَسَرُّوا۟ ٱلنَّجْوَىٰ
 
-**20:63** Piyambak-piyambakipun ngendika, “Tiyang kalih menika penyihir ingkang badhe nundhung panjenengan medal saking tanah panjenengan kanthi sihiripun, lan ngicalaken cara gesang panjenengan ingkang sae piyambak.
+**20:63** Piyambak-piyambakipun ngendika, "Tiyang kalih menika penyihir ingkang badhe nundhung panjenengan medal saking tanah panjenengan kanthi sihiripun, lan ngicalaken cara gesang panjenengan ingkang sae piyambak.
 
 قَالُوٓا۟ إِنْ هَٰذَٰنِ لَسَٰحِرَٰنِ يُرِيدَانِ أَن يُخْرِجَاكُم مِّنْ أَرْضِكُم بِسِحْرِهِمَا وَيَذْهَبَا بِطَرِيقَتِكُمُ ٱلْمُثْلَىٰ
 
-**20:64** Pramila tetepna rancangan panjenengan, lan rawuha dados setunggal barisan. Dinten menika, sinten kemawon ingkang unggul badhe kasil.”
+**20:64** Pramila tetepna rancangan panjenengan, lan rawuha dados setunggal barisan. Dinten menika, sinten kemawon ingkang unggul badhe kasil."
 
 فَأَجْمِعُوا۟ كَيْدَكُمْ ثُمَّ ٱئْتُوا۟ صَفًّۭا ۚ وَقَدْ أَفْلَحَ ٱلْيَوْمَ مَنِ ٱسْتَعْلَىٰ
 
-**20:65** Piyambak-piyambakipun ngendika, “Dhuh Musa, sae panjenengan nguncalaken, utawi kawula ingkang kawitan nguncalaken.”
+**20:65** Piyambak-piyambakipun ngendika, "Dhuh Musa, sae panjenengan nguncalaken, utawi kawula ingkang kawitan nguncalaken."
 
 قَالُوا۟ يَٰمُوسَىٰٓ إِمَّآ أَن تُلْقِىَ وَإِمَّآ أَن نَّكُونَ أَوَّلَ مَنْ أَلْقَىٰ
 
-**20:66** Piyambakipun matur, “Panjenengan ingkang nguncalaken.” Lan dumadakan, tampar-tampar lan teken-tekenipun katingal dhateng piyambakipun, amargi sihiripun, kados sami mrambat kanthi rikat.
+**20:66** Piyambakipun matur, "Panjenengan ingkang nguncalaken." Lan dumadakan, tampar-tampar lan teken-tekenipun katingal dhateng piyambakipun, amargi sihiripun, kados sami mrambat kanthi rikat.
 
 قَالَ بَلْ أَلْقُوا۟ ۖ فَإِذَا حِبَالُهُمْ وَعِصِيُّهُمْ يُخَيَّلُ إِلَيْهِ مِن سِحْرِهِمْ أَنَّهَا تَسْعَىٰ
 
@@ -10040,27 +10040,27 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَأَوْجَسَ فِى نَفْسِهِۦ خِيفَةًۭ مُّوسَىٰ
 
-**20:68** Ingsun ngendika, “Sampun ajrih, panjenengan ingkang paling inggil.
+**20:68** Ingsun ngendika, "Sampun ajrih, panjenengan ingkang paling inggil.
 
 قُلْنَا لَا تَخَفْ إِنَّكَ أَنتَ ٱلْأَعْلَىٰ
 
-**20:69** Samenika uncalna menapa ingkang wonten ing asta tengen panjenengan — menika badhe ngeleg menapa ingkang sampun piyambak-piyambakipun damel. Menapa ingkang sampun piyambak-piyambakipun damel namung trikipun penyihir. Ananging penyihir mboten badhe kasil, sanadyan menapa kemawon ingkang dipuntindakaken.”
+**20:69** Samenika uncalna menapa ingkang wonten ing asta tengen panjenengan — menika badhe ngeleg menapa ingkang sampun piyambak-piyambakipun damel. Menapa ingkang sampun piyambak-piyambakipun damel namung trikipun penyihir. Ananging penyihir mboten badhe kasil, sanadyan menapa kemawon ingkang dipuntindakaken."
 
 وَأَلْقِ مَا فِى يَمِينِكَ تَلْقَفْ مَا صَنَعُوٓا۟ ۖ إِنَّمَا صَنَعُوا۟ كَيْدُ سَٰحِرٍۢ ۖ وَلَا يُفْلِحُ ٱلسَّاحِرُ حَيْثُ أَتَىٰ
 
-**20:70** Lan penyihir-penyihir sami dhawah sujud. Piyambak-piyambakipun matur, “Kawula sampun pitados dhateng Pangeranipun Harun lan Musa.”
+**20:70** Lan penyihir-penyihir sami dhawah sujud. Piyambak-piyambakipun matur, "Kawula sampun pitados dhateng Pangeranipun Harun lan Musa."
 
 فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَٰرُونَ وَمُوسَىٰ
 
-**20:71** Piyambakipun ngendika, “Menapa panjenengan pitados dhateng piyambakipun saderengipun kula paring idin dhateng panjenengan? Piyambakipun mesthi pangarepipun panjenengan, ingkang sampun mulang sihir dhateng panjenengan. Kula badhe ngethok asta lan suku panjenengan ing sisih silih genti, lan kula badhe nyalib panjenengan wonten ing wit-wit kurma. Lajeng panjenengan badhe mangertos sinten ing antawis kawula ingkang langkung abot paukumanipun, lan langkung langgeng.”
+**20:71** Piyambakipun ngendika, "Menapa panjenengan pitados dhateng piyambakipun saderengipun kula paring idin dhateng panjenengan? Piyambakipun mesthi pangarepipun panjenengan, ingkang sampun mulang sihir dhateng panjenengan. Kula badhe ngethok asta lan suku panjenengan ing sisih silih genti, lan kula badhe nyalib panjenengan wonten ing wit-wit kurma. Lajeng panjenengan badhe mangertos sinten ing antawis kawula ingkang langkung abot paukumanipun, lan langkung langgeng."
 
 قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ ۖ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ ۖ فَلَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍۢ وَلَأُصَلِّبَنَّكُمْ فِى جُذُوعِ ٱلنَّخْلِ وَلَتَعْلَمُنَّ أَيُّنَآ أَشَدُّ عَذَابًۭا وَأَبْقَىٰ
 
-**20:72** Piyambak-piyambakipun matur, “Kawula mboten badhe ngutamakaken panjenengan ngungkuli bukti-bukti ingkang sampun dumugi dhateng kawula, lan Panjenenganipun ingkang nitahaken kawula. Pramila medalna paukuman menapa kemawon ingkang panjenengan kajengaken. Panjenengan namung saged mréntah wonten ing gesang asor menika.
+**20:72** Piyambak-piyambakipun matur, "Kawula mboten badhe ngutamakaken panjenengan ngungkuli bukti-bukti ingkang sampun dumugi dhateng kawula, lan Panjenenganipun ingkang nitahaken kawula. Pramila medalna paukuman menapa kemawon ingkang panjenengan kajengaken. Panjenengan namung saged mréntah wonten ing gesang asor menika.
 
 قَالُوا۟ لَن نُّؤْثِرَكَ عَلَىٰ مَا جَآءَنَا مِنَ ٱلْبَيِّنَٰتِ وَٱلَّذِى فَطَرَنَا ۖ فَٱقْضِ مَآ أَنتَ قَاضٍ ۖ إِنَّمَا تَقْضِى هَٰذِهِ ٱلْحَيَوٰةَ ٱلدُّنْيَآ
 
-**20:73** Kawula sampun pitados dhateng Pangeran kawula, supados Panjenenganipun ngapura dosa-dosa kawula, lan sihir ingkang panjenengan peksa dhateng kawula kangge nindakaken. Gusti Allah langkung Sae, lan langkung Langgeng.”
+**20:73** Kawula sampun pitados dhateng Pangeran kawula, supados Panjenenganipun ngapura dosa-dosa kawula, lan sihir ingkang panjenengan peksa dhateng kawula kangge nindakaken. Gusti Allah langkung Sae, lan langkung Langgeng."
 
 إِنَّآ ءَامَنَّا بِرَبِّنَا لِيَغْفِرَ لَنَا خَطَٰيَٰنَا وَمَآ أَكْرَهْتَنَا عَلَيْهِ مِنَ ٱلسِّحْرِ ۗ وَٱللَّهُ خَيْرٌۭ وَأَبْقَىٰٓ
 
@@ -10076,7 +10076,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 جَنَّٰتُ عَدْنٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا ۚ وَذَٰلِكَ جَزَآءُ مَن تَزَكَّىٰ
 
-**20:77** Lan Ingsun paring ilham dhateng Musa: “Lumampaha ing wengi kaliyan abdi-abdi Ingsun, lan pukul damel margi garing nglintasi segara, mboten ajrih kasusul, lan mboten kuwatos.”
+**20:77** Lan Ingsun paring ilham dhateng Musa: "Lumampaha ing wengi kaliyan abdi-abdi Ingsun, lan pukul damel margi garing nglintasi segara, mboten ajrih kasusul, lan mboten kuwatos."
 
 وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَٰفُ دَرَكًۭا وَلَا تَخْشَىٰ
 
@@ -10100,27 +10100,27 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَإِنِّى لَغَفَّارٌۭ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحًۭا ثُمَّ ٱهْتَدَىٰ
 
-**20:83** “Lan menapa ingkang ndadosaken panjenengan enggal-enggal ndhisiki tiyang-tiyang panjenengan, dhuh Musa?”
+**20:83** "Lan menapa ingkang ndadosaken panjenengan enggal-enggal ndhisiki tiyang-tiyang panjenengan, dhuh Musa?"
 
 ۞ وَمَآ أَعْجَلَكَ عَن قَوْمِكَ يَٰمُوسَىٰ
 
-**20:84** Piyambakipun matur, “Piyambak-piyambakipun ndhereki tapak kula; lan kula enggal-enggal dhateng Panjenengan, dhuh Pangeran kula, supados Panjenengan rena.”
+**20:84** Piyambakipun matur, "Piyambak-piyambakipun ndhereki tapak kula; lan kula enggal-enggal dhateng Panjenengan, dhuh Pangeran kula, supados Panjenengan rena."
 
 قَالَ هُمْ أُو۟لَآءِ عَلَىٰٓ أَثَرِى وَعَجِلْتُ إِلَيْكَ رَبِّ لِتَرْضَىٰ
 
-**20:85** Panjenenganipun ngendika, “Ingsun sampun nguji tiyang-tiyang panjenengan nalika panjenengan mboten wonten, lan tiyang Samaria sampun nyasaraken piyambak-piyambakipun.”
+**20:85** Panjenenganipun ngendika, "Ingsun sampun nguji tiyang-tiyang panjenengan nalika panjenengan mboten wonten, lan tiyang Samaria sampun nyasaraken piyambak-piyambakipun."
 
 قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ
 
-**20:86** Pramila Musa wangsul dhateng tiyang-tiyangipun, duka lan kuciwa. Piyambakipun matur, “Dhuh tiyang-tiyang kula, menapa Pangeran panjenengan mboten janji janji ingkang sae dhateng panjenengan? Menapa wekdalipun sampun kelangkung dangu tumrap panjenengan? Utawi menapa panjenengan kajeng bebendu saking Pangeran panjenengan dhawah dhateng panjenengan, pramila panjenengan nyelaki janji panjenengan dhateng kula?”
+**20:86** Pramila Musa wangsul dhateng tiyang-tiyangipun, duka lan kuciwa. Piyambakipun matur, "Dhuh tiyang-tiyang kula, menapa Pangeran panjenengan mboten janji janji ingkang sae dhateng panjenengan? Menapa wekdalipun sampun kelangkung dangu tumrap panjenengan? Utawi menapa panjenengan kajeng bebendu saking Pangeran panjenengan dhawah dhateng panjenengan, pramila panjenengan nyelaki janji panjenengan dhateng kula?"
 
 فَرَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًۭا ۚ قَالَ يَٰقَوْمِ أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْدًا حَسَنًا ۚ أَفَطَالَ عَلَيْكُمُ ٱلْعَهْدُ أَمْ أَرَدتُّمْ أَن يَحِلَّ عَلَيْكُمْ غَضَبٌۭ مِّن رَّبِّكُمْ فَأَخْلَفْتُم مَّوْعِدِى
 
-**20:87** Piyambak-piyambakipun matur, “Kawula mboten nyelaki janji kawula dhateng panjenengan kanthi pilihan kawula piyambak, ananging kawula kadamel mbeta beban rerengganipun tiyang-tiyang, lan kawula nguncalaken menika. Mekaten ingkang dipunusulaken tiyang Samaria.”
+**20:87** Piyambak-piyambakipun matur, "Kawula mboten nyelaki janji kawula dhateng panjenengan kanthi pilihan kawula piyambak, ananging kawula kadamel mbeta beban rerengganipun tiyang-tiyang, lan kawula nguncalaken menika. Mekaten ingkang dipunusulaken tiyang Samaria."
 
 قَالُوا۟ مَآ أَخْلَفْنَا مَوْعِدَكَ بِمَلْكِنَا وَلَٰكِنَّا حُمِّلْنَآ أَوْزَارًۭا مِّن زِينَةِ ٱلْقَوْمِ فَقَذَفْنَٰهَا فَكَذَٰلِكَ أَلْقَى ٱلسَّامِرِىُّ
 
-**20:88** Pramila piyambakipun ngasilaken pedhet tumrap piyambak-piyambakipun — namung awak ingkang ngembek. Lan piyambak-piyambakipun ngendika, “Menika gusti panjenengan, lan gustinipun Musa, ananging piyambakipun kesupen.”
+**20:88** Pramila piyambakipun ngasilaken pedhet tumrap piyambak-piyambakipun — namung awak ingkang ngembek. Lan piyambak-piyambakipun ngendika, "Menika gusti panjenengan, lan gustinipun Musa, ananging piyambakipun kesupen."
 
 فَأَخْرَجَ لَهُمْ عِجْلًۭا جَسَدًۭا لَّهُۥ خُوَارٌۭ فَقَالُوا۟ هَٰذَآ إِلَٰهُكُمْ وَإِلَٰهُ مُوسَىٰ فَنَسِىَ
 
@@ -10128,35 +10128,35 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًۭا وَلَا يَمْلِكُ لَهُمْ ضَرًّۭا وَلَا نَفْعًۭا
 
-**20:90** Harun sampun matur dhateng piyambak-piyambakipun saderengipun, “Dhuh tiyang-tiyang kula, panjenengan saweg kauji kanthi menika. Lan Pangeran panjenengan menika Kang Mahamurah, pramila ndhereka kula, lan manutna dhawuh kula.”
+**20:90** Harun sampun matur dhateng piyambak-piyambakipun saderengipun, "Dhuh tiyang-tiyang kula, panjenengan saweg kauji kanthi menika. Lan Pangeran panjenengan menika Kang Mahamurah, pramila ndhereka kula, lan manutna dhawuh kula."
 
 وَلَقَدْ قَالَ لَهُمْ هَٰرُونُ مِن قَبْلُ يَٰقَوْمِ إِنَّمَا فُتِنتُم بِهِۦ ۖ وَإِنَّ رَبَّكُمُ ٱلرَّحْمَٰنُ فَٱتَّبِعُونِى وَأَطِيعُوٓا۟ أَمْرِى
 
-**20:91** Piyambak-piyambakipun ngendika, “Kawula mboten badhe kendel ngabekti dhateng menika, ngantos Musa wangsul dhateng kawula.”
+**20:91** Piyambak-piyambakipun ngendika, "Kawula mboten badhe kendel ngabekti dhateng menika, ngantos Musa wangsul dhateng kawula."
 
 قَالُوا۟ لَن نَّبْرَحَ عَلَيْهِ عَٰكِفِينَ حَتَّىٰ يَرْجِعَ إِلَيْنَا مُوسَىٰ
 
-**20:92** Piyambakipun matur, “Dhuh Harun, menapa ingkang ngalang-alangi panjenengan, nalika panjenengan sumerep piyambak-piyambakipun kesasar,
+**20:92** Piyambakipun matur, "Dhuh Harun, menapa ingkang ngalang-alangi panjenengan, nalika panjenengan sumerep piyambak-piyambakipun kesasar,
 
 قَالَ يَٰهَٰرُونُ مَا مَنَعَكَ إِذْ رَأَيْتَهُمْ ضَلُّوٓا۟
 
-**20:93** Saking ndhereki kula? Menapa panjenengan mboten manut dhawuh kula?”
+**20:93** Saking ndhereki kula? Menapa panjenengan mboten manut dhawuh kula?"
 
 أَلَّا تَتَّبِعَنِ ۖ أَفَعَصَيْتَ أَمْرِى
 
-**20:94** Piyambakipun matur, “Dhuh putranipun ibu kula, sampun nyepeng kula ing jenggot utawi rambut kula. Kula ajrih panjenengan badhe ngendika, `Panjenengan sampun ndadosaken pepisahan wonten ing antawisipun Bani Israil, lan mboten nggatekaken tembung kula.'“
+**20:94** Piyambakipun matur, "Dhuh putranipun ibu kula, sampun nyepeng kula ing jenggot utawi rambut kula. Kula ajrih panjenengan badhe ngendika, `Panjenengan sampun ndadosaken pepisahan wonten ing antawisipun Bani Israil, lan mboten nggatekaken tembung kula.'"
 
 قَالَ يَبْنَؤُمَّ لَا تَأْخُذْ بِلِحْيَتِى وَلَا بِرَأْسِىٓ ۖ إِنِّى خَشِيتُ أَن تَقُولَ فَرَّقْتَ بَيْنَ بَنِىٓ إِسْرَٰٓءِيلَ وَلَمْ تَرْقُبْ قَوْلِى
 
-**20:95** Piyambakipun matur, “Menapa ingkang badhe panjenengan aturaken, dhuh tiyang Samaria?”
+**20:95** Piyambakipun matur, "Menapa ingkang badhe panjenengan aturaken, dhuh tiyang Samaria?"
 
 قَالَ فَمَا خَطْبُكَ يَٰسَٰمِرِىُّ
 
-**20:96** Piyambakipun matur, “Kula sumerep menapa ingkang mboten dipunsumerepi piyambak-piyambakipun, pramila kula mendhet sagenggam saking tapakipun Utusan, lan kula nguncalaken menika. Mekaten jiwa kula nyurung kula.”
+**20:96** Piyambakipun matur, "Kula sumerep menapa ingkang mboten dipunsumerepi piyambak-piyambakipun, pramila kula mendhet sagenggam saking tapakipun Utusan, lan kula nguncalaken menika. Mekaten jiwa kula nyurung kula."
 
 قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُوا۟ بِهِۦ فَقَبَضْتُ قَبْضَةًۭ مِّنْ أَثَرِ ٱلرَّسُولِ فَنَبَذْتُهَا وَكَذَٰلِكَ سَوَّلَتْ لِى نَفْسِى
 
-**20:97** Piyambakipun matur, “Lumampaha! Bagian panjenengan wonten ing gesang menika inggih menika matur, ‘Mboten saged sesambetan.’ Lan panjenengan gadhah janji ingkang mboten badhe panjenengan selaki. Samenika tingalina gusti panjenengan ingkang panjenengan tetep ngabekti dhateng menika — kawula badhe ngobong menika, lan lajeng nyebaraken wonten ing segara, dados awu.”
+**20:97** Piyambakipun matur, "Lumampaha! Bagian panjenengan wonten ing gesang menika inggih menika matur, 'Mboten saged sesambetan.' Lan panjenengan gadhah janji ingkang mboten badhe panjenengan selaki. Samenika tingalina gusti panjenengan ingkang panjenengan tetep ngabekti dhateng menika — kawula badhe ngobong menika, lan lajeng nyebaraken wonten ing segara, dados awu."
 
 قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا
 
@@ -10180,15 +10180,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 يَوْمَ يُنفَخُ فِى ٱلصُّورِ ۚ وَنَحْشُرُ ٱلْمُجْرِمِينَ يَوْمَئِذٍۢ زُرْقًۭا
 
-**20:103** Sami bisik-bisik antawisipun: “Panjenengan namung manggen sedasa.”
+**20:103** Sami bisik-bisik antawisipun: "Panjenengan namung manggen sedasa."
 
 يَتَخَٰفَتُونَ بَيْنَهُمْ إِن لَّبِثْتُمْ إِلَّا عَشْرًۭا
 
-**20:104** Ingsun mangertos kanthi temenan menapa ingkang piyambak-piyambakipun ucapaken, nalika ingkang sae piyambak polahipun ing antawisipun badhe matur, “Panjenengan namung manggen sedinten.”
+**20:104** Ingsun mangertos kanthi temenan menapa ingkang piyambak-piyambakipun ucapaken, nalika ingkang sae piyambak polahipun ing antawisipun badhe matur, "Panjenengan namung manggen sedinten."
 
 نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ إِذْ يَقُولُ أَمْثَلُهُمْ طَرِيقَةً إِن لَّبِثْتُمْ إِلَّا يَوْمًۭا
 
-**20:105** Lan piyambak-piyambakipun nyuwunaken dhateng panjenengan bab gunung-gunung. Matura, “Pangeran kula badhe ngancuraken menika ngantos telas.”
+**20:105** Lan piyambak-piyambakipun nyuwunaken dhateng panjenengan bab gunung-gunung. Matura, "Pangeran kula badhe ngancuraken menika ngantos telas."
 
 وَيَسْـَٔلُونَكَ عَنِ ٱلْجِبَالِ فَقُلْ يَنسِفُهَا رَبِّى نَسْفًۭا
 
@@ -10196,7 +10196,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَيَذَرُهَا قَاعًۭا صَفْصَفًۭا
 
-**20:107** Panjenengan mboten badhe sumerep wonten ing menika bengkong utawi nyimpang.”
+**20:107** Panjenengan mboten badhe sumerep wonten ing menika bengkong utawi nyimpang."
 
 لَّا تَرَىٰ فِيهَا عِوَجًۭا وَلَآ أَمْتًۭا
 
@@ -10224,7 +10224,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَكَذَٰلِكَ أَنزَلْنَٰهُ قُرْءَانًا عَرَبِيًّۭا وَصَرَّفْنَا فِيهِ مِنَ ٱلْوَعِيدِ لَعَلَّهُمْ يَتَّقُونَ أَوْ يُحْدِثُ لَهُمْ ذِكْرًۭا
 
-**20:114** Kaluhuran Gusti Allah, Raja Ingkang Sejati. Sampun enggal-enggal kaliyan Quran saderengipun ilhamipun dhateng panjenengan pungkas, lan matura, “Dhuh Pangeran kula, mugi Panjenengan nambahi kawruh dhateng kula.”
+**20:114** Kaluhuran Gusti Allah, Raja Ingkang Sejati. Sampun enggal-enggal kaliyan Quran saderengipun ilhamipun dhateng panjenengan pungkas, lan matura, "Dhuh Pangeran kula, mugi Panjenengan nambahi kawruh dhateng kula."
 
 فَتَعَٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۗ وَلَا تَعْجَلْ بِٱلْقُرْءَانِ مِن قَبْلِ أَن يُقْضَىٰٓ إِلَيْكَ وَحْيُهُۥ ۖ وَقُل رَّبِّ زِدْنِى عِلْمًۭا
 
@@ -10232,11 +10232,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَقَدْ عَهِدْنَآ إِلَىٰٓ ءَادَمَ مِن قَبْلُ فَنَسِىَ وَلَمْ نَجِدْ لَهُۥ عَزْمًۭا
 
-**20:116** Lan nalika Ingsun ngendika dhateng malaikat-malaikat, “Sujuda dhateng Adam.” Piyambak-piyambakipun sujud, kejawi Setan; piyambakipun nolak.
+**20:116** Lan nalika Ingsun ngendika dhateng malaikat-malaikat, "Sujuda dhateng Adam." Piyambak-piyambakipun sujud, kejawi Setan; piyambakipun nolak.
 
 وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ
 
-**20:117** Ingsun ngendika, “Dhuh Adam, menika mengsah tumrap panjenengan lan garwa panjenengan. Pramila sampun ngantos piyambakipun ndadosaken panjenengan medal saking Taman, mangke panjenengan badhe sengsara.
+**20:117** Ingsun ngendika, "Dhuh Adam, menika mengsah tumrap panjenengan lan garwa panjenengan. Pramila sampun ngantos piyambakipun ndadosaken panjenengan medal saking Taman, mangke panjenengan badhe sengsara.
 
 فَقُلْنَا يَٰٓـَٔادَمُ إِنَّ هَٰذَا عَدُوٌّۭ لَّكَ وَلِزَوْجِكَ فَلَا يُخْرِجَنَّكُمَا مِنَ ٱلْجَنَّةِ فَتَشْقَىٰٓ
 
@@ -10244,11 +10244,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعْرَىٰ
 
-**20:119** Lan panjenengan mboten badhe ngelak wonten ing ngriku, lan panjenengan mboten badhe kepanasen.”
+**20:119** Lan panjenengan mboten badhe ngelak wonten ing ngriku, lan panjenengan mboten badhe kepanasen."
 
 وَأَنَّكَ لَا تَظْمَؤُا۟ فِيهَا وَلَا تَضْحَىٰ
 
-**20:120** Ananging Setan mbisiki piyambakipun. Piyambakipun ngendika, “Dhuh Adam, menapa kula nedahaken dhateng panjenengan Wit Kalanggengan, lan karajan ingkang mboten nate risak?”
+**20:120** Ananging Setan mbisiki piyambakipun. Piyambakipun ngendika, "Dhuh Adam, menapa kula nedahaken dhateng panjenengan Wit Kalanggengan, lan karajan ingkang mboten nate risak?"
 
 فَوَسْوَسَ إِلَيْهِ ٱلشَّيْطَٰنُ قَالَ يَٰٓـَٔادَمُ هَلْ أَدُلُّكَ عَلَىٰ شَجَرَةِ ٱلْخُلْدِ وَمُلْكٍۢ لَّا يَبْلَىٰ
 
@@ -10260,19 +10260,19 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ثُمَّ ٱجْتَبَٰهُ رَبُّهُۥ فَتَابَ عَلَيْهِ وَهَدَىٰ
 
-**20:123** Panjenenganipun ngendika, “Muduna saking ngriku, sedaya; sapérangan panjenengan dados mengsahipun sapérangan sanes. Ananging kapan kemawon pituduh dumugi dhateng panjenengan saking Ingsun, sinten kemawon ingkang ndhereki pituduh Ingsun, mboten badhe kesasar, lan mboten sengsara.
+**20:123** Panjenenganipun ngendika, "Muduna saking ngriku, sedaya; sapérangan panjenengan dados mengsahipun sapérangan sanes. Ananging kapan kemawon pituduh dumugi dhateng panjenengan saking Ingsun, sinten kemawon ingkang ndhereki pituduh Ingsun, mboten badhe kesasar, lan mboten sengsara.
 
 قَالَ ٱهْبِطَا مِنْهَا جَمِيعًۢا ۖ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّۭ ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًۭى فَمَنِ ٱتَّبَعَ هُدَاىَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ
 
-**20:124** Ananging sinten kemawon ingkang ngenggok saking Pepenget Ingsun, tumrap piyambakipun wonten gesang ingkang cupet. Lan Ingsun badhe nangekaken piyambakipun ing Dinten Kiamat wuta.”
+**20:124** Ananging sinten kemawon ingkang ngenggok saking Pepenget Ingsun, tumrap piyambakipun wonten gesang ingkang cupet. Lan Ingsun badhe nangekaken piyambakipun ing Dinten Kiamat wuta."
 
 وَمَنْ أَعْرَضَ عَن ذِكْرِى فَإِنَّ لَهُۥ مَعِيشَةًۭ ضَنكًۭا وَنَحْشُرُهُۥ يَوْمَ ٱلْقِيَٰمَةِ أَعْمَىٰ
 
-**20:125** Piyambakipun badhe matur, “Dhuh Pangeran kula, kenging menapa Panjenengan nangekaken kula wuta, sanadyan kula rumiyin saged ningali?”
+**20:125** Piyambakipun badhe matur, "Dhuh Pangeran kula, kenging menapa Panjenengan nangekaken kula wuta, sanadyan kula rumiyin saged ningali?"
 
 قَالَ رَبِّ لِمَ حَشَرْتَنِىٓ أَعْمَىٰ وَقَدْ كُنتُ بَصِيرًۭا
 
-**20:126** Panjenenganipun badhe ngendika, “Kados wahyu-wahyu Ingsun dumugi dhateng panjenengan, lan panjenengan nglirwaaken menika, dinten menika panjenengan badhe kalirwaaken.”
+**20:126** Panjenenganipun badhe ngendika, "Kados wahyu-wahyu Ingsun dumugi dhateng panjenengan, lan panjenengan nglirwaaken menika, dinten menika panjenengan badhe kalirwaaken."
 
 قَالَ كَذَٰلِكَ أَتَتْكَ ءَايَٰتُنَا فَنَسِيتَهَا ۖ وَكَذَٰلِكَ ٱلْيَوْمَ تُنسَىٰ
 
@@ -10300,15 +10300,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَأْمُرْ أَهْلَكَ بِٱلصَّلَوٰةِ وَٱصْطَبِرْ عَلَيْهَا ۖ لَا نَسْـَٔلُكَ رِزْقًۭا ۖ نَّحْنُ نَرْزُقُكَ ۗ وَٱلْعَٰقِبَةُ لِلتَّقْوَىٰ
 
-**20:133** Lan piyambak-piyambakipun ngendika, “Kenging menapa piyambakipun mboten mbeta mukjizat dhateng kawula saking Pangeranipun?” Menapa piyambak-piyambakipun mboten kaparingan mukjizat-mukjizat cekap wonten ing kitab-kitab ingkang rumiyin?
+**20:133** Lan piyambak-piyambakipun ngendika, "Kenging menapa piyambakipun mboten mbeta mukjizat dhateng kawula saking Pangeranipun?" Menapa piyambak-piyambakipun mboten kaparingan mukjizat-mukjizat cekap wonten ing kitab-kitab ingkang rumiyin?
 
 وَقَالُوا۟ لَوْلَا يَأْتِينَا بِـَٔايَةٍۢ مِّن رَّبِّهِۦٓ ۚ أَوَلَمْ تَأْتِهِم بَيِّنَةُ مَا فِى ٱلصُّحُفِ ٱلْأُولَىٰ
 
-**20:134** Menawi Ingsun nyirnaaken piyambak-piyambakipun kanthi paukuman saderengipun piyambakipun, piyambak-piyambakipun mesthi matur, “Dhuh Pangeran kawula, menawi namung Panjenengan ngutus utusan dhateng kawula, kawula mesthi ndhereki wahyu-wahyu Panjenengan saderengipun kawula kaesoraken lan kaaibaken.”
+**20:134** Menawi Ingsun nyirnaaken piyambak-piyambakipun kanthi paukuman saderengipun piyambakipun, piyambak-piyambakipun mesthi matur, "Dhuh Pangeran kawula, menawi namung Panjenengan ngutus utusan dhateng kawula, kawula mesthi ndhereki wahyu-wahyu Panjenengan saderengipun kawula kaesoraken lan kaaibaken."
 
 وَلَوْ أَنَّآ أَهْلَكْنَٰهُم بِعَذَابٍۢ مِّن قَبْلِهِۦ لَقَالُوا۟ رَبَّنَا لَوْلَآ أَرْسَلْتَ إِلَيْنَا رَسُولًۭا فَنَتَّبِعَ ءَايَٰتِكَ مِن قَبْلِ أَن نَّذِلَّ وَنَخْزَىٰ
 
-**20:135** Matura, “Saben tiyang nengga, pramila mangga nengga. Panjenengan badhe mangertos sinten tiyang-tiyang ing margi ingkang lurus, lan sinten ingkang angsal pituduh leres.
+**20:135** Matura, "Saben tiyang nengga, pramila mangga nengga. Panjenengan badhe mangertos sinten tiyang-tiyang ing margi ingkang lurus, lan sinten ingkang angsal pituduh leres.
 
 قُلْ كُلٌّۭ مُّتَرَبِّصٌۭ فَتَرَبَّصُوا۟ ۖ فَسَتَعْلَمُونَ مَنْ أَصْحَٰبُ ٱلصِّرَٰطِ ٱلسَّوِىِّ وَمَنِ ٱهْتَدَىٰ
 
@@ -10332,15 +10332,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 مَا يَأْتِيهِم مِّن ذِكْرٍۢ مِّن رَّبِّهِم مُّحْدَثٍ إِلَّا ٱسْتَمَعُوهُ وَهُمْ يَلْعَبُونَ
 
-**21:3** Manahipun kalengser, tiyang-tiyang ingkang tumindak salah rembagan kanthi winadi, “Menapa menika sanes namung manungsa kados panjenengan? Menapa panjenengan badhe ndhereki sihir, kanthi mripat kabuka?”
+**21:3** Manahipun kalengser, tiyang-tiyang ingkang tumindak salah rembagan kanthi winadi, "Menapa menika sanes namung manungsa kados panjenengan? Menapa panjenengan badhe ndhereki sihir, kanthi mripat kabuka?"
 
 لَاهِيَةًۭ قُلُوبُهُمْ ۗ وَأَسَرُّوا۟ ٱلنَّجْوَى ٱلَّذِينَ ظَلَمُوا۟ هَلْ هَٰذَآ إِلَّا بَشَرٌۭ مِّثْلُكُمْ ۖ أَفَتَأْتُونَ ٱلسِّحْرَ وَأَنتُمْ تُبْصِرُونَ
 
-**21:4** Piyambakipun matur, “Pangeran kula mangertos menapa ingkang kaucapaken wonten ing langit lan ing bumi; lan Panjenenganipun ingkang Mireng, ingkang Mangertos.”
+**21:4** Piyambakipun matur, "Pangeran kula mangertos menapa ingkang kaucapaken wonten ing langit lan ing bumi; lan Panjenenganipun ingkang Mireng, ingkang Mangertos."
 
 قَالَ رَبِّى يَعْلَمُ ٱلْقَوْلَ فِى ٱلسَّمَآءِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
-**21:5** Lan piyambak-piyambakipun ngendika, “Campuraning impian,” lan, “Piyambakipun ngarang menika,” lan, “Piyambakipun penyair,” “mugi piyambakipun mbeta pratanda dhateng kawula, kados ingkang kakintun dhateng tiyang-tiyang rumiyin.”
+**21:5** Lan piyambak-piyambakipun ngendika, "Campuraning impian," lan, "Piyambakipun ngarang menika," lan, "Piyambakipun penyair," "mugi piyambakipun mbeta pratanda dhateng kawula, kados ingkang kakintun dhateng tiyang-tiyang rumiyin."
 
 بَلْ قَالُوٓا۟ أَضْغَٰثُ أَحْلَٰمٍۭ بَلِ ٱفْتَرَىٰهُ بَلْ هُوَ شَاعِرٌۭ فَلْيَأْتِنَا بِـَٔايَةٍۢ كَمَآ أُرْسِلَ ٱلْأَوَّلُونَ
 
@@ -10376,7 +10376,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 لَا تَرْكُضُوا۟ وَٱرْجِعُوٓا۟ إِلَىٰ مَآ أُتْرِفْتُمْ فِيهِ وَمَسَٰكِنِكُمْ لَعَلَّكُمْ تُسْـَٔلُونَ
 
-**21:14** Piyambak-piyambakipun matur, “Cilaka kawula; kawula tumindak mboten adil.”
+**21:14** Piyambak-piyambakipun matur, "Cilaka kawula; kawula tumindak mboten adil."
 
 قَالُوا۟ يَٰوَيْلَنَآ إِنَّا كُنَّا ظَٰلِمِينَ
 
@@ -10416,15 +10416,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ
 
-**21:24** Utawi menapa piyambak-piyambakipun sampun mendhet, kejawi Panjenenganipun, gusti-gusti sanes? Matura, “Beta bukti panjenengan. Menika pesen tumrap tiyang-tiyang ingkang kaliyan kula, lan pesenipun tiyang-tiyang saderengipun kula.” Ananging kathahipun mboten mangertos kaleresan, pramila piyambak-piyambakipun ngenggok.
+**21:24** Utawi menapa piyambak-piyambakipun sampun mendhet, kejawi Panjenenganipun, gusti-gusti sanes? Matura, "Beta bukti panjenengan. Menika pesen tumrap tiyang-tiyang ingkang kaliyan kula, lan pesenipun tiyang-tiyang saderengipun kula." Ananging kathahipun mboten mangertos kaleresan, pramila piyambak-piyambakipun ngenggok.
 
 أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةًۭ ۖ قُلْ هَاتُوا۟ بُرْهَٰنَكُمْ ۖ هَٰذَا ذِكْرُ مَن مَّعِىَ وَذِكْرُ مَن قَبْلِى ۗ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ ٱلْحَقَّ ۖ فَهُم مُّعْرِضُونَ
 
-**21:25** Ingsun mboten nate ngutus utusan saderengipun panjenengan tanpa paring ilham dhateng piyambakipun bilih: “Mboten wonten gusti kejawi Ingsun, pramila sembahen Ingsun.”
+**21:25** Ingsun mboten nate ngutus utusan saderengipun panjenengan tanpa paring ilham dhateng piyambakipun bilih: "Mboten wonten gusti kejawi Ingsun, pramila sembahen Ingsun."
 
 وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِىٓ إِلَيْهِ أَنَّهُۥ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعْبُدُونِ
 
-**21:26** Lan piyambak-piyambakipun ngendika, “Kang Mahamurah sampun mendhet putra tumrap sariranipun.” Maha Suci Panjenenganipun; piyambak-piyambakipun namung abdi-abdi ingkang kamulyaaken.
+**21:26** Lan piyambak-piyambakipun ngendika, "Kang Mahamurah sampun mendhet putra tumrap sariranipun." Maha Suci Panjenenganipun; piyambak-piyambakipun namung abdi-abdi ingkang kamulyaaken.
 
 وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًۭا ۗ سُبْحَٰنَهُۥ ۚ بَلْ عِبَادٌۭ مُّكْرَمُونَ
 
@@ -10436,7 +10436,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ٱرْتَضَىٰ وَهُم مِّنْ خَشْيَتِهِۦ مُشْفِقُونَ
 
-**21:29** Lan sinten kemawon ing antawisipun matur, “Kula menika gusti kejawi Panjenenganipun,” Ingsun badhe males piyambakipun kanthi Neraka. Mekaten Ingsun males tiyang-tiyang ingkang tumindak salah.
+**21:29** Lan sinten kemawon ing antawisipun matur, "Kula menika gusti kejawi Panjenenganipun," Ingsun badhe males piyambakipun kanthi Neraka. Mekaten Ingsun males tiyang-tiyang ingkang tumindak salah.
 
 ۞ وَمَن يَقُلْ مِنْهُمْ إِنِّىٓ إِلَٰهٌۭ مِّن دُونِهِۦ فَذَٰلِكَ نَجْزِيهِ جَهَنَّمَ ۚ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ
 
@@ -10464,7 +10464,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 كُلُّ نَفْسٍۢ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةًۭ ۖ وَإِلَيْنَا تُرْجَعُونَ
 
-**21:36** Nalika tiyang-tiyang ingkang mboten pitados sumerep panjenengan, piyambak-piyambakipun namung nganggep panjenengan dados guyonan: “Menapa menika tiyang ingkang nyebut gusti-gusti panjenengan?” Lan piyambak-piyambakipun nolak nyebutipun Kang Mahamurah.
+**21:36** Nalika tiyang-tiyang ingkang mboten pitados sumerep panjenengan, piyambak-piyambakipun namung nganggep panjenengan dados guyonan: "Menapa menika tiyang ingkang nyebut gusti-gusti panjenengan?" Lan piyambak-piyambakipun nolak nyebutipun Kang Mahamurah.
 
 وَإِذَا رَءَاكَ ٱلَّذِينَ كَفَرُوٓا۟ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِى يَذْكُرُ ءَالِهَتَكُمْ وَهُم بِذِكْرِ ٱلرَّحْمَٰنِ هُمْ كَٰفِرُونَ
 
@@ -10472,7 +10472,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 خُلِقَ ٱلْإِنسَٰنُ مِنْ عَجَلٍۢ ۚ سَأُو۟رِيكُمْ ءَايَٰتِى فَلَا تَسْتَعْجِلُونِ
 
-**21:38** Lan piyambak-piyambakipun ngendika, “Kapan janji menika badhe kelampahan, menawi panjenengan leres?”
+**21:38** Lan piyambak-piyambakipun ngendika, "Kapan janji menika badhe kelampahan, menawi panjenengan leres?"
 
 وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -10488,7 +10488,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍۢ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**21:42** Matura, “Sinten ingkang njagi panjenengan saking Kang Mahamurah ing wengi lan ing siyang?” Ananging piyambak-piyambakipun ngenggok saking nyebutipun Pangeranipun.
+**21:42** Matura, "Sinten ingkang njagi panjenengan saking Kang Mahamurah ing wengi lan ing siyang?" Ananging piyambak-piyambakipun ngenggok saking nyebutipun Pangeranipun.
 
 قُلْ مَن يَكْلَؤُكُم بِٱلَّيْلِ وَٱلنَّهَارِ مِنَ ٱلرَّحْمَٰنِ ۗ بَلْ هُمْ عَن ذِكْرِ رَبِّهِم مُّعْرِضُونَ
 
@@ -10500,11 +10500,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 بَلْ مَتَّعْنَا هَٰٓؤُلَآءِ وَءَابَآءَهُمْ حَتَّىٰ طَالَ عَلَيْهِمُ ٱلْعُمُرُ ۗ أَفَلَا يَرَوْنَ أَنَّا نَأْتِى ٱلْأَرْضَ نَنقُصُهَا مِنْ أَطْرَافِهَآ ۚ أَفَهُمُ ٱلْغَٰلِبُونَ
 
-**21:45** Matura, “Kula ngemutaken panjenengan lumantar ilham.” Ananging tiyang budheg mboten saged mireng timbalan nalika piyambak-piyambakipun kaemutaken.
+**21:45** Matura, "Kula ngemutaken panjenengan lumantar ilham." Ananging tiyang budheg mboten saged mireng timbalan nalika piyambak-piyambakipun kaemutaken.
 
 قُلْ إِنَّمَآ أُنذِرُكُم بِٱلْوَحْىِ ۚ وَلَا يَسْمَعُ ٱلصُّمُّ ٱلدُّعَآءَ إِذَا مَا يُنذَرُونَ
 
-**21:46** Lan nalika ambeganipun paukumanipun Pangeran panjenengan ndemek piyambak-piyambakipun, piyambak-piyambakipun matur, “Cilaka kawula, kawula saestu ala.”
+**21:46** Lan nalika ambeganipun paukumanipun Pangeran panjenengan ndemek piyambak-piyambakipun, piyambak-piyambakipun matur, "Cilaka kawula, kawula saestu ala."
 
 وَلَئِن مَّسَّتْهُمْ نَفْحَةٌۭ مِّنْ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَٰوَيْلَنَآ إِنَّا كُنَّا ظَٰلِمِينَ
 
@@ -10528,27 +10528,27 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ۞ وَلَقَدْ ءَاتَيْنَآ إِبْرَٰهِيمَ رُشْدَهُۥ مِن قَبْلُ وَكُنَّا بِهِۦ عَٰلِمِينَ
 
-**21:52** Nalika piyambakipun matur dhateng bapanipun lan tiyang-tiyangipun, “Menapa reca-reca menika ingkang panjenengan bektosi?”
+**21:52** Nalika piyambakipun matur dhateng bapanipun lan tiyang-tiyangipun, "Menapa reca-reca menika ingkang panjenengan bektosi?"
 
 إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِىٓ أَنتُمْ لَهَا عَٰكِفُونَ
 
-**21:53** Piyambak-piyambakipun matur, “Kawula manggih tiyang sepuh kawula ngibadah dhateng menika.”
+**21:53** Piyambak-piyambakipun matur, "Kawula manggih tiyang sepuh kawula ngibadah dhateng menika."
 
 قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ
 
-**21:54** Piyambakipun matur, “Panjenengan lan tiyang sepuh panjenengan wonten ing kesasaran ingkang cetha.”
+**21:54** Piyambakipun matur, "Panjenengan lan tiyang sepuh panjenengan wonten ing kesasaran ingkang cetha."
 
 قَالَ لَقَدْ كُنتُمْ أَنتُمْ وَءَابَآؤُكُمْ فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
-**21:55** Piyambak-piyambakipun matur, “Menapa panjenengan matur kaleresan dhateng kawula, utawi panjenengan namung dolanan?”
+**21:55** Piyambak-piyambakipun matur, "Menapa panjenengan matur kaleresan dhateng kawula, utawi panjenengan namung dolanan?"
 
 قَالُوٓا۟ أَجِئْتَنَا بِٱلْحَقِّ أَمْ أَنتَ مِنَ ٱللَّٰعِبِينَ
 
-**21:56** Piyambakipun matur, “Pangeran panjenengan menika Pangeraning langit-langit lan bumi, Panjenenganipun ingkang nitahaken menika, lan kula nyekseni menika.
+**21:56** Piyambakipun matur, "Pangeran panjenengan menika Pangeraning langit-langit lan bumi, Panjenenganipun ingkang nitahaken menika, lan kula nyekseni menika.
 
 قَالَ بَل رَّبُّكُمْ رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ٱلَّذِى فَطَرَهُنَّ وَأَنَا۠ عَلَىٰ ذَٰلِكُم مِّنَ ٱلشَّٰهِدِينَ
 
-**21:57** “Demi Gusti Allah, kula badhe gadhah rancangan tumrap reca-reca panjenengan sasampunipun panjenengan kesah.”
+**21:57** "Demi Gusti Allah, kula badhe gadhah rancangan tumrap reca-reca panjenengan sasampunipun panjenengan kesah."
 
 وَتَٱللَّهِ لَأَكِيدَنَّ أَصْنَٰمَكُم بَعْدَ أَن تُوَلُّوا۟ مُدْبِرِينَ
 
@@ -10556,47 +10556,47 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَجَعَلَهُمْ جُذَٰذًا إِلَّا كَبِيرًۭا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ
 
-**21:59** Piyambak-piyambakipun ngendika, “Sinten ingkang nindakaken menika dhateng gusti-gusti kawula? Piyambakipun saestu satunggaling tiyang ingkang tumindak salah.”
+**21:59** Piyambak-piyambakipun ngendika, "Sinten ingkang nindakaken menika dhateng gusti-gusti kawula? Piyambakipun saestu satunggaling tiyang ingkang tumindak salah."
 
 قَالُوا۟ مَن فَعَلَ هَٰذَا بِـَٔالِهَتِنَآ إِنَّهُۥ لَمِنَ ٱلظَّٰلِمِينَ
 
-**21:60** Piyambak-piyambakipun ngendika, “Kawula mireng satunggaling pemuda nyebut piyambak-piyambakipun. Piyambakipun kasebut Ibrahim.”
+**21:60** Piyambak-piyambakipun ngendika, "Kawula mireng satunggaling pemuda nyebut piyambak-piyambakipun. Piyambakipun kasebut Ibrahim."
 
 قَالُوا۟ سَمِعْنَا فَتًۭى يَذْكُرُهُمْ يُقَالُ لَهُۥٓ إِبْرَٰهِيمُ
 
-**21:61** Piyambak-piyambakipun ngendika, “Beta piyambakipun dhateng sangajengipun mripatipun tiyang-tiyang, supados piyambak-piyambakipun saged nyekseni.”
+**21:61** Piyambak-piyambakipun ngendika, "Beta piyambakipun dhateng sangajengipun mripatipun tiyang-tiyang, supados piyambak-piyambakipun saged nyekseni."
 
 قَالُوا۟ فَأْتُوا۟ بِهِۦ عَلَىٰٓ أَعْيُنِ ٱلنَّاسِ لَعَلَّهُمْ يَشْهَدُونَ
 
-**21:62** Piyambak-piyambakipun ngendika, “Menapa panjenengan ingkang nindakaken menika dhateng gusti-gusti kawula, dhuh Ibrahim?”
+**21:62** Piyambak-piyambakipun ngendika, "Menapa panjenengan ingkang nindakaken menika dhateng gusti-gusti kawula, dhuh Ibrahim?"
 
 قَالُوٓا۟ ءَأَنتَ فَعَلْتَ هَٰذَا بِـَٔالِهَتِنَا يَٰٓإِبْرَٰهِيمُ
 
-**21:63** Piyambakipun matur, “Ananging ingkang ageng piyambak saking piyambak-piyambakipun ingkang nindakaken menika. Tangledna dhateng piyambak-piyambakipun, menawi piyambak-piyambakipun saged ngendika.”
+**21:63** Piyambakipun matur, "Ananging ingkang ageng piyambak saking piyambak-piyambakipun ingkang nindakaken menika. Tangledna dhateng piyambak-piyambakipun, menawi piyambak-piyambakipun saged ngendika."
 
 قَالَ بَلْ فَعَلَهُۥ كَبِيرُهُمْ هَٰذَا فَسْـَٔلُوهُمْ إِن كَانُوا۟ يَنطِقُونَ
 
-**21:64** Lajeng piyambak-piyambakipun sami ngenggok satunggal dhateng sanesipun, lan ngendika, “Panjenengan piyambak ingkang tumindak salah.”
+**21:64** Lajeng piyambak-piyambakipun sami ngenggok satunggal dhateng sanesipun, lan ngendika, "Panjenengan piyambak ingkang tumindak salah."
 
 فَرَجَعُوٓا۟ إِلَىٰٓ أَنفُسِهِمْ فَقَالُوٓا۟ إِنَّكُمْ أَنتُمُ ٱلظَّٰلِمُونَ
 
-**21:65** Ananging piyambak-piyambakipun wangsul dhateng pangintenipun ingkang lami: “Panjenengan saestu mangertos bilih menika mboten saged ngendika.”
+**21:65** Ananging piyambak-piyambakipun wangsul dhateng pangintenipun ingkang lami: "Panjenengan saestu mangertos bilih menika mboten saged ngendika."
 
 ثُمَّ نُكِسُوا۟ عَلَىٰ رُءُوسِهِمْ لَقَدْ عَلِمْتَ مَا هَٰٓؤُلَآءِ يَنطِقُونَ
 
-**21:66** Piyambakipun matur, “Menapa panjenengan ngibadah, kejawi Gusti Allah, menapa ingkang mboten saged paedah dhateng panjenengan lan mboten saged gawe cilaka dhateng panjenengan?
+**21:66** Piyambakipun matur, "Menapa panjenengan ngibadah, kejawi Gusti Allah, menapa ingkang mboten saged paedah dhateng panjenengan lan mboten saged gawe cilaka dhateng panjenengan?
 
 قَالَ أَفَتَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكُمْ شَيْـًۭٔا وَلَا يَضُرُّكُمْ
 
-**21:67** Cilaka panjenengan, lan menapa ingkang panjenengan sembah kejawi Gusti Allah. Menapa panjenengan mboten mangertos?”
+**21:67** Cilaka panjenengan, lan menapa ingkang panjenengan sembah kejawi Gusti Allah. Menapa panjenengan mboten mangertos?"
 
 أُفٍّۢ لَّكُمْ وَلِمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ ۖ أَفَلَا تَعْقِلُونَ
 
-**21:68** Piyambak-piyambakipun ngendika, “Obong piyambakipun lan biyantu gusti-gusti panjenengan, menawi panjenengan badhe tumindak.”
+**21:68** Piyambak-piyambakipun ngendika, "Obong piyambakipun lan biyantu gusti-gusti panjenengan, menawi panjenengan badhe tumindak."
 
 قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَٰعِلِينَ
 
-**21:69** Ingsun ngendika, “Dhuh geni, dadia adhem lan keslametan tumrap Ibrahim.”
+**21:69** Ingsun ngendika, "Dhuh geni, dadia adhem lan keslametan tumrap Ibrahim."
 
 قُلْنَا يَٰنَارُ كُونِى بَرْدًۭا وَسَلَٰمًا عَلَىٰٓ إِبْرَٰهِيمَ
 
@@ -10652,7 +10652,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمِنَ ٱلشَّيَٰطِينِ مَن يَغُوصُونَ لَهُۥ وَيَعْمَلُونَ عَمَلًۭا دُونَ ذَٰلِكَ ۖ وَكُنَّا لَهُمْ حَٰفِظِينَ
 
-**21:83** Lan Ayub, nalika piyambakipun nyuwun dhateng Pangeranipun: “Cilaka ageng sampun ndemek kula, lan Panjenengan ingkang Mahamurah saking ingkang mahamurah.”
+**21:83** Lan Ayub, nalika piyambakipun nyuwun dhateng Pangeranipun: "Cilaka ageng sampun ndemek kula, lan Panjenengan ingkang Mahamurah saking ingkang mahamurah."
 
 ۞ وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلضُّرُّ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ
 
@@ -10668,7 +10668,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَأَدْخَلْنَٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّٰلِحِينَ
 
-**21:87** Lan Yunus, nalika piyambakipun kesah kanthi duka, nyana Ingsun mboten gadhah kuwaos dhumateng piyambakipun. Ananging lajeng piyambakipun nyuwun wonten ing pepeteng, “Mboten wonten gusti kejawi Panjenengan! Maha Suci Panjenengan! Kula satunggaling tiyang ingkang tumindak salah!”
+**21:87** Lan Yunus, nalika piyambakipun kesah kanthi duka, nyana Ingsun mboten gadhah kuwaos dhumateng piyambakipun. Ananging lajeng piyambakipun nyuwun wonten ing pepeteng, "Mboten wonten gusti kejawi Panjenengan! Maha Suci Panjenengan! Kula satunggaling tiyang ingkang tumindak salah!"
 
 وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًۭا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ
 
@@ -10676,7 +10676,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَٱسْتَجَبْنَا لَهُۥ وَنَجَّيْنَٰهُ مِنَ ٱلْغَمِّ ۚ وَكَذَٰلِكَ نُۨجِى ٱلْمُؤْمِنِينَ
 
-**21:89** Lan Zakariya, nalika piyambakipun nyuwun dhateng Pangeranipun, “Dhuh Pangeran kula, sampun nilar kula piyambak, sanadyan Panjenengan ingkang Sae Piyambak saking ahli waris.”
+**21:89** Lan Zakariya, nalika piyambakipun nyuwun dhateng Pangeranipun, "Dhuh Pangeran kula, sampun nilar kula piyambak, sanadyan Panjenengan ingkang Sae Piyambak saking ahli waris."
 
 وَزَكَرِيَّآ إِذْ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرْنِى فَرْدًۭا وَأَنتَ خَيْرُ ٱلْوَٰرِثِينَ
 
@@ -10708,7 +10708,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 حَتَّىٰٓ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُم مِّن كُلِّ حَدَبٍۢ يَنسِلُونَ
 
-**21:97** Janji kaleresan sampun nyelak. Mripatipun tiyang-tiyang ingkang mboten pitados badhe ningali kanthi ajrih: “Cilaka kawula. Kawula lali dhateng menika. Sejatine, kawula tiyang ingkang tumindak salah.”
+**21:97** Janji kaleresan sampun nyelak. Mripatipun tiyang-tiyang ingkang mboten pitados badhe ningali kanthi ajrih: "Cilaka kawula. Kawula lali dhateng menika. Sejatine, kawula tiyang ingkang tumindak salah."
 
 وَٱقْتَرَبَ ٱلْوَعْدُ ٱلْحَقُّ فَإِذَا هِىَ شَٰخِصَةٌ أَبْصَٰرُ ٱلَّذِينَ كَفَرُوا۟ يَٰوَيْلَنَا قَدْ كُنَّا فِى غَفْلَةٍۢ مِّنْ هَٰذَا بَلْ كُنَّا ظَٰلِمِينَ
 
@@ -10732,7 +10732,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 لَا يَسْمَعُونَ حَسِيسَهَا ۖ وَهُمْ فِى مَا ٱشْتَهَتْ أَنفُسُهُمْ خَٰلِدُونَ
 
-**21:103** Ajrih Ageng mboten badhe ndadosaken piyambak-piyambakipun kuwatos, lan malaikat-malaikat badhe nampi piyambak-piyambakipun: “Menika Dinten panjenengan ingkang sampun kajanjekaken dhateng panjenengan.”
+**21:103** Ajrih Ageng mboten badhe ndadosaken piyambak-piyambakipun kuwatos, lan malaikat-malaikat badhe nampi piyambak-piyambakipun: "Menika Dinten panjenengan ingkang sampun kajanjekaken dhateng panjenengan."
 
 لَا يَحْزُنُهُمُ ٱلْفَزَعُ ٱلْأَكْبَرُ وَتَتَلَقَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ هَٰذَا يَوْمُكُمُ ٱلَّذِى كُنتُمْ تُوعَدُونَ
 
@@ -10752,11 +10752,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةًۭ لِّلْعَٰلَمِينَ
 
-**21:108** Matura, “Kawahyuaken dhateng kula bilih Gusti panjenengan menika Gusti Allah Setunggal. Menapa panjenengan badhe pasrah?”
+**21:108** Matura, "Kawahyuaken dhateng kula bilih Gusti panjenengan menika Gusti Allah Setunggal. Menapa panjenengan badhe pasrah?"
 
 قُلْ إِنَّمَا يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَٰهُكُمْ إِلَٰهٌۭ وَٰحِدٌۭ ۖ فَهَلْ أَنتُم مُّسْلِمُونَ
 
-**21:109** Ananging menawi piyambak-piyambakipun ngenggok, matura, “Kula sampun ngabaraken dhateng panjenengan kanthi cekap. Sanadyan kula mboten mangertos menapa ingkang kajanjekaken dhateng panjenengan celak utawi tebih.”
+**21:109** Ananging menawi piyambak-piyambakipun ngenggok, matura, "Kula sampun ngabaraken dhateng panjenengan kanthi cekap. Sanadyan kula mboten mangertos menapa ingkang kajanjekaken dhateng panjenengan celak utawi tebih."
 
 فَإِن تَوَلَّوْا۟ فَقُلْ ءَاذَنتُكُمْ عَلَىٰ سَوَآءٍۢ ۖ وَإِنْ أَدْرِىٓ أَقَرِيبٌ أَم بَعِيدٌۭ مَّا تُوعَدُونَ
 
@@ -10764,11 +10764,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ مِنَ ٱلْقَوْلِ وَيَعْلَمُ مَا تَكْتُمُونَ
 
-**21:111** “Lan kula mboten mangertos menapa mbokmenawi menika ujian tumrap panjenengan, lan kanikmatan sawetawis.”
+**21:111** "Lan kula mboten mangertos menapa mbokmenawi menika ujian tumrap panjenengan, lan kanikmatan sawetawis."
 
 وَإِنْ أَدْرِى لَعَلَّهُۥ فِتْنَةٌۭ لَّكُمْ وَمَتَٰعٌ إِلَىٰ حِينٍۢ
 
-**21:112** Piyambakipun matur, “Dhuh Pangeran kula, mangga ngadili kanthi adil.” Lan, “Pangeran kawula menika Kang Paring Paedah, ingkang pitulunganipun kasuwun nglawan menapa ingkang panjenengan tudhuhaken.”
+**21:112** Piyambakipun matur, "Dhuh Pangeran kula, mangga ngadili kanthi adil." Lan, "Pangeran kawula menika Kang Paring Paedah, ingkang pitulunganipun kasuwun nglawan menapa ingkang panjenengan tudhuhaken."
 
 قَٰلَ رَبِّ ٱحْكُم بِٱلْحَقِّ ۗ وَرَبُّنَا ٱلرَّحْمَٰنُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ
 
@@ -10870,7 +10870,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَهُم مَّقَٰمِعُ مِنْ حَدِيدٍۢ
 
-**22:22** Kapan kemawon piyambak-piyambakipun nyobi medal saking pepeteng, piyambak-piyambakipun badhe kawangsulaken dhateng menika: “Mangga ngraosaken kasangsaran kobong.”
+**22:22** Kapan kemawon piyambak-piyambakipun nyobi medal saking pepeteng, piyambak-piyambakipun badhe kawangsulaken dhateng menika: "Mangga ngraosaken kasangsaran kobong."
 
 كُلَّمَآ أَرَادُوٓا۟ أَن يَخْرُجُوا۟ مِنْهَا مِنْ غَمٍّ أُعِيدُوا۟ فِيهَا وَذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
 
@@ -10886,7 +10886,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلْمَسْجِدِ ٱلْحَرَامِ ٱلَّذِى جَعَلْنَٰهُ لِلنَّاسِ سَوَآءً ٱلْعَٰكِفُ فِيهِ وَٱلْبَادِ ۚ وَمَن يُرِدْ فِيهِ بِإِلْحَادٍۭ بِظُلْمٍۢ نُّذِقْهُ مِنْ عَذَابٍ أَلِيمٍۢ
 
-**22:26** Ingsun nedahaken dhateng Ibrahim panggenanipun Griya: “Sampun nyekutokaken menapa kemawon kaliyan Ingsun; lan sucekna Griya Ingsun tumrap tiyang-tiyang ingkang ngubengi, lan tiyang-tiyang ingkang jumeneng salat, lan tiyang-tiyang ingkang ruku' lan sujud.”
+**22:26** Ingsun nedahaken dhateng Ibrahim panggenanipun Griya: "Sampun nyekutokaken menapa kemawon kaliyan Ingsun; lan sucekna Griya Ingsun tumrap tiyang-tiyang ingkang ngubengi, lan tiyang-tiyang ingkang jumeneng salat, lan tiyang-tiyang ingkang ruku' lan sujud."
 
 وَإِذْ بَوَّأْنَا لِإِبْرَٰهِيمَ مَكَانَ ٱلْبَيْتِ أَن لَّا تُشْرِكْ بِى شَيْـًۭٔا وَطَهِّرْ بَيْتِىَ لِلطَّآئِفِينَ وَٱلْقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
 
@@ -10942,7 +10942,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أُذِنَ لِلَّذِينَ يُقَٰتَلُونَ بِأَنَّهُمْ ظُلِمُوا۟ ۚ وَإِنَّ ٱللَّهَ عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ
 
-**22:40** Tiyang-tiyang ingkang kaundhung kanthi mboten adil saking griyanipun, namung amargi matur, “Pangeran kawula menika Gusti Allah.” Menawi sanes amargi Gusti Allah nolak tiyang lumantar tiyang sanes: biara-biara, greja-greja, sinagoga-sinagoga, lan masjid-masjid — wonten ing ngriku asmanipun Gusti Allah kasebut kanthi kathah — mesthi sampun karubuhaken. Gusti Allah nulungi sinten kemawon ingkang nulungi Panjenenganipun. Gusti Allah Kiyat lan Kuwaos.
+**22:40** Tiyang-tiyang ingkang kaundhung kanthi mboten adil saking griyanipun, namung amargi matur, "Pangeran kawula menika Gusti Allah." Menawi sanes amargi Gusti Allah nolak tiyang lumantar tiyang sanes: biara-biara, greja-greja, sinagoga-sinagoga, lan masjid-masjid — wonten ing ngriku asmanipun Gusti Allah kasebut kanthi kathah — mesthi sampun karubuhaken. Gusti Allah nulungi sinten kemawon ingkang nulungi Panjenenganipun. Gusti Allah Kiyat lan Kuwaos.
 
 ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَٰرِهِم بِغَيْرِ حَقٍّ إِلَّآ أَن يَقُولُوا۟ رَبُّنَا ٱللَّهُ ۗ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍۢ لَّهُدِّمَتْ صَوَٰمِعُ وَبِيَعٌۭ وَصَلَوَٰتٌۭ وَمَسَٰجِدُ يُذْكَرُ فِيهَا ٱسْمُ ٱللَّهِ كَثِيرًۭا ۗ وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓ ۗ إِنَّ ٱللَّهَ لَقَوِىٌّ عَزِيزٌ
 
@@ -10978,7 +10978,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَكَأَيِّن مِّن قَرْيَةٍ أَمْلَيْتُ لَهَا وَهِىَ ظَالِمَةٌۭ ثُمَّ أَخَذْتُهَا وَإِلَىَّ ٱلْمَصِيرُ
 
-**22:49** Matura, “Dhuh para tiyang, kula namung juru pepenget ingkang cetha tumrap panjenengan.”
+**22:49** Matura, "Dhuh para tiyang, kula namung juru pepenget ingkang cetha tumrap panjenengan."
 
 قُلْ يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّمَآ أَنَا۠ لَكُمْ نَذِيرٌۭ مُّبِينٌۭ
 
@@ -11054,7 +11054,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 لِّكُلِّ أُمَّةٍۢ جَعَلْنَا مَنسَكًا هُمْ نَاسِكُوهُ ۖ فَلَا يُنَٰزِعُنَّكَ فِى ٱلْأَمْرِ ۚ وَٱدْعُ إِلَىٰ رَبِّكَ ۖ إِنَّكَ لَعَلَىٰ هُدًۭى مُّسْتَقِيمٍۢ
 
-**22:68** Ananging menawi piyambak-piyambakipun padudon kaliyan panjenengan, matura, “Gusti Allah mangertos kanthi temenan menapa ingkang panjenengan tindakaken.”
+**22:68** Ananging menawi piyambak-piyambakipun padudon kaliyan panjenengan, matura, "Gusti Allah mangertos kanthi temenan menapa ingkang panjenengan tindakaken."
 
 وَإِن جَٰدَلُوكَ فَقُلِ ٱللَّهُ أَعْلَمُ بِمَا تَعْمَلُونَ
 
@@ -11070,7 +11070,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَٰنًۭا وَمَا لَيْسَ لَهُم بِهِۦ عِلْمٌۭ ۗ وَمَا لِلظَّٰلِمِينَ مِن نَّصِيرٍۢ
 
-**22:72** Lan nalika Ayat-Ayat Ingsun ingkang Cetha kawacaaken dhateng piyambak-piyambakipun, panjenengan badhe mangertos raos jijik wonten ing pasuryanipun tiyang-tiyang ingkang mboten pitados. Piyambak-piyambakipun meh nyerang tiyang-tiyang ingkang macakaken Ayat-Ayat Ingsun dhateng piyambak-piyambakipun. Matura, “Menapa kula ngabaraken dhateng panjenengan barang ingkang langkung ala tinimbang menika? Geni! Gusti Allah sampun janji menika dhateng tiyang-tiyang ingkang mboten pitados. Lan saala-alanipun pungkasan!”
+**22:72** Lan nalika Ayat-Ayat Ingsun ingkang Cetha kawacaaken dhateng piyambak-piyambakipun, panjenengan badhe mangertos raos jijik wonten ing pasuryanipun tiyang-tiyang ingkang mboten pitados. Piyambak-piyambakipun meh nyerang tiyang-tiyang ingkang macakaken Ayat-Ayat Ingsun dhateng piyambak-piyambakipun. Matura, "Menapa kula ngabaraken dhateng panjenengan barang ingkang langkung ala tinimbang menika? Geni! Gusti Allah sampun janji menika dhateng tiyang-tiyang ingkang mboten pitados. Lan saala-alanipun pungkasan!"
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ تَعْرِفُ فِى وُجُوهِ ٱلَّذِينَ كَفَرُوا۟ ٱلْمُنكَرَ ۖ يَكَادُونَ يَسْطُونَ بِٱلَّذِينَ يَتْلُونَ عَلَيْهِمْ ءَايَٰتِنَا ۗ قُلْ أَفَأُنَبِّئُكُم بِشَرٍّۢ مِّن ذَٰلِكُمُ ۗ ٱلنَّارُ وَعَدَهَا ٱللَّهُ ٱلَّذِينَ كَفَرُوا۟ ۖ وَبِئْسَ ٱلْمَصِيرُ
 
@@ -12222,15 +12222,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
-**26:10** Pangeran panjenengan nimbali Musa, “Mangkat dhateng tiyang-tiyang ingkang dzalim punika.
+**26:10** Pangeran panjenengan nimbali Musa, "Mangkat dhateng tiyang-tiyang ingkang dzalim punika.
 
 وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**26:11** Tiyang-tiyangipun Fir'aun. Punapa piyambakipun boten ajrih?”
+**26:11** Tiyang-tiyangipun Fir'aun. Punapa piyambakipun boten ajrih?"
 
 قَوْمَ فِرْعَوْنَ ۚ أَلَا يَتَّقُونَ
 
-**26:12** Piyambakipun matur, “Dhuh Pangeran kula, kula ajrih piyambakipun badhe nolak kula.
+**26:12** Piyambakipun matur, "Dhuh Pangeran kula, kula ajrih piyambakipun badhe nolak kula.
 
 قَالَ رَبِّ إِنِّىٓ أَخَافُ أَن يُكَذِّبُونِ
 
@@ -12238,31 +12238,31 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَيَضِيقُ صَدْرِى وَلَا يَنطَلِقُ لِسَانِى فَأَرْسِلْ إِلَىٰ هَٰرُونَ
 
-**26:14** Lan piyambakipun gadhah dakwaan dhateng kula, pramila kula ajrih piyambakipun badhe mejahi kula.”
+**26:14** Lan piyambakipun gadhah dakwaan dhateng kula, pramila kula ajrih piyambakipun badhe mejahi kula."
 
 وَلَهُمْ عَلَىَّ ذَنۢبٌۭ فَأَخَافُ أَن يَقْتُلُونِ
 
-**26:15** Panjenenganipun ngendika, “Boten. Mangkat, panjenengan kekalih, kanthi bukti-bukti Kawula. Kawula badhe sesarengan kaliyan panjenengan, mirengaken.
+**26:15** Panjenenganipun ngendika, "Boten. Mangkat, panjenengan kekalih, kanthi bukti-bukti Kawula. Kawula badhe sesarengan kaliyan panjenengan, mirengaken.
 
 قَالَ كَلَّا ۖ فَٱذْهَبَا بِـَٔايَٰتِنَآ ۖ إِنَّا مَعَكُم مُّسْتَمِعُونَ
 
-**26:16** Mangkat dhateng Fir'aun, lan matur, ‘Kawula punika utusanipun Pangeranipun sadaya alam.
+**26:16** Mangkat dhateng Fir'aun, lan matur, 'Kawula punika utusanipun Pangeranipun sadaya alam.
 
 فَأْتِيَا فِرْعَوْنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلْعَٰلَمِينَ
 
-**26:17** Kintun Bani Israil sesarengan kaliyan kawula.'“
+**26:17** Kintun Bani Israil sesarengan kaliyan kawula.'"
 
 أَنْ أَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ
 
-**26:18** Piyambakipun ngendika, “Punapa kawula boten nggulawentah panjenengan wonten ing antawis kawula nalika taksih alit, lan panjenengan tetep wonten ing antawis kawula pinten-pinten taun yuswa panjenengan?
+**26:18** Piyambakipun ngendika, "Punapa kawula boten nggulawentah panjenengan wonten ing antawis kawula nalika taksih alit, lan panjenengan tetep wonten ing antawis kawula pinten-pinten taun yuswa panjenengan?
 
 قَالَ أَلَمْ نُرَبِّكَ فِينَا وَلِيدًۭا وَلَبِثْتَ فِينَا مِنْ عُمُرِكَ سِنِينَ
 
-**26:19** Lan panjenengan nindakaken tumindak ingkang panjenengan tindakaken punika, lan panjenengan boten ngaturaken panuwun.”
+**26:19** Lan panjenengan nindakaken tumindak ingkang panjenengan tindakaken punika, lan panjenengan boten ngaturaken panuwun."
 
 وَفَعَلْتَ فَعْلَتَكَ ٱلَّتِى فَعَلْتَ وَأَنتَ مِنَ ٱلْكَٰفِرِينَ
 
-**26:20** Piyambakipun matur, “Kula nindakaken punika nalika samanten, nalika kula kalebet tiyang ingkang kesasar.
+**26:20** Piyambakipun matur, "Kula nindakaken punika nalika samanten, nalika kula kalebet tiyang ingkang kesasar.
 
 قَالَ فَعَلْتُهَآ إِذًۭا وَأَنَا۠ مِنَ ٱلضَّآلِّينَ
 
@@ -12270,43 +12270,43 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَفَرَرْتُ مِنكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِى رَبِّى حُكْمًۭا وَجَعَلَنِى مِنَ ٱلْمُرْسَلِينَ
 
-**26:22** Punapa punika kanugrahan ingkang panjenengan undhat-undhat dhateng kula, sanadyan panjenengan sampun ngawulakaken Bani Israil?”
+**26:22** Punapa punika kanugrahan ingkang panjenengan undhat-undhat dhateng kula, sanadyan panjenengan sampun ngawulakaken Bani Israil?"
 
 وَتِلْكَ نِعْمَةٌۭ تَمُنُّهَا عَلَىَّ أَنْ عَبَّدتَّ بَنِىٓ إِسْرَٰٓءِيلَ
 
-**26:23** Fir'aun ngendika, “Lan punapa Pangeranipun sadaya alam punika?”
+**26:23** Fir'aun ngendika, "Lan punapa Pangeranipun sadaya alam punika?"
 
 قَالَ فِرْعَوْنُ وَمَا رَبُّ ٱلْعَٰلَمِينَ
 
-**26:24** Piyambakipun matur, “Pangeranipun langit lan bumi, lan sadaya ingkang wonten ing antawisipun, manawi panjenengan sadhar.”
+**26:24** Piyambakipun matur, "Pangeranipun langit lan bumi, lan sadaya ingkang wonten ing antawisipun, manawi panjenengan sadhar."
 
 قَالَ رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَآ ۖ إِن كُنتُم مُّوقِنِينَ
 
-**26:25** Piyambakipun ngendika dhateng tiyang-tiyang ing sakiwa-tengenipun, “Punapa panjenengan boten mireng?”
+**26:25** Piyambakipun ngendika dhateng tiyang-tiyang ing sakiwa-tengenipun, "Punapa panjenengan boten mireng?"
 
 قَالَ لِمَنْ حَوْلَهُۥٓ أَلَا تَسْتَمِعُونَ
 
-**26:26** Piyambakipun matur, “Pangeran panjenengan lan Pangeranipun para leluhur panjenengan ing jaman rumiyin.”
+**26:26** Piyambakipun matur, "Pangeran panjenengan lan Pangeranipun para leluhur panjenengan ing jaman rumiyin."
 
 قَالَ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ
 
-**26:27** Piyambakipun ngendika, “Utusan panjenengan punika, ingkang dipunutus dhateng panjenengan, punika edan.”
+**26:27** Piyambakipun ngendika, "Utusan panjenengan punika, ingkang dipunutus dhateng panjenengan, punika edan."
 
 قَالَ إِنَّ رَسُولَكُمُ ٱلَّذِىٓ أُرْسِلَ إِلَيْكُمْ لَمَجْنُونٌۭ
 
-**26:28** Piyambakipun matur, “Pangeranipun Wetan lan Kilen, lan sadaya ingkang wonten ing antawisipun, manawi panjenengan mangertos.”
+**26:28** Piyambakipun matur, "Pangeranipun Wetan lan Kilen, lan sadaya ingkang wonten ing antawisipun, manawi panjenengan mangertos."
 
 قَالَ رَبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَمَا بَيْنَهُمَآ ۖ إِن كُنتُمْ تَعْقِلُونَ
 
-**26:29** Piyambakipun ngendika, “Manawi panjenengan nampi gusti sanesipun kula, kula badhe ndadosaken panjenengan tahanan.”
+**26:29** Piyambakipun ngendika, "Manawi panjenengan nampi gusti sanesipun kula, kula badhe ndadosaken panjenengan tahanan."
 
 قَالَ لَئِنِ ٱتَّخَذْتَ إِلَٰهًا غَيْرِى لَأَجْعَلَنَّكَ مِنَ ٱلْمَسْجُونِينَ
 
-**26:30** Piyambakipun matur, “Punapa manawi kula beto satunggaling perkawis ingkang meyakinaken dhateng panjenengan?”
+**26:30** Piyambakipun matur, "Punapa manawi kula beto satunggaling perkawis ingkang meyakinaken dhateng panjenengan?"
 
 قَالَ أَوَلَوْ جِئْتُكَ بِشَىْءٍۢ مُّبِينٍۢ
 
-**26:31** Piyambakipun ngendika, “Betanipun, manawi panjenengan leres.”
+**26:31** Piyambakipun ngendika, "Betanipun, manawi panjenengan leres."
 
 قَالَ فَأْتِ بِهِۦٓ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 
@@ -12318,19 +12318,19 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ
 
-**26:34** Piyambakipun ngendika dhateng para pejabat ing sakiwa-tengenipun, “Punika tukang sihir ingkang ahli.
+**26:34** Piyambakipun ngendika dhateng para pejabat ing sakiwa-tengenipun, "Punika tukang sihir ingkang ahli.
 
 قَالَ لِلْمَلَإِ حَوْلَهُۥٓ إِنَّ هَٰذَا لَسَٰحِرٌ عَلِيمٌۭ
 
-**26:35** Piyambakipun gadhah maksud nundhung panjenengan medal saking negari panjenengan kanthi sihiripun, pramila punapa saran panjenengan?”
+**26:35** Piyambakipun gadhah maksud nundhung panjenengan medal saking negari panjenengan kanthi sihiripun, pramila punapa saran panjenengan?"
 
 يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِۦ فَمَاذَا تَأْمُرُونَ
 
-**26:36** Piyambakipun matur, “Tundha piyambakipun lan sadherekipun, lan utus para punggawa dhateng kitha-kitha.
+**26:36** Piyambakipun matur, "Tundha piyambakipun lan sadherekipun, lan utus para punggawa dhateng kitha-kitha.
 
 قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَٱبْعَثْ فِى ٱلْمَدَآئِنِ حَٰشِرِينَ
 
-**26:37** Kangge mbeta dhateng panjenengan saben tukang sihir ingkang sampun pengalaman.”
+**26:37** Kangge mbeta dhateng panjenengan saben tukang sihir ingkang sampun pengalaman."
 
 يَأْتُوكَ بِكُلِّ سَحَّارٍ عَلِيمٍۢ
 
@@ -12338,27 +12338,27 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَجُمِعَ ٱلسَّحَرَةُ لِمِيقَٰتِ يَوْمٍۢ مَّعْلُومٍۢ
 
-**26:39** Lan dipunngendikakaken dhateng tiyang-tiyang, “Punapa panjenengan sadaya sampun kempal?
+**26:39** Lan dipunngendikakaken dhateng tiyang-tiyang, "Punapa panjenengan sadaya sampun kempal?
 
 وَقِيلَ لِلنَّاسِ هَلْ أَنتُم مُّجْتَمِعُونَ
 
-**26:40** Supados kawula saged ndherek para tukang sihir, manawi piyambakipun ingkang menang.”
+**26:40** Supados kawula saged ndherek para tukang sihir, manawi piyambakipun ingkang menang."
 
 لَعَلَّنَا نَتَّبِعُ ٱلسَّحَرَةَ إِن كَانُوا۟ هُمُ ٱلْغَٰلِبِينَ
 
-**26:41** Nalika para tukang sihir dhateng, piyambakipun matur dhateng Fir'aun, “Punapa wonten ganjaran kangge kawula, manawi kawula ingkang menang?”
+**26:41** Nalika para tukang sihir dhateng, piyambakipun matur dhateng Fir'aun, "Punapa wonten ganjaran kangge kawula, manawi kawula ingkang menang?"
 
 فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالُوا۟ لِفِرْعَوْنَ أَئِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ ٱلْغَٰلِبِينَ
 
-**26:42** Piyambakipun ngendika, “Inggih, lan panjenengan badhe kalebet tiyang ingkang dipunkasihi.”
+**26:42** Piyambakipun ngendika, "Inggih, lan panjenengan badhe kalebet tiyang ingkang dipunkasihi."
 
 قَالَ نَعَمْ وَإِنَّكُمْ إِذًۭا لَّمِنَ ٱلْمُقَرَّبِينَ
 
-**26:43** Musa matur dhateng piyambakipun, “Tawakaken punapa ingkang panjenengan tuju badhe panjenengan tawakaken.”
+**26:43** Musa matur dhateng piyambakipun, "Tawakaken punapa ingkang panjenengan tuju badhe panjenengan tawakaken."
 
 قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ
 
-**26:44** Pramila piyambakipun nguncalaken tali lan tekenipun, lan matur, “Demi kaluhuranipun Fir'aun, kawula ingkang badhe menang.”
+**26:44** Pramila piyambakipun nguncalaken tali lan tekenipun, lan matur, "Demi kaluhuranipun Fir'aun, kawula ingkang badhe menang."
 
 فَأَلْقَوْا۟ حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا۟ بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ ٱلْغَٰلِبُونَ
 
@@ -12370,27 +12370,27 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَأُلْقِىَ ٱلسَّحَرَةُ سَٰجِدِينَ
 
-**26:47** Piyambakipun matur, “Kawula sampun pitados dhateng Pangeranipun sadaya alam.
+**26:47** Piyambakipun matur, "Kawula sampun pitados dhateng Pangeranipun sadaya alam.
 
 قَالُوٓا۟ ءَامَنَّا بِرَبِّ ٱلْعَٰلَمِينَ
 
-**26:48** Pangeranipun Musa lan Harun.”
+**26:48** Pangeranipun Musa lan Harun."
 
 رَبِّ مُوسَىٰ وَهَٰرُونَ
 
-**26:49** Piyambakipun ngendika, “Punapa panjenengan pitados dhateng Panjenenganipun sadurungipun kula maringi idin dhateng panjenengan? Panjenenganipun kedah dados pangarsanipun panjenengan, ingkang mulang sihir dhateng panjenengan. Panjenengan enggal badhe mangertos. Kula badhe ngethok asta lan suku panjenengan kanthi silang, lan kula badhe nyalib panjenengan sadaya.”
+**26:49** Piyambakipun ngendika, "Punapa panjenengan pitados dhateng Panjenenganipun sadurungipun kula maringi idin dhateng panjenengan? Panjenenganipun kedah dados pangarsanipun panjenengan, ingkang mulang sihir dhateng panjenengan. Panjenengan enggal badhe mangertos. Kula badhe ngethok asta lan suku panjenengan kanthi silang, lan kula badhe nyalib panjenengan sadaya."
 
 قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ ۖ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ فَلَسَوْفَ تَعْلَمُونَ ۚ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍۢ وَلَأُصَلِّبَنَّكُمْ أَجْمَعِينَ
 
-**26:50** Piyambakipun matur, “Boten dados punapa. Dhateng Pangeran kawula kawula badhe wang sul.
+**26:50** Piyambakipun matur, "Boten dados punapa. Dhateng Pangeran kawula kawula badhe wang sul.
 
 قَالُوا۟ لَا ضَيْرَ ۖ إِنَّآ إِلَىٰ رَبِّنَا مُنقَلِبُونَ
 
-**26:51** Kawula kepengin supados Pangeran kawula ngapura dosa-dosa kawula, awit kawula punika tiyang pitados ingkang wiwitan.”
+**26:51** Kawula kepengin supados Pangeran kawula ngapura dosa-dosa kawula, awit kawula punika tiyang pitados ingkang wiwitan."
 
 إِنَّا نَطْمَعُ أَن يَغْفِرَ لَنَا رَبُّنَا خَطَٰيَٰنَآ أَن كُنَّآ أَوَّلَ ٱلْمُؤْمِنِينَ
 
-**26:52** Lan Kawula maringi wahyu dhateng Musa: “Bidhal kaliyan para kawula Kawula ing wanci dalu. Panjenengan badhe dipuntuntut.”
+**26:52** Lan Kawula maringi wahyu dhateng Musa: "Bidhal kaliyan para kawula Kawula ing wanci dalu. Panjenengan badhe dipuntuntut."
 
 ۞ وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِىٓ إِنَّكُم مُّتَّبَعُونَ
 
@@ -12398,7 +12398,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَأَرْسَلَ فِرْعَوْنُ فِى ٱلْمَدَآئِنِ حَٰشِرِينَ
 
-**26:54** “Punika golongan alit.
+**26:54** "Punika golongan alit.
 
 إِنَّ هَٰٓؤُلَآءِ لَشِرْذِمَةٌۭ قَلِيلُونَ
 
@@ -12406,7 +12406,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَإِنَّهُمْ لَنَا لَغَآئِظُونَ
 
-**26:56** Nanging kawula punika tiyang kathah ingkang waspada.”
+**26:56** Nanging kawula punika tiyang kathah ingkang waspada."
 
 وَإِنَّا لَجَمِيعٌ حَٰذِرُونَ
 
@@ -12426,15 +12426,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَأَتْبَعُوهُم مُّشْرِقِينَ
 
-**26:61** Nalika kekalih golongan saling ningali, para pandherekipun Musa matur, “Kawula dipunusul.”
+**26:61** Nalika kekalih golongan saling ningali, para pandherekipun Musa matur, "Kawula dipunusul."
 
 فَلَمَّا تَرَٰٓءَا ٱلْجَمْعَانِ قَالَ أَصْحَٰبُ مُوسَىٰٓ إِنَّا لَمُدْرَكُونَ
 
-**26:62** Piyambakipun matur, “Boten; Pangeran kula sesarengan kaliyan kula, Panjenenganipun badhe nuntun kula.”
+**26:62** Piyambakipun matur, "Boten; Pangeran kula sesarengan kaliyan kula, Panjenenganipun badhe nuntun kula."
 
 قَالَ كَلَّآ ۖ إِنَّ مَعِىَ رَبِّى سَيَهْدِينِ
 
-**26:63** Kawula maringi wahyu dhateng Musa: “Gebuk segara kanthi teken panjenengan.” Lajeng segara sigar, lan saben perangan dados kados redi ageng.
+**26:63** Kawula maringi wahyu dhateng Musa: "Gebuk segara kanthi teken panjenengan." Lajeng segara sigar, lan saben perangan dados kados redi ageng.
 
 فَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْبَحْرَ ۖ فَٱنفَلَقَ فَكَانَ كُلُّ فِرْقٍۢ كَٱلطَّوْدِ ٱلْعَظِيمِ
 
@@ -12462,27 +12462,27 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَٱتْلُ عَلَيْهِمْ نَبَأَ إِبْرَٰهِيمَ
 
-**26:70** Nalika piyambakipun matur dhateng bapanipun lan kaumipun, “Punapa ingkang panjenengan sembah?”
+**26:70** Nalika piyambakipun matur dhateng bapanipun lan kaumipun, "Punapa ingkang panjenengan sembah?"
 
 إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا تَعْبُدُونَ
 
-**26:71** Piyambakipun matur, “Kawula nyembah reca-reca, lan kawula tetep setya dhateng punika.”
+**26:71** Piyambakipun matur, "Kawula nyembah reca-reca, lan kawula tetep setya dhateng punika."
 
 قَالُوا۟ نَعْبُدُ أَصْنَامًۭا فَنَظَلُّ لَهَا عَٰكِفِينَ
 
-**26:72** Piyambakipun matur, “Punapa piyambakipun mireng panjenengan nalika panjenengan dedonga?
+**26:72** Piyambakipun matur, "Punapa piyambakipun mireng panjenengan nalika panjenengan dedonga?
 
 قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَدْعُونَ
 
-**26:73** Utawi punapa piyambakipun maringi manfaat dhateng panjenengan, utawi mbebayani panjenengan?”
+**26:73** Utawi punapa piyambakipun maringi manfaat dhateng panjenengan, utawi mbebayani panjenengan?"
 
 أَوْ يَنفَعُونَكُمْ أَوْ يَضُرُّونَ
 
-**26:74** Piyambakipun matur, “Nanging kawula manggihaken leluhur kawula nindakaken makaten.”
+**26:74** Piyambakipun matur, "Nanging kawula manggihaken leluhur kawula nindakaken makaten."
 
 قَالُوا۟ بَلْ وَجَدْنَآ ءَابَآءَنَا كَذَٰلِكَ يَفْعَلُونَ
 
-**26:75** Piyambakipun matur, “Punapa panjenengan sampun nimbang punapa ingkang panjenengan sembah.
+**26:75** Piyambakipun matur, "Punapa panjenengan sampun nimbang punapa ingkang panjenengan sembah.
 
 قَالَ أَفَرَءَيْتُم مَّا كُنتُمْ تَعْبُدُونَ
 
@@ -12510,11 +12510,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَٱلَّذِى يُمِيتُنِى ثُمَّ يُحْيِينِ
 
-**26:82** Panjenenganipun ingkang, kula ajeng-ajeng, badhe ngapura dosa-dosa kula ing Dinten Pengadilan.”
+**26:82** Panjenenganipun ingkang, kula ajeng-ajeng, badhe ngapura dosa-dosa kula ing Dinten Pengadilan."
 
 وَٱلَّذِىٓ أَطْمَعُ أَن يَغْفِرَ لِى خَطِيٓـَٔتِى يَوْمَ ٱلدِّينِ
 
-**26:83** “Dhuh Pangeran kula! Paringi kula kawicaksanan, lan lebokaken kula sesarengan kaliyan tiyang ingkang sholeh.
+**26:83** "Dhuh Pangeran kula! Paringi kula kawicaksanan, lan lebokaken kula sesarengan kaliyan tiyang ingkang sholeh.
 
 رَبِّ هَبْ لِى حُكْمًۭا وَأَلْحِقْنِى بِٱلصَّٰلِحِينَ
 
@@ -12538,7 +12538,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 يَوْمَ لَا يَنفَعُ مَالٌۭ وَلَا بَنُونَ
 
-**26:89** Kajawi tiyang ingkang dhateng dhateng Gusti Allah kanthi manah ingkang salamet.”
+**26:89** Kajawi tiyang ingkang dhateng dhateng Gusti Allah kanthi manah ingkang salamet."
 
 إِلَّا مَنْ أَتَى ٱللَّهَ بِقَلْبٍۢ سَلِيمٍۢ
 
@@ -12550,11 +12550,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَبُرِّزَتِ ٱلْجَحِيمُ لِلْغَاوِينَ
 
-**26:92** Lan badhe dipunngendikakaken dhateng piyambakipun, “Pundi tiyang ingkang biyen panjenengan sembah?”
+**26:92** Lan badhe dipunngendikakaken dhateng piyambakipun, "Pundi tiyang ingkang biyen panjenengan sembah?"
 
 وَقِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تَعْبُدُونَ
 
-**26:93** Sanedipun Gusti Allah? Punapa piyambakipun saged nulungi panjenengan, utawi nulungi dhirinipun piyambak?”
+**26:93** Sanedipun Gusti Allah? Punapa piyambakipun saged nulungi panjenengan, utawi nulungi dhirinipun piyambak?"
 
 مِن دُونِ ٱللَّهِ هَلْ يَنصُرُونَكُمْ أَوْ يَنتَصِرُونَ
 
@@ -12570,7 +12570,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 قَالُوا۟ وَهُمْ فِيهَا يَخْتَصِمُونَ
 
-**26:97** “Demi Gusti Allah, kawula wonten ing kasasaran ingkang cetha.
+**26:97** "Demi Gusti Allah, kawula wonten ing kasasaran ingkang cetha.
 
 تَٱللَّهِ إِن كُنَّا لَفِى ضَلَٰلٍۢ مُّبِينٍ
 
@@ -12590,7 +12590,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَا صَدِيقٍ حَمِيمٍۢ
 
-**26:102** Manawi kemawon kawula saged gadhah kesempatan malih, kawula badhe kalebet tiyang ingkang setya.”
+**26:102** Manawi kemawon kawula saged gadhah kesempatan malih, kawula badhe kalebet tiyang ingkang setya."
 
 فَلَوْ أَنَّ لَنَا كَرَّةًۭ فَنَكُونَ مِنَ ٱلْمُؤْمِنِينَ
 
@@ -12606,7 +12606,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 كَذَّبَتْ قَوْمُ نُوحٍ ٱلْمُرْسَلِينَ
 
-**26:106** Sadherekipun Nuh matur dhateng piyambakipun, “Punapa panjenengan boten ajrih?
+**26:106** Sadherekipun Nuh matur dhateng piyambakipun, "Punapa panjenengan boten ajrih?
 
 إِذْ قَالَ لَهُمْ أَخُوهُمْ نُوحٌ أَلَا تَتَّقُونَ
 
@@ -12622,15 +12622,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَٰلَمِينَ
 
-**26:110** Pramila ajrih dhateng Gusti Allah, lan manut dhateng kula.”
+**26:110** Pramila ajrih dhateng Gusti Allah, lan manut dhateng kula."
 
 فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ
 
-**26:111** Piyambakipun matur, “Punapa kawula badhe pitados dhateng panjenengan, nalika ingkang ndherek panjenengan punika tiyang ingkang asor piyambak?”
+**26:111** Piyambakipun matur, "Punapa kawula badhe pitados dhateng panjenengan, nalika ingkang ndherek panjenengan punika tiyang ingkang asor piyambak?"
 
 ۞ قَالُوٓا۟ أَنُؤْمِنُ لَكَ وَٱتَّبَعَكَ ٱلْأَرْذَلُونَ
 
-**26:112** Piyambakipun matur, “Punapa ingkang kula mangertos ngengingi punapa ingkang piyambakipun tindakaken?
+**26:112** Piyambakipun matur, "Punapa ingkang kula mangertos ngengingi punapa ingkang piyambakipun tindakaken?
 
 قَالَ وَمَا عِلْمِى بِمَا كَانُوا۟ يَعْمَلُونَ
 
@@ -12642,19 +12642,19 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمَآ أَنَا۠ بِطَارِدِ ٱلْمُؤْمِنِينَ
 
-**26:115** Kula namung pepeling ingkang cetha.”
+**26:115** Kula namung pepeling ingkang cetha."
 
 إِنْ أَنَا۠ إِلَّا نَذِيرٌۭ مُّبِينٌۭ
 
-**26:116** Piyambakipun matur, “Manawi panjenengan boten kendel, dhuh Nuh, panjenengan badhe dibenturi watu.”
+**26:116** Piyambakipun matur, "Manawi panjenengan boten kendel, dhuh Nuh, panjenengan badhe dibenturi watu."
 
 قَالُوا۟ لَئِن لَّمْ تَنتَهِ يَٰنُوحُ لَتَكُونَنَّ مِنَ ٱلْمَرْجُومِينَ
 
-**26:117** Piyambakipun matur, “Dhuh Pangeran kula, kaum kula sampun nolak kula.
+**26:117** Piyambakipun matur, "Dhuh Pangeran kula, kaum kula sampun nolak kula.
 
 قَالَ رَبِّ إِنَّ قَوْمِى كَذَّبُونِ
 
-**26:118** Pramila paringi putusan antawis kula lan piyambakipun kanthi tegas, lan luwaraken kula lan tiyang pitados ingkang sesarengan kaliyan kula.”
+**26:118** Pramila paringi putusan antawis kula lan piyambakipun kanthi tegas, lan luwaraken kula lan tiyang pitados ingkang sesarengan kaliyan kula."
 
 فَٱفْتَحْ بَيْنِى وَبَيْنَهُمْ فَتْحًۭا وَنَجِّنِى وَمَن مَّعِىَ مِنَ ٱلْمُؤْمِنِينَ
 
@@ -12678,7 +12678,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 كَذَّبَتْ عَادٌ ٱلْمُرْسَلِينَ
 
-**26:124** Nalika sadherekipun Hud matur dhateng piyambakipun, “Punapa panjenengan boten ajrih?
+**26:124** Nalika sadherekipun Hud matur dhateng piyambakipun, "Punapa panjenengan boten ajrih?
 
 إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ أَلَا تَتَّقُونَ
 
@@ -12722,11 +12722,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَجَنَّٰتٍۢ وَعُيُونٍ
 
-**26:135** Kula ajrih kangge panjenengan siksaning Dinten ingkang nggegirisi.”
+**26:135** Kula ajrih kangge panjenengan siksaning Dinten ingkang nggegirisi."
 
 إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍۢ
 
-**26:136** Piyambakipun matur, “Punika sami kemawon kangge kawula, punapa panjenengan mulang kawula, utawi boten mulang.
+**26:136** Piyambakipun matur, "Punika sami kemawon kangge kawula, punapa panjenengan mulang kawula, utawi boten mulang.
 
 قَالُوا۟ سَوَآءٌ عَلَيْنَآ أَوَعَظْتَ أَمْ لَمْ تَكُن مِّنَ ٱلْوَٰعِظِينَ
 
@@ -12734,7 +12734,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِنْ هَٰذَآ إِلَّا خُلُقُ ٱلْأَوَّلِينَ
 
-**26:138** Lan kawula boten badhe dipunsiksa.”
+**26:138** Lan kawula boten badhe dipunsiksa."
 
 وَمَا نَحْنُ بِمُعَذَّبِينَ
 
@@ -12750,7 +12750,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 كَذَّبَتْ ثَمُودُ ٱلْمُرْسَلِينَ
 
-**26:142** Nalika sadherekipun Salih matur dhateng piyambakipun, “Punapa panjenengan boten ajrih?
+**26:142** Nalika sadherekipun Salih matur dhateng piyambakipun, "Punapa panjenengan boten ajrih?
 
 إِذْ قَالَ لَهُمْ أَخُوهُمْ صَٰلِحٌ أَلَا تَتَّقُونَ
 
@@ -12790,11 +12790,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَا تُطِيعُوٓا۟ أَمْرَ ٱلْمُسْرِفِينَ
 
-**26:152** Ingkang nyebar kekacauan wonten ing bumi, lan boten ndandosi.”
+**26:152** Ingkang nyebar kekacauan wonten ing bumi, lan boten ndandosi."
 
 ٱلَّذِينَ يُفْسِدُونَ فِى ٱلْأَرْضِ وَلَا يُصْلِحُونَ
 
-**26:153** Piyambakipun matur, “Panjenengan satuhu setunggal saking tiyang ingkang kena sihir.
+**26:153** Piyambakipun matur, "Panjenengan satuhu setunggal saking tiyang ingkang kena sihir.
 
 قَالُوٓا۟ إِنَّمَآ أَنتَ مِنَ ٱلْمُسَحَّرِينَ
 
@@ -12802,11 +12802,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 
-**26:155** Piyambakipun matur, “Punika unta wadon; piyambakipun gadhah giliran ngunjuk, lan panjenengan gadhah giliran ngunjuk—ing dinten ingkang sampun dipuntemtokaken.
+**26:155** Piyambakipun matur, "Punika unta wadon; piyambakipun gadhah giliran ngunjuk, lan panjenengan gadhah giliran ngunjuk—ing dinten ingkang sampun dipuntemtokaken.
 
 قَالَ هَٰذِهِۦ نَاقَةٌۭ لَّهَا شِرْبٌۭ وَلَكُمْ شِرْبُ يَوْمٍۢ مَّعْلُومٍۢ
 
-**26:156** Lan sampun ngantos ngemek piyambakipun kanthi mbebayani, mundhak siksaning dinten ageng ngrebut panjenengan.”
+**26:156** Lan sampun ngantos ngemek piyambakipun kanthi mbebayani, mundhak siksaning dinten ageng ngrebut panjenengan."
 
 وَلَا تَمَسُّوهَا بِسُوٓءٍۢ فَيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظِيمٍۢ
 
@@ -12826,7 +12826,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 كَذَّبَتْ قَوْمُ لُوطٍ ٱلْمُرْسَلِينَ
 
-**26:161** Nalika sadherekipun Luth matur dhateng piyambakipun, “Punapa panjenengan boten ajrih?
+**26:161** Nalika sadherekipun Luth matur dhateng piyambakipun, "Punapa panjenengan boten ajrih?
 
 إِذْ قَالَ لَهُمْ أَخُوهُمْ لُوطٌ أَلَا تَتَّقُونَ
 
@@ -12846,19 +12846,19 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَتَأْتُونَ ٱلذُّكْرَانَ مِنَ ٱلْعَٰلَمِينَ
 
-**26:166** Lan nilar garwa-garwa ingkang Pangeran panjenengan titahaken kangge panjenengan? Satuhu, panjenengan punika tiyang ingkang ngluwihi wates.”
+**26:166** Lan nilar garwa-garwa ingkang Pangeran panjenengan titahaken kangge panjenengan? Satuhu, panjenengan punika tiyang ingkang ngluwihi wates."
 
 وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُم مِّنْ أَزْوَٰجِكُم ۚ بَلْ أَنتُمْ قَوْمٌ عَادُونَ
 
-**26:167** Piyambakipun matur, “Manawi panjenengan boten kendel, dhuh Luth, panjenengan badhe dipunundhung.”
+**26:167** Piyambakipun matur, "Manawi panjenengan boten kendel, dhuh Luth, panjenengan badhe dipunundhung."
 
 قَالُوا۟ لَئِن لَّمْ تَنتَهِ يَٰلُوطُ لَتَكُونَنَّ مِنَ ٱلْمُخْرَجِينَ
 
-**26:168** Piyambakipun matur, “Kula satemenipun gething dhateng tumindak panjenengan.”
+**26:168** Piyambakipun matur, "Kula satemenipun gething dhateng tumindak panjenengan."
 
 قَالَ إِنِّى لِعَمَلِكُم مِّنَ ٱلْقَالِينَ
 
-**26:169** “Dhuh Pangeran kula, luwaraken kula lan kulawarga kula saking punapa ingkang piyambakipun tindakaken.”
+**26:169** "Dhuh Pangeran kula, luwaraken kula lan kulawarga kula saking punapa ingkang piyambakipun tindakaken."
 
 رَبِّ نَجِّنِى وَأَهْلِى مِمَّا يَعْمَلُونَ
 
@@ -12890,7 +12890,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 كَذَّبَ أَصْحَٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ
 
-**26:177** Nalika Syu'aib matur dhateng piyambakipun, “Punapa panjenengan boten ajrih?
+**26:177** Nalika Syu'aib matur dhateng piyambakipun, "Punapa panjenengan boten ajrih?
 
 إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ
 
@@ -12918,11 +12918,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
 
-**26:184** Lan ajrih dhateng Panjenenganipun ingkang nitahaken panjenengan lan tiyang kathah ing jaman rumiyin.”
+**26:184** Lan ajrih dhateng Panjenenganipun ingkang nitahaken panjenengan lan tiyang kathah ing jaman rumiyin."
 
 وَٱتَّقُوا۟ ٱلَّذِى خَلَقَكُمْ وَٱلْجِبِلَّةَ ٱلْأَوَّلِينَ
 
-**26:185** Piyambakipun matur, “Panjenengan punika setunggal saking tiyang ingkang kena sihir.
+**26:185** Piyambakipun matur, "Panjenengan punika setunggal saking tiyang ingkang kena sihir.
 
 قَالُوٓا۟ إِنَّمَآ أَنتَ مِنَ ٱلْمُسَحَّرِينَ
 
@@ -12930,11 +12930,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا وَإِن نَّظُنُّكَ لَمِنَ ٱلْكَٰذِبِينَ
 
-**26:187** Pramila dhawahaken dhateng kawula perangan saking langit, manawi panjenengan leres.”
+**26:187** Pramila dhawahaken dhateng kawula perangan saking langit, manawi panjenengan leres."
 
 فَأَسْقِطْ عَلَيْنَا كِسَفًۭا مِّنَ ٱلسَّمَآءِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 
-**26:188** Piyambakipun matur, “Pangeran kula Mangertos kanthi sae punapa ingkang panjenengan tindakaken.”
+**26:188** Piyambakipun matur, "Pangeran kula Mangertos kanthi sae punapa ingkang panjenengan tindakaken."
 
 قَالَ رَبِّىٓ أَعْلَمُ بِمَا تَعْمَلُونَ
 
@@ -12994,7 +12994,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَيَأْتِيَهُم بَغْتَةًۭ وَهُمْ لَا يَشْعُرُونَ
 
-**26:203** Lajeng piyambakipun badhe matur, “Punapa kawula dipunparingi wekdal?”
+**26:203** Lajeng piyambakipun badhe matur, "Punapa kawula dipunparingi wekdal?"
 
 فَيَقُولُوا۟ هَلْ نَحْنُ مُنظَرُونَ
 
@@ -13046,7 +13046,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَٱخْفِضْ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ
 
-**26:216** Lan manawi piyambakipun boten manut dhateng panjenengan, matur, “Kula resik saking punapa ingkang panjenengan tindakaken.”
+**26:216** Lan manawi piyambakipun boten manut dhateng panjenengan, matur, "Kula resik saking punapa ingkang panjenengan tindakaken."
 
 فَإِنْ عَصَوْكَ فَقُلْ إِنِّى بَرِىٓءٌۭ مِّمَّا تَعْمَلُونَ
 
@@ -13130,11 +13130,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَإِنَّكَ لَتُلَقَّى ٱلْقُرْءَانَ مِن لَّدُنْ حَكِيمٍ عَلِيمٍ
 
-**27:7** Nalika Musa matur dhateng kulawarganipun, “Kula sampun ningali geni. Kula badhe mbeta pawartos saking punika dhateng panjenengan; utawi mbeta obor, supados panjenengan saged anget.”
+**27:7** Nalika Musa matur dhateng kulawarganipun, "Kula sampun ningali geni. Kula badhe mbeta pawartos saking punika dhateng panjenengan; utawi mbeta obor, supados panjenengan saged anget."
 
 إِذْ قَالَ مُوسَىٰ لِأَهْلِهِۦٓ إِنِّىٓ ءَانَسْتُ نَارًۭا سَـَٔاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ ءَاتِيكُم بِشِهَابٍۢ قَبَسٍۢ لَّعَلَّكُمْ تَصْطَلُونَ
 
-**27:8** Lajeng, nalika piyambakipun dugi ing ngriku, piyambakipun dipuntimbali: “Kabinaringan Panjenenganipun ingkang wonten ing lebet geni, lan Panjenenganipun ingkang wonten ing sakiwa-tengenipun, lan Mahasuci Gusti Allah, Pangeranipun sadaya alam.
+**27:8** Lajeng, nalika piyambakipun dugi ing ngriku, piyambakipun dipuntimbali: "Kabinaringan Panjenenganipun ingkang wonten ing lebet geni, lan Panjenenganipun ingkang wonten ing sakiwa-tengenipun, lan Mahasuci Gusti Allah, Pangeranipun sadaya alam.
 
 فَلَمَّا جَآءَهَا نُودِىَ أَنۢ بُورِكَ مَن فِى ٱلنَّارِ وَمَنْ حَوْلَهَا وَسُبْحَٰنَ ٱللَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
@@ -13142,7 +13142,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 يَٰمُوسَىٰٓ إِنَّهُۥٓ أَنَا ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**27:10** Uncalaken teken panjenengan.” Nanging nalika piyambakipun ningali teken punika obah, kados-kados punika setan, piyambakipun minger tanpa nolih. “Dhuh Musa, sampun ajrih; para utusan boten ajrih wonten ing ngarsaning Kawula.
+**27:10** Uncalaken teken panjenengan." Nanging nalika piyambakipun ningali teken punika obah, kados-kados punika setan, piyambakipun minger tanpa nolih. "Dhuh Musa, sampun ajrih; para utusan boten ajrih wonten ing ngarsaning Kawula.
 
 وَأَلْقِ عَصَاكَ ۚ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّۭ وَلَّىٰ مُدْبِرًۭا وَلَمْ يُعَقِّبْ ۚ يَٰمُوسَىٰ لَا تَخَفْ إِنِّى لَا يَخَافُ لَدَىَّ ٱلْمُرْسَلُونَ
 
@@ -13150,11 +13150,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِلَّا مَن ظَلَمَ ثُمَّ بَدَّلَ حُسْنًۢا بَعْدَ سُوٓءٍۢ فَإِنِّى غَفُورٌۭ رَّحِيمٌۭ
 
-**27:12** Lebokaken asta panjenengan dhateng lebet kanthong panjenengan, lan badhe medal pethak, tanpa cacad—wonten ing antawis sanga mukjijat dhateng Fir'aun lan kaumipun, awit piyambakipun punika tiyang ingkang duraka.”
+**27:12** Lebokaken asta panjenengan dhateng lebet kanthong panjenengan, lan badhe medal pethak, tanpa cacad—wonten ing antawis sanga mukjijat dhateng Fir'aun lan kaumipun, awit piyambakipun punika tiyang ingkang duraka."
 
 وَأَدْخِلْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍۢ ۖ فِى تِسْعِ ءَايَٰتٍ إِلَىٰ فِرْعَوْنَ وَقَوْمِهِۦٓ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًۭا فَٰسِقِينَ
 
-**27:13** Nanging nalika tandha-tandha Kawula ingkang madhangi dhateng dhateng piyambakipun, piyambakipun matur, “Punika sihir ingkang cetha.”
+**27:13** Nanging nalika tandha-tandha Kawula ingkang madhangi dhateng dhateng piyambakipun, piyambakipun matur, "Punika sihir ingkang cetha."
 
 فَلَمَّا جَآءَتْهُمْ ءَايَٰتُنَا مُبْصِرَةًۭ قَالُوا۟ هَٰذَا سِحْرٌۭ مُّبِينٌۭ
 
@@ -13162,11 +13162,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَجَحَدُوا۟ بِهَا وَٱسْتَيْقَنَتْهَآ أَنفُسُهُمْ ظُلْمًۭا وَعُلُوًّۭا ۚ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُفْسِدِينَ
 
-**27:15** Lan Kawula maringi Dawud lan Sulaiman kawruh. Piyambakipun matur, “Segala puji Gusti Allah, ingkang sampun ngutamakaken kawula nglangkungi kathah kawula Panjenenganipun ingkang pitados.”
+**27:15** Lan Kawula maringi Dawud lan Sulaiman kawruh. Piyambakipun matur, "Segala puji Gusti Allah, ingkang sampun ngutamakaken kawula nglangkungi kathah kawula Panjenenganipun ingkang pitados."
 
 وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ وَسُلَيْمَٰنَ عِلْمًۭا ۖ وَقَالَا ٱلْحَمْدُ لِلَّهِ ٱلَّذِى فَضَّلَنَا عَلَىٰ كَثِيرٍۢ مِّنْ عِبَادِهِ ٱلْمُؤْمِنِينَ
 
-**27:16** Lan Sulaiman nggantos Dawud. Piyambakipun matur, “Dhuh tiyang-tiyang, kawula dipunwulang basa peksi, lan kawula dipunparingi saking sadaya perkawis. Punika satuhu kanugrahan ingkang nyata.”
+**27:16** Lan Sulaiman nggantos Dawud. Piyambakipun matur, "Dhuh tiyang-tiyang, kawula dipunwulang basa peksi, lan kawula dipunparingi saking sadaya perkawis. Punika satuhu kanugrahan ingkang nyata."
 
 وَوَرِثَ سُلَيْمَٰنُ دَاوُۥدَ ۖ وَقَالَ يَٰٓأَيُّهَا ٱلنَّاسُ عُلِّمْنَا مَنطِقَ ٱلطَّيْرِ وَأُوتِينَا مِن كُلِّ شَىْءٍ ۖ إِنَّ هَٰذَا لَهُوَ ٱلْفَضْلُ ٱلْمُبِينُ
 
@@ -13174,23 +13174,23 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَحُشِرَ لِسُلَيْمَٰنَ جُنُودُهُۥ مِنَ ٱلْجِنِّ وَٱلْإِنسِ وَٱلطَّيْرِ فَهُمْ يُوزَعُونَ
 
-**27:18** Ngantos, nalika piyambakipun dugi ing Lembah Semut, setunggal semut matur, “Dhuh semut-semut! Lumebet dhateng susuh panjenengan, mundhak Sulaiman lan wadyabalanipun ngremuk panjenengan tanpa nggatosaken.”
+**27:18** Ngantos, nalika piyambakipun dugi ing Lembah Semut, setunggal semut matur, "Dhuh semut-semut! Lumebet dhateng susuh panjenengan, mundhak Sulaiman lan wadyabalanipun ngremuk panjenengan tanpa nggatosaken."
 
 حَتَّىٰٓ إِذَآ أَتَوْا۟ عَلَىٰ وَادِ ٱلنَّمْلِ قَالَتْ نَمْلَةٌۭ يَٰٓأَيُّهَا ٱلنَّمْلُ ٱدْخُلُوا۟ مَسَٰكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَٰنُ وَجُنُودُهُۥ وَهُمْ لَا يَشْعُرُونَ
 
-**27:19** Piyambakipun mesem lan ngguyu mireng pangandikanipun, lan matur, “Dhuh Pangeran kula, tuntun kula supados ngaturaken panuwun kangge kanugrahan ingkang Panjenengan paringaken dhateng kula lan dhateng tiyang sepuh kula, lan supados nindakaken tumindak sae ingkang ndadosaken Panjenengan rena. Lan lebokaken kula, kanthi rahmat Panjenengan, dhateng golonganipun para kawula Panjenengan ingkang sholeh.”
+**27:19** Piyambakipun mesem lan ngguyu mireng pangandikanipun, lan matur, "Dhuh Pangeran kula, tuntun kula supados ngaturaken panuwun kangge kanugrahan ingkang Panjenengan paringaken dhateng kula lan dhateng tiyang sepuh kula, lan supados nindakaken tumindak sae ingkang ndadosaken Panjenengan rena. Lan lebokaken kula, kanthi rahmat Panjenengan, dhateng golonganipun para kawula Panjenengan ingkang sholeh."
 
 فَتَبَسَّمَ ضَاحِكًۭا مِّن قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًۭا تَرْضَىٰهُ وَأَدْخِلْنِى بِرَحْمَتِكَ فِى عِبَادِكَ ٱلصَّٰلِحِينَ
 
-**27:20** Lajeng piyambakipun mriksa peksi-peksi, lan matur, “Kenging punapa kula boten ningali hudhud? Utawi punapa piyambakipun kalebet tiyang ingkang absen?
+**27:20** Lajeng piyambakipun mriksa peksi-peksi, lan matur, "Kenging punapa kula boten ningali hudhud? Utawi punapa piyambakipun kalebet tiyang ingkang absen?
 
 وَتَفَقَّدَ ٱلطَّيْرَ فَقَالَ مَا لِىَ لَآ أَرَى ٱلْهُدْهُدَ أَمْ كَانَ مِنَ ٱلْغَآئِبِينَ
 
-**27:21** Kula badhe ngukum piyambakipun kanthi awrat, utawi mejahi piyambakipun, kajawi piyambakipun maringi alesan ingkang sah.”
+**27:21** Kula badhe ngukum piyambakipun kanthi awrat, utawi mejahi piyambakipun, kajawi piyambakipun maringi alesan ingkang sah."
 
 لَأُعَذِّبَنَّهُۥ عَذَابًۭا شَدِيدًا أَوْ لَأَا۟ذْبَحَنَّهُۥٓ أَوْ لَيَأْتِيَنِّى بِسُلْطَٰنٍۢ مُّبِينٍۢ
 
-**27:22** Nanging piyambakipun boten dangu tetep. Piyambakipun matur, “Kula sampun mangertos perkawis ingkang boten panjenengan mangertos. Kula dhateng dhateng panjenengan saking Saba, kanthi pawartos ingkang saged dipunpitados.
+**27:22** Nanging piyambakipun boten dangu tetep. Piyambakipun matur, "Kula sampun mangertos perkawis ingkang boten panjenengan mangertos. Kula dhateng dhateng panjenengan saking Saba, kanthi pawartos ingkang saged dipunpitados.
 
 فَمَكَثَ غَيْرَ بَعِيدٍۢ فَقَالَ أَحَطتُ بِمَا لَمْ تُحِطْ بِهِۦ وَجِئْتُكَ مِن سَبَإٍۭ بِنَبَإٍۢ يَقِينٍ
 
@@ -13206,73 +13206,73 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَلَّا يَسْجُدُوا۟ لِلَّهِ ٱلَّذِى يُخْرِجُ ٱلْخَبْءَ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَيَعْلَمُ مَا تُخْفُونَ وَمَا تُعْلِنُونَ
 
-**27:26** Gusti Allah—Boten wonten gusti kajawi Panjenenganipun, Pangeranipun Dhampar Ingkang Luhur.”
+**27:26** Gusti Allah—Boten wonten gusti kajawi Panjenenganipun, Pangeranipun Dhampar Ingkang Luhur."
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩
 
 
 
-**27:27** Piyambakipun matur, “Kawula badhe ningali, punapa panjenengan matur leres, utawi punapa panjenengan goroh.
+**27:27** Piyambakipun matur, "Kawula badhe ningali, punapa panjenengan matur leres, utawi punapa panjenengan goroh.
 
 ۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَٰذِبِينَ
 
-**27:28** Mangkat kanthi serat kula punika, lan aturaken dhateng piyambakipun; lajeng mundur saking piyambakipun, lan tingali kados pundi wangsulanipun.”
+**27:28** Mangkat kanthi serat kula punika, lan aturaken dhateng piyambakipun; lajeng mundur saking piyambakipun, lan tingali kados pundi wangsulanipun."
 
 ٱذْهَب بِّكِتَٰبِى هَٰذَا فَأَلْقِهْ إِلَيْهِمْ ثُمَّ تَوَلَّ عَنْهُمْ فَٱنظُرْ مَاذَا يَرْجِعُونَ
 
-**27:29** Piyambakipun matur, “Dhuh para penasihat, serat ingkang mulya sampun dipunaturaken dhateng kula.
+**27:29** Piyambakipun matur, "Dhuh para penasihat, serat ingkang mulya sampun dipunaturaken dhateng kula.
 
 قَالَتْ يَٰٓأَيُّهَا ٱلْمَلَؤُا۟ إِنِّىٓ أُلْقِىَ إِلَىَّ كِتَٰبٌۭ كَرِيمٌ
 
-**27:30** Punika saking Sulaiman, lan punika, ‘Kanthi nyebut asmanipun Allah, Kang Mahamurah, Kang Mahaasih.
+**27:30** Punika saking Sulaiman, lan punika, 'Kanthi nyebut asmanipun Allah, Kang Mahamurah, Kang Mahaasih.
 
 إِنَّهُۥ مِن سُلَيْمَٰنَ وَإِنَّهُۥ بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-**27:31** Sampun ngantos nentang kula, lan dhateng dhateng kula kanthi pasrah.'”
+**27:31** Sampun ngantos nentang kula, lan dhateng dhateng kula kanthi pasrah.'"
 
 أَلَّا تَعْلُوا۟ عَلَىَّ وَأْتُونِى مُسْلِمِينَ
 
-**27:32** Piyambakipun matur, “Dhuh para penasihat, paringi saran dhateng kula wonten ing perkawis kula punika. Kula boten nate ndamel keputusan kajawi panjenengan rawuh.”
+**27:32** Piyambakipun matur, "Dhuh para penasihat, paringi saran dhateng kula wonten ing perkawis kula punika. Kula boten nate ndamel keputusan kajawi panjenengan rawuh."
 
 قَالَتْ يَٰٓأَيُّهَا ٱلْمَلَؤُا۟ أَفْتُونِى فِىٓ أَمْرِى مَا كُنتُ قَاطِعَةً أَمْرًا حَتَّىٰ تَشْهَدُونِ
 
-**27:33** Piyambakipun matur, “Kawula punika tiyang ingkang kuwat lan gadhah kakendelan ageng, nanging keputusan wonten ing panjenengan, pramila nimbang punapa ingkang panjenengan kersakaken dhawuh.”
+**27:33** Piyambakipun matur, "Kawula punika tiyang ingkang kuwat lan gadhah kakendelan ageng, nanging keputusan wonten ing panjenengan, pramila nimbang punapa ingkang panjenengan kersakaken dhawuh."
 
 قَالُوا۟ نَحْنُ أُو۟لُوا۟ قُوَّةٍۢ وَأُو۟لُوا۟ بَأْسٍۢ شَدِيدٍۢ وَٱلْأَمْرُ إِلَيْكِ فَٱنظُرِى مَاذَا تَأْمُرِينَ
 
-**27:34** Piyambakipun matur, “Nalika para raja lumebet kitha, piyambakipun ngrusak kitha punika, lan ngasoraken tiyang-tiyangipun ingkang minulya. Makaten piyambakipun tansah nindakaken.
+**27:34** Piyambakipun matur, "Nalika para raja lumebet kitha, piyambakipun ngrusak kitha punika, lan ngasoraken tiyang-tiyangipun ingkang minulya. Makaten piyambakipun tansah nindakaken.
 
 قَالَتْ إِنَّ ٱلْمُلُوكَ إِذَا دَخَلُوا۟ قَرْيَةً أَفْسَدُوهَا وَجَعَلُوٓا۟ أَعِزَّةَ أَهْلِهَآ أَذِلَّةًۭ ۖ وَكَذَٰلِكَ يَفْعَلُونَ
 
-**27:35** Kula ngutus hadiah dhateng piyambakipun, lan badhe ningali punapa ingkang dipunbeta wang sul dening para utusan.”
+**27:35** Kula ngutus hadiah dhateng piyambakipun, lan badhe ningali punapa ingkang dipunbeta wang sul dening para utusan."
 
 وَإِنِّى مُرْسِلَةٌ إِلَيْهِم بِهَدِيَّةٍۢ فَنَاظِرَةٌۢ بِمَ يَرْجِعُ ٱلْمُرْسَلُونَ
 
-**27:36** Nalika piyambakipun dugi dhateng Sulaiman, piyambakipun matur, “Punapa panjenengan nyukupi kula kanthi arta? Punapa ingkang Gusti Allah paringaken dhateng kula langkung sae tinimbang punapa ingkang Panjenenganipun paringaken dhateng panjenengan. Panjenengan ingkang bingah kanthi hadiah panjenengan.
+**27:36** Nalika piyambakipun dugi dhateng Sulaiman, piyambakipun matur, "Punapa panjenengan nyukupi kula kanthi arta? Punapa ingkang Gusti Allah paringaken dhateng kula langkung sae tinimbang punapa ingkang Panjenenganipun paringaken dhateng panjenengan. Panjenengan ingkang bingah kanthi hadiah panjenengan.
 
 فَلَمَّا جَآءَ سُلَيْمَٰنَ قَالَ أَتُمِدُّونَنِ بِمَالٍۢ فَمَآ ءَاتَىٰنِۦَ ٱللَّهُ خَيْرٌۭ مِّمَّآ ءَاتَىٰكُم بَلْ أَنتُم بِهَدِيَّتِكُمْ تَفْرَحُونَ
 
-**27:37** Wang sul dhateng piyambakipun. Kawula badhe dhateng dhateng piyambakipun kanthi wadyabala ingkang boten saged piyambakipun lawan; lan kawula badhe nundhung piyambakipun saking ngriku, kanthi ina lan asor.”
+**27:37** Wang sul dhateng piyambakipun. Kawula badhe dhateng dhateng piyambakipun kanthi wadyabala ingkang boten saged piyambakipun lawan; lan kawula badhe nundhung piyambakipun saking ngriku, kanthi ina lan asor."
 
 ٱرْجِعْ إِلَيْهِمْ فَلَنَأْتِيَنَّهُم بِجُنُودٍۢ لَّا قِبَلَ لَهُم بِهَا وَلَنُخْرِجَنَّهُم مِّنْهَآ أَذِلَّةًۭ وَهُمْ صَٰغِرُونَ
 
-**27:38** Piyambakipun matur, “Dhuh para pejabat, sinten ing antawis panjenengan ingkang badhe mbeta dhamparipun dhateng kula sadurungipun piyambakipun dhateng dhateng kula kanthi pasrah?”
+**27:38** Piyambakipun matur, "Dhuh para pejabat, sinten ing antawis panjenengan ingkang badhe mbeta dhamparipun dhateng kula sadurungipun piyambakipun dhateng dhateng kula kanthi pasrah?"
 
 قَالَ يَٰٓأَيُّهَا ٱلْمَلَؤُا۟ أَيُّكُمْ يَأْتِينِى بِعَرْشِهَا قَبْلَ أَن يَأْتُونِى مُسْلِمِينَ
 
-**27:39** Jin ingkang ala matur, “Kula badhe mbeta punika dhateng panjenengan sadurungipun panjenengan jumeneng saking papan dunung panjenengan. Kula kuwat lan saged dipunpitados kangge nindakaken punika.”
+**27:39** Jin ingkang ala matur, "Kula badhe mbeta punika dhateng panjenengan sadurungipun panjenengan jumeneng saking papan dunung panjenengan. Kula kuwat lan saged dipunpitados kangge nindakaken punika."
 
 قَالَ عِفْرِيتٌۭ مِّنَ ٱلْجِنِّ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن تَقُومَ مِن مَّقَامِكَ ۖ وَإِنِّى عَلَيْهِ لَقَوِىٌّ أَمِينٌۭ
 
-**27:40** Tiyang ingkang gadhah kawruh saking Kitab matur, “Kula badhe mbeta punika dhateng panjenengan sadurungipun pandang panjenengan wang sul dhateng panjenengan.” Lan nalika piyambakipun ningali punika mapan ing ngarsanipun, piyambakipun matur, “Punika saking kanugrahanipun Pangeran kula, kangge nguji kula, punapa kula ngaturaken panuwun utawi boten. Sinten ingkang ngaturaken panuwun, panuwunipun kangge kapentinganipun piyambak; nanging sinten ingkang boten ngaturaken panuwun—Pangeran kula punika Mandiri lan Dermawan.”
+**27:40** Tiyang ingkang gadhah kawruh saking Kitab matur, "Kula badhe mbeta punika dhateng panjenengan sadurungipun pandang panjenengan wang sul dhateng panjenengan." Lan nalika piyambakipun ningali punika mapan ing ngarsanipun, piyambakipun matur, "Punika saking kanugrahanipun Pangeran kula, kangge nguji kula, punapa kula ngaturaken panuwun utawi boten. Sinten ingkang ngaturaken panuwun, panuwunipun kangge kapentinganipun piyambak; nanging sinten ingkang boten ngaturaken panuwun—Pangeran kula punika Mandiri lan Dermawan."
 
 قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌۭ مِّنَ ٱلْكِتَٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّۭ كَرِيمٌۭ
 
-**27:41** Piyambakipun matur, “Samaradaken dhamparipun kangge piyambakipun, lan kawula badhe ningali punapa piyambakipun badhe pikantuk pitedah, utawi tetep kalebet tiyang ingkang kesasar.”
+**27:41** Piyambakipun matur, "Samaradaken dhamparipun kangge piyambakipun, lan kawula badhe ningali punapa piyambakipun badhe pikantuk pitedah, utawi tetep kalebet tiyang ingkang kesasar."
 
 قَالَ نَكِّرُوا۟ لَهَا عَرْشَهَا نَنظُرْ أَتَهْتَدِىٓ أَمْ تَكُونُ مِنَ ٱلَّذِينَ لَا يَهْتَدُونَ
 
-**27:42** Nalika piyambakipun dugi, dipunngendikakaken, “Punapa dhampar panjenengan kados punika?” Piyambakipun matur, “Kados-kados punika punika.” “Kawula dipunparingi kawruh sadurungipun piyambakipun, lan kawula sampun pasrah.”
+**27:42** Nalika piyambakipun dugi, dipunngendikakaken, "Punapa dhampar panjenengan kados punika?" Piyambakipun matur, "Kados-kados punika punika." "Kawula dipunparingi kawruh sadurungipun piyambakipun, lan kawula sampun pasrah."
 
 فَلَمَّا جَآءَتْ قِيلَ أَهَٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ
 
@@ -13280,19 +13280,19 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَصَدَّهَا مَا كَانَت تَّعْبُدُ مِن دُونِ ٱللَّهِ ۖ إِنَّهَا كَانَتْ مِن قَوْمٍۢ كَٰفِرِينَ
 
-**27:44** Dipunngendikakaken dhateng piyambakipun, “Lumebet dhateng kraton.” Lan nalika piyambakipun ningali punika, piyambakipun nginten punika blumbang ingkang lebet, lan piyambakipun mbikak sukunipun. Piyambakipun matur, “Punika kraton ingkang dipunpaving kanthi kaca.” Piyambakipun matur, “Dhuh Pangeran kula, kula sampun dzalim dhateng dhiri kula, lan kula sampun pasrah sesarengan kaliyan Sulaiman, dhateng Gusti Allah, Pangeranipun sadaya alam.”
+**27:44** Dipunngendikakaken dhateng piyambakipun, "Lumebet dhateng kraton." Lan nalika piyambakipun ningali punika, piyambakipun nginten punika blumbang ingkang lebet, lan piyambakipun mbikak sukunipun. Piyambakipun matur, "Punika kraton ingkang dipunpaving kanthi kaca." Piyambakipun matur, "Dhuh Pangeran kula, kula sampun dzalim dhateng dhiri kula, lan kula sampun pasrah sesarengan kaliyan Sulaiman, dhateng Gusti Allah, Pangeranipun sadaya alam."
 
 قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَٰنَ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
-**27:45** Lan Kawula ngutus dhateng Tsamud sadherekipun Salih: “Sembah Gusti Allah.” Nanging piyambakipun dados kalih golongan ingkang padu.
+**27:45** Lan Kawula ngutus dhateng Tsamud sadherekipun Salih: "Sembah Gusti Allah." Nanging piyambakipun dados kalih golongan ingkang padu.
 
 وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ
 
-**27:46** Piyambakipun matur, “Dhuh kaum kula, kenging punapa panjenengan enggal-enggal nindakaken tumindak ala tinimbang kabecikan? Manawi kemawon panjenengan nyuwun pangapuranipun Gusti Allah, supados panjenengan dipunparingi welas asih.”
+**27:46** Piyambakipun matur, "Dhuh kaum kula, kenging punapa panjenengan enggal-enggal nindakaken tumindak ala tinimbang kabecikan? Manawi kemawon panjenengan nyuwun pangapuranipun Gusti Allah, supados panjenengan dipunparingi welas asih."
 
 قَالَ يَٰقَوْمِ لِمَ تَسْتَعْجِلُونَ بِٱلسَّيِّئَةِ قَبْلَ ٱلْحَسَنَةِ ۖ لَوْلَا تَسْتَغْفِرُونَ ٱللَّهَ لَعَلَّكُمْ تُرْحَمُونَ
 
-**27:47** Piyambakipun matur, “Kawula nganggep panjenengan alamat ala, lan tiyang ingkang sesarengan kaliyan panjenengan.” Piyambakipun matur, “Alamat panjenengan wonten ing Gusti Allah. Satemenipun, panjenengan punika kaum ingkang dipunuji.”
+**27:47** Piyambakipun matur, "Kawula nganggep panjenengan alamat ala, lan tiyang ingkang sesarengan kaliyan panjenengan." Piyambakipun matur, "Alamat panjenengan wonten ing Gusti Allah. Satemenipun, panjenengan punika kaum ingkang dipunuji."
 
 قَالُوا۟ ٱطَّيَّرْنَا بِكَ وَبِمَن مَّعَكَ ۚ قَالَ طَٰٓئِرُكُمْ عِندَ ٱللَّهِ ۖ بَلْ أَنتُمْ قَوْمٌۭ تُفْتَنُونَ
 
@@ -13300,7 +13300,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَكَانَ فِى ٱلْمَدِينَةِ تِسْعَةُ رَهْطٍۢ يُفْسِدُونَ فِى ٱلْأَرْضِ وَلَا يُصْلِحُونَ
 
-**27:49** Piyambakipun matur, “Sumpah demi Gusti Allah dhateng satunggal lan sanesipun bilih kawula badhe nyerang piyambakipun lan kulawarganipun ing wanci dalu, lajeng matur dhateng walinipun, 'Kawula boten nyekseni pembunuhan kulawarganipun, lan kawula leres.'“
+**27:49** Piyambakipun matur, "Sumpah demi Gusti Allah dhateng satunggal lan sanesipun bilih kawula badhe nyerang piyambakipun lan kulawarganipun ing wanci dalu, lajeng matur dhateng walinipun, 'Kawula boten nyekseni pembunuhan kulawarganipun, lan kawula leres.'"
 
 قَالُوا۟ تَقَاسَمُوا۟ بِٱللَّهِ لَنُبَيِّتَنَّهُۥ وَأَهْلَهُۥ ثُمَّ لَنَقُولَنَّ لِوَلِيِّهِۦ مَا شَهِدْنَا مَهْلِكَ أَهْلِهِۦ وَإِنَّا لَصَٰدِقُونَ
 
@@ -13320,15 +13320,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَأَنجَيْنَا ٱلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ
 
-**27:54** Lan Luth, nalika piyambakipun matur dhateng kaumipun, “Punapa panjenengan nindakaken tumindak nistha kanthi mripat mbikak?
+**27:54** Lan Luth, nalika piyambakipun matur dhateng kaumipun, "Punapa panjenengan nindakaken tumindak nistha kanthi mripat mbikak?
 
 وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ أَتَأْتُونَ ٱلْفَٰحِشَةَ وَأَنتُمْ تُبْصِرُونَ
 
-**27:55** Punapa panjenengan gadhah birahi dhateng priya sanesipun wanita? Panjenengan satuhu tiyang ingkang bodho.”
+**27:55** Punapa panjenengan gadhah birahi dhateng priya sanesipun wanita? Panjenengan satuhu tiyang ingkang bodho."
 
 أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ شَهْوَةًۭ مِّن دُونِ ٱلنِّسَآءِ ۚ بَلْ أَنتُمْ قَوْمٌۭ تَجْهَلُونَ
 
-**27:56** Nanging wangsulanipun kaumipun namung matur, “Tundhung kulawarganipun Luth saking kitha panjenengan. Piyambakipun punika tiyang ingkang puris.”
+**27:56** Nanging wangsulanipun kaumipun namung matur, "Tundhung kulawarganipun Luth saking kitha panjenengan. Piyambakipun punika tiyang ingkang puris."
 
 ۞ فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوٓا۟ ءَالَ لُوطٍۢ مِّن قَرْيَتِكُمْ ۖ إِنَّهُمْ أُنَاسٌۭ يَتَطَهَّرُونَ
 
@@ -13340,7 +13340,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَأَمْطَرْنَا عَلَيْهِم مَّطَرًۭا ۖ فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ
 
-**27:59** Matur, “Segala puji Gusti Allah, lan tentrem dhateng para kawula Panjenenganipun ingkang Panjenenganipun pilih. Punapa Gusti Allah langkung sae, utawi punapa ingkang piyambakipun sekutokaken?”
+**27:59** Matur, "Segala puji Gusti Allah, lan tentrem dhateng para kawula Panjenenganipun ingkang Panjenenganipun pilih. Punapa Gusti Allah langkung sae, utawi punapa ingkang piyambakipun sekutokaken?"
 
 قُلِ ٱلْحَمْدُ لِلَّهِ وَسَلَٰمٌ عَلَىٰ عِبَادِهِ ٱلَّذِينَ ٱصْطَفَىٰٓ ۗ ءَآللَّهُ خَيْرٌ أَمَّا يُشْرِكُونَ
 
@@ -13360,11 +13360,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَمَّن يَهْدِيكُمْ فِى ظُلُمَٰتِ ٱلْبَرِّ وَٱلْبَحْرِ وَمَن يُرْسِلُ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦٓ ۗ أَءِلَٰهٌۭ مَّعَ ٱللَّهِ ۚ تَعَٰلَى ٱللَّهُ عَمَّا يُشْرِكُونَ
 
-**27:64** Utawi, sinten ingkang miwiti titah lan lajeng mbaleni punika, lan sinten ingkang maringi rejeki dhateng panjenengan saking langit lan bumi? Punapa wonten gusti sanes sesarengan kaliyan Gusti Allah? Matur, “Tuduhaken bukti panjenengan, manawi panjenengan leres.”
+**27:64** Utawi, sinten ingkang miwiti titah lan lajeng mbaleni punika, lan sinten ingkang maringi rejeki dhateng panjenengan saking langit lan bumi? Punapa wonten gusti sanes sesarengan kaliyan Gusti Allah? Matur, "Tuduhaken bukti panjenengan, manawi panjenengan leres."
 
 أَمَّن يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ وَمَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ ۗ أَءِلَٰهٌۭ مَّعَ ٱللَّهِ ۚ قُلْ هَاتُوا۟ بُرْهَٰنَكُمْ إِن كُنتُمْ صَٰدِقِينَ
 
-**27:65** Matur, “Boten wonten setunggal kemawon wonten ing langit utawi wonten ing bumi ingkang mangertos mangsa ngajeng kajawi Gusti Allah; lan piyambakipun boten mangertos kapan piyambakipun badhe dipuntangekaken.”
+**27:65** Matur, "Boten wonten setunggal kemawon wonten ing langit utawi wonten ing bumi ingkang mangertos mangsa ngajeng kajawi Gusti Allah; lan piyambakipun boten mangertos kapan piyambakipun badhe dipuntangekaken."
 
 قُل لَّا يَعْلَمُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ٱلْغَيْبَ إِلَّا ٱللَّهُ ۚ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ
 
@@ -13372,15 +13372,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 بَلِ ٱدَّٰرَكَ عِلْمُهُمْ فِى ٱلْءَاخِرَةِ ۚ بَلْ هُمْ فِى شَكٍّۢ مِّنْهَا ۖ بَلْ هُم مِّنْهَا عَمُونَ
 
-**27:67** Tiyang ingkang kafir matur, “Nalika kawula sampun dados lebu, lan leluhur kawula, punapa kawula badhe dipunwedalaken?
+**27:67** Tiyang ingkang kafir matur, "Nalika kawula sampun dados lebu, lan leluhur kawula, punapa kawula badhe dipunwedalaken?
 
 وَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ أَءِذَا كُنَّا تُرَٰبًۭا وَءَابَآؤُنَآ أَئِنَّا لَمُخْرَجُونَ
 
-**27:68** Kawula sampun dipunjanjikaken punika sadurungipun, kawula lan leluhur kawula—punika boten sanes kajawi legenda tiyang kuna.”
+**27:68** Kawula sampun dipunjanjikaken punika sadurungipun, kawula lan leluhur kawula—punika boten sanes kajawi legenda tiyang kuna."
 
 لَقَدْ وُعِدْنَا هَٰذَا نَحْنُ وَءَابَآؤُنَا مِن قَبْلُ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
-**27:69** Matur, lelampahan nglangkungi bumi, lan tingali nasibipun tiyang dosa.”
+**27:69** Matur, lelampahan nglangkungi bumi, lan tingali nasibipun tiyang dosa."
 
 قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُجْرِمِينَ
 
@@ -13388,11 +13388,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُن فِى ضَيْقٍۢ مِّمَّا يَمْكُرُونَ
 
-**27:71** Lan piyambakipun matur, “Kapan janji punika, manawi panjenengan leres?”
+**27:71** Lan piyambakipun matur, "Kapan janji punika, manawi panjenengan leres?"
 
 وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
 
-**27:72** Matur, “Mbokmenawi saperangan saking punapa ingkang panjenengan boten sabar sampun celak.”
+**27:72** Matur, "Mbokmenawi saperangan saking punapa ingkang panjenengan boten sabar sampun celak."
 
 قُلْ عَسَىٰٓ أَن يَكُونَ رَدِفَ لَكُم بَعْضُ ٱلَّذِى تَسْتَعْجِلُونَ
 
@@ -13440,7 +13440,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَيَوْمَ نَحْشُرُ مِن كُلِّ أُمَّةٍۢ فَوْجًۭا مِّمَّن يُكَذِّبُ بِـَٔايَٰتِنَا فَهُمْ يُوزَعُونَ
 
-**27:84** Ngantos, nalika piyambakipun dugi, Panjenenganipun badhe ngendika, “Punapa panjenengan nolak wahyu-wahyu Kawula tanpa mangertos punika? Utawi punapa ingkang panjenengan tindakaken?”
+**27:84** Ngantos, nalika piyambakipun dugi, Panjenenganipun badhe ngendika, "Punapa panjenengan nolak wahyu-wahyu Kawula tanpa mangertos punika? Utawi punapa ingkang panjenengan tindakaken?"
 
 حَتَّىٰٓ إِذَا جَآءُو قَالَ أَكَذَّبْتُم بِـَٔايَٰتِى وَلَمْ تُحِيطُوا۟ بِهَا عِلْمًا أَمَّاذَا كُنتُمْ تَعْمَلُونَ
 
@@ -13468,15 +13468,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمَن جَآءَ بِٱلسَّيِّئَةِ فَكُبَّتْ وُجُوهُهُمْ فِى ٱلنَّارِ هَلْ تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ
 
-**27:91** “Kula dipundhawuhi nyembah Pangeranipun kitha punika, ingkang sampun nyucikaken punika, lan dhateng Panjenenganipun sadaya perkawis kagungan; lan kula dipundhawuhi dados saking tiyang ingkang pasrah.
+**27:91** "Kula dipundhawuhi nyembah Pangeranipun kitha punika, ingkang sampun nyucikaken punika, lan dhateng Panjenenganipun sadaya perkawis kagungan; lan kula dipundhawuhi dados saking tiyang ingkang pasrah.
 
 إِنَّمَآ أُمِرْتُ أَنْ أَعْبُدَ رَبَّ هَٰذِهِ ٱلْبَلْدَةِ ٱلَّذِى حَرَّمَهَا وَلَهُۥ كُلُّ شَىْءٍۢ ۖ وَأُمِرْتُ أَنْ أَكُونَ مِنَ ٱلْمُسْلِمِينَ
 
-**27:92** Lan maos Quran.” Sinten ingkang pikantuk pitedah—pikantuk pitedah kangge kapentinganipun piyambak. Lan sinten ingkang kesasar, lajeng matur, “Kula punika setunggal saking para pepeling.”
+**27:92** Lan maos Quran." Sinten ingkang pikantuk pitedah—pikantuk pitedah kangge kapentinganipun piyambak. Lan sinten ingkang kesasar, lajeng matur, "Kula punika setunggal saking para pepeling."
 
 وَأَنْ أَتْلُوَا۟ ٱلْقُرْءَانَ ۖ فَمَنِ ٱهْتَدَىٰ فَإِنَّمَا يَهْتَدِى لِنَفْسِهِۦ ۖ وَمَن ضَلَّ فَقُلْ إِنَّمَآ أَنَا۠ مِنَ ٱلْمُنذِرِينَ
 
-**27:93** Lan matur, “Segala puji kagunganipun Gusti Allah; Panjenenganipun badhe nedhahaken tandha-tandha Panjenenganipun dhateng panjenengan, lan panjenengan badhe ngakeni punika. Pangeran panjenengan boten lena dhateng punapa ingkang panjenengan tindakaken.”
+**27:93** Lan matur, "Segala puji kagunganipun Gusti Allah; Panjenenganipun badhe nedhahaken tandha-tandha Panjenenganipun dhateng panjenengan, lan panjenengan badhe ngakeni punika. Pangeran panjenengan boten lena dhateng punapa ingkang panjenengan tindakaken."
 
 وَقُلِ ٱلْحَمْدُ لِلَّهِ سَيُرِيكُمْ ءَايَٰتِهِۦ فَتَعْرِفُونَهَا ۚ وَمَا رَبُّكَ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ
 
@@ -13516,7 +13516,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَنُمَكِّنَ لَهُمْ فِى ٱلْأَرْضِ وَنُرِىَ فِرْعَوْنَ وَهَٰمَٰنَ وَجُنُودَهُمَا مِنْهُم مَّا كَانُوا۟ يَحْذَرُونَ
 
-**28:7** Kawula maringi wahyu dhateng ibunipun Musa: “Susoni piyambakipun; lajeng, nalika panjenengan ajrih kangge piyambakipun, uncalaken piyambakipun dhateng lepen, lan sampun ajrih, sampun sedhih; Kawula badhe mangsulaken piyambakipun dhateng panjenengan, lan ndadosaken piyambakipun setunggal saking para utusan.”
+**28:7** Kawula maringi wahyu dhateng ibunipun Musa: "Susoni piyambakipun; lajeng, nalika panjenengan ajrih kangge piyambakipun, uncalaken piyambakipun dhateng lepen, lan sampun ajrih, sampun sedhih; Kawula badhe mangsulaken piyambakipun dhateng panjenengan, lan ndadosaken piyambakipun setunggal saking para utusan."
 
 وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ
 
@@ -13524,7 +13524,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَٱلْتَقَطَهُۥٓ ءَالُ فِرْعَوْنَ لِيَكُونَ لَهُمْ عَدُوًّۭا وَحَزَنًا ۗ إِنَّ فِرْعَوْنَ وَهَٰمَٰنَ وَجُنُودَهُمَا كَانُوا۟ خَٰطِـِٔينَ
 
-**28:9** Garwanipun Fir'aun matur, “Kasenenganing mripat kangge kula lan kangge panjenengan. Sampun mejahi piyambakipun; mbokmenawi piyambakipun badhe migunani kangge kawula, utawi kawula saged ngangkat piyambakipun minangka putra.” Nanging piyambakipun boten nyana.
+**28:9** Garwanipun Fir'aun matur, "Kasenenganing mripat kangge kula lan kangge panjenengan. Sampun mejahi piyambakipun; mbokmenawi piyambakipun badhe migunani kangge kawula, utawi kawula saged ngangkat piyambakipun minangka putra." Nanging piyambakipun boten nyana.
 
 وَقَالَتِ ٱمْرَأَتُ فِرْعَوْنَ قُرَّتُ عَيْنٍۢ لِّى وَلَكَ ۖ لَا تَقْتُلُوهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا وَهُمْ لَا يَشْعُرُونَ
 
@@ -13532,11 +13532,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَٰرِغًا ۖ إِن كَادَتْ لَتُبْدِى بِهِۦ لَوْلَآ أَن رَّبَطْنَا عَلَىٰ قَلْبِهَا لِتَكُونَ مِنَ ٱلْمُؤْمِنِينَ
 
-**28:11** Piyambakipun matur dhateng sadherek estri, “Tuntut piyambakipun.” Pramila piyambakipun ngawasi piyambakipun saking tebih, lan piyambakipun boten sadhar.
+**28:11** Piyambakipun matur dhateng sadherek estri, "Tuntut piyambakipun." Pramila piyambakipun ngawasi piyambakipun saking tebih, lan piyambakipun boten sadhar.
 
 وَقَالَتْ لِأُخْتِهِۦ قُصِّيهِ ۖ فَبَصُرَتْ بِهِۦ عَن جُنُبٍۢ وَهُمْ لَا يَشْعُرُونَ
 
-**28:12** Kawula nglarang piyambakipun nyusu ing wiwitan. Pramila piyambakipun matur, “Punapa kula badhe nedhahaken dhateng panjenengan kulawarga ingkang saged nggulawentah piyambakipun kangge panjenengan, lan badhe ngrawat piyambakipun?”
+**28:12** Kawula nglarang piyambakipun nyusu ing wiwitan. Pramila piyambakipun matur, "Punapa kula badhe nedhahaken dhateng panjenengan kulawarga ingkang saged nggulawentah piyambakipun kangge panjenengan, lan badhe ngrawat piyambakipun?"
 
 ۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَٰصِحُونَ
 
@@ -13548,99 +13548,99 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَمَّا بَلَغَ أَشُدَّهُۥ وَٱسْتَوَىٰٓ ءَاتَيْنَٰهُ حُكْمًۭا وَعِلْمًۭا ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
 
-**28:15** Setunggal wekdal piyambakipun lumebet kitha, tanpa dipunmangertos dening tiyang-tiyangipun. Piyambakipun manggihaken wonten ing ngriku kalih priya gelut—setunggal saking golonganipun piyambak, lan setunggal saking mengsahipun. Ingkang saking golonganipun nyuwun tulung dhateng piyambakipun nglawan ingkang saking mengsahipun; pramila Musa nonjok piyambakipun, lan mungkasi piyambakipun. Piyambakipun matur, “Punika saking tumindakipun Iblis; piyambakipun punika mengsah ingkang cetha nyasaraken.”
+**28:15** Setunggal wekdal piyambakipun lumebet kitha, tanpa dipunmangertos dening tiyang-tiyangipun. Piyambakipun manggihaken wonten ing ngriku kalih priya gelut—setunggal saking golonganipun piyambak, lan setunggal saking mengsahipun. Ingkang saking golonganipun nyuwun tulung dhateng piyambakipun nglawan ingkang saking mengsahipun; pramila Musa nonjok piyambakipun, lan mungkasi piyambakipun. Piyambakipun matur, "Punika saking tumindakipun Iblis; piyambakipun punika mengsah ingkang cetha nyasaraken."
 
 وَدَخَلَ ٱلْمَدِينَةَ عَلَىٰ حِينِ غَفْلَةٍۢ مِّنْ أَهْلِهَا فَوَجَدَ فِيهَا رَجُلَيْنِ يَقْتَتِلَانِ هَٰذَا مِن شِيعَتِهِۦ وَهَٰذَا مِنْ عَدُوِّهِۦ ۖ فَٱسْتَغَٰثَهُ ٱلَّذِى مِن شِيعَتِهِۦ عَلَى ٱلَّذِى مِنْ عَدُوِّهِۦ فَوَكَزَهُۥ مُوسَىٰ فَقَضَىٰ عَلَيْهِ ۖ قَالَ هَٰذَا مِنْ عَمَلِ ٱلشَّيْطَٰنِ ۖ إِنَّهُۥ عَدُوٌّۭ مُّضِلٌّۭ مُّبِينٌۭ
 
-**28:16** Piyambakipun matur, “Dhuh Pangeran kula, kula sampun dzalim dhiri kula, pramila ngapunten kula.” Pramila Panjenenganipun ngapura piyambakipun. Panjenenganipun punika Ingkang Mahangapura, Ingkang Mahaasih.
+**28:16** Piyambakipun matur, "Dhuh Pangeran kula, kula sampun dzalim dhiri kula, pramila ngapunten kula." Pramila Panjenenganipun ngapura piyambakipun. Panjenenganipun punika Ingkang Mahangapura, Ingkang Mahaasih.
 
 قَالَ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى فَٱغْفِرْ لِى فَغَفَرَ لَهُۥٓ ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
-**28:17** Piyambakipun matur, “Dhuh Pangeran kula, sasampunipun Panjenengan maringi kanugrahan dhateng kula, kula boten nate badhe dados pandhukung tiyang ingkang durjana.”
+**28:17** Piyambakipun matur, "Dhuh Pangeran kula, sasampunipun Panjenengan maringi kanugrahan dhateng kula, kula boten nate badhe dados pandhukung tiyang ingkang durjana."
 
 قَالَ رَبِّ بِمَآ أَنْعَمْتَ عَلَىَّ فَلَنْ أَكُونَ ظَهِيرًۭا لِّلْمُجْرِمِينَ
 
-**28:18** Enjingipun, piyambakipun mlampah wonten ing kitha, kanthi ajrih lan waspada, nalika priya ingkang sampun nyuwun tulung dhateng piyambakipun dinten sadurungipun bengok-bengok dhateng piyambakipun. Musa matur dhateng piyambakipun, “Panjenengan cetha tukang damel kisruh.”
+**28:18** Enjingipun, piyambakipun mlampah wonten ing kitha, kanthi ajrih lan waspada, nalika priya ingkang sampun nyuwun tulung dhateng piyambakipun dinten sadurungipun bengok-bengok dhateng piyambakipun. Musa matur dhateng piyambakipun, "Panjenengan cetha tukang damel kisruh."
 
 فَأَصْبَحَ فِى ٱلْمَدِينَةِ خَآئِفًۭا يَتَرَقَّبُ فَإِذَا ٱلَّذِى ٱسْتَنصَرَهُۥ بِٱلْأَمْسِ يَسْتَصْرِخُهُۥ ۚ قَالَ لَهُۥ مُوسَىٰٓ إِنَّكَ لَغَوِىٌّۭ مُّبِينٌۭ
 
-**28:19** Nalika piyambakipun meh nyerang tiyang ingkang dados mengsahipun, piyambakipun matur, “Dhuh Musa, punapa panjenengan gadhah maksud mejahi kula, kados panjenengan mejahi tiyang wingi? Panjenengan namung kepengin dados tukang nganiaya wonten ing negari, lan boten kepengin dados juru damai.”
+**28:19** Nalika piyambakipun meh nyerang tiyang ingkang dados mengsahipun, piyambakipun matur, "Dhuh Musa, punapa panjenengan gadhah maksud mejahi kula, kados panjenengan mejahi tiyang wingi? Panjenengan namung kepengin dados tukang nganiaya wonten ing negari, lan boten kepengin dados juru damai."
 
 فَلَمَّآ أَنْ أَرَادَ أَن يَبْطِشَ بِٱلَّذِى هُوَ عَدُوٌّۭ لَّهُمَا قَالَ يَٰمُوسَىٰٓ أَتُرِيدُ أَن تَقْتُلَنِى كَمَا قَتَلْتَ نَفْسًۢا بِٱلْأَمْسِ ۖ إِن تُرِيدُ إِلَّآ أَن تَكُونَ جَبَّارًۭا فِى ٱلْأَرْضِ وَمَا تُرِيدُ أَن تَكُونَ مِنَ ٱلْمُصْلِحِينَ
 
-**28:20** Lan priya dhateng saking perangan kitha ingkang tebih piyambak kanthi mlajeng. Piyambakipun matur, “Dhuh Musa, para pejabat nimbang badhe mejahi panjenengan, pramila medal; kula maringi saran sae dhateng panjenengan.”
+**28:20** Lan priya dhateng saking perangan kitha ingkang tebih piyambak kanthi mlajeng. Piyambakipun matur, "Dhuh Musa, para pejabat nimbang badhe mejahi panjenengan, pramila medal; kula maringi saran sae dhateng panjenengan."
 
 وَجَآءَ رَجُلٌۭ مِّنْ أَقْصَا ٱلْمَدِينَةِ يَسْعَىٰ قَالَ يَٰمُوسَىٰٓ إِنَّ ٱلْمَلَأَ يَأْتَمِرُونَ بِكَ لِيَقْتُلُوكَ فَٱخْرُجْ إِنِّى لَكَ مِنَ ٱلنَّٰصِحِينَ
 
-**28:21** Pramila piyambakipun medal, kanthi ajrih lan waspada. Piyambakipun matur, “Dhuh Pangeran kula, luwaraken kula saking tiyang ingkang dzalim.”
+**28:21** Pramila piyambakipun medal, kanthi ajrih lan waspada. Piyambakipun matur, "Dhuh Pangeran kula, luwaraken kula saking tiyang ingkang dzalim."
 
 فَخَرَجَ مِنْهَا خَآئِفًۭا يَتَرَقَّبُ ۖ قَالَ رَبِّ نَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
 
-**28:22** Nalika piyambakipun tumuju dhateng Madyan, piyambakipun matur, “Mbokmenawi Pangeran kula badhe nuntun kula dhateng margi ingkang leres.”
+**28:22** Nalika piyambakipun tumuju dhateng Madyan, piyambakipun matur, "Mbokmenawi Pangeran kula badhe nuntun kula dhateng margi ingkang leres."
 
 وَلَمَّا تَوَجَّهَ تِلْقَآءَ مَدْيَنَ قَالَ عَسَىٰ رَبِّىٓ أَن يَهْدِيَنِى سَوَآءَ ٱلسَّبِيلِ
 
-**28:23** Lan nalika piyambakipun dugi ing toyanipun Madyan, piyambakipun manggihaken wonten ing ngriku tiyang kathah ingkang mendhet toya, lan piyambakipun nggatosaken kalih wanita nengga wonten ing sisih. Piyambakipun matur, “Punapa perkawisipun panjenengan?” Piyambakipun matur, “Kawula boten saged mendhet toya ngantos para pangon kesah, lan bapa kawula punika priya sepuh sanget.”
+**28:23** Lan nalika piyambakipun dugi ing toyanipun Madyan, piyambakipun manggihaken wonten ing ngriku tiyang kathah ingkang mendhet toya, lan piyambakipun nggatosaken kalih wanita nengga wonten ing sisih. Piyambakipun matur, "Punapa perkawisipun panjenengan?" Piyambakipun matur, "Kawula boten saged mendhet toya ngantos para pangon kesah, lan bapa kawula punika priya sepuh sanget."
 
 وَلَمَّا وَرَدَ مَآءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةًۭ مِّنَ ٱلنَّاسِ يَسْقُونَ وَوَجَدَ مِن دُونِهِمُ ٱمْرَأَتَيْنِ تَذُودَانِ ۖ قَالَ مَا خَطْبُكُمَا ۖ قَالَتَا لَا نَسْقِى حَتَّىٰ يُصْدِرَ ٱلرِّعَآءُ ۖ وَأَبُونَا شَيْخٌۭ كَبِيرٌۭ
 
-**28:24** Pramila piyambakipun mendhetaken toya kangge piyambakipun, lajeng mundur dhateng ayang-ayang, lan matur, “Dhuh Pangeran kula, kula sanget betah dhateng kabecikan punapa kemawon ingkang Panjenengan dhawahaken dhateng kula.”
+**28:24** Pramila piyambakipun mendhetaken toya kangge piyambakipun, lajeng mundur dhateng ayang-ayang, lan matur, "Dhuh Pangeran kula, kula sanget betah dhateng kabecikan punapa kemawon ingkang Panjenengan dhawahaken dhateng kula."
 
 فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰٓ إِلَى ٱلظِّلِّ فَقَالَ رَبِّ إِنِّى لِمَآ أَنزَلْتَ إِلَىَّ مِنْ خَيْرٍۢ فَقِيرٌۭ
 
-**28:25** Lajeng, setunggal saking kalih wanita punika nyedhaki piyambakipun, mlampah kanthi isin. Piyambakipun matur, “Bapa kula nimbali panjenengan, kangge maringi ganjaran dhateng panjenengan amargi mendhetaken toya kangge kawula.” Lan nalika piyambakipun dugi dhateng piyambakipun, lan nyariyosaken cariyos punika, piyambakipun matur, “Sampun ajrih, panjenengan sampun luput saking tiyang ingkang dzalim.”
+**28:25** Lajeng, setunggal saking kalih wanita punika nyedhaki piyambakipun, mlampah kanthi isin. Piyambakipun matur, "Bapa kula nimbali panjenengan, kangge maringi ganjaran dhateng panjenengan amargi mendhetaken toya kangge kawula." Lan nalika piyambakipun dugi dhateng piyambakipun, lan nyariyosaken cariyos punika, piyambakipun matur, "Sampun ajrih, panjenengan sampun luput saking tiyang ingkang dzalim."
 
 فَجَآءَتْهُ إِحْدَىٰهُمَا تَمْشِى عَلَى ٱسْتِحْيَآءٍۢ قَالَتْ إِنَّ أَبِى يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ لَنَا ۚ فَلَمَّا جَآءَهُۥ وَقَصَّ عَلَيْهِ ٱلْقَصَصَ قَالَ لَا تَخَفْ ۖ نَجَوْتَ مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
 
-**28:26** Setunggal saking kalih wanita punika matur, “Bapa, pekerjakaken piyambakipun; karyawan ingkang sae piyambak kangge panjenengan punika ingkang kuwat lan saged dipunpitados.”
+**28:26** Setunggal saking kalih wanita punika matur, "Bapa, pekerjakaken piyambakipun; karyawan ingkang sae piyambak kangge panjenengan punika ingkang kuwat lan saged dipunpitados."
 
 قَالَتْ إِحْدَىٰهُمَا يَٰٓأَبَتِ ٱسْتَـْٔجِرْهُ ۖ إِنَّ خَيْرَ مَنِ ٱسْتَـْٔجَرْتَ ٱلْقَوِىُّ ٱلْأَمِينُ
 
-**28:27** Piyambakipun matur, “Kula kepengin ngrabikaken panjenengan dhateng setunggal saking kalih putri kula punika, kanthi syarat panjenengan nyambut damel kangge kula wolung taun. Nanging manawi panjenengan ngrampungaken sedasa, punika gumantung panjenengan. Kula boten gadhah maksud meksa kasangsaran dhateng panjenengan. Panjenengan badhe manggihaken kula, insya Allah, setunggal saking tiyang ingkang sholeh.”
+**28:27** Piyambakipun matur, "Kula kepengin ngrabikaken panjenengan dhateng setunggal saking kalih putri kula punika, kanthi syarat panjenengan nyambut damel kangge kula wolung taun. Nanging manawi panjenengan ngrampungaken sedasa, punika gumantung panjenengan. Kula boten gadhah maksud meksa kasangsaran dhateng panjenengan. Panjenengan badhe manggihaken kula, insya Allah, setunggal saking tiyang ingkang sholeh."
 
 قَالَ إِنِّىٓ أُرِيدُ أَنْ أُنكِحَكَ إِحْدَى ٱبْنَتَىَّ هَٰتَيْنِ عَلَىٰٓ أَن تَأْجُرَنِى ثَمَٰنِىَ حِجَجٍۢ ۖ فَإِنْ أَتْمَمْتَ عَشْرًۭا فَمِنْ عِندِكَ ۖ وَمَآ أُرِيدُ أَنْ أَشُقَّ عَلَيْكَ ۚ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰلِحِينَ
 
-**28:28** Piyambakipun matur, “Mugi punika dados prajanjian antawis panjenengan lan kula. Punapa kemawon saking kalih wekdal punika ingkang kula rampungaken, boten badhe wonten pembalasan dhateng kula; lan Gusti Allah punika saksi ngengingi punapa ingkang kawula ngendikakaken.”
+**28:28** Piyambakipun matur, "Mugi punika dados prajanjian antawis panjenengan lan kula. Punapa kemawon saking kalih wekdal punika ingkang kula rampungaken, boten badhe wonten pembalasan dhateng kula; lan Gusti Allah punika saksi ngengingi punapa ingkang kawula ngendikakaken."
 
 قَالَ ذَٰلِكَ بَيْنِى وَبَيْنَكَ ۖ أَيَّمَا ٱلْأَجَلَيْنِ قَضَيْتُ فَلَا عُدْوَٰنَ عَلَىَّ ۖ وَٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌۭ
 
-**28:29** Nalika Musa sampun ngrampungaken wekdal punika, lan bidhal sesarengan kaliyan kulawarganipun, piyambakipun nggatosaken geni wonten ing sisih Redi. Piyambakipun matur dhateng kulawarganipun, “Tetep wonten ing ngriki, kula sampun ningali geni. Mbokmenawi kula saged mbeta pawartos saking ngriku dhateng panjenengan, utawi latu saking geni, supados panjenengan saged anget.”
+**28:29** Nalika Musa sampun ngrampungaken wekdal punika, lan bidhal sesarengan kaliyan kulawarganipun, piyambakipun nggatosaken geni wonten ing sisih Redi. Piyambakipun matur dhateng kulawarganipun, "Tetep wonten ing ngriki, kula sampun ningali geni. Mbokmenawi kula saged mbeta pawartos saking ngriku dhateng panjenengan, utawi latu saking geni, supados panjenengan saged anget."
 
 ۞ فَلَمَّا قَضَىٰ مُوسَى ٱلْأَجَلَ وَسَارَ بِأَهْلِهِۦٓ ءَانَسَ مِن جَانِبِ ٱلطُّورِ نَارًۭا قَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًۭا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ جَذْوَةٍۢ مِّنَ ٱلنَّارِ لَعَلَّكُمْ تَصْطَلُونَ
 
-**28:30** Nalika piyambakipun dugi ing ngriku, piyambakipun dipuntimbali saking sisih tengen lembah, wonten ing Papan ingkang Kabinaringan, saking grumbul: “Dhuh Musa, punika Kula, Gusti Allah, Pangeranipun sadaya alam.
+**28:30** Nalika piyambakipun dugi ing ngriku, piyambakipun dipuntimbali saking sisih tengen lembah, wonten ing Papan ingkang Kabinaringan, saking grumbul: "Dhuh Musa, punika Kula, Gusti Allah, Pangeranipun sadaya alam.
 
 فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَٰرَكَةِ مِنَ ٱلشَّجَرَةِ أَن يَٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
 
-**28:31** Uncalaken teken panjenengan.” Lan nalika piyambakipun ningali punika obah, kados-kados dipunkoyak, piyambakipun minger minggat, lan boten nolih. “Dhuh Musa, majeng, lan sampun ajrih, panjenengan aman kanthi sampurna.
+**28:31** Uncalaken teken panjenengan." Lan nalika piyambakipun ningali punika obah, kados-kados dipunkoyak, piyambakipun minger minggat, lan boten nolih. "Dhuh Musa, majeng, lan sampun ajrih, panjenengan aman kanthi sampurna.
 
 وَأَنْ أَلْقِ عَصَاكَ ۖ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّۭ وَلَّىٰ مُدْبِرًۭا وَلَمْ يُعَقِّبْ ۚ يَٰمُوسَىٰٓ أَقْبِلْ وَلَا تَخَفْ ۖ إِنَّكَ مِنَ ٱلْءَامِنِينَ
 
-**28:32** Lebokaken asta panjenengan dhateng lebet kanthong panjenengan, lan badhe medal pethak, tanpa cacad. Lan penet lengen panjenengan dhateng sisih panjenengan, nglawan rasa ajrih. Punika kalih bukti saking Pangeran panjenengan, dhateng Fir'aun lan para pejabatipun. Piyambakipun satuhu tiyang dosa.”
+**28:32** Lebokaken asta panjenengan dhateng lebet kanthong panjenengan, lan badhe medal pethak, tanpa cacad. Lan penet lengen panjenengan dhateng sisih panjenengan, nglawan rasa ajrih. Punika kalih bukti saking Pangeran panjenengan, dhateng Fir'aun lan para pejabatipun. Piyambakipun satuhu tiyang dosa."
 
 ٱسْلُكْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍۢ وَٱضْمُمْ إِلَيْكَ جَنَاحَكَ مِنَ ٱلرَّهْبِ ۖ فَذَٰنِكَ بُرْهَٰنَانِ مِن رَّبِّكَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦٓ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًۭا فَٰسِقِينَ
 
-**28:33** Piyambakipun matur, “Dhuh Pangeran kula, kula sampun mejahi setunggal saking piyambakipun, lan kula ajrih piyambakipun badhe mejahi kula.
+**28:33** Piyambakipun matur, "Dhuh Pangeran kula, kula sampun mejahi setunggal saking piyambakipun, lan kula ajrih piyambakipun badhe mejahi kula.
 
 قَالَ رَبِّ إِنِّى قَتَلْتُ مِنْهُمْ نَفْسًۭا فَأَخَافُ أَن يَقْتُلُونِ
 
-**28:34** Lan sadherek kula Harun, piyambakipun langkung pinter ngendika tinimbang kula, pramila utus piyambakipun sesarengan kaliyan kula, kangge nulungi kula, lan kangge negesaken pangandika kula, awit kula ajrih piyambakipun badhe nolak kula.”
+**28:34** Lan sadherek kula Harun, piyambakipun langkung pinter ngendika tinimbang kula, pramila utus piyambakipun sesarengan kaliyan kula, kangge nulungi kula, lan kangge negesaken pangandika kula, awit kula ajrih piyambakipun badhe nolak kula."
 
 وَأَخِى هَٰرُونُ هُوَ أَفْصَحُ مِنِّى لِسَانًۭا فَأَرْسِلْهُ مَعِىَ رِدْءًۭا يُصَدِّقُنِىٓ ۖ إِنِّىٓ أَخَافُ أَن يُكَذِّبُونِ
 
-**28:35** Panjenenganipun ngendika, “Kawula badhe ngiyataken lengen panjenengan kanthi sadherek panjenengan, lan Kawula badhe maringi panguwasa dhateng panjenengan, pramila piyambakipun boten badhe ngemek panjenengan. Kanthi tandha-tandha Kawula, panjenengan lan tiyang ingkang ndherek panjenengan badhe dados ingkang menang.”
+**28:35** Panjenenganipun ngendika, "Kawula badhe ngiyataken lengen panjenengan kanthi sadherek panjenengan, lan Kawula badhe maringi panguwasa dhateng panjenengan, pramila piyambakipun boten badhe ngemek panjenengan. Kanthi tandha-tandha Kawula, panjenengan lan tiyang ingkang ndherek panjenengan badhe dados ingkang menang."
 
 قَالَ سَنَشُدُّ عَضُدَكَ بِأَخِيكَ وَنَجْعَلُ لَكُمَا سُلْطَٰنًۭا فَلَا يَصِلُونَ إِلَيْكُمَا ۚ بِـَٔايَٰتِنَآ أَنتُمَا وَمَنِ ٱتَّبَعَكُمَا ٱلْغَٰلِبُونَ
 
-**28:36** Nanging nalika Musa dhateng dhateng piyambakipun kanthi tandha-tandha Kawula, ingkang cetha lan nyata, piyambakipun matur, “Punika boten sanes kajawi sihir damelan, lan Kawula boten nate mireng punika saking leluhur kawula ing jaman rumiyin.”
+**28:36** Nanging nalika Musa dhateng dhateng piyambakipun kanthi tandha-tandha Kawula, ingkang cetha lan nyata, piyambakipun matur, "Punika boten sanes kajawi sihir damelan, lan Kawula boten nate mireng punika saking leluhur kawula ing jaman rumiyin."
 
 فَلَمَّا جَآءَهُم مُّوسَىٰ بِـَٔايَٰتِنَا بَيِّنَٰتٍۢ قَالُوا۟ مَا هَٰذَآ إِلَّا سِحْرٌۭ مُّفْتَرًۭى وَمَا سَمِعْنَا بِهَٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ
 
-**28:37** Musa matur, “Pangeran kula mangertos kanthi sae sinten ingkang mbeta pitedah saking Panjenenganipun, lan sinten ingkang badhe gadhah pungkasaning papan dunung. Tiyang ingkang dzalim boten badhe sukses.”
+**28:37** Musa matur, "Pangeran kula mangertos kanthi sae sinten ingkang mbeta pitedah saking Panjenenganipun, lan sinten ingkang badhe gadhah pungkasaning papan dunung. Tiyang ingkang dzalim boten badhe sukses."
 
 وَقَالَ مُوسَىٰ رَبِّىٓ أَعْلَمُ بِمَن جَآءَ بِٱلْهُدَىٰ مِنْ عِندِهِۦ وَمَن تَكُونُ لَهُۥ عَٰقِبَةُ ٱلدَّارِ ۖ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
 
-**28:38** Fir'aun matur, “Dhuh para pejabat, kula boten mangertos gusti kangge panjenengan sanesipun kula. Pramila bakar bata kangge kula dhuh Haman, lan bangun menara kangge kula, supados kula saged munggah dhateng Gusti Allahipun Musa, sanadyan kula nginten piyambakipun goroh.”
+**28:38** Fir'aun matur, "Dhuh para pejabat, kula boten mangertos gusti kangge panjenengan sanesipun kula. Pramila bakar bata kangge kula dhuh Haman, lan bangun menara kangge kula, supados kula saged munggah dhateng Gusti Allahipun Musa, sanadyan kula nginten piyambakipun goroh."
 
 وَقَالَ فِرْعَوْنُ يَٰٓأَيُّهَا ٱلْمَلَأُ مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِى فَأَوْقِدْ لِى يَٰهَٰمَٰنُ عَلَى ٱلطِّينِ فَٱجْعَل لِّى صَرْحًۭا لَّعَلِّىٓ أَطَّلِعُ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ مِنَ ٱلْكَٰذِبِينَ
 
@@ -13676,15 +13676,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمَا كُنتَ بِجَانِبِ ٱلطُّورِ إِذْ نَادَيْنَا وَلَٰكِن رَّحْمَةًۭ مِّن رَّبِّكَ لِتُنذِرَ قَوْمًۭا مَّآ أَتَىٰهُم مِّن نَّذِيرٍۢ مِّن قَبْلِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ
 
-**28:47** Sanepanipun, manawi musibah ngetepi piyambakipun amargi punapa ingkang astanipun sampun nindakaken, piyambakipun badhe matur, “Dhuh Pangeran kawula, manawi kemawon Panjenengan sampun ngutus utusan dhateng kawula, kawula badhe ndherek wahyu-wahyu Panjenengan, lan dados kalebet tiyang ingkang pitados.”
+**28:47** Sanepanipun, manawi musibah ngetepi piyambakipun amargi punapa ingkang astanipun sampun nindakaken, piyambakipun badhe matur, "Dhuh Pangeran kawula, manawi kemawon Panjenengan sampun ngutus utusan dhateng kawula, kawula badhe ndherek wahyu-wahyu Panjenengan, lan dados kalebet tiyang ingkang pitados."
 
 وَلَوْلَآ أَن تُصِيبَهُم مُّصِيبَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَيَقُولُوا۟ رَبَّنَا لَوْلَآ أَرْسَلْتَ إِلَيْنَا رَسُولًۭا فَنَتَّبِعَ ءَايَٰتِكَ وَنَكُونَ مِنَ ٱلْمُؤْمِنِينَ
 
-**28:48** Nanging nalika kaleresan dhateng dhateng piyambakipun saking Kawula, piyambakipun matur, “Manawi kemawon piyambakipun dipunparingi kados punapa ingkang dipunparingaken dhateng Musa.” Punapa piyambakipun boten kafir dhateng punapa ingkang dipunparingaken dhateng Musa ing jaman kepengker? Piyambakipun matur, “Kalih karya sihir ingkang saling dukung.” Lan piyambakipun matur, “Kawula kafir dhateng kekalihipun.”
+**28:48** Nanging nalika kaleresan dhateng dhateng piyambakipun saking Kawula, piyambakipun matur, "Manawi kemawon piyambakipun dipunparingi kados punapa ingkang dipunparingaken dhateng Musa." Punapa piyambakipun boten kafir dhateng punapa ingkang dipunparingaken dhateng Musa ing jaman kepengker? Piyambakipun matur, "Kalih karya sihir ingkang saling dukung." Lan piyambakipun matur, "Kawula kafir dhateng kekalihipun."
 
 فَلَمَّا جَآءَهُمُ ٱلْحَقُّ مِنْ عِندِنَا قَالُوا۟ لَوْلَآ أُوتِىَ مِثْلَ مَآ أُوتِىَ مُوسَىٰٓ ۚ أَوَلَمْ يَكْفُرُوا۟ بِمَآ أُوتِىَ مُوسَىٰ مِن قَبْلُ ۖ قَالُوا۟ سِحْرَانِ تَظَٰهَرَا وَقَالُوٓا۟ إِنَّا بِكُلٍّۢ كَٰفِرُونَ
 
-**28:49** Matur, “Lajeng betanipun kitab saking Gusti Allah, ingkang langkung nuntun dhateng pitedah tinimbang kekalihipun, lan kula badhe ndherek punika, manawi panjenengan leres.”
+**28:49** Matur, "Lajeng betanipun kitab saking Gusti Allah, ingkang langkung nuntun dhateng pitedah tinimbang kekalihipun, lan kula badhe ndherek punika, manawi panjenengan leres."
 
 قُلْ فَأْتُوا۟ بِكِتَٰبٍۢ مِّنْ عِندِ ٱللَّهِ هُوَ أَهْدَىٰ مِنْهُمَآ أَتَّبِعْهُ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -13700,7 +13700,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ مِن قَبْلِهِۦ هُم بِهِۦ يُؤْمِنُونَ
 
-**28:53** Nalika punika dipunwaosaken dhateng piyambakipun, piyambakipun matur, “Kawula sampun pitados dhateng punika; punika kaleresan saking Pangeran kawula; kawula sampun Muslim sadurungipun punika.”
+**28:53** Nalika punika dipunwaosaken dhateng piyambakipun, piyambakipun matur, "Kawula sampun pitados dhateng punika; punika kaleresan saking Pangeran kawula; kawula sampun Muslim sadurungipun punika."
 
 وَإِذَا يُتْلَىٰ عَلَيْهِمْ قَالُوٓا۟ ءَامَنَّا بِهِۦٓ إِنَّهُ ٱلْحَقُّ مِن رَّبِّنَآ إِنَّا كُنَّا مِن قَبْلِهِۦ مُسْلِمِينَ
 
@@ -13708,7 +13708,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أُو۟لَٰٓئِكَ يُؤْتَوْنَ أَجْرَهُم مَّرَّتَيْنِ بِمَا صَبَرُوا۟ وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ
 
-**28:55** Lan nalika piyambakipun mireng rembag ingkang sia-sia, piyambakipun nyimpang saking punika, lan matur, “Kawula gadhah tumindak kawula, lan panjenengan gadhah tumindak panjenengan; tentrem dhateng panjenengan; kawula boten kepengin tiyang ingkang bodho.”
+**28:55** Lan nalika piyambakipun mireng rembag ingkang sia-sia, piyambakipun nyimpang saking punika, lan matur, "Kawula gadhah tumindak kawula, lan panjenengan gadhah tumindak panjenengan; tentrem dhateng panjenengan; kawula boten kepengin tiyang ingkang bodho."
 
 وَإِذَا سَمِعُوا۟ ٱللَّغْوَ أَعْرَضُوا۟ عَنْهُ وَقَالُوا۟ لَنَآ أَعْمَٰلُنَا وَلَكُمْ أَعْمَٰلُكُمْ سَلَٰمٌ عَلَيْكُمْ لَا نَبْتَغِى ٱلْجَٰهِلِينَ
 
@@ -13716,7 +13716,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِنَّكَ لَا تَهْدِى مَنْ أَحْبَبْتَ وَلَٰكِنَّ ٱللَّهَ يَهْدِى مَن يَشَآءُ ۚ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ
 
-**28:57** Lan piyambakipun matur, “Manawi kawula ndherek pitedah sesarengan kaliyan panjenengan, kawula badhe dipunrebut saking negari kawula.” Punapa Kawula boten netepaken kangge piyambakipun Papan Suci Ingkang Aman, dhateng pundi dipunbeta sadaya jinis woh-wohan, minangka rejeki saking Kawula Piyambak? Nanging kathahipun piyambakipun boten mangertos.
+**28:57** Lan piyambakipun matur, "Manawi kawula ndherek pitedah sesarengan kaliyan panjenengan, kawula badhe dipunrebut saking negari kawula." Punapa Kawula boten netepaken kangge piyambakipun Papan Suci Ingkang Aman, dhateng pundi dipunbeta sadaya jinis woh-wohan, minangka rejeki saking Kawula Piyambak? Nanging kathahipun piyambakipun boten mangertos.
 
 وَقَالُوٓا۟ إِن نَّتَّبِعِ ٱلْهُدَىٰ مَعَكَ نُتَخَطَّفْ مِنْ أَرْضِنَآ ۚ أَوَلَمْ نُمَكِّن لَّهُمْ حَرَمًا ءَامِنًۭا يُجْبَىٰٓ إِلَيْهِ ثَمَرَٰتُ كُلِّ شَىْءٍۢ رِّزْقًۭا مِّن لَّدُنَّا وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 
@@ -13736,19 +13736,19 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَفَمَن وَعَدْنَٰهُ وَعْدًا حَسَنًۭا فَهُوَ لَٰقِيهِ كَمَن مَّتَّعْنَٰهُ مَتَٰعَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ثُمَّ هُوَ يَوْمَ ٱلْقِيَٰمَةِ مِنَ ٱلْمُحْضَرِينَ
 
-**28:62** Ing Dinten nalika Panjenenganipun badhe nimbali dhateng piyambakipun, lan ngendika, “Pundi sekutu-sekutu Kawula ingkang biyen panjenengan akoni?”
+**28:62** Ing Dinten nalika Panjenenganipun badhe nimbali dhateng piyambakipun, lan ngendika, "Pundi sekutu-sekutu Kawula ingkang biyen panjenengan akoni?"
 
 وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَآءِىَ ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ
 
-**28:63** Tiyang ingkang putusan sampun leres nglawan piyambakipun badhe matur, “Dhuh Pangeran kawula, punika tiyang ingkang kawula sasaraken. Kawula nyasaraken piyambakipun, kados kawula kesasar. Kawula nyuwun pangapura Panjenengan; sanes kawula ingkang biyen piyambakipun sembah.”
+**28:63** Tiyang ingkang putusan sampun leres nglawan piyambakipun badhe matur, "Dhuh Pangeran kawula, punika tiyang ingkang kawula sasaraken. Kawula nyasaraken piyambakipun, kados kawula kesasar. Kawula nyuwun pangapura Panjenengan; sanes kawula ingkang biyen piyambakipun sembah."
 
 قَالَ ٱلَّذِينَ حَقَّ عَلَيْهِمُ ٱلْقَوْلُ رَبَّنَا هَٰٓؤُلَآءِ ٱلَّذِينَ أَغْوَيْنَآ أَغْوَيْنَٰهُمْ كَمَا غَوَيْنَا ۖ تَبَرَّأْنَآ إِلَيْكَ ۖ مَا كَانُوٓا۟ إِيَّانَا يَعْبُدُونَ
 
-**28:64** Lan badhe dipunngendikakaken, “Timbali sekutu-sekutu panjenengan.” Lan piyambakipun badhe nimbali piyambakipun, nanging piyambakipun boten badhe mangsuli piyambakipun. Lan piyambakipun badhe ningali kasangsaran. Manawi kemawon piyambakipun pikantuk pitedah.
+**28:64** Lan badhe dipunngendikakaken, "Timbali sekutu-sekutu panjenengan." Lan piyambakipun badhe nimbali piyambakipun, nanging piyambakipun boten badhe mangsuli piyambakipun. Lan piyambakipun badhe ningali kasangsaran. Manawi kemawon piyambakipun pikantuk pitedah.
 
 وَقِيلَ ٱدْعُوا۟ شُرَكَآءَكُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا۟ لَهُمْ وَرَأَوُا۟ ٱلْعَذَابَ ۚ لَوْ أَنَّهُمْ كَانُوا۟ يَهْتَدُونَ
 
-**28:65** Ing Dinten nalika Panjenenganipun badhe nimbali dhateng piyambakipun, lan ngendika, “Punapa wangsulan panjenengan dhateng para Utusan?”
+**28:65** Ing Dinten nalika Panjenenganipun badhe nimbali dhateng piyambakipun, lan ngendika, "Punapa wangsulan panjenengan dhateng para Utusan?"
 
 وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ مَاذَآ أَجَبْتُمُ ٱلْمُرْسَلِينَ
 
@@ -13772,11 +13772,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَهُوَ ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ۖ لَهُ ٱلْحَمْدُ فِى ٱلْأُولَىٰ وَٱلْءَاخِرَةِ ۖ وَلَهُ ٱلْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ
 
-**28:71** Matur, “Punapa panjenengan sampun nimbang? Manawi Gusti Allah ndadosaken wanci dalu langgeng nglangkungi panjenengan ngantos Dinten Kiyamat, gusti sinten sanesipun Gusti Allah ingkang badhe mbeta pepadhang dhateng panjenengan? Punapa panjenengan boten mireng?”
+**28:71** Matur, "Punapa panjenengan sampun nimbang? Manawi Gusti Allah ndadosaken wanci dalu langgeng nglangkungi panjenengan ngantos Dinten Kiyamat, gusti sinten sanesipun Gusti Allah ingkang badhe mbeta pepadhang dhateng panjenengan? Punapa panjenengan boten mireng?"
 
 قُلْ أَرَءَيْتُمْ إِن جَعَلَ ٱللَّهُ عَلَيْكُمُ ٱلَّيْلَ سَرْمَدًا إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ مَنْ إِلَٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِضِيَآءٍ ۖ أَفَلَا تَسْمَعُونَ
 
-**28:72** Matur, “Punapa panjenengan sampun nimbang? Manawi Gusti Allah ndadosaken dinten langgeng nglangkungi panjenengan ngantos Dinten Kiyamat, gusti sinten sanesipun Gusti Allah ingkang badhe mbeta wanci dalu kangge panjenengan ngaso wonten ing ngriku? Punapa panjenengan boten ningali?”
+**28:72** Matur, "Punapa panjenengan sampun nimbang? Manawi Gusti Allah ndadosaken dinten langgeng nglangkungi panjenengan ngantos Dinten Kiyamat, gusti sinten sanesipun Gusti Allah ingkang badhe mbeta wanci dalu kangge panjenengan ngaso wonten ing ngriku? Punapa panjenengan boten ningali?"
 
 قُلْ أَرَءَيْتُمْ إِن جَعَلَ ٱللَّهُ عَلَيْكُمُ ٱلنَّهَارَ سَرْمَدًا إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ مَنْ إِلَٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِلَيْلٍۢ تَسْكُنُونَ فِيهِ ۖ أَفَلَا تُبْصِرُونَ
 
@@ -13784,31 +13784,31 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمِن رَّحْمَتِهِۦ جَعَلَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ لِتَسْكُنُوا۟ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ
 
-**28:74** Ing Dinten nalika Panjenenganipun badhe nimbali dhateng piyambakipun, lan ngendika, “Pundi sekutu-sekutu Kawula ingkang biyen panjenengan akoni?”
+**28:74** Ing Dinten nalika Panjenenganipun badhe nimbali dhateng piyambakipun, lan ngendika, "Pundi sekutu-sekutu Kawula ingkang biyen panjenengan akoni?"
 
 وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَآءِىَ ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ
 
-**28:75** Lan Kawula badhe ngwedalaken saking saben komunitas saksi, lan matur, “Tuduhaken bukti panjenengan.” Lajeng piyambakipun badhe mangertos bilih kaleresan punika kagunganipun Gusti Allah, lan ingkang biyen piyambakipun reka sampun nilar piyambakipun.
+**28:75** Lan Kawula badhe ngwedalaken saking saben komunitas saksi, lan matur, "Tuduhaken bukti panjenengan." Lajeng piyambakipun badhe mangertos bilih kaleresan punika kagunganipun Gusti Allah, lan ingkang biyen piyambakipun reka sampun nilar piyambakipun.
 
 وَنَزَعْنَا مِن كُلِّ أُمَّةٍۢ شَهِيدًۭا فَقُلْنَا هَاتُوا۟ بُرْهَٰنَكُمْ فَعَلِمُوٓا۟ أَنَّ ٱلْحَقَّ لِلَّهِ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ
 
-**28:76** Qarun kalebet golonganipun Musa, nanging piyambakipun nganiaya piyambakipun. Kawula sampun maringi bandha dhateng piyambakipun, ingkang kunci-kuncinipun badhe ngeboti golongan priya ingkang kuwat. Kaumipun matur dhateng piyambakipun, “Sampun bingah sanget; Gusti Allah boten remen dhateng tiyang ingkang bingah sanget.
+**28:76** Qarun kalebet golonganipun Musa, nanging piyambakipun nganiaya piyambakipun. Kawula sampun maringi bandha dhateng piyambakipun, ingkang kunci-kuncinipun badhe ngeboti golongan priya ingkang kuwat. Kaumipun matur dhateng piyambakipun, "Sampun bingah sanget; Gusti Allah boten remen dhateng tiyang ingkang bingah sanget.
 
 ۞ إِنَّ قَٰرُونَ كَانَ مِن قَوْمِ مُوسَىٰ فَبَغَىٰ عَلَيْهِمْ ۖ وَءَاتَيْنَٰهُ مِنَ ٱلْكُنُوزِ مَآ إِنَّ مَفَاتِحَهُۥ لَتَنُوٓأُ بِٱلْعُصْبَةِ أُو۟لِى ٱلْقُوَّةِ إِذْ قَالَ لَهُۥ قَوْمُهُۥ لَا تَفْرَحْ ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْفَرِحِينَ
 
-**28:77** Nanging upayanipun, kanthi punapa ingkang Gusti Allah paringaken dhateng panjenengan, Griya Akhirat, lan sampun ngantos lali perangan panjenengan saking donya punika. Lan dados dermawan, kados Gusti Allah sampun dermawan dhateng panjenengan. Lan sampun ngantos ngupaya karusakan wonten ing bumi. Gusti Allah boten remen dhateng tiyang ingkang ngupaya karusakan.”
+**28:77** Nanging upayanipun, kanthi punapa ingkang Gusti Allah paringaken dhateng panjenengan, Griya Akhirat, lan sampun ngantos lali perangan panjenengan saking donya punika. Lan dados dermawan, kados Gusti Allah sampun dermawan dhateng panjenengan. Lan sampun ngantos ngupaya karusakan wonten ing bumi. Gusti Allah boten remen dhateng tiyang ingkang ngupaya karusakan."
 
 وَٱبْتَغِ فِيمَآ ءَاتَىٰكَ ٱللَّهُ ٱلدَّارَ ٱلْءَاخِرَةَ ۖ وَلَا تَنسَ نَصِيبَكَ مِنَ ٱلدُّنْيَا ۖ وَأَحْسِن كَمَآ أَحْسَنَ ٱللَّهُ إِلَيْكَ ۖ وَلَا تَبْغِ ٱلْفَسَادَ فِى ٱلْأَرْضِ ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُفْسِدِينَ
 
-**28:78** Piyambakipun matur, “Kula dipunparingi sadaya punika amargi kawruh ingkang kula gadhahi.” Punapa piyambakipun boten mangertos bilih Gusti Allah ngrusak kathah generasi sadurungipun piyambakipun, ingkang langkung kuwat tinimbang piyambakipun, lan gadhah bandha langkung kathah? Nanging tiyang dosa boten badhe dipuntaken ngengingi dosa-dosanipun.
+**28:78** Piyambakipun matur, "Kula dipunparingi sadaya punika amargi kawruh ingkang kula gadhahi." Punapa piyambakipun boten mangertos bilih Gusti Allah ngrusak kathah generasi sadurungipun piyambakipun, ingkang langkung kuwat tinimbang piyambakipun, lan gadhah bandha langkung kathah? Nanging tiyang dosa boten badhe dipuntaken ngengingi dosa-dosanipun.
 
 قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلْمٍ عِندِىٓ ۚ أَوَلَمْ يَعْلَمْ أَنَّ ٱللَّهَ قَدْ أَهْلَكَ مِن قَبْلِهِۦ مِنَ ٱلْقُرُونِ مَنْ هُوَ أَشَدُّ مِنْهُ قُوَّةًۭ وَأَكْثَرُ جَمْعًۭا ۚ وَلَا يُسْـَٔلُ عَن ذُنُوبِهِمُ ٱلْمُجْرِمُونَ
 
-**28:79** Lan piyambakipun medal ing ngajeng kaumipun kanthi kamulyanipun. Tiyang ingkang kepengin gesang donya matur, “Manawi kemawon kawula gadhah kados punapa ingkang dipunparingaken dhateng Qarun. Piyambakipun satuhu begja sanget.”
+**28:79** Lan piyambakipun medal ing ngajeng kaumipun kanthi kamulyanipun. Tiyang ingkang kepengin gesang donya matur, "Manawi kemawon kawula gadhah kados punapa ingkang dipunparingaken dhateng Qarun. Piyambakipun satuhu begja sanget."
 
 فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ
 
-**28:80** Nanging tiyang ingkang dipunparingi kawruh matur, “Cilaka panjenengan! Ganjaranipun Gusti Allah langkung sae kangge tiyang ingkang pitados lan nindakaken tumindak sholeh.” Nanging boten wonten ingkang nggayuh punika kajawi tiyang ingkang sabar.
+**28:80** Nanging tiyang ingkang dipunparingi kawruh matur, "Cilaka panjenengan! Ganjaranipun Gusti Allah langkung sae kangge tiyang ingkang pitados lan nindakaken tumindak sholeh." Nanging boten wonten ingkang nggayuh punika kajawi tiyang ingkang sabar.
 
 وَقَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ وَيْلَكُمْ ثَوَابُ ٱللَّهِ خَيْرٌۭ لِّمَنْ ءَامَنَ وَعَمِلَ صَٰلِحًۭا وَلَا يُلَقَّىٰهَآ إِلَّا ٱلصَّٰبِرُونَ
 
@@ -13816,7 +13816,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ
 
-**28:82** Tiyang ingkang wingi kepengin wonten ing posisinipun sami matur, “Satuhu, punika Gusti Allah ingkang nyebar kanugrahan dhateng sinten ingkang Panjenenganipun kersakaken saking para kawula Panjenenganipun, lan mbatesi punika. Manawi Gusti Allah boten dermawan dhateng kawula, Panjenenganipun sampun ngamblesaken kawula. Boten gumun tiyang ingkang boten ngaturaken panuwun boten nate begja.”
+**28:82** Tiyang ingkang wingi kepengin wonten ing posisinipun sami matur, "Satuhu, punika Gusti Allah ingkang nyebar kanugrahan dhateng sinten ingkang Panjenenganipun kersakaken saking para kawula Panjenenganipun, lan mbatesi punika. Manawi Gusti Allah boten dermawan dhateng kawula, Panjenenganipun sampun ngamblesaken kawula. Boten gumun tiyang ingkang boten ngaturaken panuwun boten nate begja."
 
 وَأَصْبَحَ ٱلَّذِينَ تَمَنَّوْا۟ مَكَانَهُۥ بِٱلْأَمْسِ يَقُولُونَ وَيْكَأَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ ۖ لَوْلَآ أَن مَّنَّ ٱللَّهُ عَلَيْنَا لَخَسَفَ بِنَا ۖ وَيْكَأَنَّهُۥ لَا يُفْلِحُ ٱلْكَٰفِرُونَ
 
@@ -13828,7 +13828,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 مَن جَآءَ بِٱلْحَسَنَةِ فَلَهُۥ خَيْرٌۭ مِّنْهَا ۖ وَمَن جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجْزَى ٱلَّذِينَ عَمِلُوا۟ ٱلسَّيِّـَٔاتِ إِلَّا مَا كَانُوا۟ يَعْمَلُونَ
 
-**28:85** Panjenenganipun ingkang nemtokaken Quran kangge panjenengan badhe mangsulaken panjenengan dhateng Griya. Matur, “Pangeran kula mangertos sae piyambak sinten ingkang dhateng kanthi pitedah, lan sinten ingkang wonten ing kasasaran ingkang nyata.”
+**28:85** Panjenenganipun ingkang nemtokaken Quran kangge panjenengan badhe mangsulaken panjenengan dhateng Griya. Matur, "Pangeran kula mangertos sae piyambak sinten ingkang dhateng kanthi pitedah, lan sinten ingkang wonten ing kasasaran ingkang nyata."
 
 إِنَّ ٱلَّذِى فَرَضَ عَلَيْكَ ٱلْقُرْءَانَ لَرَآدُّكَ إِلَىٰ مَعَادٍۢ ۚ قُل رَّبِّىٓ أَعْلَمُ مَن جَآءَ بِٱلْهُدَىٰ وَمَنْ هُوَ فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
@@ -16860,7 +16860,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِنَّآ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَٰبَ بِٱلْحَقِّ فَٱعْبُدِ ٱللَّهَ مُخْلِصًۭا لَّهُ ٱلدِّينَ
 
-**39:3** Menapa sanes dhumateng Gusti Allah kapitadosan ingkang tulus punika wajib dipunaturaken? Dene tiyang-tiyang ingkang mendhet para pangreksa sanesipun Panjenenganipun, piyambakipun sedaya matur, “Kawula sami nyembah piyambakipun sedaya namung supados piyambakipun sedaya saged nyelakaken kawula dhumateng Gusti Allah.” Gusti Allah badhe maringi putusan antawisipun piyambakipun sedaya bab benten-bentenipun piyambakipun sedaya. Gusti Allah mboten nedahaken tiyang ingkang goroh saha kafir.
+**39:3** Menapa sanes dhumateng Gusti Allah kapitadosan ingkang tulus punika wajib dipunaturaken? Dene tiyang-tiyang ingkang mendhet para pangreksa sanesipun Panjenenganipun, piyambakipun sedaya matur, "Kawula sami nyembah piyambakipun sedaya namung supados piyambakipun sedaya saged nyelakaken kawula dhumateng Gusti Allah." Gusti Allah badhe maringi putusan antawisipun piyambakipun sedaya bab benten-bentenipun piyambakipun sedaya. Gusti Allah mboten nedahaken tiyang ingkang goroh saha kafir.
 
 أَلَا لِلَّهِ ٱلدِّينُ ٱلْخَالِصُ ۚ وَٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَآ إِلَى ٱللَّهِ زُلْفَىٰٓ إِنَّ ٱللَّهَ يَحْكُمُ بَيْنَهُمْ فِى مَا هُمْ فِيهِ يَخْتَلِفُونَ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ كَٰذِبٌۭ كَفَّارٌۭ
 
@@ -16880,39 +16880,39 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِن تَكْفُرُوا۟ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنكُمْ ۖ وَلَا يَرْضَىٰ لِعِبَادِهِ ٱلْكُفْرَ ۖ وَإِن تَشْكُرُوا۟ يَرْضَهُ لَكُمْ ۗ وَلَا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ۗ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
-**39:8** Menawi satunggaling kasangsaran ndemok manungsa, piyambakipun ndedonga dhumateng Pangeranipun, kanthi mratobat dhumateng Panjenenganipun. Nanging lajeng, menawi Panjenenganipun maringi kanugrahan Panjenenganipun dhumateng piyambakipun, piyambakipun kesupen menapa ingkang rumiyin dipundedonga, lan piyambakipun ndadosaken tandingan-tandingan kagem Gusti Allah, kangge nyesataken saking margi Panjenenganipun. Matura, “Panjenengan ngraosaken kemawon mboten pitados panjenengan sawetawis wekdal; panjenengan badhe kalebet para warga Geni.”
+**39:8** Menawi satunggaling kasangsaran ndemok manungsa, piyambakipun ndedonga dhumateng Pangeranipun, kanthi mratobat dhumateng Panjenenganipun. Nanging lajeng, menawi Panjenenganipun maringi kanugrahan Panjenenganipun dhumateng piyambakipun, piyambakipun kesupen menapa ingkang rumiyin dipundedonga, lan piyambakipun ndadosaken tandingan-tandingan kagem Gusti Allah, kangge nyesataken saking margi Panjenenganipun. Matura, "Panjenengan ngraosaken kemawon mboten pitados panjenengan sawetawis wekdal; panjenengan badhe kalebet para warga Geni."
 
 ۞ وَإِذَا مَسَّ ٱلْإِنسَٰنَ ضُرٌّۭ دَعَا رَبَّهُۥ مُنِيبًا إِلَيْهِ ثُمَّ إِذَا خَوَّلَهُۥ نِعْمَةًۭ مِّنْهُ نَسِىَ مَا كَانَ يَدْعُوٓا۟ إِلَيْهِ مِن قَبْلُ وَجَعَلَ لِلَّهِ أَندَادًۭا لِّيُضِلَّ عَن سَبِيلِهِۦ ۚ قُلْ تَمَتَّعْ بِكُفْرِكَ قَلِيلًا ۖ إِنَّكَ مِنْ أَصْحَٰبِ ٱلنَّارِ
 
-**39:9** Menapa piyambakipun ingkang ngabekti kanthi tulusing manah ing wekdal-wekdal dalu, kanthi sujud lan jumeneng, kanthi nggatosaken Akhirat, lan ngajeng-ajeng sih welasipun Pangeranipun, sami kaliyan ingkang sanes? Matura, “Menapa tiyang-tiyang ingkang mangertos lan tiyang-tiyang ingkang mboten mangertos punika sami?” Namung tiyang-tiyang ingkang gadhah akal ingkang badhe enget.
+**39:9** Menapa piyambakipun ingkang ngabekti kanthi tulusing manah ing wekdal-wekdal dalu, kanthi sujud lan jumeneng, kanthi nggatosaken Akhirat, lan ngajeng-ajeng sih welasipun Pangeranipun, sami kaliyan ingkang sanes? Matura, "Menapa tiyang-tiyang ingkang mangertos lan tiyang-tiyang ingkang mboten mangertos punika sami?" Namung tiyang-tiyang ingkang gadhah akal ingkang badhe enget.
 
 أَمَّنْ هُوَ قَٰنِتٌ ءَانَآءَ ٱلَّيْلِ سَاجِدًۭا وَقَآئِمًۭا يَحْذَرُ ٱلْءَاخِرَةَ وَيَرْجُوا۟ رَحْمَةَ رَبِّهِۦ ۗ قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَ ۗ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَٰبِ
 
-**39:10** Matura, “Dhuh para kawula Ingsun ingkang sampun pitados, panjenengan sedaya tetep nindakaken kewajiban panjenengan sedaya dhumateng Pangeran panjenengan sedaya. Kagem tiyang-tiyang ingkang tumindak sae wonten ing donya punika, wonten kesaenan. Lan bumi Gusti Allah punika wiyar. Tiyang-tiyang ingkang sabar badhe dipunparingi upahipun kanthi wetah, tanpa etangan.”
+**39:10** Matura, "Dhuh para kawula Ingsun ingkang sampun pitados, panjenengan sedaya tetep nindakaken kewajiban panjenengan sedaya dhumateng Pangeran panjenengan sedaya. Kagem tiyang-tiyang ingkang tumindak sae wonten ing donya punika, wonten kesaenan. Lan bumi Gusti Allah punika wiyar. Tiyang-tiyang ingkang sabar badhe dipunparingi upahipun kanthi wetah, tanpa etangan."
 
 قُلْ يَٰعِبَادِ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ رَبَّكُمْ ۚ لِلَّذِينَ أَحْسَنُوا۟ فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةٌۭ ۗ وَأَرْضُ ٱللَّهِ وَٰسِعَةٌ ۗ إِنَّمَا يُوَفَّى ٱلصَّٰبِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍۢ
 
-**39:11** Matura, “Kawula sampun dipundhawuhi supados ngabekti dhumateng Gusti Allah, kanthi nulusaken agami kawula namung kagem Panjenenganipun.
+**39:11** Matura, "Kawula sampun dipundhawuhi supados ngabekti dhumateng Gusti Allah, kanthi nulusaken agami kawula namung kagem Panjenenganipun.
 
 قُلْ إِنِّىٓ أُمِرْتُ أَنْ أَعْبُدَ ٱللَّهَ مُخْلِصًۭا لَّهُ ٱلدِّينَ
 
-**39:12** Lan kawula sampun dipundhawuhi supados dados ingkang wiwitan saking tiyang-tiyang ingkang pasrah.”
+**39:12** Lan kawula sampun dipundhawuhi supados dados ingkang wiwitan saking tiyang-tiyang ingkang pasrah."
 
 وَأُمِرْتُ لِأَنْ أَكُونَ أَوَّلَ ٱلْمُسْلِمِينَ
 
-**39:13** Matura, “Kawula ajrih, menawi kawula mbangkang dhumateng Pangeran kawula, dhumateng paukuman Dinten ingkang nggegirisi.”
+**39:13** Matura, "Kawula ajrih, menawi kawula mbangkang dhumateng Pangeran kawula, dhumateng paukuman Dinten ingkang nggegirisi."
 
 قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍۢ
 
-**39:14** Matura, “Gusti Allah ingkang kawula sembah, kanthi tulusing kapitadosan kawula dhumateng Panjenenganipun.”
+**39:14** Matura, "Gusti Allah ingkang kawula sembah, kanthi tulusing kapitadosan kawula dhumateng Panjenenganipun."
 
 قُلِ ٱللَّهَ أَعْبُدُ مُخْلِصًۭا لَّهُۥ دِينِى
 
-**39:15** “Nanging panjenengan sedaya saged nyembah menapa kemawon ingkang panjenengan sedaya kersakaken sanesipun Panjenenganipun.” Matura, “Tiyang-tiyang ingkang kapitunan punika tiyang-tiyang ingkang kelangan jiwa-jiwanipun lan tiyang-tiyangipun wonten ing Dinten Kiyamat.” Punika saestu kapitunan ingkang cetha.
+**39:15** "Nanging panjenengan sedaya saged nyembah menapa kemawon ingkang panjenengan sedaya kersakaken sanesipun Panjenenganipun." Matura, "Tiyang-tiyang ingkang kapitunan punika tiyang-tiyang ingkang kelangan jiwa-jiwanipun lan tiyang-tiyangipun wonten ing Dinten Kiyamat." Punika saestu kapitunan ingkang cetha.
 
 فَٱعْبُدُوا۟ مَا شِئْتُم مِّن دُونِهِۦ ۗ قُلْ إِنَّ ٱلْخَٰسِرِينَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ ٱلْقِيَٰمَةِ ۗ أَلَا ذَٰلِكَ هُوَ ٱلْخُسْرَانُ ٱلْمُبِينُ
 
-**39:16** Piyambakipun sedaya badhe gadhah lapisan-lapisan Geni wonten ing nginggilipun piyambakipun sedaya, lan lapisan-lapisan wonten ing ngandhapipun piyambakipun sedaya. Mekaten caranipun Gusti Allah ndamel ajrih para kawula Panjenenganipun — “Dhuh para kawula Ingsun! Panjenengan sedaya ajrih dhumateng Ingsun!”
+**39:16** Piyambakipun sedaya badhe gadhah lapisan-lapisan Geni wonten ing nginggilipun piyambakipun sedaya, lan lapisan-lapisan wonten ing ngandhapipun piyambakipun sedaya. Mekaten caranipun Gusti Allah ndamel ajrih para kawula Panjenenganipun — "Dhuh para kawula Ingsun! Panjenengan sedaya ajrih dhumateng Ingsun!"
 
 لَهُم مِّن فَوْقِهِمْ ظُلَلٌۭ مِّنَ ٱلنَّارِ وَمِن تَحْتِهِمْ ظُلَلٌۭ ۚ ذَٰلِكَ يُخَوِّفُ ٱللَّهُ بِهِۦ عِبَادَهُۥ ۚ يَٰعِبَادِ فَٱتَّقُونِ
 
@@ -16944,7 +16944,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ٱللَّهُ نَزَّلَ أَحْسَنَ ٱلْحَدِيثِ كِتَٰبًۭا مُّتَشَٰبِهًۭا مَّثَانِىَ تَقْشَعِرُّ مِنْهُ جُلُودُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَىٰ ذِكْرِ ٱللَّهِ ۚ ذَٰلِكَ هُدَى ٱللَّهِ يَهْدِى بِهِۦ مَن يَشَآءُ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ
 
-**39:24** Kados pundi bab tiyang ingkang nutupi pasuryanipun nglawan kasangsaran ingkang nggegirisi ing Dinten Kiyamat? Dhumateng tiyang-tiyang ingkang tumindak awon badhe dipunngendikakaken, “Panjenengan sedaya ngraosaken menapa ingkang rumiyin panjenengan sedaya pados.”
+**39:24** Kados pundi bab tiyang ingkang nutupi pasuryanipun nglawan kasangsaran ingkang nggegirisi ing Dinten Kiyamat? Dhumateng tiyang-tiyang ingkang tumindak awon badhe dipunngendikakaken, "Panjenengan sedaya ngraosaken menapa ingkang rumiyin panjenengan sedaya pados."
 
 أَفَمَن يَتَّقِى بِوَجْهِهِۦ سُوٓءَ ٱلْعَذَابِ يَوْمَ ٱلْقِيَٰمَةِ ۚ وَقِيلَ لِلظَّٰلِمِينَ ذُوقُوا۟ مَا كُنتُمْ تَكْسِبُونَ
 
@@ -17000,15 +17000,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمَن يَهْدِ ٱللَّهُ فَمَا لَهُۥ مِن مُّضِلٍّ ۗ أَلَيْسَ ٱللَّهُ بِعَزِيزٍۢ ذِى ٱنتِقَامٍۢ
 
-**39:38** Lan menawi panjenengan takin dhumateng piyambakipun sedaya, “Sinten ingkang nitahaken langit-langit lan bumi?” piyambakipun sedaya badhe matur, “Gusti Allah.” Matura, “Menapa panjenengan sedaya sampun ningali tiyang-tiyang ingkang panjenengan sedaya donga sanesipun Gusti Allah? Menawi Gusti Allah ngersakaken cilaka punapa kemawon kagem kawula, menapa piyambakipun sedaya saged ngangkat cilaka Panjenenganipun? Lan menawi Panjenenganipun ngersakaken berkah kagem kawula, menapa piyambakipun sedaya saged nahan sih welas Panjenenganipun?” Matura, “Gusti Allah cekap kagem kawula. Dhumateng Panjenenganipun tiyang-tiyang ingkang pasrah sami pasrah.”
+**39:38** Lan menawi panjenengan takin dhumateng piyambakipun sedaya, "Sinten ingkang nitahaken langit-langit lan bumi?" piyambakipun sedaya badhe matur, "Gusti Allah." Matura, "Menapa panjenengan sedaya sampun ningali tiyang-tiyang ingkang panjenengan sedaya donga sanesipun Gusti Allah? Menawi Gusti Allah ngersakaken cilaka punapa kemawon kagem kawula, menapa piyambakipun sedaya saged ngangkat cilaka Panjenenganipun? Lan menawi Panjenenganipun ngersakaken berkah kagem kawula, menapa piyambakipun sedaya saged nahan sih welas Panjenenganipun?" Matura, "Gusti Allah cekap kagem kawula. Dhumateng Panjenenganipun tiyang-tiyang ingkang pasrah sami pasrah."
 
 وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ ٱللَّهُ ۚ قُلْ أَفَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ إِنْ أَرَادَنِىَ ٱللَّهُ بِضُرٍّ هَلْ هُنَّ كَٰشِفَٰتُ ضُرِّهِۦٓ أَوْ أَرَادَنِى بِرَحْمَةٍ هَلْ هُنَّ مُمْسِكَٰتُ رَحْمَتِهِۦ ۚ قُلْ حَسْبِىَ ٱللَّهُ ۖ عَلَيْهِ يَتَوَكَّلُ ٱلْمُتَوَكِّلُونَ
 
-**39:39** Matura: “Dhuh kaum kawula, panjenengan sedaya makarya miturut kemampuan panjenengan sedaya; lan kawula ugi badhe makarya. Lajeng panjenengan sedaya badhe mangertos.
+**39:39** Matura: "Dhuh kaum kawula, panjenengan sedaya makarya miturut kemampuan panjenengan sedaya; lan kawula ugi badhe makarya. Lajeng panjenengan sedaya badhe mangertos.
 
 قُلْ يَٰقَوْمِ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنِّى عَٰمِلٌۭ ۖ فَسَوْفَ تَعْلَمُونَ
 
-**39:40** Sinten ingkang badhe nampi paukuman ingkang ngasoraken, lan sinten ingkang badhe dhawah paukuman ingkang langgeng.”
+**39:40** Sinten ingkang badhe nampi paukuman ingkang ngasoraken, lan sinten ingkang badhe dhawah paukuman ingkang langgeng."
 
 مَن يَأْتِيهِ عَذَابٌۭ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌۭ مُّقِيمٌ
 
@@ -17020,11 +17020,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا ۖ فَيُمْسِكُ ٱلَّتِى قَضَىٰ عَلَيْهَا ٱلْمَوْتَ وَيُرْسِلُ ٱلْأُخْرَىٰٓ إِلَىٰٓ أَجَلٍۢ مُّسَمًّى ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ
 
-**39:43** Utawi menapa piyambakipun sedaya sampun milih para perantara sanesipun Gusti Allah? Matura, “Sanajan piyambakipun sedaya boten gadhah kuwaos bab punapa kemawon, lan boten gadhah akal?”
+**39:43** Utawi menapa piyambakipun sedaya sampun milih para perantara sanesipun Gusti Allah? Matura, "Sanajan piyambakipun sedaya boten gadhah kuwaos bab punapa kemawon, lan boten gadhah akal?"
 
 أَمِ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ شُفَعَآءَ ۚ قُلْ أَوَلَوْ كَانُوا۟ لَا يَمْلِكُونَ شَيْـًۭٔا وَلَا يَعْقِلُونَ
 
-**39:44** Matura, “Sadaya syafaat punika kagunganipun Gusti Allah. Kagunganipun Panjenenganipun krajan langit-langit lan bumi. Lajeng dhumateng Panjenenganipun panjenengan sedaya badhe dipunwangsulaken.”
+**39:44** Matura, "Sadaya syafaat punika kagunganipun Gusti Allah. Kagunganipun Panjenenganipun krajan langit-langit lan bumi. Lajeng dhumateng Panjenenganipun panjenengan sedaya badhe dipunwangsulaken."
 
 قُل لِّلَّهِ ٱلشَّفَٰعَةُ جَمِيعًۭا ۖ لَّهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ ثُمَّ إِلَيْهِ تُرْجَعُونَ
 
@@ -17032,7 +17032,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَإِذَا ذُكِرَ ٱللَّهُ وَحْدَهُ ٱشْمَأَزَّتْ قُلُوبُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ ۖ وَإِذَا ذُكِرَ ٱلَّذِينَ مِن دُونِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ
 
-**39:46** Matura, “Dhuh Gusti Allah kawula sedaya, Ingkang Miwiti langit-langit lan bumi, Ingkang Mangertos sadaya wewados lan pangandikan. Panjenengan badhe maringi putusan antawisipun para kawula Panjenengan bab menapa ingkang rumiyin piyambakipun sedaya benten panemu bab punika.”
+**39:46** Matura, "Dhuh Gusti Allah kawula sedaya, Ingkang Miwiti langit-langit lan bumi, Ingkang Mangertos sadaya wewados lan pangandikan. Panjenengan badhe maringi putusan antawisipun para kawula Panjenengan bab menapa ingkang rumiyin piyambakipun sedaya benten panemu bab punika."
 
 قُلِ ٱللَّهُمَّ فَاطِرَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ عَٰلِمَ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ أَنتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِى مَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ
 
@@ -17044,7 +17044,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَبَدَا لَهُمْ سَيِّـَٔاتُ مَا كَسَبُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**39:49** Menawi kasangsaran ndemok manungsa, piyambakipun nyuwun dhumateng Ingsun. Nanging lajeng, menawi Ingsun maringi berkah saking Ingsun dhumateng piyambakipun, piyambakipun matur, “Kawula sampun nggayuh punika amargi kawruh kawula.” Nanging, punika satunggaling ujian, nanging kathahipun piyambakipun sedaya mboten mangertos.
+**39:49** Menawi kasangsaran ndemok manungsa, piyambakipun nyuwun dhumateng Ingsun. Nanging lajeng, menawi Ingsun maringi berkah saking Ingsun dhumateng piyambakipun, piyambakipun matur, "Kawula sampun nggayuh punika amargi kawruh kawula." Nanging, punika satunggaling ujian, nanging kathahipun piyambakipun sedaya mboten mangertos.
 
 فَإِذَا مَسَّ ٱلْإِنسَٰنَ ضُرٌّۭ دَعَانَا ثُمَّ إِذَا خَوَّلْنَٰهُ نِعْمَةًۭ مِّنَّا قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلْمٍۭ ۚ بَلْ هِىَ فِتْنَةٌۭ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 
@@ -17060,7 +17060,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَوَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يُؤْمِنُونَ
 
-**39:53** Matura, “Dhuh para kawula Ingsun ingkang sampun nglanggar wates nglawan piyambakipun piyambak: panjenengan sedaya sampun ngantos kentekan pangajeng-ajeng dhumateng sih welasipun Gusti Allah, amargi Gusti Allah ngapura sadaya dosa. Saestu Panjenenganipun punika Ingkang Mahangapura, Ingkang Mahaasih.”
+**39:53** Matura, "Dhuh para kawula Ingsun ingkang sampun nglanggar wates nglawan piyambakipun piyambak: panjenengan sedaya sampun ngantos kentekan pangajeng-ajeng dhumateng sih welasipun Gusti Allah, amargi Gusti Allah ngapura sadaya dosa. Saestu Panjenenganipun punika Ingkang Mahangapura, Ingkang Mahaasih."
 
 ۞ قُلْ يَٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
@@ -17072,15 +17072,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَٱتَّبِعُوٓا۟ أَحْسَنَ مَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُم مِّن قَبْلِ أَن يَأْتِيَكُمُ ٱلْعَذَابُ بَغْتَةًۭ وَأَنتُمْ لَا تَشْعُرُونَ
 
-**39:56** Supados jiwa mboten matur, “Kados pundi getun kawula, amargi sampun nglirwakaken kewajiban kawula dhumateng Gusti Allah, lan amargi sampun dados antawisipun tiyang-tiyang ingkang geguyu.”
+**39:56** Supados jiwa mboten matur, "Kados pundi getun kawula, amargi sampun nglirwakaken kewajiban kawula dhumateng Gusti Allah, lan amargi sampun dados antawisipun tiyang-tiyang ingkang geguyu."
 
 أَن تَقُولَ نَفْسٌۭ يَٰحَسْرَتَىٰ عَلَىٰ مَا فَرَّطتُ فِى جَنۢبِ ٱللَّهِ وَإِن كُنتُ لَمِنَ ٱلسَّٰخِرِينَ
 
-**39:57** Utawi matur, “Menawi Gusti Allah sampun nedahaken kawula; kawula mesthi dados antawisipun tiyang-tiyang ingkang taqwa.”
+**39:57** Utawi matur, "Menawi Gusti Allah sampun nedahaken kawula; kawula mesthi dados antawisipun tiyang-tiyang ingkang taqwa."
 
 أَوْ تَقُولَ لَوْ أَنَّ ٱللَّهَ هَدَىٰنِى لَكُنتُ مِنَ ٱلْمُتَّقِينَ
 
-**39:58** Utawi matur, nalika jiwa punika ningali paukuman, “Menawi kemawon kawula gadhah kesempatan sanes, kawula badhe dados antawisipun tiyang-tiyang ingkang sae tumindakipun.”
+**39:58** Utawi matur, nalika jiwa punika ningali paukuman, "Menawi kemawon kawula gadhah kesempatan sanes, kawula badhe dados antawisipun tiyang-tiyang ingkang sae tumindakipun."
 
 أَوْ تَقُولَ حِينَ تَرَى ٱلْعَذَابَ لَوْ أَنَّ لِى كَرَّةًۭ فَأَكُونَ مِنَ ٱلْمُحْسِنِينَ
 
@@ -17104,7 +17104,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 لَّهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِ ٱللَّهِ أُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ
 
-**39:64** Matura, “Menapa sanesipun Gusti Allah ingkang panjenengan sedaya dhawuhaken dhumateng kawula supados kawula sembah, dhuh tiyang-tiyang ingkang bodho?”
+**39:64** Matura, "Menapa sanesipun Gusti Allah ingkang panjenengan sedaya dhawuhaken dhumateng kawula supados kawula sembah, dhuh tiyang-tiyang ingkang bodho?"
 
 قُلْ أَفَغَيْرَ ٱللَّهِ تَأْمُرُوٓنِّىٓ أَعْبُدُ أَيُّهَا ٱلْجَٰهِلُونَ
 
@@ -17132,23 +17132,23 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَوُفِّيَتْ كُلُّ نَفْسٍۢ مَّا عَمِلَتْ وَهُوَ أَعْلَمُ بِمَا يَفْعَلُونَ
 
-**39:71** Tiyang-tiyang ingkang mboten pitados badhe dipunirid dhumateng Neraka kanthi rerombongan. Ngantos, nalika piyambakipun sedaya sampun dumugi ing ngriku, lan gapura-gapuranipun dipunbikak, para pangreksanipun badhe matur dhumateng piyambakipun sedaya, “Menapa para utusan saking antawisipun panjenengan sedaya mboten sampun dhateng dhumateng panjenengan sedaya, kanthi maosaken dhumateng panjenengan sedaya wahyu-wahyunipun Pangeran panjenengan sedaya, lan ngemutaken panjenengan sedaya bab pepanggihan Dinten panjenengan sedaya punika?” Piyambakipun sedaya badhe matur, “Inggih, nanging putusan paukuman punika sampun leres nglawan tiyang-tiyang ingkang mboten pitados.”
+**39:71** Tiyang-tiyang ingkang mboten pitados badhe dipunirid dhumateng Neraka kanthi rerombongan. Ngantos, nalika piyambakipun sedaya sampun dumugi ing ngriku, lan gapura-gapuranipun dipunbikak, para pangreksanipun badhe matur dhumateng piyambakipun sedaya, "Menapa para utusan saking antawisipun panjenengan sedaya mboten sampun dhateng dhumateng panjenengan sedaya, kanthi maosaken dhumateng panjenengan sedaya wahyu-wahyunipun Pangeran panjenengan sedaya, lan ngemutaken panjenengan sedaya bab pepanggihan Dinten panjenengan sedaya punika?" Piyambakipun sedaya badhe matur, "Inggih, nanging putusan paukuman punika sampun leres nglawan tiyang-tiyang ingkang mboten pitados."
 
 وَسِيقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ جَهَنَّمَ زُمَرًا ۖ حَتَّىٰٓ إِذَا جَآءُوهَا فُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ رُسُلٌۭ مِّنكُمْ يَتْلُونَ عَلَيْكُمْ ءَايَٰتِ رَبِّكُمْ وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا ۚ قَالُوا۟ بَلَىٰ وَلَٰكِنْ حَقَّتْ كَلِمَةُ ٱلْعَذَابِ عَلَى ٱلْكَٰفِرِينَ
 
-**39:72** Bade dipunngendikakaken, “Panjenengan sedaya mlebet gapura-gapuranipun Neraka, kangge manggen wonten ing ngriku salami-laminipun.” Kados pundi awonipun papan tujuanipun tiyang-tiyang ingkang gumedhe.
+**39:72** Bade dipunngendikakaken, "Panjenengan sedaya mlebet gapura-gapuranipun Neraka, kangge manggen wonten ing ngriku salami-laminipun." Kados pundi awonipun papan tujuanipun tiyang-tiyang ingkang gumedhe.
 
 قِيلَ ٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَٰلِدِينَ فِيهَا ۖ فَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ
 
-**39:73** Lan tiyang-tiyang ingkang ajrih dhumateng Pangeranipun piyambakipun sedaya badhe dipuntuntun dhumateng Swarga kanthi rerombongan. Ngantos, nalika piyambakipun sedaya sampun dumugi ing ngriku, lan gapura-gapuranipun dipunbikak, para pangreksanipun badhe matur dhumateng piyambakipun sedaya, “Tentrem rahayu dhumateng panjenengan sedaya, panjenengan sedaya sampun sae, pramila panjenengan sedaya mlebet, kangge manggen wonten ing ngriku salami-laminipun.”
+**39:73** Lan tiyang-tiyang ingkang ajrih dhumateng Pangeranipun piyambakipun sedaya badhe dipuntuntun dhumateng Swarga kanthi rerombongan. Ngantos, nalika piyambakipun sedaya sampun dumugi ing ngriku, lan gapura-gapuranipun dipunbikak, para pangreksanipun badhe matur dhumateng piyambakipun sedaya, "Tentrem rahayu dhumateng panjenengan sedaya, panjenengan sedaya sampun sae, pramila panjenengan sedaya mlebet, kangge manggen wonten ing ngriku salami-laminipun."
 
 وَسِيقَ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ إِلَى ٱلْجَنَّةِ زُمَرًا ۖ حَتَّىٰٓ إِذَا جَآءُوهَا وَفُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَا سَلَٰمٌ عَلَيْكُمْ طِبْتُمْ فَٱدْخُلُوهَا خَٰلِدِينَ
 
-**39:74** Lan piyambakipun sedaya badhe matur, “Sadaya puji kagunganipun Gusti Allah, ingkang sampun netepi prasetya Panjenenganipun dhumateng kawula sedaya, lan ndadosaken kawula sedaya marisi tanah, kanthi ngraosaken Swarga kados ingkang kawula sedaya kersakaken.” Kados pundi sanget saenipun ganjaranipun tiyang-tiyang ingkang makarya.
+**39:74** Lan piyambakipun sedaya badhe matur, "Sadaya puji kagunganipun Gusti Allah, ingkang sampun netepi prasetya Panjenenganipun dhumateng kawula sedaya, lan ndadosaken kawula sedaya marisi tanah, kanthi ngraosaken Swarga kados ingkang kawula sedaya kersakaken." Kados pundi sanget saenipun ganjaranipun tiyang-tiyang ingkang makarya.
 
 وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى صَدَقَنَا وَعْدَهُۥ وَأَوْرَثَنَا ٱلْأَرْضَ نَتَبَوَّأُ مِنَ ٱلْجَنَّةِ حَيْثُ نَشَآءُ ۖ فَنِعْمَ أَجْرُ ٱلْعَٰمِلِينَ
 
-**39:75** Lan panjenengan badhe ningali para malaikat ngubengi Dampar, kanthi mulyaaken Pangeranipun piyambakipun sedaya kanthi puji. Lan badhe dipunparingi putusan antawisipun piyambakipun sedaya kanthi adil, lan badhe dipunngendikakaken, “Sadaya puji kagunganipun Gusti Allah, Pangeranipun sadaya alam.”
+**39:75** Lan panjenengan badhe ningali para malaikat ngubengi Dampar, kanthi mulyaaken Pangeranipun piyambakipun sedaya kanthi puji. Lan badhe dipunparingi putusan antawisipun piyambakipun sedaya kanthi adil, lan badhe dipunngendikakaken, "Sadaya puji kagunganipun Gusti Allah, Pangeranipun sadaya alam."
 
 وَتَرَى ٱلْمَلَٰٓئِكَةَ حَآفِّينَ مِنْ حَوْلِ ٱلْعَرْشِ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ ۖ وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَقِيلَ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
@@ -17188,7 +17188,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَكَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ كَفَرُوٓا۟ أَنَّهُمْ أَصْحَٰبُ ٱلنَّارِ
 
-**40:7** Tiyang-tiyang ingkang mbekta Dampar, lan tiyang-tiyang ingkang wonten ing sakiwatengenipun, sami mulyaaken Pangeranipun piyambakipun sedaya kanthi puji, lan pitados dhumateng Panjenenganipun, lan nyuwunaken pangapura kagem tiyang-tiyang ingkang pitados: “Pangeran kawula sedaya, Panjenengan sampun ngliputi sadaya barang kanthi sih welas lan kawruh; pramila Panjenengan ngapura tiyang-tiyang ingkang mratobat lan ndherek margi Panjenengan, lan Panjenengan ngreksa piyambakipun sedaya saking kasangsaran Geni ingkang murub.
+**40:7** Tiyang-tiyang ingkang mbekta Dampar, lan tiyang-tiyang ingkang wonten ing sakiwatengenipun, sami mulyaaken Pangeranipun piyambakipun sedaya kanthi puji, lan pitados dhumateng Panjenenganipun, lan nyuwunaken pangapura kagem tiyang-tiyang ingkang pitados: "Pangeran kawula sedaya, Panjenengan sampun ngliputi sadaya barang kanthi sih welas lan kawruh; pramila Panjenengan ngapura tiyang-tiyang ingkang mratobat lan ndherek margi Panjenengan, lan Panjenengan ngreksa piyambakipun sedaya saking kasangsaran Geni ingkang murub.
 
 ٱلَّذِينَ يَحْمِلُونَ ٱلْعَرْشَ وَمَنْ حَوْلَهُۥ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِۦ وَيَسْتَغْفِرُونَ لِلَّذِينَ ءَامَنُوا۟ رَبَّنَا وَسِعْتَ كُلَّ شَىْءٍۢ رَّحْمَةًۭ وَعِلْمًۭا فَٱغْفِرْ لِلَّذِينَ تَابُوا۟ وَٱتَّبَعُوا۟ سَبِيلَكَ وَقِهِمْ عَذَابَ ٱلْجَحِيمِ
 
@@ -17196,15 +17196,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 رَبَّنَا وَأَدْخِلْهُمْ جَنَّٰتِ عَدْنٍ ٱلَّتِى وَعَدتَّهُمْ وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّٰتِهِمْ ۚ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**40:9** Lan Panjenengan ngreksa piyambakipun sedaya saking tumindak awon. Sinten kemawon ingkang Panjenengan reksa saking tumindak awon, wonten ing Dinten punika, Panjenengan sampun maringi sih welas dhumateng piyambakipun. Punika kamenangan ingkang paling ageng.”
+**40:9** Lan Panjenengan ngreksa piyambakipun sedaya saking tumindak awon. Sinten kemawon ingkang Panjenengan reksa saking tumindak awon, wonten ing Dinten punika, Panjenengan sampun maringi sih welas dhumateng piyambakipun. Punika kamenangan ingkang paling ageng."
 
 وَقِهِمُ ٱلسَّيِّـَٔاتِ ۚ وَمَن تَقِ ٱلسَّيِّـَٔاتِ يَوْمَئِذٍۢ فَقَدْ رَحِمْتَهُۥ ۚ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
-**40:10** Tiyang-tiyang ingkang mboten pitados badhe dipunmaturaken, “Getingipun Gusti Allah langkung ageng tinimbang getingipun panjenengan sedaya dhumateng piyambakipun piyambak — amargi panjenengan sedaya sampun dipunajak dhumateng kapitadosan, nanging panjenengan sedaya nolak.”
+**40:10** Tiyang-tiyang ingkang mboten pitados badhe dipunmaturaken, "Getingipun Gusti Allah langkung ageng tinimbang getingipun panjenengan sedaya dhumateng piyambakipun piyambak — amargi panjenengan sedaya sampun dipunajak dhumateng kapitadosan, nanging panjenengan sedaya nolak."
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ يُنَادَوْنَ لَمَقْتُ ٱللَّهِ أَكْبَرُ مِن مَّقْتِكُمْ أَنفُسَكُمْ إِذْ تُدْعَوْنَ إِلَى ٱلْإِيمَٰنِ فَتَكْفُرُونَ
 
-**40:11** Piyambakipun sedaya badhe matur, “Pangeran kawula sedaya, Panjenengan ndadosaken kawula sedaya seda kaping kalih, lan kaping kalih Panjenengan maringi gesang dhumateng kawula sedaya. Samangke kawula sedaya ngakeni dosa-dosa kawula sedaya. Menapa wonten margi medal?”
+**40:11** Piyambakipun sedaya badhe matur, "Pangeran kawula sedaya, Panjenengan ndadosaken kawula sedaya seda kaping kalih, lan kaping kalih Panjenengan maringi gesang dhumateng kawula sedaya. Samangke kawula sedaya ngakeni dosa-dosa kawula sedaya. Menapa wonten margi medal?"
 
 قَالُوا۟ رَبَّنَآ أَمَتَّنَا ٱثْنَتَيْنِ وَأَحْيَيْتَنَا ٱثْنَتَيْنِ فَٱعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَىٰ خُرُوجٍۢ مِّن سَبِيلٍۢ
 
@@ -17224,7 +17224,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 رَفِيعُ ٱلدَّرَجَٰتِ ذُو ٱلْعَرْشِ يُلْقِى ٱلرُّوحَ مِنْ أَمْرِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ لِيُنذِرَ يَوْمَ ٱلتَّلَاقِ
 
-**40:16** Dinten nalika piyambakipun sedaya badhe medal, boten wonten bab piyambakipun sedaya ingkang badhe sinandi saking Gusti Allah. “Kagunganipun sinten krajan dinten punika?” “Kagunganipun Gusti Allah, Ingkang Tunggal, Ingkang Mboten Saged Dipunlawan.”
+**40:16** Dinten nalika piyambakipun sedaya badhe medal, boten wonten bab piyambakipun sedaya ingkang badhe sinandi saking Gusti Allah. "Kagunganipun sinten krajan dinten punika?" "Kagunganipun Gusti Allah, Ingkang Tunggal, Ingkang Mboten Saged Dipunlawan."
 
 يَوْمَ هُم بَٰرِزُونَ ۖ لَا يَخْفَىٰ عَلَى ٱللَّهِ مِنْهُمْ شَىْءٌۭ ۚ لِّمَنِ ٱلْمُلْكُ ٱلْيَوْمَ ۖ لِلَّهِ ٱلْوَٰحِدِ ٱلْقَهَّارِ
 
@@ -17256,31 +17256,31 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَا وَسُلْطَٰنٍۢ مُّبِينٍ
 
-**40:24** Dhumateng Fir'aun, Haman, lan Qarun. Nanging piyambakipun sedaya matur, “Satunggaling tukang sihir ingkang goroh.”
+**40:24** Dhumateng Fir'aun, Haman, lan Qarun. Nanging piyambakipun sedaya matur, "Satunggaling tukang sihir ingkang goroh."
 
 إِلَىٰ فِرْعَوْنَ وَهَٰمَٰنَ وَقَٰرُونَ فَقَالُوا۟ سَٰحِرٌۭ كَذَّابٌۭ
 
-**40:25** Lajeng, nalika piyambakipun dhateng dhumateng piyambakipun sedaya kanthi kayekten saking Ingsun, piyambakipun sedaya matur, “Panjenengan sedaya mejahi putra-putranipun tiyang-tiyang ingkang sampun pitados sesarengan kaliyan piyambakipun, lan panjenengan sedaya nguripaken putri-putrinipun.” Nanging rancanganipun tiyang-tiyang ingkang mboten pitados namung saged kesasar.
+**40:25** Lajeng, nalika piyambakipun dhateng dhumateng piyambakipun sedaya kanthi kayekten saking Ingsun, piyambakipun sedaya matur, "Panjenengan sedaya mejahi putra-putranipun tiyang-tiyang ingkang sampun pitados sesarengan kaliyan piyambakipun, lan panjenengan sedaya nguripaken putri-putrinipun." Nanging rancanganipun tiyang-tiyang ingkang mboten pitados namung saged kesasar.
 
 فَلَمَّا جَآءَهُم بِٱلْحَقِّ مِنْ عِندِنَا قَالُوا۟ ٱقْتُلُوٓا۟ أَبْنَآءَ ٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ وَٱسْتَحْيُوا۟ نِسَآءَهُمْ ۚ وَمَا كَيْدُ ٱلْكَٰفِرِينَ إِلَّا فِى ضَلَٰلٍۢ
 
-**40:26** Fir'aun matur, “Panjenengan sedaya maringi kawula mejahi Musa, lan piyambakipun nyuwun dhumateng Pangeranipun. Kawula ajrih piyambakipun saged ngowahi agami panjenengan sedaya, utawi nyebar karusakan wonten ing tanah.”
+**40:26** Fir'aun matur, "Panjenengan sedaya maringi kawula mejahi Musa, lan piyambakipun nyuwun dhumateng Pangeranipun. Kawula ajrih piyambakipun saged ngowahi agami panjenengan sedaya, utawi nyebar karusakan wonten ing tanah."
 
 وَقَالَ فِرْعَوْنُ ذَرُونِىٓ أَقْتُلْ مُوسَىٰ وَلْيَدْعُ رَبَّهُۥٓ ۖ إِنِّىٓ أَخَافُ أَن يُبَدِّلَ دِينَكُمْ أَوْ أَن يُظْهِرَ فِى ٱلْأَرْضِ ٱلْفَسَادَ
 
-**40:27** Musa matur, “Kawula sampun nyuwun pangreksanipun Pangeran kawula lan Pangeran panjenengan sedaya, saking saben tiran ingkang mboten pitados dhumateng Dinten Etangan.”
+**40:27** Musa matur, "Kawula sampun nyuwun pangreksanipun Pangeran kawula lan Pangeran panjenengan sedaya, saking saben tiran ingkang mboten pitados dhumateng Dinten Etangan."
 
 وَقَالَ مُوسَىٰٓ إِنِّى عُذْتُ بِرَبِّى وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرٍۢ لَّا يُؤْمِنُ بِيَوْمِ ٱلْحِسَابِ
 
-**40:28** Satunggaling tiyang jaler ingkang pitados saking kulawarganipun Fir'aun, ingkang sampun nyimpen kapitadosanipun, matur, “Menapa panjenengan sedaya badhe mejahi satunggaling tiyang amargi piyambakipun matur, ‘Pangeran kawula punika Gusti Allah,’ lan piyambakipun sampun mbekta bukti-bukti ingkang cetha dhumateng panjenengan sedaya saking Pangeran panjenengan sedaya? Menawi piyambakipun goroh, gorohipun badhe wangsul dhumateng piyambakipun; nanging menawi piyambakipun leres, mila sawetawis saking menapa ingkang piyambakipun prasetyakaken dhumateng panjenengan sedaya badhe ndhawahi panjenengan sedaya. Gusti Allah mboten nedahaken tiyang ingkang nglanggar wates saha tukang goroh.
+**40:28** Satunggaling tiyang jaler ingkang pitados saking kulawarganipun Fir'aun, ingkang sampun nyimpen kapitadosanipun, matur, "Menapa panjenengan sedaya badhe mejahi satunggaling tiyang amargi piyambakipun matur, 'Pangeran kawula punika Gusti Allah,' lan piyambakipun sampun mbekta bukti-bukti ingkang cetha dhumateng panjenengan sedaya saking Pangeran panjenengan sedaya? Menawi piyambakipun goroh, gorohipun badhe wangsul dhumateng piyambakipun; nanging menawi piyambakipun leres, mila sawetawis saking menapa ingkang piyambakipun prasetyakaken dhumateng panjenengan sedaya badhe ndhawahi panjenengan sedaya. Gusti Allah mboten nedahaken tiyang ingkang nglanggar wates saha tukang goroh.
 
 وَقَالَ رَجُلٌۭ مُّؤْمِنٌۭ مِّنْ ءَالِ فِرْعَوْنَ يَكْتُمُ إِيمَٰنَهُۥٓ أَتَقْتُلُونَ رَجُلًا أَن يَقُولَ رَبِّىَ ٱللَّهُ وَقَدْ جَآءَكُم بِٱلْبَيِّنَٰتِ مِن رَّبِّكُمْ ۖ وَإِن يَكُ كَٰذِبًۭا فَعَلَيْهِ كَذِبُهُۥ ۖ وَإِن يَكُ صَادِقًۭا يُصِبْكُم بَعْضُ ٱلَّذِى يَعِدُكُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ مُسْرِفٌۭ كَذَّابٌۭ
 
-**40:29** Dhuh kaum kawula! Kagunganipun panjenengan sedaya krajan dinten punika, ingkang paling inggil wonten ing tanah; nanging sinten ingkang badhe nulungi kawula sedaya nglawan kuwaosipun Gusti Allah, menawi punika dhawah dhumateng kawula sedaya?” Fir'aun matur, “Kawula mboten nedahaken dhumateng panjenengan sedaya kajawi menapa ingkang kawula tingali, lan kawula mboten nuntun panjenengan sedaya kajawi dhumateng margi kawicaksanan.”
+**40:29** Dhuh kaum kawula! Kagunganipun panjenengan sedaya krajan dinten punika, ingkang paling inggil wonten ing tanah; nanging sinten ingkang badhe nulungi kawula sedaya nglawan kuwaosipun Gusti Allah, menawi punika dhawah dhumateng kawula sedaya?" Fir'aun matur, "Kawula mboten nedahaken dhumateng panjenengan sedaya kajawi menapa ingkang kawula tingali, lan kawula mboten nuntun panjenengan sedaya kajawi dhumateng margi kawicaksanan."
 
 يَٰقَوْمِ لَكُمُ ٱلْمُلْكُ ٱلْيَوْمَ ظَٰهِرِينَ فِى ٱلْأَرْضِ فَمَن يَنصُرُنَا مِنۢ بَأْسِ ٱللَّهِ إِن جَآءَنَا ۚ قَالَ فِرْعَوْنُ مَآ أُرِيكُمْ إِلَّا مَآ أَرَىٰ وَمَآ أَهْدِيكُمْ إِلَّا سَبِيلَ ٱلرَّشَادِ
 
-**40:30** Tiyang ingkang sampun pitados punika matur, “Dhuh kaum kawula, kawula ajrih kagem panjenengan sedaya kados dintenipun golongan-golongan.
+**40:30** Tiyang ingkang sampun pitados punika matur, "Dhuh kaum kawula, kawula ajrih kagem panjenengan sedaya kados dintenipun golongan-golongan.
 
 وَقَالَ ٱلَّذِىٓ ءَامَنَ يَٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُم مِّثْلَ يَوْمِ ٱلْأَحْزَابِ
 
@@ -17292,11 +17292,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَيَٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُمْ يَوْمَ ٱلتَّنَادِ
 
-**40:33** Dinten nalika panjenengan sedaya badhe mbalik lan mlajeng, tanpa gadhah pangreksa nglawan Gusti Allah. Sinten kemawon ingkang dipuntilesaken dening Gusti Allah mboten gadhah panedah.”
+**40:33** Dinten nalika panjenengan sedaya badhe mbalik lan mlajeng, tanpa gadhah pangreksa nglawan Gusti Allah. Sinten kemawon ingkang dipuntilesaken dening Gusti Allah mboten gadhah panedah."
 
 يَوْمَ تُوَلُّونَ مُدْبِرِينَ مَا لَكُم مِّنَ ٱللَّهِ مِنْ عَاصِمٍۢ ۗ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍۢ
 
-**40:34** Yusuf pancen sampun dhateng dhumateng panjenengan sedaya kanthi wahyu-wahyu ingkang cetha, nanging panjenengan sedaya terus ragu-ragu bab menapa ingkang piyambakipun bekta dhumateng panjenengan sedaya. Ngantos, nalika piyambakipun seda, panjenengan sedaya matur, “Gusti Allah mboten badhe nate ngutus utusan sasampunipun piyambakipun.” Mekaten Gusti Allah nyesataken tiyang ingkang nglanggar wates saha ragu-ragu.
+**40:34** Yusuf pancen sampun dhateng dhumateng panjenengan sedaya kanthi wahyu-wahyu ingkang cetha, nanging panjenengan sedaya terus ragu-ragu bab menapa ingkang piyambakipun bekta dhumateng panjenengan sedaya. Ngantos, nalika piyambakipun seda, panjenengan sedaya matur, "Gusti Allah mboten badhe nate ngutus utusan sasampunipun piyambakipun." Mekaten Gusti Allah nyesataken tiyang ingkang nglanggar wates saha ragu-ragu.
 
 وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ
 
@@ -17304,19 +17304,19 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ٱلَّذِينَ يُجَٰدِلُونَ فِىٓ ءَايَٰتِ ٱللَّهِ بِغَيْرِ سُلْطَٰنٍ أَتَىٰهُمْ ۖ كَبُرَ مَقْتًا عِندَ ٱللَّهِ وَعِندَ ٱلَّذِينَ ءَامَنُوا۟ ۚ كَذَٰلِكَ يَطْبَعُ ٱللَّهُ عَلَىٰ كُلِّ قَلْبِ مُتَكَبِّرٍۢ جَبَّارٍۢ
 
-**40:36** Lan Fir'aun matur, “Dhuh Haman, panjenengan damelaken menara kagem kawula, supados kawula saged dumugi margi-margi.
+**40:36** Lan Fir'aun matur, "Dhuh Haman, panjenengan damelaken menara kagem kawula, supados kawula saged dumugi margi-margi.
 
 وَقَالَ فِرْعَوْنُ يَٰهَٰمَٰنُ ٱبْنِ لِى صَرْحًۭا لَّعَلِّىٓ أَبْلُغُ ٱلْأَسْبَٰبَ
 
-**40:37** Margi-margi langit, supados kawula saged ningali Gusti Allah-ipun Musa; sanajan kawula nginten piyambakipun goroh.” Mekaten tumindak awonipun Fir'aun dipundamel katingal sae kagem piyambakipun, lan piyambakipun dipunbelokaken saking margi. Tipu dayani pun Fir'aun namung wonten ing kapitunan.
+**40:37** Margi-margi langit, supados kawula saged ningali Gusti Allah-ipun Musa; sanajan kawula nginten piyambakipun goroh." Mekaten tumindak awonipun Fir'aun dipundamel katingal sae kagem piyambakipun, lan piyambakipun dipunbelokaken saking margi. Tipu dayani pun Fir'aun namung wonten ing kapitunan.
 
 أَسْبَٰبَ ٱلسَّمَٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ
 
-**40:38** Tiyang ingkang sampun pitados punika matur, “Dhuh kaum kawula, panjenengan sedaya ndherekaken kawula, lan kawula badhe nuntun panjenengan sedaya dhumateng margi kaleresan.”
+**40:38** Tiyang ingkang sampun pitados punika matur, "Dhuh kaum kawula, panjenengan sedaya ndherekaken kawula, lan kawula badhe nuntun panjenengan sedaya dhumateng margi kaleresan."
 
 وَقَالَ ٱلَّذِىٓ ءَامَنَ يَٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ
 
-**40:39** “Dhuh kaum kawula, gesang donya punika sanes punapa-punapa kajawi kanikmatan ingkang sedhela, nanging Akhirat punika Griya Kalanggengan.
+**40:39** "Dhuh kaum kawula, gesang donya punika sanes punapa-punapa kajawi kanikmatan ingkang sedhela, nanging Akhirat punika Griya Kalanggengan.
 
 يَٰقَوْمِ إِنَّمَا هَٰذِهِ ٱلْحَيَوٰةُ ٱلدُّنْيَا مَتَٰعٌۭ وَإِنَّ ٱلْءَاخِرَةَ هِىَ دَارُ ٱلْقَرَارِ
 
@@ -17336,7 +17336,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 لَا جَرَمَ أَنَّمَا تَدْعُونَنِىٓ إِلَيْهِ لَيْسَ لَهُۥ دَعْوَةٌۭ فِى ٱلدُّنْيَا وَلَا فِى ٱلْءَاخِرَةِ وَأَنَّ مَرَدَّنَآ إِلَى ٱللَّهِ وَأَنَّ ٱلْمُسْرِفِينَ هُمْ أَصْحَٰبُ ٱلنَّارِ
 
-**40:44** Panjenengan sedaya badhe enget menapa ingkang kawula andharaken dhumateng panjenengan sedaya, pramila kawula pasrahaken prakawis kawula dhumateng Gusti Allah. Gusti Allah punika Ingkang Mirsani para kawula.”
+**40:44** Panjenengan sedaya badhe enget menapa ingkang kawula andharaken dhumateng panjenengan sedaya, pramila kawula pasrahaken prakawis kawula dhumateng Gusti Allah. Gusti Allah punika Ingkang Mirsani para kawula."
 
 فَسَتَذْكُرُونَ مَآ أَقُولُ لَكُمْ ۚ وَأُفَوِّضُ أَمْرِىٓ إِلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ بَصِيرٌۢ بِٱلْعِبَادِ
 
@@ -17344,23 +17344,23 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ
 
-**40:46** Geni. Piyambakipun sedaya badhe dipuntedahaken dhumateng punika enjing lan sonten. Lan wonten ing Dinten Jam punika kelampahan: “Panjenengan sedaya nglebetaken kulawarga Fir'aun dhumateng kasangsaran ingkang paling abot.”
+**40:46** Geni. Piyambakipun sedaya badhe dipuntedahaken dhumateng punika enjing lan sonten. Lan wonten ing Dinten Jam punika kelampahan: "Panjenengan sedaya nglebetaken kulawarga Fir'aun dhumateng kasangsaran ingkang paling abot."
 
 ٱلنَّارُ يُعْرَضُونَ عَلَيْهَا غُدُوًّۭا وَعَشِيًّۭا ۖ وَيَوْمَ تَقُومُ ٱلسَّاعَةُ أَدْخِلُوٓا۟ ءَالَ فِرْعَوْنَ أَشَدَّ ٱلْعَذَابِ
 
-**40:47** Nalika piyambakipun sedaya padudon wonten ing Geni, tiyang-tiyang ingkang ringkih badhe matur dhumateng tiyang-tiyang ingkang sampun gumedhe, “Kawula sedaya punika pangikutipun panjenengan sedaya; menapa panjenengan sedaya lajeng badhe ngluwari kawula sedaya saking saprangan Geni?”
+**40:47** Nalika piyambakipun sedaya padudon wonten ing Geni, tiyang-tiyang ingkang ringkih badhe matur dhumateng tiyang-tiyang ingkang sampun gumedhe, "Kawula sedaya punika pangikutipun panjenengan sedaya; menapa panjenengan sedaya lajeng badhe ngluwari kawula sedaya saking saprangan Geni?"
 
 وَإِذْ يَتَحَآجُّونَ فِى ٱلنَّارِ فَيَقُولُ ٱلضُّعَفَٰٓؤُا۟ لِلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُنَّا لَكُمْ تَبَعًۭا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا نَصِيبًۭا مِّنَ ٱلنَّارِ
 
-**40:48** Tiyang-tiyang ingkang sampun gumedhe badhe matur, “Kawula sedaya sadaya wonten ing ngriku; Gusti Allah sampun maringi putusan antawisipun para kawula.”
+**40:48** Tiyang-tiyang ingkang sampun gumedhe badhe matur, "Kawula sedaya sadaya wonten ing ngriku; Gusti Allah sampun maringi putusan antawisipun para kawula."
 
 قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُلٌّۭ فِيهَآ إِنَّ ٱللَّهَ قَدْ حَكَمَ بَيْنَ ٱلْعِبَادِ
 
-**40:49** Lan tiyang-tiyang ingkang wonten ing Geni badhe matur dhumateng para pangreksanipun Neraka, “Panjenengan sedaya nyuwun dhumateng Pangeran panjenengan sedaya supados ngirangi kasangsaran kawula sedaya sedinten.”
+**40:49** Lan tiyang-tiyang ingkang wonten ing Geni badhe matur dhumateng para pangreksanipun Neraka, "Panjenengan sedaya nyuwun dhumateng Pangeran panjenengan sedaya supados ngirangi kasangsaran kawula sedaya sedinten."
 
 وَقَالَ ٱلَّذِينَ فِى ٱلنَّارِ لِخَزَنَةِ جَهَنَّمَ ٱدْعُوا۟ رَبَّكُمْ يُخَفِّفْ عَنَّا يَوْمًۭا مِّنَ ٱلْعَذَابِ
 
-**40:50** Piyambakipun sedaya badhe matur, “Menapa para utusan panjenengan sedaya mboten sampun dhateng dhumateng panjenengan sedaya kanthi tandha-tandha ingkang cetha?” Piyambakipun sedaya badhe matur, “Inggih.” Piyambakipun sedaya badhe matur, “Pramila panjenengan sedaya ndedonga, nanging donga-donganipun tiyang-tiyang ingkang mboten pitados tansah badhe muspra.”
+**40:50** Piyambakipun sedaya badhe matur, "Menapa para utusan panjenengan sedaya mboten sampun dhateng dhumateng panjenengan sedaya kanthi tandha-tandha ingkang cetha?" Piyambakipun sedaya badhe matur, "Inggih." Piyambakipun sedaya badhe matur, "Pramila panjenengan sedaya ndedonga, nanging donga-donganipun tiyang-tiyang ingkang mboten pitados tansah badhe muspra."
 
 قَالُوٓا۟ أَوَلَمْ تَكُ تَأْتِيكُمْ رُسُلُكُم بِٱلْبَيِّنَٰتِ ۖ قَالُوا۟ بَلَىٰ ۚ قَالُوا۟ فَٱدْعُوا۟ ۗ وَمَا دُعَٰٓؤُا۟ ٱلْكَٰفِرِينَ إِلَّا فِى ضَلَٰلٍ
 
@@ -17400,7 +17400,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِنَّ ٱلسَّاعَةَ لَءَاتِيَةٌۭ لَّا رَيْبَ فِيهَا وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ
 
-**40:60** Pangeran panjenengan sedaya sampun ngendika, “Panjenengan sedaya ndedonga dhumateng Ingsun, lan Ingsun badhe nanggapi panjenengan sedaya. Nanging tiyang-tiyang ingkang gumedhe sanget kangge nyembah Ingsun badhe mlebet Neraka kanthi kepeksa.”
+**40:60** Pangeran panjenengan sedaya sampun ngendika, "Panjenengan sedaya ndedonga dhumateng Ingsun, lan Ingsun badhe nanggapi panjenengan sedaya. Nanging tiyang-tiyang ingkang gumedhe sanget kangge nyembah Ingsun badhe mlebet Neraka kanthi kepeksa."
 
 وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 
@@ -17424,7 +17424,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 هُوَ ٱلْحَىُّ لَآ إِلَٰهَ إِلَّا هُوَ فَٱدْعُوهُ مُخْلِصِينَ لَهُ ٱلدِّينَ ۗ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
-**40:66** Matura, “Kawula sampun dipunlarang nyembah tiyang-tiyang ingkang panjenengan sedaya suwun sanesipun Gusti Allah, samangke wahyu-wahyu ingkang cetha sampun dhateng dhumateng kawula saking Pangeran kawula; lan kawula sampun dipundhawuhi supados pasrah dhumateng Pangeranipun sadaya alam.”
+**40:66** Matura, "Kawula sampun dipunlarang nyembah tiyang-tiyang ingkang panjenengan sedaya suwun sanesipun Gusti Allah, samangke wahyu-wahyu ingkang cetha sampun dhateng dhumateng kawula saking Pangeran kawula; lan kawula sampun dipundhawuhi supados pasrah dhumateng Pangeranipun sadaya alam."
 
 ۞ قُلْ إِنِّى نُهِيتُ أَنْ أَعْبُدَ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ لَمَّا جَآءَنِىَ ٱلْبَيِّنَٰتُ مِن رَّبِّى وَأُمِرْتُ أَنْ أُسْلِمَ لِرَبِّ ٱلْعَٰلَمِينَ
 
@@ -17432,7 +17432,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 هُوَ ٱلَّذِى خَلَقَكُم مِّن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ مِنْ عَلَقَةٍۢ ثُمَّ يُخْرِجُكُمْ طِفْلًۭا ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ ثُمَّ لِتَكُونُوا۟ شُيُوخًۭا ۚ وَمِنكُم مَّن يُتَوَفَّىٰ مِن قَبْلُ ۖ وَلِتَبْلُغُوٓا۟ أَجَلًۭا مُّسَمًّۭى وَلَعَلَّكُمْ تَعْقِلُونَ
 
-**40:68** Panjenenganipun ingkang maringi gesang lan seda; lan menawi Panjenenganipun mutusaken satunggaling barang, Panjenenganipun namung ngendika dhumateng punika, “Dadosa,” lan punika dados.
+**40:68** Panjenenganipun ingkang maringi gesang lan seda; lan menawi Panjenenganipun mutusaken satunggaling barang, Panjenenganipun namung ngendika dhumateng punika, "Dadosa," lan punika dados.
 
 هُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ ۖ فَإِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 
@@ -17452,11 +17452,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فِى ٱلْحَمِيمِ ثُمَّ فِى ٱلنَّارِ يُسْجَرُونَ
 
-**40:73** Lajeng badhe dipunngendikakaken dhumateng piyambakipun sedaya, “Wonten ing pundi tiyang-tiyang ingkang rumiyin panjenengan sedaya sembah?
+**40:73** Lajeng badhe dipunngendikakaken dhumateng piyambakipun sedaya, "Wonten ing pundi tiyang-tiyang ingkang rumiyin panjenengan sedaya sembah?
 
 ثُمَّ قِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تُشْرِكُونَ
 
-**40:74** Sanesipun Gusti Allah?” Piyambakipun sedaya badhe matur, “Piyambakipun sedaya sampun nilar kawula sedaya. Kaleresan, kawula sedaya rumiyin mboten ndedonga dhumateng punapa-punapa.” Mekaten Gusti Allah nyesataken tiyang-tiyang ingkang mboten pitados.
+**40:74** Sanesipun Gusti Allah?" Piyambakipun sedaya badhe matur, "Piyambakipun sedaya sampun nilar kawula sedaya. Kaleresan, kawula sedaya rumiyin mboten ndedonga dhumateng punapa-punapa." Mekaten Gusti Allah nyesataken tiyang-tiyang ingkang mboten pitados.
 
 مِن دُونِ ٱللَّهِ ۖ قَالُوا۟ ضَلُّوا۟ عَنَّا بَل لَّمْ نَكُن نَّدْعُوا۟ مِن قَبْلُ شَيْـًۭٔا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ ٱلْكَٰفِرِينَ
 
@@ -17496,7 +17496,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَلَمَّا جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَرِحُوا۟ بِمَا عِندَهُم مِّنَ ٱلْعِلْمِ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**40:84** Lajeng, nalika piyambakipun sedaya nyekseni kuwaos Ingsun, piyambakipun sedaya matur, “Kawula sedaya pitados dhumateng Gusti Allah piyambak, lan kawula sedaya nolak menapa ingkang rumiyin kawula sedaya sekutokaken kaliyan Panjenenganipun.”
+**40:84** Lajeng, nalika piyambakipun sedaya nyekseni kuwaos Ingsun, piyambakipun sedaya matur, "Kawula sedaya pitados dhumateng Gusti Allah piyambak, lan kawula sedaya nolak menapa ingkang rumiyin kawula sedaya sekutokaken kaliyan Panjenenganipun."
 
 فَلَمَّا رَأَوْا۟ بَأْسَنَا قَالُوٓا۟ ءَامَنَّا بِٱللَّهِ وَحْدَهُۥ وَكَفَرْنَا بِمَا كُنَّا بِهِۦ مُشْرِكِينَ
 
@@ -17532,11 +17532,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 بَشِيرًۭا وَنَذِيرًۭا فَأَعْرَضَ أَكْثَرُهُمْ فَهُمْ لَا يَسْمَعُونَ
 
-**41:5** Lan piyambakipun sedaya matur, “Manah kawula sedaya kaling-kalingan saking menapa ingkang panjenengan suwunaken dhumateng kawula sedaya, lan wonten ing talingan kawula sedaya wonten budheg, lan antawisipun kawula sedaya lan panjenengan wonten alangan. Pramila panjenengan nindakaken menapa ingkang panjenengan kersakaken, lan kawula sedaya ugi badhe nindakaken.”
+**41:5** Lan piyambakipun sedaya matur, "Manah kawula sedaya kaling-kalingan saking menapa ingkang panjenengan suwunaken dhumateng kawula sedaya, lan wonten ing talingan kawula sedaya wonten budheg, lan antawisipun kawula sedaya lan panjenengan wonten alangan. Pramila panjenengan nindakaken menapa ingkang panjenengan kersakaken, lan kawula sedaya ugi badhe nindakaken."
 
 وَقَالُوا۟ قُلُوبُنَا فِىٓ أَكِنَّةٍۢ مِّمَّا تَدْعُونَآ إِلَيْهِ وَفِىٓ ءَاذَانِنَا وَقْرٌۭ وَمِنۢ بَيْنِنَا وَبَيْنِكَ حِجَابٌۭ فَٱعْمَلْ إِنَّنَا عَٰمِلُونَ
 
-**41:6** Matura, “Kawula namung manungsa kados panjenengan sedaya; dipunwahyokaken dhumateng kawula bilih Gusti Allah panjenengan sedaya punika Gusti Allah Ingkang Tunggal. Pramila panjenengan sedaya lurus dhumateng Panjenenganipun, lan panjenengan sedaya nyuwun pangapura saking Panjenenganipun.” Lan bilai kagem tiyang-tiyang ingkang nyembah brahala.
+**41:6** Matura, "Kawula namung manungsa kados panjenengan sedaya; dipunwahyokaken dhumateng kawula bilih Gusti Allah panjenengan sedaya punika Gusti Allah Ingkang Tunggal. Pramila panjenengan sedaya lurus dhumateng Panjenenganipun, lan panjenengan sedaya nyuwun pangapura saking Panjenenganipun." Lan bilai kagem tiyang-tiyang ingkang nyembah brahala.
 
 قُلْ إِنَّمَآ أَنَا۠ بَشَرٌۭ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَٰهُكُمْ إِلَٰهٌۭ وَٰحِدٌۭ فَٱسْتَقِيمُوٓا۟ إِلَيْهِ وَٱسْتَغْفِرُوهُ ۗ وَوَيْلٌۭ لِّلْمُشْرِكِينَ
 
@@ -17548,7 +17548,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۢ
 
-**41:9** Matura, “Menapa panjenengan sedaya nolak Panjenenganipun ingkang nitahaken bumi wonten ing kalih dinten? Lan panjenengan sedaya ndadosaken tandhingan-tandhingan kagem Panjenenganipun? Punika Pangeranipun Alam Semesta.”
+**41:9** Matura, "Menapa panjenengan sedaya nolak Panjenenganipun ingkang nitahaken bumi wonten ing kalih dinten? Lan panjenengan sedaya ndadosaken tandhingan-tandhingan kagem Panjenenganipun? Punika Pangeranipun Alam Semesta."
 
 ۞ قُلْ أَئِنَّكُمْ لَتَكْفُرُونَ بِٱلَّذِى خَلَقَ ٱلْأَرْضَ فِى يَوْمَيْنِ وَتَجْعَلُونَ لَهُۥٓ أَندَادًۭا ۚ ذَٰلِكَ رَبُّ ٱلْعَٰلَمِينَ
 
@@ -17556,7 +17556,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَجَعَلَ فِيهَا رَوَٰسِىَ مِن فَوْقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا فِىٓ أَرْبَعَةِ أَيَّامٍۢ سَوَآءًۭ لِّلسَّآئِلِينَ
 
-**41:11** Lajeng Panjenenganipun mbalik dhumateng langit, lan punika awujud kukus, lan ngendika dhumateng punika lan dhumateng bumi, “Panjenengan kekalih dhateng, kanthi kersa utawi tanpa kersa.” Kekalihipun matur, “Kawula kekalih dhateng kanthi kersa.”
+**41:11** Lajeng Panjenenganipun mbalik dhumateng langit, lan punika awujud kukus, lan ngendika dhumateng punika lan dhumateng bumi, "Panjenengan kekalih dhateng, kanthi kersa utawi tanpa kersa." Kekalihipun matur, "Kawula kekalih dhateng kanthi kersa."
 
 ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌۭ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا أَوْ كَرْهًۭا قَالَتَآ أَتَيْنَا طَآئِعِينَ
 
@@ -17564,15 +17564,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَقَضَىٰهُنَّ سَبْعَ سَمَٰوَاتٍۢ فِى يَوْمَيْنِ وَأَوْحَىٰ فِى كُلِّ سَمَآءٍ أَمْرَهَا ۚ وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَحِفْظًۭا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ
 
-**41:13** Nanging menawi piyambakipun sedaya mbalik, matura, “Kawula sampun ngemutaken panjenengan sedaya bab gludhug, kados gludhugipun 'Ad lan Samud.”
+**41:13** Nanging menawi piyambakipun sedaya mbalik, matura, "Kawula sampun ngemutaken panjenengan sedaya bab gludhug, kados gludhugipun 'Ad lan Samud."
 
 فَإِنْ أَعْرَضُوا۟ فَقُلْ أَنذَرْتُكُمْ صَٰعِقَةًۭ مِّثْلَ صَٰعِقَةِ عَادٍۢ وَثَمُودَ
 
-**41:14** Para utusanipun piyambakipun sedaya dhateng dhumateng piyambakipun sedaya, saking ngajengipun piyambakipun sedaya lan saking wingkingipun piyambakipun sedaya, kanthi matur, “Panjenengan sedaya sampun ngantos nyembah sinten kemawon kajawi Gusti Allah.” Piyambakipun sedaya matur, “Menawi Pangeran kawula sedaya ngersakaken, Panjenenganipun mesthi sampun ngandhapaken para malaikat; pramila, kawula sedaya nolak menapa ingkang panjenengan sedaya utus kanthi punika.”
+**41:14** Para utusanipun piyambakipun sedaya dhateng dhumateng piyambakipun sedaya, saking ngajengipun piyambakipun sedaya lan saking wingkingipun piyambakipun sedaya, kanthi matur, "Panjenengan sedaya sampun ngantos nyembah sinten kemawon kajawi Gusti Allah." Piyambakipun sedaya matur, "Menawi Pangeran kawula sedaya ngersakaken, Panjenenganipun mesthi sampun ngandhapaken para malaikat; pramila, kawula sedaya nolak menapa ingkang panjenengan sedaya utus kanthi punika."
 
 إِذْ جَآءَتْهُمُ ٱلرُّسُلُ مِنۢ بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ ۖ قَالُوا۟ لَوْ شَآءَ رَبُّنَا لَأَنزَلَ مَلَٰٓئِكَةًۭ فَإِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَٰفِرُونَ
 
-**41:15** Dene 'Ad, piyambakipun sedaya dados gumedhe wonten ing bumi, lan nglawan kaadilan, lan matur, “Sinten ingkang langkung kuwaos tinimbang kawula sedaya?” Menapa piyambakipun sedaya dereng nimbang bilih Gusti Allah, ingkang nitahaken piyambakipun sedaya, langkung kuwaos tinimbang piyambakipun sedaya? Lan piyambakipun sedaya terus nolak wahyu-wahyu Ingsun.
+**41:15** Dene 'Ad, piyambakipun sedaya dados gumedhe wonten ing bumi, lan nglawan kaadilan, lan matur, "Sinten ingkang langkung kuwaos tinimbang kawula sedaya?" Menapa piyambakipun sedaya dereng nimbang bilih Gusti Allah, ingkang nitahaken piyambakipun sedaya, langkung kuwaos tinimbang piyambakipun sedaya? Lan piyambakipun sedaya terus nolak wahyu-wahyu Ingsun.
 
 فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَٰتِنَا يَجْحَدُونَ
 
@@ -17596,7 +17596,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 حَتَّىٰٓ إِذَا مَا جَآءُوهَا شَهِدَ عَلَيْهِمْ سَمْعُهُمْ وَأَبْصَٰرُهُمْ وَجُلُودُهُم بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**41:21** Lan piyambakipun sedaya badhe matur dhumateng kulitipun piyambakipun sedaya, “Kenging menapa panjenengan sedaya mbuktikaken nglawan kawula sedaya?” Piyambakipun sedaya badhe matur, “Gusti Allah, Ingkang ndadosaken sadaya barang saged wicara, ndadosaken kawula sedaya saged wicara. Panjenenganipun ingkang nitahaken panjenengan sedaya ingkang wiwitan, lan dhumateng Panjenenganipun panjenengan sedaya dipunwangsulaken.”
+**41:21** Lan piyambakipun sedaya badhe matur dhumateng kulitipun piyambakipun sedaya, "Kenging menapa panjenengan sedaya mbuktikaken nglawan kawula sedaya?" Piyambakipun sedaya badhe matur, "Gusti Allah, Ingkang ndadosaken sadaya barang saged wicara, ndadosaken kawula sedaya saged wicara. Panjenenganipun ingkang nitahaken panjenengan sedaya ingkang wiwitan, lan dhumateng Panjenenganipun panjenengan sedaya dipunwangsulaken."
 
 وَقَالُوا۟ لِجُلُودِهِمْ لِمَ شَهِدتُّمْ عَلَيْنَا ۖ قَالُوٓا۟ أَنطَقَنَا ٱللَّهُ ٱلَّذِىٓ أَنطَقَ كُلَّ شَىْءٍۢ وَهُوَ خَلَقَكُمْ أَوَّلَ مَرَّةٍۢ وَإِلَيْهِ تُرْجَعُونَ
 
@@ -17616,7 +17616,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ۞ وَقَيَّضْنَا لَهُمْ قُرَنَآءَ فَزَيَّنُوا۟ لَهُم مَّا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَحَقَّ عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍۢ قَدْ خَلَتْ مِن قَبْلِهِم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ۖ إِنَّهُمْ كَانُوا۟ خَٰسِرِينَ
 
-**41:26** Tiyang-tiyang ingkang mboten pitados matur, “Panjenengan sedaya sampun ngantos mirengaken Quran punika, lan panjenengan sedaya rame nalika punika dipunwaos, supados panjenengan sedaya saged menang.”
+**41:26** Tiyang-tiyang ingkang mboten pitados matur, "Panjenengan sedaya sampun ngantos mirengaken Quran punika, lan panjenengan sedaya rame nalika punika dipunwaos, supados panjenengan sedaya saged menang."
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَا تَسْمَعُوا۟ لِهَٰذَا ٱلْقُرْءَانِ وَٱلْغَوْا۟ فِيهِ لَعَلَّكُمْ تَغْلِبُونَ
 
@@ -17628,11 +17628,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ذَٰلِكَ جَزَآءُ أَعْدَآءِ ٱللَّهِ ٱلنَّارُ ۖ لَهُمْ فِيهَا دَارُ ٱلْخُلْدِ ۖ جَزَآءًۢ بِمَا كَانُوا۟ بِـَٔايَٰتِنَا يَجْحَدُونَ
 
-**41:29** Tiyang-tiyang ingkang mboten pitados badhe matur, “Pangeran kawula sedaya, Panjenengan nedahaken dhumateng kawula sedaya tiyang-tiyang ingkang sampun nyesataken kawula sedaya — antawisipun jin lan manungsa — lan kawula sedaya badhe ngidak-idak piyambakipun sedaya wonten ing ngandhapipun suku kawula sedaya, supados piyambakipun sedaya dados antawisipun ingkang paling asor.”
+**41:29** Tiyang-tiyang ingkang mboten pitados badhe matur, "Pangeran kawula sedaya, Panjenengan nedahaken dhumateng kawula sedaya tiyang-tiyang ingkang sampun nyesataken kawula sedaya — antawisipun jin lan manungsa — lan kawula sedaya badhe ngidak-idak piyambakipun sedaya wonten ing ngandhapipun suku kawula sedaya, supados piyambakipun sedaya dados antawisipun ingkang paling asor."
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ رَبَّنَآ أَرِنَا ٱلَّذَيْنِ أَضَلَّانَا مِنَ ٱلْجِنِّ وَٱلْإِنسِ نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا لِيَكُونَا مِنَ ٱلْأَسْفَلِينَ
 
-**41:30** Saestu, tiyang-tiyang ingkang matur: “Pangeran kawula sedaya punika Gusti Allah,” lan lajeng lurus, para malaikat badhe mandhap dhumateng piyambakipun sedaya: “Panjenengan sedaya sampun ngantos ajrih, lan sampun ngantos sedhih, nanging panjenengan sedaya bingah kanthi pawartos Taman ingkang panjenengan sedaya sampun dipunprasetyakaken.
+**41:30** Saestu, tiyang-tiyang ingkang matur: "Pangeran kawula sedaya punika Gusti Allah," lan lajeng lurus, para malaikat badhe mandhap dhumateng piyambakipun sedaya: "Panjenengan sedaya sampun ngantos ajrih, lan sampun ngantos sedhih, nanging panjenengan sedaya bingah kanthi pawartos Taman ingkang panjenengan sedaya sampun dipunprasetyakaken.
 
 إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَٰمُوا۟ تَتَنَزَّلُ عَلَيْهِمُ ٱلْمَلَٰٓئِكَةُ أَلَّا تَخَافُوا۟ وَلَا تَحْزَنُوا۟ وَأَبْشِرُوا۟ بِٱلْجَنَّةِ ٱلَّتِى كُنتُمْ تُوعَدُونَ
 
@@ -17640,11 +17640,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 نَحْنُ أَوْلِيَآؤُكُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَفِى ٱلْءَاخِرَةِ ۖ وَلَكُمْ فِيهَا مَا تَشْتَهِىٓ أَنفُسُكُمْ وَلَكُمْ فِيهَا مَا تَدَّعُونَ
 
-**41:32** Minangka Pasugatan saking Panjenenganipun Ingkang Maha Ngapura, Ingkang Mahaasih.”
+**41:32** Minangka Pasugatan saking Panjenenganipun Ingkang Maha Ngapura, Ingkang Mahaasih."
 
 نُزُلًۭا مِّنْ غَفُورٍۢ رَّحِيمٍۢ
 
-**41:33** Lan sinten ingkang langkung sae pangandikanipun tinimbang tiyang ingkang nyuwun dhumateng Gusti Allah, lan tumindak kanthi integritas, lan matur, “Kawula punika antawisipun tiyang-tiyang ingkang pasrah”?
+**41:33** Lan sinten ingkang langkung sae pangandikanipun tinimbang tiyang ingkang nyuwun dhumateng Gusti Allah, lan tumindak kanthi integritas, lan matur, "Kawula punika antawisipun tiyang-tiyang ingkang pasrah"?
 
 وَمَنْ أَحْسَنُ قَوْلًۭا مِّمَّن دَعَآ إِلَى ٱللَّهِ وَعَمِلَ صَٰلِحًۭا وَقَالَ إِنَّنِى مِنَ ٱلْمُسْلِمِينَ
 
@@ -17690,7 +17690,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 مَّا يُقَالُ لَكَ إِلَّا مَا قَدْ قِيلَ لِلرُّسُلِ مِن قَبْلِكَ ۚ إِنَّ رَبَّكَ لَذُو مَغْفِرَةٍۢ وَذُو عِقَابٍ أَلِيمٍۢ
 
-**41:44** Menawi Ingsun ndadosaken punika satunggaling Quran wonten ing basa manca, piyambakipun sedaya mesthi matur, “Menawi kemawon ayat-ayatipun dipundamel cetha.” Basa sanes Arab lan tiyang Arab? Matura, “Kagem tiyang-tiyang ingkang pitados, punika pituduh lan tamba. Nanging dene tiyang-tiyang ingkang mboten pitados: wonten abot wonten ing talinganipun piyambakipun sedaya, lan punika wuta kagem piyambakipun sedaya. Punika dipun-undang saking papan ingkang tebih.”
+**41:44** Menawi Ingsun ndadosaken punika satunggaling Quran wonten ing basa manca, piyambakipun sedaya mesthi matur, "Menawi kemawon ayat-ayatipun dipundamel cetha." Basa sanes Arab lan tiyang Arab? Matura, "Kagem tiyang-tiyang ingkang pitados, punika pituduh lan tamba. Nanging dene tiyang-tiyang ingkang mboten pitados: wonten abot wonten ing talinganipun piyambakipun sedaya, lan punika wuta kagem piyambakipun sedaya. Punika dipun-undang saking papan ingkang tebih."
 
 وَلَوْ جَعَلْنَٰهُ قُرْءَانًا أَعْجَمِيًّۭا لَّقَالُوا۟ لَوْلَا فُصِّلَتْ ءَايَٰتُهُۥٓ ۖ ءَا۬عْجَمِىٌّۭ وَعَرَبِىٌّۭ ۗ قُلْ هُوَ لِلَّذِينَ ءَامَنُوا۟ هُدًۭى وَشِفَآءٌۭ ۖ وَٱلَّذِينَ لَا يُؤْمِنُونَ فِىٓ ءَاذَانِهِمْ وَقْرٌۭ وَهُوَ عَلَيْهِمْ عَمًى ۚ أُو۟لَٰٓئِكَ يُنَادَوْنَ مِن مَّكَانٍۭ بَعِيدٍۢ
 
@@ -17702,7 +17702,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 مَّنْ عَمِلَ صَٰلِحًۭا فَلِنَفْسِهِۦ ۖ وَمَنْ أَسَآءَ فَعَلَيْهَا ۗ وَمَا رَبُّكَ بِظَلَّٰمٍۢ لِّلْعَبِيدِ
 
-**41:47** Dhumateng Panjenenganipun kawruh bab Jam punika dipunwangsulaken. Boten wonten woh ingkang medal saking klongsongipun, lan boten wonten estri ingkang ngandhut utawi nglairake, kajawi kanthi kawruh Panjenenganipun. Lan wonten ing Dinten nalika Panjenenganipun ngundang piyambakipun sedaya, “Wonten ing pundi sekutu-sekutu Ingsun?” Piyambakipun sedaya badhe matur, “Kawula sedaya matur dhumateng Panjenengan, boten wonten antawisipun kawula sedaya ingkang dados seksi.”
+**41:47** Dhumateng Panjenenganipun kawruh bab Jam punika dipunwangsulaken. Boten wonten woh ingkang medal saking klongsongipun, lan boten wonten estri ingkang ngandhut utawi nglairake, kajawi kanthi kawruh Panjenenganipun. Lan wonten ing Dinten nalika Panjenenganipun ngundang piyambakipun sedaya, "Wonten ing pundi sekutu-sekutu Ingsun?" Piyambakipun sedaya badhe matur, "Kawula sedaya matur dhumateng Panjenengan, boten wonten antawisipun kawula sedaya ingkang dados seksi."
 
 ۞ إِلَيْهِ يُرَدُّ عِلْمُ ٱلسَّاعَةِ ۚ وَمَا تَخْرُجُ مِن ثَمَرَٰتٍۢ مِّنْ أَكْمَامِهَا وَمَا تَحْمِلُ مِنْ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِۦ ۚ وَيَوْمَ يُنَادِيهِمْ أَيْنَ شُرَكَآءِى قَالُوٓا۟ ءَاذَنَّٰكَ مَا مِنَّا مِن شَهِيدٍۢ
 
@@ -17714,7 +17714,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 لَّا يَسْـَٔمُ ٱلْإِنسَٰنُ مِن دُعَآءِ ٱلْخَيْرِ وَإِن مَّسَّهُ ٱلشَّرُّ فَيَـُٔوسٌۭ قَنُوطٌۭ
 
-**41:50** Lan nalika Ingsun maringi piyambakipun ngraosaken sih welas saking Ingsun, sasampunipun kasangsaran ingkang sampun ndhawahi piyambakipun, piyambakipun badhe matur, “Punika kagungan kawula, lan kawula mboten nginten bilih Jam punika badhe dhateng; lan sanajan kawula dipunwangsulaken dhumateng Pangeran kawula, kawula badhe gadhah ingkang paling sae sesarengan kaliyan Panjenenganipun.” Ingsun badhe ngandharaken dhumateng tiyang-tiyang ingkang mboten pitados menapa ingkang sampun piyambakipun sedaya tindakaken, lan Ingsun badhe ndamel piyambakipun sedaya ngraosaken paukuman ingkang nggegirisi.
+**41:50** Lan nalika Ingsun maringi piyambakipun ngraosaken sih welas saking Ingsun, sasampunipun kasangsaran ingkang sampun ndhawahi piyambakipun, piyambakipun badhe matur, "Punika kagungan kawula, lan kawula mboten nginten bilih Jam punika badhe dhateng; lan sanajan kawula dipunwangsulaken dhumateng Pangeran kawula, kawula badhe gadhah ingkang paling sae sesarengan kaliyan Panjenenganipun." Ingsun badhe ngandharaken dhumateng tiyang-tiyang ingkang mboten pitados menapa ingkang sampun piyambakipun sedaya tindakaken, lan Ingsun badhe ndamel piyambakipun sedaya ngraosaken paukuman ingkang nggegirisi.
 
 وَلَئِنْ أَذَقْنَٰهُ رَحْمَةًۭ مِّنَّا مِنۢ بَعْدِ ضَرَّآءَ مَسَّتْهُ لَيَقُولَنَّ هَٰذَا لِى وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةًۭ وَلَئِن رُّجِعْتُ إِلَىٰ رَبِّىٓ إِنَّ لِى عِندَهُۥ لَلْحُسْنَىٰ ۚ فَلَنُنَبِّئَنَّ ٱلَّذِينَ كَفَرُوا۟ بِمَا عَمِلُوا۟ وَلَنُذِيقَنَّهُم مِّنْ عَذَابٍ غَلِيظٍۢ
 
@@ -17722,7 +17722,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَإِذَآ أَنْعَمْنَا عَلَى ٱلْإِنسَٰنِ أَعْرَضَ وَنَـَٔا بِجَانِبِهِۦ وَإِذَا مَسَّهُ ٱلشَّرُّ فَذُو دُعَآءٍ عَرِيضٍۢ
 
-**41:52** Matura, “Menapa panjenengan sedaya sampun nimbang? Menawi punika saking Gusti Allah lan panjenengan sedaya nolak punika — sinten ingkang langkung kesasar tinimbang piyambakipun ingkang kapedhot lan dipuntebihaken?”
+**41:52** Matura, "Menapa panjenengan sedaya sampun nimbang? Menawi punika saking Gusti Allah lan panjenengan sedaya nolak punika — sinten ingkang langkung kesasar tinimbang piyambakipun ingkang kapedhot lan dipuntebihaken?"
 
 قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ ثُمَّ كَفَرْتُم بِهِۦ مَنْ أَضَلُّ مِمَّنْ هُوَ فِى شِقَاقٍۭ بَعِيدٍۢ
 
@@ -17782,7 +17782,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ۖ فَٱللَّهُ هُوَ ٱلْوَلِىُّ وَهُوَ يُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**42:10** Prakawis punapa kemawon ingkang panjenengan sedaya benten panemu bab punika, putusanipun wonten ing Gusti Allah. “Mekaten punika Gusti Allah, Pangeran kawula, dhumateng Panjenenganipun kawula pasrah, lan dhumateng Panjenenganipun kawula mratobat.”
+**42:10** Prakawis punapa kemawon ingkang panjenengan sedaya benten panemu bab punika, putusanipun wonten ing Gusti Allah. "Mekaten punika Gusti Allah, Pangeran kawula, dhumateng Panjenenganipun kawula pasrah, lan dhumateng Panjenenganipun kawula mratobat."
 
 وَمَا ٱخْتَلَفْتُمْ فِيهِ مِن شَىْءٍۢ فَحُكْمُهُۥٓ إِلَى ٱللَّهِ ۚ ذَٰلِكُمُ ٱللَّهُ رَبِّى عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ
 
@@ -17794,7 +17794,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 لَهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍ عَلِيمٌۭ
 
-**42:13** Panjenenganipun sampun nemtokaken kagem panjenengan sedaya agami ingkang sami ingkang Panjenenganipun dhawuhaken dhumateng Nuh, lan menapa ingkang Ingsun wahyokaken dhumateng panjenengan, lan menapa ingkang Ingsun dhawuhaken dhumateng Ibrahim, lan Musa, lan Isa: “Panjenengan sedaya nindakaken agami, lan sampun ngantos pepisahan wonten ing ngriku.” Dene tiyang-tiyang ingkang nyembah brahala, menapa ingkang panjenengan suwunaken dhumateng piyambakipun sedaya punika nggegirisi kagem piyambakipun sedaya. Gusti Allah milih dhumateng Panjenenganipun piyambak sinten kemawon ingkang Panjenenganipun kersakaken, lan Panjenenganipun nedahaken dhumateng Panjenenganipun piyambak sinten kemawon ingkang mratobat.
+**42:13** Panjenenganipun sampun nemtokaken kagem panjenengan sedaya agami ingkang sami ingkang Panjenenganipun dhawuhaken dhumateng Nuh, lan menapa ingkang Ingsun wahyokaken dhumateng panjenengan, lan menapa ingkang Ingsun dhawuhaken dhumateng Ibrahim, lan Musa, lan Isa: "Panjenengan sedaya nindakaken agami, lan sampun ngantos pepisahan wonten ing ngriku." Dene tiyang-tiyang ingkang nyembah brahala, menapa ingkang panjenengan suwunaken dhumateng piyambakipun sedaya punika nggegirisi kagem piyambakipun sedaya. Gusti Allah milih dhumateng Panjenenganipun piyambak sinten kemawon ingkang Panjenenganipun kersakaken, lan Panjenenganipun nedahaken dhumateng Panjenenganipun piyambak sinten kemawon ingkang mratobat.
 
 ۞ شَرَعَ لَكُم مِّنَ ٱلدِّينِ مَا وَصَّىٰ بِهِۦ نُوحًۭا وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَمَا وَصَّيْنَا بِهِۦٓ إِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَىٰٓ ۖ أَنْ أَقِيمُوا۟ ٱلدِّينَ وَلَا تَتَفَرَّقُوا۟ فِيهِ ۚ كَبُرَ عَلَى ٱلْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ۚ ٱللَّهُ يَجْتَبِىٓ إِلَيْهِ مَن يَشَآءُ وَيَهْدِىٓ إِلَيْهِ مَن يُنِيبُ
 
@@ -17802,7 +17802,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمَا تَفَرَّقُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۚ وَلَوْلَا كَلِمَةٌۭ سَبَقَتْ مِن رَّبِّكَ إِلَىٰٓ أَجَلٍۢ مُّسَمًّۭى لَّقُضِىَ بَيْنَهُمْ ۚ وَإِنَّ ٱلَّذِينَ أُورِثُوا۟ ٱلْكِتَٰبَ مِنۢ بَعْدِهِمْ لَفِى شَكٍّۢ مِّنْهُ مُرِيبٍۢ
 
-**42:15** Dhumateng punika panjenengan terus ngajak, lan panjenengan lurus kados ingkang Panjenengan sampun dipundhawuhi, lan panjenengan sampun ngantos ndherek kekajenganipun piyambakipun sedaya, lan panjenengan matur, “Kawula pitados dhumateng Kitab punapa kemawon ingkang Gusti Allah sampun andhapaken, lan kawula sampun dipundhawuhi supados maringi putusan antawisipun panjenengan sedaya kanthi adil. Gusti Allah punika Pangeran kawula sedaya lan Pangeran panjenengan sedaya. Kawula sedaya gadhah tumindak kawula sedaya, lan panjenengan sedaya gadhah tumindak panjenengan sedaya. Sampun ngantos wonten padudon antawisipun kawula sedaya lan panjenengan sedaya. Gusti Allah badhe ngempalaken kawula sedaya sesarengan, lan dhumateng Panjenenganipun papan wangsul ingkang pungkasan.”
+**42:15** Dhumateng punika panjenengan terus ngajak, lan panjenengan lurus kados ingkang Panjenengan sampun dipundhawuhi, lan panjenengan sampun ngantos ndherek kekajenganipun piyambakipun sedaya, lan panjenengan matur, "Kawula pitados dhumateng Kitab punapa kemawon ingkang Gusti Allah sampun andhapaken, lan kawula sampun dipundhawuhi supados maringi putusan antawisipun panjenengan sedaya kanthi adil. Gusti Allah punika Pangeran kawula sedaya lan Pangeran panjenengan sedaya. Kawula sedaya gadhah tumindak kawula sedaya, lan panjenengan sedaya gadhah tumindak panjenengan sedaya. Sampun ngantos wonten padudon antawisipun kawula sedaya lan panjenengan sedaya. Gusti Allah badhe ngempalaken kawula sedaya sesarengan, lan dhumateng Panjenenganipun papan wangsul ingkang pungkasan."
 
 فَلِذَٰلِكَ فَٱدْعُ ۖ وَٱسْتَقِمْ كَمَآ أُمِرْتَ ۖ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ ۖ وَقُلْ ءَامَنتُ بِمَآ أَنزَلَ ٱللَّهُ مِن كِتَٰبٍۢ ۖ وَأُمِرْتُ لِأَعْدِلَ بَيْنَكُمُ ۖ ٱللَّهُ رَبُّنَا وَرَبُّكُمْ ۖ لَنَآ أَعْمَٰلُنَا وَلَكُمْ أَعْمَٰلُكُمْ ۖ لَا حُجَّةَ بَيْنَنَا وَبَيْنَكُمُ ۖ ٱللَّهُ يَجْمَعُ بَيْنَنَا ۖ وَإِلَيْهِ ٱلْمَصِيرُ
 
@@ -17834,11 +17834,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 تَرَى ٱلظَّٰلِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا۟ وَهُوَ وَاقِعٌۢ بِهِمْ ۗ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فِى رَوْضَاتِ ٱلْجَنَّاتِ ۖ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ۚ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ
 
-**42:23** Punika pawartos sae ingkang Gusti Allah paringaken dhumateng para kawula Panjenenganipun ingkang pitados lan tumindak sae. Matura, “Kawula mboten nyuwun upah punapa kemawon saking panjenengan sedaya kagem punika, kajawi rasa tresna antawisipun kulawarga ingkang celak.” Sinten kemawon ingkang tumindak sae, Ingsun badhe nambah kesaenanipun kagem piyambakipun. Gusti Allah punika Mahangapura lan Mahangajeni.
+**42:23** Punika pawartos sae ingkang Gusti Allah paringaken dhumateng para kawula Panjenenganipun ingkang pitados lan tumindak sae. Matura, "Kawula mboten nyuwun upah punapa kemawon saking panjenengan sedaya kagem punika, kajawi rasa tresna antawisipun kulawarga ingkang celak." Sinten kemawon ingkang tumindak sae, Ingsun badhe nambah kesaenanipun kagem piyambakipun. Gusti Allah punika Mahangapura lan Mahangajeni.
 
 ذَٰلِكَ ٱلَّذِى يُبَشِّرُ ٱللَّهُ عِبَادَهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ ۗ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِلَّا ٱلْمَوَدَّةَ فِى ٱلْقُرْبَىٰ ۗ وَمَن يَقْتَرِفْ حَسَنَةًۭ نَّزِدْ لَهُۥ فِيهَا حُسْنًا ۚ إِنَّ ٱللَّهَ غَفُورٌۭ شَكُورٌ
 
-**42:24** Utawi menapa piyambakipun sedaya matur, “Piyambakipun damel goroh bab Gusti Allah.” Menawi Gusti Allah ngersakaken mekaten, Panjenenganipun saged nyegel manah panjenengan. Nanging Gusti Allah mbusak ingkang goroh, lan mbuktikaken ingkang leres kanthi Pangandika-pangandika Panjenenganipun. Panjenenganipun mangertos menapa ingkang wonten ing manah.
+**42:24** Utawi menapa piyambakipun sedaya matur, "Piyambakipun damel goroh bab Gusti Allah." Menawi Gusti Allah ngersakaken mekaten, Panjenenganipun saged nyegel manah panjenengan. Nanging Gusti Allah mbusak ingkang goroh, lan mbuktikaken ingkang leres kanthi Pangandika-pangandika Panjenenganipun. Panjenenganipun mangertos menapa ingkang wonten ing manah.
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا ۖ فَإِن يَشَإِ ٱللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ ۗ وَيَمْحُ ٱللَّهُ ٱلْبَٰطِلَ وَيُحِقُّ ٱلْحَقَّ بِكَلِمَٰتِهِۦٓ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
@@ -17918,11 +17918,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ
 
-**42:44** Sinten kemawon ingkang Gusti Allah tilesaken mboten gadhah pangreksa sanesipun Panjenenganipun. Lan panjenengan badhe ningali tiyang-tiyang ingkang nglanggar wates, nalika piyambakipun sedaya ningali siksa, kanthi matur, “Menapa wonten margi kangge wangsul?”
+**42:44** Sinten kemawon ingkang Gusti Allah tilesaken mboten gadhah pangreksa sanesipun Panjenenganipun. Lan panjenengan badhe ningali tiyang-tiyang ingkang nglanggar wates, nalika piyambakipun sedaya ningali siksa, kanthi matur, "Menapa wonten margi kangge wangsul?"
 
 وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن وَلِىٍّۢ مِّنۢ بَعْدِهِۦ ۗ وَتَرَى ٱلظَّٰلِمِينَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ يَقُولُونَ هَلْ إِلَىٰ مَرَدٍّۢ مِّن سَبِيلٍۢ
 
-**42:45** Lan panjenengan badhe ningali piyambakipun sedaya dipuntedahaken dhumateng punika, kanthi ndhingkluk saking wirang, kanthi ningali kanthi mripat ingkang sinandi. Tiyang-tiyang ingkang pitados badhe matur, “Tiyang-tiyang ingkang kapitunan punika tiyang-tiyang ingkang kelangan piyambakipun piyambak lan kulawarganipun wonten ing Dinten Kiyamat.” Saestu, tiyang-tiyang ingkang tumindak awon wonten ing siksa ingkang langgeng.
+**42:45** Lan panjenengan badhe ningali piyambakipun sedaya dipuntedahaken dhumateng punika, kanthi ndhingkluk saking wirang, kanthi ningali kanthi mripat ingkang sinandi. Tiyang-tiyang ingkang pitados badhe matur, "Tiyang-tiyang ingkang kapitunan punika tiyang-tiyang ingkang kelangan piyambakipun piyambak lan kulawarganipun wonten ing Dinten Kiyamat." Saestu, tiyang-tiyang ingkang tumindak awon wonten ing siksa ingkang langgeng.
 
 وَتَرَىٰهُمْ يُعْرَضُونَ عَلَيْهَا خَٰشِعِينَ مِنَ ٱلذُّلِّ يَنظُرُونَ مِن طَرْفٍ خَفِىٍّۢ ۗ وَقَالَ ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ ٱلْخَٰسِرِينَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ ٱلْقِيَٰمَةِ ۗ أَلَآ إِنَّ ٱلظَّٰلِمِينَ فِى عَذَابٍۢ مُّقِيمٍۢ
 
@@ -18002,7 +18002,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَأَهْلَكْنَآ أَشَدَّ مِنْهُم بَطْشًۭا وَمَضَىٰ مَثَلُ ٱلْأَوَّلِينَ
 
-**43:9** Lan menawi panjenengan takin dhumateng piyambakipun sedaya, “Sinten ingkang nitahaken langit-langit lan bumi?” Piyambakipun sedaya badhe matur, “Ingkang Mahakuwaos, Ingkang Mangertos nitahaken punika.”
+**43:9** Lan menawi panjenengan takin dhumateng piyambakipun sedaya, "Sinten ingkang nitahaken langit-langit lan bumi?" Piyambakipun sedaya badhe matur, "Ingkang Mahakuwaos, Ingkang Mangertos nitahaken punika."
 
 وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ خَلَقَهُنَّ ٱلْعَزِيزُ ٱلْعَلِيمُ
 
@@ -18018,11 +18018,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَٱلَّذِى خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا وَجَعَلَ لَكُم مِّنَ ٱلْفُلْكِ وَٱلْأَنْعَٰمِ مَا تَرْكَبُونَ
 
-**43:13** Supados panjenengan sedaya saged nitih gegeripun, lan enget kanugrahanipun Pangeran panjenengan sedaya nalika panjenengan sedaya lungguh kanthi mantep ing nginggilipun, lan matur, “Mahasuci Panjenenganipun Ingkang mapanaken punika kagem paladosan kawula sedaya; saestu kawula sedaya mboten saged nindakaken punika piyambak-piyambak.
+**43:13** Supados panjenengan sedaya saged nitih gegeripun, lan enget kanugrahanipun Pangeran panjenengan sedaya nalika panjenengan sedaya lungguh kanthi mantep ing nginggilipun, lan matur, "Mahasuci Panjenenganipun Ingkang mapanaken punika kagem paladosan kawula sedaya; saestu kawula sedaya mboten saged nindakaken punika piyambak-piyambak.
 
 لِتَسْتَوُۥا۟ عَلَىٰ ظُهُورِهِۦ ثُمَّ تَذْكُرُوا۟ نِعْمَةَ رَبِّكُمْ إِذَا ٱسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا۟ سُبْحَٰنَ ٱلَّذِى سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُۥ مُقْرِنِينَ
 
-**43:14** Lan saestu, dhumateng Pangeran kawula sedaya kawula sedaya badhe wangsul.”
+**43:14** Lan saestu, dhumateng Pangeran kawula sedaya kawula sedaya badhe wangsul."
 
 وَإِنَّآ إِلَىٰ رَبِّنَا لَمُنقَلِبُونَ
 
@@ -18038,7 +18038,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَإِذَا بُشِّرَ أَحَدُهُم بِمَا ضَرَبَ لِلرَّحْمَٰنِ مَثَلًۭا ظَلَّ وَجْهُهُۥ مُسْوَدًّۭا وَهُوَ كَظِيمٌ
 
-**43:18** “Tiyang ingkang dipunagengaken supados endah, lan mboten saged nulungi wonten ing paprangan?”
+**43:18** "Tiyang ingkang dipunagengaken supados endah, lan mboten saged nulungi wonten ing paprangan?"
 
 أَوَمَن يُنَشَّؤُا۟ فِى ٱلْحِلْيَةِ وَهُوَ فِى ٱلْخِصَامِ غَيْرُ مُبِينٍۢ
 
@@ -18046,7 +18046,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَجَعَلُوا۟ ٱلْمَلَٰٓئِكَةَ ٱلَّذِينَ هُمْ عِبَٰدُ ٱلرَّحْمَٰنِ إِنَٰثًا ۚ أَشَهِدُوا۟ خَلْقَهُمْ ۚ سَتُكْتَبُ شَهَٰدَتُهُمْ وَيُسْـَٔلُونَ
 
-**43:20** Lan piyambakipun sedaya matur, “Menawi Ingkang Mahamurah ngersakaken, kawula sedaya mboten badhe nyembah piyambakipun sedaya.” Nanging piyambakipun sedaya mboten gadhah kawruh bab punika; piyambakipun sedaya namung ngira-ngira.
+**43:20** Lan piyambakipun sedaya matur, "Menawi Ingkang Mahamurah ngersakaken, kawula sedaya mboten badhe nyembah piyambakipun sedaya." Nanging piyambakipun sedaya mboten gadhah kawruh bab punika; piyambakipun sedaya namung ngira-ngira.
 
 وَقَالُوا۟ لَوْ شَآءَ ٱلرَّحْمَٰنُ مَا عَبَدْنَٰهُم ۗ مَّا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَخْرُصُونَ
 
@@ -18054,15 +18054,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَمْ ءَاتَيْنَٰهُمْ كِتَٰبًۭا مِّن قَبْلِهِۦ فَهُم بِهِۦ مُسْتَمْسِكُونَ
 
-**43:22** Nanging piyambakipun sedaya matur, “Kawula sedaya manggih tiyang sepuh kawula sedaya wonten ing satunggaling lampah, lan kawula sedaya dipuntedahaken wonten ing tapakipun piyambakipun sedaya.”
+**43:22** Nanging piyambakipun sedaya matur, "Kawula sedaya manggih tiyang sepuh kawula sedaya wonten ing satunggaling lampah, lan kawula sedaya dipuntedahaken wonten ing tapakipun piyambakipun sedaya."
 
 بَلْ قَالُوٓا۟ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍۢ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّهْتَدُونَ
 
-**43:23** Mekaten ugi, Ingsun mboten ngutus pangemut punapa kemawon saderengipun panjenengan dhumateng kitha punapa kemawon, kajawi tiyang-tiyang ingkang sugih antawisipun piyambakipun sedaya matur, “Kawula sedaya manggih tiyang sepuh kawula sedaya wonten ing satunggaling lampah, lan kawula sedaya ndherek tapakipun piyambakipun sedaya.”
+**43:23** Mekaten ugi, Ingsun mboten ngutus pangemut punapa kemawon saderengipun panjenengan dhumateng kitha punapa kemawon, kajawi tiyang-tiyang ingkang sugih antawisipun piyambakipun sedaya matur, "Kawula sedaya manggih tiyang sepuh kawula sedaya wonten ing satunggaling lampah, lan kawula sedaya ndherek tapakipun piyambakipun sedaya."
 
 وَكَذَٰلِكَ مَآ أَرْسَلْنَا مِن قَبْلِكَ فِى قَرْيَةٍۢ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍۢ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّقْتَدُونَ
 
-**43:24** Piyambakipun badhe matur, “Sanajan kawula mbekta pituduh ingkang langkung sae dhumateng panjenengan sedaya tinimbang menapa ingkang panjenengan sedaya manggih tiyang sepuh panjenengan sedaya ndherekaken?” Piyambakipun sedaya badhe matur, “Kawula sedaya nolak menapa ingkang panjenengan sedaya utus kanthi punika.”
+**43:24** Piyambakipun badhe matur, "Sanajan kawula mbekta pituduh ingkang langkung sae dhumateng panjenengan sedaya tinimbang menapa ingkang panjenengan sedaya manggih tiyang sepuh panjenengan sedaya ndherekaken?" Piyambakipun sedaya badhe matur, "Kawula sedaya nolak menapa ingkang panjenengan sedaya utus kanthi punika."
 
 ۞ قَٰلَ أَوَلَوْ جِئْتُكُم بِأَهْدَىٰ مِمَّا وَجَدتُّمْ عَلَيْهِ ءَابَآءَكُمْ ۖ قَالُوٓا۟ إِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَٰفِرُونَ
 
@@ -18070,11 +18070,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَٱنتَقَمْنَا مِنْهُمْ ۖ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُكَذِّبِينَ
 
-**43:26** Nalika Ibrahim matur dhumateng bapanipun lan kaumipun, “Kawula mboten lepat saking menapa ingkang panjenengan sedaya sembah.
+**43:26** Nalika Ibrahim matur dhumateng bapanipun lan kaumipun, "Kawula mboten lepat saking menapa ingkang panjenengan sedaya sembah.
 
 وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ وَقَوْمِهِۦٓ إِنَّنِى بَرَآءٌۭ مِّمَّا تَعْبُدُونَ
 
-**43:27** Kajawi Panjenenganipun Ingkang nitahaken kawula, amargi Panjenenganipun badhe nedahaken kawula.”
+**43:27** Kajawi Panjenenganipun Ingkang nitahaken kawula, amargi Panjenenganipun badhe nedahaken kawula."
 
 إِلَّا ٱلَّذِى فَطَرَنِى فَإِنَّهُۥ سَيَهْدِينِ
 
@@ -18086,11 +18086,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 بَلْ مَتَّعْتُ هَٰٓؤُلَآءِ وَءَابَآءَهُمْ حَتَّىٰ جَآءَهُمُ ٱلْحَقُّ وَرَسُولٌۭ مُّبِينٌۭ
 
-**43:30** Nanging nalika kayekten dhateng dhumateng piyambakipun sedaya, piyambakipun sedaya matur, “Punika sihir, lan kawula sedaya nolak pitados dhumateng punika.”
+**43:30** Nanging nalika kayekten dhateng dhumateng piyambakipun sedaya, piyambakipun sedaya matur, "Punika sihir, lan kawula sedaya nolak pitados dhumateng punika."
 
 وَلَمَّا جَآءَهُمُ ٱلْحَقُّ قَالُوا۟ هَٰذَا سِحْرٌۭ وَإِنَّا بِهِۦ كَٰفِرُونَ
 
-**43:31** Piyambakipun sedaya ugi matur, “Menawi kemawon Quran punika dipunandhapaken dhumateng tiyang jaler ingkang wigati saking kalih kitha.”
+**43:31** Piyambakipun sedaya ugi matur, "Menawi kemawon Quran punika dipunandhapaken dhumateng tiyang jaler ingkang wigati saking kalih kitha."
 
 وَقَالُوا۟ لَوْلَا نُزِّلَ هَٰذَا ٱلْقُرْءَانُ عَلَىٰ رَجُلٍۢ مِّنَ ٱلْقَرْيَتَيْنِ عَظِيمٍ
 
@@ -18118,7 +18118,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَإِنَّهُمْ لَيَصُدُّونَهُمْ عَنِ ٱلسَّبِيلِ وَيَحْسَبُونَ أَنَّهُم مُّهْتَدُونَ
 
-**43:38** Ngantos, nalika piyambakipun dhateng dhumateng Ingsun, piyambakipun badhe matur, “Menawi kemawon wonten antawisipun kawula lan panjenengan letipun kalih Wetan.” Kados pundi awonipun kanca!
+**43:38** Ngantos, nalika piyambakipun dhateng dhumateng Ingsun, piyambakipun badhe matur, "Menawi kemawon wonten antawisipun kawula lan panjenengan letipun kalih Wetan." Kados pundi awonipun kanca!
 
 حَتَّىٰٓ إِذَا جَآءَنَا قَالَ يَٰلَيْتَ بَيْنِى وَبَيْنَكَ بُعْدَ ٱلْمَشْرِقَيْنِ فَبِئْسَ ٱلْقَرِينُ
 
@@ -18146,11 +18146,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَإِنَّهُۥ لَذِكْرٌۭ لَّكَ وَلِقَوْمِكَ ۖ وَسَوْفَ تُسْـَٔلُونَ
 
-**43:45** Panjenengan takin dhumateng tiyang-tiyang saking para utusan Ingsun ingkang Ingsun utus saderengipun panjenengan: “Menapa Ingsun nemtokaken gusti-gusti sanesipun Ingkang Mahamurah kangge dipunsembah?”
+**43:45** Panjenengan takin dhumateng tiyang-tiyang saking para utusan Ingsun ingkang Ingsun utus saderengipun panjenengan: "Menapa Ingsun nemtokaken gusti-gusti sanesipun Ingkang Mahamurah kangge dipunsembah?"
 
 وَسْـَٔلْ مَنْ أَرْسَلْنَا مِن قَبْلِكَ مِن رُّسُلِنَآ أَجَعَلْنَا مِن دُونِ ٱلرَّحْمَٰنِ ءَالِهَةًۭ يُعْبَدُونَ
 
-**43:46** Ingsun sampun ngutus Musa kanthi wahyu-wahyu Ingsun dhumateng Fir'aun lan para pangagengipun. Piyambakipun matur, “Kawula punika Utusanipun Pangeranipun sadaya alam.”
+**43:46** Ingsun sampun ngutus Musa kanthi wahyu-wahyu Ingsun dhumateng Fir'aun lan para pangagengipun. Piyambakipun matur, "Kawula punika Utusanipun Pangeranipun sadaya alam."
 
 وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَآ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَقَالَ إِنِّى رَسُولُ رَبِّ ٱلْعَٰلَمِينَ
 
@@ -18162,7 +18162,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمَا نُرِيهِم مِّنْ ءَايَةٍ إِلَّا هِىَ أَكْبَرُ مِنْ أُخْتِهَا ۖ وَأَخَذْنَٰهُم بِٱلْعَذَابِ لَعَلَّهُمْ يَرْجِعُونَ
 
-**43:49** Piyambakipun sedaya matur, “Dhuh tukang sihir, panjenengan ndedonga dhumateng Pangeran panjenengan kagem kawula sedaya, miturut prasetya Panjenenganipun dhumateng panjenengan, lan mila kawula sedaya badhe dipuntedahaken.”
+**43:49** Piyambakipun sedaya matur, "Dhuh tukang sihir, panjenengan ndedonga dhumateng Pangeran panjenengan kagem kawula sedaya, miturut prasetya Panjenenganipun dhumateng panjenengan, lan mila kawula sedaya badhe dipuntedahaken."
 
 وَقَالُوا۟ يَٰٓأَيُّهَ ٱلسَّاحِرُ ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهْتَدُونَ
 
@@ -18170,7 +18170,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلْعَذَابَ إِذَا هُمْ يَنكُثُونَ
 
-**43:51** Fir'aun ngumumaken antawisipun kaumipun, kanthi matur, “Dhuh kaum kawula, menapa kawula mboten gadhah Krajan Mesir, lan lepen-lepen punika mili wonten ing ngandhap kawula? Menapa panjenengan sedaya mboten ningali?
+**43:51** Fir'aun ngumumaken antawisipun kaumipun, kanthi matur, "Dhuh kaum kawula, menapa kawula mboten gadhah Krajan Mesir, lan lepen-lepen punika mili wonten ing ngandhap kawula? Menapa panjenengan sedaya mboten ningali?
 
 وَنَادَىٰ فِرْعَوْنُ فِى قَوْمِهِۦ قَالَ يَٰقَوْمِ أَلَيْسَ لِى مُلْكُ مِصْرَ وَهَٰذِهِ ٱلْأَنْهَٰرُ تَجْرِى مِن تَحْتِىٓ ۖ أَفَلَا تُبْصِرُونَ
 
@@ -18178,7 +18178,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَمْ أَنَا۠ خَيْرٌۭ مِّنْ هَٰذَا ٱلَّذِى هُوَ مَهِينٌۭ وَلَا يَكَادُ يُبِينُ
 
-**43:53** Kenging menapa gelang-gelang emas mboten dipunandhapaken ing nginggilipun piyambakipun, utawi para malaikat dhateng sesarengan kaliyan piyambakipun kanthi rerombongan?”
+**43:53** Kenging menapa gelang-gelang emas mboten dipunandhapaken ing nginggilipun piyambakipun, utawi para malaikat dhateng sesarengan kaliyan piyambakipun kanthi rerombongan?"
 
 فَلَوْلَآ أُلْقِىَ عَلَيْهِ أَسْوِرَةٌۭ مِّن ذَهَبٍ أَوْ جَآءَ مَعَهُ ٱلْمَلَٰٓئِكَةُ مُقْتَرِنِينَ
 
@@ -18198,7 +18198,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ۞ وَلَمَّا ضُرِبَ ٱبْنُ مَرْيَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ
 
-**43:58** Piyambakipun sedaya matur, “Menapa gusti-gusti kawula sedaya langkung sae, utawi piyambakipun?” Piyambakipun sedaya nyebut piyambakipun namung kangge bantahan. Kaleresan, piyambakipun sedaya punika kaum ingkang tukang padudon.
+**43:58** Piyambakipun sedaya matur, "Menapa gusti-gusti kawula sedaya langkung sae, utawi piyambakipun?" Piyambakipun sedaya nyebut piyambakipun namung kangge bantahan. Kaleresan, piyambakipun sedaya punika kaum ingkang tukang padudon.
 
 وَقَالُوٓا۟ ءَأَٰلِهَتُنَا خَيْرٌ أَمْ هُوَ ۚ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلًۢا ۚ بَلْ هُمْ قَوْمٌ خَصِمُونَ
 
@@ -18218,11 +18218,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَا يَصُدَّنَّكُمُ ٱلشَّيْطَٰنُ ۖ إِنَّهُۥ لَكُمْ عَدُوٌّۭ مُّبِينٌۭ
 
-**43:63** Nalika Isa dhateng kanthi andharan-andharan ingkang cetha, piyambakipun matur, “Kawula sampun dhateng dhumateng panjenengan sedaya kanthi kawicaksanan, lan kangge ngandharaken kagem panjenengan sedaya sawetawis saking menapa ingkang panjenengan sedaya benten panemu bab punika. Pramila panjenengan sedaya ajrih dhumateng Gusti Allah, lan panjenengan sedaya manut dhumateng kawula.
+**43:63** Nalika Isa dhateng kanthi andharan-andharan ingkang cetha, piyambakipun matur, "Kawula sampun dhateng dhumateng panjenengan sedaya kanthi kawicaksanan, lan kangge ngandharaken kagem panjenengan sedaya sawetawis saking menapa ingkang panjenengan sedaya benten panemu bab punika. Pramila panjenengan sedaya ajrih dhumateng Gusti Allah, lan panjenengan sedaya manut dhumateng kawula.
 
 وَلَمَّا جَآءَ عِيسَىٰ بِٱلْبَيِّنَٰتِ قَالَ قَدْ جِئْتُكُم بِٱلْحِكْمَةِ وَلِأُبَيِّنَ لَكُم بَعْضَ ٱلَّذِى تَخْتَلِفُونَ فِيهِ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ
 
-**43:64** Gusti Allah punika Pangeran kawula lan Pangeran panjenengan sedaya, pramila panjenengan sedaya nyembah Panjenenganipun — punika margi ingkang lurus.”
+**43:64** Gusti Allah punika Pangeran kawula lan Pangeran panjenengan sedaya, pramila panjenengan sedaya nyembah Panjenenganipun — punika margi ingkang lurus."
 
 إِنَّ ٱللَّهَ هُوَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۚ هَٰذَا صِرَٰطٌۭ مُّسْتَقِيمٌۭ
 
@@ -18274,7 +18274,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمَا ظَلَمْنَٰهُمْ وَلَٰكِن كَانُوا۟ هُمُ ٱلظَّٰلِمِينَ
 
-**43:77** Lan piyambakipun sedaya badhe sesambat, “Dhuh Malik, Pangeran panjenengan mugi ngrampungaken kawula sedaya.” Piyambakipun badhe matur, “Panjenengan sedaya tetep manggen.”
+**43:77** Lan piyambakipun sedaya badhe sesambat, "Dhuh Malik, Pangeran panjenengan mugi ngrampungaken kawula sedaya." Piyambakipun badhe matur, "Panjenengan sedaya tetep manggen."
 
 وَنَادَوْا۟ يَٰمَٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّٰكِثُونَ
 
@@ -18290,7 +18290,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَمْ يَحْسَبُونَ أَنَّا لَا نَسْمَعُ سِرَّهُمْ وَنَجْوَىٰهُم ۚ بَلَىٰ وَرُسُلُنَا لَدَيْهِمْ يَكْتُبُونَ
 
-**43:81** Matura, “Menawi Ingkang Mahamurah gadhah putra, kawula badhe dados ingkang wiwitan nyembah.”
+**43:81** Matura, "Menawi Ingkang Mahamurah gadhah putra, kawula badhe dados ingkang wiwitan nyembah."
 
 قُلْ إِن كَانَ لِلرَّحْمَٰنِ وَلَدٌۭ فَأَنَا۠ أَوَّلُ ٱلْعَٰبِدِينَ
 
@@ -18314,15 +18314,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلَا يَمْلِكُ ٱلَّذِينَ يَدْعُونَ مِن دُونِهِ ٱلشَّفَٰعَةَ إِلَّا مَن شَهِدَ بِٱلْحَقِّ وَهُمْ يَعْلَمُونَ
 
-**43:87** Lan menawi panjenengan takin dhumateng piyambakipun sedaya, “Sinten ingkang nitahaken piyambakipun sedaya?”, piyambakipun sedaya badhe matur, “Gusti Allah.” Kenging menapa mila piyambakipun sedaya nyimpang?
+**43:87** Lan menawi panjenengan takin dhumateng piyambakipun sedaya, "Sinten ingkang nitahaken piyambakipun sedaya?", piyambakipun sedaya badhe matur, "Gusti Allah." Kenging menapa mila piyambakipun sedaya nyimpang?
 
 وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَهُمْ لَيَقُولُنَّ ٱللَّهُ ۖ فَأَنَّىٰ يُؤْفَكُونَ
 
-**43:88** Dene pratelanipun: “Pangeran kawula, punika kaum ingkang mboten pitados.”
+**43:88** Dene pratelanipun: "Pangeran kawula, punika kaum ingkang mboten pitados."
 
 وَقِيلِهِۦ يَٰرَبِّ إِنَّ هَٰٓؤُلَآءِ قَوْمٌۭ لَّا يُؤْمِنُونَ
 
-**43:89** Panjenengan ngapura piyambakipun sedaya, lan panjenengan matur, “Tentrem.” Piyambakipun sedaya badhe mangertos.
+**43:89** Panjenengan ngapura piyambakipun sedaya, lan panjenengan matur, "Tentrem." Piyambakipun sedaya badhe mangertos.
 
 فَٱصْفَحْ عَنْهُمْ وَقُلْ سَلَٰمٌۭ ۚ فَسَوْفَ يَعْلَمُونَ
 
@@ -18382,7 +18382,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 يَغْشَى ٱلنَّاسَ ۖ هَٰذَا عَذَابٌ أَلِيمٌۭ
 
-**44:12** “Pangeran kawula sedaya, Panjenengan ngangkat siksa saking kawula sedaya, kawula sedaya punika tiyang-tiyang ingkang pitados.”
+**44:12** "Pangeran kawula sedaya, Panjenengan ngangkat siksa saking kawula sedaya, kawula sedaya punika tiyang-tiyang ingkang pitados."
 
 رَّبَّنَا ٱكْشِفْ عَنَّا ٱلْعَذَابَ إِنَّا مُؤْمِنُونَ
 
@@ -18390,7 +18390,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَنَّىٰ لَهُمُ ٱلذِّكْرَىٰ وَقَدْ جَآءَهُمْ رَسُولٌۭ مُّبِينٌۭ
 
-**44:14** Nanging piyambakipun sedaya mbalik saking piyambakipun, lan matur, “Dipunwulang, nanging edan!”
+**44:14** Nanging piyambakipun sedaya mbalik saking piyambakipun, lan matur, "Dipunwulang, nanging edan!"
 
 ثُمَّ تَوَلَّوْا۟ عَنْهُ وَقَالُوا۟ مُعَلَّمٌۭ مَّجْنُونٌ
 
@@ -18406,11 +18406,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ۞ وَلَقَدْ فَتَنَّا قَبْلَهُمْ قَوْمَ فِرْعَوْنَ وَجَآءَهُمْ رَسُولٌۭ كَرِيمٌ
 
-**44:18** Kanthi matur, “Panjenengan sedaya masrahaken para kawula Gusti Allah dhumateng kawula. Kawula punika utusan ingkang jujur kagem panjenengan sedaya.”
+**44:18** Kanthi matur, "Panjenengan sedaya masrahaken para kawula Gusti Allah dhumateng kawula. Kawula punika utusan ingkang jujur kagem panjenengan sedaya."
 
 أَنْ أَدُّوٓا۟ إِلَىَّ عِبَادَ ٱللَّهِ ۖ إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ
 
-**44:19** Lan, “Panjenengan sedaya sampun ngantos nginggilaken piyambakipun piyambak nginggilipun Gusti Allah. Kawula dhateng dhumateng panjenengan sedaya kanthi kuwaos ingkang cetha.
+**44:19** Lan, "Panjenengan sedaya sampun ngantos nginggilaken piyambakipun piyambak nginggilipun Gusti Allah. Kawula dhateng dhumateng panjenengan sedaya kanthi kuwaos ingkang cetha.
 
 وَأَن لَّا تَعْلُوا۟ عَلَى ٱللَّهِ ۖ إِنِّىٓ ءَاتِيكُم بِسُلْطَٰنٍۢ مُّبِينٍۢ
 
@@ -18418,19 +18418,19 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَإِنِّى عُذْتُ بِرَبِّى وَرَبِّكُمْ أَن تَرْجُمُونِ
 
-**44:21** Nanging menawi panjenengan sedaya mboten pitados dhumateng kawula, panjenengan sedaya nebih saking kawula.”
+**44:21** Nanging menawi panjenengan sedaya mboten pitados dhumateng kawula, panjenengan sedaya nebih saking kawula."
 
 وَإِن لَّمْ تُؤْمِنُوا۟ لِى فَٱعْتَزِلُونِ
 
-**44:22** Piyambakipun nyuwun dhumateng Pangeranipun: “Punika kaum ingkang dosa.”
+**44:22** Piyambakipun nyuwun dhumateng Pangeranipun: "Punika kaum ingkang dosa."
 
 فَدَعَا رَبَّهُۥٓ أَنَّ هَٰٓؤُلَآءِ قَوْمٌۭ مُّجْرِمُونَ
 
-**44:23** “Panjenengan medal sesarengan kaliyan para kawula Ingsun ing dalu — panjenengan sedaya badhe dipuntututi.
+**44:23** "Panjenengan medal sesarengan kaliyan para kawula Ingsun ing dalu — panjenengan sedaya badhe dipuntututi.
 
 فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ
 
-**44:24** Lan panjenengan ngliwati seganten kanthi enggal; piyambakipun sedaya punika wadya ingkang badhe dipunlelepaken.”
+**44:24** Lan panjenengan ngliwati seganten kanthi enggal; piyambakipun sedaya punika wadya ingkang badhe dipunlelepaken."
 
 وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا ۖ إِنَّهُمْ جُندٌۭ مُّغْرَقُونَ
 
@@ -18474,11 +18474,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِنَّ هَٰٓؤُلَآءِ لَيَقُولُونَ
 
-**44:35** “Boten wonten kajawi sedan kawula sedaya ingkang wiwitan, lan kawula sedaya mboten badhe dipunwungokaken.
+**44:35** "Boten wonten kajawi sedan kawula sedaya ingkang wiwitan, lan kawula sedaya mboten badhe dipunwungokaken.
 
 إِنْ هِىَ إِلَّا مَوْتَتُنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُنشَرِينَ
 
-**44:36** Panjenengan sedaya mbekta wangsul leluhur kawula sedaya, menawi panjenengan sedaya leres.”
+**44:36** Panjenengan sedaya mbekta wangsul leluhur kawula sedaya, menawi panjenengan sedaya leres."
 
 فَأْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -18678,15 +18678,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَفَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلْمٍۢ وَخَتَمَ عَلَىٰ سَمْعِهِۦ وَقَلْبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةًۭ فَمَن يَهْدِيهِ مِنۢ بَعْدِ ٱللَّهِ ۚ أَفَلَا تَذَكَّرُونَ
 
-**45:24** Lan piyambakipun sami ngendika, “Boten wonten sanes kajawi gesang kita ing sapunika; kita pejah lan kita gesang, lan boten wonten ingkang ngrusak kita kajawi wekdal.” Nanging piyambakipun boten gadhah kawruh bab punika; piyambakipun namung sami nginten-inten.
+**45:24** Lan piyambakipun sami ngendika, "Boten wonten sanes kajawi gesang kita ing sapunika; kita pejah lan kita gesang, lan boten wonten ingkang ngrusak kita kajawi wekdal." Nanging piyambakipun boten gadhah kawruh bab punika; piyambakipun namung sami nginten-inten.
 
 وَقَالُوا۟ مَا هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا يُهْلِكُنَآ إِلَّا ٱلدَّهْرُ ۚ وَمَا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَظُنُّونَ
 
-**45:25** Nalika ayat-ayat Ingsun ingkang njlentrehaken dipunwaosaken dhumateng piyambakipun, argumentasipun namung ngendika, “Wangsulaken leluhur kita, menawi panjenengan leres.”
+**45:25** Nalika ayat-ayat Ingsun ingkang njlentrehaken dipunwaosaken dhumateng piyambakipun, argumentasipun namung ngendika, "Wangsulaken leluhur kita, menawi panjenengan leres."
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ مَّا كَانَ حُجَّتَهُمْ إِلَّآ أَن قَالُوا۟ ٱئْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَٰدِقِينَ
 
-**45:26** Ngendikana, “Gusti Allah maringi panjenengan gesang, salajengipun Panjenenganipun ndadosaken panjenengan pejah; salajengipun Panjenenganipun ngempalaken panjenengan kangge Dinten Kebangkitan, ingkang bab punika boten wonten mamang. Nanging kathah tiyang boten mangertos.”
+**45:26** Ngendikana, "Gusti Allah maringi panjenengan gesang, salajengipun Panjenenganipun ndadosaken panjenengan pejah; salajengipun Panjenenganipun ngempalaken panjenengan kangge Dinten Kebangkitan, ingkang bab punika boten wonten mamang. Nanging kathah tiyang boten mangertos."
 
 قُلِ ٱللَّهُ يُحْيِيكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يَجْمَعُكُمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَا رَيْبَ فِيهِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
@@ -18694,11 +18694,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يَوْمَئِذٍۢ يَخْسَرُ ٱلْمُبْطِلُونَ
 
-**45:28** Panjenengan badhe ningali saben golongan sami dheku; saben golongan badhe dipunundang dhumateng Kitabipun: “Ing dinten punika panjenengan dipunbales miturut punapa ingkang rumiyin panjenengan tindakaken.
+**45:28** Panjenengan badhe ningali saben golongan sami dheku; saben golongan badhe dipunundang dhumateng Kitabipun: "Ing dinten punika panjenengan dipunbales miturut punapa ingkang rumiyin panjenengan tindakaken.
 
 وَتَرَىٰ كُلَّ أُمَّةٍۢ جَاثِيَةًۭ ۚ كُلُّ أُمَّةٍۢ تُدْعَىٰٓ إِلَىٰ كِتَٰبِهَا ٱلْيَوْمَ تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ
 
-**45:29** Kitab Ingsun punika ngendika bab panjenengan kanthi leres. Ingsun sampun nyathet punapa ingkang panjenengan tindakaken.”
+**45:29** Kitab Ingsun punika ngendika bab panjenengan kanthi leres. Ingsun sampun nyathet punapa ingkang panjenengan tindakaken."
 
 هَٰذَا كِتَٰبُنَا يَنطِقُ عَلَيْكُم بِٱلْحَقِّ ۚ إِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ
 
@@ -18706,11 +18706,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُدْخِلُهُمْ رَبُّهُمْ فِى رَحْمَتِهِۦ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْمُبِينُ
 
-**45:31** Nanging wondene tiyang-tiyang ingkang boten pitados: “Punapa wahyu-wahyu Ingsun boten dipunwaosaken dhumateng panjenengan? Nanging panjenengan sami gumedhe, lan panjenengan dados tiyang-tiyang ingkang dosa.”
+**45:31** Nanging wondene tiyang-tiyang ingkang boten pitados: "Punapa wahyu-wahyu Ingsun boten dipunwaosaken dhumateng panjenengan? Nanging panjenengan sami gumedhe, lan panjenengan dados tiyang-tiyang ingkang dosa."
 
 وَأَمَّا ٱلَّذِينَ كَفَرُوٓا۟ أَفَلَمْ تَكُنْ ءَايَٰتِى تُتْلَىٰ عَلَيْكُمْ فَٱسْتَكْبَرْتُمْ وَكُنتُمْ قَوْمًۭا مُّجْرِمِينَ
 
-**45:32** Lan nalika dipunngendikakaken, “Prajanji-nipun Gusti Allah punika leres, lan bab Wekdal punika boten wonten mamang,” panjenengan sami ngendika, “Kita boten mangertos punapa Wekdal punika; kita nginten punika namung panginten-inten; kita boten yakin.”
+**45:32** Lan nalika dipunngendikakaken, "Prajanji-nipun Gusti Allah punika leres, lan bab Wekdal punika boten wonten mamang," panjenengan sami ngendika, "Kita boten mangertos punapa Wekdal punika; kita nginten punika namung panginten-inten; kita boten yakin."
 
 وَإِذَا قِيلَ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ وَٱلسَّاعَةُ لَا رَيْبَ فِيهَا قُلْتُم مَّا نَدْرِى مَا ٱلسَّاعَةُ إِن نَّظُنُّ إِلَّا ظَنًّۭا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ
 
@@ -18718,11 +18718,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَبَدَا لَهُمْ سَيِّـَٔاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**45:34** Lan badhe dipunngendikakaken, “Ing dinten punika Ingsun nglirwakaken panjenengan, kados panjenengan nglirwakaken pepanggihan Dinten panjenengan punika. Papan panjenengan punika Geni, lan boten wonten penulung kangge panjenengan.
+**45:34** Lan badhe dipunngendikakaken, "Ing dinten punika Ingsun nglirwakaken panjenengan, kados panjenengan nglirwakaken pepanggihan Dinten panjenengan punika. Papan panjenengan punika Geni, lan boten wonten penulung kangge panjenengan.
 
 وَقِيلَ ٱلْيَوْمَ نَنسَىٰكُمْ كَمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا وَمَأْوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّٰصِرِينَ
 
-**45:35** Punika amargi panjenengan ndadosaken wahyu-wahyu-nipun Gusti Allah geguyonan, lan gesang donya sampun mbebujuk panjenengan.” Pramila ing dinten punika piyambakipun boten badhe dipunwedalaken saking punika, lan piyambakipun boten badhe dipunparengaken tobat.
+**45:35** Punika amargi panjenengan ndadosaken wahyu-wahyu-nipun Gusti Allah geguyonan, lan gesang donya sampun mbebujuk panjenengan." Pramila ing dinten punika piyambakipun boten badhe dipunwedalaken saking punika, lan piyambakipun boten badhe dipunparengaken tobat.
 
 ذَٰلِكُم بِأَنَّكُمُ ٱتَّخَذْتُمْ ءَايَٰتِ ٱللَّهِ هُزُوًۭا وَغَرَّتْكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ فَٱلْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَلَا هُمْ يُسْتَعْتَبُونَ
 
@@ -18758,7 +18758,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 مَا خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ وَأَجَلٍۢ مُّسَمًّۭى ۚ وَٱلَّذِينَ كَفَرُوا۟ عَمَّآ أُنذِرُوا۟ مُعْرِضُونَ
 
-**46:4** Ngendikana, “Punapa panjenengan sampun nimbang tiyang-tiyang ingkang panjenengan sembah nggentosi Gusti Allah? Tedahaken dhumateng kula perangan pundi saking bumi ingkang sampun piyambakipun titahaken. Utawi punapa piyambakipun gadhah perangan saking langit-langit? Bekta dhumateng kula kitab ingkang sadherengipun punika, utawi sawetawis tilas kawruh, menawi panjenengan leres.”
+**46:4** Ngendikana, "Punapa panjenengan sampun nimbang tiyang-tiyang ingkang panjenengan sembah nggentosi Gusti Allah? Tedahaken dhumateng kula perangan pundi saking bumi ingkang sampun piyambakipun titahaken. Utawi punapa piyambakipun gadhah perangan saking langit-langit? Bekta dhumateng kula kitab ingkang sadherengipun punika, utawi sawetawis tilas kawruh, menawi panjenengan leres."
 
 قُلْ أَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌۭ فِى ٱلسَّمَٰوَٰتِ ۖ ٱئْتُونِى بِكِتَٰبٍۢ مِّن قَبْلِ هَٰذَآ أَوْ أَثَٰرَةٍۢ مِّنْ عِلْمٍ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -18770,23 +18770,23 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَإِذَا حُشِرَ ٱلنَّاسُ كَانُوا۟ لَهُمْ أَعْدَآءًۭ وَكَانُوا۟ بِعِبَادَتِهِمْ كَٰفِرِينَ
 
-**46:7** Nalika wahyu-wahyu Ingsun dipunwaosaken dhumateng piyambakipun, cetha lan gamblang, tiyang-tiyang ingkang boten pitados sami ngendika bab kaleresan nalika punika sampun dhateng dhumateng piyambakipun, “Punika cetha sihir.”
+**46:7** Nalika wahyu-wahyu Ingsun dipunwaosaken dhumateng piyambakipun, cetha lan gamblang, tiyang-tiyang ingkang boten pitados sami ngendika bab kaleresan nalika punika sampun dhateng dhumateng piyambakipun, "Punika cetha sihir."
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلْحَقِّ لَمَّا جَآءَهُمْ هَٰذَا سِحْرٌۭ مُّبِينٌ
 
-**46:8** Utawi punapa piyambakipun sami ngendika, “Piyambakipun ingkang ngarang piyambak”? Ngendikana, “Menawi kula ngarang piyambak, boten wonten punapa-punapa ingkang panjenengan saged tindakaken kangge nglindhungi kula saking Gusti Allah. Panjenenganipun mangertos kanthi sae punapa ingkang panjenengan sami tindakaken. Panjenenganipun cekap dados seksi antawisipun kula lan panjenengan. Panjenenganipun punika Kang Mahangapunten, Kang Mahaasih.”
+**46:8** Utawi punapa piyambakipun sami ngendika, "Piyambakipun ingkang ngarang piyambak"? Ngendikana, "Menawi kula ngarang piyambak, boten wonten punapa-punapa ingkang panjenengan saged tindakaken kangge nglindhungi kula saking Gusti Allah. Panjenenganipun mangertos kanthi sae punapa ingkang panjenengan sami tindakaken. Panjenenganipun cekap dados seksi antawisipun kula lan panjenengan. Panjenenganipun punika Kang Mahangapunten, Kang Mahaasih."
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَلَا تَمْلِكُونَ لِى مِنَ ٱللَّهِ شَيْـًٔا ۖ هُوَ أَعْلَمُ بِمَا تُفِيضُونَ فِيهِ ۖ كَفَىٰ بِهِۦ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۖ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
-**46:9** Ngendikana, “Kula boten beda kaliyan utusan-utusan sanesipun; lan kula boten mangertos punapa ingkang badhe dipuntindakaken dhumateng kula, utawi dhumateng panjenengan. Kula namung ngetutaken punapa ingkang dipunwahyukaken dhumateng kula, lan kula namung pepenget ingkang cetha.”
+**46:9** Ngendikana, "Kula boten beda kaliyan utusan-utusan sanesipun; lan kula boten mangertos punapa ingkang badhe dipuntindakaken dhumateng kula, utawi dhumateng panjenengan. Kula namung ngetutaken punapa ingkang dipunwahyukaken dhumateng kula, lan kula namung pepenget ingkang cetha."
 
 قُلْ مَا كُنتُ بِدْعًۭا مِّنَ ٱلرُّسُلِ وَمَآ أَدْرِى مَا يُفْعَلُ بِى وَلَا بِكُمْ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ وَمَآ أَنَا۠ إِلَّا نَذِيرٌۭ مُّبِينٌۭ
 
-**46:10** Ngendikana, “Punapa panjenengan sampun nimbang? Punapa menawi punika saking Gusti Allah lan panjenengan boten pitados dhumateng punika? Seksi saking Putra-Putra Israil sampun paring paseksen bab ingkang sami kaliyan punika, lan sampun pitados, wondene panjenengan sami gumedhe. Gusti Allah boten nuntun tiyang-tiyang ingkang awon.”
+**46:10** Ngendikana, "Punapa panjenengan sampun nimbang? Punapa menawi punika saking Gusti Allah lan panjenengan boten pitados dhumateng punika? Seksi saking Putra-Putra Israil sampun paring paseksen bab ingkang sami kaliyan punika, lan sampun pitados, wondene panjenengan sami gumedhe. Gusti Allah boten nuntun tiyang-tiyang ingkang awon."
 
 قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ وَكَفَرْتُم بِهِۦ وَشَهِدَ شَاهِدٌۭ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ عَلَىٰ مِثْلِهِۦ فَـَٔامَنَ وَٱسْتَكْبَرْتُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**46:11** Tiyang-tiyang ingkang boten pitados sami ngendika dhumateng tiyang-tiyang ingkang pitados, “Menawi punika punapa-punapa ingkang sae, piyambakipun boten badhe ndhisiki kita dhumateng punika.” Lan amargi piyambakipun boten dipuntuntun dening punika, piyambakipun badhe ngendika, “Punika goroh kuna.”
+**46:11** Tiyang-tiyang ingkang boten pitados sami ngendika dhumateng tiyang-tiyang ingkang pitados, "Menawi punika punapa-punapa ingkang sae, piyambakipun boten badhe ndhisiki kita dhumateng punika." Lan amargi piyambakipun boten dipuntuntun dening punika, piyambakipun badhe ngendika, "Punika goroh kuna."
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ لَوْ كَانَ خَيْرًۭا مَّا سَبَقُونَآ إِلَيْهِ ۚ وَإِذْ لَمْ يَهْتَدُوا۟ بِهِۦ فَسَيَقُولُونَ هَٰذَآ إِفْكٌۭ قَدِيمٌۭ
 
@@ -18794,7 +18794,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمِن قَبْلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامًۭا وَرَحْمَةًۭ ۚ وَهَٰذَا كِتَٰبٌۭ مُّصَدِّقٌۭ لِّسَانًا عَرَبِيًّۭا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُوا۟ وَبُشْرَىٰ لِلْمُحْسِنِينَ
 
-**46:13** Tiyang-tiyang ingkang sami ngendika, “Pangeran kita punika Gusti Allah,” salajengipun gesang kanthi lurus — piyambakipun boten gadhah punapa-punapa ingkang dipunajrihi, lan piyambakipun boten badhe sedhih.
+**46:13** Tiyang-tiyang ingkang sami ngendika, "Pangeran kita punika Gusti Allah," salajengipun gesang kanthi lurus — piyambakipun boten gadhah punapa-punapa ingkang dipunajrihi, lan piyambakipun boten badhe sedhih.
 
 إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَٰمُوا۟ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
@@ -18802,7 +18802,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ خَٰلِدِينَ فِيهَا جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**46:15** Ingsun sampun maringi dhawuh dhumateng manungsa supados sae dhumateng tiyang sepuhipun kekalih. Ibunipun ngandhut piyambakipun kanthi rekasa, lan nglairakipun kanthi rekasa. Anggenipun ngandhut lan nyapih punika tigang dasa wulan. Ngantos, nalika piyambakipun sampun diwasa, lan sampun yuswa sekawan dasa taun, piyambakipun ngendika, “Dhuh Pangeran, mugi Panjenengan maringi kula saged ngaturaken panuwun dhumateng kanugrahan ingkang sampun Panjenengan paringaken dhumateng kula lan dhumateng tiyang sepuh kula kekalih, lan supados nindakaken kalurusan, ingkang ndadosaken Panjenengan rena. Lan mugi Panjenengan ndadosaken putra-putra kula sae kangge kula. Kula sampun tobat kanthi tulus dhumateng Panjenengan, lan kula kalebet tiyang-tiyang ingkang sampun pasrah.”
+**46:15** Ingsun sampun maringi dhawuh dhumateng manungsa supados sae dhumateng tiyang sepuhipun kekalih. Ibunipun ngandhut piyambakipun kanthi rekasa, lan nglairakipun kanthi rekasa. Anggenipun ngandhut lan nyapih punika tigang dasa wulan. Ngantos, nalika piyambakipun sampun diwasa, lan sampun yuswa sekawan dasa taun, piyambakipun ngendika, "Dhuh Pangeran, mugi Panjenengan maringi kula saged ngaturaken panuwun dhumateng kanugrahan ingkang sampun Panjenengan paringaken dhumateng kula lan dhumateng tiyang sepuh kula kekalih, lan supados nindakaken kalurusan, ingkang ndadosaken Panjenengan rena. Lan mugi Panjenengan ndadosaken putra-putra kula sae kangge kula. Kula sampun tobat kanthi tulus dhumateng Panjenengan, lan kula kalebet tiyang-tiyang ingkang sampun pasrah."
 
 وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ إِحْسَٰنًا ۖ حَمَلَتْهُ أُمُّهُۥ كُرْهًۭا وَوَضَعَتْهُ كُرْهًۭا ۖ وَحَمْلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ شَهْرًا ۚ حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرْبَعِينَ سَنَةًۭ قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًۭا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ ۖ إِنِّى تُبْتُ إِلَيْكَ وَإِنِّى مِنَ ٱلْمُسْلِمِينَ
 
@@ -18810,7 +18810,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ نَتَقَبَّلُ عَنْهُمْ أَحْسَنَ مَا عَمِلُوا۟ وَنَتَجَاوَزُ عَن سَيِّـَٔاتِهِمْ فِىٓ أَصْحَٰبِ ٱلْجَنَّةِ ۖ وَعْدَ ٱلصِّدْقِ ٱلَّذِى كَانُوا۟ يُوعَدُونَ
 
-**46:17** Wondene piyambakipun ingkang ngendika dhumateng tiyang sepuhipun kekalih, “Cekap saking panjenengan kekalih! Punapa panjenengan kekalih paring prajanji dhumateng kula bilih kula badhe dipuntangekaken, nalika generasi-generasi sampun sumerep sadherengipun kula?” Wondene piyambakipun kekalih nangis nyuwun pitulunganipun Gusti Allah, “Cilaka panjenengan! Pitadosa! Prajanji-nipun Gusti Allah punika leres!” Nanging piyambakipun ngendika, “Punika boten sanes kajawi dongeng-dongengipun tiyang kuna.”
+**46:17** Wondene piyambakipun ingkang ngendika dhumateng tiyang sepuhipun kekalih, "Cekap saking panjenengan kekalih! Punapa panjenengan kekalih paring prajanji dhumateng kula bilih kula badhe dipuntangekaken, nalika generasi-generasi sampun sumerep sadherengipun kula?" Wondene piyambakipun kekalih nangis nyuwun pitulunganipun Gusti Allah, "Cilaka panjenengan! Pitadosa! Prajanji-nipun Gusti Allah punika leres!" Nanging piyambakipun ngendika, "Punika boten sanes kajawi dongeng-dongengipun tiyang kuna."
 
 وَٱلَّذِى قَالَ لِوَٰلِدَيْهِ أُفٍّۢ لَّكُمَآ أَتَعِدَانِنِىٓ أَنْ أُخْرَجَ وَقَدْ خَلَتِ ٱلْقُرُونُ مِن قَبْلِى وَهُمَا يَسْتَغِيثَانِ ٱللَّهَ وَيْلَكَ ءَامِنْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ فَيَقُولُ مَا هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
@@ -18822,23 +18822,23 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلِكُلٍّۢ دَرَجَٰتٌۭ مِّمَّا عَمِلُوا۟ ۖ وَلِيُوَفِّيَهُمْ أَعْمَٰلَهُمْ وَهُمْ لَا يُظْلَمُونَ
 
-**46:20** Ing dinten nalika tiyang-tiyang ingkang boten pitados badhe dipuntedahaken dhumateng Geni: “Panjenengan sampun mbuwang kabecikan panjenengan ing gesang donya panjenengan, lan panjenengan sampun seneng-seneng kaliyan punika. Pramila ing dinten punika panjenengan dipunbales kanthi paukuman isin, amargi kagedhean panjenengan ingkang awon ing bumi, lan amargi panjenengan rumiyin sami dosa.”
+**46:20** Ing dinten nalika tiyang-tiyang ingkang boten pitados badhe dipuntedahaken dhumateng Geni: "Panjenengan sampun mbuwang kabecikan panjenengan ing gesang donya panjenengan, lan panjenengan sampun seneng-seneng kaliyan punika. Pramila ing dinten punika panjenengan dipunbales kanthi paukuman isin, amargi kagedhean panjenengan ingkang awon ing bumi, lan amargi panjenengan rumiyin sami dosa."
 
 وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَذْهَبْتُمْ طَيِّبَٰتِكُمْ فِى حَيَاتِكُمُ ٱلدُّنْيَا وَٱسْتَمْتَعْتُم بِهَا فَٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَسْتَكْبِرُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَبِمَا كُنتُمْ تَفْسُقُونَ
 
-**46:21** Lan elinga sedherekipun Aad, nalika piyambakipun ngengetaken golonganipun ing pasir-pasir. Pepenget-pepenget sampun sumerep sadherengipun piyambakipun, lan sasampunipun piyambakipun: “Sampun nyembah kajawi namung Gusti Allah; kula ajrih kangge panjenengan paukumanipun Dinten ingkang ageng sanget.”
+**46:21** Lan elinga sedherekipun Aad, nalika piyambakipun ngengetaken golonganipun ing pasir-pasir. Pepenget-pepenget sampun sumerep sadherengipun piyambakipun, lan sasampunipun piyambakipun: "Sampun nyembah kajawi namung Gusti Allah; kula ajrih kangge panjenengan paukumanipun Dinten ingkang ageng sanget."
 
 ۞ وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦٓ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍۢ
 
-**46:22** Piyambakipun sami ngendika, “Punapa panjenengan dhateng dhumateng kita kangge nyimpangaken kita saking gusti-gusti kita? Pramila bekta dhumateng kita punapa ingkang panjenengan ancemaken dhumateng kita, menawi panjenengan leres.”
+**46:22** Piyambakipun sami ngendika, "Punapa panjenengan dhateng dhumateng kita kangge nyimpangaken kita saking gusti-gusti kita? Pramila bekta dhumateng kita punapa ingkang panjenengan ancemaken dhumateng kita, menawi panjenengan leres."
 
 قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 
-**46:23** Piyambakipun ngendika, “Kawruh punika namung wonten ing Gusti Allah, lan kula paring pawartos dhumateng panjenengan bab punapa ingkang kula dipunutus kaliyan punika; nanging kula ningali panjenengan golongan ingkang bodho.”
+**46:23** Piyambakipun ngendika, "Kawruh punika namung wonten ing Gusti Allah, lan kula paring pawartos dhumateng panjenengan bab punapa ingkang kula dipunutus kaliyan punika; nanging kula ningali panjenengan golongan ingkang bodho."
 
 قَالَ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَأُبَلِّغُكُم مَّآ أُرْسِلْتُ بِهِۦ وَلَٰكِنِّىٓ أَرَىٰكُمْ قَوْمًۭا تَجْهَلُونَ
 
-**46:24** Salajengipun, nalika piyambakipun ningali mega ingkang nyedhaki lembahipun, piyambakipun sami ngendika, “Punika mega ingkang badhe bekta udan dhumateng kita.” “Sanyatanipun, punika punapa ingkang panjenengan sami boten sabar: angin ingkang ing salebetipun wonten kasangsaran ingkang nglarani.”
+**46:24** Salajengipun, nalika piyambakipun ningali mega ingkang nyedhaki lembahipun, piyambakipun sami ngendika, "Punika mega ingkang badhe bekta udan dhumateng kita." "Sanyatanipun, punika punapa ingkang panjenengan sami boten sabar: angin ingkang ing salebetipun wonten kasangsaran ingkang nglarani."
 
 فَلَمَّا رَأَوْهُ عَارِضًۭا مُّسْتَقْبِلَ أَوْدِيَتِهِمْ قَالُوا۟ هَٰذَا عَارِضٌۭ مُّمْطِرُنَا ۚ بَلْ هُوَ مَا ٱسْتَعْجَلْتُم بِهِۦ ۖ رِيحٌۭ فِيهَا عَذَابٌ أَلِيمٌۭ
 
@@ -18858,15 +18858,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَلَوْلَا نَصَرَهُمُ ٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ قُرْبَانًا ءَالِهَةًۢ ۖ بَلْ ضَلُّوا۟ عَنْهُمْ ۚ وَذَٰلِكَ إِفْكُهُمْ وَمَا كَانُوا۟ يَفْتَرُونَ
 
-**46:29** Elinga nalika Ingsun ngutus dhumateng panjenengan sawetawis jin, kangge mirengaken Quran. Nalika piyambakipun dhateng ing ngarsanipun, piyambakipun sami ngendika, “Sami migatosaken!” Salajengipun, nalika punika sampun rampung, piyambakipun enggal-enggal dhateng golonganipun, ngengetaken piyambakipun.
+**46:29** Elinga nalika Ingsun ngutus dhumateng panjenengan sawetawis jin, kangge mirengaken Quran. Nalika piyambakipun dhateng ing ngarsanipun, piyambakipun sami ngendika, "Sami migatosaken!" Salajengipun, nalika punika sampun rampung, piyambakipun enggal-enggal dhateng golonganipun, ngengetaken piyambakipun.
 
 وَإِذْ صَرَفْنَآ إِلَيْكَ نَفَرًۭا مِّنَ ٱلْجِنِّ يَسْتَمِعُونَ ٱلْقُرْءَانَ فَلَمَّا حَضَرُوهُ قَالُوٓا۟ أَنصِتُوا۟ ۖ فَلَمَّا قُضِىَ وَلَّوْا۟ إِلَىٰ قَوْمِهِم مُّنذِرِينَ
 
-**46:30** Piyambakipun sami ngendika, “Dhuh golongan kita, kita sampun mireng Kitab, ingkang dipunmedhunaken sasampunipun Musa, ingkang negesaken punapa ingkang dhateng sadherengipun. Punika nuntun dhumateng kaleresan, lan dhumateng margi ingkang lurus.
+**46:30** Piyambakipun sami ngendika, "Dhuh golongan kita, kita sampun mireng Kitab, ingkang dipunmedhunaken sasampunipun Musa, ingkang negesaken punapa ingkang dhateng sadherengipun. Punika nuntun dhumateng kaleresan, lan dhumateng margi ingkang lurus.
 
 قَالُوا۟ يَٰقَوْمَنَآ إِنَّا سَمِعْنَا كِتَٰبًا أُنزِلَ مِنۢ بَعْدِ مُوسَىٰ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ يَهْدِىٓ إِلَى ٱلْحَقِّ وَإِلَىٰ طَرِيقٍۢ مُّسْتَقِيمٍۢ
 
-**46:31** Dhuh golongan kita! Mangsuli tiyang ingkang ngundang dhumateng Gusti Allah, lan pitadosa dhumateng Panjenenganipun; lan Panjenenganipun badhe ngapunten dosa-dosa panjenengan, lan badhe ngluwaraken panjenengan saking paukuman ingkang nglarani.”
+**46:31** Dhuh golongan kita! Mangsuli tiyang ingkang ngundang dhumateng Gusti Allah, lan pitadosa dhumateng Panjenenganipun; lan Panjenenganipun badhe ngapunten dosa-dosa panjenengan, lan badhe ngluwaraken panjenengan saking paukuman ingkang nglarani."
 
 يَٰقَوْمَنَآ أَجِيبُوا۟ دَاعِىَ ٱللَّهِ وَءَامِنُوا۟ بِهِۦ يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُجِرْكُم مِّنْ عَذَابٍ أَلِيمٍۢ
 
@@ -18878,7 +18878,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَمْ يَعْىَ بِخَلْقِهِنَّ بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ ۚ بَلَىٰٓ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**46:34** Ing dinten nalika tiyang-tiyang ingkang boten pitados dipuntedahaken dhumateng Geni: “Punapa punika boten nyata?” Piyambakipun badhe ngendika, “Inggih, saestu, demi Pangeran kita.” Panjenenganipun badhe ngendika, “Pramila raosna kasangsaran amargi panjenengan sampun boten pitados.”
+**46:34** Ing dinten nalika tiyang-tiyang ingkang boten pitados dipuntedahaken dhumateng Geni: "Punapa punika boten nyata?" Piyambakipun badhe ngendika, "Inggih, saestu, demi Pangeran kita." Panjenenganipun badhe ngendika, "Pramila raosna kasangsaran amargi panjenengan sampun boten pitados."
 
 وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَلَيْسَ هَٰذَا بِٱلْحَقِّ ۖ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
 
@@ -18958,7 +18958,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ ۖ فِيهَآ أَنْهَٰرٌۭ مِّن مَّآءٍ غَيْرِ ءَاسِنٍۢ وَأَنْهَٰرٌۭ مِّن لَّبَنٍۢ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَٰرٌۭ مِّنْ خَمْرٍۢ لَّذَّةٍۢ لِّلشَّٰرِبِينَ وَأَنْهَٰرٌۭ مِّنْ عَسَلٍۢ مُّصَفًّۭى ۖ وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌۭ مِّن رَّبِّهِمْ ۖ كَمَنْ هُوَ خَٰلِدٌۭ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًۭا فَقَطَّعَ أَمْعَآءَهُمْ
 
-**47:16** Ing antawisipun piyambakipun wonten tiyang-tiyang ingkang mirengaken panjenengan, nanging nalika piyambakipun nilar panjenengan, piyambakipun sami ngendika dhumateng tiyang-tiyang ingkang dipunparingi kawruh, “Punapa ingkang piyambakipun ngendikakaken saweg punika?” Punika tiyang-tiyang ingkang manahipun Gusti Allah sampun segel, lan piyambakipun ngetutaken kekajenganipun piyambak-piyambak.
+**47:16** Ing antawisipun piyambakipun wonten tiyang-tiyang ingkang mirengaken panjenengan, nanging nalika piyambakipun nilar panjenengan, piyambakipun sami ngendika dhumateng tiyang-tiyang ingkang dipunparingi kawruh, "Punapa ingkang piyambakipun ngendikakaken saweg punika?" Punika tiyang-tiyang ingkang manahipun Gusti Allah sampun segel, lan piyambakipun ngetutaken kekajenganipun piyambak-piyambak.
 
 وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ حَتَّىٰٓ إِذَا خَرَجُوا۟ مِنْ عِندِكَ قَالُوا۟ لِلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مَاذَا قَالَ ءَانِفًا ۚ أُو۟لَٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ
 
@@ -18974,7 +18974,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَٱعْلَمْ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱللَّهُ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ ۗ وَٱللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَىٰكُمْ
 
-**47:20** Tiyang-tiyang ingkang pitados sami ngendika, “Menawi kemawon satunggal bab dipunmedhunaken.” Nanging nalika bab ingkang mesthi dipunmedhunaken, lan perang dipunsebut ing salebetipun, panjenengan ningali tiyang-tiyang ingkang ing manahipun wonten sakit sami ningali panjenengan kanthi paningalipun tiyang ingkang semaput nalika pejah. Pramila cilaka piyambakipun!
+**47:20** Tiyang-tiyang ingkang pitados sami ngendika, "Menawi kemawon satunggal bab dipunmedhunaken." Nanging nalika bab ingkang mesthi dipunmedhunaken, lan perang dipunsebut ing salebetipun, panjenengan ningali tiyang-tiyang ingkang ing manahipun wonten sakit sami ningali panjenengan kanthi paningalipun tiyang ingkang semaput nalika pejah. Pramila cilaka piyambakipun!
 
 وَيَقُولُ ٱلَّذِينَ ءَامَنُوا۟ لَوْلَا نُزِّلَتْ سُورَةٌۭ ۖ فَإِذَآ أُنزِلَتْ سُورَةٌۭ مُّحْكَمَةٌۭ وَذُكِرَ فِيهَا ٱلْقِتَالُ ۙ رَأَيْتَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِىِّ عَلَيْهِ مِنَ ٱلْمَوْتِ ۖ فَأَوْلَىٰ لَهُمْ
 
@@ -18998,7 +18998,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِنَّ ٱلَّذِينَ ٱرْتَدُّوا۟ عَلَىٰٓ أَدْبَٰرِهِم مِّنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْهُدَى ۙ ٱلشَّيْطَٰنُ سَوَّلَ لَهُمْ وَأَمْلَىٰ لَهُمْ
 
-**47:26** Punika amargi piyambakipun sami ngendika dhumateng tiyang-tiyang ingkang sengit dhumateng punapa ingkang Gusti Allah sampun wahyukaken, “Kita badhe manut dhumateng panjenengan ing sawetawis prakawis.” Nanging Gusti Allah mangertos pamikiran wadi piyambakipun.
+**47:26** Punika amargi piyambakipun sami ngendika dhumateng tiyang-tiyang ingkang sengit dhumateng punapa ingkang Gusti Allah sampun wahyukaken, "Kita badhe manut dhumateng panjenengan ing sawetawis prakawis." Nanging Gusti Allah mangertos pamikiran wadi piyambakipun.
 
 ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لِلَّذِينَ كَرِهُوا۟ مَا نَزَّلَ ٱللَّهُ سَنُطِيعُكُمْ فِى بَعْضِ ٱلْأَمْرِ ۖ وَٱللَّهُ يَعْلَمُ إِسْرَارَهُمْ
 
@@ -19102,7 +19102,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ ۖ وَمَنْ أَوْفَىٰ بِمَا عَٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًۭا
 
-**48:11** Tiyang Arab Pedalaman ingkang kantun badhe ngendika dhumateng panjenengan, “Bandha lan kulawarga kita sampun ndadosaken kita sibuk, pramila nyuwunaken pangapunten kangge kita.” Piyambakipun sami ngendika kanthi ilatipun punapa ingkang boten wonten ing manahipun. Ngendikana, “Sinten ingkang saged mbiyantu panjenengan punapa-punapa nglawan Gusti Allah, menawi Panjenenganipun ngajengaken kapitunan kangge panjenengan, utawi ngajengaken kauntungan kangge panjenengan?” Sanyatanipun, Gusti Allah mangertos punapa ingkang panjenengan tindakaken.
+**48:11** Tiyang Arab Pedalaman ingkang kantun badhe ngendika dhumateng panjenengan, "Bandha lan kulawarga kita sampun ndadosaken kita sibuk, pramila nyuwunaken pangapunten kangge kita." Piyambakipun sami ngendika kanthi ilatipun punapa ingkang boten wonten ing manahipun. Ngendikana, "Sinten ingkang saged mbiyantu panjenengan punapa-punapa nglawan Gusti Allah, menawi Panjenenganipun ngajengaken kapitunan kangge panjenengan, utawi ngajengaken kauntungan kangge panjenengan?" Sanyatanipun, Gusti Allah mangertos punapa ingkang panjenengan tindakaken.
 
 سَيَقُولُ لَكَ ٱلْمُخَلَّفُونَ مِنَ ٱلْأَعْرَابِ شَغَلَتْنَآ أَمْوَٰلُنَا وَأَهْلُونَا فَٱسْتَغْفِرْ لَنَا ۚ يَقُولُونَ بِأَلْسِنَتِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ ۚ قُلْ فَمَن يَمْلِكُ لَكُم مِّنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًۢا ۚ بَلْ كَانَ ٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرًۢا
 
@@ -19118,11 +19118,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا
 
-**48:15** Tiyang-tiyang ingkang kantun badhe ngendika nalika panjenengan bidhal kangge ngempalaken hasil, “Sumangga kita ngetutaken panjenengan.” Piyambakipun kepengin ngowahi Pangandika-nipun Gusti Allah. Ngendikana, “Panjenengan boten badhe ngetutaken kita; Gusti Allah sampun ngendika mekaten sadherengipun.” Salajengipun piyambakipun badhe ngendika, “Nanging panjenengan meri dhumateng kita.” Sanyatanipun, piyambakipun namung mangertos sakedhik.
+**48:15** Tiyang-tiyang ingkang kantun badhe ngendika nalika panjenengan bidhal kangge ngempalaken hasil, "Sumangga kita ngetutaken panjenengan." Piyambakipun kepengin ngowahi Pangandika-nipun Gusti Allah. Ngendikana, "Panjenengan boten badhe ngetutaken kita; Gusti Allah sampun ngendika mekaten sadherengipun." Salajengipun piyambakipun badhe ngendika, "Nanging panjenengan meri dhumateng kita." Sanyatanipun, piyambakipun namung mangertos sakedhik.
 
 سَيَقُولُ ٱلْمُخَلَّفُونَ إِذَا ٱنطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ ۖ يُرِيدُونَ أَن يُبَدِّلُوا۟ كَلَٰمَ ٱللَّهِ ۚ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ ٱللَّهُ مِن قَبْلُ ۖ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا ۚ بَلْ كَانُوا۟ لَا يَفْقَهُونَ إِلَّا قَلِيلًۭا
 
-**48:16** Ngendikana dhumateng tiyang Arab Pedalaman ingkang kantun, “Panjenengan badhe dipunundang nglawan golongan ingkang gadhah kekuwatan ageng; panjenengan badhe merangi piyambakipun, kajawi piyambakipun pasrah. Menawi panjenengan manut, Gusti Allah badhe maringi panjenengan ganjaran ingkang sae. Nanging menawi panjenengan sami nyimpang, kados panjenengan nyimpang sadherengipun, Panjenenganipun badhe ngukum panjenengan kanthi paukuman ingkang nglarani.”
+**48:16** Ngendikana dhumateng tiyang Arab Pedalaman ingkang kantun, "Panjenengan badhe dipunundang nglawan golongan ingkang gadhah kekuwatan ageng; panjenengan badhe merangi piyambakipun, kajawi piyambakipun pasrah. Menawi panjenengan manut, Gusti Allah badhe maringi panjenengan ganjaran ingkang sae. Nanging menawi panjenengan sami nyimpang, kados panjenengan nyimpang sadherengipun, Panjenenganipun badhe ngukum panjenengan kanthi paukuman ingkang nglarani."
 
 قُل لِّلْمُخَلَّفِينَ مِنَ ٱلْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُو۟لِى بَأْسٍۢ شَدِيدٍۢ تُقَٰتِلُونَهُمْ أَوْ يُسْلِمُونَ ۖ فَإِن تُطِيعُوا۟ يُؤْتِكُمُ ٱللَّهُ أَجْرًا حَسَنًۭا ۖ وَإِن تَتَوَلَّوْا۟ كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًۭا
 
@@ -19166,7 +19166,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِذْ جَعَلَ ٱلَّذِينَ كَفَرُوا۟ فِى قُلُوبِهِمُ ٱلْحَمِيَّةَ حَمِيَّةَ ٱلْجَٰهِلِيَّةِ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ ٱلتَّقْوَىٰ وَكَانُوٓا۟ أَحَقَّ بِهَا وَأَهْلَهَا ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًۭا
 
-**48:27** Gusti Allah sampun netepi wahyu Utusanipun kanthi leres: “Panjenengan badhe mlebet Masjid Suci, menawi Gusti Allah kersa, kanthi aman, sirah dipuncukur, utawi rambut dipunpotong cendhak, boten ajrih. Panjenenganipun mangertos punapa ingkang panjenengan boten mangertos, lan sampun maringi kejawi punika kamenangan ingkang caket.”
+**48:27** Gusti Allah sampun netepi wahyu Utusanipun kanthi leres: "Panjenengan badhe mlebet Masjid Suci, menawi Gusti Allah kersa, kanthi aman, sirah dipuncukur, utawi rambut dipunpotong cendhak, boten ajrih. Panjenenganipun mangertos punapa ingkang panjenengan boten mangertos, lan sampun maringi kejawi punika kamenangan ingkang caket."
 
 لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ ۖ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ ۖ فَعَلِمَ مَا لَمْ تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًۭا قَرِيبًا
 
@@ -19242,7 +19242,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَٰكُم مِّن ذَكَرٍۢ وَأُنثَىٰ وَجَعَلْنَٰكُمْ شُعُوبًۭا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۭ
 
-**49:14** Tiyang Arab Pedalaman sami ngendika, “Kita sampun pitados.” Ngendikana, “Panjenengan dereng pitados; nanging ngendikana, ‘Kita sampun pasrah,’ amargi kapitadosan dereng mlebet dhumateng manah panjenengan. Nanging menawi panjenengan manut dhumateng Gusti Allah lan Utusanipun, Panjenenganipun boten badhe nyuda punapa kemawon saking tumindak panjenengan. Gusti Allah punika Mahangapunten lan Mahaasih.”
+**49:14** Tiyang Arab Pedalaman sami ngendika, "Kita sampun pitados." Ngendikana, "Panjenengan dereng pitados; nanging ngendikana, 'Kita sampun pasrah,' amargi kapitadosan dereng mlebet dhumateng manah panjenengan. Nanging menawi panjenengan manut dhumateng Gusti Allah lan Utusanipun, Panjenenganipun boten badhe nyuda punapa kemawon saking tumindak panjenengan. Gusti Allah punika Mahangapunten lan Mahaasih."
 
 ۞ قَالَتِ ٱلْأَعْرَابُ ءَامَنَّا ۖ قُل لَّمْ تُؤْمِنُوا۟ وَلَٰكِن قُولُوٓا۟ أَسْلَمْنَا وَلَمَّا يَدْخُلِ ٱلْإِيمَٰنُ فِى قُلُوبِكُمْ ۖ وَإِن تُطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ لَا يَلِتْكُم مِّنْ أَعْمَٰلِكُمْ شَيْـًٔا ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ
 
@@ -19250,11 +19250,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ لَمْ يَرْتَابُوا۟ وَجَٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ ۚ أُو۟لَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ
 
-**49:16** Ngendikana, “Punapa panjenengan badhe mulang Gusti Allah bab agami panjenengan, nalika Gusti Allah mangertos sadaya ingkang wonten ing langit-langit lan ing bumi, lan Gusti Allah mangertos sadaya?”
+**49:16** Ngendikana, "Punapa panjenengan badhe mulang Gusti Allah bab agami panjenengan, nalika Gusti Allah mangertos sadaya ingkang wonten ing langit-langit lan ing bumi, lan Gusti Allah mangertos sadaya?"
 
 قُلْ أَتُعَلِّمُونَ ٱللَّهَ بِدِينِكُمْ وَٱللَّهُ يَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ
 
-**49:17** Piyambakipun nganggep punika kanugrahan dhumateng panjenengan bilih piyambakipun sampun pasrah. Ngendikana, “Sampun nganggep pasrah panjenengan kanugrahan dhumateng kula; Gusti Allah ingkang sampun maringi kanugrahan dhumateng panjenengan kanthi nuntun panjenengan dhumateng kapitadosan, menawi panjenengan tulus.”
+**49:17** Piyambakipun nganggep punika kanugrahan dhumateng panjenengan bilih piyambakipun sampun pasrah. Ngendikana, "Sampun nganggep pasrah panjenengan kanugrahan dhumateng kula; Gusti Allah ingkang sampun maringi kanugrahan dhumateng panjenengan kanthi nuntun panjenengan dhumateng kapitadosan, menawi panjenengan tulus."
 
 يَمُنُّونَ عَلَيْكَ أَنْ أَسْلَمُوا۟ ۖ قُل لَّا تَمُنُّوا۟ عَلَىَّ إِسْلَٰمَكُم ۖ بَلِ ٱللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَىٰكُمْ لِلْإِيمَٰنِ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -19278,11 +19278,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 قٓ ۚ وَٱلْقُرْءَانِ ٱلْمَجِيدِ
 
-**50:2** Piyambakipun sami kagum bilih pepenget sampun dhateng dhumateng piyambakipun saking antawisipun piyambakipun. Tiyang-tiyang ingkang boten pitados sami ngendika, “Punika perkawis ingkang aneh.
+**50:2** Piyambakipun sami kagum bilih pepenget sampun dhateng dhumateng piyambakipun saking antawisipun piyambakipun. Tiyang-tiyang ingkang boten pitados sami ngendika, "Punika perkawis ingkang aneh.
 
 بَلْ عَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌۭ مِّنْهُمْ فَقَالَ ٱلْكَٰفِرُونَ هَٰذَا شَىْءٌ عَجِيبٌ
 
-**50:3** Nalika kita sampun pejah lan dados awu? Punika wangsul ingkang tebih sanget.”
+**50:3** Nalika kita sampun pejah lan dados awu? Punika wangsul ingkang tebih sanget."
 
 أَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا ۖ ذَٰلِكَ رَجْعٌۢ بَعِيدٌۭ
 
@@ -19346,11 +19346,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌۭ
 
-**50:19** Panglingipun pejah sampun dhateng kanthi leres: “Punika punapa ingkang panjenengan cobi siningkiri.”
+**50:19** Panglingipun pejah sampun dhateng kanthi leres: "Punika punapa ingkang panjenengan cobi siningkiri."
 
 وَجَآءَتْ سَكْرَةُ ٱلْمَوْتِ بِٱلْحَقِّ ۖ ذَٰلِكَ مَا كُنتَ مِنْهُ تَحِيدُ
 
-**50:20** Lan Trompet dipunsebuli: “Punika Dinten ingkang Dipunprajanji.”
+**50:20** Lan Trompet dipunsebuli: "Punika Dinten ingkang Dipunprajanji."
 
 وَنُفِخَ فِى ٱلصُّورِ ۚ ذَٰلِكَ يَوْمُ ٱلْوَعِيدِ
 
@@ -19358,15 +19358,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَجَآءَتْ كُلُّ نَفْسٍۢ مَّعَهَا سَآئِقٌۭ وَشَهِيدٌۭ
 
-**50:22** “Panjenengan boten nggatosaken punika, pramila Ingsun ngangkat kudhung panjenengan saking panjenengan, lan paningal panjenengan ing dinten punika landhep.”
+**50:22** "Panjenengan boten nggatosaken punika, pramila Ingsun ngangkat kudhung panjenengan saking panjenengan, lan paningal panjenengan ing dinten punika landhep."
 
 لَّقَدْ كُنتَ فِى غَفْلَةٍۢ مِّنْ هَٰذَا فَكَشَفْنَا عَنكَ غِطَآءَكَ فَبَصَرُكَ ٱلْيَوْمَ حَدِيدٌۭ
 
-**50:23** Lan pangiringipun badhe ngendika, “Punika punapa ingkang kula gadhah siyaga sesarengan kaliyan kula.”
+**50:23** Lan pangiringipun badhe ngendika, "Punika punapa ingkang kula gadhah siyaga sesarengan kaliyan kula."
 
 وَقَالَ قَرِينُهُۥ هَٰذَا مَا لَدَىَّ عَتِيدٌ
 
-**50:24** “Uncalna dhumateng Neraka saben tiyang ingkang boten pitados ingkang kenceng.
+**50:24** "Uncalna dhumateng Neraka saben tiyang ingkang boten pitados ingkang kenceng.
 
 أَلْقِيَا فِى جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍۢ
 
@@ -19374,23 +19374,23 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 مَّنَّاعٍۢ لِّلْخَيْرِ مُعْتَدٍۢ مُّرِيبٍ
 
-**50:26** Ingkang damel gusti sanes sesarengan kaliyan Gusti Allah; uncalna piyambakipun dhumateng kasangsaran ingkang sanget.”
+**50:26** Ingkang damel gusti sanes sesarengan kaliyan Gusti Allah; uncalna piyambakipun dhumateng kasangsaran ingkang sanget."
 
 ٱلَّذِى جَعَلَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَأَلْقِيَاهُ فِى ٱلْعَذَابِ ٱلشَّدِيدِ
 
-**50:27** Pangiringipun badhe ngendika, “Dhuh Pangeran kita, kula boten ndadosaken piyambakipun mbangkang, nanging piyambakipun tebih kesasar.”
+**50:27** Pangiringipun badhe ngendika, "Dhuh Pangeran kita, kula boten ndadosaken piyambakipun mbangkang, nanging piyambakipun tebih kesasar."
 
 ۞ قَالَ قَرِينُهُۥ رَبَّنَا مَآ أَطْغَيْتُهُۥ وَلَٰكِن كَانَ فِى ضَلَٰلٍۭ بَعِيدٍۢ
 
-**50:28** Panjenenganipun badhe ngendika, “Sampun padudon ing ngarsanipun Ingsun — Ingsun sampun ngengetaken panjenengan sadherengipun.
+**50:28** Panjenenganipun badhe ngendika, "Sampun padudon ing ngarsanipun Ingsun — Ingsun sampun ngengetaken panjenengan sadherengipun.
 
 قَالَ لَا تَخْتَصِمُوا۟ لَدَىَّ وَقَدْ قَدَّمْتُ إِلَيْكُم بِٱلْوَعِيدِ
 
-**50:29** Dhawuh saking Ingsun boten badhe dipunowahi, lan Ingsun boten awon dhumateng abdi-abdi.”
+**50:29** Dhawuh saking Ingsun boten badhe dipunowahi, lan Ingsun boten awon dhumateng abdi-abdi."
 
 مَا يُبَدَّلُ ٱلْقَوْلُ لَدَىَّ وَمَآ أَنَا۠ بِظَلَّٰمٍۢ لِّلْعَبِيدِ
 
-**50:30** Ing dinten nalika Ingsun badhe ngendika dhumateng Neraka, “Punapa panjenengan sampun kebak?” Lan punika badhe ngendika, “Punapa wonten malih?”
+**50:30** Ing dinten nalika Ingsun badhe ngendika dhumateng Neraka, "Punapa panjenengan sampun kebak?" Lan punika badhe ngendika, "Punapa wonten malih?"
 
 يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍۢ
 
@@ -19398,7 +19398,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَأُزْلِفَتِ ٱلْجَنَّةُ لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ
 
-**50:32** “Punika punapa ingkang panjenengan dipunprajanji — kangge saben tiyang ingkang tobat kanthi ngati-ati.
+**50:32** "Punika punapa ingkang panjenengan dipunprajanji — kangge saben tiyang ingkang tobat kanthi ngati-ati.
 
 هَٰذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٍۢ
 
@@ -19406,7 +19406,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 مَّنْ خَشِىَ ٱلرَّحْمَٰنَ بِٱلْغَيْبِ وَجَآءَ بِقَلْبٍۢ مُّنِيبٍ
 
-**50:34** Mlebeta dhumateng punika kanthi tentrem. Punika Dinten Kalanggengan.”
+**50:34** Mlebeta dhumateng punika kanthi tentrem. Punika Dinten Kalanggengan."
 
 ٱدْخُلُوهَا بِسَلَٰمٍۢ ۖ ذَٰلِكَ يَوْمُ ٱلْخُلُودِ
 
@@ -19510,7 +19510,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ٱلَّذِينَ هُمْ فِى غَمْرَةٍۢ سَاهُونَ
 
-**51:12** Piyambakipun sami taken, “Kapan Dinten Pengadilan?”
+**51:12** Piyambakipun sami taken, "Kapan Dinten Pengadilan?"
 
 يَسْـَٔلُونَ أَيَّانَ يَوْمُ ٱلدِّينِ
 
@@ -19518,7 +19518,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 يَوْمَ هُمْ عَلَى ٱلنَّارِ يُفْتَنُونَ
 
-**51:14** “Raosna coban panjenengan. Punika punapa ingkang panjenengan rumiyin tantangan.”
+**51:14** "Raosna coban panjenengan. Punika punapa ingkang panjenengan rumiyin tantangan."
 
 ذُوقُوا۟ فِتْنَتَكُمْ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تَسْتَعْجِلُونَ
 
@@ -19562,7 +19562,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 هَلْ أَتَىٰكَ حَدِيثُ ضَيْفِ إِبْرَٰهِيمَ ٱلْمُكْرَمِينَ
 
-**51:25** Nalika piyambakipun mlebet dhumateng piyambakipun, piyambakipun sami ngendika, “Tentrem.” Piyambakipun ngendika, “Tentrem, tiyang-tiyang manca.”
+**51:25** Nalika piyambakipun mlebet dhumateng piyambakipun, piyambakipun sami ngendika, "Tentrem." Piyambakipun ngendika, "Tentrem, tiyang-tiyang manca."
 
 إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَٰمًۭا ۖ قَالَ سَلَٰمٌۭ قَوْمٌۭ مُّنكَرُونَ
 
@@ -19570,35 +19570,35 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَرَاغَ إِلَىٰٓ أَهْلِهِۦ فَجَآءَ بِعِجْلٍۢ سَمِينٍۢ
 
-**51:27** Piyambakipun mapanaken punika ing ngajengipun piyambakipun. Piyambakipun ngendika, “Punapa panjenengan boten badhe nedha?”
+**51:27** Piyambakipun mapanaken punika ing ngajengipun piyambakipun. Piyambakipun ngendika, "Punapa panjenengan boten badhe nedha?"
 
 فَقَرَّبَهُۥٓ إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ
 
-**51:28** Lan piyambakipun ndhelikaken ajrih dhumateng piyambakipun. Piyambakipun sami ngendika, “Sampun ajrih,” lan piyambakipun paring pawartos sae dhumateng piyambakipun bab putra ingkang gadhah kawruh.
+**51:28** Lan piyambakipun ndhelikaken ajrih dhumateng piyambakipun. Piyambakipun sami ngendika, "Sampun ajrih," lan piyambakipun paring pawartos sae dhumateng piyambakipun bab putra ingkang gadhah kawruh.
 
 فَأَوْجَسَ مِنْهُمْ خِيفَةًۭ ۖ قَالُوا۟ لَا تَخَفْ ۖ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍۢ
 
-**51:29** Garwanipun maju kanthi nangis. Piyambakipun nggepok praupanipun, lan ngendika, “Wanita sepuh ingkang gabug?”
+**51:29** Garwanipun maju kanthi nangis. Piyambakipun nggepok praupanipun, lan ngendika, "Wanita sepuh ingkang gabug?"
 
 فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍۢ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌۭ
 
-**51:30** Piyambakipun sami ngendika, “Mekaten ngendika Pangeran panjenengan. Panjenenganipun punika Kang Mahawicaksana, Kang Mahamangertos.”
+**51:30** Piyambakipun sami ngendika, "Mekaten ngendika Pangeran panjenengan. Panjenenganipun punika Kang Mahawicaksana, Kang Mahamangertos."
 
 قَالُوا۟ كَذَٰلِكِ قَالَ رَبُّكِ ۖ إِنَّهُۥ هُوَ ٱلْحَكِيمُ ٱلْعَلِيمُ
 
-**51:31** Piyambakipun ngendika, “Punapa urusan panjenengan, dhuh utusan-utusan?”
+**51:31** Piyambakipun ngendika, "Punapa urusan panjenengan, dhuh utusan-utusan?"
 
 ۞ قَالَ فَمَا خَطْبُكُمْ أَيُّهَا ٱلْمُرْسَلُونَ
 
-**51:32** Piyambakipun sami ngendika, “Kita dipunutus dhumateng golongan ingkang dosa.”
+**51:32** Piyambakipun sami ngendika, "Kita dipunutus dhumateng golongan ingkang dosa."
 
 قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍۢ مُّجْرِمِينَ
 
-**51:33** “Kangge nguncalaken dhumateng piyambakipun watu-watu saking lempung.”
+**51:33** "Kangge nguncalaken dhumateng piyambakipun watu-watu saking lempung."
 
 لِنُرْسِلَ عَلَيْهِمْ حِجَارَةًۭ مِّن طِينٍۢ
 
-**51:34** “Ingkang dipuntandhani dening Pangeran panjenengan kangge tiyang ingkang keladuk.”
+**51:34** "Ingkang dipuntandhani dening Pangeran panjenengan kangge tiyang ingkang keladuk."
 
 مُّسَوَّمَةً عِندَ رَبِّكَ لِلْمُسْرِفِينَ
 
@@ -19618,7 +19618,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَفِى مُوسَىٰٓ إِذْ أَرْسَلْنَٰهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَٰنٍۢ مُّبِينٍۢ
 
-**51:39** Nanging piyambakipun nyimpang sesarengan kaliyan panglima perangipun, lan ngendika, “Tukang sihir utawi tiyang edan.”
+**51:39** Nanging piyambakipun nyimpang sesarengan kaliyan panglima perangipun, lan ngendika, "Tukang sihir utawi tiyang edan."
 
 فَتَوَلَّىٰ بِرُكْنِهِۦ وَقَالَ سَٰحِرٌ أَوْ مَجْنُونٌۭ
 
@@ -19634,7 +19634,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 مَا تَذَرُ مِن شَىْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَٱلرَّمِيمِ
 
-**51:43** Lan ing Samud. Piyambakipun dipunngendikakaken, “Sami seneng-senenga sawetawis.”
+**51:43** Lan ing Samud. Piyambakipun dipunngendikakaken, "Sami seneng-senenga sawetawis."
 
 وَفِى ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا۟ حَتَّىٰ حِينٍۢ
 
@@ -19662,15 +19662,15 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَمِن كُلِّ شَىْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ
 
-**51:50** “Pramila sami mlajua dhumateng Gusti Allah. Kula dhumateng panjenengan saking Panjenenganipun pepenget ingkang cetha.”
+**51:50** "Pramila sami mlajua dhumateng Gusti Allah. Kula dhumateng panjenengan saking Panjenenganipun pepenget ingkang cetha."
 
 فَفِرُّوٓا۟ إِلَى ٱللَّهِ ۖ إِنِّى لَكُم مِّنْهُ نَذِيرٌۭ مُّبِينٌۭ
 
-**51:51** “Lan sampun mapanaken gusti sanes sesarengan kaliyan Gusti Allah. Kula dhumateng panjenengan saking Panjenenganipun pepenget ingkang cetha.”
+**51:51** "Lan sampun mapanaken gusti sanes sesarengan kaliyan Gusti Allah. Kula dhumateng panjenengan saking Panjenenganipun pepenget ingkang cetha."
 
 وَلَا تَجْعَلُوا۟ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ ۖ إِنِّى لَكُم مِّنْهُ نَذِيرٌۭ مُّبِينٌۭ
 
-**51:52** Mekaten ugi, boten wonten utusan ingkang dhateng dhumateng tiyang-tiyang sadherengipun piyambakipun, kajawi piyambakipun sami ngendika, “Tukang sihir utawi tiyang edan.”
+**51:52** Mekaten ugi, boten wonten utusan ingkang dhateng dhumateng tiyang-tiyang sadherengipun piyambakipun, kajawi piyambakipun sami ngendika, "Tukang sihir utawi tiyang edan."
 
 كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ إِلَّا قَالُوا۟ سَاحِرٌ أَوْ مَجْنُونٌ
 
@@ -19770,7 +19770,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا
 
-**52:14** “Punika Geni ingkang panjenengan rumiyin tolak.
+**52:14** "Punika Geni ingkang panjenengan rumiyin tolak.
 
 هَٰذِهِ ٱلنَّارُ ٱلَّتِى كُنتُم بِهَا تُكَذِّبُونَ
 
@@ -19778,7 +19778,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَفَسِحْرٌ هَٰذَآ أَمْ أَنتُمْ لَا تُبْصِرُونَ
 
-**52:16** Obonga ing salebetipun. Punapa panjenengan sabar, utawi boten sabar, punika sami kangge panjenengan. Panjenengan namung dipunbales kangge punapa ingkang panjenengan rumiyin tindakaken.”
+**52:16** Obonga ing salebetipun. Punapa panjenengan sabar, utawi boten sabar, punika sami kangge panjenengan. Panjenengan namung dipunbales kangge punapa ingkang panjenengan rumiyin tindakaken."
 
 ٱصْلَوْهَا فَٱصْبِرُوٓا۟ أَوْ لَا تَصْبِرُوا۟ سَوَآءٌ عَلَيْكُمْ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ
 
@@ -19818,7 +19818,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَسَآءَلُونَ
 
-**52:26** Piyambakipun badhe ngendika, “Sadherengipun punika, kita sami ajrih kangge kulawarga kita.
+**52:26** Piyambakipun badhe ngendika, "Sadherengipun punika, kita sami ajrih kangge kulawarga kita.
 
 قَالُوٓا۟ إِنَّا كُنَّا قَبْلُ فِىٓ أَهْلِنَا مُشْفِقِينَ
 
@@ -19826,7 +19826,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَمَنَّ ٱللَّهُ عَلَيْنَا وَوَقَىٰنَا عَذَابَ ٱلسَّمُومِ
 
-**52:28** Sadherengipun punika, kita rumiyin ndedonga dhumateng Panjenenganipun. Panjenenganipun punika Kang Sae, Kang Welas-asih.”
+**52:28** Sadherengipun punika, kita rumiyin ndedonga dhumateng Panjenenganipun. Panjenenganipun punika Kang Sae, Kang Welas-asih."
 
 إِنَّا كُنَّا مِن قَبْلُ نَدْعُوهُ ۖ إِنَّهُۥ هُوَ ٱلْبَرُّ ٱلرَّحِيمُ
 
@@ -19834,11 +19834,11 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَذَكِّرْ فَمَآ أَنتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍۢ وَلَا مَجْنُونٍ
 
-**52:30** Utawi punapa piyambakipun sami ngendika, “Penyair — kita ngentosi piyambakipun bencana wekdal”?
+**52:30** Utawi punapa piyambakipun sami ngendika, "Penyair — kita ngentosi piyambakipun bencana wekdal"?
 
 أَمْ يَقُولُونَ شَاعِرٌۭ نَّتَرَبَّصُ بِهِۦ رَيْبَ ٱلْمَنُونِ
 
-**52:31** Ngendikana, “Terusa ngentosi; kula badhe ngentosi sesarengan kaliyan panjenengan.”
+**52:31** Ngendikana, "Terusa ngentosi; kula badhe ngentosi sesarengan kaliyan panjenengan."
 
 قُلْ تَرَبَّصُوا۟ فَإِنِّى مَعَكُم مِّنَ ٱلْمُتَرَبِّصِينَ
 
@@ -19846,7 +19846,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَمْ تَأْمُرُهُمْ أَحْلَٰمُهُم بِهَٰذَآ ۚ أَمْ هُمْ قَوْمٌۭ طَاغُونَ
 
-**52:33** Utawi punapa piyambakipun sami ngendika, “Piyambakipun ingkang ngarang punika”? Langkung-langkung, piyambakipun boten pitados.
+**52:33** Utawi punapa piyambakipun sami ngendika, "Piyambakipun ingkang ngarang punika"? Langkung-langkung, piyambakipun boten pitados.
 
 أَمْ يَقُولُونَ تَقَوَّلَهُۥ ۚ بَل لَّا يُؤْمِنُونَ
 
@@ -19890,7 +19890,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَمْ لَهُمْ إِلَٰهٌ غَيْرُ ٱللَّهِ ۚ سُبْحَٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ
 
-**52:44** Sanajan piyambakipun ningali perangan langit ingkang dhawah, piyambakipun badhe ngendika, “Gumpalan mega.”
+**52:44** Sanajan piyambakipun ningali perangan langit ingkang dhawah, piyambakipun badhe ngendika, "Gumpalan mega."
 
 وَإِن يَرَوْا۟ كِسْفًۭا مِّنَ ٱلسَّمَآءِ سَاقِطًۭا يَقُولُوا۟ سَحَابٌۭ مَّرْكُومٌۭ
 
