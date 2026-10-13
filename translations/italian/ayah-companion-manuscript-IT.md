@@ -2215,7 +2215,7 @@ Una traduzione contemporanea del Corano in italiano, edizione del manoscritto in
 
 إِنَّمَا ٱلتَّوْبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعْمَلُونَ ٱلسُّوٓءَ بِجَهَٰلَةٍۢ ثُمَّ يَتُوبُونَ مِن قَرِيبٍۢ فَأُو۟لَٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيْهِمْ ۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًۭا
 
-**4:18** Ma il pentimento non è disponibile per quelli che commettono i mali, finché, quando la morte si avvicina a uno di loro, dice: "Ora mi pento", né per quelli che muoiono da miscredenti. Questi — abbiamo preparato per loro un tormento doloroso.
+**4:18** Ma il pentimento non è disponibile per quelli che commettono i mali, finché, quando la morte si avvicina a uno di loro, dice: «Ora mi pento», né per quelli che muoiono da miscredenti. Questi — abbiamo preparato per loro un tormento doloroso.
 
 وَلَيْسَتِ ٱلتَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ حَتَّىٰٓ إِذَا حَضَرَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ إِنِّى تُبْتُ ٱلْـَٰٔنَ وَلَا ٱلَّذِينَ يَمُوتُونَ وَهُمْ كُفَّارٌ ۚ أُو۟لَٰٓئِكَ أَعْتَدْنَا لَهُمْ عَذَابًا أَلِيمًۭا
 
@@ -2327,7 +2327,7 @@ Una traduzione contemporanea del Corano in italiano, edizione del manoscritto in
 
 وَٱللَّهُ أَعْلَمُ بِأَعْدَآئِكُمْ ۚ وَكَفَىٰ بِٱللَّهِ وَلِيًّۭا وَكَفَىٰ بِٱللَّهِ نَصِيرًۭا
 
-**4:46** Tra gli ebrei ci sono alcuni che tolgono le parole dal loro contesto, e dicono: "Abbiamo udito e disobbediamo", e "Ascolta senza ascoltare", e "Osservaci", torcendo con le loro lingue e diffamando la religione. Se avessero detto: "Abbiamo udito e obbediamo", e "Ascolta", e "Dacci la tua attenzione", sarebbe stato meglio per loro, e più retto. Ma Dio li ha maledetti per la loro miscredenza; non credono se non poco.
+**4:46** Tra gli ebrei ci sono alcuni che tolgono le parole dal loro contesto, e dicono: «Abbiamo udito e disobbediamo», e «Ascolta senza ascoltare», e «Osservaci», torcendo con le loro lingue e diffamando la religione. Se avessero detto: «Abbiamo udito e obbediamo», e «Ascolta», e «Dacci la tua attenzione», sarebbe stato meglio per loro, e più retto. Ma Dio li ha maledetti per la loro miscredenza; non credono se non poco.
 
 مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ مُسْمَعٍۢ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًۭا فِى ٱلدِّينِ ۚ وَلَوْ أَنَّهُمْ قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًۭا لَّهُمْ وَأَقْوَمَ وَلَٰكِن لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًۭا
 
@@ -2347,7 +2347,7 @@ Una traduzione contemporanea del Corano in italiano, edizione del manoscritto in
 
 ٱنظُرْ كَيْفَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ ۖ وَكَفَىٰ بِهِۦٓ إِثْمًۭا مُّبِينًا
 
-**4:51** Non hai considerato quelli a cui è stata data una parte del Libro? Credono nella superstizione e nei poteri maligni, e dicono di quelli che non credono: "Questi sono meglio guidati sulla via dei credenti".
+**4:51** Non hai considerato quelli a cui è stata data una parte del Libro? Credono nella superstizione e nei poteri maligni, e dicono di quelli che non credono: «Questi sono meglio guidati sulla via dei credenti».
 
 أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًۭا مِّنَ ٱلْكِتَٰبِ يُؤْمِنُونَ بِٱلْجِبْتِ وَٱلطَّٰغُوتِ وَيَقُولُونَ لِلَّذِينَ كَفَرُوا۟ هَٰٓؤُلَآءِ أَهْدَىٰ مِنَ ٱلَّذِينَ ءَامَنُوا۟ سَبِيلًا
 
@@ -2387,11 +2387,11 @@ Una traduzione contemporanea del Corano in italiano, edizione del manoscritto in
 
 أَلَمْ تَرَ إِلَى ٱلَّذِينَ يَزْعُمُونَ أَنَّهُمْ ءَامَنُوا۟ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ يُرِيدُونَ أَن يَتَحَاكَمُوٓا۟ إِلَى ٱلطَّٰغُوتِ وَقَدْ أُمِرُوٓا۟ أَن يَكْفُرُوا۟ بِهِۦ وَيُرِيدُ ٱلشَّيْطَٰنُ أَن يُضِلَّهُمْ ضَلَٰلًۢا بَعِيدًۭا
 
-**4:61** E quando viene detto loro: "Venite a ciò che Dio ha rivelato, e al Messaggero", vedi gli ipocriti che ti evitano completamente.
+**4:61** E quando viene detto loro: «Venite a ciò che Dio ha rivelato, e al Messaggero», vedi gli ipocriti che ti evitano completamente.
 
 وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ رَأَيْتَ ٱلْمُنَٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودًۭا
 
-**4:62** Come mai quando un disastro li colpisce a causa di ciò che le loro mani hanno preparato, e poi vengono da te giurando per Dio: "Intendevamo solo buona volontà e riconciliazione"?
+**4:62** Come mai quando un disastro li colpisce a causa di ciò che le loro mani hanno preparato, e poi vengono da te giurando per Dio: «Intendevamo solo buona volontà e riconciliazione»?
 
 فَكَيْفَ إِذَآ أَصَٰبَتْهُم مُّصِيبَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ ثُمَّ جَآءُوكَ يَحْلِفُونَ بِٱللَّهِ إِنْ أَرَدْنَآ إِلَّآ إِحْسَٰنًۭا وَتَوْفِيقًا
 
@@ -2407,7 +2407,7 @@ Una traduzione contemporanea del Corano in italiano, edizione del manoscritto in
 
 فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا۟ فِىٓ أَنفُسِهِمْ حَرَجًۭا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا۟ تَسْلِيمًۭا
 
-**4:66** Se avessimo decretato per loro: "Uccidetevi", o "Lasciate le vostre case", non lo avrebbero fatto, eccetto pochi di loro. Ma se avessero fatto ciò che gli era stato istruito di fare, sarebbe stato meglio per loro, e una conferma più solida.
+**4:66** Se avessimo decretato per loro: «Uccidetevi», o «Lasciate le vostre case», non lo avrebbero fatto, eccetto pochi di loro. Ma se avessero fatto ciò che gli era stato istruito di fare, sarebbe stato meglio per loro, e una conferma più solida.
 
 وَلَوْ أَنَّا كَتَبْنَا عَلَيْهِمْ أَنِ ٱقْتُلُوٓا۟ أَنفُسَكُمْ أَوِ ٱخْرُجُوا۟ مِن دِيَٰرِكُم مَّا فَعَلُوهُ إِلَّا قَلِيلٌۭ مِّنْهُمْ ۖ وَلَوْ أَنَّهُمْ فَعَلُوا۟ مَا يُوعَظُونَ بِهِۦ لَكَانَ خَيْرًۭا لَّهُمْ وَأَشَدَّ تَثْبِيتًۭا
 
@@ -2431,11 +2431,11 @@ Una traduzione contemporanea del Corano in italiano, edizione del manoscritto in
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ خُذُوا۟ حِذْرَكُمْ فَٱنفِرُوا۟ ثُبَاتٍ أَوِ ٱنفِرُوا۟ جَمِيعًۭا
 
-**4:72** Tra voi c'è chi resta indietro. Poi, quando una calamità vi colpisce, dice: "Dio mi ha favorito, che non sono stato martirizzato con loro".
+**4:72** Tra voi c'è chi resta indietro. Poi, quando una calamità vi colpisce, dice: «Dio mi ha favorito, che non sono stato martirizzato con loro».
 
 وَإِنَّ مِنكُمْ لَمَن لَّيُبَطِّئَنَّ فَإِنْ أَصَٰبَتْكُم مُّصِيبَةٌۭ قَالَ قَدْ أَنْعَمَ ٱللَّهُ عَلَىَّ إِذْ لَمْ أَكُن مَّعَهُمْ شَهِيدًۭا
 
-**4:73** Ma quando qualche favore da Dio giunge a voi, dice — come se non esistesse alcun affetto tra voi e lui — "Se solo fossi stato con loro, avrei ottenuto una grande vittoria".
+**4:73** Ma quando qualche favore da Dio giunge a voi, dice — come se non esistesse alcun affetto tra voi e lui — «Se solo fossi stato con loro, avrei ottenuto una grande vittoria».
 
 وَلَئِنْ أَصَٰبَكُمْ فَضْلٌۭ مِّنَ ٱللَّهِ لَيَقُولَنَّ كَأَن لَّمْ تَكُنۢ بَيْنَكُمْ وَبَيْنَهُۥ مَوَدَّةٌۭ يَٰلَيْتَنِى كُنتُ مَعَهُمْ فَأَفُوزَ فَوْزًا عَظِيمًۭا
 
@@ -2443,7 +2443,7 @@ Una traduzione contemporanea del Corano in italiano, edizione del manoscritto in
 
 ۞ فَلْيُقَٰتِلْ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يَشْرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْءَاخِرَةِ ۚ وَمَن يُقَٰتِلْ فِى سَبِيلِ ٱللَّهِ فَيُقْتَلْ أَوْ يَغْلِبْ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًۭا
 
-**4:75** E perché non combattereste per la causa di Dio, e gli uomini indifesi, e le donne, e i bambini, gridano: "Signore nostro, liberaci da questa città il cui popolo è oppressivo, e nominaci dalla Tua Presenza un Protettore, e nominaci dalla Tua Presenza un Vincitore".
+**4:75** E perché non combattereste per la causa di Dio, e gli uomini indifesi, e le donne, e i bambini, gridano: «Signore nostro, liberaci da questa città il cui popolo è oppressivo, e nominaci dalla Tua Presenza un Protettore, e nominaci dalla Tua Presenza un Vincitore».
 
 وَمَا لَكُمْ لَا تُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلْوِلْدَٰنِ ٱلَّذِينَ يَقُولُونَ رَبَّنَآ أَخْرِجْنَا مِنْ هَٰذِهِ ٱلْقَرْيَةِ ٱلظَّالِمِ أَهْلُهَا وَٱجْعَل لَّنَا مِن لَّدُنكَ وَلِيًّۭا وَٱجْعَل لَّنَا مِن لَّدُنكَ نَصِيرًا
 
@@ -2451,11 +2451,11 @@ Una traduzione contemporanea del Corano in italiano, edizione del manoscritto in
 
 ٱلَّذِينَ ءَامَنُوا۟ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ ۖ وَٱلَّذِينَ كَفَرُوا۟ يُقَٰتِلُونَ فِى سَبِيلِ ٱلطَّٰغُوتِ فَقَٰتِلُوٓا۟ أَوْلِيَآءَ ٱلشَّيْطَٰنِ ۖ إِنَّ كَيْدَ ٱلشَّيْطَٰنِ كَانَ ضَعِيفًا
 
-**4:77** Non hai considerato quelli a cui fu detto: "Trattenete le vostre mani, e compiete le vostre preghiere, e spendete in elemosina regolare"? Ma quando il combattimento fu ordinato per loro, una fazione di loro temette la gente come Dio dovrebbe essere temuto, o anche di più. E dissero: "Signore nostro, perché hai ordinato il combattimento per noi? Se solo lo posticipassi per noi per un po'". Di': "I godimenti di questa vita sono brevi, ma l'Aldilà è migliore per i giusti, e non vi sarà fatto torto nemmeno di un po'".
+**4:77** Non hai considerato quelli a cui fu detto: «Trattenete le vostre mani, e compiete le vostre preghiere, e spendete in elemosina regolare»? Ma quando il combattimento fu ordinato per loro, una fazione di loro temette la gente come Dio dovrebbe essere temuto, o anche di più. E dissero: «Signore nostro, perché hai ordinato il combattimento per noi? Se solo lo posticipassi per noi per un po'». Di': «I godimenti di questa vita sono brevi, ma l'Aldilà è migliore per i giusti, e non vi sarà fatto torto nemmeno di un po'».
 
 أَلَمْ تَرَ إِلَى ٱلَّذِينَ قِيلَ لَهُمْ كُفُّوٓا۟ أَيْدِيَكُمْ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ إِذَا فَرِيقٌۭ مِّنْهُمْ يَخْشَوْنَ ٱلنَّاسَ كَخَشْيَةِ ٱللَّهِ أَوْ أَشَدَّ خَشْيَةًۭ ۚ وَقَالُوا۟ رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا ٱلْقِتَالَ لَوْلَآ أَخَّرْتَنَآ إِلَىٰٓ أَجَلٍۢ قَرِيبٍۢ ۗ قُلْ مَتَٰعُ ٱلدُّنْيَا قَلِيلٌۭ وَٱلْءَاخِرَةُ خَيْرٌۭ لِّمَنِ ٱتَّقَىٰ وَلَا تُظْلَمُونَ فَتِيلًا
 
-**4:78** Ovunque vi troviate, la morte vi raggiungerà, anche se foste in torri fortificate. Quando una buona fortuna giunge loro, dicono: "Questo è da Dio". Ma quando una sfortuna li colpisce, dicono: "Questo è da te". Di': "Tutto è da Dio". Allora cosa c'è in questa gente, che a malapena capiscono qualcosa?
+**4:78** Ovunque vi troviate, la morte vi raggiungerà, anche se foste in torri fortificate. Quando una buona fortuna giunge loro, dicono: «Questo è da Dio». Ma quando una sfortuna li colpisce, dicono: «Questo è da te». Di': «Tutto è da Dio». Allora cosa c'è in questa gente, che a malapena capiscono qualcosa?
 
 أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍۢ مُّشَيَّدَةٍۢ ۗ وَإِن تُصِبْهُمْ حَسَنَةٌۭ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِ ٱللَّهِ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۭ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِكَ ۚ قُلْ كُلٌّۭ مِّنْ عِندِ ٱللَّهِ ۖ فَمَالِ هَٰٓؤُلَآءِ ٱلْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَدِيثًۭا
 
@@ -2519,7 +2519,7 @@ Una traduzione contemporanea del Corano in italiano, edizione del manoscritto in
 
 وَمَن يَقْتُلْ مُؤْمِنًۭا مُّتَعَمِّدًۭا فَجَزَآؤُهُۥ جَهَنَّمُ خَٰلِدًۭا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمًۭا
 
-**4:94** O voi che credete! Quando viaggiate nella via di Dio, investigate, e non dite a chi vi offre la pace: "Tu non sei un credente", aspirando ai beni di questo mondo. Con Dio ci sono ricchezze abbondanti. Voi stessi eravate così prima, e Dio vi ha concesso il suo favore; quindi investigate. Dio è ben consapevole di ciò che fate.
+**4:94** O voi che credete! Quando viaggiate nella via di Dio, investigate, e non dite a chi vi offre la pace: «Tu non sei un credente», aspirando ai beni di questo mondo. Con Dio ci sono ricchezze abbondanti. Voi stessi eravate così prima, e Dio vi ha concesso il suo favore; quindi investigate. Dio è ben consapevole di ciò che fate.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا ضَرَبْتُمْ فِى سَبِيلِ ٱللَّهِ فَتَبَيَّنُوا۟ وَلَا تَقُولُوا۟ لِمَنْ أَلْقَىٰٓ إِلَيْكُمُ ٱلسَّلَٰمَ لَسْتَ مُؤْمِنًۭا تَبْتَغُونَ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا فَعِندَ ٱللَّهِ مَغَانِمُ كَثِيرَةٌۭ ۚ كَذَٰلِكَ كُنتُم مِّن قَبْلُ فَمَنَّ ٱللَّهُ عَلَيْكُمْ فَتَبَيَّنُوٓا۟ ۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًۭا
 
@@ -2531,7 +2531,7 @@ Una traduzione contemporanea del Corano in italiano, edizione del manoscritto in
 
 دَرَجَٰتٍۢ مِّنْهُ وَمَغْفِرَةًۭ وَرَحْمَةًۭ ۚ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًا
 
-**4:97** Mentre gli angeli rimuovono le anime di quelli che si sono fatti torto, diranno: "Cosa vi succedeva?" Diranno: "Eravamo oppressi sulla terra". Diranno: "La terra di Dio non era abbastanza vasta per voi per emigrare in essa?" Questi — il loro rifugio è l'Inferno. Che misero rifugio!
+**4:97** Mentre gli angeli rimuovono le anime di quelli che si sono fatti torto, diranno: «Cosa vi succedeva?» Diranno: «Eravamo oppressi sulla terra». Diranno: «La terra di Dio non era abbastanza vasta per voi per emigrare in essa?» Questi — il loro rifugio è l'Inferno. Che misero rifugio!
 
 إِنَّ ٱلَّذِينَ تَوَفَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ ظَالِمِىٓ أَنفُسِهِمْ قَالُوا۟ فِيمَ كُنتُمْ ۖ قَالُوا۟ كُنَّا مُسْتَضْعَفِينَ فِى ٱلْأَرْضِ ۚ قَالُوٓا۟ أَلَمْ تَكُنْ أَرْضُ ٱللَّهِ وَٰسِعَةًۭ فَتُهَاجِرُوا۟ فِيهَا ۚ فَأُو۟لَٰٓئِكَ مَأْوَىٰهُمْ جَهَنَّمُ ۖ وَسَآءَتْ مَصِيرًا
 
@@ -2615,11 +2615,11 @@ Una traduzione contemporanea del Corano in italiano, edizione del manoscritto in
 
 إِن يَدْعُونَ مِن دُونِهِۦٓ إِلَّآ إِنَٰثًۭا وَإِن يَدْعُونَ إِلَّا شَيْطَٰنًۭا مَّرِيدًۭا
 
-**4:118** Dio lo ha maledetto. E lui disse: "Prenderò per me la mia parte dovuta dei Tuoi servi".
+**4:118** Dio lo ha maledetto. E lui disse: «Prenderò per me la mia parte dovuta dei Tuoi servi».
 
 لَّعَنَهُ ٱللَّهُ ۘ وَقَالَ لَأَتَّخِذَنَّ مِنْ عِبَادِكَ نَصِيبًۭا مَّفْرُوضًۭا
 
-**4:119** "E li fuorvierò, e li attirerò, e li spingerò a tagliare le orecchie del bestiame, e li spingerò ad alterare la creazione di Dio". Chi prende Satana come signore, invece di Dio, ha certamente sofferto una perdita profonda.
+**4:119** «E li fuorvierò, e li attirerò, e li spingerò a tagliare le orecchie del bestiame, e li spingerò ad alterare la creazione di Dio». Chi prende Satana come signore, invece di Dio, ha certamente sofferto una perdita profonda.
 
 وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَءَامُرَنَّهُمْ فَلَيُبَتِّكُنَّ ءَاذَانَ ٱلْأَنْعَٰمِ وَلَءَامُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ ٱللَّهِ ۚ وَمَن يَتَّخِذِ ٱلشَّيْطَٰنَ وَلِيًّۭا مِّن دُونِ ٱللَّهِ فَقَدْ خَسِرَ خُسْرَانًۭا مُّبِينًۭا
 
@@ -2651,7 +2651,7 @@ Una traduzione contemporanea del Corano in italiano, edizione del manoscritto in
 
 وَلِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍۢ مُّحِيطًۭا
 
-**4:127** Vi chiedono un parere riguardo alle donne. Di': "Dio vi dà un parere riguardo a loro, e così fa ciò che vi è dichiarato nel Libro riguardo alle donne vedove a cui trattenete ciò che è decretato per loro, eppure desiderate sposarle, e riguardo ai bambini indifesi: che dovreste trattare gli orfani equamente". Qualsiasi bene facciate, Dio lo sa.
+**4:127** Vi chiedono un parere riguardo alle donne. Di': «Dio vi dà un parere riguardo a loro, e così fa ciò che vi è dichiarato nel Libro riguardo alle donne vedove a cui trattenete ciò che è decretato per loro, eppure desiderate sposarle, e riguardo ai bambini indifesi: che dovreste trattare gli orfani equamente». Qualsiasi bene facciate, Dio lo sa.
 
 وَيَسْتَفْتُونَكَ فِى ٱلنِّسَآءِ ۖ قُلِ ٱللَّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ فِى ٱلْكِتَٰبِ فِى يَتَٰمَى ٱلنِّسَآءِ ٱلَّٰتِى لَا تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ أَن تَنكِحُوهُنَّ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلْوِلْدَٰنِ وَأَن تَقُومُوا۟ لِلْيَتَٰمَىٰ بِٱلْقِسْطِ ۚ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍۢ فَإِنَّ ٱللَّهَ كَانَ بِهِۦ عَلِيمًۭا
 
@@ -2707,7 +2707,7 @@ Una traduzione contemporanea del Corano in italiano, edizione del manoscritto in
 
 وَقَدْ نَزَّلَ عَلَيْكُمْ فِى ٱلْكِتَٰبِ أَنْ إِذَا سَمِعْتُمْ ءَايَٰتِ ٱللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا۟ مَعَهُمْ حَتَّىٰ يَخُوضُوا۟ فِى حَدِيثٍ غَيْرِهِۦٓ ۚ إِنَّكُمْ إِذًۭا مِّثْلُهُمْ ۗ إِنَّ ٱللَّهَ جَامِعُ ٱلْمُنَٰفِقِينَ وَٱلْكَٰفِرِينَ فِى جَهَنَّمَ جَمِيعًا
 
-**4:141** Quelli che vi attendono: se ottenete una vittoria da Dio, dicono: "Non eravamo con voi?" Ma se i miscredenti ottengono un turno, dicono: "Non ci siamo schierati con voi, e vi abbiamo difeso dai credenti?" Dio giudicherà tra voi nel Giorno della Risurrezione; e Dio non darà ai miscredenti alcun mezzo per superare i credenti.
+**4:141** Quelli che vi attendono: se ottenete una vittoria da Dio, dicono: «Non eravamo con voi?» Ma se i miscredenti ottengono un turno, dicono: «Non ci siamo schierati con voi, e vi abbiamo difeso dai credenti?» Dio giudicherà tra voi nel Giorno della Risurrezione; e Dio non darà ai miscredenti alcun mezzo per superare i credenti.
 
 ٱلَّذِينَ يَتَرَبَّصُونَ بِكُمْ فَإِن كَانَ لَكُمْ فَتْحٌۭ مِّنَ ٱللَّهِ قَالُوٓا۟ أَلَمْ نَكُن مَّعَكُمْ وَإِن كَانَ لِلْكَٰفِرِينَ نَصِيبٌۭ قَالُوٓا۟ أَلَمْ نَسْتَحْوِذْ عَلَيْكُمْ وَنَمْنَعْكُم مِّنَ ٱلْمُؤْمِنِينَ ۚ فَٱللَّهُ يَحْكُمُ بَيْنَكُمْ يَوْمَ ٱلْقِيَٰمَةِ ۗ وَلَن يَجْعَلَ ٱللَّهُ لِلْكَٰفِرِينَ عَلَى ٱلْمُؤْمِنِينَ سَبِيلًا
 
@@ -2743,7 +2743,7 @@ Una traduzione contemporanea del Corano in italiano, edizione del manoscritto in
 
 إِن تُبْدُوا۟ خَيْرًا أَوْ تُخْفُوهُ أَوْ تَعْفُوا۟ عَن سُوٓءٍۢ فَإِنَّ ٱللَّهَ كَانَ عَفُوًّۭا قَدِيرًا
 
-**4:150** Quelli che non credono in Dio e nei Suoi messaggeri, e vogliono separare tra Dio e i Suoi messaggeri, e dicono: "Crediamo in alcuni, e rifiutiamo alcuni", e desiderano prendere una via nel mezzo.
+**4:150** Quelli che non credono in Dio e nei Suoi messaggeri, e vogliono separare tra Dio e i Suoi messaggeri, e dicono: «Crediamo in alcuni, e rifiutiamo alcuni», e desiderano prendere una via nel mezzo.
 
 إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِٱللَّهِ وَرُسُلِهِۦ وَيُرِيدُونَ أَن يُفَرِّقُوا۟ بَيْنَ ٱللَّهِ وَرُسُلِهِۦ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍۢ وَنَكْفُرُ بِبَعْضٍۢ وَيُرِيدُونَ أَن يَتَّخِذُوا۟ بَيْنَ ذَٰلِكَ سَبِيلًا
 
@@ -2755,15 +2755,15 @@ Una traduzione contemporanea del Corano in italiano, edizione del manoscritto in
 
 وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَلَمْ يُفَرِّقُوا۟ بَيْنَ أَحَدٍۢ مِّنْهُمْ أُو۟لَٰٓئِكَ سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا
 
-**4:153** Il Popolo della Scrittura ti sfida a far scendere loro un libro dal cielo. Avevano chiesto a Mosè qualcosa di ancora più grande. Dissero: "Mostraci Dio chiaramente". Il fulmine li colpì per la loro malvagità. Poi presero il vitello per adorazione, anche dopo che le prove chiare erano giunte loro. Eppure abbiamo perdonato ciò, e abbiamo dato a Mosè una chiara autorità.
+**4:153** Il Popolo della Scrittura ti sfida a far scendere loro un libro dal cielo. Avevano chiesto a Mosè qualcosa di ancora più grande. Dissero: «Mostraci Dio chiaramente». Il fulmine li colpì per la loro malvagità. Poi presero il vitello per adorazione, anche dopo che le prove chiare erano giunte loro. Eppure abbiamo perdonato ciò, e abbiamo dato a Mosè una chiara autorità.
 
 يَسْـَٔلُكَ أَهْلُ ٱلْكِتَٰبِ أَن تُنَزِّلَ عَلَيْهِمْ كِتَٰبًۭا مِّنَ ٱلسَّمَآءِ ۚ فَقَدْ سَأَلُوا۟ مُوسَىٰٓ أَكْبَرَ مِن ذَٰلِكَ فَقَالُوٓا۟ أَرِنَا ٱللَّهَ جَهْرَةًۭ فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ بِظُلْمِهِمْ ۚ ثُمَّ ٱتَّخَذُوا۟ ٱلْعِجْلَ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ فَعَفَوْنَا عَن ذَٰلِكَ ۚ وَءَاتَيْنَا مُوسَىٰ سُلْطَٰنًۭا مُّبِينًۭا
 
-**4:154** E abbiamo innalzato il Monte sopra di loro in accordo con il loro patto, e dicemmo loro: "Entrate nella porta umilmente", e dicemmo loro: "Non violate il Sabato", e ricevemmo da loro un impegno solenne.
+**4:154** E abbiamo innalzato il Monte sopra di loro in accordo con il loro patto, e dicemmo loro: «Entrate nella porta umilmente», e dicemmo loro: «Non violate il Sabato», e ricevemmo da loro un impegno solenne.
 
 وَرَفَعْنَا فَوْقَهُمُ ٱلطُّورَ بِمِيثَٰقِهِمْ وَقُلْنَا لَهُمُ ٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًۭا وَقُلْنَا لَهُمْ لَا تَعْدُوا۟ فِى ٱلسَّبْتِ وَأَخَذْنَا مِنْهُم مِّيثَٰقًا غَلِيظًۭا
 
-**4:155** Ma per la loro violazione del loro patto, e la loro negazione delle rivelazioni di Dio, e la loro uccisione dei profeti ingiustamente, e il loro dire: "Le nostre menti sono chiuse". In realtà, Dio le ha sigillate per la loro miscredenza, così non credono, eccetto pochi.
+**4:155** Ma per la loro violazione del loro patto, e la loro negazione delle rivelazioni di Dio, e la loro uccisione dei profeti ingiustamente, e il loro dire: «Le nostre menti sono chiuse». In realtà, Dio le ha sigillate per la loro miscredenza, così non credono, eccetto pochi.
 
 فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ وَكُفْرِهِم بِـَٔايَٰتِ ٱللَّهِ وَقَتْلِهِمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّۢ وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌۢ ۚ بَلْ طَبَعَ ٱللَّهُ عَلَيْهَا بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًۭا
 
@@ -2771,7 +2771,7 @@ Una traduzione contemporanea del Corano in italiano, edizione del manoscritto in
 
 وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلَىٰ مَرْيَمَ بُهْتَٰنًا عَظِيمًۭا
 
-**4:157** E per il loro dire: "Abbiamo ucciso il Messia, Gesù, il figlio di Maria, il Messaggero di Dio". In realtà, non lo hanno ucciso, né lo hanno crocifisso, ma apparve loro come se lo avessero fatto. In verità, quelli che dissentono su di lui sono in dubbio su di esso. Non ne hanno conoscenza, eccetto il seguire supposizioni. Certamente, non lo hanno ucciso.
+**4:157** E per il loro dire: «Abbiamo ucciso il Messia, Gesù, il figlio di Maria, il Messaggero di Dio». In realtà, non lo hanno ucciso, né lo hanno crocifisso, ma apparve loro come se lo avessero fatto. In verità, quelli che dissentono su di lui sono in dubbio su di esso. Non ne hanno conoscenza, eccetto il seguire supposizioni. Certamente, non lo hanno ucciso.
 
 وَقَوْلِهِمْ إِنَّا قَتَلْنَا ٱلْمَسِيحَ عِيسَى ٱبْنَ مَرْيَمَ رَسُولَ ٱللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِن شُبِّهَ لَهُمْ ۚ وَإِنَّ ٱلَّذِينَ ٱخْتَلَفُوا۟ فِيهِ لَفِى شَكٍّۢ مِّنْهُ ۚ مَا لَهُم بِهِۦ مِنْ عِلْمٍ إِلَّا ٱتِّبَاعَ ٱلظَّنِّ ۚ وَمَا قَتَلُوهُ يَقِينًۢا
 
@@ -2827,7 +2827,7 @@ Una traduzione contemporanea del Corano in italiano, edizione del manoscritto in
 
 يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُمُ ٱلرَّسُولُ بِٱلْحَقِّ مِن رَّبِّكُمْ فَـَٔامِنُوا۟ خَيْرًۭا لَّكُمْ ۚ وَإِن تَكْفُرُوا۟ فَإِنَّ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًۭا
 
-**4:171** O Popolo della Scrittura! Non esagerate nella vostra religione, e non dite di Dio eccetto la verità. Il Messia, Gesù, il figlio di Maria, è il Messaggero di Dio, e la Sua Parola che ha trasmesso a Maria, e uno Spirito da Lui. Quindi credete in Dio e nei Suoi messaggeri, e non dite: "Tre". Astenetevi — è meglio per voi. Dio è un solo Dio. Gloria a Lui — che debba avere un figlio. A Lui appartiene tutto ciò che è nei cieli e sulla terra, e Dio è un Protettore sufficiente.
+**4:171** O Popolo della Scrittura! Non esagerate nella vostra religione, e non dite di Dio eccetto la verità. Il Messia, Gesù, il figlio di Maria, è il Messaggero di Dio, e la Sua Parola che ha trasmesso a Maria, e uno Spirito da Lui. Quindi credete in Dio e nei Suoi messaggeri, e non dite: «Tre». Astenetevi — è meglio per voi. Dio è un solo Dio. Gloria a Lui — che debba avere un figlio. A Lui appartiene tutto ciò che è nei cieli e sulla terra, e Dio è un Protettore sufficiente.
 
 يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ وَلَا تَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ ۚ إِنَّمَا ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ رَسُولُ ٱللَّهِ وَكَلِمَتُهُۥٓ أَلْقَىٰهَآ إِلَىٰ مَرْيَمَ وَرُوحٌۭ مِّنْهُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۖ وَلَا تَقُولُوا۟ ثَلَٰثَةٌ ۚ ٱنتَهُوا۟ خَيْرًۭا لَّكُمْ ۚ إِنَّمَا ٱللَّهُ إِلَٰهٌۭ وَٰحِدٌۭ ۖ سُبْحَٰنَهُۥٓ أَن يَكُونَ لَهُۥ وَلَدٌۭ ۘ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَكَفَىٰ بِٱللَّهِ وَكِيلًۭا
 
@@ -2847,7 +2847,7 @@ Una traduzione contemporanea del Corano in italiano, edizione del manoscritto in
 
 فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَٱعْتَصَمُوا۟ بِهِۦ فَسَيُدْخِلُهُمْ فِى رَحْمَةٍۢ مِّنْهُ وَفَضْلٍۢ وَيَهْدِيهِمْ إِلَيْهِ صِرَٰطًۭا مُّسْتَقِيمًۭا
 
-**4:176** Vi chiedono un parere. Di': "Dio vi dà un parere riguardo alla persona che non ha né genitori né figli". Se un uomo muore, e non lascia figli, e aveva una sorella, lei riceve la metà di ciò che lascia. E lui eredita da lei se lei non lascia figli. Ma se ci sono due sorelle, ricevono due terzi di ciò che lascia. Se i fratelli sono uomini e donne, il maschio riceve la parte di due femmine." Dio chiarisce le cose per voi, affinché non erriate. Dio è Consapevole di ogni cosa.
+**4:176** Vi chiedono un parere. Di': «Dio vi dà un parere riguardo alla persona che non ha né genitori né figli». Se un uomo muore, e non lascia figli, e aveva una sorella, lei riceve la metà di ciò che lascia. E lui eredita da lei se lei non lascia figli. Ma se ci sono due sorelle, ricevono due terzi di ciò che lascia. Se i fratelli sono uomini e donne, il maschio riceve la parte di due femmine.» Dio chiarisce le cose per voi, affinché non erriate. Dio è Consapevole di ogni cosa.
 
 يَسْتَفْتُونَكَ قُلِ ٱللَّهُ يُفْتِيكُمْ فِى ٱلْكَلَٰلَةِ ۚ إِنِ ٱمْرُؤٌا۟ هَلَكَ لَيْسَ لَهُۥ وَلَدٌۭ وَلَهُۥٓ أُخْتٌۭ فَلَهَا نِصْفُ مَا تَرَكَ ۚ وَهُوَ يَرِثُهَآ إِن لَّمْ يَكُن لَّهَا وَلَدٌۭ ۚ فَإِن كَانَتَا ٱثْنَتَيْنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَ ۚ وَإِن كَانُوٓا۟ إِخْوَةًۭ رِّجَالًۭا وَنِسَآءًۭ فَلِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ ۗ يُبَيِّنُ ٱللَّهُ لَكُمْ أَن تَضِلُّوا۟ ۗ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ
 
@@ -2875,7 +2875,7 @@ Una traduzione contemporanea del Corano in italiano, edizione del manoscritto in
 
 حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًۭا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍۢ لِّإِثْمٍۢ ۙ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ
 
-**5:4** Vi chiedono cosa è permesso per loro. Di': "Vi sono permesse tutte le cose buone, incluso ciò che i cani e i falchi addestrati catturano per voi". Li addestrate secondo ciò che Dio vi ha insegnato. Quindi mangiate da ciò che catturano per voi, e pronunciate il nome di Dio su di esso. E temete Dio. Dio è rapido nel conto.
+**5:4** Vi chiedono cosa è permesso per loro. Di': «Vi sono permesse tutte le cose buone, incluso ciò che i cani e i falchi addestrati catturano per voi». Li addestrate secondo ciò che Dio vi ha insegnato. Quindi mangiate da ciò che catturano per voi, e pronunciate il nome di Dio su di esso. E temete Dio. Dio è rapido nel conto.
 
 يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ ۖ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ ۙ وَمَا عَلَّمْتُم مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ ۖ فَكُلُوا۟ مِمَّآ أَمْسَكْنَ عَلَيْكُمْ وَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهِ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
 
@@ -2891,7 +2891,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ ۚ وَإِن كُنتُمْ جُنُبًۭا فَٱطَّهَّرُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌۭ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءًۭ فَتَيَمَّمُوا۟ صَعِيدًۭا طَيِّبًۭا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ ۚ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍۢ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ
 
-**5:7** E ricordate le benedizioni di Dio su di voi, e il Suo patto che ha stipulato con voi; quando diceste: "Abbiamo udito e obbediamo". E rimanete coscienti di Dio, perché Dio sa ciò che i cuori contengono.
+**5:7** E ricordate le benedizioni di Dio su di voi, e il Suo patto che ha stipulato con voi; quando diceste: «Abbiamo udito e obbediamo». E rimanete coscienti di Dio, perché Dio sa ciò che i cuori contengono.
 
 وَٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ وَمِيثَٰقَهُ ٱلَّذِى وَاثَقَكُم بِهِۦٓ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
@@ -2911,7 +2911,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ هَمَّ قَوْمٌ أَن يَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ فَكَفَّ أَيْدِيَهُمْ عَنكُمْ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
 
-**5:12** Dio ricevette un impegno dai Figli di Israele, e abbiamo innalzato tra loro dodici capi. Dio disse: "Io sono con voi; se compite la preghiera, e pagate l'elemosina, e credete nei Miei messaggeri e li sostenete, e prestate a Dio un prestito di giustizia; cancellerò i vostri peccati, e vi ammetterò in Giardini sotto i quali scorrono i fiumi. Ma chi di voi non crede dopo ha sviato dalla retta via".
+**5:12** Dio ricevette un impegno dai Figli di Israele, e abbiamo innalzato tra loro dodici capi. Dio disse: «Io sono con voi; se compite la preghiera, e pagate l'elemosina, e credete nei Miei messaggeri e li sostenete, e prestate a Dio un prestito di giustizia; cancellerò i vostri peccati, e vi ammetterò in Giardini sotto i quali scorrono i fiumi. Ma chi di voi non crede dopo ha sviato dalla retta via».
 
 ۞ وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ نَقِيبًۭا ۖ وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ ۖ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًۭا لَّأُكَفِّرَنَّ عَنكُمْ سَيِّـَٔاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۚ فَمَن كَفَرَ بَعْدَ ذَٰلِكَ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
 
@@ -2919,7 +2919,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةًۭ ۖ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ ۙ وَنَسُوا۟ حَظًّۭا مِّمَّا ذُكِّرُوا۟ بِهِۦ ۚ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍۢ مِّنْهُمْ إِلَّا قَلِيلًۭا مِّنْهُمْ ۖ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ
 
-**5:14** E da quelli che dicono: "Siamo cristiani", ricevemmo il loro impegno, ma trascurarono parte di ciò di cui erano stati ricordati. Così provocammo inimicizia e odio tra loro fino al Giorno della Risurrezione; Dio allora li informerà di ciò che solevano fabbricare.
+**5:14** E da quelli che dicono: «Siamo cristiani», ricevemmo il loro impegno, ma trascurarono parte di ciò di cui erano stati ricordati. Così provocammo inimicizia e odio tra loro fino al Giorno della Risurrezione; Dio allora li informerà di ciò che solevano fabbricare.
 
 وَمِنَ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰٓ أَخَذْنَا مِيثَٰقَهُمْ فَنَسُوا۟ حَظًّۭا مِّمَّا ذُكِّرُوا۟ بِهِۦ فَأَغْرَيْنَا بَيْنَهُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ۚ وَسَوْفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُوا۟ يَصْنَعُونَ
 
@@ -2931,55 +2931,55 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 يَهْدِى بِهِ ٱللَّهُ مَنِ ٱتَّبَعَ رِضْوَٰنَهُۥ سُبُلَ ٱلسَّلَٰمِ وَيُخْرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ بِإِذْنِهِۦ وَيَهْدِيهِمْ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
 
-**5:17** Non credono quelli che dicono: "Dio è il Cristo, il figlio di Maria". Di': "Chi può impedire a Dio, se Egli volesse, di annientare il Cristo figlio di Maria, e sua madre, e tutti sulla terra?" A Dio appartiene la sovranità dei cieli e della terra e ciò che è tra loro. Crea ciò che vuole, e Dio ha potere su ogni cosa.
+**5:17** Non credono quelli che dicono: «Dio è il Cristo, il figlio di Maria». Di': «Chi può impedire a Dio, se Egli volesse, di annientare il Cristo figlio di Maria, e sua madre, e tutti sulla terra?» A Dio appartiene la sovranità dei cieli e della terra e ciò che è tra loro. Crea ciò che vuole, e Dio ha potere su ogni cosa.
 
 لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ ۚ قُلْ فَمَن يَمْلِكُ مِنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ أَن يُهْلِكَ ٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَأُمَّهُۥ وَمَن فِى ٱلْأَرْضِ جَمِيعًۭا ۗ وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۚ يَخْلُقُ مَا يَشَآءُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**5:18** Gli ebrei e i cristiani dicono: "Siamo i figli di Dio, e i Suoi amati". Di': "Perché allora vi punisce per i vostri peccati?" In realtà, siete umani tra quelli che ha creato. Perdona chi vuole, e punisce chi vuole. A Dio appartiene il dominio dei cieli e della terra e ciò che sta tra loro, e a Lui è il ritorno.
+**5:18** Gli ebrei e i cristiani dicono: «Siamo i figli di Dio, e i Suoi amati». Di': «Perché allora vi punisce per i vostri peccati?» In realtà, siete umani tra quelli che ha creato. Perdona chi vuole, e punisce chi vuole. A Dio appartiene il dominio dei cieli e della terra e ciò che sta tra loro, e a Lui è il ritorno.
 
 وَقَالَتِ ٱلْيَهُودُ وَٱلنَّصَٰرَىٰ نَحْنُ أَبْنَٰٓؤُا۟ ٱللَّهِ وَأَحِبَّٰٓؤُهُۥ ۚ قُلْ فَلِمَ يُعَذِّبُكُم بِذُنُوبِكُم ۖ بَلْ أَنتُم بَشَرٌۭ مِّمَّنْ خَلَقَ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۖ وَإِلَيْهِ ٱلْمَصِيرُ
 
-**5:19** O Popolo del Libro! Il Nostro Messaggero è venuto a voi, chiarendovi le cose — dopo una cessazione di messaggeri — affinché non possiate dire: "Nessun predicatore è venuto a noi, e nessun ammonitore". In realtà, un predicatore è venuto a voi, e un ammonitore; e Dio è Capace di ogni cosa.
+**5:19** O Popolo del Libro! Il Nostro Messaggero è venuto a voi, chiarendovi le cose — dopo una cessazione di messaggeri — affinché non possiate dire: «Nessun predicatore è venuto a noi, e nessun ammonitore». In realtà, un predicatore è venuto a voi, e un ammonitore; e Dio è Capace di ogni cosa.
 
 يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍۢ مِّنَ ٱلرُّسُلِ أَن تَقُولُوا۟ مَا جَآءَنَا مِنۢ بَشِيرٍۢ وَلَا نَذِيرٍۢ ۖ فَقَدْ جَآءَكُم بَشِيرٌۭ وَنَذِيرٌۭ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**5:20** Quando Mosè disse al suo popolo: "O popolo mio, ricordate le benedizioni di Dio su di voi, quando pose profeti tra voi, e vi fece re, e vi diede ciò che non diede mai a nessun altro popolo".
+**5:20** Quando Mosè disse al suo popolo: «O popolo mio, ricordate le benedizioni di Dio su di voi, quando pose profeti tra voi, e vi fece re, e vi diede ciò che non diede mai a nessun altro popolo».
 
 وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَعَلَ فِيكُمْ أَنۢبِيَآءَ وَجَعَلَكُم مُّلُوكًۭا وَءَاتَىٰكُم مَّا لَمْ يُؤْتِ أَحَدًۭا مِّنَ ٱلْعَٰلَمِينَ
 
-**5:21** "O popolo mio, entra nella Terra Santa che Dio ha assegnato per voi, e non tornate indietro, per non tornare come perdenti".
+**5:21** «O popolo mio, entra nella Terra Santa che Dio ha assegnato per voi, e non tornate indietro, per non tornare come perdenti».
 
 يَٰقَوْمِ ٱدْخُلُوا۟ ٱلْأَرْضَ ٱلْمُقَدَّسَةَ ٱلَّتِى كَتَبَ ٱللَّهُ لَكُمْ وَلَا تَرْتَدُّوا۟ عَلَىٰٓ أَدْبَارِكُمْ فَتَنقَلِبُوا۟ خَٰسِرِينَ
 
-**5:22** Dissero: "O Mosè, ci sono persone tiranniche in essa; non vi entreremo finché non la lasceranno. Se la lasceranno, vi entreremo".
+**5:22** Dissero: «O Mosè, ci sono persone tiranniche in essa; non vi entreremo finché non la lasceranno. Se la lasceranno, vi entreremo».
 
 قَالُوا۟ يَٰمُوسَىٰٓ إِنَّ فِيهَا قَوْمًۭا جَبَّارِينَ وَإِنَّا لَن نَّدْخُلَهَا حَتَّىٰ يَخْرُجُوا۟ مِنْهَا فَإِن يَخْرُجُوا۟ مِنْهَا فَإِنَّا دَٰخِلُونَ
 
-**5:23** Due uomini di quelli che temevano, ma che Dio aveva benedetto, dissero: "Andate contro di loro dalla porta; e quando vi sarete entrati, prevarrete. E mettete la vostra fiducia in Dio, se siete credenti".
+**5:23** Due uomini di quelli che temevano, ma che Dio aveva benedetto, dissero: «Andate contro di loro dalla porta; e quando vi sarete entrati, prevarrete. E mettete la vostra fiducia in Dio, se siete credenti».
 
 قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنْعَمَ ٱللَّهُ عَلَيْهِمَا ٱدْخُلُوا۟ عَلَيْهِمُ ٱلْبَابَ فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ غَٰلِبُونَ ۚ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓا۟ إِن كُنتُم مُّؤْمِنِينَ
 
-**5:24** Dissero: "O Mosè, non vi entreremo, mai, finché loro saranno in essa. Quindi vai avanti, tu e il tuo Signore, e combattete. Noi restiamo proprio qui".
+**5:24** Dissero: «O Mosè, non vi entreremo, mai, finché loro saranno in essa. Quindi vai avanti, tu e il tuo Signore, e combattete. Noi restiamo proprio qui».
 
 قَالُوا۟ يَٰمُوسَىٰٓ إِنَّا لَن نَّدْخُلَهَآ أَبَدًۭا مَّا دَامُوا۟ فِيهَا ۖ فَٱذْهَبْ أَنتَ وَرَبُّكَ فَقَٰتِلَآ إِنَّا هَٰهُنَا قَٰعِدُونَ
 
-**5:25** Disse: "Signore mio! Ho controllo solo su me stesso e su mio fratello, quindi separa tra noi e tra le persone malvagie".
+**5:25** Disse: «Signore mio! Ho controllo solo su me stesso e su mio fratello, quindi separa tra noi e tra le persone malvagie».
 
 قَالَ رَبِّ إِنِّى لَآ أَمْلِكُ إِلَّا نَفْسِى وَأَخِى ۖ فَٱفْرُقْ بَيْنَنَا وَبَيْنَ ٱلْقَوْمِ ٱلْفَٰسِقِينَ
 
-**5:26** Disse: "È proibita per loro per quarant'anni. Vagheranno senza meta nella terra. Quindi non affliggerti per le persone ribelli".
+**5:26** Disse: «È proibita per loro per quarant'anni. Vagheranno senza meta nella terra. Quindi non affliggerti per le persone ribelli».
 
 قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةًۭ ۛ يَتِيهُونَ فِى ٱلْأَرْضِ ۚ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْفَٰسِقِينَ
 
-**5:27** E racconta loro la storia vera dei due figli di Adamo: quando offrirono un'offerta, e fu accettata da uno di loro, ma non fu accettata dall'altro. Disse: "Ti ucciderò". Disse: "Dio accetta solo dai giusti".
+**5:27** E racconta loro la storia vera dei due figli di Adamo: quando offrirono un'offerta, e fu accettata da uno di loro, ma non fu accettata dall'altro. Disse: «Ti ucciderò». Disse: «Dio accetta solo dai giusti».
 
 ۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْءَاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ
 
-**5:28** "Se stendi la tua mano per uccidermi, io non stenderò la mia mano per ucciderti; perché temo Dio, Signore dei Mondi".
+**5:28** «Se stendi la tua mano per uccidermi, io non stenderò la mia mano per ucciderti; perché temo Dio, Signore dei Mondi».
 
 لَئِنۢ بَسَطتَ إِلَىَّ يَدَكَ لِتَقْتُلَنِى مَآ أَنَا۠ بِبَاسِطٍۢ يَدِىَ إِلَيْكَ لِأَقْتُلَكَ ۖ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ
 
-**5:29** "Preferirei che tu portassi il mio peccato e il tuo peccato, e diventassi tra i compagni del Fuoco. Tale è la ricompensa per i malfattori".
+**5:29** «Preferirei che tu portassi il mio peccato e il tuo peccato, e diventassi tra i compagni del Fuoco. Tale è la ricompensa per i malfattori».
 
 إِنِّىٓ أُرِيدُ أَن تَبُوٓأَ بِإِثْمِى وَإِثْمِكَ فَتَكُونَ مِنْ أَصْحَٰبِ ٱلنَّارِ ۚ وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّٰلِمِينَ
 
@@ -2987,7 +2987,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَٰسِرِينَ
 
-**5:31** Poi Dio mandò un corvo che scavava la terra, per mostrargli come coprire il cadavere di suo fratello. Disse: "Guai a me! Non sono stato capace di essere come questo corvo, e seppellire il cadavere di mio fratello". Così divenne pieno di rimpianti.
+**5:31** Poi Dio mandò un corvo che scavava la terra, per mostrargli come coprire il cadavere di suo fratello. Disse: «Guai a me! Non sono stato capace di essere come questo corvo, e seppellire il cadavere di mio fratello». Così divenne pieno di rimpianti.
 
 فَبَعَثَ ٱللَّهُ غُرَابًۭا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ ۚ قَالَ يَٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى ۖ فَأَصْبَحَ مِنَ ٱلنَّٰدِمِينَ
 
@@ -3027,7 +3027,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يُعَذِّبُ مَن يَشَآءُ وَيَغْفِرُ لِمَن يَشَآءُ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**5:41** O Messaggero! Non lasciare che quelli che sono rapidi nella miscredenza ti affliggano — tra quelli che dicono con la bocca: "Crediamo", ma i loro cuori non credono; e tra gli ebrei — ascoltatori di menzogne, ascoltatori di altre persone che non sono venute da te. Distorcono le parole dai loro posti, e dicono: "Se vi viene dato questo, accettatelo; ma se non vi viene dato, state attenti". Chi Dio ha voluto deviare, tu non hai nulla per lui da Dio. Quelli sono coloro i cui cuori Dio non intende purificare. Per loro c'è disgrazia in questo mondo, e per loro c'è una grande punizione nell'Aldilà.
+**5:41** O Messaggero! Non lasciare che quelli che sono rapidi nella miscredenza ti affliggano — tra quelli che dicono con la bocca: «Crediamo», ma i loro cuori non credono; e tra gli ebrei — ascoltatori di menzogne, ascoltatori di altre persone che non sono venute da te. Distorcono le parole dai loro posti, e dicono: «Se vi viene dato questo, accettatelo; ma se non vi viene dato, state attenti». Chi Dio ha voluto deviare, tu non hai nulla per lui da Dio. Quelli sono coloro i cui cuori Dio non intende purificare. Per loro c'è disgrazia in questo mondo, e per loro c'è una grande punizione nell'Aldilà.
 
 ۞ يَٰٓأَيُّهَا ٱلرَّسُولُ لَا يَحْزُنكَ ٱلَّذِينَ يُسَٰرِعُونَ فِى ٱلْكُفْرِ مِنَ ٱلَّذِينَ قَالُوٓا۟ ءَامَنَّا بِأَفْوَٰهِهِمْ وَلَمْ تُؤْمِن قُلُوبُهُمْ ۛ وَمِنَ ٱلَّذِينَ هَادُوا۟ ۛ سَمَّٰعُونَ لِلْكَذِبِ سَمَّٰعُونَ لِقَوْمٍ ءَاخَرِينَ لَمْ يَأْتُوكَ ۖ يُحَرِّفُونَ ٱلْكَلِمَ مِنۢ بَعْدِ مَوَاضِعِهِۦ ۖ يَقُولُونَ إِنْ أُوتِيتُمْ هَٰذَا فَخُذُوهُ وَإِن لَّمْ تُؤْتَوْهُ فَٱحْذَرُوا۟ ۚ وَمَن يُرِدِ ٱللَّهُ فِتْنَتَهُۥ فَلَن تَمْلِكَ لَهُۥ مِنَ ٱللَّهِ شَيْـًٔا ۚ أُو۟لَٰٓئِكَ ٱلَّذِينَ لَمْ يُرِدِ ٱللَّهُ أَن يُطَهِّرَ قُلُوبَهُمْ ۚ لَهُمْ فِى ٱلدُّنْيَا خِزْىٌۭ ۖ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌۭ
 
@@ -3071,11 +3071,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ ٱلْيَهُودَ وَٱلنَّصَٰرَىٰٓ أَوْلِيَآءَ ۘ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍۢ ۚ وَمَن يَتَوَلَّهُم مِّنكُمْ فَإِنَّهُۥ مِنْهُمْ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**5:52** Vedrai quelli nei cui cuori c'è malattia correre verso di loro. Dicono: "Temiamo che la ruota del destino possa girarci contro". Ma forse Dio porterà la vittoria, o qualche evento di Sua creazione; allora rimpiangeranno ciò che nascosero dentro di sé.
+**5:52** Vedrai quelli nei cui cuori c'è malattia correre verso di loro. Dicono: «Temiamo che la ruota del destino possa girarci contro». Ma forse Dio porterà la vittoria, o qualche evento di Sua creazione; allora rimpiangeranno ciò che nascosero dentro di sé.
 
 فَتَرَى ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ يُسَٰرِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰٓ أَن تُصِيبَنَا دَآئِرَةٌۭ ۚ فَعَسَى ٱللَّهُ أَن يَأْتِىَ بِٱلْفَتْحِ أَوْ أَمْرٍۢ مِّنْ عِندِهِۦ فَيُصْبِحُوا۟ عَلَىٰ مَآ أَسَرُّوا۟ فِىٓ أَنفُسِهِمْ نَٰدِمِينَ
 
-**5:53** Quelli che credono diranno: "Sono questi quelli che giurarono per Dio con i loro giuramenti più forti che sono con voi?" Le loro opere sono fallite, così divennero perdenti.
+**5:53** Quelli che credono diranno: «Sono questi quelli che giurarono per Dio con i loro giuramenti più forti che sono con voi?» Le loro opere sono fallite, così divennero perdenti.
 
 وَيَقُولُ ٱلَّذِينَ ءَامَنُوٓا۟ أَهَٰٓؤُلَآءِ ٱلَّذِينَ أَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ ۙ إِنَّهُمْ لَمَعَكُمْ ۚ حَبِطَتْ أَعْمَٰلُهُمْ فَأَصْبَحُوا۟ خَٰسِرِينَ
 
@@ -3099,15 +3099,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَإِذَا نَادَيْتُمْ إِلَى ٱلصَّلَوٰةِ ٱتَّخَذُوهَا هُزُوًۭا وَلَعِبًۭا ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌۭ لَّا يَعْقِلُونَ
 
-**5:59** Di': "O Popolo della Scrittura! Ci odiate solo perché crediamo in Dio, e in ciò che ci è stato rivelato, e in ciò che è stato rivelato precedentemente; e la maggior parte di voi sono peccatori?"
+**5:59** Di': «O Popolo della Scrittura! Ci odiate solo perché crediamo in Dio, e in ciò che ci è stato rivelato, e in ciò che è stato rivelato precedentemente; e la maggior parte di voi sono peccatori?»
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ هَلْ تَنقِمُونَ مِنَّآ إِلَّآ أَنْ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْنَا وَمَآ أُنزِلَ مِن قَبْلُ وَأَنَّ أَكْثَرَكُمْ فَٰسِقُونَ
 
-**5:60** Di': "Vi informerò di peggio di ciò per retribuzione da Dio? Colui che Dio ha maledetto, e con cui si è adirato; e trasformò alcuni di loro in scimmie, e maiali, e adoratori di idoli. Questi sono in una posizione peggiore, e più lontani dalla retta via".
+**5:60** Di': «Vi informerò di peggio di ciò per retribuzione da Dio? Colui che Dio ha maledetto, e con cui si è adirato; e trasformò alcuni di loro in scimmie, e maiali, e adoratori di idoli. Questi sono in una posizione peggiore, e più lontani dalla retta via».
 
 قُلْ هَلْ أُنَبِّئُكُم بِشَرٍّۢ مِّن ذَٰلِكَ مَثُوبَةً عِندَ ٱللَّهِ ۚ مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ ٱلْقِرَدَةَ وَٱلْخَنَازِيرَ وَعَبَدَ ٱلطَّٰغُوتَ ۚ أُو۟لَٰٓئِكَ شَرٌّۭ مَّكَانًۭا وَأَضَلُّ عَن سَوَآءِ ٱلسَّبِيلِ
 
-**5:61** Quando vengono da te, dicono: "Crediamo", sebbene siano entrati con miscredenza, e siano partiti con essa. Ma Dio è ben consapevole di ciò che nascondono.
+**5:61** Quando vengono da te, dicono: «Crediamo», sebbene siano entrati con miscredenza, e siano partiti con essa. Ma Dio è ben consapevole di ciò che nascondono.
 
 وَإِذَا جَآءُوكُمْ قَالُوٓا۟ ءَامَنَّا وَقَد دَّخَلُوا۟ بِٱلْكُفْرِ وَهُمْ قَدْ خَرَجُوا۟ بِهِۦ ۚ وَٱللَّهُ أَعْلَمُ بِمَا كَانُوا۟ يَكْتُمُونَ
 
@@ -3119,7 +3119,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 لَوْلَا يَنْهَىٰهُمُ ٱلرَّبَّٰنِيُّونَ وَٱلْأَحْبَارُ عَن قَوْلِهِمُ ٱلْإِثْمَ وَأَكْلِهِمُ ٱلسُّحْتَ ۚ لَبِئْسَ مَا كَانُوا۟ يَصْنَعُونَ
 
-**5:64** Gli ebrei dicono: "La mano di Dio è legata". Sono le loro mani ad essere legate, e sono maledetti per ciò che dicono. In realtà, le Sue mani sono distese; dà come vuole. Certamente, ciò che ti è stato rivelato dal tuo Signore aumenterà molti di loro in sfida e blasfemia. E abbiamo posto tra loro inimicizia e odio, fino al Giorno della Risurrezione. Ogni volta che accendono il fuoco della guerra, Dio lo spegne. E si sforzano di diffondere la corruzione sulla terra. Dio non ama i corruttori.
+**5:64** Gli ebrei dicono: «La mano di Dio è legata». Sono le loro mani ad essere legate, e sono maledetti per ciò che dicono. In realtà, le Sue mani sono distese; dà come vuole. Certamente, ciò che ti è stato rivelato dal tuo Signore aumenterà molti di loro in sfida e blasfemia. E abbiamo posto tra loro inimicizia e odio, fino al Giorno della Risurrezione. Ogni volta che accendono il fuoco della guerra, Dio lo spegne. E si sforzano di diffondere la corruzione sulla terra. Dio non ama i corruttori.
 
 وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ ۚ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟ ۘ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ ۚ وَلَيَزِيدَنَّ كَثِيرًۭا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَٰنًۭا وَكُفْرًۭا ۚ وَأَلْقَيْنَا بَيْنَهُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ۚ كُلَّمَآ أَوْقَدُوا۟ نَارًۭا لِّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ ۚ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًۭا ۚ وَٱللَّهُ لَا يُحِبُّ ٱلْمُفْسِدِينَ
 
@@ -3135,7 +3135,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ۞ يَٰٓأَيُّهَا ٱلرَّسُولُ بَلِّغْ مَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ۖ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُۥ ۚ وَٱللَّهُ يَعْصِمُكَ مِنَ ٱلنَّاسِ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ
 
-**5:68** Di': "O Popolo della Scrittura! Non avete alcuna base finché non sostenete la Torah, e il Vangelo, e ciò che vi è rivelato dal vostro Signore". Ma ciò che ti è rivelato dal tuo Signore aumenterà molti di loro in ribellione e miscredenza, quindi non dispiacerti per le persone miscredenti.
+**5:68** Di': «O Popolo della Scrittura! Non avete alcuna base finché non sostenete la Torah, e il Vangelo, e ciò che vi è rivelato dal vostro Signore». Ma ciò che ti è rivelato dal tuo Signore aumenterà molti di loro in ribellione e miscredenza, quindi non dispiacerti per le persone miscredenti.
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لَسْتُمْ عَلَىٰ شَىْءٍ حَتَّىٰ تُقِيمُوا۟ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَمَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُمْ ۗ وَلَيَزِيدَنَّ كَثِيرًۭا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَٰنًۭا وَكُفْرًۭا ۖ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
 
@@ -3151,11 +3151,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَحَسِبُوٓا۟ أَلَّا تَكُونَ فِتْنَةٌۭ فَعَمُوا۟ وَصَمُّوا۟ ثُمَّ تَابَ ٱللَّهُ عَلَيْهِمْ ثُمَّ عَمُوا۟ وَصَمُّوا۟ كَثِيرٌۭ مِّنْهُمْ ۚ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ
 
-**5:72** Non credono quelli che dicono: "Dio è il Messia il figlio di Maria". Ma il Messia stesso disse: "O Figli di Israele, adorate Dio, il mio Signore e il vostro Signore. Chi associa altri a Dio, Dio gli ha proibito il Paradiso, e la sua dimora è il Fuoco. Gli ingiusti non hanno salvatori".
+**5:72** Non credono quelli che dicono: «Dio è il Messia il figlio di Maria». Ma il Messia stesso disse: «O Figli di Israele, adorate Dio, il mio Signore e il vostro Signore. Chi associa altri a Dio, Dio gli ha proibito il Paradiso, e la sua dimora è il Fuoco. Gli ingiusti non hanno salvatori».
 
 لَقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ ۖ وَقَالَ ٱلْمَسِيحُ يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱعْبُدُوا۟ ٱللَّهَ رَبِّى وَرَبَّكُمْ ۖ إِنَّهُۥ مَن يُشْرِكْ بِٱللَّهِ فَقَدْ حَرَّمَ ٱللَّهُ عَلَيْهِ ٱلْجَنَّةَ وَمَأْوَىٰهُ ٱلنَّارُ ۖ وَمَا لِلظَّٰلِمِينَ مِنْ أَنصَارٍۢ
 
-**5:73** Non credono quelli che dicono: "Dio è il terzo di tre". Ma non c'è divinità eccetto l'Unico Dio. Se non si astengono da ciò che dicono, un tormento doloroso colpirà quelli tra loro che non credono.
+**5:73** Non credono quelli che dicono: «Dio è il terzo di tre». Ma non c'è divinità eccetto l'Unico Dio. Se non si astengono da ciò che dicono, un tormento doloroso colpirà quelli tra loro che non credono.
 
 لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ ثَالِثُ ثَلَٰثَةٍۢ ۘ وَمَا مِنْ إِلَٰهٍ إِلَّآ إِلَٰهٌۭ وَٰحِدٌۭ ۚ وَإِن لَّمْ يَنتَهُوا۟ عَمَّا يَقُولُونَ لَيَمَسَّنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابٌ أَلِيمٌ
 
@@ -3167,11 +3167,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌۭ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌۭ ۖ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ۗ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْءَايَٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ
 
-**5:76** Di': "Adorate, oltre a Dio, ciò che non ha potere di danneggiarvi o beneficiarvi?" Ma Dio: Lui è l'Ascoltatore, il Conoscente.
+**5:76** Di': «Adorate, oltre a Dio, ciò che non ha potere di danneggiarvi o beneficiarvi?» Ma Dio: Lui è l'Ascoltatore, il Conoscente.
 
 قُلْ أَتَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَمْلِكُ لَكُمْ ضَرًّۭا وَلَا نَفْعًۭا ۚ وَٱللَّهُ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
-**5:77** Di': "O Popolo della Scrittura! Non esagerate nella vostra religione oltre la verità; e non seguite le opinioni di persone che si sono sviate prima, e hanno fuorviato molti, e loro stessi si sono sviati dalla via equilibrata".
+**5:77** Di': «O Popolo della Scrittura! Non esagerate nella vostra religione oltre la verità; e non seguite le opinioni di persone che si sono sviate prima, e hanno fuorviato molti, e loro stessi si sono sviati dalla via equilibrata».
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ غَيْرَ ٱلْحَقِّ وَلَا تَتَّبِعُوٓا۟ أَهْوَآءَ قَوْمٍۢ قَدْ ضَلُّوا۟ مِن قَبْلُ وَأَضَلُّوا۟ كَثِيرًۭا وَضَلُّوا۟ عَن سَوَآءِ ٱلسَّبِيلِ
 
@@ -3191,15 +3191,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَوْ كَانُوا۟ يُؤْمِنُونَ بِٱللَّهِ وَٱلنَّبِىِّ وَمَآ أُنزِلَ إِلَيْهِ مَا ٱتَّخَذُوهُمْ أَوْلِيَآءَ وَلَٰكِنَّ كَثِيرًۭا مِّنْهُمْ فَٰسِقُونَ
 
-**5:82** Troverai che le persone più ostili verso i credenti sono gli ebrei e i politeisti. E troverai che i più vicini in affetto verso i credenti sono quelli che dicono: "Siamo cristiani". Questo perché tra loro ci sono sacerdoti e monaci, e non sono arroganti.
+**5:82** Troverai che le persone più ostili verso i credenti sono gli ebrei e i politeisti. E troverai che i più vicini in affetto verso i credenti sono quelli che dicono: «Siamo cristiani». Questo perché tra loro ci sono sacerdoti e monaci, e non sono arroganti.
 
 ۞ لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَٰوَةًۭ لِّلَّذِينَ ءَامَنُوا۟ ٱلْيَهُودَ وَٱلَّذِينَ أَشْرَكُوا۟ ۖ وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةًۭ لِّلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰ ۚ ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًۭا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ
 
-**5:83** E quando odono ciò che fu rivelato al Messaggero, vedi i loro occhi traboccare di lacrime, mentre riconoscono la verità in esso. Dicono: "Signore nostro, abbiamo creduto, quindi contaci tra i testimoni".
+**5:83** E quando odono ciò che fu rivelato al Messaggero, vedi i loro occhi traboccare di lacrime, mentre riconoscono la verità in esso. Dicono: «Signore nostro, abbiamo creduto, quindi contaci tra i testimoni».
 
 وَإِذَا سَمِعُوا۟ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعْيُنَهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ مِمَّا عَرَفُوا۟ مِنَ ٱلْحَقِّ ۖ يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكْتُبْنَا مَعَ ٱلشَّٰهِدِينَ
 
-**5:84** "E perché non dovremmo credere in Dio, e nella verità che è venuta a noi, e sperare che il nostro Signore ci includa tra le persone giuste?"
+**5:84** «E perché non dovremmo credere in Dio, e nella verità che è venuta a noi, e sperare che il nostro Signore ci includa tra le persone giuste?»
 
 وَمَا لَنَا لَا نُؤْمِنُ بِٱللَّهِ وَمَا جَآءَنَا مِنَ ٱلْحَقِّ وَنَطْمَعُ أَن يُدْخِلَنَا رَبُّنَا مَعَ ٱلْقَوْمِ ٱلصَّٰلِحِينَ
 
@@ -3263,7 +3263,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 مَّا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَٰغُ ۗ وَٱللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ
 
-**5:100** Di': "Il cattivo e il buono non sono uguali, anche se l'abbondanza del cattivo può impressionarti. Quindi siate coscienti di Dio, o voi che possedete intelligenza, affinché possiate avere successo".
+**5:100** Di': «Il cattivo e il buono non sono uguali, anche se l'abbondanza del cattivo può impressionarti. Quindi siate coscienti di Dio, o voi che possedete intelligenza, affinché possiate avere successo».
 
 قُل لَّا يَسْتَوِى ٱلْخَبِيثُ وَٱلطَّيِّبُ وَلَوْ أَعْجَبَكَ كَثْرَةُ ٱلْخَبِيثِ ۚ فَٱتَّقُوا۟ ٱللَّهَ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ لَعَلَّكُمْ تُفْلِحُونَ
 
@@ -3279,7 +3279,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 مَا جَعَلَ ٱللَّهُ مِنۢ بَحِيرَةٍۢ وَلَا سَآئِبَةٍۢ وَلَا وَصِيلَةٍۢ وَلَا حَامٍۢ ۙ وَلَٰكِنَّ ٱلَّذِينَ كَفَرُوا۟ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ ۖ وَأَكْثَرُهُمْ لَا يَعْقِلُونَ
 
-**5:104** E quando viene detto loro: "Venite a ciò che Dio ha rivelato, e al Messaggero", dicono: "Per noi è sufficiente ciò su cui abbiamo trovato i nostri antenati". Anche se i loro antenati non sapevano nulla, e non erano guidati?
+**5:104** E quando viene detto loro: «Venite a ciò che Dio ha rivelato, e al Messaggero», dicono: «Per noi è sufficiente ciò su cui abbiamo trovato i nostri antenati». Anche se i loro antenati non sapevano nulla, e non erano guidati?
 
 وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ قَالُوا۟ حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْلَمُونَ شَيْـًۭٔا وَلَا يَهْتَدُونَ
 
@@ -3287,11 +3287,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ عَلَيْكُمْ أَنفُسَكُمْ ۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهْتَدَيْتُمْ ۚ إِلَى ٱللَّهِ مَرْجِعُكُمْ جَمِيعًۭا فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 
-**5:106** O voi che credete! Quando la morte si avvicina a uno di voi, lasciate che due persone affidabili tra voi agiscano come testimoni alla stesura di un lascito, o due persone da un altro popolo se state viaggiando nella terra e l'evento della morte vi si avvicina. Ingaggiateli dopo la preghiera. Se avete dubbi, lasciate che giurino per Dio: "Non venderemo la nostra testimonianza per alcun prezzo, anche se era un parente stretto, e non nasconderemo la testimonianza di Dio, perché allora saremmo peccatori".
+**5:106** O voi che credete! Quando la morte si avvicina a uno di voi, lasciate che due persone affidabili tra voi agiscano come testimoni alla stesura di un lascito, o due persone da un altro popolo se state viaggiando nella terra e l'evento della morte vi si avvicina. Ingaggiateli dopo la preghiera. Se avete dubbi, lasciate che giurino per Dio: «Non venderemo la nostra testimonianza per alcun prezzo, anche se era un parente stretto, e non nasconderemo la testimonianza di Dio, perché allora saremmo peccatori».
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ ۚ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ بِٱللَّهِ إِنِ ٱرْتَبْتُمْ لَا نَشْتَرِى بِهِۦ ثَمَنًۭا وَلَوْ كَانَ ذَا قُرْبَىٰ ۙ وَلَا نَكْتُمُ شَهَٰدَةَ ٱللَّهِ إِنَّآ إِذًۭا لَّمِنَ ٱلْءَاثِمِينَ
 
-**5:107** Se si scopre che sono colpevoli di spergiuro: lasciate che altri due prendano il loro posto, due tra quelli responsabili della rivendicazione, e fateli giurare per Dio: "La nostra testimonianza è più veritiera della loro testimonianza, e non saremo parziali, perché allora saremmo ingiusti".
+**5:107** Se si scopre che sono colpevoli di spergiuro: lasciate che altri due prendano il loro posto, due tra quelli responsabili della rivendicazione, e fateli giurare per Dio: «La nostra testimonianza è più veritiera della loro testimonianza, e non saremo parziali, perché allora saremmo ingiusti».
 
 فَإِنْ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسْتَحَقَّآ إِثْمًۭا فَـَٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ ٱلَّذِينَ ٱسْتَحَقَّ عَلَيْهِمُ ٱلْأَوْلَيَٰنِ فَيُقْسِمَانِ بِٱللَّهِ لَشَهَٰدَتُنَآ أَحَقُّ مِن شَهَٰدَتِهِمَا وَمَا ٱعْتَدَيْنَآ إِنَّآ إِذًۭا لَّمِنَ ٱلظَّٰلِمِينَ
 
@@ -3299,35 +3299,35 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ذَٰلِكَ أَدْنَىٰٓ أَن يَأْتُوا۟ بِٱلشَّهَٰدَةِ عَلَىٰ وَجْهِهَآ أَوْ يَخَافُوٓا۟ أَن تُرَدَّ أَيْمَٰنٌۢ بَعْدَ أَيْمَٰنِهِمْ ۗ وَٱتَّقُوا۟ ٱللَّهَ وَٱسْمَعُوا۟ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 
-**5:109** Nel Giorno in cui Dio riunirà i messaggeri, poi dirà: "Che risposta vi fu data?" Diranno: "Non abbiamo conoscenza; sei tu il Conoscente dell'invisibile".
+**5:109** Nel Giorno in cui Dio riunirà i messaggeri, poi dirà: «Che risposta vi fu data?» Diranno: «Non abbiamo conoscenza; sei tu il Conoscente dell'invisibile».
 
 ۞ يَوْمَ يَجْمَعُ ٱللَّهُ ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبْتُمْ ۖ قَالُوا۟ لَا عِلْمَ لَنَآ ۖ إِنَّكَ أَنتَ عَلَّٰمُ ٱلْغُيُوبِ
 
-**5:110** Quando Dio dirà: "O Gesù figlio di Maria, ricorda il Mio favore su di te e su tua madre, come ti sostenni con lo Spirito Santo. Parlavi alla gente dalla culla, e nella maturità. Come ti insegnai la Scrittura e la saggezza, e la Torah e il Vangelo. E ricorda che modellasti dall'argilla la forma di un uccello, con il Mio permesso, e poi soffiasti in esso, e divenne un uccello, con il Mio permesso. E guaristi il cieco e il lebbroso, con il Mio permesso; e resuscitasti i morti, con il Mio permesso. E ricorda che trattenni i Figli di Israele da te quando portasti loro i miracoli chiari. Ma quelli che non credettero tra loro dissero: 'Questa non è altro che ovvia stregoneria.'"
+**5:110** Quando Dio dirà: «O Gesù figlio di Maria, ricorda il Mio favore su di te e su tua madre, come ti sostenni con lo Spirito Santo. Parlavi alla gente dalla culla, e nella maturità. Come ti insegnai la Scrittura e la saggezza, e la Torah e il Vangelo. E ricorda che modellasti dall'argilla la forma di un uccello, con il Mio permesso, e poi soffiasti in esso, e divenne un uccello, con il Mio permesso. E guaristi il cieco e il lebbroso, con il Mio permesso; e resuscitasti i morti, con il Mio permesso. E ricorda che trattenni i Figli di Israele da te quando portasti loro i miracoli chiari. Ma quelli che non credettero tra loro dissero: 'Questa non è altro che ovvia stregoneria.'»
 
 إِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ٱذْكُرْ نِعْمَتِى عَلَيْكَ وَعَلَىٰ وَٰلِدَتِكَ إِذْ أَيَّدتُّكَ بِرُوحِ ٱلْقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًۭا ۖ وَإِذْ عَلَّمْتُكَ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ ۖ وَإِذْ تَخْلُقُ مِنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ بِإِذْنِى فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًۢا بِإِذْنِى ۖ وَتُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ بِإِذْنِى ۖ وَإِذْ تُخْرِجُ ٱلْمَوْتَىٰ بِإِذْنِى ۖ وَإِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ إِذْ جِئْتَهُم بِٱلْبَيِّنَٰتِ فَقَالَ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌۭ
 
-**5:111** "E quando ispirai i discepoli: 'Credete in Me e nel Mio Messaggero'. Dissero: 'Abbiamo creduto, quindi testimonia che ci siamo sottomessi'."
+**5:111** «E quando ispirai i discepoli: 'Credete in Me e nel Mio Messaggero'. Dissero: 'Abbiamo creduto, quindi testimonia che ci siamo sottomessi'.»
 
 وَإِذْ أَوْحَيْتُ إِلَى ٱلْحَوَارِيِّۦنَ أَنْ ءَامِنُوا۟ بِى وَبِرَسُولِى قَالُوٓا۟ ءَامَنَّا وَٱشْهَدْ بِأَنَّنَا مُسْلِمُونَ
 
-**5:112** "E quando i discepoli dissero: 'O Gesù figlio di Maria, il tuo Signore è in grado di far scendere per noi un banchetto dal cielo?' Disse: 'Temete Dio, se siete credenti'."
+**5:112** «E quando i discepoli dissero: 'O Gesù figlio di Maria, il tuo Signore è in grado di far scendere per noi un banchetto dal cielo?' Disse: 'Temete Dio, se siete credenti'.»
 
 إِذْ قَالَ ٱلْحَوَارِيُّونَ يَٰعِيسَى ٱبْنَ مَرْيَمَ هَلْ يَسْتَطِيعُ رَبُّكَ أَن يُنَزِّلَ عَلَيْنَا مَآئِدَةًۭ مِّنَ ٱلسَّمَآءِ ۖ قَالَ ٱتَّقُوا۟ ٱللَّهَ إِن كُنتُم مُّؤْمِنِينَ
 
-**5:113** Dissero: "Desideriamo mangiarne, affinché i nostri cuori possano essere rassicurati, e sappiamo che ci hai detto la verità, e essere tra quelli che ne sono testimoni".
+**5:113** Dissero: «Desideriamo mangiarne, affinché i nostri cuori possano essere rassicurati, e sappiamo che ci hai detto la verità, e essere tra quelli che ne sono testimoni».
 
 قَالُوا۟ نُرِيدُ أَن نَّأْكُلَ مِنْهَا وَتَطْمَئِنَّ قُلُوبُنَا وَنَعْلَمَ أَن قَدْ صَدَقْتَنَا وَنَكُونَ عَلَيْهَا مِنَ ٱلشَّٰهِدِينَ
 
-**5:114** Gesù figlio di Maria disse: "O Dio, Signore nostro, manda giù per noi una tavola dal cielo, per essere una festa per noi, per il primo di noi, e l'ultimo di noi, e un segno da Te; e provvedi per noi; Tu sei il Migliore dei provveditori".
+**5:114** Gesù figlio di Maria disse: «O Dio, Signore nostro, manda giù per noi una tavola dal cielo, per essere una festa per noi, per il primo di noi, e l'ultimo di noi, e un segno da Te; e provvedi per noi; Tu sei il Migliore dei provveditori».
 
 قَالَ عِيسَى ٱبْنُ مَرْيَمَ ٱللَّهُمَّ رَبَّنَآ أَنزِلْ عَلَيْنَا مَآئِدَةًۭ مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيدًۭا لِّأَوَّلِنَا وَءَاخِرِنَا وَءَايَةًۭ مِّنكَ ۖ وَٱرْزُقْنَا وَأَنتَ خَيْرُ ٱلرَّٰزِقِينَ
 
-**5:115** Dio disse: "La manderò giù a voi. Ma chi di voi non crederà dopo, lo punirò con una punizione come mai punisco nessun altro essere".
+**5:115** Dio disse: «La manderò giù a voi. Ma chi di voi non crederà dopo, lo punirò con una punizione come mai punisco nessun altro essere».
 
 قَالَ ٱللَّهُ إِنِّى مُنَزِّلُهَا عَلَيْكُمْ ۖ فَمَن يَكْفُرْ بَعْدُ مِنكُمْ فَإِنِّىٓ أُعَذِّبُهُۥ عَذَابًۭا لَّآ أُعَذِّبُهُۥٓ أَحَدًۭا مِّنَ ٱلْعَٰلَمِينَ
 
-**5:116** E Dio dirà: "O Gesù figlio di Maria, hai detto alla gente: 'Prendete me e mia madre come dei piuttosto che Dio?'" Dirà: "Gloria a Te! Non spetta a me dire ciò che non ho diritto. Se l'avessi detto, Tu lo avresti saputo. Tu sai cosa c'è nella mia anima, e io non so cosa c'è nella tua anima. Tu sei il Conoscente del nascosto.
+**5:116** E Dio dirà: «O Gesù figlio di Maria, hai detto alla gente: 'Prendete me e mia madre come dei piuttosto che Dio?'» Dirà: «Gloria a Te! Non spetta a me dire ciò che non ho diritto. Se l'avessi detto, Tu lo avresti saputo. Tu sai cosa c'è nella mia anima, e io non so cosa c'è nella tua anima. Tu sei il Conoscente del nascosto.
 
 وَإِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ءَأَنتَ قُلْتَ لِلنَّاسِ ٱتَّخِذُونِى وَأُمِّىَ إِلَٰهَيْنِ مِن دُونِ ٱللَّهِ ۖ قَالَ سُبْحَٰنَكَ مَا يَكُونُ لِىٓ أَنْ أَقُولَ مَا لَيْسَ لِى بِحَقٍّ ۚ إِن كُنتُ قُلْتُهُۥ فَقَدْ عَلِمْتَهُۥ ۚ تَعْلَمُ مَا فِى نَفْسِى وَلَآ أَعْلَمُ مَا فِى نَفْسِكَ ۚ إِنَّكَ أَنتَ عَلَّٰمُ ٱلْغُيُوبِ
 
@@ -3335,11 +3335,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 مَا قُلْتُ لَهُمْ إِلَّا مَآ أَمَرْتَنِى بِهِۦٓ أَنِ ٱعْبُدُوا۟ ٱللَّهَ رَبِّى وَرَبَّكُمْ ۚ وَكُنتُ عَلَيْهِمْ شَهِيدًۭا مَّا دُمْتُ فِيهِمْ ۖ فَلَمَّا تَوَفَّيْتَنِى كُنتَ أَنتَ ٱلرَّقِيبَ عَلَيْهِمْ ۚ وَأَنتَ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدٌ
 
-**5:118** Se li punisci, sono i Tuoi servi; ma se li perdoni, Tu sei il Potente e il Saggio".
+**5:118** Se li punisci, sono i Tuoi servi; ma se li perdoni, Tu sei il Potente e il Saggio».
 
 إِن تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ ۖ وَإِن تَغْفِرْ لَهُمْ فَإِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**5:119** Dio dirà: "Questo è un Giorno in cui i veritieri beneficeranno della loro veridicità". Avranno Giardini sotto i quali scorrono i fiumi, in cui rimarranno per sempre. Dio è compiaciuto di loro, ed essi sono compiaciuti di Lui. Questo è il grande successo.
+**5:119** Dio dirà: «Questo è un Giorno in cui i veritieri beneficeranno della loro veridicità». Avranno Giardini sotto i quali scorrono i fiumi, in cui rimarranno per sempre. Dio è compiaciuto di loro, ed essi sono compiaciuti di Lui. Questo è il grande successo.
 
 قَالَ ٱللَّهُ هَٰذَا يَوْمُ يَنفَعُ ٱلصَّٰدِقِينَ صِدْقُهُمْ ۚ لَهُمْ جَنَّٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًۭا ۚ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
@@ -3383,11 +3383,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَلَمْ يَرَوْا۟ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍۢ مَّكَّنَّٰهُمْ فِى ٱلْأَرْضِ مَا لَمْ نُمَكِّن لَّكُمْ وَأَرْسَلْنَا ٱلسَّمَآءَ عَلَيْهِم مِّدْرَارًۭا وَجَعَلْنَا ٱلْأَنْهَٰرَ تَجْرِى مِن تَحْتِهِمْ فَأَهْلَكْنَٰهُم بِذُنُوبِهِمْ وَأَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ
 
-**6:7** Se avessimo mandato giù su di voi un libro su carta, e lo avessero toccato con le loro mani, quelli che non credono avrebbero detto: "Questa non è altro che magia evidente".
+**6:7** Se avessimo mandato giù su di voi un libro su carta, e lo avessero toccato con le loro mani, quelli che non credono avrebbero detto: «Questa non è altro che magia evidente».
 
 وَلَوْ نَزَّلْنَا عَلَيْكَ كِتَٰبًۭا فِى قِرْطَاسٍۢ فَلَمَسُوهُ بِأَيْدِيهِمْ لَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌۭ
 
-**6:8** E dicono: "Perché non è stato mandato giù un angelo a lui". Se avessimo mandato giù un angelo, la questione sarebbe stata risolta, e non sarebbero stati risparmiati.
+**6:8** E dicono: «Perché non è stato mandato giù un angelo a lui». Se avessimo mandato giù un angelo, la questione sarebbe stata risolta, e non sarebbero stati risparmiati.
 
 وَقَالُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ مَلَكٌۭ ۖ وَلَوْ أَنزَلْنَا مَلَكًۭا لَّقُضِىَ ٱلْأَمْرُ ثُمَّ لَا يُنظَرُونَ
 
@@ -3399,11 +3399,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍۢ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**6:11** Di': "Viaggiate sulla terra e osservate il destino finale dei negatori".
+**6:11** Di': «Viaggiate sulla terra e osservate il destino finale dei negatori».
 
 قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ ثُمَّ ٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُكَذِّبِينَ
 
-**6:12** Di': "A chi appartiene ciò che è nei cieli e sulla terra?" Di': "A Dio". Ha inscritto per Se stesso la misericordia. Vi riunirà al Giorno della Risurrezione, in cui non c'è dubbio. Quelli che hanno perso le loro anime non credono.
+**6:12** Di': «A chi appartiene ciò che è nei cieli e sulla terra?» Di': «A Dio». Ha inscritto per Se stesso la misericordia. Vi riunirà al Giorno della Risurrezione, in cui non c'è dubbio. Quelli che hanno perso le loro anime non credono.
 
 قُل لِّمَن مَّا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ قُل لِّلَّهِ ۚ كَتَبَ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَا رَيْبَ فِيهِ ۚ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ
 
@@ -3411,11 +3411,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ۞ وَلَهُۥ مَا سَكَنَ فِى ٱلَّيْلِ وَٱلنَّهَارِ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
-**6:14** Di': "Prenderò per me un protettore diverso da Dio, Originatore dei cieli e della terra, ed Egli nutre e non è nutrito?" Di': "Mi è stato istruito di essere il primo di quelli che si sottomettono". E non essere tra gli idolatri.
+**6:14** Di': «Prenderò per me un protettore diverso da Dio, Originatore dei cieli e della terra, ed Egli nutre e non è nutrito?» Di': «Mi è stato istruito di essere il primo di quelli che si sottomettono». E non essere tra gli idolatri.
 
 قُلْ أَغَيْرَ ٱللَّهِ أَتَّخِذُ وَلِيًّۭا فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ يُطْعِمُ وَلَا يُطْعَمُ ۗ قُلْ إِنِّىٓ أُمِرْتُ أَنْ أَكُونَ أَوَّلَ مَنْ أَسْلَمَ ۖ وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ
 
-**6:15** Di': "Temo, se disobbedissi al mio Signore, la punizione di un Giorno tremendo".
+**6:15** Di': «Temo, se disobbedissi al mio Signore, la punizione di un Giorno tremendo».
 
 قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍۢ
 
@@ -3431,7 +3431,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَهُوَ ٱلْقَاهِرُ فَوْقَ عِبَادِهِۦ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ
 
-**6:19** Di': "Cosa è più solenne nella testimonianza?" Di': "Dio è Testimone tra voi e me. Questo Corano mi è stato rivelato, affinché possa ammonirvi con esso, e chiunque possa raggiungere. Voi testimoniate davvero che ci sono altri dei con Dio?" Di': "Io stesso non testimonio". Di': "Lui è un solo Dio, e io sono innocente della vostra idolatria".
+**6:19** Di': «Cosa è più solenne nella testimonianza?» Di': «Dio è Testimone tra voi e me. Questo Corano mi è stato rivelato, affinché possa ammonirvi con esso, e chiunque possa raggiungere. Voi testimoniate davvero che ci sono altri dei con Dio?» Di': «Io stesso non testimonio». Di': «Lui è un solo Dio, e io sono innocente della vostra idolatria».
 
 قُلْ أَىُّ شَىْءٍ أَكْبَرُ شَهَٰدَةًۭ ۖ قُلِ ٱللَّهُ ۖ شَهِيدٌۢ بَيْنِى وَبَيْنَكُمْ ۚ وَأُوحِىَ إِلَىَّ هَٰذَا ٱلْقُرْءَانُ لِأُنذِرَكُم بِهِۦ وَمَنۢ بَلَغَ ۚ أَئِنَّكُمْ لَتَشْهَدُونَ أَنَّ مَعَ ٱللَّهِ ءَالِهَةً أُخْرَىٰ ۚ قُل لَّآ أَشْهَدُ ۚ قُلْ إِنَّمَا هُوَ إِلَٰهٌۭ وَٰحِدٌۭ وَإِنَّنِى بَرِىٓءٌۭ مِّمَّا تُشْرِكُونَ
 
@@ -3443,11 +3443,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِـَٔايَٰتِهِۦٓ ۗ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
 
-**6:22** Nel Giorno in cui li riuniremo tutti insieme, poi diremo agli idolatri: "Dove sono i vostri idoli, quelli che solevate rivendicare?"
+**6:22** Nel Giorno in cui li riuniremo tutti insieme, poi diremo agli idolatri: «Dove sono i vostri idoli, quelli che solevate rivendicare?»
 
 وَيَوْمَ نَحْشُرُهُمْ جَمِيعًۭا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوٓا۟ أَيْنَ شُرَكَآؤُكُمُ ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ
 
-**6:23** Poi il loro unico argomento sarà dire: "Per Dio, nostro Signore, non eravamo idolatri".
+**6:23** Poi il loro unico argomento sarà dire: «Per Dio, nostro Signore, non eravamo idolatri».
 
 ثُمَّ لَمْ تَكُن فِتْنَتُهُمْ إِلَّآ أَن قَالُوا۟ وَٱللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ
 
@@ -3455,7 +3455,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ٱنظُرْ كَيْفَ كَذَبُوا۟ عَلَىٰٓ أَنفُسِهِمْ ۚ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ
 
-**6:25** Tra loro ci sono quelli che ti ascoltano; ma poniamo coperture sui loro cuori, per impedire loro di capirlo, e pesantezza nelle loro orecchie. Anche se vedessero ogni segno, non vi crederanno. Fino a quando, quando vengono da te, per discutere con te, quelli che non credono diranno: "Queste non sono altro che miti degli antichi".
+**6:25** Tra loro ci sono quelli che ti ascoltano; ma poniamo coperture sui loro cuori, per impedire loro di capirlo, e pesantezza nelle loro orecchie. Anche se vedessero ogni segno, non vi crederanno. Fino a quando, quando vengono da te, per discutere con te, quelli che non credono diranno: «Queste non sono altro che miti degli antichi».
 
 وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ ۖ وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًۭا ۚ وَإِن يَرَوْا۟ كُلَّ ءَايَةٍۢ لَّا يُؤْمِنُوا۟ بِهَا ۚ حَتَّىٰٓ إِذَا جَآءُوكَ يُجَٰدِلُونَكَ يَقُولُ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
@@ -3463,7 +3463,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَهُمْ يَنْهَوْنَ عَنْهُ وَيَنْـَٔوْنَ عَنْهُ ۖ وَإِن يُهْلِكُونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ
 
-**6:27** Se solo potessi vedere, quando saranno fatti stare davanti al Fuoco; diranno: "Se solo potessimo essere rimandati indietro, e non rifiutare le rivelazioni del nostro Signore, ed essere tra i fedeli".
+**6:27** Se solo potessi vedere, quando saranno fatti stare davanti al Fuoco; diranno: «Se solo potessimo essere rimandati indietro, e non rifiutare le rivelazioni del nostro Signore, ed essere tra i fedeli».
 
 وَلَوْ تَرَىٰٓ إِذْ وُقِفُوا۟ عَلَى ٱلنَّارِ فَقَالُوا۟ يَٰلَيْتَنَا نُرَدُّ وَلَا نُكَذِّبَ بِـَٔايَٰتِ رَبِّنَا وَنَكُونَ مِنَ ٱلْمُؤْمِنِينَ
 
@@ -3471,15 +3471,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 بَلْ بَدَا لَهُم مَّا كَانُوا۟ يُخْفُونَ مِن قَبْلُ ۖ وَلَوْ رُدُّوا۟ لَعَادُوا۟ لِمَا نُهُوا۟ عَنْهُ وَإِنَّهُمْ لَكَٰذِبُونَ
 
-**6:29** E dicono: "Non c'è nulla tranne la nostra vita in questo mondo, e non saremo resuscitati".
+**6:29** E dicono: «Non c'è nulla tranne la nostra vita in questo mondo, e non saremo resuscitati».
 
 وَقَالُوٓا۟ إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ
 
-**6:30** Se solo potessi vedere, quando saranno stazionati davanti al loro Signore. Dirà: "Questo non è reale?" Diranno: "Sì davvero, per il nostro Signore". Dirà: "Allora assaggiate il tormento per non aver creduto".
+**6:30** Se solo potessi vedere, quando saranno stazionati davanti al loro Signore. Dirà: «Questo non è reale?» Diranno: «Sì davvero, per il nostro Signore». Dirà: «Allora assaggiate il tormento per non aver creduto».
 
 وَلَوْ تَرَىٰٓ إِذْ وُقِفُوا۟ عَلَىٰ رَبِّهِمْ ۚ قَالَ أَلَيْسَ هَٰذَا بِٱلْحَقِّ ۚ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
 
-**6:31** I perdenti sono quelli che negano l'incontro con Dio. Poi, quando l'Ora giungerà su di loro improvvisamente, diranno: "Ahimè per noi, come l'abbiamo trascurata". E porteranno i loro fardelli sulle loro spalle — malvagio è ciò che portano.
+**6:31** I perdenti sono quelli che negano l'incontro con Dio. Poi, quando l'Ora giungerà su di loro improvvisamente, diranno: «Ahimè per noi, come l'abbiamo trascurata». E porteranno i loro fardelli sulle loro spalle — malvagio è ciò che portano.
 
 قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ ۖ حَتَّىٰٓ إِذَا جَآءَتْهُمُ ٱلسَّاعَةُ بَغْتَةًۭ قَالُوا۟ يَٰحَسْرَتَنَا عَلَىٰ مَا فَرَّطْنَا فِيهَا وَهُمْ يَحْمِلُونَ أَوْزَارَهُمْ عَلَىٰ ظُهُورِهِمْ ۚ أَلَا سَآءَ مَا يَزِرُونَ
 
@@ -3503,7 +3503,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ۞ إِنَّمَا يَسْتَجِيبُ ٱلَّذِينَ يَسْمَعُونَ ۘ وَٱلْمَوْتَىٰ يَبْعَثُهُمُ ٱللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ
 
-**6:37** E dicono: "Se solo un segno potesse scendere a lui dal suo Signore". Di': "Dio è in grado di mandare giù un segno, ma la maggior parte di loro non sa".
+**6:37** E dicono: «Se solo un segno potesse scendere a lui dal suo Signore». Di': «Dio è in grado di mandare giù un segno, ma la maggior parte di loro non sa».
 
 وَقَالُوا۟ لَوْلَا نُزِّلَ عَلَيْهِ ءَايَةٌۭ مِّن رَّبِّهِۦ ۚ قُلْ إِنَّ ٱللَّهَ قَادِرٌ عَلَىٰٓ أَن يُنَزِّلَ ءَايَةًۭ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 
@@ -3515,7 +3515,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا صُمٌّۭ وَبُكْمٌۭ فِى ٱلظُّلُمَٰتِ ۗ مَن يَشَإِ ٱللَّهُ يُضْلِلْهُ وَمَن يَشَأْ يَجْعَلْهُ عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
 
-**6:40** Di': "Avete considerato? se la punizione di Dio giungesse su di voi, o l'Ora vi cogliesse, invochereste altri che Dio, se siete sinceri?"
+**6:40** Di': «Avete considerato? se la punizione di Dio giungesse su di voi, o l'Ora vi cogliesse, invochereste altri che Dio, se siete sinceri?»
 
 قُلْ أَرَءَيْتَكُمْ إِنْ أَتَىٰكُمْ عَذَابُ ٱللَّهِ أَوْ أَتَتْكُمُ ٱلسَّاعَةُ أَغَيْرَ ٱللَّهِ تَدْعُونَ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -3539,11 +3539,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَقُطِعَ دَابِرُ ٱلْقَوْمِ ٱلَّذِينَ ظَلَمُوا۟ ۚ وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
-**6:46** Di': "Avete considerato? Se Dio vi togliesse l'udito e la vista, e ponesse un sigillo sui vostri cuori, quale dio diverso da Dio ve li restituirebbe?" Nota come spieghiamo le rivelazioni in vari modi, eppure si allontanano ancora.
+**6:46** Di': «Avete considerato? Se Dio vi togliesse l'udito e la vista, e ponesse un sigillo sui vostri cuori, quale dio diverso da Dio ve li restituirebbe?» Nota come spieghiamo le rivelazioni in vari modi, eppure si allontanano ancora.
 
 قُلْ أَرَءَيْتُمْ إِنْ أَخَذَ ٱللَّهُ سَمْعَكُمْ وَأَبْصَٰرَكُمْ وَخَتَمَ عَلَىٰ قُلُوبِكُم مَّنْ إِلَٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِهِ ۗ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْءَايَٰتِ ثُمَّ هُمْ يَصْدِفُونَ
 
-**6:47** Di': "Avete considerato? se la punizione di Dio discendesse su di voi improvvisamente o gradualmente, qualcuno sarebbe distrutto eccetto le persone ingiuste?"
+**6:47** Di': «Avete considerato? se la punizione di Dio discendesse su di voi improvvisamente o gradualmente, qualcuno sarebbe distrutto eccetto le persone ingiuste?»
 
 قُلْ أَرَءَيْتَكُمْ إِنْ أَتَىٰكُمْ عَذَابُ ٱللَّهِ بَغْتَةً أَوْ جَهْرَةً هَلْ يُهْلَكُ إِلَّا ٱلْقَوْمُ ٱلظَّٰلِمُونَ
 
@@ -3555,7 +3555,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا يَمَسُّهُمُ ٱلْعَذَابُ بِمَا كَانُوا۟ يَفْسُقُونَ
 
-**6:50** Di': "Non vi dico che possiedo i tesori di Dio, né conosco il futuro, né vi dico che sono un angelo. Seguo solo ciò che mi è ispirato". Di': "Il cieco e il veggente sono uguali? Non pensate?"
+**6:50** Di': «Non vi dico che possiedo i tesori di Dio, né conosco il futuro, né vi dico che sono un angelo. Seguo solo ciò che mi è ispirato». Di': «Il cieco e il veggente sono uguali? Non pensate?»
 
 قُل لَّآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ وَلَآ أَقُولُ لَكُمْ إِنِّى مَلَكٌ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ ۚ أَفَلَا تَتَفَكَّرُونَ
 
@@ -3567,11 +3567,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَا تَطْرُدِ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ مَا عَلَيْكَ مِنْ حِسَابِهِم مِّن شَىْءٍۢ وَمَا مِنْ حِسَابِكَ عَلَيْهِم مِّن شَىْءٍۢ فَتَطْرُدَهُمْ فَتَكُونَ مِنَ ٱلظَّٰلِمِينَ
 
-**6:53** Così proviamo alcuni di loro per mezzo di altri, affinché possano dire: "Sono questi quelli che Dio ha favorito tra noi?" Dio non è consapevole dei grati?
+**6:53** Così proviamo alcuni di loro per mezzo di altri, affinché possano dire: «Sono questi quelli che Dio ha favorito tra noi?» Dio non è consapevole dei grati?
 
 وَكَذَٰلِكَ فَتَنَّا بَعْضَهُم بِبَعْضٍۢ لِّيَقُولُوٓا۟ أَهَٰٓؤُلَآءِ مَنَّ ٱللَّهُ عَلَيْهِم مِّنۢ بَيْنِنَآ ۗ أَلَيْسَ ٱللَّهُ بِأَعْلَمَ بِٱلشَّٰكِرِينَ
 
-**6:54** Quando quelli che credono nelle Nostre rivelazioni vengono a te, di': "Pace a voi, il vostro Signore ha prescritto la misericordia per Se stesso. Chi tra voi fa torto per ignoranza, e poi si pente dopo e si corregge — Lui perdona ed è Misericordioso".
+**6:54** Quando quelli che credono nelle Nostre rivelazioni vengono a te, di': «Pace a voi, il vostro Signore ha prescritto la misericordia per Se stesso. Chi tra voi fa torto per ignoranza, e poi si pente dopo e si corregge — Lui perdona ed è Misericordioso».
 
 وَإِذَا جَآءَكَ ٱلَّذِينَ يُؤْمِنُونَ بِـَٔايَٰتِنَا فَقُلْ سَلَٰمٌ عَلَيْكُمْ ۖ كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۖ أَنَّهُۥ مَنْ عَمِلَ مِنكُمْ سُوٓءًۢا بِجَهَٰلَةٍۢ ثُمَّ تَابَ مِنۢ بَعْدِهِۦ وَأَصْلَحَ فَأَنَّهُۥ غَفُورٌۭ رَّحِيمٌۭ
 
@@ -3579,15 +3579,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَكَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ وَلِتَسْتَبِينَ سَبِيلُ ٱلْمُجْرِمِينَ
 
-**6:56** Di': "Mi è proibito adorare quelli che pregate oltre a Dio". Di': "Non seguirò i vostri desideri; altrimenti sarei perduto e non sarei tra quelli guidati".
+**6:56** Di': «Mi è proibito adorare quelli che pregate oltre a Dio». Di': «Non seguirò i vostri desideri; altrimenti sarei perduto e non sarei tra quelli guidati».
 
 قُلْ إِنِّى نُهِيتُ أَنْ أَعْبُدَ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ ۚ قُل لَّآ أَتَّبِعُ أَهْوَآءَكُمْ ۙ قَدْ ضَلَلْتُ إِذًۭا وَمَآ أَنَا۠ مِنَ ٱلْمُهْتَدِينَ
 
-**6:57** Di': "Sto su prove chiare dal mio Signore, e voi Lo avete rifiutato. Non possiedo ciò che mi chiedete di affrettare; la decisione appartiene solo a Dio. Egli afferma la verità, ed è il Migliore dei Giudici".
+**6:57** Di': «Sto su prove chiare dal mio Signore, e voi Lo avete rifiutato. Non possiedo ciò che mi chiedete di affrettare; la decisione appartiene solo a Dio. Egli afferma la verità, ed è il Migliore dei Giudici».
 
 قُلْ إِنِّى عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَكَذَّبْتُم بِهِۦ ۚ مَا عِندِى مَا تَسْتَعْجِلُونَ بِهِۦٓ ۚ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۖ يَقُصُّ ٱلْحَقَّ ۖ وَهُوَ خَيْرُ ٱلْفَٰصِلِينَ
 
-**6:58** Di': "Se possedessi ciò che mi chiedete di affrettare, la questione tra voi e me sarebbe stata risolta. Dio è ben consapevole degli ingiusti".
+**6:58** Di': «Se possedessi ciò che mi chiedete di affrettare, la questione tra voi e me sarebbe stata risolta. Dio è ben consapevole degli ingiusti».
 
 قُل لَّوْ أَنَّ عِندِى مَا تَسْتَعْجِلُونَ بِهِۦ لَقُضِىَ ٱلْأَمْرُ بَيْنِى وَبَيْنَكُمْ ۗ وَٱللَّهُ أَعْلَمُ بِٱلظَّٰلِمِينَ
 
@@ -3607,19 +3607,19 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ثُمَّ رُدُّوٓا۟ إِلَى ٱللَّهِ مَوْلَىٰهُمُ ٱلْحَقِّ ۚ أَلَا لَهُ ٱلْحُكْمُ وَهُوَ أَسْرَعُ ٱلْحَٰسِبِينَ
 
-**6:63** Di': "Chi vi libera dalle tenebre della terra e del mare?" Lo invocate umilmente e interiormente: "Se ci libera da questo, saremo certamente tra i grati".
+**6:63** Di': «Chi vi libera dalle tenebre della terra e del mare?» Lo invocate umilmente e interiormente: «Se ci libera da questo, saremo certamente tra i grati».
 
 قُلْ مَن يُنَجِّيكُم مِّن ظُلُمَٰتِ ٱلْبَرِّ وَٱلْبَحْرِ تَدْعُونَهُۥ تَضَرُّعًۭا وَخُفْيَةًۭ لَّئِنْ أَنجَىٰنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
 
-**6:64** Di': "È Dio che vi libera da esso, e da ogni disastro. Eppure poi associate altri a Lui".
+**6:64** Di': «È Dio che vi libera da esso, e da ogni disastro. Eppure poi associate altri a Lui».
 
 قُلِ ٱللَّهُ يُنَجِّيكُم مِّنْهَا وَمِن كُلِّ كَرْبٍۢ ثُمَّ أَنتُمْ تُشْرِكُونَ
 
-**6:65** Di': "È in grado di mandare su di voi un'afflizione, da sopra di voi, o da sotto i vostri piedi. O può dividervi in fazioni, e farvi assaggiare la violenza gli uni degli altri. Nota come spieghiamo le rivelazioni, affinché possano capire".
+**6:65** Di': «È in grado di mandare su di voi un'afflizione, da sopra di voi, o da sotto i vostri piedi. O può dividervi in fazioni, e farvi assaggiare la violenza gli uni degli altri. Nota come spieghiamo le rivelazioni, affinché possano capire».
 
 قُلْ هُوَ ٱلْقَادِرُ عَلَىٰٓ أَن يَبْعَثَ عَلَيْكُمْ عَذَابًۭا مِّن فَوْقِكُمْ أَوْ مِن تَحْتِ أَرْجُلِكُمْ أَوْ يَلْبِسَكُمْ شِيَعًۭا وَيُذِيقَ بَعْضَكُم بَأْسَ بَعْضٍ ۗ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْءَايَٰتِ لَعَلَّهُمْ يَفْقَهُونَ
 
-**6:66** Ma il tuo popolo lo ha rifiutato, sebbene sia la verità. Di': "Non sono responsabile per voi".
+**6:66** Ma il tuo popolo lo ha rifiutato, sebbene sia la verità. Di': «Non sono responsabile per voi».
 
 وَكَذَّبَ بِهِۦ قَوْمُكَ وَهُوَ ٱلْحَقُّ ۚ قُل لَّسْتُ عَلَيْكُم بِوَكِيلٍۢ
 
@@ -3639,19 +3639,19 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَذَرِ ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَهُمْ لَعِبًۭا وَلَهْوًۭا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ وَذَكِّرْ بِهِۦٓ أَن تُبْسَلَ نَفْسٌۢ بِمَا كَسَبَتْ لَيْسَ لَهَا مِن دُونِ ٱللَّهِ وَلِىٌّۭ وَلَا شَفِيعٌۭ وَإِن تَعْدِلْ كُلَّ عَدْلٍۢ لَّا يُؤْخَذْ مِنْهَآ ۗ أُو۟لَٰٓئِكَ ٱلَّذِينَ أُبْسِلُوا۟ بِمَا كَسَبُوا۟ ۖ لَهُمْ شَرَابٌۭ مِّنْ حَمِيمٍۢ وَعَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْفُرُونَ
 
-**6:71** Di': "Invocheremo oltre a Dio qualcosa che non può né beneficiarci né danneggiarci, e torneremo sui nostri passi dopo che Dio ci ha guidati; come qualcuno sedotto dai diavoli e confuso sulla terra, che ha amici che lo chiamano alla guida: 'Vieni da noi'?" Di': "La guida di Dio è la guida, e ci è comandato di arrenderci al Signore dell'Universo".
+**6:71** Di': «Invocheremo oltre a Dio qualcosa che non può né beneficiarci né danneggiarci, e torneremo sui nostri passi dopo che Dio ci ha guidati; come qualcuno sedotto dai diavoli e confuso sulla terra, che ha amici che lo chiamano alla guida: 'Vieni da noi'?» Di': «La guida di Dio è la guida, e ci è comandato di arrenderci al Signore dell'Universo».
 
 قُلْ أَنَدْعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا وَنُرَدُّ عَلَىٰٓ أَعْقَابِنَا بَعْدَ إِذْ هَدَىٰنَا ٱللَّهُ كَٱلَّذِى ٱسْتَهْوَتْهُ ٱلشَّيَٰطِينُ فِى ٱلْأَرْضِ حَيْرَانَ لَهُۥٓ أَصْحَٰبٌۭ يَدْعُونَهُۥٓ إِلَى ٱلْهُدَى ٱئْتِنَا ۗ قُلْ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلْهُدَىٰ ۖ وَأُمِرْنَا لِنُسْلِمَ لِرَبِّ ٱلْعَٰلَمِينَ
 
-**6:72** "E di compiere le preghiere, e di riverirlo; è a Lui che sarete riuniti".
+**6:72** «E di compiere le preghiere, e di riverirlo; è a Lui che sarete riuniti».
 
 وَأَنْ أَقِيمُوا۟ ٱلصَّلَوٰةَ وَٱتَّقُوهُ ۚ وَهُوَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ
 
-**6:73** È Lui che ha creato i cieli e la terra in verità. Nel Giorno in cui dice: "Sii", sarà. Il Suo dire è la verità, e Sua è la sovranità nel Giorno in cui la tromba sarà soffiata. Il Conoscente dei segreti e delle dichiarazioni. Lui è il Saggio, l'Esperto.
+**6:73** È Lui che ha creato i cieli e la terra in verità. Nel Giorno in cui dice: «Sii», sarà. Il Suo dire è la verità, e Sua è la sovranità nel Giorno in cui la tromba sarà soffiata. Il Conoscente dei segreti e delle dichiarazioni. Lui è il Saggio, l'Esperto.
 
 وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۖ وَيَوْمَ يَقُولُ كُن فَيَكُونُ ۚ قَوْلُهُ ٱلْحَقُّ ۚ وَلَهُ ٱلْمُلْكُ يَوْمَ يُنفَخُ فِى ٱلصُّورِ ۚ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ
 
-**6:74** Abramo disse a suo padre Azar: "Prendi idoli per dei? Vedo che tu e il tuo popolo siete in errore evidente".
+**6:74** Abramo disse a suo padre Azar: «Prendi idoli per dei? Vedo che tu e il tuo popolo siete in errore evidente».
 
 ۞ وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصْنَامًا ءَالِهَةً ۖ إِنِّىٓ أَرَىٰكَ وَقَوْمَكَ فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
@@ -3659,27 +3659,27 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ
 
-**6:76** Quando la notte cadde su di lui, vide un pianeta. Disse: "Questo è il mio signore". Ma quando tramontò, disse: "Non amo quelli che tramontano".
+**6:76** Quando la notte cadde su di lui, vide un pianeta. Disse: «Questo è il mio signore». Ma quando tramontò, disse: «Non amo quelli che tramontano».
 
 فَلَمَّا جَنَّ عَلَيْهِ ٱلَّيْلُ رَءَا كَوْكَبًۭا ۖ قَالَ هَٰذَا رَبِّى ۖ فَلَمَّآ أَفَلَ قَالَ لَآ أُحِبُّ ٱلْءَافِلِينَ
 
-**6:77** Poi, quando vide la luna sorgere, disse: "Questo è il mio signore". Ma quando tramontò, disse: "Se il mio Signore non mi guida, sarò uno delle persone erranti".
+**6:77** Poi, quando vide la luna sorgere, disse: «Questo è il mio signore». Ma quando tramontò, disse: «Se il mio Signore non mi guida, sarò uno delle persone erranti».
 
 فَلَمَّا رَءَا ٱلْقَمَرَ بَازِغًۭا قَالَ هَٰذَا رَبِّى ۖ فَلَمَّآ أَفَلَ قَالَ لَئِن لَّمْ يَهْدِنِى رَبِّى لَأَكُونَنَّ مِنَ ٱلْقَوْمِ ٱلضَّآلِّينَ
 
-**6:78** Poi, quando vide il sole sorgere, disse: "Questo è il mio signore, questo è più grande". Ma quando tramontò, disse: "O popolo mio, sono innocente della vostra idolatria.
+**6:78** Poi, quando vide il sole sorgere, disse: «Questo è il mio signore, questo è più grande». Ma quando tramontò, disse: «O popolo mio, sono innocente della vostra idolatria.
 
 فَلَمَّا رَءَا ٱلشَّمْسَ بَازِغَةًۭ قَالَ هَٰذَا رَبِّى هَٰذَآ أَكْبَرُ ۖ فَلَمَّآ أَفَلَتْ قَالَ يَٰقَوْمِ إِنِّى بَرِىٓءٌۭ مِّمَّا تُشْرِكُونَ
 
-**6:79** Ho diretto la mia attenzione verso Colui che ha creato i cieli e la terra — un monoteista — e non sono tra gli idolatri".
+**6:79** Ho diretto la mia attenzione verso Colui che ha creato i cieli e la terra — un monoteista — e non sono tra gli idolatri».
 
 إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ حَنِيفًۭا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ
 
-**6:80** E il suo popolo discusse con lui. Disse: "Discutete con me di Dio, quando mi ha guidato? Non temo ciò che associate a Lui, a meno che il mio Signore lo voglia. Il mio Signore abbraccia ogni cosa nella conoscenza. Non rifletterete?
+**6:80** E il suo popolo discusse con lui. Disse: «Discutete con me di Dio, quando mi ha guidato? Non temo ciò che associate a Lui, a meno che il mio Signore lo voglia. Il mio Signore abbraccia ogni cosa nella conoscenza. Non rifletterete?
 
 وَحَآجَّهُۥ قَوْمُهُۥ ۚ قَالَ أَتُحَٰٓجُّوٓنِّى فِى ٱللَّهِ وَقَدْ هَدَىٰنِ ۚ وَلَآ أَخَافُ مَا تُشْرِكُونَ بِهِۦٓ إِلَّآ أَن يَشَآءَ رَبِّى شَيْـًۭٔا ۗ وَسِعَ رَبِّى كُلَّ شَىْءٍ عِلْمًا ۗ أَفَلَا تَتَذَكَّرُونَ
 
-**6:81** E perché dovrei temere quelli che associate a Lui, e voi non temete di associare altri a Dio per cui non vi ha mandato giù alcuna autorità? Quale parte ha più diritto alla sicurezza, se siete consapevoli?"
+**6:81** E perché dovrei temere quelli che associate a Lui, e voi non temete di associare altri a Dio per cui non vi ha mandato giù alcuna autorità? Quale parte ha più diritto alla sicurezza, se siete consapevoli?»
 
 وَكَيْفَ أَخَافُ مَآ أَشْرَكْتُمْ وَلَا تَخَافُونَ أَنَّكُمْ أَشْرَكْتُم بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ عَلَيْكُمْ سُلْطَٰنًۭا ۚ فَأَىُّ ٱلْفَرِيقَيْنِ أَحَقُّ بِٱلْأَمْنِ ۖ إِن كُنتُمْ تَعْلَمُونَ
 
@@ -3715,11 +3715,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ۚ فَإِن يَكْفُرْ بِهَا هَٰٓؤُلَآءِ فَقَدْ وَكَّلْنَا بِهَا قَوْمًۭا لَّيْسُوا۟ بِهَا بِكَٰفِرِينَ
 
-**6:90** Quelli sono coloro che Dio ha guidato, quindi segui la loro guida. Di': "Non vi chiedo alcuna ricompensa per esso; è solo un promemoria per tutta l'umanità".
+**6:90** Quelli sono coloro che Dio ha guidato, quindi segui la loro guida. Di': «Non vi chiedo alcuna ricompensa per esso; è solo un promemoria per tutta l'umanità».
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ هَدَى ٱللَّهُ ۖ فَبِهُدَىٰهُمُ ٱقْتَدِهْ ۗ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا ۖ إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَٰلَمِينَ
 
-**6:91** Non valutano Dio come dovrebbe essere valutato, quando dicono: "Dio non ha rivelato nulla ad alcun essere umano". Di': "Chi ha rivelato la Scrittura che Mosè portò — una luce e guida per l'umanità?" La mettete su rotoli, mostrandoli, eppure nascondendo molto. E vi è stato insegnato ciò che non sapevate — né voi, né i vostri antenati. Di': "Dio"; poi lasciali giocare nelle loro speculazioni.
+**6:91** Non valutano Dio come dovrebbe essere valutato, quando dicono: «Dio non ha rivelato nulla ad alcun essere umano». Di': «Chi ha rivelato la Scrittura che Mosè portò — una luce e guida per l'umanità?» La mettete su rotoli, mostrandoli, eppure nascondendo molto. E vi è stato insegnato ciò che non sapevate — né voi, né i vostri antenati. Di': «Dio»; poi lasciali giocare nelle loro speculazioni.
 
 وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِذْ قَالُوا۟ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرٍۢ مِّن شَىْءٍۢ ۗ قُلْ مَنْ أَنزَلَ ٱلْكِتَٰبَ ٱلَّذِى جَآءَ بِهِۦ مُوسَىٰ نُورًۭا وَهُدًۭى لِّلنَّاسِ ۖ تَجْعَلُونَهُۥ قَرَاطِيسَ تُبْدُونَهَا وَتُخْفُونَ كَثِيرًۭا ۖ وَعُلِّمْتُم مَّا لَمْ تَعْلَمُوٓا۟ أَنتُمْ وَلَآ ءَابَآؤُكُمْ ۖ قُلِ ٱللَّهُ ۖ ثُمَّ ذَرْهُمْ فِى خَوْضِهِمْ يَلْعَبُونَ
 
@@ -3727,11 +3727,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَهَٰذَا كِتَٰبٌ أَنزَلْنَٰهُ مُبَارَكٌۭ مُّصَدِّقُ ٱلَّذِى بَيْنَ يَدَيْهِ وَلِتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا ۚ وَٱلَّذِينَ يُؤْمِنُونَ بِٱلْءَاخِرَةِ يُؤْمِنُونَ بِهِۦ ۖ وَهُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ
 
-**6:93** Chi fa un torto maggiore di qualcuno che inventa falsità contro Dio, o dice: "Mi è stato rivelato", quando nulla gli è stato rivelato, o dice: "Rivelerò il simile di ciò che Dio ha rivelato"? Se solo potessi vedere gli ingiusti nelle inondazioni della morte, mentre gli angeli con braccia distese: "Consegnate le vostre anime. Oggi siete ripagati con il tormento della vergogna per aver detto di Dio altro che la verità, e per essere stati troppo orgogliosi per accettare le Sue rivelazioni".
+**6:93** Chi fa un torto maggiore di qualcuno che inventa falsità contro Dio, o dice: «Mi è stato rivelato», quando nulla gli è stato rivelato, o dice: «Rivelerò il simile di ciò che Dio ha rivelato»? Se solo potessi vedere gli ingiusti nelle inondazioni della morte, mentre gli angeli con braccia distese: «Consegnate le vostre anime. Oggi siete ripagati con il tormento della vergogna per aver detto di Dio altro che la verità, e per essere stati troppo orgogliosi per accettare le Sue rivelazioni».
 
 وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ يُوحَ إِلَيْهِ شَىْءٌۭ وَمَن قَالَ سَأُنزِلُ مِثْلَ مَآ أَنزَلَ ٱللَّهُ ۗ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ فِى غَمَرَٰتِ ٱلْمَوْتِ وَٱلْمَلَٰٓئِكَةُ بَاسِطُوٓا۟ أَيْدِيهِمْ أَخْرِجُوٓا۟ أَنفُسَكُمُ ۖ ٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَقُولُونَ عَلَى ٱللَّهِ غَيْرَ ٱلْحَقِّ وَكُنتُمْ عَنْ ءَايَٰتِهِۦ تَسْتَكْبِرُونَ
 
-**6:94** "Siete venuti a Noi individualmente, proprio come vi creammmo la prima volta, lasciandovi dietro tutto ciò che vi demmo. Non vediamo con voi i vostri intercessori — quelli che rivendicavate fossero i vostri soci. Il legame tra voi è tagliato, e ciò che avevate affermato vi ha fallito".
+**6:94** «Siete venuti a Noi individualmente, proprio come vi creammmo la prima volta, lasciandovi dietro tutto ciò che vi demmo. Non vediamo con voi i vostri intercessori — quelli che rivendicavate fossero i vostri soci. Il legame tra voi è tagliato, e ciò che avevate affermato vi ha fallito».
 
 وَلَقَدْ جِئْتُمُونَا فُرَٰدَىٰ كَمَا خَلَقْنَٰكُمْ أَوَّلَ مَرَّةٍۢ وَتَرَكْتُم مَّا خَوَّلْنَٰكُمْ وَرَآءَ ظُهُورِكُمْ ۖ وَمَا نَرَىٰ مَعَكُمْ شُفَعَآءَكُمُ ٱلَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ شُرَكَٰٓؤُا۟ ۚ لَقَد تَّقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنكُم مَّا كُنتُمْ تَزْعُمُونَ
 
@@ -3771,11 +3771,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 لَّا تُدْرِكُهُ ٱلْأَبْصَٰرُ وَهُوَ يُدْرِكُ ٱلْأَبْصَٰرَ ۖ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ
 
-**6:104** "Intuizioni sono venute a voi dal vostro Signore. Chi vede, è a beneficio della sua anima; e chi rimane cieco, è a suo detrimento. Non sono un guardiano su di voi".
+**6:104** «Intuizioni sono venute a voi dal vostro Signore. Chi vede, è a beneficio della sua anima; e chi rimane cieco, è a suo detrimento. Non sono un guardiano su di voi».
 
 قَدْ جَآءَكُم بَصَآئِرُ مِن رَّبِّكُمْ ۖ فَمَنْ أَبْصَرَ فَلِنَفْسِهِۦ ۖ وَمَنْ عَمِىَ فَعَلَيْهَا ۚ وَمَآ أَنَا۠ عَلَيْكُم بِحَفِيظٍۢ
 
-**6:105** Così diversifichiamo le rivelazioni, affinché non dicano: "Hai studiato", e per chiarirle per persone che sanno.
+**6:105** Così diversifichiamo le rivelazioni, affinché non dicano: «Hai studiato», e per chiarirle per persone che sanno.
 
 وَكَذَٰلِكَ نُصَرِّفُ ٱلْءَايَٰتِ وَلِيَقُولُوا۟ دَرَسْتَ وَلِنُبَيِّنَهُۥ لِقَوْمٍۢ يَعْلَمُونَ
 
@@ -3791,7 +3791,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَا تَسُبُّوا۟ ٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ فَيَسُبُّوا۟ ٱللَّهَ عَدْوًۢا بِغَيْرِ عِلْمٍۢ ۗ كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ ثُمَّ إِلَىٰ رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**6:109** Giurano per Dio, con i loro giuramenti più solenni, che se un miracolo venisse a loro, vi crederebbero. Di': "I miracoli sono solo con Dio". Ma come lo sapete? Anche se venisse, ancora non crederebbero.
+**6:109** Giurano per Dio, con i loro giuramenti più solenni, che se un miracolo venisse a loro, vi crederebbero. Di': «I miracoli sono solo con Dio». Ma come lo sapete? Anche se venisse, ancora non crederebbero.
 
 وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ لَئِن جَآءَتْهُمْ ءَايَةٌۭ لَّيُؤْمِنُنَّ بِهَا ۚ قُلْ إِنَّمَا ٱلْءَايَٰتُ عِندَ ٱللَّهِ ۖ وَمَا يُشْعِرُكُمْ أَنَّهَآ إِذَا جَآءَتْ لَا يُؤْمِنُونَ
 
@@ -3811,7 +3811,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلِتَصْغَىٰٓ إِلَيْهِ أَفْـِٔدَةُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ وَلِيَرْضَوْهُ وَلِيَقْتَرِفُوا۟ مَا هُم مُّقْتَرِفُونَ
 
-**6:114** "Cercherò un giudice diverso da Dio, quando è Lui che vi ha rivelato il Libro, spiegato in dettaglio?" Quelli a cui abbiamo dato il Libro sanno che è la verità rivelata dal tuo Signore. Quindi non essere tra quelli che dubitano.
+**6:114** «Cercherò un giudice diverso da Dio, quando è Lui che vi ha rivelato il Libro, spiegato in dettaglio?» Quelli a cui abbiamo dato il Libro sanno che è la verità rivelata dal tuo Signore. Quindi non essere tra quelli che dubitano.
 
 أَفَغَيْرَ ٱللَّهِ أَبْتَغِى حَكَمًۭا وَهُوَ ٱلَّذِىٓ أَنزَلَ إِلَيْكُمُ ٱلْكِتَٰبَ مُفَصَّلًۭا ۚ وَٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ يَعْلَمُونَ أَنَّهُۥ مُنَزَّلٌۭ مِّن رَّبِّكَ بِٱلْحَقِّ ۖ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ
 
@@ -3851,7 +3851,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَكَذَٰلِكَ جَعَلْنَا فِى كُلِّ قَرْيَةٍ أَكَٰبِرَ مُجْرِمِيهَا لِيَمْكُرُوا۟ فِيهَا ۖ وَمَا يَمْكُرُونَ إِلَّا بِأَنفُسِهِمْ وَمَا يَشْعُرُونَ
 
-**6:124** Quando un segno viene a loro, dicono: "Non crederemo a meno che non ci venga dato il simile di ciò che fu dato ai messaggeri di Dio". Dio sa meglio dove porre il Suo messaggio. Umiliazione da Dio e tormento severo affliggeranno i criminali per le loro macchinazioni.
+**6:124** Quando un segno viene a loro, dicono: «Non crederemo a meno che non ci venga dato il simile di ciò che fu dato ai messaggeri di Dio». Dio sa meglio dove porre il Suo messaggio. Umiliazione da Dio e tormento severo affliggeranno i criminali per le loro macchinazioni.
 
 وَإِذَا جَآءَتْهُمْ ءَايَةٌۭ قَالُوا۟ لَن نُّؤْمِنَ حَتَّىٰ نُؤْتَىٰ مِثْلَ مَآ أُوتِىَ رُسُلُ ٱللَّهِ ۘ ٱللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُۥ ۗ سَيُصِيبُ ٱلَّذِينَ أَجْرَمُوا۟ صَغَارٌ عِندَ ٱللَّهِ وَعَذَابٌۭ شَدِيدٌۢ بِمَا كَانُوا۟ يَمْكُرُونَ
 
@@ -3867,7 +3867,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ۞ لَهُمْ دَارُ ٱلسَّلَٰمِ عِندَ رَبِّهِمْ ۖ وَهُوَ وَلِيُّهُم بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**6:128** Nel Giorno in cui Li riunirà tutti insieme: "O assemblea di jinn, avete sfruttato moltitudini di umani". I loro aderenti tra l'umanità diranno: "Signore nostro, abbiamo tratto profitto gli uni dagli altri, ma abbiamo raggiunto il termine che ci hai assegnato". Dirà: "Il Fuoco è la vostra dimora, in cui rimarrete, eccetto come Dio vuole. Il tuo Signore è Saggio e Informato.
+**6:128** Nel Giorno in cui Li riunirà tutti insieme: «O assemblea di jinn, avete sfruttato moltitudini di umani». I loro aderenti tra l'umanità diranno: «Signore nostro, abbiamo tratto profitto gli uni dagli altri, ma abbiamo raggiunto il termine che ci hai assegnato». Dirà: «Il Fuoco è la vostra dimora, in cui rimarrete, eccetto come Dio vuole. Il tuo Signore è Saggio e Informato.
 
 وَيَوْمَ يَحْشُرُهُمْ جَمِيعًۭا يَٰمَعْشَرَ ٱلْجِنِّ قَدِ ٱسْتَكْثَرْتُم مِّنَ ٱلْإِنسِ ۖ وَقَالَ أَوْلِيَآؤُهُم مِّنَ ٱلْإِنسِ رَبَّنَا ٱسْتَمْتَعَ بَعْضُنَا بِبَعْضٍۢ وَبَلَغْنَآ أَجَلَنَا ٱلَّذِىٓ أَجَّلْتَ لَنَا ۚ قَالَ ٱلنَّارُ مَثْوَىٰكُمْ خَٰلِدِينَ فِيهَآ إِلَّا مَا شَآءَ ٱللَّهُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌۭ
 
@@ -3875,7 +3875,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَكَذَٰلِكَ نُوَلِّى بَعْضَ ٱلظَّٰلِمِينَ بَعْضًۢا بِمَا كَانُوا۟ يَكْسِبُونَ
 
-**6:130** "O assemblea di jinn e umani, non vi sono venuti messaggeri tra voi, che vi raccontavano le Mie rivelazioni, e vi ammonivano dell'incontro di questo vostro Giorno?" Diranno: "Testimoniamo contro noi stessi". La vita del mondo li sedusse. Testimonieranno contro se stessi che erano miscredenti.
+**6:130** «O assemblea di jinn e umani, non vi sono venuti messaggeri tra voi, che vi raccontavano le Mie rivelazioni, e vi ammonivano dell'incontro di questo vostro Giorno?» Diranno: «Testimoniamo contro noi stessi». La vita del mondo li sedusse. Testimonieranno contro se stessi che erano miscredenti.
 
 يَٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌۭ مِّنكُمْ يَقُصُّونَ عَلَيْكُمْ ءَايَٰتِى وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا ۚ قَالُوا۟ شَهِدْنَا عَلَىٰٓ أَنفُسِنَا ۖ وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَشَهِدُوا۟ عَلَىٰٓ أَنفُسِهِمْ أَنَّهُمْ كَانُوا۟ كَٰفِرِينَ
 
@@ -3895,11 +3895,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنَّ مَا تُوعَدُونَ لَءَاتٍۢ ۖ وَمَآ أَنتُم بِمُعْجِزِينَ
 
-**6:135** Di': "O popolo mio! Lavorate secondo la vostra capacità, e anch'io lo farò". Verrete a sapere a chi apparterrà il seguito della dimora". Gli ingiusti non prevarranno.
+**6:135** Di': «O popolo mio! Lavorate secondo la vostra capacità, e anch'io lo farò». Verrete a sapere a chi apparterrà il seguito della dimora». Gli ingiusti non prevarranno.
 
 قُلْ يَٰقَوْمِ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنِّى عَامِلٌۭ ۖ فَسَوْفَ تَعْلَمُونَ مَن تَكُونُ لَهُۥ عَٰقِبَةُ ٱلدَّارِ ۗ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
 
-**6:136** E mettono da parte per Dio una parte dei raccolti e del bestiame che ha creato, e dicono: "Questo è per Dio", secondo la loro rivendicazione, "e questo è per i nostri idoli". Ma la parte dei loro idoli non raggiunge Dio, eppure la parte di Dio raggiunge i loro idoli. Malvagio è il loro giudizio.
+**6:136** E mettono da parte per Dio una parte dei raccolti e del bestiame che ha creato, e dicono: «Questo è per Dio», secondo la loro rivendicazione, «e questo è per i nostri idoli». Ma la parte dei loro idoli non raggiunge Dio, eppure la parte di Dio raggiunge i loro idoli. Malvagio è il loro giudizio.
 
 وَجَعَلُوا۟ لِلَّهِ مِمَّا ذَرَأَ مِنَ ٱلْحَرْثِ وَٱلْأَنْعَٰمِ نَصِيبًۭا فَقَالُوا۟ هَٰذَا لِلَّهِ بِزَعْمِهِمْ وَهَٰذَا لِشُرَكَآئِنَا ۖ فَمَا كَانَ لِشُرَكَآئِهِمْ فَلَا يَصِلُ إِلَى ٱللَّهِ ۖ وَمَا كَانَ لِلَّهِ فَهُوَ يَصِلُ إِلَىٰ شُرَكَآئِهِمْ ۗ سَآءَ مَا يَحْكُمُونَ
 
@@ -3907,11 +3907,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍۢ مِّنَ ٱلْمُشْرِكِينَ قَتْلَ أَوْلَٰدِهِمْ شُرَكَآؤُهُمْ لِيُرْدُوهُمْ وَلِيَلْبِسُوا۟ عَلَيْهِمْ دِينَهُمْ ۖ وَلَوْ شَآءَ ٱللَّهُ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ
 
-**6:138** E dicono: "Questi animali e raccolti sono ristretti; nessuno può mangiarli eccetto quelli che permettiamo", secondo le loro rivendicazioni, e animali le cui schiene sono proibite, e animali su cui non pronunciano il nome di Dio — fabbricando menzogne contro di Lui. Li ripagherà per ciò che solevano inventare.
+**6:138** E dicono: «Questi animali e raccolti sono ristretti; nessuno può mangiarli eccetto quelli che permettiamo», secondo le loro rivendicazioni, e animali le cui schiene sono proibite, e animali su cui non pronunciano il nome di Dio — fabbricando menzogne contro di Lui. Li ripagherà per ciò che solevano inventare.
 
 وَقَالُوا۟ هَٰذِهِۦٓ أَنْعَٰمٌۭ وَحَرْثٌ حِجْرٌۭ لَّا يَطْعَمُهَآ إِلَّا مَن نَّشَآءُ بِزَعْمِهِمْ وَأَنْعَٰمٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَٰمٌۭ لَّا يَذْكُرُونَ ٱسْمَ ٱللَّهِ عَلَيْهَا ٱفْتِرَآءً عَلَيْهِ ۚ سَيَجْزِيهِم بِمَا كَانُوا۟ يَفْتَرُونَ
 
-**6:139** E dicono: "Ciò che sta nei ventri di questi animali è esclusivamente per i nostri maschi, e proibito alle nostre mogli". Ma se è nato morto, possono condividerlo. Sicuramente li punirà per le loro affermazioni. È Saggio e Conoscente.
+**6:139** E dicono: «Ciò che sta nei ventri di questi animali è esclusivamente per i nostri maschi, e proibito alle nostre mogli». Ma se è nato morto, possono condividerlo. Sicuramente li punirà per le loro affermazioni. È Saggio e Conoscente.
 
 وَقَالُوا۟ مَا فِى بُطُونِ هَٰذِهِ ٱلْأَنْعَٰمِ خَالِصَةٌۭ لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰٓ أَزْوَٰجِنَا ۖ وَإِن يَكُن مَّيْتَةًۭ فَهُمْ فِيهِ شُرَكَآءُ ۚ سَيَجْزِيهِمْ وَصْفَهُمْ ۚ إِنَّهُۥ حَكِيمٌ عَلِيمٌۭ
 
@@ -3927,15 +3927,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَمِنَ ٱلْأَنْعَٰمِ حَمُولَةًۭ وَفَرْشًۭا ۚ كُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّۭ مُّبِينٌۭ
 
-**6:143** Otto paia: due delle pecore, e due delle capre. Di': "Ha proibito i due maschi, o le due femmine, o ciò che i ventri delle due femmine contengono? Informatemi con conoscenza, se siete veritieri".
+**6:143** Otto paia: due delle pecore, e due delle capre. Di': «Ha proibito i due maschi, o le due femmine, o ciò che i ventri delle due femmine contengono? Informatemi con conoscenza, se siete veritieri».
 
 ثَمَٰنِيَةَ أَزْوَٰجٍۢ ۖ مِّنَ ٱلضَّأْنِ ٱثْنَيْنِ وَمِنَ ٱلْمَعْزِ ٱثْنَيْنِ ۗ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ ۖ نَبِّـُٔونِى بِعِلْمٍ إِن كُنتُمْ صَٰدِقِينَ
 
-**6:144** E due dei cammelli, e due del bestiame. Di': "Ha proibito i due maschi, o le due femmine, o ciò che i ventri delle due femmine contengono? Eravate presenti quando Dio vi impose questo?" Chi fa un torto maggiore di chi inventa menzogne e le attribuisce a Dio, per fuorviare la gente senza conoscenza? Dio non guida le persone malvagie.
+**6:144** E due dei cammelli, e due del bestiame. Di': «Ha proibito i due maschi, o le due femmine, o ciò che i ventri delle due femmine contengono? Eravate presenti quando Dio vi impose questo?» Chi fa un torto maggiore di chi inventa menzogne e le attribuisce a Dio, per fuorviare la gente senza conoscenza? Dio non guida le persone malvagie.
 
 وَمِنَ ٱلْإِبِلِ ٱثْنَيْنِ وَمِنَ ٱلْبَقَرِ ٱثْنَيْنِ ۗ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ ۖ أَمْ كُنتُمْ شُهَدَآءَ إِذْ وَصَّىٰكُمُ ٱللَّهُ بِهَٰذَا ۚ فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا لِّيُضِلَّ ٱلنَّاسَ بِغَيْرِ عِلْمٍ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**6:145** Di': "In ciò che mi è stato rivelato, non trovo nulla proibito a un consumatore che lo mangia, eccetto la carogna, o il sangue versato, o la carne di maiale — perché è impura — o un'offerta peccaminosa dedicata ad altri che Dio. Ma se qualcuno è costretto dalla necessità, senza essere deliberato o malevolo — il tuo Signore perdona ed è Misericordioso.
+**6:145** Di': «In ciò che mi è stato rivelato, non trovo nulla proibito a un consumatore che lo mangia, eccetto la carogna, o il sangue versato, o la carne di maiale — perché è impura — o un'offerta peccaminosa dedicata ad altri che Dio. Ma se qualcuno è costretto dalla necessità, senza essere deliberato o malevolo — il tuo Signore perdona ed è Misericordioso.
 
 قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍۢ يَطْعَمُهُۥٓ إِلَّآ أَن يَكُونَ مَيْتَةً أَوْ دَمًۭا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍۢ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ ۚ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَإِنَّ رَبَّكَ غَفُورٌۭ رَّحِيمٌۭ
 
@@ -3943,23 +3943,23 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍۢ ۖ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ بِعَظْمٍۢ ۚ ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ ۖ وَإِنَّا لَصَٰدِقُونَ
 
-**6:147** Se ti accusano di mentire, di': "Il tuo Signore è Possessore di misericordia infinita, ma la Sua ira non può essere evitata dalle persone colpevoli".
+**6:147** Se ti accusano di mentire, di': «Il tuo Signore è Possessore di misericordia infinita, ma la Sua ira non può essere evitata dalle persone colpevoli».
 
 فَإِن كَذَّبُوكَ فَقُل رَّبُّكُمْ ذُو رَحْمَةٍۢ وَٰسِعَةٍۢ وَلَا يُرَدُّ بَأْسُهُۥ عَنِ ٱلْقَوْمِ ٱلْمُجْرِمِينَ
 
-**6:148** I politeisti diranno: "Se Dio avesse voluto, non avremmo praticato l'idolatria, né lo avrebbero fatto i nostri antenati, né avremmo proibito nulla". Allo stesso modo quelli prima di loro mentirono, finché assaggiarono la Nostra potenza. Di': "Avete qualche conoscenza che potete produrre per noi? Non seguite nulla tranne congetture, e indovinate solo".
+**6:148** I politeisti diranno: «Se Dio avesse voluto, non avremmo praticato l'idolatria, né lo avrebbero fatto i nostri antenati, né avremmo proibito nulla». Allo stesso modo quelli prima di loro mentirono, finché assaggiarono la Nostra potenza. Di': «Avete qualche conoscenza che potete produrre per noi? Non seguite nulla tranne congetture, e indovinate solo».
 
 سَيَقُولُ ٱلَّذِينَ أَشْرَكُوا۟ لَوْ شَآءَ ٱللَّهُ مَآ أَشْرَكْنَا وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن شَىْءٍۢ ۚ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ حَتَّىٰ ذَاقُوا۟ بَأْسَنَا ۗ قُلْ هَلْ عِندَكُم مِّنْ عِلْمٍۢ فَتُخْرِجُوهُ لَنَآ ۖ إِن تَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ أَنتُمْ إِلَّا تَخْرُصُونَ
 
-**6:149** Di': "A Dio appartiene l'argomento conclusivo. Se avesse voluto, vi avrebbe guidati tutti".
+**6:149** Di': «A Dio appartiene l'argomento conclusivo. Se avesse voluto, vi avrebbe guidati tutti».
 
 قُلْ فَلِلَّهِ ٱلْحُجَّةُ ٱلْبَٰلِغَةُ ۖ فَلَوْ شَآءَ لَهَدَىٰكُمْ أَجْمَعِينَ
 
-**6:150** Di': "Producete i vostri testimoni che testimonierebbero che Dio ha proibito questo". Se testimoniano, non testimoniare con loro. E non seguire i capricci di quelli che negano la Nostra rivelazione, e quelli che non credono nell'Aldilà, e quelli che equiparano altri al loro Signore.
+**6:150** Di': «Producete i vostri testimoni che testimonierebbero che Dio ha proibito questo». Se testimoniano, non testimoniare con loro. E non seguire i capricci di quelli che negano la Nostra rivelazione, e quelli che non credono nell'Aldilà, e quelli che equiparano altri al loro Signore.
 
 قُلْ هَلُمَّ شُهَدَآءَكُمُ ٱلَّذِينَ يَشْهَدُونَ أَنَّ ٱللَّهَ حَرَّمَ هَٰذَا ۖ فَإِن شَهِدُوا۟ فَلَا تَشْهَدْ مَعَهُمْ ۚ وَلَا تَتَّبِعْ أَهْوَآءَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ وَهُم بِرَبِّهِمْ يَعْدِلُونَ
 
-**6:151** Di': "Venite, lascia che vi dica ciò che il vostro Signore vi ha proibito: che non associate nulla a Lui; che onoriate i vostri genitori; che non uccidiate i vostri figli a causa della povertà — Noi provvediamo per voi e per loro; che non vi avviciniate alle indecenze, siano esse esteriori o interiori; e che non uccidiate l'anima che Dio ha santificato — eccetto nel corso della giustizia. Tutto questo vi ha imposto, affinché possiate capire".
+**6:151** Di': «Venite, lascia che vi dica ciò che il vostro Signore vi ha proibito: che non associate nulla a Lui; che onoriate i vostri genitori; che non uccidiate i vostri figli a causa della povertà — Noi provvediamo per voi e per loro; che non vi avviciniate alle indecenze, siano esse esteriori o interiori; e che non uccidiate l'anima che Dio ha santificato — eccetto nel corso della giustizia. Tutto questo vi ha imposto, affinché possiate capire».
 
 ۞ قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ ۖ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًۭٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًۭا ۖ وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍۢ ۖ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ ۖ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ ۖ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
 
@@ -3979,15 +3979,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَهَٰذَا كِتَٰبٌ أَنزَلْنَٰهُ مُبَارَكٌۭ فَٱتَّبِعُوهُ وَٱتَّقُوا۟ لَعَلَّكُمْ تُرْحَمُونَ
 
-**6:156** Affinché non diciate: "La Scrittura fu rivelata a due parti prima di noi, e eravamo inconsapevoli dei loro insegnamenti".
+**6:156** Affinché non diciate: «La Scrittura fu rivelata a due parti prima di noi, e eravamo inconsapevoli dei loro insegnamenti».
 
 أَن تَقُولُوٓا۟ إِنَّمَآ أُنزِلَ ٱلْكِتَٰبُ عَلَىٰ طَآئِفَتَيْنِ مِن قَبْلِنَا وَإِن كُنَّا عَن دِرَاسَتِهِمْ لَغَٰفِلِينَ
 
-**6:157** O affinché non diciate: "Se la Scrittura ci fosse stata rivelata, saremmo stati meglio guidati di loro". Chiarificazione è venuta a voi dal vostro Signore, e guida, e misericordia. Chi allora fa un torto maggiore di chi dà la menzogna ai messaggi di Dio, e si allontana da essi? Ripagheremo quelli che si allontanano dai Nostri messaggi con il peggior tipo di punizione, a causa del loro allontanarsi.
+**6:157** O affinché non diciate: «Se la Scrittura ci fosse stata rivelata, saremmo stati meglio guidati di loro». Chiarificazione è venuta a voi dal vostro Signore, e guida, e misericordia. Chi allora fa un torto maggiore di chi dà la menzogna ai messaggi di Dio, e si allontana da essi? Ripagheremo quelli che si allontanano dai Nostri messaggi con il peggior tipo di punizione, a causa del loro allontanarsi.
 
 أَوْ تَقُولُوا۟ لَوْ أَنَّآ أُنزِلَ عَلَيْنَا ٱلْكِتَٰبُ لَكُنَّآ أَهْدَىٰ مِنْهُمْ ۚ فَقَدْ جَآءَكُم بَيِّنَةٌۭ مِّن رَّبِّكُمْ وَهُدًۭى وَرَحْمَةٌۭ ۚ فَمَنْ أَظْلَمُ مِمَّن كَذَّبَ بِـَٔايَٰتِ ٱللَّهِ وَصَدَفَ عَنْهَا ۗ سَنَجْزِى ٱلَّذِينَ يَصْدِفُونَ عَنْ ءَايَٰتِنَا سُوٓءَ ٱلْعَذَابِ بِمَا كَانُوا۟ يَصْدِفُونَ
 
-**6:158** Stanno aspettando qualcosa tranne che gli angeli vengano a loro, o che il tuo Signore arrivi, o che alcuni dei segni del tuo Signore vengano? Nel Giorno in cui alcuni dei segni del tuo Signore vengono, nessuna anima beneficerà della sua fede a meno che non avesse creduto precedentemente, o avesse guadagnato bontà attraverso la sua fede. Di': "Aspettate, anche noi stiamo aspettando".
+**6:158** Stanno aspettando qualcosa tranne che gli angeli vengano a loro, o che il tuo Signore arrivi, o che alcuni dei segni del tuo Signore vengano? Nel Giorno in cui alcuni dei segni del tuo Signore vengono, nessuna anima beneficerà della sua fede a meno che non avesse creduto precedentemente, o avesse guadagnato bontà attraverso la sua fede. Di': «Aspettate, anche noi stiamo aspettando».
 
 هَلْ يَنظُرُونَ إِلَّآ أَن تَأْتِيَهُمُ ٱلْمَلَٰٓئِكَةُ أَوْ يَأْتِىَ رَبُّكَ أَوْ يَأْتِىَ بَعْضُ ءَايَٰتِ رَبِّكَ ۗ يَوْمَ يَأْتِى بَعْضُ ءَايَٰتِ رَبِّكَ لَا يَنفَعُ نَفْسًا إِيمَٰنُهَا لَمْ تَكُنْ ءَامَنَتْ مِن قَبْلُ أَوْ كَسَبَتْ فِىٓ إِيمَٰنِهَا خَيْرًۭا ۗ قُلِ ٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ
 
@@ -3999,11 +3999,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 مَن جَآءَ بِٱلْحَسَنَةِ فَلَهُۥ عَشْرُ أَمْثَالِهَا ۖ وَمَن جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ
 
-**6:161** Di': "Il mio Signore mi ha guidato a un sentiero diritto, una religione retta, il credo di Abramo il Monoteista, che non era un politeista".
+**6:161** Di': «Il mio Signore mi ha guidato a un sentiero diritto, una religione retta, il credo di Abramo il Monoteista, che non era un politeista».
 
 قُلْ إِنَّنِى هَدَىٰنِى رَبِّىٓ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ دِينًۭا قِيَمًۭا مِّلَّةَ إِبْرَٰهِيمَ حَنِيفًۭا ۚ وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
 
-**6:162** Di': "La mia preghiera e la mia adorazione, e la mia vita e la mia morte, sono dedicate a Dio, il Signore dei Mondi.
+**6:162** Di': «La mia preghiera e la mia adorazione, e la mia vita e la mia morte, sono dedicate a Dio, il Signore dei Mondi.
 
 قُلْ إِنَّ صَلَاتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
@@ -4011,7 +4011,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 لَا شَرِيكَ لَهُۥ ۖ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا۠ أَوَّلُ ٱلْمُسْلِمِينَ
 
-**6:164** Di': "Devo cercare un Signore diverso da Dio, quando è il Signore di ogni cosa?" Nessuna anima ottiene eccetto ciò che le è dovuto, e nessuna anima porta i fardelli di un'altra. Poi al vostro Signore è il vostro ritorno, poi Lui vi informerà riguardo alle vostre dispute.
+**6:164** Di': «Devo cercare un Signore diverso da Dio, quando è il Signore di ogni cosa?» Nessuna anima ottiene eccetto ciò che le è dovuto, e nessuna anima porta i fardelli di un'altra. Poi al vostro Signore è il vostro ritorno, poi Lui vi informerà riguardo alle vostre dispute.
 
 قُلْ أَغَيْرَ ٱللَّهِ أَبْغِى رَبًّۭا وَهُوَ رَبُّ كُلِّ شَىْءٍۢ ۚ وَلَا تَكْسِبُ كُلُّ نَفْسٍ إِلَّا عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ۚ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
 
@@ -4047,7 +4047,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَكَم مِّن قَرْيَةٍ أَهْلَكْنَٰهَا فَجَآءَهَا بَأْسُنَا بَيَٰتًا أَوْ هُمْ قَآئِلُونَ
 
-**7:5** Quando la Nostra potenza è giunta su di loro, il loro unico grido è stato: "Siamo stati davvero degli ingiusti."
+**7:5** Quando la Nostra potenza è giunta su di loro, il loro unico grido è stato: «Siamo stati davvero degli ingiusti.»
 
 فَمَا كَانَ دَعْوَىٰهُمْ إِذْ جَآءَهُم بَأْسُنَآ إِلَّآ أَن قَالُوٓا۟ إِنَّا كُنَّا ظَٰلِمِينَ
 
@@ -4071,63 +4071,63 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَقَدْ مَكَّنَّٰكُمْ فِى ٱلْأَرْضِ وَجَعَلْنَا لَكُمْ فِيهَا مَعَٰيِشَ ۗ قَلِيلًۭا مَّا تَشْكُرُونَ
 
-**7:11** Vi abbiamo creati, poi vi abbiamo plasmati, poi abbiamo detto agli angeli: "Prostratevi davanti ad Adamo;" così si sono prostrati, tranne Satana; non era tra quelli che si sono prostrati.
+**7:11** Vi abbiamo creati, poi vi abbiamo plasmati, poi abbiamo detto agli angeli: «Prostratevi davanti ad Adamo;» così si sono prostrati, tranne Satana; non era tra quelli che si sono prostrati.
 
 وَلَقَدْ خَلَقْنَٰكُمْ ثُمَّ صَوَّرْنَٰكُمْ ثُمَّ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّٰجِدِينَ
 
-**7:12** Ha detto: "Cosa ti ha impedito di prostrarti quando te l'ho comandato?" Ha detto: "Io sono migliore di lui; Tu mi hai creato dal fuoco, e Tu lo hai creato dal fango."
+**7:12** Ha detto: «Cosa ti ha impedito di prostrarti quando te l'ho comandato?» Ha detto: «Io sono migliore di lui; Tu mi hai creato dal fuoco, e Tu lo hai creato dal fango.»
 
 قَالَ مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ ۖ قَالَ أَنَا۠ خَيْرٌۭ مِّنْهُ خَلَقْتَنِى مِن نَّارٍۢ وَخَلَقْتَهُۥ مِن طِينٍۢ
 
-**7:13** Ha detto: "Scendi da lì! Non spetta a te comportarti con arroganza lì. Esci! Sei uno dei vili!"
+**7:13** Ha detto: «Scendi da lì! Non spetta a te comportarti con arroganza lì. Esci! Sei uno dei vili!»
 
 قَالَ فَٱهْبِطْ مِنْهَا فَمَا يَكُونُ لَكَ أَن تَتَكَبَّرَ فِيهَا فَٱخْرُجْ إِنَّكَ مِنَ ٱلصَّٰغِرِينَ
 
-**7:14** Ha detto: "Dammi una tregua, fino al Giorno in cui saranno risuscitati."
+**7:14** Ha detto: «Dammi una tregua, fino al Giorno in cui saranno risuscitati.»
 
 قَالَ أَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
 
-**7:15** Ha detto: "Sei tra quelli a cui è stata data una tregua."
+**7:15** Ha detto: «Sei tra quelli a cui è stata data una tregua.»
 
 قَالَ إِنَّكَ مِنَ ٱلْمُنظَرِينَ
 
-**7:16** Ha detto: "Poiché mi hai ingannato, li attenderò in agguato sulla Tua retta via.
+**7:16** Ha detto: «Poiché mi hai ingannato, li attenderò in agguato sulla Tua retta via.
 
 قَالَ فَبِمَآ أَغْوَيْتَنِى لَأَقْعُدَنَّ لَهُمْ صِرَٰطَكَ ٱلْمُسْتَقِيمَ
 
-**7:17** Poi verrò su di loro da davanti a loro, e da dietro di loro, e dalla loro destra, e dalla loro sinistra; e non troverai la maggior parte di loro riconoscenti."
+**7:17** Poi verrò su di loro da davanti a loro, e da dietro di loro, e dalla loro destra, e dalla loro sinistra; e non troverai la maggior parte di loro riconoscenti.»
 
 ثُمَّ لَءَاتِيَنَّهُم مِّنۢ بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ وَعَنْ أَيْمَٰنِهِمْ وَعَن شَمَآئِلِهِمْ ۖ وَلَا تَجِدُ أَكْثَرَهُمْ شَٰكِرِينَ
 
-**7:18** Ha detto: "Esci da lì, disprezzato e sconfitto. Chiunque tra loro ti seguirà — riempirò l'Inferno con tutti voi.
+**7:18** Ha detto: «Esci da lì, disprezzato e sconfitto. Chiunque tra loro ti seguirà — riempirò l'Inferno con tutti voi.
 
 قَالَ ٱخْرُجْ مِنْهَا مَذْءُومًۭا مَّدْحُورًۭا ۖ لَّمَن تَبِعَكَ مِنْهُمْ لَأَمْلَأَنَّ جَهَنَّمَ مِنكُمْ أَجْمَعِينَ
 
-**7:19** E tu, Adamo, abita nel Giardino, tu e tua moglie, e mangiate ciò che desiderate; ma non avvicinatevi a questo albero, altrimenti diventerete peccatori."
+**7:19** E tu, Adamo, abita nel Giardino, tu e tua moglie, e mangiate ciò che desiderate; ma non avvicinatevi a questo albero, altrimenti diventerete peccatori.»
 
 وَيَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ فَكُلَا مِنْ حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
 
-**7:20** Ma Satana sussurrò loro, per rivelare loro la loro nudità, che era invisibile per loro. Ha detto: "Il vostro Signore vi ha proibito questo albero solo perché non diventiate angeli, o non diventiate immortali."
+**7:20** Ma Satana sussurrò loro, per rivelare loro la loro nudità, che era invisibile per loro. Ha detto: «Il vostro Signore vi ha proibito questo albero solo perché non diventiate angeli, o non diventiate immortali.»
 
 فَوَسْوَسَ لَهُمَا ٱلشَّيْطَٰنُ لِيُبْدِىَ لَهُمَا مَا وُۥرِىَ عَنْهُمَا مِن سَوْءَٰتِهِمَا وَقَالَ مَا نَهَىٰكُمَا رَبُّكُمَا عَنْ هَٰذِهِ ٱلشَّجَرَةِ إِلَّآ أَن تَكُونَا مَلَكَيْنِ أَوْ تَكُونَا مِنَ ٱلْخَٰلِدِينَ
 
-**7:21** E giurò loro: "Sono un sincero consigliere per voi."
+**7:21** E giurò loro: «Sono un sincero consigliere per voi.»
 
 وَقَاسَمَهُمَآ إِنِّى لَكُمَا لَمِنَ ٱلنَّٰصِحِينَ
 
-**7:22** Così li ingannò con l'inganno. E quando assaggiarono l'albero, la loro nudità divenne evidente per loro, e cominciarono a coprirsi con le foglie del Giardino. E il loro Signore li chiamò: "Non vi avevo proibito questo albero, e non vi avevo detto che Satana è un nemico giurato per voi?"
+**7:22** Così li ingannò con l'inganno. E quando assaggiarono l'albero, la loro nudità divenne evidente per loro, e cominciarono a coprirsi con le foglie del Giardino. E il loro Signore li chiamò: «Non vi avevo proibito questo albero, e non vi avevo detto che Satana è un nemico giurato per voi?»
 
 فَدَلَّىٰهُمَا بِغُرُورٍۢ ۚ فَلَمَّا ذَاقَا ٱلشَّجَرَةَ بَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ ۖ وَنَادَىٰهُمَا رَبُّهُمَآ أَلَمْ أَنْهَكُمَا عَن تِلْكُمَا ٱلشَّجَرَةِ وَأَقُل لَّكُمَآ إِنَّ ٱلشَّيْطَٰنَ لَكُمَا عَدُوٌّۭ مُّبِينٌۭ
 
-**7:23** Dissero: "Signore nostro, abbiamo fatto torto a noi stessi. Se Tu non ci perdoni, e non hai misericordia di noi, saremo tra i perdenti."
+**7:23** Dissero: «Signore nostro, abbiamo fatto torto a noi stessi. Se Tu non ci perdoni, e non hai misericordia di noi, saremo tra i perdenti.»
 
 قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَٰسِرِينَ
 
-**7:24** Ha detto: "Cadete, alcuni di voi nemici gli uni degli altri. Sulla terra avrete dimora e mezzi per vivere per un po'."
+**7:24** Ha detto: «Cadete, alcuni di voi nemici gli uni degli altri. Sulla terra avrete dimora e mezzi per vivere per un po'.»
 
 قَالَ ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّۭ ۖ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّۭ وَمَتَٰعٌ إِلَىٰ حِينٍۢ
 
-**7:25** Ha detto: "In essa vivrete, e in essa morirete, e da essa sarete fatti uscire."
+**7:25** Ha detto: «In essa vivrete, e in essa morirete, e da essa sarete fatti uscire.»
 
 قَالَ فِيهَا تَحْيَوْنَ وَفِيهَا تَمُوتُونَ وَمِنْهَا تُخْرَجُونَ
 
@@ -4139,11 +4139,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 يَٰبَنِىٓ ءَادَمَ لَا يَفْتِنَنَّكُمُ ٱلشَّيْطَٰنُ كَمَآ أَخْرَجَ أَبَوَيْكُم مِّنَ ٱلْجَنَّةِ يَنزِعُ عَنْهُمَا لِبَاسَهُمَا لِيُرِيَهُمَا سَوْءَٰتِهِمَآ ۗ إِنَّهُۥ يَرَىٰكُمْ هُوَ وَقَبِيلُهُۥ مِنْ حَيْثُ لَا تَرَوْنَهُمْ ۗ إِنَّا جَعَلْنَا ٱلشَّيَٰطِينَ أَوْلِيَآءَ لِلَّذِينَ لَا يُؤْمِنُونَ
 
-**7:28** E quando commettono una indecenza, dicono: "Abbiamo trovato i nostri genitori a fare questo, e Dio ci ha comandato di farlo." Di': "Dio non comanda le indecenze. State attribuendo a Dio ciò che non sapete?"
+**7:28** E quando commettono una indecenza, dicono: «Abbiamo trovato i nostri genitori a fare questo, e Dio ci ha comandato di farlo.» Di': «Dio non comanda le indecenze. State attribuendo a Dio ciò che non sapete?»
 
 وَإِذَا فَعَلُوا۟ فَٰحِشَةًۭ قَالُوا۟ وَجَدْنَا عَلَيْهَآ ءَابَآءَنَا وَٱللَّهُ أَمَرَنَا بِهَا ۗ قُلْ إِنَّ ٱللَّهَ لَا يَأْمُرُ بِٱلْفَحْشَآءِ ۖ أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ
 
-**7:29** Di': "Il mio Signore comanda la giustizia, e di stare devoti in ogni luogo di adorazione. Quindi invocateLo, e dedicate la vostra fede solo a Lui. Come vi ha originati, così ritornerete."
+**7:29** Di': «Il mio Signore comanda la giustizia, e di stare devoti in ogni luogo di adorazione. Quindi invocateLo, e dedicate la vostra fede solo a Lui. Come vi ha originati, così ritornerete.»
 
 قُلْ أَمَرَ رَبِّى بِٱلْقِسْطِ ۖ وَأَقِيمُوا۟ وُجُوهَكُمْ عِندَ كُلِّ مَسْجِدٍۢ وَٱدْعُوهُ مُخْلِصِينَ لَهُ ٱلدِّينَ ۚ كَمَا بَدَأَكُمْ تَعُودُونَ
 
@@ -4155,11 +4155,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ۞ يَٰبَنِىٓ ءَادَمَ خُذُوا۟ زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍۢ وَكُلُوا۟ وَٱشْرَبُوا۟ وَلَا تُسْرِفُوٓا۟ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ
 
-**7:32** Di': "Chi ha proibito gli ornamenti di Dio che Lui ha prodotto per i Suoi servi, e le delizie dei mezzi di vita?" Di': "Sono per coloro che credono, in questo mondo presente, ma esclusivamente loro nel Giorno della Risurrezione." Così dettagliamo le rivelazioni per persone che sanno.
+**7:32** Di': «Chi ha proibito gli ornamenti di Dio che Lui ha prodotto per i Suoi servi, e le delizie dei mezzi di vita?» Di': «Sono per coloro che credono, in questo mondo presente, ma esclusivamente loro nel Giorno della Risurrezione.» Così dettagliamo le rivelazioni per persone che sanno.
 
 قُلْ مَنْ حَرَّمَ زِينَةَ ٱللَّهِ ٱلَّتِىٓ أَخْرَجَ لِعِبَادِهِۦ وَٱلطَّيِّبَٰتِ مِنَ ٱلرِّزْقِ ۚ قُلْ هِىَ لِلَّذِينَ ءَامَنُوا۟ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا خَالِصَةًۭ يَوْمَ ٱلْقِيَٰمَةِ ۗ كَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍۢ يَعْلَمُونَ
 
-**7:33** Di': "Il mio Signore ha proibito le immoralità — sia aperte che segrete — e il peccato, e l'aggressione ingiustificata, e che associ a Dio qualcosa per cui Lui non ha rivelato nessuna sanzione, e che diciate su Dio ciò che non sapete."
+**7:33** Di': «Il mio Signore ha proibito le immoralità — sia aperte che segrete — e il peccato, e l'aggressione ingiustificata, e che associ a Dio qualcosa per cui Lui non ha rivelato nessuna sanzione, e che diciate su Dio ciò che non sapete.»
 
 قُلْ إِنَّمَا حَرَّمَ رَبِّىَ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَٱلْإِثْمَ وَٱلْبَغْىَ بِغَيْرِ ٱلْحَقِّ وَأَن تُشْرِكُوا۟ بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَٰنًۭا وَأَن تَقُولُوا۟ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ
 
@@ -4175,15 +4175,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَٱسْتَكْبَرُوا۟ عَنْهَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
-**7:37** Chi fa un torto maggiore di colui che inventa menzogne su Dio, o nega le Sue rivelazioni? Questi — la loro parte del decreto li raggiungerà. Finché, quando i Nostri inviati verranno a loro, per prendere le loro anime, diranno: "Dove sono quelli che pregavate oltre a Dio?" Diranno: "Ci hanno abbandonati," e testimonieranno contro se stessi di essere stati miscredenti.
+**7:37** Chi fa un torto maggiore di colui che inventa menzogne su Dio, o nega le Sue rivelazioni? Questi — la loro parte del decreto li raggiungerà. Finché, quando i Nostri inviati verranno a loro, per prendere le loro anime, diranno: «Dove sono quelli che pregavate oltre a Dio?» Diranno: «Ci hanno abbandonati,» e testimonieranno contro se stessi di essere stati miscredenti.
 
 فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِـَٔايَٰتِهِۦٓ ۚ أُو۟لَٰٓئِكَ يَنَالُهُمْ نَصِيبُهُم مِّنَ ٱلْكِتَٰبِ ۖ حَتَّىٰٓ إِذَا جَآءَتْهُمْ رُسُلُنَا يَتَوَفَّوْنَهُمْ قَالُوٓا۟ أَيْنَ مَا كُنتُمْ تَدْعُونَ مِن دُونِ ٱللَّهِ ۖ قَالُوا۟ ضَلُّوا۟ عَنَّا وَشَهِدُوا۟ عَلَىٰٓ أَنفُسِهِمْ أَنَّهُمْ كَانُوا۟ كَٰفِرِينَ
 
-**7:38** Dirà: "Unitevi alle folle di jinn e umani che sono entrati nel Fuoco prima di voi." Ogni volta che una folla entra, maledirà la sua folla sorella. Finché, quando saranno tutti lì, l'ultima di loro dirà alla prima di loro: "Signore nostro, questi sono quelli che ci hanno sviati, quindi infliggi loro una doppia punizione nel Fuoco." Dirà: "Ognuno avrà una doppia, ma voi non lo sapete."
+**7:38** Dirà: «Unitevi alle folle di jinn e umani che sono entrati nel Fuoco prima di voi.» Ogni volta che una folla entra, maledirà la sua folla sorella. Finché, quando saranno tutti lì, l'ultima di loro dirà alla prima di loro: «Signore nostro, questi sono quelli che ci hanno sviati, quindi infliggi loro una doppia punizione nel Fuoco.» Dirà: «Ognuno avrà una doppia, ma voi non lo sapete.»
 
 قَالَ ٱدْخُلُوا۟ فِىٓ أُمَمٍۢ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ فِى ٱلنَّارِ ۖ كُلَّمَا دَخَلَتْ أُمَّةٌۭ لَّعَنَتْ أُخْتَهَا ۖ حَتَّىٰٓ إِذَا ٱدَّارَكُوا۟ فِيهَا جَمِيعًۭا قَالَتْ أُخْرَىٰهُمْ لِأُولَىٰهُمْ رَبَّنَا هَٰٓؤُلَآءِ أَضَلُّونَا فَـَٔاتِهِمْ عَذَابًۭا ضِعْفًۭا مِّنَ ٱلنَّارِ ۖ قَالَ لِكُلٍّۢ ضِعْفٌۭ وَلَٰكِن لَّا تَعْلَمُونَ
 
-**7:39** La prima di loro dirà all'ultima di loro: "Non avete nessun vantaggio su di noi, quindi assaggiate il tormento per ciò che guadagnavate."
+**7:39** La prima di loro dirà all'ultima di loro: «Non avete nessun vantaggio su di noi, quindi assaggiate il tormento per ciò che guadagnavate.»
 
 وَقَالَتْ أُولَىٰهُمْ لِأُخْرَىٰهُمْ فَمَا كَانَ لَكُمْ عَلَيْنَا مِن فَضْلٍۢ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْسِبُونَ
 
@@ -4199,35 +4199,35 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
-**7:43** Rimuoveremo qualsiasi rancore sia nei loro cuori. Fiumi scorreranno sotto di loro. E diranno: "Lode a Dio, che ci ha guidati a questo. Se Dio non ci avesse guidati, non saremmo mai stati guidati. I messaggeri del nostro Signore sono davvero venuti con la verità." E sarà proclamato loro: "Questo è il Giardino che siete fatti ereditare, a causa di ciò che facevate."
+**7:43** Rimuoveremo qualsiasi rancore sia nei loro cuori. Fiumi scorreranno sotto di loro. E diranno: «Lode a Dio, che ci ha guidati a questo. Se Dio non ci avesse guidati, non saremmo mai stati guidati. I messaggeri del nostro Signore sono davvero venuti con la verità.» E sarà proclamato loro: «Questo è il Giardino che siete fatti ereditare, a causa di ciò che facevate.»
 
 وَنَزَعْنَا مَا فِى صُدُورِهِم مِّنْ غِلٍّۢ تَجْرِى مِن تَحْتِهِمُ ٱلْأَنْهَٰرُ ۖ وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى هَدَىٰنَا لِهَٰذَا وَمَا كُنَّا لِنَهْتَدِىَ لَوْلَآ أَنْ هَدَىٰنَا ٱللَّهُ ۖ لَقَدْ جَآءَتْ رُسُلُ رَبِّنَا بِٱلْحَقِّ ۖ وَنُودُوٓا۟ أَن تِلْكُمُ ٱلْجَنَّةُ أُورِثْتُمُوهَا بِمَا كُنتُمْ تَعْمَلُونَ
 
-**7:44** E gli abitanti del Giardino grideranno agli abitanti del Fuoco: "Abbiamo trovato vero ciò che il nostro Signore ci ha promesso; avete trovato vero ciò che il vostro Signore vi ha promesso?" Diranno: "Sì." Allora un annunciatore annuncerà in mezzo a loro: "La maledizione di Dio è sugli ingiusti."
+**7:44** E gli abitanti del Giardino grideranno agli abitanti del Fuoco: «Abbiamo trovato vero ciò che il nostro Signore ci ha promesso; avete trovato vero ciò che il vostro Signore vi ha promesso?» Diranno: «Sì.» Allora un annunciatore annuncerà in mezzo a loro: «La maledizione di Dio è sugli ingiusti.»
 
 وَنَادَىٰٓ أَصْحَٰبُ ٱلْجَنَّةِ أَصْحَٰبَ ٱلنَّارِ أَن قَدْ وَجَدْنَا مَا وَعَدَنَا رَبُّنَا حَقًّۭا فَهَلْ وَجَدتُّم مَّا وَعَدَ رَبُّكُمْ حَقًّۭا ۖ قَالُوا۟ نَعَمْ ۚ فَأَذَّنَ مُؤَذِّنٌۢ بَيْنَهُمْ أَن لَّعْنَةُ ٱللَّهِ عَلَى ٱلظَّٰلِمِينَ
 
-**7:45** "Coloro che ostacolano il cammino di Dio, e cercano di distorcerlo, e che negano l'Aldilà."
+**7:45** «Coloro che ostacolano il cammino di Dio, e cercano di distorcerlo, e che negano l'Aldilà.»
 
 ٱلَّذِينَ يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًۭا وَهُم بِٱلْءَاخِرَةِ كَٰفِرُونَ
 
-**7:46** E tra loro c'è una divisione, e sulle Alture ci sono uomini che riconoscono ognuno dai loro tratti. Chiameranno gli abitanti del Giardino: "Pace su di voi." Non vi sono entrati, ma sperano.
+**7:46** E tra loro c'è una divisione, e sulle Alture ci sono uomini che riconoscono ognuno dai loro tratti. Chiameranno gli abitanti del Giardino: «Pace su di voi.» Non vi sono entrati, ma sperano.
 
 وَبَيْنَهُمَا حِجَابٌۭ ۚ وَعَلَى ٱلْأَعْرَافِ رِجَالٌۭ يَعْرِفُونَ كُلًّۢا بِسِيمَىٰهُمْ ۚ وَنَادَوْا۟ أَصْحَٰبَ ٱلْجَنَّةِ أَن سَلَٰمٌ عَلَيْكُمْ ۚ لَمْ يَدْخُلُوهَا وَهُمْ يَطْمَعُونَ
 
-**7:47** E quando i loro occhi saranno rivolti verso gli abitanti del Fuoco, diranno: "Signore nostro, non metterci tra le persone ingiuste."
+**7:47** E quando i loro occhi saranno rivolti verso gli abitanti del Fuoco, diranno: «Signore nostro, non metterci tra le persone ingiuste.»
 
 ۞ وَإِذَا صُرِفَتْ أَبْصَٰرُهُمْ تِلْقَآءَ أَصْحَٰبِ ٱلنَّارِ قَالُوا۟ رَبَّنَا لَا تَجْعَلْنَا مَعَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
 
-**7:48** E gli abitanti delle Alture chiameranno uomini che riconoscono dai loro tratti, dicendo: "Le vostre accumulazioni non vi sono servite, né la vostra arroganza."
+**7:48** E gli abitanti delle Alture chiameranno uomini che riconoscono dai loro tratti, dicendo: «Le vostre accumulazioni non vi sono servite, né la vostra arroganza.»
 
 وَنَادَىٰٓ أَصْحَٰبُ ٱلْأَعْرَافِ رِجَالًۭا يَعْرِفُونَهُم بِسِيمَىٰهُمْ قَالُوا۟ مَآ أَغْنَىٰ عَنكُمْ جَمْعُكُمْ وَمَا كُنتُمْ تَسْتَكْبِرُونَ
 
-**7:49** "Sono questi quelli che avete giurato che Dio non toccherà con misericordia?" "Entrate nel Giardino; non avete nulla da temere, e non vi affliggerete."
+**7:49** «Sono questi quelli che avete giurato che Dio non toccherà con misericordia?» «Entrate nel Giardino; non avete nulla da temere, e non vi affliggerete.»
 
 أَهَٰٓؤُلَآءِ ٱلَّذِينَ أَقْسَمْتُمْ لَا يَنَالُهُمُ ٱللَّهُ بِرَحْمَةٍ ۚ ٱدْخُلُوا۟ ٱلْجَنَّةَ لَا خَوْفٌ عَلَيْكُمْ وَلَآ أَنتُمْ تَحْزَنُونَ
 
-**7:50** Gli abitanti del Fuoco chiameranno gli abitanti del Giardino: "Versate un po' d'acqua su di noi, o un po' di ciò che Dio vi ha fornito." Diranno: "Dio li ha proibiti per i miscredenti."
+**7:50** Gli abitanti del Fuoco chiameranno gli abitanti del Giardino: «Versate un po' d'acqua su di noi, o un po' di ciò che Dio vi ha fornito.» Diranno: «Dio li ha proibiti per i miscredenti.»
 
 وَنَادَىٰٓ أَصْحَٰبُ ٱلنَّارِ أَصْحَٰبَ ٱلْجَنَّةِ أَنْ أَفِيضُوا۟ عَلَيْنَا مِنَ ٱلْمَآءِ أَوْ مِمَّا رَزَقَكُمُ ٱللَّهُ ۚ قَالُوٓا۟ إِنَّ ٱللَّهَ حَرَّمَهُمَا عَلَى ٱلْكَٰفِرِينَ
 
@@ -4239,7 +4239,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَقَدْ جِئْنَٰهُم بِكِتَٰبٍۢ فَصَّلْنَٰهُ عَلَىٰ عِلْمٍ هُدًۭى وَرَحْمَةًۭ لِّقَوْمٍۢ يُؤْمِنُونَ
 
-**7:53** Stanno aspettando altro se non il suo compimento? Il Giorno in cui il suo compimento si avvererà, coloro che lo avevano ignorato prima diranno: "I messaggeri del nostro Signore sono davvero venuti con la verità. Abbiamo qualche intercessore che interceda per noi? Oppure, potremmo essere rimandati indietro, per comportarci diversamente da come ci comportavamo prima?" Hanno rovinato le loro anime, e ciò che inventavano li ha abbandonati.
+**7:53** Stanno aspettando altro se non il suo compimento? Il Giorno in cui il suo compimento si avvererà, coloro che lo avevano ignorato prima diranno: «I messaggeri del nostro Signore sono davvero venuti con la verità. Abbiamo qualche intercessore che interceda per noi? Oppure, potremmo essere rimandati indietro, per comportarci diversamente da come ci comportavamo prima?» Hanno rovinato le loro anime, e ciò che inventavano li ha abbandonati.
 
 هَلْ يَنظُرُونَ إِلَّا تَأْوِيلَهُۥ ۚ يَوْمَ يَأْتِى تَأْوِيلُهُۥ يَقُولُ ٱلَّذِينَ نَسُوهُ مِن قَبْلُ قَدْ جَآءَتْ رُسُلُ رَبِّنَا بِٱلْحَقِّ فَهَل لَّنَا مِن شُفَعَآءَ فَيَشْفَعُوا۟ لَنَآ أَوْ نُرَدُّ فَنَعْمَلَ غَيْرَ ٱلَّذِى كُنَّا نَعْمَلُ ۚ قَدْ خَسِرُوٓا۟ أَنفُسَهُمْ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ
 
@@ -4263,23 +4263,23 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَٱلْبَلَدُ ٱلطَّيِّبُ يَخْرُجُ نَبَاتُهُۥ بِإِذْنِ رَبِّهِۦ ۖ وَٱلَّذِى خَبُثَ لَا يَخْرُجُ إِلَّا نَكِدًۭا ۚ كَذَٰلِكَ نُصَرِّفُ ٱلْءَايَٰتِ لِقَوْمٍۢ يَشْكُرُونَ
 
-**7:59** Abbiamo mandato Noè al suo popolo. Ha detto: "O popolo mio! Adorate Dio; non avete altro dio oltre a Lui. Temo per voi la punizione di un Giorno tremendo."
+**7:59** Abbiamo mandato Noè al suo popolo. Ha detto: «O popolo mio! Adorate Dio; non avete altro dio oltre a Lui. Temo per voi la punizione di un Giorno tremendo.»
 
 لَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَقَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥٓ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍۢ
 
-**7:60** I dignitari tra il suo popolo dissero: "Vediamo che sei in errore evidente."
+**7:60** I dignitari tra il suo popolo dissero: «Vediamo che sei in errore evidente.»
 
 قَالَ ٱلْمَلَأُ مِن قَوْمِهِۦٓ إِنَّا لَنَرَىٰكَ فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
-**7:61** Ha detto: "O popolo mio, non sono in errore, ma sono un messaggero del Signore dei Mondi."
+**7:61** Ha detto: «O popolo mio, non sono in errore, ma sono un messaggero del Signore dei Mondi.»
 
 قَالَ يَٰقَوْمِ لَيْسَ بِى ضَلَٰلَةٌۭ وَلَٰكِنِّى رَسُولٌۭ مِّن رَّبِّ ٱلْعَٰلَمِينَ
 
-**7:62** "Vi consegno i messaggi del mio Signore, e vi consiglio, e so da Dio ciò che voi non sapete."
+**7:62** «Vi consegno i messaggi del mio Signore, e vi consiglio, e so da Dio ciò che voi non sapete.»
 
 أُبَلِّغُكُمْ رِسَٰلَٰتِ رَبِّى وَأَنصَحُ لَكُمْ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ
 
-**7:63** "Vi meravigliate che un promemoria vi sia giunto dal vostro Signore, attraverso un uomo tra voi, per ammonirvi, e per guidarvi alla rettitudine, affinché possiate ottenere misericordia?"
+**7:63** «Vi meravigliate che un promemoria vi sia giunto dal vostro Signore, attraverso un uomo tra voi, per ammonirvi, e per guidarvi alla rettitudine, affinché possiate ottenere misericordia?»
 
 أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ وَلِتَتَّقُوا۟ وَلَعَلَّكُمْ تُرْحَمُونَ
 
@@ -4287,31 +4287,31 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَكَذَّبُوهُ فَأَنجَيْنَٰهُ وَٱلَّذِينَ مَعَهُۥ فِى ٱلْفُلْكِ وَأَغْرَقْنَا ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَآ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًا عَمِينَ
 
-**7:65** E ad Aad, il loro fratello Hud. Ha detto: "O popolo mio! Adorate Dio; non avete altro dio oltre a Lui. Non prenderete precauzione?"
+**7:65** E ad Aad, il loro fratello Hud. Ha detto: «O popolo mio! Adorate Dio; non avete altro dio oltre a Lui. Non prenderete precauzione?»
 
 ۞ وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًۭا ۗ قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥٓ ۚ أَفَلَا تَتَّقُونَ
 
-**7:66** L'élite del suo popolo che non credeva disse: "Vediamo stoltezza in te, e pensiamo che tu sia un bugiardo."
+**7:66** L'élite del suo popolo che non credeva disse: «Vediamo stoltezza in te, e pensiamo che tu sia un bugiardo.»
 
 قَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦٓ إِنَّا لَنَرَىٰكَ فِى سَفَاهَةٍۢ وَإِنَّا لَنَظُنُّكَ مِنَ ٱلْكَٰذِبِينَ
 
-**7:67** Ha detto: "O popolo mio! Non c'è stoltezza in me, ma sono un messaggero del Signore dei Mondi.
+**7:67** Ha detto: «O popolo mio! Non c'è stoltezza in me, ma sono un messaggero del Signore dei Mondi.
 
 قَالَ يَٰقَوْمِ لَيْسَ بِى سَفَاهَةٌۭ وَلَٰكِنِّى رَسُولٌۭ مِّن رَّبِّ ٱلْعَٰلَمِينَ
 
-**7:68** "Vi trasmetto i messaggi del mio Signore, e sono un consigliere affidabile per voi."
+**7:68** «Vi trasmetto i messaggi del mio Signore, e sono un consigliere affidabile per voi.»
 
 أُبَلِّغُكُمْ رِسَٰلَٰتِ رَبِّى وَأَنَا۠ لَكُمْ نَاصِحٌ أَمِينٌ
 
-**7:69** "Siete sorpresi che un promemoria vi sia giunto dal vostro Signore, attraverso un uomo tra voi, per ammonirvi? Ricordate come vi ha fatti successori dopo il popolo di Noè, e vi ha aumentati molto in statura. E ricordate le benedizioni di Dio, affinché possiate prosperare."
+**7:69** «Siete sorpresi che un promemoria vi sia giunto dal vostro Signore, attraverso un uomo tra voi, per ammonirvi? Ricordate come vi ha fatti successori dopo il popolo di Noè, e vi ha aumentati molto in statura. E ricordate le benedizioni di Dio, affinché possiate prosperare.»
 
 أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ
 
-**7:70** Dissero: "Sei venuto da noi per farci adorare solo Dio, e abbandonare ciò che i nostri antenati adoravano? Allora portaci ciò con cui ci minacci, se sei veritiero."
+**7:70** Dissero: «Sei venuto da noi per farci adorare solo Dio, e abbandonare ciò che i nostri antenati adoravano? Allora portaci ciò con cui ci minacci, se sei veritiero.»
 
 قَالُوٓا۟ أَجِئْتَنَا لِنَعْبُدَ ٱللَّهَ وَحْدَهُۥ وَنَذَرَ مَا كَانَ يَعْبُدُ ءَابَآؤُنَا ۖ فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 
-**7:71** Ha detto: "Condanna e ira sono cadute su di voi dal vostro Signore. State discutendo con me su nomi, che voi e i vostri antenati avete inventato, per i quali Dio non ha mandato nessuna autorità? Aspettate; io aspetto con voi."
+**7:71** Ha detto: «Condanna e ira sono cadute su di voi dal vostro Signore. State discutendo con me su nomi, che voi e i vostri antenati avete inventato, per i quali Dio non ha mandato nessuna autorità? Aspettate; io aspetto con voi.»
 
 قَالَ قَدْ وَقَعَ عَلَيْكُم مِّن رَّبِّكُمْ رِجْسٌۭ وَغَضَبٌ ۖ أَتُجَٰدِلُونَنِى فِىٓ أَسْمَآءٍۢ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّا نَزَّلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍۢ ۚ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ
 
@@ -4319,23 +4319,23 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَأَنجَيْنَٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ
 
-**7:73** E a Tamud, il loro fratello Saleh. Ha detto: "O popolo mio! Adorate Dio; non avete altro dio oltre a Lui. Un chiarimento vi è giunto dal vostro Signore. Questa cammella di Dio è un segno per voi. Quindi lasciatela pascolare sulla terra di Dio, e non le fate del male, altrimenti una punizione dolorosa vi coglierà."
+**7:73** E a Tamud, il loro fratello Saleh. Ha detto: «O popolo mio! Adorate Dio; non avete altro dio oltre a Lui. Un chiarimento vi è giunto dal vostro Signore. Questa cammella di Dio è un segno per voi. Quindi lasciatela pascolare sulla terra di Dio, e non le fate del male, altrimenti una punizione dolorosa vi coglierà.»
 
 وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًۭا ۗ قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ ۖ قَدْ جَآءَتْكُم بَيِّنَةٌۭ مِّن رَّبِّكُمْ ۖ هَٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمْ ءَايَةًۭ ۖ فَذَرُوهَا تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ ۖ وَلَا تَمَسُّوهَا بِسُوٓءٍۢ فَيَأْخُذَكُمْ عَذَابٌ أَلِيمٌۭ
 
-**7:74** "E ricordate come vi ha fatti successori dopo Aad, e vi ha stabiliti nella terra. Vi fate dimore nelle sue pianure, e scavate abitazioni nelle montagne. Quindi ricordate i benefici di Dio, e non vagate sulla terra corrompendo."
+**7:74** «E ricordate come vi ha fatti successori dopo Aad, e vi ha stabiliti nella terra. Vi fate dimore nelle sue pianure, e scavate abitazioni nelle montagne. Quindi ricordate i benefici di Dio, e non vagate sulla terra corrompendo.»
 
 وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ عَادٍۢ وَبَوَّأَكُمْ فِى ٱلْأَرْضِ تَتَّخِذُونَ مِن سُهُولِهَا قُصُورًۭا وَتَنْحِتُونَ ٱلْجِبَالَ بُيُوتًۭا ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
 
-**7:75** L'élite del suo popolo, che era arrogante, disse alla gente comune che aveva creduto: "Sapete che Saleh è inviato dal suo Signore?" Dissero: "Siamo credenti in ciò con cui è stato inviato."
+**7:75** L'élite del suo popolo, che era arrogante, disse alla gente comune che aveva creduto: «Sapete che Saleh è inviato dal suo Signore?» Dissero: «Siamo credenti in ciò con cui è stato inviato.»
 
 قَالَ ٱلْمَلَأُ ٱلَّذِينَ ٱسْتَكْبَرُوا۟ مِن قَوْمِهِۦ لِلَّذِينَ ٱسْتُضْعِفُوا۟ لِمَنْ ءَامَنَ مِنْهُمْ أَتَعْلَمُونَ أَنَّ صَٰلِحًۭا مُّرْسَلٌۭ مِّن رَّبِّهِۦ ۚ قَالُوٓا۟ إِنَّا بِمَآ أُرْسِلَ بِهِۦ مُؤْمِنُونَ
 
-**7:76** Coloro che erano arroganti dissero: "Rifiutiamo ciò in cui credete."
+**7:76** Coloro che erano arroganti dissero: «Rifiutiamo ciò in cui credete.»
 
 قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا بِٱلَّذِىٓ ءَامَنتُم بِهِۦ كَٰفِرُونَ
 
-**7:77** Così tagliarono i garretti alla cammella, e sfidarono il comando del loro Signore, e dissero: "O Saleh, portaci ciò con cui ci minacci, se sei uno dei messaggeri."
+**7:77** Così tagliarono i garretti alla cammella, e sfidarono il comando del loro Signore, e dissero: «O Saleh, portaci ciò con cui ci minacci, se sei uno dei messaggeri.»
 
 فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَٰصَٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ
 
@@ -4343,19 +4343,19 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَأَخَذَتْهُمُ ٱلرَّجْفَةُ فَأَصْبَحُوا۟ فِى دَارِهِمْ جَٰثِمِينَ
 
-**7:79** Poi si allontanò da loro, e disse: "O popolo mio, vi ho consegnato il messaggio del mio Signore, e vi ho consigliati, ma non vi piacciono coloro che danno consigli."
+**7:79** Poi si allontanò da loro, e disse: «O popolo mio, vi ho consegnato il messaggio del mio Signore, e vi ho consigliati, ma non vi piacciono coloro che danno consigli.»
 
 فَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَٰقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّى وَنَصَحْتُ لَكُمْ وَلَٰكِن لَّا تُحِبُّونَ ٱلنَّٰصِحِينَ
 
-**7:80** E Lot, quando disse al suo popolo: "Commettete un'oscenità che nessun popolo al mondo ha mai commesso prima di voi?"
+**7:80** E Lot, quando disse al suo popolo: «Commettete un'oscenità che nessun popolo al mondo ha mai commesso prima di voi?»
 
 وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ أَتَأْتُونَ ٱلْفَٰحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍۢ مِّنَ ٱلْعَٰلَمِينَ
 
-**7:81** "Desiderate gli uomini invece delle donne. Siete un popolo eccessivo."
+**7:81** «Desiderate gli uomini invece delle donne. Siete un popolo eccessivo.»
 
 إِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ شَهْوَةًۭ مِّن دُونِ ٱلنِّسَآءِ ۚ بَلْ أَنتُمْ قَوْمٌۭ مُّسْرِفُونَ
 
-**7:82** E l'unica risposta del suo popolo fu dire: "Cacciateli dalla vostra città; sono persone puriste."
+**7:82** E l'unica risposta del suo popolo fu dire: «Cacciateli dalla vostra città; sono persone puriste.»
 
 وَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوهُم مِّن قَرْيَتِكُمْ ۖ إِنَّهُمْ أُنَاسٌۭ يَتَطَهَّرُونَ
 
@@ -4367,27 +4367,27 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَأَمْطَرْنَا عَلَيْهِم مَّطَرًۭا ۖ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُجْرِمِينَ
 
-**7:85** E a Madian, il loro fratello Shuaib. Ha detto: "O popolo mio, adorate Dio; non avete altro dio oltre a Lui. Una prova chiara vi è giunta dal vostro Signore. Date misura e peso pieni, e non private le persone dei loro diritti, e non corrompete la terra una volta che è stata messa a posto. Questo è meglio per voi, se siete credenti."
+**7:85** E a Madian, il loro fratello Shuaib. Ha detto: «O popolo mio, adorate Dio; non avete altro dio oltre a Lui. Una prova chiara vi è giunta dal vostro Signore. Date misura e peso pieni, e non private le persone dei loro diritti, e non corrompete la terra una volta che è stata messa a posto. Questo è meglio per voi, se siete credenti.»
 
 وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا ۗ قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ ۖ قَدْ جَآءَتْكُم بَيِّنَةٌۭ مِّن رَّبِّكُمْ ۖ فَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ وَلَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ بَعْدَ إِصْلَٰحِهَا ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
 
-**7:86** "E non state in agguato su ogni sentiero, facendo minacce e allontanando dal cammino di Dio coloro che credono in Lui, cercando di distorcerlo. E ricordate quando eravate pochi, e come vi ha resi numerosi. Quindi notate le conseguenze per i corruttori."
+**7:86** «E non state in agguato su ogni sentiero, facendo minacce e allontanando dal cammino di Dio coloro che credono in Lui, cercando di distorcerlo. E ricordate quando eravate pochi, e come vi ha resi numerosi. Quindi notate le conseguenze per i corruttori.»
 
 وَلَا تَقْعُدُوا۟ بِكُلِّ صِرَٰطٍۢ تُوعِدُونَ وَتَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ بِهِۦ وَتَبْغُونَهَا عِوَجًۭا ۚ وَٱذْكُرُوٓا۟ إِذْ كُنتُمْ قَلِيلًۭا فَكَثَّرَكُمْ ۖ وَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُفْسِدِينَ
 
-**7:87** "Poiché alcuni di voi hanno creduto in ciò con cui sono stato inviato, e alcuni non hanno creduto, siate pazienti finché Dio non giudicherà tra noi; perché Lui è il Migliore dei Giudici."
+**7:87** «Poiché alcuni di voi hanno creduto in ciò con cui sono stato inviato, e alcuni non hanno creduto, siate pazienti finché Dio non giudicherà tra noi; perché Lui è il Migliore dei Giudici.»
 
 وَإِن كَانَ طَآئِفَةٌۭ مِّنكُمْ ءَامَنُوا۟ بِٱلَّذِىٓ أُرْسِلْتُ بِهِۦ وَطَآئِفَةٌۭ لَّمْ يُؤْمِنُوا۟ فَٱصْبِرُوا۟ حَتَّىٰ يَحْكُمَ ٱللَّهُ بَيْنَنَا ۚ وَهُوَ خَيْرُ ٱلْحَٰكِمِينَ
 
-**7:88** L'élite arrogante tra il suo popolo disse: "O Shuaib, ti cacceremo dalla nostra città, insieme a coloro che credono con te, a meno che tu non ritorni alla nostra religione." Ha detto: "Anche se non vogliamo?"
+**7:88** L'élite arrogante tra il suo popolo disse: «O Shuaib, ti cacceremo dalla nostra città, insieme a coloro che credono con te, a meno che tu non ritorni alla nostra religione.» Ha detto: «Anche se non vogliamo?»
 
 ۞ قَالَ ٱلْمَلَأُ ٱلَّذِينَ ٱسْتَكْبَرُوا۟ مِن قَوْمِهِۦ لَنُخْرِجَنَّكَ يَٰشُعَيْبُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَكَ مِن قَرْيَتِنَآ أَوْ لَتَعُودُنَّ فِى مِلَّتِنَا ۚ قَالَ أَوَلَوْ كُنَّا كَٰرِهِينَ
 
-**7:89** "Staremmo fabbricando menzogne contro Dio, se ritornassimo alla vostra religione, dopo che Dio ci ha salvati da essa. Non spetta a noi ritornarvi, a meno che Dio, il nostro Signore, non lo voglia. Il nostro Signore abbraccia tutte le cose nella conoscenza. In Dio riponiamo la nostra fiducia. Signore nostro, decidi tra noi e il nostro popolo in verità, perché Tu sei il Migliore dei Decisori."
+**7:89** «Staremmo fabbricando menzogne contro Dio, se ritornassimo alla vostra religione, dopo che Dio ci ha salvati da essa. Non spetta a noi ritornarvi, a meno che Dio, il nostro Signore, non lo voglia. Il nostro Signore abbraccia tutte le cose nella conoscenza. In Dio riponiamo la nostra fiducia. Signore nostro, decidi tra noi e il nostro popolo in verità, perché Tu sei il Migliore dei Decisori.»
 
 قَدِ ٱفْتَرَيْنَا عَلَى ٱللَّهِ كَذِبًا إِنْ عُدْنَا فِى مِلَّتِكُم بَعْدَ إِذْ نَجَّىٰنَا ٱللَّهُ مِنْهَا ۚ وَمَا يَكُونُ لَنَآ أَن نَّعُودَ فِيهَآ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّنَا ۚ وَسِعَ رَبُّنَا كُلَّ شَىْءٍ عِلْمًا ۚ عَلَى ٱللَّهِ تَوَكَّلْنَا ۚ رَبَّنَا ٱفْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِٱلْحَقِّ وَأَنتَ خَيْرُ ٱلْفَٰتِحِينَ
 
-**7:90** L'élite del suo popolo che non credeva disse: "Se seguite Shuaib, sarete dei perdenti."
+**7:90** L'élite del suo popolo che non credeva disse: «Se seguite Shuaib, sarete dei perdenti.»
 
 وَقَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ لَئِنِ ٱتَّبَعْتُمْ شُعَيْبًا إِنَّكُمْ إِذًۭا لَّخَٰسِرُونَ
 
@@ -4399,7 +4399,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ٱلَّذِينَ كَذَّبُوا۟ شُعَيْبًۭا كَأَن لَّمْ يَغْنَوْا۟ فِيهَا ۚ ٱلَّذِينَ كَذَّبُوا۟ شُعَيْبًۭا كَانُوا۟ هُمُ ٱلْخَٰسِرِينَ
 
-**7:93** Così si allontanò da loro, e disse: "O popolo mio, vi ho consegnato i messaggi del mio Signore, e vi ho consigliati, quindi perché dovrei affliggermi per un popolo miscredente?"
+**7:93** Così si allontanò da loro, e disse: «O popolo mio, vi ho consegnato i messaggi del mio Signore, e vi ho consigliati, quindi perché dovrei affliggermi per un popolo miscredente?»
 
 فَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَٰقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَٰلَٰتِ رَبِّى وَنَصَحْتُ لَكُمْ ۖ فَكَيْفَ ءَاسَىٰ عَلَىٰ قَوْمٍۢ كَٰفِرِينَ
 
@@ -4407,7 +4407,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَمَآ أَرْسَلْنَا فِى قَرْيَةٍۢ مِّن نَّبِىٍّ إِلَّآ أَخَذْنَآ أَهْلَهَا بِٱلْبَأْسَآءِ وَٱلضَّرَّآءِ لَعَلَّهُمْ يَضَّرَّعُونَ
 
-**7:95** Poi abbiamo sostituito la prosperità al posto delle difficoltà. Finché aumentarono di numero, e dissero: "Avversità e prosperità hanno toccato i nostri antenati." Poi li cogliemmo all'improvviso, mentre non se ne accorgevano.
+**7:95** Poi abbiamo sostituito la prosperità al posto delle difficoltà. Finché aumentarono di numero, e dissero: «Avversità e prosperità hanno toccato i nostri antenati.» Poi li cogliemmo all'improvviso, mentre non se ne accorgevano.
 
 ثُمَّ بَدَّلْنَا مَكَانَ ٱلسَّيِّئَةِ ٱلْحَسَنَةَ حَتَّىٰ عَفَوا۟ وَّقَالُوا۟ قَدْ مَسَّ ءَابَآءَنَا ٱلضَّرَّآءُ وَٱلسَّرَّآءُ فَأَخَذْنَٰهُم بَغْتَةًۭ وَهُمْ لَا يَشْعُرُونَ
 
@@ -4443,15 +4443,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ بِـَٔايَٰتِنَآ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَظَلَمُوا۟ بِهَا ۖ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُفْسِدِينَ
 
-**7:104** Mosè disse: "O Faraone, sono un messaggero del Signore dei Mondi."
+**7:104** Mosè disse: «O Faraone, sono un messaggero del Signore dei Mondi.»
 
 وَقَالَ مُوسَىٰ يَٰفِرْعَوْنُ إِنِّى رَسُولٌۭ مِّن رَّبِّ ٱلْعَٰلَمِينَ
 
-**7:105** "È giusto che io non dica su Dio altro che la verità. Sono venuto a voi con una prova chiara dal vostro Signore, quindi lascia che i Figli di Israele vengano con me."
+**7:105** «È giusto che io non dica su Dio altro che la verità. Sono venuto a voi con una prova chiara dal vostro Signore, quindi lascia che i Figli di Israele vengano con me.»
 
 حَقِيقٌ عَلَىٰٓ أَن لَّآ أَقُولَ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ ۚ قَدْ جِئْتُكُم بِبَيِّنَةٍۢ مِّن رَّبِّكُمْ فَأَرْسِلْ مَعِىَ بَنِىٓ إِسْرَٰٓءِيلَ
 
-**7:106** Ha detto: "Se hai portato un miracolo, allora presentalo, se sei veritiero."
+**7:106** Ha detto: «Se hai portato un miracolo, allora presentalo, se sei veritiero.»
 
 قَالَ إِن كُنتَ جِئْتَ بِـَٔايَةٍۢ فَأْتِ بِهَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 
@@ -4463,39 +4463,39 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ
 
-**7:109** I notabili tra il popolo del Faraone dissero: "Questo è davvero un mago abile."
+**7:109** I notabili tra il popolo del Faraone dissero: «Questo è davvero un mago abile.»
 
 قَالَ ٱلْمَلَأُ مِن قَوْمِ فِرْعَوْنَ إِنَّ هَٰذَا لَسَٰحِرٌ عَلِيمٌۭ
 
-**7:110** "Vuole cacciarvi dalla vostra terra, quindi cosa raccomandate?"
+**7:110** «Vuole cacciarvi dalla vostra terra, quindi cosa raccomandate?»
 
 يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُمْ ۖ فَمَاذَا تَأْمُرُونَ
 
-**7:111** Dissero: "Rimandalo, lui e suo fratello, e manda araldi nelle città."
+**7:111** Dissero: «Rimandalo, lui e suo fratello, e manda araldi nelle città.»
 
 قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَأَرْسِلْ فِى ٱلْمَدَآئِنِ حَٰشِرِينَ
 
-**7:112** "E lascia che ti portino ogni mago abile."
+**7:112** «E lascia che ti portino ogni mago abile.»
 
 يَأْتُوكَ بِكُلِّ سَٰحِرٍ عَلِيمٍۢ
 
-**7:113** I maghi vennero dal Faraone, e dissero: "Sicuramente c'è una ricompensa per noi, se siamo i vincitori."
+**7:113** I maghi vennero dal Faraone, e dissero: «Sicuramente c'è una ricompensa per noi, se siamo i vincitori.»
 
 وَجَآءَ ٱلسَّحَرَةُ فِرْعَوْنَ قَالُوٓا۟ إِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ ٱلْغَٰلِبِينَ
 
-**7:114** Ha detto: "Sì, e sarete tra i miei favoriti."
+**7:114** Ha detto: «Sì, e sarete tra i miei favoriti.»
 
 قَالَ نَعَمْ وَإِنَّكُمْ لَمِنَ ٱلْمُقَرَّبِينَ
 
-**7:115** Dissero: "O Mosè! O getti tu, o siamo noi a gettare."
+**7:115** Dissero: «O Mosè! O getti tu, o siamo noi a gettare.»
 
 قَالُوا۟ يَٰمُوسَىٰٓ إِمَّآ أَن تُلْقِىَ وَإِمَّآ أَن نَّكُونَ نَحْنُ ٱلْمُلْقِينَ
 
-**7:116** Ha detto: "Gettate voi!" E quando gettarono, ingannarono gli occhi della gente, e li intimidirono, e produssero una grande magia.
+**7:116** Ha detto: «Gettate voi!» E quando gettarono, ingannarono gli occhi della gente, e li intimidirono, e produssero una grande magia.
 
 قَالَ أَلْقُوا۟ ۖ فَلَمَّآ أَلْقَوْا۟ سَحَرُوٓا۟ أَعْيُنَ ٱلنَّاسِ وَٱسْتَرْهَبُوهُمْ وَجَآءُو بِسِحْرٍ عَظِيمٍۢ
 
-**7:117** E ispirammo Mosè: "Getta il tuo bastone." E subito, inghiottì ciò che stavano fingendo.
+**7:117** E ispirammo Mosè: «Getta il tuo bastone.» E subito, inghiottì ciò che stavano fingendo.
 
 ۞ وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَلْقِ عَصَاكَ ۖ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ
 
@@ -4511,39 +4511,39 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَأُلْقِىَ ٱلسَّحَرَةُ سَٰجِدِينَ
 
-**7:121** Dissero: "Abbiamo creduto nel Signore dei Mondi."
+**7:121** Dissero: «Abbiamo creduto nel Signore dei Mondi.»
 
 قَالُوٓا۟ ءَامَنَّا بِرَبِّ ٱلْعَٰلَمِينَ
 
-**7:122** "Il Signore di Mosè e Aronne."
+**7:122** «Il Signore di Mosè e Aronne.»
 
 رَبِّ مُوسَىٰ وَهَٰرُونَ
 
-**7:123** Il Faraone disse: "Avete creduto in Lui prima che io vi abbia dato il permesso? Questa è sicuramente una cospirazione che avete tramato nella città, per cacciare il suo popolo da essa. Lo saprete sicuramente."
+**7:123** Il Faraone disse: «Avete creduto in Lui prima che io vi abbia dato il permesso? Questa è sicuramente una cospirazione che avete tramato nella città, per cacciare il suo popolo da essa. Lo saprete sicuramente.»
 
 قَالَ فِرْعَوْنُ ءَامَنتُم بِهِۦ قَبْلَ أَنْ ءَاذَنَ لَكُمْ ۖ إِنَّ هَٰذَا لَمَكْرٌۭ مَّكَرْتُمُوهُ فِى ٱلْمَدِينَةِ لِتُخْرِجُوا۟ مِنْهَآ أَهْلَهَا ۖ فَسَوْفَ تَعْلَمُونَ
 
-**7:124** "Taglierò le vostre mani e i vostri piedi da lati opposti; poi vi crocifiggerò tutti."
+**7:124** «Taglierò le vostre mani e i vostri piedi da lati opposti; poi vi crocifiggerò tutti.»
 
 لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍۢ ثُمَّ لَأُصَلِّبَنَّكُمْ أَجْمَعِينَ
 
-**7:125** Dissero: "È al nostro Signore che ritorneremo."
+**7:125** Dissero: «È al nostro Signore che ritorneremo.»
 
 قَالُوٓا۟ إِنَّآ إِلَىٰ رَبِّنَا مُنقَلِبُونَ
 
-**7:126** "Ti vendichi di noi solo perché abbiamo creduto nei segni del nostro Signore quando sono giunti a noi." "Signore nostro! Versa pazienza su di noi, e accogli le nostre anime in sottomissione."
+**7:126** «Ti vendichi di noi solo perché abbiamo creduto nei segni del nostro Signore quando sono giunti a noi.» «Signore nostro! Versa pazienza su di noi, e accogli le nostre anime in sottomissione.»
 
 وَمَا تَنقِمُ مِنَّآ إِلَّآ أَنْ ءَامَنَّا بِـَٔايَٰتِ رَبِّنَا لَمَّا جَآءَتْنَا ۚ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًۭا وَتَوَفَّنَا مُسْلِمِينَ
 
-**7:127** I capi del popolo del Faraone dissero: "Lascerai che Mosè e il suo popolo causino problemi nella terra, e abbandonino te e i tuoi dei?" Ha detto: "Uccideremo i loro figli, e risparmieremo le loro donne. Abbiamo potere assoluto su di loro."
+**7:127** I capi del popolo del Faraone dissero: «Lascerai che Mosè e il suo popolo causino problemi nella terra, e abbandonino te e i tuoi dei?» Ha detto: «Uccideremo i loro figli, e risparmieremo le loro donne. Abbiamo potere assoluto su di loro.»
 
 وَقَالَ ٱلْمَلَأُ مِن قَوْمِ فِرْعَوْنَ أَتَذَرُ مُوسَىٰ وَقَوْمَهُۥ لِيُفْسِدُوا۟ فِى ٱلْأَرْضِ وَيَذَرَكَ وَءَالِهَتَكَ ۚ قَالَ سَنُقَتِّلُ أَبْنَآءَهُمْ وَنَسْتَحْىِۦ نِسَآءَهُمْ وَإِنَّا فَوْقَهُمْ قَٰهِرُونَ
 
-**7:128** Mosè disse al suo popolo: "Cercate aiuto in Dio, e siate pazienti. La terra appartiene a Dio. La dà in eredità a chiunque Lui voglia tra i Suoi servi, e il futuro appartiene ai giusti."
+**7:128** Mosè disse al suo popolo: «Cercate aiuto in Dio, e siate pazienti. La terra appartiene a Dio. La dà in eredità a chiunque Lui voglia tra i Suoi servi, e il futuro appartiene ai giusti.»
 
 قَالَ مُوسَىٰ لِقَوْمِهِ ٱسْتَعِينُوا۟ بِٱللَّهِ وَٱصْبِرُوٓا۟ ۖ إِنَّ ٱلْأَرْضَ لِلَّهِ يُورِثُهَا مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ وَٱلْعَٰقِبَةُ لِلْمُتَّقِينَ
 
-**7:129** Dissero: "Siamo stati perseguitati prima che tu venissi da noi, e dopo che sei venuto da noi." Ha detto: "Forse il vostro Signore distruggerà il vostro nemico, e vi farà successori nella terra; poi vedrà come vi comporterete."
+**7:129** Dissero: «Siamo stati perseguitati prima che tu venissi da noi, e dopo che sei venuto da noi.» Ha detto: «Forse il vostro Signore distruggerà il vostro nemico, e vi farà successori nella terra; poi vedrà come vi comporterete.»
 
 قَالُوٓا۟ أُوذِينَا مِن قَبْلِ أَن تَأْتِيَنَا وَمِنۢ بَعْدِ مَا جِئْتَنَا ۚ قَالَ عَسَىٰ رَبُّكُمْ أَن يُهْلِكَ عَدُوَّكُمْ وَيَسْتَخْلِفَكُمْ فِى ٱلْأَرْضِ فَيَنظُرَ كَيْفَ تَعْمَلُونَ
 
@@ -4551,11 +4551,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَقَدْ أَخَذْنَآ ءَالَ فِرْعَوْنَ بِٱلسِّنِينَ وَنَقْصٍۢ مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَذَّكَّرُونَ
 
-**7:131** Quando qualcosa di buono arrivava a loro, dicevano: "Questo è nostro." E quando qualcosa di male accadeva loro, attribuivano il cattivo presagio a Mosè e a coloro che erano con lui. In realtà, il loro presagio è presso Dio, ma la maggior parte di loro non lo sa.
+**7:131** Quando qualcosa di buono arrivava a loro, dicevano: «Questo è nostro.» E quando qualcosa di male accadeva loro, attribuivano il cattivo presagio a Mosè e a coloro che erano con lui. In realtà, il loro presagio è presso Dio, ma la maggior parte di loro non lo sa.
 
 فَإِذَا جَآءَتْهُمُ ٱلْحَسَنَةُ قَالُوا۟ لَنَا هَٰذِهِۦ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۭ يَطَّيَّرُوا۟ بِمُوسَىٰ وَمَن مَّعَهُۥٓ ۗ أَلَآ إِنَّمَا طَٰٓئِرُهُمْ عِندَ ٱللَّهِ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 
-**7:132** E dissero: "Qualunque segno tu ci porti, per incantarci con esso, non crederemo in te."
+**7:132** E dissero: «Qualunque segno tu ci porti, per incantarci con esso, non crederemo in te.»
 
 وَقَالُوا۟ مَهْمَا تَأْتِنَا بِهِۦ مِنْ ءَايَةٍۢ لِّتَسْحَرَنَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ
 
@@ -4563,7 +4563,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍۢ مُّفَصَّلَٰتٍۢ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ
 
-**7:134** Ogni volta che una piaga cadeva su di loro, dicevano: "O Mosè, prega il tuo Signore per noi, secondo il patto che ha fatto con te. Se sollevi la piaga da noi, crederemo in te, e lasceremo che i Figli di Israele vengano con te."
+**7:134** Ogni volta che una piaga cadeva su di loro, dicevano: «O Mosè, prega il tuo Signore per noi, secondo il patto che ha fatto con te. Se sollevi la piaga da noi, crederemo in te, e lasceremo che i Figli di Israele vengano con te.»
 
 وَلَمَّا وَقَعَ عَلَيْهِمُ ٱلرِّجْزُ قَالُوا۟ يَٰمُوسَى ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ ۖ لَئِن كَشَفْتَ عَنَّا ٱلرِّجْزَ لَنُؤْمِنَنَّ لَكَ وَلَنُرْسِلَنَّ مَعَكَ بَنِىٓ إِسْرَٰٓءِيلَ
 
@@ -4579,15 +4579,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَأَوْرَثْنَا ٱلْقَوْمَ ٱلَّذِينَ كَانُوا۟ يُسْتَضْعَفُونَ مَشَٰرِقَ ٱلْأَرْضِ وَمَغَٰرِبَهَا ٱلَّتِى بَٰرَكْنَا فِيهَا ۖ وَتَمَّتْ كَلِمَتُ رَبِّكَ ٱلْحُسْنَىٰ عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ بِمَا صَبَرُوا۟ ۖ وَدَمَّرْنَا مَا كَانَ يَصْنَعُ فِرْعَوْنُ وَقَوْمُهُۥ وَمَا كَانُوا۟ يَعْرِشُونَ
 
-**7:138** E facemmo attraversare il mare ai Figli di Israele. E quando giunsero a un popolo che era devoto ad alcune loro statue, dissero: "O Mosè, fai per noi un dio, come loro hanno dei." Ha detto: "Siete davvero un popolo ignorante."
+**7:138** E facemmo attraversare il mare ai Figli di Israele. E quando giunsero a un popolo che era devoto ad alcune loro statue, dissero: «O Mosè, fai per noi un dio, come loro hanno dei.» Ha detto: «Siete davvero un popolo ignorante.»
 
 وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتَوْا۟ عَلَىٰ قَوْمٍۢ يَعْكُفُونَ عَلَىٰٓ أَصْنَامٍۢ لَّهُمْ ۚ قَالُوا۟ يَٰمُوسَى ٱجْعَل لَّنَآ إِلَٰهًۭا كَمَا لَهُمْ ءَالِهَةٌۭ ۚ قَالَ إِنَّكُمْ قَوْمٌۭ تَجْهَلُونَ
 
-**7:139** "Ciò di cui questo popolo si preoccupa è la perdizione, e le loro azioni sono basate su falsità."
+**7:139** «Ciò di cui questo popolo si preoccupa è la perdizione, e le loro azioni sono basate su falsità.»
 
 إِنَّ هَٰٓؤُلَآءِ مُتَبَّرٌۭ مَّا هُمْ فِيهِ وَبَٰطِلٌۭ مَّا كَانُوا۟ يَعْمَلُونَ
 
-**7:140** Ha detto: "Dovrei cercare per voi un dio diverso da Dio, quando Lui vi ha favoriti sopra tutti gli altri popoli?"
+**7:140** Ha detto: «Dovrei cercare per voi un dio diverso da Dio, quando Lui vi ha favoriti sopra tutti gli altri popoli?»
 
 قَالَ أَغَيْرَ ٱللَّهِ أَبْغِيكُمْ إِلَٰهًۭا وَهُوَ فَضَّلَكُمْ عَلَى ٱلْعَٰلَمِينَ
 
@@ -4595,19 +4595,19 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَإِذْ أَنجَيْنَٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ ۖ يُقَتِّلُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌۭ مِّن رَّبِّكُمْ عَظِيمٌۭ
 
-**7:142** E fissammo a Mosè trenta notti, e le completammo con dieci; e così il tempo fissato dal suo Signore fu di quaranta notti. E Mosè disse a suo fratello Aronne: "Prendi il mio posto tra il mio popolo, e sii retto, e non seguire la via dei seminatori di discordia."
+**7:142** E fissammo a Mosè trenta notti, e le completammo con dieci; e così il tempo fissato dal suo Signore fu di quaranta notti. E Mosè disse a suo fratello Aronne: «Prendi il mio posto tra il mio popolo, e sii retto, e non seguire la via dei seminatori di discordia.»
 
 ۞ وَوَٰعَدْنَا مُوسَىٰ ثَلَٰثِينَ لَيْلَةًۭ وَأَتْمَمْنَٰهَا بِعَشْرٍۢ فَتَمَّ مِيقَٰتُ رَبِّهِۦٓ أَرْبَعِينَ لَيْلَةًۭ ۚ وَقَالَ مُوسَىٰ لِأَخِيهِ هَٰرُونَ ٱخْلُفْنِى فِى قَوْمِى وَأَصْلِحْ وَلَا تَتَّبِعْ سَبِيلَ ٱلْمُفْسِدِينَ
 
-**7:143** E quando Mosè venne al Nostro appuntamento, e il suo Signore gli parlò, disse: "Signore mio, permettimi di guardare e vederTi." Ha detto: "Non Mi vedrai, ma guarda la montagna; se rimane al suo posto, Mi vedrai." Ma quando il suo Signore si manifestò alla montagna, la ridusse in polvere, e Mosè cadde incosciente. Poi, quando si riprese, disse: "Gloria a Te, mi pento a Te, e sono il primo dei credenti."
+**7:143** E quando Mosè venne al Nostro appuntamento, e il suo Signore gli parlò, disse: «Signore mio, permettimi di guardare e vederTi.» Ha detto: «Non Mi vedrai, ma guarda la montagna; se rimane al suo posto, Mi vedrai.» Ma quando il suo Signore si manifestò alla montagna, la ridusse in polvere, e Mosè cadde incosciente. Poi, quando si riprese, disse: «Gloria a Te, mi pento a Te, e sono il primo dei credenti.»
 
 وَلَمَّا جَآءَ مُوسَىٰ لِمِيقَٰتِنَا وَكَلَّمَهُۥ رَبُّهُۥ قَالَ رَبِّ أَرِنِىٓ أَنظُرْ إِلَيْكَ ۚ قَالَ لَن تَرَىٰنِى وَلَٰكِنِ ٱنظُرْ إِلَى ٱلْجَبَلِ فَإِنِ ٱسْتَقَرَّ مَكَانَهُۥ فَسَوْفَ تَرَىٰنِى ۚ فَلَمَّا تَجَلَّىٰ رَبُّهُۥ لِلْجَبَلِ جَعَلَهُۥ دَكًّۭا وَخَرَّ مُوسَىٰ صَعِقًۭا ۚ فَلَمَّآ أَفَاقَ قَالَ سُبْحَٰنَكَ تُبْتُ إِلَيْكَ وَأَنَا۠ أَوَّلُ ٱلْمُؤْمِنِينَ
 
-**7:144** Ha detto: "O Mosè, ti ho scelto sopra tutte le persone per i Miei messaggi e per le Mie Parole. Quindi prendi ciò che ti ho dato, e sii uno dei riconoscenti."
+**7:144** Ha detto: «O Mosè, ti ho scelto sopra tutte le persone per i Miei messaggi e per le Mie Parole. Quindi prendi ciò che ti ho dato, e sii uno dei riconoscenti.»
 
 قَالَ يَٰمُوسَىٰٓ إِنِّى ٱصْطَفَيْتُكَ عَلَى ٱلنَّاسِ بِرِسَٰلَٰتِى وَبِكَلَٰمِى فَخُذْ مَآ ءَاتَيْتُكَ وَكُن مِّنَ ٱلشَّٰكِرِينَ
 
-**7:145** E iscrivemmo per lui nelle Tavole ogni tipo di illuminazioni, e una spiegazione decisiva di tutte le cose. "Tienile saldamente, ed esorta il tuo popolo ad adottare il migliore di esse. Ti mostrerò il destino dei peccatori."
+**7:145** E iscrivemmo per lui nelle Tavole ogni tipo di illuminazioni, e una spiegazione decisiva di tutte le cose. «Tienile saldamente, ed esorta il tuo popolo ad adottare il migliore di esse. Ti mostrerò il destino dei peccatori.»
 
 وَكَتَبْنَا لَهُۥ فِى ٱلْأَلْوَاحِ مِن كُلِّ شَىْءٍۢ مَّوْعِظَةًۭ وَتَفْصِيلًۭا لِّكُلِّ شَىْءٍۢ فَخُذْهَا بِقُوَّةٍۢ وَأْمُرْ قَوْمَكَ يَأْخُذُوا۟ بِأَحْسَنِهَا ۚ سَأُو۟رِيكُمْ دَارَ ٱلْفَٰسِقِينَ
 
@@ -4623,15 +4623,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَٱتَّخَذَ قَوْمُ مُوسَىٰ مِنۢ بَعْدِهِۦ مِنْ حُلِيِّهِمْ عِجْلًۭا جَسَدًۭا لَّهُۥ خُوَارٌ ۚ أَلَمْ يَرَوْا۟ أَنَّهُۥ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا ۘ ٱتَّخَذُوهُ وَكَانُوا۟ ظَٰلِمِينَ
 
-**7:149** Poi, quando si pentirono, e capirono di aver errato, dissero: "Se il nostro Signore non estende la Sua misericordia a noi, e non ci perdona, saremo tra i perdenti."
+**7:149** Poi, quando si pentirono, e capirono di aver errato, dissero: «Se il nostro Signore non estende la Sua misericordia a noi, e non ci perdona, saremo tra i perdenti.»
 
 وَلَمَّا سُقِطَ فِىٓ أَيْدِيهِمْ وَرَأَوْا۟ أَنَّهُمْ قَدْ ضَلُّوا۟ قَالُوا۟ لَئِن لَّمْ يَرْحَمْنَا رَبُّنَا وَيَغْفِرْ لَنَا لَنَكُونَنَّ مِنَ ٱلْخَٰسِرِينَ
 
-**7:150** E quando Mosè ritornò al suo popolo, arrabbiato e deluso, disse: "Che cosa terribile avete fatto in mia assenza. Avete abbandonato i comandamenti del vostro Signore così in fretta?" E gettò giù le tavole; e prese la testa di suo fratello, trascinandolo verso di sé. Disse: "Figlio di mia madre, il popolo mi ha sopraffatto, e stava per uccidermi; quindi non permettere ai nemici di gioire su di me, e non contarmi tra le persone ingiuste."
+**7:150** E quando Mosè ritornò al suo popolo, arrabbiato e deluso, disse: «Che cosa terribile avete fatto in mia assenza. Avete abbandonato i comandamenti del vostro Signore così in fretta?» E gettò giù le tavole; e prese la testa di suo fratello, trascinandolo verso di sé. Disse: «Figlio di mia madre, il popolo mi ha sopraffatto, e stava per uccidermi; quindi non permettere ai nemici di gioire su di me, e non contarmi tra le persone ingiuste.»
 
 وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًۭا قَالَ بِئْسَمَا خَلَفْتُمُونِى مِنۢ بَعْدِىٓ ۖ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ ۖ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ إِلَيْهِ ۚ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
 
-**7:151** Ha detto: "Signore mio, perdona me e mio fratello, e ammettici nella Tua misericordia; perché Tu sei il Più Misericordioso dei misericordiosi."
+**7:151** Ha detto: «Signore mio, perdona me e mio fratello, e ammettici nella Tua misericordia; perché Tu sei il Più Misericordioso dei misericordiosi.»
 
 قَالَ رَبِّ ٱغْفِرْ لِى وَلِأَخِى وَأَدْخِلْنَا فِى رَحْمَتِكَ ۖ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ
 
@@ -4647,11 +4647,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَمَّا سَكَتَ عَن مُّوسَى ٱلْغَضَبُ أَخَذَ ٱلْأَلْوَاحَ ۖ وَفِى نُسْخَتِهَا هُدًۭى وَرَحْمَةٌۭ لِّلَّذِينَ هُمْ لِرَبِّهِمْ يَرْهَبُونَ
 
-**7:155** E Mosè scelse dal suo popolo settanta uomini per il Nostro appuntamento. Quando il tremore li scosse, disse: "Signore mio, se Tu avessi voluto, avresti potuto distruggerli prima, e anche me. Ci distruggerai per ciò che gli sciocchi tra noi hanno fatto? Questa è solo la Tua prova — con essa svi chiunque Tu voglia, e guidi chiunque Tu voglia. Tu sei il nostro Protettore, quindi perdonaci, e abbi misericordia di noi. Tu sei il Migliore dei Perdonatori."
+**7:155** E Mosè scelse dal suo popolo settanta uomini per il Nostro appuntamento. Quando il tremore li scosse, disse: «Signore mio, se Tu avessi voluto, avresti potuto distruggerli prima, e anche me. Ci distruggerai per ciò che gli sciocchi tra noi hanno fatto? Questa è solo la Tua prova — con essa svi chiunque Tu voglia, e guidi chiunque Tu voglia. Tu sei il nostro Protettore, quindi perdonaci, e abbi misericordia di noi. Tu sei il Migliore dei Perdonatori.»
 
 وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًۭا لِّمِيقَٰتِنَا ۖ فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّٰىَ ۖ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ مِنَّآ ۖ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ ۖ أَنتَ وَلِيُّنَا فَٱغْفِرْ لَنَا وَٱرْحَمْنَا ۖ وَأَنتَ خَيْرُ ٱلْغَٰفِرِينَ
 
-**7:156** "E iscrivi per noi il bene in questo mondo, e nell'Aldilà. Ci siamo rivolti a Te." Ha detto: "La Mia punizione — la infliggo a chiunque io voglia, ma la Mia misericordia abbraccia tutte le cose. La specificherò per coloro che agiscono con rettitudine e praticano l'elemosina regolare, e coloro che credono nei Nostri segni."
+**7:156** «E iscrivi per noi il bene in questo mondo, e nell'Aldilà. Ci siamo rivolti a Te.» Ha detto: «La Mia punizione — la infliggo a chiunque io voglia, ma la Mia misericordia abbraccia tutte le cose. La specificherò per coloro che agiscono con rettitudine e praticano l'elemosina regolare, e coloro che credono nei Nostri segni.»
 
 ۞ وَٱكْتُبْ لَنَا فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةًۭ وَفِى ٱلْءَاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ ۚ قَالَ عَذَابِىٓ أُصِيبُ بِهِۦ مَنْ أَشَآءُ ۖ وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍۢ ۚ فَسَأَكْتُبُهَا لِلَّذِينَ يَتَّقُونَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَٱلَّذِينَ هُم بِـَٔايَٰتِنَا يُؤْمِنُونَ
 
@@ -4659,7 +4659,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَٰلَ ٱلَّتِى كَانَتْ عَلَيْهِمْ ۚ فَٱلَّذِينَ ءَامَنُوا۟ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُوا۟ ٱلنُّورَ ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ ۙ أُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
 
-**7:158** Di': "O gente, sono il Messaggero di Dio per tutti voi — Colui a cui appartiene il regno dei cieli e della terra. Non c'è dio tranne Lui. Lui dà la vita e causa la morte." Quindi credete in Dio e nel Suo Messaggero, il Profeta Illetterato, che crede in Dio e nelle Sue parole. E seguitelo, affinché possiate essere guidati.
+**7:158** Di': «O gente, sono il Messaggero di Dio per tutti voi — Colui a cui appartiene il regno dei cieli e della terra. Non c'è dio tranne Lui. Lui dà la vita e causa la morte.» Quindi credete in Dio e nel Suo Messaggero, il Profeta Illetterato, che crede in Dio e nelle Sue parole. E seguitelo, affinché possiate essere guidati.
 
 قُلْ يَٰٓأَيُّهَا ٱلنَّاسُ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ جَمِيعًا ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ لَآ إِلَٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرَسُولِهِ ٱلنَّبِىِّ ٱلْأُمِّىِّ ٱلَّذِى يُؤْمِنُ بِٱللَّهِ وَكَلِمَٰتِهِۦ وَٱتَّبِعُوهُ لَعَلَّكُمْ تَهْتَدُونَ
 
@@ -4667,11 +4667,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَمِن قَوْمِ مُوسَىٰٓ أُمَّةٌۭ يَهْدُونَ بِٱلْحَقِّ وَبِهِۦ يَعْدِلُونَ
 
-**7:160** Li dividemmo in dodici comunità tribali. E ispirammo Mosè, quando il suo popolo gli chiese qualcosa da bere: "Colpisci la roccia con il tuo bastone." Allora dodici sorgenti sgorgarono da essa. Ogni gruppo riconobbe il suo luogo per bere. E li ombreggiammo con nubi, e mandammo giù su di loro manna e quaglie: "Mangiate delle cose buone che vi abbiamo fornito." Non ci fecero torto, ma facevano torto a se stessi.
+**7:160** Li dividemmo in dodici comunità tribali. E ispirammo Mosè, quando il suo popolo gli chiese qualcosa da bere: «Colpisci la roccia con il tuo bastone.» Allora dodici sorgenti sgorgarono da essa. Ogni gruppo riconobbe il suo luogo per bere. E li ombreggiammo con nubi, e mandammo giù su di loro manna e quaglie: «Mangiate delle cose buone che vi abbiamo fornito.» Non ci fecero torto, ma facevano torto a se stessi.
 
 وَقَطَّعْنَٰهُمُ ٱثْنَتَىْ عَشْرَةَ أَسْبَاطًا أُمَمًۭا ۚ وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ إِذِ ٱسْتَسْقَىٰهُ قَوْمُهُۥٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ ۖ فَٱنۢبَجَسَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًۭا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍۢ مَّشْرَبَهُمْ ۚ وَظَلَّلْنَا عَلَيْهِمُ ٱلْغَمَٰمَ وَأَنزَلْنَا عَلَيْهِمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ ۖ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ ۚ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
 
-**7:161** E fu detto loro: "Stabilitevi in questa città, e mangiate in essa ciò che desiderate, e parlate con modestia, ed entrate dalla porta con umiltà — perdoneremo i vostri peccati, e promuoveremo i giusti."
+**7:161** E fu detto loro: «Stabilitevi in questa città, e mangiate in essa ciò che desiderate, e parlate con modestia, ed entrate dalla porta con umiltà — perdoneremo i vostri peccati, e promuoveremo i giusti.»
 
 وَإِذْ قِيلَ لَهُمُ ٱسْكُنُوا۟ هَٰذِهِ ٱلْقَرْيَةَ وَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ وَقُولُوا۟ حِطَّةٌۭ وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًۭا نَّغْفِرْ لَكُمْ خَطِيٓـَٰٔتِكُمْ ۚ سَنَزِيدُ ٱلْمُحْسِنِينَ
 
@@ -4683,7 +4683,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ
 
-**7:164** E quando un gruppo di loro disse: "Perché consigliate un popolo che Dio annienterà, o punirà con una punizione severa?" Dissero: "Come scusa verso il vostro Signore, e affinché possano diventare giusti."
+**7:164** E quando un gruppo di loro disse: «Perché consigliate un popolo che Dio annienterà, o punirà con una punizione severa?» Dissero: «Come scusa verso il vostro Signore, e affinché possano diventare giusti.»
 
 وَإِذْ قَالَتْ أُمَّةٌۭ مِّنْهُمْ لِمَ تَعِظُونَ قَوْمًا ۙ ٱللَّهُ مُهْلِكُهُمْ أَوْ مُعَذِّبُهُمْ عَذَابًۭا شَدِيدًۭا ۖ قَالُوا۟ مَعْذِرَةً إِلَىٰ رَبِّكُمْ وَلَعَلَّهُمْ يَتَّقُونَ
 
@@ -4691,7 +4691,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَلَمَّا نَسُوا۟ مَا ذُكِّرُوا۟ بِهِۦٓ أَنجَيْنَا ٱلَّذِينَ يَنْهَوْنَ عَنِ ٱلسُّوٓءِ وَأَخَذْنَا ٱلَّذِينَ ظَلَمُوا۟ بِعَذَابٍۭ بَـِٔيسٍۭ بِمَا كَانُوا۟ يَفْسُقُونَ
 
-**7:166** Poi, quando si ribellarono ai comandi di astenersi, dicemmo loro: "Siate scimmie spregevoli."
+**7:166** Poi, quando si ribellarono ai comandi di astenersi, dicemmo loro: «Siate scimmie spregevoli.»
 
 فَلَمَّا عَتَوْا۟ عَن مَّا نُهُوا۟ عَنْهُ قُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَٰسِـِٔينَ
 
@@ -4703,7 +4703,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَقَطَّعْنَٰهُمْ فِى ٱلْأَرْضِ أُمَمًۭا ۖ مِّنْهُمُ ٱلصَّٰلِحُونَ وَمِنْهُمْ دُونَ ذَٰلِكَ ۖ وَبَلَوْنَٰهُم بِٱلْحَسَنَٰتِ وَٱلسَّيِّـَٔاتِ لَعَلَّهُمْ يَرْجِعُونَ
 
-**7:169** Furono succeduti da generazioni che ereditarono la Scrittura e scelsero i materiali di questo mondo, dicendo: "Saremo perdonati." E se materiali simili si presentassero loro, li prenderebbero di nuovo. Non fecero un patto per sostenere la Scrittura, e per non dire su Dio altro che la verità? Non ne studiarono il contenuto? Ma la Casa dell'Aldilà è migliore per i cauti; non capirete?
+**7:169** Furono succeduti da generazioni che ereditarono la Scrittura e scelsero i materiali di questo mondo, dicendo: «Saremo perdonati.» E se materiali simili si presentassero loro, li prenderebbero di nuovo. Non fecero un patto per sostenere la Scrittura, e per non dire su Dio altro che la verità? Non ne studiarono il contenuto? Ma la Casa dell'Aldilà è migliore per i cauti; non capirete?
 
 فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌۭ وَرِثُوا۟ ٱلْكِتَٰبَ يَأْخُذُونَ عَرَضَ هَٰذَا ٱلْأَدْنَىٰ وَيَقُولُونَ سَيُغْفَرُ لَنَا وَإِن يَأْتِهِمْ عَرَضٌۭ مِّثْلُهُۥ يَأْخُذُوهُ ۚ أَلَمْ يُؤْخَذْ عَلَيْهِم مِّيثَٰقُ ٱلْكِتَٰبِ أَن لَّا يَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ وَدَرَسُوا۟ مَا فِيهِ ۗ وَٱلدَّارُ ٱلْءَاخِرَةُ خَيْرٌۭ لِّلَّذِينَ يَتَّقُونَ ۗ أَفَلَا تَعْقِلُونَ
 
@@ -4711,15 +4711,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَٱلَّذِينَ يُمَسِّكُونَ بِٱلْكِتَٰبِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ إِنَّا لَا نُضِيعُ أَجْرَ ٱلْمُصْلِحِينَ
 
-**7:171** E quando sospendemmo la montagna sopra di loro, come se fosse un ombrello, e pensarono che sarebbe caduta su di loro: "Tenete saldamente ciò che vi abbiamo dato, e ricordate ciò che contiene, affinché possiate essere salvati."
+**7:171** E quando sospendemmo la montagna sopra di loro, come se fosse un ombrello, e pensarono che sarebbe caduta su di loro: «Tenete saldamente ciò che vi abbiamo dato, e ricordate ciò che contiene, affinché possiate essere salvati.»
 
 ۞ وَإِذْ نَتَقْنَا ٱلْجَبَلَ فَوْقَهُمْ كَأَنَّهُۥ ظُلَّةٌۭ وَظَنُّوٓا۟ أَنَّهُۥ وَاقِعٌۢ بِهِمْ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍۢ وَٱذْكُرُوا۟ مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ
 
-**7:172** E quando il tuo Signore convocò i discendenti di Adamo, e li fece testimoniare su se stessi. "Non sono io il vostro Signore?" Dissero: "Sì, testimoniamo." Così non potete dire nel Giorno della Risurrezione: "Non eravamo consapevoli di questo."
+**7:172** E quando il tuo Signore convocò i discendenti di Adamo, e li fece testimoniare su se stessi. «Non sono io il vostro Signore?» Dissero: «Sì, testimoniamo.» Così non potete dire nel Giorno della Risurrezione: «Non eravamo consapevoli di questo.»
 
 وَإِذْ أَخَذَ رَبُّكَ مِنۢ بَنِىٓ ءَادَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰٓ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ ۖ قَالُوا۟ بَلَىٰ ۛ شَهِدْنَآ ۛ أَن تَقُولُوا۟ يَوْمَ ٱلْقِيَٰمَةِ إِنَّا كُنَّا عَنْ هَٰذَا غَٰفِلِينَ
 
-**7:173** Né potete dire: "I nostri antenati praticavano l'idolatria prima; e noi siamo i loro discendenti venuti dopo di loro; ci distruggerai per ciò che i falsificatori fecero?"
+**7:173** Né potete dire: «I nostri antenati praticavano l'idolatria prima; e noi siamo i loro discendenti venuti dopo di loro; ci distruggerai per ciò che i falsificatori fecero?»
 
 أَوْ تَقُولُوٓا۟ إِنَّمَآ أَشْرَكَ ءَابَآؤُنَا مِن قَبْلُ وَكُنَّا ذُرِّيَّةًۭ مِّنۢ بَعْدِهِمْ ۖ أَفَتُهْلِكُنَا بِمَا فَعَلَ ٱلْمُبْطِلُونَ
 
@@ -4775,15 +4775,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 مَن يُضْلِلِ ٱللَّهُ فَلَا هَادِىَ لَهُۥ ۚ وَيَذَرُهُمْ فِى طُغْيَٰنِهِمْ يَعْمَهُونَ
 
-**7:187** Ti chiedono dell'Ora: "Quando verrà?" Di': "La conoscenza di essa è presso il mio Signore. Nessuno può rivelare la sua venuta tranne Lui. Pesa gravemente sui cieli e sulla terra. Non verrà su di voi se non all'improvviso." Ti chiedono come se tu ne fossi responsabile. Di': "La conoscenza di essa è presso Dio," ma la maggior parte delle persone non lo sa.
+**7:187** Ti chiedono dell'Ora: «Quando verrà?» Di': «La conoscenza di essa è presso il mio Signore. Nessuno può rivelare la sua venuta tranne Lui. Pesa gravemente sui cieli e sulla terra. Non verrà su di voi se non all'improvviso.» Ti chiedono come se tu ne fossi responsabile. Di': «La conoscenza di essa è presso Dio,» ma la maggior parte delle persone non lo sa.
 
 يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ رَبِّى ۖ لَا يُجَلِّيهَا لِوَقْتِهَآ إِلَّا هُوَ ۚ ثَقُلَتْ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ لَا تَأْتِيكُمْ إِلَّا بَغْتَةًۭ ۗ يَسْـَٔلُونَكَ كَأَنَّكَ حَفِىٌّ عَنْهَا ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
-**7:188** Di': "Non ho controllo su alcun beneficio o danno per me stesso, tranne come Dio vuole. Se avessi conosciuto il futuro, avrei acquisito molto bene, e nessun danno mi avrebbe toccato. Sono solo un ammonitore, e un annunciatore di buone notizie per un popolo che crede."
+**7:188** Di': «Non ho controllo su alcun beneficio o danno per me stesso, tranne come Dio vuole. Se avessi conosciuto il futuro, avrei acquisito molto bene, e nessun danno mi avrebbe toccato. Sono solo un ammonitore, e un annunciatore di buone notizie per un popolo che crede.»
 
 قُل لَّآ أَمْلِكُ لِنَفْسِى نَفْعًۭا وَلَا ضَرًّا إِلَّا مَا شَآءَ ٱللَّهُ ۚ وَلَوْ كُنتُ أَعْلَمُ ٱلْغَيْبَ لَٱسْتَكْثَرْتُ مِنَ ٱلْخَيْرِ وَمَا مَسَّنِىَ ٱلسُّوٓءُ ۚ إِنْ أَنَا۠ إِلَّا نَذِيرٌۭ وَبَشِيرٌۭ لِّقَوْمٍۢ يُؤْمِنُونَ
 
-**7:189** È Lui che vi ha creati da una singola persona, e ha fatto da essa la sua compagna, affinché lui possa trovare conforto con lei. Poi, quando lui l'ha coperta, lei concepisce un carico leggero, e lo porta in giro. Ma quando è diventata pesante, pregano Dio il loro Signore: "se Tu ci dai un buon figlio, saremo tra i riconoscenti."
+**7:189** È Lui che vi ha creati da una singola persona, e ha fatto da essa la sua compagna, affinché lui possa trovare conforto con lei. Poi, quando lui l'ha coperta, lei concepisce un carico leggero, e lo porta in giro. Ma quando è diventata pesante, pregano Dio il loro Signore: «se Tu ci dai un buon figlio, saremo tra i riconoscenti.»
 
 ۞ هُوَ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍۢ وَٰحِدَةٍۢ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا ۖ فَلَمَّا تَغَشَّىٰهَا حَمَلَتْ حَمْلًا خَفِيفًۭا فَمَرَّتْ بِهِۦ ۖ فَلَمَّآ أَثْقَلَت دَّعَوَا ٱللَّهَ رَبَّهُمَا لَئِنْ ءَاتَيْتَنَا صَٰلِحًۭا لَّنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
 
@@ -4807,11 +4807,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنَّ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ عِبَادٌ أَمْثَالُكُمْ ۖ فَٱدْعُوهُمْ فَلْيَسْتَجِيبُوا۟ لَكُمْ إِن كُنتُمْ صَٰدِقِينَ
 
-**7:195** Hanno piedi con cui camminano? O hanno mani con cui colpiscono? O hanno occhi con cui vedono? O hanno orecchie con cui sentono? Di': "Invocate i vostri soci, poi tramate contro di me, e non aspettate."
+**7:195** Hanno piedi con cui camminano? O hanno mani con cui colpiscono? O hanno occhi con cui vedono? O hanno orecchie con cui sentono? Di': «Invocate i vostri soci, poi tramate contro di me, e non aspettate.»
 
 أَلَهُمْ أَرْجُلٌۭ يَمْشُونَ بِهَآ ۖ أَمْ لَهُمْ أَيْدٍۢ يَبْطِشُونَ بِهَآ ۖ أَمْ لَهُمْ أَعْيُنٌۭ يُبْصِرُونَ بِهَآ ۖ أَمْ لَهُمْ ءَاذَانٌۭ يَسْمَعُونَ بِهَا ۗ قُلِ ٱدْعُوا۟ شُرَكَآءَكُمْ ثُمَّ كِيدُونِ فَلَا تُنظِرُونِ
 
-**7:196** "Il mio Padrone è Dio, Colui che ha mandato giù il Libro, e Lui si prende cura dei giusti."
+**7:196** «Il mio Padrone è Dio, Colui che ha mandato giù il Libro, e Lui si prende cura dei giusti.»
 
 إِنَّ وَلِۦِّىَ ٱللَّهُ ٱلَّذِى نَزَّلَ ٱلْكِتَٰبَ ۖ وَهُوَ يَتَوَلَّى ٱلصَّٰلِحِينَ
 
@@ -4839,7 +4839,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَإِخْوَٰنُهُمْ يَمُدُّونَهُمْ فِى ٱلْغَىِّ ثُمَّ لَا يُقْصِرُونَ
 
-**7:203** Se non produci un miracolo per loro, dicono: "Perché non ne improvvisi uno." Di': "Seguo solo ciò che mi è ispirato dal mio Signore." Questi sono intuizioni dal vostro Signore, e guida, e misericordia, per un popolo che crede.
+**7:203** Se non produci un miracolo per loro, dicono: «Perché non ne improvvisi uno.» Di': «Seguo solo ciò che mi è ispirato dal mio Signore.» Questi sono intuizioni dal vostro Signore, e guida, e misericordia, per un popolo che crede.
 
 وَإِذَا لَمْ تَأْتِهِم بِـَٔايَةٍۢ قَالُوا۟ لَوْلَا ٱجْتَبَيْتَهَا ۚ قُلْ إِنَّمَآ أَتَّبِعُ مَا يُوحَىٰٓ إِلَىَّ مِن رَّبِّى ۚ هَٰذَا بَصَآئِرُ مِن رَّبِّكُمْ وَهُدًۭى وَرَحْمَةٌۭ لِّقَوْمٍۢ يُؤْمِنُونَ
 
@@ -4869,7 +4869,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 *Nel nome di Dio, il Beneficente, il Misericordioso.*
 
-**8:1** Ti chiedono del bottino. Di': "Il bottino è per Dio e il Messaggero." Quindi siate consapevoli di Dio, e risolvete le vostre divergenze, e ubbidite a Dio e al Suo Messaggero, se siete credenti.
+**8:1** Ti chiedono del bottino. Di': «Il bottino è per Dio e il Messaggero.» Quindi siate consapevoli di Dio, e risolvete le vostre divergenze, e ubbidite a Dio e al Suo Messaggero, se siete credenti.
 
 يَسْـَٔلُونَكَ عَنِ ٱلْأَنفَالِ ۖ قُلِ ٱلْأَنفَالُ لِلَّهِ وَٱلرَّسُولِ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَصْلِحُوا۟ ذَاتَ بَيْنِكُمْ ۖ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤْمِنِينَ
 
@@ -4901,7 +4901,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 لِيُحِقَّ ٱلْحَقَّ وَيُبْطِلَ ٱلْبَٰطِلَ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ
 
-**8:9** Quando avete chiesto aiuto al vostro Signore, Lui vi ha risposto: "Vi rinforzo con mille angeli in successione."
+**8:9** Quando avete chiesto aiuto al vostro Signore, Lui vi ha risposto: «Vi rinforzo con mille angeli in successione.»
 
 إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَٱسْتَجَابَ لَكُمْ أَنِّى مُمِدُّكُم بِأَلْفٍۢ مِّنَ ٱلْمَلَٰٓئِكَةِ مُرْدِفِينَ
 
@@ -4913,7 +4913,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِذْ يُغَشِّيكُمُ ٱلنُّعَاسَ أَمَنَةًۭ مِّنْهُ وَيُنَزِّلُ عَلَيْكُم مِّنَ ٱلسَّمَآءِ مَآءًۭ لِّيُطَهِّرَكُم بِهِۦ وَيُذْهِبَ عَنكُمْ رِجْزَ ٱلشَّيْطَٰنِ وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ ٱلْأَقْدَامَ
 
-**8:12** Il tuo Signore ispirò gli angeli: "Io sono con voi, quindi sostenete coloro che credono. Getterò terrore nei cuori di coloro che non credono. Quindi colpite sopra i colli, e colpite ogni punta delle loro dita."
+**8:12** Il tuo Signore ispirò gli angeli: «Io sono con voi, quindi sostenete coloro che credono. Getterò terrore nei cuori di coloro che non credono. Quindi colpite sopra i colli, e colpite ogni punta delle loro dita.»
 
 إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟ ۚ سَأُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟ مِنْهُمْ كُلَّ بَنَانٍۢ
 
@@ -4921,7 +4921,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ذَٰلِكَ بِأَنَّهُمْ شَآقُّوا۟ ٱللَّهَ وَرَسُولَهُۥ ۚ وَمَن يُشَاقِقِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
 
-**8:14** "Eccolo; quindi assaggiatelo." Per i miscredenti c'è la sofferenza del Fuoco.
+**8:14** «Eccolo; quindi assaggiatelo.» Per i miscredenti c'è la sofferenza del Fuoco.
 
 ذَٰلِكُمْ فَذُوقُوهُ وَأَنَّ لِلْكَٰفِرِينَ عَذَابَ ٱلنَّارِ
 
@@ -4949,7 +4949,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَوَلَّوْا۟ عَنْهُ وَأَنتُمْ تَسْمَعُونَ
 
-**8:21** E non siate come coloro che dicono: "Sentiamo," quando non sentono.
+**8:21** E non siate come coloro che dicono: «Sentiamo,» quando non sentono.
 
 وَلَا تَكُونُوا۟ كَٱلَّذِينَ قَالُوا۟ سَمِعْنَا وَهُمْ لَا يَسْمَعُونَ
 
@@ -4989,11 +4989,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَإِذْ يَمْكُرُ بِكَ ٱلَّذِينَ كَفَرُوا۟ لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ ۚ وَيَمْكُرُونَ وَيَمْكُرُ ٱللَّهُ ۖ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ
 
-**8:31** E quando le Nostre rivelazioni sono recitate loro, dicono: "Abbiamo sentito. Se avessimo voluto, avremmo potuto dire il simile di questo; questi non sono altro che miti degli antichi."
+**8:31** E quando le Nostre rivelazioni sono recitate loro, dicono: «Abbiamo sentito. Se avessimo voluto, avremmo potuto dire il simile di questo; questi non sono altro che miti degli antichi.»
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا قَالُوا۟ قَدْ سَمِعْنَا لَوْ نَشَآءُ لَقُلْنَا مِثْلَ هَٰذَآ ۙ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
-**8:32** E dissero: "Dio nostro, se questa è la verità da Te, allora fai piovere su di noi pietre dal cielo, o visitaci con un'afflizione dolorosa."
+**8:32** E dissero: «Dio nostro, se questa è la verità da Te, allora fai piovere su di noi pietre dal cielo, o visitaci con un'afflizione dolorosa.»
 
 وَإِذْ قَالُوا۟ ٱللَّهُمَّ إِن كَانَ هَٰذَا هُوَ ٱلْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةًۭ مِّنَ ٱلسَّمَآءِ أَوِ ٱئْتِنَا بِعَذَابٍ أَلِيمٍۢ
 
@@ -5057,19 +5057,19 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَا تَكُونُوا۟ كَٱلَّذِينَ خَرَجُوا۟ مِن دِيَٰرِهِم بَطَرًۭا وَرِئَآءَ ٱلنَّاسِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ ۚ وَٱللَّهُ بِمَا يَعْمَلُونَ مُحِيطٌۭ
 
-**8:48** Satana fece apparire buone le loro azioni, e disse: "Non potete essere sconfitti da nessun popolo oggi, e io sono al vostro fianco." Ma quando i due eserciti vennero in vista l'uno dell'altro, si voltò sui tacchi, e disse: "Sono innocente di voi; vedo ciò che voi non vedete; temo Dio; Dio è severo nella punizione."
+**8:48** Satana fece apparire buone le loro azioni, e disse: «Non potete essere sconfitti da nessun popolo oggi, e io sono al vostro fianco.» Ma quando i due eserciti vennero in vista l'uno dell'altro, si voltò sui tacchi, e disse: «Sono innocente di voi; vedo ciò che voi non vedete; temo Dio; Dio è severo nella punizione.»
 
 وَإِذْ زَيَّنَ لَهُمُ ٱلشَّيْطَٰنُ أَعْمَٰلَهُمْ وَقَالَ لَا غَالِبَ لَكُمُ ٱلْيَوْمَ مِنَ ٱلنَّاسِ وَإِنِّى جَارٌۭ لَّكُمْ ۖ فَلَمَّا تَرَآءَتِ ٱلْفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيْهِ وَقَالَ إِنِّى بَرِىٓءٌۭ مِّنكُمْ إِنِّىٓ أَرَىٰ مَا لَا تَرَوْنَ إِنِّىٓ أَخَافُ ٱللَّهَ ۚ وَٱللَّهُ شَدِيدُ ٱلْعِقَابِ
 
-**8:49** Gli ipocriti e coloro nei cui cuori c'è malattia dissero: "La loro religione ha illuso queste persone." Ma chiunque ripone la sua fiducia in Dio — Dio è Potente e Saggio.
+**8:49** Gli ipocriti e coloro nei cui cuori c'è malattia dissero: «La loro religione ha illuso queste persone.» Ma chiunque ripone la sua fiducia in Dio — Dio è Potente e Saggio.
 
 إِذْ يَقُولُ ٱلْمُنَٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ غَرَّ هَٰٓؤُلَآءِ دِينُهُمْ ۗ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَإِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌۭ
 
-**8:50** Se solo potessi vedere, mentre gli angeli portano via coloro che non credono, colpendo i loro volti e le loro schiene: "Assaggiate l'agonia del Bruciante."
+**8:50** Se solo potessi vedere, mentre gli angeli portano via coloro che non credono, colpendo i loro volti e le loro schiene: «Assaggiate l'agonia del Bruciante.»
 
 وَلَوْ تَرَىٰٓ إِذْ يَتَوَفَّى ٱلَّذِينَ كَفَرُوا۟ ۙ ٱلْمَلَٰٓئِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَٰرَهُمْ وَذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
 
-**8:51** "Questo è a causa di ciò che le vostre mani hanno commesso, e perché Dio non è ingiusto verso i servi."
+**8:51** «Questo è a causa di ciò che le vostre mani hanno commesso, e perché Dio non è ingiusto verso i servi.»
 
 ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّٰمٍۢ لِّلْعَبِيدِ
 
@@ -5145,7 +5145,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَكُلُوا۟ مِمَّا غَنِمْتُمْ حَلَٰلًۭا طَيِّبًۭا ۚ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ
 
-**8:70** O profeta! Di' a coloro che tieni prigionieri: "Se Dio trova qualche bene nei vostri cuori, vi darà meglio di ciò che vi è stato preso, e vi perdonerà. Dio è Perdonante e Misericordioso."
+**8:70** O profeta! Di' a coloro che tieni prigionieri: «Se Dio trova qualche bene nei vostri cuori, vi darà meglio di ciò che vi è stato preso, e vi perdonerà. Dio è Perdonante e Misericordioso.»
 
 يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّمَن فِىٓ أَيْدِيكُم مِّنَ ٱلْأَسْرَىٰٓ إِن يَعْلَمِ ٱللَّهُ فِى قُلُوبِكُمْ خَيْرًۭا يُؤْتِكُمْ خَيْرًۭا مِّمَّآ أُخِذَ مِنكُمْ وَيَغْفِرْ لَكُمْ ۗ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ
 
@@ -5269,7 +5269,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوٓا۟ ءَابَآءَكُمْ وَإِخْوَٰنَكُمْ أَوْلِيَآءَ إِنِ ٱسْتَحَبُّوا۟ ٱلْكُفْرَ عَلَى ٱلْإِيمَٰنِ ۚ وَمَن يَتَوَلَّهُم مِّنكُمْ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
 
-**9:24** Di': "Se i vostri genitori, e i vostri figli, e i vostri fratelli, e i vostri coniugi, e i vostri parenti, e la ricchezza che avete acquisito, e un affare di cui vi preoccupate, e case che amate, sono più cari a voi di Dio, e del Suo Messaggero, e della lotta nella Sua causa, allora aspettate finché Dio non eseguirà il Suo giudizio." Dio non guida il popolo peccatore.
+**9:24** Di': «Se i vostri genitori, e i vostri figli, e i vostri fratelli, e i vostri coniugi, e i vostri parenti, e la ricchezza che avete acquisito, e un affare di cui vi preoccupate, e case che amate, sono più cari a voi di Dio, e del Suo Messaggero, e della lotta nella Sua causa, allora aspettate finché Dio non eseguirà il Suo giudizio.» Dio non guida il popolo peccatore.
 
 قُلْ إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَٰلٌ ٱقْتَرَفْتُمُوهَا وَتِجَٰرَةٌۭ تَخْشَوْنَ كَسَادَهَا وَمَسَٰكِنُ تَرْضَوْنَهَآ أَحَبَّ إِلَيْكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٍۢ فِى سَبِيلِهِۦ فَتَرَبَّصُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ بِأَمْرِهِۦ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 
@@ -5293,7 +5293,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 قَٰتِلُوا۟ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْءَاخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلْحَقِّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حَتَّىٰ يُعْطُوا۟ ٱلْجِزْيَةَ عَن يَدٍۢ وَهُمْ صَٰغِرُونَ
 
-**9:30** Gli Ebrei dissero: "Esdra è il figlio di Dio," e i Cristiani dissero: "Il Messia è il figlio di Dio." Queste sono le loro affermazioni, dalle loro bocche. Emulano le affermazioni di coloro che bestemmiarono prima. Che Dio li assalga! Quanto sono ingannati!
+**9:30** Gli Ebrei dissero: «Esdra è il figlio di Dio,» e i Cristiani dissero: «Il Messia è il figlio di Dio.» Queste sono le loro affermazioni, dalle loro bocche. Emulano le affermazioni di coloro che bestemmiarono prima. Che Dio li assalga! Quanto sono ingannati!
 
 وَقَالَتِ ٱلْيَهُودُ عُزَيْرٌ ٱبْنُ ٱللَّهِ وَقَالَتِ ٱلنَّصَٰرَى ٱلْمَسِيحُ ٱبْنُ ٱللَّهِ ۖ ذَٰلِكَ قَوْلُهُم بِأَفْوَٰهِهِمْ ۖ يُضَٰهِـُٔونَ قَوْلَ ٱلَّذِينَ كَفَرُوا۟ مِن قَبْلُ ۚ قَٰتَلَهُمُ ٱللَّهُ ۚ أَنَّىٰ يُؤْفَكُونَ
 
@@ -5313,7 +5313,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ كَثِيرًۭا مِّنَ ٱلْأَحْبَارِ وَٱلرُّهْبَانِ لَيَأْكُلُونَ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ ۗ وَٱلَّذِينَ يَكْنِزُونَ ٱلذَّهَبَ وَٱلْفِضَّةَ وَلَا يُنفِقُونَهَا فِى سَبِيلِ ٱللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍۢ
 
-**9:35** Nel Giorno in cui saranno riscaldati nel Fuoco dell'Inferno, allora le loro fronti, e i loro fianchi, e le loro schiene saranno marchiati con essi: "Questo è ciò che avete accumulato per voi stessi; quindi assaggiate ciò che accumulavate."
+**9:35** Nel Giorno in cui saranno riscaldati nel Fuoco dell'Inferno, allora le loro fronti, e i loro fianchi, e le loro schiene saranno marchiati con essi: «Questo è ciò che avete accumulato per voi stessi; quindi assaggiate ciò che accumulavate.»
 
 يَوْمَ يُحْمَىٰ عَلَيْهَا فِى نَارِ جَهَنَّمَ فَتُكْوَىٰ بِهَا جِبَاهُهُمْ وَجُنُوبُهُمْ وَظُهُورُهُمْ ۖ هَٰذَا مَا كَنَزْتُمْ لِأَنفُسِكُمْ فَذُوقُوا۟ مَا كُنتُمْ تَكْنِزُونَ
 
@@ -5325,7 +5325,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنَّمَا ٱلنَّسِىٓءُ زِيَادَةٌۭ فِى ٱلْكُفْرِ ۖ يُضَلُّ بِهِ ٱلَّذِينَ كَفَرُوا۟ يُحِلُّونَهُۥ عَامًۭا وَيُحَرِّمُونَهُۥ عَامًۭا لِّيُوَاطِـُٔوا۟ عِدَّةَ مَا حَرَّمَ ٱللَّهُ فَيُحِلُّوا۟ مَا حَرَّمَ ٱللَّهُ ۚ زُيِّنَ لَهُمْ سُوٓءُ أَعْمَٰلِهِمْ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ
 
-**9:38** O voi che credete! Che cosa vi succede, quando vi viene detto: "Mobilitatevi nella causa di Dio," vi aggrappate pesantemente alla terra? Preferite la vita presente all'Aldilà? Il godimento della vita presente, paragonato all'Aldilà, è solo poco.
+**9:38** O voi che credete! Che cosa vi succede, quando vi viene detto: «Mobilitatevi nella causa di Dio,» vi aggrappate pesantemente alla terra? Preferite la vita presente all'Aldilà? Il godimento della vita presente, paragonato all'Aldilà, è solo poco.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَا لَكُمْ إِذَا قِيلَ لَكُمُ ٱنفِرُوا۟ فِى سَبِيلِ ٱللَّهِ ٱثَّاقَلْتُمْ إِلَى ٱلْأَرْضِ ۚ أَرَضِيتُم بِٱلْحَيَوٰةِ ٱلدُّنْيَا مِنَ ٱلْءَاخِرَةِ ۚ فَمَا مَتَٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا فِى ٱلْءَاخِرَةِ إِلَّا قَلِيلٌ
 
@@ -5333,7 +5333,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِلَّا تَنفِرُوا۟ يُعَذِّبْكُمْ عَذَابًا أَلِيمًۭا وَيَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ وَلَا تَضُرُّوهُ شَيْـًۭٔا ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ
 
-**9:40** Se non lo aiutate, Dio lo ha già aiutato, quando coloro che non credevano lo espulsero, ed era il secondo di due nella caverna. Disse al suo amico: "Non preoccuparti, Dio è con noi." E Dio fece scendere la Sua tranquillità su di lui, e lo sostenne con forze che non avete visto, e rese la parola di coloro che non credevano la più bassa, mentre la Parola di Dio è la Più Alta. Dio è Potente e Saggio.
+**9:40** Se non lo aiutate, Dio lo ha già aiutato, quando coloro che non credevano lo espulsero, ed era il secondo di due nella caverna. Disse al suo amico: «Non preoccuparti, Dio è con noi.» E Dio fece scendere la Sua tranquillità su di lui, e lo sostenne con forze che non avete visto, e rese la parola di coloro che non credevano la più bassa, mentre la Parola di Dio è la Più Alta. Dio è Potente e Saggio.
 
 إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا ۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍۢ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُوا۟ ٱلسُّفْلَىٰ ۗ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ
 
@@ -5341,7 +5341,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ٱنفِرُوا۟ خِفَافًۭا وَثِقَالًۭا وَجَٰهِدُوا۟ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ فِى سَبِيلِ ٱللَّهِ ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
 
-**9:42** Se il guadagno fosse stato immediato, e il viaggio più breve, vi avrebbero seguiti; ma la distanza sembrò troppo lunga per loro. Tuttavia giurano per Dio: "Se avessimo potuto, avremmo marciato con voi." Dannano le loro stesse anime, e Dio sa che stanno mentendo.
+**9:42** Se il guadagno fosse stato immediato, e il viaggio più breve, vi avrebbero seguiti; ma la distanza sembrò troppo lunga per loro. Tuttavia giurano per Dio: «Se avessimo potuto, avremmo marciato con voi.» Dannano le loro stesse anime, e Dio sa che stanno mentendo.
 
 لَوْ كَانَ عَرَضًۭا قَرِيبًۭا وَسَفَرًۭا قَاصِدًۭا لَّٱتَّبَعُوكَ وَلَٰكِنۢ بَعُدَتْ عَلَيْهِمُ ٱلشُّقَّةُ ۚ وَسَيَحْلِفُونَ بِٱللَّهِ لَوِ ٱسْتَطَعْنَا لَخَرَجْنَا مَعَكُمْ يُهْلِكُونَ أَنفُسَهُمْ وَٱللَّهُ يَعْلَمُ إِنَّهُمْ لَكَٰذِبُونَ
 
@@ -5357,7 +5357,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنَّمَا يَسْتَـْٔذِنُكَ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَٱرْتَابَتْ قُلُوبُهُمْ فَهُمْ فِى رَيْبِهِمْ يَتَرَدَّدُونَ
 
-**9:46** Se avessero voluto mobilitarsi, avrebbero fatto preparativi per esso; ma Dio detestava la loro partecipazione, così li ha trattenuti, e fu detto: "Rimanete indietro con coloro che rimangono indietro."
+**9:46** Se avessero voluto mobilitarsi, avrebbero fatto preparativi per esso; ma Dio detestava la loro partecipazione, così li ha trattenuti, e fu detto: «Rimanete indietro con coloro che rimangono indietro.»
 
 ۞ وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ لَأَعَدُّوا۟ لَهُۥ عُدَّةًۭ وَلَٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ ٱقْعُدُوا۟ مَعَ ٱلْقَٰعِدِينَ
 
@@ -5369,23 +5369,23 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 لَقَدِ ٱبْتَغَوُا۟ ٱلْفِتْنَةَ مِن قَبْلُ وَقَلَّبُوا۟ لَكَ ٱلْأُمُورَ حَتَّىٰ جَآءَ ٱلْحَقُّ وَظَهَرَ أَمْرُ ٱللَّهِ وَهُمْ كَٰرِهُونَ
 
-**9:49** Tra loro c'è chi dice: "Scusami, e non mettermi in difficoltà." In realtà, sono sprofondati nei problemi. In realtà, l'Inferno avvolgerà i miscredenti.
+**9:49** Tra loro c'è chi dice: «Scusami, e non mettermi in difficoltà.» In realtà, sono sprofondati nei problemi. In realtà, l'Inferno avvolgerà i miscredenti.
 
 وَمِنْهُم مَّن يَقُولُ ٱئْذَن لِّى وَلَا تَفْتِنِّىٓ ۚ أَلَا فِى ٱلْفِتْنَةِ سَقَطُوا۟ ۗ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌۢ بِٱلْكَٰفِرِينَ
 
-**9:50** Se ti accade qualcosa di buono, li sconvolge; e se una calamità ti colpisce, dicono: "Abbiamo preso le nostre precauzioni in anticipo," e se ne vanno, felici.
+**9:50** Se ti accade qualcosa di buono, li sconvolge; e se una calamità ti colpisce, dicono: «Abbiamo preso le nostre precauzioni in anticipo,» e se ne vanno, felici.
 
 إِن تُصِبْكَ حَسَنَةٌۭ تَسُؤْهُمْ ۖ وَإِن تُصِبْكَ مُصِيبَةٌۭ يَقُولُوا۟ قَدْ أَخَذْنَآ أَمْرَنَا مِن قَبْلُ وَيَتَوَلَّوا۟ وَّهُمْ فَرِحُونَ
 
-**9:51** Di': "Nulla ci accadrà tranne ciò che Dio ha ordinato per noi; Lui è il nostro Protettore." In Dio i fedeli ripongano la loro fiducia.
+**9:51** Di': «Nulla ci accadrà tranne ciò che Dio ha ordinato per noi; Lui è il nostro Protettore.» In Dio i fedeli ripongano la loro fiducia.
 
 قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
 
-**9:52** Di': "State aspettando per noi altro che una delle due eccellenze? Quanto a noi: stiamo aspettando che Dio vi affligga con una punizione da Lui stesso, o per le nostre mani. Quindi aspettate, noi aspettiamo con voi."
+**9:52** Di': «State aspettando per noi altro che una delle due eccellenze? Quanto a noi: stiamo aspettando che Dio vi affligga con una punizione da Lui stesso, o per le nostre mani. Quindi aspettate, noi aspettiamo con voi.»
 
 قُلْ هَلْ تَرَبَّصُونَ بِنَآ إِلَّآ إِحْدَى ٱلْحُسْنَيَيْنِ ۖ وَنَحْنُ نَتَرَبَّصُ بِكُمْ أَن يُصِيبَكُمُ ٱللَّهُ بِعَذَابٍۢ مِّنْ عِندِهِۦٓ أَوْ بِأَيْدِينَا ۖ فَتَرَبَّصُوٓا۟ إِنَّا مَعَكُم مُّتَرَبِّصُونَ
 
-**9:53** Di': "Che spendiate volontariamente o involontariamente, non sarà accettato da voi. Siete persone cattive."
+**9:53** Di': «Che spendiate volontariamente o involontariamente, non sarà accettato da voi. Siete persone cattive.»
 
 قُلْ أَنفِقُوا۟ طَوْعًا أَوْ كَرْهًۭا لَّن يُتَقَبَّلَ مِنكُمْ ۖ إِنَّكُمْ كُنتُمْ قَوْمًۭا فَٰسِقِينَ
 
@@ -5409,7 +5409,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَمِنْهُم مَّن يَلْمِزُكَ فِى ٱلصَّدَقَٰتِ فَإِنْ أُعْطُوا۟ مِنْهَا رَضُوا۟ وَإِن لَّمْ يُعْطَوْا۟ مِنْهَآ إِذَا هُمْ يَسْخَطُونَ
 
-**9:59** Se solo fossero contenti di ciò che Dio e il Suo Messaggero hanno dato loro, e dicessero: "Dio ci basta; Dio ci darà del Suo favore, e così farà il Suo Messaggero; a Dio ci rivolgiamo con fervore."
+**9:59** Se solo fossero contenti di ciò che Dio e il Suo Messaggero hanno dato loro, e dicessero: «Dio ci basta; Dio ci darà del Suo favore, e così farà il Suo Messaggero; a Dio ci rivolgiamo con fervore.»
 
 وَلَوْ أَنَّهُمْ رَضُوا۟ مَآ ءَاتَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ وَقَالُوا۟ حَسْبُنَا ٱللَّهُ سَيُؤْتِينَا ٱللَّهُ مِن فَضْلِهِۦ وَرَسُولُهُۥٓ إِنَّآ إِلَى ٱللَّهِ رَٰغِبُونَ
 
@@ -5417,7 +5417,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ۞ إِنَّمَا ٱلصَّدَقَٰتُ لِلْفُقَرَآءِ وَٱلْمَسَٰكِينِ وَٱلْعَٰمِلِينَ عَلَيْهَا وَٱلْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِى ٱلرِّقَابِ وَٱلْغَٰرِمِينَ وَفِى سَبِيلِ ٱللَّهِ وَٱبْنِ ٱلسَّبِيلِ ۖ فَرِيضَةًۭ مِّنَ ٱللَّهِ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ
 
-**9:61** E tra loro ci sono coloro che insultano il Profeta, e dicono: "È tutto orecchie." Di': "Ascolta per il vostro bene. Crede in Dio, e si fida dei credenti, ed è misericordia per coloro tra voi che credono." Coloro che insultano il Messaggero di Dio avranno una penale dolorosa.
+**9:61** E tra loro ci sono coloro che insultano il Profeta, e dicono: «È tutto orecchie.» Di': «Ascolta per il vostro bene. Crede in Dio, e si fida dei credenti, ed è misericordia per coloro tra voi che credono.» Coloro che insultano il Messaggero di Dio avranno una penale dolorosa.
 
 وَمِنْهُمُ ٱلَّذِينَ يُؤْذُونَ ٱلنَّبِىَّ وَيَقُولُونَ هُوَ أُذُنٌۭ ۚ قُلْ أُذُنُ خَيْرٍۢ لَّكُمْ يُؤْمِنُ بِٱللَّهِ وَيُؤْمِنُ لِلْمُؤْمِنِينَ وَرَحْمَةٌۭ لِّلَّذِينَ ءَامَنُوا۟ مِنكُمْ ۚ وَٱلَّذِينَ يُؤْذُونَ رَسُولَ ٱللَّهِ لَهُمْ عَذَابٌ أَلِيمٌۭ
 
@@ -5429,11 +5429,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَلَمْ يَعْلَمُوٓا۟ أَنَّهُۥ مَن يُحَادِدِ ٱللَّهَ وَرَسُولَهُۥ فَأَنَّ لَهُۥ نَارَ جَهَنَّمَ خَٰلِدًۭا فِيهَا ۚ ذَٰلِكَ ٱلْخِزْىُ ٱلْعَظِيمُ
 
-**9:64** Gli ipocriti si preoccupano che possa essere rivelato un capitolo su di loro, informandoli di ciò che è nei loro cuori. Di': "Continuate a scherzare; Dio farà uscire ciò che temete."
+**9:64** Gli ipocriti si preoccupano che possa essere rivelato un capitolo su di loro, informandoli di ciò che è nei loro cuori. Di': «Continuate a scherzare; Dio farà uscire ciò che temete.»
 
 يَحْذَرُ ٱلْمُنَٰفِقُونَ أَن تُنَزَّلَ عَلَيْهِمْ سُورَةٌۭ تُنَبِّئُهُم بِمَا فِى قُلُوبِهِمْ ۚ قُلِ ٱسْتَهْزِءُوٓا۟ إِنَّ ٱللَّهَ مُخْرِجٌۭ مَّا تَحْذَرُونَ
 
-**9:65** Se chiedi loro, diranno: "Stavamo solo scherzando e giocando." Di': "Stavate scherzando su Dio, le Sue rivelazioni, e il Suo Messaggero?"
+**9:65** Se chiedi loro, diranno: «Stavamo solo scherzando e giocando.» Di': «Stavate scherzando su Dio, le Sue rivelazioni, e il Suo Messaggero?»
 
 وَلَئِن سَأَلْتَهُمْ لَيَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلْعَبُ ۚ قُلْ أَبِٱللَّهِ وَءَايَٰتِهِۦ وَرَسُولِهِۦ كُنتُمْ تَسْتَهْزِءُونَ
 
@@ -5473,7 +5473,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 يَحْلِفُونَ بِٱللَّهِ مَا قَالُوا۟ وَلَقَدْ قَالُوا۟ كَلِمَةَ ٱلْكُفْرِ وَكَفَرُوا۟ بَعْدَ إِسْلَٰمِهِمْ وَهَمُّوا۟ بِمَا لَمْ يَنَالُوا۟ ۚ وَمَا نَقَمُوٓا۟ إِلَّآ أَنْ أَغْنَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ مِن فَضْلِهِۦ ۚ فَإِن يَتُوبُوا۟ يَكُ خَيْرًۭا لَّهُمْ ۖ وَإِن يَتَوَلَّوْا۟ يُعَذِّبْهُمُ ٱللَّهُ عَذَابًا أَلِيمًۭا فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ ۚ وَمَا لَهُمْ فِى ٱلْأَرْضِ مِن وَلِىٍّۢ وَلَا نَصِيرٍۢ
 
-**9:75** Tra loro ci sono coloro che hanno promesso a Dio: "Se ci dà del Suo favore, doneremo e saremo tra i retti."
+**9:75** Tra loro ci sono coloro che hanno promesso a Dio: «Se ci dà del Suo favore, doneremo e saremo tra i retti.»
 
 ۞ وَمِنْهُم مَّنْ عَٰهَدَ ٱللَّهَ لَئِنْ ءَاتَىٰنَا مِن فَضْلِهِۦ لَنَصَّدَّقَنَّ وَلَنَكُونَنَّ مِنَ ٱلصَّٰلِحِينَ
 
@@ -5497,7 +5497,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ٱسْتَغْفِرْ لَهُمْ أَوْ لَا تَسْتَغْفِرْ لَهُمْ إِن تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةًۭ فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ ذَٰلِكَ بِأَنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 
-**9:81** Coloro che rimasero indietro gioirono del loro rimanere indietro rispetto al Messaggero di Dio. E odiavano lottare con la loro ricchezza e le loro vite nella via di Dio. E dissero: "Non avventuratevi nel caldo." Di': "Il Fuoco dell'Inferno è molto più caldo, se solo capissero."
+**9:81** Coloro che rimasero indietro gioirono del loro rimanere indietro rispetto al Messaggero di Dio. E odiavano lottare con la loro ricchezza e le loro vite nella via di Dio. E dissero: «Non avventuratevi nel caldo.» Di': «Il Fuoco dell'Inferno è molto più caldo, se solo capissero.»
 
 فَرِحَ ٱلْمُخَلَّفُونَ بِمَقْعَدِهِمْ خِلَٰفَ رَسُولِ ٱللَّهِ وَكَرِهُوٓا۟ أَن يُجَٰهِدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ وَقَالُوا۟ لَا تَنفِرُوا۟ فِى ٱلْحَرِّ ۗ قُلْ نَارُ جَهَنَّمَ أَشَدُّ حَرًّۭا ۚ لَّوْ كَانُوا۟ يَفْقَهُونَ
 
@@ -5505,7 +5505,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَلْيَضْحَكُوا۟ قَلِيلًۭا وَلْيَبْكُوا۟ كَثِيرًۭا جَزَآءًۢ بِمَا كَانُوا۟ يَكْسِبُونَ
 
-**9:83** Se Dio ti riporta a un gruppo di loro, e ti chiedono il permesso di uscire, di': "Non uscirete mai con me, né combatterete mai un nemico con me. Eravate contenti di sedere indietro la prima volta, quindi sedete indietro con coloro che rimangono indietro."
+**9:83** Se Dio ti riporta a un gruppo di loro, e ti chiedono il permesso di uscire, di': «Non uscirete mai con me, né combatterete mai un nemico con me. Eravate contenti di sedere indietro la prima volta, quindi sedete indietro con coloro che rimangono indietro.»
 
 فَإِن رَّجَعَكَ ٱللَّهُ إِلَىٰ طَآئِفَةٍۢ مِّنْهُمْ فَٱسْتَـْٔذَنُوكَ لِلْخُرُوجِ فَقُل لَّن تَخْرُجُوا۟ مَعِىَ أَبَدًۭا وَلَن تُقَٰتِلُوا۟ مَعِىَ عَدُوًّا ۖ إِنَّكُمْ رَضِيتُم بِٱلْقُعُودِ أَوَّلَ مَرَّةٍۢ فَٱقْعُدُوا۟ مَعَ ٱلْخَٰلِفِينَ
 
@@ -5517,7 +5517,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَا تُعْجِبْكَ أَمْوَٰلُهُمْ وَأَوْلَٰدُهُمْ ۚ إِنَّمَا يُرِيدُ ٱللَّهُ أَن يُعَذِّبَهُم بِهَا فِى ٱلدُّنْيَا وَتَزْهَقَ أَنفُسُهُمْ وَهُمْ كَٰفِرُونَ
 
-**9:86** Quando un capitolo è rivelato, che afferma: "Credete in Dio e lottate con il Suo Messaggero," i prominenti tra loro ti chiedono esenzione. Dicono: "Permettici di stare con coloro che rimangono indietro."
+**9:86** Quando un capitolo è rivelato, che afferma: «Credete in Dio e lottate con il Suo Messaggero,» i prominenti tra loro ti chiedono esenzione. Dicono: «Permettici di stare con coloro che rimangono indietro.»
 
 وَإِذَآ أُنزِلَتْ سُورَةٌ أَنْ ءَامِنُوا۟ بِٱللَّهِ وَجَٰهِدُوا۟ مَعَ رَسُولِهِ ٱسْتَـْٔذَنَكَ أُو۟لُوا۟ ٱلطَّوْلِ مِنْهُمْ وَقَالُوا۟ ذَرْنَا نَكُن مَّعَ ٱلْقَٰعِدِينَ
 
@@ -5541,7 +5541,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 لَّيْسَ عَلَى ٱلضُّعَفَآءِ وَلَا عَلَى ٱلْمَرْضَىٰ وَلَا عَلَى ٱلَّذِينَ لَا يَجِدُونَ مَا يُنفِقُونَ حَرَجٌ إِذَا نَصَحُوا۟ لِلَّهِ وَرَسُولِهِۦ ۚ مَا عَلَى ٱلْمُحْسِنِينَ مِن سَبِيلٍۢ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ
 
-**9:92** Né su coloro che si avvicinano a te, desiderando cavalcare con te, e tu dicesti: "Non ho nulla su cui portarvi." Così se ne andarono, con gli occhi traboccanti di lacrime, addolorati per non trovare i mezzi per spendere.
+**9:92** Né su coloro che si avvicinano a te, desiderando cavalcare con te, e tu dicesti: «Non ho nulla su cui portarvi.» Così se ne andarono, con gli occhi traboccanti di lacrime, addolorati per non trovare i mezzi per spendere.
 
 وَلَا عَلَى ٱلَّذِينَ إِذَا مَآ أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لَآ أَجِدُ مَآ أَحْمِلُكُمْ عَلَيْهِ تَوَلَّوا۟ وَّأَعْيُنُهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ حَزَنًا أَلَّا يَجِدُوا۟ مَا يُنفِقُونَ
 
@@ -5549,7 +5549,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ۞ إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَسْتَـْٔذِنُونَكَ وَهُمْ أَغْنِيَآءُ ۚ رَضُوا۟ بِأَن يَكُونُوا۟ مَعَ ٱلْخَوَالِفِ وَطَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَعْلَمُونَ
 
-**9:94** Ti presentano scuse quando ritorni da loro. Di': "Non offrire scuse; non ci fidiamo di voi; Dio ci ha informati di voi. E Dio osserverà le vostre azioni, e così farà il Messaggero; poi sarete restituiti al Conoscitore dell'Invisibile e del Visibile, e Lui vi informerà di ciò che facevate."
+**9:94** Ti presentano scuse quando ritorni da loro. Di': «Non offrire scuse; non ci fidiamo di voi; Dio ci ha informati di voi. E Dio osserverà le vostre azioni, e così farà il Messaggero; poi sarete restituiti al Conoscitore dell'Invisibile e del Visibile, e Lui vi informerà di ciò che facevate.»
 
 يَعْتَذِرُونَ إِلَيْكُمْ إِذَا رَجَعْتُمْ إِلَيْهِمْ ۚ قُل لَّا تَعْتَذِرُوا۟ لَن نُّؤْمِنَ لَكُمْ قَدْ نَبَّأَنَا ٱللَّهُ مِنْ أَخْبَارِكُمْ ۚ وَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ ثُمَّ تُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 
@@ -5593,7 +5593,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ هُوَ يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَأْخُذُ ٱلصَّدَقَٰتِ وَأَنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
-**9:105** Di': "Lavorate. Dio vedrà il vostro lavoro, e così farà il Suo Messaggero, e i credenti. Poi sarete restituiti al Conoscitore dei segreti e delle dichiarazioni, e Lui vi informerà di ciò che facevate."
+**9:105** Di': «Lavorate. Dio vedrà il vostro lavoro, e così farà il Suo Messaggero, e i credenti. Poi sarete restituiti al Conoscitore dei segreti e delle dichiarazioni, e Lui vi informerà di ciò che facevate.»
 
 وَقُلِ ٱعْمَلُوا۟ فَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ وَٱلْمُؤْمِنُونَ ۖ وَسَتُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 
@@ -5601,7 +5601,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَءَاخَرُونَ مُرْجَوْنَ لِأَمْرِ ٱللَّهِ إِمَّا يُعَذِّبُهُمْ وَإِمَّا يَتُوبُ عَلَيْهِمْ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ
 
-**9:107** Poi ci sono coloro che stabiliscono una moschea per causare danno, e miscredenza, e disunione tra i credenti, e come avamposto per coloro che combattono Dio e il Suo Messaggero. Giureranno: "Le nostre intenzioni non sono altro che buone." Ma Dio testimonia che sono bugiardi.
+**9:107** Poi ci sono coloro che stabiliscono una moschea per causare danno, e miscredenza, e disunione tra i credenti, e come avamposto per coloro che combattono Dio e il Suo Messaggero. Giureranno: «Le nostre intenzioni non sono altro che buone.» Ma Dio testimonia che sono bugiardi.
 
 وَٱلَّذِينَ ٱتَّخَذُوا۟ مَسْجِدًۭا ضِرَارًۭا وَكُفْرًۭا وَتَفْرِيقًۢا بَيْنَ ٱلْمُؤْمِنِينَ وَإِرْصَادًۭا لِّمَنْ حَارَبَ ٱللَّهَ وَرَسُولَهُۥ مِن قَبْلُ ۚ وَلَيَحْلِفُنَّ إِنْ أَرَدْنَآ إِلَّا ٱلْحُسْنَىٰ ۖ وَٱللَّهُ يَشْهَدُ إِنَّهُمْ لَكَٰذِبُونَ
 
@@ -5669,7 +5669,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قَٰتِلُوا۟ ٱلَّذِينَ يَلُونَكُم مِّنَ ٱلْكُفَّارِ وَلْيَجِدُوا۟ فِيكُمْ غِلْظَةًۭ ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ
 
-**9:124** Ogni volta che un capitolo è rivelato, alcuni di loro dicono: "Quale di voi questo ha aumentato nella fede?" Quanto a coloro che credono: li aumenta nella fede, e gioiscono.
+**9:124** Ogni volta che un capitolo è rivelato, alcuni di loro dicono: «Quale di voi questo ha aumentato nella fede?» Quanto a coloro che credono: li aumenta nella fede, e gioiscono.
 
 وَإِذَا مَآ أُنزِلَتْ سُورَةٌۭ فَمِنْهُم مَّن يَقُولُ أَيُّكُمْ زَادَتْهُ هَٰذِهِۦٓ إِيمَٰنًۭا ۚ فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ فَزَادَتْهُمْ إِيمَٰنًۭا وَهُمْ يَسْتَبْشِرُونَ
 
@@ -5681,7 +5681,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَوَلَا يَرَوْنَ أَنَّهُمْ يُفْتَنُونَ فِى كُلِّ عَامٍۢ مَّرَّةً أَوْ مَرَّتَيْنِ ثُمَّ لَا يَتُوبُونَ وَلَا هُمْ يَذَّكَّرُونَ
 
-**9:127** E ogni volta che un capitolo è rivelato, si guardano l'un l'altro: "Qualcuno vi vede?" Poi scivolano via. Dio ha distolto i loro cuori, perché sono un popolo che non capisce.
+**9:127** E ogni volta che un capitolo è rivelato, si guardano l'un l'altro: «Qualcuno vi vede?» Poi scivolano via. Dio ha distolto i loro cuori, perché sono un popolo che non capisce.
 
 وَإِذَا مَآ أُنزِلَتْ سُورَةٌۭ نَّظَرَ بَعْضُهُمْ إِلَىٰ بَعْضٍ هَلْ يَرَىٰكُم مِّنْ أَحَدٍۢ ثُمَّ ٱنصَرَفُوا۟ ۚ صَرَفَ ٱللَّهُ قُلُوبَهُم بِأَنَّهُمْ قَوْمٌۭ لَّا يَفْقَهُونَ
 
@@ -5689,7 +5689,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 لَقَدْ جَآءَكُمْ رَسُولٌۭ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِٱلْمُؤْمِنِينَ رَءُوفٌۭ رَّحِيمٌۭ
 
-**9:129** Se si allontanano, di': "Dio mi basta; non c'è dio tranne Lui; in Lui ho riposto la mia fiducia; Lui è il Signore del Trono Sublime."
+**9:129** Se si allontanano, di': «Dio mi basta; non c'è dio tranne Lui; in Lui ho riposto la mia fiducia; Lui è il Signore del Trono Sublime.»
 
 فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ
 
@@ -5709,7 +5709,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 الٓر ۚ تِلْكَ ءَايَٰتُ ٱلْكِتَٰبِ ٱلْحَكِيمِ
 
-**10:2** È una meraviglia per la gente che abbiamo ispirato un uomo tra loro: "Ammonisci l'umanità, e dai buone notizie a coloro che credono che sono su una base solida presso il loro Signore"? I miscredenti dissero: "Questo è uno stregone manifesto."
+**10:2** È una meraviglia per la gente che abbiamo ispirato un uomo tra loro: «Ammonisci l'umanità, e dai buone notizie a coloro che credono che sono su una base solida presso il loro Signore»? I miscredenti dissero: «Questo è uno stregone manifesto.»
 
 أَكَانَ لِلنَّاسِ عَجَبًا أَنْ أَوْحَيْنَآ إِلَىٰ رَجُلٍۢ مِّنْهُمْ أَنْ أَنذِرِ ٱلنَّاسَ وَبَشِّرِ ٱلَّذِينَ ءَامَنُوٓا۟ أَنَّ لَهُمْ قَدَمَ صِدْقٍ عِندَ رَبِّهِمْ ۗ قَالَ ٱلْكَٰفِرُونَ إِنَّ هَٰذَا لَسَٰحِرٌۭ مُّبِينٌ
 
@@ -5741,7 +5741,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ يَهْدِيهِمْ رَبُّهُم بِإِيمَٰنِهِمْ ۖ تَجْرِى مِن تَحْتِهِمُ ٱلْأَنْهَٰرُ فِى جَنَّٰتِ ٱلنَّعِيمِ
 
-**10:10** La loro invocazione lì è: "Gloria a Te, Dio nostro." E il loro saluto lì è: "Pace." E l'ultima delle loro invocazioni è: "Lode a Dio, Signore dei Mondi."
+**10:10** La loro invocazione lì è: «Gloria a Te, Dio nostro.» E il loro saluto lì è: «Pace.» E l'ultima delle loro invocazioni è: «Lode a Dio, Signore dei Mondi.»
 
 دَعْوَىٰهُمْ فِيهَا سُبْحَٰنَكَ ٱللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا سَلَٰمٌۭ ۚ وَءَاخِرُ دَعْوَىٰهُمْ أَنِ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
@@ -5761,11 +5761,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ثُمَّ جَعَلْنَٰكُمْ خَلَٰٓئِفَ فِى ٱلْأَرْضِ مِنۢ بَعْدِهِمْ لِنَنظُرَ كَيْفَ تَعْمَلُونَ
 
-**10:15** E quando le Nostre chiare rivelazioni sono recitate loro, coloro che non sperano di incontrarCi dicono: "Porta un Corano diverso da questo, o cambialo." Di': "Non spetta a me cambiarlo di mia iniziativa. Seguo solo ciò che mi è rivelato. Temo, se disobbedissi al mio Signore, il tormento di un Giorno terribile."
+**10:15** E quando le Nostre chiare rivelazioni sono recitate loro, coloro che non sperano di incontrarCi dicono: «Porta un Corano diverso da questo, o cambialo.» Di': «Non spetta a me cambiarlo di mia iniziativa. Seguo solo ciò che mi è rivelato. Temo, se disobbedissi al mio Signore, il tormento di un Giorno terribile.»
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَاتُنَا بَيِّنَٰتٍۢ ۙ قَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا ٱئْتِ بِقُرْءَانٍ غَيْرِ هَٰذَآ أَوْ بَدِّلْهُ ۚ قُلْ مَا يَكُونُ لِىٓ أَنْ أُبَدِّلَهُۥ مِن تِلْقَآئِ نَفْسِىٓ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۖ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍۢ
 
-**10:16** Di': "Se Dio avesse voluto, non ve lo avrei recitato, e Lui non ve lo avrebbe fatto conoscere. Ho vissuto tra voi per una vita prima di esso. Non capite?"
+**10:16** Di': «Se Dio avesse voluto, non ve lo avrei recitato, e Lui non ve lo avrebbe fatto conoscere. Ho vissuto tra voi per una vita prima di esso. Non capite?»
 
 قُل لَّوْ شَآءَ ٱللَّهُ مَا تَلَوْتُهُۥ عَلَيْكُمْ وَلَآ أَدْرَىٰكُم بِهِۦ ۖ فَقَدْ لَبِثْتُ فِيكُمْ عُمُرًۭا مِّن قَبْلِهِۦٓ ۚ أَفَلَا تَعْقِلُونَ
 
@@ -5773,7 +5773,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِـَٔايَٰتِهِۦٓ ۚ إِنَّهُۥ لَا يُفْلِحُ ٱلْمُجْرِمُونَ
 
-**10:18** E adorano, oltre a Dio, ciò che né li danneggia né li beneficia. E dicono: "Questi sono i nostri intercessori presso Dio." Di': "State informando Dio su ciò che Lui non sa nei cieli o sulla terra?" Glorificato sia Lui, Alto sopra le associazioni che fanno.
+**10:18** E adorano, oltre a Dio, ciò che né li danneggia né li beneficia. E dicono: «Questi sono i nostri intercessori presso Dio.» Di': «State informando Dio su ciò che Lui non sa nei cieli o sulla terra?» Glorificato sia Lui, Alto sopra le associazioni che fanno.
 
 وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ وَيَقُولُونَ هَٰٓؤُلَآءِ شُفَعَٰٓؤُنَا عِندَ ٱللَّهِ ۚ قُلْ أَتُنَبِّـُٔونَ ٱللَّهَ بِمَا لَا يَعْلَمُ فِى ٱلسَّمَٰوَٰتِ وَلَا فِى ٱلْأَرْضِ ۚ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ
 
@@ -5781,15 +5781,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَمَا كَانَ ٱلنَّاسُ إِلَّآ أُمَّةًۭ وَٰحِدَةًۭ فَٱخْتَلَفُوا۟ ۚ وَلَوْلَا كَلِمَةٌۭ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ فِيمَا فِيهِ يَخْتَلِفُونَ
 
-**10:20** E dicono: "Se solo un miracolo fosse stato mandato giù a lui dal suo Signore." Di': "Il regno dell'invisibile appartiene a Dio; quindi aspettate, io aspetto con voi."
+**10:20** E dicono: «Se solo un miracolo fosse stato mandato giù a lui dal suo Signore.» Di': «Il regno dell'invisibile appartiene a Dio; quindi aspettate, io aspetto con voi.»
 
 وَيَقُولُونَ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌۭ مِّن رَّبِّهِۦ ۖ فَقُلْ إِنَّمَا ٱلْغَيْبُ لِلَّهِ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ
 
-**10:21** Quando facciamo assaggiare alla gente la misericordia dopo che qualche avversità li ha toccati, cominciano a tramare contro le Nostre rivelazioni. Di': "Dio è più rapido nel tramare." I Nostri inviati stanno scrivendo ciò che tramate.
+**10:21** Quando facciamo assaggiare alla gente la misericordia dopo che qualche avversità li ha toccati, cominciano a tramare contro le Nostre rivelazioni. Di': «Dio è più rapido nel tramare.» I Nostri inviati stanno scrivendo ciò che tramate.
 
 وَإِذَآ أَذَقْنَا ٱلنَّاسَ رَحْمَةًۭ مِّنۢ بَعْدِ ضَرَّآءَ مَسَّتْهُمْ إِذَا لَهُم مَّكْرٌۭ فِىٓ ءَايَاتِنَا ۚ قُلِ ٱللَّهُ أَسْرَعُ مَكْرًا ۚ إِنَّ رُسُلَنَا يَكْتُبُونَ مَا تَمْكُرُونَ
 
-**10:22** È Lui che vi trasporta attraverso terra e mare. Finché, quando siete sulle navi, navigando con un vento favorevole, e gioendo in esso, arriva un vento furioso. Le onde si riversano su di loro da ogni lato, e capiscono di essere assediati. Allora pregano Dio, professando sincera devozione a Lui: "Se Tu ci salvi da questo, saremo tra i riconoscenti."
+**10:22** È Lui che vi trasporta attraverso terra e mare. Finché, quando siete sulle navi, navigando con un vento favorevole, e gioendo in esso, arriva un vento furioso. Le onde si riversano su di loro da ogni lato, e capiscono di essere assediati. Allora pregano Dio, professando sincera devozione a Lui: «Se Tu ci salvi da questo, saremo tra i riconoscenti.»
 
 هُوَ ٱلَّذِى يُسَيِّرُكُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ ۖ حَتَّىٰٓ إِذَا كُنتُمْ فِى ٱلْفُلْكِ وَجَرَيْنَ بِهِم بِرِيحٍۢ طَيِّبَةٍۢ وَفَرِحُوا۟ بِهَا جَآءَتْهَا رِيحٌ عَاصِفٌۭ وَجَآءَهُمُ ٱلْمَوْجُ مِن كُلِّ مَكَانٍۢ وَظَنُّوٓا۟ أَنَّهُمْ أُحِيطَ بِهِمْ ۙ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ لَئِنْ أَنجَيْتَنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
 
@@ -5813,11 +5813,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَٱلَّذِينَ كَسَبُوا۟ ٱلسَّيِّـَٔاتِ جَزَآءُ سَيِّئَةٍۭ بِمِثْلِهَا وَتَرْهَقُهُمْ ذِلَّةٌۭ ۖ مَّا لَهُم مِّنَ ٱللَّهِ مِنْ عَاصِمٍۢ ۖ كَأَنَّمَآ أُغْشِيَتْ وُجُوهُهُمْ قِطَعًۭا مِّنَ ٱلَّيْلِ مُظْلِمًا ۚ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
-**10:28** Nel Giorno in cui li riuniremo tutti insieme, poi diremo a coloro che ascrissero soci: "Al vostro posto, voi e i vostri soci." Poi separeremo tra loro, e i loro soci diranno: "Non era noi che adoravate."
+**10:28** Nel Giorno in cui li riuniremo tutti insieme, poi diremo a coloro che ascrissero soci: «Al vostro posto, voi e i vostri soci.» Poi separeremo tra loro, e i loro soci diranno: «Non era noi che adoravate.»
 
 وَيَوْمَ نَحْشُرُهُمْ جَمِيعًۭا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوا۟ مَكَانَكُمْ أَنتُمْ وَشُرَكَآؤُكُمْ ۚ فَزَيَّلْنَا بَيْنَهُمْ ۖ وَقَالَ شُرَكَآؤُهُم مَّا كُنتُمْ إِيَّانَا تَعْبُدُونَ
 
-**10:29** "Dio è testimone sufficiente tra noi e voi. Eravamo inconsapevoli del vostro adorarci."
+**10:29** «Dio è testimone sufficiente tra noi e voi. Eravamo inconsapevoli del vostro adorarci.»
 
 فَكَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنَنَا وَبَيْنَكُمْ إِن كُنَّا عَنْ عِبَادَتِكُمْ لَغَٰفِلِينَ
 
@@ -5825,7 +5825,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 هُنَالِكَ تَبْلُوا۟ كُلُّ نَفْسٍۢ مَّآ أَسْلَفَتْ ۚ وَرُدُّوٓا۟ إِلَى ٱللَّهِ مَوْلَىٰهُمُ ٱلْحَقِّ ۖ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ
 
-**10:31** Di': "Chi vi fornisce dal cielo e dalla terra? E chi controlla l'udito e la vista? E chi produce il vivente dal morto, e produce il morto dal vivente? E chi governa l'Ordine?" Diranno: "Dio." Di': "Non starete attenti?"
+**10:31** Di': «Chi vi fornisce dal cielo e dalla terra? E chi controlla l'udito e la vista? E chi produce il vivente dal morto, e produce il morto dal vivente? E chi governa l'Ordine?» Diranno: «Dio.» Di': «Non starete attenti?»
 
 قُلْ مَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ أَمَّن يَمْلِكُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَمَن يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَمَن يُدَبِّرُ ٱلْأَمْرَ ۚ فَسَيَقُولُونَ ٱللَّهُ ۚ فَقُلْ أَفَلَا تَتَّقُونَ
 
@@ -5837,11 +5837,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 كَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ فَسَقُوٓا۟ أَنَّهُمْ لَا يُؤْمِنُونَ
 
-**10:34** Di': "Qualcuno dei vostri soci può iniziare la creazione, e poi ripeterla?" Di': "Dio inizia la creazione, e poi la ripete. Come siete così illusi?"
+**10:34** Di': «Qualcuno dei vostri soci può iniziare la creazione, e poi ripeterla?» Di': «Dio inizia la creazione, e poi la ripete. Come siete così illusi?»
 
 قُلْ هَلْ مِن شُرَكَآئِكُم مَّن يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ۚ قُلِ ٱللَّهُ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ۖ فَأَنَّىٰ تُؤْفَكُونَ
 
-**10:35** Di': "Qualcuno dei vostri soci può guidare alla verità?" Di': "Dio guida alla verità. È Colui che guida alla verità più degno di essere seguito, o colui che non guida, a meno che lui stesso non sia guidato? Che cosa vi succede? Come giudicate?"
+**10:35** Di': «Qualcuno dei vostri soci può guidare alla verità?» Di': «Dio guida alla verità. È Colui che guida alla verità più degno di essere seguito, o colui che non guida, a meno che lui stesso non sia guidato? Che cosa vi succede? Come giudicate?»
 
 قُلْ هَلْ مِن شُرَكَآئِكُم مَّن يَهْدِىٓ إِلَى ٱلْحَقِّ ۚ قُلِ ٱللَّهُ يَهْدِى لِلْحَقِّ ۗ أَفَمَن يَهْدِىٓ إِلَى ٱلْحَقِّ أَحَقُّ أَن يُتَّبَعَ أَمَّن لَّا يَهِدِّىٓ إِلَّآ أَن يُهْدَىٰ ۖ فَمَا لَكُمْ كَيْفَ تَحْكُمُونَ
 
@@ -5853,7 +5853,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَمَا كَانَ هَٰذَا ٱلْقُرْءَانُ أَن يُفْتَرَىٰ مِن دُونِ ٱللَّهِ وَلَٰكِن تَصْدِيقَ ٱلَّذِى بَيْنَ يَدَيْهِ وَتَفْصِيلَ ٱلْكِتَٰبِ لَا رَيْبَ فِيهِ مِن رَّبِّ ٱلْعَٰلَمِينَ
 
-**10:38** O dicono: "Lo ha forgiato"? Di': "Allora producete un singolo capitolo simile ad esso, e chiamate chiunque possiate, a parte Dio, se siete veritieri."
+**10:38** O dicono: «Lo ha forgiato»? Di': «Allora producete un singolo capitolo simile ad esso, e chiamate chiunque possiate, a parte Dio, se siete veritieri.»
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِسُورَةٍۢ مِّثْلِهِۦ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -5865,7 +5865,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَمِنْهُم مَّن يُؤْمِنُ بِهِۦ وَمِنْهُم مَّن لَّا يُؤْمِنُ بِهِۦ ۚ وَرَبُّكَ أَعْلَمُ بِٱلْمُفْسِدِينَ
 
-**10:41** Se ti accusano di mentire, di': "Ho le mie azioni, e voi avete le vostre azioni. Voi siete estranei a ciò che faccio, e io sono estraneo a ciò che fate."
+**10:41** Se ti accusano di mentire, di': «Ho le mie azioni, e voi avete le vostre azioni. Voi siete estranei a ciò che faccio, e io sono estraneo a ciò che fate.»
 
 وَإِن كَذَّبُوكَ فَقُل لِّى عَمَلِى وَلَكُمْ عَمَلُكُمْ ۖ أَنتُم بَرِيٓـُٔونَ مِمَّآ أَعْمَلُ وَأَنَا۠ بَرِىٓءٌۭ مِّمَّا تَعْمَلُونَ
 
@@ -5893,27 +5893,27 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلِكُلِّ أُمَّةٍۢ رَّسُولٌۭ ۖ فَإِذَا جَآءَ رَسُولُهُمْ قُضِىَ بَيْنَهُم بِٱلْقِسْطِ وَهُمْ لَا يُظْلَمُونَ
 
-**10:48** E dicono: "Quando sarà compiuta questa promessa, se siete veritieri?"
+**10:48** E dicono: «Quando sarà compiuta questa promessa, se siete veritieri?»
 
 وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
 
-**10:49** Di': "Non ho potere di danneggiare o beneficiare me stesso, tranne come Dio vuole. Per ogni nazione c'è un tempo stabilito. Poi, quando il loro tempo arriva, non possono né posticiparlo di un'ora, né anticiparlo.
+**10:49** Di': «Non ho potere di danneggiare o beneficiare me stesso, tranne come Dio vuole. Per ogni nazione c'è un tempo stabilito. Poi, quando il loro tempo arriva, non possono né posticiparlo di un'ora, né anticiparlo.
 
 قُل لَّآ أَمْلِكُ لِنَفْسِى ضَرًّۭا وَلَا نَفْعًا إِلَّا مَا شَآءَ ٱللَّهُ ۗ لِكُلِّ أُمَّةٍ أَجَلٌ ۚ إِذَا جَآءَ أَجَلُهُمْ فَلَا يَسْتَـْٔخِرُونَ سَاعَةًۭ ۖ وَلَا يَسْتَقْدِمُونَ
 
-**10:50** Di': "Avete considerato? Se la Sua punizione vi coglie di notte o di giorno, quale parte di essa i colpevoli cercheranno di affrettare?"
+**10:50** Di': «Avete considerato? Se la Sua punizione vi coglie di notte o di giorno, quale parte di essa i colpevoli cercheranno di affrettare?»
 
 قُلْ أَرَءَيْتُمْ إِنْ أَتَىٰكُمْ عَذَابُهُۥ بَيَٰتًا أَوْ نَهَارًۭا مَّاذَا يَسْتَعْجِلُ مِنْهُ ٱلْمُجْرِمُونَ
 
-**10:51** "Poi, quando cadrà, crederete in essa? Ora? Quando prima cercavate di affrettarla?"
+**10:51** «Poi, quando cadrà, crederete in essa? Ora? Quando prima cercavate di affrettarla?»
 
 أَثُمَّ إِذَا مَا وَقَعَ ءَامَنتُم بِهِۦٓ ۚ ءَآلْـَٰٔنَ وَقَدْ كُنتُم بِهِۦ تَسْتَعْجِلُونَ
 
-**10:52** Poi sarà detto a coloro che fecero torto: "Assaggiate il tormento dell'eternità. Sarete ricompensati se non per ciò che facevate?"
+**10:52** Poi sarà detto a coloro che fecero torto: «Assaggiate il tormento dell'eternità. Sarete ricompensati se non per ciò che facevate?»
 
 ثُمَّ قِيلَ لِلَّذِينَ ظَلَمُوا۟ ذُوقُوا۟ عَذَابَ ٱلْخُلْدِ هَلْ تُجْزَوْنَ إِلَّا بِمَا كُنتُمْ تَكْسِبُونَ
 
-**10:53** E ti chiedono: "È vero?" Di': "Sì, per il mio Signore, è vero, e non potete evitarlo."
+**10:53** E ti chiedono: «È vero?» Di': «Sì, per il mio Signore, è vero, e non potete evitarlo.»
 
 ۞ وَيَسْتَنۢبِـُٔونَكَ أَحَقٌّ هُوَ ۖ قُلْ إِى وَرَبِّىٓ إِنَّهُۥ لَحَقٌّۭ ۖ وَمَآ أَنتُم بِمُعْجِزِينَ
 
@@ -5933,11 +5933,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَتْكُم مَّوْعِظَةٌۭ مِّن رَّبِّكُمْ وَشِفَآءٌۭ لِّمَا فِى ٱلصُّدُورِ وَهُدًۭى وَرَحْمَةٌۭ لِّلْمُؤْمِنِينَ
 
-**10:58** Di': "Nella grazia e misericordia di Dio lascia che gioiscano. Questo è meglio di ciò che accumulano."
+**10:58** Di': «Nella grazia e misericordia di Dio lascia che gioiscano. Questo è meglio di ciò che accumulano.»
 
 قُلْ بِفَضْلِ ٱللَّهِ وَبِرَحْمَتِهِۦ فَبِذَٰلِكَ فَلْيَفْرَحُوا۟ هُوَ خَيْرٌۭ مِّمَّا يَجْمَعُونَ
 
-**10:59** Di': "Avete considerato il sostentamento che Dio ha mandato giù per voi, parte del quale avete reso illecito, e parte lecito?" Di': "Dio vi ha dato il permesso, o fabbricate menzogne e le attribuite a Dio?"
+**10:59** Di': «Avete considerato il sostentamento che Dio ha mandato giù per voi, parte del quale avete reso illecito, e parte lecito?» Di': «Dio vi ha dato il permesso, o fabbricate menzogne e le attribuite a Dio?»
 
 قُلْ أَرَءَيْتُم مَّآ أَنزَلَ ٱللَّهُ لَكُم مِّن رِّزْقٍۢ فَجَعَلْتُم مِّنْهُ حَرَامًۭا وَحَلَٰلًۭا قُلْ ءَآللَّهُ أَذِنَ لَكُمْ ۖ أَمْ عَلَى ٱللَّهِ تَفْتَرُونَ
 
@@ -5973,11 +5973,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِتَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَسْمَعُونَ
 
-**10:68** E dissero: "Dio ha preso un figlio." Sia Lui glorificato. Lui è l'Autosufficiente. Suo è tutto nei cieli e tutto sulla terra. Avete qualche prova per questo? O state dicendo su Dio ciò che non sapete?
+**10:68** E dissero: «Dio ha preso un figlio.» Sia Lui glorificato. Lui è l'Autosufficiente. Suo è tutto nei cieli e tutto sulla terra. Avete qualche prova per questo? O state dicendo su Dio ciò che non sapete?
 
 قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًۭا ۗ سُبْحَٰنَهُۥ ۖ هُوَ ٱلْغَنِىُّ ۖ لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ إِنْ عِندَكُم مِّن سُلْطَٰنٍۭ بِهَٰذَآ ۚ أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ
 
-**10:69** Di': "Coloro che fabbricano menzogne su Dio non avranno successo."
+**10:69** Di': «Coloro che fabbricano menzogne su Dio non avranno successo.»
 
 قُلْ إِنَّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ لَا يُفْلِحُونَ
 
@@ -5985,11 +5985,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 مَتَٰعٌۭ فِى ٱلدُّنْيَا ثُمَّ إِلَيْنَا مَرْجِعُهُمْ ثُمَّ نُذِيقُهُمُ ٱلْعَذَابَ ٱلشَّدِيدَ بِمَا كَانُوا۟ يَكْفُرُونَ
 
-**10:71** E racconta loro la storia di Noè, quando disse al suo popolo: "O popolo mio, se la mia presenza tra voi e il mio ricordarvi dei Segni di Dio è troppo per voi, allora in Dio ho riposto la mia fiducia. Quindi prendete una decisione, voi e i vostri soci, e non lasciate che la questione vi perplessi; poi eseguite la vostra decisione su di me, e non trattenetevi."
+**10:71** E racconta loro la storia di Noè, quando disse al suo popolo: «O popolo mio, se la mia presenza tra voi e il mio ricordarvi dei Segni di Dio è troppo per voi, allora in Dio ho riposto la mia fiducia. Quindi prendete una decisione, voi e i vostri soci, e non lasciate che la questione vi perplessi; poi eseguite la vostra decisione su di me, e non trattenetevi.»
 
 ۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ نُوحٍ إِذْ قَالَ لِقَوْمِهِۦ يَٰقَوْمِ إِن كَانَ كَبُرَ عَلَيْكُم مَّقَامِى وَتَذْكِيرِى بِـَٔايَٰتِ ٱللَّهِ فَعَلَى ٱللَّهِ تَوَكَّلْتُ فَأَجْمِعُوٓا۟ أَمْرَكُمْ وَشُرَكَآءَكُمْ ثُمَّ لَا يَكُنْ أَمْرُكُمْ عَلَيْكُمْ غُمَّةًۭ ثُمَّ ٱقْضُوٓا۟ إِلَىَّ وَلَا تُنظِرُونِ
 
-**10:72** "Ma se vi allontanate, non vi ho chiesto nessun salario. Il mio salario è solo su Dio, e mi è stato comandato di essere tra coloro che si sottomettono."
+**10:72** «Ma se vi allontanate, non vi ho chiesto nessun salario. Il mio salario è solo su Dio, e mi è stato comandato di essere tra coloro che si sottomettono.»
 
 فَإِن تَوَلَّيْتُمْ فَمَا سَأَلْتُكُم مِّنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ ۖ وَأُمِرْتُ أَنْ أَكُونَ مِنَ ٱلْمُسْلِمِينَ
 
@@ -6005,31 +6005,31 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ
 
-**10:76** E quando la verità venne a loro da Noi, dissero: "Questa è chiaramente stregoneria."
+**10:76** E quando la verità venne a loro da Noi, dissero: «Questa è chiaramente stregoneria.»
 
 فَلَمَّا جَآءَهُمُ ٱلْحَقُّ مِنْ عِندِنَا قَالُوٓا۟ إِنَّ هَٰذَا لَسِحْرٌۭ مُّبِينٌۭ
 
-**10:77** Mosè disse: "È questo ciò che dite della verità quando è venuta a voi? È questa stregoneria? Gli stregoni non hanno successo."
+**10:77** Mosè disse: «È questo ciò che dite della verità quando è venuta a voi? È questa stregoneria? Gli stregoni non hanno successo.»
 
 قَالَ مُوسَىٰٓ أَتَقُولُونَ لِلْحَقِّ لَمَّا جَآءَكُمْ ۖ أَسِحْرٌ هَٰذَا وَلَا يُفْلِحُ ٱلسَّٰحِرُونَ
 
-**10:78** Dissero: "Sei venuto da noi per distoglierci da ciò che abbiamo trovato i nostri antenati seguire, e così che voi diventiate prominenti nella terra? Non crederemo mai in voi."
+**10:78** Dissero: «Sei venuto da noi per distoglierci da ciò che abbiamo trovato i nostri antenati seguire, e così che voi diventiate prominenti nella terra? Non crederemo mai in voi.»
 
 قَالُوٓا۟ أَجِئْتَنَا لِتَلْفِتَنَا عَمَّا وَجَدْنَا عَلَيْهِ ءَابَآءَنَا وَتَكُونَ لَكُمَا ٱلْكِبْرِيَآءُ فِى ٱلْأَرْضِ وَمَا نَحْنُ لَكُمَا بِمُؤْمِنِينَ
 
-**10:79** Il Faraone disse: "Portatemi ogni stregone esperto."
+**10:79** Il Faraone disse: «Portatemi ogni stregone esperto.»
 
 وَقَالَ فِرْعَوْنُ ٱئْتُونِى بِكُلِّ سَٰحِرٍ عَلِيمٍۢ
 
-**10:80** E quando gli stregoni vennero, Mosè disse loro: "Gettate qualunque cosa abbiate da gettare."
+**10:80** E quando gli stregoni vennero, Mosè disse loro: «Gettate qualunque cosa abbiate da gettare.»
 
 فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ
 
-**10:81** E quando gettarono, Mosè disse: "Ciò che avete prodotto è stregoneria, e Dio lo farà fallire. Dio non sostiene gli sforzi dei corrotti."
+**10:81** E quando gettarono, Mosè disse: «Ciò che avete prodotto è stregoneria, e Dio lo farà fallire. Dio non sostiene gli sforzi dei corrotti.»
 
 فَلَمَّآ أَلْقَوْا۟ قَالَ مُوسَىٰ مَا جِئْتُم بِهِ ٱلسِّحْرُ ۖ إِنَّ ٱللَّهَ سَيُبْطِلُهُۥٓ ۖ إِنَّ ٱللَّهَ لَا يُصْلِحُ عَمَلَ ٱلْمُفْسِدِينَ
 
-**10:82** "E Dio sostiene la verità con le Sue parole, anche se i peccatori lo detestano."
+**10:82** «E Dio sostiene la verità con le Sue parole, anche se i peccatori lo detestano.»
 
 وَيُحِقُّ ٱللَّهُ ٱلْحَقَّ بِكَلِمَٰتِهِۦ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ
 
@@ -6037,31 +6037,31 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَمَآ ءَامَنَ لِمُوسَىٰٓ إِلَّا ذُرِّيَّةٌۭ مِّن قَوْمِهِۦ عَلَىٰ خَوْفٍۢ مِّن فِرْعَوْنَ وَمَلَإِي۟هِمْ أَن يَفْتِنَهُمْ ۚ وَإِنَّ فِرْعَوْنَ لَعَالٍۢ فِى ٱلْأَرْضِ وَإِنَّهُۥ لَمِنَ ٱلْمُسْرِفِينَ
 
-**10:84** Mosè disse: "O popolo mio, se avete creduto in Dio, allora riponete la vostra fiducia in Lui, se vi siete sottomessi."
+**10:84** Mosè disse: «O popolo mio, se avete creduto in Dio, allora riponete la vostra fiducia in Lui, se vi siete sottomessi.»
 
 وَقَالَ مُوسَىٰ يَٰقَوْمِ إِن كُنتُمْ ءَامَنتُم بِٱللَّهِ فَعَلَيْهِ تَوَكَّلُوٓا۟ إِن كُنتُم مُّسْلِمِينَ
 
-**10:85** Dissero: "In Dio abbiamo riposto la nostra fiducia. Signore nostro, non farci vittime del popolo oppressivo."
+**10:85** Dissero: «In Dio abbiamo riposto la nostra fiducia. Signore nostro, non farci vittime del popolo oppressivo.»
 
 فَقَالُوا۟ عَلَى ٱللَّهِ تَوَكَّلْنَا رَبَّنَا لَا تَجْعَلْنَا فِتْنَةًۭ لِّلْقَوْمِ ٱلظَّٰلِمِينَ
 
-**10:86** "E liberaci, con la Tua misericordia, dal popolo miscredente."
+**10:86** «E liberaci, con la Tua misericordia, dal popolo miscredente.»
 
 وَنَجِّنَا بِرَحْمَتِكَ مِنَ ٱلْقَوْمِ ٱلْكَٰفِرِينَ
 
-**10:87** E ispirammo Mosè e suo fratello: "Stabilite il vostro popolo in Egitto, e fate delle vostre case luoghi di adorazione, e compite la preghiera, e date buone notizie ai credenti."
+**10:87** E ispirammo Mosè e suo fratello: «Stabilite il vostro popolo in Egitto, e fate delle vostre case luoghi di adorazione, e compite la preghiera, e date buone notizie ai credenti.»
 
 وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوْمِكُمَا بِمِصْرَ بُيُوتًۭا وَٱجْعَلُوا۟ بُيُوتَكُمْ قِبْلَةًۭ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ
 
-**10:88** Mosè disse: "Signore nostro, hai dato al Faraone e ai suoi capi splendore e ricchezza nella vita mondana. Signore nostro, affinché sviino dal Tuo cammino. Signore nostro, distruggi la loro ricchezza, e indurisci i loro cuori, non crederanno finché non vedranno il tormento doloroso."
+**10:88** Mosè disse: «Signore nostro, hai dato al Faraone e ai suoi capi splendore e ricchezza nella vita mondana. Signore nostro, affinché sviino dal Tuo cammino. Signore nostro, distruggi la loro ricchezza, e indurisci i loro cuori, non crederanno finché non vedranno il tormento doloroso.»
 
 وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةًۭ وَأَمْوَٰلًۭا فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ ۖ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
 
-**10:89** Ha detto: "La vostra preghiera è stata esaudita, quindi procedete retti, e non seguite il cammino di coloro che non sanno."
+**10:89** Ha detto: «La vostra preghiera è stata esaudita, quindi procedete retti, e non seguite il cammino di coloro che non sanno.»
 
 قَالَ قَدْ أُجِيبَت دَّعْوَتُكُمَا فَٱسْتَقِيمَا وَلَا تَتَّبِعَآنِّ سَبِيلَ ٱلَّذِينَ لَا يَعْلَمُونَ
 
-**10:90** E facemmo attraversare il mare ai Figli di Israele. Il Faraone e le sue truppe li inseguirono, con sfida e aggressività. Finché, quando stava per annegare, disse: "Credo che non c'è dio tranne Colui in cui credono i Figli di Israele, e sono tra coloro che si sottomettono."
+**10:90** E facemmo attraversare il mare ai Figli di Israele. Il Faraone e le sue truppe li inseguirono, con sfida e aggressività. Finché, quando stava per annegare, disse: «Credo che non c'è dio tranne Colui in cui credono i Figli di Israele, e sono tra coloro che si sottomettono.»
 
 ۞ وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًۭا وَعَدْوًا ۖ حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱلَّذِىٓ ءَامَنَتْ بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ
 
@@ -6105,11 +6105,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَمَا كَانَ لِنَفْسٍ أَن تُؤْمِنَ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَيَجْعَلُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يَعْقِلُونَ
 
-**10:101** Di': "Guardate ciò che è nei cieli e sulla terra." Ma segni e ammonimenti non servono a nulla per persone che non credono.
+**10:101** Di': «Guardate ciò che è nei cieli e sulla terra.» Ma segni e ammonimenti non servono a nulla per persone che non credono.
 
 قُلِ ٱنظُرُوا۟ مَاذَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَمَا تُغْنِى ٱلْءَايَٰتُ وَٱلنُّذُرُ عَن قَوْمٍۢ لَّا يُؤْمِنُونَ
 
-**10:102** Si aspettano altro che simili ai giorni di coloro che sono passati prima di loro? Di': "Allora aspettate, io aspetterò con voi."
+**10:102** Si aspettano altro che simili ai giorni di coloro che sono passati prima di loro? Di': «Allora aspettate, io aspetterò con voi.»
 
 فَهَلْ يَنتَظِرُونَ إِلَّا مِثْلَ أَيَّامِ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِهِمْ ۚ قُلْ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ
 
@@ -6117,7 +6117,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ثُمَّ نُنَجِّى رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟ ۚ كَذَٰلِكَ حَقًّا عَلَيْنَا نُنجِ ٱلْمُؤْمِنِينَ
 
-**10:104** Di': "O gente, se siete in dubbio sulla mia religione — non servo coloro che servite a parte Dio. Ma servo Dio, colui che terminerà le vostre vite. E mi è stato comandato di essere tra i credenti."
+**10:104** Di': «O gente, se siete in dubbio sulla mia religione — non servo coloro che servite a parte Dio. Ma servo Dio, colui che terminerà le vostre vite. E mi è stato comandato di essere tra i credenti.»
 
 قُلْ يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمْ فِى شَكٍّۢ مِّن دِينِى فَلَآ أَعْبُدُ ٱلَّذِينَ تَعْبُدُونَ مِن دُونِ ٱللَّهِ وَلَٰكِنْ أَعْبُدُ ٱللَّهَ ٱلَّذِى يَتَوَفَّىٰكُمْ ۖ وَأُمِرْتُ أَنْ أَكُونَ مِنَ ٱلْمُؤْمِنِينَ
 
@@ -6133,7 +6133,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَإِن يَمْسَسْكَ ٱللَّهُ بِضُرٍّۢ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَ ۖ وَإِن يُرِدْكَ بِخَيْرٍۢ فَلَا رَآدَّ لِفَضْلِهِۦ ۚ يُصِيبُ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۚ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
-**10:108** Di': "O gente, la verità è venuta a voi dal vostro Signore. Chiunque accetta la guida è guidato per la sua stessa anima; e chiunque si svia si svia solo a suo detrimento. Non sono un guardiano su di voi."
+**10:108** Di': «O gente, la verità è venuta a voi dal vostro Signore. Chiunque accetta la guida è guidato per la sua stessa anima; e chiunque si svia si svia solo a suo detrimento. Non sono un guardiano su di voi.»
 
 قُلْ يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُمُ ٱلْحَقُّ مِن رَّبِّكُمْ ۖ فَمَنِ ٱهْتَدَىٰ فَإِنَّمَا يَهْتَدِى لِنَفْسِهِۦ ۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۖ وَمَآ أَنَا۠ عَلَيْكُم بِوَكِيلٍۢ
 
@@ -6157,15 +6157,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 الٓر ۚ كِتَٰبٌ أُحْكِمَتْ ءَايَٰتُهُۥ ثُمَّ فُصِّلَتْ مِن لَّدُنْ حَكِيمٍ خَبِيرٍ
 
-**11:2** Che non adoriate nessuno tranne Dio. “Io sono per voi un ammonitore da parte Sua, e uno che porta buone notizie.”
+**11:2** Che non adoriate nessuno tranne Dio. «Io sono per voi un ammonitore da parte Sua, e uno che porta buone notizie.»
 
 أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ ۚ إِنَّنِى لَكُم مِّنْهُ نَذِيرٌۭ وَبَشِيرٌۭ
 
-**11:3** “E chiedete perdono al vostro Signore, e pentitevi verso di Lui. Lui vi darà un buon sostentamento fino a un termine stabilito, e darà la Sua grazia a ogni persona di valore. Ma se vi voltate dall'altra parte, temo per voi il castigo di un Giorno grave.”
+**11:3** «E chiedete perdono al vostro Signore, e pentitevi verso di Lui. Lui vi darà un buon sostentamento fino a un termine stabilito, e darà la Sua grazia a ogni persona di valore. Ma se vi voltate dall'altra parte, temo per voi il castigo di un Giorno grave.»
 
 وَأَنِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُمَتِّعْكُم مَّتَٰعًا حَسَنًا إِلَىٰٓ أَجَلٍۢ مُّسَمًّۭى وَيُؤْتِ كُلَّ ذِى فَضْلٍۢ فَضْلَهُۥ ۖ وَإِن تَوَلَّوْا۟ فَإِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍۢ كَبِيرٍ
 
-**11:4** “A Dio è il vostro ritorno, e Lui può fare ogni cosa.”
+**11:4** «A Dio è il vostro ritorno, e Lui può fare ogni cosa.»
 
 إِلَى ٱللَّهِ مَرْجِعُكُمْ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ
 
@@ -6177,11 +6177,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ۞ وَمَا مِن دَآبَّةٍۢ فِى ٱلْأَرْضِ إِلَّا عَلَى ٱللَّهِ رِزْقُهَا وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا ۚ كُلٌّۭ فِى كِتَٰبٍۢ مُّبِينٍۢ
 
-**11:7** È Lui che ha creato i cieli e la terra in sei giorni — e il Suo Trono era sulle acque — per mettervi alla prova: chi di voi si comporta meglio. E se dicessi: “Sarete risuscitati dopo la morte”, quelli che non credono direbbero: “Questo non è altro che chiara stregoneria.”
+**11:7** È Lui che ha creato i cieli e la terra in sei giorni — e il Suo Trono era sulle acque — per mettervi alla prova: chi di voi si comporta meglio. E se dicessi: «Sarete risuscitati dopo la morte», quelli che non credono direbbero: «Questo non è altro che chiara stregoneria.»
 
 وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍۢ وَكَانَ عَرْشُهُۥ عَلَى ٱلْمَآءِ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًۭا ۗ وَلَئِن قُلْتَ إِنَّكُم مَّبْعُوثُونَ مِنۢ بَعْدِ ٱلْمَوْتِ لَيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌۭ
 
-**11:8** E se rimandassimo il loro castigo fino a un tempo stabilito, direbbero: “Che cosa lo trattiene?” Nel Giorno in cui li raggiungerà, non sarà allontanato da loro, e ciò di cui si burlavano li circonderà.
+**11:8** E se rimandassimo il loro castigo fino a un tempo stabilito, direbbero: «Che cosa lo trattiene?» Nel Giorno in cui li raggiungerà, non sarà allontanato da loro, e ciò di cui si burlavano li circonderà.
 
 وَلَئِنْ أَخَّرْنَا عَنْهُمُ ٱلْعَذَابَ إِلَىٰٓ أُمَّةٍۢ مَّعْدُودَةٍۢ لَّيَقُولُنَّ مَا يَحْبِسُهُۥٓ ۗ أَلَا يَوْمَ يَأْتِيهِمْ لَيْسَ مَصْرُوفًا عَنْهُمْ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
@@ -6189,7 +6189,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَئِنْ أَذَقْنَا ٱلْإِنسَٰنَ مِنَّا رَحْمَةًۭ ثُمَّ نَزَعْنَٰهَا مِنْهُ إِنَّهُۥ لَيَـُٔوسٌۭ كَفُورٌۭ
 
-**11:10** E se gli diamo un assaggio di benessere, dopo che lo ha colpito qualche difficoltà, dirà: “I guai se ne sono andati da me.” Diventa eccitato e orgoglioso.
+**11:10** E se gli diamo un assaggio di benessere, dopo che lo ha colpito qualche difficoltà, dirà: «I guai se ne sono andati da me.» Diventa eccitato e orgoglioso.
 
 وَلَئِنْ أَذَقْنَٰهُ نَعْمَآءَ بَعْدَ ضَرَّآءَ مَسَّتْهُ لَيَقُولَنَّ ذَهَبَ ٱلسَّيِّـَٔاتُ عَنِّىٓ ۚ إِنَّهُۥ لَفَرِحٌۭ فَخُورٌ
 
@@ -6197,11 +6197,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِلَّا ٱلَّذِينَ صَبَرُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أُو۟لَٰٓئِكَ لَهُم مَّغْفِرَةٌۭ وَأَجْرٌۭ كَبِيرٌۭ
 
-**11:12** Forse vuoi trascurare parte di ciò che ti è stato rivelato, e potresti sentirti sotto pressione per questo, perché dicono: “Se solo gli fosse stato mandato un tesoro, o fosse venuto un angelo con lui.” Tu sei solo un ammonitore, e Dio è Responsabile di ogni cosa.
+**11:12** Forse vuoi trascurare parte di ciò che ti è stato rivelato, e potresti sentirti sotto pressione per questo, perché dicono: «Se solo gli fosse stato mandato un tesoro, o fosse venuto un angelo con lui.» Tu sei solo un ammonitore, e Dio è Responsabile di ogni cosa.
 
 فَلَعَلَّكَ تَارِكٌۢ بَعْضَ مَا يُوحَىٰٓ إِلَيْكَ وَضَآئِقٌۢ بِهِۦ صَدْرُكَ أَن يَقُولُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ كَنزٌ أَوْ جَآءَ مَعَهُۥ مَلَكٌ ۚ إِنَّمَآ أَنتَ نَذِيرٌۭ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ وَكِيلٌ
 
-**11:13** O dicono: “L'ha inventato lui?” Di': “Allora producete dieci capitoli simili, inventati, e chiamate chiunque potete, oltre a Dio, se dite la verità.”
+**11:13** O dicono: «L'ha inventato lui?» Di': «Allora producete dieci capitoli simili, inventati, e chiamate chiunque potete, oltre a Dio, se dite la verità.»
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِعَشْرِ سُوَرٍۢ مِّثْلِهِۦ مُفْتَرَيَٰتٍۢ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -6221,7 +6221,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّهِۦ وَيَتْلُوهُ شَاهِدٌۭ مِّنْهُ وَمِن قَبْلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامًۭا وَرَحْمَةً ۚ أُو۟لَٰٓئِكَ يُؤْمِنُونَ بِهِۦ ۚ وَمَن يَكْفُرْ بِهِۦ مِنَ ٱلْأَحْزَابِ فَٱلنَّارُ مَوْعِدُهُۥ ۚ فَلَا تَكُ فِى مِرْيَةٍۢ مِّنْهُ ۚ إِنَّهُ ٱلْحَقُّ مِن رَّبِّكَ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ
 
-**11:18** Chi fa un torto più grande di chi inventa menzogne su Dio? Questi saranno presentati davanti al loro Signore, e i testimoni diranno: “Questi sono quelli che hanno mentito sul loro Signore.” In verità, la maledizione di Dio è sugli ingiusti.
+**11:18** Chi fa un torto più grande di chi inventa menzogne su Dio? Questi saranno presentati davanti al loro Signore, e i testimoni diranno: «Questi sono quelli che hanno mentito sul loro Signore.» In verità, la maledizione di Dio è sugli ingiusti.
 
 وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا ۚ أُو۟لَٰٓئِكَ يُعْرَضُونَ عَلَىٰ رَبِّهِمْ وَيَقُولُ ٱلْأَشْهَٰدُ هَٰٓؤُلَآءِ ٱلَّذِينَ كَذَبُوا۟ عَلَىٰ رَبِّهِمْ ۚ أَلَا لَعْنَةُ ٱللَّهِ عَلَى ٱلظَّٰلِمِينَ
 
@@ -6249,99 +6249,99 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ۞ مَثَلُ ٱلْفَرِيقَيْنِ كَٱلْأَعْمَىٰ وَٱلْأَصَمِّ وَٱلْبَصِيرِ وَٱلسَّمِيعِ ۚ هَلْ يَسْتَوِيَانِ مَثَلًا ۚ أَفَلَا تَذَكَّرُونَ
 
-**11:25** Abbiamo mandato Noè al suo popolo: “Io sono per voi un chiaro ammonitore.”
+**11:25** Abbiamo mandato Noè al suo popolo: «Io sono per voi un chiaro ammonitore.»
 
 وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ
 
-**11:26** “Che non adoriate nessuno tranne Dio. Temo per voi il tormento di un Giorno doloroso.”
+**11:26** «Che non adoriate nessuno tranne Dio. Temo per voi il tormento di un Giorno doloroso.»
 
 أَن لَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ ۖ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ أَلِيمٍۢ
 
-**11:27** I capi che non credevano tra il suo popolo dissero: “Vediamo in te solo un uomo come noi, e vediamo che solo i peggiori tra noi ti hanno seguito, quelli con giudizio immaturo. E vediamo che non hai nessun vantaggio su di noi. In realtà, pensiamo che siate bugiardi.”
+**11:27** I capi che non credevano tra il suo popolo dissero: «Vediamo in te solo un uomo come noi, e vediamo che solo i peggiori tra noi ti hanno seguito, quelli con giudizio immaturo. E vediamo che non hai nessun vantaggio su di noi. In realtà, pensiamo che siate bugiardi.»
 
 فَقَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا نَرَىٰكَ إِلَّا بَشَرًۭا مِّثْلَنَا وَمَا نَرَىٰكَ ٱتَّبَعَكَ إِلَّا ٱلَّذِينَ هُمْ أَرَاذِلُنَا بَادِىَ ٱلرَّأْىِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِن فَضْلٍۭ بَلْ نَظُنُّكُمْ كَٰذِبِينَ
 
-**11:28** Lui disse: “O popolo mio, avete considerato? Se io sto su una prova chiara dal mio Signore, e Lui mi ha dato una misericordia da parte Sua, ma voi eravate ciechi verso di essa, possiamo costringervi ad accettarla, anche se non vi piace?”
+**11:28** Lui disse: «O popolo mio, avete considerato? Se io sto su una prova chiara dal mio Signore, e Lui mi ha dato una misericordia da parte Sua, ma voi eravate ciechi verso di essa, possiamo costringervi ad accettarla, anche se non vi piace?»
 
 قَالَ يَٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَءَاتَىٰنِى رَحْمَةًۭ مِّنْ عِندِهِۦ فَعُمِّيَتْ عَلَيْكُمْ أَنُلْزِمُكُمُوهَا وَأَنتُمْ لَهَا كَٰرِهُونَ
 
-**11:29** “O popolo mio! Non vi chiedo denaro per questo. La mia ricompensa sta solo presso Dio. E non sto per scacciare quelli che hanno creduto; essi incontreranno sicuramente il loro Signore. E vedo che siete gente ignorante.”
+**11:29** «O popolo mio! Non vi chiedo denaro per questo. La mia ricompensa sta solo presso Dio. E non sto per scacciare quelli che hanno creduto; essi incontreranno sicuramente il loro Signore. E vedo che siete gente ignorante.»
 
 وَيَٰقَوْمِ لَآ أَسْـَٔلُكُمْ عَلَيْهِ مَالًا ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ ۚ وَمَآ أَنَا۠ بِطَارِدِ ٱلَّذِينَ ءَامَنُوٓا۟ ۚ إِنَّهُم مُّلَٰقُوا۟ رَبِّهِمْ وَلَٰكِنِّىٓ أَرَىٰكُمْ قَوْمًۭا تَجْهَلُونَ
 
-**11:30** “O popolo mio! Chi mi sosterrà contro Dio, se li scacciassi? Non rifletterete?”
+**11:30** «O popolo mio! Chi mi sosterrà contro Dio, se li scacciassi? Non rifletterete?»
 
 وَيَٰقَوْمِ مَن يَنصُرُنِى مِنَ ٱللَّهِ إِن طَرَدتُّهُمْ ۚ أَفَلَا تَذَكَّرُونَ
 
-**11:31** “Non vi dico che possiedo i tesori di Dio, né conosco il futuro, né dico di essere un angelo. Né dico di quelli che sono disprezzati ai vostri occhi che Dio non darà loro mai alcun bene. Dio è Consapevole di ciò che sta nelle loro anime. Se lo facessi, sarei uno degli ingiusti.”
+**11:31** «Non vi dico che possiedo i tesori di Dio, né conosco il futuro, né dico di essere un angelo. Né dico di quelli che sono disprezzati ai vostri occhi che Dio non darà loro mai alcun bene. Dio è Consapevole di ciò che sta nelle loro anime. Se lo facessi, sarei uno degli ingiusti.»
 
 وَلَآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ وَلَآ أَقُولُ إِنِّى مَلَكٌۭ وَلَآ أَقُولُ لِلَّذِينَ تَزْدَرِىٓ أَعْيُنُكُمْ لَن يُؤْتِيَهُمُ ٱللَّهُ خَيْرًا ۖ ٱللَّهُ أَعْلَمُ بِمَا فِىٓ أَنفُسِهِمْ ۖ إِنِّىٓ إِذًۭا لَّمِنَ ٱلظَّٰلِمِينَ
 
-**11:32** Dissero: “O Noè, hai discusso con noi, e hai discusso a lungo. Ora porta su di noi ciò con cui ci minacci, se dici la verità.”
+**11:32** Dissero: «O Noè, hai discusso con noi, e hai discusso a lungo. Ora porta su di noi ciò con cui ci minacci, se dici la verità.»
 
 قَالُوا۟ يَٰنُوحُ قَدْ جَٰدَلْتَنَا فَأَكْثَرْتَ جِدَٰلَنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 
-**11:33** Lui disse: “È Dio che lo porterà su di voi, se vuole, e non potrete sfuggire.”
+**11:33** Lui disse: «È Dio che lo porterà su di voi, se vuole, e non potrete sfuggire.»
 
 قَالَ إِنَّمَا يَأْتِيكُم بِهِ ٱللَّهُ إِن شَآءَ وَمَآ أَنتُم بِمُعْجِزِينَ
 
-**11:34** “Il mio consiglio non vi gioverà, per quanto io voglia consigliarvi, se Dio desidera confondervi. Lui è il vostro Signore, e a Lui sarete ricondotti.”
+**11:34** «Il mio consiglio non vi gioverà, per quanto io voglia consigliarvi, se Dio desidera confondervi. Lui è il vostro Signore, e a Lui sarete ricondotti.»
 
 وَلَا يَنفَعُكُمْ نُصْحِىٓ إِنْ أَرَدتُّ أَنْ أَنصَحَ لَكُمْ إِن كَانَ ٱللَّهُ يُرِيدُ أَن يُغْوِيَكُمْ ۚ هُوَ رَبُّكُمْ وَإِلَيْهِ تُرْجَعُونَ
 
-**11:35** O dicono: “L'ha inventato lui?” Di': “Se l'ho inventato io, su di me cade il mio crimine, e io sono innocente dei crimini che commettete voi.”
+**11:35** O dicono: «L'ha inventato lui?» Di': «Se l'ho inventato io, su di me cade il mio crimine, e io sono innocente dei crimini che commettete voi.»
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَعَلَىَّ إِجْرَامِى وَأَنَا۠ بَرِىٓءٌۭ مِّمَّا تُجْرِمُونَ
 
-**11:36** E fu rivelato a Noè: “Nessuno del tuo popolo crederà, tranne quelli che hanno già creduto, quindi non affliggerti per ciò che fanno.”
+**11:36** E fu rivelato a Noè: «Nessuno del tuo popolo crederà, tranne quelli che hanno già creduto, quindi non affliggerti per ciò che fanno.»
 
 وَأُوحِىَ إِلَىٰ نُوحٍ أَنَّهُۥ لَن يُؤْمِنَ مِن قَوْمِكَ إِلَّا مَن قَدْ ءَامَنَ فَلَا تَبْتَئِسْ بِمَا كَانُوا۟ يَفْعَلُونَ
 
-**11:37** “E costruisci l'Arca, sotto i Nostri occhi, e con la Nostra ispirazione, e non parlarmi riguardo a quelli che hanno fatto il male; essi saranno annegati.”
+**11:37** «E costruisci l'Arca, sotto i Nostri occhi, e con la Nostra ispirazione, e non parlarmi riguardo a quelli che hanno fatto il male; essi saranno annegati.»
 
 وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ ۚ إِنَّهُم مُّغْرَقُونَ
 
-**11:38** Mentre costruiva l'arca, ogni volta che alcuni del suo popolo passavano vicino a lui, lo deridevano. Lui disse: “Se ci deridete, noi derideremo voi, proprio come voi deridete.”
+**11:38** Mentre costruiva l'arca, ogni volta che alcuni del suo popolo passavano vicino a lui, lo deridevano. Lui disse: «Se ci deridete, noi derideremo voi, proprio come voi deridete.»
 
 وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌۭ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ ۚ قَالَ إِن تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ
 
-**11:39** “Saprete sicuramente su chi verrà un tormento che lo umilierà, e su chi cadrà un tormento duraturo.”
+**11:39** «Saprete sicuramente su chi verrà un tormento che lo umilierà, e su chi cadrà un tormento duraturo.»
 
 فَسَوْفَ تَعْلَمُونَ مَن يَأْتِيهِ عَذَابٌۭ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌۭ مُّقِيمٌ
 
-**11:40** Finché, quando venne il Nostro comando, e il vulcano eruttò, Noi dicemmo: “Fai salire a bordo una coppia di ogni specie, e la tua famiglia — tranne quelli contro cui la sentenza è già stata pronunciata — e quelli che hanno creduto.” Ma quelli che credettero con lui erano solo pochi.
+**11:40** Finché, quando venne il Nostro comando, e il vulcano eruttò, Noi dicemmo: «Fai salire a bordo una coppia di ogni specie, e la tua famiglia — tranne quelli contro cui la sentenza è già stata pronunciata — e quelli che hanno creduto.» Ma quelli che credettero con lui erano solo pochi.
 
 حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّۢ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ ۚ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا قَلِيلٌۭ
 
-**11:41** Lui disse: “Salite a bordo. Nel nome di Dio sarà la sua navigazione e il suo ancoraggio. Il mio Signore è davvero Perdonatore e Misericordioso.”
+**11:41** Lui disse: «Salite a bordo. Nel nome di Dio sarà la sua navigazione e il suo ancoraggio. Il mio Signore è davvero Perdonatore e Misericordioso.»
 
 ۞ وَقَالَ ٱرْكَبُوا۟ فِيهَا بِسْمِ ٱللَّهِ مَجْر۪ىٰهَا وَمُرْسَىٰهَآ ۚ إِنَّ رَبِّى لَغَفُورٌۭ رَّحِيمٌۭ
 
-**11:42** E così navigò con loro tra onde come colline. E Noè chiamò suo figlio, che si era tenuto lontano: “O figlio mio! Sali a bordo con noi, e non stare con i miscredenti.”
+**11:42** E così navigò con loro tra onde come colline. E Noè chiamò suo figlio, che si era tenuto lontano: «O figlio mio! Sali a bordo con noi, e non stare con i miscredenti.»
 
 وَهِىَ تَجْرِى بِهِمْ فِى مَوْجٍۢ كَٱلْجِبَالِ وَنَادَىٰ نُوحٌ ٱبْنَهُۥ وَكَانَ فِى مَعْزِلٍۢ يَٰبُنَىَّ ٱرْكَب مَّعَنَا وَلَا تَكُن مَّعَ ٱلْكَٰفِرِينَ
 
-**11:43** Lui disse: “Mi rifugerò su una montagna — mi proteggerà dall'acqua.” Lui disse: “Oggi non c'è protezione dal decreto di Dio, tranne per colui su cui Lui ha misericordia.” E le onde si alzarono tra loro, e lui fu tra gli annegati.
+**11:43** Lui disse: «Mi rifugerò su una montagna — mi proteggerà dall'acqua.» Lui disse: «Oggi non c'è protezione dal decreto di Dio, tranne per colui su cui Lui ha misericordia.» E le onde si alzarono tra loro, e lui fu tra gli annegati.
 
 قَالَ سَـَٔاوِىٓ إِلَىٰ جَبَلٍۢ يَعْصِمُنِى مِنَ ٱلْمَآءِ ۚ قَالَ لَا عَاصِمَ ٱلْيَوْمَ مِنْ أَمْرِ ٱللَّهِ إِلَّا مَن رَّحِمَ ۚ وَحَالَ بَيْنَهُمَا ٱلْمَوْجُ فَكَانَ مِنَ ٱلْمُغْرَقِينَ
 
-**11:44** E fu detto: “O terra, inghiotti le tue acque”, e “O cielo, schiarisciti.” E le acque si ritirarono, e l'evento si concluse, ed essa si fermò su Judi, e fu proclamato: “Lontano il popolo malvagio.”
+**11:44** E fu detto: «O terra, inghiotti le tue acque», e «O cielo, schiarisciti.» E le acque si ritirarono, e l'evento si concluse, ed essa si fermò su Judi, e fu proclamato: «Lontano il popolo malvagio.»
 
 وَقِيلَ يَٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ ۖ وَقِيلَ بُعْدًۭا لِّلْقَوْمِ ٱلظَّٰلِمِينَ
 
-**11:45** E Noè chiamò il suo Signore. Disse: “O Signore mio, mio figlio è della mia famiglia, e la Tua promessa è vera, e Tu sei il più Saggio dei saggi.”
+**11:45** E Noè chiamò il suo Signore. Disse: «O Signore mio, mio figlio è della mia famiglia, e la Tua promessa è vera, e Tu sei il più Saggio dei saggi.»
 
 وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَٰكِمِينَ
 
-**11:46** Lui disse: “O Noè, lui non è della tua famiglia. È un'azione ingiusta. Quindi non chiedermi di qualcosa di cui non sai nulla. Ti ammonisco, perché tu non sia uno degli ignoranti.”
+**11:46** Lui disse: «O Noè, lui non è della tua famiglia. È un'azione ingiusta. Quindi non chiedermi di qualcosa di cui non sai nulla. Ti ammonisco, perché tu non sia uno degli ignoranti.»
 
 قَالَ يَٰنُوحُ إِنَّهُۥ لَيْسَ مِنْ أَهْلِكَ ۖ إِنَّهُۥ عَمَلٌ غَيْرُ صَٰلِحٍۢ ۖ فَلَا تَسْـَٔلْنِ مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ ۖ إِنِّىٓ أَعِظُكَ أَن تَكُونَ مِنَ ٱلْجَٰهِلِينَ
 
-**11:47** Lui disse: “O Signore mio, cerco rifugio presso di Te, dal chiederti ciò di cui non ho conoscenza. Se Tu non mi perdoni, e non hai misericordia di me, sarò uno dei perdenti.”
+**11:47** Lui disse: «O Signore mio, cerco rifugio presso di Te, dal chiederti ciò di cui non ho conoscenza. Se Tu non mi perdoni, e non hai misericordia di me, sarò uno dei perdenti.»
 
 قَالَ رَبِّ إِنِّىٓ أَعُوذُ بِكَ أَنْ أَسْـَٔلَكَ مَا لَيْسَ لِى بِهِۦ عِلْمٌۭ ۖ وَإِلَّا تَغْفِرْ لِى وَتَرْحَمْنِىٓ أَكُن مِّنَ ٱلْخَٰسِرِينَ
 
-**11:48** Fu detto: “O Noè, sbarca con pace da parte Nostra; e con benedizioni su di te, e sulle comunità da quelli che sono con te. E altre comunità a cui daremo prosperità, e poi un tormento doloroso da parte Nostra le colpirà.”
+**11:48** Fu detto: «O Noè, sbarca con pace da parte Nostra; e con benedizioni su di te, e sulle comunità da quelli che sono con te. E altre comunità a cui daremo prosperità, e poi un tormento doloroso da parte Nostra le colpirà.»
 
 قِيلَ يَٰنُوحُ ٱهْبِطْ بِسَلَٰمٍۢ مِّنَّا وَبَرَكَٰتٍ عَلَيْكَ وَعَلَىٰٓ أُمَمٍۢ مِّمَّن مَّعَكَ ۚ وَأُمَمٌۭ سَنُمَتِّعُهُمْ ثُمَّ يَمَسُّهُم مِّنَّا عَذَابٌ أَلِيمٌۭ
 
@@ -6349,23 +6349,23 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 تِلْكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهَآ إِلَيْكَ ۖ مَا كُنتَ تَعْلَمُهَآ أَنتَ وَلَا قَوْمُكَ مِن قَبْلِ هَٰذَا ۖ فَٱصْبِرْ ۖ إِنَّ ٱلْعَٰقِبَةَ لِلْمُتَّقِينَ
 
-**11:50** E ad Aad, il loro fratello Hud. Lui disse: “O popolo mio, adorate Dio, non avete altro dio oltre a Lui. Non fate altro che inventare menzogne.”
+**11:50** E ad Aad, il loro fratello Hud. Lui disse: «O popolo mio, adorate Dio, non avete altro dio oltre a Lui. Non fate altro che inventare menzogne.»
 
 وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًۭا ۚ قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥٓ ۖ إِنْ أَنتُمْ إِلَّا مُفْتَرُونَ
 
-**11:51** “O popolo mio, non vi chiedo alcun salario per questo; il mio salario sta presso Colui che mi ha originato. Non capite?”
+**11:51** «O popolo mio, non vi chiedo alcun salario per questo; il mio salario sta presso Colui che mi ha originato. Non capite?»
 
 يَٰقَوْمِ لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱلَّذِى فَطَرَنِىٓ ۚ أَفَلَا تَعْقِلُونَ
 
-**11:52** “O popolo mio, chiedete perdono al vostro Signore, e pentitevi verso di Lui. Lui farà scendere il cielo su di voi in abbondanza, e aggiungerà forza alla vostra forza. E non voltatevi dall'altra parte diventando malvagi.”
+**11:52** «O popolo mio, chiedete perdono al vostro Signore, e pentitevi verso di Lui. Lui farà scendere il cielo su di voi in abbondanza, e aggiungerà forza alla vostra forza. E non voltatevi dall'altra parte diventando malvagi.»
 
 وَيَٰقَوْمِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًۭا وَيَزِدْكُمْ قُوَّةً إِلَىٰ قُوَّتِكُمْ وَلَا تَتَوَلَّوْا۟ مُجْرِمِينَ
 
-**11:53** Dissero: “O Hud, non ci hai portato alcuna prova, e non stiamo per abbandonare i nostri dèi per una tua parola, e non crediamo in te.”
+**11:53** Dissero: «O Hud, non ci hai portato alcuna prova, e non stiamo per abbandonare i nostri dèi per una tua parola, e non crediamo in te.»
 
 قَالُوا۟ يَٰهُودُ مَا جِئْتَنَا بِبَيِّنَةٍۢ وَمَا نَحْنُ بِتَارِكِىٓ ءَالِهَتِنَا عَن قَوْلِكَ وَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ
 
-**11:54** “Noi diciamo solo che alcuni dei nostri dèi ti hanno posseduto con il male.” Lui disse: “Chiamo Dio a testimone, e voi a testimoni, che io sono innocente di ciò che associate.
+**11:54** «Noi diciamo solo che alcuni dei nostri dèi ti hanno posseduto con il male.» Lui disse: «Chiamo Dio a testimone, e voi a testimoni, che io sono innocente di ciò che associate.
 
 إِن نَّقُولُ إِلَّا ٱعْتَرَىٰكَ بَعْضُ ءَالِهَتِنَا بِسُوٓءٍۢ ۗ قَالَ إِنِّىٓ أُشْهِدُ ٱللَّهَ وَٱشْهَدُوٓا۟ أَنِّى بَرِىٓءٌۭ مِّمَّا تُشْرِكُونَ
 
@@ -6377,7 +6377,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنِّى تَوَكَّلْتُ عَلَى ٱللَّهِ رَبِّى وَرَبِّكُم ۚ مَّا مِن دَآبَّةٍ إِلَّا هُوَ ءَاخِذٌۢ بِنَاصِيَتِهَآ ۚ إِنَّ رَبِّى عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
 
-**11:57** Se vi voltate dall'altra parte, vi ho trasmesso ciò con cui sono stato mandato a voi; e il mio Signore vi sostituirà con un altro popolo, e non Gli causerete alcun danno. Il mio Signore è Guardiano su ogni cosa.”
+**11:57** Se vi voltate dall'altra parte, vi ho trasmesso ciò con cui sono stato mandato a voi; e il mio Signore vi sostituirà con un altro popolo, e non Gli causerete alcun danno. Il mio Signore è Guardiano su ogni cosa.»
 
 فَإِن تَوَلَّوْا۟ فَقَدْ أَبْلَغْتُكُم مَّآ أُرْسِلْتُ بِهِۦٓ إِلَيْكُمْ ۚ وَيَسْتَخْلِفُ رَبِّى قَوْمًا غَيْرَكُمْ وَلَا تَضُرُّونَهُۥ شَيْـًٔا ۚ إِنَّ رَبِّى عَلَىٰ كُلِّ شَىْءٍ حَفِيظٌۭ
 
@@ -6393,23 +6393,23 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَأُتْبِعُوا۟ فِى هَٰذِهِ ٱلدُّنْيَا لَعْنَةًۭ وَيَوْمَ ٱلْقِيَٰمَةِ ۗ أَلَآ إِنَّ عَادًۭا كَفَرُوا۟ رَبَّهُمْ ۗ أَلَا بُعْدًۭا لِّعَادٍۢ قَوْمِ هُودٍۢ
 
-**11:61** E a Thamud, il loro fratello Saleh. Lui disse: “O popolo mio, adorate Dio, non avete altro dio oltre a Lui. Lui vi ha iniziati dalla terra, e vi ha stabiliti in essa. Quindi cercate il Suo perdono, e pentitevi verso di Lui. Il mio Signore è Vicino e Risponde.”
+**11:61** E a Thamud, il loro fratello Saleh. Lui disse: «O popolo mio, adorate Dio, non avete altro dio oltre a Lui. Lui vi ha iniziati dalla terra, e vi ha stabiliti in essa. Quindi cercate il Suo perdono, e pentitevi verso di Lui. Il mio Signore è Vicino e Risponde.»
 
 ۞ وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًۭا ۚ قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ ۖ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟ إِلَيْهِ ۚ إِنَّ رَبِّى قَرِيبٌۭ مُّجِيبٌۭ
 
-**11:62** Dissero: “O Saleh, avevamo speranze in te prima di questo. Stai cercando di impedirci di adorare ciò che i nostri genitori adoravano? Siamo in serio dubbio riguardo a ciò a cui ci stai chiamando.”
+**11:62** Dissero: «O Saleh, avevamo speranze in te prima di questo. Stai cercando di impedirci di adorare ciò che i nostri genitori adoravano? Siamo in serio dubbio riguardo a ciò a cui ci stai chiamando.»
 
 قَالُوا۟ يَٰصَٰلِحُ قَدْ كُنتَ فِينَا مَرْجُوًّۭا قَبْلَ هَٰذَآ ۖ أَتَنْهَىٰنَآ أَن نَّعْبُدَ مَا يَعْبُدُ ءَابَآؤُنَا وَإِنَّنَا لَفِى شَكٍّۢ مِّمَّا تَدْعُونَآ إِلَيْهِ مُرِيبٍۢ
 
-**11:63** Lui disse: “O popolo mio, avete considerato? Se io sto su una prova chiara dal mio Signore, e Lui mi ha dato misericordia da parte Sua, chi mi proteggerebbe da Dio, se Gli disobbedissi? Non aggiungete nulla per me tranne perdita.”
+**11:63** Lui disse: «O popolo mio, avete considerato? Se io sto su una prova chiara dal mio Signore, e Lui mi ha dato misericordia da parte Sua, chi mi proteggerebbe da Dio, se Gli disobbedissi? Non aggiungete nulla per me tranne perdita.»
 
 قَالَ يَٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَءَاتَىٰنِى مِنْهُ رَحْمَةًۭ فَمَن يَنصُرُنِى مِنَ ٱللَّهِ إِنْ عَصَيْتُهُۥ ۖ فَمَا تَزِيدُونَنِى غَيْرَ تَخْسِيرٍۢ
 
-**11:64** “O popolo mio, questa è la cammella di Dio, un segno per voi. Lasciatela pascolare sulla terra di Dio, e non fatele del male, altrimenti un castigo imminente vi coglierà.”
+**11:64** «O popolo mio, questa è la cammella di Dio, un segno per voi. Lasciatela pascolare sulla terra di Dio, e non fatele del male, altrimenti un castigo imminente vi coglierà.»
 
 وَيَٰقَوْمِ هَٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمْ ءَايَةًۭ فَذَرُوهَا تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ وَلَا تَمَسُّوهَا بِسُوٓءٍۢ فَيَأْخُذَكُمْ عَذَابٌۭ قَرِيبٌۭ
 
-**11:65** Ma le tagliarono i tendini, e così Lui disse: “Godetevi le vostre case per tre giorni. Questa è una profezia infallibile.”
+**11:65** Ma le tagliarono i tendini, e così Lui disse: «Godetevi le vostre case per tre giorni. Questa è una profezia infallibile.»
 
 فَعَقَرُوهَا فَقَالَ تَمَتَّعُوا۟ فِى دَارِكُمْ ثَلَٰثَةَ أَيَّامٍۢ ۖ ذَٰلِكَ وَعْدٌ غَيْرُ مَكْذُوبٍۢ
 
@@ -6425,11 +6425,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 كَأَن لَّمْ يَغْنَوْا۟ فِيهَآ ۗ أَلَآ إِنَّ ثَمُودَا۟ كَفَرُوا۟ رَبَّهُمْ ۗ أَلَا بُعْدًۭا لِّثَمُودَ
 
-**11:69** I Nostri messaggeri vennero da Abramo con buone notizie. Dissero: “Pace.” Lui disse: “Pace.” Poco dopo, venne con un vitello arrostito.
+**11:69** I Nostri messaggeri vennero da Abramo con buone notizie. Dissero: «Pace.» Lui disse: «Pace.» Poco dopo, venne con un vitello arrostito.
 
 وَلَقَدْ جَآءَتْ رُسُلُنَآ إِبْرَٰهِيمَ بِٱلْبُشْرَىٰ قَالُوا۟ سَلَٰمًۭا ۖ قَالَ سَلَٰمٌۭ ۖ فَمَا لَبِثَ أَن جَآءَ بِعِجْلٍ حَنِيذٍۢ
 
-**11:70** Ma quando vide che le loro mani non si allungavano verso di esso, divenne sospettoso di loro, e concepì paura di loro. Dissero: “Non temere, siamo stati mandati al popolo di Lot.”
+**11:70** Ma quando vide che le loro mani non si allungavano verso di esso, divenne sospettoso di loro, e concepì paura di loro. Dissero: «Non temere, siamo stati mandati al popolo di Lot.»
 
 فَلَمَّا رَءَآ أَيْدِيَهُمْ لَا تَصِلُ إِلَيْهِ نَكِرَهُمْ وَأَوْجَسَ مِنْهُمْ خِيفَةًۭ ۚ قَالُوا۟ لَا تَخَفْ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمِ لُوطٍۢ
 
@@ -6437,11 +6437,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَٱمْرَأَتُهُۥ قَآئِمَةٌۭ فَضَحِكَتْ فَبَشَّرْنَٰهَا بِإِسْحَٰقَ وَمِن وَرَآءِ إِسْحَٰقَ يَعْقُوبَ
 
-**11:72** Lei disse: “Ahimè. Partorirò, quando sono una donna anziana, e questo, mio marito, è un uomo anziano? Questa è davvero una cosa strana.”
+**11:72** Lei disse: «Ahimè. Partorirò, quando sono una donna anziana, e questo, mio marito, è un uomo anziano? Questa è davvero una cosa strana.»
 
 قَالَتْ يَٰوَيْلَتَىٰٓ ءَأَلِدُ وَأَنَا۠ عَجُوزٌۭ وَهَٰذَا بَعْلِى شَيْخًا ۖ إِنَّ هَٰذَا لَشَىْءٌ عَجِيبٌۭ
 
-**11:73** Dissero: “Ti meravigli del decreto di Dio? La misericordia e le benedizioni di Dio sono su di voi, o gente della casa. Lui è Degno di lode e Glorioso.”
+**11:73** Dissero: «Ti meravigli del decreto di Dio? La misericordia e le benedizioni di Dio sono su di voi, o gente della casa. Lui è Degno di lode e Glorioso.»
 
 قَالُوٓا۟ أَتَعْجَبِينَ مِنْ أَمْرِ ٱللَّهِ ۖ رَحْمَتُ ٱللَّهِ وَبَرَكَٰتُهُۥ عَلَيْكُمْ أَهْلَ ٱلْبَيْتِ ۚ إِنَّهُۥ حَمِيدٌۭ مَّجِيدٌۭ
 
@@ -6453,27 +6453,27 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنَّ إِبْرَٰهِيمَ لَحَلِيمٌ أَوَّٰهٌۭ مُّنِيبٌۭ
 
-**11:76** “O Abramo, astieniti da questo. Il comando del tuo Signore è venuto; essi hanno incorso in un castigo irreversibile.”
+**11:76** «O Abramo, astieniti da questo. Il comando del tuo Signore è venuto; essi hanno incorso in un castigo irreversibile.»
 
 يَٰٓإِبْرَٰهِيمُ أَعْرِضْ عَنْ هَٰذَآ ۖ إِنَّهُۥ قَدْ جَآءَ أَمْرُ رَبِّكَ ۖ وَإِنَّهُمْ ءَاتِيهِمْ عَذَابٌ غَيْرُ مَرْدُودٍۢ
 
-**11:77** E quando i Nostri inviati vennero da Lot, lui fu ansioso per loro, e preoccupato per loro. Disse: “Questo è un giorno terribile.”
+**11:77** E quando i Nostri inviati vennero da Lot, lui fu ansioso per loro, e preoccupato per loro. Disse: «Questo è un giorno terribile.»
 
 وَلَمَّا جَآءَتْ رُسُلُنَا لُوطًۭا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًۭا وَقَالَ هَٰذَا يَوْمٌ عَصِيبٌۭ
 
-**11:78** E il suo popolo venne correndo verso di lui — avevano l'abitudine di commettere peccati. Lui disse: “O popolo mio, queste sono le mie figlie; sono più pure per voi. Quindi temete Dio, e non imbarazzatemi davanti ai miei ospiti. Non c'è un uomo ragionevole tra voi?”
+**11:78** E il suo popolo venne correndo verso di lui — avevano l'abitudine di commettere peccati. Lui disse: «O popolo mio, queste sono le mie figlie; sono più pure per voi. Quindi temete Dio, e non imbarazzatemi davanti ai miei ospiti. Non c'è un uomo ragionevole tra voi?»
 
 وَجَآءَهُۥ قَوْمُهُۥ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا۟ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ ۚ قَالَ يَٰقَوْمِ هَٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ فِى ضَيْفِىٓ ۖ أَلَيْسَ مِنكُمْ رَجُلٌۭ رَّشِيدٌۭ
 
-**11:79** Dissero: “Sai bene che non abbiamo diritto alle tue figlie, e sai bene ciò che vogliamo.”
+**11:79** Dissero: «Sai bene che non abbiamo diritto alle tue figlie, e sai bene ciò che vogliamo.»
 
 قَالُوا۟ لَقَدْ عَلِمْتَ مَا لَنَا فِى بَنَاتِكَ مِنْ حَقٍّۢ وَإِنَّكَ لَتَعْلَمُ مَا نُرِيدُ
 
-**11:80** Lui disse: “Se solo avessi la forza di fermarvi, o potessi contare su un sostegno forte.”
+**11:80** Lui disse: «Se solo avessi la forza di fermarvi, o potessi contare su un sostegno forte.»
 
 قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ
 
-**11:81** Dissero: “O Lot, noi siamo gli inviati del tuo Signore; non ti raggiungeranno. Quindi parti con la tua famiglia durante il riparo della notte, e nessuno di voi si guardi indietro, tranne tua moglie. Lei sarà colpita da ciò che colpirà loro. Il loro tempo stabilito è la mattina. La mattina non è vicina?”
+**11:81** Dissero: «O Lot, noi siamo gli inviati del tuo Signore; non ti raggiungeranno. Quindi parti con la tua famiglia durante il riparo della notte, e nessuno di voi si guardi indietro, tranne tua moglie. Lei sarà colpita da ciò che colpirà loro. Il loro tempo stabilito è la mattina. La mattina non è vicina?»
 
 قَالُوا۟ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ ۖ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍۢ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ ۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ ۚ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ ۚ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍۢ
 
@@ -6485,43 +6485,43 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 مُّسَوَّمَةً عِندَ رَبِّكَ ۖ وَمَا هِىَ مِنَ ٱلظَّٰلِمِينَ بِبَعِيدٍۢ
 
-**11:84** E a Madian, il loro fratello Shuaib. Lui disse: “O popolo mio, adorate Dio; non avete altro dio oltre a Lui. E non date misura scarsa o peso scarso. Vi vedo in buone condizioni, ma temo per voi il tormento di un Giorno che tutto circonda.”
+**11:84** E a Madian, il loro fratello Shuaib. Lui disse: «O popolo mio, adorate Dio; non avete altro dio oltre a Lui. E non date misura scarsa o peso scarso. Vi vedo in buone condizioni, ma temo per voi il tormento di un Giorno che tutto circonda.»
 
 ۞ وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا ۚ قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ ۖ وَلَا تَنقُصُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ ۚ إِنِّىٓ أَرَىٰكُم بِخَيْرٍۢ وَإِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍۢ مُّحِيطٍۢ
 
-**11:85** “O popolo mio! Date misura piena e peso pieno, con tutta giustizia, e non private la gente dei loro diritti, e non diffondete corruzione sulla terra.
+**11:85** «O popolo mio! Date misura piena e peso pieno, con tutta giustizia, e non private la gente dei loro diritti, e non diffondete corruzione sulla terra.
 
 وَيَٰقَوْمِ أَوْفُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ بِٱلْقِسْطِ ۖ وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
 
-**11:86** Ciò che è lasciato da Dio è meglio per voi, se siete credenti. E io non sono un guardiano su di voi.”
+**11:86** Ciò che è lasciato da Dio è meglio per voi, se siete credenti. E io non sono un guardiano su di voi.»
 
 بَقِيَّتُ ٱللَّهِ خَيْرٌۭ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ ۚ وَمَآ أَنَا۠ عَلَيْكُم بِحَفِيظٍۢ
 
-**11:87** Dissero: “O Shuaib, la tua preghiera ti comanda che abbandoniamo ciò che i nostri antenati adoravano, o di fare con la nostra ricchezza ciò che vogliamo? Tu sei quello intelligente e saggio.”
+**11:87** Dissero: «O Shuaib, la tua preghiera ti comanda che abbandoniamo ciò che i nostri antenati adoravano, o di fare con la nostra ricchezza ciò che vogliamo? Tu sei quello intelligente e saggio.»
 
 قَالُوا۟ يَٰشُعَيْبُ أَصَلَوٰتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءَابَآؤُنَآ أَوْ أَن نَّفْعَلَ فِىٓ أَمْوَٰلِنَا مَا نَشَٰٓؤُا۟ ۖ إِنَّكَ لَأَنتَ ٱلْحَلِيمُ ٱلرَّشِيدُ
 
-**11:88** Lui disse: “O popolo mio, avete considerato? E se ho una prova chiara dal mio Signore, e Lui mi ha dato buon sostentamento da parte Sua? Non desidero fare ciò che vi proibisco di fare. Non desidero altro che la riforma, per quanto posso. Il mio successo sta solo presso Dio. In Lui confido, e a Lui mi rivolgo.”
+**11:88** Lui disse: «O popolo mio, avete considerato? E se ho una prova chiara dal mio Signore, e Lui mi ha dato buon sostentamento da parte Sua? Non desidero fare ciò che vi proibisco di fare. Non desidero altro che la riforma, per quanto posso. Il mio successo sta solo presso Dio. In Lui confido, e a Lui mi rivolgo.»
 
 قَالَ يَٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَرَزَقَنِى مِنْهُ رِزْقًا حَسَنًۭا ۚ وَمَآ أُرِيدُ أَنْ أُخَالِفَكُمْ إِلَىٰ مَآ أَنْهَىٰكُمْ عَنْهُ ۚ إِنْ أُرِيدُ إِلَّا ٱلْإِصْلَٰحَ مَا ٱسْتَطَعْتُ ۚ وَمَا تَوْفِيقِىٓ إِلَّا بِٱللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ
 
-**11:89** “O popolo mio, che la vostra ostilità verso di me non vi faccia soffrire ciò che soffrì il popolo di Noè, o il popolo di Hud, o il popolo di Saleh. Il popolo di Lot non è lontano da voi.”
+**11:89** «O popolo mio, che la vostra ostilità verso di me non vi faccia soffrire ciò che soffrì il popolo di Noè, o il popolo di Hud, o il popolo di Saleh. Il popolo di Lot non è lontano da voi.»
 
 وَيَٰقَوْمِ لَا يَجْرِمَنَّكُمْ شِقَاقِىٓ أَن يُصِيبَكُم مِّثْلُ مَآ أَصَابَ قَوْمَ نُوحٍ أَوْ قَوْمَ هُودٍ أَوْ قَوْمَ صَٰلِحٍۢ ۚ وَمَا قَوْمُ لُوطٍۢ مِّنكُم بِبَعِيدٍۢ
 
-**11:90** “E chiedete perdono al vostro Signore, e pentitevi verso di Lui. Il mio Signore è Misericordioso e Amorevole.”
+**11:90** «E chiedete perdono al vostro Signore, e pentitevi verso di Lui. Il mio Signore è Misericordioso e Amorevole.»
 
 وَٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ ۚ إِنَّ رَبِّى رَحِيمٌۭ وَدُودٌۭ
 
-**11:91** Dissero: “O Shuaib, non capiamo molto di ciò che dici, e vediamo che sei debole tra noi. Se non fosse per la tua tribù, ti avremmo lapidato. Non hai valore per noi.”
+**11:91** Dissero: «O Shuaib, non capiamo molto di ciò che dici, e vediamo che sei debole tra noi. Se non fosse per la tua tribù, ti avremmo lapidato. Non hai valore per noi.»
 
 قَالُوا۟ يَٰشُعَيْبُ مَا نَفْقَهُ كَثِيرًۭا مِّمَّا تَقُولُ وَإِنَّا لَنَرَىٰكَ فِينَا ضَعِيفًۭا ۖ وَلَوْلَا رَهْطُكَ لَرَجَمْنَٰكَ ۖ وَمَآ أَنتَ عَلَيْنَا بِعَزِيزٍۢ
 
-**11:92** Lui disse: “O popolo mio, la mia tribù è più importante per voi di Dio? E Gli avete voltato le spalle? Il mio Signore comprende tutto ciò che fate.”
+**11:92** Lui disse: «O popolo mio, la mia tribù è più importante per voi di Dio? E Gli avete voltato le spalle? Il mio Signore comprende tutto ciò che fate.»
 
 قَالَ يَٰقَوْمِ أَرَهْطِىٓ أَعَزُّ عَلَيْكُم مِّنَ ٱللَّهِ وَٱتَّخَذْتُمُوهُ وَرَآءَكُمْ ظِهْرِيًّا ۖ إِنَّ رَبِّى بِمَا تَعْمَلُونَ مُحِيطٌۭ
 
-**11:93** “O popolo mio, fate come volete, e così farò io. Saprete a chi verrà un castigo che lo umilierà, e chi è un bugiardo. Quindi state in guardia; io sono in guardia con voi.”
+**11:93** «O popolo mio, fate come volete, e così farò io. Saprete a chi verrà un castigo che lo umilierà, e chi è un bugiardo. Quindi state in guardia; io sono in guardia con voi.»
 
 وَيَٰقَوْمِ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنِّى عَٰمِلٌۭ ۖ سَوْفَ تَعْلَمُونَ مَن يَأْتِيهِ عَذَابٌۭ يُخْزِيهِ وَمَنْ هُوَ كَٰذِبٌۭ ۖ وَٱرْتَقِبُوٓا۟ إِنِّى مَعَكُمْ رَقِيبٌۭ
 
@@ -6625,7 +6625,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَوْ شَآءَ رَبُّكَ لَجَعَلَ ٱلنَّاسَ أُمَّةًۭ وَٰحِدَةًۭ ۖ وَلَا يَزَالُونَ مُخْتَلِفِينَ
 
-**11:119** Tranne quelli su cui il tuo Signore ha misericordia — per quella ragione Lui li ha creati. La Parola del tuo Signore è definitiva: “Riempirò l'Inferno di jinn e umani, tutti insieme.”
+**11:119** Tranne quelli su cui il tuo Signore ha misericordia — per quella ragione Lui li ha creati. La Parola del tuo Signore è definitiva: «Riempirò l'Inferno di jinn e umani, tutti insieme.»
 
 إِلَّا مَن رَّحِمَ رَبُّكَ ۚ وَلِذَٰلِكَ خَلَقَهُمْ ۗ وَتَمَّتْ كَلِمَةُ رَبِّكَ لَأَمْلَأَنَّ جَهَنَّمَ مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ أَجْمَعِينَ
 
@@ -6633,11 +6633,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَكُلًّۭا نَّقُصُّ عَلَيْكَ مِنْ أَنۢبَآءِ ٱلرُّسُلِ مَا نُثَبِّتُ بِهِۦ فُؤَادَكَ ۚ وَجَآءَكَ فِى هَٰذِهِ ٱلْحَقُّ وَمَوْعِظَةٌۭ وَذِكْرَىٰ لِلْمُؤْمِنِينَ
 
-**11:121** E di' a quelli che non credono: “Agite secondo la vostra capacità; e così faremo noi.”
+**11:121** E di' a quelli che non credono: «Agite secondo la vostra capacità; e così faremo noi.»
 
 وَقُل لِّلَّذِينَ لَا يُؤْمِنُونَ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنَّا عَٰمِلُونَ
 
-**11:122** “E aspettate; anche noi stiamo aspettando.”
+**11:122** «E aspettate; anche noi stiamo aspettando.»
 
 وَٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ
 
@@ -6669,11 +6669,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ ٱلْقَصَصِ بِمَآ أَوْحَيْنَآ إِلَيْكَ هَٰذَا ٱلْقُرْءَانَ وَإِن كُنتَ مِن قَبْلِهِۦ لَمِنَ ٱلْغَٰفِلِينَ
 
-**12:4** Quando Giuseppe disse a suo padre: “O padre mio, ho visto undici pianeti, e il sole, e la luna; li ho visti inchinarsi a me.”
+**12:4** Quando Giuseppe disse a suo padre: «O padre mio, ho visto undici pianeti, e il sole, e la luna; li ho visti inchinarsi a me.»
 
 إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَٰجِدِينَ
 
-**12:5** Lui disse: “O figlio mio, non raccontare la tua visione ai tuoi fratelli, altrimenti trameranno e complottano contro di te. Satana è il nemico giurato dell'uomo.
+**12:5** Lui disse: «O figlio mio, non raccontare la tua visione ai tuoi fratelli, altrimenti trameranno e complottano contro di te. Satana è il nemico giurato dell'uomo.
 
 قَالَ يَٰبُنَىَّ لَا تَقْصُصْ رُءْيَاكَ عَلَىٰٓ إِخْوَتِكَ فَيَكِيدُوا۟ لَكَ كَيْدًا ۖ إِنَّ ٱلشَّيْطَٰنَ لِلْإِنسَٰنِ عَدُوٌّۭ مُّبِينٌۭ
 
@@ -6685,35 +6685,35 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ۞ لَّقَدْ كَانَ فِى يُوسُفَ وَإِخْوَتِهِۦٓ ءَايَٰتٌۭ لِّلسَّآئِلِينَ
 
-**12:8** Quando dissero: “Giuseppe e suo fratello sono più cari a nostro padre di noi, anche se siamo un intero gruppo. Nostro padre è chiaramente in errore.
+**12:8** Quando dissero: «Giuseppe e suo fratello sono più cari a nostro padre di noi, anche se siamo un intero gruppo. Nostro padre è chiaramente in errore.
 
 إِذْ قَالُوا۟ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِى ضَلَٰلٍۢ مُّبِينٍ
 
-**12:9** “Uccidete Giuseppe, o gettatelo da qualche parte nella terra, e l'attenzione di vostro padre sarà vostra. Dopo, sarete gente perbene.”
+**12:9** «Uccidete Giuseppe, o gettatelo da qualche parte nella terra, e l'attenzione di vostro padre sarà vostra. Dopo, sarete gente perbene.»
 
 ٱقْتُلُوا۟ يُوسُفَ أَوِ ٱطْرَحُوهُ أَرْضًۭا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا۟ مِنۢ بَعْدِهِۦ قَوْمًۭا صَٰلِحِينَ
 
-**12:10** Uno di loro disse: “Non uccidete Giuseppe, ma gettatelo in fondo al pozzo; qualche carovana potrà raccoglierlo — se proprio dovete fare qualcosa.”
+**12:10** Uno di loro disse: «Non uccidete Giuseppe, ma gettatelo in fondo al pozzo; qualche carovana potrà raccoglierlo — se proprio dovete fare qualcosa.»
 
 قَالَ قَآئِلٌۭ مِّنْهُمْ لَا تَقْتُلُوا۟ يُوسُفَ وَأَلْقُوهُ فِى غَيَٰبَتِ ٱلْجُبِّ يَلْتَقِطْهُ بَعْضُ ٱلسَّيَّارَةِ إِن كُنتُمْ فَٰعِلِينَ
 
-**12:11** Dissero: “Padre, perché non ti fidi di noi con Giuseppe, anche se ci prendiamo cura di lui?”
+**12:11** Dissero: «Padre, perché non ti fidi di noi con Giuseppe, anche se ci prendiamo cura di lui?»
 
 قَالُوا۟ يَٰٓأَبَانَا مَا لَكَ لَا تَأْمَ۫نَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَٰصِحُونَ
 
-**12:12** “Mandalo con noi domani, così potrà vagare e giocare; ci prenderemo cura di lui.”
+**12:12** «Mandalo con noi domani, così potrà vagare e giocare; ci prenderemo cura di lui.»
 
 أَرْسِلْهُ مَعَنَا غَدًۭا يَرْتَعْ وَيَلْعَبْ وَإِنَّا لَهُۥ لَحَٰفِظُونَ
 
-**12:13** Lui disse: “Mi preoccupa che lo portiate via. E temo che il lupo possa mangiarlo mentre siete distratti.”
+**12:13** Lui disse: «Mi preoccupa che lo portiate via. E temo che il lupo possa mangiarlo mentre siete distratti.»
 
 قَالَ إِنِّى لَيَحْزُنُنِىٓ أَن تَذْهَبُوا۟ بِهِۦ وَأَخَافُ أَن يَأْكُلَهُ ٱلذِّئْبُ وَأَنتُمْ عَنْهُ غَٰفِلُونَ
 
-**12:14** Dissero: “Se il lupo lo mangiasse, e noi siamo in molti, non saremmo buoni a nulla.”
+**12:14** Dissero: «Se il lupo lo mangiasse, e noi siamo in molti, non saremmo buoni a nulla.»
 
 قَالُوا۟ لَئِنْ أَكَلَهُ ٱلذِّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّآ إِذًۭا لَّخَٰسِرُونَ
 
-**12:15** Così andarono via con lui, e si accordarono per metterlo in fondo al pozzo. E Noi lo ispirammo: “Li informerai di questa loro azione quando saranno inconsapevoli.”
+**12:15** Così andarono via con lui, e si accordarono per metterlo in fondo al pozzo. E Noi lo ispirammo: «Li informerai di questa loro azione quando saranno inconsapevoli.»
 
 فَلَمَّا ذَهَبُوا۟ بِهِۦ وَأَجْمَعُوٓا۟ أَن يَجْعَلُوهُ فِى غَيَٰبَتِ ٱلْجُبِّ ۚ وَأَوْحَيْنَآ إِلَيْهِ لَتُنَبِّئَنَّهُم بِأَمْرِهِمْ هَٰذَا وَهُمْ لَا يَشْعُرُونَ
 
@@ -6721,15 +6721,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَجَآءُوٓ أَبَاهُمْ عِشَآءًۭ يَبْكُونَ
 
-**12:17** Dissero: “O padre, siamo andati a gareggiare l'uno con l'altro, e abbiamo lasciato Giuseppe presso le nostre cose; e il lupo lo ha mangiato. Ma tu non ci crederai, anche se diciamo la verità.”
+**12:17** Dissero: «O padre, siamo andati a gareggiare l'uno con l'altro, e abbiamo lasciato Giuseppe presso le nostre cose; e il lupo lo ha mangiato. Ma tu non ci crederai, anche se diciamo la verità.»
 
 قَالُوا۟ يَٰٓأَبَانَآ إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِندَ مَتَٰعِنَا فَأَكَلَهُ ٱلذِّئْبُ ۖ وَمَآ أَنتَ بِمُؤْمِنٍۢ لَّنَا وَلَوْ كُنَّا صَٰدِقِينَ
 
-**12:18** E portarono la sua camicia, con sangue falso sopra. Lui disse: “Le vostre anime vi hanno spinto a fare qualcosa. Ma la pazienza è bella, e Dio è il mio Aiuto contro ciò che descrivete.”
+**12:18** E portarono la sua camicia, con sangue falso sopra. Lui disse: «Le vostre anime vi hanno spinto a fare qualcosa. Ma la pazienza è bella, e Dio è il mio Aiuto contro ciò che descrivete.»
 
 وَجَآءُو عَلَىٰ قَمِيصِهِۦ بِدَمٍۢ كَذِبٍۢ ۚ قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًۭا ۖ فَصَبْرٌۭ جَمِيلٌۭ ۖ وَٱللَّهُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ
 
-**12:19** Passò una carovana, e mandarono il loro portatore d'acqua. Lui calò il suo secchio, e disse: “Buone notizie. Ecco un ragazzo.” E lo nascosero come merce. Ma Dio era consapevole di ciò che facevano.
+**12:19** Passò una carovana, e mandarono il loro portatore d'acqua. Lui calò il suo secchio, e disse: «Buone notizie. Ecco un ragazzo.» E lo nascosero come merce. Ma Dio era consapevole di ciò che facevano.
 
 وَجَآءَتْ سَيَّارَةٌۭ فَأَرْسَلُوا۟ وَارِدَهُمْ فَأَدْلَىٰ دَلْوَهُۥ ۖ قَالَ يَٰبُشْرَىٰ هَٰذَا غُلَٰمٌۭ ۚ وَأَسَرُّوهُ بِضَٰعَةًۭ ۚ وَٱللَّهُ عَلِيمٌۢ بِمَا يَعْمَلُونَ
 
@@ -6737,7 +6737,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَشَرَوْهُ بِثَمَنٍۭ بَخْسٍۢ دَرَٰهِمَ مَعْدُودَةٍۢ وَكَانُوا۟ فِيهِ مِنَ ٱلزَّٰهِدِينَ
 
-**12:21** L'egiziano che lo comprò disse a sua moglie: “Prenditi buona cura di lui; potrebbe esserci utile, o potremmo adottarlo come figlio.” Così stabilimmo Giuseppe nella terra, per insegnargli l'interpretazione degli eventi. Dio ha il controllo sui Suoi affari, ma la maggior parte delle persone non lo sa.
+**12:21** L'egiziano che lo comprò disse a sua moglie: «Prenditi buona cura di lui; potrebbe esserci utile, o potremmo adottarlo come figlio.» Così stabilimmo Giuseppe nella terra, per insegnargli l'interpretazione degli eventi. Dio ha il controllo sui Suoi affari, ma la maggior parte delle persone non lo sa.
 
 وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
@@ -6745,7 +6745,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَمَّا بَلَغَ أَشُدَّهُۥٓ ءَاتَيْنَٰهُ حُكْمًۭا وَعِلْمًۭا ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
 
-**12:23** Lei, nella cui casa lui viveva, cercò di sedurlo. Chiuse le porte, e disse: “Sono tua.” Lui disse: “Dio non voglia! Lui è il mio Signore. Mi ha dato una buona casa. I peccatori non hanno mai successo.”
+**12:23** Lei, nella cui casa lui viveva, cercò di sedurlo. Chiuse le porte, e disse: «Sono tua.» Lui disse: «Dio non voglia! Lui è il mio Signore. Mi ha dato una buona casa. I peccatori non hanno mai successo.»
 
 وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ ۚ قَالَ مَعَاذَ ٱللَّهِ ۖ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ ۖ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
 
@@ -6753,39 +6753,39 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَقَدْ هَمَّتْ بِهِۦ ۖ وَهَمَّ بِهَا لَوْلَآ أَن رَّءَا بُرْهَٰنَ رَبِّهِۦ ۚ كَذَٰلِكَ لِنَصْرِفَ عَنْهُ ٱلسُّوٓءَ وَٱلْفَحْشَآءَ ۚ إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُخْلَصِينَ
 
-**12:25** Mentre correvano verso la porta, lei gli strappò la camicia da dietro. Alla porta, incontrarono suo marito. Lei disse: “Qual è la pena per chi ha desiderato disonorare tua moglie, tranne la prigione o un castigo doloroso?”
+**12:25** Mentre correvano verso la porta, lei gli strappò la camicia da dietro. Alla porta, incontrarono suo marito. Lei disse: «Qual è la pena per chi ha desiderato disonorare tua moglie, tranne la prigione o un castigo doloroso?»
 
 وَٱسْتَبَقَا ٱلْبَابَ وَقَدَّتْ قَمِيصَهُۥ مِن دُبُرٍۢ وَأَلْفَيَا سَيِّدَهَا لَدَا ٱلْبَابِ ۚ قَالَتْ مَا جَزَآءُ مَنْ أَرَادَ بِأَهْلِكَ سُوٓءًا إِلَّآ أَن يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌۭ
 
-**12:26** Lui disse: “È stata lei a cercare di sedurmi.” Un testimone della sua casa suggerì: “Se la sua camicia è strappata davanti: allora lei ha detto la verità, e lui è il bugiardo.
+**12:26** Lui disse: «È stata lei a cercare di sedurmi.» Un testimone della sua casa suggerì: «Se la sua camicia è strappata davanti: allora lei ha detto la verità, e lui è il bugiardo.
 
 قَالَ هِىَ رَٰوَدَتْنِى عَن نَّفْسِى ۚ وَشَهِدَ شَاهِدٌۭ مِّنْ أَهْلِهَآ إِن كَانَ قَمِيصُهُۥ قُدَّ مِن قُبُلٍۢ فَصَدَقَتْ وَهُوَ مِنَ ٱلْكَٰذِبِينَ
 
-**12:27** Ma se la sua camicia è strappata dietro: allora lei ha mentito, e lui dice la verità.”
+**12:27** Ma se la sua camicia è strappata dietro: allora lei ha mentito, e lui dice la verità.»
 
 وَإِن كَانَ قَمِيصُهُۥ قُدَّ مِن دُبُرٍۢ فَكَذَبَتْ وَهُوَ مِنَ ٱلصَّٰدِقِينَ
 
-**12:28** E quando vide che la sua camicia era strappata dietro, disse: “Questo è un intrigo di donna. Il vostro intrigo è davvero serio.”
+**12:28** E quando vide che la sua camicia era strappata dietro, disse: «Questo è un intrigo di donna. Il vostro intrigo è davvero serio.»
 
 فَلَمَّا رَءَا قَمِيصَهُۥ قُدَّ مِن دُبُرٍۢ قَالَ إِنَّهُۥ مِن كَيْدِكُنَّ ۖ إِنَّ كَيْدَكُنَّ عَظِيمٌۭ
 
-**12:29** “Giuseppe, voltati da questo. E tu, donna, chiedi perdono per il tuo peccato; sei davvero in errore.”
+**12:29** «Giuseppe, voltati da questo. E tu, donna, chiedi perdono per il tuo peccato; sei davvero in errore.»
 
 يُوسُفُ أَعْرِضْ عَنْ هَٰذَا ۚ وَٱسْتَغْفِرِى لِذَنۢبِكِ ۖ إِنَّكِ كُنتِ مِنَ ٱلْخَاطِـِٔينَ
 
-**12:30** Alcune signore in città dissero: “La moglie del governatore sta cercando di sedurre il suo servo. È profondamente innamorata di lui. Vediamo che si è persa.”
+**12:30** Alcune signore in città dissero: «La moglie del governatore sta cercando di sedurre il suo servo. È profondamente innamorata di lui. Vediamo che si è persa.»
 
 ۞ وَقَالَ نِسْوَةٌۭ فِى ٱلْمَدِينَةِ ٱمْرَأَتُ ٱلْعَزِيزِ تُرَٰوِدُ فَتَىٰهَا عَن نَّفْسِهِۦ ۖ قَدْ شَغَفَهَا حُبًّا ۖ إِنَّا لَنَرَىٰهَا فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
-**12:31** E quando lei sentì le loro chiacchiere, li invitò, e preparò per loro un banchetto, e diede a ciascuna di loro un coltello. Disse: “Esci davanti a loro.” E quando lo videro, ne furono meravigliate, e si tagliarono le mani. Dissero: “Buon Dio, questo non è un umano, deve essere un angelo prezioso.”
+**12:31** E quando lei sentì le loro chiacchiere, li invitò, e preparò per loro un banchetto, e diede a ciascuna di loro un coltello. Disse: «Esci davanti a loro.» E quando lo videro, ne furono meravigliate, e si tagliarono le mani. Dissero: «Buon Dio, questo non è un umano, deve essere un angelo prezioso.»
 
 فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَـًۭٔا وَءَاتَتْ كُلَّ وَٰحِدَةٍۢ مِّنْهُنَّ سِكِّينًۭا وَقَالَتِ ٱخْرُجْ عَلَيْهِنَّ ۖ فَلَمَّا رَأَيْنَهُۥٓ أَكْبَرْنَهُۥ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَٰشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنْ هَٰذَآ إِلَّا مَلَكٌۭ كَرِيمٌۭ
 
-**12:32** Lei disse: “Eccolo, quello per cui mi avete biasimata. Ho cercato di sedurlo, ma lui ha resistito. Ma se non fa ciò che gli dico di fare, sarà imprigionato, e sarà uno dei disprezzati.”
+**12:32** Lei disse: «Eccolo, quello per cui mi avete biasimata. Ho cercato di sedurlo, ma lui ha resistito. Ma se non fa ciò che gli dico di fare, sarà imprigionato, e sarà uno dei disprezzati.»
 
 قَالَتْ فَذَٰلِكُنَّ ٱلَّذِى لُمْتُنَّنِى فِيهِ ۖ وَلَقَدْ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ فَٱسْتَعْصَمَ ۖ وَلَئِن لَّمْ يَفْعَلْ مَآ ءَامُرُهُۥ لَيُسْجَنَنَّ وَلَيَكُونًۭا مِّنَ ٱلصَّٰغِرِينَ
 
-**12:33** Lui disse: “Signore mio, la prigione mi è più desiderabile di ciò a cui mi chiamano. Se Tu non allontani da me il loro intrigo, potrei cedere a loro, e diventare uno degli ignoranti.”
+**12:33** Lui disse: «Signore mio, la prigione mi è più desiderabile di ciò a cui mi chiamano. Se Tu non allontani da me il loro intrigo, potrei cedere a loro, e diventare uno degli ignoranti.»
 
 قَالَ رَبِّ ٱلسِّجْنُ أَحَبُّ إِلَىَّ مِمَّا يَدْعُونَنِىٓ إِلَيْهِ ۖ وَإِلَّا تَصْرِفْ عَنِّى كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُن مِّنَ ٱلْجَٰهِلِينَ
 
@@ -6797,51 +6797,51 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ثُمَّ بَدَا لَهُم مِّنۢ بَعْدِ مَا رَأَوُا۟ ٱلْءَايَٰتِ لَيَسْجُنُنَّهُۥ حَتَّىٰ حِينٍۢ
 
-**12:36** Due giovani entrarono in prigione con lui. Uno di loro disse: “Mi vedo spremere vino.” L'altro disse: “Mi vedo portare pane sulla testa, da cui gli uccelli mangiano. Dicci la loro interpretazione — vediamo che sei uno dei giusti.”
+**12:36** Due giovani entrarono in prigione con lui. Uno di loro disse: «Mi vedo spremere vino.» L'altro disse: «Mi vedo portare pane sulla testa, da cui gli uccelli mangiano. Dicci la loro interpretazione — vediamo che sei uno dei giusti.»
 
 وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ ۖ قَالَ أَحَدُهُمَآ إِنِّىٓ أَرَىٰنِىٓ أَعْصِرُ خَمْرًۭا ۖ وَقَالَ ٱلْءَاخَرُ إِنِّىٓ أَرَىٰنِىٓ أَحْمِلُ فَوْقَ رَأْسِى خُبْزًۭا تَأْكُلُ ٱلطَّيْرُ مِنْهُ ۖ نَبِّئْنَا بِتَأْوِيلِهِۦٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ
 
-**12:37** Lui disse: “Nessun cibo vi viene servito, ma ve ne ho informato prima che lo abbiate ricevuto. Questo è parte di ciò che il mio Signore mi ha insegnato. Ho abbandonato la tradizione di gente che non crede in Dio; e riguardo all'Aldilà, essi lo negano.”
+**12:37** Lui disse: «Nessun cibo vi viene servito, ma ve ne ho informato prima che lo abbiate ricevuto. Questo è parte di ciò che il mio Signore mi ha insegnato. Ho abbandonato la tradizione di gente che non crede in Dio; e riguardo all'Aldilà, essi lo negano.»
 
 قَالَ لَا يَأْتِيكُمَا طَعَامٌۭ تُرْزَقَانِهِۦٓ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِۦ قَبْلَ أَن يَأْتِيَكُمَا ۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِى رَبِّىٓ ۚ إِنِّى تَرَكْتُ مِلَّةَ قَوْمٍۢ لَّا يُؤْمِنُونَ بِٱللَّهِ وَهُم بِٱلْءَاخِرَةِ هُمْ كَٰفِرُونَ
 
-**12:38** “E ho seguito la fede dei miei antenati, Abramo, e Isacco, e Giacobbe. Non spetta a noi associare alcunché a Dio. Questo è per la grazia di Dio su di noi e sulla gente, ma la maggior parte delle persone non ringrazia.
+**12:38** «E ho seguito la fede dei miei antenati, Abramo, e Isacco, e Giacobbe. Non spetta a noi associare alcunché a Dio. Questo è per la grazia di Dio su di noi e sulla gente, ma la maggior parte delle persone non ringrazia.
 
 وَٱتَّبَعْتُ مِلَّةَ ءَابَآءِىٓ إِبْرَٰهِيمَ وَإِسْحَٰقَ وَيَعْقُوبَ ۚ مَا كَانَ لَنَآ أَن نُّشْرِكَ بِٱللَّهِ مِن شَىْءٍۢ ۚ ذَٰلِكَ مِن فَضْلِ ٱللَّهِ عَلَيْنَا وَعَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ
 
-**12:39** “O miei compagni di prigione, sono meglio signori diversi, o Dio, l'Uno, il Supremo?”
+**12:39** «O miei compagni di prigione, sono meglio signori diversi, o Dio, l'Uno, il Supremo?»
 
 يَٰصَىٰحِبَىِ ٱلسِّجْنِ ءَأَرْبَابٌۭ مُّتَفَرِّقُونَ خَيْرٌ أَمِ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ
 
-**12:40** “Non adorate, oltre a Lui, tranne nomi che avete nominato, voi e i vostri antenati, per i quali Dio non ha mandato alcuna autorità. Il giudizio appartiene a nessuno tranne Dio. Lui ha comandato che non adoriate nessuno tranne Lui. Questa è la religione giusta, ma la maggior parte delle persone non lo sa.
+**12:40** «Non adorate, oltre a Lui, tranne nomi che avete nominato, voi e i vostri antenati, per i quali Dio non ha mandato alcuna autorità. Il giudizio appartiene a nessuno tranne Dio. Lui ha comandato che non adoriate nessuno tranne Lui. Questa è la religione giusta, ma la maggior parte delle persone non lo sa.
 
 مَا تَعْبُدُونَ مِن دُونِهِۦٓ إِلَّآ أَسْمَآءًۭ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍ ۚ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
-**12:41** “O miei compagni di prigione! Uno di voi servirà vino al suo padrone; mentre l'altro sarà crocifisso, e gli uccelli mangeranno dalla sua testa. Così la questione su cui state chiedendo è decisa.”
+**12:41** «O miei compagni di prigione! Uno di voi servirà vino al suo padrone; mentre l'altro sarà crocifisso, e gli uccelli mangeranno dalla sua testa. Così la questione su cui state chiedendo è decisa.»
 
 يَٰصَىٰحِبَىِ ٱلسِّجْنِ أَمَّآ أَحَدُكُمَا فَيَسْقِى رَبَّهُۥ خَمْرًۭا ۖ وَأَمَّا ٱلْءَاخَرُ فَيُصْلَبُ فَتَأْكُلُ ٱلطَّيْرُ مِن رَّأْسِهِۦ ۚ قُضِىَ ٱلْأَمْرُ ٱلَّذِى فِيهِ تَسْتَفْتِيَانِ
 
-**12:42** E disse a quello che pensava sarebbe stato liberato: “Menzionami al tuo padrone.” Ma Satana gli fece dimenticare di menzionarlo al suo padrone, così rimase in prigione per diversi anni.
+**12:42** E disse a quello che pensava sarebbe stato liberato: «Menzionami al tuo padrone.» Ma Satana gli fece dimenticare di menzionarlo al suo padrone, così rimase in prigione per diversi anni.
 
 وَقَالَ لِلَّذِى ظَنَّ أَنَّهُۥ نَاجٍۢ مِّنْهُمَا ٱذْكُرْنِى عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّيْطَٰنُ ذِكْرَ رَبِّهِۦ فَلَبِثَ فِى ٱلسِّجْنِ بِضْعَ سِنِينَ
 
-**12:43** Il re disse: “Vedo sette mucche grasse mangiate da sette magre, e sette spighe verdi, e altre secche. O anziani, spiegatemi la mia visione, se siete capaci di interpretare le visioni.”
+**12:43** Il re disse: «Vedo sette mucche grasse mangiate da sette magre, e sette spighe verdi, e altre secche. O anziani, spiegatemi la mia visione, se siete capaci di interpretare le visioni.»
 
 وَقَالَ ٱلْمَلِكُ إِنِّىٓ أَرَىٰ سَبْعَ بَقَرَٰتٍۢ سِمَانٍۢ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌۭ وَسَبْعَ سُنۢبُلَٰتٍ خُضْرٍۢ وَأُخَرَ يَابِسَٰتٍۢ ۖ يَٰٓأَيُّهَا ٱلْمَلَأُ أَفْتُونِى فِى رُءْيَٰىَ إِن كُنتُمْ لِلرُّءْيَا تَعْبُرُونَ
 
-**12:44** Dissero: “Un miscuglio di sogni, e non sappiamo nulla dell'interpretazione dei sogni.”
+**12:44** Dissero: «Un miscuglio di sogni, e non sappiamo nulla dell'interpretazione dei sogni.»
 
 قَالُوٓا۟ أَضْغَٰثُ أَحْلَٰمٍۢ ۖ وَمَا نَحْنُ بِتَأْوِيلِ ٱلْأَحْلَٰمِ بِعَٰلِمِينَ
 
-**12:45** Quello che era stato liberato disse, dopo essersi ricordato dopo un tempo: “Vi informerò della sua interpretazione, quindi mandatemi fuori.”
+**12:45** Quello che era stato liberato disse, dopo essersi ricordato dopo un tempo: «Vi informerò della sua interpretazione, quindi mandatemi fuori.»
 
 وَقَالَ ٱلَّذِى نَجَا مِنْهُمَا وَٱدَّكَرَ بَعْدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأْوِيلِهِۦ فَأَرْسِلُونِ
 
-**12:46** “Giuseppe, o uomo di verità, informaci riguardo a sette mucche grasse mangiate da sette magre, e sette spighe verdi, e altre secche, così che possa tornare alla gente, così che possano sapere.”
+**12:46** «Giuseppe, o uomo di verità, informaci riguardo a sette mucche grasse mangiate da sette magre, e sette spighe verdi, e altre secche, così che possa tornare alla gente, così che possano sapere.»
 
 يُوسُفُ أَيُّهَا ٱلصِّدِّيقُ أَفْتِنَا فِى سَبْعِ بَقَرَٰتٍۢ سِمَانٍۢ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌۭ وَسَبْعِ سُنۢبُلَٰتٍ خُضْرٍۢ وَأُخَرَ يَابِسَٰتٍۢ لَّعَلِّىٓ أَرْجِعُ إِلَى ٱلنَّاسِ لَعَلَّهُمْ يَعْلَمُونَ
 
-**12:47** Lui disse: “Coltiverete per sette anni consecutivi. Ma qualunque cosa raccogliate, lasciatela nelle sue spighe, tranne il poco che mangiate.”
+**12:47** Lui disse: «Coltiverete per sette anni consecutivi. Ma qualunque cosa raccogliate, lasciatela nelle sue spighe, tranne il poco che mangiate.»
 
 قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًۭا فَمَا حَصَدتُّمْ فَذَرُوهُ فِى سُنۢبُلِهِۦٓ إِلَّا قَلِيلًۭا مِّمَّا تَأْكُلُونَ
 
@@ -6853,27 +6853,27 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ عَامٌۭ فِيهِ يُغَاثُ ٱلنَّاسُ وَفِيهِ يَعْصِرُونَ
 
-**12:50** Il re disse: “Portatelo da me.” E quando l'inviato venne da lui, disse: “Torna dal tuo padrone, e chiedigli delle intenzioni delle donne che si tagliarono le mani; il mio Signore è ben consapevole dei loro intrighi.”
+**12:50** Il re disse: «Portatelo da me.» E quando l'inviato venne da lui, disse: «Torna dal tuo padrone, e chiedigli delle intenzioni delle donne che si tagliarono le mani; il mio Signore è ben consapevole dei loro intrighi.»
 
 وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦ ۖ فَلَمَّا جَآءَهُ ٱلرَّسُولُ قَالَ ٱرْجِعْ إِلَىٰ رَبِّكَ فَسْـَٔلْهُ مَا بَالُ ٱلنِّسْوَةِ ٱلَّٰتِى قَطَّعْنَ أَيْدِيَهُنَّ ۚ إِنَّ رَبِّى بِكَيْدِهِنَّ عَلِيمٌۭ
 
-**12:51** Lui disse: “Che cosa vi successe, donne, quando cercaste di sedurre Giuseppe?” Dissero: “Dio non voglia! Non sappiamo di alcun male commesso da lui.” La moglie del governatore allora disse: “Ora la verità è venuta fuori. Sono stata io a cercare di sedurlo, e lui dice la verità.”
+**12:51** Lui disse: «Che cosa vi successe, donne, quando cercaste di sedurre Giuseppe?» Dissero: «Dio non voglia! Non sappiamo di alcun male commesso da lui.» La moglie del governatore allora disse: «Ora la verità è venuta fuori. Sono stata io a cercare di sedurlo, e lui dice la verità.»
 
 قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٰٔنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّٰدِقِينَ
 
-**12:52** “Questo è perché lui sappia che non l'ho tradito in segreto, e che Dio non guida l'intrigo dei traditori.”
+**12:52** «Questo è perché lui sappia che non l'ho tradito in segreto, e che Dio non guida l'intrigo dei traditori.»
 
 ذَٰلِكَ لِيَعْلَمَ أَنِّى لَمْ أَخُنْهُ بِٱلْغَيْبِ وَأَنَّ ٱللَّهَ لَا يَهْدِى كَيْدَ ٱلْخَآئِنِينَ
 
-**12:53** “Eppure non pretendo di essere innocente. L'anima comanda il male, tranne quelli su cui il mio Signore ha misericordia. In verità il mio Signore è Perdonatore e Misericordioso.”
+**12:53** «Eppure non pretendo di essere innocente. L'anima comanda il male, tranne quelli su cui il mio Signore ha misericordia. In verità il mio Signore è Perdonatore e Misericordioso.»
 
 ۞ وَمَآ أُبَرِّئُ نَفْسِىٓ ۚ إِنَّ ٱلنَّفْسَ لَأَمَّارَةٌۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّىٓ ۚ إِنَّ رَبِّى غَفُورٌۭ رَّحِيمٌۭ
 
-**12:54** Il re disse: “Portatelo da me, e lo terrò per me.” E quando gli parlò, disse: “Oggi sei con noi stabilito e sicuro.”
+**12:54** Il re disse: «Portatelo da me, e lo terrò per me.» E quando gli parlò, disse: «Oggi sei con noi stabilito e sicuro.»
 
 وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦٓ أَسْتَخْلِصْهُ لِنَفْسِى ۖ فَلَمَّا كَلَّمَهُۥ قَالَ إِنَّكَ ٱلْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌۭ
 
-**12:55** Lui disse: “Mettimi a capo dei magazzini della terra; sono onesto e competente.”
+**12:55** Lui disse: «Mettimi a capo dei magazzini della terra; sono onesto e competente.»
 
 قَالَ ٱجْعَلْنِى عَلَىٰ خَزَآئِنِ ٱلْأَرْضِ ۖ إِنِّى حَفِيظٌ عَلِيمٌۭ
 
@@ -6889,39 +6889,39 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَجَآءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا۟ عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُۥ مُنكِرُونَ
 
-**12:59** Quando li rifornì con le loro provviste, disse: “Portatemi un vostro fratello da parte di vostro padre. Non vedete che riempio la misura, e sono il migliore degli ospiti?”
+**12:59** Quando li rifornì con le loro provviste, disse: «Portatemi un vostro fratello da parte di vostro padre. Non vedete che riempio la misura, e sono il migliore degli ospiti?»
 
 وَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ قَالَ ٱئْتُونِى بِأَخٍۢ لَّكُم مِّنْ أَبِيكُمْ ۚ أَلَا تَرَوْنَ أَنِّىٓ أُوفِى ٱلْكَيْلَ وَأَنَا۠ خَيْرُ ٱلْمُنزِلِينَ
 
-**12:60** “Ma se non me lo portate, non avrete misura da me, e non vi avvicinerete a me.”
+**12:60** «Ma se non me lo portate, non avrete misura da me, e non vi avvicinerete a me.»
 
 فَإِن لَّمْ تَأْتُونِى بِهِۦ فَلَا كَيْلَ لَكُمْ عِندِى وَلَا تَقْرَبُونِ
 
-**12:61** Dissero: “Lo solleciteremo da suo padre. Lo faremo sicuramente.”
+**12:61** Dissero: «Lo solleciteremo da suo padre. Lo faremo sicuramente.»
 
 قَالُوا۟ سَنُرَٰوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَٰعِلُونَ
 
-**12:62** Lui disse ai suoi servi: “Mettete le loro merci nelle loro bisacce; forse le riconosceranno quando torneranno dalle loro famiglie, e forse torneranno.”
+**12:62** Lui disse ai suoi servi: «Mettete le loro merci nelle loro bisacce; forse le riconosceranno quando torneranno dalle loro famiglie, e forse torneranno.»
 
 وَقَالَ لِفِتْيَٰنِهِ ٱجْعَلُوا۟ بِضَٰعَتَهُمْ فِى رِحَالِهِمْ لَعَلَّهُمْ يَعْرِفُونَهَآ إِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمْ لَعَلَّهُمْ يَرْجِعُونَ
 
-**12:63** Quando tornarono dal loro padre, dissero: “O padre, ci è stata negata la misura, ma manda nostro fratello con noi, e otterremo la misura. Ci prenderemo cura di lui.”
+**12:63** Quando tornarono dal loro padre, dissero: «O padre, ci è stata negata la misura, ma manda nostro fratello con noi, e otterremo la misura. Ci prenderemo cura di lui.»
 
 فَلَمَّا رَجَعُوٓا۟ إِلَىٰٓ أَبِيهِمْ قَالُوا۟ يَٰٓأَبَانَا مُنِعَ مِنَّا ٱلْكَيْلُ فَأَرْسِلْ مَعَنَآ أَخَانَا نَكْتَلْ وَإِنَّا لَهُۥ لَحَٰفِظُونَ
 
-**12:64** Lui disse: “Mi fiderò di voi con lui, come mi fidai di voi con suo fratello prima? Dio è il Miglior Guardiano, ed è il più Misericordioso dei misericordiosi.”
+**12:64** Lui disse: «Mi fiderò di voi con lui, come mi fidai di voi con suo fratello prima? Dio è il Miglior Guardiano, ed è il più Misericordioso dei misericordiosi.»
 
 قَالَ هَلْ ءَامَنُكُمْ عَلَيْهِ إِلَّا كَمَآ أَمِنتُكُمْ عَلَىٰٓ أَخِيهِ مِن قَبْلُ ۖ فَٱللَّهُ خَيْرٌ حَٰفِظًۭا ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
 
-**12:65** E quando aprirono i loro bagagli, trovarono che le loro merci erano state restituite a loro. Dissero: “Padre, cosa vogliamo di più? Ecco le nostre merci, restituiteci. Provvederemo alla nostra famiglia, e proteggeremo nostro fratello, e avremo un carico di cammello in più. Questo è commercio facile.”
+**12:65** E quando aprirono i loro bagagli, trovarono che le loro merci erano state restituite a loro. Dissero: «Padre, cosa vogliamo di più? Ecco le nostre merci, restituiteci. Provvederemo alla nostra famiglia, e proteggeremo nostro fratello, e avremo un carico di cammello in più. Questo è commercio facile.»
 
 وَلَمَّا فَتَحُوا۟ مَتَٰعَهُمْ وَجَدُوا۟ بِضَٰعَتَهُمْ رُدَّتْ إِلَيْهِمْ ۖ قَالُوا۟ يَٰٓأَبَانَا مَا نَبْغِى ۖ هَٰذِهِۦ بِضَٰعَتُنَا رُدَّتْ إِلَيْنَا ۖ وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍۢ ۖ ذَٰلِكَ كَيْلٌۭ يَسِيرٌۭ
 
-**12:66** Lui disse: “Non lo manderò con voi, a meno che non mi diate un impegno davanti a Dio che me lo riporterete, a meno che non siate intrappolati.” E quando gli diedero il loro impegno, disse: “Dio è testimone di ciò che diciamo.”
+**12:66** Lui disse: «Non lo manderò con voi, a meno che non mi diate un impegno davanti a Dio che me lo riporterete, a meno che non siate intrappolati.» E quando gli diedero il loro impegno, disse: «Dio è testimone di ciò che diciamo.»
 
 قَالَ لَنْ أُرْسِلَهُۥ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًۭا مِّنَ ٱللَّهِ لَتَأْتُنَّنِى بِهِۦٓ إِلَّآ أَن يُحَاطَ بِكُمْ ۖ فَلَمَّآ ءَاتَوْهُ مَوْثِقَهُمْ قَالَ ٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌۭ
 
-**12:67** E disse: “O figli miei, non entrate da una sola porta, ma entrate da porte diverse. Non posso giovarvi in nulla contro Dio. La decisione spetta solo a Dio. In Lui confido, e in Lui confidino quelli che confidano.”
+**12:67** E disse: «O figli miei, non entrate da una sola porta, ma entrate da porte diverse. Non posso giovarvi in nulla contro Dio. La decisione spetta solo a Dio. In Lui confido, e in Lui confidino quelli che confidano.»
 
 وَقَالَ يَٰبَنِىَّ لَا تَدْخُلُوا۟ مِنۢ بَابٍۢ وَٰحِدٍۢ وَٱدْخُلُوا۟ مِنْ أَبْوَٰبٍۢ مُّتَفَرِّقَةٍۢ ۖ وَمَآ أُغْنِى عَنكُم مِّنَ ٱللَّهِ مِن شَىْءٍ ۖ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ
 
@@ -6929,31 +6929,31 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَمَّا دَخَلُوا۟ مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ يُغْنِى عَنْهُم مِّنَ ٱللَّهِ مِن شَىْءٍ إِلَّا حَاجَةًۭ فِى نَفْسِ يَعْقُوبَ قَضَىٰهَا ۚ وَإِنَّهُۥ لَذُو عِلْمٍۢ لِّمَا عَلَّمْنَٰهُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
-**12:69** E quando entrarono alla presenza di Giuseppe, lui abbracciò suo fratello, e disse: “Io sono tuo fratello; non rattristarti per ciò che facevano.”
+**12:69** E quando entrarono alla presenza di Giuseppe, lui abbracciò suo fratello, e disse: «Io sono tuo fratello; non rattristarti per ciò che facevano.»
 
 وَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَخَاهُ ۖ قَالَ إِنِّىٓ أَنَا۠ أَخُوكَ فَلَا تَبْتَئِسْ بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**12:70** Poi, quando li rifornì con le loro provviste, mise la coppa per bere nella bisaccia di suo fratello. Poi un annunciatore gridò: “O gente della carovana, siete ladri.”
+**12:70** Poi, quando li rifornì con le loro provviste, mise la coppa per bere nella bisaccia di suo fratello. Poi un annunciatore gridò: «O gente della carovana, siete ladri.»
 
 فَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ جَعَلَ ٱلسِّقَايَةَ فِى رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا ٱلْعِيرُ إِنَّكُمْ لَسَٰرِقُونَ
 
-**12:71** Dissero, mentre venivano verso di loro: “Che cosa vi manca?”
+**12:71** Dissero, mentre venivano verso di loro: «Che cosa vi manca?»
 
 قَالُوا۟ وَأَقْبَلُوا۟ عَلَيْهِم مَّاذَا تَفْقِدُونَ
 
-**12:72** Dissero: “Ci manca la coppa del re. Chiunque la porterà avrà un carico di cammello; e io personalmente lo garantisco.”
+**12:72** Dissero: «Ci manca la coppa del re. Chiunque la porterà avrà un carico di cammello; e io personalmente lo garantisco.»
 
 قَالُوا۟ نَفْقِدُ صُوَاعَ ٱلْمَلِكِ وَلِمَن جَآءَ بِهِۦ حِمْلُ بَعِيرٍۢ وَأَنَا۠ بِهِۦ زَعِيمٌۭ
 
-**12:73** Dissero: “Per Dio, sapete che non siamo venuti a causare problemi nella terra, e non siamo ladri.”
+**12:73** Dissero: «Per Dio, sapete che non siamo venuti a causare problemi nella terra, e non siamo ladri.»
 
 قَالُوا۟ تَٱللَّهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنُفْسِدَ فِى ٱلْأَرْضِ وَمَا كُنَّا سَٰرِقِينَ
 
-**12:74** Dissero: “Quale sarà la sua pena, se state mentendo?”
+**12:74** Dissero: «Quale sarà la sua pena, se state mentendo?»
 
 قَالُوا۟ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمْ كَٰذِبِينَ
 
-**12:75** Dissero: “La sua pena, se viene trovata nella sua borsa: apparterrà a voi. Così puniamo i colpevoli.”
+**12:75** Dissero: «La sua pena, se viene trovata nella sua borsa: apparterrà a voi. Così puniamo i colpevoli.»
 
 قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ ۚ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ
 
@@ -6961,103 +6961,103 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ ۚ كَذَٰلِكَ كِدْنَا لِيُوسُفَ ۖ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ نَرْفَعُ دَرَجَٰتٍۢ مَّن نَّشَآءُ ۗ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌۭ
 
-**12:77** Dissero: “Se ha rubato, un suo fratello ha rubato prima.” Ma Giuseppe lo tenne per sé, e non lo rivelò a loro. Disse: “Voi siete in una situazione peggiore, e Dio è Consapevole di ciò che sostenete.”
+**12:77** Dissero: «Se ha rubato, un suo fratello ha rubato prima.» Ma Giuseppe lo tenne per sé, e non lo rivelò a loro. Disse: «Voi siete in una situazione peggiore, e Dio è Consapevole di ciò che sostenete.»
 
 ۞ قَالُوٓا۟ إِن يَسْرِقْ فَقَدْ سَرَقَ أَخٌۭ لَّهُۥ مِن قَبْلُ ۚ فَأَسَرَّهَا يُوسُفُ فِى نَفْسِهِۦ وَلَمْ يُبْدِهَا لَهُمْ ۚ قَالَ أَنتُمْ شَرٌّۭ مَّكَانًۭا ۖ وَٱللَّهُ أَعْلَمُ بِمَا تَصِفُونَ
 
-**12:78** Dissero: “O nobile principe, lui ha un padre, un uomo molto anziano, quindi prendi uno di noi al suo posto. Vediamo che sei una brava persona.”
+**12:78** Dissero: «O nobile principe, lui ha un padre, un uomo molto anziano, quindi prendi uno di noi al suo posto. Vediamo che sei una brava persona.»
 
 قَالُوا۟ يَٰٓأَيُّهَا ٱلْعَزِيزُ إِنَّ لَهُۥٓ أَبًۭا شَيْخًۭا كَبِيرًۭا فَخُذْ أَحَدَنَا مَكَانَهُۥٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ
 
-**12:79** Lui disse: “Dio non voglia che arrestiamo qualcuno tranne colui in possesso del quale abbiamo trovato la nostra proprietà; perché allora saremmo ingiusti.”
+**12:79** Lui disse: «Dio non voglia che arrestiamo qualcuno tranne colui in possesso del quale abbiamo trovato la nostra proprietà; perché allora saremmo ingiusti.»
 
 قَالَ مَعَاذَ ٱللَّهِ أَن نَّأْخُذَ إِلَّا مَن وَجَدْنَا مَتَٰعَنَا عِندَهُۥٓ إِنَّآ إِذًۭا لَّظَٰلِمُونَ
 
-**12:80** E quando disperarono di lui, si consultarono in privato. Il più anziano di loro disse: “Non sapete che vostro padre ha ricevuto un impegno da voi davanti a Dio, e in passato avete fallito riguardo a Giuseppe? Non lascerò questa terra finché mio padre non me lo permetta, o Dio non decida per me; perché Lui è il Migliore dei Decisori.”
+**12:80** E quando disperarono di lui, si consultarono in privato. Il più anziano di loro disse: «Non sapete che vostro padre ha ricevuto un impegno da voi davanti a Dio, e in passato avete fallito riguardo a Giuseppe? Non lascerò questa terra finché mio padre non me lo permetta, o Dio non decida per me; perché Lui è il Migliore dei Decisori.»
 
 فَلَمَّا ٱسْتَيْـَٔسُوا۟ مِنْهُ خَلَصُوا۟ نَجِيًّۭا ۖ قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوٓا۟ أَنَّ أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُم مَّوْثِقًۭا مِّنَ ٱللَّهِ وَمِن قَبْلُ مَا فَرَّطتُمْ فِى يُوسُفَ ۖ فَلَنْ أَبْرَحَ ٱلْأَرْضَ حَتَّىٰ يَأْذَنَ لِىٓ أَبِىٓ أَوْ يَحْكُمَ ٱللَّهُ لِى ۖ وَهُوَ خَيْرُ ٱلْحَٰكِمِينَ
 
-**12:81** “Tornate da vostro padre, e dite: ‘Padre nostro, tuo figlio ha rubato. Testimoniamo solo ciò che sappiamo, e non avremmo potuto impedire l'imprevisto.’”
+**12:81** «Tornate da vostro padre, e dite: ‘Padre nostro, tuo figlio ha rubato. Testimoniamo solo ciò che sappiamo, e non avremmo potuto impedire l'imprevisto.’»
 
 ٱرْجِعُوٓا۟ إِلَىٰٓ أَبِيكُمْ فَقُولُوا۟ يَٰٓأَبَانَآ إِنَّ ٱبْنَكَ سَرَقَ وَمَا شَهِدْنَآ إِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَٰفِظِينَ
 
-**12:82** “Chiedi alla città dove eravamo, e alla carovana in cui siamo venuti. Diciamo la verità.”
+**12:82** «Chiedi alla città dove eravamo, e alla carovana in cui siamo venuti. Diciamo la verità.»
 
 وَسْـَٔلِ ٱلْقَرْيَةَ ٱلَّتِى كُنَّا فِيهَا وَٱلْعِيرَ ٱلَّتِىٓ أَقْبَلْنَا فِيهَا ۖ وَإِنَّا لَصَٰدِقُونَ
 
-**12:83** Lui disse: “Piuttosto, le vostre anime hanno escogitato qualcosa per voi. La pazienza è una virtù. Forse Dio me li riporterà tutti. Lui è Colui che Sa, il Saggio.”
+**12:83** Lui disse: «Piuttosto, le vostre anime hanno escogitato qualcosa per voi. La pazienza è una virtù. Forse Dio me li riporterà tutti. Lui è Colui che Sa, il Saggio.»
 
 قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًۭا ۖ فَصَبْرٌۭ جَمِيلٌ ۖ عَسَى ٱللَّهُ أَن يَأْتِيَنِى بِهِمْ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
 
-**12:84** Poi si voltò da loro, e disse: “O mia amarezza per Giuseppe.” E i suoi occhi divennero bianchi per il dolore, e divenne depresso.
+**12:84** Poi si voltò da loro, e disse: «O mia amarezza per Giuseppe.» E i suoi occhi divennero bianchi per il dolore, e divenne depresso.
 
 وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ فَهُوَ كَظِيمٌۭ
 
-**12:85** Dissero: “Per Dio, non smetterai di ricordare Giuseppe, finché non avrai rovinato la tua salute, o non sarai morto.”
+**12:85** Dissero: «Per Dio, non smetterai di ricordare Giuseppe, finché non avrai rovinato la tua salute, o non sarai morto.»
 
 قَالُوا۟ تَٱللَّهِ تَفْتَؤُا۟ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ ٱلْهَٰلِكِينَ
 
-**12:86** Lui disse: “Mi lamento solo del mio dolore e della mia tristezza a Dio, e so da Dio ciò che voi non sapete.”
+**12:86** Lui disse: «Mi lamento solo del mio dolore e della mia tristezza a Dio, e so da Dio ciò che voi non sapete.»
 
 قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ
 
-**12:87** “O figli miei, andate e informatevi su Giuseppe e suo fratello, e non disperate del conforto di Dio. Nessuno dispera del conforto di Dio tranne il popolo miscredente.”
+**12:87** «O figli miei, andate e informatevi su Giuseppe e suo fratello, e non disperate del conforto di Dio. Nessuno dispera del conforto di Dio tranne il popolo miscredente.»
 
 يَٰبَنِىَّ ٱذْهَبُوا۟ فَتَحَسَّسُوا۟ مِن يُوسُفَ وَأَخِيهِ وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ ۖ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَٰفِرُونَ
 
-**12:88** Poi, quando entrarono alla sua presenza, dissero: “Potente governatore, le avversità hanno colpito noi, e la nostra famiglia. Abbiamo portato poca merce. Ma dacci misura piena, e sii caritatevole verso di noi — Dio ricompensa i caritatevoli.”
+**12:88** Poi, quando entrarono alla sua presenza, dissero: «Potente governatore, le avversità hanno colpito noi, e la nostra famiglia. Abbiamo portato poca merce. Ma dacci misura piena, e sii caritatevole verso di noi — Dio ricompensa i caritatevoli.»
 
 فَلَمَّا دَخَلُوا۟ عَلَيْهِ قَالُوا۟ يَٰٓأَيُّهَا ٱلْعَزِيزُ مَسَّنَا وَأَهْلَنَا ٱلضُّرُّ وَجِئْنَا بِبِضَٰعَةٍۢ مُّزْجَىٰةٍۢ فَأَوْفِ لَنَا ٱلْكَيْلَ وَتَصَدَّقْ عَلَيْنَآ ۖ إِنَّ ٱللَّهَ يَجْزِى ٱلْمُتَصَدِّقِينَ
 
-**12:89** Lui disse: “Vi rendete conto di ciò che avete fatto a Giuseppe e suo fratello, nella vostra ignoranza?”
+**12:89** Lui disse: «Vi rendete conto di ciò che avete fatto a Giuseppe e suo fratello, nella vostra ignoranza?»
 
 قَالَ هَلْ عَلِمْتُم مَّا فَعَلْتُم بِيُوسُفَ وَأَخِيهِ إِذْ أَنتُمْ جَٰهِلُونَ
 
-**12:90** Dissero: “Sei tu, Giuseppe?” Lui disse: “Io sono Giuseppe, e questo è mio fratello. Dio è stato benevolo con noi. Chi pratica la pietà e la pazienza — Dio non manca mai di ricompensare i giusti.”
+**12:90** Dissero: «Sei tu, Giuseppe?» Lui disse: «Io sono Giuseppe, e questo è mio fratello. Dio è stato benevolo con noi. Chi pratica la pietà e la pazienza — Dio non manca mai di ricompensare i giusti.»
 
 قَالُوٓا۟ أَءِنَّكَ لَأَنتَ يُوسُفُ ۖ قَالَ أَنَا۠ يُوسُفُ وَهَٰذَآ أَخِى ۖ قَدْ مَنَّ ٱللَّهُ عَلَيْنَآ ۖ إِنَّهُۥ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ
 
-**12:91** Dissero: “Per Dio, Dio ti ha preferito a noi. Eravamo sicuramente in errore.”
+**12:91** Dissero: «Per Dio, Dio ti ha preferito a noi. Eravamo sicuramente in errore.»
 
 قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَٰطِـِٔينَ
 
-**12:92** Lui disse: “Non c'è biasimo su di voi oggi. Dio vi perdonerà. Lui è il più Misericordioso dei misericordiosi.”
+**12:92** Lui disse: «Non c'è biasimo su di voi oggi. Dio vi perdonerà. Lui è il più Misericordioso dei misericordiosi.»
 
 قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ ۖ يَغْفِرُ ٱللَّهُ لَكُمْ ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
 
-**12:93** “Prendete questa mia camicia, e posatela sul volto di mio padre, e lui riacquisterà la vista. E portate tutta la vostra famiglia da me.”
+**12:93** «Prendete questa mia camicia, e posatela sul volto di mio padre, e lui riacquisterà la vista. E portate tutta la vostra famiglia da me.»
 
 ٱذْهَبُوا۟ بِقَمِيصِى هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِى يَأْتِ بَصِيرًۭا وَأْتُونِى بِأَهْلِكُمْ أَجْمَعِينَ
 
-**12:94** Quando la carovana partì, loro padre disse: “Sento la presenza di Giuseppe, anche se potreste pensare che sono senile.”
+**12:94** Quando la carovana partì, loro padre disse: «Sento la presenza di Giuseppe, anche se potreste pensare che sono senile.»
 
 وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّى لَأَجِدُ رِيحَ يُوسُفَ ۖ لَوْلَآ أَن تُفَنِّدُونِ
 
-**12:95** Dissero: “Per Dio, sei ancora nella tua vecchia confusione.”
+**12:95** Dissero: «Per Dio, sei ancora nella tua vecchia confusione.»
 
 قَالُوا۟ تَٱللَّهِ إِنَّكَ لَفِى ضَلَٰلِكَ ٱلْقَدِيمِ
 
-**12:96** Poi, quando arrivò il portatore di buone notizie, la posò sul suo volto, e lui riacquistò la vista. Disse: “Non vi avevo detto che so da Dio ciò che voi non sapete?”
+**12:96** Poi, quando arrivò il portatore di buone notizie, la posò sul suo volto, e lui riacquistò la vista. Disse: «Non vi avevo detto che so da Dio ciò che voi non sapete?»
 
 فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ
 
-**12:97** Dissero: “Padre, prega per il perdono dei nostri peccati; eravamo davvero in colpa.”
+**12:97** Dissero: «Padre, prega per il perdono dei nostri peccati; eravamo davvero in colpa.»
 
 قَالُوا۟ يَٰٓأَبَانَا ٱسْتَغْفِرْ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا خَٰطِـِٔينَ
 
-**12:98** Lui disse: “Chiederò al mio Signore di perdonarvi. Lui è il Perdonatore, il più Misericordioso.”
+**12:98** Lui disse: «Chiederò al mio Signore di perdonarvi. Lui è il Perdonatore, il più Misericordioso.»
 
 قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّىٓ ۖ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
-**12:99** Poi, quando entrarono alla presenza di Giuseppe, lui abbracciò i suoi genitori, e disse: “Entrate in Egitto, a Dio piacendo, salvi e sicuri.”
+**12:99** Poi, quando entrarono alla presenza di Giuseppe, lui abbracciò i suoi genitori, e disse: «Entrate in Egitto, a Dio piacendo, salvi e sicuri.»
 
 فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ
 
-**12:100** E elevò i suoi genitori sul trono, ed essi caddero prostrati davanti a lui. Lui disse: “Padre, questo è l'adempimento della mia visione di tanto tempo fa. Il mio Signore l'ha resa vera. Mi ha benedetto, quando mi ha liberato dalla prigione, e vi ha portati fuori dal deserto, dopo che il diavolo aveva seminato conflitto tra me e i miei fratelli. Il mio Signore è molto Gentile verso chiunque voglia. Lui è Colui che sa tutto, il più Saggio.”
+**12:100** E elevò i suoi genitori sul trono, ed essi caddero prostrati davanti a lui. Lui disse: «Padre, questo è l'adempimento della mia visione di tanto tempo fa. Il mio Signore l'ha resa vera. Mi ha benedetto, quando mi ha liberato dalla prigione, e vi ha portati fuori dal deserto, dopo che il diavolo aveva seminato conflitto tra me e i miei fratelli. Il mio Signore è molto Gentile verso chiunque voglia. Lui è Colui che sa tutto, il più Saggio.»
 
 وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًۭا ۖ وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّۭا ۖ وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ ۚ إِنَّ رَبِّى لَطِيفٌۭ لِّمَا يَشَآءُ ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
 
-**12:101** “Signore mio, mi hai dato una certa autorità, e mi hai insegnato una certa interpretazione degli eventi. Iniziatore dei cieli e della terra; Tu sei il mio Protettore in questa vita e nell'Aldilà. Accogli la mia anima in sottomissione, e uniscimi ai giusti.”
+**12:101** «Signore mio, mi hai dato una certa autorità, e mi hai insegnato una certa interpretazione degli eventi. Iniziatore dei cieli e della terra; Tu sei il mio Protettore in questa vita e nell'Aldilà. Accogli la mia anima in sottomissione, e uniscimi ai giusti.»
 
 ۞ رَبِّ قَدْ ءَاتَيْتَنِى مِنَ ٱلْمُلْكِ وَعَلَّمْتَنِى مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ فَاطِرَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ أَنتَ وَلِىِّۦ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ ۖ تَوَفَّنِى مُسْلِمًۭا وَأَلْحِقْنِى بِٱلصَّٰلِحِينَ
 
@@ -7085,7 +7085,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَفَأَمِنُوٓا۟ أَن تَأْتِيَهُمْ غَٰشِيَةٌۭ مِّنْ عَذَابِ ٱللَّهِ أَوْ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةًۭ وَهُمْ لَا يَشْعُرُونَ
 
-**12:108** Di': “Questa è la mia via; invito a Dio, basato su conoscenza chiara — io e chiunque mi segua. Gloria a Dio; e io non sono tra i politeisti.”
+**12:108** Di': «Questa è la mia via; invito a Dio, basato su conoscenza chiara — io e chiunque mi segua. Gloria a Dio; e io non sono tra i politeisti.»
 
 قُلْ هَٰذِهِۦ سَبِيلِىٓ أَدْعُوٓا۟ إِلَى ٱللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا۠ وَمَنِ ٱتَّبَعَنِى ۖ وَسُبْحَٰنَ ٱللَّهِ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ
 
@@ -7129,7 +7129,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَفِى ٱلْأَرْضِ قِطَعٌۭ مُّتَجَٰوِرَٰتٌۭ وَجَنَّٰتٌۭ مِّنْ أَعْنَٰبٍۢ وَزَرْعٌۭ وَنَخِيلٌۭ صِنْوَانٌۭ وَغَيْرُ صِنْوَانٍۢ يُسْقَىٰ بِمَآءٍۢ وَٰحِدٍۢ وَنُفَضِّلُ بَعْضَهَا عَلَىٰ بَعْضٍۢ فِى ٱلْأُكُلِ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَعْقِلُونَ
 
-**13:5** Se dovessi meravigliarti — la vera meraviglia è il loro dire: “Quando saremo diventati polvere, saremo in una nuova creazione?” Quelli sono coloro che hanno sfidato il loro Signore. Quelli sono coloro che avranno gioghi intorno al collo. Quelli sono gli abitanti del Fuoco, dove resteranno per sempre.
+**13:5** Se dovessi meravigliarti — la vera meraviglia è il loro dire: «Quando saremo diventati polvere, saremo in una nuova creazione?» Quelli sono coloro che hanno sfidato il loro Signore. Quelli sono coloro che avranno gioghi intorno al collo. Quelli sono gli abitanti del Fuoco, dove resteranno per sempre.
 
 ۞ وَإِن تَعْجَبْ فَعَجَبٌۭ قَوْلُهُمْ أَءِذَا كُنَّا تُرَٰبًا أَءِنَّا لَفِى خَلْقٍۢ جَدِيدٍ ۗ أُو۟لَٰٓئِكَ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ ۖ وَأُو۟لَٰٓئِكَ ٱلْأَغْلَٰلُ فِىٓ أَعْنَاقِهِمْ ۖ وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
@@ -7137,7 +7137,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَيَسْتَعْجِلُونَكَ بِٱلسَّيِّئَةِ قَبْلَ ٱلْحَسَنَةِ وَقَدْ خَلَتْ مِن قَبْلِهِمُ ٱلْمَثُلَٰتُ ۗ وَإِنَّ رَبَّكَ لَذُو مَغْفِرَةٍۢ لِّلنَّاسِ عَلَىٰ ظُلْمِهِمْ ۖ وَإِنَّ رَبَّكَ لَشَدِيدُ ٱلْعِقَابِ
 
-**13:7** Quelli che non credono dicono: “Perché non gli è stato mandato un miracolo dal suo Signore?” Tu sei solo un ammonitore, e per ogni comunità c'è una guida.
+**13:7** Quelli che non credono dicono: «Perché non gli è stato mandato un miracolo dal suo Signore?» Tu sei solo un ammonitore, e per ogni comunità c'è una guida.
 
 وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌۭ مِّن رَّبِّهِۦٓ ۗ إِنَّمَآ أَنتَ مُنذِرٌۭ ۖ وَلِكُلِّ قَوْمٍ هَادٍ
 
@@ -7175,7 +7175,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 
 
-**13:16** Di': “Chi è il Signore dei cieli e della terra?” Di': “Dio.” Di': “Avete preso oltre a Lui protettori, che non hanno potere di giovare o nuocere nemmeno a se stessi?” Di': “Il cieco e chi vede sono uguali? O le tenebre e la luce sono uguali? O hanno assegnato a Dio degli associati, che hanno creato come la Sua creazione, così che le creazioni sembravano loro simili? Di': “Dio è il Creatore di ogni cosa, ed è l'Uno, l'Irresistibile.”
+**13:16** Di': «Chi è il Signore dei cieli e della terra?» Di': «Dio.» Di': «Avete preso oltre a Lui protettori, che non hanno potere di giovare o nuocere nemmeno a se stessi?» Di': «Il cieco e chi vede sono uguali? O le tenebre e la luce sono uguali? O hanno assegnato a Dio degli associati, che hanno creato come la Sua creazione, così che le creazioni sembravano loro simili? Di': «Dio è il Creatore di ogni cosa, ed è l'Uno, l'Irresistibile.»
 
 قُلْ مَن رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ قُلِ ٱللَّهُ ۚ قُلْ أَفَٱتَّخَذْتُم مِّن دُونِهِۦٓ أَوْلِيَآءَ لَا يَمْلِكُونَ لِأَنفُسِهِمْ نَفْعًۭا وَلَا ضَرًّۭا ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ أَمْ هَلْ تَسْتَوِى ٱلظُّلُمَٰتُ وَٱلنُّورُ ۗ أَمْ جَعَلُوا۟ لِلَّهِ شُرَكَآءَ خَلَقُوا۟ كَخَلْقِهِۦ فَتَشَٰبَهَ ٱلْخَلْقُ عَلَيْهِمْ ۚ قُلِ ٱللَّهُ خَٰلِقُ كُلِّ شَىْءٍۢ وَهُوَ ٱلْوَٰحِدُ ٱلْقَهَّٰرُ
 
@@ -7207,7 +7207,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 جَنَّٰتُ عَدْنٍۢ يَدْخُلُونَهَا وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّٰتِهِمْ ۖ وَٱلْمَلَٰٓئِكَةُ يَدْخُلُونَ عَلَيْهِم مِّن كُلِّ بَابٍۢ
 
-**13:24** “La pace sia su di voi, perché avete sopportato con pazienza. Quanto è eccellente la Casa Finale.”
+**13:24** «La pace sia su di voi, perché avete sopportato con pazienza. Quanto è eccellente la Casa Finale.»
 
 سَلَٰمٌ عَلَيْكُم بِمَا صَبَرْتُمْ ۚ فَنِعْمَ عُقْبَى ٱلدَّارِ
 
@@ -7219,11 +7219,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ وَفَرِحُوا۟ بِٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا فِى ٱلْءَاخِرَةِ إِلَّا مَتَٰعٌۭ
 
-**13:27** Quelli che non credono dicono: “Se solo un miracolo gli fosse stato mandato dal suo Signore.” Di': “Dio svia chiunque voglia, e guida a Sé chiunque si penta.”
+**13:27** Quelli che non credono dicono: «Se solo un miracolo gli fosse stato mandato dal suo Signore.» Di': «Dio svia chiunque voglia, e guida a Sé chiunque si penta.»
 
 وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌۭ مِّن رَّبِّهِۦ ۗ قُلْ إِنَّ ٱللَّهَ يُضِلُّ مَن يَشَآءُ وَيَهْدِىٓ إِلَيْهِ مَنْ أَنَابَ
 
-**13:28** Quelli che credono, e i cui cuori trovano conforto nel ricordo di Dio. Certamente, è nel ricordo di Dio che i cuori trovano conforto.”
+**13:28** Quelli che credono, e i cui cuori trovano conforto nel ricordo di Dio. Certamente, è nel ricordo di Dio che i cuori trovano conforto.»
 
 ٱلَّذِينَ ءَامَنُوا۟ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ ٱللَّهِ ۗ أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ
 
@@ -7231,7 +7231,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ طُوبَىٰ لَهُمْ وَحُسْنُ مَـَٔابٍۢ
 
-**13:30** Così ti abbiamo mandato tra una comunità prima della quale altre comunità sono passate, affinché tu reciti loro ciò che ti abbiamo rivelato. Eppure negano il Beneficente. Di': “Lui è il mio Signore; non c'è dio tranne Lui; in Lui confido, e a Lui è il mio pentimento.”
+**13:30** Così ti abbiamo mandato tra una comunità prima della quale altre comunità sono passate, affinché tu reciti loro ciò che ti abbiamo rivelato. Eppure negano il Beneficente. Di': «Lui è il mio Signore; non c'è dio tranne Lui; in Lui confido, e a Lui è il mio pentimento.»
 
 كَذَٰلِكَ أَرْسَلْنَٰكَ فِىٓ أُمَّةٍۢ قَدْ خَلَتْ مِن قَبْلِهَآ أُمَمٌۭ لِّتَتْلُوَا۟ عَلَيْهِمُ ٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَهُمْ يَكْفُرُونَ بِٱلرَّحْمَٰنِ ۚ قُلْ هُوَ رَبِّى لَآ إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ مَتَابِ
 
@@ -7243,7 +7243,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍۢ مِّن قَبْلِكَ فَأَمْلَيْتُ لِلَّذِينَ كَفَرُوا۟ ثُمَّ أَخَذْتُهُمْ ۖ فَكَيْفَ كَانَ عِقَابِ
 
-**13:33** È Lui che veglia sulle azioni di ogni anima? Eppure attribuiscono associati a Dio. Di': “Nominateli! O state informando Lui di qualcosa sulla terra che Lui non sa, o è una mostra di parole?” In realtà, l'intrigo di quelli che non credono è fatto apparire buono a loro, e sono sviati dal cammino. Chiunque Dio svii non ha guida.
+**13:33** È Lui che veglia sulle azioni di ogni anima? Eppure attribuiscono associati a Dio. Di': «Nominateli! O state informando Lui di qualcosa sulla terra che Lui non sa, o è una mostra di parole?» In realtà, l'intrigo di quelli che non credono è fatto apparire buono a loro, e sono sviati dal cammino. Chiunque Dio svii non ha guida.
 
 أَفَمَنْ هُوَ قَآئِمٌ عَلَىٰ كُلِّ نَفْسٍۭ بِمَا كَسَبَتْ ۗ وَجَعَلُوا۟ لِلَّهِ شُرَكَآءَ قُلْ سَمُّوهُمْ ۚ أَمْ تُنَبِّـُٔونَهُۥ بِمَا لَا يَعْلَمُ فِى ٱلْأَرْضِ أَم بِظَٰهِرٍۢ مِّنَ ٱلْقَوْلِ ۗ بَلْ زُيِّنَ لِلَّذِينَ كَفَرُوا۟ مَكْرُهُمْ وَصُدُّوا۟ عَنِ ٱلسَّبِيلِ ۗ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍۢ
 
@@ -7255,7 +7255,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ۞ مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ ۖ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۖ أُكُلُهَا دَآئِمٌۭ وَظِلُّهَا ۚ تِلْكَ عُقْبَى ٱلَّذِينَ ٱتَّقَوا۟ ۖ وَّعُقْبَى ٱلْكَٰفِرِينَ ٱلنَّارُ
 
-**13:36** Quelli a cui abbiamo dato la Scrittura si rallegrano di ciò che ti è stato rivelato, mentre alcune fazioni ne rifiutano parti. Di': “Mi è stato comandato di adorare Dio, e di non associare mai nulla a Lui. A Lui invito, e a Lui è il mio ritorno.”
+**13:36** Quelli a cui abbiamo dato la Scrittura si rallegrano di ciò che ti è stato rivelato, mentre alcune fazioni ne rifiutano parti. Di': «Mi è stato comandato di adorare Dio, e di non associare mai nulla a Lui. A Lui invito, e a Lui è il mio ritorno.»
 
 وَٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ يَفْرَحُونَ بِمَآ أُنزِلَ إِلَيْكَ ۖ وَمِنَ ٱلْأَحْزَابِ مَن يُنكِرُ بَعْضَهُۥ ۚ قُلْ إِنَّمَآ أُمِرْتُ أَنْ أَعْبُدَ ٱللَّهَ وَلَآ أُشْرِكَ بِهِۦٓ ۚ إِلَيْهِ أَدْعُوا۟ وَإِلَيْهِ مَـَٔابِ
 
@@ -7283,7 +7283,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَقَدْ مَكَرَ ٱلَّذِينَ مِن قَبْلِهِمْ فَلِلَّهِ ٱلْمَكْرُ جَمِيعًۭا ۖ يَعْلَمُ مَا تَكْسِبُ كُلُّ نَفْسٍۢ ۗ وَسَيَعْلَمُ ٱلْكُفَّٰرُ لِمَنْ عُقْبَى ٱلدَّارِ
 
-**13:43** Quelli che non credono dicono: “Tu non sei un messaggero.” Di': “Dio è un testimone sufficiente tra me e voi, e chiunque ha conoscenza della Scrittura.”
+**13:43** Quelli che non credono dicono: «Tu non sei un messaggero.» Di': «Dio è un testimone sufficiente tra me e voi, e chiunque ha conoscenza della Scrittura.»
 
 وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَسْتَ مُرْسَلًۭا ۚ قُلْ كَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ وَمَنْ عِندَهُۥ عِلْمُ ٱلْكِتَٰبِ
 
@@ -7315,43 +7315,43 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوْمِهِۦ لِيُبَيِّنَ لَهُمْ ۖ فَيُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**14:5** Abbiamo mandato Mosè con i Nostri segni: “Porta il tuo popolo fuori dalle tenebre nella luce, e ricorda loro i Giorni di Dio.” In ciò ci sono segni per ogni persona paziente e grata.”
+**14:5** Abbiamo mandato Mosè con i Nostri segni: «Porta il tuo popolo fuori dalle tenebre nella luce, e ricorda loro i Giorni di Dio.» In ciò ci sono segni per ogni persona paziente e grata.»
 
 وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَآ أَنْ أَخْرِجْ قَوْمَكَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَذَكِّرْهُم بِأَيَّىٰمِ ٱللَّهِ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّكُلِّ صَبَّارٍۢ شَكُورٍۢ
 
-**14:6** Mosè disse al suo popolo: “Ricordate le benedizioni di Dio su di voi, quando vi liberò dal popolo del Faraone, che vi inflisse terribili sofferenze, massacrando i vostri figli mentre risparmiava le vostre figlie. In ciò c'era una seria prova dal vostro Signore.”
+**14:6** Mosè disse al suo popolo: «Ricordate le benedizioni di Dio su di voi, quando vi liberò dal popolo del Faraone, che vi inflisse terribili sofferenze, massacrando i vostri figli mentre risparmiava le vostre figlie. In ciò c'era una seria prova dal vostro Signore.»
 
 وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ أَنجَىٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ وَيُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌۭ مِّن رَّبِّكُمْ عَظِيمٌۭ
 
-**14:7** E quando il vostro Signore proclamò: “Se ringraziate, vi concederò un aumento; ma se siete ingrati, il Mio castigo è severo.”
+**14:7** E quando il vostro Signore proclamò: «Se ringraziate, vi concederò un aumento; ma se siete ingrati, il Mio castigo è severo.»
 
 وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِى لَشَدِيدٌۭ
 
-**14:8** E Mosè disse: “Anche se siete ingrati, insieme a tutti sulla terra — Dio non ha bisogno, Degno di Lode.”
+**14:8** E Mosè disse: «Anche se siete ingrati, insieme a tutti sulla terra — Dio non ha bisogno, Degno di Lode.»
 
 وَقَالَ مُوسَىٰٓ إِن تَكْفُرُوٓا۟ أَنتُمْ وَمَن فِى ٱلْأَرْضِ جَمِيعًۭا فَإِنَّ ٱللَّهَ لَغَنِىٌّ حَمِيدٌ
 
-**14:9** Non vi è giunta la storia, di quelli prima di voi, il popolo di Noè, e Aad, e Thamud — e quelli dopo di loro? Nessuno li conosce tranne Dio. I loro messaggeri vennero da loro con le prove chiare, ma cercarono di silenziarli, e dissero: “Rifiutiamo ciò con cui siete stati mandati, e siamo in serio dubbio riguardo a ciò a cui ci state chiamando.”
+**14:9** Non vi è giunta la storia, di quelli prima di voi, il popolo di Noè, e Aad, e Thamud — e quelli dopo di loro? Nessuno li conosce tranne Dio. I loro messaggeri vennero da loro con le prove chiare, ma cercarono di silenziarli, e dissero: «Rifiutiamo ciò con cui siete stati mandati, e siamo in serio dubbio riguardo a ciò a cui ci state chiamando.»
 
 أَلَمْ يَأْتِكُمْ نَبَؤُا۟ ٱلَّذِينَ مِن قَبْلِكُمْ قَوْمِ نُوحٍۢ وَعَادٍۢ وَثَمُودَ ۛ وَٱلَّذِينَ مِنۢ بَعْدِهِمْ ۛ لَا يَعْلَمُهُمْ إِلَّا ٱللَّهُ ۚ جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَرَدُّوٓا۟ أَيْدِيَهُمْ فِىٓ أَفْوَٰهِهِمْ وَقَالُوٓا۟ إِنَّا كَفَرْنَا بِمَآ أُرْسِلْتُم بِهِۦ وَإِنَّا لَفِى شَكٍّۢ مِّمَّا تَدْعُونَنَآ إِلَيْهِ مُرِيبٍۢ
 
-**14:10** I loro messaggeri dissero: “C'è qualche dubbio su Dio, Creatore dei cieli e della terra? Lui vi chiama per perdonarvi i vostri peccati, e per rimandarvi fino a un termine stabilito.” Dissero: “Siete solo umani come noi; volete allontanarci da ciò che i nostri antenati adoravano; quindi portateci una prova chiara.”
+**14:10** I loro messaggeri dissero: «C'è qualche dubbio su Dio, Creatore dei cieli e della terra? Lui vi chiama per perdonarvi i vostri peccati, e per rimandarvi fino a un termine stabilito.» Dissero: «Siete solo umani come noi; volete allontanarci da ciò che i nostri antenati adoravano; quindi portateci una prova chiara.»
 
 ۞ قَالَتْ رُسُلُهُمْ أَفِى ٱللَّهِ شَكٌّۭ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ يَدْعُوكُمْ لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَىٰٓ أَجَلٍۢ مُّسَمًّۭى ۚ قَالُوٓا۟ إِنْ أَنتُمْ إِلَّا بَشَرٌۭ مِّثْلُنَا تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ ءَابَآؤُنَا فَأْتُونَا بِسُلْطَٰنٍۢ مُّبِينٍۢ
 
-**14:11** I loro messaggeri dissero loro: “Siamo solo umani come voi, ma Dio favorisce chiunque voglia tra i Suoi servitori. Non possiamo mostrarvi alcuna prova, tranne con il permesso di Dio. In Dio i fedeli pongano la loro fiducia.”
+**14:11** I loro messaggeri dissero loro: «Siamo solo umani come voi, ma Dio favorisce chiunque voglia tra i Suoi servitori. Non possiamo mostrarvi alcuna prova, tranne con il permesso di Dio. In Dio i fedeli pongano la loro fiducia.»
 
 قَالَتْ لَهُمْ رُسُلُهُمْ إِن نَّحْنُ إِلَّا بَشَرٌۭ مِّثْلُكُمْ وَلَٰكِنَّ ٱللَّهَ يَمُنُّ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ وَمَا كَانَ لَنَآ أَن نَّأْتِيَكُم بِسُلْطَٰنٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
 
-**14:12** “E perché non dovremmo confidare in Dio, quando Lui ci ha guidati nelle nostre vie? Persevereremo di fronte alla vostra persecuzione. E su Dio chi confida dovrebbe confidare.”
+**14:12** «E perché non dovremmo confidare in Dio, quando Lui ci ha guidati nelle nostre vie? Persevereremo di fronte alla vostra persecuzione. E su Dio chi confida dovrebbe confidare.»
 
 وَمَا لَنَآ أَلَّا نَتَوَكَّلَ عَلَى ٱللَّهِ وَقَدْ هَدَىٰنَا سُبُلَنَا ۚ وَلَنَصْبِرَنَّ عَلَىٰ مَآ ءَاذَيْتُمُونَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ
 
-**14:13** Quelli che non credevano dissero ai loro messaggeri: “Vi espelleremo dalla nostra terra, a meno che non torniate alla nostra religione.” E il loro Signore li ispirò: “Distruggeremo gli ingiusti.”
+**14:13** Quelli che non credevano dissero ai loro messaggeri: «Vi espelleremo dalla nostra terra, a meno che non torniate alla nostra religione.» E il loro Signore li ispirò: «Distruggeremo gli ingiusti.»
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِرُسُلِهِمْ لَنُخْرِجَنَّكُم مِّنْ أَرْضِنَآ أَوْ لَتَعُودُنَّ فِى مِلَّتِنَا ۖ فَأَوْحَىٰٓ إِلَيْهِمْ رَبُّهُمْ لَنُهْلِكَنَّ ٱلظَّٰلِمِينَ
 
-**14:14** “E vi stabiliremo nella terra dopo di loro. Questo è per chi teme la Mia Maestà, e teme le Mie minacce.”
+**14:14** «E vi stabiliremo nella terra dopo di loro. Questo è per chi teme la Mia Maestà, e teme le Mie minacce.»
 
 وَلَنُسْكِنَنَّكُمُ ٱلْأَرْضَ مِنۢ بَعْدِهِمْ ۚ ذَٰلِكَ لِمَنْ خَافَ مَقَامِى وَخَافَ وَعِيدِ
 
@@ -7379,15 +7379,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٍۢ
 
-**14:21** Essi emergeranno davanti a Dio, tutti insieme. I deboli diranno a quelli che erano orgogliosi: “Eravamo vostri seguaci, potete proteggerci affatto contro il castigo di Dio?” Diranno: “Se Dio ci avesse guidati, vi avremmo guidati. È lo stesso per noi; che ci lamentiamo, o siamo pazienti; non c'è asilo per noi.”
+**14:21** Essi emergeranno davanti a Dio, tutti insieme. I deboli diranno a quelli che erano orgogliosi: «Eravamo vostri seguaci, potete proteggerci affatto contro il castigo di Dio?» Diranno: «Se Dio ci avesse guidati, vi avremmo guidati. È lo stesso per noi; che ci lamentiamo, o siamo pazienti; non c'è asilo per noi.»
 
 وَبَرَزُوا۟ لِلَّهِ جَمِيعًۭا فَقَالَ ٱلضُّعَفَٰٓؤُا۟ لِلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُنَّا لَكُمْ تَبَعًۭا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا مِنْ عَذَابِ ٱللَّهِ مِن شَىْءٍۢ ۚ قَالُوا۟ لَوْ هَدَىٰنَا ٱللَّهُ لَهَدَيْنَٰكُمْ ۖ سَوَآءٌ عَلَيْنَآ أَجَزِعْنَآ أَمْ صَبَرْنَا مَا لَنَا مِن مَّحِيصٍۢ
 
-**14:22** E Satana dirà, quando la questione sarà decisa: “Dio vi ha promesso la promessa di verità, e io vi ho promesso, ma vi ho fallito. Non avevo autorità su di voi, tranne che vi ho chiamati, e mi avete risposto. Quindi non biasimate me, ma biasimate voi stessi. Non posso venire in vostro aiuto, né voi potete venire in mio aiuto. Rifiuto il vostro associarmi in passato. Gli ingiusti avranno un tormento molto doloroso.”
+**14:22** E Satana dirà, quando la questione sarà decisa: «Dio vi ha promesso la promessa di verità, e io vi ho promesso, ma vi ho fallito. Non avevo autorità su di voi, tranne che vi ho chiamati, e mi avete risposto. Quindi non biasimate me, ma biasimate voi stessi. Non posso venire in vostro aiuto, né voi potete venire in mio aiuto. Rifiuto il vostro associarmi in passato. Gli ingiusti avranno un tormento molto doloroso.»
 
 وَقَالَ ٱلشَّيْطَٰنُ لَمَّا قُضِىَ ٱلْأَمْرُ إِنَّ ٱللَّهَ وَعَدَكُمْ وَعْدَ ٱلْحَقِّ وَوَعَدتُّكُمْ فَأَخْلَفْتُكُمْ ۖ وَمَا كَانَ لِىَ عَلَيْكُم مِّن سُلْطَٰنٍ إِلَّآ أَن دَعَوْتُكُمْ فَٱسْتَجَبْتُمْ لِى ۖ فَلَا تَلُومُونِى وَلُومُوٓا۟ أَنفُسَكُم ۖ مَّآ أَنَا۠ بِمُصْرِخِكُمْ وَمَآ أَنتُم بِمُصْرِخِىَّ ۖ إِنِّى كَفَرْتُ بِمَآ أَشْرَكْتُمُونِ مِن قَبْلُ ۗ إِنَّ ٱلظَّٰلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌۭ
 
-**14:23** Ma quelli che hanno creduto e hanno fatto opere buone saranno ammessi in giardini sotto cui scorrono fiumi, per restarvi per sempre, con il permesso del loro Signore. Il loro saluto in essi sarà: “Pace.”
+**14:23** Ma quelli che hanno creduto e hanno fatto opere buone saranno ammessi in giardini sotto cui scorrono fiumi, per restarvi per sempre, con il permesso del loro Signore. Il loro saluto in essi sarà: «Pace.»
 
 وَأُدْخِلَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا بِإِذْنِ رَبِّهِمْ ۖ تَحِيَّتُهُمْ فِيهَا سَلَٰمٌ
 
@@ -7415,7 +7415,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 جَهَنَّمَ يَصْلَوْنَهَا ۖ وَبِئْسَ ٱلْقَرَارُ
 
-**14:30** E hanno posto rivali a Dio, per sviare dal Suo cammino. Di': “Godetevi; la vostra destinazione è il Fuoco.”
+**14:30** E hanno posto rivali a Dio, per sviare dal Suo cammino. Di': «Godetevi; la vostra destinazione è il Fuoco.»
 
 وَجَعَلُوا۟ لِلَّهِ أَندَادًۭا لِّيُضِلُّوا۟ عَن سَبِيلِهِۦ ۗ قُلْ تَمَتَّعُوا۟ فَإِنَّ مَصِيرَكُمْ إِلَى ٱلنَّارِ
 
@@ -7435,31 +7435,31 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَءَاتَىٰكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ ۚ وَإِن تَعُدُّوا۟ نِعْمَتَ ٱللَّهِ لَا تُحْصُوهَآ ۗ إِنَّ ٱلْإِنسَٰنَ لَظَلُومٌۭ كَفَّارٌۭ
 
-**14:35** Ricorda che Abramo disse: “O Signore mio, rendi questa terra pacifica, e tieni me e i miei figli lontani dall'adorare idoli.”
+**14:35** Ricorda che Abramo disse: «O Signore mio, rendi questa terra pacifica, e tieni me e i miei figli lontani dall'adorare idoli.»
 
 وَإِذْ قَالَ إِبْرَٰهِيمُ رَبِّ ٱجْعَلْ هَٰذَا ٱلْبَلَدَ ءَامِنًۭا وَٱجْنُبْنِى وَبَنِىَّ أَن نَّعْبُدَ ٱلْأَصْنَامَ
 
-**14:36** “Signore mio, essi hanno sviato molte persone. Chiunque mi segue appartiene a me; e chiunque mi disobbedisce — Tu sei Perdonatore e Misericordioso.
+**14:36** «Signore mio, essi hanno sviato molte persone. Chiunque mi segue appartiene a me; e chiunque mi disobbedisce — Tu sei Perdonatore e Misericordioso.
 
 رَبِّ إِنَّهُنَّ أَضْلَلْنَ كَثِيرًۭا مِّنَ ٱلنَّاسِ ۖ فَمَن تَبِعَنِى فَإِنَّهُۥ مِنِّى ۖ وَمَنْ عَصَانِى فَإِنَّكَ غَفُورٌۭ رَّحِيمٌۭ
 
-**14:37** “Signore nostro, ho stabilito parte della mia discendenza in una valle senza vegetazione, presso la Tua Casa Sacra, Signore nostro, affinché possano compiere le preghiere. Quindi fai in modo che i cuori di alcune persone si inclinino verso di loro, e provvedi loro con frutti, affinché possano essere grati.”
+**14:37** «Signore nostro, ho stabilito parte della mia discendenza in una valle senza vegetazione, presso la Tua Casa Sacra, Signore nostro, affinché possano compiere le preghiere. Quindi fai in modo che i cuori di alcune persone si inclinino verso di loro, e provvedi loro con frutti, affinché possano essere grati.»
 
 رَّبَّنَآ إِنِّىٓ أَسْكَنتُ مِن ذُرِّيَّتِى بِوَادٍ غَيْرِ ذِى زَرْعٍ عِندَ بَيْتِكَ ٱلْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا۟ ٱلصَّلَوٰةَ فَٱجْعَلْ أَفْـِٔدَةًۭ مِّنَ ٱلنَّاسِ تَهْوِىٓ إِلَيْهِمْ وَٱرْزُقْهُم مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَشْكُرُونَ
 
-**14:38** “Signore nostro, Tu sai ciò che nascondiamo e ciò che riveliamo. E nulla è nascosto a Dio, sulla terra o nel cielo.”
+**14:38** «Signore nostro, Tu sai ciò che nascondiamo e ciò che riveliamo. E nulla è nascosto a Dio, sulla terra o nel cielo.»
 
 رَبَّنَآ إِنَّكَ تَعْلَمُ مَا نُخْفِى وَمَا نُعْلِنُ ۗ وَمَا يَخْفَىٰ عَلَى ٱللَّهِ مِن شَىْءٍۢ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ
 
-**14:39** “Lode a Dio, che mi ha dato, nella mia vecchiaia, Ismaele e Isacco. Il mio Signore è Colui che Ascolta le Preghiere.”
+**14:39** «Lode a Dio, che mi ha dato, nella mia vecchiaia, Ismaele e Isacco. Il mio Signore è Colui che Ascolta le Preghiere.»
 
 ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَٰعِيلَ وَإِسْحَٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ
 
-**14:40** “Signore mio, rendimi uno che compie la preghiera, e dalla mia discendenza. Signore nostro, accetta la mia supplica.”
+**14:40** «Signore mio, rendimi uno che compie la preghiera, e dalla mia discendenza. Signore nostro, accetta la mia supplica.»
 
 رَبِّ ٱجْعَلْنِى مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِى ۚ رَبَّنَا وَتَقَبَّلْ دُعَآءِ
 
-**14:41** “Signore nostro, perdona me, e i miei genitori, e i credenti, nel Giorno in cui ha luogo il Rendiconto.”
+**14:41** «Signore nostro, perdona me, e i miei genitori, e i credenti, nel Giorno in cui ha luogo il Rendiconto.»
 
 رَبَّنَا ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ ٱلْحِسَابُ
 
@@ -7471,7 +7471,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 مُهْطِعِينَ مُقْنِعِى رُءُوسِهِمْ لَا يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ ۖ وَأَفْـِٔدَتُهُمْ هَوَآءٌۭ
 
-**14:44** E avverti l'umanità del Giorno in cui il castigo verrà su di loro, e i malvagi diranno: “Signore nostro, rimandaci per un po', e risponderemo alla Tua chiamata e seguiremo i messaggeri.” Non avete giurato prima che non ci sarebbe stata dipartita per voi?
+**14:44** E avverti l'umanità del Giorno in cui il castigo verrà su di loro, e i malvagi diranno: «Signore nostro, rimandaci per un po', e risponderemo alla Tua chiamata e seguiremo i messaggeri.» Non avete giurato prima che non ci sarebbe stata dipartita per voi?
 
 وَأَنذِرِ ٱلنَّاسَ يَوْمَ يَأْتِيهِمُ ٱلْعَذَابُ فَيَقُولُ ٱلَّذِينَ ظَلَمُوا۟ رَبَّنَآ أَخِّرْنَآ إِلَىٰٓ أَجَلٍۢ قَرِيبٍۢ نُّجِبْ دَعْوَتَكَ وَنَتَّبِعِ ٱلرُّسُلَ ۗ أَوَلَمْ تَكُونُوٓا۟ أَقْسَمْتُم مِّن قَبْلُ مَا لَكُم مِّن زَوَالٍۢ
 
@@ -7539,11 +7539,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 مَّا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَـْٔخِرُونَ
 
-**15:6** E dissero: “O tu che hai ricevuto il messaggio, sei pazzo.”
+**15:6** E dissero: «O tu che hai ricevuto il messaggio, sei pazzo.»
 
 وَقَالُوا۟ يَٰٓأَيُّهَا ٱلَّذِى نُزِّلَ عَلَيْهِ ٱلذِّكْرُ إِنَّكَ لَمَجْنُونٌۭ
 
-**15:7** Perché non ci porti gli angeli, se dici la verità?”
+**15:7** Perché non ci porti gli angeli, se dici la verità?»
 
 لَّوْ مَا تَأْتِينَا بِٱلْمَلَٰٓئِكَةِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 
@@ -7575,7 +7575,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَوْ فَتَحْنَا عَلَيْهِم بَابًۭا مِّنَ ٱلسَّمَآءِ فَظَلُّوا۟ فِيهِ يَعْرُجُونَ
 
-**15:15** Direbbero ancora: “I nostri occhi stanno avendo allucinazioni; in realtà, siamo gente stregata.”
+**15:15** Direbbero ancora: «I nostri occhi stanno avendo allucinazioni; in realtà, siamo gente stregata.»
 
 لَقَالُوٓا۟ إِنَّمَا سُكِّرَتْ أَبْصَٰرُنَا بَلْ نَحْنُ قَوْمٌۭ مَّسْحُورُونَ
 
@@ -7627,11 +7627,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَٱلْجَآنَّ خَلَقْنَٰهُ مِن قَبْلُ مِن نَّارِ ٱلسَّمُومِ
 
-**15:28** Il tuo Signore disse agli angeli: “Sto creando un essere umano dall'argilla, da fango modellato.”
+**15:28** Il tuo Signore disse agli angeli: «Sto creando un essere umano dall'argilla, da fango modellato.»
 
 وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًۭا مِّن صَلْصَٰلٍۢ مِّنْ حَمَإٍۢ مَّسْنُونٍۢ
 
-**15:29** “Quando l'avrò formato, e avrò soffiato in lui del Mio spirito, cadete prostrandovi davanti a lui.”
+**15:29** «Quando l'avrò formato, e avrò soffiato in lui del Mio spirito, cadete prostrandovi davanti a lui.»
 
 فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ
 
@@ -7643,47 +7643,47 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِلَّآ إِبْلِيسَ أَبَىٰٓ أَن يَكُونَ مَعَ ٱلسَّٰجِدِينَ
 
-**15:32** Lui disse: “O Satana, che cosa ti ha impedito di essere tra quelli che si sono prostrati?”
+**15:32** Lui disse: «O Satana, che cosa ti ha impedito di essere tra quelli che si sono prostrati?»
 
 قَالَ يَٰٓإِبْلِيسُ مَا لَكَ أَلَّا تَكُونَ مَعَ ٱلسَّٰجِدِينَ
 
-**15:33** Lui disse: “Non sto per prostrarmi davanti a un essere umano, che Tu hai creato dall'argilla, da fango modellato.”
+**15:33** Lui disse: «Non sto per prostrarmi davanti a un essere umano, che Tu hai creato dall'argilla, da fango modellato.»
 
 قَالَ لَمْ أَكُن لِّأَسْجُدَ لِبَشَرٍ خَلَقْتَهُۥ مِن صَلْصَٰلٍۢ مِّنْ حَمَإٍۢ مَّسْنُونٍۢ
 
-**15:34** Lui disse: “Allora esci da qui, perché sei un emarginato”.
+**15:34** Lui disse: «Allora esci da qui, perché sei un emarginato».
 
 قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌۭ
 
-**15:35** “E la maledizione sarà su di te fino al Giorno del Giudizio.”
+**15:35** «E la maledizione sarà su di te fino al Giorno del Giudizio.»
 
 وَإِنَّ عَلَيْكَ ٱللَّعْنَةَ إِلَىٰ يَوْمِ ٱلدِّينِ
 
-**15:36** Lui disse: “Signore mio, concedimi una tregua fino al Giorno in cui saranno risuscitati.”
+**15:36** Lui disse: «Signore mio, concedimi una tregua fino al Giorno in cui saranno risuscitati.»
 
 قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
 
-**15:37** Lui disse: “Sei tra quelli a cui è concessa una tregua.”
+**15:37** Lui disse: «Sei tra quelli a cui è concessa una tregua.»
 
 قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ
 
-**15:38** “Fino al Giorno del tempo stabilito.”
+**15:38** «Fino al Giorno del tempo stabilito.»
 
 إِلَىٰ يَوْمِ ٱلْوَقْتِ ٱلْمَعْلُومِ
 
-**15:39** Lui disse: “Signore mio, poiché Tu mi hai sviato, renderò le cose affascinanti per loro sulla terra, e li svierò tutti.”
+**15:39** Lui disse: «Signore mio, poiché Tu mi hai sviato, renderò le cose affascinanti per loro sulla terra, e li svierò tutti.»
 
 قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ
 
-**15:40** “Tranne i Tuoi servitori sinceri tra loro.”
+**15:40** «Tranne i Tuoi servitori sinceri tra loro.»
 
 إِلَّا عِبَادَكَ مِنْهُمُ ٱلْمُخْلَصِينَ
 
-**15:41** Lui disse: “Questa è una via giusta con Me.”
+**15:41** Lui disse: «Questa è una via giusta con Me.»
 
 قَالَ هَٰذَا صِرَٰطٌ عَلَىَّ مُسْتَقِيمٌ
 
-**15:42** “Sui Miei servitori non hai autorità, tranne per i peccatori che ti seguono.”
+**15:42** «Sui Miei servitori non hai autorità, tranne per i peccatori che ti seguono.»
 
 إِنَّ عِبَادِى لَيْسَ لَكَ عَلَيْهِمْ سُلْطَٰنٌ إِلَّا مَنِ ٱتَّبَعَكَ مِنَ ٱلْغَاوِينَ
 
@@ -7691,7 +7691,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَإِنَّ جَهَنَّمَ لَمَوْعِدُهُمْ أَجْمَعِينَ
 
-**15:44** “Ha sette porte; per ogni porta c'è una classe assegnata.”
+**15:44** «Ha sette porte; per ogni porta c'è una classe assegnata.»
 
 لَهَا سَبْعَةُ أَبْوَٰبٍۢ لِّكُلِّ بَابٍۢ مِّنْهُمْ جُزْءٌۭ مَّقْسُومٌ
 
@@ -7699,7 +7699,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنَّ ٱلْمُتَّقِينَ فِى جَنَّٰتٍۢ وَعُيُونٍ
 
-**15:46** “Entrate in esso in pace e sicurezza.”
+**15:46** «Entrate in esso in pace e sicurezza.»
 
 ٱدْخُلُوهَا بِسَلَٰمٍ ءَامِنِينَ
 
@@ -7723,39 +7723,39 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ
 
-**15:52** Quando entrarono da lui, e dissero: “Pace.” Lui disse: “Siamo diffidenti di voi.”
+**15:52** Quando entrarono da lui, e dissero: «Pace.» Lui disse: «Siamo diffidenti di voi.»
 
 إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَٰمًۭا قَالَ إِنَّا مِنكُمْ وَجِلُونَ
 
-**15:53** Dissero: “Non temere; ti portiamo buone notizie di un ragazzo dotato di conoscenza.”
+**15:53** Dissero: «Non temere; ti portiamo buone notizie di un ragazzo dotato di conoscenza.»
 
 قَالُوا۟ لَا تَوْجَلْ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ عَلِيمٍۢ
 
-**15:54** Lui disse: “Mi portate buone notizie, quando la vecchiaia mi ha raggiunto? Che buone notizie portate?”
+**15:54** Lui disse: «Mi portate buone notizie, quando la vecchiaia mi ha raggiunto? Che buone notizie portate?»
 
 قَالَ أَبَشَّرْتُمُونِى عَلَىٰٓ أَن مَّسَّنِىَ ٱلْكِبَرُ فَبِمَ تُبَشِّرُونَ
 
-**15:55** Dissero: “Ti portiamo buone notizie in verità, quindi non disperare.”
+**15:55** Dissero: «Ti portiamo buone notizie in verità, quindi non disperare.»
 
 قَالُوا۟ بَشَّرْنَٰكَ بِٱلْحَقِّ فَلَا تَكُن مِّنَ ٱلْقَٰنِطِينَ
 
-**15:56** Lui disse: “E chi dispera della misericordia del suo Signore tranne i perduti?”
+**15:56** Lui disse: «E chi dispera della misericordia del suo Signore tranne i perduti?»
 
 قَالَ وَمَن يَقْنَطُ مِن رَّحْمَةِ رَبِّهِۦٓ إِلَّا ٱلضَّآلُّونَ
 
-**15:57** Lui disse: “Allora qual è il vostro affare, o inviati?”
+**15:57** Lui disse: «Allora qual è il vostro affare, o inviati?»
 
 قَالَ فَمَا خَطْبُكُمْ أَيُّهَا ٱلْمُرْسَلُونَ
 
-**15:58** Dissero: “Siamo stati mandati a un popolo peccatore.”
+**15:58** Dissero: «Siamo stati mandati a un popolo peccatore.»
 
 قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍۢ مُّجْرِمِينَ
 
-**15:59** “Tranne la famiglia di Lot; li salveremo tutti.”
+**15:59** «Tranne la famiglia di Lot; li salveremo tutti.»
 
 إِلَّآ ءَالَ لُوطٍ إِنَّا لَمُنَجُّوهُمْ أَجْمَعِينَ
 
-**15:60** “Tranne sua moglie.” Abbiamo determinato che lei sarà tra quelli che restano indietro.
+**15:60** «Tranne sua moglie.» Abbiamo determinato che lei sarà tra quelli che restano indietro.
 
 إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَآ ۙ إِنَّهَا لَمِنَ ٱلْغَٰبِرِينَ
 
@@ -7763,19 +7763,19 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَلَمَّا جَآءَ ءَالَ لُوطٍ ٱلْمُرْسَلُونَ
 
-**15:62** Lui disse: “Siete un popolo sconosciuto per me.”
+**15:62** Lui disse: «Siete un popolo sconosciuto per me.»
 
 قَالَ إِنَّكُمْ قَوْمٌۭ مُّنكَرُونَ
 
-**15:63** Dissero: “Ti portiamo ciò di cui hanno dubbi.”
+**15:63** Dissero: «Ti portiamo ciò di cui hanno dubbi.»
 
 قَالُوا۟ بَلْ جِئْنَٰكَ بِمَا كَانُوا۟ فِيهِ يَمْتَرُونَ
 
-**15:64** “Ti portiamo la verità, e diciamo la verità.”
+**15:64** «Ti portiamo la verità, e diciamo la verità.»
 
 وَأَتَيْنَٰكَ بِٱلْحَقِّ وَإِنَّا لَصَٰدِقُونَ
 
-**15:65** “Viaggia con la tua famiglia nel cuore della notte, e segui dietro di loro, e nessuno di voi si guardi indietro, e procedi come comandato.”
+**15:65** «Viaggia con la tua famiglia nel cuore della notte, e segui dietro di loro, e nessuno di voi si guardi indietro, e procedi come comandato.»
 
 فَأَسْرِ بِأَهْلِكَ بِقِطْعٍۢ مِّنَ ٱلَّيْلِ وَٱتَّبِعْ أَدْبَٰرَهُمْ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌۭ وَٱمْضُوا۟ حَيْثُ تُؤْمَرُونَ
 
@@ -7787,19 +7787,19 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَجَآءَ أَهْلُ ٱلْمَدِينَةِ يَسْتَبْشِرُونَ
 
-**15:68** Lui disse: “Questi sono i miei ospiti, quindi non imbarazzatemi.”
+**15:68** Lui disse: «Questi sono i miei ospiti, quindi non imbarazzatemi.»
 
 قَالَ إِنَّ هَٰٓؤُلَآءِ ضَيْفِى فَلَا تَفْضَحُونِ
 
-**15:69** “E temete Dio, e non disonoratemi.”
+**15:69** «E temete Dio, e non disonoratemi.»
 
 وَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ
 
-**15:70** Dissero: “Non ti abbiamo proibito gli stranieri?”
+**15:70** Dissero: «Non ti abbiamo proibito gli stranieri?»
 
 قَالُوٓا۟ أَوَلَمْ نَنْهَكَ عَنِ ٱلْعَٰلَمِينَ
 
-**15:71** Lui disse: “Queste sono le mie figlie, se proprio dovete.”
+**15:71** Lui disse: «Queste sono le mie figlie, se proprio dovete.»
 
 قَالَ هَٰٓؤُلَآءِ بَنَاتِىٓ إِن كُنتُمْ فَٰعِلِينَ
 
@@ -7871,7 +7871,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 لَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًۭا مِّنْهُمْ وَلَا تَحْزَنْ عَلَيْهِمْ وَٱخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ
 
-**15:89** E di': “Io sono il chiaro ammonitore.”
+**15:89** E di': «Io sono il chiaro ammonitore.»
 
 وَقُلْ إِنِّىٓ أَنَا ٱلنَّذِيرُ ٱلْمُبِينُ
 
@@ -7931,7 +7931,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَتَىٰٓ أَمْرُ ٱللَّهِ فَلَا تَسْتَعْجِلُوهُ ۚ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ
 
-**16:2** Lui manda giù gli angeli con lo Spirito per Suo comando, su chiunque voglia dei Suoi servitori: “Date avvertimento che non c'è dio tranne Me, e temeteMi.”
+**16:2** Lui manda giù gli angeli con lo Spirito per Suo comando, su chiunque voglia dei Suoi servitori: «Date avvertimento che non c'è dio tranne Me, e temeteMi.»
 
 يُنَزِّلُ ٱلْمَلَٰٓئِكَةَ بِٱلرُّوحِ مِنْ أَمْرِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ أَنْ أَنذِرُوٓا۟ أَنَّهُۥ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱتَّقُونِ
 
@@ -8019,7 +8019,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 لَا جَرَمَ أَنَّ ٱللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْتَكْبِرِينَ
 
-**16:24** E quando viene detto loro: “Che cosa ha mandato giù il vostro Signore?” Dicono: “Leggende degli antichi.”
+**16:24** E quando viene detto loro: «Che cosa ha mandato giù il vostro Signore?» Dicono: «Leggende degli antichi.»
 
 وَإِذَا قِيلَ لَهُم مَّاذَآ أَنزَلَ رَبُّكُمْ ۙ قَالُوٓا۟ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
@@ -8031,11 +8031,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 قَدْ مَكَرَ ٱلَّذِينَ مِن قَبْلِهِمْ فَأَتَى ٱللَّهُ بُنْيَٰنَهُم مِّنَ ٱلْقَوَاعِدِ فَخَرَّ عَلَيْهِمُ ٱلسَّقْفُ مِن فَوْقِهِمْ وَأَتَىٰهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ
 
-**16:27** Poi, nel Giorno della Risurrezione, Lui li umilierà, e dirà: “Dove sono i Miei associati per il cui bene discutevate?” Quelli a cui fu data conoscenza diranno: “Oggi vergogna e miseria sono sui miscredenti.”
+**16:27** Poi, nel Giorno della Risurrezione, Lui li umilierà, e dirà: «Dove sono i Miei associati per il cui bene discutevate?» Quelli a cui fu data conoscenza diranno: «Oggi vergogna e miseria sono sui miscredenti.»
 
 ثُمَّ يَوْمَ ٱلْقِيَٰمَةِ يُخْزِيهِمْ وَيَقُولُ أَيْنَ شُرَكَآءِىَ ٱلَّذِينَ كُنتُمْ تُشَٰٓقُّونَ فِيهِمْ ۚ قَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ إِنَّ ٱلْخِزْىَ ٱلْيَوْمَ وَٱلسُّوٓءَ عَلَى ٱلْكَٰفِرِينَ
 
-**16:28** Quelli che fanno torto alle loro anime mentre gli angeli li portano via — proporranno pace: “Non abbiamo fatto nulla di male.” Sì che l'avete fatto. Dio è consapevole di ciò che facevate.”
+**16:28** Quelli che fanno torto alle loro anime mentre gli angeli li portano via — proporranno pace: «Non abbiamo fatto nulla di male.» Sì che l'avete fatto. Dio è consapevole di ciò che facevate.»
 
 ٱلَّذِينَ تَتَوَفَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ ظَالِمِىٓ أَنفُسِهِمْ ۖ فَأَلْقَوُا۟ ٱلسَّلَمَ مَا كُنَّا نَعْمَلُ مِن سُوٓءٍۭ ۚ بَلَىٰٓ إِنَّ ٱللَّهَ عَلِيمٌۢ بِمَا كُنتُمْ تَعْمَلُونَ
 
@@ -8043,7 +8043,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَٰلِدِينَ فِيهَا ۖ فَلَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ
 
-**16:30** E sarà detto a quelli che mantennero la pietà: “Che cosa ha rivelato il vostro Signore?” Diranno: “Bontà.” A quelli che fanno il bene in questo mondo c'è bontà, e la Casa dell'Aldilà è ancora migliore. Quanto è meravigliosa la residenza dei pii.
+**16:30** E sarà detto a quelli che mantennero la pietà: «Che cosa ha rivelato il vostro Signore?» Diranno: «Bontà.» A quelli che fanno il bene in questo mondo c'è bontà, e la Casa dell'Aldilà è ancora migliore. Quanto è meravigliosa la residenza dei pii.
 
 ۞ وَقِيلَ لِلَّذِينَ ٱتَّقَوْا۟ مَاذَآ أَنزَلَ رَبُّكُمْ ۚ قَالُوا۟ خَيْرًۭا ۗ لِّلَّذِينَ أَحْسَنُوا۟ فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةٌۭ ۚ وَلَدَارُ ٱلْءَاخِرَةِ خَيْرٌۭ ۚ وَلَنِعْمَ دَارُ ٱلْمُتَّقِينَ
 
@@ -8051,7 +8051,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 جَنَّٰتُ عَدْنٍۢ يَدْخُلُونَهَا تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۖ لَهُمْ فِيهَا مَا يَشَآءُونَ ۚ كَذَٰلِكَ يَجْزِى ٱللَّهُ ٱلْمُتَّقِينَ
 
-**16:32** Quelli che sono in uno stato sano quando gli angeli li prendono — diranno: “La pace sia su di voi; entrate in Paradiso, per ciò che facevate.”
+**16:32** Quelli che sono in uno stato sano quando gli angeli li prendono — diranno: «La pace sia su di voi; entrate in Paradiso, per ciò che facevate.»
 
 ٱلَّذِينَ تَتَوَفَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ طَيِّبِينَ ۙ يَقُولُونَ سَلَٰمٌ عَلَيْكُمُ ٱدْخُلُوا۟ ٱلْجَنَّةَ بِمَا كُنتُمْ تَعْمَلُونَ
 
@@ -8063,11 +8063,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَأَصَابَهُمْ سَيِّـَٔاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**16:35** Gli idolatri dicono: “Se Dio avesse voluto, non avremmo adorato nulla oltre a Lui, né noi, né i nostri antenati, né avremmo proibito nulla oltre alle Sue proibizioni.” Quelli prima di loro fecero altrettanto. I messaggeri sono responsabili di qualcosa tranne una comunicazione chiara?
+**16:35** Gli idolatri dicono: «Se Dio avesse voluto, non avremmo adorato nulla oltre a Lui, né noi, né i nostri antenati, né avremmo proibito nulla oltre alle Sue proibizioni.» Quelli prima di loro fecero altrettanto. I messaggeri sono responsabili di qualcosa tranne una comunicazione chiara?
 
 وَقَالَ ٱلَّذِينَ أَشْرَكُوا۟ لَوْ شَآءَ ٱللَّهُ مَا عَبَدْنَا مِن دُونِهِۦ مِن شَىْءٍۢ نَّحْنُ وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن دُونِهِۦ مِن شَىْءٍۢ ۚ كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ فَهَلْ عَلَى ٱلرُّسُلِ إِلَّا ٱلْبَلَٰغُ ٱلْمُبِينُ
 
-**16:36** A ogni comunità abbiamo mandato un messaggero: “Adorate Dio, ed evitate l'idolatria.” Alcuni di loro Dio li guidò, mentre altri meritarono la perdizione. Quindi viaggiate attraverso la terra, e vedete quale fu il destino dei negatori.
+**16:36** A ogni comunità abbiamo mandato un messaggero: «Adorate Dio, ed evitate l'idolatria.» Alcuni di loro Dio li guidò, mentre altri meritarono la perdizione. Quindi viaggiate attraverso la terra, e vedete quale fu il destino dei negatori.
 
 وَلَقَدْ بَعَثْنَا فِى كُلِّ أُمَّةٍۢ رَّسُولًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱجْتَنِبُوا۟ ٱلطَّٰغُوتَ ۖ فَمِنْهُم مَّنْ هَدَى ٱللَّهُ وَمِنْهُم مَّنْ حَقَّتْ عَلَيْهِ ٱلضَّلَٰلَةُ ۚ فَسِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُكَذِّبِينَ
 
@@ -8075,7 +8075,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِن تَحْرِصْ عَلَىٰ هُدَىٰهُمْ فَإِنَّ ٱللَّهَ لَا يَهْدِى مَن يُضِلُّ ۖ وَمَا لَهُم مِّن نَّٰصِرِينَ
 
-**16:38** E giurano per Dio con i loro giuramenti più solenni: “Dio non risusciterà nessuno che muoia.” Sì davvero, è una promessa vincolante su di Lui, ma la maggior parte delle persone non lo sa.
+**16:38** E giurano per Dio con i loro giuramenti più solenni: «Dio non risusciterà nessuno che muoia.» Sì davvero, è una promessa vincolante su di Lui, ma la maggior parte delle persone non lo sa.
 
 وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ ۙ لَا يَبْعَثُ ٱللَّهُ مَن يَمُوتُ ۚ بَلَىٰ وَعْدًا عَلَيْهِ حَقًّۭا وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
@@ -8083,7 +8083,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 لِيُبَيِّنَ لَهُمُ ٱلَّذِى يَخْتَلِفُونَ فِيهِ وَلِيَعْلَمَ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّهُمْ كَانُوا۟ كَٰذِبِينَ
 
-**16:40** Quando intendiamo che qualcosa accada, gli diciamo: “Sii,” e diventa.
+**16:40** Quando intendiamo che qualcosa accada, gli diciamo: «Sii,» e diventa.
 
 إِنَّمَا قَوْلُنَا لِشَىْءٍ إِذَآ أَرَدْنَٰهُ أَن نَّقُولَ لَهُۥ كُن فَيَكُونُ
 
@@ -8129,7 +8129,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 
 
-**16:51** Dio ha detto: “Non prendete due dèi; Lui è solo Un Dio; quindi temete solo Me.”
+**16:51** Dio ha detto: «Non prendete due dèi; Lui è solo Un Dio; quindi temete solo Me.»
 
 ۞ وَقَالَ ٱللَّهُ لَا تَتَّخِذُوٓا۟ إِلَٰهَيْنِ ٱثْنَيْنِ ۖ إِنَّمَا هُوَ إِلَٰهٌۭ وَٰحِدٌۭ ۖ فَإِيَّٰىَ فَٱرْهَبُونِ
 
@@ -8197,7 +8197,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَمِن ثَمَرَٰتِ ٱلنَّخِيلِ وَٱلْأَعْنَٰبِ تَتَّخِذُونَ مِنْهُ سَكَرًۭا وَرِزْقًا حَسَنًا ۗ إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ لِّقَوْمٍۢ يَعْقِلُونَ
 
-**16:68** E il tuo Signore ispirò l'ape: “Crea alveari nelle montagne, e negli alberi, e in ciò che costruiscono.”
+**16:68** E il tuo Signore ispirò l'ape: «Crea alveari nelle montagne, e negli alberi, e in ciò che costruiscono.»
 
 وَأَوْحَىٰ رَبُّكَ إِلَى ٱلنَّحْلِ أَنِ ٱتَّخِذِى مِنَ ٱلْجِبَالِ بُيُوتًۭا وَمِنَ ٱلشَّجَرِ وَمِمَّا يَعْرِشُونَ
 
@@ -8269,7 +8269,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَإِذَا رَءَا ٱلَّذِينَ ظَلَمُوا۟ ٱلْعَذَابَ فَلَا يُخَفَّفُ عَنْهُمْ وَلَا هُمْ يُنظَرُونَ
 
-**16:86** E quando gli idolatri vedranno i loro associati, diranno: “Signore nostro, questi sono i nostri associati che invocavamo oltre a Te.” Ribatteranno loro con il dire: “Certamente siete bugiardi.”
+**16:86** E quando gli idolatri vedranno i loro associati, diranno: «Signore nostro, questi sono i nostri associati che invocavamo oltre a Te.» Ribatteranno loro con il dire: «Certamente siete bugiardi.»
 
 وَإِذَا رَءَا ٱلَّذِينَ أَشْرَكُوا۟ شُرَكَآءَهُمْ قَالُوا۟ رَبَّنَا هَٰٓؤُلَآءِ شُرَكَآؤُنَا ٱلَّذِينَ كُنَّا نَدْعُوا۟ مِن دُونِكَ ۖ فَأَلْقَوْا۟ إِلَيْهِمُ ٱلْقَوْلَ إِنَّكُمْ لَكَٰذِبُونَ
 
@@ -8329,15 +8329,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنَّمَا سُلْطَٰنُهُۥ عَلَى ٱلَّذِينَ يَتَوَلَّوْنَهُۥ وَٱلَّذِينَ هُم بِهِۦ مُشْرِكُونَ
 
-**16:101** Quando sostituiamo un versetto al posto di un altro versetto — e Dio sa meglio ciò che rivela — dicono: “Sei un impostore.” Ma la maggior parte di loro non lo sa.
+**16:101** Quando sostituiamo un versetto al posto di un altro versetto — e Dio sa meglio ciò che rivela — dicono: «Sei un impostore.» Ma la maggior parte di loro non lo sa.
 
 وَإِذَا بَدَّلْنَآ ءَايَةًۭ مَّكَانَ ءَايَةٍۢ ۙ وَٱللَّهُ أَعْلَمُ بِمَا يُنَزِّلُ قَالُوٓا۟ إِنَّمَآ أَنتَ مُفْتَرٍۭ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
 
-**16:102** Di': “Lo Spirito Santo lo ha portato giù dal tuo Signore, in verità, per stabilizzare quelli che credono, e come guida e buone notizie per quelli che si sottomettono.”
+**16:102** Di': «Lo Spirito Santo lo ha portato giù dal tuo Signore, in verità, per stabilizzare quelli che credono, e come guida e buone notizie per quelli che si sottomettono.»
 
 قُلْ نَزَّلَهُۥ رُوحُ ٱلْقُدُسِ مِن رَّبِّكَ بِٱلْحَقِّ لِيُثَبِّتَ ٱلَّذِينَ ءَامَنُوا۟ وَهُدًۭى وَبُشْرَىٰ لِلْمُسْلِمِينَ
 
-**16:103** Siamo ben consapevoli che dicono: “È un essere umano che gli sta insegnando.” Ma la lingua di colui a cui alludono è straniera, mentre questa è una chiara lingua araba.
+**16:103** Siamo ben consapevoli che dicono: «È un essere umano che gli sta insegnando.» Ma la lingua di colui a cui alludono è straniera, mentre questa è una chiara lingua araba.
 
 وَلَقَدْ نَعْلَمُ أَنَّهُمْ يَقُولُونَ إِنَّمَا يُعَلِّمُهُۥ بَشَرٌۭ ۗ لِّسَانُ ٱلَّذِى يُلْحِدُونَ إِلَيْهِ أَعْجَمِىٌّۭ وَهَٰذَا لِسَانٌ عَرَبِىٌّۭ مُّبِينٌ
 
@@ -8389,7 +8389,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ
 
-**16:116** E non dite della falsità affermata dalle vostre lingue: “Questo è lecito, e questo è illecito,” per inventare menzogne e attribuirle a Dio. Quelli che inventano menzogne e le attribuiscono a Dio non avranno successo.
+**16:116** E non dite della falsità affermata dalle vostre lingue: «Questo è lecito, e questo è illecito,» per inventare menzogne e attribuirle a Dio. Quelli che inventano menzogne e le attribuiscono a Dio non avranno successo.
 
 وَلَا تَقُولُوا۟ لِمَا تَصِفُ أَلْسِنَتُكُمُ ٱلْكَذِبَ هَٰذَا حَلَٰلٌۭ وَهَٰذَا حَرَامٌۭ لِّتَفْتَرُوا۟ عَلَى ٱللَّهِ ٱلْكَذِبَ ۚ إِنَّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ لَا يُفْلِحُونَ
 
@@ -8417,7 +8417,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَءَاتَيْنَٰهُ فِى ٱلدُّنْيَا حَسَنَةًۭ ۖ وَإِنَّهُۥ فِى ٱلْءَاخِرَةِ لَمِنَ ٱلصَّٰلِحِينَ
 
-**16:123** Poi ti abbiamo ispirato: “Segui la religione di Abramo, il Monoteista. Lui non era un adoratore di idoli.”
+**16:123** Poi ti abbiamo ispirato: «Segui la religione di Abramo, il Monoteista. Lui non era un adoratore di idoli.»
 
 ثُمَّ أَوْحَيْنَآ إِلَيْكَ أَنِ ٱتَّبِعْ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًۭا ۖ وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
 
@@ -9063,7 +9063,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 لَّٰكِنَّا۠ هُوَ ٱللَّهُ رَبِّى وَلَآ أُشْرِكُ بِرَبِّىٓ أَحَدًۭا
 
-**18:39** Quando entrasti nel tuo giardino, perché non dicesti: “Come Dio vuole; non c'è potere se non tramite Dio”? Benché tu mi veda inferiore a te in ricchezza e figli.
+**18:39** Quando entrasti nel tuo giardino, perché non dicesti: «Come Dio vuole; non c'è potere se non tramite Dio»? Benché tu mi veda inferiore a te in ricchezza e figli.
 
 وَلَوْلَآ إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَآءَ ٱللَّهُ لَا قُوَّةَ إِلَّا بِٱللَّهِ ۚ إِن تَرَنِ أَنَا۠ أَقَلَّ مِنكَ مَالًۭا وَوَلَدًۭا
 
@@ -15339,11 +15339,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 جَنَّٰتُ عَدْنٍۢ يَدْخُلُونَهَا يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍۢ وَلُؤْلُؤًۭا ۖ وَلِبَاسُهُمْ فِيهَا حَرِيرٌۭ
 
-**35:34** E diranno: "Lode a Dio, che ha tolto da noi ogni dolore. Il nostro Signore è Davvero Perdonatore, Davvero Riconoscente.
+**35:34** E diranno: «Lode a Dio, che ha tolto da noi ogni dolore. Il nostro Signore è Davvero Perdonatore, Davvero Riconoscente.
 
 وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَذْهَبَ عَنَّا ٱلْحَزَنَ ۖ إِنَّ رَبَّنَا لَغَفُورٌۭ شَكُورٌ
 
-**35:35** Colui che ci ha sistemati nella Casa della Permanenza, per la Sua grazia, dove la noia non ci toccherà e la fatica non ci affliggerà."
+**35:35** Colui che ci ha sistemati nella Casa della Permanenza, per la Sua grazia, dove la noia non ci toccherà e la fatica non ci affliggerà.»
 
 ٱلَّذِىٓ أَحَلَّنَا دَارَ ٱلْمُقَامَةِ مِن فَضْلِهِۦ لَا يَمَسُّنَا فِيهَا نَصَبٌۭ وَلَا يَمَسُّنَا فِيهَا لُغُوبٌۭ
 
@@ -15351,7 +15351,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَٱلَّذِينَ كَفَرُوا۟ لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُوا۟ وَلَا يُخَفَّفُ عَنْهُم مِّنْ عَذَابِهَا ۚ كَذَٰلِكَ نَجْزِى كُلَّ كَفُورٍۢ
 
-**35:37** E urleranno lì dentro: "Signore nostro, facci uscire, e agiremo con giustizia, in modo diverso da come agivamo prima." Non vi abbiamo dato una vita abbastanza lunga, nella quale chi voleva capire avrebbe capito? E l'ammonitore è venuto da voi. Quindi gustate. Gli ingiusti non avranno alcun aiutante.
+**35:37** E urleranno lì dentro: «Signore nostro, facci uscire, e agiremo con giustizia, in modo diverso da come agivamo prima.» Non vi abbiamo dato una vita abbastanza lunga, nella quale chi voleva capire avrebbe capito? E l'ammonitore è venuto da voi. Quindi gustate. Gli ingiusti non avranno alcun aiutante.
 
 وَهُمْ يَصْطَرِخُونَ فِيهَا رَبَّنَآ أَخْرِجْنَا نَعْمَلْ صَٰلِحًا غَيْرَ ٱلَّذِى كُنَّا نَعْمَلُ ۚ أَوَلَمْ نُعَمِّرْكُم مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ وَجَآءَكُمُ ٱلنَّذِيرُ ۖ فَذُوقُوا۟ فَمَا لِلظَّٰلِمِينَ مِن نَّصِيرٍ
 
@@ -15363,7 +15363,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 هُوَ ٱلَّذِى جَعَلَكُمْ خَلَٰٓئِفَ فِى ٱلْأَرْضِ ۚ فَمَن كَفَرَ فَعَلَيْهِ كُفْرُهُۥ ۖ وَلَا يَزِيدُ ٱلْكَٰفِرِينَ كُفْرُهُمْ عِندَ رَبِّهِمْ إِلَّا مَقْتًۭا ۖ وَلَا يَزِيدُ ٱلْكَٰفِرِينَ كُفْرُهُمْ إِلَّا خَسَارًۭا
 
-**35:40** Di': "Avete considerato quei vostri soci che adorate invece di Dio? Mostratemi cosa hanno creato sulla terra. O hanno una parte nei cieli?" O abbiamo dato loro un libro di cui seguono gli insegnamenti chiari? In realtà, gli ingiusti si promettono l'un l'altro solo illusioni.
+**35:40** Di': «Avete considerato quei vostri soci che adorate invece di Dio? Mostratemi cosa hanno creato sulla terra. O hanno una parte nei cieli?» O abbiamo dato loro un libro di cui seguono gli insegnamenti chiari? In realtà, gli ingiusti si promettono l'un l'altro solo illusioni.
 
 قُلْ أَرَءَيْتُمْ شُرَكَآءَكُمُ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌۭ فِى ٱلسَّمَٰوَٰتِ أَمْ ءَاتَيْنَٰهُمْ كِتَٰبًۭا فَهُمْ عَلَىٰ بَيِّنَتٍۢ مِّنْهُ ۚ بَلْ إِن يَعِدُ ٱلظَّٰلِمُونَ بَعْضُهُم بَعْضًا إِلَّا غُرُورًا
 
@@ -15451,31 +15451,31 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَٱضْرِبْ لَهُم مَّثَلًا أَصْحَٰبَ ٱلْقَرْيَةِ إِذْ جَآءَهَا ٱلْمُرْسَلُونَ
 
-**36:14** Abbiamo mandato loro due messaggeri, ma li negarono entrambi, così li abbiamo rinforzati con un terzo. Dissero: "Siamo messaggeri per voi."
+**36:14** Abbiamo mandato loro due messaggeri, ma li negarono entrambi, così li abbiamo rinforzati con un terzo. Dissero: «Siamo messaggeri per voi.»
 
 إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ
 
-**36:15** Dissero: "Non siete altro che umani come noi, e il Beneficente non ha mandato giù nulla; state solo mentendo."
+**36:15** Dissero: «Non siete altro che umani come noi, e il Beneficente non ha mandato giù nulla; state solo mentendo.»
 
 قَالُوا۟ مَآ أَنتُمْ إِلَّا بَشَرٌۭ مِّثْلُنَا وَمَآ أَنزَلَ ٱلرَّحْمَٰنُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا تَكْذِبُونَ
 
-**36:16** Dissero: "Il nostro Signore sa che siamo messaggeri per voi.
+**36:16** Dissero: «Il nostro Signore sa che siamo messaggeri per voi.
 
 قَالُوا۟ رَبُّنَا يَعْلَمُ إِنَّآ إِلَيْكُمْ لَمُرْسَلُونَ
 
-**36:17** E il nostro unico dovere è una comunicazione chiara."
+**36:17** E il nostro unico dovere è una comunicazione chiara.»
 
 وَمَا عَلَيْنَآ إِلَّا ٱلْبَلَٰغُ ٱلْمُبِينُ
 
-**36:18** Dissero: "Vediamo in voi un cattivo presagio; se non desistete, vi lapideremo, e una punizione dolorosa da parte nostra vi colpirà."
+**36:18** Dissero: «Vediamo in voi un cattivo presagio; se non desistete, vi lapideremo, e una punizione dolorosa da parte nostra vi colpirà.»
 
 قَالُوٓا۟ إِنَّا تَطَيَّرْنَا بِكُمْ ۖ لَئِن لَّمْ تَنتَهُوا۟ لَنَرْجُمَنَّكُمْ وَلَيَمَسَّنَّكُم مِّنَّا عَذَابٌ أَلِيمٌۭ
 
-**36:19** Dissero: "Il vostro cattivo presagio è su di voi. È perché siete stati ammoniti? Ma voi siete un popolo stravagante."
+**36:19** Dissero: «Il vostro cattivo presagio è su di voi. È perché siete stati ammoniti? Ma voi siete un popolo stravagante.»
 
 قَالُوا۟ طَٰٓئِرُكُم مَّعَكُمْ ۚ أَئِن ذُكِّرْتُم ۚ بَلْ أَنتُمْ قَوْمٌۭ مُّسْرِفُونَ
 
-**36:20** Poi un uomo venne correndo dalla parte più lontana della città. Disse: "O popolo mio, seguite i messaggeri.
+**36:20** Poi un uomo venne correndo dalla parte più lontana della città. Disse: «O popolo mio, seguite i messaggeri.
 
 وَجَآءَ مِنْ أَقْصَا ٱلْمَدِينَةِ رَجُلٌۭ يَسْعَىٰ قَالَ يَٰقَوْمِ ٱتَّبِعُوا۟ ٱلْمُرْسَلِينَ
 
@@ -15483,7 +15483,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ٱتَّبِعُوا۟ مَن لَّا يَسْـَٔلُكُمْ أَجْرًۭا وَهُم مُّهْتَدُونَ
 
-**36:22** "E perché non dovrei adorare Colui che mi ha creato, e al Quale sarete ricondotti?
+**36:22** «E perché non dovrei adorare Colui che mi ha creato, e al Quale sarete ricondotti?
 
 وَمَا لِىَ لَآ أَعْبُدُ ٱلَّذِى فَطَرَنِى وَإِلَيْهِ تُرْجَعُونَ
 
@@ -15495,15 +15495,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنِّىٓ إِذًۭا لَّفِى ضَلَٰلٍۢ مُّبِينٍ
 
-**36:25** Ho creduto nel vostro Signore, quindi ascoltatemi."
+**36:25** Ho creduto nel vostro Signore, quindi ascoltatemi.»
 
 إِنِّىٓ ءَامَنتُ بِرَبِّكُمْ فَٱسْمَعُونِ
 
-**36:26** Fu detto: "Entra in Paradiso." Disse: "Se solo il mio popolo sapesse.
+**36:26** Fu detto: «Entra in Paradiso.» Disse: «Se solo il mio popolo sapesse.
 
 قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَٰلَيْتَ قَوْمِى يَعْلَمُونَ
 
-**36:27** Come il mio Signore mi ha perdonato e mi ha reso uno degli onorati."
+**36:27** Come il mio Signore mi ha perdonato e mi ha reso uno degli onorati.»
 
 بِمَا غَفَرَ لِى رَبِّى وَجَعَلَنِى مِنَ ٱلْمُكْرَمِينَ
 
@@ -15575,7 +15575,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِلَّا رَحْمَةًۭ مِّنَّا وَمَتَٰعًا إِلَىٰ حِينٍۢ
 
-**36:45** Eppure quando viene detto loro: "Guardatevi da ciò che è davanti a voi e da ciò che è dietro di voi, affinché riceviate misericordia."
+**36:45** Eppure quando viene detto loro: «Guardatevi da ciò che è davanti a voi e da ciò che è dietro di voi, affinché riceviate misericordia.»
 
 وَإِذَا قِيلَ لَهُمُ ٱتَّقُوا۟ مَا بَيْنَ أَيْدِيكُمْ وَمَا خَلْفَكُمْ لَعَلَّكُمْ تُرْحَمُونَ
 
@@ -15583,11 +15583,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَمَا تَأْتِيهِم مِّنْ ءَايَةٍۢ مِّنْ ءَايَٰتِ رَبِّهِمْ إِلَّا كَانُوا۟ عَنْهَا مُعْرِضِينَ
 
-**36:47** E quando viene detto loro: "Spendete di ciò che Dio vi ha provveduto", quelli che non credono dicono a quelli che credono: "Dobbiamo nutrire qualcuno che Dio potrebbe nutrire, se volesse? Dovete essere profondamente sviati."
+**36:47** E quando viene detto loro: «Spendete di ciò che Dio vi ha provveduto», quelli che non credono dicono a quelli che credono: «Dobbiamo nutrire qualcuno che Dio potrebbe nutrire, se volesse? Dovete essere profondamente sviati.»
 
 وَإِذَا قِيلَ لَهُمْ أَنفِقُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَنُطْعِمُ مَن لَّوْ يَشَآءُ ٱللَّهُ أَطْعَمَهُۥٓ إِنْ أَنتُمْ إِلَّا فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
-**36:48** E dicono: "Quando sarà questa promessa, se siete sinceri?"
+**36:48** E dicono: «Quando sarà questa promessa, se siete sinceri?»
 
 وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -15603,7 +15603,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَنُفِخَ فِى ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ
 
-**36:52** Diranno: "Guai a noi! Chi ci ha risuscitati dal nostro luogo di riposo?" Questo è ciò che il Beneficente aveva promesso, e i messaggeri hanno detto la verità."
+**36:52** Diranno: «Guai a noi! Chi ci ha risuscitati dal nostro luogo di riposo?» Questo è ciò che il Beneficente aveva promesso, e i messaggeri hanno detto la verità.»
 
 قَالُوا۟ يَٰوَيْلَنَا مَنۢ بَعَثَنَا مِن مَّرْقَدِنَا ۜ ۗ هَٰذَا مَا وَعَدَ ٱلرَّحْمَٰنُ وَصَدَقَ ٱلْمُرْسَلُونَ
 
@@ -15707,11 +15707,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَوَلَمْ يَرَ ٱلْإِنسَٰنُ أَنَّا خَلَقْنَٰهُ مِن نُّطْفَةٍۢ فَإِذَا هُوَ خَصِيمٌۭ مُّبِينٌۭ
 
-**36:78** E produce argomenti contro di Noi, e dimentica la propria creazione. Dice: "Chi farà rivivere le ossa quando saranno marcite?"
+**36:78** E produce argomenti contro di Noi, e dimentica la propria creazione. Dice: «Chi farà rivivere le ossa quando saranno marcite?»
 
 وَضَرَبَ لَنَا مَثَلًۭا وَنَسِىَ خَلْقَهُۥ ۖ قَالَ مَن يُحْىِ ٱلْعِظَٰمَ وَهِىَ رَمِيمٌۭ
 
-**36:79** Di': "Colui che le ha iniziate la prima volta le farà rivivere. Egli ha conoscenza di ogni creazione."
+**36:79** Di': «Colui che le ha iniziate la prima volta le farà rivivere. Egli ha conoscenza di ogni creazione.»
 
 قُلْ يُحْيِيهَا ٱلَّذِىٓ أَنشَأَهَآ أَوَّلَ مَرَّةٍۢ ۖ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ
 
@@ -15723,7 +15723,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَوَلَيْسَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِقَٰدِرٍ عَلَىٰٓ أَن يَخْلُقَ مِثْلَهُم ۚ بَلَىٰ وَهُوَ ٱلْخَلَّٰقُ ٱلْعَلِيمُ
 
-**36:82** Il Suo comando, quando vuole una cosa, è dirle: "Sii", ed essa viene ad essere.
+**36:82** Il Suo comando, quando vuole una cosa, è dirle: «Sii», ed essa viene ad essere.
 
 إِنَّمَآ أَمْرُهُۥٓ إِذَآ أَرَادَ شَيْـًٔا أَن يَقُولَ لَهُۥ كُن فَيَكُونُ
 
@@ -15783,7 +15783,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِلَّا مَنْ خَطِفَ ٱلْخَطْفَةَ فَأَتْبَعَهُۥ شِهَابٌۭ ثَاقِبٌۭ
 
-**37:11** Chiedi loro: "Sono più difficili da creare loro, o gli altri che abbiamo creato?" Li abbiamo creati da argilla appiccicosa.
+**37:11** Chiedi loro: «Sono più difficili da creare loro, o gli altri che abbiamo creato?» Li abbiamo creati da argilla appiccicosa.
 
 فَٱسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَم مَّنْ خَلَقْنَآ ۚ إِنَّا خَلَقْنَٰهُم مِّن طِينٍۢ لَّازِبٍۭ
 
@@ -15799,7 +15799,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَإِذَا رَأَوْا۟ ءَايَةًۭ يَسْتَسْخِرُونَ
 
-**37:15** E dicono: "Questo non è altro che magia evidente.
+**37:15** E dicono: «Questo non è altro che magia evidente.
 
 وَقَالُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌ
 
@@ -15807,11 +15807,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ
 
-**37:17** E i nostri antenati antichi?"
+**37:17** E i nostri antenati antichi?»
 
 أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ
 
-**37:18** Di': "Sì, davvero, e sarete totalmente sottomessi."
+**37:18** Di': «Sì, davvero, e sarete totalmente sottomessi.»
 
 قُلْ نَعَمْ وَأَنتُمْ دَٰخِرُونَ
 
@@ -15819,11 +15819,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَإِنَّمَا هِىَ زَجْرَةٌۭ وَٰحِدَةٌۭ فَإِذَا هُمْ يَنظُرُونَ
 
-**37:20** Diranno: "Guai a noi. Questo è il Giorno del Giudizio."
+**37:20** Diranno: «Guai a noi. Questo è il Giorno del Giudizio.»
 
 وَقَالُوا۟ يَٰوَيْلَنَا هَٰذَا يَوْمُ ٱلدِّينِ
 
-**37:21** "Questo è il Giorno della Separazione che negavate.
+**37:21** «Questo è il Giorno della Separazione che negavate.
 
 هَٰذَا يَوْمُ ٱلْفَصْلِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ
 
@@ -15835,7 +15835,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 مِن دُونِ ٱللَّهِ فَٱهْدُوهُمْ إِلَىٰ صِرَٰطِ ٱلْجَحِيمِ
 
-**37:24** E fermateli. Devono essere interrogati."
+**37:24** E fermateli. Devono essere interrogati.»
 
 وَقِفُوهُمْ ۖ إِنَّهُم مَّسْـُٔولُونَ
 
@@ -15851,11 +15851,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَسَآءَلُونَ
 
-**37:28** Diranno: "Venivate da noi dalla destra."
+**37:28** Diranno: «Venivate da noi dalla destra.»
 
 قَالُوٓا۟ إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ ٱلْيَمِينِ
 
-**37:29** Diranno: "Voi stessi non eravate credenti.
+**37:29** Diranno: «Voi stessi non eravate credenti.
 
 قَالُوا۟ بَل لَّمْ تَكُونُوا۟ مُؤْمِنِينَ
 
@@ -15867,7 +15867,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَآ ۖ إِنَّا لَذَآئِقُونَ
 
-**37:32** Vi abbiamo sedotti. Eravamo seduttori."
+**37:32** Vi abbiamo sedotti. Eravamo seduttori.»
 
 فَأَغْوَيْنَٰكُمْ إِنَّا كُنَّا غَٰوِينَ
 
@@ -15879,11 +15879,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنَّا كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ
 
-**37:35** Quando fu detto loro: "Non c'è dio se non Dio", diventavano arroganti.
+**37:35** Quando fu detto loro: «Non c'è dio se non Dio», diventavano arroganti.
 
 إِنَّهُمْ كَانُوٓا۟ إِذَا قِيلَ لَهُمْ لَآ إِلَٰهَ إِلَّا ٱللَّهُ يَسْتَكْبِرُونَ
 
-**37:36** E dicevano: "Dobbiamo abbandonare i nostri dèi per un poeta pazzo?"
+**37:36** E dicevano: «Dobbiamo abbandonare i nostri dèi per un poeta pazzo?»
 
 وَيَقُولُونَ أَئِنَّا لَتَارِكُوٓا۟ ءَالِهَتِنَا لِشَاعِرٍۢ مَّجْنُونٍۭ
 
@@ -15943,19 +15943,19 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَسَآءَلُونَ
 
-**37:51** Uno di loro dirà: "Avevo un amico.
+**37:51** Uno di loro dirà: «Avevo un amico.
 
 قَالَ قَآئِلٌۭ مِّنْهُمْ إِنِّى كَانَ لِى قَرِينٌۭ
 
-**37:52** Che diceva: "Sei tra quelli che credono?
+**37:52** Che diceva: «Sei tra quelli che credono?
 
 يَقُولُ أَءِنَّكَ لَمِنَ ٱلْمُصَدِّقِينَ
 
-**37:53** Che dopo che saremo morti e saremo diventati polvere e ossa, saremo chiamati a rendere conto?"
+**37:53** Che dopo che saremo morti e saremo diventati polvere e ossa, saremo chiamati a rendere conto?»
 
 أَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَٰمًا أَءِنَّا لَمَدِينُونَ
 
-**37:54** Dirà: "Volete dare un'occhiata?"
+**37:54** Dirà: «Volete dare un'occhiata?»
 
 قَالَ هَلْ أَنتُم مُّطَّلِعُونَ
 
@@ -15963,19 +15963,19 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَٱطَّلَعَ فَرَءَاهُ فِى سَوَآءِ ٱلْجَحِيمِ
 
-**37:56** Dirà: "Per Dio, mi hai quasi rovinato.
+**37:56** Dirà: «Per Dio, mi hai quasi rovinato.
 
 قَالَ تَٱللَّهِ إِن كِدتَّ لَتُرْدِينِ
 
-**37:57** Se non fosse per la grazia del mio Signore, sarei stato tra quelli presentati."
+**37:57** Se non fosse per la grazia del mio Signore, sarei stato tra quelli presentati.»
 
 وَلَوْلَا نِعْمَةُ رَبِّى لَكُنتُ مِنَ ٱلْمُحْضَرِينَ
 
-**37:58** "Noi non moriremo.
+**37:58** «Noi non moriremo.
 
 أَفَمَا نَحْنُ بِمَيِّتِينَ
 
-**37:59** Tranne la nostra prima morte, e non saremo puniti."
+**37:59** Tranne la nostra prima morte, e non saremo puniti.»
 
 إِلَّا مَوْتَتَنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُعَذَّبِينَ
 
@@ -16079,7 +16079,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِذْ جَآءَ رَبَّهُۥ بِقَلْبٍۢ سَلِيمٍ
 
-**37:85** Disse a suo padre e al suo popolo: "Cosa state adorando?
+**37:85** Disse a suo padre e al suo popolo: «Cosa state adorando?
 
 إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ
 
@@ -16087,7 +16087,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَئِفْكًا ءَالِهَةًۭ دُونَ ٱللَّهِ تُرِيدُونَ
 
-**37:87** Quindi qual è la vostra opinione sul Signore dei Mondi?"
+**37:87** Quindi qual è la vostra opinione sul Signore dei Mondi?»
 
 فَمَا ظَنُّكُم بِرَبِّ ٱلْعَٰلَمِينَ
 
@@ -16095,7 +16095,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَنَظَرَ نَظْرَةًۭ فِى ٱلنُّجُومِ
 
-**37:89** E disse: "Sono malato."
+**37:89** E disse: «Sono malato.»
 
 فَقَالَ إِنِّى سَقِيمٌۭ
 
@@ -16103,11 +16103,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَتَوَلَّوْا۟ عَنْهُ مُدْبِرِينَ
 
-**37:91** Poi si rivolse ai loro dèi e disse: "Non mangerete?
+**37:91** Poi si rivolse ai loro dèi e disse: «Non mangerete?
 
 فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ
 
-**37:92** Che avete, che non parlate?"
+**37:92** Che avete, che non parlate?»
 
 مَا لَكُمْ لَا تَنطِقُونَ
 
@@ -16119,15 +16119,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَأَقْبَلُوٓا۟ إِلَيْهِ يَزِفُّونَ
 
-**37:95** Disse: "Adorate ciò che scolpite?
+**37:95** Disse: «Adorate ciò che scolpite?
 
 قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ
 
-**37:96** Quando Dio ha creato voi e ciò che fabbricate?"
+**37:96** Quando Dio ha creato voi e ciò che fabbricate?»
 
 وَٱللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ
 
-**37:97** Dissero: "Costruite una pira per lui e gettatelo nella fornace."
+**37:97** Dissero: «Costruite una pira per lui e gettatelo nella fornace.»
 
 قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ
 
@@ -16135,11 +16135,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَأَرَادُوا۟ بِهِۦ كَيْدًۭا فَجَعَلْنَٰهُمُ ٱلْأَسْفَلِينَ
 
-**37:99** Disse: "Sto andando verso il mio Signore, ed Egli mi guiderà."
+**37:99** Disse: «Sto andando verso il mio Signore, ed Egli mi guiderà.»
 
 وَقَالَ إِنِّى ذَاهِبٌ إِلَىٰ رَبِّى سَيَهْدِينِ
 
-**37:100** "Signore mio, dammi uno dei giusti."
+**37:100** «Signore mio, dammi uno dei giusti.»
 
 رَبِّ هَبْ لِى مِنَ ٱلصَّٰلِحِينَ
 
@@ -16147,7 +16147,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَبَشَّرْنَٰهُ بِغُلَٰمٍ حَلِيمٍۢ
 
-**37:102** Poi, quando fu abbastanza grande da accompagnarlo, disse: "O figlio mio, vedo in sogno che ti sto sacrificando; vedi cosa ne pensi." Disse: "O padre mio, fa' come ti è comandato; mi troverai, se Dio vuole, uno dei costanti."
+**37:102** Poi, quando fu abbastanza grande da accompagnarlo, disse: «O figlio mio, vedo in sogno che ti sto sacrificando; vedi cosa ne pensi.» Disse: «O padre mio, fa' come ti è comandato; mi troverai, se Dio vuole, uno dei costanti.»
 
 فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ
 
@@ -16155,11 +16155,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ
 
-**37:104** Lo abbiamo chiamato: "O Abramo!
+**37:104** Lo abbiamo chiamato: «O Abramo!
 
 وَنَٰدَيْنَٰهُ أَن يَٰٓإِبْرَٰهِيمُ
 
-**37:105** Hai realizzato la visione." Così ricompensiamo quelli che fanno il bene.
+**37:105** Hai realizzato la visione.» Così ricompensiamo quelli che fanno il bene.
 
 قَدْ صَدَّقْتَ ٱلرُّءْيَآ ۚ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
 
@@ -16235,7 +16235,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ
 
-**37:124** Disse al suo popolo: "Non temete?
+**37:124** Disse al suo popolo: «Non temete?
 
 إِذْ قَالَ لِقَوْمِهِۦٓ أَلَا تَتَّقُونَ
 
@@ -16243,7 +16243,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَتَدْعُونَ بَعْلًۭا وَتَذَرُونَ أَحْسَنَ ٱلْخَٰلِقِينَ
 
-**37:126** Dio è il vostro Signore, e il Signore dei vostri antenati."
+**37:126** Dio è il vostro Signore, e il Signore dei vostri antenati.»
 
 ٱللَّهَ رَبَّكُمْ وَرَبَّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ
 
@@ -16335,11 +16335,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَـَٔامَنُوا۟ فَمَتَّعْنَٰهُمْ إِلَىٰ حِينٍۢ
 
-**37:149** Chiedi loro: "Le figlie sono per il vostro Signore, mentre per loro i figli?"
+**37:149** Chiedi loro: «Le figlie sono per il vostro Signore, mentre per loro i figli?»
 
 فَٱسْتَفْتِهِمْ أَلِرَبِّكَ ٱلْبَنَاتُ وَلَهُمُ ٱلْبَنُونَ
 
-**37:150** O abbiamo creato gli angeli femmine, come hanno testimoniato?"
+**37:150** O abbiamo creato gli angeli femmine, come hanno testimoniato?»
 
 أَمْ خَلَقْنَا ٱلْمَلَٰٓئِكَةَ إِنَٰثًۭا وَهُمْ شَٰهِدُونَ
 
@@ -16347,7 +16347,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَلَآ إِنَّهُم مِّنْ إِفْكِهِمْ لَيَقُولُونَ
 
-**37:152** "Dio ha generato." Stanno davvero mentendo.
+**37:152** «Dio ha generato.» Stanno davvero mentendo.
 
 وَلَدَ ٱللَّهُ وَإِنَّهُمْ لَكَٰذِبُونَ
 
@@ -16395,7 +16395,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِلَّا مَنْ هُوَ صَالِ ٱلْجَحِيمِ
 
-**37:164** "Non c'è uno di noi che non abbia una posizione assegnata.
+**37:164** «Non c'è uno di noi che non abbia una posizione assegnata.
 
 وَمَا مِنَّآ إِلَّا لَهُۥ مَقَامٌۭ مَّعْلُومٌۭ
 
@@ -16403,7 +16403,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَإِنَّا لَنَحْنُ ٱلصَّآفُّونَ
 
-**37:166** E noi siamo quelli che glorificano."
+**37:166** E noi siamo quelli che glorificano.»
 
 وَإِنَّا لَنَحْنُ ٱلْمُسَبِّحُونَ
 
@@ -16411,11 +16411,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَإِن كَانُوا۟ لَيَقُولُونَ
 
-**37:168** "Se avessimo ricevuto consiglio dagli antichi.
+**37:168** «Se avessimo ricevuto consiglio dagli antichi.
 
 لَوْ أَنَّ عِندَنَا ذِكْرًۭا مِّنَ ٱلْأَوَّلِينَ
 
-**37:169** Saremmo stati servi fedeli di Dio."
+**37:169** Saremmo stati servi fedeli di Dio.»
 
 لَكُنَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ
 
@@ -16495,15 +16495,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍۢ فَنَادَوا۟ وَّلَاتَ حِينَ مَنَاصٍۢ
 
-**38:4** E si meravigliarono che un ammonitore fosse venuto da loro tra di loro. I miscredenti dissero: "Questo è un mago bugiardo."
+**38:4** E si meravigliarono che un ammonitore fosse venuto da loro tra di loro. I miscredenti dissero: «Questo è un mago bugiardo.»
 
 وَعَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌۭ مِّنْهُمْ ۖ وَقَالَ ٱلْكَٰفِرُونَ هَٰذَا سَٰحِرٌۭ كَذَّابٌ
 
-**38:5** "Ha trasformato tutti gli dèi in un solo Dio? Questa è una cosa strana."
+**38:5** «Ha trasformato tutti gli dèi in un solo Dio? Questa è una cosa strana.»
 
 أَجَعَلَ ٱلْءَالِهَةَ إِلَٰهًۭا وَٰحِدًا ۖ إِنَّ هَٰذَا لَشَىْءٌ عُجَابٌۭ
 
-**38:6** I notabili tra loro annunciarono: "Andate avanti e tenetevi stretti ai vostri dèi. Questa è una cosa pianificata.
+**38:6** I notabili tra loro annunciarono: «Andate avanti e tenetevi stretti ai vostri dèi. Questa è una cosa pianificata.
 
 وَٱنطَلَقَ ٱلْمَلَأُ مِنْهُمْ أَنِ ٱمْشُوا۟ وَٱصْبِرُوا۟ عَلَىٰٓ ءَالِهَتِكُمْ ۖ إِنَّ هَٰذَا لَشَىْءٌۭ يُرَادُ
 
@@ -16511,7 +16511,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 مَا سَمِعْنَا بِهَٰذَا فِى ٱلْمِلَّةِ ٱلْءَاخِرَةِ إِنْ هَٰذَآ إِلَّا ٱخْتِلَٰقٌ
 
-**38:8** Il messaggio è stato mandato giù a lui, tra tutti noi?" In realtà, dubitano del Mio avvertimento. In realtà, non hanno ancora gustato la Mia punizione.
+**38:8** Il messaggio è stato mandato giù a lui, tra tutti noi?» In realtà, dubitano del Mio avvertimento. In realtà, non hanno ancora gustato la Mia punizione.
 
 أَءُنزِلَ عَلَيْهِ ٱلذِّكْرُ مِنۢ بَيْنِنَا ۚ بَلْ هُمْ فِى شَكٍّۢ مِّن ذِكْرِى ۖ بَل لَّمَّا يَذُوقُوا۟ عَذَابِ
 
@@ -16543,7 +16543,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَمَا يَنظُرُ هَٰٓؤُلَآءِ إِلَّا صَيْحَةًۭ وَٰحِدَةًۭ مَّا لَهَا مِن فَوَاقٍۢ
 
-**38:16** E dicono: "Signore nostro, affretta il Tuo scritto su di noi, prima del Giorno del Conto."
+**38:16** E dicono: «Signore nostro, affretta il Tuo scritto su di noi, prima del Giorno del Conto.»
 
 وَقَالُوا۟ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبْلَ يَوْمِ ٱلْحِسَابِ
 
@@ -16567,15 +16567,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ۞ وَهَلْ أَتَىٰكَ نَبَؤُا۟ ٱلْخَصْمِ إِذْ تَسَوَّرُوا۟ ٱلْمِحْرَابَ
 
-**38:22** Quando entrarono da Davide, ed egli fu spaventato da loro. Dissero: "Non temere. Due litiganti; uno di noi ha fatto torto all'altro; quindi giudica tra noi con equità, non essere parziale, e guidaci sulla via retta."
+**38:22** Quando entrarono da Davide, ed egli fu spaventato da loro. Dissero: «Non temere. Due litiganti; uno di noi ha fatto torto all'altro; quindi giudica tra noi con equità, non essere parziale, e guidaci sulla via retta.»
 
 إِذْ دَخَلُوا۟ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنْهُمْ ۖ قَالُوا۟ لَا تَخَفْ ۖ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍۢ فَٱحْكُم بَيْنَنَا بِٱلْحَقِّ وَلَا تُشْطِطْ وَٱهْدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ
 
-**38:23** "Questo mio fratello ha novantanove pecore, e io ho una pecora, e disse: 'Affidala a me', e mi pressò con le parole."
+**38:23** «Questo mio fratello ha novantanove pecore, e io ho una pecora, e disse: 'Affidala a me', e mi pressò con le parole.»
 
 إِنَّ هَٰذَآ أَخِى لَهُۥ تِسْعٌۭ وَتِسْعُونَ نَعْجَةًۭ وَلِىَ نَعْجَةٌۭ وَٰحِدَةٌۭ فَقَالَ أَكْفِلْنِيهَا وَعَزَّنِى فِى ٱلْخِطَابِ
 
-**38:24** Disse: "Ti ha fatto torto chiedendo la tua pecora in aggiunta alle sue pecore. Molti soci approfittano l'uno dell'altro, tranne quelli che credono e fanno buone opere, ma questi sono così pochi." Davide capì che lo stavamo mettendo alla prova, così chiese perdono al suo Signore, cadde in ginocchio e si pentì.
+**38:24** Disse: «Ti ha fatto torto chiedendo la tua pecora in aggiunta alle sue pecore. Molti soci approfittano l'uno dell'altro, tranne quelli che credono e fanno buone opere, ma questi sono così pochi.» Davide capì che lo stavamo mettendo alla prova, così chiese perdono al suo Signore, cadde in ginocchio e si pentì.
 
 قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَأَنَابَ ۩
 
@@ -16585,7 +16585,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَغَفَرْنَا لَهُۥ ذَٰلِكَ ۖ وَإِنَّ لَهُۥ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍۢ
 
-**38:26** "O Davide, ti abbiamo reso un governante nella terra, quindi giudica tra la gente con giustizia, e non seguire il desiderio, affinché non ti svii dal sentiero di Dio. Quelli che si sviano dal sentiero di Dio avranno una punizione dolorosa, per aver ignorato il Giorno del Conto."
+**38:26** «O Davide, ti abbiamo reso un governante nella terra, quindi giudica tra la gente con giustizia, e non seguire il desiderio, affinché non ti svii dal sentiero di Dio. Quelli che si sviano dal sentiero di Dio avranno una punizione dolorosa, per aver ignorato il Giorno del Conto.»
 
 يَٰدَاوُۥدُ إِنَّا جَعَلْنَٰكَ خَلِيفَةًۭ فِى ٱلْأَرْضِ فَٱحْكُم بَيْنَ ٱلنَّاسِ بِٱلْحَقِّ وَلَا تَتَّبِعِ ٱلْهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ ٱللَّهِ ۚ إِنَّ ٱلَّذِينَ يَضِلُّونَ عَن سَبِيلِ ٱللَّهِ لَهُمْ عَذَابٌۭ شَدِيدٌۢ بِمَا نَسُوا۟ يَوْمَ ٱلْحِسَابِ
 
@@ -16609,11 +16609,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِذْ عُرِضَ عَلَيْهِ بِٱلْعَشِىِّ ٱلصَّٰفِنَٰتُ ٱلْجِيَادُ
 
-**38:32** Disse: "Ho preferito l'amore delle cose belle al ricordo del mio Signore — finché non scomparve dietro il velo.
+**38:32** Disse: «Ho preferito l'amore delle cose belle al ricordo del mio Signore — finché non scomparve dietro il velo.
 
 فَقَالَ إِنِّىٓ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ عَن ذِكْرِ رَبِّى حَتَّىٰ تَوَارَتْ بِٱلْحِجَابِ
 
-**38:33** Riportateli da me." E cominciò ad accarezzare le loro gambe e i loro colli.
+**38:33** Riportateli da me.» E cominciò ad accarezzare le loro gambe e i loro colli.
 
 رُدُّوهَا عَلَىَّ ۖ فَطَفِقَ مَسْحًۢا بِٱلسُّوقِ وَٱلْأَعْنَاقِ
 
@@ -16621,7 +16621,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَقَدْ فَتَنَّا سُلَيْمَٰنَ وَأَلْقَيْنَا عَلَىٰ كُرْسِيِّهِۦ جَسَدًۭا ثُمَّ أَنَابَ
 
-**38:35** Disse: "Signore mio, perdonami e concedimi un regno che non sarà mai raggiunto da nessuno dopo di me. Tu sei il Donatore."
+**38:35** Disse: «Signore mio, perdonami e concedimi un regno che non sarà mai raggiunto da nessuno dopo di me. Tu sei il Donatore.»
 
 قَالَ رَبِّ ٱغْفِرْ لِى وَهَبْ لِى مُلْكًۭا لَّا يَنۢبَغِى لِأَحَدٍۢ مِّنۢ بَعْدِىٓ ۖ إِنَّكَ أَنتَ ٱلْوَهَّابُ
 
@@ -16637,7 +16637,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَءَاخَرِينَ مُقَرَّنِينَ فِى ٱلْأَصْفَادِ
 
-**38:39** "Questo è il Nostro dono; quindi dai generosamente, o trattieni; senza conto."
+**38:39** «Questo è il Nostro dono; quindi dai generosamente, o trattieni; senza conto.»
 
 هَٰذَا عَطَآؤُنَا فَٱمْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍۢ
 
@@ -16645,11 +16645,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَإِنَّ لَهُۥ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍۢ
 
-**38:41** E menziona il Nostro servo Giobbe, quando gridò al suo Signore: "Satana mi ha afflitto con difficoltà e dolore."
+**38:41** E menziona il Nostro servo Giobbe, quando gridò al suo Signore: «Satana mi ha afflitto con difficoltà e dolore.»
 
 وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَٰنُ بِنُصْبٍۢ وَعَذَابٍ
 
-**38:42** "Batti con il tuo piede — ecco acqua fresca per lavarti e da bere."
+**38:42** «Batti con il tuo piede — ecco acqua fresca per lavarti e da bere.»
 
 ٱرْكُضْ بِرِجْلِكَ ۖ هَٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ
 
@@ -16657,7 +16657,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَٰبِ
 
-**38:44** "Prendi con la tua mano un fascio, e colpisci con esso, e non rompere il tuo giuramento." Lo abbiamo trovato paziente. Che servo eccellente! Era obbediente.
+**38:44** «Prendi con la tua mano un fascio, e colpisci con esso, e non rompere il tuo giuramento.» Lo abbiamo trovato paziente. Che servo eccellente! Era obbediente.
 
 وَخُذْ بِيَدِكَ ضِغْثًۭا فَٱضْرِب بِّهِۦ وَلَا تَحْنَثْ ۗ إِنَّا وَجَدْنَٰهُ صَابِرًۭا ۚ نِّعْمَ ٱلْعَبْدُ ۖ إِنَّهُۥٓ أَوَّابٌۭ
 
@@ -16717,19 +16717,19 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَءَاخَرُ مِن شَكْلِهِۦٓ أَزْوَٰجٌ
 
-**38:59** "Questa è una folla che si precipita a capofitto con voi." Non c'è benvenuto per loro. Saranno bruciati dal Fuoco.
+**38:59** «Questa è una folla che si precipita a capofitto con voi.» Non c'è benvenuto per loro. Saranno bruciati dal Fuoco.
 
 هَٰذَا فَوْجٌۭ مُّقْتَحِمٌۭ مَّعَكُمْ ۖ لَا مَرْحَبًۢا بِهِمْ ۚ إِنَّهُمْ صَالُوا۟ ٱلنَّارِ
 
-**38:60** Diranno: "Ma siete voi! Non c'è benvenuto per voi! Siete voi che ce lo avete portato addosso! Che fine miserabile!"
+**38:60** Diranno: «Ma siete voi! Non c'è benvenuto per voi! Siete voi che ce lo avete portato addosso! Che fine miserabile!»
 
 قَالُوا۟ بَلْ أَنتُمْ لَا مَرْحَبًۢا بِكُمْ ۖ أَنتُمْ قَدَّمْتُمُوهُ لَنَا ۖ فَبِئْسَ ٱلْقَرَارُ
 
-**38:61** Diranno: "Signore nostro, chiunque ci abbia portato questo addosso, dagli doppia punizione nel Fuoco."
+**38:61** Diranno: «Signore nostro, chiunque ci abbia portato questo addosso, dagli doppia punizione nel Fuoco.»
 
 قَالُوا۟ رَبَّنَا مَن قَدَّمَ لَنَا هَٰذَا فَزِدْهُ عَذَابًۭا ضِعْفًۭا فِى ٱلنَّارِ
 
-**38:62** E diranno: "Che ci succede che non vediamo uomini che contavamo tra i malvagi?
+**38:62** E diranno: «Che ci succede che non vediamo uomini che contavamo tra i malvagi?
 
 وَقَالُوا۟ مَا لَنَا لَا نَرَىٰ رِجَالًۭا كُنَّا نَعُدُّهُم مِّنَ ٱلْأَشْرَارِ
 
@@ -16741,15 +16741,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنَّ ذَٰلِكَ لَحَقٌّۭ تَخَاصُمُ أَهْلِ ٱلنَّارِ
 
-**38:65** Di': "Sono solo un ammonitore, e non c'è dio se non Dio — l'Uno, il Conquistatore.
+**38:65** Di': «Sono solo un ammonitore, e non c'è dio se non Dio — l'Uno, il Conquistatore.
 
 قُلْ إِنَّمَآ أَنَا۠ مُنذِرٌۭ ۖ وَمَا مِنْ إِلَٰهٍ إِلَّا ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ
 
-**38:66** Il Signore dei cieli e della terra, e di tutto ciò che è tra loro; il Potente, il Perdonatore."
+**38:66** Il Signore dei cieli e della terra, e di tutto ciò che è tra loro; il Potente, il Perdonatore.»
 
 رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلْعَزِيزُ ٱلْغَفَّٰرُ
 
-**38:67** Di': "È un messaggio di grande importanza.
+**38:67** Di': «È un messaggio di grande importanza.
 
 قُلْ هُوَ نَبَؤٌا۟ عَظِيمٌ
 
@@ -16761,11 +16761,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 مَا كَانَ لِىَ مِنْ عِلْمٍۭ بِٱلْمَلَإِ ٱلْأَعْلَىٰٓ إِذْ يَخْتَصِمُونَ
 
-**38:70** Mi è solo rivelato che sono un chiaro ammonitore."
+**38:70** Mi è solo rivelato che sono un chiaro ammonitore.»
 
 إِن يُوحَىٰٓ إِلَىَّ إِلَّآ أَنَّمَآ أَنَا۠ نَذِيرٌۭ مُّبِينٌ
 
-**38:71** Il tuo Signore disse agli angeli: "Sto creando un essere umano dall'argilla.
+**38:71** Il tuo Signore disse agli angeli: «Sto creando un essere umano dall'argilla.
 
 إِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًۭا مِّن طِينٍۢ
 
@@ -16781,51 +16781,51 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِلَّآ إِبْلِيسَ ٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَٰفِرِينَ
 
-**38:75** Disse: "O Satana, cosa ti ha impedito di prostrarti davanti a ciò che ho creato con le Mie stesse mani? Sei troppo orgoglioso, o eri uno degli esaltati?"
+**38:75** Disse: «O Satana, cosa ti ha impedito di prostrarti davanti a ciò che ho creato con le Mie stesse mani? Sei troppo orgoglioso, o eri uno degli esaltati?»
 
 قَالَ يَٰٓإِبْلِيسُ مَا مَنَعَكَ أَن تَسْجُدَ لِمَا خَلَقْتُ بِيَدَىَّ ۖ أَسْتَكْبَرْتَ أَمْ كُنتَ مِنَ ٱلْعَالِينَ
 
-**38:76** Disse: "Sono migliore di lui; Tu mi hai creato dal fuoco, e Tu lo hai creato dall'argilla."
+**38:76** Disse: «Sono migliore di lui; Tu mi hai creato dal fuoco, e Tu lo hai creato dall'argilla.»
 
 قَالَ أَنَا۠ خَيْرٌۭ مِّنْهُ ۖ خَلَقْتَنِى مِن نَّارٍۢ وَخَلَقْتَهُۥ مِن طِينٍۢ
 
-**38:77** Disse: "Allora esci da qui! Sei un escluso!
+**38:77** Disse: «Allora esci da qui! Sei un escluso!
 
 قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌۭ
 
-**38:78** E la Mia maledizione sarà su di te fino al Giorno del Giudizio."
+**38:78** E la Mia maledizione sarà su di te fino al Giorno del Giudizio.»
 
 وَإِنَّ عَلَيْكَ لَعْنَتِىٓ إِلَىٰ يَوْمِ ٱلدِّينِ
 
-**38:79** Disse: "Signore, rimandami fino al Giorno in cui saranno risuscitati."
+**38:79** Disse: «Signore, rimandami fino al Giorno in cui saranno risuscitati.»
 
 قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
 
-**38:80** Disse: "Sei uno di quelli rimandati.
+**38:80** Disse: «Sei uno di quelli rimandati.
 
 قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ
 
-**38:81** Fino al Giorno del Tempo Stabilito."
+**38:81** Fino al Giorno del Tempo Stabilito.»
 
 إِلَىٰ يَوْمِ ٱلْوَقْتِ ٱلْمَعْلُومِ
 
-**38:82** Disse: "Per la Tua maestà, li sedurrò tutti.
+**38:82** Disse: «Per la Tua maestà, li sedurrò tutti.
 
 قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ
 
-**38:83** Tranne i tuoi servi leali tra loro."
+**38:83** Tranne i tuoi servi leali tra loro.»
 
 إِلَّا عِبَادَكَ مِنْهُمُ ٱلْمُخْلَصِينَ
 
-**38:84** Disse: "La verità è, e dico la verità.
+**38:84** Disse: «La verità è, e dico la verità.
 
 قَالَ فَٱلْحَقُّ وَٱلْحَقَّ أَقُولُ
 
-**38:85** Riempirò l'Inferno con te, e con ognuno di loro che ti segue."
+**38:85** Riempirò l'Inferno con te, e con ognuno di loro che ti segue.»
 
 لَأَمْلَأَنَّ جَهَنَّمَ مِنكَ وَمِمَّن تَبِعَكَ مِنْهُمْ أَجْمَعِينَ
 
-**38:86** Di': "Non vi chiedo alcun salario per questo, e non sono un impostore.
+**38:86** Di': «Non vi chiedo alcun salario per questo, e non sono un impostore.
 
 قُلْ مَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍۢ وَمَآ أَنَا۠ مِنَ ٱلْمُتَكَلِّفِينَ
 
@@ -16833,7 +16833,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنْ هُوَ إِلَّا ذِكْرٌۭ لِّلْعَٰلَمِينَ
 
-**38:88** E conoscerete il suo messaggio tra un po'."
+**38:88** E conoscerete il suo messaggio tra un po'.»
 
 وَلَتَعْلَمُنَّ نَبَأَهُۥ بَعْدَ حِينٍۭ
 
@@ -16857,7 +16857,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنَّآ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَٰبَ بِٱلْحَقِّ فَٱعْبُدِ ٱللَّهَ مُخْلِصًۭا لَّهُ ٱلدِّينَ
 
-**39:3** Non è a Dio che è dovuta la fede sincera? Quanto a quelli che prendono custodi oltre a Lui: "Li adoriamo solo affinché ci avvicinino a Dio." Dio giudicherà tra loro riguardo alle loro differenze. Dio non guida il bugiardo blasfemo.
+**39:3** Non è a Dio che è dovuta la fede sincera? Quanto a quelli che prendono custodi oltre a Lui: «Li adoriamo solo affinché ci avvicinino a Dio.» Dio giudicherà tra loro riguardo alle loro differenze. Dio non guida il bugiardo blasfemo.
 
 أَلَا لِلَّهِ ٱلدِّينُ ٱلْخَالِصُ ۚ وَٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَآ إِلَى ٱللَّهِ زُلْفَىٰٓ إِنَّ ٱللَّهَ يَحْكُمُ بَيْنَهُمْ فِى مَا هُمْ فِيهِ يَخْتَلِفُونَ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ كَٰذِبٌۭ كَفَّارٌۭ
 
@@ -16877,39 +16877,39 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِن تَكْفُرُوا۟ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنكُمْ ۖ وَلَا يَرْضَىٰ لِعِبَادِهِ ٱلْكُفْرَ ۖ وَإِن تَشْكُرُوا۟ يَرْضَهُ لَكُمْ ۗ وَلَا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ۗ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
-**39:8** Quando un'avversità tocca l'essere umano, prega il suo Signore, pentendosi verso di Lui. Ma poi, quando Gli conferisce una grazia Sua, dimentica ciò per cui pregava prima, e attribuisce rivali a Dio, per sviare dalla Sua via. Di': "Goditi la tua miscredenza per un po'; sarai tra gli abitanti del Fuoco."
+**39:8** Quando un'avversità tocca l'essere umano, prega il suo Signore, pentendosi verso di Lui. Ma poi, quando Gli conferisce una grazia Sua, dimentica ciò per cui pregava prima, e attribuisce rivali a Dio, per sviare dalla Sua via. Di': «Goditi la tua miscredenza per un po'; sarai tra gli abitanti del Fuoco.»
 
 ۞ وَإِذَا مَسَّ ٱلْإِنسَٰنَ ضُرٌّۭ دَعَا رَبَّهُۥ مُنِيبًا إِلَيْهِ ثُمَّ إِذَا خَوَّلَهُۥ نِعْمَةًۭ مِّنْهُ نَسِىَ مَا كَانَ يَدْعُوٓا۟ إِلَيْهِ مِن قَبْلُ وَجَعَلَ لِلَّهِ أَندَادًۭا لِّيُضِلَّ عَن سَبِيلِهِۦ ۚ قُلْ تَمَتَّعْ بِكُفْرِكَ قَلِيلًا ۖ إِنَّكَ مِنْ أَصْحَٰبِ ٱلنَّارِ
 
-**39:9** È forse colui che adora devotamente durante le veglie della notte, prostrandandosi e stando in piedi, attento all'Aldilà, e ponendo la sua speranza nella misericordia del suo Signore? Di': "Sono uguali quelli che sanno e quelli che non sanno?" Solo quelli dotati di ragione ricorderanno.
+**39:9** È forse colui che adora devotamente durante le veglie della notte, prostrandandosi e stando in piedi, attento all'Aldilà, e ponendo la sua speranza nella misericordia del suo Signore? Di': «Sono uguali quelli che sanno e quelli che non sanno?» Solo quelli dotati di ragione ricorderanno.
 
 أَمَّنْ هُوَ قَٰنِتٌ ءَانَآءَ ٱلَّيْلِ سَاجِدًۭا وَقَآئِمًۭا يَحْذَرُ ٱلْءَاخِرَةَ وَيَرْجُوا۟ رَحْمَةَ رَبِّهِۦ ۗ قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَ ۗ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَٰبِ
 
-**39:10** Di': "O Miei devoti che avete creduto, mantenete il vostro dovere verso il vostro Signore. Per quelli che fanno il bene in questo mondo, c'è bontà. E la terra di Dio è vasta. I costanti saranno pagati per intero il loro salario, senza conto."
+**39:10** Di': «O Miei devoti che avete creduto, mantenete il vostro dovere verso il vostro Signore. Per quelli che fanno il bene in questo mondo, c'è bontà. E la terra di Dio è vasta. I costanti saranno pagati per intero il loro salario, senza conto.»
 
 قُلْ يَٰعِبَادِ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ رَبَّكُمْ ۚ لِلَّذِينَ أَحْسَنُوا۟ فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةٌۭ ۗ وَأَرْضُ ٱللَّهِ وَٰسِعَةٌ ۗ إِنَّمَا يُوَفَّى ٱلصَّٰبِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍۢ
 
-**39:11** Di': "Mi è stato comandato di servire Dio, dedicando a Lui esclusivamente la mia religione.
+**39:11** Di': «Mi è stato comandato di servire Dio, dedicando a Lui esclusivamente la mia religione.
 
 قُلْ إِنِّىٓ أُمِرْتُ أَنْ أَعْبُدَ ٱللَّهَ مُخْلِصًۭا لَّهُ ٱلدِّينَ
 
-**39:12** E mi è stato comandato di essere il primo di quelli che si sottomettono."
+**39:12** E mi è stato comandato di essere il primo di quelli che si sottomettono.»
 
 وَأُمِرْتُ لِأَنْ أَكُونَ أَوَّلَ ٱلْمُسْلِمِينَ
 
-**39:13** Di': "Temo, se disobbedissi al mio Signore, la punizione di un Giorno orrendo."
+**39:13** Di': «Temo, se disobbedissi al mio Signore, la punizione di un Giorno orrendo.»
 
 قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍۢ
 
-**39:14** Di': "È Dio che adoro, sincero nella mia fede in Lui."
+**39:14** Di': «È Dio che adoro, sincero nella mia fede in Lui.»
 
 قُلِ ٱللَّهَ أَعْبُدُ مُخْلِصًۭا لَّهُۥ دِينِى
 
-**39:15** "Ma potete adorare tutto ciò che volete oltre a Lui." Di': "I perdenti sono quelli che perdono le loro anime e il loro popolo nel Giorno della Risurrezione." Questa è davvero la perdita evidente.
+**39:15** «Ma potete adorare tutto ciò che volete oltre a Lui.» Di': «I perdenti sono quelli che perdono le loro anime e il loro popolo nel Giorno della Risurrezione.» Questa è davvero la perdita evidente.
 
 فَٱعْبُدُوا۟ مَا شِئْتُم مِّن دُونِهِۦ ۗ قُلْ إِنَّ ٱلْخَٰسِرِينَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ ٱلْقِيَٰمَةِ ۗ أَلَا ذَٰلِكَ هُوَ ٱلْخُسْرَانُ ٱلْمُبِينُ
 
-**39:16** Avranno strati di Fuoco sopra di loro, e strati sotto di loro. È così che Dio mette paura ai Suoi servi — "O Miei servi! Guardatevi da Me!"
+**39:16** Avranno strati di Fuoco sopra di loro, e strati sotto di loro. È così che Dio mette paura ai Suoi servi — «O Miei servi! Guardatevi da Me!»
 
 لَهُم مِّن فَوْقِهِمْ ظُلَلٌۭ مِّنَ ٱلنَّارِ وَمِن تَحْتِهِمْ ظُلَلٌۭ ۚ ذَٰلِكَ يُخَوِّفُ ٱللَّهُ بِهِۦ عِبَادَهُۥ ۚ يَٰعِبَادِ فَٱتَّقُونِ
 
@@ -16941,7 +16941,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ٱللَّهُ نَزَّلَ أَحْسَنَ ٱلْحَدِيثِ كِتَٰبًۭا مُّتَشَٰبِهًۭا مَّثَانِىَ تَقْشَعِرُّ مِنْهُ جُلُودُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَىٰ ذِكْرِ ٱللَّهِ ۚ ذَٰلِكَ هُدَى ٱللَّهِ يَهْدِى بِهِۦ مَن يَشَآءُ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ
 
-**39:24** E che dire di qualcuno che si copre il volto contro la terribile miseria del Giorno della Risurrezione? Agli ingiusti sarà detto: "Gustate ciò che guadagnavate."
+**39:24** E che dire di qualcuno che si copre il volto contro la terribile miseria del Giorno della Risurrezione? Agli ingiusti sarà detto: «Gustate ciò che guadagnavate.»
 
 أَفَمَن يَتَّقِى بِوَجْهِهِۦ سُوٓءَ ٱلْعَذَابِ يَوْمَ ٱلْقِيَٰمَةِ ۚ وَقِيلَ لِلظَّٰلِمِينَ ذُوقُوا۟ مَا كُنتُمْ تَكْسِبُونَ
 
@@ -16997,15 +16997,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَمَن يَهْدِ ٱللَّهُ فَمَا لَهُۥ مِن مُّضِلٍّ ۗ أَلَيْسَ ٱللَّهُ بِعَزِيزٍۢ ذِى ٱنتِقَامٍۢ
 
-**39:38** E se chiedessi loro: "Chi ha creato i cieli e la terra?" direbbero: "Dio." Di': "Avete visto quelli che pregate invece di Dio? Se Dio volesse un danno per me, possono sollevare il Suo danno? E se volesse una benedizione per me, possono trattenere la Sua misericordia?" Di': "Dio mi basta. Su di Lui si affidano quelli che si affidano."
+**39:38** E se chiedessi loro: «Chi ha creato i cieli e la terra?» direbbero: «Dio.» Di': «Avete visto quelli che pregate invece di Dio? Se Dio volesse un danno per me, possono sollevare il Suo danno? E se volesse una benedizione per me, possono trattenere la Sua misericordia?» Di': «Dio mi basta. Su di Lui si affidano quelli che si affidano.»
 
 وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ ٱللَّهُ ۚ قُلْ أَفَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ إِنْ أَرَادَنِىَ ٱللَّهُ بِضُرٍّ هَلْ هُنَّ كَٰشِفَٰتُ ضُرِّهِۦٓ أَوْ أَرَادَنِى بِرَحْمَةٍ هَلْ هُنَّ مُمْسِكَٰتُ رَحْمَتِهِۦ ۚ قُلْ حَسْبِىَ ٱللَّهُ ۖ عَلَيْهِ يَتَوَكَّلُ ٱلْمُتَوَكِّلُونَ
 
-**39:39** Di': "O popolo mio, lavorate secondo la vostra capacità; e anch'io lo farò. Poi saprete.
+**39:39** Di': «O popolo mio, lavorate secondo la vostra capacità; e anch'io lo farò. Poi saprete.
 
 قُلْ يَٰقَوْمِ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنِّى عَٰمِلٌۭ ۖ فَسَوْفَ تَعْلَمُونَ
 
-**39:40** Chi riceverà una punizione umiliante, e su chi cadrà un tormento duraturo."
+**39:40** Chi riceverà una punizione umiliante, e su chi cadrà un tormento duraturo.»
 
 مَن يَأْتِيهِ عَذَابٌۭ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌۭ مُّقِيمٌ
 
@@ -17017,11 +17017,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا ۖ فَيُمْسِكُ ٱلَّتِى قَضَىٰ عَلَيْهَا ٱلْمَوْتَ وَيُرْسِلُ ٱلْأُخْرَىٰٓ إِلَىٰٓ أَجَلٍۢ مُّسَمًّى ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ
 
-**39:43** O hanno scelto intercessori oltre a Dio? Di': "Anche se non hanno potere su nulla e sono privi di ragione?"
+**39:43** O hanno scelto intercessori oltre a Dio? Di': «Anche se non hanno potere su nulla e sono privi di ragione?»
 
 أَمِ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ شُفَعَآءَ ۚ قُلْ أَوَلَوْ كَانُوا۟ لَا يَمْلِكُونَ شَيْـًۭٔا وَلَا يَعْقِلُونَ
 
-**39:44** Di': "Tutta l'intercessione spetta a Dio. A Lui appartiene il regno dei cieli e della terra. Poi a Lui sarete ricondotti."
+**39:44** Di': «Tutta l'intercessione spetta a Dio. A Lui appartiene il regno dei cieli e della terra. Poi a Lui sarete ricondotti.»
 
 قُل لِّلَّهِ ٱلشَّفَٰعَةُ جَمِيعًۭا ۖ لَّهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ ثُمَّ إِلَيْهِ تُرْجَعُونَ
 
@@ -17029,7 +17029,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَإِذَا ذُكِرَ ٱللَّهُ وَحْدَهُ ٱشْمَأَزَّتْ قُلُوبُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ ۖ وَإِذَا ذُكِرَ ٱلَّذِينَ مِن دُونِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ
 
-**39:46** Di': "Dio nostro, Iniziatore dei cieli e della terra, Conoscitore di tutti i segreti e le dichiarazioni. Tu giudicherai tra i tuoi servi riguardo a ciò su cui differivano."
+**39:46** Di': «Dio nostro, Iniziatore dei cieli e della terra, Conoscitore di tutti i segreti e le dichiarazioni. Tu giudicherai tra i tuoi servi riguardo a ciò su cui differivano.»
 
 قُلِ ٱللَّهُمَّ فَاطِرَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ عَٰلِمَ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ أَنتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِى مَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ
 
@@ -17041,7 +17041,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَبَدَا لَهُمْ سَيِّـَٔاتُ مَا كَسَبُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**39:49** Quando un'avversità tocca l'essere umano, ci chiama. Ma poi, quando lo favoriamo con una benedizione da parte Nostra, dice: "Ho ottenuto questo in virtù della mia conoscenza." Tuttavia, è una prova, ma la maggior parte di loro non sa.
+**39:49** Quando un'avversità tocca l'essere umano, ci chiama. Ma poi, quando lo favoriamo con una benedizione da parte Nostra, dice: «Ho ottenuto questo in virtù della mia conoscenza.» Tuttavia, è una prova, ma la maggior parte di loro non sa.
 
 فَإِذَا مَسَّ ٱلْإِنسَٰنَ ضُرٌّۭ دَعَانَا ثُمَّ إِذَا خَوَّلْنَٰهُ نِعْمَةًۭ مِّنَّا قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلْمٍۭ ۚ بَلْ هِىَ فِتْنَةٌۭ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 
@@ -17057,7 +17057,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَوَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يُؤْمِنُونَ
 
-**39:53** Di': "O Miei servi che avete trasgredito contro voi stessi: non disperate della misericordia di Dio, perché Dio perdona tutti i peccati. Egli è davvero il Perdonatore, il Clemente."
+**39:53** Di': «O Miei servi che avete trasgredito contro voi stessi: non disperate della misericordia di Dio, perché Dio perdona tutti i peccati. Egli è davvero il Perdonatore, il Clemente.»
 
 ۞ قُلْ يَٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
@@ -17069,15 +17069,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَٱتَّبِعُوٓا۟ أَحْسَنَ مَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُم مِّن قَبْلِ أَن يَأْتِيَكُمُ ٱلْعَذَابُ بَغْتَةًۭ وَأَنتُمْ لَا تَشْعُرُونَ
 
-**39:56** Affinché un'anima non dica: "Quanto mi dispiace, per aver trascurato il mio dovere verso Dio, e per essere stata tra i derisori."
+**39:56** Affinché un'anima non dica: «Quanto mi dispiace, per aver trascurato il mio dovere verso Dio, e per essere stata tra i derisori.»
 
 أَن تَقُولَ نَفْسٌۭ يَٰحَسْرَتَىٰ عَلَىٰ مَا فَرَّطتُ فِى جَنۢبِ ٱللَّهِ وَإِن كُنتُ لَمِنَ ٱلسَّٰخِرِينَ
 
-**39:57** O dica: "Se Dio mi avesse guidato; sarei stata tra i pii."
+**39:57** O dica: «Se Dio mi avesse guidato; sarei stata tra i pii.»
 
 أَوْ تَقُولَ لَوْ أَنَّ ٱللَّهَ هَدَىٰنِى لَكُنتُ مِنَ ٱلْمُتَّقِينَ
 
-**39:58** O dica, quando vede la pena: "Se solo avessi un'altra possibilità, sarei tra i virtuosi."
+**39:58** O dica, quando vede la pena: «Se solo avessi un'altra possibilità, sarei tra i virtuosi.»
 
 أَوْ تَقُولَ حِينَ تَرَى ٱلْعَذَابَ لَوْ أَنَّ لِى كَرَّةًۭ فَأَكُونَ مِنَ ٱلْمُحْسِنِينَ
 
@@ -17101,7 +17101,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 لَّهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِ ٱللَّهِ أُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ
 
-**39:64** Di': "È altro che Dio che mi istruite ad adorare, voi ignoranti?"
+**39:64** Di': «È altro che Dio che mi istruite ad adorare, voi ignoranti?»
 
 قُلْ أَفَغَيْرَ ٱللَّهِ تَأْمُرُوٓنِّىٓ أَعْبُدُ أَيُّهَا ٱلْجَٰهِلُونَ
 
@@ -17129,23 +17129,23 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَوُفِّيَتْ كُلُّ نَفْسٍۢ مَّا عَمِلَتْ وَهُوَ أَعْلَمُ بِمَا يَفْعَلُونَ
 
-**39:71** Quelli che non credettero saranno condotti all'Inferno a schiere. Finché, quando vi saranno giunti, e le sue porte saranno aperte, i suoi custodi diranno loro: "Non sono venuti da voi messaggeri tra di voi, recitandovi le rivelazioni del vostro Signore, e avvertendovi dell'incontro di questo vostro Giorno?" Diranno: "Sì, ma il verdetto di punizione è giustificato contro i miscredenti."
+**39:71** Quelli che non credettero saranno condotti all'Inferno a schiere. Finché, quando vi saranno giunti, e le sue porte saranno aperte, i suoi custodi diranno loro: «Non sono venuti da voi messaggeri tra di voi, recitandovi le rivelazioni del vostro Signore, e avvertendovi dell'incontro di questo vostro Giorno?» Diranno: «Sì, ma il verdetto di punizione è giustificato contro i miscredenti.»
 
 وَسِيقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ جَهَنَّمَ زُمَرًا ۖ حَتَّىٰٓ إِذَا جَآءُوهَا فُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ رُسُلٌۭ مِّنكُمْ يَتْلُونَ عَلَيْكُمْ ءَايَٰتِ رَبِّكُمْ وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا ۚ قَالُوا۟ بَلَىٰ وَلَٰكِنْ حَقَّتْ كَلِمَةُ ٱلْعَذَابِ عَلَى ٱلْكَٰفِرِينَ
 
-**39:72** Sarà detto: "Entrate nelle porte dell'Inferno, per rimanervi in eterno." Quanto miserabile è la destinazione degli arroganti.
+**39:72** Sarà detto: «Entrate nelle porte dell'Inferno, per rimanervi in eterno.» Quanto miserabile è la destinazione degli arroganti.
 
 قِيلَ ٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَٰلِدِينَ فِيهَا ۖ فَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ
 
-**39:73** E quelli che temevano il loro Signore saranno condotti in Paradiso a schiere. Finché, quando vi saranno giunti, e le sue porte saranno aperte, i suoi custodi diranno loro: "Pace su di voi, siete stati buoni, quindi entrateci, per rimanervi in eterno."
+**39:73** E quelli che temevano il loro Signore saranno condotti in Paradiso a schiere. Finché, quando vi saranno giunti, e le sue porte saranno aperte, i suoi custodi diranno loro: «Pace su di voi, siete stati buoni, quindi entrateci, per rimanervi in eterno.»
 
 وَسِيقَ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ إِلَى ٱلْجَنَّةِ زُمَرًا ۖ حَتَّىٰٓ إِذَا جَآءُوهَا وَفُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَا سَلَٰمٌ عَلَيْكُمْ طِبْتُمْ فَٱدْخُلُوهَا خَٰلِدِينَ
 
-**39:74** E diranno: "Lode a Dio, che ha mantenuto la Sua promessa per noi, e ci ha fatto ereditare la terra, godendo del Paradiso come vogliamo." Quanto eccellente è la ricompensa dei lavoratori.
+**39:74** E diranno: «Lode a Dio, che ha mantenuto la Sua promessa per noi, e ci ha fatto ereditare la terra, godendo del Paradiso come vogliamo.» Quanto eccellente è la ricompensa dei lavoratori.
 
 وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى صَدَقَنَا وَعْدَهُۥ وَأَوْرَثَنَا ٱلْأَرْضَ نَتَبَوَّأُ مِنَ ٱلْجَنَّةِ حَيْثُ نَشَآءُ ۖ فَنِعْمَ أَجْرُ ٱلْعَٰمِلِينَ
 
-**39:75** E vedrai gli angeli librarsi intorno al Trono, glorificando il loro Signore con lode. E sarà giudicato tra loro con equità, e sarà detto: "Lode a Dio, Signore dei Mondi."
+**39:75** E vedrai gli angeli librarsi intorno al Trono, glorificando il loro Signore con lode. E sarà giudicato tra loro con equità, e sarà detto: «Lode a Dio, Signore dei Mondi.»
 
 وَتَرَى ٱلْمَلَٰٓئِكَةَ حَآفِّينَ مِنْ حَوْلِ ٱلْعَرْشِ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ ۖ وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَقِيلَ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
@@ -17185,7 +17185,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَكَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ كَفَرُوٓا۟ أَنَّهُمْ أَصْحَٰبُ ٱلنَّارِ
 
-**40:7** Quelli che portano il Trono, e quelli intorno ad esso, glorificano il loro Signore con lode, e credono in Lui, e chiedono perdono per quelli che credono: "Signore nostro, Tu hai abbracciato ogni cosa in misericordia e conoscenza; quindi perdona quelli che si pentono e seguono la Tua via, e proteggili dall'agonia della Fiamma.
+**40:7** Quelli che portano il Trono, e quelli intorno ad esso, glorificano il loro Signore con lode, e credono in Lui, e chiedono perdono per quelli che credono: «Signore nostro, Tu hai abbracciato ogni cosa in misericordia e conoscenza; quindi perdona quelli che si pentono e seguono la Tua via, e proteggili dall'agonia della Fiamma.
 
 ٱلَّذِينَ يَحْمِلُونَ ٱلْعَرْشَ وَمَنْ حَوْلَهُۥ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِۦ وَيَسْتَغْفِرُونَ لِلَّذِينَ ءَامَنُوا۟ رَبَّنَا وَسِعْتَ كُلَّ شَىْءٍۢ رَّحْمَةًۭ وَعِلْمًۭا فَٱغْفِرْ لِلَّذِينَ تَابُوا۟ وَٱتَّبَعُوا۟ سَبِيلَكَ وَقِهِمْ عَذَابَ ٱلْجَحِيمِ
 
@@ -17193,15 +17193,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 رَبَّنَا وَأَدْخِلْهُمْ جَنَّٰتِ عَدْنٍ ٱلَّتِى وَعَدتَّهُمْ وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّٰتِهِمْ ۚ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**40:9** E proteggili dalle opere malvagie. Chi Tu proteggi dalle opere malvagie, in quel Giorno, hai avuto misericordia di lui. Questo è il raggiungimento supremo."
+**40:9** E proteggili dalle opere malvagie. Chi Tu proteggi dalle opere malvagie, in quel Giorno, hai avuto misericordia di lui. Questo è il raggiungimento supremo.»
 
 وَقِهِمُ ٱلسَّيِّـَٔاتِ ۚ وَمَن تَقِ ٱلسَّيِّـَٔاتِ يَوْمَئِذٍۢ فَقَدْ رَحِمْتَهُۥ ۚ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
-**40:10** Quelli che non credettero saranno interpellati: "L'odio di Dio è più grande del vostro odio verso voi stessi — perché foste invitati alla fede, ma rifiutaste."
+**40:10** Quelli che non credettero saranno interpellati: «L'odio di Dio è più grande del vostro odio verso voi stessi — perché foste invitati alla fede, ma rifiutaste.»
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ يُنَادَوْنَ لَمَقْتُ ٱللَّهِ أَكْبَرُ مِن مَّقْتِكُمْ أَنفُسَكُمْ إِذْ تُدْعَوْنَ إِلَى ٱلْإِيمَٰنِ فَتَكْفُرُونَ
 
-**40:11** Diranno: "Signore nostro, ci hai fatti morire due volte, e due volte ci hai dato la vita. Ora riconosciamo i nostri peccati. C'è una via d'uscita?"
+**40:11** Diranno: «Signore nostro, ci hai fatti morire due volte, e due volte ci hai dato la vita. Ora riconosciamo i nostri peccati. C'è una via d'uscita?»
 
 قَالُوا۟ رَبَّنَآ أَمَتَّنَا ٱثْنَتَيْنِ وَأَحْيَيْتَنَا ٱثْنَتَيْنِ فَٱعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَىٰ خُرُوجٍۢ مِّن سَبِيلٍۢ
 
@@ -17221,7 +17221,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 رَفِيعُ ٱلدَّرَجَٰتِ ذُو ٱلْعَرْشِ يُلْقِى ٱلرُّوحَ مِنْ أَمْرِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ لِيُنذِرَ يَوْمَ ٱلتَّلَاقِ
 
-**40:16** Il Giorno in cui emergeranno, nulla di loro sarà nascosto a Dio. "A chi appartiene il regno oggi?" "A Dio, l'Uno, l'Irresistibile."
+**40:16** Il Giorno in cui emergeranno, nulla di loro sarà nascosto a Dio. «A chi appartiene il regno oggi?» «A Dio, l'Uno, l'Irresistibile.»
 
 يَوْمَ هُم بَٰرِزُونَ ۖ لَا يَخْفَىٰ عَلَى ٱللَّهِ مِنْهُمْ شَىْءٌۭ ۚ لِّمَنِ ٱلْمُلْكُ ٱلْيَوْمَ ۖ لِلَّهِ ٱلْوَٰحِدِ ٱلْقَهَّارِ
 
@@ -17253,31 +17253,31 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَا وَسُلْطَٰنٍۢ مُّبِينٍ
 
-**40:24** Al Faraone, Haman e Qarun. Ma dissero: "Un mago bugiardo."
+**40:24** Al Faraone, Haman e Qarun. Ma dissero: «Un mago bugiardo.»
 
 إِلَىٰ فِرْعَوْنَ وَهَٰمَٰنَ وَقَٰرُونَ فَقَالُوا۟ سَٰحِرٌۭ كَذَّابٌۭ
 
-**40:25** Poi, quando venne da loro con la verità da parte Nostra, dissero: "Uccidete i figli di quelli che hanno creduto con lui, e risparmiate le loro figlie." Ma le trame dei miscredenti possono solo sviare.
+**40:25** Poi, quando venne da loro con la verità da parte Nostra, dissero: «Uccidete i figli di quelli che hanno creduto con lui, e risparmiate le loro figlie.» Ma le trame dei miscredenti possono solo sviare.
 
 فَلَمَّا جَآءَهُم بِٱلْحَقِّ مِنْ عِندِنَا قَالُوا۟ ٱقْتُلُوٓا۟ أَبْنَآءَ ٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ وَٱسْتَحْيُوا۟ نِسَآءَهُمْ ۚ وَمَا كَيْدُ ٱلْكَٰفِرِينَ إِلَّا فِى ضَلَٰلٍۢ
 
-**40:26** Il Faraone disse: "Lasciatemi uccidere Mosè, e lasciate che si appelli al suo Signore. Temo che possa cambiare la vostra religione, o diffondere disordine nella terra."
+**40:26** Il Faraone disse: «Lasciatemi uccidere Mosè, e lasciate che si appelli al suo Signore. Temo che possa cambiare la vostra religione, o diffondere disordine nella terra.»
 
 وَقَالَ فِرْعَوْنُ ذَرُونِىٓ أَقْتُلْ مُوسَىٰ وَلْيَدْعُ رَبَّهُۥٓ ۖ إِنِّىٓ أَخَافُ أَن يُبَدِّلَ دِينَكُمْ أَوْ أَن يُظْهِرَ فِى ٱلْأَرْضِ ٱلْفَسَادَ
 
-**40:27** Mosè disse: "Ho cercato la protezione del mio Signore e del vostro Signore, da ogni tiranno che non crede nel Giorno del Conto."
+**40:27** Mosè disse: «Ho cercato la protezione del mio Signore e del vostro Signore, da ogni tiranno che non crede nel Giorno del Conto.»
 
 وَقَالَ مُوسَىٰٓ إِنِّى عُذْتُ بِرَبِّى وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرٍۢ لَّا يُؤْمِنُ بِيَوْمِ ٱلْحِسَابِ
 
-**40:28** Un uomo credente della famiglia del Faraone, che aveva nascosto la sua fede, disse: "Ucciderete un uomo perché dice: 'Il mio Signore è Dio', e vi ha portato prove chiare dal vostro Signore? Se è un bugiardo, la sua bugia ricadrà su di lui; ma se è sincero, allora parte di ciò che vi promette vi colpirà. Dio non guida l'impostore stravagante.
+**40:28** Un uomo credente della famiglia del Faraone, che aveva nascosto la sua fede, disse: «Ucciderete un uomo perché dice: 'Il mio Signore è Dio', e vi ha portato prove chiare dal vostro Signore? Se è un bugiardo, la sua bugia ricadrà su di lui; ma se è sincero, allora parte di ciò che vi promette vi colpirà. Dio non guida l'impostore stravagante.
 
 وَقَالَ رَجُلٌۭ مُّؤْمِنٌۭ مِّنْ ءَالِ فِرْعَوْنَ يَكْتُمُ إِيمَٰنَهُۥٓ أَتَقْتُلُونَ رَجُلًا أَن يَقُولَ رَبِّىَ ٱللَّهُ وَقَدْ جَآءَكُم بِٱلْبَيِّنَٰتِ مِن رَّبِّكُمْ ۖ وَإِن يَكُ كَٰذِبًۭا فَعَلَيْهِ كَذِبُهُۥ ۖ وَإِن يَكُ صَادِقًۭا يُصِبْكُم بَعْضُ ٱلَّذِى يَعِدُكُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ مُسْرِفٌۭ كَذَّابٌۭ
 
-**40:29** O popolo mio! Vostro è il dominio oggi, supremi nella terra; ma chi ci aiuterà contro la potenza di Dio, se dovesse cadere su di noi?" Il Faraone disse: "Non vi mostro se non ciò che vedo, e non vi guido se non sul sentiero della prudenza."
+**40:29** O popolo mio! Vostro è il dominio oggi, supremi nella terra; ma chi ci aiuterà contro la potenza di Dio, se dovesse cadere su di noi?» Il Faraone disse: «Non vi mostro se non ciò che vedo, e non vi guido se non sul sentiero della prudenza.»
 
 يَٰقَوْمِ لَكُمُ ٱلْمُلْكُ ٱلْيَوْمَ ظَٰهِرِينَ فِى ٱلْأَرْضِ فَمَن يَنصُرُنَا مِنۢ بَأْسِ ٱللَّهِ إِن جَآءَنَا ۚ قَالَ فِرْعَوْنُ مَآ أُرِيكُمْ إِلَّا مَآ أَرَىٰ وَمَآ أَهْدِيكُمْ إِلَّا سَبِيلَ ٱلرَّشَادِ
 
-**40:30** Colui che aveva creduto disse: "O popolo mio, temo per voi qualcosa di simile al giorno dei confederati.
+**40:30** Colui che aveva creduto disse: «O popolo mio, temo per voi qualcosa di simile al giorno dei confederati.
 
 وَقَالَ ٱلَّذِىٓ ءَامَنَ يَٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُم مِّثْلَ يَوْمِ ٱلْأَحْزَابِ
 
@@ -17289,11 +17289,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَيَٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُمْ يَوْمَ ٱلتَّنَادِ
 
-**40:33** Il Giorno in cui volterete le spalle e fuggirete, senza difensore contro Dio. Chi Dio svia non ha guida."
+**40:33** Il Giorno in cui volterete le spalle e fuggirete, senza difensore contro Dio. Chi Dio svia non ha guida.»
 
 يَوْمَ تُوَلُّونَ مُدْبِرِينَ مَا لَكُم مِّنَ ٱللَّهِ مِنْ عَاصِمٍۢ ۗ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍۢ
 
-**40:34** Giuseppe era venuto da voi con rivelazioni chiare, ma continuaste a dubitare di ciò con cui era venuto da voi. Finché, quando morì, diceste: "Dio non manderà mai un messaggero dopo di lui." Così Dio svia lo scettico oltraggioso.
+**40:34** Giuseppe era venuto da voi con rivelazioni chiare, ma continuaste a dubitare di ciò con cui era venuto da voi. Finché, quando morì, diceste: «Dio non manderà mai un messaggero dopo di lui.» Così Dio svia lo scettico oltraggioso.
 
 وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ
 
@@ -17301,19 +17301,19 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ٱلَّذِينَ يُجَٰدِلُونَ فِىٓ ءَايَٰتِ ٱللَّهِ بِغَيْرِ سُلْطَٰنٍ أَتَىٰهُمْ ۖ كَبُرَ مَقْتًا عِندَ ٱللَّهِ وَعِندَ ٱلَّذِينَ ءَامَنُوا۟ ۚ كَذَٰلِكَ يَطْبَعُ ٱللَّهُ عَلَىٰ كُلِّ قَلْبِ مُتَكَبِّرٍۢ جَبَّارٍۢ
 
-**40:36** E il Faraone disse: "O Haman, costruiscimi una torre, affinché possa raggiungere le vie.
+**40:36** E il Faraone disse: «O Haman, costruiscimi una torre, affinché possa raggiungere le vie.
 
 وَقَالَ فِرْعَوْنُ يَٰهَٰمَٰنُ ٱبْنِ لِى صَرْحًۭا لَّعَلِّىٓ أَبْلُغُ ٱلْأَسْبَٰبَ
 
-**40:37** Le vie dei cieli, così che possa dare un'occhiata al Dio di Mosè; anche se penso che stia mentendo." Così le opere malvagie del Faraone furono fatte apparire buone per lui, e fu sviato dal sentiero. L'astuzia del Faraone fu solo nella sconfitta.
+**40:37** Le vie dei cieli, così che possa dare un'occhiata al Dio di Mosè; anche se penso che stia mentendo.» Così le opere malvagie del Faraone furono fatte apparire buone per lui, e fu sviato dal sentiero. L'astuzia del Faraone fu solo nella sconfitta.
 
 أَسْبَٰبَ ٱلسَّمَٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ
 
-**40:38** Colui che aveva creduto disse: "O popolo mio, seguitemi, e vi guiderò sul sentiero della rettitudine."
+**40:38** Colui che aveva creduto disse: «O popolo mio, seguitemi, e vi guiderò sul sentiero della rettitudine.»
 
 وَقَالَ ٱلَّذِىٓ ءَامَنَ يَٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ
 
-**40:39** "O popolo mio, la vita di questo mondo non è altro che un godimento fugace, ma l'Aldilà è la Casa della Permanenza.
+**40:39** «O popolo mio, la vita di questo mondo non è altro che un godimento fugace, ma l'Aldilà è la Casa della Permanenza.
 
 يَٰقَوْمِ إِنَّمَا هَٰذِهِ ٱلْحَيَوٰةُ ٱلدُّنْيَا مَتَٰعٌۭ وَإِنَّ ٱلْءَاخِرَةَ هِىَ دَارُ ٱلْقَرَارِ
 
@@ -17333,7 +17333,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 لَا جَرَمَ أَنَّمَا تَدْعُونَنِىٓ إِلَيْهِ لَيْسَ لَهُۥ دَعْوَةٌۭ فِى ٱلدُّنْيَا وَلَا فِى ٱلْءَاخِرَةِ وَأَنَّ مَرَدَّنَآ إِلَى ٱللَّهِ وَأَنَّ ٱلْمُسْرِفِينَ هُمْ أَصْحَٰبُ ٱلنَّارِ
 
-**40:44** Ricorderete ciò che vi sto dicendo, quindi affido il mio caso a Dio. Dio osserva i servi."
+**40:44** Ricorderete ciò che vi sto dicendo, quindi affido il mio caso a Dio. Dio osserva i servi.»
 
 فَسَتَذْكُرُونَ مَآ أَقُولُ لَكُمْ ۚ وَأُفَوِّضُ أَمْرِىٓ إِلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ بَصِيرٌۢ بِٱلْعِبَادِ
 
@@ -17341,23 +17341,23 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ
 
-**40:46** Il Fuoco. Vi saranno esposti mattina e sera. E nel Giorno in cui l'Ora avrà luogo: "Ammettete il clan del Faraone all'agonia più intensa."
+**40:46** Il Fuoco. Vi saranno esposti mattina e sera. E nel Giorno in cui l'Ora avrà luogo: «Ammettete il clan del Faraone all'agonia più intensa.»
 
 ٱلنَّارُ يُعْرَضُونَ عَلَيْهَا غُدُوًّۭا وَعَشِيًّۭا ۖ وَيَوْمَ تَقُومُ ٱلسَّاعَةُ أَدْخِلُوٓا۟ ءَالَ فِرْعَوْنَ أَشَدَّ ٱلْعَذَابِ
 
-**40:47** Mentre litigano nel Fuoco, i deboli diranno a quelli che erano arroganti: "Eravamo vostri seguaci; ci risparmierete dunque una porzione del Fuoco?"
+**40:47** Mentre litigano nel Fuoco, i deboli diranno a quelli che erano arroganti: «Eravamo vostri seguaci; ci risparmierete dunque una porzione del Fuoco?»
 
 وَإِذْ يَتَحَآجُّونَ فِى ٱلنَّارِ فَيَقُولُ ٱلضُّعَفَٰٓؤُا۟ لِلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُنَّا لَكُمْ تَبَعًۭا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا نَصِيبًۭا مِّنَ ٱلنَّارِ
 
-**40:48** Quelli che erano arroganti diranno: "Ci siamo tutti dentro; Dio ha giudicato tra i servi."
+**40:48** Quelli che erano arroganti diranno: «Ci siamo tutti dentro; Dio ha giudicato tra i servi.»
 
 قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُلٌّۭ فِيهَآ إِنَّ ٱللَّهَ قَدْ حَكَمَ بَيْنَ ٱلْعِبَادِ
 
-**40:49** E quelli nel Fuoco diranno ai custodi dell'Inferno: "Chiamate il vostro Signore ad alleggerire la nostra sofferenza per un giorno."
+**40:49** E quelli nel Fuoco diranno ai custodi dell'Inferno: «Chiamate il vostro Signore ad alleggerire la nostra sofferenza per un giorno.»
 
 وَقَالَ ٱلَّذِينَ فِى ٱلنَّارِ لِخَزَنَةِ جَهَنَّمَ ٱدْعُوا۟ رَبَّكُمْ يُخَفِّفْ عَنَّا يَوْمًۭا مِّنَ ٱلْعَذَابِ
 
-**40:50** Diranno: "I vostri messaggeri non vennero da voi con segni chiari?" Diranno: "Sì." Diranno: "Allora pregate, ma le preghiere dei miscredenti saranno sempre vane."
+**40:50** Diranno: «I vostri messaggeri non vennero da voi con segni chiari?» Diranno: «Sì.» Diranno: «Allora pregate, ma le preghiere dei miscredenti saranno sempre vane.»
 
 قَالُوٓا۟ أَوَلَمْ تَكُ تَأْتِيكُمْ رُسُلُكُم بِٱلْبَيِّنَٰتِ ۖ قَالُوا۟ بَلَىٰ ۚ قَالُوا۟ فَٱدْعُوا۟ ۗ وَمَا دُعَٰٓؤُا۟ ٱلْكَٰفِرِينَ إِلَّا فِى ضَلَٰلٍ
 
@@ -17397,7 +17397,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنَّ ٱلسَّاعَةَ لَءَاتِيَةٌۭ لَّا رَيْبَ فِيهَا وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ
 
-**40:60** Il vostro Signore ha detto: "Pregatemi, e vi risponderò. Ma quelli che sono troppo orgogliosi per adorarMi entreranno nell'Inferno forzatamente."
+**40:60** Il vostro Signore ha detto: «Pregatemi, e vi risponderò. Ma quelli che sono troppo orgogliosi per adorarMi entreranno nell'Inferno forzatamente.»
 
 وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 
@@ -17421,7 +17421,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 هُوَ ٱلْحَىُّ لَآ إِلَٰهَ إِلَّا هُوَ فَٱدْعُوهُ مُخْلِصِينَ لَهُ ٱلدِّينَ ۗ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
-**40:66** Di': "Mi è stato proibito di adorare quelli che invocate oltre a Dio, ora che rivelazioni chiare mi sono giunte dal mio Signore; e mi è stato comandato di sottomettermi al Signore dei Mondi."
+**40:66** Di': «Mi è stato proibito di adorare quelli che invocate oltre a Dio, ora che rivelazioni chiare mi sono giunte dal mio Signore; e mi è stato comandato di sottomettermi al Signore dei Mondi.»
 
 ۞ قُلْ إِنِّى نُهِيتُ أَنْ أَعْبُدَ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ لَمَّا جَآءَنِىَ ٱلْبَيِّنَٰتُ مِن رَّبِّى وَأُمِرْتُ أَنْ أُسْلِمَ لِرَبِّ ٱلْعَٰلَمِينَ
 
@@ -17429,7 +17429,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 هُوَ ٱلَّذِى خَلَقَكُم مِّن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ مِنْ عَلَقَةٍۢ ثُمَّ يُخْرِجُكُمْ طِفْلًۭا ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ ثُمَّ لِتَكُونُوا۟ شُيُوخًۭا ۚ وَمِنكُم مَّن يُتَوَفَّىٰ مِن قَبْلُ ۖ وَلِتَبْلُغُوٓا۟ أَجَلًۭا مُّسَمًّۭى وَلَعَلَّكُمْ تَعْقِلُونَ
 
-**40:68** È Lui che dà vita e morte; e quando decide una cosa, le dice solo: "Sii", ed essa viene ad essere.
+**40:68** È Lui che dà vita e morte; e quando decide una cosa, le dice solo: «Sii», ed essa viene ad essere.
 
 هُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ ۖ فَإِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 
@@ -17449,11 +17449,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فِى ٱلْحَمِيمِ ثُمَّ فِى ٱلنَّارِ يُسْجَرُونَ
 
-**40:73** Poi sarà detto loro: "Dove sono quelli che divinizzavate?
+**40:73** Poi sarà detto loro: «Dove sono quelli che divinizzavate?
 
 ثُمَّ قِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تُشْرِكُونَ
 
-**40:74** Invece di Dio?" Diranno: "Ci hanno abbandonati. In realtà, prima non pregavamo nulla." Così Dio manda i miscredenti fuori strada.
+**40:74** Invece di Dio?» Diranno: «Ci hanno abbandonati. In realtà, prima non pregavamo nulla.» Così Dio manda i miscredenti fuori strada.
 
 مِن دُونِ ٱللَّهِ ۖ قَالُوا۟ ضَلُّوا۟ عَنَّا بَل لَّمْ نَكُن نَّدْعُوا۟ مِن قَبْلُ شَيْـًۭٔا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ ٱلْكَٰفِرِينَ
 
@@ -17493,7 +17493,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَلَمَّا جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَرِحُوا۟ بِمَا عِندَهُم مِّنَ ٱلْعِلْمِ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**40:84** Poi, quando assistettero alla Nostra potenza, dissero: "Crediamo in Dio solo, e rifiutiamo ciò che associavamo a Lui."
+**40:84** Poi, quando assistettero alla Nostra potenza, dissero: «Crediamo in Dio solo, e rifiutiamo ciò che associavamo a Lui.»
 
 فَلَمَّا رَأَوْا۟ بَأْسَنَا قَالُوٓا۟ ءَامَنَّا بِٱللَّهِ وَحْدَهُۥ وَكَفَرْنَا بِمَا كُنَّا بِهِۦ مُشْرِكِينَ
 
@@ -17529,11 +17529,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 بَشِيرًۭا وَنَذِيرًۭا فَأَعْرَضَ أَكْثَرُهُمْ فَهُمْ لَا يَسْمَعُونَ
 
-**41:5** E dicono: “I nostri cuori sono schermati da ciò a cui ci chiami, e nelle nostre orecchie c’è sordità, e tra noi e te c’è una barriera. Fa’ dunque ciò che vuoi, e noi faremo lo stesso.”
+**41:5** E dicono: «I nostri cuori sono schermati da ciò a cui ci chiami, e nelle nostre orecchie c’è sordità, e tra noi e te c’è una barriera. Fa’ dunque ciò che vuoi, e noi faremo lo stesso.»
 
 وَقَالُوا۟ قُلُوبُنَا فِىٓ أَكِنَّةٍۢ مِّمَّا تَدْعُونَآ إِلَيْهِ وَفِىٓ ءَاذَانِنَا وَقْرٌۭ وَمِنۢ بَيْنِنَا وَبَيْنِكَ حِجَابٌۭ فَٱعْمَلْ إِنَّنَا عَٰمِلُونَ
 
-**41:6** Di’: “Sono solo un uomo come voi; mi è stato ispirato che il vostro Dio è un Dio Unico. Siate dunque retti verso di Lui, e chiedete perdono a Lui.” E guai agli idolatri.
+**41:6** Di’: «Sono solo un uomo come voi; mi è stato ispirato che il vostro Dio è un Dio Unico. Siate dunque retti verso di Lui, e chiedete perdono a Lui.» E guai agli idolatri.
 
 قُلْ إِنَّمَآ أَنَا۠ بَشَرٌۭ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَٰهُكُمْ إِلَٰهٌۭ وَٰحِدٌۭ فَٱسْتَقِيمُوٓا۟ إِلَيْهِ وَٱسْتَغْفِرُوهُ ۗ وَوَيْلٌۭ لِّلْمُشْرِكِينَ
 
@@ -17545,7 +17545,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۢ
 
-**41:9** Di’: “Rifiutate Colui che ha creato la terra in due giorni? E Gli attribuite degli uguali? Quello è il Signore dei mondi.”
+**41:9** Di’: «Rifiutate Colui che ha creato la terra in due giorni? E Gli attribuite degli uguali? Quello è il Signore dei mondi.»
 
 ۞ قُلْ أَئِنَّكُمْ لَتَكْفُرُونَ بِٱلَّذِى خَلَقَ ٱلْأَرْضَ فِى يَوْمَيْنِ وَتَجْعَلُونَ لَهُۥٓ أَندَادًۭا ۚ ذَٰلِكَ رَبُّ ٱلْعَٰلَمِينَ
 
@@ -17553,7 +17553,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَجَعَلَ فِيهَا رَوَٰسِىَ مِن فَوْقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا فِىٓ أَرْبَعَةِ أَيَّامٍۢ سَوَآءًۭ لِّلسَّآئِلِينَ
 
-**41:11** Poi Si volse al cielo, ed era fumo, e disse ad esso e alla terra: “Venite, volentieri o contro voglia.” Dissero: “Veniamo volentieri.”
+**41:11** Poi Si volse al cielo, ed era fumo, e disse ad esso e alla terra: «Venite, volentieri o contro voglia.» Dissero: «Veniamo volentieri.»
 
 ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌۭ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا أَوْ كَرْهًۭا قَالَتَآ أَتَيْنَا طَآئِعِينَ
 
@@ -17561,15 +17561,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَقَضَىٰهُنَّ سَبْعَ سَمَٰوَاتٍۢ فِى يَوْمَيْنِ وَأَوْحَىٰ فِى كُلِّ سَمَآءٍ أَمْرَهَا ۚ وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَحِفْظًۭا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ
 
-**41:13** Ma se si allontanano, di’: “Vi ho avvertiti di una folgore, come la folgore degli Aad e dei Thamood.”
+**41:13** Ma se si allontanano, di’: «Vi ho avvertiti di una folgore, come la folgore degli Aad e dei Thamood.»
 
 فَإِنْ أَعْرَضُوا۟ فَقُلْ أَنذَرْتُكُمْ صَٰعِقَةًۭ مِّثْلَ صَٰعِقَةِ عَادٍۢ وَثَمُودَ
 
-**41:14** I loro messaggeri vennero a loro, davanti a loro e dietro di loro, dicendo: “Non adorate nessuno tranne Dio.” Dissero: “Se il nostro Signore avesse voluto, avrebbe fatto scendere degli angeli; perciò rifiutiamo ciò con cui siete stati inviati.”
+**41:14** I loro messaggeri vennero a loro, davanti a loro e dietro di loro, dicendo: «Non adorate nessuno tranne Dio.» Dissero: «Se il nostro Signore avesse voluto, avrebbe fatto scendere degli angeli; perciò rifiutiamo ciò con cui siete stati inviati.»
 
 إِذْ جَآءَتْهُمُ ٱلرُّسُلُ مِنۢ بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ ۖ قَالُوا۟ لَوْ شَآءَ رَبُّنَا لَأَنزَلَ مَلَٰٓئِكَةًۭ فَإِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَٰفِرُونَ
 
-**41:15** Quanto agli Aad, divennero arroganti sulla terra, e si opposero alla giustizia, e dissero: “Chi è più potente di noi?” Non hanno considerato che Dio, che li ha creati, è più potente di loro? E continuarono a negare le Nostre rivelazioni.
+**41:15** Quanto agli Aad, divennero arroganti sulla terra, e si opposero alla giustizia, e dissero: «Chi è più potente di noi?» Non hanno considerato che Dio, che li ha creati, è più potente di loro? E continuarono a negare le Nostre rivelazioni.
 
 فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَٰتِنَا يَجْحَدُونَ
 
@@ -17593,7 +17593,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 حَتَّىٰٓ إِذَا مَا جَآءُوهَا شَهِدَ عَلَيْهِمْ سَمْعُهُمْ وَأَبْصَٰرُهُمْ وَجُلُودُهُم بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**41:21** E diranno alle loro pelli: “Perché avete testimoniato contro di noi?” Diranno: “Dio, che ha fatto parlare ogni cosa, ci ha fatto parlare. È Lui che vi ha creati la prima volta, e a Lui siete ricondotti.”
+**41:21** E diranno alle loro pelli: «Perché avete testimoniato contro di noi?» Diranno: «Dio, che ha fatto parlare ogni cosa, ci ha fatto parlare. È Lui che vi ha creati la prima volta, e a Lui siete ricondotti.»
 
 وَقَالُوا۟ لِجُلُودِهِمْ لِمَ شَهِدتُّمْ عَلَيْنَا ۖ قَالُوٓا۟ أَنطَقَنَا ٱللَّهُ ٱلَّذِىٓ أَنطَقَ كُلَّ شَىْءٍۢ وَهُوَ خَلَقَكُمْ أَوَّلَ مَرَّةٍۢ وَإِلَيْهِ تُرْجَعُونَ
 
@@ -17613,7 +17613,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ۞ وَقَيَّضْنَا لَهُمْ قُرَنَآءَ فَزَيَّنُوا۟ لَهُم مَّا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَحَقَّ عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍۢ قَدْ خَلَتْ مِن قَبْلِهِم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ۖ إِنَّهُمْ كَانُوا۟ خَٰسِرِينَ
 
-**41:26** Quelli che non credono dicono: “Non ascoltate questo Corano, e parlateci sopra, così che possiate prevalere.”
+**41:26** Quelli che non credono dicono: «Non ascoltate questo Corano, e parlateci sopra, così che possiate prevalere.»
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَا تَسْمَعُوا۟ لِهَٰذَا ٱلْقُرْءَانِ وَٱلْغَوْا۟ فِيهِ لَعَلَّكُمْ تَغْلِبُونَ
 
@@ -17625,11 +17625,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ذَٰلِكَ جَزَآءُ أَعْدَآءِ ٱللَّهِ ٱلنَّارُ ۖ لَهُمْ فِيهَا دَارُ ٱلْخُلْدِ ۖ جَزَآءًۢ بِمَا كَانُوا۟ بِـَٔايَٰتِنَا يَجْحَدُونَ
 
-**41:29** Quelli che non hanno creduto diranno: “Signore nostro, mostraci quelli che ci hanno sviati — tra i jinn e gli uomini — e li calpesteremo sotto i nostri piedi, così che diventino tra i più bassi.”
+**41:29** Quelli che non hanno creduto diranno: «Signore nostro, mostraci quelli che ci hanno sviati — tra i jinn e gli uomini — e li calpesteremo sotto i nostri piedi, così che diventino tra i più bassi.»
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ رَبَّنَآ أَرِنَا ٱلَّذَيْنِ أَضَلَّانَا مِنَ ٱلْجِنِّ وَٱلْإِنسِ نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا لِيَكُونَا مِنَ ٱلْأَسْفَلِينَ
 
-**41:30** In verità, quelli che dicono: “Il nostro Signore è Dio”, e poi vanno dritti, gli angeli scenderanno su di loro: “Non temete, e non rattristatevi, ma gioite per la notizia del Giardino che vi era stato promesso.
+**41:30** In verità, quelli che dicono: «Il nostro Signore è Dio», e poi vanno dritti, gli angeli scenderanno su di loro: «Non temete, e non rattristatevi, ma gioite per la notizia del Giardino che vi era stato promesso.
 
 إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَٰمُوا۟ تَتَنَزَّلُ عَلَيْهِمُ ٱلْمَلَٰٓئِكَةُ أَلَّا تَخَافُوا۟ وَلَا تَحْزَنُوا۟ وَأَبْشِرُوا۟ بِٱلْجَنَّةِ ٱلَّتِى كُنتُمْ تُوعَدُونَ
 
@@ -17637,11 +17637,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 نَحْنُ أَوْلِيَآؤُكُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَفِى ٱلْءَاخِرَةِ ۖ وَلَكُمْ فِيهَا مَا تَشْتَهِىٓ أَنفُسُكُمْ وَلَكُمْ فِيهَا مَا تَدَّعُونَ
 
-**41:32** Come Ospitalità da Uno che perdona tutto, Misericordioso.”
+**41:32** Come Ospitalità da Uno che perdona tutto, Misericordioso.»
 
 نُزُلًۭا مِّنْ غَفُورٍۢ رَّحِيمٍۢ
 
-**41:33** E chi è migliore nel parlare di chi chiama a Dio, e agisce con integrità, e dice: “Sono tra quelli che si sottomettono”?
+**41:33** E chi è migliore nel parlare di chi chiama a Dio, e agisce con integrità, e dice: «Sono tra quelli che si sottomettono»?
 
 وَمَنْ أَحْسَنُ قَوْلًۭا مِّمَّن دَعَآ إِلَى ٱللَّهِ وَعَمِلَ صَٰلِحًۭا وَقَالَ إِنَّنِى مِنَ ٱلْمُسْلِمِينَ
 
@@ -17687,7 +17687,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 مَّا يُقَالُ لَكَ إِلَّا مَا قَدْ قِيلَ لِلرُّسُلِ مِن قَبْلِكَ ۚ إِنَّ رَبَّكَ لَذُو مَغْفِرَةٍۢ وَذُو عِقَابٍ أَلِيمٍۢ
 
-**41:44** Se lo avessimo fatto un Corano in una lingua straniera, avrebbero detto: “Se solo i suoi versetti fossero stati resi chiari.” Non arabo e un arabo? Di’: “Per quelli che credono, è guida e guarigione. Ma quanto a quelli che non credono: c’è pesantezza nelle loro orecchie, ed è cecità per loro. Questi sono chiamati da un luogo lontano.”
+**41:44** Se lo avessimo fatto un Corano in una lingua straniera, avrebbero detto: «Se solo i suoi versetti fossero stati resi chiari.» Non arabo e un arabo? Di’: «Per quelli che credono, è guida e guarigione. Ma quanto a quelli che non credono: c’è pesantezza nelle loro orecchie, ed è cecità per loro. Questi sono chiamati da un luogo lontano.»
 
 وَلَوْ جَعَلْنَٰهُ قُرْءَانًا أَعْجَمِيًّۭا لَّقَالُوا۟ لَوْلَا فُصِّلَتْ ءَايَٰتُهُۥٓ ۖ ءَا۬عْجَمِىٌّۭ وَعَرَبِىٌّۭ ۗ قُلْ هُوَ لِلَّذِينَ ءَامَنُوا۟ هُدًۭى وَشِفَآءٌۭ ۖ وَٱلَّذِينَ لَا يُؤْمِنُونَ فِىٓ ءَاذَانِهِمْ وَقْرٌۭ وَهُوَ عَلَيْهِمْ عَمًى ۚ أُو۟لَٰٓئِكَ يُنَادَوْنَ مِن مَّكَانٍۭ بَعِيدٍۢ
 
@@ -17699,7 +17699,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 مَّنْ عَمِلَ صَٰلِحًۭا فَلِنَفْسِهِۦ ۖ وَمَنْ أَسَآءَ فَعَلَيْهَا ۗ وَمَا رَبُّكَ بِظَلَّٰمٍۢ لِّلْعَبِيدِ
 
-**41:47** A Lui è rimandata la conoscenza dell’Ora. Nessun frutto esce dal suo involucro, e nessuna femmina concepisce o partorisce, se non con la Sua conoscenza. E il Giorno in cui li chiamerà: “Dove sono i Miei associati?” Diranno: “Lo ammettiamo a Te, nessuno di noi è testimone.”
+**41:47** A Lui è rimandata la conoscenza dell’Ora. Nessun frutto esce dal suo involucro, e nessuna femmina concepisce o partorisce, se non con la Sua conoscenza. E il Giorno in cui li chiamerà: «Dove sono i Miei associati?» Diranno: «Lo ammettiamo a Te, nessuno di noi è testimone.»
 
 ۞ إِلَيْهِ يُرَدُّ عِلْمُ ٱلسَّاعَةِ ۚ وَمَا تَخْرُجُ مِن ثَمَرَٰتٍۢ مِّنْ أَكْمَامِهَا وَمَا تَحْمِلُ مِنْ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِۦ ۚ وَيَوْمَ يُنَادِيهِمْ أَيْنَ شُرَكَآءِى قَالُوٓا۟ ءَاذَنَّٰكَ مَا مِنَّا مِن شَهِيدٍۢ
 
@@ -17711,7 +17711,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 لَّا يَسْـَٔمُ ٱلْإِنسَٰنُ مِن دُعَآءِ ٱلْخَيْرِ وَإِن مَّسَّهُ ٱلشَّرُّ فَيَـُٔوسٌۭ قَنُوطٌۭ
 
-**41:50** E quando gli facciamo gustare una misericordia da parte Nostra, dopo l’avversità che lo aveva colpito, dirà: “Questo è mio, e non penso che l’Ora stia arrivando; e anche se fossi ricondotto al mio Signore, avrò il meglio presso di Lui.” Informeremo quelli che non credono di ciò che hanno fatto, e faremo loro gustare un castigo terribile.
+**41:50** E quando gli facciamo gustare una misericordia da parte Nostra, dopo l’avversità che lo aveva colpito, dirà: «Questo è mio, e non penso che l’Ora stia arrivando; e anche se fossi ricondotto al mio Signore, avrò il meglio presso di Lui.» Informeremo quelli che non credono di ciò che hanno fatto, e faremo loro gustare un castigo terribile.
 
 وَلَئِنْ أَذَقْنَٰهُ رَحْمَةًۭ مِّنَّا مِنۢ بَعْدِ ضَرَّآءَ مَسَّتْهُ لَيَقُولَنَّ هَٰذَا لِى وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةًۭ وَلَئِن رُّجِعْتُ إِلَىٰ رَبِّىٓ إِنَّ لِى عِندَهُۥ لَلْحُسْنَىٰ ۚ فَلَنُنَبِّئَنَّ ٱلَّذِينَ كَفَرُوا۟ بِمَا عَمِلُوا۟ وَلَنُذِيقَنَّهُم مِّنْ عَذَابٍ غَلِيظٍۢ
 
@@ -17719,7 +17719,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَإِذَآ أَنْعَمْنَا عَلَى ٱلْإِنسَٰنِ أَعْرَضَ وَنَـَٔا بِجَانِبِهِۦ وَإِذَا مَسَّهُ ٱلشَّرُّ فَذُو دُعَآءٍ عَرِيضٍۢ
 
-**41:52** Di’: “Avete considerato? Se viene da Dio e voi lo rifiutate — chi è più sviato di chi è tagliato fuori e allontanato?”
+**41:52** Di’: «Avete considerato? Se viene da Dio e voi lo rifiutate — chi è più sviato di chi è tagliato fuori e allontanato?»
 
 قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ ثُمَّ كَفَرْتُم بِهِۦ مَنْ أَضَلُّ مِمَّنْ هُوَ فِى شِقَاقٍۭ بَعِيدٍۢ
 
@@ -17779,7 +17779,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ۖ فَٱللَّهُ هُوَ ٱلْوَلِىُّ وَهُوَ يُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**42:10** Qualunque questione su cui differite, il suo giudizio spetta a Dio. “Tale è Dio, il mio Signore, in cui confido, e a Lui mi pento.”
+**42:10** Qualunque questione su cui differite, il suo giudizio spetta a Dio. «Tale è Dio, il mio Signore, in cui confido, e a Lui mi pento.»
 
 وَمَا ٱخْتَلَفْتُمْ فِيهِ مِن شَىْءٍۢ فَحُكْمُهُۥٓ إِلَى ٱللَّهِ ۚ ذَٰلِكُمُ ٱللَّهُ رَبِّى عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ
 
@@ -17791,7 +17791,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 لَهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍ عَلِيمٌۭ
 
-**42:13** Ha prescritto per voi la stessa religione che ingiunse a Noè, e ciò che abbiamo ispirato a te, e ciò che ingiungemmo ad Abramo, e a Mosè, e a Gesù: “Dovete sostenere la religione, e non dividervi in essa.” Quanto agli idolatri, ciò a cui li chiami è per loro scandaloso. Dio sceglie per Sé chi vuole, e guida a Sé chi si pente.
+**42:13** Ha prescritto per voi la stessa religione che ingiunse a Noè, e ciò che abbiamo ispirato a te, e ciò che ingiungemmo ad Abramo, e a Mosè, e a Gesù: «Dovete sostenere la religione, e non dividervi in essa.» Quanto agli idolatri, ciò a cui li chiami è per loro scandaloso. Dio sceglie per Sé chi vuole, e guida a Sé chi si pente.
 
 ۞ شَرَعَ لَكُم مِّنَ ٱلدِّينِ مَا وَصَّىٰ بِهِۦ نُوحًۭا وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَمَا وَصَّيْنَا بِهِۦٓ إِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَىٰٓ ۖ أَنْ أَقِيمُوا۟ ٱلدِّينَ وَلَا تَتَفَرَّقُوا۟ فِيهِ ۚ كَبُرَ عَلَى ٱلْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ۚ ٱللَّهُ يَجْتَبِىٓ إِلَيْهِ مَن يَشَآءُ وَيَهْدِىٓ إِلَيْهِ مَن يُنِيبُ
 
@@ -17799,7 +17799,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَمَا تَفَرَّقُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۚ وَلَوْلَا كَلِمَةٌۭ سَبَقَتْ مِن رَّبِّكَ إِلَىٰٓ أَجَلٍۢ مُّسَمًّۭى لَّقُضِىَ بَيْنَهُمْ ۚ وَإِنَّ ٱلَّذِينَ أُورِثُوا۟ ٱلْكِتَٰبَ مِنۢ بَعْدِهِمْ لَفِى شَكٍّۢ مِّنْهُ مُرِيبٍۢ
 
-**42:15** A questo continua a invitare, e sii retto come ti è stato comandato, e non seguire le loro inclinazioni, e di’: “Credo in qualunque Libro Dio abbia fatto scendere, e mi è stato comandato di giudicare tra voi con equità. Dio è il nostro Signore e il vostro Signore. Noi abbiamo le nostre opere, e voi avete le vostre opere. Non ci sia lite tra noi e voi. Dio ci riunirà, e a Lui è il ritorno finale.”
+**42:15** A questo continua a invitare, e sii retto come ti è stato comandato, e non seguire le loro inclinazioni, e di’: «Credo in qualunque Libro Dio abbia fatto scendere, e mi è stato comandato di giudicare tra voi con equità. Dio è il nostro Signore e il vostro Signore. Noi abbiamo le nostre opere, e voi avete le vostre opere. Non ci sia lite tra noi e voi. Dio ci riunirà, e a Lui è il ritorno finale.»
 
 فَلِذَٰلِكَ فَٱدْعُ ۖ وَٱسْتَقِمْ كَمَآ أُمِرْتَ ۖ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ ۖ وَقُلْ ءَامَنتُ بِمَآ أَنزَلَ ٱللَّهُ مِن كِتَٰبٍۢ ۖ وَأُمِرْتُ لِأَعْدِلَ بَيْنَكُمُ ۖ ٱللَّهُ رَبُّنَا وَرَبُّكُمْ ۖ لَنَآ أَعْمَٰلُنَا وَلَكُمْ أَعْمَٰلُكُمْ ۖ لَا حُجَّةَ بَيْنَنَا وَبَيْنَكُمُ ۖ ٱللَّهُ يَجْمَعُ بَيْنَنَا ۖ وَإِلَيْهِ ٱلْمَصِيرُ
 
@@ -17831,11 +17831,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 تَرَى ٱلظَّٰلِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا۟ وَهُوَ وَاقِعٌۢ بِهِمْ ۗ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فِى رَوْضَاتِ ٱلْجَنَّاتِ ۖ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ۚ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ
 
-**42:23** Questa è la buona notizia che Dio dà ai Suoi servi che credono e compiono opere buone. Di’: “Non vi chiedo alcun salario per questo, tranne l’affetto tra i parenti stretti.” Chi compie un’opera buona, Noi aumenteremo per lui la sua bontà. Dio è Perdonatore e Riconoscente.
+**42:23** Questa è la buona notizia che Dio dà ai Suoi servi che credono e compiono opere buone. Di’: «Non vi chiedo alcun salario per questo, tranne l’affetto tra i parenti stretti.» Chi compie un’opera buona, Noi aumenteremo per lui la sua bontà. Dio è Perdonatore e Riconoscente.
 
 ذَٰلِكَ ٱلَّذِى يُبَشِّرُ ٱللَّهُ عِبَادَهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ ۗ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِلَّا ٱلْمَوَدَّةَ فِى ٱلْقُرْبَىٰ ۗ وَمَن يَقْتَرِفْ حَسَنَةًۭ نَّزِدْ لَهُۥ فِيهَا حُسْنًا ۚ إِنَّ ٱللَّهَ غَفُورٌۭ شَكُورٌ
 
-**42:24** O dicono: “Ha inventato una menzogna su Dio.” Se Dio avesse voluto, avrebbe potuto sigillare il tuo cuore. Ma Dio cancella il falso, e conferma il vero con le Sue Parole. Lui sa ciò che è nei cuori.
+**42:24** O dicono: «Ha inventato una menzogna su Dio.» Se Dio avesse voluto, avrebbe potuto sigillare il tuo cuore. Ma Dio cancella il falso, e conferma il vero con le Sue Parole. Lui sa ciò che è nei cuori.
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا ۖ فَإِن يَشَإِ ٱللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ ۗ وَيَمْحُ ٱللَّهُ ٱلْبَٰطِلَ وَيُحِقُّ ٱلْحَقَّ بِكَلِمَٰتِهِۦٓ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
@@ -17915,11 +17915,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ
 
-**42:44** Chi Dio lascia sviato non ha protettore oltre a Lui. E vedrai i trasgressori, quando vedranno il tormento, dire: “C’è un modo per tornare indietro?”
+**42:44** Chi Dio lascia sviato non ha protettore oltre a Lui. E vedrai i trasgressori, quando vedranno il tormento, dire: «C’è un modo per tornare indietro?»
 
 وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن وَلِىٍّۢ مِّنۢ بَعْدِهِۦ ۗ وَتَرَى ٱلظَّٰلِمِينَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ يَقُولُونَ هَلْ إِلَىٰ مَرَدٍّۢ مِّن سَبِيلٍۢ
 
-**42:45** E li vedrai esposti ad esso, rannicchiati per la disgrazia, guardando con occhi nascosti. Quelli che credevano diranno: “I perdenti sono quelli che hanno perso se stessi e le loro famiglie nel Giorno della Risurrezione.” In verità, i malfattori sono in un tormento duraturo.
+**42:45** E li vedrai esposti ad esso, rannicchiati per la disgrazia, guardando con occhi nascosti. Quelli che credevano diranno: «I perdenti sono quelli che hanno perso se stessi e le loro famiglie nel Giorno della Risurrezione.» In verità, i malfattori sono in un tormento duraturo.
 
 وَتَرَىٰهُمْ يُعْرَضُونَ عَلَيْهَا خَٰشِعِينَ مِنَ ٱلذُّلِّ يَنظُرُونَ مِن طَرْفٍ خَفِىٍّۢ ۗ وَقَالَ ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ ٱلْخَٰسِرِينَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ ٱلْقِيَٰمَةِ ۗ أَلَآ إِنَّ ٱلظَّٰلِمِينَ فِى عَذَابٍۢ مُّقِيمٍۢ
 
@@ -17999,7 +17999,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَأَهْلَكْنَآ أَشَدَّ مِنْهُم بَطْشًۭا وَمَضَىٰ مَثَلُ ٱلْأَوَّلِينَ
 
-**43:9** E se chiedessi loro: “Chi ha creato i cieli e la terra?” Direbbero: “Li ha creati il Potente, il Sapiente.”
+**43:9** E se chiedessi loro: «Chi ha creato i cieli e la terra?» Direbbero: «Li ha creati il Potente, il Sapiente.»
 
 وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ خَلَقَهُنَّ ٱلْعَزِيزُ ٱلْعَلِيمُ
 
@@ -18015,11 +18015,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَٱلَّذِى خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا وَجَعَلَ لَكُم مِّنَ ٱلْفُلْكِ وَٱلْأَنْعَٰمِ مَا تَرْكَبُونَ
 
-**43:13** Affinché possiate salire sulle loro schiene, e ricordare il favore del vostro Signore mentre sedete saldi su di esse, e dire: “Gloria a Colui che ha messo queste al nostro servizio; in verità non avremmo potuto farlo da soli.
+**43:13** Affinché possiate salire sulle loro schiene, e ricordare il favore del vostro Signore mentre sedete saldi su di esse, e dire: «Gloria a Colui che ha messo queste al nostro servizio; in verità non avremmo potuto farlo da soli.
 
 لِتَسْتَوُۥا۟ عَلَىٰ ظُهُورِهِۦ ثُمَّ تَذْكُرُوا۟ نِعْمَةَ رَبِّكُمْ إِذَا ٱسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا۟ سُبْحَٰنَ ٱلَّذِى سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُۥ مُقْرِنِينَ
 
-**43:14** E in verità, al nostro Signore ritorneremo.”
+**43:14** E in verità, al nostro Signore ritorneremo.»
 
 وَإِنَّآ إِلَىٰ رَبِّنَا لَمُنقَلِبُونَ
 
@@ -18035,7 +18035,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَإِذَا بُشِّرَ أَحَدُهُم بِمَا ضَرَبَ لِلرَّحْمَٰنِ مَثَلًۭا ظَلَّ وَجْهُهُۥ مُسْوَدًّۭا وَهُوَ كَظِيمٌ
 
-**43:18** “Qualcuno cresciuto per essere bello, e incapace di aiutare in una lotta?”
+**43:18** «Qualcuno cresciuto per essere bello, e incapace di aiutare in una lotta?»
 
 أَوَمَن يُنَشَّؤُا۟ فِى ٱلْحِلْيَةِ وَهُوَ فِى ٱلْخِصَامِ غَيْرُ مُبِينٍۢ
 
@@ -18043,7 +18043,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَجَعَلُوا۟ ٱلْمَلَٰٓئِكَةَ ٱلَّذِينَ هُمْ عِبَٰدُ ٱلرَّحْمَٰنِ إِنَٰثًا ۚ أَشَهِدُوا۟ خَلْقَهُمْ ۚ سَتُكْتَبُ شَهَٰدَتُهُمْ وَيُسْـَٔلُونَ
 
-**43:20** E dicono: “Se il Beneficente avesse voluto, non li avremmo adorati.” Ma non hanno conoscenza di ciò; stanno solo indovinando.
+**43:20** E dicono: «Se il Beneficente avesse voluto, non li avremmo adorati.» Ma non hanno conoscenza di ciò; stanno solo indovinando.
 
 وَقَالُوا۟ لَوْ شَآءَ ٱلرَّحْمَٰنُ مَا عَبَدْنَٰهُم ۗ مَّا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَخْرُصُونَ
 
@@ -18051,15 +18051,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَمْ ءَاتَيْنَٰهُمْ كِتَٰبًۭا مِّن قَبْلِهِۦ فَهُم بِهِۦ مُسْتَمْسِكُونَ
 
-**43:22** Ma dicono: “Abbiamo trovato i nostri genitori su una via, e siamo guidati sulle loro orme.”
+**43:22** Ma dicono: «Abbiamo trovato i nostri genitori su una via, e siamo guidati sulle loro orme.»
 
 بَلْ قَالُوٓا۟ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍۢ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّهْتَدُونَ
 
-**43:23** Allo stesso modo, non abbiamo inviato prima di te alcun ammonitore a una città, senza che i ricchi tra loro dicessero: “Abbiamo trovato i nostri genitori su una via, e stiamo seguendo le loro orme.”
+**43:23** Allo stesso modo, non abbiamo inviato prima di te alcun ammonitore a una città, senza che i ricchi tra loro dicessero: «Abbiamo trovato i nostri genitori su una via, e stiamo seguendo le loro orme.»
 
 وَكَذَٰلِكَ مَآ أَرْسَلْنَا مِن قَبْلِكَ فِى قَرْيَةٍۢ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍۢ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّقْتَدُونَ
 
-**43:24** Diceva: “Anche se vi porto una guida migliore di quella su cui avete trovato i vostri genitori?” Dicevano: “Rifiutiamo ciò con cui sei stato inviato.”
+**43:24** Diceva: «Anche se vi porto una guida migliore di quella su cui avete trovato i vostri genitori?» Dicevano: «Rifiutiamo ciò con cui sei stato inviato.»
 
 ۞ قَٰلَ أَوَلَوْ جِئْتُكُم بِأَهْدَىٰ مِمَّا وَجَدتُّمْ عَلَيْهِ ءَابَآءَكُمْ ۖ قَالُوٓا۟ إِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَٰفِرُونَ
 
@@ -18067,11 +18067,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَٱنتَقَمْنَا مِنْهُمْ ۖ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُكَذِّبِينَ
 
-**43:26** Quando Abramo disse a suo padre e al suo popolo: “Sono innocente di ciò che adorate.
+**43:26** Quando Abramo disse a suo padre e al suo popolo: «Sono innocente di ciò che adorate.
 
 وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ وَقَوْمِهِۦٓ إِنَّنِى بَرَآءٌۭ مِّمَّا تَعْبُدُونَ
 
-**43:27** Tranne Colui che mi ha creato, perché Lui mi guiderà.”
+**43:27** Tranne Colui che mi ha creato, perché Lui mi guiderà.»
 
 إِلَّا ٱلَّذِى فَطَرَنِى فَإِنَّهُۥ سَيَهْدِينِ
 
@@ -18083,11 +18083,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 بَلْ مَتَّعْتُ هَٰٓؤُلَآءِ وَءَابَآءَهُمْ حَتَّىٰ جَآءَهُمُ ٱلْحَقُّ وَرَسُولٌۭ مُّبِينٌۭ
 
-**43:30** Ma quando la verità venne a loro, dissero: “Questa è magia, e rifiutiamo di crederci.”
+**43:30** Ma quando la verità venne a loro, dissero: «Questa è magia, e rifiutiamo di crederci.»
 
 وَلَمَّا جَآءَهُمُ ٱلْحَقُّ قَالُوا۟ هَٰذَا سِحْرٌۭ وَإِنَّا بِهِۦ كَٰفِرُونَ
 
-**43:31** Dissero anche: “Se solo questo Corano fosse stato fatto scendere a un uomo importante delle due città.”
+**43:31** Dissero anche: «Se solo questo Corano fosse stato fatto scendere a un uomo importante delle due città.»
 
 وَقَالُوا۟ لَوْلَا نُزِّلَ هَٰذَا ٱلْقُرْءَانُ عَلَىٰ رَجُلٍۢ مِّنَ ٱلْقَرْيَتَيْنِ عَظِيمٍ
 
@@ -18115,7 +18115,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَإِنَّهُمْ لَيَصُدُّونَهُمْ عَنِ ٱلسَّبِيلِ وَيَحْسَبُونَ أَنَّهُم مُّهْتَدُونَ
 
-**43:38** Finché, quando viene a Noi, dirà: “Se solo ci fosse tra me e te la distanza dei due Orienti.” Che cattivo compagno!
+**43:38** Finché, quando viene a Noi, dirà: «Se solo ci fosse tra me e te la distanza dei due Orienti.» Che cattivo compagno!
 
 حَتَّىٰٓ إِذَا جَآءَنَا قَالَ يَٰلَيْتَ بَيْنِى وَبَيْنَكَ بُعْدَ ٱلْمَشْرِقَيْنِ فَبِئْسَ ٱلْقَرِينُ
 
@@ -18143,11 +18143,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَإِنَّهُۥ لَذِكْرٌۭ لَّكَ وَلِقَوْمِكَ ۖ وَسَوْفَ تُسْـَٔلُونَ
 
-**43:45** Chiedi a quelli tra i Nostri messaggeri che abbiamo inviato prima di te: “Abbiamo stabilito dèi oltre al Beneficente da adorare?”
+**43:45** Chiedi a quelli tra i Nostri messaggeri che abbiamo inviato prima di te: «Abbiamo stabilito dèi oltre al Beneficente da adorare?»
 
 وَسْـَٔلْ مَنْ أَرْسَلْنَا مِن قَبْلِكَ مِن رُّسُلِنَآ أَجَعَلْنَا مِن دُونِ ٱلرَّحْمَٰنِ ءَالِهَةًۭ يُعْبَدُونَ
 
-**43:46** Abbiamo inviato Mosè con le Nostre rivelazioni al Faraone e ai suoi dignitari. Disse: “Sono il Messaggero del Signore dei mondi.”
+**43:46** Abbiamo inviato Mosè con le Nostre rivelazioni al Faraone e ai suoi dignitari. Disse: «Sono il Messaggero del Signore dei mondi.»
 
 وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَآ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَقَالَ إِنِّى رَسُولُ رَبِّ ٱلْعَٰلَمِينَ
 
@@ -18159,7 +18159,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَمَا نُرِيهِم مِّنْ ءَايَةٍ إِلَّا هِىَ أَكْبَرُ مِنْ أُخْتِهَا ۖ وَأَخَذْنَٰهُم بِٱلْعَذَابِ لَعَلَّهُمْ يَرْجِعُونَ
 
-**43:49** Dissero: “O stregone, prega il tuo Signore per noi, secondo il Suo patto con te, e allora saremo guidati.”
+**43:49** Dissero: «O stregone, prega il tuo Signore per noi, secondo il Suo patto con te, e allora saremo guidati.»
 
 وَقَالُوا۟ يَٰٓأَيُّهَ ٱلسَّاحِرُ ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهْتَدُونَ
 
@@ -18167,7 +18167,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلْعَذَابَ إِذَا هُمْ يَنكُثُونَ
 
-**43:51** Il Faraone proclamò tra il suo popolo, dicendo: “O popolo mio, non possiedo forse il Regno d’Egitto, e questi fiumi scorrono sotto di me? Non vedete?
+**43:51** Il Faraone proclamò tra il suo popolo, dicendo: «O popolo mio, non possiedo forse il Regno d’Egitto, e questi fiumi scorrono sotto di me? Non vedete?
 
 وَنَادَىٰ فِرْعَوْنُ فِى قَوْمِهِۦ قَالَ يَٰقَوْمِ أَلَيْسَ لِى مُلْكُ مِصْرَ وَهَٰذِهِ ٱلْأَنْهَٰرُ تَجْرِى مِن تَحْتِىٓ ۖ أَفَلَا تُبْصِرُونَ
 
@@ -18175,7 +18175,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَمْ أَنَا۠ خَيْرٌۭ مِّنْ هَٰذَا ٱلَّذِى هُوَ مَهِينٌۭ وَلَا يَكَادُ يُبِينُ
 
-**43:53** Perché non gli sono stati gettati bracciali d’oro, o gli angeli non sono venuti con lui in processione?”
+**43:53** Perché non gli sono stati gettati bracciali d’oro, o gli angeli non sono venuti con lui in processione?»
 
 فَلَوْلَآ أُلْقِىَ عَلَيْهِ أَسْوِرَةٌۭ مِّن ذَهَبٍ أَوْ جَآءَ مَعَهُ ٱلْمَلَٰٓئِكَةُ مُقْتَرِنِينَ
 
@@ -18195,7 +18195,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ۞ وَلَمَّا ضُرِبَ ٱبْنُ مَرْيَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ
 
-**43:58** Dissero: “I nostri dèi sono migliori, o lui?” Lo citarono solo per discutere. In realtà, sono un popolo litigioso.
+**43:58** Dissero: «I nostri dèi sono migliori, o lui?» Lo citarono solo per discutere. In realtà, sono un popolo litigioso.
 
 وَقَالُوٓا۟ ءَأَٰلِهَتُنَا خَيْرٌ أَمْ هُوَ ۚ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلًۢا ۚ بَلْ هُمْ قَوْمٌ خَصِمُونَ
 
@@ -18215,11 +18215,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَا يَصُدَّنَّكُمُ ٱلشَّيْطَٰنُ ۖ إِنَّهُۥ لَكُمْ عَدُوٌّۭ مُّبِينٌۭ
 
-**43:63** Quando Gesù venne con le chiarificazioni, disse: “Sono venuto a voi con saggezza, e per chiarirvi parte di ciò su cui differite. Temete dunque Dio, e obbediteMi.
+**43:63** Quando Gesù venne con le chiarificazioni, disse: «Sono venuto a voi con saggezza, e per chiarirvi parte di ciò su cui differite. Temete dunque Dio, e obbediteMi.
 
 وَلَمَّا جَآءَ عِيسَىٰ بِٱلْبَيِّنَٰتِ قَالَ قَدْ جِئْتُكُم بِٱلْحِكْمَةِ وَلِأُبَيِّنَ لَكُم بَعْضَ ٱلَّذِى تَخْتَلِفُونَ فِيهِ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ
 
-**43:64** Dio è il mio Signore e il vostro Signore, quindi adorate Lui — questa è una via diritta.”
+**43:64** Dio è il mio Signore e il vostro Signore, quindi adorate Lui — questa è una via diritta.»
 
 إِنَّ ٱللَّهَ هُوَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۚ هَٰذَا صِرَٰطٌۭ مُّسْتَقِيمٌۭ
 
@@ -18271,7 +18271,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَمَا ظَلَمْنَٰهُمْ وَلَٰكِن كَانُوا۟ هُمُ ٱلظَّٰلِمِينَ
 
-**43:77** E grideranno: “O Malek, lascia che il tuo Signore ci finisca.” Dirà: “Voi restate.”
+**43:77** E grideranno: «O Malek, lascia che il tuo Signore ci finisca.» Dirà: «Voi restate.»
 
 وَنَادَوْا۟ يَٰمَٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّٰكِثُونَ
 
@@ -18287,7 +18287,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَمْ يَحْسَبُونَ أَنَّا لَا نَسْمَعُ سِرَّهُمْ وَنَجْوَىٰهُم ۚ بَلَىٰ وَرُسُلُنَا لَدَيْهِمْ يَكْتُبُونَ
 
-**43:81** Di’: “Se il Beneficente avesse un figlio, sarei il primo ad adorarlo.”
+**43:81** Di’: «Se il Beneficente avesse un figlio, sarei il primo ad adorarlo.»
 
 قُلْ إِن كَانَ لِلرَّحْمَٰنِ وَلَدٌۭ فَأَنَا۠ أَوَّلُ ٱلْعَٰبِدِينَ
 
@@ -18311,15 +18311,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلَا يَمْلِكُ ٱلَّذِينَ يَدْعُونَ مِن دُونِهِ ٱلشَّفَٰعَةَ إِلَّا مَن شَهِدَ بِٱلْحَقِّ وَهُمْ يَعْلَمُونَ
 
-**43:87** E se chiedessi loro: “Chi li ha creati?”, direbbero: “Dio.” Perché dunque deviano?
+**43:87** E se chiedessi loro: «Chi li ha creati?», direbbero: «Dio.» Perché dunque deviano?
 
 وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَهُمْ لَيَقُولُنَّ ٱللَّهُ ۖ فَأَنَّىٰ يُؤْفَكُونَ
 
-**43:88** Quanto alla sua affermazione: “Signore mio, questi sono un popolo che non crede.”
+**43:88** Quanto alla sua affermazione: «Signore mio, questi sono un popolo che non crede.»
 
 وَقِيلِهِۦ يَٰرَبِّ إِنَّ هَٰٓؤُلَآءِ قَوْمٌۭ لَّا يُؤْمِنُونَ
 
-**43:89** Perdonali, e di’: “Pace.” Verranno a sapere.
+**43:89** Perdonali, e di’: «Pace.» Verranno a sapere.
 
 فَٱصْفَحْ عَنْهُمْ وَقُلْ سَلَٰمٌۭ ۚ فَسَوْفَ يَعْلَمُونَ
 
@@ -18379,7 +18379,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 يَغْشَى ٱلنَّاسَ ۖ هَٰذَا عَذَابٌ أَلِيمٌۭ
 
-**44:12** “Signore nostro, togli il tormento da noi, noi siamo credenti.”
+**44:12** «Signore nostro, togli il tormento da noi, noi siamo credenti.»
 
 رَّبَّنَا ٱكْشِفْ عَنَّا ٱلْعَذَابَ إِنَّا مُؤْمِنُونَ
 
@@ -18387,7 +18387,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَنَّىٰ لَهُمُ ٱلذِّكْرَىٰ وَقَدْ جَآءَهُمْ رَسُولٌۭ مُّبِينٌۭ
 
-**44:14** Ma si allontanarono da lui, e dissero: “Istruito, ma pazzo!”
+**44:14** Ma si allontanarono da lui, e dissero: «Istruito, ma pazzo!»
 
 ثُمَّ تَوَلَّوْا۟ عَنْهُ وَقَالُوا۟ مُعَلَّمٌۭ مَّجْنُونٌ
 
@@ -18403,11 +18403,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ۞ وَلَقَدْ فَتَنَّا قَبْلَهُمْ قَوْمَ فِرْعَوْنَ وَجَآءَهُمْ رَسُولٌۭ كَرِيمٌ
 
-**44:18** Dicendo: “Consegnatemi i servi di Dio. Sono un messaggero onesto per voi.”
+**44:18** Dicendo: «Consegnatemi i servi di Dio. Sono un messaggero onesto per voi.»
 
 أَنْ أَدُّوٓا۟ إِلَىَّ عِبَادَ ٱللَّهِ ۖ إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ
 
-**44:19** E: “Non esaltatevi sopra Dio. Vengo a voi con un’autorità chiara.
+**44:19** E: «Non esaltatevi sopra Dio. Vengo a voi con un’autorità chiara.
 
 وَأَن لَّا تَعْلُوا۟ عَلَى ٱللَّهِ ۖ إِنِّىٓ ءَاتِيكُم بِسُلْطَٰنٍۢ مُّبِينٍۢ
 
@@ -18415,19 +18415,19 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَإِنِّى عُذْتُ بِرَبِّى وَرَبِّكُمْ أَن تَرْجُمُونِ
 
-**44:21** Ma se non credete in me, state lontani da me.”
+**44:21** Ma se non credete in me, state lontani da me.»
 
 وَإِن لَّمْ تُؤْمِنُوا۟ لِى فَٱعْتَزِلُونِ
 
-**44:22** Fece appello al suo Signore: “Questi sono un popolo peccatore.”
+**44:22** Fece appello al suo Signore: «Questi sono un popolo peccatore.»
 
 فَدَعَا رَبَّهُۥٓ أَنَّ هَٰٓؤُلَآءِ قَوْمٌۭ مُّجْرِمُونَ
 
-**44:23** “Parti con i Miei servi di notte — sarete seguiti.
+**44:23** «Parti con i Miei servi di notte — sarete seguiti.
 
 فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ
 
-**44:24** E attraversa il mare in fretta; sono un esercito destinato ad annegare.”
+**44:24** E attraversa il mare in fretta; sono un esercito destinato ad annegare.»
 
 وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا ۖ إِنَّهُمْ جُندٌۭ مُّغْرَقُونَ
 
@@ -18471,11 +18471,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنَّ هَٰٓؤُلَآءِ لَيَقُولُونَ
 
-**44:35** “Non c’è altro che la nostra prima morte, e non saremo risuscitati.
+**44:35** «Non c’è altro che la nostra prima morte, e non saremo risuscitati.
 
 إِنْ هِىَ إِلَّا مَوْتَتُنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُنشَرِينَ
 
-**44:36** Riportate indietro i nostri antenati, se siete veritieri.”
+**44:36** Riportate indietro i nostri antenati, se siete veritieri.»
 
 فَأْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -18675,15 +18675,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَفَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلْمٍۢ وَخَتَمَ عَلَىٰ سَمْعِهِۦ وَقَلْبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةًۭ فَمَن يَهْدِيهِ مِنۢ بَعْدِ ٱللَّهِ ۚ أَفَلَا تَذَكَّرُونَ
 
-**45:24** E dicono: “Non c’è altro che questa nostra vita presente; moriamo e viviamo, e niente ci distrugge tranne il tempo.” Ma non hanno conoscenza di ciò; stanno solo indovinando.
+**45:24** E dicono: «Non c’è altro che questa nostra vita presente; moriamo e viviamo, e niente ci distrugge tranne il tempo.» Ma non hanno conoscenza di ciò; stanno solo indovinando.
 
 وَقَالُوا۟ مَا هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا يُهْلِكُنَآ إِلَّا ٱلدَّهْرُ ۚ وَمَا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَظُنُّونَ
 
-**45:25** Quando i Nostri Versetti chiarificatori sono recitati a loro, il loro unico argomento è dire: “Riportate indietro i nostri antenati, se siete veritieri.”
+**45:25** Quando i Nostri Versetti chiarificatori sono recitati a loro, il loro unico argomento è dire: «Riportate indietro i nostri antenati, se siete veritieri.»
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ مَّا كَانَ حُجَّتَهُمْ إِلَّآ أَن قَالُوا۟ ٱئْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَٰدِقِينَ
 
-**45:26** Di’: “Dio vi dà vita, poi vi fa morire; poi vi raduna per il Giorno della Risurrezione, su cui non c’è dubbio. Ma la maggior parte delle persone non sa.”
+**45:26** Di’: «Dio vi dà vita, poi vi fa morire; poi vi raduna per il Giorno della Risurrezione, su cui non c’è dubbio. Ma la maggior parte delle persone non sa.»
 
 قُلِ ٱللَّهُ يُحْيِيكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يَجْمَعُكُمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَا رَيْبَ فِيهِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
@@ -18691,11 +18691,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يَوْمَئِذٍۢ يَخْسَرُ ٱلْمُبْطِلُونَ
 
-**45:28** Vedrai ogni comunità sulle sue ginocchia; ogni comunità sarà chiamata al suo Libro: “Oggi siete ripagati per ciò che facevate.
+**45:28** Vedrai ogni comunità sulle sue ginocchia; ogni comunità sarà chiamata al suo Libro: «Oggi siete ripagati per ciò che facevate.
 
 وَتَرَىٰ كُلَّ أُمَّةٍۢ جَاثِيَةًۭ ۚ كُلُّ أُمَّةٍۢ تُدْعَىٰٓ إِلَىٰ كِتَٰبِهَا ٱلْيَوْمَ تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ
 
-**45:29** Questo Nostro Libro parla di voi in verità. Abbiamo trascritto ciò che facevate.”
+**45:29** Questo Nostro Libro parla di voi in verità. Abbiamo trascritto ciò che facevate.»
 
 هَٰذَا كِتَٰبُنَا يَنطِقُ عَلَيْكُم بِٱلْحَقِّ ۚ إِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ
 
@@ -18703,11 +18703,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُدْخِلُهُمْ رَبُّهُمْ فِى رَحْمَتِهِۦ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْمُبِينُ
 
-**45:31** Ma quanto a quelli che non credevano: “Le Mie rivelazioni non vi venivano recitate? Ma diventaste arroganti, e foste un popolo colpevole.”
+**45:31** Ma quanto a quelli che non credevano: «Le Mie rivelazioni non vi venivano recitate? Ma diventaste arroganti, e foste un popolo colpevole.»
 
 وَأَمَّا ٱلَّذِينَ كَفَرُوٓا۟ أَفَلَمْ تَكُنْ ءَايَٰتِى تُتْلَىٰ عَلَيْكُمْ فَٱسْتَكْبَرْتُمْ وَكُنتُمْ قَوْمًۭا مُّجْرِمِينَ
 
-**45:32** E quando fu detto: “La promessa di Dio è vera, e dell’Ora non c’è dubbio”, diceste: “Non sappiamo cosa sia l’Ora; pensiamo sia solo speculazione; non siamo convinti.”
+**45:32** E quando fu detto: «La promessa di Dio è vera, e dell’Ora non c’è dubbio», diceste: «Non sappiamo cosa sia l’Ora; pensiamo sia solo speculazione; non siamo convinti.»
 
 وَإِذَا قِيلَ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ وَٱلسَّاعَةُ لَا رَيْبَ فِيهَا قُلْتُم مَّا نَدْرِى مَا ٱلسَّاعَةُ إِن نَّظُنُّ إِلَّا ظَنًّۭا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ
 
@@ -18715,11 +18715,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَبَدَا لَهُمْ سَيِّـَٔاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**45:34** E sarà detto: “Oggi vi dimentichiamo, come voi dimenticaste l’incontro di questo vostro Giorno. La vostra dimora è il Fuoco, e non ci sono salvatori per voi.
+**45:34** E sarà detto: «Oggi vi dimentichiamo, come voi dimenticaste l’incontro di questo vostro Giorno. La vostra dimora è il Fuoco, e non ci sono salvatori per voi.
 
 وَقِيلَ ٱلْيَوْمَ نَنسَىٰكُمْ كَمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا وَمَأْوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّٰصِرِينَ
 
-**45:35** Questo perché prendeste le rivelazioni di Dio come uno scherzo, e la vita mondana vi sedusse.” Così oggi non saranno fatti uscire da lì, e non sarà loro permesso di pentirsi.
+**45:35** Questo perché prendeste le rivelazioni di Dio come uno scherzo, e la vita mondana vi sedusse.» Così oggi non saranno fatti uscire da lì, e non sarà loro permesso di pentirsi.
 
 ذَٰلِكُم بِأَنَّكُمُ ٱتَّخَذْتُمْ ءَايَٰتِ ٱللَّهِ هُزُوًۭا وَغَرَّتْكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ فَٱلْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَلَا هُمْ يُسْتَعْتَبُونَ
 
@@ -18755,7 +18755,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 مَا خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ وَأَجَلٍۢ مُّسَمًّۭى ۚ وَٱلَّذِينَ كَفَرُوا۟ عَمَّآ أُنذِرُوا۟ مُعْرِضُونَ
 
-**46:4** Di’: “Avete considerato quelli che adorate invece di Dio? Mostratemi quale porzione della terra hanno creato. O possiedono una parte dei cieli? Portatemi una scrittura anteriore a questa, o qualche traccia di conoscenza, se siete veritieri.”
+**46:4** Di’: «Avete considerato quelli che adorate invece di Dio? Mostratemi quale porzione della terra hanno creato. O possiedono una parte dei cieli? Portatemi una scrittura anteriore a questa, o qualche traccia di conoscenza, se siete veritieri.»
 
 قُلْ أَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌۭ فِى ٱلسَّمَٰوَٰتِ ۖ ٱئْتُونِى بِكِتَٰبٍۢ مِّن قَبْلِ هَٰذَآ أَوْ أَثَٰرَةٍۢ مِّنْ عِلْمٍ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -18767,23 +18767,23 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَإِذَا حُشِرَ ٱلنَّاسُ كَانُوا۟ لَهُمْ أَعْدَآءًۭ وَكَانُوا۟ بِعِبَادَتِهِمْ كَٰفِرِينَ
 
-**46:7** Quando le Nostre rivelazioni sono recitate a loro, chiare e semplici, quelli che non credono dicono della verità, quando è giunta a loro: “Questa è chiaramente magia.”
+**46:7** Quando le Nostre rivelazioni sono recitate a loro, chiare e semplici, quelli che non credono dicono della verità, quando è giunta a loro: «Questa è chiaramente magia.»
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلْحَقِّ لَمَّا جَآءَهُمْ هَٰذَا سِحْرٌۭ مُّبِينٌ
 
-**46:8** O dicono: “L’ha inventato lui stesso”? Di’: “Se l’avessi inventato io stesso, non c’è niente che possiate fare per proteggermi da Dio. Lui sa bene in cosa siete impegnati. Lui è testimone sufficiente tra me e voi. Lui è Colui che perdona, il Misericordioso.”
+**46:8** O dicono: «L’ha inventato lui stesso»? Di’: «Se l’avessi inventato io stesso, non c’è niente che possiate fare per proteggermi da Dio. Lui sa bene in cosa siete impegnati. Lui è testimone sufficiente tra me e voi. Lui è Colui che perdona, il Misericordioso.»
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَلَا تَمْلِكُونَ لِى مِنَ ٱللَّهِ شَيْـًٔا ۖ هُوَ أَعْلَمُ بِمَا تُفِيضُونَ فِيهِ ۖ كَفَىٰ بِهِۦ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۖ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
-**46:9** Di’: “Non sono diverso dagli altri messaggeri; e non so cosa sarà fatto di me, o di voi. Seguo solo ciò che mi è ispirato, e sono solo un ammonitore chiaro.”
+**46:9** Di’: «Non sono diverso dagli altri messaggeri; e non so cosa sarà fatto di me, o di voi. Seguo solo ciò che mi è ispirato, e sono solo un ammonitore chiaro.»
 
 قُلْ مَا كُنتُ بِدْعًۭا مِّنَ ٱلرُّسُلِ وَمَآ أَدْرِى مَا يُفْعَلُ بِى وَلَا بِكُمْ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ وَمَآ أَنَا۠ إِلَّا نَذِيرٌۭ مُّبِينٌۭ
 
-**46:10** Di’: “Avete considerato? E se viene da Dio e voi non ci credete? Un testimone dei Figli di Israele ha testimoniato il suo simile, e ha creduto, mentre voi diventaste arroganti. Dio non guida le persone ingiuste.”
+**46:10** Di’: «Avete considerato? E se viene da Dio e voi non ci credete? Un testimone dei Figli di Israele ha testimoniato il suo simile, e ha creduto, mentre voi diventaste arroganti. Dio non guida le persone ingiuste.»
 
 قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ وَكَفَرْتُم بِهِۦ وَشَهِدَ شَاهِدٌۭ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ عَلَىٰ مِثْلِهِۦ فَـَٔامَنَ وَٱسْتَكْبَرْتُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**46:11** Quelli che non credono dicono a quelli che credono: “Se fosse qualcosa di buono, non ci avrebbero preceduto ad esso.” E poiché non furono guidati da esso, diranno: “Questa è un’antica menzogna.”
+**46:11** Quelli che non credono dicono a quelli che credono: «Se fosse qualcosa di buono, non ci avrebbero preceduto ad esso.» E poiché non furono guidati da esso, diranno: «Questa è un’antica menzogna.»
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ لَوْ كَانَ خَيْرًۭا مَّا سَبَقُونَآ إِلَيْهِ ۚ وَإِذْ لَمْ يَهْتَدُوا۟ بِهِۦ فَسَيَقُولُونَ هَٰذَآ إِفْكٌۭ قَدِيمٌۭ
 
@@ -18791,7 +18791,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَمِن قَبْلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامًۭا وَرَحْمَةًۭ ۚ وَهَٰذَا كِتَٰبٌۭ مُّصَدِّقٌۭ لِّسَانًا عَرَبِيًّۭا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُوا۟ وَبُشْرَىٰ لِلْمُحْسِنِينَ
 
-**46:13** Quelli che dicono: “Il nostro Signore è Dio”, poi conducono una vita giusta — non hanno nulla da temere, né si rattristeranno.
+**46:13** Quelli che dicono: «Il nostro Signore è Dio», poi conducono una vita giusta — non hanno nulla da temere, né si rattristeranno.
 
 إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَٰمُوا۟ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
@@ -18799,7 +18799,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ خَٰلِدِينَ فِيهَا جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**46:15** Abbiamo ingiunto all’uomo la gentilezza verso i suoi genitori. Sua madre lo ha portato con difficoltà, e lo ha partorito con difficoltà. Il suo portarlo e il suo svezzamento durano trenta mesi. Finché, quando ha raggiunto la sua maturità, e ha raggiunto quarant’anni, dice: “Signore, permettimi di apprezzare le benedizioni che hai concesso a me e ai miei genitori, e di agire con giustizia, compiacendoTi. E migliora i miei figli per me. Mi sono pentito sinceramente a Te, e sono tra quelli che si sono sottomessi.”
+**46:15** Abbiamo ingiunto all’uomo la gentilezza verso i suoi genitori. Sua madre lo ha portato con difficoltà, e lo ha partorito con difficoltà. Il suo portarlo e il suo svezzamento durano trenta mesi. Finché, quando ha raggiunto la sua maturità, e ha raggiunto quarant’anni, dice: «Signore, permettimi di apprezzare le benedizioni che hai concesso a me e ai miei genitori, e di agire con giustizia, compiacendoTi. E migliora i miei figli per me. Mi sono pentito sinceramente a Te, e sono tra quelli che si sono sottomessi.»
 
 وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ إِحْسَٰنًا ۖ حَمَلَتْهُ أُمُّهُۥ كُرْهًۭا وَوَضَعَتْهُ كُرْهًۭا ۖ وَحَمْلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ شَهْرًا ۚ حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرْبَعِينَ سَنَةًۭ قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًۭا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ ۖ إِنِّى تُبْتُ إِلَيْكَ وَإِنِّى مِنَ ٱلْمُسْلِمِينَ
 
@@ -18807,7 +18807,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ نَتَقَبَّلُ عَنْهُمْ أَحْسَنَ مَا عَمِلُوا۟ وَنَتَجَاوَزُ عَن سَيِّـَٔاتِهِمْ فِىٓ أَصْحَٰبِ ٱلْجَنَّةِ ۖ وَعْدَ ٱلصِّدْقِ ٱلَّذِى كَانُوا۟ يُوعَدُونَ
 
-**46:17** Quanto a colui che dice ai suoi genitori: “Basta con voi! Mi promettete che sarò risuscitato, quando generazioni sono già passate prima di me?” Mentre essi gridano per l’aiuto di Dio: “Guai a te! Credi! La promessa di Dio è vera!” Ma lui dice: “Queste non sono altro che favole degli antichi.”
+**46:17** Quanto a colui che dice ai suoi genitori: «Basta con voi! Mi promettete che sarò risuscitato, quando generazioni sono già passate prima di me?» Mentre essi gridano per l’aiuto di Dio: «Guai a te! Credi! La promessa di Dio è vera!» Ma lui dice: «Queste non sono altro che favole degli antichi.»
 
 وَٱلَّذِى قَالَ لِوَٰلِدَيْهِ أُفٍّۢ لَّكُمَآ أَتَعِدَانِنِىٓ أَنْ أُخْرَجَ وَقَدْ خَلَتِ ٱلْقُرُونُ مِن قَبْلِى وَهُمَا يَسْتَغِيثَانِ ٱللَّهَ وَيْلَكَ ءَامِنْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ فَيَقُولُ مَا هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
@@ -18819,23 +18819,23 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلِكُلٍّۢ دَرَجَٰتٌۭ مِّمَّا عَمِلُوا۟ ۖ وَلِيُوَفِّيَهُمْ أَعْمَٰلَهُمْ وَهُمْ لَا يُظْلَمُونَ
 
-**46:20** Il Giorno in cui i miscredenti saranno sfilati davanti al Fuoco: “Avete sprecato il vostro bene nella vostra vita mondana, e ne avete goduto. Così oggi siete ripagati con il tormento della vergogna, a causa della vostra arroganza ingiusta sulla terra, e perché peccavate.”
+**46:20** Il Giorno in cui i miscredenti saranno sfilati davanti al Fuoco: «Avete sprecato il vostro bene nella vostra vita mondana, e ne avete goduto. Così oggi siete ripagati con il tormento della vergogna, a causa della vostra arroganza ingiusta sulla terra, e perché peccavate.»
 
 وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَذْهَبْتُمْ طَيِّبَٰتِكُمْ فِى حَيَاتِكُمُ ٱلدُّنْيَا وَٱسْتَمْتَعْتُم بِهَا فَٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَسْتَكْبِرُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَبِمَا كُنتُمْ تَفْسُقُونَ
 
-**46:21** E menziona il fratello degli Aad, quando avvertì il suo popolo alle dune. Avvertimenti sono passati prima di lui, e dopo di lui: “Non adorate nessuno tranne Dio; temo per voi il castigo di un Giorno tremendo.”
+**46:21** E menziona il fratello degli Aad, quando avvertì il suo popolo alle dune. Avvertimenti sono passati prima di lui, e dopo di lui: «Non adorate nessuno tranne Dio; temo per voi il castigo di un Giorno tremendo.»
 
 ۞ وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦٓ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍۢ
 
-**46:22** Dissero: “Sei venuto da noi per allontanarci dai nostri dèi? Portaci dunque ciò con cui ci minacci, se sei veritiero.”
+**46:22** Dissero: «Sei venuto da noi per allontanarci dai nostri dèi? Portaci dunque ciò con cui ci minacci, se sei veritiero.»
 
 قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 
-**46:23** Disse: “La conoscenza è solo presso Dio, e vi informo di ciò con cui sono stato inviato; ma vedo che siete un popolo ignorante.”
+**46:23** Disse: «La conoscenza è solo presso Dio, e vi informo di ciò con cui sono stato inviato; ma vedo che siete un popolo ignorante.»
 
 قَالَ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَأُبَلِّغُكُم مَّآ أُرْسِلْتُ بِهِۦ وَلَٰكِنِّىٓ أَرَىٰكُمْ قَوْمًۭا تَجْهَلُونَ
 
-**46:24** Poi, quando videro una nuvola avvicinarsi alla loro valle, dissero: “Questa è una nuvola che ci porterà pioggia.” “In realtà, è ciò per cui eravate impazienti: un vento in cui c’è una sofferenza grave.”
+**46:24** Poi, quando videro una nuvola avvicinarsi alla loro valle, dissero: «Questa è una nuvola che ci porterà pioggia.» «In realtà, è ciò per cui eravate impazienti: un vento in cui c’è una sofferenza grave.»
 
 فَلَمَّا رَأَوْهُ عَارِضًۭا مُّسْتَقْبِلَ أَوْدِيَتِهِمْ قَالُوا۟ هَٰذَا عَارِضٌۭ مُّمْطِرُنَا ۚ بَلْ هُوَ مَا ٱسْتَعْجَلْتُم بِهِۦ ۖ رِيحٌۭ فِيهَا عَذَابٌ أَلِيمٌۭ
 
@@ -18855,15 +18855,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَلَوْلَا نَصَرَهُمُ ٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ قُرْبَانًا ءَالِهَةًۢ ۖ بَلْ ضَلُّوا۟ عَنْهُمْ ۚ وَذَٰلِكَ إِفْكُهُمْ وَمَا كَانُوا۟ يَفْتَرُونَ
 
-**46:29** Ricorda quando indirizzammo verso di te un numero di jinn, per ascoltare il Corano. Quando vennero alla sua presenza, dissero: “State attenti!” Poi, quando fu concluso, si precipitarono dal loro popolo, avvertendoli.
+**46:29** Ricorda quando indirizzammo verso di te un numero di jinn, per ascoltare il Corano. Quando vennero alla sua presenza, dissero: «State attenti!» Poi, quando fu concluso, si precipitarono dal loro popolo, avvertendoli.
 
 وَإِذْ صَرَفْنَآ إِلَيْكَ نَفَرًۭا مِّنَ ٱلْجِنِّ يَسْتَمِعُونَ ٱلْقُرْءَانَ فَلَمَّا حَضَرُوهُ قَالُوٓا۟ أَنصِتُوا۟ ۖ فَلَمَّا قُضِىَ وَلَّوْا۟ إِلَىٰ قَوْمِهِم مُّنذِرِينَ
 
-**46:30** Dissero: “O popolo nostro, abbiamo ascoltato una Scrittura, fatta scendere dopo Mosè, che conferma ciò che venne prima di essa. Guida alla verità, e a una via diritta.
+**46:30** Dissero: «O popolo nostro, abbiamo ascoltato una Scrittura, fatta scendere dopo Mosè, che conferma ciò che venne prima di essa. Guida alla verità, e a una via diritta.
 
 قَالُوا۟ يَٰقَوْمَنَآ إِنَّا سَمِعْنَا كِتَٰبًا أُنزِلَ مِنۢ بَعْدِ مُوسَىٰ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ يَهْدِىٓ إِلَى ٱلْحَقِّ وَإِلَىٰ طَرِيقٍۢ مُّسْتَقِيمٍۢ
 
-**46:31** O popolo nostro! Rispondete a chi chiama a Dio, e credete in Lui; e Lui vi perdonerà i vostri peccati, e vi salverà da un castigo doloroso.”
+**46:31** O popolo nostro! Rispondete a chi chiama a Dio, e credete in Lui; e Lui vi perdonerà i vostri peccati, e vi salverà da un castigo doloroso.»
 
 يَٰقَوْمَنَآ أَجِيبُوا۟ دَاعِىَ ٱللَّهِ وَءَامِنُوا۟ بِهِۦ يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُجِرْكُم مِّنْ عَذَابٍ أَلِيمٍۢ
 
@@ -18875,7 +18875,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَمْ يَعْىَ بِخَلْقِهِنَّ بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ ۚ بَلَىٰٓ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**46:34** Il Giorno in cui quelli che non hanno creduto saranno presentati al Fuoco: “Questo non è reale?” Diranno: “Sì, in verità, per il nostro Signore.” Dirà: “Gustate dunque la sofferenza per aver non creduto.”
+**46:34** Il Giorno in cui quelli che non hanno creduto saranno presentati al Fuoco: «Questo non è reale?» Diranno: «Sì, in verità, per il nostro Signore.» Dirà: «Gustate dunque la sofferenza per aver non creduto.»
 
 وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَلَيْسَ هَٰذَا بِٱلْحَقِّ ۖ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
 
@@ -18955,7 +18955,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ ۖ فِيهَآ أَنْهَٰرٌۭ مِّن مَّآءٍ غَيْرِ ءَاسِنٍۢ وَأَنْهَٰرٌۭ مِّن لَّبَنٍۢ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَٰرٌۭ مِّنْ خَمْرٍۢ لَّذَّةٍۢ لِّلشَّٰرِبِينَ وَأَنْهَٰرٌۭ مِّنْ عَسَلٍۢ مُّصَفًّۭى ۖ وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌۭ مِّن رَّبِّهِمْ ۖ كَمَنْ هُوَ خَٰلِدٌۭ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًۭا فَقَطَّعَ أَمْعَآءَهُمْ
 
-**47:16** Tra loro ci sono quelli che ti ascoltano, ma quando lasciano la tua presenza, dicono a quelli a cui è stata data conoscenza: “Cosa ha appena detto?” Quelli sono coloro i cui cuori Dio ha sigillato, e seguono i loro desideri.
+**47:16** Tra loro ci sono quelli che ti ascoltano, ma quando lasciano la tua presenza, dicono a quelli a cui è stata data conoscenza: «Cosa ha appena detto?» Quelli sono coloro i cui cuori Dio ha sigillato, e seguono i loro desideri.
 
 وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ حَتَّىٰٓ إِذَا خَرَجُوا۟ مِنْ عِندِكَ قَالُوا۟ لِلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مَاذَا قَالَ ءَانِفًا ۚ أُو۟لَٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ
 
@@ -18971,7 +18971,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَٱعْلَمْ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱللَّهُ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ ۗ وَٱللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَىٰكُمْ
 
-**47:20** Quelli che credono dicono: “Se solo fosse fatto scendere un capitolo.” Eppure quando un capitolo decisivo è fatto scendere, e in esso è menzionato il combattimento, vedi quelli nei cui cuori c’è malattia guardarti con lo sguardo di chi sviene alla morte. Guai a loro dunque!
+**47:20** Quelli che credono dicono: «Se solo fosse fatto scendere un capitolo.» Eppure quando un capitolo decisivo è fatto scendere, e in esso è menzionato il combattimento, vedi quelli nei cui cuori c’è malattia guardarti con lo sguardo di chi sviene alla morte. Guai a loro dunque!
 
 وَيَقُولُ ٱلَّذِينَ ءَامَنُوا۟ لَوْلَا نُزِّلَتْ سُورَةٌۭ ۖ فَإِذَآ أُنزِلَتْ سُورَةٌۭ مُّحْكَمَةٌۭ وَذُكِرَ فِيهَا ٱلْقِتَالُ ۙ رَأَيْتَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِىِّ عَلَيْهِ مِنَ ٱلْمَوْتِ ۖ فَأَوْلَىٰ لَهُمْ
 
@@ -18995,7 +18995,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنَّ ٱلَّذِينَ ٱرْتَدُّوا۟ عَلَىٰٓ أَدْبَٰرِهِم مِّنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْهُدَى ۙ ٱلشَّيْطَٰنُ سَوَّلَ لَهُمْ وَأَمْلَىٰ لَهُمْ
 
-**47:26** Questo perché dissero a quelli che odiarono ciò che Dio ha rivelato: “Vi obbediremo in certe questioni.” Ma Dio conosce i loro pensieri segreti.
+**47:26** Questo perché dissero a quelli che odiarono ciò che Dio ha rivelato: «Vi obbediremo in certe questioni.» Ma Dio conosce i loro pensieri segreti.
 
 ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لِلَّذِينَ كَرِهُوا۟ مَا نَزَّلَ ٱللَّهُ سَنُطِيعُكُمْ فِى بَعْضِ ٱلْأَمْرِ ۖ وَٱللَّهُ يَعْلَمُ إِسْرَارَهُمْ
 
@@ -19099,7 +19099,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ ۖ وَمَنْ أَوْفَىٰ بِمَا عَٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًۭا
 
-**48:11** Gli Arabi del Deserto che rimasero indietro ti diranno: “I nostri beni e le nostre famiglie ci hanno preoccupato, chiedi dunque perdono per noi.” Dicono con le loro lingue ciò che non è nei loro cuori. Di’: “Chi può giovarvi in qualcosa contro Dio, se Lui desidera una perdita per voi, o desidera un guadagno per voi?” In realtà, Dio è Informato di ciò che fate.
+**48:11** Gli Arabi del Deserto che rimasero indietro ti diranno: «I nostri beni e le nostre famiglie ci hanno preoccupato, chiedi dunque perdono per noi.» Dicono con le loro lingue ciò che non è nei loro cuori. Di’: «Chi può giovarvi in qualcosa contro Dio, se Lui desidera una perdita per voi, o desidera un guadagno per voi?» In realtà, Dio è Informato di ciò che fate.
 
 سَيَقُولُ لَكَ ٱلْمُخَلَّفُونَ مِنَ ٱلْأَعْرَابِ شَغَلَتْنَآ أَمْوَٰلُنَا وَأَهْلُونَا فَٱسْتَغْفِرْ لَنَا ۚ يَقُولُونَ بِأَلْسِنَتِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ ۚ قُلْ فَمَن يَمْلِكُ لَكُم مِّنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًۢا ۚ بَلْ كَانَ ٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرًۢا
 
@@ -19115,11 +19115,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا
 
-**48:15** Quelli che rimasero indietro diranno, quando partirete per raccogliere i guadagni: “Lasciateci seguirvi.” Vogliono cambiare la Parola di Dio. Di’: “Non ci seguirete; Dio lo ha detto prima.” Poi diranno: “Ma voi siete gelosi di noi.” In realtà, capiscono solo poco.
+**48:15** Quelli che rimasero indietro diranno, quando partirete per raccogliere i guadagni: «Lasciateci seguirvi.» Vogliono cambiare la Parola di Dio. Di’: «Non ci seguirete; Dio lo ha detto prima.» Poi diranno: «Ma voi siete gelosi di noi.» In realtà, capiscono solo poco.
 
 سَيَقُولُ ٱلْمُخَلَّفُونَ إِذَا ٱنطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ ۖ يُرِيدُونَ أَن يُبَدِّلُوا۟ كَلَٰمَ ٱللَّهِ ۚ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ ٱللَّهُ مِن قَبْلُ ۖ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا ۚ بَلْ كَانُوا۟ لَا يَفْقَهُونَ إِلَّا قَلِيلًۭا
 
-**48:16** Di’ agli Arabi del Deserto che rimasero indietro: “Sarete chiamati contro un popolo di grande potenza; li combatterete, a meno che si sottomettano. Se obbedite, Dio vi darà una buona ricompensa. Ma se vi allontanate, come vi allontanaste prima, Lui vi punirà con un castigo doloroso.”
+**48:16** Di’ agli Arabi del Deserto che rimasero indietro: «Sarete chiamati contro un popolo di grande potenza; li combatterete, a meno che si sottomettano. Se obbedite, Dio vi darà una buona ricompensa. Ma se vi allontanate, come vi allontanaste prima, Lui vi punirà con un castigo doloroso.»
 
 قُل لِّلْمُخَلَّفِينَ مِنَ ٱلْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُو۟لِى بَأْسٍۢ شَدِيدٍۢ تُقَٰتِلُونَهُمْ أَوْ يُسْلِمُونَ ۖ فَإِن تُطِيعُوا۟ يُؤْتِكُمُ ٱللَّهُ أَجْرًا حَسَنًۭا ۖ وَإِن تَتَوَلَّوْا۟ كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًۭا
 
@@ -19163,7 +19163,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِذْ جَعَلَ ٱلَّذِينَ كَفَرُوا۟ فِى قُلُوبِهِمُ ٱلْحَمِيَّةَ حَمِيَّةَ ٱلْجَٰهِلِيَّةِ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ ٱلتَّقْوَىٰ وَكَانُوٓا۟ أَحَقَّ بِهَا وَأَهْلَهَا ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًۭا
 
-**48:27** Dio ha adempiuto in verità la visione del Suo Messaggero: “Entrerete nella Moschea Sacra, se Dio vuole, in sicurezza, con le teste rasate, o i capelli tagliati corti, senza temere. Lui sapeva ciò che voi non sapevate, e ha concesso oltre a ciò una vittoria imminente.”
+**48:27** Dio ha adempiuto in verità la visione del Suo Messaggero: «Entrerete nella Moschea Sacra, se Dio vuole, in sicurezza, con le teste rasate, o i capelli tagliati corti, senza temere. Lui sapeva ciò che voi non sapevate, e ha concesso oltre a ciò una vittoria imminente.»
 
 لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ ۖ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ ۖ فَعَلِمَ مَا لَمْ تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًۭا قَرِيبًا
 
@@ -19239,7 +19239,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَٰكُم مِّن ذَكَرٍۢ وَأُنثَىٰ وَجَعَلْنَٰكُمْ شُعُوبًۭا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۭ
 
-**49:14** Gli Arabi del Deserto dicono: “Abbiamo creduto.” Di’: “Non avete creduto; ma dite: ‘Ci siamo sottomessi,’ perché la fede non è ancora entrata nei vostri cuori. Ma se obbedite a Dio e al Suo Messaggero, Lui non diminuirà nessuna delle vostre opere. Dio è Perdonatore e Misericordioso.”
+**49:14** Gli Arabi del Deserto dicono: «Abbiamo creduto.» Di’: «Non avete creduto; ma dite: ‘Ci siamo sottomessi,’ perché la fede non è ancora entrata nei vostri cuori. Ma se obbedite a Dio e al Suo Messaggero, Lui non diminuirà nessuna delle vostre opere. Dio è Perdonatore e Misericordioso.»
 
 ۞ قَالَتِ ٱلْأَعْرَابُ ءَامَنَّا ۖ قُل لَّمْ تُؤْمِنُوا۟ وَلَٰكِن قُولُوٓا۟ أَسْلَمْنَا وَلَمَّا يَدْخُلِ ٱلْإِيمَٰنُ فِى قُلُوبِكُمْ ۖ وَإِن تُطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ لَا يَلِتْكُم مِّنْ أَعْمَٰلِكُمْ شَيْـًٔا ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ
 
@@ -19247,11 +19247,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ لَمْ يَرْتَابُوا۟ وَجَٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ ۚ أُو۟لَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ
 
-**49:16** Di’: “Insegnerete a Dio la vostra religione, quando Dio sa tutto ciò che è nei cieli e sulla terra, e Dio è consapevole di ogni cosa?”
+**49:16** Di’: «Insegnerete a Dio la vostra religione, quando Dio sa tutto ciò che è nei cieli e sulla terra, e Dio è consapevole di ogni cosa?»
 
 قُلْ أَتُعَلِّمُونَ ٱللَّهَ بِدِينِكُمْ وَٱللَّهُ يَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ
 
-**49:17** Essi lo considerarono un favore per te che si fossero sottomessi. Di’: “Non considerate la vostra sottomissione un favore per me; è Dio che vi ha fatto un favore guidandovi alla fede, se siete sinceri.”
+**49:17** Essi lo considerarono un favore per te che si fossero sottomessi. Di’: «Non considerate la vostra sottomissione un favore per me; è Dio che vi ha fatto un favore guidandovi alla fede, se siete sinceri.»
 
 يَمُنُّونَ عَلَيْكَ أَنْ أَسْلَمُوا۟ ۖ قُل لَّا تَمُنُّوا۟ عَلَىَّ إِسْلَٰمَكُم ۖ بَلِ ٱللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَىٰكُمْ لِلْإِيمَٰنِ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -19275,11 +19275,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 قٓ ۚ وَٱلْقُرْءَانِ ٱلْمَجِيدِ
 
-**50:2** Si meravigliarono che un ammonitore fosse venuto a loro tra loro. I miscredenti dicono: “Questa è una cosa strana.
+**50:2** Si meravigliarono che un ammonitore fosse venuto a loro tra loro. I miscredenti dicono: «Questa è una cosa strana.
 
 بَلْ عَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌۭ مِّنْهُمْ فَقَالَ ٱلْكَٰفِرُونَ هَٰذَا شَىْءٌ عَجِيبٌ
 
-**50:3** Quando saremo morti e diventati polvere? Questo è un ritorno inverosimile.”
+**50:3** Quando saremo morti e diventati polvere? Questo è un ritorno inverosimile.»
 
 أَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا ۖ ذَٰلِكَ رَجْعٌۢ بَعِيدٌۭ
 
@@ -19343,11 +19343,11 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌۭ
 
-**50:19** Lo stordimento della morte è venuto in verità: “Questo è ciò che cercavi di evitare.”
+**50:19** Lo stordimento della morte è venuto in verità: «Questo è ciò che cercavi di evitare.»
 
 وَجَآءَتْ سَكْرَةُ ٱلْمَوْتِ بِٱلْحَقِّ ۖ ذَٰلِكَ مَا كُنتَ مِنْهُ تَحِيدُ
 
-**50:20** E la Tromba è soffiata: “Questo è il Giorno Promesso.”
+**50:20** E la Tromba è soffiata: «Questo è il Giorno Promesso.»
 
 وَنُفِخَ فِى ٱلصُّورِ ۚ ذَٰلِكَ يَوْمُ ٱلْوَعِيدِ
 
@@ -19355,15 +19355,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَجَآءَتْ كُلُّ نَفْسٍۢ مَّعَهَا سَآئِقٌۭ وَشَهِيدٌۭ
 
-**50:22** “Eri in negligenza di questo, così abbiamo sollevato il tuo schermo da te, e la tua vista oggi è acuta.”
+**50:22** «Eri in negligenza di questo, così abbiamo sollevato il tuo schermo da te, e la tua vista oggi è acuta.»
 
 لَّقَدْ كُنتَ فِى غَفْلَةٍۢ مِّنْ هَٰذَا فَكَشَفْنَا عَنكَ غِطَآءَكَ فَبَصَرُكَ ٱلْيَوْمَ حَدِيدٌۭ
 
-**50:23** E la sua scorta dirà: “Questo è ciò che ho pronto con me.”
+**50:23** E la sua scorta dirà: «Questo è ciò che ho pronto con me.»
 
 وَقَالَ قَرِينُهُۥ هَٰذَا مَا لَدَىَّ عَتِيدٌ
 
-**50:24** “Gettate nell’Inferno ogni miscredente ostinato.
+**50:24** «Gettate nell’Inferno ogni miscredente ostinato.
 
 أَلْقِيَا فِى جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍۢ
 
@@ -19371,23 +19371,23 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 مَّنَّاعٍۢ لِّلْخَيْرِ مُعْتَدٍۢ مُّرِيبٍ
 
-**50:26** Che ha fabbricato un altro dio con Dio; gettatelo nel tormento intenso.”
+**50:26** Che ha fabbricato un altro dio con Dio; gettatelo nel tormento intenso.»
 
 ٱلَّذِى جَعَلَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَأَلْقِيَاهُ فِى ٱلْعَذَابِ ٱلشَّدِيدِ
 
-**50:27** La sua scorta dirà: “Signore nostro, non l’ho fatto ribellare, ma era molto sviato.”
+**50:27** La sua scorta dirà: «Signore nostro, non l’ho fatto ribellare, ma era molto sviato.»
 
 ۞ قَالَ قَرِينُهُۥ رَبَّنَا مَآ أَطْغَيْتُهُۥ وَلَٰكِن كَانَ فِى ضَلَٰلٍۭ بَعِيدٍۢ
 
-**50:28** Dirà: “Non litigate alla Mia presenza — vi avevo avvertiti in anticipo.
+**50:28** Dirà: «Non litigate alla Mia presenza — vi avevo avvertiti in anticipo.
 
 قَالَ لَا تَخْتَصِمُوا۟ لَدَىَّ وَقَدْ قَدَّمْتُ إِلَيْكُم بِٱلْوَعِيدِ
 
-**50:29** Il decreto da Me non sarà cambiato, e non sono ingiusto verso i servi.”
+**50:29** Il decreto da Me non sarà cambiato, e non sono ingiusto verso i servi.»
 
 مَا يُبَدَّلُ ٱلْقَوْلُ لَدَىَّ وَمَآ أَنَا۠ بِظَلَّٰمٍۢ لِّلْعَبِيدِ
 
-**50:30** Il Giorno in cui diremo all’Inferno: “Sei pieno?” E dirà: “Ce ne sono altri?”
+**50:30** Il Giorno in cui diremo all’Inferno: «Sei pieno?» E dirà: «Ce ne sono altri?»
 
 يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍۢ
 
@@ -19395,7 +19395,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَأُزْلِفَتِ ٱلْجَنَّةُ لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ
 
-**50:32** “Questo è ciò che vi era stato promesso — per ogni penitente attento.
+**50:32** «Questo è ciò che vi era stato promesso — per ogni penitente attento.
 
 هَٰذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٍۢ
 
@@ -19403,7 +19403,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 مَّنْ خَشِىَ ٱلرَّحْمَٰنَ بِٱلْغَيْبِ وَجَآءَ بِقَلْبٍۢ مُّنِيبٍ
 
-**50:34** Entrateci in pace. Questo è il Giorno dell’Eternità.”
+**50:34** Entrateci in pace. Questo è il Giorno dell’Eternità.»
 
 ٱدْخُلُوهَا بِسَلَٰمٍۢ ۖ ذَٰلِكَ يَوْمُ ٱلْخُلُودِ
 
@@ -19507,7 +19507,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ٱلَّذِينَ هُمْ فِى غَمْرَةٍۢ سَاهُونَ
 
-**51:12** Chiedono: “Quando è il Giorno del Giudizio?”
+**51:12** Chiedono: «Quando è il Giorno del Giudizio?»
 
 يَسْـَٔلُونَ أَيَّانَ يَوْمُ ٱلدِّينِ
 
@@ -19515,7 +19515,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 يَوْمَ هُمْ عَلَى ٱلنَّارِ يُفْتَنُونَ
 
-**51:14** “Gustate la vostra prova. Questo è ciò che sfidavate.”
+**51:14** «Gustate la vostra prova. Questo è ciò che sfidavate.»
 
 ذُوقُوا۟ فِتْنَتَكُمْ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تَسْتَعْجِلُونَ
 
@@ -19559,7 +19559,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 هَلْ أَتَىٰكَ حَدِيثُ ضَيْفِ إِبْرَٰهِيمَ ٱلْمُكْرَمِينَ
 
-**51:25** Quando entrarono da lui, dissero: “Pace.” Disse: “Pace, stranieri.”
+**51:25** Quando entrarono da lui, dissero: «Pace.» Disse: «Pace, stranieri.»
 
 إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَٰمًۭا ۖ قَالَ سَلَٰمٌۭ قَوْمٌۭ مُّنكَرُونَ
 
@@ -19567,35 +19567,35 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَرَاغَ إِلَىٰٓ أَهْلِهِۦ فَجَآءَ بِعِجْلٍۢ سَمِينٍۢ
 
-**51:27** Lo pose davanti a loro. Disse: “Non mangiate?”
+**51:27** Lo pose davanti a loro. Disse: «Non mangiate?»
 
 فَقَرَّبَهُۥٓ إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ
 
-**51:28** E nutrì timore per loro. Dissero: “Non temere”, e gli annunciarono la buona notizia di un ragazzo sapiente.
+**51:28** E nutrì timore per loro. Dissero: «Non temere», e gli annunciarono la buona notizia di un ragazzo sapiente.
 
 فَأَوْجَسَ مِنْهُمْ خِيفَةًۭ ۖ قَالُوا۟ لَا تَخَفْ ۖ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍۢ
 
-**51:29** Sua moglie venne avanti piangendo. Si strinse il volto, e disse: “Una vecchia sterile?”
+**51:29** Sua moglie venne avanti piangendo. Si strinse il volto, e disse: «Una vecchia sterile?»
 
 فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍۢ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌۭ
 
-**51:30** Dissero: “Così ha parlato il tuo Signore. Lui è il Saggio, il Sapiente.”
+**51:30** Dissero: «Così ha parlato il tuo Signore. Lui è il Saggio, il Sapiente.»
 
 قَالُوا۟ كَذَٰلِكِ قَالَ رَبُّكِ ۖ إِنَّهُۥ هُوَ ٱلْحَكِيمُ ٱلْعَلِيمُ
 
-**51:31** Disse: “Qual è il vostro compito, o inviati?”
+**51:31** Disse: «Qual è il vostro compito, o inviati?»
 
 ۞ قَالَ فَمَا خَطْبُكُمْ أَيُّهَا ٱلْمُرْسَلُونَ
 
-**51:32** Dissero: “Siamo inviati a un popolo colpevole di peccato.”
+**51:32** Dissero: «Siamo inviati a un popolo colpevole di peccato.»
 
 قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍۢ مُّجْرِمِينَ
 
-**51:33** “Per scatenare su di loro rocce di argilla.”
+**51:33** «Per scatenare su di loro rocce di argilla.»
 
 لِنُرْسِلَ عَلَيْهِمْ حِجَارَةًۭ مِّن طِينٍۢ
 
-**51:34** “Segnate dal tuo Signore per gli eccessivi.”
+**51:34** «Segnate dal tuo Signore per gli eccessivi.»
 
 مُّسَوَّمَةً عِندَ رَبِّكَ لِلْمُسْرِفِينَ
 
@@ -19615,7 +19615,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَفِى مُوسَىٰٓ إِذْ أَرْسَلْنَٰهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَٰنٍۢ مُّبِينٍۢ
 
-**51:39** Ma si allontanò con i suoi signori della guerra, e disse: “Uno stregone o un pazzo.”
+**51:39** Ma si allontanò con i suoi signori della guerra, e disse: «Uno stregone o un pazzo.»
 
 فَتَوَلَّىٰ بِرُكْنِهِۦ وَقَالَ سَٰحِرٌ أَوْ مَجْنُونٌۭ
 
@@ -19631,7 +19631,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 مَا تَذَرُ مِن شَىْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَٱلرَّمِيمِ
 
-**51:43** E nei Thamood. Fu loro detto: “Godetevi per un po’.”
+**51:43** E nei Thamood. Fu loro detto: «Godetevi per un po’.»
 
 وَفِى ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا۟ حَتَّىٰ حِينٍۢ
 
@@ -19659,15 +19659,15 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَمِن كُلِّ شَىْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ
 
-**51:50** “Fuggite dunque verso Dio. Io sono per voi da Lui un ammonitore chiaro.”
+**51:50** «Fuggite dunque verso Dio. Io sono per voi da Lui un ammonitore chiaro.»
 
 فَفِرُّوٓا۟ إِلَى ٱللَّهِ ۖ إِنِّى لَكُم مِّنْهُ نَذِيرٌۭ مُّبِينٌۭ
 
-**51:51** “E non stabilite alcun altro dio con Dio. Io sono per voi da Lui un ammonitore chiaro.”
+**51:51** «E non stabilite alcun altro dio con Dio. Io sono per voi da Lui un ammonitore chiaro.»
 
 وَلَا تَجْعَلُوا۟ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ ۖ إِنِّى لَكُم مِّنْهُ نَذِيرٌۭ مُّبِينٌۭ
 
-**51:52** Allo stesso modo, nessun messaggero venne a quelli prima di loro, senza che dicessero: “Uno stregone o un pazzo.”
+**51:52** Allo stesso modo, nessun messaggero venne a quelli prima di loro, senza che dicessero: «Uno stregone o un pazzo.»
 
 كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ إِلَّا قَالُوا۟ سَاحِرٌ أَوْ مَجْنُونٌ
 
@@ -21953,7 +21953,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ ۖ كُلَّمَآ أُلْقِىَ فِيهَا فَوْجٌۭ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌۭ
 
-**67:9** Diranno: «Sì, un avvertitore è venuto da noi, ma non abbiamo creduto, e abbiamo detto: “Dio non ha fatto scendere nulla; vi sbagliate di molto.”»
+**67:9** Diranno: «Sì, un avvertitore è venuto da noi, ma non abbiamo creduto, e abbiamo detto: ‘Dio non ha fatto scendere nulla; vi sbagliate di molto.’»
 
 قَالُوا۟ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌۭ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ ٱللَّهُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا فِى ضَلَٰلٍۢ كَبِيرٍۢ
 
@@ -22161,7 +22161,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 بَلْ نَحْنُ مَحْرُومُونَ
 
-**68:28** Il più ragionevole di loro disse: «Non vi avevo detto: “se solo glorificaste?”»
+**68:28** Il più ragionevole di loro disse: «Non vi avevo detto: ‘se solo glorificaste?’»
 
 قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ
 
@@ -22757,7 +22757,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَٱللَّهُ جَعَلَ لَكُمُ ٱلْأَرْضَ بِسَاطًۭا
 
-**71:20** Affinché possiate viaggiare per le sue diverse strade.’”
+**71:20** Affinché possiate viaggiare per le sue diverse strade.’»
 
 لِّتَسْلُكُوا۟ مِنْهَا سُبُلًۭا فِجَاجًۭا
 
@@ -22861,7 +22861,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَأَنَّا مِنَّا ٱلْمُسْلِمُونَ وَمِنَّا ٱلْقَٰسِطُونَ ۖ فَمَنْ أَسْلَمَ فَأُو۟لَٰٓئِكَ تَحَرَّوْا۟ رَشَدًۭا
 
-**72:15** Ma quanto ai compromissori — saranno legna da ardere per l'Inferno.’”
+**72:15** Ma quanto ai compromissori — saranno legna da ardere per l'Inferno.’»
 
 وَأَمَّا ٱلْقَٰسِطُونَ فَكَانُوا۟ لِجَهَنَّمَ حَطَبًۭا
 

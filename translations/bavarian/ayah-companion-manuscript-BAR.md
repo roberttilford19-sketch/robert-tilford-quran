@@ -10868,7 +10868,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَلَهُم مَّقَٰمِعُ مِنْ حَدِيدٍۢ
 
-**22:22** Imma, wann se aus da Finsternis ausse woin, wern se wieda zrucktriebn: „Kost s Leidn vom Brenna."
+**22:22** Imma, wann se aus da Finsternis ausse woin, wern se wieda zrucktriebn: „Kost s Leidn vom Brenna.“
 
 كُلَّمَآ أَرَادُوٓا۟ أَن يَخْرُجُوا۟ مِنْهَا مِنْ غَمٍّ أُعِيدُوا۟ فِيهَا وَذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
 
@@ -10884,7 +10884,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلْمَسْجِدِ ٱلْحَرَامِ ٱلَّذِى جَعَلْنَٰهُ لِلنَّاسِ سَوَآءً ٱلْعَٰكِفُ فِيهِ وَٱلْبَادِ ۚ وَمَن يُرِدْ فِيهِ بِإِلْحَادٍۭ بِظُلْمٍۢ نُّذِقْهُ مِنْ عَذَابٍ أَلِيمٍۢ
 
-**22:26** Mia ham Abraham an Plotz vom Haus zoagt: „Stöi nix an Meine Seitn; und reinig Mei Haus fia de, de drum umakroasn, und de, de zum Betn stehn, und de, de si beign und niederwerfn."
+**22:26** Mia ham Abraham an Plotz vom Haus zoagt: „Stöi nix an Meine Seitn; und reinig Mei Haus fia de, de drum umakroasn, und de, de zum Betn stehn, und de, de si beign und niederwerfn.“
 
 وَإِذْ بَوَّأْنَا لِإِبْرَٰهِيمَ مَكَانَ ٱلْبَيْتِ أَن لَّا تُشْرِكْ بِى شَيْـًۭٔا وَطَهِّرْ بَيْتِىَ لِلطَّآئِفِينَ وَٱلْقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
 
@@ -10940,7 +10940,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 أُذِنَ لِلَّذِينَ يُقَٰتَلُونَ بِأَنَّهُمْ ظُلِمُوا۟ ۚ وَإِنَّ ٱللَّهَ عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ
 
-**22:40** De, de zua Unrecht aus ihre Heisa vertriebm wordn san, nur wei se gsogt ham: „Unsa Herr is Allah." Wann Allah ned de Leit durch andare zruckhoidn daad, dann waradn Klösta, Kirchn, Synagogn und Moscheen — wo da Nam vo Allah vü gnennt werd — niedergrissn wordn. Allah huift dem, dea eam huift. Allah is stark und mächtig.
+**22:40** De, de zua Unrecht aus ihre Heisa vertriebm wordn san, nur wei se gsogt ham: „Unsa Herr is Allah.“ Wann Allah ned de Leit durch andare zruckhoidn daad, dann waradn Klösta, Kirchn, Synagogn und Moscheen — wo da Nam vo Allah vü gnennt werd — niedergrissn wordn. Allah huift dem, dea eam huift. Allah is stark und mächtig.
 
 ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَٰرِهِم بِغَيْرِ حَقٍّ إِلَّآ أَن يَقُولُوا۟ رَبُّنَا ٱللَّهُ ۗ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍۢ لَّهُدِّمَتْ صَوَٰمِعُ وَبِيَعٌۭ وَصَلَوَٰتٌۭ وَمَسَٰجِدُ يُذْكَرُ فِيهَا ٱسْمُ ٱللَّهِ كَثِيرًۭا ۗ وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓ ۗ إِنَّ ٱللَّهَ لَقَوِىٌّ عَزِيزٌ
 
@@ -10976,7 +10976,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَكَأَيِّن مِّن قَرْيَةٍ أَمْلَيْتُ لَهَا وَهِىَ ظَالِمَةٌۭ ثُمَّ أَخَذْتُهَا وَإِلَىَّ ٱلْمَصِيرُ
 
-**22:49** Sog: „O Leit, i bin fia enk nur a kloara Warna."
+**22:49** Sog: „O Leit, i bin fia enk nur a kloara Warna.“
 
 قُلْ يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّمَآ أَنَا۠ لَكُمْ نَذِيرٌۭ مُّبِينٌۭ
 
@@ -11052,7 +11052,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 لِّكُلِّ أُمَّةٍۢ جَعَلْنَا مَنسَكًا هُمْ نَاسِكُوهُ ۖ فَلَا يُنَٰزِعُنَّكَ فِى ٱلْأَمْرِ ۚ وَٱدْعُ إِلَىٰ رَبِّكَ ۖ إِنَّكَ لَعَلَىٰ هُدًۭى مُّسْتَقِيمٍۢ
 
-**22:68** Owa wann se mit dia streitn, dann sog: „Allah woaß genau, wos es duats."
+**22:68** Owa wann se mit dia streitn, dann sog: „Allah woaß genau, wos es duats.“
 
 وَإِن جَٰدَلُوكَ فَقُلِ ٱللَّهُ أَعْلَمُ بِمَا تَعْمَلُونَ
 
@@ -11068,7 +11068,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَٰنًۭا وَمَا لَيْسَ لَهُم بِهِۦ عِلْمٌۭ ۗ وَمَا لِلظَّٰلِمِينَ مِن نَّصِيرٍۢ
 
-**22:72** Und wann Unsa klare Versn eana vorglesn wern, erkennst du an Abscheu in de Gsichter vo de, de ned glaubn. Se daadn fast de angreifa, de eana Unsa Versn vorlesn. Sog: „Soi i enk wos Schlimmers ois des song? S Feia! Allah hod s de, de ned glaubn, versprochn. Und wos fia a elends Zui!"
+**22:72** Und wann Unsa klare Versn eana vorglesn wern, erkennst du an Abscheu in de Gsichter vo de, de ned glaubn. Se daadn fast de angreifa, de eana Unsa Versn vorlesn. Sog: „Soi i enk wos Schlimmers ois des song? S Feia! Allah hod s de, de ned glaubn, versprochn. Und wos fia a elends Zui!“
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ تَعْرِفُ فِى وُجُوهِ ٱلَّذِينَ كَفَرُوا۟ ٱلْمُنكَرَ ۖ يَكَادُونَ يَسْطُونَ بِٱلَّذِينَ يَتْلُونَ عَلَيْهِمْ ءَايَٰتِنَا ۗ قُلْ أَفَأُنَبِّئُكُم بِشَرٍّۢ مِّن ذَٰلِكُمُ ۗ ٱلنَّارُ وَعَدَهَا ٱللَّهُ ٱلَّذِينَ كَفَرُوا۟ ۖ وَبِئْسَ ٱلْمَصِيرُ
 
@@ -11198,7 +11198,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَعَلَيْهَا وَعَلَى ٱلْفُلْكِ تُحْمَلُونَ
 
-**23:23** Mia ham Noah zua seine Leit gschickt. Ea hod gsogt: „O meine Leit, betts Allah an, es hobt koan andan Gott außer Eam. Woids es ned aufpassn?"
+**23:23** Mia ham Noah zua seine Leit gschickt. Ea hod gsogt: „O meine Leit, betts Allah an, es hobt koan andan Gott außer Eam. Woids es ned aufpassn?“
 
 وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَقَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥٓ ۖ أَفَلَا تَتَّقُونَ
 
@@ -11206,23 +11206,23 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 فَقَالَ ٱلْمَلَؤُا۟ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا هَٰذَآ إِلَّا بَشَرٌۭ مِّثْلُكُمْ يُرِيدُ أَن يَتَفَضَّلَ عَلَيْكُمْ وَلَوْ شَآءَ ٱللَّهُ لَأَنزَلَ مَلَٰٓئِكَةًۭ مَّا سَمِعْنَا بِهَٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ
 
-**23:25** Ea is nix ois a bsessena Mann. Ignorierts eam einfach a Zeid lang."
+**23:25** Ea is nix ois a bsessena Mann. Ignorierts eam einfach a Zeid lang.“
 
 إِنْ هُوَ إِلَّا رَجُلٌۢ بِهِۦ جِنَّةٌۭ فَتَرَبَّصُوا۟ بِهِۦ حَتَّىٰ حِينٍۢ
 
-**23:26** Ea hod gsogt: „Mei Herr, huif mia, wei se mi gleugnet ham."
+**23:26** Ea hod gsogt: „Mei Herr, huif mia, wei se mi gleugnet ham.“
 
 قَالَ رَبِّ ٱنصُرْنِى بِمَا كَذَّبُونِ
 
-**23:27** So ham Mia eam eigebn: „Bau d Arche unta unsara Beobachtung und nach unsara Eingebung. Und wann Unsa Befeh eintrifft und da Ofn ibakocht, lod in sie zwoa Paare vo jeder Art eini, zamma mit deiner Familie, außer de vo eana, gegn de s Wort scho ausgsprochn is. Und sprich mi ned an wegn de, de Unrecht do ham; wei se wern ertränkt wern."
+**23:27** So ham Mia eam eigebn: „Bau d Arche unta unsara Beobachtung und nach unsara Eingebung. Und wann Unsa Befeh eintrifft und da Ofn ibakocht, lod in sie zwoa Paare vo jeder Art eini, zamma mit deiner Familie, außer de vo eana, gegn de s Wort scho ausgsprochn is. Und sprich mi ned an wegn de, de Unrecht do ham; wei se wern ertränkt wern.“
 
 فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ ۙ فَٱسْلُكْ فِيهَا مِن كُلٍّۢ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ مِنْهُمْ ۖ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ ۖ إِنَّهُم مُّغْرَقُونَ
 
-**23:28** Wann du und de, de bei dia san, enk nacha in da Arche niederglossn hobt, sog: „Lob sei Allah, dea uns vo de unrechttuandn Leit grettet hod."
+**23:28** Wann du und de, de bei dia san, enk nacha in da Arche niederglossn hobt, sog: „Lob sei Allah, dea uns vo de unrechttuandn Leit grettet hod.“
 
 فَإِذَا ٱسْتَوَيْتَ أَنتَ وَمَن مَّعَكَ عَلَى ٱلْفُلْكِ فَقُلِ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى نَجَّىٰنَا مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
 
-**23:29** Und sog: „Mei Herr, land mi mit am gesegnetn Landn an, wei du da Beste vo de Transportierende bist."
+**23:29** Und sog: „Mei Herr, land mi mit am gesegnetn Landn an, wei du da Beste vo de Transportierende bist.“
 
 وَقُل رَّبِّ أَنزِلْنِى مُنزَلًۭا مُّبَارَكًۭا وَأَنتَ خَيْرُ ٱلْمُنزِلِينَ
 
@@ -11234,7 +11234,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ
 
-**23:32** Und Mia ham unta eana an Botn aus ihre Mittn gschickt: „Deants Allah. Es hobt koan andan Gott außer Eam. Woids es ned vorsichtig sei?"
+**23:32** Und Mia ham unta eana an Botn aus ihre Mittn gschickt: „Deants Allah. Es hobt koan andan Gott außer Eam. Woids es ned vorsichtig sei?“
 
 فَأَرْسَلْنَا فِيهِمْ رَسُولًۭا مِّنْهُمْ أَنِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥٓ ۖ أَفَلَا تَتَّقُونَ
 
@@ -11258,15 +11258,15 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ
 
-**23:38** Ea is nix ois a Mann, dea Lüge iba Allah erfindt. Mia ham koan Glaubn an eam."
+**23:38** Ea is nix ois a Mann, dea Lüge iba Allah erfindt. Mia ham koan Glaubn an eam.“
 
 إِنْ هُوَ إِلَّا رَجُلٌ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا وَمَا نَحْنُ لَهُۥ بِمُؤْمِنِينَ
 
-**23:39** Ea hod gsogt: „Mei Herr, huif mia, wei se mi gleugnet ham."
+**23:39** Ea hod gsogt: „Mei Herr, huif mia, wei se mi gleugnet ham.“
 
 قَالَ رَبِّ ٱنصُرْنِى بِمَا كَذَّبُونِ
 
-**23:40** Ea hod gsogt: „Bald wern se mit Reue erfüllt sei."
+**23:40** Ea hod gsogt: „Bald wern se mit Reue erfüllt sei.“
 
 قَالَ عَمَّا قَلِيلٍۢ لَّيُصْبِحُنَّ نَٰدِمِينَ
 
@@ -11294,7 +11294,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا عَالِينَ
 
-**23:47** Se ham gsogt: „Soin mia an zwoa Sterbliche wia uns glaubn, wo ihre Leit unsa Sklaven san?"
+**23:47** Se ham gsogt: „Soin mia an zwoa Sterbliche wia uns glaubn, wo ihre Leit unsa Sklaven san?“
 
 فَقَالُوٓا۟ أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا وَقَوْمُهُمَا لَنَا عَٰبِدُونَ
 
@@ -11386,7 +11386,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 أَمْ لَمْ يَعْرِفُوا۟ رَسُولَهُمْ فَهُمْ لَهُۥ مُنكِرُونَ
 
-**23:70** Oda song se: „Ea is bsessn?" In Wirklichkeit hod ea eana de Wohrheit brocht, owa de meistn vo eana hossn de Wohrheit.
+**23:70** Oda song se: „Ea is bsessn?“ In Wirklichkeit hod ea eana de Wohrheit brocht, owa de meistn vo eana hossn de Wohrheit.
 
 أَمْ يَقُولُونَ بِهِۦ جِنَّةٌۢ ۚ بَلْ جَآءَهُم بِٱلْحَقِّ وَأَكْثَرُهُمْ لِلْحَقِّ كَٰرِهُونَ
 
@@ -11438,31 +11438,31 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 قَالُوٓا۟ أَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ
 
-**23:83** Des is uns scho davo versprochn wordn — uns und unsare Vorfohrn — des san nix ois Legenden vo de Altn."
+**23:83** Des is uns scho davo versprochn wordn — uns und unsare Vorfohrn — des san nix ois Legenden vo de Altn.“
 
 لَقَدْ وُعِدْنَا نَحْنُ وَءَابَآؤُنَا هَٰذَا مِن قَبْلُ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
-**23:84** Sog: „Wem gheart de Erdn und a jeda darin, wann es s zufällig wisst?"
+**23:84** Sog: „Wem gheart de Erdn und a jeda darin, wann es s zufällig wisst?“
 
 قُل لِّمَنِ ٱلْأَرْضُ وَمَن فِيهَآ إِن كُنتُمْ تَعْلَمُونَ
 
-**23:85** Se wern song: „Allah." Sog: „Woids es ned nachdenka?"
+**23:85** Se wern song: „Allah.“ Sog: „Woids es ned nachdenka?“
 
 سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَذَكَّرُونَ
 
-**23:86** Sog: „Wer is da Herr vo de siebn Himme und da Herr vom prächtign Thron?"
+**23:86** Sog: „Wer is da Herr vo de siebn Himme und da Herr vom prächtign Thron?“
 
 قُلْ مَن رَّبُّ ٱلسَّمَٰوَٰتِ ٱلسَّبْعِ وَرَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ
 
-**23:87** Se wern song: „Allah." Sog: „Woids es ned rechtschaffn wern?"
+**23:87** Se wern song: „Allah.“ Sog: „Woids es ned rechtschaffn wern?“
 
 سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَتَّقُونَ
 
-**23:88** Sog: „In wessen Hand is de Herrschaft üba olle Sachn, und Ea schützt und ko ned gschützt wern, wann es s zufällig wisst?"
+**23:88** Sog: „In wessen Hand is de Herrschaft üba olle Sachn, und Ea schützt und ko ned gschützt wern, wann es s zufällig wisst?“
 
 قُلْ مَنۢ بِيَدِهِۦ مَلَكُوتُ كُلِّ شَىْءٍۢ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيْهِ إِن كُنتُمْ تَعْلَمُونَ
 
-**23:89** Se wern song: „Allah." Sog: „Dann seids es verhext?"
+**23:89** Se wern song: „Allah.“ Sog: „Dann seids es verhext?“
 
 سَيَقُولُونَ لِلَّهِ ۚ قُلْ فَأَنَّىٰ تُسْحَرُونَ
 
@@ -11482,7 +11482,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 قُل رَّبِّ إِمَّا تُرِيَنِّى مَا يُوعَدُونَ
 
-**23:94** Mei Herr, stöi mi ned unta de gottlosn Leit."
+**23:94** Mei Herr, stöi mi ned unta de gottlosn Leit.“
 
 رَبِّ فَلَا تَجْعَلْنِى فِى ٱلْقَوْمِ ٱلظَّٰلِمِينَ
 
@@ -11498,7 +11498,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَٰتِ ٱلشَّيَٰطِينِ
 
-**23:98** Und i suach Zuflucht bei Dia, mei Herr, damit se ned anwesend wern."
+**23:98** Und i suach Zuflucht bei Dia, mei Herr, damit se ned anwesend wern.“
 
 وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ
 
@@ -11506,7 +11506,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 حَتَّىٰٓ إِذَا جَآءَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ رَبِّ ٱرْجِعُونِ
 
-**23:100** Damit i Recht dan ko in dem, wos i vernachlässigt hob." Auf koan Fall! Es is nur a Wort, des ea ausspricht. Und hinta eana is a Barriere, bis zum Dog, an dem se auferweckt wern.
+**23:100** Damit i Recht dan ko in dem, wos i vernachlässigt hob.“ Auf koan Fall! Es is nur a Wort, des ea ausspricht. Und hinta eana is a Barriere, bis zum Dog, an dem se auferweckt wern.
 
 لَعَلِّىٓ أَعْمَلُ صَٰلِحًۭا فِيمَا تَرَكْتُ ۚ كَلَّآ ۚ إِنَّهَا كَلِمَةٌ هُوَ قَآئِلُهَا ۖ وَمِن وَرَآئِهِم بَرْزَخٌ إِلَىٰ يَوْمِ يُبْعَثُونَ
 
@@ -11526,7 +11526,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 تَلْفَحُ وُجُوهَهُمُ ٱلنَّارُ وَهُمْ فِيهَا كَٰلِحُونَ
 
-**23:105** „San Meine Offnbarungn enk ned vorglesn wordn, und es hobt se imma obglehnt?"
+**23:105** „San Meine Offnbarungn enk ned vorglesn wordn, und es hobt se imma obglehnt?“
 
 أَلَمْ تَكُنْ ءَايَٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُم بِهَا تُكَذِّبُونَ
 
@@ -11534,7 +11534,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 قَالُوا۟ رَبَّنَا غَلَبَتْ عَلَيْنَا شِقْوَتُنَا وَكُنَّا قَوْمًۭا ضَآلِّينَ
 
-**23:107** Unsa Herr! Bring uns aus dem aussa. Wann mia je zruckkehren daadn, waradn mia wirklich böse."
+**23:107** Unsa Herr! Bring uns aus dem aussa. Wann mia je zruckkehren daadn, waradn mia wirklich böse.“
 
 رَبَّنَآ أَخْرِجْنَا مِنْهَا فَإِنْ عُدْنَا فَإِنَّا ظَٰلِمُونَ
 
@@ -11550,15 +11550,15 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 فَٱتَّخَذْتُمُوهُمْ سِخْرِيًّا حَتَّىٰٓ أَنسَوْكُمْ ذِكْرِى وَكُنتُم مِّنْهُمْ تَضْحَكُونَ
 
-**23:111** Heit hob I se fia ihre Geduld belohnt. Se san de, de triumphieren."
+**23:111** Heit hob I se fia ihre Geduld belohnt. Se san de, de triumphieren.“
 
 إِنِّى جَزَيْتُهُمُ ٱلْيَوْمَ بِمَا صَبَرُوٓا۟ أَنَّهُمْ هُمُ ٱلْفَآئِزُونَ
 
-**23:112** Ea werd song: „Wie vü Johr seids es auf da Erdn bliebn?"
+**23:112** Ea werd song: „Wie vü Johr seids es auf da Erdn bliebn?“
 
 قَٰلَ كَمْ لَبِثْتُمْ فِى ٱلْأَرْضِ عَدَدَ سِنِينَ
 
-**23:113** Se wern song: „Mia san an Dog bliebn, oda an Teil vo am Dog; owa frog de, de zäin."
+**23:113** Se wern song: „Mia san an Dog bliebn, oda an Teil vo am Dog; owa frog de, de zäin.“
 
 قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍۢ فَسْـَٔلِ ٱلْعَآدِّينَ
 
@@ -11566,7 +11566,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 قَٰلَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًۭا ۖ لَّوْ أَنَّكُمْ كُنتُمْ تَعْلَمُونَ
 
-**23:115** Hobts es gmoant, dass Mia enk umsonst gschaffa ham und dass es zua Uns ned zruckbrocht werds?"
+**23:115** Hobts es gmoant, dass Mia enk umsonst gschaffa ham und dass es zua Uns ned zruckbrocht werds?“
 
 أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَٰكُمْ عَبَثًۭا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ
 
@@ -11578,7 +11578,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَمَن يَدْعُ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ لَا بُرْهَٰنَ لَهُۥ بِهِۦ فَإِنَّمَا حِسَابُهُۥ عِندَ رَبِّهِۦٓ ۚ إِنَّهُۥ لَا يُفْلِحُ ٱلْكَٰفِرُونَ
 
-**23:118** Und sog: „Mei Herr, vergib und hab Barmherzigkeit, wei Du da Beste vo de Barmherzign bist."
+**23:118** Und sog: „Mei Herr, vergib und hab Barmherzigkeit, wei Du da Beste vo de Barmherzign bist.“
 
 وَقُل رَّبِّ ٱغْفِرْ وَٱرْحَمْ وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ
 
@@ -11638,7 +11638,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 إِنَّ ٱلَّذِينَ جَآءُو بِٱلْإِفْكِ عُصْبَةٌۭ مِّنكُمْ ۚ لَا تَحْسَبُوهُ شَرًّۭا لَّكُم ۖ بَلْ هُوَ خَيْرٌۭ لَّكُمْ ۚ لِكُلِّ ٱمْرِئٍۢ مِّنْهُم مَّا ٱكْتَسَبَ مِنَ ٱلْإِثْمِ ۚ وَٱلَّذِى تَوَلَّىٰ كِبْرَهُۥ مِنْهُمْ لَهُۥ عَذَابٌ عَظِيمٌۭ
 
-**24:12** Warum ham, wann es davo gheart hobts, de glaubign Männer und Frauen ned guat voneinanda denka und song: „Des is a offensichtliche Lüge"?
+**24:12** Warum ham, wann es davo gheart hobts, de glaubign Männer und Frauen ned guat voneinanda denka und song: „Des is a offensichtliche Lüge“?
 
 لَّوْلَآ إِذْ سَمِعْتُمُوهُ ظَنَّ ٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَٰتُ بِأَنفُسِهِمْ خَيْرًۭا وَقَالُوا۟ هَٰذَآ إِفْكٌۭ مُّبِينٌۭ
 
@@ -11654,7 +11654,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 إِذْ تَلَقَّوْنَهُۥ بِأَلْسِنَتِكُمْ وَتَقُولُونَ بِأَفْوَاهِكُم مَّا لَيْسَ لَكُم بِهِۦ عِلْمٌۭ وَتَحْسَبُونَهُۥ هَيِّنًۭا وَهُوَ عِندَ ٱللَّهِ عَظِيمٌۭ
 
-**24:16** Wann es s gheart hobts, hättets es song soin: „Es steht uns ned zua, des zu wiederholen. Bei Dei Herrlichkeit, des is a ernste Verleumdung."
+**24:16** Wann es s gheart hobts, hättets es song soin: „Es steht uns ned zua, des zu wiederholen. Bei Dei Herrlichkeit, des is a ernste Verleumdung.“
 
 وَلَوْلَآ إِذْ سَمِعْتُمُوهُ قُلْتُم مَّا يَكُونُ لَنَآ أَن نَّتَكَلَّمَ بِهَٰذَا سُبْحَٰنَكَ هَٰذَا بُهْتَٰنٌ عَظِيمٌۭ
 
@@ -11702,7 +11702,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتًا غَيْرَ بُيُوتِكُمْ حَتَّىٰ تَسْتَأْنِسُوا۟ وَتُسَلِّمُوا۟ عَلَىٰٓ أَهْلِهَا ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ لَعَلَّكُمْ تَذَكَّرُونَ
 
-**24:28** Und wann es koan darin finds, gehts ned eini, bis enk Erlaubnis gebn werd. Und wann zua enk gsogt werd: „Kehrts um", dann kehrts um. Des is richtiga fia enk. Allah woaß, wos es duats.
+**24:28** Und wann es koan darin finds, gehts ned eini, bis enk Erlaubnis gebn werd. Und wann zua enk gsogt werd: „Kehrts um“, dann kehrts um. Des is richtiga fia enk. Allah woaß, wos es duats.
 
 فَإِن لَّمْ تَجِدُوا۟ فِيهَآ أَحَدًۭا فَلَا تَدْخُلُوهَا حَتَّىٰ يُؤْذَنَ لَكُمْ ۖ وَإِن قِيلَ لَكُمُ ٱرْجِعُوا۟ فَٱرْجِعُوا۟ ۖ هُوَ أَزْكَىٰ لَكُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌۭ
 
@@ -11778,7 +11778,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 لَّقَدْ أَنزَلْنَآ ءَايَٰتٍۢ مُّبَيِّنَٰتٍۢ ۚ وَٱللَّهُ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
 
-**24:47** Und se song: „Mia ham an Allah und an Botn glaubt, und mia gehorchn", owa monche vo eana kehrn danoch ab. De san koane Glaubign.
+**24:47** Und se song: „Mia ham an Allah und an Botn glaubt, und mia gehorchn“, owa monche vo eana kehrn danoch ab. De san koane Glaubign.
 
 وَيَقُولُونَ ءَامَنَّا بِٱللَّهِ وَبِٱلرَّسُولِ وَأَطَعْنَا ثُمَّ يَتَوَلَّىٰ فَرِيقٌۭ مِّنْهُم مِّنۢ بَعْدِ ذَٰلِكَ ۚ وَمَآ أُو۟لَٰٓئِكَ بِٱلْمُؤْمِنِينَ
 
@@ -11794,7 +11794,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 أَفِى قُلُوبِهِم مَّرَضٌ أَمِ ٱرْتَابُوٓا۟ أَمْ يَخَافُونَ أَن يَحِيفَ ٱللَّهُ عَلَيْهِمْ وَرَسُولُهُۥ ۚ بَلْ أُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
 
-**24:51** De Antwort vo de Glaubign, wann se zua Allah und Seim Botn gerufen wern, um zwischn eana zum richtn, is zum song: „Mia hern und mia gehorchn." De san de Erfolgreichen.
+**24:51** De Antwort vo de Glaubign, wann se zua Allah und Seim Botn gerufen wern, um zwischn eana zum richtn, is zum song: „Mia hern und mia gehorchn.“ De san de Erfolgreichen.
 
 إِنَّمَا كَانَ قَوْلَ ٱلْمُؤْمِنِينَ إِذَا دُعُوٓا۟ إِلَى ٱللَّهِ وَرَسُولِهِۦ لِيَحْكُمَ بَيْنَهُمْ أَن يَقُولُوا۟ سَمِعْنَا وَأَطَعْنَا ۚ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
 
@@ -11802,11 +11802,11 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ وَيَخْشَ ٱللَّهَ وَيَتَّقْهِ فَأُو۟لَٰٓئِكَ هُمُ ٱلْفَآئِزُونَ
 
-**24:53** Und se schwören bei Allah mit ihre feierlichen Eide, dass, wann du eana befehlen daadst, se mobil wern daadn. Sog: „Schwörts ned. Gehorsam werd anerkannt wern. Allah is erfahren mit dem, wos es duats."
+**24:53** Und se schwören bei Allah mit ihre feierlichen Eide, dass, wann du eana befehlen daadst, se mobil wern daadn. Sog: „Schwörts ned. Gehorsam werd anerkannt wern. Allah is erfahren mit dem, wos es duats.“
 
 ۞ وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ لَئِنْ أَمَرْتَهُمْ لَيَخْرُجُنَّ ۖ قُل لَّا تُقْسِمُوا۟ ۖ طَاعَةٌۭ مَّعْرُوفَةٌ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ
 
-**24:54** Sog: „Gehorchts Allah und gehorchts am Botn." Owa wann se si abkehrn, dann is ea fia seine Verpflichtungen verantwortlich, und es seids fia enkare Verpflichtungen verantwortlich. Und wann es eam gehorchts, werds es gfiahrt wern. Es is nur de Pflicht vom Botn, de klärende Botschaft zum übaliefern.
+**24:54** Sog: „Gehorchts Allah und gehorchts am Botn.“ Owa wann se si abkehrn, dann is ea fia seine Verpflichtungen verantwortlich, und es seids fia enkare Verpflichtungen verantwortlich. Und wann es eam gehorchts, werds es gfiahrt wern. Es is nur de Pflicht vom Botn, de klärende Botschaft zum übaliefern.
 
 قُلْ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ ۖ فَإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْهِ مَا حُمِّلَ وَعَلَيْكُم مَّا حُمِّلْتُمْ ۖ وَإِن تُطِيعُوهُ تَهْتَدُوا۟ ۚ وَمَا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَٰغُ ٱلْمُبِينُ
 
@@ -11874,23 +11874,23 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةًۭ لَّا يَخْلُقُونَ شَيْـًۭٔا وَهُمْ يُخْلَقُونَ وَلَا يَمْلِكُونَ لِأَنفُسِهِمْ ضَرًّۭا وَلَا نَفْعًۭا وَلَا يَمْلِكُونَ مَوْتًۭا وَلَا حَيَوٰةًۭ وَلَا نُشُورًۭا
 
-**25:4** De, de ned glaubn, song: „Des is nix ois a Lüge, de ea si ausdenkt hod, und andere ham eam dabei ghulfa." Se ham Unrecht und Eidbruch begaunga.
+**25:4** De, de ned glaubn, song: „Des is nix ois a Lüge, de ea si ausdenkt hod, und andere ham eam dabei ghulfa.“ Se ham Unrecht und Eidbruch begaunga.
 
 وَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّآ إِفْكٌ ٱفْتَرَىٰهُ وَأَعَانَهُۥ عَلَيْهِ قَوْمٌ ءَاخَرُونَ ۖ فَقَدْ جَآءُو ظُلْمًۭا وَزُورًۭا
 
-**25:5** Und se song: „Gschichtn vo de Alten; ea hod se aufgschriebn; se wern eam am Morgen und am Obend diktiert."
+**25:5** Und se song: „Gschichtn vo de Alten; ea hod se aufgschriebn; se wern eam am Morgen und am Obend diktiert.“
 
 وَقَالُوٓا۟ أَسَٰطِيرُ ٱلْأَوَّلِينَ ٱكْتَتَبَهَا فَهِىَ تُمْلَىٰ عَلَيْهِ بُكْرَةًۭ وَأَصِيلًۭا
 
-**25:6** Sog: „Es is vo Dem offnbart wordn, dea s Geheimnis in de Himme und auf da Erdn woaß. Ea is imma vergebnd und barmherzig."
+**25:6** Sog: „Es is vo Dem offnbart wordn, dea s Geheimnis in de Himme und auf da Erdn woaß. Ea is imma vergebnd und barmherzig.“
 
 قُلْ أَنزَلَهُ ٱلَّذِى يَعْلَمُ ٱلسِّرَّ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ إِنَّهُۥ كَانَ غَفُورًۭا رَّحِيمًۭا
 
-**25:7** Und se song: „Wos fia a Bot is des, dea Essn isst und auf de Marktplätze geht? Wann nur a Engl mit eam obagsandt wordn war, um a Warna an seiner Seitn zum sei."
+**25:7** Und se song: „Wos fia a Bot is des, dea Essn isst und auf de Marktplätze geht? Wann nur a Engl mit eam obagsandt wordn war, um a Warna an seiner Seitn zum sei.“
 
 وَقَالُوا۟ مَالِ هَٰذَا ٱلرَّسُولِ يَأْكُلُ ٱلطَّعَامَ وَيَمْشِى فِى ٱلْأَسْوَاقِ ۙ لَوْلَآ أُنزِلَ إِلَيْهِ مَلَكٌۭ فَيَكُونَ مَعَهُۥ نَذِيرًا
 
-**25:8** Oda: „Wann nur a Schatz auf eam obagworfa wordn war." Oda: „Wann ea nur an Garten hätt, vo dem ea isst." De Übeltäta song a: „Es foigts nur am Mann unta am Bann."
+**25:8** Oda: „Wann nur a Schatz auf eam obagworfa wordn war.“ Oda: „Wann ea nur an Garten hätt, vo dem ea isst.“ De Übeltäta song a: „Es foigts nur am Mann unta am Bann.“
 
 أَوْ يُلْقَىٰٓ إِلَيْهِ كَنزٌ أَوْ تَكُونُ لَهُۥ جَنَّةٌۭ يَأْكُلُ مِنْهَا ۚ وَقَالَ ٱلظَّٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلًۭا مَّسْحُورًا
 
@@ -11914,7 +11914,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَإِذَآ أُلْقُوا۟ مِنْهَا مَكَانًۭا ضَيِّقًۭا مُّقَرَّنِينَ دَعَوْا۟ هُنَالِكَ ثُبُورًۭا
 
-**25:14** „Flehts heit ned um an Tod, sondern flehts um vü Tode."
+**25:14** „Flehts heit ned um an Tod, sondern flehts um vü Tode.“
 
 لَّا تَدْعُوا۟ ٱلْيَوْمَ ثُبُورًۭا وَٰحِدًۭا وَٱدْعُوا۟ ثُبُورًۭا كَثِيرًۭا
 
@@ -11926,11 +11926,11 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 لَّهُمْ فِيهَا مَا يَشَآءُونَ خَٰلِدِينَ ۚ كَانَ عَلَىٰ رَبِّكَ وَعْدًۭا مَّسْـُٔولًۭا
 
-**25:17** An dem Dog, wann Ea se versammelt und des, wos se außa Allah anbet ham, werd Ea song: „Warts es s, de deana Meine Deaner in d Irre gfiahrt ham, oda waradn se s söiba, de an Weg verloren ham?"
+**25:17** An dem Dog, wann Ea se versammelt und des, wos se außa Allah anbet ham, werd Ea song: „Warts es s, de deana Meine Deaner in d Irre gfiahrt ham, oda waradn se s söiba, de an Weg verloren ham?“
 
 وَيَوْمَ يَحْشُرُهُمْ وَمَا يَعْبُدُونَ مِن دُونِ ٱللَّهِ فَيَقُولُ ءَأَنتُمْ أَضْلَلْتُمْ عِبَادِى هَٰٓؤُلَآءِ أَمْ هُمْ ضَلُّوا۟ ٱلسَّبِيلَ
 
-**25:18** Se wern song: „Lob sei Dia. Es war uns ned erlaubt, irgendwelche Herren außa Dia zum nehma. Owa du host eana und ihre Vorfohrn Vergnügn gebn, bis se de Botschaft vergessen ham und a verdorbenes Volk wordn san."
+**25:18** Se wern song: „Lob sei Dia. Es war uns ned erlaubt, irgendwelche Herren außa Dia zum nehma. Owa du host eana und ihre Vorfohrn Vergnügn gebn, bis se de Botschaft vergessen ham und a verdorbenes Volk wordn san.“
 
 قَالُوا۟ سُبْحَٰنَكَ مَا كَانَ يَنۢبَغِى لَنَآ أَن نَّتَّخِذَ مِن دُونِكَ مِنْ أَوْلِيَآءَ وَلَٰكِن مَّتَّعْتَهُمْ وَءَابَآءَهُمْ حَتَّىٰ نَسُوا۟ ٱلذِّكْرَ وَكَانُوا۟ قَوْمًۢا بُورًۭا
 
@@ -11942,11 +11942,11 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَمَآ أَرْسَلْنَا قَبْلَكَ مِنَ ٱلْمُرْسَلِينَ إِلَّآ إِنَّهُمْ لَيَأْكُلُونَ ٱلطَّعَامَ وَيَمْشُونَ فِى ٱلْأَسْوَاقِ ۗ وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍۢ فِتْنَةً أَتَصْبِرُونَ ۗ وَكَانَ رَبُّكَ بَصِيرًۭا
 
-**25:21** De, de ned erhoffen, Uns zum treffn, song: „Wann nur de Engl zua uns obagsandt waradn, oda mia kenntn unsan Herrn segn." Se san in si söiba arrogant wordn und ham si exzessiv widersetzt.
+**25:21** De, de ned erhoffen, Uns zum treffn, song: „Wann nur de Engl zua uns obagsandt waradn, oda mia kenntn unsan Herrn segn.“ Se san in si söiba arrogant wordn und ham si exzessiv widersetzt.
 
 ۞ وَقَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا لَوْلَآ أُنزِلَ عَلَيْنَا ٱلْمَلَٰٓئِكَةُ أَوْ نَرَىٰ رَبَّنَا ۗ لَقَدِ ٱسْتَكْبَرُوا۟ فِىٓ أَنفُسِهِمْ وَعَتَوْ عُتُوًّۭا كَبِيرًۭا
 
-**25:22** An dem Dog, wann se de Engl segn — an dem Dog werd s koa guade Nochricht fia Sünda gebn; und se wern song: „A schützende Zuflucht."
+**25:22** An dem Dog, wann se de Engl segn — an dem Dog werd s koa guade Nochricht fia Sünda gebn; und se wern song: „A schützende Zuflucht.“
 
 يَوْمَ يَرَوْنَ ٱلْمَلَٰٓئِكَةَ لَا بُشْرَىٰ يَوْمَئِذٍۢ لِّلْمُجْرِمِينَ وَيَقُولُونَ حِجْرًۭا مَّحْجُورًۭا
 
@@ -11974,11 +11974,11 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 يَٰوَيْلَتَىٰ لَيْتَنِى لَمْ أَتَّخِذْ فُلَانًا خَلِيلًۭا
 
-**25:29** Ea hod mi vo da Botschaft wegfiehrt, nochdem sie zua mia kemma is; wei da Satan imma a Verräta am Menschn war."
+**25:29** Ea hod mi vo da Botschaft wegfiehrt, nochdem sie zua mia kemma is; wei da Satan imma a Verräta am Menschn war.“
 
 لَّقَدْ أَضَلَّنِى عَنِ ٱلذِّكْرِ بَعْدَ إِذْ جَآءَنِى ۗ وَكَانَ ٱلشَّيْطَٰنُ لِلْإِنسَٰنِ خَذُولًۭا
 
-**25:30** Und da Bot werd song: „Mei Herr, meine Leit ham den Koran verlassn."
+**25:30** Und da Bot werd song: „Mei Herr, meine Leit ham den Koran verlassn.“
 
 وَقَالَ ٱلرَّسُولُ يَٰرَبِّ إِنَّ قَوْمِى ٱتَّخَذُوا۟ هَٰذَا ٱلْقُرْءَانَ مَهْجُورًۭا
 
@@ -11986,7 +11986,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّۭا مِّنَ ٱلْمُجْرِمِينَ ۗ وَكَفَىٰ بِرَبِّكَ هَادِيًۭا وَنَصِيرًۭا
 
-**25:32** De, de ned glaubn, song: „Warum is da Koran ned auf amoi zua eam offnbart wordn?" So is s, um dei Herz dadurch zum stärkn, und Mia ham eam in Etappn offnbart.
+**25:32** De, de ned glaubn, song: „Warum is da Koran ned auf amoi zua eam offnbart wordn?“ So is s, um dei Herz dadurch zum stärkn, und Mia ham eam in Etappn offnbart.
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَوْلَا نُزِّلَ عَلَيْهِ ٱلْقُرْءَانُ جُمْلَةًۭ وَٰحِدَةًۭ ۚ كَذَٰلِكَ لِنُثَبِّتَ بِهِۦ فُؤَادَكَ ۖ وَرَتَّلْنَٰهُ تَرْتِيلًۭا
 
@@ -12002,7 +12002,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَٰرُونَ وَزِيرًۭا
 
-**25:36** Mia ham gsogt: „Gehts zua de Leit, de Unsa Zoachn zruckgwiesn ham", und Mia ham se vollständig zerstört.
+**25:36** Mia ham gsogt: „Gehts zua de Leit, de Unsa Zoachn zruckgwiesn ham“, und Mia ham se vollständig zerstört.
 
 فَقُلْنَا ٱذْهَبَآ إِلَى ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا فَدَمَّرْنَٰهُمْ تَدْمِيرًۭا
 
@@ -12022,11 +12022,11 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَلَقَدْ أَتَوْا۟ عَلَى ٱلْقَرْيَةِ ٱلَّتِىٓ أُمْطِرَتْ مَطَرَ ٱلسَّوْءِ ۚ أَفَلَمْ يَكُونُوا۟ يَرَوْنَهَا ۚ بَلْ كَانُوا۟ لَا يَرْجُونَ نُشُورًۭا
 
-**25:41** Und wann se di segn, nehmans di nur ois Spott: „Is des dea, den Allah ois Botn gschickt hod?"
+**25:41** Und wann se di segn, nehmans di nur ois Spott: „Is des dea, den Allah ois Botn gschickt hod?“
 
 وَإِذَا رَأَوْكَ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِى بَعَثَ ٱللَّهُ رَسُولًا
 
-**25:42** „Ea hätt uns fast vo unsare Götter wegfiehrt, wann mia uns ned geduldig an se ghoidn hättn." Owa se wern wissn, wann se de Qual sehn, wer weida vom Weg weg is.
+**25:42** „Ea hätt uns fast vo unsare Götter wegfiehrt, wann mia uns ned geduldig an se ghoidn hättn.“ Owa se wern wissn, wann se de Qual sehn, wer weida vom Weg weg is.
 
 إِن كَادَ لَيُضِلُّنَا عَنْ ءَالِهَتِنَا لَوْلَآ أَن صَبَرْنَا عَلَيْهَا ۚ وَسَوْفَ يَعْلَمُونَ حِينَ يَرَوْنَ ٱلْعَذَابَ مَنْ أَضَلُّ سَبِيلًا
 
@@ -12086,7 +12086,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَمَآ أَرْسَلْنَٰكَ إِلَّا مُبَشِّرًۭا وَنَذِيرًۭا
 
-**25:57** Sog: „I verlang vo enk koa Bezahlung dafür — nur dass, wer wui, an Weg zua seim Herrn nehma ko."
+**25:57** Sog: „I verlang vo enk koa Bezahlung dafür — nur dass, wer wui, an Weg zua seim Herrn nehma ko.“
 
 قُلْ مَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِلَّا مَن شَآءَ أَن يَتَّخِذَ إِلَىٰ رَبِّهِۦ سَبِيلًۭا
 
@@ -12098,7 +12098,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍۢ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۚ ٱلرَّحْمَٰنُ فَسْـَٔلْ بِهِۦ خَبِيرًۭا
 
-**25:60** Und wann zua eana gsogt werd: „Beigts enk vor am Barmherzign nida", song se: „Und wos is da Barmherzige? Soin mia uns vor dem nidabeign, wos du uns befiehlst?" Und es vermehrt ihre Abneigung.
+**25:60** Und wann zua eana gsogt werd: „Beigts enk vor am Barmherzign nida“, song se: „Und wos is da Barmherzige? Soin mia uns vor dem nidabeign, wos du uns befiehlst?“ Und es vermehrt ihre Abneigung.
 
 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًۭا ۩
 
@@ -12112,7 +12112,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَهُوَ ٱلَّذِى جَعَلَ ٱلَّيْلَ وَٱلنَّهَارَ خِلْفَةًۭ لِّمَنْ أَرَادَ أَن يَذَّكَّرَ أَوْ أَرَادَ شُكُورًۭا
 
-**25:63** De Deaner vom Barmherzign san de, de demüatig auf da Erdn genga, und wann de Unwissenden se anredn, song se: „Friedn."
+**25:63** De Deaner vom Barmherzign san de, de demüatig auf da Erdn genga, und wann de Unwissenden se anredn, song se: „Friedn.“
 
 وَعِبَادُ ٱلرَّحْمَٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًۭا وَإِذَا خَاطَبَهُمُ ٱلْجَٰهِلُونَ قَالُوا۟ سَلَٰمًۭا
 
@@ -12124,7 +12124,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَٱلَّذِينَ يَقُولُونَ رَبَّنَا ٱصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ ۖ إِنَّ عَذَابَهَا كَانَ غَرَامًا
 
-**25:66** Es is gwiss a elender Wohnort und a elends Zui."
+**25:66** Es is gwiss a elender Wohnort und a elends Zui.“
 
 إِنَّهَا سَآءَتْ مُسْتَقَرًّۭا وَمُقَامًۭا
 
@@ -12156,7 +12156,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِـَٔايَٰتِ رَبِّهِمْ لَمْ يَخِرُّوا۟ عَلَيْهَا صُمًّۭا وَعُمْيَانًۭا
 
-**25:74** Und de, de song: „Unsa Herr, gewähr uns Freude an unsare Ehepartna und unsare Kinda, und mach uns zua am guadn Beispiel fia de Rechtschaffna."
+**25:74** Und de, de song: „Unsa Herr, gewähr uns Freude an unsare Ehepartna und unsare Kinda, und mach uns zua am guadn Beispiel fia de Rechtschaffna.“
 
 وَٱلَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَٰجِنَا وَذُرِّيَّٰتِنَا قُرَّةَ أَعْيُنٍۢ وَٱجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا
 
@@ -12168,7 +12168,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 خَٰلِدِينَ فِيهَا ۚ حَسُنَتْ مُسْتَقَرًّۭا وَمُقَامًۭا
 
-**25:77** Sog: „Wos seids es fia mein Herrn ohne enkare Gebete? Es hobt de Wohrheit gleugnet, und s Unvermeidliche werd geschehn."
+**25:77** Sog: „Wos seids es fia mein Herrn ohne enkare Gebete? Es hobt de Wohrheit gleugnet, und s Unvermeidliche werd geschehn.“
 
 قُلْ مَا يَعْبَؤُا۟ بِكُمْ رَبِّى لَوْلَا دُعَآؤُكُمْ ۖ فَقَدْ كَذَّبْتُمْ فَسَوْفَ يَكُونُ لِزَامًۢا
 
@@ -12224,7 +12224,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**26:11** De Leit vom Pharao. Wern se ned firchten?"
+**26:11** De Leit vom Pharao. Wern se ned firchten?“
 
 قَوْمَ فِرْعَوْنَ ۚ أَلَا يَتَّقُونَ
 
@@ -12236,7 +12236,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَيَضِيقُ صَدْرِى وَلَا يَنطَلِقُ لِسَانِى فَأَرْسِلْ إِلَىٰ هَٰرُونَ
 
-**26:14** Und se ham a Anklage gegn mi, so fircht i, se wern mi töten."
+**26:14** Und se ham a Anklage gegn mi, so fircht i, se wern mi töten.“
 
 وَلَهُمْ عَلَىَّ ذَنۢبٌۭ فَأَخَافُ أَن يَقْتُلُونِ
 
@@ -12248,7 +12248,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 فَأْتِيَا فِرْعَوْنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلْعَٰلَمِينَ
 
-**26:17** Loss de Kinda vo Israel mit uns geh.‘"
+**26:17** Loss de Kinda vo Israel mit uns geh.‘“
 
 أَنْ أَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ
 
@@ -12256,7 +12256,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 قَالَ أَلَمْ نُرَبِّكَ فِينَا وَلِيدًۭا وَلَبِثْتَ فِينَا مِنْ عُمُرِكَ سِنِينَ
 
-**26:19** Und du host de Tat begaunga, de du begaunga host, und du warst undankbar."
+**26:19** Und du host de Tat begaunga, de du begaunga host, und du warst undankbar.“
 
 وَفَعَلْتَ فَعْلَتَكَ ٱلَّتِى فَعَلْتَ وَأَنتَ مِنَ ٱلْكَٰفِرِينَ
 
@@ -12268,43 +12268,43 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 فَفَرَرْتُ مِنكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِى رَبِّى حُكْمًۭا وَجَعَلَنِى مِنَ ٱلْمُرْسَلِينَ
 
-**26:22** Is des de Gunst, mit dera du mi vorhältst, obwoi du de Kinda vo Israel versklavt host?"
+**26:22** Is des de Gunst, mit dera du mi vorhältst, obwoi du de Kinda vo Israel versklavt host?“
 
 وَتِلْكَ نِعْمَةٌۭ تَمُنُّهَا عَلَىَّ أَنْ عَبَّدتَّ بَنِىٓ إِسْرَٰٓءِيلَ
 
-**26:23** Da Pharao hod gsogt: „Und wos is da Herr vo de Welten?"
+**26:23** Da Pharao hod gsogt: „Und wos is da Herr vo de Welten?“
 
 قَالَ فِرْعَوْنُ وَمَا رَبُّ ٱلْعَٰلَمِينَ
 
-**26:24** Ea hod gsogt: „Da Herr vo de Himme und vo da Erdn und olls dazwischn, wann es achtsam seids."
+**26:24** Ea hod gsogt: „Da Herr vo de Himme und vo da Erdn und olls dazwischn, wann es achtsam seids.“
 
 قَالَ رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَآ ۖ إِن كُنتُم مُّوقِنِينَ
 
-**26:25** Ea hod zua de um eam herum gsogt: „Herts es ned?"
+**26:25** Ea hod zua de um eam herum gsogt: „Herts es ned?“
 
 قَالَ لِمَنْ حَوْلَهُۥٓ أَلَا تَسْتَمِعُونَ
 
-**26:26** Ea hod gsogt: „Enka Herr und da Herr vo enkare Vorfohrn aus oida Zeid."
+**26:26** Ea hod gsogt: „Enka Herr und da Herr vo enkare Vorfohrn aus oida Zeid.“
 
 قَالَ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ
 
-**26:27** Ea hod gsogt: „Der Bot vo enk, dea zua enk gschickt is, is verruckt."
+**26:27** Ea hod gsogt: „Der Bot vo enk, dea zua enk gschickt is, is verruckt.“
 
 قَالَ إِنَّ رَسُولَكُمُ ٱلَّذِىٓ أُرْسِلَ إِلَيْكُمْ لَمَجْنُونٌۭ
 
-**26:28** Ea hod gsogt: „Da Herr vom Osten und vom Westen und olls dazwischn, wann es verstehts."
+**26:28** Ea hod gsogt: „Da Herr vom Osten und vom Westen und olls dazwischn, wann es verstehts.“
 
 قَالَ رَبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَمَا بَيْنَهُمَآ ۖ إِن كُنتُمْ تَعْقِلُونَ
 
-**26:29** Ea hod gsogt: „Wann du an andan Gott außer mia annimmst, werd i di zua am Gefangenen macha."
+**26:29** Ea hod gsogt: „Wann du an andan Gott außer mia annimmst, werd i di zua am Gefangenen macha.“
 
 قَالَ لَئِنِ ٱتَّخَذْتَ إِلَٰهًا غَيْرِى لَأَجْعَلَنَّكَ مِنَ ٱلْمَسْجُونِينَ
 
-**26:30** Ea hod gsogt: „Wos, wann i dia wos Überzeugendes bring?"
+**26:30** Ea hod gsogt: „Wos, wann i dia wos Überzeugendes bring?“
 
 قَالَ أَوَلَوْ جِئْتُكَ بِشَىْءٍۢ مُّبِينٍۢ
 
-**26:31** Ea hod gsogt: „Bring s, wann du wohrhaftig bist."
+**26:31** Ea hod gsogt: „Bring s, wann du wohrhaftig bist.“
 
 قَالَ فَأْتِ بِهِۦٓ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 
@@ -12320,7 +12320,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 قَالَ لِلْمَلَإِ حَوْلَهُۥٓ إِنَّ هَٰذَا لَسَٰحِرٌ عَلِيمٌۭ
 
-**26:35** Ea beabsichtigt, enk mit seiner Zauberei aus enkarm Land zum vertreibn, so wos empföits es?"
+**26:35** Ea beabsichtigt, enk mit seiner Zauberei aus enkarm Land zum vertreibn, so wos empföits es?“
 
 يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِۦ فَمَاذَا تَأْمُرُونَ
 
@@ -12328,7 +12328,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَٱبْعَثْ فِى ٱلْمَدَآئِنِ حَٰشِرِينَ
 
-**26:37** Um dia an jedn erfahrenen Zauberer zum bringa."
+**26:37** Um dia an jedn erfahrenen Zauberer zum bringa.“
 
 يَأْتُوكَ بِكُلِّ سَحَّارٍ عَلِيمٍۢ
 
@@ -12340,23 +12340,23 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَقِيلَ لِلنَّاسِ هَلْ أَنتُم مُّجْتَمِعُونَ
 
-**26:40** Damit mia de Zauberer foign kennan, wann se de Sieger san."
+**26:40** Damit mia de Zauberer foign kennan, wann se de Sieger san.“
 
 لَعَلَّنَا نَتَّبِعُ ٱلسَّحَرَةَ إِن كَانُوا۟ هُمُ ٱلْغَٰلِبِينَ
 
-**26:41** Als de Zauberer ankemma san, ham se zum Pharao gsogt: „Gibt s a Belohnung fia uns, wann mia de Sieger san?"
+**26:41** Als de Zauberer ankemma san, ham se zum Pharao gsogt: „Gibt s a Belohnung fia uns, wann mia de Sieger san?“
 
 فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالُوا۟ لِفِرْعَوْنَ أَئِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ ٱلْغَٰلِبِينَ
 
-**26:42** Ea hod gsogt: „Ja, und es werds unta de Begünstigten sei."
+**26:42** Ea hod gsogt: „Ja, und es werds unta de Begünstigten sei.“
 
 قَالَ نَعَمْ وَإِنَّكُمْ إِذًۭا لَّمِنَ ٱلْمُقَرَّبِينَ
 
-**26:43** Moses hod zua eana gsogt: „Präsentierts, wos es zum präsentieren beabsichtigts."
+**26:43** Moses hod zua eana gsogt: „Präsentierts, wos es zum präsentieren beabsichtigts.“
 
 قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ
 
-**26:44** So ham se ihre Seile und ihre Stöcke gworfa und gsogt: „Bei da Majestät vom Pharao, mia wern de Sieger sei."
+**26:44** So ham se ihre Seile und ihre Stöcke gworfa und gsogt: „Bei da Majestät vom Pharao, mia wern de Sieger sei.“
 
 فَأَلْقَوْا۟ حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا۟ بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ ٱلْغَٰلِبُونَ
 
@@ -12372,11 +12372,11 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 قَالُوٓا۟ ءَامَنَّا بِرَبِّ ٱلْعَٰلَمِينَ
 
-**26:48** An Herrn vo Moses und Aaron."
+**26:48** An Herrn vo Moses und Aaron.“
 
 رَبِّ مُوسَىٰ وَهَٰرُونَ
 
-**26:49** Ea hod gsogt: „Hobts es an Eam glaubt, bevor i enk Erlaubnis gebn hob? Ea muass enka Oberhaupt sei, dea enk Zauberei glehrt hod. Es werds bald wissn. I werd enkare Händ und Fiaß auf entgegengesetzte Seitn abschneidn und i werd enk olle kreuzigen."
+**26:49** Ea hod gsogt: „Hobts es an Eam glaubt, bevor i enk Erlaubnis gebn hob? Ea muass enka Oberhaupt sei, dea enk Zauberei glehrt hod. Es werds bald wissn. I werd enkare Händ und Fiaß auf entgegengesetzte Seitn abschneidn und i werd enk olle kreuzigen.“
 
 قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ ۖ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ فَلَسَوْفَ تَعْلَمُونَ ۚ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍۢ وَلَأُصَلِّبَنَّكُمْ أَجْمَعِينَ
 
@@ -12384,11 +12384,11 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 قَالُوا۟ لَا ضَيْرَ ۖ إِنَّآ إِلَىٰ رَبِّنَا مُنقَلِبُونَ
 
-**26:51** Mia san begierig, dass unsa Herr uns unsare Sündn vergibt, wei mia de Erstn vo de Glaubign san."
+**26:51** Mia san begierig, dass unsa Herr uns unsare Sündn vergibt, wei mia de Erstn vo de Glaubign san.“
 
 إِنَّا نَطْمَعُ أَن يَغْفِرَ لَنَا رَبُّنَا خَطَٰيَٰنَآ أَن كُنَّآ أَوَّلَ ٱلْمُؤْمِنِينَ
 
-**26:52** Und Mia ham Moses eigebn: „Reis mit Meine Deaner bei Nocht. Es werds verfolgt wern."
+**26:52** Und Mia ham Moses eigebn: „Reis mit Meine Deaner bei Nocht. Es werds verfolgt wern.“
 
 ۞ وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِىٓ إِنَّكُم مُّتَّبَعُونَ
 
@@ -12404,7 +12404,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَإِنَّهُمْ لَنَا لَغَآئِظُونَ
 
-**26:56** Owa mia san a wachsame Menge."
+**26:56** Owa mia san a wachsame Menge.“
 
 وَإِنَّا لَجَمِيعٌ حَٰذِرُونَ
 
@@ -12424,15 +12424,15 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 فَأَتْبَعُوهُم مُّشْرِقِينَ
 
-**26:61** Als de zwoa Gruppen ananda gsichtig ham, ham de Anhänger vo Moses gsogt: „Mia wern eingeholt."
+**26:61** Als de zwoa Gruppen ananda gsichtig ham, ham de Anhänger vo Moses gsogt: „Mia wern eingeholt.“
 
 فَلَمَّا تَرَٰٓءَا ٱلْجَمْعَانِ قَالَ أَصْحَٰبُ مُوسَىٰٓ إِنَّا لَمُدْرَكُونَ
 
-**26:62** Ea hod gsogt: „Na; mei Herr is bei mia, Ea werd mi fiahrn."
+**26:62** Ea hod gsogt: „Na; mei Herr is bei mia, Ea werd mi fiahrn.“
 
 قَالَ كَلَّآ ۖ إِنَّ مَعِىَ رَبِّى سَيَهْدِينِ
 
-**26:63** Mia ham Moses eigebn: „Schlog s Meer mit deim Stab." Daraufhin hod s si gspoitn, und a jeda Teil war wia a riesiga Hügel.
+**26:63** Mia ham Moses eigebn: „Schlog s Meer mit deim Stab.“ Daraufhin hod s si gspoitn, und a jeda Teil war wia a riesiga Hügel.
 
 فَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْبَحْرَ ۖ فَٱنفَلَقَ فَكَانَ كُلُّ فِرْقٍۢ كَٱلطَّوْدِ ٱلْعَظِيمِ
 
@@ -12460,11 +12460,11 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَٱتْلُ عَلَيْهِمْ نَبَأَ إِبْرَٰهِيمَ
 
-**26:70** Als ea zua seim Vater und seine Leit gsogt hod: „Wos betts es an?"
+**26:70** Als ea zua seim Vater und seine Leit gsogt hod: „Wos betts es an?“
 
 إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا تَعْبُدُونَ
 
-**26:71** Se ham gsogt: „Mia betn Götzn an und bleibn eana ergeben."
+**26:71** Se ham gsogt: „Mia betn Götzn an und bleibn eana ergeben.“
 
 قَالُوا۟ نَعْبُدُ أَصْنَامًۭا فَنَظَلُّ لَهَا عَٰكِفِينَ
 
@@ -12472,11 +12472,11 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَدْعُونَ
 
-**26:73** Oda nutzen se enk, oda schaden se enk?"
+**26:73** Oda nutzen se enk, oda schaden se enk?“
 
 أَوْ يَنفَعُونَكُمْ أَوْ يَضُرُّونَ
 
-**26:74** Se ham gsogt: „Owa mia ham unsare Vorfohrn so dan findn."
+**26:74** Se ham gsogt: „Owa mia ham unsare Vorfohrn so dan findn.“
 
 قَالُوا۟ بَلْ وَجَدْنَآ ءَابَآءَنَا كَذَٰلِكَ يَفْعَلُونَ
 
@@ -12508,7 +12508,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَٱلَّذِى يُمِيتُنِى ثُمَّ يُحْيِينِ
 
-**26:82** Ea, vo dem i hoff, dass Ea mia meine Sündn am Dog vo da Abrechnung vergibt."
+**26:82** Ea, vo dem i hoff, dass Ea mia meine Sündn am Dog vo da Abrechnung vergibt.“
 
 وَٱلَّذِىٓ أَطْمَعُ أَن يَغْفِرَ لِى خَطِيٓـَٔتِى يَوْمَ ٱلدِّينِ
 
@@ -12536,7 +12536,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 يَوْمَ لَا يَنفَعُ مَالٌۭ وَلَا بَنُونَ
 
-**26:89** Außer dem, dea mit am gsundn Herz zua Allah kimmt."
+**26:89** Außer dem, dea mit am gsundn Herz zua Allah kimmt.“
 
 إِلَّا مَنْ أَتَى ٱللَّهَ بِقَلْبٍۢ سَلِيمٍۢ
 
@@ -12548,11 +12548,11 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَبُرِّزَتِ ٱلْجَحِيمُ لِلْغَاوِينَ
 
-**26:92** Und zua eana werd gsogt wern: „Wo san de, de es früha anbet hobts?"
+**26:92** Und zua eana werd gsogt wern: „Wo san de, de es früha anbet hobts?“
 
 وَقِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تَعْبُدُونَ
 
-**26:93** Außer Allah? Kennan se enk hejfa oda si söiba hejfa?"
+**26:93** Außer Allah? Kennan se enk hejfa oda si söiba hejfa?“
 
 مِن دُونِ ٱللَّهِ هَلْ يَنصُرُونَكُمْ أَوْ يَنتَصِرُونَ
 
@@ -12588,7 +12588,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَلَا صَدِيقٍ حَمِيمٍۢ
 
-**26:102** Wenn mia nur a andare Chance hättn, waradn mia unta de Glaubign."
+**26:102** Wenn mia nur a andare Chance hättn, waradn mia unta de Glaubign.“
 
 فَلَوْ أَنَّ لَنَا كَرَّةًۭ فَنَكُونَ مِنَ ٱلْمُؤْمِنِينَ
 
@@ -12620,11 +12620,11 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَٰلَمِينَ
 
-**26:110** So firchts Allah und gehorchts mia."
+**26:110** So firchts Allah und gehorchts mia.“
 
 فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ
 
-**26:111** Se ham gsogt: „Soin mia dia glaubn, wann s de Niedrigsten san, de dia foign?"
+**26:111** Se ham gsogt: „Soin mia dia glaubn, wann s de Niedrigsten san, de dia foign?“
 
 ۞ قَالُوٓا۟ أَنُؤْمِنُ لَكَ وَٱتَّبَعَكَ ٱلْأَرْذَلُونَ
 
@@ -12640,11 +12640,11 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَمَآ أَنَا۠ بِطَارِدِ ٱلْمُؤْمِنِينَ
 
-**26:115** I bin nur a klarer Warna."
+**26:115** I bin nur a klarer Warna.“
 
 إِنْ أَنَا۠ إِلَّا نَذِيرٌۭ مُّبِينٌۭ
 
-**26:116** Se ham gsogt: „Wann du ned ablossst, o Noah, werst du gstoanigt wern."
+**26:116** Se ham gsogt: „Wann du ned ablossst, o Noah, werst du gstoanigt wern.“
 
 قَالُوا۟ لَئِن لَّمْ تَنتَهِ يَٰنُوحُ لَتَكُونَنَّ مِنَ ٱلْمَرْجُومِينَ
 
@@ -12652,7 +12652,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 قَالَ رَبِّ إِنَّ قَوْمِى كَذَّبُونِ
 
-**26:118** So richte zwischn mia und eana entscheidend und rette mi und de Glaubign, de bei mia san."
+**26:118** So richte zwischn mia und eana entscheidend und rette mi und de Glaubign, de bei mia san.“
 
 فَٱفْتَحْ بَيْنِى وَبَيْنَهُمْ فَتْحًۭا وَنَجِّنِى وَمَن مَّعِىَ مِنَ ٱلْمُؤْمِنِينَ
 
@@ -12720,7 +12720,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَجَنَّٰتٍۢ وَعُيُونٍ
 
-**26:135** I fircht fia enk de Straf vo am ehrfurchtgebietenden Dog."
+**26:135** I fircht fia enk de Straf vo am ehrfurchtgebietenden Dog.“
 
 إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍۢ
 
@@ -12732,7 +12732,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 إِنْ هَٰذَآ إِلَّا خُلُقُ ٱلْأَوَّلِينَ
 
-**26:138** Und mia wern ned bestraft wern."
+**26:138** Und mia wern ned bestraft wern.“
 
 وَمَا نَحْنُ بِمُعَذَّبِينَ
 
@@ -12788,7 +12788,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَلَا تُطِيعُوٓا۟ أَمْرَ ٱلْمُسْرِفِينَ
 
-**26:152** De Unruah auf da Erdn verbreiten und si ned bessern."
+**26:152** De Unruah auf da Erdn verbreiten und si ned bessern.“
 
 ٱلَّذِينَ يُفْسِدُونَ فِى ٱلْأَرْضِ وَلَا يُصْلِحُونَ
 
@@ -12796,7 +12796,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 قَالُوٓا۟ إِنَّمَآ أَنتَ مِنَ ٱلْمُسَحَّرِينَ
 
-**26:154** Du bist nix ois a Mensch wia mia. So bring uns a Zoachn, wann du wohrhaftig bist."
+**26:154** Du bist nix ois a Mensch wia mia. So bring uns a Zoachn, wann du wohrhaftig bist.“
 
 مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 
@@ -12804,7 +12804,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 قَالَ هَٰذِهِۦ نَاقَةٌۭ لَّهَا شِرْبٌۭ وَلَكُمْ شِرْبُ يَوْمٍۢ مَّعْلُومٍۢ
 
-**26:156** Und berührts sie ned mit Schaden, sonst ergreift enk de Straf vo am großen Dog."
+**26:156** Und berührts sie ned mit Schaden, sonst ergreift enk de Straf vo am großen Dog.“
 
 وَلَا تَمَسُّوهَا بِسُوٓءٍۢ فَيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظِيمٍۢ
 
@@ -12844,11 +12844,11 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 أَتَأْتُونَ ٱلذُّكْرَانَ مِنَ ٱلْعَٰلَمِينَ
 
-**26:166** Und verlossts de Frauen, de enka Herr fia enk gschaffa hod? Gwiss, es seids aufdringliche Leit."
+**26:166** Und verlossts de Frauen, de enka Herr fia enk gschaffa hod? Gwiss, es seids aufdringliche Leit.“
 
 وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُم مِّنْ أَزْوَٰجِكُم ۚ بَلْ أَنتُمْ قَوْمٌ عَادُونَ
 
-**26:167** Se ham gsogt: „Wann du ned ablossst, o Lot, werst du vertriebm wern."
+**26:167** Se ham gsogt: „Wann du ned ablossst, o Lot, werst du vertriebm wern.“
 
 قَالُوا۟ لَئِن لَّمْ تَنتَهِ يَٰلُوطُ لَتَكُونَنَّ مِنَ ٱلْمُخْرَجِينَ
 
@@ -12856,7 +12856,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 قَالَ إِنِّى لِعَمَلِكُم مِّنَ ٱلْقَالِينَ
 
-**26:169** „Mei Herr, rette mi und mei Familie vo dem, wos se dan."
+**26:169** „Mei Herr, rette mi und mei Familie vo dem, wos se dan.“
 
 رَبِّ نَجِّنِى وَأَهْلِى مِمَّا يَعْمَلُونَ
 
@@ -12916,7 +12916,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
 
-**26:184** Und firchts Eam, dea enk und de Massen vo früher gschaffa hod."
+**26:184** Und firchts Eam, dea enk und de Massen vo früher gschaffa hod.“
 
 وَٱتَّقُوا۟ ٱلَّذِى خَلَقَكُمْ وَٱلْجِبِلَّةَ ٱلْأَوَّلِينَ
 
@@ -12928,11 +12928,11 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَمَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا وَإِن نَّظُنُّكَ لَمِنَ ٱلْكَٰذِبِينَ
 
-**26:187** So bring Stücke vom Himme auf uns oba, wann du wohrhaftig bist."
+**26:187** So bring Stücke vom Himme auf uns oba, wann du wohrhaftig bist.“
 
 فَأَسْقِطْ عَلَيْنَا كِسَفًۭا مِّنَ ٱلسَّمَآءِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 
-**26:188** Ea hod gsogt: „Mei Herr is sich genau bewusst üba des, wos es duats."
+**26:188** Ea hod gsogt: „Mei Herr is sich genau bewusst üba des, wos es duats.“
 
 قَالَ رَبِّىٓ أَعْلَمُ بِمَا تَعْمَلُونَ
 
@@ -12992,7 +12992,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 فَيَأْتِيَهُم بَغْتَةًۭ وَهُمْ لَا يَشْعُرُونَ
 
-**26:203** Nacha wern se song: „Kriang mia an Aufschub?"
+**26:203** Nacha wern se song: „Kriang mia an Aufschub?“
 
 فَيَقُولُوا۟ هَلْ نَحْنُ مُنظَرُونَ
 
@@ -13044,7 +13044,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَٱخْفِضْ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ
 
-**26:216** Und wann se dia ned gehorchn, sog: „I bin unschuldig an dem, wos es duats."
+**26:216** Und wann se dia ned gehorchn, sog: „I bin unschuldig an dem, wos es duats.“
 
 فَإِنْ عَصَوْكَ فَقُلْ إِنِّى بَرِىٓءٌۭ مِّمَّا تَعْمَلُونَ
 
@@ -18000,7 +18000,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 فَأَهْلَكْنَآ أَشَدَّ مِنْهُم بَطْشًۭا وَمَضَىٰ مَثَلُ ٱلْأَوَّلِينَ
 
-**43:9** Und wannst du sie fragst: „Wer hod de Himme und d Erd gschaffa?" Dann song sie: „Da Mächtige, da Wissende hod sie gschaffa."
+**43:9** Und wannst du sie fragst: „Wer hod de Himme und d Erd gschaffa?“ Dann song sie: „Da Mächtige, da Wissende hod sie gschaffa.“
 
 وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ خَلَقَهُنَّ ٱلْعَزِيزُ ٱلْعَلِيمُ
 
@@ -18020,7 +18020,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 لِتَسْتَوُۥا۟ عَلَىٰ ظُهُورِهِۦ ثُمَّ تَذْكُرُوا۟ نِعْمَةَ رَبِّكُمْ إِذَا ٱسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا۟ سُبْحَٰنَ ٱلَّذِى سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُۥ مُقْرِنِينَ
 
-**43:14** Und gwiss, zu unserm Herrn kehrn mia zruck."
+**43:14** Und gwiss, zu unserm Herrn kehrn mia zruck.“
 
 وَإِنَّآ إِلَىٰ رَبِّنَا لَمُنقَلِبُونَ
 
@@ -18036,7 +18036,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَإِذَا بُشِّرَ أَحَدُهُم بِمَا ضَرَبَ لِلرَّحْمَٰنِ مَثَلًۭا ظَلَّ وَجْهُهُۥ مُسْوَدًّۭا وَهُوَ كَظِيمٌ
 
-**43:18** „Oana, der nur zum Schösei aufzoagn is und im Kampf ned helfa ko?"
+**43:18** „Oana, der nur zum Schösei aufzoagn is und im Kampf ned helfa ko?“
 
 أَوَمَن يُنَشَّؤُا۟ فِى ٱلْحِلْيَةِ وَهُوَ فِى ٱلْخِصَامِ غَيْرُ مُبِينٍۢ
 
@@ -18044,7 +18044,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَجَعَلُوا۟ ٱلْمَلَٰٓئِكَةَ ٱلَّذِينَ هُمْ عِبَٰدُ ٱلرَّحْمَٰنِ إِنَٰثًا ۚ أَشَهِدُوا۟ خَلْقَهُمْ ۚ سَتُكْتَبُ شَهَٰدَتُهُمْ وَيُسْـَٔلُونَ
 
-**43:20** Und sie song: „Wenn da Wohltätige gwollt hätt, dann hättn mia sie ned anbet." Oba sie ham koa Wissen davo; sie ratn nur.
+**43:20** Und sie song: „Wenn da Wohltätige gwollt hätt, dann hättn mia sie ned anbet.“ Oba sie ham koa Wissen davo; sie ratn nur.
 
 وَقَالُوا۟ لَوْ شَآءَ ٱلرَّحْمَٰنُ مَا عَبَدْنَٰهُم ۗ مَّا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَخْرُصُونَ
 
@@ -18052,15 +18052,15 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 أَمْ ءَاتَيْنَٰهُمْ كِتَٰبًۭا مِّن قَبْلِهِۦ فَهُم بِهِۦ مُسْتَمْسِكُونَ
 
-**43:22** Oba sie song: „Mia ham unsere Eltern auf am Weg gfundn, und mia san in eahna Fußstapfn gführt."
+**43:22** Oba sie song: „Mia ham unsere Eltern auf am Weg gfundn, und mia san in eahna Fußstapfn gführt.“
 
 بَلْ قَالُوٓا۟ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍۢ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّهْتَدُونَ
 
-**43:23** Genauso ham Mia vor dir koan Warner in a Stadt gschickt, ohne dass de Reichn do drin gsogt ham: „Mia ham unsere Eltern auf am Weg gfundn, und mia folgn in eahna Fußstapfn."
+**43:23** Genauso ham Mia vor dir koan Warner in a Stadt gschickt, ohne dass de Reichn do drin gsogt ham: „Mia ham unsere Eltern auf am Weg gfundn, und mia folgn in eahna Fußstapfn.“
 
 وَكَذَٰلِكَ مَآ أَرْسَلْنَا مِن قَبْلِكَ فِى قَرْيَةٍۢ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍۢ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّقْتَدُونَ
 
-**43:24** Ea hod gsogt: „A wenn i enk bessere Führung bring ois de, der enka Eltern gfolgt san?" Sie song: „Mia lehnan ab, womit du gschickt bist."
+**43:24** Ea hod gsogt: „A wenn i enk bessere Führung bring ois de, der enka Eltern gfolgt san?“ Sie song: „Mia lehnan ab, womit du gschickt bist.“
 
 ۞ قَٰلَ أَوَلَوْ جِئْتُكُم بِأَهْدَىٰ مِمَّا وَجَدتُّمْ عَلَيْهِ ءَابَآءَكُمْ ۖ قَالُوٓا۟ إِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَٰفِرُونَ
 
@@ -18072,7 +18072,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ وَقَوْمِهِۦٓ إِنَّنِى بَرَآءٌۭ مِّمَّا تَعْبُدُونَ
 
-**43:27** Außer Eahm, der mi gschaffa hod, wei Ea werd mi führn."
+**43:27** Außer Eahm, der mi gschaffa hod, wei Ea werd mi führn.“
 
 إِلَّا ٱلَّذِى فَطَرَنِى فَإِنَّهُۥ سَيَهْدِينِ
 
@@ -18084,11 +18084,11 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 بَلْ مَتَّعْتُ هَٰٓؤُلَآءِ وَءَابَآءَهُمْ حَتَّىٰ جَآءَهُمُ ٱلْحَقُّ وَرَسُولٌۭ مُّبِينٌۭ
 
-**43:30** Oba wia de Wahrheit zu eahna kema is, ham sie gsogt: „Des is Zauberei, und mia glaubn ned dro."
+**43:30** Oba wia de Wahrheit zu eahna kema is, ham sie gsogt: „Des is Zauberei, und mia glaubn ned dro.“
 
 وَلَمَّا جَآءَهُمُ ٱلْحَقُّ قَالُوا۟ هَٰذَا سِحْرٌۭ وَإِنَّا بِهِۦ كَٰفِرُونَ
 
-**43:31** Sie ham a gsogt: „Wenn doch der Koran zu am wichtigen Mann aus de zwoa Städt owagschickt wordn war."
+**43:31** Sie ham a gsogt: „Wenn doch der Koran zu am wichtigen Mann aus de zwoa Städt owagschickt wordn war.“
 
 وَقَالُوا۟ لَوْلَا نُزِّلَ هَٰذَا ٱلْقُرْءَانُ عَلَىٰ رَجُلٍۢ مِّنَ ٱلْقَرْيَتَيْنِ عَظِيمٍ
 
@@ -18116,7 +18116,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَإِنَّهُمْ لَيَصُدُّونَهُمْ عَنِ ٱلسَّبِيلِ وَيَحْسَبُونَ أَنَّهُم مُّهْتَدُونَ
 
-**43:38** Bis, wann ea zu Uns kimmt, werd ea sogn: „War zwischen mia und dir nur de Entfernung vo de zwoa Osten." So a böser Begleiter!
+**43:38** Bis, wann ea zu Uns kimmt, werd ea sogn: „War zwischen mia und dir nur de Entfernung vo de zwoa Osten.“ So a böser Begleiter!
 
 حَتَّىٰٓ إِذَا جَآءَنَا قَالَ يَٰلَيْتَ بَيْنِى وَبَيْنَكَ بُعْدَ ٱلْمَشْرِقَيْنِ فَبِئْسَ ٱلْقَرِينُ
 
@@ -18144,11 +18144,11 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَإِنَّهُۥ لَذِكْرٌۭ لَّكَ وَلِقَوْمِكَ ۖ وَسَوْفَ تُسْـَٔلُونَ
 
-**43:45** Frag de vo Unsere Gesandtn, de Mia vor dir gschickt ham: „Ham Mia Götter neben am Wohltätigen bestimmt, de anbet wern solln?"
+**43:45** Frag de vo Unsere Gesandtn, de Mia vor dir gschickt ham: „Ham Mia Götter neben am Wohltätigen bestimmt, de anbet wern solln?“
 
 وَسْـَٔلْ مَنْ أَرْسَلْنَا مِن قَبْلِكَ مِن رُّسُلِنَآ أَجَعَلْنَا مِن دُونِ ٱلرَّحْمَٰنِ ءَالِهَةًۭ يُعْبَدُونَ
 
-**43:46** Mia ham Mose mit Unsere Offenbarungen zum Pharao und seine Würdenträger gschickt. Ea hod gsogt: „I bin da Gesandte vom Herrn vo de Welten."
+**43:46** Mia ham Mose mit Unsere Offenbarungen zum Pharao und seine Würdenträger gschickt. Ea hod gsogt: „I bin da Gesandte vom Herrn vo de Welten.“
 
 وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَآ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَقَالَ إِنِّى رَسُولُ رَبِّ ٱلْعَٰلَمِينَ
 
@@ -18160,7 +18160,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَمَا نُرِيهِم مِّنْ ءَايَةٍ إِلَّا هِىَ أَكْبَرُ مِنْ أُخْتِهَا ۖ وَأَخَذْنَٰهُم بِٱلْعَذَابِ لَعَلَّهُمْ يَرْجِعُونَ
 
-**43:49** Sie ham gsogt: „O Zauberer, bet zu deim Herrn fia uns, nach Seim Versprechn an di, dann wern mia gführt sei."
+**43:49** Sie ham gsogt: „O Zauberer, bet zu deim Herrn fia uns, nach Seim Versprechn an di, dann wern mia gführt sei.“
 
 وَقَالُوا۟ يَٰٓأَيُّهَ ٱلسَّاحِرُ ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهْتَدُونَ
 
@@ -18176,7 +18176,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 أَمْ أَنَا۠ خَيْرٌۭ مِّنْ هَٰذَا ٱلَّذِى هُوَ مَهِينٌۭ وَلَا يَكَادُ يُبِينُ
 
-**43:53** Warum wern eahm koane Armreifa aus Goid obagworfn, oda Engel komma in am Zug mit eahm?"
+**43:53** Warum wern eahm koane Armreifa aus Goid obagworfn, oda Engel komma in am Zug mit eahm?“
 
 فَلَوْلَآ أُلْقِىَ عَلَيْهِ أَسْوِرَةٌۭ مِّن ذَهَبٍ أَوْ جَآءَ مَعَهُ ٱلْمَلَٰٓئِكَةُ مُقْتَرِنِينَ
 
@@ -18196,7 +18196,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 ۞ وَلَمَّا ضُرِبَ ٱبْنُ مَرْيَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ
 
-**43:58** Sie ham gsogt: „San unsere Götter besser, oda ea?" Sie ham eahm nur zum Streiten ogführt. In Wirklichkeit san sie a streitsüchtiges Volk.
+**43:58** Sie ham gsogt: „San unsere Götter besser, oda ea?“ Sie ham eahm nur zum Streiten ogführt. In Wirklichkeit san sie a streitsüchtiges Volk.
 
 وَقَالُوٓا۟ ءَأَٰلِهَتُنَا خَيْرٌ أَمْ هُوَ ۚ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلًۢا ۚ بَلْ هُمْ قَوْمٌ خَصِمُونَ
 
@@ -18220,7 +18220,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَلَمَّا جَآءَ عِيسَىٰ بِٱلْبَيِّنَٰتِ قَالَ قَدْ جِئْتُكُم بِٱلْحِكْمَةِ وَلِأُبَيِّنَ لَكُم بَعْضَ ٱلَّذِى تَخْتَلِفُونَ فِيهِ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ
 
-**43:64** Allah is mei Herr und enka Herr, also bets Eahm an — des is a gerader Weg."
+**43:64** Allah is mei Herr und enka Herr, also bets Eahm an — des is a gerader Weg.“
 
 إِنَّ ٱللَّهَ هُوَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۚ هَٰذَا صِرَٰطٌۭ مُّسْتَقِيمٌۭ
 
@@ -18272,7 +18272,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَمَا ظَلَمْنَٰهُمْ وَلَٰكِن كَانُوا۟ هُمُ ٱلظَّٰلِمِينَ
 
-**43:77** Und sie wern schrein: „O Malek, lass dein Herrn uns endlich gar macha." Ea werd sogn: „Es bleibts do."
+**43:77** Und sie wern schrein: „O Malek, lass dein Herrn uns endlich gar macha.“ Ea werd sogn: „Es bleibts do.“
 
 وَنَادَوْا۟ يَٰمَٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّٰكِثُونَ
 
@@ -18288,7 +18288,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 أَمْ يَحْسَبُونَ أَنَّا لَا نَسْمَعُ سِرَّهُمْ وَنَجْوَىٰهُم ۚ بَلَىٰ وَرُسُلُنَا لَدَيْهِمْ يَكْتُبُونَ
 
-**43:81** Sog: „Wenn da Wohltätige an Sohn hätt, war i da Erste, der anbet."
+**43:81** Sog: „Wenn da Wohltätige an Sohn hätt, war i da Erste, der anbet.“
 
 قُلْ إِن كَانَ لِلرَّحْمَٰنِ وَلَدٌۭ فَأَنَا۠ أَوَّلُ ٱلْعَٰبِدِينَ
 
@@ -18312,15 +18312,15 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَلَا يَمْلِكُ ٱلَّذِينَ يَدْعُونَ مِن دُونِهِ ٱلشَّفَٰعَةَ إِلَّا مَن شَهِدَ بِٱلْحَقِّ وَهُمْ يَعْلَمُونَ
 
-**43:87** Und wannst du sie fragst: „Wer hod sie gschaffa?", dann song sie: „Allah." Warum weichen sie dann ab?
+**43:87** Und wannst du sie fragst: „Wer hod sie gschaffa?“, dann song sie: „Allah.“ Warum weichen sie dann ab?
 
 وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَهُمْ لَيَقُولُنَّ ٱللَّهُ ۖ فَأَنَّىٰ يُؤْفَكُونَ
 
-**43:88** Wos sei Wort obetrifft: „Mei Herr, des is a Volk, des ned glaubt."
+**43:88** Wos sei Wort obetrifft: „Mei Herr, des is a Volk, des ned glaubt.“
 
 وَقِيلِهِۦ يَٰرَبِّ إِنَّ هَٰٓؤُلَآءِ قَوْمٌۭ لَّا يُؤْمِنُونَ
 
-**43:89** Verzeih eahna, und sog: „Friedn." Sie wern s no wissen.
+**43:89** Verzeih eahna, und sog: „Friedn.“ Sie wern s no wissen.
 
 فَٱصْفَحْ عَنْهُمْ وَقُلْ سَلَٰمٌۭ ۚ فَسَوْفَ يَعْلَمُونَ
 
@@ -18380,7 +18380,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 يَغْشَى ٱلنَّاسَ ۖ هَٰذَا عَذَابٌ أَلِيمٌۭ
 
-**44:12** „Unser Herr, heb de Qual vo uns auf, mia san Gläubige."
+**44:12** „Unser Herr, heb de Qual vo uns auf, mia san Gläubige.“
 
 رَّبَّنَا ٱكْشِفْ عَنَّا ٱلْعَذَابَ إِنَّا مُؤْمِنُونَ
 
@@ -18388,7 +18388,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 أَنَّىٰ لَهُمُ ٱلذِّكْرَىٰ وَقَدْ جَآءَهُمْ رَسُولٌۭ مُّبِينٌۭ
 
-**44:14** Oba sie ham si vo eahm abgwendt und gsogt: „Gelehrt, oba varruckt!"
+**44:14** Oba sie ham si vo eahm abgwendt und gsogt: „Gelehrt, oba varruckt!“
 
 ثُمَّ تَوَلَّوْا۟ عَنْهُ وَقَالُوا۟ مُعَلَّمٌۭ مَّجْنُونٌ
 
@@ -18404,7 +18404,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 ۞ وَلَقَدْ فَتَنَّا قَبْلَهُمْ قَوْمَ فِرْعَوْنَ وَجَآءَهُمْ رَسُولٌۭ كَرِيمٌ
 
-**44:18** Und hod gsogt: „Gib ma Allahs Diener. I bin a ehrlicher Gesandta zu enk."
+**44:18** Und hod gsogt: „Gib ma Allahs Diener. I bin a ehrlicher Gesandta zu enk.“
 
 أَنْ أَدُّوٓا۟ إِلَىَّ عِبَادَ ٱللَّهِ ۖ إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ
 
@@ -18416,11 +18416,11 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَإِنِّى عُذْتُ بِرَبِّى وَرَبِّكُمْ أَن تَرْجُمُونِ
 
-**44:21** Oba wenn es ma ned glaubts, dann bleibts ma vom Leib."
+**44:21** Oba wenn es ma ned glaubts, dann bleibts ma vom Leib.“
 
 وَإِن لَّمْ تُؤْمِنُوا۟ لِى فَٱعْتَزِلُونِ
 
-**44:22** Ea hod seim Herrn ogfleht: „Des is a sündiges Volk."
+**44:22** Ea hod seim Herrn ogfleht: „Des is a sündiges Volk.“
 
 فَدَعَا رَبَّهُۥٓ أَنَّ هَٰٓؤُلَآءِ قَوْمٌۭ مُّجْرِمُونَ
 
@@ -18428,7 +18428,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ
 
-**44:24** Und geh schnell übers Meer; sie san a Heer, des ertränkt wern werd."
+**44:24** Und geh schnell übers Meer; sie san a Heer, des ertränkt wern werd.“
 
 وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا ۖ إِنَّهُمْ جُندٌۭ مُّغْرَقُونَ
 
@@ -18476,7 +18476,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 إِنْ هِىَ إِلَّا مَوْتَتُنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُنشَرِينَ
 
-**44:36** Bringts unsere Vorfahrn zruck, wenn es ehrlich seids."
+**44:36** Bringts unsere Vorfahrn zruck, wenn es ehrlich seids.“
 
 فَأْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -18676,15 +18676,15 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 أَفَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلْمٍۢ وَخَتَمَ عَلَىٰ سَمْعِهِۦ وَقَلْبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةًۭ فَمَن يَهْدِيهِ مِنۢ بَعْدِ ٱللَّهِ ۚ أَفَلَا تَذَكَّرُونَ
 
-**45:24** Und sie song: „S gibt nix außer dem unserm jetzigen Lebn do; mia sterbn und mia lebm, und nix zerstört uns außer de Zeit." Oba sie ham koa Wissen davo; sie ratn nur.
+**45:24** Und sie song: „S gibt nix außer dem unserm jetzigen Lebn do; mia sterbn und mia lebm, und nix zerstört uns außer de Zeit.“ Oba sie ham koa Wissen davo; sie ratn nur.
 
 وَقَالُوا۟ مَا هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا يُهْلِكُنَآ إِلَّا ٱلدَّهْرُ ۚ وَمَا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَظُنُّونَ
 
-**45:25** Wann Unsere klaren Verse eahna vorgetragen wern, is ihr oanzigs Argument, zum sogn: „Bringts unsere Vorfahrn zruck, wenn es ehrlich seids."
+**45:25** Wann Unsere klaren Verse eahna vorgetragen wern, is ihr oanzigs Argument, zum sogn: „Bringts unsere Vorfahrn zruck, wenn es ehrlich seids.“
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ مَّا كَانَ حُجَّتَهُمْ إِلَّآ أَن قَالُوا۟ ٱئْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَٰدِقِينَ
 
-**45:26** Sog: „Allah gibt enk Lebn, dann losst Ea enk sterbn; dann sammelt Ea enk fia an Dag vo da Auferstehung, an dem s koan Zweifel gibt. Oba de meistn Leit wissens ned."
+**45:26** Sog: „Allah gibt enk Lebn, dann losst Ea enk sterbn; dann sammelt Ea enk fia an Dag vo da Auferstehung, an dem s koan Zweifel gibt. Oba de meistn Leit wissens ned.“
 
 قُلِ ٱللَّهُ يُحْيِيكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يَجْمَعُكُمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَا رَيْبَ فِيهِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
@@ -18696,7 +18696,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَتَرَىٰ كُلَّ أُمَّةٍۢ جَاثِيَةًۭ ۚ كُلُّ أُمَّةٍۢ تُدْعَىٰٓ إِلَىٰ كِتَٰبِهَا ٱلْيَوْمَ تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ
 
-**45:29** Des Buach vo Uns do spricht in Wahrheit über enk. Mia ham ois aufgschriebn, wos es doa habts."
+**45:29** Des Buach vo Uns do spricht in Wahrheit über enk. Mia ham ois aufgschriebn, wos es doa habts.“
 
 هَٰذَا كِتَٰبُنَا يَنطِقُ عَلَيْكُم بِٱلْحَقِّ ۚ إِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ
 
@@ -18704,11 +18704,11 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُدْخِلُهُمْ رَبُّهُمْ فِى رَحْمَتِهِۦ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْمُبِينُ
 
-**45:31** Oba wos de obetrifft, de ned glaubt ham: „San Meine Offenbarungen enk ned vorgetragen wordn? Oba es habts enk hochmütig abgwendt und warts schuldige Leit."
+**45:31** Oba wos de obetrifft, de ned glaubt ham: „San Meine Offenbarungen enk ned vorgetragen wordn? Oba es habts enk hochmütig abgwendt und warts schuldige Leit.“
 
 وَأَمَّا ٱلَّذِينَ كَفَرُوٓا۟ أَفَلَمْ تَكُنْ ءَايَٰتِى تُتْلَىٰ عَلَيْكُمْ فَٱسْتَكْبَرْتُمْ وَكُنتُمْ قَوْمًۭا مُّجْرِمِينَ
 
-**45:32** Und wann gsogt wordn is: „S Versprechn vo Allah is wahr, und an da Stund gibt s koan Zweifel", habts es gsogt: „Mia wissen ned, wos de Stund is; mia denken, s is nur Vermutung; mia san ned überzeugt."
+**45:32** Und wann gsogt wordn is: „S Versprechn vo Allah is wahr, und an da Stund gibt s koan Zweifel“, habts es gsogt: „Mia wissen ned, wos de Stund is; mia denken, s is nur Vermutung; mia san ned überzeugt.“
 
 وَإِذَا قِيلَ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ وَٱلسَّاعَةُ لَا رَيْبَ فِيهَا قُلْتُم مَّا نَدْرِى مَا ٱلسَّاعَةُ إِن نَّظُنُّ إِلَّا ظَنًّۭا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ
 
@@ -18720,7 +18720,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَقِيلَ ٱلْيَوْمَ نَنسَىٰكُمْ كَمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا وَمَأْوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّٰصِرِينَ
 
-**45:35** Des is, wei es Allahs Offenbarungen ois Witz gnommen habts, und s weltliche Lebn enk verlockt hod." Also wern sie heit ned draus außebrocht, und sie derfn a ned bereuen.
+**45:35** Des is, wei es Allahs Offenbarungen ois Witz gnommen habts, und s weltliche Lebn enk verlockt hod.“ Also wern sie heit ned draus außebrocht, und sie derfn a ned bereuen.
 
 ذَٰلِكُم بِأَنَّكُمُ ٱتَّخَذْتُمْ ءَايَٰتِ ٱللَّهِ هُزُوًۭا وَغَرَّتْكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ فَٱلْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَلَا هُمْ يُسْتَعْتَبُونَ
 
@@ -18756,7 +18756,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 مَا خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ وَأَجَلٍۢ مُّسَمًّۭى ۚ وَٱلَّذِينَ كَفَرُوا۟ عَمَّآ أُنذِرُوا۟ مُعْرِضُونَ
 
-**46:4** Sog: „Habts es de betracht, de es statt Allah anbets? Zoagts ma, weichen Teil vo da Erd sie gschaffa ham. Oda ghört eahna a Anteil an de Himme? Bringts ma a Schrift vor dera do, oda irgend a Spur vo Wissen, wenn es ehrlich seids."
+**46:4** Sog: „Habts es de betracht, de es statt Allah anbets? Zoagts ma, weichen Teil vo da Erd sie gschaffa ham. Oda ghört eahna a Anteil an de Himme? Bringts ma a Schrift vor dera do, oda irgend a Spur vo Wissen, wenn es ehrlich seids.“
 
 قُلْ أَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌۭ فِى ٱلسَّمَٰوَٰتِ ۖ ٱئْتُونِى بِكِتَٰبٍۢ مِّن قَبْلِ هَٰذَآ أَوْ أَثَٰرَةٍۢ مِّنْ عِلْمٍ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -18768,23 +18768,23 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَإِذَا حُشِرَ ٱلنَّاسُ كَانُوا۟ لَهُمْ أَعْدَآءًۭ وَكَانُوا۟ بِعِبَادَتِهِمْ كَٰفِرِينَ
 
-**46:7** Wann Unsere Offenbarungen eahna vorgetragen wern, kloar und deitlich, dann song de, de ned glaubn, vo da Wahrheit, wann sie zu eahna kema is: „Des is offnsichtlich Zauberei."
+**46:7** Wann Unsere Offenbarungen eahna vorgetragen wern, kloar und deitlich, dann song de, de ned glaubn, vo da Wahrheit, wann sie zu eahna kema is: „Des is offnsichtlich Zauberei.“
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلْحَقِّ لَمَّا جَآءَهُمْ هَٰذَا سِحْرٌۭ مُّبِينٌ
 
-**46:8** Oda song sie: „Ea hod s söwa erfundn"? Sog: „Wenn i s söwa erfundn hätt, dann kannts es nix doa, um mi vor Allah zu schützen. Ea woß guat, wos es do treibts. Ea is gnua Zeuge zwischen mia und enk. Ea is da Vergebende, da Barmherzige."
+**46:8** Oda song sie: „Ea hod s söwa erfundn“? Sog: „Wenn i s söwa erfundn hätt, dann kannts es nix doa, um mi vor Allah zu schützen. Ea woß guat, wos es do treibts. Ea is gnua Zeuge zwischen mia und enk. Ea is da Vergebende, da Barmherzige.“
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَلَا تَمْلِكُونَ لِى مِنَ ٱللَّهِ شَيْـًٔا ۖ هُوَ أَعْلَمُ بِمَا تُفِيضُونَ فِيهِ ۖ كَفَىٰ بِهِۦ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۖ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
-**46:9** Sog: „I bin ned anders ois de andern Gesandtn; und i woaß ned, wos mit mia oder mit enk gschehn werd. I folg nur dem, wos ma eingegeben werd, und i bin nur a klarer Warner."
+**46:9** Sog: „I bin ned anders ois de andern Gesandtn; und i woaß ned, wos mit mia oder mit enk gschehn werd. I folg nur dem, wos ma eingegeben werd, und i bin nur a klarer Warner.“
 
 قُلْ مَا كُنتُ بِدْعًۭا مِّنَ ٱلرُّسُلِ وَمَآ أَدْرِى مَا يُفْعَلُ بِى وَلَا بِكُمْ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ وَمَآ أَنَا۠ إِلَّا نَذِيرٌۭ مُّبِينٌۭ
 
-**46:10** Sog: „Habts es betracht? Wos, wenn s vo Allah is und es glaubts ned dro? A Zeuge vo de Kinder vo Israel hod sei Gleiches bezeugt und hod glaubt, während es enk hochmütig abgwendt habts. Allah führt de ungerechten Leit ned."
+**46:10** Sog: „Habts es betracht? Wos, wenn s vo Allah is und es glaubts ned dro? A Zeuge vo de Kinder vo Israel hod sei Gleiches bezeugt und hod glaubt, während es enk hochmütig abgwendt habts. Allah führt de ungerechten Leit ned.“
 
 قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ وَكَفَرْتُم بِهِۦ وَشَهِدَ شَاهِدٌۭ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ عَلَىٰ مِثْلِهِۦ فَـَٔامَنَ وَٱسْتَكْبَرْتُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**46:11** De, de ned glaubn, song zu dene, de glaubn: „Wenn s wos Guads war, dann warn sie uns ned dazu zuvorkema." Und wei sie dadurch ned gführt wordn san, wern sie sogn: „Des is a oide Lüge."
+**46:11** De, de ned glaubn, song zu dene, de glaubn: „Wenn s wos Guads war, dann warn sie uns ned dazu zuvorkema.“ Und wei sie dadurch ned gführt wordn san, wern sie sogn: „Des is a oide Lüge.“
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ لَوْ كَانَ خَيْرًۭا مَّا سَبَقُونَآ إِلَيْهِ ۚ وَإِذْ لَمْ يَهْتَدُوا۟ بِهِۦ فَسَيَقُولُونَ هَٰذَآ إِفْكٌۭ قَدِيمٌۭ
 
@@ -18792,7 +18792,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَمِن قَبْلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامًۭا وَرَحْمَةًۭ ۚ وَهَٰذَا كِتَٰبٌۭ مُّصَدِّقٌۭ لِّسَانًا عَرَبِيًّۭا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُوا۟ وَبُشْرَىٰ لِلْمُحْسِنِينَ
 
-**46:13** De, de sogn: „Unser Herr is Allah", und dann a gerechts Lebn führn — sie ham nix zu fürchtn, und sie wern a ned traurig sei.
+**46:13** De, de sogn: „Unser Herr is Allah“, und dann a gerechts Lebn führn — sie ham nix zu fürchtn, und sie wern a ned traurig sei.
 
 إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَٰمُوا۟ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
@@ -18800,7 +18800,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ خَٰلِدِينَ فِيهَا جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**46:15** Mia ham am Menschen Güte zu seine Eltern aufgetragen. Sei Muadda hod eahm mit Mühe trogn, und mit Mühe geborn. Sei Tragen und Abstillen dauert dreißig Monat. Bis, wann ea reif wordn is und vierzig Jahr erreicht hod, ea sagt: „Herr, loss mi de Segnungen schätzen, de Du ma und meine Eltern gebn host, und loss mi mit Gerechtigkeit handeln, Dir zum Wohlgefallen. Und mach meine Kinder besser fia mi. I hob aufrichtig zu Dir umkehrt, und i bin vo dene, de si ergeben ham."
+**46:15** Mia ham am Menschen Güte zu seine Eltern aufgetragen. Sei Muadda hod eahm mit Mühe trogn, und mit Mühe geborn. Sei Tragen und Abstillen dauert dreißig Monat. Bis, wann ea reif wordn is und vierzig Jahr erreicht hod, ea sagt: „Herr, loss mi de Segnungen schätzen, de Du ma und meine Eltern gebn host, und loss mi mit Gerechtigkeit handeln, Dir zum Wohlgefallen. Und mach meine Kinder besser fia mi. I hob aufrichtig zu Dir umkehrt, und i bin vo dene, de si ergeben ham.“
 
 وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ إِحْسَٰنًا ۖ حَمَلَتْهُ أُمُّهُۥ كُرْهًۭا وَوَضَعَتْهُ كُرْهًۭا ۖ وَحَمْلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ شَهْرًا ۚ حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرْبَعِينَ سَنَةًۭ قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًۭا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ ۖ إِنِّى تُبْتُ إِلَيْكَ وَإِنِّى مِنَ ٱلْمُسْلِمِينَ
 
@@ -18808,7 +18808,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ نَتَقَبَّلُ عَنْهُمْ أَحْسَنَ مَا عَمِلُوا۟ وَنَتَجَاوَزُ عَن سَيِّـَٔاتِهِمْ فِىٓ أَصْحَٰبِ ٱلْجَنَّةِ ۖ وَعْدَ ٱلصِّدْقِ ٱلَّذِى كَانُوا۟ يُوعَدُونَ
 
-**46:17** Wos aber den obetrifft, der zu seine Eltern sagt: „Gnua vo enk! Versprechts es ma, dass i auferweckt werd, wo doch Generationen vor mia vaganga san?" Während sie um Allahs Hilfe schrein: „Wee dir! Glaub! S Versprechn vo Allah is wahr!" Oba ea sagt: „Des san nix ois Gschichten vo de Oiden."
+**46:17** Wos aber den obetrifft, der zu seine Eltern sagt: „Gnua vo enk! Versprechts es ma, dass i auferweckt werd, wo doch Generationen vor mia vaganga san?“ Während sie um Allahs Hilfe schrein: „Wee dir! Glaub! S Versprechn vo Allah is wahr!“ Oba ea sagt: „Des san nix ois Gschichten vo de Oiden.“
 
 وَٱلَّذِى قَالَ لِوَٰلِدَيْهِ أُفٍّۢ لَّكُمَآ أَتَعِدَانِنِىٓ أَنْ أُخْرَجَ وَقَدْ خَلَتِ ٱلْقُرُونُ مِن قَبْلِى وَهُمَا يَسْتَغِيثَانِ ٱللَّهَ وَيْلَكَ ءَامِنْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ فَيَقُولُ مَا هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
@@ -18820,23 +18820,23 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَلِكُلٍّۢ دَرَجَٰتٌۭ مِّمَّا عَمِلُوا۟ ۖ وَلِيُوَفِّيَهُمْ أَعْمَٰلَهُمْ وَهُمْ لَا يُظْلَمُونَ
 
-**46:20** An dem Dag, wann de Glaubenslosen vors Feia gführt wern: „Es habts enka Guads in enkerm weltlichen Lebn verschwendet, und es habts enk dra erfreit. Also werds es heit mit da Qual vo da Schande zruckzahlt, weng enka ungerechte Überheblichkeit auf da Erd, und wei es imma Sünden beganga habts."
+**46:20** An dem Dag, wann de Glaubenslosen vors Feia gführt wern: „Es habts enka Guads in enkerm weltlichen Lebn verschwendet, und es habts enk dra erfreit. Also werds es heit mit da Qual vo da Schande zruckzahlt, weng enka ungerechte Überheblichkeit auf da Erd, und wei es imma Sünden beganga habts.“
 
 وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَذْهَبْتُمْ طَيِّبَٰتِكُمْ فِى حَيَاتِكُمُ ٱلدُّنْيَا وَٱسْتَمْتَعْتُم بِهَا فَٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَسْتَكْبِرُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَبِمَا كُنتُمْ تَفْسُقُونَ
 
-**46:21** Und erwähn an Bruader vo Aad, wia ea sei Volk an de Dünen gwarnt hod. Warnungen san vor eahm und nach eahm vaganga: „Bet koan an außer Allah; i fürcht fia enk de Straf vo am gewaltigen Dag."
+**46:21** Und erwähn an Bruader vo Aad, wia ea sei Volk an de Dünen gwarnt hod. Warnungen san vor eahm und nach eahm vaganga: „Bet koan an außer Allah; i fürcht fia enk de Straf vo am gewaltigen Dag.“
 
 ۞ وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦٓ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍۢ
 
-**46:22** Sie ham gsogt: „Bist du zu uns kema, um uns vo unsere Götter abzulenken? Dann bring uns, womit du uns drohst, wenn du ehrlich bist."
+**46:22** Sie ham gsogt: „Bist du zu uns kema, um uns vo unsere Götter abzulenken? Dann bring uns, womit du uns drohst, wenn du ehrlich bist.“
 
 قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 
-**46:23** Ea hod gsogt: „S Wissen is nur bei Allah, und i teil enk des mit, womit i gschickt wordn bin; oba i seg, es seids a unwissendes Volk."
+**46:23** Ea hod gsogt: „S Wissen is nur bei Allah, und i teil enk des mit, womit i gschickt wordn bin; oba i seg, es seids a unwissendes Volk.“
 
 قَالَ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَأُبَلِّغُكُم مَّآ أُرْسِلْتُ بِهِۦ وَلَٰكِنِّىٓ أَرَىٰكُمْ قَوْمًۭا تَجْهَلُونَ
 
-**46:24** Dann, wia sie a Wolke gsehn ham, de auf ihr Tal zuakimmt, ham sie gsogt: „Des is a Wolke, de uns Regen bringen werd." „In Wirklichkeit is s des, worauf es ungeduldig gwartet habts: a Wind, in dem schweres Leid is."
+**46:24** Dann, wia sie a Wolke gsehn ham, de auf ihr Tal zuakimmt, ham sie gsogt: „Des is a Wolke, de uns Regen bringen werd.“ „In Wirklichkeit is s des, worauf es ungeduldig gwartet habts: a Wind, in dem schweres Leid is.“
 
 فَلَمَّا رَأَوْهُ عَارِضًۭا مُّسْتَقْبِلَ أَوْدِيَتِهِمْ قَالُوا۟ هَٰذَا عَارِضٌۭ مُّمْطِرُنَا ۚ بَلْ هُوَ مَا ٱسْتَعْجَلْتُم بِهِۦ ۖ رِيحٌۭ فِيهَا عَذَابٌ أَلِيمٌۭ
 
@@ -18856,7 +18856,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 فَلَوْلَا نَصَرَهُمُ ٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ قُرْبَانًا ءَالِهَةًۢ ۖ بَلْ ضَلُّوا۟ عَنْهُمْ ۚ وَذَٰلِكَ إِفْكُهُمْ وَمَا كَانُوا۟ يَفْتَرُونَ
 
-**46:29** Erinner di, wia Mia a Anzahl vo Dschinn zu dir gschickt ham, um an Koran zu hörn. Wia sie in sei Gegenwart kema san, ham sie gsogt: „Pass auf!" Dann, wia er zu End war, san sie zu ihrm Volk geeilt und ham sie gwarnt.
+**46:29** Erinner di, wia Mia a Anzahl vo Dschinn zu dir gschickt ham, um an Koran zu hörn. Wia sie in sei Gegenwart kema san, ham sie gsogt: „Pass auf!“ Dann, wia er zu End war, san sie zu ihrm Volk geeilt und ham sie gwarnt.
 
 وَإِذْ صَرَفْنَآ إِلَيْكَ نَفَرًۭا مِّنَ ٱلْجِنِّ يَسْتَمِعُونَ ٱلْقُرْءَانَ فَلَمَّا حَضَرُوهُ قَالُوٓا۟ أَنصِتُوا۟ ۖ فَلَمَّا قُضِىَ وَلَّوْا۟ إِلَىٰ قَوْمِهِم مُّنذِرِينَ
 
@@ -18864,7 +18864,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 قَالُوا۟ يَٰقَوْمَنَآ إِنَّا سَمِعْنَا كِتَٰبًا أُنزِلَ مِنۢ بَعْدِ مُوسَىٰ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ يَهْدِىٓ إِلَى ٱلْحَقِّ وَإِلَىٰ طَرِيقٍۢ مُّسْتَقِيمٍۢ
 
-**46:31** O unser Volk! Antworts am Rufer zu Allah, und glaubts an Eahm; und Ea werd enk enka Sünden vergeben, und werd enk vor ana schmerzhaften Straf retten."
+**46:31** O unser Volk! Antworts am Rufer zu Allah, und glaubts an Eahm; und Ea werd enk enka Sünden vergeben, und werd enk vor ana schmerzhaften Straf retten.“
 
 يَٰقَوْمَنَآ أَجِيبُوا۟ دَاعِىَ ٱللَّهِ وَءَامِنُوا۟ بِهِۦ يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُجِرْكُم مِّنْ عَذَابٍ أَلِيمٍۢ
 
@@ -18876,7 +18876,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَمْ يَعْىَ بِخَلْقِهِنَّ بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ ۚ بَلَىٰٓ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**46:34** An dem Dag, wann de, de ned glaubt ham, vors Feia gstellt wern: „Is des ned wirklich?" Sie wern sogn: „Ja, gwiss, bei unserm Herrn." Ea werd sogn: „Dann kosts s Leid dafür, dass es ned glaubt habts."
+**46:34** An dem Dag, wann de, de ned glaubt ham, vors Feia gstellt wern: „Is des ned wirklich?“ Sie wern sogn: „Ja, gwiss, bei unserm Herrn.“ Ea werd sogn: „Dann kosts s Leid dafür, dass es ned glaubt habts.“
 
 وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَلَيْسَ هَٰذَا بِٱلْحَقِّ ۖ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
 
@@ -18956,7 +18956,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ ۖ فِيهَآ أَنْهَٰرٌۭ مِّن مَّآءٍ غَيْرِ ءَاسِنٍۢ وَأَنْهَٰرٌۭ مِّن لَّبَنٍۢ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَٰرٌۭ مِّنْ خَمْرٍۢ لَّذَّةٍۢ لِّلشَّٰرِبِينَ وَأَنْهَٰرٌۭ مِّنْ عَسَلٍۢ مُّصَفًّۭى ۖ وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌۭ مِّن رَّبِّهِمْ ۖ كَمَنْ هُوَ خَٰلِدٌۭ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًۭا فَقَطَّعَ أَمْعَآءَهُمْ
 
-**47:16** Unter eahna san de, de dir zuahörn, oba wann sie dei Gegenwart verlassen, song sie zu dene, dene Wissen gebn wordn is: „Wos hod ea grod gsogt?" Des san de, dera Herzen Allah versiegelt hod, und sie folgn ihre eigna Gelüste.
+**47:16** Unter eahna san de, de dir zuahörn, oba wann sie dei Gegenwart verlassen, song sie zu dene, dene Wissen gebn wordn is: „Wos hod ea grod gsogt?“ Des san de, dera Herzen Allah versiegelt hod, und sie folgn ihre eigna Gelüste.
 
 وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ حَتَّىٰٓ إِذَا خَرَجُوا۟ مِنْ عِندِكَ قَالُوا۟ لِلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مَاذَا قَالَ ءَانِفًا ۚ أُو۟لَٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ
 
@@ -18972,7 +18972,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 فَٱعْلَمْ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱللَّهُ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ ۗ وَٱللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَىٰكُمْ
 
-**47:20** De, de glaubn, sogn: „Wenn nur a Kapitel herabgschickt dad werden." Oba wann a entscheidendes Kapitel herabgschickt werd, und Kampf drin erwähnt werd, segst du de, in dera Herzen Krankheit is, di mit am Blick ooschaun wia oana, der beim Tod in Ohnmacht foit. Also wee eahna!
+**47:20** De, de glaubn, sogn: „Wenn nur a Kapitel herabgschickt dad werden.“ Oba wann a entscheidendes Kapitel herabgschickt werd, und Kampf drin erwähnt werd, segst du de, in dera Herzen Krankheit is, di mit am Blick ooschaun wia oana, der beim Tod in Ohnmacht foit. Also wee eahna!
 
 وَيَقُولُ ٱلَّذِينَ ءَامَنُوا۟ لَوْلَا نُزِّلَتْ سُورَةٌۭ ۖ فَإِذَآ أُنزِلَتْ سُورَةٌۭ مُّحْكَمَةٌۭ وَذُكِرَ فِيهَا ٱلْقِتَالُ ۙ رَأَيْتَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِىِّ عَلَيْهِ مِنَ ٱلْمَوْتِ ۖ فَأَوْلَىٰ لَهُمْ
 
@@ -18996,7 +18996,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 إِنَّ ٱلَّذِينَ ٱرْتَدُّوا۟ عَلَىٰٓ أَدْبَٰرِهِم مِّنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْهُدَى ۙ ٱلشَّيْطَٰنُ سَوَّلَ لَهُمْ وَأَمْلَىٰ لَهُمْ
 
-**47:26** Des is, wei sie zu dene gsogt ham, de gehasst ham, wos Allah offenbart hod: „Mia wern enk in manche Sachen gehorchen." Oba Allah kennt ihre geheimen Gedanken.
+**47:26** Des is, wei sie zu dene gsogt ham, de gehasst ham, wos Allah offenbart hod: „Mia wern enk in manche Sachen gehorchen.“ Oba Allah kennt ihre geheimen Gedanken.
 
 ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لِلَّذِينَ كَرِهُوا۟ مَا نَزَّلَ ٱللَّهُ سَنُطِيعُكُمْ فِى بَعْضِ ٱلْأَمْرِ ۖ وَٱللَّهُ يَعْلَمُ إِسْرَارَهُمْ
 
@@ -19100,7 +19100,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ ۖ وَمَنْ أَوْفَىٰ بِمَا عَٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًۭا
 
-**48:11** De Wüstenaraber, de zruckbliebn san, wern zu dir sogn: „Unser Besitz und unsere Familien ham uns beschäftigt, also bitt fia uns um Vergebung." Sie sogn mit ihre Zungen, wos ned in ihre Herzen is. Sog: „Wer ko enk irgendwos gegen Allah nutzn, wenn Ea Verlust fia enk will, oda Gewinn fia enk will?" In Wirklichkeit is Allah über wos es duats informiert.
+**48:11** De Wüstenaraber, de zruckbliebn san, wern zu dir sogn: „Unser Besitz und unsere Familien ham uns beschäftigt, also bitt fia uns um Vergebung.“ Sie sogn mit ihre Zungen, wos ned in ihre Herzen is. Sog: „Wer ko enk irgendwos gegen Allah nutzn, wenn Ea Verlust fia enk will, oda Gewinn fia enk will?“ In Wirklichkeit is Allah über wos es duats informiert.
 
 سَيَقُولُ لَكَ ٱلْمُخَلَّفُونَ مِنَ ٱلْأَعْرَابِ شَغَلَتْنَآ أَمْوَٰلُنَا وَأَهْلُونَا فَٱسْتَغْفِرْ لَنَا ۚ يَقُولُونَ بِأَلْسِنَتِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ ۚ قُلْ فَمَن يَمْلِكُ لَكُم مِّنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًۢا ۚ بَلْ كَانَ ٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرًۢا
 
@@ -19116,11 +19116,11 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا
 
-**48:15** De, de zruckbliebn san, wern sogn, wann es loszichts, um de Gewinne zum sammeln: „Lassts uns enk folgn." Sie woin s Wort vo Allah ändern. Sog: „Es werds uns ned folgn; Allah hod s scho vorher gsogt." Dann wern sie sogn: „Oba es seids eifersüchtig auf uns." In Wirklichkeit verstehen sie nur a weng.
+**48:15** De, de zruckbliebn san, wern sogn, wann es loszichts, um de Gewinne zum sammeln: „Lassts uns enk folgn.“ Sie woin s Wort vo Allah ändern. Sog: „Es werds uns ned folgn; Allah hod s scho vorher gsogt.“ Dann wern sie sogn: „Oba es seids eifersüchtig auf uns.“ In Wirklichkeit verstehen sie nur a weng.
 
 سَيَقُولُ ٱلْمُخَلَّفُونَ إِذَا ٱنطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ ۖ يُرِيدُونَ أَن يُبَدِّلُوا۟ كَلَٰمَ ٱللَّهِ ۚ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ ٱللَّهُ مِن قَبْلُ ۖ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا ۚ بَلْ كَانُوا۟ لَا يَفْقَهُونَ إِلَّا قَلِيلًۭا
 
-**48:16** Sog zu de Wüstenaraber, de zruckbliebn san: „Es werds gegen a Volk mit großer Macht gruafa wern; es werds sie bekämpfen, außer sie ergeben si. Wenn es gehorchts, werd Allah enk a scheene Belohnung gebn. Oba wenn es enk abwendets, wia es enk vorher abgwendt habts, werd Ea enk mit ana schmerzhaften Straf bestrafen."
+**48:16** Sog zu de Wüstenaraber, de zruckbliebn san: „Es werds gegen a Volk mit großer Macht gruafa wern; es werds sie bekämpfen, außer sie ergeben si. Wenn es gehorchts, werd Allah enk a scheene Belohnung gebn. Oba wenn es enk abwendets, wia es enk vorher abgwendt habts, werd Ea enk mit ana schmerzhaften Straf bestrafen.“
 
 قُل لِّلْمُخَلَّفِينَ مِنَ ٱلْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُو۟لِى بَأْسٍۢ شَدِيدٍۢ تُقَٰتِلُونَهُمْ أَوْ يُسْلِمُونَ ۖ فَإِن تُطِيعُوا۟ يُؤْتِكُمُ ٱللَّهُ أَجْرًا حَسَنًۭا ۖ وَإِن تَتَوَلَّوْا۟ كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًۭا
 
@@ -19164,7 +19164,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 إِذْ جَعَلَ ٱلَّذِينَ كَفَرُوا۟ فِى قُلُوبِهِمُ ٱلْحَمِيَّةَ حَمِيَّةَ ٱلْجَٰهِلِيَّةِ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ ٱلتَّقْوَىٰ وَكَانُوٓا۟ أَحَقَّ بِهَا وَأَهْلَهَا ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًۭا
 
-**48:27** Allah hod de Vision vo Seim Gesandten in Wahrheit erfüllt: „Es werdts in d Heilige Moschee eintreten, so Allah will, in Sicherheit, mit gschorene Köpf, oda kurzgschnittene Haar, ohne Furcht. Ea hod gwusst, wos es ned gwusst habts, und hod außerdem an nahen Sieg gwährt."
+**48:27** Allah hod de Vision vo Seim Gesandten in Wahrheit erfüllt: „Es werdts in d Heilige Moschee eintreten, so Allah will, in Sicherheit, mit gschorene Köpf, oda kurzgschnittene Haar, ohne Furcht. Ea hod gwusst, wos es ned gwusst habts, und hod außerdem an nahen Sieg gwährt.“
 
 لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ ۖ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ ۖ فَعَلِمَ مَا لَمْ تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًۭا قَرِيبًا
 
@@ -22758,7 +22758,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَٱللَّهُ جَعَلَ لَكُمُ ٱلْأَرْضَ بِسَاطًۭا
 
-**71:20** Damit es auf ihre verschiedenen Straßn reisen kennts.’”
+**71:20** Damit es auf ihre verschiedenen Straßn reisen kennts.‘“
 
 لِّتَسْلُكُوا۟ مِنْهَا سُبُلًۭا فِجَاجًۭا
 
@@ -22862,7 +22862,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَأَنَّا مِنَّا ٱلْمُسْلِمُونَ وَمِنَّا ٱلْقَٰسِطُونَ ۖ فَمَنْ أَسْلَمَ فَأُو۟لَٰٓئِكَ تَحَرَّوْا۟ رَشَدًۭا
 
-**72:15** Owa de, de Kompromisse machan — de wern Brennholz fia d Höll sei.’”
+**72:15** Owa de, de Kompromisse machan — de wern Brennholz fia d Höll sei.‘“
 
 وَأَمَّا ٱلْقَٰسِطُونَ فَكَانُوا۟ لِجَهَنَّمَ حَطَبًۭا
 
@@ -25252,11 +25252,11 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ
 
-**89:15** Was an Menschen betrifft: Wann sei Herr en prüft, und en ehrt, und en wohlhabend macht, sagt ea: „Mei Herr hod mi geehrt."
+**89:15** Was an Menschen betrifft: Wann sei Herr en prüft, und en ehrt, und en wohlhabend macht, sagt ea: „Mei Herr hod mi geehrt.“
 
 فَأَمَّا ٱلْإِنسَٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ
 
-**89:16** Owa wann Ea en prüft, und seim Lebensunterhalt fia en einschränkt, sagt ea: „Mei Herr hod mi beleidigt."
+**89:16** Owa wann Ea en prüft, und seim Lebensunterhalt fia en einschränkt, sagt ea: „Mei Herr hod mi beleidigt.“
 
 وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَٰنَنِ
 
@@ -25288,7 +25288,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍۢ يَتَذَكَّرُ ٱلْإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ
 
-**89:24** Ea wead sagn: „Wenn i nur fia mei Lem vorausgschickt hätt."
+**89:24** Ea wead sagn: „Wenn i nur fia mei Lem vorausgschickt hätt.“
 
 يَقُولُ يَٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى
 
@@ -25348,7 +25348,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌۭ
 
-**90:6** Ea sagt: „I hob so viel Geld verbraucht."
+**90:6** Ea sagt: „I hob so viel Geld verbraucht.“
 
 يَقُولُ أَهْلَكْتُ مَالًۭا لُّبَدًا
 
@@ -25468,7 +25468,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا
 
-**91:13** Da Bote vo Allah hod zu eana gsagt: „Des is de Kamelin vo Allah, so lasst sie trinkn."
+**91:13** Da Bote vo Allah hod zu eana gsagt: „Des is de Kamelin vo Allah, so lasst sie trinkn.“
 
 فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَٰهَا
 
@@ -25906,7 +25906,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا
 
-**99:3** Und da Mensch sagt: „Wos is mit ihr los?"
+**99:3** Und da Mensch sagt: „Wos is mit ihr los?“
 
 وَقَالَ ٱلْإِنسَٰنُ مَا لَهَا
 
@@ -26314,7 +26314,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ
 
-**109:6** Es haumts euren Weg, und i hob mein Weg."
+**109:6** Es haumts euren Weg, und i hob mein Weg.“
 
 لَكُمْ دِينُكُمْ وَلِىَ دِينِ
 
@@ -26398,7 +26398,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 لَمْ يَلِدْ وَلَمْ يُولَدْ
 
-**112:4** Und es gibt nix, des mit Eam vergleichbar is."
+**112:4** Und es gibt nix, des mit Eam vergleichbar is.“
 
 وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ
 
@@ -26430,7 +26430,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ
 
-**113:5** Und vor am Bösen vo am Neidischen, wann ea neidet."
+**113:5** Und vor am Bösen vo am Neidischen, wann ea neidet.“
 
 وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
 
@@ -26466,7 +26466,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ
 
-**114:6** Vo unter de Dschinn und unter de Leute."
+**114:6** Vo unter de Dschinn und unter de Leute.“
 
 مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ
 

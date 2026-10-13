@@ -2878,7 +2878,7 @@ HAUSA MANUSCRIPT — REVISION DRAFT, not a final edition. A Hausa rendering of t
 
 حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًۭا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍۢ لِّإِثْمٍۢ ۙ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ
 
-**5:4** Suna tambayar ka abin da aka halatta musu. Ka ce, "An halatta muku abubuwa masu daɗi, da abin da karnuka da shirwa masu farauta da kuka horar suka kama muku." Kuna horar da su bisa abin da Allah Ya sanar da ku. Ku ci daga abin da suka riƙe muku, ku ambaci sunan Allah a kansa. Ku ji tsoron Allah. Allah Mai saurin hisabi ne.
+**5:4** Suna tambayar ka abin da aka halatta musu. Ka ce, “An halatta muku abubuwa masu daɗi, da abin da karnuka da shirwa masu farauta da kuka horar suka kama muku.” Kuna horar da su bisa abin da Allah Ya sanar da ku. Ku ci daga abin da suka riƙe muku, ku ambaci sunan Allah a kansa. Ku ji tsoron Allah. Allah Mai saurin hisabi ne.
 
 يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ ۖ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ ۙ وَمَا عَلَّمْتُم مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ ۖ فَكُلُوا۟ مِمَّآ أَمْسَكْنَ عَلَيْكُمْ وَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهِ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
 
@@ -2894,7 +2894,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ ۚ وَإِن كُنتُمْ جُنُبًۭا فَٱطَّهَّرُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌۭ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءًۭ فَتَيَمَّمُوا۟ صَعِيدًۭا طَيِّبًۭا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ ۚ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍۢ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ
 
-**5:7** Ku tuna ni'imomin Allah a kanku, da alkawarinSa da Ya ɗauka da ku; lokacin da kuka ce, "Mun ji, mun bi." Ku ji tsoron Allah, Allah Ya san abin da zukata ke ɓoyewa.
+**5:7** Ku tuna ni'imomin Allah a kanku, da alkawarinSa da Ya ɗauka da ku; lokacin da kuka ce, “Mun ji, mun bi.” Ku ji tsoron Allah, Allah Ya san abin da zukata ke ɓoyewa.
 
 وَٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ وَمِيثَٰقَهُ ٱلَّذِى وَاثَقَكُم بِهِۦٓ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
@@ -2914,7 +2914,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ هَمَّ قَوْمٌ أَن يَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ فَكَفَّ أَيْدِيَهُمْ عَنكُمْ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
 
-**5:12** Allah Ya karɓi alkawari daga Ƴaƴan Isra'ila, Muka tayar da shugabanni goma sha biyu a cikinsu. Allah Ya ce, "Ni Ina tare da ku; idan kuka tsayar da salla, kuka ba da zakka, kuka yi imani da manzanniNa kuka taimake su, kuka ranta wa Allah rance mai kyau; Zan shafe zunubanku, Zan shigar da ku lambuna da ƙoramu ke gudana a ƙarƙashinsu. Wanda ya kafirce bayan haka daga cikinku, ya ɓace daga hanya madaidaiciya."
+**5:12** Allah Ya karɓi alkawari daga Ƴaƴan Isra'ila, Muka tayar da shugabanni goma sha biyu a cikinsu. Allah Ya ce, “Ni Ina tare da ku; idan kuka tsayar da salla, kuka ba da zakka, kuka yi imani da manzanniNa kuka taimake su, kuka ranta wa Allah rance mai kyau; Zan shafe zunubanku, Zan shigar da ku lambuna da ƙoramu ke gudana a ƙarƙashinsu. Wanda ya kafirce bayan haka daga cikinku, ya ɓace daga hanya madaidaiciya.”
 
 ۞ وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ نَقِيبًۭا ۖ وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ ۖ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًۭا لَّأُكَفِّرَنَّ عَنكُمْ سَيِّـَٔاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۚ فَمَن كَفَرَ بَعْدَ ذَٰلِكَ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
 
@@ -2922,7 +2922,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةًۭ ۖ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ ۙ وَنَسُوا۟ حَظًّۭا مِّمَّا ذُكِّرُوا۟ بِهِۦ ۚ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍۢ مِّنْهُمْ إِلَّا قَلِيلًۭا مِّنْهُمْ ۖ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ
 
-**5:14** Daga waɗanda suka ce, "Mu Kiristoci ne," Muka karɓi alkawarinsu, amma sun manta wani ɓangare na abin da aka tunatar da su. Sai Muka haddasa gaba da ƙiyayya a tsakaninsu har Ranar Alƙiyama; Allah zai ba su labarin abin da suka kasance suna ƙerawa.
+**5:14** Daga waɗanda suka ce, “Mu Kiristoci ne,” Muka karɓi alkawarinsu, amma sun manta wani ɓangare na abin da aka tunatar da su. Sai Muka haddasa gaba da ƙiyayya a tsakaninsu har Ranar Alƙiyama; Allah zai ba su labarin abin da suka kasance suna ƙerawa.
 
 وَمِنَ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰٓ أَخَذْنَا مِيثَٰقَهُمْ فَنَسُوا۟ حَظًّۭا مِّمَّا ذُكِّرُوا۟ بِهِۦ فَأَغْرَيْنَا بَيْنَهُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ۚ وَسَوْفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُوا۟ يَصْنَعُونَ
 
@@ -2934,55 +2934,55 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 يَهْدِى بِهِ ٱللَّهُ مَنِ ٱتَّبَعَ رِضْوَٰنَهُۥ سُبُلَ ٱلسَّلَٰمِ وَيُخْرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ بِإِذْنِهِۦ وَيَهْدِيهِمْ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
 
-**5:17** Sun kafirce waɗanda suka ce, "Allah shi ne Almasihu ɗan Maryam." Ka ce, "Wa zai iya hana Allah, idan Ya so Ya hallaka Almasihu ɗan Maryam, da mahaifiyarsa, da duk wanda ke duniya?" Mulkin sammai da ƙasa da abin da ke tsakaninsu na Allah ne. Yana halitta abin da Ya so, Allah Mai iko ne kan komai.
+**5:17** Sun kafirce waɗanda suka ce, “Allah shi ne Almasihu ɗan Maryam.” Ka ce, “Wa zai iya hana Allah, idan Ya so Ya hallaka Almasihu ɗan Maryam, da mahaifiyarsa, da duk wanda ke duniya?” Mulkin sammai da ƙasa da abin da ke tsakaninsu na Allah ne. Yana halitta abin da Ya so, Allah Mai iko ne kan komai.
 
 لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ ۚ قُلْ فَمَن يَمْلِكُ مِنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ أَن يُهْلِكَ ٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَأُمَّهُۥ وَمَن فِى ٱلْأَرْضِ جَمِيعًۭا ۗ وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۚ يَخْلُقُ مَا يَشَآءُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**5:18** Yahudawa da Kiristoci suna cewa, "Mu ƴaƴan Allah ne, masoyanSa." Ka ce, "Me ya sa Yake azabtar da ku saboda zunubanku?" A'a, ku mutane ne daga waɗanda Ya halitta. Yana gafarta wa wanda Ya so, Yana azabtar da wanda Ya so. Mulkin sammai da ƙasa da abin da ke tsakaninsu na Allah ne, gare Shi makoma take.
+**5:18** Yahudawa da Kiristoci suna cewa, “Mu ƴaƴan Allah ne, masoyanSa.” Ka ce, “Me ya sa Yake azabtar da ku saboda zunubanku?” A'a, ku mutane ne daga waɗanda Ya halitta. Yana gafarta wa wanda Ya so, Yana azabtar da wanda Ya so. Mulkin sammai da ƙasa da abin da ke tsakaninsu na Allah ne, gare Shi makoma take.
 
 وَقَالَتِ ٱلْيَهُودُ وَٱلنَّصَٰرَىٰ نَحْنُ أَبْنَٰٓؤُا۟ ٱللَّهِ وَأَحِبَّٰٓؤُهُۥ ۚ قُلْ فَلِمَ يُعَذِّبُكُم بِذُنُوبِكُم ۖ بَلْ أَنتُم بَشَرٌۭ مِّمَّنْ خَلَقَ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۖ وَإِلَيْهِ ٱلْمَصِيرُ
 
-**5:19** Ya Mutanen Littafi! ManzonMu ya zo muku, yana bayyana muku — bayan tsagaitawar manzanni — don kada ku ce, "Babu mai bushara da ya zo mana, babu mai gargaɗi." Mai bushara ya zo muku, da mai gargaɗi; Allah Mai iko ne kan komai.
+**5:19** Ya Mutanen Littafi! ManzonMu ya zo muku, yana bayyana muku — bayan tsagaitawar manzanni — don kada ku ce, “Babu mai bushara da ya zo mana, babu mai gargaɗi.” Mai bushara ya zo muku, da mai gargaɗi; Allah Mai iko ne kan komai.
 
 يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍۢ مِّنَ ٱلرُّسُلِ أَن تَقُولُوا۟ مَا جَآءَنَا مِنۢ بَشِيرٍۢ وَلَا نَذِيرٍۢ ۖ فَقَدْ جَآءَكُم بَشِيرٌۭ وَنَذِيرٌۭ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**5:20** Lokacin da Musa ya ce wa mutanensa, "Ya mutanena, ku tuna ni'imomin Allah a kanku, lokacin da Ya sanya annabawa a cikinku, Ya sa ku sarakuna, Ya ba ku abin da bai ba wa kowa ba."
+**5:20** Lokacin da Musa ya ce wa mutanensa, “Ya mutanena, ku tuna ni'imomin Allah a kanku, lokacin da Ya sanya annabawa a cikinku, Ya sa ku sarakuna, Ya ba ku abin da bai ba wa kowa ba.”
 
 وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَعَلَ فِيكُمْ أَنۢبِيَآءَ وَجَعَلَكُم مُّلُوكًۭا وَءَاتَىٰكُم مَّا لَمْ يُؤْتِ أَحَدًۭا مِّنَ ٱلْعَٰلَمِينَ
 
-**5:21** "Ya mutanena, ku shiga ƙasa mai tsarki da Allah Ya rubuta muku, kada ku juya baya, in ba haka ba za ku dawo kun yi hasara."
+**5:21** “Ya mutanena, ku shiga ƙasa mai tsarki da Allah Ya rubuta muku, kada ku juya baya, in ba haka ba za ku dawo kun yi hasara.”
 
 يَٰقَوْمِ ٱدْخُلُوا۟ ٱلْأَرْضَ ٱلْمُقَدَّسَةَ ٱلَّتِى كَتَبَ ٱللَّهُ لَكُمْ وَلَا تَرْتَدُّوا۟ عَلَىٰٓ أَدْبَارِكُمْ فَتَنقَلِبُوا۟ خَٰسِرِينَ
 
-**5:22** Suka ce, "Ya Musa, akwai mutane masu ƙarfin zalunci a cikinta; ba za mu shiga ta ba sai sun fita daga cikinta. Idan sun fita, za mu shiga."
+**5:22** Suka ce, “Ya Musa, akwai mutane masu ƙarfin zalunci a cikinta; ba za mu shiga ta ba sai sun fita daga cikinta. Idan sun fita, za mu shiga.”
 
 قَالُوا۟ يَٰمُوسَىٰٓ إِنَّ فِيهَا قَوْمًۭا جَبَّارِينَ وَإِنَّا لَن نَّدْخُلَهَا حَتَّىٰ يَخْرُجُوا۟ مِنْهَا فَإِن يَخْرُجُوا۟ مِنْهَا فَإِنَّا دَٰخِلُونَ
 
-**5:23** Maza biyu daga waɗanda ke tsoro, amma Allah Ya yi musu ni'ima, suka ce, "Ku shiga musu ta ƙofa; idan kun shiga, za ku yi nasara. Ku dogara ga Allah, idan kun kasance masu imani."
+**5:23** Maza biyu daga waɗanda ke tsoro, amma Allah Ya yi musu ni'ima, suka ce, “Ku shiga musu ta ƙofa; idan kun shiga, za ku yi nasara. Ku dogara ga Allah, idan kun kasance masu imani.”
 
 قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنْعَمَ ٱللَّهُ عَلَيْهِمَا ٱدْخُلُوا۟ عَلَيْهِمُ ٱلْبَابَ فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ غَٰلِبُونَ ۚ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓا۟ إِن كُنتُم مُّؤْمِنِينَ
 
-**5:24** Suka ce, "Ya Musa, ba za mu shiga ta ba har abada, muddin suna cikinta. Ka je, kai da Ubangijinka, ku yaƙa. Mu za mu zauna a nan."
+**5:24** Suka ce, “Ya Musa, ba za mu shiga ta ba har abada, muddin suna cikinta. Ka je, kai da Ubangijinka, ku yaƙa. Mu za mu zauna a nan.”
 
 قَالُوا۟ يَٰمُوسَىٰٓ إِنَّا لَن نَّدْخُلَهَآ أَبَدًۭا مَّا دَامُوا۟ فِيهَا ۖ فَٱذْهَبْ أَنتَ وَرَبُّكَ فَقَٰتِلَآ إِنَّا هَٰهُنَا قَٰعِدُونَ
 
-**5:25** Ya ce, "Ubangijina! Ba ni da iko sai kaina da ɗan'uwana, Ka raba tsakaninmu da mutane fasikai."
+**5:25** Ya ce, “Ubangijina! Ba ni da iko sai kaina da ɗan'uwana, Ka raba tsakaninmu da mutane fasikai.”
 
 قَالَ رَبِّ إِنِّى لَآ أَمْلِكُ إِلَّا نَفْسِى وَأَخِى ۖ فَٱفْرُقْ بَيْنَنَا وَبَيْنَ ٱلْقَوْمِ ٱلْفَٰسِقِينَ
 
-**5:26** Ya ce, "An haramta ta gare su shekara arba'in. Za su yi ta yawo a ƙasa ba tare da manufa ba. Kada ka yi baƙin ciki kan mutane fasikai."
+**5:26** Ya ce, “An haramta ta gare su shekara arba'in. Za su yi ta yawo a ƙasa ba tare da manufa ba. Kada ka yi baƙin ciki kan mutane fasikai.”
 
 قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةًۭ ۛ يَتِيهُونَ فِى ٱلْأَرْضِ ۚ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْفَٰسِقِينَ
 
-**5:27** Ka karanta musu labarin ƴaƴan Adamu biyu da gaskiya: lokacin da suka miƙa hadaya, aka karɓa daga ɗayansu, ba a karɓa daga ɗayan ba. Ya ce, "Zan kashe ka." Ya ce, "Allah Yana karɓa ne kawai daga masu tsoronSa."
+**5:27** Ka karanta musu labarin ƴaƴan Adamu biyu da gaskiya: lokacin da suka miƙa hadaya, aka karɓa daga ɗayansu, ba a karɓa daga ɗayan ba. Ya ce, “Zan kashe ka.” Ya ce, “Allah Yana karɓa ne kawai daga masu tsoronSa.”
 
 ۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْءَاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ
 
-**5:28** "Idan ka miƙa hannunka don ka kashe ni, ba zan miƙa hannuna don in kashe ka ba; ina tsoron Allah, Ubangijin talikai."
+**5:28** “Idan ka miƙa hannunka don ka kashe ni, ba zan miƙa hannuna don in kashe ka ba; ina tsoron Allah, Ubangijin talikai.”
 
 لَئِنۢ بَسَطتَ إِلَىَّ يَدَكَ لِتَقْتُلَنِى مَآ أَنَا۠ بِبَاسِطٍۢ يَدِىَ إِلَيْكَ لِأَقْتُلَكَ ۖ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ
 
-**5:29** "Na fi son ka ɗauki zunubina da zunubinka, ka kasance daga mutanen Wuta. Haka sakamakon azzalumai yake."
+**5:29** “Na fi son ka ɗauki zunubina da zunubinka, ka kasance daga mutanen Wuta. Haka sakamakon azzalumai yake.”
 
 إِنِّىٓ أُرِيدُ أَن تَبُوٓأَ بِإِثْمِى وَإِثْمِكَ فَتَكُونَ مِنْ أَصْحَٰبِ ٱلنَّارِ ۚ وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّٰلِمِينَ
 
@@ -2990,7 +2990,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَٰسِرِينَ
 
-**5:31** Sai Allah Ya aiko hankaka yana tone ƙasa, don ya nuna masa yadda zai binne gawar ɗan'uwansa. Ya ce, "Kaitona! Na kasa zama kamar wannan hankaka, in binne gawar ɗan'uwana." Sai ya zama mai nadama.
+**5:31** Sai Allah Ya aiko hankaka yana tone ƙasa, don ya nuna masa yadda zai binne gawar ɗan'uwansa. Ya ce, “Kaitona! Na kasa zama kamar wannan hankaka, in binne gawar ɗan'uwana.” Sai ya zama mai nadama.
 
 فَبَعَثَ ٱللَّهُ غُرَابًۭا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ ۚ قَالَ يَٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى ۖ فَأَصْبَحَ مِنَ ٱلنَّٰدِمِينَ
 
@@ -3030,7 +3030,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يُعَذِّبُ مَن يَشَآءُ وَيَغْفِرُ لِمَن يَشَآءُ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**5:41** Ya Manzo! Kada waɗanda ke gaggawar kafirci su baƙanta maka rai — daga waɗanda ke cewa da bakunansu, "Mun yi imani," amma zukatansu ba su yi imani ba; da daga Yahudawa — masu sauraron ƙarya, masu sauraron wasu mutane da ba su zo maka ba. Suna karkatar da kalmomi daga muhallansu, suna cewa, "Idan aka ba ku wannan, ku karɓa; idan ba a ba ku shi ba, ku yi hankali." Wanda Allah Ya so Ya karkatar, ba ka da wani abu gare shi daga Allah. Waɗannan su ne waɗanda Allah bai nufi Ya tsarkake zukatansu ba. Za su sami wulakanci a duniya, a Lahira za su sami azaba mai girma.
+**5:41** Ya Manzo! Kada waɗanda ke gaggawar kafirci su baƙanta maka rai — daga waɗanda ke cewa da bakunansu, “Mun yi imani,” amma zukatansu ba su yi imani ba; da daga Yahudawa — masu sauraron ƙarya, masu sauraron wasu mutane da ba su zo maka ba. Suna karkatar da kalmomi daga muhallansu, suna cewa, “Idan aka ba ku wannan, ku karɓa; idan ba a ba ku shi ba, ku yi hankali.” Wanda Allah Ya so Ya karkatar, ba ka da wani abu gare shi daga Allah. Waɗannan su ne waɗanda Allah bai nufi Ya tsarkake zukatansu ba. Za su sami wulakanci a duniya, a Lahira za su sami azaba mai girma.
 
 ۞ يَٰٓأَيُّهَا ٱلرَّسُولُ لَا يَحْزُنكَ ٱلَّذِينَ يُسَٰرِعُونَ فِى ٱلْكُفْرِ مِنَ ٱلَّذِينَ قَالُوٓا۟ ءَامَنَّا بِأَفْوَٰهِهِمْ وَلَمْ تُؤْمِن قُلُوبُهُمْ ۛ وَمِنَ ٱلَّذِينَ هَادُوا۟ ۛ سَمَّٰعُونَ لِلْكَذِبِ سَمَّٰعُونَ لِقَوْمٍ ءَاخَرِينَ لَمْ يَأْتُوكَ ۖ يُحَرِّفُونَ ٱلْكَلِمَ مِنۢ بَعْدِ مَوَاضِعِهِۦ ۖ يَقُولُونَ إِنْ أُوتِيتُمْ هَٰذَا فَخُذُوهُ وَإِن لَّمْ تُؤْتَوْهُ فَٱحْذَرُوا۟ ۚ وَمَن يُرِدِ ٱللَّهُ فِتْنَتَهُۥ فَلَن تَمْلِكَ لَهُۥ مِنَ ٱللَّهِ شَيْـًٔا ۚ أُو۟لَٰٓئِكَ ٱلَّذِينَ لَمْ يُرِدِ ٱللَّهُ أَن يُطَهِّرَ قُلُوبَهُمْ ۚ لَهُمْ فِى ٱلدُّنْيَا خِزْىٌۭ ۖ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌۭ
 
@@ -3074,11 +3074,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ ٱلْيَهُودَ وَٱلنَّصَٰرَىٰٓ أَوْلِيَآءَ ۘ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍۢ ۚ وَمَن يَتَوَلَّهُم مِّنكُمْ فَإِنَّهُۥ مِنْهُمْ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**5:52** Za ka ga waɗanda akwai cuta a zukatansu suna gaggawa zuwa gare su. Suna cewa, "Muna tsoron kada ƙaddara ta juya mana." Watakila Allah Ya kawo nasara, ko wani al'amari daga gare Shi; sai su yi nadama kan abin da suka ɓoye a cikin kansu.
+**5:52** Za ka ga waɗanda akwai cuta a zukatansu suna gaggawa zuwa gare su. Suna cewa, “Muna tsoron kada ƙaddara ta juya mana.” Watakila Allah Ya kawo nasara, ko wani al'amari daga gare Shi; sai su yi nadama kan abin da suka ɓoye a cikin kansu.
 
 فَتَرَى ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ يُسَٰرِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰٓ أَن تُصِيبَنَا دَآئِرَةٌۭ ۚ فَعَسَى ٱللَّهُ أَن يَأْتِىَ بِٱلْفَتْحِ أَوْ أَمْرٍۢ مِّنْ عِندِهِۦ فَيُصْبِحُوا۟ عَلَىٰ مَآ أَسَرُّوا۟ فِىٓ أَنفُسِهِمْ نَٰدِمِينَ
 
-**5:53** Masu imani za su ce, "Shin waɗannan su ne waɗanda suka rantse da Allah da rantsuwoyi masu ƙarfi cewa suna tare da ku?" Ayyukansu sun ɓaci, sun zama masu hasara.
+**5:53** Masu imani za su ce, “Shin waɗannan su ne waɗanda suka rantse da Allah da rantsuwoyi masu ƙarfi cewa suna tare da ku?” Ayyukansu sun ɓaci, sun zama masu hasara.
 
 وَيَقُولُ ٱلَّذِينَ ءَامَنُوٓا۟ أَهَٰٓؤُلَآءِ ٱلَّذِينَ أَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ ۙ إِنَّهُمْ لَمَعَكُمْ ۚ حَبِطَتْ أَعْمَٰلُهُمْ فَأَصْبَحُوا۟ خَٰسِرِينَ
 
@@ -3102,15 +3102,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَإِذَا نَادَيْتُمْ إِلَى ٱلصَّلَوٰةِ ٱتَّخَذُوهَا هُزُوًۭا وَلَعِبًۭا ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌۭ لَّا يَعْقِلُونَ
 
-**5:59** Ka ce, "Ya Mutanen Littafi! Shin kuna ƙinmu ne kawai saboda mun yi imani da Allah, da abin da aka saukar mana, da abin da aka saukar a baya; kuma da yawa daga cikinku fasikai ne?"
+**5:59** Ka ce, “Ya Mutanen Littafi! Shin kuna ƙinmu ne kawai saboda mun yi imani da Allah, da abin da aka saukar mana, da abin da aka saukar a baya; kuma da yawa daga cikinku fasikai ne?”
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ هَلْ تَنقِمُونَ مِنَّآ إِلَّآ أَنْ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْنَا وَمَآ أُنزِلَ مِن قَبْلُ وَأَنَّ أَكْثَرَكُمْ فَٰسِقُونَ
 
-**5:60** Ka ce, "Shin in ba ku labarin abin da ya fi haka muni a sakamako daga Allah? Wanda Allah Ya la'anta, Ya yi fushi da shi; Ya maida wasunsu birai, da aladu, da masu bautar gumaka. Waɗannan sun fi muni a matsayi, sun fi nesa daga hanya madaidaiciya."
+**5:60** Ka ce, “Shin in ba ku labarin abin da ya fi haka muni a sakamako daga Allah? Wanda Allah Ya la'anta, Ya yi fushi da shi; Ya maida wasunsu birai, da aladu, da masu bautar gumaka. Waɗannan sun fi muni a matsayi, sun fi nesa daga hanya madaidaiciya.”
 
 قُلْ هَلْ أُنَبِّئُكُم بِشَرٍّۢ مِّن ذَٰلِكَ مَثُوبَةً عِندَ ٱللَّهِ ۚ مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ ٱلْقِرَدَةَ وَٱلْخَنَازِيرَ وَعَبَدَ ٱلطَّٰغُوتَ ۚ أُو۟لَٰٓئِكَ شَرٌّۭ مَّكَانًۭا وَأَضَلُّ عَن سَوَآءِ ٱلسَّبِيلِ
 
-**5:61** Idan sun zo muku, suna cewa, "Mun yi imani," alhali sun shiga da kafirci, sun fita da shi. Allah Ya san abin da suke ɓoyewa.
+**5:61** Idan sun zo muku, suna cewa, “Mun yi imani,” alhali sun shiga da kafirci, sun fita da shi. Allah Ya san abin da suke ɓoyewa.
 
 وَإِذَا جَآءُوكُمْ قَالُوٓا۟ ءَامَنَّا وَقَد دَّخَلُوا۟ بِٱلْكُفْرِ وَهُمْ قَدْ خَرَجُوا۟ بِهِۦ ۚ وَٱللَّهُ أَعْلَمُ بِمَا كَانُوا۟ يَكْتُمُونَ
 
@@ -3122,7 +3122,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 لَوْلَا يَنْهَىٰهُمُ ٱلرَّبَّٰنِيُّونَ وَٱلْأَحْبَارُ عَن قَوْلِهِمُ ٱلْإِثْمَ وَأَكْلِهِمُ ٱلسُّحْتَ ۚ لَبِئْسَ مَا كَانُوا۟ يَصْنَعُونَ
 
-**5:64** Yahudawa suna cewa, "Hannun Allah a ɗaure yake." Hannayensu ne aka ɗaure, an la'ance su saboda abin da suka faɗa. A'a, hannayenSa a shimfiɗe suke; Yana bayarwa yadda Ya so. Lalle abin da aka saukar maka daga Ubangijinka zai ƙara wa da yawa daga cikinsu girman kai da kafirci. Muka sanya gaba da ƙiyayya a tsakaninsu har Ranar Alƙiyama. Duk lokacin da suka kunna wutar yaƙi, Allah Yana kashe ta. Suna yawo suna ɓarna a ƙasa. Allah ba Ya son masu ɓarna.
+**5:64** Yahudawa suna cewa, “Hannun Allah a ɗaure yake.” Hannayensu ne aka ɗaure, an la'ance su saboda abin da suka faɗa. A'a, hannayenSa a shimfiɗe suke; Yana bayarwa yadda Ya so. Lalle abin da aka saukar maka daga Ubangijinka zai ƙara wa da yawa daga cikinsu girman kai da kafirci. Muka sanya gaba da ƙiyayya a tsakaninsu har Ranar Alƙiyama. Duk lokacin da suka kunna wutar yaƙi, Allah Yana kashe ta. Suna yawo suna ɓarna a ƙasa. Allah ba Ya son masu ɓarna.
 
 وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ ۚ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟ ۘ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ ۚ وَلَيَزِيدَنَّ كَثِيرًۭا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَٰنًۭا وَكُفْرًۭا ۚ وَأَلْقَيْنَا بَيْنَهُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ۚ كُلَّمَآ أَوْقَدُوا۟ نَارًۭا لِّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ ۚ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًۭا ۚ وَٱللَّهُ لَا يُحِبُّ ٱلْمُفْسِدِينَ
 
@@ -3138,7 +3138,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ۞ يَٰٓأَيُّهَا ٱلرَّسُولُ بَلِّغْ مَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ۖ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُۥ ۚ وَٱللَّهُ يَعْصِمُكَ مِنَ ٱلنَّاسِ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ
 
-**5:68** Ka ce, "Ya Mutanen Littafi! Ba ku da wani tushe har sai kun tsayar da Attaura, da Injila, da abin da aka saukar muku daga Ubangijinku." Abin da aka saukar maka daga Ubangijinka zai ƙara wa da yawa daga cikinsu girman kai da kafirci, kada ka yi baƙin ciki kan mutane kafirai.
+**5:68** Ka ce, “Ya Mutanen Littafi! Ba ku da wani tushe har sai kun tsayar da Attaura, da Injila, da abin da aka saukar muku daga Ubangijinku.” Abin da aka saukar maka daga Ubangijinka zai ƙara wa da yawa daga cikinsu girman kai da kafirci, kada ka yi baƙin ciki kan mutane kafirai.
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لَسْتُمْ عَلَىٰ شَىْءٍ حَتَّىٰ تُقِيمُوا۟ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَمَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُمْ ۗ وَلَيَزِيدَنَّ كَثِيرًۭا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَٰنًۭا وَكُفْرًۭا ۖ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
 
@@ -3154,11 +3154,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَحَسِبُوٓا۟ أَلَّا تَكُونَ فِتْنَةٌۭ فَعَمُوا۟ وَصَمُّوا۟ ثُمَّ تَابَ ٱللَّهُ عَلَيْهِمْ ثُمَّ عَمُوا۟ وَصَمُّوا۟ كَثِيرٌۭ مِّنْهُمْ ۚ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ
 
-**5:72** Sun kafirce waɗanda suka ce, "Allah shi ne Almasihu ɗan Maryam." Almasihu da kansa ya ce, "Ya Ƴaƴan Isra'ila, ku bautawa Allah, Ubangijina da Ubangijinku. Wanda ya haɗa wasu da Allah, Allah Ya haramta masa Aljanna, matsuguninsa Wuta ne. Azzalumai ba su da mataimaka."
+**5:72** Sun kafirce waɗanda suka ce, “Allah shi ne Almasihu ɗan Maryam.” Almasihu da kansa ya ce, “Ya Ƴaƴan Isra'ila, ku bautawa Allah, Ubangijina da Ubangijinku. Wanda ya haɗa wasu da Allah, Allah Ya haramta masa Aljanna, matsuguninsa Wuta ne. Azzalumai ba su da mataimaka.”
 
 لَقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ ۖ وَقَالَ ٱلْمَسِيحُ يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱعْبُدُوا۟ ٱللَّهَ رَبِّى وَرَبَّكُمْ ۖ إِنَّهُۥ مَن يُشْرِكْ بِٱللَّهِ فَقَدْ حَرَّمَ ٱللَّهُ عَلَيْهِ ٱلْجَنَّةَ وَمَأْوَىٰهُ ٱلنَّارُ ۖ وَمَا لِلظَّٰلِمِينَ مِنْ أَنصَارٍۢ
 
-**5:73** Sun kafirce waɗanda suka ce, "Allah na uku ne cikin uku." Babu abin bauta sai Allah Ɗaya. Idan ba su daina abin da suke faɗa ba, azaba mai raɗaɗa za ta taɓa waɗanda suka kafirce daga cikinsu.
+**5:73** Sun kafirce waɗanda suka ce, “Allah na uku ne cikin uku.” Babu abin bauta sai Allah Ɗaya. Idan ba su daina abin da suke faɗa ba, azaba mai raɗaɗa za ta taɓa waɗanda suka kafirce daga cikinsu.
 
 لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ ثَالِثُ ثَلَٰثَةٍۢ ۘ وَمَا مِنْ إِلَٰهٍ إِلَّآ إِلَٰهٌۭ وَٰحِدٌۭ ۚ وَإِن لَّمْ يَنتَهُوا۟ عَمَّا يَقُولُونَ لَيَمَسَّنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابٌ أَلِيمٌ
 
@@ -3170,11 +3170,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌۭ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌۭ ۖ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ۗ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْءَايَٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ
 
-**5:76** Ka ce, "Shin kuna bautawa, ban da Allah, abin da ba shi da ikon cutarwa ko amfana muku?" Allah Shi ne Mai ji, Masani.
+**5:76** Ka ce, “Shin kuna bautawa, ban da Allah, abin da ba shi da ikon cutarwa ko amfana muku?” Allah Shi ne Mai ji, Masani.
 
 قُلْ أَتَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَمْلِكُ لَكُمْ ضَرًّۭا وَلَا نَفْعًۭا ۚ وَٱللَّهُ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
-**5:77** Ka ce, "Ya Mutanen Littafi! Kada ku yi gululi a addininku fiye da gaskiya; kada ku bi ra'ayoyin mutanen da suka ɓace a baya, suka ɓatar da mutane da yawa, suka ɓace daga hanya madaidaiciya."
+**5:77** Ka ce, “Ya Mutanen Littafi! Kada ku yi gululi a addininku fiye da gaskiya; kada ku bi ra'ayoyin mutanen da suka ɓace a baya, suka ɓatar da mutane da yawa, suka ɓace daga hanya madaidaiciya.”
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ غَيْرَ ٱلْحَقِّ وَلَا تَتَّبِعُوٓا۟ أَهْوَآءَ قَوْمٍۢ قَدْ ضَلُّوا۟ مِن قَبْلُ وَأَضَلُّوا۟ كَثِيرًۭا وَضَلُّوا۟ عَن سَوَآءِ ٱلسَّبِيلِ
 
@@ -3194,15 +3194,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَلَوْ كَانُوا۟ يُؤْمِنُونَ بِٱللَّهِ وَٱلنَّبِىِّ وَمَآ أُنزِلَ إِلَيْهِ مَا ٱتَّخَذُوهُمْ أَوْلِيَآءَ وَلَٰكِنَّ كَثِيرًۭا مِّنْهُمْ فَٰسِقُونَ
 
-**5:82** Za ka samu mutanen da suka fi gaba ga masu imani su ne Yahudawa da mushrikai. Za ka samu mafi kusa da ƙauna ga masu imani su ne waɗanda suka ce, "Mu Kiristoci ne." Hakan saboda a cikinsu akwai firistoci da ruhubanai, ba sa girman kai.
+**5:82** Za ka samu mutanen da suka fi gaba ga masu imani su ne Yahudawa da mushrikai. Za ka samu mafi kusa da ƙauna ga masu imani su ne waɗanda suka ce, “Mu Kiristoci ne.” Hakan saboda a cikinsu akwai firistoci da ruhubanai, ba sa girman kai.
 
 ۞ لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَٰوَةًۭ لِّلَّذِينَ ءَامَنُوا۟ ٱلْيَهُودَ وَٱلَّذِينَ أَشْرَكُوا۟ ۖ وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةًۭ لِّلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰ ۚ ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًۭا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ
 
-**5:83** Idan suka ji abin da aka saukar wa Manzo, kana ganin idanunsu suna malala da hawaye, saboda sun gane gaskiya a cikinsa. Suna cewa, "Ubangijinmu, mun yi imani, Ka rubuta mu cikin masu shaida."
+**5:83** Idan suka ji abin da aka saukar wa Manzo, kana ganin idanunsu suna malala da hawaye, saboda sun gane gaskiya a cikinsa. Suna cewa, “Ubangijinmu, mun yi imani, Ka rubuta mu cikin masu shaida.”
 
 وَإِذَا سَمِعُوا۟ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعْيُنَهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ مِمَّا عَرَفُوا۟ مِنَ ٱلْحَقِّ ۖ يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكْتُبْنَا مَعَ ٱلشَّٰهِدِينَ
 
-**5:84** "Me ya sa ba za mu yi imani da Allah, da gaskiyar da ta zo mana ba, muna ƙaunar Ubangijinmu Ya haɗa mu cikin mutane na ƙwarai?"
+**5:84** “Me ya sa ba za mu yi imani da Allah, da gaskiyar da ta zo mana ba, muna ƙaunar Ubangijinmu Ya haɗa mu cikin mutane na ƙwarai?”
 
 وَمَا لَنَا لَا نُؤْمِنُ بِٱللَّهِ وَمَا جَآءَنَا مِنَ ٱلْحَقِّ وَنَطْمَعُ أَن يُدْخِلَنَا رَبُّنَا مَعَ ٱلْقَوْمِ ٱلصَّٰلِحِينَ
 
@@ -3266,7 +3266,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 مَّا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَٰغُ ۗ وَٱللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ
 
-**5:100** Ka ce: "Mummuna da mai kyau ba su daidaita, ko da yawan mummuna ya burge ka. Ku ji tsoron Allah, ya ku masu hankali, don ku yi nasara."
+**5:100** Ka ce: “Mummuna da mai kyau ba su daidaita, ko da yawan mummuna ya burge ka. Ku ji tsoron Allah, ya ku masu hankali, don ku yi nasara.”
 
 قُل لَّا يَسْتَوِى ٱلْخَبِيثُ وَٱلطَّيِّبُ وَلَوْ أَعْجَبَكَ كَثْرَةُ ٱلْخَبِيثِ ۚ فَٱتَّقُوا۟ ٱللَّهَ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ لَعَلَّكُمْ تُفْلِحُونَ
 
@@ -3282,7 +3282,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 مَا جَعَلَ ٱللَّهُ مِنۢ بَحِيرَةٍۢ وَلَا سَآئِبَةٍۢ وَلَا وَصِيلَةٍۢ وَلَا حَامٍۢ ۙ وَلَٰكِنَّ ٱلَّذِينَ كَفَرُوا۟ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ ۖ وَأَكْثَرُهُمْ لَا يَعْقِلُونَ
 
-**5:104** Idan aka ce musu, "Ku zo zuwa ga abin da Allah Ya saukar, da zuwa ga Manzo," suna cewa, "Abin da muka samu kakanninmu a kansa ya ishe mu." Ko da kakanninsu ba su san komai ba, ba su shiryu ba?
+**5:104** Idan aka ce musu, “Ku zo zuwa ga abin da Allah Ya saukar, da zuwa ga Manzo,” suna cewa, “Abin da muka samu kakanninmu a kansa ya ishe mu.” Ko da kakanninsu ba su san komai ba, ba su shiryu ba?
 
 وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ قَالُوا۟ حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْلَمُونَ شَيْـًۭٔا وَلَا يَهْتَدُونَ
 
@@ -3290,11 +3290,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ عَلَيْكُمْ أَنفُسَكُمْ ۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهْتَدَيْتُمْ ۚ إِلَى ٱللَّهِ مَرْجِعُكُمْ جَمِيعًۭا فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 
-**5:106** Ya ku masu imani! Idan mutuwa ta zo wa ɗayanku, ku sa masu adalci biyu daga cikinku su shaida yin wasiyya, ko wasu biyu daga waninku idan kuna tafiya a ƙasa mutuwa ta zo muku. Ku riƙe su bayan salla. Idan kuna shakka, su rantse da Allah: "Ba za mu sayar da shaidarmu da wani farashi ba, ko da ɗan uwa ne na kusa, ba za mu ɓoye shaidar Allah ba, in ba haka ba za mu zama masu zunubi."
+**5:106** Ya ku masu imani! Idan mutuwa ta zo wa ɗayanku, ku sa masu adalci biyu daga cikinku su shaida yin wasiyya, ko wasu biyu daga waninku idan kuna tafiya a ƙasa mutuwa ta zo muku. Ku riƙe su bayan salla. Idan kuna shakka, su rantse da Allah: “Ba za mu sayar da shaidarmu da wani farashi ba, ko da ɗan uwa ne na kusa, ba za mu ɓoye shaidar Allah ba, in ba haka ba za mu zama masu zunubi.”
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ ۚ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ بِٱللَّهِ إِنِ ٱرْتَبْتُمْ لَا نَشْتَرِى بِهِۦ ثَمَنًۭا وَلَوْ كَانَ ذَا قُرْبَىٰ ۙ وَلَا نَكْتُمُ شَهَٰدَةَ ٱللَّهِ إِنَّآ إِذًۭا لَّمِنَ ٱلْءَاثِمِينَ
 
-**5:107** Idan aka gano sun yi ƙaryar shaida: wasu biyu su maye gurbinsu, biyu daga waɗanda ke da alhakin da'awa, su rantse da Allah, "Shaidarmu ta fi shaidarsu gaskiya, ba za mu yi son zuciya ba, in ba haka ba za mu zama azzalumai."
+**5:107** Idan aka gano sun yi ƙaryar shaida: wasu biyu su maye gurbinsu, biyu daga waɗanda ke da alhakin da'awa, su rantse da Allah, “Shaidarmu ta fi shaidarsu gaskiya, ba za mu yi son zuciya ba, in ba haka ba za mu zama azzalumai.”
 
 فَإِنْ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسْتَحَقَّآ إِثْمًۭا فَـَٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ ٱلَّذِينَ ٱسْتَحَقَّ عَلَيْهِمُ ٱلْأَوْلَيَٰنِ فَيُقْسِمَانِ بِٱللَّهِ لَشَهَٰدَتُنَآ أَحَقُّ مِن شَهَٰدَتِهِمَا وَمَا ٱعْتَدَيْنَآ إِنَّآ إِذًۭا لَّمِنَ ٱلظَّٰلِمِينَ
 
@@ -3302,35 +3302,35 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ذَٰلِكَ أَدْنَىٰٓ أَن يَأْتُوا۟ بِٱلشَّهَٰدَةِ عَلَىٰ وَجْهِهَآ أَوْ يَخَافُوٓا۟ أَن تُرَدَّ أَيْمَٰنٌۢ بَعْدَ أَيْمَٰنِهِمْ ۗ وَٱتَّقُوا۟ ٱللَّهَ وَٱسْمَعُوا۟ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 
-**5:109** Ranar da Allah zai tara manzanni, Sai Ya ce, "Wace amsa aka ba ku?" Za su ce, "Ba mu da ilimi; Kai ne Masani ga abubuwan ɓoye."
+**5:109** Ranar da Allah zai tara manzanni, Sai Ya ce, “Wace amsa aka ba ku?” Za su ce, “Ba mu da ilimi; Kai ne Masani ga abubuwan ɓoye.”
 
 ۞ يَوْمَ يَجْمَعُ ٱللَّهُ ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبْتُمْ ۖ قَالُوا۟ لَا عِلْمَ لَنَآ ۖ إِنَّكَ أَنتَ عَلَّٰمُ ٱلْغُيُوبِ
 
-**5:110** Lokacin da Allah zai ce, "Ya Isa ɗan Maryam, ka tuna ni'imaTa a kanka da mahaifiyarka, yadda Na ƙarfafa ka da Ruhu Mai Tsarki. Ka yi magana da mutane a cikin shimfiɗar jariri, da lokacin girma. Na sanar da kai Littafi da hikima, da Attaura da Injila. Ka tuna lokacin da ka siffanta siffar tsuntsu daga yumɓu, da iziniNa, ka hura a cikinta, ta zama tsuntsu, da iziniNa. Ka warkar da makaho da kuturu, da iziniNa; ka rayar da matattu, da iziniNa. Ka tuna lokacin da Na kange Ƴaƴan Isra'ila daga gare ka lokacin da ka zo musu da mu'ujizai bayyanannu. Waɗanda suka kafirce daga cikinsu suka ce, 'Wannan ba komai ba ne sai sihiri bayyananne.'"
+**5:110** Lokacin da Allah zai ce, “Ya Isa ɗan Maryam, ka tuna ni'imaTa a kanka da mahaifiyarka, yadda Na ƙarfafa ka da Ruhu Mai Tsarki. Ka yi magana da mutane a cikin shimfiɗar jariri, da lokacin girma. Na sanar da kai Littafi da hikima, da Attaura da Injila. Ka tuna lokacin da ka siffanta siffar tsuntsu daga yumɓu, da iziniNa, ka hura a cikinta, ta zama tsuntsu, da iziniNa. Ka warkar da makaho da kuturu, da iziniNa; ka rayar da matattu, da iziniNa. Ka tuna lokacin da Na kange Ƴaƴan Isra'ila daga gare ka lokacin da ka zo musu da mu'ujizai bayyanannu. Waɗanda suka kafirce daga cikinsu suka ce, 'Wannan ba komai ba ne sai sihiri bayyananne.'”
 
 إِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ٱذْكُرْ نِعْمَتِى عَلَيْكَ وَعَلَىٰ وَٰلِدَتِكَ إِذْ أَيَّدتُّكَ بِرُوحِ ٱلْقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًۭا ۖ وَإِذْ عَلَّمْتُكَ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ ۖ وَإِذْ تَخْلُقُ مِنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ بِإِذْنِى فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًۢا بِإِذْنِى ۖ وَتُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ بِإِذْنِى ۖ وَإِذْ تُخْرِجُ ٱلْمَوْتَىٰ بِإِذْنِى ۖ وَإِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ إِذْ جِئْتَهُم بِٱلْبَيِّنَٰتِ فَقَالَ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌۭ
 
-**5:111** "Da lokacin da Na yi wahayi ga almajirai: 'Ku yi imani da Ni da ManzoNa.' Suka ce, 'Mun yi imani, Ka shaida mun sallama.'"
+**5:111** “Da lokacin da Na yi wahayi ga almajirai: 'Ku yi imani da Ni da ManzoNa.' Suka ce, 'Mun yi imani, Ka shaida mun sallama.'”
 
 وَإِذْ أَوْحَيْتُ إِلَى ٱلْحَوَارِيِّۦنَ أَنْ ءَامِنُوا۟ بِى وَبِرَسُولِى قَالُوٓا۟ ءَامَنَّا وَٱشْهَدْ بِأَنَّنَا مُسْلِمُونَ
 
-**5:112** "Da lokacin da almajirai suka ce, 'Ya Isa ɗan Maryam, shin Ubangijinka zai iya saukar mana teburin abinci daga sama?' Ya ce, 'Ku ji tsoron Allah, idan kun kasance masu imani.'"
+**5:112** “Da lokacin da almajirai suka ce, 'Ya Isa ɗan Maryam, shin Ubangijinka zai iya saukar mana teburin abinci daga sama?' Ya ce, 'Ku ji tsoron Allah, idan kun kasance masu imani.'”
 
 إِذْ قَالَ ٱلْحَوَارِيُّونَ يَٰعِيسَى ٱبْنَ مَرْيَمَ هَلْ يَسْتَطِيعُ رَبُّكَ أَن يُنَزِّلَ عَلَيْنَا مَآئِدَةًۭ مِّنَ ٱلسَّمَآءِ ۖ قَالَ ٱتَّقُوا۟ ٱللَّهَ إِن كُنتُم مُّؤْمِنِينَ
 
-**5:113** Suka ce, "Muna so mu ci daga gare ta, don zukatanmu su natsu, mu san ka faɗi gaskiya, mu kasance cikin masu shaida a kanta."
+**5:113** Suka ce, “Muna so mu ci daga gare ta, don zukatanmu su natsu, mu san ka faɗi gaskiya, mu kasance cikin masu shaida a kanta.”
 
 قَالُوا۟ نُرِيدُ أَن نَّأْكُلَ مِنْهَا وَتَطْمَئِنَّ قُلُوبُنَا وَنَعْلَمَ أَن قَدْ صَدَقْتَنَا وَنَكُونَ عَلَيْهَا مِنَ ٱلشَّٰهِدِينَ
 
-**5:114** Isa ɗan Maryam ya ce, "Ya Allah, Ubangijinmu, Ka saukar mana teburin abinci daga sama, ya zama biki gare mu, ga na farkonmu da na ƙarshenmu, alama ce daga gare Ka; Ka azurta mu; Kai ne Mafi alherin masu azurtawa."
+**5:114** Isa ɗan Maryam ya ce, “Ya Allah, Ubangijinmu, Ka saukar mana teburin abinci daga sama, ya zama biki gare mu, ga na farkonmu da na ƙarshenmu, alama ce daga gare Ka; Ka azurta mu; Kai ne Mafi alherin masu azurtawa.”
 
 قَالَ عِيسَى ٱبْنُ مَرْيَمَ ٱللَّهُمَّ رَبَّنَآ أَنزِلْ عَلَيْنَا مَآئِدَةًۭ مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيدًۭا لِّأَوَّلِنَا وَءَاخِرِنَا وَءَايَةًۭ مِّنكَ ۖ وَٱرْزُقْنَا وَأَنتَ خَيْرُ ٱلرَّٰزِقِينَ
 
-**5:115** Allah Ya ce, "Zan saukar da ita gare ku. Wanda ya kafirce daga cikinku bayan haka, Zan azabtar da shi da azabar da ban taɓa azabtar da kowa da ita ba."
+**5:115** Allah Ya ce, “Zan saukar da ita gare ku. Wanda ya kafirce daga cikinku bayan haka, Zan azabtar da shi da azabar da ban taɓa azabtar da kowa da ita ba.”
 
 قَالَ ٱللَّهُ إِنِّى مُنَزِّلُهَا عَلَيْكُمْ ۖ فَمَن يَكْفُرْ بَعْدُ مِنكُمْ فَإِنِّىٓ أُعَذِّبُهُۥ عَذَابًۭا لَّآ أُعَذِّبُهُۥٓ أَحَدًۭا مِّنَ ٱلْعَٰلَمِينَ
 
-**5:116** Allah zai ce, "Ya Isa ɗan Maryam, shin kai ne ka ce wa mutane, 'Ku ɗauke ni da mahaifiyata gumaka ban da Allah?'" Zai ce, "Tsarki ya tabbata gare Ka! Ba ya dace in faɗi abin da ba ni da hakki a kai ba. Da na faɗe shi, da Ka san shi. Ka san abin da ke raina, ba na san abin da ke ranka ba. Kai ne Masani ga abubuwan ɓoye.
+**5:116** Allah zai ce, “Ya Isa ɗan Maryam, shin kai ne ka ce wa mutane, 'Ku ɗauke ni da mahaifiyata gumaka ban da Allah?'” Zai ce, “Tsarki ya tabbata gare Ka! Ba ya dace in faɗi abin da ba ni da hakki a kai ba. Da na faɗe shi, da Ka san shi. Ka san abin da ke raina, ba na san abin da ke ranka ba. Kai ne Masani ga abubuwan ɓoye.
 
 وَإِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ءَأَنتَ قُلْتَ لِلنَّاسِ ٱتَّخِذُونِى وَأُمِّىَ إِلَٰهَيْنِ مِن دُونِ ٱللَّهِ ۖ قَالَ سُبْحَٰنَكَ مَا يَكُونُ لِىٓ أَنْ أَقُولَ مَا لَيْسَ لِى بِحَقٍّ ۚ إِن كُنتُ قُلْتُهُۥ فَقَدْ عَلِمْتَهُۥ ۚ تَعْلَمُ مَا فِى نَفْسِى وَلَآ أَعْلَمُ مَا فِى نَفْسِكَ ۚ إِنَّكَ أَنتَ عَلَّٰمُ ٱلْغُيُوبِ
 
@@ -3338,11 +3338,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 مَا قُلْتُ لَهُمْ إِلَّا مَآ أَمَرْتَنِى بِهِۦٓ أَنِ ٱعْبُدُوا۟ ٱللَّهَ رَبِّى وَرَبَّكُمْ ۚ وَكُنتُ عَلَيْهِمْ شَهِيدًۭا مَّا دُمْتُ فِيهِمْ ۖ فَلَمَّا تَوَفَّيْتَنِى كُنتَ أَنتَ ٱلرَّقِيبَ عَلَيْهِمْ ۚ وَأَنتَ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدٌ
 
-**5:118** Idan Ka azabtar da su, bayinKa ne; idan Ka gafarta musu, Kai ne Mabuwayi, Mai hikima."
+**5:118** Idan Ka azabtar da su, bayinKa ne; idan Ka gafarta musu, Kai ne Mabuwayi, Mai hikima.”
 
 إِن تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ ۖ وَإِن تَغْفِرْ لَهُمْ فَإِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**5:119** Allah zai ce, "Wannan Rana ce da masu gaskiya za su amfana da gaskiyarsu." Za su sami lambuna da ƙoramu ke gudana a ƙarƙashinsu, za su dawwama a cikinsu har abada. Allah Ya yarda da su, sun yarda da Shi. Wannan ita ce nasara mai girma.
+**5:119** Allah zai ce, “Wannan Rana ce da masu gaskiya za su amfana da gaskiyarsu.” Za su sami lambuna da ƙoramu ke gudana a ƙarƙashinsu, za su dawwama a cikinsu har abada. Allah Ya yarda da su, sun yarda da Shi. Wannan ita ce nasara mai girma.
 
 قَالَ ٱللَّهُ هَٰذَا يَوْمُ يَنفَعُ ٱلصَّٰدِقِينَ صِدْقُهُمْ ۚ لَهُمْ جَنَّٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًۭا ۚ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
@@ -3386,11 +3386,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 أَلَمْ يَرَوْا۟ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍۢ مَّكَّنَّٰهُمْ فِى ٱلْأَرْضِ مَا لَمْ نُمَكِّن لَّكُمْ وَأَرْسَلْنَا ٱلسَّمَآءَ عَلَيْهِم مِّدْرَارًۭا وَجَعَلْنَا ٱلْأَنْهَٰرَ تَجْرِى مِن تَحْتِهِمْ فَأَهْلَكْنَٰهُم بِذُنُوبِهِمْ وَأَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ
 
-**6:7** Da Mun saukar maka Littafi a takarda, suka taɓa shi da hannayensu, kafirai da sun ce, "Wannan ba komai ba ne sai sihiri bayyananne."
+**6:7** Da Mun saukar maka Littafi a takarda, suka taɓa shi da hannayensu, kafirai da sun ce, “Wannan ba komai ba ne sai sihiri bayyananne.”
 
 وَلَوْ نَزَّلْنَا عَلَيْكَ كِتَٰبًۭا فِى قِرْطَاسٍۢ فَلَمَسُوهُ بِأَيْدِيهِمْ لَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌۭ
 
-**6:8** Suna cewa, "Me ya sa ba a saukar masa da mala'ika ba." Da Mun saukar da mala'ika, da an gama al'amari, ba za a jinkirta musu ba.
+**6:8** Suna cewa, “Me ya sa ba a saukar masa da mala'ika ba.” Da Mun saukar da mala'ika, da an gama al'amari, ba za a jinkirta musu ba.
 
 وَقَالُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ مَلَكٌۭ ۖ وَلَوْ أَنزَلْنَا مَلَكًۭا لَّقُضِىَ ٱلْأَمْرُ ثُمَّ لَا يُنظَرُونَ
 
@@ -3402,11 +3402,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍۢ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**6:11** Ka ce, "Ku yi tafiya a ƙasa ku lura da ƙarshen masu ƙaryatawa."
+**6:11** Ka ce, “Ku yi tafiya a ƙasa ku lura da ƙarshen masu ƙaryatawa.”
 
 قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ ثُمَّ ٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُكَذِّبِينَ
 
-**6:12** Ka ce, "Na wanene abin da ke sammai da ƙasa?" Ka ce, "Na Allah ne." Ya rubuta rahama ga KanSa. Zai tara ku zuwa Ranar Alƙiyama, babu shakka a cikinta. Waɗanda suka yi hasarar kawunansu ba sa imani.
+**6:12** Ka ce, “Na wanene abin da ke sammai da ƙasa?” Ka ce, “Na Allah ne.” Ya rubuta rahama ga KanSa. Zai tara ku zuwa Ranar Alƙiyama, babu shakka a cikinta. Waɗanda suka yi hasarar kawunansu ba sa imani.
 
 قُل لِّمَن مَّا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ قُل لِّلَّهِ ۚ كَتَبَ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَا رَيْبَ فِيهِ ۚ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ
 
@@ -3414,11 +3414,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ۞ وَلَهُۥ مَا سَكَنَ فِى ٱلَّيْلِ وَٱلنَّهَارِ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
-**6:14** Ka ce, "Shin in ɗauki majiɓinci wanin Allah, Mahaliccin sammai da ƙasa, Shi Yake ciyarwa ba a ciyar da Shi?" Ka ce, "An umarce ni in zama na farko cikin masu sallamawa." Kada ka kasance daga mushrikai.
+**6:14** Ka ce, “Shin in ɗauki majiɓinci wanin Allah, Mahaliccin sammai da ƙasa, Shi Yake ciyarwa ba a ciyar da Shi?” Ka ce, “An umarce ni in zama na farko cikin masu sallamawa.” Kada ka kasance daga mushrikai.
 
 قُلْ أَغَيْرَ ٱللَّهِ أَتَّخِذُ وَلِيًّۭا فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ يُطْعِمُ وَلَا يُطْعَمُ ۗ قُلْ إِنِّىٓ أُمِرْتُ أَنْ أَكُونَ أَوَّلَ مَنْ أَسْلَمَ ۖ وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ
 
-**6:15** Ka ce, "Ina tsoro, idan na saɓa wa Ubangijina, azabar Rana mai girma."
+**6:15** Ka ce, “Ina tsoro, idan na saɓa wa Ubangijina, azabar Rana mai girma.”
 
 قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍۢ
 
@@ -3434,7 +3434,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَهُوَ ٱلْقَاهِرُ فَوْقَ عِبَادِهِۦ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ
 
-**6:19** Ka ce, "Wane abu ya fi girma a shaida?" Ka ce, "Allah Shaida ne tsakaninku da ni. An yi mini wahayin wannan Alƙur'ani, don in gargaɗe ku da shi, da duk wanda ya isa gare shi. Shin da gaske kuna shaida akwai wasu gumaka tare da Allah?" Ka ce, "Ni ban yi shaida ba." Ka ce, "Shi Allah Ɗaya ne, ni ba ni da laifi kan shirkarku."
+**6:19** Ka ce, “Wane abu ya fi girma a shaida?” Ka ce, “Allah Shaida ne tsakaninku da ni. An yi mini wahayin wannan Alƙur'ani, don in gargaɗe ku da shi, da duk wanda ya isa gare shi. Shin da gaske kuna shaida akwai wasu gumaka tare da Allah?” Ka ce, “Ni ban yi shaida ba.” Ka ce, “Shi Allah Ɗaya ne, ni ba ni da laifi kan shirkarku.”
 
 قُلْ أَىُّ شَىْءٍ أَكْبَرُ شَهَٰدَةًۭ ۖ قُلِ ٱللَّهُ ۖ شَهِيدٌۢ بَيْنِى وَبَيْنَكُمْ ۚ وَأُوحِىَ إِلَىَّ هَٰذَا ٱلْقُرْءَانُ لِأُنذِرَكُم بِهِۦ وَمَنۢ بَلَغَ ۚ أَئِنَّكُمْ لَتَشْهَدُونَ أَنَّ مَعَ ٱللَّهِ ءَالِهَةً أُخْرَىٰ ۚ قُل لَّآ أَشْهَدُ ۚ قُلْ إِنَّمَا هُوَ إِلَٰهٌۭ وَٰحِدٌۭ وَإِنَّنِى بَرِىٓءٌۭ مِّمَّا تُشْرِكُونَ
 
@@ -3446,11 +3446,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِـَٔايَٰتِهِۦٓ ۗ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
 
-**6:22** Ranar da Muka tara su duka, Sai Mu ce wa mushrikai, "Ina gumakanku, waɗanda kuka kasance kuna da'awarsu?"
+**6:22** Ranar da Muka tara su duka, Sai Mu ce wa mushrikai, “Ina gumakanku, waɗanda kuka kasance kuna da'awarsu?”
 
 وَيَوْمَ نَحْشُرُهُمْ جَمِيعًۭا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوٓا۟ أَيْنَ شُرَكَآؤُكُمُ ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ
 
-**6:23** Sai hujjarsu kaɗai ta kasance su ce, "Muna rantsuwa da Allah, Ubangijinmu, ba mu kasance mushrikai ba."
+**6:23** Sai hujjarsu kaɗai ta kasance su ce, “Muna rantsuwa da Allah, Ubangijinmu, ba mu kasance mushrikai ba.”
 
 ثُمَّ لَمْ تَكُن فِتْنَتُهُمْ إِلَّآ أَن قَالُوا۟ وَٱللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ
 
@@ -3458,7 +3458,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ٱنظُرْ كَيْفَ كَذَبُوا۟ عَلَىٰٓ أَنفُسِهِمْ ۚ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ
 
-**6:25** A cikinsu akwai masu sauraronka; amma Mun sanya rufewa a zukatansu, don kada su fahimce shi, da nauyi a kunnuwansu. Ko da sun ga kowace alama, ba za su yi imani da ita ba. Har lokacin da suka zo maka, suna jayayya da kai, kafirai suna cewa, "Waɗannan ba komai ba ne sai tatsuniyoyin mutanen farko."
+**6:25** A cikinsu akwai masu sauraronka; amma Mun sanya rufewa a zukatansu, don kada su fahimce shi, da nauyi a kunnuwansu. Ko da sun ga kowace alama, ba za su yi imani da ita ba. Har lokacin da suka zo maka, suna jayayya da kai, kafirai suna cewa, “Waɗannan ba komai ba ne sai tatsuniyoyin mutanen farko.”
 
 وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ ۖ وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًۭا ۚ وَإِن يَرَوْا۟ كُلَّ ءَايَةٍۢ لَّا يُؤْمِنُوا۟ بِهَا ۚ حَتَّىٰٓ إِذَا جَآءُوكَ يُجَٰدِلُونَكَ يَقُولُ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
@@ -3466,7 +3466,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَهُمْ يَنْهَوْنَ عَنْهُ وَيَنْـَٔوْنَ عَنْهُ ۖ وَإِن يُهْلِكُونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ
 
-**6:27** Da kana gani, lokacin da aka tsayar da su a gaban Wuta; za su ce, "Da ana mayar da mu, ba za mu ƙaryata ayoyin Ubangijinmu ba, za mu kasance cikin masu imani."
+**6:27** Da kana gani, lokacin da aka tsayar da su a gaban Wuta; za su ce, “Da ana mayar da mu, ba za mu ƙaryata ayoyin Ubangijinmu ba, za mu kasance cikin masu imani.”
 
 وَلَوْ تَرَىٰٓ إِذْ وُقِفُوا۟ عَلَى ٱلنَّارِ فَقَالُوا۟ يَٰلَيْتَنَا نُرَدُّ وَلَا نُكَذِّبَ بِـَٔايَٰتِ رَبِّنَا وَنَكُونَ مِنَ ٱلْمُؤْمِنِينَ
 
@@ -3474,15 +3474,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 بَلْ بَدَا لَهُم مَّا كَانُوا۟ يُخْفُونَ مِن قَبْلُ ۖ وَلَوْ رُدُّوا۟ لَعَادُوا۟ لِمَا نُهُوا۟ عَنْهُ وَإِنَّهُمْ لَكَٰذِبُونَ
 
-**6:29** Suna cewa, "Babu komai sai rayuwarmu ta duniya, ba za a tayar da mu ba."
+**6:29** Suna cewa, “Babu komai sai rayuwarmu ta duniya, ba za a tayar da mu ba.”
 
 وَقَالُوٓا۟ إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ
 
-**6:30** Da kana gani, lokacin da aka tsayar da su a gaban Ubangijinsu. Zai ce, "Shin wannan ba gaskiya ba ne?" Za su ce, "I, muna rantsuwa da Ubangijinmu." Zai ce, "Ku ɗanɗani azaba saboda kafircin da kuka yi."
+**6:30** Da kana gani, lokacin da aka tsayar da su a gaban Ubangijinsu. Zai ce, “Shin wannan ba gaskiya ba ne?” Za su ce, “I, muna rantsuwa da Ubangijinmu.” Zai ce, “Ku ɗanɗani azaba saboda kafircin da kuka yi.”
 
 وَلَوْ تَرَىٰٓ إِذْ وُقِفُوا۟ عَلَىٰ رَبِّهِمْ ۚ قَالَ أَلَيْسَ هَٰذَا بِٱلْحَقِّ ۚ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
 
-**6:31** Masu hasara su ne waɗanda suka ƙaryata haɗuwa da Allah. Har lokacin da Sa'a ta zo musu ba zato, za su ce, "Kaitonmu, yadda muka yi sakaci a cikinta." Za su ɗauki nauyinsu a bayansu — abin da suke ɗauka ya munana.
+**6:31** Masu hasara su ne waɗanda suka ƙaryata haɗuwa da Allah. Har lokacin da Sa'a ta zo musu ba zato, za su ce, “Kaitonmu, yadda muka yi sakaci a cikinta.” Za su ɗauki nauyinsu a bayansu — abin da suke ɗauka ya munana.
 
 قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ ۖ حَتَّىٰٓ إِذَا جَآءَتْهُمُ ٱلسَّاعَةُ بَغْتَةًۭ قَالُوا۟ يَٰحَسْرَتَنَا عَلَىٰ مَا فَرَّطْنَا فِيهَا وَهُمْ يَحْمِلُونَ أَوْزَارَهُمْ عَلَىٰ ظُهُورِهِمْ ۚ أَلَا سَآءَ مَا يَزِرُونَ
 
@@ -3506,7 +3506,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ۞ إِنَّمَا يَسْتَجِيبُ ٱلَّذِينَ يَسْمَعُونَ ۘ وَٱلْمَوْتَىٰ يَبْعَثُهُمُ ٱللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ
 
-**6:37** Suna cewa, "Da an saukar masa da alama daga Ubangijinsa." Ka ce, "Allah Mai iko ne Ya saukar da alama, amma da yawa daga cikinsu ba su sani ba."
+**6:37** Suna cewa, “Da an saukar masa da alama daga Ubangijinsa.” Ka ce, “Allah Mai iko ne Ya saukar da alama, amma da yawa daga cikinsu ba su sani ba.”
 
 وَقَالُوا۟ لَوْلَا نُزِّلَ عَلَيْهِ ءَايَةٌۭ مِّن رَّبِّهِۦ ۚ قُلْ إِنَّ ٱللَّهَ قَادِرٌ عَلَىٰٓ أَن يُنَزِّلَ ءَايَةًۭ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 
@@ -3518,7 +3518,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا صُمٌّۭ وَبُكْمٌۭ فِى ٱلظُّلُمَٰتِ ۗ مَن يَشَإِ ٱللَّهُ يُضْلِلْهُ وَمَن يَشَأْ يَجْعَلْهُ عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
 
-**6:40** Ka ce, "Shin kun lura? Idan azabar Allah ta zo muku, ko Sa'a ta zo muku, shin za ku kira wanin Allah, idan kun kasance masu gaskiya?"
+**6:40** Ka ce, “Shin kun lura? Idan azabar Allah ta zo muku, ko Sa'a ta zo muku, shin za ku kira wanin Allah, idan kun kasance masu gaskiya?”
 
 قُلْ أَرَءَيْتَكُمْ إِنْ أَتَىٰكُمْ عَذَابُ ٱللَّهِ أَوْ أَتَتْكُمُ ٱلسَّاعَةُ أَغَيْرَ ٱللَّهِ تَدْعُونَ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -3542,11 +3542,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَقُطِعَ دَابِرُ ٱلْقَوْمِ ٱلَّذِينَ ظَلَمُوا۟ ۚ وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
-**6:46** Ka ce, "Shin kun lura? Idan Allah Ya ɗauke muku ji da gani, Ya rufe zukatanku, wane abin bauta wanin Allah zai mayar muku da su?" Ka lura yadda Muke bayyana ayoyi ta hanyoyi daban-daban, duk da haka suna juya baya.
+**6:46** Ka ce, “Shin kun lura? Idan Allah Ya ɗauke muku ji da gani, Ya rufe zukatanku, wane abin bauta wanin Allah zai mayar muku da su?” Ka lura yadda Muke bayyana ayoyi ta hanyoyi daban-daban, duk da haka suna juya baya.
 
 قُلْ أَرَءَيْتُمْ إِنْ أَخَذَ ٱللَّهُ سَمْعَكُمْ وَأَبْصَٰرَكُمْ وَخَتَمَ عَلَىٰ قُلُوبِكُم مَّنْ إِلَٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِهِ ۗ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْءَايَٰتِ ثُمَّ هُمْ يَصْدِفُونَ
 
-**6:47** Ka ce, "Shin kun lura? Idan azabar Allah ta sauka muku ba zato ko a hankali, shin za a hallaka kowa sai mutane azzalumai?"
+**6:47** Ka ce, “Shin kun lura? Idan azabar Allah ta sauka muku ba zato ko a hankali, shin za a hallaka kowa sai mutane azzalumai?”
 
 قُلْ أَرَءَيْتَكُمْ إِنْ أَتَىٰكُمْ عَذَابُ ٱللَّهِ بَغْتَةً أَوْ جَهْرَةً هَلْ يُهْلَكُ إِلَّا ٱلْقَوْمُ ٱلظَّٰلِمُونَ
 
@@ -3558,7 +3558,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا يَمَسُّهُمُ ٱلْعَذَابُ بِمَا كَانُوا۟ يَفْسُقُونَ
 
-**6:50** Ka ce, "Ba na cewa muku ina da taskokin Allah, ba na san ɓoye ba, ba na cewa muku ni mala'ika ne. Ina bin abin da aka yi mini wahayi ne kawai." Ka ce, "Shin makaho da mai gani sun daidaita? Ba ku tunani ba?"
+**6:50** Ka ce, “Ba na cewa muku ina da taskokin Allah, ba na san ɓoye ba, ba na cewa muku ni mala'ika ne. Ina bin abin da aka yi mini wahayi ne kawai.” Ka ce, “Shin makaho da mai gani sun daidaita? Ba ku tunani ba?”
 
 قُل لَّآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ وَلَآ أَقُولُ لَكُمْ إِنِّى مَلَكٌ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ ۚ أَفَلَا تَتَفَكَّرُونَ
 
@@ -3570,11 +3570,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَلَا تَطْرُدِ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ مَا عَلَيْكَ مِنْ حِسَابِهِم مِّن شَىْءٍۢ وَمَا مِنْ حِسَابِكَ عَلَيْهِم مِّن شَىْءٍۢ فَتَطْرُدَهُمْ فَتَكُونَ مِنَ ٱلظَّٰلِمِينَ
 
-**6:53** Haka Muke jarraba wasunsu da wasu, don su ce, "Shin waɗannan su ne waɗanda Allah Ya yi wa falala daga cikinmu?" Shin Allah bai san masu godiya ba?
+**6:53** Haka Muke jarraba wasunsu da wasu, don su ce, “Shin waɗannan su ne waɗanda Allah Ya yi wa falala daga cikinmu?” Shin Allah bai san masu godiya ba?
 
 وَكَذَٰلِكَ فَتَنَّا بَعْضَهُم بِبَعْضٍۢ لِّيَقُولُوٓا۟ أَهَٰٓؤُلَآءِ مَنَّ ٱللَّهُ عَلَيْهِم مِّنۢ بَيْنِنَآ ۗ أَلَيْسَ ٱللَّهُ بِأَعْلَمَ بِٱلشَّٰكِرِينَ
 
-**6:54** Idan waɗanda suka yi imani da ayoyinMu suka zo maka, ka ce, "Aminci ya tabbata gare ku, Ubangijinku Ya rubuta rahama ga KanSa. Wanda ya yi kuskure daga cikinku cikin jahilci, sai ya tuba daga baya ya gyara — Shi Mai gafara ne, Mai jinƙai."
+**6:54** Idan waɗanda suka yi imani da ayoyinMu suka zo maka, ka ce, “Aminci ya tabbata gare ku, Ubangijinku Ya rubuta rahama ga KanSa. Wanda ya yi kuskure daga cikinku cikin jahilci, sai ya tuba daga baya ya gyara — Shi Mai gafara ne, Mai jinƙai.”
 
 وَإِذَا جَآءَكَ ٱلَّذِينَ يُؤْمِنُونَ بِـَٔايَٰتِنَا فَقُلْ سَلَٰمٌ عَلَيْكُمْ ۖ كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۖ أَنَّهُۥ مَنْ عَمِلَ مِنكُمْ سُوٓءًۢا بِجَهَٰلَةٍۢ ثُمَّ تَابَ مِنۢ بَعْدِهِۦ وَأَصْلَحَ فَأَنَّهُۥ غَفُورٌۭ رَّحِيمٌۭ
 
@@ -3582,15 +3582,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَكَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ وَلِتَسْتَبِينَ سَبِيلُ ٱلْمُجْرِمِينَ
 
-**6:56** Ka ce, "An haramta mini in bauta wa waɗanda kuke addu'a gare su ban da Allah." Ka ce, "Ba zan bi son zuciyarku ba; in ba haka ba zan ɓace, ba zan kasance cikin masu shiriya ba."
+**6:56** Ka ce, “An haramta mini in bauta wa waɗanda kuke addu'a gare su ban da Allah.” Ka ce, “Ba zan bi son zuciyarku ba; in ba haka ba zan ɓace, ba zan kasance cikin masu shiriya ba.”
 
 قُلْ إِنِّى نُهِيتُ أَنْ أَعْبُدَ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ ۚ قُل لَّآ أَتَّبِعُ أَهْوَآءَكُمْ ۙ قَدْ ضَلَلْتُ إِذًۭا وَمَآ أَنَا۠ مِنَ ٱلْمُهْتَدِينَ
 
-**6:57** Ka ce, "Ina kan bayyananna hujja daga Ubangijina, kun ƙaryata Shi. Ba ni da abin da kuke gaggautawa; hukunci na Allah ne kawai. Yana faɗin gaskiya, Shi ne Mafi alherin masu hukunci."
+**6:57** Ka ce, “Ina kan bayyananna hujja daga Ubangijina, kun ƙaryata Shi. Ba ni da abin da kuke gaggautawa; hukunci na Allah ne kawai. Yana faɗin gaskiya, Shi ne Mafi alherin masu hukunci.”
 
 قُلْ إِنِّى عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَكَذَّبْتُم بِهِۦ ۚ مَا عِندِى مَا تَسْتَعْجِلُونَ بِهِۦٓ ۚ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۖ يَقُصُّ ٱلْحَقَّ ۖ وَهُوَ خَيْرُ ٱلْفَٰصِلِينَ
 
-**6:58** Ka ce, "Da ina da abin da kuke gaggautawa, da an gama al'amari tsakanina da ku. Allah Ya san azzalumai."
+**6:58** Ka ce, “Da ina da abin da kuke gaggautawa, da an gama al'amari tsakanina da ku. Allah Ya san azzalumai.”
 
 قُل لَّوْ أَنَّ عِندِى مَا تَسْتَعْجِلُونَ بِهِۦ لَقُضِىَ ٱلْأَمْرُ بَيْنِى وَبَيْنَكُمْ ۗ وَٱللَّهُ أَعْلَمُ بِٱلظَّٰلِمِينَ
 
@@ -3610,19 +3610,19 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ثُمَّ رُدُّوٓا۟ إِلَى ٱللَّهِ مَوْلَىٰهُمُ ٱلْحَقِّ ۚ أَلَا لَهُ ٱلْحُكْمُ وَهُوَ أَسْرَعُ ٱلْحَٰسِبِينَ
 
-**6:63** Ka ce, "Wa ke tseratar da ku daga duhun ƙasa da teku?" Kuna kiranSa da ƙanƙanta da ɓoye: "Idan Ya tseratar da mu daga wannan, za mu kasance cikin masu godiya."
+**6:63** Ka ce, “Wa ke tseratar da ku daga duhun ƙasa da teku?” Kuna kiranSa da ƙanƙanta da ɓoye: “Idan Ya tseratar da mu daga wannan, za mu kasance cikin masu godiya.”
 
 قُلْ مَن يُنَجِّيكُم مِّن ظُلُمَٰتِ ٱلْبَرِّ وَٱلْبَحْرِ تَدْعُونَهُۥ تَضَرُّعًۭا وَخُفْيَةًۭ لَّئِنْ أَنجَىٰنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
 
-**6:64** Ka ce, "Allah ne ke tseratar da ku daga gare ta, da daga kowace masifa. Duk da haka kuna haɗa wasu da Shi."
+**6:64** Ka ce, “Allah ne ke tseratar da ku daga gare ta, da daga kowace masifa. Duk da haka kuna haɗa wasu da Shi.”
 
 قُلِ ٱللَّهُ يُنَجِّيكُم مِّنْهَا وَمِن كُلِّ كَرْبٍۢ ثُمَّ أَنتُمْ تُشْرِكُونَ
 
-**6:65** Ka ce, "Shi Mai iko ne Ya aiko muku azaba, daga samanku, ko daga ƙarƙashin ƙafafunku. Ko Ya raba ku ƙungiyoyi, Ya sa ku ɗanɗani tashin hankalin juna. Ka lura yadda Muke bayyana ayoyi, don su fahimta."
+**6:65** Ka ce, “Shi Mai iko ne Ya aiko muku azaba, daga samanku, ko daga ƙarƙashin ƙafafunku. Ko Ya raba ku ƙungiyoyi, Ya sa ku ɗanɗani tashin hankalin juna. Ka lura yadda Muke bayyana ayoyi, don su fahimta.”
 
 قُلْ هُوَ ٱلْقَادِرُ عَلَىٰٓ أَن يَبْعَثَ عَلَيْكُمْ عَذَابًۭا مِّن فَوْقِكُمْ أَوْ مِن تَحْتِ أَرْجُلِكُمْ أَوْ يَلْبِسَكُمْ شِيَعًۭا وَيُذِيقَ بَعْضَكُم بَأْسَ بَعْضٍ ۗ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْءَايَٰتِ لَعَلَّهُمْ يَفْقَهُونَ
 
-**6:66** Mutanenka sun ƙaryata shi, alhali shi ne gaskiya. Ka ce, "Ba ni da alhakin ku."
+**6:66** Mutanenka sun ƙaryata shi, alhali shi ne gaskiya. Ka ce, “Ba ni da alhakin ku.”
 
 وَكَذَّبَ بِهِۦ قَوْمُكَ وَهُوَ ٱلْحَقُّ ۚ قُل لَّسْتُ عَلَيْكُم بِوَكِيلٍۢ
 
@@ -3642,19 +3642,19 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَذَرِ ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَهُمْ لَعِبًۭا وَلَهْوًۭا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ وَذَكِّرْ بِهِۦٓ أَن تُبْسَلَ نَفْسٌۢ بِمَا كَسَبَتْ لَيْسَ لَهَا مِن دُونِ ٱللَّهِ وَلِىٌّۭ وَلَا شَفِيعٌۭ وَإِن تَعْدِلْ كُلَّ عَدْلٍۢ لَّا يُؤْخَذْ مِنْهَآ ۗ أُو۟لَٰٓئِكَ ٱلَّذِينَ أُبْسِلُوا۟ بِمَا كَسَبُوا۟ ۖ لَهُمْ شَرَابٌۭ مِّنْ حَمِيمٍۢ وَعَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْفُرُونَ
 
-**6:71** Ka ce, "Shin za mu kira, ban da Allah, abin da ba ya amfanar da mu ba ya cutar da mu, mu juya baya bayan Allah Ya shiryar da mu; kamar wanda shaidanu suka ruɗe shi ya rikice a ƙasa, yana da abokai suna kiransa zuwa shiriya: 'Ka zo gare mu'?" Ka ce, "Shiriyar Allah ita ce shiriya, an umarce mu mu sallama ga Ubangijin talikai."
+**6:71** Ka ce, “Shin za mu kira, ban da Allah, abin da ba ya amfanar da mu ba ya cutar da mu, mu juya baya bayan Allah Ya shiryar da mu; kamar wanda shaidanu suka ruɗe shi ya rikice a ƙasa, yana da abokai suna kiransa zuwa shiriya: 'Ka zo gare mu'?” Ka ce, “Shiriyar Allah ita ce shiriya, an umarce mu mu sallama ga Ubangijin talikai.”
 
 قُلْ أَنَدْعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا وَنُرَدُّ عَلَىٰٓ أَعْقَابِنَا بَعْدَ إِذْ هَدَىٰنَا ٱللَّهُ كَٱلَّذِى ٱسْتَهْوَتْهُ ٱلشَّيَٰطِينُ فِى ٱلْأَرْضِ حَيْرَانَ لَهُۥٓ أَصْحَٰبٌۭ يَدْعُونَهُۥٓ إِلَى ٱلْهُدَى ٱئْتِنَا ۗ قُلْ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلْهُدَىٰ ۖ وَأُمِرْنَا لِنُسْلِمَ لِرَبِّ ٱلْعَٰلَمِينَ
 
-**6:72** "Ku tsayar da salla, ku ji tsoronSa; gare Shi za a tara ku."
+**6:72** “Ku tsayar da salla, ku ji tsoronSa; gare Shi za a tara ku.”
 
 وَأَنْ أَقِيمُوا۟ ٱلصَّلَوٰةَ وَٱتَّقُوهُ ۚ وَهُوَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ
 
-**6:73** Shi ne wanda Ya halitta sammai da ƙasa da gaskiya. Ranar da Ya ce: "Kasance," sai ta kasance. MaganarSa gaskiya ce, mulki NaSa ne Ranar da za a busa ƙaho. Masani ga ɓoye da bayyane. Shi ne Mai hikima, Masani.
+**6:73** Shi ne wanda Ya halitta sammai da ƙasa da gaskiya. Ranar da Ya ce: “Kasance,” sai ta kasance. MaganarSa gaskiya ce, mulki NaSa ne Ranar da za a busa ƙaho. Masani ga ɓoye da bayyane. Shi ne Mai hikima, Masani.
 
 وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۖ وَيَوْمَ يَقُولُ كُن فَيَكُونُ ۚ قَوْلُهُ ٱلْحَقُّ ۚ وَلَهُ ٱلْمُلْكُ يَوْمَ يُنفَخُ فِى ٱلصُّورِ ۚ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ
 
-**6:74** Ibrahim ya ce wa mahaifinsa Azar, "Shin kana ɗaukar gumaka abubuwan bauta? Ina ganin kai da mutanenka kuna cikin ɓata bayyananna."
+**6:74** Ibrahim ya ce wa mahaifinsa Azar, “Shin kana ɗaukar gumaka abubuwan bauta? Ina ganin kai da mutanenka kuna cikin ɓata bayyananna.”
 
 ۞ وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصْنَامًا ءَالِهَةً ۖ إِنِّىٓ أَرَىٰكَ وَقَوْمَكَ فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
@@ -3662,27 +3662,27 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ
 
-**6:76** Lokacin da dare ya rufe shi, ya ga tauraro. Ya ce, "Wannan Ubangijina ne." Lokacin da ya faɗi, ya ce, "Ba na son masu faɗuwa."
+**6:76** Lokacin da dare ya rufe shi, ya ga tauraro. Ya ce, “Wannan Ubangijina ne.” Lokacin da ya faɗi, ya ce, “Ba na son masu faɗuwa.”
 
 فَلَمَّا جَنَّ عَلَيْهِ ٱلَّيْلُ رَءَا كَوْكَبًۭا ۖ قَالَ هَٰذَا رَبِّى ۖ فَلَمَّآ أَفَلَ قَالَ لَآ أُحِبُّ ٱلْءَافِلِينَ
 
-**6:77** Lokacin da ya ga wata yana hawa, ya ce, "Wannan Ubangijina ne." Lokacin da ya faɗi, ya ce, "Idan Ubangijina bai shiryar da ni ba, zan kasance daga mutane masu ɓata."
+**6:77** Lokacin da ya ga wata yana hawa, ya ce, “Wannan Ubangijina ne.” Lokacin da ya faɗi, ya ce, “Idan Ubangijina bai shiryar da ni ba, zan kasance daga mutane masu ɓata.”
 
 فَلَمَّا رَءَا ٱلْقَمَرَ بَازِغًۭا قَالَ هَٰذَا رَبِّى ۖ فَلَمَّآ أَفَلَ قَالَ لَئِن لَّمْ يَهْدِنِى رَبِّى لَأَكُونَنَّ مِنَ ٱلْقَوْمِ ٱلضَّآلِّينَ
 
-**6:78** Lokacin da ya ga rana tana hawa, ya ce, "Wannan Ubangijina ne, wannan ya fi girma." Lokacin da ta faɗi, ya ce, "Ya mutanena, ba ni da laifi kan shirkarku.
+**6:78** Lokacin da ya ga rana tana hawa, ya ce, “Wannan Ubangijina ne, wannan ya fi girma.” Lokacin da ta faɗi, ya ce, “Ya mutanena, ba ni da laifi kan shirkarku.
 
 فَلَمَّا رَءَا ٱلشَّمْسَ بَازِغَةًۭ قَالَ هَٰذَا رَبِّى هَٰذَآ أَكْبَرُ ۖ فَلَمَّآ أَفَلَتْ قَالَ يَٰقَوْمِ إِنِّى بَرِىٓءٌۭ مِّمَّا تُشْرِكُونَ
 
-**6:79** Na fuskanci wanda Ya halitta sammai da ƙasa — mai bautar Allah Ɗaya — ba ni daga mushrikai."
+**6:79** Na fuskanci wanda Ya halitta sammai da ƙasa — mai bautar Allah Ɗaya — ba ni daga mushrikai.”
 
 إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ حَنِيفًۭا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ
 
-**6:80** Mutanensa suka yi jayayya da shi. Ya ce, "Shin kuna jayayya da ni kan Allah, alhali Ya shiryar da ni? Ba na tsoron abin da kuke haɗawa da Shi, sai idan Ubangijina Ya so. Ubangijina Ya kewaye komai da ilimi. Ba za ku yi tunani ba?
+**6:80** Mutanensa suka yi jayayya da shi. Ya ce, “Shin kuna jayayya da ni kan Allah, alhali Ya shiryar da ni? Ba na tsoron abin da kuke haɗawa da Shi, sai idan Ubangijina Ya so. Ubangijina Ya kewaye komai da ilimi. Ba za ku yi tunani ba?
 
 وَحَآجَّهُۥ قَوْمُهُۥ ۚ قَالَ أَتُحَٰٓجُّوٓنِّى فِى ٱللَّهِ وَقَدْ هَدَىٰنِ ۚ وَلَآ أَخَافُ مَا تُشْرِكُونَ بِهِۦٓ إِلَّآ أَن يَشَآءَ رَبِّى شَيْـًۭٔا ۗ وَسِعَ رَبِّى كُلَّ شَىْءٍ عِلْمًا ۗ أَفَلَا تَتَذَكَّرُونَ
 
-**6:81** Me ya sa in ji tsoron abin da kuke haɗawa da Shi, ku ba ku tsoron haɗa wasu da Allah da bai saukar muku da wani iko a kansa ba? Wane ɓangare ya fi cancantar aminci, idan kun sani?"
+**6:81** Me ya sa in ji tsoron abin da kuke haɗawa da Shi, ku ba ku tsoron haɗa wasu da Allah da bai saukar muku da wani iko a kansa ba? Wane ɓangare ya fi cancantar aminci, idan kun sani?”
 
 وَكَيْفَ أَخَافُ مَآ أَشْرَكْتُمْ وَلَا تَخَافُونَ أَنَّكُمْ أَشْرَكْتُم بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ عَلَيْكُمْ سُلْطَٰنًۭا ۚ فَأَىُّ ٱلْفَرِيقَيْنِ أَحَقُّ بِٱلْأَمْنِ ۖ إِن كُنتُمْ تَعْلَمُونَ
 
@@ -3718,11 +3718,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ۚ فَإِن يَكْفُرْ بِهَا هَٰٓؤُلَآءِ فَقَدْ وَكَّلْنَا بِهَا قَوْمًۭا لَّيْسُوا۟ بِهَا بِكَٰفِرِينَ
 
-**6:90** Waɗannan su ne Allah Ya shiryar, ka bi shiriyarsu. Ka ce, "Ba na neman wani sakamako daga gare ku a kansa; tunatarwa ce ga duk mutane."
+**6:90** Waɗannan su ne Allah Ya shiryar, ka bi shiriyarsu. Ka ce, “Ba na neman wani sakamako daga gare ku a kansa; tunatarwa ce ga duk mutane.”
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ هَدَى ٱللَّهُ ۖ فَبِهُدَىٰهُمُ ٱقْتَدِهْ ۗ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا ۖ إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَٰلَمِينَ
 
-**6:91** Ba sa girmama Allah yadda Ya kamata a girmama Shi, lokacin da suka ce, "Allah bai saukar da komai ga wani mutum ba." Ka ce, "Wa ya saukar da Littafin da Musa ya zo da shi — haske da shiriya ga mutane?" Kuna sa shi a takardu, kuna bayyana su, kuna ɓoye da yawa. An sanar da ku abin da ba ku sani ba — ku, ko kakanninku. Ka ce, "Allah;" sai ka ƙyale su suna wasa a cikin zato.
+**6:91** Ba sa girmama Allah yadda Ya kamata a girmama Shi, lokacin da suka ce, “Allah bai saukar da komai ga wani mutum ba.” Ka ce, “Wa ya saukar da Littafin da Musa ya zo da shi — haske da shiriya ga mutane?” Kuna sa shi a takardu, kuna bayyana su, kuna ɓoye da yawa. An sanar da ku abin da ba ku sani ba — ku, ko kakanninku. Ka ce, “Allah;” sai ka ƙyale su suna wasa a cikin zato.
 
 وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِذْ قَالُوا۟ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرٍۢ مِّن شَىْءٍۢ ۗ قُلْ مَنْ أَنزَلَ ٱلْكِتَٰبَ ٱلَّذِى جَآءَ بِهِۦ مُوسَىٰ نُورًۭا وَهُدًۭى لِّلنَّاسِ ۖ تَجْعَلُونَهُۥ قَرَاطِيسَ تُبْدُونَهَا وَتُخْفُونَ كَثِيرًۭا ۖ وَعُلِّمْتُم مَّا لَمْ تَعْلَمُوٓا۟ أَنتُمْ وَلَآ ءَابَآؤُكُمْ ۖ قُلِ ٱللَّهُ ۖ ثُمَّ ذَرْهُمْ فِى خَوْضِهِمْ يَلْعَبُونَ
 
@@ -3730,11 +3730,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَهَٰذَا كِتَٰبٌ أَنزَلْنَٰهُ مُبَارَكٌۭ مُّصَدِّقُ ٱلَّذِى بَيْنَ يَدَيْهِ وَلِتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا ۚ وَٱلَّذِينَ يُؤْمِنُونَ بِٱلْءَاخِرَةِ يُؤْمِنُونَ بِهِۦ ۖ وَهُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ
 
-**6:93** Wa ya fi zalunci fiye da wanda ya ƙirƙiri ƙarya ya jingina wa Allah, ko ya ce, "An yi mini wahayi," alhali ba a yi masa wahayi ba, ko ya ce, "Zan saukar da kwatankwacin abin da Allah Ya saukar"? Da kana gani azzalumai a cikin igiyoyin mutuwa, mala'iku hannayensu a shimfiɗe: "Ku fitar da kawunanku. Yau ana sakawa ku azabar wulakanci saboda kun faɗi kan Allah ba gaskiya ba, kun yi girman kai ga ayoyinSa."
+**6:93** Wa ya fi zalunci fiye da wanda ya ƙirƙiri ƙarya ya jingina wa Allah, ko ya ce, “An yi mini wahayi,” alhali ba a yi masa wahayi ba, ko ya ce, “Zan saukar da kwatankwacin abin da Allah Ya saukar”? Da kana gani azzalumai a cikin igiyoyin mutuwa, mala'iku hannayensu a shimfiɗe: “Ku fitar da kawunanku. Yau ana sakawa ku azabar wulakanci saboda kun faɗi kan Allah ba gaskiya ba, kun yi girman kai ga ayoyinSa.”
 
 وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ يُوحَ إِلَيْهِ شَىْءٌۭ وَمَن قَالَ سَأُنزِلُ مِثْلَ مَآ أَنزَلَ ٱللَّهُ ۗ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ فِى غَمَرَٰتِ ٱلْمَوْتِ وَٱلْمَلَٰٓئِكَةُ بَاسِطُوٓا۟ أَيْدِيهِمْ أَخْرِجُوٓا۟ أَنفُسَكُمُ ۖ ٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَقُولُونَ عَلَى ٱللَّهِ غَيْرَ ٱلْحَقِّ وَكُنتُمْ عَنْ ءَايَٰتِهِۦ تَسْتَكْبِرُونَ
 
-**6:94** "Kun zo Mana ɗaiɗai, kamar yadda Muka halicce ku a karon farko, kun bar duk abin da Muka ba ku a bayanku. Ba Mu ganin masu cetonku tare da ku — waɗanda kuka ɗauka abokan tarayya ne. Haɗin da ke tsakaninku ya yanke, abin da kuka ɗauka ya ɓace muku."
+**6:94** “Kun zo Mana ɗaiɗai, kamar yadda Muka halicce ku a karon farko, kun bar duk abin da Muka ba ku a bayanku. Ba Mu ganin masu cetonku tare da ku — waɗanda kuka ɗauka abokan tarayya ne. Haɗin da ke tsakaninku ya yanke, abin da kuka ɗauka ya ɓace muku.”
 
 وَلَقَدْ جِئْتُمُونَا فُرَٰدَىٰ كَمَا خَلَقْنَٰكُمْ أَوَّلَ مَرَّةٍۢ وَتَرَكْتُم مَّا خَوَّلْنَٰكُمْ وَرَآءَ ظُهُورِكُمْ ۖ وَمَا نَرَىٰ مَعَكُمْ شُفَعَآءَكُمُ ٱلَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ شُرَكَٰٓؤُا۟ ۚ لَقَد تَّقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنكُم مَّا كُنتُمْ تَزْعُمُونَ
 
@@ -3774,11 +3774,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 لَّا تُدْرِكُهُ ٱلْأَبْصَٰرُ وَهُوَ يُدْرِكُ ٱلْأَبْصَٰرَ ۖ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ
 
-**6:104** "Hujjoji sun zo muku daga Ubangijinku. Wanda ya gani, amfanin ransa ne; wanda ya makance, cutar ransa ne. Ni ba mai tsaro a kanku ba ne."
+**6:104** “Hujjoji sun zo muku daga Ubangijinku. Wanda ya gani, amfanin ransa ne; wanda ya makance, cutar ransa ne. Ni ba mai tsaro a kanku ba ne.”
 
 قَدْ جَآءَكُم بَصَآئِرُ مِن رَّبِّكُمْ ۖ فَمَنْ أَبْصَرَ فَلِنَفْسِهِۦ ۖ وَمَنْ عَمِىَ فَعَلَيْهَا ۚ وَمَآ أَنَا۠ عَلَيْكُم بِحَفِيظٍۢ
 
-**6:105** Haka Muke bambanta ayoyi, kada su ce, "Ka yi karatu," Mu bayyana su ga mutanen da suka sani.
+**6:105** Haka Muke bambanta ayoyi, kada su ce, “Ka yi karatu,” Mu bayyana su ga mutanen da suka sani.
 
 وَكَذَٰلِكَ نُصَرِّفُ ٱلْءَايَٰتِ وَلِيَقُولُوا۟ دَرَسْتَ وَلِنُبَيِّنَهُۥ لِقَوْمٍۢ يَعْلَمُونَ
 
@@ -3794,7 +3794,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَلَا تَسُبُّوا۟ ٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ فَيَسُبُّوا۟ ٱللَّهَ عَدْوًۢا بِغَيْرِ عِلْمٍۢ ۗ كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ ثُمَّ إِلَىٰ رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**6:109** Suna rantsuwa da Allah, da rantsuwoyi mafi tsanani, idan mu'ujiza ta zo musu, za su yi imani da ita. Ka ce, "Mu'ujizai a wurin Allah ne kawai." Ta yaya kuke sani? Ko da ta zo, ba za su yi imani ba.
+**6:109** Suna rantsuwa da Allah, da rantsuwoyi mafi tsanani, idan mu'ujiza ta zo musu, za su yi imani da ita. Ka ce, “Mu'ujizai a wurin Allah ne kawai.” Ta yaya kuke sani? Ko da ta zo, ba za su yi imani ba.
 
 وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ لَئِن جَآءَتْهُمْ ءَايَةٌۭ لَّيُؤْمِنُنَّ بِهَا ۚ قُلْ إِنَّمَا ٱلْءَايَٰتُ عِندَ ٱللَّهِ ۖ وَمَا يُشْعِرُكُمْ أَنَّهَآ إِذَا جَآءَتْ لَا يُؤْمِنُونَ
 
@@ -3814,7 +3814,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَلِتَصْغَىٰٓ إِلَيْهِ أَفْـِٔدَةُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ وَلِيَرْضَوْهُ وَلِيَقْتَرِفُوا۟ مَا هُم مُّقْتَرِفُونَ
 
-**6:114** "Shin in nemi mai hukunci wanin Allah, alhali Shi ne wanda Ya saukar muku Littafi, bayyananne daki-daki?" Waɗanda Muka ba wa Littafi sun san shi ne gaskiya da aka saukar daga Ubangijinka. Kada ka kasance daga masu shakka.
+**6:114** “Shin in nemi mai hukunci wanin Allah, alhali Shi ne wanda Ya saukar muku Littafi, bayyananne daki-daki?” Waɗanda Muka ba wa Littafi sun san shi ne gaskiya da aka saukar daga Ubangijinka. Kada ka kasance daga masu shakka.
 
 أَفَغَيْرَ ٱللَّهِ أَبْتَغِى حَكَمًۭا وَهُوَ ٱلَّذِىٓ أَنزَلَ إِلَيْكُمُ ٱلْكِتَٰبَ مُفَصَّلًۭا ۚ وَٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ يَعْلَمُونَ أَنَّهُۥ مُنَزَّلٌۭ مِّن رَّبِّكَ بِٱلْحَقِّ ۖ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ
 
@@ -3854,7 +3854,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَكَذَٰلِكَ جَعَلْنَا فِى كُلِّ قَرْيَةٍ أَكَٰبِرَ مُجْرِمِيهَا لِيَمْكُرُوا۟ فِيهَا ۖ وَمَا يَمْكُرُونَ إِلَّا بِأَنفُسِهِمْ وَمَا يَشْعُرُونَ
 
-**6:124** Idan alama ta zo musu, suna cewa, "Ba za mu yi imani ba sai an ba mu kwatankwacin abin da aka ba manzannin Allah." Allah Ya san inda zai sa saƙonSa. Wulakanci daga Allah da azaba mai tsanani za su taɓa masu laifi saboda makircinsu.
+**6:124** Idan alama ta zo musu, suna cewa, “Ba za mu yi imani ba sai an ba mu kwatankwacin abin da aka ba manzannin Allah.” Allah Ya san inda zai sa saƙonSa. Wulakanci daga Allah da azaba mai tsanani za su taɓa masu laifi saboda makircinsu.
 
 وَإِذَا جَآءَتْهُمْ ءَايَةٌۭ قَالُوا۟ لَن نُّؤْمِنَ حَتَّىٰ نُؤْتَىٰ مِثْلَ مَآ أُوتِىَ رُسُلُ ٱللَّهِ ۘ ٱللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُۥ ۗ سَيُصِيبُ ٱلَّذِينَ أَجْرَمُوا۟ صَغَارٌ عِندَ ٱللَّهِ وَعَذَابٌۭ شَدِيدٌۢ بِمَا كَانُوا۟ يَمْكُرُونَ
 
@@ -3870,7 +3870,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ۞ لَهُمْ دَارُ ٱلسَّلَٰمِ عِندَ رَبِّهِمْ ۖ وَهُوَ وَلِيُّهُم بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**6:128** Ranar da Ya tara su duka: "Ya taron aljanu, kun yi amfani da mutane da yawa." Mabiyansu daga mutane za su ce, "Ubangijinmu, mun amfana da juna, mun kai ajalin da Ka ƙaddara mana." Zai ce, "Wuta ita ce matsuguninku, za ku dawwama a cikinta, sai abin da Allah Ya so. Ubangijinka Mai hikima ne, Masani.
+**6:128** Ranar da Ya tara su duka: “Ya taron aljanu, kun yi amfani da mutane da yawa.” Mabiyansu daga mutane za su ce, “Ubangijinmu, mun amfana da juna, mun kai ajalin da Ka ƙaddara mana.” Zai ce, “Wuta ita ce matsuguninku, za ku dawwama a cikinta, sai abin da Allah Ya so. Ubangijinka Mai hikima ne, Masani.
 
 وَيَوْمَ يَحْشُرُهُمْ جَمِيعًۭا يَٰمَعْشَرَ ٱلْجِنِّ قَدِ ٱسْتَكْثَرْتُم مِّنَ ٱلْإِنسِ ۖ وَقَالَ أَوْلِيَآؤُهُم مِّنَ ٱلْإِنسِ رَبَّنَا ٱسْتَمْتَعَ بَعْضُنَا بِبَعْضٍۢ وَبَلَغْنَآ أَجَلَنَا ٱلَّذِىٓ أَجَّلْتَ لَنَا ۚ قَالَ ٱلنَّارُ مَثْوَىٰكُمْ خَٰلِدِينَ فِيهَآ إِلَّا مَا شَآءَ ٱللَّهُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌۭ
 
@@ -3878,7 +3878,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَكَذَٰلِكَ نُوَلِّى بَعْضَ ٱلظَّٰلِمِينَ بَعْضًۢا بِمَا كَانُوا۟ يَكْسِبُونَ
 
-**6:130** "Ya taron aljanu da mutane, shin manzanni ba su zo muku daga cikinku ba, suna karanta muku ayoyiNa, suna gargaɗinku da haɗuwa da wannan Ranarku?" Za su ce, "Mun yi shaida kan kawunanmu." Rayuwar duniya ta ruɗe su. Za su yi shaida kan kawunansu cewa sun kasance kafirai.
+**6:130** “Ya taron aljanu da mutane, shin manzanni ba su zo muku daga cikinku ba, suna karanta muku ayoyiNa, suna gargaɗinku da haɗuwa da wannan Ranarku?” Za su ce, “Mun yi shaida kan kawunanmu.” Rayuwar duniya ta ruɗe su. Za su yi shaida kan kawunansu cewa sun kasance kafirai.
 
 يَٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌۭ مِّنكُمْ يَقُصُّونَ عَلَيْكُمْ ءَايَٰتِى وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا ۚ قَالُوا۟ شَهِدْنَا عَلَىٰٓ أَنفُسِنَا ۖ وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَشَهِدُوا۟ عَلَىٰٓ أَنفُسِهِمْ أَنَّهُمْ كَانُوا۟ كَٰفِرِينَ
 
@@ -3898,11 +3898,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 إِنَّ مَا تُوعَدُونَ لَءَاتٍۢ ۖ وَمَآ أَنتُم بِمُعْجِزِينَ
 
-**6:135** Ka ce, "Ya mutanena! Ku yi aiki bisa iyawarku, ni ma zan yi." Da sannu za ku san wanda zai mallaki ƙarshen gida." Azzalumai ba za su yi nasara ba.
+**6:135** Ka ce, “Ya mutanena! Ku yi aiki bisa iyawarku, ni ma zan yi.” Da sannu za ku san wanda zai mallaki ƙarshen gida.” Azzalumai ba za su yi nasara ba.
 
 قُلْ يَٰقَوْمِ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنِّى عَامِلٌۭ ۖ فَسَوْفَ تَعْلَمُونَ مَن تَكُونُ لَهُۥ عَٰقِبَةُ ٱلدَّارِ ۗ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
 
-**6:136** Sun sanya wa Allah rabon amfanin gona da dabbobi da Ya halitta, suna cewa, "Wannan na Allah ne," bisa da'awarsu, "wannan na gumakanmu ne." Rabon gumakansu ba ya isa ga Allah, rabon Allah yana isa ga gumakansu. Hukuncinsu ya munana.
+**6:136** Sun sanya wa Allah rabon amfanin gona da dabbobi da Ya halitta, suna cewa, “Wannan na Allah ne,” bisa da'awarsu, “wannan na gumakanmu ne.” Rabon gumakansu ba ya isa ga Allah, rabon Allah yana isa ga gumakansu. Hukuncinsu ya munana.
 
 وَجَعَلُوا۟ لِلَّهِ مِمَّا ذَرَأَ مِنَ ٱلْحَرْثِ وَٱلْأَنْعَٰمِ نَصِيبًۭا فَقَالُوا۟ هَٰذَا لِلَّهِ بِزَعْمِهِمْ وَهَٰذَا لِشُرَكَآئِنَا ۖ فَمَا كَانَ لِشُرَكَآئِهِمْ فَلَا يَصِلُ إِلَى ٱللَّهِ ۖ وَمَا كَانَ لِلَّهِ فَهُوَ يَصِلُ إِلَىٰ شُرَكَآئِهِمْ ۗ سَآءَ مَا يَحْكُمُونَ
 
@@ -3910,11 +3910,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍۢ مِّنَ ٱلْمُشْرِكِينَ قَتْلَ أَوْلَٰدِهِمْ شُرَكَآؤُهُمْ لِيُرْدُوهُمْ وَلِيَلْبِسُوا۟ عَلَيْهِمْ دِينَهُمْ ۖ وَلَوْ شَآءَ ٱللَّهُ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ
 
-**6:138** Suna cewa, "Waɗannan dabbobi da amfanin gona an hana su; babu mai ci sai wanda muka yarda da shi," bisa da'awarsu, da dabbobin da aka haramta bayansu, da dabbobin da ba sa ambaton sunan Allah a kansu — suna ƙirƙira ƙarya ga Allah. Zai saka musu kan abin da suka kasance suna ƙirƙira.
+**6:138** Suna cewa, “Waɗannan dabbobi da amfanin gona an hana su; babu mai ci sai wanda muka yarda da shi,” bisa da'awarsu, da dabbobin da aka haramta bayansu, da dabbobin da ba sa ambaton sunan Allah a kansu — suna ƙirƙira ƙarya ga Allah. Zai saka musu kan abin da suka kasance suna ƙirƙira.
 
 وَقَالُوا۟ هَٰذِهِۦٓ أَنْعَٰمٌۭ وَحَرْثٌ حِجْرٌۭ لَّا يَطْعَمُهَآ إِلَّا مَن نَّشَآءُ بِزَعْمِهِمْ وَأَنْعَٰمٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَٰمٌۭ لَّا يَذْكُرُونَ ٱسْمَ ٱللَّهِ عَلَيْهَا ٱفْتِرَآءً عَلَيْهِ ۚ سَيَجْزِيهِم بِمَا كَانُوا۟ يَفْتَرُونَ
 
-**6:139** Suna cewa, "Abin da ke cikin dabbobin nan na maza ne kawai, an haramta wa matanmu." Idan ya mutu tun haihuwa, za su iya ci gaba a cikinsa. Lalle zai saka musu kan da'awarsu. Shi Mai hikima ne, Masani.
+**6:139** Suna cewa, “Abin da ke cikin dabbobin nan na maza ne kawai, an haramta wa matanmu.” Idan ya mutu tun haihuwa, za su iya ci gaba a cikinsa. Lalle zai saka musu kan da'awarsu. Shi Mai hikima ne, Masani.
 
 وَقَالُوا۟ مَا فِى بُطُونِ هَٰذِهِ ٱلْأَنْعَٰمِ خَالِصَةٌۭ لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰٓ أَزْوَٰجِنَا ۖ وَإِن يَكُن مَّيْتَةًۭ فَهُمْ فِيهِ شُرَكَآءُ ۚ سَيَجْزِيهِمْ وَصْفَهُمْ ۚ إِنَّهُۥ حَكِيمٌ عَلِيمٌۭ
 
@@ -3930,15 +3930,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَمِنَ ٱلْأَنْعَٰمِ حَمُولَةًۭ وَفَرْشًۭا ۚ كُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّۭ مُّبِينٌۭ
 
-**6:143** Nau'i takwas: biyu na tumaki, biyu na awaki. Ka ce, "Shin Ya haramta maza biyu, ko mata biyu, ko abin da cikin mata biyu ke ɗauke da shi? Ku ba ni labari da ilimi, idan kun kasance masu gaskiya."
+**6:143** Nau'i takwas: biyu na tumaki, biyu na awaki. Ka ce, “Shin Ya haramta maza biyu, ko mata biyu, ko abin da cikin mata biyu ke ɗauke da shi? Ku ba ni labari da ilimi, idan kun kasance masu gaskiya.”
 
 ثَمَٰنِيَةَ أَزْوَٰجٍۢ ۖ مِّنَ ٱلضَّأْنِ ٱثْنَيْنِ وَمِنَ ٱلْمَعْزِ ٱثْنَيْنِ ۗ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ ۖ نَبِّـُٔونِى بِعِلْمٍ إِن كُنتُمْ صَٰدِقِينَ
 
-**6:144** Da biyu na raƙuma, biyu na shanu. Ka ce, "Shin Ya haramta maza biyu, ko mata biyu, ko abin da cikin mata biyu ke ɗauke da shi? Shin kun kasance a wurin lokacin da Allah Ya umauce ku da wannan?" Wa ya fi zalunci fiye da wanda ya ƙirƙiri ƙarya ya jingina wa Allah, don ya ɓatar da mutane ba tare da ilimi ba? Allah ba Ya shiryar da mutane azzalumai.
+**6:144** Da biyu na raƙuma, biyu na shanu. Ka ce, “Shin Ya haramta maza biyu, ko mata biyu, ko abin da cikin mata biyu ke ɗauke da shi? Shin kun kasance a wurin lokacin da Allah Ya umauce ku da wannan?” Wa ya fi zalunci fiye da wanda ya ƙirƙiri ƙarya ya jingina wa Allah, don ya ɓatar da mutane ba tare da ilimi ba? Allah ba Ya shiryar da mutane azzalumai.
 
 وَمِنَ ٱلْإِبِلِ ٱثْنَيْنِ وَمِنَ ٱلْبَقَرِ ٱثْنَيْنِ ۗ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ ۖ أَمْ كُنتُمْ شُهَدَآءَ إِذْ وَصَّىٰكُمُ ٱللَّهُ بِهَٰذَا ۚ فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا لِّيُضِلَّ ٱلنَّاسَ بِغَيْرِ عِلْمٍ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**6:145** Ka ce, "A abin da aka yi mini wahayi, ban sami komai da aka haramta ga mai ci da zai ci ba, sai mushe, ko jini da aka zubar, ko naman alade — shi najasa ne — ko hadaya ta fasikanci da aka yanka wa wanin Allah. Idan an tilasta wa wani da larura, ba da gangan ba ba da mugunta ba — Ubangijinka Mai gafara ne, Mai jinƙai.
+**6:145** Ka ce, “A abin da aka yi mini wahayi, ban sami komai da aka haramta ga mai ci da zai ci ba, sai mushe, ko jini da aka zubar, ko naman alade — shi najasa ne — ko hadaya ta fasikanci da aka yanka wa wanin Allah. Idan an tilasta wa wani da larura, ba da gangan ba ba da mugunta ba — Ubangijinka Mai gafara ne, Mai jinƙai.
 
 قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍۢ يَطْعَمُهُۥٓ إِلَّآ أَن يَكُونَ مَيْتَةً أَوْ دَمًۭا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍۢ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ ۚ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَإِنَّ رَبَّكَ غَفُورٌۭ رَّحِيمٌۭ
 
@@ -3946,23 +3946,23 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍۢ ۖ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ بِعَظْمٍۢ ۚ ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ ۖ وَإِنَّا لَصَٰدِقُونَ
 
-**6:147** Idan sun zarge ka da ƙarya, ka ce, "Ubangijinku Mai rahama ne mai yawa, fushinSa ba zai kawar daga mutane masu laifi ba."
+**6:147** Idan sun zarge ka da ƙarya, ka ce, “Ubangijinku Mai rahama ne mai yawa, fushinSa ba zai kawar daga mutane masu laifi ba.”
 
 فَإِن كَذَّبُوكَ فَقُل رَّبُّكُمْ ذُو رَحْمَةٍۢ وَٰسِعَةٍۢ وَلَا يُرَدُّ بَأْسُهُۥ عَنِ ٱلْقَوْمِ ٱلْمُجْرِمِينَ
 
-**6:148** Mushrikai za su ce, "Da Allah Ya so, da ba mu yi shirka ba, kakanninmu ma, ba mu haramta komai ba." Haka waɗanda suka gabace su suka yi ƙarya, har suka ɗanɗani ƙarfinMu. Ka ce, "Shin kuna da wani ilimi da za ku iya fitar mana da shi? Ba ku bin komai sai zato, kuna zato ne kawai."
+**6:148** Mushrikai za su ce, “Da Allah Ya so, da ba mu yi shirka ba, kakanninmu ma, ba mu haramta komai ba.” Haka waɗanda suka gabace su suka yi ƙarya, har suka ɗanɗani ƙarfinMu. Ka ce, “Shin kuna da wani ilimi da za ku iya fitar mana da shi? Ba ku bin komai sai zato, kuna zato ne kawai.”
 
 سَيَقُولُ ٱلَّذِينَ أَشْرَكُوا۟ لَوْ شَآءَ ٱللَّهُ مَآ أَشْرَكْنَا وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن شَىْءٍۢ ۚ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ حَتَّىٰ ذَاقُوا۟ بَأْسَنَا ۗ قُلْ هَلْ عِندَكُم مِّنْ عِلْمٍۢ فَتُخْرِجُوهُ لَنَآ ۖ إِن تَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ أَنتُمْ إِلَّا تَخْرُصُونَ
 
-**6:149** Ka ce, "Hujja cikakkiya ta Allah ce. Da Ya so, da Ya shiryar da ku duka."
+**6:149** Ka ce, “Hujja cikakkiya ta Allah ce. Da Ya so, da Ya shiryar da ku duka.”
 
 قُلْ فَلِلَّهِ ٱلْحُجَّةُ ٱلْبَٰلِغَةُ ۖ فَلَوْ شَآءَ لَهَدَىٰكُمْ أَجْمَعِينَ
 
-**6:150** Ka ce, "Ku kawo shaidunku da za su shaida Allah Ya haramta wannan." Idan sun yi shaida, kada ka yi shaida tare da su. Kada ka bi son zuciyar waɗanda suka ƙaryata wahayinMu, da waɗanda ba sa imani da Lahira, da waɗanda ke sanya wa Ubangijinsu abokan tarayya.
+**6:150** Ka ce, “Ku kawo shaidunku da za su shaida Allah Ya haramta wannan.” Idan sun yi shaida, kada ka yi shaida tare da su. Kada ka bi son zuciyar waɗanda suka ƙaryata wahayinMu, da waɗanda ba sa imani da Lahira, da waɗanda ke sanya wa Ubangijinsu abokan tarayya.
 
 قُلْ هَلُمَّ شُهَدَآءَكُمُ ٱلَّذِينَ يَشْهَدُونَ أَنَّ ٱللَّهَ حَرَّمَ هَٰذَا ۖ فَإِن شَهِدُوا۟ فَلَا تَشْهَدْ مَعَهُمْ ۚ وَلَا تَتَّبِعْ أَهْوَآءَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ وَهُم بِرَبِّهِمْ يَعْدِلُونَ
 
-**6:151** Ka ce, "Ku zo, in karanta muku abin da Ubangijinku Ya haramta muku: kada ku haɗa komai da Shi; ku kyautata wa iyaye; kada ku kashe ƴaƴanku saboda talauci — Mu ke azurta ku da su; kada ku kusanci alfasha, ta bayyane da ta ɓoye; kada ku kashe ran da Allah Ya haramta — sai da adalci. Duk wannan Ya umarce ku da shi, don ku fahimta."
+**6:151** Ka ce, “Ku zo, in karanta muku abin da Ubangijinku Ya haramta muku: kada ku haɗa komai da Shi; ku kyautata wa iyaye; kada ku kashe ƴaƴanku saboda talauci — Mu ke azurta ku da su; kada ku kusanci alfasha, ta bayyane da ta ɓoye; kada ku kashe ran da Allah Ya haramta — sai da adalci. Duk wannan Ya umarce ku da shi, don ku fahimta.”
 
 ۞ قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ ۖ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًۭٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًۭا ۖ وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍۢ ۖ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ ۖ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ ۖ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
 
@@ -3982,15 +3982,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَهَٰذَا كِتَٰبٌ أَنزَلْنَٰهُ مُبَارَكٌۭ فَٱتَّبِعُوهُ وَٱتَّقُوا۟ لَعَلَّكُمْ تُرْحَمُونَ
 
-**6:156** Kada ku ce, "An saukar da Littafi ga ƙungiyoyi biyu gabaninmu, ba mu san karatunsu ba."
+**6:156** Kada ku ce, “An saukar da Littafi ga ƙungiyoyi biyu gabaninmu, ba mu san karatunsu ba.”
 
 أَن تَقُولُوٓا۟ إِنَّمَآ أُنزِلَ ٱلْكِتَٰبُ عَلَىٰ طَآئِفَتَيْنِ مِن قَبْلِنَا وَإِن كُنَّا عَن دِرَاسَتِهِمْ لَغَٰفِلِينَ
 
-**6:157** Ko kada ku ce, "Da an saukar mana da Littafi, da mun fi su shiriya." Bayani ya zo muku daga Ubangijinku, da shiriya, da rahama. Wa ya fi zalunci fiye da wanda ya ƙaryata saƙonnin Allah, ya juya barinsu? Za Mu saka wa waɗanda suka juya barin saƙonninMu da azaba mafi muni, saboda juya barin da suka yi.
+**6:157** Ko kada ku ce, “Da an saukar mana da Littafi, da mun fi su shiriya.” Bayani ya zo muku daga Ubangijinku, da shiriya, da rahama. Wa ya fi zalunci fiye da wanda ya ƙaryata saƙonnin Allah, ya juya barinsu? Za Mu saka wa waɗanda suka juya barin saƙonninMu da azaba mafi muni, saboda juya barin da suka yi.
 
 أَوْ تَقُولُوا۟ لَوْ أَنَّآ أُنزِلَ عَلَيْنَا ٱلْكِتَٰبُ لَكُنَّآ أَهْدَىٰ مِنْهُمْ ۚ فَقَدْ جَآءَكُم بَيِّنَةٌۭ مِّن رَّبِّكُمْ وَهُدًۭى وَرَحْمَةٌۭ ۚ فَمَنْ أَظْلَمُ مِمَّن كَذَّبَ بِـَٔايَٰتِ ٱللَّهِ وَصَدَفَ عَنْهَا ۗ سَنَجْزِى ٱلَّذِينَ يَصْدِفُونَ عَنْ ءَايَٰتِنَا سُوٓءَ ٱلْعَذَابِ بِمَا كَانُوا۟ يَصْدِفُونَ
 
-**6:158** Shin suna jira komai sai mala'iku su zo musu, ko Ubangijinka ya zo, ko wasu alamomin Ubangijinka su zo? Ranar da wasu alamomin Ubangijinka suka zo, rai ba zai amfana da imaninsa ba sai idan ya yi imani a baya, ko ya sami alheri ta imaninsa. Ka ce, "Ku yi jira, mu ma muna jira."
+**6:158** Shin suna jira komai sai mala'iku su zo musu, ko Ubangijinka ya zo, ko wasu alamomin Ubangijinka su zo? Ranar da wasu alamomin Ubangijinka suka zo, rai ba zai amfana da imaninsa ba sai idan ya yi imani a baya, ko ya sami alheri ta imaninsa. Ka ce, “Ku yi jira, mu ma muna jira.”
 
 هَلْ يَنظُرُونَ إِلَّآ أَن تَأْتِيَهُمُ ٱلْمَلَٰٓئِكَةُ أَوْ يَأْتِىَ رَبُّكَ أَوْ يَأْتِىَ بَعْضُ ءَايَٰتِ رَبِّكَ ۗ يَوْمَ يَأْتِى بَعْضُ ءَايَٰتِ رَبِّكَ لَا يَنفَعُ نَفْسًا إِيمَٰنُهَا لَمْ تَكُنْ ءَامَنَتْ مِن قَبْلُ أَوْ كَسَبَتْ فِىٓ إِيمَٰنِهَا خَيْرًۭا ۗ قُلِ ٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ
 
@@ -4002,11 +4002,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 مَن جَآءَ بِٱلْحَسَنَةِ فَلَهُۥ عَشْرُ أَمْثَالِهَا ۖ وَمَن جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ
 
-**6:161** Ka ce, "Ubangijina Ya shiryar da ni zuwa hanya madaidaiciya, addini madaidaici, tafarkin Ibrahim mai bautar Allah Ɗaya, bai kasance mushriki ba."
+**6:161** Ka ce, “Ubangijina Ya shiryar da ni zuwa hanya madaidaiciya, addini madaidaici, tafarkin Ibrahim mai bautar Allah Ɗaya, bai kasance mushriki ba.”
 
 قُلْ إِنَّنِى هَدَىٰنِى رَبِّىٓ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ دِينًۭا قِيَمًۭا مِّلَّةَ إِبْرَٰهِيمَ حَنِيفًۭا ۚ وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
 
-**6:162** Ka ce, "Sallata da bautata, da rayuwata da mutuwata, ga Allah ne, Ubangijin talikai.
+**6:162** Ka ce, “Sallata da bautata, da rayuwata da mutuwata, ga Allah ne, Ubangijin talikai.
 
 قُلْ إِنَّ صَلَاتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
@@ -4014,7 +4014,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 لَا شَرِيكَ لَهُۥ ۖ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا۠ أَوَّلُ ٱلْمُسْلِمِينَ
 
-**6:164** Ka ce, "Shin in nemi Ubangiji wanin Allah, alhali Shi ne Ubangijin komai?" Babu rai da zai sami sai abin da ya kyauta masa, babu rai da zai ɗauki nauyin wani. Sai makomarku zuwa Ubangijinku take, Sai Ya ba ku labari kan saɓanin da kuke yi.
+**6:164** Ka ce, “Shin in nemi Ubangiji wanin Allah, alhali Shi ne Ubangijin komai?” Babu rai da zai sami sai abin da ya kyauta masa, babu rai da zai ɗauki nauyin wani. Sai makomarku zuwa Ubangijinku take, Sai Ya ba ku labari kan saɓanin da kuke yi.
 
 قُلْ أَغَيْرَ ٱللَّهِ أَبْغِى رَبًّۭا وَهُوَ رَبُّ كُلِّ شَىْءٍۢ ۚ وَلَا تَكْسِبُ كُلُّ نَفْسٍ إِلَّا عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ۚ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
 
@@ -8508,7 +8508,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَكُلَّ إِنسَٰنٍ أَلْزَمْنَٰهُ طَٰٓئِرَهُۥ فِى عُنُقِهِۦ ۖ وَنُخْرِجُ لَهُۥ يَوْمَ ٱلْقِيَٰمَةِ كِتَٰبًۭا يَلْقَىٰهُ مَنشُورًا
 
-**17:14** "Karanta littafinka; yau kai kaɗai ka isa ka yi wa kanka hisabi."
+**17:14** “Karanta littafinka; yau kai kaɗai ka isa ka yi wa kanka hisabi.”
 
 ٱقْرَأْ كِتَٰبَكَ كَفَىٰ بِنَفْسِكَ ٱلْيَوْمَ عَلَيْكَ حَسِيبًۭا
 
@@ -8548,7 +8548,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ۞ وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا ۚ إِمَّا يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّۢ وَلَا تَنْهَرْهُمَا وَقُل لَّهُمَا قَوْلًۭا كَرِيمًۭا
 
-**17:24** Kuma ka saukar musu da reshen ƙasƙantar da kai, saboda jinƙai, ka ce, "Ubangijina, Ka jiƙan su, kamar yadda suka rene ni sa'ad da nake ƙarami."
+**17:24** Kuma ka saukar musu da reshen ƙasƙantar da kai, saboda jinƙai, ka ce, “Ubangijina, Ka jiƙan su, kamar yadda suka rene ni sa'ad da nake ƙarami.”
 
 وَٱخْفِضْ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحْمَةِ وَقُل رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى صَغِيرًۭا
 
@@ -8620,7 +8620,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَلَقَدْ صَرَّفْنَا فِى هَٰذَا ٱلْقُرْءَانِ لِيَذَّكَّرُوا۟ وَمَا يَزِيدُهُمْ إِلَّا نُفُورًۭا
 
-**17:42** Ka ce, "Da akwai wasu abubuwan bauta tare da Shi, kamar yadda suke cewa, da sun nemi hanya zuwa ga Mai Al'arshi."
+**17:42** Ka ce, “Da akwai wasu abubuwan bauta tare da Shi, kamar yadda suke cewa, da sun nemi hanya zuwa ga Mai Al'arshi.”
 
 قُل لَّوْ كَانَ مَعَهُۥٓ ءَالِهَةٌۭ كَمَا يَقُولُونَ إِذًۭا لَّٱبْتَغَوْا۟ إِلَىٰ ذِى ٱلْعَرْشِ سَبِيلًۭا
 
@@ -8640,7 +8640,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًۭا ۚ وَإِذَا ذَكَرْتَ رَبَّكَ فِى ٱلْقُرْءَانِ وَحْدَهُۥ وَلَّوْا۟ عَلَىٰٓ أَدْبَٰرِهِمْ نُفُورًۭا
 
-**17:47** Mun san abin da suke saurarawa sosai, sa'ad da suke sauraranka, sa'ad da suke haɗa baki, sa'ad da azzalumai suke cewa, "Kuna bin mutum ne kawai wanda aka yi wa sihiri."
+**17:47** Mun san abin da suke saurarawa sosai, sa'ad da suke sauraranka, sa'ad da suke haɗa baki, sa'ad da azzalumai suke cewa, “Kuna bin mutum ne kawai wanda aka yi wa sihiri.”
 
 نَّحْنُ أَعْلَمُ بِمَا يَسْتَمِعُونَ بِهِۦٓ إِذْ يَسْتَمِعُونَ إِلَيْكَ وَإِذْ هُمْ نَجْوَىٰٓ إِذْ يَقُولُ ٱلظَّٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلًۭا مَّسْحُورًا
 
@@ -8648,15 +8648,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ٱنظُرْ كَيْفَ ضَرَبُوا۟ لَكَ ٱلْأَمْثَالَ فَضَلُّوا۟ فَلَا يَسْتَطِيعُونَ سَبِيلًۭا
 
-**17:49** Kuma suka ce, "Sa'ad da muka zama ƙasusuwa da gutsuttsura, shin da gaske za a tashe mu sabon halitta?"
+**17:49** Kuma suka ce, “Sa'ad da muka zama ƙasusuwa da gutsuttsura, shin da gaske za a tashe mu sabon halitta?”
 
 وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَٰمًۭا وَرُفَٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًۭا جَدِيدًۭا
 
-**17:50** Ka ce, "Ko kun zama duwatsu ko ƙarfe.
+**17:50** Ka ce, “Ko kun zama duwatsu ko ƙarfe.
 
 ۞ قُلْ كُونُوا۟ حِجَارَةً أَوْ حَدِيدًا
 
-**17:51** Ko wani abu wanda, a zukatanku, ya fi tauri." Sannan za su ce, "Wanene zai mayar da mu?" Ka ce, "Wanda Ya halicce ku a farko." Sannan za su girgiza kawunansu zuwa gare ka, su ce, "Yaushe zai faru?" Ka ce, "Wataƙila zai kasance kusa."
+**17:51** Ko wani abu wanda, a zukatanku, ya fi tauri.” Sannan za su ce, “Wanene zai mayar da mu?” Ka ce, “Wanda Ya halicce ku a farko.” Sannan za su girgiza kawunansu zuwa gare ka, su ce, “Yaushe zai faru?” Ka ce, “Wataƙila zai kasance kusa.”
 
 أَوْ خَلْقًۭا مِّمَّا يَكْبُرُ فِى صُدُورِكُمْ ۚ فَسَيَقُولُونَ مَن يُعِيدُنَا ۖ قُلِ ٱلَّذِى فَطَرَكُمْ أَوَّلَ مَرَّةٍۢ ۚ فَسَيُنْغِضُونَ إِلَيْكَ رُءُوسَهُمْ وَيَقُولُونَ مَتَىٰ هُوَ ۖ قُلْ عَسَىٰٓ أَن يَكُونَ قَرِيبًۭا
 
@@ -8676,7 +8676,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَرَبُّكَ أَعْلَمُ بِمَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۗ وَلَقَدْ فَضَّلْنَا بَعْضَ ٱلنَّبِيِّۦنَ عَلَىٰ بَعْضٍۢ ۖ وَءَاتَيْنَا دَاوُۥدَ زَبُورًۭا
 
-**17:56** Ka ce, "Ku kira waɗanda kuke riyawa ba Shi ba. Ba su da ikon kawar muku da wahala, kuma ba za su iya canja ta ba."
+**17:56** Ka ce, “Ku kira waɗanda kuke riyawa ba Shi ba. Ba su da ikon kawar muku da wahala, kuma ba za su iya canja ta ba.”
 
 قُلِ ٱدْعُوا۟ ٱلَّذِينَ زَعَمْتُم مِّن دُونِهِۦ فَلَا يَمْلِكُونَ كَشْفَ ٱلضُّرِّ عَنكُمْ وَلَا تَحْوِيلًا
 
@@ -8696,23 +8696,23 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَإِذْ قُلْنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِٱلنَّاسِ ۚ وَمَا جَعَلْنَا ٱلرُّءْيَا ٱلَّتِىٓ أَرَيْنَٰكَ إِلَّا فِتْنَةًۭ لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلْمَلْعُونَةَ فِى ٱلْقُرْءَانِ ۚ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ إِلَّا طُغْيَٰنًۭا كَبِيرًۭا
 
-**17:61** Sa'ad da muka ce wa mala'iku, "Ku yi sujjada ga Adamu," suka yi sujjada, sai Iblis. Ya ce, "Shin in yi sujjada ga wanda Ka halitta daga laka?"
+**17:61** Sa'ad da muka ce wa mala'iku, “Ku yi sujjada ga Adamu,” suka yi sujjada, sai Iblis. Ya ce, “Shin in yi sujjada ga wanda Ka halitta daga laka?”
 
 وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ قَالَ ءَأَسْجُدُ لِمَنْ خَلَقْتَ طِينًۭا
 
-**17:62** Ya ce, "Shin Ka ga wannan wanda Ka girmama fiye da ni? Idan Ka jinkirta mini har Ranar Alƙiyama, zan sanya zuriyarsa a ƙarƙashina, sai kaɗan."
+**17:62** Ya ce, “Shin Ka ga wannan wanda Ka girmama fiye da ni? Idan Ka jinkirta mini har Ranar Alƙiyama, zan sanya zuriyarsa a ƙarƙashina, sai kaɗan.”
 
 قَالَ أَرَءَيْتَكَ هَٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا
 
-**17:63** Ya ce, "Tafi! Wanda ya bi ka daga cikinsu — Jahannama ita ce sakamakonku, cikakken sakamako."
+**17:63** Ya ce, “Tafi! Wanda ya bi ka daga cikinsu — Jahannama ita ce sakamakonku, cikakken sakamako.”
 
 قَالَ ٱذْهَبْ فَمَن تَبِعَكَ مِنْهُمْ فَإِنَّ جَهَنَّمَ جَزَآؤُكُمْ جَزَآءًۭ مَّوْفُورًۭا
 
-**17:64** "Kuma ka ja hankalin wanda ka iya daga cikinsu da muryarka, ka tara a kansu dawaki da masu tafiya a ƙasa, ka haɗa da su a dukiya da ƴa'ƴa, ka yi musu alkawura." Amma Shaiɗan ba ya yi musu alkawari sai ruɗi.
+**17:64** “Kuma ka ja hankalin wanda ka iya daga cikinsu da muryarka, ka tara a kansu dawaki da masu tafiya a ƙasa, ka haɗa da su a dukiya da ƴa'ƴa, ka yi musu alkawura.” Amma Shaiɗan ba ya yi musu alkawari sai ruɗi.
 
 وَٱسْتَفْزِزْ مَنِ ٱسْتَطَعْتَ مِنْهُم بِصَوْتِكَ وَأَجْلِبْ عَلَيْهِم بِخَيْلِكَ وَرَجِلِكَ وَشَارِكْهُمْ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَٰدِ وَعِدْهُمْ ۚ وَمَا يَعِدُهُمُ ٱلشَّيْطَٰنُ إِلَّا غُرُورًا
 
-**17:65** "Amma bayina masu ibada, ba ka da iko a kansu." Ubangijinka Ya isa Mai karewa.
+**17:65** “Amma bayina masu ibada, ba ka da iko a kansu.” Ubangijinka Ya isa Mai karewa.
 
 إِنَّ عِبَادِى لَيْسَ لَكَ عَلَيْهِمْ سُلْطَٰنٌۭ ۚ وَكَفَىٰ بِرَبِّكَ وَكِيلًۭا
 
@@ -8772,11 +8772,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَمِنَ ٱلَّيْلِ فَتَهَجَّدْ بِهِۦ نَافِلَةًۭ لَّكَ عَسَىٰٓ أَن يَبْعَثَكَ رَبُّكَ مَقَامًۭا مَّحْمُودًۭا
 
-**17:80** Kuma ka ce, "Ubangijina, Ka shigar da ni ta ƙofar gaskiya, Ka fitar da ni ta ƙofar gaskiya, Ka ba ni ƙarfi mai taimako daga wurin Ka."
+**17:80** Kuma ka ce, “Ubangijina, Ka shigar da ni ta ƙofar gaskiya, Ka fitar da ni ta ƙofar gaskiya, Ka ba ni ƙarfi mai taimako daga wurin Ka.”
 
 وَقُل رَّبِّ أَدْخِلْنِى مُدْخَلَ صِدْقٍۢ وَأَخْرِجْنِى مُخْرَجَ صِدْقٍۢ وَٱجْعَل لِّى مِن لَّدُنكَ سُلْطَٰنًۭا نَّصِيرًۭا
 
-**17:81** Kuma ka ce, "Gaskiya ta zo, ƙarya ta lalace; domin ƙarya dole ta lalace."
+**17:81** Kuma ka ce, “Gaskiya ta zo, ƙarya ta lalace; domin ƙarya dole ta lalace.”
 
 وَقُلْ جَآءَ ٱلْحَقُّ وَزَهَقَ ٱلْبَٰطِلُ ۚ إِنَّ ٱلْبَٰطِلَ كَانَ زَهُوقًۭا
 
@@ -8788,11 +8788,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَإِذَآ أَنْعَمْنَا عَلَى ٱلْإِنسَٰنِ أَعْرَضَ وَنَـَٔا بِجَانِبِهِۦ ۖ وَإِذَا مَسَّهُ ٱلشَّرُّ كَانَ يَـُٔوسًۭا
 
-**17:84** Ka ce, "Kowa yana aikatawa gwargwadon halinsa. Ubangijinku Ya san wanda ya fi shiryuwa a hanya."
+**17:84** Ka ce, “Kowa yana aikatawa gwargwadon halinsa. Ubangijinku Ya san wanda ya fi shiryuwa a hanya.”
 
 قُلْ كُلٌّۭ يَعْمَلُ عَلَىٰ شَاكِلَتِهِۦ فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَىٰ سَبِيلًۭا
 
-**17:85** Kuma suna tambayarka game da Ruhu. Ka ce, "Ruhu yana cikin al'amarin Ubangijina; kuma an ba ku sani kaɗan ne kawai."
+**17:85** Kuma suna tambayarka game da Ruhu. Ka ce, “Ruhu yana cikin al'amarin Ubangijina; kuma an ba ku sani kaɗan ne kawai.”
 
 وَيَسْـَٔلُونَكَ عَنِ ٱلرُّوحِ ۖ قُلِ ٱلرُّوحُ مِنْ أَمْرِ رَبِّى وَمَآ أُوتِيتُم مِّنَ ٱلْعِلْمِ إِلَّا قَلِيلًۭا
 
@@ -8804,7 +8804,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 إِلَّا رَحْمَةًۭ مِّن رَّبِّكَ ۚ إِنَّ فَضْلَهُۥ كَانَ عَلَيْكَ كَبِيرًۭا
 
-**17:88** Ka ce, "Da mutane da aljanu sun haɗu don su zo da irin wannan Alƙur'ani, ba za su taɓa iya zuwa da irinsa ba, koda sun taimaki juna."
+**17:88** Ka ce, “Da mutane da aljanu sun haɗu don su zo da irin wannan Alƙur'ani, ba za su taɓa iya zuwa da irinsa ba, koda sun taimaki juna.”
 
 قُل لَّئِنِ ٱجْتَمَعَتِ ٱلْإِنسُ وَٱلْجِنُّ عَلَىٰٓ أَن يَأْتُوا۟ بِمِثْلِ هَٰذَا ٱلْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِۦ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍۢ ظَهِيرًۭا
 
@@ -8812,7 +8812,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَلَقَدْ صَرَّفْنَا لِلنَّاسِ فِى هَٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍۢ فَأَبَىٰٓ أَكْثَرُ ٱلنَّاسِ إِلَّا كُفُورًۭا
 
-**17:90** Kuma suka ce, "Ba za mu yi imani da kai ba sai ka ɓullo da maɓuɓɓugar ruwa daga ƙasa gare mu.
+**17:90** Kuma suka ce, “Ba za mu yi imani da kai ba sai ka ɓullo da maɓuɓɓugar ruwa daga ƙasa gare mu.
 
 وَقَالُوا۟ لَن نُّؤْمِنَ لَكَ حَتَّىٰ تَفْجُرَ لَنَا مِنَ ٱلْأَرْضِ يَنۢبُوعًا
 
@@ -8824,19 +8824,19 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 أَوْ تُسْقِطَ ٱلسَّمَآءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا أَوْ تَأْتِىَ بِٱللَّهِ وَٱلْمَلَٰٓئِكَةِ قَبِيلًا
 
-**17:93** Ko ka mallaki gidan zinariya. Ko ka hau zuwa sama. Haka ma, ba za mu yi imani da hauwanka ba, sai ka sauko mana da littafi da za mu iya karantawa." Ka ce, "Tsarki ya tabbata ga Ubangijina. Shin ni wani abu ne sai mutum manzo?"
+**17:93** Ko ka mallaki gidan zinariya. Ko ka hau zuwa sama. Haka ma, ba za mu yi imani da hauwanka ba, sai ka sauko mana da littafi da za mu iya karantawa.” Ka ce, “Tsarki ya tabbata ga Ubangijina. Shin ni wani abu ne sai mutum manzo?”
 
 أَوْ يَكُونَ لَكَ بَيْتٌۭ مِّن زُخْرُفٍ أَوْ تَرْقَىٰ فِى ٱلسَّمَآءِ وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَٰبًۭا نَّقْرَؤُهُۥ ۗ قُلْ سُبْحَانَ رَبِّى هَلْ كُنتُ إِلَّا بَشَرًۭا رَّسُولًۭا
 
-**17:94** Babu abin da ya hana mutane yin imani, sa'ad da shiriya ta zo musu, sai dai sun ce, "Shin Allah Ya aiko mutum manzo?"
+**17:94** Babu abin da ya hana mutane yin imani, sa'ad da shiriya ta zo musu, sai dai sun ce, “Shin Allah Ya aiko mutum manzo?”
 
 وَمَا مَنَعَ ٱلنَّاسَ أَن يُؤْمِنُوٓا۟ إِذْ جَآءَهُمُ ٱلْهُدَىٰٓ إِلَّآ أَن قَالُوٓا۟ أَبَعَثَ ٱللَّهُ بَشَرًۭا رَّسُولًۭا
 
-**17:95** Ka ce, "Da mala'iku suna a ƙasa, suna tafiya cikin kwanciyar hankali, da Mun sauko musu manzo mala'ika daga sama."
+**17:95** Ka ce, “Da mala'iku suna a ƙasa, suna tafiya cikin kwanciyar hankali, da Mun sauko musu manzo mala'ika daga sama.”
 
 قُل لَّوْ كَانَ فِى ٱلْأَرْضِ مَلَٰٓئِكَةٌۭ يَمْشُونَ مُطْمَئِنِّينَ لَنَزَّلْنَا عَلَيْهِم مِّنَ ٱلسَّمَآءِ مَلَكًۭا رَّسُولًۭا
 
-**17:96** Ka ce, "Allah Ya isa shaida tsakaninku da ni. Shi Mai sani ne sosai ga bayinsa, kuma Yana ganinsu sosai."
+**17:96** Ka ce, “Allah Ya isa shaida tsakaninku da ni. Shi Mai sani ne sosai ga bayinsa, kuma Yana ganinsu sosai.”
 
 قُلْ كَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۚ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِيرًۢا بَصِيرًۭا
 
@@ -8844,7 +8844,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَمَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُمْ أَوْلِيَآءَ مِن دُونِهِۦ ۖ وَنَحْشُرُهُمْ يَوْمَ ٱلْقِيَٰمَةِ عَلَىٰ وُجُوهِهِمْ عُمْيًۭا وَبُكْمًۭا وَصُمًّۭا ۖ مَّأْوَىٰهُمْ جَهَنَّمُ ۖ كُلَّمَا خَبَتْ زِدْنَٰهُمْ سَعِيرًۭا
 
-**17:98** Wannan shi ne sakamakonsu saboda sun ƙaryata saƙonnin Mu, sun kuma ce, "Shin sa'ad da muka zama ƙasusuwa da gutsuttsura, za a tashe mu sabon halitta?"
+**17:98** Wannan shi ne sakamakonsu saboda sun ƙaryata saƙonnin Mu, sun kuma ce, “Shin sa'ad da muka zama ƙasusuwa da gutsuttsura, za a tashe mu sabon halitta?”
 
 ذَٰلِكَ جَزَآؤُهُم بِأَنَّهُمْ كَفَرُوا۟ بِـَٔايَٰتِنَا وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَٰمًۭا وَرُفَٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًۭا جَدِيدًا
 
@@ -8852,15 +8852,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ۞ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ قَادِرٌ عَلَىٰٓ أَن يَخْلُقَ مِثْلَهُمْ وَجَعَلَ لَهُمْ أَجَلًۭا لَّا رَيْبَ فِيهِ فَأَبَى ٱلظَّٰلِمُونَ إِلَّا كُفُورًۭا
 
-**17:100** Ka ce, "Da kuna mallakar taskokin jinƙan Ubangijina, da kun riƙe su saboda tsoron kashewa." Mutum ya kasance mai rowa koyaushe.
+**17:100** Ka ce, “Da kuna mallakar taskokin jinƙan Ubangijina, da kun riƙe su saboda tsoron kashewa.” Mutum ya kasance mai rowa koyaushe.
 
 قُل لَّوْ أَنتُمْ تَمْلِكُونَ خَزَآئِنَ رَحْمَةِ رَبِّىٓ إِذًۭا لَّأَمْسَكْتُمْ خَشْيَةَ ٱلْإِنفَاقِ ۚ وَكَانَ ٱلْإِنسَٰنُ قَتُورًۭا
 
-**17:101** Muka ba Musa alamomi tara bayyanannu — ka tambayi Ƴa'ƴan Isra'ila. Sa'ad da ya zo musu, Fir'auna ya ce masa, "Ina ganin kai, Musa, an yi maka sihiri."
+**17:101** Muka ba Musa alamomi tara bayyanannu — ka tambayi Ƴa'ƴan Isra'ila. Sa'ad da ya zo musu, Fir'auna ya ce masa, “Ina ganin kai, Musa, an yi maka sihiri.”
 
 وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَٰتٍۭ بَيِّنَٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَٰمُوسَىٰ مَسْحُورًۭا
 
-**17:102** Ya ce, "Ka san cewa babu wanda ya saukar da waɗannan sai Ubangijin sammai da ƙasa — masu buɗe ido; kuma ina ganin kai, Fir'auna, halakakke ne."
+**17:102** Ya ce, “Ka san cewa babu wanda ya saukar da waɗannan sai Ubangijin sammai da ƙasa — masu buɗe ido; kuma ina ganin kai, Fir'auna, halakakke ne.”
 
 قَالَ لَقَدْ عَلِمْتَ مَآ أَنزَلَ هَٰٓؤُلَآءِ إِلَّا رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ بَصَآئِرَ وَإِنِّى لَأَظُنُّكَ يَٰفِرْعَوْنُ مَثْبُورًۭا
 
@@ -8868,7 +8868,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَأَرَادَ أَن يَسْتَفِزَّهُم مِّنَ ٱلْأَرْضِ فَأَغْرَقْنَٰهُ وَمَن مَّعَهُۥ جَمِيعًۭا
 
-**17:104** Bayan shi, Muka ce wa Ƴa'ƴan Isra'ila, "Ku zauna a ƙasar, kuma sa'ad da alkawarin Lahira ya zo, za Mu kawo ku duka tare."
+**17:104** Bayan shi, Muka ce wa Ƴa'ƴan Isra'ila, “Ku zauna a ƙasar, kuma sa'ad da alkawarin Lahira ya zo, za Mu kawo ku duka tare.”
 
 وَقُلْنَا مِنۢ بَعْدِهِۦ لِبَنِىٓ إِسْرَٰٓءِيلَ ٱسْكُنُوا۟ ٱلْأَرْضَ فَإِذَا جَآءَ وَعْدُ ٱلْءَاخِرَةِ جِئْنَا بِكُمْ لَفِيفًۭا
 
@@ -8880,11 +8880,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَقُرْءَانًۭا فَرَقْنَٰهُ لِتَقْرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكْثٍۢ وَنَزَّلْنَٰهُ تَنزِيلًۭا
 
-**17:107** Ka ce, "Ku yi imani da shi, ko kada ku yi imani." Waɗanda aka ba sani gabaninsa, sa'ad da ake karanta musu shi, suna faɗuwa a haɓoɓinsu, suna sujjada.
+**17:107** Ka ce, “Ku yi imani da shi, ko kada ku yi imani.” Waɗanda aka ba sani gabaninsa, sa'ad da ake karanta musu shi, suna faɗuwa a haɓoɓinsu, suna sujjada.
 
 قُلْ ءَامِنُوا۟ بِهِۦٓ أَوْ لَا تُؤْمِنُوٓا۟ ۚ إِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مِن قَبْلِهِۦٓ إِذَا يُتْلَىٰ عَلَيْهِمْ يَخِرُّونَ لِلْأَذْقَانِ سُجَّدًۭا
 
-**17:108** Kuma suna cewa, "Tsarki ya tabbata ga Ubangijinmu. Alkawarin Ubangijinmu ya cika."
+**17:108** Kuma suna cewa, “Tsarki ya tabbata ga Ubangijinmu. Alkawarin Ubangijinmu ya cika.”
 
 وَيَقُولُونَ سُبْحَٰنَ رَبِّنَآ إِن كَانَ وَعْدُ رَبِّنَا لَمَفْعُولًۭا
 
@@ -8894,11 +8894,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 
 
-**17:110** Ka ce, "Ku kira Shi Allah, ko ku kira Shi Mai jinƙai. Duk sunan da kuka yi amfani da shi, Sunaye Mafi Kyau nasa ne." Kuma kada ka ɗaga murya a sallarka, kada kuma ka yi shiru a cikinta, ka bi hanya a tsakani.
+**17:110** Ka ce, “Ku kira Shi Allah, ko ku kira Shi Mai jinƙai. Duk sunan da kuka yi amfani da shi, Sunaye Mafi Kyau nasa ne.” Kuma kada ka ɗaga murya a sallarka, kada kuma ka yi shiru a cikinta, ka bi hanya a tsakani.
 
 قُلِ ٱدْعُوا۟ ٱللَّهَ أَوِ ٱدْعُوا۟ ٱلرَّحْمَٰنَ ۖ أَيًّۭا مَّا تَدْعُوا۟ فَلَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ ۚ وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَٱبْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًۭا
 
-**17:111** Kuma ka ce, "Godiya ta tabbata ga Allah, Wanda bai haihu ɗa ba, kuma ba shi da abokin tarayya a mulki, kuma ba shi da aboki saboda rauni, kuma ka girma Shi a koyaushe."
+**17:111** Kuma ka ce, “Godiya ta tabbata ga Allah, Wanda bai haihu ɗa ba, kuma ba shi da abokin tarayya a mulki, kuma ba shi da aboki saboda rauni, kuma ka girma Shi a koyaushe.”
 
 وَقُلِ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى لَمْ يَتَّخِذْ وَلَدًۭا وَلَمْ يَكُن لَّهُۥ شَرِيكٌۭ فِى ٱلْمُلْكِ وَلَمْ يَكُن لَّهُۥ وَلِىٌّۭ مِّنَ ٱلذُّلِّ ۖ وَكَبِّرْهُ تَكْبِيرًۢا
 
@@ -8926,7 +8926,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 مَّٰكِثِينَ فِيهِ أَبَدًۭا
 
-**18:4** Kuma don gargaɗin waɗanda suke cewa, "Allah Ya haifi ɗa."
+**18:4** Kuma don gargaɗin waɗanda suke cewa, “Allah Ya haifi ɗa.”
 
 وَيُنذِرَ ٱلَّذِينَ قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًۭا
 
@@ -8950,7 +8950,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 أَمْ حَسِبْتَ أَنَّ أَصْحَٰبَ ٱلْكَهْفِ وَٱلرَّقِيمِ كَانُوا۟ مِنْ ءَايَٰتِنَا عَجَبًا
 
-**18:10** Sa'ad da samarin suka fake a kogo, suka ce, "Ubangijinmu, Ka ba mu jinƙai daga wurin Ka, Ka albarkaci al'amarinmu da shiriya."
+**18:10** Sa'ad da samarin suka fake a kogo, suka ce, “Ubangijinmu, Ka ba mu jinƙai daga wurin Ka, Ka albarkaci al'amarinmu da shiriya.”
 
 إِذْ أَوَى ٱلْفِتْيَةُ إِلَى ٱلْكَهْفِ فَقَالُوا۟ رَبَّنَآ ءَاتِنَا مِن لَّدُنكَ رَحْمَةًۭ وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًۭا
 
@@ -8966,15 +8966,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 نَّحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُم بِٱلْحَقِّ ۚ إِنَّهُمْ فِتْيَةٌ ءَامَنُوا۟ بِرَبِّهِمْ وَزِدْنَٰهُمْ هُدًۭى
 
-**18:14** Kuma Muka ƙarfafa zukatansu, sa'ad da suka tsaya suka ce, "Ubangijinmu shi ne Ubangijin sammai da ƙasa; ba za mu kira wani abin bauta sai Shi ba, domin da mun faɗi abin da ya wuce iyaka."
+**18:14** Kuma Muka ƙarfafa zukatansu, sa'ad da suka tsaya suka ce, “Ubangijinmu shi ne Ubangijin sammai da ƙasa; ba za mu kira wani abin bauta sai Shi ba, domin da mun faɗi abin da ya wuce iyaka.”
 
 وَرَبَطْنَا عَلَىٰ قُلُوبِهِمْ إِذْ قَامُوا۟ فَقَالُوا۟ رَبُّنَا رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَن نَّدْعُوَا۟ مِن دُونِهِۦٓ إِلَٰهًۭا ۖ لَّقَدْ قُلْنَآ إِذًۭا شَطَطًا
 
-**18:15** "Waɗannan mutane, mutanenmu, sun riƙi abubuwan bauta ba Shi ba. Me ya sa ba su zo da hujja bayyananniya game da su ba? Wanene ya fi zalunci daga wanda ya ƙirƙiri ƙarya ya danganta ta ga Allah?"
+**18:15** “Waɗannan mutane, mutanenmu, sun riƙi abubuwan bauta ba Shi ba. Me ya sa ba su zo da hujja bayyananniya game da su ba? Wanene ya fi zalunci daga wanda ya ƙirƙiri ƙarya ya danganta ta ga Allah?”
 
 هَٰٓؤُلَآءِ قَوْمُنَا ٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةًۭ ۖ لَّوْلَا يَأْتُونَ عَلَيْهِم بِسُلْطَٰنٍۭ بَيِّنٍۢ ۖ فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا
 
-**18:16** "Yanzu da kuka rabu da su, da abin da suke bautawa ba Allah ba, ku fake a kogo. Kuma Ubangijinku zai bazu jinƙansa gare ku, zai sa al'amarinku cikin sauƙi."
+**18:16** “Yanzu da kuka rabu da su, da abin da suke bautawa ba Allah ba, ku fake a kogo. Kuma Ubangijinku zai bazu jinƙansa gare ku, zai sa al'amarinku cikin sauƙi.”
 
 وَإِذِ ٱعْتَزَلْتُمُوهُمْ وَمَا يَعْبُدُونَ إِلَّا ٱللَّهَ فَأْوُۥٓا۟ إِلَى ٱلْكَهْفِ يَنشُرْ لَكُمْ رَبُّكُم مِّن رَّحْمَتِهِۦ وَيُهَيِّئْ لَكُم مِّنْ أَمْرِكُم مِّرْفَقًۭا
 
@@ -8986,27 +8986,27 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَتَحْسَبُهُمْ أَيْقَاظًۭا وَهُمْ رُقُودٌۭ ۚ وَنُقَلِّبُهُمْ ذَاتَ ٱلْيَمِينِ وَذَاتَ ٱلشِّمَالِ ۖ وَكَلْبُهُم بَٰسِطٌۭ ذِرَاعَيْهِ بِٱلْوَصِيدِ ۚ لَوِ ٱطَّلَعْتَ عَلَيْهِمْ لَوَلَّيْتَ مِنْهُمْ فِرَارًۭا وَلَمُلِئْتَ مِنْهُمْ رُعْبًۭا
 
-**18:19** Haka ma, Muka tashe su, don su tambayi juna. Wani mai magana daga cikinsu ya ce, "Kwanan nawa kuka yi?" Suka ce, "Mun yi kwana ɗaya, ko ɓangaren kwana." Suka ce, "Ubangijinku Ya fi sani tsawon zamanku." "Ku aiki ɗaya daga cikinku zuwa birni, da wannan kuɗinku, ya duba abincin da ya fi dacewa, ya kawo muku abinci daga gare shi. Kuma ya yi hankali, kada wani ya san ku."
+**18:19** Haka ma, Muka tashe su, don su tambayi juna. Wani mai magana daga cikinsu ya ce, “Kwanan nawa kuka yi?” Suka ce, “Mun yi kwana ɗaya, ko ɓangaren kwana.” Suka ce, “Ubangijinku Ya fi sani tsawon zamanku.” “Ku aiki ɗaya daga cikinku zuwa birni, da wannan kuɗinku, ya duba abincin da ya fi dacewa, ya kawo muku abinci daga gare shi. Kuma ya yi hankali, kada wani ya san ku.”
 
 وَكَذَٰلِكَ بَعَثْنَٰهُمْ لِيَتَسَآءَلُوا۟ بَيْنَهُمْ ۚ قَالَ قَآئِلٌۭ مِّنْهُمْ كَمْ لَبِثْتُمْ ۖ قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍۢ ۚ قَالُوا۟ رَبُّكُمْ أَعْلَمُ بِمَا لَبِثْتُمْ فَٱبْعَثُوٓا۟ أَحَدَكُم بِوَرِقِكُمْ هَٰذِهِۦٓ إِلَى ٱلْمَدِينَةِ فَلْيَنظُرْ أَيُّهَآ أَزْكَىٰ طَعَامًۭا فَلْيَأْتِكُم بِرِزْقٍۢ مِّنْهُ وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا
 
-**18:20** "Idan sun gano ku, za su jefe ku, ko su mayar da ku cikin addininsu; sannan ba za ku taɓa samun ceto ba."
+**18:20** “Idan sun gano ku, za su jefe ku, ko su mayar da ku cikin addininsu; sannan ba za ku taɓa samun ceto ba.”
 
 إِنَّهُمْ إِن يَظْهَرُوا۟ عَلَيْكُمْ يَرْجُمُوكُمْ أَوْ يُعِيدُوكُمْ فِى مِلَّتِهِمْ وَلَن تُفْلِحُوٓا۟ إِذًا أَبَدًۭا
 
-**18:21** Haka ne, Muka sa aka gano su, don su san cewa alkawarin Allah gaskiya ne, kuma Sa'a babu shakka a cikinta. Sa'ad da suke jayayya game da al'amarinsu a tsakaninsu, suka ce, "Ku gina gini a kansu." Ubangijinsu Ya fi saninsu. Waɗanda suka yi nasara a al'amarinsu suka ce, "Za mu kafa wurin bauta a kansu."
+**18:21** Haka ne, Muka sa aka gano su, don su san cewa alkawarin Allah gaskiya ne, kuma Sa'a babu shakka a cikinta. Sa'ad da suke jayayya game da al'amarinsu a tsakaninsu, suka ce, “Ku gina gini a kansu.” Ubangijinsu Ya fi saninsu. Waɗanda suka yi nasara a al'amarinsu suka ce, “Za mu kafa wurin bauta a kansu.”
 
 وَكَذَٰلِكَ أَعْثَرْنَا عَلَيْهِمْ لِيَعْلَمُوٓا۟ أَنَّ وَعْدَ ٱللَّهِ حَقٌّۭ وَأَنَّ ٱلسَّاعَةَ لَا رَيْبَ فِيهَآ إِذْ يَتَنَٰزَعُونَ بَيْنَهُمْ أَمْرَهُمْ ۖ فَقَالُوا۟ ٱبْنُوا۟ عَلَيْهِم بُنْيَٰنًۭا ۖ رَّبُّهُمْ أَعْلَمُ بِهِمْ ۚ قَالَ ٱلَّذِينَ غَلَبُوا۟ عَلَىٰٓ أَمْرِهِمْ لَنَتَّخِذَنَّ عَلَيْهِم مَّسْجِدًۭا
 
-**18:22** Za su ce, "Uku ne, na huɗu karensu." Kuma za su ce, "Biyar ne, na shida karensu," suna hasashen abin da ba a sani ba. Kuma za su ce, "Bakwai ne, na takwas karensu." Ka ce, "Ubangijina Ya fi sanin adadinsu." Babu wanda ya san su sai kaɗan. Don haka kada ka yi jayayya game da su sai da hujja bayyananniya, kada kuma ka tambayi wani daga cikinsu game da su.
+**18:22** Za su ce, “Uku ne, na huɗu karensu.” Kuma za su ce, “Biyar ne, na shida karensu,” suna hasashen abin da ba a sani ba. Kuma za su ce, “Bakwai ne, na takwas karensu.” Ka ce, “Ubangijina Ya fi sanin adadinsu.” Babu wanda ya san su sai kaɗan. Don haka kada ka yi jayayya game da su sai da hujja bayyananniya, kada kuma ka tambayi wani daga cikinsu game da su.
 
 سَيَقُولُونَ ثَلَٰثَةٌۭ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌۭ سَادِسُهُمْ كَلْبُهُمْ رَجْمًۢا بِٱلْغَيْبِ ۖ وَيَقُولُونَ سَبْعَةٌۭ وَثَامِنُهُمْ كَلْبُهُمْ ۚ قُل رَّبِّىٓ أَعْلَمُ بِعِدَّتِهِم مَّا يَعْلَمُهُمْ إِلَّا قَلِيلٌۭ ۗ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَآءًۭ ظَٰهِرًۭا وَلَا تَسْتَفْتِ فِيهِم مِّنْهُمْ أَحَدًۭا
 
-**18:23** Kuma kada ka taɓa cewa game da wani abu, "Zan yi hakan gobe."
+**18:23** Kuma kada ka taɓa cewa game da wani abu, “Zan yi hakan gobe.”
 
 وَلَا تَقُولَنَّ لِشَا۟ىْءٍ إِنِّى فَاعِلٌۭ ذَٰلِكَ غَدًا
 
-**18:24** Sai ka ce, "Idan Allah Ya so." Kuma ka tuna Ubangijinka idan ka manta, ka ce, "Wataƙila Ubangijina zai shiryar da ni zuwa abin da ya fi kusa da wannan a daidai."
+**18:24** Sai ka ce, “Idan Allah Ya so.” Kuma ka tuna Ubangijinka idan ka manta, ka ce, “Wataƙila Ubangijina zai shiryar da ni zuwa abin da ya fi kusa da wannan a daidai.”
 
 إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ وَٱذْكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَىٰٓ أَن يَهْدِيَنِ رَبِّى لِأَقْرَبَ مِنْ هَٰذَا رَشَدًۭا
 
@@ -9014,7 +9014,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا
 
-**18:26** Ka ce, "Allah Ya fi sani tsawon zamansu." Asirin sammai da ƙasa nasa ne. Ta wurinsa kake gani kuma kake ji. Ba su da mai karewa sai Shi, kuma ba Ya haɗa mulkinsa da kowa.
+**18:26** Ka ce, “Allah Ya fi sani tsawon zamansu.” Asirin sammai da ƙasa nasa ne. Ta wurinsa kake gani kuma kake ji. Ba su da mai karewa sai Shi, kuma ba Ya haɗa mulkinsa da kowa.
 
 قُلِ ٱللَّهُ أَعْلَمُ بِمَا لَبِثُوا۟ ۖ لَهُۥ غَيْبُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ أَبْصِرْ بِهِۦ وَأَسْمِعْ ۚ مَا لَهُم مِّن دُونِهِۦ مِن وَلِىٍّۢ وَلَا يُشْرِكُ فِى حُكْمِهِۦٓ أَحَدًۭا
 
@@ -9026,7 +9026,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَٱصْبِرْ نَفْسَكَ مَعَ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُۥ عَن ذِكْرِنَا وَٱتَّبَعَ هَوَىٰهُ وَكَانَ أَمْرُهُۥ فُرُطًۭا
 
-**18:29** Kuma ka ce, "Gaskiya daga Ubangijinku take. Wanda ya so — ya yi imani. Wanda ya so — ya yi kafirci." Mun tanadar wa azzalumai Wuta, wadda labulenta za su kewaye su. Kuma sa'ad da suka nemi taimako, za a taimake su da ruwa kamar narkakkiyar tagulla, wadda ke gasa fuskoki. Abin sha ne mai muni, kuma wuri ne mai muni.
+**18:29** Kuma ka ce, “Gaskiya daga Ubangijinku take. Wanda ya so — ya yi imani. Wanda ya so — ya yi kafirci.” Mun tanadar wa azzalumai Wuta, wadda labulenta za su kewaye su. Kuma sa'ad da suka nemi taimako, za a taimake su da ruwa kamar narkakkiyar tagulla, wadda ke gasa fuskoki. Abin sha ne mai muni, kuma wuri ne mai muni.
 
 وَقُلِ ٱلْحَقُّ مِن رَّبِّكُمْ ۖ فَمَن شَآءَ فَلْيُؤْمِن وَمَن شَآءَ فَلْيَكْفُرْ ۚ إِنَّآ أَعْتَدْنَا لِلظَّٰلِمِينَ نَارًا أَحَاطَ بِهِمْ سُرَادِقُهَا ۚ وَإِن يَسْتَغِيثُوا۟ يُغَاثُوا۟ بِمَآءٍۢ كَٱلْمُهْلِ يَشْوِى ٱلْوُجُوهَ ۚ بِئْسَ ٱلشَّرَابُ وَسَآءَتْ مُرْتَفَقًا
 
@@ -9046,19 +9046,19 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 كِلْتَا ٱلْجَنَّتَيْنِ ءَاتَتْ أُكُلَهَا وَلَمْ تَظْلِم مِّنْهُ شَيْـًۭٔا ۚ وَفَجَّرْنَا خِلَٰلَهُمَا نَهَرًۭا
 
-**18:34** Kuma haka ya sami ƴa'ƴan itace da yawa. Ya ce wa abokinsa, sa'ad da yake zance da shi, "Ni na fi ka dukiya, na fi ka yawan mutane."
+**18:34** Kuma haka ya sami ƴa'ƴan itace da yawa. Ya ce wa abokinsa, sa'ad da yake zance da shi, “Ni na fi ka dukiya, na fi ka yawan mutane.”
 
 وَكَانَ لَهُۥ ثَمَرٌۭ فَقَالَ لِصَٰحِبِهِۦ وَهُوَ يُحَاوِرُهُۥٓ أَنَا۠ أَكْثَرُ مِنكَ مَالًۭا وَأَعَزُّ نَفَرًۭا
 
-**18:35** Kuma ya shiga lambunsa, yana zaluntar kansa. Ya ce, "Ba na zaton wannan zai taɓa lalacewa."
+**18:35** Kuma ya shiga lambunsa, yana zaluntar kansa. Ya ce, “Ba na zaton wannan zai taɓa lalacewa.”
 
 وَدَخَلَ جَنَّتَهُۥ وَهُوَ ظَالِمٌۭ لِّنَفْسِهِۦ قَالَ مَآ أَظُنُّ أَن تَبِيدَ هَٰذِهِۦٓ أَبَدًۭا
 
-**18:36** "Kuma ba na zaton Sa'a za ta zo. Kuma ko an mayar da ni ga Ubangijina, zan sami abin da ya fi wannan a madadi."
+**18:36** “Kuma ba na zaton Sa'a za ta zo. Kuma ko an mayar da ni ga Ubangijina, zan sami abin da ya fi wannan a madadi.”
 
 وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةًۭ وَلَئِن رُّدِدتُّ إِلَىٰ رَبِّى لَأَجِدَنَّ خَيْرًۭا مِّنْهَا مُنقَلَبًۭا
 
-**18:37** Abokinsa ya ce masa, sa'ad da yake zance da shi, "Shin kana kafirtawa Wanda Ya halicce ka daga ƙura, sannan daga ɗigon maniyyi, sannan Ya cika ka ka zama mutum?
+**18:37** Abokinsa ya ce masa, sa'ad da yake zance da shi, “Shin kana kafirtawa Wanda Ya halicce ka daga ƙura, sannan daga ɗigon maniyyi, sannan Ya cika ka ka zama mutum?
 
 قَالَ لَهُۥ صَاحِبُهُۥ وَهُوَ يُحَاوِرُهُۥٓ أَكَفَرْتَ بِٱلَّذِى خَلَقَكَ مِن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ سَوَّىٰكَ رَجُلًۭا
 
@@ -9074,11 +9074,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَعَسَىٰ رَبِّىٓ أَن يُؤْتِيَنِ خَيْرًۭا مِّن جَنَّتِكَ وَيُرْسِلَ عَلَيْهَا حُسْبَانًۭا مِّنَ ٱلسَّمَآءِ فَتُصْبِحَ صَعِيدًۭا زَلَقًا
 
-**18:41** Ko ruwanta ya nitse a ƙasa, ba za ka iya jawo shi ba."
+**18:41** Ko ruwanta ya nitse a ƙasa, ba za ka iya jawo shi ba.”
 
 أَوْ يُصْبِحَ مَآؤُهَا غَوْرًۭا فَلَن تَسْتَطِيعَ لَهُۥ طَلَبًۭا
 
-**18:42** Kuma hallaka ta kewaye amfaninsa, sai ya fara murɗa hannayensa kan abin da ya zuba a cikinsa, alhali ya faɗi a kan ginshiƙansa. Kuma yana cewa, "Da ban taɓa haɗa Ubangijina da kowa ba."
+**18:42** Kuma hallaka ta kewaye amfaninsa, sai ya fara murɗa hannayensa kan abin da ya zuba a cikinsa, alhali ya faɗi a kan ginshiƙansa. Kuma yana cewa, “Da ban taɓa haɗa Ubangijina da kowa ba.”
 
 وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَآ أَنفَقَ فِيهَا وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَيَقُولُ يَٰلَيْتَنِى لَمْ أُشْرِكْ بِرَبِّىٓ أَحَدًۭا
 
@@ -9102,15 +9102,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَيَوْمَ نُسَيِّرُ ٱلْجِبَالَ وَتَرَى ٱلْأَرْضَ بَارِزَةًۭ وَحَشَرْنَٰهُمْ فَلَمْ نُغَادِرْ مِنْهُمْ أَحَدًۭا
 
-**18:48** Za a gabatar da su a gaban Ubangijinka a layi. "Kun zo gare Mu kamar yadda Muka halicce ku a farko. Kodayake kun riya cewa ba za Mu sanya muku taron haduwa ba."
+**18:48** Za a gabatar da su a gaban Ubangijinka a layi. “Kun zo gare Mu kamar yadda Muka halicce ku a farko. Kodayake kun riya cewa ba za Mu sanya muku taron haduwa ba.”
 
 وَعُرِضُوا۟ عَلَىٰ رَبِّكَ صَفًّۭا لَّقَدْ جِئْتُمُونَا كَمَا خَلَقْنَٰكُمْ أَوَّلَ مَرَّةٍۭ ۚ بَلْ زَعَمْتُمْ أَلَّن نَّجْعَلَ لَكُم مَّوْعِدًۭا
 
-**18:49** Kuma za a sanya littafin, za ka ga masu zunubi suna tsoro saboda abin da ke cikinsa. Kuma za su ce, "Kaiconmu! Me ya sa wannan littafi bai bar komai ba, ƙarami ko babba, sai ya lissafa shi?" Za su tarar duk abin da suka aikata a halarce. Ubangijinka ba ya zaluntar kowa.
+**18:49** Kuma za a sanya littafin, za ka ga masu zunubi suna tsoro saboda abin da ke cikinsa. Kuma za su ce, “Kaiconmu! Me ya sa wannan littafi bai bar komai ba, ƙarami ko babba, sai ya lissafa shi?” Za su tarar duk abin da suka aikata a halarce. Ubangijinka ba ya zaluntar kowa.
 
 وَوُضِعَ ٱلْكِتَٰبُ فَتَرَى ٱلْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ وَيَقُولُونَ يَٰوَيْلَتَنَا مَالِ هَٰذَا ٱلْكِتَٰبِ لَا يُغَادِرُ صَغِيرَةًۭ وَلَا كَبِيرَةً إِلَّآ أَحْصَىٰهَا ۚ وَوَجَدُوا۟ مَا عَمِلُوا۟ حَاضِرًۭا ۗ وَلَا يَظْلِمُ رَبُّكَ أَحَدًۭا
 
-**18:50** Muka ce wa mala'iku, "Ku yi sujjada ga Adamu." Sai suka yi sujjada, sai Shaiɗan. Shi daga cikin aljanu ne, kuma ya saba wa umarnin Ubangijinsa. Shin za ku riƙe shi da zuriyarsa shugabanni ba Ni ba, alhali su maƙiya ne gare ku? Musanya ce mai mugunta ga azzalumai.
+**18:50** Muka ce wa mala'iku, “Ku yi sujjada ga Adamu.” Sai suka yi sujjada, sai Shaiɗan. Shi daga cikin aljanu ne, kuma ya saba wa umarnin Ubangijinsa. Shin za ku riƙe shi da zuriyarsa shugabanni ba Ni ba, alhali su maƙiya ne gare ku? Musanya ce mai mugunta ga azzalumai.
 
 وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ كَانَ مِنَ ٱلْجِنِّ فَفَسَقَ عَنْ أَمْرِ رَبِّهِۦٓ ۗ أَفَتَتَّخِذُونَهُۥ وَذُرِّيَّتَهُۥٓ أَوْلِيَآءَ مِن دُونِى وَهُمْ لَكُمْ عَدُوٌّۢ ۚ بِئْسَ لِلظَّٰلِمِينَ بَدَلًۭا
 
@@ -9118,7 +9118,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ۞ مَّآ أَشْهَدتُّهُمْ خَلْقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَا خَلْقَ أَنفُسِهِمْ وَمَا كُنتُ مُتَّخِذَ ٱلْمُضِلِّينَ عَضُدًۭا
 
-**18:52** A ranar da Ya ce, "Ku kira abokan tarayyata waɗanda kuka riyawa." Za su kira su, amma ba za su amsa musu ba. Kuma za Mu sanya shinge a tsakaninsu.
+**18:52** A ranar da Ya ce, “Ku kira abokan tarayyata waɗanda kuka riyawa.” Za su kira su, amma ba za su amsa musu ba. Kuma za Mu sanya shinge a tsakaninsu.
 
 وَيَوْمَ يَقُولُ نَادُوا۟ شُرَكَآءِىَ ٱلَّذِينَ زَعَمْتُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا۟ لَهُمْ وَجَعَلْنَا بَيْنَهُم مَّوْبِقًۭا
 
@@ -9150,7 +9150,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَتِلْكَ ٱلْقُرَىٰٓ أَهْلَكْنَٰهُمْ لَمَّا ظَلَمُوا۟ وَجَعَلْنَا لِمَهْلِكِهِم مَّوْعِدًۭا
 
-**18:60** Kana tuna sa'ad da Musa ya ce wa bawansa, "Ba zan daina ba sai na kai ga haɗuwar koguna biyu, ko da ya ɗauke ni shekaru."
+**18:60** Kana tuna sa'ad da Musa ya ce wa bawansa, “Ba zan daina ba sai na kai ga haɗuwar koguna biyu, ko da ya ɗauke ni shekaru.”
 
 وَإِذْ قَالَ مُوسَىٰ لِفَتَىٰهُ لَآ أَبْرَحُ حَتَّىٰٓ أَبْلُغَ مَجْمَعَ ٱلْبَحْرَيْنِ أَوْ أَمْضِىَ حُقُبًۭا
 
@@ -9158,15 +9158,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَلَمَّا بَلَغَا مَجْمَعَ بَيْنِهِمَا نَسِيَا حُوتَهُمَا فَٱتَّخَذَ سَبِيلَهُۥ فِى ٱلْبَحْرِ سَرَبًۭا
 
-**18:62** Sa'ad da suka ci gaba, ya ce wa bawansa, "Kawo mana abincinmu-mu; mun fuskanci gajiya sosai a tafiyarmu."
+**18:62** Sa'ad da suka ci gaba, ya ce wa bawansa, “Kawo mana abincinmu-mu; mun fuskanci gajiya sosai a tafiyarmu.”
 
 فَلَمَّا جَاوَزَا قَالَ لِفَتَىٰهُ ءَاتِنَا غَدَآءَنَا لَقَدْ لَقِينَا مِن سَفَرِنَا هَٰذَا نَصَبًۭا
 
-**18:63** Ya ce, "Shin ka tuna sa'ad da muka huta a dutsen? Na manta kifin. Shaiɗan ne kawai ya sa na manta shi. Kuma haka ya sami hanyarsa zuwa kogi, abin mamaki."
+**18:63** Ya ce, “Shin ka tuna sa'ad da muka huta a dutsen? Na manta kifin. Shaiɗan ne kawai ya sa na manta shi. Kuma haka ya sami hanyarsa zuwa kogi, abin mamaki.”
 
 قَالَ أَرَءَيْتَ إِذْ أَوَيْنَآ إِلَى ٱلصَّخْرَةِ فَإِنِّى نَسِيتُ ٱلْحُوتَ وَمَآ أَنسَىٰنِيهُ إِلَّا ٱلشَّيْطَٰنُ أَنْ أَذْكُرَهُۥ ۚ وَٱتَّخَذَ سَبِيلَهُۥ فِى ٱلْبَحْرِ عَجَبًۭا
 
-**18:64** Ya ce, "Wannan shi ne abin da muke nema." Sai suka koma suna bin sawunsu.
+**18:64** Ya ce, “Wannan shi ne abin da muke nema.” Sai suka koma suna bin sawunsu.
 
 قَالَ ذَٰلِكَ مَا كُنَّا نَبْغِ ۚ فَٱرْتَدَّا عَلَىٰٓ ءَاثَارِهِمَا قَصَصًۭا
 
@@ -9174,55 +9174,55 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَٰهُ مِن لَّدُنَّا عِلْمًۭا
 
-**18:66** Musa ya ce masa, "Shin zan bi ka, don ka koya mini wasu daga cikin shiriyar da aka koya maka?"
+**18:66** Musa ya ce masa, “Shin zan bi ka, don ka koya mini wasu daga cikin shiriyar da aka koya maka?”
 
 قَالَ لَهُۥ مُوسَىٰ هَلْ أَتَّبِعُكَ عَلَىٰٓ أَن تُعَلِّمَنِ مِمَّا عُلِّمْتَ رُشْدًۭا
 
-**18:67** Ya ce, "Ba za ka iya haƙuri tare da ni ba.
+**18:67** Ya ce, “Ba za ka iya haƙuri tare da ni ba.
 
 قَالَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًۭا
 
-**18:68** Kuma ta yaya za ka haƙura da abin da ba ka da sani a kansa?"
+**18:68** Kuma ta yaya za ka haƙura da abin da ba ka da sani a kansa?”
 
 وَكَيْفَ تَصْبِرُ عَلَىٰ مَا لَمْ تُحِطْ بِهِۦ خُبْرًۭا
 
-**18:69** Ya ce, "Za ka tarar da ni, idan Allah Ya so, mai haƙuri; kuma ba zan saba maka a wani umarninka ba."
+**18:69** Ya ce, “Za ka tarar da ni, idan Allah Ya so, mai haƙuri; kuma ba zan saba maka a wani umarninka ba.”
 
 قَالَ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ صَابِرًۭا وَلَآ أَعْصِى لَكَ أَمْرًۭا
 
-**18:70** Ya ce, "Idan za ka bi ni, kada ka tambaye ni game da komai, har sai ni da kaina na faɗa maka shi."
+**18:70** Ya ce, “Idan za ka bi ni, kada ka tambaye ni game da komai, har sai ni da kaina na faɗa maka shi.”
 
 قَالَ فَإِنِ ٱتَّبَعْتَنِى فَلَا تَسْـَٔلْنِى عَن شَىْءٍ حَتَّىٰٓ أُحْدِثَ لَكَ مِنْهُ ذِكْرًۭا
 
-**18:71** Sai suka tashi. Har sa'ad da suka hau jirgi, ya huda shi. Ya ce, "Shin ka huda shi, don ka nutsar da fasinjojinsa? Ka yi wani abu mai muni."
+**18:71** Sai suka tashi. Har sa'ad da suka hau jirgi, ya huda shi. Ya ce, “Shin ka huda shi, don ka nutsar da fasinjojinsa? Ka yi wani abu mai muni.”
 
 فَٱنطَلَقَا حَتَّىٰٓ إِذَا رَكِبَا فِى ٱلسَّفِينَةِ خَرَقَهَا ۖ قَالَ أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْـًٔا إِمْرًۭا
 
-**18:72** Ya ce, "Shin ban faɗa maka cewa ba za ka iya haƙuri tare da ni ba?"
+**18:72** Ya ce, “Shin ban faɗa maka cewa ba za ka iya haƙuri tare da ni ba?”
 
 قَالَ أَلَمْ أَقُلْ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًۭا
 
-**18:73** Ya ce, "Kada ka kama ni saboda mantuwa, kada ka sa al'amarina ya yi mini wahala."
+**18:73** Ya ce, “Kada ka kama ni saboda mantuwa, kada ka sa al'amarina ya yi mini wahala.”
 
 قَالَ لَا تُؤَاخِذْنِى بِمَا نَسِيتُ وَلَا تُرْهِقْنِى مِنْ أَمْرِى عُسْرًۭا
 
-**18:74** Sannan suka tashi. Har sa'ad da suka gamu da wani yaro, ya kashe shi. Ya ce, "Shin ka kashe rai mai tsarki, wanda bai kashe kowa ba? Ka yi wani abu mai muni sosai."
+**18:74** Sannan suka tashi. Har sa'ad da suka gamu da wani yaro, ya kashe shi. Ya ce, “Shin ka kashe rai mai tsarki, wanda bai kashe kowa ba? Ka yi wani abu mai muni sosai.”
 
 فَٱنطَلَقَا حَتَّىٰٓ إِذَا لَقِيَا غُلَٰمًۭا فَقَتَلَهُۥ قَالَ أَقَتَلْتَ نَفْسًۭا زَكِيَّةًۢ بِغَيْرِ نَفْسٍۢ لَّقَدْ جِئْتَ شَيْـًۭٔا نُّكْرًۭا
 
-**18:75** Ya ce, "Shin ban faɗa maka cewa ba za ka iya haƙuri tare da ni ba?"
+**18:75** Ya ce, “Shin ban faɗa maka cewa ba za ka iya haƙuri tare da ni ba?”
 
 ۞ قَالَ أَلَمْ أَقُل لَّكَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًۭا
 
-**18:76** Ya ce, "Idan na tambaye ka game da wani abu bayan wannan, kada ka riƙe ni aboki. Ka sami uzuri daga gare ni."
+**18:76** Ya ce, “Idan na tambaye ka game da wani abu bayan wannan, kada ka riƙe ni aboki. Ka sami uzuri daga gare ni.”
 
 قَالَ إِن سَأَلْتُكَ عَن شَىْءٍۭ بَعْدَهَا فَلَا تُصَٰحِبْنِى ۖ قَدْ بَلَغْتَ مِن لَّدُنِّى عُذْرًۭا
 
-**18:77** Sai suka tashi. Har sa'ad da suka kai ga mutanen wani gari, suka roƙe su abinci, amma suka ƙi ba su baƙonci. A can suka tarar da bango da ke gab da rushewa, sai ya gyara shi. Ya ce, "Da ka so, da ka sami kuɗin aiki a kansa."
+**18:77** Sai suka tashi. Har sa'ad da suka kai ga mutanen wani gari, suka roƙe su abinci, amma suka ƙi ba su baƙonci. A can suka tarar da bango da ke gab da rushewa, sai ya gyara shi. Ya ce, “Da ka so, da ka sami kuɗin aiki a kansa.”
 
 فَٱنطَلَقَا حَتَّىٰٓ إِذَآ أَتَيَآ أَهْلَ قَرْيَةٍ ٱسْتَطْعَمَآ أَهْلَهَا فَأَبَوْا۟ أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًۭا يُرِيدُ أَن يَنقَضَّ فَأَقَامَهُۥ ۖ قَالَ لَوْ شِئْتَ لَتَّخَذْتَ عَلَيْهِ أَجْرًۭا
 
-**18:78** Ya ce, "Wannan shi ne rabuwa tsakaninka da ni. Zan faɗa maka fassarar abin da ba ka iya haƙuri da shi ba.
+**18:78** Ya ce, “Wannan shi ne rabuwa tsakaninka da ni. Zan faɗa maka fassarar abin da ba ka iya haƙuri da shi ba.
 
 قَالَ هَٰذَا فِرَاقُ بَيْنِى وَبَيْنِكَ ۚ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِع عَّلَيْهِ صَبْرًا
 
@@ -9238,11 +9238,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَأَرَدْنَآ أَن يُبْدِلَهُمَا رَبُّهُمَا خَيْرًۭا مِّنْهُ زَكَوٰةًۭ وَأَقْرَبَ رُحْمًۭا
 
-**18:82** Kuma bango, na marayu biyu ne a garin. A ƙarƙashinsa akwai dukiyar da ta zama tasu. Mahaifinsu mutum ne mai kirki. Ubangijinka Ya so su kai munzali, sannan su fitar da dukiyarsu — a matsayin jinƙai daga Ubangijinka. Ban yi shi da kaina ba. Wannan ita ce fassarar abin da ba ka iya haƙuri da shi ba."
+**18:82** Kuma bango, na marayu biyu ne a garin. A ƙarƙashinsa akwai dukiyar da ta zama tasu. Mahaifinsu mutum ne mai kirki. Ubangijinka Ya so su kai munzali, sannan su fitar da dukiyarsu — a matsayin jinƙai daga Ubangijinka. Ban yi shi da kaina ba. Wannan ita ce fassarar abin da ba ka iya haƙuri da shi ba.”
 
 وَأَمَّا ٱلْجِدَارُ فَكَانَ لِغُلَٰمَيْنِ يَتِيمَيْنِ فِى ٱلْمَدِينَةِ وَكَانَ تَحْتَهُۥ كَنزٌۭ لَّهُمَا وَكَانَ أَبُوهُمَا صَٰلِحًۭا فَأَرَادَ رَبُّكَ أَن يَبْلُغَآ أَشُدَّهُمَا وَيَسْتَخْرِجَا كَنزَهُمَا رَحْمَةًۭ مِّن رَّبِّكَ ۚ وَمَا فَعَلْتُهُۥ عَنْ أَمْرِى ۚ ذَٰلِكَ تَأْوِيلُ مَا لَمْ تَسْطِع عَّلَيْهِ صَبْرًۭا
 
-**18:83** Kuma suna tambayarka game da Zul-Qarnain. Ka ce, "Zan faɗa muku wani abu game da shi."
+**18:83** Kuma suna tambayarka game da Zul-Qarnain. Ka ce, “Zan faɗa muku wani abu game da shi.”
 
 وَيَسْـَٔلُونَكَ عَن ذِى ٱلْقَرْنَيْنِ ۖ قُلْ سَأَتْلُوا۟ عَلَيْكُم مِّنْهُ ذِكْرًا
 
@@ -9254,15 +9254,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَأَتْبَعَ سَبَبًا
 
-**18:86** Har sa'ad da ya kai ga faɗuwar rana, ya tarar tana faɗuwa a cikin maɓuɓɓuga mai duhu, ya tarar da mutane a kusa da ita. Muka ce, "Ya Zul-Qarnain, za ka iya azabtarwa, ko ka kyautata musu."
+**18:86** Har sa'ad da ya kai ga faɗuwar rana, ya tarar tana faɗuwa a cikin maɓuɓɓuga mai duhu, ya tarar da mutane a kusa da ita. Muka ce, “Ya Zul-Qarnain, za ka iya azabtarwa, ko ka kyautata musu.”
 
 حَتَّىٰٓ إِذَا بَلَغَ مَغْرِبَ ٱلشَّمْسِ وَجَدَهَا تَغْرُبُ فِى عَيْنٍ حَمِئَةٍۢ وَوَجَدَ عِندَهَا قَوْمًۭا ۗ قُلْنَا يَٰذَا ٱلْقَرْنَيْنِ إِمَّآ أَن تُعَذِّبَ وَإِمَّآ أَن تَتَّخِذَ فِيهِمْ حُسْنًۭا
 
-**18:87** Ya ce, "Amma wanda ya yi zalunci, za mu azabtar da shi, sannan za a mayar da shi ga Ubangijinsa, Ya azabtar da shi da azaba da ba a taɓa ji ba.
+**18:87** Ya ce, “Amma wanda ya yi zalunci, za mu azabtar da shi, sannan za a mayar da shi ga Ubangijinsa, Ya azabtar da shi da azaba da ba a taɓa ji ba.
 
 قَالَ أَمَّا مَن ظَلَمَ فَسَوْفَ نُعَذِّبُهُۥ ثُمَّ يُرَدُّ إِلَىٰ رَبِّهِۦ فَيُعَذِّبُهُۥ عَذَابًۭا نُّكْرًۭا
 
-**18:88** "Amma wanda ya yi imani ya aikata adalci, zai sami lada mafi kyau, kuma za mu faɗa masa umarnin Mu cikin sauƙi."
+**18:88** “Amma wanda ya yi imani ya aikata adalci, zai sami lada mafi kyau, kuma za mu faɗa masa umarnin Mu cikin sauƙi.”
 
 وَأَمَّا مَنْ ءَامَنَ وَعَمِلَ صَٰلِحًۭا فَلَهُۥ جَزَآءً ٱلْحُسْنَىٰ ۖ وَسَنَقُولُ لَهُۥ مِنْ أَمْرِنَا يُسْرًۭا
 
@@ -9286,15 +9286,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 حَتَّىٰٓ إِذَا بَلَغَ بَيْنَ ٱلسَّدَّيْنِ وَجَدَ مِن دُونِهِمَا قَوْمًۭا لَّا يَكَادُونَ يَفْقَهُونَ قَوْلًۭا
 
-**18:94** Suka ce, "Ya Zul-Qarnain, Ya'juju da Ma'juju suna yin ɓarna a ƙasa. Shin za mu biya ka, don ka gina shinge tsakaninmu da su?"
+**18:94** Suka ce, “Ya Zul-Qarnain, Ya'juju da Ma'juju suna yin ɓarna a ƙasa. Shin za mu biya ka, don ka gina shinge tsakaninmu da su?”
 
 قَالُوا۟ يَٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا
 
-**18:95** Ya ce, "Abin da Ubangijina Ya ba ni iko da shi ya fi kyau. Amma ku taimaka ni da ƙarfi, zan gina madatsar ruwa tsakaninku da su."
+**18:95** Ya ce, “Abin da Ubangijina Ya ba ni iko da shi ya fi kyau. Amma ku taimaka ni da ƙarfi, zan gina madatsar ruwa tsakaninku da su.”
 
 قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا
 
-**18:96** "Ku kawo mini tubalan ƙarfe." Har sa'ad da ya daidaita tsakanin duwatsu biyu, ya ce, "Ku hura." Kuma sa'ad da ya mayar da shi wuta, ya ce, "Ku kawo mini kwalta in zuba a kansa."
+**18:96** “Ku kawo mini tubalan ƙarfe.” Har sa'ad da ya daidaita tsakanin duwatsu biyu, ya ce, “Ku hura.” Kuma sa'ad da ya mayar da shi wuta, ya ce, “Ku kawo mini kwalta in zuba a kansa.”
 
 ءَاتُونِى زُبَرَ ٱلْحَدِيدِ ۖ حَتَّىٰٓ إِذَا سَاوَىٰ بَيْنَ ٱلصَّدَفَيْنِ قَالَ ٱنفُخُوا۟ ۖ حَتَّىٰٓ إِذَا جَعَلَهُۥ نَارًۭا قَالَ ءَاتُونِىٓ أُفْرِغْ عَلَيْهِ قِطْرًۭا
 
@@ -9302,7 +9302,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَمَا ٱسْطَٰعُوٓا۟ أَن يَظْهَرُوهُ وَمَا ٱسْتَطَٰعُوا۟ لَهُۥ نَقْبًۭا
 
-**18:98** Ya ce, "Wannan jinƙai ne daga Ubangijina. Amma sa'ad da alkawarin Ubangijina ya cika, zai mayar da shi ƙura, kuma alkawarin Ubangijina gaskiya ne koyaushe."
+**18:98** Ya ce, “Wannan jinƙai ne daga Ubangijina. Amma sa'ad da alkawarin Ubangijina ya cika, zai mayar da shi ƙura, kuma alkawarin Ubangijina gaskiya ne koyaushe.”
 
 قَالَ هَٰذَا رَحْمَةٌۭ مِّن رَّبِّى ۖ فَإِذَا جَآءَ وَعْدُ رَبِّى جَعَلَهُۥ دَكَّآءَ ۖ وَكَانَ وَعْدُ رَبِّى حَقًّۭا
 
@@ -9322,11 +9322,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 أَفَحَسِبَ ٱلَّذِينَ كَفَرُوٓا۟ أَن يَتَّخِذُوا۟ عِبَادِى مِن دُونِىٓ أَوْلِيَآءَ ۚ إِنَّآ أَعْتَدْنَا جَهَنَّمَ لِلْكَٰفِرِينَ نُزُلًۭا
 
-**18:103** Ka ce, "Shin za Mu gaya muku waɗanda suka fi asara a ayyukansu?"
+**18:103** Ka ce, “Shin za Mu gaya muku waɗanda suka fi asara a ayyukansu?”
 
 قُلْ هَلْ نُنَبِّئُكُم بِٱلْأَخْسَرِينَ أَعْمَٰلًا
 
-**18:104** "Waɗanda ƙoƙarinsu a wannan duniya ya ɓata, alhali suna zaton suna yin alheri."
+**18:104** “Waɗanda ƙoƙarinsu a wannan duniya ya ɓata, alhali suna zaton suna yin alheri.”
 
 ٱلَّذِينَ ضَلَّ سَعْيُهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا
 
@@ -9346,11 +9346,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 خَٰلِدِينَ فِيهَا لَا يَبْغُونَ عَنْهَا حِوَلًۭا
 
-**18:109** Ka ce, "Da teku ta zama tawada ga kalmomin Ubangijina, da teku ta ƙare, kafin kalmomin Ubangijina su ƙare," ko da Mun kawo misalinta a ƙari.
+**18:109** Ka ce, “Da teku ta zama tawada ga kalmomin Ubangijina, da teku ta ƙare, kafin kalmomin Ubangijina su ƙare,” ko da Mun kawo misalinta a ƙari.
 
 قُل لَّوْ كَانَ ٱلْبَحْرُ مِدَادًۭا لِّكَلِمَٰتِ رَبِّى لَنَفِدَ ٱلْبَحْرُ قَبْلَ أَن تَنفَدَ كَلِمَٰتُ رَبِّى وَلَوْ جِئْنَا بِمِثْلِهِۦ مَدَدًۭا
 
-**18:110** Ka ce, "Ni mutum ne kawai kamar ku, ana wahayi mini cewa abin bautanku Allah Ɗaya ne. Wanda yake fatan haduwa da Ubangijinsa, ya aikata adalci, kada ya haɗa kowa da bautar Ubangijinsa."
+**18:110** Ka ce, “Ni mutum ne kawai kamar ku, ana wahayi mini cewa abin bautanku Allah Ɗaya ne. Wanda yake fatan haduwa da Ubangijinsa, ya aikata adalci, kada ya haɗa kowa da bautar Ubangijinsa.”
 
 قُلْ إِنَّمَآ أَنَا۠ بَشَرٌۭ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَٰهُكُمْ إِلَٰهٌۭ وَٰحِدٌۭ ۖ فَمَن كَانَ يَرْجُوا۟ لِقَآءَ رَبِّهِۦ فَلْيَعْمَلْ عَمَلًۭا صَٰلِحًۭا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِۦٓ أَحَدًۢا
 
@@ -9378,31 +9378,31 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 إِذْ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيًّۭا
 
-**19:4** Ya ce, "Ubangijina, ƙasusuwana sun yi rauni, gashina ya yi fari, kuma ban taɓa yin fidda tsammani a addu'ata gare Ka ba, Ubangiji.
+**19:4** Ya ce, “Ubangijina, ƙasusuwana sun yi rauni, gashina ya yi fari, kuma ban taɓa yin fidda tsammani a addu'ata gare Ka ba, Ubangiji.
 
 قَالَ رَبِّ إِنِّى وَهَنَ ٱلْعَظْمُ مِنِّى وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًۭا وَلَمْ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيًّۭا
 
-**19:5** "Kuma ina tsoron waɗanda za su gaje ni bayana, matata kuma bakarariya ce. Don haka Ka ba ni, daga wurin Ka, magaji.
+**19:5** “Kuma ina tsoron waɗanda za su gaje ni bayana, matata kuma bakarariya ce. Don haka Ka ba ni, daga wurin Ka, magaji.
 
 وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا
 
-**19:6** Don ya gaje ni, ya gaji daga Gidan Yakubu, Ka sanya shi, Ubangijina, abin yarda."
+**19:6** Don ya gaje ni, ya gaji daga Gidan Yakubu, Ka sanya shi, Ubangijina, abin yarda.”
 
 يَرِثُنِى وَيَرِثُ مِنْ ءَالِ يَعْقُوبَ ۖ وَٱجْعَلْهُ رَبِّ رَضِيًّۭا
 
-**19:7** "Ya Zakariya, Muna ba ka bushara da ɗa, sunansa Yahaya, suna ne da ba Mu taɓa ba wa kowa gabaninsa ba."
+**19:7** “Ya Zakariya, Muna ba ka bushara da ɗa, sunansa Yahaya, suna ne da ba Mu taɓa ba wa kowa gabaninsa ba.”
 
 يَٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ ٱسْمُهُۥ يَحْيَىٰ لَمْ نَجْعَل لَّهُۥ مِن قَبْلُ سَمِيًّۭا
 
-**19:8** Ya ce, "Ubangijina, ta yaya zan sami ɗa, alhali matata bakarariya ce, na kuma kai ga tsufa sosai?"
+**19:8** Ya ce, “Ubangijina, ta yaya zan sami ɗa, alhali matata bakarariya ce, na kuma kai ga tsufa sosai?”
 
 قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌۭ وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا وَقَدْ بَلَغْتُ مِنَ ٱلْكِبَرِ عِتِيًّۭا
 
-**19:9** Ya ce, "Haka zai kasance, Ubangijinka Ya ce, 'a gare Ni mai sauƙi ne, kuma Na halicce ka a baya, sa'ad da ba ka kasance komai ba.'"
+**19:9** Ya ce, “Haka zai kasance, Ubangijinka Ya ce, 'a gare Ni mai sauƙi ne, kuma Na halicce ka a baya, sa'ad da ba ka kasance komai ba.'”
 
 قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَىَّ هَيِّنٌۭ وَقَدْ خَلَقْتُكَ مِن قَبْلُ وَلَمْ تَكُ شَيْـًۭٔا
 
-**19:10** Ya ce, "Ubangijina, Ka ba ni alama." Ya ce, "Alamar ka ita ce ba za ka yi magana da mutane ba tsawon dare uku a jere."
+**19:10** Ya ce, “Ubangijina, Ka ba ni alama.” Ya ce, “Alamar ka ita ce ba za ka yi magana da mutane ba tsawon dare uku a jere.”
 
 قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةًۭ ۚ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَ لَيَالٍۢ سَوِيًّۭا
 
@@ -9410,7 +9410,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَخَرَجَ عَلَىٰ قَوْمِهِۦ مِنَ ٱلْمِحْرَابِ فَأَوْحَىٰٓ إِلَيْهِمْ أَن سَبِّحُوا۟ بُكْرَةًۭ وَعَشِيًّۭا
 
-**19:12** "Ya Yahaya, ka riƙi Littafi da ƙarfi," kuma Muka ba shi hikima tun yana yaro.
+**19:12** “Ya Yahaya, ka riƙi Littafi da ƙarfi,” kuma Muka ba shi hikima tun yana yaro.
 
 يَٰيَحْيَىٰ خُذِ ٱلْكِتَٰبَ بِقُوَّةٍۢ ۖ وَءَاتَيْنَٰهُ ٱلْحُكْمَ صَبِيًّۭا
 
@@ -9434,19 +9434,19 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَٱتَّخَذَتْ مِن دُونِهِمْ حِجَابًۭا فَأَرْسَلْنَآ إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًۭا سَوِيًّۭا
 
-**19:18** Ta ce, "Ina neman tsari daga gare ka a wurin Mai jinƙai, idan kai mai adalci ne."
+**19:18** Ta ce, “Ina neman tsari daga gare ka a wurin Mai jinƙai, idan kai mai adalci ne.”
 
 قَالَتْ إِنِّىٓ أَعُوذُ بِٱلرَّحْمَٰنِ مِنكَ إِن كُنتَ تَقِيًّۭا
 
-**19:19** Ya ce, "Ni manzon Ubangijinki ne kawai, don in ba ki kyautar ɗa mai tsarki."
+**19:19** Ya ce, “Ni manzon Ubangijinki ne kawai, don in ba ki kyautar ɗa mai tsarki.”
 
 قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَٰمًۭا زَكِيًّۭا
 
-**19:20** Ta ce, "Ta yaya zan sami ɗa, alhali babu mutumin da ya taɓa ni, kuma ban taɓa yin alfasha ba?"
+**19:20** Ta ce, “Ta yaya zan sami ɗa, alhali babu mutumin da ya taɓa ni, kuma ban taɓa yin alfasha ba?”
 
 قَالَتْ أَنَّىٰ يَكُونُ لِى غُلَٰمٌۭ وَلَمْ يَمْسَسْنِى بَشَرٌۭ وَلَمْ أَكُ بَغِيًّۭا
 
-**19:21** Ya ce, "Haka Ubangijinki Ya ce, 'A gare Ni mai sauƙi ne, kuma za Mu sanya shi alama ga mutane, da jinƙai daga wurin Mu. Al'amari ne da aka riga aka hukunta.'"
+**19:21** Ya ce, “Haka Ubangijinki Ya ce, 'A gare Ni mai sauƙi ne, kuma za Mu sanya shi alama ga mutane, da jinƙai daga wurin Mu. Al'amari ne da aka riga aka hukunta.'”
 
 قَالَ كَذَٰلِكِ قَالَ رَبُّكِ هُوَ عَلَىَّ هَيِّنٌۭ ۖ وَلِنَجْعَلَهُۥٓ ءَايَةًۭ لِّلنَّاسِ وَرَحْمَةًۭ مِّنَّا ۚ وَكَانَ أَمْرًۭا مَّقْضِيًّۭا
 
@@ -9454,11 +9454,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا
 
-**19:23** Sai ciwon nakuda ya zo mata, a kututturen itaciyar dabino. Ta ce, "Da na mutu kafin wannan, da na zama abin da aka manta gaba ɗaya."
+**19:23** Sai ciwon nakuda ya zo mata, a kututturen itaciyar dabino. Ta ce, “Da na mutu kafin wannan, da na zama abin da aka manta gaba ɗaya.”
 
 فَأَجَآءَهَا ٱلْمَخَاضُ إِلَىٰ جِذْعِ ٱلنَّخْلَةِ قَالَتْ يَٰلَيْتَنِى مِتُّ قَبْلَ هَٰذَا وَكُنتُ نَسْيًۭا مَّنسِيًّۭا
 
-**19:24** Sai ya kira ta daga ƙarƙashinta: "Kada ki damu; Ubangijinki Ya sanya kogi a ƙarƙashinki.
+**19:24** Sai ya kira ta daga ƙarƙashinta: “Kada ki damu; Ubangijinki Ya sanya kogi a ƙarƙashinki.
 
 فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا
 
@@ -9466,23 +9466,23 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَهُزِّىٓ إِلَيْكِ بِجِذْعِ ٱلنَّخْلَةِ تُسَٰقِطْ عَلَيْكِ رُطَبًۭا جَنِيًّۭا
 
-**19:26** "Ki ci, ki sha, ki natsu. Kuma idan kin ga wani mutum, ki ce, 'Na yi alwashi na azumi ga Mai rahama, don haka ba zan yi magana da wani mutum yau ba.'"
+**19:26** “Ki ci, ki sha, ki natsu. Kuma idan kin ga wani mutum, ki ce, 'Na yi alwashi na azumi ga Mai rahama, don haka ba zan yi magana da wani mutum yau ba.'”
 
 فَكُلِى وَٱشْرَبِى وَقَرِّى عَيْنًۭا ۖ فَإِمَّا تَرَيِنَّ مِنَ ٱلْبَشَرِ أَحَدًۭا فَقُولِىٓ إِنِّى نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًۭا فَلَنْ أُكَلِّمَ ٱلْيَوْمَ إِنسِيًّۭا
 
-**19:27** Sannan ta zo wa mutanenta, tana ɗauke da shi. Suka ce, "Ya Maryam, kin yi wani abu mai muni.
+**19:27** Sannan ta zo wa mutanenta, tana ɗauke da shi. Suka ce, “Ya Maryam, kin yi wani abu mai muni.
 
 فَأَتَتْ بِهِۦ قَوْمَهَا تَحْمِلُهُۥ ۖ قَالُوا۟ يَٰمَرْيَمُ لَقَدْ جِئْتِ شَيْـًۭٔا فَرِيًّۭا
 
-**19:28** Ya ƴar uwar Haruna, mahaifinki bai kasance mugun mutum ba, mahaifiyarki kuma ba ta kasance karuwa ba."
+**19:28** Ya ƴar uwar Haruna, mahaifinki bai kasance mugun mutum ba, mahaifiyarki kuma ba ta kasance karuwa ba.”
 
 يَٰٓأُخْتَ هَٰرُونَ مَا كَانَ أَبُوكِ ٱمْرَأَ سَوْءٍۢ وَمَا كَانَتْ أُمُّكِ بَغِيًّۭا
 
-**19:29** Sai ta nuna shi. Suka ce, "Ta yaya za mu yi magana da jariri a shimfiɗa?"
+**19:29** Sai ta nuna shi. Suka ce, “Ta yaya za mu yi magana da jariri a shimfiɗa?”
 
 فَأَشَارَتْ إِلَيْهِ ۖ قَالُوا۟ كَيْفَ نُكَلِّمُ مَن كَانَ فِى ٱلْمَهْدِ صَبِيًّۭا
 
-**19:30** Ya ce, "Ni bawan Allah ne. Ya ba ni Littafi, Ya sanya ni annabi.
+**19:30** Ya ce, “Ni bawan Allah ne. Ya ba ni Littafi, Ya sanya ni annabi.
 
 قَالَ إِنِّى عَبْدُ ٱللَّهِ ءَاتَىٰنِىَ ٱلْكِتَٰبَ وَجَعَلَنِى نَبِيًّۭا
 
@@ -9494,7 +9494,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَبَرًّۢا بِوَٰلِدَتِى وَلَمْ يَجْعَلْنِى جَبَّارًۭا شَقِيًّۭا
 
-**19:33** Don haka Aminci ya tabbata a gare ni ranar da aka haife ni, da ranar da zan mutu, da Ranar da za a tashe ni da rai."
+**19:33** Don haka Aminci ya tabbata a gare ni ranar da aka haife ni, da ranar da zan mutu, da Ranar da za a tashe ni da rai.”
 
 وَٱلسَّلَٰمُ عَلَىَّ يَوْمَ وُلِدتُّ وَيَوْمَ أَمُوتُ وَيَوْمَ أُبْعَثُ حَيًّۭا
 
@@ -9502,11 +9502,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ذَٰلِكَ عِيسَى ٱبْنُ مَرْيَمَ ۚ قَوْلَ ٱلْحَقِّ ٱلَّذِى فِيهِ يَمْتَرُونَ
 
-**19:35** Bai dace ga Allah Ya sami ɗa ba — tsarki Ya tabbata gare Shi. Don a yi wani abu, Yana ce masa, "Kasance," sai ya kasance.
+**19:35** Bai dace ga Allah Ya sami ɗa ba — tsarki Ya tabbata gare Shi. Don a yi wani abu, Yana ce masa, “Kasance,” sai ya kasance.
 
 مَا كَانَ لِلَّهِ أَن يَتَّخِذَ مِن وَلَدٍۢ ۖ سُبْحَٰنَهُۥٓ ۚ إِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 
-**19:36** "Allah shi ne Ubangijina da Ubangijinku, don haka ku bauta masa. Wannan hanya ce madaidaiciya."
+**19:36** “Allah shi ne Ubangijina da Ubangijinku, don haka ku bauta masa. Wannan hanya ce madaidaiciya.”
 
 وَإِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۚ هَٰذَا صِرَٰطٌۭ مُّسْتَقِيمٌۭ
 
@@ -9530,7 +9530,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَٱذْكُرْ فِى ٱلْكِتَٰبِ إِبْرَٰهِيمَ ۚ إِنَّهُۥ كَانَ صِدِّيقًۭا نَّبِيًّا
 
-**19:42** Ya ce wa mahaifinsa, "Ya mahaifina, me ya sa kake bautar abin da ba ya ji, ba ya gani, ba ya amfanar ka da komai?
+**19:42** Ya ce wa mahaifinsa, “Ya mahaifina, me ya sa kake bautar abin da ba ya ji, ba ya gani, ba ya amfanar ka da komai?
 
 إِذْ قَالَ لِأَبِيهِ يَٰٓأَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِى عَنكَ شَيْـًۭٔا
 
@@ -9542,19 +9542,19 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 يَٰٓأَبَتِ لَا تَعْبُدِ ٱلشَّيْطَٰنَ ۖ إِنَّ ٱلشَّيْطَٰنَ كَانَ لِلرَّحْمَٰنِ عَصِيًّۭا
 
-**19:45** Ya mahaifina, ina tsoron azaba daga Mai rahama za ta same ka, ka zama abokin Shaiɗan."
+**19:45** Ya mahaifina, ina tsoron azaba daga Mai rahama za ta same ka, ka zama abokin Shaiɗan.”
 
 يَٰٓأَبَتِ إِنِّىٓ أَخَافُ أَن يَمَسَّكَ عَذَابٌۭ مِّنَ ٱلرَّحْمَٰنِ فَتَكُونَ لِلشَّيْطَٰنِ وَلِيًّۭا
 
-**19:46** Ya ce, "Shin kana ƙin abubuwan bautata, ya Ibrahim? Idan ba ka daina ba, zan jefe ka. Don haka ka rabu da ni na ɗan lokaci."
+**19:46** Ya ce, “Shin kana ƙin abubuwan bautata, ya Ibrahim? Idan ba ka daina ba, zan jefe ka. Don haka ka rabu da ni na ɗan lokaci.”
 
 قَالَ أَرَاغِبٌ أَنتَ عَنْ ءَالِهَتِى يَٰٓإِبْرَٰهِيمُ ۖ لَئِن لَّمْ تَنتَهِ لَأَرْجُمَنَّكَ ۖ وَٱهْجُرْنِى مَلِيًّۭا
 
-**19:47** Ya ce, "Aminci ya tabbata a gare ka. Zan roƙi Ubangijina Ya gafarta maka; Shi Ya kasance Mai kirki gare ni.
+**19:47** Ya ce, “Aminci ya tabbata a gare ka. Zan roƙi Ubangijina Ya gafarta maka; Shi Ya kasance Mai kirki gare ni.
 
 قَالَ سَلَٰمٌ عَلَيْكَ ۖ سَأَسْتَغْفِرُ لَكَ رَبِّىٓ ۖ إِنَّهُۥ كَانَ بِى حَفِيًّۭا
 
-**19:48** Kuma zan rabu da kai, da abin da kuke roƙa ba Allah ba. Kuma zan roƙi Ubangijina, ina fatan ba zan yi fidda tsammani a addu'ata ga Ubangijina ba."
+**19:48** Kuma zan rabu da kai, da abin da kuke roƙa ba Allah ba. Kuma zan roƙi Ubangijina, ina fatan ba zan yi fidda tsammani a addu'ata ga Ubangijina ba.”
 
 وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِن دُونِ ٱللَّهِ وَأَدْعُوا۟ رَبِّى عَسَىٰٓ أَلَّآ أَكُونَ بِدُعَآءِ رَبِّى شَقِيًّۭا
 
@@ -9620,7 +9620,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 تِلْكَ ٱلْجَنَّةُ ٱلَّتِى نُورِثُ مِنْ عِبَادِنَا مَن كَانَ تَقِيًّۭا
 
-**19:64** "Ba Mu sauka sai da umarnin Ubangijinka. Abin da ke gabanmu nasa ne, da abin da ke bayanmu, da abin da ke tsakaninsu. Ubangijinka ba mai mantuwa ba ne."
+**19:64** “Ba Mu sauka sai da umarnin Ubangijinka. Abin da ke gabanmu nasa ne, da abin da ke bayanmu, da abin da ke tsakaninsu. Ubangijinka ba mai mantuwa ba ne.”
 
 وَمَا نَتَنَزَّلُ إِلَّا بِأَمْرِ رَبِّكَ ۖ لَهُۥ مَا بَيْنَ أَيْدِينَا وَمَا خَلْفَنَا وَمَا بَيْنَ ذَٰلِكَ ۚ وَمَا كَانَ رَبُّكَ نَسِيًّۭا
 
@@ -9628,7 +9628,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا فَٱعْبُدْهُ وَٱصْطَبِرْ لِعِبَٰدَتِهِۦ ۚ هَلْ تَعْلَمُ لَهُۥ سَمِيًّۭا
 
-**19:66** Kuma mutum yana cewa, "Sa'ad da na mutu, shin za a fitar da ni da rai?"
+**19:66** Kuma mutum yana cewa, “Sa'ad da na mutu, shin za a fitar da ni da rai?”
 
 وَيَقُولُ ٱلْإِنسَٰنُ أَءِذَا مَا مِتُّ لَسَوْفَ أُخْرَجُ حَيًّا
 
@@ -9656,7 +9656,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ثُمَّ نُنَجِّى ٱلَّذِينَ ٱتَّقَوا۟ وَّنَذَرُ ٱلظَّٰلِمِينَ فِيهَا جِثِيًّۭا
 
-**19:73** Sa'ad da ake karanta musu saƙonnin Mu bayyanannu, waɗanda suka yi kafirci suna cewa waɗanda suka yi imani, "Wanne daga cikin ɓangarori biyu ya fi kyau a matsayi, kuma ya fi kyau a rinjayi?"
+**19:73** Sa'ad da ake karanta musu saƙonnin Mu bayyanannu, waɗanda suka yi kafirci suna cewa waɗanda suka yi imani, “Wanne daga cikin ɓangarori biyu ya fi kyau a matsayi, kuma ya fi kyau a rinjayi?”
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَىُّ ٱلْفَرِيقَيْنِ خَيْرٌۭ مَّقَامًۭا وَأَحْسَنُ نَدِيًّۭا
 
@@ -9664,7 +9664,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَحْسَنُ أَثَٰثًۭا وَرِءْيًۭا
 
-**19:75** Ka ce, "Wanda yake cikin ɓata, Mai jinƙai zai jagorance shi." Har sa'ad da suka ga abin da aka yi musu alkawari — ko azaba, ko Sa'a. Sannan za su san wanda ya kasance a matsayi mafi muni kuma mafi rauni a ƙarfi.
+**19:75** Ka ce, “Wanda yake cikin ɓata, Mai jinƙai zai jagorance shi.” Har sa'ad da suka ga abin da aka yi musu alkawari — ko azaba, ko Sa'a. Sannan za su san wanda ya kasance a matsayi mafi muni kuma mafi rauni a ƙarfi.
 
 قُلْ مَن كَانَ فِى ٱلضَّلَٰلَةِ فَلْيَمْدُدْ لَهُ ٱلرَّحْمَٰنُ مَدًّا ۚ حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ إِمَّا ٱلْعَذَابَ وَإِمَّا ٱلسَّاعَةَ فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّۭ مَّكَانًۭا وَأَضْعَفُ جُندًۭا
 
@@ -9672,7 +9672,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَيَزِيدُ ٱللَّهُ ٱلَّذِينَ ٱهْتَدَوْا۟ هُدًۭى ۗ وَٱلْبَٰقِيَٰتُ ٱلصَّٰلِحَٰتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًۭا وَخَيْرٌۭ مَّرَدًّا
 
-**19:77** Shin ka ga wanda ya ƙaryata saƙonnin Mu, ya ce, "Za a ba ni dukiya da ƴa'ƴa"?
+**19:77** Shin ka ga wanda ya ƙaryata saƙonnin Mu, ya ce, “Za a ba ni dukiya da ƴa'ƴa”?
 
 أَفَرَءَيْتَ ٱلَّذِى كَفَرَ بِـَٔايَٰتِنَا وَقَالَ لَأُوتَيَنَّ مَالًۭا وَوَلَدًا
 
@@ -9716,7 +9716,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 لَّا يَمْلِكُونَ ٱلشَّفَٰعَةَ إِلَّا مَنِ ٱتَّخَذَ عِندَ ٱلرَّحْمَٰنِ عَهْدًۭا
 
-**19:88** Kuma suna cewa, "Mai jinƙai Ya haifi ɗa."
+**19:88** Kuma suna cewa, “Mai jinƙai Ya haifi ɗa.”
 
 وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًۭا
 
@@ -9808,11 +9808,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَهَلْ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ
 
-**20:10** Sa'ad da ya ga wuta, ya ce wa iyalinsa, "Ku tsaya; na hango wuta; wataƙila zan kawo muku haske daga gare ta, ko in sami shiriya a wutar."
+**20:10** Sa'ad da ya ga wuta, ya ce wa iyalinsa, “Ku tsaya; na hango wuta; wataƙila zan kawo muku haske daga gare ta, ko in sami shiriya a wutar.”
 
 إِذْ رَءَا نَارًۭا فَقَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًۭا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِقَبَسٍ أَوْ أَجِدُ عَلَى ٱلنَّارِ هُدًۭى
 
-**20:11** Sannan, sa'ad da ya kai gare ta, aka kira shi, "Ya Musa.
+**20:11** Sannan, sa'ad da ya kai gare ta, aka kira shi, “Ya Musa.
 
 فَلَمَّآ أَتَىٰهَا نُودِىَ يَٰمُوسَىٰٓ
 
@@ -9836,15 +9836,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَلَا يَصُدَّنَّكَ عَنْهَا مَن لَّا يُؤْمِنُ بِهَا وَٱتَّبَعَ هَوَىٰهُ فَتَرْدَىٰ
 
-**20:17** Kuma menene wannan a hannunka na dama, ya Musa?"
+**20:17** Kuma menene wannan a hannunka na dama, ya Musa?”
 
 وَمَا تِلْكَ بِيَمِينِكَ يَٰمُوسَىٰ
 
-**20:18** Ya ce, "Wannan sandata ce. Ina jingina a kanta, ina kiwon tumakina da ita, kuma ina da wasu amfani da ita."
+**20:18** Ya ce, “Wannan sandata ce. Ina jingina a kanta, ina kiwon tumakina da ita, kuma ina da wasu amfani da ita.”
 
 قَالَ هِىَ عَصَاىَ أَتَوَكَّؤُا۟ عَلَيْهَا وَأَهُشُّ بِهَا عَلَىٰ غَنَمِى وَلِىَ فِيهَا مَـَٔارِبُ أُخْرَىٰ
 
-**20:19** Ya ce, "Ka jefar da ita, ya Musa."
+**20:19** Ya ce, “Ka jefar da ita, ya Musa.”
 
 قَالَ أَلْقِهَا يَٰمُوسَىٰ
 
@@ -9852,7 +9852,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَأَلْقَىٰهَا فَإِذَا هِىَ حَيَّةٌۭ تَسْعَىٰ
 
-**20:21** Ya ce, "Ka riƙe ta, kada ka ji tsoro. Za Mu mayar da ita zuwa halinta na asali.
+**20:21** Ya ce, “Ka riƙe ta, kada ka ji tsoro. Za Mu mayar da ita zuwa halinta na asali.
 
 قَالَ خُذْهَا وَلَا تَخَفْ ۖ سَنُعِيدُهَا سِيرَتَهَا ٱلْأُولَىٰ
 
@@ -9864,11 +9864,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 لِنُرِيَكَ مِنْ ءَايَٰتِنَا ٱلْكُبْرَى
 
-**20:24** Ka tafi zuwa Fir'auna; ya yi girman kai."
+**20:24** Ka tafi zuwa Fir'auna; ya yi girman kai.”
 
 ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ
 
-**20:25** Ya ce, "Ubangijina, Ka sa zuciyata ta natsu a gare ni.
+**20:25** Ya ce, “Ubangijina, Ka sa zuciyata ta natsu a gare ni.
 
 قَالَ رَبِّ ٱشْرَحْ لِى صَدْرِى
 
@@ -9908,11 +9908,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَنَذْكُرَكَ كَثِيرًا
 
-**20:35** Kai kana kallona a koyaushe."
+**20:35** Kai kana kallona a koyaushe.”
 
 إِنَّكَ كُنتَ بِنَا بَصِيرًۭا
 
-**20:36** Ya ce, "An ba ka abin da ka roƙa, ya Musa.
+**20:36** Ya ce, “An ba ka abin da ka roƙa, ya Musa.
 
 قَالَ قَدْ أُوتِيتَ سُؤْلَكَ يَٰمُوسَىٰ
 
@@ -9944,15 +9944,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ٱذْهَبَآ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ
 
-**20:44** Amma ku faɗa masa magana mai kyau. Wataƙila zai tuna, ko ya sami tsoro."
+**20:44** Amma ku faɗa masa magana mai kyau. Wataƙila zai tuna, ko ya sami tsoro.”
 
 فَقُولَا لَهُۥ قَوْلًۭا لَّيِّنًۭا لَّعَلَّهُۥ يَتَذَكَّرُ أَوْ يَخْشَىٰ
 
-**20:45** Suka ce, "Ubangiji, muna tsoron zai zalunce mu, ko ya yi tashin hankali."
+**20:45** Suka ce, “Ubangiji, muna tsoron zai zalunce mu, ko ya yi tashin hankali.”
 
 قَالَا رَبَّنَآ إِنَّنَا نَخَافُ أَن يَفْرُطَ عَلَيْنَآ أَوْ أَن يَطْغَىٰ
 
-**20:46** Ya ce, "Kada ku ji tsoro, Ni Ina tare da ku, Ina ji kuma Ina gani.
+**20:46** Ya ce, “Kada ku ji tsoro, Ni Ina tare da ku, Ina ji kuma Ina gani.
 
 قَالَ لَا تَخَافَآ ۖ إِنَّنِى مَعَكُمَآ أَسْمَعُ وَأَرَىٰ
 
@@ -9960,23 +9960,23 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَأْتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ وَلَا تُعَذِّبْهُمْ ۖ قَدْ جِئْنَٰكَ بِـَٔايَةٍۢ مِّن رَّبِّكَ ۖ وَٱلسَّلَٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلْهُدَىٰٓ
 
-**20:48** An saukar mana cewa azaba za ta faɗa a kan wanda ya yi kafirci ya juya baya.'"
+**20:48** An saukar mana cewa azaba za ta faɗa a kan wanda ya yi kafirci ya juya baya.'”
 
 إِنَّا قَدْ أُوحِىَ إِلَيْنَآ أَنَّ ٱلْعَذَابَ عَلَىٰ مَن كَذَّبَ وَتَوَلَّىٰ
 
-**20:49** Ya ce, "Wanene Ubangijinku, ya Musa."
+**20:49** Ya ce, “Wanene Ubangijinku, ya Musa.”
 
 قَالَ فَمَن رَّبُّكُمَا يَٰمُوسَىٰ
 
-**20:50** Ya ce, "Ubangijinmu Shi ne Wanda Ya ba kowane abu halittarsa, sannan Ya shiryar da shi."
+**20:50** Ya ce, “Ubangijinmu Shi ne Wanda Ya ba kowane abu halittarsa, sannan Ya shiryar da shi.”
 
 قَالَ رَبُّنَا ٱلَّذِىٓ أَعْطَىٰ كُلَّ شَىْءٍ خَلْقَهُۥ ثُمَّ هَدَىٰ
 
-**20:51** Ya ce, "Me game da ƙarni na farko?"
+**20:51** Ya ce, “Me game da ƙarni na farko?”
 
 قَالَ فَمَا بَالُ ٱلْقُرُونِ ٱلْأُولَىٰ
 
-**20:52** Ya ce, "Saninsu yana wurin Ubangijina, a cikin Littafi. Ubangijina ba Ya kuskure, kuma ba Ya mantuwa."
+**20:52** Ya ce, “Saninsu yana wurin Ubangijina, a cikin Littafi. Ubangijina ba Ya kuskure, kuma ba Ya mantuwa.”
 
 قَالَ عِلْمُهَا عِندَ رَبِّى فِى كِتَٰبٍۢ ۖ لَّا يَضِلُّ رَبِّى وَلَا يَنسَى
 
@@ -9996,15 +9996,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَلَقَدْ أَرَيْنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
 
-**20:57** Ya ce, "Shin ka zo mana don ka fitar da mu daga ƙasarmu da sihirinka, ya Musa?
+**20:57** Ya ce, “Shin ka zo mana don ka fitar da mu daga ƙasarmu da sihirinka, ya Musa?
 
 قَالَ أَجِئْتَنَا لِتُخْرِجَنَا مِنْ أَرْضِنَا بِسِحْرِكَ يَٰمُوسَىٰ
 
-**20:58** Za mu zo maka da sihiri irinsa; don haka ka sanya wa'adi tsakaninmu da kai, wanda ba za mu sava ba — mu ba, kai ba — a wuri a tsakiya."
+**20:58** Za mu zo maka da sihiri irinsa; don haka ka sanya wa'adi tsakaninmu da kai, wanda ba za mu sava ba — mu ba, kai ba — a wuri a tsakiya.”
 
 فَلَنَأْتِيَنَّكَ بِسِحْرٍۢ مِّثْلِهِۦ فَٱجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًۭا لَّا نُخْلِفُهُۥ نَحْنُ وَلَآ أَنتَ مَكَانًۭا سُوًۭى
 
-**20:59** Ya ce, "Wa'adinku shi ne ranar biki, don haka a tara mutane a tsakiyar safe."
+**20:59** Ya ce, “Wa'adinku shi ne ranar biki, don haka a tara mutane a tsakiyar safe.”
 
 قَالَ مَوْعِدُكُمْ يَوْمُ ٱلزِّينَةِ وَأَن يُحْشَرَ ٱلنَّاسُ ضُحًۭى
 
@@ -10012,7 +10012,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَتَوَلَّىٰ فِرْعَوْنُ فَجَمَعَ كَيْدَهُۥ ثُمَّ أَتَىٰ
 
-**20:61** Musa ya ce musu, "Kaiconku. Kada ku ƙirƙiri ƙarya ga Allah, ko Ya hallaka ku da azaba. Wanda ya ƙirƙiri ƙarya zai fadi."
+**20:61** Musa ya ce musu, “Kaiconku. Kada ku ƙirƙiri ƙarya ga Allah, ko Ya hallaka ku da azaba. Wanda ya ƙirƙiri ƙarya zai fadi.”
 
 قَالَ لَهُم مُّوسَىٰ وَيْلَكُمْ لَا تَفْتَرُوا۟ عَلَى ٱللَّهِ كَذِبًۭا فَيُسْحِتَكُم بِعَذَابٍۢ ۖ وَقَدْ خَابَ مَنِ ٱفْتَرَىٰ
 
@@ -10020,19 +10020,19 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَتَنَٰزَعُوٓا۟ أَمْرَهُم بَيْنَهُمْ وَأَسَرُّوا۟ ٱلنَّجْوَىٰ
 
-**20:63** Suka ce, "Waɗannan biyu matsafa ne da suke son fitar da ku daga ƙasarku da sihirinsu, su kawar da hanyar rayuwarku abin koyi.
+**20:63** Suka ce, “Waɗannan biyu matsafa ne da suke son fitar da ku daga ƙasarku da sihirinsu, su kawar da hanyar rayuwarku abin koyi.
 
 قَالُوٓا۟ إِنْ هَٰذَٰنِ لَسَٰحِرَٰنِ يُرِيدَانِ أَن يُخْرِجَاكُم مِّنْ أَرْضِكُم بِسِحْرِهِمَا وَيَذْهَبَا بِطَرِيقَتِكُمُ ٱلْمُثْلَىٰ
 
-**20:64** Don haka ku daidaita shirinku, ku zo a matsayin fuska ɗaya. Yau, wanda ya yi nasara zai ci nasara."
+**20:64** Don haka ku daidaita shirinku, ku zo a matsayin fuska ɗaya. Yau, wanda ya yi nasara zai ci nasara.”
 
 فَأَجْمِعُوا۟ كَيْدَكُمْ ثُمَّ ٱئْتُوا۟ صَفًّۭا ۚ وَقَدْ أَفْلَحَ ٱلْيَوْمَ مَنِ ٱسْتَعْلَىٰ
 
-**20:65** Suka ce, "Ya Musa, ko kai ka jefar, ko mu za mu zama na farko jefarwa."
+**20:65** Suka ce, “Ya Musa, ko kai ka jefar, ko mu za mu zama na farko jefarwa.”
 
 قَالُوا۟ يَٰمُوسَىٰٓ إِمَّآ أَن تُلْقِىَ وَإِمَّآ أَن نَّكُونَ أَوَّلَ مَنْ أَلْقَىٰ
 
-**20:66** Ya ce, "Ku jefar." Sai ba zato ba tsammani, igiyoyinsu da sandunansu suka bayyana masa, saboda sihirinsu, suna rarrafe da sauri.
+**20:66** Ya ce, “Ku jefar.” Sai ba zato ba tsammani, igiyoyinsu da sandunansu suka bayyana masa, saboda sihirinsu, suna rarrafe da sauri.
 
 قَالَ بَلْ أَلْقُوا۟ ۖ فَإِذَا حِبَالُهُمْ وَعِصِيُّهُمْ يُخَيَّلُ إِلَيْهِ مِن سِحْرِهِمْ أَنَّهَا تَسْعَىٰ
 
@@ -10040,27 +10040,27 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَأَوْجَسَ فِى نَفْسِهِۦ خِيفَةًۭ مُّوسَىٰ
 
-**20:68** Muka ce, "Kada ka ji tsoro, kai ne mafi girma.
+**20:68** Muka ce, “Kada ka ji tsoro, kai ne mafi girma.
 
 قُلْنَا لَا تَخَفْ إِنَّكَ أَنتَ ٱلْأَعْلَىٰ
 
-**20:69** Yanzu ka jefar da abin da ke hannunka na dama — zai haɗiye abin da suka ƙera. Abin da suka ƙera makircin mai sihiri ne kawai. Amma mai sihiri ba zai ci nasara ba, ko menene ya yi."
+**20:69** Yanzu ka jefar da abin da ke hannunka na dama — zai haɗiye abin da suka ƙera. Abin da suka ƙera makircin mai sihiri ne kawai. Amma mai sihiri ba zai ci nasara ba, ko menene ya yi.”
 
 وَأَلْقِ مَا فِى يَمِينِكَ تَلْقَفْ مَا صَنَعُوٓا۟ ۖ إِنَّمَا صَنَعُوا۟ كَيْدُ سَٰحِرٍۢ ۖ وَلَا يُفْلِحُ ٱلسَّاحِرُ حَيْثُ أَتَىٰ
 
-**20:70** Kuma matsafa suka faɗi suna sujjada. Suka ce, "Mun yi imani da Ubangijin Haruna da Musa."
+**20:70** Kuma matsafa suka faɗi suna sujjada. Suka ce, “Mun yi imani da Ubangijin Haruna da Musa.”
 
 فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَٰرُونَ وَمُوسَىٰ
 
-**20:71** Ya ce, "Shin kun yi imani da shi kafin in ba ku izini? Lalle shi ne shugabanku, wanda ya koya muku sihiri. Zan yanke hannayenku da ƙafafunku a ɓangarori daban-daban, zan giciye ku a kututturen itatuwan dabino. Sannan za ku san wanene daga cikinmu ya fi tsanani a azaba, kuma ya fi dawwama."
+**20:71** Ya ce, “Shin kun yi imani da shi kafin in ba ku izini? Lalle shi ne shugabanku, wanda ya koya muku sihiri. Zan yanke hannayenku da ƙafafunku a ɓangarori daban-daban, zan giciye ku a kututturen itatuwan dabino. Sannan za ku san wanene daga cikinmu ya fi tsanani a azaba, kuma ya fi dawwama.”
 
 قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ ۖ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ ۖ فَلَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍۢ وَلَأُصَلِّبَنَّكُمْ فِى جُذُوعِ ٱلنَّخْلِ وَلَتَعْلَمُنَّ أَيُّنَآ أَشَدُّ عَذَابًۭا وَأَبْقَىٰ
 
-**20:72** Suka ce, "Ba za mu fifita ka ba a kan hujjojin da suka zo mana, da Wanda Ya halicce mu. Don haka ka hukunta duk hukuncin da kake son hukuntawa. Za ka iya mulki ne kawai a cikin wannan rayuwa marar daraja.
+**20:72** Suka ce, “Ba za mu fifita ka ba a kan hujjojin da suka zo mana, da Wanda Ya halicce mu. Don haka ka hukunta duk hukuncin da kake son hukuntawa. Za ka iya mulki ne kawai a cikin wannan rayuwa marar daraja.
 
 قَالُوا۟ لَن نُّؤْثِرَكَ عَلَىٰ مَا جَآءَنَا مِنَ ٱلْبَيِّنَٰتِ وَٱلَّذِى فَطَرَنَا ۖ فَٱقْضِ مَآ أَنتَ قَاضٍ ۖ إِنَّمَا تَقْضِى هَٰذِهِ ٱلْحَيَوٰةَ ٱلدُّنْيَآ
 
-**20:73** Mun yi imani da Ubangijinmu, don Ya gafarta mana zunubanmu, da sihirin da ka tilasta mana mu yi. Allah Ya fi kyau, kuma Ya fi Dawwama."
+**20:73** Mun yi imani da Ubangijinmu, don Ya gafarta mana zunubanmu, da sihirin da ka tilasta mana mu yi. Allah Ya fi kyau, kuma Ya fi Dawwama.”
 
 إِنَّآ ءَامَنَّا بِرَبِّنَا لِيَغْفِرَ لَنَا خَطَٰيَٰنَا وَمَآ أَكْرَهْتَنَا عَلَيْهِ مِنَ ٱلسِّحْرِ ۗ وَٱللَّهُ خَيْرٌۭ وَأَبْقَىٰٓ
 
@@ -10076,7 +10076,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 جَنَّٰتُ عَدْنٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا ۚ وَذَٰلِكَ جَزَآءُ مَن تَزَكَّىٰ
 
-**20:77** Kuma Muka saukar wa Musa: "Ka yi tafiya da dare da bayina, ka buga musu hanya mai bushewa a teku, ba tare da tsoron a same ka ba, ko damuwa."
+**20:77** Kuma Muka saukar wa Musa: “Ka yi tafiya da dare da bayina, ka buga musu hanya mai bushewa a teku, ba tare da tsoron a same ka ba, ko damuwa.”
 
 وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَٰفُ دَرَكًۭا وَلَا تَخْشَىٰ
 
@@ -10100,27 +10100,27 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَإِنِّى لَغَفَّارٌۭ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحًۭا ثُمَّ ٱهْتَدَىٰ
 
-**20:83** "Kuma menene ya sa ka yi gaggawa gaban mutanenka, ya Musa?"
+**20:83** “Kuma menene ya sa ka yi gaggawa gaban mutanenka, ya Musa?”
 
 ۞ وَمَآ أَعْجَلَكَ عَن قَوْمِكَ يَٰمُوسَىٰ
 
-**20:84** Ya ce, "Suna bin sawuna; kuma na yi gaggawa zuwa gare Ka, Ubangijina, don Ka yarda."
+**20:84** Ya ce, “Suna bin sawuna; kuma na yi gaggawa zuwa gare Ka, Ubangijina, don Ka yarda.”
 
 قَالَ هُمْ أُو۟لَآءِ عَلَىٰٓ أَثَرِى وَعَجِلْتُ إِلَيْكَ رَبِّ لِتَرْضَىٰ
 
-**20:85** Ya ce, "Mun jarraba mutanenka a bayanka, kuma ɗan Samariya ya ɓatar da su."
+**20:85** Ya ce, “Mun jarraba mutanenka a bayanka, kuma ɗan Samariya ya ɓatar da su.”
 
 قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ
 
-**20:86** Sai Musa ya koma ga mutanensa, cikin fushi da baƙin ciki. Ya ce, "Ya mutanena, shin Ubangijinku bai yi muku alkawari mai kyau ba? Shin lokaci ya yi muku tsayi? Ko kuna son fushi daga Ubangijinku ya sauka a kanku, sai kuka sava alkawarina?"
+**20:86** Sai Musa ya koma ga mutanensa, cikin fushi da baƙin ciki. Ya ce, “Ya mutanena, shin Ubangijinku bai yi muku alkawari mai kyau ba? Shin lokaci ya yi muku tsayi? Ko kuna son fushi daga Ubangijinku ya sauka a kanku, sai kuka sava alkawarina?”
 
 فَرَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًۭا ۚ قَالَ يَٰقَوْمِ أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْدًا حَسَنًا ۚ أَفَطَالَ عَلَيْكُمُ ٱلْعَهْدُ أَمْ أَرَدتُّمْ أَن يَحِلَّ عَلَيْكُمْ غَضَبٌۭ مِّن رَّبِّكُمْ فَأَخْلَفْتُم مَّوْعِدِى
 
-**20:87** Suka ce, "Ba mu sava alkawarinka da zaɓinmu ba, amma an sa mu ɗauki kayan adon mutane, muka jefar da su. Haka ɗan Samariya ya ba da shawara."
+**20:87** Suka ce, “Ba mu sava alkawarinka da zaɓinmu ba, amma an sa mu ɗauki kayan adon mutane, muka jefar da su. Haka ɗan Samariya ya ba da shawara.”
 
 قَالُوا۟ مَآ أَخْلَفْنَا مَوْعِدَكَ بِمَلْكِنَا وَلَٰكِنَّا حُمِّلْنَآ أَوْزَارًۭا مِّن زِينَةِ ٱلْقَوْمِ فَقَذَفْنَٰهَا فَكَذَٰلِكَ أَلْقَى ٱلسَّامِرِىُّ
 
-**20:88** Sai ya fitar musu da maraƙi — jiki ne kawai da yake ruri. Kuma suka ce, "Wannan shi ne abin bautanku, da abin bautan Musa, amma ya manta."
+**20:88** Sai ya fitar musu da maraƙi — jiki ne kawai da yake ruri. Kuma suka ce, “Wannan shi ne abin bautanku, da abin bautan Musa, amma ya manta.”
 
 فَأَخْرَجَ لَهُمْ عِجْلًۭا جَسَدًۭا لَّهُۥ خُوَارٌۭ فَقَالُوا۟ هَٰذَآ إِلَٰهُكُمْ وَإِلَٰهُ مُوسَىٰ فَنَسِىَ
 
@@ -10128,35 +10128,35 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًۭا وَلَا يَمْلِكُ لَهُمْ ضَرًّۭا وَلَا نَفْعًۭا
 
-**20:90** Haruna ya faɗa musu a baya, "Ya mutanena, ana jarraba ku da wannan. Kuma Ubangijinku shi ne Mai jinƙai, don haka ku bi ni, ku bi umarnina."
+**20:90** Haruna ya faɗa musu a baya, “Ya mutanena, ana jarraba ku da wannan. Kuma Ubangijinku shi ne Mai jinƙai, don haka ku bi ni, ku bi umarnina.”
 
 وَلَقَدْ قَالَ لَهُمْ هَٰرُونُ مِن قَبْلُ يَٰقَوْمِ إِنَّمَا فُتِنتُم بِهِۦ ۖ وَإِنَّ رَبَّكُمُ ٱلرَّحْمَٰنُ فَٱتَّبِعُونِى وَأَطِيعُوٓا۟ أَمْرِى
 
-**20:91** Suka ce, "Ba za mu daina bauta masa ba, har sai Musa ya dawo gare mu."
+**20:91** Suka ce, “Ba za mu daina bauta masa ba, har sai Musa ya dawo gare mu.”
 
 قَالُوا۟ لَن نَّبْرَحَ عَلَيْهِ عَٰكِفِينَ حَتَّىٰ يَرْجِعَ إِلَيْنَا مُوسَىٰ
 
-**20:92** Ya ce, "Ya Haruna, menene ya hana ka, sa'ad da ka ga suna ɓatawa.
+**20:92** Ya ce, “Ya Haruna, menene ya hana ka, sa'ad da ka ga suna ɓatawa.
 
 قَالَ يَٰهَٰرُونُ مَا مَنَعَكَ إِذْ رَأَيْتَهُمْ ضَلُّوٓا۟
 
-**20:93** Daga bini? Shin ka saba wa umarnina?"
+**20:93** Daga bini? Shin ka saba wa umarnina?”
 
 أَلَّا تَتَّبِعَنِ ۖ أَفَعَصَيْتَ أَمْرِى
 
-**20:94** Ya ce, "Ɗan mahaifiyata, kada ka riƙe ni da gemuna ko kaina. Na ji tsoron za ka ce, `Ka haifar da rarrabuwa a cikin Ƴa'ƴan Isra'ila, kuma ba ka kiyaye maganata ba.'"
+**20:94** Ya ce, “Ɗan mahaifiyata, kada ka riƙe ni da gemuna ko kaina. Na ji tsoron za ka ce, `Ka haifar da rarrabuwa a cikin Ƴa'ƴan Isra'ila, kuma ba ka kiyaye maganata ba.'”
 
 قَالَ يَبْنَؤُمَّ لَا تَأْخُذْ بِلِحْيَتِى وَلَا بِرَأْسِىٓ ۖ إِنِّى خَشِيتُ أَن تَقُولَ فَرَّقْتَ بَيْنَ بَنِىٓ إِسْرَٰٓءِيلَ وَلَمْ تَرْقُبْ قَوْلِى
 
-**20:95** Ya ce, "Me kake da shi, ya ɗan Samariya?"
+**20:95** Ya ce, “Me kake da shi, ya ɗan Samariya?”
 
 قَالَ فَمَا خَطْبُكَ يَٰسَٰمِرِىُّ
 
-**20:96** Ya ce, "Na ga abin da ba su gani ba, sai na ɗauki damtse daga sawun Manzo, na jefar da shi. Haka raina ya motsa ni."
+**20:96** Ya ce, “Na ga abin da ba su gani ba, sai na ɗauki damtse daga sawun Manzo, na jefar da shi. Haka raina ya motsa ni.”
 
 قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُوا۟ بِهِۦ فَقَبَضْتُ قَبْضَةًۭ مِّنْ أَثَرِ ٱلرَّسُولِ فَنَبَذْتُهَا وَكَذَٰلِكَ سَوَّلَتْ لِى نَفْسِى
 
-**20:97** Ya ce, "Tafi! Rabonka a wannan rayuwa shi ne ka ce, 'Babu taɓawa.' Kuma kana da wa'adi da ba za ka fasa ba. Yanzu ka kalli abin bautanka da ka ci gaba da bauta masa — za mu ƙone shi, sannan mu hura shi zuwa teku, a matsayin ƙura."
+**20:97** Ya ce, “Tafi! Rabonka a wannan rayuwa shi ne ka ce, 'Babu taɓawa.' Kuma kana da wa'adi da ba za ka fasa ba. Yanzu ka kalli abin bautanka da ka ci gaba da bauta masa — za mu ƙone shi, sannan mu hura shi zuwa teku, a matsayin ƙura.”
 
 قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا
 
@@ -10180,15 +10180,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 يَوْمَ يُنفَخُ فِى ٱلصُّورِ ۚ وَنَحْشُرُ ٱلْمُجْرِمِينَ يَوْمَئِذٍۢ زُرْقًۭا
 
-**20:103** Suna rada a tsakaninsu: "Kun zauna goma kawai."
+**20:103** Suna rada a tsakaninsu: “Kun zauna goma kawai.”
 
 يَتَخَٰفَتُونَ بَيْنَهُمْ إِن لَّبِثْتُمْ إِلَّا عَشْرًۭا
 
-**20:104** Mun san abin da suke cewa sosai, sa'ad da mafi kyau daga cikinsu a aiki zai ce, "Kun zauna kwana ɗaya kawai."
+**20:104** Mun san abin da suke cewa sosai, sa'ad da mafi kyau daga cikinsu a aiki zai ce, “Kun zauna kwana ɗaya kawai.”
 
 نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ إِذْ يَقُولُ أَمْثَلُهُمْ طَرِيقَةً إِن لَّبِثْتُمْ إِلَّا يَوْمًۭا
 
-**20:105** Kuma suna tambayarka game da tsaunuka. Ka ce, "Ubangijina zai rushe su gaba ɗaya."
+**20:105** Kuma suna tambayarka game da tsaunuka. Ka ce, “Ubangijina zai rushe su gaba ɗaya.”
 
 وَيَسْـَٔلُونَكَ عَنِ ٱلْجِبَالِ فَقُلْ يَنسِفُهَا رَبِّى نَسْفًۭا
 
@@ -10196,7 +10196,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَيَذَرُهَا قَاعًۭا صَفْصَفًۭا
 
-**20:107** Ba za ka ga karkata ba a cikinsu, kuma ba bambanci ba."
+**20:107** Ba za ka ga karkata ba a cikinsu, kuma ba bambanci ba.”
 
 لَّا تَرَىٰ فِيهَا عِوَجًۭا وَلَآ أَمْتًۭا
 
@@ -10224,7 +10224,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَكَذَٰلِكَ أَنزَلْنَٰهُ قُرْءَانًا عَرَبِيًّۭا وَصَرَّفْنَا فِيهِ مِنَ ٱلْوَعِيدِ لَعَلَّهُمْ يَتَّقُونَ أَوْ يُحْدِثُ لَهُمْ ذِكْرًۭا
 
-**20:114** Allah Ya ɗaukaka, Sarki na Gaskiya. Kada ka yi gaggawa da Alƙur'ani kafin wahayinsa gare ka ya ƙare, ka ce, "Ubangijina, Ka ƙara mini sani."
+**20:114** Allah Ya ɗaukaka, Sarki na Gaskiya. Kada ka yi gaggawa da Alƙur'ani kafin wahayinsa gare ka ya ƙare, ka ce, “Ubangijina, Ka ƙara mini sani.”
 
 فَتَعَٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۗ وَلَا تَعْجَلْ بِٱلْقُرْءَانِ مِن قَبْلِ أَن يُقْضَىٰٓ إِلَيْكَ وَحْيُهُۥ ۖ وَقُل رَّبِّ زِدْنِى عِلْمًۭا
 
@@ -10232,11 +10232,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَلَقَدْ عَهِدْنَآ إِلَىٰٓ ءَادَمَ مِن قَبْلُ فَنَسِىَ وَلَمْ نَجِدْ لَهُۥ عَزْمًۭا
 
-**20:116** Kuma sa'ad da muka ce wa mala'iku, "Ku yi sujjada ga Adamu." Suka yi sujjada, sai Shaiɗan; ya ƙi.
+**20:116** Kuma sa'ad da muka ce wa mala'iku, “Ku yi sujjada ga Adamu.” Suka yi sujjada, sai Shaiɗan; ya ƙi.
 
 وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ
 
-**20:117** Muka ce, "Ya Adamu, wannan maƙiyi ne gare ka da matarka. Don haka kada ya sa ka bar Lambun, domin za ka sha wahala.
+**20:117** Muka ce, “Ya Adamu, wannan maƙiyi ne gare ka da matarka. Don haka kada ya sa ka bar Lambun, domin za ka sha wahala.
 
 فَقُلْنَا يَٰٓـَٔادَمُ إِنَّ هَٰذَا عَدُوٌّۭ لَّكَ وَلِزَوْجِكَ فَلَا يُخْرِجَنَّكُمَا مِنَ ٱلْجَنَّةِ فَتَشْقَىٰٓ
 
@@ -10244,11 +10244,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعْرَىٰ
 
-**20:119** Kuma ba za ka ji ƙishirwa a cikinsa ba, kuma ba za ka ji zafi ba."
+**20:119** Kuma ba za ka ji ƙishirwa a cikinsa ba, kuma ba za ka ji zafi ba.”
 
 وَأَنَّكَ لَا تَظْمَؤُا۟ فِيهَا وَلَا تَضْحَىٰ
 
-**20:120** Amma Shaiɗan ya yi masa waswasi. Ya ce, "Ya Adamu, shin in nuna maka Itaciyar Dawwama, da mulki da ba ya lalacewa?"
+**20:120** Amma Shaiɗan ya yi masa waswasi. Ya ce, “Ya Adamu, shin in nuna maka Itaciyar Dawwama, da mulki da ba ya lalacewa?”
 
 فَوَسْوَسَ إِلَيْهِ ٱلشَّيْطَٰنُ قَالَ يَٰٓـَٔادَمُ هَلْ أَدُلُّكَ عَلَىٰ شَجَرَةِ ٱلْخُلْدِ وَمُلْكٍۢ لَّا يَبْلَىٰ
 
@@ -10260,19 +10260,19 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ثُمَّ ٱجْتَبَٰهُ رَبُّهُۥ فَتَابَ عَلَيْهِ وَهَدَىٰ
 
-**20:123** Ya ce, "Ku sauka daga gare ta, gaba ɗaya; wasunku maƙiyan wasu ne. Amma duk sa'ad da shiriya ta zo muku daga wurina, wanda ya bi shiriyata, ba zai ɓata ba, kuma ba zai sha wahala ba.
+**20:123** Ya ce, “Ku sauka daga gare ta, gaba ɗaya; wasunku maƙiyan wasu ne. Amma duk sa'ad da shiriya ta zo muku daga wurina, wanda ya bi shiriyata, ba zai ɓata ba, kuma ba zai sha wahala ba.
 
 قَالَ ٱهْبِطَا مِنْهَا جَمِيعًۢا ۖ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّۭ ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًۭى فَمَنِ ٱتَّبَعَ هُدَاىَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ
 
-**20:124** Amma wanda ya juya daga tunatarwata, zai sami rayuwa mai takura. Kuma za Mu tashe shi a Ranar Alƙiyama makaho."
+**20:124** Amma wanda ya juya daga tunatarwata, zai sami rayuwa mai takura. Kuma za Mu tashe shi a Ranar Alƙiyama makaho.”
 
 وَمَنْ أَعْرَضَ عَن ذِكْرِى فَإِنَّ لَهُۥ مَعِيشَةًۭ ضَنكًۭا وَنَحْشُرُهُۥ يَوْمَ ٱلْقِيَٰمَةِ أَعْمَىٰ
 
-**20:125** Zai ce, "Ubangijina, me ya sa Ka tashe ni makaho, alhali ina gani?"
+**20:125** Zai ce, “Ubangijina, me ya sa Ka tashe ni makaho, alhali ina gani?”
 
 قَالَ رَبِّ لِمَ حَشَرْتَنِىٓ أَعْمَىٰ وَقَدْ كُنتُ بَصِيرًۭا
 
-**20:126** Zai ce, "Kamar yadda saƙonnin Mu suka zo maka, ka manta su, yau za a manta ka."
+**20:126** Zai ce, “Kamar yadda saƙonnin Mu suka zo maka, ka manta su, yau za a manta ka.”
 
 قَالَ كَذَٰلِكَ أَتَتْكَ ءَايَٰتُنَا فَنَسِيتَهَا ۖ وَكَذَٰلِكَ ٱلْيَوْمَ تُنسَىٰ
 
@@ -10300,15 +10300,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَأْمُرْ أَهْلَكَ بِٱلصَّلَوٰةِ وَٱصْطَبِرْ عَلَيْهَا ۖ لَا نَسْـَٔلُكَ رِزْقًۭا ۖ نَّحْنُ نَرْزُقُكَ ۗ وَٱلْعَٰقِبَةُ لِلتَّقْوَىٰ
 
-**20:133** Kuma suna cewa, "Me ya sa ba ya kawo mana mu'ujiza daga Ubangijinsa?" Shin ba a ba su mu'ujizozin da suka isa ba a cikin littafan baya?
+**20:133** Kuma suna cewa, “Me ya sa ba ya kawo mana mu'ujiza daga Ubangijinsa?” Shin ba a ba su mu'ujizozin da suka isa ba a cikin littafan baya?
 
 وَقَالُوا۟ لَوْلَا يَأْتِينَا بِـَٔايَةٍۢ مِّن رَّبِّهِۦٓ ۚ أَوَلَمْ تَأْتِهِم بَيِّنَةُ مَا فِى ٱلصُّحُفِ ٱلْأُولَىٰ
 
-**20:134** Da Mun hallaka su da azaba gabaninsa, da sun ce, "Ubangijinmu, da Ka aiko mana manzo, da mun bi saƙonninka kafin a wulakanta mu a kunyata mu."
+**20:134** Da Mun hallaka su da azaba gabaninsa, da sun ce, “Ubangijinmu, da Ka aiko mana manzo, da mun bi saƙonninka kafin a wulakanta mu a kunyata mu.”
 
 وَلَوْ أَنَّآ أَهْلَكْنَٰهُم بِعَذَابٍۢ مِّن قَبْلِهِۦ لَقَالُوا۟ رَبَّنَا لَوْلَآ أَرْسَلْتَ إِلَيْنَا رَسُولًۭا فَنَتَّبِعَ ءَايَٰتِكَ مِن قَبْلِ أَن نَّذِلَّ وَنَخْزَىٰ
 
-**20:135** Ka ce, "Kowa yana jira, don haka ku jira. Za ku san su wane ne mutanen hanya madaidaiciya, kuma wanene shiryayye."
+**20:135** Ka ce, “Kowa yana jira, don haka ku jira. Za ku san su wane ne mutanen hanya madaidaiciya, kuma wanene shiryayye.”
 
 قُلْ كُلٌّۭ مُّتَرَبِّصٌۭ فَتَرَبَّصُوا۟ ۖ فَسَتَعْلَمُونَ مَنْ أَصْحَٰبُ ٱلصِّرَٰطِ ٱلسَّوِىِّ وَمَنِ ٱهْتَدَىٰ
 
@@ -10332,15 +10332,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 مَا يَأْتِيهِم مِّن ذِكْرٍۢ مِّن رَّبِّهِم مُّحْدَثٍ إِلَّا ٱسْتَمَعُوهُ وَهُمْ يَلْعَبُونَ
 
-**21:3** Zukatansu sun shagaltu, masu zalunci suna ganawa a ɓoye: «Wannan ba kome ba ne sai mutum kamar ku. Za ku karɓi sihiri idanunku a buɗe?»
+**21:3** Zukatansu sun shagaltu, masu zalunci suna ganawa a ɓoye: “Wannan ba kome ba ne sai mutum kamar ku. Za ku karɓi sihiri idanunku a buɗe?”
 
 لَاهِيَةًۭ قُلُوبُهُمْ ۗ وَأَسَرُّوا۟ ٱلنَّجْوَى ٱلَّذِينَ ظَلَمُوا۟ هَلْ هَٰذَآ إِلَّا بَشَرٌۭ مِّثْلُكُمْ ۖ أَفَتَأْتُونَ ٱلسِّحْرَ وَأَنتُمْ تُبْصِرُونَ
 
-**21:4** Ya ce: «Ubangijina ya san abin da ake faɗa a sama da ƙasa, kuma Shi ne Mai ji, Mai sani.»
+**21:4** Ya ce: “Ubangijina ya san abin da ake faɗa a sama da ƙasa, kuma Shi ne Mai ji, Mai sani.”
 
 قَالَ رَبِّى يَعْلَمُ ٱلْقَوْلَ فِى ٱلسَّمَآءِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
-**21:5** Suka ce: «Gudun mafarkai ne,» da: «Ya ƙirƙira shi ne,» da: «Mawaƙi ne,» «ya kawo mana alama kamar waɗanda aka aiko wa mutanen farko.»
+**21:5** Suka ce: “Gudun mafarkai ne,” da: “Ya ƙirƙira shi ne,” da: “Mawaƙi ne,” “ya kawo mana alama kamar waɗanda aka aiko wa mutanen farko.”
 
 بَلْ قَالُوٓا۟ أَضْغَٰثُ أَحْلَٰمٍۭ بَلِ ٱفْتَرَىٰهُ بَلْ هُوَ شَاعِرٌۭ فَلْيَأْتِنَا بِـَٔايَةٍۢ كَمَآ أُرْسِلَ ٱلْأَوَّلُونَ
 
@@ -10376,7 +10376,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 لَا تَرْكُضُوا۟ وَٱرْجِعُوٓا۟ إِلَىٰ مَآ أُتْرِفْتُمْ فِيهِ وَمَسَٰكِنِكُمْ لَعَلَّكُمْ تُسْـَٔلُونَ
 
-**21:14** Suka ce: «Bone ya tabbata gare mu, mun kasance masu zalunci.»
+**21:14** Suka ce: “Bone ya tabbata gare mu, mun kasance masu zalunci.”
 
 قَالُوا۟ يَٰوَيْلَنَآ إِنَّا كُنَّا ظَٰلِمِينَ
 
@@ -10416,15 +10416,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ
 
-**21:24** Ko sun ɗauki waɗansu gumaka banda Shi? Ka ce: «Ku kawo hujjarku. Wannan saƙo ne ga waɗanda suke tare da ni, saƙon waɗanda suka gabace ni ne.» Amma mafi yawansu ba su san gaskiya ba, sai suke juya baya.
+**21:24** Ko sun ɗauki waɗansu gumaka banda Shi? Ka ce: “Ku kawo hujjarku. Wannan saƙo ne ga waɗanda suke tare da ni, saƙon waɗanda suka gabace ni ne.” Amma mafi yawansu ba su san gaskiya ba, sai suke juya baya.
 
 أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةًۭ ۖ قُلْ هَاتُوا۟ بُرْهَٰنَكُمْ ۖ هَٰذَا ذِكْرُ مَن مَّعِىَ وَذِكْرُ مَن قَبْلِى ۗ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ ٱلْحَقَّ ۖ فَهُم مُّعْرِضُونَ
 
-**21:25** Bamu aiko wani Manzo kafin kai ba sai Mun yi masa wahayi cewa: «Babu wani abin bauta sai Ni, sai ku bauta Mini.»
+**21:25** Bamu aiko wani Manzo kafin kai ba sai Mun yi masa wahayi cewa: “Babu wani abin bauta sai Ni, sai ku bauta Mini.”
 
 وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِىٓ إِلَيْهِ أَنَّهُۥ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعْبُدُونِ
 
-**21:26** Suka ce: «Mai rahama ya ɗauki ɗa gare Shi.» Tsarki ya tabbata gare Shi; su bayi ne masu daraja.
+**21:26** Suka ce: “Mai rahama ya ɗauki ɗa gare Shi.” Tsarki ya tabbata gare Shi; su bayi ne masu daraja.
 
 وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًۭا ۗ سُبْحَٰنَهُۥ ۚ بَلْ عِبَادٌۭ مُّكْرَمُونَ
 
@@ -10436,7 +10436,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ٱرْتَضَىٰ وَهُم مِّنْ خَشْيَتِهِۦ مُشْفِقُونَ
 
-**21:29** Wanda daga cikinsu ya ce: «Ni abin bauta ne banda Shi,» Za Mu saka masa da Jahannama. Haka Muke saka wa masu zalunci.
+**21:29** Wanda daga cikinsu ya ce: “Ni abin bauta ne banda Shi,” Za Mu saka masa da Jahannama. Haka Muke saka wa masu zalunci.
 
 ۞ وَمَن يَقُلْ مِنْهُمْ إِنِّىٓ إِلَٰهٌۭ مِّن دُونِهِۦ فَذَٰلِكَ نَجْزِيهِ جَهَنَّمَ ۚ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ
 
@@ -10464,7 +10464,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 كُلُّ نَفْسٍۢ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةًۭ ۖ وَإِلَيْنَا تُرْجَعُونَ
 
-**21:36** Lokacin da kafirai suka gan ka, suna ɗaukarka da izgili kaɗai: «Wannan ne wanda yake ambaton gumakanku?» Kuma suna ƙin ambaton Mai jinƙai.
+**21:36** Lokacin da kafirai suka gan ka, suna ɗaukarka da izgili kaɗai: “Wannan ne wanda yake ambaton gumakanku?” Kuma suna ƙin ambaton Mai jinƙai.
 
 وَإِذَا رَءَاكَ ٱلَّذِينَ كَفَرُوٓا۟ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِى يَذْكُرُ ءَالِهَتَكُمْ وَهُم بِذِكْرِ ٱلرَّحْمَٰنِ هُمْ كَٰفِرُونَ
 
@@ -10472,7 +10472,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 خُلِقَ ٱلْإِنسَٰنُ مِنْ عَجَلٍۢ ۚ سَأُو۟رِيكُمْ ءَايَٰتِى فَلَا تَسْتَعْجِلُونِ
 
-**21:38** Suna cewa: «Yaushe wannan alkawari zai tabbata, idan ku masu gaskiya ne?»
+**21:38** Suna cewa: “Yaushe wannan alkawari zai tabbata, idan ku masu gaskiya ne?”
 
 وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -10488,7 +10488,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍۢ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**21:42** Ka ce: «Wa yake tsare ku daga Mai jinƙai da dare da rana?» Amma suna juya baya daga ambaton Ubangijinsu.
+**21:42** Ka ce: “Wa yake tsare ku daga Mai jinƙai da dare da rana?” Amma suna juya baya daga ambaton Ubangijinsu.
 
 قُلْ مَن يَكْلَؤُكُم بِٱلَّيْلِ وَٱلنَّهَارِ مِنَ ٱلرَّحْمَٰنِ ۗ بَلْ هُمْ عَن ذِكْرِ رَبِّهِم مُّعْرِضُونَ
 
@@ -10500,11 +10500,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 بَلْ مَتَّعْنَا هَٰٓؤُلَآءِ وَءَابَآءَهُمْ حَتَّىٰ طَالَ عَلَيْهِمُ ٱلْعُمُرُ ۗ أَفَلَا يَرَوْنَ أَنَّا نَأْتِى ٱلْأَرْضَ نَنقُصُهَا مِنْ أَطْرَافِهَآ ۚ أَفَهُمُ ٱلْغَٰلِبُونَ
 
-**21:45** Ka ce: «Ina gargaɗin ku ta wahayi ne.» Amma kurame ba sa jin kira lokacin da ake gargaɗin su.
+**21:45** Ka ce: “Ina gargaɗin ku ta wahayi ne.” Amma kurame ba sa jin kira lokacin da ake gargaɗin su.
 
 قُلْ إِنَّمَآ أُنذِرُكُم بِٱلْوَحْىِ ۚ وَلَا يَسْمَعُ ٱلصُّمُّ ٱلدُّعَآءَ إِذَا مَا يُنذَرُونَ
 
-**21:46** Idan numfashin azabar Ubangijinka ya taɓa su, suna cewa: «Bone ya tabbata gare mu, lalle mun kasance masu zalunci.»
+**21:46** Idan numfashin azabar Ubangijinka ya taɓa su, suna cewa: “Bone ya tabbata gare mu, lalle mun kasance masu zalunci.”
 
 وَلَئِن مَّسَّتْهُمْ نَفْحَةٌۭ مِّنْ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَٰوَيْلَنَآ إِنَّا كُنَّا ظَٰلِمِينَ
 
@@ -10528,27 +10528,27 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ۞ وَلَقَدْ ءَاتَيْنَآ إِبْرَٰهِيمَ رُشْدَهُۥ مِن قَبْلُ وَكُنَّا بِهِۦ عَٰلِمِينَ
 
-**21:52** Lokacin da ya ce wa babansa da mutanensa: «Menene waɗannan gumakan da kuke bautawa?»
+**21:52** Lokacin da ya ce wa babansa da mutanensa: “Menene waɗannan gumakan da kuke bautawa?”
 
 إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِىٓ أَنتُمْ لَهَا عَٰكِفُونَ
 
-**21:53** Suka ce: «Mun tarar da iyayenmu suna bautar su.»
+**21:53** Suka ce: “Mun tarar da iyayenmu suna bautar su.”
 
 قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ
 
-**21:54** Ya ce: «Lalle ku da iyayenku kuna cikin ɓata bayyananne.»
+**21:54** Ya ce: “Lalle ku da iyayenku kuna cikin ɓata bayyananne.”
 
 قَالَ لَقَدْ كُنتُمْ أَنتُمْ وَءَابَآؤُكُمْ فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
-**21:55** Suka ce: «Gaskiya kake faɗa mana, ko wasa kake yi?»
+**21:55** Suka ce: “Gaskiya kake faɗa mana, ko wasa kake yi?”
 
 قَالُوٓا۟ أَجِئْتَنَا بِٱلْحَقِّ أَمْ أَنتَ مِنَ ٱللَّٰعِبِينَ
 
-**21:56** Ya ce: «Ubangijinku shi ne Ubangijin sammai da ƙasa, wanda Ya halicce su, kuma ina shaida haka.
+**21:56** Ya ce: “Ubangijinku shi ne Ubangijin sammai da ƙasa, wanda Ya halicce su, kuma ina shaida haka.
 
 قَالَ بَل رَّبُّكُمْ رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ٱلَّذِى فَطَرَهُنَّ وَأَنَا۠ عَلَىٰ ذَٰلِكُم مِّنَ ٱلشَّٰهِدِينَ
 
-**21:57** «Na rantse da Allah, zan yi wa gumakanku shiri bayan kun tafi.»
+**21:57** “Na rantse da Allah, zan yi wa gumakanku shiri bayan kun tafi.”
 
 وَتَٱللَّهِ لَأَكِيدَنَّ أَصْنَٰمَكُم بَعْدَ أَن تُوَلُّوا۟ مُدْبِرِينَ
 
@@ -10556,47 +10556,47 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَجَعَلَهُمْ جُذَٰذًا إِلَّا كَبِيرًۭا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ
 
-**21:59** Suka ce: «Wa ya yi wannan ga gumakanmu? Lalle yana cikin masu zalunci.»
+**21:59** Suka ce: “Wa ya yi wannan ga gumakanmu? Lalle yana cikin masu zalunci.”
 
 قَالُوا۟ مَن فَعَلَ هَٰذَا بِـَٔالِهَتِنَآ إِنَّهُۥ لَمِنَ ٱلظَّٰلِمِينَ
 
-**21:60** Suka ce: «Mun ji wani saurayi yana ambaton su. Ana kiransa Ibrahim.»
+**21:60** Suka ce: “Mun ji wani saurayi yana ambaton su. Ana kiransa Ibrahim.”
 
 قَالُوا۟ سَمِعْنَا فَتًۭى يَذْكُرُهُمْ يُقَالُ لَهُۥٓ إِبْرَٰهِيمُ
 
-**21:61** Suka ce: «Ku kawo shi gaban idon mutane domin su shaida.»
+**21:61** Suka ce: “Ku kawo shi gaban idon mutane domin su shaida.”
 
 قَالُوا۟ فَأْتُوا۟ بِهِۦ عَلَىٰٓ أَعْيُنِ ٱلنَّاسِ لَعَلَّهُمْ يَشْهَدُونَ
 
-**21:62** Suka ce: «Kai ne ka yi wannan ga gumakanmu, ya Ibrahim?»
+**21:62** Suka ce: “Kai ne ka yi wannan ga gumakanmu, ya Ibrahim?”
 
 قَالُوٓا۟ ءَأَنتَ فَعَلْتَ هَٰذَا بِـَٔالِهَتِنَا يَٰٓإِبْرَٰهِيمُ
 
-**21:63** Ya ce: «Hasali ma, wannan babban su ne ya yi shi. Ku tambaye su idan suna magana.»
+**21:63** Ya ce: “Hasali ma, wannan babban su ne ya yi shi. Ku tambaye su idan suna magana.”
 
 قَالَ بَلْ فَعَلَهُۥ كَبِيرُهُمْ هَٰذَا فَسْـَٔلُوهُمْ إِن كَانُوا۟ يَنطِقُونَ
 
-**21:64** Sai suka koma ga junansu suka ce: «Ku kanku ne masu zalunci.»
+**21:64** Sai suka koma ga junansu suka ce: “Ku kanku ne masu zalunci.”
 
 فَرَجَعُوٓا۟ إِلَىٰٓ أَنفُسِهِمْ فَقَالُوٓا۟ إِنَّكُمْ أَنتُمُ ٱلظَّٰلِمُونَ
 
-**21:65** Amma suka koma ga tsohon tunaninsu: «Lalle ka sani waɗannan ba sa magana.»
+**21:65** Amma suka koma ga tsohon tunaninsu: “Lalle ka sani waɗannan ba sa magana.”
 
 ثُمَّ نُكِسُوا۟ عَلَىٰ رُءُوسِهِمْ لَقَدْ عَلِمْتَ مَا هَٰٓؤُلَآءِ يَنطِقُونَ
 
-**21:66** Ya ce: «Shin kuna bautar, banda Allah, abin da ba zai amfane ku da kome ba, ba zai cutar da ku ba?
+**21:66** Ya ce: “Shin kuna bautar, banda Allah, abin da ba zai amfane ku da kome ba, ba zai cutar da ku ba?
 
 قَالَ أَفَتَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكُمْ شَيْـًۭٔا وَلَا يَضُرُّكُمْ
 
-**21:67** Bone gare ku da abin da kuke bautawa banda Allah. Shin ba ku hankalta ba?»
+**21:67** Bone gare ku da abin da kuke bautawa banda Allah. Shin ba ku hankalta ba?”
 
 أُفٍّۢ لَّكُمْ وَلِمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ ۖ أَفَلَا تَعْقِلُونَ
 
-**21:68** Suka ce: «Ku ƙone shi, ku taimaki gumakanku, idan za ku yi aiki.»
+**21:68** Suka ce: “Ku ƙone shi, ku taimaki gumakanku, idan za ku yi aiki.”
 
 قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَٰعِلِينَ
 
-**21:69** Muka ce: «Ya wuta, ki kasance sanyi da aminci a kan Ibrahim.»
+**21:69** Muka ce: “Ya wuta, ki kasance sanyi da aminci a kan Ibrahim.”
 
 قُلْنَا يَٰنَارُ كُونِى بَرْدًۭا وَسَلَٰمًا عَلَىٰٓ إِبْرَٰهِيمَ
 
@@ -10652,7 +10652,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَمِنَ ٱلشَّيَٰطِينِ مَن يَغُوصُونَ لَهُۥ وَيَعْمَلُونَ عَمَلًۭا دُونَ ذَٰلِكَ ۖ وَكُنَّا لَهُمْ حَٰفِظِينَ
 
-**21:83** Ayuba, lokacin da ya kira Ubangijinsa: «Cuta mai tsanani ta same ni, kuma Kai ne Mafi jinƙai a cikin masu jinƙai.»
+**21:83** Ayuba, lokacin da ya kira Ubangijinsa: “Cuta mai tsanani ta same ni, kuma Kai ne Mafi jinƙai a cikin masu jinƙai.”
 
 ۞ وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلضُّرُّ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ
 
@@ -10668,7 +10668,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَأَدْخَلْنَٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّٰلِحِينَ
 
-**21:87** Yunusa, lokacin da ya tafi cikin fushi yana zaton bamu da iko a kansa. Sai ya kira a cikin duhu: «Babu wani abin bauta sai Kai! Tsarki ya tabbata gare Ka! Na kasance cikin masu zalunci!»
+**21:87** Yunusa, lokacin da ya tafi cikin fushi yana zaton bamu da iko a kansa. Sai ya kira a cikin duhu: “Babu wani abin bauta sai Kai! Tsarki ya tabbata gare Ka! Na kasance cikin masu zalunci!”
 
 وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًۭا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ
 
@@ -10676,7 +10676,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَٱسْتَجَبْنَا لَهُۥ وَنَجَّيْنَٰهُ مِنَ ٱلْغَمِّ ۚ وَكَذَٰلِكَ نُۨجِى ٱلْمُؤْمِنِينَ
 
-**21:89** Zakariya, lokacin da ya kira Ubangijinsa: «Ubangijina, kada Ka bar ni ni kaɗai, kuma Kai ne Mafi kyau a cikin magada.»
+**21:89** Zakariya, lokacin da ya kira Ubangijinsa: “Ubangijina, kada Ka bar ni ni kaɗai, kuma Kai ne Mafi kyau a cikin magada.”
 
 وَزَكَرِيَّآ إِذْ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرْنِى فَرْدًۭا وَأَنتَ خَيْرُ ٱلْوَٰرِثِينَ
 
@@ -10708,7 +10708,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 حَتَّىٰٓ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُم مِّن كُلِّ حَدَبٍۢ يَنسِلُونَ
 
-**21:97** Alkawarin gaskiya ya kusanto. Idanun kafirai za su kafe cikin razana: «Bone ya tabbata gare mu. Mun kasance cikin rashin kula da wannan. Hasali ma, mun kasance masu zalunci.»
+**21:97** Alkawarin gaskiya ya kusanto. Idanun kafirai za su kafe cikin razana: “Bone ya tabbata gare mu. Mun kasance cikin rashin kula da wannan. Hasali ma, mun kasance masu zalunci.”
 
 وَٱقْتَرَبَ ٱلْوَعْدُ ٱلْحَقُّ فَإِذَا هِىَ شَٰخِصَةٌ أَبْصَٰرُ ٱلَّذِينَ كَفَرُوا۟ يَٰوَيْلَنَا قَدْ كُنَّا فِى غَفْلَةٍۢ مِّنْ هَٰذَا بَلْ كُنَّا ظَٰلِمِينَ
 
@@ -10732,7 +10732,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 لَا يَسْمَعُونَ حَسِيسَهَا ۖ وَهُمْ فِى مَا ٱشْتَهَتْ أَنفُسُهُمْ خَٰلِدُونَ
 
-**21:103** Babban Tsoro ba zai baƙanta su ba, mala'iku za su tarbe su: «Wannan ita ce Ranarku da aka yi muku alkawari.»
+**21:103** Babban Tsoro ba zai baƙanta su ba, mala'iku za su tarbe su: “Wannan ita ce Ranarku da aka yi muku alkawari.”
 
 لَا يَحْزُنُهُمُ ٱلْفَزَعُ ٱلْأَكْبَرُ وَتَتَلَقَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ هَٰذَا يَوْمُكُمُ ٱلَّذِى كُنتُمْ تُوعَدُونَ
 
@@ -10752,11 +10752,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةًۭ لِّلْعَٰلَمِينَ
 
-**21:108** Ka ce: «Aka yi mini wahayi cewa Allahnku Allah ɗaya ne. Shin za ku sallama?»
+**21:108** Ka ce: “Aka yi mini wahayi cewa Allahnku Allah ɗaya ne. Shin za ku sallama?”
 
 قُلْ إِنَّمَا يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَٰهُكُمْ إِلَٰهٌۭ وَٰحِدٌۭ ۖ فَهَلْ أَنتُم مُّسْلِمُونَ
 
-**21:109** Idan suka juya baya, ka ce: «Na sanar da ku isasshe. Amma ban sani ba idan abin da aka yi muku alkawari na kusa ne ko na nesa.»
+**21:109** Idan suka juya baya, ka ce: “Na sanar da ku isasshe. Amma ban sani ba idan abin da aka yi muku alkawari na kusa ne ko na nesa.”
 
 فَإِن تَوَلَّوْا۟ فَقُلْ ءَاذَنتُكُمْ عَلَىٰ سَوَآءٍۢ ۖ وَإِنْ أَدْرِىٓ أَقَرِيبٌ أَم بَعِيدٌۭ مَّا تُوعَدُونَ
 
@@ -10764,11 +10764,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ مِنَ ٱلْقَوْلِ وَيَعْلَمُ مَا تَكْتُمُونَ
 
-**21:111** «Ban sani ba idan watakila jarrabawa ce gare ku, da jin daɗi na wani lokaci.»
+**21:111** “Ban sani ba idan watakila jarrabawa ce gare ku, da jin daɗi na wani lokaci.”
 
 وَإِنْ أَدْرِى لَعَلَّهُۥ فِتْنَةٌۭ لَّكُمْ وَمَتَٰعٌ إِلَىٰ حِينٍۢ
 
-**21:112** Ya ce: «Ubangijina, Ka yi hukunci da adalci.» Kuma: «Ubangijinmu Mai rahama ne, wanda ake neman taimakonsa a kan abin da kuke faɗa.»
+**21:112** Ya ce: “Ubangijina, Ka yi hukunci da adalci.” Kuma: “Ubangijinmu Mai rahama ne, wanda ake neman taimakonsa a kan abin da kuke faɗa.”
 
 قَٰلَ رَبِّ ٱحْكُم بِٱلْحَقِّ ۗ وَرَبُّنَا ٱلرَّحْمَٰنُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ
 
@@ -10870,7 +10870,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَلَهُم مَّقَٰمِعُ مِنْ حَدِيدٍۢ
 
-**22:22** Duk lokacin da suka yi ƙoƙarin fita daga baƙin ciki, za a mayar da su cikinsa: «Ku ɗanɗana azabar ƙuna.»
+**22:22** Duk lokacin da suka yi ƙoƙarin fita daga baƙin ciki, za a mayar da su cikinsa: “Ku ɗanɗana azabar ƙuna.”
 
 كُلَّمَآ أَرَادُوٓا۟ أَن يَخْرُجُوا۟ مِنْهَا مِنْ غَمٍّ أُعِيدُوا۟ فِيهَا وَذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
 
@@ -10886,7 +10886,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلْمَسْجِدِ ٱلْحَرَامِ ٱلَّذِى جَعَلْنَٰهُ لِلنَّاسِ سَوَآءً ٱلْعَٰكِفُ فِيهِ وَٱلْبَادِ ۚ وَمَن يُرِدْ فِيهِ بِإِلْحَادٍۭ بِظُلْمٍۢ نُّذِقْهُ مِنْ عَذَابٍ أَلِيمٍۢ
 
-**22:26** Mun nuna wa Ibrahim wurin Ɗaki: «Kada ka haɗa kome da Ni; ka tsarkake Ɗakina ga masu kewayawa, da masu tsayuwa salla, da masu ruku'u da sujada.»
+**22:26** Mun nuna wa Ibrahim wurin Ɗaki: “Kada ka haɗa kome da Ni; ka tsarkake Ɗakina ga masu kewayawa, da masu tsayuwa salla, da masu ruku'u da sujada.”
 
 وَإِذْ بَوَّأْنَا لِإِبْرَٰهِيمَ مَكَانَ ٱلْبَيْتِ أَن لَّا تُشْرِكْ بِى شَيْـًۭٔا وَطَهِّرْ بَيْتِىَ لِلطَّآئِفِينَ وَٱلْقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
 
@@ -10942,7 +10942,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 أُذِنَ لِلَّذِينَ يُقَٰتَلُونَ بِأَنَّهُمْ ظُلِمُوا۟ ۚ وَإِنَّ ٱللَّهَ عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ
 
-**22:40** Waɗanda aka fitar da su daga gidajensu ba da adalci ba, sai don sun ce: «Ubangijinmu Allah ne.» Da ba don Allah Yana ture mutane da waɗansu ba: da aka rushe wuraren ibadar sufaye, da coci-coci, da majami'u, da masallatai, inda ake ambaton sunan Allah da yawa. Allah Yana taimakon wanda ya taimake Shi. Allah Mai ƙarfi ne, Mabuwayi.
+**22:40** Waɗanda aka fitar da su daga gidajensu ba da adalci ba, sai don sun ce: “Ubangijinmu Allah ne.” Da ba don Allah Yana ture mutane da waɗansu ba: da aka rushe wuraren ibadar sufaye, da coci-coci, da majami'u, da masallatai, inda ake ambaton sunan Allah da yawa. Allah Yana taimakon wanda ya taimake Shi. Allah Mai ƙarfi ne, Mabuwayi.
 
 ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَٰرِهِم بِغَيْرِ حَقٍّ إِلَّآ أَن يَقُولُوا۟ رَبُّنَا ٱللَّهُ ۗ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍۢ لَّهُدِّمَتْ صَوَٰمِعُ وَبِيَعٌۭ وَصَلَوَٰتٌۭ وَمَسَٰجِدُ يُذْكَرُ فِيهَا ٱسْمُ ٱللَّهِ كَثِيرًۭا ۗ وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓ ۗ إِنَّ ٱللَّهَ لَقَوِىٌّ عَزِيزٌ
 
@@ -10978,7 +10978,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَكَأَيِّن مِّن قَرْيَةٍ أَمْلَيْتُ لَهَا وَهِىَ ظَالِمَةٌۭ ثُمَّ أَخَذْتُهَا وَإِلَىَّ ٱلْمَصِيرُ
 
-**22:49** Ka ce: «Ya ku mutane, ni mai gargaɗi ne bayyananne gare ku kaɗai.»
+**22:49** Ka ce: “Ya ku mutane, ni mai gargaɗi ne bayyananne gare ku kaɗai.”
 
 قُلْ يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّمَآ أَنَا۠ لَكُمْ نَذِيرٌۭ مُّبِينٌۭ
 
@@ -11054,7 +11054,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 لِّكُلِّ أُمَّةٍۢ جَعَلْنَا مَنسَكًا هُمْ نَاسِكُوهُ ۖ فَلَا يُنَٰزِعُنَّكَ فِى ٱلْأَمْرِ ۚ وَٱدْعُ إِلَىٰ رَبِّكَ ۖ إِنَّكَ لَعَلَىٰ هُدًۭى مُّسْتَقِيمٍۢ
 
-**22:68** Idan suka jayayya da kai, ka ce: «Allah Ya fi sani abin da kuke yi.»
+**22:68** Idan suka jayayya da kai, ka ce: “Allah Ya fi sani abin da kuke yi.”
 
 وَإِن جَٰدَلُوكَ فَقُلِ ٱللَّهُ أَعْلَمُ بِمَا تَعْمَلُونَ
 
@@ -11070,7 +11070,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَٰنًۭا وَمَا لَيْسَ لَهُم بِهِۦ عِلْمٌۭ ۗ وَمَا لِلظَّٰلِمِينَ مِن نَّصِيرٍۢ
 
-**22:72** Idan aka karanta musu AyoyinMu bayyanannu, za ka ga ƙiyayya a fuskokin kafirai. Suna gab da su kai hari ga masu karanta musu AyoyinMu. Ka ce: «Shin na sanar da ku abin da ya fi wannan muni? Wuta! Allah Ya yi wa kafirai alkawarinta. Mummunar makoma ce!»
+**22:72** Idan aka karanta musu AyoyinMu bayyanannu, za ka ga ƙiyayya a fuskokin kafirai. Suna gab da su kai hari ga masu karanta musu AyoyinMu. Ka ce: “Shin na sanar da ku abin da ya fi wannan muni? Wuta! Allah Ya yi wa kafirai alkawarinta. Mummunar makoma ce!”
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ تَعْرِفُ فِى وُجُوهِ ٱلَّذِينَ كَفَرُوا۟ ٱلْمُنكَرَ ۖ يَكَادُونَ يَسْطُونَ بِٱلَّذِينَ يَتْلُونَ عَلَيْهِمْ ءَايَٰتِنَا ۗ قُلْ أَفَأُنَبِّئُكُم بِشَرٍّۢ مِّن ذَٰلِكُمُ ۗ ٱلنَّارُ وَعَدَهَا ٱللَّهُ ٱلَّذِينَ كَفَرُوا۟ ۖ وَبِئْسَ ٱلْمَصِيرُ
 
@@ -11200,31 +11200,31 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَعَلَيْهَا وَعَلَى ٱلْفُلْكِ تُحْمَلُونَ
 
-**23:23** Mun aiko Nuhu zuwa mutanensa. Ya ce: «Ya ku mutanena, ku bautar Allah, ba ku da abin bauta banda Shi. Shin ba za ku ji tsoro ba?»
+**23:23** Mun aiko Nuhu zuwa mutanensa. Ya ce: “Ya ku mutanena, ku bautar Allah, ba ku da abin bauta banda Shi. Shin ba za ku ji tsoro ba?”
 
 وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَقَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥٓ ۖ أَفَلَا تَتَّقُونَ
 
-**23:24** Amma manyan mutanensa da suka kafirta suka ce: «Wannan ba kome ba ne sai mutum kamar ku, yana nufin ya fi ku girma. Da Allah Ya ga dama, da Ya saukar da mala'iku. Bamu ji wannan daga kakanninmu na farko ba.
+**23:24** Amma manyan mutanensa da suka kafirta suka ce: “Wannan ba kome ba ne sai mutum kamar ku, yana nufin ya fi ku girma. Da Allah Ya ga dama, da Ya saukar da mala'iku. Bamu ji wannan daga kakanninmu na farko ba.
 
 فَقَالَ ٱلْمَلَؤُا۟ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا هَٰذَآ إِلَّا بَشَرٌۭ مِّثْلُكُمْ يُرِيدُ أَن يَتَفَضَّلَ عَلَيْكُمْ وَلَوْ شَآءَ ٱللَّهُ لَأَنزَلَ مَلَٰٓئِكَةًۭ مَّا سَمِعْنَا بِهَٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ
 
-**23:25** Ba kome ba ne sai mutum mai hauka. Ku yi watsi da shi na wani lokaci.»
+**23:25** Ba kome ba ne sai mutum mai hauka. Ku yi watsi da shi na wani lokaci.”
 
 إِنْ هُوَ إِلَّا رَجُلٌۢ بِهِۦ جِنَّةٌۭ فَتَرَبَّصُوا۟ بِهِۦ حَتَّىٰ حِينٍۢ
 
-**23:26** Ya ce: «Ubangijina, Ka taimake ni, domin sun ƙaryata ni.»
+**23:26** Ya ce: “Ubangijina, Ka taimake ni, domin sun ƙaryata ni.”
 
 قَالَ رَبِّ ٱنصُرْنِى بِمَا كَذَّبُونِ
 
-**23:27** Sai Muka yi masa wahayi: «Ka gina Jirgin a ƙarƙashin idonMu da wahayinMu. Idan umarninMu ya zo, tanda ta tafasa, ka loda cikinsa nau'i biyu na kowane iri, tare da iyalinka, sai waɗanda magana ta gabata a kansu daga cikinsu. Kada ka yi mini magana game da masu zalunci; za a nutsar da su.»
+**23:27** Sai Muka yi masa wahayi: “Ka gina Jirgin a ƙarƙashin idonMu da wahayinMu. Idan umarninMu ya zo, tanda ta tafasa, ka loda cikinsa nau'i biyu na kowane iri, tare da iyalinka, sai waɗanda magana ta gabata a kansu daga cikinsu. Kada ka yi mini magana game da masu zalunci; za a nutsar da su.”
 
 فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ ۙ فَٱسْلُكْ فِيهَا مِن كُلٍّۢ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ مِنْهُمْ ۖ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ ۖ إِنَّهُم مُّغْرَقُونَ
 
-**23:28** Idan kai da waɗanda suke tare da kai kun tabbata a Jirgin, ka ce: «Godiya ta tabbata ga Allah, wanda Ya tsirar da mu daga mutane masu zalunci.»
+**23:28** Idan kai da waɗanda suke tare da kai kun tabbata a Jirgin, ka ce: “Godiya ta tabbata ga Allah, wanda Ya tsirar da mu daga mutane masu zalunci.”
 
 فَإِذَا ٱسْتَوَيْتَ أَنتَ وَمَن مَّعَكَ عَلَى ٱلْفُلْكِ فَقُلِ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى نَجَّىٰنَا مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
 
-**23:29** Ka ce: «Ubangijina, Ka saukar da ni saukarwa mai albarka, Kai ne Mafi kyau a cikin masu saukarwa.»
+**23:29** Ka ce: “Ubangijina, Ka saukar da ni saukarwa mai albarka, Kai ne Mafi kyau a cikin masu saukarwa.”
 
 وَقُل رَّبِّ أَنزِلْنِى مُنزَلًۭا مُّبَارَكًۭا وَأَنتَ خَيْرُ ٱلْمُنزِلِينَ
 
@@ -11236,11 +11236,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ
 
-**23:32** Muka aiko a cikinsu Manzo daga cikinsu: «Ku bautar Allah. Ba ku da abin bauta banda Shi. Shin ba za ku yi taka-tsantsan ba?»
+**23:32** Muka aiko a cikinsu Manzo daga cikinsu: “Ku bautar Allah. Ba ku da abin bauta banda Shi. Shin ba za ku yi taka-tsantsan ba?”
 
 فَأَرْسَلْنَا فِيهِمْ رَسُولًۭا مِّنْهُمْ أَنِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥٓ ۖ أَفَلَا تَتَّقُونَ
 
-**23:33** Amma manyan mutanensa, waɗanda suka kafirta, suka ƙi haduwar lahira, Muka ba su jin daɗi a rayuwar duniya, suka ce: «Wannan ba kome ba ne sai mutum kamar ku; yana cin abin da kuke ci, yana shan abin da kuke sha.
+**23:33** Amma manyan mutanensa, waɗanda suka kafirta, suka ƙi haduwar lahira, Muka ba su jin daɗi a rayuwar duniya, suka ce: “Wannan ba kome ba ne sai mutum kamar ku; yana cin abin da kuke ci, yana shan abin da kuke sha.
 
 وَقَالَ ٱلْمَلَأُ مِن قَوْمِهِ ٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِلِقَآءِ ٱلْءَاخِرَةِ وَأَتْرَفْنَٰهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا مَا هَٰذَآ إِلَّا بَشَرٌۭ مِّثْلُكُمْ يَأْكُلُ مِمَّا تَأْكُلُونَ مِنْهُ وَيَشْرَبُ مِمَّا تَشْرَبُونَ
 
@@ -11260,15 +11260,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ
 
-**23:38** Ba kome ba ne sai mutum da yake ƙirƙirar ƙarya game da Allah. Bamu yi imani da shi ba.»
+**23:38** Ba kome ba ne sai mutum da yake ƙirƙirar ƙarya game da Allah. Bamu yi imani da shi ba.”
 
 إِنْ هُوَ إِلَّا رَجُلٌ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا وَمَا نَحْنُ لَهُۥ بِمُؤْمِنِينَ
 
-**23:39** Ya ce: «Ubangijina, Ka taimake ni, domin sun ƙaryata ni.»
+**23:39** Ya ce: “Ubangijina, Ka taimake ni, domin sun ƙaryata ni.”
 
 قَالَ رَبِّ ٱنصُرْنِى بِمَا كَذَّبُونِ
 
-**23:40** Ya ce: «Ba da jimawa ba za su cika da nadama.»
+**23:40** Ya ce: “Ba da jimawa ba za su cika da nadama.”
 
 قَالَ عَمَّا قَلِيلٍۢ لَّيُصْبِحُنَّ نَٰدِمِينَ
 
@@ -11296,7 +11296,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا عَالِينَ
 
-**23:47** Suka ce: «Shin za mu yi imani da mutane biyu kamar mu, alhali mutanensu bayinmu ne?»
+**23:47** Suka ce: “Shin za mu yi imani da mutane biyu kamar mu, alhali mutanensu bayinmu ne?”
 
 فَقَالُوٓا۟ أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا وَقَوْمُهُمَا لَنَا عَٰبِدُونَ
 
@@ -11388,7 +11388,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 أَمْ لَمْ يَعْرِفُوا۟ رَسُولَهُمْ فَهُمْ لَهُۥ مُنكِرُونَ
 
-**23:70** Ko suna cewa: «Mai hauka ne?» Hasali ma, ya kawo musu gaskiya, amma mafi yawansu suna ƙin gaskiya.
+**23:70** Ko suna cewa: “Mai hauka ne?” Hasali ma, ya kawo musu gaskiya, amma mafi yawansu suna ƙin gaskiya.
 
 أَمْ يَقُولُونَ بِهِۦ جِنَّةٌۢ ۚ بَلْ جَآءَهُم بِٱلْحَقِّ وَأَكْثَرُهُمْ لِلْحَقِّ كَٰرِهُونَ
 
@@ -11436,35 +11436,35 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 بَلْ قَالُوا۟ مِثْلَ مَا قَالَ ٱلْأَوَّلُونَ
 
-**23:82** Suna cewa: «Bayan mun mutu, muka zama ƙura da ƙasusuwa, za a ta da mu?
+**23:82** Suna cewa: “Bayan mun mutu, muka zama ƙura da ƙasusuwa, za a ta da mu?
 
 قَالُوٓا۟ أَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ
 
-**23:83** Aka yi mana alkawarin wannan a baya, mu da kakanninmu, waɗannan ba kome ba ne sai tatsuniyoyin mutanen farko.»
+**23:83** Aka yi mana alkawarin wannan a baya, mu da kakanninmu, waɗannan ba kome ba ne sai tatsuniyoyin mutanen farko.”
 
 لَقَدْ وُعِدْنَا نَحْنُ وَءَابَآؤُنَا هَٰذَا مِن قَبْلُ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
-**23:84** Ka ce: «Ga wa ƙasa take, da kowa a cikinta, idan kun sani?»
+**23:84** Ka ce: “Ga wa ƙasa take, da kowa a cikinta, idan kun sani?”
 
 قُل لِّمَنِ ٱلْأَرْضُ وَمَن فِيهَآ إِن كُنتُمْ تَعْلَمُونَ
 
-**23:85** Za su ce: «Ga Allah.» Ka ce: «Shin ba za ku yi tunani ba?»
+**23:85** Za su ce: “Ga Allah.” Ka ce: “Shin ba za ku yi tunani ba?”
 
 سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَذَكَّرُونَ
 
-**23:86** Ka ce: «Wa ne Ubangijin sammai bakwai, Ubangijin Al'arshi Mai girma?»
+**23:86** Ka ce: “Wa ne Ubangijin sammai bakwai, Ubangijin Al'arshi Mai girma?”
 
 قُلْ مَن رَّبُّ ٱلسَّمَٰوَٰتِ ٱلسَّبْعِ وَرَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ
 
-**23:87** Za su ce: «Ga Allah.» Ka ce: «Shin ba za ku zama masu kirki ba?»
+**23:87** Za su ce: “Ga Allah.” Ka ce: “Shin ba za ku zama masu kirki ba?”
 
 سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَتَّقُونَ
 
-**23:88** Ka ce: «A hannun wa mulkin kome yake, Yana tsarewa, ba a tsare shi, idan kun sani?»
+**23:88** Ka ce: “A hannun wa mulkin kome yake, Yana tsarewa, ba a tsare shi, idan kun sani?”
 
 قُلْ مَنۢ بِيَدِهِۦ مَلَكُوتُ كُلِّ شَىْءٍۢ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيْهِ إِن كُنتُمْ تَعْلَمُونَ
 
-**23:89** Za su ce: «Ga Allah.» Ka ce: «Shin aka sihirce ku?»
+**23:89** Za su ce: “Ga Allah.” Ka ce: “Shin aka sihirce ku?”
 
 سَيَقُولُونَ لِلَّهِ ۚ قُلْ فَأَنَّىٰ تُسْحَرُونَ
 
@@ -11480,11 +11480,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 عَٰلِمِ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ فَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ
 
-**23:93** Ka ce: «Ubangijina, idan Za Ka nuna mini abin da aka yi musu alkawari.
+**23:93** Ka ce: “Ubangijina, idan Za Ka nuna mini abin da aka yi musu alkawari.
 
 قُل رَّبِّ إِمَّا تُرِيَنِّى مَا يُوعَدُونَ
 
-**23:94** Ubangijina, kada Ka sanya ni cikin mutane masu zalunci.»
+**23:94** Ubangijina, kada Ka sanya ni cikin mutane masu zalunci.”
 
 رَبِّ فَلَا تَجْعَلْنِى فِى ٱلْقَوْمِ ٱلظَّٰلِمِينَ
 
@@ -11496,19 +11496,19 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ ٱلسَّيِّئَةَ ۚ نَحْنُ أَعْلَمُ بِمَا يَصِفُونَ
 
-**23:97** Ka ce: «Ubangijina, ina neman tsari gare Ka daga ingizawar shaidanu.
+**23:97** Ka ce: “Ubangijina, ina neman tsari gare Ka daga ingizawar shaidanu.
 
 وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَٰتِ ٱلشَّيَٰطِينِ
 
-**23:98** Ina neman tsari gare Ka, Ubangijina, kada su kasance kusa.»
+**23:98** Ina neman tsari gare Ka, Ubangijina, kada su kasance kusa.”
 
 وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ
 
-**23:99** Har lokacin da mutuwa ta zo wa ɗayansu, yana cewa: «Ubangijina, Ka mayar da ni.
+**23:99** Har lokacin da mutuwa ta zo wa ɗayansu, yana cewa: “Ubangijina, Ka mayar da ni.
 
 حَتَّىٰٓ إِذَا جَآءَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ رَبِّ ٱرْجِعُونِ
 
-**23:100** Domin na yi aikin kirki a abin da na yi watsi da shi.» Ko kaɗan! Magana ce da yake faɗa kaɗai. A bayansu akwai shinge, har Ranar da za a ta da su.
+**23:100** Domin na yi aikin kirki a abin da na yi watsi da shi.” Ko kaɗan! Magana ce da yake faɗa kaɗai. A bayansu akwai shinge, har Ranar da za a ta da su.
 
 لَعَلِّىٓ أَعْمَلُ صَٰلِحًۭا فِيمَا تَرَكْتُ ۚ كَلَّآ ۚ إِنَّهَا كَلِمَةٌ هُوَ قَآئِلُهَا ۖ وَمِن وَرَآئِهِم بَرْزَخٌ إِلَىٰ يَوْمِ يُبْعَثُونَ
 
@@ -11528,23 +11528,23 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 تَلْفَحُ وُجُوهَهُمُ ٱلنَّارُ وَهُمْ فِيهَا كَٰلِحُونَ
 
-**23:105** «Shin ba a karanta muku ayoyina ba, kuna ci gaba da ƙin su?»
+**23:105** “Shin ba a karanta muku ayoyina ba, kuna ci gaba da ƙin su?”
 
 أَلَمْ تَكُنْ ءَايَٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُم بِهَا تُكَذِّبُونَ
 
-**23:106** Za su ce: «Ubangijinmu, wahalarmu ta rinjaye mu, mun kasance mutane masu ɓata.
+**23:106** Za su ce: “Ubangijinmu, wahalarmu ta rinjaye mu, mun kasance mutane masu ɓata.
 
 قَالُوا۟ رَبَّنَا غَلَبَتْ عَلَيْنَا شِقْوَتُنَا وَكُنَّا قَوْمًۭا ضَآلِّينَ
 
-**23:107** Ubangijinmu! Ka fitar da mu daga wannan. Idan muka koma, lalle za mu zama miyagu.»
+**23:107** Ubangijinmu! Ka fitar da mu daga wannan. Idan muka koma, lalle za mu zama miyagu.”
 
 رَبَّنَآ أَخْرِجْنَا مِنْهَا فَإِنْ عُدْنَا فَإِنَّا ظَٰلِمُونَ
 
-**23:108** Zai ce: «Ku wulaƙanta a cikinta, kada ku yi mini magana.
+**23:108** Zai ce: “Ku wulaƙanta a cikinta, kada ku yi mini magana.
 
 قَالَ ٱخْسَـُٔوا۟ فِيهَا وَلَا تُكَلِّمُونِ
 
-**23:109** Akwai ɓangaren bayina da suke cewa: «Ubangijinmu, mun yi imani, Ka gafarta mana, Ka ji ƙanmu; Kai ne Mafi kyau a cikin masu jinƙai.»
+**23:109** Akwai ɓangaren bayina da suke cewa: “Ubangijinmu, mun yi imani, Ka gafarta mana, Ka ji ƙanmu; Kai ne Mafi kyau a cikin masu jinƙai.”
 
 إِنَّهُۥ كَانَ فَرِيقٌۭ مِّنْ عِبَادِى يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ
 
@@ -11552,23 +11552,23 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَٱتَّخَذْتُمُوهُمْ سِخْرِيًّا حَتَّىٰٓ أَنسَوْكُمْ ذِكْرِى وَكُنتُم مِّنْهُمْ تَضْحَكُونَ
 
-**23:111** Yau, Na saka musu saboda haƙurinsu. Su ne masu nasara.»
+**23:111** Yau, Na saka musu saboda haƙurinsu. Su ne masu nasara.”
 
 إِنِّى جَزَيْتُهُمُ ٱلْيَوْمَ بِمَا صَبَرُوٓا۟ أَنَّهُمْ هُمُ ٱلْفَآئِزُونَ
 
-**23:112** Zai ce: «Shekara nawa kuka zauna a ƙasa?»
+**23:112** Zai ce: “Shekara nawa kuka zauna a ƙasa?”
 
 قَٰلَ كَمْ لَبِثْتُمْ فِى ٱلْأَرْضِ عَدَدَ سِنِينَ
 
-**23:113** Za su ce: «Mun zauna rana ɗaya, ko ɓangaren rana; ka tambayi masu ƙidaya.»
+**23:113** Za su ce: “Mun zauna rana ɗaya, ko ɓangaren rana; ka tambayi masu ƙidaya.”
 
 قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍۢ فَسْـَٔلِ ٱلْعَآدِّينَ
 
-**23:114** Zai ce: «Kun zauna kaɗan ne kaɗai, da kun sani.
+**23:114** Zai ce: “Kun zauna kaɗan ne kaɗai, da kun sani.
 
 قَٰلَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًۭا ۖ لَّوْ أَنَّكُمْ كُنتُمْ تَعْلَمُونَ
 
-**23:115** Shin kun zaci Mun halicce ku a banza, cewa ba za a mayar da ku gare Mu ba?»
+**23:115** Shin kun zaci Mun halicce ku a banza, cewa ba za a mayar da ku gare Mu ba?”
 
 أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَٰكُمْ عَبَثًۭا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ
 
@@ -11580,7 +11580,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَمَن يَدْعُ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ لَا بُرْهَٰنَ لَهُۥ بِهِۦ فَإِنَّمَا حِسَابُهُۥ عِندَ رَبِّهِۦٓ ۚ إِنَّهُۥ لَا يُفْلِحُ ٱلْكَٰفِرُونَ
 
-**23:118** Ka ce: «Ubangijina, Ka gafarta, Ka ji ƙai, Kai ne Mafi kyau a cikin masu jinƙai.»
+**23:118** Ka ce: “Ubangijina, Ka gafarta, Ka ji ƙai, Kai ne Mafi kyau a cikin masu jinƙai.”
 
 وَقُل رَّبِّ ٱغْفِرْ وَٱرْحَمْ وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ
 
@@ -14440,11 +14440,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 هَٰذَا خَلْقُ ٱللَّهِ فَأَرُونِى مَاذَا خَلَقَ ٱلَّذِينَ مِن دُونِهِۦ ۚ بَلِ ٱلظَّٰلِمُونَ فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
-**31:12** Mu ba Luƙman hikima: "Ka gode wa Allah." Wanda ya gode, yana godewa ne domin amfanin ransa. Wanda ya ƙi godiya, Allah Mai wadatar kai ne, Abin godiya.
+**31:12** Mu ba Luƙman hikima: “Ka gode wa Allah.” Wanda ya gode, yana godewa ne domin amfanin ransa. Wanda ya ƙi godiya, Allah Mai wadatar kai ne, Abin godiya.
 
 وَلَقَدْ ءَاتَيْنَا لُقْمَٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ
 
-**31:13** Sa'ad da Luƙman ya ce wa ɗansa, yana masa nasiha, "Ya ɗana, kada ka haɗa wani da Allah, gama shirka babban zalunci ne."
+**31:13** Sa'ad da Luƙman ya ce wa ɗansa, yana masa nasiha, “Ya ɗana, kada ka haɗa wani da Allah, gama shirka babban zalunci ne.”
 
 وَإِذْ قَالَ لُقْمَٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ ۖ إِنَّ ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌۭ
 
@@ -14456,7 +14456,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَإِن جَٰهَدَاكَ عَلَىٰٓ أَن تُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِۦ عِلْمٌۭ فَلَا تُطِعْهُمَا ۖ وَصَاحِبْهُمَا فِى ٱلدُّنْيَا مَعْرُوفًۭا ۖ وَٱتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَىَّ ۚ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 
-**31:16** "Ya ɗana, ko da abu ya kasance nauyin ƙwayar mastad, a cikin dutse, ko a sammai, ko a ƙasa, Allah zai zo da shi. Allah Mai tausayi ne, Masani.
+**31:16** “Ya ɗana, ko da abu ya kasance nauyin ƙwayar mastad, a cikin dutse, ko a sammai, ko a ƙasa, Allah zai zo da shi. Allah Mai tausayi ne, Masani.
 
 يَٰبُنَىَّ إِنَّهَآ إِن تَكُ مِثْقَالَ حَبَّةٍۢ مِّنْ خَرْدَلٍۢ فَتَكُن فِى صَخْرَةٍ أَوْ فِى ٱلسَّمَٰوَٰتِ أَوْ فِى ٱلْأَرْضِ يَأْتِ بِهَا ٱللَّهُ ۚ إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٌۭ
 
@@ -14468,7 +14468,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِى ٱلْأَرْضِ مَرَحًا ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍۢ فَخُورٍۢ
 
-**31:19** Ka daidaita tafiyarka, ka rage muryarka. Mafi munin murya ita ce muryar jaki."
+**31:19** Ka daidaita tafiyarka, ka rage muryarka. Mafi munin murya ita ce muryar jaki.”
 
 وَٱقْصِدْ فِى مَشْيِكَ وَٱغْضُضْ مِن صَوْتِكَ ۚ إِنَّ أَنكَرَ ٱلْأَصْوَٰتِ لَصَوْتُ ٱلْحَمِيرِ
 
@@ -14476,7 +14476,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 أَلَمْ تَرَوْا۟ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُۥ ظَٰهِرَةًۭ وَبَاطِنَةًۭ ۗ وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِى ٱللَّهِ بِغَيْرِ عِلْمٍۢ وَلَا هُدًۭى وَلَا كِتَٰبٍۢ مُّنِيرٍۢ
 
-**31:21** Idan aka ce musu, "Ku bi abin da Allah ya saukar," sai su ce, "A'a, muna bin abin da muka sami iyayenmu suna yi." Ko da Shaiɗan yana kiransu zuwa ga azabar wuta mai ƙuna?
+**31:21** Idan aka ce musu, “Ku bi abin da Allah ya saukar,” sai su ce, “A'a, muna bin abin da muka sami iyayenmu suna yi.” Ko da Shaiɗan yana kiransu zuwa ga azabar wuta mai ƙuna?
 
 وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ أَوَلَوْ كَانَ ٱلشَّيْطَٰنُ يَدْعُوهُمْ إِلَىٰ عَذَابِ ٱلسَّعِيرِ
 
@@ -14492,7 +14492,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 نُمَتِّعُهُمْ قَلِيلًۭا ثُمَّ نَضْطَرُّهُمْ إِلَىٰ عَذَابٍ غَلِيظٍۢ
 
-**31:25** Idan ka tambaye su, "Wane ne ya halicci sammai da ƙasa?" Za su ce, "Allah." Ka ce, "Godiya ta tabbata ga Allah." Amma yawancinsu ba su sani ba.
+**31:25** Idan ka tambaye su, “Wane ne ya halicci sammai da ƙasa?” Za su ce, “Allah.” Ka ce, “Godiya ta tabbata ga Allah.” Amma yawancinsu ba su sani ba.
 
 وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ ٱللَّهُ ۚ قُلِ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
 
@@ -14552,7 +14552,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 تَنزِيلُ ٱلْكِتَٰبِ لَا رَيْبَ فِيهِ مِن رَّبِّ ٱلْعَٰلَمِينَ
 
-**32:3** Duk da haka suna cewa, "Shi ne ya ƙirƙira shi." A'a, Gaskiya ne daga Ubangijinka, domin ka gargaɗi mutanen da babu mai gargaɗi da ya zo musu a gabanka, watakila su shiryu.
+**32:3** Duk da haka suna cewa, “Shi ne ya ƙirƙira shi.” A'a, Gaskiya ne daga Ubangijinka, domin ka gargaɗi mutanen da babu mai gargaɗi da ya zo musu a gabanka, watakila su shiryu.
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۚ بَلْ هُوَ ٱلْحَقُّ مِن رَّبِّكَ لِتُنذِرَ قَوْمًۭا مَّآ أَتَىٰهُم مِّن نَّذِيرٍۢ مِّن قَبْلِكَ لَعَلَّهُمْ يَهْتَدُونَ
 
@@ -14580,19 +14580,19 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ ۖ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًۭا مَّا تَشْكُرُونَ
 
-**32:10** Suna cewa, "Idan mun ɓace a cikin ƙasa, za mu kasance a cikin sabuwar halitta ne?" A'a, suna ƙin haɗuwa da Ubangijinsu.
+**32:10** Suna cewa, “Idan mun ɓace a cikin ƙasa, za mu kasance a cikin sabuwar halitta ne?” A'a, suna ƙin haɗuwa da Ubangijinsu.
 
 وَقَالُوٓا۟ أَءِذَا ضَلَلْنَا فِى ٱلْأَرْضِ أَءِنَّا لَفِى خَلْقٍۢ جَدِيدٍۭ ۚ بَلْ هُم بِلِقَآءِ رَبِّهِمْ كَٰفِرُونَ
 
-**32:11** Ka ce, "Mala'ikan mutuwa da aka ɗora a kanku zai karɓe ku. Sa'an nan za a mayar da ku zuwa ga Ubangijinku."
+**32:11** Ka ce, “Mala'ikan mutuwa da aka ɗora a kanku zai karɓe ku. Sa'an nan za a mayar da ku zuwa ga Ubangijinku.”
 
 ۞ قُلْ يَتَوَفَّىٰكُم مَّلَكُ ٱلْمَوْتِ ٱلَّذِى وُكِّلَ بِكُمْ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ
 
-**32:12** Da za ka ga masu laifi, suna sunkuyar da kawunansu a gaban Ubangijinsu: "Ubangijinmu, mun gani mun ji, ka mayar da mu, za mu aikata alheri; yanzu mun tabbata."
+**32:12** Da za ka ga masu laifi, suna sunkuyar da kawunansu a gaban Ubangijinsu: “Ubangijinmu, mun gani mun ji, ka mayar da mu, za mu aikata alheri; yanzu mun tabbata.”
 
 وَلَوْ تَرَىٰٓ إِذِ ٱلْمُجْرِمُونَ نَاكِسُوا۟ رُءُوسِهِمْ عِندَ رَبِّهِمْ رَبَّنَآ أَبْصَرْنَا وَسَمِعْنَا فَٱرْجِعْنَا نَعْمَلْ صَٰلِحًا إِنَّا مُوقِنُونَ
 
-**32:13** Da Mu so, da Mu ba kowane rai shiriyarsa, amma Magana daga gare Ni za ta tabbata: "Zan cika Jahannama da aljanu da mutane, duka tare."
+**32:13** Da Mu so, da Mu ba kowane rai shiriyarsa, amma Magana daga gare Ni za ta tabbata: “Zan cika Jahannama da aljanu da mutane, duka tare.”
 
 وَلَوْ شِئْنَا لَءَاتَيْنَا كُلَّ نَفْسٍ هُدَىٰهَا وَلَٰكِنْ حَقَّ ٱلْقَوْلُ مِنِّى لَأَمْلَأَنَّ جَهَنَّمَ مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ أَجْمَعِينَ
 
@@ -14622,7 +14622,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 أَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَلَهُمْ جَنَّٰتُ ٱلْمَأْوَىٰ نُزُلًۢا بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**32:20** Amma waɗanda suka yi fasiƙanci, mafakarsu Wuta ce. Duk lokacin da suka yi ƙoƙarin fita daga cikinta, za a mayar da su cikinta, a ce musu, "Ku ɗanɗani azabar Wutar da kuka kasance kuna ƙaryatawa."
+**32:20** Amma waɗanda suka yi fasiƙanci, mafakarsu Wuta ce. Duk lokacin da suka yi ƙoƙarin fita daga cikinta, za a mayar da su cikinta, a ce musu, “Ku ɗanɗani azabar Wutar da kuka kasance kuna ƙaryatawa.”
 
 وَأَمَّا ٱلَّذِينَ فَسَقُوا۟ فَمَأْوَىٰهُمُ ٱلنَّارُ ۖ كُلَّمَآ أَرَادُوٓا۟ أَن يَخْرُجُوا۟ مِنْهَآ أُعِيدُوا۟ فِيهَا وَقِيلَ لَهُمْ ذُوقُوا۟ عَذَابَ ٱلنَّارِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ
 
@@ -14654,11 +14654,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 أَوَلَمْ يَرَوْا۟ أَنَّا نَسُوقُ ٱلْمَآءَ إِلَى ٱلْأَرْضِ ٱلْجُرُزِ فَنُخْرِجُ بِهِۦ زَرْعًۭا تَأْكُلُ مِنْهُ أَنْعَٰمُهُمْ وَأَنفُسُهُمْ ۖ أَفَلَا يُبْصِرُونَ
 
-**32:28** Suna cewa, "Yaushe ne wannan nasarar, idan kun kasance masu gaskiya?"
+**32:28** Suna cewa, “Yaushe ne wannan nasarar, idan kun kasance masu gaskiya?”
 
 وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْفَتْحُ إِن كُنتُمْ صَٰدِقِينَ
 
-**32:29** Ka ce, "A ranar nasara, imanin waɗanda suka ƙi gaskiya ba zai amfanar su ba, ba za a ba su jinkiri ba."
+**32:29** Ka ce, “A ranar nasara, imanin waɗanda suka ƙi gaskiya ba zai amfanar su ba, ba za a ba su jinkiri ba.”
 
 قُلْ يَوْمَ ٱلْفَتْحِ لَا يَنفَعُ ٱلَّذِينَ كَفَرُوٓا۟ إِيمَٰنُهُمْ وَلَا هُمْ يُنظَرُونَ
 
@@ -14722,11 +14722,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ وَزُلْزِلُوا۟ زِلْزَالًۭا شَدِيدًۭا
 
-**33:12** Lokacin da munafukai da waɗanda a zukãtansu akwai cuta suka ce, "Allah da ManzonSa ba su yi mana alkawari ba sai ruɗi."
+**33:12** Lokacin da munafukai da waɗanda a zukãtansu akwai cuta suka ce, “Allah da ManzonSa ba su yi mana alkawari ba sai ruɗi.”
 
 وَإِذْ يَقُولُ ٱلْمُنَٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ مَّا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥٓ إِلَّا غُرُورًۭا
 
-**33:13** Lokacin da wata ƙungiya daga cikinsu ta ce, "Ya ku mutanen Yasrib, ba za ku iya tsayawa ba, ku koma." Wata ɓangare daga cikinsu ta nemi izini daga Annabi, tana cewa, "Gidajenmu a buɗe suke," alhali ba a buɗe suke ba. Sun so gudu ne kawai.
+**33:13** Lokacin da wata ƙungiya daga cikinsu ta ce, “Ya ku mutanen Yasrib, ba za ku iya tsayawa ba, ku koma.” Wata ɓangare daga cikinsu ta nemi izini daga Annabi, tana cewa, “Gidajenmu a buɗe suke,” alhali ba a buɗe suke ba. Sun so gudu ne kawai.
 
 وَإِذْ قَالَت طَّآئِفَةٌۭ مِّنْهُمْ يَٰٓأَهْلَ يَثْرِبَ لَا مُقَامَ لَكُمْ فَٱرْجِعُوا۟ ۚ وَيَسْتَـْٔذِنُ فَرِيقٌۭ مِّنْهُمُ ٱلنَّبِىَّ يَقُولُونَ إِنَّ بُيُوتَنَا عَوْرَةٌۭ وَمَا هِىَ بِعَوْرَةٍ ۖ إِن يُرِيدُونَ إِلَّا فِرَارًۭا
 
@@ -14738,15 +14738,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَلَقَدْ كَانُوا۟ عَٰهَدُوا۟ ٱللَّهَ مِن قَبْلُ لَا يُوَلُّونَ ٱلْأَدْبَٰرَ ۚ وَكَانَ عَهْدُ ٱللَّهِ مَسْـُٔولًۭا
 
-**33:16** Ka ce, "Gudu ba zai amfanar ku ba, idan kun guji mutuwa ko kisa, ko a lokacin ma ba za a ba ku ba sai ɗan jin daɗi kaɗan."
+**33:16** Ka ce, “Gudu ba zai amfanar ku ba, idan kun guji mutuwa ko kisa, ko a lokacin ma ba za a ba ku ba sai ɗan jin daɗi kaɗan.”
 
 قُل لَّن يَنفَعَكُمُ ٱلْفِرَارُ إِن فَرَرْتُم مِّنَ ٱلْمَوْتِ أَوِ ٱلْقَتْلِ وَإِذًۭا لَّا تُمَتَّعُونَ إِلَّا قَلِيلًۭا
 
-**33:17** Ka ce, "Wane ne zai kare ku daga Allah, idan Ya nufi wahala gare ku, ko Ya nufi rahama gare ku?" Banda Allah, ba za su sami aboki ko mai taimako ba ga kansu.
+**33:17** Ka ce, “Wane ne zai kare ku daga Allah, idan Ya nufi wahala gare ku, ko Ya nufi rahama gare ku?” Banda Allah, ba za su sami aboki ko mai taimako ba ga kansu.
 
 قُلْ مَن ذَا ٱلَّذِى يَعْصِمُكُم مِّنَ ٱللَّهِ إِنْ أَرَادَ بِكُمْ سُوٓءًا أَوْ أَرَادَ بِكُمْ رَحْمَةًۭ ۚ وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيًّۭا وَلَا نَصِيرًۭا
 
-**33:18** Allah Ya riga Ya san masu hana mutane daga cikinku, da waɗanda suke ce wa ƴan'uwansu, "Ku zo ku haɗu da mu." Ba kasafai suke fita yaƙi ba.
+**33:18** Allah Ya riga Ya san masu hana mutane daga cikinku, da waɗanda suke ce wa ƴan'uwansu, “Ku zo ku haɗu da mu.” Ba kasafai suke fita yaƙi ba.
 
 ۞ قَدْ يَعْلَمُ ٱللَّهُ ٱلْمُعَوِّقِينَ مِنكُمْ وَٱلْقَآئِلِينَ لِإِخْوَٰنِهِمْ هَلُمَّ إِلَيْنَا ۖ وَلَا يَأْتُونَ ٱلْبَأْسَ إِلَّا قَلِيلًا
 
@@ -14762,7 +14762,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌۭ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْءَاخِرَ وَذَكَرَ ٱللَّهَ كَثِيرًۭا
 
-**33:22** Lokacin da masu imani suka ga ƙungiyoyin abokan gaba, suka ce, "Wannan shi ne abin da Allah da ManzonSa suka yi mana alkawari; Allah da ManzonSa sun faɗi gaskiya." Ya ƙara musu imani da miƙa wuya kaɗai.
+**33:22** Lokacin da masu imani suka ga ƙungiyoyin abokan gaba, suka ce, “Wannan shi ne abin da Allah da ManzonSa suka yi mana alkawari; Allah da ManzonSa sun faɗi gaskiya.” Ya ƙara musu imani da miƙa wuya kaɗai.
 
 وَلَمَّا رَءَا ٱلْمُؤْمِنُونَ ٱلْأَحْزَابَ قَالُوا۟ هَٰذَا مَا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥ وَصَدَقَ ٱللَّهُ وَرَسُولُهُۥ ۚ وَمَا زَادَهُمْ إِلَّآ إِيمَٰنًۭا وَتَسْلِيمًۭا
 
@@ -14786,11 +14786,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَٰرَهُمْ وَأَمْوَٰلَهُمْ وَأَرْضًۭا لَّمْ تَطَـُٔوهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرًۭا
 
-**33:28** Ya Annabi! Ka ce wa matanka, "Idan kuna son rayuwar duniya da ƙawarta, ku zo in ba ku abin rama ku, in sake ku cikin kyau.
+**33:28** Ya Annabi! Ka ce wa matanka, “Idan kuna son rayuwar duniya da ƙawarta, ku zo in ba ku abin rama ku, in sake ku cikin kyau.
 
 يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ إِن كُنتُنَّ تُرِدْنَ ٱلْحَيَوٰةَ ٱلدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ أُمَتِّعْكُنَّ وَأُسَرِّحْكُنَّ سَرَاحًۭا جَمِيلًۭا
 
-**33:29** Amma idan kuna son Allah, da ManzonSa, da Gidan Lahira, Allah Ya shirya wa masu kyautatawa daga cikinku babban sakamako."
+**33:29** Amma idan kuna son Allah, da ManzonSa, da Gidan Lahira, Allah Ya shirya wa masu kyautatawa daga cikinku babban sakamako.”
 
 وَإِن كُنتُنَّ تُرِدْنَ ٱللَّهَ وَرَسُولَهُۥ وَٱلدَّارَ ٱلْءَاخِرَةَ فَإِنَّ ٱللَّهَ أَعَدَّ لِلْمُحْسِنَٰتِ مِنكُنَّ أَجْرًا عَظِيمًۭا
 
@@ -14822,7 +14822,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَمَا كَانَ لِمُؤْمِنٍۢ وَلَا مُؤْمِنَةٍ إِذَا قَضَى ٱللَّهُ وَرَسُولُهُۥٓ أَمْرًا أَن يَكُونَ لَهُمُ ٱلْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ ضَلَّ ضَلَٰلًۭا مُّبِينًۭا
 
-**33:37** Lokacin da ka ce wa wanda Allah Ya yi masa ni'ima, kai ma ka yi masa alheri, "Ka riƙe matarka a wurinka, ka ji tsoron Allah." Amma ka ɓoye a ranka abin da Allah zai bayyana. Ka ji tsoron mutane, alhali Allah Shi ne ya kamata ka ji tsoro. Sa'an nan lokacin da Zaidu ya ƙare dangantakarsa da ita, Mu aura maka ita, domin kada a sami takura ga masu imani game da matan ƴaƴansu na riƙo, idan dangantakarsu ta ƙare. Umarnin Allah ya cika.
+**33:37** Lokacin da ka ce wa wanda Allah Ya yi masa ni'ima, kai ma ka yi masa alheri, “Ka riƙe matarka a wurinka, ka ji tsoron Allah.” Amma ka ɓoye a ranka abin da Allah zai bayyana. Ka ji tsoron mutane, alhali Allah Shi ne ya kamata ka ji tsoro. Sa'an nan lokacin da Zaidu ya ƙare dangantakarsa da ita, Mu aura maka ita, domin kada a sami takura ga masu imani game da matan ƴaƴansu na riƙo, idan dangantakarsu ta ƙare. Umarnin Allah ya cika.
 
 وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌۭ مِّنْهَا وَطَرًۭا زَوَّجْنَٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌۭ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًۭا ۚ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًۭا
 
@@ -14850,7 +14850,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 هُوَ ٱلَّذِى يُصَلِّى عَلَيْكُمْ وَمَلَٰٓئِكَتُهُۥ لِيُخْرِجَكُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ ۚ وَكَانَ بِٱلْمُؤْمِنِينَ رَحِيمًۭا
 
-**33:44** Gaisuwarsu a Ranar da za su haɗu da Shi ita ce, "Salama," Ya shirya musu sakamako mai karimci.
+**33:44** Gaisuwarsu a Ranar da za su haɗu da Shi ita ce, “Salama,” Ya shirya musu sakamako mai karimci.
 
 تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُۥ سَلَٰمٌۭ ۚ وَأَعَدَّ لَهُمْ أَجْرًۭا كَرِيمًۭا
 
@@ -14926,7 +14926,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْا۟ مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًۭا
 
-**33:63** Mutane suna tambayarka game da Sa'a. Ka ce, "Iliminta a wurin Allah yake. Amma me ka sani? Watakila Sa'ar ta yi kusa."
+**33:63** Mutane suna tambayarka game da Sa'a. Ka ce, “Iliminta a wurin Allah yake. Amma me ka sani? Watakila Sa'ar ta yi kusa.”
 
 يَسْـَٔلُكَ ٱلنَّاسُ عَنِ ٱلسَّاعَةِ ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ ۚ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ تَكُونُ قَرِيبًا
 
@@ -14938,15 +14938,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 خَٰلِدِينَ فِيهَآ أَبَدًۭا ۖ لَّا يَجِدُونَ وَلِيًّۭا وَلَا نَصِيرًۭا
 
-**33:66** Ranar da za a juya fuskokinsu a cikin Wuta, za su ce, "Da mun bi Allah da mun bi Manzo.
+**33:66** Ranar da za a juya fuskokinsu a cikin Wuta, za su ce, “Da mun bi Allah da mun bi Manzo.
 
 يَوْمَ تُقَلَّبُ وُجُوهُهُمْ فِى ٱلنَّارِ يَقُولُونَ يَٰلَيْتَنَآ أَطَعْنَا ٱللَّهَ وَأَطَعْنَا ٱلرَّسُولَا۠
 
-**33:67** Za su ce, "Ubangiji, mun bi shugabanninmu da manyanmu, amma sun ɓatar da mu daga hanya.
+**33:67** Za su ce, “Ubangiji, mun bi shugabanninmu da manyanmu, amma sun ɓatar da mu daga hanya.
 
 وَقَالُوا۟ رَبَّنَآ إِنَّآ أَطَعْنَا سَادَتَنَا وَكُبَرَآءَنَا فَأَضَلُّونَا ٱلسَّبِيلَا۠
 
-**33:68** Ubangiji, Ka ba su azaba ninki biyu, Ka la'ane su da babbar la'ana."
+**33:68** Ubangiji, Ka ba su azaba ninki biyu, Ka la'ane su da babbar la'ana.”
 
 رَبَّنَآ ءَاتِهِمْ ضِعْفَيْنِ مِنَ ٱلْعَذَابِ وَٱلْعَنْهُمْ لَعْنًۭا كَبِيرًۭا
 
@@ -14990,7 +14990,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا ۚ وَهُوَ ٱلرَّحِيمُ ٱلْغَفُورُ
 
-**34:3** Waɗanda suka ƙi gaskiya suna cewa, "Sa'a ba za ta zo a kanmu ba." Ka ce, "I, wallahi da Ubangijina, za ta zo a kanku. Shi Masanin ɓoye ne." Nauyin ƙwaya ɗaya a sammai da ƙasa, ko abin da ya fi shi ƙanƙanta ko girma, ba ya ɓuya daga iliminSa. Duk suna cikin Rubutu bayyananne.
+**34:3** Waɗanda suka ƙi gaskiya suna cewa, “Sa'a ba za ta zo a kanmu ba.” Ka ce, “I, wallahi da Ubangijina, za ta zo a kanku. Shi Masanin ɓoye ne.” Nauyin ƙwaya ɗaya a sammai da ƙasa, ko abin da ya fi shi ƙanƙanta ko girma, ba ya ɓuya daga iliminSa. Duk suna cikin Rubutu bayyananne.
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَا تَأْتِينَا ٱلسَّاعَةُ ۖ قُلْ بَلَىٰ وَرَبِّى لَتَأْتِيَنَّكُمْ عَٰلِمِ ٱلْغَيْبِ ۖ لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍۢ فِى ٱلسَّمَٰوَٰتِ وَلَا فِى ٱلْأَرْضِ وَلَآ أَصْغَرُ مِن ذَٰلِكَ وَلَآ أَكْبَرُ إِلَّا فِى كِتَٰبٍۢ مُّبِينٍۢ
 
@@ -15006,11 +15006,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَيَرَى ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ ٱلَّذِىٓ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ هُوَ ٱلْحَقَّ وَيَهْدِىٓ إِلَىٰ صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ
 
-**34:7** Waɗanda suka ƙi gaskiya suka ce, "Mu nuna muku wani mutum, wanda zai ba ku labari cewa, idan an yayyage ku gunduwa-gunduwa, za ku kasance a cikin sabuwar halitta?
+**34:7** Waɗanda suka ƙi gaskiya suka ce, “Mu nuna muku wani mutum, wanda zai ba ku labari cewa, idan an yayyage ku gunduwa-gunduwa, za ku kasance a cikin sabuwar halitta?
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ هَلْ نَدُلُّكُمْ عَلَىٰ رَجُلٍۢ يُنَبِّئُكُمْ إِذَا مُزِّقْتُمْ كُلَّ مُمَزَّقٍ إِنَّكُمْ لَفِى خَلْقٍۢ جَدِيدٍ
 
-**34:8** Ya ƙirƙiri ƙarya a kan Allah ne, ko a cikinsa akwai hauka?" A'a, waɗanda ba sa yin imani da Lahira suna cikin azaba, da ɓata mai nisa.
+**34:8** Ya ƙirƙiri ƙarya a kan Allah ne, ko a cikinsa akwai hauka?” A'a, waɗanda ba sa yin imani da Lahira suna cikin azaba, da ɓata mai nisa.
 
 أَفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَم بِهِۦ جِنَّةٌۢ ۗ بَلِ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ فِى ٱلْعَذَابِ وَٱلضَّلَٰلِ ٱلْبَعِيدِ
 
@@ -15018,11 +15018,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 أَفَلَمْ يَرَوْا۟ إِلَىٰ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ ۚ إِن نَّشَأْ نَخْسِفْ بِهِمُ ٱلْأَرْضَ أَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًۭا مِّنَ ٱلسَّمَآءِ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ لِّكُلِّ عَبْدٍۢ مُّنِيبٍۢ
 
-**34:10** Mu ba Dauda falala daga gare Mu: "Ya ku duwatsu, da tsuntsaye: ku maimaita tare da shi." Mu sanya ƙarfe ya yi laushi gare shi.
+**34:10** Mu ba Dauda falala daga gare Mu: “Ya ku duwatsu, da tsuntsaye: ku maimaita tare da shi.” Mu sanya ƙarfe ya yi laushi gare shi.
 
 ۞ وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ مِنَّا فَضْلًۭا ۖ يَٰجِبَالُ أَوِّبِى مَعَهُۥ وَٱلطَّيْرَ ۖ وَأَلَنَّا لَهُ ٱلْحَدِيدَ
 
-**34:11** "Ka yi rigunan sulke, ka auna sarƙoƙi da kyau; ku aikata alheri. Ni Mai kallo ne ga duk abin da kuke aikatawa."
+**34:11** “Ka yi rigunan sulke, ka auna sarƙoƙi da kyau; ku aikata alheri. Ni Mai kallo ne ga duk abin da kuke aikatawa.”
 
 أَنِ ٱعْمَلْ سَٰبِغَٰتٍۢ وَقَدِّرْ فِى ٱلسَّرْدِ ۖ وَٱعْمَلُوا۟ صَٰلِحًا ۖ إِنِّى بِمَا تَعْمَلُونَ بَصِيرٌۭ
 
@@ -15030,7 +15030,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَلِسُلَيْمَٰنَ ٱلرِّيحَ غُدُوُّهَا شَهْرٌۭ وَرَوَاحُهَا شَهْرٌۭ ۖ وَأَسَلْنَا لَهُۥ عَيْنَ ٱلْقِطْرِ ۖ وَمِنَ ٱلْجِنِّ مَن يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِۦ ۖ وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا نُذِقْهُ مِنْ عَذَابِ ٱلسَّعِيرِ
 
-**34:13** Suna yi masa duk abin da yake so: wuraren bauta, gumaka, kwanuka kamar tafkuna, da tukwane masu nauyi. "Ya ku iyalin Dauda, ku yi aiki da godiya," amma kaɗan ne daga cikin bayina masu godiya.
+**34:13** Suna yi masa duk abin da yake so: wuraren bauta, gumaka, kwanuka kamar tafkuna, da tukwane masu nauyi. “Ya ku iyalin Dauda, ku yi aiki da godiya,” amma kaɗan ne daga cikin bayina masu godiya.
 
 يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٍۢ كَٱلْجَوَابِ وَقُدُورٍۢ رَّاسِيَٰتٍ ۚ ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًۭا ۚ وَقَلِيلٌۭ مِّنْ عِبَادِىَ ٱلشَّكُورُ
 
@@ -15038,7 +15038,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ
 
-**34:15** A cikin ƙasar Saba akwai abin mamaki: lambuna biyu, a dama, a hagu. "Ku ci daga arzikin Ubangijinku, ku gode Masa." Ƙasa mai kyau, da Ubangiji mai gafara.
+**34:15** A cikin ƙasar Saba akwai abin mamaki: lambuna biyu, a dama, a hagu. “Ku ci daga arzikin Ubangijinku, ku gode Masa.” Ƙasa mai kyau, da Ubangiji mai gafara.
 
 لَقَدْ كَانَ لِسَبَإٍۢ فِى مَسْكَنِهِمْ ءَايَةٌۭ ۖ جَنَّتَانِ عَن يَمِينٍۢ وَشِمَالٍۢ ۖ كُلُوا۟ مِن رِّزْقِ رَبِّكُمْ وَٱشْكُرُوا۟ لَهُۥ ۚ بَلْدَةٌۭ طَيِّبَةٌۭ وَرَبٌّ غَفُورٌۭ
 
@@ -15050,11 +15050,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ذَٰلِكَ جَزَيْنَٰهُم بِمَا كَفَرُوا۟ ۖ وَهَلْ نُجَٰزِىٓ إِلَّا ٱلْكَفُورَ
 
-**34:18** A tsakaninsu da biranen da Mu albarkace su, Mu sanya birane bayyanannu, Mu sanya tafiya a tsakaninsu mai sauƙi. "Ku yi tafiya a tsakaninsu da dare da rana, cikin aminci."
+**34:18** A tsakaninsu da biranen da Mu albarkace su, Mu sanya birane bayyanannu, Mu sanya tafiya a tsakaninsu mai sauƙi. “Ku yi tafiya a tsakaninsu da dare da rana, cikin aminci.”
 
 وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ ٱلْقُرَى ٱلَّتِى بَٰرَكْنَا فِيهَا قُرًۭى ظَٰهِرَةًۭ وَقَدَّرْنَا فِيهَا ٱلسَّيْرَ ۖ سِيرُوا۟ فِيهَا لَيَالِىَ وَأَيَّامًا ءَامِنِينَ
 
-**34:19** Amma suka ce, "Ubangijinmu, Ka tsawaita nisan tafiye-tafiyenmu." Suka zalunci kansu; sai Mu mayar da su tarihi, Mu watsa su a kowane wuri. A cikin haka akwai darussa ga kowane mai haƙuri mai godiya.
+**34:19** Amma suka ce, “Ubangijinmu, Ka tsawaita nisan tafiye-tafiyenmu.” Suka zalunci kansu; sai Mu mayar da su tarihi, Mu watsa su a kowane wuri. A cikin haka akwai darussa ga kowane mai haƙuri mai godiya.
 
 فَقَالُوا۟ رَبَّنَا بَٰعِدْ بَيْنَ أَسْفَارِنَا وَظَلَمُوٓا۟ أَنفُسَهُمْ فَجَعَلْنَٰهُمْ أَحَادِيثَ وَمَزَّقْنَٰهُمْ كُلَّ مُمَزَّقٍ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّكُلِّ صَبَّارٍۢ شَكُورٍۢ
 
@@ -15066,27 +15066,27 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَمَا كَانَ لَهُۥ عَلَيْهِم مِّن سُلْطَٰنٍ إِلَّا لِنَعْلَمَ مَن يُؤْمِنُ بِٱلْءَاخِرَةِ مِمَّنْ هُوَ مِنْهَا فِى شَكٍّۢ ۗ وَرَبُّكَ عَلَىٰ كُلِّ شَىْءٍ حَفِيظٌۭ
 
-**34:22** Ka ce, "Ku kira waɗanda kuke da'awa ba Allah ba. Ba su mallaki nauyin ƙwaya ɗaya a sammai ko a ƙasa ba, ba su da wani rabo a cikin ɗayan su ba, Shi ba Ya da masu goyon baya daga cikinsu."
+**34:22** Ka ce, “Ku kira waɗanda kuke da'awa ba Allah ba. Ba su mallaki nauyin ƙwaya ɗaya a sammai ko a ƙasa ba, ba su da wani rabo a cikin ɗayan su ba, Shi ba Ya da masu goyon baya daga cikinsu.”
 
 قُلِ ٱدْعُوا۟ ٱلَّذِينَ زَعَمْتُم مِّن دُونِ ٱللَّهِ ۖ لَا يَمْلِكُونَ مِثْقَالَ ذَرَّةٍۢ فِى ٱلسَّمَٰوَٰتِ وَلَا فِى ٱلْأَرْضِ وَمَا لَهُمْ فِيهِمَا مِن شِرْكٍۢ وَمَا لَهُۥ مِنْهُم مِّن ظَهِيرٍۢ
 
-**34:23** Ceto a wurinSa ba ya da amfani, sai ga wanda Ya ba shi izini. Har lokacin da tsoro ya gushe daga zukãtansu, za su ce, "Me Ubangijinku ya ce?" Za su ce, "Gaskiya, Shi Maɗaukaki ne, Babba."
+**34:23** Ceto a wurinSa ba ya da amfani, sai ga wanda Ya ba shi izini. Har lokacin da tsoro ya gushe daga zukãtansu, za su ce, “Me Ubangijinku ya ce?” Za su ce, “Gaskiya, Shi Maɗaukaki ne, Babba.”
 
 وَلَا تَنفَعُ ٱلشَّفَٰعَةُ عِندَهُۥٓ إِلَّا لِمَنْ أَذِنَ لَهُۥ ۚ حَتَّىٰٓ إِذَا فُزِّعَ عَن قُلُوبِهِمْ قَالُوا۟ مَاذَا قَالَ رَبُّكُمْ ۖ قَالُوا۟ ٱلْحَقَّ ۖ وَهُوَ ٱلْعَلِىُّ ٱلْكَبِيرُ
 
-**34:24** Ka ce, "Wane ne yake azurta ku daga sammai da ƙasa?" Ka ce, "Allah. Ko mu, ko ku, muna kan shiriya madaidaiciya, ko a cikin ɓata bayyananna."
+**34:24** Ka ce, “Wane ne yake azurta ku daga sammai da ƙasa?” Ka ce, “Allah. Ko mu, ko ku, muna kan shiriya madaidaiciya, ko a cikin ɓata bayyananna.”
 
 ۞ قُلْ مَن يَرْزُقُكُم مِّنَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ قُلِ ٱللَّهُ ۖ وَإِنَّآ أَوْ إِيَّاكُمْ لَعَلَىٰ هُدًى أَوْ فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
-**34:25** Ka ce, "Ba za a tambaye ku game da laifukanmu ba, ba za a tambaye mu game da abin da kuke aikatawa ba."
+**34:25** Ka ce, “Ba za a tambaye ku game da laifukanmu ba, ba za a tambaye mu game da abin da kuke aikatawa ba.”
 
 قُل لَّا تُسْـَٔلُونَ عَمَّآ أَجْرَمْنَا وَلَا نُسْـَٔلُ عَمَّا تَعْمَلُونَ
 
-**34:26** Ka ce, "Ubangijinmu zai tara mu tare; sa'an nan zai yi hukunci a tsakaninmu da adalci. Shi Alƙali Masani ne na kome."
+**34:26** Ka ce, “Ubangijinmu zai tara mu tare; sa'an nan zai yi hukunci a tsakaninmu da adalci. Shi Alƙali Masani ne na kome.”
 
 قُلْ يَجْمَعُ بَيْنَنَا رَبُّنَا ثُمَّ يَفْتَحُ بَيْنَنَا بِٱلْحَقِّ وَهُوَ ٱلْفَتَّاحُ ٱلْعَلِيمُ
 
-**34:27** Ka ce, "Ku nuna Mini waɗanda kuka haɗa da Shi a matsayin abokan tarayya. A'a! Amma Shi Allah ne, Mai iko, Mai hikima."
+**34:27** Ka ce, “Ku nuna Mini waɗanda kuka haɗa da Shi a matsayin abokan tarayya. A'a! Amma Shi Allah ne, Mai iko, Mai hikima.”
 
 قُلْ أَرُونِىَ ٱلَّذِينَ أَلْحَقْتُم بِهِۦ شُرَكَآءَ ۖ كَلَّا ۚ بَلْ هُوَ ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
@@ -15094,35 +15094,35 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَمَآ أَرْسَلْنَٰكَ إِلَّا كَآفَّةًۭ لِّلنَّاسِ بَشِيرًۭا وَنَذِيرًۭا وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
-**34:29** Suna cewa, "Yaushe ne wannan alkawarin zai cika, idan kun kasance masu gaskiya?"
+**34:29** Suna cewa, “Yaushe ne wannan alkawarin zai cika, idan kun kasance masu gaskiya?”
 
 وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
 
-**34:30** Ka ce, "Ana yi muku alkawarin Rana, wadda ba za ku iya jinkirta ta da awa ɗaya ba, ba za ku iya gabatar da ita ba."
+**34:30** Ka ce, “Ana yi muku alkawarin Rana, wadda ba za ku iya jinkirta ta da awa ɗaya ba, ba za ku iya gabatar da ita ba.”
 
 قُل لَّكُم مِّيعَادُ يَوْمٍۢ لَّا تَسْتَـْٔخِرُونَ عَنْهُ سَاعَةًۭ وَلَا تَسْتَقْدِمُونَ
 
-**34:31** Waɗanda suka ƙi gaskiya suna cewa, "Ba za mu taɓa yin imani da wannan Alƙur'ani ba, ko da abin da ya zo a gabansa." Da za ka ga azzalumai, ana tsare su a gaban Ubangijinsu, suna mayar da zargi ga juna. Waɗanda aka wulaƙanta za su ce wa waɗanda suka yi girman kai, "Da ba dominku ba, da mun kasance masu imani."
+**34:31** Waɗanda suka ƙi gaskiya suna cewa, “Ba za mu taɓa yin imani da wannan Alƙur'ani ba, ko da abin da ya zo a gabansa.” Da za ka ga azzalumai, ana tsare su a gaban Ubangijinsu, suna mayar da zargi ga juna. Waɗanda aka wulaƙanta za su ce wa waɗanda suka yi girman kai, “Da ba dominku ba, da mun kasance masu imani.”
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَن نُّؤْمِنَ بِهَٰذَا ٱلْقُرْءَانِ وَلَا بِٱلَّذِى بَيْنَ يَدَيْهِ ۗ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ مَوْقُوفُونَ عِندَ رَبِّهِمْ يَرْجِعُ بَعْضُهُمْ إِلَىٰ بَعْضٍ ٱلْقَوْلَ يَقُولُ ٱلَّذِينَ ٱسْتُضْعِفُوا۟ لِلَّذِينَ ٱسْتَكْبَرُوا۟ لَوْلَآ أَنتُمْ لَكُنَّا مُؤْمِنِينَ
 
-**34:32** Waɗanda suka yi girman kai za su ce wa waɗanda aka wulaƙanta, "Mu ne muka hana ku shiriya lokacin da ta zo muku? A'a, ku kanku kun kasance masu laifi."
+**34:32** Waɗanda suka yi girman kai za su ce wa waɗanda aka wulaƙanta, “Mu ne muka hana ku shiriya lokacin da ta zo muku? A'a, ku kanku kun kasance masu laifi.”
 
 قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوا۟ لِلَّذِينَ ٱسْتُضْعِفُوٓا۟ أَنَحْنُ صَدَدْنَٰكُمْ عَنِ ٱلْهُدَىٰ بَعْدَ إِذْ جَآءَكُم ۖ بَلْ كُنتُم مُّجْرِمِينَ
 
-**34:33** Waɗanda aka wulaƙanta za su ce wa waɗanda suka yi girman kai, "Makircinku ne da dare da rana; lokacin da kuke umartarmu mu ƙi Allah, mu sanya masa abokan hamayya." Za su ɓoye nadamarsu idan suka ga azaba. Za Mu sanya sarƙoƙi a wuyoyinsu waɗanda suka ƙi gaskiya. Za a saka musu da wani abu sai abin da suka kasance suna aikatawa?
+**34:33** Waɗanda aka wulaƙanta za su ce wa waɗanda suka yi girman kai, “Makircinku ne da dare da rana; lokacin da kuke umartarmu mu ƙi Allah, mu sanya masa abokan hamayya.” Za su ɓoye nadamarsu idan suka ga azaba. Za Mu sanya sarƙoƙi a wuyoyinsu waɗanda suka ƙi gaskiya. Za a saka musu da wani abu sai abin da suka kasance suna aikatawa?
 
 وَقَالَ ٱلَّذِينَ ٱسْتُضْعِفُوا۟ لِلَّذِينَ ٱسْتَكْبَرُوا۟ بَلْ مَكْرُ ٱلَّيْلِ وَٱلنَّهَارِ إِذْ تَأْمُرُونَنَآ أَن نَّكْفُرَ بِٱللَّهِ وَنَجْعَلَ لَهُۥٓ أَندَادًۭا ۚ وَأَسَرُّوا۟ ٱلنَّدَامَةَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ وَجَعَلْنَا ٱلْأَغْلَٰلَ فِىٓ أَعْنَاقِ ٱلَّذِينَ كَفَرُوا۟ ۚ هَلْ يُجْزَوْنَ إِلَّا مَا كَانُوا۟ يَعْمَلُونَ
 
-**34:34** Ba Mu aiko mai gargaɗi ga wani birni ba, sai masu arzikinta suka ce, "Mu mun ƙi abin da aka aiko ku da shi."
+**34:34** Ba Mu aiko mai gargaɗi ga wani birni ba, sai masu arzikinta suka ce, “Mu mun ƙi abin da aka aiko ku da shi.”
 
 وَمَآ أَرْسَلْنَا فِى قَرْيَةٍۢ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ إِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَٰفِرُونَ
 
-**34:35** Suna cewa, "Muna da dukiya mai yawa da ƴaƴa masu yawa, ba za a azabtar da mu ba."
+**34:35** Suna cewa, “Muna da dukiya mai yawa da ƴaƴa masu yawa, ba za a azabtar da mu ba.”
 
 وَقَالُوا۟ نَحْنُ أَكْثَرُ أَمْوَٰلًۭا وَأَوْلَٰدًۭا وَمَا نَحْنُ بِمُعَذَّبِينَ
 
-**34:36** Ka ce, "Ubangijina Yana faɗaɗa arzikinSa ga wanda Ya so, ko Ya ƙuntata shi; amma yawancin mutane ba su sani ba."
+**34:36** Ka ce, “Ubangijina Yana faɗaɗa arzikinSa ga wanda Ya so, ko Ya ƙuntata shi; amma yawancin mutane ba su sani ba.”
 
 قُلْ إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
@@ -15134,23 +15134,23 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَٱلَّذِينَ يَسْعَوْنَ فِىٓ ءَايَٰتِنَا مُعَٰجِزِينَ أُو۟لَٰٓئِكَ فِى ٱلْعَذَابِ مُحْضَرُونَ
 
-**34:39** Ka ce, "Ubangijina Yana faɗaɗa arziki ga wanda Ya so daga cikin bayinSa, ko Ya riƙe shi. Duk abin da kuka kashe, zai maye gurbinsa. Shi ne Mafi alherin masu arziki."
+**34:39** Ka ce, “Ubangijina Yana faɗaɗa arziki ga wanda Ya so daga cikin bayinSa, ko Ya riƙe shi. Duk abin da kuka kashe, zai maye gurbinsa. Shi ne Mafi alherin masu arziki.”
 
 قُلْ إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَهُۥ ۚ وَمَآ أَنفَقْتُم مِّن شَىْءٍۢ فَهُوَ يُخْلِفُهُۥ ۖ وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ
 
-**34:40** A Ranar da zai tara su duka tare, sa'an nan Ya ce wa mala'iku, "Ku ne waɗannan suke bauta wa?"
+**34:40** A Ranar da zai tara su duka tare, sa'an nan Ya ce wa mala'iku, “Ku ne waɗannan suke bauta wa?”
 
 وَيَوْمَ يَحْشُرُهُمْ جَمِيعًۭا ثُمَّ يَقُولُ لِلْمَلَٰٓئِكَةِ أَهَٰٓؤُلَآءِ إِيَّاكُمْ كَانُوا۟ يَعْبُدُونَ
 
-**34:41** Za su ce, "Tsarki ya tabbata gare Ka; Kai ne Maigidanmu, ba su ba. A'a, sun kasance suna bauta wa aljanu, yawancinsu sun yi imani da su."
+**34:41** Za su ce, “Tsarki ya tabbata gare Ka; Kai ne Maigidanmu, ba su ba. A'a, sun kasance suna bauta wa aljanu, yawancinsu sun yi imani da su.”
 
 قَالُوا۟ سُبْحَٰنَكَ أَنتَ وَلِيُّنَا مِن دُونِهِم ۖ بَلْ كَانُوا۟ يَعْبُدُونَ ٱلْجِنَّ ۖ أَكْثَرُهُم بِهِم مُّؤْمِنُونَ
 
-**34:42** "A yau, babu wani daga cikinku da yake da ikon amfani ko cutar da wani." Za Mu ce wa waɗanda suka yi zalunci, "Ku ɗanɗani azabar Wutar da kuka kasance kuna ƙaryatawa."
+**34:42** “A yau, babu wani daga cikinku da yake da ikon amfani ko cutar da wani.” Za Mu ce wa waɗanda suka yi zalunci, “Ku ɗanɗani azabar Wutar da kuka kasance kuna ƙaryatawa.”
 
 فَٱلْيَوْمَ لَا يَمْلِكُ بَعْضُكُمْ لِبَعْضٍۢ نَّفْعًۭا وَلَا ضَرًّۭا وَنَقُولُ لِلَّذِينَ ظَلَمُوا۟ ذُوقُوا۟ عَذَابَ ٱلنَّارِ ٱلَّتِى كُنتُم بِهَا تُكَذِّبُونَ
 
-**34:43** Idan aka karanta musu ayoyinMu masu haske, sai su ce, "Wannan ba komai ba ne sai mutum da yake son ya karkatar da ku daga abin da kakanninku suke bauta wa." Suna cewa, "Wannan ba komai ba ne sai ƙarya da aka ƙirƙira." Idan Gaskiya ta zo musu, kafirai suna cewa game da Gaskiya, "Wannan ba komai ba ne sai sihiri bayyananne."
+**34:43** Idan aka karanta musu ayoyinMu masu haske, sai su ce, “Wannan ba komai ba ne sai mutum da yake son ya karkatar da ku daga abin da kakanninku suke bauta wa.” Suna cewa, “Wannan ba komai ba ne sai ƙarya da aka ƙirƙira.” Idan Gaskiya ta zo musu, kafirai suna cewa game da Gaskiya, “Wannan ba komai ba ne sai sihiri bayyananne.”
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ قَالُوا۟ مَا هَٰذَآ إِلَّا رَجُلٌۭ يُرِيدُ أَن يَصُدَّكُمْ عَمَّا كَانَ يَعْبُدُ ءَابَآؤُكُمْ وَقَالُوا۟ مَا هَٰذَآ إِلَّآ إِفْكٌۭ مُّفْتَرًۭى ۚ وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلْحَقِّ لَمَّا جَآءَهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌۭ
 
@@ -15162,23 +15162,23 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَكَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ وَمَا بَلَغُوا۟ مِعْشَارَ مَآ ءَاتَيْنَٰهُمْ فَكَذَّبُوا۟ رُسُلِى ۖ فَكَيْفَ كَانَ نَكِيرِ
 
-**34:46** Ka ce, "Ina ba ku shawara ɗaya: ku keɓanta kanku ga Allah, bibbiyu, ko ɗaya-ɗaya; ku yi tunani. Babu hauka a cikin abokinku. Shi mai gargaɗi ne kawai gare ku, kafin zuwan azaba mai tsanani."
+**34:46** Ka ce, “Ina ba ku shawara ɗaya: ku keɓanta kanku ga Allah, bibbiyu, ko ɗaya-ɗaya; ku yi tunani. Babu hauka a cikin abokinku. Shi mai gargaɗi ne kawai gare ku, kafin zuwan azaba mai tsanani.”
 
 ۞ قُلْ إِنَّمَآ أَعِظُكُم بِوَٰحِدَةٍ ۖ أَن تَقُومُوا۟ لِلَّهِ مَثْنَىٰ وَفُرَٰدَىٰ ثُمَّ تَتَفَكَّرُوا۟ ۚ مَا بِصَاحِبِكُم مِّن جِنَّةٍ ۚ إِنْ هُوَ إِلَّا نَذِيرٌۭ لَّكُم بَيْنَ يَدَىْ عَذَابٍۢ شَدِيدٍۢ
 
-**34:47** Ka ce, "Duk wani sakamako da na roƙe ku, naku ne. Sakamakona daga Allah ne kaɗai, Shi Shaida ne a kan dukkan abubuwa."
+**34:47** Ka ce, “Duk wani sakamako da na roƙe ku, naku ne. Sakamakona daga Allah ne kaɗai, Shi Shaida ne a kan dukkan abubuwa.”
 
 قُلْ مَا سَأَلْتُكُم مِّنْ أَجْرٍۢ فَهُوَ لَكُمْ ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدٌۭ
 
-**34:48** Ka ce, "Ubangijina Yana jefa gaskiya. Shi Masanin ɓoye ne."
+**34:48** Ka ce, “Ubangijina Yana jefa gaskiya. Shi Masanin ɓoye ne.”
 
 قُلْ إِنَّ رَبِّى يَقْذِفُ بِٱلْحَقِّ عَلَّٰمُ ٱلْغُيُوبِ
 
-**34:49** Ka ce, "Gaskiya ta zo; ƙarya ba za ta iya farawa ba, ba za ta iya sake farawa ba."
+**34:49** Ka ce, “Gaskiya ta zo; ƙarya ba za ta iya farawa ba, ba za ta iya sake farawa ba.”
 
 قُلْ جَآءَ ٱلْحَقُّ وَمَا يُبْدِئُ ٱلْبَٰطِلُ وَمَا يُعِيدُ
 
-**34:50** Ka ce, "Idan na yi kuskure, ina yin kuskure ne ga asarata kaɗai; amma idan na shiryu, da abin da Ubangijina Ya yi mini wahayi ne. Shi Mai ji ne, Kusa."
+**34:50** Ka ce, “Idan na yi kuskure, ina yin kuskure ne ga asarata kaɗai; amma idan na shiryu, da abin da Ubangijina Ya yi mini wahayi ne. Shi Mai ji ne, Kusa.”
 
 قُلْ إِن ضَلَلْتُ فَإِنَّمَآ أَضِلُّ عَلَىٰ نَفْسِى ۖ وَإِنِ ٱهْتَدَيْتُ فَبِمَا يُوحِىٓ إِلَىَّ رَبِّىٓ ۚ إِنَّهُۥ سَمِيعٌۭ قَرِيبٌۭ
 
@@ -15186,7 +15186,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَلَوْ تَرَىٰٓ إِذْ فَزِعُوا۟ فَلَا فَوْتَ وَأُخِذُوا۟ مِن مَّكَانٍۢ قَرِيبٍۢ
 
-**34:52** Suna cewa, "Mun yi imani da shi." Amma ta yaya za su kai gare shi daga wuri mai nisa?
+**34:52** Suna cewa, “Mun yi imani da shi.” Amma ta yaya za su kai gare shi daga wuri mai nisa?
 
 وَقَالُوٓا۟ ءَامَنَّا بِهِۦ وَأَنَّىٰ لَهُمُ ٱلتَّنَاوُشُ مِن مَّكَانٍۭ بَعِيدٍۢ
 
@@ -15342,11 +15342,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 جَنَّٰتُ عَدْنٍۢ يَدْخُلُونَهَا يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍۢ وَلُؤْلُؤًۭا ۖ وَلِبَاسُهُمْ فِيهَا حَرِيرٌۭ
 
-**35:34** Za su ce, "Godiya ta tabbata ga Allah, wanda Ya kawar da dukkan baƙin ciki daga gare mu. Ubangijinmu Mai gafara ne sosai, Mai godiya sosai.
+**35:34** Za su ce, “Godiya ta tabbata ga Allah, wanda Ya kawar da dukkan baƙin ciki daga gare mu. Ubangijinmu Mai gafara ne sosai, Mai godiya sosai.
 
 وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَذْهَبَ عَنَّا ٱلْحَزَنَ ۖ إِنَّ رَبَّنَا لَغَفُورٌۭ شَكُورٌ
 
-**35:35** Shi ne wanda Ya zaunar da mu a cikin Gidan Dindindin, da falalarSa, inda gundura ba za ta taɓa mu ba, gajiya ba za ta cutar da mu ba."
+**35:35** Shi ne wanda Ya zaunar da mu a cikin Gidan Dindindin, da falalarSa, inda gundura ba za ta taɓa mu ba, gajiya ba za ta cutar da mu ba.”
 
 ٱلَّذِىٓ أَحَلَّنَا دَارَ ٱلْمُقَامَةِ مِن فَضْلِهِۦ لَا يَمَسُّنَا فِيهَا نَصَبٌۭ وَلَا يَمَسُّنَا فِيهَا لُغُوبٌۭ
 
@@ -15354,7 +15354,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَٱلَّذِينَ كَفَرُوا۟ لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُوا۟ وَلَا يُخَفَّفُ عَنْهُم مِّنْ عَذَابِهَا ۚ كَذَٰلِكَ نَجْزِى كُلَّ كَفُورٍۢ
 
-**35:37** Za su yi ihu a cikinta, "Ubangijinmu, Ka fitar da mu, za mu aikata alheri, daban da yadda muka kasance muna aikatawa." Mu ba ku rayuwa mai tsayi isasshiya ba, wadda duk wanda yake son ya fahimta zai fahimta a cikinta? Mai gargaɗi ya zo muku. Ku ɗanɗana. Masu mugunta ba za su sami mai taimako ba.
+**35:37** Za su yi ihu a cikinta, “Ubangijinmu, Ka fitar da mu, za mu aikata alheri, daban da yadda muka kasance muna aikatawa.” Mu ba ku rayuwa mai tsayi isasshiya ba, wadda duk wanda yake son ya fahimta zai fahimta a cikinta? Mai gargaɗi ya zo muku. Ku ɗanɗana. Masu mugunta ba za su sami mai taimako ba.
 
 وَهُمْ يَصْطَرِخُونَ فِيهَا رَبَّنَآ أَخْرِجْنَا نَعْمَلْ صَٰلِحًا غَيْرَ ٱلَّذِى كُنَّا نَعْمَلُ ۚ أَوَلَمْ نُعَمِّرْكُم مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ وَجَآءَكُمُ ٱلنَّذِيرُ ۖ فَذُوقُوا۟ فَمَا لِلظَّٰلِمِينَ مِن نَّصِيرٍ
 
@@ -15366,7 +15366,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 هُوَ ٱلَّذِى جَعَلَكُمْ خَلَٰٓئِفَ فِى ٱلْأَرْضِ ۚ فَمَن كَفَرَ فَعَلَيْهِ كُفْرُهُۥ ۖ وَلَا يَزِيدُ ٱلْكَٰفِرِينَ كُفْرُهُمْ عِندَ رَبِّهِمْ إِلَّا مَقْتًۭا ۖ وَلَا يَزِيدُ ٱلْكَٰفِرِينَ كُفْرُهُمْ إِلَّا خَسَارًۭا
 
-**35:40** Ka ce, "Kun yi la'akari da abokan tarayyarku da kuke bauta wa maimakon Allah? Ku nuna Mini abin da suka halitta a ƙasa. Ko suna da wani rabo a sammai?" Ko Mu ba su wani littafi da suke bin bayyanannun koyarwarsa? A'a, azzalumai suna yi wa juna alkawari sai ruɗi kaɗai.
+**35:40** Ka ce, “Kun yi la'akari da abokan tarayyarku da kuke bauta wa maimakon Allah? Ku nuna Mini abin da suka halitta a ƙasa. Ko suna da wani rabo a sammai?” Ko Mu ba su wani littafi da suke bin bayyanannun koyarwarsa? A'a, azzalumai suna yi wa juna alkawari sai ruɗi kaɗai.
 
 قُلْ أَرَءَيْتُمْ شُرَكَآءَكُمُ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌۭ فِى ٱلسَّمَٰوَٰتِ أَمْ ءَاتَيْنَٰهُمْ كِتَٰبًۭا فَهُمْ عَلَىٰ بَيِّنَتٍۢ مِّنْهُ ۚ بَلْ إِن يَعِدُ ٱلظَّٰلِمُونَ بَعْضُهُم بَعْضًا إِلَّا غُرُورًا
 
@@ -15454,31 +15454,31 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَٱضْرِبْ لَهُم مَّثَلًا أَصْحَٰبَ ٱلْقَرْيَةِ إِذْ جَآءَهَا ٱلْمُرْسَلُونَ
 
-**36:14** Mu aiko musu manzanni biyu, amma sun ƙaryata su duka, sai Mu ƙarfafa su da na uku. Suka ce, "Mu manzanni ne gare ku."
+**36:14** Mu aiko musu manzanni biyu, amma sun ƙaryata su duka, sai Mu ƙarfafa su da na uku. Suka ce, “Mu manzanni ne gare ku.”
 
 إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ
 
-**36:15** Suka ce, "Ku ba komai ba ne sai mutane kamar mu, Mai rahama bai saukar da komai ba; kuna yin ƙarya ne kawai."
+**36:15** Suka ce, “Ku ba komai ba ne sai mutane kamar mu, Mai rahama bai saukar da komai ba; kuna yin ƙarya ne kawai.”
 
 قَالُوا۟ مَآ أَنتُمْ إِلَّا بَشَرٌۭ مِّثْلُنَا وَمَآ أَنزَلَ ٱلرَّحْمَٰنُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا تَكْذِبُونَ
 
-**36:16** Suka ce, "Ubangijinmu Ya san cewa mu manzanni ne gare ku.
+**36:16** Suka ce, “Ubangijinmu Ya san cewa mu manzanni ne gare ku.
 
 قَالُوا۟ رَبُّنَا يَعْلَمُ إِنَّآ إِلَيْكُمْ لَمُرْسَلُونَ
 
-**36:17** Aikinmu ba komai ba ne sai sadarwa bayyananna."
+**36:17** Aikinmu ba komai ba ne sai sadarwa bayyananna.”
 
 وَمَا عَلَيْنَآ إِلَّا ٱلْبَلَٰغُ ٱلْمُبِينُ
 
-**36:18** Suka ce, "Muna ganin mummunan al'amari a cikinku; idan ba ku daina ba, za mu jefe ku, azaba mai raɗaɗi daga gare mu za ta same ku."
+**36:18** Suka ce, “Muna ganin mummunan al'amari a cikinku; idan ba ku daina ba, za mu jefe ku, azaba mai raɗaɗi daga gare mu za ta same ku.”
 
 قَالُوٓا۟ إِنَّا تَطَيَّرْنَا بِكُمْ ۖ لَئِن لَّمْ تَنتَهُوا۟ لَنَرْجُمَنَّكُمْ وَلَيَمَسَّنَّكُم مِّنَّا عَذَابٌ أَلِيمٌۭ
 
-**36:19** Suka ce, "Mummunan al'amarinku a kanku yake. Shin domin an tuna muku ne? Amma ku mutane ne masu ɓarna."
+**36:19** Suka ce, “Mummunan al'amarinku a kanku yake. Shin domin an tuna muku ne? Amma ku mutane ne masu ɓarna.”
 
 قَالُوا۟ طَٰٓئِرُكُم مَّعَكُمْ ۚ أَئِن ذُكِّرْتُم ۚ بَلْ أَنتُمْ قَوْمٌۭ مُّسْرِفُونَ
 
-**36:20** Sa'an nan wani mutum ya zo yana gudu daga mafi nisan ɓangaren birnin. Ya ce, "Ya ku mutanena, ku bi manzanni.
+**36:20** Sa'an nan wani mutum ya zo yana gudu daga mafi nisan ɓangaren birnin. Ya ce, “Ya ku mutanena, ku bi manzanni.
 
 وَجَآءَ مِنْ أَقْصَا ٱلْمَدِينَةِ رَجُلٌۭ يَسْعَىٰ قَالَ يَٰقَوْمِ ٱتَّبِعُوا۟ ٱلْمُرْسَلِينَ
 
@@ -15486,7 +15486,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ٱتَّبِعُوا۟ مَن لَّا يَسْـَٔلُكُمْ أَجْرًۭا وَهُم مُّهْتَدُونَ
 
-**36:22** "Me ya sa ba zan bauta wa wanda Ya halicce ni ba, wanda za a mayar da ku gare Shi?
+**36:22** “Me ya sa ba zan bauta wa wanda Ya halicce ni ba, wanda za a mayar da ku gare Shi?
 
 وَمَا لِىَ لَآ أَعْبُدُ ٱلَّذِى فَطَرَنِى وَإِلَيْهِ تُرْجَعُونَ
 
@@ -15498,15 +15498,15 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 إِنِّىٓ إِذًۭا لَّفِى ضَلَٰلٍۢ مُّبِينٍ
 
-**36:25** Na yi imani da Ubangijinku, ku saurare ni."
+**36:25** Na yi imani da Ubangijinku, ku saurare ni.”
 
 إِنِّىٓ ءَامَنتُ بِرَبِّكُمْ فَٱسْمَعُونِ
 
-**36:26** Aka ce, "Ka shiga Aljanna." Ya ce, "Da mutanena sun sani.
+**36:26** Aka ce, “Ka shiga Aljanna.” Ya ce, “Da mutanena sun sani.
 
 قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَٰلَيْتَ قَوْمِى يَعْلَمُونَ
 
-**36:27** Yadda Ubangijina Ya gafarta mini, Ya sanya ni daga cikin waɗanda aka girmama."
+**36:27** Yadda Ubangijina Ya gafarta mini, Ya sanya ni daga cikin waɗanda aka girmama.”
 
 بِمَا غَفَرَ لِى رَبِّى وَجَعَلَنِى مِنَ ٱلْمُكْرَمِينَ
 
@@ -15578,7 +15578,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 إِلَّا رَحْمَةًۭ مِّنَّا وَمَتَٰعًا إِلَىٰ حِينٍۢ
 
-**36:45** Duk da haka idan aka ce musu, "Ku ji tsoron abin da yake gabanku, da abin da yake bayanku, domin watakila a yi muku rahama."
+**36:45** Duk da haka idan aka ce musu, “Ku ji tsoron abin da yake gabanku, da abin da yake bayanku, domin watakila a yi muku rahama.”
 
 وَإِذَا قِيلَ لَهُمُ ٱتَّقُوا۟ مَا بَيْنَ أَيْدِيكُمْ وَمَا خَلْفَكُمْ لَعَلَّكُمْ تُرْحَمُونَ
 
@@ -15586,11 +15586,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَمَا تَأْتِيهِم مِّنْ ءَايَةٍۢ مِّنْ ءَايَٰتِ رَبِّهِمْ إِلَّا كَانُوا۟ عَنْهَا مُعْرِضِينَ
 
-**36:47** Idan aka ce musu, "Ku kashe daga abin da Allah Ya azurta ku da shi," waɗanda suka ƙi gaskiya suna ce wa waɗanda suka yi imani, "Mu ciyar da wanda Allah zai iya ciyarwa, idan Ya so? Lalle ku ɓace kun yi nisa."
+**36:47** Idan aka ce musu, “Ku kashe daga abin da Allah Ya azurta ku da shi,” waɗanda suka ƙi gaskiya suna ce wa waɗanda suka yi imani, “Mu ciyar da wanda Allah zai iya ciyarwa, idan Ya so? Lalle ku ɓace kun yi nisa.”
 
 وَإِذَا قِيلَ لَهُمْ أَنفِقُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَنُطْعِمُ مَن لَّوْ يَشَآءُ ٱللَّهُ أَطْعَمَهُۥٓ إِنْ أَنتُمْ إِلَّا فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
-**36:48** Suna cewa, "Yaushe ne wannan alkawarin zai kasance, idan kun kasance masu gaskiya?"
+**36:48** Suna cewa, “Yaushe ne wannan alkawarin zai kasance, idan kun kasance masu gaskiya?”
 
 وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -15606,7 +15606,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَنُفِخَ فِى ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ
 
-**36:52** Za su ce, "Kaiconmu! Wa ya tashe mu daga wurin hutunmu?" Wannan shi ne abin da Mai rahama Ya yi alkawari, manzanni sun faɗi gaskiya."
+**36:52** Za su ce, “Kaiconmu! Wa ya tashe mu daga wurin hutunmu?” Wannan shi ne abin da Mai rahama Ya yi alkawari, manzanni sun faɗi gaskiya.”
 
 قَالُوا۟ يَٰوَيْلَنَا مَنۢ بَعَثَنَا مِن مَّرْقَدِنَا ۜ ۗ هَٰذَا مَا وَعَدَ ٱلرَّحْمَٰنُ وَصَدَقَ ٱلْمُرْسَلُونَ
 
@@ -15710,11 +15710,11 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 أَوَلَمْ يَرَ ٱلْإِنسَٰنُ أَنَّا خَلَقْنَٰهُ مِن نُّطْفَةٍۢ فَإِذَا هُوَ خَصِيمٌۭ مُّبِينٌۭ
 
-**36:78** Yana kawo hujjoji a kanMu, yana manta halittarsa. Yana cewa, "Wa zai rayar da ƙasusuwa idan sun ruɓe?"
+**36:78** Yana kawo hujjoji a kanMu, yana manta halittarsa. Yana cewa, “Wa zai rayar da ƙasusuwa idan sun ruɓe?”
 
 وَضَرَبَ لَنَا مَثَلًۭا وَنَسِىَ خَلْقَهُۥ ۖ قَالَ مَن يُحْىِ ٱلْعِظَٰمَ وَهِىَ رَمِيمٌۭ
 
-**36:79** Ka ce, "Wanda Ya fara su a karon farko zai rayar da su. Ya san kowace halitta."
+**36:79** Ka ce, “Wanda Ya fara su a karon farko zai rayar da su. Ya san kowace halitta.”
 
 قُلْ يُحْيِيهَا ٱلَّذِىٓ أَنشَأَهَآ أَوَّلَ مَرَّةٍۢ ۖ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ
 
@@ -15726,7 +15726,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 أَوَلَيْسَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِقَٰدِرٍ عَلَىٰٓ أَن يَخْلُقَ مِثْلَهُم ۚ بَلَىٰ وَهُوَ ٱلْخَلَّٰقُ ٱلْعَلِيمُ
 
-**36:82** UmarninSa, idan Ya so abu, shi ne Ya ce masa, "Kasance," sai ya kasance.
+**36:82** UmarninSa, idan Ya so abu, shi ne Ya ce masa, “Kasance,” sai ya kasance.
 
 إِنَّمَآ أَمْرُهُۥٓ إِذَآ أَرَادَ شَيْـًٔا أَن يَقُولَ لَهُۥ كُن فَيَكُونُ
 
