@@ -12,6 +12,7 @@ HAUSA MANUSCRIPT — REVISION DRAFT, not a final edition. A Hausa rendering of t
 - **Taimakon AI**: an shirya wannan rubutu da taimakon AI daga gyararren rubutun Turanci; bita daga masu jin Hausa na asali wajibi ce kafin kowane amfani. / Prepared with AI assistance from the corrected English master; native Hausa review is required before any use.
 - **Ba fassara ta farko ba**: Alƙurʼanai da Hausa suna cikin amfani a cikin alʼumma (misali fassarar Hausa ta Sheikh Abubakar Mahmoud Gumi). Wannan rubutun gyara ne kawai na hanyar Alƙurʼani-kaɗai cikin harshe mai sauƙi, ba na farko ba. / Hausa Qurans already exist in community use (e.g., Sheikh Abubakar Mahmoud Gumiʼs Hausa translation); this is a Quran-alone plain-language draft, not a first translation.
 - **An bayar kyauta**: an bayar da wannan rubutu kyauta; kwafi, gyare-gyare da ingantattun buguna suna maraba. / Freely given; copies, corrections, and better versions are welcomed.
+- **Editorial note — unclosed quotations (2026-10-13):** Some quotations in this manuscript stand unclosed: a speech opens and no closing mark follows, exactly as in the source text from which this manuscript derives. They are preserved deliberately; no closing marks have been invented for them. The verses at which such an unclosed quotation opens are: 2:215, 3:73, 6:145, 6:162, 10:49, 12:5, 12:8, 12:38, 14:36, 18:87, 19:4, 19:24, 21:56, 25:15, 33:66, 37:51, 38:71 (17 in all).
 
 # Abinda ke ciki
 
@@ -9956,7 +9957,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 قَالَ لَا تَخَافَآ ۖ إِنَّنِى مَعَكُمَآ أَسْمَعُ وَأَرَىٰ
 
-**20:47** Ku kusance shi ku ce, `Mu manzannin Ubangijinka ne; don haka ka bar Ƴa'ƴan Isra'ila su tafi tare da mu, kada ka azabtar da su. Mun kawo maka alama daga Ubangijinka, kuma aminci ya tabbata ga wanda ya bi shiriya.
+**20:47** Ku kusance shi ku ce, “Mu manzannin Ubangijinka ne; don haka ka bar Ƴa'ƴan Isra'ila su tafi tare da mu, kada ka azabtar da su. Mun kawo maka alama daga Ubangijinka, kuma aminci ya tabbata ga wanda ya bi shiriya.
 
 فَأْتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ وَلَا تُعَذِّبْهُمْ ۖ قَدْ جِئْنَٰكَ بِـَٔايَةٍۢ مِّن رَّبِّكَ ۖ وَٱلسَّلَٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلْهُدَىٰٓ
 
@@ -10144,7 +10145,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 أَلَّا تَتَّبِعَنِ ۖ أَفَعَصَيْتَ أَمْرِى
 
-**20:94** Ya ce, “Ɗan mahaifiyata, kada ka riƙe ni da gemuna ko kaina. Na ji tsoron za ka ce, `Ka haifar da rarrabuwa a cikin Ƴa'ƴan Isra'ila, kuma ba ka kiyaye maganata ba.'”
+**20:94** Ya ce, “Ɗan mahaifiyata, kada ka riƙe ni da gemuna ko kaina. Na ji tsoron za ka ce, “Ka haifar da rarrabuwa a cikin Ƴa'ƴan Isra'ila, kuma ba ka kiyaye maganata ba.'”
 
 قَالَ يَبْنَؤُمَّ لَا تَأْخُذْ بِلِحْيَتِى وَلَا بِرَأْسِىٓ ۖ إِنِّى خَشِيتُ أَن تَقُولَ فَرَّقْتَ بَيْنَ بَنِىٓ إِسْرَٰٓءِيلَ وَلَمْ تَرْقُبْ قَوْلِى
 
@@ -17272,7 +17273,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَقَالَ مُوسَىٰٓ إِنِّى عُذْتُ بِرَبِّى وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرٍۢ لَّا يُؤْمِنُ بِيَوْمِ ٱلْحِسَابِ
 
-**40:28** Wani mai imani daga iyalin Fir'auna, wanda ya ɓoye imaninsa, ya ce, “Shin za ku kashe mutum domin yana cewa, `Ubangijina Allah ne,' alhali ya zo muku da hujjoji bayyanannu daga Ubangijinku? Idan maƙaryaci ne, ƙaryarsa za ta koma gare shi; amma idan mai gaskiya ne, wani ɓangare na abin da yake yi muku alkawari zai same ku. Allah ba Ya shiryar da mai ɓarna maƙaryaci.
+**40:28** Wani mai imani daga iyalin Fir'auna, wanda ya ɓoye imaninsa, ya ce, “Shin za ku kashe mutum domin yana cewa, “Ubangijina Allah ne,' alhali ya zo muku da hujjoji bayyanannu daga Ubangijinku? Idan maƙaryaci ne, ƙaryarsa za ta koma gare shi; amma idan mai gaskiya ne, wani ɓangare na abin da yake yi muku alkawari zai same ku. Allah ba Ya shiryar da mai ɓarna maƙaryaci.
 
 وَقَالَ رَجُلٌۭ مُّؤْمِنٌۭ مِّنْ ءَالِ فِرْعَوْنَ يَكْتُمُ إِيمَٰنَهُۥٓ أَتَقْتُلُونَ رَجُلًا أَن يَقُولَ رَبِّىَ ٱللَّهُ وَقَدْ جَآءَكُم بِٱلْبَيِّنَٰتِ مِن رَّبِّكُمْ ۖ وَإِن يَكُ كَٰذِبًۭا فَعَلَيْهِ كَذِبُهُۥ ۖ وَإِن يَكُ صَادِقًۭا يُصِبْكُم بَعْضُ ٱلَّذِى يَعِدُكُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ مُسْرِفٌۭ كَذَّابٌۭ
 

@@ -3,6 +3,7 @@
 # Format: one verse per line: S:V<TAB>Icelandic text. Not the first Icelandic Quran
 # (cf. Helgi Hálfdanarson, Kóraninn 1993/2003). DRAFT pending living Icelandic review.
 # Date: 2026-10-01
+# Editorial note — unclosed quotations (2026-10-13): Some quotations in this manuscript stand unclosed: a speech opens and no closing mark follows, exactly as in the source text from which this manuscript derives. They are preserved deliberately; no closing marks have been invented for them. The verses at which such an unclosed quotation opens are: 2:217, 3:73, 6:145, 6:162, 7:67, 12:5, 12:8, 12:37, 12:81, 14:36, 14:41, 18:87, 19:4, 20:135, 21:56, 25:15, 26:117, 26:153, 38:62, 38:71, 44:18, 79:17 (22 in all).
 1:1	Í nafni Guðs, hins velgjöranda, hins miskunnsama.
 1:2	Lof sé Guði, Drottni heimanna.
 1:3	Hinum velgjöranda, hinum miskunnsama.

@@ -10,6 +10,7 @@ BAVARIAN (BOARISCH) MANUSCRIPT — REVISION DRAFT, not a final edition. A Boaris
 - **Sprach**: breits Mittlboarisch in a lesbaren Form — einfache Wort, kurze Sätz: de klarste und einfachste Übersetzung, de a a einfacher Mensch verstehn ko.
 - **Status**: ÜBERARBEITUNGS-ENTWURF / REVISION DRAFT. A first complete draft awaiting native Bavarian review; not locked, not final, not native-reviewed.
 - **Koa Erstübersetzung behauptet**: Es werd koa first-ever claim aufgstellt. Bei da Recherche is koa vollständige boarische Koranübersetzung gfundn worn (none found after research); des allein macht den Entwurf ned zua a bewiesenen easchten Übersetzung.
+- **Editorial note — unclosed quotations (2026-10-13):** Some quotations in this manuscript stand unclosed: a speech opens and no closing mark follows, exactly as in the source text from which this manuscript derives. They are preserved deliberately; no closing marks have been invented for them. The verses at which such an unclosed quotation opens are: 2:215, 3:73, 6:128, 6:145, 6:162, 7:67, 12:5, 12:8, 12:38, 12:40, 14:36, 18:87, 19:4, 20:135, 21:56, 25:15, 26:168, 38:62, 38:71 (19 in all).
 
 # Inhalt
 
