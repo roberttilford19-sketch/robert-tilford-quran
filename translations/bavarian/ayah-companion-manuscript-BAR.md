@@ -2886,7 +2886,7 @@ BAVARIAN (BOARISCH) MANUSCRIPT — REVISION DRAFT, not a final edition. A Boaris
 
 **5:6** O es, de ihr glaubts! Wann ihr zum Betn aufstehts, waschts eire Gsichter und eire Händ und Arm bis zu de Ellbogn, und streichts üba eire Köpf, und waschts eire Füß bis zu de Knöchl.
 
-*[Manche Lesartn setzn s Wischn bis zu de Fiaß fort; de do druckte Lesart sogt woschn.]*
+
 
 Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda auf Reisn, oda oana vo eich vom Abort kummt, oda ihr Kontakt mit Fraun ghabt habts, und koa Wossa finds, dann nehmts reine Erd und wischts eire Gsichter und Händ damit. Allah wui eich ned belasten, sondan Ea wui eich reinign, und sei Segn an eich vollendn, damit ihr dankbar seids.
 
@@ -4856,7 +4856,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩
 
-*[Niadwerfung — empfohlen]*
+
 
 ---
 
@@ -7174,7 +7174,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ ۩
 
-*[Niadwerfung — empfohlen]*
+
 
 **13:16** Sog: „Wea is da Herr vo de Himme und vo da Ead?“ Sog: „Allah.“ Sog: „Hobt s es außer Eam Beschützer genommen, de koa Mocht hom, sogar sich söwa zu nützen oda zu schadn?“ Sog: „San de Blinden und de Sehenden gleich? Oda san Dunkelheit und Licht gleich? Oda hom se Allah Partner zugeordnet, de gleich wia Seine Schöpfung erschaffen ham, sodass d Schöpfungen fia se gleich ausgsehen ham? Sog: „Allah is da Schöpfer vo oim, und Ea is Da Eine, da Unwiderstehliche.“
 
@@ -8128,7 +8128,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩
 
-*[Niadwerfung — empfohlen]*
+
 
 **16:51** Allah hod gsagt: „Nehmt ned zwei Götter; Ea is nur Ein Gott; also fiacht nur Mi.“
 
@@ -8890,7 +8890,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًۭا ۩
 
-*[Niadwerfung — empfohlen]*
+
 
 **17:110** Sag: „Ruft Eam Allah, oder ruft Eam an Barmherzigsten. Welchen Namen ihr a verwendet, Eam ghören d Besten Namen.“ Und sei weder laut in deinem Gebet, noch still darin, sondern folge am Kurs dazwischen.
 
@@ -9596,7 +9596,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩
 
-*[Niadwerfung — empfohlen]*
+
 
 **19:59** Oba eana ham Generationen gfolgt, de de Gebete valorn ham und ihre Begierden gfolgt san. Se wern Verderben treffn.
 
@@ -10854,7 +10854,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌۭ مِّنَ ٱلنَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ ۗ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ ۩
 
-*[Niadwerfung — empfohlen]*
+
 
 **22:19** Do san zwoa Gegna, de si wegn ihna Herrn streitn. Fia de, de ned glaubn, wern Gwand aus Feia zugschnittn, und siednds Wassa werd iba ihre Köpf gossn.
 
@@ -11092,7 +11092,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩
 
-*[Niadwerfung — empfohlen]*
+
 
 **22:78** Und strebts fia Allah mit dem Streben, des eam gebührt. Ea hod enk erwöid und hod enk in da Religion koa Last aufglegt — da Glaubn vo enkam Voda Abraham. Ea is s, dea enk davo Muslime gnennt hod, und a in dem do. Damit da Bot a Zeuge iba enk sei ko und es Zeugen iba de Leit seids. So verricht s Gebet und gebts de regelmäßige Gab und hoids enk an Allah fest. Ea is enka Schutzherr. Wos fia a trefflicha Schutzherr und wos fia a trefflicha Helfer.
 
@@ -12102,7 +12102,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًۭا ۩
 
-*[Niadwerfung — empfohlen]*
+
 
 **25:61** Gesegnet is Ea, dea Sternbilder an Himme gsetzt hod und darin a Lampn und an leuchtenden Mond gsetzt hod.
 
@@ -13208,7 +13208,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩
 
-*[Niadwerfung — empfohlen]*
+
 
 **27:27** Ea hod gsogt: „Mia wern sehgn, ob du de Wahrheit gsogt host, oda ob du a Lügner bist.
 
@@ -14602,7 +14602,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًۭا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩
 
-*[Niadwerfung — verpflichtend]*
+
 
 **32:16** Eane Seitn meidn eane Bettn, wann se zu iam Herr betn, aus Ehrfurcht und Hoffnung; und vo dem, wos Mia eana gebn ham, gebn se weida.
 
@@ -16580,7 +16580,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَأَنَابَ ۩
 
-*[Niadwerfung — empfohlen]*
+
 
 **38:25** Drum ham mia eam des verziehn. Und fia eam is Nähe bei uns und a guata Platz vo da Rückkehr.
 
@@ -17666,7 +17666,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ ۩
 
-*[Niadwerfung — verpflichtend]*
+
 
 **41:39** Und vo Seine Zeichen is, dass du s Land still sien kannst. Oba wenn Mia Wasser drauf obagschicken, regt s si und wächst. Gwieß, Ea, der s wiederbelebt hod, werd d Toten wiederbeleben. Ea ko ois doa.
 
@@ -20172,7 +20172,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩
 
-*[Niadwerfung — verpflichtend]*
+
 
 ---
 
@@ -24782,7 +24782,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
 
-*[Niadwerfung — empfohlen]*
+
 
 **84:22** In Wirklichkeit san de, de ned glaubn, in Ablehnung.
 
@@ -25808,7 +25808,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩
 
-*[Niadwerfung — verpflichtend]*
+
 
 ---
 

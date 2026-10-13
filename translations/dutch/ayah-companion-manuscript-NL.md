@@ -2888,7 +2888,7 @@ DUTCH (NEDERLANDS) MANUSCRIPT — REVISION DRAFT, not a final edition. A Dutch r
 
 **5:6** O jullie die geloven! Wanneer jullie opstaan om te bidden, was jullie gezichten en jullie handen en armen tot aan de ellebogen, en veeg over jullie hoofden, en was jullie voeten tot aan de enkels.
 
-*[Sommige lezingen laten het wrijven doorlopen tot de voeten; de hier afgedrukte lezing zegt: wassen.]*
+
 
 Als jullie in een staat van onreinheid zijn, reinig jezelf dan. Als jullie ziek zijn, of op reis, of een van jullie terugkomt van het toilet, of jullie contact hebben gehad met vrouwen, en geen water konden vinden, gebruik dan wat schone aarde en veeg jullie gezichten en handen ermee af. Allah bedoelt jullie niet te belasten, maar Hij bedoelt jullie te reinigen, en Zijn zegen over jullie te voltooien, opdat jullie dankbaar mogen zijn.
 
@@ -4858,7 +4858,7 @@ Als jullie in een staat van onreinheid zijn, reinig jezelf dan. Als jullie ziek 
 
 إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩
 
-*[Nederwerping — aanbevolen]*
+
 
 ---
 
@@ -7176,7 +7176,7 @@ Als jullie in een staat van onreinheid zijn, reinig jezelf dan. Als jullie ziek 
 
 وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ ۩
 
-*[Nederwerping — aanbevolen]*
+
 
 **13:16** Zeg: “Wie is de Heer van de hemelen en de aarde?” Zeg: “Allah.” Zeg: “Hebben jullie naast Hem beschermers genomen, die geen macht hebben om zelfs zichzelf te baten of te schaden?” Zeg: “Zijn de blinde en de ziende gelijk? Of zijn duisternis en licht gelijk? Of hebben zij aan Allah metgezellen toegewezen, die het gelijke van Zijn schepping schiepen, zodat de scheppingen voor hen op elkaar leken? Zeg: “Allah is de Schepper van alle dingen, en Hij is De Ene, de Onweerstaanbare.”
 
@@ -8130,7 +8130,7 @@ Als jullie in een staat van onreinheid zijn, reinig jezelf dan. Als jullie ziek 
 
 يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩
 
-*[Nederwerping — aanbevolen]*
+
 
 **16:51** Allah heeft gezegd: “Neem geen twee goden; Hij is slechts één God; vrees dus alleen Mij.”
 
@@ -8892,7 +8892,7 @@ Als jullie in een staat van onreinheid zijn, reinig jezelf dan. Als jullie ziek 
 
 وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًۭا ۩
 
-*[Nederwerping — aanbevolen]*
+
 
 **17:110** Zeg: “Roep Hem Allah, of roep Hem de Meest Barmhartige. Welke naam je ook gebruikt, aan Hem behoren de Beste Namen.” En wees niet luid in je gebed, noch stil daarin, maar volg een weg daartussen.
 
@@ -9598,7 +9598,7 @@ Als jullie in een staat van onreinheid zijn, reinig jezelf dan. Als jullie ziek 
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩
 
-*[Nederwerping — aanbevolen]*
+
 
 **19:59** Maar zij werden opgevolgd door generaties die de gebeden verloren en hun begeerten volgden. Zij zullen verderf ontmoeten.
 
@@ -10856,7 +10856,7 @@ Als jullie in een staat van onreinheid zijn, reinig jezelf dan. Als jullie ziek 
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌۭ مِّنَ ٱلنَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ ۗ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ ۩
 
-*[Nederwerping — aanbevolen]*
+
 
 **22:19** Hier zijn twee tegenstanders die twisten over hun Heer. Wat betreft hen die niet geloven, er zullen gewaden van vuur voor hen op maat worden gemaakt, en kokend water zal over hun hoofden worden gegoten.
 
@@ -11094,7 +11094,7 @@ Als jullie in een staat van onreinheid zijn, reinig jezelf dan. Als jullie ziek 
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩
 
-*[Nederwerping — aanbevolen]*
+
 
 **22:78** En streef voor Allah, met de inspanning die Hem toekomt. Hij heeft jullie gekozen, en heeft jullie in de godsdienst niet belast — het geloof van jullie vader Abraham. Hij is het die jullie voordien moslims noemde, en in dit. Zodat de Boodschapper een getuige over jullie kan zijn, en jullie getuigen over de mensen kunnen zijn. Bid dus regelmatig, en geef de verplichte liefdadigheid, en klamp je vast aan Allah. Hij is jullie Beschermer. Wat een uitstekende Beschermer, en wat een uitstekende Helper.
 
@@ -12104,7 +12104,7 @@ Als jullie in een staat van onreinheid zijn, reinig jezelf dan. Als jullie ziek 
 
 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًۭا ۩
 
-*[Nederwerping — aanbevolen]*
+
 
 **25:61** Gezegend is Hij die sterrenbeelden in de hemel plaatste, en erin een lamp plaatste, en een lichtgevende maan.
 
@@ -13210,7 +13210,7 @@ Als jullie in een staat van onreinheid zijn, reinig jezelf dan. Als jullie ziek 
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩
 
-*[Nederwerping — aanbevolen]*
+
 
 **27:27** Hij zei: “Wij zullen zien, of je de waarheid hebt gesproken, of dat je een leugenaar bent.
 
@@ -14604,7 +14604,7 @@ Als jullie in een staat van onreinheid zijn, reinig jezelf dan. Als jullie ziek 
 
 إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًۭا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩
 
-*[Nederwerping — verplicht]*
+
 
 **32:16** Hun zijden mijden hun bedden, terwijl zij tot hun Heer bidden, uit eerbied en hoop; en van Onze voorzieningen aan hen geven zij.
 
@@ -16582,7 +16582,7 @@ Als jullie in een staat van onreinheid zijn, reinig jezelf dan. Als jullie ziek 
 
 قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَأَنَابَ ۩
 
-*[Nederwerping — aanbevolen]*
+
 
 **38:25** Dus vergaven Wij hem dat. En voor hem is nabijheid bij Ons, en een goede plaats van terugkeer.
 
@@ -17668,7 +17668,7 @@ Als jullie in een staat van onreinheid zijn, reinig jezelf dan. Als jullie ziek 
 
 فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ ۩
 
-*[Nederwerping — verplicht]*
+
 
 **41:39** En tot Zijn tekenen behoort dat je het land stil ziet. Maar wanneer Wij er water op neerzenden, beweegt het en groeit het. Waarlijk, Hij die het deed herleven zal de doden doen herleven. Hij is in staat tot alle dingen.
 
@@ -20174,7 +20174,7 @@ Als jullie in een staat van onreinheid zijn, reinig jezelf dan. Als jullie ziek 
 
 فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩
 
-*[Nederwerping — verplicht]*
+
 
 ---
 
@@ -24784,7 +24784,7 @@ Als jullie in een staat van onreinheid zijn, reinig jezelf dan. Als jullie ziek 
 
 وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
 
-*[Nederwerping — aanbevolen]*
+
 
 **84:22** In feite zijn zij die niet geloven in ontkenning.
 
@@ -25810,7 +25810,7 @@ Als jullie in een staat van onreinheid zijn, reinig jezelf dan. Als jullie ziek 
 
 كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩
 
-*[Nederwerping — verplicht]*
+
 
 ---
 

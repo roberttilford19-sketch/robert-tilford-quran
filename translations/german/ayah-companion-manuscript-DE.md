@@ -2886,7 +2886,7 @@ Eine zeitgenössische deutsche Übersetzung des Korans, Ausgabe des korrigierten
 
 **5:6** O ihr, die ihr glaubt! Wenn ihr euch zum Gebet erhebt, wascht eure Gesichter und eure Hände und Arme bis zu den Ellbogen und wischt eure Köpfe ab und wascht eure Füße bis zu den Knöcheln.
 
-*[Manche Lesarten setzen das Wischen bis zu den Füßen fort; die hier gedruckte Lesart sagt waschen.]*
+
 
 Wenn ihr im Zustand der Unreinheit seid, reinigt euch. Wenn ihr krank seid oder auf Reisen oder einer von euch von der Toilette zurückkommt oder ihr Kontakt mit Frauen hattet und kein Wasser finden konntet, dann nehmt reine Erde und wischt eure Gesichter und Hände damit ab. Gott will euch nicht belasten, sondern Er will euch reinigen und Seinen Segen an euch vollenden, damit ihr dankbar sein mögt.
 
@@ -4856,7 +4856,7 @@ Wenn ihr im Zustand der Unreinheit seid, reinigt euch. Wenn ihr krank seid oder 
 
 إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩
 
-*[Niederwerfung — empfohlen]*
+
 
 ---
 
@@ -7174,7 +7174,7 @@ Wenn ihr im Zustand der Unreinheit seid, reinigt euch. Wenn ihr krank seid oder 
 
 وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ ۩
 
-*[Niederwerfung — empfohlen]*
+
 
 **13:16** Sag: „Wer ist der Herr der Himmel und der Erde?“ Sag: „Gott.“ Sag: „Habt ihr außer Ihm Beschützer genommen, die nicht einmal sich selbst Nutzen oder Schaden bringen können?“ Sag: „Sind der Blinde und der Sehende gleich? Oder sind Dunkelheit und Licht gleich? Oder haben sie Gott Teilhaber zugewiesen, die Gleiches wie Seine Schöpfung erschufen, so dass die Schöpfungen ihnen gleich erschienen? Sag: „Gott ist der Schöpfer aller Dinge, und Er ist der Eine, der Unwiderstehliche.“
 
@@ -8128,7 +8128,7 @@ Wenn ihr im Zustand der Unreinheit seid, reinigt euch. Wenn ihr krank seid oder 
 
 يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩
 
-*[Niederwerfung — empfohlen]*
+
 
 **16:51** Gott hat gesagt: „Nehmt nicht zwei Götter; Er ist nur ein Gott; so fürchtet nur Mich.“
 
@@ -8890,7 +8890,7 @@ Wenn ihr im Zustand der Unreinheit seid, reinigt euch. Wenn ihr krank seid oder 
 
 وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًۭا ۩
 
-*[Niederwerfung — empfohlen]*
+
 
 **17:110** Sprich: „Ruft Ihn Gott oder ruft Ihn den Barmherzigsten. Welchen Namen ihr auch verwendet, Ihm gehören die Schönsten Namen.“ Und sei in deinem Gebet weder laut noch leise, sondern folge einem Weg dazwischen.
 
@@ -9596,7 +9596,7 @@ Wenn ihr im Zustand der Unreinheit seid, reinigt euch. Wenn ihr krank seid oder 
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩
 
-*[Niederwerfung — empfohlen]*
+
 
 **19:59** Aber ihnen folgten Generationen, die die Gebete verloren und ihren Gelüsten folgten. Sie werden dem Verderben begegnen.
 
@@ -10854,7 +10854,7 @@ Wenn ihr im Zustand der Unreinheit seid, reinigt euch. Wenn ihr krank seid oder 
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌۭ مِّنَ ٱلنَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ ۗ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ ۩
 
-*[Niederwerfung — empfohlen]*
+
 
 **22:19** Hier sind zwei Gegner, die wegen ihres Herrn streiten. Für diejenigen, die nicht glauben, werden Kleider aus Feuer zugeschnitten werden, und siedendes Wasser wird über ihre Köpfe gegossen werden.
 
@@ -11092,7 +11092,7 @@ Wenn ihr im Zustand der Unreinheit seid, reinigt euch. Wenn ihr krank seid oder 
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩
 
-*[Niederwerfung — empfohlen]*
+
 
 **22:78** Und bemüht euch um Gott mit der Ihm gebührenden Anstrengung. Er hat euch erwählt und euch in der Religion keine Last auferlegt – der Glaube eures Vaters Abraham. Er ist es, der euch vorher Muslime genannt hat, und auch hierin. Damit der Gesandte ein Zeuge über euch sei und ihr Zeugen über die Menschen seid. So verrichtet das Gebet regelmäßig und gebt das regelmäßige Almosen und haltet an Gott fest. Er ist euer Beschützer. Was für ein trefflicher Beschützer und was für ein trefflicher Helfer.
 
@@ -12102,7 +12102,7 @@ Wenn ihr im Zustand der Unreinheit seid, reinigt euch. Wenn ihr krank seid oder 
 
 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًۭا ۩
 
-*[Niederwerfung — empfohlen]*
+
 
 **25:61** Gesegnet ist Er, der Sternbilder an den Himmel setzte und in ihn eine Lampe setzte und einen leuchtenden Mond.
 
@@ -13208,7 +13208,7 @@ Wenn ihr im Zustand der Unreinheit seid, reinigt euch. Wenn ihr krank seid oder 
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩
 
-*[Niederwerfung — empfohlen]*
+
 
 **27:27** Er sagte: „Wir werden sehen, ob du die Wahrheit gesprochen hast oder ob du ein Lügner bist.
 
@@ -14602,7 +14602,7 @@ Wenn ihr im Zustand der Unreinheit seid, reinigt euch. Wenn ihr krank seid oder 
 
 إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًۭا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩
 
-*[Niederwerfung — verpflichtend]*
+
 
 **32:16** Ihre Seiten meiden ihre Betten, während sie zu ihrem Herrn beten, aus Ehrfurcht und Hoffnung; und von Unserer Versorgung für sie geben sie.
 
@@ -16580,7 +16580,7 @@ Wenn ihr im Zustand der Unreinheit seid, reinigt euch. Wenn ihr krank seid oder 
 
 قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَأَنَابَ ۩
 
-*[Niederwerfung — empfohlen]*
+
 
 **38:25** So vergaben Wir ihm das. Und für ihn ist Nähe zu Uns und ein guter Ort der Rückkehr.
 
@@ -17666,7 +17666,7 @@ Wenn ihr im Zustand der Unreinheit seid, reinigt euch. Wenn ihr krank seid oder 
 
 فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ ۩
 
-*[Niederwerfung — verpflichtend]*
+
 
 **41:39** Und zu Seinen Zeichen gehört, dass du das Land still siehst. Aber wenn Wir Wasser darauf herabsenden, regt es sich und wächst. Wahrlich, Er, der es wiederbelebte, wird die Toten wiederbeleben. Er ist fähig, alle Dinge zu tun.
 
@@ -20172,7 +20172,7 @@ Wenn ihr im Zustand der Unreinheit seid, reinigt euch. Wenn ihr krank seid oder 
 
 فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩
 
-*[Niederwerfung — verpflichtend]*
+
 
 ---
 
@@ -24782,7 +24782,7 @@ Wenn ihr im Zustand der Unreinheit seid, reinigt euch. Wenn ihr krank seid oder 
 
 وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
 
-*[Niederwerfung — empfohlen]*
+
 
 **84:22** Vielmehr sind die, die nicht glauben, im Leugnen.
 
@@ -25808,7 +25808,7 @@ Wenn ihr im Zustand der Unreinheit seid, reinigt euch. Wenn ihr krank seid oder 
 
 كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩
 
-*[Niederwerfung — verpflichtend]*
+
 
 ---
 

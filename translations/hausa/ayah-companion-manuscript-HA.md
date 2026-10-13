@@ -2888,7 +2888,7 @@ HAUSA MANUSCRIPT — REVISION DRAFT, not a final edition. A Hausa rendering of t
 
 **5:6** Ya ku masu imani! Idan kun tashi zuwa salla, ku wanke fuskokinku da hannayenku zuwa gwiwar hannu, ku shafi kawunanku, ku wanke ƙafafunku zuwa idon sawu.
 
-*[Wasu karatu suna ci gaba da shafar har zuwa ƙafafu; karatun da aka buga a nan ya ce a wanke.]*
+
 
 Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafiya, ko ɗayanku ya dawo daga bayan gida, ko kun taɓa mata, ba ku sami ruwa ba, ku nemi ƙasa mai tsabta ku shafi fuskokinku da hannayenku da ita. Allah ba Ya nufin Ya ƙuntata muku, sai dai Yana nufin Ya tsarkake ku, Ya cika ni'imarSa a kanku, don ku gode.
 
@@ -4858,7 +4858,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩
 
-*[Sujada — abin da aka ba da shawara]*
+
 
 ---
 
@@ -7176,7 +7176,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ ۩
 
-*[Sujada — abin da aka ba da shawara]*
+
 
 **13:16** Ka ce, “Wa ne Ubangijin sammai da ƙasa?” Ka ce, “Allah.” Ka ce, “Shin kun ɗauki masu kariya ban da shi, waɗanda ba su da iko su amfanar ko su cutar da kansu?” Ka ce, “Shin makaho da mai gani sun daidaita? Ko duhu da haske sun daidaita? Ko sun ba Allah abokan haɗi, waɗanda suka halitta irin halittarsa, halittun suka yi musu kama da juna? Ka ce, “Allah ne Mahaliccin dukkan komai, shi ne Ɗaya, Mai rinjaye.”
 
@@ -8130,7 +8130,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩
 
-*[Sujada — abin da aka ba da shawara]*
+
 
 **16:51** Allah Ya ce: “Kada ku ɗauki gumaka biyu; Shi Allah Ɗaya ne kawai; Ni kaɗai ku ji tsoro.”
 
@@ -8892,7 +8892,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًۭا ۩
 
-*[Sujada — abin da aka ba da shawara]*
+
 
 **17:110** Ka ce, "Ku kira Shi Allah, ko ku kira Shi Mai jinƙai. Duk sunan da kuka yi amfani da shi, Sunaye Mafi Kyau nasa ne." Kuma kada ka ɗaga murya a sallarka, kada kuma ka yi shiru a cikinta, ka bi hanya a tsakani.
 
@@ -9598,7 +9598,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩
 
-*[Sujada — abin da aka ba da shawara]*
+
 
 **19:59** Amma ƙarni sun gaje su waɗanda suka ɓatar da salla suka bi sha'awarsu. Za su gamu da hallaka.
 
@@ -10856,7 +10856,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌۭ مِّنَ ٱلنَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ ۗ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ ۩
 
-*[Sujada — abin da aka ba da shawara]*
+
 
 **22:19** Ga abokan hamayya biyu suna jayayya game da Ubangijinsu. Amma waɗanda suka kafirta, za a ɗinke musu tufafin wuta, a zuba ruwan zafi a kan kawunansu.
 
@@ -11094,7 +11094,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩
 
-*[Sujada — abin da aka ba da shawara]*
+
 
 **22:78** Ku yi gwagwarmaya saboda Allah, gwagwarmaya da ta dace da Shi. Ya zaɓe ku, bai ɗora muku nauyi a addini ba, addinin babanku Ibrahim ne. Shi ne ya kira ku Musulmi a baya, da a cikin wannan. Domin Manzo ya zama shaida a kanku, ku zama shaidu a kan mutane. Ku tsayar da salla, ku ba da zakka, ku riƙe Allah. Shi ne Mai kiyaye ku. Mafi kyau Mai kiyayewa, Mafi kyau Mai taimako.
 
@@ -12104,7 +12104,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًۭا ۩
 
-*[Sujada — abin da aka ba da shawara]*
+
 
 **25:61** Albarka ta tabbata ga wanda ya sa ƙungiyoyin taurari a sama, ya sa fitila a cikinta, da wata mai haske.
 
@@ -13210,7 +13210,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩
 
-*[Sujada — abin da aka ba da shawara]*
+
 
 **27:27** Ya ce: Za mu gani, ko kin faɗi gaskiya, ko kina cikin maƙaryata.
 
@@ -14604,7 +14604,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًۭا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩
 
-*[Sujada — wajibi]*
+
 
 **32:16** Geffensu suna nisantar gadajensu, suna kiran Ubangijinsu cikin tsoro da bege; daga cikin abin da Mu azurta su da shi, suna bayarwa.
 
@@ -16582,7 +16582,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَأَنَابَ ۩
 
-*[Sujada — abin da aka ba da shawara]*
+
 
 **38:25** Sai Muka gafarta masa hakan. Lallai yana da kusanci wurinMu, da kyakkyawar makoma.
 
@@ -17668,7 +17668,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ ۩
 
-*[Sujada — wajibi]*
+
 
 **41:39** Daga ayoyinsa akwai cewa kana ganin ƙasa a tsaye. Amma idan Muka saukar da ruwa a kanta, tana girgiza ta yi girma. Lallai, Wanda Ya rayar da ita zai rayar da matattu. Shi Mai ikon kowane abu ne.
 
@@ -20174,7 +20174,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩
 
-*[Sujada — wajibi]*
+
 
 ---
 
@@ -24784,7 +24784,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
 
-*[Sujada — abin da aka ba da shawara]*
+
 
 **84:22** A'a, waɗanda suka yi kafirci suna cikin ƙaryatawa.
 
@@ -25810,7 +25810,7 @@ Idan kuna cikin janaba, ku tsarkake kanku. Idan kuna rashin lafiya, ko kuna tafi
 
 كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩
 
-*[Sujada — wajibi]*
+
 
 ---
 

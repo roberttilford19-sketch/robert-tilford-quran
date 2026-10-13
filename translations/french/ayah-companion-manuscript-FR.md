@@ -2886,7 +2886,7 @@ Une traduction contemporaine du Coran en français, édition du manuscrit anglai
 
 **5:6** Ô vous qui croyez ! Quand vous vous levez pour prier, lavez vos visages et vos mains et vos bras jusqu'aux coudes, et essuyez vos têtes, et lavez vos pieds jusqu'aux chevilles.
 
-*[Certaines lectures prolongent l’essuyage jusqu’aux pieds ; la lecture imprimée ici dit laver.]*
+
 
 Si vous êtes en état d'impureté, purifiez-vous. Si vous êtes malades, ou en voyage, ou que l'un de vous revient des toilettes, ou que vous avez eu un contact avec des femmes, et que vous n'avez pas pu trouver d'eau, alors utilisez un peu de terre propre et essuyez-en vos visages et vos mains. Dieu ne veut pas vous imposer un fardeau, mais Il veut vous purifier, et compléter sa bénédiction sur vous, afin que vous soyez reconnaissants.
 
@@ -4856,7 +4856,7 @@ Si vous êtes en état d'impureté, purifiez-vous. Si vous êtes malades, ou en 
 
 إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩
 
-*[prosternation — recommandée]*
+
 
 ---
 
@@ -7174,7 +7174,7 @@ Si vous êtes en état d'impureté, purifiez-vous. Si vous êtes malades, ou en 
 
 وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ ۩
 
-*[prosternation — recommandée]*
+
 
 **13:16** Dis : « Qui est le Seigneur des cieux et de la terre ? » Dis : « Dieu. » Dis : « Avez-vous pris en dehors de Lui des protecteurs, qui n'ont aucun pouvoir de profiter ou de nuire même à eux-mêmes ? » Dis : « L'aveugle et celui qui voit sont-ils égaux ? Ou les ténèbres et la lumière sont-elles égales ? Ou ont-ils assigné à Dieu des associés, qui ont créé comme Sa création, de sorte que les créations leur semblaient semblables ? Dis : « Dieu est le Créateur de toutes choses, et Il est l'Unique, l'Irrésistible. »
 
@@ -8128,7 +8128,7 @@ Si vous êtes en état d'impureté, purifiez-vous. Si vous êtes malades, ou en 
 
 يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩
 
-*[prosternation — recommandée]*
+
 
 **16:51** Dieu a dit : « Ne prenez pas deux dieux ; Il est seulement Un seul Dieu ; alors ne craignez que Moi. »
 
@@ -8890,7 +8890,7 @@ Si vous êtes en état d'impureté, purifiez-vous. Si vous êtes malades, ou en 
 
 وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًۭا ۩
 
-*[prosternation — recommandée]*
+
 
 **17:110** Dis : « Appelez-Le Dieu, ou appelez-Le le Très Miséricordieux. Quel que soit le nom que vous utilisiez, à Lui appartiennent les Plus Beaux Noms. » Et ne sois ni bruyant dans ta prière, ni silencieux en elle, mais suis une voie entre les deux.
 
@@ -9596,7 +9596,7 @@ Si vous êtes en état d'impureté, purifiez-vous. Si vous êtes malades, ou en 
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩
 
-*[prosternation — recommandée]*
+
 
 **19:59** Mais ils ont été suivis par des générations qui ont perdu les prières et ont suivi leurs appétits. Ils rencontreront la perdition.
 
@@ -10854,7 +10854,7 @@ Si vous êtes en état d'impureté, purifiez-vous. Si vous êtes malades, ou en 
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌۭ مِّنَ ٱلنَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ ۗ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ ۩
 
-*[prosternation — recommandée]*
+
 
 **22:19** Voici deux adversaires qui se disputent au sujet de leur Seigneur. Quant à ceux qui ne croient pas, des vêtements de feu seront taillés pour eux, et de l'eau bouillante sera versée sur leurs têtes.
 
@@ -11092,7 +11092,7 @@ Si vous êtes en état d'impureté, purifiez-vous. Si vous êtes malades, ou en 
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩
 
-*[prosternation — recommandée]*
+
 
 **22:78** Et luttez pour Dieu, avec la lutte qui Lui est due. Il vous a choisis, et ne vous a pas imposé de fardeau dans la religion — la foi de votre père Abraham. C'est lui qui vous a nommés Musulmans auparavant, et dans ceci. Afin que le Messager soit un témoin sur vous, et que vous soyez des témoins sur les gens. Alors priez régulièrement, et donnez l'aumône obligatoire régulière, et accrochez-vous à Dieu. Il est votre Protecteur. Quel excellent Protecteur, et quel excellent Aide.
 
@@ -12102,7 +12102,7 @@ Si vous êtes en état d'impureté, purifiez-vous. Si vous êtes malades, ou en 
 
 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًۭا ۩
 
-*[prosternation — recommandée]*
+
 
 **25:61** Béni soit Celui qui a placé des constellations dans le ciel, et y a placé une lampe, et une lune illuminante.
 
@@ -13208,7 +13208,7 @@ Si vous êtes en état d'impureté, purifiez-vous. Si vous êtes malades, ou en 
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩
 
-*[prosternation — recommandée]*
+
 
 **27:27** Il dit : « Nous verrons si tu as dit la vérité, ou si tu es un menteur.
 
@@ -14602,7 +14602,7 @@ Si vous êtes en état d'impureté, purifiez-vous. Si vous êtes malades, ou en 
 
 إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًۭا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩
 
-*[prosternation — obligatoire]*
+
 
 **32:16** Leurs flancs fuient leurs lits, alors qu'ils prient leur Seigneur, par révérence et par espoir ; et de ce que Nous leur avons fourni, ils donnent.
 
@@ -16580,7 +16580,7 @@ Si vous êtes en état d'impureté, purifiez-vous. Si vous êtes malades, ou en 
 
 قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَأَنَابَ ۩
 
-*[prosternation — recommandée]*
+
 
 **38:25** Alors Nous lui avons pardonné cela. Et pour lui il y a proximité avec Nous, et un bon lieu de retour.
 
@@ -17666,7 +17666,7 @@ Si vous êtes en état d'impureté, purifiez-vous. Si vous êtes malades, ou en 
 
 فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ ۩
 
-*[prosternation — obligatoire]*
+
 
 **41:39** Et parmi Ses signes, tu vois la terre immobile. Mais quand Nous faisons descendre l’eau sur elle, elle remue et croît. Assurément, Celui qui l’a fait revivre fera revivre les morts. Il est capable de toutes choses.
 
@@ -20172,7 +20172,7 @@ Si vous êtes en état d'impureté, purifiez-vous. Si vous êtes malades, ou en 
 
 فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩
 
-*[prosternation — obligatoire]*
+
 
 ---
 
@@ -24782,7 +24782,7 @@ Si vous êtes en état d'impureté, purifiez-vous. Si vous êtes malades, ou en 
 
 وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
 
-*[prosternation — recommandée]*
+
 
 **84:22** En fait, ceux qui ne croient pas sont dans le déni.
 
@@ -25808,7 +25808,7 @@ Si vous êtes en état d'impureté, purifiez-vous. Si vous êtes malades, ou en 
 
 كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩
 
-*[prosternation — obligatoire]*
+
 
 ---
 

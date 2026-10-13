@@ -2886,7 +2886,7 @@ Sebuah terjemahan Al-Qur'an kontemporer ke dalam Bahasa Indonesia, edisi dari ma
 
 **5:6** Wahai orang-orang yang beriman! Ketika kalian bangkit untuk salat, cucilah wajah kalian dan tangan dan lengan kalian sampai siku, dan usaplah kepala kalian, dan cucilah kaki kalian sampai mata kaki.
 
-*[Sebagian bacaan melanjutkan usapan hingga ke kaki; bacaan yang dicetak di sini mengatakan cuci.]*
+
 
 Jika kalian dalam keadaan junub, sucikanlah diri kalian. Jika kalian sakit, atau dalam perjalanan, atau salah seorang dari kalian kembali dari toilet, atau kalian telah bersentuhan dengan perempuan, dan tidak mendapatkan air, maka gunakanlah tanah yang bersih dan usaplah wajah dan tangan kalian dengannya. Allah tidak bermaksud membebani kalian, tetapi Dia bermaksud menyucikan kalian, dan menyelesaikan berkat-Nya atas kalian, agar kalian bersyukur.
 
@@ -4856,7 +4856,7 @@ Jika kalian dalam keadaan junub, sucikanlah diri kalian. Jika kalian sakit, atau
 
 إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩
 
-*[sujud — dianjurkan]*
+
 
 ---
 
@@ -7174,7 +7174,7 @@ Jika kalian dalam keadaan junub, sucikanlah diri kalian. Jika kalian sakit, atau
 
 وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ ۩
 
-*[sujud — dianjurkan]*
+
 
 **13:16** Katakanlah, “Siapa Tuhan langit dan bumi?” Katakanlah, “Allah.” Katakanlah, “Apakah kamu telah mengambil pelindung selain Dia, yang tidak memiliki kuasa untuk memberi manfaat atau bahaya bahkan bagi diri mereka sendiri?” Katakanlah, “Apakah yang buta dan yang melihat sama? Atau apakah kegelapan dan cahaya sama? Atau apakah mereka telah menetapkan bagi Allah sekutu-sekutu, yang menciptakan seperti ciptaan-Nya, sehingga ciptaan-ciptaan itu tampak serupa bagi mereka? Katakanlah, “Allah adalah Pencipta segala sesuatu, dan Dia adalah Yang Satu, Yang Tidak Dapat Dilawan.”
 
@@ -8128,7 +8128,7 @@ Jika kalian dalam keadaan junub, sucikanlah diri kalian. Jika kalian sakit, atau
 
 يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩
 
-*[sujud — dianjurkan]*
+
 
 **16:51** Allah telah berkata: “Jangan mengambil dua tuhan; Dia hanyalah Satu Tuhan; maka takutlah hanya kepada-Ku.”
 
@@ -8890,7 +8890,7 @@ Jika kalian dalam keadaan junub, sucikanlah diri kalian. Jika kalian sakit, atau
 
 وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًۭا ۩
 
-*[sujud — dianjurkan]*
+
 
 **17:110** Katakanlah, “Panggillah Dia Allah, atau panggillah Dia Yang Maha Penyayang. Nama apa pun yang kalian gunakan, kepada-Nya milik Nama-nama Terbaik.” Dan janganlah engkau keras dalam salatmu, dan jangan pula diam di dalamnya, tetapi ikutilah jalan di antara keduanya.
 
@@ -9596,7 +9596,7 @@ Jika kalian dalam keadaan junub, sucikanlah diri kalian. Jika kalian sakit, atau
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩
 
-*[sujud — dianjurkan]*
+
 
 **19:59** Tetapi mereka digantikan oleh generasi-generasi yang kehilangan salat dan mengikuti nafsu mereka. Mereka akan bertemu kehancuran.
 
@@ -10854,7 +10854,7 @@ Jika kalian dalam keadaan junub, sucikanlah diri kalian. Jika kalian sakit, atau
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌۭ مِّنَ ٱلنَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ ۗ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ ۩
 
-*[sujud — dianjurkan]*
+
 
 **22:19** Inilah dua pihak yang berselisih tentang Tuhan mereka. Adapun orang-orang yang tidak beriman, pakaian dari api akan dibuat untuk mereka, dan air yang sangat panas akan dituangkan ke atas kepala mereka.
 
@@ -11092,7 +11092,7 @@ Jika kalian dalam keadaan junub, sucikanlah diri kalian. Jika kalian sakit, atau
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩
 
-*[sujud — dianjurkan]*
+
 
 **22:78** Dan berjuanglah untuk Allah, dengan perjuangan yang pantas untuk-Nya. Dia telah memilih kalian, dan tidak membebani kalian dalam agama — agama ayah kalian Ibrahim. Dialah yang menamai kalian Muslim sebelumnya, dan dalam ini. Agar Rasul menjadi saksi atas kalian, dan kalian menjadi saksi atas manusia. Maka laksanakanlah salat secara teratur, dan berikanlah zakat secara teratur, dan berpeganglah kepada Allah. Dia adalah Pelindung kalian. Betapa baiknya Pelindung, dan betapa baiknya Penolong.
 
@@ -12102,7 +12102,7 @@ Jika kalian dalam keadaan junub, sucikanlah diri kalian. Jika kalian sakit, atau
 
 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًۭا ۩
 
-*[sujud — dianjurkan]*
+
 
 **25:61** Maha Berkah Dia yang menempatkan rasi bintang di langit, dan menempatkan di dalamnya lampu, dan bulan yang menerangi.
 
@@ -13208,7 +13208,7 @@ Jika kalian dalam keadaan junub, sucikanlah diri kalian. Jika kalian sakit, atau
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩
 
-*[sujud — dianjurkan]*
+
 
 **27:27** Ia berkata, “Kami akan melihat, apakah engkau berkata benar, atau apakah engkau seorang pendusta.
 
@@ -14602,7 +14602,7 @@ Jika kalian dalam keadaan junub, sucikanlah diri kalian. Jika kalian sakit, atau
 
 إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًۭا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩
 
-*[sujud — wajib]*
+
 
 **32:16** Lambung mereka menjauhi tempat tidur, seraya mereka berdoa kepada Tuhan mereka, dengan rasa takut dan harap; dan dari rezeki Kami kepada mereka, mereka memberi.
 
@@ -16580,7 +16580,7 @@ Jika kalian dalam keadaan junub, sucikanlah diri kalian. Jika kalian sakit, atau
 
 قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَأَنَابَ ۩
 
-*[sujud — dianjurkan]*
+
 
 **38:25** Maka Kami mengampuni dia atas itu. Dan baginya adalah kedekatan dengan Kami, dan tempat kembali yang baik.
 
@@ -17666,7 +17666,7 @@ Jika kalian dalam keadaan junub, sucikanlah diri kalian. Jika kalian sakit, atau
 
 فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ ۩
 
-*[sujud — wajib]*
+
 
 **41:39** Dan di antara tanda-tanda-Nya adalah bahwa engkau melihat tanah itu diam. Tetapi apabila Kami menurunkan air kepadanya, ia bergerak dan tumbuh. Sungguh, Dia yang menghidupkannya akan menghidupkan orang-orang mati. Dia Mampu melakukan segala sesuatu.
 
@@ -20172,7 +20172,7 @@ Jika kalian dalam keadaan junub, sucikanlah diri kalian. Jika kalian sakit, atau
 
 فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩
 
-*[sujud — wajib]*
+
 
 ---
 
@@ -24782,7 +24782,7 @@ Jika kalian dalam keadaan junub, sucikanlah diri kalian. Jika kalian sakit, atau
 
 وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
 
-*[sujud — dianjurkan]*
+
 
 **84:22** Sebenarnya, orang-orang yang tidak beriman berada dalam pendustaan.
 
@@ -25808,7 +25808,7 @@ Jika kalian dalam keadaan junub, sucikanlah diri kalian. Jika kalian sakit, atau
 
 كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩
 
-*[sujud — wajib]*
+
 
 ---
 

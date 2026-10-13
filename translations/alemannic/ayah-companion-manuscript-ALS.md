@@ -2887,7 +2887,7 @@ ALEMANNIC (ALEMANNISCH) MANUSCRIPT — REVISION DRAFT, not a final edition. An A
 
 **5:6** O ihr, wo glaubet! Wenn ir zum Gebet ufstönd, wäschet euri Gsichter u euri Händ u Ärm bis zu de Ellböge, u wiischet euri Chöpf ab, u wäschet euri Füess bis zu de Chnöchel.
 
-*[Mängi Lesarte setze s Wüsche bis zu de Füess wyter; di do druckti Lesart seit wäsche.]*
+
 
 Wenn ir im Zustand vo Unreinheit sind, reiniget euch. Wenn ir chrank sind, oder uf Reis, oder eine vo euch chunnt vom Abort zrugg, oder ir hend Kontakt mit Fraue gha, u chönnet kei Wasser finde, denn nehmet reini Erde u wiischet euri Gsichter u Händ dermit ab. Allah will euch nid belaschte, aber Er will euch reinige, u sini Segnig a euch vollände, damit ir dankbar sind.
 
@@ -4857,7 +4857,7 @@ Wenn ir im Zustand vo Unreinheit sind, reiniget euch. Wenn ir chrank sind, oder 
 
 إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩
 
-*[Niderwerfig — empfohle]*
+
 
 ---
 
@@ -7175,7 +7175,7 @@ Wenn ir im Zustand vo Unreinheit sind, reiniget euch. Wenn ir chrank sind, oder 
 
 وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ ۩
 
-*[Niderwerfig — empfohle]*
+
 
 **13:16** Seg: „Wer isch de Herr vo Himmel und Erde?“ Seg: „Allah.“ Seg: „Hend ir näbe Ihm Beschützer gnah, wo kei Macht hend, sogar sich sälber z nütze oder z schade?“ Seg: „Sind de Blinde und de Sehende gliich? Oder sind Dunkelheit und Liecht gliich? Oder hend sie Allah Partner zuegordnet, wo s Gliche wie Si Schöpfig gschaffe hend, also d Schöpfige ihne gliich erschine sind? Seg: „Allah isch de Schöpfer vo allem, und Er isch de Eine, de Unwiderstehliche.“
 
@@ -8129,7 +8129,7 @@ Wenn ir im Zustand vo Unreinheit sind, reiniget euch. Wenn ir chrank sind, oder 
 
 يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩
 
-*[Niderwerfig — empfohle]*
+
 
 **16:51** Allah het gseit: „Nehmet nöd zwei Götter; Er isch nur ein Gott; also fürchtet nur Mi.“
 
@@ -8891,7 +8891,7 @@ Wenn ir im Zustand vo Unreinheit sind, reiniget euch. Wenn ir chrank sind, oder 
 
 وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًۭا ۩
 
-*[Niderwerfig — empfohle]*
+
 
 **17:110** Säg: „Ruefet Ihn Allah, oder ruefet Ihn de Barmherzigschte. Weles Name ir au bruuchet, Ihm ghöre d Beschte Name.“ Und si weder lut in dim Gebät, no still drin, sondern folg eme Kurs derzwüsche.
 
@@ -9597,7 +9597,7 @@ Wenn ir im Zustand vo Unreinheit sind, reiniget euch. Wenn ir chrank sind, oder 
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩
 
-*[Niderwerfig — empfohle]*
+
 
 **19:59** Aber sie sind vo Generatione gfolgt worde, wo d Gebät verlore hend und ihre Begierde gfolgt sind. Sie werdet Verderbe begegne.
 
@@ -10855,7 +10855,7 @@ Wenn ir im Zustand vo Unreinheit sind, reiniget euch. Wenn ir chrank sind, oder 
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌۭ مِّنَ ٱلنَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ ۗ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ ۩
 
-*[Niderwerfig — empfohle]*
+
 
 **22:19** Da sind zwei Gegner, wo wege ihrem Herr stryte. Was die aagoht, wo nid globe, für sie werde Chleider us Füür zuegschnitte, und siedends Wasser wird über ihri Chöpf gosse.
 
@@ -11093,7 +11093,7 @@ Wenn ir im Zustand vo Unreinheit sind, reiniget euch. Wenn ir chrank sind, oder 
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩
 
-*[Niderwerfig — empfohle]*
+
 
 **22:78** Und sträbed für Allah, mit em Sträbe, wo Ihm gebührt. Er het öi erwählt, und het öi in de Religion nid belaschtet — de Globe vo öiem Vater Abraham. Er isch s, wo öi früeher Muslime gnennt het, und in dem. Damit de Bote e Züüge über öi sii cha, und ir Züüge über d Lüt sii chönd. So bäted regelmässig, und gäbed regelmässigi Wohltätigkeit, und halted öi a Allah. Er isch öie Beschützer. Was für e usgezeichnete Beschützer, und was für e usgezeichnete Helfer.
 
@@ -12103,7 +12103,7 @@ Wenn ir im Zustand vo Unreinheit sind, reiniget euch. Wenn ir chrank sind, oder 
 
 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًۭا ۩
 
-*[Niderwerfig — empfohle]*
+
 
 **25:61** Gsägnet isch Er, wo Sternbilder an Himmel gsetzt het, und det e Lampe gsetzt het, und e liechtende Mond.
 
@@ -13209,7 +13209,7 @@ Wenn ir im Zustand vo Unreinheit sind, reiniget euch. Wenn ir chrank sind, oder 
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩
 
-*[Niderwerfig — empfohle]*
+
 
 **27:27** Er het gsait: «Mir wärde gseh, ob du d Wahrheit gsait hesch, oder ob du en Lügner bisch.
 
@@ -14603,7 +14603,7 @@ Wenn ir im Zustand vo Unreinheit sind, reiniget euch. Wenn ir chrank sind, oder 
 
 إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًۭا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩
 
-*[Niderwerfig — verpflichtend]*
+
 
 **32:16** Ihri Siite miede ihri Betten, während sie zu ihrem Herr bäte, us Ehrfurcht un Hoffnig; un vo Unserer Versorgig an sie, gän sie.
 
@@ -16581,7 +16581,7 @@ Wenn ir im Zustand vo Unreinheit sind, reiniget euch. Wenn ir chrank sind, oder 
 
 قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَأَنَابَ ۩
 
-*[Niderwerfig — empfohle]*
+
 
 **38:25** So hän mir ihm das vergä. Un für ihn isch Nöchi bi üs, un e guete Platz vo de Rückkehr.
 
@@ -17667,7 +17667,7 @@ Wenn ir im Zustand vo Unreinheit sind, reiniget euch. Wenn ir chrank sind, oder 
 
 فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ ۩
 
-*[Niderwerfig — verpflichtend]*
+
 
 **41:39** Un vo Sine Zeiche isch, dass du s Land still gsiesch. Aber wenn Mir Wasser druf abe schicke, bewegt es sich un wachst. Sicher, Er, wo es wiederbelebt het, wird d Tote wiederbelebe. Er cha alli Dinge do.
 
@@ -20173,7 +20173,7 @@ Wenn ir im Zustand vo Unreinheit sind, reiniget euch. Wenn ir chrank sind, oder 
 
 فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩
 
-*[Niderwerfig — verpflichtend]*
+
 
 ---
 
@@ -24783,7 +24783,7 @@ Wenn ir im Zustand vo Unreinheit sind, reiniget euch. Wenn ir chrank sind, oder 
 
 وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
 
-*[Niderwerfig — empfohle]*
+
 
 **84:22** In Wirklichkeit sind die, wo nit glaubed, in Verleugnig.
 
@@ -25809,7 +25809,7 @@ Wenn ir im Zustand vo Unreinheit sind, reiniget euch. Wenn ir chrank sind, oder 
 
 كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩
 
-*[Niderwerfig — verpflichtend]*
+
 
 ---
 

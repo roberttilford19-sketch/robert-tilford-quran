@@ -2888,7 +2888,7 @@ AFRIKAANS MANUSCRIPT — REVISION DRAFT, not a final edition. An Afrikaans rende
 
 **5:6** O julle wat glo! Wanneer julle opstaan om te bid, was julle gesigte en julle hande en arms tot by die elmboë, en vee oor julle koppe, en was julle voete tot by die enkels.
 
-*[Sommige lesings laat die vryf tot by die voete voortgaan; die lesing wat hier gedruk word, sê: was.]*
+
 
 As julle in ’n toestand van onreinheid is, reinig julleself. As julle siek is, of op reis is, of een van julle kom terug van die toilet af, of julle het aanraking met vroue gehad, en julle kon nie water kry nie, gebruik dan skoon grond en vee julle gesigte en hande daarmee af. Allah wil julle nie belas nie, maar Hy wil julle reinig, en Sy seën oor julle voltooi, sodat julle dankbaar kan wees.
 
@@ -4858,7 +4858,7 @@ As julle in ’n toestand van onreinheid is, reinig julleself. As julle siek is,
 
 إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩
 
-*[Neerbuiging — aanbeveel]*
+
 
 ---
 
@@ -7176,7 +7176,7 @@ As julle in ’n toestand van onreinheid is, reinig julleself. As julle siek is,
 
 وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ ۩
 
-*[Neerbuiging — aanbeveel]*
+
 
 **13:16** Sê: “Wie is die Here van die hemele en die aarde?” Sê: “Allah.” Sê: “Het julle behalwe Hy beskermers geneem, wat geen mag het om hulleself te bevoordeel of te skaad nie?” Sê: “Is die blinde en die sienende gelyk? Of is duisternis en lig gelyk? Of het hulle aan Allah medewerkers toegeskryf, wat soos Sy skepping geskep het, sodat die skeppings vir hulle eenders gelyk het? Sê: “Allah is die Skepper van alle dinge, en Hy is die Een, die Onweerstaanbare.”
 
@@ -8130,7 +8130,7 @@ As julle in ’n toestand van onreinheid is, reinig julleself. As julle siek is,
 
 يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩
 
-*[Neerbuiging — aanbeveel]*
+
 
 **16:51** Allah het gesê: “Moenie twee gode neem nie; Hy is net Een God; vrees dus net My.”
 
@@ -8892,7 +8892,7 @@ As julle in ’n toestand van onreinheid is, reinig julleself. As julle siek is,
 
 وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًۭا ۩
 
-*[Neerbuiging — aanbeveel]*
+
 
 **17:110** Sê: “Noem Hom Allah, of noem Hom die Barmhartigste. Watter naam julle ook al gebruik, aan Hom behoort die Beste Name.” En wees nie hard in jou gebed nie, en ook nie stil daarin nie, maar volg ’n weg tussenin.
 
@@ -9598,7 +9598,7 @@ As julle in ’n toestand van onreinheid is, reinig julleself. As julle siek is,
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩
 
-*[Neerbuiging — aanbeveel]*
+
 
 **19:59** Maar hulle is opgevolg deur geslagte wat die gebede verloor het en hulle aptyte gevolg het. Hulle sal ondergang ontmoet.
 
@@ -10856,7 +10856,7 @@ As julle in ’n toestand van onreinheid is, reinig julleself. As julle siek is,
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌۭ مِّنَ ٱلنَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ ۗ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ ۩
 
-*[Neerbuiging — aanbeveel]*
+
 
 **22:19** Hier is twee teenstanders wat oor hulle Here stry. Wat dié betref wat nie glo nie, klere van vuur sal vir hulle gesny word, en kokende water sal oor hulle koppe gegiet word.
 
@@ -11094,7 +11094,7 @@ As julle in ’n toestand van onreinheid is, reinig julleself. As julle siek is,
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩
 
-*[Neerbuiging — aanbeveel]*
+
 
 **22:78** En streef vir Allah, met die strewe wat Hom toekom. Hy het julle gekies en julle in godsdiens nie belas nie — die geloof van julle vader Abraham. Hy is die een wat julle tevore Moslems genoem het, en in hierdie ook. Sodat die Boodskapper ’n getuie oor julle kan wees, en julle getuies oor die mense kan wees. Bid dus gereeld, en gee gereelde liefdadigheid, en klou aan Allah vas. Hy is julle Beskermer. Wat ’n uitstekende Beskermer, en wat ’n uitstekende Helper.
 
@@ -12104,7 +12104,7 @@ As julle in ’n toestand van onreinheid is, reinig julleself. As julle siek is,
 
 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًۭا ۩
 
-*[Neerbuiging — aanbeveel]*
+
 
 **25:61** Geseënd is Hy wat sterrebeelde in die hemel geplaas het, en daarin 'n lamp geplaas het, en 'n maan wat lig gee.
 
@@ -13210,7 +13210,7 @@ As julle in ’n toestand van onreinheid is, reinig julleself. As julle siek is,
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩
 
-*[Neerbuiging — aanbeveel]*
+
 
 **27:27** Hy het gesê: “Ons sal sien, of jy die waarheid gepraat het, en of jy 'n leuenaar is.
 
@@ -14604,7 +14604,7 @@ As julle in ’n toestand van onreinheid is, reinig julleself. As julle siek is,
 
 إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًۭا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩
 
-*[Neerbuiging — verpligtend]*
+
 
 **32:16** Hulle sye vermy hulle beddens, terwyl hulle tot hulle Here bid, uit eerbied en hoop; en uit Ons voorsieninge aan hulle, gee hulle.
 
@@ -16582,7 +16582,7 @@ As julle in ’n toestand van onreinheid is, reinig julleself. As julle siek is,
 
 قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَأَنَابَ ۩
 
-*[Neerbuiging — aanbeveel]*
+
 
 **38:25** So Ons het hom dit vergewe. En vir hom is daar nabyheid aan Ons, en ’n goeie plek van terugkeer.
 
@@ -17668,7 +17668,7 @@ As julle in ’n toestand van onreinheid is, reinig julleself. As julle siek is,
 
 فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ ۩
 
-*[Neerbuiging — verpligtend]*
+
 
 **41:39** En van Sy tekens is dat jy die land stil sien. Maar wanneer Ons water daarop neer stuur, roer dit en groei dit. Waarlik, Hy wat dit laat herleef het, sal die dooies laat herleef. Hy is in staat om alle dinge te doen.
 
@@ -20174,7 +20174,7 @@ As julle in ’n toestand van onreinheid is, reinig julleself. As julle siek is,
 
 فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩
 
-*[Neerbuiging — verpligtend]*
+
 
 ---
 
@@ -24784,7 +24784,7 @@ As julle in ’n toestand van onreinheid is, reinig julleself. As julle siek is,
 
 وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
 
-*[Neerbuiging — aanbeveel]*
+
 
 **84:22** In werklikheid is hulle wat nie glo nie in ontkenning.
 
@@ -25810,7 +25810,7 @@ As julle in ’n toestand van onreinheid is, reinig julleself. As julle siek is,
 
 كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩
 
-*[Neerbuiging — verpligtend]*
+
 
 ---
 
