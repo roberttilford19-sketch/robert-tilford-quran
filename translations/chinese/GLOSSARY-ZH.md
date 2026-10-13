@@ -207,3 +207,14 @@
 | Tubba | 图巴（音译统一） | 图伯阿 |
 | Dhul-Kifl | 左勒基福勒（音译统一） | 助勒基福勒 |
 | Imran | 仪姆兰（音译保留，见第二节说明） | — |
+
+---
+
+## RULINGS LOCKED 2026-10-12 (Robert, one-by-one, after the Surah 2 sampling + full-manuscript sweep)
+
+1. **Riba:** EN "usury" → **利息** (deliberate carrier; the condemnation lives in the verse wording). 重利 rejected (narrows to excessive interest); 利贷 rejected (archaic). 30:39 answers EN "increase" separately (per-verse rule).
+2. **Taghoot:** rendered **per-verse, matching the English in each verse** — 暴君 where EN reads "the tyrants" (2:256, 2:257); 邪恶势力 for "the evil powers" (4:60); plain 邪恶 for "the cause of evil" (4:76); idol/false-god verses (5:60, 16:36, 39:17) keep their faithful 偶像 renderings untouched. No uniform glossary term; 恶魔/撒旦 never imported where the EN does not name them.
+3. **Sacred sites:** phrase-by-phrase fidelity — "the Sacred House of Worship" → **神圣礼拜殿**; "the House" / "the Ancient House" → **这座殿**; where the EN itself reads "the Sacred Mosque," **禁寺** stands (see §四）; "the Kaaba" keeps **天房**; 52:4 "the frequented House" keeps 天房 (distinct celestial phrase, defensible variation).
+4. **Al-Ghayb:** EN "the unseen" → **幽玄**, locked. Uniform across all 25 occurrences; a carrier, not an interpretation.
+
+Governing principle (as it emerged from Rulings 2–3): **the Chinese matches Robert's English in the verse it stands in.** Uniformity is never a reason to override a deliberate English variation.
