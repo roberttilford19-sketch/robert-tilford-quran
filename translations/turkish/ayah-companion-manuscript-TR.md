@@ -210,7 +210,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰٓ أَبْصَٰرِهِمْ غِشَٰوَةٌۭ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌۭ
 
-**2:8** İnsanlar arasında, “Allah'a ve Son Güne inandık” diyenler vardır, ama onlar inanmazlar.
+**2:8** İnsanlar arasında, "Allah'a ve Son Güne inandık" diyenler vardır, ama onlar inanmazlar.
 
 وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ وَبِٱلْيَوْمِ ٱلْءَاخِرِ وَمَا هُم بِمُؤْمِنِينَ
 
@@ -222,7 +222,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 فِى قُلُوبِهِم مَّرَضٌۭ فَزَادَهُمُ ٱللَّهُ مَرَضًۭا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْذِبُونَ
 
-**2:11** Onlara, “Yeryüzünde bozgunculuk yapmayın” denildiğinde, “Biz yalnızca düzelticileriz” derler.
+**2:11** Onlara, "Yeryüzünde bozgunculuk yapmayın" denildiğinde, "Biz yalnızca düzelticileriz" derler.
 
 وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ قَالُوٓا۟ إِنَّمَا نَحْنُ مُصْلِحُونَ
 
@@ -230,11 +230,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 أَلَآ إِنَّهُمْ هُمُ ٱلْمُفْسِدُونَ وَلَٰكِن لَّا يَشْعُرُونَ
 
-**2:13** Onlara, “İnsanların inandığı gibi inanın” denildiğinde, “Akılsızların inandığı gibi mi inanalım?” derler. Aslında akılsızlar kendileridir, ama bilmezler.
+**2:13** Onlara, "İnsanların inandığı gibi inanın" denildiğinde, "Akılsızların inandığı gibi mi inanalım?" derler. Aslında akılsızlar kendileridir, ama bilmezler.
 
 وَإِذَا قِيلَ لَهُمْ ءَامِنُوا۟ كَمَآ ءَامَنَ ٱلنَّاسُ قَالُوٓا۟ أَنُؤْمِنُ كَمَآ ءَامَنَ ٱلسُّفَهَآءُ ۗ أَلَآ إِنَّهُمْ هُمُ ٱلسُّفَهَآءُ وَلَٰكِن لَّا يَعْلَمُونَ
 
-**2:14** İnananlarla karşılaştıklarında, “İnandık” derler; ama şeytanlarıyla baş başa kaldıklarında, “Biz sizinleyiz; yalnızca alay ediyorduk” derler.
+**2:14** İnananlarla karşılaştıklarında, "İnandık" derler; ama şeytanlarıyla baş başa kaldıklarında, "Biz sizinleyiz; yalnızca alay ediyorduk" derler.
 
 وَإِذَا لَقُوا۟ ٱلَّذِينَ ءَامَنُوا۟ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ إِلَىٰ شَيَٰطِينِهِمْ قَالُوٓا۟ إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ مُسْتَهْزِءُونَ
 
@@ -278,11 +278,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِى وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ ۖ أُعِدَّتْ لِلْكَٰفِرِينَ
 
-**2:25** İnanan ve doğru işler yapanlara müjde ver: onlar için altından ırmaklar akan bahçeler vardır. Orada kendilerine rızık olarak bir ürün her verildiğinde, “Bu, bize önce verilen şeydir” derler ve onlara onun benzeri verilir. Orada onlar için temiz eşler vardır ve orada sonsuza kadar kalırlar.
+**2:25** İnanan ve doğru işler yapanlara müjde ver: onlar için altından ırmaklar akan bahçeler vardır. Orada kendilerine rızık olarak bir ürün her verildiğinde, "Bu, bize önce verilen şeydir" derler ve onlara onun benzeri verilir. Orada onlar için temiz eşler vardır ve orada sonsuza kadar kalırlar.
 
 وَبَشِّرِ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۖ كُلَّمَا رُزِقُوا۟ مِنْهَا مِن ثَمَرَةٍۢ رِّزْقًۭا ۙ قَالُوا۟ هَٰذَا ٱلَّذِى رُزِقْنَا مِن قَبْلُ ۖ وَأُتُوا۟ بِهِۦ مُتَشَٰبِهًۭا ۖ وَلَهُمْ فِيهَآ أَزْوَٰجٌۭ مُّطَهَّرَةٌۭ ۖ وَهُمْ فِيهَا خَٰلِدُونَ
 
-**2:26** Allah bir sivrisineği, ya da ondan daha üstün bir şeyi örnek vermekten çekinmez. İnananlar bilir ki o, Rablerinden gelen Gerçektir. İnkâr edenler ise, “Allah bu örnekle ne demek istedi?” derler. Onunla birçok kimseyi saptırır ve onunla birçok kimseyi doğru yola iletir; ama onunla yalnızca kötüleri saptırır.
+**2:26** Allah bir sivrisineği, ya da ondan daha üstün bir şeyi örnek vermekten çekinmez. İnananlar bilir ki o, Rablerinden gelen Gerçektir. İnkâr edenler ise, "Allah bu örnekle ne demek istedi?" derler. Onunla birçok kimseyi saptırır ve onunla birçok kimseyi doğru yola iletir; ama onunla yalnızca kötüleri saptırır.
 
 ۞ إِنَّ ٱللَّهَ لَا يَسْتَحْىِۦٓ أَن يَضْرِبَ مَثَلًۭا مَّا بَعُوضَةًۭ فَمَا فَوْقَهَا ۚ فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ فَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ ۖ وَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَيَقُولُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلًۭا ۘ يُضِلُّ بِهِۦ كَثِيرًۭا وَيَهْدِى بِهِۦ كَثِيرًۭا ۚ وَمَا يُضِلُّ بِهِۦٓ إِلَّا ٱلْفَٰسِقِينَ
 
@@ -298,31 +298,31 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 هُوَ ٱلَّذِى خَلَقَ لَكُم مَّا فِى ٱلْأَرْضِ جَمِيعًۭا ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ فَسَوَّىٰهُنَّ سَبْعَ سَمَٰوَٰتٍۢ ۚ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌۭ
 
-**2:30** Rabbin meleklere, “Yeryüzüne bir halife yerleştiriyorum” dedi. Onlar, “Biz Seni övüyor ve Seni kutsal sayıyorken, orada bozgunculuk yapacak ve kan dökecek birini mi yerleştireceksin?” dediler. O, “Ben sizin bilmediğinizi bilirim” dedi.
+**2:30** Rabbin meleklere, "Yeryüzüne bir halife yerleştiriyorum" dedi. Onlar, "Biz Seni övüyor ve Seni kutsal sayıyorken, orada bozgunculuk yapacak ve kan dökecek birini mi yerleştireceksin?" dediler. O, "Ben sizin bilmediğinizi bilirim" dedi.
 
 وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى جَاعِلٌۭ فِى ٱلْأَرْضِ خَلِيفَةًۭ ۖ قَالُوٓا۟ أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ ٱلدِّمَآءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ ۖ قَالَ إِنِّىٓ أَعْلَمُ مَا لَا تَعْلَمُونَ
 
-**2:31** Ve Âdem'e isimleri, hepsini öğretti; sonra onları meleklere sundu ve, “Doğruysanız bunların isimlerini Bana söyleyin” dedi.
+**2:31** Ve Âdem'e isimleri, hepsini öğretti; sonra onları meleklere sundu ve, "Doğruysanız bunların isimlerini Bana söyleyin" dedi.
 
 وَعَلَّمَ ءَادَمَ ٱلْأَسْمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰٓئِكَةِ فَقَالَ أَنۢبِـُٔونِى بِأَسْمَآءِ هَٰٓؤُلَآءِ إِن كُنتُمْ صَٰدِقِينَ
 
-**2:32** Onlar, “Sen yücesin! Bize öğrettiğinden başka bilgimiz yoktur. Bilgili ve Bilge olan Sensin” dediler.
+**2:32** Onlar, "Sen yücesin! Bize öğrettiğinden başka bilgimiz yoktur. Bilgili ve Bilge olan Sensin" dediler.
 
 قَالُوا۟ سُبْحَٰنَكَ لَا عِلْمَ لَنَآ إِلَّا مَا عَلَّمْتَنَآ ۖ إِنَّكَ أَنتَ ٱلْعَلِيمُ ٱلْحَكِيمُ
 
-**2:33** O, “Ey Âdem, onlara isimlerini söyle” dedi. Âdem onlara isimlerini söyleyince, O, “Size demedim mi, göklerin ve yeryüzünün sırlarını bilirim ve açıkladığınızı da gizlediğinizi de bilirim?” dedi.
+**2:33** O, "Ey Âdem, onlara isimlerini söyle" dedi. Âdem onlara isimlerini söyleyince, O, "Size demedim mi, göklerin ve yeryüzünün sırlarını bilirim ve açıkladığınızı da gizlediğinizi de bilirim?" dedi.
 
 قَالَ يَٰٓـَٔادَمُ أَنۢبِئْهُم بِأَسْمَآئِهِمْ ۖ فَلَمَّآ أَنۢبَأَهُم بِأَسْمَآئِهِمْ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ غَيْبَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ
 
-**2:34** Ve meleklere, “Âdem'e secde edin” dedik. Şeytan dışında secde ettiler. O reddetti, büyüklendi ve inkâr edenlerden oldu.
+**2:34** Ve meleklere, "Âdem'e secde edin" dedik. Şeytan dışında secde ettiler. O reddetti, büyüklendi ve inkâr edenlerden oldu.
 
 وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ وَٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَٰفِرِينَ
 
-**2:35** Dedik ki: “Ey Âdem, sen ve eşin Bahçede yaşayın ve dilediğiniz gibi ondan bol bol yiyin, ama bu ağaca yaklaşmayın, yoksa yanlış yapanlardan olursunuz.”
+**2:35** Dedik ki: "Ey Âdem, sen ve eşin Bahçede yaşayın ve dilediğiniz gibi ondan bol bol yiyin, ama bu ağaca yaklaşmayın, yoksa yanlış yapanlardan olursunuz."
 
 وَقُلْنَا يَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
 
-**2:36** Ama Şeytan onları ondan kaydırdı ve bulundukları durumdan çıkmalarına yol açtı. Dedik ki: “İnin, bir kısmınız bir kısmınıza düşmandır. Yeryüzünde bir süre kalacak yeriniz ve yararlanmanız vardır.”
+**2:36** Ama Şeytan onları ondan kaydırdı ve bulundukları durumdan çıkmalarına yol açtı. Dedik ki: "İnin, bir kısmınız bir kısmınıza düşmandır. Yeryüzünde bir süre kalacak yeriniz ve yararlanmanız vardır."
 
 فَأَزَلَّهُمَا ٱلشَّيْطَٰنُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ ۖ وَقُلْنَا ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّۭ ۖ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّۭ وَمَتَٰعٌ إِلَىٰ حِينٍۢ
 
@@ -330,11 +330,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
-**2:38** Dedik ki: “Oradan inin, hepiniz. Benden size ne zaman bir yol gösterme gelirse, kim Benim yol göstermeme uyarsa, onlar için korku yoktur ve üzülmezler.
+**2:38** Dedik ki: "Oradan inin, hepiniz. Benden size ne zaman bir yol gösterme gelirse, kim Benim yol göstermeme uyarsa, onlar için korku yoktur ve üzülmezler.
 
 قُلْنَا ٱهْبِطُوا۟ مِنْهَا جَمِيعًۭا ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًۭى فَمَن تَبِعَ هُدَاىَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
-**2:39** İnkâr eden ve ayetlerimizi yalanlayanlara gelince, onlar Ateşin içindekilerdir; orada sonsuza kadar kalırlar.”
+**2:39** İnkâr eden ve ayetlerimizi yalanlayanlara gelince, onlar Ateşin içindekilerdir; orada sonsuza kadar kalırlar."
 
 وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
@@ -394,11 +394,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَإِذْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ وَٱلْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ
 
-**2:54** Ve Mûsâ'nın halkına dediğini hatırlayın: “Ey halkım, buzağıyı ilah edinerek kendinize yanlış yaptınız. Öyleyse Yaratanınıza tövbe edin ve nefsinizi öldürün. Bu, Yaratanınızın yanında sizin için daha iyidir.” Böylece O size tövbe ile yöneldi. O, tövbeyi kabul eden ve Rahim olandır.
+**2:54** Ve Mûsâ'nın halkına dediğini hatırlayın: "Ey halkım, buzağıyı ilah edinerek kendinize yanlış yaptınız. Öyleyse Yaratanınıza tövbe edin ve nefsinizi öldürün. Bu, Yaratanınızın yanında sizin için daha iyidir." Böylece O size tövbe ile yöneldi. O, tövbeyi kabul eden ve Rahim olandır.
 
 وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلْعِجْلَ فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
-**2:55** Ve dediğinizi hatırlayın: “Ey Mûsâ, Allah'ı açıkça görmedikçe sana inanmayız.” Siz bakarken yıldırım sizi çarptı.
+**2:55** Ve dediğinizi hatırlayın: "Ey Mûsâ, Allah'ı açıkça görmedikçe sana inanmayız." Siz bakarken yıldırım sizi çarptı.
 
 وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نُّؤْمِنَ لَكَ حَتَّىٰ نَرَى ٱللَّهَ جَهْرَةًۭ فَأَخَذَتْكُمُ ٱلصَّٰعِقَةُ وَأَنتُمْ تَنظُرُونَ
 
@@ -406,11 +406,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 ثُمَّ بَعَثْنَٰكُم مِّنۢ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ
 
-**2:57** Ve sizi bulutlarla gölgeledik ve size kudret helvası ve bıldırcın indirdik: “Size verdiğimiz iyi şeylerden yiyin.” Bize yanlış yapmadılar, ama kendi canlarına yanlış yaparlardı.
+**2:57** Ve sizi bulutlarla gölgeledik ve size kudret helvası ve bıldırcın indirdik: "Size verdiğimiz iyi şeylerden yiyin." Bize yanlış yapmadılar, ama kendi canlarına yanlış yaparlardı.
 
 وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ ۖ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ ۖ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
 
-**2:58** Ve dediğimizi hatırlayın: “Bu kasabaya girin ve dilediğiniz yerden bol bol yiyin; ama kapıdan alçakgönüllü girin ve ‘Bağışla’ deyin. Yanlışlarınızı bağışlayacağız ve erdemli olanlara daha fazlasını vereceğiz.”
+**2:58** Ve dediğimizi hatırlayın: "Bu kasabaya girin ve dilediğiniz yerden bol bol yiyin; ama kapıdan alçakgönüllü girin ve 'Bağışla' deyin. Yanlışlarınızı bağışlayacağız ve erdemli olanlara daha fazlasını vereceğiz."
 
 وَإِذْ قُلْنَا ٱدْخُلُوا۟ هَٰذِهِ ٱلْقَرْيَةَ فَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ رَغَدًۭا وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًۭا وَقُولُوا۟ حِطَّةٌۭ نَّغْفِرْ لَكُمْ خَطَٰيَٰكُمْ ۚ وَسَنَزِيدُ ٱلْمُحْسِنِينَ
 
@@ -418,11 +418,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 فَبَدَّلَ ٱلَّذِينَ ظَلَمُوا۟ قَوْلًا غَيْرَ ٱلَّذِى قِيلَ لَهُمْ فَأَنزَلْنَا عَلَى ٱلَّذِينَ ظَلَمُوا۟ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ
 
-**2:60** Ve Mûsâ'nın halkı için su istediğini hatırlayın. “Asanla kayaya vur” dedik. Ondan on iki pınar fışkırdı ve her kabile içecek yerini tanıdı. “Allah'ın rızkından yiyin ve için ve itaatsizlikle yeryüzünü bozmayın.”
+**2:60** Ve Mûsâ'nın halkı için su istediğini hatırlayın. "Asanla kayaya vur" dedik. Ondan on iki pınar fışkırdı ve her kabile içecek yerini tanıdı. "Allah'ın rızkından yiyin ve için ve itaatsizlikle yeryüzünü bozmayın."
 
 ۞ وَإِذِ ٱسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِۦ فَقُلْنَا ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ ۖ فَٱنفَجَرَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًۭا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍۢ مَّشْرَبَهُمْ ۖ كُلُوا۟ وَٱشْرَبُوا۟ مِن رِّزْقِ ٱللَّهِ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
 
-**2:61** Ve dediğinizi hatırlayın: “Ey Mûsâ, tek çeşit yemeğe dayanamayız; bizim için Rabbine dua et, yeryüzünün bitirdiği şeylerden bize çıkarsın: sebzelerinden, salatalıklarından, sarımsağından, mercimeğinden ve soğanlarından.” O, “Daha iyiyi daha kötüsüyle mi değiştireceksiniz? Mısır'a inin, orada istediğiniz şey vardır” dedi. Aşağılanma ve yoksulluk onlara vuruldu ve Allah'tan gazaba uğradılar. Bu, Allah'ın ayetlerini reddetmeleri ve peygamberleri haksız yere öldürmeleri yüzündendi. Bu, itaatsiz olmaları ve sınırı aşmaları yüzündendi.
+**2:61** Ve dediğinizi hatırlayın: "Ey Mûsâ, tek çeşit yemeğe dayanamayız; bizim için Rabbine dua et, yeryüzünün bitirdiği şeylerden bize çıkarsın: sebzelerinden, salatalıklarından, sarımsağından, mercimeğinden ve soğanlarından." O, "Daha iyiyi daha kötüsüyle mi değiştireceksiniz? Mısır'a inin, orada istediğiniz şey vardır" dedi. Aşağılanma ve yoksulluk onlara vuruldu ve Allah'tan gazaba uğradılar. Bu, Allah'ın ayetlerini reddetmeleri ve peygamberleri haksız yere öldürmeleri yüzündendi. Bu, itaatsiz olmaları ve sınırı aşmaları yüzündendi.
 
 وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍۢ وَٰحِدٍۢ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا ۖ قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ۚ ٱهْبِطُوا۟ مِصْرًۭا فَإِنَّ لَكُم مَّا سَأَلْتُمْ ۗ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍۢ مِّنَ ٱللَّهِ ۗ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ بِغَيْرِ ٱلْحَقِّ ۗ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
 
@@ -430,7 +430,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَعَمِلَ صَٰلِحًۭا فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
-**2:63** Ve sizden söz aldığımız ve Dağı üzerinize kaldırdığımız zamanı hatırlayın: “Size verdiğimizi ciddiye alın ve içinde olanı hatırlayın ki sorumlu olasınız.”
+**2:63** Ve sizden söz aldığımız ve Dağı üzerinize kaldırdığımız zamanı hatırlayın: "Size verdiğimizi ciddiye alın ve içinde olanı hatırlayın ki sorumlu olasınız."
 
 وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍۢ وَٱذْكُرُوا۟ مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ
 
@@ -438,7 +438,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 ثُمَّ تَوَلَّيْتُم مِّنۢ بَعْدِ ذَٰلِكَ ۖ فَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ لَكُنتُم مِّنَ ٱلْخَٰسِرِينَ
 
-**2:65** Ve içinizden Cumartesi gününü çiğneyenleri kesinlikle bildiniz. Onlara, “Aşağılık maymunlar olun!” dedik.
+**2:65** Ve içinizden Cumartesi gününü çiğneyenleri kesinlikle bildiniz. Onlara, "Aşağılık maymunlar olun!" dedik.
 
 وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَٰسِـِٔينَ
 
@@ -446,23 +446,23 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 فَجَعَلْنَٰهَا نَكَٰلًۭا لِّمَا بَيْنَ يَدَيْهَا وَمَا خَلْفَهَا وَمَوْعِظَةًۭ لِّلْمُتَّقِينَ
 
-**2:67** Ve Mûsâ'nın halkına dediğini hatırlayın: “Allah size bir inek kurban etmenizi buyuruyor.” Onlar, “Bizimle alay mı ediyorsun?” dediler. O, “Bu kadar bilgisiz olmaktan Allah'a sığınırım” dedi.
+**2:67** Ve Mûsâ'nın halkına dediğini hatırlayın: "Allah size bir inek kurban etmenizi buyuruyor." Onlar, "Bizimle alay mı ediyorsun?" dediler. O, "Bu kadar bilgisiz olmaktan Allah'a sığınırım" dedi.
 
 وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦٓ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تَذْبَحُوا۟ بَقَرَةًۭ ۖ قَالُوٓا۟ أَتَتَّخِذُنَا هُزُوًۭا ۖ قَالَ أَعُوذُ بِٱللَّهِ أَنْ أَكُونَ مِنَ ٱلْجَٰهِلِينَ
 
-**2:68** Onlar, “Bizim için Rabbine dua et, hangisi olduğunu bize göstersin” dediler. O, “O diyor ki: ne çok yaşlı ne çok genç, arada bir inektir. Buyurulduğunuz şeyi yapın” dedi.
+**2:68** Onlar, "Bizim için Rabbine dua et, hangisi olduğunu bize göstersin" dediler. O, "O diyor ki: ne çok yaşlı ne çok genç, arada bir inektir. Buyurulduğunuz şeyi yapın" dedi.
 
 قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ ۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌۭ لَّا فَارِضٌۭ وَلَا بِكْرٌ عَوَانٌۢ بَيْنَ ذَٰلِكَ ۖ فَٱفْعَلُوا۟ مَا تُؤْمَرُونَ
 
-**2:69** Onlar, “Bizim için Rabbine dua et, renginin ne olduğunu bize göstersin” dediler. O, “O diyor ki: rengi parlak, bakanları sevindiren sarı bir inektir” dedi.
+**2:69** Onlar, "Bizim için Rabbine dua et, renginin ne olduğunu bize göstersin" dediler. O, "O diyor ki: rengi parlak, bakanları sevindiren sarı bir inektir" dedi.
 
 قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوْنُهَا ۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌۭ صَفْرَآءُ فَاقِعٌۭ لَّوْنُهَا تَسُرُّ ٱلنَّٰظِرِينَ
 
-**2:70** Onlar, “Bizim için Rabbine dua et, hangisi olduğunu bize göstersin; inekler bize benzer görünüyor; Allah dilerse doğru yola geleceğiz” dediler.
+**2:70** Onlar, "Bizim için Rabbine dua et, hangisi olduğunu bize göstersin; inekler bize benzer görünüyor; Allah dilerse doğru yola geleceğiz" dediler.
 
 قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ إِنَّ ٱلْبَقَرَ تَشَٰبَهَ عَلَيْنَا وَإِنَّآ إِن شَآءَ ٱللَّهُ لَمُهْتَدُونَ
 
-**2:71** O, “O diyor ki: yeri sürmek için boyunduruğa vurulmayan, tarlayı sulamayan, kusursuz sağlam bir inektir” dedi. Onlar, “Şimdi doğruyu getirdin” dediler. Böylece onu kestiler; oysa neredeyse yapmayacaklardı.
+**2:71** O, "O diyor ki: yeri sürmek için boyunduruğa vurulmayan, tarlayı sulamayan, kusursuz sağlam bir inektir" dedi. Onlar, "Şimdi doğruyu getirdin" dediler. Böylece onu kestiler; oysa neredeyse yapmayacaklardı.
 
 قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌۭ لَّا ذَلُولٌۭ تُثِيرُ ٱلْأَرْضَ وَلَا تَسْقِى ٱلْحَرْثَ مُسَلَّمَةٌۭ لَّا شِيَةَ فِيهَا ۚ قَالُوا۟ ٱلْـَٰٔنَ جِئْتَ بِٱلْحَقِّ ۚ فَذَبَحُوهَا وَمَا كَادُوا۟ يَفْعَلُونَ
 
@@ -470,7 +470,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَإِذْ قَتَلْتُمْ نَفْسًۭا فَٱدَّٰرَْٰٔتُمْ فِيهَا ۖ وَٱللَّهُ مُخْرِجٌۭ مَّا كُنتُمْ تَكْتُمُونَ
 
-**2:73** “Onun bir parçasıyla ona vurun” dedik. Allah ölüleri böyle diriltir ve ayetlerini size gösterir ki anlayasınız.
+**2:73** "Onun bir parçasıyla ona vurun" dedik. Allah ölüleri böyle diriltir ve ayetlerini size gösterir ki anlayasınız.
 
 فَقُلْنَا ٱضْرِبُوهُ بِبَعْضِهَا ۚ كَذَٰلِكَ يُحْىِ ٱللَّهُ ٱلْمَوْتَىٰ وَيُرِيكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
 
@@ -482,7 +482,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 ۞ أَفَتَطْمَعُونَ أَن يُؤْمِنُوا۟ لَكُمْ وَقَدْ كَانَ فَرِيقٌۭ مِّنْهُمْ يَسْمَعُونَ كَلَٰمَ ٱللَّهِ ثُمَّ يُحَرِّفُونَهُۥ مِنۢ بَعْدِ مَا عَقَلُوهُ وَهُمْ يَعْلَمُونَ
 
-**2:76** İnananlarla karşılaştıklarında, “İnandık” derler, ama özel olarak bir araya geldiklerinde, “Allah'ın size açıkladığını, Rabbinizin önünde sizinle tartışmaları için onlara mı haber vereceksiniz?” derler. Anlamıyor musunuz?
+**2:76** İnananlarla karşılaştıklarında, "İnandık" derler, ama özel olarak bir araya geldiklerinde, "Allah'ın size açıkladığını, Rabbinizin önünde sizinle tartışmaları için onlara mı haber vereceksiniz?" derler. Anlamıyor musunuz?
 
 وَإِذَا لَقُوا۟ ٱلَّذِينَ ءَامَنُوا۟ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَا بَعْضُهُمْ إِلَىٰ بَعْضٍۢ قَالُوٓا۟ أَتُحَدِّثُونَهُم بِمَا فَتَحَ ٱللَّهُ عَلَيْكُمْ لِيُحَآجُّوكُم بِهِۦ عِندَ رَبِّكُمْ ۚ أَفَلَا تَعْقِلُونَ
 
@@ -494,11 +494,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ ٱلْكِتَٰبَ إِلَّآ أَمَانِىَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ
 
-**2:79** Kitabı kendi elleriyle yazıp sonra küçük bir fiyat karşılığında değiştirmek için, “Bu Allah'tandır” diyenlere yazıklar olsun. Ellerinin yazdığı yüzünden yazıklar olsun onlara ve kazandıkları yüzünden yazıklar olsun onlara.
+**2:79** Kitabı kendi elleriyle yazıp sonra küçük bir fiyat karşılığında değiştirmek için, "Bu Allah'tandır" diyenlere yazıklar olsun. Ellerinin yazdığı yüzünden yazıklar olsun onlara ve kazandıkları yüzünden yazıklar olsun onlara.
 
 فَوَيْلٌۭ لِّلَّذِينَ يَكْتُبُونَ ٱلْكِتَٰبَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَٰذَا مِنْ عِندِ ٱللَّهِ لِيَشْتَرُوا۟ بِهِۦ ثَمَنًۭا قَلِيلًۭا ۖ فَوَيْلٌۭ لَّهُم مِّمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌۭ لَّهُم مِّمَّا يَكْسِبُونَ
 
-**2:80** Ve, “Ateş bize sayılı günler dışında dokunmayacak” derler. De ki: “Allah'tan bir söz mü aldınız —Allah sözünü asla bozmaz— yoksa Allah hakkında bilmediğiniz şeyi mi söylüyorsunuz?”
+**2:80** Ve, "Ateş bize sayılı günler dışında dokunmayacak" derler. De ki: "Allah'tan bir söz mü aldınız —Allah sözünü asla bozmaz— yoksa Allah hakkında bilmediğiniz şeyi mi söylüyorsunuz?"
 
 وَقَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامًۭا مَّعْدُودَةًۭ ۚ قُلْ أَتَّخَذْتُمْ عِندَ ٱللَّهِ عَهْدًۭا فَلَن يُخْلِفَ ٱللَّهُ عَهْدَهُۥٓ ۖ أَمْ تَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ
 
@@ -510,11 +510,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
-**2:83** İsrâiloğullarından söz aldık: “Allah'tan başkasına kulluk etmeyin; ana babaya, akrabalara, yetimlere ve yoksullara iyi davranın; insanlara güzel konuşun; namazı düzenli kılın ve zekâtı verin.” Sonra azınız dışında arkanızı döndünüz ve vazgeçtiniz.
+**2:83** İsrâiloğullarından söz aldık: "Allah'tan başkasına kulluk etmeyin; ana babaya, akrabalara, yetimlere ve yoksullara iyi davranın; insanlara güzel konuşun; namazı düzenli kılın ve zekâtı verin." Sonra azınız dışında arkanızı döndünüz ve vazgeçtiniz.
 
 وَإِذْ أَخَذْنَا مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ لَا تَعْبُدُونَ إِلَّا ٱللَّهَ وَبِٱلْوَٰلِدَيْنِ إِحْسَانًۭا وَذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَقُولُوا۟ لِلنَّاسِ حُسْنًۭا وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًۭا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ
 
-**2:84** Ve sizden söz aldık: “Kendi kanınızı dökmeyeceksiniz ve kendi halkınızı evlerinden çıkarmayacaksınız.” Kabul ettiniz ve hepiniz tanıktınız.
+**2:84** Ve sizden söz aldık: "Kendi kanınızı dökmeyeceksiniz ve kendi halkınızı evlerinden çıkarmayacaksınız." Kabul ettiniz ve hepiniz tanıktınız.
 
 وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ لَا تَسْفِكُونَ دِمَآءَكُمْ وَلَا تُخْرِجُونَ أَنفُسَكُم مِّن دِيَٰرِكُمْ ثُمَّ أَقْرَرْتُمْ وَأَنتُمْ تَشْهَدُونَ
 
@@ -530,7 +530,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ وَقَفَّيْنَا مِنۢ بَعْدِهِۦ بِٱلرُّسُلِ ۖ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَٰتِ وَأَيَّدْنَٰهُ بِرُوحِ ٱلْقُدُسِ ۗ أَفَكُلَّمَا جَآءَكُمْ رَسُولٌۢ بِمَا لَا تَهْوَىٰٓ أَنفُسُكُمُ ٱسْتَكْبَرْتُمْ فَفَرِيقًۭا كَذَّبْتُمْ وَفَرِيقًۭا تَقْتُلُونَ
 
-**2:88** Ve, “Kalplerimiz mühürlüdür” dediler. Daha doğrusu, küfürleri yüzünden Allah onları lanetledi. Az inanırlar.
+**2:88** Ve, "Kalplerimiz mühürlüdür" dediler. Daha doğrusu, küfürleri yüzünden Allah onları lanetledi. Az inanırlar.
 
 وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ ۚ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًۭا مَّا يُؤْمِنُونَ
 
@@ -542,7 +542,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 بِئْسَمَا ٱشْتَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ أَن يَكْفُرُوا۟ بِمَآ أَنزَلَ ٱللَّهُ بَغْيًا أَن يُنَزِّلَ ٱللَّهُ مِن فَضْلِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ فَبَآءُو بِغَضَبٍ عَلَىٰ غَضَبٍۢ ۚ وَلِلْكَٰفِرِينَ عَذَابٌۭ مُّهِينٌۭ
 
-**2:91** Onlara, “Allah'ın indirdiğine inanın” denildiğinde, “Bize indirilene inanırız” derler ve sahip olduklarını doğrulayan gerçek olduğu halde ötesini reddederler. De ki: “İnananlarsanız, Allah'ın peygamberlerini daha önce neden öldürdünüz?”
+**2:91** Onlara, "Allah'ın indirdiğine inanın" denildiğinde, "Bize indirilene inanırız" derler ve sahip olduklarını doğrulayan gerçek olduğu halde ötesini reddederler. De ki: "İnananlarsanız, Allah'ın peygamberlerini daha önce neden öldürdünüz?"
 
 وَإِذَا قِيلَ لَهُمْ ءَامِنُوا۟ بِمَآ أَنزَلَ ٱللَّهُ قَالُوا۟ نُؤْمِنُ بِمَآ أُنزِلَ عَلَيْنَا وَيَكْفُرُونَ بِمَا وَرَآءَهُۥ وَهُوَ ٱلْحَقُّ مُصَدِّقًۭا لِّمَا مَعَهُمْ ۗ قُلْ فَلِمَ تَقْتُلُونَ أَنۢبِيَآءَ ٱللَّهِ مِن قَبْلُ إِن كُنتُم مُّؤْمِنِينَ
 
@@ -550,11 +550,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 ۞ وَلَقَدْ جَآءَكُم مُّوسَىٰ بِٱلْبَيِّنَٰتِ ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ ظَٰلِمُونَ
 
-**2:93** Ve sizden söz aldık ve Dağı üzerinize kaldırdık: “Size verdiğimizi sıkı alın ve dinleyin.” Onlar, “Duyduk ve itaat etmiyoruz” dediler. Kalpleri, inkârları yüzünden buzağı sevgisiyle doldu. De ki: “İnananlarsanız, inancınızın size buyurduğu şey ne kötüdür.”
+**2:93** Ve sizden söz aldık ve Dağı üzerinize kaldırdık: "Size verdiğimizi sıkı alın ve dinleyin." Onlar, "Duyduk ve itaat etmiyoruz" dediler. Kalpleri, inkârları yüzünden buzağı sevgisiyle doldu. De ki: "İnananlarsanız, inancınızın size buyurduğu şey ne kötüdür."
 
 وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍۢ وَٱسْمَعُوا۟ ۖ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ ۚ قُلْ بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ
 
-**2:94** De ki: “Allah yanındaki Son Ev, bütün insanların dışında yalnızca sizinse ve doğruysanız, ölümü dileyin.”
+**2:94** De ki: "Allah yanındaki Son Ev, bütün insanların dışında yalnızca sizinse ve doğruysanız, ölümü dileyin."
 
 قُلْ إِن كَانَتْ لَكُمُ ٱلدَّارُ ٱلْءَاخِرَةُ عِندَ ٱللَّهِ خَالِصَةًۭ مِّن دُونِ ٱلنَّاسِ فَتَمَنَّوُا۟ ٱلْمَوْتَ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -566,7 +566,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَلَتَجِدَنَّهُمْ أَحْرَصَ ٱلنَّاسِ عَلَىٰ حَيَوٰةٍۢ وَمِنَ ٱلَّذِينَ أَشْرَكُوا۟ ۚ يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍۢ وَمَا هُوَ بِمُزَحْزِحِهِۦ مِنَ ٱلْعَذَابِ أَن يُعَمَّرَ ۗ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ
 
-**2:97** De ki: “Kim Cebrail'e düşmansa — onu, öncekini doğrulayan ve inananlar için yol gösterme ve müjde olarak, Allah'ın izniyle senin kalbine o indirdi.”
+**2:97** De ki: "Kim Cebrail'e düşmansa — onu, öncekini doğrulayan ve inananlar için yol gösterme ve müjde olarak, Allah'ın izniyle senin kalbine o indirdi."
 
 قُلْ مَن كَانَ عَدُوًّۭا لِّجِبْرِيلَ فَإِنَّهُۥ نَزَّلَهُۥ عَلَىٰ قَلْبِكَ بِإِذْنِ ٱللَّهِ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ وَهُدًۭى وَبُشْرَىٰ لِلْمُؤْمِنِينَ
 
@@ -586,7 +586,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَلَمَّا جَآءَهُمْ رَسُولٌۭ مِّنْ عِندِ ٱللَّهِ مُصَدِّقٌۭ لِّمَا مَعَهُمْ نَبَذَ فَرِيقٌۭ مِّنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ كِتَٰبَ ٱللَّهِ وَرَآءَ ظُهُورِهِمْ كَأَنَّهُمْ لَا يَعْلَمُونَ
 
-**2:102** Ve Süleyman'ın egemenliği sırasında şeytanların öğrettiği şeyi izlediler. İnkâr eden Süleyman değildi; inkâr eden şeytanlardı. İnsanlara büyücülüğü ve Babil'deki iki melek Harut ve Marut'a indirileni öğrettiler. Onlar, “Biz bir sınamayız, öyleyse inancını yitirme” demeden kimseye öğretmezlerdi. Ama onlardan, erkek ile karısı arasında ayrılık çıkarma yolunu öğrendiler. Ama Allah'ın izni olmadıkça kimseye zarar veremezler. Ve kendilerine zarar veren ve yarar vermeyen şeyi öğrendiler. Oysa onunla uğraşanın Ahirette payı olmayacağını bildiler. Bilselerdi, canlarını sattıkları şey ne kötüdür.
+**2:102** Ve Süleyman'ın egemenliği sırasında şeytanların öğrettiği şeyi izlediler. İnkâr eden Süleyman değildi; inkâr eden şeytanlardı. İnsanlara büyücülüğü ve Babil'deki iki melek Harut ve Marut'a indirileni öğrettiler. Onlar, "Biz bir sınamayız, öyleyse inancını yitirme" demeden kimseye öğretmezlerdi. Ama onlardan, erkek ile karısı arasında ayrılık çıkarma yolunu öğrendiler. Ama Allah'ın izni olmadıkça kimseye zarar veremezler. Ve kendilerine zarar veren ve yarar vermeyen şeyi öğrendiler. Oysa onunla uğraşanın Ahirette payı olmayacağını bildiler. Bilselerdi, canlarını sattıkları şey ne kötüdür.
 
 وَٱتَّبَعُوا۟ مَا تَتْلُوا۟ ٱلشَّيَٰطِينُ عَلَىٰ مُلْكِ سُلَيْمَٰنَ ۖ وَمَا كَفَرَ سُلَيْمَٰنُ وَلَٰكِنَّ ٱلشَّيَٰطِينَ كَفَرُوا۟ يُعَلِّمُونَ ٱلنَّاسَ ٱلسِّحْرَ وَمَآ أُنزِلَ عَلَى ٱلْمَلَكَيْنِ بِبَابِلَ هَٰرُوتَ وَمَٰرُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَآ إِنَّمَا نَحْنُ فِتْنَةٌۭ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِۦ بَيْنَ ٱلْمَرْءِ وَزَوْجِهِۦ ۚ وَمَا هُم بِضَآرِّينَ بِهِۦ مِنْ أَحَدٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا۟ لَمَنِ ٱشْتَرَىٰهُ مَا لَهُۥ فِى ٱلْءَاخِرَةِ مِنْ خَلَٰقٍۢ ۚ وَلَبِئْسَ مَا شَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ
 
@@ -622,7 +622,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍۢ تَجِدُوهُ عِندَ ٱللَّهِ ۗ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌۭ
 
-**2:111** Ve, “Yahudi ya da Hristiyan olmayandan başkası Cennete girmeyecek” derler. Bunlar onların dilekleridir. De ki: “Doğruysanız kanıtınızı getirin.”
+**2:111** Ve, "Yahudi ya da Hristiyan olmayandan başkası Cennete girmeyecek" derler. Bunlar onların dilekleridir. De ki: "Doğruysanız kanıtınızı getirin."
 
 وَقَالُوا۟ لَن يَدْخُلَ ٱلْجَنَّةَ إِلَّا مَن كَانَ هُودًا أَوْ نَصَٰرَىٰ ۗ تِلْكَ أَمَانِيُّهُمْ ۗ قُلْ هَاتُوا۟ بُرْهَٰنَكُمْ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -630,7 +630,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌۭ فَلَهُۥٓ أَجْرُهُۥ عِندَ رَبِّهِۦ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
-**2:113** Yahudiler, “Hristiyanlar hiçbir şeye dayanmaz” der; Hristiyanlar, “Yahudiler hiçbir şeye dayanmaz” der. Oysa ikisi de Kitabı okur. Aynı şekilde bilgisizler de aynı şeyi söyledi. Allah, ayrılıkları hakkında Diriliş Gününde aralarında yargı verecektir.
+**2:113** Yahudiler, "Hristiyanlar hiçbir şeye dayanmaz" der; Hristiyanlar, "Yahudiler hiçbir şeye dayanmaz" der. Oysa ikisi de Kitabı okur. Aynı şekilde bilgisizler de aynı şeyi söyledi. Allah, ayrılıkları hakkında Diriliş Gününde aralarında yargı verecektir.
 
 وَقَالَتِ ٱلْيَهُودُ لَيْسَتِ ٱلنَّصَٰرَىٰ عَلَىٰ شَىْءٍۢ وَقَالَتِ ٱلنَّصَٰرَىٰ لَيْسَتِ ٱلْيَهُودُ عَلَىٰ شَىْءٍۢ وَهُمْ يَتْلُونَ ٱلْكِتَٰبَ ۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ لَا يَعْلَمُونَ مِثْلَ قَوْلِهِمْ ۚ فَٱللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ ٱلْقِيَٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ
 
@@ -642,15 +642,15 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَلِلَّهِ ٱلْمَشْرِقُ وَٱلْمَغْرِبُ ۚ فَأَيْنَمَا تُوَلُّوا۟ فَثَمَّ وَجْهُ ٱللَّهِ ۚ إِنَّ ٱللَّهَ وَٰسِعٌ عَلِيمٌۭ
 
-**2:116** Ve, “Allah bir oğul edindi” derler. O yücedir. Daha doğrusu, göklerde ve yeryüzünde olan her şey Onundur; hepsi Ona boyun eğer.
+**2:116** Ve, "Allah bir oğul edindi" derler. O yücedir. Daha doğrusu, göklerde ve yeryüzünde olan her şey Onundur; hepsi Ona boyun eğer.
 
 وَقَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًۭا ۗ سُبْحَٰنَهُۥ ۖ بَل لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ كُلٌّۭ لَّهُۥ قَٰنِتُونَ
 
-**2:117** Göklerin ve yeryüzünün Yaratıcısıdır. Bir şeye karar verdiğinde, ona “Ol” der ve o olur.
+**2:117** Göklerin ve yeryüzünün Yaratıcısıdır. Bir şeye karar verdiğinde, ona "Ol" der ve o olur.
 
 بَدِيعُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ وَإِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 
-**2:118** Bilmeyenler, “Allah bizimle konuşsa ya da bize bir ayet gelse” derler. Onlardan öncekiler de böyle dedi. Kalpleri birbirine benzer. Ayetleri, kesin bilen insanlar için açık yaptık.
+**2:118** Bilmeyenler, "Allah bizimle konuşsa ya da bize bir ayet gelse" derler. Onlardan öncekiler de böyle dedi. Kalpleri birbirine benzer. Ayetleri, kesin bilen insanlar için açık yaptık.
 
 وَقَالَ ٱلَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا ٱللَّهُ أَوْ تَأْتِينَآ ءَايَةٌۭ ۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ مِن قَبْلِهِم مِّثْلَ قَوْلِهِمْ ۘ تَشَٰبَهَتْ قُلُوبُهُمْ ۗ قَدْ بَيَّنَّا ٱلْءَايَٰتِ لِقَوْمٍۢ يُوقِنُونَ
 
@@ -658,7 +658,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 إِنَّآ أَرْسَلْنَٰكَ بِٱلْحَقِّ بَشِيرًۭا وَنَذِيرًۭا ۖ وَلَا تُسْـَٔلُ عَنْ أَصْحَٰبِ ٱلْجَحِيمِ
 
-**2:120** Yahudiler ve Hristiyanlar, sen onların inancına uymadıkça senden hoşlanmayacaklar. De ki: “Allah'ın yol göstermesi, yol göstermenin kendisidir.” Sana gelen bilgiden sonra onların isteklerine uyarsan, Allah'ta bir koruyucun ya da yardımcın olmaz.
+**2:120** Yahudiler ve Hristiyanlar, sen onların inancına uymadıkça senden hoşlanmayacaklar. De ki: "Allah'ın yol göstermesi, yol göstermenin kendisidir." Sana gelen bilgiden sonra onların isteklerine uyarsan, Allah'ta bir koruyucun ya da yardımcın olmaz.
 
 وَلَن تَرْضَىٰ عَنكَ ٱلْيَهُودُ وَلَا ٱلنَّصَٰرَىٰ حَتَّىٰ تَتَّبِعَ مِلَّتَهُمْ ۗ قُلْ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلْهُدَىٰ ۗ وَلَئِنِ ٱتَّبَعْتَ أَهْوَآءَهُم بَعْدَ ٱلَّذِى جَآءَكَ مِنَ ٱلْعِلْمِ ۙ مَا لَكَ مِنَ ٱللَّهِ مِن وَلِىٍّۢ وَلَا نَصِيرٍ
 
@@ -674,19 +674,19 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَٱتَّقُوا۟ يَوْمًۭا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍۢ شَيْـًۭٔا وَلَا يُقْبَلُ مِنْهَا عَدْلٌۭ وَلَا تَنفَعُهَا شَفَٰعَةٌۭ وَلَا هُمْ يُنصَرُونَ
 
-**2:124** Ve Rabbi İbrâhim'i bazı sözlerle sınadı ve o onları yerine getirdi. O, “Seni insanlığa bir önder yapıyorum” dedi. O, “Soyumdan da mı?” dedi. O, “Sözüm yanlış yapanları içermez” dedi.
+**2:124** Ve Rabbi İbrâhim'i bazı sözlerle sınadı ve o onları yerine getirdi. O, "Seni insanlığa bir önder yapıyorum" dedi. O, "Soyumdan da mı?" dedi. O, "Sözüm yanlış yapanları içermez" dedi.
 
 ۞ وَإِذِ ٱبْتَلَىٰٓ إِبْرَٰهِۦمَ رَبُّهُۥ بِكَلِمَٰتٍۢ فَأَتَمَّهُنَّ ۖ قَالَ إِنِّى جَاعِلُكَ لِلنَّاسِ إِمَامًۭا ۖ قَالَ وَمِن ذُرِّيَّتِى ۖ قَالَ لَا يَنَالُ عَهْدِى ٱلظَّٰلِمِينَ
 
-**2:125** Ve Evi insanlar için bir odak noktası ve bir sığınak yaptık. İbrâhim'in yerini bir namaz yeri olarak kullanın. Ve İbrâhim ve İsmâil'e görev verdik: “Evimi, çevresinde dönenler, içinde kendini adayanlar, eğilenler ve secde edenler için temizleyin.”
+**2:125** Ve Evi insanlar için bir odak noktası ve bir sığınak yaptık. İbrâhim'in yerini bir namaz yeri olarak kullanın. Ve İbrâhim ve İsmâil'e görev verdik: "Evimi, çevresinde dönenler, içinde kendini adayanlar, eğilenler ve secde edenler için temizleyin."
 
 وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةًۭ لِّلنَّاسِ وَأَمْنًۭا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِۦمَ مُصَلًّۭى ۖ وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
 
-**2:126** İbrâhim dedi ki: “Ey Rabbim, burayı güvenli bir ülke yap ve halkından Allah'a ve Son Güne inananlara ürünlerle rızık ver.” O, “İnkâr edeni de biraz yararlandıracağım, sonra onu Ateşin azabına vereceğim; o varış yeri ne kötüdür!” dedi.
+**2:126** İbrâhim dedi ki: "Ey Rabbim, burayı güvenli bir ülke yap ve halkından Allah'a ve Son Güne inananlara ürünlerle rızık ver." O, "İnkâr edeni de biraz yararlandıracağım, sonra onu Ateşin azabına vereceğim; o varış yeri ne kötüdür!" dedi.
 
 وَإِذْ قَالَ إِبْرَٰهِۦمُ رَبِّ ٱجْعَلْ هَٰذَا بَلَدًا ءَامِنًۭا وَٱرْزُقْ أَهْلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنْ ءَامَنَ مِنْهُم بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۖ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلًۭا ثُمَّ أَضْطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِ ۖ وَبِئْسَ ٱلْمَصِيرُ
 
-**2:127** İbrâhim, İsmâil ile birlikte Evin temellerini yükseltirken: “Rabbimiz, bizden kabul et; Sen Duyan ve Bilensin.
+**2:127** İbrâhim, İsmâil ile birlikte Evin temellerini yükseltirken: "Rabbimiz, bizden kabul et; Sen Duyan ve Bilensin.
 
 وَإِذْ يَرْفَعُ إِبْرَٰهِۦمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
@@ -694,7 +694,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 رَبَّنَا وَٱجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةًۭ مُّسْلِمَةًۭ لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَآ ۖ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
-**2:129** Rabbimiz, onların arasında kendilerinden bir elçi çıkar; onlara Senin ayetlerini okusun, onlara Kitabı ve bilgeliği öğretsin ve onları arındırsın. Sen Güçlü ve Bilge olansın.”
+**2:129** Rabbimiz, onların arasında kendilerinden bir elçi çıkar; onlara Senin ayetlerini okusun, onlara Kitabı ve bilgeliği öğretsin ve onları arındırsın. Sen Güçlü ve Bilge olansın."
 
 رَبَّنَا وَٱبْعَثْ فِيهِمْ رَسُولًۭا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِكَ وَيُعَلِّمُهُمُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَيُزَكِّيهِمْ ۚ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
@@ -702,15 +702,15 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَمَن يَرْغَبُ عَن مِّلَّةِ إِبْرَٰهِۦمَ إِلَّا مَن سَفِهَ نَفْسَهُۥ ۚ وَلَقَدِ ٱصْطَفَيْنَٰهُ فِى ٱلدُّنْيَا ۖ وَإِنَّهُۥ فِى ٱلْءَاخِرَةِ لَمِنَ ٱلصَّٰلِحِينَ
 
-**2:131** Rabbi ona, “Teslim ol!” dediğinde, “Âlemlerin Rabbine teslim oldum” dedi.
+**2:131** Rabbi ona, "Teslim ol!" dediğinde, "Âlemlerin Rabbine teslim oldum" dedi.
 
 إِذْ قَالَ لَهُۥ رَبُّهُۥٓ أَسْلِمْ ۖ قَالَ أَسْلَمْتُ لِرَبِّ ٱلْعَٰلَمِينَ
 
-**2:132** Ve İbrâhim oğullarına ve Yakup'a öğüt verdi: “Ey oğullarım, Allah bu dini sizin için seçti; öyleyse teslim olmadan ölmeyin.”
+**2:132** Ve İbrâhim oğullarına ve Yakup'a öğüt verdi: "Ey oğullarım, Allah bu dini sizin için seçti; öyleyse teslim olmadan ölmeyin."
 
 وَوَصَّىٰ بِهَآ إِبْرَٰهِۦمُ بَنِيهِ وَيَعْقُوبُ يَٰبَنِىَّ إِنَّ ٱللَّهَ ٱصْطَفَىٰ لَكُمُ ٱلدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ
 
-**2:133** Yoksa Yakup'a ölüm yaklaştığında ve oğullarına, “Benden sonra neye kulluk edeceksiniz?” dediğinde tanık mıydınız? Onlar, “Senin Allah'ına ve ataların İbrâhim, İsmâil ve İshak'ın Allah'ına kulluk edeceğiz; tek Allah; ve biz Ona teslim oluruz” dediler.
+**2:133** Yoksa Yakup'a ölüm yaklaştığında ve oğullarına, "Benden sonra neye kulluk edeceksiniz?" dediğinde tanık mıydınız? Onlar, "Senin Allah'ına ve ataların İbrâhim, İsmâil ve İshak'ın Allah'ına kulluk edeceğiz; tek Allah; ve biz Ona teslim oluruz" dediler.
 
 أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ إِلَٰهًۭا وَٰحِدًۭا وَنَحْنُ لَهُۥ مُسْلِمُونَ
 
@@ -718,11 +718,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 تِلْكَ أُمَّةٌۭ قَدْ خَلَتْ ۖ لَهَا مَا كَسَبَتْ وَلَكُم مَّا كَسَبْتُمْ ۖ وَلَا تُسْـَٔلُونَ عَمَّا كَانُوا۟ يَعْمَلُونَ
 
-**2:135** Ve, “Yahudi ya da Hristiyan olun, doğru yola gelirsiniz” derler. De ki: “Daha doğrusu, İbrâhim'in dini; tek Allah'a inanan; o ortak koşan değildi.”
+**2:135** Ve, "Yahudi ya da Hristiyan olun, doğru yola gelirsiniz" derler. De ki: "Daha doğrusu, İbrâhim'in dini; tek Allah'a inanan; o ortak koşan değildi."
 
 وَقَالُوا۟ كُونُوا۟ هُودًا أَوْ نَصَٰرَىٰ تَهْتَدُوا۟ ۗ قُلْ بَلْ مِلَّةَ إِبْرَٰهِۦمَ حَنِيفًۭا ۖ وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
 
-**2:136** De ki: “Allah'a inandık; bize indirilene inandık; İbrâhim'e, İsmâil'e, İshak'a, Yakup'a ve Atalara indirilene inandık; Mûsâ'ya ve Îsâ'ya verilene inandık; peygamberlere — Rablerinden — verilene inandık. Onlardan hiçbiri arasında ayrım yapmayız ve biz Ona teslim oluruz.”
+**2:136** De ki: "Allah'a inandık; bize indirilene inandık; İbrâhim'e, İsmâil'e, İshak'a, Yakup'a ve Atalara indirilene inandık; Mûsâ'ya ve Îsâ'ya verilene inandık; peygamberlere — Rablerinden — verilene inandık. Onlardan hiçbiri arasında ayrım yapmayız ve biz Ona teslim oluruz."
 
 قُولُوٓا۟ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْنَا وَمَآ أُنزِلَ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَمَآ أُوتِىَ ٱلنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍۢ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ
 
@@ -730,15 +730,15 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 فَإِنْ ءَامَنُوا۟ بِمِثْلِ مَآ ءَامَنتُم بِهِۦ فَقَدِ ٱهْتَدَوا۟ ۖ وَّإِن تَوَلَّوْا۟ فَإِنَّمَا هُمْ فِى شِقَاقٍۢ ۖ فَسَيَكْفِيكَهُمُ ٱللَّهُ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
-**2:138** Allah'ın boyası. Kim Allah'tan daha iyi boya verir? “Ve biz Ona bağlıyız.”
+**2:138** Allah'ın boyası. Kim Allah'tan daha iyi boya verir? "Ve biz Ona bağlıyız."
 
 صِبْغَةَ ٱللَّهِ ۖ وَمَنْ أَحْسَنُ مِنَ ٱللَّهِ صِبْغَةًۭ ۖ وَنَحْنُ لَهُۥ عَٰبِدُونَ
 
-**2:139** De ki: “O bizim Rabbimiz ve sizin Rabbinizken, Allah hakkında bizimle tartışıyor musunuz? Bizim işlerimiz bizimdir ve sizin işleriniz sizindir ve biz Ona içten bağlıyız.”
+**2:139** De ki: "O bizim Rabbimiz ve sizin Rabbinizken, Allah hakkında bizimle tartışıyor musunuz? Bizim işlerimiz bizimdir ve sizin işleriniz sizindir ve biz Ona içten bağlıyız."
 
 قُلْ أَتُحَآجُّونَنَا فِى ٱللَّهِ وَهُوَ رَبُّنَا وَرَبُّكُمْ وَلَنَآ أَعْمَٰلُنَا وَلَكُمْ أَعْمَٰلُكُمْ وَنَحْنُ لَهُۥ مُخْلِصُونَ
 
-**2:140** Yoksa İbrâhim, İsmâil, İshak, Yakup ve Ataların Yahudi ya da Hristiyan olduğunu mu söylüyorsunuz? De ki: “Siz mi daha iyi bilirsiniz, yoksa Allah mı?” Allah'tan sahip olduğu bir tanıklığı gizleyenden daha yanlış kimdir? Allah yaptıklarınızdan habersiz değildir.
+**2:140** Yoksa İbrâhim, İsmâil, İshak, Yakup ve Ataların Yahudi ya da Hristiyan olduğunu mu söylüyorsunuz? De ki: "Siz mi daha iyi bilirsiniz, yoksa Allah mı?" Allah'tan sahip olduğu bir tanıklığı gizleyenden daha yanlış kimdir? Allah yaptıklarınızdan habersiz değildir.
 
 أَمْ تَقُولُونَ إِنَّ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطَ كَانُوا۟ هُودًا أَوْ نَصَٰرَىٰ ۗ قُلْ ءَأَنتُمْ أَعْلَمُ أَمِ ٱللَّهُ ۗ وَمَنْ أَظْلَمُ مِمَّن كَتَمَ شَهَٰدَةً عِندَهُۥ مِنَ ٱللَّهِ ۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ
 
@@ -746,7 +746,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 تِلْكَ أُمَّةٌۭ قَدْ خَلَتْ ۖ لَهَا مَا كَسَبَتْ وَلَكُم مَّا كَسَبْتُمْ ۖ وَلَا تُسْـَٔلُونَ عَمَّا كَانُوا۟ يَعْمَلُونَ
 
-**2:142** İnsanlar arasındaki bilgisizler, “Onları daha önce izledikleri namaz yönünden ne çevirdi?” diyecekler. De ki: “Doğu ve Batı Allah'ındır. Dilediğini doğru yola iletir.”
+**2:142** İnsanlar arasındaki bilgisizler, "Onları daha önce izledikleri namaz yönünden ne çevirdi?" diyecekler. De ki: "Doğu ve Batı Allah'ındır. Dilediğini doğru yola iletir."
 
 ۞ سَيَقُولُ ٱلسُّفَهَآءُ مِنَ ٱلنَّاسِ مَا وَلَّىٰهُمْ عَن قِبْلَتِهِمُ ٱلَّتِى كَانُوا۟ عَلَيْهَا ۚ قُل لِّلَّهِ ٱلْمَشْرِقُ وَٱلْمَغْرِبُ ۚ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
 
@@ -794,7 +794,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ
 
-**2:154** Allah yolunda öldürülenler hakkında, “Ölüler” demeyin. Daha doğrusu, onlar diridirler, ama siz fark etmezsiniz.
+**2:154** Allah yolunda öldürülenler hakkında, "Ölüler" demeyin. Daha doğrusu, onlar diridirler, ama siz fark etmezsiniz.
 
 وَلَا تَقُولُوا۟ لِمَن يُقْتَلُ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتٌۢ ۚ بَلْ أَحْيَآءٌۭ وَلَٰكِن لَّا تَشْعُرُونَ
 
@@ -802,7 +802,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَلَنَبْلُوَنَّكُم بِشَىْءٍۢ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍۢ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ ۗ وَبَشِّرِ ٱلصَّٰبِرِينَ
 
-**2:156** Onlar, başlarına bir felaket geldiğinde, “Biz Allah'a aidiz ve Ona döneceğiz” derler.
+**2:156** Onlar, başlarına bir felaket geldiğinde, "Biz Allah'a aidiz ve Ona döneceğiz" derler.
 
 ٱلَّذِينَ إِذَآ أَصَٰبَتْهُم مُّصِيبَةٌۭ قَالُوٓا۟ إِنَّا لِلَّهِ وَإِنَّآ إِلَيْهِ رَٰجِعُونَ
 
@@ -846,7 +846,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 إِذْ تَبَرَّأَ ٱلَّذِينَ ٱتُّبِعُوا۟ مِنَ ٱلَّذِينَ ٱتَّبَعُوا۟ وَرَأَوُا۟ ٱلْعَذَابَ وَتَقَطَّعَتْ بِهِمُ ٱلْأَسْبَابُ
 
-**2:167** İzleyenler diyecekler: “Bir şansımız daha olsa, onların bizi reddettiği gibi biz de onları reddederiz.” Allah böylece onlara işlerini pişmanlık olarak gösterecek ve Ateşten çıkmayacaklar.
+**2:167** İzleyenler diyecekler: "Bir şansımız daha olsa, onların bizi reddettiği gibi biz de onları reddederiz." Allah böylece onlara işlerini pişmanlık olarak gösterecek ve Ateşten çıkmayacaklar.
 
 وَقَالَ ٱلَّذِينَ ٱتَّبَعُوا۟ لَوْ أَنَّ لَنَا كَرَّةًۭ فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُوا۟ مِنَّا ۗ كَذَٰلِكَ يُرِيهِمُ ٱللَّهُ أَعْمَٰلَهُمْ حَسَرَٰتٍ عَلَيْهِمْ ۖ وَمَا هُم بِخَٰرِجِينَ مِنَ ٱلنَّارِ
 
@@ -858,7 +858,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 إِنَّمَا يَأْمُرُكُم بِٱلسُّوٓءِ وَٱلْفَحْشَآءِ وَأَن تَقُولُوا۟ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ
 
-**2:170** Onlara, “Allah'ın indirdiğini izleyin” denildiğinde, “Atalarımızı izler bulduğumuz şeyi izleyeceğiz” derler. Ataları hiçbir şey anlamasa ve doğru yolda olmasalar da mı?
+**2:170** Onlara, "Allah'ın indirdiğini izleyin" denildiğinde, "Atalarımızı izler bulduğumuz şeyi izleyeceğiz" derler. Ataları hiçbir şey anlamasa ve doğru yolda olmasalar da mı?
 
 وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَآ أَلْفَيْنَا عَلَيْهِ ءَابَآءَنَآ ۗ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْقِلُونَ شَيْـًۭٔا وَلَا يَهْتَدُونَ
 
@@ -934,7 +934,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ وَتُدْلُوا۟ بِهَآ إِلَى ٱلْحُكَّامِ لِتَأْكُلُوا۟ فَرِيقًۭا مِّنْ أَمْوَٰلِ ٱلنَّاسِ بِٱلْإِثْمِ وَأَنتُمْ تَعْلَمُونَ
 
-**2:189** Sana hilaller hakkında sorarlar. De ki: “Onlar insanlar için ve Hac için takvimlerdir.” Evlere arkalarından girmek erdem değildir; ama erdem sorumlu olmaktır. Öyleyse evlere kapılarından girin ve Allah'a dikkat edin ki başarılı olasınız.
+**2:189** Sana hilaller hakkında sorarlar. De ki: "Onlar insanlar için ve Hac için takvimlerdir." Evlere arkalarından girmek erdem değildir; ama erdem sorumlu olmaktır. Öyleyse evlere kapılarından girin ve Allah'a dikkat edin ki başarılı olasınız.
 
 ۞ يَسْـَٔلُونَكَ عَنِ ٱلْأَهِلَّةِ ۖ قُلْ هِىَ مَوَٰقِيتُ لِلنَّاسِ وَٱلْحَجِّ ۗ وَلَيْسَ ٱلْبِرُّ بِأَن تَأْتُوا۟ ٱلْبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ ٱلْبِرَّ مَنِ ٱتَّقَىٰ ۗ وَأْتُوا۟ ٱلْبُيُوتَ مِنْ أَبْوَٰبِهَا ۚ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
 
@@ -978,11 +978,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 ثُمَّ أَفِيضُوا۟ مِنْ حَيْثُ أَفَاضَ ٱلنَّاسُ وَٱسْتَغْفِرُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ
 
-**2:200** İbadetlerinizi tamamladığınızda, ana babalarınızı hatırladığınız gibi, hatta daha fazla Allah'ı hatırlayın. İnsanlar arasında, “Rabbimiz, bize bu dünyada ver” diyen vardır; ama Ahirette payı yoktur.
+**2:200** İbadetlerinizi tamamladığınızda, ana babalarınızı hatırladığınız gibi, hatta daha fazla Allah'ı hatırlayın. İnsanlar arasında, "Rabbimiz, bize bu dünyada ver" diyen vardır; ama Ahirette payı yoktur.
 
 فَإِذَا قَضَيْتُم مَّنَٰسِكَكُمْ فَٱذْكُرُوا۟ ٱللَّهَ كَذِكْرِكُمْ ءَابَآءَكُمْ أَوْ أَشَدَّ ذِكْرًۭا ۗ فَمِنَ ٱلنَّاسِ مَن يَقُولُ رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا وَمَا لَهُۥ فِى ٱلْءَاخِرَةِ مِنْ خَلَٰقٍۢ
 
-**2:201** Ve onların arasında, “Rabbimiz, bize bu dünyada iyilik ver ve Ahirette iyilik ver ve bizi Ateşin azabından koru” diyen vardır.
+**2:201** Ve onların arasında, "Rabbimiz, bize bu dünyada iyilik ver ve Ahirette iyilik ver ve bizi Ateşin azabından koru" diyen vardır.
 
 وَمِنْهُم مَّن يَقُولُ رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا حَسَنَةًۭ وَفِى ٱلْءَاخِرَةِ حَسَنَةًۭ وَقِنَا عَذَابَ ٱلنَّارِ
 
@@ -1002,7 +1002,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَإِذَا تَوَلَّىٰ سَعَىٰ فِى ٱلْأَرْضِ لِيُفْسِدَ فِيهَا وَيُهْلِكَ ٱلْحَرْثَ وَٱلنَّسْلَ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلْفَسَادَ
 
-**2:206** Ve ona, “Allah'tan sakın” denildiğinde, gururu onu daha çok günaha sürükler. Cehennem onun için yeter — korkunç bir kalış yeri.
+**2:206** Ve ona, "Allah'tan sakın" denildiğinde, gururu onu daha çok günaha sürükler. Cehennem onun için yeter — korkunç bir kalış yeri.
 
 وَإِذَا قِيلَ لَهُ ٱتَّقِ ٱللَّهَ أَخَذَتْهُ ٱلْعِزَّةُ بِٱلْإِثْمِ ۚ فَحَسْبُهُۥ جَهَنَّمُ ۚ وَلَبِئْسَ ٱلْمِهَادُ
 
@@ -1034,11 +1034,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 كَانَ ٱلنَّاسُ أُمَّةًۭ وَٰحِدَةًۭ فَبَعَثَ ٱللَّهُ ٱلنَّبِيِّۦنَ مُبَشِّرِينَ وَمُنذِرِينَ وَأَنزَلَ مَعَهُمُ ٱلْكِتَٰبَ بِٱلْحَقِّ لِيَحْكُمَ بَيْنَ ٱلنَّاسِ فِيمَا ٱخْتَلَفُوا۟ فِيهِ ۚ وَمَا ٱخْتَلَفَ فِيهِ إِلَّا ٱلَّذِينَ أُوتُوهُ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ بَغْيًۢا بَيْنَهُمْ ۖ فَهَدَى ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ لِمَا ٱخْتَلَفُوا۟ فِيهِ مِنَ ٱلْحَقِّ بِإِذْنِهِۦ ۗ وَٱللَّهُ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍ
 
-**2:214** Yoksa sizden öncekilerin örneği size ulaşmadan Cennete gireceğinizi mi beklersiniz? Zorluk ve sıkıntı onlara dokundu ve o kadar sarsıldılar ki, Elçi ve onunla inananlar, “Allah'ın zaferi ne zaman?” dediler. Gerçekten Allah'ın zaferi yakındır.
+**2:214** Yoksa sizden öncekilerin örneği size ulaşmadan Cennete gireceğinizi mi beklersiniz? Zorluk ve sıkıntı onlara dokundu ve o kadar sarsıldılar ki, Elçi ve onunla inananlar, "Allah'ın zaferi ne zaman?" dediler. Gerçekten Allah'ın zaferi yakındır.
 
 أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِكُم ۖ مَّسَّتْهُمُ ٱلْبَأْسَآءُ وَٱلضَّرَّآءُ وَزُلْزِلُوا۟ حَتَّىٰ يَقُولَ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ مَتَىٰ نَصْرُ ٱللَّهِ ۗ أَلَآ إِنَّ نَصْرَ ٱللَّهِ قَرِيبٌۭ
 
-**2:215** Sana ne vermeleri gerektiğini sorarlar. De ki: “Verdiğiniz her yardım ana babalar, akrabalar, yetimler, yoksullar ve yolcu içindir. Yaptığınız her iyiliği Allah bilir.
+**2:215** Sana ne vermeleri gerektiğini sorarlar. De ki: "Verdiğiniz her yardım ana babalar, akrabalar, yetimler, yoksullar ve yolcu içindir. Yaptığınız her iyiliği Allah bilir.
 
 يَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ ۖ قُلْ مَآ أَنفَقْتُم مِّنْ خَيْرٍۢ فَلِلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ ۗ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍۢ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌۭ
 
@@ -1046,7 +1046,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ وَهُوَ كُرْهٌۭ لَّكُمْ ۖ وَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًۭٔا وَهُوَ خَيْرٌۭ لَّكُمْ ۖ وَعَسَىٰٓ أَن تُحِبُّوا۟ شَيْـًۭٔا وَهُوَ شَرٌّۭ لَّكُمْ ۗ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
 
-**2:217** Sana Kutsal Ay sırasında savaş hakkında sorarlar. De ki: “Onun sırasında savaşmak kınanacak bir şeydir; ama başkalarını Allah'ın yolundan engellemek ve Onu inkâr etmek ve Kutsal Mescide ulaşmayı engellemek ve halkını ondan çıkarmak, Allah'ın yanında daha kınanacak şeylerdir. Ve baskı öldürmekten daha ciddidir. Güçleri yeterse, sizi dininizden geri döndürene kadar sizinle savaşmayı bırakmayacaklar. İçinizden dininden geri dönen ve inkârcı olarak ölen — onların işleri bu yaşamda ve Ahirette boşa gidecek olanlardır. Onlar Ateşin içindekilerdir, orada sonsuza kadar kalırlar.
+**2:217** Sana Kutsal Ay sırasında savaş hakkında sorarlar. De ki: "Onun sırasında savaşmak kınanacak bir şeydir; ama başkalarını Allah'ın yolundan engellemek ve Onu inkâr etmek ve Kutsal Mescide ulaşmayı engellemek ve halkını ondan çıkarmak, Allah'ın yanında daha kınanacak şeylerdir. Ve baskı öldürmekten daha ciddidir. Güçleri yeterse, sizi dininizden geri döndürene kadar sizinle savaşmayı bırakmayacaklar. İçinizden dininden geri dönen ve inkârcı olarak ölen — onların işleri bu yaşamda ve Ahirette boşa gidecek olanlardır. Onlar Ateşin içindekilerdir, orada sonsuza kadar kalırlar.
 
 يَسْـَٔلُونَكَ عَنِ ٱلشَّهْرِ ٱلْحَرَامِ قِتَالٍۢ فِيهِ ۖ قُلْ قِتَالٌۭ فِيهِ كَبِيرٌۭ ۖ وَصَدٌّ عَن سَبِيلِ ٱللَّهِ وَكُفْرٌۢ بِهِۦ وَٱلْمَسْجِدِ ٱلْحَرَامِ وَإِخْرَاجُ أَهْلِهِۦ مِنْهُ أَكْبَرُ عِندَ ٱللَّهِ ۚ وَٱلْفِتْنَةُ أَكْبَرُ مِنَ ٱلْقَتْلِ ۗ وَلَا يَزَالُونَ يُقَٰتِلُونَكُمْ حَتَّىٰ يَرُدُّوكُمْ عَن دِينِكُمْ إِنِ ٱسْتَطَٰعُوا۟ ۚ وَمَن يَرْتَدِدْ مِنكُمْ عَن دِينِهِۦ فَيَمُتْ وَهُوَ كَافِرٌۭ فَأُو۟لَٰٓئِكَ حَبِطَتْ أَعْمَٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ ۖ وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
@@ -1054,11 +1054,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَاجَرُوا۟ وَجَٰهَدُوا۟ فِى سَبِيلِ ٱللَّهِ أُو۟لَٰٓئِكَ يَرْجُونَ رَحْمَتَ ٱللَّهِ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ
 
-**2:219** Sana sarhoş edenler ve kumar hakkında sorarlar. De ki: “Onlarda büyük günah ve insanlar için bazı yararlar vardır, ama günahları yararlarından ağır basar.” Ve sana ne vermeleri gerektiğini sorarlar: de ki: “Artanı.” Allah ayetleri size böyle açıklar ki düşünesiniz.
+**2:219** Sana sarhoş edenler ve kumar hakkında sorarlar. De ki: "Onlarda büyük günah ve insanlar için bazı yararlar vardır, ama günahları yararlarından ağır basar." Ve sana ne vermeleri gerektiğini sorarlar: de ki: "Artanı." Allah ayetleri size böyle açıklar ki düşünesiniz.
 
 ۞ يَسْـَٔلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ ۖ قُلْ فِيهِمَآ إِثْمٌۭ كَبِيرٌۭ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا ۗ وَيَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ
 
-**2:220** Bu dünya ve sonrası hakkında. Ve sana yetimler hakkında sorarlar. De ki: “Onlar için iyileştirme en iyisidir. Ve onlarla karışırsanız, onlar sizin kardeşlerinizdir.” Allah sahtekârı dürüstten bilir. Allah dileseydi sizi yük altında bırakırdı. Allah Güçlü ve Bilgedir.
+**2:220** Bu dünya ve sonrası hakkında. Ve sana yetimler hakkında sorarlar. De ki: "Onlar için iyileştirme en iyisidir. Ve onlarla karışırsanız, onlar sizin kardeşlerinizdir." Allah sahtekârı dürüstten bilir. Allah dileseydi sizi yük altında bırakırdı. Allah Güçlü ve Bilgedir.
 
 فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ ۗ وَيَسْـَٔلُونَكَ عَنِ ٱلْيَتَٰمَىٰ ۖ قُلْ إِصْلَاحٌۭ لَّهُمْ خَيْرٌۭ ۖ وَإِن تُخَالِطُوهُمْ فَإِخْوَٰنُكُمْ ۚ وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ ۚ وَلَوْ شَآءَ ٱللَّهُ لَأَعْنَتَكُمْ ۚ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌۭ
 
@@ -1066,7 +1066,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَلَا تَنكِحُوا۟ ٱلْمُشْرِكَٰتِ حَتَّىٰ يُؤْمِنَّ ۚ وَلَأَمَةٌۭ مُّؤْمِنَةٌ خَيْرٌۭ مِّن مُّشْرِكَةٍۢ وَلَوْ أَعْجَبَتْكُمْ ۗ وَلَا تُنكِحُوا۟ ٱلْمُشْرِكِينَ حَتَّىٰ يُؤْمِنُوا۟ ۚ وَلَعَبْدٌۭ مُّؤْمِنٌ خَيْرٌۭ مِّن مُّشْرِكٍۢ وَلَوْ أَعْجَبَكُمْ ۗ أُو۟لَٰٓئِكَ يَدْعُونَ إِلَى ٱلنَّارِ ۖ وَٱللَّهُ يَدْعُوٓا۟ إِلَى ٱلْجَنَّةِ وَٱلْمَغْفِرَةِ بِإِذْنِهِۦ ۖ وَيُبَيِّنُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
 
-**2:222** Ve sana aybaşı hakkında sorarlar: de ki: “Zararlıdır, öyleyse aybaşı sırasında kadınlardan uzak durun. Temiz olana kadar onlara yaklaşmayın. Temiz olduklarında, Allah'ın size yönlendirdiği şekilde onlara yaklaşın.” Allah tövbe edenleri sever ve temiz kalanları sever.
+**2:222** Ve sana aybaşı hakkında sorarlar: de ki: "Zararlıdır, öyleyse aybaşı sırasında kadınlardan uzak durun. Temiz olana kadar onlara yaklaşmayın. Temiz olduklarında, Allah'ın size yönlendirdiği şekilde onlara yaklaşın." Allah tövbe edenleri sever ve temiz kalanları sever.
 
 وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ ۖ قُلْ هُوَ أَذًۭى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ ۖ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ ۖ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ
 
@@ -1150,7 +1150,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
 
-**2:243** Ölüm korkusuyla binlerce olarak evlerinden kaçanları düşünmedin mi? Allah onlara, “Ölün” dedi. Sonra onları diriltti. Allah insanlara karşı Lütufkârdır, ama çoğu insan şükretmez.
+**2:243** Ölüm korkusuyla binlerce olarak evlerinden kaçanları düşünmedin mi? Allah onlara, "Ölün" dedi. Sonra onları diriltti. Allah insanlara karşı Lütufkârdır, ama çoğu insan şükretmez.
 
 ۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ خَرَجُوا۟ مِن دِيَٰرِهِمْ وَهُمْ أُلُوفٌ حَذَرَ ٱلْمَوْتِ فَقَالَ لَهُمُ ٱللَّهُ مُوتُوا۟ ثُمَّ أَحْيَٰهُمْ ۚ إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ
 
@@ -1162,23 +1162,23 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 مَّن ذَا ٱلَّذِى يُقْرِضُ ٱللَّهَ قَرْضًا حَسَنًۭا فَيُضَٰعِفَهُۥ لَهُۥٓ أَضْعَافًۭا كَثِيرَةًۭ ۚ وَٱللَّهُ يَقْبِضُ وَيَبْصُۜطُ وَإِلَيْهِ تُرْجَعُونَ
 
-**2:246** Mûsâ'dan sonra İsrâiloğulları'nın ileri gelenlerini düşünmedin mi? Peygamberlerine, “Bize bir kral belirle ve Allah yolunda savaşalım” dediklerinde. O, “Savaş size buyurulursa savaşmamanız mümkün mü?” dedi. Onlar, “Evlerimizden ve çocuklarımızla birlikte çıkarıldığımız halde Allah yolunda neden savaşmayalım?” dediler. Ama savaş onlara buyurulduğunda, azı dışında arkalarını döndüler. Ama Allah yanlış yapanları bilir.
+**2:246** Mûsâ'dan sonra İsrâiloğulları'nın ileri gelenlerini düşünmedin mi? Peygamberlerine, "Bize bir kral belirle ve Allah yolunda savaşalım" dediklerinde. O, "Savaş size buyurulursa savaşmamanız mümkün mü?" dedi. Onlar, "Evlerimizden ve çocuklarımızla birlikte çıkarıldığımız halde Allah yolunda neden savaşmayalım?" dediler. Ama savaş onlara buyurulduğunda, azı dışında arkalarını döndüler. Ama Allah yanlış yapanları bilir.
 
 أَلَمْ تَرَ إِلَى ٱلْمَلَإِ مِنۢ بَنِىٓ إِسْرَٰٓءِيلَ مِنۢ بَعْدِ مُوسَىٰٓ إِذْ قَالُوا۟ لِنَبِىٍّۢ لَّهُمُ ٱبْعَثْ لَنَا مَلِكًۭا نُّقَٰتِلْ فِى سَبِيلِ ٱللَّهِ ۖ قَالَ هَلْ عَسَيْتُمْ إِن كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ أَلَّا تُقَٰتِلُوا۟ ۖ قَالُوا۟ وَمَا لَنَآ أَلَّا نُقَٰتِلَ فِى سَبِيلِ ٱللَّهِ وَقَدْ أُخْرِجْنَا مِن دِيَٰرِنَا وَأَبْنَآئِنَا ۖ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ تَوَلَّوْا۟ إِلَّا قَلِيلًۭا مِّنْهُمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّٰلِمِينَ
 
-**2:247** Peygamberleri onlara, “Allah size kral olarak Talut'u belirledi” dedi. Onlar, “Biz ondan daha çok yetkiye değer ve bol mal verilmediği halde, nasıl bizim üzerimizde yetkisi olabilir?” dediler. O, “Allah onu sizin üzerinize seçti ve bilgi ve yapıda onu artırdı” dedi. Allah egemenliğini dilediğine verir. Allah Kapsayan ve Bilendir.
+**2:247** Peygamberleri onlara, "Allah size kral olarak Talut'u belirledi" dedi. Onlar, "Biz ondan daha çok yetkiye değer ve bol mal verilmediği halde, nasıl bizim üzerimizde yetkisi olabilir?" dediler. O, "Allah onu sizin üzerinize seçti ve bilgi ve yapıda onu artırdı" dedi. Allah egemenliğini dilediğine verir. Allah Kapsayan ve Bilendir.
 
 وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ٱللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًۭا ۚ قَالُوٓا۟ أَنَّىٰ يَكُونُ لَهُ ٱلْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِٱلْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةًۭ مِّنَ ٱلْمَالِ ۚ قَالَ إِنَّ ٱللَّهَ ٱصْطَفَىٰهُ عَلَيْكُمْ وَزَادَهُۥ بَسْطَةًۭ فِى ٱلْعِلْمِ وَٱلْجِسْمِ ۖ وَٱللَّهُ يُؤْتِى مُلْكَهُۥ مَن يَشَآءُ ۚ وَٱللَّهُ وَٰسِعٌ عَلِيمٌۭ
 
-**2:248** Ve peygamberleri onlara dedi ki: “Onun krallığının kanıtı, Sandığın size geri getirilmesidir; Rabbinizden sükûnet ve Mûsâ ailesi ve Harun ailesi tarafından bırakılan kalıntılar getirir. Melekler onu taşıyacak. İnananlarsanız, bunda sizin için bir ayet vardır.”
+**2:248** Ve peygamberleri onlara dedi ki: "Onun krallığının kanıtı, Sandığın size geri getirilmesidir; Rabbinizden sükûnet ve Mûsâ ailesi ve Harun ailesi tarafından bırakılan kalıntılar getirir. Melekler onu taşıyacak. İnananlarsanız, bunda sizin için bir ayet vardır."
 
 وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ءَايَةَ مُلْكِهِۦٓ أَن يَأْتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٌۭ مِّن رَّبِّكُمْ وَبَقِيَّةٌۭ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَٰرُونَ تَحْمِلُهُ ٱلْمَلَٰٓئِكَةُ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
 
-**2:249** Talut askerlerle çıktığında, “Allah sizi bir ırmakla sınayacak. Ondan içen benden değildir. Ama ondan içmeyen, eliyle biraz alan dışında, bendendir” dedi. Ama azı dışında ondan içtiler. Sonra, o ve onunla inananlar onu geçtiğinde, “Bugün Câlût ve askerleriyle yüzleşecek gücümüz yok” dediler. Ama Allah'la buluşacaklarını bilenler, “Küçük bir grup, Allah'ın isteğiyle büyük bir grubu kaç kez yendi. Allah sabredenlerle birliktedir” dediler.
+**2:249** Talut askerlerle çıktığında, "Allah sizi bir ırmakla sınayacak. Ondan içen benden değildir. Ama ondan içmeyen, eliyle biraz alan dışında, bendendir" dedi. Ama azı dışında ondan içtiler. Sonra, o ve onunla inananlar onu geçtiğinde, "Bugün Câlût ve askerleriyle yüzleşecek gücümüz yok" dediler. Ama Allah'la buluşacaklarını bilenler, "Küçük bir grup, Allah'ın isteğiyle büyük bir grubu kaç kez yendi. Allah sabredenlerle birliktedir" dediler.
 
 فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ
 
-**2:250** Ve Câlût ve askerleriyle yüzleştiklerinde, “Rabbimiz, üzerimize sabır dök, adımımızı güçlendir ve inkârcı halka karşı bizi destekle” dediler.
+**2:250** Ve Câlût ve askerleriyle yüzleştiklerinde, "Rabbimiz, üzerimize sabır dök, adımımızı güçlendir ve inkârcı halka karşı bizi destekle" dediler.
 
 وَلَمَّا بَرَزُوا۟ لِجَالُوتَ وَجُنُودِهِۦ قَالُوا۟ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًۭا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
 
@@ -1210,15 +1210,15 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 ٱللَّهُ وَلِىُّ ٱلَّذِينَ ءَامَنُوا۟ يُخْرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ ۖ وَٱلَّذِينَ كَفَرُوٓا۟ أَوْلِيَآؤُهُمُ ٱلطَّٰغُوتُ يُخْرِجُونَهُم مِّنَ ٱلنُّورِ إِلَى ٱلظُّلُمَٰتِ ۗ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
-**2:258** Rabbi hakkında İbrâhim ile tartışanı düşünmedin mi, çünkü Allah ona egemenlik verdi? İbrâhim, “Rabbim, hayat veren ve ölüm verendir” dedi. O, “Hayat veririm ve ölüm veririm” dedi. İbrâhim, “Allah güneşi Doğudan getirir, öyleyse onu Batıdan getir” dedi; böylece inkârcı şaşırdı. Allah yanlış yapan halkı doğru yola iletmez.
+**2:258** Rabbi hakkında İbrâhim ile tartışanı düşünmedin mi, çünkü Allah ona egemenlik verdi? İbrâhim, "Rabbim, hayat veren ve ölüm verendir" dedi. O, "Hayat veririm ve ölüm veririm" dedi. İbrâhim, "Allah güneşi Doğudan getirir, öyleyse onu Batıdan getir" dedi; böylece inkârcı şaşırdı. Allah yanlış yapan halkı doğru yola iletmez.
 
 أَلَمْ تَرَ إِلَى ٱلَّذِى حَآجَّ إِبْرَٰهِۦمَ فِى رَبِّهِۦٓ أَنْ ءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ إِذْ قَالَ إِبْرَٰهِۦمُ رَبِّىَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ قَالَ أَنَا۠ أُحْىِۦ وَأُمِيتُ ۖ قَالَ إِبْرَٰهِۦمُ فَإِنَّ ٱللَّهَ يَأْتِى بِٱلشَّمْسِ مِنَ ٱلْمَشْرِقِ فَأْتِ بِهَا مِنَ ٱلْمَغْرِبِ فَبُهِتَ ٱلَّذِى كَفَرَ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**2:259** Yahut temelleri üzerine çöken bir kasabadan geçen gibi. “Allah bunu ölümünden sonra nasıl diriltebilir?” dedi. Bunun üzerine Allah onu yüz yıl öldürdü ve sonra diriltti. “Ne kadar kaldın?” dedi. O, “Bir gün ya da bir günün bir kısmı kaldım” dedi. O, “Hayır. Yüz yıl kaldın. Şimdi yemeğine ve içeceğine bak — bozulmadı — ve eşeğine bak. Seni insanlık için bir harika yapacağız. Ve kemiklere bak, onları nasıl düzenleriz ve sonra etle giydiririz” dedi. Ona açık olduğunda, “Allah'ın her şeye gücü yettiğini bilirim” dedi.
+**2:259** Yahut temelleri üzerine çöken bir kasabadan geçen gibi. "Allah bunu ölümünden sonra nasıl diriltebilir?" dedi. Bunun üzerine Allah onu yüz yıl öldürdü ve sonra diriltti. "Ne kadar kaldın?" dedi. O, "Bir gün ya da bir günün bir kısmı kaldım" dedi. O, "Hayır. Yüz yıl kaldın. Şimdi yemeğine ve içeceğine bak — bozulmadı — ve eşeğine bak. Seni insanlık için bir harika yapacağız. Ve kemiklere bak, onları nasıl düzenleriz ve sonra etle giydiririz" dedi. Ona açık olduğunda, "Allah'ın her şeye gücü yettiğini bilirim" dedi.
 
 أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍۢ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا ۖ فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍۢ ثُمَّ بَعَثَهُۥ ۖ قَالَ كَمْ لَبِثْتَ ۖ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍۢ ۖ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍۢ فَٱنظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ ۖ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةًۭ لِّلنَّاسِ ۖ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًۭا ۚ فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**2:260** Ve İbrâhim dedi ki: “Rabbim, ölüyü nasıl dirilttiğini bana göster.” O, “İnanmadın mı?” dedi. O, “Evet, ama kalbim rahatlasın” dedi. O, “Dört kuş al ve onları kendine alıştır, sonra her tepeye bir parça koy, sonra onları çağır; sana koşarak gelecekler. Ve bil ki Allah Güçlü ve Bilgedir” dedi.
+**2:260** Ve İbrâhim dedi ki: "Rabbim, ölüyü nasıl dirilttiğini bana göster." O, "İnanmadın mı?" dedi. O, "Evet, ama kalbim rahatlasın" dedi. O, "Dört kuş al ve onları kendine alıştır, sonra her tepeye bir parça koy, sonra onları çağır; sana koşarak gelecekler. Ve bil ki Allah Güçlü ve Bilgedir" dedi.
 
 وَإِذْ قَالَ إِبْرَٰهِۦمُ رَبِّ أَرِنِى كَيْفَ تُحْىِ ٱلْمَوْتَىٰ ۖ قَالَ أَوَلَمْ تُؤْمِن ۖ قَالَ بَلَىٰ وَلَٰكِن لِّيَطْمَئِنَّ قَلْبِى ۖ قَالَ فَخُذْ أَرْبَعَةًۭ مِّنَ ٱلطَّيْرِ فَصُرْهُنَّ إِلَيْكَ ثُمَّ ٱجْعَلْ عَلَىٰ كُلِّ جَبَلٍۢ مِّنْهُنَّ جُزْءًۭا ثُمَّ ٱدْعُهُنَّ يَأْتِينَكَ سَعْيًۭا ۚ وَٱعْلَمْ أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌۭ
 
@@ -1278,7 +1278,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُم بِٱلَّيْلِ وَٱلنَّهَارِ سِرًّۭا وَعَلَانِيَةًۭ فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
-**2:275** Faiz yutanlar, Şeytanın dokunuşuyla deliren biri gibi kalkacaklar dışında kalkmazlar. Bu, “Ticaret faiz gibidir” demeleri yüzündendir. Ama Allah ticarete izin verdi ve faizi yasakladı. Rabbinden öğüt alan ve vazgeçen, önceki kazançlarını tutabilir ve durumu Allah'a kalır. Ama yeniden başlayanlar — onlar Ateşin halkıdır, orada sonsuza kadar kalırlar.
+**2:275** Faiz yutanlar, Şeytanın dokunuşuyla deliren biri gibi kalkacaklar dışında kalkmazlar. Bu, "Ticaret faiz gibidir" demeleri yüzündendir. Ama Allah ticarete izin verdi ve faizi yasakladı. Rabbinden öğüt alan ve vazgeçen, önceki kazançlarını tutabilir ve durumu Allah'a kalır. Ama yeniden başlayanlar — onlar Ateşin halkıdır, orada sonsuza kadar kalırlar.
 
 ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ ٱلشَّيْطَٰنُ مِنَ ٱلْمَسِّ ۚ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟ ۗ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ ۚ فَمَن جَآءَهُۥ مَوْعِظَةٌۭ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ وَأَمْرُهُۥٓ إِلَى ٱللَّهِ ۖ وَمَنْ عَادَ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
@@ -1318,11 +1318,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 لِّلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَإِن تُبْدُوا۟ مَا فِىٓ أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ ٱللَّهُ ۖ فَيَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ
 
-**2:285** Elçi, Rabbinden ona indirilene inandı; inananlar da. Hepsi Allah'a, meleklerine, kitaplarına ve elçilerine inandı: “Elçilerinden hiçbiri arasında ayrım yapmayız.” Ve derler: “Duyduk ve itaat ettik. Bağışlaman, Rabbimiz. Varış Sanadır.”
+**2:285** Elçi, Rabbinden ona indirilene inandı; inananlar da. Hepsi Allah'a, meleklerine, kitaplarına ve elçilerine inandı: "Elçilerinden hiçbiri arasında ayrım yapmayız." Ve derler: "Duyduk ve itaat ettik. Bağışlaman, Rabbimiz. Varış Sanadır."
 
 ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيْهِ مِن رَّبِّهِۦ وَٱلْمُؤْمِنُونَ ۚ كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيْنَ أَحَدٍۢ مِّن رُّسُلِهِۦ ۚ وَقَالُوا۟ سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ
 
-**2:286** Allah hiçbir canı kapasitesinin ötesinde yüklemez. Kazandığı kendi lehinedir ve yaptığı kendi aleyhinedir. “Rabbimiz, unutur ya da yanlış yaparsak bizi kınama. Rabbimiz, bizden öncekilere yüklediğin gibi bize yükleme. Rabbimiz, dayanacak gücümüzden fazlasını bize yükleme; ve bizi bağışla, bizi affet ve bize merhamet et. Sen bizim Rabbimiz ve Efendimizsin; öyleyse inkâr eden halka karşı bize yardım et.”
+**2:286** Allah hiçbir canı kapasitesinin ötesinde yüklemez. Kazandığı kendi lehinedir ve yaptığı kendi aleyhinedir. "Rabbimiz, unutur ya da yanlış yaparsak bizi kınama. Rabbimiz, bizden öncekilere yüklediğin gibi bize yükleme. Rabbimiz, dayanacak gücümüzden fazlasını bize yükleme; ve bizi bağışla, bizi affet ve bize merhamet et. Sen bizim Rabbimiz ve Efendimizsin; öyleyse inkâr eden halka karşı bize yardım et."
 
 لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًۭا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
 
@@ -1362,15 +1362,15 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 هُوَ ٱلَّذِى يُصَوِّرُكُمْ فِى ٱلْأَرْحَامِ كَيْفَ يَشَآءُ ۚ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**3:7** Kitabı sana indiren Odur. Ayetlerinin bazıları kesindir; onlar Kitabın temelidir ve diğerleri belirsizdir. Kalplerinde sapma olanlar, bozgun arayarak ve bir yorum çıkarmaya çalışarak belirsiz kısmı izlerler. Ama onun yorumunu Allah'tan başka kimse bilmez ve bilgide derinleşenler, “Ona inandık; hepsi Rabbimizdendir” derler. Ama anlayanlardan başkası hatırlamaz.
+**3:7** Kitabı sana indiren Odur. Ayetlerinin bazıları kesindir; onlar Kitabın temelidir ve diğerleri belirsizdir. Kalplerinde sapma olanlar, bozgun arayarak ve bir yorum çıkarmaya çalışarak belirsiz kısmı izlerler. Ama onun yorumunu Allah'tan başka kimse bilmez ve bilgide derinleşenler, "Ona inandık; hepsi Rabbimizdendir" derler. Ama anlayanlardan başkası hatırlamaz.
 
 هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَٰبَ مِنْهُ ءَايَٰتٌۭ مُّحْكَمَٰتٌ هُنَّ أُمُّ ٱلْكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٌۭ ۖ فَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِمْ زَيْغٌۭ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنْهُ ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ ۗ وَمَا يَعْلَمُ تَأْوِيلَهُۥٓ إِلَّا ٱللَّهُ ۗ وَٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلٌّۭ مِّنْ عِندِ رَبِّنَا ۗ وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَٰبِ
 
-**3:8** “Rabbimiz, bizi doğru yola ilettikten sonra kalplerimizi kaydırma ve bize katından merhamet ver; Sen Verensin.”
+**3:8** "Rabbimiz, bizi doğru yola ilettikten sonra kalplerimizi kaydırma ve bize katından merhamet ver; Sen Verensin."
 
 رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ ٱلْوَهَّابُ
 
-**3:9** “Rabbimiz, Sen insanları, kendisinde şüphe olmayan bir Gün için toplayacaksın.” Allah sözünü asla bozmaz.
+**3:9** "Rabbimiz, Sen insanları, kendisinde şüphe olmayan bir Gün için toplayacaksın." Allah sözünü asla bozmaz.
 
 رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوْمٍۢ لَّا رَيْبَ فِيهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ
 
@@ -1382,7 +1382,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 كَدَأْبِ ءَالِ فِرْعَوْنَ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَذَّبُوا۟ بِـَٔايَٰتِنَا فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمْ ۗ وَٱللَّهُ شَدِيدُ ٱلْعِقَابِ
 
-**3:12** İnkâr edenlere de ki: “Yenileceksiniz ve Cehenneme toplanacaksınız — korkunç bir kalış yeri.”
+**3:12** İnkâr edenlere de ki: "Yenileceksiniz ve Cehenneme toplanacaksınız — korkunç bir kalış yeri."
 
 قُل لِّلَّذِينَ كَفَرُوا۟ سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَىٰ جَهَنَّمَ ۚ وَبِئْسَ ٱلْمِهَادُ
 
@@ -1394,11 +1394,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 زُيِّنَ لِلنَّاسِ حُبُّ ٱلشَّهَوَٰتِ مِنَ ٱلنِّسَآءِ وَٱلْبَنِينَ وَٱلْقَنَٰطِيرِ ٱلْمُقَنطَرَةِ مِنَ ٱلذَّهَبِ وَٱلْفِضَّةِ وَٱلْخَيْلِ ٱلْمُسَوَّمَةِ وَٱلْأَنْعَٰمِ وَٱلْحَرْثِ ۗ ذَٰلِكَ مَتَٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلْمَـَٔابِ
 
-**3:15** De ki: “Size bundan daha iyisini haber vereyim mi? Doğru olanlar için, Rablerinin yanında altından ırmaklar akan, içinde sonsuza kadar kalacakları Bahçeler, temiz eşler ve Allah'tan kabul vardır.” Allah kulları görür.
+**3:15** De ki: "Size bundan daha iyisini haber vereyim mi? Doğru olanlar için, Rablerinin yanında altından ırmaklar akan, içinde sonsuza kadar kalacakları Bahçeler, temiz eşler ve Allah'tan kabul vardır." Allah kulları görür.
 
 ۞ قُلْ أَؤُنَبِّئُكُم بِخَيْرٍۢ مِّن ذَٰلِكُمْ ۚ لِلَّذِينَ ٱتَّقَوْا۟ عِندَ رَبِّهِمْ جَنَّٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَأَزْوَٰجٌۭ مُّطَهَّرَةٌۭ وَرِضْوَٰنٌۭ مِّنَ ٱللَّهِ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ
 
-**3:16** Onlar derler: “Rabbimiz, inandık; öyleyse günahlarımızı bağışla ve bizi Ateşin acısından kurtar.”
+**3:16** Onlar derler: "Rabbimiz, inandık; öyleyse günahlarımızı bağışla ve bizi Ateşin acısından kurtar."
 
 ٱلَّذِينَ يَقُولُونَ رَبَّنَآ إِنَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ
 
@@ -1414,7 +1414,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 إِنَّ ٱلدِّينَ عِندَ ٱللَّهِ ٱلْإِسْلَٰمُ ۗ وَمَا ٱخْتَلَفَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۗ وَمَن يَكْفُرْ بِـَٔايَٰتِ ٱللَّهِ فَإِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
 
-**3:20** Seninle tartışırlarsa, de ki: “Kendimi Allah'a teslim ettim ve beni izleyenler de.” Ve Kitap verilenlere ve eğitimsizlere de ki: “Teslim oldunuz mu?” Teslim oldularsa, doğru yoldadırlar; ama arkalarını dönerlerse, senin görevin iletmektir. Allah kulları görür.
+**3:20** Seninle tartışırlarsa, de ki: "Kendimi Allah'a teslim ettim ve beni izleyenler de." Ve Kitap verilenlere ve eğitimsizlere de ki: "Teslim oldunuz mu?" Teslim oldularsa, doğru yoldadırlar; ama arkalarını dönerlerse, senin görevin iletmektir. Allah kulları görür.
 
 فَإِنْ حَآجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِىَ لِلَّهِ وَمَنِ ٱتَّبَعَنِ ۗ وَقُل لِّلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَٱلْأُمِّيِّۦنَ ءَأَسْلَمْتُمْ ۚ فَإِنْ أَسْلَمُوا۟ فَقَدِ ٱهْتَدَوا۟ ۖ وَّإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْكَ ٱلْبَلَٰغُ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ
 
@@ -1430,7 +1430,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًۭا مِّنَ ٱلْكِتَٰبِ يُدْعَوْنَ إِلَىٰ كِتَٰبِ ٱللَّهِ لِيَحْكُمَ بَيْنَهُمْ ثُمَّ يَتَوَلَّىٰ فَرِيقٌۭ مِّنْهُمْ وَهُم مُّعْرِضُونَ
 
-**3:24** Bu, “Ateş bize sınırlı sayıda gün dışında dokunmayacak” demeleri yüzündendir. Uydurdukları yalanlarla dinlerinde yanıltıldılar.
+**3:24** Bu, "Ateş bize sınırlı sayıda gün dışında dokunmayacak" demeleri yüzündendir. Uydurdukları yalanlarla dinlerinde yanıltıldılar.
 
 ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامًۭا مَّعْدُودَٰتٍۢ ۖ وَغَرَّهُمْ فِى دِينِهِم مَّا كَانُوا۟ يَفْتَرُونَ
 
@@ -1438,11 +1438,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 فَكَيْفَ إِذَا جَمَعْنَٰهُمْ لِيَوْمٍۢ لَّا رَيْبَ فِيهِ وَوُفِّيَتْ كُلُّ نَفْسٍۢ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
 
-**3:26** De ki: “Ey Allah'ım, Egemenliğin Sahibi. Egemenliği dilediğine verirsin ve egemenliği dilediğinden çekersin. Dilediğini onurlandırırsın ve dilediğini aşağılarsın. Bütün iyilik Senin elindedir. Sen her şeye Gücü Yetensin.”
+**3:26** De ki: "Ey Allah'ım, Egemenliğin Sahibi. Egemenliği dilediğine verirsin ve egemenliği dilediğinden çekersin. Dilediğini onurlandırırsın ve dilediğini aşağılarsın. Bütün iyilik Senin elindedir. Sen her şeye Gücü Yetensin."
 
 قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ ۖ بِيَدِكَ ٱلْخَيْرُ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**3:27** “Geceyi gündüze katarsın ve gündüzü geceye katarsın; ve diriyi ölüden çıkarırsın ve ölüyü diriden çıkarırsın; ve dilediğine ölçüsüz rızık verirsin.”
+**3:27** "Geceyi gündüze katarsın ve gündüzü geceye katarsın; ve diriyi ölüden çıkarırsın ve ölüyü diriden çıkarırsın; ve dilediğine ölçüsüz rızık verirsin."
 
 تُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ ۖ وَتُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَتُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ ۖ وَتَرْزُقُ مَن تَشَآءُ بِغَيْرِ حِسَابٍۢ
 
@@ -1450,7 +1450,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 لَّا يَتَّخِذِ ٱلْمُؤْمِنُونَ ٱلْكَٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ ۖ وَمَن يَفْعَلْ ذَٰلِكَ فَلَيْسَ مِنَ ٱللَّهِ فِى شَىْءٍ إِلَّآ أَن تَتَّقُوا۟ مِنْهُمْ تُقَىٰةًۭ ۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ ۗ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ
 
-**3:29** De ki: “Kalplerinizde olanı gizleseniz de açsanız da, Allah onu bilir.” Göklerde ve yeryüzünde olan her şeyi bilir. Allah'ın her şeye gücü vardır.
+**3:29** De ki: "Kalplerinizde olanı gizleseniz de açsanız da, Allah onu bilir." Göklerde ve yeryüzünde olan her şeyi bilir. Allah'ın her şeye gücü vardır.
 
 قُلْ إِن تُخْفُوا۟ مَا فِى صُدُورِكُمْ أَوْ تُبْدُوهُ يَعْلَمْهُ ٱللَّهُ ۗ وَيَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
@@ -1458,11 +1458,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 يَوْمَ تَجِدُ كُلُّ نَفْسٍۢ مَّا عَمِلَتْ مِنْ خَيْرٍۢ مُّحْضَرًۭا وَمَا عَمِلَتْ مِن سُوٓءٍۢ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُۥٓ أَمَدًۢا بَعِيدًۭا ۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ ۗ وَٱللَّهُ رَءُوفٌۢ بِٱلْعِبَادِ
 
-**3:31** De ki: “Allah'ı seviyorsanız, beni izleyin ve Allah sizi sevecek ve günahlarınızı bağışlayacaktır.” Allah Bağışlayan ve Rahimdir.
+**3:31** De ki: "Allah'ı seviyorsanız, beni izleyin ve Allah sizi sevecek ve günahlarınızı bağışlayacaktır." Allah Bağışlayan ve Rahimdir.
 
 قُلْ إِن كُنتُمْ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ
 
-**3:32** De ki: “Allah'a ve Elçiye itaat edin.” Ama arkalarını dönerlerse — Allah inkârcıları sevmez.
+**3:32** De ki: "Allah'a ve Elçiye itaat edin." Ama arkalarını dönerlerse — Allah inkârcıları sevmez.
 
 قُلْ أَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ ۖ فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْكَٰفِرِينَ
 
@@ -1474,39 +1474,39 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 ذُرِّيَّةًۢ بَعْضُهَا مِنۢ بَعْضٍۢ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
 
-**3:35** İmran'ın karısı dedi ki: “Rabbim, rahmimde olanı Sana adak olarak adadım; öyleyse benden kabul et; Sen Duyan ve Bilensin.”
+**3:35** İmran'ın karısı dedi ki: "Rabbim, rahmimde olanı Sana adak olarak adadım; öyleyse benden kabul et; Sen Duyan ve Bilensin."
 
 إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
-**3:36** Ve onu doğurduğunda, “Rabbim, bir kız doğurdum” dedi ve Allah onun ne doğurduğunu iyi bilirdi, “ve erkek kız gibi değildir ve ona Meryem adını verdim ve onu ve soyunu, kovulan Şeytandan Senin korumana verdim.”
+**3:36** Ve onu doğurduğunda, "Rabbim, bir kız doğurdum" dedi ve Allah onun ne doğurduğunu iyi bilirdi, "ve erkek kız gibi değildir ve ona Meryem adını verdim ve onu ve soyunu, kovulan Şeytandan Senin korumana verdim."
 
 فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ إِنِّى وَضَعْتُهَآ أُنثَىٰ وَٱللَّهُ أَعْلَمُ بِمَا وَضَعَتْ وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ ۖ وَإِنِّى سَمَّيْتُهَا مَرْيَمَ وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ ٱلشَّيْطَٰنِ ٱلرَّجِيمِ
 
-**3:37** Rabbi onu güzel bir kabulle kabul etti ve güzel bir yetişme sağladı ve onu Zekeriya'nın bakımına verdi. Zekeriya onun yanına tapınağa her girdiğinde, yanında rızık buldu. “Ey Meryem, bunu nereden aldın?” dedi. O, “Allah'tandır; Allah dilediğine hesapsız rızık verir” dedi.
+**3:37** Rabbi onu güzel bir kabulle kabul etti ve güzel bir yetişme sağladı ve onu Zekeriya'nın bakımına verdi. Zekeriya onun yanına tapınağa her girdiğinde, yanında rızık buldu. "Ey Meryem, bunu nereden aldın?" dedi. O, "Allah'tandır; Allah dilediğine hesapsız rızık verir" dedi.
 
 فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍۢ وَأَنۢبَتَهَا نَبَاتًا حَسَنًۭا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًۭا ۖ قَالَ يَٰمَرْيَمُ أَنَّىٰ لَكِ هَٰذَا ۖ قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ ۖ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ
 
-**3:38** Orada Zekeriya Rabbine dua etti; “Rabbim, bana katından iyi bir soy ver; Sen Duaları Duyansın” dedi.
+**3:38** Orada Zekeriya Rabbine dua etti; "Rabbim, bana katından iyi bir soy ver; Sen Duaları Duyansın" dedi.
 
 هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُۥ ۖ قَالَ رَبِّ هَبْ لِى مِن لَّدُنكَ ذُرِّيَّةًۭ طَيِّبَةً ۖ إِنَّكَ سَمِيعُ ٱلدُّعَآءِ
 
-**3:39** Sonra melekler, o tapınakta namazda dururken ona seslendiler: “Allah sana Yahya müjdesini verir; Allah'tan bir Sözü doğrulayan, onurlu, ahlaklı ve bir peygamber; doğru olanlardan biri.”
+**3:39** Sonra melekler, o tapınakta namazda dururken ona seslendiler: "Allah sana Yahya müjdesini verir; Allah'tan bir Sözü doğrulayan, onurlu, ahlaklı ve bir peygamber; doğru olanlardan biri."
 
 فَنَادَتْهُ ٱلْمَلَٰٓئِكَةُ وَهُوَ قَآئِمٌۭ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍۢ مِّنَ ٱللَّهِ وَسَيِّدًۭا وَحَصُورًۭا وَنَبِيًّۭا مِّنَ ٱلصَّٰلِحِينَ
 
-**3:40** O, “Rabbim, yaşlılık beni buldu ve karım kısırken nasıl oğlum olacak?” dedi. O, “Öyle de olsa, Allah dilediğini yapar” dedi.
+**3:40** O, "Rabbim, yaşlılık beni buldu ve karım kısırken nasıl oğlum olacak?" dedi. O, "Öyle de olsa, Allah dilediğini yapar" dedi.
 
 قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌۭ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌۭ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
 
-**3:41** O, “Rabbim, bana bir ayet ver” dedi. O, “Senin ayetin, işaretler dışında üç gün insanlarla konuşmamandır. Ve Rabbini çok hatırla ve akşam ve sabah öv” dedi.
+**3:41** O, "Rabbim, bana bir ayet ver" dedi. O, "Senin ayetin, işaretler dışında üç gün insanlarla konuşmamandır. Ve Rabbini çok hatırla ve akşam ve sabah öv" dedi.
 
 قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةًۭ ۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَةَ أَيَّامٍ إِلَّا رَمْزًۭا ۗ وَٱذْكُر رَّبَّكَ كَثِيرًۭا وَسَبِّحْ بِٱلْعَشِىِّ وَٱلْإِبْكَٰرِ
 
-**3:42** Melekler dedi ki: “Ey Meryem, Allah seni seçti ve seni arındırdı. Seni dünyanın bütün kadınları üzerinde seçti.
+**3:42** Melekler dedi ki: "Ey Meryem, Allah seni seçti ve seni arındırdı. Seni dünyanın bütün kadınları üzerinde seçti.
 
 وَإِذْ قَالَتِ ٱلْمَلَٰٓئِكَةُ يَٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَٰلَمِينَ
 
-**3:43** “Ey Meryem, Rabbine bağlı ol ve secde et ve eğilenlerle eğil.”
+**3:43** "Ey Meryem, Rabbine bağlı ol ve secde et ve eğilenlerle eğil."
 
 يَٰمَرْيَمُ ٱقْنُتِى لِرَبِّكِ وَٱسْجُدِى وَٱرْكَعِى مَعَ ٱلرَّٰكِعِينَ
 
@@ -1514,15 +1514,15 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ ۚ وَمَا كُنتَ لَدَيْهِمْ إِذْ يُلْقُونَ أَقْلَٰمَهُمْ أَيُّهُمْ يَكْفُلُ مَرْيَمَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يَخْتَصِمُونَ
 
-**3:45** Melekler dedi ki: “Ey Meryem, Allah sana Kendinden bir Söz müjdesi verir. Onun adı Mesih, Meryem oğlu Îsâ'dır; bu dünyada ve sonraki dünyada saygın ve en yakınlardan biridir.
+**3:45** Melekler dedi ki: "Ey Meryem, Allah sana Kendinden bir Söz müjdesi verir. Onun adı Mesih, Meryem oğlu Îsâ'dır; bu dünyada ve sonraki dünyada saygın ve en yakınlardan biridir.
 
 إِذْ قَالَتِ ٱلْمَلَٰٓئِكَةُ يَٰمَرْيَمُ إِنَّ ٱللَّهَ يُبَشِّرُكِ بِكَلِمَةٍۢ مِّنْهُ ٱسْمُهُ ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ وَجِيهًۭا فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَمِنَ ٱلْمُقَرَّبِينَ
 
-**3:46** Beşikten ve yetişkinlikte insanlarla konuşacak ve doğru olanlardan biri olacak.”
+**3:46** Beşikten ve yetişkinlikte insanlarla konuşacak ve doğru olanlardan biri olacak."
 
 وَيُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًۭا وَمِنَ ٱلصَّٰلِحِينَ
 
-**3:47** O, “Rabbim, hiçbir erkek bana dokunmadı, nasıl çocuğum olabilir?” dedi. O, “Öyle olacak. Allah dilediğini yaratır. Bir şeyin olması için ona yalnızca ‘Ol’ der ve o olur” dedi.
+**3:47** O, "Rabbim, hiçbir erkek bana dokunmadı, nasıl çocuğum olabilir?" dedi. O, "Öyle olacak. Allah dilediğini yaratır. Bir şeyin olması için ona yalnızca 'Ol' der ve o olur" dedi.
 
 قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌۭ وَلَمْ يَمْسَسْنِى بَشَرٌۭ ۖ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ مَا يَشَآءُ ۚ إِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 
@@ -1530,23 +1530,23 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَيُعَلِّمُهُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ
 
-**3:49** İsrâiloğullarına bir elçi: “Size Rabbinizden bir ayetle geldim. Size çamurdan bir kuş biçimi yaparım; sonra ona üflerim ve Allah'ın izniyle bir kuş olur. Ve körü ve cüzzamlıyı iyileştiririm ve ölüleri Allah'ın izniyle diriltirim. Ve yediğiniz ve evlerinizde sakladığınız hakkında size haber veririm. İnananlarsanız, bunda sizin için bir ayet vardır.”
+**3:49** İsrâiloğullarına bir elçi: "Size Rabbinizden bir ayetle geldim. Size çamurdan bir kuş biçimi yaparım; sonra ona üflerim ve Allah'ın izniyle bir kuş olur. Ve körü ve cüzzamlıyı iyileştiririm ve ölüleri Allah'ın izniyle diriltirim. Ve yediğiniz ve evlerinizde sakladığınız hakkında size haber veririm. İnananlarsanız, bunda sizin için bir ayet vardır."
 
 وَرَسُولًا إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنِّى قَدْ جِئْتُكُم بِـَٔايَةٍۢ مِّن رَّبِّكُمْ ۖ أَنِّىٓ أَخْلُقُ لَكُم مِّنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ فَأَنفُخُ فِيهِ فَيَكُونُ طَيْرًۢا بِإِذْنِ ٱللَّهِ ۖ وَأُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ وَأُحْىِ ٱلْمَوْتَىٰ بِإِذْنِ ٱللَّهِ ۖ وَأُنَبِّئُكُم بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِى بُيُوتِكُمْ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
 
-**3:50** “Ve önümde olan Tevrat'ı doğrulayan ve size yasaklanan bazı şeyleri yasal yapmak için. Size Rabbinizden bir ayetle geldim; öyleyse Allah'tan korkun ve bana itaat edin.”
+**3:50** "Ve önümde olan Tevrat'ı doğrulayan ve size yasaklanan bazı şeyleri yasal yapmak için. Size Rabbinizden bir ayetle geldim; öyleyse Allah'tan korkun ve bana itaat edin."
 
 وَمُصَدِّقًۭا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَلِأُحِلَّ لَكُم بَعْضَ ٱلَّذِى حُرِّمَ عَلَيْكُمْ ۚ وَجِئْتُكُم بِـَٔايَةٍۢ مِّن رَّبِّكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ
 
-**3:51** “Allah benim Rabbim ve sizin Rabbinizdir; öyleyse Ona kulluk edin. Bu doğru bir yoldur.”
+**3:51** "Allah benim Rabbim ve sizin Rabbinizdir; öyleyse Ona kulluk edin. Bu doğru bir yoldur."
 
 إِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۗ هَٰذَا صِرَٰطٌۭ مُّسْتَقِيمٌۭ
 
-**3:52** Îsâ onlardan inkârı sezdiğinde, “Allah'a doğru yardımcılarım kim?” dedi. Öğrenciler, “Biz Allah'ın yardımcılarıyız; Allah'a inandık ve teslim olduğumuza tanıklık edin” dediler.
+**3:52** Îsâ onlardan inkârı sezdiğinde, "Allah'a doğru yardımcılarım kim?" dedi. Öğrenciler, "Biz Allah'ın yardımcılarıyız; Allah'a inandık ve teslim olduğumuza tanıklık edin" dediler.
 
 ۞ فَلَمَّآ أَحَسَّ عِيسَىٰ مِنْهُمُ ٱلْكُفْرَ قَالَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ءَامَنَّا بِٱللَّهِ وَٱشْهَدْ بِأَنَّا مُسْلِمُونَ
 
-**3:53** “Rabbimiz, indirdiğine inandık ve Elçiyi izledik; öyleyse bizi tanıklar arasında say.”
+**3:53** "Rabbimiz, indirdiğine inandık ve Elçiyi izledik; öyleyse bizi tanıklar arasında say."
 
 رَبَّنَآ ءَامَنَّا بِمَآ أَنزَلْتَ وَٱتَّبَعْنَا ٱلرَّسُولَ فَٱكْتُبْنَا مَعَ ٱلشَّٰهِدِينَ
 
@@ -1554,7 +1554,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَمَكَرُوا۟ وَمَكَرَ ٱللَّهُ ۖ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ
 
-**3:55** Allah dedi ki: “Ey Îsâ, yaşamını bitiriyorum ve seni Bana yükseltiyorum ve seni inkâr edenlerden temizliyorum. Ve seni izleyenleri, Diriliş Gününe kadar inkâr edenlerin üzerinde yapacağım. Sonra dönüşün Banadır; sonra tartıştığınız şey hakkında aranızda yargı vereceğim.
+**3:55** Allah dedi ki: "Ey Îsâ, yaşamını bitiriyorum ve seni Bana yükseltiyorum ve seni inkâr edenlerden temizliyorum. Ve seni izleyenleri, Diriliş Gününe kadar inkâr edenlerin üzerinde yapacağım. Sonra dönüşün Banadır; sonra tartıştığınız şey hakkında aranızda yargı vereceğim.
 
 إِذْ قَالَ ٱللَّهُ يَٰعِيسَىٰٓ إِنِّى مُتَوَفِّيكَ وَرَافِعُكَ إِلَىَّ وَمُطَهِّرُكَ مِنَ ٱلَّذِينَ كَفَرُوا۟ وَجَاعِلُ ٱلَّذِينَ ٱتَّبَعُوكَ فَوْقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ۖ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأَحْكُمُ بَيْنَكُمْ فِيمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
 
@@ -1562,7 +1562,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 فَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَأُعَذِّبُهُمْ عَذَابًۭا شَدِيدًۭا فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَمَا لَهُم مِّن نَّٰصِرِينَ
 
-**3:57** İnanan ve iyi işler yapanlara gelince, ödüllerini tam verecek. Allah yanlış yapanları sevmez.”
+**3:57** İnanan ve iyi işler yapanlara gelince, ödüllerini tam verecek. Allah yanlış yapanları sevmez."
 
 وَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّٰلِمِينَ
 
@@ -1570,7 +1570,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 ذَٰلِكَ نَتْلُوهُ عَلَيْكَ مِنَ ٱلْءَايَٰتِ وَٱلذِّكْرِ ٱلْحَكِيمِ
 
-**3:59** Îsâ'nın Allah'ın gözündeki durumu Âdem'in durumu gibidir: onu topraktan yarattı, sonra ona “Ol” dedi ve o oldu.
+**3:59** Îsâ'nın Allah'ın gözündeki durumu Âdem'in durumu gibidir: onu topraktan yarattı, sonra ona "Ol" dedi ve o oldu.
 
 إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ ۖ خَلَقَهُۥ مِن تُرَابٍۢ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ
 
@@ -1578,7 +1578,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُن مِّنَ ٱلْمُمْتَرِينَ
 
-**3:61** Ve sana gelen bilgiden sonra, biri seninle onun hakkında tartışırsa, de ki: “Gelin, çocuklarımızı ve çocuklarınızı, kadınlarımızı ve kadınlarınızı ve kendimizi ve kendinizi çağıralım ve yalancılara Allah'ın lanetini çağıralım.”
+**3:61** Ve sana gelen bilgiden sonra, biri seninle onun hakkında tartışırsa, de ki: "Gelin, çocuklarımızı ve çocuklarınızı, kadınlarımızı ve kadınlarınızı ve kendimizi ve kendinizi çağıralım ve yalancılara Allah'ın lanetini çağıralım."
 
 فَمَنْ حَآجَّكَ فِيهِ مِنۢ بَعْدِ مَا جَآءَكَ مِنَ ٱلْعِلْمِ فَقُلْ تَعَالَوْا۟ نَدْعُ أَبْنَآءَنَا وَأَبْنَآءَكُمْ وَنِسَآءَنَا وَنِسَآءَكُمْ وَأَنفُسَنَا وَأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَتَ ٱللَّهِ عَلَى ٱلْكَٰذِبِينَ
 
@@ -1590,7 +1590,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ عَلِيمٌۢ بِٱلْمُفْسِدِينَ
 
-**3:64** De ki: “Ey Kitap Halkı, aramızda ve sizin aranızda ortak koşullara gelin: Allah'tan başkasına kulluk etmeyeceğiz ve Ona hiçbir şeyi ortak koşmayacağız ve hiçbirimiz Allah dışında başkalarını sahip edinmeyecek.” Ve arkalarını dönerlerse, de ki: “Teslim olduğumuza tanıklık edin.”
+**3:64** De ki: "Ey Kitap Halkı, aramızda ve sizin aranızda ortak koşullara gelin: Allah'tan başkasına kulluk etmeyeceğiz ve Ona hiçbir şeyi ortak koşmayacağız ve hiçbirimiz Allah dışında başkalarını sahip edinmeyecek." Ve arkalarını dönerlerse, de ki: "Teslim olduğumuza tanıklık edin."
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍۢ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًۭٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًۭا مِّن دُونِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ
 
@@ -1622,11 +1622,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تَلْبِسُونَ ٱلْحَقَّ بِٱلْبَٰطِلِ وَتَكْتُمُونَ ٱلْحَقَّ وَأَنتُمْ تَعْلَمُونَ
 
-**3:72** Kitap Halkından bazıları, “Günün başında inananlara indirilene inanın ve sonunda onu reddedin, böylece geri dönerler” derler.
+**3:72** Kitap Halkından bazıları, "Günün başında inananlara indirilene inanın ve sonunda onu reddedin, böylece geri dönerler" derler.
 
 وَقَالَت طَّآئِفَةٌۭ مِّنْ أَهْلِ ٱلْكِتَٰبِ ءَامِنُوا۟ بِٱلَّذِىٓ أُنزِلَ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَجْهَ ٱلنَّهَارِ وَٱكْفُرُوٓا۟ ءَاخِرَهُۥ لَعَلَّهُمْ يَرْجِعُونَ
 
-**3:73** Ve dininizi izleyenler dışında kimseye güvenmeyin.” De ki: “Yol gösterme Allah'ın yol göstermesidir. Size verilene benzeri birine verilirse ya da Rabbinizin önünde sizinle tartışırlarsa, de ki: “Bütün lütuf Allah'ın elindedir; onu dilediğine verir.” Allah Bolluk Veren ve Bilendir.
+**3:73** Ve dininizi izleyenler dışında kimseye güvenmeyin." De ki: "Yol gösterme Allah'ın yol göstermesidir. Size verilene benzeri birine verilirse ya da Rabbinizin önünde sizinle tartışırlarsa, de ki: "Bütün lütuf Allah'ın elindedir; onu dilediğine verir." Allah Bolluk Veren ve Bilendir.
 
 وَلَا تُؤْمِنُوٓا۟ إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ ٱلْهُدَىٰ هُدَى ٱللَّهِ أَن يُؤْتَىٰٓ أَحَدٌۭ مِّثْلَ مَآ أُوتِيتُمْ أَوْ يُحَآجُّوكُمْ عِندَ رَبِّكُمْ ۗ قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌۭ
 
@@ -1634,7 +1634,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ ۗ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
 
-**3:75** Kitap Halkı arasında, ona bir altın yığını emanet edersen sana geri verecek olan vardır. Ve onların arasında, ona tek bir para emanet edersen, peşine düşmedikçe sana geri vermeyecek olan vardır. Bu, “Yabancılara karşı bir yükümlülüğümüz yok” demeleri yüzündendir. Allah hakkında yalan söylerler ve bilirler.
+**3:75** Kitap Halkı arasında, ona bir altın yığını emanet edersen sana geri verecek olan vardır. Ve onların arasında, ona tek bir para emanet edersen, peşine düşmedikçe sana geri vermeyecek olan vardır. Bu, "Yabancılara karşı bir yükümlülüğümüz yok" demeleri yüzündendir. Allah hakkında yalan söylerler ve bilirler.
 
 ۞ وَمِنْ أَهْلِ ٱلْكِتَٰبِ مَنْ إِن تَأْمَنْهُ بِقِنطَارٍۢ يُؤَدِّهِۦٓ إِلَيْكَ وَمِنْهُم مَّنْ إِن تَأْمَنْهُ بِدِينَارٍۢ لَّا يُؤَدِّهِۦٓ إِلَيْكَ إِلَّا مَا دُمْتَ عَلَيْهِ قَآئِمًۭا ۗ ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَيْسَ عَلَيْنَا فِى ٱلْأُمِّيِّۦنَ سَبِيلٌۭ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ
 
@@ -1646,11 +1646,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَٰنِهِمْ ثَمَنًۭا قَلِيلًا أُو۟لَٰٓئِكَ لَا خَلَٰقَ لَهُمْ فِى ٱلْءَاخِرَةِ وَلَا يُكَلِّمُهُمُ ٱللَّهُ وَلَا يَنظُرُ إِلَيْهِمْ يَوْمَ ٱلْقِيَٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌۭ
 
-**3:78** Ve onların arasında, Kitaptan sanasınız diye Kitabı dilleriyle bükenler vardır; oysa Kitaptan değildir. Ve “Allah'tandır” derler; oysa Allah'tan değildir. Bile bile yalan söylerler ve onları Allah'a bağlarlar.
+**3:78** Ve onların arasında, Kitaptan sanasınız diye Kitabı dilleriyle bükenler vardır; oysa Kitaptan değildir. Ve "Allah'tandır" derler; oysa Allah'tan değildir. Bile bile yalan söylerler ve onları Allah'a bağlarlar.
 
 وَإِنَّ مِنْهُمْ لَفَرِيقًۭا يَلْوُۥنَ أَلْسِنَتَهُم بِٱلْكِتَٰبِ لِتَحْسَبُوهُ مِنَ ٱلْكِتَٰبِ وَمَا هُوَ مِنَ ٱلْكِتَٰبِ وَيَقُولُونَ هُوَ مِنْ عِندِ ٱللَّهِ وَمَا هُوَ مِنْ عِندِ ٱللَّهِ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ
 
-**3:79** Allah'ın Kitabı, bilgeliği ve peygamberliği verdiği hiçbir kişi insanlara asla, “Allah'ın yerine benim kullarım olun” demez. Daha doğrusu, “Öğrettiğiniz Kitaba ve öğrendiğiniz öğretilere göre Rabbin insanları olun.”
+**3:79** Allah'ın Kitabı, bilgeliği ve peygamberliği verdiği hiçbir kişi insanlara asla, "Allah'ın yerine benim kullarım olun" demez. Daha doğrusu, "Öğrettiğiniz Kitaba ve öğrendiğiniz öğretilere göre Rabbin insanları olun."
 
 مَا كَانَ لِبَشَرٍ أَن يُؤْتِيَهُ ٱللَّهُ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُوا۟ عِبَادًۭا لِّى مِن دُونِ ٱللَّهِ وَلَٰكِن كُونُوا۟ رَبَّٰنِيِّۦنَ بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَٰبَ وَبِمَا كُنتُمْ تَدْرُسُونَ
 
@@ -1658,7 +1658,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَلَا يَأْمُرَكُمْ أَن تَتَّخِذُوا۟ ٱلْمَلَٰٓئِكَةَ وَٱلنَّبِيِّۦنَ أَرْبَابًا ۗ أَيَأْمُرُكُم بِٱلْكُفْرِ بَعْدَ إِذْ أَنتُم مُّسْلِمُونَ
 
-**3:81** Allah peygamberlerin sözünü aldı: “Size kitap ve bilgelik verdiğim kadarıyla; size sahip olduğunuzu doğrulayan bir elçi gelirse, ona inanacak ve onu destekleyeceksiniz.” O, “Sözümü onaylıyor ve üzerinize alıyor musunuz?” dedi. Onlar, “Onaylıyoruz” dediler. O, “Öyleyse tanıklık edin ve ben sizinle tanıklar arasındayım” dedi.
+**3:81** Allah peygamberlerin sözünü aldı: "Size kitap ve bilgelik verdiğim kadarıyla; size sahip olduğunuzu doğrulayan bir elçi gelirse, ona inanacak ve onu destekleyeceksiniz." O, "Sözümü onaylıyor ve üzerinize alıyor musunuz?" dedi. Onlar, "Onaylıyoruz" dediler. O, "Öyleyse tanıklık edin ve ben sizinle tanıklar arasındayım" dedi.
 
 وَإِذْ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلنَّبِيِّۦنَ لَمَآ ءَاتَيْتُكُم مِّن كِتَٰبٍۢ وَحِكْمَةٍۢ ثُمَّ جَآءَكُمْ رَسُولٌۭ مُّصَدِّقٌۭ لِّمَا مَعَكُمْ لَتُؤْمِنُنَّ بِهِۦ وَلَتَنصُرُنَّهُۥ ۚ قَالَ ءَأَقْرَرْتُمْ وَأَخَذْتُمْ عَلَىٰ ذَٰلِكُمْ إِصْرِى ۖ قَالُوٓا۟ أَقْرَرْنَا ۚ قَالَ فَٱشْهَدُوا۟ وَأَنَا۠ مَعَكُم مِّنَ ٱلشَّٰهِدِينَ
 
@@ -1670,7 +1670,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 أَفَغَيْرَ دِينِ ٱللَّهِ يَبْغُونَ وَلَهُۥٓ أَسْلَمَ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَإِلَيْهِ يُرْجَعُونَ
 
-**3:84** De ki: “Allah'a inandık ve bize indirilene inandık; İbrâhim'e, İsmâil'e, İshak'a, Yakup'a ve Atalara indirilene inandık; Mûsâ'ya, Îsâ'ya ve peygamberlere Rablerinden verilene inandık. Onlardan hiçbiri arasında ayrım yapmayız ve Ona teslim oluruz.”
+**3:84** De ki: "Allah'a inandık ve bize indirilene inandık; İbrâhim'e, İsmâil'e, İshak'a, Yakup'a ve Atalara indirilene inandık; Mûsâ'ya, Îsâ'ya ve peygamberlere Rablerinden verilene inandık. Onlardan hiçbiri arasında ayrım yapmayız ve Ona teslim oluruz."
 
 قُلْ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ عَلَيْنَا وَمَآ أُنزِلَ عَلَىٰٓ إِبْرَٰهِيمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَٱلنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍۢ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ
 
@@ -1706,7 +1706,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 لَن تَنَالُوا۟ ٱلْبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَ ۚ وَمَا تُنفِقُوا۟ مِن شَىْءٍۢ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌۭ
 
-**3:93** Tevrat indirilmeden önce, İsrail'in kendisi için yasakladığı dışında, bütün yemekler İsrâiloğulları için izinliydi. De ki: “Doğruysanız Tevrat'ı getirin ve okuyun.”
+**3:93** Tevrat indirilmeden önce, İsrail'in kendisi için yasakladığı dışında, bütün yemekler İsrâiloğulları için izinliydi. De ki: "Doğruysanız Tevrat'ı getirin ve okuyun."
 
 ۞ كُلُّ ٱلطَّعَامِ كَانَ حِلًّۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ إِلَّا مَا حَرَّمَ إِسْرَٰٓءِيلُ عَلَىٰ نَفْسِهِۦ مِن قَبْلِ أَن تُنَزَّلَ ٱلتَّوْرَىٰةُ ۗ قُلْ فَأْتُوا۟ بِٱلتَّوْرَىٰةِ فَٱتْلُوهَآ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -1714,7 +1714,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 فَمَنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ مِنۢ بَعْدِ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
 
-**3:95** De ki: “Allah doğruyu söyledi; öyleyse tek Allah'a inanan İbrâhim'in dinini izleyin; o bir putperest değildi.”
+**3:95** De ki: "Allah doğruyu söyledi; öyleyse tek Allah'a inanan İbrâhim'in dinini izleyin; o bir putperest değildi."
 
 قُلْ صَدَقَ ٱللَّهُ ۗ فَٱتَّبِعُوا۟ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًۭا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
 
@@ -1726,11 +1726,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 فِيهِ ءَايَٰتٌۢ بَيِّنَٰتٌۭ مَّقَامُ إِبْرَٰهِيمَ ۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنًۭا ۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًۭا ۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ ٱلْعَٰلَمِينَ
 
-**3:98** De ki: “Ey Kitap Halkı, Allah yaptıklarınıza tanıkken neden Allah'ın Ayetlerini reddediyorsunuz?”
+**3:98** De ki: "Ey Kitap Halkı, Allah yaptıklarınıza tanıkken neden Allah'ın Ayetlerini reddediyorsunuz?"
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَٱللَّهُ شَهِيدٌ عَلَىٰ مَا تَعْمَلُونَ
 
-**3:99** De ki: “Ey Kitap Halkı, tanık olduğunuz halde neden inananları Allah'ın yolundan engelliyorsunuz ve onu çarpıtmaya çalışıyorsunuz? Allah yaptıklarınızdan habersiz değildir.”
+**3:99** De ki: "Ey Kitap Halkı, tanık olduğunuz halde neden inananları Allah'ın yolundan engelliyorsunuz ve onu çarpıtmaya çalışıyorsunuz? Allah yaptıklarınızdan habersiz değildir."
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ تَبْغُونَهَا عِوَجًۭا وَأَنتُمْ شُهَدَآءُ ۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ
 
@@ -1758,7 +1758,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَلَا تَكُونُوا۟ كَٱلَّذِينَ تَفَرَّقُوا۟ وَٱخْتَلَفُوا۟ مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْبَيِّنَٰتُ ۚ وَأُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ عَظِيمٌۭ
 
-**3:106** Bazı yüzlerin beyazlanacağı ve bazı yüzlerin kararacağı Gün. Yüzleri kararanlara gelince: “İnancınızdan sonra inkâr mı ettiniz?” Öyleyse inkâr ettiğiniz için azabı tadın.
+**3:106** Bazı yüzlerin beyazlanacağı ve bazı yüzlerin kararacağı Gün. Yüzleri kararanlara gelince: "İnancınızdan sonra inkâr mı ettiniz?" Öyleyse inkâr ettiğiniz için azabı tadın.
 
 يَوْمَ تَبْيَضُّ وُجُوهٌۭ وَتَسْوَدُّ وُجُوهٌۭ ۚ فَأَمَّا ٱلَّذِينَ ٱسْوَدَّتْ وُجُوهُهُمْ أَكَفَرْتُم بَعْدَ إِيمَٰنِكُمْ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
 
@@ -1810,7 +1810,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ بِطَانَةًۭ مِّن دُونِكُمْ لَا يَأْلُونَكُمْ خَبَالًۭا وَدُّوا۟ مَا عَنِتُّمْ قَدْ بَدَتِ ٱلْبَغْضَآءُ مِنْ أَفْوَٰهِهِمْ وَمَا تُخْفِى صُدُورُهُمْ أَكْبَرُ ۚ قَدْ بَيَّنَّا لَكُمُ ٱلْءَايَٰتِ ۖ إِن كُنتُمْ تَعْقِلُونَ
 
-**3:119** İşte siz, onları seversiniz, ama onlar sizi sevmezler ve bütün kitaba inanırsınız. Ve sizinle karşılaştıklarında, “İnandık” derler; ama yalnız kaldıklarında, size öfkeyle parmaklarını ısırırlar. De ki: “Öfkenizde ölün; Allah kalplerin içinde olanı bilir.”
+**3:119** İşte siz, onları seversiniz, ama onlar sizi sevmezler ve bütün kitaba inanırsınız. Ve sizinle karşılaştıklarında, "İnandık" derler; ama yalnız kaldıklarında, size öfkeyle parmaklarını ısırırlar. De ki: "Öfkenizde ölün; Allah kalplerin içinde olanı bilir."
 
 هَٰٓأَنتُمْ أُو۟لَآءِ تُحِبُّونَهُمْ وَلَا يُحِبُّونَكُمْ وَتُؤْمِنُونَ بِٱلْكِتَٰبِ كُلِّهِۦ وَإِذَا لَقُوكُمْ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ عَضُّوا۟ عَلَيْكُمُ ٱلْأَنَامِلَ مِنَ ٱلْغَيْظِ ۚ قُلْ مُوتُوا۟ بِغَيْظِكُمْ ۗ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
@@ -1830,7 +1830,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَلَقَدْ نَصَرَكُمُ ٱللَّهُ بِبَدْرٍۢ وَأَنتُمْ أَذِلَّةٌۭ ۖ فَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تَشْكُرُونَ
 
-**3:124** İnananlara, “Rabbinizin sizi indirilen üç bin melekle güçlendirmesi size yetmez mi?” dediğinde.
+**3:124** İnananlara, "Rabbinizin sizi indirilen üç bin melekle güçlendirmesi size yetmez mi?" dediğinde.
 
 إِذْ تَقُولُ لِلْمُؤْمِنِينَ أَلَن يَكْفِيَكُمْ أَن يُمِدَّكُمْ رَبُّكُم بِثَلَٰثَةِ ءَالَٰفٍۢ مِّنَ ٱلْمَلَٰٓئِكَةِ مُنزَلِينَ
 
@@ -1922,7 +1922,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَكَأَيِّن مِّن نَّبِىٍّۢ قَٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٌۭ فَمَا وَهَنُوا۟ لِمَآ أَصَابَهُمْ فِى سَبِيلِ ٱللَّهِ وَمَا ضَعُفُوا۟ وَمَا ٱسْتَكَانُوا۟ ۗ وَٱللَّهُ يُحِبُّ ٱلصَّٰبِرِينَ
 
-**3:147** Tek sözleri, “Rabbimiz, yanlışlarımızı ve davranışlarımızdaki aşırılıklarımızı bağışla ve adımımızı güçlendir ve inkâr eden halka karşı bize yardım et” idi.
+**3:147** Tek sözleri, "Rabbimiz, yanlışlarımızı ve davranışlarımızdaki aşırılıklarımızı bağışla ve adımımızı güçlendir ve inkâr eden halka karşı bize yardım et" idi.
 
 وَمَا كَانَ قَوْلَهُمْ إِلَّآ أَن قَالُوا۟ رَبَّنَا ٱغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِىٓ أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
 
@@ -1950,7 +1950,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 ۞ إِذْ تُصْعِدُونَ وَلَا تَلْوُۥنَ عَلَىٰٓ أَحَدٍۢ وَٱلرَّسُولُ يَدْعُوكُمْ فِىٓ أُخْرَىٰكُمْ فَأَثَٰبَكُمْ غَمًّۢا بِغَمٍّۢ لِّكَيْلَا تَحْزَنُوا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا مَآ أَصَٰبَكُمْ ۗ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ
 
-**3:154** Sonra gerilemeden sonra, üzerinize güvenlik indirdi. Uyku bazılarınızı kapladı, bazıları yalnızca kendilerini düşündü, Allah hakkında doğru olmayan düşünceler düşündü — bilgisizlik düşünceleri — “Bize bir şey kaldı mı?” diyerek. De ki: “Her şey Allah'a kalır.” İçlerinde size açıklamadıklarını gizlerler. Ve derler: “Bize kalsaydı, hiçbirimiz burada öldürülmezdi.” De ki: “Evlerinizde kalsaydınız bile, öldürülmesi yazılanlar ölüm yataklarına yürürlerdi.” Allah böylece akıllarınızda olanı sınar ve kalplerinizde olanı arındırır. Allah kalplerin içerdiğini bilir.
+**3:154** Sonra gerilemeden sonra, üzerinize güvenlik indirdi. Uyku bazılarınızı kapladı, bazıları yalnızca kendilerini düşündü, Allah hakkında doğru olmayan düşünceler düşündü — bilgisizlik düşünceleri — "Bize bir şey kaldı mı?" diyerek. De ki: "Her şey Allah'a kalır." İçlerinde size açıklamadıklarını gizlerler. Ve derler: "Bize kalsaydı, hiçbirimiz burada öldürülmezdi." De ki: "Evlerinizde kalsaydınız bile, öldürülmesi yazılanlar ölüm yataklarına yürürlerdi." Allah böylece akıllarınızda olanı sınar ve kalplerinizde olanı arındırır. Allah kalplerin içerdiğini bilir.
 
 ثُمَّ أَنزَلَ عَلَيْكُم مِّنۢ بَعْدِ ٱلْغَمِّ أَمَنَةًۭ نُّعَاسًۭا يَغْشَىٰ طَآئِفَةًۭ مِّنكُمْ ۖ وَطَآئِفَةٌۭ قَدْ أَهَمَّتْهُمْ أَنفُسُهُمْ يَظُنُّونَ بِٱللَّهِ غَيْرَ ٱلْحَقِّ ظَنَّ ٱلْجَٰهِلِيَّةِ ۖ يَقُولُونَ هَل لَّنَا مِنَ ٱلْأَمْرِ مِن شَىْءٍۢ ۗ قُلْ إِنَّ ٱلْأَمْرَ كُلَّهُۥ لِلَّهِ ۗ يُخْفُونَ فِىٓ أَنفُسِهِم مَّا لَا يُبْدُونَ لَكَ ۖ يَقُولُونَ لَوْ كَانَ لَنَا مِنَ ٱلْأَمْرِ شَىْءٌۭ مَّا قُتِلْنَا هَٰهُنَا ۗ قُل لَّوْ كُنتُمْ فِى بُيُوتِكُمْ لَبَرَزَ ٱلَّذِينَ كُتِبَ عَلَيْهِمُ ٱلْقَتْلُ إِلَىٰ مَضَاجِعِهِمْ ۖ وَلِيَبْتَلِىَ ٱللَّهُ مَا فِى صُدُورِكُمْ وَلِيُمَحِّصَ مَا فِى قُلُوبِكُمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
@@ -1958,7 +1958,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 إِنَّ ٱلَّذِينَ تَوَلَّوْا۟ مِنكُمْ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ إِنَّمَا ٱسْتَزَلَّهُمُ ٱلشَّيْطَٰنُ بِبَعْضِ مَا كَسَبُوا۟ ۖ وَلَقَدْ عَفَا ٱللَّهُ عَنْهُمْ ۗ إِنَّ ٱللَّهَ غَفُورٌ حَلِيمٌۭ
 
-**3:156** Ey inananlar! İnkâr edenler gibi olmayın ve yerde yürüyen ya da saldırıya giden kardeşleri için, “Bizimle kalsalardı, ölmez ya da öldürülmezlerdi” diyenler gibi olmayın. Böylece Allah onu kalplerinde pişmanlık nedeni yapar. Allah hayat verir ve ölüme yol açar. Allah yaptıklarınızı görür.
+**3:156** Ey inananlar! İnkâr edenler gibi olmayın ve yerde yürüyen ya da saldırıya giden kardeşleri için, "Bizimle kalsalardı, ölmez ya da öldürülmezlerdi" diyenler gibi olmayın. Böylece Allah onu kalplerinde pişmanlık nedeni yapar. Allah hayat verir ve ölüme yol açar. Allah yaptıklarınızı görür.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِينَ كَفَرُوا۟ وَقَالُوا۟ لِإِخْوَٰنِهِمْ إِذَا ضَرَبُوا۟ فِى ٱلْأَرْضِ أَوْ كَانُوا۟ غُزًّۭى لَّوْ كَانُوا۟ عِندَنَا مَا مَاتُوا۟ وَمَا قُتِلُوا۟ لِيَجْعَلَ ٱللَّهُ ذَٰلِكَ حَسْرَةًۭ فِى قُلُوبِهِمْ ۗ وَٱللَّهُ يُحْىِۦ وَيُمِيتُ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌۭ
 
@@ -1994,7 +1994,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 لَقَدْ مَنَّ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًۭا مِّنْ أَنفُسِهِمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَٰلٍۢ مُّبِينٍ
 
-**3:165** Ve size iki katını verdiğiniz halde bir felaket geldiğinde, “Bu nasıl?” dediniz. De ki: “Bu kendinizdendir.” Allah her şeyi yapabilir.
+**3:165** Ve size iki katını verdiğiniz halde bir felaket geldiğinde, "Bu nasıl?" dediniz. De ki: "Bu kendinizdendir." Allah her şeyi yapabilir.
 
 أَوَلَمَّآ أَصَٰبَتْكُم مُّصِيبَةٌۭ قَدْ أَصَبْتُم مِّثْلَيْهَا قُلْتُمْ أَنَّىٰ هَٰذَا ۖ قُلْ هُوَ مِنْ عِندِ أَنفُسِكُمْ ۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
@@ -2002,11 +2002,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَمَآ أَصَٰبَكُمْ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ فَبِإِذْنِ ٱللَّهِ وَلِيَعْلَمَ ٱلْمُؤْمِنِينَ
 
-**3:167** Ve ikiyüzlüleri bilsin diye. Ve onlara, “Gelin, Allah yolunda savaşın ya da katkıda bulunun” denildi. Onlar, “Savaşmayı bilseydik, sizi izlerdik” dediler. O gün inanca olduğundan daha çok inkâra yakındılar. Ağızlarıyla kalplerinde olmayanı söylerler; ama Allah gizlediklerini bilir.
+**3:167** Ve ikiyüzlüleri bilsin diye. Ve onlara, "Gelin, Allah yolunda savaşın ya da katkıda bulunun" denildi. Onlar, "Savaşmayı bilseydik, sizi izlerdik" dediler. O gün inanca olduğundan daha çok inkâra yakındılar. Ağızlarıyla kalplerinde olmayanı söylerler; ama Allah gizlediklerini bilir.
 
 وَلِيَعْلَمَ ٱلَّذِينَ نَافَقُوا۟ ۚ وَقِيلَ لَهُمْ تَعَالَوْا۟ قَٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَوِ ٱدْفَعُوا۟ ۖ قَالُوا۟ لَوْ نَعْلَمُ قِتَالًۭا لَّٱتَّبَعْنَٰكُمْ ۗ هُمْ لِلْكُفْرِ يَوْمَئِذٍ أَقْرَبُ مِنْهُمْ لِلْإِيمَٰنِ ۚ يَقُولُونَ بِأَفْوَٰهِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ ۗ وَٱللَّهُ أَعْلَمُ بِمَا يَكْتُمُونَ
 
-**3:168** Geride kalanlar olarak kardeşleri için, “Bize itaat etselerdi, öldürülmezlerdi” diyenler. De ki: “Doğruysanız, ölümü kendinizden uzaklaştırın.”
+**3:168** Geride kalanlar olarak kardeşleri için, "Bize itaat etselerdi, öldürülmezlerdi" diyenler. De ki: "Doğruysanız, ölümü kendinizden uzaklaştırın."
 
 ٱلَّذِينَ قَالُوا۟ لِإِخْوَٰنِهِمْ وَقَعَدُوا۟ لَوْ أَطَاعُونَا مَا قُتِلُوا۟ ۗ قُلْ فَٱدْرَءُوا۟ عَنْ أَنفُسِكُمُ ٱلْمَوْتَ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -2026,7 +2026,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعْدِ مَآ أَصَابَهُمُ ٱلْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ
 
-**3:173** İnsanların, “İnsanlar size karşı toplandı, öyleyse onlardan korkun” dediği kimseler. Ama bu yalnızca inançlarını artırdı ve “Allah bize yeter; O Mükemmel Koruyucudur” dediler.
+**3:173** İnsanların, "İnsanlar size karşı toplandı, öyleyse onlardan korkun" dediği kimseler. Ama bu yalnızca inançlarını artırdı ve "Allah bize yeter; O Mükemmel Koruyucudur" dediler.
 
 ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدْ جَمَعُوا۟ لَكُمْ فَٱخْشَوْهُمْ فَزَادَهُمْ إِيمَٰنًۭا وَقَالُوا۟ حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ
 
@@ -2058,15 +2058,15 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَلَا يَحْسَبَنَّ ٱلَّذِينَ يَبْخَلُونَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ هُوَ خَيْرًۭا لَّهُم ۖ بَلْ هُوَ شَرٌّۭ لَّهُمْ ۖ سَيُطَوَّقُونَ مَا بَخِلُوا۟ بِهِۦ يَوْمَ ٱلْقِيَٰمَةِ ۗ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ
 
-**3:181** Allah, “Allah yoksuldur ve biz zenginiz” diyenlerin sözünü duydu. Söylediklerini ve peygamberleri haksız öldürmelerini yazacağız; ve “Yanma azabını tadın” diyeceğiz.
+**3:181** Allah, "Allah yoksuldur ve biz zenginiz" diyenlerin sözünü duydu. Söylediklerini ve peygamberleri haksız öldürmelerini yazacağız; ve "Yanma azabını tadın" diyeceğiz.
 
 لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌۭ وَنَحْنُ أَغْنِيَآءُ ۘ سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّۢ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
 
-**3:182** “Bu, ellerinizin öne sürdüğü yüzündendir ve Allah yaratıklara karşı haksız olmadığı içindir.”
+**3:182** "Bu, ellerinizin öne sürdüğü yüzündendir ve Allah yaratıklara karşı haksız olmadığı içindir."
 
 ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّامٍۢ لِّلْعَبِيدِ
 
-**3:183** “Allah bizimle bir söz yaptı; ateşin yiyeceği bir sunu getirmedikçe hiçbir elçiye inanmayacağız” diyenler. De ki: “Elçiler size benden önce kanıtlarla ve istediğiniz şeyle geldi; öyleyse doğruysanız onları neden öldürdünüz?”
+**3:183** "Allah bizimle bir söz yaptı; ateşin yiyeceği bir sunu getirmedikçe hiçbir elçiye inanmayacağız" diyenler. De ki: "Elçiler size benden önce kanıtlarla ve istediğiniz şeyle geldi; öyleyse doğruysanız onları neden öldürdünüz?"
 
 ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا بِقُرْبَانٍۢ تَأْكُلُهُ ٱلنَّارُ ۗ قُلْ قَدْ جَآءَكُمْ رُسُلٌۭ مِّن قَبْلِى بِٱلْبَيِّنَٰتِ وَبِٱلَّذِى قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -2082,7 +2082,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 ۞ لَتُبْلَوُنَّ فِىٓ أَمْوَٰلِكُمْ وَأَنفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ وَمِنَ ٱلَّذِينَ أَشْرَكُوٓا۟ أَذًۭى كَثِيرًۭا ۚ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ
 
-**3:187** Allah, Kitap verilenlerden bir söz aldı: “Onu insanlara duyuracaksınız ve gizlemeyeceksiniz.” Ama onu arkalarının arkasında göz ardı ettiler ve küçük bir fiyat karşılığında değiştirdiler. Ne kötü bir değişim yaptılar.
+**3:187** Allah, Kitap verilenlerden bir söz aldı: "Onu insanlara duyuracaksınız ve gizlemeyeceksiniz." Ama onu arkalarının arkasında göz ardı ettiler ve küçük bir fiyat karşılığında değiştirdiler. Ne kötü bir değişim yaptılar.
 
 وَإِذْ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًۭا قَلِيلًۭا ۖ فَبِئْسَ مَا يَشْتَرُونَ
 
@@ -2098,23 +2098,23 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَءَايَٰتٍۢ لِّأُو۟لِى ٱلْأَلْبَٰبِ
 
-**3:191** Ayakta, otururken ve yanları üzerinde Allah'ı hatırlayanlar; ve göklerin ve yeryüzünün yaratılışı hakkında düşünürler: “Rabbimiz, bunu boşuna yaratmadın, Sen yücesin, öyleyse bizi Ateşin azabından koru.”
+**3:191** Ayakta, otururken ve yanları üzerinde Allah'ı hatırlayanlar; ve göklerin ve yeryüzünün yaratılışı hakkında düşünürler: "Rabbimiz, bunu boşuna yaratmadın, Sen yücesin, öyleyse bizi Ateşin azabından koru."
 
 ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَٰمًۭا وَقُعُودًۭا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَٰطِلًۭا سُبْحَٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ
 
-**3:192** “Rabbimiz, Ateşe verdiğin kimseyi aşağıladın. Yanlış yapanların yardımcıları olmayacak.”
+**3:192** "Rabbimiz, Ateşe verdiğin kimseyi aşağıladın. Yanlış yapanların yardımcıları olmayacak."
 
 رَبَّنَآ إِنَّكَ مَن تُدْخِلِ ٱلنَّارَ فَقَدْ أَخْزَيْتَهُۥ ۖ وَمَا لِلظَّٰلِمِينَ مِنْ أَنصَارٍۢ
 
-**3:193** “Rabbimiz, inanca çağıran bir çağırıcıyı duyduk: ‘Rabbinize inanın,’ ve inandık. Rabbimiz! Günahlarımızı bağışla ve yanlışlarımızı gider ve bizi erdemlilerle birlikte öldür.”
+**3:193** "Rabbimiz, inanca çağıran bir çağırıcıyı duyduk: 'Rabbinize inanın,' ve inandık. Rabbimiz! Günahlarımızı bağışla ve yanlışlarımızı gider ve bizi erdemlilerle birlikte öldür."
 
 رَّبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًۭا يُنَادِى لِلْإِيمَٰنِ أَنْ ءَامِنُوا۟ بِرَبِّكُمْ فَـَٔامَنَّا ۚ رَبَّنَا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلْأَبْرَارِ
 
-**3:194** “Rabbimiz, bize elçilerin yoluyla söz verdiğini ver ve Diriliş Gününde bizi aşağılama. Sen asla sözü bozmazsın.”
+**3:194** "Rabbimiz, bize elçilerin yoluyla söz verdiğini ver ve Diriliş Gününde bizi aşağılama. Sen asla sözü bozmazsın."
 
 رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ ٱلْقِيَٰمَةِ ۗ إِنَّكَ لَا تُخْلِفُ ٱلْمِيعَادَ
 
-**3:195** Ve böylece Rableri onlara karşılık verdi: “İçinizden çalışan hiç kimsenin işini boşa çıkarmayacağım, erkek ya da kadın olsun. Birbirinizdensiniz. Göç eden, evlerinden çıkarılan, Benim yüzümden acı çeken ve savaşan ve öldürülenler için — günahlarını gidereceğim ve onları altından ırmaklar akan bahçelere kabul edeceğim — Allah'tan bir ödül. Allah'ın yanında en son ödül vardır.”
+**3:195** Ve böylece Rableri onlara karşılık verdi: "İçinizden çalışan hiç kimsenin işini boşa çıkarmayacağım, erkek ya da kadın olsun. Birbirinizdensiniz. Göç eden, evlerinden çıkarılan, Benim yüzümden acı çeken ve savaşan ve öldürülenler için — günahlarını gidereceğim ve onları altından ırmaklar akan bahçelere kabul edeceğim — Allah'tan bir ödül. Allah'ın yanında en son ödül vardır."
 
 فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّى لَآ أُضِيعُ عَمَلَ عَٰمِلٍۢ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ بَعْضُكُم مِّنۢ بَعْضٍۢ ۖ فَٱلَّذِينَ هَاجَرُوا۟ وَأُخْرِجُوا۟ مِن دِيَٰرِهِمْ وَأُوذُوا۟ فِى سَبِيلِى وَقَٰتَلُوا۟ وَقُتِلُوا۟ لَأُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ثَوَابًۭا مِّنْ عِندِ ٱللَّهِ ۗ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلثَّوَابِ
 
@@ -2218,7 +2218,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 إِنَّمَا ٱلتَّوْبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعْمَلُونَ ٱلسُّوٓءَ بِجَهَٰلَةٍۢ ثُمَّ يَتُوبُونَ مِن قَرِيبٍۢ فَأُو۟لَٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيْهِمْ ۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًۭا
 
-**4:18** Tövbe, kötülükleri yapmaya devam edip ölüm kendisine geldiğinde “Şimdi tövbe ettim” diyenler için değildir. Kâfir olarak ölenler için de değildir. Onlar için acı bir azap hazırladık.
+**4:18** Tövbe, kötülükleri yapmaya devam edip ölüm kendisine geldiğinde "Şimdi tövbe ettim" diyenler için değildir. Kâfir olarak ölenler için de değildir. Onlar için acı bir azap hazırladık.
 
 وَلَيْسَتِ ٱلتَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ حَتَّىٰٓ إِذَا حَضَرَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ إِنِّى تُبْتُ ٱلْـَٰٔنَ وَلَا ٱلَّذِينَ يَمُوتُونَ وَهُمْ كُفَّارٌ ۚ أُو۟لَٰٓئِكَ أَعْتَدْنَا لَهُمْ عَذَابًا أَلِيمًۭا
 
@@ -2330,7 +2330,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَٱللَّهُ أَعْلَمُ بِأَعْدَآئِكُمْ ۚ وَكَفَىٰ بِٱللَّهِ وَلِيًّۭا وَكَفَىٰ بِٱللَّهِ نَصِيرًۭا
 
-**4:46** Yahudilerden bazıları sözleri yerlerinden saptırır. Dilleriyle eğip dine söverek “Duyduk ve karşı geldik”, “Dinle, dinlemez olası”, “Bizi gözet” derler. Eğer “Duyduk ve uyduk”, “Dinle”, “Bize dikkat et” deselerdi onlar için daha iyi ve daha doğru olurdu. Ama Allah inkârları yüzünden onları lanetledi. Onlar pek az inanırlar.
+**4:46** Yahudilerden bazıları sözleri yerlerinden saptırır. Dilleriyle eğip dine söverek "Duyduk ve karşı geldik", "Dinle, dinlemez olası", "Bizi gözet" derler. Eğer "Duyduk ve uyduk", "Dinle", "Bize dikkat et" deselerdi onlar için daha iyi ve daha doğru olurdu. Ama Allah inkârları yüzünden onları lanetledi. Onlar pek az inanırlar.
 
 مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ مُسْمَعٍۢ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًۭا فِى ٱلدِّينِ ۚ وَلَوْ أَنَّهُمْ قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًۭا لَّهُمْ وَأَقْوَمَ وَلَٰكِن لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًۭا
 
@@ -2350,7 +2350,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 ٱنظُرْ كَيْفَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ ۖ وَكَفَىٰ بِهِۦٓ إِثْمًۭا مُّبِينًا
 
-**4:51** Kendilerine kitaptan bir pay verilenleri görmedin mi? Batıl inanca ve kötü güçlere inanırlar. İnkâr edenler hakkında “Bunlar iman edenlerden daha doğru yoldadır” derler.
+**4:51** Kendilerine kitaptan bir pay verilenleri görmedin mi? Batıl inanca ve kötü güçlere inanırlar. İnkâr edenler hakkında "Bunlar iman edenlerden daha doğru yoldadır" derler.
 
 أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًۭا مِّنَ ٱلْكِتَٰبِ يُؤْمِنُونَ بِٱلْجِبْتِ وَٱلطَّٰغُوتِ وَيَقُولُونَ لِلَّذِينَ كَفَرُوا۟ هَٰٓؤُلَآءِ أَهْدَىٰ مِنَ ٱلَّذِينَ ءَامَنُوا۟ سَبِيلًا
 
@@ -2390,11 +2390,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 أَلَمْ تَرَ إِلَى ٱلَّذِينَ يَزْعُمُونَ أَنَّهُمْ ءَامَنُوا۟ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ يُرِيدُونَ أَن يَتَحَاكَمُوٓا۟ إِلَى ٱلطَّٰغُوتِ وَقَدْ أُمِرُوٓا۟ أَن يَكْفُرُوا۟ بِهِۦ وَيُرِيدُ ٱلشَّيْطَٰنُ أَن يُضِلَّهُمْ ضَلَٰلًۢا بَعِيدًۭا
 
-**4:61** Onlara “Allah'ın indirdiğine ve elçiye gelin” denildiğinde, ikiyüzlülerin senden tamamen yüz çevirdiğini görürsün.
+**4:61** Onlara "Allah'ın indirdiğine ve elçiye gelin" denildiğinde, ikiyüzlülerin senden tamamen yüz çevirdiğini görürsün.
 
 وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ رَأَيْتَ ٱلْمُنَٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودًۭا
 
-**4:62** Ellerinin yaptıkları yüzünden başlarına bir felaket geldiğinde sana gelip Allah'a yemin ederek “Biz yalnızca iyilik ve uzlaşma istedik” derlerse nasıl olacak?
+**4:62** Ellerinin yaptıkları yüzünden başlarına bir felaket geldiğinde sana gelip Allah'a yemin ederek "Biz yalnızca iyilik ve uzlaşma istedik" derlerse nasıl olacak?
 
 فَكَيْفَ إِذَآ أَصَٰبَتْهُم مُّصِيبَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ ثُمَّ جَآءُوكَ يَحْلِفُونَ بِٱللَّهِ إِنْ أَرَدْنَآ إِلَّآ إِحْسَٰنًۭا وَتَوْفِيقًا
 
@@ -2410,7 +2410,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا۟ فِىٓ أَنفُسِهِمْ حَرَجًۭا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا۟ تَسْلِيمًۭا
 
-**4:66** Onlara “Kendinizi öldürün” veya “Evlerinizi bırakın” diye yazsaydık, pek azı dışında bunu yapmazlardı. Ama kendilerine öğütleneni yapsalardı onlar için daha iyi ve daha sağlam bir pekiştirme olurdu.
+**4:66** Onlara "Kendinizi öldürün" veya "Evlerinizi bırakın" diye yazsaydık, pek azı dışında bunu yapmazlardı. Ama kendilerine öğütleneni yapsalardı onlar için daha iyi ve daha sağlam bir pekiştirme olurdu.
 
 وَلَوْ أَنَّا كَتَبْنَا عَلَيْهِمْ أَنِ ٱقْتُلُوٓا۟ أَنفُسَكُمْ أَوِ ٱخْرُجُوا۟ مِن دِيَٰرِكُم مَّا فَعَلُوهُ إِلَّا قَلِيلٌۭ مِّنْهُمْ ۖ وَلَوْ أَنَّهُمْ فَعَلُوا۟ مَا يُوعَظُونَ بِهِۦ لَكَانَ خَيْرًۭا لَّهُمْ وَأَشَدَّ تَثْبِيتًۭا
 
@@ -2434,11 +2434,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ خُذُوا۟ حِذْرَكُمْ فَٱنفِرُوا۟ ثُبَاتٍ أَوِ ٱنفِرُوا۟ جَمِيعًۭا
 
-**4:72** Aranızda geri kalanlar var. Size bir felaket gelirse “Onlarla birlikte şehit olmadığım için Allah bana iyilik etti” der.
+**4:72** Aranızda geri kalanlar var. Size bir felaket gelirse "Onlarla birlikte şehit olmadığım için Allah bana iyilik etti" der.
 
 وَإِنَّ مِنكُمْ لَمَن لَّيُبَطِّئَنَّ فَإِنْ أَصَٰبَتْكُم مُّصِيبَةٌۭ قَالَ قَدْ أَنْعَمَ ٱللَّهُ عَلَىَّ إِذْ لَمْ أَكُن مَّعَهُمْ شَهِيدًۭا
 
-**4:73** Allah'tan size bir nimet gelirse, aranızda hiç sevgi yok gibi “Keşke onlarla birlikte olsaydım, büyük bir başarı kazanırdım” der.
+**4:73** Allah'tan size bir nimet gelirse, aranızda hiç sevgi yok gibi "Keşke onlarla birlikte olsaydım, büyük bir başarı kazanırdım" der.
 
 وَلَئِنْ أَصَٰبَكُمْ فَضْلٌۭ مِّنَ ٱللَّهِ لَيَقُولَنَّ كَأَن لَّمْ تَكُنۢ بَيْنَكُمْ وَبَيْنَهُۥ مَوَدَّةٌۭ يَٰلَيْتَنِى كُنتُ مَعَهُمْ فَأَفُوزَ فَوْزًا عَظِيمًۭا
 
@@ -2446,7 +2446,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 ۞ فَلْيُقَٰتِلْ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يَشْرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْءَاخِرَةِ ۚ وَمَن يُقَٰتِلْ فِى سَبِيلِ ٱللَّهِ فَيُقْتَلْ أَوْ يَغْلِبْ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًۭا
 
-**4:75** Size ne oluyor da Allah yolunda savaşmıyorsunuz? Güçsüz erkekler, kadınlar ve çocuklar şöyle diyor: “Rabbimiz! Halkı zalim olan bu kasabadan bizi çıkar. Katından bize bir koruyucu görevlendir. Katından bize bir yardımcı görevlendir.”
+**4:75** Size ne oluyor da Allah yolunda savaşmıyorsunuz? Güçsüz erkekler, kadınlar ve çocuklar şöyle diyor: "Rabbimiz! Halkı zalim olan bu kasabadan bizi çıkar. Katından bize bir koruyucu görevlendir. Katından bize bir yardımcı görevlendir."
 
 وَمَا لَكُمْ لَا تُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلْوِلْدَٰنِ ٱلَّذِينَ يَقُولُونَ رَبَّنَآ أَخْرِجْنَا مِنْ هَٰذِهِ ٱلْقَرْيَةِ ٱلظَّالِمِ أَهْلُهَا وَٱجْعَل لَّنَا مِن لَّدُنكَ وَلِيًّۭا وَٱجْعَل لَّنَا مِن لَّدُنكَ نَصِيرًا
 
@@ -2454,11 +2454,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 ٱلَّذِينَ ءَامَنُوا۟ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ ۖ وَٱلَّذِينَ كَفَرُوا۟ يُقَٰتِلُونَ فِى سَبِيلِ ٱلطَّٰغُوتِ فَقَٰتِلُوٓا۟ أَوْلِيَآءَ ٱلشَّيْطَٰنِ ۖ إِنَّ كَيْدَ ٱلشَّيْطَٰنِ كَانَ ضَعِيفًا
 
-**4:77** Kendilerine “Ellerinizi çekin, namazı kılın ve düzenli yardımı verin” denilenleri görmedin mi? Savaş üzerlerine yazılınca bir kesimi insanlardan, Allah'tan korkulması gerektiği gibi, hatta daha çok korktu. Dediler ki: “Rabbimiz! Neden bize savaşı yazdın? Keşke bizi kısa bir süre ertelesen.” De ki: “Dünya hayatının yararları azdır. Ahiret erdemliler için daha iyidir. Size kıl kadar haksızlık yapılmaz.”
+**4:77** Kendilerine "Ellerinizi çekin, namazı kılın ve düzenli yardımı verin" denilenleri görmedin mi? Savaş üzerlerine yazılınca bir kesimi insanlardan, Allah'tan korkulması gerektiği gibi, hatta daha çok korktu. Dediler ki: "Rabbimiz! Neden bize savaşı yazdın? Keşke bizi kısa bir süre ertelesen." De ki: "Dünya hayatının yararları azdır. Ahiret erdemliler için daha iyidir. Size kıl kadar haksızlık yapılmaz."
 
 أَلَمْ تَرَ إِلَى ٱلَّذِينَ قِيلَ لَهُمْ كُفُّوٓا۟ أَيْدِيَكُمْ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ إِذَا فَرِيقٌۭ مِّنْهُمْ يَخْشَوْنَ ٱلنَّاسَ كَخَشْيَةِ ٱللَّهِ أَوْ أَشَدَّ خَشْيَةًۭ ۚ وَقَالُوا۟ رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا ٱلْقِتَالَ لَوْلَآ أَخَّرْتَنَآ إِلَىٰٓ أَجَلٍۢ قَرِيبٍۢ ۗ قُلْ مَتَٰعُ ٱلدُّنْيَا قَلِيلٌۭ وَٱلْءَاخِرَةُ خَيْرٌۭ لِّمَنِ ٱتَّقَىٰ وَلَا تُظْلَمُونَ فَتِيلًا
 
-**4:78** Nerede olursanız olun, sağlam kulelerde olsanız bile ölüm size yetişir. Başlarına bir iyilik gelirse “Bu Allah'tandır” derler. Başlarına bir kötülük gelirse “Bu sendendir” derler. De ki: “Hepsi Allah'tandır.” Bu insanlara ne oluyor ki hiçbir şeyi neredeyse anlamıyorlar?
+**4:78** Nerede olursanız olun, sağlam kulelerde olsanız bile ölüm size yetişir. Başlarına bir iyilik gelirse "Bu Allah'tandır" derler. Başlarına bir kötülük gelirse "Bu sendendir" derler. De ki: "Hepsi Allah'tandır." Bu insanlara ne oluyor ki hiçbir şeyi neredeyse anlamıyorlar?
 
 أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍۢ مُّشَيَّدَةٍۢ ۗ وَإِن تُصِبْهُمْ حَسَنَةٌۭ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِ ٱللَّهِ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۭ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِكَ ۚ قُلْ كُلٌّۭ مِّنْ عِندِ ٱللَّهِ ۖ فَمَالِ هَٰٓؤُلَآءِ ٱلْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَدِيثًۭا
 
@@ -2522,7 +2522,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَمَن يَقْتُلْ مُؤْمِنًۭا مُّتَعَمِّدًۭا فَجَزَآؤُهُۥ جَهَنَّمُ خَٰلِدًۭا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمًۭا
 
-**4:94** Ey iman edenler! Allah yolunda yolculuğa çıktığınızda araştırın. Dünya hayatının mallarını isteyerek size barış önerene “Sen mümin değilsin” demeyin. Allah'ın yanında bol nimetler vardır. Siz de daha önce böyleydiniz. Allah size iyilik etti. Öyleyse araştırın. Allah yaptıklarınızdan haberdardır.
+**4:94** Ey iman edenler! Allah yolunda yolculuğa çıktığınızda araştırın. Dünya hayatının mallarını isteyerek size barış önerene "Sen mümin değilsin" demeyin. Allah'ın yanında bol nimetler vardır. Siz de daha önce böyleydiniz. Allah size iyilik etti. Öyleyse araştırın. Allah yaptıklarınızdan haberdardır.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا ضَرَبْتُمْ فِى سَبِيلِ ٱللَّهِ فَتَبَيَّنُوا۟ وَلَا تَقُولُوا۟ لِمَنْ أَلْقَىٰٓ إِلَيْكُمُ ٱلسَّلَٰمَ لَسْتَ مُؤْمِنًۭا تَبْتَغُونَ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا فَعِندَ ٱللَّهِ مَغَانِمُ كَثِيرَةٌۭ ۚ كَذَٰلِكَ كُنتُم مِّن قَبْلُ فَمَنَّ ٱللَّهُ عَلَيْكُمْ فَتَبَيَّنُوٓا۟ ۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًۭا
 
@@ -2534,7 +2534,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 دَرَجَٰتٍۢ مِّنْهُ وَمَغْفِرَةًۭ وَرَحْمَةًۭ ۚ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًا
 
-**4:97** Melekler kendilerine haksızlık edenlerin canlarını alırken “Ne hâldeydiniz?” diyecekler. Onlar “Yeryüzünde güçsüzdük” diyecekler. Melekler “Allah'ın yeri göç etmeniz için geniş değil miydi?” diyecekler. Bunların sığınağı cehennemdir. Ne kötü bir dönüş yeridir.
+**4:97** Melekler kendilerine haksızlık edenlerin canlarını alırken "Ne hâldeydiniz?" diyecekler. Onlar "Yeryüzünde güçsüzdük" diyecekler. Melekler "Allah'ın yeri göç etmeniz için geniş değil miydi?" diyecekler. Bunların sığınağı cehennemdir. Ne kötü bir dönüş yeridir.
 
 إِنَّ ٱلَّذِينَ تَوَفَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ ظَالِمِىٓ أَنفُسِهِمْ قَالُوا۟ فِيمَ كُنتُمْ ۖ قَالُوا۟ كُنَّا مُسْتَضْعَفِينَ فِى ٱلْأَرْضِ ۚ قَالُوٓا۟ أَلَمْ تَكُنْ أَرْضُ ٱللَّهِ وَٰسِعَةًۭ فَتُهَاجِرُوا۟ فِيهَا ۚ فَأُو۟لَٰٓئِكَ مَأْوَىٰهُمْ جَهَنَّمُ ۖ وَسَآءَتْ مَصِيرًا
 
@@ -2618,11 +2618,11 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 إِن يَدْعُونَ مِن دُونِهِۦٓ إِلَّآ إِنَٰثًۭا وَإِن يَدْعُونَ إِلَّا شَيْطَٰنًۭا مَّرِيدًۭا
 
-**4:118** Allah onu lanetledi. O dedi ki: “Kullarından bana düşen payı elbette alacağım.”
+**4:118** Allah onu lanetledi. O dedi ki: "Kullarından bana düşen payı elbette alacağım."
 
 لَّعَنَهُ ٱللَّهُ ۘ وَقَالَ لَأَتَّخِذَنَّ مِنْ عِبَادِكَ نَصِيبًۭا مَّفْرُوضًۭا
 
-**4:119** “Onları saptıracağım, onları kuruntulara düşüreceğim, onlara sığırların kulaklarını yarmalarını emredeceğim ve onlara Allah'ın yaratışını değiştirmelerini emredeceğim.” Kim Allah yerine Şeytan'ı efendi edinirse, açık bir zarara uğramış olur.
+**4:119** "Onları saptıracağım, onları kuruntulara düşüreceğim, onlara sığırların kulaklarını yarmalarını emredeceğim ve onlara Allah'ın yaratışını değiştirmelerini emredeceğim." Kim Allah yerine Şeytan'ı efendi edinirse, açık bir zarara uğramış olur.
 
 وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَءَامُرَنَّهُمْ فَلَيُبَتِّكُنَّ ءَاذَانَ ٱلْأَنْعَٰمِ وَلَءَامُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ ٱللَّهِ ۚ وَمَن يَتَّخِذِ ٱلشَّيْطَٰنَ وَلِيًّۭا مِّن دُونِ ٱللَّهِ فَقَدْ خَسِرَ خُسْرَانًۭا مُّبِينًۭا
 
@@ -2654,7 +2654,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَلِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍۢ مُّحِيطًۭا
 
-**4:127** Senden kadınlar hakkında hüküm istiyorlar. De ki: “Allah size onlar hakkında hüküm verir. Yetim kadınlar hakkında, kendilerine yazılanı vermeyip onlarla evlenmek istediğiniz yetim kadınlar ve güçsüz çocuklar hakkında kitapta size bildirilen de hüküm verir: yetimlere adil davranmalısınız.” Yaptığınız her iyiliği Allah bilir.
+**4:127** Senden kadınlar hakkında hüküm istiyorlar. De ki: "Allah size onlar hakkında hüküm verir. Yetim kadınlar hakkında, kendilerine yazılanı vermeyip onlarla evlenmek istediğiniz yetim kadınlar ve güçsüz çocuklar hakkında kitapta size bildirilen de hüküm verir: yetimlere adil davranmalısınız." Yaptığınız her iyiliği Allah bilir.
 
 وَيَسْتَفْتُونَكَ فِى ٱلنِّسَآءِ ۖ قُلِ ٱللَّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ فِى ٱلْكِتَٰبِ فِى يَتَٰمَى ٱلنِّسَآءِ ٱلَّٰتِى لَا تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ أَن تَنكِحُوهُنَّ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلْوِلْدَٰنِ وَأَن تَقُومُوا۟ لِلْيَتَٰمَىٰ بِٱلْقِسْطِ ۚ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍۢ فَإِنَّ ٱللَّهَ كَانَ بِهِۦ عَلِيمًۭا
 
@@ -2710,7 +2710,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَقَدْ نَزَّلَ عَلَيْكُمْ فِى ٱلْكِتَٰبِ أَنْ إِذَا سَمِعْتُمْ ءَايَٰتِ ٱللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا۟ مَعَهُمْ حَتَّىٰ يَخُوضُوا۟ فِى حَدِيثٍ غَيْرِهِۦٓ ۚ إِنَّكُمْ إِذًۭا مِّثْلُهُمْ ۗ إِنَّ ٱللَّهَ جَامِعُ ٱلْمُنَٰفِقِينَ وَٱلْكَٰفِرِينَ فِى جَهَنَّمَ جَمِيعًا
 
-**4:141** Sizi gözetleyenler: Allah'tan size bir zafer gelirse “Sizinle birlikte değil miydik?” derler. İnkâr edenlere bir pay düşerse “Sizin yanınızda olmadık mı ve sizi müminlerden korumadık mı?” derler. Allah diriliş gününde aranızda hüküm verecektir. Allah inkâr edenlere müminlere karşı bir yol vermeyecektir.
+**4:141** Sizi gözetleyenler: Allah'tan size bir zafer gelirse "Sizinle birlikte değil miydik?" derler. İnkâr edenlere bir pay düşerse "Sizin yanınızda olmadık mı ve sizi müminlerden korumadık mı?" derler. Allah diriliş gününde aranızda hüküm verecektir. Allah inkâr edenlere müminlere karşı bir yol vermeyecektir.
 
 ٱلَّذِينَ يَتَرَبَّصُونَ بِكُمْ فَإِن كَانَ لَكُمْ فَتْحٌۭ مِّنَ ٱللَّهِ قَالُوٓا۟ أَلَمْ نَكُن مَّعَكُمْ وَإِن كَانَ لِلْكَٰفِرِينَ نَصِيبٌۭ قَالُوٓا۟ أَلَمْ نَسْتَحْوِذْ عَلَيْكُمْ وَنَمْنَعْكُم مِّنَ ٱلْمُؤْمِنِينَ ۚ فَٱللَّهُ يَحْكُمُ بَيْنَكُمْ يَوْمَ ٱلْقِيَٰمَةِ ۗ وَلَن يَجْعَلَ ٱللَّهُ لِلْكَٰفِرِينَ عَلَى ٱلْمُؤْمِنِينَ سَبِيلًا
 
@@ -2746,7 +2746,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 إِن تُبْدُوا۟ خَيْرًا أَوْ تُخْفُوهُ أَوْ تَعْفُوا۟ عَن سُوٓءٍۢ فَإِنَّ ٱللَّهَ كَانَ عَفُوًّۭا قَدِيرًا
 
-**4:150** Allah'ı ve elçilerini inkâr edenler, Allah ile elçileri arasını ayırmak isteyenler, “Bazısına inanırız, bazısını reddederiz” diyenler ve arada bir yol tutmak isteyenler —
+**4:150** Allah'ı ve elçilerini inkâr edenler, Allah ile elçileri arasını ayırmak isteyenler, "Bazısına inanırız, bazısını reddederiz" diyenler ve arada bir yol tutmak isteyenler —
 
 إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِٱللَّهِ وَرُسُلِهِۦ وَيُرِيدُونَ أَن يُفَرِّقُوا۟ بَيْنَ ٱللَّهِ وَرُسُلِهِۦ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍۢ وَنَكْفُرُ بِبَعْضٍۢ وَيُرِيدُونَ أَن يَتَّخِذُوا۟ بَيْنَ ذَٰلِكَ سَبِيلًا
 
@@ -2758,15 +2758,15 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَلَمْ يُفَرِّقُوا۟ بَيْنَ أَحَدٍۢ مِّنْهُمْ أُو۟لَٰٓئِكَ سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا
 
-**4:153** Kitap ehli senden kendilerine gökten bir kitap indirmeni istiyor. Mûsâ'dan daha büyüğünü istediler. “Allah'ı bize açıkça göster” dediler. Kötülükleri yüzünden onları yıldırım çarptı. Sonra açık kanıtlar kendilerine geldikten sonra buzağıya taptılar. Bunu affettik ve Mûsâ'ya açık bir yetki verdik.
+**4:153** Kitap ehli senden kendilerine gökten bir kitap indirmeni istiyor. Mûsâ'dan daha büyüğünü istediler. "Allah'ı bize açıkça göster" dediler. Kötülükleri yüzünden onları yıldırım çarptı. Sonra açık kanıtlar kendilerine geldikten sonra buzağıya taptılar. Bunu affettik ve Mûsâ'ya açık bir yetki verdik.
 
 يَسْـَٔلُكَ أَهْلُ ٱلْكِتَٰبِ أَن تُنَزِّلَ عَلَيْهِمْ كِتَٰبًۭا مِّنَ ٱلسَّمَآءِ ۚ فَقَدْ سَأَلُوا۟ مُوسَىٰٓ أَكْبَرَ مِن ذَٰلِكَ فَقَالُوٓا۟ أَرِنَا ٱللَّهَ جَهْرَةًۭ فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ بِظُلْمِهِمْ ۚ ثُمَّ ٱتَّخَذُوا۟ ٱلْعِجْلَ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ فَعَفَوْنَا عَن ذَٰلِكَ ۚ وَءَاتَيْنَا مُوسَىٰ سُلْطَٰنًۭا مُّبِينًۭا
 
-**4:154** Sözleri gereği dağı üzerlerine yükselttik. Onlara “Kapıdan alçak gönülle girin” dedik. Onlara “Cumartesi yasağını çiğnemeyin” dedik. Onlardan sağlam bir söz aldık.
+**4:154** Sözleri gereği dağı üzerlerine yükselttik. Onlara "Kapıdan alçak gönülle girin" dedik. Onlara "Cumartesi yasağını çiğnemeyin" dedik. Onlardan sağlam bir söz aldık.
 
 وَرَفَعْنَا فَوْقَهُمُ ٱلطُّورَ بِمِيثَٰقِهِمْ وَقُلْنَا لَهُمُ ٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًۭا وَقُلْنَا لَهُمْ لَا تَعْدُوا۟ فِى ٱلسَّبْتِ وَأَخَذْنَا مِنْهُم مِّيثَٰقًا غَلِيظًۭا
 
-**4:155** Sözlerini bozmaları, Allah'ın ayetlerini inkâr etmeleri, peygamberleri haksız yere öldürmeleri ve “Zihinlerimiz kapalıdır” demeleri yüzünden — aslında Allah inkârları yüzünden onları mühürledi. Pek azı dışında inanmazlar.
+**4:155** Sözlerini bozmaları, Allah'ın ayetlerini inkâr etmeleri, peygamberleri haksız yere öldürmeleri ve "Zihinlerimiz kapalıdır" demeleri yüzünden — aslında Allah inkârları yüzünden onları mühürledi. Pek azı dışında inanmazlar.
 
 فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ وَكُفْرِهِم بِـَٔايَٰتِ ٱللَّهِ وَقَتْلِهِمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّۢ وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌۢ ۚ بَلْ طَبَعَ ٱللَّهُ عَلَيْهَا بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًۭا
 
@@ -2774,7 +2774,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلَىٰ مَرْيَمَ بُهْتَٰنًا عَظِيمًۭا
 
-**4:157** “Allah'ın elçisi Meryem oğlu Îsâ Mesih'i öldürdük” demeleri yüzünden — aslında onu öldürmediler ve çarmıha germediler. Ama onlara öyle göründü. Onun hakkında ayrılığa düşenler bu konuda kuşku içindedir. Onların bu konuda varsayımlara uymaktan başka bilgileri yoktur. Kesinlikle onu öldürmediler.
+**4:157** "Allah'ın elçisi Meryem oğlu Îsâ Mesih'i öldürdük" demeleri yüzünden — aslında onu öldürmediler ve çarmıha germediler. Ama onlara öyle göründü. Onun hakkında ayrılığa düşenler bu konuda kuşku içindedir. Onların bu konuda varsayımlara uymaktan başka bilgileri yoktur. Kesinlikle onu öldürmediler.
 
 وَقَوْلِهِمْ إِنَّا قَتَلْنَا ٱلْمَسِيحَ عِيسَى ٱبْنَ مَرْيَمَ رَسُولَ ٱللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِن شُبِّهَ لَهُمْ ۚ وَإِنَّ ٱلَّذِينَ ٱخْتَلَفُوا۟ فِيهِ لَفِى شَكٍّۢ مِّنْهُ ۚ مَا لَهُم بِهِۦ مِنْ عِلْمٍ إِلَّا ٱتِّبَاعَ ٱلظَّنِّ ۚ وَمَا قَتَلُوهُ يَقِينًۢا
 
@@ -2830,7 +2830,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُمُ ٱلرَّسُولُ بِٱلْحَقِّ مِن رَّبِّكُمْ فَـَٔامِنُوا۟ خَيْرًۭا لَّكُمْ ۚ وَإِن تَكْفُرُوا۟ فَإِنَّ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًۭا
 
-**4:171** Ey kitap ehli! Dininizde aşırı gitmeyin ve Allah hakkında gerçekten başkasını söylemeyin. Meryem oğlu Îsâ Mesih, Allah'ın elçisi, O'nun Meryem'e ilettiği sözü ve O'ndan bir ruhtur. Allah'a ve elçilerine inanın. “Üç” demeyin. Vazgeçin — bu sizin için daha iyidir. Allah yalnızca tek bir ilahtır. O, çocuk sahibi olmaktan yücedir. Göklerde ne varsa ve yeryüzünde ne varsa O'nundur. Koruyucu olarak Allah yeter.
+**4:171** Ey kitap ehli! Dininizde aşırı gitmeyin ve Allah hakkında gerçekten başkasını söylemeyin. Meryem oğlu Îsâ Mesih, Allah'ın elçisi, O'nun Meryem'e ilettiği sözü ve O'ndan bir ruhtur. Allah'a ve elçilerine inanın. "Üç" demeyin. Vazgeçin — bu sizin için daha iyidir. Allah yalnızca tek bir ilahtır. O, çocuk sahibi olmaktan yücedir. Göklerde ne varsa ve yeryüzünde ne varsa O'nundur. Koruyucu olarak Allah yeter.
 
 يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ وَلَا تَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ ۚ إِنَّمَا ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ رَسُولُ ٱللَّهِ وَكَلِمَتُهُۥٓ أَلْقَىٰهَآ إِلَىٰ مَرْيَمَ وَرُوحٌۭ مِّنْهُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۖ وَلَا تَقُولُوا۟ ثَلَٰثَةٌ ۚ ٱنتَهُوا۟ خَيْرًۭا لَّكُمْ ۚ إِنَّمَا ٱللَّهُ إِلَٰهٌۭ وَٰحِدٌۭ ۖ سُبْحَٰنَهُۥٓ أَن يَكُونَ لَهُۥ وَلَدٌۭ ۘ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَكَفَىٰ بِٱللَّهِ وَكِيلًۭا
 
@@ -2850,7 +2850,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَٱعْتَصَمُوا۟ بِهِۦ فَسَيُدْخِلُهُمْ فِى رَحْمَةٍۢ مِّنْهُ وَفَضْلٍۢ وَيَهْدِيهِمْ إِلَيْهِ صِرَٰطًۭا مُّسْتَقِيمًۭا
 
-**4:176** Senden hüküm istiyorlar. De ki: “Allah size anne babası ve çocuğu olmayan kişi hakkında hüküm verir. Bir adam ölür, çocuğu olmaz ve bir kız kardeşi olursa, bıraktığının yarısı kız kardeşindir. Eğer kız kardeşin çocuğu yoksa, erkek kardeş ona mirasçı olur. Eğer iki kız kardeş varsa, bıraktığının üçte ikisi onlarındır. Eğer kardeşler erkek ve kadın ise, erkeğe iki dişinin payı kadar düşer.” Allah size açıklıyor ki sapmayasınız. Allah her şeyi bilir.
+**4:176** Senden hüküm istiyorlar. De ki: "Allah size anne babası ve çocuğu olmayan kişi hakkında hüküm verir. Bir adam ölür, çocuğu olmaz ve bir kız kardeşi olursa, bıraktığının yarısı kız kardeşindir. Eğer kız kardeşin çocuğu yoksa, erkek kardeş ona mirasçı olur. Eğer iki kız kardeş varsa, bıraktığının üçte ikisi onlarındır. Eğer kardeşler erkek ve kadın ise, erkeğe iki dişinin payı kadar düşer." Allah size açıklıyor ki sapmayasınız. Allah her şeyi bilir.
 
 يَسْتَفْتُونَكَ قُلِ ٱللَّهُ يُفْتِيكُمْ فِى ٱلْكَلَٰلَةِ ۚ إِنِ ٱمْرُؤٌا۟ هَلَكَ لَيْسَ لَهُۥ وَلَدٌۭ وَلَهُۥٓ أُخْتٌۭ فَلَهَا نِصْفُ مَا تَرَكَ ۚ وَهُوَ يَرِثُهَآ إِن لَّمْ يَكُن لَّهَا وَلَدٌۭ ۚ فَإِن كَانَتَا ٱثْنَتَيْنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَ ۚ وَإِن كَانُوٓا۟ إِخْوَةًۭ رِّجَالًۭا وَنِسَآءًۭ فَلِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ ۗ يُبَيِّنُ ٱللَّهُ لَكُمْ أَن تَضِلُّوا۟ ۗ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ
 
@@ -2878,7 +2878,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًۭا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍۢ لِّإِثْمٍۢ ۙ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ
 
-**5:4** Sana kendilerine neyin helal olduğunu soruyorlar. De ki: “Bütün iyi şeyler size helaldir. Eğittiğiniz köpeklerin ve şahinlerin sizin için yakaladıkları da helaldir.” Onları Allah'ın size öğrettiğine göre eğitirsiniz. Onların sizin için yakaladıklarından yiyin ve üzerine Allah'ın adını anın. Allah'tan korkun. Allah hesabı çabuk görendir.
+**5:4** Sana kendilerine neyin helal olduğunu soruyorlar. De ki: "Bütün iyi şeyler size helaldir. Eğittiğiniz köpeklerin ve şahinlerin sizin için yakaladıkları da helaldir." Onları Allah'ın size öğrettiğine göre eğitirsiniz. Onların sizin için yakaladıklarından yiyin ve üzerine Allah'ın adını anın. Allah'tan korkun. Allah hesabı çabuk görendir.
 
 يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ ۖ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ ۙ وَمَا عَلَّمْتُم مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ ۖ فَكُلُوا۟ مِمَّآ أَمْسَكْنَ عَلَيْكُمْ وَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهِ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
 
@@ -2894,7 +2894,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ ۚ وَإِن كُنتُمْ جُنُبًۭا فَٱطَّهَّرُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌۭ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءًۭ فَتَيَمَّمُوا۟ صَعِيدًۭا طَيِّبًۭا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ ۚ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍۢ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ
 
-**5:7** Allah'ın size nimetlerini ve sizinle yaptığı sözleşmeyi hatırlayın. “Duyduk ve uyduk” dediniz. Allah'a karşı sorumlu olun. Allah kalplerin içindekini bilir.
+**5:7** Allah'ın size nimetlerini ve sizinle yaptığı sözleşmeyi hatırlayın. "Duyduk ve uyduk" dediniz. Allah'a karşı sorumlu olun. Allah kalplerin içindekini bilir.
 
 وَٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ وَمِيثَٰقَهُ ٱلَّذِى وَاثَقَكُم بِهِۦٓ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
@@ -2914,7 +2914,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ هَمَّ قَوْمٌ أَن يَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ فَكَفَّ أَيْدِيَهُمْ عَنكُمْ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
 
-**5:12** Allah İsrail çocuklarından söz aldı. Aralarından on iki önder çıkardık. Allah dedi ki: “Ben sizinleyim. Eğer namazı kılar, sadakayı verir, elçilerime inanır ve onları destekler ve Allah'a güzel bir borç verirseniz, günahlarınızı bağışlarım ve sizi altından ırmaklar akan bahçelere sokarım. Ama sizden kim bundan sonra inkâr ederse doğru yoldan sapmış olur.”
+**5:12** Allah İsrail çocuklarından söz aldı. Aralarından on iki önder çıkardık. Allah dedi ki: "Ben sizinleyim. Eğer namazı kılar, sadakayı verir, elçilerime inanır ve onları destekler ve Allah'a güzel bir borç verirseniz, günahlarınızı bağışlarım ve sizi altından ırmaklar akan bahçelere sokarım. Ama sizden kim bundan sonra inkâr ederse doğru yoldan sapmış olur."
 
 ۞ وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ نَقِيبًۭا ۖ وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ ۖ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًۭا لَّأُكَفِّرَنَّ عَنكُمْ سَيِّـَٔاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۚ فَمَن كَفَرَ بَعْدَ ذَٰلِكَ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
 
@@ -2922,7 +2922,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةًۭ ۖ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ ۙ وَنَسُوا۟ حَظًّۭا مِّمَّا ذُكِّرُوا۟ بِهِۦ ۚ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍۢ مِّنْهُمْ إِلَّا قَلِيلًۭا مِّنْهُمْ ۖ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ
 
-**5:14** “Biz Hristiyanız” diyenlerden de sözlerini aldık. Ama hatırlatıldıklarının bir kısmını unuttular. Diriliş gününe kadar aralarına düşmanlık ve nefret saldık. Allah o zaman onlara neler yaptıklarını bildirecektir.
+**5:14** "Biz Hristiyanız" diyenlerden de sözlerini aldık. Ama hatırlatıldıklarının bir kısmını unuttular. Diriliş gününe kadar aralarına düşmanlık ve nefret saldık. Allah o zaman onlara neler yaptıklarını bildirecektir.
 
 وَمِنَ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰٓ أَخَذْنَا مِيثَٰقَهُمْ فَنَسُوا۟ حَظًّۭا مِّمَّا ذُكِّرُوا۟ بِهِۦ فَأَغْرَيْنَا بَيْنَهُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ۚ وَسَوْفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُوا۟ يَصْنَعُونَ
 
@@ -2934,55 +2934,55 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 يَهْدِى بِهِ ٱللَّهُ مَنِ ٱتَّبَعَ رِضْوَٰنَهُۥ سُبُلَ ٱلسَّلَٰمِ وَيُخْرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ بِإِذْنِهِۦ وَيَهْدِيهِمْ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
 
-**5:17** “Allah Meryem oğlu Mesih'tir” diyenler inkâr etti. De ki: “Allah Meryem oğlu Mesih'i, annesini ve yeryüzündeki herkesi yok etmek istese, O'na kim engel olabilir?” Göklerin, yerin ve ikisi arasındakilerin egemenliği Allah'ındır. O dilediğini yaratır. Allah'ın her şeye gücü yeter.
+**5:17** "Allah Meryem oğlu Mesih'tir" diyenler inkâr etti. De ki: "Allah Meryem oğlu Mesih'i, annesini ve yeryüzündeki herkesi yok etmek istese, O'na kim engel olabilir?" Göklerin, yerin ve ikisi arasındakilerin egemenliği Allah'ındır. O dilediğini yaratır. Allah'ın her şeye gücü yeter.
 
 لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ ۚ قُلْ فَمَن يَمْلِكُ مِنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ أَن يُهْلِكَ ٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَأُمَّهُۥ وَمَن فِى ٱلْأَرْضِ جَمِيعًۭا ۗ وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۚ يَخْلُقُ مَا يَشَآءُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**5:18** Yahudiler ve Hristiyanlar “Biz Allah'ın çocukları ve sevgilileriyiz” derler. De ki: “Öyleyse neden günahlarınız yüzünden sizi cezalandırıyor?” Aslında siz O'nun yarattıklarından insanlarsınız. O dilediğini bağışlar ve dilediğini cezalandırır. Göklerin, yerin ve ikisi arasındakilerin egemenliği Allah'ındır. Dönüş O'nadır.
+**5:18** Yahudiler ve Hristiyanlar "Biz Allah'ın çocukları ve sevgilileriyiz" derler. De ki: "Öyleyse neden günahlarınız yüzünden sizi cezalandırıyor?" Aslında siz O'nun yarattıklarından insanlarsınız. O dilediğini bağışlar ve dilediğini cezalandırır. Göklerin, yerin ve ikisi arasındakilerin egemenliği Allah'ındır. Dönüş O'nadır.
 
 وَقَالَتِ ٱلْيَهُودُ وَٱلنَّصَٰرَىٰ نَحْنُ أَبْنَٰٓؤُا۟ ٱللَّهِ وَأَحِبَّٰٓؤُهُۥ ۚ قُلْ فَلِمَ يُعَذِّبُكُم بِذُنُوبِكُم ۖ بَلْ أَنتُم بَشَرٌۭ مِّمَّنْ خَلَقَ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۖ وَإِلَيْهِ ٱلْمَصِيرُ
 
-**5:19** Ey kitap ehli! Elçimiz size geldi, elçilerin kesintisinden sonra size açıklıyor ki “Bize bir müjdeci gelmedi, bir uyarıcı da gelmedi” diyemeyesiniz. Size bir müjdeci ve bir uyarıcı geldi. Allah'ın her şeye gücü yeter.
+**5:19** Ey kitap ehli! Elçimiz size geldi, elçilerin kesintisinden sonra size açıklıyor ki "Bize bir müjdeci gelmedi, bir uyarıcı da gelmedi" diyemeyesiniz. Size bir müjdeci ve bir uyarıcı geldi. Allah'ın her şeye gücü yeter.
 
 يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍۢ مِّنَ ٱلرُّسُلِ أَن تَقُولُوا۟ مَا جَآءَنَا مِنۢ بَشِيرٍۢ وَلَا نَذِيرٍۢ ۖ فَقَدْ جَآءَكُم بَشِيرٌۭ وَنَذِيرٌۭ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**5:20** Mûsâ halkına dediğinde: “Ey halkım! Allah'ın size nimetlerini hatırlayın. Aranıza peygamberler yerleştirdi, sizi krallar yaptı ve size başka hiçbir halka vermediğini verdi.”
+**5:20** Mûsâ halkına dediğinde: "Ey halkım! Allah'ın size nimetlerini hatırlayın. Aranıza peygamberler yerleştirdi, sizi krallar yaptı ve size başka hiçbir halka vermediğini verdi."
 
 وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَعَلَ فِيكُمْ أَنۢبِيَآءَ وَجَعَلَكُم مُّلُوكًۭا وَءَاتَىٰكُم مَّا لَمْ يُؤْتِ أَحَدًۭا مِّنَ ٱلْعَٰلَمِينَ
 
-**5:21** “Ey halkım! Allah'ın size ayırdığı Kutsal Toprak'a girin. Geri dönmeyin, yoksa kaybedenler olarak dönersiniz.”
+**5:21** "Ey halkım! Allah'ın size ayırdığı Kutsal Toprak'a girin. Geri dönmeyin, yoksa kaybedenler olarak dönersiniz."
 
 يَٰقَوْمِ ٱدْخُلُوا۟ ٱلْأَرْضَ ٱلْمُقَدَّسَةَ ٱلَّتِى كَتَبَ ٱللَّهُ لَكُمْ وَلَا تَرْتَدُّوا۟ عَلَىٰٓ أَدْبَارِكُمْ فَتَنقَلِبُوا۟ خَٰسِرِينَ
 
-**5:22** Dediler ki: “Ey Mûsâ! Orada zorba bir halk var. Onlar çıkmadıkça oraya girmeyiz. Eğer çıkarlarsa biz gireriz.”
+**5:22** Dediler ki: "Ey Mûsâ! Orada zorba bir halk var. Onlar çıkmadıkça oraya girmeyiz. Eğer çıkarlarsa biz gireriz."
 
 قَالُوا۟ يَٰمُوسَىٰٓ إِنَّ فِيهَا قَوْمًۭا جَبَّارِينَ وَإِنَّا لَن نَّدْخُلَهَا حَتَّىٰ يَخْرُجُوا۟ مِنْهَا فَإِن يَخْرُجُوا۟ مِنْهَا فَإِنَّا دَٰخِلُونَ
 
-**5:23** Allah'ın nimet verdiği ve korkan iki adam dedi ki: “Onlara kapıdan gidin. Oraya girdiğinizde galip gelirsiniz. Eğer mümin iseniz Allah'a güvenin.”
+**5:23** Allah'ın nimet verdiği ve korkan iki adam dedi ki: "Onlara kapıdan gidin. Oraya girdiğinizde galip gelirsiniz. Eğer mümin iseniz Allah'a güvenin."
 
 قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنْعَمَ ٱللَّهُ عَلَيْهِمَا ٱدْخُلُوا۟ عَلَيْهِمُ ٱلْبَابَ فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ غَٰلِبُونَ ۚ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓا۟ إِن كُنتُم مُّؤْمِنِينَ
 
-**5:24** Dediler ki: “Ey Mûsâ! Onlar orada olduğu sürece oraya asla girmeyiz. Sen ve Rabbin gidip savaşın. Biz burada oturuyoruz.”
+**5:24** Dediler ki: "Ey Mûsâ! Onlar orada olduğu sürece oraya asla girmeyiz. Sen ve Rabbin gidip savaşın. Biz burada oturuyoruz."
 
 قَالُوا۟ يَٰمُوسَىٰٓ إِنَّا لَن نَّدْخُلَهَآ أَبَدًۭا مَّا دَامُوا۟ فِيهَا ۖ فَٱذْهَبْ أَنتَ وَرَبُّكَ فَقَٰتِلَآ إِنَّا هَٰهُنَا قَٰعِدُونَ
 
-**5:25** Dedi ki: “Rabbim! Ben yalnızca kendime ve kardeşime söz geçirebilirim. Bizimle kötü halk arasını ayır.”
+**5:25** Dedi ki: "Rabbim! Ben yalnızca kendime ve kardeşime söz geçirebilirim. Bizimle kötü halk arasını ayır."
 
 قَالَ رَبِّ إِنِّى لَآ أَمْلِكُ إِلَّا نَفْسِى وَأَخِى ۖ فَٱفْرُقْ بَيْنَنَا وَبَيْنَ ٱلْقَوْمِ ٱلْفَٰسِقِينَ
 
-**5:26** Dedi ki: “Orası onlara kırk yıl yasaklandı. Yeryüzünde şaşkın dolaşacaklar. Baş kaldıran halk için üzülme.”
+**5:26** Dedi ki: "Orası onlara kırk yıl yasaklandı. Yeryüzünde şaşkın dolaşacaklar. Baş kaldıran halk için üzülme."
 
 قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةًۭ ۛ يَتِيهُونَ فِى ٱلْأَرْضِ ۚ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْفَٰسِقِينَ
 
-**5:27** Onlara Adem'in iki oğlunun gerçek öyküsünü anlat: Bir sunu sunduklarında birinden kabul edildi, diğerinden kabul edilmedi. Dedi ki: “Seni öldüreceğim.” Dedi ki: “Allah yalnızca erdemlilerden kabul eder.”
+**5:27** Onlara Adem'in iki oğlunun gerçek öyküsünü anlat: Bir sunu sunduklarında birinden kabul edildi, diğerinden kabul edilmedi. Dedi ki: "Seni öldüreceğim." Dedi ki: "Allah yalnızca erdemlilerden kabul eder."
 
 ۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْءَاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ
 
-**5:28** “Beni öldürmek için elini uzatırsan, seni öldürmek için elimi uzatmam. Ben âlemlerin Rabbi Allah'tan korkarım.”
+**5:28** "Beni öldürmek için elini uzatırsan, seni öldürmek için elimi uzatmam. Ben âlemlerin Rabbi Allah'tan korkarım."
 
 لَئِنۢ بَسَطتَ إِلَىَّ يَدَكَ لِتَقْتُلَنِى مَآ أَنَا۠ بِبَاسِطٍۢ يَدِىَ إِلَيْكَ لِأَقْتُلَكَ ۖ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ
 
-**5:29** “Benim günahımı ve kendi günahını yüklenmeni ve ateş halkından olmanı isterim. Kötülük yapanların ödülü budur.”
+**5:29** "Benim günahımı ve kendi günahını yüklenmeni ve ateş halkından olmanı isterim. Kötülük yapanların ödülü budur."
 
 إِنِّىٓ أُرِيدُ أَن تَبُوٓأَ بِإِثْمِى وَإِثْمِكَ فَتَكُونَ مِنْ أَصْحَٰبِ ٱلنَّارِ ۚ وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّٰلِمِينَ
 
@@ -2990,7 +2990,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَٰسِرِينَ
 
-**5:31** Allah, kardeşinin cesedini nasıl örteceğini göstermek için yeri kazan bir karga gönderdi. Dedi ki: “Yazık bana! Bu karga gibi olup kardeşimin cesedini gömemedim.” Pişmanlık duyanlardan oldu.
+**5:31** Allah, kardeşinin cesedini nasıl örteceğini göstermek için yeri kazan bir karga gönderdi. Dedi ki: "Yazık bana! Bu karga gibi olup kardeşimin cesedini gömemedim." Pişmanlık duyanlardan oldu.
 
 فَبَعَثَ ٱللَّهُ غُرَابًۭا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ ۚ قَالَ يَٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى ۖ فَأَصْبَحَ مِنَ ٱلنَّٰدِمِينَ
 
@@ -3030,7 +3030,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يُعَذِّبُ مَن يَشَآءُ وَيَغْفِرُ لِمَن يَشَآءُ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**5:41** Ey elçi! İnkâra koşanlar seni üzmesin — ağızlarıyla “İnandık” deyip kalpleri inanmayanlardan ve Yahudilerden — yalanları dinleyenler, sana gelmeyen başka insanları dinleyenler. Sözleri yerlerinden saptırırlar. “Size bu verilirse kabul edin, verilmezse sakının” derler. Allah kimi saptırmak isterse, sen onun için Allah'tan hiçbir şey yapamazsın. Onlar Allah'ın kalplerini arındırmak istemediği kimselerdir. Onlar için bu dünyada utanç, ahirette büyük bir azap vardır.
+**5:41** Ey elçi! İnkâra koşanlar seni üzmesin — ağızlarıyla "İnandık" deyip kalpleri inanmayanlardan ve Yahudilerden — yalanları dinleyenler, sana gelmeyen başka insanları dinleyenler. Sözleri yerlerinden saptırırlar. "Size bu verilirse kabul edin, verilmezse sakının" derler. Allah kimi saptırmak isterse, sen onun için Allah'tan hiçbir şey yapamazsın. Onlar Allah'ın kalplerini arındırmak istemediği kimselerdir. Onlar için bu dünyada utanç, ahirette büyük bir azap vardır.
 
 ۞ يَٰٓأَيُّهَا ٱلرَّسُولُ لَا يَحْزُنكَ ٱلَّذِينَ يُسَٰرِعُونَ فِى ٱلْكُفْرِ مِنَ ٱلَّذِينَ قَالُوٓا۟ ءَامَنَّا بِأَفْوَٰهِهِمْ وَلَمْ تُؤْمِن قُلُوبُهُمْ ۛ وَمِنَ ٱلَّذِينَ هَادُوا۟ ۛ سَمَّٰعُونَ لِلْكَذِبِ سَمَّٰعُونَ لِقَوْمٍ ءَاخَرِينَ لَمْ يَأْتُوكَ ۖ يُحَرِّفُونَ ٱلْكَلِمَ مِنۢ بَعْدِ مَوَاضِعِهِۦ ۖ يَقُولُونَ إِنْ أُوتِيتُمْ هَٰذَا فَخُذُوهُ وَإِن لَّمْ تُؤْتَوْهُ فَٱحْذَرُوا۟ ۚ وَمَن يُرِدِ ٱللَّهُ فِتْنَتَهُۥ فَلَن تَمْلِكَ لَهُۥ مِنَ ٱللَّهِ شَيْـًٔا ۚ أُو۟لَٰٓئِكَ ٱلَّذِينَ لَمْ يُرِدِ ٱللَّهُ أَن يُطَهِّرَ قُلُوبَهُمْ ۚ لَهُمْ فِى ٱلدُّنْيَا خِزْىٌۭ ۖ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌۭ
 
@@ -3074,11 +3074,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ ٱلْيَهُودَ وَٱلنَّصَٰرَىٰٓ أَوْلِيَآءَ ۘ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍۢ ۚ وَمَن يَتَوَلَّهُم مِّنكُمْ فَإِنَّهُۥ مِنْهُمْ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**5:52** Kalplerinde hastalık olanların onlara koştuğunu görürsün. “Kader çarkının bize karşı dönmesinden korkuyoruz” derler. Ama Allah belki bir zafer veya Kendisinden bir iş getirir. O zaman içlerinde sakladıklarına pişman olurlar.
+**5:52** Kalplerinde hastalık olanların onlara koştuğunu görürsün. "Kader çarkının bize karşı dönmesinden korkuyoruz" derler. Ama Allah belki bir zafer veya Kendisinden bir iş getirir. O zaman içlerinde sakladıklarına pişman olurlar.
 
 فَتَرَى ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ يُسَٰرِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰٓ أَن تُصِيبَنَا دَآئِرَةٌۭ ۚ فَعَسَى ٱللَّهُ أَن يَأْتِىَ بِٱلْفَتْحِ أَوْ أَمْرٍۢ مِّنْ عِندِهِۦ فَيُصْبِحُوا۟ عَلَىٰ مَآ أَسَرُّوا۟ فِىٓ أَنفُسِهِمْ نَٰدِمِينَ
 
-**5:53** İman edenler diyecek ki: “Bunlar sizinle birlikte olduklarına Allah üzerine en güçlü yeminleriyle yemin edenler mi?” İşleri boşa gitti, kaybedenler oldular.
+**5:53** İman edenler diyecek ki: "Bunlar sizinle birlikte olduklarına Allah üzerine en güçlü yeminleriyle yemin edenler mi?" İşleri boşa gitti, kaybedenler oldular.
 
 وَيَقُولُ ٱلَّذِينَ ءَامَنُوٓا۟ أَهَٰٓؤُلَآءِ ٱلَّذِينَ أَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ ۙ إِنَّهُمْ لَمَعَكُمْ ۚ حَبِطَتْ أَعْمَٰلُهُمْ فَأَصْبَحُوا۟ خَٰسِرِينَ
 
@@ -3102,15 +3102,15 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَإِذَا نَادَيْتُمْ إِلَى ٱلصَّلَوٰةِ ٱتَّخَذُوهَا هُزُوًۭا وَلَعِبًۭا ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌۭ لَّا يَعْقِلُونَ
 
-**5:59** De ki: “Ey kitap ehli! Bizi yalnızca Allah'a, bize indirilene ve daha önce indirilene inandığımız için mi kınıyorsunuz? Çoğunuz günahkârsınız.”
+**5:59** De ki: "Ey kitap ehli! Bizi yalnızca Allah'a, bize indirilene ve daha önce indirilene inandığımız için mi kınıyorsunuz? Çoğunuz günahkârsınız."
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ هَلْ تَنقِمُونَ مِنَّآ إِلَّآ أَنْ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْنَا وَمَآ أُنزِلَ مِن قَبْلُ وَأَنَّ أَكْثَرَكُمْ فَٰسِقُونَ
 
-**5:60** De ki: “Allah'tan karşılık bakımından bundan daha kötüsünü size bildireyim mi? Allah'ın lanetlediği ve kendisine kızdığı kimse; onlardan bazılarını maymunlara, domuzlara ve putlara tapanlara çevirdi. Bunlar daha kötü bir konumdadır ve doğru yoldan daha uzaktır.”
+**5:60** De ki: "Allah'tan karşılık bakımından bundan daha kötüsünü size bildireyim mi? Allah'ın lanetlediği ve kendisine kızdığı kimse; onlardan bazılarını maymunlara, domuzlara ve putlara tapanlara çevirdi. Bunlar daha kötü bir konumdadır ve doğru yoldan daha uzaktır."
 
 قُلْ هَلْ أُنَبِّئُكُم بِشَرٍّۢ مِّن ذَٰلِكَ مَثُوبَةً عِندَ ٱللَّهِ ۚ مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ ٱلْقِرَدَةَ وَٱلْخَنَازِيرَ وَعَبَدَ ٱلطَّٰغُوتَ ۚ أُو۟لَٰٓئِكَ شَرٌّۭ مَّكَانًۭا وَأَضَلُّ عَن سَوَآءِ ٱلسَّبِيلِ
 
-**5:61** Size geldiklerinde “İnandık” derler. Oysa inkârla girdiler ve inkârla çıktılar. Allah sakladıklarını çok iyi bilir.
+**5:61** Size geldiklerinde "İnandık" derler. Oysa inkârla girdiler ve inkârla çıktılar. Allah sakladıklarını çok iyi bilir.
 
 وَإِذَا جَآءُوكُمْ قَالُوٓا۟ ءَامَنَّا وَقَد دَّخَلُوا۟ بِٱلْكُفْرِ وَهُمْ قَدْ خَرَجُوا۟ بِهِۦ ۚ وَٱللَّهُ أَعْلَمُ بِمَا كَانُوا۟ يَكْتُمُونَ
 
@@ -3122,7 +3122,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 لَوْلَا يَنْهَىٰهُمُ ٱلرَّبَّٰنِيُّونَ وَٱلْأَحْبَارُ عَن قَوْلِهِمُ ٱلْإِثْمَ وَأَكْلِهِمُ ٱلسُّحْتَ ۚ لَبِئْسَ مَا كَانُوا۟ يَصْنَعُونَ
 
-**5:64** Yahudiler “Allah'ın eli bağlıdır” der. Bağlı olan onların elleridir. Söyledikleri yüzünden lanetlendiler. Aksine O'nun elleri açıktır; dilediği gibi verir. Rabbinden sana indirilen, çoğunun başkaldırısını ve inkârını elbette artıracaktır. Diriliş gününe kadar aralarına düşmanlık ve nefret koyduk. Savaş ateşini her tutuşturduklarında Allah onu söndürür. Yeryüzünde bozgunculuk yaymaya çalışırlar. Allah bozguncuları sevmez.
+**5:64** Yahudiler "Allah'ın eli bağlıdır" der. Bağlı olan onların elleridir. Söyledikleri yüzünden lanetlendiler. Aksine O'nun elleri açıktır; dilediği gibi verir. Rabbinden sana indirilen, çoğunun başkaldırısını ve inkârını elbette artıracaktır. Diriliş gününe kadar aralarına düşmanlık ve nefret koyduk. Savaş ateşini her tutuşturduklarında Allah onu söndürür. Yeryüzünde bozgunculuk yaymaya çalışırlar. Allah bozguncuları sevmez.
 
 وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ ۚ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟ ۘ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ ۚ وَلَيَزِيدَنَّ كَثِيرًۭا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَٰنًۭا وَكُفْرًۭا ۚ وَأَلْقَيْنَا بَيْنَهُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ۚ كُلَّمَآ أَوْقَدُوا۟ نَارًۭا لِّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ ۚ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًۭا ۚ وَٱللَّهُ لَا يُحِبُّ ٱلْمُفْسِدِينَ
 
@@ -3138,7 +3138,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ۞ يَٰٓأَيُّهَا ٱلرَّسُولُ بَلِّغْ مَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ۖ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُۥ ۚ وَٱللَّهُ يَعْصِمُكَ مِنَ ٱلنَّاسِ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ
 
-**5:68** De ki: “Ey kitap ehli! Tevrat'ı, İncil'i ve Rabbinizden size indirileni uygulamadıkça bir dayanağınız yoktur.” Rabbinden sana indirilen, birçoğunun başkaldırısını ve inkârını elbette artıracaktır. İnkâr eden halk için üzülme.
+**5:68** De ki: "Ey kitap ehli! Tevrat'ı, İncil'i ve Rabbinizden size indirileni uygulamadıkça bir dayanağınız yoktur." Rabbinden sana indirilen, birçoğunun başkaldırısını ve inkârını elbette artıracaktır. İnkâr eden halk için üzülme.
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لَسْتُمْ عَلَىٰ شَىْءٍ حَتَّىٰ تُقِيمُوا۟ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَمَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُمْ ۗ وَلَيَزِيدَنَّ كَثِيرًۭا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَٰنًۭا وَكُفْرًۭا ۖ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
 
@@ -3154,11 +3154,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَحَسِبُوٓا۟ أَلَّا تَكُونَ فِتْنَةٌۭ فَعَمُوا۟ وَصَمُّوا۟ ثُمَّ تَابَ ٱللَّهُ عَلَيْهِمْ ثُمَّ عَمُوا۟ وَصَمُّوا۟ كَثِيرٌۭ مِّنْهُمْ ۚ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ
 
-**5:72** “Allah Meryem oğlu Mesih'tir” diyenler inkâr etti. Oysa Mesih dedi ki: “Ey İsrail çocukları! Benim Rabbim ve sizin Rabbiniz olan Allah'a kulluk edin. Kim Allah'a başkalarını ortak koşarsa, Allah ona cenneti yasakladı. Onun yeri ateştir. Haksızlık yapanların kurtarıcıları yoktur.”
+**5:72** "Allah Meryem oğlu Mesih'tir" diyenler inkâr etti. Oysa Mesih dedi ki: "Ey İsrail çocukları! Benim Rabbim ve sizin Rabbiniz olan Allah'a kulluk edin. Kim Allah'a başkalarını ortak koşarsa, Allah ona cenneti yasakladı. Onun yeri ateştir. Haksızlık yapanların kurtarıcıları yoktur."
 
 لَقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ ۖ وَقَالَ ٱلْمَسِيحُ يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱعْبُدُوا۟ ٱللَّهَ رَبِّى وَرَبَّكُمْ ۖ إِنَّهُۥ مَن يُشْرِكْ بِٱللَّهِ فَقَدْ حَرَّمَ ٱللَّهُ عَلَيْهِ ٱلْجَنَّةَ وَمَأْوَىٰهُ ٱلنَّارُ ۖ وَمَا لِلظَّٰلِمِينَ مِنْ أَنصَارٍۢ
 
-**5:73** “Allah üçün üçüncüsüdür” diyenler inkâr etti. Tek bir ilahtan başka ilah yoktur. Söylediklerinden vazgeçmezlerse, onlardan inkâr edenlere acı bir azap dokunacaktır.
+**5:73** "Allah üçün üçüncüsüdür" diyenler inkâr etti. Tek bir ilahtan başka ilah yoktur. Söylediklerinden vazgeçmezlerse, onlardan inkâr edenlere acı bir azap dokunacaktır.
 
 لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ ثَالِثُ ثَلَٰثَةٍۢ ۘ وَمَا مِنْ إِلَٰهٍ إِلَّآ إِلَٰهٌۭ وَٰحِدٌۭ ۚ وَإِن لَّمْ يَنتَهُوا۟ عَمَّا يَقُولُونَ لَيَمَسَّنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابٌ أَلِيمٌ
 
@@ -3170,11 +3170,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌۭ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌۭ ۖ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ۗ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْءَايَٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ
 
-**5:76** De ki: “Allah dışında size ne zarar ne yarar verebilecek olana mı kulluk edersiniz?” Allah işitendir, bilendir.
+**5:76** De ki: "Allah dışında size ne zarar ne yarar verebilecek olana mı kulluk edersiniz?" Allah işitendir, bilendir.
 
 قُلْ أَتَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَمْلِكُ لَكُمْ ضَرًّۭا وَلَا نَفْعًۭا ۚ وَٱللَّهُ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
-**5:77** De ki: “Ey kitap ehli! Dininizde gerçeğin ötesinde aşırı gitmeyin. Daha önce sapan, birçoğunu saptıran ve dengeli yoldan kendileri de sapan insanların görüşlerine uymayın.”
+**5:77** De ki: "Ey kitap ehli! Dininizde gerçeğin ötesinde aşırı gitmeyin. Daha önce sapan, birçoğunu saptıran ve dengeli yoldan kendileri de sapan insanların görüşlerine uymayın."
 
 قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ غَيْرَ ٱلْحَقِّ وَلَا تَتَّبِعُوٓا۟ أَهْوَآءَ قَوْمٍۢ قَدْ ضَلُّوا۟ مِن قَبْلُ وَأَضَلُّوا۟ كَثِيرًۭا وَضَلُّوا۟ عَن سَوَآءِ ٱلسَّبِيلِ
 
@@ -3194,15 +3194,15 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَلَوْ كَانُوا۟ يُؤْمِنُونَ بِٱللَّهِ وَٱلنَّبِىِّ وَمَآ أُنزِلَ إِلَيْهِ مَا ٱتَّخَذُوهُمْ أَوْلِيَآءَ وَلَٰكِنَّ كَثِيرًۭا مِّنْهُمْ فَٰسِقُونَ
 
-**5:82** Müminlere en düşman insanların Yahudiler ve çok tanrılılar olduğunu göreceksin. Müminlere sevgide en yakın olanların “Biz Hristiyanız” diyenler olduğunu göreceksin. Çünkü aralarında rahipler ve keşişler var ve onlar kibirli değiller.
+**5:82** Müminlere en düşman insanların Yahudiler ve çok tanrılılar olduğunu göreceksin. Müminlere sevgide en yakın olanların "Biz Hristiyanız" diyenler olduğunu göreceksin. Çünkü aralarında rahipler ve keşişler var ve onlar kibirli değiller.
 
 ۞ لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَٰوَةًۭ لِّلَّذِينَ ءَامَنُوا۟ ٱلْيَهُودَ وَٱلَّذِينَ أَشْرَكُوا۟ ۖ وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةًۭ لِّلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰ ۚ ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًۭا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ
 
-**5:83** Elçiye indirileni duyduklarında, içinde gerçeği tanıdıkları için gözlerinin yaşlarla dolduğunu görürsün. Derler ki: “Rabbimiz! İnandık. Bizi şahitler arasında yaz.”
+**5:83** Elçiye indirileni duyduklarında, içinde gerçeği tanıdıkları için gözlerinin yaşlarla dolduğunu görürsün. Derler ki: "Rabbimiz! İnandık. Bizi şahitler arasında yaz."
 
 وَإِذَا سَمِعُوا۟ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعْيُنَهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ مِمَّا عَرَفُوا۟ مِنَ ٱلْحَقِّ ۖ يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكْتُبْنَا مَعَ ٱلشَّٰهِدِينَ
 
-**5:84** “Neden Allah'a ve bize gelen gerçeğe inanmayalım? Rabbimizin bizi erdemli insanlar arasına katmasını umuyoruz.”
+**5:84** "Neden Allah'a ve bize gelen gerçeğe inanmayalım? Rabbimizin bizi erdemli insanlar arasına katmasını umuyoruz."
 
 وَمَا لَنَا لَا نُؤْمِنُ بِٱللَّهِ وَمَا جَآءَنَا مِنَ ٱلْحَقِّ وَنَطْمَعُ أَن يُدْخِلَنَا رَبُّنَا مَعَ ٱلْقَوْمِ ٱلصَّٰلِحِينَ
 
@@ -3266,7 +3266,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 مَّا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَٰغُ ۗ وَٱللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ
 
-**5:100** De ki: “Kötü şeylerin çokluğu seni etkilese bile kötü ile iyi eşit değildir. Ey akıl sahipleri! Allah'a karşı sorumlu olun ki başarılı olasınız.”
+**5:100** De ki: "Kötü şeylerin çokluğu seni etkilese bile kötü ile iyi eşit değildir. Ey akıl sahipleri! Allah'a karşı sorumlu olun ki başarılı olasınız."
 
 قُل لَّا يَسْتَوِى ٱلْخَبِيثُ وَٱلطَّيِّبُ وَلَوْ أَعْجَبَكَ كَثْرَةُ ٱلْخَبِيثِ ۚ فَٱتَّقُوا۟ ٱللَّهَ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ لَعَلَّكُمْ تُفْلِحُونَ
 
@@ -3282,7 +3282,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 مَا جَعَلَ ٱللَّهُ مِنۢ بَحِيرَةٍۢ وَلَا سَآئِبَةٍۢ وَلَا وَصِيلَةٍۢ وَلَا حَامٍۢ ۙ وَلَٰكِنَّ ٱلَّذِينَ كَفَرُوا۟ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ ۖ وَأَكْثَرُهُمْ لَا يَعْقِلُونَ
 
-**5:104** Onlara “Allah'ın indirdiğine ve elçiye gelin” denildiğinde “Atalarımızı üzerinde bulduğumuz şey bize yeter” derler. Ataları hiçbir şey bilmese ve doğru yolda olmasalar bile mi?
+**5:104** Onlara "Allah'ın indirdiğine ve elçiye gelin" denildiğinde "Atalarımızı üzerinde bulduğumuz şey bize yeter" derler. Ataları hiçbir şey bilmese ve doğru yolda olmasalar bile mi?
 
 وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ قَالُوا۟ حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْلَمُونَ شَيْـًۭٔا وَلَا يَهْتَدُونَ
 
@@ -3290,11 +3290,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ عَلَيْكُمْ أَنفُسَكُمْ ۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهْتَدَيْتُمْ ۚ إِلَى ٱللَّهِ مَرْجِعُكُمْ جَمِيعًۭا فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 
-**5:106** Ey iman edenler! Birinize ölüm yaklaştığında, vasiyet yapılırken aranızdan iki güvenilir kişi şahitlik etsin. Ya da yeryüzünde yolculuk ederken ölüm olayı size yaklaşırsa başka bir halktan iki kişi olsun. Namazdan sonra onları tutun. Kuşkunuz varsa Allah'a şöyle yemin etsinler: “Yakın bir akraba bile olsa şahitliğimizi hiçbir bedele satmayız. Allah'ın şahitliğini gizlemeyiz. Yoksa günahkâr oluruz.”
+**5:106** Ey iman edenler! Birinize ölüm yaklaştığında, vasiyet yapılırken aranızdan iki güvenilir kişi şahitlik etsin. Ya da yeryüzünde yolculuk ederken ölüm olayı size yaklaşırsa başka bir halktan iki kişi olsun. Namazdan sonra onları tutun. Kuşkunuz varsa Allah'a şöyle yemin etsinler: "Yakın bir akraba bile olsa şahitliğimizi hiçbir bedele satmayız. Allah'ın şahitliğini gizlemeyiz. Yoksa günahkâr oluruz."
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍۢ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ ۚ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ بِٱللَّهِ إِنِ ٱرْتَبْتُمْ لَا نَشْتَرِى بِهِۦ ثَمَنًۭا وَلَوْ كَانَ ذَا قُرْبَىٰ ۙ وَلَا نَكْتُمُ شَهَٰدَةَ ٱللَّهِ إِنَّآ إِذًۭا لَّمِنَ ٱلْءَاثِمِينَ
 
-**5:107** Onların yalancı şahitlikten suçlu olduğu ortaya çıkarsa, yerlerine iki kişi geçsin — iddiadan sorumlu olanlardan iki kişi — ve Allah'a şöyle yemin etsinler: “Şahitliğimiz onların şahitliğinden daha doğrudur. Eğri davranmayız. Yoksa haksızlık yapanlardan oluruz.”
+**5:107** Onların yalancı şahitlikten suçlu olduğu ortaya çıkarsa, yerlerine iki kişi geçsin — iddiadan sorumlu olanlardan iki kişi — ve Allah'a şöyle yemin etsinler: "Şahitliğimiz onların şahitliğinden daha doğrudur. Eğri davranmayız. Yoksa haksızlık yapanlardan oluruz."
 
 فَإِنْ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسْتَحَقَّآ إِثْمًۭا فَـَٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ ٱلَّذِينَ ٱسْتَحَقَّ عَلَيْهِمُ ٱلْأَوْلَيَٰنِ فَيُقْسِمَانِ بِٱللَّهِ لَشَهَٰدَتُنَآ أَحَقُّ مِن شَهَٰدَتِهِمَا وَمَا ٱعْتَدَيْنَآ إِنَّآ إِذًۭا لَّمِنَ ٱلظَّٰلِمِينَ
 
@@ -3302,35 +3302,35 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ذَٰلِكَ أَدْنَىٰٓ أَن يَأْتُوا۟ بِٱلشَّهَٰدَةِ عَلَىٰ وَجْهِهَآ أَوْ يَخَافُوٓا۟ أَن تُرَدَّ أَيْمَٰنٌۢ بَعْدَ أَيْمَٰنِهِمْ ۗ وَٱتَّقُوا۟ ٱللَّهَ وَٱسْمَعُوا۟ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 
-**5:109** Allah elçileri toplayacağı gün “Size ne yanıt verildi?” diyecek. Diyecekler ki: “Bilgimiz yok. Görünmeyeni bilen Sensin.”
+**5:109** Allah elçileri toplayacağı gün "Size ne yanıt verildi?" diyecek. Diyecekler ki: "Bilgimiz yok. Görünmeyeni bilen Sensin."
 
 ۞ يَوْمَ يَجْمَعُ ٱللَّهُ ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبْتُمْ ۖ قَالُوا۟ لَا عِلْمَ لَنَآ ۖ إِنَّكَ أَنتَ عَلَّٰمُ ٱلْغُيُوبِ
 
-**5:110** Allah diyeceği zaman: “Ey Meryem oğlu Îsâ! Sana ve annene nimetimi hatırla. Seni Kutsal Ruh ile nasıl destekledim. Beşikte ve yetişkinlikte insanlarla konuştun. Sana yazıyı, hikmeti, Tevrat'ı ve İncil'i nasıl öğrettim. Hatırla, Benim iznimle çamurdan bir kuş şekli yaptın, sonra içine üfledin ve Benim iznimle kuş oldu. Körü ve cüzzamlıyı Benim iznimle iyileştirdin. Ölüleri Benim iznimle dirilttin. Sana açık mucizeler getirdiğinde İsrail çocuklarını senden nasıl alıkoyduğumu hatırla. Ama onlardan inkâr edenler dedi ki: ‘Bu açık büyüden başka bir şey değildir.’”
+**5:110** Allah diyeceği zaman: "Ey Meryem oğlu Îsâ! Sana ve annene nimetimi hatırla. Seni Kutsal Ruh ile nasıl destekledim. Beşikte ve yetişkinlikte insanlarla konuştun. Sana yazıyı, hikmeti, Tevrat'ı ve İncil'i nasıl öğrettim. Hatırla, Benim iznimle çamurdan bir kuş şekli yaptın, sonra içine üfledin ve Benim iznimle kuş oldu. Körü ve cüzzamlıyı Benim iznimle iyileştirdin. Ölüleri Benim iznimle dirilttin. Sana açık mucizeler getirdiğinde İsrail çocuklarını senden nasıl alıkoyduğumu hatırla. Ama onlardan inkâr edenler dedi ki: 'Bu açık büyüden başka bir şey değildir.'"
 
 إِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ٱذْكُرْ نِعْمَتِى عَلَيْكَ وَعَلَىٰ وَٰلِدَتِكَ إِذْ أَيَّدتُّكَ بِرُوحِ ٱلْقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًۭا ۖ وَإِذْ عَلَّمْتُكَ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ ۖ وَإِذْ تَخْلُقُ مِنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ بِإِذْنِى فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًۢا بِإِذْنِى ۖ وَتُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ بِإِذْنِى ۖ وَإِذْ تُخْرِجُ ٱلْمَوْتَىٰ بِإِذْنِى ۖ وَإِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ إِذْ جِئْتَهُم بِٱلْبَيِّنَٰتِ فَقَالَ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌۭ
 
-**5:111** “Havarileri esinlediğimde: ‘Bana ve elçime inanın.’ Dediler ki: ‘İnandık. Şahit ol ki teslim olduk.’”
+**5:111** "Havarileri esinlediğimde: 'Bana ve elçime inanın.' Dediler ki: 'İnandık. Şahit ol ki teslim olduk.'"
 
 وَإِذْ أَوْحَيْتُ إِلَى ٱلْحَوَارِيِّۦنَ أَنْ ءَامِنُوا۟ بِى وَبِرَسُولِى قَالُوٓا۟ ءَامَنَّا وَٱشْهَدْ بِأَنَّنَا مُسْلِمُونَ
 
-**5:112** “Havariler dediğinde: ‘Ey Meryem oğlu Îsâ! Rabbin bize gökten bir sofra indirebilir mi?’ Dedi ki: ‘Eğer mümin iseniz Allah'tan korkun.’”
+**5:112** "Havariler dediğinde: 'Ey Meryem oğlu Îsâ! Rabbin bize gökten bir sofra indirebilir mi?' Dedi ki: 'Eğer mümin iseniz Allah'tan korkun.'"
 
 إِذْ قَالَ ٱلْحَوَارِيُّونَ يَٰعِيسَى ٱبْنَ مَرْيَمَ هَلْ يَسْتَطِيعُ رَبُّكَ أَن يُنَزِّلَ عَلَيْنَا مَآئِدَةًۭ مِّنَ ٱلسَّمَآءِ ۖ قَالَ ٱتَّقُوا۟ ٱللَّهَ إِن كُنتُم مُّؤْمِنِينَ
 
-**5:113** Dediler ki: “Ondan yemek istiyoruz ki kalplerimiz rahatlasın, bize doğru söylediğini bilelim ve ona şahit olanlardan olalım.”
+**5:113** Dediler ki: "Ondan yemek istiyoruz ki kalplerimiz rahatlasın, bize doğru söylediğini bilelim ve ona şahit olanlardan olalım."
 
 قَالُوا۟ نُرِيدُ أَن نَّأْكُلَ مِنْهَا وَتَطْمَئِنَّ قُلُوبُنَا وَنَعْلَمَ أَن قَدْ صَدَقْتَنَا وَنَكُونَ عَلَيْهَا مِنَ ٱلشَّٰهِدِينَ
 
-**5:114** Meryem oğlu Îsâ dedi ki: “Ey Allah, Rabbimiz! Bize gökten bir sofra indir. Bizim için, ilk için ve son için bir bayram ve Senden bir işaret olsun. Bize rızık ver. Sen rızık verenlerin en iyisisin.”
+**5:114** Meryem oğlu Îsâ dedi ki: "Ey Allah, Rabbimiz! Bize gökten bir sofra indir. Bizim için, ilk için ve son için bir bayram ve Senden bir işaret olsun. Bize rızık ver. Sen rızık verenlerin en iyisisin."
 
 قَالَ عِيسَى ٱبْنُ مَرْيَمَ ٱللَّهُمَّ رَبَّنَآ أَنزِلْ عَلَيْنَا مَآئِدَةًۭ مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيدًۭا لِّأَوَّلِنَا وَءَاخِرِنَا وَءَايَةًۭ مِّنكَ ۖ وَٱرْزُقْنَا وَأَنتَ خَيْرُ ٱلرَّٰزِقِينَ
 
-**5:115** Allah dedi ki: “Onu size indireceğim. Ama sizden kim bundan sonra inkâr ederse, ona hiçbir varlığa cezalandırmadığım gibi bir ceza vereceğim.”
+**5:115** Allah dedi ki: "Onu size indireceğim. Ama sizden kim bundan sonra inkâr ederse, ona hiçbir varlığa cezalandırmadığım gibi bir ceza vereceğim."
 
 قَالَ ٱللَّهُ إِنِّى مُنَزِّلُهَا عَلَيْكُمْ ۖ فَمَن يَكْفُرْ بَعْدُ مِنكُمْ فَإِنِّىٓ أُعَذِّبُهُۥ عَذَابًۭا لَّآ أُعَذِّبُهُۥٓ أَحَدًۭا مِّنَ ٱلْعَٰلَمِينَ
 
-**5:116** Allah diyecek ki: “Ey Meryem oğlu Îsâ! İnsanlara ‘Beni ve annemi Allah dışında iki ilah edinin’ dedin mi?” Diyecek ki: “Yücelik Sanadır! Hakkım olmayan şeyi söylemek bana düşmez. Söyleseydim Sen onu bilirdin. Sen nefsimde olanı bilirsin. Ben Senin nefsinde olanı bilmem. Gizli olanı bilen Sensin.”
+**5:116** Allah diyecek ki: "Ey Meryem oğlu Îsâ! İnsanlara 'Beni ve annemi Allah dışında iki ilah edinin' dedin mi?" Diyecek ki: "Yücelik Sanadır! Hakkım olmayan şeyi söylemek bana düşmez. Söyleseydim Sen onu bilirdin. Sen nefsimde olanı bilirsin. Ben Senin nefsinde olanı bilmem. Gizli olanı bilen Sensin."
 
 وَإِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ءَأَنتَ قُلْتَ لِلنَّاسِ ٱتَّخِذُونِى وَأُمِّىَ إِلَٰهَيْنِ مِن دُونِ ٱللَّهِ ۖ قَالَ سُبْحَٰنَكَ مَا يَكُونُ لِىٓ أَنْ أَقُولَ مَا لَيْسَ لِى بِحَقٍّ ۚ إِن كُنتُ قُلْتُهُۥ فَقَدْ عَلِمْتَهُۥ ۚ تَعْلَمُ مَا فِى نَفْسِى وَلَآ أَعْلَمُ مَا فِى نَفْسِكَ ۚ إِنَّكَ أَنتَ عَلَّٰمُ ٱلْغُيُوبِ
 
@@ -3338,11 +3338,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 مَا قُلْتُ لَهُمْ إِلَّا مَآ أَمَرْتَنِى بِهِۦٓ أَنِ ٱعْبُدُوا۟ ٱللَّهَ رَبِّى وَرَبَّكُمْ ۚ وَكُنتُ عَلَيْهِمْ شَهِيدًۭا مَّا دُمْتُ فِيهِمْ ۖ فَلَمَّا تَوَفَّيْتَنِى كُنتَ أَنتَ ٱلرَّقِيبَ عَلَيْهِمْ ۚ وَأَنتَ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدٌ
 
-**5:118** “Onları cezalandırırsan onlar Senin kullarındır. Ama onları bağışlarsan Sen güçlüsün ve hikmet sahibisin.”
+**5:118** "Onları cezalandırırsan onlar Senin kullarındır. Ama onları bağışlarsan Sen güçlüsün ve hikmet sahibisin."
 
 إِن تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ ۖ وَإِن تَغْفِرْ لَهُمْ فَإِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**5:119** Allah diyecek ki: “Bu, doğru olanların doğruluklarından yararlanacağı bir gündür.” Onlar için altından ırmaklar akan, içinde sonsuza kadar kalacakları bahçeler vardır. Allah onlardan hoşnuttur, onlar da O'ndan hoşnuttur. Bu büyük kurtuluştur.
+**5:119** Allah diyecek ki: "Bu, doğru olanların doğruluklarından yararlanacağı bir gündür." Onlar için altından ırmaklar akan, içinde sonsuza kadar kalacakları bahçeler vardır. Allah onlardan hoşnuttur, onlar da O'ndan hoşnuttur. Bu büyük kurtuluştur.
 
 قَالَ ٱللَّهُ هَٰذَا يَوْمُ يَنفَعُ ٱلصَّٰدِقِينَ صِدْقُهُمْ ۚ لَهُمْ جَنَّٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًۭا ۚ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
@@ -4872,7 +4872,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 *Rahman ve Rahim olan Allah'ın adıyla*
 
-**8:1** Sana ganimetleri soruyorlar. De: “Ganimetler Allah'a ve Elçi'ye aittir.” Öyleyse Allah'a karşı bilinçli olun, aranızdaki anlaşmazlıkları düzeltin ve eğer inanıyorsanız Allah'a ve O'nun Elçisi'ne uyun.
+**8:1** Sana ganimetleri soruyorlar. De: "Ganimetler Allah'a ve Elçi'ye aittir." Öyleyse Allah'a karşı bilinçli olun, aranızdaki anlaşmazlıkları düzeltin ve eğer inanıyorsanız Allah'a ve O'nun Elçisi'ne uyun.
 
 يَسْـَٔلُونَكَ عَنِ ٱلْأَنفَالِ ۖ قُلِ ٱلْأَنفَالُ لِلَّهِ وَٱلرَّسُولِ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَصْلِحُوا۟ ذَاتَ بَيْنِكُمْ ۖ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤْمِنِينَ
 
@@ -4904,7 +4904,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 لِيُحِقَّ ٱلْحَقَّ وَيُبْطِلَ ٱلْبَٰطِلَ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ
 
-**8:9** Rabbinizden yardım dilediğinizde O size şöyle cevap verdi: “Sizi ard arda gelen bin melekle destekliyorum.”
+**8:9** Rabbinizden yardım dilediğinizde O size şöyle cevap verdi: "Sizi ard arda gelen bin melekle destekliyorum."
 
 إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَٱسْتَجَابَ لَكُمْ أَنِّى مُمِدُّكُم بِأَلْفٍۢ مِّنَ ٱلْمَلَٰٓئِكَةِ مُرْدِفِينَ
 
@@ -4916,7 +4916,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِذْ يُغَشِّيكُمُ ٱلنُّعَاسَ أَمَنَةًۭ مِّنْهُ وَيُنَزِّلُ عَلَيْكُم مِّنَ ٱلسَّمَآءِ مَآءًۭ لِّيُطَهِّرَكُم بِهِۦ وَيُذْهِبَ عَنكُمْ رِجْزَ ٱلشَّيْطَٰنِ وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ ٱلْأَقْدَامَ
 
-**8:12** Rabbin meleklere şunu vahyetti: “Ben sizinleyim; iman edenleri destekleyin. İnkâr edenlerin kalplerine korku salacağım. Öyleyse boyunların üstünden vurun ve onların her parmak ucunu vurun.”
+**8:12** Rabbin meleklere şunu vahyetti: "Ben sizinleyim; iman edenleri destekleyin. İnkâr edenlerin kalplerine korku salacağım. Öyleyse boyunların üstünden vurun ve onların her parmak ucunu vurun."
 
 إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟ ۚ سَأُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟ مِنْهُمْ كُلَّ بَنَانٍۢ
 
@@ -4924,7 +4924,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ذَٰلِكَ بِأَنَّهُمْ شَآقُّوا۟ ٱللَّهَ وَرَسُولَهُۥ ۚ وَمَن يُشَاقِقِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
 
-**8:14** “İşte bu; onu tadın.” İnkâr edenler için Ateş azabı vardır.
+**8:14** "İşte bu; onu tadın." İnkâr edenler için Ateş azabı vardır.
 
 ذَٰلِكُمْ فَذُوقُوهُ وَأَنَّ لِلْكَٰفِرِينَ عَذَابَ ٱلنَّارِ
 
@@ -4952,7 +4952,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَوَلَّوْا۟ عَنْهُ وَأَنتُمْ تَسْمَعُونَ
 
-**8:21** “İşittik” deyip de işitmeyenler gibi olmayın.
+**8:21** "İşittik" deyip de işitmeyenler gibi olmayın.
 
 وَلَا تَكُونُوا۟ كَٱلَّذِينَ قَالُوا۟ سَمِعْنَا وَهُمْ لَا يَسْمَعُونَ
 
@@ -4992,11 +4992,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَإِذْ يَمْكُرُ بِكَ ٱلَّذِينَ كَفَرُوا۟ لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ ۚ وَيَمْكُرُونَ وَيَمْكُرُ ٱللَّهُ ۖ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ
 
-**8:31** Ayetlerimiz onlara okunduğunda dediler: “İşittik. İsteseydik bunun benzerini biz de söylerdik; bunlar eskilerin masallarından başka bir şey değildir.”
+**8:31** Ayetlerimiz onlara okunduğunda dediler: "İşittik. İsteseydik bunun benzerini biz de söylerdik; bunlar eskilerin masallarından başka bir şey değildir."
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا قَالُوا۟ قَدْ سَمِعْنَا لَوْ نَشَآءُ لَقُلْنَا مِثْلَ هَٰذَآ ۙ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
-**8:32** Ve dediler: “Allah'ımız, eğer bu Senden gelen hak ise, üzerimize gökten taş yağdır ya da bize acı bir azap getir.”
+**8:32** Ve dediler: "Allah'ımız, eğer bu Senden gelen hak ise, üzerimize gökten taş yağdır ya da bize acı bir azap getir."
 
 وَإِذْ قَالُوا۟ ٱللَّهُمَّ إِن كَانَ هَٰذَا هُوَ ٱلْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةًۭ مِّنَ ٱلسَّمَآءِ أَوِ ٱئْتِنَا بِعَذَابٍ أَلِيمٍۢ
 
@@ -5060,19 +5060,19 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَلَا تَكُونُوا۟ كَٱلَّذِينَ خَرَجُوا۟ مِن دِيَٰرِهِم بَطَرًۭا وَرِئَآءَ ٱلنَّاسِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ ۚ وَٱللَّهُ بِمَا يَعْمَلُونَ مُحِيطٌۭ
 
-**8:48** Şeytan onların işlerini onlara güzel gösterdi ve dedi: “Bugün insanlardan sizi yenebilecek kimse yoktur ve ben yanınızdayım.” Ama iki ordu birbirini gördüğünde topukları üzerinde döndü ve dedi: “Ben sizden uzağım; ben sizin görmediğinizi görüyorum; ben Allah'tan korkarım; Allah'ın cezası şiddetlidir.”
+**8:48** Şeytan onların işlerini onlara güzel gösterdi ve dedi: "Bugün insanlardan sizi yenebilecek kimse yoktur ve ben yanınızdayım." Ama iki ordu birbirini gördüğünde topukları üzerinde döndü ve dedi: "Ben sizden uzağım; ben sizin görmediğinizi görüyorum; ben Allah'tan korkarım; Allah'ın cezası şiddetlidir."
 
 وَإِذْ زَيَّنَ لَهُمُ ٱلشَّيْطَٰنُ أَعْمَٰلَهُمْ وَقَالَ لَا غَالِبَ لَكُمُ ٱلْيَوْمَ مِنَ ٱلنَّاسِ وَإِنِّى جَارٌۭ لَّكُمْ ۖ فَلَمَّا تَرَآءَتِ ٱلْفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيْهِ وَقَالَ إِنِّى بَرِىٓءٌۭ مِّنكُمْ إِنِّىٓ أَرَىٰ مَا لَا تَرَوْنَ إِنِّىٓ أَخَافُ ٱللَّهَ ۚ وَٱللَّهُ شَدِيدُ ٱلْعِقَابِ
 
-**8:49** İkiyüzlüler ve kalplerinde hastalık olanlar dediler: “Dinleri bu insanları aldattı.” Ama kim Allah'a güvenirse, Allah Güçlüdür, Bilgedir.
+**8:49** İkiyüzlüler ve kalplerinde hastalık olanlar dediler: "Dinleri bu insanları aldattı." Ama kim Allah'a güvenirse, Allah Güçlüdür, Bilgedir.
 
 إِذْ يَقُولُ ٱلْمُنَٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ غَرَّ هَٰٓؤُلَآءِ دِينُهُمْ ۗ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَإِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌۭ
 
-**8:50** Melekler inkâr edenlerin canlarını alırken, onların yüzlerine ve sırtlarına vurarak: “Yakıcı azabı tadın” derken onları bir görebilseydin.
+**8:50** Melekler inkâr edenlerin canlarını alırken, onların yüzlerine ve sırtlarına vurarak: "Yakıcı azabı tadın" derken onları bir görebilseydin.
 
 وَلَوْ تَرَىٰٓ إِذْ يَتَوَفَّى ٱلَّذِينَ كَفَرُوا۟ ۙ ٱلْمَلَٰٓئِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَٰرَهُمْ وَذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
 
-**8:51** “Bu, ellerinizin yaptıkları yüzündendir ve Allah kullara haksızlık etmez.”
+**8:51** "Bu, ellerinizin yaptıkları yüzündendir ve Allah kullara haksızlık etmez."
 
 ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّٰمٍۢ لِّلْعَبِيدِ
 
@@ -5148,7 +5148,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَكُلُوا۟ مِمَّا غَنِمْتُمْ حَلَٰلًۭا طَيِّبًۭا ۚ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ
 
-**8:70** Ey peygamber! Elinde esir bulunanlara de: “Eğer Allah kalplerinizde bir iyilik bulursa, sizden alınandan daha iyisini size verir ve sizi bağışlar. Allah Bağışlayandır, Merhametlidir.”
+**8:70** Ey peygamber! Elinde esir bulunanlara de: "Eğer Allah kalplerinizde bir iyilik bulursa, sizden alınandan daha iyisini size verir ve sizi bağışlar. Allah Bağışlayandır, Merhametlidir."
 
 يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّمَن فِىٓ أَيْدِيكُم مِّنَ ٱلْأَسْرَىٰٓ إِن يَعْلَمِ ٱللَّهُ فِى قُلُوبِكُمْ خَيْرًۭا يُؤْتِكُمْ خَيْرًۭا مِّمَّآ أُخِذَ مِنكُمْ وَيَغْفِرْ لَكُمْ ۗ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ
 
@@ -5272,7 +5272,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوٓا۟ ءَابَآءَكُمْ وَإِخْوَٰنَكُمْ أَوْلِيَآءَ إِنِ ٱسْتَحَبُّوا۟ ٱلْكُفْرَ عَلَى ٱلْإِيمَٰنِ ۚ وَمَن يَتَوَلَّهُم مِّنكُمْ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
 
-**9:24** De: “Eğer babalarınız, çocuklarınız, kardeşleriniz, eşleriniz, akrabalarınız, kazandığınız mallar, endişe ettiğiniz bir ticaret ve sevdiğiniz evler size Allah'tan, O'nun Elçisi'nden ve O'nun yolunda çabalamaktan daha sevimli ise, Allah hükmünü yerine getirinceye kadar bekleyin.” Allah günahkâr toplumu doğru yola iletmez.
+**9:24** De: "Eğer babalarınız, çocuklarınız, kardeşleriniz, eşleriniz, akrabalarınız, kazandığınız mallar, endişe ettiğiniz bir ticaret ve sevdiğiniz evler size Allah'tan, O'nun Elçisi'nden ve O'nun yolunda çabalamaktan daha sevimli ise, Allah hükmünü yerine getirinceye kadar bekleyin." Allah günahkâr toplumu doğru yola iletmez.
 
 قُلْ إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَٰلٌ ٱقْتَرَفْتُمُوهَا وَتِجَٰرَةٌۭ تَخْشَوْنَ كَسَادَهَا وَمَسَٰكِنُ تَرْضَوْنَهَآ أَحَبَّ إِلَيْكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٍۢ فِى سَبِيلِهِۦ فَتَرَبَّصُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ بِأَمْرِهِۦ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 
@@ -5296,7 +5296,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 قَٰتِلُوا۟ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْءَاخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلْحَقِّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حَتَّىٰ يُعْطُوا۟ ٱلْجِزْيَةَ عَن يَدٍۢ وَهُمْ صَٰغِرُونَ
 
-**9:30** Yahudiler dedi: “Üzeyr Allah'ın oğludur” ve Hıristiyanlar dedi: “Mesih Allah'ın oğludur.” Bunlar onların ağızlarından çıkan sözleridir. Daha önce küfredenlerin sözlerini taklit ediyorlar. Allah onlara saldırsın! Nasıl da aldatılıyorlar!
+**9:30** Yahudiler dedi: "Üzeyr Allah'ın oğludur" ve Hıristiyanlar dedi: "Mesih Allah'ın oğludur." Bunlar onların ağızlarından çıkan sözleridir. Daha önce küfredenlerin sözlerini taklit ediyorlar. Allah onlara saldırsın! Nasıl da aldatılıyorlar!
 
 وَقَالَتِ ٱلْيَهُودُ عُزَيْرٌ ٱبْنُ ٱللَّهِ وَقَالَتِ ٱلنَّصَٰرَى ٱلْمَسِيحُ ٱبْنُ ٱللَّهِ ۖ ذَٰلِكَ قَوْلُهُم بِأَفْوَٰهِهِمْ ۖ يُضَٰهِـُٔونَ قَوْلَ ٱلَّذِينَ كَفَرُوا۟ مِن قَبْلُ ۚ قَٰتَلَهُمُ ٱللَّهُ ۚ أَنَّىٰ يُؤْفَكُونَ
 
@@ -5316,7 +5316,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ كَثِيرًۭا مِّنَ ٱلْأَحْبَارِ وَٱلرُّهْبَانِ لَيَأْكُلُونَ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ ۗ وَٱلَّذِينَ يَكْنِزُونَ ٱلذَّهَبَ وَٱلْفِضَّةَ وَلَا يُنفِقُونَهَا فِى سَبِيلِ ٱللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍۢ
 
-**9:35** O gün, onlar Cehennem Ateşi'nde ısıtılacak; sonra alınları, yanları ve sırtları onlarla damgalanacak: “Bu, kendiniz için biriktirdiğinizdir; öyleyse biriktirdiğinizi tadın.”
+**9:35** O gün, onlar Cehennem Ateşi'nde ısıtılacak; sonra alınları, yanları ve sırtları onlarla damgalanacak: "Bu, kendiniz için biriktirdiğinizdir; öyleyse biriktirdiğinizi tadın."
 
 يَوْمَ يُحْمَىٰ عَلَيْهَا فِى نَارِ جَهَنَّمَ فَتُكْوَىٰ بِهَا جِبَاهُهُمْ وَجُنُوبُهُمْ وَظُهُورُهُمْ ۖ هَٰذَا مَا كَنَزْتُمْ لِأَنفُسِكُمْ فَذُوقُوا۟ مَا كُنتُمْ تَكْنِزُونَ
 
@@ -5328,7 +5328,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِنَّمَا ٱلنَّسِىٓءُ زِيَادَةٌۭ فِى ٱلْكُفْرِ ۖ يُضَلُّ بِهِ ٱلَّذِينَ كَفَرُوا۟ يُحِلُّونَهُۥ عَامًۭا وَيُحَرِّمُونَهُۥ عَامًۭا لِّيُوَاطِـُٔوا۟ عِدَّةَ مَا حَرَّمَ ٱللَّهُ فَيُحِلُّوا۟ مَا حَرَّمَ ٱللَّهُ ۚ زُيِّنَ لَهُمْ سُوٓءُ أَعْمَٰلِهِمْ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ
 
-**9:38** Ey iman edenler! Size ne oluyor ki, “Allah yolunda seferber olun” dendiğinde yere ağır bir şekilde yapışıyorsunuz? Şimdiki hayatı Ahiret'e tercih mi ediyorsunuz? Şimdiki hayatın zevki, Ahiret'e kıyasla yalnızca az bir şeydir.
+**9:38** Ey iman edenler! Size ne oluyor ki, "Allah yolunda seferber olun" dendiğinde yere ağır bir şekilde yapışıyorsunuz? Şimdiki hayatı Ahiret'e tercih mi ediyorsunuz? Şimdiki hayatın zevki, Ahiret'e kıyasla yalnızca az bir şeydir.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَا لَكُمْ إِذَا قِيلَ لَكُمُ ٱنفِرُوا۟ فِى سَبِيلِ ٱللَّهِ ٱثَّاقَلْتُمْ إِلَى ٱلْأَرْضِ ۚ أَرَضِيتُم بِٱلْحَيَوٰةِ ٱلدُّنْيَا مِنَ ٱلْءَاخِرَةِ ۚ فَمَا مَتَٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا فِى ٱلْءَاخِرَةِ إِلَّا قَلِيلٌ
 
@@ -5336,7 +5336,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِلَّا تَنفِرُوا۟ يُعَذِّبْكُمْ عَذَابًا أَلِيمًۭا وَيَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ وَلَا تَضُرُّوهُ شَيْـًۭٔا ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ
 
-**9:40** Eğer ona yardım etmezseniz, Allah ona zaten yardım etti; inkâr edenler onu sürdüğünde, o mağaradaki iki kişiden ikincisi idi. Arkadaşına dedi: “Üzülme, Allah bizimledir.” Allah huzurunu onun üzerine indirdi, onu görmediğiniz kuvvetlerle destekledi ve inkâr edenlerin sözünü en alçak yaptı; Allah'ın Sözü ise en yücedir. Allah Güçlüdür, Bilgedir.
+**9:40** Eğer ona yardım etmezseniz, Allah ona zaten yardım etti; inkâr edenler onu sürdüğünde, o mağaradaki iki kişiden ikincisi idi. Arkadaşına dedi: "Üzülme, Allah bizimledir." Allah huzurunu onun üzerine indirdi, onu görmediğiniz kuvvetlerle destekledi ve inkâr edenlerin sözünü en alçak yaptı; Allah'ın Sözü ise en yücedir. Allah Güçlüdür, Bilgedir.
 
 إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا ۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍۢ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُوا۟ ٱلسُّفْلَىٰ ۗ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ
 
@@ -5344,7 +5344,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ٱنفِرُوا۟ خِفَافًۭا وَثِقَالًۭا وَجَٰهِدُوا۟ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ فِى سَبِيلِ ٱللَّهِ ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
 
-**9:42** Eğer kazanç yakın ve yolculuk kısa olsaydı, seni izlerlerdi; ama mesafe onlara çok uzun göründü. Yine de Allah'a yemin ederler: “Gücümüz yetseydi, sizinle birlikte yola çıkardık.” Kendi ruhlarını mahvediyorlar ve Allah onların yalan söylediğini bilir.
+**9:42** Eğer kazanç yakın ve yolculuk kısa olsaydı, seni izlerlerdi; ama mesafe onlara çok uzun göründü. Yine de Allah'a yemin ederler: "Gücümüz yetseydi, sizinle birlikte yola çıkardık." Kendi ruhlarını mahvediyorlar ve Allah onların yalan söylediğini bilir.
 
 لَوْ كَانَ عَرَضًۭا قَرِيبًۭا وَسَفَرًۭا قَاصِدًۭا لَّٱتَّبَعُوكَ وَلَٰكِنۢ بَعُدَتْ عَلَيْهِمُ ٱلشُّقَّةُ ۚ وَسَيَحْلِفُونَ بِٱللَّهِ لَوِ ٱسْتَطَعْنَا لَخَرَجْنَا مَعَكُمْ يُهْلِكُونَ أَنفُسَهُمْ وَٱللَّهُ يَعْلَمُ إِنَّهُمْ لَكَٰذِبُونَ
 
@@ -5360,7 +5360,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِنَّمَا يَسْتَـْٔذِنُكَ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَٱرْتَابَتْ قُلُوبُهُمْ فَهُمْ فِى رَيْبِهِمْ يَتَرَدَّدُونَ
 
-**9:46** Eğer seferber olmak isteselerdi, onun için hazırlık yaparlardı; ama Allah onların katılımından hoşlanmadı, onları geri tuttu ve “Geride kalanlarla birlikte geride kalın” dendi.
+**9:46** Eğer seferber olmak isteselerdi, onun için hazırlık yaparlardı; ama Allah onların katılımından hoşlanmadı, onları geri tuttu ve "Geride kalanlarla birlikte geride kalın" dendi.
 
 ۞ وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ لَأَعَدُّوا۟ لَهُۥ عُدَّةًۭ وَلَٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ ٱقْعُدُوا۟ مَعَ ٱلْقَٰعِدِينَ
 
@@ -5372,23 +5372,23 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 لَقَدِ ٱبْتَغَوُا۟ ٱلْفِتْنَةَ مِن قَبْلُ وَقَلَّبُوا۟ لَكَ ٱلْأُمُورَ حَتَّىٰ جَآءَ ٱلْحَقُّ وَظَهَرَ أَمْرُ ٱللَّهِ وَهُمْ كَٰرِهُونَ
 
-**9:49** Onlardan biri der: “Bana izin ver ve beni sıkıntıya sokma.” Aslında, onlar sıkıntıya battılar. Aslında, Cehennem inkâr edenleri kuşatacaktır.
+**9:49** Onlardan biri der: "Bana izin ver ve beni sıkıntıya sokma." Aslında, onlar sıkıntıya battılar. Aslında, Cehennem inkâr edenleri kuşatacaktır.
 
 وَمِنْهُم مَّن يَقُولُ ٱئْذَن لِّى وَلَا تَفْتِنِّىٓ ۚ أَلَا فِى ٱلْفِتْنَةِ سَقَطُوا۟ ۗ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌۢ بِٱلْكَٰفِرِينَ
 
-**9:50** Sana iyi bir şey olursa, bu onları üzer; başına bir felaket gelirse, derler: “Önlemimizi önceden aldık” ve mutlu bir şekilde ayrılırlar.
+**9:50** Sana iyi bir şey olursa, bu onları üzer; başına bir felaket gelirse, derler: "Önlemimizi önceden aldık" ve mutlu bir şekilde ayrılırlar.
 
 إِن تُصِبْكَ حَسَنَةٌۭ تَسُؤْهُمْ ۖ وَإِن تُصِبْكَ مُصِيبَةٌۭ يَقُولُوا۟ قَدْ أَخَذْنَآ أَمْرَنَا مِن قَبْلُ وَيَتَوَلَّوا۟ وَّهُمْ فَرِحُونَ
 
-**9:51** De: “Allah'ın bizim için yazdığından başka hiçbir şey bize olmaz; O bizim Koruyucumuzdur.” İnananlar güvenlerini Allah'a bağlasınlar.
+**9:51** De: "Allah'ın bizim için yazdığından başka hiçbir şey bize olmaz; O bizim Koruyucumuzdur." İnananlar güvenlerini Allah'a bağlasınlar.
 
 قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
 
-**9:52** De: “Bizim için iki güzellikten birinden başka bir şey mi bekliyorsunuz? Bize gelince: Allah'ın size ya kendisinden ya da bizim ellerimizden bir azap getireceğini bekliyoruz. Öyleyse bekleyin, biz de sizinle bekliyoruz.”
+**9:52** De: "Bizim için iki güzellikten birinden başka bir şey mi bekliyorsunuz? Bize gelince: Allah'ın size ya kendisinden ya da bizim ellerimizden bir azap getireceğini bekliyoruz. Öyleyse bekleyin, biz de sizinle bekliyoruz."
 
 قُلْ هَلْ تَرَبَّصُونَ بِنَآ إِلَّآ إِحْدَى ٱلْحُسْنَيَيْنِ ۖ وَنَحْنُ نَتَرَبَّصُ بِكُمْ أَن يُصِيبَكُمُ ٱللَّهُ بِعَذَابٍۢ مِّنْ عِندِهِۦٓ أَوْ بِأَيْدِينَا ۖ فَتَرَبَّصُوٓا۟ إِنَّا مَعَكُم مُّتَرَبِّصُونَ
 
-**9:53** De: “İster gönüllü ister gönülsüz harcayın, sizden kabul edilmeyecektir. Siz kötü bir toplumsunuz.”
+**9:53** De: "İster gönüllü ister gönülsüz harcayın, sizden kabul edilmeyecektir. Siz kötü bir toplumsunuz."
 
 قُلْ أَنفِقُوا۟ طَوْعًا أَوْ كَرْهًۭا لَّن يُتَقَبَّلَ مِنكُمْ ۖ إِنَّكُمْ كُنتُمْ قَوْمًۭا فَٰسِقِينَ
 
@@ -5412,7 +5412,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَمِنْهُم مَّن يَلْمِزُكَ فِى ٱلصَّدَقَٰتِ فَإِنْ أُعْطُوا۟ مِنْهَا رَضُوا۟ وَإِن لَّمْ يُعْطَوْا۟ مِنْهَآ إِذَا هُمْ يَسْخَطُونَ
 
-**9:59** Keşke Allah'ın ve Elçisi'nin onlara verdikleriyle hoşnut olsalardı ve “Allah bize yeter; Allah bize lütfundan verecek, Elçisi de öyle; biz istekle Allah'a yöneliriz” deselerdi.
+**9:59** Keşke Allah'ın ve Elçisi'nin onlara verdikleriyle hoşnut olsalardı ve "Allah bize yeter; Allah bize lütfundan verecek, Elçisi de öyle; biz istekle Allah'a yöneliriz" deselerdi.
 
 وَلَوْ أَنَّهُمْ رَضُوا۟ مَآ ءَاتَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ وَقَالُوا۟ حَسْبُنَا ٱللَّهُ سَيُؤْتِينَا ٱللَّهُ مِن فَضْلِهِۦ وَرَسُولُهُۥٓ إِنَّآ إِلَى ٱللَّهِ رَٰغِبُونَ
 
@@ -5420,7 +5420,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ۞ إِنَّمَا ٱلصَّدَقَٰتُ لِلْفُقَرَآءِ وَٱلْمَسَٰكِينِ وَٱلْعَٰمِلِينَ عَلَيْهَا وَٱلْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِى ٱلرِّقَابِ وَٱلْغَٰرِمِينَ وَفِى سَبِيلِ ٱللَّهِ وَٱبْنِ ٱلسَّبِيلِ ۖ فَرِيضَةًۭ مِّنَ ٱللَّهِ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ
 
-**9:61** Onlardan bazıları Peygamber'i incitir ve derler: “O her şeyi dinler.” De: “O sizin iyiliğiniz için dinler. Allah'a inanır, iman edenlere güvenir ve sizden iman edenler için bir merhamettir.” Allah'ın Elçisi'ni incitenler için acı bir ceza vardır.
+**9:61** Onlardan bazıları Peygamber'i incitir ve derler: "O her şeyi dinler." De: "O sizin iyiliğiniz için dinler. Allah'a inanır, iman edenlere güvenir ve sizden iman edenler için bir merhamettir." Allah'ın Elçisi'ni incitenler için acı bir ceza vardır.
 
 وَمِنْهُمُ ٱلَّذِينَ يُؤْذُونَ ٱلنَّبِىَّ وَيَقُولُونَ هُوَ أُذُنٌۭ ۚ قُلْ أُذُنُ خَيْرٍۢ لَّكُمْ يُؤْمِنُ بِٱللَّهِ وَيُؤْمِنُ لِلْمُؤْمِنِينَ وَرَحْمَةٌۭ لِّلَّذِينَ ءَامَنُوا۟ مِنكُمْ ۚ وَٱلَّذِينَ يُؤْذُونَ رَسُولَ ٱللَّهِ لَهُمْ عَذَابٌ أَلِيمٌۭ
 
@@ -5432,11 +5432,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 أَلَمْ يَعْلَمُوٓا۟ أَنَّهُۥ مَن يُحَادِدِ ٱللَّهَ وَرَسُولَهُۥ فَأَنَّ لَهُۥ نَارَ جَهَنَّمَ خَٰلِدًۭا فِيهَا ۚ ذَٰلِكَ ٱلْخِزْىُ ٱلْعَظِيمُ
 
-**9:64** İkiyüzlüler, kalplerindekini onlara bildirecek bir bölümün kendileri hakkında indirilmesinden endişe ederler. De: “Alay etmeye devam edin; Allah korktuğunuzu ortaya çıkaracaktır.”
+**9:64** İkiyüzlüler, kalplerindekini onlara bildirecek bir bölümün kendileri hakkında indirilmesinden endişe ederler. De: "Alay etmeye devam edin; Allah korktuğunuzu ortaya çıkaracaktır."
 
 يَحْذَرُ ٱلْمُنَٰفِقُونَ أَن تُنَزَّلَ عَلَيْهِمْ سُورَةٌۭ تُنَبِّئُهُم بِمَا فِى قُلُوبِهِمْ ۚ قُلِ ٱسْتَهْزِءُوٓا۟ إِنَّ ٱللَّهَ مُخْرِجٌۭ مَّا تَحْذَرُونَ
 
-**9:65** Onlara sorarsan, derler: “Biz yalnızca şaka yapıyor ve oynuyorduk.” De: “Allah'la, O'nun ayetleriyle ve O'nun Elçisi'yle mi şaka yapıyordunuz?”
+**9:65** Onlara sorarsan, derler: "Biz yalnızca şaka yapıyor ve oynuyorduk." De: "Allah'la, O'nun ayetleriyle ve O'nun Elçisi'yle mi şaka yapıyordunuz?"
 
 وَلَئِن سَأَلْتَهُمْ لَيَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلْعَبُ ۚ قُلْ أَبِٱللَّهِ وَءَايَٰتِهِۦ وَرَسُولِهِۦ كُنتُمْ تَسْتَهْزِءُونَ
 
@@ -5476,7 +5476,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 يَحْلِفُونَ بِٱللَّهِ مَا قَالُوا۟ وَلَقَدْ قَالُوا۟ كَلِمَةَ ٱلْكُفْرِ وَكَفَرُوا۟ بَعْدَ إِسْلَٰمِهِمْ وَهَمُّوا۟ بِمَا لَمْ يَنَالُوا۟ ۚ وَمَا نَقَمُوٓا۟ إِلَّآ أَنْ أَغْنَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ مِن فَضْلِهِۦ ۚ فَإِن يَتُوبُوا۟ يَكُ خَيْرًۭا لَّهُمْ ۖ وَإِن يَتَوَلَّوْا۟ يُعَذِّبْهُمُ ٱللَّهُ عَذَابًا أَلِيمًۭا فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ ۚ وَمَا لَهُمْ فِى ٱلْأَرْضِ مِن وَلِىٍّۢ وَلَا نَصِيرٍۢ
 
-**9:75** Onlardan bazıları Allah'a söz verdi: “Eğer bize lütfundan verirse, bağışta bulunacağız ve doğru olanlardan olacağız.”
+**9:75** Onlardan bazıları Allah'a söz verdi: "Eğer bize lütfundan verirse, bağışta bulunacağız ve doğru olanlardan olacağız."
 
 ۞ وَمِنْهُم مَّنْ عَٰهَدَ ٱللَّهَ لَئِنْ ءَاتَىٰنَا مِن فَضْلِهِۦ لَنَصَّدَّقَنَّ وَلَنَكُونَنَّ مِنَ ٱلصَّٰلِحِينَ
 
@@ -5500,7 +5500,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ٱسْتَغْفِرْ لَهُمْ أَوْ لَا تَسْتَغْفِرْ لَهُمْ إِن تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةًۭ فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ ذَٰلِكَ بِأَنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 
-**9:81** Geride kalanlar, Allah'ın Elçisi'nin gerisinde kalmalarından sevindiler. Malları ve canlarıyla Allah yolunda çabalamaktan nefret ettiler. Ve dediler: “Sıcakta dışarı çıkmayın.” De: “Cehennem Ateşi çok daha sıcaktır; eğer anlasalardı.”
+**9:81** Geride kalanlar, Allah'ın Elçisi'nin gerisinde kalmalarından sevindiler. Malları ve canlarıyla Allah yolunda çabalamaktan nefret ettiler. Ve dediler: "Sıcakta dışarı çıkmayın." De: "Cehennem Ateşi çok daha sıcaktır; eğer anlasalardı."
 
 فَرِحَ ٱلْمُخَلَّفُونَ بِمَقْعَدِهِمْ خِلَٰفَ رَسُولِ ٱللَّهِ وَكَرِهُوٓا۟ أَن يُجَٰهِدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ وَقَالُوا۟ لَا تَنفِرُوا۟ فِى ٱلْحَرِّ ۗ قُلْ نَارُ جَهَنَّمَ أَشَدُّ حَرًّۭا ۚ لَّوْ كَانُوا۟ يَفْقَهُونَ
 
@@ -5508,7 +5508,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَلْيَضْحَكُوا۟ قَلِيلًۭا وَلْيَبْكُوا۟ كَثِيرًۭا جَزَآءًۢ بِمَا كَانُوا۟ يَكْسِبُونَ
 
-**9:83** Eğer Allah seni onlardan bir gruba geri getirirse ve dışarı çıkmak için senden izin isterlerse, de: “Benimle asla dışarı çıkmayacaksınız ve benimle asla bir düşmanla savaşmayacaksınız. İlk seferde geride oturmaya razı oldunuz; öyleyse geride kalanlarla birlikte geride oturun.”
+**9:83** Eğer Allah seni onlardan bir gruba geri getirirse ve dışarı çıkmak için senden izin isterlerse, de: "Benimle asla dışarı çıkmayacaksınız ve benimle asla bir düşmanla savaşmayacaksınız. İlk seferde geride oturmaya razı oldunuz; öyleyse geride kalanlarla birlikte geride oturun."
 
 فَإِن رَّجَعَكَ ٱللَّهُ إِلَىٰ طَآئِفَةٍۢ مِّنْهُمْ فَٱسْتَـْٔذَنُوكَ لِلْخُرُوجِ فَقُل لَّن تَخْرُجُوا۟ مَعِىَ أَبَدًۭا وَلَن تُقَٰتِلُوا۟ مَعِىَ عَدُوًّا ۖ إِنَّكُمْ رَضِيتُم بِٱلْقُعُودِ أَوَّلَ مَرَّةٍۢ فَٱقْعُدُوا۟ مَعَ ٱلْخَٰلِفِينَ
 
@@ -5520,7 +5520,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَلَا تُعْجِبْكَ أَمْوَٰلُهُمْ وَأَوْلَٰدُهُمْ ۚ إِنَّمَا يُرِيدُ ٱللَّهُ أَن يُعَذِّبَهُم بِهَا فِى ٱلدُّنْيَا وَتَزْهَقَ أَنفُسُهُمْ وَهُمْ كَٰفِرُونَ
 
-**9:86** Bir bölüm indirildiğinde, “Allah'a inanın ve O'nun Elçisi ile birlikte çabalayın” diyen, onların önde gelenleri senden muafiyet ister. Derler: “Geride kalanlarla birlikte kalmamıza izin ver.”
+**9:86** Bir bölüm indirildiğinde, "Allah'a inanın ve O'nun Elçisi ile birlikte çabalayın" diyen, onların önde gelenleri senden muafiyet ister. Derler: "Geride kalanlarla birlikte kalmamıza izin ver."
 
 وَإِذَآ أُنزِلَتْ سُورَةٌ أَنْ ءَامِنُوا۟ بِٱللَّهِ وَجَٰهِدُوا۟ مَعَ رَسُولِهِ ٱسْتَـْٔذَنَكَ أُو۟لُوا۟ ٱلطَّوْلِ مِنْهُمْ وَقَالُوا۟ ذَرْنَا نَكُن مَّعَ ٱلْقَٰعِدِينَ
 
@@ -5544,7 +5544,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 لَّيْسَ عَلَى ٱلضُّعَفَآءِ وَلَا عَلَى ٱلْمَرْضَىٰ وَلَا عَلَى ٱلَّذِينَ لَا يَجِدُونَ مَا يُنفِقُونَ حَرَجٌ إِذَا نَصَحُوا۟ لِلَّهِ وَرَسُولِهِۦ ۚ مَا عَلَى ٱلْمُحْسِنِينَ مِن سَبِيلٍۢ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ
 
-**9:92** Seninle birlikte binmek isteyen, sana gelenlere de suçlama yoktur; sen dedin: “Sizi taşıyacak bir şeyim yok.” Öyleyse gözleri yaşla dolarak ayrıldılar; harcayacak imkânı bulamadıkları için üzülüyorlardı.
+**9:92** Seninle birlikte binmek isteyen, sana gelenlere de suçlama yoktur; sen dedin: "Sizi taşıyacak bir şeyim yok." Öyleyse gözleri yaşla dolarak ayrıldılar; harcayacak imkânı bulamadıkları için üzülüyorlardı.
 
 وَلَا عَلَى ٱلَّذِينَ إِذَا مَآ أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لَآ أَجِدُ مَآ أَحْمِلُكُمْ عَلَيْهِ تَوَلَّوا۟ وَّأَعْيُنُهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ حَزَنًا أَلَّا يَجِدُوا۟ مَا يُنفِقُونَ
 
@@ -5552,7 +5552,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ۞ إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَسْتَـْٔذِنُونَكَ وَهُمْ أَغْنِيَآءُ ۚ رَضُوا۟ بِأَن يَكُونُوا۟ مَعَ ٱلْخَوَالِفِ وَطَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَعْلَمُونَ
 
-**9:94** Onlara döndüğünde sana özürler sunarlar. De: “Özür sunmayın; size güvenmiyoruz; Allah bizi sizden haberdar etti. Allah işlerinizi görecek, Elçi de öyle; sonra Görünmez'in ve Görünür'ün Bilenine döndürüleceksiniz ve O size yaptıklarınızı bildirecektir.”
+**9:94** Onlara döndüğünde sana özürler sunarlar. De: "Özür sunmayın; size güvenmiyoruz; Allah bizi sizden haberdar etti. Allah işlerinizi görecek, Elçi de öyle; sonra Görünmez'in ve Görünür'ün Bilenine döndürüleceksiniz ve O size yaptıklarınızı bildirecektir."
 
 يَعْتَذِرُونَ إِلَيْكُمْ إِذَا رَجَعْتُمْ إِلَيْهِمْ ۚ قُل لَّا تَعْتَذِرُوا۟ لَن نُّؤْمِنَ لَكُمْ قَدْ نَبَّأَنَا ٱللَّهُ مِنْ أَخْبَارِكُمْ ۚ وَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ ثُمَّ تُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 
@@ -5596,7 +5596,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 أَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ هُوَ يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَأْخُذُ ٱلصَّدَقَٰتِ وَأَنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
-**9:105** De: “Çalışın. Allah çalışmanızı görecek, O'nun Elçisi de, iman edenler de. Sonra sırların ve açıklamaların Bilenine döndürüleceksiniz ve O size yaptıklarınızı bildirecektir.”
+**9:105** De: "Çalışın. Allah çalışmanızı görecek, O'nun Elçisi de, iman edenler de. Sonra sırların ve açıklamaların Bilenine döndürüleceksiniz ve O size yaptıklarınızı bildirecektir."
 
 وَقُلِ ٱعْمَلُوا۟ فَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ وَٱلْمُؤْمِنُونَ ۖ وَسَتُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 
@@ -5604,7 +5604,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَءَاخَرُونَ مُرْجَوْنَ لِأَمْرِ ٱللَّهِ إِمَّا يُعَذِّبُهُمْ وَإِمَّا يَتُوبُ عَلَيْهِمْ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ
 
-**9:107** Sonra, zarar vermek, inkâr etmek, iman edenler arasında ayrılık çıkarmak için bir mescit kuranlar ve Allah'a ve O'nun Elçisi'ne karşı savaşanlar için bir ileri karakol olarak kullananlar vardır. Yemin edecekler: “Niyetimiz iyilikten başka bir şey değildir.” Ama Allah onların yalancı olduğuna tanıklık eder.
+**9:107** Sonra, zarar vermek, inkâr etmek, iman edenler arasında ayrılık çıkarmak için bir mescit kuranlar ve Allah'a ve O'nun Elçisi'ne karşı savaşanlar için bir ileri karakol olarak kullananlar vardır. Yemin edecekler: "Niyetimiz iyilikten başka bir şey değildir." Ama Allah onların yalancı olduğuna tanıklık eder.
 
 وَٱلَّذِينَ ٱتَّخَذُوا۟ مَسْجِدًۭا ضِرَارًۭا وَكُفْرًۭا وَتَفْرِيقًۢا بَيْنَ ٱلْمُؤْمِنِينَ وَإِرْصَادًۭا لِّمَنْ حَارَبَ ٱللَّهَ وَرَسُولَهُۥ مِن قَبْلُ ۚ وَلَيَحْلِفُنَّ إِنْ أَرَدْنَآ إِلَّا ٱلْحُسْنَىٰ ۖ وَٱللَّهُ يَشْهَدُ إِنَّهُمْ لَكَٰذِبُونَ
 
@@ -5672,7 +5672,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قَٰتِلُوا۟ ٱلَّذِينَ يَلُونَكُم مِّنَ ٱلْكُفَّارِ وَلْيَجِدُوا۟ فِيكُمْ غِلْظَةًۭ ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ
 
-**9:124** Bir bölüm indirildiğinde, onlardan bazıları der: “Bu, hanginizin imanını artırdı?” İnananlara gelince: Onların imanını artırır ve onlar sevinirler.
+**9:124** Bir bölüm indirildiğinde, onlardan bazıları der: "Bu, hanginizin imanını artırdı?" İnananlara gelince: Onların imanını artırır ve onlar sevinirler.
 
 وَإِذَا مَآ أُنزِلَتْ سُورَةٌۭ فَمِنْهُم مَّن يَقُولُ أَيُّكُمْ زَادَتْهُ هَٰذِهِۦٓ إِيمَٰنًۭا ۚ فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ فَزَادَتْهُمْ إِيمَٰنًۭا وَهُمْ يَسْتَبْشِرُونَ
 
@@ -5684,7 +5684,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 أَوَلَا يَرَوْنَ أَنَّهُمْ يُفْتَنُونَ فِى كُلِّ عَامٍۢ مَّرَّةً أَوْ مَرَّتَيْنِ ثُمَّ لَا يَتُوبُونَ وَلَا هُمْ يَذَّكَّرُونَ
 
-**9:127** Bir bölüm indirildiğinde, birbirlerine bakarlar: “Sizi gören var mı?” Sonra sıvışırlar. Allah onların kalplerini çevirdi; çünkü onlar anlamayan bir toplumdur.
+**9:127** Bir bölüm indirildiğinde, birbirlerine bakarlar: "Sizi gören var mı?" Sonra sıvışırlar. Allah onların kalplerini çevirdi; çünkü onlar anlamayan bir toplumdur.
 
 وَإِذَا مَآ أُنزِلَتْ سُورَةٌۭ نَّظَرَ بَعْضُهُمْ إِلَىٰ بَعْضٍ هَلْ يَرَىٰكُم مِّنْ أَحَدٍۢ ثُمَّ ٱنصَرَفُوا۟ ۚ صَرَفَ ٱللَّهُ قُلُوبَهُم بِأَنَّهُمْ قَوْمٌۭ لَّا يَفْقَهُونَ
 
@@ -5692,7 +5692,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 لَقَدْ جَآءَكُمْ رَسُولٌۭ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِٱلْمُؤْمِنِينَ رَءُوفٌۭ رَّحِيمٌۭ
 
-**9:129** Eğer yüz çevirirlerse, de: “Allah bana yeter; O'ndan başka tanrı yoktur; güvenimi O'na bağladım; O Yüce Taht'ın Rabbidir.”
+**9:129** Eğer yüz çevirirlerse, de: "Allah bana yeter; O'ndan başka tanrı yoktur; güvenimi O'na bağladım; O Yüce Taht'ın Rabbidir."
 
 فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ
 
@@ -5712,7 +5712,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 الٓر ۚ تِلْكَ ءَايَٰتُ ٱلْكِتَٰبِ ٱلْحَكِيمِ
 
-**10:2** Aralarından bir adama şunu vahyetmemiz insanlara şaşırtıcı mı geldi: “İnsanlığı uyar ve inananlara, Rableri katında sağlam bir yerleri olduğunu müjdele”? İnkâr edenler dedi: “Bu apaçık bir büyücüdür.”
+**10:2** Aralarından bir adama şunu vahyetmemiz insanlara şaşırtıcı mı geldi: "İnsanlığı uyar ve inananlara, Rableri katında sağlam bir yerleri olduğunu müjdele"? İnkâr edenler dedi: "Bu apaçık bir büyücüdür."
 
 أَكَانَ لِلنَّاسِ عَجَبًا أَنْ أَوْحَيْنَآ إِلَىٰ رَجُلٍۢ مِّنْهُمْ أَنْ أَنذِرِ ٱلنَّاسَ وَبَشِّرِ ٱلَّذِينَ ءَامَنُوٓا۟ أَنَّ لَهُمْ قَدَمَ صِدْقٍ عِندَ رَبِّهِمْ ۗ قَالَ ٱلْكَٰفِرُونَ إِنَّ هَٰذَا لَسَٰحِرٌۭ مُّبِينٌ
 
@@ -5744,7 +5744,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ يَهْدِيهِمْ رَبُّهُم بِإِيمَٰنِهِمْ ۖ تَجْرِى مِن تَحْتِهِمُ ٱلْأَنْهَٰرُ فِى جَنَّٰتِ ٱلنَّعِيمِ
 
-**10:10** Orada çağrıları şudur: “Yücesin Sen, Allah'ımız.” Ve orada selamlaşmaları: “Barış.” Ve çağrılarının sonu: “Övgü, Âlemlerin Rabbi Allah'a aittir.”
+**10:10** Orada çağrıları şudur: "Yücesin Sen, Allah'ımız." Ve orada selamlaşmaları: "Barış." Ve çağrılarının sonu: "Övgü, Âlemlerin Rabbi Allah'a aittir."
 
 دَعْوَىٰهُمْ فِيهَا سُبْحَٰنَكَ ٱللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا سَلَٰمٌۭ ۚ وَءَاخِرُ دَعْوَىٰهُمْ أَنِ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
@@ -5764,11 +5764,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ثُمَّ جَعَلْنَٰكُمْ خَلَٰٓئِفَ فِى ٱلْأَرْضِ مِنۢ بَعْدِهِمْ لِنَنظُرَ كَيْفَ تَعْمَلُونَ
 
-**10:15** Açık ayetlerimiz onlara okunduğunda, Bizimle karşılaşmayı ummayanlar der: “Bundan başka bir Kur'an getir ya da onu değiştir.” De: “Onu kendi isteğimle değiştirmek bana uygun değildir. Ben yalnızca bana vahyedileni izlerim. Rabbime karşı gelirsem, korkunç bir Günün azabından korkarım.”
+**10:15** Açık ayetlerimiz onlara okunduğunda, Bizimle karşılaşmayı ummayanlar der: "Bundan başka bir Kur'an getir ya da onu değiştir." De: "Onu kendi isteğimle değiştirmek bana uygun değildir. Ben yalnızca bana vahyedileni izlerim. Rabbime karşı gelirsem, korkunç bir Günün azabından korkarım."
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَاتُنَا بَيِّنَٰتٍۢ ۙ قَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا ٱئْتِ بِقُرْءَانٍ غَيْرِ هَٰذَآ أَوْ بَدِّلْهُ ۚ قُلْ مَا يَكُونُ لِىٓ أَنْ أُبَدِّلَهُۥ مِن تِلْقَآئِ نَفْسِىٓ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۖ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍۢ
 
-**10:16** De: “Allah dileseydi, onu size okumazdım ve O onu size bildirmezdi. Ondan önce aranızda bir ömür yaşadım. Anlamıyor musunuz?”
+**10:16** De: "Allah dileseydi, onu size okumazdım ve O onu size bildirmezdi. Ondan önce aranızda bir ömür yaşadım. Anlamıyor musunuz?"
 
 قُل لَّوْ شَآءَ ٱللَّهُ مَا تَلَوْتُهُۥ عَلَيْكُمْ وَلَآ أَدْرَىٰكُم بِهِۦ ۖ فَقَدْ لَبِثْتُ فِيكُمْ عُمُرًۭا مِّن قَبْلِهِۦٓ ۚ أَفَلَا تَعْقِلُونَ
 
@@ -5776,7 +5776,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِـَٔايَٰتِهِۦٓ ۚ إِنَّهُۥ لَا يُفْلِحُ ٱلْمُجْرِمُونَ
 
-**10:18** Ve Allah'tan başka, kendilerine ne zarar ne de yarar veren şeylere kulluk ederler. Ve derler: “Bunlar Allah katında aracılarımızdır.” De: “Allah'a göklerde ya da yerde bilmediği bir şeyi mi bildiriyorsunuz?” O yücedir; onların ortak koşmalarından çok üstündür.
+**10:18** Ve Allah'tan başka, kendilerine ne zarar ne de yarar veren şeylere kulluk ederler. Ve derler: "Bunlar Allah katında aracılarımızdır." De: "Allah'a göklerde ya da yerde bilmediği bir şeyi mi bildiriyorsunuz?" O yücedir; onların ortak koşmalarından çok üstündür.
 
 وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ وَيَقُولُونَ هَٰٓؤُلَآءِ شُفَعَٰٓؤُنَا عِندَ ٱللَّهِ ۚ قُلْ أَتُنَبِّـُٔونَ ٱللَّهَ بِمَا لَا يَعْلَمُ فِى ٱلسَّمَٰوَٰتِ وَلَا فِى ٱلْأَرْضِ ۚ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ
 
@@ -5784,15 +5784,15 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَمَا كَانَ ٱلنَّاسُ إِلَّآ أُمَّةًۭ وَٰحِدَةًۭ فَٱخْتَلَفُوا۟ ۚ وَلَوْلَا كَلِمَةٌۭ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ فِيمَا فِيهِ يَخْتَلِفُونَ
 
-**10:20** Ve derler: “Ona Rabbinden bir mucize indirilseydi ya.” De: “Görünmeyen alan Allah'a aittir; öyleyse bekleyin, ben de sizinle bekliyorum.”
+**10:20** Ve derler: "Ona Rabbinden bir mucize indirilseydi ya." De: "Görünmeyen alan Allah'a aittir; öyleyse bekleyin, ben de sizinle bekliyorum."
 
 وَيَقُولُونَ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌۭ مِّن رَّبِّهِۦ ۖ فَقُلْ إِنَّمَا ٱلْغَيْبُ لِلَّهِ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ
 
-**10:21** İnsanlara, kendilerine bir sıkıntı dokunduktan sonra bir merhamet tattırdığımızda, ayetlerimize karşı tuzak kurmaya başlarlar. De: “Allah tuzakta daha hızlıdır.” Elçilerimiz tuzak kurduğunuzu yazarlar.
+**10:21** İnsanlara, kendilerine bir sıkıntı dokunduktan sonra bir merhamet tattırdığımızda, ayetlerimize karşı tuzak kurmaya başlarlar. De: "Allah tuzakta daha hızlıdır." Elçilerimiz tuzak kurduğunuzu yazarlar.
 
 وَإِذَآ أَذَقْنَا ٱلنَّاسَ رَحْمَةًۭ مِّنۢ بَعْدِ ضَرَّآءَ مَسَّتْهُمْ إِذَا لَهُم مَّكْرٌۭ فِىٓ ءَايَاتِنَا ۚ قُلِ ٱللَّهُ أَسْرَعُ مَكْرًا ۚ إِنَّ رُسُلَنَا يَكْتُبُونَ مَا تَمْكُرُونَ
 
-**10:22** Sizi kara ve denizde taşıyan O'dur. Sonunda, gemilerde olduğunuzda, uygun bir rüzgârla yol alırken ve onunla sevinirken, şiddetli bir rüzgâr gelir. Dalgalar her yandan onları sarar ve kuşatıldıklarını anlarlar. Bunun üzerine, O'na samimi bağlılık göstererek Allah'a dua ederler: “Eğer bizi bundan kurtarırsan, şükredenlerden olacağız.”
+**10:22** Sizi kara ve denizde taşıyan O'dur. Sonunda, gemilerde olduğunuzda, uygun bir rüzgârla yol alırken ve onunla sevinirken, şiddetli bir rüzgâr gelir. Dalgalar her yandan onları sarar ve kuşatıldıklarını anlarlar. Bunun üzerine, O'na samimi bağlılık göstererek Allah'a dua ederler: "Eğer bizi bundan kurtarırsan, şükredenlerden olacağız."
 
 هُوَ ٱلَّذِى يُسَيِّرُكُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ ۖ حَتَّىٰٓ إِذَا كُنتُمْ فِى ٱلْفُلْكِ وَجَرَيْنَ بِهِم بِرِيحٍۢ طَيِّبَةٍۢ وَفَرِحُوا۟ بِهَا جَآءَتْهَا رِيحٌ عَاصِفٌۭ وَجَآءَهُمُ ٱلْمَوْجُ مِن كُلِّ مَكَانٍۢ وَظَنُّوٓا۟ أَنَّهُمْ أُحِيطَ بِهِمْ ۙ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ لَئِنْ أَنجَيْتَنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
 
@@ -5816,11 +5816,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَٱلَّذِينَ كَسَبُوا۟ ٱلسَّيِّـَٔاتِ جَزَآءُ سَيِّئَةٍۭ بِمِثْلِهَا وَتَرْهَقُهُمْ ذِلَّةٌۭ ۖ مَّا لَهُم مِّنَ ٱللَّهِ مِنْ عَاصِمٍۢ ۖ كَأَنَّمَآ أُغْشِيَتْ وُجُوهُهُمْ قِطَعًۭا مِّنَ ٱلَّيْلِ مُظْلِمًا ۚ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
-**10:28** Hep birlikte onları toplayacağımız Gün, sonra ortak koşanlara diyeceğiz: “Yerinize, siz ve ortaklarınız.” Sonra aralarını ayıracağız ve ortakları diyecek: “Bize kulluk etmiyordunuz.”
+**10:28** Hep birlikte onları toplayacağımız Gün, sonra ortak koşanlara diyeceğiz: "Yerinize, siz ve ortaklarınız." Sonra aralarını ayıracağız ve ortakları diyecek: "Bize kulluk etmiyordunuz."
 
 وَيَوْمَ نَحْشُرُهُمْ جَمِيعًۭا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوا۟ مَكَانَكُمْ أَنتُمْ وَشُرَكَآؤُكُمْ ۚ فَزَيَّلْنَا بَيْنَهُمْ ۖ وَقَالَ شُرَكَآؤُهُم مَّا كُنتُمْ إِيَّانَا تَعْبُدُونَ
 
-**10:29** “Allah aramızda yeterli tanıktır. Bize kulluk ettiğinizden haberimiz yoktu.”
+**10:29** "Allah aramızda yeterli tanıktır. Bize kulluk ettiğinizden haberimiz yoktu."
 
 فَكَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنَنَا وَبَيْنَكُمْ إِن كُنَّا عَنْ عِبَادَتِكُمْ لَغَٰفِلِينَ
 
@@ -5828,7 +5828,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 هُنَالِكَ تَبْلُوا۟ كُلُّ نَفْسٍۢ مَّآ أَسْلَفَتْ ۚ وَرُدُّوٓا۟ إِلَى ٱللَّهِ مَوْلَىٰهُمُ ٱلْحَقِّ ۖ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ
 
-**10:31** De: “Size gökten ve yerden kim rızık verir? Ve işitmeyi ve görmeyi kim denetler? Ve ölüyü diriden kim çıkarır ve diriyi ölüden kim çıkarır? Ve Düzeni kim yönetir?” Diyecekler: “Allah.” De: “Dikkatli olmaz mısınız?”
+**10:31** De: "Size gökten ve yerden kim rızık verir? Ve işitmeyi ve görmeyi kim denetler? Ve ölüyü diriden kim çıkarır ve diriyi ölüden kim çıkarır? Ve Düzeni kim yönetir?" Diyecekler: "Allah." De: "Dikkatli olmaz mısınız?"
 
 قُلْ مَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ أَمَّن يَمْلِكُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَمَن يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَمَن يُدَبِّرُ ٱلْأَمْرَ ۚ فَسَيَقُولُونَ ٱللَّهُ ۚ فَقُلْ أَفَلَا تَتَّقُونَ
 
@@ -5840,11 +5840,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 كَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ فَسَقُوٓا۟ أَنَّهُمْ لَا يُؤْمِنُونَ
 
-**10:34** De: “Ortaklarınızdan herhangi biri yaratmayı başlatıp sonra tekrarlayabilir mi?” De: “Allah yaratmayı başlatır, sonra onu tekrarlar. Nasıl bu kadar aldatılıyorsunuz?”
+**10:34** De: "Ortaklarınızdan herhangi biri yaratmayı başlatıp sonra tekrarlayabilir mi?" De: "Allah yaratmayı başlatır, sonra onu tekrarlar. Nasıl bu kadar aldatılıyorsunuz?"
 
 قُلْ هَلْ مِن شُرَكَآئِكُم مَّن يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ۚ قُلِ ٱللَّهُ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ۖ فَأَنَّىٰ تُؤْفَكُونَ
 
-**10:35** De: “Ortaklarınızdan herhangi biri hakka yönlendirebilir mi?” De: “Allah hakka yönlendirir. Hakka yönlendiren mi izlenmeye daha layıktır, yoksa kendisi yönlendirilmedikçe yönlendiremeyen mi? Size ne oluyor? Nasıl hükmediyorsunuz?”
+**10:35** De: "Ortaklarınızdan herhangi biri hakka yönlendirebilir mi?" De: "Allah hakka yönlendirir. Hakka yönlendiren mi izlenmeye daha layıktır, yoksa kendisi yönlendirilmedikçe yönlendiremeyen mi? Size ne oluyor? Nasıl hükmediyorsunuz?"
 
 قُلْ هَلْ مِن شُرَكَآئِكُم مَّن يَهْدِىٓ إِلَى ٱلْحَقِّ ۚ قُلِ ٱللَّهُ يَهْدِى لِلْحَقِّ ۗ أَفَمَن يَهْدِىٓ إِلَى ٱلْحَقِّ أَحَقُّ أَن يُتَّبَعَ أَمَّن لَّا يَهِدِّىٓ إِلَّآ أَن يُهْدَىٰ ۖ فَمَا لَكُمْ كَيْفَ تَحْكُمُونَ
 
@@ -5856,7 +5856,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَمَا كَانَ هَٰذَا ٱلْقُرْءَانُ أَن يُفْتَرَىٰ مِن دُونِ ٱللَّهِ وَلَٰكِن تَصْدِيقَ ٱلَّذِى بَيْنَ يَدَيْهِ وَتَفْصِيلَ ٱلْكِتَٰبِ لَا رَيْبَ فِيهِ مِن رَّبِّ ٱلْعَٰلَمِينَ
 
-**10:38** Yoksa “Onu uydurdu” mu diyorlar? De: “Öyleyse onun gibi tek bir bölüm getirin ve eğer doğru söylüyorsanız, Allah'tan başka çağırabileceğiniz herkesi çağırın.”
+**10:38** Yoksa "Onu uydurdu" mu diyorlar? De: "Öyleyse onun gibi tek bir bölüm getirin ve eğer doğru söylüyorsanız, Allah'tan başka çağırabileceğiniz herkesi çağırın."
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِسُورَةٍۢ مِّثْلِهِۦ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -5868,7 +5868,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَمِنْهُم مَّن يُؤْمِنُ بِهِۦ وَمِنْهُم مَّن لَّا يُؤْمِنُ بِهِۦ ۚ وَرَبُّكَ أَعْلَمُ بِٱلْمُفْسِدِينَ
 
-**10:41** Eğer seni yalan söylemekle suçlarlarsa, de: “Benim işlerim bana, sizin işleriniz size. Siz benim yaptığımdan uzaksınız ve ben sizin yaptığınızdan uzağım.”
+**10:41** Eğer seni yalan söylemekle suçlarlarsa, de: "Benim işlerim bana, sizin işleriniz size. Siz benim yaptığımdan uzaksınız ve ben sizin yaptığınızdan uzağım."
 
 وَإِن كَذَّبُوكَ فَقُل لِّى عَمَلِى وَلَكُمْ عَمَلُكُمْ ۖ أَنتُم بَرِيٓـُٔونَ مِمَّآ أَعْمَلُ وَأَنَا۠ بَرِىٓءٌۭ مِّمَّا تَعْمَلُونَ
 
@@ -5896,27 +5896,27 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَلِكُلِّ أُمَّةٍۢ رَّسُولٌۭ ۖ فَإِذَا جَآءَ رَسُولُهُمْ قُضِىَ بَيْنَهُم بِٱلْقِسْطِ وَهُمْ لَا يُظْلَمُونَ
 
-**10:48** Ve derler: “Eğer doğru söylüyorsanız, bu söz ne zaman yerine gelecek?”
+**10:48** Ve derler: "Eğer doğru söylüyorsanız, bu söz ne zaman yerine gelecek?"
 
 وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
 
-**10:49** De: “Allah'ın dilediği dışında, kendime zarar ya da yarar verme gücüm yoktur. Her ulusun belirli bir süresi vardır. Sonra, süreleri geldiğinde, onu ne bir saat erteleyebilirler ne de öne alabilirler.”
+**10:49** De: "Allah'ın dilediği dışında, kendime zarar ya da yarar verme gücüm yoktur. Her ulusun belirli bir süresi vardır. Sonra, süreleri geldiğinde, onu ne bir saat erteleyebilirler ne de öne alabilirler."
 
 قُل لَّآ أَمْلِكُ لِنَفْسِى ضَرًّۭا وَلَا نَفْعًا إِلَّا مَا شَآءَ ٱللَّهُ ۗ لِكُلِّ أُمَّةٍ أَجَلٌ ۚ إِذَا جَآءَ أَجَلُهُمْ فَلَا يَسْتَـْٔخِرُونَ سَاعَةًۭ ۖ وَلَا يَسْتَقْدِمُونَ
 
-**10:50** De: “Düşündünüz mü? Eğer O'nun cezası size gece ya da gündüz yetişirse, suçlular onun hangi kısmını hızlandırmak isteyecekler?”
+**10:50** De: "Düşündünüz mü? Eğer O'nun cezası size gece ya da gündüz yetişirse, suçlular onun hangi kısmını hızlandırmak isteyecekler?"
 
 قُلْ أَرَءَيْتُمْ إِنْ أَتَىٰكُمْ عَذَابُهُۥ بَيَٰتًا أَوْ نَهَارًۭا مَّاذَا يَسْتَعْجِلُ مِنْهُ ٱلْمُجْرِمُونَ
 
-**10:51** “Sonra, o düştüğünde, ona inanacak mısınız? Şimdi mi? Oysa daha önce onu hızlandırmaya çalışıyordunuz?”
+**10:51** "Sonra, o düştüğünde, ona inanacak mısınız? Şimdi mi? Oysa daha önce onu hızlandırmaya çalışıyordunuz?"
 
 أَثُمَّ إِذَا مَا وَقَعَ ءَامَنتُم بِهِۦٓ ۚ ءَآلْـَٰٔنَ وَقَدْ كُنتُم بِهِۦ تَسْتَعْجِلُونَ
 
-**10:52** Sonra haksızlık edenlere denecek: “Sonsuzluk azabını tadın. Yaptıklarınızdan başka bir şeyle mi ödüllendirileceksiniz?”
+**10:52** Sonra haksızlık edenlere denecek: "Sonsuzluk azabını tadın. Yaptıklarınızdan başka bir şeyle mi ödüllendirileceksiniz?"
 
 ثُمَّ قِيلَ لِلَّذِينَ ظَلَمُوا۟ ذُوقُوا۟ عَذَابَ ٱلْخُلْدِ هَلْ تُجْزَوْنَ إِلَّا بِمَا كُنتُمْ تَكْسِبُونَ
 
-**10:53** Ve sana sorarlar: “Bu gerçek mi?” De: “Evet, Rabbime yemin olsun, bu gerçektir ve ondan kaçamazsınız.”
+**10:53** Ve sana sorarlar: "Bu gerçek mi?" De: "Evet, Rabbime yemin olsun, bu gerçektir ve ondan kaçamazsınız."
 
 ۞ وَيَسْتَنۢبِـُٔونَكَ أَحَقٌّ هُوَ ۖ قُلْ إِى وَرَبِّىٓ إِنَّهُۥ لَحَقٌّۭ ۖ وَمَآ أَنتُم بِمُعْجِزِينَ
 
@@ -5936,11 +5936,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَتْكُم مَّوْعِظَةٌۭ مِّن رَّبِّكُمْ وَشِفَآءٌۭ لِّمَا فِى ٱلصُّدُورِ وَهُدًۭى وَرَحْمَةٌۭ لِّلْمُؤْمِنِينَ
 
-**10:58** De: “Allah'ın lütfu ve merhametiyle sevinsinler. Bu, biriktirdiklerinden daha iyidir.”
+**10:58** De: "Allah'ın lütfu ve merhametiyle sevinsinler. Bu, biriktirdiklerinden daha iyidir."
 
 قُلْ بِفَضْلِ ٱللَّهِ وَبِرَحْمَتِهِۦ فَبِذَٰلِكَ فَلْيَفْرَحُوا۟ هُوَ خَيْرٌۭ مِّمَّا يَجْمَعُونَ
 
-**10:59** De: “Allah'ın size indirdiği, bir kısmını haram, bir kısmını helal yaptığınız rızkı düşündünüz mü?” De: “Allah size izin mi verdi, yoksa Allah hakkında yalanlar uydurup O'na mı bağlıyorsunuz?”
+**10:59** De: "Allah'ın size indirdiği, bir kısmını haram, bir kısmını helal yaptığınız rızkı düşündünüz mü?" De: "Allah size izin mi verdi, yoksa Allah hakkında yalanlar uydurup O'na mı bağlıyorsunuz?"
 
 قُلْ أَرَءَيْتُم مَّآ أَنزَلَ ٱللَّهُ لَكُم مِّن رِّزْقٍۢ فَجَعَلْتُم مِّنْهُ حَرَامًۭا وَحَلَٰلًۭا قُلْ ءَآللَّهُ أَذِنَ لَكُمْ ۖ أَمْ عَلَى ٱللَّهِ تَفْتَرُونَ
 
@@ -5976,11 +5976,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِتَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَسْمَعُونَ
 
-**10:68** Ve dediler: “Allah bir oğul edindi.” O yücedir. O Kendine Yeterlidir. Göklerdeki her şey ve yerdeki her şey O'nundur. Bunun için herhangi bir kanıtınız var mı? Yoksa Allah hakkında bilmediğiniz bir şeyi mi söylüyorsunuz?
+**10:68** Ve dediler: "Allah bir oğul edindi." O yücedir. O Kendine Yeterlidir. Göklerdeki her şey ve yerdeki her şey O'nundur. Bunun için herhangi bir kanıtınız var mı? Yoksa Allah hakkında bilmediğiniz bir şeyi mi söylüyorsunuz?
 
 قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًۭا ۗ سُبْحَٰنَهُۥ ۖ هُوَ ٱلْغَنِىُّ ۖ لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ إِنْ عِندَكُم مِّن سُلْطَٰنٍۭ بِهَٰذَآ ۚ أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ
 
-**10:69** De: “Allah hakkında yalan uyduranlar başarılı olmayacaktır.”
+**10:69** De: "Allah hakkında yalan uyduranlar başarılı olmayacaktır."
 
 قُلْ إِنَّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ لَا يُفْلِحُونَ
 
@@ -5988,11 +5988,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 مَتَٰعٌۭ فِى ٱلدُّنْيَا ثُمَّ إِلَيْنَا مَرْجِعُهُمْ ثُمَّ نُذِيقُهُمُ ٱلْعَذَابَ ٱلشَّدِيدَ بِمَا كَانُوا۟ يَكْفُرُونَ
 
-**10:71** Ve onlara Nûh'un hikâyesini anlat; halkına dediğinde: “Ey halkım, eğer aranızdaki varlığım ve Allah'ın ayetlerini hatırlatmam size çok ağır geliyorsa, güvenimi Allah'a bağladım. Öyleyse siz ve ortaklarınız bir karara gelin ve bu konu sizi şaşırtmasın; sonra kararınızı bana uygulayın ve geri durmayın.”
+**10:71** Ve onlara Nûh'un hikâyesini anlat; halkına dediğinde: "Ey halkım, eğer aranızdaki varlığım ve Allah'ın ayetlerini hatırlatmam size çok ağır geliyorsa, güvenimi Allah'a bağladım. Öyleyse siz ve ortaklarınız bir karara gelin ve bu konu sizi şaşırtmasın; sonra kararınızı bana uygulayın ve geri durmayın."
 
 ۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ نُوحٍ إِذْ قَالَ لِقَوْمِهِۦ يَٰقَوْمِ إِن كَانَ كَبُرَ عَلَيْكُم مَّقَامِى وَتَذْكِيرِى بِـَٔايَٰتِ ٱللَّهِ فَعَلَى ٱللَّهِ تَوَكَّلْتُ فَأَجْمِعُوٓا۟ أَمْرَكُمْ وَشُرَكَآءَكُمْ ثُمَّ لَا يَكُنْ أَمْرُكُمْ عَلَيْكُمْ غُمَّةًۭ ثُمَّ ٱقْضُوٓا۟ إِلَىَّ وَلَا تُنظِرُونِ
 
-**10:72** “Ama eğer yüz çevirirseniz, sizden herhangi bir ücret istemedim. Ücretim yalnızca Allah'a düşer ve boyun eğenlerden olmakla emrolundum.”
+**10:72** "Ama eğer yüz çevirirseniz, sizden herhangi bir ücret istemedim. Ücretim yalnızca Allah'a düşer ve boyun eğenlerden olmakla emrolundum."
 
 فَإِن تَوَلَّيْتُمْ فَمَا سَأَلْتُكُم مِّنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ ۖ وَأُمِرْتُ أَنْ أَكُونَ مِنَ ٱلْمُسْلِمِينَ
 
@@ -6008,31 +6008,31 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ
 
-**10:76** Ve hak onlara Bizden geldiğinde, dediler: “Bu açıkça büyücülüktür.”
+**10:76** Ve hak onlara Bizden geldiğinde, dediler: "Bu açıkça büyücülüktür."
 
 فَلَمَّا جَآءَهُمُ ٱلْحَقُّ مِنْ عِندِنَا قَالُوٓا۟ إِنَّ هَٰذَا لَسِحْرٌۭ مُّبِينٌۭ
 
-**10:77** Mûsâ dedi: “Hak size geldiğinde onun hakkında böyle mi söylüyorsunuz? Bu büyücülük müdür? Büyücüler başarılı olmaz.”
+**10:77** Mûsâ dedi: "Hak size geldiğinde onun hakkında böyle mi söylüyorsunuz? Bu büyücülük müdür? Büyücüler başarılı olmaz."
 
 قَالَ مُوسَىٰٓ أَتَقُولُونَ لِلْحَقِّ لَمَّا جَآءَكُمْ ۖ أَسِحْرٌ هَٰذَا وَلَا يُفْلِحُ ٱلسَّٰحِرُونَ
 
-**10:78** Dediler: “Atalarımızın izlediğini bulduğumuz şeyden bizi çevirmek ve ülkede öne çıkmanız için mi bize geldiniz? Size asla inanmayacağız.”
+**10:78** Dediler: "Atalarımızın izlediğini bulduğumuz şeyden bizi çevirmek ve ülkede öne çıkmanız için mi bize geldiniz? Size asla inanmayacağız."
 
 قَالُوٓا۟ أَجِئْتَنَا لِتَلْفِتَنَا عَمَّا وَجَدْنَا عَلَيْهِ ءَابَآءَنَا وَتَكُونَ لَكُمَا ٱلْكِبْرِيَآءُ فِى ٱلْأَرْضِ وَمَا نَحْنُ لَكُمَا بِمُؤْمِنِينَ
 
-**10:79** Firavun dedi: “Bana her deneyimli büyücüyü getirin.”
+**10:79** Firavun dedi: "Bana her deneyimli büyücüyü getirin."
 
 وَقَالَ فِرْعَوْنُ ٱئْتُونِى بِكُلِّ سَٰحِرٍ عَلِيمٍۢ
 
-**10:80** Büyücüler geldiğinde, Mûsâ onlara dedi: “Atacağınız her şeyi atın.”
+**10:80** Büyücüler geldiğinde, Mûsâ onlara dedi: "Atacağınız her şeyi atın."
 
 فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ
 
-**10:81** Ve attıklarında, Mûsâ dedi: “Ürettiğiniz şey büyücülüktür ve Allah onu boşa çıkaracaktır. Allah bozguncuların çabalarını desteklemez.”
+**10:81** Ve attıklarında, Mûsâ dedi: "Ürettiğiniz şey büyücülüktür ve Allah onu boşa çıkaracaktır. Allah bozguncuların çabalarını desteklemez."
 
 فَلَمَّآ أَلْقَوْا۟ قَالَ مُوسَىٰ مَا جِئْتُم بِهِ ٱلسِّحْرُ ۖ إِنَّ ٱللَّهَ سَيُبْطِلُهُۥٓ ۖ إِنَّ ٱللَّهَ لَا يُصْلِحُ عَمَلَ ٱلْمُفْسِدِينَ
 
-**10:82** “Ve Allah, günahkârlar nefret etse bile, sözleriyle hakkı ayakta tutar.”
+**10:82** "Ve Allah, günahkârlar nefret etse bile, sözleriyle hakkı ayakta tutar."
 
 وَيُحِقُّ ٱللَّهُ ٱلْحَقَّ بِكَلِمَٰتِهِۦ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ
 
@@ -6040,31 +6040,31 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَمَآ ءَامَنَ لِمُوسَىٰٓ إِلَّا ذُرِّيَّةٌۭ مِّن قَوْمِهِۦ عَلَىٰ خَوْفٍۢ مِّن فِرْعَوْنَ وَمَلَإِي۟هِمْ أَن يَفْتِنَهُمْ ۚ وَإِنَّ فِرْعَوْنَ لَعَالٍۢ فِى ٱلْأَرْضِ وَإِنَّهُۥ لَمِنَ ٱلْمُسْرِفِينَ
 
-**10:84** Mûsâ dedi: “Ey halkım, eğer Allah'a inandıysanız, boyun eğdiyseniz güveninizi O'na bağlayın.”
+**10:84** Mûsâ dedi: "Ey halkım, eğer Allah'a inandıysanız, boyun eğdiyseniz güveninizi O'na bağlayın."
 
 وَقَالَ مُوسَىٰ يَٰقَوْمِ إِن كُنتُمْ ءَامَنتُم بِٱللَّهِ فَعَلَيْهِ تَوَكَّلُوٓا۟ إِن كُنتُم مُّسْلِمِينَ
 
-**10:85** Dediler: “Güvenimizi Allah'a bağladık. Rabbimiz, bizi zalim halkın kurbanı yapma.”
+**10:85** Dediler: "Güvenimizi Allah'a bağladık. Rabbimiz, bizi zalim halkın kurbanı yapma."
 
 فَقَالُوا۟ عَلَى ٱللَّهِ تَوَكَّلْنَا رَبَّنَا لَا تَجْعَلْنَا فِتْنَةًۭ لِّلْقَوْمِ ٱلظَّٰلِمِينَ
 
-**10:86** “Ve merhametinle bizi inkâr eden halktan kurtar.”
+**10:86** "Ve merhametinle bizi inkâr eden halktan kurtar."
 
 وَنَجِّنَا بِرَحْمَتِكَ مِنَ ٱلْقَوْمِ ٱلْكَٰفِرِينَ
 
-**10:87** Ve Mûsâ'ya ve kardeşine şunu vahyettik: “Halkınızı Mısır'a yerleştirin ve evlerinizi ibadet yerleri yapın, namazı kılın ve iman edenlere müjde verin.”
+**10:87** Ve Mûsâ'ya ve kardeşine şunu vahyettik: "Halkınızı Mısır'a yerleştirin ve evlerinizi ibadet yerleri yapın, namazı kılın ve iman edenlere müjde verin."
 
 وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوْمِكُمَا بِمِصْرَ بُيُوتًۭا وَٱجْعَلُوا۟ بُيُوتَكُمْ قِبْلَةًۭ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ
 
-**10:88** Mûsâ dedi: “Rabbimiz, Firavun'a ve önderlerine dünya hayatında ihtişam ve zenginlik verdin. Rabbimiz, onları Yolundan saptırmaları için. Rabbimiz, onların zenginliğini yok et ve kalplerini sertleştir; acı azabı görünceye kadar inanmayacaklar.”
+**10:88** Mûsâ dedi: "Rabbimiz, Firavun'a ve önderlerine dünya hayatında ihtişam ve zenginlik verdin. Rabbimiz, onları Yolundan saptırmaları için. Rabbimiz, onların zenginliğini yok et ve kalplerini sertleştir; acı azabı görünceye kadar inanmayacaklar."
 
 وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةًۭ وَأَمْوَٰلًۭا فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ ۖ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
 
-**10:89** O dedi: “Duanız kabul edildi; öyleyse dosdoğru gidin ve bilmeyenlerin yolunu izlemeyin.”
+**10:89** O dedi: "Duanız kabul edildi; öyleyse dosdoğru gidin ve bilmeyenlerin yolunu izlemeyin."
 
 قَالَ قَدْ أُجِيبَت دَّعْوَتُكُمَا فَٱسْتَقِيمَا وَلَا تَتَّبِعَآنِّ سَبِيلَ ٱلَّذِينَ لَا يَعْلَمُونَ
 
-**10:90** Ve İsrailoğulları'nı denizden geçirdik. Firavun ve askerleri onları meydan okuyarak ve saldırganlıkla izlediler. Sonunda, boğulmak üzereyken, dedi: “İsrailoğulları'nın inandığı O'ndan başka tanrı olmadığına inanıyorum ve boyun eğenlerdenim.”
+**10:90** Ve İsrailoğulları'nı denizden geçirdik. Firavun ve askerleri onları meydan okuyarak ve saldırganlıkla izlediler. Sonunda, boğulmak üzereyken, dedi: "İsrailoğulları'nın inandığı O'ndan başka tanrı olmadığına inanıyorum ve boyun eğenlerdenim."
 
 ۞ وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًۭا وَعَدْوًا ۖ حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱلَّذِىٓ ءَامَنَتْ بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ
 
@@ -6108,11 +6108,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَمَا كَانَ لِنَفْسٍ أَن تُؤْمِنَ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَيَجْعَلُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يَعْقِلُونَ
 
-**10:101** De: “Göklerde ve yerde ne olduğuna bakın.” Ama işaretler ve uyarılar inanmayan insanlar için hiçbir yarar sağlamaz.
+**10:101** De: "Göklerde ve yerde ne olduğuna bakın." Ama işaretler ve uyarılar inanmayan insanlar için hiçbir yarar sağlamaz.
 
 قُلِ ٱنظُرُوا۟ مَاذَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَمَا تُغْنِى ٱلْءَايَٰتُ وَٱلنُّذُرُ عَن قَوْمٍۢ لَّا يُؤْمِنُونَ
 
-**10:102** Onlardan önce geçenlerin günlerinin benzerlerinden başka bir şey mi bekliyorlar? De: “Öyleyse bekleyin, ben de sizinle bekleyeceğim.”
+**10:102** Onlardan önce geçenlerin günlerinin benzerlerinden başka bir şey mi bekliyorlar? De: "Öyleyse bekleyin, ben de sizinle bekleyeceğim."
 
 فَهَلْ يَنتَظِرُونَ إِلَّا مِثْلَ أَيَّامِ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِهِمْ ۚ قُلْ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ
 
@@ -6120,7 +6120,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ثُمَّ نُنَجِّى رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟ ۚ كَذَٰلِكَ حَقًّا عَلَيْنَا نُنجِ ٱلْمُؤْمِنِينَ
 
-**10:104** De: “Ey insanlar, eğer dinimden şüphedeyseniz — Allah'tan başka kulluk ettiklerinize kulluk etmem. Ama hayatlarınızı sona erdirecek olan Allah'a kulluk ederim. Ve iman edenlerden olmakla emrolundum.”
+**10:104** De: "Ey insanlar, eğer dinimden şüphedeyseniz — Allah'tan başka kulluk ettiklerinize kulluk etmem. Ama hayatlarınızı sona erdirecek olan Allah'a kulluk ederim. Ve iman edenlerden olmakla emrolundum."
 
 قُلْ يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمْ فِى شَكٍّۢ مِّن دِينِى فَلَآ أَعْبُدُ ٱلَّذِينَ تَعْبُدُونَ مِن دُونِ ٱللَّهِ وَلَٰكِنْ أَعْبُدُ ٱللَّهَ ٱلَّذِى يَتَوَفَّىٰكُمْ ۖ وَأُمِرْتُ أَنْ أَكُونَ مِنَ ٱلْمُؤْمِنِينَ
 
@@ -6136,7 +6136,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَإِن يَمْسَسْكَ ٱللَّهُ بِضُرٍّۢ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَ ۖ وَإِن يُرِدْكَ بِخَيْرٍۢ فَلَا رَآدَّ لِفَضْلِهِۦ ۚ يُصِيبُ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۚ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
-**10:108** De: “Ey insanlar, hak size Rabbinizden geldi. Kim hidayeti kabul ederse, kendi ruhu için yönlendirilir; ve kim saparsa, yalnızca onun zararına sapar. Ben sizin üzerinizde bir koruyucu değilim.”
+**10:108** De: "Ey insanlar, hak size Rabbinizden geldi. Kim hidayeti kabul ederse, kendi ruhu için yönlendirilir; ve kim saparsa, yalnızca onun zararına sapar. Ben sizin üzerinizde bir koruyucu değilim."
 
 قُلْ يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُمُ ٱلْحَقُّ مِن رَّبِّكُمْ ۖ فَمَنِ ٱهْتَدَىٰ فَإِنَّمَا يَهْتَدِى لِنَفْسِهِۦ ۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۖ وَمَآ أَنَا۠ عَلَيْكُم بِوَكِيلٍۢ
 
@@ -6160,15 +6160,15 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 الٓر ۚ كِتَٰبٌ أُحْكِمَتْ ءَايَٰتُهُۥ ثُمَّ فُصِّلَتْ مِن لَّدُنْ حَكِيمٍ خَبِيرٍ
 
-**11:2** Allah'tan başkasına kulluk etmeyeceksiniz. “Ben O'ndan size bir uyarıcı ve müjdeciyim.”
+**11:2** Allah'tan başkasına kulluk etmeyeceksiniz. "Ben O'ndan size bir uyarıcı ve müjdeciyim."
 
 أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ ۚ إِنَّنِى لَكُم مِّنْهُ نَذِيرٌۭ وَبَشِيرٌۭ
 
-**11:3** “Rabbinizden bağışlanma dileyin ve O'na dönün. O, belli bir süreye kadar size güzel geçim verir ve her erdem sahibine lütfunu verir. Ama yüz çevirirseniz, büyük bir günün azabından sizin için korkarım.”
+**11:3** "Rabbinizden bağışlanma dileyin ve O'na dönün. O, belli bir süreye kadar size güzel geçim verir ve her erdem sahibine lütfunu verir. Ama yüz çevirirseniz, büyük bir günün azabından sizin için korkarım."
 
 وَأَنِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُمَتِّعْكُم مَّتَٰعًا حَسَنًا إِلَىٰٓ أَجَلٍۢ مُّسَمًّۭى وَيُؤْتِ كُلَّ ذِى فَضْلٍۢ فَضْلَهُۥ ۖ وَإِن تَوَلَّوْا۟ فَإِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍۢ كَبِيرٍ
 
-**11:4** “Dönüşünüz Allah'adır ve O her şeye kadirdir.”
+**11:4** "Dönüşünüz Allah'adır ve O her şeye kadirdir."
 
 إِلَى ٱللَّهِ مَرْجِعُكُمْ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ
 
@@ -6180,11 +6180,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ۞ وَمَا مِن دَآبَّةٍۢ فِى ٱلْأَرْضِ إِلَّا عَلَى ٱللَّهِ رِزْقُهَا وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا ۚ كُلٌّۭ فِى كِتَٰبٍۢ مُّبِينٍۢ
 
-**11:7** Gökleri ve yeri altı günde yaratan O'dur — Arşı sular üzerindeydi — hanginizin davranışça daha iyi olduğunu denemek için. “Ölümden sonra diriltileceksiniz” dersen, inkâr edenler, “Bu apaçık büyüden başka bir şey değildir” derler.
+**11:7** Gökleri ve yeri altı günde yaratan O'dur — Arşı sular üzerindeydi — hanginizin davranışça daha iyi olduğunu denemek için. "Ölümden sonra diriltileceksiniz" dersen, inkâr edenler, "Bu apaçık büyüden başka bir şey değildir" derler.
 
 وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍۢ وَكَانَ عَرْشُهُۥ عَلَى ٱلْمَآءِ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًۭا ۗ وَلَئِن قُلْتَ إِنَّكُم مَّبْعُوثُونَ مِنۢ بَعْدِ ٱلْمَوْتِ لَيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌۭ
 
-**11:8** Azaplarını belli bir zamana kadar ertelesek, “Onu alıkoyan nedir?” derler. Ona ulaştığı gün, ondan çevrilemez ve alay ettikleri şey onları kuşatır.
+**11:8** Azaplarını belli bir zamana kadar ertelesek, "Onu alıkoyan nedir?" derler. Ona ulaştığı gün, ondan çevrilemez ve alay ettikleri şey onları kuşatır.
 
 وَلَئِنْ أَخَّرْنَا عَنْهُمُ ٱلْعَذَابَ إِلَىٰٓ أُمَّةٍۢ مَّعْدُودَةٍۢ لَّيَقُولُنَّ مَا يَحْبِسُهُۥٓ ۗ أَلَا يَوْمَ يَأْتِيهِمْ لَيْسَ مَصْرُوفًا عَنْهُمْ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
@@ -6192,7 +6192,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَلَئِنْ أَذَقْنَا ٱلْإِنسَٰنَ مِنَّا رَحْمَةًۭ ثُمَّ نَزَعْنَٰهَا مِنْهُ إِنَّهُۥ لَيَـُٔوسٌۭ كَفُورٌۭ
 
-**11:10** Ona bir sıkıntı dokunduktan sonra bir bolluk tattırırsak, “Sıkıntılar benden gitti” der. Sevinçli ve gururlu olur.
+**11:10** Ona bir sıkıntı dokunduktan sonra bir bolluk tattırırsak, "Sıkıntılar benden gitti" der. Sevinçli ve gururlu olur.
 
 وَلَئِنْ أَذَقْنَٰهُ نَعْمَآءَ بَعْدَ ضَرَّآءَ مَسَّتْهُ لَيَقُولَنَّ ذَهَبَ ٱلسَّيِّـَٔاتُ عَنِّىٓ ۚ إِنَّهُۥ لَفَرِحٌۭ فَخُورٌ
 
@@ -6200,11 +6200,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِلَّا ٱلَّذِينَ صَبَرُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أُو۟لَٰٓئِكَ لَهُم مَّغْفِرَةٌۭ وَأَجْرٌۭ كَبِيرٌۭ
 
-**11:12** Belki sana vahyedilenden bir kısmını bırakmak istersin ve “Ona bir hazine indirilseydi ya da onunla bir melek gelseydi” demeleri yüzünden sıkıntı duyarsın. Sen ancak bir uyarıcısın ve her şeyden Allah sorumludur.
+**11:12** Belki sana vahyedilenden bir kısmını bırakmak istersin ve "Ona bir hazine indirilseydi ya da onunla bir melek gelseydi" demeleri yüzünden sıkıntı duyarsın. Sen ancak bir uyarıcısın ve her şeyden Allah sorumludur.
 
 فَلَعَلَّكَ تَارِكٌۢ بَعْضَ مَا يُوحَىٰٓ إِلَيْكَ وَضَآئِقٌۢ بِهِۦ صَدْرُكَ أَن يَقُولُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ كَنزٌ أَوْ جَآءَ مَعَهُۥ مَلَكٌ ۚ إِنَّمَآ أَنتَ نَذِيرٌۭ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ وَكِيلٌ
 
-**11:13** Yoksa “Onu uydurdu” mu diyorlar? De ki: “Doğruysanız, uydurulmuş on sûre getirin onun gibisini ve Allah'tan başka çağırabildiğiniz herkesi çağırın.”
+**11:13** Yoksa "Onu uydurdu" mu diyorlar? De ki: "Doğruysanız, uydurulmuş on sûre getirin onun gibisini ve Allah'tan başka çağırabildiğiniz herkesi çağırın."
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِعَشْرِ سُوَرٍۢ مِّثْلِهِۦ مُفْتَرَيَٰتٍۢ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -6224,7 +6224,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّهِۦ وَيَتْلُوهُ شَاهِدٌۭ مِّنْهُ وَمِن قَبْلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامًۭا وَرَحْمَةً ۚ أُو۟لَٰٓئِكَ يُؤْمِنُونَ بِهِۦ ۚ وَمَن يَكْفُرْ بِهِۦ مِنَ ٱلْأَحْزَابِ فَٱلنَّارُ مَوْعِدُهُۥ ۚ فَلَا تَكُ فِى مِرْيَةٍۢ مِّنْهُ ۚ إِنَّهُ ٱلْحَقُّ مِن رَّبِّكَ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ
 
-**11:18** Allah hakkında yalan uydurandan daha zalim kimdir? Onlar Rablerinin önüne sunulur ve şahitler, “Bunlar Rableri hakkında yalan söyleyenlerdir” der. Allah'ın laneti gerçekten zalimlerin üzerinedir.
+**11:18** Allah hakkında yalan uydurandan daha zalim kimdir? Onlar Rablerinin önüne sunulur ve şahitler, "Bunlar Rableri hakkında yalan söyleyenlerdir" der. Allah'ın laneti gerçekten zalimlerin üzerinedir.
 
 وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا ۚ أُو۟لَٰٓئِكَ يُعْرَضُونَ عَلَىٰ رَبِّهِمْ وَيَقُولُ ٱلْأَشْهَٰدُ هَٰٓؤُلَآءِ ٱلَّذِينَ كَذَبُوا۟ عَلَىٰ رَبِّهِمْ ۚ أَلَا لَعْنَةُ ٱللَّهِ عَلَى ٱلظَّٰلِمِينَ
 
@@ -6252,99 +6252,99 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ۞ مَثَلُ ٱلْفَرِيقَيْنِ كَٱلْأَعْمَىٰ وَٱلْأَصَمِّ وَٱلْبَصِيرِ وَٱلسَّمِيعِ ۚ هَلْ يَسْتَوِيَانِ مَثَلًا ۚ أَفَلَا تَذَكَّرُونَ
 
-**11:25** Nûh'u halkına gönderdik: “Ben size açık bir uyarıcıyım.”
+**11:25** Nûh'u halkına gönderdik: "Ben size açık bir uyarıcıyım."
 
 وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ
 
-**11:26** “Allah'tan başkasına kulluk etmeyin. Sizin için acı bir günün azabından korkarım.”
+**11:26** "Allah'tan başkasına kulluk etmeyin. Sizin için acı bir günün azabından korkarım."
 
 أَن لَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ ۖ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ أَلِيمٍۢ
 
-**11:27** Halkından inkâr eden ileri gelenler dedi: “Sende bizden bir insandan başka bir şey görmüyoruz ve sana ancak en kötülerimizin, olgunlaşmamış yargıyla izlediğini görüyoruz. Bize bir üstünlüğün olduğunu da görmüyoruz. Aslında yalancı olduğunuzu düşünüyoruz.”
+**11:27** Halkından inkâr eden ileri gelenler dedi: "Sende bizden bir insandan başka bir şey görmüyoruz ve sana ancak en kötülerimizin, olgunlaşmamış yargıyla izlediğini görüyoruz. Bize bir üstünlüğün olduğunu da görmüyoruz. Aslında yalancı olduğunuzu düşünüyoruz."
 
 فَقَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا نَرَىٰكَ إِلَّا بَشَرًۭا مِّثْلَنَا وَمَا نَرَىٰكَ ٱتَّبَعَكَ إِلَّا ٱلَّذِينَ هُمْ أَرَاذِلُنَا بَادِىَ ٱلرَّأْىِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِن فَضْلٍۭ بَلْ نَظُنُّكُمْ كَٰذِبِينَ
 
-**11:28** Dedi: “Ey halkım, düşündünüz mü? Rabbimden açık delile dayanıyorsam ve O bana kendinden bir rahmet vermişse ama siz ona körseniz, hoşlanmasanız da sizi onu kabule zorlayabilir miyiz?”
+**11:28** Dedi: "Ey halkım, düşündünüz mü? Rabbimden açık delile dayanıyorsam ve O bana kendinden bir rahmet vermişse ama siz ona körseniz, hoşlanmasanız da sizi onu kabule zorlayabilir miyiz?"
 
 قَالَ يَٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَءَاتَىٰنِى رَحْمَةًۭ مِّنْ عِندِهِۦ فَعُمِّيَتْ عَلَيْكُمْ أَنُلْزِمُكُمُوهَا وَأَنتُمْ لَهَا كَٰرِهُونَ
 
-**11:29** “Ey halkım! Bunun için sizden para istemiyorum. Ödülüm ancak Allah'a aittir. İnananları kovacak değilim; onlar Rableriyle mutlaka karşılaşacak. Ve sizi cahil bir halk olarak görüyorum.”
+**11:29** "Ey halkım! Bunun için sizden para istemiyorum. Ödülüm ancak Allah'a aittir. İnananları kovacak değilim; onlar Rableriyle mutlaka karşılaşacak. Ve sizi cahil bir halk olarak görüyorum."
 
 وَيَٰقَوْمِ لَآ أَسْـَٔلُكُمْ عَلَيْهِ مَالًا ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ ۚ وَمَآ أَنَا۠ بِطَارِدِ ٱلَّذِينَ ءَامَنُوٓا۟ ۚ إِنَّهُم مُّلَٰقُوا۟ رَبِّهِمْ وَلَٰكِنِّىٓ أَرَىٰكُمْ قَوْمًۭا تَجْهَلُونَ
 
-**11:30** “Ey halkım! Onları kovarsam, Allah'a karşı bana kim yardım eder? Düşünmeyecek misiniz?”
+**11:30** "Ey halkım! Onları kovarsam, Allah'a karşı bana kim yardım eder? Düşünmeyecek misiniz?"
 
 وَيَٰقَوْمِ مَن يَنصُرُنِى مِنَ ٱللَّهِ إِن طَرَدتُّهُمْ ۚ أَفَلَا تَذَكَّرُونَ
 
-**11:31** “Size Allah'ın hazinelerini elimde bulundurduğumu söylemiyorum, geleceği de bilmem, melek olduğumu da söylemem. Gözünüzde aşağılık olanlara Allah'ın asla bir iyilik vermeyeceğini de söylemem. Allah onların canlarında olanı bilir. Öyle yapsaydım zalimlerden olurdum.”
+**11:31** "Size Allah'ın hazinelerini elimde bulundurduğumu söylemiyorum, geleceği de bilmem, melek olduğumu da söylemem. Gözünüzde aşağılık olanlara Allah'ın asla bir iyilik vermeyeceğini de söylemem. Allah onların canlarında olanı bilir. Öyle yapsaydım zalimlerden olurdum."
 
 وَلَآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ وَلَآ أَقُولُ إِنِّى مَلَكٌۭ وَلَآ أَقُولُ لِلَّذِينَ تَزْدَرِىٓ أَعْيُنُكُمْ لَن يُؤْتِيَهُمُ ٱللَّهُ خَيْرًا ۖ ٱللَّهُ أَعْلَمُ بِمَا فِىٓ أَنفُسِهِمْ ۖ إِنِّىٓ إِذًۭا لَّمِنَ ٱلظَّٰلِمِينَ
 
-**11:32** Dediler: “Ey Nûh, bizimle tartıştın ve çok tartıştın. Doğruysan, bizi tehdit ettiğin şeyi getir.”
+**11:32** Dediler: "Ey Nûh, bizimle tartıştın ve çok tartıştın. Doğruysan, bizi tehdit ettiğin şeyi getir."
 
 قَالُوا۟ يَٰنُوحُ قَدْ جَٰدَلْتَنَا فَأَكْثَرْتَ جِدَٰلَنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
 
-**11:33** Dedi: “Onu size ancak Allah dilerse getirir ve kaçamazsınız.”
+**11:33** Dedi: "Onu size ancak Allah dilerse getirir ve kaçamazsınız."
 
 قَالَ إِنَّمَا يَأْتِيكُم بِهِ ٱللَّهُ إِن شَآءَ وَمَآ أَنتُم بِمُعْجِزِينَ
 
-**11:34** “Öğüt vermek istesem de, Allah sizi şaşırtmak dilerse öğüdüm size fayda vermez. O Rabbinizdir ve O'na döndürüleceksiniz.”
+**11:34** "Öğüt vermek istesem de, Allah sizi şaşırtmak dilerse öğüdüm size fayda vermez. O Rabbinizdir ve O'na döndürüleceksiniz."
 
 وَلَا يَنفَعُكُمْ نُصْحِىٓ إِنْ أَرَدتُّ أَنْ أَنصَحَ لَكُمْ إِن كَانَ ٱللَّهُ يُرِيدُ أَن يُغْوِيَكُمْ ۚ هُوَ رَبُّكُمْ وَإِلَيْهِ تُرْجَعُونَ
 
-**11:35** Yoksa “Onu uydurdu” mu diyorlar? De ki: “Onu uydurduysam, suçum bana aittir ve sizin işlediğiniz suçlardan ben masumum.”
+**11:35** Yoksa "Onu uydurdu" mu diyorlar? De ki: "Onu uydurduysam, suçum bana aittir ve sizin işlediğiniz suçlardan ben masumum."
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَعَلَىَّ إِجْرَامِى وَأَنَا۠ بَرِىٓءٌۭ مِّمَّا تُجْرِمُونَ
 
-**11:36** Nûh'a vahyolundu: “Halkından, zaten inanmış olanlar dışında kimse inanmayacak, yaptıklarına üzülme.”
+**11:36** Nûh'a vahyolundu: "Halkından, zaten inanmış olanlar dışında kimse inanmayacak, yaptıklarına üzülme."
 
 وَأُوحِىَ إِلَىٰ نُوحٍ أَنَّهُۥ لَن يُؤْمِنَ مِن قَوْمِكَ إِلَّا مَن قَدْ ءَامَنَ فَلَا تَبْتَئِسْ بِمَا كَانُوا۟ يَفْعَلُونَ
 
-**11:37** “Gemiyi gözlerimiz önünde ve vahyimizle yap ve haksızlık edenler hakkında Bana seslenme; onlar boğulacak.”
+**11:37** "Gemiyi gözlerimiz önünde ve vahyimizle yap ve haksızlık edenler hakkında Bana seslenme; onlar boğulacak."
 
 وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ ۚ إِنَّهُم مُّغْرَقُونَ
 
-**11:38** Gemiyi yaparken, halkından yanından geçenler onunla alay etti. Dedi: “Bizimle alay ederseniz, sizin alay ettiğiniz gibi biz de sizinle alay edeceğiz.”
+**11:38** Gemiyi yaparken, halkından yanından geçenler onunla alay etti. Dedi: "Bizimle alay ederseniz, sizin alay ettiğiniz gibi biz de sizinle alay edeceğiz."
 
 وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌۭ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ ۚ قَالَ إِن تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ
 
-**11:39** “Kime alçaltıcı azabın geleceğini ve kime kalıcı azabın düşeceğini mutlaka bileceksiniz.”
+**11:39** "Kime alçaltıcı azabın geleceğini ve kime kalıcı azabın düşeceğini mutlaka bileceksiniz."
 
 فَسَوْفَ تَعْلَمُونَ مَن يَأْتِيهِ عَذَابٌۭ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌۭ مُّقِيمٌ
 
-**11:40** Emrimiz gelince ve yanardağ patlayınca, “Her türden bir çifti, aleyhine hüküm zaten verilmiş olanlar dışında aileni ve inananları ona bindir” dedik. Ama onunla inananlar azdı.
+**11:40** Emrimiz gelince ve yanardağ patlayınca, "Her türden bir çifti, aleyhine hüküm zaten verilmiş olanlar dışında aileni ve inananları ona bindir" dedik. Ama onunla inananlar azdı.
 
 حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّۢ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ ۚ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا قَلِيلٌۭ
 
-**11:41** Dedi: “Ona binin. Allah'ın adıyla onun yüzüşü ve demir atışı. Rabbim gerçekten Bağışlayan ve Merhametlidir.”
+**11:41** Dedi: "Ona binin. Allah'ın adıyla onun yüzüşü ve demir atışı. Rabbim gerçekten Bağışlayan ve Merhametlidir."
 
 ۞ وَقَالَ ٱرْكَبُوا۟ فِيهَا بِسْمِ ٱللَّهِ مَجْر۪ىٰهَا وَمُرْسَىٰهَآ ۚ إِنَّ رَبِّى لَغَفُورٌۭ رَّحِيمٌۭ
 
-**11:42** Böylece dağlar gibi dalgalar arasında onlarla yüzdü. Nûh, uzak duran oğluna seslendi: “Ey oğlum! Bizimle bin ve inkâr edenlerle olma.”
+**11:42** Böylece dağlar gibi dalgalar arasında onlarla yüzdü. Nûh, uzak duran oğluna seslendi: "Ey oğlum! Bizimle bin ve inkâr edenlerle olma."
 
 وَهِىَ تَجْرِى بِهِمْ فِى مَوْجٍۢ كَٱلْجِبَالِ وَنَادَىٰ نُوحٌ ٱبْنَهُۥ وَكَانَ فِى مَعْزِلٍۢ يَٰبُنَىَّ ٱرْكَب مَّعَنَا وَلَا تَكُن مَّعَ ٱلْكَٰفِرِينَ
 
-**11:43** Dedi: “Bir dağa sığınacağım — beni sudan korur.” Dedi: “Bugün Allah'ın hükmünden koruyucu yoktur, O'nun rahmet ettiği dışında.” Dalgalar aralarına girdi ve boğulanlardan oldu.
+**11:43** Dedi: "Bir dağa sığınacağım — beni sudan korur." Dedi: "Bugün Allah'ın hükmünden koruyucu yoktur, O'nun rahmet ettiği dışında." Dalgalar aralarına girdi ve boğulanlardan oldu.
 
 قَالَ سَـَٔاوِىٓ إِلَىٰ جَبَلٍۢ يَعْصِمُنِى مِنَ ٱلْمَآءِ ۚ قَالَ لَا عَاصِمَ ٱلْيَوْمَ مِنْ أَمْرِ ٱللَّهِ إِلَّا مَن رَّحِمَ ۚ وَحَالَ بَيْنَهُمَا ٱلْمَوْجُ فَكَانَ مِنَ ٱلْمُغْرَقِينَ
 
-**11:44** “Ey yer, sularını yut” ve “Ey gök, açıl” denildi. Sular çekildi, olay sonuçlandı ve Cûdî üzerine oturdu ve “Zalim halk uzak olsun” ilan edildi.
+**11:44** "Ey yer, sularını yut" ve "Ey gök, açıl" denildi. Sular çekildi, olay sonuçlandı ve Cûdî üzerine oturdu ve "Zalim halk uzak olsun" ilan edildi.
 
 وَقِيلَ يَٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ ۖ وَقِيلَ بُعْدًۭا لِّلْقَوْمِ ٱلظَّٰلِمِينَ
 
-**11:45** Nûh Rabbine seslendi. Dedi: “Ey Rabbim, oğlum ailemdendir, vaadin gerçektir ve Sen bilgelerin en bilgesisin.”
+**11:45** Nûh Rabbine seslendi. Dedi: "Ey Rabbim, oğlum ailemdendir, vaadin gerçektir ve Sen bilgelerin en bilgesisin."
 
 وَنَادَىٰ نُوحٌۭ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَٰكِمِينَ
 
-**11:46** Dedi: “Ey Nûh, o ailenden değildir. O haksız bir iştir. Hakkında bilgin olmayan şeyi Benden isteme. Cahillerden olmayasın diye sana öğüt veriyorum.”
+**11:46** Dedi: "Ey Nûh, o ailenden değildir. O haksız bir iştir. Hakkında bilgin olmayan şeyi Benden isteme. Cahillerden olmayasın diye sana öğüt veriyorum."
 
 قَالَ يَٰنُوحُ إِنَّهُۥ لَيْسَ مِنْ أَهْلِكَ ۖ إِنَّهُۥ عَمَلٌ غَيْرُ صَٰلِحٍۢ ۖ فَلَا تَسْـَٔلْنِ مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ ۖ إِنِّىٓ أَعِظُكَ أَن تَكُونَ مِنَ ٱلْجَٰهِلِينَ
 
-**11:47** Dedi: “Ey Rabbim, hakkında bilgim olmayan şeyi Senden istemekten Sana sığınırım. Beni bağışlamaz ve bana rahmet etmezsen, kaybedenlerden olurum.”
+**11:47** Dedi: "Ey Rabbim, hakkında bilgim olmayan şeyi Senden istemekten Sana sığınırım. Beni bağışlamaz ve bana rahmet etmezsen, kaybedenlerden olurum."
 
 قَالَ رَبِّ إِنِّىٓ أَعُوذُ بِكَ أَنْ أَسْـَٔلَكَ مَا لَيْسَ لِى بِهِۦ عِلْمٌۭ ۖ وَإِلَّا تَغْفِرْ لِى وَتَرْحَمْنِىٓ أَكُن مِّنَ ٱلْخَٰسِرِينَ
 
-**11:48** “Ey Nûh, Bizden esenlikle in; sana ve seninle olanlardan topluluklara bereketlerle. Başka topluluklara bolluk vereceğiz, sonra Bizden acı bir azap onlara dokunacak” denildi.
+**11:48** "Ey Nûh, Bizden esenlikle in; sana ve seninle olanlardan topluluklara bereketlerle. Başka topluluklara bolluk vereceğiz, sonra Bizden acı bir azap onlara dokunacak" denildi.
 
 قِيلَ يَٰنُوحُ ٱهْبِطْ بِسَلَٰمٍۢ مِّنَّا وَبَرَكَٰتٍ عَلَيْكَ وَعَلَىٰٓ أُمَمٍۢ مِّمَّن مَّعَكَ ۚ وَأُمَمٌۭ سَنُمَتِّعُهُمْ ثُمَّ يَمَسُّهُم مِّنَّا عَذَابٌ أَلِيمٌۭ
 
@@ -6352,23 +6352,23 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 تِلْكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهَآ إِلَيْكَ ۖ مَا كُنتَ تَعْلَمُهَآ أَنتَ وَلَا قَوْمُكَ مِن قَبْلِ هَٰذَا ۖ فَٱصْبِرْ ۖ إِنَّ ٱلْعَٰقِبَةَ لِلْمُتَّقِينَ
 
-**11:50** Âd'a kardeşleri Hûd'u gönderdik. Dedi: “Ey halkım, Allah'a kulluk edin, O'ndan başka tanrınız yok. Siz yalan uydurmaktan başka bir şey yapmıyorsunuz.”
+**11:50** Âd'a kardeşleri Hûd'u gönderdik. Dedi: "Ey halkım, Allah'a kulluk edin, O'ndan başka tanrınız yok. Siz yalan uydurmaktan başka bir şey yapmıyorsunuz."
 
 وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًۭا ۚ قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥٓ ۖ إِنْ أَنتُمْ إِلَّا مُفْتَرُونَ
 
-**11:51** “Ey halkım, bunun için sizden ücret istemiyorum; ücretim beni yaratana aittir. Anlamıyor musunuz?”
+**11:51** "Ey halkım, bunun için sizden ücret istemiyorum; ücretim beni yaratana aittir. Anlamıyor musunuz?"
 
 يَٰقَوْمِ لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱلَّذِى فَطَرَنِىٓ ۚ أَفَلَا تَعْقِلُونَ
 
-**11:52** “Ey halkım, Rabbinizden bağışlanma dileyin ve O'na dönün. Göğü üzerinize bol bol salar ve gücünüze güç katar. Suçlu olarak yüz çevirmeyin.”
+**11:52** "Ey halkım, Rabbinizden bağışlanma dileyin ve O'na dönün. Göğü üzerinize bol bol salar ve gücünüze güç katar. Suçlu olarak yüz çevirmeyin."
 
 وَيَٰقَوْمِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًۭا وَيَزِدْكُمْ قُوَّةً إِلَىٰ قُوَّتِكُمْ وَلَا تَتَوَلَّوْا۟ مُجْرِمِينَ
 
-**11:53** Dediler: “Ey Hûd, bize bir kanıt getirmedin ve sözünle tanrılarımızı bırakacak değiliz ve sana inanmıyoruz.”
+**11:53** Dediler: "Ey Hûd, bize bir kanıt getirmedin ve sözünle tanrılarımızı bırakacak değiliz ve sana inanmıyoruz."
 
 قَالُوا۟ يَٰهُودُ مَا جِئْتَنَا بِبَيِّنَةٍۢ وَمَا نَحْنُ بِتَارِكِىٓ ءَالِهَتِنَا عَن قَوْلِكَ وَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ
 
-**11:54** “Ancak bazı tanrılarımız sana kötülükle musallat oldu diyoruz.” Dedi: “Allah'ı şahit çağırıyorum, siz de şahit olun ki ortak koştuklarınızdan masumum.
+**11:54** "Ancak bazı tanrılarımız sana kötülükle musallat oldu diyoruz." Dedi: "Allah'ı şahit çağırıyorum, siz de şahit olun ki ortak koştuklarınızdan masumum.
 
 إِن نَّقُولُ إِلَّا ٱعْتَرَىٰكَ بَعْضُ ءَالِهَتِنَا بِسُوٓءٍۢ ۗ قَالَ إِنِّىٓ أُشْهِدُ ٱللَّهَ وَٱشْهَدُوٓا۟ أَنِّى بَرِىٓءٌۭ مِّمَّا تُشْرِكُونَ
 
@@ -6380,7 +6380,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِنِّى تَوَكَّلْتُ عَلَى ٱللَّهِ رَبِّى وَرَبِّكُم ۚ مَّا مِن دَآبَّةٍ إِلَّا هُوَ ءَاخِذٌۢ بِنَاصِيَتِهَآ ۚ إِنَّ رَبِّى عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
 
-**11:57** Yüz çevirirseniz, size kendisiyle gönderildiğimi ilettim; Rabbim sizi başka bir halkla değiştirir ve O'na hiçbir zarar veremezsiniz. Rabbim her şeyin Koruyucusudur.”
+**11:57** Yüz çevirirseniz, size kendisiyle gönderildiğimi ilettim; Rabbim sizi başka bir halkla değiştirir ve O'na hiçbir zarar veremezsiniz. Rabbim her şeyin Koruyucusudur."
 
 فَإِن تَوَلَّوْا۟ فَقَدْ أَبْلَغْتُكُم مَّآ أُرْسِلْتُ بِهِۦٓ إِلَيْكُمْ ۚ وَيَسْتَخْلِفُ رَبِّى قَوْمًا غَيْرَكُمْ وَلَا تَضُرُّونَهُۥ شَيْـًٔا ۚ إِنَّ رَبِّى عَلَىٰ كُلِّ شَىْءٍ حَفِيظٌۭ
 
@@ -6396,23 +6396,23 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَأُتْبِعُوا۟ فِى هَٰذِهِ ٱلدُّنْيَا لَعْنَةًۭ وَيَوْمَ ٱلْقِيَٰمَةِ ۗ أَلَآ إِنَّ عَادًۭا كَفَرُوا۟ رَبَّهُمْ ۗ أَلَا بُعْدًۭا لِّعَادٍۢ قَوْمِ هُودٍۢ
 
-**11:61** Semûd'a kardeşleri Sâlih'i gönderdik. Dedi: “Ey halkım, Allah'a kulluk edin, O'ndan başka tanrınız yok. O sizi yerden başlattı ve sizi orada yerleştirdi. O'nun bağışlamasını dileyin ve O'na dönün. Rabbim Yakın ve Yanıt Verendir.”
+**11:61** Semûd'a kardeşleri Sâlih'i gönderdik. Dedi: "Ey halkım, Allah'a kulluk edin, O'ndan başka tanrınız yok. O sizi yerden başlattı ve sizi orada yerleştirdi. O'nun bağışlamasını dileyin ve O'na dönün. Rabbim Yakın ve Yanıt Verendir."
 
 ۞ وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًۭا ۚ قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ ۖ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟ إِلَيْهِ ۚ إِنَّ رَبِّى قَرِيبٌۭ مُّجِيبٌۭ
 
-**11:62** Dediler: “Ey Sâlih, bundan önce sende umutlarımız vardı. Atalarımızın kulluk ettiğini kulluk etmemizi engellemeye mi çalışıyorsun? Bizi çağırdığın şey hakkında ciddi şüphedeyiz.”
+**11:62** Dediler: "Ey Sâlih, bundan önce sende umutlarımız vardı. Atalarımızın kulluk ettiğini kulluk etmemizi engellemeye mi çalışıyorsun? Bizi çağırdığın şey hakkında ciddi şüphedeyiz."
 
 قَالُوا۟ يَٰصَٰلِحُ قَدْ كُنتَ فِينَا مَرْجُوًّۭا قَبْلَ هَٰذَآ ۖ أَتَنْهَىٰنَآ أَن نَّعْبُدَ مَا يَعْبُدُ ءَابَآؤُنَا وَإِنَّنَا لَفِى شَكٍّۢ مِّمَّا تَدْعُونَآ إِلَيْهِ مُرِيبٍۢ
 
-**11:63** Dedi: “Ey halkım, düşündünüz mü? Rabbimden açık delile dayanıyorsam ve O bana kendinden rahmet vermişse, O'na karşı gelirsem beni Allah'tan kim korur? Bana kayıptan başka bir şey eklemiyorsunuz.”
+**11:63** Dedi: "Ey halkım, düşündünüz mü? Rabbimden açık delile dayanıyorsam ve O bana kendinden rahmet vermişse, O'na karşı gelirsem beni Allah'tan kim korur? Bana kayıptan başka bir şey eklemiyorsunuz."
 
 قَالَ يَٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَءَاتَىٰنِى مِنْهُ رَحْمَةًۭ فَمَن يَنصُرُنِى مِنَ ٱللَّهِ إِنْ عَصَيْتُهُۥ ۖ فَمَا تَزِيدُونَنِى غَيْرَ تَخْسِيرٍۢ
 
-**11:64** “Ey halkım, bu Allah'ın dişi devesidir, sizin için bir işaret. Onu Allah'ın toprağında otlasın bırakın ve ona zarar vermeyin, yoksa yakın bir azap sizi yakalar.”
+**11:64** "Ey halkım, bu Allah'ın dişi devesidir, sizin için bir işaret. Onu Allah'ın toprağında otlasın bırakın ve ona zarar vermeyin, yoksa yakın bir azap sizi yakalar."
 
 وَيَٰقَوْمِ هَٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمْ ءَايَةًۭ فَذَرُوهَا تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ وَلَا تَمَسُّوهَا بِسُوٓءٍۢ فَيَأْخُذَكُمْ عَذَابٌۭ قَرِيبٌۭ
 
-**11:65** Ama onu kestiler ve O dedi: “Evlerinizde üç gün yararlanın. Bu yanılmaz bir kehanettir.”
+**11:65** Ama onu kestiler ve O dedi: "Evlerinizde üç gün yararlanın. Bu yanılmaz bir kehanettir."
 
 فَعَقَرُوهَا فَقَالَ تَمَتَّعُوا۟ فِى دَارِكُمْ ثَلَٰثَةَ أَيَّامٍۢ ۖ ذَٰلِكَ وَعْدٌ غَيْرُ مَكْذُوبٍۢ
 
@@ -6428,11 +6428,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 كَأَن لَّمْ يَغْنَوْا۟ فِيهَآ ۗ أَلَآ إِنَّ ثَمُودَا۟ كَفَرُوا۟ رَبَّهُمْ ۗ أَلَا بُعْدًۭا لِّثَمُودَ
 
-**11:69** Elçilerimiz İbrâhim'e müjdeyle geldi. “Esenlik” dediler. O “Esenlik” dedi. Kısa süre sonra kızarmış bir buzağı getirdi.
+**11:69** Elçilerimiz İbrâhim'e müjdeyle geldi. "Esenlik" dediler. O "Esenlik" dedi. Kısa süre sonra kızarmış bir buzağı getirdi.
 
 وَلَقَدْ جَآءَتْ رُسُلُنَآ إِبْرَٰهِيمَ بِٱلْبُشْرَىٰ قَالُوا۟ سَلَٰمًۭا ۖ قَالَ سَلَٰمٌۭ ۖ فَمَا لَبِثَ أَن جَآءَ بِعِجْلٍ حَنِيذٍۢ
 
-**11:70** Ama ellerinin ona uzanmadığını görünce onlardan şüphelendi ve korku duydu. Dediler: “Korkma, Lût halkına gönderildik.”
+**11:70** Ama ellerinin ona uzanmadığını görünce onlardan şüphelendi ve korku duydu. Dediler: "Korkma, Lût halkına gönderildik."
 
 فَلَمَّا رَءَآ أَيْدِيَهُمْ لَا تَصِلُ إِلَيْهِ نَكِرَهُمْ وَأَوْجَسَ مِنْهُمْ خِيفَةًۭ ۚ قَالُوا۟ لَا تَخَفْ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمِ لُوطٍۢ
 
@@ -6440,11 +6440,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَٱمْرَأَتُهُۥ قَآئِمَةٌۭ فَضَحِكَتْ فَبَشَّرْنَٰهَا بِإِسْحَٰقَ وَمِن وَرَآءِ إِسْحَٰقَ يَعْقُوبَ
 
-**11:72** Dedi: “Yazık bana. Yaşlı bir kadınken ve bu kocam yaşlı bir adamken doğuracak mıyım? Bu gerçekten garip bir şey.”
+**11:72** Dedi: "Yazık bana. Yaşlı bir kadınken ve bu kocam yaşlı bir adamken doğuracak mıyım? Bu gerçekten garip bir şey."
 
 قَالَتْ يَٰوَيْلَتَىٰٓ ءَأَلِدُ وَأَنَا۠ عَجُوزٌۭ وَهَٰذَا بَعْلِى شَيْخًا ۖ إِنَّ هَٰذَا لَشَىْءٌ عَجِيبٌۭ
 
-**11:73** Dediler: “Allah'ın hükmüne mi şaşıyorsun? Allah'ın rahmeti ve bereketleri üzerinizdedir, ey ev halkı. O Övgüye Layık ve Görkemlidir.”
+**11:73** Dediler: "Allah'ın hükmüne mi şaşıyorsun? Allah'ın rahmeti ve bereketleri üzerinizdedir, ey ev halkı. O Övgüye Layık ve Görkemlidir."
 
 قَالُوٓا۟ أَتَعْجَبِينَ مِنْ أَمْرِ ٱللَّهِ ۖ رَحْمَتُ ٱللَّهِ وَبَرَكَٰتُهُۥ عَلَيْكُمْ أَهْلَ ٱلْبَيْتِ ۚ إِنَّهُۥ حَمِيدٌۭ مَّجِيدٌۭ
 
@@ -6456,27 +6456,27 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِنَّ إِبْرَٰهِيمَ لَحَلِيمٌ أَوَّٰهٌۭ مُّنِيبٌۭ
 
-**11:76** “Ey İbrâhim, bundan vazgeç. Rabbinin emri geldi; onlar geri çevrilemez bir azaba uğradı.”
+**11:76** "Ey İbrâhim, bundan vazgeç. Rabbinin emri geldi; onlar geri çevrilemez bir azaba uğradı."
 
 يَٰٓإِبْرَٰهِيمُ أَعْرِضْ عَنْ هَٰذَآ ۖ إِنَّهُۥ قَدْ جَآءَ أَمْرُ رَبِّكَ ۖ وَإِنَّهُمْ ءَاتِيهِمْ عَذَابٌ غَيْرُ مَرْدُودٍۢ
 
-**11:77** Elçilerimiz Lût'a gelince, onlar için kaygılandı ve endişelendi. Dedi: “Bu korkunç bir gün.”
+**11:77** Elçilerimiz Lût'a gelince, onlar için kaygılandı ve endişelendi. Dedi: "Bu korkunç bir gün."
 
 وَلَمَّا جَآءَتْ رُسُلُنَا لُوطًۭا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًۭا وَقَالَ هَٰذَا يَوْمٌ عَصِيبٌۭ
 
-**11:78** Halkı ona koşarak geldi — günah işlemeye alışkındılar. Dedi: “Ey halkım, bunlar kızlarımdır; sizin için daha saftırlar. Allah'tan korkun ve konuklarım önünde beni utandırmayın. Aranızda aklı başında bir adam yok mu?”
+**11:78** Halkı ona koşarak geldi — günah işlemeye alışkındılar. Dedi: "Ey halkım, bunlar kızlarımdır; sizin için daha saftırlar. Allah'tan korkun ve konuklarım önünde beni utandırmayın. Aranızda aklı başında bir adam yok mu?"
 
 وَجَآءَهُۥ قَوْمُهُۥ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا۟ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ ۚ قَالَ يَٰقَوْمِ هَٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ فِى ضَيْفِىٓ ۖ أَلَيْسَ مِنكُمْ رَجُلٌۭ رَّشِيدٌۭ
 
-**11:79** Dediler: “Kızlarına hakkımız olmadığını iyi biliyorsun ve ne istediğimizi iyi biliyorsun.”
+**11:79** Dediler: "Kızlarına hakkımız olmadığını iyi biliyorsun ve ne istediğimizi iyi biliyorsun."
 
 قَالُوا۟ لَقَدْ عَلِمْتَ مَا لَنَا فِى بَنَاتِكَ مِنْ حَقٍّۢ وَإِنَّكَ لَتَعْلَمُ مَا نُرِيدُ
 
-**11:80** Dedi: “Keşke sizi durduracak gücüm olsaydı ya da güçlü bir desteğe dayanabilseydim.”
+**11:80** Dedi: "Keşke sizi durduracak gücüm olsaydı ya da güçlü bir desteğe dayanabilseydim."
 
 قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ
 
-**11:81** Dediler: “Ey Lût, biz Rabbinin elçileriyiz; sana ulaşamazlar. Gece örtüsü içinde ailenle yola çık ve karın dışında hiçbiriniz arkaya bakmasın. Ona onları vuracak şey vuracak. Belirlenen zamanları sabah. Sabah yakın değil mi?”
+**11:81** Dediler: "Ey Lût, biz Rabbinin elçileriyiz; sana ulaşamazlar. Gece örtüsü içinde ailenle yola çık ve karın dışında hiçbiriniz arkaya bakmasın. Ona onları vuracak şey vuracak. Belirlenen zamanları sabah. Sabah yakın değil mi?"
 
 قَالُوا۟ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ ۖ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍۢ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ ۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ ۚ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ ۚ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍۢ
 
@@ -6488,43 +6488,43 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 مُّسَوَّمَةً عِندَ رَبِّكَ ۖ وَمَا هِىَ مِنَ ٱلظَّٰلِمِينَ بِبَعِيدٍۢ
 
-**11:84** Medyen'e kardeşleri Şuayb'ı gönderdik. Dedi: “Ey halkım, Allah'a kulluk edin; O'ndan başka tanrınız yok. Ölçüyü ve tartıyı eksik yapmayın. Sizi iyi durumda görüyorum ama sizin için kuşatıcı bir günün azabından korkarım.”
+**11:84** Medyen'e kardeşleri Şuayb'ı gönderdik. Dedi: "Ey halkım, Allah'a kulluk edin; O'ndan başka tanrınız yok. Ölçüyü ve tartıyı eksik yapmayın. Sizi iyi durumda görüyorum ama sizin için kuşatıcı bir günün azabından korkarım."
 
 ۞ وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا ۚ قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ ۖ وَلَا تَنقُصُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ ۚ إِنِّىٓ أَرَىٰكُم بِخَيْرٍۢ وَإِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍۢ مُّحِيطٍۢ
 
-**11:85** “Ey halkım! Ölçüyü ve tartıyı tam verin, adaletle, insanların haklarını aldatmayın ve yeryüzünde bozgunculuk yaymayın.
+**11:85** "Ey halkım! Ölçüyü ve tartıyı tam verin, adaletle, insanların haklarını aldatmayın ve yeryüzünde bozgunculuk yaymayın.
 
 وَيَٰقَوْمِ أَوْفُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ بِٱلْقِسْطِ ۖ وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
 
-**11:86** İnanıyorsanız, Allah'ın bıraktığı sizin için daha iyidir. Ben üzerinizde koruyucu değilim.”
+**11:86** İnanıyorsanız, Allah'ın bıraktığı sizin için daha iyidir. Ben üzerinizde koruyucu değilim."
 
 بَقِيَّتُ ٱللَّهِ خَيْرٌۭ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ ۚ وَمَآ أَنَا۠ عَلَيْكُم بِحَفِيظٍۢ
 
-**11:87** Dediler: “Ey Şuayb, duan mı sana atalarımızın kulluk ettiğini bırakmamızı ya da malımızla istediğimizi yapmamayı emrediyor? Sen akıllı ve bilgesin.”
+**11:87** Dediler: "Ey Şuayb, duan mı sana atalarımızın kulluk ettiğini bırakmamızı ya da malımızla istediğimizi yapmamayı emrediyor? Sen akıllı ve bilgesin."
 
 قَالُوا۟ يَٰشُعَيْبُ أَصَلَوٰتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءَابَآؤُنَآ أَوْ أَن نَّفْعَلَ فِىٓ أَمْوَٰلِنَا مَا نَشَٰٓؤُا۟ ۖ إِنَّكَ لَأَنتَ ٱلْحَلِيمُ ٱلرَّشِيدُ
 
-**11:88** Dedi: “Ey halkım, düşündünüz mü? Rabbimden açık delile sahipsem ve O bana kendinden güzel geçim vermişse ne olur? Size yasakladığımı yapmayı istemiyorum. Gücüm yettiğince düzeltmekten başka bir şey istemiyorum. Başarım ancak Allah'ladır. O'na güvenirim ve O'na dönerim.”
+**11:88** Dedi: "Ey halkım, düşündünüz mü? Rabbimden açık delile sahipsem ve O bana kendinden güzel geçim vermişse ne olur? Size yasakladığımı yapmayı istemiyorum. Gücüm yettiğince düzeltmekten başka bir şey istemiyorum. Başarım ancak Allah'ladır. O'na güvenirim ve O'na dönerim."
 
 قَالَ يَٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَرَزَقَنِى مِنْهُ رِزْقًا حَسَنًۭا ۚ وَمَآ أُرِيدُ أَنْ أُخَالِفَكُمْ إِلَىٰ مَآ أَنْهَىٰكُمْ عَنْهُ ۚ إِنْ أُرِيدُ إِلَّا ٱلْإِصْلَٰحَ مَا ٱسْتَطَعْتُ ۚ وَمَا تَوْفِيقِىٓ إِلَّا بِٱللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ
 
-**11:89** “Ey halkım, bana düşmanlığınız Nûh halkının, Hûd halkının ya da Sâlih halkının uğradığını size uğratmasın. Lût halkı sizden uzak değil.”
+**11:89** "Ey halkım, bana düşmanlığınız Nûh halkının, Hûd halkının ya da Sâlih halkının uğradığını size uğratmasın. Lût halkı sizden uzak değil."
 
 وَيَٰقَوْمِ لَا يَجْرِمَنَّكُمْ شِقَاقِىٓ أَن يُصِيبَكُم مِّثْلُ مَآ أَصَابَ قَوْمَ نُوحٍ أَوْ قَوْمَ هُودٍ أَوْ قَوْمَ صَٰلِحٍۢ ۚ وَمَا قَوْمُ لُوطٍۢ مِّنكُم بِبَعِيدٍۢ
 
-**11:90** “Rabbinizden bağışlanma dileyin ve O'na dönün. Rabbim Merhametli ve Sevgilidir.”
+**11:90** "Rabbinizden bağışlanma dileyin ve O'na dönün. Rabbim Merhametli ve Sevgilidir."
 
 وَٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ ۚ إِنَّ رَبِّى رَحِيمٌۭ وَدُودٌۭ
 
-**11:91** Dediler: “Ey Şuayb, söylediklerinin çoğunu anlamıyoruz ve seni aramızda zayıf görüyoruz. Kabilen olmasaydı seni taşlardık. Bizim için değerin yok.”
+**11:91** Dediler: "Ey Şuayb, söylediklerinin çoğunu anlamıyoruz ve seni aramızda zayıf görüyoruz. Kabilen olmasaydı seni taşlardık. Bizim için değerin yok."
 
 قَالُوا۟ يَٰشُعَيْبُ مَا نَفْقَهُ كَثِيرًۭا مِّمَّا تَقُولُ وَإِنَّا لَنَرَىٰكَ فِينَا ضَعِيفًۭا ۖ وَلَوْلَا رَهْطُكَ لَرَجَمْنَٰكَ ۖ وَمَآ أَنتَ عَلَيْنَا بِعَزِيزٍۢ
 
-**11:92** Dedi: “Ey halkım, kabilem sizin için Allah'tan daha mı önemli? Ve O'na sırt çevirdiniz mi? Rabbim yaptığınız her şeyi kapsar.”
+**11:92** Dedi: "Ey halkım, kabilem sizin için Allah'tan daha mı önemli? Ve O'na sırt çevirdiniz mi? Rabbim yaptığınız her şeyi kapsar."
 
 قَالَ يَٰقَوْمِ أَرَهْطِىٓ أَعَزُّ عَلَيْكُم مِّنَ ٱللَّهِ وَٱتَّخَذْتُمُوهُ وَرَآءَكُمْ ظِهْرِيًّا ۖ إِنَّ رَبِّى بِمَا تَعْمَلُونَ مُحِيطٌۭ
 
-**11:93** “Ey halkım, yapabileceğinizi yapın, ben de yapacağım. Kime utandıracak azabın geleceğini ve kimin yalancı olduğunu bileceksiniz. Gözleyin; ben de sizinle gözlüyorum.”
+**11:93** "Ey halkım, yapabileceğinizi yapın, ben de yapacağım. Kime utandıracak azabın geleceğini ve kimin yalancı olduğunu bileceksiniz. Gözleyin; ben de sizinle gözlüyorum."
 
 وَيَٰقَوْمِ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنِّى عَٰمِلٌۭ ۖ سَوْفَ تَعْلَمُونَ مَن يَأْتِيهِ عَذَابٌۭ يُخْزِيهِ وَمَنْ هُوَ كَٰذِبٌۭ ۖ وَٱرْتَقِبُوٓا۟ إِنِّى مَعَكُمْ رَقِيبٌۭ
 
@@ -6628,7 +6628,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَلَوْ شَآءَ رَبُّكَ لَجَعَلَ ٱلنَّاسَ أُمَّةًۭ وَٰحِدَةًۭ ۖ وَلَا يَزَالُونَ مُخْتَلِفِينَ
 
-**11:119** Rabbinin rahmet ettikleri dışında — onları bu nedenle yarattı. Rabbinin Sözü kesindir: “Cehennemi cinler ve insanlarla tamamen dolduracağım.”
+**11:119** Rabbinin rahmet ettikleri dışında — onları bu nedenle yarattı. Rabbinin Sözü kesindir: "Cehennemi cinler ve insanlarla tamamen dolduracağım."
 
 إِلَّا مَن رَّحِمَ رَبُّكَ ۚ وَلِذَٰلِكَ خَلَقَهُمْ ۗ وَتَمَّتْ كَلِمَةُ رَبِّكَ لَأَمْلَأَنَّ جَهَنَّمَ مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ أَجْمَعِينَ
 
@@ -6636,11 +6636,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَكُلًّۭا نَّقُصُّ عَلَيْكَ مِنْ أَنۢبَآءِ ٱلرُّسُلِ مَا نُثَبِّتُ بِهِۦ فُؤَادَكَ ۚ وَجَآءَكَ فِى هَٰذِهِ ٱلْحَقُّ وَمَوْعِظَةٌۭ وَذِكْرَىٰ لِلْمُؤْمِنِينَ
 
-**11:121** İnanmayanlara de ki: “Elinizden geleni yapın; biz de yapacağız.”
+**11:121** İnanmayanlara de ki: "Elinizden geleni yapın; biz de yapacağız."
 
 وَقُل لِّلَّذِينَ لَا يُؤْمِنُونَ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنَّا عَٰمِلُونَ
 
-**11:122** “Ve bekleyin; biz de bekliyoruz.”
+**11:122** "Ve bekleyin; biz de bekliyoruz."
 
 وَٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ
 
@@ -6672,11 +6672,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ ٱلْقَصَصِ بِمَآ أَوْحَيْنَآ إِلَيْكَ هَٰذَا ٱلْقُرْءَانَ وَإِن كُنتَ مِن قَبْلِهِۦ لَمِنَ ٱلْغَٰفِلِينَ
 
-**12:4** Yûsuf babasına dediği zaman: “Ey babam, on bir gezegen, güneşi ve ayı gördüm; onları bana secde ederken gördüm.”
+**12:4** Yûsuf babasına dediği zaman: "Ey babam, on bir gezegen, güneşi ve ayı gördüm; onları bana secde ederken gördüm."
 
 إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَٰجِدِينَ
 
-**12:5** Dedi: “Ey oğlum, rüyanı kardeşlerine anlatma, yoksa sana düzen kurarlar. Şeytan insanın yeminli düşmanıdır.
+**12:5** Dedi: "Ey oğlum, rüyanı kardeşlerine anlatma, yoksa sana düzen kurarlar. Şeytan insanın yeminli düşmanıdır.
 
 قَالَ يَٰبُنَىَّ لَا تَقْصُصْ رُءْيَاكَ عَلَىٰٓ إِخْوَتِكَ فَيَكِيدُوا۟ لَكَ كَيْدًا ۖ إِنَّ ٱلشَّيْطَٰنَ لِلْإِنسَٰنِ عَدُوٌّۭ مُّبِينٌۭ
 
@@ -6688,35 +6688,35 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ۞ لَّقَدْ كَانَ فِى يُوسُفَ وَإِخْوَتِهِۦٓ ءَايَٰتٌۭ لِّلسَّآئِلِينَ
 
-**12:8** “Yûsuf ve kardeşi, babamız için bizden daha sevgili, oysa biz bir grubuz. Babamız açıkça yanlıştır” dedikleri zaman.
+**12:8** "Yûsuf ve kardeşi, babamız için bizden daha sevgili, oysa biz bir grubuz. Babamız açıkça yanlıştır" dedikleri zaman.
 
 إِذْ قَالُوا۟ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِى ضَلَٰلٍۢ مُّبِينٍ
 
-**12:9** “Yûsuf'u öldürün ya da onu bir yere atın, babanızın ilgisi sizin olsun. Sonrasında düzgün insanlar olursunuz.”
+**12:9** "Yûsuf'u öldürün ya da onu bir yere atın, babanızın ilgisi sizin olsun. Sonrasında düzgün insanlar olursunuz."
 
 ٱقْتُلُوا۟ يُوسُفَ أَوِ ٱطْرَحُوهُ أَرْضًۭا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا۟ مِنۢ بَعْدِهِۦ قَوْمًۭا صَٰلِحِينَ
 
-**12:10** İçlerinden biri dedi: “Yûsuf'u öldürmeyin, ama onu kuyunun dibine atın; bir kervan onu alabilir — bir şey yapmanız gerekiyorsa.”
+**12:10** İçlerinden biri dedi: "Yûsuf'u öldürmeyin, ama onu kuyunun dibine atın; bir kervan onu alabilir — bir şey yapmanız gerekiyorsa."
 
 قَالَ قَآئِلٌۭ مِّنْهُمْ لَا تَقْتُلُوا۟ يُوسُفَ وَأَلْقُوهُ فِى غَيَٰبَتِ ٱلْجُبِّ يَلْتَقِطْهُ بَعْضُ ٱلسَّيَّارَةِ إِن كُنتُمْ فَٰعِلِينَ
 
-**12:11** Dediler: “Baba, neden Yûsuf'u bize güvenmiyorsun, oysa biz ona bakarız?”
+**12:11** Dediler: "Baba, neden Yûsuf'u bize güvenmiyorsun, oysa biz ona bakarız?"
 
 قَالُوا۟ يَٰٓأَبَانَا مَا لَكَ لَا تَأْمَ۫نَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَٰصِحُونَ
 
-**12:12** “Onu yarın bizimle gönder, gezsin ve oynasın; ona bakarız.”
+**12:12** "Onu yarın bizimle gönder, gezsin ve oynasın; ona bakarız."
 
 أَرْسِلْهُ مَعَنَا غَدًۭا يَرْتَعْ وَيَلْعَبْ وَإِنَّا لَهُۥ لَحَٰفِظُونَ
 
-**12:13** Dedi: “Onu götürmeniz beni endişelendiriyor. Ve siz ondan habersizken kurtun onu yemesinden korkarım.”
+**12:13** Dedi: "Onu götürmeniz beni endişelendiriyor. Ve siz ondan habersizken kurtun onu yemesinden korkarım."
 
 قَالَ إِنِّى لَيَحْزُنُنِىٓ أَن تَذْهَبُوا۟ بِهِۦ وَأَخَافُ أَن يَأْكُلَهُ ٱلذِّئْبُ وَأَنتُمْ عَنْهُ غَٰفِلُونَ
 
-**12:14** Dediler: “Kurt onu yese ve biz çok olsak, işe yaramaz olurduk.”
+**12:14** Dediler: "Kurt onu yese ve biz çok olsak, işe yaramaz olurduk."
 
 قَالُوا۟ لَئِنْ أَكَلَهُ ٱلذِّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّآ إِذًۭا لَّخَٰسِرُونَ
 
-**12:15** Onu alıp götürdüler ve onu kuyunun dibine koymaya karar verdiler. Ona vahyettik: “Habersizken bu işlerini onlara bildireceksin.”
+**12:15** Onu alıp götürdüler ve onu kuyunun dibine koymaya karar verdiler. Ona vahyettik: "Habersizken bu işlerini onlara bildireceksin."
 
 فَلَمَّا ذَهَبُوا۟ بِهِۦ وَأَجْمَعُوٓا۟ أَن يَجْعَلُوهُ فِى غَيَٰبَتِ ٱلْجُبِّ ۚ وَأَوْحَيْنَآ إِلَيْهِ لَتُنَبِّئَنَّهُم بِأَمْرِهِمْ هَٰذَا وَهُمْ لَا يَشْعُرُونَ
 
@@ -6724,15 +6724,15 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَجَآءُوٓ أَبَاهُمْ عِشَآءًۭ يَبْكُونَ
 
-**12:17** Dediler: “Ey baba, birbirimizle yarışmaya gittik ve Yûsuf'u eşyalarımızın yanında bıraktık; kurt onu yedi. Doğru söylesek de bize inanmayacaksın.”
+**12:17** Dediler: "Ey baba, birbirimizle yarışmaya gittik ve Yûsuf'u eşyalarımızın yanında bıraktık; kurt onu yedi. Doğru söylesek de bize inanmayacaksın."
 
 قَالُوا۟ يَٰٓأَبَانَآ إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِندَ مَتَٰعِنَا فَأَكَلَهُ ٱلذِّئْبُ ۖ وَمَآ أَنتَ بِمُؤْمِنٍۢ لَّنَا وَلَوْ كُنَّا صَٰدِقِينَ
 
-**12:18** Gömleğini sahte kanla getirdiler. Dedi: “Canlarınız sizi bir şey yapmaya kışkırttı. Ama sabır güzeldir ve anlattığınıza karşı yardımım Allah'tır.”
+**12:18** Gömleğini sahte kanla getirdiler. Dedi: "Canlarınız sizi bir şey yapmaya kışkırttı. Ama sabır güzeldir ve anlattığınıza karşı yardımım Allah'tır."
 
 وَجَآءُو عَلَىٰ قَمِيصِهِۦ بِدَمٍۢ كَذِبٍۢ ۚ قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًۭا ۖ فَصَبْرٌۭ جَمِيلٌۭ ۖ وَٱللَّهُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ
 
-**12:19** Bir kervan geçti ve sucularını gönderdiler. Kovasını indirdi ve dedi: “İyi haber. İşte bir çocuk.” Onu mal olarak gizlediler. Ama Allah yaptıklarını biliyordu.
+**12:19** Bir kervan geçti ve sucularını gönderdiler. Kovasını indirdi ve dedi: "İyi haber. İşte bir çocuk." Onu mal olarak gizlediler. Ama Allah yaptıklarını biliyordu.
 
 وَجَآءَتْ سَيَّارَةٌۭ فَأَرْسَلُوا۟ وَارِدَهُمْ فَأَدْلَىٰ دَلْوَهُۥ ۖ قَالَ يَٰبُشْرَىٰ هَٰذَا غُلَٰمٌۭ ۚ وَأَسَرُّوهُ بِضَٰعَةًۭ ۚ وَٱللَّهُ عَلِيمٌۢ بِمَا يَعْمَلُونَ
 
@@ -6740,7 +6740,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَشَرَوْهُ بِثَمَنٍۭ بَخْسٍۢ دَرَٰهِمَ مَعْدُودَةٍۢ وَكَانُوا۟ فِيهِ مِنَ ٱلزَّٰهِدِينَ
 
-**12:21** Onu satın alan Mısırlı karısına dedi: “Ona iyi bak; bize yararlı olabilir ya da onu evlat edinebiliriz.” Böylece Yûsuf'u ülkede yerleştirdik, ona olayların yorumunu öğretmek için. Allah işlerine hâkimdir ama insanların çoğu bilmez.
+**12:21** Onu satın alan Mısırlı karısına dedi: "Ona iyi bak; bize yararlı olabilir ya da onu evlat edinebiliriz." Böylece Yûsuf'u ülkede yerleştirdik, ona olayların yorumunu öğretmek için. Allah işlerine hâkimdir ama insanların çoğu bilmez.
 
 وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
@@ -6748,7 +6748,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَلَمَّا بَلَغَ أَشُدَّهُۥٓ ءَاتَيْنَٰهُ حُكْمًۭا وَعِلْمًۭا ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
 
-**12:23** Evinde yaşadığı kadın onu baştan çıkarmaya çalıştı. Kapıları kapattı ve “Seninim” dedi. Dedi: “Allah korusun! O Rabbimdir. Bana güzel bir ev verdi. Günahkârlar asla başarılı olmaz.”
+**12:23** Evinde yaşadığı kadın onu baştan çıkarmaya çalıştı. Kapıları kapattı ve "Seninim" dedi. Dedi: "Allah korusun! O Rabbimdir. Bana güzel bir ev verdi. Günahkârlar asla başarılı olmaz."
 
 وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ ۚ قَالَ مَعَاذَ ٱللَّهِ ۖ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ ۖ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
 
@@ -6756,39 +6756,39 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَلَقَدْ هَمَّتْ بِهِۦ ۖ وَهَمَّ بِهَا لَوْلَآ أَن رَّءَا بُرْهَٰنَ رَبِّهِۦ ۚ كَذَٰلِكَ لِنَصْرِفَ عَنْهُ ٱلسُّوٓءَ وَٱلْفَحْشَآءَ ۚ إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُخْلَصِينَ
 
-**12:25** Kapıya koştuklarında, gömleğini arkadan yırttı. Kapıda kocasına rastladılar. Dedi: “Karına saygısızlık etmeyi dileyenin cezası, hapis ya da acı cezadan başka nedir?”
+**12:25** Kapıya koştuklarında, gömleğini arkadan yırttı. Kapıda kocasına rastladılar. Dedi: "Karına saygısızlık etmeyi dileyenin cezası, hapis ya da acı cezadan başka nedir?"
 
 وَٱسْتَبَقَا ٱلْبَابَ وَقَدَّتْ قَمِيصَهُۥ مِن دُبُرٍۢ وَأَلْفَيَا سَيِّدَهَا لَدَا ٱلْبَابِ ۚ قَالَتْ مَا جَزَآءُ مَنْ أَرَادَ بِأَهْلِكَ سُوٓءًا إِلَّآ أَن يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌۭ
 
-**12:26** Dedi: “Beni baştan çıkarmaya çalışan oydu.” Evinden bir tanık önerdi: “Gömleği önden yırtılmışsa: o doğru söylemiştir, o yalancıdır.
+**12:26** Dedi: "Beni baştan çıkarmaya çalışan oydu." Evinden bir tanık önerdi: "Gömleği önden yırtılmışsa: o doğru söylemiştir, o yalancıdır.
 
 قَالَ هِىَ رَٰوَدَتْنِى عَن نَّفْسِى ۚ وَشَهِدَ شَاهِدٌۭ مِّنْ أَهْلِهَآ إِن كَانَ قَمِيصُهُۥ قُدَّ مِن قُبُلٍۢ فَصَدَقَتْ وَهُوَ مِنَ ٱلْكَٰذِبِينَ
 
-**12:27** Ama gömleği arkadan yırtılmışsa: o yalan söylemiştir, o doğrudur.”
+**12:27** Ama gömleği arkadan yırtılmışsa: o yalan söylemiştir, o doğrudur."
 
 وَإِن كَانَ قَمِيصُهُۥ قُدَّ مِن دُبُرٍۢ فَكَذَبَتْ وَهُوَ مِنَ ٱلصَّٰدِقِينَ
 
-**12:28** Gömleğinin arkadan yırtıldığını görünce dedi: “Bu bir kadın düzenidir. Düzeniniz gerçekten ciddidir.”
+**12:28** Gömleğinin arkadan yırtıldığını görünce dedi: "Bu bir kadın düzenidir. Düzeniniz gerçekten ciddidir."
 
 فَلَمَّا رَءَا قَمِيصَهُۥ قُدَّ مِن دُبُرٍۢ قَالَ إِنَّهُۥ مِن كَيْدِكُنَّ ۖ إِنَّ كَيْدَكُنَّ عَظِيمٌۭ
 
-**12:29** “Yûsuf, bundan yüz çevir. Ve sen kadın, günahın için bağışlanma dile; gerçekten yanılıyorsun.”
+**12:29** "Yûsuf, bundan yüz çevir. Ve sen kadın, günahın için bağışlanma dile; gerçekten yanılıyorsun."
 
 يُوسُفُ أَعْرِضْ عَنْ هَٰذَا ۚ وَٱسْتَغْفِرِى لِذَنۢبِكِ ۖ إِنَّكِ كُنتِ مِنَ ٱلْخَاطِـِٔينَ
 
-**12:30** Şehirde bazı kadınlar dedi: “Valinin karısı hizmetkârını baştan çıkarmaya çalışıyor. Ona derin âşık. Onun saptığını görüyoruz.”
+**12:30** Şehirde bazı kadınlar dedi: "Valinin karısı hizmetkârını baştan çıkarmaya çalışıyor. Ona derin âşık. Onun saptığını görüyoruz."
 
 ۞ وَقَالَ نِسْوَةٌۭ فِى ٱلْمَدِينَةِ ٱمْرَأَتُ ٱلْعَزِيزِ تُرَٰوِدُ فَتَىٰهَا عَن نَّفْسِهِۦ ۖ قَدْ شَغَفَهَا حُبًّا ۖ إِنَّا لَنَرَىٰهَا فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
-**12:31** Onların dedikodusunu duyunca onları davet etti, onlara bir ziyafet hazırladı ve her birine bir bıçak verdi. “Onların önüne çık” dedi. Onu görünce ona hayran kaldılar ve ellerini kestiler. Dediler: “Allah'a şan, bu insan değil, değerli bir melek olmalı.”
+**12:31** Onların dedikodusunu duyunca onları davet etti, onlara bir ziyafet hazırladı ve her birine bir bıçak verdi. "Onların önüne çık" dedi. Onu görünce ona hayran kaldılar ve ellerini kestiler. Dediler: "Allah'a şan, bu insan değil, değerli bir melek olmalı."
 
 فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَـًۭٔا وَءَاتَتْ كُلَّ وَٰحِدَةٍۢ مِّنْهُنَّ سِكِّينًۭا وَقَالَتِ ٱخْرُجْ عَلَيْهِنَّ ۖ فَلَمَّا رَأَيْنَهُۥٓ أَكْبَرْنَهُۥ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَٰشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنْ هَٰذَآ إِلَّا مَلَكٌۭ كَرِيمٌۭ
 
-**12:32** Dedi: “İşte o, beni kınadığınız. Onu baştan çıkarmaya çalıştım ama direndi. Ama ona söylediğimi yapmazsa, hapse atılacak ve aşağılananlardan olacak.”
+**12:32** Dedi: "İşte o, beni kınadığınız. Onu baştan çıkarmaya çalıştım ama direndi. Ama ona söylediğimi yapmazsa, hapse atılacak ve aşağılananlardan olacak."
 
 قَالَتْ فَذَٰلِكُنَّ ٱلَّذِى لُمْتُنَّنِى فِيهِ ۖ وَلَقَدْ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ فَٱسْتَعْصَمَ ۖ وَلَئِن لَّمْ يَفْعَلْ مَآ ءَامُرُهُۥ لَيُسْجَنَنَّ وَلَيَكُونًۭا مِّنَ ٱلصَّٰغِرِينَ
 
-**12:33** Dedi: “Rabbim, hapis bana beni çağırdıklarından daha arzu edilir. Düzenlerini benden çevirmezsen, onlara meyledebilirim ve cahillerden olurum.”
+**12:33** Dedi: "Rabbim, hapis bana beni çağırdıklarından daha arzu edilir. Düzenlerini benden çevirmezsen, onlara meyledebilirim ve cahillerden olurum."
 
 قَالَ رَبِّ ٱلسِّجْنُ أَحَبُّ إِلَىَّ مِمَّا يَدْعُونَنِىٓ إِلَيْهِ ۖ وَإِلَّا تَصْرِفْ عَنِّى كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُن مِّنَ ٱلْجَٰهِلِينَ
 
@@ -6800,51 +6800,51 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ثُمَّ بَدَا لَهُم مِّنۢ بَعْدِ مَا رَأَوُا۟ ٱلْءَايَٰتِ لَيَسْجُنُنَّهُۥ حَتَّىٰ حِينٍۢ
 
-**12:36** İki genç onunla hapse girdi. Biri dedi: “Kendimi şarap sıkarken görüyorum.” Öbürü dedi: “Kendimi başımda, kuşların yediği ekmek taşırken görüyorum. Bize yorumlarını söyle — seni doğrulardan biri olarak görüyoruz.”
+**12:36** İki genç onunla hapse girdi. Biri dedi: "Kendimi şarap sıkarken görüyorum." Öbürü dedi: "Kendimi başımda, kuşların yediği ekmek taşırken görüyorum. Bize yorumlarını söyle — seni doğrulardan biri olarak görüyoruz."
 
 وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ ۖ قَالَ أَحَدُهُمَآ إِنِّىٓ أَرَىٰنِىٓ أَعْصِرُ خَمْرًۭا ۖ وَقَالَ ٱلْءَاخَرُ إِنِّىٓ أَرَىٰنِىٓ أَحْمِلُ فَوْقَ رَأْسِى خُبْزًۭا تَأْكُلُ ٱلطَّيْرُ مِنْهُ ۖ نَبِّئْنَا بِتَأْوِيلِهِۦٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ
 
-**12:37** Dedi: “Size yemek sunulmaz ki size ulaşmadan önce size bildirmiş olmayayım. Bu Rabbimin bana öğrettiklerinin bir kısmı. Allah'a inanmayan insanların geleneğini terk ettim; ahirete gelince, onlar inkârcılardır.”
+**12:37** Dedi: "Size yemek sunulmaz ki size ulaşmadan önce size bildirmiş olmayayım. Bu Rabbimin bana öğrettiklerinin bir kısmı. Allah'a inanmayan insanların geleneğini terk ettim; ahirete gelince, onlar inkârcılardır."
 
 قَالَ لَا يَأْتِيكُمَا طَعَامٌۭ تُرْزَقَانِهِۦٓ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِۦ قَبْلَ أَن يَأْتِيَكُمَا ۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِى رَبِّىٓ ۚ إِنِّى تَرَكْتُ مِلَّةَ قَوْمٍۢ لَّا يُؤْمِنُونَ بِٱللَّهِ وَهُم بِٱلْءَاخِرَةِ هُمْ كَٰفِرُونَ
 
-**12:38** “Atalarım İbrâhim, İshak ve Yakup'un inancını izledim. Allah'a hiçbir şeyi ortak koşmak bize düşmez. Bu Allah'ın bize ve insanlara lütfundandır ama insanların çoğu şükretmez.
+**12:38** "Atalarım İbrâhim, İshak ve Yakup'un inancını izledim. Allah'a hiçbir şeyi ortak koşmak bize düşmez. Bu Allah'ın bize ve insanlara lütfundandır ama insanların çoğu şükretmez.
 
 وَٱتَّبَعْتُ مِلَّةَ ءَابَآءِىٓ إِبْرَٰهِيمَ وَإِسْحَٰقَ وَيَعْقُوبَ ۚ مَا كَانَ لَنَآ أَن نُّشْرِكَ بِٱللَّهِ مِن شَىْءٍۢ ۚ ذَٰلِكَ مِن فَضْلِ ٱللَّهِ عَلَيْنَا وَعَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ
 
-**12:39** “Ey hapis arkadaşlarım, çeşitli rabler mi daha iyi, yoksa Tek ve Yüce Allah mı?”
+**12:39** "Ey hapis arkadaşlarım, çeşitli rabler mi daha iyi, yoksa Tek ve Yüce Allah mı?"
 
 يَٰصَىٰحِبَىِ ٱلسِّجْنِ ءَأَرْبَابٌۭ مُّتَفَرِّقُونَ خَيْرٌ أَمِ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ
 
-**12:40** “O'ndan başka kulluk ettiğiniz şeyler, sizin ve atalarınızın adlandırdığı, Allah'ın hiçbir yetki indirmediği adlardan başka değildir. Hüküm yalnız Allah'a aittir. O, O'ndan başkasına kulluk etmemenizi emretti. Bu doğru dindir ama insanların çoğu bilmez.
+**12:40** "O'ndan başka kulluk ettiğiniz şeyler, sizin ve atalarınızın adlandırdığı, Allah'ın hiçbir yetki indirmediği adlardan başka değildir. Hüküm yalnız Allah'a aittir. O, O'ndan başkasına kulluk etmemenizi emretti. Bu doğru dindir ama insanların çoğu bilmez.
 
 مَا تَعْبُدُونَ مِن دُونِهِۦٓ إِلَّآ أَسْمَآءًۭ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍ ۚ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
-**12:41** “Ey hapis arkadaşlarım! Biriniz efendisine şarap sunacak; öbürü çarmıha gerilecek ve kuşlar başından yiyecek. Sorduğunuz iş böylece kararlaştı.”
+**12:41** "Ey hapis arkadaşlarım! Biriniz efendisine şarap sunacak; öbürü çarmıha gerilecek ve kuşlar başından yiyecek. Sorduğunuz iş böylece kararlaştı."
 
 يَٰصَىٰحِبَىِ ٱلسِّجْنِ أَمَّآ أَحَدُكُمَا فَيَسْقِى رَبَّهُۥ خَمْرًۭا ۖ وَأَمَّا ٱلْءَاخَرُ فَيُصْلَبُ فَتَأْكُلُ ٱلطَّيْرُ مِن رَّأْسِهِۦ ۚ قُضِىَ ٱلْأَمْرُ ٱلَّذِى فِيهِ تَسْتَفْتِيَانِ
 
-**12:42** Serbest bırakılacağını düşündüğüne dedi: “Benden efendine söz et.” Ama Şeytan, efendisine ondan söz etmeyi unutturdu, böylece birkaç yıl hapiste kaldı.
+**12:42** Serbest bırakılacağını düşündüğüne dedi: "Benden efendine söz et." Ama Şeytan, efendisine ondan söz etmeyi unutturdu, böylece birkaç yıl hapiste kaldı.
 
 وَقَالَ لِلَّذِى ظَنَّ أَنَّهُۥ نَاجٍۢ مِّنْهُمَا ٱذْكُرْنِى عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّيْطَٰنُ ذِكْرَ رَبِّهِۦ فَلَبِثَ فِى ٱلسِّجْنِ بِضْعَ سِنِينَ
 
-**12:43** Kral dedi: “Yedi semiz ineğin yedi zayıf tarafından yendiğini, yedi yeşil başağı ve kurumuş başkalarını görüyorum. Ey ileri gelenler, rüyaları yorumlayabiliyorsanız rüyamı bana açıklayın.”
+**12:43** Kral dedi: "Yedi semiz ineğin yedi zayıf tarafından yendiğini, yedi yeşil başağı ve kurumuş başkalarını görüyorum. Ey ileri gelenler, rüyaları yorumlayabiliyorsanız rüyamı bana açıklayın."
 
 وَقَالَ ٱلْمَلِكُ إِنِّىٓ أَرَىٰ سَبْعَ بَقَرَٰتٍۢ سِمَانٍۢ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌۭ وَسَبْعَ سُنۢبُلَٰتٍ خُضْرٍۢ وَأُخَرَ يَابِسَٰتٍۢ ۖ يَٰٓأَيُّهَا ٱلْمَلَأُ أَفْتُونِى فِى رُءْيَٰىَ إِن كُنتُمْ لِلرُّءْيَا تَعْبُرُونَ
 
-**12:44** Dediler: “Rüya karışıklıkları ve rüyaların yorumunu bilmiyoruz.”
+**12:44** Dediler: "Rüya karışıklıkları ve rüyaların yorumunu bilmiyoruz."
 
 قَالُوٓا۟ أَضْغَٰثُ أَحْلَٰمٍۢ ۖ وَمَا نَحْنُ بِتَأْوِيلِ ٱلْأَحْلَٰمِ بِعَٰلِمِينَ
 
-**12:45** Serbest bırakılan, bir süre sonra hatırlayarak dedi: “Size yorumunu bildireceğim, beni gönderin.”
+**12:45** Serbest bırakılan, bir süre sonra hatırlayarak dedi: "Size yorumunu bildireceğim, beni gönderin."
 
 وَقَالَ ٱلَّذِى نَجَا مِنْهُمَا وَٱدَّكَرَ بَعْدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأْوِيلِهِۦ فَأَرْسِلُونِ
 
-**12:46** “Yûsuf, ey doğruluk adamı, bize yedi semiz ineğin yedi zayıf tarafından yenmesini, yedi yeşil başağı ve kurumuş başkalarını söyle ki insanlara döneyim, bilsinler.”
+**12:46** "Yûsuf, ey doğruluk adamı, bize yedi semiz ineğin yedi zayıf tarafından yenmesini, yedi yeşil başağı ve kurumuş başkalarını söyle ki insanlara döneyim, bilsinler."
 
 يُوسُفُ أَيُّهَا ٱلصِّدِّيقُ أَفْتِنَا فِى سَبْعِ بَقَرَٰتٍۢ سِمَانٍۢ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌۭ وَسَبْعِ سُنۢبُلَٰتٍ خُضْرٍۢ وَأُخَرَ يَابِسَٰتٍۢ لَّعَلِّىٓ أَرْجِعُ إِلَى ٱلنَّاسِ لَعَلَّهُمْ يَعْلَمُونَ
 
-**12:47** Dedi: “Yedi yıl üst üste ekeceksiniz. Ama hasat ettiğinizi, yediğiniz az dışında başaklarında bırakın.”
+**12:47** Dedi: "Yedi yıl üst üste ekeceksiniz. Ama hasat ettiğinizi, yediğiniz az dışında başaklarında bırakın."
 
 قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًۭا فَمَا حَصَدتُّمْ فَذَرُوهُ فِى سُنۢبُلِهِۦٓ إِلَّا قَلِيلًۭا مِّمَّا تَأْكُلُونَ
 
@@ -6856,27 +6856,27 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ عَامٌۭ فِيهِ يُغَاثُ ٱلنَّاسُ وَفِيهِ يَعْصِرُونَ
 
-**12:50** Kral dedi: “Onu bana getirin.” Elçi ona gelince dedi: “Efendine dön ve ellerini kesen kadınların niyetlerini sor; Rabbim onların düzenlerini iyi bilir.”
+**12:50** Kral dedi: "Onu bana getirin." Elçi ona gelince dedi: "Efendine dön ve ellerini kesen kadınların niyetlerini sor; Rabbim onların düzenlerini iyi bilir."
 
 وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦ ۖ فَلَمَّا جَآءَهُ ٱلرَّسُولُ قَالَ ٱرْجِعْ إِلَىٰ رَبِّكَ فَسْـَٔلْهُ مَا بَالُ ٱلنِّسْوَةِ ٱلَّٰتِى قَطَّعْنَ أَيْدِيَهُنَّ ۚ إِنَّ رَبِّى بِكَيْدِهِنَّ عَلِيمٌۭ
 
-**12:51** Dedi: “Yûsuf'u baştan çıkarmaya çalıştığınızda durum neydi kadınlar?” Dediler: “Allah korusun! Onun bir kötülük işlediğini bilmedik.” Valinin karısı sonra dedi: “Şimdi gerçek ortaya çıktı. Onu baştan çıkarmaya çalışan bendim ve o doğru söylüyor.”
+**12:51** Dedi: "Yûsuf'u baştan çıkarmaya çalıştığınızda durum neydi kadınlar?" Dediler: "Allah korusun! Onun bir kötülük işlediğini bilmedik." Valinin karısı sonra dedi: "Şimdi gerçek ortaya çıktı. Onu baştan çıkarmaya çalışan bendim ve o doğru söylüyor."
 
 قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٰٔنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّٰدِقِينَ
 
-**12:52** “Bu, ona gizlice ihanet etmediğimi bilmesi ve Allah'ın hainlerin düzenini yönlendirmediğini bilmesi içindir.”
+**12:52** "Bu, ona gizlice ihanet etmediğimi bilmesi ve Allah'ın hainlerin düzenini yönlendirmediğini bilmesi içindir."
 
 ذَٰلِكَ لِيَعْلَمَ أَنِّى لَمْ أَخُنْهُ بِٱلْغَيْبِ وَأَنَّ ٱللَّهَ لَا يَهْدِى كَيْدَ ٱلْخَآئِنِينَ
 
-**12:53** “Yine de masum olduğumu iddia etmiyorum. Can kötülüğü emreder, Rabbimin rahmet ettikleri dışında. Rabbim gerçekten Bağışlayan ve Merhametlidir.”
+**12:53** "Yine de masum olduğumu iddia etmiyorum. Can kötülüğü emreder, Rabbimin rahmet ettikleri dışında. Rabbim gerçekten Bağışlayan ve Merhametlidir."
 
 ۞ وَمَآ أُبَرِّئُ نَفْسِىٓ ۚ إِنَّ ٱلنَّفْسَ لَأَمَّارَةٌۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّىٓ ۚ إِنَّ رَبِّى غَفُورٌۭ رَّحِيمٌۭ
 
-**12:54** Kral dedi: “Onu bana getirin, onu kendime ayıracağım.” Onunla konuşunca dedi: “Bugün bizimle yerleşik ve güvenlisin.”
+**12:54** Kral dedi: "Onu bana getirin, onu kendime ayıracağım." Onunla konuşunca dedi: "Bugün bizimle yerleşik ve güvenlisin."
 
 وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦٓ أَسْتَخْلِصْهُ لِنَفْسِى ۖ فَلَمَّا كَلَّمَهُۥ قَالَ إِنَّكَ ٱلْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌۭ
 
-**12:55** Dedi: “Beni ülkenin hazine depolarından sorumlu yap; dürüst ve bilgiliyim.”
+**12:55** Dedi: "Beni ülkenin hazine depolarından sorumlu yap; dürüst ve bilgiliyim."
 
 قَالَ ٱجْعَلْنِى عَلَىٰ خَزَآئِنِ ٱلْأَرْضِ ۖ إِنِّى حَفِيظٌ عَلِيمٌۭ
 
@@ -6892,39 +6892,39 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَجَآءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا۟ عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُۥ مُنكِرُونَ
 
-**12:59** Onlara erzaklarını verince dedi: “Bana babanızdan bir kardeşinizi getirin. Ölçüyü doldurduğumu ve ev sahiplerinin en iyisi olduğumu görmüyor musunuz?”
+**12:59** Onlara erzaklarını verince dedi: "Bana babanızdan bir kardeşinizi getirin. Ölçüyü doldurduğumu ve ev sahiplerinin en iyisi olduğumu görmüyor musunuz?"
 
 وَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ قَالَ ٱئْتُونِى بِأَخٍۢ لَّكُم مِّنْ أَبِيكُمْ ۚ أَلَا تَرَوْنَ أَنِّىٓ أُوفِى ٱلْكَيْلَ وَأَنَا۠ خَيْرُ ٱلْمُنزِلِينَ
 
-**12:60** “Ama onu bana getirmezseniz, benden ölçü alamazsınız ve bana yaklaşamazsınız.”
+**12:60** "Ama onu bana getirmezseniz, benden ölçü alamazsınız ve bana yaklaşamazsınız."
 
 فَإِن لَّمْ تَأْتُونِى بِهِۦ فَلَا كَيْلَ لَكُمْ عِندِى وَلَا تَقْرَبُونِ
 
-**12:61** Dediler: “Onu babasından isteyeceğiz. Mutlaka yapacağız.”
+**12:61** Dediler: "Onu babasından isteyeceğiz. Mutlaka yapacağız."
 
 قَالُوا۟ سَنُرَٰوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَٰعِلُونَ
 
-**12:62** Hizmetkârlarına dedi: “Mallarını eyer çantalarına koyun; belki ailelerine dönünce onları tanırlar ve belki geri gelirler.”
+**12:62** Hizmetkârlarına dedi: "Mallarını eyer çantalarına koyun; belki ailelerine dönünce onları tanırlar ve belki geri gelirler."
 
 وَقَالَ لِفِتْيَٰنِهِ ٱجْعَلُوا۟ بِضَٰعَتَهُمْ فِى رِحَالِهِمْ لَعَلَّهُمْ يَعْرِفُونَهَآ إِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمْ لَعَلَّهُمْ يَرْجِعُونَ
 
-**12:63** Babalarına dönünce dediler: “Ey baba, ölçü bize reddedildi ama kardeşimizi bizimle gönder, ölçü alalım. Ona bakarız.”
+**12:63** Babalarına dönünce dediler: "Ey baba, ölçü bize reddedildi ama kardeşimizi bizimle gönder, ölçü alalım. Ona bakarız."
 
 فَلَمَّا رَجَعُوٓا۟ إِلَىٰٓ أَبِيهِمْ قَالُوا۟ يَٰٓأَبَانَا مُنِعَ مِنَّا ٱلْكَيْلُ فَأَرْسِلْ مَعَنَآ أَخَانَا نَكْتَلْ وَإِنَّا لَهُۥ لَحَٰفِظُونَ
 
-**12:64** Dedi: “Ondan önce kardeşini size güvendiğim gibi ona size güveneyim mi? Allah En İyi Koruyucudur ve merhametlilerin En Merhametlisidir.”
+**12:64** Dedi: "Ondan önce kardeşini size güvendiğim gibi ona size güveneyim mi? Allah En İyi Koruyucudur ve merhametlilerin En Merhametlisidir."
 
 قَالَ هَلْ ءَامَنُكُمْ عَلَيْهِ إِلَّا كَمَآ أَمِنتُكُمْ عَلَىٰٓ أَخِيهِ مِن قَبْلُ ۖ فَٱللَّهُ خَيْرٌ حَٰفِظًۭا ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
 
-**12:65** Yüklerini açınca mallarının kendilerine geri verildiğini buldular. Dediler: “Baba, daha ne istiyoruz? İşte mallarımız bize geri verildi. Ailemize erzak sağlarız, kardeşimizi koruruz ve fazladan bir deve yükü alırız. Bu kolay ticarettir.”
+**12:65** Yüklerini açınca mallarının kendilerine geri verildiğini buldular. Dediler: "Baba, daha ne istiyoruz? İşte mallarımız bize geri verildi. Ailemize erzak sağlarız, kardeşimizi koruruz ve fazladan bir deve yükü alırız. Bu kolay ticarettir."
 
 وَلَمَّا فَتَحُوا۟ مَتَٰعَهُمْ وَجَدُوا۟ بِضَٰعَتَهُمْ رُدَّتْ إِلَيْهِمْ ۖ قَالُوا۟ يَٰٓأَبَانَا مَا نَبْغِى ۖ هَٰذِهِۦ بِضَٰعَتُنَا رُدَّتْ إِلَيْنَا ۖ وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍۢ ۖ ذَٰلِكَ كَيْلٌۭ يَسِيرٌۭ
 
-**12:66** Dedi: “Onu sizinle göndermeyeceğim, Allah önünde, tuzağa düşmek dışında onu bana geri getireceğinize söz vermedikçe.” Sözlerini verince dedi: “Allah söylediklerimize şahittir.”
+**12:66** Dedi: "Onu sizinle göndermeyeceğim, Allah önünde, tuzağa düşmek dışında onu bana geri getireceğinize söz vermedikçe." Sözlerini verince dedi: "Allah söylediklerimize şahittir."
 
 قَالَ لَنْ أُرْسِلَهُۥ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًۭا مِّنَ ٱللَّهِ لَتَأْتُنَّنِى بِهِۦٓ إِلَّآ أَن يُحَاطَ بِكُمْ ۖ فَلَمَّآ ءَاتَوْهُ مَوْثِقَهُمْ قَالَ ٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌۭ
 
-**12:67** Ve dedi: “Ey oğullarım, bir kapıdan girmeyin, farklı kapılardan girin. Allah'a karşı size hiçbir şey sağlayamam. Karar yalnız Allah'a aittir. O'na güvenirim ve güvenenler O'na güvensin.”
+**12:67** Ve dedi: "Ey oğullarım, bir kapıdan girmeyin, farklı kapılardan girin. Allah'a karşı size hiçbir şey sağlayamam. Karar yalnız Allah'a aittir. O'na güvenirim ve güvenenler O'na güvensin."
 
 وَقَالَ يَٰبَنِىَّ لَا تَدْخُلُوا۟ مِنۢ بَابٍۢ وَٰحِدٍۢ وَٱدْخُلُوا۟ مِنْ أَبْوَٰبٍۢ مُّتَفَرِّقَةٍۢ ۖ وَمَآ أُغْنِى عَنكُم مِّنَ ٱللَّهِ مِن شَىْءٍ ۖ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ
 
@@ -6932,31 +6932,31 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَلَمَّا دَخَلُوا۟ مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ يُغْنِى عَنْهُم مِّنَ ٱللَّهِ مِن شَىْءٍ إِلَّا حَاجَةًۭ فِى نَفْسِ يَعْقُوبَ قَضَىٰهَا ۚ وَإِنَّهُۥ لَذُو عِلْمٍۢ لِّمَا عَلَّمْنَٰهُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
-**12:69** Yûsuf'un huzuruna girdiklerinde kardeşine sarıldı ve dedi: “Ben kardeşinim; yaptıklarına üzülme.”
+**12:69** Yûsuf'un huzuruna girdiklerinde kardeşine sarıldı ve dedi: "Ben kardeşinim; yaptıklarına üzülme."
 
 وَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَخَاهُ ۖ قَالَ إِنِّىٓ أَنَا۠ أَخُوكَ فَلَا تَبْتَئِسْ بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**12:70** Onlara erzaklarını verince, içki kâsesini kardeşinin eyer çantasına koydu. Sonra bir seslenici seslendi: “Ey kervan halkı, siz hırsızsınız.”
+**12:70** Onlara erzaklarını verince, içki kâsesini kardeşinin eyer çantasına koydu. Sonra bir seslenici seslendi: "Ey kervan halkı, siz hırsızsınız."
 
 فَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ جَعَلَ ٱلسِّقَايَةَ فِى رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا ٱلْعِيرُ إِنَّكُمْ لَسَٰرِقُونَ
 
-**12:71** Onlara doğru gelirken dediler: “Ne kaybettiniz?”
+**12:71** Onlara doğru gelirken dediler: "Ne kaybettiniz?"
 
 قَالُوا۟ وَأَقْبَلُوا۟ عَلَيْهِم مَّاذَا تَفْقِدُونَ
 
-**12:72** Dediler: “Kralın kadehini kaybettik. Onu getiren bir deve yükü alacak; ben şahsen garanti ediyorum.”
+**12:72** Dediler: "Kralın kadehini kaybettik. Onu getiren bir deve yükü alacak; ben şahsen garanti ediyorum."
 
 قَالُوا۟ نَفْقِدُ صُوَاعَ ٱلْمَلِكِ وَلِمَن جَآءَ بِهِۦ حِمْلُ بَعِيرٍۢ وَأَنَا۠ بِهِۦ زَعِيمٌۭ
 
-**12:73** Dediler: “Allah'a yemin, ülkede sorun çıkarmaya gelmediğimizi biliyorsunuz ve hırsız değiliz.”
+**12:73** Dediler: "Allah'a yemin, ülkede sorun çıkarmaya gelmediğimizi biliyorsunuz ve hırsız değiliz."
 
 قَالُوا۟ تَٱللَّهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنُفْسِدَ فِى ٱلْأَرْضِ وَمَا كُنَّا سَٰرِقِينَ
 
-**12:74** Dediler: “Yalan söylüyorsanız cezası nedir?”
+**12:74** Dediler: "Yalan söylüyorsanız cezası nedir?"
 
 قَالُوا۟ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمْ كَٰذِبِينَ
 
-**12:75** Dediler: “Cezası, çantasında bulunursa: size ait olacak. Suçluları böyle cezalandırırız.”
+**12:75** Dediler: "Cezası, çantasında bulunursa: size ait olacak. Suçluları böyle cezalandırırız."
 
 قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ ۚ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ
 
@@ -6964,103 +6964,103 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ ۚ كَذَٰلِكَ كِدْنَا لِيُوسُفَ ۖ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ نَرْفَعُ دَرَجَٰتٍۢ مَّن نَّشَآءُ ۗ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌۭ
 
-**12:77** Dediler: “O çaldıysa, bir kardeşi daha önce çaldı.” Ama Yûsuf bunu kendine sakladı ve onlara açığa vurmadı. Dedi: “Siz daha kötü durumdasınız ve Allah iddia ettiğinizi bilir.”
+**12:77** Dediler: "O çaldıysa, bir kardeşi daha önce çaldı." Ama Yûsuf bunu kendine sakladı ve onlara açığa vurmadı. Dedi: "Siz daha kötü durumdasınız ve Allah iddia ettiğinizi bilir."
 
 ۞ قَالُوٓا۟ إِن يَسْرِقْ فَقَدْ سَرَقَ أَخٌۭ لَّهُۥ مِن قَبْلُ ۚ فَأَسَرَّهَا يُوسُفُ فِى نَفْسِهِۦ وَلَمْ يُبْدِهَا لَهُمْ ۚ قَالَ أَنتُمْ شَرٌّۭ مَّكَانًۭا ۖ وَٱللَّهُ أَعْلَمُ بِمَا تَصِفُونَ
 
-**12:78** Dediler: “Ey soylu prens, onun çok yaşlı bir babası var, onun yerine bizden birini al. Seni iyi bir insan olarak görüyoruz.”
+**12:78** Dediler: "Ey soylu prens, onun çok yaşlı bir babası var, onun yerine bizden birini al. Seni iyi bir insan olarak görüyoruz."
 
 قَالُوا۟ يَٰٓأَيُّهَا ٱلْعَزِيزُ إِنَّ لَهُۥٓ أَبًۭا شَيْخًۭا كَبِيرًۭا فَخُذْ أَحَدَنَا مَكَانَهُۥٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ
 
-**12:79** Dedi: “Mallarımızı bulduğumuz kişiden başkasını tutuklayalım, Allah korusun; o zaman haksız olurduk.”
+**12:79** Dedi: "Mallarımızı bulduğumuz kişiden başkasını tutuklayalım, Allah korusun; o zaman haksız olurduk."
 
 قَالَ مَعَاذَ ٱللَّهِ أَن نَّأْخُذَ إِلَّا مَن وَجَدْنَا مَتَٰعَنَا عِندَهُۥٓ إِنَّآ إِذًۭا لَّظَٰلِمُونَ
 
-**12:80** Ondan ümit kesince gizlice danıştılar. En büyükleri dedi: “Babanızın sizden Allah önünde söz aldığını ve geçmişte Yûsuf hakkında başarısız olduğunuzu bilmiyor musunuz? Babam izin verene ya da Allah benim için karar verene kadar bu ülkeden ayrılmayacağım; O Karar Verenlerin En İyisidir.”
+**12:80** Ondan ümit kesince gizlice danıştılar. En büyükleri dedi: "Babanızın sizden Allah önünde söz aldığını ve geçmişte Yûsuf hakkında başarısız olduğunuzu bilmiyor musunuz? Babam izin verene ya da Allah benim için karar verene kadar bu ülkeden ayrılmayacağım; O Karar Verenlerin En İyisidir."
 
 فَلَمَّا ٱسْتَيْـَٔسُوا۟ مِنْهُ خَلَصُوا۟ نَجِيًّۭا ۖ قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوٓا۟ أَنَّ أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُم مَّوْثِقًۭا مِّنَ ٱللَّهِ وَمِن قَبْلُ مَا فَرَّطتُمْ فِى يُوسُفَ ۖ فَلَنْ أَبْرَحَ ٱلْأَرْضَ حَتَّىٰ يَأْذَنَ لِىٓ أَبِىٓ أَوْ يَحْكُمَ ٱللَّهُ لِى ۖ وَهُوَ خَيْرُ ٱلْحَٰكِمِينَ
 
-**12:81** “Babanıza dönün ve deyin: ‘Babamız, oğlun çaldı. Ancak bildiğimizi tanıklık ederiz ve öngörülmezi engelleyemezdik.’”
+**12:81** "Babanıza dönün ve deyin: 'Babamız, oğlun çaldı. Ancak bildiğimizi tanıklık ederiz ve öngörülmezi engelleyemezdik.'"
 
 ٱرْجِعُوٓا۟ إِلَىٰٓ أَبِيكُمْ فَقُولُوا۟ يَٰٓأَبَانَآ إِنَّ ٱبْنَكَ سَرَقَ وَمَا شَهِدْنَآ إِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَٰفِظِينَ
 
-**12:82** “Bulunduğumuz kenti ve geldiğimiz kervanı sorun. Doğru söylüyoruz.”
+**12:82** "Bulunduğumuz kenti ve geldiğimiz kervanı sorun. Doğru söylüyoruz."
 
 وَسْـَٔلِ ٱلْقَرْيَةَ ٱلَّتِى كُنَّا فِيهَا وَٱلْعِيرَ ٱلَّتِىٓ أَقْبَلْنَا فِيهَا ۖ وَإِنَّا لَصَٰدِقُونَ
 
-**12:83** Dedi: “Aksine, canlarınız size bir şey düzenledi. Sabır bir erdemdir. Belki Allah hepsini bana geri getirir. O Bilen ve Bilgedir.”
+**12:83** Dedi: "Aksine, canlarınız size bir şey düzenledi. Sabır bir erdemdir. Belki Allah hepsini bana geri getirir. O Bilen ve Bilgedir."
 
 قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًۭا ۖ فَصَبْرٌۭ جَمِيلٌ ۖ عَسَى ٱللَّهُ أَن يَأْتِيَنِى بِهِمْ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
 
-**12:84** Sonra onlardan yüz çevirdi ve dedi: “Ey Yûsuf için acım.” Gözleri üzüntüden beyazlaştı ve kederli oldu.
+**12:84** Sonra onlardan yüz çevirdi ve dedi: "Ey Yûsuf için acım." Gözleri üzüntüden beyazlaştı ve kederli oldu.
 
 وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ فَهُوَ كَظِيمٌۭ
 
-**12:85** Dediler: “Allah'a yemin, Yûsuf'u hatırlamayı bırakmayacaksın, sağlığını mahvedene ya da ölene kadar.”
+**12:85** Dediler: "Allah'a yemin, Yûsuf'u hatırlamayı bırakmayacaksın, sağlığını mahvedene ya da ölene kadar."
 
 قَالُوا۟ تَٱللَّهِ تَفْتَؤُا۟ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ ٱلْهَٰلِكِينَ
 
-**12:86** Dedi: “Kederimi ve üzüntümü ancak Allah'a şikâyet ediyorum ve Allah'tan sizin bilmediğinizi biliyorum.”
+**12:86** Dedi: "Kederimi ve üzüntümü ancak Allah'a şikâyet ediyorum ve Allah'tan sizin bilmediğinizi biliyorum."
 
 قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ
 
-**12:87** “Ey oğullarım, gidin Yûsuf ve kardeşini soruşturun ve Allah'ın rahatlığından ümit kesmeyin. Allah'ın rahatlığından yalnızca inkâr eden halk ümit keser.”
+**12:87** "Ey oğullarım, gidin Yûsuf ve kardeşini soruşturun ve Allah'ın rahatlığından ümit kesmeyin. Allah'ın rahatlığından yalnızca inkâr eden halk ümit keser."
 
 يَٰبَنِىَّ ٱذْهَبُوا۟ فَتَحَسَّسُوا۟ مِن يُوسُفَ وَأَخِيهِ وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ ۖ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَٰفِرُونَ
 
-**12:88** Huzuruna girdiklerinde dediler: “Güçlü vali, bize ve ailemize sıkıntı geldi. Az mal getirdik. Ama bize tam ölçü ver ve bize hayırsever ol — Allah hayırseverleri ödüllendirir.”
+**12:88** Huzuruna girdiklerinde dediler: "Güçlü vali, bize ve ailemize sıkıntı geldi. Az mal getirdik. Ama bize tam ölçü ver ve bize hayırsever ol — Allah hayırseverleri ödüllendirir."
 
 فَلَمَّا دَخَلُوا۟ عَلَيْهِ قَالُوا۟ يَٰٓأَيُّهَا ٱلْعَزِيزُ مَسَّنَا وَأَهْلَنَا ٱلضُّرُّ وَجِئْنَا بِبِضَٰعَةٍۢ مُّزْجَىٰةٍۢ فَأَوْفِ لَنَا ٱلْكَيْلَ وَتَصَدَّقْ عَلَيْنَآ ۖ إِنَّ ٱللَّهَ يَجْزِى ٱلْمُتَصَدِّقِينَ
 
-**12:89** Dedi: “Cahilliğinizde Yûsuf ve kardeşine ne yaptığınızı fark ediyor musunuz?”
+**12:89** Dedi: "Cahilliğinizde Yûsuf ve kardeşine ne yaptığınızı fark ediyor musunuz?"
 
 قَالَ هَلْ عَلِمْتُم مَّا فَعَلْتُم بِيُوسُفَ وَأَخِيهِ إِذْ أَنتُمْ جَٰهِلُونَ
 
-**12:90** Dediler: “Sen Yûsuf musun?” Dedi: “Ben Yûsuf'um ve bu kardeşim. Allah bize lütuf gösterdi. Takva uygulayan ve sabreden — Allah doğruların ödülünü asla boşa çıkarmaz.”
+**12:90** Dediler: "Sen Yûsuf musun?" Dedi: "Ben Yûsuf'um ve bu kardeşim. Allah bize lütuf gösterdi. Takva uygulayan ve sabreden — Allah doğruların ödülünü asla boşa çıkarmaz."
 
 قَالُوٓا۟ أَءِنَّكَ لَأَنتَ يُوسُفُ ۖ قَالَ أَنَا۠ يُوسُفُ وَهَٰذَآ أَخِى ۖ قَدْ مَنَّ ٱللَّهُ عَلَيْنَآ ۖ إِنَّهُۥ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ
 
-**12:91** Dediler: “Allah'a yemin, Allah seni bize tercih etti. Kesinlikle yanılıyorduk.”
+**12:91** Dediler: "Allah'a yemin, Allah seni bize tercih etti. Kesinlikle yanılıyorduk."
 
 قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَٰطِـِٔينَ
 
-**12:92** Dedi: “Bugün size suçlama yok. Allah sizi bağışlayacak. O merhametlilerin En Merhametlisidir.”
+**12:92** Dedi: "Bugün size suçlama yok. Allah sizi bağışlayacak. O merhametlilerin En Merhametlisidir."
 
 قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ ۖ يَغْفِرُ ٱللَّهُ لَكُمْ ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
 
-**12:93** “Bu gömleğimi alın ve babamın yüzüne koyun, görmesi geri gelecek. Ve bütün ailenizi bana getirin.”
+**12:93** "Bu gömleğimi alın ve babamın yüzüne koyun, görmesi geri gelecek. Ve bütün ailenizi bana getirin."
 
 ٱذْهَبُوا۟ بِقَمِيصِى هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِى يَأْتِ بَصِيرًۭا وَأْتُونِى بِأَهْلِكُمْ أَجْمَعِينَ
 
-**12:94** Kervan yola çıkarken babaları dedi: “Yûsuf'un varlığını hissediyorum, beni bunak sanabilirsiniz.”
+**12:94** Kervan yola çıkarken babaları dedi: "Yûsuf'un varlığını hissediyorum, beni bunak sanabilirsiniz."
 
 وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّى لَأَجِدُ رِيحَ يُوسُفَ ۖ لَوْلَآ أَن تُفَنِّدُونِ
 
-**12:95** Dediler: “Allah'a yemin, hâlâ eski şaşkınlığındasın.”
+**12:95** Dediler: "Allah'a yemin, hâlâ eski şaşkınlığındasın."
 
 قَالُوا۟ تَٱللَّهِ إِنَّكَ لَفِى ضَلَٰلِكَ ٱلْقَدِيمِ
 
-**12:96** Müjdeci gelince onu yüzüne koydu ve görmesi geri geldi. Dedi: “Size Allah'tan sizin bilmediğinizi bildiğimi söylemedim mi?”
+**12:96** Müjdeci gelince onu yüzüne koydu ve görmesi geri geldi. Dedi: "Size Allah'tan sizin bilmediğinizi bildiğimi söylemedim mi?"
 
 فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ
 
-**12:97** Dediler: “Baba, günahlarımızın bağışlanması için dua et; gerçekten hatalıydık.”
+**12:97** Dediler: "Baba, günahlarımızın bağışlanması için dua et; gerçekten hatalıydık."
 
 قَالُوا۟ يَٰٓأَبَانَا ٱسْتَغْفِرْ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا خَٰطِـِٔينَ
 
-**12:98** Dedi: “Rabbimden sizi bağışlamasını isteyeceğim. O Bağışlayan ve En Merhametlidir.”
+**12:98** Dedi: "Rabbimden sizi bağışlamasını isteyeceğim. O Bağışlayan ve En Merhametlidir."
 
 قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّىٓ ۖ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
-**12:99** Yûsuf'un huzuruna girdiklerinde ana babasına sarıldı ve dedi: “Allah dilerse, güvenli ve emin olarak Mısır'a girin.”
+**12:99** Yûsuf'un huzuruna girdiklerinde ana babasına sarıldı ve dedi: "Allah dilerse, güvenli ve emin olarak Mısır'a girin."
 
 فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ
 
-**12:100** Ana babasını tahta yükseltti ve onlar onun önünde secdeye kapandı. Dedi: “Baba, bu uzun önceki rüyamın gerçekleşmesi. Rabbim onu gerçek yaptı. Beni hapisten çıkarınca ve şeytan benimle kardeşlerim arasında çatışma ektikten sonra sizi çölden getirince bana nimet verdi. Rabbim dilediğine En Naziktir. O Her Şeyi Bilen ve En Bilgedir.”
+**12:100** Ana babasını tahta yükseltti ve onlar onun önünde secdeye kapandı. Dedi: "Baba, bu uzun önceki rüyamın gerçekleşmesi. Rabbim onu gerçek yaptı. Beni hapisten çıkarınca ve şeytan benimle kardeşlerim arasında çatışma ektikten sonra sizi çölden getirince bana nimet verdi. Rabbim dilediğine En Naziktir. O Her Şeyi Bilen ve En Bilgedir."
 
 وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًۭا ۖ وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّۭا ۖ وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ ۚ إِنَّ رَبِّى لَطِيفٌۭ لِّمَا يَشَآءُ ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
 
-**12:101** “Rabbim, bana bir yetki verdin ve olayların bir yorumunu öğrettin. Göklerin ve yerin Başlatıcısı; Sen bu hayatta ve ahirette Koruyucumsun. Canımı teslim olmuş olarak al ve beni doğrulara kat.”
+**12:101** "Rabbim, bana bir yetki verdin ve olayların bir yorumunu öğrettin. Göklerin ve yerin Başlatıcısı; Sen bu hayatta ve ahirette Koruyucumsun. Canımı teslim olmuş olarak al ve beni doğrulara kat."
 
 ۞ رَبِّ قَدْ ءَاتَيْتَنِى مِنَ ٱلْمُلْكِ وَعَلَّمْتَنِى مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ فَاطِرَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ أَنتَ وَلِىِّۦ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ ۖ تَوَفَّنِى مُسْلِمًۭا وَأَلْحِقْنِى بِٱلصَّٰلِحِينَ
 
@@ -7088,7 +7088,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 أَفَأَمِنُوٓا۟ أَن تَأْتِيَهُمْ غَٰشِيَةٌۭ مِّنْ عَذَابِ ٱللَّهِ أَوْ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةًۭ وَهُمْ لَا يَشْعُرُونَ
 
-**12:108** De ki: “Bu benim yolum; açık bilgiye dayanarak Allah'a davet ederim — ben ve beni izleyen. Allah'a şan; ben çoktanrıcılardan değilim.”
+**12:108** De ki: "Bu benim yolum; açık bilgiye dayanarak Allah'a davet ederim — ben ve beni izleyen. Allah'a şan; ben çoktanrıcılardan değilim."
 
 قُلْ هَٰذِهِۦ سَبِيلِىٓ أَدْعُوٓا۟ إِلَى ٱللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا۠ وَمَنِ ٱتَّبَعَنِى ۖ وَسُبْحَٰنَ ٱللَّهِ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ
 
@@ -7132,7 +7132,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَفِى ٱلْأَرْضِ قِطَعٌۭ مُّتَجَٰوِرَٰتٌۭ وَجَنَّٰتٌۭ مِّنْ أَعْنَٰبٍۢ وَزَرْعٌۭ وَنَخِيلٌۭ صِنْوَانٌۭ وَغَيْرُ صِنْوَانٍۢ يُسْقَىٰ بِمَآءٍۢ وَٰحِدٍۢ وَنُفَضِّلُ بَعْضَهَا عَلَىٰ بَعْضٍۢ فِى ٱلْأُكُلِ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَعْقِلُونَ
 
-**13:5** Şaşarsan — gerçek şaşkınlık onların sözüdür: “Toprak olunca yeni bir yaratılışta mı olacağız?” Onlar Rablerini inkâr edenlerdir. Onların boyunlarına boyunduruklar olacak. Onlar ateş halkıdır, orada sonsuza kadar kalırlar.
+**13:5** Şaşarsan — gerçek şaşkınlık onların sözüdür: "Toprak olunca yeni bir yaratılışta mı olacağız?" Onlar Rablerini inkâr edenlerdir. Onların boyunlarına boyunduruklar olacak. Onlar ateş halkıdır, orada sonsuza kadar kalırlar.
 
 ۞ وَإِن تَعْجَبْ فَعَجَبٌۭ قَوْلُهُمْ أَءِذَا كُنَّا تُرَٰبًا أَءِنَّا لَفِى خَلْقٍۢ جَدِيدٍ ۗ أُو۟لَٰٓئِكَ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ ۖ وَأُو۟لَٰٓئِكَ ٱلْأَغْلَٰلُ فِىٓ أَعْنَاقِهِمْ ۖ وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
@@ -7140,7 +7140,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَيَسْتَعْجِلُونَكَ بِٱلسَّيِّئَةِ قَبْلَ ٱلْحَسَنَةِ وَقَدْ خَلَتْ مِن قَبْلِهِمُ ٱلْمَثُلَٰتُ ۗ وَإِنَّ رَبَّكَ لَذُو مَغْفِرَةٍۢ لِّلنَّاسِ عَلَىٰ ظُلْمِهِمْ ۖ وَإِنَّ رَبَّكَ لَشَدِيدُ ٱلْعِقَابِ
 
-**13:7** İnkâr edenler, “Rabbinden ona bir mucize indirilmedi mi” der. Sen ancak bir uyarıcısın ve her topluluğun bir yol göstericisi vardır.
+**13:7** İnkâr edenler, "Rabbinden ona bir mucize indirilmedi mi" der. Sen ancak bir uyarıcısın ve her topluluğun bir yol göstericisi vardır.
 
 وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌۭ مِّن رَّبِّهِۦٓ ۗ إِنَّمَآ أَنتَ مُنذِرٌۭ ۖ وَلِكُلِّ قَوْمٍ هَادٍ
 
@@ -7178,7 +7178,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 
 
-**13:16** De ki: “Göklerin ve yerin Rabbi kimdir?” De ki: “Allah.” De ki: “O'ndan başka, kendilerine bile yarar ya da zarar gücü olmayan koruyucular mı edindiniz?” De ki: “Kör ve gören eşit midir? Ya da karanlık ve ışık eşit midir? Ya da Allah'a, O'nun yaratması gibi yaratan ortaklar mı atadılar, yaratmalar onlara benzer göründü?” De ki: “Allah her şeyin Yaratıcısıdır ve O Tek ve Karşı Konulmazdır.”
+**13:16** De ki: "Göklerin ve yerin Rabbi kimdir?" De ki: "Allah." De ki: "O'ndan başka, kendilerine bile yarar ya da zarar gücü olmayan koruyucular mı edindiniz?" De ki: "Kör ve gören eşit midir? Ya da karanlık ve ışık eşit midir? Ya da Allah'a, O'nun yaratması gibi yaratan ortaklar mı atadılar, yaratmalar onlara benzer göründü?" De ki: "Allah her şeyin Yaratıcısıdır ve O Tek ve Karşı Konulmazdır."
 
 قُلْ مَن رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ قُلِ ٱللَّهُ ۚ قُلْ أَفَٱتَّخَذْتُم مِّن دُونِهِۦٓ أَوْلِيَآءَ لَا يَمْلِكُونَ لِأَنفُسِهِمْ نَفْعًۭا وَلَا ضَرًّۭا ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ أَمْ هَلْ تَسْتَوِى ٱلظُّلُمَٰتُ وَٱلنُّورُ ۗ أَمْ جَعَلُوا۟ لِلَّهِ شُرَكَآءَ خَلَقُوا۟ كَخَلْقِهِۦ فَتَشَٰبَهَ ٱلْخَلْقُ عَلَيْهِمْ ۚ قُلِ ٱللَّهُ خَٰلِقُ كُلِّ شَىْءٍۢ وَهُوَ ٱلْوَٰحِدُ ٱلْقَهَّٰرُ
 
@@ -7210,7 +7210,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 جَنَّٰتُ عَدْنٍۢ يَدْخُلُونَهَا وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّٰتِهِمْ ۖ وَٱلْمَلَٰٓئِكَةُ يَدْخُلُونَ عَلَيْهِم مِّن كُلِّ بَابٍۢ
 
-**13:24** “Sabırla dayandığınız için size esenlik. Son Yurt ne mükemmeldir.”
+**13:24** "Sabırla dayandığınız için size esenlik. Son Yurt ne mükemmeldir."
 
 سَلَٰمٌ عَلَيْكُم بِمَا صَبَرْتُمْ ۚ فَنِعْمَ عُقْبَى ٱلدَّارِ
 
@@ -7222,11 +7222,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ وَفَرِحُوا۟ بِٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا فِى ٱلْءَاخِرَةِ إِلَّا مَتَٰعٌۭ
 
-**13:27** İnkâr edenler, “Ona Rabbinden bir mucize indirilseydi” der. De ki: “Allah dilediğini saptırır ve dönene kendine yol gösterir.”
+**13:27** İnkâr edenler, "Ona Rabbinden bir mucize indirilseydi" der. De ki: "Allah dilediğini saptırır ve dönene kendine yol gösterir."
 
 وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌۭ مِّن رَّبِّهِۦ ۗ قُلْ إِنَّ ٱللَّهَ يُضِلُّ مَن يَشَآءُ وَيَهْدِىٓ إِلَيْهِ مَنْ أَنَابَ
 
-**13:28** İnananlar ve kalpleri Allah'ı anmakla rahatlık bulanlar. Gerçekten Allah'ı anmakta kalpler rahatlık bulur.”
+**13:28** İnananlar ve kalpleri Allah'ı anmakla rahatlık bulanlar. Gerçekten Allah'ı anmakta kalpler rahatlık bulur."
 
 ٱلَّذِينَ ءَامَنُوا۟ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ ٱللَّهِ ۗ أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ
 
@@ -7234,7 +7234,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ طُوبَىٰ لَهُمْ وَحُسْنُ مَـَٔابٍۢ
 
-**13:30** Böylece seni, onlardan önce başka toplulukların geçtiği bir topluluk arasına gönderdik ki sana vahyettiğimizi onlara okuyasın. Yine de Merhametli Olanı inkâr ederler. De ki: “O Rabbimdir; O'ndan başka tanrı yoktur; O'na güvenirim ve dönüşüm O'nadır.”
+**13:30** Böylece seni, onlardan önce başka toplulukların geçtiği bir topluluk arasına gönderdik ki sana vahyettiğimizi onlara okuyasın. Yine de Merhametli Olanı inkâr ederler. De ki: "O Rabbimdir; O'ndan başka tanrı yoktur; O'na güvenirim ve dönüşüm O'nadır."
 
 كَذَٰلِكَ أَرْسَلْنَٰكَ فِىٓ أُمَّةٍۢ قَدْ خَلَتْ مِن قَبْلِهَآ أُمَمٌۭ لِّتَتْلُوَا۟ عَلَيْهِمُ ٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَهُمْ يَكْفُرُونَ بِٱلرَّحْمَٰنِ ۚ قُلْ هُوَ رَبِّى لَآ إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ مَتَابِ
 
@@ -7246,7 +7246,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍۢ مِّن قَبْلِكَ فَأَمْلَيْتُ لِلَّذِينَ كَفَرُوا۟ ثُمَّ أَخَذْتُهُمْ ۖ فَكَيْفَ كَانَ عِقَابِ
 
-**13:33** Her canın işlerini gözeten O mudur? Yine de Allah'a ortaklar atarlar. De ki: “Onları adlandırın! Ya da O'na yeryüzünde bilmediği bir şeyi mi bildiriyorsunuz ya da söz gösterisi mi?” Aslında inkâr edenlerin düzeni onlara iyi gösterilir ve yoldan çevrilirler. Allah kimi saptırırsa, onun yol göstericisi yoktur.
+**13:33** Her canın işlerini gözeten O mudur? Yine de Allah'a ortaklar atarlar. De ki: "Onları adlandırın! Ya da O'na yeryüzünde bilmediği bir şeyi mi bildiriyorsunuz ya da söz gösterisi mi?" Aslında inkâr edenlerin düzeni onlara iyi gösterilir ve yoldan çevrilirler. Allah kimi saptırırsa, onun yol göstericisi yoktur.
 
 أَفَمَنْ هُوَ قَآئِمٌ عَلَىٰ كُلِّ نَفْسٍۭ بِمَا كَسَبَتْ ۗ وَجَعَلُوا۟ لِلَّهِ شُرَكَآءَ قُلْ سَمُّوهُمْ ۚ أَمْ تُنَبِّـُٔونَهُۥ بِمَا لَا يَعْلَمُ فِى ٱلْأَرْضِ أَم بِظَٰهِرٍۢ مِّنَ ٱلْقَوْلِ ۗ بَلْ زُيِّنَ لِلَّذِينَ كَفَرُوا۟ مَكْرُهُمْ وَصُدُّوا۟ عَنِ ٱلسَّبِيلِ ۗ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍۢ
 
@@ -7258,7 +7258,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ۞ مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ ۖ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۖ أُكُلُهَا دَآئِمٌۭ وَظِلُّهَا ۚ تِلْكَ عُقْبَى ٱلَّذِينَ ٱتَّقَوا۟ ۖ وَّعُقْبَى ٱلْكَٰفِرِينَ ٱلنَّارُ
 
-**13:36** Kitap'ı verdiğimiz kişiler sana vahyedilene sevinir, bazı gruplar onun kısımlarını reddeder. De ki: “Allah'a kulluk etmek ve O'na hiçbir şeyi ortak koşmamak emrolundum. O'na davet ederim ve dönüşüm O'nadır.”
+**13:36** Kitap'ı verdiğimiz kişiler sana vahyedilene sevinir, bazı gruplar onun kısımlarını reddeder. De ki: "Allah'a kulluk etmek ve O'na hiçbir şeyi ortak koşmamak emrolundum. O'na davet ederim ve dönüşüm O'nadır."
 
 وَٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ يَفْرَحُونَ بِمَآ أُنزِلَ إِلَيْكَ ۖ وَمِنَ ٱلْأَحْزَابِ مَن يُنكِرُ بَعْضَهُۥ ۚ قُلْ إِنَّمَآ أُمِرْتُ أَنْ أَعْبُدَ ٱللَّهَ وَلَآ أُشْرِكَ بِهِۦٓ ۚ إِلَيْهِ أَدْعُوا۟ وَإِلَيْهِ مَـَٔابِ
 
@@ -7286,7 +7286,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَقَدْ مَكَرَ ٱلَّذِينَ مِن قَبْلِهِمْ فَلِلَّهِ ٱلْمَكْرُ جَمِيعًۭا ۖ يَعْلَمُ مَا تَكْسِبُ كُلُّ نَفْسٍۢ ۗ وَسَيَعْلَمُ ٱلْكُفَّٰرُ لِمَنْ عُقْبَى ٱلدَّارِ
 
-**13:43** İnkâr edenler, “Sen elçi değilsin” der. De ki: “Allah benimle sizin aranızda yeterli tanıktır ve Kitap bilgisine sahip olan da.”
+**13:43** İnkâr edenler, "Sen elçi değilsin" der. De ki: "Allah benimle sizin aranızda yeterli tanıktır ve Kitap bilgisine sahip olan da."
 
 وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَسْتَ مُرْسَلًۭا ۚ قُلْ كَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ وَمَنْ عِندَهُۥ عِلْمُ ٱلْكِتَٰبِ
 
@@ -15786,7 +15786,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِلَّا مَنْ خَطِفَ ٱلْخَطْفَةَ فَأَتْبَعَهُۥ شِهَابٌۭ ثَاقِبٌۭ
 
-**37:11** Onlara sor: “Onları yaratmak mı daha zordur, yoksa yarattığımız ötekileri mi?” Biz onları yapışkan bir çamurdan yarattık.
+**37:11** Onlara sor: "Onları yaratmak mı daha zordur, yoksa yarattığımız ötekileri mi?" Biz onları yapışkan bir çamurdan yarattık.
 
 فَٱسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَم مَّنْ خَلَقْنَآ ۚ إِنَّا خَلَقْنَٰهُم مِّن طِينٍۢ لَّازِبٍۭ
 
@@ -15802,7 +15802,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَإِذَا رَأَوْا۟ ءَايَةًۭ يَسْتَسْخِرُونَ
 
-**37:15** Ve derler: “Bu, apaçık bir büyüden başka bir şey değildir.
+**37:15** Ve derler: "Bu, apaçık bir büyüden başka bir şey değildir.
 
 وَقَالُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌ
 
@@ -15810,11 +15810,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 أَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ
 
-**37:17** İlk atalarımız da mı?”
+**37:17** İlk atalarımız da mı?"
 
 أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ
 
-**37:18** De ki: “Evet, hem de siz boyun eğersiniz.”
+**37:18** De ki: "Evet, hem de siz boyun eğersiniz."
 
 قُلْ نَعَمْ وَأَنتُمْ دَٰخِرُونَ
 
@@ -15822,11 +15822,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَإِنَّمَا هِىَ زَجْرَةٌۭ وَٰحِدَةٌۭ فَإِذَا هُمْ يَنظُرُونَ
 
-**37:20** Derler: “Yazık bize. Bu, hesap günüdür.”
+**37:20** Derler: "Yazık bize. Bu, hesap günüdür."
 
 وَقَالُوا۟ يَٰوَيْلَنَا هَٰذَا يَوْمُ ٱلدِّينِ
 
-**37:21** “Bu, yalanladığınız ayrım günüdür.
+**37:21** "Bu, yalanladığınız ayrım günüdür.
 
 هَٰذَا يَوْمُ ٱلْفَصْلِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ
 
@@ -15838,7 +15838,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 مِن دُونِ ٱللَّهِ فَٱهْدُوهُمْ إِلَىٰ صِرَٰطِ ٱلْجَحِيمِ
 
-**37:24** Ve onları durdurun. Onlar sorguya çekilecektir.”
+**37:24** Ve onları durdurun. Onlar sorguya çekilecektir."
 
 وَقِفُوهُمْ ۖ إِنَّهُم مَّسْـُٔولُونَ
 
@@ -15854,11 +15854,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَسَآءَلُونَ
 
-**37:28** Derler: “Siz bize sağdan gelirdiniz.”
+**37:28** Derler: "Siz bize sağdan gelirdiniz."
 
 قَالُوٓا۟ إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ ٱلْيَمِينِ
 
-**37:29** Derler: “Siz kendiniz inanan kimseler değildiniz.
+**37:29** Derler: "Siz kendiniz inanan kimseler değildiniz.
 
 قَالُوا۟ بَل لَّمْ تَكُونُوا۟ مُؤْمِنِينَ
 
@@ -15870,7 +15870,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَآ ۖ إِنَّا لَذَآئِقُونَ
 
-**37:32** Sizi biz saptırdık. Biz saptıranlardık.”
+**37:32** Sizi biz saptırdık. Biz saptıranlardık."
 
 فَأَغْوَيْنَٰكُمْ إِنَّا كُنَّا غَٰوِينَ
 
@@ -15882,11 +15882,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِنَّا كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ
 
-**37:35** Onlara: “Allah'tan başka ilah yoktur” denildiği zaman büyüklük taslarlardı.
+**37:35** Onlara: "Allah'tan başka ilah yoktur" denildiği zaman büyüklük taslarlardı.
 
 إِنَّهُمْ كَانُوٓا۟ إِذَا قِيلَ لَهُمْ لَآ إِلَٰهَ إِلَّا ٱللَّهُ يَسْتَكْبِرُونَ
 
-**37:36** Ve derlerdi: “Deli bir şair için ilahlarımızı mı bırakacağız?”
+**37:36** Ve derlerdi: "Deli bir şair için ilahlarımızı mı bırakacağız?"
 
 وَيَقُولُونَ أَئِنَّا لَتَارِكُوٓا۟ ءَالِهَتِنَا لِشَاعِرٍۢ مَّجْنُونٍۭ
 
@@ -15946,19 +15946,19 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَسَآءَلُونَ
 
-**37:51** Biri der: “Benim bir arkadaşım vardı.
+**37:51** Biri der: "Benim bir arkadaşım vardı.
 
 قَالَ قَآئِلٌۭ مِّنْهُمْ إِنِّى كَانَ لِى قَرِينٌۭ
 
-**37:52** O derdi: ‘Sen de inananlardan mısın?
+**37:52** O derdi: 'Sen de inananlardan mısın?
 
 يَقُولُ أَءِنَّكَ لَمِنَ ٱلْمُصَدِّقِينَ
 
-**37:53** Biz ölüp toprak ve kemik olduktan sonra hesaba mı çekileceğiz?’”
+**37:53** Biz ölüp toprak ve kemik olduktan sonra hesaba mı çekileceğiz?'"
 
 أَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَٰمًا أَءِنَّا لَمَدِينُونَ
 
-**37:54** O der: “Bir bakmak ister misiniz?”
+**37:54** O der: "Bir bakmak ister misiniz?"
 
 قَالَ هَلْ أَنتُم مُّطَّلِعُونَ
 
@@ -15966,19 +15966,19 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَٱطَّلَعَ فَرَءَاهُ فِى سَوَآءِ ٱلْجَحِيمِ
 
-**37:56** Der: “Allah'a andolsun, az kalsın beni de batıracaktın.
+**37:56** Der: "Allah'a andolsun, az kalsın beni de batıracaktın.
 
 قَالَ تَٱللَّهِ إِن كِدتَّ لَتُرْدِينِ
 
-**37:57** Rabbimin lütfu olmasaydı ben de sorguya getirilenlerden olurdum.”
+**37:57** Rabbimin lütfu olmasaydı ben de sorguya getirilenlerden olurdum."
 
 وَلَوْلَا نِعْمَةُ رَبِّى لَكُنتُ مِنَ ٱلْمُحْضَرِينَ
 
-**37:58** “Biz ölmeyeceğiz.
+**37:58** "Biz ölmeyeceğiz.
 
 أَفَمَا نَحْنُ بِمَيِّتِينَ
 
-**37:59** İlk ölümümüzden başka ölüm yoktur ve biz azap görmeyeceğiz.”
+**37:59** İlk ölümümüzden başka ölüm yoktur ve biz azap görmeyeceğiz."
 
 إِلَّا مَوْتَتَنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُعَذَّبِينَ
 
@@ -16082,7 +16082,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِذْ جَآءَ رَبَّهُۥ بِقَلْبٍۢ سَلِيمٍ
 
-**37:85** Babasına ve halkına dedi: “Siz neye tapıyorsunuz?
+**37:85** Babasına ve halkına dedi: "Siz neye tapıyorsunuz?
 
 إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ
 
@@ -16090,7 +16090,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 أَئِفْكًا ءَالِهَةًۭ دُونَ ٱللَّهِ تُرِيدُونَ
 
-**37:87** Âlemlerin Rabbi hakkında görüşünüz nedir?”
+**37:87** Âlemlerin Rabbi hakkında görüşünüz nedir?"
 
 فَمَا ظَنُّكُم بِرَبِّ ٱلْعَٰلَمِينَ
 
@@ -16098,7 +16098,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَنَظَرَ نَظْرَةًۭ فِى ٱلنُّجُومِ
 
-**37:89** Ve dedi: “Ben hastayım.”
+**37:89** Ve dedi: "Ben hastayım."
 
 فَقَالَ إِنِّى سَقِيمٌۭ
 
@@ -16106,11 +16106,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَتَوَلَّوْا۟ عَنْهُ مُدْبِرِينَ
 
-**37:91** Sonra o, onların ilahlarına yöneldi ve dedi: “Yemek yemez misiniz?
+**37:91** Sonra o, onların ilahlarına yöneldi ve dedi: "Yemek yemez misiniz?
 
 فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ
 
-**37:92** Size ne oluyor, niçin konuşmuyorsunuz?”
+**37:92** Size ne oluyor, niçin konuşmuyorsunuz?"
 
 مَا لَكُمْ لَا تَنطِقُونَ
 
@@ -16122,15 +16122,15 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَأَقْبَلُوٓا۟ إِلَيْهِ يَزِفُّونَ
 
-**37:95** Dedi: “Siz, yonttuğunuz şeye mi tapıyorsunuz?
+**37:95** Dedi: "Siz, yonttuğunuz şeye mi tapıyorsunuz?
 
 قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ
 
-**37:96** Oysa sizi de yaptığınız şeyleri de Allah yarattı.”
+**37:96** Oysa sizi de yaptığınız şeyleri de Allah yarattı."
 
 وَٱللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ
 
-**37:97** Dediler: “Onun için bir odun yığını kurun ve onu fırına atın.”
+**37:97** Dediler: "Onun için bir odun yığını kurun ve onu fırına atın."
 
 قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ
 
@@ -16138,11 +16138,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَأَرَادُوا۟ بِهِۦ كَيْدًۭا فَجَعَلْنَٰهُمُ ٱلْأَسْفَلِينَ
 
-**37:99** Dedi: “Ben Rabbime gidiyorum ve O bana yol gösterir.”
+**37:99** Dedi: "Ben Rabbime gidiyorum ve O bana yol gösterir."
 
 وَقَالَ إِنِّى ذَاهِبٌ إِلَىٰ رَبِّى سَيَهْدِينِ
 
-**37:100** “Rabbim, bana iyilerden birini ver.”
+**37:100** "Rabbim, bana iyilerden birini ver."
 
 رَبِّ هَبْ لِى مِنَ ٱلصَّٰلِحِينَ
 
@@ -16150,7 +16150,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَبَشَّرْنَٰهُ بِغُلَٰمٍ حَلِيمٍۢ
 
-**37:102** Sonra çocuk onunla beraber yürüyecek çağa gelince dedi: “Ey oğlum, rüyada seni kurban ettiğimi görüyorum; bak, sen ne dersin?” O dedi: “Ey babam, sana emredileni yap; Allah dilerse beni sabredenlerden bulursun.”
+**37:102** Sonra çocuk onunla beraber yürüyecek çağa gelince dedi: "Ey oğlum, rüyada seni kurban ettiğimi görüyorum; bak, sen ne dersin?" O dedi: "Ey babam, sana emredileni yap; Allah dilerse beni sabredenlerden bulursun."
 
 فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ
 
@@ -16158,11 +16158,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ
 
-**37:104** Biz ona seslendik: “Ey İbrâhim!
+**37:104** Biz ona seslendik: "Ey İbrâhim!
 
 وَنَٰدَيْنَٰهُ أَن يَٰٓإِبْرَٰهِيمُ
 
-**37:105** Rüyayı doğruladın.” İyilik edenleri işte böyle ödüllendiririz.
+**37:105** Rüyayı doğruladın." İyilik edenleri işte böyle ödüllendiririz.
 
 قَدْ صَدَّقْتَ ٱلرُّءْيَآ ۚ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
 
@@ -16238,7 +16238,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ
 
-**37:124** Halkına dedi: “Siz korkmaz mısınız?
+**37:124** Halkına dedi: "Siz korkmaz mısınız?
 
 إِذْ قَالَ لِقَوْمِهِۦٓ أَلَا تَتَّقُونَ
 
@@ -16246,7 +16246,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 أَتَدْعُونَ بَعْلًۭا وَتَذَرُونَ أَحْسَنَ ٱلْخَٰلِقِينَ
 
-**37:126** Allah sizin Rabbinizdir ve ilk atalarınızın da Rabbidir.”
+**37:126** Allah sizin Rabbinizdir ve ilk atalarınızın da Rabbidir."
 
 ٱللَّهَ رَبَّكُمْ وَرَبَّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ
 
@@ -16338,11 +16338,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَـَٔامَنُوا۟ فَمَتَّعْنَٰهُمْ إِلَىٰ حِينٍۢ
 
-**37:149** Onlara sor: “Kızlar senin Rabbinin, oğullar onların mı?”
+**37:149** Onlara sor: "Kızlar senin Rabbinin, oğullar onların mı?"
 
 فَٱسْتَفْتِهِمْ أَلِرَبِّكَ ٱلْبَنَاتُ وَلَهُمُ ٱلْبَنُونَ
 
-**37:150** Yoksa Biz melekleri dişi olarak mı yarattık ve onlar tanık mı oldu?”
+**37:150** Yoksa Biz melekleri dişi olarak mı yarattık ve onlar tanık mı oldu?"
 
 أَمْ خَلَقْنَا ٱلْمَلَٰٓئِكَةَ إِنَٰثًۭا وَهُمْ شَٰهِدُونَ
 
@@ -16350,7 +16350,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 أَلَآ إِنَّهُم مِّنْ إِفْكِهِمْ لَيَقُولُونَ
 
-**37:152** “Allah çocuk edindi.” Onlar gerçekten yalan söyler.
+**37:152** "Allah çocuk edindi." Onlar gerçekten yalan söyler.
 
 وَلَدَ ٱللَّهُ وَإِنَّهُمْ لَكَٰذِبُونَ
 
@@ -16398,7 +16398,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِلَّا مَنْ هُوَ صَالِ ٱلْجَحِيمِ
 
-**37:164** “Bizden her birimizin belli bir yeri vardır.
+**37:164** "Bizden her birimizin belli bir yeri vardır.
 
 وَمَا مِنَّآ إِلَّا لَهُۥ مَقَامٌۭ مَّعْلُومٌۭ
 
@@ -16406,7 +16406,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَإِنَّا لَنَحْنُ ٱلصَّآفُّونَ
 
-**37:166** Ve biz yüceltenleriz.”
+**37:166** Ve biz yüceltenleriz."
 
 وَإِنَّا لَنَحْنُ ٱلْمُسَبِّحُونَ
 
@@ -16414,11 +16414,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَإِن كَانُوا۟ لَيَقُولُونَ
 
-**37:168** “Eskilerden bize bir öğüt gelse idi,
+**37:168** "Eskilerden bize bir öğüt gelse idi,
 
 لَوْ أَنَّ عِندَنَا ذِكْرًۭا مِّنَ ٱلْأَوَّلِينَ
 
-**37:169** Biz Allah'ın bağlı kulları olurduk.”
+**37:169** Biz Allah'ın bağlı kulları olurduk."
 
 لَكُنَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ
 
@@ -16498,15 +16498,15 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍۢ فَنَادَوا۟ وَّلَاتَ حِينَ مَنَاصٍۢ
 
-**38:4** Bir uyarıcının aralarından kendilerine gelmesine şaşırdı. Küfredenler dedi: “Bu, yalan söyleyen bir büyücüdür.”
+**38:4** Bir uyarıcının aralarından kendilerine gelmesine şaşırdı. Küfredenler dedi: "Bu, yalan söyleyen bir büyücüdür."
 
 وَعَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌۭ مِّنْهُمْ ۖ وَقَالَ ٱلْكَٰفِرُونَ هَٰذَا سَٰحِرٌۭ كَذَّابٌ
 
-**38:5** “Bütün ilahları tek bir ilah mı yaptı? Bu, garip bir şeydir.”
+**38:5** "Bütün ilahları tek bir ilah mı yaptı? Bu, garip bir şeydir."
 
 أَجَعَلَ ٱلْءَالِهَةَ إِلَٰهًۭا وَٰحِدًا ۖ إِنَّ هَٰذَا لَشَىْءٌ عُجَابٌۭ
 
-**38:6** Aralarındaki ileri gelenler bildirdi: “Yürüyün ve ilahlarınıza sımsıkı tutunun. Bu, planlı bir iştir.
+**38:6** Aralarındaki ileri gelenler bildirdi: "Yürüyün ve ilahlarınıza sımsıkı tutunun. Bu, planlı bir iştir.
 
 وَٱنطَلَقَ ٱلْمَلَأُ مِنْهُمْ أَنِ ٱمْشُوا۟ وَٱصْبِرُوا۟ عَلَىٰٓ ءَالِهَتِكُمْ ۖ إِنَّ هَٰذَا لَشَىْءٌۭ يُرَادُ
 
@@ -16514,7 +16514,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 مَا سَمِعْنَا بِهَٰذَا فِى ٱلْمِلَّةِ ٱلْءَاخِرَةِ إِنْ هَٰذَآ إِلَّا ٱخْتِلَٰقٌ
 
-**38:8** İleti, hepimizin arasından ona mı indirildi?” Doğrusu onlar Benim uyarımdan kuşku duyar. Doğrusu onlar henüz Benim azabımı tatmadı.
+**38:8** İleti, hepimizin arasından ona mı indirildi?" Doğrusu onlar Benim uyarımdan kuşku duyar. Doğrusu onlar henüz Benim azabımı tatmadı.
 
 أَءُنزِلَ عَلَيْهِ ٱلذِّكْرُ مِنۢ بَيْنِنَا ۚ بَلْ هُمْ فِى شَكٍّۢ مِّن ذِكْرِى ۖ بَل لَّمَّا يَذُوقُوا۟ عَذَابِ
 
@@ -16546,7 +16546,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَمَا يَنظُرُ هَٰٓؤُلَآءِ إِلَّا صَيْحَةًۭ وَٰحِدَةًۭ مَّا لَهَا مِن فَوَاقٍۢ
 
-**38:16** Ve derler: “Rabbimiz, hesap gününden önce yazımızı bize çabuk ver.”
+**38:16** Ve derler: "Rabbimiz, hesap gününden önce yazımızı bize çabuk ver."
 
 وَقَالُوا۟ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبْلَ يَوْمِ ٱلْحِسَابِ
 
@@ -16570,15 +16570,15 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ۞ وَهَلْ أَتَىٰكَ نَبَؤُا۟ ٱلْخَصْمِ إِذْ تَسَوَّرُوا۟ ٱلْمِحْرَابَ
 
-**38:22** Dâvûd'un yanına girince o onlardan ürktü. Dediler: “Korkma. İki davacıyız; birimiz ötekine haksızlık etti; aramızda adaletle hükmet, yan tutma ve bizi doğru yola yönelt.”
+**38:22** Dâvûd'un yanına girince o onlardan ürktü. Dediler: "Korkma. İki davacıyız; birimiz ötekine haksızlık etti; aramızda adaletle hükmet, yan tutma ve bizi doğru yola yönelt."
 
 إِذْ دَخَلُوا۟ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنْهُمْ ۖ قَالُوا۟ لَا تَخَفْ ۖ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍۢ فَٱحْكُم بَيْنَنَا بِٱلْحَقِّ وَلَا تُشْطِطْ وَٱهْدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ
 
-**38:23** “Bu kardeşimin doksan dokuz koyunu vardır ve benim bir koyunum vardır; o dedi: ‘Onu bana bırak’ ve söz ile beni bastırdı.”
+**38:23** "Bu kardeşimin doksan dokuz koyunu vardır ve benim bir koyunum vardır; o dedi: 'Onu bana bırak' ve söz ile beni bastırdı."
 
 إِنَّ هَٰذَآ أَخِى لَهُۥ تِسْعٌۭ وَتِسْعُونَ نَعْجَةًۭ وَلِىَ نَعْجَةٌۭ وَٰحِدَةٌۭ فَقَالَ أَكْفِلْنِيهَا وَعَزَّنِى فِى ٱلْخِطَابِ
 
-**38:24** Dedi: “O, senin koyununu kendi koyunlarına katmak istemekle sana haksızlık etti. Ortakların çoğu birbirine üstünlük kurar; inanan ve iyi işler yapanlar bundan ayrıdır, fakat onlar ne kadar azdır.” Dâvûd, Bizim kendisini sınadığımızı anladı; Rabbinden bağışlanma diledi, dizleri üzerine çöktü ve tövbe etti.
+**38:24** Dedi: "O, senin koyununu kendi koyunlarına katmak istemekle sana haksızlık etti. Ortakların çoğu birbirine üstünlük kurar; inanan ve iyi işler yapanlar bundan ayrıdır, fakat onlar ne kadar azdır." Dâvûd, Bizim kendisini sınadığımızı anladı; Rabbinden bağışlanma diledi, dizleri üzerine çöktü ve tövbe etti.
 
 قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَأَنَابَ ۩
 
@@ -16588,7 +16588,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَغَفَرْنَا لَهُۥ ذَٰلِكَ ۖ وَإِنَّ لَهُۥ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍۢ
 
-**38:26** “Ey Dâvûd, Biz seni yerde yönetici yaptık; insanlar arasında adaletle hükmet ve isteğe uyma; yoksa o seni Allah'ın yolundan saptırır. Allah'ın yolundan sapanlar için, hesap gününü unuttuklarından dolayı acı bir azap vardır.”
+**38:26** "Ey Dâvûd, Biz seni yerde yönetici yaptık; insanlar arasında adaletle hükmet ve isteğe uyma; yoksa o seni Allah'ın yolundan saptırır. Allah'ın yolundan sapanlar için, hesap gününü unuttuklarından dolayı acı bir azap vardır."
 
 يَٰدَاوُۥدُ إِنَّا جَعَلْنَٰكَ خَلِيفَةًۭ فِى ٱلْأَرْضِ فَٱحْكُم بَيْنَ ٱلنَّاسِ بِٱلْحَقِّ وَلَا تَتَّبِعِ ٱلْهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ ٱللَّهِ ۚ إِنَّ ٱلَّذِينَ يَضِلُّونَ عَن سَبِيلِ ٱللَّهِ لَهُمْ عَذَابٌۭ شَدِيدٌۢ بِمَا نَسُوا۟ يَوْمَ ٱلْحِسَابِ
 
@@ -16612,11 +16612,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِذْ عُرِضَ عَلَيْهِ بِٱلْعَشِىِّ ٱلصَّٰفِنَٰتُ ٱلْجِيَادُ
 
-**38:32** Dedi: “Ben güzel şeylere olan sevgiyi, Rabbimi anmaya yeğledim; atlar perdenin arkasında gözden kaybolana dek.
+**38:32** Dedi: "Ben güzel şeylere olan sevgiyi, Rabbimi anmaya yeğledim; atlar perdenin arkasında gözden kaybolana dek.
 
 فَقَالَ إِنِّىٓ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ عَن ذِكْرِ رَبِّى حَتَّىٰ تَوَارَتْ بِٱلْحِجَابِ
 
-**38:33** Onları bana geri getirin.” Ve onların bacaklarını ve boyunlarını okşamaya başladı.
+**38:33** Onları bana geri getirin." Ve onların bacaklarını ve boyunlarını okşamaya başladı.
 
 رُدُّوهَا عَلَىَّ ۖ فَطَفِقَ مَسْحًۢا بِٱلسُّوقِ وَٱلْأَعْنَاقِ
 
@@ -16624,7 +16624,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَلَقَدْ فَتَنَّا سُلَيْمَٰنَ وَأَلْقَيْنَا عَلَىٰ كُرْسِيِّهِۦ جَسَدًۭا ثُمَّ أَنَابَ
 
-**38:35** Dedi: “Rabbim, beni bağışla ve bana benden sonra hiç kimsenin ulaşamayacağı bir yönetim ver. Sen Verensin.”
+**38:35** Dedi: "Rabbim, beni bağışla ve bana benden sonra hiç kimsenin ulaşamayacağı bir yönetim ver. Sen Verensin."
 
 قَالَ رَبِّ ٱغْفِرْ لِى وَهَبْ لِى مُلْكًۭا لَّا يَنۢبَغِى لِأَحَدٍۢ مِّنۢ بَعْدِىٓ ۖ إِنَّكَ أَنتَ ٱلْوَهَّابُ
 
@@ -16640,7 +16640,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَءَاخَرِينَ مُقَرَّنِينَ فِى ٱلْأَصْفَادِ
 
-**38:39** “Bu, Bizim armağanımızdır; bolca ver ya da tut; hesap yoktur.”
+**38:39** "Bu, Bizim armağanımızdır; bolca ver ya da tut; hesap yoktur."
 
 هَٰذَا عَطَآؤُنَا فَٱمْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍۢ
 
@@ -16648,11 +16648,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَإِنَّ لَهُۥ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍۢ
 
-**38:41** Ve kulumuz Eyyûb'u an: Rabbine seslendi: “Şeytan bana zorluk ve acı dokundurdu.”
+**38:41** Ve kulumuz Eyyûb'u an: Rabbine seslendi: "Şeytan bana zorluk ve acı dokundurdu."
 
 وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَٰنُ بِنُصْبٍۢ وَعَذَابٍ
 
-**38:42** “Ayağınla yere vur; işte yıkanmak ve içmek için serin su.”
+**38:42** "Ayağınla yere vur; işte yıkanmak ve içmek için serin su."
 
 ٱرْكُضْ بِرِجْلِكَ ۖ هَٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ
 
@@ -16660,7 +16660,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَٰبِ
 
-**38:44** “Eline bir demet al ve onunla vur; yemini bozma.” Biz onu sabırlı bulduk. Ne iyi bir kuldu! O, yönelen biri idi.
+**38:44** "Eline bir demet al ve onunla vur; yemini bozma." Biz onu sabırlı bulduk. Ne iyi bir kuldu! O, yönelen biri idi.
 
 وَخُذْ بِيَدِكَ ضِغْثًۭا فَٱضْرِب بِّهِۦ وَلَا تَحْنَثْ ۗ إِنَّا وَجَدْنَٰهُ صَابِرًۭا ۚ نِّعْمَ ٱلْعَبْدُ ۖ إِنَّهُۥٓ أَوَّابٌۭ
 
@@ -16720,19 +16720,19 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَءَاخَرُ مِن شَكْلِهِۦٓ أَزْوَٰجٌ
 
-**38:59** “Bu, sizinle beraber baş aşağı dalan bir kalabalıktır.” Onlara hoş geldin yoktur. Onlar Ateş'te yanacaktır.
+**38:59** "Bu, sizinle beraber baş aşağı dalan bir kalabalıktır." Onlara hoş geldin yoktur. Onlar Ateş'te yanacaktır.
 
 هَٰذَا فَوْجٌۭ مُّقْتَحِمٌۭ مَّعَكُمْ ۖ لَا مَرْحَبًۢا بِهِمْ ۚ إِنَّهُمْ صَالُوا۟ ٱلنَّارِ
 
-**38:60** Derler: “Hayır, siz! Size hoş geldin yoktur! Bunu başımıza siz getirdiniz! Ne kötü bir son!”
+**38:60** Derler: "Hayır, siz! Size hoş geldin yoktur! Bunu başımıza siz getirdiniz! Ne kötü bir son!"
 
 قَالُوا۟ بَلْ أَنتُمْ لَا مَرْحَبًۢا بِكُمْ ۖ أَنتُمْ قَدَّمْتُمُوهُ لَنَا ۖ فَبِئْسَ ٱلْقَرَارُ
 
-**38:61** Derler: “Rabbimiz, bunu başımıza kim getirdi ise ona Ateş'te iki kat azap ver.”
+**38:61** Derler: "Rabbimiz, bunu başımıza kim getirdi ise ona Ateş'te iki kat azap ver."
 
 قَالُوا۟ رَبَّنَا مَن قَدَّمَ لَنَا هَٰذَا فَزِدْهُ عَذَابًۭا ضِعْفًۭا فِى ٱلنَّارِ
 
-**38:62** Ve derler: “Bize ne oluyor, kötü saydığımız adamları göremiyoruz?
+**38:62** Ve derler: "Bize ne oluyor, kötü saydığımız adamları göremiyoruz?
 
 وَقَالُوا۟ مَا لَنَا لَا نَرَىٰ رِجَالًۭا كُنَّا نَعُدُّهُم مِّنَ ٱلْأَشْرَارِ
 
@@ -16740,19 +16740,19 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 أَتَّخَذْنَٰهُمْ سِخْرِيًّا أَمْ زَاغَتْ عَنْهُمُ ٱلْأَبْصَٰرُ
 
-**38:64** Bu, Ateş halkının çekişmesi, kesinlikle doğrudur.”
+**38:64** Bu, Ateş halkının çekişmesi, kesinlikle doğrudur."
 
 إِنَّ ذَٰلِكَ لَحَقٌّۭ تَخَاصُمُ أَهْلِ ٱلنَّارِ
 
-**38:65** De ki: “Ben ancak bir uyarıcıyım ve Allah'tan başka ilah yoktur; O birdir, karşı konulmazdır.
+**38:65** De ki: "Ben ancak bir uyarıcıyım ve Allah'tan başka ilah yoktur; O birdir, karşı konulmazdır.
 
 قُلْ إِنَّمَآ أَنَا۠ مُنذِرٌۭ ۖ وَمَا مِنْ إِلَٰهٍ إِلَّا ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ
 
-**38:66** O, göklerin ve yerin ve ikisi arasında bulunanların Rabbidir; Güçlüdür, Bağışlayandır.”
+**38:66** O, göklerin ve yerin ve ikisi arasında bulunanların Rabbidir; Güçlüdür, Bağışlayandır."
 
 رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلْعَزِيزُ ٱلْغَفَّٰرُ
 
-**38:67** De ki: “Bu, büyük önem taşıyan bir iletidir.
+**38:67** De ki: "Bu, büyük önem taşıyan bir iletidir.
 
 قُلْ هُوَ نَبَؤٌا۟ عَظِيمٌ
 
@@ -16764,11 +16764,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 مَا كَانَ لِىَ مِنْ عِلْمٍۭ بِٱلْمَلَإِ ٱلْأَعْلَىٰٓ إِذْ يَخْتَصِمُونَ
 
-**38:70** Bana ancak açık bir uyarıcı olduğum vahyedilir.”
+**38:70** Bana ancak açık bir uyarıcı olduğum vahyedilir."
 
 إِن يُوحَىٰٓ إِلَىَّ إِلَّآ أَنَّمَآ أَنَا۠ نَذِيرٌۭ مُّبِينٌ
 
-**38:71** Rabbin meleklere dedi: “Ben çamurdan bir insan yaratıyorum.
+**38:71** Rabbin meleklere dedi: "Ben çamurdan bir insan yaratıyorum.
 
 إِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًۭا مِّن طِينٍۢ
 
@@ -16784,51 +16784,51 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِلَّآ إِبْلِيسَ ٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَٰفِرِينَ
 
-**38:75** Dedi: “Ey Şeytan, kendi ellerimle yarattığım şeye secde etmekten seni ne alıkoydu? Büyüklük mü tasladın, yoksa yücelerden biri mi idin?”
+**38:75** Dedi: "Ey Şeytan, kendi ellerimle yarattığım şeye secde etmekten seni ne alıkoydu? Büyüklük mü tasladın, yoksa yücelerden biri mi idin?"
 
 قَالَ يَٰٓإِبْلِيسُ مَا مَنَعَكَ أَن تَسْجُدَ لِمَا خَلَقْتُ بِيَدَىَّ ۖ أَسْتَكْبَرْتَ أَمْ كُنتَ مِنَ ٱلْعَالِينَ
 
-**38:76** Dedi: “Ben ondan daha iyiyim; beni ateşten yarattın ve onu çamurdan yarattın.”
+**38:76** Dedi: "Ben ondan daha iyiyim; beni ateşten yarattın ve onu çamurdan yarattın."
 
 قَالَ أَنَا۠ خَيْرٌۭ مِّنْهُ ۖ خَلَقْتَنِى مِن نَّارٍۢ وَخَلَقْتَهُۥ مِن طِينٍۢ
 
-**38:77** Dedi: “Öyle ise buradan çık! Sen kovuldun!
+**38:77** Dedi: "Öyle ise buradan çık! Sen kovuldun!
 
 قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌۭ
 
-**38:78** Ve Benim lanetim hesap gününe dek senin üzerine olacaktır.”
+**38:78** Ve Benim lanetim hesap gününe dek senin üzerine olacaktır."
 
 وَإِنَّ عَلَيْكَ لَعْنَتِىٓ إِلَىٰ يَوْمِ ٱلدِّينِ
 
-**38:79** Dedi: “Rab, diriltilecekleri güne dek bana süre ver.”
+**38:79** Dedi: "Rab, diriltilecekleri güne dek bana süre ver."
 
 قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
 
-**38:80** Dedi: “Sen süre verilenlerdensin.
+**38:80** Dedi: "Sen süre verilenlerdensin.
 
 قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ
 
-**38:81** Belli Zaman gününe dek süre verildi.”
+**38:81** Belli Zaman gününe dek süre verildi."
 
 إِلَىٰ يَوْمِ ٱلْوَقْتِ ٱلْمَعْلُومِ
 
-**38:82** Dedi: “Senin yüceliğine andolsun, onların hepsini saptıracağım.
+**38:82** Dedi: "Senin yüceliğine andolsun, onların hepsini saptıracağım.
 
 قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ
 
-**38:83** Aralarındaki bağlı kulların bundan ayrıdır.”
+**38:83** Aralarındaki bağlı kulların bundan ayrıdır."
 
 إِلَّا عِبَادَكَ مِنْهُمُ ٱلْمُخْلَصِينَ
 
-**38:84** Dedi: “Gerçek budur ve Ben gerçeği söylerim.
+**38:84** Dedi: "Gerçek budur ve Ben gerçeği söylerim.
 
 قَالَ فَٱلْحَقُّ وَٱلْحَقَّ أَقُولُ
 
-**38:85** Cehennemi seninle ve seni izleyenlerin her biri ile dolduracağım.”
+**38:85** Cehennemi seninle ve seni izleyenlerin her biri ile dolduracağım."
 
 لَأَمْلَأَنَّ جَهَنَّمَ مِنكَ وَمِمَّن تَبِعَكَ مِنْهُمْ أَجْمَعِينَ
 
-**38:86** De ki: “Bunun için sizden bir ücret istemem ve ben yapmacık davranan biri değilim.
+**38:86** De ki: "Bunun için sizden bir ücret istemem ve ben yapmacık davranan biri değilim.
 
 قُلْ مَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍۢ وَمَآ أَنَا۠ مِنَ ٱلْمُتَكَلِّفِينَ
 
@@ -16836,7 +16836,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِنْ هُوَ إِلَّا ذِكْرٌۭ لِّلْعَٰلَمِينَ
 
-**38:88** Ve siz onun iletisini bir süre sonra öğreneceksiniz.”
+**38:88** Ve siz onun iletisini bir süre sonra öğreneceksiniz."
 
 وَلَتَعْلَمُنَّ نَبَأَهُۥ بَعْدَ حِينٍۭ
 
@@ -16860,7 +16860,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِنَّآ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَٰبَ بِٱلْحَقِّ فَٱعْبُدِ ٱللَّهَ مُخْلِصًۭا لَّهُ ٱلدِّينَ
 
-**39:3** İçten inanç Allah'a ait değil midir? O'ndan başka koruyucular edinenlere gelince: “Biz onlara ancak bizi Allah'a yaklaştırsınlar diye taparız.” Allah, ayrılıkları konusunda aralarında hükmedecektir. Allah, yalan söyleyen inkarcıyı yöneltmez.
+**39:3** İçten inanç Allah'a ait değil midir? O'ndan başka koruyucular edinenlere gelince: "Biz onlara ancak bizi Allah'a yaklaştırsınlar diye taparız." Allah, ayrılıkları konusunda aralarında hükmedecektir. Allah, yalan söyleyen inkarcıyı yöneltmez.
 
 أَلَا لِلَّهِ ٱلدِّينُ ٱلْخَالِصُ ۚ وَٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَآ إِلَى ٱللَّهِ زُلْفَىٰٓ إِنَّ ٱللَّهَ يَحْكُمُ بَيْنَهُمْ فِى مَا هُمْ فِيهِ يَخْتَلِفُونَ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ كَٰذِبٌۭ كَفَّارٌۭ
 
@@ -16880,39 +16880,39 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِن تَكْفُرُوا۟ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنكُمْ ۖ وَلَا يَرْضَىٰ لِعِبَادِهِ ٱلْكُفْرَ ۖ وَإِن تَشْكُرُوا۟ يَرْضَهُ لَكُمْ ۗ وَلَا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ۗ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
-**39:8** İnsana bir sıkıntı dokunduğu zaman o, Rabbine döner ve O'na dua eder. Fakat sonra O, ona kendinden bir iyilik verince, daha önce dua ettiği şeyi unutur ve Allah'ın yolundan saptırmak için O'na ortaklar koşar. De ki: “Küfründen bir süre yararlan; sen Ateş'in tutuklularından olacaksın.”
+**39:8** İnsana bir sıkıntı dokunduğu zaman o, Rabbine döner ve O'na dua eder. Fakat sonra O, ona kendinden bir iyilik verince, daha önce dua ettiği şeyi unutur ve Allah'ın yolundan saptırmak için O'na ortaklar koşar. De ki: "Küfründen bir süre yararlan; sen Ateş'in tutuklularından olacaksın."
 
 ۞ وَإِذَا مَسَّ ٱلْإِنسَٰنَ ضُرٌّۭ دَعَا رَبَّهُۥ مُنِيبًا إِلَيْهِ ثُمَّ إِذَا خَوَّلَهُۥ نِعْمَةًۭ مِّنْهُ نَسِىَ مَا كَانَ يَدْعُوٓا۟ إِلَيْهِ مِن قَبْلُ وَجَعَلَ لِلَّهِ أَندَادًۭا لِّيُضِلَّ عَن سَبِيلِهِۦ ۚ قُلْ تَمَتَّعْ بِكُفْرِكَ قَلِيلًا ۖ إِنَّكَ مِنْ أَصْحَٰبِ ٱلنَّارِ
 
-**39:9** O, gece saatlerinde bağlı kalarak ibadet eden, secde eden ve ayakta duran, Ahireti gözeten ve Rabbinin rahmetini uman kişi gibi midir? De ki: “Bilenler ile bilmeyenler eşit olur mu?” Ancak akıl sahipleri anar.
+**39:9** O, gece saatlerinde bağlı kalarak ibadet eden, secde eden ve ayakta duran, Ahireti gözeten ve Rabbinin rahmetini uman kişi gibi midir? De ki: "Bilenler ile bilmeyenler eşit olur mu?" Ancak akıl sahipleri anar.
 
 أَمَّنْ هُوَ قَٰنِتٌ ءَانَآءَ ٱلَّيْلِ سَاجِدًۭا وَقَآئِمًۭا يَحْذَرُ ٱلْءَاخِرَةَ وَيَرْجُوا۟ رَحْمَةَ رَبِّهِۦ ۗ قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَ ۗ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَٰبِ
 
-**39:10** De ki: “Ey inanan kullarım, Rabbinize karşı görevinizi tutun. Bu dünyada iyilik edenler için iyilik vardır. Ve Allah'ın yeri geniştir. Dayananlara ücretleri tam olarak, hesapsız ödenecektir.”
+**39:10** De ki: "Ey inanan kullarım, Rabbinize karşı görevinizi tutun. Bu dünyada iyilik edenler için iyilik vardır. Ve Allah'ın yeri geniştir. Dayananlara ücretleri tam olarak, hesapsız ödenecektir."
 
 قُلْ يَٰعِبَادِ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ رَبَّكُمْ ۚ لِلَّذِينَ أَحْسَنُوا۟ فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةٌۭ ۗ وَأَرْضُ ٱللَّهِ وَٰسِعَةٌ ۗ إِنَّمَا يُوَفَّى ٱلصَّٰبِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍۢ
 
-**39:11** De ki: “Bana, dinimi yalnız O'na adayarak Allah'a kulluk etmem emredildi.
+**39:11** De ki: "Bana, dinimi yalnız O'na adayarak Allah'a kulluk etmem emredildi.
 
 قُلْ إِنِّىٓ أُمِرْتُ أَنْ أَعْبُدَ ٱللَّهَ مُخْلِصًۭا لَّهُ ٱلدِّينَ
 
-**39:12** Ve bana, teslim olanların ilki olmam emredildi.”
+**39:12** Ve bana, teslim olanların ilki olmam emredildi."
 
 وَأُمِرْتُ لِأَنْ أَكُونَ أَوَّلَ ٱلْمُسْلِمِينَ
 
-**39:13** De ki: “Ben, Rabbime karşı gelirsem, korkunç bir günün azabından korkarım.”
+**39:13** De ki: "Ben, Rabbime karşı gelirsem, korkunç bir günün azabından korkarım."
 
 قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍۢ
 
-**39:14** De ki: “Ben, inancımda içten olarak Allah'a taparım.”
+**39:14** De ki: "Ben, inancımda içten olarak Allah'a taparım."
 
 قُلِ ٱللَّهَ أَعْبُدُ مُخْلِصًۭا لَّهُۥ دِينِى
 
-**39:15** “Siz ise O'ndan başka dilediğinize tapabilirsiniz.” De ki: “Yitenler, diriliş gününde canlarını ve halklarını yitirenlerdir.” İşte apaçık yitim budur.
+**39:15** "Siz ise O'ndan başka dilediğinize tapabilirsiniz." De ki: "Yitenler, diriliş gününde canlarını ve halklarını yitirenlerdir." İşte apaçık yitim budur.
 
 فَٱعْبُدُوا۟ مَا شِئْتُم مِّن دُونِهِۦ ۗ قُلْ إِنَّ ٱلْخَٰسِرِينَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ ٱلْقِيَٰمَةِ ۗ أَلَا ذَٰلِكَ هُوَ ٱلْخُسْرَانُ ٱلْمُبِينُ
 
-**39:16** Onların üzerinde Ateş katmanları ve altlarında katmanlar olacaktır. Allah, kullarını işte böyle korkutur: “Ey kullarım! Benden sakının!”
+**39:16** Onların üzerinde Ateş katmanları ve altlarında katmanlar olacaktır. Allah, kullarını işte böyle korkutur: "Ey kullarım! Benden sakının!"
 
 لَهُم مِّن فَوْقِهِمْ ظُلَلٌۭ مِّنَ ٱلنَّارِ وَمِن تَحْتِهِمْ ظُلَلٌۭ ۚ ذَٰلِكَ يُخَوِّفُ ٱللَّهُ بِهِۦ عِبَادَهُۥ ۚ يَٰعِبَادِ فَٱتَّقُونِ
 
@@ -16944,7 +16944,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ٱللَّهُ نَزَّلَ أَحْسَنَ ٱلْحَدِيثِ كِتَٰبًۭا مُّتَشَٰبِهًۭا مَّثَانِىَ تَقْشَعِرُّ مِنْهُ جُلُودُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَىٰ ذِكْرِ ٱللَّهِ ۚ ذَٰلِكَ هُدَى ٱللَّهِ يَهْدِى بِهِۦ مَن يَشَآءُ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ
 
-**39:24** Peki, diriliş gününün korkunç acısına karşı yüzünü örten kişi ne olacak? Haksızlara denecektir: “Kazandıklarınızı tadın.”
+**39:24** Peki, diriliş gününün korkunç acısına karşı yüzünü örten kişi ne olacak? Haksızlara denecektir: "Kazandıklarınızı tadın."
 
 أَفَمَن يَتَّقِى بِوَجْهِهِۦ سُوٓءَ ٱلْعَذَابِ يَوْمَ ٱلْقِيَٰمَةِ ۚ وَقِيلَ لِلظَّٰلِمِينَ ذُوقُوا۟ مَا كُنتُمْ تَكْسِبُونَ
 
@@ -17000,15 +17000,15 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَمَن يَهْدِ ٱللَّهُ فَمَا لَهُۥ مِن مُّضِلٍّ ۗ أَلَيْسَ ٱللَّهُ بِعَزِيزٍۢ ذِى ٱنتِقَامٍۢ
 
-**39:38** Ve onlara: “Gökleri ve yeri kim yarattı?” diye sorsan, “Allah” derler. De ki: “Allah yerine dua ettiklerinizi gördünüz mü? Allah bana bir zarar dilerse, onlar O'nun zararını kaldırabilir mi? Ve O bana bir iyilik dilerse, onlar O'nun rahmetini tutabilir mi?” De ki: “Allah bana yeter. Dayananlar O'na dayanır.”
+**39:38** Ve onlara: "Gökleri ve yeri kim yarattı?" diye sorsan, "Allah" derler. De ki: "Allah yerine dua ettiklerinizi gördünüz mü? Allah bana bir zarar dilerse, onlar O'nun zararını kaldırabilir mi? Ve O bana bir iyilik dilerse, onlar O'nun rahmetini tutabilir mi?" De ki: "Allah bana yeter. Dayananlar O'na dayanır."
 
 وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ ٱللَّهُ ۚ قُلْ أَفَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ إِنْ أَرَادَنِىَ ٱللَّهُ بِضُرٍّ هَلْ هُنَّ كَٰشِفَٰتُ ضُرِّهِۦٓ أَوْ أَرَادَنِى بِرَحْمَةٍ هَلْ هُنَّ مُمْسِكَٰتُ رَحْمَتِهِۦ ۚ قُلْ حَسْبِىَ ٱللَّهُ ۖ عَلَيْهِ يَتَوَكَّلُ ٱلْمُتَوَكِّلُونَ
 
-**39:39** De ki: “Ey halkım, gücünüze göre iş yapın; ben de öyle yapacağım. Sonra öğreneceksiniz.
+**39:39** De ki: "Ey halkım, gücünüze göre iş yapın; ben de öyle yapacağım. Sonra öğreneceksiniz.
 
 قُلْ يَٰقَوْمِ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنِّى عَٰمِلٌۭ ۖ فَسَوْفَ تَعْلَمُونَ
 
-**39:40** Kime utanç verici bir azap gelecektir ve kimin üzerine kalıcı bir azap inecektir, öğreneceksiniz.”
+**39:40** Kime utanç verici bir azap gelecektir ve kimin üzerine kalıcı bir azap inecektir, öğreneceksiniz."
 
 مَن يَأْتِيهِ عَذَابٌۭ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌۭ مُّقِيمٌ
 
@@ -17020,11 +17020,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا ۖ فَيُمْسِكُ ٱلَّتِى قَضَىٰ عَلَيْهَا ٱلْمَوْتَ وَيُرْسِلُ ٱلْأُخْرَىٰٓ إِلَىٰٓ أَجَلٍۢ مُّسَمًّى ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ
 
-**39:43** Yoksa Allah'tan başka aracılar mı seçtiler? De ki: “Onların hiçbir şeye gücü yetmese ve akıldan yoksun olsalar bile mi?”
+**39:43** Yoksa Allah'tan başka aracılar mı seçtiler? De ki: "Onların hiçbir şeye gücü yetmese ve akıldan yoksun olsalar bile mi?"
 
 أَمِ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ شُفَعَآءَ ۚ قُلْ أَوَلَوْ كَانُوا۟ لَا يَمْلِكُونَ شَيْـًۭٔا وَلَا يَعْقِلُونَ
 
-**39:44** De ki: “Bütün aracılık Allah'a aittir. Göklerin ve yerin yönetimi O'nundur. Sonra O'na döndürüleceksiniz.”
+**39:44** De ki: "Bütün aracılık Allah'a aittir. Göklerin ve yerin yönetimi O'nundur. Sonra O'na döndürüleceksiniz."
 
 قُل لِّلَّهِ ٱلشَّفَٰعَةُ جَمِيعًۭا ۖ لَّهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ ثُمَّ إِلَيْهِ تُرْجَعُونَ
 
@@ -17032,7 +17032,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَإِذَا ذُكِرَ ٱللَّهُ وَحْدَهُ ٱشْمَأَزَّتْ قُلُوبُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ ۖ وَإِذَا ذُكِرَ ٱلَّذِينَ مِن دُونِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ
 
-**39:46** De ki: “Allah'ımız, göklerin ve yerin Başlatıcısı, bütün gizlileri ve açıklamaları Bilen! Kulların arasında, ayrılığa düştükleri konuda Sen hükmedeceksin.”
+**39:46** De ki: "Allah'ımız, göklerin ve yerin Başlatıcısı, bütün gizlileri ve açıklamaları Bilen! Kulların arasında, ayrılığa düştükleri konuda Sen hükmedeceksin."
 
 قُلِ ٱللَّهُمَّ فَاطِرَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ عَٰلِمَ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ أَنتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِى مَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ
 
@@ -17044,7 +17044,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَبَدَا لَهُمْ سَيِّـَٔاتُ مَا كَسَبُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**39:49** İnsana sıkıntı dokunduğu zaman Bize seslenir. Fakat sonra ona Bizden bir iyilik verince der: “Bunu bilgim sayesinde elde ettim.” Oysa bu bir sınamadır, fakat onların çoğu bilmez.
+**39:49** İnsana sıkıntı dokunduğu zaman Bize seslenir. Fakat sonra ona Bizden bir iyilik verince der: "Bunu bilgim sayesinde elde ettim." Oysa bu bir sınamadır, fakat onların çoğu bilmez.
 
 فَإِذَا مَسَّ ٱلْإِنسَٰنَ ضُرٌّۭ دَعَانَا ثُمَّ إِذَا خَوَّلْنَٰهُ نِعْمَةًۭ مِّنَّا قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلْمٍۭ ۚ بَلْ هِىَ فِتْنَةٌۭ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 
@@ -17060,7 +17060,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 أَوَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يُؤْمِنُونَ
 
-**39:53** De ki: “Ey kendilerine karşı aşırılık eden kullarım: Allah'ın rahmetinden umut kesmeyin; çünkü Allah bütün günahları bağışlar. O, gerçekten Bağışlayandır, Esirgeyendir.”
+**39:53** De ki: "Ey kendilerine karşı aşırılık eden kullarım: Allah'ın rahmetinden umut kesmeyin; çünkü Allah bütün günahları bağışlar. O, gerçekten Bağışlayandır, Esirgeyendir."
 
 ۞ قُلْ يَٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
@@ -17072,15 +17072,15 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَٱتَّبِعُوٓا۟ أَحْسَنَ مَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُم مِّن قَبْلِ أَن يَأْتِيَكُمُ ٱلْعَذَابُ بَغْتَةًۭ وَأَنتُمْ لَا تَشْعُرُونَ
 
-**39:56** Böylece bir can demesin: “Allah'a karşı görevimi savsakladığım ve alay edenlerden olduğum için ne kadar üzgünüm.”
+**39:56** Böylece bir can demesin: "Allah'a karşı görevimi savsakladığım ve alay edenlerden olduğum için ne kadar üzgünüm."
 
 أَن تَقُولَ نَفْسٌۭ يَٰحَسْرَتَىٰ عَلَىٰ مَا فَرَّطتُ فِى جَنۢبِ ٱللَّهِ وَإِن كُنتُ لَمِنَ ٱلسَّٰخِرِينَ
 
-**39:57** Ya da demesin: “Allah beni yöneltse idi, sakınanlardan olurdum.”
+**39:57** Ya da demesin: "Allah beni yöneltse idi, sakınanlardan olurdum."
 
 أَوْ تَقُولَ لَوْ أَنَّ ٱللَّهَ هَدَىٰنِى لَكُنتُ مِنَ ٱلْمُتَّقِينَ
 
-**39:58** Ya da cezayı gördüğü zaman demesin: “Keşke bir fırsatım daha olsa idi, erdemlilerden olurdum.”
+**39:58** Ya da cezayı gördüğü zaman demesin: "Keşke bir fırsatım daha olsa idi, erdemlilerden olurdum."
 
 أَوْ تَقُولَ حِينَ تَرَى ٱلْعَذَابَ لَوْ أَنَّ لِى كَرَّةًۭ فَأَكُونَ مِنَ ٱلْمُحْسِنِينَ
 
@@ -17104,7 +17104,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 لَّهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِ ٱللَّهِ أُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ
 
-**39:64** De ki: “Bana Allah'tan başkasına tapmamı mı buyurursunuz, ey bilgisizler?”
+**39:64** De ki: "Bana Allah'tan başkasına tapmamı mı buyurursunuz, ey bilgisizler?"
 
 قُلْ أَفَغَيْرَ ٱللَّهِ تَأْمُرُوٓنِّىٓ أَعْبُدُ أَيُّهَا ٱلْجَٰهِلُونَ
 
@@ -17132,23 +17132,23 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَوُفِّيَتْ كُلُّ نَفْسٍۢ مَّا عَمِلَتْ وَهُوَ أَعْلَمُ بِمَا يَفْعَلُونَ
 
-**39:71** Küfredenler bölükler hâlinde cehenneme sürülecektir. Sonunda oraya vardıkları ve kapıları açıldığı zaman, bekçileri onlara der: “Aranızdan elçiler size gelip Rabbinizin vahiylerini size okumadı mı ve bu gününüzle karşılaşacağınız konusunda sizi uyarmadı mı?” Onlar der: “Evet, fakat azap kararı küfredenlere karşı haklı oldu.”
+**39:71** Küfredenler bölükler hâlinde cehenneme sürülecektir. Sonunda oraya vardıkları ve kapıları açıldığı zaman, bekçileri onlara der: "Aranızdan elçiler size gelip Rabbinizin vahiylerini size okumadı mı ve bu gününüzle karşılaşacağınız konusunda sizi uyarmadı mı?" Onlar der: "Evet, fakat azap kararı küfredenlere karşı haklı oldu."
 
 وَسِيقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ جَهَنَّمَ زُمَرًا ۖ حَتَّىٰٓ إِذَا جَآءُوهَا فُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ رُسُلٌۭ مِّنكُمْ يَتْلُونَ عَلَيْكُمْ ءَايَٰتِ رَبِّكُمْ وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا ۚ قَالُوا۟ بَلَىٰ وَلَٰكِنْ حَقَّتْ كَلِمَةُ ٱلْعَذَابِ عَلَى ٱلْكَٰفِرِينَ
 
-**39:72** Denir: “Cehennemin kapılarından girin, orada sonsuza dek kalın.” Büyüklük taslayanların varış yeri ne kötüdür.
+**39:72** Denir: "Cehennemin kapılarından girin, orada sonsuza dek kalın." Büyüklük taslayanların varış yeri ne kötüdür.
 
 قِيلَ ٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَٰلِدِينَ فِيهَا ۖ فَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ
 
-**39:73** Ve Rablerinden korkanlar bölükler hâlinde Cennete götürülecektir. Sonunda oraya vardıkları ve kapıları açıldığı zaman, bekçileri onlara der: “Size esenlik olsun, iyi oldunuz; öyle ise oraya girin, orada sonsuza dek kalın.”
+**39:73** Ve Rablerinden korkanlar bölükler hâlinde Cennete götürülecektir. Sonunda oraya vardıkları ve kapıları açıldığı zaman, bekçileri onlara der: "Size esenlik olsun, iyi oldunuz; öyle ise oraya girin, orada sonsuza dek kalın."
 
 وَسِيقَ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ إِلَى ٱلْجَنَّةِ زُمَرًا ۖ حَتَّىٰٓ إِذَا جَآءُوهَا وَفُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَا سَلَٰمٌ عَلَيْكُمْ طِبْتُمْ فَٱدْخُلُوهَا خَٰلِدِينَ
 
-**39:74** Ve onlar der: “Bize sözünü tutan ve bize yeri miras bırakan Allah'a övgü olsun; Cennetten dilediğimiz gibi yararlanırız.” Çalışanların ödülü ne güzeldir.
+**39:74** Ve onlar der: "Bize sözünü tutan ve bize yeri miras bırakan Allah'a övgü olsun; Cennetten dilediğimiz gibi yararlanırız." Çalışanların ödülü ne güzeldir.
 
 وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى صَدَقَنَا وَعْدَهُۥ وَأَوْرَثَنَا ٱلْأَرْضَ نَتَبَوَّأُ مِنَ ٱلْجَنَّةِ حَيْثُ نَشَآءُ ۖ فَنِعْمَ أَجْرُ ٱلْعَٰمِلِينَ
 
-**39:75** Ve melekleri Taht çevresinde dolanır göreceksin; Rablerini övgü ile yüceltirler. Ve aralarında adaletle hükmedilecektir ve denecektir: “Övgü, âlemlerin Rabbi olan Allah'a aittir.”
+**39:75** Ve melekleri Taht çevresinde dolanır göreceksin; Rablerini övgü ile yüceltirler. Ve aralarında adaletle hükmedilecektir ve denecektir: "Övgü, âlemlerin Rabbi olan Allah'a aittir."
 
 وَتَرَى ٱلْمَلَٰٓئِكَةَ حَآفِّينَ مِنْ حَوْلِ ٱلْعَرْشِ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ ۖ وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَقِيلَ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
@@ -17188,7 +17188,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَكَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ كَفَرُوٓا۟ أَنَّهُمْ أَصْحَٰبُ ٱلنَّارِ
 
-**40:7** Tahtı taşıyanlar ve çevresindekiler, Rablerini övgü ile yüceltir, O'na inanır ve inananlar için bağışlanma diler: “Rabbimiz, Sen her şeyi rahmet ve bilgi ile kuşattın; öyle ise tövbe eden ve Senin yolunu izleyenleri bağışla ve onları Alev'in acısından koru.
+**40:7** Tahtı taşıyanlar ve çevresindekiler, Rablerini övgü ile yüceltir, O'na inanır ve inananlar için bağışlanma diler: "Rabbimiz, Sen her şeyi rahmet ve bilgi ile kuşattın; öyle ise tövbe eden ve Senin yolunu izleyenleri bağışla ve onları Alev'in acısından koru.
 
 ٱلَّذِينَ يَحْمِلُونَ ٱلْعَرْشَ وَمَنْ حَوْلَهُۥ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِۦ وَيَسْتَغْفِرُونَ لِلَّذِينَ ءَامَنُوا۟ رَبَّنَا وَسِعْتَ كُلَّ شَىْءٍۢ رَّحْمَةًۭ وَعِلْمًۭا فَٱغْفِرْ لِلَّذِينَ تَابُوا۟ وَٱتَّبَعُوا۟ سَبِيلَكَ وَقِهِمْ عَذَابَ ٱلْجَحِيمِ
 
@@ -17196,15 +17196,15 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 رَبَّنَا وَأَدْخِلْهُمْ جَنَّٰتِ عَدْنٍ ٱلَّتِى وَعَدتَّهُمْ وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّٰتِهِمْ ۚ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**40:9** Ve onları kötü işlerden koru. Kimi kötü işlerden korursan, o gün ona rahmet ettin. İşte en büyük başarı budur.”
+**40:9** Ve onları kötü işlerden koru. Kimi kötü işlerden korursan, o gün ona rahmet ettin. İşte en büyük başarı budur."
 
 وَقِهِمُ ٱلسَّيِّـَٔاتِ ۚ وَمَن تَقِ ٱلسَّيِّـَٔاتِ يَوْمَئِذٍۢ فَقَدْ رَحِمْتَهُۥ ۚ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
-**40:10** Küfredenlere seslenilecektir: “Allah'ın nefreti, sizin kendinize olan nefretinizden daha büyüktür; çünkü siz inanca çağrıldınız, fakat reddettiniz.”
+**40:10** Küfredenlere seslenilecektir: "Allah'ın nefreti, sizin kendinize olan nefretinizden daha büyüktür; çünkü siz inanca çağrıldınız, fakat reddettiniz."
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ يُنَادَوْنَ لَمَقْتُ ٱللَّهِ أَكْبَرُ مِن مَّقْتِكُمْ أَنفُسَكُمْ إِذْ تُدْعَوْنَ إِلَى ٱلْإِيمَٰنِ فَتَكْفُرُونَ
 
-**40:11** Derler: “Rabbimiz, bizi iki kez öldürdün ve iki kez bize yaşam verdin. Şimdi günahlarımızı kabul ederiz. Bir çıkış yolu var mıdır?”
+**40:11** Derler: "Rabbimiz, bizi iki kez öldürdün ve iki kez bize yaşam verdin. Şimdi günahlarımızı kabul ederiz. Bir çıkış yolu var mıdır?"
 
 قَالُوا۟ رَبَّنَآ أَمَتَّنَا ٱثْنَتَيْنِ وَأَحْيَيْتَنَا ٱثْنَتَيْنِ فَٱعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَىٰ خُرُوجٍۢ مِّن سَبِيلٍۢ
 
@@ -17224,7 +17224,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 رَفِيعُ ٱلدَّرَجَٰتِ ذُو ٱلْعَرْشِ يُلْقِى ٱلرُّوحَ مِنْ أَمْرِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ لِيُنذِرَ يَوْمَ ٱلتَّلَاقِ
 
-**40:16** Onların ortaya çıkacağı gün, onlar hakkında hiçbir şey Allah'tan gizli kalmayacaktır. “Bugün egemenlik kimindir?” “Bir olan, karşı konulmaz Allah'ındır.”
+**40:16** Onların ortaya çıkacağı gün, onlar hakkında hiçbir şey Allah'tan gizli kalmayacaktır. "Bugün egemenlik kimindir?" "Bir olan, karşı konulmaz Allah'ındır."
 
 يَوْمَ هُم بَٰرِزُونَ ۖ لَا يَخْفَىٰ عَلَى ٱللَّهِ مِنْهُمْ شَىْءٌۭ ۚ لِّمَنِ ٱلْمُلْكُ ٱلْيَوْمَ ۖ لِلَّهِ ٱلْوَٰحِدِ ٱلْقَهَّارِ
 
@@ -17256,31 +17256,31 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَا وَسُلْطَٰنٍۢ مُّبِينٍ
 
-**40:24** Firavun'a, Hâmân'a ve Kârûn'a gönderdik. Fakat onlar dedi: “Yalan söyleyen bir büyücüdür.”
+**40:24** Firavun'a, Hâmân'a ve Kârûn'a gönderdik. Fakat onlar dedi: "Yalan söyleyen bir büyücüdür."
 
 إِلَىٰ فِرْعَوْنَ وَهَٰمَٰنَ وَقَٰرُونَ فَقَالُوا۟ سَٰحِرٌۭ كَذَّابٌۭ
 
-**40:25** Sonra o, Bizden gerçek ile onlara gelince dediler: “Onunla beraber inananların oğullarını öldürün ve kızlarını sağ bırakın.” Fakat küfredenlerin düzeni ancak sapar.
+**40:25** Sonra o, Bizden gerçek ile onlara gelince dediler: "Onunla beraber inananların oğullarını öldürün ve kızlarını sağ bırakın." Fakat küfredenlerin düzeni ancak sapar.
 
 فَلَمَّا جَآءَهُم بِٱلْحَقِّ مِنْ عِندِنَا قَالُوا۟ ٱقْتُلُوٓا۟ أَبْنَآءَ ٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ وَٱسْتَحْيُوا۟ نِسَآءَهُمْ ۚ وَمَا كَيْدُ ٱلْكَٰفِرِينَ إِلَّا فِى ضَلَٰلٍۢ
 
-**40:26** Firavun dedi: “Beni bırakın, Mûsâ'yı öldüreyim ve bırakın Rabbine seslensin. Onun sizin dininizi değiştirmesinden ya da yerde karışıklık yaymasından korkarım.”
+**40:26** Firavun dedi: "Beni bırakın, Mûsâ'yı öldüreyim ve bırakın Rabbine seslensin. Onun sizin dininizi değiştirmesinden ya da yerde karışıklık yaymasından korkarım."
 
 وَقَالَ فِرْعَوْنُ ذَرُونِىٓ أَقْتُلْ مُوسَىٰ وَلْيَدْعُ رَبَّهُۥٓ ۖ إِنِّىٓ أَخَافُ أَن يُبَدِّلَ دِينَكُمْ أَوْ أَن يُظْهِرَ فِى ٱلْأَرْضِ ٱلْفَسَادَ
 
-**40:27** Mûsâ dedi: “Ben, hesap gününe inanmayan her zorbadan, Rabbime ve sizin Rabbinize sığındım.”
+**40:27** Mûsâ dedi: "Ben, hesap gününe inanmayan her zorbadan, Rabbime ve sizin Rabbinize sığındım."
 
 وَقَالَ مُوسَىٰٓ إِنِّى عُذْتُ بِرَبِّى وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرٍۢ لَّا يُؤْمِنُ بِيَوْمِ ٱلْحِسَابِ
 
-**40:28** Firavun ailesinden, inancını gizleyen inanan bir adam dedi: “‘Rabbim Allah'tır’ dediği için ve size Rabbinizden açık kanıtlar getirdiği için bir adamı mı öldüreceksiniz? O bir yalancı ise, yalanı kendi üzerine döner; fakat o doğru ise, size söz verdiklerinin bir bölümü başınıza gelecektir. Allah, aşırı giden yalancıyı yöneltmez.
+**40:28** Firavun ailesinden, inancını gizleyen inanan bir adam dedi: "'Rabbim Allah'tır' dediği için ve size Rabbinizden açık kanıtlar getirdiği için bir adamı mı öldüreceksiniz? O bir yalancı ise, yalanı kendi üzerine döner; fakat o doğru ise, size söz verdiklerinin bir bölümü başınıza gelecektir. Allah, aşırı giden yalancıyı yöneltmez.
 
 وَقَالَ رَجُلٌۭ مُّؤْمِنٌۭ مِّنْ ءَالِ فِرْعَوْنَ يَكْتُمُ إِيمَٰنَهُۥٓ أَتَقْتُلُونَ رَجُلًا أَن يَقُولَ رَبِّىَ ٱللَّهُ وَقَدْ جَآءَكُم بِٱلْبَيِّنَٰتِ مِن رَّبِّكُمْ ۖ وَإِن يَكُ كَٰذِبًۭا فَعَلَيْهِ كَذِبُهُۥ ۖ وَإِن يَكُ صَادِقًۭا يُصِبْكُم بَعْضُ ٱلَّذِى يَعِدُكُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ مُسْرِفٌۭ كَذَّابٌۭ
 
-**40:29** Ey halkım! Bugün yönetim sizindir, yerde üstünsünüz; fakat Allah'ın gücü başımıza gelirse bize kim yardım eder?” Firavun dedi: “Ben size ancak gördüğümü gösteririm ve sizi ancak sağgörü yoluna yöneltirim.”
+**40:29** Ey halkım! Bugün yönetim sizindir, yerde üstünsünüz; fakat Allah'ın gücü başımıza gelirse bize kim yardım eder?" Firavun dedi: "Ben size ancak gördüğümü gösteririm ve sizi ancak sağgörü yoluna yöneltirim."
 
 يَٰقَوْمِ لَكُمُ ٱلْمُلْكُ ٱلْيَوْمَ ظَٰهِرِينَ فِى ٱلْأَرْضِ فَمَن يَنصُرُنَا مِنۢ بَأْسِ ٱللَّهِ إِن جَآءَنَا ۚ قَالَ فِرْعَوْنُ مَآ أُرِيكُمْ إِلَّا مَآ أَرَىٰ وَمَآ أَهْدِيكُمْ إِلَّا سَبِيلَ ٱلرَّشَادِ
 
-**40:30** İnanan kişi dedi: “Ey halkım, sizin için birlikler günü gibisinden korkarım.
+**40:30** İnanan kişi dedi: "Ey halkım, sizin için birlikler günü gibisinden korkarım.
 
 وَقَالَ ٱلَّذِىٓ ءَامَنَ يَٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُم مِّثْلَ يَوْمِ ٱلْأَحْزَابِ
 
@@ -17292,11 +17292,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَيَٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُمْ يَوْمَ ٱلتَّنَادِ
 
-**40:33** O gün siz dönüp kaçacaksınız ve Allah'a karşı bir savunucunuz olmayacaktır. Allah kimi şaşırtırsa, onun için bir yönelten yoktur.”
+**40:33** O gün siz dönüp kaçacaksınız ve Allah'a karşı bir savunucunuz olmayacaktır. Allah kimi şaşırtırsa, onun için bir yönelten yoktur."
 
 يَوْمَ تُوَلُّونَ مُدْبِرِينَ مَا لَكُم مِّنَ ٱللَّهِ مِنْ عَاصِمٍۢ ۗ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍۢ
 
-**40:34** Yûsuf size açık vahiyler ile geldi, fakat siz onun size getirdiğinden kuşku duymayı sürdürdünüz. Sonunda o yok olunca dediniz: “Allah ondan sonra bir elçi göndermez.” Allah, aşırı giden kuşkucuyu işte böyle saptırır.
+**40:34** Yûsuf size açık vahiyler ile geldi, fakat siz onun size getirdiğinden kuşku duymayı sürdürdünüz. Sonunda o yok olunca dediniz: "Allah ondan sonra bir elçi göndermez." Allah, aşırı giden kuşkucuyu işte böyle saptırır.
 
 وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ
 
@@ -17304,19 +17304,19 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ٱلَّذِينَ يُجَٰدِلُونَ فِىٓ ءَايَٰتِ ٱللَّهِ بِغَيْرِ سُلْطَٰنٍ أَتَىٰهُمْ ۖ كَبُرَ مَقْتًا عِندَ ٱللَّهِ وَعِندَ ٱلَّذِينَ ءَامَنُوا۟ ۚ كَذَٰلِكَ يَطْبَعُ ٱللَّهُ عَلَىٰ كُلِّ قَلْبِ مُتَكَبِّرٍۢ جَبَّارٍۢ
 
-**40:36** Ve Firavun dedi: “Ey Hâmân, bana bir kule yap; yollara ulaşayım.
+**40:36** Ve Firavun dedi: "Ey Hâmân, bana bir kule yap; yollara ulaşayım.
 
 وَقَالَ فِرْعَوْنُ يَٰهَٰمَٰنُ ٱبْنِ لِى صَرْحًۭا لَّعَلِّىٓ أَبْلُغُ ٱلْأَسْبَٰبَ
 
-**40:37** Göklerin yollarına ulaşayım ve Mûsâ'nın Allah'ına bir göz atayım; gerçi onun yalan söylediğini sanırım.” Firavun'un kötü işleri ona iyi gösterildi ve o yoldan çevrildi. Firavun'un hilesi ancak yenilgi içinde idi.
+**40:37** Göklerin yollarına ulaşayım ve Mûsâ'nın Allah'ına bir göz atayım; gerçi onun yalan söylediğini sanırım." Firavun'un kötü işleri ona iyi gösterildi ve o yoldan çevrildi. Firavun'un hilesi ancak yenilgi içinde idi.
 
 أَسْبَٰبَ ٱلسَّمَٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ
 
-**40:38** İnanan kişi dedi: “Ey halkım, beni izleyin; size doğruluk yolunu göstereyim.”
+**40:38** İnanan kişi dedi: "Ey halkım, beni izleyin; size doğruluk yolunu göstereyim."
 
 وَقَالَ ٱلَّذِىٓ ءَامَنَ يَٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ
 
-**40:39** “Ey halkım, bu dünya yaşamı geçici bir yararlanmadan başka bir şey değildir; fakat Ahiret Kalıcılık Yurdudur.
+**40:39** "Ey halkım, bu dünya yaşamı geçici bir yararlanmadan başka bir şey değildir; fakat Ahiret Kalıcılık Yurdudur.
 
 يَٰقَوْمِ إِنَّمَا هَٰذِهِ ٱلْحَيَوٰةُ ٱلدُّنْيَا مَتَٰعٌۭ وَإِنَّ ٱلْءَاخِرَةَ هِىَ دَارُ ٱلْقَرَارِ
 
@@ -17336,7 +17336,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 لَا جَرَمَ أَنَّمَا تَدْعُونَنِىٓ إِلَيْهِ لَيْسَ لَهُۥ دَعْوَةٌۭ فِى ٱلدُّنْيَا وَلَا فِى ٱلْءَاخِرَةِ وَأَنَّ مَرَدَّنَآ إِلَى ٱللَّهِ وَأَنَّ ٱلْمُسْرِفِينَ هُمْ أَصْحَٰبُ ٱلنَّارِ
 
-**40:44** Size söylediklerimi anacaksınız; öyle ise işimi Allah'a bırakırım. Allah kulları gözetir.”
+**40:44** Size söylediklerimi anacaksınız; öyle ise işimi Allah'a bırakırım. Allah kulları gözetir."
 
 فَسَتَذْكُرُونَ مَآ أَقُولُ لَكُمْ ۚ وَأُفَوِّضُ أَمْرِىٓ إِلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ بَصِيرٌۢ بِٱلْعِبَادِ
 
@@ -17344,23 +17344,23 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ
 
-**40:46** Ateş vardır. Sabah ve akşam ona sunulacaklardır. Ve Saat'in olacağı gün: “Firavun soyunu en yoğun acıya katın.”
+**40:46** Ateş vardır. Sabah ve akşam ona sunulacaklardır. Ve Saat'in olacağı gün: "Firavun soyunu en yoğun acıya katın."
 
 ٱلنَّارُ يُعْرَضُونَ عَلَيْهَا غُدُوًّۭا وَعَشِيًّۭا ۖ وَيَوْمَ تَقُومُ ٱلسَّاعَةُ أَدْخِلُوٓا۟ ءَالَ فِرْعَوْنَ أَشَدَّ ٱلْعَذَابِ
 
-**40:47** Ateş'te çekişirken, zayıflar büyüklük taslayanlara der: “Biz sizin izleyicileriniz idik; şimdi Ateş'in bir bölümünü bizden savar mısınız?”
+**40:47** Ateş'te çekişirken, zayıflar büyüklük taslayanlara der: "Biz sizin izleyicileriniz idik; şimdi Ateş'in bir bölümünü bizden savar mısınız?"
 
 وَإِذْ يَتَحَآجُّونَ فِى ٱلنَّارِ فَيَقُولُ ٱلضُّعَفَٰٓؤُا۟ لِلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُنَّا لَكُمْ تَبَعًۭا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا نَصِيبًۭا مِّنَ ٱلنَّارِ
 
-**40:48** Büyüklük taslayanlar der: “Hepimiz onun içindeyiz; Allah kullar arasında hükmetti.”
+**40:48** Büyüklük taslayanlar der: "Hepimiz onun içindeyiz; Allah kullar arasında hükmetti."
 
 قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُلٌّۭ فِيهَآ إِنَّ ٱللَّهَ قَدْ حَكَمَ بَيْنَ ٱلْعِبَادِ
 
-**40:49** Ve Ateş'tekiler, cehennem bekçilerine der: “Rabbinize seslenin, acımızı bir gün azaltsın.”
+**40:49** Ve Ateş'tekiler, cehennem bekçilerine der: "Rabbinize seslenin, acımızı bir gün azaltsın."
 
 وَقَالَ ٱلَّذِينَ فِى ٱلنَّارِ لِخَزَنَةِ جَهَنَّمَ ٱدْعُوا۟ رَبَّكُمْ يُخَفِّفْ عَنَّا يَوْمًۭا مِّنَ ٱلْعَذَابِ
 
-**40:50** Derler: “Elçileriniz size açık ayetler ile gelmedi mi?” Derler: “Evet.” Derler: “Öyle ise dua edin; fakat küfredenlerin duaları her zaman boşa gider.”
+**40:50** Derler: "Elçileriniz size açık ayetler ile gelmedi mi?" Derler: "Evet." Derler: "Öyle ise dua edin; fakat küfredenlerin duaları her zaman boşa gider."
 
 قَالُوٓا۟ أَوَلَمْ تَكُ تَأْتِيكُمْ رُسُلُكُم بِٱلْبَيِّنَٰتِ ۖ قَالُوا۟ بَلَىٰ ۚ قَالُوا۟ فَٱدْعُوا۟ ۗ وَمَا دُعَٰٓؤُا۟ ٱلْكَٰفِرِينَ إِلَّا فِى ضَلَٰلٍ
 
@@ -17400,7 +17400,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِنَّ ٱلسَّاعَةَ لَءَاتِيَةٌۭ لَّا رَيْبَ فِيهَا وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ
 
-**40:60** Rabbiniz dedi: “Bana dua edin, size karşılık vereyim. Fakat Bana tapmaya büyüklük taslayanlar, zorla cehenneme girecektir.”
+**40:60** Rabbiniz dedi: "Bana dua edin, size karşılık vereyim. Fakat Bana tapmaya büyüklük taslayanlar, zorla cehenneme girecektir."
 
 وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 
@@ -17424,7 +17424,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 هُوَ ٱلْحَىُّ لَآ إِلَٰهَ إِلَّا هُوَ فَٱدْعُوهُ مُخْلِصِينَ لَهُ ٱلدِّينَ ۗ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
-**40:66** De ki: “Rabbimden bana açık vahiyler gelince, Allah'tan başka seslendiklerinize tapmam yasaklandı; ve bana âlemlerin Rabbine teslim olmam emredildi.”
+**40:66** De ki: "Rabbimden bana açık vahiyler gelince, Allah'tan başka seslendiklerinize tapmam yasaklandı; ve bana âlemlerin Rabbine teslim olmam emredildi."
 
 ۞ قُلْ إِنِّى نُهِيتُ أَنْ أَعْبُدَ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ لَمَّا جَآءَنِىَ ٱلْبَيِّنَٰتُ مِن رَّبِّى وَأُمِرْتُ أَنْ أُسْلِمَ لِرَبِّ ٱلْعَٰلَمِينَ
 
@@ -17432,7 +17432,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 هُوَ ٱلَّذِى خَلَقَكُم مِّن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ مِنْ عَلَقَةٍۢ ثُمَّ يُخْرِجُكُمْ طِفْلًۭا ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ ثُمَّ لِتَكُونُوا۟ شُيُوخًۭا ۚ وَمِنكُم مَّن يُتَوَفَّىٰ مِن قَبْلُ ۖ وَلِتَبْلُغُوٓا۟ أَجَلًۭا مُّسَمًّۭى وَلَعَلَّكُمْ تَعْقِلُونَ
 
-**40:68** Yaşam ve ölüm veren O'dur; ve O bir şeye karar verince, ona ancak “Ol” der ve o olur.
+**40:68** Yaşam ve ölüm veren O'dur; ve O bir şeye karar verince, ona ancak "Ol" der ve o olur.
 
 هُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ ۖ فَإِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 
@@ -17452,11 +17452,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فِى ٱلْحَمِيمِ ثُمَّ فِى ٱلنَّارِ يُسْجَرُونَ
 
-**40:73** Sonra onlara denir: “Tapındıklarınız nerede?
+**40:73** Sonra onlara denir: "Tapındıklarınız nerede?
 
 ثُمَّ قِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تُشْرِكُونَ
 
-**40:74** Allah yerine tapındıklarınız nerede?” Derler: “Onlar bizi bıraktı. Doğrusu biz daha önce hiçbir şeye dua etmiyorduk.” Allah küfredenleri işte böyle saptırır.
+**40:74** Allah yerine tapındıklarınız nerede?" Derler: "Onlar bizi bıraktı. Doğrusu biz daha önce hiçbir şeye dua etmiyorduk." Allah küfredenleri işte böyle saptırır.
 
 مِن دُونِ ٱللَّهِ ۖ قَالُوا۟ ضَلُّوا۟ عَنَّا بَل لَّمْ نَكُن نَّدْعُوا۟ مِن قَبْلُ شَيْـًۭٔا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ ٱلْكَٰفِرِينَ
 
@@ -17496,7 +17496,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَلَمَّا جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَرِحُوا۟ بِمَا عِندَهُم مِّنَ ٱلْعِلْمِ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**40:84** Sonra gücümüzü görünce dediler: “Yalnız Allah'a inanırız ve O'na ortak koştuklarımızı yadsırız.”
+**40:84** Sonra gücümüzü görünce dediler: "Yalnız Allah'a inanırız ve O'na ortak koştuklarımızı yadsırız."
 
 فَلَمَّا رَأَوْا۟ بَأْسَنَا قَالُوٓا۟ ءَامَنَّا بِٱللَّهِ وَحْدَهُۥ وَكَفَرْنَا بِمَا كُنَّا بِهِۦ مُشْرِكِينَ
 
@@ -17532,11 +17532,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 بَشِيرًۭا وَنَذِيرًۭا فَأَعْرَضَ أَكْثَرُهُمْ فَهُمْ لَا يَسْمَعُونَ
 
-**41:5** Ve derler: “Kalplerimiz, bizi çağırdığın şeyden perdelidir ve kulaklarımızda sağırlık vardır ve aramızda ve senin aranda bir engel vardır. Öyle ise dilediğini yap, biz de öyle yapacağız.”
+**41:5** Ve derler: "Kalplerimiz, bizi çağırdığın şeyden perdelidir ve kulaklarımızda sağırlık vardır ve aramızda ve senin aranda bir engel vardır. Öyle ise dilediğini yap, biz de öyle yapacağız."
 
 وَقَالُوا۟ قُلُوبُنَا فِىٓ أَكِنَّةٍۢ مِّمَّا تَدْعُونَآ إِلَيْهِ وَفِىٓ ءَاذَانِنَا وَقْرٌۭ وَمِنۢ بَيْنِنَا وَبَيْنِكَ حِجَابٌۭ فَٱعْمَلْ إِنَّنَا عَٰمِلُونَ
 
-**41:6** De ki: “Ben ancak sizin gibi bir insanım; bana, sizin Allah'ınızın bir Allah olduğu vahyedilir. Öyle ise O'na doğru olun ve O'ndan bağışlanma dileyin.” Ve putlara tapanların vay hâline.
+**41:6** De ki: "Ben ancak sizin gibi bir insanım; bana, sizin Allah'ınızın bir Allah olduğu vahyedilir. Öyle ise O'na doğru olun ve O'ndan bağışlanma dileyin." Ve putlara tapanların vay hâline.
 
 قُلْ إِنَّمَآ أَنَا۠ بَشَرٌۭ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَٰهُكُمْ إِلَٰهٌۭ وَٰحِدٌۭ فَٱسْتَقِيمُوٓا۟ إِلَيْهِ وَٱسْتَغْفِرُوهُ ۗ وَوَيْلٌۭ لِّلْمُشْرِكِينَ
 
@@ -17548,7 +17548,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۢ
 
-**41:9** De ki: “Yeri iki günde yaratanı mı yadsırsınız? Ve O'na benzerler mi koşarsınız? İşte O, evrenin Rabbidir.”
+**41:9** De ki: "Yeri iki günde yaratanı mı yadsırsınız? Ve O'na benzerler mi koşarsınız? İşte O, evrenin Rabbidir."
 
 ۞ قُلْ أَئِنَّكُمْ لَتَكْفُرُونَ بِٱلَّذِى خَلَقَ ٱلْأَرْضَ فِى يَوْمَيْنِ وَتَجْعَلُونَ لَهُۥٓ أَندَادًۭا ۚ ذَٰلِكَ رَبُّ ٱلْعَٰلَمِينَ
 
@@ -17556,7 +17556,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَجَعَلَ فِيهَا رَوَٰسِىَ مِن فَوْقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا فِىٓ أَرْبَعَةِ أَيَّامٍۢ سَوَآءًۭ لِّلسَّآئِلِينَ
 
-**41:11** Sonra göğe yöneldi ve o dumandı; ona ve yere dedi: “İsteyerek ya da istemeden gelin.” Dediler: “İsteyerek geliriz.”
+**41:11** Sonra göğe yöneldi ve o dumandı; ona ve yere dedi: "İsteyerek ya da istemeden gelin." Dediler: "İsteyerek geliriz."
 
 ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌۭ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا أَوْ كَرْهًۭا قَالَتَآ أَتَيْنَا طَآئِعِينَ
 
@@ -17564,15 +17564,15 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَقَضَىٰهُنَّ سَبْعَ سَمَٰوَاتٍۢ فِى يَوْمَيْنِ وَأَوْحَىٰ فِى كُلِّ سَمَآءٍ أَمْرَهَا ۚ وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَحِفْظًۭا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ
 
-**41:13** Fakat onlar yüz çevirirse de ki: “Sizi bir yıldırıma karşı uyardım; Âd ve Semûd'un yıldırımı gibi bir yıldırım.”
+**41:13** Fakat onlar yüz çevirirse de ki: "Sizi bir yıldırıma karşı uyardım; Âd ve Semûd'un yıldırımı gibi bir yıldırım."
 
 فَإِنْ أَعْرَضُوا۟ فَقُلْ أَنذَرْتُكُمْ صَٰعِقَةًۭ مِّثْلَ صَٰعِقَةِ عَادٍۢ وَثَمُودَ
 
-**41:14** Elçiler onlara, önlerinden ve arkalarından gelip dedi: “Allah'tan başkasına tapmayın.” Dediler: “Rabbimiz dilese idi, melekler indirirdi; öyle ise, sizin gönderildiğiniz şeyi yadsırız.”
+**41:14** Elçiler onlara, önlerinden ve arkalarından gelip dedi: "Allah'tan başkasına tapmayın." Dediler: "Rabbimiz dilese idi, melekler indirirdi; öyle ise, sizin gönderildiğiniz şeyi yadsırız."
 
 إِذْ جَآءَتْهُمُ ٱلرُّسُلُ مِنۢ بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ ۖ قَالُوا۟ لَوْ شَآءَ رَبُّنَا لَأَنزَلَ مَلَٰٓئِكَةًۭ فَإِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَٰفِرُونَ
 
-**41:15** Âd'a gelince, onlar yerde büyüklük tasladı ve adalete karşı geldi ve dedi: “Bizden daha güçlü kimdir?” Kendilerini yaratan Allah'ın onlardan daha güçlü olduğunu düşünmediler mi? Ve onlar vahiylerimizi yadsımayı sürdürdü.
+**41:15** Âd'a gelince, onlar yerde büyüklük tasladı ve adalete karşı geldi ve dedi: "Bizden daha güçlü kimdir?" Kendilerini yaratan Allah'ın onlardan daha güçlü olduğunu düşünmediler mi? Ve onlar vahiylerimizi yadsımayı sürdürdü.
 
 فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَٰتِنَا يَجْحَدُونَ
 
@@ -17596,7 +17596,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 حَتَّىٰٓ إِذَا مَا جَآءُوهَا شَهِدَ عَلَيْهِمْ سَمْعُهُمْ وَأَبْصَٰرُهُمْ وَجُلُودُهُم بِمَا كَانُوا۟ يَعْمَلُونَ
 
-**41:21** Ve derilerine derler: “Niçin bize karşı tanıklık ettiniz?” Derler: “Her şeyi konuşturan Allah bizi konuşturdu. Sizi ilk kez yaratan O'dur ve O'na döndürülürsünüz.”
+**41:21** Ve derilerine derler: "Niçin bize karşı tanıklık ettiniz?" Derler: "Her şeyi konuşturan Allah bizi konuşturdu. Sizi ilk kez yaratan O'dur ve O'na döndürülürsünüz."
 
 وَقَالُوا۟ لِجُلُودِهِمْ لِمَ شَهِدتُّمْ عَلَيْنَا ۖ قَالُوٓا۟ أَنطَقَنَا ٱللَّهُ ٱلَّذِىٓ أَنطَقَ كُلَّ شَىْءٍۢ وَهُوَ خَلَقَكُمْ أَوَّلَ مَرَّةٍۢ وَإِلَيْهِ تُرْجَعُونَ
 
@@ -17616,7 +17616,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ۞ وَقَيَّضْنَا لَهُمْ قُرَنَآءَ فَزَيَّنُوا۟ لَهُم مَّا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَحَقَّ عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍۢ قَدْ خَلَتْ مِن قَبْلِهِم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ۖ إِنَّهُمْ كَانُوا۟ خَٰسِرِينَ
 
-**41:26** Küfredenler der: “Bu Kur'an'ı dinlemeyin ve onun üzerine konuşun; üstün gelesiniz diye konuşun.”
+**41:26** Küfredenler der: "Bu Kur'an'ı dinlemeyin ve onun üzerine konuşun; üstün gelesiniz diye konuşun."
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَا تَسْمَعُوا۟ لِهَٰذَا ٱلْقُرْءَانِ وَٱلْغَوْا۟ فِيهِ لَعَلَّكُمْ تَغْلِبُونَ
 
@@ -17628,11 +17628,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ذَٰلِكَ جَزَآءُ أَعْدَآءِ ٱللَّهِ ٱلنَّارُ ۖ لَهُمْ فِيهَا دَارُ ٱلْخُلْدِ ۖ جَزَآءًۢ بِمَا كَانُوا۟ بِـَٔايَٰتِنَا يَجْحَدُونَ
 
-**41:29** Küfredenler der: “Rabbimiz, bizi saptıranları bize göster; cinlerden ve insanlardan olanları göster; onları ayaklarımızın altında çiğneyelim; en alçaklar arasında olsunlar diye çiğneyelim.”
+**41:29** Küfredenler der: "Rabbimiz, bizi saptıranları bize göster; cinlerden ve insanlardan olanları göster; onları ayaklarımızın altında çiğneyelim; en alçaklar arasında olsunlar diye çiğneyelim."
 
 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ رَبَّنَآ أَرِنَا ٱلَّذَيْنِ أَضَلَّانَا مِنَ ٱلْجِنِّ وَٱلْإِنسِ نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا لِيَكُونَا مِنَ ٱلْأَسْفَلِينَ
 
-**41:30** Doğrusu, “Rabbimiz Allah'tır” diyen ve sonra doğru gidenlere melekler inecektir: “Korkmayın ve üzülmeyin; size söz verilen Bahçenin haberi ile sevinin.
+**41:30** Doğrusu, "Rabbimiz Allah'tır" diyen ve sonra doğru gidenlere melekler inecektir: "Korkmayın ve üzülmeyin; size söz verilen Bahçenin haberi ile sevinin.
 
 إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَٰمُوا۟ تَتَنَزَّلُ عَلَيْهِمُ ٱلْمَلَٰٓئِكَةُ أَلَّا تَخَافُوا۟ وَلَا تَحْزَنُوا۟ وَأَبْشِرُوا۟ بِٱلْجَنَّةِ ٱلَّتِى كُنتُمْ تُوعَدُونَ
 
@@ -17640,11 +17640,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 نَحْنُ أَوْلِيَآؤُكُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَفِى ٱلْءَاخِرَةِ ۖ وَلَكُمْ فِيهَا مَا تَشْتَهِىٓ أَنفُسُكُمْ وَلَكُمْ فِيهَا مَا تَدَّعُونَ
 
-**41:32** Bütün Bağışlayan ve Esirgeyen Allah'tan bir ağırlama olarak bulursunuz.”
+**41:32** Bütün Bağışlayan ve Esirgeyen Allah'tan bir ağırlama olarak bulursunuz."
 
 نُزُلًۭا مِّنْ غَفُورٍۢ رَّحِيمٍۢ
 
-**41:33** Ve Allah'a çağıran, bütünlük ile iş yapan ve “Ben teslim olanlardanım” diyen kişiden daha iyi sözlü kimdir?
+**41:33** Ve Allah'a çağıran, bütünlük ile iş yapan ve "Ben teslim olanlardanım" diyen kişiden daha iyi sözlü kimdir?
 
 وَمَنْ أَحْسَنُ قَوْلًۭا مِّمَّن دَعَآ إِلَى ٱللَّهِ وَعَمِلَ صَٰلِحًۭا وَقَالَ إِنَّنِى مِنَ ٱلْمُسْلِمِينَ
 
@@ -17690,7 +17690,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 مَّا يُقَالُ لَكَ إِلَّا مَا قَدْ قِيلَ لِلرُّسُلِ مِن قَبْلِكَ ۚ إِنَّ رَبَّكَ لَذُو مَغْفِرَةٍۢ وَذُو عِقَابٍ أَلِيمٍۢ
 
-**41:44** Onu yabancı bir dilde bir Kur'an yapsa idik, derlerdi: “Keşke ayetleri açık yapılsa idi.” Arapça olmayan bir dil ve bir Arap mı? De ki: “İnananlar için o bir yol gösterme ve şifadır. Fakat inanmayanlara gelince: kulaklarında bir ağırlık vardır ve o, onlar için bir körlüktür. Bunlara uzak bir yerden seslenilir.”
+**41:44** Onu yabancı bir dilde bir Kur'an yapsa idik, derlerdi: "Keşke ayetleri açık yapılsa idi." Arapça olmayan bir dil ve bir Arap mı? De ki: "İnananlar için o bir yol gösterme ve şifadır. Fakat inanmayanlara gelince: kulaklarında bir ağırlık vardır ve o, onlar için bir körlüktür. Bunlara uzak bir yerden seslenilir."
 
 وَلَوْ جَعَلْنَٰهُ قُرْءَانًا أَعْجَمِيًّۭا لَّقَالُوا۟ لَوْلَا فُصِّلَتْ ءَايَٰتُهُۥٓ ۖ ءَا۬عْجَمِىٌّۭ وَعَرَبِىٌّۭ ۗ قُلْ هُوَ لِلَّذِينَ ءَامَنُوا۟ هُدًۭى وَشِفَآءٌۭ ۖ وَٱلَّذِينَ لَا يُؤْمِنُونَ فِىٓ ءَاذَانِهِمْ وَقْرٌۭ وَهُوَ عَلَيْهِمْ عَمًى ۚ أُو۟لَٰٓئِكَ يُنَادَوْنَ مِن مَّكَانٍۭ بَعِيدٍۢ
 
@@ -17702,7 +17702,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 مَّنْ عَمِلَ صَٰلِحًۭا فَلِنَفْسِهِۦ ۖ وَمَنْ أَسَآءَ فَعَلَيْهَا ۗ وَمَا رَبُّكَ بِظَلَّٰمٍۢ لِّلْعَبِيدِ
 
-**41:47** Saat bilgisi O'na bırakılır. Hiçbir meyve kabuğundan çıkmaz ve hiçbir dişi gebe kalmaz ya da doğurmaz; ancak O'nun bilgisi ile olur. Ve O, onlara sesleneceği gün: “Ortaklarım nerede?” Derler: “Sana kabul ederiz, bizden hiçbiri tanık değildir.”
+**41:47** Saat bilgisi O'na bırakılır. Hiçbir meyve kabuğundan çıkmaz ve hiçbir dişi gebe kalmaz ya da doğurmaz; ancak O'nun bilgisi ile olur. Ve O, onlara sesleneceği gün: "Ortaklarım nerede?" Derler: "Sana kabul ederiz, bizden hiçbiri tanık değildir."
 
 ۞ إِلَيْهِ يُرَدُّ عِلْمُ ٱلسَّاعَةِ ۚ وَمَا تَخْرُجُ مِن ثَمَرَٰتٍۢ مِّنْ أَكْمَامِهَا وَمَا تَحْمِلُ مِنْ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِۦ ۚ وَيَوْمَ يُنَادِيهِمْ أَيْنَ شُرَكَآءِى قَالُوٓا۟ ءَاذَنَّٰكَ مَا مِنَّا مِن شَهِيدٍۢ
 
@@ -17714,7 +17714,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 لَّا يَسْـَٔمُ ٱلْإِنسَٰنُ مِن دُعَآءِ ٱلْخَيْرِ وَإِن مَّسَّهُ ٱلشَّرُّ فَيَـُٔوسٌۭ قَنُوطٌۭ
 
-**41:50** Ve Biz, ona dokunan sıkıntıdan sonra, Bizden bir rahmeti ona tattırınca der: “Bu benimdir ve Saat'in geleceğini sanmam; ve Rabbime döndürülsem bile, O'nun yanında en iyisini bulurum.” Küfredenlere yaptıklarını bildireceğiz ve onlara korkunç bir azap tattıracağız.
+**41:50** Ve Biz, ona dokunan sıkıntıdan sonra, Bizden bir rahmeti ona tattırınca der: "Bu benimdir ve Saat'in geleceğini sanmam; ve Rabbime döndürülsem bile, O'nun yanında en iyisini bulurum." Küfredenlere yaptıklarını bildireceğiz ve onlara korkunç bir azap tattıracağız.
 
 وَلَئِنْ أَذَقْنَٰهُ رَحْمَةًۭ مِّنَّا مِنۢ بَعْدِ ضَرَّآءَ مَسَّتْهُ لَيَقُولَنَّ هَٰذَا لِى وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةًۭ وَلَئِن رُّجِعْتُ إِلَىٰ رَبِّىٓ إِنَّ لِى عِندَهُۥ لَلْحُسْنَىٰ ۚ فَلَنُنَبِّئَنَّ ٱلَّذِينَ كَفَرُوا۟ بِمَا عَمِلُوا۟ وَلَنُذِيقَنَّهُم مِّنْ عَذَابٍ غَلِيظٍۢ
 
@@ -17722,7 +17722,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَإِذَآ أَنْعَمْنَا عَلَى ٱلْإِنسَٰنِ أَعْرَضَ وَنَـَٔا بِجَانِبِهِۦ وَإِذَا مَسَّهُ ٱلشَّرُّ فَذُو دُعَآءٍ عَرِيضٍۢ
 
-**41:52** De ki: “Düşündünüz mü? O, Allah'tan ise ve siz onu yadsırsanız, kesilip yabancılaşan kişiden daha sapkın kimdir?”
+**41:52** De ki: "Düşündünüz mü? O, Allah'tan ise ve siz onu yadsırsanız, kesilip yabancılaşan kişiden daha sapkın kimdir?"
 
 قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ ثُمَّ كَفَرْتُم بِهِۦ مَنْ أَضَلُّ مِمَّنْ هُوَ فِى شِقَاقٍۭ بَعِيدٍۢ
 
@@ -23680,11 +23680,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ
 
-**77:29** “Eskiden inkâr ettiğiniz şeye gidin.”
+**77:29** "Eskiden inkâr ettiğiniz şeye gidin."
 
 ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ
 
-**77:30** “Üç ayrı kütle hâlinde bir gölgeye gidin.”
+**77:30** "Üç ayrı kütle hâlinde bir gölgeye gidin."
 
 ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّۢ ذِى ثَلَٰثِ شُعَبٍۢ
 
@@ -23736,7 +23736,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ
 
-**77:43** “Yaptıklarınızdan dolayı afiyetle yiyin ve için.”
+**77:43** "Yaptıklarınızdan dolayı afiyetle yiyin ve için."
 
 كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ
 
@@ -23748,7 +23748,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ
 
-**77:46** “Yiyin ve biraz tadını çıkarın; siz gerçekten suçlusunuz.”
+**77:46** "Yiyin ve biraz tadını çıkarın; siz gerçekten suçlusunuz."
 
 كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ
 
@@ -23756,7 +23756,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ
 
-**77:48** Onlara “Eğilin” denildiğinde eğilmezler.
+**77:48** Onlara "Eğilin" denildiğinde eğilmezler.
 
 وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ
 
@@ -23936,7 +23936,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا
 
-**78:40** Sizi yakın bir azap hakkında uyardık — kişinin ellerinin ürettiği şeye bakacağı ve inkârcının “Keşke toprak olsaydım” diyeceği gün.
+**78:40** Sizi yakın bir azap hakkında uyardık — kişinin ellerinin ürettiği şeye bakacağı ve inkârcının "Keşke toprak olsaydım" diyeceği gün.
 
 إِنَّآ أَنذَرْنَٰكُمْ عَذَابًۭا قَرِيبًۭا يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ ٱلْكَافِرُ يَٰلَيْتَنِى كُنتُ تُرَٰبًۢا
 
@@ -23988,15 +23988,15 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 أَبْصَٰرُهَا خَٰشِعَةٌۭ
 
-**79:10** “Eski hâlimize mi döndürüleceğiz?” derler.
+**79:10** "Eski hâlimize mi döndürüleceğiz?" derler.
 
 يَقُولُونَ أَءِنَّا لَمَرْدُودُونَ فِى ٱلْحَافِرَةِ
 
-**79:11** “Çürümüş kemikler hâline geldiğimizde mi?”
+**79:11** "Çürümüş kemikler hâline geldiğimizde mi?"
 
 أَءِذَا كُنَّا عِظَٰمًۭا نَّخِرَةًۭ
 
-**79:12** “Bu, kaybettiren bir iş” derler.
+**79:12** "Bu, kaybettiren bir iş" derler.
 
 قَالُوا۟ تِلْكَ إِذًۭا كَرَّةٌ خَاسِرَةٌۭ
 
@@ -24016,15 +24016,15 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِذْ نَادَىٰهُ رَبُّهُۥ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى
 
-**79:17** “Firavun'a git — o sınırı aştı.”
+**79:17** "Firavun'a git — o sınırı aştı."
 
 ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ
 
-**79:18** Ve de: “Arınmak ister misin?
+**79:18** Ve de: "Arınmak ister misin?
 
 فَقُلْ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ
 
-**79:19** Seni Rabbine yönelteyim ve sen saygı duyasın.”
+**79:19** Seni Rabbine yönelteyim ve sen saygı duyasın."
 
 وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ
 
@@ -24044,7 +24044,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَحَشَرَ فَنَادَىٰ
 
-**79:24** “Ben sizin en yüce Rabbinizim” dedi.
+**79:24** "Ben sizin en yüce Rabbinizim" dedi.
 
 فَقَالَ أَنَا۠ رَبُّكُمُ ٱلْأَعْلَىٰ
 
@@ -24116,7 +24116,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَإِنَّ ٱلْجَنَّةَ هِىَ ٱلْمَأْوَىٰ
 
-**79:42** Sana Saat'i sorarlar: “Ne zaman gerçekleşecek?”
+**79:42** Sana Saat'i sorarlar: "Ne zaman gerçekleşecek?"
 
 يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا
 
@@ -24592,7 +24592,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ
 
-**83:13** Ayetlerimiz ona okunduğunda “Eskilerin efsaneleri” der.
+**83:13** Ayetlerimiz ona okunduğunda "Eskilerin efsaneleri" der.
 
 إِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
@@ -24608,7 +24608,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ
 
-**83:17** Sonra “İşte inkâr etmekte olduğunuz şey” denilecektir.
+**83:17** Sonra "İşte inkâr etmekte olduğunuz şey" denilecektir.
 
 ثُمَّ يُقَالُ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ
 
@@ -24668,7 +24668,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَإِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمُ ٱنقَلَبُوا۟ فَكِهِينَ
 
-**83:32** Onları gördüklerinde “Bu insanlar kaybolmuş” derlerdi.
+**83:32** Onları gördüklerinde "Bu insanlar kaybolmuş" derlerdi.
 
 وَإِذَا رَأَوْهُمْ قَالُوٓا۟ إِنَّ هَٰٓؤُلَآءِ لَضَآلُّونَ
 
@@ -25254,11 +25254,11 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ
 
-**89:15** İnsana gelince, Rabbi onu sınadığında, ona onur verdiğinde ve onu refaha kavuşturduğunda “Rabbim bana onur verdi” der.
+**89:15** İnsana gelince, Rabbi onu sınadığında, ona onur verdiğinde ve onu refaha kavuşturduğunda "Rabbim bana onur verdi" der.
 
 فَأَمَّا ٱلْإِنسَٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ
 
-**89:16** Ama onu sınadığında ve geçimini onun için kısıtladığında “Rabbim bana hakaret etti” der.
+**89:16** Ama onu sınadığında ve geçimini onun için kısıtladığında "Rabbim bana hakaret etti" der.
 
 وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَٰنَنِ
 
@@ -25290,7 +25290,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍۢ يَتَذَكَّرُ ٱلْإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ
 
-**89:24** “Keşke hayatım için öne bir şey gönderseydim” diyecektir.
+**89:24** "Keşke hayatım için öne bir şey gönderseydim" diyecektir.
 
 يَقُولُ يَٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى
 
@@ -25350,7 +25350,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌۭ
 
-**90:6** “Çok para harcadım” der.
+**90:6** "Çok para harcadım" der.
 
 يَقُولُ أَهْلَكْتُ مَالًۭا لُّبَدًا
 
@@ -25470,7 +25470,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا
 
-**91:13** Allah'ın elçisi onlara dedi: “Bu, Allah'ın dişi devesidir; bırakın, su içsin.”
+**91:13** Allah'ın elçisi onlara dedi: "Bu, Allah'ın dişi devesidir; bırakın, su içsin."
 
 فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَٰهَا
 
@@ -25908,7 +25908,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا
 
-**99:3** Ve insan, “Buna ne oluyor?” dediğinde.
+**99:3** Ve insan, "Buna ne oluyor?" dediğinde.
 
 وَقَالَ ٱلْإِنسَٰنُ مَا لَهَا
 
@@ -26296,7 +26296,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 *Rahman ve Rahim olan Allah'ın adıyla*
 
-**109:1** De ki: “Ey inkârcılar.
+**109:1** De ki: "Ey inkârcılar.
 
 قُلْ يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ
 
@@ -26316,7 +26316,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ
 
-**109:6** Sizin yolunuz size, benim yolum bana.”
+**109:6** Sizin yolunuz size, benim yolum bana."
 
 لَكُمْ دِينُكُمْ وَلِىَ دِينِ
 
@@ -26388,7 +26388,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 *Rahman ve Rahim olan Allah'ın adıyla*
 
-**112:1** De ki: “O, Allah'tır, Birdir.
+**112:1** De ki: "O, Allah'tır, Birdir.
 
 قُلْ هُوَ ٱللَّهُ أَحَدٌ
 
@@ -26400,7 +26400,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 لَمْ يَلِدْ وَلَمْ يُولَدْ
 
-**112:4** Ve hiçbir şey O'na denk değildir.”
+**112:4** Ve hiçbir şey O'na denk değildir."
 
 وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ
 
@@ -26416,7 +26416,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 *Rahman ve Rahim olan Allah'ın adıyla*
 
-**113:1** De ki: “Şafağın Rabbi'ne sığınırım.
+**113:1** De ki: "Şafağın Rabbi'ne sığınırım.
 
 قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ
 
@@ -26432,7 +26432,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ
 
-**113:5** Haset ettiği zaman hasetçinin kötülüğünden.”
+**113:5** Haset ettiği zaman hasetçinin kötülüğünden."
 
 وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
 
@@ -26448,7 +26448,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 *Rahman ve Rahim olan Allah'ın adıyla*
 
-**114:1** De ki: “İnsanların Rabbi'ne sığınırım.
+**114:1** De ki: "İnsanların Rabbi'ne sığınırım.
 
 قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ
 
@@ -26468,7 +26468,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ
 
-**114:6** Cinlerden ve insanlardan olanın.”
+**114:6** Cinlerden ve insanlardan olanın."
 
 مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ
 
