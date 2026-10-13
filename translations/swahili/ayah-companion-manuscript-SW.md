@@ -5,7 +5,7 @@
 SWAHILI MANUSCRIPT — REVISION DRAFT, not a final edition. A Swahili rendering of the corrected English manuscript by Robert Tilford.
 
 **Kuhusu toleo hili / About this edition:**
-- **Chanzo**: maandiko ya Kiingereza yaliyosahihishwa ya Robert Tilford (sura 114 / aya 6,236); maandiko ya Kiarabu yamewekwa aya kwa aya kutoka kwenye chanzo hichohicho. / Source: Robert Tilford’s corrected English master (114 surahs / 6,236 verses); Arabic placed verse by verse from the same master.
+- **Chanzo**: maandiko ya Kiingereza yaliyosahihishwa ya Robert Tilford (sura 114 / aya 6,236); maandiko ya Kiarabu yamewekwa aya kwa aya kutoka kwenye chanzo hichohicho. / Source: Robert Tilford's corrected English master (114 surahs / 6,236 verses); Arabic placed verse by verse from the same master.
 - **Mbinu**: Quran pekee — maneno yamefafanuliwa na Quran yenyewe. Zaka haina asilimia yoyote, kwa sababu Quran haitoi asilimia; hakuna nyongeza za hadithi/mila. / Quran-alone: terms defined by the Quran itself; zakat carries NO percentage; no hadith/traditional additions.
 - **Lugha**: Kiswahili sanifu kilicho wazi na rahisi — hati ya Kilatini, maneno ambayo msomaji wa kawaida anaweza kuyafuata. / Plain standard Swahili in Latin script, words a humble reader can follow.
 - **Hali**: RASIMU YA MAREKEBISHO / REVISION DRAFT. Rasimu hii yote inahitaji uhakiki wa wazungumzaji asilia wa Kiswahili — si ya mwisho, na isitumike kabla ya uhakiki. / Complete draft awaiting native Swahili review; not final, not for use before review.
@@ -21658,7 +21658,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 **ٱلْمُنَافِقُون** · Al-Munafiqun · Madina · aya 11
 
-*Wanafiki waliosema, ‘Msiwatumie wale walio pamoja na Mtume.’*
+*Wanafiki waliosema, 'Msiwatumie wale walio pamoja na Mtume.'*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 

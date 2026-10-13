@@ -18737,7 +18737,7 @@ Se vocês estiverem em estado de impureza, purifiquem-se. Se estiverem doentes, 
 
 **ٱلْأَحْقَاف** · Al-Ahqaf · Mecana · 35 versículos
 
-*As dunas de areia de Ahqaf, e um filho que disse: ‘Não me pregue sobre ressurreição.’*
+*As dunas de areia de Ahqaf, e um filho que disse: 'Não me pregue sobre ressurreição.'*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 

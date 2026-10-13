@@ -5,12 +5,12 @@
 TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish rendering of the corrected English manuscript by Robert Tilford.
 
 **Bu baskı hakkında / About this edition:**
-- **Metin temeli**: Robert Tilford’un düzeltilmiş İngilizce el yazması (114 sûre / 6.236 âyet); Arapça metin, o el yazmasından âyet âyet yan yana korunmuştur.
-- **Çalışma kuralı**: Yalnızca Kur’an. Zorunlu bağış (zekât) hiçbir yüzde almaz, çünkü Kur’an hiçbir oran vermez; hiçbir hadis veya tefsir malzemesi eklenmemiştir.
+- **Metin temeli**: Robert Tilford'un düzeltilmiş İngilizce el yazması (114 sûre / 6.236 âyet); Arapça metin, o el yazmasından âyet âyet yan yana korunmuştur.
+- **Çalışma kuralı**: Yalnızca Kur'an. Zorunlu bağış (zekât) hiçbir yüzde almaz, çünkü Kur'an hiçbir oran vermez; hiçbir hadis veya tefsir malzemesi eklenmemiştir.
 - **Dil**: Sade, açık, çağdaş standart Türkçe — mütevazı bir okurun izleyebileceği en yalın biçim.
 - **Durum**: GÖZDEN GEÇİRME TASLAĞI / REVISION DRAFT. Anadili Türkçe olan bir gözden geçiricinin denetimini bekleyen ilk tam taslak; kilitli değildir, nihai değildir, anadili konuşurunca gözden geçirilmemiştir.
 - **Yapay zekâ yardımı**: Bu taslak, düzeltilmiş İngilizce asıldan yapay zekâ yardımıyla hazırlanmıştır; kullanımdan önce her âyetin anadili Türkçe olan bir gözden geçirici tarafından denetlenmesi gerekir. / Prepared with AI assistance from the corrected English master; native Turkish review is required before any use.
-- **İlk çeviri iddiası yoktur**: Türkçe Kur’an çevirileri boldur (Diyanet geleneği ve pek çok bağımsız çeviri). Bu ilk çeviri değildir; sade Türkçe ile yalnızca-Kur’an yöntemli bir taslaktır. / Turkish Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
+- **İlk çeviri iddiası yoktur**: Türkçe Kur'an çevirileri boldur (Diyanet geleneği ve pek çok bağımsız çeviri). Bu ilk çeviri değildir; sade Türkçe ile yalnızca-Kur'an yöntemli bir taslaktır. / Turkish Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **Özgürce verilmiştir**: Bu taslak özgürce verilir; kopyalar, düzeltmeler ve daha iyi sürümler memnuniyetle karşılanır. / Freely given; copies, corrections, and better versions are welcomed.
 
 # İçindekiler
@@ -17510,7 +17510,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 **فُصِّلَت** · Fussilat · Mekkî · 54 âyet
 
-*Ayrıntılı: ayetler açıklandı ve “kalplerimiz örtüler altındadır” diyen bir halk.*
+*Ayrıntılı: ayetler açıklandı ve "kalplerimiz örtüler altındadır" diyen bir halk.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 

@@ -5,7 +5,7 @@
 TELUGU MANUSCRIPT — REVISION DRAFT, not a final edition. A Telugu rendering of the corrected English manuscript by Robert Tilford.
 
 **ఈ సంచిక గురించి / About this edition:**
-- **మూల గ్రంథం**: రాబర్ట్ టిల్ఫోర్డ్ సరిదిద్దిన ఆంగ్ల మూలం (114 సూరాలు / 6,236 వచనాలు); అరబిక్ గ్రంథం వచనం వచనంగా అదే మూలం నుండి పక్కన ఉంచబడింది. / Source: Robert Tilford’s corrected English master (114 surahs / 6,236 verses); Arabic placed verse by verse from the same master.
+- **మూల గ్రంథం**: రాబర్ట్ టిల్ఫోర్డ్ సరిదిద్దిన ఆంగ్ల మూలం (114 సూరాలు / 6,236 వచనాలు); అరబిక్ గ్రంథం వచనం వచనంగా అదే మూలం నుండి పక్కన ఉంచబడింది. / Source: Robert Tilford's corrected English master (114 surahs / 6,236 verses); Arabic placed verse by verse from the same master.
 - **పద్ధతి**: ఖురాన్ మాత్రమే — పదాలు ఖురాన్ చేతనే నిర్వచించబడ్డాయి. జకాత్‌పై ఎటువంటి శాతం లేదు, ఎందుకంటే ఖురాన్ ఏ శాతాన్నీ ఇవ్వదు; హదీస్/సంప్రదాయ చేర్పులు ఏవీ లేవు. / Quran-alone: terms defined by the Quran itself; zakat carries NO percentage; no hadith/traditional additions.
 - **భాష**: సరళమైన, స్పష్టమైన ఆధునిక తెలుగు — తెలుగు లిపిలో, సామాన్య పాఠకుడు సులభంగా అర్థం చేసుకునే మాటల భాషలో. / Plain modern Telugu in Telugu script, in spoken vāḍuka register.
 - **స్థితి**: పునఃపరిశీలన ముసాయిదా / REVISION DRAFT. ఈ పూర్తి ముసాయిదాకు స్థానిక తెలుగు పరిశీలన తప్పనిసరి — పరిశీలనకు ముందు దీనిని వాడవద్దు, తుదిదిగా భావించవద్దు. / Complete draft awaiting native Telugu review; not final, not for use before review.
@@ -18740,7 +18740,7 @@ TELUGU MANUSCRIPT — REVISION DRAFT, not a final edition. A Telugu rendering of
 
 **ٱلْأَحْقَاف** · Al-Ahqaf · మక్కా · 35 వచనాలు
 
-*అహ్ఖాఫ్ ఇసుక దిబ్బలు, «పునరుత్థానం గురించి నాకు ప్రవచించకు» అని అన్న కొడుకు.*
+*అహ్ఖాఫ్ ఇసుక దిబ్బలు, "పునరుత్థానం గురించి నాకు ప్రవచించకు" అని అన్న కొడుకు.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 

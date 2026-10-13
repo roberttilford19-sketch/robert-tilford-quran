@@ -5,7 +5,7 @@
 TAMIL MANUSCRIPT — REVISION DRAFT, not a final edition. A Tamil rendering of the corrected English manuscript by Robert Tilford.
 
 **இந்தப் பதிப்பு பற்றி / About this edition:**
-- **மூல நூல்**: ராபர்ட் டில்ஃபோர்டின் திருத்திய ஆங்கில மூல நூல் (114 சூராக்கள் / 6,236 வசனங்கள்); அரபு நூல் அதே மூல நூலிலிருந்து வசனம் வசனமாக அருகில் வைக்கப்பட்டுள்ளது. / Source: Robert Tilford’s corrected English master (114 surahs / 6,236 verses); Arabic placed verse by verse from the same master.
+- **மூல நூல்**: ராபர்ட் டில்ஃபோர்டின் திருத்திய ஆங்கில மூல நூல் (114 சூராக்கள் / 6,236 வசனங்கள்); அரபு நூல் அதே மூல நூலிலிருந்து வசனம் வசனமாக அருகில் வைக்கப்பட்டுள்ளது. / Source: Robert Tilford's corrected English master (114 surahs / 6,236 verses); Arabic placed verse by verse from the same master.
 - **முறை**: குர்ஆன் மட்டுமே — சொற்கள் குர்ஆனாலேயே விளக்கப்பட்டுள்ளன. ஜகாத்திற்கு எந்த சதவீதமும் இல்லை, ஏனெனில் குர்ஆன் எந்த சதவீதத்தையும் தரவில்லை; ஹதீஸ்/பாரம்பரிய சேர்க்கைகள் இல்லை. / Quran-alone: terms defined by the Quran itself; zakat carries NO percentage; no hadith/traditional additions.
 - **மொழி**: எளிய, தெளிவான நவீன தமிழ் — தமிழ் எழுத்தில், சாதாரண வாசகர் எளிதில் புரிந்துகொள்ளும் பேச்சு நடையில். / Plain modern Tamil in Tamil script, in spoken register.
 - **நிலை**: மறுபரிசீலனை வரைவு / REVISION DRAFT. இந்த முழு வரைவிற்கும் தமிழ் தாய்மொழி பேசுபவர்களின் மறுபரிசீலனை கட்டாயம் — மறுபரிசீலனைக்கு முன் பயன்படுத்தாதீர்கள், இறுதியானதாகக் கருதாதீர்கள். / Complete draft awaiting native Tamil review; not final, not for use before review.
@@ -21544,7 +21544,7 @@ TAMIL MANUSCRIPT — REVISION DRAFT, not a final edition. A Tamil rendering of t
 
 **ٱلْمُنَافِقُون** · Al-Munafiqun · மதீனா · 11 வசனங்கள்
 
-*‘தூதருடன் இருப்பவர்களுக்குச் செலவிடாதீர்கள்’ என்று சொன்ன நயவஞ்சகர்கள்.*
+*'தூதருடன் இருப்பவர்களுக்குச் செலவிடாதீர்கள்' என்று சொன்ன நயவஞ்சகர்கள்.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
