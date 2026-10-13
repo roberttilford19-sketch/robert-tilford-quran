@@ -2880,7 +2880,7 @@
 
 **5:6**  ¡Oh, los que creen! Cuando se dispongan a orar, lávense los rostros y las manos y los brazos hasta los codos, y frótense las cabezas, y lávense los pies hasta los tobillos.
 
-*[Algunas lecturas continúan el frotado hasta los pies; la lectura impresa aquí dice lavar.]*
+
 
 Si están en estado de impureza, purifíquense. Si están enfermos, o de viaje, o alguno de ustedes regresa del baño, o han tenido contacto con mujeres, y no encuentran agua, usen entonces tierra pura y frótense con ella los rostros y las manos. Dios no quiere imponerles una carga, sino que quiere purificarlos y completar Su bendición sobre ustedes, para que sean agradecidos.
 
@@ -4847,7 +4847,7 @@ Si están en estado de impureza, purifíquense. Si están enfermos, o de viaje, 
 وَٱذْكُر رَّبَّكَ فِى نَفْسِكَ تَضَرُّعًۭا وَخِيفَةًۭ وَدُونَ ٱلْجَهْرِ مِنَ ٱلْقَوْلِ بِٱلْغُدُوِّ وَٱلْءَاصَالِ وَلَا تَكُن مِّنَ ٱلْغَٰفِلِينَ
 
 **7:206**  Aquellos que están en la presencia de tu Señor no son demasiado orgullosos para adorarlo. Recitan Sus alabanzas, y ante Él se postran.  
-*[postración — recomendada]*
+
 
 إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩
 
@@ -7164,7 +7164,7 @@ Si están en estado de impureza, purifíquense. Si están enfermos, o de viaje, 
 لَهُۥ دَعْوَةُ ٱلْحَقِّ ۖ وَٱلَّذِينَ يَدْعُونَ مِن دُونِهِۦ لَا يَسْتَجِيبُونَ لَهُم بِشَىْءٍ إِلَّا كَبَٰسِطِ كَفَّيْهِ إِلَى ٱلْمَآءِ لِيَبْلُغَ فَاهُ وَمَا هُوَ بِبَٰلِغِهِۦ ۚ وَمَا دُعَآءُ ٱلْكَٰفِرِينَ إِلَّا فِى ضَلَٰلٍۢ
 
 **13:15**  Ante Dios se postra todo el que está en los cielos y la tierra, de buena gana o a la fuerza, como también sus sombras, en la mañana y en la tarde.
-*[postración — recomendada]*
+
 
 وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ ۩
 
@@ -8117,7 +8117,7 @@ Si están en estado de impureza, purifíquense. Si están enfermos, o de viaje, 
 وَلِلَّهِ يَسْجُدُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مِن دَآبَّةٍۢ وَٱلْمَلَٰٓئِكَةُ وَهُمْ لَا يَسْتَكْبِرُونَ
 
 **16:50**  Temen a su Señor sobre ellos, y hacen lo que se les ordena.  
-*[postración — recomendada]*
+
 
 يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩
 
@@ -8878,7 +8878,7 @@ Si están en estado de impureza, purifíquense. Si están enfermos, o de viaje, 
 وَيَقُولُونَ سُبْحَٰنَ رَبِّنَآ إِن كَانَ وَعْدُ رَبِّنَا لَمَفْعُولًۭا
 
 **17:109**  Y caen sobre sus barbillas, llorando, y aumenta su humildad.  
-*[postración — recomendada]*
+
 
 وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًۭا ۩
 
@@ -9583,7 +9583,7 @@ Si están en estado de impureza, purifíquense. Si están enfermos, o de viaje, 
 وَرَفَعْنَٰهُ مَكَانًا عَلِيًّا
 
 **19:58**  Estos son algunos de los profetas que Dios ha bendecido, de los descendientes de Adán, y de aquellos que llevamos con Noé, y de los descendientes de Abraham e Israel, y de aquellos que guiamos y elegimos. Cada vez que las revelaciones del Benéfico les son recitadas, caen postrados y llorando.  
-*[postración — recomendada]*
+
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩
 
@@ -10840,7 +10840,7 @@ Si están en estado de impureza, purifíquense. Si están enfermos, o de viaje, 
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلصَّٰبِـِٔينَ وَٱلنَّصَٰرَىٰ وَٱلْمَجُوسَ وَٱلَّذِينَ أَشْرَكُوٓا۟ إِنَّ ٱللَّهَ يَفْصِلُ بَيْنَهُمْ يَوْمَ ٱلْقِيَٰمَةِ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدٌ
 
 **22:18**  ¿No te das cuenta de que ante Dios se postran todos los que están en los cielos y todos los que están en la tierra, y el sol, y la luna, y las estrellas, y las montañas, y los árboles, y los animales, y muchos de la gente? Pero muchos merecen justamente el castigo. A quien Dios avergüence, no hay quien lo honre. Dios hace lo que quiere.  
-*[postración — recomendada]*
+
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌۭ مِّنَ ٱلنَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ ۗ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ ۩
 
@@ -11077,7 +11077,7 @@ Si están en estado de impureza, purifíquense. Si están enfermos, o de viaje, 
 يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۗ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
 
 **22:77**  ¡Oh creyentes! Arrodíllense, y póstrese, y adoren a su Señor, y hagan buenas obras, para que puedan tener éxito.  
-*[postración — recomendada]*
+
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩
 
@@ -12086,7 +12086,7 @@ Si están en estado de impureza, purifíquense. Si están enfermos, o de viaje, 
 ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍۢ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۚ ٱلرَّحْمَٰنُ فَسْـَٔلْ بِهِۦ خَبِيرًۭا
 
 **25:60**  Y cuando se les dice: “Póstrense ante el Misericordioso”, dicen: “¿Y qué es el Misericordioso? ¿Nos vamos a postrar ante lo que nos ordenas?”. Y aumenta su aversión.  
-*[postración — recomendada]*
+
 
 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًۭا ۩
 
@@ -13191,7 +13191,7 @@ Si están en estado de impureza, purifíquense. Si están enfermos, o de viaje, 
 أَلَّا يَسْجُدُوا۟ لِلَّهِ ٱلَّذِى يُخْرِجُ ٱلْخَبْءَ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَيَعْلَمُ مَا تُخْفُونَ وَمَا تُعْلِنُونَ
 
 **27:26**  Dios: no hay dios sino Él, el Señor del Trono Sublime”.  
-*[postración — recomendada]*
+
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩
 
@@ -14584,7 +14584,7 @@ Si están en estado de impureza, purifíquense. Si están enfermos, o de viaje, 
 فَذُوقُوا۟ بِمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَٰذَآ إِنَّا نَسِينَٰكُمْ ۖ وَذُوقُوا۟ عَذَابَ ٱلْخُلْدِ بِمَا كُنتُمْ تَعْمَلُونَ
 
 **32:15**  Creen en Nuestras comunicaciones, aquellos que, cuando se les recuerda de ellas, caen postrados, y glorifican a su Señor con alabanza, y no son orgullosos.  
-*[postración — obligatoria]*
+
 
 إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًۭا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩
 
@@ -16561,7 +16561,7 @@ Si están en estado de impureza, purifíquense. Si están enfermos, o de viaje, 
 إِنَّ هَٰذَآ أَخِى لَهُۥ تِسْعٌۭ وَتِسْعُونَ نَعْجَةًۭ وَلِىَ نَعْجَةٌۭ وَٰحِدَةٌۭ فَقَالَ أَكْفِلْنِيهَا وَعَزَّنِى فِى ٱلْخِطَابِ
 
 **38:24**  Dijo: «Te ha agraviado al pedir tu oveja además de sus ovejas. Muchos socios se aprovechan unos de otros, salvo quienes creen y hacen buenas obras, pero estos son tan pocos.» David comprendió que lo estábamos probando, así que pidió perdón a su Señor, y cayó de rodillas, y se arrepintió.
-*[postración — recomendada]*
+
 
 قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَأَنَابَ ۩
 
@@ -17646,7 +17646,7 @@ Si están en estado de impureza, purifíquense. Si están enfermos, o de viaje, 
 وَمِنْ ءَايَٰتِهِ ٱلَّيْلُ وَٱلنَّهَارُ وَٱلشَّمْسُ وَٱلْقَمَرُ ۚ لَا تَسْجُدُوا۟ لِلشَّمْسِ وَلَا لِلْقَمَرِ وَٱسْجُدُوا۟ لِلَّهِ ٱلَّذِى خَلَقَهُنَّ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ
 
 **41:38**  Pero si son demasiado orgullosos: quienes están en presencia de tu Señor lo alaban noche y día, y sin cansarse jamás.
-*[postración — obligatoria]*
+
 
 فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ ۩
 
@@ -20152,7 +20152,7 @@ Si están en estado de impureza, purifíquense. Si están enfermos, o de viaje, 
 
 **53:62**  ¡Así que póstrense ante Dios, y adoren!
 
-*[postración — obligatoria]*
+
 
 فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩
 
@@ -24761,7 +24761,7 @@ Si están en estado de impureza, purifíquense. Si están enfermos, o de viaje, 
 فَمَا لَهُمْ لَا يُؤْمِنُونَ
 
 **84:21**  Y cuando el Corán les es leído, ¿no se postran?  
-*[postración — recomendada]*
+
 
 وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
 
@@ -25786,7 +25786,7 @@ Si están en estado de impureza, purifíquense. Si están enfermos, o de viaje, 
 سَنَدْعُ ٱلزَّبَانِيَةَ
 
 **96:19**  No, no le obedezcas; pero arrodíllate, y acércate.  
-*[postración — obligatoria]*
+
 
 كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩
 

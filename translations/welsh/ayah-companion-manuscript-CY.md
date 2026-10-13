@@ -4877,7 +4877,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 وَٱذْكُر رَّبَّكَ فِى نَفْسِكَ تَضَرُّعًۭا وَخِيفَةًۭ وَدُونَ ٱلْجَهْرِ مِنَ ٱلْقَوْلِ بِٱلْغُدُوِّ وَٱلْءَاصَالِ وَلَا تَكُن مِّنَ ٱلْغَٰفِلِينَ
 
 **7:206**  Y rhai sydd ym mhresenoldeb dy Arglwydd nid ydynt yn rhy falch i'w addoli Ef. Maent yn adrodd Ei foliant, ac iddo Ef y maent yn ymgrymu.
-*[ymgrymu — argymhellir]*
+
 
 إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩
 
@@ -7200,7 +7200,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 **13:15**  Ac i Allah y mae pawb yn y nefoedd a'r ddaear yn ymgrymu, yn fodlon neu'n anfodlon, a'u cysgodion yn y bore a gyda'r nos.
 
-*[ymgrymu — argymhellir]*
+
 
 وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ ۩
 
@@ -8157,7 +8157,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 
 **16:50**  Maent yn ofni eu Harglwydd uwch eu pennau, ac yn gwneud yr hyn y gorchmynnir iddynt.
 
-*[ymgrymu — argymhellir]*
+
 
 يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩
 
@@ -8918,7 +8918,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 وَيَقُولُونَ سُبْحَٰنَ رَبِّنَآ إِن كَانَ وَعْدُ رَبِّنَا لَمَفْعُولًۭا
 
 **17:109**  A syrthiant nhw ar eu gênau, gan wylo, ac y mae'n ychwanegu at eu gostyngeiddrwydd.  
-*[ymgrymu — argymhellir]*
+
 
 وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًۭا ۩
 
@@ -9625,7 +9625,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 وَرَفَعْنَٰهُ مَكَانًا عَلِيًّا
 
 **19:58**  Dyma rai o'r proffwydi y mae Allah wedi eu bendithio, o ddisgynyddion Adda, ac o'r rhai a gludwyd gennym Ni gyda Noa, ac o ddisgynyddion Abraham ac Israel, ac o'r rhai yr ydym Ni wedi eu tywys a'u dewis. Pryd bynnag yr adroddir datguddiadau'r Daionus iddynt, syrthient, gan ymgrymu a wylo.  
-*[ymgrymu — argymhellir]*
+
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩
 
@@ -10885,7 +10885,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلصَّٰبِـِٔينَ وَٱلنَّصَٰرَىٰ وَٱلْمَجُوسَ وَٱلَّذِينَ أَشْرَكُوٓا۟ إِنَّ ٱللَّهَ يَفْصِلُ بَيْنَهُمْ يَوْمَ ٱلْقِيَٰمَةِ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدٌ
 
 **22:18**  Oni sylweddoli di fod i Allah yn ymgrymu pawb yn y nefoedd a phawb ar y ddaear, a'r haul, a'r lleuad, a'r sêr, a'r mynyddoedd, a'r coed, a'r anifeiliaid, a llawer o'r bobl? Ond y mae llawer yn haeddiannol yn gyfiawn o gosb. Pwy bynnag y mae Allah yn ei waradwyddo, nid oes neb i'w anrhydeddu. Y mae Allah yn gwneud beth bynnag y mae'n ei ewyllysio.  
-*[ymgrymu — argymhellir]*
+
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌۭ مِّنَ ٱلنَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ ۗ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ ۩
 
@@ -11122,7 +11122,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۗ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
 
 **22:77**  O chi sy'n credu! Penliniwch, ac ymgrymwch, ac addolwch eich Arglwydd, a gwnewch weithredoedd da, er mwyn i chi lwyddo.  
-*[ymgrymu — argymhellir]*
+
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩
 
@@ -12133,7 +12133,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍۢ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۚ ٱلرَّحْمَٰنُ فَسْـَٔلْ بِهِۦ خَبِيرًۭا
 
 **25:60**  A phan ddywedir wrthynt, "Ymgrymwch i'r Trugarog," dywedant, "A beth yw'r Trugarog? A ydym i ymgrymu i beth bynnag yr wyt yn ein gorchymyn?" Ac mae'n cynyddu eu gwrthwynebiad.
-*[ymgrymu — argymhellir]*
+
 
 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًۭا ۩
 
@@ -13240,7 +13240,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 أَلَّا يَسْجُدُوا۟ لِلَّهِ ٱلَّذِى يُخْرِجُ ٱلْخَبْءَ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَيَعْلَمُ مَا تُخْفُونَ وَمَا تُعْلِنُونَ
 
 **27:26**  Allah — Nid oes duw ond Ef, Arglwydd yr Orsedd Ddyrchafedig."
-*[ymgrymu — argymhellir]*
+
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩
 
@@ -14635,7 +14635,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 فَذُوقُوا۟ بِمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَٰذَآ إِنَّا نَسِينَٰكُمْ ۖ وَذُوقُوا۟ عَذَابَ ٱلْخُلْدِ بِمَا كُنتُمْ تَعْمَلُونَ
 
 **32:15**  Maent yn credu yn Ein negeseuon, y rhai sydd, pan gânt eu hatgoffa ohonynt, yn syrthio i lawr yn ymgrymu, ac yn gogoneddu eu Harglwydd â moliant, ac nid ydynt yn falch.
-*[ymgrymu — gorfodol]*
+
 
 إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًۭا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩
 
@@ -16614,7 +16614,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 إِنَّ هَٰذَآ أَخِى لَهُۥ تِسْعٌۭ وَتِسْعُونَ نَعْجَةًۭ وَلِىَ نَعْجَةٌۭ وَٰحِدَةٌۭ فَقَالَ أَكْفِلْنِيهَا وَعَزَّنِى فِى ٱلْخِطَابِ
 
 **38:24**  Dywedodd, "Y mae wedi gwneud cam â thi trwy ofyn am dy famog yn ychwanegol at ei famogiaid ef. Y mae llawer o bartneriaid yn manteisio ar ei gilydd, ac eithrio'r rhai sy'n credu ac yn gwneud gweithredoedd da, ond ychydig iawn yw'r rhain." Sylweddolodd Dafydd ein bod yn ei brofi, felly ceisiodd faddeuant gan ei Arglwydd, a syrthiodd ar ei liniau, ac edifarhaodd.  
-*[ymgrymu — argymhellir]*
+
 
 قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَأَنَابَ ۩
 
@@ -17702,7 +17702,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 وَمِنْ ءَايَٰتِهِ ٱلَّيْلُ وَٱلنَّهَارُ وَٱلشَّمْسُ وَٱلْقَمَرُ ۚ لَا تَسْجُدُوا۟ لِلشَّمْسِ وَلَا لِلْقَمَرِ وَٱسْجُدُوا۟ لِلَّهِ ٱلَّذِى خَلَقَهُنَّ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ
 
 **41:38**  Ond os ydynt yn rhy falch — y mae'r rhai ym mhresenoldeb dy Arglwydd yn ei foli nos a dydd, a heb flino byth.  
-*[ymgrymu — gorfodol]*
+
 
 فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ ۩
 
@@ -20218,7 +20218,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 وَأَنتُمْ سَٰمِدُونَ
 
 **53:62**  Felly ymgrymwch i Allah, ac addolwch!
-*[ymgrymu — gorfodol]*
+
 
 فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩
 
@@ -24850,7 +24850,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 فَمَا لَهُمْ لَا يُؤْمِنُونَ
 
 **84:21**  A phan ddarllenir y Qur'an iddynt, nid ymgrymant?
-*[ymgrymu — argymhellir]*
+
 
 وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
 
@@ -25875,7 +25875,7 @@ Os ydych mewn cyflwr o aflendid, glanhewch eich hunain. Os ydych yn glaf, neu ar
 سَنَدْعُ ٱلزَّبَانِيَةَ
 
 **96:19**  Na, paid ag ufuddhau iddo; ond plyga i lawr, a nesä.
-*[ymgrymu — gorfodol]*
+
 
 كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩
 

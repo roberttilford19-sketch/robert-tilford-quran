@@ -2888,7 +2888,7 @@ TURKISH (Türkçe) MANUSCRIPT — REVISION DRAFT, not a final edition. A Turkish
 
 **5:6** Ey iman edenler! Namaza kalktığınızda yüzlerinizi, ellerinizi ve kollarınızı dirseklere kadar yıkayın. Başlarınızı silin ve ayaklarınızı bileklere kadar yıkayın.
 
-*[Bazı okuyuşlar ayakları meshetmeyi sürdürür; burada basılı okuyuş yıkamayı söyler.]*
+
 
 Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz tuvaletten dönerse, ya da kadınlarla temas ederseniz ve su bulamazsanız, temiz toprağa yönelin ve onunla yüzlerinizi ve ellerinizi silin. Allah size güçlük çıkarmak istemez. Ama sizi arındırmak ve size nimetini tamamlamak ister ki şükredesiniz.
 
@@ -4858,7 +4858,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩
 
-*[Secde — tavsiye edilen]*
+
 
 ---
 
@@ -7176,7 +7176,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ ۩
 
-*[Secde — tavsiye edilen]*
+
 
 **13:16** De ki: “Göklerin ve yerin Rabbi kimdir?” De ki: “Allah.” De ki: “O'ndan başka, kendilerine bile yarar ya da zarar gücü olmayan koruyucular mı edindiniz?” De ki: “Kör ve gören eşit midir? Ya da karanlık ve ışık eşit midir? Ya da Allah'a, O'nun yaratması gibi yaratan ortaklar mı atadılar, yaratmalar onlara benzer göründü?” De ki: “Allah her şeyin Yaratıcısıdır ve O Tek ve Karşı Konulmazdır.”
 
@@ -8130,7 +8130,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩
 
-*[Secde — tavsiye edilen]*
+
 
 **16:51** Allah dedi: "İki ilah edinmeyin; O ancak tek bir ilahtır; öyleyse yalnızca Benden korkun."
 
@@ -8892,7 +8892,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًۭا ۩
 
-*[Secde — tavsiye edilen]*
+
 
 **17:110** De ki: "O'na Allah diye seslenin ya da Rahman diye seslenin. Hangisiyle seslenirseniz seslenin, en güzel isimler O'nundur." Namazında ne sesini yükselt ne de tamamen kıs; ikisinin arasında bir yol tut.
 
@@ -9598,7 +9598,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩
 
-*[Secde — tavsiye edilen]*
+
 
 **19:59** Ama onlardan sonra, namazları kaybeden ve isteklerine uyan kuşaklar geldi. Onlar yıkımla karşılaşacaklar.
 
@@ -10856,7 +10856,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌۭ مِّنَ ٱلنَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ ۗ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ ۩
 
-*[Secde — tavsiye edilen]*
+
 
 **22:19** İşte Rableri konusunda çekişen iki hasım. İnkâr edenlere gelince, onlara ateşten giysiler biçilecek ve başlarına kaynar su dökülecek.
 
@@ -11094,7 +11094,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩
 
-*[Secde — tavsiye edilen]*
+
 
 **22:78** Ve Allah için, Ona borçlu olunan çabayla çabalayın. Sizi seçti ve dinde size yük yüklemedi — babanız İbrâhim'in inancı. Sizi daha önce ve bunda Müslümanlar diye adlandıran odur. Öyle ki Elçi üzerinize tanık olsun ve siz insanlar üzerine tanıklar olasınız. Öyleyse düzenli namaz kılın, düzenli zekât verin ve Allah'a sarılın. O, Koruyucunuzdur. Ne mükemmel bir Koruyucu ve ne mükemmel bir Yardımcı.
 
@@ -12104,7 +12104,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًۭا ۩
 
-*[Secde — tavsiye edilen]*
+
 
 **25:61** Şanı çok yücedir; gökte burçlar var eden ve orada bir kandil ve aydınlatıcı bir ay var eden O.
 
@@ -13210,7 +13210,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩
 
-*[Secde — tavsiye edilen]*
+
 
 **27:27** Süleyman dedi: "Doğru mu söyledin, yoksa yalancılardan mısın, bakacağız."
 
@@ -14604,7 +14604,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًۭا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩
 
-*[Secde — zorunlu]*
+
 
 **32:16** Yanları yataklarından uzak durur; korku ve umutla Rablerine yalvarırlar. Onlara verdiğimiz rızıktan harcarlar.
 
@@ -16582,7 +16582,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَأَنَابَ ۩
 
-*[Secde — tavsiye edilen]*
+
 
 **38:25** Biz de onu bu konuda bağışladık. Onun için Bizim katımızda yakınlık ve güzel bir dönüş yeri vardır.
 
@@ -17668,7 +17668,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ ۩
 
-*[Secde — zorunlu]*
+
 
 **41:39** Ve ayetlerindendir: yeri durgun görürsün. Fakat Biz onun üzerine su indirince o kıpırdar ve büyür. Doğrusu onu dirilten, ölüleri de diriltecektir. O, her şeyi yapabilir.
 
@@ -20174,7 +20174,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩
 
-*[Secde — zorunlu]*
+
 
 ---
 
@@ -24784,7 +24784,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
 
-*[Secde — tavsiye edilen]*
+
 
 **84:22** Oysa inkâr edenler yalanlama içindedir.
 
@@ -25810,7 +25810,7 @@ Eğer cünüpseniz arının. Eğer hasta veya yolculukta iseniz, ya da biriniz t
 
 كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩
 
-*[Secde — zorunlu]*
+
 
 ---
 

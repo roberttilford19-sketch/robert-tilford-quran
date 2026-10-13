@@ -2888,7 +2888,7 @@ SWEDISH (SVENSKA) MANUSCRIPT — REVISION DRAFT, not a final edition. A Swedish 
 
 **5:6** O ni som tror! När ni reser er till bön, tvätta era ansikten och era händer och armar upp till armbågarna, och torka era huvuden, och tvätta era fötter upp till anklarna.
 
-*[Vissa läsningar låter gnidningen fortsätta till fötterna; den läsning som trycks här säger: tvätta.]*
+
 
 Om ni är i ett tillstånd av orenhet, rena er. Om ni är sjuka, eller på resa, eller någon av er kommer tillbaka från toaletten, eller ni har haft kontakt med kvinnor, och inte kunde finna vatten, använd då ren jord och torka era ansikten och händer med den. Gud vill inte belasta er, men Han vill rena er, och fullborda Sin välsignelse över er, så att ni må vara tacksamma.
 
@@ -4858,7 +4858,7 @@ Om ni är i ett tillstånd av orenhet, rena er. Om ni är sjuka, eller på resa,
 
 إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩
 
-*[Nedfallande — rekommenderad]*
+
 
 ---
 
@@ -7176,7 +7176,7 @@ Om ni är i ett tillstånd av orenhet, rena er. Om ni är sjuka, eller på resa,
 
 وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ ۩
 
-*[Nedfallande — rekommenderad]*
+
 
 **13:16** Säg: ”Vem är himlarnas och jordens Herre?” Säg: ”Gud.” Säg: ”Har ni tagit beskyddare vid sidan av Honom, som inte har makt att gagna eller skada ens sig själva?” Säg: ”Är den blinde och den seende lika? Eller är mörker och ljus lika? Eller har de tilldelat Gud medhjälpare, som skapade likt Hans skapelse, så att skapelserna verkade lika för dem? Säg: ”Gud är Skaparen av allting, och Han är den Ene, den Oemotståndlige.”
 
@@ -8130,7 +8130,7 @@ Om ni är i ett tillstånd av orenhet, rena er. Om ni är sjuka, eller på resa,
 
 يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩
 
-*[Nedfallande — rekommenderad]*
+
 
 **16:51** Gud har sagt: ”Ta inte två gudar; Han är bara En Gud; så frukta bara Mig.”
 
@@ -8892,7 +8892,7 @@ Om ni är i ett tillstånd av orenhet, rena er. Om ni är sjuka, eller på resa,
 
 وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًۭا ۩
 
-*[Nedfallande — rekommenderad]*
+
 
 **17:110** Säg: ”Kalla Honom Gud, eller kalla Honom den Mest Barmhärtige. Vilket namn ni än använder, Honom tillhör de Bästa Namnen.” Och var varken högljudd i din bön, eller tyst i den, utan följ en kurs däremellan.
 
@@ -9598,7 +9598,7 @@ Om ni är i ett tillstånd av orenhet, rena er. Om ni är sjuka, eller på resa,
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩
 
-*[Nedfallande — rekommenderad]*
+
 
 **19:59** Men de efterträddes av släkten som förlorade bönerna och följde sina begär. De kommer att möta fördärvet.
 
@@ -10856,7 +10856,7 @@ Om ni är i ett tillstånd av orenhet, rena er. Om ni är sjuka, eller på resa,
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌۭ مِّنَ ٱلنَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ ۗ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ ۩
 
-*[Nedfallande — rekommenderad]*
+
 
 **22:19** Här är två motståndare som strider angående sin Herre. Vad gäller dem som inte tror, ska kläder av eld skräddarsys åt dem, och skållhett vatten ska hällas över deras huvuden.
 
@@ -11094,7 +11094,7 @@ Om ni är i ett tillstånd av orenhet, rena er. Om ni är sjuka, eller på resa,
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩
 
-*[Nedfallande — rekommenderad]*
+
 
 **22:78** Och sträva för Gud, med den strävan som tillkommer Honom. Han har utvalt er, och har inte belastat er i religionen — er far Abrahams tro. Det är han som kallade er muslimer förut, och i denna. Så att Sändebudet må vara ett vittne över er, och ni må vara vittnen över människorna. Så be regelbundet, och ge den obligatoriska allmosan regelbundet, och håll fast vid Gud. Han är er Beskyddare. Vilken utmärkt Beskyddare, och vilken utmärkt Hjälpare.
 
@@ -12104,7 +12104,7 @@ Om ni är i ett tillstånd av orenhet, rena er. Om ni är sjuka, eller på resa,
 
 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًۭا ۩
 
-*[Nedfallande — rekommenderad]*
+
 
 **25:61** Välsignad är Han som placerade stjärnkonstellationer på himlen och placerade i den en lampa och en lysande måne.
 
@@ -13210,7 +13210,7 @@ Om ni är i ett tillstånd av orenhet, rena er. Om ni är sjuka, eller på resa,
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩
 
-*[Nedfallande — rekommenderad]*
+
 
 **27:27** Han sade: ”Vi ska se, om du har talat sanning, eller om du är en lögnare.
 
@@ -14604,7 +14604,7 @@ Om ni är i ett tillstånd av orenhet, rena er. Om ni är sjuka, eller på resa,
 
 إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًۭا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩
 
-*[Nedfallande — obligatorisk]*
+
 
 **32:16** Deras sidor undviker deras sängar, medan de ber till sin Herre, av vördnad och hopp; och av Vår försörjning åt dem ger de.
 
@@ -16582,7 +16582,7 @@ Om ni är i ett tillstånd av orenhet, rena er. Om ni är sjuka, eller på resa,
 
 قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَأَنَابَ ۩
 
-*[Nedfallande — rekommenderad]*
+
 
 **38:25** Så Vi förlät honom det. Och för honom finns närhet till Oss, och en god plats för återkomst.
 
@@ -17668,7 +17668,7 @@ Om ni är i ett tillstånd av orenhet, rena er. Om ni är sjuka, eller på resa,
 
 فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ ۩
 
-*[Nedfallande — obligatorisk]*
+
 
 **41:39** Och bland Hans tecken är att du ser landet stilla. Men när Vi sänder ned vatten över det, rör det sig och växer. Sannerligen, Han som återupplivade det ska återuppliva de döda. Han är Förmögen till allt.
 
@@ -20174,7 +20174,7 @@ Om ni är i ett tillstånd av orenhet, rena er. Om ni är sjuka, eller på resa,
 
 فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩
 
-*[Nedfallande — obligatorisk]*
+
 
 ---
 
@@ -24784,7 +24784,7 @@ Om ni är i ett tillstånd av orenhet, rena er. Om ni är sjuka, eller på resa,
 
 وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
 
-*[Nedfallande — rekommenderad]*
+
 
 **84:22** I själva verket är de som förnekar i förnekelse.
 
@@ -25810,7 +25810,7 @@ Om ni är i ett tillstånd av orenhet, rena er. Om ni är sjuka, eller på resa,
 
 كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩
 
-*[Nedfallande — obligatorisk]*
+
 
 ---
 

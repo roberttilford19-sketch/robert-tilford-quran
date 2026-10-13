@@ -2888,7 +2888,7 @@ VIETNAMESE (TIẾNG VIỆT) MANUSCRIPT — REVISION DRAFT, not a final edition. 
 
 **5:6** Hỡi những người tin! Khi các ngươi đứng dậy để cầu nguyện, hãy rửa mặt và tay và cánh tay của các ngươi đến khuỷu tay, và lau đầu của các ngươi, và rửa chân của các ngươi đến mắt cá chân.
 
-*[Một số bản đọc tiếp tục lau đến bàn chân; bản in ở đây nói hãy rửa.]*
+
 
 Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy chính mình. Nếu các ngươi bị bệnh, hoặc đang đi du hành, hoặc một người trong các ngươi trở về từ nhà vệ sinh, hoặc các ngươi đã có tiếp xúc với phụ nữ, và không thể tìm thấy nước, thì hãy dùng một ít đất sạch và lau mặt và tay của các ngươi bằng nó. Allah không dự định làm gánh nặng cho các ngươi, nhưng Ngài dự định thanh tẩy các ngươi, và hoàn thành phúc lành của Ngài trên các ngươi, để các ngươi có thể biết ơn.
 
@@ -4858,7 +4858,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩
 
-*[phục lạy — được khuyến khích]*
+
 
 ---
 
@@ -7176,7 +7176,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ ۩
 
-*[phục lạy — được khuyến khích]*
+
 
 **13:16** Hãy nói: “Ai là Đấng Chúa Tể của các tầng trời và trái đất?” Hãy nói: “Allah.” Hãy nói: “Các ngươi đã lấy, ngoài Ngài ra, những người bảo vệ, những kẻ không có quyền mang lợi hoặc gây hại ngay cả cho chính chúng sao?” Hãy nói: “Kẻ mù và kẻ nhìn thấy có bằng nhau không? Hay bóng tối và ánh sáng có bằng nhau không? Hay chúng đã gán cho Allah những đối tác, những kẻ đã tạo ra giống như sự sáng tạo của Ngài, để các sự sáng tạo trông giống nhau đối với chúng? Hãy nói: “Allah là Đấng Tạo Hóa của mọi thứ, và Ngài là Đấng Duy Nhất, Đấng Không Thể Cưỡng Lại.”
 
@@ -8130,7 +8130,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩
 
-*[phục lạy — được khuyến khích]*
+
 
 **16:51** Allah đã phán: “Đừng lấy hai vị thần; Ngài chỉ là một Allah duy nhất; vậy chỉ kính sợ Ta thôi.”
 
@@ -8892,7 +8892,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًۭا ۩
 
-*[phục lạy — được khuyến khích]*
+
 
 **17:110** Hãy nói: “Hãy gọi Ngài là Allah, hoặc gọi Ngài là Đấng Rất Thương Xót. Bất cứ tên nào các ngươi dùng, những Tên Đẹp Nhất thuộc về Ngài.” Và đừng lớn tiếng trong lễ cầu nguyện của ngươi, cũng đừng im lặng trong đó, mà hãy theo một cách ở giữa.
 
@@ -9598,7 +9598,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩
 
-*[phục lạy — được khuyến khích]*
+
 
 **19:59** Nhưng chúng được kế tục bởi những thế hệ đánh mất các lễ cầu nguyện và đi theo dục vọng của mình. Chúng sẽ gặp sự diệt vong.
 
@@ -10856,7 +10856,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌۭ مِّنَ ٱلنَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ ۗ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ ۩
 
-*[phục lạy — được khuyến khích]*
+
 
 **22:19** Đây là hai kẻ thù địch đang tranh chấp về Đấng Chúa Tể của họ. Còn những kẻ không tin, những bộ y phục bằng lửa sẽ được may cho họ, và nước sôi sẽ được đổ lên đầu họ.
 
@@ -11094,7 +11094,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩
 
-*[phục lạy — được khuyến khích]*
+
 
 **22:78** Và hãy phấn đấu vì Allah, với sự phấn đấu xứng đáng với Ngài. Ngài đã chọn các ngươi, và không chất lên các ngươi gánh nặng trong tôn giáo — đức tin của cha các ngươi là Ibrahim. Chính hắn đã gọi các ngươi là người Muslim trước đây, và trong điều này. Để Sứ Giả có thể là một nhân chứng trên các ngươi, và các ngươi có thể là nhân chứng trên mọi người. Vậy hãy cầu nguyện đều đặn, và bố thí đều đặn, và bám chặt vào Allah. Ngài là Đấng Bảo Hộ của các ngươi. Thật là một Đấng Bảo Hộ tuyệt vời, và thật là một Đấng Giúp Đỡ tuyệt vời.
 
@@ -12104,7 +12104,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًۭا ۩
 
-*[phục lạy — được khuyến khích]*
+
 
 **25:61** Phúc thay Ngài, Đấng đã đặt các chòm sao trên trời, và đặt trong đó một ngọn đèn, và một mặt trăng chiếu sáng.
 
@@ -13210,7 +13210,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩
 
-*[phục lạy — được khuyến khích]*
+
 
 **27:27** Hắn nói: “Chúng ta sẽ xem, liệu ngươi đã nói thật, hay ngươi là một kẻ nói dối.
 
@@ -14604,7 +14604,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًۭا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩
 
-*[phục lạy — bắt buộc]*
+
 
 **32:16** Sườn của chúng tránh giường của chúng, khi chúng cầu nguyện Đấng Chúa Tể của chúng, vì kính sợ và hy vọng; và từ những gì Ta đã cung cấp cho chúng, chúng ban phát.
 
@@ -16582,7 +16582,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَأَنَابَ ۩
 
-*[phục lạy — được khuyến khích]*
+
 
 **38:25** Nên Chúng Ta đã tha thứ cho ông điều đó. Và đối với ông là sự gần gũi với Chúng Ta, và một nơi trở về tốt đẹp.
 
@@ -17668,7 +17668,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ ۩
 
-*[phục lạy — bắt buộc]*
+
 
 **41:39** Và trong các dấu hiệu của Ngài là ngươi thấy đất yên lặng. Nhưng khi Chúng Ta ban xuống nước trên nó, nó chuyển động và lớn lên. Chắc chắn, Ngài Đấng đã hồi sinh nó sẽ hồi sinh người chết. Ngài Có Thể làm mọi việc.
 
@@ -20174,7 +20174,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩
 
-*[phục lạy — bắt buộc]*
+
 
 ---
 
@@ -24784,7 +24784,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
 
-*[phục lạy — được khuyến khích]*
+
 
 **84:22** Quả thật, những kẻ không tin đang ở trong phủ nhận.
 
@@ -25810,7 +25810,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩
 
-*[phục lạy — bắt buộc]*
+
 
 ---
 

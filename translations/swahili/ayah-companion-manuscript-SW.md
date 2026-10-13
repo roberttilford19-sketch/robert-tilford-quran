@@ -2888,7 +2888,7 @@ SWAHILI MANUSCRIPT — REVISION DRAFT, not a final edition. A Swahili rendering 
 
 **5:6** Enyi mlioamini! Mnapoinuka kufanya sala, osheni nyuso zenu na mikono yenu hadi kwenye viwiko, na mpanguse vichwa vyenu, na osheni miguu yenu hadi kwenye vifundo.
 
-*[Baadhi ya usomaji hupeleka kupangusa hadi kwenye miguu; usomaji uliochapishwa hapa unasema kunawa.]*
+
 
 Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja wenu ametoka chooni, au mmewagusa wanawake, na hamkupata maji, basi tumieni udongo safi na mpanguse nyuso zenu na mikono yenu kwao. Allah hataki kuwawekea mzigo, bali anataka kuwatakasa, na kutimiza baraka Yake juu yenu, ili mshukuru.
 
@@ -4858,7 +4858,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩
 
-*[Sujuda — inayopendekezwa]*
+
 
 ---
 
@@ -7176,7 +7176,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ ۩
 
-*[Sujuda — inayopendekezwa]*
+
 
 **13:16** Sema, “Ni nani Mola wa mbingu na ardhi?” Sema, “Allah.” Sema, “Je, mmechukua badala yake walinzi, wasio na uwezo wa kufaa wala kudhuru hata nafsi zao?” Sema, “Je, kipofu na anayeona wako sawa? Au je, giza na mwanga viko sawa? Au wamempa Allah washirika, walioumba kama uumbaji wake, hata uumbaji ukawachanganya kuwa sawa?” Sema, “Allah ndiye Muumba wa kila kitu, na Yeye ni wa pekee, asiyeshindika.”
 
@@ -8130,7 +8130,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩
 
-*[Sujuda — inayopendekezwa]*
+
 
 **16:51** Allah amesema: “Msiweke miungu wawili; Yeye ni Allah Mmoja tu; basi niogopeni Mimi tu.”
 
@@ -8892,7 +8892,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًۭا ۩
 
-*[Sujuda — inayopendekezwa]*
+
 
 **17:110** Sema, “Mwiteni Allah, au mwiteni Mwingi wa rehema. Jina lolote mtakalotumia, majina bora kabisa ni yake Yeye.” Na usiwe na sauti kubwa katika sala yako, wala usiwe kimya kwayo, bali fuata njia iliyo kati.
 
@@ -9598,7 +9598,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩
 
-*[Sujuda — inayopendekezwa]*
+
 
 **19:59** Lakini wakafuatwa na vizazi vilivyopoteza sala na kufuata matamanio yao. Watakutana na maangamizi.
 
@@ -10856,7 +10856,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌۭ مِّنَ ٱلنَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ ۗ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ ۩
 
-*[Sujuda — inayopendekezwa]*
+
 
 **22:19** Hawa ni wapinzani wawili wanaogombana kuhusu Mola wao. Ama wale waliokufuru, watashonewa nguo za moto, na maji yanayochemka yatamiminwa juu ya vichwa vyao.
 
@@ -11094,7 +11094,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩
 
-*[Sujuda — inayopendekezwa]*
+
 
 **22:78** Na mpiganie Allah, kwa mapigano yanayomstahiki Yeye. Amewachagua ninyi, na hajawawekeeni mzigo katika dini, imani ya baba yenu Ibrahimu. Yeye ndiye aliyewaita Waislamu kabla, na katika hili. Ili Mjumbe awe shahidi juu yenu, na ninyi muwe mashahidi juu ya watu. Basi simamisheni sala, na toeni zaka, na shikamaneni na Allah. Yeye ni Mlinzi wenu. Mbora mno ni Mlinzi huyo, na mbora mno ni Msaidizi huyo.
 
@@ -12104,7 +12104,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًۭا ۩
 
-*[Sujuda — inayopendekezwa]*
+
 
 **25:61** Aliyebarikiwa ni yule aliyeweka nyota angani, na akaweka ndani yake taa, na mwezi unaongaa.
 
@@ -13210,7 +13210,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩
 
-*[Sujuda — inayopendekezwa]*
+
 
 **27:27** Akasema: Tutaona, kama umesema kweli, au kama wewe ni mwongo.
 
@@ -14604,7 +14604,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًۭا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩
 
-*[Sujuda — ya lazima]*
+
 
 **32:16** Mbavu zao hujiepusha na vitanda vyao, wakimwomba Mola wao kwa kicho na tumaini; na katika riziki Tuliyowapa, wanatoa.
 
@@ -16582,7 +16582,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَأَنَابَ ۩
 
-*[Sujuda — inayopendekezwa]*
+
 
 **38:25** Basi tulimsamehe kwa hilo. Na kwake kuna ukaribu kwetu, na mahali pazuri pa kurejea.
 
@@ -17668,7 +17668,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ ۩
 
-*[Sujuda — ya lazima]*
+
 
 **41:39** Na miongoni mwa ishara Zake ni kwamba unaona ardhi imetulia. Lakini Tunapoteremsha maji juu yake, hutikisika na kukua. Hakika, Yeye aliyeihuisha atawahuisha wafu. Yeye ana uwezo juu ya vitu vyote.
 
@@ -20174,7 +20174,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩
 
-*[Sujuda — ya lazima]*
+
 
 ---
 
@@ -24784,7 +24784,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
 
-*[Sujuda — inayopendekezwa]*
+
 
 **84:22** Bali wale waliokufuru wanakanusha.
 
@@ -25810,7 +25810,7 @@ Mkiwa katika hali ya uchafu, jitakaseni. Mkiwa wagonjwa, au safarini, au mmoja w
 
 كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩
 
-*[Sujuda — ya lazima]*
+
 
 ---
 
