@@ -2888,7 +2888,7 @@ JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javan
 
 **5:6** Dhuh para priyantun ingkang pitados! Nalika panjenengan jumeneng saperlu salat, basuha pasuryan panjenengan lan tangan panjenengan saha lengen ngantos sikut, lan usapa sirah panjenengan, lan basuha suku panjenengan ngantos tungkak.
 
-*[Sawetara wacanan nerusake ngusap nganti sikil; wacanan kang dicetak ing kene ngandharake supaya dikumbah.]*
+
 
 Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Menawi panjenengan gerah, utawi saweg lelungan, utawi salah satunggal saking panjenengan nembé wangsul saking jamban, utawi panjenengan sampun sesambetan kaliyan wanita, lan panjenengan mboten saged manggih toya, pramila ginakna lemah ingkang resik lan usapa pasuryan panjenengan lan tangan panjenengan mawi lemah punika. Gusti Allah mboten ngersakaken mbebani panjenengan, ananging Panjenenganipun ngersakaken nyucekaken panjenengan, lan ngrampungaken kanugrahanipun dhumateng panjenengan, supados panjenengan saged ngaturaken panuwun.
 
@@ -4858,7 +4858,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩
 
-*[Sujud — disaranake]*
+
 
 ---
 
@@ -7176,7 +7176,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ ۩
 
-*[Sujud — disaranake]*
+
 
 **13:16** Aturaken: "Sinten Pangeraning langit lan bumi?" Aturaken: "Gusti Allah." Aturaken: "Punapa Panjenengan sampun mendhet pangayom kajawi Panjenenganipun, ingkang boten gadhah daya kagem untung utawi cilaka dhateng piyambakipun piyambak?" Aturaken: "Punapa tiyang buta lan tiyang ingkang ningali punika sami? Utawi punapa pepeteng lan pepadhang punika sami? Utawi punapa piyambakipun sampun nemtokaken sekutu kagem Gusti Allah, ingkang nitahaken kados titahipun, saéngga titah-titah punika katingal sami dhateng piyambakipun? Aturaken: "Gusti Allah punika ingkang Nitahaken sedaya, lan Panjenenganipun punika Tunggal, ingkang Maha Perkasa."
 
@@ -8130,7 +8130,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩
 
-*[Sujud — disaranake]*
+
 
 **16:51** Gusti Allah sampun ngendika: "Sampun mendhet kalih gusti; Panjenenganipun namung setunggal Gusti Allah; dados ajriha namung dhateng Kula."
 
@@ -8892,7 +8892,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًۭا ۩
 
-*[Sujud — disaranake]*
+
 
 **17:110** Maturma, “Timbalana Panjenenganipun Gusti Allah, utawi timbalana Panjenenganipun Kang Mahaasih. Asma pundi kemawon ingkang panjenengan angge, kangge Panjenenganipun kagungan Asma-asma Ingkang Paling Sae.” Lan sampun ngantos seru ing salat panjenengan, utawi meneng ing salebetipun, nanging turutana margi ing antawisipun kekalihipun.
 
@@ -9598,7 +9598,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩
 
-*[Sujud — disaranake]*
+
 
 **19:59** Nanging piyambakipun dipun gantos dening turunan-turunan ingkang nglirwakaken salat lan ndherek pepinginanipun piyambak. Piyambakipun badhe mrangguli karusakan.
 
@@ -10856,7 +10856,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌۭ مِّنَ ٱلنَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ ۗ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ ۩
 
-*[Sujud — disaranake]*
+
 
 **22:19** Menika kalih mengsah ingkang padudon bab Pangeranipun. Minangka tiyang-tiyang ingkang mboten pitados, rasukan geni badhe kadamelaken tumrap piyambak-piyambakipun, lan toya umob badhe kasuntakaken wonten ing sanginggilipun sirahipun.
 
@@ -11094,7 +11094,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩
 
-*[Sujud — disaranake]*
+
 
 **22:78** Lan ngupayaa kangge Gusti Allah, kanthi upayanipun ingkang pantes tumrap Panjenenganipun. Panjenenganipun sampun milih panjenengan, lan mboten ndadosaken panjenengan kabebanan wonten ing agama — kapitadosanipun bapa panjenengan Ibrahim. Piyambakipun ingkang namani panjenengan Muslim ing rumiyin, lan wonten ing menika. Supados Utusan saged dados saksi tumrap panjenengan, lan panjenengan saged dados saksi tumrap tiyang-tiyang. Pramila mangga salat kanthi ajeg, lan paringana amal kanthi ajeg, lan rumaketa dhateng Gusti Allah. Panjenenganipun Pelindhung panjenengan. Sae piyambak Pelindhung, lan sae piyambak ingkang Nulungi.
 
@@ -12104,7 +12104,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًۭا ۩
 
-*[Sujud — disaranake]*
+
 
 **25:61** Maha Berkah Panjenenganipun ingkang manggonaken rasi-rasi lintang wonten ing langit, lan manggonaken wonten ing ngriku lampu, lan rembulan ingkang madhangi.
 
@@ -13210,7 +13210,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩
 
-*[Sujud — disaranake]*
+
 
 **27:27** Piyambakipun matur, “Kawula badhe ningali, punapa panjenengan matur leres, utawi punapa panjenengan goroh.
 
@@ -14604,7 +14604,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًۭا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩
 
-*[Sujud — wajib]*
+
 
 **32:16** Sisih awakipun ngedohi papan tilemipun, nalika piyambakipun ndedonga dhateng Pangeranipun, kanthi ajrih lan pangajeng-ajeng; lan saking rejeki Kula dhateng piyambakipun, piyambakipun sami maringi.
 
@@ -16582,7 +16582,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَأَنَابَ ۩
 
-*[Sujud — disaranake]*
+
 
 **38:25** Pramila Kita ngapunten piyambakipun punika. Lan kangge piyambakipun wonten celak dhumateng Kita, lan papan wangsul ingkang sae.
 
@@ -17668,7 +17668,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ ۩
 
-*[Sujud — wajib]*
+
 
 **41:39** Lan antawisipun tandha-tandha Panjenenganipun punika panjenengan ningali tanah ingkang meneng. Nanging nalika Ingsun ngandhapaken toya ing nginggilipun, punika obah lan tuwuh. Saestu, Panjenenganipun Ingkang nggesangaken punika badhe nggesangaken tiyang-tiyang ingkang seda. Panjenenganipun Saged nindakaken sadaya barang.
 
@@ -20174,7 +20174,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩
 
-*[Sujud — wajib]*
+
 
 ---
 
@@ -24784,7 +24784,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
 
-*[Sujud — disaranake]*
+
 
 **84:22** Sakleresipun, tiyang-tiyang ingkang boten iman saweg nolak.
 
@@ -25810,7 +25810,7 @@ Menawi panjenengan wonten ing kahanan junub, sesucija panjenengan piyambak. Mena
 
 كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩
 
-*[Sujud — wajib]*
+
 
 ---
 

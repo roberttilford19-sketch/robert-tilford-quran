@@ -2887,7 +2887,7 @@ PICARD MANUSCRIPT — REVISION DRAFT, not a final edition. A Picard rendering of
 
 **5:6** Ô vos qui croyez ! Quant vos vos levez pour prier, lavez vos visages et vos mains et vos bras jusqu'aus coudes, et essuyez vos têtes, et lavez vos pieds jusqu'aus chevilles.
 
-*[Quéques légeons continoète èl frottage jusqu'à ches piés; èl légeon imprimée ichi dit laver.]*
+
 
 Si vos êtes in état d'impureté, purifiez-vos. Si vos êtes malades, ou in voyage, ou que l'un d' vos revient dés toilettes, ou que vos avez touché dés femmes, et que vos nin pouvez nin trouver d'eau, alors prindez d' èl terre propre et essuyez vos visages et vos mains aveuc. Diu nin veut nin vos charger, mais Il veut vos purifier, et compléter Sa bénédiction sur vos, pour que vos soyiez reconnaissants.
 
@@ -4857,7 +4857,7 @@ Si vos êtes in état d'impureté, purifiez-vos. Si vos êtes malades, ou in voy
 
 إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩
 
-*[prosternation — conseillée]*
+
 
 ---
 
@@ -7175,7 +7175,7 @@ Si vos êtes in état d'impureté, purifiez-vos. Si vos êtes malades, ou in voy
 
 وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ ۩
 
-*[prosternation — conseillée]*
+
 
 **13:16** Dis : « Qui est èl Signeur dé cieux pi d'èl tière ? » Dis : « Diu. » Dis : « Avez-vos pris à part Li dé protecteurs, qui n'ont nin èl pouvoir ed profiter ou ed nuire meume à eus-meumes ? » Dis : « L'aveule pi celui qui voit sont-is égaux ? Ou lé ténèbres pi èle lumière sont-èles égales ? Ou ont-is assigné à Diu dé associés, qui ont créé comme S' création, ed sorte quo lé créations leu ont paru semblables ? Dis : « Diu est èl Créateur ed toutes coses, pi Il est l'Un, l'Irrésistible. »
 
@@ -8129,7 +8129,7 @@ Si vos êtes in état d'impureté, purifiez-vos. Si vos êtes malades, ou in voy
 
 يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩
 
-*[prosternation — conseillée]*
+
 
 **16:51** Diu o dit : « Nin prenez nin deus dius ; Il est seulemint un seul Diu ; adonc craignez-Me, Me seul. »
 
@@ -8891,7 +8891,7 @@ Si vos êtes in état d'impureté, purifiez-vos. Si vos êtes malades, ou in voy
 
 وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًۭا ۩
 
-*[prosternation — conseillée]*
+
 
 **17:110** Dis : « Appelez-Li Diu, ou appelez-Li èl Pus Miséricordieux. Quéque nom qué vos utilisiez, à Li appartiennent chés Pus Beaux Noms. » É nin soés ni fort dins t' prière, ni silencieux in ale, mais suis ène voéye intre chés deus.
 
@@ -9597,7 +9597,7 @@ Si vos êtes in état d'impureté, purifiez-vos. Si vos êtes malades, ou in voy
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩
 
-*[prosternation — conseillée]*
+
 
 **19:59** Mais is ont été suivis par d'chés généracions qui ont perdu lés prières é qui ont suivi leurs désirs. Is rencontreront èle perdicion.
 
@@ -10855,7 +10855,7 @@ Si vos êtes in état d'impureté, purifiez-vos. Si vos êtes malades, ou in voy
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌۭ مِّنَ ٱلنَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ ۗ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ ۩
 
-*[prosternation — conseillée]*
+
 
 **22:19** V'la deus adversaires qui s' disputent au sujet d' leur Signeur. Quant à cheus qui nin croéy'tè nin, d'chés vêt'mints d' feu s'ront taillés pour eusse, é d'èle ieau bouillante s'ro versée sur leurs têtes.
 
@@ -11093,7 +11093,7 @@ Si vos êtes in état d'impureté, purifiez-vos. Si vos êtes malades, ou in voy
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩
 
-*[prosternation — conseillée]*
+
 
 **22:78** É luttez pour Diu, avéc èle lutte qui Li est due. Il vos o choisis, é Il nin vos o nin chargés dins èle religion — èle foi d' vos père Abraham. Ch'est li qui vos o nommés Musulmans avant, é dins cho. Pour qué èl Messager soét un témoin sur vos, é qué vos soéyez d'chés témoins sur chés gins. Adonc priez régulièremint, é donnez èle charité régulièremint, é attachez-vos à Diu. Il est vos Protecteur. Queul excellent Protecteur, é queul excellent Aide.
 
@@ -12103,7 +12103,7 @@ Si vos êtes in état d'impureté, purifiez-vos. Si vos êtes malades, ou in voy
 
 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًۭا ۩
 
-*[prosternation — conseillée]*
+
 
 **25:61** Béni est Celui qui a placé dé constellations é èl ciel, et y a placé unne lampe, et unne lune qui éclaire.
 
@@ -13209,7 +13209,7 @@ Si vos êtes in état d'impureté, purifiez-vos. Si vos êtes malades, ou in voy
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩
 
-*[prosternation — conseillée]*
+
 
 **27:27** Il a dit : « Nos allons vir, si tu as dit èle vérité, ou si tu es un minteux.
 
@@ -14603,7 +14603,7 @@ Si vos êtes in état d'impureté, purifiez-vos. Si vos êtes malades, ou in voy
 
 إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًۭا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩
 
-*[prosternation — obligatoire]*
+
 
 **32:16** Leurs côtés évitent leurs lits, tout in priant leur Signeur, par respect pi par espoir ; pi ed ch'que Nos leur avons donné, is donnent.
 
@@ -16581,7 +16581,7 @@ Si vos êtes in état d'impureté, purifiez-vos. Si vos êtes malades, ou in voy
 
 قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَأَنَابَ ۩
 
-*[prosternation — conseillée]*
+
 
 **38:25** Adonc Nos li avoéins pardonné cho. É pour li i y o èle proximité avéc Nos, é ène bonne place d' r'tour.
 
@@ -17667,7 +17667,7 @@ Si vos êtes in état d'impureté, purifiez-vos. Si vos êtes malades, ou in voy
 
 فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ ۩
 
-*[prosternation — obligatoire]*
+
 
 **41:39** Et parmi ses signes, ch'est que tu vois èle tière immobile. Mais quand nos foaisons descinde èl iau sur ale, ale bouge et pousse. Vraimint, cheui qui l'a r'vivifiée r'vivifiera lé morts. Il peut foaire toute cose.
 
@@ -20173,7 +20173,7 @@ Si vos êtes in état d'impureté, purifiez-vos. Si vos êtes malades, ou in voy
 
 فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩
 
-*[prosternation — obligatoire]*
+
 
 ---
 
@@ -24783,7 +24783,7 @@ Si vos êtes in état d'impureté, purifiez-vos. Si vos êtes malades, ou in voy
 
 وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
 
-*[prosternation — conseillée]*
+
 
 **84:22** In fait, cheus qui nin croient nin sont dins èl déni.
 
@@ -25809,7 +25809,7 @@ Si vos êtes in état d'impureté, purifiez-vos. Si vos êtes malades, ou in voy
 
 كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩
 
-*[prosternation — obligatoire]*
+
 
 ---
 

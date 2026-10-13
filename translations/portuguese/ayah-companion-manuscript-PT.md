@@ -2885,7 +2885,7 @@ Uma tradução contemporânea do Alcorão em português brasileiro, edição do 
 
 **5:6** Ó vocês que creem! Quando vocês se levantarem para orar, lavem os rostos e as mãos e os braços até os cotovelos, e passem as mãos nas cabeças, e lavem os pés até os tornozelos.
 
-*[Algumas leituras continuam a passar as mãos até os pés; a leitura impressa aqui diz lavar.]*
+
 
 Se vocês estiverem em estado de impureza, purifiquem-se. Se estiverem doentes, ou viajando, ou um de vocês voltar do banheiro, ou vocês tiveram contato com mulheres, e não puderam encontrar água, então usem um pouco de terra limpa e passem nos rostos e nas mãos de vocês com ela. Deus não quer sobrecarregar vocês, mas Ele quer purificar vocês, e completar a Sua bênção sobre vocês, para que vocês sejam gratos.
 
@@ -4855,7 +4855,7 @@ Se vocês estiverem em estado de impureza, purifiquem-se. Se estiverem doentes, 
 
 إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩
 
-*[prostração — recomendada]*
+
 
 ---
 
@@ -7173,7 +7173,7 @@ Se vocês estiverem em estado de impureza, purifiquem-se. Se estiverem doentes, 
 
 وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ ۩
 
-*[prostração — recomendada]*
+
 
 **13:16** Diga: “Quem é o Senhor dos céus e da terra?” Diga: “Deus.” Diga: “Vocês tomaram além dele protetores, que não têm poder para lucrar ou prejudicar nem a si mesmos?” Diga: “O cego e o que vê são iguais? Ou a escuridão e a luz são iguais? Ou eles atribuíram a Deus associados, que criaram como a criação dele, de modo que as criações pareceram iguais para eles? Diga: “Deus é o Criador de todas as coisas, e ele é o Único, o Irresistível.”
 
@@ -8127,7 +8127,7 @@ Se vocês estiverem em estado de impureza, purifiquem-se. Se estiverem doentes, 
 
 يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩
 
-*[prostração — recomendada]*
+
 
 **16:51** Deus disse: “Não tomem dois deuses; ele é só Um Deus; então temam só a mim.”
 
@@ -8889,7 +8889,7 @@ Se vocês estiverem em estado de impureza, purifiquem-se. Se estiverem doentes, 
 
 وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًۭا ۩
 
-*[prostração — recomendada]*
+
 
 **17:110** Diga: “Chame-o de Deus, ou chame-o de o Mais Misericordioso. Qualquer nome que você use, a ele pertencem os Melhores Nomes.” E não seja nem alto na sua oração, nem silencioso nela, mas siga um caminho no meio.
 
@@ -9595,7 +9595,7 @@ Se vocês estiverem em estado de impureza, purifiquem-se. Se estiverem doentes, 
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩
 
-*[prostração — recomendada]*
+
 
 **19:59** Mas eles foram sucedidos por gerações que perderam as orações e seguiram os seus apetites. Eles encontrarão perdição.
 
@@ -10853,7 +10853,7 @@ Se vocês estiverem em estado de impureza, purifiquem-se. Se estiverem doentes, 
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌۭ مِّنَ ٱلنَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ ۗ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ ۩
 
-*[prostração — recomendada]*
+
 
 **22:19** Aqui estão dois adversários brigando sobre seu Senhor. Quanto aos que não creem, roupas de fogo serão cortadas para eles, e água fervendo será derramada sobre suas cabeças.
 
@@ -11091,7 +11091,7 @@ Se vocês estiverem em estado de impureza, purifiquem-se. Se estiverem doentes, 
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩
 
-*[prostração — recomendada]*
+
 
 **22:78** E lutem por Deus, com a luta devida a Ele. Ele escolheu vocês, e não colocou peso sobre vocês na religião — a fé do seu pai Abraão. Foi ele quem chamou vocês de muçulmanos antes, e também aqui. Para que o Mensageiro seja testemunha sobre vocês, e vocês sejam testemunhas sobre as pessoas. Então façam a oração regularmente, e deem a caridade obrigatória, e apeguem-se a Deus. Ele é o Protetor de vocês. Que excelente Protetor, e que excelente Ajudador.
 
@@ -12101,7 +12101,7 @@ Se vocês estiverem em estado de impureza, purifiquem-se. Se estiverem doentes, 
 
 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًۭا ۩
 
-*[prostração — recomendada]*
+
 
 **25:61** Abençoado é Aquele que colocou constelações no céu, e colocou nele uma lâmpada, e uma lua que ilumina.
 
@@ -13207,7 +13207,7 @@ Se vocês estiverem em estado de impureza, purifiquem-se. Se estiverem doentes, 
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩
 
-*[prostração — recomendada]*
+
 
 **27:27** Ele disse: “Veremos se você falou a verdade, ou se você é um mentiroso.
 
@@ -14601,7 +14601,7 @@ Se vocês estiverem em estado de impureza, purifiquem-se. Se estiverem doentes, 
 
 إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًۭا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩
 
-*[prostração — obrigatória]*
+
 
 **32:16** Seus lados evitam suas camas, enquanto oram ao seu Senhor, por reverência e esperança; e, das Nossas provisões para eles, eles dão.
 
@@ -16579,7 +16579,7 @@ Se vocês estiverem em estado de impureza, purifiquem-se. Se estiverem doentes, 
 
 قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَأَنَابَ ۩
 
-*[prostração — recomendada]*
+
 
 **38:25** Então Nós perdoamos isso a ele. E para ele há proximidade de Nós, e um bom lugar de retorno.
 
@@ -17665,7 +17665,7 @@ Se vocês estiverem em estado de impureza, purifiquem-se. Se estiverem doentes, 
 
 فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ ۩
 
-*[prostração — obrigatória]*
+
 
 **41:39** E entre os Seus sinais está que você vê a terra parada. Mas quando Nós fazemos descer água sobre ela, ela se move e cresce. Certamente, Aquele que a reviveu reviverá os mortos. Ele é Capaz de fazer todas as coisas.
 
@@ -20171,7 +20171,7 @@ Se vocês estiverem em estado de impureza, purifiquem-se. Se estiverem doentes, 
 
 فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩
 
-*[prostração — obrigatória]*
+
 
 ---
 
@@ -24781,7 +24781,7 @@ Se vocês estiverem em estado de impureza, purifiquem-se. Se estiverem doentes, 
 
 وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
 
-*[prostração — recomendada]*
+
 
 **84:22** Na verdade, os que não creem estão em negação.
 
@@ -25807,7 +25807,7 @@ Se vocês estiverem em estado de impureza, purifiquem-se. Se estiverem doentes, 
 
 كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩
 
-*[prostração — obrigatória]*
+
 
 ---
 

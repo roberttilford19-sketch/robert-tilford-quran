@@ -2885,7 +2885,7 @@ Una traduzione contemporanea del Corano in italiano, edizione del manoscritto in
 
 **5:6** O voi che credete! Quando vi alzate per pregare, lavate i vostri volti e le vostre mani e braccia fino ai gomiti, e strofinate le vostre teste, e lavate i vostri piedi fino alle caviglie.
 
-*[Alcune letture estendono lo strofinamento fino ai piedi; la lettura stampata qui dice lavare.]*
+
 
 Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o uno di voi ritorna dal gabinetto, o avete avuto contatto con donne, e non potete trovare acqua, allora usate un po' di terra pulita e strofinateci i vostri volti e le mani. Dio non intende gravarvi, ma intende purificarvi, e completare la Sua benedizione su di voi, affinché siate grati.
 
@@ -4855,7 +4855,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩
 
-*[prostrazione — raccomandata]*
+
 
 ---
 
@@ -7173,7 +7173,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ ۩
 
-*[prostrazione — raccomandata]*
+
 
 **13:16** Di': “Chi è il Signore dei cieli e della terra?” Di': “Dio.” Di': “Avete preso oltre a Lui protettori, che non hanno potere di giovare o nuocere nemmeno a se stessi?” Di': “Il cieco e chi vede sono uguali? O le tenebre e la luce sono uguali? O hanno assegnato a Dio degli associati, che hanno creato come la Sua creazione, così che le creazioni sembravano loro simili? Di': “Dio è il Creatore di ogni cosa, ed è l'Uno, l'Irresistibile.”
 
@@ -8127,7 +8127,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩
 
-*[prostrazione — raccomandata]*
+
 
 **16:51** Dio ha detto: “Non prendete due dèi; Lui è solo Un Dio; quindi temete solo Me.”
 
@@ -8889,7 +8889,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًۭا ۩
 
-*[prostrazione — raccomandata]*
+
 
 **17:110** Di': «Chiamatelo Dio, o chiamatelo il più Misericordioso. Qualunque nome usiate, a Lui appartengono i Nomi più Belli.» E non essere né troppo forte nella tua preghiera, né silenzioso in essa, ma segui una via di mezzo.
 
@@ -9595,7 +9595,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩
 
-*[prostrazione — raccomandata]*
+
 
 **19:59** Ma furono seguiti da generazioni che persero le preghiere e seguirono i loro appetiti. Incontreranno la perdizione.
 
@@ -10853,7 +10853,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌۭ مِّنَ ٱلنَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ ۗ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ ۩
 
-*[prostrazione — raccomandata]*
+
 
 **22:19** Ecco due avversari che litigano riguardo al loro Signore. Quanto a quelli che non credono, abiti di fuoco saranno tagliati su misura per loro, e acqua scottante sarà versata sulle loro teste.
 
@@ -11091,7 +11091,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩
 
-*[prostrazione — raccomandata]*
+
 
 **22:78** E sforzatevi per Dio, con lo sforzo dovuto a Lui. Egli vi ha scelto, e non vi ha gravato nella religione — la fede di vostro padre Abramo. È lui che vi ha chiamato Musulmani prima, e in questo. Perché il Messaggero possa essere testimone su di voi, e voi possiate essere testimoni sulla gente. Preghiate quindi regolarmente, e date l'elemosina regolare, e aggrapparvi a Dio. Egli è il vostro Protettore. Che eccellente Protettore, e che eccellente Aiutante.
 
@@ -12101,7 +12101,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًۭا ۩
 
-*[prostrazione — raccomandata]*
+
 
 **25:61** Benedetto è Colui che ha posto costellazioni nel cielo, e ha posto in esso una lampada, e una luna illuminante.
 
@@ -13207,7 +13207,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩
 
-*[prostrazione — raccomandata]*
+
 
 **27:27** Egli disse: «Vedremo se hai detto la verità, o se sei un bugiardo.
 
@@ -14601,7 +14601,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًۭا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩
 
-*[prostrazione — obbligatoria]*
+
 
 **32:16** I loro fianchi evitano i loro letti, mentre invocano il loro Signore, per riverenza e speranza; e dalle Nostre provviste per loro, danno.
 
@@ -16579,7 +16579,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَأَنَابَ ۩
 
-*[prostrazione — raccomandata]*
+
 
 **38:25** Così lo abbiamo perdonato per questo. E per lui c'è vicinanza a Noi e un buon luogo di ritorno.
 
@@ -17665,7 +17665,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ ۩
 
-*[prostrazione — obbligatoria]*
+
 
 **41:39** E tra i Suoi Segni c’è che vedi la terra immobile. Ma quando facciamo scendere acqua su di essa, si muove e cresce. In verità, Colui che l’ha fatta rivivere farà rivivere i morti. Lui può fare ogni cosa.
 
@@ -20171,7 +20171,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩
 
-*[prostrazione — obbligatoria]*
+
 
 ---
 
@@ -24781,7 +24781,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
 
-*[prostrazione — raccomandata]*
+
 
 **84:22** In realtà, coloro che non credono sono nella negazione.
 
@@ -25807,7 +25807,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩
 
-*[prostrazione — obbligatoria]*
+
 
 ---
 
