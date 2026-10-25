@@ -1,3 +1,18 @@
+GOVERNING-GENERATION RULING — 2026-10-25
+Ruled by Robert Tilford on 2026-10-25: the LIVE SHELF governs. The live-shelf file below is the governing
+generation for this folder in this repository (roberttilford19-sketch/robert-tilford-quran, main at
+30eb7537296b0b167d6c46063f21ec92cb03f22d, fresh fetch verified against the remote on 2026-10-25).
+
+GOVERNING FILE (live shelf): ayah-companion-manuscript-ALS.md | 2256041 bytes | SHA-256 daec5143f000eb2a6aad56ce04996abc4f41a03d6199c4514b2762ff9f776deb
+
+This header SUPERSEDES every conflicting byte-size or SHA-256 statement for the governing file in the older
+MANIFEST text below. The older text is retained unchanged as the prior record: the prior MANIFEST generation
+is superseded, not erased. No manuscript text was changed by this correction.
+
+History note: the three-way reconciliation of 2026-10-24 found the prior MANIFEST generation for this language byte-identical to the archive.org deposit copy, while the live shelf file above is a byte-distinct, structurally exact generation (114 surahs / 6,236 verses in exact sequence). The archive.org deposit is unchanged by this ruling; for this repository's record, the live shelf file governs.
+
+--- ORIGINAL MANIFEST TEXT BELOW (pre-ruling record) ---
+
 Item: ayah-companion-tilford-alemannic-manuscript
 Title: Ayah Companion — ALEMANIC (ALEMANNISCH) MANUSCRIPT (Tilford Quran)
 Creator: Robert Tilford

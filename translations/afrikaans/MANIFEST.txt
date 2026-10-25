@@ -1,3 +1,18 @@
+GOVERNING-GENERATION RULING — 2026-10-25
+Ruled by Robert Tilford on 2026-10-25: the LIVE SHELF governs. The live-shelf file below is the governing
+generation for this folder in this repository (roberttilford19-sketch/robert-tilford-quran, main at
+30eb7537296b0b167d6c46063f21ec92cb03f22d, fresh fetch verified against the remote on 2026-10-25).
+
+GOVERNING FILE (live shelf): ayah-companion-manuscript-AF.md | 2276347 bytes | SHA-256 ef092b473bd119961ae9818f0869677f8856392a6d313f89ff92dcf081511fd9
+
+This header SUPERSEDES every conflicting byte-size or SHA-256 statement for the governing file in the older
+MANIFEST text below. The older text is retained unchanged as the prior record: the prior MANIFEST generation
+is superseded, not erased. No manuscript text was changed by this correction.
+
+History note — Afrikaans: the prior MANIFEST copy (2,276,894 bytes, SHA-256 db5e67a2d23069f8b5bca0f8969068ff9ec0aed44e213a3a2c633eb2dfb39e68) was this shelf file's own pre-sajda-patch self. It survives byte-identical in the seven places found by the fleet audit (MEASUREMENT-COMPLETION-2026-10-25.md): the publish-board drop; the drive-pack folder and both pack archives counted there; the fleet-sentinel pre-patch lane copy; and the git histories of both local robert-tilford-quran clones, as the file's earlier self from the initial add, superseded in the sajda patch lane. The archive.org deposit holds the same bytes as the governing live shelf file above.
+
+--- ORIGINAL MANIFEST TEXT BELOW (pre-ruling record) ---
+
 AYAH COMPANION — AFRIKAANS (AF) MANUSCRIPT — REVISION DRAFT
 ========================================================
 Item: Ayah Companion — Afrikaans Manuscript (Revision Draft)

@@ -1,3 +1,18 @@
+GOVERNING-GENERATION RULING — 2026-10-25
+Ruled by Robert Tilford on 2026-10-25: the LIVE SHELF governs. The live-shelf file below is the governing
+generation for this folder in this repository (roberttilford19-sketch/robert-tilford-quran, main at
+30eb7537296b0b167d6c46063f21ec92cb03f22d, fresh fetch verified against the remote on 2026-10-25).
+
+GOVERNING FILE (live shelf): Quran_Recital_Tilford_UKRAINIAN_DRAFT_FULL.txt | 1270485 bytes | SHA-256 46b3df3eac7c81923a370812c2828f2db3add566df83920e6894ed0a1a57afe9
+
+This header SUPERSEDES every conflicting byte-size or SHA-256 statement for the governing file in the older
+MANIFEST text below. The older text is retained unchanged as the prior record: the prior MANIFEST generation
+is superseded, not erased. No manuscript text was changed by this correction.
+
+History note — Ukrainian: no supersession was needed on the numbers. This folder's MANIFEST statement, the live shelf TXT above, and the archive.org deposit TXT already agree three-way — the fleet's one complete agreement (1,270,485 bytes, SHA-256 46b3df3eac7c81923a370812c2828f2db3add566df83920e6894ed0a1a57afe9). This header is added so the ruling is recorded in this folder too.
+
+--- ORIGINAL MANIFEST TEXT BELOW (pre-ruling record) ---
+
 MANIFEST — Tilford Quran Recital · Ukrainian DRAFT
 Date: 2026-10-02
 

@@ -1,3 +1,18 @@
+GOVERNING-GENERATION RULING — 2026-10-25
+Ruled by Robert Tilford on 2026-10-25: the LIVE SHELF governs. The live-shelf file below is the governing
+generation for this folder in this repository (roberttilford19-sketch/robert-tilford-quran, main at
+30eb7537296b0b167d6c46063f21ec92cb03f22d, fresh fetch verified against the remote on 2026-10-25).
+
+GOVERNING FILE (live shelf): ayah-companion-manuscript-ZH.md | 2135785 bytes | SHA-256 50116db0f1a735917c1a91c0cf927006fd83784386610e8a1e3bf9a1216c2382
+
+This header SUPERSEDES every conflicting byte-size or SHA-256 statement for the governing file in the older
+MANIFEST text below. The older text is retained unchanged as the prior record: the prior MANIFEST generation
+is superseded, not erased. No manuscript text was changed by this correction.
+
+History note — Chinese: this folder's paperwork stated two earlier generations, and both survive locally. (1) The corrected-edition-note copy of 2026-10-06 (2,133,557 bytes, SHA-256 2030fe976bb48f253968a4d4f3cbafe9d269b4a79137695cb8eee719293fd57b) was the shelf file's own earlier self in the initial add, superseded by the Chinese Revision of 2026-10-12 (Patch Set 1); it survives byte-identical in the six places enumerated in MEASUREMENT-COMPLETION-2026-10-25.md (the drive-pack folder and both pack archives, the Drive-audit haul extraction, and the git histories of both local clones). (2) The files-table copy below (2,133,557 bytes, SHA-256 be7cbd1a2064029f7fd0ec3f88ee8467d072755b257e653ab136a4e215ae478d) survives in exactly two places, both the same Chinese-lane work file: ~/workspace/ayah-chinese/work/ayah-companion-manuscript-ZH-PREFIX-TITLES-2026-10-06.md and its blob in the workspace repository; it apparently never was the shelf file. The two local copies differ by 27 bytes across three lines — Surah 14's name, the transliteration of 'Ibrahim' against 'Abraham.' The governing shelf file above descends from the 2026-10-12 Chinese Revision. The archive.org deposit holds the same bytes as the governing shelf file.
+
+--- ORIGINAL MANIFEST TEXT BELOW (pre-ruling record) ---
+
 MANIFEST — Ayah Companion · CHINESE MANUSCRIPT (archive.org edition)
 Posted: 2026-10-02, Robert Tilford (via Muse, at his direction).
 

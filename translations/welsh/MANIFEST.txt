@@ -1,3 +1,18 @@
+GOVERNING-GENERATION RULING — 2026-10-25
+Ruled by Robert Tilford on 2026-10-25: the LIVE SHELF governs. The live-shelf file below is the governing
+generation for this folder in this repository (roberttilford19-sketch/robert-tilford-quran, main at
+30eb7537296b0b167d6c46063f21ec92cb03f22d, fresh fetch verified against the remote on 2026-10-25).
+
+GOVERNING FILE (live shelf): ayah-companion-manuscript-CY.md | 2249942 bytes | SHA-256 eca08de1c85b7131f1f12ca2a7afd5cbceb07b60fb11bf1b969c74764a3b5f65
+
+This header SUPERSEDES every conflicting byte-size or SHA-256 statement for the governing file in the older
+MANIFEST text below. The older text is retained unchanged as the prior record: the prior MANIFEST generation
+is superseded, not erased. No manuscript text was changed by this correction.
+
+History note — Welsh: the original text below describes the 2026-10-05 staging (2,256,427 bytes, SHA-256 ad3570b2c07000b70d64d658f84c3d86f467170f424e7bedafbea0d0098c4419) and its byte-identity to the anonymized gift copy at that time. The archive.org deposit was replaced on 2026-10-12 by v1.1-standard-b (typography normalization plus five quote-parity patches; wording, verse text, and Arabic unchanged, 6,236 verses invariant); the live deposit measures 2,250,335 bytes, SHA-256 461272809987ab8ad611e6e909d55275966a74d053e271d0120a23207bb397f0, and its version note calls the staged bytes superseded. The governing live shelf file above is a third set of bytes, equal to neither archive generation. The staged-generation claim is retained below as history, not as a statement about any shelf today.
+
+--- ORIGINAL MANIFEST TEXT BELOW (pre-ruling record) ---
+
 AYAH COMPANION — WELSH (CYMRAEG) QURAN — WORKING DRAFT
 Archive identifier (reserved): ayah-companion-tilford-welsh-manuscript
 Item title: Ayah Companion — Welsh (Cymraeg) Quran — Working Draft — Dedicated to Dr. Laura Jones

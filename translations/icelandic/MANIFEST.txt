@@ -1,3 +1,18 @@
+GOVERNING-GENERATION RULING — 2026-10-25
+Ruled by Robert Tilford on 2026-10-25: the LIVE SHELF governs. The live-shelf file below is the governing
+generation for this folder in this repository (roberttilford19-sketch/robert-tilford-quran, main at
+30eb7537296b0b167d6c46063f21ec92cb03f22d, fresh fetch verified against the remote on 2026-10-25).
+
+GOVERNING FILE (live shelf): Quran_Recital_Tilford_ICELANDIC_DRAFT_FULL.txt | 868230 bytes | SHA-256 fca09ade83034c13f4e3dae9b0ea6766c9dc190c2948418a989b26f8bd5b85a2
+
+This header SUPERSEDES every conflicting byte-size or SHA-256 statement for the governing file in the older
+MANIFEST text below. The older text is retained unchanged as the prior record: the prior MANIFEST generation
+is superseded, not erased. No manuscript text was changed by this correction.
+
+History note — Icelandic: this folder holds a draft TXT, not a manuscript Markdown. The prior statement below (SHA-256 54787cd802e020cc77a64f9cde621d25cedb5df47b5bb42c60b5bed9eb8b78a; 864,255 bytes per the three-way reconciliation) matches the archive.org deposit TXT; the governing live shelf TXT above is the byte-distinct copy. The deposit is unchanged by this ruling.
+
+--- ORIGINAL MANIFEST TEXT BELOW (pre-ruling record) ---
+
 MANIFEST — Tilford Quran Recital · Icelandic DRAFT
 Date: 2026-10-01
 

@@ -1,3 +1,18 @@
+GOVERNING-GENERATION RULING — 2026-10-25
+Ruled by Robert Tilford on 2026-10-25: the LIVE SHELF governs. The live-shelf file below is the governing
+generation for this folder in this repository (roberttilford19-sketch/robert-tilford-quran, main at
+30eb7537296b0b167d6c46063f21ec92cb03f22d, fresh fetch verified against the remote on 2026-10-25).
+
+GOVERNING FILE (live shelf): ayah-companion-manuscript-TA.md | 3880108 bytes | SHA-256 099b4961cd7eda4fde543ba129417fb7532658f5d9fe17bf6b56adbfb0d7a80d
+
+This header SUPERSEDES every conflicting byte-size or SHA-256 statement for the governing file in the older
+MANIFEST text below. The older text is retained unchanged as the prior record: the prior MANIFEST generation
+is superseded, not erased. No manuscript text was changed by this correction.
+
+History note: the three-way reconciliation of 2026-10-24 found the prior MANIFEST generation for this language byte-identical to the archive.org deposit copy, while the live shelf file above is a byte-distinct, structurally exact generation (114 surahs / 6,236 verses in exact sequence). The archive.org deposit is unchanged by this ruling; for this repository's record, the live shelf file governs.
+
+--- ORIGINAL MANIFEST TEXT BELOW (pre-ruling record) ---
+
 AYAH COMPANION — TAMIL (ISO ta) REVISION DRAFT
 Source: corrected English master ~/workspace/ayah-audit/corrected/ayah-companion-manuscript.md (never edited)
 Built: 2026-10-05 · Method: Quran-alone (terms defined by the Quran; zakat NO percentage — 0 "%" verified)
