@@ -1,0 +1,81 @@
+MANIFEST — Ayah Companion Malay (Bahasa Melayu)
+
+Shelved 2026-11-13 on Robert Tilford's authorization of 2026-11-12 ("repeat
+this process" through the Tier 1 line in campaign order; Malay closes the
+line).
+Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
+
+Status: a complete rendering of the Quran in Malay — all 6,236
+verses, the whole book, nothing left out — with the Arabic text alongside.
+DRAFT: native-speaker review is invited, and that review is ongoing (the
+book's own status page carries this).
+
+This manuscript stands unrepaired in its state of record (sha256
+b5c0e3d3d3e287af5bd71a3d89035cf7a4f631e22c6cfcf6fee1d1a216e26ad3,
+2,389,059 bytes — verified before the build and identical after all work,
+agreeing with the Tier 1 ledger inventory, the lane's own MANIFEST.txt,
+and CHECKER-MS-SEPARATE-AGENT to the character). Nothing was repaired or
+altered by this line; no cluster copy was touched.
+
+Verse 3:7 stands exactly as printed, graded MATCH by the lane's independent
+checker (CHECKER-MS-SEPARATE-AGENT §4): the master's joint attachment IS
+kept — the firmly rooted stand inside the exception ("melainkan Allah dan
+orang yang teguh berakar dalam pengetahuan"), sharing the knowing, with
+the plural verb "berkata" carrying the joined group into the saying. This
+is the attachment the Azerbaijani and Kurmanji lanes broke (each ruled on
+by Robert on 2026-11-12 and left flagged for their native reviewers);
+Malay holds it, so no ruling item arises in this lane. (The checker's one
+sense note rides with it: the master's "seeking descent" is rendered
+"kerana mencari perpecahan", by sense, graded inside the sample as MATCH.)
+18:103 carries the master's sealed plural as printed, explicitly: "Patutkah
+Kami memberitahu kamu..." — "Kami" ("We") — no singular anywhere in the
+verse. 38:48 carries Elisha in the printed form "Elisa", unsettled exactly
+as designed across the campaign's new lanes — the lane's first-occurrence
+flag (work/flags-ms-R9.txt) holds it as the desk CANDIDATE "Elisa" ONLY,
+awaiting the native reviewer's ruling (guide ruling #8); Yehezkiel beside
+it is settled per the guide's name register. The lane's three MINOR items
+ride untouched for the native reviewer: F1, a MINOR DRIFT at 4:1 (the
+master's printed "the parents" rendered "kaum kerabat", kin, following the
+Arabic sense against the lane's own master-governs rule; sense not
+reversed, no counted token affected; ruling #12 class); F2, nested-quote
+glyph style inconsistent in 5 verses (3:193; 5:110; 5:111; 5:116; 40:28 —
+punctuation only; the governed curly double-quote counts match the master
+in 6,236 of 6,236 verses); F3, the per-surah subtitle transliteration
+differing from the header title in 30 surahs (e.g. Surah 3, header
+"Ali 'Imran" against subtitle "Aal-Imran") — a presentational consistency
+question for reviewer ruling #10, the shared toolkit's design. Also
+standing: the guide's twelve reviewer rulings (STYLEGUIDE-MS.md), headed
+by the Rumi/Jawi script ruling and the Allah/tuhan division. Every counted
+census in the lane reconciles exactly (Allah 2,732; Tuhan 969; tuhan 114;
+zakat 13 of 13 at the keyed verses only; sedekah 36 of 36; Pelindung 10
+plus Penguasa exactly 1, at 1:4; the basmalah 112 frames + 1:1 + 27:30;
+prostration markers 15 of 15). The lane's divine-name settlement stands as
+printed: Allah in the name slots, Tuhan/tuhan for the master's
+"Lord"/"god" division as counted, Penguasa reserved to 1:4.
+
+Residue gate of record: this lane is Latin-script (Rumi), so the gate was
+the lexical method of the Bosnian/Nyanja/Zulu/Lingala/Kurmanji gates.
+Independent measurement of this manuscript's verse text (130,319 rendering
+tokens, 100% Latin script; tokens containing any non-Latin letter 0;
+non-ASCII letters 0; no "%" and no U+FFFD) — the only raw English-probe
+hits were 2 classes, both context-audited as NOT residue: "surah" x7, the
+Malay word for a Quran chapter standing inside the verses' own sentences,
+and "at" x2, both inside the Arabic proper name at-Tariq (86:1, 86:2).
+Every other probe returned 0: 0 genuine English tokens stand in 6,236 of
+6,236 verses. Inside the book, the only recurring non-verse elements are
+furniture: the quiet footer on all 981 body pages, the 114 surah heading
+information lines, and the ruled English front matter.
+
+The book: Ayah_Companion_Tilford_Malay_Manuscript.pdf — 982 pages,
+20,612,562 bytes, sha256
+470c75552bccb5f570e00540aee15af6af0eed6041f81f39e42cc2424f9c3219.
+Independent pre-shelf check: 8 of 8 PASS, no defect found
+(~/workspace/quran-gap/MALAY-PDF-PRESHelF-CHECK-2026-11-13.md) — verse
+references 6,236 of 6,236 in three independent extractions, headings 114
+of 114 in all three, the master's Arabic verse-paired byte-identical
+6,236 of 6,236 (block census 6,348; standalone basmala lines 113 = 113),
+whole-book stamp scan 0 in English and Malay, the book ending whole at
+114:6 with its Arabic. Build disclosure: none needed — font coverage was
+complete before the single compile and the Malay status text fit the
+ruled one status page unaided; no layout accommodation, wording untouched
+throughout.
