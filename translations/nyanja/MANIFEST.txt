@@ -1,0 +1,35 @@
+MANIFEST — Ayah Companion Nyanja (Chichewa)
+
+Shelved 2026-11-12 on Robert Tilford's authorization of 2026-11-12 ("repeat this process" through the Tier 1 line in campaign order).
+Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
+
+Status: a complete rendering of the Quran in Nyanja (Chichewa) — all 6,236 verses,
+the whole book, nothing left out — with the Arabic text alongside. DRAFT:
+native-speaker review is invited, and that review is ongoing (the book's own
+status page carries this).
+Verse 3:7, graded a MATCH by the lane's independent checker (the master's joint
+attachment preserved, ambiguity intact), stands exactly as printed; 18:103 keeps
+the master's sealed "We" ("Ife") as printed; 38:48 carries Elisha in the printed
+form, unsettled exactly as designed. The lane's open items — the one unrepaired
+orthography item (the "w seam") and its reviewer questions — stand recorded in
+the workspace lane record, unrepaired. The lane's divine-name settlement stands
+as printed: Mulungu throughout (Allah-forms none).
+
+Residue gate of record: this lane is Latin-script, so the gate was lexical.
+Independent measurement of this manuscript's verse text (118,239 rendering
+tokens) found 0 genuine English tokens in 6,236 of 6,236 verses: a 140-word
+English function-word scan hit only the Arabic proper name at-Tariq (86:1, 86:2),
+and a ~350-word English content-word scan hit nothing; the standalone letter
+"a" (705 occurrences) is the Chichewa associative particle, audited as native.
+Inside the book, the only Latin-bearing body lines beyond the book's own Nyanja
+text are the 950 quiet footers and the 114 surah heading information lines —
+the manuscript of record stands in the full-sentence class. The Purple REPORT
+run over the same manuscript returned the same verdict (G-7: 0 genuine).
+
+Pre-shelf independent check: 8 of 8 items PASS, no defect found, plus this
+lane's extra English-residue gate PASS, 2026-11-12
+(~/workspace/quran-gap/NYANJA-PDF-PRESHelF-CHECK-2026-11-12.md).
+
+Files:
+  20520020  4215035faf90cf4c4b2fd38f995a767f0d939bfe60ce2f4687ea4e2b84ba9c5f  Ayah_Companion_Tilford_Nyanja_Manuscript.pdf (953 pp)
+   2311593  0b7d0fcd821d7b00ff9b043cb949776e2ecdb2cc39568657c3c6c03843af064a  ayah-companion-manuscript-NY.md
