@@ -8,8 +8,9 @@ the whole book, nothing left out — with the Arabic text alongside. DRAFT:
 native-speaker review is invited, and that review is ongoing (the book's own
 status page carries this).
 
-This manuscript is TWICE-REPAIRED under Robert Tilford's rulings of
-2026-11-12, each repair recorded by a dated addendum in the lane record
+This manuscript is THRICE-REPAIRED under Robert Tilford's rulings
+(2026-11-12 and 2026-11-13), each repair recorded by a dated addendum
+in the lane record
 (workspace: ayah-dari/) and flagged there for the native reviewer:
 
 1. Zakat class — Ruling A, 2026-11-12 ~21:34 CST
@@ -37,13 +38,40 @@ This manuscript is TWICE-REPAIRED under Robert Tilford's rulings of
    (3:37, 3:44, 4:23, 4:25, 7:30) are human-guardian senses and stand
    untouched; the zakat repair underneath stands intact.
 
-Manuscript state of record after both repairs: sha256
-9f64cd2f0363557915c141a5f0660149e9396b166a01ab8854ea880092bd25f2,
-2,687,528 bytes — verified before the build and identical after all work.
+3. Zakat seam — Ruling A, 2026-11-13 ~05:06 CST
+   (ADDENDUM-PRS-ZAKAT-SEAM-REPAIR-2026-11-13.md). The 2026-11-12 zakat
+   addendum had disclosed, outside that ruling's scope, fifteen verses
+   where the Recital marks "Obligatory Charity (Zakat)" but the lane's
+   working slices had carried unqualified "charity" wording, so the Dari
+   printed a صدقه phrase for the zakat duty: 2:83, 2:110, 2:277, 4:162,
+   5:12, 5:55, 9:5, 9:71, 19:31, 21:73, 23:4, 24:37, 41:7, 58:13, 98:5.
+   Ruled and executed under Robert's Ruling A of 2026-11-13: each place
+   conformed to the lane's settled زکات forms, mirroring each verse's own
+   grammar (2:83 → «زکات بدهید», as at 2:43; 5:55 → «زکات منظم می‌دهند»,
+   the verse's own منظم coloring). At 58:13 the verse's first صدقه — the
+   consultation offering, a genuine sadaqah for a different Arabic word —
+   stands untouched; only the zakat phrase was repaired. Proof: exactly
+   15 verse blocks changed, 6,221 unchanged; صدقه census 44 → 29;
+   صدقهٔ منظم still 0; زکات now stands at all 28 of the Recital's marked
+   verses (9 previously compliant + 4 repaired 2026-11-12 + 15 here).
+   Every change is flagged in the lane record for the native reviewer.
+   The book was rebuilt from the repaired manuscript and re-shelved
+   once, this shelving: rebuild check 8 of 8 PASS, the fifteen repairs
+   read in print (2:83 p. 19 and 5:55 p. 164 also read visually), the
+   five earlier repair verifications standing. The first shelving
+   (commit 10cc62e) printed the seam forms; this entry supersedes them.
+
+Manuscript state of record after all three repairs: sha256
+0b88acbac137f7b3acac22ae0046745ae48522d3b0b2c553b6c52bddef644c7f,
+2,687,537 bytes — verified before the rebuild and identical after all
+work. (State after the two 2026-11-12 repairs: 9f64cd2f…, 2,687,528 B.)
 Both repairs were verified AGAIN in the printed book by the pre-shelf check
 (verses read in print: 4:77 p. 126, 7:156 p. 240, 9:18 p. 268, 33:33 p. 635,
 47:11 p. 780 — the 47:11 page also read visually; book-wide صدقهٔ منظم 0;
-سرپرست census 5, none at 47:11).
+سرپرست census 5, none at 47:11). The seam repair was verified the same
+way after the rebuild (DARI-PDF-REBUILD-CHECK-2026-11-13.md): all
+fifteen verses read in print in their repaired forms, 58:13's genuine
+صدقه standing beside its repaired زکات بدهید.
 
 Verse 3:7, graded a MATCH by the lane's independent checker (the master's
 joint attachment preserved in Dari syntax — "جز الله و کسانی که در دانش
@@ -51,7 +79,7 @@ joint attachment preserved in Dari syntax — "جز الله و کسانی که 
 18:103 carries the master's sealed plural (ما, "we") as printed; 38:48
 carries Elisha in the printed form الیسع, unsettled exactly as designed
 across the campaign's new lanes. The lane's remaining reviewer items —
-the زکات/صدقه seam flags fenced by the zakat ruling, the 1:4 divine-name
+the 1:4 divine-name
 alternative (صاحب as printed, مالک flagged; the reviewer rules by name),
 the 5:6 reading note the book itself carries, and CHECKER-PRS's remaining
 MINOR items — stand recorded in the workspace lane record, unrepaired. The
@@ -60,7 +88,8 @@ lane's divine-name settlement stands as printed: الله in the name slots,
 
 Residue gate of record: this lane is Arabic-script, so the gate was
 script-based. Independent measurement of this manuscript's verse text
-(145,299 rendering tokens) found 100% Arabic script: 0 Latin tokens and
+(145,300 rendering tokens, re-measured on the thrice-repaired
+manuscript; 145,299 at first shelving) found 100% Arabic script: 0 Latin tokens and
 0 raw [A-Za-z] runs in 6,236 of 6,236 verses — no English scaffold residue
 stands in the verse text. Inside the book, the only Latin-bearing elements
 are furniture: the quiet footer on all 1,000 body pages, the 114 surah
@@ -74,7 +103,11 @@ Pre-shelf independent check: 8 of 8 items PASS, no defect found, plus this
 lane's Latin-residue gate PASS (0) and all five of the brief's repair
 verifications PASS in the printed book, 2026-11-12
 (~/workspace/quran-gap/DARI-PDF-PRESHelF-CHECK-2026-11-12.md).
+Rebuild check after the seam repair: 8 of 8 items PASS, no defect found,
+the residue gate re-run PASS (0) on the repaired manuscript, and all
+fifteen seam repairs verified in print, 2026-11-13
+(~/workspace/quran-gap/DARI-PDF-REBUILD-CHECK-2026-11-13.md).
 
 Files:
-  23186087  a5def246122f3e710c5684f23b591f77816cb42c0c78987b871e394f6b7a9242  Ayah_Companion_Tilford_Dari_Manuscript.pdf (1001 pp)
-   2687528  9f64cd2f0363557915c141a5f0660149e9396b166a01ab8854ea880092bd25f2  ayah-companion-manuscript-PRS.md
+  23185968  8e3eb425756f8b4c83c8b1b3568a93679ac5c69faf15ae8896c15bacbf6b4f2b  Ayah_Companion_Tilford_Dari_Manuscript.pdf (1001 pp; rebuilt 2026-11-13 after the seam repair — first edition 23186087 B, a5def246…)
+   2687537  0b88acbac137f7b3acac22ae0046745ae48522d3b0b2c553b6c52bddef644c7f  ayah-companion-manuscript-PRS.md
