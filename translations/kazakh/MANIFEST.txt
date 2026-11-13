@@ -1,0 +1,27 @@
+MANIFEST — Ayah Companion Kazakh (Қазақ тілі)
+
+Shelved 2026-11-12 on Robert Tilford's authorization of 2026-11-12 ("repeat this process now through the Turkish five").
+Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
+
+Status: a complete rendering of the Quran in Kazakh — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT: native-speaker review
+is invited, and that review is ongoing (the book's own status page carries this).
+Verse 3:7, graded a MATCH by the lane's independent checker (the master's joint
+attachment preserved, ambiguity intact), stands exactly as printed; 18:103 keeps the
+master's sealed "We" ("Біз") as printed. The lane's open questions stand recorded in
+the workspace lane record, unrepaired.
+
+Residue gate of record: the campaign's scaffold gauge (7,656 standing English tokens)
+was proven at shelving to belong to the cluster-1 duplicate manuscript, not to this
+one. Independent measurement of this manuscript's verse text found 0 genuine English
+tokens in 6,236 of 6,236 verses (99,118 rendering tokens, all Cyrillic), and 0 inside
+the book's 6,236 verse lines — the manuscript of record stands in the full-sentence
+class. The cluster-1 copy remains found-but-not-used, exactly as the ledger records.
+
+Pre-shelf independent check: 8 of 8 items PASS, no defect found, plus this lane's
+extra English-residue gate PASS, 2026-11-12
+(~/workspace/quran-gap/KAZAKH-PDF-PRESHelF-CHECK-2026-11-12.md).
+
+Files:
+  20417083  39468b362b3a65054eec3083e8c0c555fd7e8e586c922b5328411d2b4a77a523  Ayah_Companion_Tilford_Kazakh_Manuscript.pdf (906 pp)
+   2803489  5f2b9d44111dcb8b47145069a93267ac54283a51614cd6f38dfb2cd97386f670  ayah-companion-manuscript-KK.md
