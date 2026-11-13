@@ -1,0 +1,18 @@
+MANIFEST — Ayah Companion Uzbek (Oʻzbek tili)
+
+Shelved 2026-11-12 on Robert Tilford's authorization of 2026-11-12 ("repeat this process now through the Turkish five").
+Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
+
+Status: a complete rendering of the Quran in Uzbek — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT: native-speaker review
+is invited, and that review is ongoing (the book's own status page carries this).
+Verse 3:7, graded a MATCH by the lane's independent checker, stands exactly as
+printed; 18:103 keeps the master's sealed "We" ("Biz") as printed. The lane's open
+questions stand recorded in the workspace lane record, unrepaired.
+
+Pre-shelf independent check: 8 of 8 items PASS, no defect found, 2026-11-12
+(~/workspace/quran-gap/UZBEK-PDF-PRESHelF-CHECK-2026-11-12.md).
+
+Files:
+  20348105  40a798142d2b655dae78b8c0e4c5974b379caf3b18e3a1f8cb16fb193e2b7d1d  Ayah_Companion_Tilford_Uzbek_Manuscript.pdf (895 pp)
+   2259369  118a9df2d78829d4ce6c75b8b55bfb4fead85eca74d80258c37812ef2212e9cf  ayah-companion-manuscript-UZ.md
