@@ -1,0 +1,16 @@
+MANIFEST — Ayah Companion Azerbaijani (Azərbaycan dili)
+
+Shelved 2026-11-12 on Robert Tilford's spoken authorization (live call, that evening).
+Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
+
+Status: a complete rendering of the Quran in Azerbaijani — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT: native-speaker review
+is invited, and that review is ongoing (the book's own status page carries this).
+Verse 3:7 stands unrepaired, exactly as Robert ruled it (Ruling B, 2026-11-12).
+
+Pre-shelf independent check: 8 of 8 items PASS, no defect found, 2026-11-12
+(~/workspace/quran-gap/AZERBAIJANI-PDF-PRESHelF-CHECK-2026-11-12.md).
+
+Files:
+  20312750  37af1b6a7303caabe95b114f9e386035a11a9476d9f32a18ebe201c98b9f79ef  Ayah_Companion_Tilford_Azerbaijani_Manuscript.pdf (871 pp)
+   2297963  271ec959a83f42d266f969a81e9d2f12d035f72005794d7ecd60032199a3abc1  ayah-companion-manuscript-AZ.md
