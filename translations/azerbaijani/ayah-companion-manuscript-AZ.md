@@ -9322,7 +9322,7 @@ AZERBAIJANI (Azərbaycan dili) MANUSCRIPT — DRAFT, NOT REVIEWED, not a final e
 
 أَفَحَسِبَ ٱلَّذِينَ كَفَرُوٓا۟ أَن يَتَّخِذُوا۟ عِبَادِى مِن دُونِىٓ أَوْلِيَآءَ ۚ إِنَّآ أَعْتَدْنَا جَهَنَّمَ لِلْكَٰفِرِينَ نُزُلًۭا
 
-**18:103** De: “Sizə əməllərində ən böyük uduzanlar barəsində məlumat verimmi?”
+**18:103** De: “Sizə əməllərində ən böyük uduzanlar barəsində məlumat verəkmi?”
 
 قُلْ هَلْ نُنَبِّئُكُم بِٱلْأَخْسَرِينَ أَعْمَٰلًا
 

@@ -1,5 +1,20 @@
 MANIFEST — Ayah Companion Azerbaijani (Azərbaycan dili)
 
+AMENDMENT — 2026-11-12 (rebuild after the 18:103 repair, Ruling A).
+On Robert Tilford's Ruling A of 2026-11-12, verse 18:103 in the manuscript of record
+was repaired from the first-person singular to the first-person plural, conforming to
+the Arabic morphology (nunabbi'ukum, first-person plural) and to the Locked Master's
+printed word "Shall We inform you of the greatest losers in their works?" — one word
+changed (verimmi -> verəkmi), diff-proved, addendum in the lane record
+(~/workspace/ayah-azerbaijani/ADDENDUM-AZ-18-103-REPAIR-2026-11-12.md), flagged for
+the native reviewer. The Rule A seal at 18:103 covers the referent of "We," not its
+number, and stands untouched. The book was then rebuilt from the repaired manuscript
+and re-checked: rebuild check 8 of 8 PASS plus all repair verifications, 18:103 read
+in print at page 384 with the plural standing (~/workspace/quran-gap/AZERBAIJANI-PDF-REBUILD-CHECK-2026-11-12.md).
+This edition replaces the first shelving (commit a3d7d34), which printed the singular
+at 18:103 (first-edition PDF 871 pp, 20,312,750 B, sha256 37af1b6a7303caabe95b114f9e386035a11a9476d9f32a18ebe201c98b9f79ef).
+Verse 3:7 stands as ruled B throughout — unrepaired in both editions.
+
 Shelved 2026-11-12 on Robert Tilford's spoken authorization (live call, that evening).
 Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
 
@@ -10,7 +25,9 @@ Verse 3:7 stands unrepaired, exactly as Robert ruled it (Ruling B, 2026-11-12).
 
 Pre-shelf independent check: 8 of 8 items PASS, no defect found, 2026-11-12
 (~/workspace/quran-gap/AZERBAIJANI-PDF-PRESHelF-CHECK-2026-11-12.md).
+Rebuild check after the 18:103 repair: 8 of 8 PASS plus repair verifications, 2026-11-12
+(~/workspace/quran-gap/AZERBAIJANI-PDF-REBUILD-CHECK-2026-11-12.md).
 
 Files:
-  20312750  37af1b6a7303caabe95b114f9e386035a11a9476d9f32a18ebe201c98b9f79ef  Ayah_Companion_Tilford_Azerbaijani_Manuscript.pdf (871 pp)
-   2297963  271ec959a83f42d266f969a81e9d2f12d035f72005794d7ecd60032199a3abc1  ayah-companion-manuscript-AZ.md
+  20312748  10be28a44fa1fc05b8f8a9b3933ebfbda0117ee7e0283bf78bf8c3e8595d8648  Ayah_Companion_Tilford_Azerbaijani_Manuscript.pdf (871 pp)
+   2297964  902b6d4d054b8b87d9acb2f230d17c12071c9d48eed4bc59e86a69dd423f5f1c  ayah-companion-manuscript-AZ.md
