@@ -1,0 +1,80 @@
+MANIFEST — Ayah Companion Dari (Dari)
+
+Shelved 2026-11-12 on Robert Tilford's authorization of 2026-11-12 ("repeat this process" through the Tier 1 line in campaign order).
+Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
+
+Status: a complete rendering of the Quran in Dari — all 6,236 verses,
+the whole book, nothing left out — with the Arabic text alongside. DRAFT:
+native-speaker review is invited, and that review is ongoing (the book's own
+status page carries this).
+
+This manuscript is TWICE-REPAIRED under Robert Tilford's rulings of
+2026-11-12, each repair recorded by a dated addendum in the lane record
+(workspace: ayah-dari/) and flagged there for the native reviewer:
+
+1. Zakat class — Ruling A, 2026-11-12 ~21:34 CST
+   (ADDENDUM-PRS-ZAKAT-REPAIR-2026-11-12.md). CHECKER-PRS §5.1 had flagged
+   four verses where the lane printed صدقهٔ منظم (a sadaqah-family phrase)
+   where the Master marks "Obligatory Charity (Zakat)": 4:77, 7:156, 9:18,
+   33:33. Ruled and executed: each place conformed to the lane's own settled
+   زکات منظم (the forms the lane already uses at 24:56 and 27:3). Proof:
+   exactly 4 verse blocks changed, 6,232 unchanged; صدقهٔ منظم census after
+   repair 0; every genuine sadaqah place (9:60, 4:114, 5:55, 19:31, 19:55,
+   98:5, and the rest) stands exactly as printed. Disclosed in the addendum,
+   outside the ruling's scope and NOT repaired: the verses where the Recital
+   marks "(Zakat)" but the lane's working slices carried unqualified
+   "charity" wording stand under the lane's documented زکات/صدقه seam flags
+   (CANDIDATE, unruled).
+
+2. 47:11 name-boundary — Ruling A, 2026-11-12 ~21:36 CST
+   (ADDENDUM-PRS-47-11-REPAIR-2026-11-12.md). CHECKER-PRS §5.2 had flagged
+   47:11, where the lane printed سرپرست for the Master's "Lord" while the
+   lane's own settled rendering of that word is صاحب (3:150, 66:2, 6:62).
+   Ruled and executed: «الله سرپرست کسانی است که ایمان آورده‌اند، حال آنکه
+   کافران سرپرستی ندارند» → «الله صاحب کسانی است که ایمان آورده‌اند، حال
+   آنکه کافران صاحبی ندارند». Proof: exactly 1 verse block changed, 6,235
+   unchanged; سرپرست at 47:11 now 0; the word's five remaining occurrences
+   (3:37, 3:44, 4:23, 4:25, 7:30) are human-guardian senses and stand
+   untouched; the zakat repair underneath stands intact.
+
+Manuscript state of record after both repairs: sha256
+9f64cd2f0363557915c141a5f0660149e9396b166a01ab8854ea880092bd25f2,
+2,687,528 bytes — verified before the build and identical after all work.
+Both repairs were verified AGAIN in the printed book by the pre-shelf check
+(verses read in print: 4:77 p. 126, 7:156 p. 240, 9:18 p. 268, 33:33 p. 635,
+47:11 p. 780 — the 47:11 page also read visually; book-wide صدقهٔ منظم 0;
+سرپرست census 5, none at 47:11).
+
+Verse 3:7, graded a MATCH by the lane's independent checker (the master's
+joint attachment preserved in Dari syntax — "جز الله و کسانی که در دانش
+استوار ریشه دارند می‌گویند" — ambiguity intact), stands exactly as printed;
+18:103 carries the master's sealed plural (ما, "we") as printed; 38:48
+carries Elisha in the printed form الیسع, unsettled exactly as designed
+across the campaign's new lanes. The lane's remaining reviewer items —
+the زکات/صدقه seam flags fenced by the zakat ruling, the 1:4 divine-name
+alternative (صاحب as printed, مالک flagged; the reviewer rules by name),
+the 5:6 reading note the book itself carries, and CHECKER-PRS's remaining
+MINOR items — stand recorded in the workspace lane record, unrepaired. The
+lane's divine-name settlement stands as printed: الله in the name slots,
+صاحب carrying the "Lord/Master" places.
+
+Residue gate of record: this lane is Arabic-script, so the gate was
+script-based. Independent measurement of this manuscript's verse text
+(145,299 rendering tokens) found 100% Arabic script: 0 Latin tokens and
+0 raw [A-Za-z] runs in 6,236 of 6,236 verses — no English scaffold residue
+stands in the verse text. Inside the book, the only Latin-bearing elements
+are furniture: the quiet footer on all 1,000 body pages, the 114 surah
+heading information lines, and the ruled English front matter. The
+manuscript of record stands in the full-sentence class, and its Arabic
+stands preserved entire: the Locked Master's 6,348 Arabic text lines found
+byte-identical, in order, among this manuscript's lines (6,348 of 6,348;
+the split-rendered 5:6 verified directly).
+
+Pre-shelf independent check: 8 of 8 items PASS, no defect found, plus this
+lane's Latin-residue gate PASS (0) and all five of the brief's repair
+verifications PASS in the printed book, 2026-11-12
+(~/workspace/quran-gap/DARI-PDF-PRESHelF-CHECK-2026-11-12.md).
+
+Files:
+  23186087  a5def246122f3e710c5684f23b591f77816cb42c0c78987b871e394f6b7a9242  Ayah_Companion_Tilford_Dari_Manuscript.pdf (1001 pp)
+   2687528  9f64cd2f0363557915c141a5f0660149e9396b166a01ab8854ea880092bd25f2  ayah-companion-manuscript-PRS.md
