@@ -3702,7 +3702,7 @@ So a ko nder ngonka impurity, laɓɓin ko'e mon. So a ko nyawɗo, maa travelling
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** E Ismaa'iila, e Eliyaa, e Yuunusa, e Luutu—Min yurmeende kala go'o ɓe dow fof goɗɗo yimɓe.
+**6:86** E Ismaa'iila, e Eliisa, e Yuunusa, e Luutu—Min yurmeende kala go'o ɓe dow fof goɗɗo yimɓe.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
