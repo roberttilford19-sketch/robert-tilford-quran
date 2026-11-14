@@ -1,0 +1,24 @@
+MANIFEST — Ayah Companion Avar
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 (ruling A — "Shelve all sixteen now, paced commits, read back after" — his word, 2026-11-14 ~10:05 CST).
+Wave-108 shelving run.
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Avar — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting native Avar review; it is not a finished or certified
+translation, and native Avar review is required before any use as one. No
+first-translation claim is made.
+
+Claim boundary, carried in the manuscript's own head matter: this draft makes no first-translation claim; no claim is made about any other Avar rendering.
+
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+
+Lane verification of record: desk verify PASS; independent checker PASS WITH FLAGS — MATERIAL 0 (CHECKER-AV-SEPARATE-AGENT.md); the minor flags (one name-form diverging from the guide's register, a systematic capitalisation nit, one intro false-friend, two record-labelling nits, and the disclosed transliteration fallback's visibility) ride to the native reviewer.
+
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-avar/, unrepaired.
+
+Files:
+  2962735  ff58df3ba8c8c0d29ca0ef39e704f83e25de7405ab2ae45667512206a7a18645  ayah-companion-manuscript-AV.md

@@ -1,0 +1,24 @@
+MANIFEST — Ayah Companion Lezgi
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 (ruling A — "Shelve all sixteen now, paced commits, read back after" — his word, 2026-11-14 ~10:05 CST).
+Wave-108 shelving run.
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Lezgi — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting native Lezgi review; it is not a finished or certified
+translation, and native Lezgi review is required before any use as one. No
+first-translation claim is made.
+
+Claim boundary, carried in the manuscript's own head matter: this draft is written in the Cyrillic script of Lezgi (the Dagestan orthography; Lezgi is also written in Latin script in Azerbaijan, as recorded in the style guide); it makes no claim to be the first rendering of the Quran into Lezgi, and no claim about other Lezgi renderings.
+
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+
+Lane verification of record: desk verify PASS; independent checker PASS WITH FLAGS — MATERIAL 1, concerning the flags record, not the draft text (CHECKER-LEZ-SEPARATE-AGENT.md FLAG 1: the lane's flags files, at 103 lines, were materially thinner than the campaign standard). The remedy was applied on 2026-11-14: the flags were regenerated to the campaign standard (576 lines) with dated addenda, and every class the checker found absent from the record was checked directly against the slices and found sound. No slice changed.
+
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-lezgi/, unrepaired.
+
+Files:
+  3035545  30d03c6a2e54a316a535588607f9b9ddd4c95d0909c66ccbfcdc1a9c1692a61a  ayah-companion-manuscript-LEZ.md
