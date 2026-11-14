@@ -1,0 +1,51 @@
+MANIFEST — Ayah Companion Lakota
+
+Shelved 2026-11-14 on Robert Tilford's ruling of 2026-11-14 (~05:27 CST),
+which supersedes the terms of his 2026-10-05 notice letter and his
+2026-10-08 lock-away verdict (see History below).
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: an UNFINISHED SCAFFOLD — DRAFT — NOT REVIEWED. This text was
+machine-assisted by a non-speaker of Lakota. It carries about 4,800 open
+translator flags (uncertain grammar, invented or unverified word forms,
+competing vocabulary choices) and has had NO native-speaker review. It is
+the least-settled text on this shelf, and it is labelled as such here and
+in its own head. It is not a finished or certified translation, and native
+review is required before any use as one. No first-translation claim is
+made.
+Verse-marker re-count at shelving (2026-11-14): 6,236 of 6,236 markers,
+first 1:1, last 114:6.
+Lane verification of record: structural verification 14/14 PASS
+(~workspace/ayah-lakota/VERIFICATION-LKT.md, 2026-09-25 — surah headers,
+per-surah verse counts, Arabic lines byte-identical to master, prostration
+markers, no placeholders). The full lane record (concordance, glossary,
+flags file, verification) stands in the workspace lane folder
+~/workspace/ayah-lakota/, unrepaired.
+
+History: On 2026-10-05 Robert Tilford sent a notice-first letter to the
+Standing Rock Sioux Tribe's language office (the Iyapi Director),
+announcing this scaffold before any publication and undertaking that, if
+no reply arrived by 2027-01-03, it would stay unpublished, and that any
+objection from that office or from community members would end the matter
+permanently. The only reply ever received was an auto-reply stating the
+addressee had left her post; no human response ever arrived. On
+2026-11-14 Robert Tilford ruled the letter's silence-date term superseded,
+on the ground that the invitation was sent in good faith and the chair
+stood vacant, and ordered the scaffold shelved as availability only.
+
+Availability only: this scaffold is SHELVED, NOT OFFERED. No outreach has
+been made, or will be made, to any tribe about it, and no announcement of
+it is made anywhere. It stands here so that anyone — scholars, language
+workers, community members, any reader — who comes looking may find it.
+
+Standing withdrawal promise (Robert Tilford's own letter term of
+2026-10-05, carried forward by his ruling of 2026-11-14): if the Standing
+Rock Sioux Tribe's office, or Lakota community members, object to this
+scaffold's presence here, it will be withdrawn and the matter ended
+permanently.
+
+Gift terms, as every folder on this shelf: free to read and free to
+download, never sold; attribution requested.
+
+Files:
+  2395760  440e06807ce8d3263f617ca68194491fe759a9d7388148bc370012ab744da729  ayah-companion-manuscript-LKT.md
