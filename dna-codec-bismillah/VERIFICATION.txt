@@ -1,0 +1,7 @@
+sequence length: 300 bases; alphabet: ['A', 'C', 'G', 'T']
+decoded bytes: 75
+decoded text: بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
+matches printed Arabic: True
+arabic utf-8 bytes: 75 ; byte-identical to decoded: True
+forward re-encode == given sequence: True
+sha256 of arabic utf-8: d14756689abec33e1967f7e99299d2c4f04e9e3fd09c56b1bb61d418523e2ec1
