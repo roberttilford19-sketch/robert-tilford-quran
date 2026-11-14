@@ -3702,7 +3702,7 @@ te Tu si ande stat le impurity, uzharel tumen korkore. Te Tu si ill, vaj drom ke
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Thaj Ismail, thaj Elija, thaj Jona, thaj Lot — Amen mila svako jekh le len upre sa aver dzene.
+**6:86** Thaj Ismail, thaj Elisa, thaj Jona, thaj Lot — Amen mila svako jekh le len upre sa aver dzene.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 

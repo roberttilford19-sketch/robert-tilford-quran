@@ -3700,7 +3700,7 @@ Dacă sunteți în stare de necurăție, curățiți-vă. Dacă sunteți bolnavi
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86**  Și pe Ismael și pe Ilie și pe Iona și pe Lot — Noi l-am favorizat pe fiecare dintre ei deasupra tuturor celorlalți oameni.
+**6:86**  Și pe Ismael și pe Elisei și pe Iona și pe Lot — Noi l-am favorizat pe fiecare dintre ei deasupra tuturor celorlalți oameni.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
