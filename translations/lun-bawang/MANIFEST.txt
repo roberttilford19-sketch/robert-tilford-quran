@@ -1,0 +1,142 @@
+AYAH COMPANION — LUN BAWANG RENDERING
+MANIFEST — lane record, 2026-11-14
+
+ITEM
+Ayah Companion, Lun Bawang (lnd) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, as the Malaysia front's fifth build (the scout's
+recommended lane No. 5 and North Sarawak upland template),
+under Robert's Advance Rule of 2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Lun Bawang review is required
+before any gifting or publication; review is invited. The status
+line stands inside the manuscript itself, in Lun Bawang and
+English, on its face, with AI assistance labelled.
+SHELVING: lands on the GitHub shelf under Robert's Pipeline
+Landing Authorization (2026-11-14 ~15:00), the full pipeline
+loop having completed (build, count, canonical verify,
+independent checker, Purple sweep reconciled); the landing is
+recorded in LANDING-RECORD-2026-11-14.md in this lane folder at
+the desk.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is
+present, in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462
+Arabic runs, verified identical to the master and to the
+extraction meta by the amended verify.py's structural-position
+method).
+
+SCRIPT
+Latin orthography as the sources write it (the glottal stop
+written '; the Bible's accented é kept where its own forms carry
+it, Yésus) — reviewer item.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: no
+Lun Bawang Quran translation found after research (Malaysia
+scout, 2026-11-14). A complete Lun Bawang Bible stands in the
+record; this lane is Lun Bawang only, a distinct work.
+
+FILES
+GLOSSARY-LND.md
+  4,232 bytes
+  SHA-256 ad3c02719521966094dd6948c97e151c4574201b32347d2e0386995be567037e
+STYLEGUIDE-LND.md (the lane's binding drafting law, settled before drafting)
+  14,336 bytes
+  SHA-256 d886599c6fdfcd405263864ee0b0a9d65f44602223839246447654fc6e53d6ae
+BUILD-REPORT-LND.md
+  6,781 bytes
+  SHA-256 4e0311f0b0b555efcce1a3366d256721b17a8e0d4312dee5cade23db4215dc0e
+PURPLE-REPORT-LND-2026-11-14.md (Purple sweep, report mode, reconciled 14 of 14, 0 unresolved)
+  14,877 bytes
+  SHA-256 65ff8bd3873163e81fd2c4b445195db2a524f6bf75e8cbe8cdc887933ecad14d
+CHECKER-LND-SEPARATE-AGENT.md (independent checker, preserved unedited)
+  13,482 bytes
+  SHA-256 87f782b063439adfe91298463ede99c285d49994d18a17a02d8597a56de74d58
+work/verification-lnd.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-lnd.txt — 9 named uncertain-seat items plus residue counts, carried to the reviewer.
+  8,567 bytes
+  SHA-256 326ae25e92811d69227a8d1f626bcac5a8fe59c32ed9c4bb9147528048e40766
+ayah-companion-manuscript-LND.md
+  2,213,603 bytes
+  SHA-256 dc3aa08a1fa448f70827902564c6b4c8bcf84213dee7f8f9ae25e2e8b297859b
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-14: PASS true. Headers 114, head order true, verses
+6,236, counts match meta true, continuity true, Arabic runs
+6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse
+lines 6,236, slice ref mismatches 0, slice paragraph mismatches
+0, percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_lnd.py) over all 114 surahs: problems
+0. Per-verse census equality in all 6,236 verses — Allah (whole
+token, apostrophe- and hyphen-aware counting) 2,732 (master
+"God" 2,732); allah 79 (master "god" 79); allah-allah 35
+(master "gods" 35); Tuhan 980 (master "Lord" 969 + the 11
+counted Master tokens at 1:4; 2:286; 3:150; 6:62; 6:127; 7:196;
+10:30; 34:41; 47:11 ×2; 66:2); zakat at exactly the 13 keyed
+slots; sedekah at exactly the 36 keyed tokens (2:272 ×3;
+58:13 ×2).
+Independent checker (separate agent): PASS WITH FLAGS —
+MATERIAL 0, MINOR 2. Both MINORs (the fallback figure's
+generation-time basis; retained-English residue at named seats
+inside the disclosed residue class) are carried in
+work/flags-lnd.txt as items 8–9; no repair was required and
+the lane was not rebuilt after the check.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah
+frames, 15 markers; refs equal to master.
+
+NOTES CARRIED TO THE REVIEWER
+0. THE CODE: the commission directed verification before
+   building, on the Tagol lesson; Lun Bawang is lnd in the
+   ISO 639-3 table, Ethnologue, ELAR, Mortensen (2021), and
+   the scout — the sources agree (STYLEGUIDE-LND decision 0).
+   Putoh carries its own code (put) and is not counted as lnd.
+   The naming question rides disclosed: Lun Bawang (Sarawak)
+   = Lundayeh (Sabah/Kalimantan) = Buri' Tau, one language.
+1. God is rendered Allah, the Lun Bawang Bible's own God-word
+   (Genesis 1:1, VERIFIED in both fetched Bible PDF copies;
+   John 3:16 as quoted in Wikipedia's survey, SUPPORTED). No
+   native God-word stands in the record beside Allah. The
+   plural form allah-allah is a reduplicated desk form,
+   unattested for Allah in the sources. The God-word is the
+   reviewer's ruling #1.
+2. Charity: zakat stands untranslated at exactly 13 keyed
+   slots (Quran-alone rule: no percentage is stated anywhere
+   in the lane); the sadaqa family is sedekah at exactly 36
+   keyed tokens.
+3. Elisha is Elisa at 6:86 (following the corrected master)
+   and at 38:48 — the Lun Bawang Bible's OWN form, FOUND in
+   its Kings (research file §2); Luke 4:27's exact wording was
+   not isolated in this pass (NOT FOUND) and is not needed.
+   The seat is flagged as the reviewer's first name ruling
+   (flags item 1). Elijah is Elia, the Bible's own attested
+   form, kept distinct. Jesus stands as Yésus and Mary as
+   Mariam — the Bible's own Matthew forms, against the
+   master's printed forms — as flags item 6; Messiah stands
+   as Keristus, the Bible's own spelling.
+4. Fallback: 40,992 transliteration-fallback tokens (32.15% of
+   verse slice tokens on the builder's basis; 32.3% of 126,716
+   on the checker's tokenisation) and 7,627 positional
+   identical tokens (independent checker's recount) are
+   counted and disclosed in work/flags-lnd.txt, not concealed.
+   The share is the largest of the five Malaysia lanes: the
+   lexicon is the smallest (832 entries), the dictionary of
+   record being a one-way Lundayeh→English dictionary.
+5. Rule A seams stand as printed: 18:103 sealed plural
+   carried exactly (as kai); 19:64 as printed; the 2:272
+   seam as printed.
