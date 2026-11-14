@@ -1,0 +1,19 @@
+MANIFEST — Ayah Companion Cherokee
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 ("get them all on the shelf as quickly as possible" — his word on the live call, 2026-11-14 ~05:12 CST).
+An earlier Ayah Companion endangered-language lane, completed before the Q-1 tier campaign.
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Cherokee — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting native-speaker review; it is not a finished or certified
+translation, and native review is required before any use as one. No
+first-translation claim is made.
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+Lane verification of record: Lane verification: structural checks — all pass — VERIFICATION-CHR.md.
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-cherokee/, unrepaired.
+
+Files:
+  2082283  607437d74bf341987a8bcea7faabf3130d7cde05cca27549a85b02084c012286  ayah-companion-manuscript-CHR.md
