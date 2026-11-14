@@ -3702,7 +3702,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** An Ishmel, an Eliija, an Juona, an Laat — wi fieva iich wan a dem uova aal oda piipl.
+**6:86** An Ishmel, an Eliisha, an Juona, an Laat — wi fieva iich wan a dem uova aal oda piipl.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
