@@ -3702,7 +3702,7 @@ nabu awu laako di stat ata impuriti, saaf emii faŋ. Nabu awu laako il, wala tra
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Di Sumaila, di Eliyaa, di Yunusa, di Lutu — uuli enuuf ano ano ano ata aku haatiya feh dool bukan.
+**6:86** Di Sumaila, di Elisaa, di Yunusa, di Lutu — uuli enuuf ano ano ano ata aku haatiya feh dool bukan.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
