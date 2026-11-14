@@ -1,0 +1,19 @@
+MANIFEST — Ayah Companion Scottish Gaelic
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 ("get them all on the shelf as quickly as possible" — his word on the live call, 2026-11-14 ~05:12 CST).
+An earlier Ayah Companion endangered-language lane, completed before the Q-1 tier campaign.
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Scottish Gaelic — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting native-speaker review; it is not a finished or certified
+translation, and native review is required before any use as one. No
+first-translation claim is made.
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+Lane verification of record: Lane verification: structural checks — all pass — VERIFICATION-GD.md.
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-scottish-gaelic/, unrepaired.
+
+Files:
+  2363927  6c7fede4a707ef0cf1874477135d35c34ef6c2315d8df7c4ea5ac422e24068a2  ayah-companion-manuscript-GD.md

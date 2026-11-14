@@ -1,0 +1,28 @@
+GOVERNING-GENERATION RULING — 2026-10-25
+Ruled by Robert Tilford on 2026-10-25: the LIVE SHELF governs. The live-shelf file below is the governing
+generation for this folder in this repository (roberttilford19-sketch/robert-tilford-quran, main at
+30eb7537296b0b167d6c46063f21ec92cb03f22d, fresh fetch verified against the remote on 2026-10-25).
+
+GOVERNING FILE (live shelf): ayah-companion-manuscript-FR.md | 2322916 bytes | SHA-256 65fb162ea03604677bb6596ee98df92684c82b10bb7f78edd7a099ebe2381461
+
+This header SUPERSEDES every conflicting byte-size or SHA-256 statement for the governing file in the older
+MANIFEST text below. The older text is retained unchanged as the prior record: the prior MANIFEST generation
+is superseded, not erased. No manuscript text was changed by this correction.
+
+History note: the three-way reconciliation of 2026-10-24 found the prior MANIFEST generation for this language byte-identical to the archive.org deposit copy, while the live shelf file above is a byte-distinct, structurally exact generation (114 surahs / 6,236 verses in exact sequence). The archive.org deposit is unchanged by this ruling; for this repository's record, the live shelf file governs.
+
+--- ORIGINAL MANIFEST TEXT BELOW (pre-ruling record) ---
+
+Item: ayah-companion-tilford-french-manuscript
+Title: Ayah Companion — FRENCH MANUSCRIPT (Tilford Quran)
+Creator: Robert Tilford
+Uploaded: 2026-10-03
+Status: FRENCH MANUSCRIPT — REVIEW DRAFT (not a final edition).
+Completeness: 114 surahs / 6,236 verses, Arabic preserved verse by verse, verified 2026-10-03 (counts, sequence, Arabic byte-identity).
+Rule: Quran alone; zakat carries no percentage (the Quran gives none). Freely given to the world; copies welcomed.
+This is not claimed as the first French Quran translation; the existing French tradition (Muhammad Hamidullah) is acknowledged.
+
+Files (bytes, SHA-256):
+ayah-companion-manuscript-FR.md	2323524	4ee85b75f1837bdc4faf62f66cf8c45ad063eede42265529601c15af6f815f25
+Ayah_Companion_Tilford_French_Manuscript.pdf	1906455	c2e1a356f17385f692d809fe096b7c47cac5725dc98a99543648c17133d6ae45
+OBSERVATIONS-FR.md	8465	867ec26b17d1a688b5eeae0d0555582bdaea83026b57b900a5244da8b97bdcc7

@@ -1,0 +1,78 @@
+MANIFEST — Ayah Companion Tajik (Tajik)
+
+Shelved 2026-11-12 on Robert Tilford's authorization of 2026-11-12 ("repeat this process" through the Tier 1 line in campaign order).
+Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
+
+Status: a complete rendering of the Quran in Tajik — all 6,236 verses,
+the whole book, nothing left out — with the Arabic text alongside. DRAFT:
+native-speaker review is invited, and that review is ongoing (the book's own
+status page carries this).
+
+This manuscript is REPAIRED under Robert Tilford's ruling of 2026-11-12,
+recorded by a dated addendum in the lane record (workspace: ayah-tajik/)
+and flagged there for the native reviewer:
+
+1. Ilāh-formula class — Ruling A, 2026-11-12 ~21:22 CST
+   (ADDENDUM-TG-ILAH-REPAIR-2026-11-12.md). CHECKER-TG §4 had graded the
+   class the lane's one MATERIAL breach of its own guide decision 2 (the
+   name Аллоҳ in the "your God is one God" formula uniformly, with no
+   exceptions): five places printed Маъбуд-forms where the identical
+   formula at 2:163 already stood compliantly with Аллоҳ. Ruled and
+   executed, each place conformed to the lane's own 2:163:
+     16:22  «Маъбуди шумо як Маъбуд аст» → «Аллоҳи шумо Аллоҳи ягона аст»
+     16:51  second clause only: «Ӯ танҳо як Маъбуд аст» → «Ӯ танҳо Аллоҳи
+            ягона аст» — the verse's first clause «Ду маъбуд нагиред»
+            ("do not take two gods") stands untouched, as fenced: the dual
+            маъбуд there renders the common noun and was never in the class.
+     18:110 «маъбуди шумо як Маъбуд аст» → «Аллоҳи шумо Аллоҳи ягона аст»
+     21:108 «маъбуди шумо як Маъбуд аст» → «Аллоҳи шумо Аллоҳи ягона аст»
+     29:46  «маъбуди мо ва маъбуди шумо Як аст» → «Аллоҳи мо ва Аллоҳи шумо
+            Як аст» (printed capital Як kept)
+   Proof: exactly 5 verse blocks changed, 6,231 unchanged; 2:163 (the
+   compliant model) byte-identical before and after; the checker's reverse
+   scan after repair returns only 1:1 and 27:30 (the basmalah) — the class
+   is closed. Everywhere else, маъбуд (the generic noun — "no god but He,"
+   false gods, 28:38, and the rest) stands untouched and correct.
+
+Manuscript state of record after the repair: sha256
+19e42a202bf6f01983a5b81b711f55504d193f9d6faee05779bcd0c83b76de1d,
+2,862,057 bytes — verified before the build and identical after all work.
+The repair was verified AGAIN in the printed book by the pre-shelf check
+(verses read in print: 16:22 p. 361, 16:51 p. 366, 18:110 p. 412 — the
+18:110 page also read visually — 21:108 p. 453, 29:46 p. 560; the fenced
+first clause of 16:51 and the model 2:163 read standing unchanged).
+
+Verse 3:7, graded a MATCH by the lane's independent checker (the master's
+joint attachment carried — "ба ҷуз Аллоҳ ва онҳое, ки дар илм устуворанд,
+мегӯянд" — no re-punctuation), stands exactly as printed; the checker's
+sense confirmation rides to the native reviewer. 18:103 carries the
+master's sealed plural (Мо, "we") as printed; 38:48 carries Elisha in the
+printed form Илиё, unsettled exactly as designed across the campaign's
+new lanes. The lane's remaining reviewer items — the 2:177 recipient-word
+sense point, the named Rule A seams (70:40, 86:16, 90:1, 92:14, 68:44–45),
+the name roads (19:56 Ҳанӯх flagged; 21:85 and 38:48 transliterations as
+printed; 61:6 Аҳмад), the 5:6 washing choice and its note basis, the
+Master-term seams — stand recorded in the workspace lane record,
+unrepaired. The lane's divine-name settlement stands as printed: Аллоҳ in
+the name slots, with Парвардигор and Худо carrying their settled places.
+
+Residue gate of record: this lane is Cyrillic-script, so the gate was
+script-based, mirroring the Kazakh/Kyrgyz gates. Independent measurement
+of this manuscript's verse text (133,795 rendering tokens) found 100%
+Cyrillic: 0 Latin tokens and 0 raw [A-Za-z] runs in 6,236 of 6,236 verses
+— no English scaffold residue stands in the verse text. Inside the book,
+the only Latin-bearing elements are furniture: the quiet footer on all
+933 body pages, the 114 surah heading information lines, and the ruled
+English front matter. The manuscript of record stands in the
+full-sentence class, and its Arabic stands preserved entire: verse-paired
+against the Locked Master, 6,236 of 6,236 Arabic blocks byte-identical
+(block sequence 6,348 of 6,348).
+
+Pre-shelf independent check: 8 of 8 items PASS, no defect found, plus this
+lane's Cyrillic-residue gate PASS (0) and all five of the brief's repair
+verifications PASS in the printed book, 2026-11-12
+(~/workspace/quran-gap/TAJIK-PDF-PRESHelF-CHECK-2026-11-12.md).
+
+Files:
+  20535388  d2cd568584bbab64cf11877fcc40d7e8a654eb0cabbbb59e65f2b8157260e6f4  Ayah_Companion_Tilford_Tajik_Manuscript.pdf (934 pp)
+   2862057  19e42a202bf6f01983a5b81b711f55504d193f9d6faee05779bcd0c83b76de1d  ayah-companion-manuscript-TG.md

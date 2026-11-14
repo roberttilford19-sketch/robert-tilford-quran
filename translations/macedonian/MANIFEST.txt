@@ -1,0 +1,64 @@
+MANIFEST — Ayah Companion Macedonian (Macedonian)
+
+Shelved 2026-11-12 on Robert Tilford's authorization of 2026-11-12 ("repeat this process" through the Tier 1 line in campaign order).
+Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
+
+Status: a complete rendering of the Quran in Macedonian — all 6,236 verses,
+the whole book, nothing left out — with the Arabic text alongside. DRAFT:
+native-speaker review is invited, and that review is ongoing (the book's own
+status page carries this).
+
+This manuscript stands UNREPAIRED by tonight's line: the book reproduces
+the manuscript of record exactly as it stands (sha256
+97b4283ee2cb635c8d104c0b5e6d1a348e5ebc6b41896b5861e7c6a8338070e2,
+2,801,239 bytes — verified before the build and identical after all work).
+No repair ruling was taken on this lane.
+
+Verse 3:7, graded a MATCH by the lane's independent checker (the master's
+joint attachment carried — "освен Аллах и оние цврсто вкоренети во
+знаењето велат" — no pause, stop, or re-attachment; the checker states
+plainly that this lane does not stand with the broken Azerbaijani
+pattern), stands exactly as printed. 18:103 carries the master's sealed
+plural (the first-plural verb form "информираме") as printed; 38:48
+carries Elisha in the printed form Елиша, unsettled exactly as designed
+across the campaign's new lanes — a drafter-flagged first-occurrence form
+choice, graded MINOR, riding to the native reviewer as the lane's
+Reviewer Question 3. The lane's remaining reviewer items — CHECKER-MK's
+ten Reviewer Questions and the ten MINOR sample items (among them the
+two the checker found undisclosed: 31:4's dropped adjective "obligatory",
+the keyed зекат standing bare, and 5:6's doubled "раце и раце" for
+"hands and arms"; and the disclosed class: 20:14's double Аллах, 12:31's
+"Добар Аллах" exclamation, 25:59's by-sense rendering of the master's
+missing noun, 29:36's Медијан for the master's "Median", and the
+Богатиот epithet at 31:26, 35:15, 47:38 — the ordinary adjective "rich",
+not a Бог name-form) — stand recorded in the workspace lane record,
+unrepaired. Every counted rule in the lane reconciles exactly (charity
+зекат 13 and садака 36 keyed tokens exact, милостина 0; capitalised Бог
+name-forms 0, lowercase бог 114 of 114 slot-for-slot; Аллах 2,732
+per-verse exact; Господ 969 of 969; Владар exactly 1 at 1:4; the
+desk's 14th зекат token stands in the manuscript's own front matter, a
+methodological statement, not a verse). The lane's divine-name settlement
+stands as printed: Аллах in the name slots, Господ for the master's
+"Lord", Владар reserved to 1:4.
+
+Residue gate of record: this lane is Cyrillic-script, so the gate was the
+script-census method of the Tajik/Kazakh/Kyrgyz gates. Independent
+measurement of this manuscript's verse text (132,262 rendering tokens,
+100% Cyrillic) censused every token by script: 0 genuine English/Latin
+tokens stand in 6,236 of 6,236 verses — Latin tokens 0, raw [A-Za-z] runs
+0, no Cyrillic letter outside the Macedonian set (the specific letters
+ѓ ќ ѕ џ љ њ all present), agreeing with the lane checker's own scan.
+Inside the book, the only recurring non-verse elements are furniture:
+the quiet footer on all 899 body pages, the 114 surah heading
+information lines, and the ruled English front matter. The manuscript
+of record stands in the full-sentence class, and its Arabic stands
+preserved entire: verse-paired against the Locked Master, 6,236 of
+6,236 Arabic blocks byte-identical (block sequence 6,348 of 6,348).
+
+Pre-shelf independent check: 8 of 8 items PASS, no defect found, plus this
+lane's residue gate PASS (0), 2026-11-12
+(~/workspace/quran-gap/MACEDONIAN-PDF-PRESHelF-CHECK-2026-11-12.md).
+
+Files:
+  20413020  707b0095c518e5eb143012d1865ce700a0f426b69c1c3d85699bdadd41607a72  Ayah_Companion_Tilford_Macedonian_Manuscript.pdf (900 pp)
+   2801239  97b4283ee2cb635c8d104c0b5e6d1a348e5ebc6b41896b5861e7c6a8338070e2  ayah-companion-manuscript-MK.md

@@ -1,0 +1,7 @@
+GOVERNING-GENERATION RULING — 2026-10-25
+
+Robert Tilford ruled that the live shelf governs. For this folder, the governing live-shelf file is Quran_Recital_Tilford_ENGLISH_LOCKED_6236.pdf (1,790,974 bytes; SHA-256 cccde95d5ef228a1ef3a66a36a7f0724ba8b2ebc2b95194c8d160d3139573b46).
+
+Critical note: see CRITICAL-NOTES.md (Surah 3:7, ruled 2026-10-25).
+
+Record note: this MANIFEST.txt was created on 2026-10-25 because the English folder previously held only the locked PDF and no MANIFEST.txt.

@@ -1,0 +1,19 @@
+MANIFEST — Ayah Companion Sindhi
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 ("get them all on the shelf as quickly as possible" — his word on the live call, 2026-11-14 ~05:12 CST).
+A lane of the Q-1 Quran Gap campaign (Tier 1 era).
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Sindhi — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting native-speaker review; it is not a finished or certified
+translation, and native review is required before any use as one. No
+first-translation claim is made.
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+Lane verification of record: Independent checker: ADJUSTED PASS — MATERIAL 0 (Arabic identity proven by the ordered-subsequence method: 6,462 of 6,462 master Arabic strings in order, missing 0). A glyph-repair addendum stands in the lane record.
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-sindhi/, unrepaired.
+
+Files:
+  2773639  dd203fd798a33f34f1aa71e39a0aae6d1edde522d06cfd27019c9da71e331ceb  ayah-companion-manuscript-SD.md

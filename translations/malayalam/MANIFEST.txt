@@ -1,0 +1,30 @@
+MANIFEST — Ayah Companion Malayalam (മലയാളം)
+
+Shelved 2026-11-12 on Robert Tilford's authorization of 2026-11-12 ("repeat this
+process" — the Tier 1 PDF process order, extended past the Turkic five to the
+remaining Tier 1 languages in campaign order; Malayalam is the first of those).
+Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
+
+Status: a complete rendering of the Quran in Malayalam — all 6,236 verses, the
+whole book, nothing left out — with the Arabic text alongside. DRAFT: native-speaker
+review is invited, and that review is ongoing (the book's own status page carries
+this).
+Verse 3:7, graded a MATCH by the lane's independent checker (the master's joint
+attachment preserved), stands exactly as printed; 18:103 keeps the master's sealed
+"We" ("ഞങ്ങൾ") as printed. The lane's open questions stand recorded in the
+workspace lane record, unrepaired.
+
+Residue gate of record: independent measurement of this manuscript's verse text
+found 0 Latin/English tokens in 6,236 of 6,236 verses (323,031 rendering tokens,
+100% Malayalam script), and 0 inside the book's 6,236 verse lines — the manuscript
+of record stands in the full-sentence class. The cluster-2 copy (3,908,885 bytes)
+was measured with the same instrument and also carries 0 residue; it remains
+found-but-not-used, exactly as the ledger records.
+
+Pre-shelf independent check: 8 of 8 items PASS, no defect found, plus this lane's
+residue gate PASS, 2026-11-12
+(~/workspace/quran-gap/MALAYALAM-PDF-PRESHelF-CHECK-2026-11-12.md).
+
+Files:
+  24324903  92a3755a7b77e45ba37ca8581b7db20066e336218619df82b8c0d8920ac7db15  Ayah_Companion_Tilford_Malayalam_Manuscript.pdf (1027 pp)
+   3915009  570c23a2895b4cf0eb111ae7c896ca39c1f8fdd5d9c78a877b0e23e5a3f2c5b8  ayah-companion-manuscript-ML.md

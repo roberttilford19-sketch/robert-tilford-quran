@@ -1,0 +1,73 @@
+MANIFEST — Ayah Companion Kurmanji (Kurdish Kurmanji)
+
+Shelved 2026-11-12 on Robert Tilford's authorization of 2026-11-12 ("repeat
+this process" through the Tier 1 line in campaign order).
+Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
+
+Status: a complete rendering of the Quran in Kurdish (Kurmanji) — all 6,236
+verses, the whole book, nothing left out — with the Arabic text alongside.
+DRAFT: native-speaker review is invited, and that review is ongoing (the
+book's own status page carries this).
+
+This manuscript stands UNREPAIRED by tonight's line: the book reproduces
+the manuscript of record exactly as it stands (sha256
+03c830159de61d3dd8cf083183b5c4caa720105f3b19307b0dcfb6673d0f75be,
+2,249,491 bytes — verified before the build and identical after all work).
+
+Verse 3:7 stands exactly as printed under ROBERT'S RULING A of 2026-11-12
+(~21:20 CST; record
+~/workspace/quran-gap/thingies-quran-2026-11-12/RULING-KURMANJI-3-7-2026-11-12.md).
+The lane's independent checker graded the verse MATERIAL (CHECKER-KMR §3,
+flag KMR-R01-160, the lane's only MATERIAL): the master's joint attachment
+is not kept — the exception phrase "ji Ellah pê ve" ("except God") is
+closed before the verb "nizane" ("does not know"), and "û ên ku di zanînê
+de bi kûrahî cih bûne" ("and those firmly rooted in knowledge") stands
+after the completed clause with its own verb "dibêjin" ("say"), so as
+printed the firmly rooted are sayers only — the other classical reading of
+the verse, not the master's. Under the ruling, no repair is authorized and
+no hold is placed on the lane; the flag remains on the record for the
+native reviewer, under the Azerbaijani 3:7 precedent (Ruling B,
+2026-11-12) governing the identical exegetical fork. 18:103 carries the
+master's sealed plural as printed (the capitalized first-plural subject
+"Em" — "Ma Em ê we ji windakerên herî mezin ên di karên wan de agahdar
+bikin?"); 38:48 carries Elisha in the printed form Elîsa, unsettled
+exactly as designed across the campaign's new lanes, riding to the native
+reviewer with the lane's other open questions. The lane's remaining
+reviewer items — CHECKER-KMR's eight MINOR sample items (disclosed seams,
+disclosed form choices, sense-preserving explicitations; among them
+2:163's by-sense mercy pair and 69:12's spelled-out "Em") — stand
+recorded in the workspace lane record, unrepaired. Every counted system
+in the lane reconciles exactly (the basmalah fixed form at 114
+occurrences character-identical; capitalized Xwede/Xweda/Xuda as name
+renderings 0; the Malik-stem exactly once, at 1:4 in ezafe form
+"Malikê"; the desk's 14th zekat token stands in the manuscript's own
+front matter, a methodological statement, not a verse). The lane's
+divine-name settlement stands as printed: Ellah in the name slots,
+lowercase xwedê for the master's "god", Perwerdegar for the master's
+"Lord".
+
+Residue gate of record: this lane is Latin-script, so the gate was the
+lexical method of the Bosnian/Nyanja/Zulu/Lingala gates. Independent
+measurement of this manuscript's verse text (143,805 rendering tokens,
+100% Latin script; tokens containing any non-Latin letter 0; the
+non-ASCII inventory exactly the Kurmanji diacritic set ç ê î ş û plus
+capitals) scanned an English probe set and context-audited every raw hit
+class: 0 genuine English tokens stand in 6,236 of 6,236 verses — every
+hit is a Kurmanji homograph (me/Me the first-plural pronoun, we/We the
+second-plural pronoun, her/Her "every", in the plural copula "are",
+an/An "or", a the feminine ezafe particle, be the subjunctive stem of
+"to be", were the subjunctive of "hatin"). Inside the book, the only
+recurring non-verse elements are furniture: the quiet footer on all 862
+body pages, the 114 surah heading information lines, and the ruled
+English front matter. The manuscript of record stands in the
+full-sentence class, and its Arabic stands preserved entire:
+verse-paired against the Locked Master, 6,236 of 6,236 Arabic blocks
+byte-identical (block sequence 6,348 of 6,348).
+
+Pre-shelf independent check: 8 of 8 items PASS, no defect found, plus this
+lane's residue gate PASS (0 genuine), 2026-11-12
+(~/workspace/quran-gap/KURMANJI-PDF-PRESHelF-CHECK-2026-11-12.md).
+
+Files:
+  20282242  62231940353ac364ce8324bc9df478719d44feaacb3dfb1708cb806297818e42  Ayah_Companion_Tilford_Kurmanji_Manuscript.pdf (863 pp)
+   2249491  03c830159de61d3dd8cf083183b5c4caa720105f3b19307b0dcfb6673d0f75be  ayah-companion-manuscript-KMR.md

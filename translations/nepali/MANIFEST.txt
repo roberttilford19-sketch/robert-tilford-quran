@@ -1,0 +1,40 @@
+MANIFEST — Ayah Companion Nepali (नेपाली)
+
+Shelved 2026-11-12 on Robert Tilford's authorization of 2026-11-12 ("repeat this
+process" — the Tier 1 PDF process order, extended past the Turkic five to the
+remaining Tier 1 languages in campaign order; Nepali follows Malayalam).
+Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
+
+Status: a complete rendering of the Quran in Nepali — all 6,236 verses, the
+whole book, nothing left out — with the Arabic text alongside. DRAFT: native-speaker
+review is invited, and that review is ongoing (the book's own status page carries
+this).
+Verse 3:7, graded a MATCH by the lane's independent checker (the master's joint
+attachment preserved), stands exactly as printed; 18:103 keeps the master's sealed
+"We" ("हामी") as printed; 38:48 keeps Elisha in the candidate form अलिशा,
+UNSETTLED as designed. The lane's one MATERIAL — the dropped negation at 2:282 —
+was repaired before this line began, by dated addendum restoring the negation
+(नघटाओस्), and the repaired reading stands in this book, confirmed visually at
+shelving (p. 55). The lane's open questions stand recorded in the workspace lane
+record, unrepaired.
+
+Hash gate of record: the manuscript below is byte-identical to the lane's closing
+hash of record — sha256 cfd75490c1764bda3c9fbdc77965a9f2f85f0f2beb4eff295aa57c35f7a3b465
+(the hash that includes the 2:282 addendum repair; ledger Fence 3). Verified before
+building and again after all work: identical; the manuscript was never modified by
+this line.
+
+Residue gate of record: independent measurement of this manuscript's verse text
+found 0 Latin/English tokens in 6,236 of 6,236 verses (295,652 rendering tokens,
+100% Devanagari), and 0 inside the book's 6,236 verse lines — the manuscript
+of record stands in the full-sentence class. The cluster-2 copy (3,632,546 bytes)
+was measured with the same instrument and also carries 0 residue; it remains
+found-but-not-used, exactly as the ledger records.
+
+Pre-shelf independent check: 8 of 8 items PASS, no defect found, plus this lane's
+hash gate and residue gate PASS, 2026-11-12
+(~/workspace/quran-gap/NEPALI-PDF-PRESHelF-CHECK-2026-11-12.md).
+
+Files:
+  24510007  f322b0c31296a05f50e50a5b603a66ec9a6cbc045ab87005b8e8ffb3e4530771  Ayah_Companion_Tilford_Nepali_Manuscript.pdf (824 pp)
+   3675221  cfd75490c1764bda3c9fbdc77965a9f2f85f0f2beb4eff295aa57c35f7a3b465  ayah-companion-manuscript-NE.md

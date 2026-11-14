@@ -1,0 +1,37 @@
+MANIFEST — Ayah Companion Palenquero
+
+Shelved 2026-11-14 on Robert Tilford's explicit authorization of 2026-11-14
+("get that up there right away as soon as possible" — his word on the live
+call, 2026-11-14 ~05:21 CST).
+This lane was held out of the 2026-11-14 shelving run only by a desk
+mislabel: it had been classed among non-language artifacts in error. It is a
+genuine, complete language lane, and it is shelved now on the order above.
+Lane built 2026-10-04 (lane record: ~/workspace/ayah-palenquero/).
+
+Status: a complete rendering of the Quran in Palenquero — all 6,236 verses,
+the whole book, nothing left out — with the Arabic text alongside.
+DRAFT — NOT REVIEWED: a working draft awaiting native-speaker review; it is
+not a finished or certified translation. On the lane's own terms, native
+Palenquero review and San Basilio community review are invited, and
+community review is required before any use of this draft as a finished
+translation. No first-translation claim is made.
+Verse-marker re-count at shelving (2026-11-14): 6,236 of 6,236 markers,
+first 1:1, last 114:6.
+Lane verification of record: 114/114 headings, 6,236 verses, Arabic 6,462
+runs identical to master/meta, 15/15 prostration markers, 0 [MISSING]
+(lane MANIFEST, ~/workspace/ayah-palenquero/MANIFEST.txt).
+
+Record variance, carried openly: the lane MANIFEST of 2026-10-04 lists the
+manuscript at 2,225,220 bytes, SHA-256
+d1fa7fc34a78bff50a9f9a4481cdc04e4f3cbd7d33adfbeb4709eeb3c66cef3a. The disk
+file of record today — the file shelved here — measures 2,225,122 bytes,
+SHA-256 b4d4ec2f08236dc20ccc49f45cbb75c04347428e7b61ea8098fd4171ba0561a2:
+98 bytes smaller, the change undated and unexplained on the present record.
+Reconciliation of that 98-byte difference is owed. Verse identity is
+unaffected: the shelved file re-counts at exactly 6,236 verse markers,
+first 1:1, last 114:6. The PDF below matches the lane MANIFEST exactly,
+byte for byte.
+
+Files:
+  2225122  b4d4ec2f08236dc20ccc49f45cbb75c04347428e7b61ea8098fd4171ba0561a2  ayah-companion-manuscript-PLN.md
+  1746632  c27b0b6707882ad90a020c10bf5791668ba3e1a2f44ec08fa771f8a110b4ec2f  Ayah_Companion_Tilford_Palenquero_Manuscript.pdf

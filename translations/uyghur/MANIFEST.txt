@@ -1,0 +1,36 @@
+MANIFEST — Ayah Companion Uyghur (ئۇيغۇرچە)
+
+Shelved 2026-11-12 on Robert Tilford's authorization of 2026-11-12 ("repeat this process now through the Turkish five"). Uyghur is the last of the Turkic five.
+Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
+
+Status: a complete rendering of the Quran in Uyghur — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT: native-speaker review
+is invited, and that review is ongoing (the book's own status page carries this).
+Verse 3:7 stands exactly as printed: the lane's independent checker graded the
+pre-repair text a MATERIAL drift (a full stop after "except God," instructed by the
+desk's own batch brief); a dated desk addendum repaired only that clause under the
+master's punctuation before this book was built, so the printed text carries the
+master's joint attachment — "except Allah and those firmly rooted in knowledge" as
+the knowers. The master's "seeking descent" rendered by sense as بۆلۈنۈشنى ئىزدەپ
+("seeking division") stands as printed, flagged on the lane record for the reviewer.
+Verse 18:103 keeps the master's sealed "We" ("بىز") as printed. The lane's open
+questions stand recorded in the workspace lane record, unrepaired.
+
+Residue gate of record: the campaign's scaffold description was proven at shelving to
+belong to the cluster-1 duplicate manuscript, not to this one. Independent measurement
+of this manuscript's verse renderings found 0 Latin tokens in 6,236 of 6,236 verses
+(104,482 rendering tokens, 100% Arabic script), confirmed by an uncapped raw
+[A-Za-z] scan (also 0); inside the book, every Latin-bearing body line is the quiet
+footer or a surah heading information line (1,016 lines = 902 footers + 114 headings),
+and verse-labelled lines carrying Latin number 0. The cluster-1 copy, measured with
+the same instrument, carries 4,522 standing Latin tokens in 2,780 of its 6,236 verse
+lines; it remains found-but-not-used, exactly as the ledger records. The manuscript
+of record stands in the full-sentence class.
+
+Pre-shelf independent check: 8 of 8 items PASS, no defect found, plus this lane's
+extra Latin-residue gate PASS, 2026-11-12
+(~/workspace/quran-gap/UYGHUR-PDF-PRESHelF-CHECK-2026-11-12.md).
+
+Files:
+  22611811  464b9aab5e4746cde0d4956ec6c6e00645e181b678c7ef3f3928a9d8a37ddce0  Ayah_Companion_Tilford_Uyghur_Manuscript.pdf (905 pp)
+   2962315  4364a9e395ed5753ed761e40e597da88833c7be363b49294e2225303e24fb95b  ayah-companion-manuscript-UG.md

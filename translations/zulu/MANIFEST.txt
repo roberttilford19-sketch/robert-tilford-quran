@@ -1,0 +1,41 @@
+MANIFEST — Ayah Companion Zulu (isiZulu)
+
+Shelved 2026-11-12 on Robert Tilford's authorization of 2026-11-12 ("repeat this process" through the Tier 1 line in campaign order).
+Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
+
+Status: a complete rendering of the Quran in Zulu — all 6,236 verses,
+the whole book, nothing left out — with the Arabic text alongside. DRAFT:
+native-speaker review is invited, and that review is ongoing (the book's own
+status page carries this).
+Verse 3:7, graded a MATCH by the lane's independent checker (the master's joint
+attachment preserved, ambiguity intact), stands exactly as printed; 18:103 keeps
+the master's sealed "We" (the subject concord "Si-") as printed; 38:48 carries
+Elisha in the printed form uElisha, unsettled exactly as designed (the lane's
+Reviewer Question 3). The lane's open items — the six MINOR anomalies of
+CHECKER-ZU (the Ishmael triplet's standing doublet, the three-way "Quran"
+spelling incl. the q-for-qāf tokens and title 113, the lowercase generic
+umbusi tokens, the sentence-initial capitalisation split, the elided
+njengesadaka) — stand recorded in the workspace lane record, unrepaired. The
+lane's divine-name settlement stands as printed: uNkulunkulu throughout.
+
+Residue gate of record: this lane is Latin-script, so the gate was lexical.
+Independent measurement of this manuscript's verse text (88,163 rendering
+tokens) found 0 genuine English tokens in 6,236 of 6,236 verses: a ~140-word
+English function-word scan hit only audited native Zulu forms (the noun into
+"thing" ×41; the conjunctive prefix no- ×4; hyphenated prefix tails i- ×6;
+the possessive be- ×1; the hortatory make ×1), and a ~350-word English
+content-word scan hit only the possessive wake "his" (12:77) and the verb
+life "come" of -fika (43:66, 47:18) — every class context-audited as native.
+Inside the book, the only recurring Latin furniture beyond the book's own
+Zulu text is the quiet footer on all 913 body pages and the 114 surah
+heading information lines — the manuscript of record stands in the
+full-sentence class. The Purple REPORT run over the same manuscript
+returned the same verdict (G-7: 0 genuine).
+
+Pre-shelf independent check: 8 of 8 items PASS, no defect found, plus this
+lane's extra English-residue gate PASS, 2026-11-12
+(~/workspace/quran-gap/ZULU-PDF-PRESHelF-CHECK-2026-11-12.md).
+
+Files:
+  20368638  e5a937fb21dd1450e5c51385d0c83ca24bf9bf635928d8a94ad723ecb5556a8a  Ayah_Companion_Tilford_Zulu_Manuscript.pdf (916 pp)
+   2241440  cfbfa1c607d6a1bf904509d7e24bddbbf34e3eedd16c4f48b68374e9a4ece32a  ayah-companion-manuscript-ZU.md

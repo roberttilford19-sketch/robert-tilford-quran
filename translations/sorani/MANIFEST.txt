@@ -1,0 +1,76 @@
+MANIFEST — Ayah Companion Sorani (Kurdish Sorani)
+
+Shelved 2026-11-12 on Robert Tilford's authorization of 2026-11-12 ("repeat
+this process" through the Tier 1 line in campaign order).
+Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
+
+Status: a complete rendering of the Quran in Kurdish (Sorani) — all 6,236
+verses, the whole book, nothing left out — with the Arabic text alongside.
+DRAFT: native-speaker review is invited, and that review is ongoing (the
+book's own status page carries this).
+
+This manuscript stands in its post-repair state of record: the lane's one
+mechanical residue — a single alef-maksura character (U+0649) at 14:INTRO —
+was repaired at the desk before this line began (one character, U+0649 ->
+U+06CC; dated addendum in CHECKER-CKB), and the book reproduces the repaired
+manuscript exactly as it stands (sha256
+728f32aba570051799a543b01ebf0dbf23c736525c936c8423b5dca411b2ded5,
+2,734,416 bytes — verified before the build and identical after all work;
+pre-repair hash e63ad48dbbd7861b6408ce16c9094f2b6eaca1da6fb4db39bd385084998881b7,
+same byte size). Nothing was repaired or altered by tonight's line.
+
+Verse 3:7 stands exactly as printed, graded MATCH by the lane's independent
+checker (CHECKER-CKB §3): the master's joint attachment IS kept — the
+exception phrase «جگە لە … نەبێت» ("except …") opens before خوا and does
+not close until نەبێت, which stands after the firmly rooted in knowledge,
+so God and the firmly rooted stand inside the exception together and "they
+say" follows as their speech verb. This is the attachment the Azerbaijani
+and Kurmanji lanes broke (each ruled on by Robert on 2026-11-12 and left
+flagged for their native reviewers); Sorani holds it, so no ruling item
+arises in this lane. 18:103 carries the master's sealed plural as printed:
+the Sorani is pro-drop and prints no explicit pronoun, but the verb
+ئاگادار بکەینەوە ("shall we inform") is first-person-plural in form — the
+lane checker's whole-lane Rule A scan found no singularization anywhere
+(§7). 38:48 carries Elisha in the printed form ئەلیشا, unsettled exactly
+as designed across the campaign's new lanes — the traditional اليسع not
+substituted — named by Batch 9's flag as a first-occurrence form choice
+for reviewer ruling #10. The lane's remaining reviewer items stand
+recorded in the workspace lane record, unrepaired: the U+0647 seam (one
+orthography item, 35 occurrences in 11 word forms — reviewer ruling #1)
+and the خوان name-form in possessive slots (14 tokens in 13 verses —
+reviewer ruling #2), with the lane's five reviewer questions; and the
+U+0060 grave accent at 3:193, graded MATCH — the master's own mark,
+preserved character-for-character. Every counted system in the lane
+reconciles exactly (the خوا division slot-for-slot across all 6,350
+lines; the lowercase خوایەک/خواکان division 114 of 114; پەروەردگار 969
+of 969; زەکات 13 of 13 at the keyed verses only; سەدەقە 36 of 36; the
+مالیک-stem exactly once, at 1:4; خاوەن exactly 10 at the counted set
+only; the refrain string-identical 31 of 31; the basmalah 114 of 114).
+The lane's divine-name settlement stands as printed: خوا in the name
+slots (Allah-family and Khuda-as-name renderings barred, 0),
+خوایەک/خواکان in the lowercase slots, پەروەردگار for the master's "Lord".
+
+Residue gate of record: this lane is Arabic-script, so the gate was the
+script method of the Dari gate. Independent measurement of this
+manuscript's verse text (109,352 rendering tokens, 100% Arabic script;
+tokens containing any non-Arabic-script letter 0; Latin tokens 0; raw
+[A-Za-z] runs 0; verses containing even one Latin token 0 of 6,236; no
+"%" and no U+FFFD) — 0 Latin tokens stand in 6,236 of 6,236 verses; there
+were no hits to audit. Inside the book, the only recurring non-verse
+elements are furniture: the quiet footer on all 1,027 body pages, the 114
+surah heading information lines, and the ruled English front matter.
+
+The book: Ayah_Companion_Tilford_Sorani_Manuscript.pdf — 1,028 pages,
+22,623,583 bytes, sha256
+93f4e9bc82123d315b997dc1f309f956f9616bf30f95284657cb41a9ff2345b8.
+Independent pre-shelf check: 8 of 8 PASS, no defect found
+(~/workspace/quran-gap/SORANI-PDF-PRESHelF-CHECK-2026-11-12.md) — verse
+references 6,236 of 6,236 in three independent extractions, headings 114
+of 114, the master's Arabic lines 6,348 of 6,348 byte-identical in order
+in the manuscript, whole-book stamp scan 0, the book ending whole at
+114:6 with its Arabic. Build disclosure: the first compile overflowed
+the ruled one status page by about two lines; a layout-only accommodation
+scoped to this lane (status text at 10.5 pt / 0.68 em, dated comment in
+the builder; wording untouched) restored the one page and the book was
+recompiled — all figures above are the recompiled book, and the first
+compile was never shelved.

@@ -1,0 +1,69 @@
+MANIFEST — Ayah Companion Yucatec Maya
+
+Shelved 2026-11-14 on Robert Tilford's explicit authorization of 2026-11-14
+(his word on the live call, 2026-11-14 ~05:24 CST: "get those up and out and
+on that shelf"). This shelving supersedes, by Robert's own ruling of
+2026-11-14, the native-review-before-publishing gate he set at build time
+(2026-11-11/12): the gate is lifted for shelving as a public draft inviting
+review. Nothing is promoted, gifted, or announced by this shelving; the
+manuscript's status — here and inside the book — remains DRAFT — NOT REVIEWED.
+Built 2026-11-11/12 from the Locked English Master only (build record:
+~/workspace/ayah-yucatec-maya/BUILD-REPORT-2026-11-12.md).
+
+Status: a complete rendering of the Quran in Yucatec Maya — all 6,236 verses,
+the whole book, nothing left out — with the Arabic text alongside. DRAFT — NOT
+REVIEWED: a working draft awaiting native-speaker review; it is not a finished
+or certified translation. No first-translation claim is made: an anonymous
+rendering of the Quran into Yucatec Maya already exists on the web; in this
+build it served as a witness for collation only (at its Fatihah page), never
+as a source.
+Verse-marker re-count at shelving (2026-11-14): 6,236 of 6,236 markers,
+first 1:1, last 114:6.
+Lane verification of record: final independent sweep 2026-11-12 — 54 of 54
+source files PASS, 0 FAIL; the manuscript gapless at 114 of 114 surahs;
+Arabic byte-identical 6,236 of 6,236 against the verified Arabic source;
+after the Addendum 29 settlement (six forgiveness-string recasts) the
+manuscript was reassembled and the mini re-verification passed entire.
+Limits stand disclosed in the build report: English byte-identity provable
+for 3,283 of 6,236 verses (the earlier blocks print no English line); witness
+collation performed only at the witness's Fatihah page; Bricker 1998 never
+reachable in full.
+Carried to the native reviewer (build report, Section 7, carried by name):
+- Satan rendered as Kisin — the dictionaries' settled word for the Devil,
+  carrying its older Maya underworld meaning; the pilot report names it the
+  one term where Robert's own eye was most wanted as well. It stands open
+  with the pilot's other three questions for Robert: the name of God (Allah
+  retained), the "greatly" placement in the Beneficent and Merciful pair,
+  and Lord of the Worlds.
+- The anomaly at 26:91 stands as printed — the Hell word where the master
+  prints "the Blaze" over the same Arabic term — entered as a named anomaly
+  bound to that verse alone, citable as precedent in neither direction.
+- The identification of the oath-witness at 85:3 stands open in full.
+- The phrase aj k'aas (a bad or wicked man), in its singular and plural
+  dresses, stands unentered as a desk class phrase; the entry-or-replace
+  judgement rides open, its later seat at 92:15 re-grounded as a plain
+  paraphrase for that seat only.
+- Verse 6:139 stands quarantined and unrepaired, its rendering for "their
+  allegations" struck by an early addendum with no replacement settled; the
+  verse is expressly not a model for anything.
+- The milk word stands open: its one proposed carrier was refused for a
+  false inheritance claim, and its verse (47:15) rides on a flagged
+  stopped-short paraphrase, no dictionary page for the refused word ever
+  opened on this record.
+- The Exalted question — whether its governing phrase speaks of height or of
+  power — stands reserved entire, its one entered frame bound to its single
+  verse.
+- The oath force at every Tumen seat stands expressly unsettled: the
+  construction is confirmed; what force a native ear hears in it is not.
+- Also carried by name: the two disclosed levellings in the Surah 83 block;
+  the two stems p'atal and p'aatal (ruled two on the present record); the
+  superlative mechanism's hearings at the divine seats, among them the Most
+  High seats in Surahs 87 and 92; the heavy-day phrase's weight-range
+  question; and every provisional entry of the term lock
+  (TERM-LOCK-YUA-DRAFT-2026-11-11.md with Addenda 1–29).
+The full lane record (build report, term lock and its addenda, build notes,
+verification and checker records, flags) stands in the workspace lane folder
+~/workspace/ayah-yucatec-maya/, unrepaired.
+
+Files:
+  2683074  450d017767b14b35bf132fed0de3b1c583dc0b8ff550eea9fa81bfd6b52bc5b8  ayah-companion-manuscript-YUA.md

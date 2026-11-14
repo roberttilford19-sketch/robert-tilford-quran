@@ -1,0 +1,67 @@
+MANIFEST — Ayah Companion Bosnian (Bosnian)
+
+Shelved 2026-11-12 on Robert Tilford's authorization of 2026-11-12 ("repeat this process" through the Tier 1 line in campaign order).
+Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
+
+Status: a complete rendering of the Quran in Bosnian — all 6,236 verses,
+the whole book, nothing left out — with the Arabic text alongside. DRAFT:
+native-speaker review is invited, and that review is ongoing (the book's own
+status page carries this).
+
+This manuscript stands UNREPAIRED by tonight's line: the book reproduces
+the manuscript of record exactly as it stands (sha256
+bf436635e8ce8cdcbbb92aebe986a3a906433c7a6067a55445e34d7984621010,
+2,192,547 bytes — verified before the build and identical after all work).
+No repair ruling was taken on this lane; the Purple run record's note of a
+coordinator-audit script once mis-transcribing this lane's hash is closed:
+the hash above is the fresh computation of record and agrees with the
+lane's own MANIFEST and CHECKER-BS to the character.
+
+Verse 3:7, graded a MATCH to the master by the lane's independent checker
+(the master's joint attachment carried — "osim Allaha i oni čvrsto
+ukorijenjeni u znanju govore" — no full stop, no re-attachment), stands
+exactly as printed; the checker records the seam itself (the nominative
+after "osim") as the native reviewer's ruling, the Bosnian being exactly
+as ambiguous as the master. 18:103 carries the master's sealed plural
+("Hoćemo li vas Mi obavijestiti…") as printed; 38:48 carries Elisha in the
+printed form Elišu, unsettled exactly as designed across the campaign's
+new lanes. The lane's remaining reviewer items — CHECKER-BS's nine open
+questions (script stance; the Allah/Bog division with its one disclosed
+20:14 formula token, MINOR; the charity rule's English keying, zekat 13
+and sadaka 36 exact; the divine Protector/Guardian word, čuvar standing
+at 86:4, 12:64 and 18:26; the Lord/Master boundary; Prophet naming,
+Vjerovjesnik and Poslanik both standing; basmalah punctuation and the
+capitalised «U Ime» at 96:1), the four MINOR sample verses (7:54, 33:59,
+49:13, 67:15), the 42:6 generic «gospodare», and the "Sâm" circumflex at
+4:88, 5:72 and 6:19 (the one item the checker found disclosed in no flags
+file; orthographic, MINOR, not a defect of sense) — stand recorded in the
+workspace lane record, unrepaired. The lane record's own corrections also
+stand there: the guide's decision-11 entry and Batch 10's 48:8 flag rest
+on a display-masking misreading (no literal token stands in any slice),
+and the desk's sadak-stem count of 35 reads 36 case-insensitively. The
+lane's divine-name settlement stands as printed: Allah in the name slots,
+Gospodar for the master's "Lord", Vladar reserved to 1:4.
+
+Residue gate of record: this lane is Latin-script, so the gate was the
+lexical method of the Nyanja/Zulu/Lingala gates. Independent measurement
+of this manuscript's verse text (123,373 rendering tokens, 100% Latin
+script) probed the renderings against an English word list and
+context-audited every hit class: 0 genuine English tokens stand in 6,236
+of 6,236 verses — every raw hit is a documented Bosnian homograph (the
+conjunctions i and a; the pronoun on; the demonstrative to; the
+indefinite particle god in ko god / šta god / kad god; the pronoun me;
+the preposition do; the tail of Kur'an). Inside the book, the only
+recurring non-verse elements are furniture: the quiet footer on all 863
+body pages, the 114 surah heading information lines, and the ruled
+English front matter. The manuscript of record stands in the
+full-sentence class, and its Arabic stands preserved entire: verse-paired
+against the Locked Master, 6,236 of 6,236 Arabic blocks byte-identical
+(block sequence 6,348 of 6,348).
+
+Pre-shelf independent check: 8 of 8 items PASS, no defect found, plus this
+lane's residue gate PASS (0 genuine), 2026-11-12
+(~/workspace/quran-gap/BOSNIAN-PDF-PRESHelF-CHECK-2026-11-12.md).
+
+Files:
+  20250538  a96753864528c420acb7641a098d503c8747aff6a6044d1ba47542180d32c5db  Ayah_Companion_Tilford_Bosnian_Manuscript.pdf (864 pp)
+   2192547  bf436635e8ce8cdcbbb92aebe986a3a906433c7a6067a55445e34d7984621010  ayah-companion-manuscript-BS.md

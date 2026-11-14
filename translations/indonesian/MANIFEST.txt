@@ -1,0 +1,28 @@
+GOVERNING-GENERATION RULING — 2026-10-25
+Ruled by Robert Tilford on 2026-10-25: the LIVE SHELF governs. The live-shelf file below is the governing
+generation for this folder in this repository (roberttilford19-sketch/robert-tilford-quran, main at
+30eb7537296b0b167d6c46063f21ec92cb03f22d, fresh fetch verified against the remote on 2026-10-25).
+
+GOVERNING FILE (live shelf): ayah-companion-manuscript-ID.md | 2402076 bytes | SHA-256 90d29a041bb051126afed75b931cdd52a14143525c45dc4fb517e60a1b6de1dd
+
+This header SUPERSEDES every conflicting byte-size or SHA-256 statement for the governing file in the older
+MANIFEST text below. The older text is retained unchanged as the prior record: the prior MANIFEST generation
+is superseded, not erased. No manuscript text was changed by this correction.
+
+History note: the three-way reconciliation of 2026-10-24 found the prior MANIFEST generation for this language byte-identical to the archive.org deposit copy, while the live shelf file above is a byte-distinct, structurally exact generation (114 surahs / 6,236 verses in exact sequence). The archive.org deposit is unchanged by this ruling; for this repository's record, the live shelf file governs.
+
+--- ORIGINAL MANIFEST TEXT BELOW (pre-ruling record) ---
+
+Item: ayah-companion-tilford-indonesian-manuscript
+Title: Ayah Companion — INDONESIAN MANUSCRIPT (Tilford Quran)
+Creator: Robert Tilford
+Uploaded: 2026-10-03
+Status: INDONESIAN MANUSCRIPT — REVIEW DRAFT (not a final edition).
+Completeness: 114 surahs / 6,236 verses, Arabic preserved verse by verse, verified 2026-10-03 (counts, sequence, Arabic byte-identity).
+Rule: Quran alone; zakat carries no percentage (the Quran gives none). Freely given to the world; copies welcomed.
+This is not claimed as the first Indonesian Quran translation; the existing Indonesian tradition (incl. Kementerian Agama) is acknowledged.
+
+Files (bytes, SHA-256):
+ayah-companion-manuscript-ID.md	2402515	e98e71cb53590c87f2ad281986113c24509ba26195da79bcfa359e6d5d052fbc
+Ayah_Companion_Tilford_Indonesian_Manuscript.pdf	1934139	b04d6c7bf2be4a21b6030e95689b845d1c01fea6a0dcac5a4a68cd61de822225
+OBSERVATIONS-ID.md	4608	e08d9260e67688ca80fe836d5fff16dbd9884e68878460f64d7c90afd583465c

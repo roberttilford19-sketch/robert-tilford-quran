@@ -1,0 +1,42 @@
+MANIFEST — Ayah Companion Lingala (Lingala)
+
+Shelved 2026-11-12 on Robert Tilford's authorization of 2026-11-12 ("repeat this process" through the Tier 1 line in campaign order).
+Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
+
+Status: a complete rendering of the Quran in Lingala — all 6,236 verses,
+the whole book, nothing left out — with the Arabic text alongside. DRAFT:
+native-speaker review is invited, and that review is ongoing (the book's own
+status page carries this).
+Verse 3:7, graded a MATCH by the lane's independent checker (the master's joint
+attachment preserved, ambiguity intact), stands exactly as printed; 18:103 keeps
+the master's sealed "We" (the subject prefix "To-" in Tokoloba) as printed;
+38:48 carries Elisha in the printed form Elisa, unsettled exactly as designed
+(the lane's Reviewer Question 7). The lane's open items — CHECKER-LN's standing
+reviewer items (the Ismaili/Ismaeli and Zakariya/Zakaria name doublets, the
+Mokonzi practice question Q1, the Ndako ya Losambo ya Mosantu / Ndako ya
+Mosantu split, eyambelo vs lingomba, the unflagged bakonzi/babateli plurals
+and the R4 flags precision gap, and Elisa's confirmation at 38:48) — stand
+recorded in the workspace lane record, unrepaired. The lane's divine-name
+settlement stands as printed: Nzambe in the name slots, lowercase nzambe in
+the common-noun slots.
+
+Residue gate of record: this lane is Latin-script, so the gate was lexical.
+Independent measurement of this manuscript's verse text (141,173 rendering
+tokens) found 0 genuine English tokens in 6,236 of 6,236 verses: a ~140-word
+English function-word scan hit only audited native Lingala forms (the
+conjunction to "or" ×495; the Arabic proper name at-Tariq ×2), and a ~350-word
+English content-word scan hit only the relative pronoun eye ×2 and the letter
+name Sin ×4 — every class context-audited as native; the standalone e ×229 is
+the Lingala vocative particle. Inside the book, the only recurring Latin
+furniture beyond the book's own Lingala text is the quiet footer on all 921
+body pages and the 114 surah heading information lines — the manuscript of
+record stands in the full-sentence class. The Purple REPORT run over the same
+manuscript returned the same verdict (G-7: 0 genuine).
+
+Pre-shelf independent check: 8 of 8 items PASS, no defect found, plus this
+lane's extra English-residue gate PASS, 2026-11-12
+(~/workspace/quran-gap/LINGALA-PDF-PRESHelF-CHECK-2026-11-12.md).
+
+Files:
+  20378725  8b355740f3801eab01e0fd76aef3f368290550bf164c342399e6bc8db28eed56  Ayah_Companion_Tilford_Lingala_Manuscript.pdf (924 pp)
+   2292475  114ab6489f81351fe3ea7bdd300f07472a163b308714d8594b77e872840ec4ad  ayah-companion-manuscript-LN.md

@@ -1,0 +1,34 @@
+GOVERNING-GENERATION RULING — 2026-10-25
+Ruled by Robert Tilford on 2026-10-25: the LIVE SHELF governs. The live-shelf file below is the governing
+generation for this folder in this repository (roberttilford19-sketch/robert-tilford-quran, main at
+30eb7537296b0b167d6c46063f21ec92cb03f22d, fresh fetch verified against the remote on 2026-10-25).
+
+GOVERNING FILE (live shelf): ayah-companion-manuscript-ES.md | 2247391 bytes | SHA-256 8ec6afb9024ea2dfa6817ef51f58ce2443fdd57f3a1bc0d8e6dc11a493d919d8
+
+This header SUPERSEDES every conflicting byte-size or SHA-256 statement for the governing file in the older
+MANIFEST text below. The older text is retained unchanged as the prior record: the prior MANIFEST generation
+is superseded, not erased. No manuscript text was changed by this correction.
+
+History note: the three-way reconciliation of 2026-10-24 found the prior MANIFEST generation for this language byte-identical to the archive.org deposit copy, while the live shelf file above is a byte-distinct, structurally exact generation (114 surahs / 6,236 verses in exact sequence). The archive.org deposit is unchanged by this ruling; for this repository's record, the live shelf file governs.
+
+--- ORIGINAL MANIFEST TEXT BELOW (pre-ruling record) ---
+
+MANIFEST — Ayah Companion · SPANISH MANUSCRIPT (archive.org edition)
+Posted: 2026-10-02, Robert Tilford (via Muse, at his direction).
+
+STATUS: Complete manuscript — 114 surahs / 6,236 verses, Arabic preserved.
+A review draft translated from Robert Tilford's corrected English manuscript
+(AI-assisted translation under his direction). Not a locked recital edition.
+Native Spanish review is invited. Not the first Spanish Quran translation.
+
+VERIFIED (fresh audit 2026-10-02): 114 surah headers in order; per-surah verse
+counts all match the canonical 6,236; numbering sequential; global order
+1:1 → 114:6 strict; 0 [MISSING]; 0 replacement characters.
+
+NOTE (2026-10-02, Robert's ruling): at 3:106, 6:30, and 46:34 the phrase
+"por no haber creído" was changed to "porque no creíais" to match the Arabic
+بِمَا كُنْتُمْ تَكْفُرُونَ ("for what you used to disbelieve"). This archive
+edition is the current text; the September Drive copy predates this ruling.
+
+FILES (name | bytes | SHA-256)
+  ayah-companion-manuscript-ES.md | 2247951 | 7691863e37bc4243034a1139c8a3913e7ecd369639303c34f6b0377211ff9874
