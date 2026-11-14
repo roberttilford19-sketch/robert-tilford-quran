@@ -1,0 +1,24 @@
+MANIFEST — Ayah Companion Romanian
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 ("Proceed you have my permission" — his word, 2026-11-14 ~07:20 CST).
+Second-expansion shelving run (wave 2).
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Romanian — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting native Romanian review; it is not a finished or certified
+translation, and native review is required before any use as one. No
+first-translation claim is made.
+
+Claim boundary, carried in the manuscript's own head matter: no claim is made about any other Romanian rendering of the Quran.
+
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+
+Lane verification of record: desk verify PASS; independent checker PASS WITH FLAGS — MATERIAL 0, MINOR 2, QUESTION 1 (CHECKER-RO-SEPARATE-AGENT.md).
+
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-romanian/, unrepaired.
+
+Files:
+  2319817  356766889eb96962cfd651da12750c5c0ed3f6f94d4504f7d07613fa5a1a1d5b  ayah-companion-manuscript-RO.md
