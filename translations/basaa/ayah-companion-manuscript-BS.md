@@ -3701,7 +3701,7 @@ i u yé ku stat li impurity, purify yourselbes. I u yé ill, kɛ yɛ-ŋgea, kɛ 
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Nɛ Ismaila, nɛ Iliya, nɛ Yunusa, nɛ Lutu — ɓɛs ndɛm-su ka one li ɓa hɔl ka ŋgɛl ɓɔt.
+**6:86** Nɛ Ismaila, nɛ Elisa, nɛ Yunusa, nɛ Lutu — ɓɛs ndɛm-su ka one li ɓa hɔl ka ŋgɛl ɓɔt.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
