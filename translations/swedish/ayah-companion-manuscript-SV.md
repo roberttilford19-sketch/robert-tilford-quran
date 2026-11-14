@@ -3702,7 +3702,7 @@ Om ni är i ett tillstånd av orenhet, rena er. Om ni är sjuka, eller på resa,
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Och Ismael, och Elia, och Jona, och Lot — Vi gynnade var och en av dem framför alla andra människor.
+**6:86** Och Ismael, och Elisa, och Jona, och Lot — Vi gynnade var och en av dem framför alla andra människor.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
