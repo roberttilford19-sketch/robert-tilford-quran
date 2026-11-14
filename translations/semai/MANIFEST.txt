@@ -1,0 +1,122 @@
+AYAH COMPANION — SEMAI RENDERING
+MANIFEST — lane record, 2026-11-14
+
+ITEM
+Ayah Companion, Semai (sea) rendering, built from the corrected
+English manuscript of the Locked English Master lineage, as the
+Malaysia front's third build (the scout's recommended lane No. 3
+and Aslian template), under Robert's Advance Rule of 2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Semai review is required before any
+gifting or publication; review is invited. The status line stands
+inside the manuscript itself, in Semai and English, on its face,
+with AI assistance labelled.
+SHELVING: lands on the GitHub shelf under Robert's Pipeline
+Landing Authorization (2026-11-14 ~15:00), the full pipeline loop
+having completed (build, count, canonical verify, independent
+checker, Purple sweep reconciled); the landing is recorded in
+LANDING-RECORD-2026-11-14.md in this lane folder at the desk.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography as Dentan documents it (ë and ö written, the
+glottal stop written -q word-finally) — reviewer item.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: no
+Semai Quran translation found after research (Malaysia scout,
+2026-11-14). A Semai Bible translation stands in the record; this
+lane is Semai only, a distinct work.
+
+FILES
+GLOSSARY-SEA.md
+  3,018 bytes
+  SHA-256 242f83f5b399f353048fb7fa7efa58f0d08c720b1af125ed1e8c9c9f256ba013
+STYLEGUIDE-SEA.md (the lane's binding drafting law, settled before drafting)
+  7,758 bytes
+  SHA-256 56de342aa9a830992dcc9915059042362a804ef4e82f5bfc0f10373c3b53ba81
+BUILD-REPORT-SEA.md
+  5,078 bytes
+  SHA-256 91dbe4c24cb18e6f2da8eab9b357c410bc4b3a3a882aac3f46fa481d769a8251
+PURPLE-REPORT-SEA-2026-11-14.md (Purple sweep, report mode, reconciled 14 of 14, 0 unresolved)
+  13,255 bytes
+  SHA-256 0daee759d92cdf758b52f2df36493d5347e789097005e754c030043248ce6995
+CHECKER-SEA-SEPARATE-AGENT.md (independent checker, preserved unedited)
+  12,510 bytes
+  SHA-256 5390d66b5b9ebf69be2c184fbe7fd07451d03a28ad6a159a83840557ea878310
+work/verification-sea.json (verify.py record)
+  SHA-256 9ba0f3a7b93b61617df6803f5da2c0963c4e0d9c559eac1bda501cc3695fc1c7
+work/flags-sea.txt — 10 named uncertain-seat items plus residue counts, carried to the reviewer.
+  6,691 bytes
+  SHA-256 7da61867e8da070f90da8f80d8112f465dcf243c2bd9a4ccc2d6441e1b58fc13
+ayah-companion-manuscript-SEA.md
+  2,245,249 bytes
+  SHA-256 6c21dce8c1fbbe9ea255c84c4603848311b4c50d4399496f8b3822f72c3d5e45
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-14: PASS true. Headers 114, head order true, verses 6,236,
+counts match meta true, continuity true, Arabic runs 6,462 identical
+to master and to meta, missing tags 0, prostration markers 15 match,
+note 56 present, slice verse lines 6,236, slice ref mismatches 0,
+slice paragraph mismatches 0, percent signs 0 in slices and in the
+manuscript.
+Lane checker (work/check_sea.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Jenang (whole
+token) 2,732 (master "God" 2,732); jenang 79 (master "god" 79);
+jenang-jenang 35 (master "gods" 35); Tuhan 980 (master "Lord" 969 +
+the 11 counted Master tokens at 1:4; 2:286; 3:150; 6:62; 6:127;
+7:196; 10:30; 34:41; 47:11 ×2; 66:2); zakat at exactly the 13
+keyed slots; sedekah at exactly the 36 keyed tokens (2:272 ×3;
+58:13 ×2).
+Independent checker (separate agent): PASS WITH FLAGS — MATERIAL
+0, MINOR 3. All three MINORs (the fallback figure's
+generation-time basis; fallback English at named seats inside the
+disclosed residue class; an English clause cluster in 5:6's
+second block) are carried in work/flags-sea.txt as items 8–10;
+no repair was required and the lane was not rebuilt after the
+check.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+
+NOTES CARRIED TO THE REVIEWER
+1. God is rendered Jenang, Dentan's own Semai God-word. The
+   weighed alternative (the Bajaw road — Allah, for a Muslim
+   community) is recorded in STYLEGUIDE-SEA decision 2: no Allah
+   form appears in Dentan's Semai vocabulary; the Telom form
+   TUHAT stands in the harvest. The God-word is the reviewer's
+   ruling #1. The Lord/Master merge into Tuhan is a disclosed
+   drafting choice, ruled on in STYLEGUIDE-SEA decisions 2–3.
+2. Charity: zakat stands untranslated at exactly 13 keyed slots
+   (Quran-alone rule: no percentage is stated anywhere in the
+   lane); the sadaqa family is sedekah at exactly 36 keyed tokens.
+3. Elisha is Elisa at 6:86 (following the corrected master) and at
+   38:48, kept distinct from Elia (Elijah/Elias); the Elisa form
+   follows the region's Bible usage and is flagged as the
+   reviewer's first name ruling (flags item 1). Jesus stands as
+   Yesus and Mary as Maria — the region's Bible forms, against
+   the master's printed forms — as flags item 6.
+4. Fallback: 28,818 transliteration-fallback tokens (21.5% of
+   slice tokens; 21.90% of 131,586 on the checker's tokenisation)
+   and 4,868 positional identical tokens (independent checker's
+   recount) are counted and disclosed in work/flags-sea.txt, not
+   concealed.
+5. Rule A seams stand as printed: 18:103 sealed plural carried
+   exactly; 19:64 as printed; the 2:272 seam as printed.
