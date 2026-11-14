@@ -3702,7 +3702,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Ismaa'iil, Eliyaa, Yuunus, fi Luux — tokkoon tokkoon isaanii namoota hunda irra caalchineerra.
+**6:86** Ismaa'iil, Elisha, Yuunus, fi Luux — tokkoon tokkoon isaanii namoota hunda irra caalchineerra.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
