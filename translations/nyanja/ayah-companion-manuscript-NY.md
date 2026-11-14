@@ -3702,7 +3702,7 @@ Ngati muli mu mkhalidwe wosayera, dziyeretseni nokha. Ngati mukudwala, kapena mu
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Ndipo Isimaeli, ndi Eliya, ndi Yunusi, ndi Loti — Ife tidakonda aliyense wa iwo kuposa anthu ena onse.
+**6:86** Ndipo Isimaeli, ndi Elisha, ndi Yunusi, ndi Loti — Ife tidakonda aliyense wa iwo kuposa anthu ena onse.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 

@@ -3701,7 +3701,7 @@ nin I mu kono stat la impurity, saniya ke ali faŋo. Nin I mu ill, wala taa silo
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Niŋ Sumaila, niŋ Eliyaa, niŋ Yunusa, niŋ Lutu — An neema bɛɛ kiliŋ kiliŋ kiliŋ la u kaŋ bɛɛ do mɔgɔw.
+**6:86** Niŋ Sumaila, niŋ Elisa, niŋ Yunusa, niŋ Lutu — An neema bɛɛ kiliŋ kiliŋ kiliŋ la u kaŋ bɛɛ do mɔgɔw.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
