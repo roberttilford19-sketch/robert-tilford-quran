@@ -3700,7 +3700,7 @@ Wenn ihr im Zustand der Unreinheit seid, reinigt euch. Wenn ihr krank seid oder 
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Und Ismael und Elias und Jonas und Lot — Wir begünstigten jeden von ihnen über alle anderen Menschen.
+**6:86** Und Ismael und Elischa und Jonas und Lot — Wir begünstigten jeden von ihnen über alle anderen Menschen.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
