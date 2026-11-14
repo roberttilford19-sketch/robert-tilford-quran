@@ -1,0 +1,24 @@
+MANIFEST — Ayah Companion Brahui
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 (ruling A — "Shelve all sixteen now, paced commits, read back after" — his word, 2026-11-14 ~10:05 CST).
+Wave-108 shelving run.
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Brahui — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting native Brahui review; it is not a finished or certified
+translation, and native Brahui review is required before any use as one. No
+first-translation claim is made.
+
+Claim boundary, carried in the manuscript's own head matter: this draft makes no first-translation claim.
+
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+
+Lane verification of record: desk verify PASS; independent checker PASS WITH FLAGS (CHECKER-BRH-SEPARATE-AGENT.md) — FLAG 1 MATERIAL (the guide's settled form for the Quran's own name, "Kuran", occurred 0 times; the slices carried the fallback transliteration "kran") and FLAG 3. The manuscript as shelved is the post-repair file: the repair pass of 2026-11-14 added the dictionary entry and rebuilt the slices (Kuran 68 tokens in verse bodies and 5 in intros; "kran" as a standalone token 0; no census moved), the lane documents were amended by dated addendum, and all figures were recomputed from disk.
+
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-brahui/, unrepaired.
+
+Files:
+  2247404  7113cf33c12ca883cccc87f1ea9aac612c6c28571b7479b40cd6da50660f6506  ayah-companion-manuscript-BRH.md
