@@ -1,0 +1,24 @@
+MANIFEST — Ayah Companion Sanskrit
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 ("Proceed you have my permission" — his word, 2026-11-14 ~07:20 CST).
+Second-expansion shelving run (wave 2).
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Sanskrit — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting Sanskrit scholarly review; it is not a finished or certified
+translation, and scholarly review is required before any use as one. No
+first-translation claim is made.
+
+Claim boundary, carried in the manuscript's own head matter: this is NOT a first Sanskrit translation — Sanskrit Qurans already exist in the published record; no claims about other translations are made.
+
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+
+Lane verification of record: desk verify PASS; independent checker PASS WITH FLAGS — MATERIAL 0, MINOR 1, QUESTION 1 (CHECKER-SA-SEPARATE-AGENT.md).
+
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-sanskrit/, unrepaired.
+
+Files:
+  3528328  fdd6f20800263615212325901d80f27341cf8cf8866d9b71216644f78b84029f  ayah-companion-manuscript-SA.md

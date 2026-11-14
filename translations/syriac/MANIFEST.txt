@@ -1,0 +1,24 @@
+MANIFEST — Ayah Companion Syriac
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 ("Proceed you have my permission" — his word, 2026-11-14 ~07:20 CST).
+Second-expansion shelving run (wave 2).
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Syriac — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting Syriac scholarly review; it is not a finished or certified
+translation, and scholarly review is required before any use as one. No
+first-translation claim is made.
+
+Claim boundary, carried in the manuscript's own head matter: no first-translation claim is made for this draft, and no claim is made about any other rendering.
+
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+
+Lane verification of record: desk verify PASS; independent checker PASS WITH FLAGS — MATERIAL 0, MINOR 2, QUESTION 1 (CHECKER-SYR-SEPARATE-AGENT.md).
+
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-syriac/, unrepaired.
+
+Files:
+  2280461  72c3e7a7ec94dce8f89742705b2a268ed00c32a34710ce9dacf6e16b71735be8  ayah-companion-manuscript-SYR.md
