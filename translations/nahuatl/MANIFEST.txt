@@ -1,0 +1,19 @@
+MANIFEST — Ayah Companion Nahuatl
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 ("get them all on the shelf as quickly as possible" — his word on the live call, 2026-11-14 ~05:12 CST).
+An earlier Ayah Companion endangered-language lane, completed before the Q-1 tier campaign.
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Nahuatl — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting native-speaker review; it is not a finished or certified
+translation, and native review is required before any use as one. No
+first-translation claim is made.
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+Lane verification of record: Lane verification: structural verification — ALL PASS — VERIFICATION-NAH.md.
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-nahuatl/, unrepaired.
+
+Files:
+  2271610  d4f2a69253c1a685665f2766ff834d96670b91e8e0089a2f74456c3a4fa6e1f4  ayah-companion-manuscript-NAH.md
