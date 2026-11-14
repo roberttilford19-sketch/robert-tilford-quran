@@ -3701,7 +3701,7 @@ amba seka na sii stat o impurity, purify ginawa iyo dun. Amba seka na ill, atawa
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Agu Ismail, agu Eliya, agu Yunus, agu Lut — Skami mapiya a begay uman isa isa o siran sii sa babaw langun ped manga taw.
+**6:86** Agu Ismail, agu Elisa, agu Yunus, agu Lut — Skami mapiya a begay uman isa isa o siran sii sa babaw langun ped manga taw.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 

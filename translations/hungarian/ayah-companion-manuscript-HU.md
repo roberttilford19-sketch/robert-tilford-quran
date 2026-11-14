@@ -3702,7 +3702,7 @@ Ha tisztátalanság állapotában vagytok, tisztítsátok meg magatokat. Ha bete
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** És Izmaelt, Illést, Jónást és Lótot — mindegyiküket előnyben részesítettük minden más emberrel szemben.
+**6:86** És Izmaelt, Elizeust, Jónást és Lótot — mindegyiküket előnyben részesítettük minden más emberrel szemben.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
