@@ -3566,7 +3566,7 @@
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86**  Agus Ísmael, agus Éilias, agus Ióna, agus Lót — d'fhabhraíomar gach duine acu thar gach duine eile.
+**6:86**  Agus Ísmael, agus Eilíse, agus Ióna, agus Lót — d'fhabhraíomar gach duine acu thar gach duine eile.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 

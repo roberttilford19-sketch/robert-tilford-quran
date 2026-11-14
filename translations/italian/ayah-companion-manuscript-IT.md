@@ -3700,7 +3700,7 @@ Se siete in stato di impurità, purificatevi. Se siete malati, o in viaggio, o u
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** E Ismaele, ed Elia, e Giona, e Lot — favorimmo ciascuno di loro sopra tutte le altre persone.
+**6:86** E Ismaele, ed Eliseo, e Giona, e Lot — favorimmo ciascuno di loro sopra tutte le altre persone.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
