@@ -3702,7 +3702,7 @@ Sace tumhe asuddhabhāve hotha, attano suddhā karotha. Sace tumhe gilānā hoth
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Ismāīlañca, Elīyañca, Yūnusa ca, Lūṭañca — mayaṁ tesaññeva ekekaṁ sabbajanānaṁ upari varaṁ akumha.
+**6:86** Ismāīlañca, Elisāñca, Yūnusa ca, Lūṭañca — mayaṁ tesaññeva ekekaṁ sabbajanānaṁ upari varaṁ akumha.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
