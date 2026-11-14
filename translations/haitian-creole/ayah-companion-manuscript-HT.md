@@ -3701,7 +3701,7 @@ Si nou nan yon eta enpirte, pirifye tèt nou. Si nou malad, oswa n ap vwayaje, o
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86**  Epi Ismayèl, ak Eli, ak Jonas, ak Lòt—Nou te favorize chak nan yo pase tout lòt moun.
+**6:86**  Epi Ismayèl, ak Elise, ak Jonas, ak Lòt—Nou te favorize chak nan yo pase tout lòt moun.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
