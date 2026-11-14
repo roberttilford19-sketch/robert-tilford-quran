@@ -3702,7 +3702,7 @@ Haddii aad nijaaso ku jirtaan, is-daahiriya. Haddaad buktaan, ama safar tihiin, 
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Iyo Ismaaciil, iyo Eliyaa, iyo Yuunus, iyo Luud — mid kasta oo ka mid ah Waxaannu ka fadilnay dadka oo dhan.
+**6:86** Iyo Ismaaciil, iyo Elisha, iyo Yuunus, iyo Luud — mid kasta oo ka mid ah Waxaannu ka fadilnay dadka oo dhan.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
