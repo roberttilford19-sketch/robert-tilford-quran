@@ -3702,7 +3702,7 @@ Jika kamu dalam keadaan berhadas besar, bersucilah kamu. Jika kamu sakit, atau d
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Dan Ismail, dan Elia, dan Yunus, dan Lut — Kami lebihkan setiap mereka atas semua manusia lain.
+**6:86** Dan Ismail, dan Elisa, dan Yunus, dan Lut — Kami lebihkan setiap mereka atas semua manusia lain.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
