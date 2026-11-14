@@ -1,0 +1,24 @@
+MANIFEST — Ayah Companion Tawellemmet
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 (ruling A — "Shelve all sixteen now, paced commits, read back after" — his word, 2026-11-14 ~10:05 CST).
+Wave-108 shelving run.
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Tawellemmet — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting native Tawellemmet review; it is not a finished or certified
+translation, and native Tawellemmet review is required before any use as one. No
+first-translation claim is made.
+
+Claim boundary, carried in the manuscript's own head matter: this draft makes no claim to be the first rendering of the Quran into Tawellemmet; it is a draft offered for review.
+
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+
+Lane verification of record: desk verify PASS; independent checker PASS WITH FLAGS — MATERIAL 1 (CHECKER-TW-SEPARATE-AGENT.md FLAG 1: at four of the master's named defect verses — 5:65, 16:67, 39:67, 47:36 — the draft rendered the defect literally, not by sense as the style guide requires, while lane records claimed the by-sense handling). The manuscript as shelved is the post-repair file: the four verses were corrected in the fenced repair pass of 2026-11-14, the records were corrected by dated addendum, and the book was re-assembled and re-verified.
+
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-tawellemmet/, unrepaired.
+
+Files:
+  2362331  4f6ad8ea60348c27f33a00d2e4aecf34f16fe30e306f2c8f73792b2c127aa3c5  ayah-companion-manuscript-TW.md

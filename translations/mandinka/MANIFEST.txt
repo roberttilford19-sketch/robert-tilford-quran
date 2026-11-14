@@ -1,0 +1,24 @@
+MANIFEST — Ayah Companion Mandinka
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 (ruling A — "Shelve all sixteen now, paced commits, read back after" — his word, 2026-11-14 ~10:05 CST).
+Wave-108 shelving run.
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Mandinka — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting native Mandinka review; it is not a finished or certified
+translation, and native Mandinka review is required before any use as one. No
+first-translation claim is made.
+
+Claim boundary, carried in the manuscript's own head matter: Mandinka already has complete renderings by others — Ceesay (complete 2006/07), Janneh in print, and older complete Ajami tafsir manuscripts; this draft makes no first-translation claim.
+
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+
+Lane verification of record: desk verify PASS; the first independent check FAILED the lane (three of the master's named defect verses reproduced — 16:67, 47:36, 39:67 — and the embedded basmalah at 27:30 a variant, the fixed form standing 113 times, not 114). The manuscript as shelved is the post-repair file: a fenced repair sweep on 2026-11-14 corrected the slices, and the independent recheck (RECHECK-MD-SEPARATE-AGENT.md) returned PASS WITH FLAGS, every field exact.
+
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-mandinka/, unrepaired.
+
+Files:
+  2187346  0e95ee1ae64da8139155d9667b117a8a59856e7e76fd42be0d4839db72b9026b  ayah-companion-manuscript-MD.md
