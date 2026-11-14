@@ -3702,7 +3702,7 @@ Nëse jeni në gjendje papastërtie, pastrohuni. Nëse jeni të sëmurë, ose n�
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Dhe Ismailin, dhe Elijan, dhe Junusin, dhe Lutin — Ne e favorizuam secilin prej tyre mbi të gjithë njerëzit e tjerë.
+**6:86** Dhe Ismailin, dhe Eliseun, dhe Junusin, dhe Lutin — Ne e favorizuam secilin prej tyre mbi të gjithë njerëzit e tjerë.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
