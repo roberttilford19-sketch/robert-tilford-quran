@@ -3702,7 +3702,7 @@ Eger hûn di rewşa nepakiyê de bin, xwe paqij bikin. Eger hûn nexweş bin, an
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Û Îsmaîl, û Îlyas, û Yûnis, û Lût — Me her yekî ji wan li ser hemû mirovên din tercîh kir.
+**6:86** Û Îsmaîl, û Elîsa, û Yûnis, û Lût — Me her yekî ji wan li ser hemû mirovên din tercîh kir.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 

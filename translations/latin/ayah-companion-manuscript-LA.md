@@ -3702,7 +3702,7 @@ Si in statu impuritatis estis, vos purificate. Si aegri estis, aut iter facitis,
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Et Ismael, et Eliam, et Ionam, et Lot — unumquemque eorum prae omnibus aliis hominibus favimus.
+**6:86** Et Ismael, et Eliseum, et Ionam, et Lot — unumquemque eorum prae omnibus aliis hominibus favimus.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
