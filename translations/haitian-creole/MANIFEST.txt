@@ -1,0 +1,24 @@
+MANIFEST — Ayah Companion Haitian Creole
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 ("Proceed you have my permission" — his word, 2026-11-14 ~07:20 CST).
+Second-expansion shelving run (wave 2).
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Haitian Creole — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting native Haitian Creole review; it is not a finished or certified
+translation, and native review is required before any use as one. No
+first-translation claim is made.
+
+Claim boundary, carried in the manuscript's own head matter: no published Haitian Creole translation of record was found in the catalogues searched (2026-11); an anonymous web-only rendering circulates (NabiMuhammad.com) and is a witness, never a source for this build.
+
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+
+Lane verification of record: desk verify PASS; independent checker PASS WITH FLAGS — MATERIAL 0, MINOR 2 (CHECKER-HT-SEPARATE-AGENT.md). The manuscript as shelved is the post-repair file: a desk extraction error in the first assembly's surah introductions was caught by the desk's own basmalah census before delivery and repaired; the full episode is recorded in the lane's build report.
+
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-haitian-creole/, unrepaired.
+
+Files:
+  2195379  c1af55d173fcab34351dac67ccc16888859ccfa9797121866efbe676cd607f0f  ayah-companion-manuscript-HT.md

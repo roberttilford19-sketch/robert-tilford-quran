@@ -1,0 +1,24 @@
+MANIFEST — Ayah Companion Latin
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 ("Proceed you have my permission" — his word, 2026-11-14 ~07:20 CST).
+Second-expansion shelving run (wave 2).
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Latin — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting review by a qualified Latinist; it is not a finished or certified
+translation, and Latinist review is required before any use as one. No
+first-translation claim is made.
+
+Claim boundary, carried in the manuscript's own head matter: this is NOT a first Latin translation — Latin translations of the Quran have existed since 1143 (Robert of Ketton); no claim is made about other translations. The lane's chief reviewer item is the register ruling (classical vs ecclesiastical), recorded in the lane's glossary.
+
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+
+Lane verification of record: desk verify PASS; independent checker PASS WITH FLAGS — MATERIAL 1, MINOR 3, QUESTION 1 (CHECKER-LA-SEPARATE-AGENT.md); the one MATERIAL flag (the charity-term keying split) rides unrepaired to the Latinist reviewer.
+
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-latin/, unrepaired.
+
+Files:
+  2161960  bd097084955091b977c8bf64f63c3ca8f0258121ce41344466d8fed88dc48ea3  ayah-companion-manuscript-LA.md
