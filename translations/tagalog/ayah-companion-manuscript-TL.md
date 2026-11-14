@@ -3702,7 +3702,7 @@ Kung kayo ay nasa kalagayan ng karumihan, dalisayin ninyo ang inyong sarili. Kun
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** At sina Ismael, at Elia, at Jonas, at Lot — pinaboran Namin ang bawat isa sa kanila higit sa lahat ng ibang tao.
+**6:86** At sina Ismael, at Eliseo, at Jonas, at Lot — pinaboran Namin ang bawat isa sa kanila higit sa lahat ng ibang tao.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
