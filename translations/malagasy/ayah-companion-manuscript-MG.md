@@ -3702,7 +3702,7 @@ Raha ao anatin'ny toe-javatra tsy madio ianareo, dia manadiova ny tenanareo. Rah
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Ary i Ismaela, sy i Elia, sy i Jona, sy i Lota — nomenay tombony mihoatra ny olona rehetra ny tsirairay tamin'izy ireo.
+**6:86** Ary i Ismaela, sy i Elisa, sy i Jona, sy i Lota — nomenay tombony mihoatra ny olona rehetra ny tsirairay tamin'izy ireo.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
