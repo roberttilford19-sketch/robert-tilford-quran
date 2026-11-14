@@ -3700,7 +3700,7 @@ Si esteu en estat d’impuresa, purifiqueu-vos. Si esteu malalts, o de viatge, o
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86**  I Ishmael, i Elijah, i Jonah, i Lot: vam afavorir cadascun d’ells per sobre de tota l’altra gent.
+**6:86**  I Ishmael, i Elisha, i Jonah, i Lot: vam afavorir cadascun d’ells per sobre de tota l’altra gent.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
