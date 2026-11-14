@@ -1,0 +1,24 @@
+MANIFEST — Ayah Companion Iranon
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 (ruling A — "Shelve all sixteen now, paced commits, read back after" — his word, 2026-11-14 ~10:05 CST).
+Wave-108 shelving run.
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Iranon — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting native Iranon review; it is not a finished or certified
+translation, and native Iranon review is required before any use as one. No
+first-translation claim is made.
+
+Claim boundary, carried in the manuscript's own head matter: this draft makes no first-translation claim.
+
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+
+Lane verification of record: desk verify PASS; independent checker PASS WITH FLAGS — MATERIAL 0 (CHECKER-IRN-SEPARATE-AGENT.md); the minor flags (one standing English "we" at 27:49 and ten "not" transliteration tokens inside the disclosed fallback figure; one documentation inaccuracy; the Surah 36 intro name-form) ride to the native reviewer. The drafting method is disclosed in the book's own papers: a first-pass, word-by-word gloss in Latin orthography, with 10.3% of scanned tokens transliterated rather than lexically rendered.
+
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-iranon/, unrepaired.
+
+Files:
+  2378890  40a7e405ff78846a70d2330b76573d4db037ecc34194a497ec97c6f927e4ee90  ayah-companion-manuscript-IRN.md

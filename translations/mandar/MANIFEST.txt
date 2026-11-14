@@ -1,0 +1,24 @@
+MANIFEST — Ayah Companion Mandar
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 (ruling A — "Shelve all sixteen now, paced commits, read back after" — his word, 2026-11-14 ~10:05 CST).
+Wave-108 shelving run.
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Mandar — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting native Mandar review; it is not a finished or certified
+translation, and native Mandar review is required before any use as one. No
+first-translation claim is made.
+
+Claim boundary, carried in the manuscript's own head matter: this draft makes no claim to be the first rendering of the Quran into Mandar, and no claim about any other Mandar rendering.
+
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+
+Lane verification of record: desk verify PASS; independent checker PASS WITH FLAGS (CHECKER-MDR-SEPARATE-AGENT.md); FLAG 1 (the 5:65 slice as built carried the master's misprint) was repaired on 2026-11-14 and re-verified (checker problems 0). The manuscript as shelved is the post-repair file.
+
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-mandar/, unrepaired.
+
+Files:
+  2303945  ab5df0214f1b838d87677ec17990e350cddcb1e0071ba588c484becc2f77b920  ayah-companion-manuscript-MDR.md
