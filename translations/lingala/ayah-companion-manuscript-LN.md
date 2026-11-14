@@ -3702,7 +3702,7 @@ Soki bozali na ezaleli ya bosoto, bomisala peto. Soki bozali na bokono, to na mo
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Mpe Ismaeli, mpe Eliya, mpe Yona, mpe Loti — Topesaki moko na moko na bango ngolu koleka bato nyonso basusu.
+**6:86** Mpe Ismaeli, mpe Elisa, mpe Yona, mpe Loti — Topesaki moko na moko na bango ngolu koleka bato nyonso basusu.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
