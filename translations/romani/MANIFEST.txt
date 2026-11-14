@@ -1,0 +1,24 @@
+MANIFEST — Ayah Companion Romani
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 (ruling A — "Shelve all sixteen now, paced commits, read back after" — his word, 2026-11-14 ~10:05 CST).
+Wave-108 shelving run.
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Romani — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting native Romani review; it is not a finished or certified
+translation, and native Romani review is required before any use as one. No
+first-translation claim is made.
+
+Claim boundary, carried in the manuscript's own head matter: drafted in a common, Vlax-based written Romani — Romani has many dialects and no single standard, and this variety is not presented as the language whole; no claim is made about other Romani renderings, and no first-translation claim is made.
+
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+
+Lane verification of record: desk verify PASS; independent checker PASS WITH FLAGS — MATERIAL 4 (CHECKER-ROM-SEPARATE-AGENT.md: the four named master's-defect settlements did not stand on disk). The manuscript as shelved is the post-repair file: the settlement repair was applied to the guide's own settled wordings, recorded by dated addendum of 2026-11-14 (the original record lines stand unaltered), and the book was re-assembled and re-verified.
+
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-romani/, unrepaired.
+
+Files:
+  2233860  7c92377dc29b487f4d75e1dcc2c1f48fb2a422ef4d2c82dd1058020ec96914ef  ayah-companion-manuscript-ROM.md

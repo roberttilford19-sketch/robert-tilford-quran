@@ -1,0 +1,24 @@
+MANIFEST — Ayah Companion Nko
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 (ruling A — "Shelve all sixteen now, paced commits, read back after" — his word, 2026-11-14 ~10:05 CST).
+Wave-108 shelving run.
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Nko — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting native Nko review; it is not a finished or certified
+translation, and native Nko review is required before any use as one. No
+first-translation claim is made.
+
+Claim boundary, carried in the manuscript's own head matter: Nko is the written standard of the same Manding continuum as Mandinka — the two lanes are distinct written standards, neither a copy of the other; no first-translation claim is made anywhere in this lane.
+
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+
+Lane verification of record: desk verify PASS; independent checker PASS WITH FLAGS — MATERIAL 0 (CHECKER-NKO-SEPARATE-AGENT.md); the minor flags (one stray English-looking token at 27:49; transliteration residues of "note" inside the disclosed fallback figure) ride to the native reviewer. The drafting method is disclosed in the book's own papers: a first-pass, word-by-word gloss in Latin transliteration, with 9.5% of scanned tokens transliterated rather than lexically rendered.
+
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-nko/, unrepaired.
+
+Files:
+  2168278  48e2b856f9864e89a27b45736ec0fa9fc76dcd7be1ded08ad6decf6a699a7c77  ayah-companion-manuscript-NKO.md
