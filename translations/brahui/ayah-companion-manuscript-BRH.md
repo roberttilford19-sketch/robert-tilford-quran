@@ -3700,7 +3700,7 @@ Agar Ni Assur Ti stat Na impurity, purify Num khud. Agar Ni Assur ill, ya trawel
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Wa Ismail, wa Iliya, wa Yunus, wa Lut — Nan fawored Har asi Asit Na Of kin Balayi Sabh Pina Mardum.
+**6:86** Wa Ismail, wa Alisa, wa Yunus, wa Lut — Nan fawored Har asi Asit Na Of kin Balayi Sabh Pina Mardum.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
