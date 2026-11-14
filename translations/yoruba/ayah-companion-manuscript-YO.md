@@ -3702,7 +3702,7 @@ Bí ẹ bá wà ní ipò àìmọ́, ẹ sọ ara yín di mímọ́. Bí ẹ bá
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Àti Ismaila, àti Elija, àti Yunusa, àti Lutu — Àwa ṣe oore fún olúkúlùkù wọn lé gbogbo àwọn ènìyàn mìíràn lórí.
+**6:86** Àti Ismaila, àti Eliṣa, àti Yunusa, àti Lutu — Àwa ṣe oore fún olúkúlùkù wọn lé gbogbo àwọn ènìyàn mìíràn lórí.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 

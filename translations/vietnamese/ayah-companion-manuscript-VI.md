@@ -3702,7 +3702,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Và Ismail, và Ilyas, và Yunus, và Lut — Chúng Ta đã ưu ái mỗi người trong họ hơn mọi người khác.
+**6:86** Và Ismail, và Elisha, và Yunus, và Lut — Chúng Ta đã ưu ái mỗi người trong họ hơn mọi người khác.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
