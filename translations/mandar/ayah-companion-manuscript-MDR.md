@@ -3702,7 +3702,7 @@ Punna iko ia ri kaadaang impurity, paccing aleta. Punna iko ia masaki, yareka la
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Anna Ismail, anna Elia, anna Yunus, anna Lut—Kami berei sangana sede mereka ri-olona sangana maraeng tau.
+**6:86** Anna Ismail, anna Elisa, anna Yunus, anna Lut—Kami berei sangana sede mereka ri-olona sangana maraeng tau.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
