@@ -1,0 +1,24 @@
+MANIFEST — Ayah Companion Burmese
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 (ruling A — "Shelve all sixteen now, paced commits, read back after" — his word, 2026-11-14 ~10:05 CST).
+Wave-108 shelving run.
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Burmese — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting native Burmese review; it is not a finished or certified
+translation, and native Burmese review is required before any use as one. No
+first-translation claim is made.
+
+Claim boundary, carried in the manuscript's own head matter: this draft makes no claim to be the first rendering of the Quran into Burmese, and makes no claim about other renderings.
+
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+
+Lane verification of record: desk verify PASS; independent checker PASS WITH FLAGS — MATERIAL 0 (CHECKER-MY-SEPARATE-AGENT.md); the minor flags (a cross-range split in the soul word, one flags-file wording inconsistency the slices contradict in the correct direction, and small sample nits) ride to the native reviewer.
+
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-burmese/, unrepaired.
+
+Files:
+  4444614  7fb4496fed7b886595e7b1439f2bdaa9ef63363b567141c01118b3654066fa82  ayah-companion-manuscript-MY.md

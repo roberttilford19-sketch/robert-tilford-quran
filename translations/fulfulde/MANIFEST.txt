@@ -1,0 +1,24 @@
+MANIFEST — Ayah Companion Fulfulde
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 (ruling A — "Shelve all sixteen now, paced commits, read back after" — his word, 2026-11-14 ~10:05 CST).
+Wave-108 shelving run.
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Fulfulde — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting native Fulfulde review; it is not a finished or certified
+translation, and native Fulfulde review is required before any use as one. No
+first-translation claim is made.
+
+Claim boundary, carried in the manuscript's own head matter: this draft makes no claim to be the first rendering of the Quran into Fulfulde; complete renderings by others already exist (Bâ 1982; King Fahd Complex 2012; Rowad 2022).
+
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+
+Lane verification of record: desk verify PASS; independent checker PASS WITH FLAGS — MATERIAL 1 (CHECKER-FF-SEPARATE-AGENT.md FLAG 1: at 5:65 the master's misprint "Scriputure" stood untranslated while two lane records claimed the by-sense rendering). The manuscript as shelved is the post-repair file: 5:65 was corrected in the fenced micro-repair of 2026-11-14, the flag and build-report lines were amended by dated addendum, and the book was re-verified.
+
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-fulfulde/, unrepaired.
+
+Files:
+  2195230  b31ff068f6a89318166b299c72b404b697aed00358cd66d025ec994f93c53eae  ayah-companion-manuscript-FF.md
