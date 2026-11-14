@@ -3701,7 +3701,7 @@ Si vos êtes in état d'impureté, purifiez-vos. Si vos êtes malades, ou in voy
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Et Ismaël, et Élie, et Jonas, et Lot — Nos avons favorisé chacun d'eus sur tous lés autes gens.
+**6:86** Et Ismaël, et Elisha, et Jonas, et Lot — Nos avons favorisé chacun d'eus sur tous lés autes gens.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
