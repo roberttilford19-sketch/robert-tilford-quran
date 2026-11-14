@@ -3700,7 +3700,7 @@ yi A nyɛla ni stat impurity, dede niŋ yi maŋmaŋ. Yi A nyɛla ill, kana chaŋ
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Ni Ismaila, ni Iliya, ni Yunusa, ni Lutu — Ti alibarika kam yini be zuɣu kam shɛli niriba.
+**6:86** Ni Ismaila, ni Elisa, ni Yunusa, ni Lutu — Ti alibarika kam yini be zuɣu kam shɛli niriba.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
