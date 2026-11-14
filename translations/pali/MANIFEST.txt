@@ -1,0 +1,24 @@
+MANIFEST — Ayah Companion Pali
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 ("Proceed you have my permission" — his word, 2026-11-14 ~07:20 CST).
+Second-expansion shelving run (wave 2).
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Pali — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting Pali scholarly review; it is not a finished or certified
+translation, and scholarly review is required before any use as one. No
+first-translation claim is made.
+
+Claim boundary, carried in the manuscript's own head matter: no claim is made about any other rendering. The script choice — romanised Pali with diacritics, the international scholarly standard — is stated inside the manuscript and flagged in the lane as reviewer item number one.
+
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+
+Lane verification of record: desk verify PASS; cumulative lane checker problems 0 over all 114 surahs. No independent checker verdict stands in this lane's record at shelving; Pali scholarly review is the gate. 1,216 reviewer-flag lines stand in the lane's flags files.
+
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-pali/, unrepaired.
+
+Files:
+  2349599  2e22f982c2ba4f3f10b534c7ef8f2c010fd50af78b21ca31c08fb44c6e68f845  ayah-companion-manuscript-PI.md
