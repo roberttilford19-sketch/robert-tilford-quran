@@ -1,0 +1,20 @@
+MANIFEST — Ayah Companion Kannada
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 ("get them all on the shelf as quickly as possible", his word on the live call, 2026-11-14 ~05:12 CST; and for Kannada specifically, ~05:24 CST: "Move ahead on the Kannada... get it on the shelf as soon as possible").
+Tier 1 of the Q-1 Quran Gap campaign — lane CLOSED 2026-11-12 (lane record: ~/workspace/ayah-kannada/).
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Kannada — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting native-speaker review; it is not a finished or certified
+translation, and native review is required before any use as one. No
+first-translation claim is made.
+Verse-marker re-count at shelving (reconciliation and shelving, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+Lane verification of record: verify.py PASS outright (Arabic 6,462 runs byte-identical to master and to meta; markers 15; mismatches 0); independent checker PASS WITH FLAGS — no MATERIAL; no post-checker repair was made, so the shelved manuscript is byte-for-byte the copy the checker graded.
+Reconciliation (2026-11-14): two complete Kannada drafting runs stood on disk (this lane copy, and a parallel run in the campaign's cluster-2 working set, sha256 338c568e...). The dated reconciliation note at ~/workspace/ayah-kannada/RECONCILIATION-2026-11-14.md lays out the copies, the diff (12,916 lines; Arabic verse text sequence-identical; the Kannada rendering differs throughout), and the evidence, and settles this lane copy as the book of record. The cluster-2 run stays in the workspace, labelled superseded — not adopted, not deleted.
+The full lane record (build report, verification and checker records, flags, reconciliation note)
+stands in the workspace lane folder ~/workspace/ayah-kannada/, unrepaired.
+
+Files:
+  3730896  c2f9735f6e5cc82d2b9dc2f3d11e743fd1ee8a8c1c1408254563e1cf50fe41e5  ayah-companion-manuscript-KN.md
