@@ -1,0 +1,24 @@
+MANIFEST — Ayah Companion Dagbani
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 (ruling A — "Shelve all sixteen now, paced commits, read back after" — his word, 2026-11-14 ~10:05 CST).
+Wave-108 shelving run.
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Dagbani — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting native Dagbani review; it is not a finished or certified
+translation, and native Dagbani review is required before any use as one. No
+first-translation claim is made.
+
+Claim boundary, carried in the manuscript's own head matter: this draft makes no first-translation claim.
+
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+
+Lane verification of record: desk verify PASS; independent checker PASS WITH FLAGS — MATERIAL 4 (CHECKER-DG-SEPARATE-AGENT.md: the four by-sense defect settlements claimed for 16:67, 47:36, 39:67 and 5:65 did not stand on disk). The manuscript as shelved is the post-repair file: the four slices were corrected in the fenced repair pass of 2026-11-14, and the book was re-assembled and re-verified (verify.py PASS on every field).
+
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-dagbani/, unrepaired.
+
+Files:
+  2204124  d2ec73395d9cb1d6844a5abb9aa5e0e32d04be9e4a3341f59706271975232d6b  ayah-companion-manuscript-DG.md

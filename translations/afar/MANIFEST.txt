@@ -1,0 +1,24 @@
+MANIFEST — Ayah Companion Afar
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 (ruling A — "Shelve all sixteen now, paced commits, read back after" — his word, 2026-11-14 ~10:05 CST).
+Wave-108 shelving run.
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Afar — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting native Afar review; it is not a finished or certified
+translation, and native Afar review is required before any use as one. No
+first-translation claim is made.
+
+Claim boundary, carried in the manuscript's own head matter: this draft makes no claim to be the first rendering of the Quran into Afar, and no claim about other Afar renderings.
+
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+
+Lane verification of record: desk verify PASS; the independent checker (CHECKER-AAR-SEPARATE-AGENT.md) returned FAIL at first pass on the defect diff at 16:67, 47:36, 39:67 and 5:65. The manuscript as shelved is the post-repair file: a fenced repair pass on 2026-11-14 corrected those four slices — and only those four — to the guide's pre-settled renderings, with dated addenda to the flags, the style guide and the build report, and the book was re-assembled and re-verified (lane checker problems 0 with every census exact; verify.py PASS).
+
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-afar/, unrepaired.
+
+Files:
+  2255445  29cf4c746b2e95aae7eaa3764b164fd485dd8056565c533464ab3d51b8c3d36c  ayah-companion-manuscript-AAR.md
