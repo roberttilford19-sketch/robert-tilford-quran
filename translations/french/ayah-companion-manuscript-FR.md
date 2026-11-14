@@ -3700,7 +3700,7 @@ Si vous êtes en état d'impureté, purifiez-vous. Si vous êtes malades, ou en 
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Et Ismaël, et Élie, et Jonas, et Lot — Nous avons favorisé chacun d'eux au-dessus de tous les autres gens.
+**6:86** Et Ismaël, et Élisée, et Jonas, et Lot — Nous avons favorisé chacun d'eux au-dessus de tous les autres gens.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
