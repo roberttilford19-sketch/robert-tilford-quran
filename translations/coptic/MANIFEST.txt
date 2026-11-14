@@ -1,0 +1,96 @@
+MANIFEST — Coptic (ⲙⲉⲧⲣⲉⲙⲛⲬⲏⲙⲓ, Bohairic) DRAFT
+
+Item: Ayah Companion Coptic — complete Coptic (Bohairic) rendering of the
+Quran, Arabic source text beside it, built by the gap campaign under Robert
+Tilford's ruling of 2026-11-14 ("do the classical spread").
+Language: Coptic, Bohairic dialect, Unicode Coptic block, no jinkim
+(disclosed simplification for the reviewer).
+Verses: 6,236 (114 surahs)
+Status: DRAFT — NOT REVIEWED, AI-assisted from the English master,
+Coptological (native-tradition Coptic specialist) review required before
+any use. Honest status inside every book (front matter).
+Offline. Nothing published, shelved, posted, sent, or gifted; shelving
+awaits Robert's separate word.
+
+FILES (deliverables first; sizes in bytes, SHA-256 abbreviated to 16 hex)
+
+ayah-companion-manuscript-COP.md   3156613  03edc003e40a3e85
+  The complete book: front matter (DRAFT — NOT REVIEWED inside),
+  catalogue, 114 surah heads, 6,236 verses with the Arabic beside
+  every rendering. Full SHA-256:
+  03edc003e40a3e85ed0fc913829063f2998712f31893193d77e234c25d41bdcc
+STYLEGUIDE-COP.md                    42341  44ef0e44b0fff163
+  The lane's governing decisions (1–15) and the 12 numbered reviewer
+  rulings.
+BUILD-REPORT-COP.md                  10596  e6e6146b4323d390
+  Sources, pre-production scan, settlements, the 13-range batch log,
+  assembly and desk verification, open items.
+GLOSSARY-COP.md                       7237  ebf5018423c350f4
+  Key terms with reviewer alternatives; the divine name as ruling #1;
+  zakat with no percentage.
+work/verification-cop.json             710  f1e20018f6c70807
+  The amended verify.py record: PASS on every field.
+work/extraction-report.json           1865  b010b14e17e44202
+work/meta.json                     3080996  2f8512892910063b
+work/frontmatter-cop.json             4270  7d18265834c5cd04
+work/titles-cop.json                  2320  4c39c7fc1eded940
+work/flags-cop-R1.txt … R13.txt    232,064 bytes in all, 1,371 flags —
+  the per-range reviewer working lists, one file per range.
+Working set (not deliverables): work/en/ 114 English slices and
+work/cop/ 114 Coptic slices (6,350 lines each: 6,236 verses + 114
+intros), 13 draft data modules (work/draft_r1..r13_data.py), and the
+lane toolkit (scan_setup.py, normalize_cop.py, check_cop.py,
+build_range.py). 282 files in the lane in all.
+
+VERIFICATION
+- Amended verify.py: PASS — headers 114 in order; verses 6,236;
+  counts match meta; continuity true; Arabic 6,462 runs identical to
+  the master and to meta (structural-position method, amendment
+  2026-11-14); missing tags 0; prostration markers 15 matched; the
+  5:6 note present; slice verse lines 6,236, ref mismatches 0,
+  paragraph mismatches 0; "%" 0 in slices and manuscript.
+- Full-book slice checker (work/check_cop.py, all 114 surahs):
+  problems: 0. Final census — God (Ⲫϯ) 2,732 tokens; god/gods
+  (ⲛⲟⲩⲧⲉ family) 114; Lord (ϭⲟⲓⲥ) 969; Master (ⲛⲏⲃ) 11 tokens at
+  exactly the 10 counted verses (47:11 carries 2, pre-settled);
+  zakat (ⲍⲁⲕⲁⲧ) 13; sadaqa (ⲙⲉⲧⲛⲁⲏⲧ) 36 tokens in 33 verses
+  (58:13 carries 2, pre-settled; 2:272 carries 3); the banned fused
+  full form ⲡⲛⲟⲩⲧⲉ 0; basmalah fixed form character-identical at
+  1:1 and 27:30, and in every head frame.
+- Independent checker (desk, 2026-11-14, fresh instruments — see
+  CHECKER-REPORT-COP-INDEPENDENT-2026-11-14.md): PASS WITH FLAGS.
+  God 2,732, Lord 969, zakat 13, sadaqa 36, Master ⲛⲏⲃ 11, banned
+  ⲡⲛⲟⲩⲧⲉ 0, basmalah identical ×114, Surah 55 refrain one string
+  ×31 — all closed exactly; the god/gods family graded SUPPORTED
+  (present at every keyed seat; its contracted form is entangled
+  with homographs for substring counting). ONE MATERIAL FLAG:
+  20:1's disconnected letters (Ṭā, Hā) were lost in normalization —
+  the verse line reads ",."; marker, count, and Arabic intact;
+  repair owed.
+
+SOURCE
+Corrected manuscript (Locked English Master lineage):
+~/workspace/ayah-audit/corrected/ayah-companion-manuscript.md
+MD5 4b22d70eb565d2bbe026f3a4cde490b8 — re-verified at setup against
+the briefed value, exact match. Extraction byte-identical to the
+verified Malagasy lane's (diff -r clean).
+
+NOTES
+- Divine name: God → Ⲫϯ; god/gods → the ⲛⲟⲩⲧⲉ family; the fused
+  full form ⲡⲛⲟⲩⲧⲉ is banned from the draft (count 0). The weighed
+  alternatives (full form; ⲁⲗⲗⲁϩ transliteration) are disclosed in
+  the guide and glossary — reviewer ruling #2, the lane's #1 item.
+- Elisha at 38:48 is UNSETTLED: the candidate Ⲉⲗⲓⲥⲉⲟⲥ stands in
+  the draft, flagged for reviewer ruling #8 (house HANDS-OFF rule).
+  Ezekiel at 38:48 and 21:85 is Ⲓⲉⲍⲉⲕⲓⲏⲗ as printed (Dhul-Kifl
+  NOT substituted); Enoch is Ⲉⲛⲱⲭ (Idris NOT substituted).
+- Disclosed target-language facts: Elias and Elijah both render
+  Ⲏⲗⲓⲁⲥ (Coptic has one form); the master's 2:102 Salomon/Solomon
+  spelling seam is invisible in Coptic (both Ⲥⲟⲗⲟⲙⲱⲛ), flagged,
+  never faked.
+- 18:103's sealed plural and 19:64 stand exactly as the master
+  prints; Rule A seams (70:40; 68:44–45; 86:16; 92:14) preserved
+  and flagged. 3:7's join preserved as printed.
+- Claim boundary: NO first-translation claim is made for this draft,
+  and no claim about any other rendering. Freely given; zakat is
+  given no percentage.
