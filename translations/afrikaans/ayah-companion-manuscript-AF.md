@@ -3702,7 +3702,7 @@ As julle in ’n toestand van onreinheid is, reinig julleself. As julle siek is,
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** En Ismael, en Elia, en Jona, en Lot — Ons het elkeen van hulle bo alle ander mense begunstig.
+**6:86** En Ismael, en Elisa, en Jona, en Lot — Ons het elkeen van hulle bo alle ander mense begunstig.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 

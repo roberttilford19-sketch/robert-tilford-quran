@@ -3702,7 +3702,7 @@ ikkih atu taana addal state ih impurity, purify sin nafsi. ikkih atu taana ill, 
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** ii Ismaaqil, ii Eliya, ii Yuunus, ii Luut — nanu fafored tokke tokke iniki ih usun iro kullu tama tiya umatta.
+**6:86** ii Ismaaqil, ii Alyasaa, ii Yuunus, ii Luut — nanu fafored tokke tokke iniki ih usun iro kullu tama tiya umatta.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
