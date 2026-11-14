@@ -3675,7 +3675,7 @@ heading line in their sources, and none is printed for them here.
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّ مِّنَ ٱلصَّـٰلِحِينَ
 
-**6:86** Yeetel Ishmael, yeetel Elijah, yeetel Jonah, yeetel Lot — To'on ts'aaj uts ti' jujun tul ti' letio'ob yook'ol tulakal u laak' maako'ob.
+**6:86** Yeetel Ishmael, yeetel Elisha, yeetel Jonah, yeetel Lot — To'on ts'aaj uts ti' jujun tul ti' letio'ob yook'ol tulakal u laak' maako'ob.
 
 وَإِسْمَـٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًا ۚ وَكُلًّا فَضَّلْنَا عَلَى ٱلْعَـٰلَمِينَ
 
