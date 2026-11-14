@@ -1,0 +1,103 @@
+AYAH COMPANION — SANGO RENDERING
+MANIFEST — lane record, 2026-11-14
+
+ITEM
+Ayah Companion, Sango rendering, built from the corrected English
+manuscript of the Locked English Master lineage, under Robert's
+2026-11-14 ruling opening the Sango lane.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Sango review is required before any
+gifting or publication; review is invited. The status line stands
+inside the manuscript itself, in Sango and English, on its face,
+with AI assistance labelled. NOT SHELVED: the draft rests for
+Robert's separate shelving word.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography (the official Sango orthography, 1984), tone
+unmarked as in ordinary Sango print — reviewer item #1.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: no
+Sango Quran translation found after research (French-world scout,
+2026-11-13).
+
+FILES
+GLOSSARY-SG.md
+  2,262 bytes
+  SHA-256 32cd48a01b113bef8322cd0e2203d7265975795db44e09bf7fb7b50f9c6a4db1
+STYLEGUIDE-SG.md (the lane's binding drafting law, settled before drafting)
+  4,063 bytes
+  SHA-256 6f6616ff03376f74700878bb7596cb960cd40487a1b50effae7302fb62d92f9a
+BUILD-REPORT-SG.md
+  3,772 bytes
+  SHA-256 7827c33eec93fca362c012507b121ff895d463b289ad0bbfc13c6439635eaad2
+CHECKER-SG-SEPARATE-AGENT.md (independent checker, preserved unedited)
+  12,535 bytes
+  SHA-256 0246d3335975bb8ae52f8530519b776e1543adcd670f8e5003b7e996811ec0b5
+work/verification-sg.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-sg.txt — 12 named uncertain-seat items plus residue counts,
+  carried to the reviewer.
+  SHA-256 c4d3b17ac3f80365112764ecf8c38add365409b543f657ba49c34ee39a068e27
+ayah-companion-manuscript-SG.md
+  2,247,379 bytes
+  SHA-256 be0e74ef367787217a2f302c9759c73958116278ac3f8e8051ad18f150620f25
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-14: PASS true. Headers 114, head order true, verses 6,236,
+counts match meta true, continuity true, Arabic runs 6,462 identical
+to master and to meta, missing tags 0, prostration markers 15 match,
+note 56 present, slice verse lines 6,236, slice ref mismatches 0,
+slice paragraph mismatches 0, percent signs 0 in slices and in the
+manuscript.
+Lane checker (work/check_sg.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Nzapa (whole token)
+2,732 (master "God" 2,732); nzapa 79 (master "god" 79); anzapa 35
+(master "gods" 35); Gbia 980 (master "Lord" 969 + the 11 counted
+Master tokens at 1:4; 2:286; 3:150; 6:62; 6:127; 7:196; 10:30;
+34:41; 47:11 ×2; 66:2); zakat at exactly the 13 keyed slots;
+sadaka at exactly the 36 keyed tokens (2:272 ×3, 58:13 ×2).
+Independent checker (separate agent): PASS WITH FLAGS — MATERIAL 1,
+MINOR 3. The MATERIAL finding (Zechariah name key) was repaired in a
+fenced pass after the check and re-gated (checker problems 0,
+verify.py PASS); the figures above are the post-repair figures, and
+the checker's report is preserved unedited as the record of the catch.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+
+NOTES CARRIED TO THE REVIEWER
+1. God is rendered Nzapa, Sango's own God-word (the Sango Bible's
+   word and the word of daily speech). The generic convention
+   nzapa/anzapa and the Lord/Master merge into Gbia are disclosed
+   drafting choices, ruled on in STYLEGUIDE-SG decisions 2–3.
+2. Charity: zakat stands untranslated at exactly 13 keyed slots
+   (Quran-alone rule: no percentage is stated anywhere in the lane);
+   the sadaqa family is the loan sadaka at exactly 36 keyed tokens.
+3. Elisha is Elize at 6:86 (following the corrected master) and at
+   38:48, kept distinct from Elia (Elijah/Elias); the Elize form
+   follows the French/Sango Bible tradition and is flagged as the
+   reviewer's first name ruling (flags item 1).
+4. Fallback: 16,987 transliteration-fallback tokens (~12.1% of the
+   master's word tokens) and 1,336 positional identical tokens are
+   counted and disclosed in work/flags-sg.txt, not concealed.
+5. Rule A seams stand as printed: 18:103 sealed plural carried
+   exactly; 19:64 as printed; the 2:272 seam as printed.
