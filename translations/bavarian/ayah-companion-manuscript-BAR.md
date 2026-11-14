@@ -3701,7 +3701,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Und Ismael, und Elias, und Jona, und Lot — Mia ham jeden vo eana üba olle andre Leit begünstigt.
+**6:86** Und Ismael, und Elisa, und Jona, und Lot — Mia ham jeden vo eana üba olle andre Leit begünstigt.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 

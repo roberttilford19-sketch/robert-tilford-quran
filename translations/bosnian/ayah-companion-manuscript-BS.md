@@ -3702,7 +3702,7 @@ Ako ste u stanju nečistoće, očistite se. Ako ste bolesni, ili na putu, ili se
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** I Ismaila, i Eliju, i Junusa, i Luta — svakome od njih dali smo prednost nad svim drugim ljudima.
+**6:86** I Ismaila, i Elišu, i Junusa, i Luta — svakome od njih dali smo prednost nad svim drugim ljudima.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
