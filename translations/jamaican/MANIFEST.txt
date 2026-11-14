@@ -1,0 +1,24 @@
+MANIFEST — Ayah Companion Jamaican Creole
+
+Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 (ruling A — "Shelve all sixteen now, paced commits, read back after" — his word, 2026-11-14 ~10:05 CST).
+Wave-108 shelving run.
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a complete rendering of the Quran in Jamaican Creole — all 6,236 verses, the whole
+book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
+a working draft awaiting native Jamaican Creole review; it is not a finished or certified
+translation, and native Jamaican Creole review is required before any use as one. No
+first-translation claim is made.
+
+Claim boundary, carried in the manuscript's own head matter: no published Jamaican Quran translation of record was found after research; one anonymous web rendering exists — it is a witness, never a source; no first-translation claim is made.
+
+Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
+markers, first 1:1, last 114:6.
+
+Lane verification of record: desk verify PASS; independent checker PASS WITH FLAGS — MATERIAL 0 (CHECKER-JAM-SEPARATE-AGENT.md); the minor flags (one standing English-form pronoun token at 27:49; the transliteration residue "not" ×11 inside the disclosed fallback figure) ride to the native reviewer. The drafting method is disclosed in the book's own papers: a first-pass, word-by-word gloss in Cassidy/JLU phonemic orthography, with 10.3% of scanned tokens respelled rather than lexically rendered.
+
+The full lane record (build report, verification and checker records, flags)
+stands in the workspace lane folder ~/workspace/ayah-jamaican/, unrepaired.
+
+Files:
+  2120222  8c02aaf88681e955053fc8e034b3dbf111bba2a8a3b67c59e544e2b88aee6529  ayah-companion-manuscript-JAM.md
