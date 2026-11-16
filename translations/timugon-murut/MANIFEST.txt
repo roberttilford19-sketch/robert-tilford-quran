@@ -1,0 +1,111 @@
+AYAH COMPANION — TIMUGON MURUT RENDERING
+MANIFEST — lane record, 2026-11-16
+
+ITEM
+Ayah Companion, Timugon Murut (tih) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the Malaysia 39 wave (the scout's Class 3 row
+§6b #31), under Robert's Advance Rule of 2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Timugon Murut review is required
+before any gifting or publication; review is invited. The status
+line stands inside the manuscript itself, on its face, with AI
+assistance labelled.
+SHELVING: lands on the GitHub shelf under Robert's Pipeline
+Landing Authorization (2026-11-14 ~15:00), the full pipeline loop
+having completed (build, count, canonical verify, independent
+checker, Purple sweep reconciled); the landing is recorded in
+LANDING-RECORD-2026-11-16.md in this lane folder at the desk.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography — reviewer item.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: no
+Timugon Murut Quran translation found after research (Malaysia
+scout, 2026-11-14).
+
+FILES
+GLOSSARY-TIH.md
+  1,121 bytes
+  SHA-256 98691c681e33b6412932ef1a414d47e3311b0ade414642f7b1cdcbadf5c13bce
+STYLEGUIDE-TIH.md (the lane's binding drafting law, settled before drafting)
+  3,695 bytes
+  SHA-256 a4c4d8a3140eb49ae22d6f9c07350ddf78ebacd1d18cc2bb4593201901791267
+BUILD-REPORT-TIH.md
+  4,414 bytes
+  SHA-256 95edd555655c07782ddef9a796ab9d1386a3645efa42403e2cdc1ca3a3bfa553
+PURPLE-REPORT-TIH-2026-11-16.md (Purple sweep, report mode, reconciled 14 of 14, 0 unresolved)
+  12,709 bytes
+  SHA-256 d13bf4ac4a498078b3daa1b98a5d0e3c996970e091468587d480ab468ae0caf8
+CHECKER-TIH-SEPARATE-AGENT.md (independent checker, preserved unedited)
+  11,806 bytes
+  SHA-256 1a53cf724a2f5a8d785ec36dfcae7bae3fc73af09d500a2a6ba63e55950ebfb5
+work/verification-tih.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-tih.txt — 8 named uncertain-seat items plus residue counts, carried to the reviewer.
+  3,230 bytes
+  SHA-256 9e15f5657950a66de596ca90a2d237e155a9f5e4d6d0cdf61decda3e88a9b7fc
+ayah-companion-manuscript-TIH.md
+  2,277,669 bytes
+  SHA-256 1c8167bc41789f2448609d61333f72af2165cbc036d6ab8739808609b10b8aae
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-16: PASS true. Headers 114, head order true, verses
+6,236, counts match meta true, continuity true, Arabic runs
+6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse lines
+6,236, slice ref mismatches 0, slice paragraph mismatches 0,
+percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_tih.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Ala 2,732 (= master God 2,732); ala 79 (= god 79); ala-ala 35 (= gods 35); Tuhan 980 (= Lord 969 + the 11 counted Master tokens at 1:4; 2:286; 3:150; 6:62; 6:127; 7:196; 10:30; 34:41; 47:11 ×2; 66:2);
+zakat at exactly the 13 keyed slots; sedekah at exactly the 36
+keyed tokens (2:272 ×3; 58:13 ×2).
+Independent checker (separate agent): PASS WITH FLAGS — MATERIAL 0, MINOR 2.
+Its census confirmed every counted total exactly (all 200 naive-count "ala" excesses reconciling as the fear word ala'), its Arabic sequence matched at all 6,462 positions, and its template-leak gate read 0.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+
+NOTES CARRIED TO THE REVIEWER
+1. God is rendered Ala, the Murutic lanes' own God-word from the
+   community's Bible usage; the God-word is the reviewer's ruling
+   #1. The Lord/Master merge into Tuhan is a disclosed drafting
+   choice, ruled on in STYLEGUIDE-TIH decisions 2–3.
+2. The Murutic cluster base: Timugon-specific forms beyond the
+   Tagol base are not in the desk's record in depth and were not
+   invented — flags item 2, the reviewer's first work.
+3. Charity: zakat stands untranslated at exactly 13 keyed slots
+   (Quran-alone rule: no percentage is stated anywhere in the
+   lane); the sadaqa family is sedekah at exactly 36 keyed tokens.
+4. Elisha is Elisa at 6:86 (following the corrected master) and
+   at 38:48, kept distinct from Ilia (Elijah — the Murutic
+   cluster's own attested form, Tagol Bible John 1:21/1:25) —
+   flags item 1, the reviewer's first name ruling, with the
+   correction of record stated there. Jesus stands as Yasus and
+   Mary as Maria — the Murutic lanes' forms — as flags item 6.
+5. Fallback: 30,063 transliteration-fallback tokens (builder's
+   log; 23.0% of alphabetic tokens) and 17,327 unchanged-English
+   tokens (13.26%, checker's recount) are counted and disclosed
+   in work/flags-tih.txt, not concealed.
+6. Rule A seams stand as printed: 18:103 sealed plural carried
+   exactly (akai stands in the seat); 19:64 as printed; the
+   2:272 seam as printed.
