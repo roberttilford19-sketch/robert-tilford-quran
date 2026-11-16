@@ -1,0 +1,111 @@
+AYAH COMPANION — LOTUD RENDERING
+MANIFEST — lane record, 2026-11-16
+
+ITEM
+Ayah Companion, Lotud (dtr) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the Malaysia 39 wave (the scout's Class 3 row
+§6b #18), under Robert's Advance Rule of 2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Lotud review is required
+before any gifting or publication; review is invited. The status
+line stands inside the manuscript itself, on its face, with AI
+assistance labelled.
+SHELVING: lands on the GitHub shelf under Robert's Pipeline
+Landing Authorization (2026-11-14 ~15:00), the full pipeline loop
+having completed (build, count, canonical verify, independent
+checker, Purple sweep reconciled); the landing is recorded in
+LANDING-RECORD-2026-11-16.md in this lane folder at the desk.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography — reviewer item.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: no
+Lotud Quran translation found after research (Malaysia
+scout, 2026-11-14).
+
+FILES
+GLOSSARY-DTR.md
+  1,236 bytes
+  SHA-256 777859f8283500206152dc23d558a69fbbb4f33edc79ef9e987235688284cd1d
+STYLEGUIDE-DTR.md (the lane's binding drafting law, settled before drafting)
+  3,524 bytes
+  SHA-256 5c1717facba6b49e747fb3bc89df3e6b7d95a1a76ce1b48d76115c4c1a09f0b2
+BUILD-REPORT-DTR.md
+  4,295 bytes
+  SHA-256 d380a778607268e693b598ccbcac8f368452f24e86a3ea560280e3597af37b0b
+PURPLE-REPORT-DTR-2026-11-16.md (Purple sweep, report mode, reconciled 14 of 14, 0 unresolved)
+  12,286 bytes
+  SHA-256 c3b9979b69260f46d26872950ccc0833f35731559c0fd78ad78febe48b3766b5
+CHECKER-DTR-SEPARATE-AGENT.md (independent checker, preserved unedited)
+  7,278 bytes
+  SHA-256 3fdfab92c9a48ee5b5edde784d0a95f760bd60355783c0b97c88b4743c0a1301
+work/verification-dtr.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-dtr.txt — 8 named uncertain-seat items plus residue counts, carried to the reviewer.
+  2,526 bytes
+  SHA-256 d41832fb4639bf905e7589a73a5ced49fb222ba400e7b580408340ec82981b6b
+ayah-companion-manuscript-DTR.md
+  2,378,109 bytes
+  SHA-256 717b40e9c9fdf80a683e30d37e638ee8a6b3ef03419c1d152368c49f02a076ff
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-16: PASS true. Headers 114, head order true, verses
+6,236, counts match meta true, continuity true, Arabic runs
+6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse lines
+6,236, slice ref mismatches 0, slice paragraph mismatches 0,
+percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_dtr.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Kinorohingan 2,732 (= master God 2,732); kinorohingan 79 (= god 79); kinorohingan-kinorohingan 35 (= gods 35); Tuhan 980 (= Lord 969 + the 11 counted Master tokens at 1:4; 2:286; 3:150; 6:62; 6:127; 7:196; 10:30; 34:41; 47:11 ×2; 66:2);
+zakat at exactly the 13 keyed slots; sedekah at exactly the 36
+keyed tokens (2:272 ×3; 58:13 ×2).
+Independent checker (separate agent): PASS WITH FLAGS — MATERIAL 0, MINOR 1.
+Its census confirmed every counted total exactly, its Arabic sequence matched at all 6,462 positions, and its template-leak gate read 0.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+
+NOTES CARRIED TO THE REVIEWER
+1. God is rendered Kinorohingan, the Dusunic Creator-word of the
+   template lane; the God-word is the reviewer's ruling #1. The
+   Lord/Master merge into Tuhan is a disclosed drafting choice,
+   ruled on in STYLEGUIDE-DTR decisions 2–3.
+2. The Dusunic cluster base: Lotud-specific forms beyond the
+   Kadazan-Dusun base are not in the desk's record in depth and
+   were not invented — flags item 2, the reviewer's first work.
+3. Charity: zakat stands untranslated at exactly 13 keyed slots
+   (Quran-alone rule: no percentage is stated anywhere in the
+   lane); the sadaqa family is sedekah at exactly 36 keyed tokens.
+4. Elisha is Elisa at 6:86 (following the corrected master) and
+   at 38:48, kept distinct from Elia (Elijah/Elias) — flags item
+   1, the reviewer's first name ruling. Jesus stands as Yesus
+   and Mary as Maria — the Dusunic lanes' forms — as flags item 6.
+5. Fallback: 16,717 transliteration-fallback tokens (builder's
+   log) and 7.00% unchanged-English tokens by the checker's
+   paired-verse recount are counted and disclosed in
+   work/flags-dtr.txt, not concealed. Instrument note: the
+   Dusunic demonstrative ino and the particle do are the base's
+   own grammar words, not residue.
+6. Rule A seams stand as printed: 18:103 sealed plural carried
+   exactly (tokou stands in the seat); 19:64 as printed; the
+   2:272 seam as printed.
