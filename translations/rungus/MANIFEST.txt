@@ -1,0 +1,111 @@
+AYAH COMPANION — RUNGUS RENDERING
+MANIFEST — lane record, 2026-11-16
+
+ITEM
+Ayah Companion, Rungus (drg) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the Malaysia 39 wave (the scout's Class 3 row
+§6b #25), under Robert's Advance Rule of 2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Rungus review is required
+before any gifting or publication; review is invited. The status
+line stands inside the manuscript itself, on its face, with AI
+assistance labelled.
+SHELVING: lands on the GitHub shelf under Robert's Pipeline
+Landing Authorization (2026-11-14 ~15:00), the full pipeline loop
+having completed (build, count, canonical verify, independent
+checker, Purple sweep reconciled); the landing is recorded in
+LANDING-RECORD-2026-11-16.md in this lane folder at the desk.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography — reviewer item.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: no
+Rungus Quran translation found after research (Malaysia
+scout, 2026-11-14).
+
+FILES
+GLOSSARY-DRG.md
+  1,238 bytes
+  SHA-256 38b791a42b88d9dd6b1fd834e7fde8357dafa65ec6c1f2455137206cfc659e1f
+STYLEGUIDE-DRG.md (the lane's binding drafting law, settled before drafting)
+  3,594 bytes
+  SHA-256 52898abf2ecdd508cdffa35fb364dfef47391229819c50948f373cc67286f190
+BUILD-REPORT-DRG.md
+  4,488 bytes
+  SHA-256 469b5831809d80f01ea3936cbcc24784818f6316847afc14ebfdca0628fa00c2
+PURPLE-REPORT-DRG-2026-11-16.md (Purple sweep, report mode, reconciled 14 of 14, 0 unresolved)
+  12,734 bytes
+  SHA-256 2f7e70d46c0c26b705b5db9fee85d405c981cb6bd69a791f84feffeb604624fa
+CHECKER-DRG-SEPARATE-AGENT.md (independent checker, preserved unedited)
+  12,579 bytes
+  SHA-256 1638ef31f008615f0b810d26d3f30ac93f5487b60c17b39f234b1bb36047f6c2
+work/verification-drg.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-drg.txt — 9 named uncertain-seat items plus residue counts, carried to the reviewer.
+  3,081 bytes
+  SHA-256 dbae131bde744f2bead5899c025cd11a50a50044059d21f54809951da7cc3633
+ayah-companion-manuscript-DRG.md
+  2,378,103 bytes
+  SHA-256 0273cdd7d8df13fdb58aef634e8534dc30687abebd53b104ee228a2f57adc009
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-16: PASS true. Headers 114, head order true, verses
+6,236, counts match meta true, continuity true, Arabic runs
+6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse lines
+6,236, slice ref mismatches 0, slice paragraph mismatches 0,
+percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_drg.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Kinorohingan 2,732 (= master God 2,732); kinorohingan 79 (= god 79); kinorohingan-kinorohingan 35 (= gods 35); Tuhan 980 (= Lord 969 + the 11 counted Master tokens at 1:4; 2:286; 3:150; 6:62; 6:127; 7:196; 10:30; 34:41; 47:11 ×2; 66:2);
+zakat at exactly the 13 keyed slots; sedekah at exactly the 36
+keyed tokens (2:272 ×3; 58:13 ×2).
+Independent checker (separate agent): PASS WITH FLAGS — MATERIAL 0, MINOR 2.
+Its census confirmed every counted total exactly under two counting methods, its Arabic sequence matched at all 6,462 positions, and its template-leak gate read 0.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+
+NOTES CARRIED TO THE REVIEWER
+1. God is rendered Kinorohingan, the Dusunic Creator-word of the
+   template lane; the God-word is the reviewer's ruling #1. The
+   Lord/Master merge into Tuhan is a disclosed drafting choice.
+2. The Dusunic cluster base: Rungus-specific forms beyond the
+   Kadazan-Dusun base are not in the desk's record in depth and
+   were not invented — flags item 2, the reviewer's first work.
+   The KDMRS Rungus workshop note rides as flags item 9.
+3. Charity: zakat stands untranslated at exactly 13 keyed slots
+   (Quran-alone rule: no percentage is stated anywhere in the
+   lane); the sadaqa family is sedekah at exactly 36 keyed tokens.
+4. Elisha is Elisa at 6:86 (following the corrected master) and
+   at 38:48, kept distinct from Elia (Elijah/Elias) — the
+   reviewer's first name ruling. Jesus stands as Yesus and Mary
+   as Maria — the Dusunic lanes' forms.
+5. Fallback: 16,717 transliteration-fallback tokens (builder's
+   log) and 8,800 unchanged-English tokens (6.20% of verse
+   tokens, checker's recount) are counted and disclosed in
+   work/flags-drg.txt, not concealed. Instrument note: the
+   Dusunic demonstrative ino and the particle do are the base's
+   own grammar words, not residue.
+6. Rule A seams stand as printed: 18:103 sealed plural carried
+   exactly (tokou stands in the seat); 19:64 as printed; the
+   2:272 seam as printed.
