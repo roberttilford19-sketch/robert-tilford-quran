@@ -1,0 +1,110 @@
+AYAH COMPANION — CENTRAL SAMA RENDERING
+MANIFEST — lane record, 2026-11-16
+
+ITEM
+Ayah Companion, Central Sama (sml) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the Malaysia 39 wave (the scout's Class 3 row
+§6b #27), under Robert's Advance Rule of 2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Central Sama review is required
+before any gifting or publication; review is invited. The status
+line stands inside the manuscript itself, on its face, with AI
+assistance labelled.
+SHELVING: lands on the GitHub shelf under Robert's Pipeline
+Landing Authorization (2026-11-14 ~15:00), the full pipeline loop
+having completed (build, count, canonical verify, independent
+checker, Purple sweep reconciled); the landing is recorded in
+LANDING-RECORD-2026-11-16.md in this lane folder at the desk.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography — reviewer item.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: no
+Central Sama Quran translation found after research (Malaysia
+scout, 2026-11-14).
+
+FILES
+GLOSSARY-SML.md
+  1,063 bytes
+  SHA-256 f50dcfcf7fc029a3da2242a29cb05ef5ed7ce8b9eaa250dfbcb8df735a5a50d2
+STYLEGUIDE-SML.md (the lane's binding drafting law, settled before drafting)
+  3,428 bytes
+  SHA-256 d8599af9d6ed325a92217c08baa0c9a2eb448d1454e644f0c3058aa0607cb21b
+BUILD-REPORT-SML.md
+  4,564 bytes
+  SHA-256 aee99c56568eff269f80c168140f8c6adeb36f753817134b06be629e37c0f584
+PURPLE-REPORT-SML-2026-11-16.md (Purple sweep, report mode, reconciled 14 of 14, 0 unresolved)
+  12,587 bytes
+  SHA-256 68fe116c86344ad70c405852d1d4eb66210ba75dcf0cbadff3fa6ea01b8e2dba
+CHECKER-SML-SEPARATE-AGENT.md (independent checker, preserved unedited)
+  14,879 bytes
+  SHA-256 9a1f4ddc098e6b48dd48004435ccbb0802ba579629f12517148bb7dae568e665
+work/verification-sml.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-sml.txt — 8 named uncertain-seat items plus residue counts, carried to the reviewer.
+  3,033 bytes
+  SHA-256 02128d8f26c3f755ba5f677ef0485c73271fc087ba698db86c1a516d391b9577
+ayah-companion-manuscript-SML.md
+  2,341,618 bytes
+  SHA-256 a815f67a9ae8133f11523fe063762ec0bedab1b0f278dbb1e7f333cac7180d96
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-16: PASS true. Headers 114, head order true, verses
+6,236, counts match meta true, continuity true, Arabic runs
+6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse lines
+6,236, slice ref mismatches 0, slice paragraph mismatches 0,
+percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_sml.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Allah 2,732 (= master God 2,732); allah 79 (= god 79); allah-allah 35 (= gods 35); Tuhan 980 (= Lord 969 + the 11 counted Master tokens at 1:4; 2:286; 3:150; 6:62; 6:127; 7:196; 10:30; 34:41; 47:11 ×2; 66:2);
+zakat at exactly the 13 keyed slots; sedekah at exactly the 36
+keyed tokens (2:272 ×3; 58:13 ×2).
+Independent checker (separate agent): PASS — MATERIAL 0, MINOR 0 (second run, on the corrected text; the first run returned PASS WITH FLAGS — MATERIAL 0, MINOR 1, report preserved at work/CHECKER-SML-FIRST-RUN.md).
+Both runs confirmed every counted total exactly; the second run's own manuscript-to-slice comparison was exact at all 6,236 verses (the 5:6 two-block printing recombining exactly), its Arabic sequence matched at all 6,462 positions, and its foreign-residue scans read 0 (Kinorohingan 0; standalone Ala as a God-word 0).
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+
+NOTES CARRIED TO THE REVIEWER
+1. God is rendered Allah, the community's own God-word for its
+   Muslim readers; the God-word is the reviewer's ruling #1. The
+   Lord/Master merge into Tuhan is a disclosed drafting choice,
+   ruled on in STYLEGUIDE-SML decisions 2–3.
+2. The Sama-Bajaw cluster base: Central-Sama-specific forms
+   beyond the Bajau base are not in the desk's record in depth
+   and were not invented — flags item 2, the reviewer's first
+   work.
+3. Charity: zakat stands untranslated at exactly 13 keyed slots
+   (Quran-alone rule: no percentage is stated anywhere in the
+   lane); the sadaqa family is sedekah at exactly 36 keyed tokens.
+4. Elisha is Elisa at 6:86 (following the corrected master) and
+   at 38:48, kept distinct from Elia (Elijah/Elias) — the
+   reviewer's first name ruling. Jesus stands as Isa and Mary as
+   Maryam — the Quran's own names.
+5. Fallback: 12,725 transliteration-fallback tokens (builder's
+   log) and 7,149 unchanged-English tokens (4.95% of tokens,
+   first checker's recount) are counted and disclosed in
+   work/flags-sml.txt, not concealed.
+6. Rule A seams stand as printed: 18:103 sealed plural carried
+   exactly (kami stands in the seat); 19:64 as printed; the
+   2:272 seam as printed.
