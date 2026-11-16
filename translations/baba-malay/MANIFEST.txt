@@ -1,0 +1,132 @@
+AYAH COMPANION — BABA MALAY RENDERING
+MANIFEST — lane record, 2026-11-16
+
+ITEM
+Ayah Companion, Baba Malay (mbf) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, as the Malaysia 39 wave's first build (the scout's
+Class 3 row §6a #1), under Robert's Advance Rule of 2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Baba Malay review is required
+before any gifting or publication; review is invited. The status
+line stands inside the manuscript itself, in Baba Malay and
+English, on its face, with AI assistance labelled.
+SHELVING: lands on the GitHub shelf under Robert's Pipeline
+Landing Authorization (2026-11-14 ~15:00), the full pipeline loop
+having completed (build, count, canonical verify, independent
+checker, Purple sweep reconciled); the landing is recorded in
+LANDING-RECORD-2026-11-16.md in this lane folder at the desk.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography (the Latin script of Baba Malay print) —
+reviewer item.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: no
+Baba Malay Quran translation found after research (Malaysia
+scout, 2026-11-14).
+
+FILES
+GLOSSARY-MBF.md
+  1,279 bytes
+  SHA-256 1f2799ed4983fa9300b9750677fd6bd1db7feb5c434d9edcee4fad2a64c622f8
+STYLEGUIDE-MBF.md (the lane's binding drafting law, settled before drafting)
+  3,495 bytes
+  SHA-256 f7a7d3f7a18fa703a264885d07eb269defda3bc8dfc67154be33a34e74f7adb8
+BUILD-REPORT-MBF.md
+  5,221 bytes
+  SHA-256 b9b60ce838530e249fdd474a208465c4ad97cbb04e1f684a1762edd3bd724daf
+PURPLE-REPORT-MBF-2026-11-16.md (Purple sweep, report mode, reconciled 14 of 14, 0 unresolved)
+  13,285 bytes
+  SHA-256 b507415b40da86782be6f8018710a1f67d8ac05e4fcd8c52dcd5b3e3c0c642ae
+CHECKER-MBF-SEPARATE-AGENT.md (independent checker, second run on the repaired text, preserved unedited)
+  14,944 bytes
+  SHA-256 1a9dde3c25b5a0770c36f233ed70c733c604c8eef7a052f29287494e2e640e01
+work/verification-mbf.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-mbf.txt — 9 named uncertain-seat items plus residue counts and the repair of record, carried to the reviewer.
+  3,005 bytes
+  SHA-256 730e4d6a56bcfb3cbd1480c09a72ba93cbebd40a198dace3275650814b1cf0d6
+ayah-companion-manuscript-MBF.md
+  2,378,621 bytes
+  SHA-256 ce52274a1c4d0e56872c8a2e1d9d356bdaeafd5a936dd71b7bfc8e29eb85e2ae
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-16 on the repaired text: PASS true. Headers 114, head
+order true, verses 6,236, counts match meta true, continuity true,
+Arabic runs 6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse lines
+6,236, slice ref mismatches 0, slice paragraph mismatches 0,
+percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_mbf.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Allah (whole
+token) 2,732 (master "God" 2,732); allah 79 (master "god" 79);
+allah-allah 35 (master "gods" 35); Tuhan 980 (master "Lord" 969 +
+the 11 counted Master tokens at 1:4; 2:286; 3:150; 6:62; 6:127;
+7:196; 10:30; 34:41; 47:11 ×2; 66:2); zakat at exactly the 13
+keyed slots; sedekah at exactly the 36 keyed tokens (2:272 ×3;
+58:13 ×2).
+Independent checker (separate agent, second run): PASS WITH
+FLAGS — MATERIAL 0, MINOR 2. Both MINORs (the 4.75%
+unchanged-English residue; the misspelt residue token
+"Benefisent" at 1:3) are carried in work/flags-mbf.txt as items
+8–9; no repair was required after the second check. Its
+Bajau-leak gate read 0.
+
+REPAIR OF RECORD
+After the first independent check (PASS WITH FLAGS, MATERIAL 0,
+MINOR 2; preserved at work/CHECKER-MBF-FIRST-RUN.md), a desk
+scan found Bajau forms leaking through 14 unreplaced template
+lexicon entries. The 14 entries were repaired to Malay/Baba
+forms, the lane rebuilt, and every gate re-run on the repaired
+text before this manifest was written. The repair is recorded
+in BUILD-REPORT-MBF.md, work/flags-mbf.txt, and the Purple
+report's ledger basis.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+
+NOTES CARRIED TO THE REVIEWER
+1. God is rendered Allah, the Malay world's own God-word. The
+   weighed alternative (a native Peranakan Creator-word) is
+   recorded in STYLEGUIDE-MBF decision 2; the God-word is the
+   reviewer's ruling #1. The Lord/Master merge into Tuhan is a
+   disclosed drafting choice, ruled on in STYLEGUIDE-MBF
+   decisions 2–3.
+2. Charity: zakat stands untranslated at exactly 13 keyed slots
+   (Quran-alone rule: no percentage is stated anywhere in the
+   lane); the sadaqa family is sedekah at exactly 36 keyed tokens.
+3. Elisha is Elisa at 6:86 (following the corrected master) and
+   at 38:48, kept distinct from Elia (Elijah/Elias); the Elisa
+   form follows Malay Bible usage and is flagged as the
+   reviewer's first name ruling (flags item 1). Jesus stands as
+   Isa and Mary as Maryam — the Quran's own names, against the
+   master's printed forms — as flags item 6.
+4. The Baba register: sama (with), kasi (give), dia orang (they),
+   and the punya possessive are set deliberately; Hokkien loans
+   of living Baba speech were not imposed on the scripture
+   register — flags item 2, the reviewer's ruling.
+5. Fallback: 12,967 transliteration-fallback tokens (builder's
+   log) and 7,182 unchanged-English tokens (4.75% of slice
+   tokens, independent checker's recount) are counted and
+   disclosed in work/flags-mbf.txt, not concealed.
+6. Rule A seams stand as printed: 18:103 sealed plural carried
+   exactly; 19:64 as printed; the 2:272 seam as printed.
