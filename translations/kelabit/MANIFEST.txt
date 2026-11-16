@@ -1,0 +1,113 @@
+AYAH COMPANION — KELABIT RENDERING
+MANIFEST — lane record, 2026-11-16
+
+ITEM
+Ayah Companion, Kelabit (kzi) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the Malaysia 39 wave (the scout's Class 3 row
+§6b #14), under Robert's Advance Rule of 2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Kelabit review is required
+before any gifting or publication; review is invited. The status
+line stands inside the manuscript itself, on its face, with AI
+assistance labelled.
+SHELVING: lands on the GitHub shelf under Robert's Pipeline
+Landing Authorization (2026-11-14 ~15:00), the full pipeline loop
+having completed (build, count, canonical verify, independent
+checker, Purple sweep reconciled); the landing is recorded in
+LANDING-RECORD-2026-11-16.md in this lane folder at the desk.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography — reviewer item.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: no
+Kelabit Quran translation found after research (Malaysia
+scout, 2026-11-14).
+
+FILES
+GLOSSARY-KZI.md
+  1,044 bytes
+  SHA-256 e7dead2496017c9ed3659c26b23815ac0a7742896d7037bc91b3a6d1c2dd9476
+STYLEGUIDE-KZI.md (the lane's binding drafting law, settled before drafting)
+  3,619 bytes
+  SHA-256 30c0f6c6f7bce7b1844df30acbd21fb807ee7d145684c8d3884419c553c551df
+BUILD-REPORT-KZI.md
+  4,450 bytes
+  SHA-256 7cc09f750f6de811736eb39e1b09103138989574b14a5fe262fa701cd687e50e
+PURPLE-REPORT-KZI-2026-11-16.md (Purple sweep, report mode, reconciled 14 of 14, 0 unresolved)
+  12,558 bytes
+  SHA-256 009c8d7b7b8a7e03bd45e12556d40271234eabc158c53040ce8431f40cde7213
+CHECKER-KZI-SEPARATE-AGENT.md (independent checker, preserved unedited)
+  13,654 bytes
+  SHA-256 01a62ba8309759dc04e22aef964a5a506c777111a48683424e00675df7b5e8e3
+work/verification-kzi.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-kzi.txt — 8 named uncertain-seat items plus residue counts, carried to the reviewer.
+  2,358 bytes
+  SHA-256 4effd77619b3daede3ea5ab3f58e2f13d46286e8da24d3ce39a17d95394ae01d
+ayah-companion-manuscript-KZI.md
+  2,213,381 bytes
+  SHA-256 821a680c8b973528c90de3eca09a30d4c612c34a7423a7f2cc5723c0e9fe8c37
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-16: PASS true. Headers 114, head order true, verses
+6,236, counts match meta true, continuity true, Arabic runs
+6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse lines
+6,236, slice ref mismatches 0, slice paragraph mismatches 0,
+percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_kzi.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Allah 2,732 (= master God 2,732); allah 79 (= god 79); allah-allah 35 (= gods 35); Tuhan 980 (= Lord 969 + the 11 counted Master tokens at 1:4; 2:286; 3:150; 6:62; 6:127; 7:196; 10:30; 34:41; 47:11 ×2; 66:2);
+zakat at exactly the 13 keyed slots; sedekah at exactly the 36
+keyed tokens (2:272 ×3; 58:13 ×2).
+Independent checker (separate agent): PASS WITH FLAGS — MATERIAL 0, MINOR 4.
+Its census confirmed every counted total exactly, its Arabic sequence matched at all 6,462 positions, its template-leak gate read 0, and it re-summed the builder's fallback figure exactly.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+
+NOTES CARRIED TO THE REVIEWER
+1. God is rendered Allah, the Kelabit Bible's own God-word; the
+   God-word is the reviewer's ruling #1. The Lord/Master merge
+   into Tuhan is a disclosed drafting choice, ruled on in
+   STYLEGUIDE-KZI decisions 2–3.
+2. The sister-language base: Kelabit-specific forms beyond the
+   Lun Bawang base are not in the desk's record in depth and were
+   not invented — flags item 2, the reviewer's first work. The
+   frame furniture stands in Malay and English (flags item 8).
+3. Charity: zakat stands untranslated at exactly 13 keyed slots
+   (Quran-alone rule: no percentage is stated anywhere in the
+   lane); the sadaqa family is sedekah at exactly 36 keyed tokens.
+4. Elisha is Elisa at 6:86 (following the corrected master) and
+   at 38:48, kept distinct from Elia (Elijah/Elias) — flags item
+   1, the reviewer's first name ruling. Jesus stands as Yésus
+   and Mary as Mariam — the North Sarawak lanes' forms — as
+   flags item 6. The checker's 1:3 mercy-doublet note rides as a
+   reviewer ruling in its report.
+5. Fallback: 40,992 transliteration-fallback tokens (builder's
+   log; 32.3% of verse tokens) and 24,186 unchanged-English
+   tokens (19.09%, checker's recount) are counted and disclosed
+   in work/flags-kzi.txt, not concealed — the wave's heaviest
+   residue, at its true size.
+6. Rule A seams stand as printed: 18:103 sealed plural carried
+   exactly (kai stands in the seat); 19:64 as printed; the 2:272
+   seam as printed.
