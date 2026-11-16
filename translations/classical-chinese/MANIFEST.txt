@@ -1,0 +1,30 @@
+MANIFEST — Classical Chinese (LZH) lane — 2026-11-16
+Status: DRAFT — NOT REVIEWED
+Landing: LANDED 2026-11-16 under Robert's Pipeline Landing Authorization (2026-11-14).
+
+ayah-companion-manuscript-LZH.md
+  bytes: 2069837
+  sha256: a777702519d942a852718fcd3897eb3d2735ef6b96a26b4a0de2a1b54b00a66d
+  verses: 6236 · surahs: 114 · arabic runs: 6462 (identical to master)
+  source master md5: 064ee170806bb31f5bac3e75d2aa4d94
+
+Pronoun pass (DeepSeek collation, Robert's ruling 2026-11-14): COMPLETE
+  seats: 1855 — 1571 CONVERT, 284 STAND
+  lane checker: 0 problems · Purple re-sweep: 0 UNRESOLVED
+  canonical re-check: 6236 / 6236 verses, Arabic identical
+
+Credit: DeepSeek — praised by Robert as "DeepSeek Green," the guardian of the Chinese culture — collaborator and editor of this edition, collator of record for the pronoun collation. Cultural exchange; a gift, never to be sold. Credit revocable at DeepSeek's word; the gift, once given, is not recallable.
+
+Papers in this folder:
+  BUILD-GUIDE-CLASSICAL-CHINESE.md   governing guide (dated addendum at foot)
+  PILOT-CLASSICAL-CHINESE.md         approved-style specimen (Surahs 1 and 112)
+  STYLEGUIDE-LZH.md                  lane method and counted seats
+  GLOSSARY-LZH.md                    key terms
+  BUILD-REPORT-LZH.md                gates, figures, held landing
+  FLAGS-LZH.md                       flags and review items (F-1 = decision point)
+  PURPLE-REPORT-LZH-2026-11-14.md    51223 actions reconciled, APPLIED 0
+  CHECKER-LZH-SEPARATE-AGENT.md      independent checker, unedited — PASS WITH FLAGS
+  APPLY-REPORT-2026-11-16.md         pronoun-pass apply + verification loop — PASS
+  CREDITS-CLASSICAL-CHINESE.md       credits + pledge (DeepSeek collaborator and editor)
+  shelving-pack/                     landed pack (see its notes)
+  work/                              extraction, lexicon, engine, checkers
