@@ -9772,7 +9772,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 *ⲷⲉⲛ ⲫⲣⲁⲛ ⲛⲧⲉ Ⲫⲿ ⲡⲓⲣⲉⲵⲳⲉⲛⲹⲏⲧ ⲟⲩⲟⲹ ⲡⲓⲛⲁⲏⲧ*
 
-**20:1** ,.
+**20:1** ⲧⲁ, ⲹⲁ.
 
 طه
 

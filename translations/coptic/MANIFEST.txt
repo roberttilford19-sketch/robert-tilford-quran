@@ -14,11 +14,13 @@ awaits Robert's separate word.
 
 FILES (deliverables first; sizes in bytes, SHA-256 abbreviated to 16 hex)
 
-ayah-companion-manuscript-COP.md   3156613  03edc003e40a3e85
+ayah-companion-manuscript-COP.md   3156632  aaa77dd509853805
   The complete book: front matter (DRAFT — NOT REVIEWED inside),
   catalogue, 114 surah heads, 6,236 verses with the Arabic beside
   every rendering. Full SHA-256:
-  03edc003e40a3e85ed0fc913829063f2998712f31893193d77e234c25d41bdcc
+  aaa77dd509853805fbb3760701657896dba745a6dbe5bc9cbe0d751c436213c4
+  (Figures current as of the 20:1 repair of 2026-11-16 — see the
+  REPAIR NOTE at the foot of this manifest for the full hash chain.)
 STYLEGUIDE-COP.md                    42341  44ef0e44b0fff163
   The lane's governing decisions (1–15) and the 12 numbered reviewer
   rulings.
@@ -94,3 +96,36 @@ NOTES
 - Claim boundary: NO first-translation claim is made for this draft,
   and no claim about any other rendering. Freely given; zakat is
   given no percentage.
+
+REPAIR NOTE — 2026-11-16 (verse 20:1)
+- Authority: Robert Tilford's ruling A of 2026-11-16 ("Repair Coptic
+  20:1 now"). The lane's status is unchanged: DRAFT — NOT REVIEWED.
+- Defect (independent checker, 2026-11-14): the 20:1 line read ",." —
+  the disconnected letters Ṭā, Hā were lost in the lane's
+  normalization; marker, verse count, and the Arabic (طه) intact.
+- Repair: the line now reads "ⲧⲁ, ϩⲁ." Ṭā = ⲧⲁ, the lane's own
+  spelling at 26:1, 27:1, 28:1; Hā = ϩⲁ, the lane's spelling of the
+  /h/-class letter name (Ḥā at 43:1–46:1 — Coptic script carries one
+  letter for the sound, and the lane spells letter names by sound
+  throughout: ⲁⲗⲓⲫ, ⲗⲁⲙ, ⲙⲓⲙ, ⲥⲁⲁⲇ, ⲣⲁ, ⲥⲓⲛ, ⲕⲁⲫ, ⲛⲟⲩⲛ, Ⲓⲁ).
+  The comma and period are the verse's own surviving punctuation,
+  matching the master's "Ta, Ha."
+- Applied identically in the manuscript, work/cop/surah_020.txt,
+  and work/draft_r6_data.py. Pre-repair copies kept beside each file
+  with the suffix .PRE-20-1-FIX-2026-11-16.
+- Verification (2026-11-16): diff against the pre-repair manuscript
+  is exactly one line (9775); verse markers 6,236 of 6,236; amended
+  verify.py PASS on every field (Arabic 6,462 runs identical to the
+  master and to meta; markers 15; slice lines 6,236, ref and
+  paragraph mismatches 0; "%" 0); check_cop.py over all 114 surahs:
+  problems 0, censuses unchanged (God 2,732; god/gods 114; Lord 969;
+  Master 11; zakat 13; sadaqa 36; banned ⲡⲛⲟⲩⲧⲉ 0).
+- Manuscript hash chain: 03edc003e40a3e85… (3,156,613 bytes,
+  checker-verified 2026-11-14) → c63bd1fb40921072… (3,156,619 bytes,
+  after the ruled 6:86 fix) → aaa77dd509853805… (3,156,632 bytes,
+  this repair).
+- The repair sweep also found further muqatta'at anomalies — 19:1
+  (empty, same defect class), 38:1, 40:1, 41:1, 42:1, 42:2 —
+  recorded in the dated addendum to
+  CHECKER-REPORT-COP-INDEPENDENT-2026-11-14.md. They are NOT
+  repaired; they await Robert's word.
