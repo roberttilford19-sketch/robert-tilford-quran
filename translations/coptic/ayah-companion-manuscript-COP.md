@@ -16486,7 +16486,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 *ⲷⲉⲛ ⲫⲣⲁⲛ ⲛⲧⲉ Ⲫⲿ ⲡⲓⲣⲉⲵⲳⲉⲛⲹⲏⲧ ⲟⲩⲟⲹ ⲡⲓⲛⲁⲏⲧ*
 
-**38:1** ⲡⲁⲓⲕⲟⲣⲁⲛ.
+**38:1** ⲥⲁⲁⲇ. ⲡⲁⲓⲕⲟⲣⲁⲛ.
 
 صٓ ۚ وَٱلْقُرْءَانِ ذِى ٱلذِّكْرِ
 

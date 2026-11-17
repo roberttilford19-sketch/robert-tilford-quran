@@ -14,12 +14,12 @@ awaits Robert's separate word.
 
 FILES (deliverables first; sizes in bytes, SHA-256 abbreviated to 16 hex)
 
-ayah-companion-manuscript-COP.md   3156670  0bf3e4f12d0dd23b
+ayah-companion-manuscript-COP.md   3156684  5c5d2f8fc5d7e230
   The complete book: front matter (DRAFT — NOT REVIEWED inside),
   catalogue, 114 surah heads, 6,236 verses with the Arabic beside
   every rendering. Full SHA-256:
-  0bf3e4f12d0dd23b4877aeef73744e31a8eb1733de4a9c4ec2f72e7e9eb86249
-  (Figures current as of the 42:2 repair of 2026-11-16 — see the
+  5c5d2f8fc5d7e23044cfec8d002b8036d0e7cfa4c456b7d8e2499cd8d28fd281
+  (Figures current as of the 38:1 repair of 2026-11-16 — see the
   REPAIR NOTEs at the foot of this manifest for the full hash chain.)
 STYLEGUIDE-COP.md                    42341  44ef0e44b0fff163
   The lane's governing decisions (1–15) and the 12 numbered reviewer
@@ -234,4 +234,44 @@ REPAIR NOTE — 2026-11-16 (verse 42:2)
   Master 11; zakat 13; sadaqa 36; banned ⲡⲛⲟⲩⲧⲉ 0).
 - Manuscript hash chain: 76e052ce4ede2e23… (3,156,674 bytes,
   after the 19:1 repair) → 0bf3e4f12d0dd23b… (3,156,670 bytes,
+  this repair).
+
+REPAIR NOTE — 2026-11-16 (verse 38:1)
+- Authority: Robert Tilford's ruling A on Decision 29 of 2026-11-16
+  ("Repair Coptic 38:1 now on the settled Ṣād spelling"). The
+  lane's status is unchanged: DRAFT — NOT REVIEWED.
+- Defect (independent checker, 2026-11-14, §"38:1 — the letter name
+  is absent"): the 38:1 line read "ⲡⲁⲓⲕⲟⲣⲁⲛ." ("this Quran.") —
+  the single disconnected letter Ṣād was absent; the Arabic (صٓ)
+  and the verse count intact. (The surah's intro head does carry
+  the name: "Ⲥⲁⲇ: …".)
+- Repair: the line now reads "ⲥⲁⲁⲇ. ⲡⲁⲓⲕⲟⲣⲁⲛ." Ṣād = ⲥⲁⲁⲇ,
+  the spelling standing in the restored 19:1 line itself ("…,
+  ⲁⲓⲛ, ⲥⲁⲁⲇ."), extracted from that line and machine-verified
+  codepoint-identical to the ruled string (U+2CA5 U+2C81 U+2C81
+  U+2C87). The period after the name follows the master's "Saad.
+  By the renowned Quran." and the lane's other single-letter seat
+  (68:1, "ⲛⲟⲩⲛ. …"). The standing remainder "ⲡⲁⲓⲕⲟⲣⲁⲛ." is
+  untouched: this ruling restores the letter only, and the oath
+  clause stands as the lane renders it.
+- Scope fence: 40:1 and 41:1 — the placeholder seats — are NOT
+  repaired by this ruling, nor is 42:1; they await their own
+  rulings. The repair asserted the 38:INTRO line and the 40:1 and
+  41:1 lines unchanged.
+- Applied identically in the manuscript, work/cop/surah_038.txt,
+  and work/draft_r9_data.py (all three layers agreed
+  codepoint-for-codepoint on the defective body; no layer variance
+  at this seat). Pre-repair copies kept beside each file with the
+  suffix .PRE-381-FIX-2026-11-16.
+- Verification (2026-11-16): diff against the pre-repair
+  manuscript is exactly one line (16489); verse markers 6,236 of
+  6,236; amended verify PASS on every field (Arabic 6,462 runs
+  identical to the master and to meta; markers 15; slice lines
+  6,236, ref and paragraph mismatches 0; "%" 0), and the rewritten
+  verification record is identical on every field to the
+  pre-repair record; check_cop.py over all 114 surahs: problems
+  0, censuses unchanged (God 2,732; god/gods 114; Lord 969;
+  Master 11; zakat 13; sadaqa 36; banned ⲡⲛⲟⲩⲧⲉ 0).
+- Manuscript hash chain: 0bf3e4f12d0dd23b… (3,156,670 bytes,
+  after the 42:2 repair) → 5c5d2f8fc5d7e230… (3,156,684 bytes,
   this repair).
