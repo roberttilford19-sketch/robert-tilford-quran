@@ -14,13 +14,14 @@ awaits Robert's separate word.
 
 FILES (deliverables first; sizes in bytes, SHA-256 abbreviated to 16 hex)
 
-ayah-companion-manuscript-COP.md   3156684  5c5d2f8fc5d7e230
+ayah-companion-manuscript-COP.md   3156630  3eb1a6d65f1273d3
   The complete book: front matter (DRAFT — NOT REVIEWED inside),
   catalogue, 114 surah heads, 6,236 verses with the Arabic beside
   every rendering. Full SHA-256:
-  5c5d2f8fc5d7e23044cfec8d002b8036d0e7cfa4c456b7d8e2499cd8d28fd281
-  (Figures current as of the 38:1 repair of 2026-11-16 — see the
-  REPAIR NOTEs at the foot of this manifest for the full hash chain.)
+  3eb1a6d65f1273d3c3ab589beabfbb20fc68a5baf27f110695a3a5fdbc56093f
+  (Figures current as of the Ḥā Mīm alignment of 2026-11-16 — see
+  the REPAIR NOTEs at the foot of this manifest for the full hash
+  chain.)
 STYLEGUIDE-COP.md                    42341  44ef0e44b0fff163
   The lane's governing decisions (1–15) and the 12 numbered reviewer
   rulings.
@@ -275,3 +276,52 @@ REPAIR NOTE — 2026-11-16 (verse 38:1)
 - Manuscript hash chain: 0bf3e4f12d0dd23b… (3,156,670 bytes,
   after the 42:2 repair) → 5c5d2f8fc5d7e230… (3,156,684 bytes,
   this repair).
+
+REPAIR NOTE — 2026-11-16 (verses 40:1, 41:1, 42:1 — the Ḥā Mīm
+alignment)
+- Authority: Robert Tilford's ruling A on Decision 30 of 2026-11-16
+  ("Align the Ḥā Mīm seats (40:1, 41:1, 42:1) to the letter-name
+  convention"). The lane's status is unchanged: DRAFT — NOT
+  REVIEWED.
+- Defect (independent checker, found by the 20:1 repair sweep,
+  2026-11-16): each of the three lines read "ⲫⲁⲓ ⲡⲉ ⲡⲓⲥⲁⲻⲓ."
+  ("This is the word.") — the placeholder that stood in for the two
+  disconnected letters (Ḥā, Mīm), the same placeholder the 42:2
+  repair (Decision 28) removed from its own seat; the Arabic
+  (حم) and the verse count intact at all three seats.
+- Alignment: each line now reads "ⲹⲁ, ⲙⲓⲙ." Ḥā = ⲹⲁ, taken
+  codepoint-exact from the restored 19:1 line itself (U+2CB9
+  U+2C81) and asserted identical to the lane's tokens at 20:1 and
+  43:1 (the manuscript spells the /h/-class letter name with the
+  capital-hori codepoint throughout; the earlier notes' prose
+  renders it ϩⲁ). Mīm = ⲙⲓⲙ, the lane's own spelling at 29:1
+  (also 30:1, 31:1, 32:1). The comma and the period follow the
+  master's "Ha, Meem." and the lane's restored letter-line
+  pattern (19:1; 29:1; 42:2). No spelling was coined: both names
+  are the lane's own, extracted from the manuscript itself.
+- Scope fence: the sibling seats are untouched — 42:2 (Decision
+  28) and 38:1 (Decision 29, landed in this lane while this
+  alignment was in flight) were captured at the start and asserted
+  unchanged at the end; the manuscript diff against the pre-repair
+  copy is exactly three lines (17167, 17519, 17749). The Ḥā Mīm
+  phrase seats at 43:1–46:1 ("ⲹⲁ ⲙⲓⲙ." standing as words) are
+  NOT touched by this ruling; they await their own word.
+- Applied identically in the manuscript, work/cop/surah_040.txt,
+  work/cop/surah_041.txt, work/cop/surah_042.txt, and
+  work/draft_r9_data.py. Pre-repair copies kept beside each file
+  with the suffix .PRE-HAMIM-FIX-2026-11-16. Layer note: the draft
+  module's placeholder spelled its ϫ in the Greek block (U+03EB)
+  where the manuscript carries the Coptic ⲻ (U+2CBB), as at 42:2;
+  the aligned entries were written in the canonical Coptic-block
+  form, matching the manuscript.
+- Verification (2026-11-16): verse markers 6,236 of 6,236;
+  amended verify PASS on every field (Arabic 6,462 runs identical
+  to the master and to meta; markers 15; slice lines 6,236, ref
+  and paragraph mismatches 0; "%" 0), and the rewritten
+  verification record is identical on every field to the
+  pre-repair record; check_cop.py over all 114 surahs: problems
+  0, censuses unchanged (God 2,732; god/gods 114; Lord 969;
+  Master 11; zakat 13; sadaqa 36; banned ⲡⲛⲟⲩⲧⲉ 0).
+- Manuscript hash chain: 5c5d2f8fc5d7e230… (3,156,684 bytes,
+  after the 38:1 repair) → 3eb1a6d65f1273d3… (3,156,630 bytes,
+  this alignment; −54 bytes = −18 at each of the three seats).

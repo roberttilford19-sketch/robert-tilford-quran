@@ -17164,7 +17164,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 *ⲷⲉⲛ ⲫⲣⲁⲛ ⲛⲧⲉ Ⲫⲿ ⲡⲓⲣⲉⲵⲳⲉⲛⲹⲏⲧ ⲟⲩⲟⲹ ⲡⲓⲛⲁⲏⲧ*
 
-**40:1** ⲫⲁⲓ ⲡⲉ ⲡⲓⲥⲁⲻⲓ.
+**40:1** ⲹⲁ, ⲙⲓⲙ.
 
 حمٓ
 
@@ -17516,7 +17516,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 *ⲷⲉⲛ ⲫⲣⲁⲛ ⲛⲧⲉ Ⲫⲿ ⲡⲓⲣⲉⲵⲳⲉⲛⲹⲏⲧ ⲟⲩⲟⲹ ⲡⲓⲛⲁⲏⲧ*
 
-**41:1** ⲫⲁⲓ ⲡⲉ ⲡⲓⲥⲁⲻⲓ.
+**41:1** ⲹⲁ, ⲙⲓⲙ.
 
 حمٓ
 
@@ -17746,7 +17746,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 *ⲷⲉⲛ ⲫⲣⲁⲛ ⲛⲧⲉ Ⲫⲿ ⲡⲓⲣⲉⲵⲳⲉⲛⲹⲏⲧ ⲟⲩⲟⲹ ⲡⲓⲛⲁⲏⲧ*
 
-**42:1** ⲫⲁⲓ ⲡⲉ ⲡⲓⲥⲁⲻⲓ.
+**42:1** ⲹⲁ, ⲙⲓⲙ.
 
 حمٓ
 
