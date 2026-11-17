@@ -15402,7 +15402,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 *ⲷⲉⲛ ⲫⲣⲁⲛ ⲛⲧⲉ Ⲫⲿ ⲡⲓⲣⲉⲵⲳⲉⲛⲹⲏⲧ ⲟⲩⲟⲹ ⲡⲓⲛⲁⲏⲧ*
 
-**36:1** Ⲓⲁ, Ⲥⲓⲛ.
+**36:1** Ⲓⲁ, ⲥⲓⲛ.
 
 يسٓ
 

@@ -14,14 +14,14 @@ awaits Robert's separate word.
 
 FILES (deliverables first; sizes in bytes, SHA-256 abbreviated to 16 hex)
 
-ayah-companion-manuscript-COP.md   3156655  b2d34be029dddbdb
+ayah-companion-manuscript-COP.md   3156655  6253afb78b4858de
   The complete book: front matter (DRAFT — NOT REVIEWED inside),
   catalogue, 114 surah heads, 6,236 verses with the Arabic beside
   every rendering. Full SHA-256:
-  b2d34be029dddbdbfe262dbd1629f841e67cf036471c44d59f5fee13379aa9d8
-  (Figures current as of the Muqatta'at punctuation alignment of
-  2026-11-16 — see the REPAIR NOTEs at the foot of this manifest
-  for the full hash chain.)
+  6253afb78b4858de117a74d0ef4019111a6a8bf4cc08a45205ae7da165e98f5c
+  (Figures current as of the 36:1 case alignment of 2026-11-16 —
+  see the REPAIR NOTEs at the foot of this manifest for the full
+  hash chain.)
 STYLEGUIDE-COP.md                    42341  44ef0e44b0fff163
   The lane's governing decisions (1–15) and the 12 numbered reviewer
   rulings.
@@ -399,3 +399,50 @@ Decision 33, RULED A)
 - Manuscript hash chain: 3eb1a6d65f1273d3… (3,156,630 bytes,
   after the Ḥā Mīm alignment) → b2d34be029dddbdb… (3,156,655
   bytes, this alignment; +25 bytes = 24 commas + 1 period).
+
+REPAIR NOTE — 2026-11-16 (the 36:1 case alignment,
+Decision 34, RULED A)
+- Authority: Robert Tilford's ruling A on Decision 34 of 2026-11-16
+  ("Lowercase Ⲥⲓⲛ to ⲥⲓⲛ at 36:1, as Sīn is written everywhere
+  else"), settling the POLICY seat carried on the reviewer's list
+  by the Decision 31 census (checker record, Addendum 4) and left
+  expressly untouched by the Decision 33 alignment. The lane's
+  status is unchanged: DRAFT — NOT REVIEWED.
+- The change: one seat, one codepoint. At 36:1 the raised Sīn
+  initial Ⲥ (U+2CA4, COPTIC CAPITAL LETTER SIMA) is lowercased to
+  ⲥ (U+2CA5, COPTIC SMALL LETTER SIMA); the line now reads
+  "**36:1** Ⲓⲁ, ⲥⲓⲛ." — Sīn in the form it wears at 26:1, 27:1,
+  28:1, and 42:2. The new token was machine-verified
+  codepoint-identical to the Sīn token at 42:2 (U+2CA5 U+2C93
+  U+2C9B). Ⲓⲁ is NOT touched — it is the format of record's own
+  spelling (19:1). No other letter, mark, or seat changed
+  anywhere: the manuscript diff against the pre-repair copy is
+  exactly one line (15405).
+- Scope fence: the other 29 Muqatta'at seats were captured at the
+  start and asserted unchanged at the end, as were the 36:INTRO
+  name lines in every layer (introduction matter — the surah's
+  name in prose, not the verse line; the census's question was
+  the verse line only) and 95:2's Ⲥⲓⲛⲁ (Mount Sinai, a different
+  word).
+- Applied identically in three layers so no rebuild can revert
+  it: the manuscript (line 15405), the slice
+  work/cop/surah_036.txt (line 2), and the draft module
+  work/draft_r8_data.py (line 392) — each file differing from its
+  pre-repair copy in exactly one line. Pre-repair copies kept
+  beside each file with the suffix .PRE-361-FIX-2026-11-16.
+- Verification (2026-11-16): verse markers 6,236 of 6,236;
+  amended verify PASS on every field (Arabic 6,462 runs identical
+  to the master and to meta; markers 15; slice lines 6,236, ref
+  and paragraph mismatches 0; "%" 0), and the rewritten
+  verification record is byte-identical to the pre-repair record;
+  check_cop.py over all 114 surahs: problems 0, censuses unchanged
+  (God 2,732; god/gods 114; Lord 969; Master 11; zakat 13;
+  sadaqa 36; banned ⲡⲛⲟⲩⲧⲉ 0). Final census spot-check: all 30
+  seats re-graded against the census document — CONFORMING 30 of
+  30. The Muqatta'at family's letter presentation — letters,
+  punctuation, and case — is closed entire.
+- Manuscript hash chain: b2d34be029dddbdb… (3,156,655 bytes,
+  after the punctuation alignment) → 6253afb78b4858de…
+  (3,156,655 bytes, this alignment; the byte count is UNCHANGED
+  — U+2CA4 and U+2CA5 are both 3-byte UTF-8, so the chain link
+  is a same-size replacement).
