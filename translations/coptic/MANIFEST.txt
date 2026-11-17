@@ -14,12 +14,12 @@ awaits Robert's separate word.
 
 FILES (deliverables first; sizes in bytes, SHA-256 abbreviated to 16 hex)
 
-ayah-companion-manuscript-COP.md   3156674  76e052ce4ede2e23
+ayah-companion-manuscript-COP.md   3156670  0bf3e4f12d0dd23b
   The complete book: front matter (DRAFT — NOT REVIEWED inside),
   catalogue, 114 surah heads, 6,236 verses with the Arabic beside
   every rendering. Full SHA-256:
-  76e052ce4ede2e23bbabfd7cac54e36d104e544c708530869fa1196ddb3962cd
-  (Figures current as of the 19:1 repair of 2026-11-16 — see the
+  0bf3e4f12d0dd23b4877aeef73744e31a8eb1733de4a9c4ec2f72e7e9eb86249
+  (Figures current as of the 42:2 repair of 2026-11-16 — see the
   REPAIR NOTEs at the foot of this manifest for the full hash chain.)
 STYLEGUIDE-COP.md                    42341  44ef0e44b0fff163
   The lane's governing decisions (1–15) and the 12 numbered reviewer
@@ -30,7 +30,7 @@ BUILD-REPORT-COP.md                  10596  e6e6146b4323d390
 GLOSSARY-COP.md                       7237  ebf5018423c350f4
   Key terms with reviewer alternatives; the divine name as ruling #1;
   zakat with no percentage.
-work/verification-cop.json             710  f1e20018f6c70807
+work/verification-cop.json             689  935affa709f2b5a3
   The amended verify.py record: PASS on every field.
 work/extraction-report.json           1865  b010b14e17e44202
 work/meta.json                     3080996  2f8512892910063b
@@ -191,4 +191,47 @@ REPAIR NOTE — 2026-11-16 (verse 19:1)
   before it was trusted with the repaired state.
 - Manuscript hash chain: aaa77dd509853805… (3,156,632 bytes,
   after the 20:1 repair) → 76e052ce4ede2e23… (3,156,674 bytes,
+  this repair).
+
+REPAIR NOTE — 2026-11-16 (verse 42:2)
+- Authority: Robert Tilford's ruling A on Decision 28 of 2026-11-16
+  ("Repair Coptic 42:2 now on the settled ʿAyn convention"). The
+  lane's status is unchanged: DRAFT — NOT REVIEWED.
+- Defect (independent checker, found by the 20:1 repair sweep,
+  2026-11-16): the 42:2 line read "ⲫⲁⲓ ⲡⲉ ⲡⲓⲥⲁϫⲓ." ("This is
+  the word.") — the three disconnected letters (ʿAyn, Sīn, Qāf)
+  were replaced by that phrase, the same placeholder standing at
+  40:1, 41:1, and 42:1; the Arabic (عٓسٓقٓ) and the verse count
+  intact.
+- Repair: the line now reads "ⲁⲓⲛ, ⲥⲓⲛ, ⲕⲁⲫ." ʿAyn = ⲁⲓⲛ,
+  the convention adopted by the Decision 3 ruling (19:1), taken
+  from the restored 19:1 line itself and machine-verified
+  codepoint-identical to the ruled string (U+2C81 U+2C93 U+2C9B);
+  Sīn = ⲥⲓⲛ, the lane's own spelling at 26:1 (also 27:1, 28:1);
+  Qāf = ⲕⲁⲫ, the lane's own spelling at 50:1. The defective line
+  carried no surviving punctuation skeleton, so the commas and
+  the period follow the master's "Ayn, Seen, Qaf." and the lane's
+  restored letter-line pattern (19:1; 26:1).
+- Scope fence: 42:1 — the identical placeholder at the Ḥā Mīm
+  seat — is NOT repaired by this ruling, nor are 38:1, 40:1,
+  41:1; they await their own rulings. The repair asserted 42:1's
+  line unchanged.
+- Applied identically in the manuscript, work/cop/surah_042.txt,
+  and work/draft_r9_data.py. Pre-repair copies kept beside each
+  file with the suffix .PRE-422-FIX-2026-11-16. Layer note: the
+  draft module's placeholder spelled its ϫ in the Greek block
+  (U+03EB) where the manuscript carries the Coptic ⲻ (U+2CBB);
+  the restored entry was written in the canonical Coptic-block
+  form, matching the manuscript.
+- Verification (2026-11-16): diff against the pre-repair
+  manuscript is exactly one line (17753); verse markers 6,236 of
+  6,236; amended verify PASS on every field (Arabic 6,462 runs
+  identical to the master and to meta; markers 15; slice lines
+  6,236, ref and paragraph mismatches 0; "%" 0), and the rewritten
+  verification record is identical on every field to the
+  pre-repair record; check_cop.py over all 114 surahs: problems
+  0, censuses unchanged (God 2,732; god/gods 114; Lord 969;
+  Master 11; zakat 13; sadaqa 36; banned ⲡⲛⲟⲩⲧⲉ 0).
+- Manuscript hash chain: 76e052ce4ede2e23… (3,156,674 bytes,
+  after the 19:1 repair) → 0bf3e4f12d0dd23b… (3,156,670 bytes,
   this repair).

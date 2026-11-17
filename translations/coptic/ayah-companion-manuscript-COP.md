@@ -17750,7 +17750,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 حمٓ
 
-**42:2** ⲫⲁⲓ ⲡⲉ ⲡⲓⲥⲁⲻⲓ.
+**42:2** ⲁⲓⲛ, ⲥⲓⲛ, ⲕⲁⲫ.
 
 عٓسٓقٓ
 
