@@ -410,7 +410,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ ۖ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ ۖ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
 
-**2:58** An rikaal dat wi se, “enta dis toun, an iit plentifuli fram it wateva yu wish; bot enta di gat humbli, an se, pardon.S wi wi fargi yu sin, an gi inkriis tu di vorchuos.”
+**2:58** An rikaal dat wi se, “enta dis toun, an iit plentifuli fram it wateva yu wish; bot enta di gat humbli, an se, pardon.’ wi wi fargi yu sin, an gi inkriis tu di vorchuos.”
 
 وَإِذْ قُلْنَا ٱدْخُلُوا۟ هَٰذِهِ ٱلْقَرْيَةَ فَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ رَغَدًۭا وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًۭا وَقُولُوا۟ حِطَّةٌۭ نَّغْفِرْ لَكُمْ خَطَٰيَٰكُمْ ۚ وَسَنَزِيدُ ٱلْمُحْسِنِينَ
 
@@ -1522,7 +1522,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 وَيُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًۭا وَمِنَ ٱلصَّٰلِحِينَ
 
-**3:47** Shi se, “mai Laad, ou kyan mi av a khild, wen no man av toch mi?” im se, “it wi bi so. Gad kriet wateva im wi. Tu av eniting don, im uonli se tu it, ‘bi,s an it a.”
+**3:47** Shi se, “mai Laad, ou kyan mi av a khild, wen no man av toch mi?” im se, “it wi bi so. Gad kriet wateva im wi. Tu av eniting don, im uonli se tu it, ‘bi,’ an it a.”
 
 قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌۭ وَلَمْ يَمْسَسْنِى بَشَرٌۭ ۖ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ مَا يَشَآءُ ۚ إِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 
@@ -2106,7 +2106,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 رَبَّنَآ إِنَّكَ مَن تُدْخِلِ ٱلنَّارَ فَقَدْ أَخْزَيْتَهُۥ ۖ وَمَا لِلظَّٰلِمِينَ مِنْ أَنصَارٍۢ
 
-**3:193** “Wi Laad, wi av ier a kala kaal tu di fiet: `biliiv ina yu Laad,s an wi av biliiv. Wi Laad! Fargi wi wi sin, an remit wi misdiids, an mek wi dai ina di kompani a di vorchuos.”
+**3:193** “Wi Laad, wi av ier a kala kaal tu di fiet: ‘biliiv ina yu Laad,’ an wi av biliiv. Wi Laad! Fargi wi wi sin, an remit wi misdiids, an mek wi dai ina di kompani a di vorchuos.”
 
 رَّبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًۭا يُنَادِى لِلْإِيمَٰنِ أَنْ ءَامِنُوا۟ بِرَبِّكُمْ فَـَٔامَنَّا ۚ رَبَّنَا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلْأَبْرَارِ
 
@@ -3306,15 +3306,15 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 ۞ يَوْمَ يَجْمَعُ ٱللَّهُ ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبْتُمْ ۖ قَالُوا۟ لَا عِلْمَ لَنَآ ۖ إِنَّكَ أَنتَ عَلَّٰمُ ٱلْغُيُوبِ
 
-**5:110** Wen Gad wi se, “oo Jiizas son a Mieri, rikaal mai fieva pan yu an pan yu mada, ou mi sapuot yu wid di holi spirit. Yu spok tu di piipl fram di krib, an ina maturiti. Ou mi taat yu di Skripcha an wizdam, an di Tuora an di Gaspel. An rikaal dat yu molded fram klie di shap a a bird, bai mai liiv, an den yu briited ina it, an it bikiem a bird, bai mai liiv. An yu hiiled di blain an di leprous, bai mai liiv; an yu revived di ded, bai mai liiv. An rikaal dat mi restriened di pikni a Izrel fram yu wen yu braat dem di kliir mirakles. Bot demde uu disbiliiv mongks dem se, `dis a notn bot obvious sorseri.S“
+**5:110** Wen Gad wi se, “oo Jiizas son a Mieri, rikaal mai fieva pan yu an pan yu mada, ou mi sapuot yu wid di holi spirit. Yu spok tu di piipl fram di krib, an ina maturiti. Ou mi taat yu di Skripcha an wizdam, an di Tuora an di Gaspel. An rikaal dat yu molded fram klie di shap a a bird, bai mai liiv, an den yu briited ina it, an it bikiem a bird, bai mai liiv. An yu hiiled di blain an di leprous, bai mai liiv; an yu revived di ded, bai mai liiv. An rikaal dat mi restriened di pikni a Izrel fram yu wen yu braat dem di kliir mirakles. Bot demde uu disbiliiv mongks dem se, ‘dis a notn bot obvious sorseri.’“
 
 إِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ٱذْكُرْ نِعْمَتِى عَلَيْكَ وَعَلَىٰ وَٰلِدَتِكَ إِذْ أَيَّدتُّكَ بِرُوحِ ٱلْقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًۭا ۖ وَإِذْ عَلَّمْتُكَ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ ۖ وَإِذْ تَخْلُقُ مِنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ بِإِذْنِى فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًۢا بِإِذْنِى ۖ وَتُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ بِإِذْنِى ۖ وَإِذْ تُخْرِجُ ٱلْمَوْتَىٰ بِإِذْنِى ۖ وَإِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ إِذْ جِئْتَهُم بِٱلْبَيِّنَٰتِ فَقَالَ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌۭ
 
-**5:111** “An wen mi inspaiya di disiples: `biliiv ina mi an ina mai mesenja.S dem se, `wi av biliiv, so bier witnis dat wi av submited.S“
+**5:111** “An wen mi inspaiya di disiples: ‘biliiv ina mi an ina mai mesenja.’ dem se, ‘wi av biliiv, so bier witnis dat wi av submited.’“
 
 وَإِذْ أَوْحَيْتُ إِلَى ٱلْحَوَارِيِّۦنَ أَنْ ءَامِنُوا۟ بِى وَبِرَسُولِى قَالُوٓا۟ ءَامَنَّا وَٱشْهَدْ بِأَنَّنَا مُسْلِمُونَ
 
-**5:112** “An wen di disiples se, o Jiizas son a Mieri, a yu Laad iebl tu bring dong fi wi a fiist fram evn?S im se, fiir Gad, if yu a biliivaz.S“
+**5:112** “An wen di disiples se, o Jiizas son a Mieri, a yu Laad iebl tu bring dong fi wi a fiist fram evn?’ im se, fiir Gad, if yu a biliivaz.’“
 
 إِذْ قَالَ ٱلْحَوَارِيُّونَ يَٰعِيسَى ٱبْنَ مَرْيَمَ هَلْ يَسْتَطِيعُ رَبُّكَ أَن يُنَزِّلَ عَلَيْنَا مَآئِدَةًۭ مِّنَ ٱلسَّمَآءِ ۖ قَالَ ٱتَّقُوا۟ ٱللَّهَ إِن كُنتُم مُّؤْمِنِينَ
 
@@ -3330,7 +3330,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 قَالَ ٱللَّهُ إِنِّى مُنَزِّلُهَا عَلَيْكُمْ ۖ فَمَن يَكْفُرْ بَعْدُ مِنكُمْ فَإِنِّىٓ أُعَذِّبُهُۥ عَذَابًۭا لَّآ أُعَذِّبُهُۥٓ أَحَدًۭا مِّنَ ٱلْعَٰلَمِينَ
 
-**5:116** An Gad wi se, “oo Jiizas son a Mieri, du yu se tu di piipl, `tek mi an mai mada az iladem rada dan Gad?S“ im wi se, “gluori bi tu yu! It a no fi mi tu se wa mi av no rait tu. Ad mi se it, yu wuda av nown it. Yu nuo wa a ina mai suol, an mi du no nuo wa a ina yu suol. Yu a di nuoa a di hiden.
+**5:116** An Gad wi se, “oo Jiizas son a Mieri, du yu se tu di piipl, ‘tek mi an mai mada az iladem rada dan Gad?’“ im wi se, “gluori bi tu yu! It a no fi mi tu se wa mi av no rait tu. Ad mi se it, yu wuda av nown it. Yu nuo wa a ina mai suol, an mi du no nuo wa a ina yu suol. Yu a di nuoa a di hiden.
 
 وَإِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ءَأَنتَ قُلْتَ لِلنَّاسِ ٱتَّخِذُونِى وَأُمِّىَ إِلَٰهَيْنِ مِن دُونِ ٱللَّهِ ۖ قَالَ سُبْحَٰنَكَ مَا يَكُونُ لِىٓ أَنْ أَقُولَ مَا لَيْسَ لِى بِحَقٍّ ۚ إِن كُنتُ قُلْتُهُۥ فَقَدْ عَلِمْتَهُۥ ۚ تَعْلَمُ مَا فِى نَفْسِى وَلَآ أَعْلَمُ مَا فِى نَفْسِكَ ۚ إِنَّكَ أَنتَ عَلَّٰمُ ٱلْغُيُوبِ
 
@@ -6980,7 +6980,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 فَلَمَّا ٱسْتَيْـَٔسُوا۟ مِنْهُ خَلَصُوا۟ نَجِيًّۭا ۖ قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوٓا۟ أَنَّ أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُم مَّوْثِقًۭا مِّنَ ٱللَّهِ وَمِن قَبْلُ مَا فَرَّطتُمْ فِى يُوسُفَ ۖ فَلَنْ أَبْرَحَ ٱلْأَرْضَ حَتَّىٰ يَأْذَنَ لِىٓ أَبِىٓ أَوْ يَحْكُمَ ٱللَّهُ لِى ۖ وَهُوَ خَيْرُ ٱلْحَٰكِمِينَ
 
-**12:81** “Go bak tu yu faada, an se, ‘wi faada, yu son av stolen. Wi testifai uonli tu wa wi nuo, an wi kuda no av prevented di unforesiin.S”
+**12:81** “Go bak tu yu faada, an se, ‘wi faada, yu son av stolen. Wi testifai uonli tu wa wi nuo, an wi kuda no av prevented di unforesiin.’”
 
 ٱرْجِعُوٓا۟ إِلَىٰٓ أَبِيكُمْ فَقُولُوا۟ يَٰٓأَبَانَآ إِنَّ ٱبْنَكَ سَرَقَ وَمَا شَهِدْنَآ إِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَٰفِظِينَ
 
@@ -9398,7 +9398,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌۭ وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا وَقَدْ بَلَغْتُ مِنَ ٱلْكِبَرِ عِتِيًّۭا
 
-**19:9** Im se, “it wi bi so, yu Laad se, ‘it a iizi fi mi, an mi kriet yu bifuo, wen yu waz notn.S”
+**19:9** Im se, “it wi bi so, yu Laad se, ‘it a iizi fi mi, an mi kriet yu bifuo, wen yu waz notn.’”
 
 قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَىَّ هَيِّنٌۭ وَقَدْ خَلَقْتُكَ مِن قَبْلُ وَلَمْ تَكُ شَيْـًۭٔا
 
@@ -9446,7 +9446,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 قَالَتْ أَنَّىٰ يَكُونُ لِى غُلَٰمٌۭ وَلَمْ يَمْسَسْنِى بَشَرٌۭ وَلَمْ أَكُ بَغِيًّۭا
 
-**19:21** Im se, “so se yu Laad, `it a iizi fi mi, an wi wi mek im a sain fi yuumaniti, an a mersi fram wi. It a a mata aledi desided.S“
+**19:21** Im se, “so se yu Laad, ‘it a iizi fi mi, an wi wi mek im a sain fi yuumaniti, an a mersi fram wi. It a a mata aledi desided.’“
 
 قَالَ كَذَٰلِكِ قَالَ رَبُّكِ هُوَ عَلَىَّ هَيِّنٌۭ ۖ وَلِنَجْعَلَهُۥٓ ءَايَةًۭ لِّلنَّاسِ وَرَحْمَةًۭ مِّنَّا ۚ وَكَانَ أَمْرًۭا مَّقْضِيًّۭا
 
@@ -9466,7 +9466,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 وَهُزِّىٓ إِلَيْكِ بِجِذْعِ ٱلنَّخْلَةِ تُسَٰقِطْ عَلَيْكِ رُطَبًۭا جَنِيًّۭا
 
-**19:26** “So iit, an jringk, an bi konsoled. An if yu si eni yuuman, se, ‘mi av vowed a faas tu di binifisent, so mi wi no spiik tu eni yuuman tide.S“
+**19:26** “So iit, an jringk, an bi konsoled. An if yu si eni yuuman, se, ‘mi av vowed a faas tu di binifisent, so mi wi no spiik tu eni yuuman tide.’“
 
 فَكُلِى وَٱشْرَبِى وَقَرِّى عَيْنًۭا ۖ فَإِمَّا تَرَيِنَّ مِنَ ٱلْبَشَرِ أَحَدًۭا فَقُولِىٓ إِنِّى نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًۭا فَلَنْ أُكَلِّمَ ٱلْيَوْمَ إِنسِيًّۭا
 
@@ -9924,11 +9924,11 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 إِذْ أَوْحَيْنَآ إِلَىٰٓ أُمِّكَ مَا يُوحَىٰٓ
 
-**20:39** `Put im ina di khest; den kast im ina di riva. Di riva wi wash im tu shor, we wan enimi a min an wan enimi a im wi pik im op. An mi av bestowed pan yu lob fram mi, so dat yu mie bi riired bifuo mai eye.
+**20:39** ‘Put im ina di khest; den kast im ina di riva. Di riva wi wash im tu shor, we wan enimi a min an wan enimi a im wi pik im op. An mi av bestowed pan yu lob fram mi, so dat yu mie bi riired bifuo mai eye.
 
 أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ يَأْخُذْهُ عَدُوٌّۭ لِّى وَعَدُوٌّۭ لَّهُۥ ۚ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةًۭ مِّنِّى وَلِتُصْنَعَ عَلَىٰ عَيْنِىٓ
 
-**20:40** Wen yu sista waak along, an se, ‘wi mi tel yu bout sombadi uu wi tek kar a im?S so wi riton yu tu yu mada, dat shi mie bi komforted, an no sorow. An yu kil a porsn, bot wi siev yu fram stres; an wi tes yu dorouli. An yu stie iirz mongks di piipl a median. Den yu kom bak, az ordiened, oo Muoziz.
+**20:40** Wen yu sista waak along, an se, ‘wi mi tel yu bout sombadi uu wi tek kar a im?’ so wi riton yu tu yu mada, dat shi mie bi komforted, an no sorow. An yu kil a porsn, bot wi siev yu fram stres; an wi tes yu dorouli. An yu stie iirz mongks di piipl a median. Den yu kom bak, az ordiened, oo Muoziz.
 
 إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ ۖ فَرَجَعْنَٰكَ إِلَىٰٓ أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ ۚ وَقَتَلْتَ نَفْسًۭا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ وَفَتَنَّٰكَ فُتُونًۭا ۚ فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍۢ يَٰمُوسَىٰ
 
@@ -9956,11 +9956,11 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 قَالَ لَا تَخَافَآ ۖ إِنَّنِى مَعَكُمَآ أَسْمَعُ وَأَرَىٰ
 
-**20:47** Apruoch im an se, `wi a di mesenjas a yu Laad; so mek di pikni a Izrel go wid wi, an du no taament dem. Wi bring yu a sain fram yu Laad, an piis bi pan im uu fala gaidans.
+**20:47** Apruoch im an se, ‘wi a di mesenjas a yu Laad; so mek di pikni a Izrel go wid wi, an du no taament dem. Wi bring yu a sain fram yu Laad, an piis bi pan im uu fala gaidans.
 
 فَأْتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ وَلَا تُعَذِّبْهُمْ ۖ قَدْ جِئْنَٰكَ بِـَٔايَةٍۢ مِّن رَّبِّكَ ۖ وَٱلسَّلَٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلْهُدَىٰٓ
 
-**20:48** It waz riviil tu wi dat di ponishment faal pan im uu disbiliiv an ton wie.S“
+**20:48** It waz riviil tu wi dat di ponishment faal pan im uu disbiliiv an ton wie.’“
 
 إِنَّا قَدْ أُوحِىَ إِلَيْنَآ أَنَّ ٱلْعَذَابَ عَلَىٰ مَن كَذَّبَ وَتَوَلَّىٰ
 
@@ -10144,7 +10144,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 أَلَّا تَتَّبِعَنِ ۖ أَفَعَصَيْتَ أَمْرِى
 
-**20:94** Im se, “son a mai mada, du no seiz mi bai mai biird ar mai hiid. Mi fried yu wuda se, `yu av kaaz divishan mongks di pikni a Izrel, an du no regard mai wod.S“
+**20:94** Im se, “son a mai mada, du no seiz mi bai mai biird ar mai hiid. Mi fried yu wuda se, ‘yu av kaaz divishan mongks di pikni a Izrel, an du no regard mai wod.’“
 
 قَالَ يَبْنَؤُمَّ لَا تَأْخُذْ بِلِحْيَتِى وَلَا بِرَأْسِىٓ ۖ إِنِّى خَشِيتُ أَن تَقُولَ فَرَّقْتَ بَيْنَ بَنِىٓ إِسْرَٰٓءِيلَ وَلَمْ تَرْقُبْ قَوْلِى
 
@@ -10156,7 +10156,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُوا۟ بِهِۦ فَقَبَضْتُ قَبْضَةًۭ مِّنْ أَثَرِ ٱلرَّسُولِ فَنَبَذْتُهَا وَكَذَٰلِكَ سَوَّلَتْ لِى نَفْسِى
 
-**20:97** Im se, “begon! Yu Laat ina dis laif a tu se, ‘no kontakt.S an yu av wan apointment dat yu wi no mis. Nou luk a yu ila dat yu rimien devoted tu — wi wi burn it op, an den blow it wie ina di sii, az powda.”
+**20:97** Im se, “begon! Yu Laat ina dis laif a tu se, ‘no kontakt.’ an yu av wan apointment dat yu wi no mis. Nou luk a yu ila dat yu rimien devoted tu — wi wi burn it op, an den blow it wie ina di sii, az powda.”
 
 قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا
 
@@ -11544,7 +11544,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 قَالَ ٱخْسَـُٔوا۟ فِيهَا وَلَا تُكَلِّمُونِ
 
-**23:109** De waz a gruup a mai sorvant uu wuda se, `wi Laad, wi av biliiv, so fargi wi, an av mersi pan wi; yu a di bes a di mersiful.S
+**23:109** De waz a gruup a mai sorvant uu wuda se, ‘wi Laad, wi av biliiv, so fargi wi, an av mersi pan wi; yu a di bes a di mersiful.’
 
 إِنَّهُۥ كَانَ فَرِيقٌۭ مِّنْ عِبَادِى يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ
 
@@ -12250,7 +12250,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 فَأْتِيَا فِرْعَوْنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلْعَٰلَمِينَ
 
-**26:17** Mek di pikni a Izrel go wid wi.S“
+**26:17** Mek di pikni a Izrel go wid wi.’“
 
 أَنْ أَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ
 
@@ -13228,7 +13228,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 إِنَّهُۥ مِن سُلَيْمَٰنَ وَإِنَّهُۥ بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-**27:31** Du no defi mi, an kom tu mi submisiveli.S”
+**27:31** Du no defi mi, an kom tu mi submisiveli.’”
 
 أَلَّا تَعْلُوا۟ عَلَىَّ وَأْتُونِى مُسْلِمِينَ
 
@@ -13300,7 +13300,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 وَكَانَ فِى ٱلْمَدِينَةِ تِسْعَةُ رَهْطٍۢ يُفْسِدُونَ فِى ٱلْأَرْضِ وَلَا يُصْلِحُونَ
 
-**27:49** Dem se, “swier bai Gad tu wan aneda dat wi wi atak im an im fambli bai nait, an den tel im gaadian, we du no witnis di murda a im fambli, an wi a biin chuuful.S“
+**27:49** Dem se, “swier bai Gad tu wan aneda dat wi wi atak im an im fambli bai nait, an den tel im gaadian, we du no witnis di murda a im fambli, an wi a biin chuuful.’“
 
 قَالُوا۟ تَقَاسَمُوا۟ بِٱللَّهِ لَنُبَيِّتَنَّهُۥ وَأَهْلَهُۥ ثُمَّ لَنَقُولَنَّ لِوَلِيِّهِۦ مَا شَهِدْنَا مَهْلِكَ أَهْلِهِۦ وَإِنَّا لَصَٰدِقُونَ
 
@@ -16574,7 +16574,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 إِذْ دَخَلُوا۟ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنْهُمْ ۖ قَالُوا۟ لَا تَخَفْ ۖ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍۢ فَٱحْكُم بَيْنَنَا بِٱلْحَقِّ وَلَا تُشْطِطْ وَٱهْدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ
 
-**38:23** “Dis breda a min av nineti nin ewes, an mi av wan ewe, an im se, ‘entrust it tu mi,s an im presured mi wid wod.”
+**38:23** “Dis breda a min av nineti nin ewes, an mi av wan ewe, an im se, ‘entrust it tu mi,’ an im presured mi wid wod.”
 
 إِنَّ هَٰذَآ أَخِى لَهُۥ تِسْعٌۭ وَتِسْعُونَ نَعْجَةًۭ وَلِىَ نَعْجَةٌۭ وَٰحِدَةٌۭ فَقَالَ أَكْفِلْنِيهَا وَعَزَّنِى فِى ٱلْخِطَابِ
 
@@ -17272,7 +17272,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 وَقَالَ مُوسَىٰٓ إِنِّى عُذْتُ بِرَبِّى وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرٍۢ لَّا يُؤْمِنُ بِيَوْمِ ٱلْحِسَابِ
 
-**40:28** A biliivin man fram Fieruos fambli, uu ad konsiil im fiet, se, “a yu go tu kil a man fi sein, `mai Laad a Gad,s an im av braat yu kliir pruuf fram yu Laad? If im a a laia, im laiin wi rebound pan im; bot if im a chuuful, den som a wa im pramis yu wi befal yu. Gad du no gaid di ekstravagant imposta.
+**40:28** A biliivin man fram Fieruos fambli, uu ad konsiil im fiet, se, “a yu go tu kil a man fi sein, ‘mai Laad a Gad,’ an im av braat yu kliir pruuf fram yu Laad? If im a a laia, im laiin wi rebound pan im; bot if im a chuuful, den som a wa im pramis yu wi befal yu. Gad du no gaid di ekstravagant imposta.
 
 وَقَالَ رَجُلٌۭ مُّؤْمِنٌۭ مِّنْ ءَالِ فِرْعَوْنَ يَكْتُمُ إِيمَٰنَهُۥٓ أَتَقْتُلُونَ رَجُلًا أَن يَقُولَ رَبِّىَ ٱللَّهُ وَقَدْ جَآءَكُم بِٱلْبَيِّنَٰتِ مِن رَّبِّكُمْ ۖ وَإِن يَكُ كَٰذِبًۭا فَعَلَيْهِ كَذِبُهُۥ ۖ وَإِن يَكُ صَادِقًۭا يُصِبْكُم بَعْضُ ٱلَّذِى يَعِدُكُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ مُسْرِفٌۭ كَذَّابٌۭ
 
@@ -18740,7 +18740,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 **ٱلْأَحْقَاف** · Al-Ahqaf · a Meka · 35 vors
 
-*Di sand dunes a ahqaf, an a son uu se, ‘du no priikh tu mi a rezarekshan.S*
+*Di sand dunes a ahqaf, an a son uu se, ‘du no priikh tu mi a rezarekshan.’*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -19242,7 +19242,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَٰكُم مِّن ذَكَرٍۢ وَأُنثَىٰ وَجَعَلْنَٰكُمْ شُعُوبًۭا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۭ
 
-**49:14** Di desert-arabs se, “wi av biliiv.” se, “yu av no biliiv; bot se, ‘wi av submited,s fi fiet av no yet enta ina yu aat. Bot if yu obie Gad an im mesenja, im wi no diminish eni a yu akshan. Gad a fargivin an mersiful.”
+**49:14** Di desert-arabs se, “wi av biliiv.” se, “yu av no biliiv; bot se, ‘wi av submited,’ fi fiet av no yet enta ina yu aat. Bot if yu obie Gad an im mesenja, im wi no diminish eni a yu akshan. Gad a fargivin an mersiful.”
 
 ۞ قَالَتِ ٱلْأَعْرَابُ ءَامَنَّا ۖ قُل لَّمْ تُؤْمِنُوا۟ وَلَٰكِن قُولُوٓا۟ أَسْلَمْنَا وَلَمَّا يَدْخُلِ ٱلْإِيمَٰنُ فِى قُلُوبِكُمْ ۖ وَإِن تُطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ لَا يَلِتْكُم مِّنْ أَعْمَٰلِكُمْ شَيْـًٔا ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ
 
@@ -21658,7 +21658,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 **ٱلْمُنَافِقُون** · Al-Munafiqun · a Madiina · 11 vors
 
-*Di ipokrit uu se, ‘du no spen pan demde uu a wid di mesenja.S*
+*Di ipokrit uu se, ‘du no spen pan demde uu a wid di mesenja.’*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -21956,7 +21956,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ ۖ كُلَّمَآ أُلْقِىَ فِيهَا فَوْجٌۭ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌۭ
 
-**67:9** Dem wi se, “yes, a waarna du kom tu wi, bot wi disbiliiv, an se, ‘Gad du no sen dong eniting; yu a veri moch mistaken.S”
+**67:9** Dem wi se, “yes, a waarna du kom tu wi, bot wi disbiliiv, an se, ‘Gad du no sen dong eniting; yu a veri moch mistaken.’”
 
 قَالُوا۟ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌۭ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ ٱللَّهُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا فِى ضَلَٰلٍۢ كَبِيرٍۢ
 
@@ -22164,7 +22164,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 بَلْ نَحْنُ مَحْرُومُونَ
 
-**68:28** Di muos riisonabl a dem se, “du mi no se tu yu, ‘if uonli yu wuda gluorifai?S”
+**68:28** Di muos riisonabl a dem se, “du mi no se tu yu, ‘if uonli yu wuda gluorifai?’”
 
 قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ
 
@@ -22760,7 +22760,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 وَٱللَّهُ جَعَلَ لَكُمُ ٱلْأَرْضَ بِسَاطًۭا
 
-**71:20** Dat yu mie chravel im divers roads.S”
+**71:20** Dat yu mie chravel im divers roads.’”
 
 لِّتَسْلُكُوا۟ مِنْهَا سُبُلًۭا فِجَاجًۭا
 
@@ -22864,7 +22864,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 وَأَنَّا مِنَّا ٱلْمُسْلِمُونَ وَمِنَّا ٱلْقَٰسِطُونَ ۖ فَمَنْ أَسْلَمَ فَأُو۟لَٰٓئِكَ تَحَرَّوْا۟ رَشَدًۭا
 
-**72:15** Bot az fi di kompromisers — dem wi bi firewuud fi el.S”
+**72:15** Bot az fi di kompromisers — dem wi bi firewuud fi el.’”
 
 وَأَمَّا ٱلْقَٰسِطُونَ فَكَانُوا۟ لِجَهَنَّمَ حَطَبًۭا
 
