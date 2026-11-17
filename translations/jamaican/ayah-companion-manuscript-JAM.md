@@ -2118,7 +2118,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّى لَآ أُضِيعُ عَمَلَ عَٰمِلٍۢ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ بَعْضُكُم مِّنۢ بَعْضٍۢ ۖ فَٱلَّذِينَ هَاجَرُوا۟ وَأُخْرِجُوا۟ مِن دِيَٰرِهِمْ وَأُوذُوا۟ فِى سَبِيلِى وَقَٰتَلُوا۟ وَقُتِلُوا۟ لَأُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ثَوَابًۭا مِّنْ عِندِ ٱللَّهِ ۗ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلثَّوَابِ
 
-**3:196** Du no bi impresed bai di disbiliivazs movements ina di lan.
+**3:196** Du no bi impresed bai di disbiliivaz movements ina di lan.
 
 لَا يَغُرَّنَّكَ تَقَلُّبُ ٱلَّذِينَ كَفَرُوا۟ فِى ٱلْبِلَٰدِ
 
@@ -2238,7 +2238,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 وَلَا تَنكِحُوا۟ مَا نَكَحَ ءَابَآؤُكُم مِّنَ ٱلنِّسَآءِ إِلَّا مَا قَدْ سَلَفَ ۚ إِنَّهُۥ كَانَ فَٰحِشَةًۭ وَمَقْتًۭا وَسَآءَ سَبِيلًا
 
-**4:23** Fabidn fi yu a yu mada, yu daata, yu sisters, yu paternal aants, yu maternal aants, yu bredas daata, yu sistas daata, yu fosta-mada uu nursed yu, yu sisters chuu nursing, yu waivzs mada, an yu stepdaaters ina yu guardianship — born a waivz yu av gaan ina — bot if yu av no gaan ina dem, de a no bliem pan yu. An di waivz a yu jenetik sonz, an mari tuu sisters simultaneousli. Eksep wa a paas. Gad a oft-fargivin, muos mersiful.
+**4:23** Fabidn fi yu a yu mada, yu daata, yu sisters, yu paternal aants, yu maternal aants, yu bredas daata, yu sistas daata, yu fosta-mada uu nursed yu, yu sisters chuu nursing, yu waivz mada, an yu stepdaaters ina yu guardianship — born a waivz yu av gaan ina — bot if yu av no gaan ina dem, de a no bliem pan yu. An di waivz a yu jenetik sonz, an mari tuu sisters simultaneousli. Eksep wa a paas. Gad a oft-fargivin, muos mersiful.
 
 حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ ٱلَّٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَٰٓئِلُ أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ ۗ إِنَّ ٱللَّهَ كَانَ غَفُورًۭا رَّحِيمًۭا
 
@@ -11716,7 +11716,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 قُل لِّلْمُؤْمِنِينَ يَغُضُّوا۟ مِنْ أَبْصَٰرِهِمْ وَيَحْفَظُوا۟ فُرُوجَهُمْ ۚ ذَٰلِكَ أَزْكَىٰ لَهُمْ ۗ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا يَصْنَعُونَ
 
-**24:31** An tel di biliivin uman tu restrien dem luk, an tu guard dem privates, an no displi dem biiuti eksep wa a aparent dereof, an tu draa dem koverings uova dem briists, an no ekspos dem biiuti eksep tu dem husbands, dem faada, dem husbandss faada, dem sonz, dem husbandss sonz, dem breda, dem bredas sonz, dem sisterss sonz, dem uman, wa dem rait an pozes, dem miel atendants uu av no seksual dizaiya, ar pikni uu a no yet awier a di nakednes a uman. An dem shuda no straik dem fut tu draa atenshan tu dem hiden biiuti. An ripent tu Gad, aal a yu biliivaz, so dat yu mie soksiid.
+**24:31** An tel di biliivin uman tu restrien dem luk, an tu guard dem privates, an no displi dem biiuti eksep wa a aparent dereof, an tu draa dem koverings uova dem briists, an no ekspos dem biiuti eksep tu dem husbands, dem faada, dem husbands faada, dem sonz, dem husbands sonz, dem breda, dem bredas sonz, dem sisters sonz, dem uman, wa dem rait an pozes, dem miel atendants uu av no seksual dizaiya, ar pikni uu a no yet awier a di nakednes a uman. An dem shuda no straik dem fut tu draa atenshan tu dem hiden biiuti. An ripent tu Gad, aal a yu biliivaz, so dat yu mie soksiid.
 
 وَقُل لِّلْمُؤْمِنَٰتِ يَغْضُضْنَ مِنْ أَبْصَٰرِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا ۖ وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ ۖ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ أَوْ أَبْنَآئِهِنَّ أَوْ أَبْنَآءِ بُعُولَتِهِنَّ أَوْ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ أَخَوَٰتِهِنَّ أَوْ نِسَآئِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ غَيْرِ أُو۟لِى ٱلْإِرْبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفْلِ ٱلَّذِينَ لَمْ يَظْهَرُوا۟ عَلَىٰ عَوْرَٰتِ ٱلنِّسَآءِ ۖ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ ۚ وَتُوبُوٓا۟ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ
 
@@ -11836,7 +11836,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 وَٱلْقَوَٰعِدُ مِنَ ٱلنِّسَآءِ ٱلَّٰتِى لَا يَرْجُونَ نِكَاحًۭا فَلَيْسَ عَلَيْهِنَّ جُنَاحٌ أَن يَضَعْنَ ثِيَابَهُنَّ غَيْرَ مُتَبَرِّجَٰتٍۭ بِزِينَةٍۢ ۖ وَأَن يَسْتَعْفِفْنَ خَيْرٌۭ لَّهُنَّ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌۭ
 
-**24:61** De a no bliem pan di blain, naar eni bliem pan di lam, naar eni bliem pan di sik, naar pan unuself fi iit a yu uom, ar yu faadas uom, ar yu madas uom, ar yu bredas uom, ar yu sisterss uom, ar di uom a yu paternal unkles, ar di uom a yu paternal aants, ar di uom a yu maternal unkles, ar di uom a yu maternal aants, ar demde uu keys yu uon, ar di uom a yu fren. Yu komit no rang bai iit tugeda ar separateli. Bot wen yu enta eni uom, griit wan aneda wid a griiting fram Gad, bles an gud. Gad so ekspliens di revilieshan fi yu, so dat yu mie andastan.
+**24:61** De a no bliem pan di blain, naar eni bliem pan di lam, naar eni bliem pan di sik, naar pan unuself fi iit a yu uom, ar yu faadas uom, ar yu madas uom, ar yu bredas uom, ar yu sisters uom, ar di uom a yu paternal unkles, ar di uom a yu paternal aants, ar di uom a yu maternal unkles, ar di uom a yu maternal aants, ar demde uu keys yu uon, ar di uom a yu fren. Yu komit no rang bai iit tugeda ar separateli. Bot wen yu enta eni uom, griit wan aneda wid a griiting fram Gad, bles an gud. Gad so ekspliens di revilieshan fi yu, so dat yu mie andastan.
 
 لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌۭ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌۭ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌۭ وَلَا عَلَىٰٓ أَنفُسِكُمْ أَن تَأْكُلُوا۟ مِنۢ بُيُوتِكُمْ أَوْ بُيُوتِ ءَابَآئِكُمْ أَوْ بُيُوتِ أُمَّهَٰتِكُمْ أَوْ بُيُوتِ إِخْوَٰنِكُمْ أَوْ بُيُوتِ أَخَوَٰتِكُمْ أَوْ بُيُوتِ أَعْمَٰمِكُمْ أَوْ بُيُوتِ عَمَّٰتِكُمْ أَوْ بُيُوتِ أَخْوَٰلِكُمْ أَوْ بُيُوتِ خَٰلَٰتِكُمْ أَوْ مَا مَلَكْتُم مَّفَاتِحَهُۥٓ أَوْ صَدِيقِكُمْ ۚ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَأْكُلُوا۟ جَمِيعًا أَوْ أَشْتَاتًۭا ۚ فَإِذَا دَخَلْتُم بُيُوتًۭا فَسَلِّمُوا۟ عَلَىٰٓ أَنفُسِكُمْ تَحِيَّةًۭ مِّنْ عِندِ ٱللَّهِ مُبَٰرَكَةًۭ طَيِّبَةًۭ ۚ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَعْقِلُونَ
 
@@ -14368,7 +14368,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 وَقَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ وَٱلْإِيمَٰنَ لَقَدْ لَبِثْتُمْ فِى كِتَٰبِ ٱللَّهِ إِلَىٰ يَوْمِ ٱلْبَعْثِ ۖ فَهَٰذَا يَوْمُ ٱلْبَعْثِ وَلَٰكِنَّكُمْ كُنتُمْ لَا تَعْلَمُونَ
 
-**30:57** Pan dat die, di sinazs ekskuses wi no benifit dem, naar wi dem bi ekskused.
+**30:57** Pan dat die, di sinaz ekskuses wi no benifit dem, naar wi dem bi ekskused.
 
 فَيَوْمَئِذٍۢ لَّا يَنفَعُ ٱلَّذِينَ ظَلَمُوا۟ مَعْذِرَتُهُمْ وَلَا هُمْ يُسْتَعْتَبُونَ
 
@@ -14894,7 +14894,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 إِن تُبْدُوا۟ شَيْـًٔا أَوْ تُخْفُوهُ فَإِنَّ ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًۭا
 
-**33:55** De a no bliem pan dem kansornin dem faada, ar dem sonz, ar dem breda, ar dem bredas sonz, ar dem sisterss sonz, ar dem uman, ar dem fiimiel sorvant. Bot dem shuda rimien kanshos a Gad. Gad a witnis uova aal tingz.
+**33:55** De a no bliem pan dem kansornin dem faada, ar dem sonz, ar dem breda, ar dem bredas sonz, ar dem sisters sonz, ar dem uman, ar dem fiimiel sorvant. Bot dem shuda rimien kanshos a Gad. Gad a witnis uova aal tingz.
 
 لَّا جُنَاحَ عَلَيْهِنَّ فِىٓ ءَابَآئِهِنَّ وَلَآ أَبْنَآئِهِنَّ وَلَآ إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ أَخَوَٰتِهِنَّ وَلَا نِسَآئِهِنَّ وَلَا مَا مَلَكَتْ أَيْمَٰنُهُنَّ ۗ وَٱتَّقِينَ ٱللَّهَ ۚ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدًا
 
