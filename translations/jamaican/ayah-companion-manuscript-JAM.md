@@ -926,7 +926,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ
 
-**2:187** Pamit fi yu a interkours wid yu waivz pan di nait a di faas. Dem a a garment fi yu, an yu a a garment fi dem. Gad nuo dat yu yuuz tu betri unuself, bot im ton tu yu an paadn yu. So apruoch dem nou, an siik wa Gad av ordiened fi yu, an iit an jringk til di hit striik a daan kyan bi distinguished fram di blak striik. Den komplet di faas til nitfal. Bot du no apruoch dem wail yu a ina retriit a di mask. Diiz a di limits a Gad, so du no kom nier dem. Gad so klarifies im revilieshan tu di piipl, dat dem mie atien paiiti.
+**2:187** Pamit fi yu a interkours wid yu waivz pan di nait a di faas. Dem a a garment fi yu, an yu a a garment fi dem. Gad nuo dat yu yuuz tu betri unuself, bot im ton tu yu an paadn yu. So apruoch dem nou, an siik wa Gad av ordiened fi yu, an iit an jringk til di wait striik a daan kyan bi distinguished fram di blak striik. Den komplet di faas til nitfal. Bot du no apruoch dem wail yu a ina retriit a di mask. Diiz a di limits a Gad, so du no kom nier dem. Gad so klarifies im revilieshan tu di piipl, dat dem mie atien paiiti.
 
 أُحِلَّ لَكُمْ لَيْلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمْ ۚ هُنَّ لِبَاسٌۭ لَّكُمْ وَأَنتُمْ لِبَاسٌۭ لَّهُنَّ ۗ عَلِمَ ٱللَّهُ أَنَّكُمْ كُنتُمْ تَخْتَانُونَ أَنفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا عَنكُمْ ۖ فَٱلْـَٰٔنَ بَٰشِرُوهُنَّ وَٱبْتَغُوا۟ مَا كَتَبَ ٱللَّهُ لَكُمْ ۚ وَكُلُوا۟ وَٱشْرَبُوا۟ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ ۖ ثُمَّ أَتِمُّوا۟ ٱلصِّيَامَ إِلَى ٱلَّيْلِ ۚ وَلَا تُبَٰشِرُوهُنَّ وَأَنتُمْ عَٰكِفُونَ فِى ٱلْمَسَٰجِدِ ۗ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَقْرَبُوهَا ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ
 
@@ -2342,7 +2342,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَقَدِ ٱفْتَرَىٰٓ إِثْمًا عَظِيمًا
 
-**4:49** Av yu no kansida demde uu kliem puriti fi demself? Rada, Gad purifies uu im wi, an dem wi no bi rang a hit.
+**4:49** Av yu no kansida demde uu kliem puriti fi demself? Rada, Gad purifies uu im wi, an dem wi no bi rang a wit.
 
 أَلَمْ تَرَ إِلَى ٱلَّذِينَ يُزَكُّونَ أَنفُسَهُم ۚ بَلِ ٱللَّهُ يُزَكِّى مَن يَشَآءُ وَلَا يُظْلَمُونَ فَتِيلًا
 
@@ -2642,7 +2642,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 لَّيْسَ بِأَمَانِيِّكُمْ وَلَآ أَمَانِىِّ أَهْلِ ٱلْكِتَٰبِ ۗ مَن يَعْمَلْ سُوٓءًۭا يُجْزَ بِهِۦ وَلَا يَجِدْ لَهُۥ مِن دُونِ ٱللَّهِ وَلِيًّۭا وَلَا نَصِيرًۭا
 
-**4:124** Bot uueva wok raichosnis, weda miel ar fiimiel, an a a biliiva — demde wi enta Paradais, an wi no bi rang a hit.
+**4:124** Bot uueva wok raichosnis, weda miel ar fiimiel, an a a biliiva — demde wi enta Paradais, an wi no bi rang a wit.
 
 وَمَن يَعْمَلْ مِنَ ٱلصَّٰلِحَٰتِ مِن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌۭ فَأُو۟لَٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًۭا
 
@@ -3074,7 +3074,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 ۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ ٱلْيَهُودَ وَٱلنَّصَٰرَىٰٓ أَوْلِيَآءَ ۘ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍۢ ۚ وَمَن يَتَوَلَّهُم مِّنكُمْ فَإِنَّهُۥ مِنْهُمْ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**5:52** Yu wi si demde ina uu aat a siknes rasing tuwaadz dem. Dem se, “wi fried di hiil a fiet mie ton agens wi.” bot praps Gad wi bring bout viktri, ar som event a im mekin; dereupon dem wi regret wa dem konsiil widin demself.
+**5:52** Yu wi si demde ina uu aat a siknes rasing tuwaadz dem. Dem se, “wi fried di wiil a fiet mie ton agens wi.” bot praps Gad wi bring bout viktri, ar som event a im mekin; dereupon dem wi regret wa dem konsiil widin demself.
 
 فَتَرَى ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ يُسَٰرِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰٓ أَن تُصِيبَنَا دَآئِرَةٌۭ ۚ فَعَسَى ٱللَّهُ أَن يَأْتِىَ بِٱلْفَتْحِ أَوْ أَمْرٍۢ مِّنْ عِندِهِۦ فَيُصْبِحُوا۟ عَلَىٰ مَآ أَسَرُّوا۟ فِىٓ أَنفُسِهِمْ نَٰدِمِينَ
 
@@ -4462,7 +4462,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌۭ مُّبِينٌۭ
 
-**7:108** An im puled out im an, an it waz hit tu di onluukers.
+**7:108** An im puled out im an, an it waz wait tu di onluukers.
 
 وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ
 
@@ -6992,7 +6992,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًۭا ۖ فَصَبْرٌۭ جَمِيلٌ ۖ عَسَى ٱللَّهُ أَن يَأْتِيَنِى بِهِمْ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
 
-**12:84** Den im ton wie fram dem, an se, “oo mai biternes fi Juozif.” an im ai ton hit fram sorow, an im bikiem depresed.
+**12:84** Den im ton wie fram dem, an se, “oo mai biternes fi Juozif.” an im ai ton wait fram sorow, an im bikiem depresed.
 
 وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ فَهُوَ كَظِيمٌۭ
 
@@ -9856,7 +9856,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 قَالَ خُذْهَا وَلَا تَخَفْ ۖ سَنُعِيدُهَا سِيرَتَهَا ٱلْأُولَىٰ
 
-**20:22** An pres yu an tu yu said; it wi kom out hit, widout a blemish — aneda sain.
+**20:22** An pres yu an tu yu said; it wi kom out wait, widout a blemish — aneda sain.
 
 وَٱضْمُمْ يَدَكَ إِلَىٰ جَنَاحِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ ءَايَةً أُخْرَىٰ
 
@@ -11600,7 +11600,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 سُورَةٌ أَنزَلْنَٰهَا وَفَرَضْنَٰهَا وَأَنزَلْنَا فِيهَآ ءَايَٰتٍۭ بَيِّنَٰتٍۢ لَّعَلَّكُمْ تَذَكَّرُونَ
 
-**24:2** Di adulteres an di adultera — hip iich wan a dem a hundred lashes, an mek no piti tuwaadz dem overkom yu rigaadin gads laa, if yu biliiv ina Gad an di laas die. An mek a gruup a biliivaz witnis dem ponishment.
+**24:2** Di adulteres an di adultera — wip iich wan a dem a hundred lashes, an mek no piti tuwaadz dem overkom yu rigaadin gads laa, if yu biliiv ina Gad an di laas die. An mek a gruup a biliivaz witnis dem ponishment.
 
 ٱلزَّانِيَةُ وَٱلزَّانِى فَٱجْلِدُوا۟ كُلَّ وَٰحِدٍۢ مِّنْهُمَا مِا۟ئَةَ جَلْدَةٍۢ ۖ وَلَا تَأْخُذْكُم بِهِمَا رَأْفَةٌۭ فِى دِينِ ٱللَّهِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۖ وَلْيَشْهَدْ عَذَابَهُمَا طَآئِفَةٌۭ مِّنَ ٱلْمُؤْمِنِينَ
 
@@ -11608,7 +11608,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 ٱلزَّانِى لَا يَنكِحُ إِلَّا زَانِيَةً أَوْ مُشْرِكَةًۭ وَٱلزَّانِيَةُ لَا يَنكِحُهَآ إِلَّا زَانٍ أَوْ مُشْرِكٌۭ ۚ وَحُرِّمَ ذَٰلِكَ عَلَى ٱلْمُؤْمِنِينَ
 
-**24:4** Demde uu akus khast uman, den kyaa bring four witnis, hip dem eiti lashes, an du no eva aksep dem testimoni. Fi diiz a di imoral.
+**24:4** Demde uu akus khast uman, den kyaa bring four witnis, wip dem eiti lashes, an du no eva aksep dem testimoni. Fi diiz a di imoral.
 
 وَٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَٰتِ ثُمَّ لَمْ يَأْتُوا۟ بِأَرْبَعَةِ شُهَدَآءَ فَٱجْلِدُوهُمْ ثَمَٰنِينَ جَلْدَةًۭ وَلَا تَقْبَلُوا۟ لَهُمْ شَهَٰدَةً أَبَدًۭا ۚ وَأُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ
 
@@ -12314,7 +12314,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌۭ مُّبِينٌۭ
 
-**26:33** An im puled im an; an it waz hit, fi aal tu si.
+**26:33** An im puled im an; an it waz wait, fi aal tu si.
 
 وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ
 
@@ -13150,7 +13150,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 إِلَّا مَن ظَلَمَ ثُمَّ بَدَّلَ حُسْنًۢا بَعْدَ سُوٓءٍۢ فَإِنِّى غَفُورٌۭ رَّحِيمٌۭ
 
-**27:12** Put yu an insid yu poket, an it wi kom out hit, widout blemish — mongks nin mirakles tu Fieruo an im piipl, fi dem a imoral piipl.”
+**27:12** Put yu an insid yu poket, an it wi kom out wait, widout blemish — mongks nin mirakles tu Fieruo an im piipl, fi dem a imoral piipl.”
 
 وَأَدْخِلْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍۢ ۖ فِى تِسْعِ ءَايَٰتٍ إِلَىٰ فِرْعَوْنَ وَقَوْمِهِۦٓ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًۭا فَٰسِقِينَ
 
@@ -13616,7 +13616,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 وَأَنْ أَلْقِ عَصَاكَ ۖ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّۭ وَلَّىٰ مُدْبِرًۭا وَلَمْ يُعَقِّبْ ۚ يَٰمُوسَىٰٓ أَقْبِلْ وَلَا تَخَفْ ۖ إِنَّكَ مِنَ ٱلْءَامِنِينَ
 
-**28:32** Put yu an insid yu poket, an it wi kom out hit, widout blemish. An pres yu arm tu yu said, agens fried. Diiz a tuu pruuf fram yu Laad, tu Fieruo an im dignitaries. Dem a truli sinful piipl.”
+**28:32** Put yu an insid yu poket, an it wi kom out wait, widout blemish. An pres yu arm tu yu said, agens fried. Diiz a tuu pruuf fram yu Laad, tu Fieruo an im dignitaries. Dem a truli sinful piipl.”
 
 ٱسْلُكْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍۢ وَٱضْمُمْ إِلَيْكَ جَنَاحَكَ مِنَ ٱلرَّهْبِ ۖ فَذَٰنِكَ بُرْهَٰنَانِ مِن رَّبِّكَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦٓ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًۭا فَٰسِقِينَ
 
@@ -14750,7 +14750,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 ۞ قَدْ يَعْلَمُ ٱللَّهُ ٱلْمُعَوِّقِينَ مِنكُمْ وَٱلْقَآئِلِينَ لِإِخْوَٰنِهِمْ هَلُمَّ إِلَيْنَا ۖ وَلَا يَأْتُونَ ٱلْبَأْسَ إِلَّا قَلِيلًا
 
-**33:19** Biin stinji tuwaadz yu. An wen fried apruoch, yu si dem staring a yu — dem ai roling — laik sombadi fienting a det. Den, wen panik a uova, dem hip yu wid sharp tongues. Dem resent yu eni gud. Diiz av neva biliiv, so Gad av nulified dem wok; a mata iizi fi Gad.
+**33:19** Biin stinji tuwaadz yu. An wen fried apruoch, yu si dem staring a yu — dem ai roling — laik sombadi fienting a det. Den, wen panik a uova, dem wip yu wid sharp tongues. Dem resent yu eni gud. Diiz av neva biliiv, so Gad av nulified dem wok; a mata iizi fi Gad.
 
 أَشِحَّةً عَلَيْكُمْ ۖ فَإِذَا جَآءَ ٱلْخَوْفُ رَأَيْتَهُمْ يَنظُرُونَ إِلَيْكَ تَدُورُ أَعْيُنُهُمْ كَٱلَّذِى يُغْشَىٰ عَلَيْهِ مِنَ ٱلْمَوْتِ ۖ فَإِذَا ذَهَبَ ٱلْخَوْفُ سَلَقُوكُم بِأَلْسِنَةٍ حِدَادٍ أَشِحَّةً عَلَى ٱلْخَيْرِ ۚ أُو۟لَٰٓئِكَ لَمْ يُؤْمِنُوا۟ فَأَحْبَطَ ٱللَّهُ أَعْمَٰلَهُمْ ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًۭا
 
@@ -15314,7 +15314,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 ثُمَّ أَخَذْتُ ٱلَّذِينَ كَفَرُوا۟ ۖ فَكَيْفَ كَانَ نَكِيرِ
 
-**35:27** Av yu no siin dat Gad sen dong waata fram di skai? Wid it wi prodyuus fruut a various kolors. An ina di mountn a striiks a hit an red — varying ina dem hue — an pitkh-blak.
+**35:27** Av yu no siin dat Gad sen dong waata fram di skai? Wid it wi prodyuus fruut a various kolors. An ina di mountn a striiks a wait an red — varying ina dem hue — an pitkh-blak.
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءًۭ فَأَخْرَجْنَا بِهِۦ ثَمَرَٰتٍۢ مُّخْتَلِفًا أَلْوَٰنُهَا ۚ وَمِنَ ٱلْجِبَالِ جُدَدٌۢ بِيضٌۭ وَحُمْرٌۭ مُّخْتَلِفٌ أَلْوَٰنُهَا وَغَرَابِيبُ سُودٌۭ
 
@@ -15926,7 +15926,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 يُطَافُ عَلَيْهِم بِكَأْسٍۢ مِّن مَّعِينٍۭ
 
-**37:46** Hit; a delit tu demde uu jringk.
+**37:46** Wait; a delit tu demde uu jringk.
 
 بَيْضَآءَ لَذَّةٍۢ لِّلشَّٰرِبِينَ
 
