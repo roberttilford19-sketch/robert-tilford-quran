@@ -14,14 +14,14 @@ awaits Robert's separate word.
 
 FILES (deliverables first; sizes in bytes, SHA-256 abbreviated to 16 hex)
 
-ayah-companion-manuscript-COP.md   3156630  3eb1a6d65f1273d3
+ayah-companion-manuscript-COP.md   3156655  b2d34be029dddbdb
   The complete book: front matter (DRAFT — NOT REVIEWED inside),
   catalogue, 114 surah heads, 6,236 verses with the Arabic beside
   every rendering. Full SHA-256:
-  3eb1a6d65f1273d3c3ab589beabfbb20fc68a5baf27f110695a3a5fdbc56093f
-  (Figures current as of the Ḥā Mīm alignment of 2026-11-16 — see
-  the REPAIR NOTEs at the foot of this manifest for the full hash
-  chain.)
+  b2d34be029dddbdbfe262dbd1629f841e67cf036471c44d59f5fee13379aa9d8
+  (Figures current as of the Muqatta'at punctuation alignment of
+  2026-11-16 — see the REPAIR NOTEs at the foot of this manifest
+  for the full hash chain.)
 STYLEGUIDE-COP.md                    42341  44ef0e44b0fff163
   The lane's governing decisions (1–15) and the 12 numbered reviewer
   rulings.
@@ -325,3 +325,77 @@ alignment)
 - Manuscript hash chain: 5c5d2f8fc5d7e230… (3,156,684 bytes,
   after the 38:1 repair) → 3eb1a6d65f1273d3… (3,156,630 bytes,
   this alignment; −54 bytes = −18 at each of the three seats).
+
+CENSUS NOTE — 2026-11-16 (Decision 31, RULED A)
+- The Muqatta'at punctuation census is executed and recorded at
+  MUQATTAAT-PUNCTUATION-CENSUS-2026-11-16.md in this lane:
+  30 detached-letter seats enumerated from the master (the 29
+  surah openings + 42:2) and graded against the restored 19:1
+  format — CONFORMING 15, MECHANICAL 14 (24 commas across 13
+  seats, incl. 43:1–46:1; one terminal period at 50:1), POLICY 1
+  (36:1, the raised Ⲥⲓⲛ; the exact question rides in the census
+  document and in ADDENDUM 4 of the checker report).
+  Classification only under this ruling: no verse text, slice, or
+  data file was edited; the manuscript stands at 3,156,630 bytes,
+  SHA-256 3eb1a6d65f1273d3…, unchanged.
+
+REPAIR NOTE — 2026-11-16 (the Muqatta'at punctuation alignment,
+Decision 33, RULED A)
+- Authority: Robert Tilford's ruling A on Decision 33 of 2026-11-16
+  ("Align the 14 mechanical punctuation seats in one pass"),
+  executing the worklist of record graded under Decision 31
+  (MUQATTAAT-PUNCTUATION-CENSUS-2026-11-16.md). The lane's status
+  is unchanged: DRAFT — NOT REVIEWED.
+- Alignment: the 14 MECHANICAL seats of the census, punctuation
+  only, no letter changed at any seat in any layer. The 13 comma
+  seats take the comma-separated form of the 19:1 format of
+  record: 2:1 and 3:1 now read "ⲁⲗⲓⲫ, ⲗⲁⲙ, ⲙⲓⲙ."; 7:1 reads
+  "ⲁⲗⲓⲫ, ⲗⲁⲙ, ⲙⲓⲙ, ⲥⲁⲁⲇ."; the Rā group 10:1, 11:1, 12:1,
+  14:1, 15:1 reads "ⲁⲗⲓⲫ, ⲗⲁⲙ, ⲣⲁ." before the verse's
+  continuation, and 13:1 reads "ⲁⲗⲓⲫ, ⲗⲁⲙ, ⲙⲓⲙ, ⲣⲁ."; the
+  Ḥā Mīm seats 43:1, 44:1, 45:1, 46:1 read "ⲹⲁ, ⲙⲓⲙ." — the
+  line Decision 30 set at 40:1–42:1. That is 24 commas in all
+  (2+2+3+2+2+2+3+2+2+1+1+1+1). The period seat: at 50:1 the
+  single letter now closes with its period — "ⲕⲁⲫ." — before
+  the oath, per the master's "Qaf. By the Glorious Quran." and
+  both sibling single-letter seats (38:1, 68:1); the verse's
+  remainder is unchanged.
+- Scope fence: 36:1 (the POLICY seat — the raised Ⲥⲓⲛ question)
+  is NOT touched by this ruling and stands exactly as built,
+  awaiting its own ruling; the 15 CONFORMING seats and the
+  19:INTRO / 20:INTRO name slots were captured at the start and
+  asserted unchanged at the end. The manuscript diff against the
+  pre-repair copy is exactly fourteen lines (185, 1341, 4037,
+  5711, 6159, 6663, 7119, 7305, 7525, 17973, 18341, 18589,
+  18749, 19277).
+- Applied identically, in punctuation, in the manuscript, the
+  fourteen slices work/cop/surah_002.txt, surah_003.txt,
+  surah_007.txt, surah_010.txt, surah_011.txt, surah_012.txt,
+  surah_013.txt, surah_014.txt, surah_015.txt, surah_043.txt,
+  surah_044.txt, surah_045.txt, surah_046.txt, surah_050.txt,
+  and the draft modules work/draft_r1_data.py (2:1, 3:1),
+  work/draft_r3_data.py (7:1, 10:1), work/draft_r4_data.py
+  (11:1–15:1), work/draft_r10_data.py (43:1–46:1, 50:1) — each
+  file differing from its pre-repair copy in exactly its seats'
+  lines. Pre-repair copies kept beside each file with the suffix
+  .PRE-PUNCT-FIX-2026-11-16. Layer note: each layer received the
+  punctuation change in its own spelling and nothing else — the
+  draft layer's Greek-block ϩⲁ at 43:1–46:1 stands as that
+  layer's standing variance (absorbed by check_cop.py's
+  normalization); converting it would have been a letter change
+  outside this ruling.
+- Verification (2026-11-16): verse markers 6,236 of 6,236;
+  amended verify PASS on every field (Arabic 6,462 runs identical
+  to the master and to meta; markers 15; slice lines 6,236, ref
+  and paragraph mismatches 0; "%" 0), and the rewritten
+  verification record is byte-identical to the pre-repair record;
+  check_cop.py over all 114 surahs: problems 0, censuses
+  unchanged (God 2,732; god/gods 114; Lord 969; Master 11;
+  zakat 13; sadaqa 36; banned ⲡⲛⲟⲩⲧⲉ 0). Post-repair census
+  spot-check: all 30 seats re-graded against the census document
+  — CONFORMING 29, with 36:1 standing as the family's lone
+  POLICY remainder. The Muqatta'at punctuation question is
+  closed.
+- Manuscript hash chain: 3eb1a6d65f1273d3… (3,156,630 bytes,
+  after the Ḥā Mīm alignment) → b2d34be029dddbdb… (3,156,655
+  bytes, this alignment; +25 bytes = 24 commas + 1 period).
