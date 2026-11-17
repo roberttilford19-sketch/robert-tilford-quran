@@ -5,3 +5,5 @@ Robert Tilford ruled that the live shelf governs. For this folder, the governing
 Critical note: see CRITICAL-NOTES.md (Surah 3:7, ruled 2026-10-25).
 
 Record note: this MANIFEST.txt was created on 2026-10-25 because the English folder previously held only the locked PDF and no MANIFEST.txt.
+
+Errata note: see ERRATA.md (6:86, "Elijah" corrected to "Elisha"; entered 2026-11-16 under Robert Tilford's Decision 36 ruling).
