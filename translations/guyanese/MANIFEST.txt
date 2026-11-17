@@ -1,0 +1,123 @@
+AYAH COMPANION — GUYANESE CREOLE RENDERING
+MANIFEST — lane record, 2026-11-16
+
+ITEM
+Ayah Companion, Guyanese Creole (Creolese) rendering, built from
+the corrected English manuscript of the Locked English Master
+lineage. The lane was opened by Robert Tilford's Decision 16
+(RULED A, 2026-11-16); the Region 3 board entry stands BUILDABLE
+(Guyanese Creole English | gyn | creo1235 | GY;SR). Lane charter:
+LANE-BRIEF.md, orthography decisions G-0 through G-4.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Guyanese Creole review is required
+before any gifting or publication; review is invited. The status
+line stands inside the manuscript itself, in Guyanese Creole
+("DRAFT — NO RIVYUU") and in English, on its face, with AI
+assistance labelled.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction
+meta, by the structural-position method; 0 differing positions).
+The rendering translates the corrected manuscript as printed,
+including its defects, which are handled by sense and flagged,
+never silently corrected — and each defect's sense-rendering is
+asserted by the lane checker and the independent checker
+(16:67 rom, never sugar; 47:36 worl; 39:67 "rait an"; 5:65
+Skripcha; 5:64 and 13:19 "riviil tu yu fram"; 2:102 Salaman /
+Soloman distinct).
+
+LANGUAGE AND ORTHOGRAPHY
+Guyanese Creole (Creolese) in the Cave-GLU phonemic orthography
+— lane decision G-0 (the Cassidy phonemic principle in its
+Guyanese application; an academic system — no widely adopted
+public orthography exists for Creolese, recorded on the face).
+G-1: the r-fullness policy is ADOPTED (Guyanese is the more
+r-ful sister) but its dictionary implementation stands DEFERRED
+as enumerated work; the counted stems stand r-less in this draft
+(Laad / Maasta), and Laard / Maastar stand as the named open
+alternative for the reviewer. G-2: the /ou/ diphthong is written
+ou, not ow. G-3: no systematic ee (aa/ii/uu doubling stands).
+G-4: the hand class is INHERITED-OPEN from Jamaican Decision 13;
+hand / hands render "an" as built, unsettled.
+
+LANE LINE / CLAIM BOUNDARY
+No Quran-specific scout of record stands for Guyanese Creole, so
+no research finding is printed for this lane. The book's face
+carries the bounded form only: "This draft makes no
+first-translation claim, and no claim about any other Guyanese
+Creole rendering." No "none found after research" wording is
+printed anywhere in this lane, and no first-translation claim is
+made for this rendering, in this manifest or in any lane
+document, ever.
+
+FILES
+ayah-companion-manuscript-GYN.md
+  2,120,448 bytes
+  SHA-256 c98e4b25b47e35ae83b8b65d7758cb6c584d39c672131a6485bdf91595cdb62b
+ayah-companion-aligned-GYN.json (the FILE-SCHEMA side-by-side:
+  6,236 objects {chapter, verse, en, target, ar} on the master grid)
+  3,236,550 bytes
+  SHA-256 9ded97144cd70010dac74bfa843fb6951d14705f0102dd4c97649c4436854590
+This MANIFEST.txt (its own figures are not carried inside itself;
+  the landing read-back covers it byte for byte).
+
+VERIFICATION
+Canonical verify (amended verify.py, structural-position Arabic
+method) on the final shelved bytes: PASS — 114 headers in order;
+6,236 of 6,236 verses; counts match meta; continuity true;
+Arabic 6,462 runs identical to the master and to meta; missing
+tags 0; markers 15 (11 recommended + 4 obligatory); the 5:6 note
+present; percent 0 in slices and manuscript.
+Lane checker over all 114 surahs: problems 0. Censuses exact per
+verse and in total: Gad 2,732 = God; ila 114 = god/gods; Laad
+969 = Lord; Maasta at exactly the 11 counted slots; zakaat at
+exactly the 13 keyed slots; sadaka at exactly 36 keyed tokens.
+Independent checker (a separate agent that did not build the
+lane; CHECKER-GYN-SEPARATE-AGENT.md): PASS WITH FLAGS — 37 MATCH
+/ 11 MINOR / 0 MATERIAL on a 48-verse spread sample, all figures
+recomputed with its own machinery; the 11 MINORs are
+standing-English residue tokens inside the disclosed fallback,
+sense intact.
+Purple sweep, report mode (PURPLE-REPORT-GYN-2026-11-16.md):
+APPLIED 0 + VERIFIED-KEPT 14 + FLAGGED-KEPT 0 + UNRESOLVED 0 =
+14 place-actions. Both Elisha seats close RULED — VERIFY-KEEP.
+
+RESIDUE CARRIED TO THE REVIEWER
+The full named list stands in work/flags-gyn.txt — 13 named
+items, carried unsettled, none forced: (1) the Eliisha form at
+6:86 and 38:48, the reviewer's first name ruling; (2) G-0, the
+Cave-GLU base; (3) G-1, the r-policy entire (stems r-less;
+Laard/Maastar open; the coda-r class enumerated-deferred);
+(4) G-2, ou against ow; (5) G-3, ee not adopted; (6) G-4, the
+hand class inherited-open; (7) the divine possessives Gads /
+Laads, unverified, needing a native speaker; (8) 1:7
+"misguided" standing English; (9) the engine-regenerated classes
+counted on this lane's text (quote class 30 signature hits + 11
+backtick openings; the possessive-append doublings; whitened →
+"hitened" ×2; the wh- remainder) — repairs ride rulings, and no
+hand-repair was made on desk authority; (10) the
+listed-not-guessed dictionary gaps, headed by the note→"not"
+family (HIGH); (11) the elided-will / will-noun seats, the
+high→"ai" Most High seats, its→"im"; (12) the claim boundary's
+ground; (13) the master seams carried as printed (18:103,
+19:64, 2:272). Counted residue: 14,551 transliteration-fallback
+tokens of 141,525 scanned (10.3%), 5,075 distinct; the
+letter-identical subset 4,262 tokens / 1,537 distinct — the
+disclosed first-pass method, standing on the lane's face.
+
+SCOPE
+Built and landed under Robert Tilford's Decision 16 (RULED A,
+2026-11-16) and the house Pipeline Landing Authorization, on the
+GitHub shelf roberttilford19-sketch/robert-tilford-quran under
+translations/guyanese/. The landing commit and read-back result
+are recorded in BUILD-REPORT-GYN.md and in the dated addendum to
+LANE-BRIEF.md. Nothing was published, posted, or gifted anywhere
+else. The lane remains DRAFT — NOT REVIEWED; the native-review
+gate stands.
