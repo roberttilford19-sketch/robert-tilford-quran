@@ -14,13 +14,13 @@ awaits Robert's separate word.
 
 FILES (deliverables first; sizes in bytes, SHA-256 abbreviated to 16 hex)
 
-ayah-companion-manuscript-COP.md   3156632  aaa77dd509853805
+ayah-companion-manuscript-COP.md   3156674  76e052ce4ede2e23
   The complete book: front matter (DRAFT — NOT REVIEWED inside),
   catalogue, 114 surah heads, 6,236 verses with the Arabic beside
   every rendering. Full SHA-256:
-  aaa77dd509853805fbb3760701657896dba745a6dbe5bc9cbe0d751c436213c4
-  (Figures current as of the 20:1 repair of 2026-11-16 — see the
-  REPAIR NOTE at the foot of this manifest for the full hash chain.)
+  76e052ce4ede2e23bbabfd7cac54e36d104e544c708530869fa1196ddb3962cd
+  (Figures current as of the 19:1 repair of 2026-11-16 — see the
+  REPAIR NOTEs at the foot of this manifest for the full hash chain.)
 STYLEGUIDE-COP.md                    42341  44ef0e44b0fff163
   The lane's governing decisions (1–15) and the 12 numbered reviewer
   rulings.
@@ -129,3 +129,66 @@ REPAIR NOTE — 2026-11-16 (verse 20:1)
   recorded in the dated addendum to
   CHECKER-REPORT-COP-INDEPENDENT-2026-11-14.md. They are NOT
   repaired; they await Robert's word.
+
+REPAIR NOTE — 2026-11-16 (verse 19:1)
+- Authority: Robert Tilford's ruling A on Decision 3 of 2026-11-16
+  ("Restore 19:1 now; ʿAyn spelled ⲁⲓⲛ by the lane's phonetic
+  convention"). The lane's status is unchanged: DRAFT — NOT
+  REVIEWED.
+- Defect (independent checker, found by the 20:1 repair sweep,
+  2026-11-16): the 19:1 line read ", , , , ." — all five
+  disconnected letters (Kāf, Hā, Yā, ʿAyn, Ṣād) were lost in the
+  lane's normalization; marker, verse count, and the Arabic
+  (كهيعص) intact.
+- Repair: the line now reads "ⲕⲁⲫ, ϩⲁ, Ⲓⲁ, ⲁⲓⲛ, ⲥⲁⲁⲇ."
+  Kāf = ⲕⲁⲫ, the lane's own spelling at 50:1; Hā = ϩⲁ, per the
+  20:1 precedent (the lane's spelling of the /h/-class letter
+  name, Ḥā at 43:1–46:1); Yā = Ⲓⲁ, the lane's own spelling at
+  36:1; Ṣād = ⲥⲁⲁⲇ, the lane's own spelling at 7:1. The commas
+  and the period are the verse's own surviving punctuation,
+  matching the master's "Kaf, Ha, Ya, Ayn, Saad."
+- THE ʿAYN CONVENTION — NEW, ADOPTED BY THIS RULING: ʿAyn =
+  ⲁⲓⲛ. ʿAyn is attested nowhere in the lane — its only seats are
+  19:1 itself and 42:2, and both were defective — so no spelling
+  could be restored from the lane; the spelling is a choice, and
+  Robert's ruling makes it. ⲁⲓⲛ spells the letter-name by its
+  sound in Coptic letters, the lane's standing method for letter
+  names (ⲁⲗⲓⲫ, ⲗⲁⲙ, ⲙⲓⲙ, ⲥⲁⲁⲇ, ⲣⲁ, ⲥⲓⲛ, ⲕⲁⲫ, ⲛⲟⲩⲛ, Ⲓⲁ;
+  Ṭā = ⲧⲁ and Hā = ϩⲁ under the 20:1 repair): the name is
+  carried on its opening vowel, Coptic having no grapheme for
+  the pharyngeal [ʕ]. The convention governs ʿAyn wherever it
+  occurs in the lane and is noted for 42:2's future repair;
+  42:2 itself is NOT repaired by this ruling, nor are 38:1,
+  40:1, 41:1, 42:1 — those seats await their own rulings.
+- Supporting briefs (relayed, graded as such): two scholarship
+  briefs reached the desk after the ruling and support the
+  convention — (1) Coptic transcription of Arabic sounds
+  historically used closest-grapheme matching and vowel
+  coloring, there being no native Coptic grapheme for the
+  pharyngeal [ʕ], and Arabic letter-names were spelled
+  phonetically by sound in Coptic letters, the lane's existing
+  method for Ṭā (ⲧⲁ) and Hā (ϩⲁ); (2) the Greek tradition behind
+  the Coptic alphabet likewise carried ʿayn on the opening
+  vowel (e.g. Σαειδ for Saʿīd; the letter-name treated as
+  "ain"; Greek omicron itself descends from Phoenician
+  ʿayin). Recorded as relayed supporting briefs, consistent
+  with the known tradition — not desk-verified citations.
+- Applied identically in the manuscript, work/cop/surah_019.txt,
+  and work/draft_r5_data.py. Pre-repair copies kept beside each
+  file with the suffix .PRE-19-1-FIX-2026-11-16.
+- Verification (2026-11-16): diff against the pre-repair
+  manuscript is exactly one line (9369); verse markers 6,236 of
+  6,236; amended verify PASS on every field (Arabic 6,462 runs
+  identical to the master and to meta; markers 15 matched;
+  slice lines 6,236, ref and paragraph mismatches 0; "%" 0);
+  check_cop.py over all 114 surahs: problems 0, censuses
+  unchanged (God 2,732; god/gods 114; Lord 969; Master 11;
+  zakat 13; sadaqa 36; banned ⲡⲛⲟⲩⲧⲉ 0). Instrument note: the
+  lane's amended verify.py was not on disk; the run used a
+  reconstruction (~/workspace/.tools/verify-cop-amended.py)
+  that was first validated against the pre-repair state, whose
+  verification record it reproduces field for field (22 of 22),
+  before it was trusted with the repaired state.
+- Manuscript hash chain: aaa77dd509853805… (3,156,632 bytes,
+  after the 20:1 repair) → 76e052ce4ede2e23… (3,156,674 bytes,
+  this repair).

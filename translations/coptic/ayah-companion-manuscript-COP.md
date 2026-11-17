@@ -9366,7 +9366,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 *ⲷⲉⲛ ⲫⲣⲁⲛ ⲛⲧⲉ Ⲫⲿ ⲡⲓⲣⲉⲵⲳⲉⲛⲹⲏⲧ ⲟⲩⲟⲹ ⲡⲓⲛⲁⲏⲧ*
 
-**19:1** , , , , .
+**19:1** ⲕⲁⲫ, ⲹⲁ, Ⲓⲁ, ⲁⲓⲛ, ⲥⲁⲁⲇ.
 
 كٓهيعٓصٓ
 
