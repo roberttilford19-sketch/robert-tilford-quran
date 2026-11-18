@@ -18915,7 +18915,7 @@ if anu are mam stat ro impurity, purify yourselves. If anu are ill, or travellin
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Whil tos awya smot, sia work rigteousness, sia smot mam what was sent down kah muhammad — sia ait jõ ati pat teir Tuhan — ait remits teir iro, sia relieves teir konserns.
+**47:2** Whil tos awya smot, sia work rigteousness, sia smot mam what was sent down kah Muhammad — sia ait jõ ati pat teir Tuhan — ait remits teir iro, sia relieves teir konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
