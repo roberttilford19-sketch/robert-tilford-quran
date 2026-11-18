@@ -1,0 +1,100 @@
+AYAH COMPANION — AMBULAS RENDERING
+MANIFEST — lane record, 2026-11-17
+
+ITEM
+Ayah Companion, Ambulas (abt) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the New Guinea wave (Phase 2, first tranche),
+under Robert's Advance Rule of 2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Ambulas review is required
+before any gifting or publication; review is invited. The status
+line stands inside the manuscript itself, on its face, with AI
+assistance labelled.
+SHELVING: staged in this lane's shelving pack only. The landing
+is centralized after the independent check; this lane does
+not push.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography — the Maprik orthography of the Gotna Kudi
+New Testament and the Ambulas Dictionary.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: none
+found after research (New Guinea wave scout, 2026-11-17).
+
+FILES
+GLOSSARY-ABT.md
+  5,269 bytes
+  SHA-256 9d93588bfc3d4c6875f39f934352134f1915a26fa974a4ea395a96e149d83510
+STYLEGUIDE-ABT.md (the lane's binding drafting law, settled before drafting)
+  7,091 bytes
+  SHA-256 7302d4e50fe72685cae7963b0653027eea4a121464ce69df5edb447b140144a0
+BUILD-REPORT-ABT.md
+  7,089 bytes
+  SHA-256 ec50f0956c4577ddfddd0b9ba02cf28dea428c9bc1746a44912950964585aeec
+work/verification-abt.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-abt.txt — 15 named uncertain-seat items plus residue counts, carried to the reviewer.
+  4,964 bytes
+  SHA-256 5e980e67863e77dc0c43f0d029b26355093fe30e3bfaf2edb8442f2f23931a08
+ayah-companion-manuscript-ABT.md
+  2,269,544 bytes
+  SHA-256 5c9a3291f6285eaed235945efacc4dab624c3bcb3a55f33df2de70e72b20fa15
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-17: PASS true. Headers 114, head order true, verses
+6,236, counts match meta true, continuity true, Arabic runs
+6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse lines
+6,236, slice ref mismatches 0, slice paragraph mismatches 0,
+percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_abt.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Got/Gotna 2,732
+(= God 2,732); got 79 (= god 79); got-got 35 (= gods 35);
+Némaan Ban 980 (= Lord 969 + the 11 counted Master tokens);
+zakat at exactly the 13 keyed slots; kutkalé at exactly the 36
+keyed tokens (2:272 x3; 58:13 x2).
+Purple measurements (work/purple-measurements-abt.json): Arabic
+matched 6,348 of 6,348; basmalah 114; markers 15; TOC 114, no
+mismatches; percent 0; note 56 present.
+Independent checker (separate agent), 2026-11-17: STOP on a
+papers-only ground — the BUILD-REPORT's grounding counts did
+not match the lane's own bridge record (CHECKER-REPORT-ABT.md).
+Corrected the same date, 2026-11-17, by dated correction in
+BUILD-REPORT-ABT.md: 794 non-empty source-grounded template
+keys / 797 template entries / 799 lexicon entries, the 3 empty
+keys (the, a, an) named as template-inherited. The manuscript
+gates were all verified by the checker (canonical verify PASS,
+lane checker problems 0, censuses exact); the manuscript is
+unchanged. Re-check of the corrected papers (RECHECK-ABT.md,
+2026-11-17): PASS WITH FLAGS — correction verified on all six
+items, manuscript byte-unchanged.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+
+NOTES CARRIED TO THE REVIEWER
+The Ilaisa/Ilaija pair (flags item 1) is the reviewer's first name
+ruling; the God-word Got and Lord-word Némaan Ban are dictionary-
+and NT-attested; the basmalah composition, the got-got plural
+convention, the angel/prophet/hell fallback seats, and the
+accent-normalisation pass ride in the flags.
