@@ -18913,7 +18913,7 @@ if emba mlna kisa stat angl impurity, purify yourselbes. If emba mlna ill, kairn
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Whil dutupa ai tungi, pa kalai rigteousness, pa tungi kisa aipa was pyao sapu kisa muhammad — pa doko itamakenge kiningi kisa dupanya Kamongo — baa remits dupanya nepenge, pa reliebes dupanya konserns.
+**47:2** Whil dutupa ai tungi, pa kalai rigteousness, pa tungi kisa aipa was pyao sapu kisa Muhammad — pa doko itamakenge kiningi kisa dupanya Kamongo — baa remits dupanya nepenge, pa reliebes dupanya konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
