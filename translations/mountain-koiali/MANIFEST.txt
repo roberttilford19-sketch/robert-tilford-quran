@@ -49,8 +49,8 @@ work/flags-kpx.txt — 13 named uncertain-seat items plus residue counts, carrie
   4676 bytes
   SHA-256 97af6271a39f5bec8d5812a7b26370fabf5d2d692e7946f0a9d9c353b4d8f1a0
 ayah-companion-manuscript-KPX.md
-  2246703 bytes
-  SHA-256 339cd77fb64e1b54030a710038fff9eb468e06cc8e2cbc3f0364fb5be9bc03b4
+  2246165 bytes
+  SHA-256 ddac1a7e0d47fc2ae3c94756a1f794dffd48e7c7315b5db6ca8c95839daf5ac5
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
