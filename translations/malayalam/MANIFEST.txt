@@ -26,4 +26,4 @@ residue gate PASS, 2026-11-12
 
 Files:
   24324903  92a3755a7b77e45ba37ca8581b7db20066e336218619df82b8c0d8920ac7db15  Ayah_Companion_Tilford_Malayalam_Manuscript.pdf (1027 pp)
-   3915009  570c23a2895b4cf0eb111ae7c896ca39c1f8fdd5d9c78a877b0e23e5a3f2c5b8  ayah-companion-manuscript-ML.md
+   3913735  98978797b44ea5848d1e3e7d5056e12e500a625dedf0bcb355a0a7261dcf87ce  ayah-companion-manuscript-ML.md
