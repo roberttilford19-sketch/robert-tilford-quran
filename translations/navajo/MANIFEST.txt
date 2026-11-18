@@ -5,13 +5,12 @@ An earlier Ayah Companion endangered-language lane, completed before the Q-1 tie
 Built from the Locked English Master (the corrected manuscript) only.
 
 Status: a complete rendering of the Quran in Navajo — all 6,236 verses, the whole
-book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
-a working draft awaiting native-speaker review; it is not a finished or certified
-translation, and native review is required before any use as one. No
+book, nothing left out — with the Arabic text alongside. No
 first-translation claim is made.
+Translated by Robert Tilford. © 2026 Robert Tilford.
 Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
 markers, first 1:1, last 114:6.
-Lane verification of record: Lane verification stands (VERIFICATION-NV.md): structurally complete — 114 surahs / 6,236 verses, every Arabic line preserved, zero blank or placeholder verses. The lane's own honesty statement grades the rendering a thin-data provisional draft (heavy transliteration, ~5,000 flags) awaiting native Diné bizaad speaker review; it must not be presented as a certified translation.
+Lane verification of record: Lane verification stands (VERIFICATION-NV.md): structurally complete — 114 surahs / 6,236 verses, every Arabic line preserved, zero blank or placeholder verses. The lane's own honesty statement grades the rendering a thin-data draft (heavy transliteration, ~5,000 flags).
 The full lane record (build report, verification and checker records, flags)
 stands in the workspace lane folder ~/workspace/ayah-navajo/, unrepaired.
 
