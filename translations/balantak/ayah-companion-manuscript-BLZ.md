@@ -337,7 +337,7 @@ The Quran in Balantak (blz), from Robert Tilford's Locked English Master. No Bal
 
 فَأَزَلَّهُمَا ٱلشَّيْطَٰنُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ ۖ وَقُلْنَا ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّۭ ۖ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّۭ وَمَتَٰعٌ إِلَىٰ حِينٍۢ
 
-**2:37** Ede' Adam reseibed dangan (sandangan) na ko'ona Tumpu, dadi Ia relented towards ia. Ia isian Relenting, Lino-linoan.
+**2:37** Ede' Adam reseibed dangan na ko'ona Tumpu, dadi Ia relented towards ia. Ia isian Relenting, Lino-linoan.
 
 فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
@@ -425,7 +425,7 @@ The Quran in Balantak (blz), from Robert Tilford's Locked English Master. No Bal
 
 وَإِذْ قُلْنَا ٱدْخُلُوا۟ هَٰذِهِ ٱلْقَرْيَةَ فَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ رَغَدًۭا وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًۭا وَقُولُوا۟ حِطَّةٌۭ نَّغْفِرْ لَكُمْ خَطَٰيَٰكُمْ ۚ وَسَنَزِيدُ ٱلْمُحْسِنِينَ
 
-**2:59** Kasee wrongdoers among raaya'a substituted dangan (sandangan) sambana na ya'a giben na raaya'a, dadi Kai sent gogok na wrongdoers plagu na surugaa, gause na ko'ona i raaya'a ba'idek, ma'idek behabior.
+**2:59** Kasee wrongdoers among raaya'a substituted dangan sambana na ya'a giben na raaya'a, dadi Kai sent gogok na wrongdoers plagu na surugaa, gause na ko'ona i raaya'a ba'idek, ma'idek behabior.
 
 فَبَدَّلَ ٱلَّذِينَ ظَلَمُوا۟ قَوْلًا غَيْرَ ٱلَّذِى قِيلَ لَهُمْ فَأَنزَلْنَا عَلَى ٱلَّذِينَ ظَلَمُوا۟ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ
 
@@ -605,7 +605,7 @@ The Quran in Balantak (blz), from Robert Tilford's Locked English Master. No Bal
 
 وَلَوْ أَنَّهُمْ ءَامَنُوا۟ وَٱتَّقَوْا۟ لَمَثُوبَةٌۭ مِّنْ عِندِ ٱللَّهِ خَيْرٌۭ ۖ لَّوْ كَانُوا۟ يَعْلَمُونَ
 
-**2:104** Pa'at koo ime parasaya! Do taasi' tae ambiguous dangan (sandangan), kasee tae dangan (sandangan) na respekt, ka' listen. disbeliebers boo isian mapolos torment.
+**2:104** Pa'at koo ime parasaya! Do taasi' tae ambiguous dangan, kasee tae dangan na respekt, ka' listen. disbeliebers boo isian mapolos torment.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقُولُوا۟ رَٰعِنَا وَقُولُوا۟ ٱنظُرْنَا وَٱسْمَعُوا۟ ۗ وَلِلْكَٰفِرِينَ عَذَابٌ أَلِيمٌۭ
 
@@ -685,7 +685,7 @@ The Quran in Balantak (blz), from Robert Tilford's Locked English Master. No Bal
 
 وَٱتَّقُوا۟ يَوْمًۭا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍۢ شَيْـًۭٔا وَلَا يُقْبَلُ مِنْهَا عَدْلٌۭ وَلَا تَنفَعُهَا شَفَٰعَةٌۭ وَلَا هُمْ يُنصَرُونَ
 
-**2:124** Ka' sarataa ko'ona Tumpu tested Abraham iik sabole dangan (sandangan), ka' ia fulfilled raaya'a. Ia tae, “Yaku' isian making koo leader na humanity.” Ia tae, “Ka' ko'ongku dessendants?” Ia tae, “Ko'ongku pledg does taasi' inklud wrongdoers.”
+**2:124** Ka' sarataa ko'ona Tumpu tested Abraham iik sabole dangan, ka' ia fulfilled raaya'a. Ia tae, “Yaku' isian making koo leader na humanity.” Ia tae, “Ka' ko'ongku dessendants?” Ia tae, “Ko'ongku pledg does taasi' inklud wrongdoers.”
 
 ۞ وَإِذِ ٱبْتَلَىٰٓ إِبْرَٰهِۦمَ رَبُّهُۥ بِكَلِمَٰتٍۢ فَأَتَمَّهُنَّ ۖ قَالَ إِنِّى جَاعِلُكَ لِلنَّاسِ إِمَامًۭا ۖ قَالَ وَمِن ذُرِّيَّتِى ۖ قَالَ لَا يَنَالُ عَهْدِى ٱلظَّٰلِمِينَ
 
@@ -1241,11 +1241,11 @@ The Quran in Balantak (blz), from Robert Tilford's Locked English Master. No Bal
 
 ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ ثُمَّ لَا يُتْبِعُونَ مَآ أَنفَقُوا۟ مَنًّۭا وَلَآ أَذًۭى ۙ لَّهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
-**2:263** Amat dangan (sandangan) ka' pengampunan isian ede' na sedekah followed by insults. Alaata'ala isian Ris ka' Klement.
+**2:263** Amat dangan ka' pengampunan isian ede' na sedekah followed by insults. Alaata'ala isian Ris ka' Klement.
 
 ۞ قَوْلٌۭ مَّعْرُوفٌۭ وَمَغْفِرَةٌ خَيْرٌۭ مِّن صَدَقَةٍۢ يَتْبَعُهَآ أَذًۭى ۗ وَٱللَّهُ غَنِىٌّ حَلِيمٌۭ
 
-**2:264** Pa'at koo ime parasaya! Do taasi' nullify ko'oom saritabl deeds iik reminders ka' hurtful dangan (sandangan), daangkak ia ime spends ko'ona wealt na isian seen by mian, ka' does taasi' parasaya na Alaata'ala ka' Last Ilio. Ko'ona likeness isian ya'a na lagu' watu kobered iik raang: downpour baas ia, ka' darak ia bar — raaya'a elo noting na ko'ona i raaya'a efforts. Alaata'ala does taasi' guid disbeliebing mian.
+**2:264** Pa'at koo ime parasaya! Do taasi' nullify ko'oom saritabl deeds iik reminders ka' hurtful dangan, daangkak ia ime spends ko'ona wealt na isian seen by mian, ka' does taasi' parasaya na Alaata'ala ka' Last Ilio. Ko'ona likeness isian ya'a na lagu' watu kobered iik raang: downpour baas ia, ka' darak ia bar — raaya'a elo noting na ko'ona i raaya'a efforts. Alaata'ala does taasi' guid disbeliebing mian.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُبْطِلُوا۟ صَدَقَٰتِكُم بِٱلْمَنِّ وَٱلْأَذَىٰ كَٱلَّذِى يُنفِقُ مَالَهُۥ رِئَآءَ ٱلنَّاسِ وَلَا يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۖ فَمَثَلُهُۥ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌۭ فَأَصَابَهُۥ وَابِلٌۭ فَتَرَكَهُۥ صَلْدًۭا ۖ لَّا يَقْدِرُونَ عَلَىٰ شَىْءٍۢ مِّمَّا كَسَبُوا۟ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ
 
@@ -1933,7 +1933,7 @@ The Quran in Balantak (blz), from Robert Tilford's Locked English Master. No Bal
 
 وَكَأَيِّن مِّن نَّبِىٍّۢ قَٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٌۭ فَمَا وَهَنُوا۟ لِمَآ أَصَابَهُمْ فِى سَبِيلِ ٱللَّهِ وَمَا ضَعُفُوا۟ وَمَا ٱسْتَكَانُوا۟ ۗ وَٱللَّهُ يُحِبُّ ٱلصَّٰبِرِينَ
 
-**3:147** Ko'ona i raaya'a ede' dangan (sandangan) wer, “Ko'omai Tumpu, ampun kai ko'omai offenses, ka' ko'omai ekssesses na ko'omai kondukt, ka' strengten ko'omai footold, ka' help kai against disbeliebing mian.”
+**3:147** Ko'ona i raaya'a ede' dangan wer, “Ko'omai Tumpu, ampun kai ko'omai offenses, ka' ko'omai ekssesses na ko'omai kondukt, ka' strengten ko'omai footold, ka' help kai against disbeliebing mian.”
 
 وَمَا كَانَ قَوْلَهُمْ إِلَّآ أَن قَالُوا۟ رَبَّنَا ٱغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِىٓ أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
 
@@ -2177,7 +2177,7 @@ The Quran in Balantak (blz), from Robert Tilford's Locked English Master. No Bal
 
 وَءَاتُوا۟ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحْلَةًۭ ۚ فَإِن طِبْنَ لَكُمْ عَن شَىْءٍۢ مِّنْهُ نَفْسًۭا فَكُلُوهُ هَنِيٓـًۭٔا مَّرِيٓـًۭٔا
 
-**4:5** Do taasi' mongorookon immatur ko'oom doi' whis Alaata'ala isian assigned na koo boo saar. Kasee probid boo raaya'a na ia, ka' klot raaya'a, ka' morobu na raaya'a iik amat dangan (sandangan).
+**4:5** Do taasi' mongorookon immatur ko'oom doi' whis Alaata'ala isian assigned na koo boo saar. Kasee probid boo raaya'a na ia, ka' klot raaya'a, ka' morobu na raaya'a iik amat dangan.
 
 وَلَا تُؤْتُوا۟ ٱلسُّفَهَآءَ أَمْوَٰلَكُمُ ٱلَّتِى جَعَلَ ٱللَّهُ لَكُمْ قِيَٰمًۭا وَٱرْزُقُوهُمْ فِيهَا وَٱكْسُوهُمْ وَقُولُوا۟ لَهُمْ قَوْلًۭا مَّعْرُوفًۭا
 
@@ -2193,7 +2193,7 @@ The Quran in Balantak (blz), from Robert Tilford's Locked English Master. No Bal
 
 وَإِذَا حَضَرَ ٱلْقِسْمَةَ أُو۟لُوا۟ ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينُ فَٱرْزُقُوهُم مِّنْهُ وَقُولُوا۟ لَهُمْ قَوْلًۭا مَّعْرُوفًۭا
 
-**4:9** Ya'a ime isian konserned bangar fat na ko'ona i raaya'a weak anak, na doos raaya'a leab raaya'a tokurung, sould iina Alaata'ala, ka' morobu appropriat dangan (sandangan).
+**4:9** Ya'a ime isian konserned bangar fat na ko'ona i raaya'a weak anak, na doos raaya'a leab raaya'a tokurung, sould iina Alaata'ala, ka' morobu appropriat dangan.
 
 وَلْيَخْشَ ٱلَّذِينَ لَوْ تَرَكُوا۟ مِنْ خَلْفِهِمْ ذُرِّيَّةًۭ ضِعَٰفًا خَافُوا۟ عَلَيْهِمْ فَلْيَتَّقُوا۟ ٱللَّهَ وَلْيَقُولُوا۟ قَوْلًۭا سَدِيدًا
 
@@ -2341,7 +2341,7 @@ The Quran in Balantak (blz), from Robert Tilford's Locked English Master. No Bal
 
 وَٱللَّهُ أَعْلَمُ بِأَعْدَآئِكُمْ ۚ وَكَفَىٰ بِٱللَّهِ وَلِيًّۭا وَكَفَىٰ بِٱللَّهِ نَصِيرًۭا
 
-**4:46** Among Jews isian giran ime mamaa dangan (sandangan) uar na kontekst, ka' tae, “Kai rongor ka' kai disobey”, ka' “Rongor witout listening”, ka' “Obserb kai,” twisting iik ko'ona i raaya'a wurung ka' slandering agama. Isian raaya'a tae, “Kai rongor ka' kai obey”, ka' “Listen”, ka' “Mongorookon kai ko'oom attention,” ia boo isian been ede' boo raaya'a, ka' dodoa matindong. Kasee Alaata'ala isian kursed raaya'a boo ko'ona i raaya'a disbelief; raaya'a do taasi' parasaya ekssept didir.
+**4:46** Among Jews isian giran ime mamaa dangan uar na kontekst, ka' tae, “Kai rongor ka' kai disobey”, ka' “Rongor witout listening”, ka' “Obserb kai,” twisting iik ko'ona i raaya'a wurung ka' slandering agama. Isian raaya'a tae, “Kai rongor ka' kai obey”, ka' “Listen”, ka' “Mongorookon kai ko'oom attention,” ia boo isian been ede' boo raaya'a, ka' dodoa matindong. Kasee Alaata'ala isian kursed raaya'a boo ko'ona i raaya'a disbelief; raaya'a do taasi' parasaya ekssept didir.
 
 مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ مُسْمَعٍۢ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًۭا فِى ٱلدِّينِ ۚ وَلَوْ أَنَّهُمْ قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًۭا لَّهُمْ وَأَقْوَمَ وَلَٰكِن لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًۭا
 
@@ -2409,7 +2409,7 @@ The Quran in Balantak (blz), from Robert Tilford's Locked English Master. No Bal
 
 فَكَيْفَ إِذَآ أَصَٰبَتْهُم مُّصِيبَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ ثُمَّ جَآءُوكَ يَحْلِفُونَ بِٱللَّهِ إِنْ أَرَدْنَآ إِلَّآ إِحْسَٰنًۭا وَتَوْفِيقًا
 
-**4:63** Raaya'a isian ya'a whom Alaata'ala minsida upa isian na ko'ona i raaya'a hearts. Dadi ignor raaya'a, ka' singgo raaya'a, ka' tae na raaya'a konserning temselbes penetrating dangan (sandangan).
+**4:63** Raaya'a isian ya'a whom Alaata'ala minsida upa isian na ko'ona i raaya'a hearts. Dadi ignor raaya'a, ka' singgo raaya'a, ka' tae na raaya'a konserning temselbes penetrating dangan.
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ يَعْلَمُ ٱللَّهُ مَا فِى قُلُوبِهِمْ فَأَعْرِضْ عَنْهُمْ وَعِظْهُمْ وَقُل لَّهُمْ فِىٓ أَنفُسِهِمْ قَوْلًۢا بَلِيغًۭا
 
@@ -2589,7 +2589,7 @@ The Quran in Balantak (blz), from Robert Tilford's Locked English Master. No Bal
 
 وَلَا تُجَٰدِلْ عَنِ ٱلَّذِينَ يَخْتَانُونَ أَنفُسَهُمْ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ خَوَّانًا أَثِيمًۭا
 
-**4:108** Raaya'a naa' na mian, kasee raaya'a kannot naa' na Alaata'ala. Ia isian iik raaya'a, boo raaya'a plot by rondom iik dangan (sandangan) Ia does taasi' approb. Alaata'ala komprehends upa raaya'a do.
+**4:108** Raaya'a naa' na mian, kasee raaya'a kannot naa' na Alaata'ala. Ia isian iik raaya'a, boo raaya'a plot by rondom iik dangan Ia does taasi' approb. Alaata'ala komprehends upa raaya'a do.
 
 يَسْتَخْفُونَ مِنَ ٱلنَّاسِ وَلَا يَسْتَخْفُونَ مِنَ ٱللَّهِ وَهُوَ مَعَهُمْ إِذْ يُبَيِّتُونَ مَا لَا يَرْضَىٰ مِنَ ٱلْقَوْلِ ۚ وَكَانَ ٱللَّهُ بِمَا يَعْمَلُونَ مُحِيطًا
 
@@ -2929,7 +2929,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 ۞ وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ نَقِيبًۭا ۖ وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ ۖ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًۭا لَّأُكَفِّرَنَّ عَنكُمْ سَيِّـَٔاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۚ فَمَن كَفَرَ بَعْدَ ذَٰلِكَ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
 
-**5:13** Gause na ko'ona i raaya'a breaking ko'ona i raaya'a pledg, Kai kursed raaya'a, ka' depa ko'ona i raaya'a hearts hard. Raaya'a twist dangan (sandangan) uar na ko'ona i raaya'a kontekst, ka' raaya'a disregarded giran na upa raaya'a wer reminded na. Koo boo sinampang witness deseit na raaya'a, ekssept boo didir na raaya'a. Kasee pardon raaya'a, ka' oberlook. Alaata'ala lobes doers na amat.
+**5:13** Gause na ko'ona i raaya'a breaking ko'ona i raaya'a pledg, Kai kursed raaya'a, ka' depa ko'ona i raaya'a hearts hard. Raaya'a twist dangan uar na ko'ona i raaya'a kontekst, ka' raaya'a disregarded giran na upa raaya'a wer reminded na. Koo boo sinampang witness deseit na raaya'a, ekssept boo didir na raaya'a. Kasee pardon raaya'a, ka' oberlook. Alaata'ala lobes doers na amat.
 
 فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةًۭ ۖ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ ۙ وَنَسُوا۟ حَظًّۭا مِّمَّا ذُكِّرُوا۟ بِهِۦ ۚ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍۢ مِّنْهُمْ إِلَّا قَلِيلًۭا مِّنْهُمْ ۖ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ
 
@@ -3041,7 +3041,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يُعَذِّبُ مَن يَشَآءُ وَيَغْفِرُ لِمَن يَشَآءُ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**5:41** Pa'at Poposuu'! Do taasi' let ya'a ime isian kuikk na disbelief grieb koo — na among ya'a ime tae iik ko'ona i raaya'a dola', “Kai parasaya,” kasee ko'ona i raaya'a hearts do taasi' parasaya; ka' na among Jews — listeners na lies, listeners na sambana mian ime did taasi' taka na koo. Raaya'a distort dangan (sandangan) na ko'ona i raaya'a ibadat, ka' raaya'a tae, “Akon koo isian giben saapo, aksept ia; kasee akon koo isian taasi' giben ia, bewar.” Whomeber Alaata'ala isian willed na dibert, koo isian noting boo ia na Alaata'ala. Ya'a isian raaya'a whos hearts Alaata'ala does taasi' intend na purify. Boo raaya'a isian disgras na saapo dunia, ka' boo raaya'a isian balaki' punisment na Hereafter.
+**5:41** Pa'at Poposuu'! Do taasi' let ya'a ime isian kuikk na disbelief grieb koo — na among ya'a ime tae iik ko'ona i raaya'a dola', “Kai parasaya,” kasee ko'ona i raaya'a hearts do taasi' parasaya; ka' na among Jews — listeners na lies, listeners na sambana mian ime did taasi' taka na koo. Raaya'a distort dangan na ko'ona i raaya'a ibadat, ka' raaya'a tae, “Akon koo isian giben saapo, aksept ia; kasee akon koo isian taasi' giben ia, bewar.” Whomeber Alaata'ala isian willed na dibert, koo isian noting boo ia na Alaata'ala. Ya'a isian raaya'a whos hearts Alaata'ala does taasi' intend na purify. Boo raaya'a isian disgras na saapo dunia, ka' boo raaya'a isian balaki' punisment na Hereafter.
 
 ۞ يَٰٓأَيُّهَا ٱلرَّسُولُ لَا يَحْزُنكَ ٱلَّذِينَ يُسَٰرِعُونَ فِى ٱلْكُفْرِ مِنَ ٱلَّذِينَ قَالُوٓا۟ ءَامَنَّا بِأَفْوَٰهِهِمْ وَلَمْ تُؤْمِن قُلُوبُهُمْ ۛ وَمِنَ ٱلَّذِينَ هَادُوا۟ ۛ سَمَّٰعُونَ لِلْكَذِبِ سَمَّٰعُونَ لِقَوْمٍ ءَاخَرِينَ لَمْ يَأْتُوكَ ۖ يُحَرِّفُونَ ٱلْكَلِمَ مِنۢ بَعْدِ مَوَاضِعِهِۦ ۖ يَقُولُونَ إِنْ أُوتِيتُمْ هَٰذَا فَخُذُوهُ وَإِن لَّمْ تُؤْتَوْهُ فَٱحْذَرُوا۟ ۚ وَمَن يُرِدِ ٱللَّهُ فِتْنَتَهُۥ فَلَن تَمْلِكَ لَهُۥ مِنَ ٱللَّهِ شَيْـًٔا ۚ أُو۟لَٰٓئِكَ ٱلَّذِينَ لَمْ يُرِدِ ٱللَّهُ أَن يُطَهِّرَ قُلُوبَهُمْ ۚ لَهُمْ فِى ٱلدُّنْيَا خِزْىٌۭ ۖ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌۭ
 
@@ -3505,7 +3505,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 قَدْ نَعْلَمُ إِنَّهُۥ لَيَحْزُنُكَ ٱلَّذِى يَقُولُونَ ۖ فَإِنَّهُمْ لَا يُكَذِّبُونَكَ وَلَٰكِنَّ ٱلظَّٰلِمِينَ بِـَٔايَٰتِ ٱللَّهِ يَجْحَدُونَ
 
-**6:34** Sambana poposuu' befor koo wer rejekted, kasee raaya'a endured rejektion ka' persekution dompa Ko'omai help kam na raaya'a. Ra'a sida isian taasi' sang na Alaata'ala-na dangan (sandangan). Ola-olan na Poposuu' isian daa dompa koo.
+**6:34** Sambana poposuu' befor koo wer rejekted, kasee raaya'a endured rejektion ka' persekution dompa Ko'omai help kam na raaya'a. Ra'a sida isian taasi' sang na Alaata'ala-na dangan. Ola-olan na Poposuu' isian daa dompa koo.
 
 وَلَقَدْ كُذِّبَتْ رُسُلٌۭ مِّن قَبْلِكَ فَصَبَرُوا۟ عَلَىٰ مَا كُذِّبُوا۟ وَأُوذُوا۟ حَتَّىٰٓ أَتَىٰهُمْ نَصْرُنَا ۚ وَلَا مُبَدِّلَ لِكَلِمَٰتِ ٱللَّهِ ۚ وَلَقَدْ جَآءَكَ مِن نَّبَإِى۟ ٱلْمُرْسَلِينَ
 
@@ -3817,7 +3817,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 ۞ وَلَوْ أَنَّنَا نَزَّلْنَآ إِلَيْهِمُ ٱلْمَلَٰٓئِكَةَ وَكَلَّمَهُمُ ٱلْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَىْءٍۢ قُبُلًۭا مَّا كَانُوا۟ لِيُؤْمِنُوٓا۟ إِلَّآ أَن يَشَآءَ ٱللَّهُ وَلَٰكِنَّ أَكْثَرَهُمْ يَجْهَلُونَ
 
-**6:112** Likewis, Kai isian assigned boo ebery nabi enemy — human ka' diim ibiliis — inspiring sa'angu' sambana iik fansy dangan (sandangan) na order na deseib. Kasee isian ko'oom Tumpu willed, raaya'a boo taasi' isian don ia. Dadi leab raaya'a na ko'ona i raaya'a fabrikations.
+**6:112** Likewis, Kai isian assigned boo ebery nabi enemy — human ka' diim ibiliis — inspiring sa'angu' sambana iik fansy dangan na order na deseib. Kasee isian ko'oom Tumpu willed, raaya'a boo taasi' isian don ia. Dadi leab raaya'a na ko'ona i raaya'a fabrikations.
 
 وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّۭا شَيَٰطِينَ ٱلْإِنسِ وَٱلْجِنِّ يُوحِى بَعْضُهُمْ إِلَىٰ بَعْضٍۢ زُخْرُفَ ٱلْقَوْلِ غُرُورًۭا ۚ وَلَوْ شَآءَ رَبُّكَ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ
 
@@ -3829,7 +3829,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 أَفَغَيْرَ ٱللَّهِ أَبْتَغِى حَكَمًۭا وَهُوَ ٱلَّذِىٓ أَنزَلَ إِلَيْكُمُ ٱلْكِتَٰبَ مُفَصَّلًۭا ۚ وَٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ يَعْلَمُونَ أَنَّهُۥ مُنَزَّلٌۭ مِّن رَّبِّكَ بِٱلْحَقِّ ۖ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ
 
-**6:115** Wurung na ko'oom Tumpu isian been kompleted, na tuutuu' ka' justis. Ra'a isian taasi' sanging na Ko'ona dangan (sandangan). Ia isian Hearer, Knower.
+**6:115** Wurung na ko'oom Tumpu isian been kompleted, na tuutuu' ka' justis. Ra'a isian taasi' sanging na Ko'ona dangan. Ia isian Hearer, Knower.
 
 وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًۭا وَعَدْلًۭا ۚ لَّا مُبَدِّلَ لِكَلِمَٰتِهِۦ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
@@ -4617,7 +4617,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 وَلَمَّا جَآءَ مُوسَىٰ لِمِيقَٰتِنَا وَكَلَّمَهُۥ رَبُّهُۥ قَالَ رَبِّ أَرِنِىٓ أَنظُرْ إِلَيْكَ ۚ قَالَ لَن تَرَىٰنِى وَلَٰكِنِ ٱنظُرْ إِلَى ٱلْجَبَلِ فَإِنِ ٱسْتَقَرَّ مَكَانَهُۥ فَسَوْفَ تَرَىٰنِى ۚ فَلَمَّا تَجَلَّىٰ رَبُّهُۥ لِلْجَبَلِ جَعَلَهُۥ دَكًّۭا وَخَرَّ مُوسَىٰ صَعِقًۭا ۚ فَلَمَّآ أَفَاقَ قَالَ سُبْحَٰنَكَ تُبْتُ إِلَيْكَ وَأَنَا۠ أَوَّلُ ٱلْمُؤْمِنِينَ
 
-**7:144** Ia tae, “Pa'at Musa, Yaku' isian sosen koo ilak giigii' mian boo Ko'ongku messages ka' boo Ko'ongku Dangan (sandangan). Dadi mamaa upa Yaku' isian giben koo, ka' isian sa'angu' na tankful.”
+**7:144** Ia tae, “Pa'at Musa, Yaku' isian sosen koo ilak giigii' mian boo Ko'ongku messages ka' boo Ko'ongku Dangan. Dadi mamaa upa Yaku' isian giben koo, ka' isian sa'angu' na tankful.”
 
 قَالَ يَٰمُوسَىٰٓ إِنِّى ٱصْطَفَيْتُكَ عَلَى ٱلنَّاسِ بِرِسَٰلَٰتِى وَبِكَلَٰمِى فَخُذْ مَآ ءَاتَيْتُكَ وَكُن مِّنَ ٱلشَّٰكِرِينَ
 
@@ -4673,7 +4673,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَٰلَ ٱلَّتِى كَانَتْ عَلَيْهِمْ ۚ فَٱلَّذِينَ ءَامَنُوا۟ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُوا۟ ٱلنُّورَ ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ ۙ أُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
 
-**7:158** Tae, “Pa'at mian, Yaku' isian Poposuu' na Alaata'ala na koo giigii' — Ia na whom belongs tomundo' na surugaa ka' tano'. Ra'a isian taasi' alaata'ala kasee Ia. Ia mongorookon tutuo' ka' paale pate.” Dadi parasaya na Alaata'ala ka' Ko'ona Poposuu', Unlettered Nabi, ime parasaya na Alaata'ala ka' Ko'ona dangan (sandangan). Ka' follow ia, ya'a koo may isian guided.
+**7:158** Tae, “Pa'at mian, Yaku' isian Poposuu' na Alaata'ala na koo giigii' — Ia na whom belongs tomundo' na surugaa ka' tano'. Ra'a isian taasi' alaata'ala kasee Ia. Ia mongorookon tutuo' ka' paale pate.” Dadi parasaya na Alaata'ala ka' Ko'ona Poposuu', Unlettered Nabi, ime parasaya na Alaata'ala ka' Ko'ona dangan. Ka' follow ia, ya'a koo may isian guided.
 
 قُلْ يَٰٓأَيُّهَا ٱلنَّاسُ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ جَمِيعًا ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ لَآ إِلَٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرَسُولِهِ ٱلنَّبِىِّ ٱلْأُمِّىِّ ٱلَّذِى يُؤْمِنُ بِٱللَّهِ وَكَلِمَٰتِهِۦ وَٱتَّبِعُوهُ لَعَلَّكُمْ تَهْتَدُونَ
 
@@ -4689,7 +4689,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 وَإِذْ قِيلَ لَهُمُ ٱسْكُنُوا۟ هَٰذِهِ ٱلْقَرْيَةَ وَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ وَقُولُوا۟ حِطَّةٌۭ وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًۭا نَّغْفِرْ لَكُمْ خَطِيٓـَٰٔتِكُمْ ۚ سَنَزِيدُ ٱلْمُحْسِنِينَ
 
-**7:162** Kasee ba'idek, ma'idek among raaya'a substituted sambana dangan (sandangan) boo dangan (sandangan) giben na raaya'a; dadi Kai sent gogok upon raaya'a plagu na sky, gause na ko'ona i raaya'a wrongdoing.
+**7:162** Kasee ba'idek, ma'idek among raaya'a substituted sambana dangan boo dangan giben na raaya'a; dadi Kai sent gogok upon raaya'a plagu na sky, gause na ko'ona i raaya'a wrongdoing.
 
 فَبَدَّلَ ٱلَّذِينَ ظَلَمُوا۟ مِنْهُمْ قَوْلًا غَيْرَ ٱلَّذِى قِيلَ لَهُمْ فَأَرْسَلْنَا عَلَيْهِمْ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَظْلِمُونَ
 
@@ -4907,7 +4907,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 يُجَٰدِلُونَكَ فِى ٱلْحَقِّ بَعْدَمَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ إِلَى ٱلْمَوْتِ وَهُمْ يَنظُرُونَ
 
-**8:7** Alaata'ala isian promised koo sa'angu' na rua' groups — ya'a ia boo isian ko'oom — kasee koo wanted unarmed group na isian ko'oom. Alaata'ala intends na prob tuutuu' iik Ko'ona dangan (sandangan), ka' na uproot disbeliebers.
+**8:7** Alaata'ala isian promised koo sa'angu' na rua' groups — ya'a ia boo isian ko'oom — kasee koo wanted unarmed group na isian ko'oom. Alaata'ala intends na prob tuutuu' iik Ko'ona dangan, ka' na uproot disbeliebers.
 
 وَإِذْ يَعِدُكُمُ ٱللَّهُ إِحْدَى ٱلطَّآئِفَتَيْنِ أَنَّهَا لَكُمْ وَتَوَدُّونَ أَنَّ غَيْرَ ذَاتِ ٱلشَّوْكَةِ تَكُونُ لَكُمْ وَيُرِيدُ ٱللَّهُ أَن يُحِقَّ ٱلْحَقَّ بِكَلِمَٰتِهِۦ وَيَقْطَعَ دَابِرَ ٱلْكَٰفِرِينَ
 
@@ -5971,7 +5971,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 ٱلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ
 
-**10:64** Boo raaya'a isian amat ola-olan na saapo tutuo', ka' na Hereafter. Ra'a isian taasi' alteration na dangan (sandangan) na Alaata'ala. Ya'a isian suprem triumf.
+**10:64** Boo raaya'a isian amat ola-olan na saapo tutuo', ka' na Hereafter. Ra'a isian taasi' alteration na dangan na Alaata'ala. Ya'a isian suprem triumf.
 
 لَهُمُ ٱلْبُشْرَىٰ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَفِى ٱلْءَاخِرَةِ ۚ لَا تَبْدِيلَ لِكَلِمَٰتِ ٱللَّهِ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
@@ -6043,7 +6043,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 فَلَمَّآ أَلْقَوْا۟ قَالَ مُوسَىٰ مَا جِئْتُم بِهِ ٱلسِّحْرُ ۖ إِنَّ ٱللَّهَ سَيُبْطِلُهُۥٓ ۖ إِنَّ ٱللَّهَ لَا يُصْلِحُ عَمَلَ ٱلْمُفْسِدِينَ
 
-**10:82** “Ka' Alaata'ala ufolds tuutuu' iik Ko'ona dangan (sandangan), uga' toug sinners detest ia.”
+**10:82** “Ka' Alaata'ala ufolds tuutuu' iik Ko'ona dangan, uga' toug sinners detest ia.”
 
 وَيُحِقُّ ٱللَّهُ ٱلْحَقَّ بِكَلِمَٰتِهِۦ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ
 
@@ -7257,7 +7257,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍۢ مِّن قَبْلِكَ فَأَمْلَيْتُ لِلَّذِينَ كَفَرُوا۟ ثُمَّ أَخَذْتُهُمْ ۖ فَكَيْفَ كَانَ عِقَابِ
 
-**13:33** Isian Ia ime isian daga ilak deeds na ebery alus? Dauga' raaya'a askrib assosiates na Alaata'ala. Tae, “Ngaan raaya'a! Kabai isian koo informing Ia na rabut na tano' Ia does taasi' minsida, kabai isian ia sow na dangan (sandangan)?” Na fakt, sseming na ya'a ime disbelieb isian depa na appear amat na raaya'a, ka' raaya'a isian aberted na salan. Whomeber Alaata'ala misguides isian taasi' guid.
+**13:33** Isian Ia ime isian daga ilak deeds na ebery alus? Dauga' raaya'a askrib assosiates na Alaata'ala. Tae, “Ngaan raaya'a! Kabai isian koo informing Ia na rabut na tano' Ia does taasi' minsida, kabai isian ia sow na dangan?” Na fakt, sseming na ya'a ime disbelieb isian depa na appear amat na raaya'a, ka' raaya'a isian aberted na salan. Whomeber Alaata'ala misguides isian taasi' guid.
 
 أَفَمَنْ هُوَ قَآئِمٌ عَلَىٰ كُلِّ نَفْسٍۭ بِمَا كَسَبَتْ ۗ وَجَعَلُوا۟ لِلَّهِ شُرَكَآءَ قُلْ سَمُّوهُمْ ۚ أَمْ تُنَبِّـُٔونَهُۥ بِمَا لَا يَعْلَمُ فِى ٱلْأَرْضِ أَم بِظَٰهِرٍۢ مِّنَ ٱلْقَوْلِ ۗ بَلْ زُيِّنَ لِلَّذِينَ كَفَرُوا۟ مَكْرُهُمْ وَصُدُّوا۟ عَنِ ٱلسَّبِيلِ ۗ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍۢ
 
@@ -8555,7 +8555,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 لَّا تَجْعَلْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَتَقْعُدَ مَذْمُومًۭا مَّخْذُولًۭا
 
-**17:23** Ko'oom Tumpu isian kommanded ya'a koo ibadat non kasee Ia, ka' ya'a koo isian amat na ko'oom parents. Akon eiter na raaya'a kabai bot na raaya'a tadul motu'a umur iik koo, do taasi' tae na raaya'a wurung na disrespekt, nor skold raaya'a, kasee tae na raaya'a amat dangan (sandangan).
+**17:23** Ko'oom Tumpu isian kommanded ya'a koo ibadat non kasee Ia, ka' ya'a koo isian amat na ko'oom parents. Akon eiter na raaya'a kabai bot na raaya'a tadul motu'a umur iik koo, do taasi' tae na raaya'a wurung na disrespekt, nor skold raaya'a, kasee tae na raaya'a amat dangan.
 
 ۞ وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا ۚ إِمَّا يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّۢ وَلَا تَنْهَرْهُمَا وَقُل لَّهُمَا قَوْلًۭا كَرِيمًۭا
 
@@ -8575,7 +8575,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 إِنَّ ٱلْمُبَذِّرِينَ كَانُوٓا۟ إِخْوَٰنَ ٱلشَّيَٰطِينِ ۖ وَكَانَ ٱلشَّيْطَٰنُ لِرَبِّهِۦ كَفُورًۭا
 
-**17:28** Kasee akon koo turn oloa na raaya'a, seeking lino-linoan na ko'oom Tumpu whis koo hop boo, ede' tae na raaya'a dangan (sandangan) na komfort.
+**17:28** Kasee akon koo turn oloa na raaya'a, seeking lino-linoan na ko'oom Tumpu whis koo hop boo, ede' tae na raaya'a dangan na komfort.
 
 وَإِمَّا تُعْرِضَنَّ عَنْهُمُ ٱبْتِغَآءَ رَحْمَةٍۢ مِّن رَّبِّكَ تَرْجُوهَا فَقُل لَّهُمْ قَوْلًۭا مَّيْسُورًۭا
 
@@ -9029,7 +9029,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 قُلِ ٱللَّهُ أَعْلَمُ بِمَا لَبِثُوا۟ ۖ لَهُۥ غَيْبُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ أَبْصِرْ بِهِۦ وَأَسْمِعْ ۚ مَا لَهُم مِّن دُونِهِۦ مِن وَلِىٍّۢ وَلَا يُشْرِكُ فِى حُكْمِهِۦٓ أَحَدًۭا
 
-**18:27** Ka' basa upa was rebealed na koo na Kitap na ko'oom Tumpu. Ra'a isian taasi' sanging Ko'ona dangan (sandangan), ka' koo boo find taasi' refug ekssept na Ia.
+**18:27** Ka' basa upa was rebealed na koo na Kitap na ko'oom Tumpu. Ra'a isian taasi' sanging Ko'ona dangan, ka' koo boo find taasi' refug ekssept na Ia.
 
 وَٱتْلُ مَآ أُوحِىَ إِلَيْكَ مِن كِتَابِ رَبِّكَ ۖ لَا مُبَدِّلَ لِكَلِمَٰتِهِۦ وَلَن تَجِدَ مِن دُونِهِۦ مُلْتَحَدًۭا
 
@@ -9357,7 +9357,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 خَٰلِدِينَ فِيهَا لَا يَبْغُونَ عَنْهَا حِوَلًۭا
 
-**18:109** Tae, “Akon osean wer ink boo dangan (sandangan) na ko'ongku Tumpu, osean boo run uar, befor dangan (sandangan) na ko'ongku Tumpu run uar,” uga' akon Kai wer na wawa daangkak na ia na addition na ia.
+**18:109** Tae, “Akon osean wer ink boo dangan na ko'ongku Tumpu, osean boo run uar, befor dangan na ko'ongku Tumpu run uar,” uga' akon Kai wer na wawa daangkak na ia na addition na ia.
 
 قُل لَّوْ كَانَ ٱلْبَحْرُ مِدَادًۭا لِّكَلِمَٰتِ رَبِّى لَنَفِدَ ٱلْبَحْرُ قَبْلَ أَن تَنفَدَ كَلِمَٰتُ رَبِّى وَلَوْ جِئْنَا بِمِثْلِهِۦ مَدَدًۭا
 
@@ -10215,7 +10215,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 يَوْمَئِذٍۢ يَتَّبِعُونَ ٱلدَّاعِىَ لَا عِوَجَ لَهُۥ ۖ وَخَشَعَتِ ٱلْأَصْوَاتُ لِلرَّحْمَٰنِ فَلَا تَسْمَعُ إِلَّا هَمْسًۭا
 
-**20:109** Na ya'a Ilio, intersession boo taasi' abail, ekssept boo ia permitted by Lino-linoan, ka' whos dangan (sandangan) Ia isian approbed.
+**20:109** Na ya'a Ilio, intersession boo taasi' abail, ekssept boo ia permitted by Lino-linoan, ka' whos dangan Ia isian approbed.
 
 يَوْمَئِذٍۢ لَّا تَنفَعُ ٱلشَّفَٰعَةُ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَٰنُ وَرَضِىَ لَهُۥ قَوْلًۭا
 
@@ -13189,7 +13189,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 حَتَّىٰٓ إِذَآ أَتَوْا۟ عَلَىٰ وَادِ ٱلنَّمْلِ قَالَتْ نَمْلَةٌۭ يَٰٓأَيُّهَا ٱلنَّمْلُ ٱدْخُلُوا۟ مَسَٰكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَٰنُ وَجُنُودُهُۥ وَهُمْ لَا يَشْعُرُونَ
 
-**27:19** Ia smiled ka' lauged na ko'ona dangan (sandangan), ka' tae, “Ko'ongku Tumpu, maraas yaku' na isian tankful boo blessings koo isian bestowed upon yaku' ka' upon ko'ongku parents, ka' na do amat works ya'a pleas Koo. Ka' admit yaku', by Ko'oom gras, ilak kompany na Ko'oom birtuous serbants.”
+**27:19** Ia smiled ka' lauged na ko'ona dangan, ka' tae, “Ko'ongku Tumpu, maraas yaku' na isian tankful boo blessings koo isian bestowed upon yaku' ka' upon ko'ongku parents, ka' na do amat works ya'a pleas Koo. Ka' admit yaku', by Ko'oom gras, ilak kompany na Ko'oom birtuous serbants.”
 
 فَتَبَسَّمَ ضَاحِكًۭا مِّن قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًۭا تَرْضَىٰهُ وَأَدْخِلْنِى بِرَحْمَتِكَ فِى عِبَادِكَ ٱلصَّٰلِحِينَ
 
@@ -13635,7 +13635,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 قَالَ رَبِّ إِنِّى قَتَلْتُ مِنْهُمْ نَفْسًۭا فَأَخَافُ أَن يَقْتُلُونِ
 
-**28:34** Ka' ko'ongku broter Harun, ia isian dodoa elokuent na yaku', dadi send ia iik yaku', na help yaku', ka' na konfirm ko'ongku dangan (sandangan), boo Yaku' iina raaya'a boo rejekt yaku'.”
+**28:34** Ka' ko'ongku broter Harun, ia isian dodoa elokuent na yaku', dadi send ia iik yaku', na help yaku', ka' na konfirm ko'ongku dangan, boo Yaku' iina raaya'a boo rejekt yaku'.”
 
 وَأَخِى هَٰرُونُ هُوَ أَفْصَحُ مِنِّى لِسَانًۭا فَأَرْسِلْهُ مَعِىَ رِدْءًۭا يُصَدِّقُنِىٓ ۖ إِنِّىٓ أَخَافُ أَن يُكَذِّبُونِ
 
@@ -14511,7 +14511,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ إِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ
 
-**31:27** Akon giigii' nampe' na tano' wer mengeko', filled by osean, iik pitu' dodoa oseans sambana, Dangan (sandangan) na Alaata'ala boo taasi' run uar. Alaata'ala isian Majestik ka' Wis.
+**31:27** Akon giigii' nampe' na tano' wer mengeko', filled by osean, iik pitu' dodoa oseans sambana, Dangan na Alaata'ala boo taasi' run uar. Alaata'ala isian Majestik ka' Wis.
 
 وَلَوْ أَنَّمَا فِى ٱلْأَرْضِ مِن شَجَرَةٍ أَقْلَٰمٌۭ وَٱلْبَحْرُ يَمُدُّهُۥ مِنۢ بَعْدِهِۦ سَبْعَةُ أَبْحُرٍۢ مَّا نَفِدَتْ كَلِمَٰتُ ٱللَّهِ ۗ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌۭ
 
@@ -14701,7 +14701,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًۭا
 
-**33:4** Alaata'ala did taasi' ibadat rua' hearts insid any moro'one's waka. Nor did Ia mangawawau ko'oom wibes whom koo ekuat iik ko'oom sina, ko'oom aktual sina. Nor did Ia mangawawau ko'oom adopted anak, ko'oom aktual anak. Raang isian ko'oom dangan (sandangan) koming uar na ko'oom dola'. Alaata'ala morobu tuutuu', ka' guides na salan.
+**33:4** Alaata'ala did taasi' ibadat rua' hearts insid any moro'one's waka. Nor did Ia mangawawau ko'oom wibes whom koo ekuat iik ko'oom sina, ko'oom aktual sina. Nor did Ia mangawawau ko'oom adopted anak, ko'oom aktual anak. Raang isian ko'oom dangan koming uar na ko'oom dola'. Alaata'ala morobu tuutuu', ka' guides na salan.
 
 مَّا جَعَلَ ٱللَّهُ لِرَجُلٍۢ مِّن قَلْبَيْنِ فِى جَوْفِهِۦ ۚ وَمَا جَعَلَ أَزْوَٰجَكُمُ ٱلَّٰٓـِٔى تُظَٰهِرُونَ مِنْهُنَّ أُمَّهَٰتِكُمْ ۚ وَمَا جَعَلَ أَدْعِيَآءَكُمْ أَبْنَآءَكُمْ ۚ ذَٰلِكُمْ قَوْلُكُم بِأَفْوَٰهِكُمْ ۖ وَٱللَّهُ يَقُولُ ٱلْحَقَّ وَهُوَ يَهْدِى ٱلسَّبِيلَ
 
@@ -15713,7 +15713,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 لَا يَسْتَطِيعُونَ نَصْرَهُمْ وَهُمْ لَهُمْ جُندٌۭ مُّحْضَرُونَ
 
-**36:76** Dadi let ko'ona i raaya'a dangan (sandangan) taasi' sadden koo. Kai minsida upa raaya'a konseal, ka' upa raaya'a rebeal.
+**36:76** Dadi let ko'ona i raaya'a dangan taasi' sadden koo. Kai minsida upa raaya'a konseal, ka' upa raaya'a rebeal.
 
 فَلَا يَحْزُنكَ قَوْلُهُمْ ۘ إِنَّا نَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ
 
@@ -16585,7 +16585,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 إِذْ دَخَلُوا۟ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنْهُمْ ۖ قَالُوا۟ لَا تَخَفْ ۖ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍۢ فَٱحْكُم بَيْنَنَا بِٱلْحَقِّ وَلَا تُشْطِطْ وَٱهْدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ
 
-**38:23** “Saapo broter na ko'ongku isian ninety sio' ewes, ka' Yaku' isian sa'angu' ewe, ka' ia tae, ‘Entrust ia na yaku',' ka' ia pressured yaku' iik dangan (sandangan).”
+**38:23** “Saapo broter na ko'ongku isian ninety sio' ewes, ka' Yaku' isian sa'angu' ewe, ka' ia tae, ‘Entrust ia na yaku',' ka' ia pressured yaku' iik dangan.”
 
 إِنَّ هَٰذَآ أَخِى لَهُۥ تِسْعٌۭ وَتِسْعُونَ نَعْجَةًۭ وَلِىَ نَعْجَةٌۭ وَٰحِدَةٌۭ فَقَالَ أَكْفِلْنِيهَا وَعَزَّنِى فِى ٱلْخِطَابِ
 
@@ -17849,7 +17849,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 ذَٰلِكَ ٱلَّذِى يُبَشِّرُ ٱللَّهُ عِبَادَهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ ۗ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِلَّا ٱلْمَوَدَّةَ فِى ٱلْقُرْبَىٰ ۗ وَمَن يَقْتَرِفْ حَسَنَةًۭ نَّزِدْ لَهُۥ فِيهَا حُسْنًا ۚ إِنَّ ٱللَّهَ غَفُورٌۭ شَكُورٌ
 
-**42:24** Kabai do raaya'a tae, “Ia forged lie bangar Alaata'ala.” Akon Alaata'ala dadi willed, Ia io isian sealed ko'oom heart. Kasee Alaata'ala obliterates fals, ka' konfirm tuutuu' by Ko'ona Dangan (sandangan). Ia minsida upa isian na hearts.
+**42:24** Kabai do raaya'a tae, “Ia forged lie bangar Alaata'ala.” Akon Alaata'ala dadi willed, Ia io isian sealed ko'oom heart. Kasee Alaata'ala obliterates fals, ka' konfirm tuutuu' by Ko'ona Dangan. Ia minsida upa isian na hearts.
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا ۖ فَإِن يَشَإِ ٱللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ ۗ وَيَمْحُ ٱللَّهُ ٱلْبَٰطِلَ وَيُحِقُّ ٱلْحَقَّ بِكَلِمَٰتِهِۦٓ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
@@ -19173,7 +19173,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 هُمُ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱلْهَدْىَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُۥ ۚ وَلَوْلَا رِجَالٌۭ مُّؤْمِنُونَ وَنِسَآءٌۭ مُّؤْمِنَٰتٌۭ لَّمْ تَعْلَمُوهُمْ أَن تَطَـُٔوهُمْ فَتُصِيبَكُم مِّنْهُم مَّعَرَّةٌۢ بِغَيْرِ عِلْمٍۢ ۖ لِّيُدْخِلَ ٱللَّهُ فِى رَحْمَتِهِۦ مَن يَشَآءُ ۚ لَوْ تَزَيَّلُوا۟ لَعَذَّبْنَا ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابًا أَلِيمًا
 
-**48:26** Ya'a ime disbeliebed filled ko'ona i raaya'a hearts iik rag — rag na ilio na ignorans. Kasee Alaata'ala sent Ko'ona serenity gogok upon Ko'ona Poposuu', ka' upon beliebers, ka' imposed na raaya'a dangan (sandangan) na rigteousness — na whis raaya'a wer most worty ka' deserbing. Alaata'ala isian awar na eberyting.
+**48:26** Ya'a ime disbeliebed filled ko'ona i raaya'a hearts iik rag — rag na ilio na ignorans. Kasee Alaata'ala sent Ko'ona serenity gogok upon Ko'ona Poposuu', ka' upon beliebers, ka' imposed na raaya'a dangan na rigteousness — na whis raaya'a wer most worty ka' deserbing. Alaata'ala isian awar na eberyting.
 
 إِذْ جَعَلَ ٱلَّذِينَ كَفَرُوا۟ فِى قُلُوبِهِمُ ٱلْحَمِيَّةَ حَمِيَّةَ ٱلْجَٰهِلِيَّةِ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ ٱلتَّقْوَىٰ وَكَانُوٓا۟ أَحَقَّ بِهَا وَأَهْلَهَا ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًۭا
 
@@ -21273,7 +21273,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 **ٱلْمُجَادِلَة** · Al-Mujadila · na Madinah · 22 ayat
 
-*wiwine ime pleaded: Alaata'ala isian heard dangan (sandangan) na ko'ona ime gagai iik koo.*
+*wiwine ime pleaded: Alaata'ala isian heard dangan na ko'ona ime gagai iik koo.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -21499,7 +21499,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 لَن تَنفَعَكُمْ أَرْحَامُكُمْ وَلَآ أَوْلَٰدُكُمْ ۚ يَوْمَ ٱلْقِيَٰمَةِ يَفْصِلُ بَيْنَكُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌۭ
 
-**60:4** Koo isian isian ekssellent eksampl na Abraham ka' ya'a iik ia; sarataa raaya'a tae na ko'ona i raaya'a mian, “Kai isian kuit na koo, ka' upa koo ibadat apart na Alaata'ala. Kai denouns koo. Enmity ka' hatred isian surfased between kai ka' koo, foreber, dompa koo parasaya na Alaata'ala bulu-bulu'.” Ekssept boo dangan (sandangan) na Abraham na ko'ona tama, “Yaku' boo pikirawar pengampunan boo koo, toug Yaku' isian taasi' power na Alaata'ala na do anyting boo koo.” “Ko'omai Tumpu, na Koo kai trust, ka' na Koo kai repent, ka' na Koo isian ultimat resort.
+**60:4** Koo isian isian ekssellent eksampl na Abraham ka' ya'a iik ia; sarataa raaya'a tae na ko'ona i raaya'a mian, “Kai isian kuit na koo, ka' upa koo ibadat apart na Alaata'ala. Kai denouns koo. Enmity ka' hatred isian surfased between kai ka' koo, foreber, dompa koo parasaya na Alaata'ala bulu-bulu'.” Ekssept boo dangan na Abraham na ko'ona tama, “Yaku' boo pikirawar pengampunan boo koo, toug Yaku' isian taasi' power na Alaata'ala na do anyting boo koo.” “Ko'omai Tumpu, na Koo kai trust, ka' na Koo kai repent, ka' na Koo isian ultimat resort.
 
 قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌۭ فِىٓ إِبْرَٰهِيمَ وَٱلَّذِينَ مَعَهُۥٓ إِذْ قَالُوا۟ لِقَوْمِهِمْ إِنَّا بُرَءَٰٓؤُا۟ مِنكُمْ وَمِمَّا تَعْبُدُونَ مِن دُونِ ٱللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ ٱلْعَدَٰوَةُ وَٱلْبَغْضَآءُ أَبَدًا حَتَّىٰ تُؤْمِنُوا۟ بِٱللَّهِ وَحْدَهُۥٓ إِلَّا قَوْلَ إِبْرَٰهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَآ أَمْلِكُ لَكَ مِنَ ٱللَّهِ مِن شَىْءٍۢ ۖ رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ ٱلْمَصِيرُ
 
@@ -21919,7 +21919,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
 
-**66:12** Ka' Maria, anak na Imran, ime guarded ko'ona womb, ka' dadi Kai breated ilak ko'ona na Ko'omai Alus; ka' ia parasaya na tuutuu' na ko'ona Tumpu-na Dangan (sandangan) ka' Ko'ona Kitap, ka' was sa'angu' na debout.
+**66:12** Ka' Maria, anak na Imran, ime guarded ko'ona womb, ka' dadi Kai breated ilak ko'ona na Ko'omai Alus; ka' ia parasaya na tuutuu' na ko'ona Tumpu-na Dangan ka' Ko'ona Kitap, ka' was sa'angu' na debout.
 
 وَمَرْيَمَ ٱبْنَتَ عِمْرَٰنَ ٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتْ بِكَلِمَٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتْ مِنَ ٱلْقَٰنِتِينَ
 
@@ -21983,7 +21983,7 @@ Akon koo isian na dene na impurity, purify yourselbes. Akon koo isian ill, kabai
 
 إِنَّ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ لَهُم مَّغْفِرَةٌۭ وَأَجْرٌۭ كَبِيرٌۭ
 
-**67:13** Wheter koo tuo' ko'oom dangan (sandangan) sekret, kabai deklar raaya'a — Ia isian Awar na inner tougts.
+**67:13** Wheter koo tuo' ko'oom dangan sekret, kabai deklar raaya'a — Ia isian Awar na inner tougts.
 
 وَأَسِرُّوا۟ قَوْلَكُمْ أَوِ ٱجْهَرُوا۟ بِهِۦٓ ۖ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
