@@ -18917,7 +18917,7 @@ nahi ji are in stat of impurity, purify yourselfes. Nahi ji are ill, mo trafelli
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Hom olir lawe hishiowe, fre u rigteousness, fre hishiowe in pele was sent down to muhammad — fre si nir mainyome from teir Wasilaka — or remits teir sins, fre reliefes teir konserns.
+**47:2** Hom olir lawe hishiowe, fre u rigteousness, fre hishiowe in pele was sent down to Muhammad — fre si nir mainyome from teir Wasilaka — or remits teir sins, fre reliefes teir konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
