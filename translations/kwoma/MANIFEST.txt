@@ -48,8 +48,8 @@ work/flags-kmo.txt — 13 named uncertain-seat items plus residue counts, carrie
   5,725 bytes
   SHA-256 c533d3516588d479886d6f5b9e29b4c3ab0650a96bc74c970ee709bd9b5b6f6f
 ayah-companion-manuscript-KMO.md
-  2,330,624 bytes
-  SHA-256 1d7721ac6c8c7aace4d8611c90b6b8e4bd3c467a613da6b2b273dafc9769c743
+  2,330,158 bytes
+  SHA-256 25096ba4114e9cae5604e9092da57d2c6c38e74431ab585b736eda2b9acdf540
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
