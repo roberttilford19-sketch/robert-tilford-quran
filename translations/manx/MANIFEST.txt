@@ -15,4 +15,4 @@ workspace lane folder ~/workspace/ayah-manx/, unrepaired.
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Files:
-  2258446  e2750b8304d00a28d799dc40534505357128c3e4f7d28c0c5098f5012aa7b6a5  ayah-companion-manuscript-MN.md
+  2258403  6b2bcdba84a035169dc5fc868765cbe0e28eeaa6c8452d7d73209baa1e3a5572  ayah-companion-manuscript-MN.md
