@@ -18900,7 +18900,7 @@ tongana mo yeke na stat ti impurity, sara nzoni tonga ala oko. Tongana mo yeke i
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Na ngoi ti aso ni zo so ye na be, na kusala lege ti nzoni, na ye na be na ye nye yeke tua na gbe ti muhammad — na lo yeke tonga ti ti ala Gbia — lo remits ti ala asiokua, na reliebes ti ala konserns.
+**47:2** Na ngoi ti aso ni zo so ye na be, na kusala lege ti nzoni, na ye na be na ye nye yeke tua na gbe ti Muhammad — na lo yeke tonga ti ti ala Gbia — lo remits ti ala asiokua, na reliebes ti ala konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
