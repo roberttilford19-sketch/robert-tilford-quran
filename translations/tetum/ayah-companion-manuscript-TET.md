@@ -18914,7 +18914,7 @@ kalo o iha stat nia impurity, purify imi aan. Kalo o ill, ka travelling, ka ida 
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Oras ne'ebaa see fiar, no knauar rigteousness, no fiar iha saa sent okos baa muhammad — no nia loos nosi sia nia Na'i — nia remits sia nia sala, no relieves sia nia konserns.
+**47:2** Oras ne'ebaa see fiar, no knauar rigteousness, no fiar iha saa sent okos baa Muhammad — no nia loos nosi sia nia Na'i — nia remits sia nia sala, no relieves sia nia konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
