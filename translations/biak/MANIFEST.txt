@@ -59,8 +59,8 @@ work/flags-bhw.txt — 13 named items plus residue counts, carried to the indepe
   5,119 bytes
   SHA-256 1a5db5d9d48cf7fe02452b3234569e625876cf707318fba80fa2f755d8af4b1d
 ayah-companion-manuscript-BHW.md
-  2,170,636 bytes
-  SHA-256 2767abaa77b60113026b1d3dbdaaf085483db3e6cb5f074f32ec57b008305f66
+  2,170,615 bytes
+  SHA-256 296e09662a3a8ab3a43e94aeaeef629421fbe4a04cde6a67bcb9aec668fe480c
 ayah-companion-aligned-BHW.json (the aligned array: 6,236 objects,
 chapter/verse/en/target/ar, per the house FILE-SCHEMA)
   3,288,446 bytes
