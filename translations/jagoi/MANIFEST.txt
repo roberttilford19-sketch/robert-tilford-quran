@@ -1,0 +1,89 @@
+AYAH COMPANION — JAGOI RENDERING
+MANIFEST — lane record, 2026-11-17
+
+ITEM
+Ayah Companion, Jagoi (sne) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the Malaysia wickets wave (bases in hand) (the scout's Class 3 row
+Class 3 §6a #15), under Robert's Advance Rule of 2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Jagoi review is required
+before any gifting or publication; review is invited. The status
+line stands inside the manuscript itself, on its face, with AI
+assistance labelled.
+SHELVING: lands on the GitHub shelf under Robert's Pipeline
+Landing Authorization (2026-11-14 ~15:00), the full pipeline loop
+having completed (build, count, canonical verify, independent
+checker, Purple sweep reconciled); the landing is recorded in
+LANDING-RECORD-2026-11-17.md in this lane folder at the desk.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography — reviewer item.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: no
+Jagoi Quran translation found after research (Malaysia
+scout, 2026-11-14).
+
+FILES
+GLOSSARY-SNE.md
+  2,451 bytes
+  SHA-256 f32744e04de0b0e44c61cf1b5371eec930a74c6e9fd926138d13f5ec42244742
+STYLEGUIDE-SNE.md (the lane's binding drafting law, settled before drafting)
+  7,506 bytes
+  SHA-256 3db912b9efbd9945f2e0d7eace7a531bfe6ebabc220bf157d0d4d022972a3d7c
+BUILD-REPORT-SNE.md
+  5,497 bytes
+  SHA-256 2a031c061c74bc4f09d43967e1545cdedba3c801770af801ab0c77ddd63d7faf
+PURPLE-REPORT-SNE-2026-11-17.md (Purple sweep, report mode, reconciled 14 of 14, 0 unresolved)
+  14,537 bytes
+  SHA-256 4044f234f08733b99518966f4a8127a29122fa3715d0bd915969dc2ec0b466af
+CHECKER-SNE-SEPARATE-AGENT.md (independent checker, preserved unedited)
+  25,657 bytes
+  SHA-256 14db8b9417bda7c4cc8d63d53ef4cd58d17b84999847ec5097d16532437aef76
+work/verification-sne.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-sne.txt — 18 named uncertain-seat items plus residue counts, carried to the reviewer.
+  9,882 bytes
+  SHA-256 d90249ecd6f7d88923840fceecbf577f0422487907214a2132dfa5ac884ce268
+ayah-companion-manuscript-SNE.md
+  2,398,032 bytes
+  SHA-256 272e671def980f0838660090b370275d3278ad44e3a01ac40fc725eb248d6d1c
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-17: PASS true. Headers 114, head order true, verses
+6,236, counts match meta true, continuity true, Arabic runs
+6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse lines
+6,236, slice ref mismatches 0, slice paragraph mismatches 0,
+percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_sne.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Topaꞌ 2,732 (= God 2,732); topaꞌ 79 (= god 79); topaꞌ-topaꞌ 35 (= gods 35); Piayuh 980 (= Lord 969 + 11 Master tokens at the keyed seats);
+zakat at exactly the 13 keyed slots; sedekah at exactly the 36
+keyed tokens (2:272 ×3; 58:13 ×2).
+Independent checker (separate agent): PASS WITH FLAGS — MATERIAL 0, MINOR 7.
+The independent checker (a separate agent, own code, CHECKER-SNE-SEPARATE-AGENT.md) reproduced every counted gate exactly: master MD5 machine-equal; 6,236 markers and 114 headers in order; the per-verse census exact with 0 mismatching refs (Topaꞌ 2,732 / topaꞌ 79 / topaꞌ-topaꞌ 35 / Piayuh 980, each Master token verified; zakat 13; sedekah 36); basmalah 114 with surah 9 frameless; the Arabic sequence identical at all 6,462 positions; % at 0; markers 15; the ꞌ identified as U+A78C LATIN SMALL LETTER SALTILLO, a visible letter uniform at 57,218 occurrences, with 0 invisible format characters; the honest face complete. Its corpus audits: Topaꞌ counted 2,041 in Buk Kitab (Allah 0, Tuhan 0); both quoted keying seats stand verbatim (Luke 11:2; John 1:1), as does Elisa at Luke 4:27 (“joman nabi Elisa”) and Elia at Mark 9:4; the alignment sample attested 20 of 20 entries across frequency bands, with 7 of 8 sense-checks holding and 1 contradicted (wages → bitomi, enmity — flagged as MINOR 16 for the reviewer's re-keying); the Rensch consultation classified as confirmation-only, troubling nothing, with its mirror route unnamed in the papers (MINOR 18). Verdict: PASS WITH FLAGS — MATERIAL 0, MINOR 7.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+
+NOTES CARRIED TO THE REVIEWER
+The Elisa/Elia pair (item 1) is the reviewer's first name ruling — here the corpus's own printed pair, needing confirmation rather than construction; the God-word Topaꞌ (item 2) is reviewer ruling #1; the checker's wages → bitomi item (16) names a sense error for the reviewer's re-keying.
