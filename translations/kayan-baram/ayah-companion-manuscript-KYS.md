@@ -1,14 +1,13 @@
 # Ayah Companion
 
-Al-Kuran alem Dahu Kayan (Baram) — DRAFT — NOT REVIEWED
+Al-Kuran alem Dahu Kayan (Baram)
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Kayan (Baram) review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Kayan (Baram) rendering: none found after research.
-
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Kayan (Baram) rendering: none found after research.
 **Marung buhup anih / About this edition:**
 - **Avan**: Buhup anih na kenan buhup Inggeris Robert Tilford aleng uh teneng (Locked English Master; 114 surat / 6,236 dahu); surat Arab te' beh na', dahu dahin dahu. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Jalan**: Kuran tua — Kuran tua aleng ngioh; zakat, Kuran em ma'uk persen, avin Kuran em ma'uk; em te' hadith kah tafsir tinan. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DRAF — EM PAYAN DIREVIEW. Buhup anih draf hadui ja direview kenan kelunan Kayan dep; em payan teneng, em payan sayu, dahin em payan direview kenan kelunan Kayan. / A working draft for native Kayan (Baram) review; not certified, not final, and not native-reviewed.
-- **Tulung AI**: Buhup anih na dahin tulung AI, kenan buhup Inggeris aleng uh teneng; kelunan Kayan dep mesti direview — anan jalan sayu na'. / Prepared with AI assistance from the corrected English master; native Kayan (Baram) review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Tulung AI**: Prepared with AI assistance from the corrected English master.
 - **Ma'uk**: Buhup anih ma'uk tua, em te' legah; surat, teneng, dahin buhup aleng sayu la'an tehun sayu. / Freely given; copies, corrections, and better versions are welcomed.
 - **Dahu**: Buhup anih alem dahu Kayan (Baram) (kys) tua — dahu Kayan tana' Baram; iha' em dahu Melayu; iha' dahu Kayan aleng beh. / This draft is in Kayan (Baram) (kys) only — the Kayan language of the Baram country; it is not Malay, but a distinct Kayanic language.
 

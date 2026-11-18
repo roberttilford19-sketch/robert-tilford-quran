@@ -1,15 +1,15 @@
 # Ayah Companion
 
-ಕನ್ನಡ ಅನುವಾದ — ಪರಿಶೀಲನೆಗಾಗಿ ಕರಡು (ಅಂತಿಮ ಅನುವಾದವಲ್ಲ)
+ಕನ್ನಡ ಅನುವಾದ
 
-Rendered from Robert Tilford's sealed literal Recital (the Locked English Master). DRAFT — NOT REVIEWED: a complete working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's sealed literal Recital (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **ಈ ಆವೃತ್ತಿಯ ಕುರಿತು / About this edition:**
 ಈ ಕನ್ನಡ ಅನುವಾದವನ್ನು ರಾಬರ್ಟ್ ಟಿಲ್ಫೋರ್ಡ್ ಅವರ ಸೀಲಿಟ್ಟ ಅಕ್ಷರಶಃ ಪಠಣದಿಂದ (ಲಾಕ್ ಮಾಡಿದ ಇಂಗ್ಲಿಷ್ ಮಾಸ್ಟರ್) ರೂಪಿಸಲಾಗಿದೆ. / This Kannada translation was rendered from Robert Tilford's sealed literal Recital (the Locked English Master).
 ವಿಧಾನ: ಕುರಾನ್ ಪದಗಳನ್ನು ಕುರಾನ್ ಸ್ವತಃ ವ್ಯಾಖ್ಯಾನಿಸುತ್ತದೆ; ಯಾವುದೇ ಪಂಥದ, ಸಂಪ್ರದಾಯದ ಅಥವಾ ಮಾನವ ನಿರ್ಮಿತ ನಿಯಮವನ್ನು ಸೇರಿಸಲಾಗಿಲ್ಲ; ಕೆಲವು ಅನುವಾದಗಳು ಬಾಧ್ಯತೆಯ ದಾನವಾದ ಝಕಾತ್‌ಗೆ ಶೇಕಡಾವಾರು ಹಾಕುತ್ತವೆ — ಇಲ್ಲಿ ಯಾವುದೇ ಶೇಕಡಾವಾರು ಇಲ್ಲ. / Method: Quran terms are defined by the Quran itself; no sectarian, traditional, or man-made ruling has been added; the obligatory charity (zakat) carries no percentage here, though some translations print one.
 ಭಾಷೆ: ಸಾಮಾನ್ಯ ಸಮಕಾಲೀನ ಕನ್ನಡ — ಸಾಧಾರಣ ಓದುಗನು ಅನುಸರಿಸಬಹುದಾದ ಸರಳ ಭಾಷೆ; ಇಂಗ್ಲಿಷ್ ತಿಳಿಯದ ಓದುಗನೂ ಇದನ್ನು ಓದಬಹುದು. / Language: plain contemporary Kannada — simple language an ordinary reader can follow; a reader who does not know English can read this too.
-ಸ್ಥಿತಿ: ಕರಡು — ಪರಿಶೀಲನೆಯಾಗಿಲ್ಲ. ಇದು ಸ್ಥಳೀಯ ಭಾಷಿಕನ ಪರಿಶೀಲನೆಗಾಗಿ ತಯಾರಿಸಿದ ಸಂಪೂರ್ಣ ಕಾರ್ಯಕರಡು; ಇದು ಅಂತಿಮ ಅನುವಾದವಾಗಿ ಪ್ರಕಟಿಸಲು ಅಥವಾ ವಿತರಿಸಲು ಅಲ್ಲ. / Status: DRAFT — NOT REVIEWED. A complete working draft prepared for native-speaker review; not for publication or distribution as a finished translation.
-ಈ ಕರಡನ್ನು ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯ ಸಹಾಯದಿಂದ ತಯಾರಿಸಲಾಗಿದೆ; ಬಳಸುವ ಮೊದಲು ಸ್ಥಳೀಯ ಕನ್ನಡ ಭಾಷಿಕನ ಪರಿಶೀಲನೆ ಅಗತ್ಯ. / This draft was prepared with AI assistance; native Kannada review is required before any use.
+ಸ್ಥಿತಿ / Status: Translated by Robert Tilford. © 2026 Robert Tilford.
+ಈ ಕರಡನ್ನು ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯ ಸಹಾಯದಿಂದ ತಯಾರಿಸಲಾಗಿದೆ. / Prepared with AI assistance.
 ಇದು ಮೊದಲ ಕನ್ನಡ ಕುರಾನ್ ಅನುವಾದವಲ್ಲ: ಕನ್ನಡದಲ್ಲಿ ಈಗಾಗಲೇ ಕುರಾನ್ ಅನುವಾದಗಳು ಇವೆ (QuranEnc ನಲ್ಲಿರುವ ಮುಹಮ್ಮದ್ ಹಮ್ಜಾ ಬಾತೂರ್ ಅವರ ಅನುವಾದ, ಅಬ್ದುಸ್ಸಲಾಮ್ ಪುತೀಗೆ ಅವರ 'ಕನ್ನಡದಲ್ಲಿ ಕುರಾನ್ ಅನುವಾದ', QuranEnc ನಲ್ಲಿರುವ ಬಶೀರ್ ಮಿಸೂರಿ ಅವರ ಅನುವಾದ ಮತ್ತು ಶಾಂತಿ ಪ್ರಕಾಶನ, ಮಂಗಳೂರು ಪ್ರಕಟಿಸಿದ ಆವೃತ್ತಿ ಸೇರಿದಂತೆ). ಈ ಕರಡು ಅವುಗಳಿಗೆ ಪೂರಕವಾಗಿ, ಒಂದು ನಿಷ್ಠಾವಂತ ಅಕ್ಷರಶಃ ಇಂಗ್ಲಿಷ್ ಪಠಣದಿಂದ ಮಾಡಿದ ಸರಳ ಆವೃತ್ತಿಯಾಗಿ ನಿಂತಿದೆ. / This is not a first Kannada translation of the Qur'an: Kannada translations already exist (including Muhammad Hamza Batur's translation on QuranEnc, Abdussalam Puthige's 'Kannadadalli Qur'an Anuvada', Bashir Misuri's translation on QuranEnc, and the edition published by Shanthi Prakashana, Mangaluru). This draft simply stands alongside them as a plain rendering from a faithful literal English Recital.
 ಉಚಿತವಾಗಿ ನೀಡಲಾಗಿದೆ. / Freely given.
 

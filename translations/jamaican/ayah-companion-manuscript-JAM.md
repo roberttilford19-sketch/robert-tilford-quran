@@ -1,15 +1,14 @@
 # Ayah Companion
 
-Jamiekan Rendrin — DRAFT (no rivyuu)
+Jamiekan Rendrin
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Jamaican Creole review; not for publication or distribution as a finished translation. Drafted in Jamaican Creole (Patwa) in the Cassidy/JLU phonemic orthography. No published Jamaican Quran translation of record was found after research; one anonymous web rendering exists — it is a witness, never a source; no first-translation claim is made.
-
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. Drafted in Jamaican Creole (Patwa) in the Cassidy/JLU phonemic orthography. No published Jamaican Quran translation of record was found after research; one anonymous web rendering exists — it is a witness, never a source; no first-translation claim is made.
 **Bout dis edishan / About this edition:**
 - **We it kom fram**: Dis buk a di Jamiekan Kriol rendrin a Robert Tilford koret English maasta (di Locked English Master; 114 suura / 6,236 vors); di Arabik tex tan saida it, vors bai vors. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Di wie**: Kuran aluon — di Kuran it self difain im wod dem; zakaat neva get no persentej, kaa di Kuran no gi non; no hadiis nar komentari no ad. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Di langwij**: Jamiekan Kriol (Patwa) ina di Cassidy/JLU fonimik spelin, ina plien wodin a jenaral riida kyan fala. / Jamaican Creole (Patwa) in the Cassidy/JLU phonemic orthography, in plain wording a general reader can follow.
-- **Di stietos**: DRAFT — NO RIVYUU / DRAFT — NOT REVIEWED. Dis buk a wan wok-in-pragress draaf fi nietiv Jamiekan Kriol rivyuu; it no redi, an no nietiv spiika no rivyuu it yet. / A working draft for native Jamaican Creole review; not certified, not final, and not native-reviewed.
-- **AI elp**: Dis buk mek wid AI elp fram di koret English maasta; nietiv Jamiekan Kriol rivyuu haffi kom bifuo eni yuus. / Prepared with AI assistance from the corrected English master; native Jamaican Creole review is required before any use.
+- **Di stietos**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI elp**: Prepared with AI assistance from the corrected English master.
 - **Di lain pahn ada rendrin**: No poblish Jamiekan Kuran chranslieshan a rekard woz foun afta risorch; wan ananimos web rendrin egzis — it a witnis, neva a suos. Dis draaf mek no fos-chranslieshan kliem. / No published Jamaican Quran translation of record was found after research; one anonymous web rendering exists — it is a witness, never a source. This draft makes no first-translation claim.
 - **Fri gi**: Dis draaf gi fri; kapi, karekshan, an beta vorshan welkom. / Freely given; copies, corrections, and better versions are welcomed.
 

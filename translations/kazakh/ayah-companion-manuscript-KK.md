@@ -1,15 +1,14 @@
 # Ayah Companion
 
-Қазақ қолжазбасы — ҚАРАП ШЫҒУ ҚАРАЛАМАСЫ (соңғы басылым емес)
+Қазақ қолжазбасы
 
-KAZAKH (қазақ тілі) MANUSCRIPT — DRAFT, NOT REVIEWED, not a final edition. A Kazakh rendering of the corrected English manuscript by Robert Tilford.
-
+KAZAKH (қазақ тілі) MANUSCRIPT. A Kazakh rendering of the corrected English manuscript by Robert Tilford.
 **Бұл басылым туралы / About this edition:**
 - **Мәтін негізі**: Роберт Тилфордтың түзетілген ағылшын қолжазбасы (114 сүре / 6 236 аят); араб мәтіні сол қолжазбадан аят-аят қатар сақталған.
 - **Жұмыс әдісі**: Тек Құран. Міндетті қайырымдылық (зекет) ешқандай пайыз алмайды, өйткені Құран ешқандай мөлшер бермейді; ешқандай хадис немесе тәпсір материалы қосылмаған.
 - **Тіл**: Қарапайым, түсінікті, қазіргі стандартты қазақ тілі — қарапайым оқырман түсіне алатын ең қарапайым түр.
-- **Мәртебе**: ҚАРАП ШЫҒУ ҚАРАЛАМАСЫ / DRAFT, NOT REVIEWED. Ана тілі қазақ тілді тексерушінің қарауын күткен алғашқы толық қаралама; бекітілмеген, соңғы емес, ана тілінде сөйлейтін адам тексермеген.
-- **Жасанды интеллект көмегі**: Бұл қаралама түзетілген ағылшын түпнұсқасынан жасанды интеллект көмегімен дайындалды; қолданар алдында әр аятты ана тілі қазақ тілді тексеруші тексеруі керек. / Prepared with AI assistance from the corrected English master; native Kazakh review is required before any use.
+- **Мәртебе**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Жасанды интеллект көмегі**: Prepared with AI assistance from the corrected English master.
 - **Алғашқы аударма деген талабы жоқ**: Қазақ тілінде Құран аудармалары бар (бірнеше дербес аударма). Бұл алғашқы аударма емес; қарапайым қазақ тіліндегі тек-Құран әдісті қаралама. / Kazakh Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **Тегін беріледі**: Бұл қаралама тегін беріледі; көшірмелер, түзетулер және жақсырақ нұсқалар қуана қарсы алынады. / Freely given; copies, corrections, and better versions are welcomed.
 

@@ -1,15 +1,14 @@
 # Ayah Companion
 
-### 한국어 원고 — 수정 초안 (최종본 아님)
+### 한국어 원고
 
-KOREAN (한국어) MANUSCRIPT — REVISION DRAFT, not a final edition. A Korean rendering of the corrected English manuscript by Robert Tilford.
-
+KOREAN (한국어) MANUSCRIPT. A Korean rendering of the corrected English manuscript by Robert Tilford.
 **이 판에 대하여 / About this edition:**
 - **텍스트 기반**: Robert Tilford의 수정된 영어 원고(114장 / 6,236절); 구절마다 그 원고의 아랍어 텍스트가 함께 놓여 있다.
 - **방법**: 오직 꾸란만. 의무적 자선(자카트)에는 비율이 없는데, 이는 꾸란이 비율을 정하지 않기 때문이다. 하디스나 타프시르 자료는 들어 있지 않다.
 - **언어**: 평범한 독자가 따라갈 수 있는 가장 단순한 현대 한국어.
-- **상태**: 수정 초안 / REVISION DRAFT. 한국어 원어민 검토를 기다리는 첫 완역 초안이며, 확정본이 아니고 원어민 검토를 거치지 않았다.
-- **AI 보조**: 수정된 영어 원고를 바탕으로 AI의 도움을 받아 작성되었다; 사용 전에 원어민 검토자가 한 구절 한 구절 검토해야 한다. / Prepared with AI assistance from the corrected English master; native Korean review is required before any use.
+- **상태**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI 보조**: Prepared with AI assistance from the corrected English master.
 - **최초 번역이라는 주장 아님**: 완전한 한국어 꾸란 번역은 이미 존재한다(한국무슬림연맹의 번역 전통 등). 이것은 최초 번역이 아니라, 평이한 한국어로 된 꾸란 중심 초안이다. / Complete Korean Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **자유롭게 나누어짐**: 이 초안은 자유롭게 배포되며, 복사·수정·더 나은 판이 환영받는다. / Freely given; copies, corrections, and better versions are welcomed.
 

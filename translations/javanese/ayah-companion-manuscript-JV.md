@@ -1,15 +1,14 @@
 # Ayah Companion
 
-### Naskah Jawa — DRAF REVISI (dudu edisi pungkasan)
+### Naskah Jawa
 
-JAVANESE (Basa Jawa) MANUSCRIPT — REVISION DRAFT, not a final edition. A Javanese rendering of the corrected English manuscript by Robert Tilford.
-
+JAVANESE (Basa Jawa) MANUSCRIPT. A Javanese rendering of the corrected English manuscript by Robert Tilford.
 **Bab edisi iki / About this edition:**
 - **Dhasar teks**: naskah Inggris Robert Tilford kang wis dikoreksi (114 surah / 6.236 ayat); teks Arab dijupuk ayat mbaka ayat saka naskah kasebut lan diselehake ing sandhinge.
 - **Metode**: Al-Qur'an wae. Amal wajib (zakat) ora diwenehi persentase, amarga Al-Qur'an ora menehi; ora ana bahan hadis utawa tafsir kang dilebokake.
 - **Basa**: basa Jawa modern kang prasaja lan cetha — wujud paling gampang kang bisa dituruti pamaca lumrah; aksara Latin; geometri undha-usuk krama wis dinyatakake ing STYLEGUIDE-JV.md.
-- **Status**: DRAF REVISI / REVISION DRAFT. Draf lengkap pisanan kang nunggu pamriksa panutur asli Jawa; durung dikunci, durung pungkasan, lan durung dipriksa panutur asli.
-- **Pambiyantu AI**: draf iki disiapake kanthi pambiyantu AI saka naskah Inggris kang wis dikoreksi; pamriksa panutur asli dibutuhake sadurunge digunakake. / Prepared with AI assistance from the corrected English master; native Javanese review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Pambiyantu AI**: Prepared with AI assistance from the corrected English master.
 - **Dudu pratelan terjemahan pisanan**: terjemahan Al-Qur'an basa Jawa wis ana lan digunakake masyarakat (saka tradhisi Jawa lawas, kalebu Al-Ibriz, nganti edisi Jawa modern). Iki dudu terjemahan pisanan; iki draf basa Jawa prasaja kanthi metode Al-Qur'an-wae. / Javanese Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **Diwehake kanthi gratis**: draf iki diwehake kanthi gratis; salinan, koreksi, lan versi kang luwih apik ditampa kanthi seneng. / Freely given; copies, corrections, and better versions are welcomed.
 

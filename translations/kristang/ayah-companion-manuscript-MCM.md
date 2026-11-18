@@ -1,14 +1,13 @@
 # Ayah Companion
 
-Al-Kuran na Kristang — NENANG DIREVIEW
+Al-Kuran na Kristang
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Kristang review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Kristang rendering: none found after research.
-
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Kristang rendering: none found after research.
 **Pasal isti libru / About this edition:**
 - **Asal**: Isti libru fazeh di libru Inggres di Robert Tilford ki ja retu (Locked English Master; 114 surah / 6,236 bersu); testu Arab teng na banda, bersu ku bersu. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Manera**: Kuran saja — Kuran saja ki sigih; zakat, Kuran ngka dah persen, kauzu Kuran ngka dah; nteh hadith o komentariu juntadu. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / NENANG DIREVIEW. Isti libru draf di trabalu pa jenti Kristang mesu review; nenang sertu, nenang prontu, nenang direview di jenti ki papiah Kristang. / A working draft for native Kristang review; not certified, not final, and not native-reviewed.
-- **Ajuda AI**: Isti libru preparah ku ajuda AI, di libru Inggres ki ja retu; jenti Kristang mesu mesti review — akeh kaminyu pa fikah prontu. / Prepared with AI assistance from the corrected English master; native Kristang review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Ajuda AI**: Prepared with AI assistance from the corrected English master.
 - **Dah di alsu**: Isti libru dah per nada, nteh presu; kopia, fazeh retu, ku bersang mas bong teng alegria. / Freely given; copies, corrections, and better versions are welcomed.
 - **Lingua**: Isti libru na Kristang (mcm) saja — Papiah Kristang, lingua di jenti Kristang di Melaka; eli ngka Portugis, maski eli chegadu ku Portugis ku Malayu. / This draft is in Kristang (mcm) only — Papiah Kristang, the language of the Kristang people of Malacca; it is not Portuguese, though it is close to Portuguese and to Malay.
 

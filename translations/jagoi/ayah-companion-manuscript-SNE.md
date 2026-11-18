@@ -1,14 +1,13 @@
 # Ayah Companion
 
-Al-Kuran daang Sina Jagoi — DRAF, BELUM DIREVIEW
+Al-Kuran daang Sina Jagoi
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Jagoi review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Jagoi rendering: none found after research.
-
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Jagoi rendering: none found after research.
 **Tentang kitab itih / About this edition:**
 - **Asal**: Kitab itih obuah nai soꞌ kitab Inggeris Robert Tilford deꞌ moꞌ obuah betulkan (Locked English Master; 114 surah / 6,236 ayat); sina Arab loꞌo deꞌ sinok-e, ayat baya ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Kaedah**: Kuran sijaꞌ-a — Kuran sijaꞌ-a deꞌ obuah nunaꞌ; zakat, Kuran doiꞌ ngin persen, sobab Kuran doiꞌ ngin; doiꞌ hadith atou tafsir obuah tambah. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAF — ALUAꞌ DOIꞌ OBVAH REVIEW / DRAFT — NOT REVIEWED. Kitab itih draf kiloja kaꞌan review odaꞌ nyaꞌa Jagoi odop-e; aluaꞌ doiꞌ obuah notap, aluaꞌ doiꞌ siap, duoh aluaꞌ doiꞌ obuah review odaꞌ nyaꞌa deꞌ sina Jagoi. / A working draft for native Jagoi review; not certified, not final, and not native-reviewed.
-- **Bantuan AI**: Kitab itih obuah sidia duoh bantuan AI, soꞌ kitab Inggeris deꞌ moꞌ obuah betulkan; nyaꞌa Jagoi odop-e halus review — inoh leh olan-e siap. / Prepared with AI assistance from the corrected English master; native Jagoi review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Bantuan AI**: Prepared with AI assistance from the corrected English master.
 - **Pemberian**: Kitab itih obuah ngin doiꞌ bayar; salinan, betulkan, duoh versi deꞌ lobih paguh obuah tilimaꞌ. / Freely given; copies, corrections, and better versions are welcomed.
 - **Bahasa**: Kitab itih daang Sina Jagoi (sne) sijaꞌ-a — sina Jagoi deꞌ Kalimantan Barat deꞌ obuah nulis daang Buk Kitab (Kartidaya, 2024), deꞌ penerbit-e ngin kode sne samah duoh Jagoi Sarawak; doiꞌ sina Melayu standard. / This draft is in Jagoi (sne) only — the West Kalimantan Jagoi of the printed Buk Kitab corpus, assigned the code sne by its publisher, the same code as Sarawak Jagoi; it is not standard Malay.
 

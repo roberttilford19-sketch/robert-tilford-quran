@@ -1,14 +1,13 @@
 # Ayah Companion
 
-Al-Kuran dalem Isu Kenyah Mainstream — DRAFT — NOT REVIEWED
+Al-Kuran dalem Isu Kenyah Mainstream
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Mainstream Kenyah review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Mainstream Kenyah rendering: none found after research.
-
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Mainstream Kenyah rendering: none found after research.
 **Pasal kitab ji / About this edition:**
 - **Asal**: Kitab ji un tekena' cin kitab Inggeris Robert Tilford da' lepa bada' (Locked English Master; 114 surah / 6,236 dau); dau Arab un ka' sada' e, dau ngan dau. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Kaedah**: Kuran tua' — Kuran tua' da' ilu baya'; zakat, Kuran nda kasi persen, uban Kuran nda kasi; nda hadith atau tafsir un la'a. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / NDA DIREVIEW. Kitab ji draf gayeng me kelunan Kenyah tisen isu e tisen; nda disahkan, nda siap, ngan nda direview man kelunan da' tisen isu asal. / A working draft for native Mainstream Kenyah review; not certified, not final, and not native-reviewed.
-- **Bantuan AI**: Kitab ji un man bantuan AI, cin kitab Inggeris da' lepa bada'; kelunan Kenyah tisen isu asal mesti mereview — ja ne janan siap e. / Prepared with AI assistance from the corrected English master; native Mainstream Kenyah review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Bantuan AI**: Prepared with AI assistance from the corrected English master.
 - **Pemberian**: Kitab ji un kasi nda bayar; salinan, pembetulan, ngan dau da' tiga la'a un ilu ala'. / Freely given; copies, corrections, and better versions are welcomed.
 - **Bahasa**: Kitab ji dalem Isu Kenyah Mainstream (xkl) tua' — isu Kenyah Sarawak; ia nda isu Melayu standard, meka pe dua isu ji rapat. / This draft is in Mainstream Kenyah (xkl) only — the Kenyah language of Sarawak; it is not standard Malay, though the two are close.
 

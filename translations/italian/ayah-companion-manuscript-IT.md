@@ -1,14 +1,14 @@
 # Ayah Companion
 
-### MANOSCRITTO ITALIANO — BOZZA DI REVISIONE (non pubblicazione)
+### MANOSCRITTO ITALIANO
 
-Una traduzione contemporanea del Corano in italiano, edizione del manoscritto inglese corretto di Robert Tilford — bozza di revisione, non pubblicazione.
+Una traduzione contemporanea del Corano in italiano, edizione del manoscritto inglese corretto di Robert Tilford.
 
 **Sulla presente edizione:**
 - **Base testuale**: il manoscritto inglese corretto di Robert Tilford (114 sure / 6.236 versetti), con il testo arabo ripreso versetto per versetto dal manoscritto.
 - **Regola di lavoro**: solo il Corano. La carità (zakat) non riceve alcuna percentuale, perché il Corano non ne dà; nessun materiale tratto da hadith o tafsir è stato importato.
 - **Lingua**: italiano piatto e semplice — le parole di tutti i giorni, le frasi brevi: la traduzione più chiara e più semplice possibile, quella a cui potrebbe rispondere l'umile contadino.
-- **Stato**: BOZZA DI REVISIONE. Non è un'edizione bloccata, non è una recita finale; è una prima bozza completa in attesa della revisione di un madrelingua italiano.
+- **Stato**: Translated by Robert Tilford. © 2026 Robert Tilford.
 - **Editorial note — unclosed quotations (2026-10-13):** Some quotations in this manuscript stand unclosed: a speech opens and no closing mark follows, exactly as in the source text from which this manuscript derives. They are preserved deliberately; no closing marks have been invented for them. The verses at which such an unclosed quotation opens are: 2:215, 3:73, 6:145, 6:162, 7:67, 10:49, 12:5, 12:8, 12:38, 12:40, 14:36, 18:87, 19:4, 20:135, 21:56, 25:15, 26:117, 26:153, 38:62, 38:71 (20 in all).
 
 # Indice

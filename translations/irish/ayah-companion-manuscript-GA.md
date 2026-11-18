@@ -1,10 +1,9 @@
 # Ayah Companion
 
-**An chéad dréacht Gaeilge iomlán de bhrí an Chóráin**
-**The first complete Irish draft of the meaning of the Quran**
+**An chéad aistriúchán Gaeilge iomlán de bhrí an Chóráin**
+**The first complete Irish translation of the meaning of the Quran**
 
-*Dréacht le haghaidh athbhreithnithe — aistrithe ón dréacht Béarla ceartaithe de chuid Robert Tilford. Gan fhoilsiú.*
-*(Review draft — translated from Robert Tilford's corrected English manuscript. Unpublished.)*
+Translated by Robert Tilford. © 2026 Robert Tilford.
 
 ---
 

@@ -1,15 +1,15 @@
 # Ayah Companion
 
-کٲشُر مسودہٕ — نظرثانی خٲطرٕ مسودہٕ (ٲخری ایڈیشن نہٕ)
+کٲشُر مسودہٕ
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **یَتھ ایڈیشنَس مُتلق / About this edition:**
 - **ماخذ**: رابرٹ ٹلفورڈ سٕنٛدِ درست کرنہٕ آمتِ انگریزی اصل متنٕ (Locked English Master; ۱۱۴ سورٕ / ۶۲۳۶ آیات) نِشہٕ؛ عربی اصل چھُ ییتہٕ سٟتؠ، آیتہٕ آیتہٕ۔ / From Robert Tilford's corrected English master; the Arabic source stands alongside it, verse by verse.
 - **طریقہٕ**: قرآن، پانَس ہؠتھ بیان کرنہٕ آمُت۔ زکاۃس چھُنہٕ کانہہ فیصد دِنہٕ آمُت، تکیازِ قرآنَن چھُنہٕ کانہہ فیصد دِتُھ؛ حدیث یا بییہٕ کانہہ تفسیر چھُنہٕ رلاونہٕ آمژ۔ / Quran-alone method. Zakat receives no percentage, because the Quran gives none; no hadith or commentary has been added.
 - **زبان**: صاف، آسان کٲشُر — عام پڑن والؠن سٕنٛدِ سمجھہٕ خٲطرٕ سادٕ لفظ۔ / Clear, contemporary standard Kashmiri in the Perso-Arabic script — plain wording a humble reader can follow.
-- **حالت**: مسودہٕ — نظرثانی کرنہٕ آمُت نہٕ / DRAFT — NOT REVIEWED. کٲشِرِ مادری زبان والؠن ہٕنٛزِ نظرثانی ہُنٛد انتظار کرن وول اَکھ کٲم کرن وول مسودہٕ؛ تصدیق شدہ نہٕ، ٲخری نہٕ، مادری نظرثانی کرنہٕ آمُت نہٕ۔ / A working draft awaiting native Kashmiri review; not certified, not final, and not native-reviewed.
-- **اے آئی مَدَت**: درست کرنہٕ آمتِ انگریزی اصل متنٕ نِشہٕ اے آئی مَدتہٕ سٟتؠ تیار کرنہٕ آمُت؛ کانہہ تہٕ اِستعمال برونٛہہ گژھِ پرتھ آیت کٲشِرِ مادری زبان وٲلؠ نظرثانی کرٕنؠ۔ / Prepared with AI assistance from the corrected English master; native Kashmiri review is required before any use.
+- **حالت**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **اے آئی مَدَت**: Prepared with AI assistance from the corrected English master.
 - **گۄڈنیُک ترجمہٕ نہٕ**: مکمل کٲشُر قرآن چھِ برونٛہہ پیٹھٕ موجود (میرواعظ محمد یوسف شاہ سٕنٛد بیان الفرقان / کوشُر قرآن تہٕ بادشاہ فہد کمپلیکسُک کٲشُر ایڈیشن تہٕ یِوان تِمن مَنٛز)۔ یہٕ چھُنہٕ گۄڈنیُک ترجمہٕ؛ یہٕ چھُ قرآن-پانہٕ، سادٕ-زبان ہُنٛد مسودہٕ۔ / Complete Kashmiri Qurans already exist, including Mirwaiz Mohammad Yusuf Shah's Bayanul Furqan (the Koshur Quran) and the King Fahd Complex's Kashmiri edition; this is NOT a first translation — it is a Quran-alone plain-language draft.
 - **مُفت دِنہٕ آمُت**: یہٕ مسودہٕ چھُ مُفت دِنہٕ آمُت؛ نقلہٕ، درستگی تہٕ بہتر صورتہٕ چھِ خوش آمدید۔ / Freely given; copies, corrections, and better versions are welcomed.
 

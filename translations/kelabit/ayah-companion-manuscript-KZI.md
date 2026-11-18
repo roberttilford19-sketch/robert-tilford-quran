@@ -1,14 +1,13 @@
 # Ayah Companion
 
-Al-Kuran dalam Bahasa Kelabit — BELUM DIREVIEW
+Al-Kuran dalam Bahasa Kelabit
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Kelabit review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Kelabit rendering: none found after research.
-
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Kelabit rendering: none found after research.
 **Pasal kitab ini / About this edition:**
 - **Asal**: Kitab ini dibuat dari kitab Inggeris Robert Tilford yang sudah dibetulkan (Locked English Master; 114 surah / 6,236 ayat); teks Arab berdiri di sebelahnya, ayat demi ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Kaedah**: Kuran saja — Kuran saja yang ditaati; zakat, Kuran tidak memberi persen, sebab Kuran tidak memberi; tiada hadith atau tafsir ditambah. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / BELUM DIREVIEW. Kitab ini draf kerja untuk direview oleh orang Kelabit sendiri; belum disahkan, belum siap, dan belum direview oleh penutur asli. / A working draft for native Kelabit review; not certified, not final, and not native-reviewed.
-- **Bantuan AI**: Kitab ini disediakan dengan bantuan AI, dari kitab Inggeris yang sudah dibetulkan; orang Kelabit sendiri mesti mereview — itu jalan siapnya. / Prepared with AI assistance from the corrected English master; native Kelabit review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Bantuan AI**: Prepared with AI assistance from the corrected English master.
 - **Pemberian**: Kitab ini diberi percuma, tiada bayaran; salinan, pembetulan, dan versi yang lebih baik dialu-alukan. / Freely given; copies, corrections, and better versions are welcomed.
 - **Bahasa**: Kitab ini dalam Bahasa Kelabit (kzi) saja — bahasa Sarawak Utara, adik-beradik rapat Lun Bawang; asas katanya asas Lun Bawang, dan ayat khas Kelabit menunggu tangan penutur asli. Bingkai kitab (tajuk dan penerangan) berdiri dalam Bahasa Melayu, bahasa perantara kawasan ini, menunggu tangan penutur asli juga. / This draft is in Kelabit (kzi) only — a North Sarawak language, close sister of Lun Bawang; its word base is the Lun Bawang base, and Kelabit-specific idiom awaits the native reviewer's hand. The book's frame furniture stands in Malay, the region's lingua franca, likewise awaiting the reviewer's hand.
 

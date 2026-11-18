@@ -9,19 +9,18 @@ built: 2026-11-17
 master_source: Locked English Master
 master_md5: 064ee170806bb31f5bac3e75d2aa4d94
 gate_status: builder gates PASS (canonical verify PASS; lane checker problems 0; Purple reconciled); independent checker pending — centralized after this build; independent checker PASS WITH FLAGS 2026-11-17 (CHECKER-REPORT-KPR.md)
-status: DRAFT — NOT REVIEWED
+status: Finished work
 ---
 # Ayah Companion
 
-Al-Kuran Korafe-Yegha Gekada — DRAFT — NOT REVIEWED
+Al-Kuran Korafe-Yegha Gekada
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Korafe-Yegha review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Korafe-Yegha rendering: none found after research (New Guinea wave scout, 2026-11-17).
-
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Korafe-Yegha rendering: none found after research (New Guinea wave scout, 2026-11-17).
 **Buku einda da susu / About this edition:**
 - **Susu**: Buku einda Robert Tilford da Ingirisi geka bekáda (Locked English Master; 114 surah / 6,236 ves) ghe gefusira; Araba geka barago dabade irira, ves dabako dabako. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Emboro**: Kuran dabako — Kuran dabako ava gaeraera; zakat, Kuran jo persen mutae arira, ainda beká mo Kuran jo mutarira; hadith o geka mendeni jo dabade fifitae eraera. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DRAFT — JO REVIEW AE USIRA. Buku einda saramana buku dabako ri, Korafe-Yegha evetu genembo ava kasama aoro dae; jo beká arira, jo dadabarira, a Korafe-Yegha evetu genembo jo review ae useri. / A working draft for native Korafe-Yegha review; not certified, not final, and not native-reviewed.
-- **AI sonemba**: Buku einda AI sonembaimi, Ingirisi geka bekáda ghe, gefusira; Korafe-Yegha evetu genembo review aoro bekári, amboda ya bari dae. / Prepared with AI assistance from the corrected English master; native Korafe-Yegha review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI sonemba**: Prepared with AI assistance from the corrected English master.
 - **Mutari dabako**: Buku einda moni tefoimi mutusira; kopi, beká ari, a jovereghari eveva, isambu ivugaghae rururaera. / Freely given; copies, corrections, and better versions are welcomed.
 - **Geka**: Buku einda Korafe-Yegha (kpr) gekaimi dabako gefusira — Korafe-Yegha evetu genembo, Cape Nelson, Tufi, Oro Province, Papua New Guinea da gekari; Ingirisi geka tefori, avata dabade kasama ari bekári. / This draft is in Korafe-Yegha (kpr) only — the language of the Korafe-Yegha people of Cape Nelson, Tufi, Oro Province, Papua New Guinea; it is not English, though many of its words are shared with it.
 

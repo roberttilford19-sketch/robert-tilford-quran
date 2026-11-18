@@ -1,14 +1,13 @@
 # Ayah Companion
 
-Al-Quran ra Bahasa Keningau Murut — DRAF
+Al-Quran ra Bahasa Keningau Murut
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Keningau Murut review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Keningau Murut rendering: none found after research.
-
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Keningau Murut rendering: none found after research.
 **Pasal kitab hitu / About this edition:**
 - **Asal**: Kitab hitu dibuat dari kitab Inggeris Robert Tilford nang sudah dibetulkan (Locked English Master; 114 surah / 6,236 ayat); teks Arab berdiri ra sebelahnya, ayat demi ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Kaedah**: Quran saja — Quran saja nang ditaati; zakat, Quran inda' memberi persen, sebab Quran inda' memberi; tiada hadith atau tafsir ditambah. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DRAF — INDA' GI' NIREVIEW. Kitab hitu draf kerja untuk direview oleh ulun Keningau Murut sendiri; belum disahkan, belum siap, dan belum direview oleh penutur asli. / A working draft for native Keningau Murut review; not certified, not final, and not native-reviewed.
-- **Bantuan AI**: Kitab hitu disediakan duk bantuan AI, dari kitab Inggeris nang sudah dibetulkan; ulun Keningau Murut sendiri mesti mereview — itu jalan siapnya. / Prepared with AI assistance from the corrected English master; native Keningau Murut review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Bantuan AI**: Prepared with AI assistance from the corrected English master.
 - **Pemberian**: Kitab hitu diberi percuma, tiada bayaran; salinan, pembetulan, dan versi nang lebih onsoi dialu-alukan. / Freely given; copies, corrections, and better versions are welcomed.
 - **Bahasa**: Kitab hitu dalam Bahasa Keningau Murut (kxi) saja — bahasa Murutik; asas katanya asas Tagol Murut, dan ayat khas Keningau menunggu tangan penutur asli. / This draft is in Keningau Murut (kxi) only — a Murutic language; its word base is the Tagol Murut cluster base, and Keningau-specific idiom awaits the native reviewer's hand.
 

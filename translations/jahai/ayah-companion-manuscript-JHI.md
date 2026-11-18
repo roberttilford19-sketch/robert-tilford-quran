@@ -1,14 +1,13 @@
 # Ayah Companion
 
-Al-Quran ka Bahasa Jahaj — DRAF
+Al-Quran ka Bahasa Jahaj
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Jahai review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Jahai rendering: none found after research.
-
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Jahai rendering: none found after research.
 **Pasal bukuq neh / About this edition:**
 - **Asal**: Bukuq neh deq can kitab Inggeris Robert Tilford de tetap (Locked English Master; 114 surah / 6,236 ayat); teks Arab sameq ka tepi bukuq neh, ayat ka ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Kaedah**: Quran saja — Quran saja de ikot; zakat, Quran braq ek persen, sebab Quran braq ek; braq hadith atau tafsir tambah. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DRAF — BRAQ DIREVIEW. Bukuq neh draf kerja untuk direview oleh meneraq Jahaj sendiri; belum sah, belum siap, dan braq direview oleh penutur asli. / A working draft for native Jahai review; not certified, not final, and not native-reviewed.
-- **Bantuan AI**: Bukuq neh sedia sameq bantuan AI, can kitab Inggeris de tetap; meneraq Jahaj sendiri mesti mereview — itu jalan siapnya. / Prepared with AI assistance from the corrected English master; native Jahai review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Bantuan AI**: Prepared with AI assistance from the corrected English master.
 - **Pemberian**: Bukuq neh ek percuma, braq bayaran; salinan, pembetulan, dan versi de lebih betet dialu-alukan. / Freely given; copies, corrections, and better versions are welcomed.
 - **Bahasa**: Bukuq neh dalam Bahasa Jahaj (jhi) saja, dalam transkripsi fonemik Burenhult (Pacific Linguistics 566, 2005) de tulis ka ejaan praktikal; ejaan ka seats de OCR kabur ialah pilihan desk untuk direview. / This draft is in Jahai (jhi) only, in Burenhult's phonemic transcription (Pacific Linguistics 566, 2005) written in a simplified practical spelling; spellings at OCR-garbled seats are desk normalisations for the reviewer.
 

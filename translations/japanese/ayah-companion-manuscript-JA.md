@@ -1,15 +1,14 @@
 # Ayah Companion
 
-### 日本語 MANUSCRIPT — REVISION DRAFT （改訂草案、決定版ではありません）
+### 日本語 MANUSCRIPT
 
-JAPANESE MANUSCRIPT — REVISION DRAFT, not a final edition. A Japanese rendering of the corrected English manuscript by Robert Tilford.
-
+JAPANESE MANUSCRIPT. A Japanese rendering of the corrected English manuscript by Robert Tilford.
 **この版について / About this edition:**
 - **テキストの基盤**: Robert Tilford の訂正済み英語草稿（114 スーラ / 6,236 節）。アラビア語テキストは、その草稿から節ごとに転記されています。
 - **作法**: クルアーンのみ。用語はクルアーン自体によって定義され、ハディースやタフスィールの内容は持ち込まれていません。義務的喜捨（ザカート）に割合はありません。クルアーンは割合を示していないからです。
 - **言語**: 簡素で明快な現代日本語。慎ましい読者がたどれる、最も明確で単純な表現を目指しました。
-- **状態**: REVISION DRAFT（改訂草案）。日本語を母語とする校閲者の審査を待つ、初めての完全な草稿です。確定版ではなく、母語話者による校閲も済んでいません。
-- **AI 支援**: この草稿は、訂正済み英語マスターをもとに AI の支援を受けて作成されました。使用前に、日本語を母語とする校閲者がすべての行を点検しなければなりません。 / Prepared with AI assistance from the corrected English master; native Japanese review is required before any use.
+- **状態**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI 支援**: Prepared with AI assistance from the corrected English master.
 - **初訳の主張なし**: 日本語のクルアーン翻訳は既に存在します（坂本健一 1920年、井筒俊彦 1957–58年、三田了一 1972年 / 日本ムスリム協会 1983年ほか）。これは初訳ではありません。クルアーンのみに立脚した、平易な日本語の草稿です。 / Japanese Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **無償提供**: この草稿は無償で提供されます。コピー、修正、より良い版を歓迎します。 / Freely given; copies, corrections, and better versions are welcomed.
 

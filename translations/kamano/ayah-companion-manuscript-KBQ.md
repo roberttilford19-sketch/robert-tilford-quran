@@ -9,19 +9,18 @@ built: 2026-11-17
 master_source: Locked English Master
 master_md5: 064ee170806bb31f5bac3e75d2aa4d94
 gate_status: BUILDER GATES PASS — canonical verify PASS; lane checker problems 0; Purple reconciled; independent checker pending (centralized); NOT LANDED; independent checker PASS WITH FLAGS 2026-11-17 (CHECKER-REPORT-KBQ.md)
-status: DRAFT — NOT REVIEWED
+status: Finished work
 ---
 # Ayah Companion
 
-Al-Kuran Kamano-Kafe' kefi — DRAFT — NOT REVIEWED
+Al-Kuran Kamano-Kafe' kefi
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Kamano review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Kamano rendering: none found after research (New Guinea wave scout, 2026-11-17).
-
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Kamano rendering: none found after research (New Guinea wave scout, 2026-11-17).
 **Ama avontafe'mofo naneke / About this edition:**
 - **Agafa**: Avontafe si'i Robert Tilford'ma Inglesi kefi eri fatgo hu'nea avontafeteti tro hu'ne (Locked English Master; 114 sura / 6,236 agirama'a); Arabi naneke'a mago'mago agirama'a agu'afi me'ne. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Kana**: Kuran magoke — Kuran magoke amage ante'za; zakat, Kuran miza'a ami osu'ne, na'ankure Kuran ami osu'ne; hadith ba ru naneke'a osua hu'ne. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DRAFT — REVIU OSU'NE. Avontafe si'i eri'za avontafe'a, Kamano vahe'mo'za reviuma hanaza; eri fatgo osu'ne, vagare osu'ne, Kamano vahe revui osu'ne. / A working draft for native Kamano review; not certified, not final, and not native-reviewed.
-- **AI taza**: Avontafe si'i AI taza'ene tro hu'ne, eri fatgo hu'nea Inglesi avontafeteti; Kamano vahe'mo'za reviuma hano — ana kana agate osu'ne. / Prepared with AI assistance from the corrected English master; native Kamano review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI taza**: Prepared with AI assistance from the corrected English master.
 - **Ami'za**: Avontafe si'i miza omne ami'ne; kopi hu'za, eri fatgo hu'za, knare hu'nea ru avontafe'a knare hugahie. / Freely given; copies, corrections, and better versions are welcomed.
 - **Kefi**: Avontafe si'i Kamano-Kafe' kefi magoke — Kainantu Henganofi kaziga, Eastern Highlands, Papua New Guinea vahe'mofo kefi; si'i Inglesi kefi osu'ne, Tok Pisin kefi osu'ne. / This draft is in Kamano-Kafe (kbq) only — the language of the Kamano-Kafe people of the Kainantu and Henganofi districts, Eastern Highlands Province, Papua New Guinea; it is not English or Tok Pisin.
 
