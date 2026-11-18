@@ -59,8 +59,8 @@ work/flags-sea.txt — 10 named uncertain-seat items plus residue counts, carrie
   6,691 bytes
   SHA-256 7da61867e8da070f90da8f80d8112f465dcf243c2bd9a4ccc2d6441e1b58fc13
 ayah-companion-manuscript-SEA.md
-  2,245,249 bytes
-  SHA-256 6c21dce8c1fbbe9ea255c84c4603848311b4c50d4399496f8b3822f72c3d5e45
+  2,244,761 bytes
+  SHA-256 24c0487d13004b29281337b497c90a49fa62a09ef3078b27a4a249ebb7bda998
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
