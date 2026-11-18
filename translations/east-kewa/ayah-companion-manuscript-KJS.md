@@ -18913,7 +18913,7 @@ igira ne aipuni a stat a impurity, purify yourselbes. Igira ne aipuni ill, palo 
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Rabu aipuni adami kone rula, page warua rigteousness, page kone rula a aake dolo sent igi aare muhammad — page nipu aare ora abalanai nimuna Mudu Ali — nipu remits nimuna koe, page reliebes nimuna konserns.
+**47:2** Rabu aipuni adami kone rula, page warua rigteousness, page kone rula a aake dolo sent igi aare Muhammad — page nipu aare ora abalanai nimuna Mudu Ali — nipu remits nimuna koe, page reliebes nimuna konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
