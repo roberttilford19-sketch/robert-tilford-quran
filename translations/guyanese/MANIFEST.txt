@@ -58,12 +58,12 @@ document, ever.
 
 FILES
 ayah-companion-manuscript-GYN.md
-  2,120,448 bytes
-  SHA-256 c98e4b25b47e35ae83b8b65d7758cb6c584d39c672131a6485bdf91595cdb62b
+  2,119,946 bytes
+  SHA-256 cb7098a77a9bdcbed1e955f84e54e1dff93f991576a5bbf3ac30b7de0049807c
 ayah-companion-aligned-GYN.json (the FILE-SCHEMA side-by-side:
   6,236 objects {chapter, verse, en, target, ar} on the master grid)
   3,236,550 bytes
-  SHA-256 9ded97144cd70010dac74bfa843fb6951d14705f0102dd4c97649c4436854590
+  SHA-256 6f917da96ab9646ce2295e1c104c8d11948d29c4fb937d351182e2512fcf24b6
 This MANIFEST.txt (its own figures are not carried inside itself;
   the landing read-back covers it byte for byte).
 
