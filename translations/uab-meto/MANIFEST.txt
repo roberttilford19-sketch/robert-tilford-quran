@@ -28,7 +28,7 @@ under the Pipeline Landing Authorization (2026-11-14); read-back
 verified — see LANDING-RECORD-AOZ-2026-11-17.md.
 
 SHA-256 (lane root):
-c8a7f7e6cbc0e2b0b1fb1201c424e5ef8ccc08f7324fa09ff58de80fc80462c3  ayah-companion-manuscript-AOZ.md
+671f8d6349194b7dbd689862bc6e8f6df2631cc72cdab2618bd141dfdf794686  ayah-companion-manuscript-AOZ.md
 550177733351a81a3532a1a91fdaaa434ea365f794fe46c80957c8800fea74c5  STYLEGUIDE-AOZ.md
 b32c03a643e03849f4f534cabd74584d2fbdbe8508db2df40a919bc93cc849ba  GLOSSARY-AOZ.md
 5671c53a245ba3361e67c1fe2d0cb03a701bcc17ec8dbb2a69e1f79e61716c0b  BUILD-REPORT-AOZ.md
@@ -37,7 +37,7 @@ SHA-256 (shelving pack, byte-identical manuscript copy):
 c8a7f7e6cbc0e2b0b1fb1201c424e5ef8ccc08f7324fa09ff58de80fc80462c3  shelving-pack/translations/uab-meto/ayah-companion-manuscript-AOZ.md
 
 Bytes:
-2140510 ayah-companion-manuscript-AOZ.md
+2140034 ayah-companion-manuscript-AOZ.md
    9430 STYLEGUIDE-AOZ.md
   23542 GLOSSARY-AOZ.md
    9678 BUILD-REPORT-AOZ.md
