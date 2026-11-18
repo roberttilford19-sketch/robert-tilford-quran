@@ -49,8 +49,8 @@ work/flags-enq.txt — 13 named uncertain-seat items plus residue counts, carrie
   3,978 bytes
   SHA-256 3b21536c7450c953866fcbc6d1d4c96cfa42028867b8d8d268d2596b14222701
 ayah-companion-manuscript-ENQ.md
-  2,340,212 bytes
-  SHA-256 0420458192408c81a5324e1941d90f98d2dbae8d69abbd5809724b363f928472
+  2,339,748 bytes
+  SHA-256 630a0cd1146bb48e6126e5045987201b59c79d16741ae8bad7da311c4b9546c1
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
