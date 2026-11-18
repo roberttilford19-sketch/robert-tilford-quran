@@ -18914,7 +18914,7 @@ nogomo kai are in stat of impuriti, purifi iourselves. Nogomo kai are ill, to tr
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Whil tos who keheliꞌehibe, to foya rigteousness, to keheliꞌehibe in what was sent down fukaꞌi muhammad — to ai lapeꞌi trut from enali Sipi Bo — ai remits enali foipa, to relieves enali konserns.
+**47:2** Whil tos who keheliꞌehibe, to foya rigteousness, to keheliꞌehibe in what was sent down fukaꞌi Muhammad — to ai lapeꞌi trut from enali Sipi Bo — ai remits enali foipa, to relieves enali konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
