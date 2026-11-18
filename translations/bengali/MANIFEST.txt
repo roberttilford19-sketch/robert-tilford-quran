@@ -5,8 +5,8 @@ SUPERSEDES the review-gate status language in every text below it. The manuscrip
 language has been removed from the manuscript itself; no verse text was changed, and the desk's
 verification of record was re-run after the edit and stands.
 
-GOVERNING FILE (live shelf, updated by this header): ayah-companion-manuscript-BN.md | 3455382 bytes |
-SHA-256 c24052c2943ee52c5093e0fb9f4d408a83ea4a809e9948ba2568fed5c6cdf5ce
+GOVERNING FILE (live shelf, updated by this header): ayah-companion-manuscript-BN.md | 3455305 bytes |
+SHA-256 4642fe80a35d0e0294fbbdcce542ab0a1b578b598bec5724f65f634e95025ae6
 The manuscript's front matter now carries the author line: Translated by Robert Tilford. © 2026 Robert Tilford.
 
 ---
