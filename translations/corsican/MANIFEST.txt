@@ -14,4 +14,4 @@ stands in the workspace lane folder ~/workspace/ayah-corsican/, unrepaired.
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Files:
-  2279340  cc1514cd092110ffaa783836f0bde78912627e5f66b56de93a3d90e6133c8edf  ayah-companion-manuscript-CO.md
+  2279249  0364b3a07bfae161942359b8cc78b03ce3bc1f3495de99c271bef0b3ae4b785e  ayah-companion-manuscript-CO.md
