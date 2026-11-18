@@ -57,8 +57,8 @@ work/flags-xkl.txt — 16 named uncertain-seat items plus residue counts, carrie
   6,826 bytes
   SHA-256 c01c66729fc502245fb9d627233504e29dab389f3ca11b1c6698b2950fe6284e
 ayah-companion-manuscript-XKL.md
-  2,216,520 bytes
-  SHA-256 d353597c62a5f2a80fead3f84f516315203b73caf7a079c8d71b3285af55eb63
+  2,215,988 bytes
+  SHA-256 d535e4e9f5fdaebcbff16fcb42ff8f37c88316071810d514e9367791066c589f
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
