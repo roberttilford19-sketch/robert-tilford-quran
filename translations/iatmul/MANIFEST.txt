@@ -59,7 +59,7 @@ work/flags-ian.txt — 17 named judgment items plus residue counts, carried to t
   SHA-256 3ed04869609cd391809de8d4b48903a5e8c4ea6ac035d7dec4346b3446a21a0f
 ayah-companion-manuscript-IAN.md
   2,212,727 bytes
-  SHA-256 cfd89b47cb18b2a63bd0782f878501046ae410a0bb84bd6402a91aaa997ae71e
+  SHA-256 0c1de4228a28191d558d58f71183be40611e57184b615cd10a213986d524ab19
 ayah-companion-aligned-IAN.json
   3,330,294 bytes
   SHA-256 2fe6089a654588128c4ec4c4254aec747ea6e8ebe7fbb88c3418b1bcbaef9188
