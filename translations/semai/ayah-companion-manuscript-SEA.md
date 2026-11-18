@@ -18901,7 +18901,7 @@ kalau hëq möng ku katëh stat li impurity, purify yourselves. Kalau hëq möng
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Sedang ajëh booq percaya, ru kerjaq rigteousness, ru percaya ku katëh ma möng kirim keröb ku muhammad — ru möng betul ju mai Tuhan — këq remits mai tenhanq, ru relieves mai konserns.
+**47:2** Sedang ajëh booq percaya, ru kerjaq rigteousness, ru percaya ku katëh ma möng kirim keröb ku Muhammad — ru möng betul ju mai Tuhan — këq remits mai tenhanq, ru relieves mai konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
