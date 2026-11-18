@@ -18910,7 +18910,7 @@ kalo ko beres negara of impurity, purify yourselves. Kalo ko ill, ato kliling, a
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Pas itu yang percaya, deng work rigteousness, deng percaya beres apa sent turun ke muhammad — deng de kebenaran dari dong pu Tuhan — de remits dong pu dosa, deng relieves dong pu konserns.
+**47:2** Pas itu yang percaya, deng work rigteousness, deng percaya beres apa sent turun ke Muhammad — deng de kebenaran dari dong pu Tuhan — de remits dong pu dosa, deng relieves dong pu konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
