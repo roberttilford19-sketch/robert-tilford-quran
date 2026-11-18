@@ -18915,7 +18915,7 @@ if hat are alma stat of impurity, purify yourselves. If hat are ill, or travelli
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Whil tos who wenggel, and work rigteousness, and wenggel alma what was sent down to muhammad — and at an tem from teir Ninikni — at remits teir sins, and relieves teir konserns.
+**47:2** Whil tos who wenggel, and work rigteousness, and wenggel alma what was sent down to Muhammad — and at an tem from teir Ninikni — at remits teir sins, and relieves teir konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
