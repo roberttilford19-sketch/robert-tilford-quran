@@ -60,4 +60,4 @@ lane's residue gate PASS (0), 2026-11-12
 
 Files:
   20413020  707b0095c518e5eb143012d1865ce700a0f426b69c1c3d85699bdadd41607a72  Ayah_Companion_Tilford_Macedonian_Manuscript.pdf (900 pp)
-   2801239  97b4283ee2cb635c8d104c0b5e6d1a348e5ebc6b41896b5861e7c6a8338070e2  ayah-companion-manuscript-MK.md
+   2800401  f266bf59cbab539fde5e823b7f40cb02319b995b13a79e24131809094e157053  ayah-companion-manuscript-MK.md
