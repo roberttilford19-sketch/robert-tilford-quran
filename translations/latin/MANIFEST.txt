@@ -20,4 +20,4 @@ The full lane record (build report, verification and checker records, flags)
 stands in the workspace lane folder ~/workspace/ayah-latin/, unrepaired.
 
 Files:
-  2161960  bd097084955091b977c8bf64f63c3ca8f0258121ce41344466d8fed88dc48ea3  ayah-companion-manuscript-LA.md
+  2161622  62b355a07e8fa23ac9f44bef91523df2db7cd35f840eda733f81df963ec83466  ayah-companion-manuscript-LA.md
