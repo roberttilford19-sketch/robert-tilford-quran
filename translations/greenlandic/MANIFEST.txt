@@ -15,4 +15,4 @@ The full lane record (build report, verification and checker records, flags)
 stands in the workspace lane folder ~/workspace/ayah-greenlandic/, unrepaired.
 
 Files:
-  2264037  f6d65070780d29bcf18771e6cd30ba804378156f2127804338d687969619235a  ayah-companion-manuscript-KL.md
+  2263926  f78e810aaa66bbea758cb4fc7b6734c6992d4cab703f1d85a9bf5a35b0f02ecb  ayah-companion-manuscript-KL.md
