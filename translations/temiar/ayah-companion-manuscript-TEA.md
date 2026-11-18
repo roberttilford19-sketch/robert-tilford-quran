@@ -18901,7 +18901,7 @@ ce haa en stat op impurity, puripy nyob eh. Ce haa ill, kah kuyau, kah nei op ha
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Whil nak co caya, bok kerenjak rigteousness, bok caya en elok anted reh ma muhammad — bok nanak kenlag nom unak Tuhan — nanak remits unak ges, bok reliebes unak konserns.
+**47:2** Whil nak co caya, bok kerenjak rigteousness, bok caya en elok anted reh ma Muhammad — bok nanak kenlag nom unak Tuhan — nanak remits unak ges, bok reliebes unak konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
