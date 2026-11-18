@@ -61,8 +61,8 @@ work/flags-kjs.txt — 15 named uncertain-seat items plus residue counts, carrie
   5,186 bytes
   SHA-256 1b0d2f521f6080d51813c5c515b47bd123e5a0dda1e34f5cbeabd8e1e536ad76
 ayah-companion-manuscript-KJS.md
-  2,251,710 bytes
-  SHA-256 ffe545782bede6c3e04daebfa436a9011f099aa5efdcbee7b8cac46af2121d02
+  2,251,251 bytes
+  SHA-256 b4939e7ea92110b88bee6e3ce433657e94444a9724f933fa7f0cb0e072df11eb
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
