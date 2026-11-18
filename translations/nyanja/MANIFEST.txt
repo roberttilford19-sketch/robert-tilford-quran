@@ -32,4 +32,4 @@ lane's extra English-residue gate PASS, 2026-11-12
 
 Files:
   20520020  4215035faf90cf4c4b2fd38f995a767f0d939bfe60ce2f4687ea4e2b84ba9c5f  Ayah_Companion_Tilford_Nyanja_Manuscript.pdf (953 pp)
-   2311593  0b7d0fcd821d7b00ff9b043cb949776e2ecdb2cc39568657c3c6c03843af064a  ayah-companion-manuscript-NY.md
+   2310990  d0b465a5231800e3d1b06ac3fa0d1f922b1dce5b56215cfd288706304aadc50e  ayah-companion-manuscript-NY.md
