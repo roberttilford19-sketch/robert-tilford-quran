@@ -18901,7 +18901,7 @@ sokiro ika haro id stat do impurity, momonsoi otulid izuh sondiri. Sokiro ika ha
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Id maso ino isai mangakun, om kopotunan kotulizan, om mangakun id nunu nokotiguno monuhu id saruang mad muhammad — om isino haro kotopot mantad diira Tuhan — isido remits diira duduso, om relieves diira konserns.
+**47:2** Id maso ino isai mangakun, om kopotunan kotulizan, om mangakun id nunu nokotiguno monuhu id saruang mad Muhammad — om isino haro kotopot mantad diira Tuhan — isido remits diira duduso, om relieves diira konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
