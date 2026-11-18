@@ -1,0 +1,116 @@
+AYAH COMPANION — NABAK RENDERING
+MANIFEST — lane record, 2026-11-18
+
+ITEM
+Ayah Companion, Nabak (naf) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the New Guinea wave, Wave 2 (Phase-1 verification
+batch B08, item 5), under Robert Tilford's Advance Rule of
+2026-11-14 and the Pipeline Landing Authorization.
+
+STATUS
+The status line stands inside the manuscript itself, on its
+face, with AI assistance labelled: FINISHED WORK. Translated
+by Robert Tilford. © 2026 Robert Tilford. SHELVING: staged in
+this lane's shelving pack only. The landing is centralized
+after the independent check; this lane does not push.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last
+114:6. Completeness is structural: every verse of the master
+is present, in order, beside its Arabic. The aligned array
+(ayah-companion-aligned-NAF.json) carries 6,236 objects.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462
+Arabic runs, verified identical to the master by the amended
+verify.py's structural-position method).
+
+SCRIPT
+Latin orthography — the modern Nabak orthography of the
+Nabak New Testament (Wycliffe / Bible Society tradition).
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in
+this manifest or in any lane document. The standing wording
+is: none found after research (New Guinea wave scout,
+2026-11-17).
+
+FILES
+BUILD-REPORT-NAF.md
+  4,788 bytes
+  SHA-256 b290c2482732a91636b3be8c6244bf1e3614cc358e365e452aa343bc0a849499
+GLOSSARY-NAF.md
+  2,497 bytes
+  SHA-256 3f7d6e285f1c650df69debf0a2aae67718a9644d4b364f27e3643726a8915992
+STYLEGUIDE-NAF.md
+  2,240 bytes
+  SHA-256 287b85afd1a679f590b4df9e3bde1e3ec55212f19839d758ae353c7f87a0d5dc
+PURPLE-REPORT-NAF-2026-11-18.md
+  1,553 bytes
+  SHA-256 8316a92826e502a9f8a77319e963e7418f69cfb2d8de11921f666ed342d6df61
+work/flags-naf.txt — 16 named judgment-call items with
+  evidence and counting bases.
+  6,012 bytes
+  SHA-256 8e91be612b7b6fedced692e3053ab65fef76d7251feec7801356cc0f00f91101
+work/verification-naf.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+ayah-companion-manuscript-NAF.md
+  2,504,322 bytes
+  SHA-256 3005605bdf19b9ff5162d48f85794d85d277299fc8802442f0e7c9641513b8ed
+ayah-companion-aligned-NAF.json
+  3,616,209 bytes
+  SHA-256 66598455390c0afc02147abee045c03bc21859a0a7b056fb24f077f9087fd548
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py),
+run 2026-11-18 on the final bytes: PASS true. Headers 114,
+verses 6,236, counts match meta true, continuity true, Arabic
+runs 6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse
+lines 6,236, slice reference mismatches 0, slice paragraph
+mismatches 0, percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_naf.py) over all 114 surahs:
+problems 0. Per-verse census equality in all 6,236 verses —
+Kawawaŋ 2,732 (= God 2,732); kawawaŋ 79 (= god 79);
+kawawaŋkawawaŋ 35 (= gods 35); Amobotnaŋ 980 (= Lord 969 +
+the 11 counted Master tokens); zakat at exactly the 13 keyed
+slots; mukulem at exactly the 36 keyed sadaqa tokens
+(2:272 ×3; 58:13 ×2). Tokenisation basis: whitespace split,
+edge punctuation stripped, exact token equality, the solid
+genitive forms Kawawaŋgat / Amobotnaŋgat counted with their
+heads, as God's / Lord's count in the Master's census.
+Purple measurements (work/purple-measurements-naf.json):
+Arabic matched 6,348 of 6,348; basmalah 114; markers 11 + 4;
+TOC 114, no mismatches; percent 0; note 56 present.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye).
+Extraction: 114 surahs, 6,236 verses, 6,462 Arabic runs, 112
+basmalah frames, 15 markers; refs equal to master.
+Lexical bases (two disclosed sources): Fabian, Fabian &
+Waters, Morphology, Syntax and Cohesion in Nabak, Pacific
+Linguistics C-144 (ANU, 1998; online edition CC BY-SA 4.0),
+fetched from the ANU Open Research bitstream and banked in
+the lane (39,202,495 bytes; SHA-256
+17d93dc9e63132502ac08f97b57ecef312e13278183f1565d67797610e2873a0)
+— Appendix 1 reversed grounded 130 template keys, Appendix 2
+index grounded 254; the Nabak New Testament (eBible.org USFM)
+as Scripture control — 9 further template keys grounded by
+screened verse-aligned co-occurrence, and 26 hand-set keys
+from its running usage. Total grounded: 419 of 1,887 template
+keys, plus 3 empty article values, plus 2 attested-base
+extras (beneficent, merciful).
+
+NOTES CARRIED FORWARD
+The sadaqa seat (flags item 4) is the lane's most exposed
+judgment call: no charity noun is attested in either base,
+and the NT's almsgiving verb mukulem stands in the noun seat,
+disclosed. The soul form kayombaŋ (flags item 9) is attested
+in Appendix 2 and absent as a bare NT token, disclosed in the
+same breath. The C-144 parse loss (flags item 14) bounds the
+grounding figure: 419 is a floor set by the recovered
+entries, not a measure of the book.
