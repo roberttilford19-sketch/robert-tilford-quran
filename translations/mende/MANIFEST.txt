@@ -1,0 +1,135 @@
+AYAH COMPANION — MENDE RENDERING
+MANIFEST — lane record, 2026-11-18
+
+ITEM
+Ayah Companion, Mende (sim) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the New Guinea wave (Phase-1 verification batch
+B05, Sepik B), under Robert's Advance Rule of 2026-11-14
+and his snowplow doctrine for the wave. This is the Papua
+New Guinea Mende (Seim), NOT the Mende of Sierra Leone.
+
+AUTHOR AND STATUS
+Translated by Robert Tilford. © 2026 Robert Tilford.
+FINISHED WORK — under Robert Tilford's ruling of 2026-11-18
+the book stands as his finished work, author-published
+as-is. The status line stands inside the manuscript itself,
+on its face, with AI assistance labelled plainly.
+SHELVING: staged in this lane's shelving pack only. The
+landing is centralized after the independent check; this
+lane does not push.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the structural-position method).
+
+SCRIPT
+Latin orthography — the practical orthography of the Mende
+Triglot Dictionary (SIL, 2006) and of the Mende New Testament
+(Mashi Avui Wasilakahi, 2005).
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: none
+found after research (New Guinea wave scout, 2026-11-17).
+
+FILES
+GLOSSARY-SIM.md
+  4,185 bytes
+  SHA-256 bac4fd8f4f37ec731d2330a67a470146936f09e11812c885ae6c2d99be5090ef
+STYLEGUIDE-SIM.md (the lane's binding building law, settled before building)
+  3,110 bytes
+  SHA-256 8c4f57ca9f4bd1e7a7ef106ebf26a77debf21672c9e2fcf92041b054ccb990dd
+BUILD-REPORT-SIM.md
+  6,614 bytes
+  SHA-256 5404372959527a4fb8399b2fcd7fceb36f4b32c7dfe730a684a72f1aaf6d4e48
+PURPLE-REPORT-SIM-2026-11-18.md
+  7,234 bytes
+  SHA-256 def95542e93e43dfc380040d7bd857ab3dad1b87325137ed475047bf86bb7614
+work/verification-sim.json (canonical verify record)
+  SHA-256 14e953ef2f97f305c41394c39bc164acb7ebd3239d60e78e66a504504317d78f
+work/flags-sim.txt — 18 named items plus residue counts, carried to the independent checker.
+  9,075 bytes
+  SHA-256 d0294801f2d841236e4963c498e65ba0c2e54954e6c4f9383e65ff76fc7d1020
+ayah-companion-manuscript-SIM.md
+  2,209,591 bytes
+  SHA-256 bb96a9599c19eb5f89fadf18ed3c65b1ccce07a6d749abec30364ee8a8107368
+ayah-companion-aligned-SIM.json (the aligned array: 6,236 objects,
+chapter/verse/en/target/ar, per the house FILE-SCHEMA)
+  3,326,550 bytes
+  SHA-256 135bf70ea22e8bb2e71d7a77432d98f18da1488dfda890d59c2b92069996832e
+
+VERIFICATION
+Canonical verify, run 2026-11-18 on the final bytes: PASS true.
+Headers 114, head order true, verses 6,236, counts match meta
+true, continuity true, Arabic runs 6,462 identical to master
+and to meta, missing tags 0, prostration markers 15 match,
+note 56 present, slice verse lines 6,236, slice ref mismatches 0,
+slice paragraph mismatches 0, percent signs 0 in slices and in
+the manuscript (record work/verification-sim.json).
+Lane checker (work/check_sim.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Avui Wasilaka
+seats 2,732 (= God 2,732); god 79 (= god 79); godik 35
+(= gods 35); standalone Wasilaka 980 (= Lord 969 + the 11
+counted Master tokens); zakat at exactly the 13 keyed slots;
+ofa at exactly the 36 keyed tokens (2:272 x3; 58:13 x2).
+Purple measurements (work/purple-measurements-sim.json): Arabic
+matched 6,348 of 6,348 on Purple's basis (verse + preamble
+lines; the canonical 6,462 adds the 114 surah-header names);
+basmalah 114; markers 15; TOC 114, no mismatches; percent 0;
+note 56 present.
+Independent checker (separate agent): PENDING — centralized
+after this build, per the wave's plan. No checker verdict is
+claimed in this manifest.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master; the extraction is byte-identical
+to the model lane's (Motu) extraction.
+Lexical bases (all banked under work/base/, with BASE-NOTES.md):
+Nozawa (comp.), Mende Triglot Dictionary (SIL, Ukarumpa, May
+2006) — the publisher's own PDF via SIL Global archives record
+31185 (Wayback capture; 1,516,714 bytes; sha256 b22cda2f3f33d8
+f027e3e7aaa4dafbac71666d01b5bf3b5144280a3c90716ee9) and the
+publisher's own Lexique Pro online edition (3,211 main entries,
+4,081 English-Mende finder pairs, 3,582 Tok Pisin-Mende pairs).
+No licence statement was found in the PDF; the dictionary is
+used as a lexical reference only. The document-sharing mirrors
+named in the scout record were NOT used. Scripture control:
+the Mende New Testament, Mashi Avui Wasilakahi (© 2005 Bible
+Society of Papua New Guinea; eBible.org USFM; CC BY-NC-ND 4.0).
+Grounding: 475 of 1,887 template keys attested (finder 404,
+dictionary-exact 40, hand 20, control-aligned 11), plus 207
+inflection-inherited values (disclosed convention, not
+attestation), 3 template-empty values, 1,202 ungrounded keys
+on the disclosed transliteration fallback, and 1 extra key
+beyond the template (beneficent). The split is recorded key
+by key in work/base/dict_sim_bridge.json.
+
+NOTES CARRIED TO THE CHECKER
+The lane's first flag is its base: 475 attested keys stand
+below the first-tranche norm (616–1,002) because the
+dictionary is a general vocabulary of daily life and the
+NT's synthetic morphology defeats token alignment — disclosed
+in the same breath as every grounding claim, with 67,629
+counted transliteration-fallback tokens on the face of the
+build report. The Elisa/Elaija pair (flags item 8) is the
+checker's first name item: both forms are the control's own,
+kept distinct (Elaija 23 NT tokens; Elisa exactly 1, Luke
+4:27). The God-phrase Avui Wasilaka is NT-attested passim
+(John 3:16); the Lord-word Wasilaka is the dictionary's own
+gloss and the control's common title — the control is
+NT-only, so no Tetragrammaton rendering arises in this lane.
+The sadaqa seat (ofa, flags item 6), the basmalah composition
+(item 7), and the possessive -hi convention (item 10) ride
+in the flags.
