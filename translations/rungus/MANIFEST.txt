@@ -57,8 +57,8 @@ work/flags-drg.txt — 9 named uncertain-seat items plus residue counts, carried
   3,081 bytes
   SHA-256 dbae131bde744f2bead5899c025cd11a50a50044059d21f54809951da7cc3633
 ayah-companion-manuscript-DRG.md
-  2,378,103 bytes
-  SHA-256 0273cdd7d8df13fdb58aef634e8534dc30687abebd53b104ee228a2f57adc009
+  2,377,626 bytes
+  SHA-256 a685bf5a65e22eeaa62699693b34bd2549681edaa2322f5446b5cf58e49bf1a9
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
