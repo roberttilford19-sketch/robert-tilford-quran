@@ -1,0 +1,17 @@
+MANIFEST — Balantak (BLZ) lane — Ayah Companion
+Built 2026-11-17 (Region-1 remainder wave). DRAFT — NOT REVIEWED.
+Independent checker (separate agent): PASS WITH FLAGS (CHECKER-REPORT-BLZ-2026-11-17.md) — every hard gate re-measured exact, no discrepancies against the builder; 14 flags (6 MATERIAL disclosures, 8 MINOR), none blocking. Landed under the Pipeline Landing Authorization (2026-11-14).
+
+ayah-companion-manuscript-BLZ.md   2,287,506 bytes
+  SHA-256 9b9f3901d9690e6312adede2a936531643717815790d01f8e242654671d3bbbe
+  114 surahs / 6,236 verses; canonical verify PASS; lane checker 0 problems.
+STYLEGUIDE-BLZ.md                  lane law (keying, counted slots, names)
+GLOSSARY-BLZ.md                    keyed terms with grounds
+BUILD-REPORT-BLZ.md                build record (gates, residue, seats)
+work/flags-blz.txt                 14 reviewer items
+work/dict_blz.py                   lane lexicon (626 entries; 618 grounded)
+work/build_blz.py, work/check_blz.py   engine + lane checker
+work/verification-blz.json         canonical verification record (PASS)
+work/purple-measurements-blz.json  Purple measurements
+work/base/                       dictionary harvest, parse, bridge, notes
+shelving-pack/translations/balantak/   shelving copy of the manuscript + notes
