@@ -18914,7 +18914,7 @@ bema a luvua debuka molemolea dalama impurity, purify yourselves. Bema a luvua i
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Neguve tos ole evievi, isi evea rigteousness, isi evievi debuka ono belika sent teleka abavu muhammad — isi au kitoa seleve from abu Kosive — au remits abu toela, isi relieves abu konserns.
+**47:2** Neguve tos ole evievi, isi evea rigteousness, isi evievi debuka ono belika sent teleka abavu Muhammad — isi au kitoa seleve from abu Kosive — au remits abu toela, isi relieves abu konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
