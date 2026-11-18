@@ -1,0 +1,29 @@
+MANIFEST — BROOKE'S POINT PALAWANO (PLW) — COMPLETE LANE, DRAFT — NOT REVIEWED
+
+LANGUAGE: Brooke's Point Palawano (plw; Glottocode broo1239), Palawan, Philippines — Region-1 remainder wave, scout BATCH-Philippines-A #8 (2026-11-17).
+GOD-TERM: Empuꞌ (the NT's God-word; John 3:16 read in the NT control text at build time). LORD: Begerar.
+STATUS: DRAFT — NOT REVIEWED. AI-assisted machine draft from the Locked English Master;
+native-speaker review required before any use as Scripture. No first-translation claim is made:
+none found after research (Region-1 remainder scout, 2026-11-17).
+MASTER: MD5 064ee170806bb31f5bac3e75d2aa4d94 (corrected master of record).
+GATES: count 6,236/6,236; canonical verify PASS; lane checker problems 0; keying censuses exact
+(God 2,732 / god 79 / gods 35 / Lord 969 + 11 Master = Begerar 980; zakat 13; tabang 36);
+Purple measured (Arabic matched 6,348/6,348 direct; basmalah 114; markers 15; % 0).
+Builder-run Purple sweep (report mode, APPLIED 0): reconciliation 0 + 14 + 0 + 0 = 14, unresolved list empty.
+INDEPENDENT CHECK: PASS WITH FLAGS (separate agent; CHECKER-REPORT-PLW-2026-11-17.md) — sealed censuses all pass on the checker's own counts; 10 flags, all MINOR, none blocking; landed under the Pipeline Landing Authorization (2026-11-14).
+LEXICON: 1,637 of 1,887 template keys grounded in Macdonald's Palawan–Tagalog–English Dictionary
+(SIL Philippines online, CC BY-NC-SA 3.0; fetched whole and banked in the lane, work/base/) plus the NT
+control text; 250 keys ungrounded (disclosed transliteration fallback, 14,444 tokens).
+FLAGS: 10 items in work/flags-plw.txt (Elisa seats; Begerar merge; basmalah composition; names;
+base/register disclosures; two repairs of record; G7 artifacts; counted residue).
+
+FILES (sizes in bytes, sha256):
+MANUSCRIPT: ayah-companion-manuscript-PLW.md — 2,359,627 bytes — sha256 4fec55f6580b9f53c14371653b7b65e3c5f40d379612eb2e54686743b0ccfa6f
+STYLEGUIDE: STYLEGUIDE-PLW.md — 7530 bytes — sha256 2b0fdffedaf64b97b1d579dd6783700d56ddec659c06f87837751c9190ab049d
+GLOSSARY: GLOSSARY-PLW.md — 4198 bytes — sha256 e5b3710f22a3bdffa1e4de73d85b5477dfe9646192bef85c55447fa73ea59bc7
+BUILD-REPORT: BUILD-REPORT-PLW.md — 5254 bytes — sha256 8627de3d1a3a9c1d412cf5d642260257236e7a241d769e5b0245419b4fd80f2e
+PURPLE-REPORT: PURPLE-REPORT-PLW-2026-11-17.md — 12551 bytes — sha256 a3a378250475e891b50019c96cff51f5f0688d4ab5b709c1e30aafaf3992635a
+FLAGS: work/flags-plw.txt — 7296 bytes — sha256 01962e1cce908332b3ee93fef661b63e3eec5b9882e4488fac94be59ee62c953
+VERIFICATION: work/verification-plw.json — 650 bytes — sha256 9ba0f3a7b93b61617df6803f5da2c0963c4e0d9c559eac1bda501cc3695fc1c7
+
+SHELVING: pack prepared at shelving-pack/translations/brookes-point-palawano/ (manuscript + this manifest + notes). NOT pushed — landing centralized after independent check.
