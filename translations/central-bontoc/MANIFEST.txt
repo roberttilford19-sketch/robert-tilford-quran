@@ -49,8 +49,8 @@ work/flags-lbk.txt — 9 named uncertain-seat items plus residue counts, carried
   6,725 bytes
   SHA-256 96b4f49054a172b10ab8c66ef7cedbf07ecb0453cdf359de423487b7eefcda82
 ayah-companion-manuscript-LBK.md
-  2,292,197 bytes
-  SHA-256 f3b394e670de35b21a509f78506f3a90113688ff1ac7a85b0197af5fb927e1ea
+  2,291,634 bytes
+  SHA-256 37ac340b783045885988e0a8ac686909d343ff2ca20a28458c23972e49c883ab
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
