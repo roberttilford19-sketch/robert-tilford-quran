@@ -15,4 +15,4 @@ Pre-shelf independent check: 8 of 8 items PASS, no defect found, 2026-11-12
 
 Files:
   20348105  40a798142d2b655dae78b8c0e4c5974b379caf3b18e3a1f8cb16fb193e2b7d1d  Ayah_Companion_Tilford_Uzbek_Manuscript.pdf (895 pp)
-   2259369  118a9df2d78829d4ce6c75b8b55bfb4fead85eca74d80258c37812ef2212e9cf  ayah-companion-manuscript-UZ.md
+   2258887  43ebfe8fcd7b352973eb393ba0969cc81c88e23a9c49b93126d55a0bf44d7715  ayah-companion-manuscript-UZ.md
