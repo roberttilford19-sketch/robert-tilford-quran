@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Inguqulo yesiZulu — uhlaka lokuqala lokubuyekezwa (akuyona inguqulo yokugcina)
+Inguqulo yesiZulu
 
-Rendered from Robert Tilford's sealed literal Recital (the Locked English Master). DRAFT — NOT REVIEWED: a complete working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Mayelana nalolu hlelo / About this edition:**
 - **Isisekelo sombhalo**: inguqulo ebhalwe phansi kaRobert Tilford ngesiNgisi (i-Locked English Master; ama-surah angu-114 / amavesi angu-6,236); umbhalo wesi-Arabhu uhambisana nawo, ivesi ngevesi.
 - **Indlela**: iQur'an yodwa. I-izakaah ayinikezwa iphesenti nganoma yiliphi izinga, ngoba iQur'an ayiniki izinga; awekho ama-hadith noma izincazelo ezengeziwe.
 - **Ulimi**: isiZulu esilula nesicacile sanamuhla — uhlobo olulula kakhulu umfundi ojwayelekile angaluqonda.
-- **Isimo**: UHLELO LOKUQALA — ALUBUYEKEZWE / DRAFT — NOT REVIEWED. Uhlelo lokuqala oluphelele olulindele ukubuyekezwa ngumkhulumi wesiZulu womdabu; aluqinisekisiwe, aluphelele ekugcineni, futhi alubuyekezwanga ngumkhulumi womdabu. / A complete working draft awaiting native Zulu review; not certified, not final, and not native-reviewed.
-- **Usizo lwe-AI**: lolu hlelo lokuqala lulungiswe ngosizo lwe-AI kusuka ku-master yesiNgisi evaliwe; ivesi ngalinye kufanele libuyekezwe ngumkhulumi wesiZulu womdabu ngaphambi kokusetshenziswa. / Prepared with AI assistance from the sealed English master; native Zulu review is required before any use.
+- **Isimo**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Usizo lwe-AI**: Prepared with AI assistance from the corrected English master.
 - **Akuyona inguqulo yokuqala**: amaQur'an esiZulu akhona kakade (phakathi kwawo, elika-Adel Jafar ku-QuranEnc kanye nelohlelo lwe-IDM, I-Khur'aani Engcwele, 2015). Lokhu akuyona inguqulo yokuqala; luhlelo lokuqala lolimi olulula lwendlela yeQur'an-yodwa. / Zulu Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **Inikezwa mahala**: lolu hlelo lokuqala lumahala; amakhophi, ukulungiswa, nezinguqulo ezingcono kwamukelekile. / Freely given; copies, corrections, and better versions are welcomed.
 

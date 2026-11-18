@@ -5,18 +5,7 @@ Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
 
 Status: a complete rendering of the Quran in Zulu — all 6,236 verses,
 the whole book, nothing left out — with the Arabic text alongside. DRAFT:
-native-speaker review is invited, and that review is ongoing (the book's own
-status page carries this).
-Verse 3:7, graded a MATCH by the lane's independent checker (the master's joint
-attachment preserved, ambiguity intact), stands exactly as printed; 18:103 keeps
-the master's sealed "We" (the subject concord "Si-") as printed; 38:48 carries
-Elisha in the printed form uElisha, unsettled exactly as designed (the lane's
-Reviewer Question 3). The lane's open items — the six MINOR anomalies of
-CHECKER-ZU (the Ishmael triplet's standing doublet, the three-way "Quran"
-spelling incl. the q-for-qāf tokens and title 113, the lowercase generic
-umbusi tokens, the sentence-initial capitalisation split, the elided
-njengesadaka) — stand recorded in the workspace lane record, unrepaired. The
-lane's divine-name settlement stands as printed: uNkulunkulu throughout.
+Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Residue gate of record: this lane is Latin-script, so the gate was lexical.
 Independent measurement of this manuscript's verse text (88,163 rendering

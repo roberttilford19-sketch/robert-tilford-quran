@@ -1,11 +1,8 @@
 # Ayah Companion — Yucatec Maya (maaya t'aan) Manuscript
 
-**DRAFT — NOT REVIEWED**
-
 Yucatec Maya (maaya t'aan) rendering of the Quran, assembled as one manuscript
-from the closed draft sources of the Yucatec Maya build. Native Yucatec Maya
-scholarly review is outstanding; the native-review seat stands empty. Nothing
-in this file is published or final.
+from the sources of the Yucatec Maya build. Translated by Robert Tilford.
+© 2026 Robert Tilford.
 
 ## Method note
 

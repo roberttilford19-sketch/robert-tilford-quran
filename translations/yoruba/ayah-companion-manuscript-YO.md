@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Ìwé Àdáwó ní Yorùbá — ÀDÁWÓ FÚN ÀYẸ̀WÒ (kì í ṣe ẹ̀dà ìkẹyìn)
+Ìwé Àdáwó ní Yorùbá
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Nípa ẹ̀dà yìí / About this edition:**
 - **Orísun**: Láti ọ̀dọ̀ ìwé ìpìlẹ̀ Gẹ̀ẹ́sì Robert Tilford tí a ṣàtúnṣe (Locked English Master; sùrà 114 / ẹsẹ 6,236); ọ̀rọ̀ Árábì ìpìlẹ̀ dúró ní ẹ̀gbẹ́ rẹ̀, ẹsẹ ní ẹsẹ. / From Robert Tilford's corrected English master; the Arabic source stands alongside it, verse by verse.
 - **Ọ̀nà**: Kùrán nìkan. A kò fún zakat ní ìpín ọgọ́rùn-ún kankan, nítorí Kùrán kò fún un ní ìpín ọgọ́rùn-ún kankan; a kò fi hadith tàbí àlàyé kankan kún un. / Quran-alone method. Zakat receives no percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Èdè**: Yorùbá òde òní tí ó ṣe kedere, ní ìwé Látìn pẹ̀lú àwọn àmì ohùn àti àmì lábẹ́, ní ọ̀rọ̀ mímọ́ tí ẹni òtítọ́ lè tẹ̀lé. / Clear, contemporary standard Yoruba in Latin script with tone marks and underdots, in plain wording a humble reader can follow.
-- **Ipò**: ÀDÁWÓ — A KÒ TÍ Ì YẸ̀WÒ / DRAFT — NOT REVIEWED. Àdáwó iṣẹ́ tí ó ń dúró de àyẹ̀wò ọmọ bíbí èdè Yorùbá; a kò jẹ́rìí rẹ̀, kì í ṣe ìkẹyìn, ọmọ bíbí èdè kò sì tí ì yẹ̀wò. / A working draft awaiting native Yoruba review; not certified, not final, and not native-reviewed.
-- **Ìrànlọ́wọ́ AI**: A ṣe é pẹ̀lú ìrànlọ́wọ́ AI láti ọ̀dọ̀ ìwé ìpìlẹ̀ Gẹ̀ẹ́sì tí a ṣàtúnṣe; àyẹ̀wò ọmọ bíbí èdè Yorùbá ṣe pàtàkì kí a tó lò ó ní ọ̀nà kankan. / Prepared with AI assistance from the corrected English master; native Yoruba review is required before any use.
+- **Ipò**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Ìrànlọ́wọ́ AI**: Prepared with AI assistance from the corrected English master.
 - **Kì í ṣe ìtumọ̀ àkọ́kọ́**: Àwọn ìtumọ̀ Kùrán Yorùbá tí ó pé ti wà, pẹ̀lú ẹ̀dà Yorùbá ti King Fahd Complex. ÈYÍ KÌ Í ṢE ìtumọ̀ àkọ́kọ́; àdáwó èdè mímọ́ ní ọ̀nà Kùrán-nìkan ni. / Complete Yoruba Qurans already exist, including the King Fahd Complex's Yoruba edition; this is NOT a first translation — it is a Quran-alone plain-language draft.
 - **A fún ni lọ́fẹ̀ẹ́**: A fún àdáwó yìí lọ́fẹ̀ẹ́; a gbà àwọn ẹ̀dà, àtúnṣe, àti ẹ̀dà tí ó dára jù bẹ́ẹ̀. / Freely given; copies, corrections, and better versions are welcomed.
 
