@@ -20,4 +20,4 @@ The full lane record (build report, verification and checker records, flags)
 stands in the workspace lane folder ~/workspace/ayah-mandar/, unrepaired.
 
 Files:
-  2303945  ab5df0214f1b838d87677ec17990e350cddcb1e0071ba588c484becc2f77b920  ayah-companion-manuscript-MDR.md
+  2303418  5f22d765792325b5adcd80703962944e60f91b0c378d2be49f475769820841f0  ayah-companion-manuscript-MDR.md
