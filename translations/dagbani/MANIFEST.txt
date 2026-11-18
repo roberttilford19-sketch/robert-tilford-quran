@@ -20,4 +20,4 @@ The full lane record (build report, verification and checker records, flags)
 stands in the workspace lane folder ~/workspace/ayah-dagbani/, unrepaired.
 
 Files:
-  2204124  d2ec73395d9cb1d6844a5abb9aa5e0e32d04be9e4a3341f59706271975232d6b  ayah-companion-manuscript-DG.md
+  2203644  13080233784edf5556897679fb39ac9b37a8ac8cea3687bdf1d758f4612e1ff5  ayah-companion-manuscript-DG.md
