@@ -18900,7 +18900,7 @@ kmo ikow di’ sarat impurity, purify muyu. Kmo ikow ill, or darak, or satu ikow
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Whil ino nay persayo, bio gkot pio, bio persayo di’ nu isud dllu’ nong muhammad — bio rumo bnnor sakko miro Tuhan — rumo remits miro sins, bio relieves miro konserns.
+**47:2** Whil ino nay persayo, bio gkot pio, bio persayo di’ nu isud dllu’ nong Muhammad — bio rumo bnnor sakko miro Tuhan — rumo remits miro sins, bio relieves miro konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
