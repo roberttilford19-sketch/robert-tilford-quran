@@ -57,7 +57,7 @@ work/flags-yli.txt — 12 named uncertain-seat items plus residue counts, carrie
   SHA-256 090cbc7ad97085077803bb1a44ac9fe61cdace66385cb013c809327991c1ed93
 ayah-companion-manuscript-YLI.md
   2,206,923 bytes
-  SHA-256 a76e183f4a6ad04a7bec3d4e90f4910bff1853fcfcf1ffed26ace2ddd0b67cf7
+  SHA-256 4926eced4bddb0195a6f062c34c73ca2ec4c0282bb7123941013fce86e4d2d02
 ayah-companion-aligned-YLI.json (aligned array: chapter/verse/en/target/ar)
   3,323,796 bytes
   SHA-256 dc43d3e936f6b6eb96d2ff9824f57adfef27bdaa9dd47b61995881e923620d37
