@@ -1,0 +1,88 @@
+AYAH COMPANION — KÂTE (KMG) — SHELVING MANIFEST
+==============================================
+
+ITEM
+  The Ayah Companion (Quran) in Kâte — complete rendering of the
+  114 surahs / 6,236 verses from the Locked English Master, with
+  the Arabic source text standing alongside, verse by verse.
+
+AUTHOR AND STATUS
+  Translated by Robert Tilford. © 2026 Robert Tilford.
+  Prepared with AI assistance, labelled as such inside the book.
+  Finished-work status is carried inside the book's front matter.
+
+COMPLETENESS
+  114 of 114 surah headers, in order. 6,236 of 6,236 verses:
+  first 1:1, last 114:6. Canonical verifier PASS (work/
+  verification-kmg.json). Lane checker: 0 problems (God 2,732;
+  god+gods 114 jointly; Lord+Master 980; zakat 13; sadaqa 36;
+  Elisha exactly 2 seats).
+
+TEXT RULE
+  Quran-alone method. Terms defined by the Quran itself. Zakat
+  carries no percentage anywhere in the book (percent signs: 0).
+
+SCRIPT
+  Latin, in the practical orthography of the Kâte Bible portions
+  (1978): š, ŋ, ɋ, and the circumflex vowels â ê î ô û. The
+  dictionary's ezh glyph is normalized to the Bible's š
+  (disclosed).
+
+CLAIM BOUNDARY
+  No first-translation claim is made. Standing wording: none
+  found after research (New Guinea wave scout, 2026-11-17).
+
+FILES
+  ayah-companion-manuscript-KMG.md — 2252890 bytes — sha256 53d3552ab50514fdd405f5e61206748124721b421e0898bed53ed5e253c5eff9
+  ayah-companion-aligned-KMG.json — 3370344 bytes — sha256 e52d40c2207c0f3ef36090025310a1740001708a7b4e07ade50f21170f93c06f
+  (aligned JSON: 6,236 objects, chapter/verse/en/target/ar)
+  (File table corrected 2026-11-18 after the seat fix recorded
+  in REBUILD-NOTE-KMG-2026-11-18.md; the original build's table
+  read 2252604 bytes / 8dfa0b6e… and 3370058 bytes / 2f3320e6….)
+
+VERIFICATION
+  Locked master MD5 verified before building:
+  064ee170806bb31f5bac3e75d2aa4d94. Arabic identical to the
+  master on the structural-position method (6,462 runs).
+  Purple sweep reconciled: PURPLE-REPORT-KMG-2026-11-18.md.
+
+SOURCE
+  English master: Robert Tilford's corrected Ayah Companion
+  manuscript (locked). Lexicon: Flierl & Strauss, Kâte
+  Dictionary, Pacific Linguistics C-41 (1977; online edition
+  CC BY-SA 4.0), banked whole; Pilhofer, Vocabulary of the Kate
+  Language (1953), read in full via the ANU bitstream text (the
+  binary itself could not be banked — see BASE-NOTES); Kâte New
+  Testament portions (© 1978 BSPNG, CC BY-NC-ND 4.0), banked
+  whole. THINNER-BASE CAVEAT: the Pilhofer base is a vocabulary,
+  not a full dictionary, and the Scripture control is portions
+  only; both limits are stated inside the book.
+
+NOTES CARRIED TO THE CHECKER
+  god and gods share one word (nemu) on the control's own
+  practice; the census is joint (114 = 79 + 35). The control has
+  no Tetragrammaton form; Wofuŋ carries the Lord seats, and the
+  11 counted Master tokens merge into it (disclosed). Elisha
+  (Elisa) stands at 6:86 and 38:48 exactly; Elijah (Elia) is a
+  different spelling and a different seat. 18:103 keeps its
+  plural. Transliteration residue: 49,574 of 137,381 target verse
+  tokens (36.1%), disclosed in the build report. Fourteen flags,
+  six MATERIAL: work/flags-kmg.txt.
+
+GROUNDING FRAME (corrected pre-landing, 2026-11-18)
+  519 grounded of 1,887 template keys + 3 empty article keys + 6
+  seat keys outside the template; bridge 528 entries (273
+  index-bbox + 112 index-layout + 137 hand + 3 aligned + 3
+  empty); 1,365 ungrounded. The frame's numbers are unchanged by
+  the fix; the basis of three hand seats changed: hell halae →
+  hârâc, behind lapeo → râpeo, near bembenko → bembeŋko, all
+  three now grounded in the banked PL-C41 dictionary and the
+  banked portions control instead of Pilhofer-only quotations
+  the checker could not re-derive from banked files. Full record:
+  ADDENDUM-KMG-2026-11-18.md §4 and
+  REBUILD-NOTE-KMG-2026-11-18.md.
+
+Independent checker: PASS WITH FLAGS (CHECKER-REPORT-KMG.md,
+2026-11-18). The lane was held for the bounded fix recorded in
+REBUILD-NOTE-KMG-2026-11-18.md; the fix is executed and an
+independent re-check is pending. No landing is claimed.
