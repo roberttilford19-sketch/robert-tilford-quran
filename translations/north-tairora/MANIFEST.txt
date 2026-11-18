@@ -1,0 +1,113 @@
+AYAH COMPANION — NORTH TAIRORA RENDERING
+MANIFEST — lane record, 2026-11-18
+
+ITEM
+Ayah Companion, North Tairora (tbg) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the New Guinea wave, Wave 2 (Road to 1,000),
+under Robert's Advance Rule of 2026-11-14 and his snowplow
+doctrine for the wave. Scout verification: batch B08, item 6
+(BUILDABLE NOW, VERIFIED).
+
+STATUS
+FINISHED WORK. The status line stands inside the manuscript
+itself, in its YAML provenance header, with AI assistance
+labelled. SHELVING: staged in this lane's shelving pack only.
+The landing is centralized after the independent check; this
+lane does not push.
+Translated by Robert Tilford. © 2026 Robert Tilford.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic. The aligned array
+(ayah-companion-aligned-TBG.json) carries 6,236 objects.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462
+Arabic runs, verified identical to the master and to the
+extraction meta by the amended verify.py's structural-position
+method).
+
+SCRIPT
+Latin orthography — the orthography of Vincent's Tairora-English
+Dictionary (2010) and of the North Tairora New Testament.
+
+LANGUAGE FENCE
+North Tairora (tbg) is a distinct language from South Tairora
+(omw). This rendering is built only from North Tairora sources;
+no South Tairora source was used for any word, form, or name.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: none
+found after research (New Guinea wave scout, 2026-11-17).
+
+FILES
+GLOSSARY-TBG.md
+  15,978 bytes
+  SHA-256 d7253caa657f5ec9a75103afb6d820acbdc75f6736e2a9477b8cb9a9c9899635
+STYLEGUIDE-TBG.md (the lane's binding building law, settled before building)
+  3,162 bytes
+  SHA-256 4cd48e3c9c88ebde0ec98294d81bd7ada8ac7c3800ffff35d8654b09235fe31d
+BUILD-REPORT-TBG.md
+  4,915 bytes
+  SHA-256 9d94b84da301faea73dfd42e95b3f4aaedcc529a2832d33c06c172b6e56b8616
+PURPLE-REPORT-TBG-2026-11-18.md
+  2,059 bytes
+  SHA-256 17c6250f56b88b4a21dae5206fc57829a97bf48b38f686a8701233009230a0c8
+work/verification-tbg.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-tbg.txt — 15 named judgment-call items plus sealed seats.
+  6,987 bytes
+  SHA-256 83cd9e44cc9deb8620ceb3d44e0d472017d1488bcc2e0e5e13d83288c1409ede
+ayah-companion-manuscript-TBG.md
+  2,305,235 bytes
+  SHA-256 93ae2946ed59046a72b5d61ad3e7479efd7e9844c8daff3e36f0b698361b1b0e
+ayah-companion-aligned-TBG.json
+  3,421,607 bytes
+  SHA-256 8d113ef9facc5beb27bea92d4d58fdfd8ed435296de0e16e88938e8a8ed9bc66
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-18 on the final bytes: PASS true. Headers 114, head
+order true, verses 6,236, counts match meta true, continuity
+true, Arabic runs 6,462 identical to master and to meta,
+missing tags 0, prostration markers 15 match, note 56 present,
+slice verse lines 6,236, slice ref mismatches 0, slice paragraph
+mismatches 0, percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_tbg.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Koti 2,732
+(= God 2,732); variqa 79 (= god 79); variqanavu 35 (= gods 35);
+Norava 980 (= Lord 969 + the 11 counted Master tokens);
+zakat at exactly the 13 keyed slots; kahaqi at exactly the 36
+keyed tokens (2:272 x3; 58:13 x2).
+Purple measurements (work/purple-measurements-tbg.json): Arabic
+matched 6,348 of 6,348 on the Purple basis; basmalah 114;
+markers 11 + 4; TOC 114, no mismatches; percent 0; note 56
+present; G7 residue 6,713 named in the Purple report.
+Whole-file reconciliation: Koti 2,860 = per-verse 2,732 + 112
+basmalah frames + 16 surah-introduction tokens; Norava 992 =
+per-verse 980 + 12 surah-introduction tokens; the other four
+keyed counts are identical on both bases.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+Lexical bases (disclosed in work/base/BASE-NOTES.md): Vincent,
+Tairora-English Dictionary (Wycliffe PNG 2010; five component
+PDFs fetched from the Wayback Machine's captures of SIL's own
+file URLs, oai:sil.org:52860) — finder list and main section;
+the North Tairora Scripture control (Kotira Uva, NT + OT
+portions, eBible USFM) for keyed terms, name forms, and the
+screened alignment channel. Grounded: 686 of 1,887 template
+keys in the final lexicon (finder 426; main section 193; hand 61;
+control-aligned 3; empty 3), plus 1 attested extra (beneficent)
+= 687 lexicon entries. The bridge record carries hand 62; the one
+bridge key not carried into the final lexicon is wash, which
+falls to the disclosed transliteration fallback (checker W1;
+see ADDENDUM-TBG-2026-11-18.md).
