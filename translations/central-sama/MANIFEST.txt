@@ -57,8 +57,8 @@ work/flags-sml.txt — 8 named uncertain-seat items plus residue counts, carried
   3,033 bytes
   SHA-256 02128d8f26c3f755ba5f677ef0485c73271fc087ba698db86c1a516d391b9577
 ayah-companion-manuscript-SML.md
-  2,341,618 bytes
-  SHA-256 a815f67a9ae8133f11523fe063762ec0bedab1b0f278dbb1e7f333cac7180d96
+  2,341,084 bytes
+  SHA-256 a693ff9b2594caeccd59a862b7ff2347b4a3bef0a7599363f2334664d280d9ac
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
