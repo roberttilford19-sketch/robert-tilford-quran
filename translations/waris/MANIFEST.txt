@@ -1,0 +1,114 @@
+AYAH COMPANION — WARIS RENDERING
+MANIFEST — lane record, 2026-11-18
+
+ITEM
+Ayah Companion, Waris (wrs) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the New Guinea wave (Road to 1,000), Wave 2
+(Phase-1 verification batch B05, Top Candidates #6), under
+Robert's Advance Rule of 2026-11-14 and his snowplow
+doctrine for the wave.
+
+STATUS
+The status line stands inside the manuscript itself, on its
+face: FINISHED WORK, with AI assistance labelled. SHELVING:
+staged in this lane's shelving pack only. The landing is
+centralized after the independent check; this lane does not
+push. Translated by Robert Tilford. © 2026 Robert Tilford.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last
+114:6. Completeness is structural: every verse of the
+master is present, in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering
+(6,462 Arabic runs, verified identical to the master and to
+the extraction meta by the amended verify.py's
+structural-position method).
+
+SCRIPT
+Latin orthography — the modern Waris orthography of the
+Waris Bible (Bible Society of Papua New Guinea), unaccented;
+the dictionary's acute stress accents are not written.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in
+this manifest or in any lane document. The standing wording
+is: none found after research (New Guinea wave scout,
+2026-11-17).
+
+FILES
+GLOSSARY-WRS.md
+  3,284 bytes
+  SHA-256 46759b2c6836874dc384f728c818ad69797c6da967230663361f06ff1e702f21
+STYLEGUIDE-WRS.md (the lane's binding drafting law, settled before drafting)
+  2,563 bytes
+  SHA-256 b5596074716a511b001dec5ebc84b9d04c7e69836d30a05030b690083c3a6793
+BUILD-REPORT-WRS.md
+  5,306 bytes
+  SHA-256 09fcee04acaabade2e3dae580f0bb4f8330978902cf4bb229955146e611d295f
+PURPLE-REPORT-WRS-2026-11-18.md
+  1,529 bytes
+  SHA-256 cce74a58fb0aa708fd56c10bda899aabc7002888f41536c182e976b27149d896
+work/verification-wrs.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-wrs.txt — 19 named judgment-call items plus sealed seats.
+  11,602 bytes
+  SHA-256 eca42e03ff86bf87c2fdf903667637caa0f59bb06b3839aaf867374adac26bbf
+ayah-companion-manuscript-WRS.md
+  2,251,730 bytes
+  SHA-256 8d2e32c916b03cee548d48799fb6fe7a7e62e5f7b2cb98f888b2bf944eff0144
+ayah-companion-aligned-WRS.json
+  3,369,144 bytes
+  SHA-256 5b0d39c59630fc7ea34db0455ba9174cb1d3eacb728efb17dd8eab260af9a111
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py),
+run 2026-11-18 on the final bytes: PASS true. Headers 114,
+head order true, verses 6,236, counts match meta true,
+continuity true, Arabic runs 6,462 identical to master and
+to meta, missing tags 0, prostration markers 15 match,
+note 56 present, slice verse lines 6,236, slice ref
+mismatches 0, slice paragraph mismatches 0, percent signs
+0 in slices and in the manuscript.
+Lane checker (work/check_wrs.py) over all 114 surahs:
+problems 0. Per-verse census equality in all 6,236 verses
+— Sesoa 2,732 (= God 2,732); sesoa 79 (= god 79); sesoa
+mindnam 35 (= gods 35); mendekli 980 (= Lord 969 + the 11
+counted Master tokens); zakat at exactly the 13 keyed
+slots; kolvrowol at exactly the 36 keyed tokens.
+Purple measurements (work/purple-measurements-wrs.json):
+Arabic matched 6,348 of 6,348; basmalah 114; markers 15;
+TOC 114, no mismatches; percent 0; note 56 present.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye).
+Extraction: 114 surahs, 6,236 verses, 6,462 Arabic runs,
+112 basmalah frames, 15 markers; refs equal to master.
+Lexical bases (two disclosed sources): Brown & Wai,
+Diksenari Walsana (SIL 1986/2007, archives record 31212),
+banked from the Wayback Machine's captures of SIL's own
+file URLs after the live URLs answered with a Cloudflare
+challenge — the A5 PDF (834,061 B) and the Toolbox lexicon
+(1,640 entries parsed, plus the dictionary's English finder
+index); the Waris Bible (Sesoana Besal Nemelmoa Walsana
+Moana, eBible.org USFM) as Scripture control. Total
+grounded: 216 of 1,887 template keys (dictionary-exact 89,
+finder 56, hand 70, empty 1, control-aligned 0 after
+screening), plus 1 attested extra key (beneficent). The
+thinness of the base is on the record in BASE-NOTES and in
+the flags; nothing was padded.
+
+NOTES CARRIED FORWARD
+The Elaisa/Elaita pair (flags item 7) stands on the
+control's own attested forms, kept distinct; the God-word
+Sesoa is dictionary- and Bible-attested; the Lord-word
+mendekli was settled from the control's own running usage
+with counts (Yawe 94 exact tokens in Genesis, not taken;
+mendekli 634 exact across the control); the gods
+composition, the sesoa case convention, the songol stem
+seat, and the screening refusal list ride in the flags.
