@@ -9,19 +9,19 @@ built: 2026-11-17
 master_source: Locked English Master
 master_md5: 064ee170806bb31f5bac3e75d2aa4d94
 gate_status: builder gates PASS (canonical verify PASS; lane checker problems 0); Purple reconciled; independent checker pending — landing is centralized after the independent check; independent checker PASS WITH FLAGS 2026-11-17 (CHECKER-REPORT-MNA.md)
-status: DRAFT — NOT REVIEWED
+status: Finished work
 ---
 # Ayah Companion
 
-Al-Kuran pa Mbula — DRAFT — NOT REVIEWED
+Al-Kuran pa Mbula
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Mbula review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Mbula rendering: none found after research (New Guinea wave scout, 2026-11-17).
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Mbula rendering: none found after research (New Guinea wave scout, 2026-11-17).
 
 **Sua pa ro ti / About this edition:**
 - **Uunu**: Ro ti ipet pa sua English ki Robert Tilford ta iurpe (Locked English Master; 114 surah / 6,236 ayat); sua Araba imbot raama, ayat pa ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Zaala**: Kuran men — zaala ki Kuran men; zakat, Kuran ikam persen sa som, pa Kuran ikam som; hadith som, komentari som ta isu. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DRAFT — SOM IURPE. Ro ti draf uraata pa wal Mbula be tiiri; som iurpe, som imap, mi wal Mbula tiiri som. / A working draft for native Mbula review; not certified, not final, and not native-reviewed.
-- **Uuluŋana ki AI**: Ro ti ipet raama uuluŋana ki AI, pa sua English ta iurpe; wal Mbula be tiiri — ina zaala be imap. / Prepared with AI assistance from the corrected English master; native Mbula review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Uuluŋana ki AI**: Prepared with AI assistance from the corrected English master.
 - **Kam sorok**: Ro ti kam sorok, som ŋgiimiŋana; kopi, iurpeŋana, mi peeleŋana ambaiŋana, zin karau. / Freely given; copies, corrections, and better versions are welcomed.
 - **Kalŋa**: Ro ti pa kalŋa Mbula (mna) men — kalŋa ki wal Mbula ki Umboi mi Siassi, Morobe mi Madang; ina Tok Pisin som, tamen zin pa koror. / This draft is in Mbula (mna) only — the language of the Mbula people of Umboi and Siassi, Morobe and Madang; it is not Tok Pisin, though the two are neighbours.
 

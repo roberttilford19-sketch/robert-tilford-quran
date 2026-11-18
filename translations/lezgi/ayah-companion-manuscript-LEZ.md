@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Къуръан Лезги чӀалал — Мусавада (мурожаат авунвачир)
+Къуръан Лезги чӀалал
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Lezgi review; not for publication or distribution as a finished translation. This draft makes no claim about other Lezgi renderings of the Quran and no first-translation claim.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no claim about other Lezgi renderings of the Quran and no first-translation claim.
 
 **Лезги мусавада гьакъинда / About this edition:**
 - **Сад я**: Robert Tilford инглис мусавададикай (Locked English Master; 114 сура / 6,236 аят) лезги чӀалал мусавада авунва; араб чӀалан Къуръан аят кӀвалахъ гваз акъвазнава. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Дин рекь**: Къуръан тек — Къуръанан гафар чпиз мана гузва; закат са процентини авайди туш, Къуръана процент гайиди туш; гьадисни, тафсирни кутунвач. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Кхьин**: И мусавада лезги чӀалан Кириллица кхьинрал кхьенва (Дагъустандин кхьин); лезги чӀал Азербайжанда Латин кхьинрални кхьизва, стильгайдда кхьенва. / This draft is written in the Cyrillic script of Lezgi (the Dagestan orthography); Lezgi is also written in Latin script in Azerbaijan, as recorded in the styleguide.
-- **Мусавада — мурожаат авунвачир / DRAFT — NOT REVIEWED**: И мусавада лезги чӀал чир тир инсанри мурожаат авун герек я; ам тамам тирди яз гьисаб жедач, мурожаат кьванни ишлемиш жедач. / This draft awaits review by native Lezgi speakers; it is not certified and must not be used until that review has happened.
-- **AI куьмек**: Инглис мусавададикай, AI куьмек алаз мусавада авунва; лезги мурожаат герек я. / Prepared with AI assistance from the corrected English master; native Lezgi review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI куьмек**: Prepared with AI assistance from the corrected English master.
 - **Сифте кхьин туш лагьай гаф авач**: И мусавада Къуръан лезги чӀалал садлагьай кхьин я лагьай гаф лугьузвач, маса лезги кхьинрикайни са гафни лугьузвач; ам мурожаат патал мусавада я. / This draft makes no claim to be the first rendering of the Quran into Lezgi, and no claim about other Lezgi renderings; it is a draft offered for review.
 - **Багъиш**: И мусавада багъиш авунва; копия, дуьз авун, хъсан вариант кӀан я. / Freely given; copies, corrections, and better versions are welcomed.
 

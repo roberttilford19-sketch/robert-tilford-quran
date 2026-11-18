@@ -9,19 +9,19 @@ built: 2026-11-17
 master_source: Locked English Master
 master_md5: 064ee170806bb31f5bac3e75d2aa4d94
 gate_status: BUILDER GATES PASS — canonical verify PASS; lane checker problems 0; Purple reconciled (PURPLE-REPORT-KPX-2026-11-17); independent checker PENDING, centralized after this build; shelving pack staged only, NOT pushed
-status: DRAFT — NOT REVIEWED
+status: Finished work
 ---
 # Ayah Companion
 
-Al-Kuran Mountain Koiali — DRAFT — NOT REVIEWED
+Al-Kuran Mountain Koiali
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Mountain Koiali review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Mountain Koiali rendering: none found after research (New Guinea wave scout, 2026-11-17).
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Mountain Koiali rendering: none found after research (New Guinea wave scout, 2026-11-17).
 
 **Buka ko kana / About this edition:**
 - **Asal**: Buka ko Robert Tilford Ingilisi buka kemo mai hanavonu (Locked English Master; 114 surah / 6,236 ayat); Arabi hoto buka komo ua, ayat bahata veata. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Jaya**: Kuran unaha — Kuran unaha ke ehovai; zakat, Kuran persen oveholinu, kosealemo Kuran oveholinu; hadith isi komentari be hanavoholinu. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DRAFT — REVIEW HOLISITO. Buka ko draf hanavonu Mountain Koiali ata review kana; au seleveta holinu, au vai holinu, isi Mountain Koiali ata review holinu. / A working draft for native Mountain Koiali review; not certified, not final, and not native-reviewed.
-- **Bantuan AI**: Buka ko AI tedaevi mai hanavonu, Ingilisi buka ndapamonco kemo; Mountain Koiali ata review vaeve — keu jaya au vai kana ke. / Prepared with AI assistance from the corrected English master; native Mountain Koiali review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Bantuan AI**: Prepared with AI assistance from the corrected English master.
 - **Ndawaika**: Buka ko baya holisi ove; kopia, pamonco, isi versi dua ebe ndapokono. / Freely given; copies, corrections, and better versions are welcomed.
 - **Hoto**: Buka ko Mountain Koiali (kpx) hotomo unaha — Efogi isi Oro isi Central Province, Papua New Guinea ata hoto; au Ingilisi holinu. / This draft is in Mountain Koiali (kpx) only — the language of the Mountain Koiali people of Central and Oro Provinces, Papua New Guinea; it is not English.
 

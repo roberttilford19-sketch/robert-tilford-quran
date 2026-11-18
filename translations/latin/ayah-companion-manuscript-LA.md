@@ -1,14 +1,14 @@
 # Ayah Companion
 
-Interpretatio Latina — EXEMPLAR RECOGNOSCENDUM (editio non finalis)
+Interpretatio Latina
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for Latinist review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **De hac editione / About this edition:**
 - **Fons**: Ex manuscripto Anglico correcto Roberti Tilford (Locked English Master; 114 surae / 6 236 versus); textus Arabicus iuxta unumquemque versum stat. / From Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source stands alongside it, verse by verse.
 - **Ratio**: Coranus solus. Zakat nullam partem centesimam accipit, quia Coranus nullam dat; nullum hadith, nulla commentaria addita sunt. / Quran-alone method. Zakat receives no percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Lingua**: Latina plana et perspicua, registro classico quantum fieri potest, verbis simplicibus quae lector humilis sequi possit. / Plain, clear Latin in a classical-leaning register, in simple wording a humble reader can follow.
-- **Status**: EXEMPLAR — NON RECOGNITUM / DRAFT — NOT REVIEWED. Exemplar operis recognitionem peritorum linguae Latinae exspectans; non certificatum, non finale, nondum recognitum. / A working draft awaiting review by scholars of Latin; not certified, not final, and not yet reviewed.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
 - **Auxilium AI**: Auxilio intellegentiae artificialis ex manuscripto Anglico correcto praeparatum; recognitio a perito Latinae linguae ante omnem usum requiritur. / Prepared with AI assistance from the corrected English master; review by a qualified Latinist is required before any use.
 - **Non prima interpretatio**: Interpretationes Latinae Corani ab anno 1143 exstant (Robertus Ketenensis). Haec NON est prima interpretatio; exemplar est ratione Corani-solius, verbis planis conscriptum. / Latin translations of the Quran have existed since 1143 (Robert of Ketton). This is NOT a first translation — it is a Quran-alone plain-language draft.
 - **Gratis datum**: Hoc exemplar gratis datur; exemplaria, correctiones et versiones meliores grata accipiuntur. / Freely given; copies, corrections, and better versions are welcomed.

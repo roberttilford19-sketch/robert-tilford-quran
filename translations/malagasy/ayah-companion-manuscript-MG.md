@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Dika Malagasy — DRAFY HOTSARAINA (tsy fanontana farany)
+Dika Malagasy
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Momba ity fanontana ity / About this edition:**
 - **Loharano**: Avy amin'ny sora-tanana fototra anglisy efa nahitsin'i Robert Tilford (Locked English Master; 114 soratra / 6 236 andininy); ny lahatsoratra arabo loharano dia mijoro eo anilany, andininy isan'andininy. / From Robert Tilford's corrected English master; the Arabic source stands alongside it, verse by verse.
 - **Fomba**: Korany irery ihany. Ny zakat dia tsy omena isan-jato na oviana na oviana, satria ny Korany dia tsy manome isan-jato; tsy misy hadita na fanazavana nampiana. / Quran-alone method. Zakat receives no percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Fiteny**: Malagasy ankehitriny mazava sy tsotra — amin'ny soratra latina — amin'ny teny tsotra azon'ny mpamaky tsotra arahina. / Clear, contemporary standard Malagasy in Latin script, in plain wording a humble reader can follow.
-- **Toe-javatra**: DRAFY — TSY MBOLA NOTSARAINA / DRAFT — NOT REVIEWED. Drafy fiasana miandry fitsarana ataon'ny teratany malagasy; tsy voamarina, tsy farany, ary tsy mbola notsarain'ny teratany. / A working draft awaiting native Malagasy review; not certified, not final, and not native-reviewed.
-- **Fanampiana AI**: Nomanina niaraka tamin'ny fanampian'ny AI avy amin'ny sora-tanana fototra anglisy efa nahitsy; ilaina ny fitsaran'ny teratany malagasy alohan'ny hampiasana azy na oviana na oviana. / Prepared with AI assistance from the corrected English master; native Malagasy review is required before any use.
+- **Toe-javatra**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Fanampiana AI**: Prepared with AI assistance from the corrected English master.
 - **Tsy dika voalohany**: Efa misy dika korany malagasy feno, anisan'izany ny fanontana malagasy avy amin'ny King's Complex. TSY dika voalohany ity; drafy amin'ny teny tsotra araka ny fomba korany-irery izy ity. / Complete Malagasy Qurans already exist, including the king's-complex Malagasy edition; this is NOT a first translation — it is a Quran-alone plain-language draft.
 - **Omena maimaimpoana**: Omena maimaimpoana ity drafy ity; raisina an-tanan-droa ny kopia, ny fanitsiana ary ny dika tsaratsara kokoa. / Freely given; copies, corrections, and better versions are welcomed.
 

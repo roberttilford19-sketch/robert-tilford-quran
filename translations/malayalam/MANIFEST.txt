@@ -7,12 +7,7 @@ Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
 
 Status: a complete rendering of the Quran in Malayalam — all 6,236 verses, the
 whole book, nothing left out — with the Arabic text alongside. DRAFT: native-speaker
-review is invited, and that review is ongoing (the book's own status page carries
-this).
-Verse 3:7, graded a MATCH by the lane's independent checker (the master's joint
-attachment preserved), stands exactly as printed; 18:103 keeps the master's sealed
-"We" ("ഞങ്ങൾ") as printed. The lane's open questions stand recorded in the
-workspace lane record, unrepaired.
+Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Residue gate of record: independent measurement of this manuscript's verse text
 found 0 Latin/English tokens in 6,236 of 6,236 verses (323,031 rendering tokens,

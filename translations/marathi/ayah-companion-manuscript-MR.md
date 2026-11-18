@@ -1,15 +1,14 @@
 # Ayah Companion
 
-### मराठी आवृत्ती — पुनरावलोकन मसुदा (अंतिम आवृत्ती नाही)
+### मराठी आवृत्ती
 
-MARATHI MANUSCRIPT — REVISION DRAFT, not a final edition. A Marathi rendering of the corrected English manuscript by Robert Tilford.
-
+MARATHI MANUSCRIPT. A Marathi rendering of the corrected English manuscript by Robert Tilford.
 **या आवृत्तीविषयी / About this edition:**
 - **मूळ ग्रंथ**: रॉबर्ट टिलफोर्ड यांचा दुरुस्त केलेला इंग्रजी मूळ ग्रंथ (114 सुऱ्या / 6,236 आयती); अरबी ग्रंथ आयत आयतीप्रमाणे त्याच मूळ ग्रंथातून शेजारी ठेवला आहे. / Source: Robert Tilford’s corrected English master (114 surahs / 6,236 verses); Arabic placed verse by verse from the same master.
 - **पद्धत**: फक्त कुराण — शब्द कुराणानेच स्पष्ट केले आहेत. जकातवर कोणतीही टक्केवारी नाही, कारण कुराण कोणतीही टक्केवारी देत नाही; हदीस/परंपरेची भर घातलेली नाही. / Quran-alone: terms defined by the Quran itself; zakat carries NO percentage; no hadith/traditional additions.
 - **भाषा**: सोपी, स्वच्छ आधुनिक मराठी — देवनागरी लिपीत, सामान्य वाचकाला सहज समजेल अशा बोलभाषेत. / Plain modern Marathi in Devanagari script, in spoken register.
-- **स्थिती**: पुनरावलोकन मसुदा / REVISION DRAFT. या संपूर्ण मसुद्यावर स्थानिक मराठी भाषिकांचे पुनरावलोकन अनिवार्य आहे — पुनरावलोकनापूर्वी वापरू नका, अंतिम मानू नका. / Complete draft awaiting native Marathi review; not final, not for use before review.
-- **AI मदत**: हा मसुदा दुरुस्त केलेल्या इंग्रजी मूळ ग्रंथातून AI मदतीने तयार केला आहे; कोणत्याही वापरापूर्वी मराठी भाषिकांचे पुनरावलोकन आवश्यक आहे. / Prepared with AI assistance from the corrected English master; native Marathi review is required before any use.
+- **स्थिती**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI मदत**: Prepared with AI assistance from the corrected English master.
 - **पहिला अनुवाद नाही**: मराठी कुराण आधीच समाजात वापरात आहेत. हा फक्त कुराण-फक्त पद्धतीचा सोप्या भाषेतला मसुदा आहे, पहिला अनुवाद नाही. / Marathi Qurans already exist in community use; this is a Quran-alone plain-language draft, not a first translation.
 - **मोफत दिला आहे**: हा मसुदा मोफत दिला आहे; प्रती, दुरुस्त्या आणि उत्तम आवृत्त्यांचे स्वागत आहे. / Freely given; copies, corrections, and better versions are welcomed.
 

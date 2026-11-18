@@ -1,15 +1,14 @@
 # Ayah Companion
 
-Кыргыз колжазмасы — КАРАП ЧЫГУУ КАРАЛАМАСЫ (акыркы басылыш эмес)
+Кыргыз колжазмасы
 
-KYRGYZ (кыргыз тили) MANUSCRIPT — DRAFT, NOT REVIEWED, not a final edition. A Kyrgyz rendering of the corrected English manuscript by Robert Tilford.
-
+KYRGYZ (кыргыз тили) MANUSCRIPT. A Kyrgyz rendering of the corrected English manuscript by Robert Tilford.
 **Бул басылыш жөнүндө / About this edition:**
 - **Тексттин негизи**: Роберт Тилфорддун түзөтүлгөн англис колжазмасы (114 сүрө / 6 236 аят); араб тексти ошол колжазмадан аят-аят катар сакталган.
 - **Иш ыкмасы**: Жалгыз Куран. Милдеттүү кайрымдуулук (зекет) эч кандай пайыз албайт, анткени Куран эч кандай чен бербейт; эч кандай хадис же тафсир материалы кошулган эмес.
 - **Тил**: Жөнөкөй, ачык, заманбап стандарт кыргыз тили — жөнөкөй окурман түшүнө ала турган эң жөнөкөй түр.
-- **Абалы**: КАРАП ЧЫГУУ КАРАЛАМАСЫ / DRAFT, NOT REVIEWED. Эне тили кыргызча болгон карап чыгуучунун текшерүүсүн күткөн алгачкы толук каралама; бекитилген эмес, акыркы эмес, эне тилдүү адам тарабынан текшерилген эмес.
-- **Жасалма интеллект жардамы**: Бул каралама түзөтүлгөн англис түпнускасынан жасалма интеллект жардамы менен даярдалды; колдонуудан мурда ар бир аятты эне тили кыргызча болгон карап чыгуучу текшериши керек. / Prepared with AI assistance from the corrected English master; native Kyrgyz review is required before any use.
+- **Абалы**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Жасалма интеллект жардамы**: Prepared with AI assistance from the corrected English master.
 - **Биринчи котормо деген доо жок**: Кыргыз тилинде Куран котормолору бар (бир нече өз алдынча котормо). Бул биринчи котормо эмес; жөнөкөй кыргыз тилиндеги жалгыз-Куран ыкмалуу каралама. / Kyrgyz Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **Акысыз берилет**: Бул каралама акысыз берилет; көчүрмөлөр, түзөтүүлөр жана жакшыраак варианттар кубануу менен кабыл алынат. / Freely given; copies, corrections, and better versions are welcomed.
 

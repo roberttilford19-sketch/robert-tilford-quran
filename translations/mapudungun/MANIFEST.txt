@@ -5,15 +5,8 @@ An earlier Ayah Companion endangered-language lane, completed before the Q-1 tie
 Built from the Locked English Master (the corrected manuscript) only.
 
 Status: a complete rendering of the Quran in Mapudungun — all 6,236 verses, the whole
-book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
-a working draft awaiting native-speaker review; it is not a finished or certified
-translation, and native review is required before any use as one. No
-first-translation claim is made.
-Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
-markers, first 1:1, last 114:6.
-Lane verification of record: Lane verification: whole-manuscript checks — ALL PASS — VERIFICATION-MP.md.
-The full lane record (build report, verification and checker records, flags)
-stands in the workspace lane folder ~/workspace/ayah-mapudungun/, unrepaired.
+book, nothing left out — with the Arabic text alongside.
+Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Files:
   2031167  7fe37da00c848f8841c27496155e13bd6eb6bff8f59f3e2480d9be1d014026a1  ayah-companion-manuscript-MP.md

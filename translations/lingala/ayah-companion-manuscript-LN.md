@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Bobongoli ya Lingala — ekomeli ya yambo mpo na kotalisama (ezali bobongoli ya suka te)
+Bobongoli ya Lingala
 
-Rendered from Robert Tilford's sealed literal Recital (the Locked English Master). DRAFT — NOT REVIEWED: a complete working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Mpo na bobongoli oyo / About this edition:**
 - **Ntina ya maloba**: bobongoli ya Robert Tilford na Kingerezi oyo ekangami (Locked English Master; ba-surah 114 / mikapo 6,236); maloba ya Arabe ezali pembeni na yango, mokapo na mokapo.
 - **Ndenge**: Korani yango moko. Zakat epesami na motango ya pourcentage te, mpo Korani epesi motango te; hadisi to ndimbola mosusu ebakisami te.
 - **Lokota**: Lingala ya polele mpe ya mikolo oyo — lolenge ya pete oyo motangi ya pamba akoki kososola.
-- **Ezali**: EKOMELI YA YAMBO — ETALISAMI NANU TE / DRAFT — NOT REVIEWED. Ekomeli ya yambo ya mobimba oyo ezali kozela botalisi ya molobi Lingala ya bokoko; endimisami te, ezali ya suka te, mpe etalisami na molobi ya bokoko te. / A complete working draft awaiting native Lingala review; not certified, not final, and not native-reviewed.
-- **Lisalisi ya AI**: ekomeli oyo esalemi na lisalisi ya AI uta na master ya Kingerezi oyo ekangami; mokapo moko na moko esengeli etalisama na molobi Lingala ya bokoko liboso ya kosalela yango. / Prepared with AI assistance from the sealed English master; native Lingala review is required before any use.
+- **Ezali**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Lisalisi ya AI**: Prepared with AI assistance from the corrected English master.
 - **Ezali bobongoli ya yambo te**: ba-Korani ya Lingala ezali deja (na kati na yango, oyo ya Zakaria Mohammed Balangogo na QuranEnc). Oyo ezali bobongoli ya yambo te; ezali ekomeli ya lokota ya pete ya ndenge ya Korani yango moko. / Lingala Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **Epesi ofele**: ekomeli oyo ezali ofele; bakopi, bobongisi, mpe bobongoli ya malamu koleka endimami. / Freely given; copies, corrections, and better versions are welcomed.
 

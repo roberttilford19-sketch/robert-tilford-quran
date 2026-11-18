@@ -1,14 +1,14 @@
 # Ayah Companion
 
-Al-Quran bang Buri' Lun Bawang — DRAF
+Al-Quran bang Buri' Lun Bawang
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Lun Bawang review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Lun Bawang rendering: none found after research.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Lun Bawang rendering: none found after research.
 
 **Pasal surat inih / About this edition:**
 - **Asal**: Surat inih inau' ratnan surat Inggeris Robert Tilford luk pangeh ningeru' (Locked English Master; 114 surah / 6,236 ayat); teks Arab mulun bang sebulengneh, ayat demi ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Kaedah**: Quran saja — Quran saja luk ditaati; zakat, Quran inda' memberi persen, sebab Quran inda' memberi; tiada hadith atau tafsir ditambah. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DRAF — INDA' GI' NIREVIEW. Surat inih draf kerja untuk direview oleh lemulun Lun Bawang sendiri; belum disahkan, belum siap, dan belum direview oleh penutur asli. / A working draft for native Lun Bawang review; not certified, not final, and not native-reviewed.
-- **Bantuan AI**: Surat inih disediakan duk bantuan AI, dari surat Inggeris luk sudah dibetulkan; lemulun Lun Bawang sendiri mesti mereview — itu jalan siapnya. / Prepared with AI assistance from the corrected English master; native Lun Bawang review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Bantuan AI**: Prepared with AI assistance from the corrected English master.
 - **Pemberian**: Surat inih diberi percuma, tiada bayaran; salinan, pembetulan, dan versi luk lebih do' dialu-alukan. / Freely given; copies, corrections, and better versions are welcomed.
 - **Bahasa**: Surat inih dalam Buri' Lun Bawang (lnd) saja, bentuk Kemaloh luk paling ramai ditutur; Alkitab lengkap dalam bahasa inih sudah ada (Bala Luk Do', 1982) — surat inih bukan Alkitab dan inda' membina di atasnya. Bahasa inih disebut Lundayeh di Sabah dan Kalimantan; kedua-dua nama itu satu bahasa. / This draft is in Lun Bawang (lnd) only, in the Kemaloh variety, the most widely spoken; a complete Lun Bawang Bible already stands in the record (Bala Luk Do', 1982) — this book is not a Bible and does not build over it. The language is called Lundayeh in Sabah and Kalimantan; the two names are one language.
 

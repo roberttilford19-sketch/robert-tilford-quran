@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Pattamaang Mandar — PA'PATTAMAANG (andi napeccingi)
+Pattamaang Mandar
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Mandar review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Passala indie deftere / About this edition:**
 - **Pamula**: Indie pattamaangi dario deftere Inggrisna Robert Tilford ia napaccingi (Locked English Master; surah 114 / ayat 6,236); teks Arab aslina torro siola sangana ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Cara**: Quran mesa-na — andi-diang apa maraeng tama. Jakka andi-sipana niberengi persen, saba' Quran andi mambere persen; andi-diang hadis yareka tafsir tama. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Basa**: Mandar, ri uki' Latin, ri keda malakka ia sangana tau kulle napaham. / The Mandar language, in the Latin orthography, in plain wording a general reader can follow.
-- **Kaadaang**: INDI PA'PATTAMAANG — ANDI NAPECCINGI / DRAFT — NOT REVIEWED. Indie deftere ia pa'pattamaang jagaiang untu' to Mandar to nareccingi; andi napaccingi, andi cappu', andi nareccingi. / A working draft sent for native Mandar review; not certified, not final, and not native-reviewed.
-- **Tulungang AI**: Indie napattama siola tulungang AI dario deftere Inggris ia napaccingi; peccingiang dario to Mandar sipato' diang olona sangana pakeang. / Prepared with AI assistance from the corrected English master; native Mandar review is required before any use.
+- **Kaadaang**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Tulungang AI**: Prepared with AI assistance from the corrected English master.
 - **Andi-diang kedaa' pamula**: Indie pa'pattamaang andi makkeda dai ia pattamaang pamula Quran lao Mandar; andi-diang kedaa' passala pattamaang Mandar maraeng ia nigaukangi indino. / This draft makes no claim to be the first rendering of the Quran into Mandar; it makes no claim about any other Mandar rendering.
 - **Pabere gratis**: Indie pa'pattamaang niberengi gratis; kopi, peccingiang, anna pattamaang maccoe' mapia nitarima. / Freely given; copies, corrections, and better versions are welcomed.
 

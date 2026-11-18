@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Македонски превод — нацрт за преглед (не е конечна верзија)
+Македонски превод
 
-Rendered from Robert Tilford's sealed literal Recital (the Locked English Master). DRAFT — NOT REVIEWED: a complete working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **За ова издание / About this edition:**
 - **Основа на текстот**: запечатениот дословен Рецитал на Роберт Тилфорд на англиски јазик (Заклучениот англиски мастер; 114 сури / 6.236 ајети); арапскиот текст стои покрај него, ајет до ајет.
 - **Метода**: само Куранот. Зекатот никогаш не добива процент, бидејќи Куранот не пропишува никаква стапка; не е додаден никаков хадис ниту тефсирски материјал.
 - **Јазик**: едноставен, јасен современ македонски јазик — наједноставната форма што обичниот читател може да ја разбере.
-- **Статус**: НАЦРТ — НЕ Е ПРЕГЛЕДАНО / DRAFT — NOT REVIEWED. Прв целосен работен нацрт што чека преглед од изворен говорник на македонскиот јазик; не е проверен, не е конечен и не е прегледан од изворен говорник.
-- **Помош од вештачка интелигенција**: овој нацрт е подготвен со помош на вештачка интелигенција од запечатениот англиски мастер; пред секоја употреба секој ајет мора да го прегледа изворен говорник на македонскиот јазик. / Prepared with AI assistance from the sealed English master; native Macedonian review is required before any use.
+- **Статус**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Помош од вештачка интелигенција**: Prepared with AI assistance from the corrected English master.
 - **Не е прв превод**: преводи на Куранот на македонски јазик веќе постојат (меѓу нив и преводот на Хасан Џило). Ова не е прв превод; ова е нацрт на едноставен јазик по методата само-Куран. / Macedonian Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **Се дава бесплатно**: овој нацрт е бесплатен; копии, исправки и подобри верзии се добредојдени. / Freely given; copies, corrections, and better versions are welcomed.
 

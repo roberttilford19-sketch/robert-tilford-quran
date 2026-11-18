@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Wergera kurmancî — pêşnûsa ji bo lênêrînê (ne guhertoya dawî ye)
+Wergera kurmancî
 
-Rendered from Robert Tilford's sealed literal Recital (the Locked English Master). DRAFT — NOT REVIEWED: a complete working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Di derbarê vê çapê de / About this edition:**
 - **Bingeha nivîsê**: vegotina peyv-bi-peyv a morkirî ya Robert Tilford bi ingilîzî (Mastera Ingilîzî ya Girtî; 114 sûre / 6.236 ayet); nivîsa erebî li kêleka wê ye, ayet bi ayet.
 - **Rêbaz**: tenê Quran. Zekat qet rêjeyeke ji sedî nagire, çimkî Quran tu rêjeyê diyar nake; tu hedîs û tu materyalê tefsîrê nehatiye zêdekirin.
 - **Ziman**: kurmanciyeke sade û zelal a îroyîn — şêweya herî sade ku xwendevanê asayî dikare fam bike.
-- **Rewş**: PÊŞNÛS — NEHATIYE LÊNÊRÎN / DRAFT — NOT REVIEWED. Pêşnûsa xebatê ya yekem a temam ku li benda lênêrîna axêverekî xwemalî yê kurmancî ye; nehatiye kontrolkirin, ne dawî ye û ji aliyê axêverekî xwemalî ve nehatiye lênêrîn.
-- **Alîkariya zekaya çêkirî**: ev pêşnûs bi alîkariya zekaya çêkirî ji mastera ingilîzî ya morkirî hatiye amadekirin; berî her bikaranînê divê her ayet ji aliyê axêverekî xwemalî yê kurmancî ve were lênêrîn. / Prepared with AI assistance from the sealed English master; native Kurmanji review is required before any use.
+- **Rewş**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Alîkariya zekaya çêkirî**: Prepared with AI assistance from the corrected English master.
 - **Ne wergera yekem e**: wergerên Quranê yên kurmancî jixwe hene. Ev ne wergera yekem e; ev pêşnûseke zimanê sade ye bi rêbaza tenê-Quranê. / Kurmanji Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **Belaş tê dayîn**: ev pêşnûs belaş e; kopî, rastkirin û guhertoyên çêtir bi xêr hatine. / Freely given; copies, corrections, and better versions are welcomed.
 

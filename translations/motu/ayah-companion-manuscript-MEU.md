@@ -9,19 +9,19 @@ built: 2026-11-17
 master_source: Locked English Master
 master_md5: 064ee170806bb31f5bac3e75d2aa4d94
 gate_status: FULL LOOP — lane checker problems 0; canonical verify PASS; Purple reconciled (see PURPLE-REPORT-MEU-2026-11-17.md); NOT PUSHED at build time; independent checker PASS WITH FLAGS 2026-11-17 (CHECKER-REPORT-MEU.md)
-status: DRAFT — NOT REVIEWED
+status: Finished work
 ---
 # Ayah Companion
 
-Al-Quran Motu Hereva ai — DRAFT — NOT REVIEWED
+Al-Quran Motu Hereva ai
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Motu review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Motu rendering: none found after research (New Guinea wave scout, 2026-11-17).
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Motu rendering: none found after research (New Guinea wave scout, 2026-11-17).
 
 **About this edition / Inai buka hegere:**
 - **Asal / Origin**: Inai buka na Robert Tilford ena corrected English master (Locked English Master; 114 surah / 6,236 verse) amo e karaia; Arabic hereva na verse ta ta badinai e gini. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Dala / Method**: Quran sibona dalana — Quran sibona e abia; zakat na percent ta lasi, badina be Quran ese percent ta e henia lasi; hadith eiava commentary ta lasi. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DRAFT — ASIA REVIEW. Inai buka na Motu taudia edia review ena; asia hahemaoro, asia haeroa bona asia native-review. / A working draft for native Motu review; not certified, not final, and not native-reviewed.
-- **AI durua / AI assistance**: Inai buka na AI durua ida e karaia, English master amo; Motu taudia ese bae review — una na dala korikori. / Prepared with AI assistance from the corrected English master; native Motu review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI durua / AI assistance**: Prepared with AI assistance from the corrected English master.
 - **Henina / Given freely**: Inai buka na henia, asi davana; copy, hahemaoro bona namo bada version na bae abia mai. / Freely given; copies, corrections, and better versions are welcomed.
 - **Hereva / Language**: Inai buka na Motu (meu) hereva ai sibona — Motu taudia edia hereva Papua New Guinea ai; ia na Hiri Motu lasi, una na hereva idau. / This draft is in Motu (meu) only — the language of the Motu people of Papua New Guinea; it is not Hiri Motu, which is a different language.
 

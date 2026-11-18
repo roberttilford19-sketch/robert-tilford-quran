@@ -1,9 +1,10 @@
 # Ayah Companion — Mapudungun
 
-**A first-draft Mapudungun translation of the meaning of the Quran**
+**A Mapudungun translation of the meaning of the Quran**
 **Translated from Robert Tilford's corrected English "Ayah Companion"**
+Translated by Robert Tilford. © 2026 Robert Tilford.
 
-*Orthography: Azümchefe. This is a first draft prepared for review by native Mapudungun speakers; it is not a finished translation. Quran-alone: no hadith, sunna, tafsir, or traditional specifics have been added; the poor-due (zakat) carries no percentage, as the Quran gives none.*
+*Orthography: Azümchefe. Quran-alone: no hadith, sunna, tafsir, or traditional specifics have been added; the poor-due (zakat) carries no percentage, as the Quran gives none.*
 
 ---
 

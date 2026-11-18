@@ -7,8 +7,7 @@ Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
 
 Status: a complete rendering of the Quran in Malay — all 6,236
 verses, the whole book, nothing left out — with the Arabic text alongside.
-DRAFT: native-speaker review is invited, and that review is ongoing (the
-book's own status page carries this).
+Translated by Robert Tilford. © 2026 Robert Tilford.
 
 This manuscript stands unrepaired in its state of record (sha256
 b5c0e3d3d3e287af5bd71a3d89035cf7a4f631e22c6cfcf6fee1d1a216e26ad3,

@@ -1,15 +1,15 @@
 # Ayah Companion
 
-മലയാള പരിഭാഷ — അവലോകനത്തിനുള്ള കരട് (അന്തിമ പരിഭാഷയല്ല)
+മലയാള പരിഭാഷ
 
-Rendered from Robert Tilford's sealed literal Recital (the Locked English Master). DRAFT — NOT REVIEWED: a complete working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **ഈ പതിപ്പിനെക്കുറിച്ച് / About this edition:**
 - **ഉറവിടം**: റോബർട്ട് ടിൽഫോർഡിന്റെ മുദ്രിത അക്ഷരാർത്ഥ പരിഭാഷയിൽ (Locked English Master; 114 സൂറകൾ / 6,236 ആയത്തുകൾ) നിന്ന്; അറബി മൂലം അതിനൊപ്പം, ആയത്ത് തോറും.
 - **രീതി**: ഖുർആൻ തന്നെ. സകാത്തിന് ശതമാനം നൽകിയിട്ടില്ല, കാരണം ഖുർആൻ ശതമാനം നൽകുന്നില്ല; ഹദീസോ മറ്റ് വ്യാഖ്യാനങ്ങളോ ചേർത്തിട്ടില്ല.
 - **ഭാഷ**: വ്യക്തവും സമകാലികവുമായ മലയാളം — സാധാരണ വായനക്കാരന് മനസ്സിലാകുന്ന ലളിതമായ ഭാഷ.
-- **നില**: കരട് — അവലോകനം ചെയ്തിട്ടില്ല / DRAFT — NOT REVIEWED. സ്വദേശി മലയാളം സംസാരിക്കുന്നയാളുടെ അവലോകനത്തിനായി കാത്തിരിക്കുന്ന പൂർണ്ണമായ പ്രവർത്തന കരട്; സാക്ഷ്യപ്പെടുത്തിയതല്ല, അന്തിമമല്ല, സ്വദേശി അവലോകനം നടത്തിയതുമല്ല. / A complete working draft awaiting native Malayalam review; not certified, not final, and not native-reviewed.
-- **AI സഹായം**: മുദ്രിത ഇംഗ്ലീഷ് മാസ്റ്ററിൽ നിന്ന് AI സഹായത്തോടെ തയ്യാറാക്കിയത്; ഉപയോഗിക്കുന്നതിന് മുമ്പ് ഓരോ ആയത്തും സ്വദേശി മലയാളം സംസാരിക്കുന്നയാൾ അവലോകനം ചെയ്യണം. / Prepared with AI assistance from the sealed English master; native Malayalam review is required before any use.
+- **നില**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI സഹായം**: Prepared with AI assistance from the corrected English master.
 - **ആദ്യ പരിഭാഷയല്ല**: മലയാള ഖുർആനുകൾ ഇതിനകം നിലവിലുണ്ട് (അവയിൽ ചെറിയമുണ്ടം അബ്ദുൽ ഹമീദിന്റെയും കുഞ്ഞി മുഹമ്മദ് പറപ്പൂരിന്റെയും പരിഭാഷയും, ക്വുർആൻഎൻകിലെ അബ്ദുൽഹമീദ് ഹൈദർ അൽ-മദനിയുടെയും കുഞ്ഞി മുഹമ്മദിന്റെയും പരിഭാഷയും ഉൾപ്പെടുന്നു). ഇത് ആദ്യ പരിഭാഷയല്ല; ഖുർആൻ-മാത്രം ലളിതഭാഷാ കരടാണ്. / Malayalam Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **സൗജന്യമായി നൽകുന്നു**: ഈ കരട് സൗജന്യമാണ്; പകർപ്പുകൾ, തിരുത്തലുകൾ, മികച്ച പതിപ്പുകൾ എന്നിവ സ്വാഗതം ചെയ്യുന്നു. / Freely given; copies, corrections, and better versions are welcomed.
 

@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Manuskrip Melayu — DRAF UNTUK SEMAKAN (bukan edisi akhir)
+Manuskrip Melayu
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Perihal edisi ini / About this edition:**
 - **Sumber**: Daripada naskhah induk Inggeris Robert Tilford yang telah diperbetulkan (Locked English Master; 114 surah / 6,236 ayat); teks Arab asal berdiri bersamanya, ayat demi ayat. / From Robert Tilford's corrected English master; the Arabic source stands alongside it, verse by verse.
 - **Kaedah**: Quran sahaja. Zakat tidak diberikan sebarang peratusan, kerana Quran tidak memberikan sebarang peratusan; tiada hadis atau tafsiran ditambah. / Quran-alone method. Zakat receives no percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Bahasa**: Bahasa Melayu baku kontemporari yang jelas — dalam tulisan Rumi — dengan kata-kata biasa yang dapat diikuti oleh pembaca yang sederhana. / Clear, contemporary standard Malay in Rumi (Latin) script, in plain wording a humble reader can follow.
-- **Status**: DRAF — BELUM DISEMAK / DRAFT — NOT REVIEWED. Draf kerja yang menunggu semakan penutur asli Melayu; tidak disahkan, tidak akhir, dan tidak disemak oleh penutur asli. / A working draft awaiting native Malay review; not certified, not final, and not native-reviewed.
-- **Bantuan AI**: Disediakan dengan bantuan AI daripada naskhah induk Inggeris yang telah diperbetulkan; semakan penutur asli Melayu diperlukan sebelum sebarang penggunaan. / Prepared with AI assistance from the corrected English master; native Malay review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Bantuan AI**: Prepared with AI assistance from the corrected English master.
 - **Bukan terjemahan pertama**: Terjemahan Quran Melayu yang lengkap sudah sedia wujud, termasuk edisi Melayu Kompleks Raja Fahd. Ini BUKAN terjemahan pertama; ini ialah draf bahasa biasa berkaedah Quran sahaja. / Complete Malay Qurans already exist, including the King Fahd Complex's Malay edition; this is NOT a first translation — it is a Quran-alone plain-language draft.
 - **Diberikan dengan percuma**: Draf ini diberikan dengan percuma; salinan, pembetulan dan versi yang lebih baik dialu-alukan. / Freely given; copies, corrections, and better versions are welcomed.
 

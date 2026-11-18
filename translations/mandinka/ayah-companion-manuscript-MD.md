@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Mandinkakaŋ Fasaroo — SABAFIITA (a maŋ ñaŋintin)
+Mandinkakaŋ Fasaroo
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Mandinka review; not for publication or distribution as a finished translation. Mandinka already has complete renderings by others (Ceesay 2006/07; Janneh in print; older complete Ajami tafsir manuscripts) — this draft makes no first-translation claim.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. Mandinka already has complete renderings by others (Ceesay 2006/07; Janneh in print; older complete Ajami tafsir manuscripts) — this draft makes no first-translation claim.
 
 **Ñiŋ fasaroo na kuwo / About this edition:**
 - **Bunoo**: Robert Tilford la Alkuraano fasaroo min sabaatita Inkiliseekaŋo to (Locked English Master; suura 114 / aaya 6,236) le mu ñiŋ Mandinkakaŋ fasaroo bunoo ti; Arabu safeyaa be aayoo bɛɛ kantarilaa a koto. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Silo**: Alkuraano kiliŋ — Alkuraano kiliŋ le ka kuma ke; jakaa te dankan dankan sabaati la foŋ (percentage) dii la, sabuŋ Alkuraano ye wo sabaati dii te; hadiiso walla ñaŋintiniŋ kayito te kafu la a ma. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Occupied lane — no first claim**: Mandinkakaŋo ye Alkuraano fasaroo bɛɛ soto kaban: Imam Momodou Ceesay la fasaroo (2006/07), Seedy Ali Janneh taa min be printi kono, aniŋ Ajami tafsiri kayiti koroolu. Ñiŋ fasaroo te foloo fasaroo ti, aniŋ a te wo kuma fo la dulaa si kiliŋ. / Mandinka already has complete renderings by others — Ceesay (complete 2006/07), Janneh in print, and older complete Ajami tafsir manuscripts. This draft makes NO first-translation claim, anywhere.
-- **Ñaŋintino**: SABAFIITA — A MAŊ ÑAŊINTIN / DRAFT — NOT REVIEWED. Ñiŋ mu kayiti koppi le ti min be Mandinkakaŋ ñaŋintinnaalu ye sabaati la; a maŋ ke fasaroo banŋa ti. / A working draft for native Mandinka review; not certified, not final, and not native-reviewed.
-- **AI-sahāya**: Ñiŋ fasaroo sabaatita niŋ AI dɛɛmaano le, Inkilisee safeyaa min sabaatita boŋo; Mandinkakaŋ ñaŋintino ka a lafi le siyaa siyaman ŋa. / Prepared with AI assistance from the corrected English master; native Mandinka review is required before any use.
+- **Ñaŋintino**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI-sahāya**: Prepared with AI assistance from the corrected English master.
 - **Dii**: Ñiŋ fasaroo be dii la fuuta te; a kopiilu, a ñaŋintinoolu, aniŋ fasaroo doolu minnu ka bo a la, bɛɛ ka lasabo. / Freely given; copies, corrections, and better versions are welcomed.
 
 # Suura Luudoo Lu

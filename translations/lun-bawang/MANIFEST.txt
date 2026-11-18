@@ -9,16 +9,7 @@ recommended lane No. 5 and North Sarawak upland template),
 under Robert's Advance Rule of 2026-11-14.
 
 STATUS
-DRAFT — NOT REVIEWED. Native Lun Bawang review is required
-before any gifting or publication; review is invited. The status
-line stands inside the manuscript itself, in Lun Bawang and
-English, on its face, with AI assistance labelled.
-SHELVING: lands on the GitHub shelf under Robert's Pipeline
-Landing Authorization (2026-11-14 ~15:00), the full pipeline
-loop having completed (build, count, canonical verify,
-independent checker, Purple sweep reconciled); the landing is
-recorded in LANDING-RECORD-2026-11-14.md in this lane folder at
-the desk.
+Translated by Robert Tilford. © 2026 Robert Tilford.
 
 COMPLETENESS
 114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
