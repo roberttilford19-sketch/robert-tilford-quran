@@ -18900,7 +18900,7 @@ kudeng iko inan bang stat impurity, purify yourselves. Kudeng iko inan meit, ata
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Whil daneh idey menuu, idi work rigteousness, idi menuu bang enun inan sent down ke muhammad — idi ieh inan kebenaran ratnan deh Tuhan — ieh remits deh sala', idi relieves deh konserns.
+**47:2** Whil daneh idey menuu, idi work rigteousness, idi menuu bang enun inan sent down ke Muhammad — idi ieh inan kebenaran ratnan deh Tuhan — ieh remits deh sala', idi relieves deh konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
