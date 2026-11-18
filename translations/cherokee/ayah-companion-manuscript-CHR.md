@@ -16224,7 +16224,7 @@ Source: Robert Tilford's corrected English master, chunk src-022-025.txt (22 Al-
 
 إِنَّهُمَا مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ
 
-**37:123**  Wa inna Ilyasa la-min al-mursalin.
+**37:123**  Wa inna Ilyas la-min al-mursalin.
 
 وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ
 
