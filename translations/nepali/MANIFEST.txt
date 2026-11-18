@@ -6,7 +6,15 @@ remaining Tier 1 languages in campaign order; Nepali follows Malayalam).
 Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
 
 Status: a complete rendering of the Quran in Nepali — all 6,236 verses, the
-whole book, nothing left out — with the Arabic text alongside. DRAFT: native-speaker
+whole book, nothing left out — with the Arabic text alongside. Verse 3:7,
+graded a MATCH by the lane's independent checker (the master's joint
+attachment preserved), stands exactly as printed; 18:103 keeps the master's
+sealed "We" ("हामी") as printed; 38:48 keeps Elisha in the candidate form
+अलिशा, UNSETTLED as designed. The lane's one MATERIAL — the dropped negation
+at 2:282 — was repaired before this line began, by dated addendum restoring
+the negation (नघटाओस्), and the repaired reading stands in this book,
+confirmed visually at shelving (p. 55). The lane's open questions stand
+recorded in the workspace lane record, unrepaired.
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Hash gate of record: the manuscript below is byte-identical to the lane's closing

@@ -10,6 +10,9 @@ lineage. The lane was opened by Robert Tilford's Decision 16
 LANE-BRIEF.md, orthography decisions G-0 through G-4.
 
 STATUS
+The status line stands inside the manuscript itself, in Guyanese Creole
+("DRAFT — NO RIVYUU") and in English, on its face, with AI assistance
+labelled.
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 COMPLETENESS

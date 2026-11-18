@@ -3,8 +3,20 @@ MANIFEST — Ayah Companion Lingala (Lingala)
 Shelved 2026-11-12 on Robert Tilford's authorization of 2026-11-12 ("repeat this process" through the Tier 1 line in campaign order).
 Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
 
-Status: a complete rendering of the Quran in Lingala — all 6,236 verses,
-the whole book, nothing left out — with the Arabic text alongside. DRAFT:
+Status: a complete rendering of the Quran in Lingala — all 6,236 verses, the
+whole book, nothing left out — with the Arabic text alongside. Verse 3:7,
+graded a MATCH by the lane's independent checker (the master's joint
+attachment preserved, ambiguity intact), stands exactly as printed; 18:103
+keeps the master's sealed "We" (the subject prefix "To-" in Tokoloba) as
+printed; 38:48 carries Elisha in the printed form Elisa, unsettled exactly as
+designed (the lane's Reviewer Question 7). The lane's open items —
+CHECKER-LN's standing reviewer items (the Ismaili/Ismaeli and Zakariya/Zakaria
+name doublets, the Mokonzi practice question Q1, the Ndako ya Losambo ya
+Mosantu / Ndako ya Mosantu split, eyambelo vs lingomba, the unflagged
+bakonzi/babateli plurals and the R4 flags precision gap, and Elisa's
+confirmation at 38:48) — stand recorded in the workspace lane record,
+unrepaired. The lane's divine-name settlement stands as printed: Nzambe in the
+name slots, lowercase nzambe in the common-noun slots.
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Residue gate of record: this lane is Latin-script, so the gate was lexical.

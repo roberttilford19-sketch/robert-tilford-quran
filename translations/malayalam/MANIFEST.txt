@@ -6,7 +6,11 @@ remaining Tier 1 languages in campaign order; Malayalam is the first of those).
 Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
 
 Status: a complete rendering of the Quran in Malayalam — all 6,236 verses, the
-whole book, nothing left out — with the Arabic text alongside. DRAFT: native-speaker
+whole book, nothing left out — with the Arabic text alongside. Verse 3:7,
+graded a MATCH by the lane's independent checker (the master's joint
+attachment preserved), stands exactly as printed; 18:103 keeps the master's
+sealed "We" ("ഞങ്ങൾ") as printed. The lane's open questions stand recorded in
+the workspace lane record, unrepaired.
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Residue gate of record: independent measurement of this manuscript's verse text

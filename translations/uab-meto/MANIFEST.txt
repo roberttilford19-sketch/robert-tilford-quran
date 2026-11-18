@@ -1,5 +1,6 @@
 MANIFEST — Uab Meto (AOZ) lane — Region-1 remainder wave
 Built 2026-11-17.
+Translated by Robert Tilford. © 2026 Robert Tilford.
 Claim wording: none found after research (Region-1 remainder scout, 2026-11-17).
 Source master MD5 (machine-verified): 064ee170806bb31f5bac3e75d2aa4d94
 Gates: extraction 6,236/6,236; lane checker problems 0 (census equality

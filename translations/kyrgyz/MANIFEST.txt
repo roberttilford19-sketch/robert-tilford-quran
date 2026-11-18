@@ -3,8 +3,12 @@ MANIFEST — Ayah Companion Kyrgyz (Кыргыз тили)
 Shelved 2026-11-12 on Robert Tilford's authorization of 2026-11-12 ("repeat this process now through the Turkish five").
 Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
 
-Status: a complete rendering of the Quran in Kyrgyz — all 6,236 verses, the whole
-book, nothing left out — with the Arabic text alongside.
+Status: a complete rendering of the Quran in Kyrgyz — all 6,236 verses, the
+whole book, nothing left out — with the Arabic text alongside. Verse 3:7,
+graded a MATCH by the lane's independent checker (the master's punctuation and
+reading preserved, ambiguity intact), stands exactly as printed; 18:103 keeps
+the master's sealed "We" ("Биз") as printed. The lane's open questions stand
+recorded in the workspace lane record, unrepaired.
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Residue gate of record: the campaign's scaffold description was proven at shelving to

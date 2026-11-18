@@ -5,8 +5,8 @@ this process" through the Tier 1 line in campaign order; Malay closes the
 line).
 Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
 
-Status: a complete rendering of the Quran in Malay — all 6,236
-verses, the whole book, nothing left out — with the Arabic text alongside.
+Status: a complete rendering of the Quran in Malay — all 6,236 verses, the
+whole book, nothing left out — with the Arabic text alongside.
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 This manuscript stands unrepaired in its state of record (sha256
