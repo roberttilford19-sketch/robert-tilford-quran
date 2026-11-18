@@ -18914,7 +18914,7 @@ kapo mii iyaretakech wo stat apobi impurity, purify yourselbes. Kapo mii iyareta
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Sii sii mashi tos nama hiki, worek yo rigteousness, worek hiki wo boy otiitar sent heyil ken muhammad — worek rii aponurnay omutiik aposaba yechi Harapa — rii remits yechi kapasek, worek reliebes yechi konserns.
+**47:2** Sii sii mashi tos nama hiki, worek yo rigteousness, worek hiki wo boy otiitar sent heyil ken Muhammad — worek rii aponurnay omutiik aposaba yechi Harapa — rii remits yechi kapasek, worek reliebes yechi konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
