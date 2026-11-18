@@ -14,4 +14,4 @@ stands in the workspace lane folder ~/workspace/ayah-sardinian/, unrepaired.
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Files:
-  2316406  2024a4e39468677ff0a778d4fb7775636e86b8f0977b49a10ce733b0fe833706  ayah-companion-manuscript-SC.md
+  2316313  ecb74edd3189a6a7964a203f9102045063b4b53c4b612e4a776d894e9f698d31  ayah-companion-manuscript-SC.md
