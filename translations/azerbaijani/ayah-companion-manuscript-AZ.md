@@ -1362,7 +1362,7 @@ AZERBAIJANI (Azərbaycan dili) MANUSCRIPT. An Azerbaijani rendering of the corre
 
 هُوَ ٱلَّذِى يُصَوِّرُكُمْ فِى ٱلْأَرْحَامِ كَيْفَ يَشَآءُ ۚ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**3:7** Sənə Kitabı nazil edən Odur. Onun ayələrinin bəzisi qətidir; onlar Kitabın əsasıdır, digərləri isə qeyri-müəyyəndir. Qəlblərində azğınlıq olanlar, ixtilaf axtararaq və bir yozum çıxarmağa çalışaraq qeyri-müəyyən hissəni izləyirlər. Amma onun yozumunu Allahdan başqa heç kəs bilmir və elmdə möhkəm kök salanlar deyirlər: “Biz ona inanırıq; hamısı Rəbbimizdəndir.” Amma anlayış sahiblərindən başqa heç kəs xatırlamır.
+**3:7** Sənə Kitabı nazil edən Odur. Onun ayələrinin bəzisi qətidir; onlar Kitabın əsasıdır, digərləri isə qeyri-müəyyəndir. Qəlblərində azğınlıq olanlar, ixtilaf axtararaq və bir yozum çıxarmağa çalışaraq qeyri-müəyyən hissəni izləyirlər. Amma onun yozumunu Allahdan və elmdə möhkəm kök salanlardan başqa heç kəs bilmir; deyirlər: “Biz ona inanırıq; hamısı Rəbbimizdəndir.” Amma anlayış sahiblərindən başqa heç kəs xatırlamır.
 
 هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَٰبَ مِنْهُ ءَايَٰتٌۭ مُّحْكَمَٰتٌ هُنَّ أُمُّ ٱلْكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٌۭ ۖ فَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِمْ زَيْغٌۭ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنْهُ ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ ۗ وَمَا يَعْلَمُ تَأْوِيلَهُۥٓ إِلَّا ٱللَّهُ ۗ وَٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلٌّۭ مِّنْ عِندِ رَبِّنَا ۗ وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَٰبِ
 

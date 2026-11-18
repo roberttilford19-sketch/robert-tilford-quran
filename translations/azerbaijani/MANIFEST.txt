@@ -30,4 +30,4 @@ Rebuild check after the 18:103 repair: 8 of 8 PASS plus repair verifications, 20
 
 Files:
   20312748  10be28a44fa1fc05b8f8a9b3933ebfbda0117ee7e0283bf78bf8c3e8595d8648  Ayah_Companion_Tilford_Azerbaijani_Manuscript.pdf (871 pp)
-   2297490  5caf4137937248ae7ef56a2a154b5928c85404b13f2c9e7e50ce4de4ca779c8d  ayah-companion-manuscript-AZ.md
+   2297494  833d44cd96a447c46ce988a4c33907dda7dbb952dd5477edc6ab3debbbd8ecc1  ayah-companion-manuscript-AZ.md
