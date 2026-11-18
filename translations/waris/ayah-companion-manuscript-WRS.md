@@ -18914,7 +18914,7 @@ ip yimba are in mongo stat op impuriti, puripi iourselves. Ip yimba are ill, or 
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Whil nomba an believ, wo work rigteousness, wo believ in manam was sent down to muhammad — wo hev kava moanonoa nomini henamba mendekli — hev remits henamba sala, wo relieves henamba konserns.
+**47:2** Whil nomba an believ, wo work rigteousness, wo believ in manam was sent down to Muhammad — wo hev kava moanonoa nomini henamba mendekli — hev remits henamba sala, wo relieves henamba konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
