@@ -18901,7 +18901,7 @@ i u yé ku stat li impurity, purify yourselbes. I u yé ill, kɛ yɛ-ŋgea, kɛ 
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Lɛn bi yɛ ndá ɓɛm, nɛ yɛn ndɛm, nɛ ɓɛm ku ki á yé tum si muhammad — nɛ li yé ŋgwɛl ku ɓa Ŋgɔl — a remits ɓa ɓɛɛ, nɛ reliebes ɓa konserns.
+**47:2** Lɛn bi yɛ ndá ɓɛm, nɛ yɛn ndɛm, nɛ ɓɛm ku ki á yé tum si Muhammad — nɛ li yé ŋgwɛl ku ɓa Ŋgɔl — a remits ɓa ɓɛɛ, nɛ reliebes ɓa konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
