@@ -56,8 +56,8 @@ work/flags-naf.txt — 16 named judgment-call items with
 work/verification-naf.json (verify.py record)
   SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
 ayah-companion-manuscript-NAF.md
-  2,504,322 bytes
-  SHA-256 3005605bdf19b9ff5162d48f85794d85d277299fc8802442f0e7c9641513b8ed
+  2,504,249 bytes
+  SHA-256 1c0f5c43102e810cc4c71753460c0518b71f31b68d9b10ed4d03301e6e8103e1
 ayah-companion-aligned-NAF.json
   3,616,209 bytes
   SHA-256 66598455390c0afc02147abee045c03bc21859a0a7b056fb24f077f9087fd548
