@@ -20,4 +20,4 @@ workspace lane folder ~/workspace/ayah-balochi/, unrepaired.
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Files:
-  2713838  489dbcffd0ed1d743601036759d0735bdea5efc81aaf7d3f12f42d60e718521b  ayah-companion-manuscript-BAL.md
+  2713030  dd8510bb932e3196a99d1adabed35e515626bf1ea76878920831a0913d13c57f  ayah-companion-manuscript-BAL.md
