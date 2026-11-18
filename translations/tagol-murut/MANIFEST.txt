@@ -62,8 +62,8 @@ work/flags-mvv.txt — 10 named uncertain-seat items plus residue counts, carrie
   8,424 bytes
   SHA-256 9d94f664bbc6e30d6a6eb92b1dd931be988b5caa020ddd4a7b931d9a65d56925
 ayah-companion-manuscript-MVV.md
-  2,277,693 bytes
-  SHA-256 d3a2cca99da0ff7fbb36b33415c37b913b6824803af0a32cd3806d696740a229
+  2,277,169 bytes
+  SHA-256 ca843bbdc0332de6afbc380106eaf04f6f862a9bec8e2935f5d83d7d5fe2fde3
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
