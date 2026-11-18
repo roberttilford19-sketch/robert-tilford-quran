@@ -1,0 +1,108 @@
+AYAH COMPANION — URAT RENDERING
+MANIFEST — lane record, 2026-11-18
+
+ITEM
+Ayah Companion, Urat (urt) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the New Guinea wave (Phase-1 verification batch
+B05, Top Candidates #5), under Robert's Advance Rule of
+2026-11-14.
+
+STATUS
+FINISHED WORK, under Robert Tilford's ruling of 2026-11-18.
+The status stands inside the manuscript itself, on its face,
+with AI assistance labelled. SHELVING: staged in this lane's
+shelving pack only. The landing is centralized after the
+independent check; this lane does not push.
+Translated by Robert Tilford. © 2026 Robert Tilford.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last
+114:6. Completeness is structural: every verse of the master
+is present, in order, beside its Arabic. The aligned array
+ayah-companion-aligned-URT.json carries the same 6,236
+verses as JSON objects (chapter/verse/en/target/ar).
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering
+(6,462 Arabic runs, verified identical to the master and to
+the extraction meta by the amended verify.py's
+structural-position method).
+
+SCRIPT
+Latin orthography — the modern Urat orthography of the Urat
+New Testament (SIL PNG / PNG Bible Translation Association).
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in
+this manifest or in any lane document. The standing wording
+is: none found after research (New Guinea wave scout,
+2026-11-17).
+
+FILES
+GLOSSARY-URT.md
+  1801 bytes
+  SHA-256 96bd1fcd7c80348a85cdd61eb475628d0766cc972a424d8cd936e2bb96a5bfa8
+STYLEGUIDE-URT.md
+  1762 bytes
+  SHA-256 2e8a9fc00b4081c5841f5760fe251e8e51a0c4f8584a82bed573e6696872981c
+BUILD-REPORT-URT.md
+  3762 bytes
+  SHA-256 0064fe4398231761a399ffdb0cdb78a7c7b9b22827a17ecd8d745ddda64ae843
+PURPLE-REPORT-URT-2026-11-18.md
+  1359 bytes
+  SHA-256 d99517042cea2ab53f2b980b8e4c0aa008be3b120816f6e72ef605fd5032e287
+work/flags-urt.txt
+  4439 bytes
+  SHA-256 18ca8567a6985078a9157a3736a83b868a15922d195f061ddece7ccc672edf56
+work/verification-urt.json
+  710 bytes
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+ayah-companion-manuscript-URT.md
+  2292035 bytes
+  SHA-256 22a208654dc7600871d0681760929d4bd7b9dafd734583abe3c2d7dec601ed2f
+ayah-companion-aligned-URT.json
+  3408153 bytes
+  SHA-256 06c8223dd81dfdf268ce7d0606c78e32f63dbbba147aeaca68a37c2294e357be
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py),
+run 2026-11-18 on the final bytes: PASS true. Headers 114,
+verses 6,236, Arabic runs 6,462 identical to master and to
+meta, markers 15 match, note 56 present, slice ref
+mismatches 0, slice paragraph mismatches 0, percent signs 0.
+Lane checker (work/check_urt.py) over all 114 surahs:
+problems 0. Per-verse census equality in all 6,236 verses —
+Got 2,732 (= God 2,732); got 79 (= god 79); got syeꞌ 35
+(= gods 35); Lahmborenge 980 (= Lord 969 + the 11 counted
+Master tokens); zakat at exactly the 13 keyed slots;
+ungwis at exactly the 36 keyed tokens.
+Purple measurements (work/purple-measurements-urt.json):
+Arabic matched 6,348 of 6,348; basmalah 114; markers 15;
+TOC 114, no mismatches; percent 0; note 56 present.
+Banned-string scan of the manuscript: clean.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye).
+Extraction: 114 surahs, 6,236 verses, 6,462 Arabic runs,
+112 basmalah frames, 15 markers; refs equal to master.
+Lexical bases (two disclosed sources): Urat Dictionary
+(SIL PNG 2017, CC BY-NC-ND 4.0, lexical reference only) via
+archive.org item uratdictionary — finderlist direct 100
+template keys, main-dictionary direct 206, variants 148;
+the Urat NT (Wusyep Bwore tikin Got, eBible.org USFM) as
+Scripture control — 84 hand-set keys verified against its
+running usage, 1 empty. Total grounded: 539 of 1,887
+template keys, plus 5 attested extras.
+
+NOTES CARRIED FORWARD
+The judgment calls ride in work/flags-urt.txt (15 items):
+the Got/got/got syeꞌ case-and-phrase settlement, Lahmborenge
+as the control's common Lord title, ungwis at the sadaqa
+seat (no alms noun attested in either base), the Elaija /
+Elisa pair in the control's own forms, the composed
+basmalah, the possessive kin convention, and the counted
+transliteration residue (56,392 tokens; Purple G7 8,713).
