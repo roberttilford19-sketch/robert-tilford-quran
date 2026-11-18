@@ -60,7 +60,7 @@ work/flags-kmh.txt — 12 named uncertain-seat items plus residue counts, carrie
   SHA-256 2bb188f321f7e6d14f1eaa42216e223f77bc71e148c25fe78a037b365bfb29a7
 ayah-companion-manuscript-KMH.md
   2,222,493 bytes
-  SHA-256 716d8728da123c4e20e7366296a03c43b536b59ad0fa5904773c852da5bee19c
+  SHA-256 7b724bd2542da109f499de8cc637192af74ec63612b93e022948c7b3979be8f0
 ayah-companion-aligned-KMH.json (aligned array: chapter/verse/en/target/ar)
   3,340,185 bytes
   SHA-256 64eabd10ad9263398b5e5d5afd4af8b0bf8304a20da17a8649520c408d17d26c
