@@ -59,7 +59,7 @@ work/flags-mpt.txt — 12 named uncertain-seat items plus residue counts, carrie
   SHA-256 ab3b640c9c0dadadf15189a495b1a63db50d3868234389f953f15d00b0eef655
 ayah-companion-manuscript-MPT.md
   2,195,859 bytes
-  SHA-256 e28957a5b1497f641b11081e07bd015b34758cb9d40835ca3a079fd9beef9725
+  SHA-256 5b92a61b98180b50f988bba9e4fb546f751a6e11de4f19e7a7ceda05c908826a
 ayah-companion-aligned-MPT.json (the house FILE-SCHEMA aligned array: chapter/verse/en/target/ar)
   3,313,461 bytes
   SHA-256 150b3c15cabe486799166f6ec9e63e1a19cd6612900584c53524a43805d374b1
