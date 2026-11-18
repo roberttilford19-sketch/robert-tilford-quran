@@ -48,8 +48,8 @@ work/flags-kbq.txt — 13 named uncertain-seat items plus residue counts, carrie
   5,004 bytes
   SHA-256 9b9d25d4fde2638d99d23a5e1fafb1608919b7b3f22f00fb796c1da8ecd3126b
 ayah-companion-manuscript-KBQ.md
-  2,574,790 bytes
-  SHA-256 a5a49c0153948acbed943e2990094c9687cf8ecda0aa4232692db16fb307a638
+  2,574,276 bytes
+  SHA-256 e713d45454b167e2a65bcc4a0658f034bd1ba2bd4dc1b63f0eb730508443f463
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
