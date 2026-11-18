@@ -51,8 +51,8 @@ work/flags-sg.txt — 12 named uncertain-seat items plus residue counts,
   carried to the reviewer.
   SHA-256 c4d3b17ac3f80365112764ecf8c38add365409b543f657ba49c34ee39a068e27
 ayah-companion-manuscript-SG.md
-  2,247,379 bytes
-  SHA-256 be0e74ef367787217a2f302c9759c73958116278ac3f8e8051ad18f150620f25
+  2,246,911 bytes
+  SHA-256 1348ae59dbb6f22cc8c296a9a6d4e5b2c85731cfbb752aca97ea93a2be3b59a1
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
