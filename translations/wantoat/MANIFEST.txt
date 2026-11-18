@@ -59,7 +59,7 @@ work/flags-wnc.txt — 12 named uncertain-seat items plus residue counts, carrie
   SHA-256 3955f9e17dd016eff9e3be5a5243ba3893fa752ee8ff0c9ece1885080aad99f0
 ayah-companion-manuscript-WNC.md
   2,291,162 bytes
-  SHA-256 c2fb2107002b271edab0517f9a6265c08664991879f95abed6499e9faa06b681
+  SHA-256 fe5e598a8a23a86dbe5fe388ba402638b26ba41374ba5c810868a02361f2abb4
 aligned-wnc.json (the aligned array: chapter/verse/en/target/ar)
   3,407,239 bytes
   SHA-256 6b9e7de89c1ed3c5821632ce2d466ae7e33060ac2a891cb194b1840e3b2fdfe4
