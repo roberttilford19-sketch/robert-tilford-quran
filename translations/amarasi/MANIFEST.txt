@@ -52,8 +52,8 @@ work/flags-aaz.txt — 13 named uncertain-seat items plus residue counts, carrie
   9,416 bytes
   SHA-256 609cc17bcb02ee0925135d5bc945dfebc5ad3a4fdcc11827655ca67c970fd80f
 ayah-companion-manuscript-AAZ.md
-  2,192,351 bytes
-  SHA-256 9edc5193470b35f543753f8fa334fbf0f6450412bbb5e6118b9c4dbdae254fb5
+  2,191,844 bytes
+  SHA-256 b5712c925bf71058e0fc3a6a87da398ab12fdcdf2cb14321bb6796150cd26739
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
