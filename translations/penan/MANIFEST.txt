@@ -57,8 +57,8 @@ work/flags-pez.txt — 14 named uncertain-seat items plus residue counts, carrie
   8,726 bytes
   SHA-256 6aea80969069db40c32179614e12d491be86e3dec37b15827bfcc4299749751a
 ayah-companion-manuscript-PEZ.md
-  2,243,179 bytes
-  SHA-256 256adbdf453735eb7f104391f16290d5aaf1e919a85e94933ccd783ec2118a02
+  2,242,648 bytes
+  SHA-256 2cc237d581d290e016029de568e1442e2d2de9b04d4c2de76615100e06f7c929
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
