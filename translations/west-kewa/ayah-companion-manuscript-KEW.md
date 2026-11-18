@@ -18914,7 +18914,7 @@ ip nimimi aa in stat op impurity, puripy yourselves. Ip nimimi aa ill, palo trav
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Rabu ai aa kone rulape, page warua rigteousness, page kone rulape in aake what wai movement to muhammad — page nipu ni ora it nimuna Aa Mudu — nipu remits nimuna wae yae, page relieves nimuna konserns.
+**47:2** Rabu ai aa kone rulape, page warua rigteousness, page kone rulape in aake what wai movement to Muhammad — page nipu ni ora it nimuna Aa Mudu — nipu remits nimuna wae yae, page relieves nimuna konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
