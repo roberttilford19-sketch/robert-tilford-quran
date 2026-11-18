@@ -1,14 +1,14 @@
 # Ayah Companion
 
-Al-Quran en Bahasa Temiar — DRAF
+Al-Quran en Bahasa Temiar
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Temiar review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Temiar rendering: none found after research.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Temiar rendering: none found after research.
 
 **Besabid buku doh / About this edition:**
 - **Asal**: Buku doh te'el nom buku Inggeris Robert Tilford lo dibetulkan (Locked English Master; 114 surah / 6,236 ayat); teks Arab ma tepi buku doh, ayat ma ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Kaedah**: Quran saja — Quran saja lo ditaati; zakat, Quran tok memberi persen, sebab Quran tok memberi; tiada hadith atau tafsir ditambah. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DRAF — TOK DIREVIEW. Buku doh draf kerja untuk direview oleh senoi Temiar sendiri; belum disahkan, belum siap, dan belum direview oleh penutur asli. / A working draft for native Temiar review; not certified, not final, and not native-reviewed.
-- **Bantuan AI**: Buku doh disediakan dengan bantuan AI, nom buku Inggeris lo dibetulkan; senoi Temiar sendiri mesti mereview — itu jalan siapnya. / Prepared with AI assistance from the corrected English master; native Temiar review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Bantuan AI**: Prepared with AI assistance from the corrected English master.
 - **Pemberian**: Buku doh diberi percuma, tiada bayaran; salinan, pembetulan, dan versi lo lebih mej dialu-alukan. / Freely given; copies, corrections, and better versions are welcomed.
 - **Bahasa**: Buku doh dalam Bahasa Temiar (tea) saja, bentuk lo ditulis dalam kamus Means (1998); dialek Perak dan Kelantan direkod dalam kertas lane di mana mereka berpecah. / This draft is in Temiar (tea) only, in the written form of Means' dictionary (1998); Perak and Kelantan variants are recorded in the lane papers where they split.
 

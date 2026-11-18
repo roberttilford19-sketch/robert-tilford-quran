@@ -1,15 +1,14 @@
 # Ayah Companion
 
-### తెలుగు సంస్కరణ — పునఃపరిశీలన ముసాయిదా (తుది సంచిక కాదు)
+### తెలుగు సంస్కరణ
 
-TELUGU MANUSCRIPT — REVISION DRAFT, not a final edition. A Telugu rendering of the corrected English manuscript by Robert Tilford.
-
+TELUGU MANUSCRIPT. A Telugu rendering of the corrected English manuscript by Robert Tilford.
 **ఈ సంచిక గురించి / About this edition:**
 - **మూల గ్రంథం**: రాబర్ట్ టిల్ఫోర్డ్ సరిదిద్దిన ఆంగ్ల మూలం (114 సూరాలు / 6,236 వచనాలు); అరబిక్ గ్రంథం వచనం వచనంగా అదే మూలం నుండి పక్కన ఉంచబడింది. / Source: Robert Tilford's corrected English master (114 surahs / 6,236 verses); Arabic placed verse by verse from the same master.
 - **పద్ధతి**: ఖురాన్ మాత్రమే — పదాలు ఖురాన్ చేతనే నిర్వచించబడ్డాయి. జకాత్‌పై ఎటువంటి శాతం లేదు, ఎందుకంటే ఖురాన్ ఏ శాతాన్నీ ఇవ్వదు; హదీస్/సంప్రదాయ చేర్పులు ఏవీ లేవు. / Quran-alone: terms defined by the Quran itself; zakat carries NO percentage; no hadith/traditional additions.
 - **భాష**: సరళమైన, స్పష్టమైన ఆధునిక తెలుగు — తెలుగు లిపిలో, సామాన్య పాఠకుడు సులభంగా అర్థం చేసుకునే మాటల భాషలో. / Plain modern Telugu in Telugu script, in spoken vāḍuka register.
-- **స్థితి**: పునఃపరిశీలన ముసాయిదా / REVISION DRAFT. ఈ పూర్తి ముసాయిదాకు స్థానిక తెలుగు పరిశీలన తప్పనిసరి — పరిశీలనకు ముందు దీనిని వాడవద్దు, తుదిదిగా భావించవద్దు. / Complete draft awaiting native Telugu review; not final, not for use before review.
-- **AI సహాయం**: ఈ ముసాయిదా సరిదిద్దిన ఆంగ్ల మూలం నుండి AI సహాయంతో తయారు చేయబడింది; ఏ వినియోగానికైనా ముందు తెలుగు మాట్లాడేవారి పరిశీలన అవసరం. / Prepared with AI assistance from the corrected English master; native Telugu review is required before any use.
+- **స్థితి**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI సహాయం**: Prepared with AI assistance from the corrected English master.
 - **మొదటి అనువాదం కాదు**: తెలుగు ఖురాన్‌లు ఇప్పటికే సమాజ వినియోగంలో ఉన్నాయి. ఇది ఖురాన్-మాత్రమే పద్ధతిలోని సరళ భాషా ముసాయిదా మాత్రమే, మొదటి అనువాదం కాదు. / Telugu Qurans already exist in community use; this is a Quran-alone plain-language draft, not a first translation.
 - **ఉచితంగా ఇవ్వబడింది**: ఈ ముసాయిదా ఉచితంగా ఇవ్వబడింది; కాపీలు, సవరణలు, మెరుగైన సంస్కరణలు స్వాగతించబడతాయి. / Freely given; copies, corrections, and better versions are welcomed.
 

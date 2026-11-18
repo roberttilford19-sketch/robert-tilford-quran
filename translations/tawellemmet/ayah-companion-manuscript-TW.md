@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Alquran s Tawəlləmmət — Muswadda (war tətwa-murajaɣa)
+Alquran s Tawəlləmmət
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Tawellemmet review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Ǝddəgg n-təzrigt / About this edition:**
 - **Aɣbalu**: Robert Tilford a isalaɣăn ălqəra'at n-English ta təssənaḍ (Locked English Master; surat 114 / ayat 6,236); ălqəra'at n-Ălquran tălla ɣur-s, aya s-aya. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Ăndi**: Alquran iman-net ɣas — ăwalan n-Alquran a tətəfsirăn iman-năsăn; zakat war tăttəwətta s-tăkki (war llan tămrawt), Alquran war issəta tămrawt; war yətwaḍḍaf ăxadis wala təfsir. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Tawəlləmmət**: Tifinagh a tălla, măšan təzrigt ta tălla s-ăkkalen n-Latin wi n-Niger d-Mali, s-ărrəsm n-Tawəlləmmət. / Tawellemmet is also written in Tifinagh, but this draft is written in the Latin letters of Niger and Mali, in the Tawellemmet Latin orthography.
-- **Muswadda — war tətwa-murajaɣa / DRAFT — NOT REVIEWED**: Muswadda ta tălla i-murajaɣa n-ikelan wi ssənnăt Tawəlləmmət; war təssənaḍ, war təgraw s-ikelan-năsăn ar dăɣ tătwətta. / This draft awaits review by native Tawellemmet speakers; it is not certified and must not be used until that review has happened.
-- **AI a-dd-issəxdam**: S-ăɣbalu wa n-English wa təssənaḍ, AI a-dd-issəxdam i-təknit n-muswadda ta; murajaɣa n-ikelan Tawəlləmmət tălla tăzwar ar kul ăstexdam. / Prepared with AI assistance from the corrected English master; native Tawellemmet review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI a-dd-issəxdam**: Prepared with AI assistance from the corrected English master.
 - **War tălla tăɣrəmt n-ăzwar**: Muswadda ta war tannu as ənta a d-ăzzarăn tăfsirt n-Alquran s-Tawəlləmmət; muswadda i-murajaɣa ɣas a tălla. / This draft makes no claim to be the first rendering of the Quran into Tawellemmet; it is a draft offered for review.
 - **Təwətta s-ăhul**: Muswadda ta tətəwətta s-ăhul; iktaben, təsalaɣin, d-təfsirin yăḍnin qubulăn. / Freely given; copies, corrections, and better versions are welcomed.
 

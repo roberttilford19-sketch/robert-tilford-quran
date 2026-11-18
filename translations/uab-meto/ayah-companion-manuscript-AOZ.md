@@ -9,19 +9,19 @@ built: 2026-11-17
 master_source: Locked English Master
 master_md5: 064ee170806bb31f5bac3e75d2aa4d94
 gate_status: FULL LOOP COMPLETE — builder gates PASS; independent checker STOP — FOR ROBERT'S RULING on the God-term only, every countable gate re-measured exact (CHECKER-REPORT-AOZ-2026-11-17); Robert ruled B (2026-11-17) and God was re-keyed to ELOHIM, the community NT's own word, over Uis Neno (dissent preserved in flags-aoz.txt item 1); full loop re-run clean on the re-keyed bytes (lane checker problems 0, ELOHIM 2,732 = God 2,732; canonical verify PASS; Purple reconciled, G7 artifact disclosed in flags item 8); landed under the Pipeline Landing Authorization (2026-11-14)
-status: DRAFT — NOT REVIEWED
+status: Finished work
 ---
 # Ayah Companion
 
-Al-Kuran anbi Uab Meto — DRAFT — NOT REVIEWED
+Al-Kuran anbi Uab Meto
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Uab Meto review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Uab Meto rendering: none found after research (Region-1 remainder scout, 2026-11-17).
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Uab Meto rendering: none found after research (Region-1 remainder scout, 2026-11-17).
 
 **Antom sulat i / About this edition:**
 - **Asal**: Sulat i anpoi na'ko sulat Inggeris Robert Tilford le namneot (Locked English Master; 114 surah / 6,236 ayat); teks Arab anhake nokan, ayat ma ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Lanan**: Kuran al — Kuran al es tatauin; zakat, Kuran ka nafe fa persen, fun Kuran ka nafe fa; hadith ma komentari katit fa. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DRAFT — KA NAKISOK FA. Sulat i draf mese neu atoni Uab Meto he nakiso in alekot; ka namtis fa ma sin ka nakiso fa in. / A working draft for native Uab Meto review; not certified, not final, and not native-reviewed.
-- **Tuthae AI**: Sulat i anmo'e nok tuthae AI, na'ko sulat Inggeris le namneot; atoni Uab Meto mes he nakiso in — nane lanan he namtis. / Prepared with AI assistance from the corrected English master; native Uab Meto review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Tuthae AI**: Prepared with AI assistance from the corrected English master.
 - **Nafe nok amnaut**: Sulat i anfe nok amnaut, katit fa baen; kopia, lasi amneot, ma sulat leko bian sin anpoi nok amlilat. / Freely given; copies, corrections, and better versions are welcomed.
 - **Uab**: Sulat i anbi Uab Meto (aoz) al — uab na'ko atoni Meto anbi pah Timor, NTT; in ka uab Indonesia fa, mes sin anhaumak. / This draft is in Uab Meto (aoz) only — the language of the Meto (Atoni) people of Timor, NTT; it is not Indonesian, though the two are close neighbours in daily use.
 

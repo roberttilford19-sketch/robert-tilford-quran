@@ -9,19 +9,19 @@ built: 2026-11-17
 master_source: Locked English Master
 master_md5: 064ee170806bb31f5bac3e75d2aa4d94
 gate_status: FULL LOOP COMPLETE — builder gates PASS; independent checker PASS WITH FLAGS (flags carried to the native reviewer, none blocking; CHECKER-REPORT-IFK-2026-11-17); Purple reconciled; landed under the Pipeline Landing Authorization (2026-11-14)
-status: DRAFT — NOT REVIEWED
+status: Finished work
 ---
 # Ayah Companion
 
-Al-Kuran hi Tuwali Ifugao — DRAFT — NOT REVIEWED
+Al-Kuran hi Tuwali Ifugao
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Tuwali Ifugao review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Tuwali Ifugao rendering: none found after research (Region-1 remainder scout, 2026-11-17).
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Tuwali Ifugao rendering: none found after research (Region-1 remainder scout, 2026-11-17).
 
 **Mipanggep ketuwen liblu / About this edition:**
 - **Nalpuwan**: Hituwen liblu ya naitudok nalpu hi liblun Ingles hi Robert Tilford an nidippin (Locked English Master; 114 surah / 6,236 bersikulo); nan tekstun Arab ya wada hi kad-ana, bersikulo ya bersikulo. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Pangi-e**: Kuran ya abu — hay Kuran ya abu di un-unudon; nan zakat ya adi midatan hi porsiento te maid di porsienton indat di Kuran; maid di hadith weno komentaryon nid-um. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DRAF — ADI NIREVIEW. Hituwen liblu ya draf an mahapul an ireview di tatagun Tuwali Ifugao di kali da; bokon sertipikado, bokon gibbu, ya adi ni-an nireview di mungkali hi Tuwali Ifugao. / A working draft for native Tuwali Ifugao review; not certified, not final, and not native-reviewed.
-- **Tulong di AI**: Hituwen liblu ya niprepara an waday tulong di AI, nalpu hi liblun Ingles an nidippin; mahapul di review di tatagun Tuwali Ifugao ni-an mausal. / Prepared with AI assistance from the corrected English master; native Tuwali Ifugao review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Tulong di AI**: Prepared with AI assistance from the corrected English master.
 - **Libren midat**: Hituwen liblu ya midat hi libre, maid di presyuna; waday amlong hi kopia, pangiphodan, ya nangamung an bersiyon an mapmaphod. / Freely given; copies, corrections, and better versions are welcomed.
 - **Kali**: Hituwen draf ya hi Tuwali Ifugao (ifk) ya abu — nan kalin di tatagud Kiangan, Ifugao. / This draft is in Tuwali Ifugao (ifk) only — the language of the Tuwali Ifugao people of Kiangan, Ifugao.
 

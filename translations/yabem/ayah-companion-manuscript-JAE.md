@@ -9,19 +9,19 @@ built: 2026-11-17
 master_source: Locked English Master
 master_md5: 064ee170806bb31f5bac3e75d2aa4d94
 gate_status: builder gates PASS (canonical verify PASS; lane checker problems 0; Purple reconciled, unresolved empty); independent checker PENDING — centralized after this build; landing follows it; independent checker PASS WITH FLAGS 2026-11-17 (CHECKER-REPORT-JAE.md)
-status: DRAFT — NOT REVIEWED
+status: Finished work
 ---
 # Ayah Companion
 
-Al-Kuran aŋga biŋ Yabem — DRAFT — NOT REVIEWED
+Al-Kuran aŋga biŋ Yabem
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Yabem review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Yabem rendering: none found after research (New Guinea wave scout, 2026-11-17).
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Yabem rendering: none found after research (New Guinea wave scout, 2026-11-17).
 
 **Biŋ kana buku tonec / About this edition:**
 - **Asal**: Buku tonec kêsa aŋga Robert Tilford nê buku Inggeris taŋ sêjac tôŋ naŋ (Locked English Master; sura 114 / biŋlênsêm 6,236); biŋ Arab gêc sêwiŋ, biŋlênsêm to biŋlênsêm. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Jaya**: Kuran tageŋ — Kuran tageŋ nê lêŋ; zakat, Kuran kêkêŋ persen atom, ŋam gebe Kuran kêkêŋ atom; hadith me komentari sêsêp atom. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DRAFT — SÊMÊTÔC SU ATOM. Buku tonec draf ŋa lau Yabem sêmêtôc; kêtu ŋanô atom, kêtu ŋamu atom, ma lau Yabem sêmêtôc eŋ su atom. / A working draft for native Yabem review; not certified, not final, and not native-reviewed.
-- **Bantuan AI**: Buku tonec sêkêŋ kêwiŋ AI nê sakiŋ, aŋga buku Inggeris taŋ sêjac tôŋ naŋ; lau Yabem sêmêtôc eŋ oc ŋanô — lêŋ tonec ŋaŋêŋ. / Prepared with AI assistance from the corrected English master; native Yabem review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Bantuan AI**: Prepared with AI assistance from the corrected English master.
 - **Ndawaika**: Buku tonec sêkêŋ atom ŋaŋgôŋ; kopia, biŋ ŋajam, ma versi ŋajam kêlêlêc sêkôc. / Freely given; copies, corrections, and better versions are welcomed.
 - **Biŋ**: Buku tonec gêc biŋ Yabem (jae) tageŋ — lau Yabem aŋga Morobe, Papua New Guinea nêŋ biŋ; eŋ biŋ Indonesia atom, mago biŋ luagêc sêpi tageŋ atom. / This draft is in Yabem (jae) only — the language of the Yabem people of Morobe, Papua New Guinea; it is not Indonesian, though the two are partly intelligible.
 

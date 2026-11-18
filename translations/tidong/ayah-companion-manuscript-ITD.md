@@ -1,14 +1,14 @@
 # Ayah Companion
 
-Al-Kuran dalam Bahasa Nonukan Tidong — BELUM DIREVIEW
+Al-Kuran dalam Bahasa Nonukan Tidong
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Nonukan Tidong review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Nonukan Tidong rendering: none found after research.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Nonukan Tidong rendering: none found after research.
 
 **Pasal kitab ini / About this edition:**
 - **Asal**: Kitab gitu tinugus dari kitab Inggeris Robert Tilford anu sudah dibetulkan (Locked English Master; 114 surah / 6,236 ayat); teks Arab sina di sebelahnya, ayat demi ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Kaedah**: Kuran saja — Kuran saja anu ditaati; zakat, Kuran nupa memberi persen, sebab Kuran nupa memberi; hadith atau tafsir nupa ditambah. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DRAF — NUPA DIREVIEW. Kitab gitu draf kerja untuk direview oleh ulun Nonukan Tidong sendiri; belum disahkan, belum siap, dan belum direview oleh penutur asli. / A working draft for native Nonukan Tidong review; not certified, not final, and not native-reviewed.
-- **Bantuan AI**: Kitab gitu disediakan dengan bantuan AI, dari kitab Inggeris anu sudah dibetulkan; ulun Nonukan Tidong sendiri mesti mereview — itu jalan siapnya. / Prepared with AI assistance from the corrected English master; native Nonukan Tidong review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Bantuan AI**: Prepared with AI assistance from the corrected English master.
 - **Pemberian**: Kitab gitu diberi percuma, tiada bayaran; salinan, pembetulan, dan versi anu labih bats dialu-alukan. / Freely given; copies, corrections, and better versions are welcomed.
 - **Bahasa**: Kitab gitu dalam Bahasa Nonukan Tidong (itd) saja — bahasa Tidong selatan dari Nunukan dan sekitarnya; ia bukan Bahasa Melayu standard, walaupun kedua-duanya rapat. / This draft is in Nonukan Tidong (itd) only — the Southern Tidong language of the Nunukan area; it is not standard Malay, though the two are close.
 

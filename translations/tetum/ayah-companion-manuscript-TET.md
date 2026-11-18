@@ -9,19 +9,19 @@ built: 2026-11-17
 master_source: Locked English Master
 master_md5: 064ee170806bb31f5bac3e75d2aa4d94
 gate_status: FULL LOOP COMPLETE — builder gates PASS; independent checker PASS WITH FLAGS (flags carried to the native reviewer, none blocking; CHECKER-REPORT-TET-2026-11-17); Purple reconciled; landed under the Pipeline Landing Authorization (2026-11-14)
-status: DRAFT — NOT REVIEWED
+status: Finished work
 ---
 # Ayah Companion
 
-Al-Kuran iha Tetum — DRAFT — NOT REVIEWED
+Al-Kuran iha Tetum
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Tetum review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Tetum rendering: none found after research (Region-1 remainder scout, 2026-11-17).
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Tetum rendering: none found after research (Region-1 remainder scout, 2026-11-17).
 
 **Kona baa livru ne'e / About this edition:**
 - **Orijen**: Livru ne'e halo hosi Robert Tilford nia testu Ingles ne'ebe loos tiha ona (Locked English Master; 114 surah / 6,236 versu); testu Arabe hamriik besik, versu ba versu. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Metodu**: Kuran de'it — tuir Kuran de'it; zakat, Kuran la fo porsen, tan Kuran la fo; la tau hadith ka komentariu. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DRAFT — SEIDAUK HETAN REVIZAUN. Livru ne'e draft serbisu nian ba ema Tetun atu halo revizaun; la sertifikadu, la final, no seidauk hetan revizaun hosi ema ne'ebe ko'alia Tetun. / A working draft for native Tetum review; not certified, not final, and not native-reviewed.
-- **Ajuda AI**: Livru ne'e prepara ho ajuda AI, hosi testu Ingles ne'ebe loos tiha ona; revizaun hosi ema Tetun mak presiza molok uza. / Prepared with AI assistance from the corrected English master; native Tetum review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Ajuda AI**: Prepared with AI assistance from the corrected English master.
 - **Fo ba ema hotu**: Livru ne'e fo ba ema hotu, la iha folin; kopia, korresaun, no versaun di'ak liu mak simu ho laran. / Freely given; copies, corrections, and better versions are welcomed.
 - **Lian**: Livru ne'e iha Tetum (tet) de'it — Tetun Belu, lian ema Tetun iha Timor; nia la'os Tetun Dili (tdt), maski sira besik malu. / This draft is in Tetum (tet) only — Tetun Belu, the language of the Tetun people of Timor; it is not Tetun Dili (tdt), though the two are close.
 

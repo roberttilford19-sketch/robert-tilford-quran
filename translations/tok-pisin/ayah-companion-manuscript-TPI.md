@@ -9,19 +9,19 @@ built: 2026-11-17
 master_source: Locked English Master
 master_md5: 064ee170806bb31f5bac3e75d2aa4d94
 gate_status: BUILDER GATES PASS — canonical verify PASS; lane checker problems 0; Purple reconciled; independent checker PENDING (centralized after this build); independent checker PASS WITH FLAGS 2026-11-17 (CHECKER-REPORT-TPI.md)
-status: DRAFT — NOT REVIEWED
+status: Finished work
 ---
 # Ayah Companion
 
-Al-Kuran long Tok Pisin — DRAFT — NOT REVIEWED
+Al-Kuran long Tok Pisin
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Tok Pisin review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Tok Pisin rendering: none found after research (New Guinea wave scout, 2026-11-17).
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Tok Pisin rendering: none found after research (New Guinea wave scout, 2026-11-17).
 
 **Tok bilong dispela buk / About this edition:**
 - **Asal**: Dispela buk i kam long buk Inglis bilong Robert Tilford ol i stretim pinis (Locked English Master; 114 sura / 6,236 ves); teks Arap i stap wantaim, ves long ves. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Pasin**: Kuran tasol — dispela buk i bihainim Kuran tasol; zakat, Kuran i no givim wanpela persen, olsem na dispela buk i no givim tu; i no gat hadith o komentari ol i putim insait. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DRAFT — OL I NO RIVIUIM YET. Dispela buk em i draft bilong wok bilong ol manmeri bilong Tok Pisin i riviuim; em i no gat sertipiket, em i no pinis, na ol manmeri bilong Tok Pisin i no riviuim yet. / A working draft for native Tok Pisin review; not certified, not final, and not native-reviewed.
-- **Helpim bilong AI**: Ol i wokim dispela buk wantaim helpim bilong AI, long buk Inglis ol i stretim pinis; ol manmeri bilong Tok Pisin yet i mas riviuim pastaim, na bihain tasol em i ken go aut. / Prepared with AI assistance from the corrected English master; native Tok Pisin review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Helpim bilong AI**: Prepared with AI assistance from the corrected English master.
 - **Fri**: Dispela buk em i fri, i no gat pe; ol kopi, ol stretim, na ol mobeta vesin i welkam. / Freely given; copies, corrections, and better versions are welcomed.
 - **Tok ples**: Dispela draft em i long Tok Pisin (tpi) tasol — tok ples bilong Papua Niugini; em i no Inglis, maski planti hap tok bilong en i kam long Inglis. / This draft is in Tok Pisin (tpi) only — the language of the people of Papua New Guinea; it is not English, though much of its vocabulary comes from English.
 

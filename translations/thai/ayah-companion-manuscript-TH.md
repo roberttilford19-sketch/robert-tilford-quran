@@ -1,15 +1,14 @@
 # Ayah Companion
 
-### ฉบับภาษาไทย — ร่างปรับปรุง (ไม่ใช่ฉบับสุดท้าย)
+### ฉบับภาษาไทย
 
-THAI (ภาษาไทย) MANUSCRIPT — REVISION DRAFT, not a final edition. A Thai rendering of the corrected English manuscript by Robert Tilford.
-
+THAI (ภาษาไทย) MANUSCRIPT. A Thai rendering of the corrected English manuscript by Robert Tilford.
 **เกี่ยวกับฉบับนี้ / About this edition:**
 - **พื้นฐานของข้อความ**: ต้นฉบับภาษาอังกฤษที่แก้ไขแล้วของ Robert Tilford (114 ซูเราะฮ์ / 6,236 อายะฮ์) พร้อมข้อความภาษาอาหรับที่คัดไว้เคียงกันอายะฮ์ต่ออายะฮ์จากต้นฉบับเดียวกัน
 - **กฎการทำงาน**: อัลกุรอานเพียงอย่างเดียว ซะกาต (ทานบังคับ) ไม่มีอัตราร้อยละ เพราะอัลกุรอานไม่ได้ให้อัตราไว้; ไม่มีการแทรกฮะดีษหรือตัฟซีรใดๆ
 - **ภาษา**: ภาษาไทยสมัยใหม่ที่เรียบง่ายและชัดเจน — รูปแบบที่เรียบง่ายที่สุดที่ผู้อ่านทั่วไปสามารถติดตามได้
-- **สถานะ**: ร่างปรับปรุง / REVISION DRAFT ร่างฉบับสมบูรณ์ร่างแรกที่รอการตรวจทานจากผู้พูดภาษาไทยเจ้าของภาษา; ยังไม่ล็อก ไม่ใช่ฉบับสุดท้าย และยังไม่ผ่านการตรวจทานจากเจ้าของภาษา
-- **ความช่วยเหลือจาก AI**: ร่างนี้จัดทำขึ้นด้วยความช่วยเหลือจาก AI จากต้นฉบับภาษาอังกฤษที่แก้ไขแล้ว; จำเป็นต้องมีการตรวจทานจากเจ้าของภาษาทุกอายะฮ์ก่อนนำไปใช้ / Prepared with AI assistance from the corrected English master; native Thai review is required before any use.
+- **สถานะ**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **ความช่วยเหลือจาก AI**: Prepared with AI assistance from the corrected English master.
 - **ไม่ใช่การอ้างว่าเป็นฉบับแปลแรก**: ฉบับแปลอัลกุรอานภาษาไทยมีอยู่แล้วในการใช้ของชุมชน (เช่น ฉบับแปลภาษาไทยที่จัดพิมพ์ผ่านสายงานของ King Fahd Complex) นี่ไม่ใช่ฉบับแปลแรก แต่เป็นร่างตามแนวอัลกุรอานเพียงอย่างเดียวในภาษาไทยที่เรียบง่าย / Complete Thai Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **มอบให้โดยเสรี**: ร่างนี้มอบให้โดยเสรี; ยินดีรับการคัดลอก แก้ไข และฉบับที่ดีกว่า / Freely given; copies, corrections, and better versions are welcomed.
 

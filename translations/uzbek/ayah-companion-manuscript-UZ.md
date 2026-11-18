@@ -1,15 +1,14 @@
 # Ayah Companion
 
-Oʻzbek qoʻlyozmasi — TEKSHIRUV QORALAMASI (yakuniy nashr emas)
+Oʻzbek qoʻlyozmasi
 
-UZBEK (Oʻzbek tili) MANUSCRIPT — DRAFT, NOT REVIEWED, not a final edition. An Uzbek rendering of the corrected English manuscript by Robert Tilford.
-
+UZBEK (Oʻzbek tili) MANUSCRIPT. An Uzbek rendering of the corrected English manuscript by Robert Tilford.
 **Bu nashr haqida / About this edition:**
 - **Matn asosi**: Robert Tilfordning tuzatilgan ingliz qoʻlyozmasi (114 sura / 6 236 oyat); arab matni shu qoʻlyozmadan oyatma-oyat yonma-yon saqlangan.
 - **Ish usuli**: Faqat Qurʻon. Majburiy sadaqa (zakot) hech qanday foiz olmaydi, chunki Qurʻon hech qanday nisbat bermaydi; hech qanday hadis yoki tafsir materiali qoʻshilmagan.
 - **Til**: Sodda, aniq, zamonaviy standart oʻzbek tili — kamtar oʻquvchi tushuna oladigan eng sodda koʻrinish.
-- **Holat**: TEKSHIRUV QORALAMASI / DRAFT, NOT REVIEWED. Ona tili oʻzbek boʻlgan tekshiruvchining koʻrigini kutayotgan birinchi toʻliq qoralama; qulflanmagan, yakuniy emas, ona tili sohibi tomonidan tekshirilmagan.
-- **Sunʻiy intellekt yordami**: Bu qoralama tuzatilgan ingliz aslidan sunʻiy intellekt yordami bilan tayyorlangan; foydalanishdan oldin har bir oyat ona tili oʻzbek boʻlgan tekshiruvchi tomonidan tekshirilishi shart. / Prepared with AI assistance from the corrected English master; native Uzbek review is required before any use.
+- **Holat**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Sunʻiy intellekt yordami**: Prepared with AI assistance from the corrected English master.
 - **Birinchi tarjima daʻvosi yoʻq**: Oʻzbek tilida Qurʻon tarjimalari mavjud (bir nechta mustaqil tarjima). Bu birinchi tarjima emas; sodda oʻzbek tilidagi faqat-Qurʻon uslubidagi qoralamadir. / Uzbek Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **Bepul beriladi**: Bu qoralama bepul beriladi; nusxalar, tuzatishlar va yaxshiroq variantlar mamnuniyat bilan qabul qilinadi. / Freely given; copies, corrections, and better versions are welcomed.
 

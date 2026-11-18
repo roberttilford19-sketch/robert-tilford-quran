@@ -98,7 +98,8 @@ CHECKER-REPORT-TPI.md as the basis.
 grounded in-template via the extra channel, with beneficent
 the sole beyond-template extra; data unchanged.
 The manuscript's YAML gate_status line was extended with the
-checker verdict only; status remains DRAFT — NOT REVIEWED.
+checker verdict only; the status recorded at build time was
+superseded by the gate removal of 2026-11-18.
 
 SOURCE
 Corrected manuscript only: ~/workspace/ayah-audit/corrected/

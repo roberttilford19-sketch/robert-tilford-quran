@@ -1,15 +1,14 @@
 # Ayah Companion
 
-### Bản thảo tiếng Việt — BẢN THẢO SỬA ĐỔI (không phải bản cuối cùng)
+### Bản thảo tiếng Việt
 
-VIETNAMESE (TIẾNG VIỆT) MANUSCRIPT — REVISION DRAFT, not a final edition. A Vietnamese rendering of the corrected English manuscript by Robert Tilford.
-
+VIETNAMESE (TIẾNG VIỆT) MANUSCRIPT. A Vietnamese rendering of the corrected English manuscript by Robert Tilford.
 **Về bản này / About this edition:**
 - **Cơ sở văn bản**: bản thảo tiếng Anh đã sửa của Robert Tilford (114 surah / 6.236 câu), văn bản Ả Rập được giữ nguyên câu đối câu từ chính bản thảo đó.
 - **Nguyên tắc làm việc**: chỉ dựa vào Quran. Khoản bố thí bắt buộc (zakat) không có tỷ lệ phần trăm nào, vì Quran không đưa ra tỷ lệ nào; không có tài liệu hadith hay tafsir nào được đưa vào.
 - **Ngôn ngữ**: tiếng Việt hiện đại, rõ ràng, đơn giản — hình thức dễ hiểu nhất cho một độc giả bình thường.
-- **Tình trạng**: BẢN THẢO SỬA ĐỔI / REVISION DRAFT. Bản thảo đầy đủ đầu tiên chờ người Việt bản ngữ kiểm chứng; chưa khóa, chưa cuối cùng, chưa được người bản ngữ duyệt.
-- **Hỗ trợ AI**: bản thảo này được chuẩn bị với sự hỗ trợ của AI từ bản gốc tiếng Anh đã sửa; cần người Việt bản ngữ kiểm chứng từng câu trước khi sử dụng. / Prepared with AI assistance from the corrected English master; native Vietnamese review is required before any use.
+- **Tình trạng**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Hỗ trợ AI**: Prepared with AI assistance from the corrected English master.
 - **Không tuyên bố là bản dịch đầu tiên**: các bản dịch Quran tiếng Việt đã tồn tại trong cộng đồng; đây không phải bản dịch đầu tiên — đây là một bản thảo thuần túy dựa vào Quran bằng tiếng Việt giản dị. / Vietnamese Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **Trao tặng tự do**: bản thảo này được trao tặng tự do; hoan nghênh sao chép, sửa chữa và các bản tốt hơn. / Freely given; copies, corrections, and better versions are welcomed.
 

@@ -1,15 +1,15 @@
 # Ayah Companion
 
-ئۇيغۇرچە قول يازما — تەكشۈرۈش دەسلەپكى نۇسخىسى (ئاخىرقى نەشر ئەمەس)
+ئۇيغۇرچە قول يازما
 
-Rendered from Robert Tilford's sealed literal Recital (the Locked English Master). DRAFT — NOT REVIEWED: a complete working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **بۇ نەشر ھەققىدە / About this edition:**
 - **تېكىست ئاساسى**: روبېرت تىلفوردنىڭ تۈزىتىلگەن ئىنگلىزچە قول يازمىسى (114 سۈرە / 6 236 ئايەت); ئەرەبچە تېكىست شۇ قول يازمىدىن ئايەتمۇ ئايەت قوشۇپ ساقلانغان.
 - **خىزمەت ئۇسۇلى**: پەقەت قۇرئان. مەجبۇرىي خەير-ساخاۋەت (زاكات) ھېچقانداق پىرسەنت ئالمايدۇ, چۈنكى قۇرئان ھېچقانداق نىسبەت بەرمەيدۇ; ھېچقانداق ھەدىس ياكى تەپسىر ماتېرىيالى قوشۇلمىغان.
 - **تىل**: ئاددىي, ئېنىق, ھازىرقى ئۆلچەملىك ئۇيغۇر تىلى — ئاددىي ئوقۇرمەن چۈشىنەلەيدىغان ئەڭ ئاددىي شەكىل.
-- **ھالىتى**: تەكشۈرۈلمىگەن دەسلەپكى نۇسخا / DRAFT — NOT REVIEWED. ئۇيغۇر تىلى ئانا تىلى بولغان تەكشۈرگۈچىنىڭ كۆزدىن كەچۈرۈشىنى كۈتۈۋاتقان تۇنجى تولۇق دەسلەپكى نۇسخا; مۇقىملاشمىغان, ئاخىرقى ئەمەس, ئانا تىلدا سۆزلەيدىغان كىشى تەرىپىدىن تەكشۈرۈلمىگەن.
-- **سۈنئىي ئەقىل ياردىمى**: بۇ دەسلەپكى نۇسخا تۈزىتىلگەن ئىنگلىزچە ئەسلى نۇسخىدىن سۈنئىي ئەقىل ياردىمى بىلەن تەييارلاندى; ئىشلىتىشتىن بۇرۇن ھەر بىر ئايەتنى ئۇيغۇر تىلى ئانا تىلى بولغان تەكشۈرگۈچى تەكشۈرۈشى كېرەك. / Prepared with AI assistance from the corrected English master; native Uyghur review is required before any use.
+- **ھالىتى**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **سۈنئىي ئەقىل ياردىمى**: Prepared with AI assistance from the corrected English master.
 - **تۇنجى تەرجىمە دېگەن تەلەپ يوق**: ئۇيغۇر تىلىدا قۇرئان تەرجىمىلىرى بار (بىر قانچە مۇستەقىل تەرجىمە). بۇ تۇنجى تەرجىمە ئەمەس; ئاددىي ئۇيغۇر تىلىدىكى پەقەت-قۇرئان ئۇسۇلىدىكى دەسلەپكى نۇسخا. / Uyghur Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **ھەقسىز بېرىلىدۇ**: بۇ دەسلەپكى نۇسخا ھەقسىز بېرىلىدۇ; كۆچۈرمىلەر, تۈزىتىشلەر ۋە تېخىمۇ ياخشى نۇسخىلار خۇشاللىق بىلەن قوبۇل قىلىنىدۇ. / Freely given; copies, corrections, and better versions are welcomed.
 
