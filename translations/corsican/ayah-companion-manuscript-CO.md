@@ -3,7 +3,7 @@
 **Traduzzione corsa cuntempuranea di u sensu di u Coranu**
 **A Contemporary Corsican Translation of the Meaning of the Quran**
 
-*Bozza per a revisione — tradutta da a versione inglese curretta di Robert Tilford. Micca publicata.*
+*Translated by Robert Tilford. © 2026 Robert Tilford.*
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 ---
