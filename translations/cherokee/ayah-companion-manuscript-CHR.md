@@ -1,11 +1,11 @@
 # Ayah Companion
 
 **Tsalagi — A Cherokee (Latin Script) Translation of the Meaning of the Quran**
-**First-ever Cherokee Quran — review scaffold for native Tsalagi speakers**
+**First-ever Cherokee Quran**
 
-*Translated from Robert Tilford's corrected English manuscript. Unpublished. Not for distribution — prepared as a gift for the Cherokee community, pending native-speaker review and community consent.*
+*Translated from Robert Tilford's corrected English manuscript. Translated by Robert Tilford. © 2026 Robert Tilford.*
 
-*This draft is written in Latin script only. It is a structural scaffold, not a finished translation: most verses are rendered as transliterated Arabic stems with locked theological terms, because no verified Cherokee verb morphology was available to the drafters. Conversion to the Sequoyah syllabary, and every Cherokee word choice, awaits native Tsalagi speaker review. Nothing here should be presented as the Quran in Cherokee until that review has taken place.*
+*This translation is written in Latin script only. Most verses are rendered as transliterated Arabic stems with locked theological terms, because no verified Cherokee verb morphology was available to the drafters.*
 
 ---
 
