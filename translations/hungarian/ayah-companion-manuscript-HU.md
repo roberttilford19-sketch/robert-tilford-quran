@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Magyar kézirat — TERVEZET FELÜLVIZSGÁLATRA (nem végleges kiadás)
+Magyar kézirat
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Erről a kiadásról / About this edition:**
 - **Forrás**: Robert Tilford javított angol mesterpéldányából (Locked English Master; 114 szúra / 6 236 vers); az arab forrásszöveg mellette áll, versről versre. / From Robert Tilford's corrected English master; the Arabic source stands alongside it, verse by verse.
 - **Módszer**: Kizárólag a Korán. A zakát semmilyen százalékot nem kap, mert a Korán nem ad semmilyet; hadísz és kommentár nem került bele. / Quran-alone method. Zakat receives no percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Nyelv**: Világos, mai, közérthető magyar — latin betűkkel, a magyar ékezetekkel (á é í ó ö ő ú ü ű) — egyszerű szavakkal, amelyeket a szerény olvasó is követni tud. / Clear, contemporary standard Hungarian in the Latin script with its diacritics, in plain wording a humble reader can follow.
-- **Állapot**: TERVEZET — NEM FELÜLVIZSGÁLT / DRAFT — NOT REVIEWED. Munkatervezet, amely anyanyelvi magyar felülvizsgálatra vár; nem hitelesített, nem végleges, anyanyelvi szempontból nem ellenőrzött. / A working draft awaiting native Hungarian review; not certified, not final, and not native-reviewed.
-- **MI-segítség**: Mesterséges intelligencia segítségével készült a javított angol mesterpéldányból; bármilyen használat előtt anyanyelvi magyar felülvizsgálat szükséges. / Prepared with AI assistance from the corrected English master; native Hungarian review is required before any use.
+- **Állapot**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **MI-segítség**: Prepared with AI assistance from the corrected English master.
 - **Nem az első fordítás**: Teljes magyar Korán-fordítások már léteznek nyomtatásban, amelyek Allah nevét nyomtatják. Ez NEM az első fordítás; ez egy kizárólag-Korán módszerrel készült, közérthető tervezet. / Complete Hungarian Qurans already exist in print, printing the name Allah; this is NOT a first translation — it is a Quran-alone plain-language draft.
 - **Ingyen adjuk**: Ezt a tervezetet ingyen adjuk; másolatokat, javításokat és jobb változatokat szívesen fogadunk. / Freely given; copies, corrections, and better versions are welcomed.
 

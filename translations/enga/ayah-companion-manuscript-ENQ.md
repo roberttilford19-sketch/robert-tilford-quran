@@ -9,19 +9,18 @@ built: 2026-11-17
 master_source: Locked English Master
 master_md5: 064ee170806bb31f5bac3e75d2aa4d94
 gate_status: BUILDER GATES PASS — canonical verify PASS; lane checker problems 0; Purple reconciled; independent checker PENDING (centralized after this build); NOT PUSHED; independent checker PASS WITH FLAGS 2026-11-17 (CHECKER-REPORT-ENQ.md)
-status: DRAFT — NOT REVIEWED
+status: Finished work
 ---
 # Ayah Companion
 
-Kurana Enga Piimi — DRAFT — NOT REVIEWED
+Kurana Enga Piimi
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Enga review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Enga rendering: none found after research (New Guinea wave scout, 2026-11-17).
-
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Enga rendering: none found after research (New Guinea wave scout, 2026-11-17).
 **Pii wambao / About this edition:**
 - **Wamba**: Kurana dake Robert Tilford-nya Inglisi pepa tolae (Locked English Master; 114 surah / 6,236 ves) doko-kisa wasia; Araba pii doko baa-pipa silyamo, ves mendai mendai. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Kaita**: Kurana iki — Kurana iki minao; zakat, Kurana dokome persen mende nalae, dokona persen mende naeya; hadith ba komentari mende naeya. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED. Kurana dake wasi doko Enga endakalimi kandao tolasina lao silyamo; kiningi daa, paupae daa, Enga endakalimi tolae naya. / A working draft for native Enga review; not certified, not final, and not native-reviewed.
-- **AI nisina**: Kurana dake AI-me nisina lao Inglisi pepa tolae doko-kisa wasia; Enga endakalimi kandao tolatina lao — doko iki kaita. / Prepared with AI assistance from the corrected English master; native Enga review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI nisina**: Prepared with AI assistance from the corrected English master.
 - **Mee maiya**: Kurana dake mee maiya, mone naeya; kopi, tolasina, dee epe wasina dupa auu kaeyao nyingi. / Freely given; copies, corrections, and better versions are welcomed.
 - **Pii**: Kurana dake Enga pii (enq) iki — Enga endakali dupa, Enga Province, Papua New Guinea dupanya pii; dake Inglisi pii daa. / This draft is in Enga (enq) only — the language of the Enga people of Enga Province, Papua New Guinea; it is not English.
 

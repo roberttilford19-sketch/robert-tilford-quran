@@ -1,14 +1,14 @@
 # Ayah Companion
 
-### DEUTSCHES MANUSKRIPT — ÜBERARBEITUNGS-ENTWURF (keine endgültige Ausgabe)
+### DEUTSCHES MANUSKRIPT
 
-Eine zeitgenössische deutsche Übersetzung des Korans, Ausgabe des korrigierten englischen Manuskripts von Robert Tilford — Überarbeitungs-Entwurf, keine endgültige Ausgabe.
+Eine zeitgenössische deutsche Übersetzung des Korans, Ausgabe des korrigierten englischen Manuskripts von Robert Tilford.
 
 **Über diese Ausgabe:**
 - **Textgrundlage**: das korrigierte englische Manuskript von Robert Tilford (114 Suren / 6.236 Verse), mit dem arabischen Text Vers für Vers aus dem Manuskript übernommen.
 - **Arbeitsregel**: der Koran allein. Wohltätigkeit (Zakat) erhält keinen Prozentsatz, weil der Koran keinen nennt; kein Hadith- oder Tafsir-Material wurde importiert.
 - **Sprache**: einfaches, modernes Deutsch — alltägliche Wörter, kurze Sätze: die klarste und einfachste Übersetzung, die auch ein einfacher Mensch verstehen kann.
-- **Status**: ÜBERARBEITUNGS-ENTWURF. Keine gesperrte Ausgabe und keine endgültige Rezitation; eine erste vollständige Fassung, die auf die Prüfung durch einen deutschen Muttersprachler wartet.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
 - **Keine Erstübersetzung**: Dieser Text wird nicht als erste deutsche Übersetzung des Korans dargestellt; er erkennt die bestehende deutsche Tradition an, insbesondere die mit Rudi Paret verbundene.
 
 # Inhaltsverzeichnis

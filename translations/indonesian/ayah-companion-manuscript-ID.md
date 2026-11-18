@@ -1,6 +1,6 @@
 # Ayah Companion
 
-### NASKAH INDONESIA — DRAF TINJAUAN (bukan edisi final)
+### NASKAH INDONESIA
 
 Sebuah terjemahan Al-Qur'an kontemporer ke dalam Bahasa Indonesia, edisi dari manuskrip Inggris Robert Tilford yang telah dikoreksi — draf tinjauan, bukan edisi final.
 

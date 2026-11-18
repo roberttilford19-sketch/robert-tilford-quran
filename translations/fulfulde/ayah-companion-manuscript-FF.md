@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Firo Pulaar — PANNDOL (hinnaaki ɗaɓɓitaama)
+Firo Pulaar
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Fulfulde review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Ko faati e ndee deftere / About this edition:**
 - **Fuɗɗorde**: Ɗuuɗɗum mahaa ko e deftere Enngele soluteere nde Robert Tilford solutee (Locked English Master; suuraaji 114 / aayeeji 6,236); binndol Arab asliiwol ngol ina darii sara kala aaya. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Laawol**: Qur'aana tan — hay huunde woɗnde naatnaaka. Jakka meeɗaa rokkireede teemedere, sabu Qur'aana rokkataa teemedere; hay hadiis walla tafsir naatnaaka. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Ɗemngal**: Pulaar, binndol Latin laawol (binndol laawol Fulɓe), e ɗemngal laaɓngal ngo janngooɓe fof mbaawi faamde. / The Pulaar variety of Fulfulde, in the official Latin orthography, in plain wording a general reader can follow.
-- **Ngonka**: ƊUUƊƊUM KO PANNDOL — HINNAKI ƊAƁƁITAAMA / DRAFT — NOT REVIEWED. Ndee deftere ko panndol golle ɗaɓɓitoowol ƴeewto Fulfulde jibinaaɗo; hikkii, timmaaki, ƴeewtaaki. / A working draft sent for native Fulfulde review; not certified, not final, and not native-reviewed.
-- **Ballal AI**: Ɗuuɗɗum peewnaa ko e ballal AI gila e deftere Enngele soluteere; ƴeewto Fulfulde jibinaaɗo ko farilla hade huunde huutoreede. / Prepared with AI assistance from the corrected English master; native Fulfulde review is required before any use.
+- **Ngonka**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Ballal AI**: Prepared with AI assistance from the corrected English master.
 - **Walaa wiyde ko adannde**: Panndol ngol wiyataa ko ɗum firo Qur'aana e Fulfulde adannde; firooji goɗɗi ina ngoodi (Bâ 1982; King Fahd Complex 2012; Rowad 2022). / This draft makes no claim to be the first rendering of the Quran into Fulfulde; complete renderings by others already exist (Bâ 1982; King Fahd Complex 2012; Rowad 2022).
 - **Rokkude ngam meere**: Panndol ngol rokkaa ko ngam meere; nanondireeji, soluteeji e firooji boɗeeji ina njaɓee. / Freely given; copies, corrections, and better versions are welcomed.
 

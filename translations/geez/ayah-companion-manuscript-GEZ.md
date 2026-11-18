@@ -1,15 +1,14 @@
 # Ayah Companion
 
-ትርጉም ግእዝ — ረቂቅ ለምርመራ (ኢኮነ ፍጹም ሕትመት)
+ትርጉም ግእዝ
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for qualified Ge'ez scholarly review; not for publication or distribution as a finished translation. THE DESK CANNOT READ GE'EZ — see the hard gate in the notes below.
-
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. THE DESK CANNOT READ GE'EZ — see the hard gate in the notes below.
 **ስለ ዝንቱ ሕትመት / About this edition:**
 - **ምንጭ**: እምጽሕፈ መምህር እንግሊዝኛ ዘተአርሞ ሮበርት ቲልፎርድ (Locked English Master፤ 114 ምዕራፋት / 6,236 ቃላት)፤ ጽሕፈ ዓረብኛ ምንጪ ይትነብብ ኀበኡ ቃለ ቃለ። / From Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source stands alongside it, verse by verse.
 - **ስርዓተ ትርጉም**: ቁርአን በባሕቱ። ዘካት ኢይትወሀብ ክብደ ሚእት በምንም ምኽንያት፣ እስመ ቁርአን ኢይሁብ ክብደ ሚእት፤ ኢተወስኮ ሐዲስ ወኢተወስኮ ትንታኔ። / Quran-alone method. Zakat receives no percentage, ever, because the Quran gives none; no hadith or commentary has been added.
 - **ቋንቋ**: ግእዝ ክላሲካዊ በፊደለ ኢትዮጵያ፣ በቃል ቀሊል ዘይክል ሠናይ ሑሙስ ኅብረ ሰብ ክምዝ ይትረጐም። / Classical Ge'ez in the Ethiopic script, in plain wording a humble reader can follow.
-- **አቀማምጦ**: ረቂቅ — ኢተምርምረ / DRAFT — NOT REVIEWED. ዝንቱ ረቂቅ ይጽንሕ ምርመራ ዘምሁር ግእዝ፤ ኢኮነ ተረጋግጾ፣ ኢኮነ ፍጻሜ፣ ወኢኮነ ተምርምሮ። / A working draft awaiting qualified Ge'ez scholarly review; not certified, not final, and not reviewed.
-- **ናይ AI ሓገዝ**: ተሰሪቱ ብሓገዝ AI እምጽሕፈ መምህር እንግሊዝኛ ዘተአርሞ፤ የድሊ ምርመራ ዘምሁር ግእዝ ቅድመ ዝኾነ አገልግሎት። / Prepared with AI assistance from the corrected English master; qualified Ge'ez scholarly review is required before any use.
+- **አቀማምጦ**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **ናይ AI ሓገዝ**: Prepared with AI assistance from the corrected English master.
 - **ገደብ ምሕረት (THE HARD GATE)**: THE DESK CANNOT READ GE'EZ. Verification of this lane is structural and mechanical only — verse and surah counts, marker placement, Arabic identity, and counted-token censuses. No desk eyeball of the Ge'ez text exists or is claimed. Scholarly Ge'ez review is therefore not merely invited but a HARD GATE: nothing in this lane may be described as checked beyond structure until a qualified Ge'ez reader rules. / ዝንቱ ረቂቅ ኢይገብር ቃለ ቀዳማይነት፤ ኢምንትኒ ቃል አይትገብር ብዛዕባ ካልኦት ትርጉማት። / This draft makes no claim of priority or firstness, and no claim about any other rendering.
 - **ዜወሀብ ብነጻ**: ዝንቱ ረቂቅ ይትወሀብ ብነጻ፤ ይትቀበል ቅዳሕ፣ አርአምታት፣ ወትርጉማት እለ ይሕይሱ። / Freely given; copies, corrections, and better versions are welcomed.
 

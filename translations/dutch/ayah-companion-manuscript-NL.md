@@ -1,15 +1,14 @@
 # Ayah Companion
 
-### NEDERLANDS MANUSCRIPT — REVISIE-ONTWERP (geen definitieve editie)
+### NEDERLANDS MANUSCRIPT
 
-DUTCH (NEDERLANDS) MANUSCRIPT — REVISION DRAFT, not a final edition. A Dutch rendering of the corrected English manuscript by Robert Tilford.
-
+DUTCH (NEDERLANDS) MANUSCRIPT. A Dutch rendering of the corrected English manuscript by Robert Tilford.
 **Over deze editie / About this edition:**
 - **Tekstbasis**: het gecorrigeerde Engelse manuscript van Robert Tilford (114 soera’s / 6.236 verzen), met de Arabische tekst vers voor vers uit dat manuscript overgenomen.
 - **Werkregel**: de Koran alleen. De verplichte liefdadigheid (zakat) krijgt geen percentage, omdat de Koran er geen geeft; er is geen hadith- of tafsir-materiaal ingevoegd.
 - **Taal**: eenvoudig, duidelijk Nederlands — de helderste en simpelste weergave die een eenvoudig mens kan volgen.
-- **Status**: REVISIE-ONTWERP / REVISION DRAFT. Een eerste volledige ontwerp dat wacht op beoordeling door Nederlandse moedertaalsprekers; niet vergrendeld, niet definitief, niet door moedertaalsprekers beoordeeld.
-- **AI-hulp**: dit ontwerp is met behulp van AI opgesteld vanuit het gecorrigeerde Engelse manuscript; elke regel moet door een Nederlandse beoordelaar worden gecontroleerd voordat het wordt gebruikt. / Prepared with AI assistance from the corrected English master; native Dutch review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI-hulp**: Prepared with AI assistance from the corrected English master.
 - **Geen claim van eerste vertaling**: Nederlandse Koranvertalingen bestaan al (onder meer sinds 1953). Dit is geen eerste vertaling; het is een Koran-alleen-ontwerp in eenvoudig Nederlands. / Dutch Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **Vrij gegeven**: dit ontwerp wordt vrij weggegeven; kopieën, correcties en betere versies zijn welkom. / Freely given; copies, corrections, and better versions are welcomed.
 

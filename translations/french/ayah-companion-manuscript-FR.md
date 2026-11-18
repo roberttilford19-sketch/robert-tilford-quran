@@ -1,14 +1,14 @@
 # Ayah Companion
 
-### MANUSCRIT FRANÇAIS — ÉBAUCHE DE RÉVISION (pas une édition définitive)
+### MANUSCRIT FRANÇAIS
 
-Une traduction contemporaine du Coran en français, édition du manuscrit anglais corrigé de Robert Tilford — ébauche de révision, pas une édition définitive.
+Une traduction contemporaine du Coran en français, édition du manuscrit anglais corrigé de Robert Tilford.
 
 **À propos de la présente édition :**
 - **Base textuelle** : le manuscrit anglais corrigé de Robert Tilford (114 sourates / 6 236 versets), avec le texte arabe repris verset par verset du manuscrit.
 - **Règle de travail** : le Coran seul. La charité (zakat) ne reçoit aucun pourcentage, parce que le Coran n’en donne aucun ; aucun matériau de hadith ou de tafsir n’a été importé.
 - **Langue** : français moderne simple et direct — mots de tous les jours, phrases courtes : la traduction la plus claire et la plus simple possible, celle que l’humble paysan pourrait comprendre.
-- **Statut** : ÉBAUCHE DE RÉVISION. Ce n’est pas une édition verrouillée, ni une récitation finale ; c’est une première version complète en attente de la révision d’un locuteur natif français.
+- **Statut** : Translated by Robert Tilford. © 2026 Robert Tilford.
 - **Pas une première** : ce texte n’est pas présenté comme la première traduction française du Coran ; il reconnaît la tradition française existante, notamment celle associée à Muhammad Hamidullah.
 
 # Sommaire

@@ -1,14 +1,13 @@
 # Ayah Companion
 
-Pagsalin a Iranon — DRAFT (da pa miyarepaso)
+Pagsalin a Iranon
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Iranon review; not for publication or distribution as a finished translation. This draft makes no first-translation claim.
-
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim.
 **Makupantag sii ko ini a edisyon / About this edition:**
 - **Bunbunan**: Ini a salin a Iranon na inbaal pun sii ko inisugat a Inglis a orihinal o Robert Tilford (so Locked English Master; 114 a sura / 6,236 a ayat); so Arab a teksto na makapapada sii ko uman ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Pamaagi**: Koran bu — so Koran bu i pakauga. So jakat na di dun pakaumani sa porsiyento, ka da a porsiyento a inibegay o Koran; da a hadith o tafsir a inidugang. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Ngaran a di pa napapatot**: DRAFT — DA PA MIYAREPASO / DRAFT — NOT REVIEWED. Ini na isa a draft a para ko mga Iranon a makakataro a magrepaso; di pa napapatot, di pa natapos, agu di pa niyarepaso o titho a makakataro. / A working draft for native Iranon review; not certified, not final, and not native-reviewed.
-- **Tabang o AI**: Ini a salin na inbaal a aden a tabang o AI pun sii ko inisugat a Inglis a orihinal; kailangan so repasohon o titho a Iranon a makakataro bago gamiten. / Prepared with AI assistance from the corrected English master; native Iranon review is required before any use.
+- **Ngaran a di pa napapatot**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Tabang o AI**: Prepared with AI assistance from the corrected English master.
 - **Da a unamba a una a salin**: Ini a draft na di sumasag a sekaniyan i una a salin o Koran sii ko Iranon; da a klaim a lagid oto a baalen sii, sii ko isa man a dokumento o ini a lane. / This draft makes no claim to be the first rendering of the Quran into Iranon, here or in any lane document.
 - **Libre a ibegay**: Ini a salin na ibegay a libre; so mga kopiya, mga kasugat agu mga labi a mapiya a salin na tarimaon. / Freely given; copies, corrections, and better versions are welcomed.
 

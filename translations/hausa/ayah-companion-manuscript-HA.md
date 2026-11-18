@@ -1,15 +1,14 @@
 # Ayah Companion
 
-### Fassarar Hausa — RUBUTUN GYARA (ba bugu na ƙarshe ba)
+### Fassarar Hausa
 
-HAUSA MANUSCRIPT — REVISION DRAFT, not a final edition. A Hausa rendering of the corrected English manuscript by Robert Tilford.
-
+HAUSA MANUSCRIPT. A Hausa rendering of the corrected English manuscript by Robert Tilford.
 **Game da wannan bugu / About this edition:**
 - **Tushe**: rubutun Turanci da Robert Tilford ya gyara (surori 114 / ayoyi 6,236); an ɗora Larabci aya bayan aya daga wannan tushe guda. / Source: Robert Tilford’s corrected English master (114 surahs / 6,236 verses); Arabic placed verse by verse from the same master.
 - **Hanya**: Alƙurʼani kaɗai — kalmomi da Alƙurʼani kansa ya bayyana su. Zakka ba ta da kowane kashi na ɗari, domin Alƙurʼani bai ba da kashi ba; babu ƙarin hadisi ko alʼada. / Quran-alone: terms defined by the Quran itself; zakat carries NO percentage; no hadith/traditional additions.
 - **Harshe**: Hausa ta yau da kullum mai sauƙi — rubutun Boko (na Latin), kalmomin da mai karatu na yau da kullum zai bi. / Plain standard Hausa in Boko (Latin) script, words a humble reader can follow. Haruffan ƙugiya ɓ ɗ ƙ ƴ an kiyaye su; ba a rubuta sautin murya (tone) a Boko ba, kuma an bayyana wannan — / Tone is not written in Boko, and that limit is stated, not hidden.
-- **Matsayi**: RUBUTUN GYARA / REVISION DRAFT. Wannan rubutu gaba ɗayansa yana buƙatar bita daga masu jin Hausa na asali — ba na ƙarshe ba ne, kuma kada a yi amfani da shi kafin bitar. / Complete draft awaiting native Hausa review; not final, not for use before review.
-- **Taimakon AI**: an shirya wannan rubutu da taimakon AI daga gyararren rubutun Turanci; bita daga masu jin Hausa na asali wajibi ce kafin kowane amfani. / Prepared with AI assistance from the corrected English master; native Hausa review is required before any use.
+- **Matsayi**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Taimakon AI**: Prepared with AI assistance from the corrected English master.
 - **Ba fassara ta farko ba**: Alƙurʼanai da Hausa suna cikin amfani a cikin alʼumma (misali fassarar Hausa ta Sheikh Abubakar Mahmoud Gumi). Wannan rubutun gyara ne kawai na hanyar Alƙurʼani-kaɗai cikin harshe mai sauƙi, ba na farko ba. / Hausa Qurans already exist in community use (e.g., Sheikh Abubakar Mahmoud Gumiʼs Hausa translation); this is a Quran-alone plain-language draft, not a first translation.
 - **An bayar kyauta**: an bayar da wannan rubutu kyauta; kwafi, gyare-gyare da ingantattun buguna suna maraba. / Freely given; copies, corrections, and better versions are welcomed.
 - **Editorial note — unclosed quotations (2026-10-13):** Some quotations in this manuscript stand unclosed: a speech opens and no closing mark follows, exactly as in the source text from which this manuscript derives. They are preserved deliberately; no closing marks have been invented for them. The verses at which such an unclosed quotation opens are: 2:215, 3:73, 6:145, 6:162, 10:49, 12:5, 12:8, 12:38, 14:36, 18:87, 19:4, 19:24, 21:56, 25:15, 33:66, 37:51, 38:71 (17 in all).

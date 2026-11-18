@@ -9,19 +9,18 @@ built: 2026-11-17
 master_source: Locked English Master
 master_md5: 064ee170806bb31f5bac3e75d2aa4d94
 gate_status: FULL LOOP (builder side) — lane checker problems 0; canonical verify PASS; Purple reconciled (see PURPLE-REPORT-KJS-2026-11-17.md); NOT PUSHED; independent checker PENDING — centralized after this build; independent checker PASS WITH FLAGS 2026-11-17 (CHECKER-REPORT-KJS.md)
-status: DRAFT — NOT REVIEWED
+status: Finished work
 ---
 # Ayah Companion
 
-Al-Kuran ri East Kewa agale — DRAFT — NOT REVIEWED
+Al-Kuran ri East Kewa agale
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native East Kewa review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other East Kewa rendering: none found after research (New Guinea wave scout, 2026-11-17).
-
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other East Kewa rendering: none found after research (New Guinea wave scout, 2026-11-17).
 **Go buk-na remaa / About this edition:**
 - **Asal / Origin**: Go buk-re Robert Tilford-na Inggeris master (Locked English Master; 114 sura / 6,236 ayat) madaa warisimi; Arabia agale ayat raayo raapu pia. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Pora / Method**: Kuran komea-na pora — Kuran komea ralema; zakat madaa persen dia, Kuran persen nakalisa-pulu; hadith page komentari dia. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DRAFT — REVIEW DIA. Go buk-re East Kewa enaalinuna review-na warisimi; ora dia, abi dia, page native-review dia. / A working draft for native East Kewa review; not certified, not final, and not native-reviewed.
-- **AI raba / AI assistance**: Go buk-re AI raba raapu Inggeris master madaa warisimi; East Kewa enaalinumi review pea — go pora ora. / Prepared with AI assistance from the corrected English master; native East Kewa review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI raba / AI assistance**: Prepared with AI assistance from the corrected English master.
 - **Kala / Given freely**: Go buk-re yoto dia kalema; kopi, ora mapape page epe-rupa wala warili page raaname komema. / Freely given; copies, corrections, and better versions are welcomed.
 - **Agale / Language**: Go buk-re East Kewa (kjs) agale komea madaa pia — Papua New Guinea-na Kewa enaalinuna agale; go West Kewa agale dia, pare laapo rado agale pimi. / This draft is in East Kewa (kjs) only — the language of the Kewa people of Papua New Guinea; it is not West Kewa, though the two are closely related dialects of the Kewa complex.
 

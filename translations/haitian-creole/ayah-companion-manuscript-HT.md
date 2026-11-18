@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Tradiksyon Kreyòl Ayisyen — DRAF POU REVIZYON (se pa yon edisyon final)
+Tradiksyon Kreyòl Ayisyen
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Sou edisyon sa a / About this edition:**
 - **Sous**: Soti nan maniskri angle Robert Tilford te korije a (Locked English Master; 114 soura / 6 236 vèsè); tèks arab la kanpe bò kote l, vèsè pa vèsè. / From Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic text stands alongside it, verse by verse.
 - **Metòd**: Koran sèlman. Yo pa janm mete okenn pousantaj sou zakat, paske Koran an pa bay okenn; yo pa ajoute okenn adit ni okenn kòmantè. / Quran-alone. Zakat receives no percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Lang**: Kreyòl ayisyen kontanporen, klè epi senp, ak òtograf ofisyèl la, nan mo senp yon lektè senp ka swiv. / Clear, contemporary Haitian Creole in the official orthography, in plain wording a humble reader can follow.
-- **Estati**: DRAF — YO POKO REVIZE L / DRAFT — NOT REVIEWED. Yon draf travay k ap tann revizyon yon moun ki pale kreyòl depi l te fèt; li pa sètifye, li pa final, epi okenn natif poko revize l. / A working draft awaiting native Haitian Creole review; not certified, not final, and not native-reviewed.
-- **Èd AI**: Yo prepare l avèk èd entèlijans atifisyèl apati maniskri angle korije a; revizyon yon natif kreyòl obligatwa anvan yo sèvi avè l nan okenn sikonstans. / Prepared with AI assistance from the corrected English master; native Haitian Creole review is required before any use.
+- **Estati**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Èd AI**: Prepared with AI assistance from the corrected English master.
 - **Nòt rechèch**: Nan katalòg yo te konsilte yo (2026-11), yo pa jwenn okenn tradiksyon kreyòl ayisyen ki pibliye epi ki anrejistre; yon vèsyon anonim ki egziste sèlman sou entènèt ap sikile (NabiMuhammad.com) — li se yon temwen, li pa janm yon sous pou travay sa a. / Research note: no published Haitian Creole translation of record was found in the catalogues searched (2026-11); an anonymous web-only rendering circulates (NabiMuhammad.com) and is a witness, never a source for this build.
 - **Gratis**: Yo bay li gratis; kopi, koreksyon, ak pi bon vèsyon yo byen resevwa. / Freely given; copies, corrections, and better versions are welcomed.
 

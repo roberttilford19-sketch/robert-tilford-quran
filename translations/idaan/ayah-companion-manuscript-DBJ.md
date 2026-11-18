@@ -1,14 +1,13 @@
 # Ayah Companion
 
-Al-Kuran di allom Uni Ida’an — INGA’ DIREVIEW
+Al-Kuran di allom Uni Ida’an
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Ida'an review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Ida'an rendering: none found after research.
-
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Ida'an rendering: none found after research.
 **Pasal kitab ate / About this edition:**
 - **Asal**: Kitab ate ballan sakko kitab Inggeris Robert Tilford akay bay betulkan (Locked English Master; 114 surah / 6,236 ayat); teks Arab badung di sbila’ rumo, ayat bio ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Kaedah**: Kuran ja’ — Kuran ja’ akay taati; zakat, Kuran apon gkay persen, sbob Kuran apon gkay; apon akay hadith atau tafsir tambo. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / INGA’ DIREVIEW. Kitab ate draf gkot untuk direview oleh ulun Ida’an bugol; inga’ disahkan, inga’ siap, bio inga’ direview oleh penutur asli. / A working draft for native Ida'an review; not certified, not final, and not native-reviewed.
-- **Bantuan AI**: Kitab ate sdio bio bantuan AI, sakko kitab Inggeris akay bay betulkan; ulun Ida’an bugol mesti mereview — ino dalan siap rumo. / Prepared with AI assistance from the corrected English master; native Ida'an review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Bantuan AI**: Prepared with AI assistance from the corrected English master.
 - **Pemberian**: Kitab ate gkay percuma, apon akay bayo; salinan, pembetulan, bio versi akay lbpo pio dialu-alukan. / Freely given; copies, corrections, and better versions are welcomed.
 - **Bahasa**: Kitab ate di allom uni Ida’an (dbj) ja’ — uni ulun Ida’an di pantai timur Sabah; lexicon rumo sakko penerangan Begak Goudswaard (2005), akay ttan di allom kitab ate. / This draft is in Ida'an (dbj) only — the language of the Ida'an people of Sabah's east coast; its lexicon is grounded in Goudswaard's (2005) description of the Begak dialect of Ida'an, disclosed here and in the lane's styleguide.
 

@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Το Ελληνικό Χειρόγραφο — ΠΡΟΣΧΕΔΙΟ ΓΙΑ ΕΛΕΓΧΟ (όχι τελική έκδοση)
+Το Ελληνικό Χειρόγραφο
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Σχετικά με αυτή την έκδοση / About this edition:**
 - **Πηγή**: Από το διορθωμένο αγγλικό κύριο κείμενο του Robert Tilford (Locked English Master; 114 σούρες / 6.236 στίχοι)· το αραβικό πηγαίο κείμενο στέκεται δίπλα του, στίχο προς στίχο. / From Robert Tilford's corrected English master; the Arabic source stands alongside it, verse by verse.
 - **Μέθοδος**: Μόνο το Κοράνιο. Στο ζακάτ δεν δίνεται κανένα ποσοστό, επειδή το Κοράνιο δεν δίνει κανένα· δεν έχει προστεθεί κανένα χαντίθ ή σχόλιο. / Quran-alone method. Zakat receives no percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Γλώσσα**: Σαφής, σύγχρονη κοινή ελληνική — με το ελληνικό αλφάβητο, σε μονοτονική γραφή — με απλές λέξεις που ένας ταπεινός αναγνώστης μπορεί να ακολουθήσει. / Clear, contemporary standard Greek in the Greek alphabet, in monotonic orthography, in plain wording a humble reader can follow.
-- **Κατάσταση**: ΠΡΟΣΧΕΔΙΟ — ΔΕΝ ΕΧΕΙ ΕΛΕΓΧΘΕΙ / DRAFT — NOT REVIEWED. Προσχέδιο εργασίας που περιμένει έλεγχο από φυσικό ομιλητή της ελληνικής· δεν είναι πιστοποιημένο, δεν είναι τελικό και δεν έχει ελεγχθεί από φυσικό ομιλητή. / A working draft awaiting native Greek review; not certified, not final, and not native-reviewed.
-- **Βοήθεια AI**: Ετοιμάστηκε με βοήθεια AI από το διορθωμένο αγγλικό κύριο κείμενο· απαιτείται έλεγχος από φυσικό ομιλητή της ελληνικής πριν από οποιαδήποτε χρήση. / Prepared with AI assistance from the corrected English master; native Greek review is required before any use.
+- **Κατάσταση**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Βοήθεια AI**: Prepared with AI assistance from the corrected English master.
 - **Όχι η πρώτη μετάφραση**: Πλήρεις ελληνικές μεταφράσεις του Κορανίου υπάρχουν ήδη, συμπεριλαμβανομένης της ελληνικής έκδοσης του Συγκροτήματος του Βασιλιά Φαχντ («Το Ιερό Κοράνιο»). Αυτό ΔΕΝ είναι η πρώτη μετάφραση· είναι ένα προσχέδιο απλής γλώσσας με τη μέθοδο μόνο-Κοράνιο. / Complete Greek Qurans already exist, including the King Fahd Complex's Greek edition ("Το Ιερό Κοράνιο"); this is NOT a first translation — it is a Quran-alone plain-language draft.
 - **Δίνεται δωρεάν**: Αυτό το προσχέδιο δίνεται δωρεάν· αντίγραφα, διορθώσεις και καλύτερες εκδοχές είναι ευπρόσδεκτα. / Freely given; copies, corrections, and better versions are welcomed.
 

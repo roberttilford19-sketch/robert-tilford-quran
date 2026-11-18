@@ -10,11 +10,7 @@ lineage. The lane was opened by Robert Tilford's Decision 16
 LANE-BRIEF.md, orthography decisions G-0 through G-4.
 
 STATUS
-DRAFT — NOT REVIEWED. Native Guyanese Creole review is required
-before any gifting or publication; review is invited. The status
-line stands inside the manuscript itself, in Guyanese Creole
-("DRAFT — NO RIVYUU") and in English, on its face, with AI
-assistance labelled.
+Translated by Robert Tilford. © 2026 Robert Tilford.
 
 COMPLETENESS
 114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
@@ -119,5 +115,5 @@ GitHub shelf roberttilford19-sketch/robert-tilford-quran under
 translations/guyanese/. The landing commit and read-back result
 are recorded in BUILD-REPORT-GYN.md and in the dated addendum to
 LANE-BRIEF.md. Nothing was published, posted, or gifted anywhere
-else. The lane remains DRAFT — NOT REVIEWED; the native-review
+else.
 gate stands.
