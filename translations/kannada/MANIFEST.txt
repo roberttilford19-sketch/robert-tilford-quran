@@ -25,4 +25,4 @@ workspace lane folder ~/workspace/ayah-kannada/, unrepaired.
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Files:
-  3730896  c2f9735f6e5cc82d2b9dc2f3d11e743fd1ee8a8c1c1408254563e1cf50fe41e5  ayah-companion-manuscript-KN.md
+  3730061  a28a7d9df9646a4de72fd88dada088a8be79780adc445b4a760ff4f785abf9da  ayah-companion-manuscript-KN.md
