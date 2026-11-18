@@ -1,0 +1,108 @@
+AYAH COMPANION — KWOMA RENDERING
+MANIFEST — lane record, 2026-11-17
+
+ITEM
+Ayah Companion, Kwoma (kmo) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the New Guinea wave (Phase 2, first tranche),
+under Robert's Advance Rule of 2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Kwoma review is required
+before any gifting or publication; review is invited. The status
+line stands inside the manuscript itself, on its face, with AI
+assistance labelled.
+SHELVING: staged in this lane's shelving pack only. The landing
+is centralized after the independent check; this lane does
+not push.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography — the Bowden orthography of the PL-C134
+dictionary and the Washkuk Kwoma New Testament.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: none
+found after research (New Guinea wave scout, 2026-11-17).
+
+FILES
+GLOSSARY-KMO.md
+  5,896 bytes
+  SHA-256 8640aa08b21e1ff743cd648892fd88dc73b7953bb0c1f33912158e98714750bc
+STYLEGUIDE-KMO.md (the lane's binding drafting law, settled before drafting)
+  8,238 bytes
+  SHA-256 bf0d534c7bc4d54b54db8837ca768a32dbacea06398248e43ca888bdb0343ea8
+BUILD-REPORT-KMO.md
+  9,395 bytes
+  SHA-256 00057d427a7084183eb01dccd168c96b74ed8aa52baa9b36b863871a009ea801
+work/verification-kmo.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-kmo.txt — 13 named uncertain-seat items plus residue counts, carried to the reviewer.
+  5,725 bytes
+  SHA-256 c533d3516588d479886d6f5b9e29b4c3ab0650a96bc74c970ee709bd9b5b6f6f
+ayah-companion-manuscript-KMO.md
+  2,330,624 bytes
+  SHA-256 1d7721ac6c8c7aace4d8611c90b6b8e4bd3c467a613da6b2b273dafc9769c743
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-17 on the final bytes: PASS true. Headers 114, head order
+true, verses 6,236, counts match meta true, continuity true,
+Arabic runs 6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse lines
+6,236, slice ref mismatches 0, slice paragraph mismatches 0,
+percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_kmo.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — God 2,732
+(= God 2,732); god 79 (= god 79); goden 35 (= gods 35);
+Harapa 980 (= Lord 969 + the 11 counted Master tokens);
+zakat at exactly the 13 keyed slots; the sadaqa phrase
+ha tawa boboy at exactly the 36 keyed tokens (2:272 x3;
+58:13 x2); Ilaija at exactly 3 keyed tokens (6:85, 37:123,
+37:130); Ilaisa at exactly 2 keyed tokens (6:86, 38:48);
+Elia/Elisa 0.
+Purple measurements (work/purple-measurements-kmo.json): Arabic
+matched 6,348 of 6,348; basmalah 114; markers 15; TOC 114, no
+mismatches; percent 0; note 56 present.
+Independent checker: STOP (2026-11-17, CHECKER-REPORT-KMO.md)
+on the name-attestation disclosure alone — flags item 1,
+STYLEGUIDE decision 6 and the GLOSSARY presented Elia/Elisa
+as house forms unattested in the Kwoma NT, while the banked
+NT attests Ilaija (Elijah, 27 tokens, + Iaija 2) and Ilaisa
+(Elisha, 1 token, Luke 4:27). Corrected 2026-11-17 by re-key
+to the NT's attested forms Ilaija/Ilaisa through the lane's
+engine, disclosure corrected by dated addendum in all three
+places, and all gates re-run on the rebuilt bytes (lane
+checker problems 0; canonical verify PASS; Purple reconciled,
+as above). Independent re-check PASS WITH FLAGS 2026-11-17
+(RECHECK-KMO.md): all seven items verified by machine on the
+rebuilt bytes. No other checker ground was
+raised; every other item in the checker report was VERIFIED.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+
+NOTES CARRIED TO THE REVIEWER
+The Ilaija/Ilaisa pair (flags item 1, as corrected 2026-11-17)
+is keyed on the NT's own attested forms for Elijah and Elisha
+and is carried to the reviewer for confirmation; the God-word God and Lord-word Harapa are NT-attested in
+the banked Washkuk Kwoma NT (John 3:16 read at the desk); the
+sadaqa seat (flags item 5) is named unsettled — no dedicated
+Kwoma charity word is attested in either base, and the 36 keyed
+tokens carry the finderlist's attested offering/gift phrase
+ha tawa boboy, disclosed in every lane paper.
