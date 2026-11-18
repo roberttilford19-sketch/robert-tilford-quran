@@ -18915,7 +18915,7 @@ ip nand wagn in stat adkep impurity, puripy yourselbes. Ip nand wagn ill, a aj, 
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Whil ak who gosimb, a g rigteousness, a gosimb in etp was sent kal monmon ag muhammad — a nuk yand yipund nb kik Biyomb — nuk remits kik sins, a reliebes kik konserns.
+**47:2** Whil ak who gosimb, a g rigteousness, a gosimb in etp was sent kal monmon ag Muhammad — a nuk yand yipund nb kik Biyomb — nuk remits kik sins, a reliebes kik konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
