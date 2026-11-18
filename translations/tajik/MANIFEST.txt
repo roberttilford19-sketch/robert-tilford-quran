@@ -74,4 +74,4 @@ verifications PASS in the printed book, 2026-11-12
 
 Files:
   20535388  d2cd568584bbab64cf11877fcc40d7e8a654eb0cabbbb59e65f2b8157260e6f4  Ayah_Companion_Tilford_Tajik_Manuscript.pdf (934 pp)
-   2862057  19e42a202bf6f01983a5b81b711f55504d193f9d6faee05779bcd0c83b76de1d  ayah-companion-manuscript-TG.md
+   2861241  49acb5dc0c3b36ab21a23b8b3076f735ba20c6d69d113ccc944882d1cd0b0d51  ayah-companion-manuscript-TG.md
