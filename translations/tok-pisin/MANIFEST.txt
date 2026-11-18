@@ -51,8 +51,8 @@ work/flags-tpi.txt — 13 named uncertain-seat items plus residue counts, carrie
   6,388 bytes
   SHA-256 c9988dee924dc2e38f7ea43debd735c9581fb843f1f82b6f7ae95774bcc125e1
 ayah-companion-manuscript-TPI.md
-  2,298,306 bytes
-  SHA-256 1ba005580391a80f55197315b6545e4a1e72ee4d05624d2b4f93f7f2c1736696
+  2,297,696 bytes
+  SHA-256 0d4777c3a7de6edc2378ddc7a862cf976961be7962d3deabb2d7ba8c7ecb71b9
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
