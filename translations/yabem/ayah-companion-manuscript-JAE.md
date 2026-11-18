@@ -18914,7 +18914,7 @@ embe aôm sawic lai ôam aec impuriti, puripi amactaôm. Embe aôm sawic ill, me
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Lauô onaŋ aelŋ kêka, to môekole rigteousness, to kêka lai agelŋ waômoc sent jas oaeteo muhammad — to eŋ geogala ŋanô jjcgeŋ êsêacnêŋ Apômtau — eŋ remits êsêacnêŋ sec, to reliebes êsêacnêŋ konserns.
+**47:2** Lauô onaŋ aelŋ kêka, to môekole rigteousness, to kêka lai agelŋ waômoc sent jas oaeteo Muhammad — to eŋ geogala ŋanô jjcgeŋ êsêacnêŋ Apômtau — eŋ remits êsêacnêŋ sec, to reliebes êsêacnêŋ konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
