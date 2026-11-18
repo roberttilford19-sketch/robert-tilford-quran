@@ -20,4 +20,4 @@ The full lane record (build report, verification and checker records, flags)
 stands in the workspace lane folder ~/workspace/ayah-haitian-creole/, unrepaired.
 
 Files:
-  2195379  c1af55d173fcab34351dac67ccc16888859ccfa9797121866efbe676cd607f0f  ayah-companion-manuscript-HT.md
+  2194798  bca9817025dda76efa0a645d171c176220afcd29f87b3d4c8e838678c6bf73a4  ayah-companion-manuscript-HT.md
