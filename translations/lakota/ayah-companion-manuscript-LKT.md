@@ -2,7 +2,7 @@
 
 **Lakota Translation of the Meaning of the Quran**
 
-*Review draft — translated from Robert Tilford's corrected English "Ayah Companion" manuscript. A candidate first complete Lakota Quran draft — no complete version found after research, pending bibliographic and community confirmation. Unpublished. Built for review by native Lakota speakers.*
+*An unfinished scaffold — a partial draft of a Lakota translation of the meaning of the Quran, not a finished translation. Translated by Robert Tilford. © 2026 Robert Tilford.*
 
 ---
 
