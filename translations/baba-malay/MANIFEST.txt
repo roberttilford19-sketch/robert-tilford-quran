@@ -58,8 +58,8 @@ work/flags-mbf.txt — 9 named uncertain-seat items plus residue counts and the 
   3,005 bytes
   SHA-256 730e4d6a56bcfb3cbd1480c09a72ba93cbebd40a198dace3275650814b1cf0d6
 ayah-companion-manuscript-MBF.md
-  2,378,621 bytes
-  SHA-256 ce52274a1c4d0e56872c8a2e1d9d356bdaeafd5a936dd71b7bfc8e29eb85e2ae
+  2,378,114 bytes
+  SHA-256 842b32781f05bfbbf8a2e88c63060628a75579b18c7c35b36a41bb8bd68c6e86
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
