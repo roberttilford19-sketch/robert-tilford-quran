@@ -1,0 +1,84 @@
+AYAH COMPANION — TUWALI IFUGAO RENDERING
+MANIFEST — lane record, 2026-11-17
+
+ITEM
+Ayah Companion, Tuwali Ifugao (ifk) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the Region-1 remainder wave (BATCH-Philippines-B
+TOP BUILD CANDIDATES #3), under Robert's Advance Rule of 2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Tuwali Ifugao review is required
+before any gifting or publication; review is invited. The status
+line stands inside the manuscript itself, on its face, with AI
+assistance labelled.
+SHELVING: prepared for centralized landing after an independent
+check; NOT landed in this run, and nothing has been pushed to
+GitHub from this lane.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography (the Hohulin dictionary / Bible orthography).
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: none
+found after research (Region-1 remainder scout, 2026-11-17).
+
+FILES
+GLOSSARY-IFK.md
+  3,456 bytes
+  SHA-256 329901d2d77fc19cf6800be7e274a1bbe6ebf9485916066ee2c62d6388c7a75d
+STYLEGUIDE-IFK.md (the lane's binding drafting law, settled before drafting)
+  6,533 bytes
+  SHA-256 82290951dda4c33a9cb9aec713fbe82edd145a351211a181f4c1009e35fa6276
+BUILD-REPORT-IFK.md
+  4,644 bytes
+  SHA-256 725a4131269e5c697d29ffd7f4f435461af9b81ca63d7b0068f26c0faf4d8950
+PURPLE-REPORT-IFK-2026-11-17.md (Purple measurements, report mode)
+  3,441 bytes
+  SHA-256 e1f09316390174a0073da819385550d4f6abe2a842cc1893f7af26df038a5aba
+work/verification-ifk.json (verify.py record)
+  SHA-256 8ddc134f6ea78725738ab1bd598307ec5f48c70cb212ce71cd87225cb231ac7c
+work/flags-ifk.txt — 10 named uncertain-seat items plus residue counts, carried to the reviewer.
+  7,444 bytes
+  SHA-256 76fc5ba1166a513aa424656cbcbb7029d6794e1282314ba2c935a81b2170f6e8
+ayah-companion-manuscript-IFK.md
+  2,241,513 bytes
+  SHA-256 805d0299ed09935bf1aaf250f8fa0b7cefd2f3659817eedaf717321b906f0792
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-17: PASS true. Headers 114, head order true, verses
+6,236, counts match meta true, continuity true, Arabic runs
+6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse lines
+6,236, slice ref mismatches 0, slice paragraph mismatches 0,
+percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_ifk.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Apu Dios 2,732
+(= God 2,732); dios 79 (= god 79); diosdios 35 (= gods 35);
+Apu 980 (= Lord 969 + the 11 counted Master tokens);
+zakat at exactly the 13 keyed slots; gala at exactly the 36
+keyed tokens (2:272 ×3; 58:13 ×2).
+Independent checker (separate agent): PASS WITH FLAGS — every hard gate re-measured exact (CHECKER-REPORT-IFK-2026-11-17.md); 10 flags, all MINOR, carried to the native reviewer; none blocks landing.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+
+NOTES CARRIED TO THE REVIEWER
+The Elisha/Elijah pair (flags item 1) is the reviewer's first name ruling; the God-word Apu Dios (item 2) and the Lord-word Apu (item 3) stand on the Bible's and dictionary's own attestation; the composed basmalah pair kaasi/hayudut (item 4) and the gala sadaqa word (item 6) are disclosed compositions/choices for the reviewer's ruling.
