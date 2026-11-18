@@ -1,7 +1,7 @@
 # Ayah Companion
 
 **Una traducción contemporánea del Corán al español**
-*Edición en español del manuscrito inglés corregido de Robert Tilford — borrador para revisión, no publicación.*
+*Edición en español del manuscrito inglés corregido de Robert Tilford. Translated by Robert Tilford. © 2026 Robert Tilford.*
 
 ---
 
