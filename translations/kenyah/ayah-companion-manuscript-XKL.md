@@ -18900,7 +18900,7 @@ buka iku' un dalem a dal op impurity, puripy yourselbes. Buka iku' un ill, ataw 
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Dalaw ja da' ngelan, ngan tau' rigteousness, ngan ngelan dalem iu un sent kenda' pala' muhammad — ngan idi un te peneneng cin Tuhan — ia remits penyala’, ngan reliebes konserns.
+**47:2** Dalaw ja da' ngelan, ngan tau' rigteousness, ngan ngelan dalem iu un sent kenda' pala' Muhammad — ngan idi un te peneneng cin Tuhan — ia remits penyala’, ngan reliebes konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
