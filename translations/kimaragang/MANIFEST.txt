@@ -57,8 +57,8 @@ work/flags-kqr.txt — 8 named uncertain-seat items plus residue counts, carried
   2,541 bytes
   SHA-256 e81b70d960b6eab1f0c34ed97fe7f22e417b9b75b7fa88d4bfe6c7703d4d62d3
 ayah-companion-manuscript-KQR.md
-  2,378,139 bytes
-  SHA-256 850c736d06ac7f51e5607fd18e0fffdc0b92924b1fdd54635dda0749966801b1
+  2,377,641 bytes
+  SHA-256 bc3a95c6367746ea613fcc0843e96b62bc1fbca383712f1c77b64f503d44d35a
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
