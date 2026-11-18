@@ -57,8 +57,8 @@ work/flags-kys.txt — 16 named uncertain-seat items plus residue counts, carrie
   7,266 bytes
   SHA-256 f0217bff691d4de53d02666c63cf99ce35c39909d1ce7ba6678a8c12746c0af5
 ayah-companion-manuscript-KYS.md
-  2,257,496 bytes
-  SHA-256 30a18b990c7fde075f86c58ffea4415ca1084c68d9482dc982eb480d6ac89578
+  2,256,963 bytes
+  SHA-256 b704c8cd75e18648179221a9c275e07970b09dc592f10058fde96b694c02193d
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
