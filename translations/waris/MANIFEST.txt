@@ -58,7 +58,7 @@ work/flags-wrs.txt — 19 named judgment-call items plus sealed seats.
   SHA-256 eca42e03ff86bf87c2fdf903667637caa0f59bb06b3839aaf867374adac26bbf
 ayah-companion-manuscript-WRS.md
   2,251,730 bytes
-  SHA-256 8d2e32c916b03cee548d48799fb6fe7a7e62e5f7b2cb98f888b2bf944eff0144
+  SHA-256 4bf4243a664f2dc6f9bd4ca8413165cef55e6259ec601ab16f22a43173014940
 ayah-companion-aligned-WRS.json
   3,369,144 bytes
   SHA-256 5b0d39c59630fc7ea34db0455ba9174cb1d3eacb728efb17dd8eab260af9a111
