@@ -16,5 +16,5 @@ checker records, flags) stands in the workspace lane folder
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Files:
-  2197151  268b36123ce9ec46109563c25c238559e73dd57ca9adacc4069dee754266896a  ayah-companion-manuscript-KW.md
-  1784679  2b489a084935c6a03bad4b0cd605e48566f97a57d87fb4bbbfac3cf82824e1d1  Ayah_Companion_Tilford_Cornish_Manuscript.pdf (493 pp)
+  2197076  d4b639700f674f60f26eefb2fc486ad8c4d6e8c0262f8e8851dc1a826fabeddd  ayah-companion-manuscript-KW.md
+  1775023  11b3ec3a697980b29c6340660c40b463b9fded3ac85e538e5cdb847aafd67024  Ayah_Companion_Tilford_Cornish_Manuscript.pdf (493 pp)
