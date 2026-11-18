@@ -18901,7 +18901,7 @@ hun ka'au pu'un lem oko impurity, purify yourselves. Hun ka'au pu'un ill, ngan p
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Lem inah éh ngelan, ngan kereja rigteousness, ngan ngelan lem ineu pu'un sent tuvu tong muhammad — ngan iah pu'un mu'un jin réh Tuhan — iah remits réh penyala', ngan relieves réh konserns.
+**47:2** Lem inah éh ngelan, ngan kereja rigteousness, ngan ngelan lem ineu pu'un sent tuvu tong Muhammad — ngan iah pu'un mu'un jin réh Tuhan — iah remits réh penyala', ngan relieves réh konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
