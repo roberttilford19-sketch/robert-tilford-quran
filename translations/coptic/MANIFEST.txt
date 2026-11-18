@@ -19,11 +19,11 @@ The manuscript's own front matter carries the same change.
 
 FILES (deliverables first; sizes in bytes, SHA-256 abbreviated to 16 hex)
 
-ayah-companion-manuscript-COP.md   3156655  6253afb78b4858de
+ayah-companion-manuscript-COP.md   3155751  bee0b7cf99cd1d46
   The complete book: front matter (gate status removed 2026-11-18),
   catalogue, 114 surah heads, 6,236 verses with the Arabic beside
   every rendering. Full SHA-256:
-  6253afb78b4858de117a74d0ef4019111a6a8bf4cc08a45205ae7da165e98f5c
+  bee0b7cf99cd1d46a419f6566c0959ccc07a4e77e1556c91e8a45e3e42e08f9f
   (Figures current as of the 36:1 case alignment of 2026-11-16 —
   see the REPAIR NOTEs at the foot of this manifest for the full
   hash chain.)
