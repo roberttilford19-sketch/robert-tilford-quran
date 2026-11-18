@@ -63,7 +63,7 @@ work/flags-bzh.txt — 12 named judgment-call items plus residue counts.
   SHA-256 f71e1c22a0ba015812782343c6df3d012459438d665a0ecaa1aa690221497a53
 ayah-companion-manuscript-BZH.md
   2,246,233 bytes
-  SHA-256 bb81d6420dd029e22afe3a823ca246bd4f5e88ca7f4ccaf35581dfbb6acae3e6
+  SHA-256 f2849a42316366a3fb68d1c02da173004e678c45e18bbd908d3a75167298a445
 ayah-companion-aligned-BZH.json
   3,361,982 bytes
   SHA-256 257c1c8434343a8b53b5b9f457ca5dc1eefa648b0273d8640663e3bf38838963
