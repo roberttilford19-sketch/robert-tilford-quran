@@ -20,4 +20,4 @@ The full lane record (build report, verification and checker records, flags)
 stands in the workspace lane folder ~/workspace/ayah-jamaican/, unrepaired.
 
 Files:
-  2120222  8c02aaf88681e955053fc8e034b3dbf111bba2a8a3b67c59e544e2b88aee6529  ayah-companion-manuscript-JAM.md
+  2119827  5b2bcbdf28064519d3582fc82cf48b21f6ba854988b713507ca1413a5554592b  ayah-companion-manuscript-JAM.md
