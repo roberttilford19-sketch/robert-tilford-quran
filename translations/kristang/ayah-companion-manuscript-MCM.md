@@ -18900,7 +18900,7 @@ si bos teng na stadu di impurity, purify bolotu onsong. Si bos teng ill, ke kost
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Ati akeli keng konfiah, ku trabalyah retu, ku konfiah na ki teng mandah basu pa muhammad — ku eli teng berdadi di olotu sa Senhor — eli remits olotu sa kartah pekadu, ku reliebes olotu sa konserns.
+**47:2** Ati akeli keng konfiah, ku trabalyah retu, ku konfiah na ki teng mandah basu pa Muhammad — ku eli teng berdadi di olotu sa Senhor — eli remits olotu sa kartah pekadu, ku reliebes olotu sa konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
