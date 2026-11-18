@@ -109,4 +109,4 @@ fifteen seam repairs verified in print, 2026-11-13
 
 Files:
   23185968  8e3eb425756f8b4c83c8b1b3568a93679ac5c69faf15ae8896c15bacbf6b4f2b  Ayah_Companion_Tilford_Dari_Manuscript.pdf (1001 pp; rebuilt 2026-11-13 after the seam repair — first edition 23186087 B, a5def246…)
-   2687537  0b88acbac137f7b3acac22ae0046745ae48522d3b0b2c553b6c52bddef644c7f  ayah-companion-manuscript-PRS.md
+   2686815  52771ca750f657b2d8c4b5dfb7ffec3ab5f551fd4881db793af0dc5776c4423e  ayah-companion-manuscript-PRS.md
