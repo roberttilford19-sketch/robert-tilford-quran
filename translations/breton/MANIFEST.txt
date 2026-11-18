@@ -15,4 +15,4 @@ workspace lane folder ~/workspace/ayah-breton/, unrepaired.
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Files:
-  2230546  a192d0cbab8fd4c9d0134ed9eb39670b534aba510f553fa05feba37870f1f8e5  ayah-companion-manuscript-BR.md
+  2230503  b4ba60c731355a2c9af23e756596f9cdd4d39049902aa487fe6bc7f8afcce341  ayah-companion-manuscript-BR.md
