@@ -374,11 +374,11 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 وَٱتَّقُوا۟ يَوْمًۭا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍۢ شَيْـًۭٔا وَلَا يُقْبَلُ مِنْهَا شَفَٰعَةٌۭ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌۭ وَلَا هُمْ يُنصَرُونَ
 
-**2:49** Yeroo Nuti namoota Fir'awon irraa isin baraarre yaadadhaa. Isaan cunqursaa hamaa isin irratti raawwatan, ilmaan keessan ajjeesanii, dubartoota keessan jiraachisan. Keessa isaatti qormaanni guddaan Rabbii keessan irraa ture.
+**2:49** Yeroo Nuti namoota Fir'awn irraa isin baraarre yaadadhaa. Isaan cunqursaa hamaa isin irratti raawwatan, ilmaan keessan ajjeesanii, dubartoota keessan jiraachisan. Keessa isaatti qormaanni guddaan Rabbii keessan irraa ture.
 
 وَإِذْ نَجَّيْنَٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ يُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌۭ مِّن رَّبِّكُمْ عَظِيمٌۭ
 
-**2:50** Yeroo Nuti galaana isiniif qoodnee, isin baraarree, namoota Fir'awon osoo isin ilaaltanii dhidhimse yaadadhaa.
+**2:50** Yeroo Nuti galaana isiniif qoodnee, isin baraarree, namoota Fir'awn osoo isin ilaaltanii dhidhimse yaadadhaa.
 
 وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَٰكُمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ وَأَنتُمْ تَنظُرُونَ
 
@@ -1378,7 +1378,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَٰدُهُم مِّنَ ٱللَّهِ شَيْـًۭٔا ۖ وَأُو۟لَٰٓئِكَ هُمْ وَقُودُ ٱلنَّارِ
 
-**3:11** Akka amala namoota Fir'awonii fi warra isaan dura turanii. Mallattoolee Keenya haalan, Waaqni sababii cubbuu isaanii isaan qabate. Waaqni beenyaa cimaa qaba.
+**3:11** Akka amala namoota Fir'awnii fi warra isaan dura turanii. Mallattoolee Keenya haalan, Waaqni sababii cubbuu isaanii isaan qabate. Waaqni beenyaa cimaa qaba.
 
 كَدَأْبِ ءَالِ فِرْعَوْنَ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَذَّبُوا۟ بِـَٔايَٰتِنَا فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمْ ۗ وَٱللَّهُ شَدِيدُ ٱلْعِقَابِ
 
@@ -4442,11 +4442,11 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 وَمَا وَجَدْنَا لِأَكْثَرِهِم مِّنْ عَهْدٍۢ ۖ وَإِن وَجَدْنَآ أَكْثَرَهُمْ لَفَٰسِقِينَ
 
-**7:103** Achii, isaan booda, Nuti Muusaa ajaa'ibota Keenyaan Fara'oonii fi dhaabbata isaatti ergineerra, garuu isaan isaan haalaniiru. Egaa dhuma warra hamaa ilaali.
+**7:103** Achii, isaan booda, Nuti Muusaa ajaa'ibota Keenyaan Fir'awnii fi dhaabbata isaatti ergineerra, garuu isaan isaan haalaniiru. Egaa dhuma warra hamaa ilaali.
 
 ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ بِـَٔايَٰتِنَآ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَظَلَمُوا۟ بِهَا ۖ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُفْسِدِينَ
 
-**7:104** Muusaan, “Yaa Fara'oon, ani ergaa Rabbii aalamiinii irraa dhufee dha,” jedhe.
+**7:104** Muusaan, “Yaa Fir'awn, ani ergaa Rabbii aalamiinii irraa dhufee dha,” jedhe.
 
 وَقَالَ مُوسَىٰ يَٰفِرْعَوْنُ إِنِّى رَسُولٌۭ مِّن رَّبِّ ٱلْعَٰلَمِينَ
 
@@ -4466,7 +4466,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ
 
-**7:109** Gurguddoonni saba Fara'oon keessaa, “Kun dhugumaatti falfalaa beekamaa dha,” jedhan.
+**7:109** Gurguddoonni saba Fir'awn keessaa, “Kun dhugumaatti falfalaa beekamaa dha,” jedhan.
 
 قَالَ ٱلْمَلَأُ مِن قَوْمِ فِرْعَوْنَ إِنَّ هَٰذَا لَسَٰحِرٌ عَلِيمٌۭ
 
@@ -4482,7 +4482,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 يَأْتُوكَ بِكُلِّ سَٰحِرٍ عَلِيمٍۢ
 
-**7:113** Falfaltoonni Fara'oon bira dhufanii, “Dhugumaatti beenyaan nuuf jira, yoo nuti warra mo'an taane,” jedhan.
+**7:113** Falfaltoonni Fir'awn bira dhufanii, “Dhugumaatti beenyaan nuuf jira, yoo nuti warra mo'an taane,” jedhan.
 
 وَجَآءَ ٱلسَّحَرَةُ فِرْعَوْنَ قَالُوٓا۟ إِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ ٱلْغَٰلِبِينَ
 
@@ -4522,7 +4522,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 رَبِّ مُوسَىٰ وَهَٰرُونَ
 
-**7:123** Fara'oon, “Isin An eeyyama isiniif kennuu koo dura Isa amantanii? Kun dhugumaatti mala isin magaalaa keessatti malattanii dha, sababii isin namoota ishee keessaa baasuuf. Dhugumaatti ni beektu,” jedhe.
+**7:123** Fir'awn, “Isin An eeyyama isiniif kennuu koo dura Isa amantanii? Kun dhugumaatti mala isin magaalaa keessatti malattanii dha, sababii isin namoota ishee keessaa baasuuf. Dhugumaatti ni beektu,” jedhe.
 
 قَالَ فِرْعَوْنُ ءَامَنتُم بِهِۦ قَبْلَ أَنْ ءَاذَنَ لَكُمْ ۖ إِنَّ هَٰذَا لَمَكْرٌۭ مَّكَرْتُمُوهُ فِى ٱلْمَدِينَةِ لِتُخْرِجُوا۟ مِنْهَآ أَهْلَهَا ۖ فَسَوْفَ تَعْلَمُونَ
 
@@ -4538,7 +4538,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 وَمَا تَنقِمُ مِنَّآ إِلَّآ أَنْ ءَامَنَّا بِـَٔايَٰتِ رَبِّنَا لَمَّا جَآءَتْنَا ۚ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًۭا وَتَوَفَّنَا مُسْلِمِينَ
 
-**7:127** Hogganoonni saba Fara'oon, “Ati Muusaa fi saba isaa lafa irratti rakkina uumuuf, siifi waaqota kee dhiisuuf ni dhiiftaa?” jedhan. Inni, “Nuti ilmaan isaanii ni ajjeefna, dubartoota isaaniis ni dhiifna. Nuti isaan irratti humna guutuu qabna,” jedhe.
+**7:127** Hogganoonni saba Fir'awn, “Ati Muusaa fi saba isaa lafa irratti rakkina uumuuf, siifi waaqota kee dhiisuuf ni dhiiftaa?” jedhan. Inni, “Nuti ilmaan isaanii ni ajjeefna, dubartoota isaaniis ni dhiifna. Nuti isaan irratti humna guutuu qabna,” jedhe.
 
 وَقَالَ ٱلْمَلَأُ مِن قَوْمِ فِرْعَوْنَ أَتَذَرُ مُوسَىٰ وَقَوْمَهُۥ لِيُفْسِدُوا۟ فِى ٱلْأَرْضِ وَيَذَرَكَ وَءَالِهَتَكَ ۚ قَالَ سَنُقَتِّلُ أَبْنَآءَهُمْ وَنَسْتَحْىِۦ نِسَآءَهُمْ وَإِنَّا فَوْقَهُمْ قَٰهِرُونَ
 
@@ -4550,7 +4550,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 قَالُوٓا۟ أُوذِينَا مِن قَبْلِ أَن تَأْتِيَنَا وَمِنۢ بَعْدِ مَا جِئْتَنَا ۚ قَالَ عَسَىٰ رَبُّكُمْ أَن يُهْلِكَ عَدُوَّكُمْ وَيَسْتَخْلِفَكُمْ فِى ٱلْأَرْضِ فَيَنظُرَ كَيْفَ تَعْمَلُونَ
 
-**7:130** Nuti saba Fara'oon waggoota goginsaatiin, fi hanqina midhaaniitiin qabneerra, akka isaan yaaddataniif.
+**7:130** Nuti saba Fir'awn waggoota goginsaatiin, fi hanqina midhaaniitiin qabneerra, akka isaan yaaddataniif.
 
 وَلَقَدْ أَخَذْنَآ ءَالَ فِرْعَوْنَ بِٱلسِّنِينَ وَنَقْصٍۢ مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَذَّكَّرُونَ
 
@@ -4578,7 +4578,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَكَانُوا۟ عَنْهَا غَٰفِلِينَ
 
-**7:137** Nuti namoota cunqurfaman lafa bahaatii fi lixaa, Nuti ishee eebbifne, dhaalsineerra. Akkanattis waadaa gaarii Rabbii kee Ilmaan Israa'eeliif sababii obsaa isaaniitiif raawwatameera. Nuti waan Fara'ooniif sabni isaa ijaaraa turaniif, waan isaan walitti qabaa turanis balleessineerra.
+**7:137** Nuti namoota cunqurfaman lafa bahaatii fi lixaa, Nuti ishee eebbifne, dhaalsineerra. Akkanattis waadaa gaarii Rabbii kee Ilmaan Israa'eeliif sababii obsaa isaaniitiif raawwatameera. Nuti waan Fir'awniif sabni isaa ijaaraa turaniif, waan isaan walitti qabaa turanis balleessineerra.
 
 وَأَوْرَثْنَا ٱلْقَوْمَ ٱلَّذِينَ كَانُوا۟ يُسْتَضْعَفُونَ مَشَٰرِقَ ٱلْأَرْضِ وَمَغَٰرِبَهَا ٱلَّتِى بَٰرَكْنَا فِيهَا ۖ وَتَمَّتْ كَلِمَتُ رَبِّكَ ٱلْحُسْنَىٰ عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ بِمَا صَبَرُوا۟ ۖ وَدَمَّرْنَا مَا كَانَ يَصْنَعُ فِرْعَوْنُ وَقَوْمُهُۥ وَمَا كَانُوا۟ يَعْرِشُونَ
 
@@ -4594,7 +4594,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 قَالَ أَغَيْرَ ٱللَّهِ أَبْغِيكُمْ إِلَٰهًۭا وَهُوَ فَضَّلَكُمْ عَلَى ٱلْعَٰلَمِينَ
 
-**7:141** Yeroo Nuti saba Fara'oon irraa isin baraarre yaadadhaa, warri cunqurfama hamaa caalaa isin irratti godhan — ilmaan keessan ajjeesaa dubartoota keessan dhiisaa. Keessa sanatti qorannoon guddaan Rabbii keessan irraa ture.
+**7:141** Yeroo Nuti saba Fir'awn irraa isin baraarre yaadadhaa, warri cunqurfama hamaa caalaa isin irratti godhan — ilmaan keessan ajjeesaa dubartoota keessan dhiisaa. Keessa sanatti qorannoon guddaan Rabbii keessan irraa ture.
 
 وَإِذْ أَنجَيْنَٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ ۖ يُقَتِّلُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌۭ مِّن رَّبِّكُمْ عَظِيمٌۭ
 
@@ -5076,7 +5076,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّٰمٍۢ لِّلْعَبِيدِ
 
-**8:52** Akkuma gochaa namoota Fara'oonii, fi warra isaan dura turanii. Isaan mallattoolee Waaqaa haalaniiru, egaa Waaqni sababii cubbuu isaaniitiin isaan qabeera. Waaqni Jabaa, Adabbii Jabaa dha.
+**8:52** Akkuma gochaa namoota Fir'awnii, fi warra isaan dura turanii. Isaan mallattoolee Waaqaa haalaniiru, egaa Waaqni sababii cubbuu isaaniitiin isaan qabeera. Waaqni Jabaa, Adabbii Jabaa dha.
 
 كَدَأْبِ ءَالِ فِرْعَوْنَ ۙ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَفَرُوا۟ بِـَٔايَٰتِ ٱللَّهِ فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمْ ۗ إِنَّ ٱللَّهَ قَوِىٌّۭ شَدِيدُ ٱلْعِقَابِ
 
@@ -5084,7 +5084,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 ذَٰلِكَ بِأَنَّ ٱللَّهَ لَمْ يَكُ مُغَيِّرًۭا نِّعْمَةً أَنْعَمَهَا عَلَىٰ قَوْمٍ حَتَّىٰ يُغَيِّرُوا۟ مَا بِأَنفُسِهِمْ ۙ وَأَنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌۭ
 
-**8:54** Akkanuma gochaan namoota Fara'oonii, fi warra isaan dura turanii waliin ture. Isaan mallattoolee Rabbii isaanii haalaniiru, egaa Nuti sababii cubbuu isaaniitiin isaan balleessineerra, namoota Fara'ooniis bishaanitti liqimsineerra — isaan hundi warra hamoo turan.
+**8:54** Akkanuma gochaan namoota Fir'awnii, fi warra isaan dura turanii waliin ture. Isaan mallattoolee Rabbii isaanii haalaniiru, egaa Nuti sababii cubbuu isaaniitiin isaan balleessineerra, namoota Fir'awniis bishaanitti liqimsineerra — isaan hundi warra hamoo turan.
 
 كَدَأْبِ ءَالِ فِرْعَوْنَ ۙ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَذَّبُوا۟ بِـَٔايَٰتِ رَبِّهِمْ فَأَهْلَكْنَٰهُم بِذُنُوبِهِمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ ۚ وَكُلٌّۭ كَانُوا۟ ظَٰلِمِينَ
 
@@ -6004,7 +6004,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِۦ رُسُلًا إِلَىٰ قَوْمِهِمْ فَجَآءُوهُم بِٱلْبَيِّنَٰتِ فَمَا كَانُوا۟ لِيُؤْمِنُوا۟ بِمَا كَذَّبُوا۟ بِهِۦ مِن قَبْلُ ۚ كَذَٰلِكَ نَطْبَعُ عَلَىٰ قُلُوبِ ٱلْمُعْتَدِينَ
 
-**10:75** Achii, isaan booda, Nuti Muusaa fi Haaruun ragaalee Keenyaan Fara'ooniif gurguddoota isaatti ergineerra. Garuu isaan of tuulaniiru. Isaan namoota cubbamaa turan.
+**10:75** Achii, isaan booda, Nuti Muusaa fi Haaruun ragaalee Keenyaan Fir'awniif gurguddoota isaatti ergineerra. Garuu isaan of tuulaniiru. Isaan namoota cubbamaa turan.
 
 ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ
 
@@ -6020,7 +6020,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 قَالُوٓا۟ أَجِئْتَنَا لِتَلْفِتَنَا عَمَّا وَجَدْنَا عَلَيْهِ ءَابَآءَنَا وَتَكُونَ لَكُمَا ٱلْكِبْرِيَآءُ فِى ٱلْأَرْضِ وَمَا نَحْنُ لَكُمَا بِمُؤْمِنِينَ
 
-**10:79** Fara'oon, “Falfalaa muuxannoo qabu hunda naaf fidaa,” jedhe.
+**10:79** Fir'awn, “Falfalaa muuxannoo qabu hunda naaf fidaa,” jedhe.
 
 وَقَالَ فِرْعَوْنُ ٱئْتُونِى بِكُلِّ سَٰحِرٍ عَلِيمٍۢ
 
@@ -6036,7 +6036,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 وَيُحِقُّ ٱللَّهُ ٱلْحَقَّ بِكَلِمَٰتِهِۦ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ
 
-**10:83** Garuu Muusaa namni tokko illee hin amanne, ijoollee saba isaa keessaa garii malee, sababii Fara'ooniif hogganoonni isaa isaan cunqursuu sodaataniif. Fara'oon lafa keessatti ol'aanaa fi aangoo-qabeessa ture. Inni nama daangaa dabree ture.
+**10:83** Garuu Muusaa namni tokko illee hin amanne, ijoollee saba isaa keessaa garii malee, sababii Fir'awniif hogganoonni isaa isaan cunqursuu sodaataniif. Fir'awn lafa keessatti ol'aanaa fi aangoo-qabeessa ture. Inni nama daangaa dabree ture.
 
 فَمَآ ءَامَنَ لِمُوسَىٰٓ إِلَّا ذُرِّيَّةٌۭ مِّن قَوْمِهِۦ عَلَىٰ خَوْفٍۢ مِّن فِرْعَوْنَ وَمَلَإِي۟هِمْ أَن يَفْتِنَهُمْ ۚ وَإِنَّ فِرْعَوْنَ لَعَالٍۢ فِى ٱلْأَرْضِ وَإِنَّهُۥ لَمِنَ ٱلْمُسْرِفِينَ
 
@@ -6056,7 +6056,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوْمِكُمَا بِمِصْرَ بُيُوتًۭا وَٱجْعَلُوا۟ بُيُوتَكُمْ قِبْلَةًۭ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ
 
-**10:88** Muusaan, “Rabbii keenya, ati Fara'ooniif hoggantoota isaaf miidhaginaa fi qabeenya jireenya addunyaa keessatti kenniteerta. Rabbii keenya, isaan karaa Kee irraa namoota fageessaniif. Rabbii keenya, qabeenya isaanii balleessi, onnee isaaniis jabeessi, isaan hanga adabbii dhukkubbii qabu arganitti hin amanan,” jedhe.
+**10:88** Muusaan, “Rabbii keenya, ati Fir'awniif hoggantoota isaaf miidhaginaa fi qabeenya jireenya addunyaa keessatti kenniteerta. Rabbii keenya, isaan karaa Kee irraa namoota fageessaniif. Rabbii keenya, qabeenya isaanii balleessi, onnee isaaniis jabeessi, isaan hanga adabbii dhukkubbii qabu arganitti hin amanan,” jedhe.
 
 وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةًۭ وَأَمْوَٰلًۭا فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ ۖ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
 
@@ -6064,7 +6064,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 قَالَ قَدْ أُجِيبَت دَّعْوَتُكُمَا فَٱسْتَقِيمَا وَلَا تَتَّبِعَآنِّ سَبِيلَ ٱلَّذِينَ لَا يَعْلَمُونَ
 
-**10:90** Nuti Ilmaan Israa'el galaana qaxxaamursineerra. Fara'ooniif humnoonni isaa didinaa fi fincilaadhaan isaan duuba deeman. Hanga, yeroo inni liqimsamuuf dhihaate, inni, “Ani kan Ilmaan Israa'el amanan Isa Tokkicha malee waaqni hin jiru jedhee amaneera, anis warra harka kennan keessaa tokko dha,” jedhe.
+**10:90** Nuti Ilmaan Israa'el galaana qaxxaamursineerra. Fir'awniif humnoonni isaa didinaa fi fincilaadhaan isaan duuba deeman. Hanga, yeroo inni liqimsamuuf dhihaate, inni, “Ani kan Ilmaan Israa'el amanan Isa Tokkicha malee waaqni hin jiru jedhee amaneera, anis warra harka kennan keessaa tokko dha,” jedhe.
 
 ۞ وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًۭا وَعَدْوًا ۖ حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱلَّذِىٓ ءَامَنَتْ بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ
 
@@ -12180,7 +12180,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 **ٱلشُّعَرَاء** · Ash-Shu'ara · Makkii · 227 aayatoota
 
-*Walaloonni fi liqimfamuu Fir'oon — seenaan Muusaa dheeraa himame.*
+*Walaloonni fi liqimfamuu Fir'awn — seenaan Muusaa dheeraa himame.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -12226,7 +12226,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 
-**26:11** Saba Fir'oon. Isaan hin sodaatanii?”
+**26:11** Saba Fir'awn. Isaan hin sodaatanii?”
 
 قَوْمَ فِرْعَوْنَ ۚ أَلَا يَتَّقُونَ
 
@@ -12246,7 +12246,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 قَالَ كَلَّا ۖ فَٱذْهَبَا بِـَٔايَٰتِنَآ ۖ إِنَّا مَعَكُم مُّسْتَمِعُونَ
 
-**26:16** Fir'oon dhaqaa, ‘Nuti Ergamoota Rabbii addunyaalee ti.
+**26:16** Fir'awn dhaqaa, ‘Nuti Ergamoota Rabbii addunyaalee ti.
 
 فَأْتِيَا فِرْعَوْنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلْعَٰلَمِينَ
 
@@ -12274,7 +12274,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 وَتِلْكَ نِعْمَةٌۭ تَمُنُّهَا عَلَىَّ أَنْ عَبَّدتَّ بَنِىٓ إِسْرَٰٓءِيلَ
 
-**26:23** Fir'oon, “Rabbiin addunyaalee maali?” jedhe.
+**26:23** Fir'awn, “Rabbiin addunyaalee maali?” jedhe.
 
 قَالَ فِرْعَوْنُ وَمَا رَبُّ ٱلْعَٰلَمِينَ
 
@@ -12346,7 +12346,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 لَعَلَّنَا نَتَّبِعُ ٱلسَّحَرَةَ إِن كَانُوا۟ هُمُ ٱلْغَٰلِبِينَ
 
-**26:41** Yeroo falfaltoonni dhufan, isaan Fir'ooniin, “Badhaasni nuuf jiraa, yoo nuti mo'atota taane?” jedhan.
+**26:41** Yeroo falfaltoonni dhufan, isaan Fir'awniin, “Badhaasni nuuf jiraa, yoo nuti mo'atota taane?” jedhan.
 
 فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالُوا۟ لِفِرْعَوْنَ أَئِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ ٱلْغَٰلِبِينَ
 
@@ -12358,7 +12358,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ
 
-**26:44** Kanaaf isaan funyoo isaanii fi ulee isaanii darban, “Ulfinna Fir'ooniin, nuti mo'atota taana,” jedhan.
+**26:44** Kanaaf isaan funyoo isaanii fi ulee isaanii darban, “Ulfinna Fir'awniin, nuti mo'atota taana,” jedhan.
 
 فَأَلْقَوْا۟ حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا۟ بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ ٱلْغَٰلِبُونَ
 
@@ -12394,7 +12394,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 ۞ وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِىٓ إِنَّكُم مُّتَّبَعُونَ
 
-**26:53** Fir'oon magaalota ids warra waamu erge.
+**26:53** Fir'awn magaalota ids warra waamu erge.
 
 فَأَرْسَلَ فِرْعَوْنُ فِى ٱلْمَدَآئِنِ حَٰشِرِينَ
 
@@ -13150,7 +13150,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 إِلَّا مَن ظَلَمَ ثُمَّ بَدَّلَ حُسْنًۢا بَعْدَ سُوٓءٍۢ فَإِنِّى غَفُورٌۭ رَّحِيمٌۭ
 
-**27:12** Harka kee qalqala kee keessa galchi, innis adii ta'ee ni ba'a, mudaa malee — raajiilee sagal Fir'oonii fi sabni isaaf, isaan namoota safuu hin qabne waan ta'aniif.”
+**27:12** Harka kee qalqala kee keessa galchi, innis adii ta'ee ni ba'a, mudaa malee — raajiilee sagal Fir'awnii fi sabni isaaf, isaan namoota safuu hin qabne waan ta'aniif.”
 
 وَأَدْخِلْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍۢ ۖ فِى تِسْعِ ءَايَٰتٍ إِلَىٰ فِرْعَوْنَ وَقَوْمِهِۦٓ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًۭا فَٰسِقِينَ
 
@@ -13500,11 +13500,11 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 تِلْكَ ءَايَٰتُ ٱلْكِتَٰبِ ٱلْمُبِينِ
 
-**28:3** Nuti seenaa Muusaa fi Fir'oon irraa — dhugaadhaan — siif himna, namoota amaniif.
+**28:3** Nuti seenaa Muusaa fi Fir'awn irraa — dhugaadhaan — siif himna, namoota amaniif.
 
 نَتْلُوا۟ عَلَيْكَ مِن نَّبَإِ مُوسَىٰ وَفِرْعَوْنَ بِٱلْحَقِّ لِقَوْمٍۢ يُؤْمِنُونَ
 
-**28:4** Fir'oon lafa irratti of ol kaase, namoota ishee garee gareetti hire. Inni garee isaan keessaa tokko rakkise, ilmaan isaanii qalee, dubartoota isaanii jiraachisee. Inni dhugumatti jeequmsa hojjetaa ture.
+**28:4** Fir'awn lafa irratti of ol kaase, namoota ishee garee gareetti hire. Inni garee isaan keessaa tokko rakkise, ilmaan isaanii qalee, dubartoota isaanii jiraachisee. Inni dhugumatti jeequmsa hojjetaa ture.
 
 إِنَّ فِرْعَوْنَ عَلَا فِى ٱلْأَرْضِ وَجَعَلَ أَهْلَهَا شِيَعًۭا يَسْتَضْعِفُ طَآئِفَةًۭ مِّنْهُمْ يُذَبِّحُ أَبْنَآءَهُمْ وَيَسْتَحْىِۦ نِسَآءَهُمْ ۚ إِنَّهُۥ كَانَ مِنَ ٱلْمُفْسِدِينَ
 
@@ -13512,7 +13512,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 وَنُرِيدُ أَن نَّمُنَّ عَلَى ٱلَّذِينَ ٱسْتُضْعِفُوا۟ فِى ٱلْأَرْضِ وَنَجْعَلَهُمْ أَئِمَّةًۭ وَنَجْعَلَهُمُ ٱلْوَٰرِثِينَ
 
-**28:6** Lafa irrattis isaan jabeessuuf; Fir'oon, Haamaanii fi loltoota isaaniif waan isaan sodaatan sana mul'isuuf.
+**28:6** Lafa irrattis isaan jabeessuuf; Fir'awn, Haamaanii fi loltoota isaaniif waan isaan sodaatan sana mul'isuuf.
 
 وَنُمَكِّنَ لَهُمْ فِى ٱلْأَرْضِ وَنُرِىَ فِرْعَوْنَ وَهَٰمَٰنَ وَجُنُودَهُمَا مِنْهُم مَّا كَانُوا۟ يَحْذَرُونَ
 
@@ -13520,11 +13520,11 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ
 
-**28:8** Maatiin Fir'oon isa fuudhan, diinaa fi gadda isaaniif akka ta'uuf. Fir'oon, Haamaanii fi loltoonni isaanii cubbamtoota turan.
+**28:8** Maatiin Fir'awn isa fuudhan, diinaa fi gadda isaaniif akka ta'uuf. Fir'awn, Haamaanii fi loltoonni isaanii cubbamtoota turan.
 
 فَٱلْتَقَطَهُۥٓ ءَالُ فِرْعَوْنَ لِيَكُونَ لَهُمْ عَدُوًّۭا وَحَزَنًا ۗ إِنَّ فِرْعَوْنَ وَهَٰمَٰنَ وَجُنُودَهُمَا كَانُوا۟ خَٰطِـِٔينَ
 
-**28:9** Haati manaa Fir'oon, “Gammachuu ijaa anaaf siifi. Isa hin ajjeesiinaa; tarii inni nu fayyada, yookaan nu isa ilma godhanna,” jette. Garuu isaan hin tilmaamanne.
+**28:9** Haati manaa Fir'awn, “Gammachuu ijaa anaaf siifi. Isa hin ajjeesiinaa; tarii inni nu fayyada, yookaan nu isa ilma godhanna,” jette. Garuu isaan hin tilmaamanne.
 
 وَقَالَتِ ٱمْرَأَتُ فِرْعَوْنَ قُرَّتُ عَيْنٍۢ لِّى وَلَكَ ۖ لَا تَقْتُلُوهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا وَهُمْ لَا يَشْعُرُونَ
 
@@ -13616,7 +13616,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 وَأَنْ أَلْقِ عَصَاكَ ۖ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّۭ وَلَّىٰ مُدْبِرًۭا وَلَمْ يُعَقِّبْ ۚ يَٰمُوسَىٰٓ أَقْبِلْ وَلَا تَخَفْ ۖ إِنَّكَ مِنَ ٱلْءَامِنِينَ
 
-**28:32** Harka kee qalqala kee keessa galchi, innis adii ta'ee ni ba'a, mudaa malee. Harka kees cinaa keetti dhiibi, sodaaf. Kunniin ragaalee lamaan Rabbii kee irraa, Fir'oonii fi abbootii biyyaa isaaf. Isaan dhugumatti namoota cubbuu qaban dha.”
+**28:32** Harka kee qalqala kee keessa galchi, innis adii ta'ee ni ba'a, mudaa malee. Harka kees cinaa keetti dhiibi, sodaaf. Kunniin ragaalee lamaan Rabbii kee irraa, Fir'awnii fi abbootii biyyaa isaaf. Isaan dhugumatti namoota cubbuu qaban dha.”
 
 ٱسْلُكْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍۢ وَٱضْمُمْ إِلَيْكَ جَنَاحَكَ مِنَ ٱلرَّهْبِ ۖ فَذَٰنِكَ بُرْهَٰنَانِ مِن رَّبِّكَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦٓ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًۭا فَٰسِقِينَ
 
@@ -13640,7 +13640,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 وَقَالَ مُوسَىٰ رَبِّىٓ أَعْلَمُ بِمَن جَآءَ بِٱلْهُدَىٰ مِنْ عِندِهِۦ وَمَن تَكُونُ لَهُۥ عَٰقِبَةُ ٱلدَّارِ ۖ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
 
-**28:38** Fir'oon, “Yaa abbootii biyyaa, ani waaqa na malee biraa isiniif hin beeku. Kanaaf suphee naaf gubi yaa Haamaan, masaraa naaf ijaari, akka ani Waaqa Muusaatti ol ba'u, ani isa sobaa yaadu utuun jiraa,” jedhe.
+**28:38** Fir'awn, “Yaa abbootii biyyaa, ani waaqa na malee biraa isiniif hin beeku. Kanaaf suphee naaf gubi yaa Haamaan, masaraa naaf ijaari, akka ani Waaqa Muusaatti ol ba'u, ani isa sobaa yaadu utuun jiraa,” jedhe.
 
 وَقَالَ فِرْعَوْنُ يَٰٓأَيُّهَا ٱلْمَلَأُ مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِى فَأَوْقِدْ لِى يَٰهَٰمَٰنُ عَلَى ٱلطِّينِ فَٱجْعَل لِّى صَرْحًۭا لَّعَلِّىٓ أَطَّلِعُ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ مِنَ ٱلْكَٰذِبِينَ
 
@@ -14008,7 +14008,7 @@ Yoo faalamaa taatan, of qulqulleessaa. Yoo dhukkubsattan, yookaan imala irra jir
 
 وَعَادًۭا وَثَمُودَا۟ وَقَد تَّبَيَّنَ لَكُم مِّن مَّسَٰكِنِهِمْ ۖ وَزَيَّنَ لَهُمُ ٱلشَّيْطَٰنُ أَعْمَٰلَهُمْ فَصَدَّهُمْ عَنِ ٱلسَّبِيلِ وَكَانُوا۟ مُسْتَبْصِرِينَ
 
-**29:39** Qaaruun, Fir'oonii fi Haamaaniis — Muusaan ragaalee ifaa waliin isaan bira dhaqe, garuu isaan lafa irratti boonan. Isaanis dura galuu hin dandeenye.
+**29:39** Qaaruun, Fir'awnii fi Haamaaniis — Muusaan ragaalee ifaa waliin isaan bira dhaqe, garuu isaan lafa irratti boonan. Isaanis dura galuu hin dandeenye.
 
 وَقَٰرُونَ وَفِرْعَوْنَ وَهَٰمَٰنَ ۖ وَلَقَدْ جَآءَهُم مُّوسَىٰ بِٱلْبَيِّنَٰتِ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ وَمَا كَانُوا۟ سَٰبِقِينَ
 
