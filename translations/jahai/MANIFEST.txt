@@ -57,8 +57,8 @@ work/flags-jhi.txt — 12 named uncertain-seat items plus residue counts, carrie
   10,002 bytes
   SHA-256 8fac8cbd4ce1ff535345db04c3dac05dac5bd8331b712ae88cf313756fb4a193
 ayah-companion-manuscript-JHI.md
-  2,143,901 bytes
-  SHA-256 92a201a4a137fd9ec7285c32f7a5d2ee0cb75f380e3f9de261d4a2230bfbab3d
+  2,143,430 bytes
+  SHA-256 e12cd8537f0d54721e98b3fc938e4a500b64833d34a76598e030261e7930bee3
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
