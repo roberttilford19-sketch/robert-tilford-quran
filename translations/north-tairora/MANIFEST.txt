@@ -63,7 +63,7 @@ work/flags-tbg.txt — 15 named judgment-call items plus sealed seats.
   SHA-256 83cd9e44cc9deb8620ceb3d44e0d472017d1488bcc2e0e5e13d83288c1409ede
 ayah-companion-manuscript-TBG.md
   2,305,235 bytes
-  SHA-256 93ae2946ed59046a72b5d61ad3e7479efd7e9844c8daff3e36f0b698361b1b0e
+  SHA-256 e2707ac39eed8e019f4cf497a6fb3e99eb3b066692a1d573094c41d7823dc3b8
 ayah-companion-aligned-TBG.json
   3,421,607 bytes
   SHA-256 8d113ef9facc5beb27bea92d4d58fdfd8ed435296de0e16e88938e8a8ed9bc66
