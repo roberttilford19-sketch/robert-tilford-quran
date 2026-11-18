@@ -46,7 +46,7 @@ found after research (New Guinea wave scout, 2026-11-17).
 FILES
 ayah-companion-manuscript-PMY.md
   2,198,995 bytes
-  SHA-256 bc213fa7779010f904a0608e57423e02b8e85cd06f115fd8ad747f39a80c9018
+  SHA-256 fbdc57ab64ccb8e2f1f1f799d400073021f355a8f8ab9ad65ab732737d23ac74
 ayah-companion-aligned-PMY.json (6,236 objects: chapter/verse/en/target/ar)
   3,315,825 bytes
   SHA-256 7094b61c800ea828c11ec6d5ac2b11926e615d677f6ab461bea630717a2bb3a1
