@@ -1,0 +1,116 @@
+AYAH COMPANION — IATMUL RENDERING
+MANIFEST — lane record, 2026-11-18
+
+ITEM
+Ayah Companion, Iatmul (ian) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the New Guinea wave (Road to 1,000), Phase-1
+verification batch B04, TOP BUILD CANDIDATES #2, under
+Robert's Advance Rule of 2026-11-14 and his snowplow
+doctrine for the wave.
+
+STATUS
+The status line stands inside the manuscript itself, on its
+face, with AI assistance labelled: FINISHED WORK (Robert
+Tilford's ruling of 2026-11-18). SHELVING: staged in this
+lane's shelving pack only. The landing is centralized after
+the independent check; this lane does not push.
+Translated by Robert Tilford. © 2026 Robert Tilford.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last
+114:6. Completeness is structural: every verse of the master
+is present, in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering
+(6,462 Arabic runs, verified identical to the master and to
+the extraction meta by the amended verify.py's
+structural-position method).
+
+SCRIPT
+Latin orthography — the orthography of the Iatmul New
+Testament (Bible Society of Papua New Guinea): ɨ for the
+central vowel, ng digraph, no apostrophes.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in
+this manifest or in any lane document. The standing wording
+is: none found after research (New Guinea wave scout,
+2026-11-17).
+
+FILES
+GLOSSARY-IAN.md
+  3,079 bytes
+  SHA-256 308359a273e2a5c6c1367f59f025c656db257cfd6b12ac446f60e50029508021
+STYLEGUIDE-IAN.md (the lane's binding drafting law, settled before drafting)
+  2,644 bytes
+  SHA-256 4a5a32b388e63d741799dd09fd3ddccdfadd70115bf7c6008bef7efc4d6a81ec
+BUILD-REPORT-IAN.md
+  4,697 bytes
+  SHA-256 296bb3f9b64a46448cca5afe0aad3ce6ece4a08728552b8db684500f2b651d9d
+PURPLE-REPORT-IAN-2026-11-18.md
+  1,802 bytes
+  SHA-256 be317a1ccae2b0c4a8b9ecc2802fa6fa3ccffb7bfe8bde5b277b24579254ee81
+work/verification-ian.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-ian.txt — 17 named judgment items plus residue counts, carried to the reviewer.
+  9,852 bytes
+  SHA-256 3ed04869609cd391809de8d4b48903a5e8c4ea6ac035d7dec4346b3446a21a0f
+ayah-companion-manuscript-IAN.md
+  2,212,727 bytes
+  SHA-256 cfd89b47cb18b2a63bd0782f878501046ae410a0bb84bd6402a91aaa997ae71e
+ayah-companion-aligned-IAN.json
+  3,330,294 bytes
+  SHA-256 2fe6089a654588128c4ec4c4254aec747ea6e8ebe7fbb88c3418b1bcbaef9188
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py),
+run 2026-11-18 on the final bytes: PASS true. Headers 114,
+head order true, verses 6,236, counts match meta true,
+continuity true, Arabic runs 6,462 identical to master and
+to meta, missing tags 0, prostration markers 15 match, note
+56 present, slice verse lines 6,236, slice ref mismatches 0,
+slice paragraph mismatches 0, percent signs 0 in slices and
+in the manuscript.
+Lane checker (work/check_ian.py) over all 114 surahs:
+problems 0. Per-verse census equality in all 6,236 verses —
+God-seat 2,732 (= God 2,732; seat tokens God + Godna);
+god 79 (= god 79); waagan kait 35 (= gods 35, bigram);
+Njambwi-seat 980 (= Lord 969 + the 11 counted Master
+tokens); zakat at exactly the 13 keyed slots; kwivat at
+exactly the 36 keyed tokens (2:272 x3; 58:13 x2).
+Purple measurements (work/purple-measurements-ian.json):
+Arabic matched 6,348 of 6,348; basmalah 114; markers 15;
+TOC 114, no mismatches; percent 0; note 56 present.
+Banned-string scan of the manuscript: clean.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye).
+Extraction: 114 surahs, 6,236 verses, 6,462 Arabic runs, 112
+basmalah frames, 15 markers; refs equal to master.
+Lexical bases (two disclosed sources): Jendraschek,
+Iatmul–English Dictionary, Draft Edition (RCLT La Trobe,
+2007) — a 43-page draft fieldwork booklet, fetched from the
+author's Academia.edu reading copy (the road named in the
+scout record, with its caveat carried in the lane's papers),
+banked as text — 196 template keys grounded; the Iatmul NT
+(GOD WAA NYAAGƗT, eBible.org USFM) as Scripture control —
+20 further template keys grounded by verse-aligned
+co-occurrence and 12 hand-set NT-verified, 3 empty.
+Total grounded: 231 of 1,887 template keys, plus 3 attested
+extras (beneficent, merciful, gracious).
+
+NOTES CARRIED TO THE REVIEWER
+The base itself is the reviewer's first item (flags item 1):
+a draft-edition booklet on an Academia fetch road, grounding
+231 of 1,887 keys — the lane's disclosed limitation, with
+the G7 residue of 13,828 tokens itemised in the flags. The
+gods seat (waagan kait, flags item 4) is the second item.
+The Ilaija/Ilaisa pair is control-attested and kept
+distinct; the Lord seat takes the control's common title
+Njambwi, and no Tetragrammaton rendering exists in the
+NT-only control or was introduced.
