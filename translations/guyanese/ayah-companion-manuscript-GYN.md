@@ -18914,7 +18914,7 @@ if yu a ina a stat a impuriti, purifi unuself. If yu a il, ar chravel, ar wan a 
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Wail demde uu biliiv, an wok raichosnis, an biliiv ina wa waz sen dong tu muhamad — an it a di chuut fram dem Laad — im remits dem sin, an relieves dem konserns.
+**47:2** Wail demde uu biliiv, an wok raichosnis, an biliiv ina wa waz sen dong tu Muhamad — an it a di chuut fram dem Laad — im remits dem sin, an relieves dem konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
