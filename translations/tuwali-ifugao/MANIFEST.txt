@@ -51,8 +51,8 @@ work/flags-ifk.txt — 10 named uncertain-seat items plus residue counts, carrie
   7,444 bytes
   SHA-256 76fc5ba1166a513aa424656cbcbb7029d6794e1282314ba2c935a81b2170f6e8
 ayah-companion-manuscript-IFK.md
-  2,241,513 bytes
-  SHA-256 805d0299ed09935bf1aaf250f8fa0b7cefd2f3659817eedaf717321b906f0792
+  2,240,932 bytes
+  SHA-256 4477376ad9f168c8fc98339fb4e181dd1a9d3e94ec549e2fffeda0aeacd2a311
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
