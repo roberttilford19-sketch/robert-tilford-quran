@@ -18914,7 +18914,7 @@ tulé méné wan fire stat vine impurity, puripy yourselves. Tulé méné wan il
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Velekute wani wani sanévéknwu, na jebaa rigteousness, na sanévéknwu fire samu rak sent waatasawure ké muhammad — na dé wan adél ba deku Némaan Ban — dé remits deku sins, na relieves deku konserns.
+**47:2** Velekute wani wani sanévéknwu, na jebaa rigteousness, na sanévéknwu fire samu rak sent waatasawure ké Muhammad — na dé wan adél ba deku Némaan Ban — dé remits deku sins, na relieves deku konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
