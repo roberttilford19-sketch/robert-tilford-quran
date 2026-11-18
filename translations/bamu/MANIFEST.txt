@@ -56,7 +56,7 @@ work/flags-bcf.txt — 11 named judgment calls plus residue counts, on the lane 
   SHA-256 b7ca483872a9d39c334741ac181f87c325ce388c2e0b0a18148ed10b707bb574
 ayah-companion-manuscript-BCF.md
   2,219,585 bytes
-  SHA-256 81e5491eda7b408df57b203aa4e4961b73022b42959892c149a4e42a4d3e9c30
+  SHA-256 e55395da7a278e16f0bbae99f96f2977bfa7c0a5f17a7e654c2497ed16307ee0
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
