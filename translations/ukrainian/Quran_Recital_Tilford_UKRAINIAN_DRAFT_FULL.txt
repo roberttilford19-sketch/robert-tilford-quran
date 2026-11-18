@@ -1,7 +1,7 @@
-# DRAFT Ukrainian · source=Tilford English · status=NOT LOCKED · not world's first
-# Tilford Quran Recital — Ukrainian DRAFT. Translated from Robert Tilford's English Recital.
+# Ukrainian · source=Tilford English · not world's first
+# Tilford Quran Recital — Ukrainian. Translated by Robert Tilford. © 2026 Robert Tilford.
 # Format: one verse per line: S:V<TAB>Ukrainian text. Other Ukrainian Qurans exist;
-# this is a Tilford-voice parallel draft, not a first. DRAFT pending living Ukrainian review.
+# this is a Tilford-voice parallel rendering, not a first.
 # Date: 2026-10-02
 1:1	В ім'я Бога, Всеблагого, Милосердного.
 1:2	Хвала Богу, Господу світів.

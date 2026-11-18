@@ -1,3 +1,19 @@
+GATE REMOVAL — 2026-11-18
+By Robert Tilford's ruling of 2026-11-18 the native-review gate is removed
+from this lane. The governing file's comment header no longer carries the
+DRAFT / pending-review status; it carries the author line "Translated by
+Robert Tilford. © 2026 Robert Tilford." No verse text changed: 6,236 verse
+lines, and the verse body (from 1:1 to end of file) is byte-identical to
+the previous governing generation. The filename keeps its historical
+"DRAFT" element as an identifier; renaming is outside this ruling's
+execution and is flagged in the gate-removal report.
+
+GOVERNING FILE (live shelf): Quran_Recital_Tilford_ICELANDIC_DRAFT_FULL.txt | 868162 bytes | SHA-256 1dbeb87e96ef904c81411a031d006997fdb0ad1662ef0ef7d55bc3965c22f506
+
+This header SUPERSEDES the governing-file size and hash statements below
+and the STATUS line in the older manifest text, which stands as the
+pre-ruling record.
+
 GOVERNING-GENERATION RULING — 2026-10-25
 Ruled by Robert Tilford on 2026-10-25: the LIVE SHELF governs. The live-shelf file below is the governing
 generation for this folder in this repository (roberttilford19-sketch/robert-tilford-quran, main at
