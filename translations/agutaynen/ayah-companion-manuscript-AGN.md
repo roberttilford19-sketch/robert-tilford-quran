@@ -18914,7 +18914,7 @@ mga yawa ong tasar tang impurity, puripy sadili nindio. Mga yawa ill, obin biahi
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Mintras mga sia sinopa paret, ig obra kato-lidan, ig paret ong onopa alin babak ong muhammad — ig sia kamatodan alin nira Gino — tanandia remits nira kasalanan, ig reliebes nira konserns.
+**47:2** Mintras mga sia sinopa paret, ig obra kato-lidan, ig paret ong onopa alin babak ong Muhammad — ig sia kamatodan alin nira Gino — tanandia remits nira kasalanan, ig reliebes nira konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
