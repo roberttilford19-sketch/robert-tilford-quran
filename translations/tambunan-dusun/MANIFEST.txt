@@ -57,8 +57,8 @@ work/flags-kzt.txt — 8 named uncertain-seat items plus residue counts, carried
   2,787 bytes
   SHA-256 34d74310ba0cc51617acd87dcbe8e06002d240439e2a109830d77a9a5b269769
 ayah-companion-manuscript-KZT.md
-  2,378,334 bytes
-  SHA-256 7da39725733484c403935b312a7ec7402caf32455939aff1887075e30835d53e
+  2,377,817 bytes
+  SHA-256 3b139be40a9d79042b08e1bec1aa4a34695240a86e5f5dc704fbaf9d8fbfd34b
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
