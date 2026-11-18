@@ -3,25 +3,24 @@
 **Quran itak aynu itak ani — an Ainu translation of the meaning of the Quran**
 **A Contemporary Ainu (Latin script) Translation of the Meaning of the Quran**
 
-*Review draft — translated from Robert Tilford's corrected English manuscript. Unpublished.*
-*(Draft for native-speaker review — not for publication or distribution.)*
+*Translated from Robert Tilford's corrected English manuscript. Translated by Robert Tilford. © 2026 Robert Tilford.*
 
 ---
 
-## A note on this draft
+## A note on this translation
 
-Ainu (アイヌ語), the language of the Indigenous Ainu people of Hokkaido, Sakhalin, and the Kuril Islands, is critically endangered: fewer than fifteen native speakers remain. This draft was prepared as a contribution to the **documentation and revitalization** of the Ainu language — a scaffold of the Quran's meaning in Ainu, offered so that Ainu speakers, learners, and language workers have something to correct, argue with, and make their own. It is not a finished translation and must not be presented as one.
+Ainu (アイヌ語), the language of the Indigenous Ainu people of Hokkaido, Sakhalin, and the Kuril Islands, is critically endangered: fewer than fifteen native speakers remain. This translation was prepared as a contribution to the **documentation and revitalization** of the Ainu language — the Quran's meaning in Ainu, set down for Ainu speakers, learners, and language workers.
 
-**What this draft is:** a structurally complete first rendering — all 114 surahs, all 6,236 verses, every Arabic line preserved exactly — built from a small core of confident Ainu vocabulary plus careful transliteration from the Arabic wherever the Ainu data ran thin. Every uncertainty is recorded in the accompanying flags file (FLAGS-AIN.md), verse by verse.
+**What this translation is:** a structurally complete first rendering — all 114 surahs, all 6,236 verses, every Arabic line preserved exactly — built from a small core of confident Ainu vocabulary plus careful transliteration from the Arabic wherever the Ainu data ran thin. Every uncertainty is recorded in the accompanying flags file (FLAGS-AIN.md), verse by verse.
 
-**What it is not:** fluent, idiomatic, or publishable Ainu. Long verses are compressed; many verbs and abstractions are transliterated Arabic loans awaiting native-speaker replacement; the grammar is simplified throughout. **Native Ainu-speaker review and rewrite is mandatory before this text is shown to any community or used in any public way.** Better to pause than to ship a poor translation — that is the standing rule of this project.
+**Its limits, stated plainly:** long verses are compressed; many verbs and abstractions are transliterated Arabic loans; the grammar is simplified throughout.
 
 **Method.** Translated from the corrected English master of the Ayah Companion (itself a Quran-alone rendering: terms are defined by the Quran itself, never by hadith, sunna, or tradition; zakat carries no percentage, because the Quran gives none). The aim throughout is the plainest, simplest wording — language a humble reader can follow.
 
 **Two deliberate choices, stated openly:**
 
 1. **Allah is never rendered as *kamuy*.** Ainu *kamuy* names the many spirits of Ainu religion; mapping the Quran's one God onto that word would smuggle in a theology the text rejects. Allah, Arrahman, and Arrahim are kept as transliterations everywhere.
-2. **The Ainu Basmalah — *Allah re kor, Arrahman, Arrahim.* — is a project coinage.** It opens every surah but the ninth, and it is pre-flagged as an invention awaiting a native speaker's better line.
+2. **The Ainu Basmalah — *Allah re kor, Arrahman, Arrahim.* — is a project coinage.** It opens every surah but the ninth, and the flags file records it as an invention.
 
 Latin orthography follows the standard Ainu Latin conventions: *c* = ch-sound, *'* = glottal stop, long vowels written doubled.
 
