@@ -20,4 +20,4 @@ The full lane record (build report, verification and checker records, flags)
 stands in the workspace lane folder ~/workspace/ayah-burmese/, unrepaired.
 
 Files:
-  4444614  7fb4496fed7b886595e7b1439f2bdaa9ef63363b567141c01118b3654066fa82  ayah-companion-manuscript-MY.md
+  4444076  06e08bddbd357087ec77786dfbda7336a84ff7b0aa60de907369efa47ec6d80b  ayah-companion-manuscript-MY.md
