@@ -57,8 +57,8 @@ work/flags-txx.txt — 8 named uncertain-seat items plus residue counts, carried
   2,979 bytes
   SHA-256 94b8af5e5d4f52efe8c2e5feed5463162a03202487ecc73cf33aea41b72853a3
 ayah-companion-manuscript-TXX.md
-  2,357,428 bytes
-  SHA-256 685e27045299bd0b88fefa1a1db0912a6526e3e923a14b920de02ff6748a78ba
+  2,356,924 bytes
+  SHA-256 548134ca9fbfa5086d6d458bc5f989c02679355e5c4c2935e09e30431e768629
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
