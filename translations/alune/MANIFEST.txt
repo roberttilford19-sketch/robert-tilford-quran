@@ -51,8 +51,8 @@ work/flags-alp.txt — 13 named uncertain-seat items plus residue counts, carrie
   7,802 bytes
   SHA-256 af5e64542d61cc7be034bff3235b34bd9e2807056a16fdffa2e9243f098613e1
 ayah-companion-manuscript-ALP.md
-  2,200,914 bytes
-  SHA-256 14be8d5b32886a24a92d38341732af471c0ceec8346bc57d237f5ebd14e41f95
+  2,200,453 bytes
+  SHA-256 fecd2ba40fba0bc4b150959e34ede1eefd1f78f5fd4f739dacbda36f6c463aa8
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
