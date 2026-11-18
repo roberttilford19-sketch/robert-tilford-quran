@@ -57,8 +57,8 @@ work/flags-dup.txt — 8 named uncertain-seat items plus residue counts, carried
   2,234 bytes
   SHA-256 a32a9a6058f1cbc72ed80828c4f05ab72ac8b4cfe78e1616bb6c734a8b1541c3
 ayah-companion-manuscript-DUP.md
-  2,361,897 bytes
-  SHA-256 4fe7bc5b637c70ddd0f4c89743070b1ce83cb02563c29d924a04314727885ab3
+  2,361,397 bytes
+  SHA-256 9a860024767027029d46aac3b3f2a72047e1fb75f38ac249c9acc4b77fffbdf3
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
