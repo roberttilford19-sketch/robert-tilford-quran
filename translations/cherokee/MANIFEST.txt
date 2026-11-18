@@ -15,4 +15,4 @@ The full lane record (build report, verification and checker records, flags)
 stands in the workspace lane folder ~/workspace/ayah-cherokee/, unrepaired.
 
 Files:
-  2082283  607437d74bf341987a8bcea7faabf3130d7cde05cca27549a85b02084c012286  ayah-companion-manuscript-CHR.md
+  2081898  bd90a08ff4ac8234389829eb5da080aebc56898e7aef070ad2a93a5fa359a740  ayah-companion-manuscript-CHR.md
