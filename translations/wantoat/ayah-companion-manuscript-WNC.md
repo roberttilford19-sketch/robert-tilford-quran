@@ -18915,7 +18915,7 @@ u gata are katang stat de impurity, puripy gisa. U gata are ill, ba trabelling, 
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Whil anaanda mamin natapa, gatu pasike rigteousness, gatu natapa katang dasing was sent amayapii de muhammad — gatu wa nata siakan ta waamindane Buyambam — ita remits waamindane waiaknga, gatu reliebes waamindane konserns.
+**47:2** Whil anaanda mamin natapa, gatu pasike rigteousness, gatu natapa katang dasing was sent amayapii de Muhammad — gatu wa nata siakan ta waamindane Buyambam — ita remits waamindane waiaknga, gatu reliebes waamindane konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
