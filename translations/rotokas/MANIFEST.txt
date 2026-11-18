@@ -1,0 +1,117 @@
+AYAH COMPANION — ROTOKAS RENDERING
+MANIFEST — lane record, 2026-11-18
+
+ITEM
+Ayah Companion, Rotokas (roo) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the New Guinea wave (Phase-1 verification batch
+B12, Bougainville, Buka & the Outliers), under Robert's
+Advance Rule of 2026-11-14 and his snowplow doctrine for
+the wave.
+
+AUTHOR AND STATUS
+Translated by Robert Tilford. © 2026 Robert Tilford.
+FINISHED WORK — under Robert Tilford's ruling of 2026-11-18
+the book stands as his finished work, author-published
+as-is. The status line stands inside the manuscript itself,
+on its face, with AI assistance labelled plainly.
+SHELVING: staged in this lane's shelving pack only. The
+landing is centralized after the independent check; this
+lane does not push.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography — the practical orthography of the Rotokas
+New Testament (AIREPA VAE REO OVOI, Wycliffe Bible Translators,
+1982) and of Firchow, Firchow & Akoitai's Vocabulary of
+Rotokas-Pidgin-English (SIL, 1973).
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: none
+found after research (New Guinea wave scout, 2026-11-17).
+
+FILES
+GLOSSARY-ROO.md
+  3034 bytes
+  SHA-256 3f3d51ade694a4c1bc7fd962cec32397e3ac94af69d59e495a89a5b8faecef63
+STYLEGUIDE-ROO.md (the lane's binding building law, settled before building)
+  6783 bytes
+  SHA-256 62e2af0ad1c4c17f881a87ef69cf9e108361b1dd1adf3b9f7d3bba7e53ff66bc
+BUILD-REPORT-ROO.md
+  9138 bytes
+  SHA-256 b89539993013627cb4ec3fa7c914a919c38922f6a7426f9b2ae301949c39c1ad
+PURPLE-REPORT-ROO-2026-11-18.md
+  2944 bytes
+  SHA-256 b8de1770d4099bc3598cf7c322c1b9827ea1bcee5177e97b85b3883ba73a98da
+work/verification-roo.json (verify.py record)
+  SHA-256 7fa5ad3e7b79ec38f28e667f278891db08471bfe5a00f48270dde4c4df0f50dd
+work/flags-roo.txt — 13 named judgment-call items plus residue counts, carried to the independent checker.
+  8030 bytes
+  SHA-256 d277c2e8c2bf87c89319b5f382b81618f96dafa2f8744b2b3cc8e02d029159d1
+ayah-companion-manuscript-ROO.md
+  2287922 bytes
+  SHA-256 182776b4f57d0046c6fc6ad1d8c5293dd70752fd42f8dd827f3f4291c564362c
+ayah-companion-aligned-ROO.json (the aligned array: 6,236 objects,
+chapter/verse/en/target/ar, per the house FILE-SCHEMA)
+  3403944 bytes
+  SHA-256 c3ef030aeb5d9babc6e072fca5af750b354c3db6176c4dc60de24b55d232ca80
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-18 on the final bytes: PASS true. Headers 114, head order
+true, verses 6,236, counts match meta true, continuity true,
+Arabic runs 6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse lines
+6,236, slice ref mismatches 0, slice paragraph mismatches 0,
+percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_roo.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Pauto 2,732
+(= God 2,732); pau 79 (= god 79, counted outside the gods
+phrase); pau irara 35 (= gods 35); Turaro 980
+(= Lord 969 + the 11 counted Master tokens);
+zakat at exactly the 13 keyed slots; vatevate at exactly the 36
+keyed tokens (2:272 x3; 58:13 x2).
+Purple measurements (work/purple-measurements-roo.json): Arabic
+matched 6,348 of 6,348; basmalah 114; markers 15; TOC 114, no
+mismatches; percent 0; note 56 present.
+Independent checker: PENDING — centralized after this build.
+No checker verdict is claimed in this manifest.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+Lexical bases (two disclosed sources): Firchow, Firchow &
+Akoitai, Vocabulary of Rotokas-Pidgin-English (SIL 1973) via
+archive.org item rotokasdictionary (main section reversed,
+attestation-filtered, 306 template keys grounded); the Rotokas
+NT (AIREPA VAE REO OVOI, eBible USFM) as Scripture control
+(control-aligned 23; hand-set 62).
+Total grounded: 391 of 1,887 template keys, plus the 3 empty
+article values, plus 1 extra key (beneficent).
+
+NOTES CARRIED TO THE CHECKER
+The Elisha form Ilaisa at 6:86 and 38:48, distinct from Elijah
+Ilaija at 6:85 — both forms attested in the control itself
+(Ilaija 30, Ilaisa 2 on the stated basis, both Ilaisa seats at
+Luke 4:27); the God-word Pauto is control-attested at John
+3:16; the Lord-word Turaro is the control's common title
+itself (533 capitalised tokens; 1 Cor 8:6) — the control is
+NT-only and carries no distinct divine-name rendering, so the
+Motu precedent is recorded as not triggered; the gods phrase
+pau irara, the basmalah composition, the dictionary-vs-control
+form conflicts (apostle first), and the possessive vaaro
+placement ride in the flags.
