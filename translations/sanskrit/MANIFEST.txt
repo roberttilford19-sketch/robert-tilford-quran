@@ -20,4 +20,4 @@ The full lane record (build report, verification and checker records, flags)
 stands in the workspace lane folder ~/workspace/ayah-sanskrit/, unrepaired.
 
 Files:
-  3528328  fdd6f20800263615212325901d80f27341cf8cf8866d9b71216644f78b84029f  ayah-companion-manuscript-SA.md
+  3527741  5ae390e5bb254c4a68c74d0718ccd7a19635db02b7e4b1aacbeee42fd86d6413  ayah-companion-manuscript-SA.md
