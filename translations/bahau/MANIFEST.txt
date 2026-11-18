@@ -57,8 +57,8 @@ work/flags-bhv.txt — 13 named uncertain-seat items plus residue counts, carrie
   5,868 bytes
   SHA-256 b1f6032b16120ed507d4ab1c74827ea93ed440e7a1579f2a1d0dabbe932b294f
 ayah-companion-manuscript-BHV.md
-  2,269,423 bytes
-  SHA-256 f8d41f49a599205ff04b384d7d5e0421161463dbff35d4230fcd67c9f6f3b5bc
+  2,268,923 bytes
+  SHA-256 a4ae5b07410a8d18bebbd5223f24d15c21b6abc19966973306942f7db748cc52
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
