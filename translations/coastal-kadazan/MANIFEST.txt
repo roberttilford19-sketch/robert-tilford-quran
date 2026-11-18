@@ -61,8 +61,8 @@ work/flags-kzj.txt — 8 named uncertain-seat items plus residue counts, carried
   4,582 bytes
   SHA-256 126d3b91e97535c72a18267d9ff7d6b3968fefdd3f2ced781a8527142e0027a2
 ayah-companion-manuscript-KZJ.md
-  2,378,196 bytes
-  SHA-256 442df006930d96f9d6e07c79dfb489154ba09872fa0caa4d229497752beeba7d
+  2,377,668 bytes
+  SHA-256 b5ea55b6513694bc2b643933538765812635f32e6eecff14527f3bddf56ea868
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
