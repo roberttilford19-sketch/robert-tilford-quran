@@ -60,7 +60,7 @@ work/verification-urt.json
   SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
 ayah-companion-manuscript-URT.md
   2292035 bytes
-  SHA-256 22a208654dc7600871d0681760929d4bd7b9dafd734583abe3c2d7dec601ed2f
+  SHA-256 9ea1fd4c60cb068bfaf38d22172a6bdcaf5a854fde2d26831d0c7430018b4d55
 ayah-companion-aligned-URT.json
   3408153 bytes
   SHA-256 06c8223dd81dfdf268ce7d0606c78e32f63dbbba147aeaca68a37c2294e357be
