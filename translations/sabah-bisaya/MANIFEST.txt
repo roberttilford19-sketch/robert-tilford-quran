@@ -57,8 +57,8 @@ work/flags-bsy.txt — 8 named uncertain-seat items plus residue counts, carried
   2,999 bytes
   SHA-256 34808e6e43051bc99de4ab52e6439c375adc8c037f2c7203a7806012ea7904fa
 ayah-companion-manuscript-BSY.md
-  2,357,483 bytes
-  SHA-256 1df5cc51f4afae3088429e31f44f7a9b736bd987328ecd9eee62d719e6eebcba
+  2,356,954 bytes
+  SHA-256 c47465e0a41072f1191653c72b8b1991a7378383ec391d8fe969cdb5ac1bc305
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
