@@ -18901,7 +18901,7 @@ bang kau ada di menyatakan na impurity, purify diri kamu sendiri. Bang kau ada i
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Samentara ino siapa percaya, duk perbuatan kebenaran, duk percaya di apa adalah dikirim turun ka muhammad — duk ino ada kebenaran dari punya dorang Tuhan — dia remits punya dorang dosa-dosa, duk relieves punya dorang konserns.
+**47:2** Samentara ino siapa percaya, duk perbuatan kebenaran, duk percaya di apa adalah dikirim turun ka Muhammad — duk ino ada kebenaran dari punya dorang Tuhan — dia remits punya dorang dosa-dosa, duk relieves punya dorang konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
