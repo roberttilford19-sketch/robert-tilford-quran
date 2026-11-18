@@ -29,5 +29,5 @@ first 1:1, last 114:6. The PDF below matches the lane MANIFEST exactly,
 byte for byte.
 
 Files:
-  2225122  b4d4ec2f08236dc20ccc49f45cbb75c04347428e7b61ea8098fd4171ba0561a2  ayah-companion-manuscript-PLN.md
-  1746632  c27b0b6707882ad90a020c10bf5791668ba3e1a2f44ec08fa771f8a110b4ec2f  Ayah_Companion_Tilford_Palenquero_Manuscript.pdf
+  2224832  1e5d53abea23911665a397abfffc0eb8511b433481358e011cb05265645191ec  ayah-companion-manuscript-PLN.md
+  1739655  7db83320c8e64aa018789dfd27f706d4076a8c9f8a2adac8747949100f8f943b  Ayah_Companion_Tilford_Palenquero_Manuscript.pdf
