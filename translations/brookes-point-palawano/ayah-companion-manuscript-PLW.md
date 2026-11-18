@@ -18914,7 +18914,7 @@ baꞌ ikew in eset state et impurity, puripy kew. Baꞌ ikew in ill, etawa pegpa
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Semantaraꞌ mengeꞌ atin sinu mengandel, bekeꞌ keradya keberbenaran, bekeꞌ mengandel eset enu in tahag mebabaꞌ dut muhammad — bekeꞌ atin in keberbenaran teyeg dut dye Begerar — ya remits dye salaꞌ, bekeꞌ reliebes dye kunserns.
+**47:2** Semantaraꞌ mengeꞌ atin sinu mengandel, bekeꞌ keradya keberbenaran, bekeꞌ mengandel eset enu in tahag mebabaꞌ dut Muhammad — bekeꞌ atin in keberbenaran teyeg dut dye Begerar — ya remits dye salaꞌ, bekeꞌ reliebes dye kunserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
