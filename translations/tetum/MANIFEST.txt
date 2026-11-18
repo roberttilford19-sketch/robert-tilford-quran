@@ -52,8 +52,8 @@ work/flags-tet.txt — 9 named uncertain-seat items plus residue counts, carried
   6,689 bytes
   SHA-256 d5c4bef32663796ca97a513c55e9c88a020f99c4cc8a4c7176c9459c6dda8179
 ayah-companion-manuscript-TET.md
-  2,185,184 bytes
-  SHA-256 3b5f2f06a31a913b8d4eeb74546129eb561d4e3f342eee96f23afe7d9c9b0bae
+  2,184,660 bytes
+  SHA-256 07f0c9b09a2257c385ef35a794451c73ebbcf55cadea287be80127c8352915e8
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
