@@ -1,0 +1,78 @@
+MANIFEST — WUVULU-AUA (WUV) — Ayah Companion lane
+Generated 2026-11-18 by the builder lane (Muse). This manifest describes the lane
+folder ayah-wuvulu-aua/ as built. The shelving pack staged under
+shelving-pack/translations/wuvulu-aua/ contains exactly two files: the manuscript
+and a copy of this MANIFEST. The lane has NOT been pushed; the independent check
+is pending (centralized).
+
+ITEM
+A complete rendering of the Quran (Ayah Companion) in Wuvulu-Aua, from Robert
+Tilford's corrected English master (the Locked English Master), with the Arabic
+source text standing alongside, verse by verse.
+
+AUTHOR AND STATUS
+Translated by Robert Tilford. © 2026 Robert Tilford. AI assistance is labelled
+plainly in the book's front matter. Status: FINISHED WORK (gate-removal ruling
+2026-11-18 — the translations stand as the translator's finished works; no
+draft or not-reviewed language stands anywhere in the book).
+
+COMPLETENESS
+6,236 of 6,236 verses; first verse 1:1; last verse 114:6; 114 surahs in order.
+
+TEXT RULE
+The Arabic text stands byte-identical to the Locked English Master: 6,462 of
+6,462 Arabic runs identical (canonical verifier, PASS — work/verification-wuv.json).
+The Wuvulu-Aua rendering is the translation; the Arabic is never altered.
+
+SCRIPT
+Latin, in the practical orthography of the Wuvulu-Aua New Testament (Wuvulu
+Manufau Fi'ugaia) — Hafford's glottal written as the apostrophe, word-initial
+glottal unwritten, as the control writes it.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering. The standing wording is:
+none found after research (New Guinea wave scout, 2026-11-17).
+
+FILES (sizes in bytes; SHA-256 computed by machine at manifest time)
+- ayah-companion-manuscript-WUV.md — 2271949 — f422354e36fa1072e0fd7c882cee05b386b87fd356cbc61b2059d758afc6f60b
+- ayah-companion-aligned-WUV.json — 3386820 — 3cab24abe955a7c9ca3df77eb93cfcc643aaf52334bb58ca8fbfe591ecd96e88
+- GLOSSARY-WUV.md — 3448 — 70fdf7c1ba577903a72500889170095cfc4a659a936824b4358c5fd7e18967ad
+- STYLEGUIDE-WUV.md — 7760 — bb1e1285071ef26dc09f2b45635e12df59500678017256c604debf080220581f
+- BUILD-REPORT-WUV.md — 6761 — 946156f3288c4cdae93c03722465254dc1439da08a00505c7f2203badd826e74
+- PURPLE-REPORT-WUV-2026-11-18.md — 2267 — aaeaefc5505d03c535bda1b297ebe2aee9cfc5ca5eea0fb5baac0bdd33036576
+- work/verification-wuv.json — 710 — f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+- work/flags-wuv.txt — 10215 — d974e3713b607b1c4358e9b4e3eab5bff0a26d4c6668d8723413eb0cb96ff6d1
+
+VERIFICATION
+- Lane checker (work/check_wuv.py): problems 0 — per-verse census equality across
+  all 6,236 verses (Haidaa 2,732 = God with God's; haidaa 114 = god 79 + gods 35;
+  Fasu 980 = Lord 969 + counted Master 11; zakat 13 at exactly the keyed refs;
+  fana 36 at exactly the keyed sadaqa map; 1:1 equal to the fixed basmalah;
+  TAB parity; pilcrow parity; percent 0; no invisible format characters).
+- Canonical verifier: PASS (114 headers in order; 6,236 verses; Arabic 6,462 runs
+  byte-identical to master and meta; markers 15; note 56 present; percent 0).
+- Purple sweep: reconciled (PURPLE-REPORT-WUV-2026-11-18.md).
+- Independent checker: PENDING (centralized).
+
+SOURCE
+Locked English Master: ~/workspace/ayah-audit/corrected/ayah-companion-manuscript.md
+Master MD5 (machine-verified at lane setup): 064ee170806bb31f5bac3e75d2aa4d94
+Lexical bases: Hafford, Wuvulu Grammar and Vocabulary (University of Hawai'i
+dissertation, © 2014; no open licence stated — lexical reference only) and the
+Wuvulu-Aua New Testament (Wuvulu Manufau Fi'ugaia, © 2004 Wycliffe Bible
+Translators; CC BY-NC-ND 4.0 per its eBible record) — full record in
+work/base/BASE-NOTES.md.
+
+NOTES CARRIED TO THE CHECKER
+The builder's flags (work/flags-wuv.txt, 17 items) travel with this lane: the
+gods seat keyed to the control's unmarked haidaa; the bare-form possessive
+convention; the Farawani/Faloloa'i mercy-pair mapping and its ground; Elisha
+exactly 2 seats in the control's own spelling; the fana sadaqa settlement; the
+retained loanwords and non-NT name spellings; the alignment refusals; the
+pronoun disclosures (inclusive o'ou for we; hamu'ou for you; gender-neutral
+hia); the fei article keying with a/an empty; the 14 NT-standard overrides of
+Hafford forms; the ano homograph; the numeral citation-form practice; the
+ungrounded temple/priest/ear class left to disclosed transliteration; the
+transliteration residue (54,900 fallback tokens; Purple G7 16,276); the single
+counting basis; and second keyed from the control's published 2 Peter
+introduction, outside the verse-text basis, disclosed.
