@@ -57,8 +57,8 @@ work/flags-sne.txt — 18 named uncertain-seat items plus residue counts, carrie
   9,882 bytes
   SHA-256 d90249ecd6f7d88923840fceecbf577f0422487907214a2132dfa5ac884ce268
 ayah-companion-manuscript-SNE.md
-  2,398,032 bytes
-  SHA-256 272e671def980f0838660090b370275d3278ad44e3a01ac40fc725eb248d6d1c
+  2,397,447 bytes
+  SHA-256 e5bd3ad4979bfdbcac026eb635bc21f299e5d974366e3b898f5b758f83056fc7
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
