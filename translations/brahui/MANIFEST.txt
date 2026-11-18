@@ -20,4 +20,4 @@ The full lane record (build report, verification and checker records, flags)
 stands in the workspace lane folder ~/workspace/ayah-brahui/, unrepaired.
 
 Files:
-  2247404  7113cf33c12ca883cccc87f1ea9aac612c6c28571b7479b40cd6da50660f6506  ayah-companion-manuscript-BRH.md
+  2246949  c1f0bcdd12e295c55a0dd9e21ad1f919d612f59fcdf9688905bfb135876c749e  ayah-companion-manuscript-BRH.md
