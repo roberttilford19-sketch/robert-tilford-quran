@@ -1,0 +1,115 @@
+AYAH COMPANION — EAST KEWA RENDERING
+MANIFEST — lane record, 2026-11-17
+
+ITEM
+Ayah Companion, East Kewa (kjs) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the New Guinea wave, Phase 2, first tranche
+(promoted alternate under Robert's snowplow doctrine), under
+Robert's Advance Rule of 2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native East Kewa review is required
+before any gifting or publication; review is invited. The status
+line stands inside the manuscript itself, on its face, with AI
+assistance labelled.
+SHELVING: staged in this lane's shelving pack only, for
+translations/east-kewa/. The landing is centralized after the
+independent check; this lane does not push.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography — the East Kewa orthography of the East Kewa
+New Testament (Gotena Epe Agale).
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: none
+found after research (New Guinea wave scout, 2026-11-17).
+
+DIALECT CAVEAT
+The dictionary base is West-Kewa-based (Franklin & Franklin,
+Pacific Linguistics C-53, 1978; 2007 electronic edition).
+Franklin's own record states the East Kewa NT lexical database
+(2005) was not amalgamated into it. The base covers the Kewa
+complex with East as a named dialect; East-specific attestation
+comes from the East Kewa NT control text.
+
+FILES
+GLOSSARY-KJS.md
+  5,409 bytes
+  SHA-256 3dbc757a3d487705eb4224667ea6a2f826bad8dbf4266f64f0685c744138c375
+STYLEGUIDE-KJS.md (the lane's binding drafting law, settled before drafting)
+  8,122 bytes
+  SHA-256 29d7154d68ab5bab6e670a772da073366482a135eb09c2ca07fd260e8c5307ed
+BUILD-REPORT-KJS.md
+  6,845 bytes
+  SHA-256 0a8f6d9700dc536ef5960fff827ddc2676baac237e9abd2a2da8bdf7abcbb91a
+PURPLE-REPORT-KJS-2026-11-17.md
+  7,077 bytes
+  SHA-256 d527525150e63f46f91c96dae759531042caa7f96a7e00bb8b8eb062c61f64f0
+work/verification-kjs.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-kjs.txt — 15 named uncertain-seat items plus residue counts, carried to the reviewer.
+  5,186 bytes
+  SHA-256 1b0d2f521f6080d51813c5c515b47bd123e5a0dda1e34f5cbeabd8e1e536ad76
+ayah-companion-manuscript-KJS.md
+  2,251,710 bytes
+  SHA-256 ffe545782bede6c3e04daebfa436a9011f099aa5efdcbee7b8cac46af2121d02
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-17 on the final bytes (YAML header included): PASS true.
+Headers 114, head order true, verses 6,236, counts match meta
+true, continuity true, Arabic runs 6,462 identical to master and
+to meta, missing tags 0, prostration markers 15 match, note 56
+present, slice verse lines 6,236, slice ref mismatches 0, slice
+paragraph mismatches 0, percent signs 0 in slices and in the
+manuscript.
+Lane checker (work/check_kjs.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Gote 2,732
+(= God 2,732); gote 79 (= god 79); gotenu 35 (= gods 35);
+Mudu Ali 980 (= Lord 969 + the 11 counted Master tokens);
+zakat at exactly the 13 keyed slots; raba at exactly the 36
+keyed tokens (2:272 x3; 58:13 x2).
+Purple measurements (work/purple-measurements-kjs.json): Arabic
+matched 6,348 of 6,348; basmalah 114; markers 15; TOC 114, no
+mismatches; percent 0; note 56 present.
+Independent checker (separate agent): PASS WITH FLAGS,
+2026-11-17 (CHECKER-REPORT-KJS.md). Headline: every claim
+verified, no mismatches; grounding 638 of 1,887 reconciles
+from the bridge record; West-Kewa dialect caveat stands in
+all four named places; unsettled seats verified absent from
+the lexicon. Status remains DRAFT — NOT REVIEWED; the landing
+is centralized after this record.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+Lexical base, two sources, both counts stated: Franklin &
+Franklin, A Kewa Dictionary, Pacific Linguistics C-53 (ANU
+1978), electronic edition (2007) on archive.org — 4,805
+Kewa-English entries and 3,673 English-Kewa entries; and the
+East Kewa NT, Gotena Epe Agale (c) 2004 Wycliffe, eBible.org
+USFM — 7,918 verses, 7,914 aligned against the WEB Bible.
+Lexicon: 639 entries (638 template keys grounded + beneficent).
+
+NOTES CARRIED TO THE REVIEWER
+The Elisa/Elaija pair (flags item 1) is the reviewer's first name
+ruling; the God-word Gote and Lord-word Mudu Ali are dictionary-
+and NT-attested; the dialect caveat (flags item 7), the basmalah
+composition, the possessive -na simplification, and the unsettled
+terms (flags item 10) ride in the flags.
