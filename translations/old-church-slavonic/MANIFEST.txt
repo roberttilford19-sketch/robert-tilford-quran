@@ -20,4 +20,4 @@ The full lane record (build report, verification and checker records, flags)
 stands in the workspace lane folder ~/workspace/ayah-old-church-slavonic/, unrepaired.
 
 Files:
-  2768641  7dbf378b4a53f33fffb94084cfc63a79a0d76a45469a2c49de39cd729f060f3e  ayah-companion-manuscript-OCS.md
+  2767774  fea4caf6ffc27826e4c8410eeabc2132428b7286fcd2dfb6d2b0080dfc9f35e0  ayah-companion-manuscript-OCS.md
