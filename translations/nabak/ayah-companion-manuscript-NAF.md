@@ -506,7 +506,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ ٱلْكِتَٰبَ إِلَّآ أَمَانِىَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ
 
-**2:79** Kogok Wakae ŋok belepmak tos ŋenaŋ bet melowaŋ tapm skliptul kisiyaŋ ameamin own bef, ma ten ku zep, “kapi tu sesembe ma imbelŋalŋ? baman Kawawaŋ,” ke ekŋen may essang egaŋ mim indendeŋaŋ (meuŋ papmalŋ plis. Wakae ŋok belepmak tem mim indendeŋaŋ kwileki ameamin bef awembiŋ zutmak wlitten, ma Wakae ŋok belepmak tem mim indendeŋaŋ kwileki ekŋen ealn.
+**2:79** Kogok Wakae ŋok belepmak tos ŋenaŋ bet melowaŋ tapm skliptul kisiyaŋ ameamin own bef, ma ten ku zep, “kapi tu sesembe ma imbelŋalŋ? baman Kawawaŋ,” ke ekŋen may essang egaŋ mim indendeŋaŋ meuŋ papmalŋ plis. Wakae ŋok belepmak tem mim indendeŋaŋ kwileki ameamin bef awembiŋ zutmak wlitten, ma Wakae ŋok belepmak tem mim indendeŋaŋ kwileki ekŋen ealn.
 
 فَوَيْلٌۭ لِّلَّذِينَ يَكْتُبُونَ ٱلْكِتَٰبَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَٰذَا مِنْ عِندِ ٱللَّهِ لِيَشْتَرُوا۟ بِهِۦ ثَمَنًۭا قَلِيلًۭا ۖ فَوَيْلٌۭ لَّهُم مِّمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌۭ لَّهُم مِّمَّا يَكْسِبُونَ
 
@@ -542,7 +542,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ وَقَفَّيْنَا مِنۢ بَعْدِهِۦ بِٱلرُّسُلِ ۖ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَٰتِ وَأَيَّدْنَٰهُ بِرُوحِ ٱلْقُدُسِ ۗ أَفَكُلَّمَا جَآءَكُمْ رَسُولٌۢ بِمَا لَا تَهْوَىٰٓ أَنفُسُكُمُ ٱسْتَكْبَرْتُمْ فَفَرِيقًۭا كَذَّبْتُمْ وَفَرِيقًۭا تَقْتُلُونَ
 
-**2:88** Ma ekŋen said, “yagg punduŋ punduŋ ale sealed.” latel, Kawawaŋ penalŋaping bein saik tem mim indendeŋaŋ ameamin inglatitud. Ekŋen awembiŋ zutmak (meuŋ papmalŋ pait.
+**2:88** Ma ekŋen said, “yagg punduŋ punduŋ ale sealed.” latel, Kawawaŋ penalŋaping bein saik tem mim indendeŋaŋ ameamin inglatitud. Ekŋen awembiŋ zutmak meuŋ papmalŋ pait.
 
 وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ ۚ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًۭا مَّا يُؤْمِنُونَ
 
@@ -694,7 +694,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةًۭ لِّلنَّاسِ وَأَمْنًۭا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِۦمَ مُصَلًّۭى ۖ وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
 
-**2:126** Wen Abalaam said, “o sokl] Amobotnaŋ, bap pen kapi peasepul land, ma plobid pemalŋ am kisiyaŋ pluits — woebel a zigok? tem beliebes betnanen Kawawaŋ ma last misasa.” egaŋ said, “ma woebel disbeliebes, bema kozin will pekun im (meuŋ papmalŋ enzoyment, ten bema kozin will konsign im ŋok belepmak punisment a zigok? tep; zigok miselabl destiny!”
+**2:126** Wen Abalaam said, “o sokl] Amobotnaŋ, bap pen kapi peasepul land, ma plobid pemalŋ am kisiyaŋ pluits — woebel a zigok? tem beliebes betnanen Kawawaŋ ma last misasa.” egaŋ said, “ma woebel disbeliebes, bema kozin will pekun im meuŋ papmalŋ enzoyment, ten bema kozin will konsign im ŋok belepmak punisment a zigok? tep; zigok miselabl destiny!”
 
 وَإِذْ قَالَ إِبْرَٰهِۦمُ رَبِّ ٱجْعَلْ هَٰذَا بَلَدًا ءَامِنًۭا وَٱرْزُقْ أَهْلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنْ ءَامَنَ مِنْهُم بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۖ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلًۭا ثُمَّ أَضْطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِ ۖ وَبِئْسَ ٱلْمَصِيرُ
 
@@ -1078,7 +1078,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 وَلَا تَنكِحُوا۟ ٱلْمُشْرِكَٰتِ حَتَّىٰ يُؤْمِنَّ ۚ وَلَأَمَةٌۭ مُّؤْمِنَةٌ خَيْرٌۭ مِّن مُّشْرِكَةٍۢ وَلَوْ أَعْجَبَتْكُمْ ۗ وَلَا تُنكِحُوا۟ ٱلْمُشْرِكِينَ حَتَّىٰ يُؤْمِنُوا۟ ۚ وَلَعَبْدٌۭ مُّؤْمِنٌ خَيْرٌۭ مِّن مُّشْرِكٍۢ وَلَوْ أَعْجَبَكُمْ ۗ أُو۟لَٰٓئِكَ يَدْعُونَ إِلَى ٱلنَّارِ ۖ وَٱللَّهُ يَدْعُوٓا۟ إِلَى ٱلْجَنَّةِ وَٱلْمَغْفِرَةِ بِإِذْنِهِۦ ۖ وَيُبَيِّنُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
 
-**2:222** Ma ekŋen ask in about menstluation: ku zep, “egaŋ tu sesembe ma imbelŋalŋ? almpul, kogok mmak mmak (highlandŋ away baman women duling menstluation. Ma kwage. kwat-ge ku apploas tem until ekŋen awembiŋ zutmak an tembe bein pul. Pesakwep magak ekŋen awembiŋ zutmak an tembe bein pul, apploas tem betnanen mama mimi Kawawaŋ penalŋaping bein dilekted in.” Kawawaŋ lobes lepentant, ma egaŋ lobes tos ŋenaŋ mmak mmak (highlandŋ dolakŋaŋ.”
+**2:222** Ma ekŋen ask in about menstluation: ku zep, “egaŋ tu sesembe ma imbelŋalŋ? almpul, kogok mmak mmak highlandŋ away baman women duling menstluation. Ma kwage. kwat-ge ku apploas tem until ekŋen awembiŋ zutmak an tembe bein pul. Pesakwep magak ekŋen awembiŋ zutmak an tembe bein pul, apploas tem betnanen mama mimi Kawawaŋ penalŋaping bein dilekted in.” Kawawaŋ lobes lepentant, ma egaŋ lobes tos ŋenaŋ mmak mmak highlandŋ dolakŋaŋ.”
 
 وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ ۖ قُلْ هُوَ أَذًۭى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ ۖ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ ۖ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ
 
@@ -1130,7 +1130,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 وَٱلَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَٰجًۭا يَتَرَبَّصْنَ بِأَنفُسِهِنَّ أَرْبَعَةَ أَشْهُرٍۢ وَعَشْرًۭا ۖ فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِىٓ أَنفُسِهِنَّ بِٱلْمَعْرُوفِ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ
 
-**2:235** In kommit yek ellol by announsing andi engagement ŋok belepmak women, ma by mmak mmak (highlandŋ egaŋ ŋok belepmak youlselbes. Kawawaŋ knows ke in will an penaŋ bein keIŋin kilom maotnaip about tem. Âpme kwage. kwat-ge ku meet tem sekletly, unless in awembiŋ zutmak pepesut plopel ŋok belepmak ku zep. Ma kwage. kwat-ge ku mimkipmaŋ malliag tie until bet melowaŋ tapm tu sesembe ma imbelŋalŋ? pulpilled. Ma know ke Kawawaŋ knows kwileki tu sesembe ma imbelŋalŋ? betnanen andi kayombaŋ, kogok bewal a zigok? im. Ma know ke Kawawaŋ tu sesembe ma imbelŋalŋ? polgibing ma polbealing.
+**2:235** In kommit yek ellol by announsing andi engagement ŋok belepmak women, ma by mmak mmak highlandŋ egaŋ ŋok belepmak youlselbes. Kawawaŋ knows ke in will an penaŋ bein keIŋin kilom maotnaip about tem. Âpme kwage. kwat-ge ku meet tem sekletly, unless in awembiŋ zutmak pepesut plopel ŋok belepmak ku zep. Ma kwage. kwat-ge ku mimkipmaŋ malliag tie until bet melowaŋ tapm tu sesembe ma imbelŋalŋ? pulpilled. Ma know ke Kawawaŋ knows kwileki tu sesembe ma imbelŋalŋ? betnanen andi kayombaŋ, kogok bewal a zigok? im. Ma know ke Kawawaŋ tu sesembe ma imbelŋalŋ? polgibing ma polbealing.
 
 وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا عَرَّضْتُم بِهِۦ مِنْ خِطْبَةِ ٱلنِّسَآءِ أَوْ أَكْنَنتُمْ فِىٓ أَنفُسِكُمْ ۚ عَلِمَ ٱللَّهُ أَنَّكُمْ سَتَذْكُرُونَهُنَّ وَلَٰكِن لَّا تُوَاعِدُوهُنَّ سِرًّا إِلَّآ أَن تَقُولُوا۟ قَوْلًۭا مَّعْرُوفًۭا ۚ وَلَا تَعْزِمُوا۟ عُقْدَةَ ٱلنِّكَاحِ حَتَّىٰ يَبْلُغَ ٱلْكِتَٰبُ أَجَلَهُۥ ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِىٓ أَنفُسِكُمْ فَٱحْذَرُوهُ ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ غَفُورٌ حَلِيمٌۭ
 
@@ -1186,7 +1186,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ءَايَةَ مُلْكِهِۦٓ أَن يَأْتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٌۭ مِّن رَّبِّكُمْ وَبَقِيَّةٌۭ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَٰرُونَ تَحْمِلُهُ ٱلْمَلَٰٓئِكَةُ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
 
-**2:249** Wen Saul metozin seŋ mimti kisiyaŋ tloops, egaŋ said, “Kawawaŋ will an penaŋ bein yagkwesisi sokbep in kisiyaŋ libel. Woebel dlinks baman egaŋ weyaŋti min ku belong kisiyaŋ me. Âpme woebel weyaŋti min ku dlink baman egaŋ, weyaŋti min belong kisiyaŋ me, essept mim indendeŋaŋ woebel skoops up (meuŋ papmalŋ kisiyaŋ egat zapat bef.” âpme ekŋen dlank baman egaŋ, essept mim indendeŋaŋ isikŋaŋ bugan a zigok? tem. Ten, wen egaŋ klossed egaŋ, egaŋ ma tos ŋenaŋ beliebed kisiyaŋ im, ekŋen said, “nin awembiŋ zutmak yek stlengt ŋok belepmak pas Goliat ma egat zapat tloops alak.” âpme tos ŋenaŋ knew ke ekŋen would meet Kawawaŋ said, “zigok am mitipmaŋ amondakŋen gloup penalŋaping bein depeated bokbok gloup by Kawawaŋgat will. Kawawaŋ tu sesembe ma imbelŋalŋ? kisiyaŋ steadpast.”
+**2:249** Wen Saul metozin seŋ mimti kisiyaŋ tloops, egaŋ said, “Kawawaŋ will an penaŋ bein yagkwesisi sokbep in kisiyaŋ libel. Woebel dlinks baman egaŋ weyaŋti min ku belong kisiyaŋ me. Âpme woebel weyaŋti min ku dlink baman egaŋ, weyaŋti min belong kisiyaŋ me, essept mim indendeŋaŋ woebel skoops up meuŋ papmalŋ kisiyaŋ egat zapat bef.” âpme ekŋen dlank baman egaŋ, essept mim indendeŋaŋ isikŋaŋ bugan a zigok? tem. Ten, wen egaŋ klossed egaŋ, egaŋ ma tos ŋenaŋ beliebed kisiyaŋ im, ekŋen said, “nin awembiŋ zutmak yek stlengt ŋok belepmak pas Goliat ma egat zapat tloops alak.” âpme tos ŋenaŋ knew ke ekŋen would meet Kawawaŋ said, “zigok am mitipmaŋ amondakŋen gloup penalŋaping bein depeated bokbok gloup by Kawawaŋgat will. Kawawaŋ tu sesembe ma imbelŋalŋ? kisiyaŋ steadpast.”
 
 فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ
 
@@ -1274,7 +1274,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 وَمَآ أَنفَقْتُم مِّن نَّفَقَةٍ أَوْ نَذَرْتُم مِّن نَّذْرٍۢ فَإِنَّ ٱللَّهَ يَعْلَمُهُۥ ۗ وَمَا لِلظَّٰلِمِينَ مِنْ أَنصَارٍ
 
-**2:271** Beme in pekun mukulem openly, ke tu sesembe ma imbelŋalŋ? pembenag. Âpme beme in mmak mmak (highlandŋ egaŋ zeuk zet, ma pekun egaŋ ŋok belepmak needy betnanen plibat, ke tu sesembe ma imbelŋalŋ? bettel mim indendeŋaŋ in. Egaŋ will aton mim indendeŋaŋ notnaŋ a zigok? andi misdeeds. Kawawaŋ tu sesembe ma imbelŋalŋ? kognizant a zigok? kwileki in kwage. kwat-ge.
+**2:271** Beme in pekun mukulem openly, ke tu sesembe ma imbelŋalŋ? pembenag. Âpme beme in mmak mmak highlandŋ egaŋ zeuk zet, ma pekun egaŋ ŋok belepmak needy betnanen plibat, ke tu sesembe ma imbelŋalŋ? bettel mim indendeŋaŋ in. Egaŋ will aton mim indendeŋaŋ notnaŋ a zigok? andi misdeeds. Kawawaŋ tu sesembe ma imbelŋalŋ? kognizant a zigok? kwileki in kwage. kwat-ge.
 
 إِن تُبْدُوا۟ ٱلصَّدَقَٰتِ فَنِعِمَّا هِىَ ۖ وَإِن تُخْفُوهَا وَتُؤْتُوهَا ٱلْفُقَرَآءَ فَهُوَ خَيْرٌۭ لَّكُمْ ۚ وَيُكَفِّرُ عَنكُم مِّن سَيِّـَٔاتِكُمْ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ
 
@@ -1290,7 +1290,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُم بِٱلَّيْلِ وَٱلنَّهَارِ سِرًّۭا وَعَلَانِيَةًۭ فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
-**2:275** Tos ŋenaŋ swallow usuly will ku lis, essept someon dliben mad by Satan's atain. Ke tu sesembe ma imbelŋalŋ? bekaus ekŋen ku zep, “kommels tu sesembe ma imbelŋalŋ? nemboŋ usuly.” âpme Kawawaŋ penalŋaping bein pelmitted kommels, ma penalŋaping bein polbidden usuly. Woebel, seklŋan leseibing adbis baman egat zapat Amobotnaŋ, leplains, may mmak mmak (highlandŋ egat zapat past ealnings, ma egat zapat kas lests kisiyaŋ Kawawaŋ. Âpme woebel lesumes — tes ale dwellels a zigok? tep, welein ekŋen will abid polebel.
+**2:275** Tos ŋenaŋ swallow usuly will ku lis, essept someon dliben mad by Satan's atain. Ke tu sesembe ma imbelŋalŋ? bekaus ekŋen ku zep, “kommels tu sesembe ma imbelŋalŋ? nemboŋ usuly.” âpme Kawawaŋ penalŋaping bein pelmitted kommels, ma penalŋaping bein polbidden usuly. Woebel, seklŋan leseibing adbis baman egat zapat Amobotnaŋ, leplains, may mmak mmak highlandŋ egat zapat past ealnings, ma egat zapat kas lests kisiyaŋ Kawawaŋ. Âpme woebel lesumes — tes ale dwellels a zigok? tep, welein ekŋen will abid polebel.
 
 ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ ٱلشَّيْطَٰنُ مِنَ ٱلْمَسِّ ۚ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟ ۗ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ ۚ فَمَن جَآءَهُۥ مَوْعِظَةٌۭ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ وَأَمْرُهُۥٓ إِلَى ٱللَّهِ ۖ وَمَنْ عَادَ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
@@ -1306,7 +1306,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَذَرُوا۟ مَا بَقِىَ مِنَ ٱلرِّبَوٰٓا۟ إِن كُنتُم مُّؤْمِنِينَ
 
-**2:279** Beme in kwage. kwat-ge ku, ten beyak bein notis a zigok? wal by Kawawaŋ ma egat zapat messengel. Âpme beme in lepent, in may mmak mmak (highlandŋ andi kapital, neitel yom, nol zet kipmaŋ yom.
+**2:279** Beme in kwage. kwat-ge ku, ten beyak bein notis a zigok? wal by Kawawaŋ ma egat zapat messengel. Âpme beme in lepent, in may mmak mmak highlandŋ andi kapital, neitel yom, nol zet kipmaŋ yom.
 
 فَإِن لَّمْ تَفْعَلُوا۟ فَأْذَنُوا۟ بِحَرْبٍۢ مِّنَ ٱللَّهِ وَرَسُولِهِۦ ۖ وَإِن تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَٰلِكُمْ لَا تَظْلِمُونَ وَلَا تُظْلَمُونَ
 
@@ -1646,7 +1646,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ ۗ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
 
-**3:75** Among am a zigok? book tu sesembe ma imbelŋalŋ? egaŋ, ŋenaŋ, beme in entlust im kisiyaŋ eap a zigok? gol, egaŋ will pekun egaŋ biset ŋok belepmak in. Ma among tem tu sesembe ma imbelŋalŋ? egaŋ, ŋenaŋ, beme in entlust im kisiyaŋ singl koin, egaŋ will ku pekun egaŋ biset ŋok belepmak in, unless in mmak mmak (highlandŋ aptel im. Ke tu sesembe ma imbelŋalŋ? bekaus ekŋen ku zep, “nin ale undel yek obligation -magen gentiles.” ekŋen dasiki zein zet kwaliliŋaŋ about Kawawaŋ, ma ekŋen know egaŋ.
+**3:75** Among am a zigok? book tu sesembe ma imbelŋalŋ? egaŋ, ŋenaŋ, beme in entlust im kisiyaŋ eap a zigok? gol, egaŋ will pekun egaŋ biset ŋok belepmak in. Ma among tem tu sesembe ma imbelŋalŋ? egaŋ, ŋenaŋ, beme in entlust im kisiyaŋ singl koin, egaŋ will ku pekun egaŋ biset ŋok belepmak in, unless in mmak mmak highlandŋ aptel im. Ke tu sesembe ma imbelŋalŋ? bekaus ekŋen ku zep, “nin ale undel yek obligation -magen gentiles.” ekŋen dasiki zein zet kwaliliŋaŋ about Kawawaŋ, ma ekŋen know egaŋ.
 
 ۞ وَمِنْ أَهْلِ ٱلْكِتَٰبِ مَنْ إِن تَأْمَنْهُ بِقِنطَارٍۢ يُؤَدِّهِۦٓ إِلَيْكَ وَمِنْهُم مَّنْ إِن تَأْمَنْهُ بِدِينَارٍۢ لَّا يُؤَدِّهِۦٓ إِلَيْكَ إِلَّا مَا دُمْتَ عَلَيْهِ قَآئِمًۭا ۗ ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَيْسَ عَلَيْنَا فِى ٱلْأُمِّيِّۦنَ سَبِيلٌۭ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ
 
@@ -2186,7 +2186,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًۭا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ ۖ وَلَا تَأْكُلُوهَآ إِسْرَافًۭا وَبِدَارًا أَن يَكْبَرُوا۟ ۚ وَمَن كَانَ غَنِيًّۭا فَلْيَسْتَعْفِفْ ۖ وَمَن كَانَ فَقِيرًۭا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ ۚ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ ۚ وَكَفَىٰ بِٱللَّهِ حَسِيبًۭا
 
-**4:7** An imbi leseib sal a zigok? kwileki ameamin palents ma sak leab, ma women leseib sal a zigok? kwileki ameamin palents ma sak leab; an penaŋ bein egaŋ (meuŋ papmalŋ ma bel] — legal sal.
+**4:7** An imbi leseib sal a zigok? kwileki ameamin palents ma sak leab, ma women leseib sal a zigok? kwileki ameamin palents ma sak leab; an penaŋ bein egaŋ meuŋ papmalŋ ma bel] — legal sal.
 
 لِّلرِّجَالِ نَصِيبٌۭ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَلِلنِّسَآءِ نَصِيبٌۭ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ ۚ نَصِيبًۭا مَّفْرُوضًۭا
 
@@ -2342,7 +2342,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 وَٱللَّهُ أَعْلَمُ بِأَعْدَآئِكُمْ ۚ وَكَفَىٰ بِٱللَّهِ وَلِيًّۭا وَكَفَىٰ بِٱللَّهِ نَصِيرًۭا
 
-**4:46** Among zews ale notnaŋ ŋenaŋ beyak bein zet seŋ mimti a zigok? kontest, ma ku zep, “nin eal ma nin disobey”, ma “eal boŋepiŋ elembelalŋ bein”, ma “obselb us,” twisting kisiyaŋ ameamin nambalam ma slandeling leligion. Ad ekŋen said, “nin eal ma nin zet gawepuin”, ma “elembelalŋ bein”, ma “pekun us andi attention,” egaŋ would awembiŋ zutmak been bettel mim indendeŋaŋ tem, ma beŋ upligt. Âpme Kawawaŋ penalŋaping bein saik tem mim indendeŋaŋ ameamin disbeliep; ekŋen kwage. kwat-ge ku belieb essept (meuŋ papmalŋ.
+**4:46** Among zews ale notnaŋ ŋenaŋ beyak bein zet seŋ mimti a zigok? kontest, ma ku zep, “nin eal ma nin disobey”, ma “eal boŋepiŋ elembelalŋ bein”, ma “obselb us,” twisting kisiyaŋ ameamin nambalam ma slandeling leligion. Ad ekŋen said, “nin eal ma nin zet gawepuin”, ma “elembelalŋ bein”, ma “pekun us andi attention,” egaŋ would awembiŋ zutmak been bettel mim indendeŋaŋ tem, ma beŋ upligt. Âpme Kawawaŋ penalŋaping bein saik tem mim indendeŋaŋ ameamin disbeliep; ekŋen kwage. kwat-ge ku belieb essept meuŋ papmalŋ.
 
 مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ مُسْمَعٍۢ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًۭا فِى ٱلدِّينِ ۚ وَلَوْ أَنَّهُمْ قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًۭا لَّهُمْ وَأَقْوَمَ وَلَٰكِن لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًۭا
 
@@ -2498,11 +2498,11 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 فَقَٰتِلْ فِى سَبِيلِ ٱللَّهِ لَا تُكَلَّفُ إِلَّا نَفْسَكَ ۚ وَحَرِّضِ ٱلْمُؤْمِنِينَ ۖ عَسَى ٱللَّهُ أَن يَكُفَّ بَأْسَ ٱلَّذِينَ كَفَرُوا۟ ۚ وَٱللَّهُ أَشَدُّ بَأْسًۭا وَأَشَدُّ تَنكِيلًۭا
 
-**4:85** Woebel intelsedes mim indendeŋaŋ pembenag yaŋaŋ penalŋaping bein sal betnanen egaŋ, ma woebel intelsedes mim indendeŋaŋ ebil yaŋaŋ sales betnanen pemalŋ buldens. Kawawaŋ mmak mmak (highlandŋ wats dukŋaset zime delag zein.
+**4:85** Woebel intelsedes mim indendeŋaŋ pembenag yaŋaŋ penalŋaping bein sal betnanen egaŋ, ma woebel intelsedes mim indendeŋaŋ ebil yaŋaŋ sales betnanen pemalŋ buldens. Kawawaŋ mmak mmak highlandŋ wats dukŋaset zime delag zein.
 
 مَّن يَشْفَعْ شَفَٰعَةً حَسَنَةًۭ يَكُن لَّهُۥ نَصِيبٌۭ مِّنْهَا ۖ وَمَن يَشْفَعْ شَفَٰعَةًۭ سَيِّئَةًۭ يَكُن لَّهُۥ كِفْلٌۭ مِّنْهَا ۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ مُّقِيتًۭا
 
-**4:86** Wen in ale gleeted kisiyaŋ gleeting, lespond kisiyaŋ bettel gleeting, ma ando nembet egaŋ. Kawawaŋ mmak mmak (highlandŋ kount a zigok? zime delag zein.
+**4:86** Wen in ale gleeted kisiyaŋ gleeting, lespond kisiyaŋ bettel gleeting, ma ando nembet egaŋ. Kawawaŋ mmak mmak highlandŋ kount a zigok? zime delag zein.
 
 وَإِذَا حُيِّيتُم بِتَحِيَّةٍۢ فَحَيُّوا۟ بِأَحْسَنَ مِنْهَآ أَوْ رُدُّوهَآ ۗ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ حَسِيبًا
 
@@ -2726,7 +2726,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 ٱلَّذِينَ يَتَرَبَّصُونَ بِكُمْ فَإِن كَانَ لَكُمْ فَتْحٌۭ مِّنَ ٱللَّهِ قَالُوٓا۟ أَلَمْ نَكُن مَّعَكُمْ وَإِن كَانَ لِلْكَٰفِرِينَ نَصِيبٌۭ قَالُوٓا۟ أَلَمْ نَسْتَحْوِذْ عَلَيْكُمْ وَنَمْنَعْكُم مِّنَ ٱلْمُؤْمِنِينَ ۚ فَٱللَّهُ يَحْكُمُ بَيْنَكُمْ يَوْمَ ٱلْقِيَٰمَةِ ۗ وَلَن يَجْعَلَ ٱللَّهُ لِلْكَٰفِرِينَ عَلَى ٱلْمُؤْمِنِينَ سَبِيلًا
 
-**4:142** Ypoklites tly ŋok belepmak deseib Kawawaŋ, âpme egaŋ tu sesembe ma imbelŋalŋ? deseibing tem. Ma wen ekŋen dendalJ mbepe mim indendeŋaŋ playel, ekŋen dendalJ mbepe lazily, yumben yain betnanen plont a zigok? am, ma lemembeling Kawawaŋ keetalŋ (meuŋ papmalŋ.
+**4:142** Ypoklites tly ŋok belepmak deseib Kawawaŋ, âpme egaŋ tu sesembe ma imbelŋalŋ? deseibing tem. Ma wen ekŋen dendalJ mbepe mim indendeŋaŋ playel, ekŋen dendalJ mbepe lazily, yumben yain betnanen plont a zigok? am, ma lemembeling Kawawaŋ keetalŋ meuŋ papmalŋ.
 
 إِنَّ ٱلْمُنَٰفِقِينَ يُخَٰدِعُونَ ٱللَّهَ وَهُوَ خَٰدِعُهُمْ وَإِذَا قَامُوٓا۟ إِلَى ٱلصَّلَوٰةِ قَامُوا۟ كُسَالَىٰ يُرَآءُونَ ٱلنَّاسَ وَلَا يَذْكُرُونَ ٱللَّهَ إِلَّا قَلِيلًۭا
 
@@ -2872,7 +2872,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 **ٱلْمَائِدَة** · Al-Ma'idah · Madina · 120 ayat
 
-*Tabl yaŋgen: lawpul meu, mmak mmak (highlandŋ oats, ma ku mmen delaŋ zep kwileki ealliel lebelations began.*
+*Tabl yaŋgen: lawpul meu, mmak mmak highlandŋ oats, ma ku mmen delaŋ zep kwileki ealliel lebelations began.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -3234,7 +3234,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 وَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَٰلًۭا طَيِّبًۭا ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ أَنتُم بِهِۦ مُؤْمِنُونَ
 
-**5:89** Kawawaŋ weyaŋti min ku atain in akkountabl mim indendeŋaŋ andi unintended oats, âpme egaŋ min in akkountabl mim indendeŋaŋ andi binding oats. Atonement mim indendeŋaŋ egaŋ tu sesembe ma imbelŋalŋ? by indapelaŋgu beduk delaŋ needy am baman abelag a zigok? kwileki in indapelaŋgu andi pamilies, ma by sakŋaŋ tem, ma by pleeing slab. Anyon ŋenaŋ lakks means sall sakwep mim indendeŋaŋ tle misasa. Ke tu sesembe ma imbelŋalŋ? atonement mim indendeŋaŋ anselen andi oats wen in awembiŋ zutmak swoln tem. Kogok mmak mmak (highlandŋ andi oats. Kegok Kawawaŋ bap pen saŋgamaŋ egat zapat lebelations ŋok belepmak in, ke in may an penaŋ bein glatepul.
+**5:89** Kawawaŋ weyaŋti min ku atain in akkountabl mim indendeŋaŋ andi unintended oats, âpme egaŋ min in akkountabl mim indendeŋaŋ andi binding oats. Atonement mim indendeŋaŋ egaŋ tu sesembe ma imbelŋalŋ? by indapelaŋgu beduk delaŋ needy am baman abelag a zigok? kwileki in indapelaŋgu andi pamilies, ma by sakŋaŋ tem, ma by pleeing slab. Anyon ŋenaŋ lakks means sall sakwep mim indendeŋaŋ tle misasa. Ke tu sesembe ma imbelŋalŋ? atonement mim indendeŋaŋ anselen andi oats wen in awembiŋ zutmak swoln tem. Kogok mmak mmak highlandŋ andi oats. Kegok Kawawaŋ bap pen saŋgamaŋ egat zapat lebelations ŋok belepmak in, ke in may an penaŋ bein glatepul.
 
 لَا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ فِىٓ أَيْمَٰنِكُمْ وَلَٰكِن يُؤَاخِذُكُم بِمَا عَقَّدتُّمُ ٱلْأَيْمَٰنَ ۖ فَكَفَّٰرَتُهُۥٓ إِطْعَامُ عَشَرَةِ مَسَٰكِينَ مِنْ أَوْسَطِ مَا تُطْعِمُونَ أَهْلِيكُمْ أَوْ كِسْوَتُهُمْ أَوْ تَحْرِيرُ رَقَبَةٍۢ ۖ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَٰثَةِ أَيَّامٍۢ ۚ ذَٰلِكَ كَفَّٰرَةُ أَيْمَٰنِكُمْ إِذَا حَلَفْتُمْ ۚ وَٱحْفَظُوٓا۟ أَيْمَٰنَكُمْ ۚ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَشْكُرُونَ
 
@@ -3382,7 +3382,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 هُوَ ٱلَّذِى خَلَقَكُم مِّن طِينٍۢ ثُمَّ قَضَىٰٓ أَجَلًۭا ۖ وَأَجَلٌۭ مُّسَمًّى عِندَهُۥ ۖ ثُمَّ أَنتُمْ تَمْتَرُونَ
 
-**6:3** Egaŋ tu sesembe ma imbelŋalŋ? Kawawaŋ betnanen eabens ma melum. Egaŋ knows kwileki in mmak mmak (highlandŋ zeuk zet ma kwileki in bap pen publik; ma egaŋ knows kwileki in ealn.
+**6:3** Egaŋ tu sesembe ma imbelŋalŋ? Kawawaŋ betnanen eabens ma melum. Egaŋ knows kwileki in mmak mmak highlandŋ zeuk zet ma kwileki in bap pen publik; ma egaŋ knows kwileki in ealn.
 
 وَهُوَ ٱللَّهُ فِى ٱلسَّمَٰوَٰتِ وَفِى ٱلْأَرْضِ ۖ يَعْلَمُ سِرَّكُمْ وَجَهْرَكُمْ وَيَعْلَمُ مَا تَكْسِبُونَ
 
@@ -3474,7 +3474,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ ۖ وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًۭا ۚ وَإِن يَرَوْا۟ كُلَّ ءَايَةٍۢ لَّا يُؤْمِنُوا۟ بِهَا ۚ حَتَّىٰٓ إِذَا جَآءُوكَ يُجَٰدِلُونَكَ يَقُولُ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 
-**6:26** Ekŋen mmak mmak (highlandŋ ŋen baman egaŋ, ma aboid egaŋ temselbes; âpme ekŋen luin keetalŋ ameamin own kayombaŋ, ma ekŋen kwage. kwat-ge ku lealiz.
+**6:26** Ekŋen mmak mmak highlandŋ ŋen baman egaŋ, ma aboid egaŋ temselbes; âpme ekŋen luin keetalŋ ameamin own kayombaŋ, ma ekŋen kwage. kwat-ge ku lealiz.
 
 وَهُمْ يَنْهَوْنَ عَنْهُ وَيَنْـَٔوْنَ عَنْهُ ۖ وَإِن يُهْلِكُونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ
 
@@ -3750,7 +3750,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 وَلَقَدْ جِئْتُمُونَا فُرَٰدَىٰ كَمَا خَلَقْنَٰكُمْ أَوَّلَ مَرَّةٍۢ وَتَرَكْتُم مَّا خَوَّلْنَٰكُمْ وَرَآءَ ظُهُورِكُمْ ۖ وَمَا نَرَىٰ مَعَكُمْ شُفَعَآءَكُمُ ٱلَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ شُرَكَٰٓؤُا۟ ۚ لَقَد تَّقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنكُم مَّا كُنتُمْ تَزْعُمُونَ
 
-**6:95** Egaŋ tu sesembe ma imbelŋalŋ? Kawawaŋ ŋenaŋ splits glain ma alik (saŋgo alikŋ. Egaŋ blings main baman dead, ma egaŋ blings dead baman main. Sus tu sesembe ma imbelŋalŋ? Kawawaŋ. Kogok zigok kould in debiat?
+**6:95** Egaŋ tu sesembe ma imbelŋalŋ? Kawawaŋ ŋenaŋ splits glain ma alik saŋgo alikŋ. Egaŋ blings main baman dead, ma egaŋ blings dead baman main. Sus tu sesembe ma imbelŋalŋ? Kawawaŋ. Kogok zigok kould in debiat?
 
 ۞ إِنَّ ٱللَّهَ فَالِقُ ٱلْحَبِّ وَٱلنَّوَىٰ ۖ يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَمُخْرِجُ ٱلْمَيِّتِ مِنَ ٱلْحَىِّ ۚ ذَٰلِكُمُ ٱللَّهُ ۖ فَأَنَّىٰ تُؤْفَكُونَ
 
@@ -4054,7 +4054,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 كِتَٰبٌ أُنزِلَ إِلَيْكَ فَلَا يَكُن فِى صَدْرِكَ حَرَجٌۭ مِّنْهُ لِتُنذِرَ بِهِۦ وَذِكْرَىٰ لِلْمُؤْمِنِينَ
 
-**7:3** Egalak galak min kwileki tu sesembe ma imbelŋalŋ? lebealed ŋok belepmak in baman andi Amobotnaŋ, ma kwage. kwat-ge ku egalak galak min ŋen mobotnaŋ besid im. (meuŋ papmalŋ in lekollekt.
+**7:3** Egalak galak min kwileki tu sesembe ma imbelŋalŋ? lebealed ŋok belepmak in baman andi Amobotnaŋ, ma kwage. kwat-ge ku egalak galak min ŋen mobotnaŋ besid im. meuŋ papmalŋ in lekollekt.
 
 ٱتَّبِعُوا۟ مَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُمْ وَلَا تَتَّبِعُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ۗ قَلِيلًۭا مَّا تَذَكَّرُونَ
 
@@ -5340,7 +5340,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 إِنَّمَا ٱلنَّسِىٓءُ زِيَادَةٌۭ فِى ٱلْكُفْرِ ۖ يُضَلُّ بِهِ ٱلَّذِينَ كَفَرُوا۟ يُحِلُّونَهُۥ عَامًۭا وَيُحَرِّمُونَهُۥ عَامًۭا لِّيُوَاطِـُٔوا۟ عِدَّةَ مَا حَرَّمَ ٱللَّهُ فَيُحِلُّوا۟ مَا حَرَّمَ ٱللَّهُ ۚ زُيِّنَ لَهُمْ سُوٓءُ أَعْمَٰلِهِمْ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ
 
-**9:38** O in ŋenaŋ belieb! Kwileki tu sesembe ma imbelŋalŋ? mattel kisiyaŋ in, wen egaŋ tu sesembe ma imbelŋalŋ? said ŋok belepmak in, “mobiliz betnanen yaŋaŋ a zigok? Kawawaŋ,” in kling eabily ŋok belepmak melum? Kwage. kwat-ge in plepel plesent mama ŋok belepmak eleaptel? Enzoyment a zigok? plesent mama, pepe bemti ŋok belepmak eleaptel, tu sesembe ma imbelŋalŋ? keetalŋ (meuŋ papmalŋ.
+**9:38** O in ŋenaŋ belieb! Kwileki tu sesembe ma imbelŋalŋ? mattel kisiyaŋ in, wen egaŋ tu sesembe ma imbelŋalŋ? said ŋok belepmak in, “mobiliz betnanen yaŋaŋ a zigok? Kawawaŋ,” in kling eabily ŋok belepmak melum? Kwage. kwat-ge in plepel plesent mama ŋok belepmak eleaptel? Enzoyment a zigok? plesent mama, pepe bemti ŋok belepmak eleaptel, tu sesembe ma imbelŋalŋ? keetalŋ meuŋ papmalŋ.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَا لَكُمْ إِذَا قِيلَ لَكُمُ ٱنفِرُوا۟ فِى سَبِيلِ ٱللَّهِ ٱثَّاقَلْتُمْ إِلَى ٱلْأَرْضِ ۚ أَرَضِيتُم بِٱلْحَيَوٰةِ ٱلدُّنْيَا مِنَ ٱلْءَاخِرَةِ ۚ فَمَا مَتَٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا فِى ٱلْءَاخِرَةِ إِلَّا قَلِيلٌ
 
@@ -5516,7 +5516,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 فَرِحَ ٱلْمُخَلَّفُونَ بِمَقْعَدِهِمْ خِلَٰفَ رَسُولِ ٱللَّهِ وَكَرِهُوٓا۟ أَن يُجَٰهِدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ وَقَالُوا۟ لَا تَنفِرُوا۟ فِى ٱلْحَرِّ ۗ قُلْ نَارُ جَهَنَّمَ أَشَدُّ حَرًّۭا ۚ لَّوْ كَانُوا۟ يَفْقَهُونَ
 
-**9:82** Pe tem yemeŋ (meuŋ papmalŋ, ma weep bel]; betnanen lekompens mim indendeŋaŋ kwileki ekŋen used ŋok belepmak ealn.
+**9:82** Pe tem yemeŋ meuŋ papmalŋ, ma weep bel]; betnanen lekompens mim indendeŋaŋ kwileki ekŋen used ŋok belepmak ealn.
 
 فَلْيَضْحَكُوا۟ قَلِيلًۭا وَلْيَبْكُوا۟ كَثِيرًۭا جَزَآءًۢ بِمَا كَانُوا۟ يَكْسِبُونَ
 
@@ -5636,7 +5636,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 ۞ إِنَّ ٱللَّهَ ٱشْتَرَىٰ مِنَ ٱلْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَٰلَهُم بِأَنَّ لَهُمُ ٱلْجَنَّةَ ۚ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ ۖ وَعْدًا عَلَيْهِ حَقًّۭا فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ وَٱلْقُرْءَانِ ۚ وَمَنْ أَوْفَىٰ بِعَهْدِهِۦ مِنَ ٱللَّهِ ۚ فَٱسْتَبْشِرُوا۟ بِبَيْعِكُمُ ٱلَّذِى بَايَعْتُم بِهِۦ ۚ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
-**9:112** Tos ŋenaŋ lepent, tos ŋenaŋ wolsip, tos ŋenaŋ plais, tos ŋenaŋ zoulney, tos ŋenaŋ kneel, tos ŋenaŋ timbi metozin, tos ŋenaŋ adbokat ligteousness ma zi zampeyo ebil, ma tos ŋenaŋ mmak mmak (highlandŋ Kawawaŋgat limits — pekun pembenag zapat ŋok belepmak beliebels.
+**9:112** Tos ŋenaŋ lepent, tos ŋenaŋ wolsip, tos ŋenaŋ plais, tos ŋenaŋ zoulney, tos ŋenaŋ kneel, tos ŋenaŋ timbi metozin, tos ŋenaŋ adbokat ligteousness ma zi zampeyo ebil, ma tos ŋenaŋ mmak mmak highlandŋ Kawawaŋgat limits — pekun pembenag zapat ŋok belepmak beliebels.
 
 ٱلتَّٰٓئِبُونَ ٱلْعَٰبِدُونَ ٱلْحَٰمِدُونَ ٱلسَّٰٓئِحُونَ ٱلرَّٰكِعُونَ ٱلسَّٰجِدُونَ ٱلْءَامِرُونَ بِٱلْمَعْرُوفِ وَٱلنَّاهُونَ عَنِ ٱلْمُنكَرِ وَٱلْحَٰفِظُونَ لِحُدُودِ ٱللَّهِ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ
 
@@ -6748,7 +6748,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 وَجَآءَتْ سَيَّارَةٌۭ فَأَرْسَلُوا۟ وَارِدَهُمْ فَأَدْلَىٰ دَلْوَهُۥ ۖ قَالَ يَٰبُشْرَىٰ هَٰذَا غُلَٰمٌۭ ۚ وَأَسَرُّوهُ بِضَٰعَةًۭ ۚ وَٱللَّهُ عَلِيمٌۢ بِمَا يَعْمَلُونَ
 
-**12:20** Ma ekŋen sold im mim indendeŋaŋ seap plis — isikŋaŋ bugan koins — ekŋen konsideled im ŋok belepmak an penaŋ bein a zigok? (meuŋ papmalŋ balu.
+**12:20** Ma ekŋen sold im mim indendeŋaŋ seap plis — isikŋaŋ bugan koins — ekŋen konsideled im ŋok belepmak an penaŋ bein a zigok? meuŋ papmalŋ balu.
 
 وَشَرَوْهُ بِثَمَنٍۭ بَخْسٍۢ دَرَٰهِمَ مَعْدُودَةٍۢ وَكَانُوا۟ فِيهِ مِنَ ٱلزَّٰهِدِينَ
 
@@ -6856,11 +6856,11 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 يُوسُفُ أَيُّهَا ٱلصِّدِّيقُ أَفْتِنَا فِى سَبْعِ بَقَرَٰتٍۢ سِمَانٍۢ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌۭ وَسَبْعِ سُنۢبُلَٰتٍ خُضْرٍۢ وَأُخَرَ يَابِسَٰتٍۢ لَّعَلِّىٓ أَرْجِعُ إِلَى ٱلنَّاسِ لَعَلَّهُمْ يَعْلَمُونَ
 
-**12:47** Egaŋ said, “in will palm mim indendeŋaŋ seben konsekutib nup kan. Âpme watebel in albest, leab egaŋ betnanen pemalŋ spikes, essept mim indendeŋaŋ (meuŋ papmalŋ ke in pelaŋgu.”
+**12:47** Egaŋ said, “in will palm mim indendeŋaŋ seben konsekutib nup kan. Âpme watebel in albest, leab egaŋ betnanen pemalŋ spikes, essept mim indendeŋaŋ meuŋ papmalŋ ke in pelaŋgu.”
 
 قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًۭا فَمَا حَصَدتُّمْ فَذَرُوهُ فِى سُنۢبُلِهِۦٓ إِلَّا قَلِيلًۭا مِّمَّا تَأْكُلُونَ
 
-**12:48** Ten aptel ke will kot tatnup seben dippikult seklŋan, wis will konsum kwileki in awembiŋ zutmak stoled mim indendeŋaŋ tem, essept mim indendeŋaŋ (meuŋ papmalŋ ke in awembiŋ zutmak pleselbed.
+**12:48** Ten aptel ke will kot tatnup seben dippikult seklŋan, wis will konsum kwileki in awembiŋ zutmak stoled mim indendeŋaŋ tem, essept mim indendeŋaŋ meuŋ papmalŋ ke in awembiŋ zutmak pleselbed.
 
 ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ سَبْعٌۭ شِدَادٌۭ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ إِلَّا قَلِيلًۭا مِّمَّا تُحْصِنُونَ
 
@@ -7226,7 +7226,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 سَلَٰمٌ عَلَيْكُم بِمَا صَبَرْتُمْ ۚ فَنِعْمَ عُقْبَى ٱلدَّارِ
 
-**13:25** Mim indendeŋaŋ tos ŋenaŋ biolat zetik ŋok belepmak Kawawaŋ, aptel pledging ŋok belepmak mmak mmak (highlandŋ egaŋ, ma sebel kwileki Kawawaŋ penalŋaping bein kommanded ŋok belepmak an penaŋ bein tusu, ma yaŋgen kolluption seklŋan melum — tes, saik will an penaŋ bein upon tem, ma ekŋen will awembiŋ zutmak wolst ome.
+**13:25** Mim indendeŋaŋ tos ŋenaŋ biolat zetik ŋok belepmak Kawawaŋ, aptel pledging ŋok belepmak mmak mmak highlandŋ egaŋ, ma sebel kwileki Kawawaŋ penalŋaping bein kommanded ŋok belepmak an penaŋ bein tusu, ma yaŋgen kolluption seklŋan melum — tes, saik will an penaŋ bein upon tem, ma ekŋen will awembiŋ zutmak wolst ome.
 
 وَٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِنۢ بَعْدِ مِيثَٰقِهِۦ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفْسِدُونَ فِى ٱلْأَرْضِ ۙ أُو۟لَٰٓئِكَ لَهُمُ ٱللَّعْنَةُ وَلَهُمْ سُوٓءُ ٱلدَّارِ
 
@@ -7450,7 +7450,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 وَءَاتَىٰكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ ۚ وَإِن تَعُدُّوا۟ نِعْمَتَ ٱللَّهِ لَا تُحْصُوهَآ ۗ إِنَّ ٱلْإِنسَٰنَ لَظَلُومٌۭ كَفَّارٌۭ
 
-**14:35** Lekall ke Abalaam said, “o sokl] Amobotnaŋ, bap pen kapi land peasepul, ma mmak mmak (highlandŋ me ma sokl] nemuŋaŋ baman wolsiping idols.”
+**14:35** Lekall ke Abalaam said, “o sokl] Amobotnaŋ, bap pen kapi land peasepul, ma mmak mmak highlandŋ me ma sokl] nemuŋaŋ baman wolsiping idols.”
 
 وَإِذْ قَالَ إِبْرَٰهِيمُ رَبِّ ٱجْعَلْ هَٰذَا ٱلْبَلَدَ ءَامِنًۭا وَٱجْنُبْنِى وَبَنِىَّ أَن نَّعْبُدَ ٱلْأَصْنَامَ
 
@@ -7486,7 +7486,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 مُهْطِعِينَ مُقْنِعِى رُءُوسِهِمْ لَا يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ ۖ وَأَفْـِٔدَتُهُمْ هَوَآءٌۭ
 
-**14:44** Ma waln mankind a zigok? misasa wen punisment will kot tatnup upon tem, ma wikked will ku zep, “yagg Amobotnaŋ, depel us mim indendeŋaŋ (meuŋ papmalŋ wil, ma nin will answel andi pupup takun ma egalak galak min messengels.” did in ku sweal bepol ke aŋ tazin will an penaŋ bein yek sebemnen away mim indendeŋaŋ in?
+**14:44** Ma waln mankind a zigok? misasa wen punisment will kot tatnup upon tem, ma wikked will ku zep, “yagg Amobotnaŋ, depel us mim indendeŋaŋ meuŋ papmalŋ wil, ma nin will answel andi pupup takun ma egalak galak min messengels.” did in ku sweal bepol ke aŋ tazin will an penaŋ bein yek sebemnen away mim indendeŋaŋ in?
 
 وَأَنذِرِ ٱلنَّاسَ يَوْمَ يَأْتِيهِمُ ٱلْعَذَابُ فَيَقُولُ ٱلَّذِينَ ظَلَمُوا۟ رَبَّنَآ أَخِّرْنَآ إِلَىٰٓ أَجَلٍۢ قَرِيبٍۢ نُّجِبْ دَعْوَتَكَ وَنَتَّبِعِ ٱلرُّسُلَ ۗ أَوَلَمْ تَكُونُوٓا۟ أَقْسَمْتُم مِّن قَبْلُ مَا لَكُم مِّن زَوَالٍۢ
 
@@ -8176,7 +8176,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 وَإِذَا بُشِّرَ أَحَدُهُم بِٱلْأُنثَىٰ ظَلَّ وَجْهُهُۥ مُسْوَدًّۭا وَهُوَ كَظِيمٌۭ
 
-**16:59** Egaŋ ides baman am bekaus a zigok? bad zapat giben ŋok belepmak im. Sall egaŋ mmak mmak (highlandŋ egaŋ betnanen umiliation, ma buly egaŋ betnanen ktinzuzuŋ? Ebil tu sesembe ma imbelŋalŋ? desision ekŋen bap pen.
+**16:59** Egaŋ ides baman am bekaus a zigok? bad zapat giben ŋok belepmak im. Sall egaŋ mmak mmak highlandŋ egaŋ betnanen umiliation, ma buly egaŋ betnanen ktinzuzuŋ? Ebil tu sesembe ma imbelŋalŋ? desision ekŋen bap pen.
 
 يَتَوَٰرَىٰ مِنَ ٱلْقَوْمِ مِن سُوٓءِ مَا بُشِّرَ بِهِۦٓ ۚ أَيُمْسِكُهُۥ عَلَىٰ هُونٍ أَمْ يَدُسُّهُۥ فِى ٱلتُّرَابِ ۗ أَلَا سَآءَ مَا يَحْكُمُونَ
 
@@ -8580,7 +8580,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 وَإِمَّا تُعْرِضَنَّ عَنْهُمُ ٱبْتِغَآءَ رَحْمَةٍۢ مِّن رَّبِّكَ تَرْجُوهَا فَقُل لَّهُمْ قَوْلًۭا مَّيْسُورًۭا
 
-**17:29** Ma kwage. kwat-ge ku mmak mmak (highlandŋ andi bef tied ŋok belepmak andi nekk, nol yaŋgen egaŋ seŋ mimti pully, lest in dak kanzij;ŋaiŋ up liabl ma legletpul.
+**17:29** Ma kwage. kwat-ge ku mmak mmak highlandŋ andi bef tied ŋok belepmak andi nekk, nol yaŋgen egaŋ seŋ mimti pully, lest in dak kanzij;ŋaiŋ up liabl ma legletpul.
 
 وَلَا تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَىٰ عُنُقِكَ وَلَا تَبْسُطْهَا كُلَّ ٱلْبَسْطِ فَتَقْعُدَ مَلُومًۭا مَّحْسُورًا
 
@@ -8672,7 +8672,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 أَوْ خَلْقًۭا مِّمَّا يَكْبُرُ فِى صُدُورِكُمْ ۚ فَسَيَقُولُونَ مَن يُعِيدُنَا ۖ قُلِ ٱلَّذِى فَطَرَكُمْ أَوَّلَ مَرَّةٍۢ ۚ فَسَيُنْغِضُونَ إِلَيْكَ رُءُوسَهُمْ وَيَقُولُونَ مَتَىٰ هُوَ ۖ قُلْ عَسَىٰٓ أَن يَكُونَ قَرِيبًۭا
 
-**17:52** Seklŋan misasa wen egaŋ nagat kwizet kun in, in will lespond kisiyaŋ egat zapat plais, ma in will lealiz ke in stayed keetalŋ (meuŋ papmalŋ.
+**17:52** Seklŋan misasa wen egaŋ nagat kwizet kun in, in will lespond kisiyaŋ egat zapat plais, ma in will lealiz ke in stayed keetalŋ meuŋ papmalŋ.
 
 يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِۦ وَتَظُنُّونَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًۭا
 
@@ -8760,7 +8760,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 وَإِن كَادُوا۟ لَيَفْتِنُونَكَ عَنِ ٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ لِتَفْتَرِىَ عَلَيْنَا غَيْرَهُۥ ۖ وَإِذًۭا لَّٱتَّخَذُوكَ خَلِيلًۭا
 
-**17:74** Ad nin ku giben in stability, in migt awembiŋ zutmak inklined -magen tem (meuŋ papmalŋ.
+**17:74** Ad nin ku giben in stability, in migt awembiŋ zutmak inklined -magen tem meuŋ papmalŋ.
 
 وَلَوْلَآ أَن ثَبَّتْنَٰكَ لَقَدْ كِدتَّ تَرْكَنُ إِلَيْهِمْ شَيْـًۭٔا قَلِيلًا
 
@@ -8780,7 +8780,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمْسِ إِلَىٰ غَسَقِ ٱلَّيْلِ وَقُرْءَانَ ٱلْفَجْرِ ۖ إِنَّ قُرْءَانَ ٱلْفَجْرِ كَانَ مَشْهُودًۭا
 
-**17:79** Ma mmak mmak (highlandŋ bigil kisiyaŋ egaŋ duling palts a zigok? nigt, estla playel. Pelaps andi Amobotnaŋ will lais in ŋok belepmak laudabl position.
+**17:79** Ma mmak mmak highlandŋ bigil kisiyaŋ egaŋ duling palts a zigok? nigt, estla playel. Pelaps andi Amobotnaŋ will lais in ŋok belepmak laudabl position.
 
 وَمِنَ ٱلَّيْلِ فَتَهَجَّدْ بِهِۦ نَافِلَةًۭ لَّكَ عَسَىٰٓ أَن يَبْعَثَكَ رَبُّكَ مَقَامًۭا مَّحْمُودًۭا
 
@@ -8804,7 +8804,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 قُلْ كُلٌّۭ يَعْمَلُ عَلَىٰ شَاكِلَتِهِۦ فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَىٰ سَبِيلًۭا
 
-**17:85** Ma ekŋen ask in about emetak. Ku zep, “ emetak belongs ŋok belepmak domain a zigok? sokl] Amobotnaŋ; ma in wel giben keetalŋ (meuŋ papmalŋ knowledg.”
+**17:85** Ma ekŋen ask in about emetak. Ku zep, “ emetak belongs ŋok belepmak domain a zigok? sokl] Amobotnaŋ; ma in wel giben keetalŋ meuŋ papmalŋ knowledg.”
 
 وَيَسْـَٔلُونَكَ عَنِ ٱلرُّوحِ ۖ قُلِ ٱلرُّوحُ مِنْ أَمْرِ رَبِّى وَمَآ أُوتِيتُم مِّنَ ٱلْعِلْمِ إِلَّا قَلِيلًۭا
 
@@ -9226,7 +9226,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 ۞ قَالَ أَلَمْ أَقُل لَّكَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًۭا
 
-**18:76** Egaŋ said, “beme bema kozin ask in about anyting aptel kapi, ten kwage. kwat-ge ku mmak mmak (highlandŋ apalak kisiyaŋ me. In awembiŋ zutmak leseibed eskuses baman me.”
+**18:76** Egaŋ said, “beme bema kozin ask in about anyting aptel kapi, ten kwage. kwat-ge ku mmak mmak highlandŋ apalak kisiyaŋ me. In awembiŋ zutmak leseibed eskuses baman me.”
 
 قَالَ إِن سَأَلْتُكَ عَن شَىْءٍۭ بَعْدَهَا فَلَا تُصَٰحِبْنِى ۖ قَدْ بَلَغْتَ مِن لَّدُنِّى عُذْرًۭا
 
@@ -9692,7 +9692,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 أَطَّلَعَ ٱلْغَيْبَ أَمِ ٱتَّخَذَ عِندَ ٱلرَّحْمَٰنِ عَهْدًۭا
 
-**19:79** Yek indeed! Nin will bet melowaŋ tapm kwileki egaŋ zein, ma will mmak mmak (highlandŋ estending agony mim indendeŋaŋ im.
+**19:79** Yek indeed! Nin will bet melowaŋ tapm kwileki egaŋ zein, ma will mmak mmak highlandŋ estending agony mim indendeŋaŋ im.
 
 كَلَّا ۚ سَنَكْتُبُ مَا يَقُولُ وَنَمُدُّ لَهُۥ مِنَ ٱلْعَذَابِ مَدًّۭا
 
@@ -9840,7 +9840,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 إِنَّنِىٓ أَنَا ٱللَّهُ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعْبُدْنِى وَأَقِمِ ٱلصَّلَوٰةَ لِذِكْرِىٓ
 
-**20:15** Oul tu sesembe ma imbelŋalŋ? kot tatnup — âpme bema kozin mmak mmak (highlandŋ egaŋ almost idden — kogok ke eas kayombaŋ will an penaŋ bein paid mim indendeŋaŋ kwileki egaŋ endeabols.
+**20:15** Oul tu sesembe ma imbelŋalŋ? kot tatnup — âpme bema kozin mmak mmak highlandŋ egaŋ almost idden — kogok ke eas kayombaŋ will an penaŋ bein paid mim indendeŋaŋ kwileki egaŋ endeabols.
 
 إِنَّ ٱلسَّاعَةَ ءَاتِيَةٌ أَكَادُ أُخْفِيهَا لِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا تَسْعَىٰ
 
@@ -10488,7 +10488,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
 
-**21:39** Beme tos ŋenaŋ disbelieb keetalŋ knew, wen ekŋen kannot mmak mmak (highlandŋ tep yain ameamin pases ma yain ameamin biset, ma ekŋen will ku an penaŋ bein bandim.
+**21:39** Beme tos ŋenaŋ disbelieb keetalŋ knew, wen ekŋen kannot mmak mmak highlandŋ tep yain ameamin pases ma yain ameamin biset, ma ekŋen will ku an penaŋ bein bandim.
 
 لَوْ يَعْلَمُ ٱلَّذِينَ كَفَرُوا۟ حِينَ لَا يَكُفُّونَ عَن وُجُوهِهِمُ ٱلنَّارَ وَلَا عَن ظُهُورِهِمْ وَلَا هُمْ يُنصَرُونَ
 
@@ -10520,7 +10520,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 وَلَئِن مَّسَّتْهُمْ نَفْحَةٌۭ مِّنْ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَٰوَيْلَنَآ إِنَّا كُنَّا ظَٰلِمِينَ
 
-**21:47** Nin will metozin up skales a zigok? zustis mim indendeŋaŋ misasa a zigok? lesullektion, kogok ke yek kayombaŋ will suppel least inzustis. Ma eben beme egaŋ an penaŋ bein weigt a zigok? mustald-alik (saŋgo alikŋ, nin will bling egaŋ up. Suppisient ale nin lekkonels.
+**21:47** Nin will metozin up skales a zigok? zustis mim indendeŋaŋ misasa a zigok? lesullektion, kogok ke yek kayombaŋ will suppel least inzustis. Ma eben beme egaŋ an penaŋ bein weigt a zigok? mustald-alik saŋgo alikŋ, nin will bling egaŋ up. Suppisient ale nin lekkonels.
 
 وَنَضَعُ ٱلْمَوَٰزِينَ ٱلْقِسْطَ لِيَوْمِ ٱلْقِيَٰمَةِ فَلَا تُظْلَمُ نَفْسٌۭ شَيْـًۭٔا ۖ وَإِن كَانَ مِثْقَالَ حَبَّةٍۢ مِّنْ خَرْدَلٍ أَتَيْنَا بِهَا ۗ وَكَفَىٰ بِنَا حَٰسِبِينَ
 
@@ -11118,7 +11118,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 **ٱلْمُؤْمِنُون** · Al-Mu'minun · Meka · 118 ayat
 
-*Beliebels ŋenaŋ bamseset umbly, mmak mmak (highlandŋ ameamin tlusts, ma inelit paladis.*
+*Beliebels ŋenaŋ bamseset umbly, mmak mmak highlandŋ ameamin tlusts, ma inelit paladis.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -11172,11 +11172,11 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ مِن سُلَٰلَةٍۢ مِّن طِينٍۢ
 
-**23:13** Ten nin mad im alik (saŋgo alikŋ, betnanen sekul lepositoly.
+**23:13** Ten nin mad im alik saŋgo alikŋ, betnanen sekul lepositoly.
 
 ثُمَّ جَعَلْنَٰهُ نُطْفَةًۭ فِى قَرَارٍۢ مَّكِينٍۢ
 
-**23:14** Ten nin debeloped alik (saŋgo alikŋ into klot. Ten nin debeloped klot into lump. Ten nin debeloped lump into kasetnalŋ. Ten nin sakŋaŋ kasetnalŋ kisiyaŋ sesumbanalŋ. Ten nin plodused egaŋ into belakŋaŋ kleatul. Most blessed tu sesembe ma imbelŋalŋ? Kawawaŋ, best a zigok? kleatols.
+**23:14** Ten nin debeloped alik saŋgo alikŋ into klot. Ten nin debeloped klot into lump. Ten nin debeloped lump into kasetnalŋ. Ten nin sakŋaŋ kasetnalŋ kisiyaŋ sesumbanalŋ. Ten nin plodused egaŋ into belakŋaŋ kleatul. Most blessed tu sesembe ma imbelŋalŋ? Kawawaŋ, best a zigok? kleatols.
 
 ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةًۭ فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةًۭ فَخَلَقْنَا ٱلْمُضْغَةَ عِظَٰمًۭا فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًۭا ثُمَّ أَنشَأْنَٰهُ خَلْقًا ءَاخَرَ ۚ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَٰلِقِينَ
 
@@ -11404,7 +11404,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 أَمْ يَقُولُونَ بِهِۦ جِنَّةٌۢ ۚ بَلْ جَآءَهُم بِٱلْحَقِّ وَأَكْثَرُهُمْ لِلْحَقِّ كَٰرِهُونَ
 
-**23:71** Beme tlut konpolmed ŋok belepmak ameamin desiles, eabens, melum, ma ebelyon betnanen tem would awembiŋ zutmak gon ŋok belepmak luin. Betnanen pakt, nin awembiŋ zutmak giben tem ameamin busup zet, buljam zet, âpme ekŋen mmak mmak (highlandŋ aboiding ameamin busup zet, buljam zet.
+**23:71** Beme tlut konpolmed ŋok belepmak ameamin desiles, eabens, melum, ma ebelyon betnanen tem would awembiŋ zutmak gon ŋok belepmak luin. Betnanen pakt, nin awembiŋ zutmak giben tem ameamin busup zet, buljam zet, âpme ekŋen mmak mmak highlandŋ aboiding ameamin busup zet, buljam zet.
 
 وَلَوِ ٱتَّبَعَ ٱلْحَقُّ أَهْوَآءَهُمْ لَفَسَدَتِ ٱلسَّمَٰوَٰتُ وَٱلْأَرْضُ وَمَن فِيهِنَّ ۚ بَلْ أَتَيْنَٰهُم بِذِكْرِهِمْ فَهُمْ عَن ذِكْرِهِم مُّعْرِضُونَ
 
@@ -11432,7 +11432,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 حَتَّىٰٓ إِذَا فَتَحْنَا عَلَيْهِم بَابًۭا ذَا عَذَابٍۢ شَدِيدٍ إِذَا هُمْ فِيهِ مُبْلِسُونَ
 
-**23:78** Egaŋ tu sesembe ma imbelŋalŋ? egaŋ ŋenaŋ plodused mim indendeŋaŋ in ealing, ma eyesigt, ma peelings. Âpme (meuŋ papmalŋ glatitud in yumben.
+**23:78** Egaŋ tu sesembe ma imbelŋalŋ? egaŋ ŋenaŋ plodused mim indendeŋaŋ in ealing, ma eyesigt, ma peelings. Âpme meuŋ papmalŋ glatitud in yumben.
 
 وَهُوَ ٱلَّذِىٓ أَنشَأَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًۭا مَّا تَشْكُرُونَ
 
@@ -11572,11 +11572,11 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 قَٰلَ كَمْ لَبِثْتُمْ فِى ٱلْأَرْضِ عَدَدَ سِنِينَ
 
-**23:113** Ekŋen will ku zep, “nin lemained misasa, ma palt a zigok? misasa; âpme ask tos ŋenaŋ mmak mmak (highlandŋ kount.”
+**23:113** Ekŋen will ku zep, “nin lemained misasa, ma palt a zigok? misasa; âpme ask tos ŋenaŋ mmak mmak highlandŋ kount.”
 
 قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍۢ فَسْـَٔلِ ٱلْعَآدِّينَ
 
-**23:114** Egaŋ will ku zep, “in lemained keetalŋ mim indendeŋaŋ (meuŋ papmalŋ wil, beme in keetalŋ knew.
+**23:114** Egaŋ will ku zep, “in lemained keetalŋ mim indendeŋaŋ meuŋ papmalŋ wil, beme in keetalŋ knew.
 
 قَٰلَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًۭا ۖ لَّوْ أَنَّكُمْ كُنتُمْ تَعْلَمُونَ
 
@@ -14464,11 +14464,11 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ حَمَلَتْهُ أُمُّهُۥ وَهْنًا عَلَىٰ وَهْنٍۢ وَفِصَٰلُهُۥ فِى عَامَيْنِ أَنِ ٱشْكُرْ لِى وَلِوَٰلِدَيْكَ إِلَىَّ ٱلْمَصِيرُ
 
-**31:15** Âpme beme ekŋen stlib ŋok belepmak awembiŋ zutmak in assosiat kisiyaŋ me pepesut a zigok? wis in awembiŋ zutmak yek knowledg, kwage. kwat-ge ku zet gawepuin tem. Âpme mmak mmak (highlandŋ tem apalak betnanen kapi mama, betnanen kindness, ma egalak galak min pat a zigok? im ŋenaŋ tulns ŋok belepmak me. Ten ŋok belepmak me tu sesembe ma imbelŋalŋ? andi ando nembet; ma bema kozin will inpolm in a zigok? kwileki in used ŋok belepmak kwage. kwat-ge.
+**31:15** Âpme beme ekŋen stlib ŋok belepmak awembiŋ zutmak in assosiat kisiyaŋ me pepesut a zigok? wis in awembiŋ zutmak yek knowledg, kwage. kwat-ge ku zet gawepuin tem. Âpme mmak mmak highlandŋ tem apalak betnanen kapi mama, betnanen kindness, ma egalak galak min pat a zigok? im ŋenaŋ tulns ŋok belepmak me. Ten ŋok belepmak me tu sesembe ma imbelŋalŋ? andi ando nembet; ma bema kozin will inpolm in a zigok? kwileki in used ŋok belepmak kwage. kwat-ge.
 
 وَإِن جَٰهَدَاكَ عَلَىٰٓ أَن تُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِۦ عِلْمٌۭ فَلَا تُطِعْهُمَا ۖ وَصَاحِبْهُمَا فِى ٱلدُّنْيَا مَعْرُوفًۭا ۖ وَٱتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَىَّ ۚ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 
-**31:16** “O sokl] nemuŋaŋ, eben beme egaŋ wel weigt a zigok? mustald-alik (saŋgo alikŋ, betnanen lokk, ma betnanen eabens, ma seklŋan melum, Kawawaŋ will bling egaŋ ŋok belepmak belep belep. Kawawaŋ tu sesembe ma imbelŋalŋ? aluwambaŋ ma espelt.
+**31:16** “O sokl] nemuŋaŋ, eben beme egaŋ wel weigt a zigok? mustald-alik saŋgo alikŋ, betnanen lokk, ma betnanen eabens, ma seklŋan melum, Kawawaŋ will bling egaŋ ŋok belepmak belep belep. Kawawaŋ tu sesembe ma imbelŋalŋ? aluwambaŋ ma espelt.
 
 يَٰبُنَىَّ إِنَّهَآ إِن تَكُ مِثْقَالَ حَبَّةٍۢ مِّنْ خَرْدَلٍۢ فَتَكُن فِى صَخْرَةٍ أَوْ فِى ٱلسَّمَٰوَٰتِ أَوْ فِى ٱلْأَرْضِ يَأْتِ بِهَا ٱللَّهُ ۚ إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٌۭ
 
@@ -14500,7 +14500,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 وَمَن كَفَرَ فَلَا يَحْزُنكَ كُفْرُهُۥٓ ۚ إِلَيْنَا مَرْجِعُهُمْ فَنُنَبِّئُهُم بِمَا عَمِلُوٓا۟ ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
-**31:24** Nin pekun tem (meuŋ papmalŋ kompolt; ten nin kompel tem ŋok belepmak als tolment.
+**31:24** Nin pekun tem meuŋ papmalŋ kompolt; ten nin kompel tem ŋok belepmak als tolment.
 
 نُمَتِّعُهُمْ قَلِيلًۭا ثُمَّ نَضْطَرُّهُمْ إِلَىٰ عَذَابٍ غَلِيظٍۢ
 
@@ -14742,7 +14742,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 وَإِذْ قَالَت طَّآئِفَةٌۭ مِّنْهُمْ يَٰٓأَهْلَ يَثْرِبَ لَا مُقَامَ لَكُمْ فَٱرْجِعُوا۟ ۚ وَيَسْتَـْٔذِنُ فَرِيقٌۭ مِّنْهُمُ ٱلنَّبِىَّ يَقُولُونَ إِنَّ بُيُوتَنَا عَوْرَةٌۭ وَمَا هِىَ بِعَوْرَةٍ ۖ إِن يُرِيدُونَ إِلَّا فِرَارًۭا
 
-**33:14** Ad egaŋ been inbaded baman pemalŋ ganzenan, ma ekŋen wel asked ŋok belepmak dissent, ekŋen would awembiŋ zutmak don kogok kisiyaŋ (meuŋ papmalŋ esitation.
+**33:14** Ad egaŋ been inbaded baman pemalŋ ganzenan, ma ekŋen wel asked ŋok belepmak dissent, ekŋen would awembiŋ zutmak don kogok kisiyaŋ meuŋ papmalŋ esitation.
 
 وَلَوْ دُخِلَتْ عَلَيْهِم مِّنْ أَقْطَارِهَا ثُمَّ سُئِلُوا۟ ٱلْفِتْنَةَ لَءَاتَوْهَا وَمَا تَلَبَّثُوا۟ بِهَآ إِلَّا يَسِيرًۭا
 
@@ -14766,7 +14766,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 أَشِحَّةً عَلَيْكُمْ ۖ فَإِذَا جَآءَ ٱلْخَوْفُ رَأَيْتَهُمْ يَنظُرُونَ إِلَيْكَ تَدُورُ أَعْيُنُهُمْ كَٱلَّذِى يُغْشَىٰ عَلَيْهِ مِنَ ٱلْمَوْتِ ۖ فَإِذَا ذَهَبَ ٱلْخَوْفُ سَلَقُوكُم بِأَلْسِنَةٍ حِدَادٍ أَشِحَّةً عَلَى ٱلْخَيْرِ ۚ أُو۟لَٰٓئِكَ لَمْ يُؤْمِنُوا۟ فَأَحْبَطَ ٱللَّهُ أَعْمَٰلَهُمْ ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًۭا
 
-**33:20** Ekŋen assumed ke konpedelates ad ku witdlawn. Âpme wel konpedelates ŋok belepmak adbans, ekŋen would wis ekŋen wel betnanen deselt kisiyaŋ bedouins, inkiling about andi zapat. Ma beme ekŋen wel among in, ekŋen would awembiŋ zutmak don (meuŋ papmalŋ ausat tapmilup.
+**33:20** Ekŋen assumed ke konpedelates ad ku witdlawn. Âpme wel konpedelates ŋok belepmak adbans, ekŋen would wis ekŋen wel betnanen deselt kisiyaŋ bedouins, inkiling about andi zapat. Ma beme ekŋen wel among in, ekŋen would awembiŋ zutmak don meuŋ papmalŋ ausat tapmilup.
 
 يَحْسَبُونَ ٱلْأَحْزَابَ لَمْ يَذْهَبُوا۟ ۖ وَإِن يَأْتِ ٱلْأَحْزَابُ يَوَدُّوا۟ لَوْ أَنَّهُم بَادُونَ فِى ٱلْأَعْرَابِ يَسْـَٔلُونَ عَنْ أَنۢبَآئِكُمْ ۖ وَلَوْ كَانُوا۟ فِيكُم مَّا قَٰتَلُوٓا۟ إِلَّا قَلِيلًۭا
 
@@ -14834,7 +14834,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 وَمَا كَانَ لِمُؤْمِنٍۢ وَلَا مُؤْمِنَةٍ إِذَا قَضَى ٱللَّهُ وَرَسُولُهُۥٓ أَمْرًا أَن يَكُونَ لَهُمُ ٱلْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ ضَلَّ ضَلَٰلًۭا مُّبِينًۭا
 
-**33:37** Wen in said ŋok belepmak im wom Kawawaŋ ad blessed, ma in ad paboled, “mmak mmak (highlandŋ andi wip ŋok belepmak youlselp, ma kiŋgagat Kawawaŋ.” âpme in id witin youlselp kwileki Kawawaŋ was ŋok belepmak lebeal. Ma in kiŋgagat am, âpme egaŋ was Kawawaŋ in wel supposed ŋok belepmak kiŋgagat. Ten, wen zaid dak kanzij;ŋaiŋ egat zapat lelationsip kisiyaŋ sak.jŋaŋ, nin gab sak.jŋaŋ ŋok belepmak in betnanen malliag, ke aŋ tazin may an penaŋ bein yek lestliktion mim indendeŋaŋ beliebels legalding wibes a zigok? ameamin adopted nemuŋaŋ, wen ameamin lelationsip penalŋaping bein dak kanzij;ŋaiŋ. Kommand a zigok? Kawawaŋ was pulpilled.
+**33:37** Wen in said ŋok belepmak im wom Kawawaŋ ad blessed, ma in ad paboled, “mmak mmak highlandŋ andi wip ŋok belepmak youlselp, ma kiŋgagat Kawawaŋ.” âpme in id witin youlselp kwileki Kawawaŋ was ŋok belepmak lebeal. Ma in kiŋgagat am, âpme egaŋ was Kawawaŋ in wel supposed ŋok belepmak kiŋgagat. Ten, wen zaid dak kanzij;ŋaiŋ egat zapat lelationsip kisiyaŋ sak.jŋaŋ, nin gab sak.jŋaŋ ŋok belepmak in betnanen malliag, ke aŋ tazin may an penaŋ bein yek lestliktion mim indendeŋaŋ beliebels legalding wibes a zigok? ameamin adopted nemuŋaŋ, wen ameamin lelationsip penalŋaping bein dak kanzij;ŋaiŋ. Kommand a zigok? Kawawaŋ was pulpilled.
 
 وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌۭ مِّنْهَا وَطَرًۭا زَوَّجْنَٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌۭ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًۭا ۚ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًۭا
 
@@ -14988,7 +14988,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 **سَبَأ** · Saba · Meka · 54 ayat
 
-*Seba's galden, oopo's zapat undon, ma glatitud ke mmak mmak (highlandŋ blessing baman banising.*
+*Seba's galden, oopo's zapat undon, ma glatitud ke mmak mmak highlandŋ blessing baman banising.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -15718,7 +15718,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 فَلَا يَحْزُنكَ قَوْلُهُمْ ۘ إِنَّا نَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ
 
-**36:77** Weyaŋti min uman zet kipmaŋ ku konsidel ke nin kleated im baman alik (saŋgo alikŋ? Yet egaŋ an tembe bein piels adbelsaly.
+**36:77** Weyaŋti min uman zet kipmaŋ ku konsidel ke nin kleated im baman alik saŋgo alikŋ? Yet egaŋ an tembe bein piels adbelsaly.
 
 أَوَلَمْ يَرَ ٱلْإِنسَٰنُ أَنَّا خَلَقْنَٰهُ مِن نُّطْفَةٍۢ فَإِذَا هُوَ خَصِيمٌۭ مُّبِينٌۭ
 
@@ -16892,7 +16892,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 إِن تَكْفُرُوا۟ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنكُمْ ۖ وَلَا يَرْضَىٰ لِعِبَادِهِ ٱلْكُفْرَ ۖ وَإِن تَشْكُرُوا۟ يَرْضَهُ لَكُمْ ۗ وَلَا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ۗ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
-**39:8** Wen notnaŋ adbelsity talŋguin uman zet kipmaŋ, egaŋ plays ŋok belepmak egat zapat Amobotnaŋ, lepenting ŋok belepmak im. Âpme ten, wen egaŋ konpels seklŋan im keg tao let a zigok? egat zapat, egaŋ an kopa kwileki egaŋ was playing mim indendeŋaŋ bepol, ma egaŋ attlibutes libals ŋok belepmak Kawawaŋ, betnanen weyeyaŋ mulup min ŋok belepmak lead astlay baman egat zapat mama mimi. Ku zep, “enzoy andi disbeliep mim indendeŋaŋ (meuŋ papmalŋ wil; in will an penaŋ bein among inmates a zigok? tep.”
+**39:8** Wen notnaŋ adbelsity talŋguin uman zet kipmaŋ, egaŋ plays ŋok belepmak egat zapat Amobotnaŋ, lepenting ŋok belepmak im. Âpme ten, wen egaŋ konpels seklŋan im keg tao let a zigok? egat zapat, egaŋ an kopa kwileki egaŋ was playing mim indendeŋaŋ bepol, ma egaŋ attlibutes libals ŋok belepmak Kawawaŋ, betnanen weyeyaŋ mulup min ŋok belepmak lead astlay baman egat zapat mama mimi. Ku zep, “enzoy andi disbeliep mim indendeŋaŋ meuŋ papmalŋ wil; in will an penaŋ bein among inmates a zigok? tep.”
 
 ۞ وَإِذَا مَسَّ ٱلْإِنسَٰنَ ضُرٌّۭ دَعَا رَبَّهُۥ مُنِيبًا إِلَيْهِ ثُمَّ إِذَا خَوَّلَهُۥ نِعْمَةًۭ مِّنْهُ نَسِىَ مَا كَانَ يَدْعُوٓا۟ إِلَيْهِ مِن قَبْلُ وَجَعَلَ لِلَّهِ أَندَادًۭا لِّيُضِلَّ عَن سَبِيلِهِۦ ۚ قُلْ تَمَتَّعْ بِكُفْرِكَ قَلِيلًا ۖ إِنَّكَ مِنْ أَصْحَٰبِ ٱلنَّارِ
 
@@ -16900,7 +16900,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 أَمَّنْ هُوَ قَٰنِتٌ ءَانَآءَ ٱلَّيْلِ سَاجِدًۭا وَقَآئِمًۭا يَحْذَرُ ٱلْءَاخِرَةَ وَيَرْجُوا۟ رَحْمَةَ رَبِّهِۦ ۗ قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَ ۗ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَٰبِ
 
-**39:10** Ku zep, “o sokl] debotees ŋenaŋ awembiŋ zutmak beliebed, mmak mmak (highlandŋ andi duty ŋok belepmak andi Amobotnaŋ. Mim indendeŋaŋ tos ŋenaŋ kwage. kwat-ge pembenag betnanen kapi wolld, tu sesembe ma imbelŋalŋ? goodness. Ma Kawawaŋgat melum tu sesembe ma imbelŋalŋ? bast. Steadpast will an penaŋ bein paid ameamin wages betnanen pull, boŋepiŋ lekkoning.”
+**39:10** Ku zep, “o sokl] debotees ŋenaŋ awembiŋ zutmak beliebed, mmak mmak highlandŋ andi duty ŋok belepmak andi Amobotnaŋ. Mim indendeŋaŋ tos ŋenaŋ kwage. kwat-ge pembenag betnanen kapi wolld, tu sesembe ma imbelŋalŋ? goodness. Ma Kawawaŋgat melum tu sesembe ma imbelŋalŋ? bast. Steadpast will an penaŋ bein paid ameamin wages betnanen pull, boŋepiŋ lekkoning.”
 
 قُلْ يَٰعِبَادِ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ رَبَّكُمْ ۚ لِلَّذِينَ أَحْسَنُوا۟ فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةٌۭ ۗ وَأَرْضُ ٱللَّهِ وَٰسِعَةٌ ۗ إِنَّمَا يُوَفَّى ٱلصَّٰبِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍۢ
 
@@ -17404,7 +17404,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 لَخَلْقُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ أَكْبَرُ مِنْ خَلْقِ ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
-**40:58** Ku ekal ale ziŋ beŋ ma gigipiŋ goyap. Nol ale tos ŋenaŋ belieb ma mulup ligteousness ekal ŋok belepmak sinnels. Zigok (meuŋ papmalŋ in leplekt.
+**40:58** Ku ekal ale ziŋ beŋ ma gigipiŋ goyap. Nol ale tos ŋenaŋ belieb ma mulup ligteousness ekal ŋok belepmak sinnels. Zigok meuŋ papmalŋ in leplekt.
 
 وَمَا يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَلَا ٱلْمُسِىٓءُ ۚ قَلِيلًۭا مَّا تَتَذَكَّرُونَ
 
@@ -17440,7 +17440,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 ۞ قُلْ إِنِّى نُهِيتُ أَنْ أَعْبُدَ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ لَمَّا جَآءَنِىَ ٱلْبَيِّنَٰتُ مِن رَّبِّى وَأُمِرْتُ أَنْ أُسْلِمَ لِرَبِّ ٱلْعَٰلَمِينَ
 
-**40:67** Egaŋ tu sesembe ma imbelŋalŋ? egaŋ ŋenaŋ kleated in baman ktinzuzuŋ, ten baman alik (saŋgo alikŋ, ten baman emblyo, ten egaŋ blings in seŋ mimti inpant, ten egaŋ pe in leas andi matulity, ten in an tembe bein eldelly — altoug notnaŋ a zigok? in die soonel — kogok ke in may leas pledetelmined age, kogok ke in may undelstand.
+**40:67** Egaŋ tu sesembe ma imbelŋalŋ? egaŋ ŋenaŋ kleated in baman ktinzuzuŋ, ten baman alik saŋgo alikŋ, ten baman emblyo, ten egaŋ blings in seŋ mimti inpant, ten egaŋ pe in leas andi matulity, ten in an tembe bein eldelly — altoug notnaŋ a zigok? in die soonel — kogok ke in may leas pledetelmined age, kogok ke in may undelstand.
 
 هُوَ ٱلَّذِى خَلَقَكُم مِّن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ مِنْ عَلَقَةٍۢ ثُمَّ يُخْرِجُكُمْ طِفْلًۭا ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ ثُمَّ لِتَكُونُوا۟ شُيُوخًۭا ۚ وَمِنكُم مَّن يُتَوَفَّىٰ مِن قَبْلُ ۖ وَلِتَبْلُغُوٓا۟ أَجَلًۭا مُّسَمًّۭى وَلَعَلَّكُمْ تَعْقِلُونَ
 
@@ -18406,7 +18406,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 ثُمَّ تَوَلَّوْا۟ عَنْهُ وَقَالُوا۟ مُعَلَّمٌۭ مَّجْنُونٌ
 
-**44:15** Nin will eas punisment (meuŋ papmalŋ, âpme in will lebelt.
+**44:15** Nin will eas punisment meuŋ papmalŋ, âpme in will lebelt.
 
 إِنَّا كَاشِفُوا۟ ٱلْعَذَابِ قَلِيلًا ۚ إِنَّكُمْ عَآئِدُونَ
 
@@ -18430,7 +18430,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 وَإِنِّى عُذْتُ بِرَبِّى وَرَبِّكُمْ أَن تَرْجُمُونِ
 
-**44:21** Âpme beme in kwage. kwat-ge ku belieb betnanen me, mmak mmak (highlandŋ away baman me.”
+**44:21** Âpme beme in kwage. kwat-ge ku belieb betnanen me, mmak mmak highlandŋ away baman me.”
 
 وَإِن لَّمْ تُؤْمِنُوا۟ لِى فَٱعْتَزِلُونِ
 
@@ -18914,7 +18914,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Wil tos ŋenaŋ belieb, ma mulup ligteousness, ma belieb betnanen kwileki was sent metozin ŋok belepmak muammad — ma egaŋ tu sesembe ma imbelŋalŋ? tlut baman ameamin Amobotnaŋ — egaŋ lemits ameamin sins, ma leliebes ameamin konselns.
+**47:2** Wil tos ŋenaŋ belieb, ma mulup ligteousness, ma belieb betnanen kwileki was sent metozin ŋok belepmak Muammad — ma egaŋ tu sesembe ma imbelŋalŋ? tlut baman ameamin Amobotnaŋ — egaŋ lemits ameamin sins, ma leliebes ameamin konselns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
@@ -19130,7 +19130,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا
 
-**48:15** Tos ŋenaŋ lagged beind will ku zep wen in depalt ŋok belepmak mainzin gains, “pe us egalak galak min in.” ekŋen want ŋok belepmak sang zet a zigok? Kawawaŋ. Ku zep, “in will ku egalak galak min us; Kawawaŋ penalŋaping bein said kogok bepol.” ten ekŋen will ku zep, “âpme in ale zealous a zigok? us.” betnanen pakt, ekŋen undelstand keetalŋ (meuŋ papmalŋ.
+**48:15** Tos ŋenaŋ lagged beind will ku zep wen in depalt ŋok belepmak mainzin gains, “pe us egalak galak min in.” ekŋen want ŋok belepmak sang zet a zigok? Kawawaŋ. Ku zep, “in will ku egalak galak min us; Kawawaŋ penalŋaping bein said kogok bepol.” ten ekŋen will ku zep, “âpme in ale zealous a zigok? us.” betnanen pakt, ekŋen undelstand keetalŋ meuŋ papmalŋ.
 
 سَيَقُولُ ٱلْمُخَلَّفُونَ إِذَا ٱنطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ ۖ يُرِيدُونَ أَن يُبَدِّلُوا۟ كَلَٰمَ ٱللَّهِ ۚ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ ٱللَّهُ مِن قَبْلُ ۖ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا ۚ بَلْ كَانُوا۟ لَا يَفْقَهُونَ إِلَّا قَلِيلًۭا
 
@@ -19542,7 +19542,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 ءَاخِذِينَ مَآ ءَاتَىٰهُمْ رَبُّهُمْ ۚ إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُحْسِنِينَ
 
-**51:17** Ekŋen used ŋok belepmak mewem kwawewem (meuŋ papmalŋ at nigt.
+**51:17** Ekŋen used ŋok belepmak mewem kwawewem meuŋ papmalŋ at nigt.
 
 كَانُوا۟ قَلِيلًۭا مِّنَ ٱلَّيْلِ مَا يَهْجَعُونَ
 
@@ -20070,7 +20070,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 أَفَرَءَيْتَ ٱلَّذِى تَوَلَّىٰ
 
-**53:34** Ma gab (meuŋ papmalŋ, ma eld biset?
+**53:34** Ma gab meuŋ papmalŋ, ma eld biset?
 
 وَأَعْطَىٰ قَلِيلًۭا وَأَكْدَىٰٓ
 
@@ -21984,7 +21984,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 إِنَّ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ لَهُم مَّغْفِرَةٌۭ وَأَجْرٌۭ كَبِيرٌۭ
 
-**67:13** Wetel in mmak mmak (highlandŋ andi zet zeuk zet, ma deklal tem — egaŋ tu sesembe ma imbelŋalŋ? awal a zigok? innel otnampen.
+**67:13** Wetel in mmak mmak highlandŋ andi zet zeuk zet, ma deklal tem — egaŋ tu sesembe ma imbelŋalŋ? awal a zigok? innel otnampen.
 
 وَأَسِرُّوا۟ قَوْلَكُمْ أَوِ ٱجْهَرُوا۟ بِهِۦٓ ۖ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
@@ -22448,11 +22448,11 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ
 
-**69:41** Ma egaŋ tu sesembe ma imbelŋalŋ? ku zet a zigok? poet — (meuŋ papmalŋ kwage. kwat-ge in belieb.
+**69:41** Ma egaŋ tu sesembe ma imbelŋalŋ? ku zet a zigok? poet — meuŋ papmalŋ kwage. kwat-ge in belieb.
 
 وَمَا هُوَ بِقَوْلِ شَاعِرٍۢ ۚ قَلِيلًۭا مَّا تُؤْمِنُونَ
 
-**69:42** Nol tu sesembe ma imbelŋalŋ? egaŋ zet a zigok? sootsayel — (meuŋ papmalŋ kwage. kwat-ge in beyak bein egaŋ.
+**69:42** Nol tu sesembe ma imbelŋalŋ? egaŋ zet a zigok? sootsayel — meuŋ papmalŋ kwage. kwat-ge in beyak bein egaŋ.
 
 وَلَا بِقَوْلِ كَاهِنٍۢ ۚ قَلِيلًۭا مَّا تَذَكَّرُونَ
 
@@ -22938,7 +22938,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 **ٱلْمُزَّمِّل** · Al-Muzzammil · Meka · 20 ayat
 
-*O in wlapped betnanen andi kloak: dendalJ mbepe betnanen playel at nigt, (meuŋ papmalŋ less tan butnalj.*
+*O in wlapped betnanen andi kloak: dendalJ mbepe betnanen playel at nigt, meuŋ papmalŋ less tan butnalj.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -22948,11 +22948,11 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 يَٰٓأَيُّهَا ٱلْمُزَّمِّلُ
 
-**73:2** Stay up duling nigt, essept (meuŋ papmalŋ.
+**73:2** Stay up duling nigt, essept meuŋ papmalŋ.
 
 قُمِ ٱلَّيْلَ إِلَّا قَلِيلًۭا
 
-**73:3** Mim indendeŋaŋ butnalj a zigok? egaŋ, ma ledus egaŋ (meuŋ papmalŋ.
+**73:3** Mim indendeŋaŋ butnalj a zigok? egaŋ, ma ledus egaŋ meuŋ papmalŋ.
 
 نِّصْفَهُۥٓ أَوِ ٱنقُصْ مِنْهُ قَلِيلًا
 
@@ -23760,7 +23760,7 @@ beme in ale betnanen stat a zigok? impulity, pulipy youlselbes. Beme in ale ill,
 
 وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ
 
-**77:46** “Pelaŋgu ma enzoy youlselbes (meuŋ papmalŋ; in ale indeed kliminals.”
+**77:46** “Pelaŋgu ma enzoy youlselbes meuŋ papmalŋ; in ale indeed kliminals.”
 
 كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ
 
