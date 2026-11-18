@@ -50,8 +50,8 @@ work/flags-jae.txt — 13 named uncertain-seat items plus residue counts, carrie
   4,316 bytes
   SHA-256 e7f067a564fe68b6e35c36f6306eeb0e598c68897a73401213b46f6b1abd8f5a
 ayah-companion-manuscript-JAE.md
-  2,320,366 bytes
-  SHA-256 533d36926f0af3c2ddb399afd3155d49cc249c8f6eb64a14aa35678fceb77af1
+  2,319,845 bytes
+  SHA-256 a878b8af1b9df79bfd535d7174e829972e968c4a9471be4fd6ccf055d863fe16
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
