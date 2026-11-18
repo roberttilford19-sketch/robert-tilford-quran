@@ -18902,7 +18902,7 @@ te Tu si ande stat le impurity, uzharel tumen korkore. Te Tu si ill, vaj drom ke
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Kana kodola kon patja, thaj buti ker chachipen, thaj patja ande so sas bichaldas tele ke muhammad — thaj ov si chachipen katar lengo Domno — ov remits lengo bezexa, thaj reliebes lengo konserns.
+**47:2** Kana kodola kon patja, thaj buti ker chachipen, thaj patja ande so sas bichaldas tele ke Muhammad — thaj ov si chachipen katar lengo Domno — ov remits lengo bezexa, thaj reliebes lengo konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
