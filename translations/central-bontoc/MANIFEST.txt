@@ -1,0 +1,89 @@
+AYAH COMPANION — CENTRAL BONTOC RENDERING
+MANIFEST — lane record, 2026-11-17
+
+ITEM
+Ayah Companion, Central Bontoc (lbk) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the Region-1 remainder wave (Philippines-A batch,
+TOP BUILD CANDIDATES #7), under Robert's Advance Rule of
+2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Central Bontoc review is required
+before any gifting or publication; review is invited. The status
+line stands inside the manuscript itself, on its face, with AI
+assistance labelled.
+SHELVING: the pack is prepared at the desk and NOT pushed;
+landing is centralized after independent check, per the lane's
+commission. No landing is recorded for this lane yet.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography — the NT's practical orthography; reviewer item.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: none
+found after research (Region-1 remainder scout, 2026-11-17).
+
+FILES
+GLOSSARY-LBK.md
+  2,946 bytes
+  SHA-256 7f1b33f5a1652c696cf8c62ff8d09ec88224b3a44712a589ac47b17ae31c5976
+STYLEGUIDE-LBK.md (the lane's binding drafting law, settled before drafting)
+  7,411 bytes
+  SHA-256 c07faf91630e6e01babd870e78c855d8d3ea4ab985ff9c84cc2624c85722d52b
+BUILD-REPORT-LBK.md
+  4,464 bytes
+  SHA-256 a282d473a7dcd0bce8c129ab95c1fc86d4f52c92c240f60fcbe65ce65dcbef5e
+work/verification-lbk.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-lbk.txt — 9 named uncertain-seat items plus residue counts, carried to the reviewer.
+  6,725 bytes
+  SHA-256 96b4f49054a172b10ab8c66ef7cedbf07ecb0453cdf359de423487b7eefcda82
+ayah-companion-manuscript-LBK.md
+  2,292,197 bytes
+  SHA-256 f3b394e670de35b21a509f78506f3a90113688ff1ac7a85b0197af5fb927e1ea
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-17: PASS true. Headers 114, head order true, verses
+6,236, counts match meta true, continuity true, Arabic runs
+6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse lines
+6,236, slice ref mismatches 0, slice paragraph mismatches 0,
+percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_lbk.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Apo Dios 2,732
+(= God 2,732); dios 79 (= god 79); dios-dios 35 (= gods 35);
+Apo 980 (= Lord 969 + the 11 counted Master tokens);
+zakat at exactly the 13 keyed slots; daya at exactly the 36
+keyed tokens (2:272 ×3; 58:13 ×2).
+Purple measurements (work/purple-measurements-lbk.json): Arabic
+matched 6,348/6,348 by the direct method; basmalah 114; markers
+15; TOC 114, 0 mismatches; percent 0; note 56 present.
+Independent checker (separate agent): PASS WITH FLAGS — all counts re-measured exact (CHECKER-REPORT-LBK-2026-11-17.md); 9 flags, all MINOR, carried to the native reviewer, none blocking landing; the FILE-SCHEMA YAML header was supplied at finishing and the gates re-run on the final bytes.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+
+NOTES CARRIED TO THE REVIEWER
+The Eliseo/Elias pair (flags item 1) is the reviewer's first name
+ruling; the God-word Apo Dios (item 2) and the Lord/Master merge
+into Apo (item 3) stand on the NT text's own usage; the composed
+basmalah mercy pair (item 4) is built from the attested words
+asi and seg-ang.
