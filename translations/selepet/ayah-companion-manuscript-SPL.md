@@ -178,7 +178,7 @@ Rendered from Robert Tilford's corrected English master (the Locked English Mast
 
 ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ
 
-**1:7** Blessed, against whom anger, nor misguided.
+**1:7** Blessed, ki against whom anger, nor misguided.
 
 صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ
 
@@ -4226,7 +4226,7 @@ ip impurity, puripy. Ip ill, trawelling, returns toilet, had kontakt women, koul
 
 ٱلَّذِينَ يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًۭا وَهُم بِٱلْءَاخِرَةِ كَٰفِرُونَ
 
-**7:46** Partition, elewations rekognis eweryon peatures. Inhabitants, “.” entered, hoping.
+**7:46** Partition, elewations rekognis eweryon peatures. Inhabitants, “.” ki entered, hoping.
 
 وَبَيْنَهُمَا حِجَابٌۭ ۚ وَعَلَى ٱلْأَعْرَافِ رِجَالٌۭ يَعْرِفُونَ كُلًّۢا بِسِيمَىٰهُمْ ۚ وَنَادَوْا۟ أَصْحَٰبَ ٱلْجَنَّةِ أَن سَلَٰمٌ عَلَيْكُمْ ۚ لَمْ يَدْخُلُوهَا وَهُمْ يَطْمَعُونَ
 
@@ -6272,7 +6272,7 @@ ip impurity, puripy. Ip ill, trawelling, returns toilet, had kontakt women, koul
 
 أَن لَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ ۖ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ أَلِيمٍۢ
 
-**11:27** Notables disbeliewed said, “, worst pollowed, immatur yudgment. Adwantag. Pakt,.”
+**11:27** Notables disbeliewed said, “, tap worst pollowed, immatur yudgment. Bia Adwantag. Pakt,.”
 
 فَقَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا نَرَىٰكَ إِلَّا بَشَرًۭا مِّثْلَنَا وَمَا نَرَىٰكَ ٱتَّبَعَكَ إِلَّا ٱلَّذِينَ هُمْ أَرَاذِلُنَا بَادِىَ ٱلرَّأْىِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِن فَضْلٍۭ بَلْ نَظُنُّكُمْ كَٰذِبِينَ
 
@@ -8336,7 +8336,7 @@ ip impurity, puripy. Ip ill, trawelling, returns toilet, had kontakt women, koul
 
 فَإِذَا قَرَأْتَ ٱلْقُرْءَانَ فَٱسْتَعِذْ بِٱللَّهِ مِنَ ٱلشَّيْطَٰنِ ٱلرَّجِيمِ
 
-**16:99** Has autority trust Kutdâ.
+**16:99** Has bia autority trust Kutdâ.
 
 إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ
 
@@ -26408,7 +26408,7 @@ ip impurity, puripy. Ip ill, trawelling, returns toilet, had kontakt women, koul
 
 ٱللَّهُ ٱلصَّمَدُ
 
-**112:3** Begets, nor begotten.
+**112:3** Begets ki, nor begotten.
 
 لَمْ يَلِدْ وَلَمْ يُولَدْ
 

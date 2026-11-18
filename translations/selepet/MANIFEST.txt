@@ -57,8 +57,8 @@ work/flags-spl.txt — 14 named judgment-call items plus residue counts.
   6,096 bytes
   SHA-256 71de8f8802b408a782ae8b264f0dbb2990c3a7bad6882bce8669bedcc384bbac
 ayah-companion-manuscript-SPL.md
-  1,784,958 bytes
-  SHA-256 4698a22d6a27c4da1dc8bcc28bdbb32755b82e997256747c20420206dabd5f99
+  1,784,979 bytes
+  SHA-256 4eeccee0f1cd51b397533be3412d6f86e05d456fc2679bd203e1a7b08b7e0682
 ayah-companion-aligned-SPL.json
   2,830,981 bytes
   SHA-256 2a5750f99580dc51082cd07ee83291f4afce4cde0de3f57f3c7ffe0af8994b6e
