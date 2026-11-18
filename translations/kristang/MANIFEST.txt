@@ -57,8 +57,8 @@ work/flags-mcm.txt — 14 named uncertain-seat items plus residue counts, carrie
   9,135 bytes
   SHA-256 f3b75a151f4983f7f9aade0eb9c3e30f17c0928b462857c770d46cf5fcf8b904
 ayah-companion-manuscript-MCM.md
-  2,233,914 bytes
-  SHA-256 e6256a95908ffa4ba4280896e6d7f337e36b68eb233f3e722556bc958bf887ae
+  2,233,416 bytes
+  SHA-256 71ffd6a47bf5bf6244ed8d6e4b7a28c2772db6332dcbfc4eb35323603f55111a
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
