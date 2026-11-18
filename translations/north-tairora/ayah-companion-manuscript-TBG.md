@@ -18917,7 +18917,7 @@ ip are variavo qi stat ra impuriti, puripi iourselves. Ip are variavo ill, or ni
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Vahuqa tos vira kempukaiqi, vo aira rigteousness, vo kempukaiqi qi nana vaura sent maavini ra muhammad — vo vira vaivo quqaa qihai vika Norava — viva remits vika kumi, vo relieves vika konserns.
+**47:2** Vahuqa tos vira kempukaiqi, vo aira rigteousness, vo kempukaiqi qi nana vaura sent maavini ra Muhammad — vo vira vaivo quqaa qihai vika Norava — viva remits vika kumi, vo relieves vika konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
