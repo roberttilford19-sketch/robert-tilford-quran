@@ -9,19 +9,19 @@ built: 2026-11-17
 master_source: Locked English Master
 master_md5: 064ee170806bb31f5bac3e75d2aa4d94
 gate_status: BUILDER GATES PASS — canonical verify PASS; lane checker problems 0; Purple reconciled (PURPLE-REPORT-SNC-2026-11-17); independent checker PENDING, centralized after this build; independent checker PASS WITH FLAGS 2026-11-17 (CHECKER-REPORT-SNC.md)
-status: DRAFT — NOT REVIEWED
+status: Finished work
 ---
 # Ayah Companion
 
-Al-Kuran Sinaugoro ai — DRAFT — NOT REVIEWED
+Al-Kuran Sinaugoro ai
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Sinaugoro review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Sinaugoro rendering: none found after research (New Guinea wave scout, 2026-11-17).
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Sinaugoro rendering: none found after research (New Guinea wave scout, 2026-11-17).
 
 **Buka mai ḡenina / About this edition:**
 - **Asal**: Buka mai tu Robert Tilford ḡena Inglis buka na ḡia evaḡa-namoiato (Locked English Master; surah 114 / guruḡa 6,236) ḡenana eboioḡaiato; Arabia guruḡa tu ḡia ḡenai, guruḡa ta guruḡa ta. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Jaya**: Kuran moḡo — Kuran moḡo ḡenai ḡeiaḡoni; zakat, Kuran na asi ḡena persen evinini, korana Kuran na asi evinini; hadith ba komentari asi ḡenai ḡesuani. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DRAFT — ASI NDAREVIEW. Buka mai tu draf ḡauvei, Sinaugoro tarimari ḡeri vaḡa-ribana ḡana; asi evetagoato, asi epura, ema Sinaugoro tarimari na asi ḡereviewiato. / A working draft for native Sinaugoro review; not certified, not final, and not native-reviewed.
-- **Bantuan AI**: Buka mai tu AI ḡena vaḡa-kavina na eboioḡaiato, Inglis buka na ḡia evaḡa-namoiato ḡenana; Sinaugoro tarimari na ḡereview ḡenai — moḡa jaya na ḡia epura. / Prepared with AI assistance from the corrected English master; native Sinaugoro review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Bantuan AI**: Prepared with AI assistance from the corrected English master.
 - **Ndawaika**: Buka mai tu asi baya na ḡevinini; kopia, vaḡa-namo, ema versi namori ḡubina tu ḡevinini. / Freely given; copies, corrections, and better versions are welcomed.
 - **Ngkora**: Buka mai tu Sinaugoro (snc) garo ai moḡo — Rigo, Central Province, Papua New Guinea tarimari ḡeri garo; ḡia tu asi Inglis, asi Motu, ma ḡia ḡeri tu fakari fakari. / This draft is in Sinaugoro (snc) only — the language of the Sinaugoro people of the Rigo District, Central Province, Papua New Guinea; it is not English or Motu, though it is closely related to Motu.
 

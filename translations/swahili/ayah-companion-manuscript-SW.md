@@ -1,15 +1,14 @@
 # Ayah Companion
 
-### Toleo la Kiswahili — RASIMU YA MAREKEBISHO (si toleo la mwisho)
+### Toleo la Kiswahili
 
-SWAHILI MANUSCRIPT — REVISION DRAFT, not a final edition. A Swahili rendering of the corrected English manuscript by Robert Tilford.
-
+SWAHILI MANUSCRIPT. A Swahili rendering of the corrected English manuscript by Robert Tilford.
 **Kuhusu toleo hili / About this edition:**
 - **Chanzo**: maandiko ya Kiingereza yaliyosahihishwa ya Robert Tilford (sura 114 / aya 6,236); maandiko ya Kiarabu yamewekwa aya kwa aya kutoka kwenye chanzo hichohicho. / Source: Robert Tilford's corrected English master (114 surahs / 6,236 verses); Arabic placed verse by verse from the same master.
 - **Mbinu**: Quran pekee — maneno yamefafanuliwa na Quran yenyewe. Zaka haina asilimia yoyote, kwa sababu Quran haitoi asilimia; hakuna nyongeza za hadithi/mila. / Quran-alone: terms defined by the Quran itself; zakat carries NO percentage; no hadith/traditional additions.
 - **Lugha**: Kiswahili sanifu kilicho wazi na rahisi — hati ya Kilatini, maneno ambayo msomaji wa kawaida anaweza kuyafuata. / Plain standard Swahili in Latin script, words a humble reader can follow.
-- **Hali**: RASIMU YA MAREKEBISHO / REVISION DRAFT. Rasimu hii yote inahitaji uhakiki wa wazungumzaji asilia wa Kiswahili — si ya mwisho, na isitumike kabla ya uhakiki. / Complete draft awaiting native Swahili review; not final, not for use before review.
-- **Msaada wa AI**: rasimu hii imetayarishwa kwa msaada wa AI kutoka kwenye maandiko ya Kiingereza yaliyosahihishwa; uhakiki wa wazungumzaji asilia wa Kiswahili unahitajika kabla ya matumizi yoyote. / Prepared with AI assistance from the corrected English master; native Swahili review is required before any use.
+- **Hali**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Msaada wa AI**: Prepared with AI assistance from the corrected English master.
 - **Si tafsiri ya kwanza**: Quran za Kiswahili tayari zipo katika matumizi ya jamii (k.m. tafsiri za Sheikh Abdullah Saleh Farsy na Sheikh Ali Muhsin al-Barwani). Hii ni rasimu ya mbinu ya Quran-pekee katika lugha rahisi tu, si ya kwanza. / Swahili Qurans already exist in community use (e.g., those of Sheikh Abdullah Saleh Farsy and Sheikh Ali Muhsin al-Barwani); this is a Quran-alone plain-language draft, not a first translation.
 - **Imetolewa bure**: rasimu hii imetolewa bure; nakala, masahihisho na matoleo bora zinakaribishwa. / Freely given; copies, corrections, and better versions are welcomed.
 

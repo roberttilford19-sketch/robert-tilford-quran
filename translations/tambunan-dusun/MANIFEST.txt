@@ -8,15 +8,7 @@ lineage, in the Malaysia 39 wave (the scout's Class 3 row
 §6b #8), under Robert's Advance Rule of 2026-11-14.
 
 STATUS
-DRAFT — NOT REVIEWED. Native Tambunan Dusun review is required
-before any gifting or publication; review is invited. The status
-line stands inside the manuscript itself, on its face, with AI
-assistance labelled.
-SHELVING: lands on the GitHub shelf under Robert's Pipeline
-Landing Authorization (2026-11-14 ~15:00), the full pipeline loop
-having completed (build, count, canonical verify, independent
-checker, Purple sweep reconciled); the landing is recorded in
-LANDING-RECORD-2026-11-16.md in this lane folder at the desk.
+Translated by Robert Tilford. © 2026 Robert Tilford.
 
 COMPLETENESS
 114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.

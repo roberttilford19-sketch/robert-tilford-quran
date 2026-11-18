@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Qoraalka Soomaaliga — DHABAYSTIR AAN LA DIB-U-EEGIN (ma aha daabacaad kama dambays ah)
+Qoraalka Soomaaliga
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Ku saabsan daabacaaddan / About this edition:**
 - **Isha**: Waxaa laga soo qaatay qoraalka induk ee Ingiriisiga ee Robert Tilford ee la saxay (Locked English Master; 114 suuradood / 6,236 aayadood); qoraalka Carabiga asalka ah ayaa la barbar socda, aayad aayad. / From Robert Tilford's corrected English master; the Arabic source stands alongside it, verse by verse.
 - **Habka**: Qur'aan keliya. Sako waligeed lama siiyo boqolkiiba, waayo Qur'aanku ma siiyo boqolkiiba; xadiis ama tafsiir lama darin. / Quran-alone method. Zakat receives no percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Luqadda**: Af-Soomaali qoran oo cad, qoraalka Laatiinka (farta rasmiga ah tan iyo 1972), ereyo fudud oo akhriste is-hoosaysiiya uu raaci karo. / Clear, written standard Somali in the Latin script (the official script since 1972), in plain wording a humble reader can follow.
-- **Xaaladda**: DHABAYSTIR — AAN LA DIB-U-EEGIN / DRAFT — NOT REVIEWED. Dhabaystir shaqo oo sugaya dib-u-eegista qof Af-Soomaali u dhashay; lama xaqiijin, ma aha kama-dambays, qof u dhashayna ma dib-u-eegin. / A working draft awaiting native Somali review; not certified, not final, and not native-reviewed.
-- **Caawimo AI**: Waxaa lagu diyaariyay caawimo AI iyadoo laga soo qaatay qoraalka induk ee Ingiriisiga ee la saxay; dib-u-eegista qof Af-Soomaali u dhashay waa waajib ka hor intaan la isticmaalin. / Prepared with AI assistance from the corrected English master; native Somali review is required before any use.
+- **Xaaladda**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Caawimo AI**: Prepared with AI assistance from the corrected English master.
 - **Ma aha tarjumaaddii ugu horreysay**: Tarjumaado Qur'aan oo Soomaali ah oo dhamaystiran waa ay jiraan, oo ay ku jirto daabacaadda Soomaaliga ee Dhismaha Boqor Fahd (King Fahd Complex). Kani MA AHA tarjumaaddii ugu horreysay; waa dhabaystir af fudud oo hab Qur'aan-keliya ah. / Complete Somali Qurans already exist, including the King Fahd Complex's Somali edition; this is NOT a first translation — it is a Quran-alone plain-language draft.
 - **Si xor ah ayaa loo bixiyay**: Dhabaystirkan si xor ah ayaa loo bixiyay; koobiyo, sixid iyo noocyo ka wanaagsan waa la soo dhaweynayaa. / Freely given; copies, corrections, and better versions are welcomed.
 

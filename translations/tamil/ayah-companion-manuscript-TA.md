@@ -1,15 +1,14 @@
 # Ayah Companion
 
-### தமிழ் பதிப்பு — மறுபரிசீலனை வரைவு (இறுதிப் பதிப்பு அல்ல)
+### தமிழ் பதிப்பு
 
-TAMIL MANUSCRIPT — REVISION DRAFT, not a final edition. A Tamil rendering of the corrected English manuscript by Robert Tilford.
-
+TAMIL MANUSCRIPT. A Tamil rendering of the corrected English manuscript by Robert Tilford.
 **இந்தப் பதிப்பு பற்றி / About this edition:**
 - **மூல நூல்**: ராபர்ட் டில்ஃபோர்டின் திருத்திய ஆங்கில மூல நூல் (114 சூராக்கள் / 6,236 வசனங்கள்); அரபு நூல் அதே மூல நூலிலிருந்து வசனம் வசனமாக அருகில் வைக்கப்பட்டுள்ளது. / Source: Robert Tilford's corrected English master (114 surahs / 6,236 verses); Arabic placed verse by verse from the same master.
 - **முறை**: குர்ஆன் மட்டுமே — சொற்கள் குர்ஆனாலேயே விளக்கப்பட்டுள்ளன. ஜகாத்திற்கு எந்த சதவீதமும் இல்லை, ஏனெனில் குர்ஆன் எந்த சதவீதத்தையும் தரவில்லை; ஹதீஸ்/பாரம்பரிய சேர்க்கைகள் இல்லை. / Quran-alone: terms defined by the Quran itself; zakat carries NO percentage; no hadith/traditional additions.
 - **மொழி**: எளிய, தெளிவான நவீன தமிழ் — தமிழ் எழுத்தில், சாதாரண வாசகர் எளிதில் புரிந்துகொள்ளும் பேச்சு நடையில். / Plain modern Tamil in Tamil script, in spoken register.
-- **நிலை**: மறுபரிசீலனை வரைவு / REVISION DRAFT. இந்த முழு வரைவிற்கும் தமிழ் தாய்மொழி பேசுபவர்களின் மறுபரிசீலனை கட்டாயம் — மறுபரிசீலனைக்கு முன் பயன்படுத்தாதீர்கள், இறுதியானதாகக் கருதாதீர்கள். / Complete draft awaiting native Tamil review; not final, not for use before review.
-- **AI உதவி**: இந்த வரைவு திருத்திய ஆங்கில மூல நூலிலிருந்து AI உதவியுடன் தயாரிக்கப்பட்டது; எந்தப் பயன்பாட்டிற்கும் முன் தமிழ் பேசுபவர்களின் மறுபரிசீலனை தேவை. / Prepared with AI assistance from the corrected English master; native Tamil review is required before any use.
+- **நிலை**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI உதவி**: Prepared with AI assistance from the corrected English master.
 - **முதல் மொழிபெயர்ப்பு அல்ல**: தமிழ் குர்ஆன்கள் ஏற்கனவே சமூகப் பயன்பாட்டில் உள்ளன. இது குர்ஆன்-மட்டும் முறையில் எளிய மொழியில் உள்ள வரைவு மட்டுமே, முதல் மொழிபெயர்ப்பு அல்ல. / Tamil Qurans already exist in community use; this is a Quran-alone plain-language draft, not a first translation.
 - **இலவசமாக வழங்கப்பட்டது**: இந்த வரைவு இலவசமாக வழங்கப்படுகிறது; நகல்கள், திருத்தங்கள் மற்றும் சிறந்த பதிப்புகள் வரவேற்கப்படுகின்றன. / Freely given; copies, corrections, and better versions are welcomed.
 

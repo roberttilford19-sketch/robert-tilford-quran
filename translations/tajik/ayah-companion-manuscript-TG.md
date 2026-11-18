@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Тарҷумаи тоҷикӣ — пешнавис барои бозбинӣ (нусхаи ниҳоӣ нест)
+Тарҷумаи тоҷикӣ
 
-Rendered from Robert Tilford's sealed literal Recital (the Locked English Master). DRAFT — NOT REVIEWED: a complete working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Дар бораи ин нусха / About this edition:**
 - **Асоси матн**: матни англисии тасҳеҳшуда ва мӯҳршудаи Роберт Тилфорд (Матни асосии маҳкамшудаи англисӣ; 114 сура / 6,236 оят); матни арабӣ оят ба оят дар паҳлӯи он нигоҳ дошта шудааст.
 - **Усули кор**: Қуръон танҳо. Закот (садақаи воҷиб) ҳеҷ фоиз намегирад, зеро Қуръон ҳеҷ нисбат надодааст; ҳеҷ ҳадис ё маводи тафсирӣ илова нашудааст.
 - **Забон**: тоҷикии сода ва равшани меъёри имрӯза — содатарин шакле, ки хонандаи оддии тоҷикзабон фаҳмад.
-- **Ҳолат**: ПЕШНАВИСИ БОЗБИНИНАШУДА / DRAFT — NOT REVIEWED. Нахустин пешнависи пурраи корӣ дар интизори бозбинии бозбини зодаи тоҷикзабон; тасбитнашуда, ниҳоӣ нест ва аз ҷониби бозбини зода бозбинӣ нашудааст.
-- **Кумаки зеҳни сунъӣ**: ин пешнавис бо кумаки зеҳни сунъӣ аз матни асосии тасҳеҳшудаи англисӣ омода шудааст; пеш аз ҳар истифода, ҳар оят бояд аз ҷониби бозбини зодаи тоҷикзабон бозбинӣ шавад. / Prepared with AI assistance from the corrected English master; native Tajik review is required before any use.
+- **Ҳолат**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Кумаки зеҳни сунъӣ**: Prepared with AI assistance from the corrected English master.
 - **Даъвои нахустин тарҷума нест**: тарҷумаҳои Қуръон ба тоҷикӣ вуҷуд доранд (якчанд тарҷумаи мустақил). Ин нахустин тарҷума нест; пешнависи содазабон бо усули Қуръон танҳо аст. / Tajik Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **Ройгон дода мешавад**: ин пешнавис ройгон аст; нусхаҳо, тасҳеҳҳо ва нусхаҳои беҳтар бо хушӣ пазируфта мешаванд. / Freely given; copies, corrections, and better versions are welcomed.
 

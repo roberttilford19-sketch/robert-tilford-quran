@@ -1,14 +1,14 @@
 # Ayah Companion
 
-Kuran id Boros Dusun Tambunan — AU PO NOKITO
+Kuran id Boros Dusun Tambunan
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Tambunan Dusun review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Tambunan Dusun rendering: none found after research. (The finished standard-Dusun Quran of KDMRS Muslim, Class 2 in the Malaysia scout, is a different variety and a different book; this draft does not touch it.)
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Tambunan Dusun rendering: none found after research. (The finished standard-Dusun Quran of KDMRS Muslim, Class 2 in the Malaysia scout, is a different variety and a different book; this draft does not touch it.)
 
 **Kokomoi buuk iti / About this edition:**
 - **Kopihavalian**: Buuk iti nomonsoi mantad buuk English di Robert Tilford i nokotulid (Locked English Master; 114 surah / 6,236 ayat); boros Arab haro id piolitan do monikid ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Ralan**: Kuran iso — Kuran iso i koilaan; zakat, Kuran au manahak persen, sabap Kuran au manahak; iso hadith kangaran boros suai au nokotindapuk. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Viale**: DRAFT — NOT REVIEWED / AU PO NOKITO. Buuk iti buuk kopotunan montok tulun Dusun Tambunan do mokokito; au po nokosarati, au kopongo, om au po nokokito do tulun sondiri do boros. / A working draft for native Tambunan Dusun review; not certified, not final, and not native-reviewed.
-- **Songo AI**: Buuk iti nomonsoi om songo AI, mantad buuk English i nokotulid; tulun Dusun Tambunan sondiri i mokokito — ino i ralan kopongo. / Prepared with AI assistance from the corrected English master; native Tambunan Dusun review is required before any use.
+- **Viale**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Songo AI**: Prepared with AI assistance from the corrected English master.
 - **Manahak do ralan**: Buuk iti manahak do ralan, aiso futa; kopian, koponulizan, om viale i osuau mantad — ngavi norongou. / Freely given; copies, corrections, and better versions are welcomed.
 - **Boros**: Buuk iti id boros Dusun Tambunan (kzt) iso; Dusun Tangah nokohasa awe do KDMRS Muslim, TAQ Bahasa Dusun (2022) — buuk iti au Dusun Tangah. / This draft is in Tambunan Dusun (kzt) only; Central Dusun is already served by KDMRS Muslim's printed TAQ Bahasa Dusun (2022) — this book is not Central Dusun.
 

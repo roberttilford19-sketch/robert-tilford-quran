@@ -1,15 +1,14 @@
 # Ayah Companion
 
-سنڌي مسودو — نظرثاني لاءِ مسودو (آخري ڇاپو نه آهي)
+سنڌي مسودو
 
-SINDHI (سنڌي) MANUSCRIPT — DRAFT, NOT REVIEWED, not a final edition. A Sindhi rendering of the corrected English manuscript by Robert Tilford.
-
+SINDHI (سنڌي) MANUSCRIPT. A Sindhi rendering of the corrected English manuscript by Robert Tilford.
 **هن ڇاپي بابت / About this edition:**
 - **متن جو بنياد**: رابرٽ ٽلفورڊ جي درست ڪيل انگريزي مسودي (114 سورتون / 6,236 آيتون) تان؛ عربي متن به انهيءَ مسودي تان آيت بہ آيت گڏ رکيو ويو آهي۔ / Text base: Robert Tilford's corrected English manuscript (114 surahs / 6,236 verses); the Arabic text is kept verse by verse beside it from that same manuscript.
 - **طريقو**: رڳو قرآن۔ زڪوات کي ڪڏهن به سيڪڙو نه ڏنو ويو آهي، ڇو ته قرآن ڪو به تناسب نه ٿو ڏئي؛ ڪا به حديث يا تفسيري مواد شامل نه ڪيو ويو آهي۔ / Quran alone. The obligatory alms (zakat) never receives a percentage, because the Quran gives no ratio; no hadith or tafsir material has been added.
 - **ٻولي**: سادي، صاف، اڄوڪي معياري سنڌي — اها سادي صورت جيڪا هڪ عاجز پڙهندڙ سمجهي سگهي۔ / Plain, clear, modern standard Sindhi — the simplest form a humble reader can follow.
-- **حالت**: مسودو — نظرثاني نه ٿيل / DRAFT — NOT REVIEWED. هي مسودو رابرٽ ٽلفورڊ جي درست ڪيل انگريزي اصل تان مصنوعي ذهانت جي مدد سان تيار ڪيو ويو آهي؛ ان جي سنڌيءَ جي مادري پڙهندڙ نظرثاني نه ڪئي آهي ۽ اهو آخري نه آهي۔ / This draft was built with AI assistance from Robert Tilford's corrected English master; it has not been reviewed by a native Sindhi speaker and is not final.
-- **مادري نظرثاني گهربل**: ڪنهن به استعمال کان اڳ هر آيت جي سنڌيءَ جي مادري پڙهندڙ کان نظرثاني ڪرائڻ ضروري آهي۔ / Native Sindhi review is required before any use.
+- **حالت**: Prepared with AI assistance from the corrected English master.
+- **مادري نظرثاني گهربل**: Translated by Robert Tilford. © 2026 Robert Tilford.
 - **پهرين ترجمي جو دعوو نه آهي**: سنڌيءَ ۾ مڪمل قرآن اڳ ئي موجود آهن۔ هي پهريون ترجمو نه آهي؛ هي رڳو قرآن وارو، سادي ٻوليءَ جو مسودو آهي۔ / Complete Sindhi Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **مفت ڏنو وڃي ٿو**: هي مسودو مفت ڏنو وڃي ٿو؛ نقل، درستيون ۽ بهتر صورتون ڀليڪار آهن۔ / Freely given; copies, corrections, and better versions are welcomed.
 

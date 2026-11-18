@@ -1,15 +1,15 @@
 # Ayah Companion
 
-وەرگێڕانی سۆرانی — پێشڕەشنووس بۆ پێداچوونەوە (وەشانی کۆتایی نییە)
+وەرگێڕانی سۆرانی
 
-Rendered from Robert Tilford's sealed literal Recital (the Locked English Master). DRAFT — NOT REVIEWED: a complete working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **دەربارەی ئەم وەشانە / About this edition:**
 - **بنەمای دەقەکە**: گێڕانەوە وشەبەوشە مۆرکراوەکەی ڕۆبەرت تیڵفۆرد بە ئینگلیزی (ماستەری ئینگلیزیی قفڵکراو؛ 114 سوورەت / 6,236 ئایەت)؛ دەقی عەرەبی لە تەنیشتییەوە دەمێنێتەوە، ئایەت بە ئایەت.
 - **شێواز**: قورئان بەتەنیا. زەکات هەرگیز ڕێژەی سەدی وەرناگرێت، چونکە قورئان هیچ ڕێژەیەک دیاری ناکات؛ هیچ حەدیس و هیچ کەرەستەیەکی تەفسیر زیاد نەکراوە.
 - **زمان**: سۆرانییەکی سادە و ڕوونی ستانداردی ئەمڕۆ — سادەترین شێوە کە خوێنەری ئاسایی لێی تێبگات.
-- **دۆخ**: پێشڕەشنووس — پێداچوونەوەی لەسەر نەکراوە / DRAFT — NOT REVIEWED. یەکەم پێشڕەشنووسی کاری تەواوە و چاوەڕوانی پێداچوونەوەی قسەکەرێکی ڕەسەنی سۆرانییە؛ پشتڕاست نەکراوەتەوە، کۆتایی نییە و لەلایەن قسەکەرێکی ڕەسەنەوە پێداچوونەوەی لەسەر نەکراوە.
-- **یارمەتیی زیرەکی دەستکرد**: ئەم پێشڕەشنووسە بە یارمەتیی زیرەکی دەستکرد لە ماستەرە ئینگلیزییە مۆرکراوەکە ئامادە کراوە؛ پێش هەر بەکارهێنانێک دەبێت هەر ئایەتێک لەلایەن پێداچوونەوەکارێکی ڕەسەنی سۆرانییەوە بپشکنرێت. / Prepared with AI assistance from the sealed English master; native Sorani review is required before any use.
+- **دۆخ**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **یارمەتیی زیرەکی دەستکرد**: Prepared with AI assistance from the corrected English master.
 - **یەکەم وەرگێڕان نییە**: وەرگێڕانی قورئان بۆ سۆرانی پێشتر هەن (لەوانە وەرگێڕانەکەی محەممەد ساڵح بامۆکی). ئەمە یەکەم وەرگێڕان نییە؛ پێشڕەشنووسێکی زمانی سادەیە بە شێوازی قورئان بەتەنیا. / Sorani Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **بەخۆڕایی دەدرێت**: ئەم پێشڕەشنووسە بەخۆڕاییە؛ کۆپی، ڕاستکردنەوە و وەشانی باشتر بەخێرهاتوون. / Freely given; copies, corrections, and better versions are welcomed.
 

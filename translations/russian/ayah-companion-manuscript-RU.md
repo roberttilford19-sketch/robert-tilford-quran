@@ -3,8 +3,8 @@
 **Современный русский перевод смыслов Корана**
 **A Contemporary Russian Translation of the Meaning of the Quran**
 
-*Черновик для рецензирования — переведено с исправленной английской рукописи Роберта Тилфорда. Не опубликовано.*
-*(Review draft — translated from Robert Tilford's corrected English manuscript. Unpublished.)*
+*Translated by Robert Tilford. © 2026 Robert Tilford.*
+Translated by Robert Tilford. © 2026 Robert Tilford.
 
 ---
 

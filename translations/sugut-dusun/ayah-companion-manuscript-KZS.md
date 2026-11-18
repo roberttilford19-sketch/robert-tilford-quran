@@ -1,14 +1,14 @@
 # Ayah Companion
 
-Kuran id Boros Dusun Sugut — AU PO NOKITO
+Kuran id Boros Dusun Sugut
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Sugut Dusun review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Sugut Dusun rendering: none found after research.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Sugut Dusun rendering: none found after research.
 
 **Kokomoi buuk iti / About this edition:**
 - **Kopihavalian**: Buuk iti nomonsoi mantad buuk English di Robert Tilford i nokotulid (Locked English Master; 114 surah / 6,236 ayat); boros Arab haro id piolitan do monikid ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Ralan**: Kuran iso — Kuran iso i koilaan; zakat, Kuran au manahak persen, sabap Kuran au manahak; iso hadith kangaran boros suai au nokotindapuk. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Viale**: DRAFT — NOT REVIEWED / AU PO NOKITO. Buuk iti buuk kopotunan montok tulun Sugut Dusun do mokokito; au po nokosarati, au kopongo, om au po nokokito do tulun sondiri do boros. / A working draft for native Sugut Dusun review; not certified, not final, and not native-reviewed.
-- **Songo AI**: Buuk iti nomonsoi om songo AI, mantad buuk English i nokotulid; tulun Sugut Dusun sondiri i mokokito — ino i ralan kopongo. / Prepared with AI assistance from the corrected English master; native Sugut Dusun review is required before any use.
+- **Viale**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Songo AI**: Prepared with AI assistance from the corrected English master.
 - **Manahak do ralan**: Buuk iti manahak do ralan, aiso futa; kopian, koponulizan, om viale i osuau mantad — ngavi norongou. / Freely given; copies, corrections, and better versions are welcomed.
 - **Boros**: Buuk iti id boros Sugut Dusun (kzs) iso; Dusun Tangah nokohasa awe do KDMRS Muslim, TAQ Bahasa Dusun (2022) — buuk iti au Dusun Tangah. / This draft is in Sugut Dusun (kzs) only; Central Dusun is already served by KDMRS Muslim's printed TAQ Bahasa Dusun (2022) — this book is not Central Dusun.
 

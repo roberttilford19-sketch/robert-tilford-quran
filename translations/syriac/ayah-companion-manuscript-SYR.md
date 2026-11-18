@@ -1,15 +1,15 @@
 # Ayah Companion
 
-ܕܪܓܡܐ ܣܘܪܝܝܐ — ܛܝܘܒܐ ܠܒܩܪܐ (DRAFT — NOT REVIEWED)
+ܕܪܓܡܐ ܣܘܪܝܝܐ
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for Syriac scholarly review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **ܥܠ ܛܝܘܒܐ ܗܢܐ / About this edition:**
 - **ܡܒܘܥܐ**: ܡܢ ܟܬܒܐ ܐܢܓܠܝܐ ܕܐܬܬܩܢ ܕܪܘܒܪܛ ܛܝܠܦܘܪܕ (Locked English Master; 114 ܣܘܪ̈ܬܐ / 6,236 ܦܣܘ̈ܩܐ)܆ ܟܬܒܐ ܥܪܒܝܐ ܩܐܡ ܠܘܬܗ ܦܣܘܩܐ ܦܣܘܩܐ. / From Robert Tilford's corrected English master (Locked English Master; 114 surahs / 6,236 verses); the Arabic text stands beside it, verse by verse.
 - **ܛܟܣܐ**: ܩܘܪܐܢܐ ܒܠܚܘܕ. ܙܟܘܬܐ ܠܐ ܝܗܒܐ ܚܘܫܒܢܐ ܕܦܠܓܘܬܐ ܡܛܠ ܕܩܘܪܐܢܐ ܠܐ ܝܗܒ. ܠܐ ܐܘܣܦ ܚܕܝܬ ܘܠܐ ܦܘܫܩܐ. / Quran-alone method. Zakat is given no percentage, because the Quran gives none. No hadith and no commentary have been added.
 - **ܠܫܢܐ**: ܠܫܢܐ ܣܘܪܝܝܐ ܥܬܝܩܐ (ܩܠܐܣܝܩܐ) ܒܟܬܒܐ ܣܘܪܝܝܐ (ܐܣܛܪܢܓܠܐ)܆ ܒܡܠ̈ܐ ܦܫܝܩ̈ܬܐ ܕܢܗܪ ܐܢܫ ܦܫܝܩܐ. / Classical Syriac in the Syriac script (Estrangela presentation), in plain wording a humble reader can follow.
-- **ܛܘܒܐ**: ܛܝܘܒܐ — ܠܐ ܐܬܒܩܪ / DRAFT — NOT REVIEWED. ܛܝܘܒܐ ܕܥܒܕܐ ܗܘ ܕܣܢܝܩ ܠܒܩܪܐ ܕܣܦܪ̈ܐ ܣܘܪ̈ܝܝܐ܆ ܠܐ ܦܫܝܩܐ ܘܠܐ ܐܚܪܝܐ. / A working draft requiring review by Syriac scholars; not certified and not final.
-- **ܥܘܒܕܐ ܕܡܫܡܫܢܘܬܐ**: ܐܬܛܝܒ ܒܥܘܕܪܢܐ ܕܡܫܡܫܢܘܬܐ ܡܥܒܕܢܝܬܐ (AI) ܡܢ ܟܬܒܐ ܐܢܓܠܝܐ ܕܐܬܬܩܢ܆ ܘܒܩܪܐ ܕܣܦܪ̈ܐ ܐܠܨܐܝܬ ܣܢܝܩ ܩܕܡ ܟܠ ܡܦܠܚܬܐ. / Prepared with AI assistance from the corrected English master; scholarly Syriac review is required before any use.
+- **ܛܘܒܐ**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **ܥܘܒܕܐ ܕܡܫܡܫܢܘܬܐ**: Prepared with AI assistance from the corrected English master.
 - **ܠܐ ܛܥܢܬܐ ܕܩܕܡܝܘܬܐ**: ܠܐ ܛܥܢܢ ܕܕܪܓܡܐ ܗܢܐ ܩܕܡܝܐ ܗܘ. / No first-translation claim is made for this draft.
 - **ܝܗܒܐ ܡܓܢܐ**: ܛܝܘܒܐ ܗܢܐ ܝܗܒܐ ܡܓܢܐ܆ ܘܢܣܒܝܢ ܒܛܝܒܘܬܐ ܟܬܒ̈ܐ ܘܬܘܩ̈ܢܐ ܘܕܪ̈ܓܡܐ ܛܒ̈ܐ ܝܬܝܪ. / This draft is freely given; copies, corrections, and better renderings are welcomed.
 

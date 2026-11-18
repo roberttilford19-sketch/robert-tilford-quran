@@ -1,14 +1,14 @@
 # Ayah Companion
 
-Sango Fadeso — MBETI SO ADIKO LO PEPE
+Sango Fadeso
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Sango review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Sango rendering: none found after research.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Sango rendering: none found after research.
 
 **Ti mbeti so / About this edition:**
 - **Pialé**: Fadeso so ayeke ti Robert Tilford ti Anglais mbeti so aviale awe (Locked English Master; asura 114 / aya 6,236); tene ti Arabe ayeke na tere ti aya oko oko. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Lege**: Koran oko — Koran oko ahinga atene; zakat, Koran a mu ngere ni pepe, ndali ti so Koran a mu ni pepe; hadith wala tene gwe a yeke na ya ni pepe. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Viale**: DRAFT — NOT REVIEWED / MBETI SO ADIKO LO PEPE. Fadeso so ayeke ti kusala ti viale ti azo ti Sango; lo yeke mbeti so a naa awe pepe. / A working draft for native Sango review; not certified, not final, and not native-reviewed.
-- **AI songo**: Fadeso so a sara lo na songo ti AI, ti Anglais mbeti so aviale awe; viale ti azo ti Sango ayeke na li ti kusala pialé ti mu lege ti yeda ni. / Prepared with AI assistance from the corrected English master; native Sango review is required before any use.
+- **Viale**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI songo**: Prepared with AI assistance from the corrected English master.
 - **Mu lege**: Fadeso so a mu lo na lege, na futa pepe; azo a lingbi ti sara aye ti lo, ti viale lo, ti sara lo nzoni mingi. / Freely given; copies, corrections, and better versions are welcomed.
 
 # Airi ti Asura

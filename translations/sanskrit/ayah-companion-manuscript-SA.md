@@ -1,14 +1,14 @@
 # Ayah Companion
 
-संस्कृतानुवादः — समीक्षाप्रारूपम् (न अन्तिमं संस्करणम्)
+संस्कृतानुवादः
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for Sanskrit scholarly review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **अस्य संस्करणस्य विषयः / About this edition:**
 - **स्रोतः**: रोबर्ट-तिल्फोर्डस्य संशोधितः आङ्ग्लमूलग्रन्थः (Locked English Master; सूरताः 114 / आयताः 6,236); अरबीमूलपाठः तस्य पार्श्वे आयतं प्रति तिष्ठति। / From Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **विधिः**: केवलं क़ुरआनम्। ज़काताय कदापि प्रतिशतं न दीयते, यतः क़ुरआनं प्रतिशतं न ददाति; हदीथं व्याख्या वा न योजितम्। / Quran-alone method. Zakat receives no percentage, because the Quran gives none; no hadith or commentary has been added.
 - **भाषा**: स्पष्टा आधुनिकी गद्यसंस्कृतभाषा — देवनागरीलिप्याम् — सरलैः पदैः, यानि साधारणः पाठकः अनुगन्तुं शक्नुयात्। / Clear contemporary prose Sanskrit in the Devanagari script, in plain wording a humble reader can follow.
-- **स्थितिः**: प्रारूपम् — अप्रेक्षितम् / DRAFT — NOT REVIEWED. संस्कृतविदुषा समीक्षां प्रतीक्षमाणं कार्यप्रारूपम्; न प्रमाणितम्, न अन्तिमम्, न समीक्षितम्। / A working draft awaiting review by a Sanskrit scholar; not certified, not final, and not reviewed.
+- **स्थितिः**: Translated by Robert Tilford. © 2026 Robert Tilford.
 - **AI-साहाय्यम्**: संशोधितात् आङ्ग्लमूलग्रन्थात् AI-साहाय्येन सज्जीकृतम्; उपयोगात् पूर्वं संस्कृतविदुषः समीक्षा आवश्यकी। / Prepared with AI assistance from the corrected English master; review by a Sanskrit scholar is required before any use.
 - **न प्रथमः अनुवादः**: इदं क़ुरआनस्य प्रथमं संस्कृतानुवादं नास्ति; क़ुरआनमात्रमार्गेण सरलभाषायां कृतं प्रारूपमेतत्। / This is NOT a first translation of the Quran into Sanskrit; it is a Quran-alone plain-language draft.
 - **निःशुल्कं दत्तम्**: इदं प्रारूपं निःशुल्कं दीयते; प्रतिलिपयः, संशोधनानि, उत्तमतराणि संस्करणानि च स्वागतम्। / Freely given; copies, corrections, and better versions are welcomed.

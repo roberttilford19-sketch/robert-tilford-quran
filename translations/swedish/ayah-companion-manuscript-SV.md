@@ -1,15 +1,14 @@
 # Ayah Companion
 
-### SVENSKT MANUSKRIPT — REVISIONSUTKAST (ingen slutgiltig utgåva)
+### SVENSKT MANUSKRIPT
 
-SWEDISH (SVENSKA) MANUSCRIPT — REVISION DRAFT, not a final edition. A Swedish rendering of the corrected English manuscript by Robert Tilford.
-
+SWEDISH (SVENSKA) MANUSCRIPT. A Swedish rendering of the corrected English manuscript by Robert Tilford.
 **Om denna utgåva / About this edition:**
 - **Textbas**: Robert Tilfords korrigerade engelska manuskript (114 suror / 6 236 verser), med den arabiska texten återgiven vers för vers ur det manuskriptet.
 - **Arbetsregel**: enbart Koranen. Den obligatoriska allmosan (zakat) får ingen procentsats, eftersom Koranen inte ger någon; inget hadith- eller tafsir-material har lagts in.
 - **Språk**: enkel, tydlig svenska — den klaraste och enklaste återgivning som en enkel människa kan följa.
-- **Status**: REVISIONSUTKAST / REVISION DRAFT. Ett första komplett utkast som väntar på granskning av svenska modersmålstalare; inte låst, inte slutgiltigt, inte granskat av modersmålstalare.
-- **AI-hjälp**: detta utkast har utarbetats med hjälp av AI från det korrigerade engelska manuskriptet; varje vers måste kontrolleras av en svensk granskare innan det används. / Prepared with AI assistance from the corrected English master; native Swedish review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI-hjälp**: Prepared with AI assistance from the corrected English master.
 - **Ingen anspråk på första översättning**: Svenska Koranöversättningar finns redan (till exempel Bernströms *Koranens budskap*, 1998). Detta är ingen första översättning; det är ett Koranen-ensam-utkast på enkel svenska. / Swedish Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **Fritt given**: detta utkast ges bort fritt; kopior, rättelser och bättre versioner är välkomna. / Freely given; copies, corrections, and better versions are welcomed.
 

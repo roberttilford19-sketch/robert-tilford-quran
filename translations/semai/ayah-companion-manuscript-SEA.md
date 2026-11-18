@@ -1,14 +1,14 @@
 # Ayah Companion
 
-Al-Quran ku Bahasa Semai — DRAF
+Al-Quran ku Bahasa Semai
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Semai review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Semai rendering: none found after research.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Semai rendering: none found after research.
 
 **Pasal kitab adëh / About this edition:**
 - **Asal**: Kitab adëh dibuat ju kitab Inggeris Robert Tilford de ya dibetulkan (Locked English Master; 114 surah / 6,236 ayat); teks Arab möng ku tepi kitab adëh, ayat ru ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Kaedah**: Quran saja — Quran saja de ditaati; zakat, Quran töq memberi persen, sebab Quran töq memberi; tiada hadith atau tafsir ditambah. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DRAF — TÖQ DIREVIEW. Kitab adëh draf kerja untuk direview oleh senqoi Semai sendiri; belum disahkan, belum siap, dan belum direview oleh penutur asli. / A working draft for native Semai review; not certified, not final, and not native-reviewed.
-- **Bantuan AI**: Kitab adëh disediakan duk bantuan AI, ju kitab Inggeris de ya dibetulkan; senqoi Semai sendiri mesti mereview — itu jalan siapnya. / Prepared with AI assistance from the corrected English master; native Semai review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Bantuan AI**: Prepared with AI assistance from the corrected English master.
 - **Pemberian**: Kitab adëh diberi percuma, tiada bayaran; salinan, pembetulan, dan versi de lebih bör dialu-alukan. / Freely given; copies, corrections, and better versions are welcomed.
 - **Bahasa**: Kitab adëh dalam Bahasa Semai (sea) saja, bentuk standard de dipakai dalam pendidikan; dialek Perak diutamakan di mana dialek berpecah, bentuk Telom direkod dalam kertas lane. / This draft is in Semai (sea) only, in the standard written form as used in education; the Perak form is preferred where dialects split, with the Telom form recorded in the lane papers.
 

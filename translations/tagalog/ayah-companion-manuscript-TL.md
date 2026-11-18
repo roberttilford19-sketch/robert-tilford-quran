@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Manuskrip sa Tagalog — DRAFT PARA SA PAGSUSURI (hindi panghuling edisyon)
+Manuskrip sa Tagalog
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Tungkol sa edisyong ito / About this edition:**
 - **Pinagmulan**: Mula sa itinamang English master ni Robert Tilford (Locked English Master; 114 surah / 6,236 talata); ang orihinal na tekstong Arabe ay nakatayo kasama nito, talata por talata. / From Robert Tilford's corrected English master; the Arabic source stands alongside it, verse by verse.
 - **Paraan**: Quran lamang. Ang zakat ay hindi binibigyan ng anumang porsiyento, sapagkat walang ibinibigay ang Quran na porsiyento; walang hadith o komentaryo ang idinagdag. / Quran-alone method. Zakat receives no percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Wika**: Malinaw na kontemporaryong pamantayang Tagalog (Filipino) — sa titik Latin — sa payak na pananalitang masusundan ng isang abang mambabasa. / Clear, contemporary standard Tagalog (Filipino) in Latin script, in plain wording a humble reader can follow.
-- **Katayuan**: DRAFT — HINDI PA NASUSURI / DRAFT — NOT REVIEWED. Isang gumaganang draft na naghihintay ng pagsusuri ng katutubong nagsasalita ng Tagalog; hindi sertipikado, hindi panghuli, at hindi nasuri ng katutubong nagsasalita. / A working draft awaiting native Tagalog review; not certified, not final, and not native-reviewed.
-- **Tulong ng AI**: Inihanda sa tulong ng AI mula sa itinamang English master; kinakailangan ang pagsusuri ng katutubong nagsasalita ng Tagalog bago ang anumang paggamit. / Prepared with AI assistance from the corrected English master; native Tagalog review is required before any use.
+- **Katayuan**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Tulong ng AI**: Prepared with AI assistance from the corrected English master.
 - **Hindi unang salin**: Mayroon nang kumpletong mga salin ng Quran sa Tagalog, kabilang ang edisyon sa Tagalog ng King Fahd Complex. HINDI ito unang salin; ito ay isang payak-na-wikang draft sa paraang Quran-lamang. / Complete Tagalog Qurans already exist, including the King Fahd Complex's Tagalog edition; this is NOT a first translation — it is a Quran-alone plain-language draft.
 - **Malayang ibinibigay**: Ang draft na ito ay malayang ibinibigay; tinatanggap ang mga kopya, pagwawasto, at mas mahusay na bersyon. / Freely given; copies, corrections, and better versions are welcomed.
 

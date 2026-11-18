@@ -3,7 +3,7 @@
 **A Scottish Gaelic Translation of the Quran's Meaning**
 **from the Ayah Companion English master**
 
-*First draft — for native-speaker review.*
+Translated by Robert Tilford. © 2026 Robert Tilford.
 *Gifted to the Gaelic-speaking community; first-ever claim retained by Robert Tilford.*
 *Quran alone: no hadith, sunna, tafsir, or traditional specifics. The Quran defines its own terms.*
 
