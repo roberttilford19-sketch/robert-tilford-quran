@@ -18913,7 +18913,7 @@ avavaga ni masabu dai kobu dai impurity, purify yourselfes. Avavaga ni masabu il
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Fun'ri-furirighari kerevai dadakl'o tumondari, a votgra rigteousness, a tumondari dai aiya babotari sent avominda dai muhammad — a fafaka ajagha beká arifama nenda Bajari — nu remits nenda ari ekoko, a reliefes nenda konserns.
+**47:2** Fun'ri-furirighari kerevai dadakl'o tumondari, a votgra rigteousness, a tumondari dai aiya babotari sent avominda dai Muhammad — a fafaka ajagha beká arifama nenda Bajari — nu remits nenda ari ekoko, a reliefes nenda konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
