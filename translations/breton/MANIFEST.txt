@@ -4,8 +4,14 @@ Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 ("get them al
 An earlier Ayah Companion endangered-language lane, completed before the Q-1 tier campaign.
 Built from the Locked English Master (the corrected manuscript) only.
 
-Status: a complete rendering of the Quran in Breton — all 6,236 verses, the whole
-book, nothing left out — with the Arabic text alongside.
+Status: a complete rendering of the Quran in Breton — all 6,236 verses, the
+whole book, nothing left out — with the Arabic text alongside. No
+first-translation claim is made. Verse-marker re-count at shelving (shelving
+run, 2026-11-14): 6,236 of 6,236 markers, first 1:1, last 114:6. Lane
+verification of record: Lane verification: PASS — 114 surah headers sequential
+1–114 and the full structural battery — VERIFICATION-BR.md. The full lane
+record (build report, verification and checker records, flags) stands in the
+workspace lane folder ~/workspace/ayah-breton/, unrepaired.
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Files:

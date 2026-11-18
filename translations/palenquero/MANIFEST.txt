@@ -9,7 +9,12 @@ genuine, complete language lane, and it is shelved now on the order above.
 Lane built 2026-10-04 (lane record: ~/workspace/ayah-palenquero/).
 
 Status: a complete rendering of the Quran in Palenquero — all 6,236 verses,
-the whole book, nothing left out — with the Arabic text alongside.
+the whole book, nothing left out — with the Arabic text alongside. No
+first-translation claim is made. Verse-marker re-count at shelving
+(2026-11-14): 6,236 of 6,236 markers, first 1:1, last 114:6. Lane verification
+of record: 114/114 headings, 6,236 verses, Arabic 6,462 runs identical to
+master/meta, 15/15 prostration markers, 0 [MISSING] (lane MANIFEST,
+~/workspace/ayah-palenquero/MANIFEST.txt).
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Record variance, carried openly: the lane MANIFEST of 2026-10-04 lists the

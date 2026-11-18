@@ -4,8 +4,16 @@ Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 ("get them al
 Tier 2 of the Q-1 Quran Gap campaign — lane CLOSED 2026-11-13 (campaign record: ~/workspace/quran-gap/TIER2-RUN-2026-11-13.md).
 Built from the Locked English Master (the corrected manuscript) only.
 
-Status: a complete rendering of the Quran in Malagasy — all 6,236 verses, the whole
-book, nothing left out — with the Arabic text alongside.
+Status: a complete rendering of the Quran in Malagasy — all 6,236 verses, the
+whole book, nothing left out — with the Arabic text alongside. No
+first-translation claim is made. Claim boundary, from the lane record: this is
+NOT a first Malagasy translation — complete Malagasy Qurans already exist,
+including the King Fahd Complex's Malagasy edition. Verse-marker re-count at
+shelving (shelving run, 2026-11-14): 6,236 of 6,236 markers, first 1:1, last
+114:6. Lane verification of record: Independent checker PASS WITH FLAGS
+(MATERIAL 0); the lane closed on the checker verdict. The full lane record
+(build report, verification and checker records, flags) stands in the
+workspace lane folder ~/workspace/ayah-malagasy/, unrepaired.
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Files:

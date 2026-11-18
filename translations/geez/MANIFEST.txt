@@ -4,8 +4,17 @@ Shelved 2026-11-14 on Robert Tilford's authorization of 2026-11-14 ("Proceed you
 Second-expansion shelving run (wave 2).
 Built from the Locked English Master (the corrected manuscript) only.
 
-Status: a complete rendering of the Quran in Ge'ez — all 6,236 verses, the whole
-book, nothing left out — with the Arabic text alongside.
+Status: a complete rendering of the Quran in Ge'ez — all 6,236 verses, the
+whole book, nothing left out — with the Arabic text alongside. No
+first-translation or priority claim is made, and no claim is made about any
+other rendering. HARD GATE, carried in the manuscript's own head in Ge'ez and
+English: THE DESK CANNOT READ GE'EZ. Verification of this lane is structural
+and mechanical only — no desk eyeball of the Ge'ez text exists or is claimed,
+and no faithfulness verdict is made or implied anywhere in this folder.
+Scholarly Ge'ez review is a hard gate: nothing in this lane may be described
+as checked beyond structure until a qualified Ge'ez reader rules. Verse-marker
+re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236 markers, first
+1:1, last 114:6.
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Lane verification of record: STRUCTURAL VERIFICATION ONLY, under the gate above. Amended verify.py PASS, and the lane census checker closes at problems 0 — verse and surah counts, marker placement, Arabic identity, and counted-token censuses. No faithfulness checker was run, by design. 482 reviewer-flag lines stand in the lane's flags files; surahs 20–21 carry no per-verse flags file (recorded openly in the lane manifest; the reviewer should give 20–21 a first-occurrence pass).

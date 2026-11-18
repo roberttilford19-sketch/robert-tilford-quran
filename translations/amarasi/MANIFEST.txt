@@ -8,6 +8,10 @@ lineage, in the Region-1 remainder wave, under Robert's
 Advance Rule of 2026-11-14.
 
 STATUS
+The status line stands inside the manuscript itself, on its face, with AI
+assistance labelled. SHELVING: prepared in shelving-pack/translations/amarasi/
+for centralised landing after an independent check. NOT PUSHED by this
+builder; no landing is claimed in this manifest.
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 COMPLETENESS
