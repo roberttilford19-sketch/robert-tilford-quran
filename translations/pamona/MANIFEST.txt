@@ -1,0 +1,89 @@
+AYAH COMPANION — PAMONA RENDERING
+MANIFEST — lane record, 2026-11-17
+
+ITEM
+Ayah Companion, Pamona (pmf) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the Region-1 remainder wave (Sulawesi batch,
+TOP BUILD CANDIDATES #3), under Robert's Advance Rule of
+2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Pamona review is required
+before any gifting or publication; review is invited. The status
+line stands inside the manuscript itself, on its face, with AI
+assistance labelled.
+SHELVING: staged in this lane's shelving pack only. The landing
+is centralized after the independent check; this lane does
+not push.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography — the modern Pamona orthography of the Kamus
+and the Bible.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: none
+found after research (Region-1 remainder scout, 2026-11-17).
+
+FILES
+GLOSSARY-PMF.md
+  4,249 bytes
+  SHA-256 72bbbd6e0d8833f0fa87accf5a89e33f74e37dfd8374bf18ee8cc2e78d601c87
+STYLEGUIDE-PMF.md (the lane's binding drafting law, settled before drafting)
+  6,550 bytes
+  SHA-256 01e985fc0a3d1372eecdce09156913fdf047d4fbd8e710f4f49ea3e9247429c5
+BUILD-REPORT-PMF.md
+  5,062 bytes
+  SHA-256 930984166a7cc57f6d313c301abe16f11810ed5e0bf370811293330228667281
+work/verification-pmf.json (verify.py record)
+  SHA-256 7fa5ad3e7b79ec38f28e667f278891db08471bfe5a00f48270dde4c4df0f50dd
+work/flags-pmf.txt — 13 named uncertain-seat items plus residue counts, carried to the reviewer.
+  3,420 bytes
+  SHA-256 14cab1ec90477b23522e66e9a0e982f1bec586ff939040a3558fb1ca0eee65f0
+ayah-companion-manuscript-PMF.md
+  2,300,284 bytes
+  SHA-256 b7099f23035d0560379d5e774a65c8e020214ca14adddc256f63217aeb888f35
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-17: PASS true. Headers 114, head order true, verses
+6,236, counts match meta true, continuity true, Arabic runs
+6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse lines
+6,236, slice ref mismatches 0, slice paragraph mismatches 0,
+percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_pmf.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Pue Ala 2,732
+(= God 2,732); ala 79 (= god 79); ala-ala 35 (= gods 35);
+Pue 980 (= Lord 969 + the 11 counted Master tokens);
+zakat at exactly the 13 keyed slots; sakat at exactly the 36
+keyed tokens (2:272 x3; 58:13 x2).
+Purple measurements (work/purple-measurements-pmf.json): Arabic
+matched 6,348 of 6,348; basmalah 114; markers 15; TOC 114, no
+mismatches; percent 0; note 56 present.
+Independent checker (separate agent): PASS WITH FLAGS — every count re-measured exact (CHECKER-REPORT-PMF-2026-11-17.md); 13 flags carried to the native reviewer, none blocking landing.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+
+NOTES CARRIED TO THE REVIEWER
+The Elisa/Elia pair (flags item 1) is the reviewer's first name
+ruling; the God-word Pue Ala and Lord-word Pue are Kamus- and
+Bible-attested; the basmalah composition, the possessive ai
+placement, and the regional-register set ride in the flags.
