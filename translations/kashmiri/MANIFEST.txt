@@ -17,4 +17,4 @@ unrepaired.
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Files:
-  2909065  1aff2732f814a5308dc4c26fe042a1b284f891f735c258ca23b867110c5b7508  ayah-companion-manuscript-KS.md
+  2908191  f5f27c520e0e64b2a33097228b784f954904ca4b55c2f67ebaa14a1dc8903147  ayah-companion-manuscript-KS.md
