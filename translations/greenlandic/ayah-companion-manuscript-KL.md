@@ -1,9 +1,9 @@
 # Ayah Companion
 
 **Kalaallisut — A Greenlandic Translation of the Meaning of the Quran**
-**Greenlandic Quran — first known after research; review draft for native Greenlandic speakers**
+**Greenlandic Quran — first known after research**
 
-*Translated from Robert Tilford's corrected English manuscript. Unpublished. Not for distribution — prepared as a gift for the Greenlandic community, pending native-speaker review.*
+*Translated from Robert Tilford's corrected English manuscript. Translated by Robert Tilford. © 2026 Robert Tilford.*
 
 ---
 
