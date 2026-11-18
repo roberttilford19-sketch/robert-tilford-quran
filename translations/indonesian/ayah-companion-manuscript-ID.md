@@ -2148,7 +2148,7 @@ Sebuah terjemahan Al-Qur'an kontemporer ke dalam Bahasa Indonesia, edisi dari ma
 
 *Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.*
 
-**4:1** Wahai manusia! Takutlah kepada Tuhanmu, yang telah menciptakan kalian dari satu jiwa, dan menciptakan darinya pasangannya, dan mengembangkan dari keduanya banyak laki-laki dan perempuan. Dan hormatilah Allah yang kepadanya kalian saling meminta, dan (hormatilah) orang tua. Sungguh, Allah selalu mengawasi kalian.
+**4:1** Wahai manusia! Takutlah kepada Tuhanmu, yang telah menciptakan kalian dari satu jiwa, dan menciptakan darinya pasangannya, dan mengembangkan dari keduanya banyak laki-laki dan perempuan. Dan hormatilah Allah yang kepadanya kalian saling meminta, dan orang tua. Sungguh, Allah selalu mengawasi kalian.
 
 يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍۢ وَٰحِدَةٍۢ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًۭا كَثِيرًۭا وَنِسَآءًۭ ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ ۚ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًۭا
 
