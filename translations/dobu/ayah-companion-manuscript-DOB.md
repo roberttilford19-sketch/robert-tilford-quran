@@ -18916,7 +18916,7 @@ The Quran in Dobu, rendered from Robert Tilford's corrected English master (the 
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Whil nidi yaita emisa, be paisewa palupalu, be emisa ꞌena toꞌase was sent mwaꞌuta ꞌena muhammad — be tauna spelling onaꞌaiꞌaila ꞌenega ꞌidi ꞌInapwana — tauna lemits ꞌidi toꞌumalina, be leliebes ꞌidi konselns.
+**47:2** Whil nidi yaita emisa, be paisewa palupalu, be emisa ꞌena toꞌase was sent mwaꞌuta ꞌena Muhammad — be tauna spelling onaꞌaiꞌaila ꞌenega ꞌidi ꞌInapwana — tauna lemits ꞌidi toꞌumalina, be leliebes ꞌidi konselns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
