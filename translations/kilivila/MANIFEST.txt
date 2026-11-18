@@ -1,0 +1,64 @@
+MANIFEST — KILIVILA (KIJ) LANE, 2026-11-18
+
+Item: Al-Quran Biga Boyowa — The Quran in Kilivila (Ayah Companion, KIJ)
+Author: Robert Tilford. Status: FINISHED WORK (gate-removal ruling
+2026-11-18; the finished-work status stands inside the book; no
+draft or not-reviewed language anywhere).
+Translator credit (inside the book): Translated by Robert Tilford.
+© 2026 Robert Tilford. AI assistance labelled plainly inside the
+book.
+Completeness: 6,236 of 6,236 verses, 114 surahs; first verse 1:1,
+last verse 114:6. Lane checker: 0 problems. Canonical verify: PASS.
+Text rule: the Arabic stands byte-identical beside the rendering —
+6,462 Arabic runs verified against the Locked English Master
+(MD5 064ee170806bb31f5bac3e75d2aa4d94).
+Script: Latin (practical orthography of the Kilivila Bible, 1984,
+and of Baldwin's Vocabulary of Biga Boyowa).
+Claim boundary: no first-translation claim is made. Standing
+wording: none found after research.
+Grounding: 302 of the 1,887 template keys grounded in the lane's
+published bases (dictionary 162, hand 123, control-aligned 14,
+empty articles 3) plus 2 extra keys; the remaining 1,585 keys fall
+back to transliteration under the disclosed table (65,902 tokens;
+0 of 6,236 verses byte-identical to the English). Every ungrounded
+and retained form is disclosed in work/flags-kij.txt and
+work/base/BASE-NOTES.md.
+Cure: the independent checker returned PASS WITH FLAGS with one
+material flag (F1, sense-narrowed dictionary admissions). The
+cure of record (ADDENDUM-KIJ-2026-11-18.md) re-keyed or refused
+every F1 key, re-screened all 178 dictionary keys on the same
+sense test, cured the disclosed stem keying (name -> yagala),
+and rebuilt the book through the lane pipeline with every gate
+re-run (checker 0 problems; canonical verify PASS; census
+unchanged). The grounding figures above are the corrected
+post-cure frame. The first scoped verification of the cure
+caught one rebuild defect — verse 5:6, which this book prints
+in two parts as the master prints it, had been joined in its
+verse line while its continuation paragraph also stood, so its
+second part printed twice; the two-part printing was restored
+with the cured text, and the lane was re-verified (record:
+ADDENDUM-KIJ-2026-11-18.md, section 8).
+Keying census: God 2,732 = Yaubada 2,732; god 79 + gods 35 =
+yaubada 114 (the control's shared form); Lord 969 + Master 11
+(merged, disclosed) = Guyau 980; zakat 13 of 13, no percentage;
+sadaqa family pilasi 36 of 36; basmalah 114; Elisha (Ilaisa)
+exactly 2.
+
+Files in this lane folder:
+- ayah-companion-manuscript-KIJ.md — 2,334,654 bytes —
+  sha256 953465d487f5107b9f3bb2fec2d11832c7f17dee1d83a125d00c751103b910f3
+- ayah-companion-aligned-KIJ.json — 3,450,437 bytes —
+  sha256 abc873a1fc3634c961283e55f8870bf0dc9ef7326aeb096a69c4384014003992
+- STYLEGUIDE-KIJ.md, GLOSSARY-KIJ.md, BUILD-REPORT-KIJ.md,
+  PURPLE-REPORT-KIJ-2026-11-18.md, ADDENDUM-KIJ-2026-11-18.md,
+  MANIFEST.txt
+- work/ — build, check, finish and Purple scripts; dict_kij.py
+  (the lexicon of record); base/ (banked dictionary PDF and Bible
+  control with BASE-NOTES.md and the bridge record);
+  flags-kij.txt.
+- shelving-pack/translations/kilivila/ — exactly two files:
+  ayah-companion-manuscript-KIJ.md and MANIFEST.txt (this file).
+
+Landing: the lane lands on the GitHub shelf on the scoped
+independent verification of the cure, under the Pipeline Landing
+Authorization (2026-11-14). Nothing was posted or sent.
