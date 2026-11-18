@@ -15,4 +15,4 @@ The full lane record (build report, verification and checker records, flags)
 stands in the workspace lane folder ~/workspace/ayah-navajo/, unrepaired.
 
 Files:
-  1983200  5a7c51c6f72cdb1fa0218493d20d1957a8e1c06b7f7ece3b290d8f480e971a51  ayah-companion-manuscript-NV.md
+  1983063  374b9a493d68e60e38698813228a514451fa0c9dd204fdca716bae700d31ce98  ayah-companion-manuscript-NV.md
