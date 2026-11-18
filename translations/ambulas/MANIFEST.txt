@@ -48,8 +48,8 @@ work/flags-abt.txt — 15 named uncertain-seat items plus residue counts, carrie
   4,964 bytes
   SHA-256 5e980e67863e77dc0c43f0d029b26355093fe30e3bfaf2edb8442f2f23931a08
 ayah-companion-manuscript-ABT.md
-  2,269,544 bytes
-  SHA-256 5c9a3291f6285eaed235945efacc4dab624c3bcb3a55f33df2de70e72b20fa15
+  2,269,047 bytes
+  SHA-256 8e97991f7f5eb030051b62d4c98789f76302605207c93a9e8dd3b74703f16c12
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
