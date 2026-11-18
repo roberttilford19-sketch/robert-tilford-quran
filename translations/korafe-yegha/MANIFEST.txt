@@ -49,8 +49,8 @@ work/flags-kpr.txt — 13 named uncertain-seat items plus residue counts, carrie
   4,557 bytes
   SHA-256 6ffb8a1d08276455830e16797fc9bcd4c13dc3a41060f9dc36db38b65ce5a7be
 ayah-companion-manuscript-KPR.md
-  2,298,196 bytes
-  SHA-256 d42c40a8c0faf5c01fcd5210cf99f8d9135d07c3315b6b90e01dc1d4d3dc0183
+  2,297,623 bytes
+  SHA-256 ed0385e53d736e4ac105a34b8f1fee2d84d6dd8f24ab4197cda9a959a69f9bc8
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
