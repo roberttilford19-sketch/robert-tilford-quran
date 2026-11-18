@@ -24,4 +24,4 @@ extra English-residue gate PASS, 2026-11-12
 
 Files:
   20417083  39468b362b3a65054eec3083e8c0c555fd7e8e586c922b5328411d2b4a77a523  Ayah_Companion_Tilford_Kazakh_Manuscript.pdf (906 pp)
-   2803489  5f2b9d44111dcb8b47145069a93267ac54283a51614cd6f38dfb2cd97386f670  ayah-companion-manuscript-KK.md
+   2802748  0d51a1099d8598b898ca8b921c8dada948ae0b937685b6867de35b9b597e7858  ayah-companion-manuscript-KK.md
