@@ -18914,7 +18914,7 @@ sapos yu are insait long stat bilong impurity, purify yourselves. Sapos yu are i
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Whil emtupela husat bilip, na wok rigteousness, na bilip insait long wanem bin sent daun long muhammad — na em stap tok tru long bilong ol Bikpela — em remits bilong ol sin, na relieves bilong ol konserns.
+**47:2** Whil emtupela husat bilip, na wok rigteousness, na bilip insait long wanem bin sent daun long Muhammad — na em stap tok tru long bilong ol Bikpela — em remits bilong ol sin, na relieves bilong ol konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
