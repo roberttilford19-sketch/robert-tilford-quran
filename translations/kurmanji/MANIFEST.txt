@@ -69,4 +69,4 @@ lane's residue gate PASS (0 genuine), 2026-11-12
 
 Files:
   20282242  62231940353ac364ce8324bc9df478719d44feaacb3dfb1708cb806297818e42  Ayah_Companion_Tilford_Kurmanji_Manuscript.pdf (863 pp)
-   2249491  03c830159de61d3dd8cf083183b5c4caa720105f3b19307b0dcfb6673d0f75be  ayah-companion-manuscript-KMR.md
+   2248902  06ec50ec5e05d86caff3731183917f75fa8ca274f8927cad785891cf5f38edd3  ayah-companion-manuscript-KMR.md
