@@ -49,8 +49,8 @@ work/flags-pmf.txt — 13 named uncertain-seat items plus residue counts, carrie
   3,420 bytes
   SHA-256 14cab1ec90477b23522e66e9a0e982f1bec586ff939040a3558fb1ca0eee65f0
 ayah-companion-manuscript-PMF.md
-  2,300,284 bytes
-  SHA-256 b7099f23035d0560379d5e774a65c8e020214ca14adddc256f63217aeb888f35
+  2,299,786 bytes
+  SHA-256 57df4167490720b818e3af117a15076540c6469f173d24f1b4d5fd693162cadd
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
