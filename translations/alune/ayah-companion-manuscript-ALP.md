@@ -18914,7 +18914,7 @@ pise ale ete empai stat impurity, puripy kele. Pise ale ete ill, or keu, or esa 
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Kena mere sia persaye, kai work rigteousness, kai persaye empai saisa mere natuele rulu empai muhammad — kai ile ete tinai bei sie eni Tuhane — ile remits sie eni losa, kai reliebes sie eni konserns.
+**47:2** Kena mere sia persaye, kai work rigteousness, kai persaye empai saisa mere natuele rulu empai Muhammad — kai ile ete tinai bei sie eni Tuhane — ile remits sie eni losa, kai reliebes sie eni konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
