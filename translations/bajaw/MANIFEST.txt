@@ -61,8 +61,8 @@ work/flags-bdr.txt — 9 named uncertain-seat items plus residue counts, carried
   5,261 bytes
   SHA-256 b72be4cf2275bd38abfbf656e2ae758061b4ff3b85fce1c469a9c9c54cd34b6a
 ayah-companion-manuscript-BDR.md
-  2,341,531 bytes
-  SHA-256 0b4e544f6d136671a59a8c5ec91f1c21ed7755dab63776e6c4125b9109f467ea
+  2,340,989 bytes
+  SHA-256 b1a661af6290499e6cf1a55a6f734766511d0768fb7e342a2443e5fc8ba6516d
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
