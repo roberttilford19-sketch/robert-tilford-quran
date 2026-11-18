@@ -57,8 +57,8 @@ work/flags-tea.txt — 10 named uncertain-seat items plus residue counts, carrie
   10,525 bytes
   SHA-256 29e9b12ff7b99a32f1636793ade6b5617674dcb4a7e0c6f742ec47d1f0973d74
 ayah-companion-manuscript-TEA.md
-  2,129,646 bytes
-  SHA-256 50fb2230c4baf55b29b7e758947b164bb63b7f9fdb295804d7389047bb7ad662
+  2,129,162 bytes
+  SHA-256 af7cec041d4bfe66d863d2c8d13bbd7d442bf785f0b2ca06c774f63bf9181378
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
