@@ -1,0 +1,89 @@
+AYAH COMPANION — KAYAN (BARAM) RENDERING
+MANIFEST — lane record, 2026-11-17
+
+ITEM
+Ayah Companion, Kayan (Baram) (kys) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the Malaysia wickets wave (bases in hand) (the scout's Class 3 row
+Class 3 §6a #3), under Robert's Advance Rule of 2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Kayan (Baram) review is required
+before any gifting or publication; review is invited. The status
+line stands inside the manuscript itself, on its face, with AI
+assistance labelled.
+SHELVING: lands on the GitHub shelf under Robert's Pipeline
+Landing Authorization (2026-11-14 ~15:00), the full pipeline loop
+having completed (build, count, canonical verify, independent
+checker, Purple sweep reconciled); the landing is recorded in
+LANDING-RECORD-2026-11-17.md in this lane folder at the desk.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography — reviewer item.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: no
+Kayan (Baram) Quran translation found after research (Malaysia
+scout, 2026-11-14).
+
+FILES
+GLOSSARY-KYS.md
+  4,310 bytes
+  SHA-256 b6282eec2138a970cdf51f3be3867032c264dd784ab3abb595377a1e7de43f44
+STYLEGUIDE-KYS.md (the lane's binding drafting law, settled before drafting)
+  7,064 bytes
+  SHA-256 75d905baf639e89e9766ac5885eaf9bdb0efbfa09bae0ce15f4d4ff9a6a01913
+BUILD-REPORT-KYS.md
+  5,253 bytes
+  SHA-256 52503ab258eb73a21842db3c978f3e5f8bb2cd39566c9e88a4ad8fd391940601
+PURPLE-REPORT-KYS-2026-11-17.md (Purple sweep, report mode, reconciled 14 of 14, 0 unresolved)
+  14,512 bytes
+  SHA-256 472e0592fd078c1504a6f06409a8a54e819dd6c70933cdc0a14941787c4fdf9e
+CHECKER-KYS-SEPARATE-AGENT.md (independent checker, preserved unedited)
+  25,608 bytes
+  SHA-256 06cf65d38cb52f950fcdaccd019d4c726831f90fc62d40a0b1229c1e90ea3199
+work/verification-kys.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-kys.txt — 16 named uncertain-seat items plus residue counts, carried to the reviewer.
+  7,266 bytes
+  SHA-256 f0217bff691d4de53d02666c63cf99ce35c39909d1ce7ba6678a8c12746c0af5
+ayah-companion-manuscript-KYS.md
+  2,257,496 bytes
+  SHA-256 30a18b990c7fde075f86c58ffea4415ca1084c68d9482dc982eb480d6ac89578
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-17: PASS true. Headers 114, head order true, verses
+6,236, counts match meta true, continuity true, Arabic runs
+6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse lines
+6,236, slice ref mismatches 0, slice paragraph mismatches 0,
+percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_kys.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Tuhan Allah 2,732 (= God 2,732); allah 79 (= god 79); allah-allah 35 (= gods 35); Tuhan standalone 980 (= Lord 969 + 11 Master tokens at the keyed seats);
+zakat at exactly the 13 keyed slots; sedekah at exactly the 36
+keyed tokens (2:272 ×3; 58:13 ×2).
+Independent checker (separate agent): PASS WITH FLAGS — MATERIAL 0, MINOR 5.
+The independent checker (a separate agent, own code, CHECKER-KYS-SEPARATE-AGENT.md) verified the two-word census per-verse with 0 mismatching refs: the string “Tuhan Allah” = 2,732 = God at every verse (no Allah stands outside the God-word); standalone Tuhan = 980 = Lord 969 + the 11 Master tokens, each keyed seat verified; allah 79; allah-allah 35; zakat 13; sedekah 36. The Arabic sequence is identical at all 6,462 positions; basmalah 114; markers 15; % at 0; the honest face complete; the leak scan 0. It reconciled the override layer exactly (parse 1,287 + 269 overrides, of which 239 overlap — 212 replacements and 27 confirmations — and 30 are new keys: 1,317 in all, 0 parse keys dropped; 263 of 264 non-empty override values stand verbatim in Southwell's text, the sole exception a disclosed reduplication), verified the God-word evidence verbatim in the djvu text (both quoted example sentences stand at their entries), sampled 15/15 parse-grounded entries clean, and re-summed the fallback total exactly (16,689). Verdict: PASS WITH FLAGS — MATERIAL 0, MINOR 5.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+
+NOTES CARRIED TO THE REVIEWER
+The Elisa/Elia pair (item 1) is the reviewer's first name ruling; the two-word God-word Tuhan Allah (item 2) is reviewer ruling #1, grounded in Southwell's own examples; the checker's wrong-sense long-tail item (14) names five first-pass parse matches (arrived, near, alone, oppose, history) for the reviewer's first pass.
