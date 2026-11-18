@@ -18900,7 +18900,7 @@ simoꞌ muꞌu ogiꞌ daang hal soꞌ impurity, purify odop ingan. Simoꞌ muꞌ
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Takal inoh osi bisayaꞌ, duoh kiloja bonal, duoh bisayaꞌ daang oniꞌ ogiꞌ pait muun keꞌ muhammad — duoh iyoh ogiꞌ bonal soꞌ odop-e Piayuh — iyoh remits odop-e nai dosa, duoh relieves odop-e konserns.
+**47:2** Takal inoh osi bisayaꞌ, duoh kiloja bonal, duoh bisayaꞌ daang oniꞌ ogiꞌ pait muun keꞌ Muhammad — duoh iyoh ogiꞌ bonal soꞌ odop-e Piayuh — iyoh remits odop-e nai dosa, duoh relieves odop-e konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
