@@ -62,8 +62,8 @@ work/flags-lnd.txt — 9 named uncertain-seat items plus residue counts, carried
   8,567 bytes
   SHA-256 326ae25e92811d69227a8d1f626bcac5a8fe59c32ed9c4bb9147528048e40766
 ayah-companion-manuscript-LND.md
-  2,213,603 bytes
-  SHA-256 dc3aa08a1fa448f70827902564c6b4c8bcf84213dee7f8f9ae25e2e8b297859b
+  2,213,079 bytes
+  SHA-256 4887381d9a93d4ebdef97d119ea6a4e96bf1884abf5e45762cc64bac53b65539
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
