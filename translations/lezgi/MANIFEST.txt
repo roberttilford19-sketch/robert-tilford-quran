@@ -20,4 +20,4 @@ The full lane record (build report, verification and checker records, flags)
 stands in the workspace lane folder ~/workspace/ayah-lezgi/, unrepaired.
 
 Files:
-  3035545  30d03c6a2e54a316a535588607f9b9ddd4c95d0909c66ccbfcdc1a9c1692a61a  ayah-companion-manuscript-LEZ.md
+  3034851  fddda079a0265f6734f83d3e361f32f6b3a47ac1c80c639ba58591b9dbb52e43  ayah-companion-manuscript-LEZ.md
