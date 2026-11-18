@@ -11,6 +11,7 @@ translator flags (uncertain grammar, invented or unverified word forms,
 competing vocabulary choices). It is the least-settled text on this shelf,
 and it is labelled as such here and in its own head. It is not a finished
 translation. No first-translation claim is made.
+Translated by Robert Tilford. © 2026 Robert Tilford.
 Verse-marker re-count at shelving (2026-11-14): 6,236 of 6,236 markers,
 first 1:1, last 114:6.
 Lane verification of record: structural verification 14/14 PASS
