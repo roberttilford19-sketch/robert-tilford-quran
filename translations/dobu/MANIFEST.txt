@@ -61,7 +61,7 @@ work/flags-dob.txt — 12 named judgment-call items plus residue counts, carried
   SHA-256 6f03141bdce36e24edbf6f4851bd266125d1d44fc9635b318979e8250d1e5402
 ayah-companion-manuscript-DOB.md
   2,460,397 bytes
-  SHA-256 4f062f99499d2f153f262eac2d169ff83d00555ac0df784f12800f939d0be7ee
+  SHA-256 feeab294170618aa139a4d88f647477c377bf538c46fcd31f992c5ec8dd05fae
 ayah-companion-aligned-DOB.json (the aligned array: 6,236 objects,
 chapter/verse/en/target/ar, per the house FILE-SCHEMA)
   3,572,038 bytes
