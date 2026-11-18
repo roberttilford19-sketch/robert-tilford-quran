@@ -13581,15 +13581,15 @@ Each chapter heading gives the chapter number, the English title, the Arabic nam
 
 ۞ وَلَقَدْ وَصَّلْنَا لَهُمُ ٱلْقَوْلَ لَعَلَّهُمْ يَتَذَكَّرُونَ
 
-**28:52**  Tlen tikinmacaqueh in amoxtli achto quinequi (?) tlaneltokah ipan ni.
+**28:52**  Tlen tikinmacaqueh in amoxtli achto quinequi tlaneltokah ipan ni.
 
 ٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ مِن قَبْلِهِۦ هُم بِهِۦ يُؤْمِنُونَ
 
-**28:53**  Huan keman quimilhuiah, quijtouah: Titlaneltokah ipan ni; yaja tlen melahuac tlen toSeñor; tehhuantin timomactijqueh (?) achto ni.
+**28:53**  Huan keman quimilhuiah, quijtouah: Titlaneltokah ipan ni; yaja tlen melahuac tlen toSeñor; tehhuantin timomactijqueh achto ni.
 
 وَإِذَا يُتْلَىٰ عَلَيْهِمْ قَالُوٓا۟ ءَامَنَّا بِهِۦٓ إِنَّهُ ٱلْحَقُّ مِن رَّبِّنَآ إِنَّا كُنَّا مِن قَبْلِهِۦ مُسْلِمِينَ
 
-**28:54**  Nicateh quiseliseh intlaxtlahuil ome, pampa motemacajqueh (?); huan quitlanah tlen fiero ica tlen cualli; huan tlen totlamacalis inhuaya, temacah.
+**28:54**  Nicateh quiseliseh intlaxtlahuil ome, pampa motemacajqueh; huan quitlanah tlen fiero ica tlen cualli; huan tlen totlamacalis inhuaya, temacah.
 
 أُو۟لَٰٓئِكَ يُؤْتَوْنَ أَجْرَهُم مَّرَّتَيْنِ بِمَا صَبَرُوا۟ وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ
 
@@ -13601,7 +13601,7 @@ Each chapter heading gives the chapter number, the English title, the Arabic nam
 
 إِنَّكَ لَا تَهْدِى مَنْ أَحْبَبْتَ وَلَٰكِنَّ ٱللَّهَ يَهْدِى مَن يَشَآءُ ۚ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ
 
-**28:57**  Huan quijtouah: Tla tiktoquiliah tlamachilistli mohuaya, techcuiseh tlen totlal. ¿Ahmo tikintlalijqueh para yehhuantin se Tiochihuali Tlatlalili (?) tlen amo tlen quimacasi, campa quinhualicah nochi tlamantli tlen xochicualli, quen tlamacalistli tlen tehhuantin? Pero miyac tlen yehhuantin ahmo quimatih.
+**28:57**  Huan quijtouah: Tla tiktoquiliah tlamachilistli mohuaya, techcuiseh tlen totlal. ¿Ahmo tikintlalijqueh para yehhuantin se Tiochihuali Tlatlalili tlen amo tlen quimacasi, campa quinhualicah nochi tlamantli tlen xochicualli, quen tlamacalistli tlen tehhuantin? Pero miyac tlen yehhuantin ahmo quimatih.
 
 وَقَالُوٓا۟ إِن نَّتَّبِعِ ٱلْهُدَىٰ مَعَكَ نُتَخَطَّفْ مِنْ أَرْضِنَآ ۚ أَوَلَمْ نُمَكِّن لَّهُمْ حَرَمًا ءَامِنًۭا يُجْبَىٰٓ إِلَيْهِ ثَمَرَٰتُ كُلِّ شَىْءٍۢ رِّزْقًۭا مِّن لَّدُنَّا وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 
@@ -13645,7 +13645,7 @@ Each chapter heading gives the chapter number, the English title, the Arabic nam
 
 فَأَمَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحًۭا فَعَسَىٰٓ أَن يَكُونَ مِنَ ٱلْمُفْلِحِينَ
 
-**28:68**  MoSeñor quichihua tlen quinequi, huan Yaja quijpejpena. In intlapejpenilis amo inhuaya. Ma tiochihuali Allah, huan ma huejcapa (?) Yaja ipan tlen quichihuah ihuaya.
+**28:68**  MoSeñor quichihua tlen quinequi, huan Yaja quijpejpena. In intlapejpenilis amo inhuaya. Ma tiochihuali Allah, huan ma huejcapa Yaja ipan tlen quichihuah ihuaya.
 
 وَرَبُّكَ يَخْلُقُ مَا يَشَآءُ وَيَخْتَارُ ۗ مَا كَانَ لَهُمُ ٱلْخِيَرَةُ ۚ سُبْحَٰنَ ٱللَّهِ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ
 
@@ -13829,7 +13829,7 @@ Each chapter heading gives the chapter number, the English title, the Arabic nam
 
 وَمَآ أَنتُم بِمُعْجِزِينَ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ ۖ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّۢ وَلَا نَصِيرٍۢ
 
-**29:23**  Tlen ahmo otlaneltokaqueh ipan itlamachtil Allah huan ipan quipantise — nicateh oquicajqueh notlaocoyalistli (?). Para yehhuantin onca se tlaijyohuilistli tlen tlahuel tlecocohua.
+**29:23**  Tlen ahmo otlaneltokaqueh ipan itlamachtil Allah huan ipan quipantise — nicateh oquicajqueh notlaocoyalistli. Para yehhuantin onca se tlaijyohuilistli tlen tlahuel tlecocohua.
 
 وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِ ٱللَّهِ وَلِقَآئِهِۦٓ أُو۟لَٰٓئِكَ يَئِسُوا۟ مِن رَّحْمَتِى وَأُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌۭ
 
@@ -13845,7 +13845,7 @@ Each chapter heading gives the chapter number, the English title, the Arabic nam
 
 ۞ فَـَٔامَنَ لَهُۥ لُوطٌۭ ۘ وَقَالَ إِنِّى مُهَاجِرٌ إِلَىٰ رَبِّىٓ ۖ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**29:27**  Huan tikmacaqueh Ishaq huan Yaqub, huan tikintlaly (?) ininpilhua in profetayoh huan in amoxtli, huan tikmacaqueh itlaxtlahuil ipan ni nemilistli; huan ipan Satepan yetos tlen tlen melahuac.
+**29:27**  Huan tikmacaqueh Ishaq huan Yaqub, huan tikintlaly ininpilhua in profetayoh huan in amoxtli, huan tikmacaqueh itlaxtlahuil ipan ni nemilistli; huan ipan Satepan yetos tlen tlen melahuac.
 
 وَوَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ وَجَعَلْنَا فِى ذُرِّيَّتِهِ ٱلنُّبُوَّةَ وَٱلْكِتَٰبَ وَءَاتَيْنَٰهُ أَجْرَهُۥ فِى ٱلدُّنْيَا ۖ وَإِنَّهُۥ فِى ٱلْءَاخِرَةِ لَمِنَ ٱلصَّٰلِحِينَ
 
@@ -14077,7 +14077,7 @@ Each chapter heading gives the chapter number, the English title, the Arabic nam
 
 وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يُبْلِسُ ٱلْمُجْرِمُونَ
 
-**30:13**  Amo quipiyaseh se tlen quintlajtlanilis tlen ininteteh, huan quinxicos (?) tlen quinchijqueh ihuaya.
+**30:13**  Amo quipiyaseh se tlen quintlajtlanilis tlen ininteteh, huan quinxicos tlen quinchijqueh ihuaya.
 
 وَلَمْ يَكُن لَّهُم مِّن شُرَكَآئِهِمْ شُفَعَٰٓؤُا۟ وَكَانُوا۟ بِشُرَكَآئِهِمْ كَٰفِرِينَ
 
@@ -14109,7 +14109,7 @@ Each chapter heading gives the chapter number, the English title, the Arabic nam
 
 وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَكُم مِّن تُرَابٍۢ ثُمَّ إِذَآ أَنتُم بَشَرٌۭ تَنتَشِرُونَ
 
-**30:21**  Huan tlen itlamachtil yaja tlen amechchijqui amosiwa (?) tlen amehhuantin, para huel anquipiyaseh yolsehuilistli inhuaya; huan quitocac tlajsojtlalistli huan teicnelilistli amotzala. Ipan ni cateh tlamachtili para macehualmeh tlen monemiliah.
+**30:21**  Huan tlen itlamachtil yaja tlen amechchijqui amosiwa tlen amehhuantin, para huel anquipiyaseh yolsehuilistli inhuaya; huan quitocac tlajsojtlalistli huan teicnelilistli amotzala. Ipan ni cateh tlamachtili para macehualmeh tlen monemiliah.
 
 وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًۭا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةًۭ وَرَحْمَةً ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ
 
@@ -14137,7 +14137,7 @@ Each chapter heading gives the chapter number, the English title, the Arabic nam
 
 وَهُوَ ٱلَّذِى يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ وَهُوَ أَهْوَنُ عَلَيْهِ ۚ وَلَهُ ٱلْمَثَلُ ٱلْأَعْلَىٰ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**30:28**  Amechnextilia se tlen techmachtia, tlen amehhuantin: ¿anquichihuah amotequihuajcahua (?) ma yetocan tlen quipiah san se ipan tlen tikinmacaqueh? ¿Anquinhueyichihuah ken anmohueyichihuah se ica seyoc? Ijkon tikinnextiah in tlamachtili para macehualmeh tlen quimachiliah.
+**30:28**  Amechnextilia se tlen techmachtia, tlen amehhuantin: ¿anquichihuah amotequihuajcahua ma yetocan tlen quipiah san se ipan tlen tikinmacaqueh? ¿Anquinhueyichihuah ken anmohueyichihuah se ica seyoc? Ijkon tikinnextiah in tlamachtili para macehualmeh tlen quimachiliah.
 
 ضَرَبَ لَكُم مَّثَلًۭا مِّنْ أَنفُسِكُمْ ۖ هَل لَّكُم مِّن مَّا مَلَكَتْ أَيْمَٰنُكُم مِّن شُرَكَآءَ فِى مَا رَزَقْنَٰكُمْ فَأَنتُمْ فِيهِ سَوَآءٌۭ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ ۚ كَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍۢ يَعْقِلُونَ
 
@@ -14181,7 +14181,7 @@ Each chapter heading gives the chapter number, the English title, the Arabic nam
 
 فَـَٔاتِ ذَا ٱلْقُرْبَىٰ حَقَّهُۥ وَٱلْمِسْكِينَ وَٱبْنَ ٱلسَّبِيلِ ۚ ذَٰلِكَ خَيْرٌۭ لِّلَّذِينَ يُرِيدُونَ وَجْهَ ٱللَّهِ ۖ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
 
-**30:39**  In tlen anquichihuah tlen cachi quipiya (?), tlen anquittemouah ica ma miyacati inintomin macehualmeh, ahmo miyacas ihuan Allah. Pero tlen antemacah ica teicnelilistli, tlen anquinequih Ixayac Allah — nicateh tlen quimiyacatiliah.
+**30:39**  In tlen anquichihuah tlen cachi quipiya, tlen anquittemouah ica ma miyacati inintomin macehualmeh, ahmo miyacas ihuan Allah. Pero tlen antemacah ica teicnelilistli, tlen anquinequih Ixayac Allah — nicateh tlen quimiyacatiliah.
 
 وَمَآ ءَاتَيْتُم مِّن رِّبًۭا لِّيَرْبُوَا۟ فِىٓ أَمْوَٰلِ ٱلنَّاسِ فَلَا يَرْبُوا۟ عِندَ ٱللَّهِ ۖ وَمَآ ءَاتَيْتُم مِّن زَكَوٰةٍۢ تُرِيدُونَ وَجْهَ ٱللَّهِ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُضْعِفُونَ
 
@@ -14217,7 +14217,7 @@ Each chapter heading gives the chapter number, the English title, the Arabic nam
 
 وَلَقَدْ أَرْسَلْنَا مِن قَبْلِكَ رُسُلًا إِلَىٰ قَوْمِهِمْ فَجَآءُوهُم بِٱلْبَيِّنَٰتِ فَٱنتَقَمْنَا مِنَ ٱلَّذِينَ أَجْرَمُوا۟ ۖ وَكَانَ حَقًّا عَلَيْنَا نَصْرُ ٱلْمُؤْمِنِينَ
 
-**30:48**  Allah Yaja tlen quintitlani in ajacameh. Quinehneh (?) in mixtli. Satepan quipatla (?) ipan ilhuicac ken quinequi. Huan quinxexeloa. Satepan tiquitah atl tlen huetzi tlen intzala. Satepan, keman quihuetziltia ipan tlen quinequi tlen itlachiuhcahua, xiquitacan, paquih.
+**30:48**  Allah Yaja tlen quintitlani in ajacameh. Quinehneh in mixtli. Satepan quipatla ipan ilhuicac ken quinequi. Huan quinxexeloa. Satepan tiquitah atl tlen huetzi tlen intzala. Satepan, keman quihuetziltia ipan tlen quinequi tlen itlachiuhcahua, xiquitacan, paquih.
 
 ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابًۭا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُۥ كِسَفًۭا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَٰلِهِۦ ۖ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ
 
@@ -14317,7 +14317,7 @@ Each chapter heading gives the chapter number, the English title, the Arabic nam
 
 خَٰلِدِينَ فِيهَا ۖ وَعْدَ ٱللَّهِ حَقًّۭا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-**31:10**  Quinchijqui in ilhuicameh ican amo temimeh tlen huel anquitaseh, huan quitlalij tlen quitzacuiliah ipan tlali para ma ahmo molini amohuaya, huan quixitin (?) nochi tlamantli yolcameh ipan. Huan tlen ilhuicac tiktitlanqueh atl, huan tikchijqueh ma moscaltican ompa nochi tlamantli tlen cualli ome ome.
+**31:10**  Quinchijqui in ilhuicameh ican amo temimeh tlen huel anquitaseh, huan quitlalij tlen quitzacuiliah ipan tlali para ma ahmo molini amohuaya, huan quixitin nochi tlamantli yolcameh ipan. Huan tlen ilhuicac tiktitlanqueh atl, huan tikchijqueh ma moscaltican ompa nochi tlamantli tlen cualli ome ome.
 
 خَلَقَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍۢ تَرَوْنَهَا ۖ وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍۢ ۚ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۭ فَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۢ كَرِيمٍ
 
