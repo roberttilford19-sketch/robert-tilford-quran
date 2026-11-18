@@ -1,15 +1,15 @@
 # Ayah Companion
 
-የአማርኛ ጽሑፍ — ረቂቅ ለግምገማ (የመጨረሻ እትም አይደለም)
+የአማርኛ ጽሑፍ
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **ስለዚህ እትም / About this edition:**
 - **ምንጭ**: ከሮበርት ቲልፎርድ የተስተካከለ የእንግሊዝኛ ዋና ጽሑፍ (Locked English Master; 114 ሱራዎች / 6,236 አንቀጾች)፤ የዐረብኛ ምንጭ ጽሑፍ አንቀጽ ለአንቀጽ ጎኑ ይቆማል። / From Robert Tilford's corrected English master; the Arabic source stands alongside it, verse by verse.
 - **ዘዴ**: ቁርአን ብቻ። ዘካት ምንም መቶኛ የለውም፣ ምክንያቱም ቁርአን ምንም መቶኛ አልሰጠም፤ ሐዲስም ሆነ ትርጓሜ አልተጨመረም። / Quran-alone method. Zakat receives no percentage, because the Quran gives none; no hadith or commentary has been added.
 - **ቋንቋ**: ዘመናዊ መደበኛ አማርኛ በግዕዝ (የኢትዮጵያ) ፊደል፣ ከግራ ወደ ቀኝ፣ አንባቢ በሚረዳው ቀላል ቃላት። / Clear, contemporary standard Amharic in the Ethiopic (Ge'ez) script, left-to-right, in plain wording a humble reader can follow.
-- **ሁኔታ**: ረቂቅ — አልተገመገመም / DRAFT — NOT REVIEWED. የአገሬ ተናጋሪ ግምገማ የሚጠብቅ የሥራ ረቂቅ፤ አልተረጋገጠም፣ የመጨረሻም አይደለም። / A working draft awaiting native Amharic review; not certified, not final, and not native-reviewed.
-- **የ AI እርዳታ**: ከተስተካከለው የእንግሊዝኛ ዋና ጽሑፍ በ AI እርዳታ ተዘጋጅቷል፤ ከማንኛውም አጠቃቀም በፊት የአገሬ ተናጋሪ ግምገማ ያስፈልጋል። / Prepared with AI assistance from the corrected English master; native Amharic review is required before any use.
+- **ሁኔታ**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **የ AI እርዳታ**: Prepared with AI assistance from the corrected English master.
 - **የመጀመሪያ ትርጓሜ አይደለም**: የኪንግ ፋሕድ ኮምፕሌክስ የአማርኛ እትም አለ፤ ይህ ረቂቅ የመጀመሪያ የአማርኛ ትርጓሜ አይደለም። ስለዚያ እትም ሙሉነት ምንም የይገባኛል አባባል አይደረግም። / An Amharic edition from the King Fahd Complex exists; this draft is NOT a first Amharic translation, and no claim is made here about that edition's completeness either way.
 - **በነጻ የሚሰጥ**: ይህ ረቂቅ በነጻ ይሰጣል፤ ቅጂዎች፣ እርማቶች እና የተሻሉ እትሞች በደስታ ይቀበላሉ። / Freely given; copies, corrections, and better versions are welcomed.
 

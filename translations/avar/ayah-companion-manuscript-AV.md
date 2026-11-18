@@ -1,14 +1,14 @@
 # Ayah Companion
 
-МагӀардерил басма — БАСМА ГЬАБУРАБ (къабул гьабичӀеб)
+МагӀардерил басма
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Avar review; not for publication or distribution as a finished translation. This draft makes no first-translation claim; no claim is made about any other Avar rendering.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim; no claim is made about any other Avar rendering.
 
 **Гьаб басмаялъул хӀакъалъулъ / About this edition:**
 - **Басма**: Роберт Тилфордил ритӀараб ингилис мастералдаса (Locked English Master; сураби 114 / аятат 6,236) гьабураб магӀарул мацӀалъул басма; гӀараб текст щибаб аяталул цадахъ буго. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **ТӀасабищун**: Къуръан цо — Къуръан цогояб къагӀида; закат кидаго процент гуреб, щахъ Къуръаналда процент гьечӀо; хӀадис яги тафсир гьечӀо. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **ХӀалтӀул хӀалат**: БАСМА ГЬАБУРАБ — КЪАБУЛ ГЬАБИЧӀЕБ / DRAFT — NOT REVIEWED. Гьаб буго магӀардерил къабул гьабиялъе хӀадурараб басма; битӀараб гуро, ахиресеб гуро. / A working draft for native Avar review; not certified, not final, and not native-reviewed.
-- **AI комек**: Гьаб басма AI комекалдалъун ритӀараб ингилис мастералдаса гьабуна; щибго хӀалтӀиялъе цебе магӀардерил къабул гьаби хӀажат буго. / Prepared with AI assistance from the corrected English master; native Avar review is required before any use.
+- **ХӀалтӀул хӀалат**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI комек**: Prepared with AI assistance from the corrected English master.
 - **Кьем**: Гьаб басма кьемлъун кьолеб буго; копияби, ритӀабиялги лъикӀал басиялги къабул гьарула. / Freely given; copies, corrections, and better versions are welcomed.
 
 # Сурабазул сияхӀ

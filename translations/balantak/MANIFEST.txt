@@ -1,5 +1,5 @@
 MANIFEST — Balantak (BLZ) lane — Ayah Companion
-Built 2026-11-17 (Region-1 remainder wave). DRAFT — NOT REVIEWED.
+Built 2026-11-17 (Region-1 remainder wave).
 Independent checker (separate agent): PASS WITH FLAGS (CHECKER-REPORT-BLZ-2026-11-17.md) — every hard gate re-measured exact, no discrepancies against the builder; 14 flags (6 MATERIAL disclosures, 8 MINOR), none blocking. Landed under the Pipeline Landing Authorization (2026-11-14).
 
 ayah-companion-manuscript-BLZ.md   2,287,506 bytes

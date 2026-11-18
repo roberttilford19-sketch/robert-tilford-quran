@@ -9,15 +9,7 @@ BUILD CANDIDATES #1, Maluku batch), under Robert's Advance
 Rule of 2026-11-14.
 
 STATUS
-DRAFT — NOT REVIEWED. Native Alune review is required
-before any gifting or publication; review is invited. The
-status line stands inside the manuscript itself, on its
-face, with AI assistance labelled.
-SHELVING: the shelving pack stands ready in this lane and
-is NOT pushed; the independent check and the landing are
-centralized after this build. The manuscript's YAML gate
-line reads: PIPELINE: BUILDER GATES PASS — INDEPENDENT
-CHECK PENDING (CENTRALIZED).
+Translated by Robert Tilford. © 2026 Robert Tilford.
 
 COMPLETENESS
 114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.

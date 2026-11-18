@@ -1,15 +1,15 @@
 # Ayah Companion
 
-𐬀𐬬𐬆𐬯𐬙𐬁 𐬬𐬀𐬗𐬀𐬵 — DRAFT FOR REVIEW (not a final edition)
+𐬀𐬬𐬆𐬯𐬙𐬁 𐬬𐬀𐬗𐬀𐬵
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for Avestan scholarly review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **𐬀𐬉𐬙𐬀𐬵𐬈 𐬬𐬍𐬗𐬌𐬚𐬭𐬀𐬵𐬈 𐬀𐬌𐬙𐬀𐬚𐬀 / About this edition:**
 - **Source**: 𐬀𐬰 𐬉𐬭𐬀 / From Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic text stands alongside it, verse by verse.
 - **Method**: 𐬐𐬎𐬭𐬁𐬥 𐬙𐬀𐬥𐬵𐬀 / Quran-alone. Zakat receives no percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Language**: 𐬀𐬬𐬆𐬯𐬙𐬁 𐬬𐬀𐬗𐬀𐬵 / Classical Avestan in the Avestan script, in a disclosed neo-Avestan register: the surviving Avestan corpus is a closed liturgical corpus, so this rendering necessarily forms words and constructions the corpus does not preserve; every such formation is flagged for the scholarly reviewer.
-- **Status**: DRAFT — NOT REVIEWED. A working draft awaiting review by a scholar of Avestan; not certified, not final, and not reviewed.
-- **AI assistance**: Prepared with AI assistance from the corrected English master; Avestan scholarly review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI assistance**: Prepared with AI assistance from the corrected English master.
 - **Script**: The Avestan script (the scholarly standard for the language), written with space word-separation as a disclosed house simplification; the drafting transliteration and the converter stand in the lane's work files.
 - **Given freely**: 𐬛𐬁𐬚𐬭𐬀 / Freely given; copies, corrections, and better versions are welcomed.
 

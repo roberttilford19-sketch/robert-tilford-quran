@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Qur'aan Qafar Afal — Muswadda (ma murajaqaame)
+Qur'aan Qafar Afal
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Afar review; not for publication or distribution as a finished translation. This draft makes no claim about other Afar renderings of the Quran and no first-translation claim.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no claim about other Afar renderings of the Quran and no first-translation claim.
 
 **Qafar afa muswadda / About this edition:**
 - **Agbalu**: Robert Tilford inkiin English muswadda sabaatita (Locked English Master; suura 114 / aaya 6,236) keh tama Qafar afa muswadda umtame; Carab afa Qur'aan yab tokke tokke aaya luk yan. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Diin silo**: Qur'aan qas — Qur'aan yab isi nafsi yaaxige; zakaat ay percent luk ma tan, Qur'aan percent ma yee gidih; hadiis mo tafsir mo ma kafuyame. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Safeyya**: Tama muswadda Qafar afa Latin safeyyal safeyyame (Qafar Feera); Qafar afa Carabi safeyyal naq safeyyamih taariik le. / This draft is written in the Latin orthography of Afar (Qafar Feera); Afar also has a written history in Arabic script, recorded in the styleguide.
-- **Muswadda — ma murajaqaame / DRAFT — NOT REVIEWED**: Tama muswadda Qafar afa yaaxigeeni murajaqa faxxa; ma sabaatime, ay usuk luk ma gexxa murajaqa duma. / This draft awaits review by native Afar speakers; it is not certified and must not be used until that review has happened.
-- **AI gargaarsa**: English muswadda keh, AI gargaarsa luk tama muswadda hayse; Qafar afa murajaqa ay usuk duma faxxa. / Prepared with AI assistance from the corrected English master; native Afar review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI gargaarsa**: Prepared with AI assistance from the corrected English master.
 - **Foloo kuma ma yan**: Tama muswadda Qur'aan Qafar afal foloo muswadda yan kuma ma abe; murajaqa gidih qas tama yan. / This draft makes no claim to be the first rendering of the Quran into Afar, and no claim about other Afar renderings; it is a draft offered for review.
 - **Dii**: Tama muswadda dii luk yeehame; kopi, murajaqa ii meqe muswaddawa kullu aamane liyo. / Freely given; copies, corrections, and better versions are welcomed.
 

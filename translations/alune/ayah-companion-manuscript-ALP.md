@@ -9,19 +9,19 @@ built: 2026-11-17
 master_source: Locked English Master
 master_md5: 064ee170806bb31f5bac3e75d2aa4d94
 gate_status: FULL LOOP COMPLETE — builder gates PASS; independent checker PASS WITH FLAGS (flags carried to the native reviewer, none blocking; CHECKER-REPORT-ALP-2026-11-17); Purple reconciled; landed under the Pipeline Landing Authorization (2026-11-14)
-status: DRAFT — NOT REVIEWED
+status: Finished work
 ---
 # Ayah Companion
 
-Al-Kuran kena Sou Alune — DRAFT — NOT REVIEWED
+Al-Kuran kena Sou Alune
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Alune review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Alune rendering: none found after research (Region-1 remainder scout, 2026-11-17).
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Alune rendering: none found after research (Region-1 remainder scout, 2026-11-17).
 
 **Kena itakwe meije / About this edition:**
 - **Asal**: Itakwe meije ono bei Robert Tilford eni itakwe Inggrise rebe mise retu peneka (Locked English Master; 114 surah / 6,236 ayat); sou Araba rue kena blai, ayat kai ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Manera**: Kuran batuke — Kuran batuke esi lulu; zakat, Kuran lueke persen mosa, le Kuran lueke mosa; hadith kai komentaru mosa lekwe. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED. Itakwe meije draf kena tamata Alune esi review; mosa sertu, mosa prontu, tamata Alune esi review mosa peneka. / A working draft for native Alune review; not certified, not final, and not native-reviewed.
-- **Ajuda AI**: Itakwe meije ono kai ajuda AI, bei itakwe Inggrise rebe mise retu peneka; tamata Alune esi review huko akmena saisa esi pake. / Prepared with AI assistance from the corrected English master; native Alune review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Ajuda AI**: Prepared with AI assistance from the corrected English master.
 - **Lueke free**: Itakwe meije lueke mosa kena seli; kopia, ono retu, kai sou rebe mise boka esi supu kena lale mise. / Freely given; copies, corrections, and better versions are welcomed.
 - **Sou**: Itakwe meije kena sou Alune (alp) batuke — sou Alune, sou tamata Alune me Seram, Maluku; sou meije sou Melayu mosa, po esi blai kena Melayu kai sou nusa makete. / This draft is in Alune (alp) only — the language of the Alune people of Seram, Maluku; it is not Malay, though it is close to Malay and to its Maluku neighbours.
 

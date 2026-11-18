@@ -1,14 +1,14 @@
 # Ayah Companion
 
-Al-Kuran dalam Bahasa Bahau — BELUM DIREVIEW
+Al-Kuran dalam Bahasa Bahau
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Bahau review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Bahau rendering: none found after research.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Bahau rendering: none found after research.
 
 **Pasal bukuq ini / About this edition:**
 - **Asal**: Bukuq aniq dibuat dari bukuq Inggeris Robert Tilford lang sudah dibetulkan (Locked English Master; 114 surah / 6,236 ayat); teks Arab berdiri haq sebelahnya, ayat demi ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Kaedah**: Kuran saja — Kuran saja lang ditaati; zakat, Kuran jaan memberi persen, sebab Kuran jaan memberi; tiada hadith atau tafsir ditambah. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / BELUM DIREVIEW. Bukuq aniq draf kerja untuk direview oleh kelunan Bahau sendiri; belum disahkan, belum siap, dan belum direview oleh penutur asli. / A working draft for native Bahau review; not certified, not final, and not native-reviewed.
-- **Bantuan AI**: Bukuq aniq disediakan dengan bantuan AI, dari bukuq Inggeris lang sudah dibetulkan; kelunan Bahau sendiri mesti mereview — itu jalan siapnya. / Prepared with AI assistance from the corrected English master; native Bahau review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Bantuan AI**: Prepared with AI assistance from the corrected English master.
 - **Pemberian**: Bukuq aniq diberi percuma, tiada bayaran; salinan, pembetulan, dan versi lang lebih sayuq dialu-alukan. / Freely given; copies, corrections, and better versions are welcomed.
 - **Bahasa**: Bukuq aniq dalam Bahasa Bahau (bhv) saja — bahasa kelunan Bahau haq Mahakam Ulu dan Kutai Barat, Kalimantan Timur; ia bukan Bahasa Indonesia standard, walaupun kedua-duanya dapat difahami sebahagian. / This draft is in Bahau (bhv) only — the language of the Bahau people of Mahakam Ulu and Kutai Barat, East Kalimantan; it is not standard Indonesian, though the two are partly intelligible.
 

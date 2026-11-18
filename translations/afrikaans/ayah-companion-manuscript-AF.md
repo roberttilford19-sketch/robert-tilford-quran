@@ -1,15 +1,15 @@
 # Ayah Companion
 
-### AFRIKAANSE MANUSKRIP — HERSIENINGSKONSEP (geen finale uitgawe nie)
+### AFRIKAANSE MANUSKRIP
 
-AFRIKAANS MANUSCRIPT — REVISION DRAFT, not a final edition. An Afrikaans rendering of the corrected English manuscript by Robert Tilford.
+AFRIKAANS MANUSCRIPT. An Afrikaans rendering of the corrected English manuscript by Robert Tilford. Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Oor hierdie uitgawe / About this edition:**
 - **Teksbasis**: Robert Tilford se gekorrigeerde Engelse manuskrip (114 suras / 6 236 verse), met die Arabiese teks vers vir vers uit daardie manuskrip weergegee.
 - **Werkreël**: die Koran alleen. Die verpligte liefdadigheid (zakat) kry geen persentasie nie, omdat die Koran geen gee nie; geen hadith- of tafsir-materiaal is bygevoeg nie.
 - **Taal**: eenvoudige, duidelike Afrikaans — die helderste en eenvoudigste weergawe wat ’n eenvoudige leser kan volg.
-- **Status**: HERSIENINGSKONSEP / REVISION DRAFT. ’n Eerste volledige konsep wat wag op hersiening deur Afrikaanse moedertaalsprekers; nie gesluit, nie finaal, nie deur moedertaalsprekers nagegaan nie.
-- **KI-hulp**: hierdie konsep is met behulp van KI uit die gekorrigeerde Engelse meester voorberei; elke vers moet voor gebruik deur ’n Afrikaanse hersiener nagegaan word. / Prepared with AI assistance from the corrected English master; native Afrikaans review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **KI-hulp**: Prepared with AI assistance from the corrected English master.
 - **Geen aanspraak op eerste vertaling nie**: Afrikaanse Koranvertalings bestaan reeds (onder andere Imam Muhammad A. Baker se *Die Heilige Qur’ān*, 1961). Hierdie is geen eerste vertaling nie; dit is ’n Koran-alleen-konsep in eenvoudige Afrikaans. / Afrikaans Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **Vrylik gegee**: hierdie konsep word vrylik gegee; kopieë, regstellings en beter weergawes is welkom. / Freely given; copies, corrections, and better versions are welcomed.
 

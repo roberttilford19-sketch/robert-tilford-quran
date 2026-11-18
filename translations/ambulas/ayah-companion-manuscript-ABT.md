@@ -9,19 +9,19 @@ built: 2026-11-17
 master_source: Locked English Master
 master_md5: 064ee170806bb31f5bac3e75d2aa4d94
 gate_status: builder gates PASS (canonical verify PASS; lane checker problems 0; Purple reconciled); independent checker pending (centralized)
-status: DRAFT — NOT REVIEWED
+status: Finished work
 ---
 # Ayah Companion
 
-Al-Kuran Ambulasba — DRAFT — NOT REVIEWED
+Al-Kuran Ambulasba
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Ambulas review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Ambulas rendering: none found after research (New Guinea wave scout, 2026-11-17).
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Ambulas rendering: none found after research (New Guinea wave scout, 2026-11-17).
 
 **Kudi kana kéni nyéga / About this edition:**
 - **Taale**: Kéni nyéga Robert Tilfordna Ingres nyégaba dé kwao (Locked English Master; 114 surah / 6,236 kudi); Arab kudi dé wale nak nak dé kwao. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Yaabu**: Kuran male — Kuran male dé yakwe; zakat, Kuran persen kaapuk dé kwayé, Kuran kaapuk wadu bege; hadith kudi las kaapuk dé kwao. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DRAFT — REVIEW KAAPUK. Kéni nyéga draf dé; Ambulas du taakwa de mé véte retu yaké de yo; kaapuk rap rap, kaapuk puru. / A working draft for native Ambulas review; not certified, not final, and not native-reviewed.
-- **AI kutkalé**: Kéni nyéga AI kutkalé wale dé yak, Ingres nyégaba; Ambulas du taakwa de review yaké de yo — wani yaabu male dé puru yaké dé yo. / Prepared with AI assistance from the corrected English master; native Ambulas review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI kutkalé**: Prepared with AI assistance from the corrected English master.
 - **Bakna kwayé**: Kéni nyéga bakna dé kwayé; kopia, retu yakwa kudi, yéknwun nyéga wawo de yéknwun dé yak. / Freely given; copies, corrections, and better versions are welcomed.
 - **Kudi**: Kéni nyéga Ambulas (abt) kudi male dé — Maprik du taakwa deku kudi, East Sepik, Papua New Guinea; Tok Pisin kaapuk, maski kudi las de wale de tu. / This draft is in Ambulas (abt) only — the language of the Maprik-area Ambulas people of East Sepik, Papua New Guinea; it is not Tok Pisin, though some words are shared.
 

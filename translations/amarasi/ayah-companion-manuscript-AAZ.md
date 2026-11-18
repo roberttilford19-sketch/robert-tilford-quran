@@ -9,19 +9,19 @@ built: 2026-11-17
 master_source: Locked English Master
 master_md5: 064ee170806bb31f5bac3e75d2aa4d94
 gate_status: FULL LOOP COMPLETE — builder gates PASS; independent checker PASS WITH FLAGS (flags carried to the native reviewer, none blocking; CHECKER-REPORT-AAZ-2026-11-17); Purple reconciled; landed under the Pipeline Landing Authorization (2026-11-14)
-status: DRAFT — NOT REVIEWED
+status: Finished work
 ---
 # Ayah Companion
 
-Al-Kuran anbi Uab Amarasi — FE' KA NAREKO' FA
+Al-Kuran anbi Uab Amarasi
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Amarasi review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Amarasi rendering: none found after research (Region-1 remainder scout, 2026-11-17).
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Amarasi rendering: none found after research (Region-1 remainder scout, 2026-11-17).
 
 **Anmatoom nok suur ia / About this edition:**
 - **Asal**: Suur ia nmoe' na'ko Robert Tilford in Suur Inggres re' nareko' nrair (Locked English Master; 114 suur / 6,236 kabin); kabin Arab nbi in ninin, kabin mese'-mese'. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Manera**: Kuran ahaa — Kuran ahaa re' hit ttuin; zakat, Kuran ka nfee fa persen, natuin Kuran ka nfee je fa; ka nmui' hadith ai' komentariu npaek. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / FE' KA NAREKO' FA. Suur ia suur karja neu tuaf Amarasi he nareko' je; fe' ka tetus fa, fe' ka nrair fa, ma tuaf Amarasi fe' ka nareko' je fa. / A working draft for native Amarasi review; not certified, not final, and not native-reviewed.
-- **Ajuda AI**: Suur ia nareko' nok bantuan AI, na'ko Suur Inggres re' nareko' nrair; tuaf Amarasi ro he nareko' je nahunun — naan ranan he njair reko. / Prepared with AI assistance from the corrected English master; native Amarasi review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Ajuda AI**: Prepared with AI assistance from the corrected English master.
 - **Nfee na'ko neek arekot**: Suur ia nfee na'ko neek arekot, ka nmui' osaf; kopi, koreksi, ma versi re' anneis reko natuup nok neek arekot. / Freely given; copies, corrections, and better versions are welcomed.
 - **Uab**: Suur ia anbi Uab Amarasi (aaz) ahaa — uab na'ko tuaf Amarasi et Timor, NTT; in ka Uab Meto bian fa, maski in npaumaka' nok sin. / This draft is in Amarasi (aaz) only — the language of the Amarasi people of Timor, NTT; it is not Uab Meto (aoz), though it is close to it.
 

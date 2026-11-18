@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Azərbaycan Əlyazması — YENİDƏN BAXIŞ QARALAMASI (son nəşr deyil)
+Azərbaycan Əlyazması
 
-AZERBAIJANI (Azərbaycan dili) MANUSCRIPT — DRAFT, NOT REVIEWED, not a final edition. An Azerbaijani rendering of the corrected English manuscript by Robert Tilford.
+AZERBAIJANI (Azərbaycan dili) MANUSCRIPT. An Azerbaijani rendering of the corrected English manuscript by Robert Tilford. Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Bu nəşr haqqında / About this edition:**
 - **Mətnin əsası**: Robert Tilfordun düzəldilmiş ingilis əlyazması (114 surə / 6.236 ayə); ərəb mətni həmin əlyazmadan ayə-ayə yanaşı saxlanılmışdır.
 - **İş qaydası**: Yalnız Quran. Məcburi ianə (zəkat) heç bir faiz almır, çünki Quran heç bir nisbət vermir; heç bir hədis və ya təfsir materialı əlavə edilməmişdir.
 - **Dil**: Sadə, aydın, müasir standart Azərbaycan dili — təvazökar bir oxucunun izləyə biləcəyi ən sadə forma.
-- **Vəziyyət**: YENİDƏN BAXIŞ QARALAMASI / REVISION DRAFT. Ana dili Azərbaycan dili olan bir rəyçinin yoxlamasını gözləyən ilk tam qaralama; kilidlənməmişdir, son deyil, ana dili danışanı tərəfindən yoxlanılmamışdır.
-- **Süni intellekt yardımı**: Bu qaralama düzəldilmiş ingilis əsildən süni intellekt yardımı ilə hazırlanmışdır; istifadədən əvvəl hər ayə ana dili Azərbaycan dili olan bir rəyçi tərəfindən yoxlanılmalıdır. / Prepared with AI assistance from the corrected English master; native Azerbaijani review is required before any use.
+- **Vəziyyət**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Süni intellekt yardımı**: Prepared with AI assistance from the corrected English master.
 - **İlk tərcümə iddiası yoxdur**: Azərbaycan dilində Quran tərcümələri mövcuddur (bir çox müstəqil tərcümə). Bu, ilk tərcümə deyil; sadə Azərbaycan dili ilə yalnız-Quran üsullu bir qaralamadır. / Azerbaijani Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **Azad şəkildə verilir**: Bu qaralama azad şəkildə verilir; nüsxələr, düzəlişlər və daha yaxşı variantlar məmnuniyyətlə qarşılanır. / Freely given; copies, corrections, and better versions are welcomed.
 

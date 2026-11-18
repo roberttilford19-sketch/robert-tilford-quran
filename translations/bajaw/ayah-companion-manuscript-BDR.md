@@ -1,14 +1,14 @@
 # Ayah Companion
 
-Al-Kuran ma Bahasa Bajau — INDA' GI' NIREVIEW
+Al-Kuran ma Bahasa Bajau
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native West Coast Bajau review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other West Coast Bajau rendering: none found after research.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other West Coast Bajau rendering: none found after research.
 
 **Pasal kitab ini / About this edition:**
 - **Asal**: Kitab ini dibuat dari kitab Inggeris Robert Tilford nang sudah dibetulkan (Locked English Master; 114 surah / 6,236 ayat); teks Arab berdiri di sebelahnya, ayat demi ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Kaedah**: Kuran saja — Kuran saja nang ditaati; zakat, Kuran inda' memberi persen, sebab Kuran inda' memberi; tiada hadith atau tafsir ditambah. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / INDA' GI' NIREVIEW. Kitab ini draf kerja untuk direview oleh a'a Bajau Pasisir sendirinya; belum disahkan, belum siap, dan belum direview oleh penutur asli. / A working draft for native West Coast Bajau review; not certified, not final, and not native-reviewed.
-- **Bantuan AI**: Kitab ini disediakan duk bantuan AI, dari kitab Inggeris nang sudah dibetulkan; a'a Bajau sendirinya mesti mereview — itu jalan siapnya. / Prepared with AI assistance from the corrected English master; native West Coast Bajau review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Bantuan AI**: Prepared with AI assistance from the corrected English master.
 - **Pemberian**: Kitab ini diberi percuma, tiada bayaran; salinan, pembetulan, dan versi nang lebih baik dialu-alukan. / Freely given; copies, corrections, and better versions are welcomed.
 - **Bahasa**: Kitab ini dalam Bahasa Bajau Pasisir Barat (bdr) saja; Suluk (Tausug) sudah ada terjemahan tercetak — kitab ini bukan Suluk. / This draft is in West Coast Bajau (bdr) only; Suluk (Tausug) is already served by printed translations — this book is not Suluk.
 

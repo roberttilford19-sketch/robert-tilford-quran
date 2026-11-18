@@ -1,15 +1,15 @@
 # Ayah Companion
 
-بلوچی مسودہ — جائزہ ءِ واست ءَ مسودہ (آخری ایڈیشن نہ اِنت)
+بلوچی مسودہ
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **اے ایڈیشن ءِ بارہ ءَ / About this edition:**
 - **بنیاد**: چہ رابرٹ ٹلفورڈ ءِ درست کتگیں انگریزی اصل (Locked English Master؛ 114 سورت / 6,236 آیت)؛ عربی اصل ھم آیت پہ آیت گون اِنت۔ / From Robert Tilford's corrected English master; the Arabic source stands alongside it, verse by verse.
 - **طریقہ**: صِرف قرآن۔ زکات ءَ ھچ فیصد نہ دَیگ بیت، چیا کہ قرآن ءَ ھچ فیصد نہ داتگ؛ ھچ حدیث یا تفسیر ھوار نہ کتگ۔ / Quran-alone method. Zakat receives no percentage, because the Quran gives none; no hadith or commentary has been added.
 - **زبان**: معیاری بلوچی، بلوچی عربی رسم الخط (بلورابی) ءَ، سادہ ءُ صاف زبان ءَ کہ یک عام وانندھے آسانى ءَ گوں سرپد بہ بیت۔ / Standard Balochi in the Balochi Arabic-based script (Balorabi), in plain wording a humble reader can follow.
-- **حالت**: مسودہ — جائزہ نہ گپتگ / DRAFT — NOT REVIEWED۔ اے یک کار کنوکیں مسودہ اِنت کہ بلوچی ماتی زبان ءِ جائزہ ءِ وداریگ اِنت؛ اے منظور شدہ نہ اِنت، آخری نہ اِنت، ءُ ماتی زبان ءِ گپ جنوکے ءَ جائزہ نہ گپتگ۔ / A working draft awaiting native Balochi review; not certified, not final, and not native-reviewed.
-- **AI ءِ کمک**: اے مسودہ درست کتگیں انگریزی اصل ءَ چہ AI ءِ کمک ءَ گوں تیار کتگ؛ ھر کارمرز ءَ پیسرا بلوچی ماتی زبان ءِ جائزہ لازم اِنت۔ / Prepared with AI assistance from the corrected English master; native Balochi review is required before any use.
+- **حالت**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI ءِ کمک**: Prepared with AI assistance from the corrected English master.
 - **اولی ترجمہ نہ اِنت**: بلوچی قرآن ءِ ترجمہ پیسرا ھم ھست اَنت (مولانا حضور بخش ءُ دگہ عالمانی کار، ءُ کمپین بریف ءِ مطابق کنگ فہد کمپلیکس ءِ بلوچی ایڈیشن)۔ اے اولی ترجمہ نہ اِنت؛ اے صِرف قرآن ءِ طریقہ ءَ سادہ زبان ءِ مسودہ اِنت۔ / Balochi Qurans already exist (the translations of Moulana Huzoor Bakhsh and other scholars, and per the campaign brief the King Fahd Complex's Balochi edition); this is NOT a first translation — it is a Quran-alone plain-language draft.
 - **مفت دَیگ بیت**: اے مسودہ مفت دَیگ بیت؛ نقل، درستگی ءُ شرتریں صورت وش آتک گشگ بنت۔ / Freely given; copies, corrections, and better versions are welcomed.
 

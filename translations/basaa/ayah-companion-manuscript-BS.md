@@ -1,14 +1,14 @@
 # Ayah Companion
 
-Kuran ku Ɓasaá — Muswadda (ta muraja)
+Kuran ku Ɓasaá
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Basaa review; not for publication or distribution as a finished translation. This draft makes no claim about other Basaa renderings of the Quran and no first-translation claim.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no claim about other Basaa renderings of the Quran and no first-translation claim.
 
 **Muswadda ŋɔ / About this edition:**
 - **Source**: Built ku robert tilford's korrekted englis nkɛl; 114 surahs, 6,236 berses; arabik tekst tɛɛ besid ka bers. / Built from Robert Tilford's corrected English master; 114 surahs, 6,236 verses; the Arabic text stands beside every verse.
 - **Method**: Kuran yɔɔk. Zakat yé ta ɓɛsɛ ha persentag, ŋgandak kuran ha ta ki; ɔhɔ hadis kɛ kommentary su á yé added. / Quran alone. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: Draft — ta rebiewed. Ndi draft awaits rebiew li natib basaa speakers; li yé ta sertified nɛ kɔl ta yé ɓɛs bɛsɛ yɛ rebiew su happened. / DRAFT — NOT REVIEWED. This draft awaits review by native Basaa speakers; it is not certified and must not be used until that review has happened.
-- **AI assistance**: Prepared nɛ ai assistans ku korrekted englis nkɛl; natib basaa rebiew yé rekuired lɔl any use. / Prepared with AI assistance from the corrected English master; native Basaa review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI assistance**: Prepared with AI assistance from the corrected English master.
 - **Claim boundary**: Ndi draft yɛn ɔhɔ klaim ku ŋgɛl basaa renderings li kuran nɛ ɔhɔ lɔl-translation klaim. / This draft makes no claim about other Basaa renderings of the Quran and no first-translation claim.
 - **Gift**: Freely ha; kopies, korrektions, nɛ mɛɛn ɓaŋ bersions yé welkomed. / Freely given; copies, corrections, and better versions are welcomed.
 

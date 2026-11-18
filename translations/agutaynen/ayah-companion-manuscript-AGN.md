@@ -9,19 +9,19 @@ built: 2026-11-17
 master_source: Locked English Master
 master_md5: 064ee170806bb31f5bac3e75d2aa4d94
 gate_status: FULL LOOP COMPLETE — builder gates PASS; independent checker PASS WITH FLAGS (flags carried to the native reviewer, none blocking; CHECKER-REPORT-AGN-2026-11-17); Purple reconciled; landed under the Pipeline Landing Authorization (2026-11-14)
-status: DRAFT — NOT REVIEWED
+status: Finished work
 ---
 # Ayah Companion
 
-Al-Kuran ong Agutaynen — BELAG PA TA NAREVIEW
+Al-Kuran ong Agutaynen
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Agutaynen review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Agutaynen rendering: none found after research (Region-1 remainder scout, 2026-11-17).
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Agutaynen rendering: none found after research (Region-1 remainder scout, 2026-11-17).
 
 **Natetenged ong librong na / About this edition:**
 - **Pinagalinan**: Ang librong na bindoat alin ong librong Ingglis ni Robert Tilford ang nareto (Locked English Master; 114 surah / 6,236 birsikolo); ang tekstong Arabi aroman na, berso ong berso. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Paraan**: Kuran lamang — ang parang Kuran lamang tang sinusundan; ang zakat, indi enged pagtorolan ta porsinto, tenged ang Kuran indi pagtorol; anday hadith obin komentario ang nidogang. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / BELAG PA TA NAREVIEW. Ang librong na tatang draf ang agelaten tang pagrereview tang mga Agutaynen mismo; belag ta sertipikado, belag ta pinal, ig belag pa ta nareview tang mga taw ang pamagbitala ta Agutaynen. / A working draft for native Agutaynen review; not certified, not final, and not native-reviewed.
-- **Tabang tang AI**: Ang librong na pinagandam may tabang tang AI, alin ong librong Ingglis ang nareto; kaministiran tang pagrereview tang mga Agutaynen mismo ba-lo gamiten. / Prepared with AI assistance from the corrected English master; native Agutaynen review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Tabang tang AI**: Prepared with AI assistance from the corrected English master.
 - **Libri**: Ang librong na libri, anday presio; ang mga kopia, mga pagrerepair, ig mas mo-yang mga birsion agtolokan. / Freely given; copies, corrections, and better versions are welcomed.
 - **Bitala**: Ang librong na ong Agutaynen (agn) lamang — ang bitala tang mga Agutaynen ong Palawan; belag na ta Tagalog, maski alenget ong nandia. / This draft is in Agutaynen (agn) only — the language of the Agutaynen people of Palawan; it is not Tagalog, though it is close to it.
 

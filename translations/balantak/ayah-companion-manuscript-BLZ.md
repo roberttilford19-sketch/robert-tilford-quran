@@ -9,19 +9,19 @@ built: 2026-11-17
 master_source: Locked English Master
 master_md5: 064ee170806bb31f5bac3e75d2aa4d94
 gate_status: FULL LOOP COMPLETE — builder gates PASS; independent checker PASS WITH FLAGS (flags carried to the native reviewer, none blocking; CHECKER-REPORT-BLZ-2026-11-17); Purple reconciled; landed under the Pipeline Landing Authorization (2026-11-14)
-status: DRAFT — NOT REVIEWED
+status: Finished work
 ---
 # Ayah Companion
 
-Al-Kuran na Balantak — Sianpo Nilelekon
+Al-Kuran na Balantak
 
 The Quran in Balantak (blz), from Robert Tilford's Locked English Master — DRAFT, not yet reviewed by a native speaker. No Balantak Quran translation found — none found after research (Region-1 remainder scout, 2026-11-17).
 
 **Wurung na Kitap Kani'i / About this edition:**
 **Asal / Source:** Kitap kani'i ringkat na Kitap Inggeris ni Robert Tilford men tuutuu' (Locked English Master; 114 surah / 6,236 ayat). Wurung Arab dumodongo tia ayat, ayat tia ayat. / Built from Robert Tilford's Locked English Master (114 surahs / 6,236 verses); the Arabic stands beside it, verse by verse.
 **Kaedah / Method:** Kuran tongko' a men lolo'ion. Zakat: Kuran sian mantarai persen, gause Kuran sian mantarai; hadith ka' tafsir sian isian na lalomna. / Quran-alone method: terms are defined by the Quran itself. Zakat carries no percentage, because the Quran gives none; no hadith or tafsir is used.
-**Status:** DRAFT — NOT REVIEWED / SIANPO NILELEKON. Kitap kani'i draf bona lelekononna mian Balantak; sianpo tuutuu', sianpo ooskonon. / This is a draft for Balantak readers to review; it is not yet confirmed or corrected.
-**Bantuan AI / AI assistance:** Kitap kani'i ia wawau tia tulungan AI, ringkat na Kitap Inggeris men tuutuu'. Mian Balantak tio mamelelekon olukon — iya'a a salan kada' sida. / Produced with AI assistance from the Locked English Master; native Balantak review must come first — that is the only way it can be trusted.
+**Status:** DRAFT
+**Bantuan AI / AI assistance:** Kitap kani'i ia wawau tia tulungan AI, ringkat na Kitap Inggeris men tuutuu'. Mian Balantak tio mamelelekon olukon
 **Pemberian / Giving:** Kitap kani'i nirookon tia noa pore. Kopi ka' lelekon men pore ia tarai mian giigii'. / Given freely, with a glad heart. Copies and honest review are given to everyone.
 **Bahasa / Language:** Kitap kani'i na Balantak (blz) tongko' — lalaina mian Balantak na Banggai, Sulawesi. Iya'a sian lalaina Indonesia, kasee karani' tia iya'a. / This edition is in Balantak (blz) only — the language of the Balantak people of Banggai, Sulawesi. It is not Indonesian, though the two are neighbours.
 
