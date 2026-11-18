@@ -34,4 +34,4 @@ extra Latin-residue gate PASS, 2026-11-12
 
 Files:
   22611811  464b9aab5e4746cde0d4956ec6c6e00645e181b678c7ef3f3928a9d8a37ddce0  Ayah_Companion_Tilford_Uyghur_Manuscript.pdf (905 pp)
-   2962315  4364a9e395ed5753ed761e40e597da88833c7be363b49294e2225303e24fb95b  ayah-companion-manuscript-UG.md
+   2961385  313ebe906b329681097361be85ff3ad68556388c183121d10c9bc4606592ec29  ayah-companion-manuscript-UG.md
