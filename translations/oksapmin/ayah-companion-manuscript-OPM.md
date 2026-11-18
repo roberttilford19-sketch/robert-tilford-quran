@@ -18915,7 +18915,7 @@ ip go are in stat op impurity, puripy yourselbes. Ip go are ill, ang trabelling,
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Whil tos ma inahatin, eka ohoh rigteousness, eka inahatin in what a sent down watei muhammad — eka oh aya hapat arpin prom ire Hanipyah — oh remits ire er, eka reliebes ire konserns.
+**47:2** Whil tos ma inahatin, eka ohoh rigteousness, eka inahatin in what a sent down watei Muhammad — eka oh aya hapat arpin prom ire Hanipyah — oh remits ire er, eka reliebes ire konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
