@@ -59,7 +59,7 @@ work/flags-sim.txt — 18 named items plus residue counts, carried to the indepe
   SHA-256 d0294801f2d841236e4963c498e65ba0c2e54954e6c4f9383e65ff76fc7d1020
 ayah-companion-manuscript-SIM.md
   2,209,591 bytes
-  SHA-256 bb96a9599c19eb5f89fadf18ed3c65b1ccce07a6d749abec30364ee8a8107368
+  SHA-256 c99c11a03aa2bd1a3476d020467f1c51b57f8034bc9064f193ed0e1440c91cc3
 ayah-companion-aligned-SIM.json (the aligned array: 6,236 objects,
 chapter/verse/en/target/ar, per the house FILE-SCHEMA)
   3,326,550 bytes
