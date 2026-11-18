@@ -18914,7 +18914,7 @@ nabë ġe- are loḳ stat gaḳ impurity, purivy nġo. Nabë ġe- are ill, ma vi
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Whil tos re vonġ ving, log huk rigteousness, log vonġ ving loḳ va was sent ahu vu muhammad — log yi sa ġaġek anon vu hir Mehöböp — yi remits hir nġaa nipaya, log relieves hir konserns.
+**47:2** Whil tos re vonġ ving, log huk rigteousness, log vonġ ving loḳ va was sent ahu vu Muhammad — log yi sa ġaġek anon vu hir Mehöböp — yi remits hir nġaa nipaya, log relieves hir konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
