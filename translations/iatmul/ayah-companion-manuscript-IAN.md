@@ -18913,7 +18913,7 @@ ip ngwuk ale in stat op impulity, pulipy youlselves. Ip ngwuk ale ill, ol tlavel
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Whil tos kada believ, lɨga jɨvwa ligteousness, lɨga believ in what was sent down kat muhammad — lɨga it wun tlut plom teil Njambwi — ndɨ lemits teil sins, lɨga lelieves teil konselns.
+**47:2** Whil tos kada believ, lɨga jɨvwa ligteousness, lɨga believ in what was sent down kat Muhammad — lɨga it wun tlut plom teil Njambwi — ndɨ lemits teil sins, lɨga lelieves teil konselns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
