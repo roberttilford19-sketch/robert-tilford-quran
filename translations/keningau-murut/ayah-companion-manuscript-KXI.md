@@ -18900,7 +18900,7 @@ konok oko ohondo' ra stat nu impurity, purify yourselves. Konok oko ohondo' soma
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Timpok hino' aun mintopud, am angkaraja' rigteousness, am mintopud ra aun ohondo' sent down du muhammad — am io makondoh kebenaran intocl nilo Tuhan — io remits nilo sins, am relieves nilo konserns.
+**47:2** Timpok hino' aun mintopud, am angkaraja' rigteousness, am mintopud ra aun ohondo' sent down du Muhammad — am io makondoh kebenaran intocl nilo Tuhan — io remits nilo sins, am relieves nilo konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
