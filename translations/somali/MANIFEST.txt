@@ -16,4 +16,4 @@ workspace lane folder ~/workspace/ayah-somali/, unrepaired.
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Files:
-  2279349  3cc7f9235745d1aa65f8673578b2786ecf1aa34b14c42e49bb7a5be18cdd6593  ayah-companion-manuscript-SO.md
+  2278729  94aaf647cfcf393ad8cc42b4f992e3f6a3f0a7e4e363a3071c2f66d888cf73fb  ayah-companion-manuscript-SO.md
