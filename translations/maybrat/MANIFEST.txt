@@ -55,7 +55,7 @@ work/flags-ayz.txt — 18 named judgment-call items plus residue counts, carried
   SHA-256 0e00bf6693c32602b031e6805e2dbdca1d4fff46b6f6aaa70da9e3cbd4bc9aa7
 ayah-companion-manuscript-AYZ.md
   2,166,293 bytes
-  SHA-256 7c8d2af0794f3507ca2d7ac926d866adcd9b39da883ad996be511e34fe904f43
+  SHA-256 29a94200bc8e35965c5de92000dbf9ba3d44a0962f959af4d1c9082837505465
 ayah-companion-aligned-AYZ.json (aligned array: chapter/verse/en/target/ar)
   3,283,766 bytes
   SHA-256 16256451d8a0c4df9dc801b2a1147af2bdf7f569b6da3b11f7b27aa22d19393f
