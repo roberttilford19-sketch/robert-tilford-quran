@@ -2,8 +2,8 @@ MANIFEST — Balantak (BLZ) lane — Ayah Companion
 Built 2026-11-17 (Region-1 remainder wave).
 Independent checker (separate agent): PASS WITH FLAGS (CHECKER-REPORT-BLZ-2026-11-17.md) — every hard gate re-measured exact, no discrepancies against the builder; 14 flags (6 MATERIAL disclosures, 8 MINOR), none blocking. Landed under the Pipeline Landing Authorization (2026-11-14).
 
-ayah-companion-manuscript-BLZ.md   2,287,506 bytes
-  SHA-256 9b9f3901d9690e6312adede2a936531643717815790d01f8e242654671d3bbbe
+ayah-companion-manuscript-BLZ.md   2,286,592 bytes
+  SHA-256 a1700911d4685c954dc2507893b98a7ec86ae9db368cf0d17a29e64cb92d524b
   114 surahs / 6,236 verses; canonical verify PASS; lane checker 0 problems.
 STYLEGUIDE-BLZ.md                  lane law (keying, counted slots, names)
 GLOSSARY-BLZ.md                    keyed terms with grounds
