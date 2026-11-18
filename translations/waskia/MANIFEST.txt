@@ -59,7 +59,7 @@ work/flags-wsk.txt — 14 named judgment-call items plus residue counts, carried
   SHA-256 8cd281c148f451c8f63ff0b19967bf7daad5ce85795a4c4dad432d76b997fa41
 ayah-companion-manuscript-WSK.md
   2,260,247 bytes
-  SHA-256 d66ac0c68f1ce80fbfe114a0a261d1902325da75e9f150a48ec928a18d3fa408
+  SHA-256 20f48664349d3a5aed6f11eec937e213067a71c62ce6a4b587ed08c14c2f0ef4
 ayah-companion-aligned-WSK.json (the aligned array: 6,236 objects,
 chapter/verse/en/target/ar, per the house FILE-SCHEMA)
   3,376,343 bytes
