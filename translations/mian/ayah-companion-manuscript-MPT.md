@@ -18914,7 +18914,7 @@ mole kobo are in gaisaibbuei of impurity, purify ibmal. Mole kobo are ill, bleka
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Yole olo who bainobo, eka okok rigteousness, eka bainobo in fatnamin was sent daak to muhammad — eka e ne trut da imi Sume — e remits imi hengamin, eka reliefes imi konserns.
+**47:2** Yole olo who bainobo, eka okok rigteousness, eka bainobo in fatnamin was sent daak to Muhammad — eka e ne trut da imi Sume — e remits imi hengamin, eka reliefes imi konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
