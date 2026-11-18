@@ -18902,7 +18902,7 @@ nabu awu laako di stat ata impuriti, saaf emii faŋ. Nabu awu laako il, wala tra
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Nabaŋ ilaku ayi yinen, di ejeefo emaleegen, di yinen di waha laakowe boñuli bumbal boot muhamad — di oo laako maleegen butuum aku ata Amaaŋen — abu remit aku ata kujoŋ, di relieb aku ata konsern.
+**47:2** Nabaŋ ilaku ayi yinen, di ejeefo emaleegen, di yinen di waha laakowe boñuli bumbal boot Muhamad — di oo laako maleegen butuum aku ata Amaaŋen — abu remit aku ata kujoŋ, di relieb aku ata konsern.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
