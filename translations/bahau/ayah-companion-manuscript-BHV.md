@@ -18901,7 +18901,7 @@ amun ikaq teq haq stat hipun impurity, purify ikaq. Amun ikaq teq ill, hiat pana
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Whil atih hiq percaya, dahin melian rigteousness, dahin percaya haq nun was sent ileh to muhammad — dahin atih teq aleq man hipun dahaq Tuhan — hiaq remits hipun dahaq dosa, dahin relieves hipun dahaq konserns.
+**47:2** Whil atih hiq percaya, dahin melian rigteousness, dahin percaya haq nun was sent ileh to Muhammad — dahin atih teq aleq man hipun dahaq Tuhan — hiaq remits hipun dahaq dosa, dahin relieves hipun dahaq konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
