@@ -17,4 +17,4 @@ workspace lane folder ~/workspace/ayah-malagasy/, unrepaired.
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Files:
-  2360016  7e84febc36c9316591464ca85e5deafdebc95a469acec7a90ca58a5b13a9a4c9  ayah-companion-manuscript-MG.md
+  2359434  091e4f0c8b13dfecb487c0d4280cf2b5f35cf8ac28112fec10b48bef738cc931  ayah-companion-manuscript-MG.md
