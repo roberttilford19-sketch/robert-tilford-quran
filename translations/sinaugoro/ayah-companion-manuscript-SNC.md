@@ -18914,7 +18914,7 @@ bema ḡoi tu ai stat dabio impurity, purify poss. Bema ḡoi tu ill, ba travell
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** A-kure dabuḡa senu ḡabidadama, ema ḡauvei riḡteousness, ema ḡabidadama ai dagara tu pearlings dori-riḡo ḡana muhammad — ema ḡia tu moḡea baege ḡeri Vereḡauka — ḡia remits ḡeri veiḡa, ema relieves ḡeri konserns.
+**47:2** A-kure dabuḡa senu ḡabidadama, ema ḡauvei riḡteousness, ema ḡabidadama ai dagara tu pearlings dori-riḡo ḡana Muhammad — ema ḡia tu moḡea baege ḡeri Vereḡauka — ḡia remits ḡeri veiḡa, ema relieves ḡeri konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
