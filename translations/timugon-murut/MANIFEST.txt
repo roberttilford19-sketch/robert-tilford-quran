@@ -57,8 +57,8 @@ work/flags-tih.txt — 8 named uncertain-seat items plus residue counts, carried
   3,230 bytes
   SHA-256 9e15f5657950a66de596ca90a2d237e155a9f5e4d6d0cdf61decda3e88a9b7fc
 ayah-companion-manuscript-TIH.md
-  2,277,669 bytes
-  SHA-256 1c8167bc41789f2448609d61333f72af2165cbc036d6ab8739808609b10b8aae
+  2,277,135 bytes
+  SHA-256 c24696df5be6eaee07acb24afe70b0e11cbc95480e3c02b0662b1ff83f18b8d5
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
