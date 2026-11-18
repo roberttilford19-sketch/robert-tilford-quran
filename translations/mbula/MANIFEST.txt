@@ -49,8 +49,8 @@ work/flags-mna.txt — 13 named uncertain-seat items plus residue counts, carrie
   4,203 bytes
   SHA-256 db7c49628828f076ef10660ed9aee955a75d0aeebfa01af5fcf9dbab3a9f2870
 ayah-companion-manuscript-MNA.md
-  2,206,265 bytes
-  SHA-256 05f36fc955bb9d783fe402ebc261d8863b776b162986fc80f18135ec9e2bc8db
+  2,205,831 bytes
+  SHA-256 c764b9b01e437169f1f0ae1dda5f5e150683b8651b1f3e1363f3add806e85915
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
