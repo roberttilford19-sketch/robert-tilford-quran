@@ -23,4 +23,4 @@ The full lane record (build report, verification and checker records, flags)
 stands in the workspace lane folder ~/workspace/ayah-geez/, unrepaired.
 
 Files:
-  2537323  a81b64b8320f756ccfa3c9604de9265761d9ea937932838cd1158090ce59628f  ayah-companion-manuscript-GEZ.md
+  2536657  ffcc8009a0f3fbceec23bc6153ed11d33650831c3b8a68982842a57b7ea71f6b  ayah-companion-manuscript-GEZ.md
