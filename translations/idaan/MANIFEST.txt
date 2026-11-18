@@ -57,8 +57,8 @@ work/flags-dbj.txt — 14 named uncertain-seat items plus residue counts, carrie
   6,617 bytes
   SHA-256 14ec7cb24c59814f5f015ac9ec589bedddaafbaee593fd56fb31c59116d584af
 ayah-companion-manuscript-DBJ.md
-  2,178,689 bytes
-  SHA-256 d694af13e13f67ac8da1d9876e9ef11435f13fa25af5c8f0eb12ebf2e8d81369
+  2,178,192 bytes
+  SHA-256 fb0aa4f6bfb16986bea3888f9047bf93f020209bdb19a26de56d9f7a6a6ffd82
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
