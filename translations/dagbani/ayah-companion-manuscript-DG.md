@@ -1,14 +1,14 @@
 # Ayah Companion
 
-Dagbanli Fɛɛsibu — SABBU DIN NA BI NIŊ VIHIGU
+Dagbanli Fɛɛsibu
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Dagbani review; not for publication or distribution as a finished translation. This draft makes no first-translation claim.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim.
 
 **Ŋɔ fɛɛsibu ŋmɛri / About this edition:**
 - **Piligu**: Robert Tilford Alkur'aani fɛɛsibu din tuɣi Inkilisi sabbu din niŋ vihigu (Locked English Master; suura 114 / aaya 6,236) ka Dagbanli fɛɛsibu ŋɔ pili; Arabu sabbu maa ʒi aaya kam sani. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Sɔli**: Alkur'aani kɔŋko — Alkur'aani kɔŋko le kahigi yɛltɔɣa; zaka bi ti piɛsinta (percentage) shɛli, dama Alkur'aani bi ti li; hadiisi kana sabbu shɛli bi paai. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Vihigu kalinsi**: SABBU DIN NA BI NIŊ VIHIGU / DRAFT — NOT REVIEWED. Ŋɔ nyɛla sabbu din Dagbanli baŋdiba ni niŋ vihigu; di na bi nyɛ fɛɛsibu din naai. / A working draft for native Dagbani review; not certified, not final, and not native-reviewed.
-- **AI sɔŋsim**: Ŋɔ fɛɛsibu sabi mi ni AI sɔŋsim, Inkilisi sabbu din niŋ vihigu maa ni; Dagbanli vihigu tabaɣaya pɔi ka di ni tooi tum tuma. / Prepared with AI assistance from the corrected English master; native Dagbani review is required before any use.
+- **Vihigu kalinsi**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI sɔŋsim**: Prepared with AI assistance from the corrected English master.
 - **Dii**: Ŋɔ fɛɛsibu nyɛla din dii labsa ka pa yɔda; di sabbu labi, di tuɣibu, ni fɛɛsibu shɛŋa din viɛla gba nyɛla din saɣi. / Freely given; copies, corrections, and better versions are welcomed.
 
 # Suura Nima Yuya

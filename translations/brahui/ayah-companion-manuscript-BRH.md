@@ -1,14 +1,14 @@
 # Ayah Companion
 
-Brahui Tarjuma — MASWADA, JAAIZA AF
+Brahui Tarjuma
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Brahui review; not for publication or distribution as a finished translation. This draft makes no first-translation claim.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim.
 
 **Daa tarjuma baray ti / About this edition:**
 - **Buniyaad**: Daa Brahui tarjuma Robert Tilford na saheeh Inkilisi asal (Locked English Master; surah 114 / ayat 6,236) an banaassut ay; Arabi asal har ayat tay barabar sakhissut ay. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Tor**: Kuran sirf — Kuran khud lafz k na maana bayan karoy; zakat kin hich faisad (percentage) af, ho sabab ki Kuran hich af atay; hich hadees ya tafsir shaamil af. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Jaiza kalisi**: MASWADA — JAAIZA AF MARAY / DRAFT — NOT REVIEWED. Daa asi kaar wala maswada ay Brahui jaanna wala k na jaiza kin; daa tayyaar tarjuma af. / A working draft for native Brahui review; not certified, not final, and not native-reviewed.
-- **AI madad**: Daa tarjuma AI madad tay, saheeh Inkilisi asal an, banaassut ay; istemaal an pahle Brahui jaanna wala na jaiza lazimi ay. / Prepared with AI assistance from the corrected English master; native Brahui review is required before any use.
+- **Jaiza kalisi**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI madad**: Prepared with AI assistance from the corrected English master.
 - **Ata**: Daa tarjuma muft ata ay; naql, islaah wa bahtar soorat sabh khush aamad ay. / Freely given; copies, corrections, and better versions are welcomed.
 
 # Surah k na Naam

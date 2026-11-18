@@ -4,7 +4,7 @@
 **A Contemporary Corsican Translation of the Meaning of the Quran**
 
 *Bozza per a revisione — tradutta da a versione inglese curretta di Robert Tilford. Micca publicata.*
-*(Review draft — translated from Robert Tilford's corrected English manuscript. Unpublished.)*
+Translated by Robert Tilford. © 2026 Robert Tilford.
 
 ---
 

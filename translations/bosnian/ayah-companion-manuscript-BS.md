@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Bosanski prijevod — nacrt za pregled (nije konačna verzija)
+Bosanski prijevod
 
-Rendered from Robert Tilford's sealed literal Recital (the Locked English Master). DRAFT — NOT REVIEWED: a complete working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **O ovom izdanju / About this edition:**
 - **Osnova teksta**: zapečaćeni doslovni Recital Roberta Tilforda na engleskom jeziku (Zaključani engleski master; 114 sura / 6.236 ajeta); arapski tekst stoji uz njega, ajet uz ajet.
 - **Metoda**: Kur'an sam. Zekat nikada ne dobija procenat, jer Kur'an ne propisuje nikakvu stopu; nije dodan nikakav hadis niti tafsirski materijal.
 - **Jezik**: jednostavan, jasan savremeni bosanski jezik — najjednostavniji oblik koji običan čitalac može razumjeti.
-- **Status**: NACRT — NIJE PREGLEDANO / DRAFT — NOT REVIEWED. Prvi potpuni radni nacrt koji čeka pregled izvornog govornika bosanskog jezika; nije provjeren, nije konačan i nije pregledan od strane izvornog govornika.
-- **Pomoć umjetne inteligencije**: ovaj nacrt je pripremljen uz pomoć umjetne inteligencije iz zapečaćenog engleskog mastera; prije svake upotrebe svaki ajet mora pregledati izvorni govornik bosanskog jezika. / Prepared with AI assistance from the sealed English master; native Bosnian review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Pomoć umjetne inteligencije**: Prepared with AI assistance from the corrected English master.
 - **Nije prvi prijevod**: prijevodi Kur'ana na bosanski jezik već postoje (među njima i Korkutov prijevod). Ovo nije prvi prijevod; ovo je nacrt jednostavnog jezika po metodi Kur'an-sam. / Bosnian Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **Daje se besplatno**: ovaj nacrt je besplatan; kopije, ispravke i bolje verzije su dobrodošle. / Freely given; copies, corrections, and better versions are welcomed.
 

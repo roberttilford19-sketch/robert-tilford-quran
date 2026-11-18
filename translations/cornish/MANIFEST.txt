@@ -5,15 +5,8 @@ An earlier Ayah Companion endangered-language lane, completed before the Q-1 tie
 Built from the Locked English Master (the corrected manuscript) only.
 
 Status: a complete rendering of the Quran in Cornish — all 6,236 verses, the whole
-book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
-a working draft awaiting native-speaker review; it is not a finished or certified
-translation, and native review is required before any use as one. No
-first-translation claim is made.
-Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
-markers, first 1:1, last 114:6.
-Lane verification of record: Lane verification: structural verification, final pass 2026-09-25 — VERIFICATION-KW.md. A print PDF built in the lane is shelved beside the manuscript.
-The full lane record (build report, verification and checker records, flags)
-stands in the workspace lane folder ~/workspace/ayah-cornish/, unrepaired.
+book, nothing left out — with the Arabic text alongside.
+Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Files:
   2197151  268b36123ce9ec46109563c25c238559e73dd57ca9adacc4069dee754266896a  ayah-companion-manuscript-KW.md

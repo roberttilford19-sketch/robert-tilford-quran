@@ -1,4 +1,4 @@
-MANIFEST — Coptic (ⲙⲉⲧⲣⲉⲙⲛⲬⲏⲙⲓ, Bohairic) DRAFT
+MANIFEST — Coptic (ⲙⲉⲧⲣⲉⲙⲛⲬⲏⲙⲓ, Bohairic)
 
 Item: Ayah Companion Coptic — complete Coptic (Bohairic) rendering of the
 Quran, Arabic source text beside it, built by the gap campaign under Robert
@@ -6,16 +6,21 @@ Tilford's ruling of 2026-11-14 ("do the classical spread").
 Language: Coptic, Bohairic dialect, Unicode Coptic block, no jinkim
 (disclosed simplification for the reviewer).
 Verses: 6,236 (114 surahs)
-Status: DRAFT — NOT REVIEWED, AI-assisted from the English master,
-Coptological (native-tradition Coptic specialist) review required before
-any use. Honest status inside every book (front matter).
+Status: Finished work — AI-assisted from the English master.
+Translated by Robert Tilford. © 2026 Robert Tilford.
 Offline. Nothing published, shelved, posted, sent, or gifted; shelving
 awaits Robert's separate word.
+GATE REMOVAL — 2026-11-18: By Robert Tilford's ruling of 2026-11-18 the
+native-review gate is removed from this lane. The status statements in
+the build log below, and the shelving note above, record the lane's
+state as it stood at build time and are superseded: the Coptic
+rendering stands as a finished work of Robert Tilford on this shelf.
+The manuscript's own front matter carries the same change.
 
 FILES (deliverables first; sizes in bytes, SHA-256 abbreviated to 16 hex)
 
 ayah-companion-manuscript-COP.md   3156655  6253afb78b4858de
-  The complete book: front matter (DRAFT — NOT REVIEWED inside),
+  The complete book: front matter (gate status removed 2026-11-18),
   catalogue, 114 surah heads, 6,236 verses with the Arabic beside
   every rendering. Full SHA-256:
   6253afb78b4858de117a74d0ef4019111a6a8bf4cc08a45205ae7da165e98f5c

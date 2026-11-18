@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Traducció catalana — ESBORRANY PER REVISAR (no és l'edició final)
+Traducció catalana
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Sobre aquesta edició / About this edition:**
 - **Font**: A partir del manuscrit anglès corregit de Robert Tilford (Locked English Master; 114 sures / 6.236 versets); el text àrab acompanya el text, verset a verset. / From Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic text stands alongside it, verse by verse.
 - **Mètode**: Alcorà sol. La zakat no rep mai cap percentatge, perquè l'Alcorà no en dóna cap; no s'hi ha afegit cap hadit ni cap comentari. / Quran-alone method. Zakat receives no percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Llengua**: Català contemporani, clar i senzill, amb l'ortografia estàndard, en paraules planeres que un lector humil pot seguir. / Clear, contemporary Catalan in standard orthography, in plain wording a humble reader can follow.
-- **Estat**: ESBORRANY — NO REVISAT / DRAFT — NOT REVIEWED. Un esborrany de treball que espera la revisió de parlants nadius de català; no és certificat, no és final, i cap nadiu no l'ha revisat. / A working draft awaiting native Catalan review; not certified, not final, and not native-reviewed.
-- **Ajuda d'IA**: Preparat amb l'ajuda de la intel·ligència artificial a partir del manuscrit anglès corregit; cal la revisió de parlants nadius de català abans de qualsevol ús. / Prepared with AI assistance from the corrected English master; native Catalan review is required before any use.
+- **Estat**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Ajuda d'IA**: Prepared with AI assistance from the corrected English master.
 - **Gratuït**: Es dóna gratuïtament; les còpies, les correccions i les versions millors són benvingudes. / Freely given; copies, corrections, and better versions are welcomed.
 
 # Contingut

@@ -1,14 +1,14 @@
 # Ayah Companion
 
-Al-Kuran ma Bahasa Sama Tengah — INDA' GI' NIREVIEW
+Al-Kuran ma Bahasa Sama Tengah
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Central Sama review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Central Sama rendering: none found after research.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Central Sama rendering: none found after research.
 
 **Pasal kitab ini / About this edition:**
 - **Asal**: Kitab ini dibuat dari kitab Inggeris Robert Tilford nang sudah dibetulkan (Locked English Master; 114 surah / 6,236 ayat); teks Arab berdiri di sebelahnya, ayat demi ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Kaedah**: Kuran saja — Kuran saja nang ditaati; zakat, Kuran inda' memberi persen, sebab Kuran inda' memberi; tiada hadith atau tafsir ditambah. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / INDA' GI' NIREVIEW. Kitab ini draf kerja untuk direview oleh a'a Sama Tengah sendirinya; belum disahkan, belum siap, dan belum direview oleh penutur asli. / A working draft for native Central Sama review; not certified, not final, and not native-reviewed.
-- **Bantuan AI**: Kitab ini disediakan duk bantuan AI, dari kitab Inggeris nang sudah dibetulkan; a'a Sama Tengah sendirinya mesti mereview — itu jalan siapnya. / Prepared with AI assistance from the corrected English master; native Central Sama review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Bantuan AI**: Prepared with AI assistance from the corrected English master.
 - **Pemberian**: Kitab ini diberi percuma, tiada bayaran; salinan, pembetulan, dan versi nang lebih baik dialu-alukan. / Freely given; copies, corrections, and better versions are welcomed.
 - **Bahasa**: Kitab ini dalam Bahasa Sama Tengah (sml) saja — bahasa Sama-Bajaw; asas katanya asas Bajau Pasisir Barat, dan ayat khas Sama Tengah menunggu tangan penutur asli. / This draft is in Central Sama (sml) only — a Sama-Bajaw language; its word base is the West Coast Bajau cluster base, and Central-Sama-specific idiom awaits the native reviewer's hand.
 

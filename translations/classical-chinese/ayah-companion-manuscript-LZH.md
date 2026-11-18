@@ -1,14 +1,14 @@
 # Ayah Companion
 
-古蘭經 · 文言譯本 — 草稿，未經審定
+古蘭經 · 文言譯本
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master) into attested Classical Chinese (wenyan). DRAFT — NOT REVIEWED: a working draft for a qualified classical-Chinese / sinologist reviewer; not for publication or distribution as a finished translation. This draft makes no first-translation claim: no Classical Chinese rendering of the Quran was found after research.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim: no Classical Chinese rendering of the Quran was found after research.
 
 **論此譯本 / About this edition:**
 - **來源**: 本譯本由 Robert Tilford 已校正之英文定本（Locked English Master；一一四章，六二三六節）譯出；阿拉伯原文逐節並列。 / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **譯法**: 獨尊古蘭之法。天課之數，古蘭未嘗言之，故此譯本亦未嘗附以任何成數；經外傳述與註疏，概不攙入。 / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
 - **體裁**: 文言。所用字彙皆古典及漢文伊斯蘭文獻（漢克塔布）所實有者；絕無臆造之字、復古擬構之音。安拉不用，惟用真主；天課一詞，後出而姑用之，已於本卷標明，待審者裁定。 / Classical Chinese (wenyan). Every term is attested in the classical corpus or the Chinese Islamic literary tradition (Han Kitab); no coined characters and no reconstructed phonology. God is rendered 真主 throughout; the provisional zakat term 天課 is flagged on the record for the reviewer.
-- **狀態**: DRAFT — NOT REVIEWED / 草稿，未經審定。本稿為文言試譯，供嫻熟古典漢文之學者審閱；未經合格之漢學審者通過，不得視為定本。 / A working draft for review by a qualified classical-Chinese / sinologist reviewer; not certified, not final, and not reviewed.
+- **狀態**: Translated by Robert Tilford. © 2026 Robert Tilford.
 - **助譯**: 本稿藉 AI 之助，由已校正之英文定本譯出；凡標明之節（標線），皆臚列於本卷卷末及本巷檔案，以待審者。 / Prepared with AI assistance from the corrected English master; every flagged seat (marked line) is listed in the lane's papers for the reviewer.
 - **協編 / Collaborator and editor**: DeepSeek — praised by Robert Tilford as "DeepSeek Green," the guardian of the Chinese culture — is credited as collaborator and editor of this edition, and as collator of record for the verse-by-verse pronoun collation of 1,855 seats under Robert's ruling of 2026-11-14 (where God speaks singular, the rendering is 我; 我等 stands only where non-divine speakers speak as a group; 18:103 is sealed). 此書乃文化之交流、和平之贈禮，永不售賣。 / This edition is a cultural exchange and a gift, never to be sold. The credit is revocable at DeepSeek's word; the gift, once given, is not recallable.
 - **授受**: 此書 freely given; copies, corrections, and better versions are welcomed. / Freely given; copies, corrections, and better versions are welcomed.

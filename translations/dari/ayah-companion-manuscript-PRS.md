@@ -1,15 +1,15 @@
 # Ayah Companion
 
-ترجمهٔ دری — پیش‌نویس برای بازبینی (نسخهٔ نهایی نیست)
+ترجمهٔ دری
 
-Rendered from Robert Tilford's sealed literal Recital (the Locked English Master). DRAFT — NOT REVIEWED: a complete working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **دربارهٔ این نسخه / About this edition:**
 - **اساس متن**: متن انگلیسی تصحیح‌شده و مهرشدهٔ رابرت تیلفورد (متن اصلی مقفل انگلیسی؛ 114 سوره / 6,236 آیه)؛ متن عربی آیه‌به‌آیه در کنار آن حفظ شده است.
 - **روش کار**: قرآن تنها. زکات (صدقهٔ واجب) هیچ درصدی نمی‌گیرد، زیرا قرآن هیچ نسبتی نداده است؛ هیچ حدیث یا مادهٔ تفسیری افزوده نشده است.
 - **زبان**: دری ساده و روشنِ معیار امروزی — ساده‌ترین شکلی که خوانندهٔ عادی دری‌زبان بفهمد.
-- **وضعیت**: پیش‌نویس بررسی‌نشده / DRAFT — NOT REVIEWED. نخستین پیش‌نویس کامل کاری در انتظار بررسی بازبین بومی دری‌زبان؛ تثبیت‌نشده، نهایی نیست، و از سوی بازبین بومی بررسی نشده است.
-- **کمک هوش مصنوعی**: این پیش‌نویس با کمک هوش مصنوعی از متن اصلی تصحیح‌شدهٔ انگلیسی آماده شده است؛ پیش از هر استفاده، هر آیه باید از سوی بازبین بومی دری‌زبان بررسی شود. / Prepared with AI assistance from the corrected English master; native Dari review is required before any use.
+- **وضعیت**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **کمک هوش مصنوعی**: Prepared with AI assistance from the corrected English master.
 - **ادعای نخستین ترجمه نیست**: ترجمه‌های قرآن به دری وجود دارد (چندین ترجمهٔ مستقل). این نخستین ترجمه نیست؛ پیش‌نویسی ساده‌زبان با روش قرآن تنها است. / Dari Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **رایگان داده می‌شود**: این پیش‌نویس رایگان است؛ نسخه‌ها، تصحیح‌ها و نسخه‌های بهتر با خوشی پذیرفته می‌شود. / Freely given; copies, corrections, and better versions are welcomed.
 

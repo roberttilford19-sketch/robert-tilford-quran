@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Diola-Fooñi Fasaroo — KOPPI (a maŋ ñaŋintin)
+Diola-Fooñi Fasaroo
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft in ONE variety, Diola-Fogny, for native Diola review; not for publication or distribution as a finished translation. This draft makes no first-translation claim and states no claim about other Diola renderings.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim and states no claim about other Diola renderings.
 
 **Elob booti fasaroo umme / About this edition:**
 - **Bunoo**: Robert Tilford ata Alkuraana fasaroo amaŋŋe di Inkiliseekaŋ di (Locked English Master; suura 114 / aaya 6,236) mu fasaroo Diola-Fooñi umme ti; Arabu safeeyaa be aaya feh kantarilaaku di temaay. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Silo**: Alkuraana kiliŋ — Alkuraana kiliŋ le ka kuma ke; asaka te dankan dankan sabaati la foŋ dii la, sabuŋ Alkuraana ye wo sabaati dii te; hadiisa wala ñaŋintinaay kayit te kafu la abu ma. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Evariyaay di esafeeyaa**: fasaroo umme di Diola-Fooñi (Joola Fooñi, Kujamataak) le safeyaa, esafeeyaa Latiŋ amaŋŋe di Senegal (Decree 2005-981). Diola mu busaan kuboŋaak kati kubariyaaw le, di fasaroo Fooñi kiliŋ te fo ko Diola feh mu wo le. / This draft is written in ONE variety, Diola-Fogny (Joola Fonyi, Kujamataak), in the Latin orthography of Senegal. Diola is a cluster of related varieties; this Fogny draft must never be presented as the whole cluster.
-- **Ñaŋintinaay**: KOPPI — A MAŊ ÑAŊINTIN / DRAFT — NOT REVIEWED. Ñiŋ mu kayit koppi le ti boot ñaŋintinnaalu Diola; a maŋ ke fasaroo banŋa ti. / A working draft for native Diola review; not certified, not final, and not native-reviewed.
-- **AI-dema**: Ñiŋ fasaroo sabaatita di AI dema le, butuum Inkilisee safeeyaa amaŋŋe; Diola ñaŋintinaay ka abu lafi le siyaa feh ŋa. / Prepared with AI assistance from the corrected English master; native Diola review is required before any use.
+- **Ñaŋintinaay**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI-dema**: Prepared with AI assistance from the corrected English master.
 - **Foloo kuma bali**: Ñiŋ koppi te fo ko abu mu fasaroo foloo kati Alkuraana di Diola, di dulaa si kiliŋ; abu te kuma fo la mata fasaroo doolu Diola. / This draft makes NO first-translation claim, and it states no claim about other Diola renderings.
 - **Dii**: Ñiŋ fasaroo be dii la fuuta te; abu kopiilu, abu ñaŋintinaay, di fasaroo doolu minnu ka bo abu la, feh ka lasabo. / Freely given; copies, corrections, and better versions are welcomed.
 

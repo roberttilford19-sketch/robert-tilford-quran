@@ -1,6 +1,5 @@
 MANIFEST — Classical Chinese (LZH) lane — 2026-11-16
-Status: DRAFT — NOT REVIEWED
-Landing: LANDED 2026-11-16 under Robert's Pipeline Landing Authorization (2026-11-14).
+Translated by Robert Tilford. © 2026 Robert Tilford.
 
 ayah-companion-manuscript-LZH.md
   bytes: 2069837

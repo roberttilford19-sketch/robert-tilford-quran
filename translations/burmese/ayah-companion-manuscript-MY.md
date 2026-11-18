@@ -1,14 +1,14 @@
 # Ayah Companion
 
-မြန်မာဘာသာပြန်ဆိုချက် — မူကြမ်း (ပြန်လည်မစစ်ဆေးရသေ)
+မြန်မာဘာသာပြန်ဆိုချက်
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Burmese review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **ဤထုတ်ဝေမှုအကြောင်း / About this edition:**
 - **အရင်းအမြစ်**: Robert Tilford ၏ ပြင်ဆင်ပြီး အင်္ဂလိပ်မူကြမ်းမူ (Locked English Master; စူရဟ် ၁၁၄ / အာယတ် ၆,၂၃၆) ကို အခြေခံ၍ တည်ဆောက်ထားသည်။ အာရဗီမူရင်းစာသားသည် အာယတ်တိုင်းဘေးတွင် ယှဉ်တွဲပါရှိသည်။ / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **နည်းလမ်း**: ကုရ်အာန်တစ်ခုတည်းနည်းလမ်း။ ဇကာတ်ကို ရာခိုင်နှုန်း တစ်ခါမျှ မပေးပါ၊ အကြောင်းမှာ ကုရ်အာန်က ရာခိုင်နှုန်း မပေးသောကြောင့်ဖြစ်သည်။ ဟဒီးစ် သို့မဟုတ် အနက်ဖွင့်ချက် ထည့်သွင်းထားခြင်း မရှိပါ။ / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
 - **ဘာသာစကား**: စံမြန်မာအရေးအသား (မြန်မာအက္ခရာ)၊ သာမန်စာဖတ်သူ နားလည်နိုင်သော ရိုးရှင်းသည့်စကားဖြင့်။ / Standard written Burmese (Myanmar script), in plain wording a general reader can follow.
-- **အခြေအနေ**: မူကြမ်း — ပြန်လည်မစစ်ဆေးရသေ / DRAFT — NOT REVIEWED. မြန်မာဘာသာစကားကျွမ်းကျင်သူ၏ ပြန်လည်စစ်ဆေးမှု မရရှိမီ အသုံးမပြုသင့်သော လုပ်ငန်းမူကြမ်းဖြစ်သည်။ / A working draft; native Burmese review is required before any use.
+- **အခြေအနေ**: Translated by Robert Tilford. © 2026 Robert Tilford.
 - **AI အကူအညီ**: ပြင်ဆင်ပြီး အင်္ဂလိပ်မူကြမ်းမှ AI အကူအညီဖြင့် ပြင်ဆင်ထားသည်။ / Prepared with AI assistance from the corrected English master.
 - **ပထမဆုံးဟူသော ပြောဆိုချက် မရှိပါ**: ဤမူကြမ်းသည် ကုရ်အာန်ကို မြန်မာဘာသာသို့ ပထမဆုံး ပြန်ဆိုချက်ဖြစ်သည်ဟု မည်သည့်နေရာတွင်မျှ မပြောပါ။ အခြားပြန်ဆိုချက်များအကြောင်းလည်း မည်သည့်ပြောဆိုချက်မျှ မပြုပါ။ / This draft makes no claim to be the first rendering of the Quran into Burmese, and makes no claim about other renderings.
 

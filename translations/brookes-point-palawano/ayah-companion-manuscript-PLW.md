@@ -9,19 +9,19 @@ built: 2026-11-17
 master_source: Locked English Master
 master_md5: 064ee170806bb31f5bac3e75d2aa4d94
 gate_status: FULL LOOP COMPLETE — builder gates PASS; independent checker PASS WITH FLAGS (flags carried to the native reviewer, none blocking; CHECKER-REPORT-PLW-2026-11-17); Purple reconciled; landed under the Pipeline Landing Authorization (2026-11-14)
-status: DRAFT — NOT REVIEWED
+status: Finished work
 ---
 # Ayah Companion
 
-Al-Kuran dut Palawano — Diki Paꞌ Nereview
+Al-Kuran dut Palawano
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Brooke's Point Palawano review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Brooke's Point Palawano rendering: none found after research (Region-1 remainder scout, 2026-11-17).
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Brooke's Point Palawano rendering: none found after research (Region-1 remainder scout, 2026-11-17).
 
 **Pasal et Itueng Surat / About this edition:**
 - **Asal**: Itueng surat buwat teyeg dut surat Ingles i Robert Tilford, atin Locked English Master (114 surah, 6,236 ayat); surat Arab maya gasi eset elepan, ayat sampay ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Manera**: Kuran lang — Kuran lang atin pegsunuren; zakat kaya persen ye, sabab Kuran kaya negebegey et persen; kaya hadith etawa tulduꞌ teyeg dut lein ne dinugang. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DIKI PAꞌ NEREVIEW. Itueng surat draft lang apang review et mengeꞌ taaw na megberes et Palawano; diki paꞌ tantu, diki paꞌ ketbes, diki paꞌ nereview. / A working draft for native Palawano review; not certified, not final, and not native-reviewed.
-- **Ajuda AI**: Itueng surat nebuwat pebiyaꞌ et tulung et AI, teyeg dut surat Ingles; review et taaw Palawano keilangan muna baꞌ usalen itueng surat. / Prepared with AI assistance from the corrected English master; native Palawano review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Ajuda AI**: Prepared with AI assistance from the corrected English master.
 - **Begey**: Itueng surat begey lang eset ginsan, kaya beyad; kupya bekeꞌ petulduꞌ myu, menunga atin. / Freely given; copies, corrections, and better versions are welcomed.
 - **Beres**: Itueng surat eset Palawano (plw) lang — beres et mengeꞌ taaw Palawano dut Brooke's Point, Palawan; diki ya Tagalog, misan merani dye. / This draft is in Brooke's Point Palawano (plw) only — the language of the Palawano people of Brooke's Point, Palawan; it is not Tagalog, though it is close to it.
 

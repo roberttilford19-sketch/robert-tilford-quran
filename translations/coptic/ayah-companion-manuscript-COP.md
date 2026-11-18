@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Ⲡⲓⲕⲟⲣⲁⲛ ⲷⲉⲛ ⲿⲙⲉⲧⲣⲉⲙⲛⲬⲏⲙⲓ — DRAFT — NOT REVIEWED
+Ⲡⲓⲕⲟⲣⲁⲛ ⲷⲉⲛ ⲿⲙⲉⲧⲣⲉⲙⲛⲬⲏⲙⲓ
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for Coptological review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Ⲉⲑⲃⲉ ⲡⲁⲓⲟⲩⲁⲹⲉⲙ / About this edition:**
 - **Ⲡⲓⲁⲣⲭⲏ**: ⲁⲵⲓ ⲉⲃⲟⲗ ⲷⲉⲛ ⲡⲓⲥⲷⲁⲓ ⲛⲁⲅⲅⲗⲓⲕⲟⲛ ⲉⲧⲥⲟⲩⲧⲟⲛ ⲛⲧⲉ Ⲣⲟⲃⲉⲣⲧ Ⲧⲓⲗⲫⲟⲣⲇ (Locked English Master; 114 ⲥⲟⲩⲣⲁ / 6236 ⲥⲧⲓⲭⲟⲥ); ⲡⲓⲥⲷⲁⲓ ⲛⲁⲣⲁⲃⲓⲕⲟⲛ ⲳⲟⲡ ⲥⲁⲟⲩⲓⲛⲁⲙ ⲙⲙⲟⲵ, ⲥⲧⲓⲭⲟⲥ ⲕⲁⲧⲁ ⲥⲧⲓⲭⲟⲥ. / From Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands beside it, verse by verse.
 - **Ⲡⲓⲑⲱⲳ**: ⲡⲓⲕⲟⲣⲁⲛ ⲙⲁⲩⲁⲧⲵ. ⲡⲓⲍⲁⲕⲁⲧ ⲙⲡⲁⲩⲿ ⲛⲁⲵ ⲛⲟⲩⲣⲁⲥⲓ ⲛⲉⲃⲉⲛ, ⲉⲧⲉ ⲡⲓⲕⲟⲣⲁⲛ ⲙⲡⲁⲵⲿ ⲛⲟⲩⲣⲁⲥⲓ; ⲙⲡⲁⲩⲟⲩⲉⲹ ⲹⲁⲇⲓⲑ ⲟⲩⲇⲉ ⲟⲩⲁⲹⲉⲙ ⲉⲣⲟⲵ. / Quran-alone method. Zakat receives no percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Ⲿⲁⲥⲡⲓ**: ⲿⲙⲉⲧⲣⲉⲙⲛⲬⲏⲙⲓ ⲛⲃⲟⲹⲁⲓⲣⲓⲕⲏ — ⲿⲁⲥⲡⲓ ⲛⲧⲉ ⲿⲉⲕⲕⲗⲏⲥⲓⲁ — ⲷⲉⲛ ⲹⲁⲛⲥⲁⲻⲓ ⲉⲩⲟⲩⲟⲛⲹ ⲉⲃⲟⲗ ⲟⲩⲟⲹ ⲉⲩⲙⲟⲕⲹ ⲁⲛ ⲉⲡⲓⲣⲱⲙⲓ ⲛⲣⲉⲙⲹⲉ. / The Coptic language in its Bohairic form — the language of the Church — in wording that is clear and not hard for the humble reader.
-- **Ⲡⲓⲳⲟⲡ**: DRAFT — NOT REVIEWED. ⲟⲩⲥⲷⲁⲓ ⲛⲉⲣⲅⲁⲥⲓⲁ ⲉⲵⲥⲟⲃⲿ ⲉⲟⲩⲑⲱⲟⲩⲿ ⲛⲧⲉ ⲟⲩⲣⲉⲵⲑⲱⲟⲩⲛ ⲛⲣⲉⲙⲛⲬⲏⲙⲓ (ⲕⲟⲡⲧⲟⲗⲟⲅⲟⲥ); ⲁⲵⲧⲁⲙⲓⲟ ⲁⲛ ⲟⲩⲇⲉ ⲁⲵⲻⲱⲕ ⲁⲛ. / A working draft awaiting the review of a Coptic specialist (a Coptologist); not certified, not final, and not Coptologist-reviewed.
-- **Ⲡⲓⲃⲟⲏⲑⲟⲥ**: ⲁⲩⲥⲟⲃⲿ ⲙⲡⲁⲓⲟⲩⲁⲹⲉⲙ ⲷⲉⲛ ⲟⲩⲃⲟⲏⲑⲓⲁ ⲛⲧⲉ ⲟⲩⲛⲟⲩⲥ ⲛⲙⲏⲭⲁⲛⲓⲕⲟⲛ (AI) ⲉⲃⲟⲗ ⲷⲉⲛ ⲡⲓⲥⲷⲁⲓ ⲛⲁⲅⲅⲗⲓⲕⲟⲛ ⲉⲧⲥⲟⲩⲧⲟⲛ; ⲡⲓⲑⲱⲟⲩⲿ ⲛⲧⲉ ⲟⲩⲣⲉⲵⲑⲱⲟⲩⲛ ⲛⲣⲉⲙⲛⲬⲏⲙⲓ ⲁⲛⲁⲅⲕⲏ ⲉⲁⲣⲓⲧⲵ ⲛⲳⲟⲣⲡ. / Prepared with AI assistance from the corrected English master; Coptological review is required before any use.
+- **Ⲡⲓⲳⲟⲡ**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Ⲡⲓⲃⲟⲏⲑⲟⲥ**: Prepared with AI assistance from the corrected English master.
 - **Ⲡⲓⲟⲩⲁⲹⲥⲁⲹⲛⲓ ⲛⲥⲉⲙⲛⲏⲧ**: ⲙⲡⲁⲩⲻⲉ ⲟⲩⲁⲹⲥⲁⲹⲛⲓ ⲛⲧⲉ ⲟⲩⲁⲹⲉⲙ ⲛⲹⲟⲩⲓⲧ ⲉⲑⲃⲉ ⲡⲁⲓⲥⲷⲁⲓ. / No first-translation claim is made for this draft.
 - **Ⲥⲉⲿ ⲙⲙⲟⲵ ⲛⲟⲩⲇⲱⲣⲟⲛ**: ⲡⲁⲓⲥⲷⲁⲓ ⲥⲉⲿ ⲙⲙⲟⲵ ⲛⲟⲩⲇⲱⲣⲟⲛ ⲛⲛⲏⲉⲧⲱⲳ ⲧⲏⲣⲟⲩ; ⲹⲁⲛⲕⲟⲡⲓⲁ ⲛⲉⲙ ⲹⲁⲛⲥⲟⲩⲧⲟⲛ ⲛⲉⲙ ⲹⲁⲛⲟⲩⲁⲹⲉⲙ ⲉⲩⲛⲁⲛⲉⲩ ⲥⲉⲳⲟⲡ ⲉⲣⲟⲟⲩ ⲷⲉⲛ ⲟⲩⲣⲁⲳⲓ. / Freely given to every reader; copies, corrections, and better versions are welcomed.
 

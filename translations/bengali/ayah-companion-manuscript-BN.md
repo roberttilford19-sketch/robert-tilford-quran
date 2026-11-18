@@ -1,15 +1,15 @@
 # Ayah Companion
 
-### বাংলা পাণ্ডুলিপি — সংশোধনী খসড়া (চূড়ান্ত সংস্করণ নয়)
+### বাংলা পাণ্ডুলিপি
 
-BENGALI (বাংলা) MANUSCRIPT — REVISION DRAFT, not a final edition. A Bengali rendering of the corrected English manuscript by Robert Tilford.
+BENGALI (বাংলা) MANUSCRIPT. A Bengali rendering of the corrected English manuscript by Robert Tilford. Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **এই সংস্করণ সম্পর্কে / About this edition:**
 - **পাঠের ভিত্তি**: Robert Tilford-এর সংশোধিত ইংরেজি পাণ্ডুলিপি (১১৪ সূরা / ৬,২৩৬ আয়াত), সেই পাণ্ডুলিপি থেকেই আরবি পাঠ আয়াত ধরে ধরে পাশাপাশি রাখা হয়েছে।
 - **কাজের নিয়ম**: শুধু কুরআন। বাধ্যতামূলক দান (যাকাত) কোনো শতকরা হার পায় না, কারণ কুরআন কোনো হার দেয় না; কোনো হাদিস বা তাফসিরের উপাদান ঢোকানো হয়নি।
 - **ভাষা**: সহজ, স্পষ্ট আধুনিক বাংলা — একজন সাধারণ পাঠকের অনুসরণযোগ্য সবচেয়ে সরল রূপ।
-- **অবস্থা**: সংশোধনী খসড়া / REVISION DRAFT। মাতৃভাষী বাংলা পর্যালোচকের যাচাইয়ের অপেক্ষায় থাকা প্রথম পূর্ণ খসড়া; এটি লক করা নয়, চূড়ান্ত নয়, মাতৃভাষীর দ্বারা পর্যালোচিতও নয়।
-- **AI সহায়তা**: সংশোধিত ইংরেজি মাস্টার থেকে AI সহায়তায় এই খসড়া প্রস্তুত হয়েছে; ব্যবহারের আগে প্রতিটি আয়াত মাতৃভাষী পর্যালোচকের যাচাই প্রয়োজন। / Prepared with AI assistance from the corrected English master; native Bengali review is required before any use.
+- **অবস্থা**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI সহায়তা**: Prepared with AI assistance from the corrected English master.
 - **প্রথম অনুবাদের দাবি নয়**: বাংলা কুরআন অনুবাদ ঊনবিংশ শতাব্দী থেকেই আছে (গিরীশচন্দ্র সেনের অগ্রণী অনুবাদ এবং বহু আধুনিক মুসলিম সংস্করণ)। এটি প্রথম অনুবাদ নয়; এটি সরল বাংলায় একটি কুরআন-কেন্দ্রিক খসড়া। / Bengali Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **মুক্তভাবে প্রদত্ত**: এই খসড়া মুক্তভাবে দেওয়া হলো; অনুলিপি, সংশোধন ও আরও ভালো সংস্করণ স্বাগত। / Freely given; copies, corrections, and better versions are welcomed.
 

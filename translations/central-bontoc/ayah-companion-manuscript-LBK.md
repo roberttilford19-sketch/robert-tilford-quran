@@ -9,19 +9,19 @@ built: 2026-11-17
 master_source: Locked English Master
 master_md5: 064ee170806bb31f5bac3e75d2aa4d94
 gate_status: FULL LOOP COMPLETE — builder gates PASS; independent checker PASS WITH FLAGS (flags carried to the native reviewer, none blocking; CHECKER-REPORT-LBK-2026-11-17); Purple reconciled; landed under the Pipeline Landing Authorization (2026-11-14)
-status: DRAFT — NOT REVIEWED
+status: Finished work
 ---
 # Ayah Companion
 
-Al-Kuran isnan Central Bontoc — DRAFT — NOT REVIEWED
+Al-Kuran isnan Central Bontoc
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Central Bontoc review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Central Bontoc rendering: none found after research (Region-1 remainder scout, 2026-11-17).
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Central Bontoc rendering: none found after research (Region-1 remainder scout, 2026-11-17).
 
 **Maipoon isnan nay ay liblo / About this edition:**
 - **Asal**: Nan nay ay liblo et naamma malpo isnan liblo ay Ingles ay inreton Robert Tilford (Locked English Master; 114 surah / 6,236 berso); nan teksto ay Arab et wad-ay isnan kadwana, berso ken berso. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Okhali**: Quran yangkhay — nan okhalin Quran yangkhay nan masorot; zakat, maid porsiyento tay maid ichow nan Quran; maid hadith o komentaryo ay naitapi. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED. Nan nay ay liblo et draft ay masapol ay mareview nan iCentral Bontoc; achi pay sertipikado, achi pay nalpas, ya achi pay nareview nan nangab-ak isnan kali. / A working draft for native Central Bontoc review; not certified, not final, and not native-reviewed.
-- **Bolong nan AI**: Nan nay ay liblo et naiprepara babaen isnan bolong nan AI malpo isnan liblo ay Ingles ay naireto; masapol nan review nan iCentral Bontoc sakbay ay maosar. / Prepared with AI assistance from the corrected English master; native Central Bontoc review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Bolong nan AI**: Prepared with AI assistance from the corrected English master.
 - **Maichow**: Libre ay maichow nan nay ay liblo, maid bayadna; nan kopya, nan pannakareto, ya nan mas khawis ay bersiyon et maawis. / Freely given; copies, corrections, and better versions are welcomed.
 - **Kali**: Nan nay ay liblo et isnan Central Bontoc (lbk) yangkhay — nan kalin nan takho id Bontoc, Mountain Province, Pilipinas; faken siya ay Ilokano o Tagalog. / This draft is in Central Bontoc (lbk) only — the language of the people of Bontoc, Mountain Province, Philippines; it is not Ilokano or Tagalog.
 

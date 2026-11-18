@@ -1,10 +1,10 @@
 # Ayah Companion
 
-**Kernewek — treylyans a styr an Koran**
+**Kernewek
 **A Cornish Translation of the Meaning of the Quran**
 
 *Lyver skrif rag daskewsel — treylys dhyworth lyver skrif Sowsnek ewn Robert Tilford. Heb dyllans.*
-*(Review draft — translated from Robert Tilford's corrected English manuscript. Unpublished.)*
+Translated by Robert Tilford. © 2026 Robert Tilford.
 
 ---
 

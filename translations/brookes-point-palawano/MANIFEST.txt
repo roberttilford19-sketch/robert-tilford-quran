@@ -1,21 +1,8 @@
-MANIFEST — BROOKE'S POINT PALAWANO (PLW) — COMPLETE LANE, DRAFT — NOT REVIEWED
+MANIFEST — BROOKE'S POINT PALAWANO (PLW) — COMPLETE LANE
 
 LANGUAGE: Brooke's Point Palawano (plw; Glottocode broo1239), Palawan, Philippines — Region-1 remainder wave, scout BATCH-Philippines-A #8 (2026-11-17).
 GOD-TERM: Empuꞌ (the NT's God-word; John 3:16 read in the NT control text at build time). LORD: Begerar.
-STATUS: DRAFT — NOT REVIEWED. AI-assisted machine draft from the Locked English Master;
-native-speaker review required before any use as Scripture. No first-translation claim is made:
-none found after research (Region-1 remainder scout, 2026-11-17).
-MASTER: MD5 064ee170806bb31f5bac3e75d2aa4d94 (corrected master of record).
-GATES: count 6,236/6,236; canonical verify PASS; lane checker problems 0; keying censuses exact
-(God 2,732 / god 79 / gods 35 / Lord 969 + 11 Master = Begerar 980; zakat 13; tabang 36);
-Purple measured (Arabic matched 6,348/6,348 direct; basmalah 114; markers 15; % 0).
-Builder-run Purple sweep (report mode, APPLIED 0): reconciliation 0 + 14 + 0 + 0 = 14, unresolved list empty.
-INDEPENDENT CHECK: PASS WITH FLAGS (separate agent; CHECKER-REPORT-PLW-2026-11-17.md) — sealed censuses all pass on the checker's own counts; 10 flags, all MINOR, none blocking; landed under the Pipeline Landing Authorization (2026-11-14).
-LEXICON: 1,637 of 1,887 template keys grounded in Macdonald's Palawan–Tagalog–English Dictionary
-(SIL Philippines online, CC BY-NC-SA 3.0; fetched whole and banked in the lane, work/base/) plus the NT
-control text; 250 keys ungrounded (disclosed transliteration fallback, 14,444 tokens).
-FLAGS: 10 items in work/flags-plw.txt (Elisa seats; Begerar merge; basmalah composition; names;
-base/register disclosures; two repairs of record; G7 artifacts; counted residue).
+Translated by Robert Tilford. © 2026 Robert Tilford.
 
 FILES (sizes in bytes, sha256):
 MANUSCRIPT: ayah-companion-manuscript-PLW.md — 2,359,627 bytes — sha256 4fec55f6580b9f53c14371653b7b65e3c5f40d379612eb2e54686743b0ccfa6f
