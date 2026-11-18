@@ -20,4 +20,4 @@ The full lane record (build report, verification and checker records, flags)
 stands in the workspace lane folder ~/workspace/ayah-nko/, unrepaired.
 
 Files:
-  2168278  48e2b856f9864e89a27b45736ec0fa9fc76dcd7be1ded08ad6decf6a699a7c77  ayah-companion-manuscript-NKO.md
+  2167803  043d9c38485fd9a12d1a1678ba8fe050d67954c626879f74f4e7d47f6ef37dc5  ayah-companion-manuscript-NKO.md
