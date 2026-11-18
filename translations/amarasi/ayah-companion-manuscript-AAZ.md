@@ -18914,7 +18914,7 @@ karu ho nana' stat kraba-t impurity, purify yourselfes. Karu ho ill, ai' trafell
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Oras naan ein sekau pirsai, ma work tetus, ma pirsai nana' saa' sent saun neu muhammad — ma in batuur na'ko sin Usif — in remits sin sanat, ma reliefes sin konserns.
+**47:2** Oras naan ein sekau pirsai, ma work tetus, ma pirsai nana' saa' sent saun neu Muhammad — ma in batuur na'ko sin Usif — in remits sin sanat, ma reliefes sin konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
