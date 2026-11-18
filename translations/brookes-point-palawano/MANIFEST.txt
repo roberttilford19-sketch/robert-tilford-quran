@@ -18,7 +18,7 @@ FLAGS: 10 items in work/flags-plw.txt (Elisa seats; Begerar merge; basmalah comp
 base/register disclosures; two repairs of record; G7 artifacts; counted residue).
 
 FILES (sizes in bytes, sha256):
-MANUSCRIPT: ayah-companion-manuscript-PLW.md — 2,359,627 bytes — sha256 4fec55f6580b9f53c14371653b7b65e3c5f40d379612eb2e54686743b0ccfa6f
+MANUSCRIPT: ayah-companion-manuscript-PLW.md — 2,359,084 bytes — sha256 ae5c919041c28a2fe9f7f740b5e4cf8d829e00bbff9df1614454c1bad6ef8c9f
 STYLEGUIDE: STYLEGUIDE-PLW.md — 7530 bytes — sha256 2b0fdffedaf64b97b1d579dd6783700d56ddec659c06f87837751c9190ab049d
 GLOSSARY: GLOSSARY-PLW.md — 4198 bytes — sha256 e5b3710f22a3bdffa1e4de73d85b5477dfe9646192bef85c55447fa73ea59bc7
 BUILD-REPORT: BUILD-REPORT-PLW.md — 5254 bytes — sha256 8627de3d1a3a9c1d412cf5d642260257236e7a241d769e5b0245419b4fd80f2e
