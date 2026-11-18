@@ -576,7 +576,7 @@ September 2026.
 
 ۞ وَإِذِ ٱبْتَلَىٰٓ إِبْرَٰهِۦمَ رَبُّهُۥ بِكَلِمَٰتٍۢ فَأَتَمَّهُنَّ ۖ قَالَ إِنِّى جَاعِلُكَ لِلنَّاسِ إِمَامًۭا ۖ قَالَ وَمِن ذُرِّيَّتِى ۖ قَالَ لَا يَنَالُ عَهْدِى ٱلظَّٰلِمِينَ
 
-**2:125**  Ku utara Bayt utara kotan kar wa pirka kotan kar. Ibrahim an kotan kasi salah kar. Ku utara Ibrahim wa Isma'il otta ye, "Ku kor Bayt pirka kar, arpa utara otta, an utara otta, ruku utara otta, sujud utara otta."
+**2:125**  Ku utara Bayt utara kotan kar wa pirka kotan kar. Ibrahim an kotan kasi salah kar. Ku utara Ibrahim wa Ismail otta ye, "Ku kor Bayt pirka kar, arpa utara otta, an utara otta, ruku utara otta, sujud utara otta."
 
 وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةًۭ لِّلنَّاسِ وَأَمْنًۭا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِۦمَ مُصَلًّۭى ۖ وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
 
@@ -584,7 +584,7 @@ September 2026.
 
 وَإِذْ قَالَ إِبْرَٰهِۦمُ رَبِّ ٱجْعَلْ هَٰذَا بَلَدًا ءَامِنًۭا وَٱرْزُقْ أَهْلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنْ ءَامَنَ مِنْهُم بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۖ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلًۭا ثُمَّ أَضْطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِ ۖ وَبِئْسَ ٱلْمَصِيرُ
 
-**2:127**  Ibrahim wa Isma'il Bayt? kar yak, "Ku kor Rabb, ku utara otta e? E nu utara wa ramu utara ne."
+**2:127**  Ibrahim wa Ismail Bayt? kar yak, "Ku kor Rabb, ku utara otta e? E nu utara wa ramu utara ne."
 
 وَإِذْ يَرْفَعُ إِبْرَٰهِۦمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
@@ -608,7 +608,7 @@ September 2026.
 
 وَوَصَّىٰ بِهَآ إِبْرَٰهِۦمُ بَنِيهِ وَيَعْقُوبُ يَٰبَنِىَّ إِنَّ ٱللَّهَ ٱصْطَفَىٰ لَكُمُ ٱلدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ
 
-**2:133**  E utara Ya'qub somo an yak inkar utara ne? Ya'qub hekachi otta ye, "Ku kasike hemanta ibadah?" Toan utara ye, "E kor Allah ibadah, wa Ibrahim, Isma'il, Ishaq kor Allah; sine Allah; ku utara toan otta hosipi."
+**2:133**  E utara Ya'qub somo an yak inkar utara ne? Ya'qub hekachi otta ye, "Ku kasike hemanta ibadah?" Toan utara ye, "E kor Allah ibadah, wa Ibrahim, Ismail, Ishaq kor Allah; sine Allah; ku utara toan otta hosipi."
 
 أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ إِلَٰهًۭا وَٰحِدًۭا وَنَحْنُ لَهُۥ مُسْلِمُونَ
 
@@ -620,7 +620,7 @@ September 2026.
 
 وَقَالُوا۟ كُونُوا۟ هُودًا أَوْ نَصَٰرَىٰ تَهْتَدُوا۟ ۗ قُلْ بَلْ مِلَّةَ إِبْرَٰهِۦمَ حَنِيفًۭا ۖ وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
 
-**2:136**  Allah ye: "Ku utara Allah mumin; ku utara otta kor itak mumin; Ibrahim, Isma'il, Ishaq, Ya'qub, Asbat otta kor itak mumin; Musa wa Isa otta kor ruwe mumin; nabi otta Rabb otta kor ruwe mumin. Ku utara toan utara hemanta kopan na. Ku utara Allah otta hosipi."
+**2:136**  Allah ye: "Ku utara Allah mumin; ku utara otta kor itak mumin; Ibrahim, Ismail, Ishaq, Ya'qub, Asbat otta kor itak mumin; Musa wa Isa otta kor ruwe mumin; nabi otta Rabb otta kor ruwe mumin. Ku utara toan utara hemanta kopan na. Ku utara Allah otta hosipi."
 
 قُولُوٓا۟ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْنَا وَمَآ أُنزِلَ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَمَآ أُوتِىَ ٱلنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍۢ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ
 
@@ -636,7 +636,7 @@ September 2026.
 
 قُلْ أَتُحَآجُّونَنَا فِى ٱللَّهِ وَهُوَ رَبُّنَا وَرَبُّكُمْ وَلَنَآ أَعْمَٰلُنَا وَلَكُمْ أَعْمَٰلُكُمْ وَنَحْنُ لَهُۥ مُخْلِصُونَ
 
-**2:140**  E utara ye, "Ibrahim, Isma'il, Ishaq, Ya'qub, Asbat Yahud utara wa Nasara utara ne?" Allah ye: "E utara pirka ramu, Allah? Allah e utara kar ruwe ramu."
+**2:140**  E utara ye, "Ibrahim, Ismail, Ishaq, Ya'qub, Asbat Yahud utara wa Nasara utara ne?" Allah ye: "E utara pirka ramu, Allah? Allah e utara kar ruwe ramu."
 
 أَمْ تَقُولُونَ إِنَّ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطَ كَانُوا۟ هُودًا أَوْ نَصَٰرَىٰ ۗ قُلْ ءَأَنتُمْ أَعْلَمُ أَمِ ٱللَّهُ ۗ وَمَنْ أَظْلَمُ مِمَّن كَتَمَ شَهَٰدَةً عِندَهُۥ مِنَ ٱللَّهِ ۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ
 
@@ -7348,7 +7348,7 @@ September 2026.
 
 رَبَّنَآ إِنَّكَ تَعْلَمُ مَا نُخْفِى وَمَا نُعْلِنُ ۗ وَمَا يَخْفَىٰ عَلَى ٱللَّهِ مِن شَىْءٍۢ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ
 
-**14:39**  "Allah pirka ye! Pirka isam or Ishmael wa Isaac kor. Rabb pirka ye inkar."
+**14:39**  "Allah pirka ye! Pirka isam or Ismail wa Isaac kor. Rabb pirka ye inkar."
 
 ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَٰعِيلَ وَإِسْحَٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ
 
@@ -9472,7 +9472,7 @@ September 2026.
 
 وَوَهَبْنَا لَهُۥ مِن رَّحْمَتِنَآ أَخَاهُ هَٰرُونَ نَبِيًّۭا
 
-**19:54** Kitab Isma'il dhikr kor. Wa'd sadiq ne. Rasul ne, nabi ne.
+**19:54** Kitab Ismail dhikr kor. Wa'd sadiq ne. Rasul ne, nabi ne.
 
 وَٱذْكُرْ فِى ٱلْكِتَٰبِ إِسْمَٰعِيلَ ۚ إِنَّهُۥ كَانَ صَادِقَ ٱلْوَعْدِ وَكَانَ رَسُولًۭا نَّبِيًّۭا
 
