@@ -1,0 +1,43 @@
+MANIFEST — Uab Meto (AOZ) lane — Region-1 remainder wave
+Built 2026-11-17. Manuscript status: DRAFT — NOT REVIEWED.
+Claim wording: none found after research (Region-1 remainder scout, 2026-11-17).
+Source master MD5 (machine-verified): 064ee170806bb31f5bac3e75d2aa4d94
+Gates: extraction 6,236/6,236; lane checker problems 0 (census equality
+per verse); canonical verify.py PASS; Purple Arabic 6,348/6,348,
+reconciled 14 of 14 with 0 unresolved (PURPLE-REPORT-AOZ-2026-11-17.md).
+Grounded template keys: 685 of 1,887 (Edwards comparative dictionary +
+LAI NT control text). Fallback transliteration tokens: 30,343.
+
+God-term ruling (2026-11-17): the independent checker stopped this lane
+for Robert's ruling on one seat — God (CHECKER-REPORT-AOZ-2026-11-17.md;
+every countable gate re-measured exact). The lane was built keyed to
+Uis Neno (dictionary-attested: Edwards *usi2, pp. 382-383 — Molo usif
+neno "the lord of heaven"; Insana uis neno "the lord of heaven, the
+supreme god"), which occurs zero times in the community's own LAI New
+Testament; that text's running God-word is ELOHIM. Robert ruled B:
+re-key to ELOHIM. The re-key was executed in the build engine, all
+slices rebuilt, and the full loop re-run clean on the re-keyed bytes
+(lane checker problems 0; ELOHIM 2,732 = God 2,732 per-verse; canonical
+verify PASS; Purple reconciled). Uis Neno's attestation stands
+preserved in STYLEGUIDE-AOZ.md and work/flags-aoz.txt item 1 (with its
+RESOLUTIONS section) as the dissent of record.
+
+Shelving pack: LANDED on the GitHub shelf (translations/uab-meto/)
+under the Pipeline Landing Authorization (2026-11-14); read-back
+verified — see LANDING-RECORD-AOZ-2026-11-17.md.
+
+SHA-256 (lane root):
+c8a7f7e6cbc0e2b0b1fb1201c424e5ef8ccc08f7324fa09ff58de80fc80462c3  ayah-companion-manuscript-AOZ.md
+550177733351a81a3532a1a91fdaaa434ea365f794fe46c80957c8800fea74c5  STYLEGUIDE-AOZ.md
+b32c03a643e03849f4f534cabd74584d2fbdbe8508db2df40a919bc93cc849ba  GLOSSARY-AOZ.md
+5671c53a245ba3361e67c1fe2d0cb03a701bcc17ec8dbb2a69e1f79e61716c0b  BUILD-REPORT-AOZ.md
+
+SHA-256 (shelving pack, byte-identical manuscript copy):
+c8a7f7e6cbc0e2b0b1fb1201c424e5ef8ccc08f7324fa09ff58de80fc80462c3  shelving-pack/translations/uab-meto/ayah-companion-manuscript-AOZ.md
+
+Bytes:
+2140510 ayah-companion-manuscript-AOZ.md
+   9430 STYLEGUIDE-AOZ.md
+  23542 GLOSSARY-AOZ.md
+   9678 BUILD-REPORT-AOZ.md
+2183160 total
