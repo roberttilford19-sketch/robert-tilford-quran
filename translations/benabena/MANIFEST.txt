@@ -59,7 +59,7 @@ ayah-companion-aligned-BEF.json
   SHA-256 4490d4135a092993501ffedd644fa8ef309fd12d06cc8f45913d8a7ab35af476
 ayah-companion-manuscript-BEF.md
   2,355,619 bytes
-  SHA-256 37c1fb3dd21ca19eae94ac499025a139d8916d89d45a46812f2dbd29b5f3c7b7
+  SHA-256 a17de310c24771eeeeacb073160e24c50df14dc8914d2a2494af0b730e5852b4
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
