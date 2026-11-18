@@ -57,7 +57,7 @@ work/aligned-kew.json (the aligned array: 6,236 objects of chapter/verse/en/targ
   SHA-256 a36c913b7d508e5032b06547537689b0f7a24fb9d388ad73db0c5f56aed58e94
 ayah-companion-manuscript-KEW.md
   2,218,307 bytes
-  SHA-256 2b258f4e27cf15c22899de2c20435c386fabf99ff08f186f401f4a4ac5fa98c2
+  SHA-256 3047be4ee0f1dd7184118c2ed8e122ac3c3f2aa1b62032e011109fc12b0d290c
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
