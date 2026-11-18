@@ -18914,7 +18914,7 @@ kalu ho anbi nusa impurity, purify yourselfes. Kalu ho ill, ai trafelling, ai me
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Fe nane sekau palsai, ma mepu rigteousness, ma palsai anbi sa' ansonu sanu neu muhammad — ma in aki'at na'ko sin Usif — in remits sin sanat, ma reliefes sin konserns.
+**47:2** Fe nane sekau palsai, ma mepu rigteousness, ma palsai anbi sa' ansonu sanu neu Muhammad — ma in aki'at na'ko sin Usif — in remits sin sanat, ma reliefes sin konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
