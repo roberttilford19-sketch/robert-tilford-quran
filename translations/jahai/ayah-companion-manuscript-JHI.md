@@ -18900,7 +18900,7 @@ kaluh meh weq ka stat impurity, purify gin. Kaluh meh weq ill, atau travelling, 
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Sementara ton maken hap, ab kerjaq betol, ab hap ka mej weq hantar ujih ba muhammad — ab oq weq betol can gin Tuhan — oq remits gin dosa, ab relieves gin konserns.
+**47:2** Sementara ton maken hap, ab kerjaq betol, ab hap ka mej weq hantar ujih ba Muhammad — ab oq weq betol can gin Tuhan — oq remits gin dosa, ab relieves gin konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
