@@ -1,0 +1,89 @@
+AYAH COMPANION — NONUKAN TIDONG RENDERING
+MANIFEST — lane record, 2026-11-17
+
+ITEM
+Ayah Companion, Nonukan Tidong (itd) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the Malaysia wickets wave (bases in hand) (the scout's Class 3 row
+Class 3 §6a #16), under Robert's Advance Rule of 2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Nonukan Tidong review is required
+before any gifting or publication; review is invited. The status
+line stands inside the manuscript itself, on its face, with AI
+assistance labelled.
+SHELVING: lands on the GitHub shelf under Robert's Pipeline
+Landing Authorization (2026-11-14 ~15:00), the full pipeline loop
+having completed (build, count, canonical verify, independent
+checker, Purple sweep reconciled); the landing is recorded in
+LANDING-RECORD-2026-11-17.md in this lane folder at the desk.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography — reviewer item.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: no
+Nonukan Tidong Quran translation found after research (Malaysia
+scout, 2026-11-14).
+
+FILES
+GLOSSARY-ITD.md
+  3,371 bytes
+  SHA-256 60439b72028baca315b447d1b97c5fac03273653b45d31f2e6be1674e3de1297
+STYLEGUIDE-ITD.md (the lane's binding drafting law, settled before drafting)
+  7,682 bytes
+  SHA-256 298ef6a3514de90a8738307c3226bc2fb1165df120d89e445e4b573689747d52
+BUILD-REPORT-ITD.md
+  5,680 bytes
+  SHA-256 bc4d5a8417c32798c73bc7e6d1e0fdd59752973546eb6be465d58738fd2edbdb
+PURPLE-REPORT-ITD-2026-11-17.md (Purple sweep, report mode, reconciled 14 of 14, 0 unresolved)
+  14,471 bytes
+  SHA-256 696d99710eab04fcf4df82dbf4cad68aaad8d74be5b990b006d8612305370db0
+CHECKER-ITD-SEPARATE-AGENT.md (independent checker, preserved unedited)
+  27,426 bytes
+  SHA-256 8d01e0908b49d54692228f6759279c947b91cd6845dd2346daa221b0b986a3b0
+work/verification-itd.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-itd.txt — 13 named uncertain-seat items plus residue counts, carried to the reviewer.
+  8,422 bytes
+  SHA-256 bf5ec8dabe4fe11f62bcbbe125ea6b675c123fd13bbe8f0adff7d21ad23d08e9
+ayah-companion-manuscript-ITD.md
+  2,327,627 bytes
+  SHA-256 cbc774cf21544bbc344d2662b4b438949ed47fb792ba45f2aefd60b8e9c0c261
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-17: PASS true. Headers 114, head order true, verses
+6,236, counts match meta true, continuity true, Arabic runs
+6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse lines
+6,236, slice ref mismatches 0, slice paragraph mismatches 0,
+percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_itd.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Allah 2,732 (= God 2,732); allah 79 (= god 79); allah-allah 35 (= gods 35); Tuhan 980 (= Lord 969 + 11 Master tokens at the keyed seats);
+zakat at exactly the 13 keyed slots; sadaka at exactly the 36
+keyed tokens (2:272 ×3; 58:13 ×2).
+Independent checker (separate agent): PASS WITH FLAGS — MATERIAL 0, MINOR 4.
+The independent checker (a separate agent, own code, CHECKER-ITD-SEPARATE-AGENT.md) reproduced every counted gate exactly: master MD5 machine-equal; the per-verse census exact with 0 mismatching refs (Allah 2,732 / allah 79 / allah-allah 35 / Tuhan 980, each Master seat verified individually; zakat 13; sadaka 36, exactly equal to the keyed map); basmalah 114 with surah 9 frameless; the Arabic sequence identical at all 6,462 positions; % at 0; markers 15; the honest face complete; the leak scan 0; the lane's “Nonukan Tidong” naming verified on its face. Its base audits quote the God-word ground verbatim from Beech: Remark 1 (“All words which in both dialects are identically the same as Malay are omitted”) and the Muhammadan passages (“The ordinary Arabic expressions used by Malays and all followers of Muhammad are also used by the Tidongs”), plus the charity entry itself (alms → Tarakan sadaka, Bolongan sad'ka'); the dialect flagging tested (40 BOL-rescue keys marked in the parse report plus hand-named seats; 1 lemma / 5 keys resting on a (Non.) form, mulun, used and labelled); the 30 OCR exclusions spot-checked 6/6 honest; the grounding sample 15/15; 18:103's dama verified in Beech's pronoun table. Verdict: PASS WITH FLAGS — MATERIAL 0, MINOR 4.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+
+NOTES CARRIED TO THE REVIEWER
+The Elisa/Elia pair (item 1) is the reviewer's first name ruling; the God-word keying on Beech's Remark 1 ground (item 2) is reviewer ruling #1; the dialect basis (item 7) — Tarakan preferred, Bolongan rescues flagged, (Non.) forms labelled — is the standing disclosure a Nonukan reviewer will weigh first.
