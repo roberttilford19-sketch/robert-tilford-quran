@@ -49,8 +49,8 @@ work/flags-snc.txt — 13 named uncertain-seat items plus residue counts, carrie
   5459 bytes
   SHA-256 1fecd94bea20264cd51e9459360ae5eda26fda38005e397ece5b043c369a5f12
 ayah-companion-manuscript-SNC.md
-  2375726 bytes
-  SHA-256 05af16e77e6b39ed07288ee7ea2a5910262fad7245d15062e09b8d54ff242f6f
+  2375140 bytes
+  SHA-256 d6cc9b6668b3844d7e14d265e7f93f984bf1adcbb0797a9df32c73620d1f2dc6
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
