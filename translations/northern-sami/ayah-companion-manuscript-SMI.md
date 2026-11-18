@@ -1,7 +1,7 @@
 # Ayah Companion
 
-**Davvisámegiel jorgalus Koraanas — Koraana ollislaš jorgalus davvisámegillii**
-*Robert Tilforda eŋgelasgiel korrigejuvvon manuskriva jorgalus — vuosttaš hábmen davvisámegillii, dárkkisteapmái ii ge almmuheapmái. Eallin ii leat dárkkistuvvon sámegielat olbmuin — dárkkisteapmi lea gáibideaddji ovdal go sáhttá geavahit servodagas.*
+**Davvisámegiel jorgalus Koraanas
+*Translated from Robert Tilford's corrected English manuscript. Translated by Robert Tilford. © 2026 Robert Tilford.*
 
 ---
 

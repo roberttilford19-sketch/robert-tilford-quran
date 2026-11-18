@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Kutanthauzira kwa Chinyanja — zolemba zoyambira zoti ziwunikidwe (si mtundu womaliza)
+Kutanthauzira kwa Chinyanja
 
-Rendered from Robert Tilford's sealed literal Recital (the Locked English Master). DRAFT — NOT REVIEWED: a complete working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Zokhudza mtundu uwu / About this edition:**
 - **Maziko a mawu**: kubwereza kolembedwa kwa Robert Tilford m'Chingerezi (Locked English Master; ma sura 114 / mavesi 6,236); mawu achiarabu ali pambali pake, vesi ndi vesi.
 - **Njira**: Korani yokha. Zakati simalandira chiŵerengero chilichonse cha peresenti, chifukwa Korani sipereka chiŵerengero; palibe hadisi kapena zofotokozera zina zomwe zaonjezedwa.
 - **Chilankhulo**: Chinyanja chosavuta komanso chomveka cha masiku ano — mtundu wosavuta kwambiri womwe wowerenga wamba angamvetse.
-- **Mkhalidwe**: ZOLEMBA ZOYAMBIRA — ZOSAWUNIKIDWA / DRAFT — NOT REVIEWED. Zolemba zoyambira zoyamba zathunthu zomwe zikuyembekezera kuwunikidwa ndi wolankhula Chinyanja wobadwa nacho; sizotsimikizika, sizomaliza, komanso sizowunikidwa ndi wolankhula wobadwa nacho.
-- **Thandizo la AI**: zolemba zoyambirirayi zakonzedwa mothandizidwa ndi luntha lopangidwa kuchokera ku master yotsekedwa ya Chingerezi; vesi lililonse liyenera kuwunikidwa ndi wolankhula Chinyanja wobadwa nacho musanagwiritse ntchito. / Prepared with AI assistance from the sealed English master; native Nyanja review is required before any use.
+- **Mkhalidwe**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Thandizo la AI**: Prepared with AI assistance from the corrected English master.
 - **Si kutanthauzira koyamba**: ma Korani a Chichewa alipo kale (mwa ena, a Mufti Al Haji Yusuf Muhammad Kanyamula ndi a Sheikh Khalid Ibrahim Pitala). Izi si kutanthauzira koyamba; ndi zolemba zoyambira za chilankhulo chosavuta za njira ya Korani-yokha. / Chichewa Qurans already exist; this is a Quran-alone plain-language draft, not a first translation.
 - **Zoperekedwa kwaulere**: zolemba zoyambirayi ndi zaulere; makope, kukonza, ndi mitundu yabwinoko ndizolandiridwa. / Freely given; copies, corrections, and better versions are welcomed.
 

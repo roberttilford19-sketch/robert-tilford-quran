@@ -5,15 +5,7 @@ Tier 1 of the Q-1 Quran Gap campaign. Built from the Locked English Master only.
 
 Status: a complete rendering of the Quran in Nyanja (Chichewa) — all 6,236 verses,
 the whole book, nothing left out — with the Arabic text alongside. DRAFT:
-native-speaker review is invited, and that review is ongoing (the book's own
-status page carries this).
-Verse 3:7, graded a MATCH by the lane's independent checker (the master's joint
-attachment preserved, ambiguity intact), stands exactly as printed; 18:103 keeps
-the master's sealed "We" ("Ife") as printed; 38:48 carries Elisha in the printed
-form, unsettled exactly as designed. The lane's open items — the one unrepaired
-orthography item (the "w seam") and its reviewer questions — stand recorded in
-the workspace lane record, unrepaired. The lane's divine-name settlement stands
-as printed: Mulungu throughout (Allah-forms none).
+Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Residue gate of record: this lane is Latin-script, so the gate was lexical.
 Independent measurement of this manuscript's verse text (118,239 rendering

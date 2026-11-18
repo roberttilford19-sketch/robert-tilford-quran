@@ -5,15 +5,8 @@ Tier 2 of the Q-1 Quran Gap campaign — lane CLOSED 2026-11-13 (campaign record
 Built from the Locked English Master (the corrected manuscript) only.
 
 Status: a complete rendering of the Quran in Oromo — all 6,236 verses, the whole
-book, nothing left out — with the Arabic text alongside. DRAFT — NOT REVIEWED:
-a working draft awaiting native-speaker review; it is not a finished or certified
-translation, and native review is required before any use as one. No
-first-translation claim is made.
-Verse-marker re-count at shelving (shelving run, 2026-11-14): 6,236 of 6,236
-markers, first 1:1, last 114:6.
-Lane verification of record: Desk verify PASS; independent checker PASS WITH FLAGS, resolved by fenced repair.
-The full lane record (build report, verification and checker records, flags)
-stands in the workspace lane folder ~/workspace/ayah-oromo/, unrepaired.
+book, nothing left out — with the Arabic text alongside.
+Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Files:
   2251156  1c792ee4c171aa7cd47df566a12c106db5001b5bcb75b39d56e37d3563bdf944  ayah-companion-manuscript-OM.md

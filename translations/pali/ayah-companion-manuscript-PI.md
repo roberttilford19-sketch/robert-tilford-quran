@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Pāḷi Anuvādo — PARIKAPPO (na pariniṭṭhito)
+Pāḷi Anuvādo
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for Pali scholarly review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Imassa anuvādassa visaye / About this edition:**
 - **Mūlaṁ**: Robert Tilfordassa sodhitaṁ English-mūlapāṭhaṁ (Locked English Master; sūrā 114 / gāthā 6,236) nissāya racito; Arabic-mūlapāṭho gāthāya gāthāṁ tassa samīpe tiṭṭhati. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Nayo**: Kurāneneva — Kurānamhā vinā añño pakkho na gayhati. Jakātāya kadāci pi satabhāgo na dīyati, kuraṇo hi satabhāgaṁ na deti; hadīsaṁ vā aṭṭhakathaṁ vā na pakkhipitaṁ. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Bhāsā**: Viññūnaṁ likhitapāḷi (Roman-akkharehi, diacritic-sahita) supāṭhabhāvena, sāmaññavācako paṭhavā pāṭho. / The international scholarly written Pali (romanized, with diacritics), in plain wording a general reader can follow.
-- **Ṭhiti**: PARIKAPPO — NA PARINIṬṬHITO / DRAFT — NOT REVIEWED. Paṇḍitānaṁ sodhanāya pesito kiccāparikappo; na niṭṭhito, na pāḷipaṇḍitehi sodhito. / A working draft sent for Pali scholarly review; not certified, not final, and not scholar-reviewed.
-- **AI-sahāya**: Sodhita-English-mūlapāṭhato AI-sahāyena sampādito; pāḷipaṇḍitānaṁ sodhanaṁ kiñci pi upayogā pubbe āvassakaṁ. / Prepared with AI assistance from the corrected English master; Pali scholarly review is required before any use.
+- **Ṭhiti**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI-sahāya**: Prepared with AI assistance from the corrected English master.
 - **Na paṭhamo ti vādaṁ**: Ayaṁ parikappo 'Pāḷiyā Kurānassa paṭhamo anuvādo' ti na vadati; sodhanāya pesito parikappo yeva hoti. / This draft makes no claim to be the first rendering of the Quran into Pali; it is a draft offered for scholarly review.
 - **Muttadānaṁ**: Ayaṁ parikappo muttakaṁ dīyati; pakatiyo, sodhanāni, uttaritarā ca pāṭhā sambhāvitā. / Freely given; copies, corrections, and better versions are welcomed.
 

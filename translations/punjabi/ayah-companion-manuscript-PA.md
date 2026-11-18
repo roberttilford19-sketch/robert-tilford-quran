@@ -1,15 +1,14 @@
 # Ayah Companion
 
-### پنجابی نسخہ (شاہ مکھی) — نظرثانی مسودہ (آخری ایڈیشن نہیں)
+### پنجابی نسخہ (شاہ مکھی)
 
-PUNJABI (Shahmukhi) MANUSCRIPT — REVISION DRAFT, not a final edition. A Punjabi rendering of the corrected English manuscript by Robert Tilford.
-
+PUNJABI (Shahmukhi) MANUSCRIPT. A Punjabi rendering of the corrected English manuscript by Robert Tilford.
 **ایس ایڈیشن بارے / About this edition:**
 - **بنیادی متن**: رابرٹ ٹلفورڈ دا درست کیتا ہویا انگریزی نسخہ (114 سورہ / 6,236 آیت); عربی متن آیت در آیت اسے نسخے توں نال رکھیا گیا اے۔ / Source: Robert Tilford’s corrected English master (114 surahs / 6,236 verses); Arabic placed verse by verse from the same master.
 - **طریقہ**: صرف قرآن — لفظ قرآن توں ای سمجھائے گئے نیں۔ زکات تے کوئی فیصد نہیں، کیوں جے قرآن کوئی فیصد نہیں دیندا; کوئی حدیث یا روایتی وادھا شامل نہیں۔ / Quran-alone: terms defined by the Quran itself; zakat carries NO percentage; no hadith/traditional additions.
 - **بولی**: سدھی، صاف، اج دی پنجابی — شاہ مکھی لپی وچ، مرکزی مجھی پیمانے تے؛ اک عام پڑھن والا آسانی نال سمجھ سکے۔ گرمکھی ایڈیشن وکھرا مستقبل دا سوال اے — ایتھے نہیں ورتیا گیا۔ / Plain modern Punjabi in Shahmukhi (Majhi standard); a Gurmukhi edition is a separate future question, not used here.
-- **درجہ**: نظرثانی مسودہ / REVISION DRAFT۔ ایہہ مکمل مسودہ پنجابی بولن والیاں دی مقامی جانچ دا محتاج اے — جانچ توں پہلاں نہ ورتو، نہ حتمی سمجھو۔ / Complete draft awaiting native Punjabi review; not final, not for use before review.
-- **AI دا سہیوگ**: ایہہ مسودہ درست انگریزی نسخے توں AI دی مدد نال تیار ہویا اے؛ کسے وی ورتوں توں پہلاں پنجابی بولن والے دی جانچ ضروری اے۔ / Prepared with AI assistance from the corrected English master; native Punjabi review is required before any use.
+- **درجہ**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI دا سہیوگ**: Prepared with AI assistance from the corrected English master.
 - **پہلا ترجمہ نہیں**: پنجابی قرآن پہلاں توں موجود نیں تے سماج وچ ورتے جاندے نیں۔ ایہہ صرف قرآن-طریقے والا سدھا پنجابی مسودہ اے، پہلا ترجمہ نہیں۔ / Punjabi Qurans already exist in community use; this is a Quran-alone plain-language draft, not a first translation.
 - **مفت دِتا**: ایہہ مسودہ مفت دِتا گیا اے؛ کاپیاں، سدھار تے ہور چنگے نسخے خوش آمدید نیں۔ / Freely given; copies, corrections, and better versions are welcomed.
 

@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Traducerea Românească — DRAFT PENTRU REVIZIE (nu este o ediție finală)
+Traducerea Românească
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Despre această ediție / About this edition:**
 - **Sursa**: Din manuscrisul englez corectat al lui Robert Tilford (Locked English Master; 114 surae / 6.236 versete); textul arab stă alături, verset cu verset. / From Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic text stands alongside it, verse by verse.
 - **Metoda**: Numai Coranul. Zakat nu primește niciodată un procent, pentru că Coranul nu dă niciunul; nu s-a adăugat niciun hadith și niciun comentariu. / Quran-alone. Zakat receives no percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Limba**: Română contemporană, clară și simplă, în scrierea latină, în cuvinte simple pe care un cititor smerit le poate urma. / Clear, contemporary Romanian in the Latin script, in plain wording a humble reader can follow.
-- **Statut**: DRAFT — NEREVIZUIT / DRAFT — NOT REVIEWED. Un draft de lucru care așteaptă revizia unui vorbitor nativ de română; nu este certificat, nu este final și nu a fost revizuit de un nativ. / A working draft awaiting native Romanian review; not certified, not final, and not native-reviewed.
-- **Ajutor AI**: Pregătit cu ajutorul inteligenței artificiale, din manuscrisul englez corectat; revizia unui vorbitor nativ de română este obligatorie înainte de orice folosire. / Prepared with AI assistance from the corrected English master; native Romanian review is required before any use.
+- **Statut**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Ajutor AI**: Prepared with AI assistance from the corrected English master.
 - **Gratuit**: Oferit gratuit; copiile, corecturile și versiunile mai bune sunt binevenite. / Freely given; copies, corrections, and better versions are welcomed.
 
 # Cuprins

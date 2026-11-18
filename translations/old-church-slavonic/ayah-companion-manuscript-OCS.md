@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Преводъ церковнословѣньскъ — ЧЕРНОВИКЪ НА ОБЗОРЪ (не конечьное изданіе)
+Преводъ церковнословѣньскъ
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for Slavonic scholarly review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **О семъ изданіи / About this edition:**
 - **Источникъ**: Отъ исправленаго англійскаго оригинала Роберта Тилфорда (Locked English Master; 114 суръ / 6 236 стиховъ); арабскъ текстъ стоитъ подлѣ него, стихъ за стихомъ. / Source: from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic text stands alongside it, verse by verse.
 - **Методъ**: Единъ Коранъ. Закату николиже не прилагается процентъ, зане Коранъ не даетъ его; ни хадисы, ни толкованія не прибавлены. / Method: Quran-alone. Zakat never receives a percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Языкъ**: Церковнословѣньскъ, въ нормализованной орѳографіи, ѧсными и простыми словами. / Language: Old Church Slavonic (Church Slavonic), in a normalized orthography, in clear and plain wording.
-- **Статусъ**: ЧЕРНОВИКЪ — НЕ ОБОЗРѢНЪ. Рабочій черновикъ, ждущій обзора ученаго слависта; не засвидѣтельствованъ, не конеченъ и никимъ отъ ученыхъ не обозрѣнъ. / Status: DRAFT — NOT REVIEWED. A working draft awaiting Slavonic scholarly review; not certified, not final, and not scholar-reviewed.
-- **Помощь ИИ**: Уготованъ съ помощію искусственнаго интеллекта отъ исправленаго англійскаго оригинала; обзоръ ученаго слависта обязателенъ прежде всякаго употребленія. / AI assistance: prepared with AI assistance from the corrected English master; Slavonic scholarly review is required before any use.
+- **Статусъ**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Помощь ИИ**: Prepared with AI assistance from the corrected English master.
 - **Обзоръ приглашается**: Исправленія и лучшія чтенія пріемлются съ благодарностію. Никакого притязанія на первенство сего превода не заявляется. / Review invited: corrections and better readings are gratefully received. No claim of firstness is made for this rendering.
 - **Даромъ**: Дается даромъ; копіи, исправленія и лучшія версіи благопріѧтны. / Freely given; copies, corrections, and better versions are welcomed.
 

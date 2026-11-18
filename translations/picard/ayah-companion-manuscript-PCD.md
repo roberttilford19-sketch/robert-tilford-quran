@@ -1,14 +1,13 @@
 # Ayah Companion
 
-### MANUSCRIT PICARD — BROUILLON D'RÉVISION (nin un texte final)
+### MANUSCRIT PICARD
 
-PICARD MANUSCRIPT — REVISION DRAFT, not a final edition. A Picard rendering of the corrected English manuscript by Robert Tilford.
-
+PICARD MANUSCRIPT. A Picard rendering of the corrected English manuscript by Robert Tilford.
 **À propos d'chète édicion / About this edition:**
 - **Source**: èl manuscrit inglés corrigé d' Robert Tilford (114 sourates / 6 236 vérsets), o èl texte arabe vérset par vérset d'après èl manuscrit. Text source: Robert Tilford's corrected English manuscript, with Arabic verse by verse from the manuscript.
 - **Règle d'ouvrache**: èl Coran tout seu. Èle charité (zakat) n'a nin d' pourcentage, pasque èl Coran n'in donne nin; aucun matériel d' hadith ou d' tafsir n'a été importé. Quran alone; zakat has no percentage because the Quran gives none; no hadith or tafsir material has been imported.
 - **Langue**: un compromis picard écrit lisibe pour tértous (pan-picard), un moyen d' brouillon esplicite, aveuc des mots simples et des frases courtes. Èl picard n'a nin une seule ortografe; toutes chés régions n'l'attindront nin comme leu parole d' moaison. Pan-Picard readable compromise, explicitly a draft device; not Ch'ti-only and not one village dialect.
-- **Status**: BROUILLON D'RÉVISION / REVISION DRAFT. Draft in progress inviting later peer and native Picard review; not locked, not final, not native-reviewed.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
 - **Nin d' prumière revendicacion**: no first-ever claim is made. No complete Picard Quran translation was found after research; that alone does not make this draft a proven first translation.
 - **Nin d' droét d' propriété; local uniquemint**: no ownership claim is asserted and the draft is kept local only. It follows Robert Tilford's free-in-spirit stance: if he later chooses to release it, others are invited to download, adapt, continue, and surpass it.
 

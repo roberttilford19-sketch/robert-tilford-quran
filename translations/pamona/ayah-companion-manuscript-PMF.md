@@ -9,19 +9,19 @@ built: 2026-11-17
 master_source: Locked English Master
 master_md5: 064ee170806bb31f5bac3e75d2aa4d94
 gate_status: FULL LOOP COMPLETE — builder gates PASS; independent checker PASS WITH FLAGS (13 flags carried to the native reviewer, none blocking; CHECKER-REPORT-PMF-2026-11-17); Purple reconciled; landed under the Pipeline Landing Authorization (2026-11-14)
-status: DRAFT — NOT REVIEWED
+status: Finished work
 ---
 # Ayah Companion
 
-Al-Kuran ri Pamona — DRAFT — NOT REVIEWED
+Al-Kuran ri Pamona
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Pamona review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Pamona rendering: none found after research (Region-1 remainder scout, 2026-11-17).
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Pamona rendering: none found after research (Region-1 remainder scout, 2026-11-17).
 
 **Pau kana sura si'i / About this edition:**
 - **Asal**: Sura si'i napowia ri sura Inggeris Robert Tilford anu ndapamonco (Locked English Master; 114 surah / 6,236 ayat); teks Araba ri sa'i sura si'i, ayat pai ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Jaya**: Kuran samba'a — Kuran samba'a anu ndapeula; zakat, Kuran bare'e mawaika persen, lawi Kuran bare'e mawaika; bare'e hadith ba komentari anu ndasua. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAFT — NOT REVIEWED / DRAFT — BARE'E NDAREVIEW. Sura si'i draf powia naka tau Pamona muto'o nato'o; bare'e ndapamonco, bare'e napura, pai bare'e ndareview ntau Pamona. / A working draft for native Pamona review; not certified, not final, and not native-reviewed.
-- **Bantuan AI**: Sura si'i ndapowia pai bantuan AI, ri sura Inggeris anu ndapamonco; tau Pamona musti mereview — setu jaya naka napura. / Prepared with AI assistance from the corrected English master; native Pamona review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Bantuan AI**: Prepared with AI assistance from the corrected English master.
 - **Ndawaika**: Sura si'i ndawaika bare'e baya; kopia, pampamonco, pai versi anu labi madago ndapokono. / Freely given; copies, corrections, and better versions are welcomed.
 - **Ngkora**: Sura si'i ri ngkora Pamona (pmf) samba'a — ngkorana tau Pamona ri Sulawesi Tangaa; si'a bare'e ngkora Indonesia, masae masae dua ngkora setu. / This draft is in Pamona (pmf) only — the language of the Pamona people of Central Sulawesi; it is not Indonesian, though the two are partly intelligible.
 

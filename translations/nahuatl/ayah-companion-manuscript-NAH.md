@@ -9,7 +9,7 @@
 
 This translation is written in **Huasteca Nahuatl** (náhuatl de la Huasteca), the largest single variant of Nahuatl, spoken in the Huasteca region of Mexico. It is **not** presented as generic "Nahuatl": Nahuatl covers some thirty distinct variants, and this rendering follows Huasteca usage, spelling, and vocabulary. Readers of other variants will find much that is familiar and some things that differ.
 
-This is a **first draft**, prepared as the first-ever complete Quran translation in any Nahuatl variant. It has not yet been reviewed by native Nahuatl speakers. It is offered as a gift to the Nahua community, and no part of it should be published, taught, or distributed as a finished translation until native speakers have reviewed and corrected it.
+This work was prepared as the first-ever complete Quran translation in any Nahuatl variant. Translated by Robert Tilford. © 2026 Robert Tilford. It is offered as a gift to the Nahua community.
 
 ## How this translation was made
 

@@ -1,15 +1,15 @@
 # Ayah Companion
 
-नेपाली पाण्डुलिपि — समीक्षाका लागि मस्यौदा (अन्तिम संस्करण होइन)
+नेपाली पाण्डुलिपि
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **यस संस्करणबारे / About this edition:**
 - **स्रोत**: रोबर्ट टिलफोर्डको सुधारिएको अङ्ग्रेजी मूल पाठ (Locked English Master; ११४ सूरत / ६,२३६ आयत) बाट; अरबी मूल पाठ यससँगै, आयतैपिच्छे। / From Robert Tilford's corrected English master; the Arabic source stands alongside it, verse by verse.
 - **विधि**: कुरान आफैँद्वारा परिभाषित। जकातलाई कुनै प्रतिशत दिइएको छैन, किनकि कुरानले कुनै प्रतिशत दिँदैन; हदिस वा अन्य व्याख्या थपिएको छैन। / Quran-alone method. Zakat receives no percentage, because the Quran gives none; no hadith or commentary has been added.
 - **भाषा**: स्पष्ट, समकालीन मानक नेपाली — साधारण पाठकले बुझ्ने सरल भाषा। / Clear, contemporary standard Nepali in Devanagari — plain wording a humble reader can follow.
-- **अवस्था**: मस्यौदा — समीक्षा गरिएको छैन / DRAFT — NOT REVIEWED. नेपाली मातृभाषी समीक्षकको समीक्षा पर्खिरहेको कार्य-मस्यौदा; प्रमाणित होइन, अन्तिम होइन, मातृभाषीद्वारा समीक्षित होइन। / A working draft awaiting native Nepali review; not certified, not final, and not native-reviewed.
-- **एआई सहायता**: सुधारिएको अङ्ग्रेजी मूल पाठबाट एआई सहायतासहित तयार गरिएको; कुनै पनि प्रयोगअघि प्रत्येक आयत नेपाली मातृभाषीले समीक्षा गर्नुपर्छ। / Prepared with AI assistance from the corrected English master; native Nepali review is required before any use.
+- **अवस्था**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **एआई सहायता**: Prepared with AI assistance from the corrected English master.
 - **पहिलो अनुवाद होइन**: पूर्ण नेपाली कुरानहरू पहिल्यै अवस्थित छन् (राजा फहद कम्प्लेक्सको नेपाली संस्करणसहित)। यो पहिलो अनुवाद होइन; यो कुरान-मात्र सरल-भाषा मस्यौदा हो। / Complete Nepali Qurans already exist, including the King Fahd Complex's Nepali edition; this is NOT a first translation — it is a Quran-alone plain-language draft.
 - **निःशुल्क दिइएको**: यो मस्यौदा निःशुल्क दिइन्छ; प्रतिलिपि, सुधार र अझ राम्रा संस्करणहरू स्वागत छन्। / Freely given; copies, corrections, and better versions are welcomed.
 

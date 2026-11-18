@@ -1,14 +1,14 @@
 # Ayah Companion
 
-Al-Kuran lem Ha' Penan Timur — BELUM DIREVIEW
+Al-Kuran lem Ha' Penan Timur
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Eastern Penan review; not for publication or distribution as a finished translation. This draft makes no first-translation claim, and no claim about any other Eastern Penan rendering: none found after research.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. This work makes no first-translation claim, and no claim about any other Eastern Penan rendering: none found after research.
 
 **Pasan surat iteu / About this edition:**
 - **Asal**: Surat iteu naneu jin surat Inggeris Robert Tilford éh teneng (Locked English Master; 114 surat / 6,236 ayat); ha' Arab mokoo' tong jebila' néh, ayat pala ayat. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Jalan**: Kuran awah — Kuran awah éh tekep kivu; zakat, Kuran bé' mena' persen, uban Kuran bé' mena'; bé' pu'un hadith atau tafsir éh tenambah. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
-- **Status**: DRAF — BÉ' JAK NENA'AT / DRAFT — NOT REVIEWED. Surat iteu draf kereja' dokoo' na'at irah Penan tengéé'; bé' jak sukup, ngan bé' pu'un irah éh pané Penan jin bu'un éh na'at éh. / A working draft for native Eastern Penan review; not certified, not final, and not native-reviewed.
-- **Penolong AI**: Surat iteu naneu ngan penolong AI, jin surat Inggeris éh teneng; irah Penan tengéé' tekep na'at éh — inah jalan néh juk sukup. / Prepared with AI assistance from the corrected English master; native Eastern Penan review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Penolong AI**: Prepared with AI assistance from the corrected English master.
 - **Pengena'**: Surat iteu nena' bé' bayar; séé'-séé' omok ala éh, maneu éh teneng kepéh, ngan maneu éh kepéh jian. / Freely given; copies, corrections, and better versions are welcomed.
 - **Ha'**: Surat iteu lem ha' Penan Timur (pez) awah — ha' irah Penan tong Sarawak; iah bé' ha' Penan Barat, uban inah ha' éh jah. / This draft is in Eastern Penan (pez) only — the Penan language of Sarawak; it is not Western Penan, which is a different language.
 

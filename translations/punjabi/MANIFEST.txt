@@ -1,3 +1,16 @@
+GATE REMOVAL — 2026-11-18
+Ruled by Robert Tilford on 2026-11-18: the native-review gate is removed. The translations stand as his
+finished works, published as-is; no native or critic review is awaited, invited, or chased. This header
+SUPERSEDES the review-gate status language in every text below it. The manuscript's front-matter status
+language has been removed from the manuscript itself; no verse text was changed, and the desk's
+verification of record was re-run after the edit and stands.
+
+GOVERNING FILE (live shelf, updated by this header): ayah-companion-manuscript-PA.md | 2808436 bytes |
+SHA-256 861bd4959e4ec521e8cc430a73397b0519c5b8ef77d8d93d743b77fda77bdf47
+The manuscript's front matter now carries the author line: Translated by Robert Tilford. © 2026 Robert Tilford.
+
+---
+
 GOVERNING-GENERATION RULING — 2026-10-25
 Ruled by Robert Tilford on 2026-10-25: the LIVE SHELF governs. The live-shelf file below is the governing
 generation for this folder in this repository (roberttilford19-sketch/robert-tilford-quran, main at

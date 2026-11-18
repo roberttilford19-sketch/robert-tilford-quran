@@ -1,15 +1,15 @@
 # Ayah Companion
 
-پښتو لاسوند — مسوده د بیاکتنې لپاره (وروستی متن نه دی)
+پښتو لاسوند
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native-speaker review; not for publication or distribution as a finished translation.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **د دې نسخې په اړه / About this edition:**
 - **سرچینه**: د رابرټ ټیلفورډ له سم شوي انګلیسي اصل څخه (Locked English Master؛ ۱۱۴ سورتونه / ۶۲۳۶ آیتونه)؛ عربي اصل یې آیت په آیت ورسره ولاړ دی. / From Robert Tilford's corrected English master; the Arabic source stands alongside it, verse by verse.
 - **لاره**: یوازې قرآن. زکات ته هېڅ سلنه نه ورکول کېږي، ځکه قرآن هېڅ سلنه نه ده ورکړې؛ هېڅ حدیث یا تفسیر نه دی ور زیات شوی. / Quran-alone method. Zakat receives no percentage, because the Quran gives none; no hadith or commentary has been added.
 - **ژبه**: معیاري پښتو په خپل فارسي-عربي ليکدود کې، په ساده ژبه چې عادي لوستونکی یې تعقیبولای شي. / Standard Pashto in its Perso-Arabic script, in plain wording a humble reader can follow.
-- **حالت**: مسوده — نه ده بیاکتل شوې / DRAFT — NOT REVIEWED. دا کاري مسوده د پښتو مورني ویونکي بیاکتنې ته منتظره ده؛ نه تصدیق شوې، نه وروستۍ، او نه د مورني ویونکي له خوا بیاکتل شوې. / A working draft awaiting native Pashto review; not certified, not final, and not native-reviewed.
-- **د AI مرسته**: د سم شوي انګلیسي اصل څخه د AI په مرسته چمتو شوې؛ له هر استعمال څخه مخکې د پښتو مورني ویونکي بیاکتنه اړینه ده. / Prepared with AI assistance from the corrected English master; native Pashto review is required before any use.
+- **حالت**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **د AI مرسته**: Prepared with AI assistance from the corrected English master.
 - **لومړۍ ژباړه نه ده**: بشپړې پښتو قرآن ژباړې له پخوا څخه شته. دا لومړۍ ژباړه نه ده؛ دا د قرآن-یوازې لارې ساده-ژبې مسوده ده. / Complete Pashto Qurans already exist; this is NOT a first translation — it is a Quran-alone plain-language draft.
 - **وړیا ورکړل شوې**: دا مسوده وړیا ورکړل شوې؛ کاپيانې، سمونې او ښې نسخې ښه راغلاست دي. / Freely given; copies, corrections, and better versions are welcomed.
 

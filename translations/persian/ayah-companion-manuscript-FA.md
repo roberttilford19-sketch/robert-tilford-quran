@@ -1,15 +1,14 @@
 # Ayah Companion
 
-### نسخهٔ فارسی — پیش‌نویس بازبینی (نسخهٔ نهایی نیست)
+### نسخهٔ فارسی
 
-PERSIAN (فارسی) MANUSCRIPT — REVISION DRAFT, not a final edition. A Persian rendering of the corrected English manuscript by Robert Tilford.
-
+PERSIAN (فارسی) MANUSCRIPT. A Persian rendering of the corrected English manuscript by Robert Tilford.
 **دربارهٔ این نسخه / About this edition:**
 - **مبنای متن**: نسخهٔ اصلاح‌شدهٔ انگلیسیِ رابرت تیلفورد (۱۱۴ سوره / ۶٬۲۳۶ آیه)، و متن عربی از همان نسخه، آیه‌به‌آیه در کنار آن.
 - **قاعدهٔ کار**: قرآن تنها. برای زکات هیچ درصدی داده نشده است، زیرا قرآن درصدی نمی‌دهد؛ هیچ مطلب حدیثی یا تفسیری افزوده نشده است.
 - **زبان**: فارسی معیارِ روشن و ساده؛ ساده‌ترین صورت قابل‌فهم برای خوانندهٔ معمولی.
-- **وضعیت**: پیش‌نویس بازبینی / REVISION DRAFT؛ نخستین پیش‌نویس کامل در انتظار بازبینی گویشور فارسی؛ قفل‌شده نیست، نهایی نیست، و هنوز بازبینی بومی روی آن انجام نشده است.
-- **کمک هوش مصنوعی**: این پیش‌نویس با کمک هوش مصنوعی از نسخهٔ استاد انگلیسی اصلاح‌شده آماده شده است؛ پیش از هر کاربردی، بازبینی آیه‌به‌آیه توسط گویشور فارسی لازم است. / Prepared with AI assistance from the corrected English master; native Persian review is required before any use.
+- **وضعیت**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **کمک هوش مصنوعی**: Prepared with AI assistance from the corrected English master.
 - **ادعای نخستین ترجمه نیست**: ترجمه‌های فارسی قرآن فراوان‌اند — از برگردان‌های سده‌های میانه تا ترجمه‌های معیار امروز، مانند فولادوند و انصاری. این برگردان دیگری است با روش «قرآن تنها» به فارسی ساده، نه نخستین ترجمهٔ فارسی. / Persian Qurans already exist (medieval renderings through modern standards such as Fooladvand and Ansarian); this is a Quran-alone plain-language draft, not a first translation.
 - **رایگان پیشکش شده است**: این پیش‌نویس رایگان داده می‌شود؛ نسخه‌برداری، اصلاح و برگردان‌های بهتر پذیرفته است. / Freely given; copies, corrections, and better versions are welcomed.
 

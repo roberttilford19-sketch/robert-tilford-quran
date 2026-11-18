@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Romani Tradukipen — DRAFT (na-i recenzime)
+Romani Tradukipen
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Romani review; not for publication or distribution as a finished translation. Drafted in a common, Vlax-based written Romani — Romani has many dialects and no single standard, and this variety is not presented as the language whole. No claim is made about other Romani renderings.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. Drafted in a common, Vlax-based written Romani — Romani has many dialects and no single standard, and this variety is not presented as the language whole. No claim is made about other Romani renderings.
 
 **Kaj si kadaja knjiga / About this edition:**
 - **Katar avel**: Kadaja knjiga si o Romani tradukipen le Robert Tilfordoske korektirime angleziska masterosta (Locked English Master; 114 sure / 6,236 ajeta); o arapsko teksto ačhel pasha svako ajto, ajto pasha ajto. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **O drom**: Kurano korkoro — o Kurano korkoro definil peske vorbi; o zakato či del pes nikad ande procentura, ke o Kurano či del nisavo procento; či hadiso či komentaro či si thodino andre. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
 - **E čhib**: Komuno ramome Romani bazirime pe e Vlax (Kalderash/Lovari) varieteta, ande latinikani ortografia. E Romani čhib si la but dialektura thaj či si la jekh standardo; kadaja varieteta či si e intrego čhib. / Common written Romani based on the Vlax (Kalderash/Lovari) variety, in Latin orthography. Romani has many dialects and no single standard; this variety is not the whole language.
-- **O statuso**: DRAFT — NA-I RECENZIME / DRAFT — NOT REVIEWED. Kadaja knjiga si jekh draft savo ačhel te avel recenzime katar vorbitori Romane čhibjake; či si gata, či si recenzime. / A working draft for native Romani review; not certified, not final, and not native-reviewed.
-- **AI azhutipen**: Kadaja knjiga sas kerdi uzhos AI azhutipesa katar o korektirime anglezisko mastero; recenzia katar jekh vorbitori Romane čhibjako si trebuime anglal svako hasznipen. / Prepared with AI assistance from the corrected English master; native Romani review is required before any use.
+- **O statuso**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI azhutipen**: Prepared with AI assistance from the corrected English master.
 - **Či phenel pes angluno**: Kadaja knjiga či phenel pes o angluno tradukipen le Kuranosko pe Romani čhib, thaj či phenel pes či aver tradukipena si vaj či si. / This draft makes no claim to be the first rendering of the Quran into Romani, and no claim about other Romani renderings.
 - **Dinipe**: Kadaja knjiga si dini dzaba; kopije, korekture thaj maj lačhe verzije si primime. / Freely given; copies, corrections, and better versions are welcomed.
 

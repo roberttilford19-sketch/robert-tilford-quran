@@ -1,15 +1,15 @@
 # Ayah Companion
 
-Nko Bayɛlɛma — BAARA SƐBƐN (a ma ɲɛnabɔ)
+Nko Bayɛlɛma
 
-Rendered from Robert Tilford's corrected English master (the Locked English Master). DRAFT — NOT REVIEWED: a working draft for native Nko (Maninka) review; not for publication or distribution as a finished translation. Nko is the written standard of the same Manding continuum as Mandinka — the two lanes are distinct written standards, neither a copy of the other. No first-translation claim is made anywhere in this lane.
+Rendered from Robert Tilford's corrected English master (the Locked English Master). Translated by Robert Tilford. © 2026 Robert Tilford. Nko is the written standard of the same Manding continuum as Mandinka — the two lanes are distinct written standards, neither a copy of the other. No first-translation claim is made anywhere in this lane.
 
 **Nko kan ɲɛfɔli / About this edition:**
 - **Bunoo**: Robert Tilford ta Inkilise master (Locked English Master; sura 114 / aya 6,236) le bɔra nin Nko bayɛlɛma baara ti; Arabu sɛbɛn bɛ aya bɛɛ kɛrɛfɛ. / Built from Robert Tilford's corrected English master (the Locked English Master; 114 surahs / 6,236 verses); the Arabic source text stands alongside it, verse by verse.
 - **Silo**: Alkuraani kelen — Alkuraani kelen dɔrɔn ka kuma ke; jakaa tɛ dankan sabaati la foŋ (percentage) di, sabu Alkuraani tɛ wo di; hadisi wala ɲɛfɔli wɛrɛ tɛ fara a kan. / Quran-alone method. Zakat is never given a percentage, because the Quran gives none; no hadith or commentary has been added.
 - **Manding sira kelen, sɛbɛn fila**: Nko ye Manding kan sɛbɛn ɲuman ye min dilanna N'ko sɛbɛn na (ߒߞߏ); Mandinka ye o sira kelen ta Senegambia sɛbɛn ye. Nin bayɛlɛma ni Mandinka bayɛlɛma tɛ kelen ye, u si tɛ ɲɔgɔn kopi ye. / One Manding continuum, two written standards: Nko is the written standard of the same Manding continuum as the Mandinka lane; the two lanes are distinct written standards, neither a copy of the other.
-- **Status**: BAARA SƐBƐN — A MA ƝƐNABƆ / DRAFT — NOT REVIEWED. Nin ye baara sɛbɛn ye Nko kan dɔnna ɲɛnabɔli kama; a ma kɛ bayɛlɛma banbali ye. / A working draft for native Nko review; not certified, not final, and not native-reviewed.
-- **AI dɛmɛ**: Nin bayɛlɛma labɛnna ni AI dɛmɛ ye, Inkilise master bɔra; Nko ɲɛnabɔli wajibiya ka sɔrɔ sani a ka kɛ baara ye. / Prepared with AI assistance from the corrected English master; native Nko review is required before any use.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **AI dɛmɛ**: Prepared with AI assistance from the corrected English master.
 - **Di**: Nin bayɛlɛma bɛ di fu, a kopi, a latilenni ani a ɲuman wɛrɛw bɛɛ bɛ sɔn. / Freely given; copies, corrections, and better versions are welcomed.
 
 # Suraw Kunnafoni

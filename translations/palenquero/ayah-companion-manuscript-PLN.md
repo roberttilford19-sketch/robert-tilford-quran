@@ -1,14 +1,13 @@
 # Ayah Companion
 
-### MANUSKRITO PALENKERO — BORADÓ DE REBISIÓN (nu e un teksto final)
+### MANUSKRITO PALENKERO
 
-PALENQUERO MANUSCRIPT — REVISION DRAFT, not a final edition. A Palenquero rendering of the corrected English manuscript by Robert Tilford.
-
+PALENQUERO MANUSCRIPT. A Palenquero rendering of the corrected English manuscript by Robert Tilford.
 **Ri ete edisión / About this edition:**
 - **Fuente**: e manuskrito inglés korrejio de Robert Tilford (114 sura / 6 236 verso), ku e teksto árabe verso a verso sugún e manuskrito. Text source: Robert Tilford's corrected English manuscript, with Arabic verse by verse from the manuscript.
 - **Regla de traduksión**: e Korán ele solo. La karidá (zakat) nu tené porsentaje, porke e Korán nu ta dá niuno; niun material de hadith o tafsir a yegá aki. Quran alone; zakat has no percentage because the Quran gives none; no hadith or tafsir material has been imported.
 - **Lengua**: palenkero (lengua palenquera) de San Basilio de Palenque, den su forma eskrito normalizá, ku palabra sensiya i frase korto. Palenquero of San Basilio de Palenque in its normalized written form, with simple words and short sentences.
-- **Estado**: BORADÓ DE REBISIÓN / REVISION DRAFT. Draft in progress inviting later peer review, native Palenquero review, and San Basilio community review; not locked, not final, not native-reviewed. Community review comes before any gifting, posting, or other use.
+- **Estado**: Translated by Robert Tilford. © 2026 Robert Tilford.
 - **Niun reibindikasión de primé bes**: no first-ever claim is made. No complete Palenquero Quran translation was found after research; that alone does not make this draft a proven first translation.
 - **Niun reibindikasión de propiedá; solo lokal**: no ownership claim is asserted and the draft is kept local only. It follows Robert Tilford's free-in-spirit stance: if he later chooses to release it, others are invited to download, adapt, continue, and surpass it.
 

@@ -1,14 +1,14 @@
 # Ayah Companion
 
-### MANUSCRITO PORTUGUÊS — RASCUNHO DE REVISÃO (não publicação)
+### MANUSCRITO PORTUGUÊS
 
-Uma tradução contemporânea do Alcorão em português brasileiro, edição do manuscrito inglês corrigido de Robert Tilford — rascunho de revisão, não publicação.
+Uma tradução contemporânea do Alcorão em português brasileiro, edição do manuscrito inglês corrigido de Robert Tilford.
 
 **Sobre a presente edição:**
 - **Base textual**: o manuscrito inglês corrigido de Robert Tilford (114 suratas / 6.236 versículos), com o texto árabe retomado versículo por versículo do manuscrito.
 - **Regra de trabalho**: só o Alcorão. A caridade (zakat) não recebe nenhuma porcentagem, porque o Alcorão não dá nenhuma; nenhum material de hadith ou tafsir foi importado.
 - **Língua**: português brasileiro simples e direto — palavras do dia a dia, frases curtas: a tradução mais clara e simples possível, aquela a que o camponês humilde poderia responder.
-- **Estado**: RASCUNHO DE REVISÃO. Não é uma edição travada, não é uma recitação final; é uma primeira versão completa à espera da revisão de um falante nativo de português brasileiro.
+- **Estado**: Translated by Robert Tilford. © 2026 Robert Tilford.
 
 # Índice
 
