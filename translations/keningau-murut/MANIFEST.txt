@@ -57,8 +57,8 @@ work/flags-kxi.txt — 8 named uncertain-seat items plus residue counts, carried
   2,932 bytes
   SHA-256 bd17a57563242e6aac854a8811bc847a96067ddb8b2d8d242b027f9c24d77112
 ayah-companion-manuscript-KXI.md
-  2,277,680 bytes
-  SHA-256 4eb60fe44ff2cdd6034a31a3825729173715619e876903fac45a3eea791f614e
+  2,277,140 bytes
+  SHA-256 346a45d08e56e3ad84f806a21758cd020a0a184065c9893381a84798b0aa99a8
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
