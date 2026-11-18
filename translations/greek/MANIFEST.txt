@@ -15,4 +15,4 @@ and checker records, flags) stands in the workspace lane folder
 Translated by Robert Tilford. © 2026 Robert Tilford.
 
 Files:
-  2984507  cf5d0e2e841f9689e109700aa048c7f941b0ac27f2ab7bf976be9d36c893be25  ayah-companion-manuscript-EL.md
+  2983621  d7f4911421cff8a80da8fbf3135412cb1bfca432faee9a64f90581d5f18ed816  ayah-companion-manuscript-EL.md
