@@ -1,0 +1,89 @@
+AYAH COMPANION — MAINSTREAM KENYAH RENDERING
+MANIFEST — lane record, 2026-11-17
+
+ITEM
+Ayah Companion, Mainstream Kenyah (xkl) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the Malaysia wickets wave (bases in hand) (the scout's Class 3 row
+Class 3 §6a #5), under Robert's Advance Rule of 2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Mainstream Kenyah review is required
+before any gifting or publication; review is invited. The status
+line stands inside the manuscript itself, on its face, with AI
+assistance labelled.
+SHELVING: lands on the GitHub shelf under Robert's Pipeline
+Landing Authorization (2026-11-14 ~15:00), the full pipeline loop
+having completed (build, count, canonical verify, independent
+checker, Purple sweep reconciled); the landing is recorded in
+LANDING-RECORD-2026-11-17.md in this lane folder at the desk.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography — reviewer item.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: no
+Mainstream Kenyah Quran translation found after research (Malaysia
+scout, 2026-11-14).
+
+FILES
+GLOSSARY-XKL.md
+  4,416 bytes
+  SHA-256 7cc84bcffc04050030ca53d6d9a76147718af7d8c9f435c73b47cdb8af0faa2a
+STYLEGUIDE-XKL.md (the lane's binding drafting law, settled before drafting)
+  6,762 bytes
+  SHA-256 70630d306e4ff67111a72909c40331a184cdd1ee8ab623b2293f619c502fe982
+BUILD-REPORT-XKL.md
+  5,501 bytes
+  SHA-256 f8546c5da44ec7d0f1e887404dbddcd3f2c10c58323e15f038975df8115b6ca4
+PURPLE-REPORT-XKL-2026-11-17.md (Purple sweep, report mode, reconciled 14 of 14, 0 unresolved)
+  14,618 bytes
+  SHA-256 70cfdab7863fad50aed015fb135043d12ac6d8ceb9614c72eabec3429d5690b6
+CHECKER-XKL-SEPARATE-AGENT.md (independent checker, preserved unedited)
+  23,152 bytes
+  SHA-256 9521d4c59ec7bf6d3555e09db78b5da8fd0579d1db47511a3b2236ce14c1eba9
+work/verification-xkl.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-xkl.txt — 16 named uncertain-seat items plus residue counts, carried to the reviewer.
+  6,826 bytes
+  SHA-256 c01c66729fc502245fb9d627233504e29dab389f3ca11b1c6698b2950fe6284e
+ayah-companion-manuscript-XKL.md
+  2,216,520 bytes
+  SHA-256 d353597c62a5f2a80fead3f84f516315203b73caf7a079c8d71b3285af55eb63
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-17: PASS true. Headers 114, head order true, verses
+6,236, counts match meta true, continuity true, Arabic runs
+6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse lines
+6,236, slice ref mismatches 0, slice paragraph mismatches 0,
+percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_xkl.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Allah 2,732 (= God 2,732); allah 79 (= god 79); allah-allah 35 (= gods 35 — 34 lower-case + 1 sentence-capitalised at 11:101); Tuhan 980 (= Lord 969 + 11 Master tokens at the keyed seats);
+zakat at exactly the 13 keyed slots; nggi' at exactly the 36
+keyed tokens (2:272 ×3; 58:13 ×2).
+Independent checker (separate agent): PASS WITH FLAGS — MATERIAL 0, MINOR 4.
+The independent checker (a separate agent, own code, CHECKER-XKL-SEPARATE-AGENT.md) reproduced every counted gate exactly: master MD5 machine-equal; 6,236 markers and 114 headers in order; the per-verse census exact with 0 mismatching refs (Allah 2,732 / allah 79 / Tuhan 980 with the Master seats verified individually; zakat 13; nggi' 36); the gods count adjudicated sound both ways (34 lower-case allah-allah + 1 sentence-capitalised Allah-allah at 11:101, where the disclosed possessive rule leaves the token sentence-initial — the case-insensitive per-verse census is exact); basmalah 114 with surah 9 frameless; the Arabic sequence identical at all 6,462 positions; the sealed seats hold (18:103 carried by ami', verified in the slice and in the harvest); % at 0; markers 15; the honest face complete; the leak scans 0. Its grounding audits: 15/15 sampled direct/bridge entries verified against the harvest; the 93 overrides enumerated — all 93 grounded, 81 named in the prose papers; its own cousin-leak sample 15/15 Kenyah with a full-population pass finding no Kayan source anywhere in the lane; the songbook evidence verified from the saved texts (Tuhan Allah 36×, Tuhan Yesus 126×, exactly as claimed). Verdict: PASS WITH FLAGS — MATERIAL 0, MINOR 4.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+
+NOTES CARRIED TO THE REVIEWER
+The Elisa/Elia pair (item 1) is the reviewer's first name ruling; the God-word Allah with Lord Tuhan (items 2–3) is reviewer ruling #1, grounded in the community songbook's own usage; the checker's wash/wipe mechanism item (14) names the 5:6 seat for the reviewer's first pass.
