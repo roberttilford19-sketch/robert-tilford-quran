@@ -1,0 +1,98 @@
+AYAH COMPANION — AMARASI RENDERING
+MANIFEST — lane record, 2026-11-17
+
+ITEM
+Ayah Companion, Amarasi (aaz) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the Region-1 remainder wave, under Robert's
+Advance Rule of 2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Amarasi review is required
+before any gifting or publication; review is invited. The status
+line stands inside the manuscript itself, on its face, with AI
+assistance labelled.
+SHELVING: prepared in shelving-pack/translations/amarasi/ for
+centralised landing after an independent check. NOT PUSHED by
+this builder; no landing is claimed in this manifest.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography — the Amarasi Bible's practical orthography
+(glottal stop written '); reviewer item.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: none
+found after research (Region-1 remainder scout, 2026-11-17).
+
+FILES
+GLOSSARY-AAZ.md
+  4,508 bytes
+  SHA-256 b54ea1ddba45bef2a210976d10ec4154860fd0d31ba5daef385de1b113221f41
+STYLEGUIDE-AAZ.md (the lane's binding drafting law, settled before drafting)
+  8,066 bytes
+  SHA-256 9e19527831760e2cd2a97fff8775e9a9ad662d52e834ba335b7be759f7fc797d
+BUILD-REPORT-AAZ.md
+  4,556 bytes
+  SHA-256 016658288e346cad1b5120604819587fae50c043774caaed7c35f5afef897575
+PURPLE-REPORT-AAZ-2026-11-17.md (Purple sweep, report mode, reconciled 14 of 14, 0 unresolved)
+  8,430 bytes
+  SHA-256 743da2cfd997492713f90c6c6c5bb2511e73350e9fc6d77e7ed8e1794fe2801a
+work/verification-aaz.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-aaz.txt — 13 named uncertain-seat items plus residue counts, carried to the reviewer.
+  9,416 bytes
+  SHA-256 609cc17bcb02ee0925135d5bc945dfebc5ad3a4fdcc11827655ca67c970fd80f
+ayah-companion-manuscript-AAZ.md
+  2,192,351 bytes
+  SHA-256 9edc5193470b35f543753f8fa334fbf0f6450412bbb5e6118b9c4dbdae254fb5
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-17: PASS true. Headers 114, head order true, verses
+6,236, counts match meta true, continuity true, Arabic runs
+6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse lines
+6,236, slice ref mismatches 0, slice paragraph mismatches 0,
+percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_aaz.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Uisneno 2,732 (= God 2,732); uisneno 79 (= god 79); uisneno-uisneno 35 (= gods 35); Usif 980 (= Lord 969 + the 11 counted Master tokens);
+zakat at exactly the 13 keyed slots; turun at exactly the 36
+keyed tokens (2:272 ×3; 58:13 ×2).
+Independent checker (separate agent): PASS WITH FLAGS (CHECKER-REPORT-AAZ-2026-11-17.md) — every hard gate re-measured exact; 13 flags (6 reviewer-significant disclosures, 7 MINOR), none blocking; the grounding composition adjudicated in the checker's §9 (see the landing record).
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+
+BASE
+Edwards, Rote-Meto Comparative Dictionary (ANU Press, 2021),
+whole-book PDF from ANU Press's file host, and the Amarasi Bible
+Uisneno In Kabin ma Prenat (UBB/Wycliffe, eBible.org aaz).
+Grounded template keys: 742 of 1,887 (39.3%) — the lane clears
+the wave's 600-key thin-base stop line on the Bible leg of the
+base; every fetch route and the full count ledger stand in
+work/base/BASE-NOTES.md.
+
+NOTES CARRIED TO THE REVIEWER
+The Elisa/Elia pair (flags item 1) is the reviewer's first name
+ruling — both forms are the Amarasi Bible's own; the 18:103
+exclusive-plural choice (item 2) and the composed basmalah mercy
+pair (item 4) stand as disclosed decisions; possession (item 5),
+the ka … fa negation circumfix (item 6), and verb agreement
+(item 7) are disclosed systematic simplifications of the
+word-by-word draft.
