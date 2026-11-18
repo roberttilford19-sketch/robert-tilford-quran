@@ -18900,7 +18900,7 @@ yi A nyɛla ni stat impurity, dede niŋ yi maŋmaŋ. Yi A nyɛla ill, kana chaŋ
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Saha lala nima ŋun tiɣisi, ni tuma tum yɛlimaŋli niŋbu, ni tiɣisi ni bo daa nyɛla tum gbinni muhammad — ni Di nyɛla yɛlimaŋli sani be Duuma — O remits be taali nima, ni reliebes be konserns.
+**47:2** Saha lala nima ŋun tiɣisi, ni tuma tum yɛlimaŋli niŋbu, ni tiɣisi ni bo daa nyɛla tum gbinni Muhammad — ni Di nyɛla yɛlimaŋli sani be Duuma — O remits be taali nima, ni reliebes be konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
