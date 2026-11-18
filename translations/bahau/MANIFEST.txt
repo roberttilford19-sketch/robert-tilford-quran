@@ -1,0 +1,89 @@
+AYAH COMPANION — BAHAU RENDERING
+MANIFEST — lane record, 2026-11-17
+
+ITEM
+Ayah Companion, Bahau (bhv) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the Malaysia wickets wave (bases in hand) (the scout's Class 3 row
+Class 3 §6a #8), under Robert's Advance Rule of 2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Bahau review is required
+before any gifting or publication; review is invited. The status
+line stands inside the manuscript itself, on its face, with AI
+assistance labelled.
+SHELVING: lands on the GitHub shelf under Robert's Pipeline
+Landing Authorization (2026-11-14 ~15:00), the full pipeline loop
+having completed (build, count, canonical verify, independent
+checker, Purple sweep reconciled); the landing is recorded in
+LANDING-RECORD-2026-11-17.md in this lane folder at the desk.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography — reviewer item.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: no
+Bahau Quran translation found after research (Malaysia
+scout, 2026-11-14).
+
+FILES
+GLOSSARY-BHV.md
+  3,054 bytes
+  SHA-256 0c128ab50151d307e12236018cfad97f5f204c579813f56e6a5deb98b3bb5958
+STYLEGUIDE-BHV.md (the lane's binding drafting law, settled before drafting)
+  6,460 bytes
+  SHA-256 fd282af1c9472025fde3e4e8e27d228e6e8e5055cb29e16876817775369f8a5e
+BUILD-REPORT-BHV.md
+  5,344 bytes
+  SHA-256 2befaac5d688ce4586f9118146bac9fa887534b7a5e37f6082d8b6fa156a41e2
+PURPLE-REPORT-BHV-2026-11-17.md (Purple sweep, report mode, reconciled 14 of 14, 0 unresolved)
+  13,720 bytes
+  SHA-256 0b969569ae063725c2182e1ff5f1e0657e05ee4793e9a8f3a74aaada9281ffe9
+CHECKER-BHV-SEPARATE-AGENT.md (independent checker, preserved unedited)
+  27,797 bytes
+  SHA-256 9e9630075bf39d76b4cda2ef644fa9bbcb6f6a0a977bf881946cd854d7c36769
+work/verification-bhv.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-bhv.txt — 13 named uncertain-seat items plus residue counts, carried to the reviewer.
+  5,868 bytes
+  SHA-256 b1f6032b16120ed507d4ab1c74827ea93ed440e7a1579f2a1d0dabbe932b294f
+ayah-companion-manuscript-BHV.md
+  2,269,423 bytes
+  SHA-256 f8d41f49a599205ff04b384d7d5e0421161463dbff35d4230fcd67c9f6f3b5bc
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-17: PASS true. Headers 114, head order true, verses
+6,236, counts match meta true, continuity true, Arabic runs
+6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse lines
+6,236, slice ref mismatches 0, slice paragraph mismatches 0,
+percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_bhv.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Allah 2,732 (= God 2,732); allah 79 (= god 79); allah-allah 35 (= gods 35); Tuhan 980 (= Lord 969 + 11 Master tokens at the keyed seats);
+zakat at exactly the 13 keyed slots; sedekah at exactly the 36
+keyed tokens (2:272 ×3; 58:13 ×2).
+Independent checker (separate agent): PASS WITH FLAGS — MATERIAL 0, MINOR 2.
+The independent checker (a separate agent, own code, CHECKER-BHV-SEPARATE-AGENT.md) reproduced every figure and tested this lane's crux directly: it searched all 2,183 parsed Kamus entries — glosses first, then full entry texts — for Tuhan, Allah, dewa, pencipta and “yang maha”, and found 0 entry hits in both passes (the single raw “Tuhan” in the book is the publisher's preface prose, not an entry), so the God-word gap is real and the Allah/Tuhan keying stands exactly as disclosed: the region's scripture-tradition words, a ruling for the reviewer, not a checker gate. The census is exact with 0 mismatching refs (Allah 2,732 / allah 79 / allah-allah 35 / Tuhan 980; zakat 13; sedekah 36); the Arabic sequence is identical at all 6,462 positions; basmalah 114; markers 15; % at 0; the honest face complete; the leak scan 0 in the slices; the G7 count (6,677) reproduced item for item as fallback seats; the 17 regional-register entries enumerated value-for-value and confirmed disclosed by name; the bridge sample 20 of 20 truly grounded; the fallback total re-summed exactly (42,091). Verdict: PASS WITH FLAGS — MATERIAL 0, MINOR 2.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+
+NOTES CARRIED TO THE REVIEWER
+The Elisa/Elia pair (item 1) is the reviewer's first name ruling; the Allah/Tuhan keying on the Kamus gap (items 2–3) is reviewer ruling #1 — the first question a Bahau reviewer settles is the community's own God-word.
