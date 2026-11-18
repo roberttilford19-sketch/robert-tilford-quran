@@ -49,8 +49,8 @@ work/flags-agn.txt — 9 named uncertain-seat items plus residue counts, carried
   7,647 bytes
   SHA-256 76505923f3f50f3b2648b6bf40de687a9857598abd86d1199161686aff68b649
 ayah-companion-manuscript-AGN.md
-  2,237,671 bytes
-  SHA-256 57c8a722694d17489eb80c9100ef04f482b37d144b8efe91fd3aa18aa442c1a2
+  2,237,072 bytes
+  SHA-256 8394dbc31679561ae30495f1a75f5df8c92201cbf374831a876e756c17989eb8
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
