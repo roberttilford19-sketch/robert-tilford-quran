@@ -1,0 +1,92 @@
+AYAH COMPANION — MBULA RENDERING
+MANIFEST — lane record, 2026-11-17
+
+ITEM
+Ayah Companion, Mbula (mna) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the New Guinea wave (Phase 2, first tranche;
+Phase-1 record BATCH-B09-madang-morobe.md, Mbula BUILDABLE
+NOW, VERIFIED), under Robert's Advance Rule of 2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Mbula review is required
+before any gifting or publication; review is invited. The status
+line stands inside the manuscript itself, on its face, with AI
+assistance labelled.
+SHELVING: staged in this lane's shelving pack only. The landing
+is centralized after the independent check; this lane does
+not push.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography — the modern Mbula orthography of the
+dictionary and the Bible.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: none
+found after research (New Guinea wave scout, 2026-11-17).
+
+FILES
+GLOSSARY-MNA.md
+  4,494 bytes
+  SHA-256 12d3eb4fbbb34e8dffb7f9ac00b7bdc501c645ea04afa1f9b6fbd3afceee4117
+STYLEGUIDE-MNA.md (the lane's binding drafting law, settled before drafting)
+  7,138 bytes
+  SHA-256 b8ead6dd24a86b0bf9c09bf3b90c9ca934709de126a1c37981c8f094eaea60a3
+BUILD-REPORT-MNA.md
+  5,357 bytes
+  SHA-256 c8a1cbaf20a19d8c5ff61b900e644c3f12c92b0c5ad5bac12d0bb2134e91ef11
+work/verification-mna.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-mna.txt — 13 named uncertain-seat items plus residue counts, carried to the reviewer.
+  4,203 bytes
+  SHA-256 db7c49628828f076ef10660ed9aee955a75d0aeebfa01af5fcf9dbab3a9f2870
+ayah-companion-manuscript-MNA.md
+  2,206,265 bytes
+  SHA-256 05f36fc955bb9d783fe402ebc261d8863b776b162986fc80f18135ec9e2bc8db
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-17: PASS true. Headers 114, head order true, verses
+6,236, counts match meta true, continuity true, Arabic runs
+6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse lines
+6,236, slice ref mismatches 0, slice paragraph mismatches 0,
+percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_mna.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Anutu 2,732
+(= God 2,732); merere 79 (= god 79); merere pakaamŋan 35
+(= gods 35); Merere 980 (= Lord 969 + the 11 counted Master
+tokens); zakat at exactly the 13 keyed slots; patoronŋana at
+exactly the 36 keyed tokens (2:272 x3; 58:13 x2).
+Purple measurements (work/purple-measurements-mna.json): Arabic
+matched 6,348 of 6,348; basmalah 114; markers 15; TOC 114, no
+mismatches; percent 0; note 56 present.
+Independent checker (separate agent): PASS WITH FLAGS,
+2026-11-17, CHECKER-REPORT-MNA.md. Headline: all censuses
+re-measured equal; grounding split 774 + 109 = 883 verified
+against the bridge record to the key.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+
+NOTES CARRIED TO THE REVIEWER
+The Elisa/Ilia pair (flags item 1) is the reviewer's first name
+ruling; the God-word Anutu and Lord-word Merere are dictionary-
+and Bible-attested; the basmalah composition, the possessive kini
+placement, and the two-source lexicon ride in the flags.
