@@ -18901,7 +18901,7 @@ nin I mu kono stat la impurity, saniya ke ali faŋo. Nin I mu ill, wala taa silo
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Biriŋ wonnu min la, niŋ baara tilinoo, niŋ la kono mun keta lasi dula ye muhammad — niŋ A mu tiɲɛ bota u la Matigi — A remits u la jumolu, niŋ reliebes u la konserns.
+**47:2** Biriŋ wonnu min la, niŋ baara tilinoo, niŋ la kono mun keta lasi dula ye Muhammad — niŋ A mu tiɲɛ bota u la Matigi — A remits u la jumolu, niŋ reliebes u la konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
