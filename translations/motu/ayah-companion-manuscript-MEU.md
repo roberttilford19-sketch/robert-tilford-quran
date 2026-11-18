@@ -18914,7 +18914,7 @@ ip oi are lalonai stat op impuriti, puripi iourselves. Ip oi are ill, or travell
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Negana unai who kamonai, bona work maoromaoro, bona kamonai lalonai what was sent down to muhammad — bona ia lau trut amo edia Lohiabada — ia remits edia sins, bona relieves edia konserns.
+**47:2** Negana unai who kamonai, bona work maoromaoro, bona kamonai lalonai what was sent down to Muhammad — bona ia lau trut amo edia Lohiabada — ia remits edia sins, bona relieves edia konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
