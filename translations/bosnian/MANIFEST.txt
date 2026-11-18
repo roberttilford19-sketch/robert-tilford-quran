@@ -63,4 +63,4 @@ lane's residue gate PASS (0 genuine), 2026-11-12
 
 Files:
   20250538  a96753864528c420acb7641a098d503c8747aff6a6044d1ba47542180d32c5db  Ayah_Companion_Tilford_Bosnian_Manuscript.pdf (864 pp)
-   2192547  bf436635e8ce8cdcbbb92aebe986a3a906433c7a6067a55445e34d7984621010  ayah-companion-manuscript-BS.md
+   2192038  7980204301c53b5d4a4fdcb31a42bdb7931b7a8f7c88660e48829a3e0cd1d845  ayah-companion-manuscript-BS.md
