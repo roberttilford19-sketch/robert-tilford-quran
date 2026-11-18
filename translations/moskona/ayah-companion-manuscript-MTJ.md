@@ -18915,7 +18915,7 @@ if bua are in stat of impurity, purify yourselfes. If bua are ill, or ecira, or 
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Whil tos ida dui orot, dokun keradi rigteousness, dokun dui orot in mida was sent down gug muhammad — dokun ofa dif decir efen erin Tuhan — ofa remits erin sins, dokun reliefes erin concerns.
+**47:2** Whil tos ida dui orot, dokun keradi rigteousness, dokun dui orot in mida was sent down gug Muhammad — dokun ofa dif decir efen erin Tuhan — ofa remits erin sins, dokun reliefes erin concerns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
