@@ -18901,7 +18901,7 @@ jika dudu sina da stat yampuna impurity, purify muyu kabatit. Jika dudu sina ill
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Whil gina si p'rsaya, maya ngantugus rigteousness, maya p'rsaya da nusai pungur sent disau da muhammad — maya sia sina manang intad ila yampuna Tuhan — sia remits ila yampuna dosa, maya relieves ila yampuna konserns.
+**47:2** Whil gina si p'rsaya, maya ngantugus rigteousness, maya p'rsaya da nusai pungur sent disau da Muhammad — maya sia sina manang intad ila yampuna Tuhan — sia remits ila yampuna dosa, maya relieves ila yampuna konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
