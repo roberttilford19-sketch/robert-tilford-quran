@@ -1881,7 +1881,7 @@ The Quran in Biak, rendered from Robert Tilford's corrected English master (the 
 
 وَأَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ
 
-**3:133** Ma ras faro forgifeness ro bedi Manseren, ma yaf imnis (syàr)bàm imnis koreri ma supswan, fasasos faro righteous.
+**3:133** Ma ras faro forgifeness ro bedi Manseren, ma yaf imnis bàm imnis koreri ma supswan, fasasos faro righteous.
 
 ۞ وَسَارِعُوٓا۟ إِلَىٰ مَغْفِرَةٍۢ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا ٱلسَّمَٰوَٰتُ وَٱلْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ
 
@@ -16699,7 +16699,7 @@ kaku au be do negeri of impurity, purify yourselfes. Kaku au be ill, robaido mbr
 
 هَٰذَا ذِكْرٌۭ ۚ وَإِنَّ لِلْمُتَّقِينَ لَحُسْنَ مَـَٔابٍۢ
 
-**38:50** Yaf of eden, dengan sedi kedwa (syàr)bàm-bak faro si.
+**38:50** Yaf of eden, dengan sedi kedwa bàm-bak faro si.
 
 جَنَّٰتِ عَدْنٍۢ مُّفَتَّحَةًۭ لَّهُمُ ٱلْأَبْوَٰبُ
 
@@ -18917,7 +18917,7 @@ kaku au be do negeri of impurity, purify yourselfes. Kaku au be ill, robaido mbr
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Sape ansi mansei kyar, ma fararur righteousness, ma kyar do rosai was sent dado faro muhammad — ma na ya trut ro sedi Manseren — i remits sedi sasarya, ma reliefes sedi konserns.
+**47:2** Sape ansi mansei kyar, ma fararur righteousness, ma kyar do rosai was sent dado faro Muhammad — ma na ya trut ro sedi Manseren — i remits sedi sasarya, ma reliefes sedi konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
@@ -23591,7 +23591,7 @@ kaku au be do negeri of impurity, purify yourselfes. Kaku au be ill, robaido mbr
 
 فَٱلْعَٰصِفَٰتِ عَصْفًۭا
 
-**77:3** Skattering samambra ma (syàr)bàm.
+**77:3** Skattering samambra ma bàm.
 
 وَٱلنَّٰشِرَٰتِ نَشْرًۭا
 
