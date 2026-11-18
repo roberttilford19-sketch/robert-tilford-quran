@@ -18914,7 +18914,7 @@ ip impurity, puripy. Ip ill, trawelling, returns toilet, had kontakt women, koul
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Whil, rigteousness, muhammad — trut Kutdâ — remits, reliewes konserns.
+**47:2** Whil, rigteousness, Muhammad — trut Kutdâ — remits, reliewes konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
