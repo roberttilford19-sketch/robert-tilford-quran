@@ -18914,7 +18914,7 @@ if kabo are in stat of impurity, purify yourselfes. If kabo are ill, or trafelli
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Whil boyo dok ilak dolin, minte ogok rigteousness, minte ilak dolin in intaben was sent down to muhammad — minte iyo niyo trut from imi Kamogim — iyo remits imi fengmin, minte reliefes imi konserns.
+**47:2** Whil boyo dok ilak dolin, minte ogok rigteousness, minte ilak dolin in intaben was sent down to Muhammad — minte iyo niyo trut from imi Kamogim — iyo remits imi fengmin, minte reliefes imi konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
