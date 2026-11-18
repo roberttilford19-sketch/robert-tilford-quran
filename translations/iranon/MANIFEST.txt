@@ -20,4 +20,4 @@ The full lane record (build report, verification and checker records, flags)
 stands in the workspace lane folder ~/workspace/ayah-iranon/, unrepaired.
 
 Files:
-  2378890  40a7e405ff78846a70d2330b76573d4db037ecc34194a497ec97c6f927e4ee90  ayah-companion-manuscript-IRN.md
+  2378347  299a5b789f17493e52d1f5031e5419aa4ea46bf07e19a04e2ac407c3f1e4fdbf  ayah-companion-manuscript-IRN.md
