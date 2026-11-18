@@ -18914,7 +18914,7 @@ ip oro are in stat op impuriti, puripi iourselbes. Ip oro are ill, o trabelling,
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Whil iedi obodai belieb, ina woko rigteousness, ina belieb in bida was sent down to muhammad — ina nou mo trut matatabu edi Abera Naramu — nou remits edi sins, ina reliebes edi konserns.
+**47:2** Whil iedi obodai belieb, ina woko rigteousness, ina belieb in bida was sent down to Muhammad — ina nou mo trut matatabu edi Abera Naramu — nou remits edi sins, ina reliebes edi konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
