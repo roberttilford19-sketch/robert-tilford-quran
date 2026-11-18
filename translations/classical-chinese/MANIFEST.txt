@@ -3,8 +3,8 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 Landing: LANDED 2026-11-16 under Robert's Pipeline Landing Authorization (2026-11-14).
 
 ayah-companion-manuscript-LZH.md
-  bytes: 2069418
-  sha256: 64d0f320f65ad27a65c508b92bd5496938972eb348f97dd86ac0c264ea696fc0
+  bytes: 2069953
+  sha256: 877ae0af8c400120706a54a6df9517a7f2f696aa0f4bdee14072548a7f017a6b
   verses: 6236 · surahs: 114 · arabic runs: 6462 (identical to master)
   source master md5: 064ee170806bb31f5bac3e75d2aa4d94
 
