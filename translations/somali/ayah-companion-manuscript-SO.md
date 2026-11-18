@@ -10652,7 +10652,7 @@ Haddii aad nijaaso ku jirtaan, is-daahiriya. Haddaad buktaan, ama safar tihiin, 
 
 وَمِنَ ٱلشَّيَٰطِينِ مَن يَغُوصُونَ لَهُۥ وَيَعْمَلُونَ عَمَلًۭا دُونَ ذَٰلِكَ ۖ وَكُنَّا لَهُمْ حَٰفِظِينَ
 
-**21:83** Ayyuubna, markii uu Rabbigiisa ugu qayshaday: “Dhibaato weyn baa i taabatay, Adiguna waxaad tahay Naxariistaha ugu badan kuwa naxariista.”
+**21:83** Ayuubna, markii uu Rabbigiisa ugu qayshaday: “Dhibaato weyn baa i taabatay, Adiguna waxaad tahay Naxariistaha ugu badan kuwa naxariista.”
 
 ۞ وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلضُّرُّ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ
 
@@ -16648,7 +16648,7 @@ Haddii aad nijaaso ku jirtaan, is-daahiriya. Haddaad buktaan, ama safar tihiin, 
 
 وَإِنَّ لَهُۥ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍۢ
 
-**38:41** Xus addoonkayaga Ayyuub, markii uu Rabbigiisa ugu yeedhay, “Shaydaan wuxuu ii geystay dhibaato iyo xanuun.”
+**38:41** Xus addoonkayaga Ayuub, markii uu Rabbigiisa ugu yeedhay, “Shaydaan wuxuu ii geystay dhibaato iyo xanuun.”
 
 وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَٰنُ بِنُصْبٍۢ وَعَذَابٍ
 
