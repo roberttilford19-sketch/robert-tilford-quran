@@ -18914,7 +18914,7 @@ ip nin are e ende stat op impurity, puripy yourselbes. Ip nin are ill, or trabel
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Tuwase tos lahmende teŋeime, pe wah rigteousness, pe teŋeime e mune was sent down to muhammad — pe ki qam bwore mise prom tinge Lahmborenge — kin remits tinge hwap, pe reliebes tinge konserns.
+**47:2** Tuwase tos lahmende teŋeime, pe wah rigteousness, pe teŋeime e mune was sent down to Muhammad — pe ki qam bwore mise prom tinge Lahmborenge — kin remits tinge hwap, pe reliebes tinge konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
