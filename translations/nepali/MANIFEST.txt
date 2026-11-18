@@ -36,4 +36,4 @@ hash gate and residue gate PASS, 2026-11-12
 
 Files:
   24510007  f322b0c31296a05f50e50a5b603a66ec9a6cbc045ab87005b8e8ffb3e4530771  Ayah_Companion_Tilford_Nepali_Manuscript.pdf (824 pp)
-   3675221  cfd75490c1764bda3c9fbdc77965a9f2f85f0f2beb4eff295aa57c35f7a3b465  ayah-companion-manuscript-NE.md
+   3674154  788c8753102060b41399512bad8fe95fa70c75204b224918bba59d957c39e7a7  ayah-companion-manuscript-NE.md
