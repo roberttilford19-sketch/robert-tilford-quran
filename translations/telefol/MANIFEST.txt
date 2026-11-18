@@ -59,7 +59,7 @@ work/flags-tlf.txt — 12 named uncertain-seat items plus residue counts, carrie
   SHA-256 1dfce95a631b4b7461379b12cd05753a42e3b1ed58675af5ee6012d44cc8bf82
 ayah-companion-manuscript-TLF.md
   2,225,291 bytes
-  SHA-256 a758e59cda332f92d7f1d98688411fe99c54e97df75bd17653d5ac7df0a3cc73
+  SHA-256 5b5b1c4dbe0801be92c8783880e212836e83db4bdaa4ec664484d2ff4c831612
 ayah-companion-aligned-TLF.json (the house FILE-SCHEMA aligned array: chapter/verse/en/target/ar)
   3,343,101 bytes
   SHA-256 17afeb1a295c0cc807b68f56d9dfae8139fe00badc57344e11f0aa5a4a3b3d42
