@@ -18913,7 +18913,7 @@ if kagra reraga hu'nee ane' mgo' stat a' isa gi'nee impuritz, purifz tmagra'a. I
 
 ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ
 
-**47:2** Vhir amu vho amentinti, hagi eri'za rigteousness, hagi amentinti ane' vhat vas sent fenka atamna' hu'nee muhammat — hagi agra me'nee afina tamage asime' zamagri Ra — agra remits zamagri kefoza, hagi rerieves zamagri konserns.
+**47:2** Vhir amu vho amentinti, hagi eri'za rigteousness, hagi amentinti ane' vhat vas sent fenka atamna' hu'nee Muhammat — hagi agra me'nee afina tamage asime' zamagri Ra — agra remits zamagri kefoza, hagi rerieves zamagri konserns.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ
 
