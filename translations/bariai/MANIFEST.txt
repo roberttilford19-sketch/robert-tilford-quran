@@ -1,0 +1,54 @@
+MANIFEST — Ayah Companion, Bariai (BCH)
+============================================================
+
+ITEM
+Ayah Companion — the Quran in Bariai (bch), rendered from the
+Locked English Master. Latin script, practical orthography of the
+Bariai Bible (Deo Ele Posanga) and Gallagher's Bariai Dictionary.
+
+AUTHOR / STATUS
+Translated by Robert Tilford. (c) 2026 Robert Tilford.
+AI assistance (Muse) is labelled plainly in the book's front
+matter. Status inside the book: FINISHED WORK.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verses (first 1:1, last 114:6).
+Arabic source text stands byte-identical beside the rendering:
+6,462 Arabic runs, canonical verify PASS (structural-position
+method). Basmalah 114 (surah 9 frameless, as the master).
+Prostration markers 15 (11 recommended + 4 obligatory).
+Lane checker problems: 0. Purple sweep: reconciled.
+
+TEXT RULE
+Quran-alone method. Terms are defined by the Quran itself.
+Zakat is never given a percentage, because the Quran gives none.
+Keyed seats (per-verse census, exact in all 6,236 verses):
+God -> Deo 2,732; god + gods -> deo 114 (the control's unmarked
+form, counted combined); Lord + counted Master -> Maron 980;
+zakat 13 (keyed slots only); sadaqa -> mamaron 36 (keyed tokens
+only); Elisha -> Elisa, exactly 2 seats (6:86; 38:48).
+Lexicon: 464 of 1,887 template keys grounded in the published
+sources (Gallagher 2008; the Bariai Bible control); the residue
+is a disclosed transliteration fallback, never attested forms.
+
+SCRIPT
+Latin. Letters a b d e g i k l m n o p r s t u + digraph ng.
+
+FILES
+ayah-companion-manuscript-BCH.md
+  2195389 bytes, sha256 cd7946c1890fcf4a81086a89b6f856a50f75b9d0c3d5863251fe421f8cd5c30d
+ayah-companion-aligned-BCH.json
+  3312791 bytes, sha256 49f46ebb06fdd7bf548b502ea8e1f955572c8eb29e7bc50e56f2eb3fea602566
+GLOSSARY-BCH.md
+  2899 bytes, sha256 ba667a46d73e55c7a8f3a636dbdb6163142e0d064ca8343434b6b647656e67b8
+STYLEGUIDE-BCH.md
+  4626 bytes, sha256 8eebe1eb92d3aa82e677e37d3dc3cee72bcf41c459d37949127f8d3b74dfc580
+BUILD-REPORT-BCH.md
+  6411 bytes, sha256 ac9085a19a7b55f9eee6c50774592e4e1552c3aaa15cfb2676245328ab350d68
+PURPLE-REPORT-BCH-2026-11-18.md
+  2007 bytes, sha256 00545b5eccc460290fd954796d6144ce2d555adeb92db2d347ce860067da0a85
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering.
+Standing wording: none found after research
+(New Guinea wave scout, 2026-11-17).
