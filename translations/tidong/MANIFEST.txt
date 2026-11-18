@@ -57,8 +57,8 @@ work/flags-itd.txt — 13 named uncertain-seat items plus residue counts, carrie
   8,422 bytes
   SHA-256 bf5ec8dabe4fe11f62bcbbe125ea6b675c123fd13bbe8f0adff7d21ad23d08e9
 ayah-companion-manuscript-ITD.md
-  2,327,627 bytes
-  SHA-256 cbc774cf21544bbc344d2662b4b438949ed47fb792ba45f2aefd60b8e9c0c261
+  2,327,081 bytes
+  SHA-256 d7d47fd36d83f894bfb7faf11aaf7ad212a4794f99a6277c359d149eb9bde382
 
 VERIFICATION
 Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
