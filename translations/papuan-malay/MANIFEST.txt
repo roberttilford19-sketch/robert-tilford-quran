@@ -1,0 +1,76 @@
+AYAH COMPANION — PAPUAN MALAY RENDERING
+MANIFEST — lane record, 2026-11-18
+
+ITEM
+Ayah Companion, Papuan Malay (pmy) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the New Guinea wave, Wave 2 (Phase-1 verification
+batch B02, TOP BUILD CANDIDATES #2), under Robert's Advance
+Rule of 2026-11-14 and his Pipeline Landing Authorization.
+
+STATUS
+FINISHED WORK — the status line stands inside the manuscript
+itself, in its YAML header, with "Translated by Robert
+Tilford", "© 2026 Robert Tilford", and AI assistance labelled
+on the face of the work, under Robert's ruling of 2026-11-18.
+SHELVING: staged in this lane's shelving pack only. The
+landing is centralized after the independent check; this lane
+does not push.
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic. Grounding is stated in the same
+breath: 661 of the 1,887 template keys carry a value attested in
+the banked Papuan-specific bases (Kluge dictionary-exact 472;
+Bible-aligned 41; hand-set 135; hand-set empty 13), plus 1
+attested extra; the remaining keys fall to the disclosed
+transliteration fallback (34,524 tokens, counted).
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462
+Arabic runs, verified identical to the master and to the
+extraction meta by the amended verify's structural-position
+method; record work/verification-pmy.json, PASS).
+
+SCRIPT
+Latin orthography — the Papuan Malay orthography of the Melayu
+Papua Bible (Wycliffe Bible Translators, 2023), whose running
+spellings govern wherever the grammar's citation spellings differ.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: none
+found after research (New Guinea wave scout, 2026-11-17).
+
+FILES
+ayah-companion-manuscript-PMY.md
+  2,198,995 bytes
+  SHA-256 bc213fa7779010f904a0608e57423e02b8e85cd06f115fd8ad747f39a80c9018
+ayah-companion-aligned-PMY.json (6,236 objects: chapter/verse/en/target/ar)
+  3,315,825 bytes
+  SHA-256 7094b61c800ea828c11ec6d5ac2b11926e615d677f6ab461bea630717a2bb3a1
+GLOSSARY-PMY.md
+  5,579 bytes
+  SHA-256 3635cc05513136b0700318043a04e798f629f8586850852d36218a04073075b8
+STYLEGUIDE-PMY.md (the lane's binding build law, settled before building)
+  4,929 bytes
+  SHA-256 9b0637ffac4a26416dee5fa7ad4e7db90a7ec82ea0b604a48548424538e787ee
+BUILD-REPORT-PMY.md
+  5,502 bytes
+  SHA-256 a258bb45c92a042c74e0da14008e58190f63b7a84c7aa96155d846933ca7892f
+PURPLE-REPORT-PMY-2026-11-18.md
+  5,927 bytes
+  SHA-256 bc2ce6a33d582bc6105f65152f808a80df0899ac67951ff942d4bdbaf4f49928
+work/verification-pmy.json (verify record, PASS)
+  SHA-256 14e953ef2f97f305c41394c39bc164acb7ebd3239d60e78e66a504504317d78f
+work/flags-pmy.txt — 23 named judgment-call items plus residue counts.
+  10,832 bytes
+  SHA-256 8e0c4167a4c8348f5bc5d7e66e46132cf8b84a0ad8f2a10a937a451a7659fb09
+work/base/BASE-NOTES.md (the banked bases, licences, sizes, hashes)
+  SHA-256 d87e3686b2d2df454d078d3ad25e9ff0f0b521460a35b04fff01c57dd8500298
+
+KEYING (per-verse census, equal to the Master's exactly)
+Allah 2,732 / allah 79 / allah-allah 35 / Tuhan 980
+(Lord 969 + 11 counted Master tokens) / zakat 13 / persembahan 36.
+Whole-file counts reconcile exactly; see BUILD-REPORT-PMY.md.
