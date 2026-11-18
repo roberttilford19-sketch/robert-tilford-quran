@@ -1,0 +1,92 @@
+AYAH COMPANION — ALUNE RENDERING
+MANIFEST — lane record, 2026-11-17
+
+ITEM
+Ayah Companion, Alune (alp) rendering, built from the
+corrected English manuscript of the Locked English Master
+lineage, in the Region-1 remainder wave (the scout's TOP
+BUILD CANDIDATES #1, Maluku batch), under Robert's Advance
+Rule of 2026-11-14.
+
+STATUS
+DRAFT — NOT REVIEWED. Native Alune review is required
+before any gifting or publication; review is invited. The
+status line stands inside the manuscript itself, on its
+face, with AI assistance labelled.
+SHELVING: the shelving pack stands ready in this lane and
+is NOT pushed; the independent check and the landing are
+centralized after this build. The manuscript's YAML gate
+line reads: PIPELINE: BUILDER GATES PASS — INDEPENDENT
+CHECK PENDING (CENTRALIZED).
+
+COMPLETENESS
+114 surahs, 6,236 of 6,236 verse markers, first 1:1, last 114:6.
+Completeness is structural: every verse of the master is present,
+in order, beside its Arabic.
+
+TEXT RULE
+The Arabic stands byte-identical beside the rendering (6,462 Arabic
+runs, verified identical to the master and to the extraction meta
+by the amended verify.py's structural-position method).
+
+SCRIPT
+Latin orthography (kamus orthography, Kantor Bahasa Maluku 2018) —
+reviewer item.
+
+CLAIM BOUNDARY
+No first-translation claim is made for this rendering, in this
+manifest or in any lane document. The standing wording is: none
+found after research (Region-1 remainder scout, 2026-11-17).
+
+FILES
+GLOSSARY-ALP.md
+  3,829 bytes
+  SHA-256 ed03c866fc96044b872ffd2d7503f0527747d30598e3a25a48840738cf7cf870
+STYLEGUIDE-ALP.md (the lane's binding drafting law, settled before drafting)
+  7,259 bytes
+  SHA-256 246ece6bbd5da893f341459fd6988c13a1d3bbe1b4b36e0555c9627683d5648f
+BUILD-REPORT-ALP.md
+  5,205 bytes
+  SHA-256 ab608f0bc695ebf1837b329c94c2cac04cf5dde5b85ffe4444251fe158af5ce0
+work/verification-alp.json (verify.py record)
+  SHA-256 f1e20018f6c7080782ce35e7c70fa03b0b25cf9019e49ae564ac9ab53dc9308a
+work/flags-alp.txt — 13 named uncertain-seat items plus residue counts, carried to the reviewer.
+  7,802 bytes
+  SHA-256 af5e64542d61cc7be034bff3235b34bd9e2807056a16fdffa2e9243f098613e1
+ayah-companion-manuscript-ALP.md
+  2,200,914 bytes
+  SHA-256 14be8d5b32886a24a92d38341732af471c0ceec8346bc57d237f5ebd14e41f95
+
+VERIFICATION
+Amended verify.py (~/workspace/.tools/gap-tier1/verify.py), run
+2026-11-17 on the final bytes: PASS true. Headers 114, head order
+true, verses 6,236, counts match meta true, continuity true, Arabic
+runs 6,462 identical to master and to meta, missing tags 0,
+prostration markers 15 match, note 56 present, slice verse lines
+6,236, slice ref mismatches 0, slice paragraph mismatches 0,
+percent signs 0 in slices and in the manuscript.
+Lane checker (work/check_alp.py) over all 114 surahs: problems 0.
+Per-verse census equality in all 6,236 verses — Alla 2,732 (= God
+2,732); alla 79 (= god 79); alla-alla 35 (= gods 35); Tuhane 980
+(= Lord 969 + the 11 counted Master tokens); zakat at exactly the
+13 keyed slots; mamisete at exactly the 36 keyed tokens
+(2:272 ×3; 58:13 ×2).
+Purple measurements (work/purple-measurements-alp.json, builder-run):
+Arabic matched 6,348 of 6,348; basmalah 114; markers 15; contents
+114 of 114; % 0.
+Independent checker (separate agent): PASS WITH FLAGS — the sealed census exact in full (CHECKER-REPORT-ALP-2026-11-17.md); 13 flags carried to the native reviewer, none blocking landing.
+
+SOURCE
+Corrected manuscript only: ~/workspace/ayah-audit/corrected/
+ayah-companion-manuscript.md, MD5 064ee170806bb31f5bac3e75d2aa4d94
+(machine-computed at lane setup and machine-compared to the
+commission's stated fingerprint; never read by eye). Extraction:
+114 surahs, 6,236 verses, 6,462 Arabic runs, 112 basmalah frames,
+15 markers; refs equal to master.
+
+NOTES CARRIED TO THE REVIEWER
+The Elisa/Elia pair (flags item 1) is the reviewer's first name
+ruling; the Tuhane form against the kamus headword tunai (item 3)
+and the composed basmalah mercy pair (item 4) stand disclosed in
+STYLEGUIDE-ALP decisions 3 and 6; the ungrounded disjunction 'or'
+(item 10) is the reviewer's first lexicon ruling.
