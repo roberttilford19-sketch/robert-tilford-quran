@@ -37,5 +37,5 @@ This is not claimed as the first Hindi Quran translation; the existing Hindi tra
 
 Files (bytes, SHA-256):
 ayah-companion-manuscript-HI.md	3390602	0af12b9096ba381d0b2579b2d61a8f679121345aaff0f91669484c2b920923b9
-Ayah_Companion_Tilford_Hindi_Manuscript.pdf	3208563	b27deb64534906c1428900c5b71337bd9e54ca022ed37c014d892442b9b76521
+Ayah_Companion_Tilford_Hindi_Manuscript-2026-11-18.pdf	24336132	9be74478cd2f63bd050243d868d9f623ec50302cf849dcfaff6db14086fbc6de
 OBSERVATIONS-HI.md	13433	0506ffd8e9259f339529f7b0066c9180350ce5c9bfa3005f03b22be41d1f8eab

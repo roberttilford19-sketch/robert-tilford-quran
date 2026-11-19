@@ -37,5 +37,5 @@ This is not claimed as the first Indonesian Quran translation; the existing Indo
 
 Files (bytes, SHA-256):
 ayah-companion-manuscript-ID.md	2402515	e98e71cb53590c87f2ad281986113c24509ba26195da79bcfa359e6d5d052fbc
-Ayah_Companion_Tilford_Indonesian_Manuscript.pdf	1934139	b04d6c7bf2be4a21b6030e95689b845d1c01fea6a0dcac5a4a68cd61de822225
+Ayah_Companion_Tilford_Indonesian_Manuscript-2026-11-18.pdf	20657649	41a1f438a4d5f21f6deb7927d660752c03afe8800ac8a535f4e4ce9fe02fc927
 OBSERVATIONS-ID.md	4608	e08d9260e67688ca80fe836d5fff16dbd9884e68878460f64d7c90afd583465c
