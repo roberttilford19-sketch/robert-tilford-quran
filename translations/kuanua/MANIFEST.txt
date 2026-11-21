@@ -1,0 +1,73 @@
+MANIFEST — KUANUA (KSD) LANE, 2026-11-20
+
+Item: Al-Quran ta ra Tinata Tuna — The Quran in Kuanua
+(Ayah Companion, KSD)
+Author: Robert Tilford. Status: FINISHED WORK (gate-removal ruling
+2026-11-18; the finished-work status stands inside the book; no
+draft or not-reviewed language anywhere).
+Translator credit (inside the book): Translated by Robert Tilford.
+© 2026 Robert Tilford. AI assistance labelled plainly inside the
+book.
+Completeness: 6,236 of 6,236 verses, 114 surahs; first verse 1:1,
+last verse 114:6. Lane checker: 0 problems. Canonical verify: PASS.
+Text rule: the Arabic stands byte-identical beside the rendering —
+6,462 Arabic runs verified against the Locked English Master
+(MD5 064ee170806bb31f5bac3e75d2aa4d94).
+Script: Latin (practical orthography of the Kuanua Bible, A Buk
+Tabu A Maulana Kunubu ma A Kalamana Kunubu, Bible Society of
+Papua New Guinea, 1983).
+Claim boundary: no first-translation claim is made. Standing
+wording: none found after research.
+Authority: built under Robert Tilford's ruling A of 2026-11-20
+(06:44) on the disclosed base only — Franklin, Kerr & Beaumont,
+Tolai Language Course (SIL, 3rd ed. 1974) plus the complete
+Kuanua Bible control (Bible Society of Papua New Guinea,
+© 1882, 1983; citation use only under its Attribution–
+Noncommercial–No Derivative Works licence). The Brown & Danks
+1882 Duke of York dictionary (Ramoaaina) was a cross-check
+witness only and never a source; no reconstruction was used as
+an attestation; no Patpatar form grounds any key.
+Grounding: 347 of the 1,887 template keys grounded in the lane's
+disclosed bases (course 251, hand 73, control-aligned 23,
+the channel split as corrected by the F1 cure of 2026-11-20;
+see ADDENDUM-KSD-2026-11-20.md) plus 2
+extra keys (beneficent, wash); the remaining 1,540 keys fall
+back to transliteration under the disclosed table (50,980
+tokens; 3 of 6,236 verses byte-identical to the English, each a
+short fallback-only verse whose letters already belong to the
+Kuanua inventory). Every ungrounded and retained form is
+disclosed in work/flags-ksd.txt and work/base/BASE-NOTES.md.
+Keying census: God 2,732 = God 2,732; god 79 + gods 35 =
+god-tokens 114, with "umana god" bigrams 35 = gods 35 (the
+alternate pluraliser lavur disclosed); Lord 969 + Master 11
+(merged, disclosed) = Luluai 980; zakat 13 of 13, no percentage;
+sadaqa family vartabar 36 of 36; basmalah 114; 18:103's plural
+stands (dat at the seat); Elisha (Elisa) distinct from Elijah
+(Elias), Luke 4:25 / 4:27.
+
+Files in this lane folder:
+- ayah-companion-manuscript-KSD.md — 2,210,679 bytes —
+  sha256 1eb2fd7723177e6da8694e1369045a3f08ea8fff9224b7607f56757058d91204
+- ayah-companion-aligned-KSD.json — 3,324,801 bytes —
+  sha256 46139948815b04be1569ac47a15f992fe14d7728eff6c74cdc22caecb4745ef1
+- STYLEGUIDE-KSD.md, GLOSSARY-KSD.md, BUILD-REPORT-KSD.md,
+  PURPLE-REPORT-KSD-2026-11-20.md, ADDENDUM-KSD-2026-11-20.md,
+  CHECKER-REPORT-KSD.md, MANIFEST.txt
+- work/ — build, check, finish and Purple scripts; dict_ksd.py
+  (the lexicon of record); base/ (banked Course PDF and Bible
+  control with BASE-NOTES.md, the bridge record, the refusal
+  record and the control counts); flags-ksd.txt.
+- shelving-pack/translations/kuanua/ — exactly two files:
+  ayah-companion-manuscript-KSD.md and MANIFEST.txt (this file).
+
+Landing: the lane lands on the GitHub shelf on the scoped
+independent verification of the F1 cure (PASS on every section,
+2026-11-20), under the Pipeline Landing Authorization
+(2026-11-14). The independent checker returned PASS WITH FLAGS
+with one material flag (F1, two sense-narrowed course
+admissions); the cure of record (ADDENDUM-KSD-2026-11-20.md)
+re-keyed both keys on control-attested general-sense forms and
+rebuilt the book through the lane pipeline with every gate
+re-run (checker 0 problems; canonical verify PASS; census
+unchanged; Purple figures unmoved). Nothing was posted or
+sent.
