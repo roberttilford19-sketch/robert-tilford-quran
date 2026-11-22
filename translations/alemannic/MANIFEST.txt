@@ -1,24 +1,47 @@
-AYAH COMPANION — ALEMANNIC QURAN — LANDING MANIFEST
-============================================================
-Landed on the GitHub shelf (roberttilford19-sketch/robert-tilford-quran,
-translations/alemannic/) on 2026-11-22, under Robert Tilford's Pipeline
-Landing Authorization (2026-11-14), in the staging verification wave
-ruled A by Robert on 2026-11-22.
+GATE REMOVAL — 2026-11-18
+Ruled by Robert Tilford on 2026-11-18: the native-review gate is removed. The translations stand as his
+finished works, published as-is; no native or critic review is awaited, invited, or chased. This header
+SUPERSEDES the review-gate status language in every text below it. The manuscript's front-matter status
+language has been removed from the manuscript itself; no verse text was changed, and the desk's
+verification of record was re-run after the edit and stands.
 
-STATUS: finished work, author-published as-is. The "revision draft /
-native review" language in the superseded staged manifest and in front
-matter predates Robert's ruling of 2026-11-18, which removed the
-native-review gate; it no longer stands. AI assistance is disclosed, as
-in the folder's own staged record. No first-translation claim is made
-beyond the bounded statements in the folder's own documentation.
+GOVERNING FILE (live shelf, updated by this header): ayah-companion-manuscript-ALS.md | 2255860 bytes |
+SHA-256 00e12632a8676a3279d504293cff1c189a694e651d125d5dcbaf50a2415ceb25
+The manuscript's front matter now carries the author line: Translated by Robert Tilford. © 2026 Robert Tilford.
 
-VERIFICATION AT LANDING (2026-11-22, machine checks):
-- Manuscript verse references: 6,236 unique of the canonical 6,236;
-  0 missing, 0 extra, 0 duplicates, 0 [MISSING] markers, 0 U+FFFD.
-- PDF: parses cleanly (pdfinfo), 497 pages, %%EOF present in tail.
+---
 
-FILES (bytes - SHA-256, computed at landing from the landed copies)
-Ayah_Companion_Tilford_Alemannic_Manuscript.pdf  1835265  f12686c720d6944e4808482678be5e53f1229d135553706ccc02301398befdb9
-OBSERVATIONS-ALS.md  9707  4f39525d94a6e06d6c3494777954eae44e7a0e2586e2a2402f9482bbec38b847
-ayah-companion-manuscript-ALS.md  2256041  daec5143f000eb2a6aad56ce04996abc4f41a03d6199c4514b2762ff9f776deb
-MANIFEST.txt (this file) is covered by the landing commit's own hash.
+GOVERNING-GENERATION RULING — 2026-10-25
+Ruled by Robert Tilford on 2026-10-25: the LIVE SHELF governs. The live-shelf file below is the governing
+generation for this folder in this repository (roberttilford19-sketch/robert-tilford-quran, main at
+30eb7537296b0b167d6c46063f21ec92cb03f22d, fresh fetch verified against the remote on 2026-10-25).
+
+GOVERNING FILE (live shelf): ayah-companion-manuscript-ALS.md | 2256041 bytes | SHA-256 daec5143f000eb2a6aad56ce04996abc4f41a03d6199c4514b2762ff9f776deb
+
+This header SUPERSEDES every conflicting byte-size or SHA-256 statement for the governing file in the older
+MANIFEST text below. The older text is retained unchanged as the prior record: the prior MANIFEST generation
+is superseded, not erased. No manuscript text was changed by this correction.
+
+History note: the three-way reconciliation of 2026-10-24 found the prior MANIFEST generation for this language byte-identical to the archive.org deposit copy, while the live shelf file above is a byte-distinct, structurally exact generation (114 surahs / 6,236 verses in exact sequence). The archive.org deposit is unchanged by this ruling; for this repository's record, the live shelf file governs.
+
+--- ORIGINAL MANIFEST TEXT BELOW (pre-ruling record) ---
+
+Item: ayah-companion-tilford-alemannic-manuscript
+Title: Ayah Companion — ALEMANIC (ALEMANNISCH) MANUSCRIPT (Tilford Quran)
+Creator: Robert Tilford
+Created: 2026-10-04
+Status: ALEMANIC MANUSCRIPT — REVISION DRAFT / ÜBERARBEITUNGS-ENTWURF (not a final edition; not native-reviewed). Draft in progress inviting later peer/native review.
+Completeness: 114 surahs / 6,236 verses, Arabic preserved verse by verse, verified 2026-10-04 (counts, sequence, Arabic identity to corrected English master/meta, 15 prostration markers, 5:6 note).
+Language device: readable pan-Alemannic written compromise (ISO gsw umbrella), explicitly flagged in the front matter as a draft device; not Swiss-only, Swabian-only, or Alsatian-only.
+Rule: Quran alone; zakat carries no percentage (the Quran gives none). Nothing published, uploaded, emailed, archived, or posted; local only.
+Claim boundary: no first-ever claim. No complete Alemannic Quran translation was found after research; that is not proof this draft is the first. No ownership overreach asserted.
+
+Files (path, bytes, SHA-256):
+ayah-companion-manuscript-ALS.md	2256574	4bf3493333d2cbda20bf474191605e68e5a05fd2202555af74628dff25a9c905
+Ayah_Companion_Tilford_Alemannic_Manuscript.pdf	1835265	f12686c720d6944e4808482678be5e53f1229d135553706ccc02301398befdb9
+OBSERVATIONS-ALS.md	9707	4f39525d94a6e06d6c3494777954eae44e7a0e2586e2a2402f9482bbec38b847
+work/titles-als.json	2483	3c36fd31e106f2fde35e7344b37b71aa88a454fe2e16ce1cce3102583401ee12
+work/verification-als.json	13244	71687d383dfdeb493bf8981ea9428932c34218bb200acdbf69e37c0c2a3e107d
+work/flags-als.txt	60475	24dcc0da78bfa0e167536a8b99642939c75942271f528299bb2e75fd172ca7f0
+work/als/surah_001.txt ... surah_114.txt	114 files	6,236 verse lines + 114 INTRO lines (slice audit clean; see OBSERVATIONS-ALS.md)
+work/flags/flags-r01.txt ... flags-r13.txt	13 files	per-range uncertainty/dialect flags, concatenated in work/flags-als.txt

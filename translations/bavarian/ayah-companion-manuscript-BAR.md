@@ -1,14 +1,14 @@
 # Ayah Companion
 
-### BOARISCHES MANUSKRIPT — ÜBERARBEITUNGS-ENTWURF (koan endgültige Ausgab)
+### BOARISCHES MANUSKRIPT
 
-BAVARIAN (BOARISCH) MANUSCRIPT — REVISION DRAFT, not a final edition. A Boarisch rendering of the corrected English manuscript by Robert Tilford.
+BAVARIAN (BOARISCH) MANUSCRIPT. A Boarisch rendering of the corrected English manuscript by Robert Tilford. Translated by Robert Tilford. © 2026 Robert Tilford.
 
 **Über diese Ausgab / About this edition:**
 - **Textgrundlage**: das korrigierte englische Manuskript von Robert Tilford (114 Suren / 6.236 Vers), mit dem arabischen Text Vers fia Vers aus dem Manuskript übernumma.
 - **Arbeitsregel**: der Koran alloa. Wohltätigkeit (Zakat) erhält koan Prozentsatz, wei der Koran koan nennt; koa Hadith- oder Tafsir-Material is importiert worn.
 - **Sprach**: breits Mittlboarisch in a lesbaren Form — einfache Wort, kurze Sätz: de klarste und einfachste Übersetzung, de a a einfacher Mensch verstehn ko.
-- **Status**: ÜBERARBEITUNGS-ENTWURF / REVISION DRAFT. A first complete draft awaiting native Bavarian review; not locked, not final, not native-reviewed.
+- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
 - **Koa Erstübersetzung behauptet**: Es werd koa first-ever claim aufgstellt. Bei da Recherche is koa vollständige boarische Koranübersetzung gfundn worn (none found after research); des allein macht den Entwurf ned zua a bewiesenen easchten Übersetzung.
 - **Editorial note — unclosed quotations (2026-10-13):** Some quotations in this manuscript stand unclosed: a speech opens and no closing mark follows, exactly as in the source text from which this manuscript derives. They are preserved deliberately; no closing marks have been invented for them. The verses at which such an unclosed quotation opens are: 2:215, 3:73, 6:128, 6:145, 6:162, 7:67, 12:5, 12:8, 12:38, 12:40, 14:36, 18:87, 19:4, 20:135, 21:56, 25:15, 26:168, 38:62, 38:71 (19 in all).
 
@@ -3701,7 +3701,7 @@ Wann ihr in am unreinen Zustand seids, reinigts eich. Wann ihr krank seids oda a
 
 وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّٰلِحِينَ
 
-**6:86** Und Ismael, und Elias, und Jona, und Lot — Mia ham jeden vo eana üba olle andre Leit begünstigt.
+**6:86** Und Ismael, und Elisa, und Jona, und Lot — Mia ham jeden vo eana üba olle andre Leit begünstigt.
 
 وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ
 
