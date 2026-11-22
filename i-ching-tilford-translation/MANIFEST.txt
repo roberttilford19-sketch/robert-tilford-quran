@@ -1,0 +1,10 @@
+The I Ching — Tilford Translation
+Translator: Robert Tilford
+Published edition of 2026-11-22, landed on the shelf the same day by Robert Tilford's ruling.
+The core text only: 450 statement units (64 hexagrams — judgments and lines, plus the two yong lines of Hexagrams 1 and 2). The Ten Wings stand outside this edition.
+Comparison standard: Legge (1899). Textual consultation and variant-reading cross-checks on flagged passages were assisted by DeepSeek; all translation decisions and final renderings are the translator's. The edition's front matter claims no independent expert review; that review remains an open item on the translator's record.
+
+Files:
+I-CHING-TILFORD-TRANSLATION-PUBLISHED-2026-11-22.pdf — 771,773 bytes, 62 pages — SHA-256 41e2e701877736e9d2d2678f9aa031c9e26b361a62dc9ccdd6f9e764213d3b28
+I-CHING-TILFORD-TRANSLATION-PUBLISHED-2026-11-22.md — 73,769 bytes — SHA-256 3a695e32d15abb604a2a1061f904eaa389b5f8247e7add9971a663a2d360ceb1
+I-CHING-TILFORD-TRANSLATION-PUBLISHED-2026-11-22.docx — 69,421 bytes (editable source of the PDF) — SHA-256 092b334129397a756e19cd645235aa1b0bd4070f45ee2aa42b891282e7cd58f9
