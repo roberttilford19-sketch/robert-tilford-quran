@@ -1,14 +1,14 @@
 # Ayah Companion
 
-### ALEMANNISCHES MANUSKRIPT
+### ALEMANNISCHES MANUSKRIPT — ÜBERARBEITUNGS-ENTWURF (kein endgültiger Text)
 
-ALEMANNIC (ALEMANNISCH) MANUSCRIPT. An Alemannic rendering of the corrected English manuscript by Robert Tilford. Translated by Robert Tilford. © 2026 Robert Tilford.
+ALEMANNIC (ALEMANNISCH) MANUSCRIPT — REVISION DRAFT, not a final edition. An Alemannic rendering of the corrected English manuscript by Robert Tilford.
 
 **Über diese Usgab / About this edition:**
 - **Textgrundlag**: s korrigiert englisch Manuskript vom Robert Tilford (114 Sure / 6.236 Vers), mit em arabische Text Vers für Vers us em Manuskript überno.
 - **Arbeitsregel**: de Koran elei. Wohltätigkeit (Zakat) überchunnt kei Prozentsatz, wil de Koran keine nennt; kei Hadith- oder Tafsir-Material isch importiert worde.
 - **Sprach**: es läsbars pan-alemannisch Kompromiss — en usdrücklich Entwurfs-Wäg mit eifache Wort und churze Sätz. Alemannisch het kei einheitlichi Rechtschrybig; nid jedi Region wird das als ihre Heimetsproch ghöre. Das Kompromiss isch es Entwurfsmittel und wird aso bezeichnet.
-- **Status**: Translated by Robert Tilford. © 2026 Robert Tilford.
+- **Status**: ÜBERARBEITIGS-ENTWURF / REVISION DRAFT. En Entwurf in Bearbeitig, wo zur spätere Prüefig durch Fachlüt und Muetersprachler yladet; nid gsperrt, nid endgültig, nid vo Muetersprachler prüeft.
 - **Kei Erstübersetzig behauptet**: Es wird kei first-ever claim ufgstellt. Bi de Recherche isch kei vollständig alemannischi Koranübersetzig gfunde worde (none found after research); das elei macht de Entwurf nid zu enere bewisene erste Übersetzig.
 - **Frei im Geist, lokal ghalte**: De Entwurf behauptet kei Besitzaspruch und wird lokal ghalte. Er folgt em Robert Tilford sinere Haltung vom freie Wytergä — wenn er sich spöter entscheidet, ihn z veröffentliche, sind d Lüt yglade, ihn abelade, apasse, wyterzfüehre und z übertreffe.
 
