@@ -1,0 +1,36 @@
+MANIFEST — Ayah Companion Australian English (Dialect Edition)
+
+Shelved 2026-11-22 as the first book of the English Dialects wave,
+opened by Robert Tilford's word of 2026-11-22, and landed under
+the Pipeline Landing Authorization (2026-11-14) after the full
+loop passed clean.
+
+Status: a DIALECT EDITION of the Locked English Master — the same
+translation in Australian English spelling and usage. Not a new
+translation and not a re-translation: every word is the master's
+own, changed only where the recorded conversion list
+(DIALECT-CONVERSION-LIST.tsv, in this folder) changes its
+spelling: 96 pairs, 386 word-forms across 6,236 verses. Rule A
+and every settled ruling of the master stand untouched in
+substance; the 6:86 correction (Elisha) rides as the master
+carries it. Sajda notes stand at their seats, as in the master.
+One conversion is seat-scoped and disclosed on the list:
+practice->practise at the 12 verbal seats only; the 3 nominal
+seats keep the noun form, as Australian usage requires.
+Translated by Robert Tilford. © 2026 Robert Tilford.
+Verse-marker re-count at shelving (landing run, 2026-11-22):
+6,236 of 6,236 markers, first 1:1, last 114:6.
+Lane verification of record: independent checker PASS on all 18
+checks (CHECKER-REPORT.md in this folder); PDF built by the
+house book pattern, 455 pages, 6,236 verse references in its
+text layer, final page carrying 114:6.
+
+Gift terms, as every folder on this shelf: free to read and free to
+download, never sold; attribution requested.
+
+Files:
+  847541  fa8a9b371ad6f8dbf893cdb68dba4a5b9e5ba7cb7a80e996886c4010f3f4755a  ayah-companion-manuscript-AU.md
+  3085648  8256ab0dc8f3f89a897c5d13c4c7ef31a0970c9271d8775670d820ffb51865bc  Ayah_Companion_Tilford_Australian_English_Manuscript.pdf
+  2603  db23685728fe7af4a60fb8c5174c23e75492906ccf4778754da5085a3bde6577  DIALECT-CONVERSION-LIST.tsv
+  1591  8dbbaffea96ae29d49009171f808c687e8813bacf52832c1c3786aaf4bef1de5  CHECKER-REPORT.md
+  3216  502202088c756ec3e16813834c574ea28efa9674c22dace108d0690e4d03fe54  LANDING-REPORT-2026-11-22.md
