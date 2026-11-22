@@ -1,0 +1,43 @@
+MANIFEST — Ayah Companion UK English (Dialect Edition)
+
+Shelved 2026-11-22 as the fourth and final book of the English
+Dialects wave, following the Australian, South African, and New
+Zealand English editions landed the same day, and landed under the
+Pipeline Landing Authorization (2026-11-14) after the full loop
+passed clean. With this landing the four-book wave is complete.
+
+Status: a DIALECT EDITION of the Locked English Master — the same
+translation in UK English spelling and usage. Not a new
+translation and not a re-translation: every word is the master's
+own, changed only where the recorded conversion list
+(DIALECT-CONVERSION-LIST.tsv, in this folder) changes its
+spelling: 98 pairs, 388 word-forms across 6,236 verses. UK usage
+equals the Australian, South African, and New Zealand conversions
+on every attested pair, and the list is the South African list
+whole, disclosed as such; it goes beyond the Australian list at
+exactly two attested seats — meager->meagre at 34:16 and
+maneuvering->manoeuvring at 8:16 — both standard UK forms. A
+vocabulary scan of the master found no further US form that UK
+usage writes differently. Rule A and every settled ruling of the
+master stand untouched in substance; the 6:86 correction (Elisha)
+rides as the master carries it. Sajda notes stand at their seats,
+as in the master. One conversion is seat-scoped and disclosed on
+the list: practice->practise at the 12 verbal seats only; the 3
+nominal seats keep the noun form, as UK usage requires.
+Translated by Robert Tilford. © 2026 Robert Tilford.
+Verse-marker re-count at shelving (landing run, 2026-11-22):
+6,236 of 6,236 markers, first 1:1, last 114:6.
+Lane verification of record: independent checker PASS on all 19
+checks (CHECKER-REPORT.md in this folder); PDF built by the
+house book pattern, 455 pages, 6,236 verse references in its
+text layer, final page carrying 114:6.
+
+Gift terms, as every folder on this shelf: free to read and free to
+download, never sold; attribution requested.
+
+Files:
+  847916  009b4abcb12014b271d92f5e1d3f9e75dc1c70c571a772e33446d7bc3128296b  ayah-companion-manuscript-UK.md
+  3088211  7e6e0b06e6fb04c217e526b941ccc9e6f233479e1dd6c20d65af8cff531bf72b  Ayah_Companion_Tilford_UK_English_Manuscript.pdf
+  2651  47669c4d4c493dfca7db010c124b927926537c374c59a53ccd10ddfe6a59f42d  DIALECT-CONVERSION-LIST.tsv
+  1653  28a188c930495370fd7622ac5db6a55c1050aad0e6b7e24b276e1df79ed0b84d  CHECKER-REPORT.md
+  4450  88eface88da3492cf9f0fbfbfb40681435dd8126147004489fc6de09805a4cdb  LANDING-REPORT-2026-11-22.md
