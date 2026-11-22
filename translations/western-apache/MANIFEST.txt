@@ -1,0 +1,68 @@
+MANIFEST — Ayah Companion Western Apache
+
+Shelved 2026-11-22 on Robert Tilford's explicit order of 2026-11-22
+(13:11 CST), which lifts the Bray-dictionary-pass hold that had stood
+on this lane since the draft completed. His word with the order:
+where no word can be found or proven, seat the honest equivalent or
+mark the gap plainly — no invented forms passed off as attested.
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: a rendering of the Quran in Western Apache — 6,236 of 6,236
+seats addressed, 6,233 verses fully rendered, 3 seats (2:61; 52:29;
+69:42) carrying plainly marked gaps in the text where no Western
+Apache word was found in any published source, and 1 seat (2:69)
+carrying an inline help-flag on a ruled, flagged construction. Every
+ruled seating, construction, and open gap is named in
+FLAGS-AND-GAPS-DISCLOSURE-2026-11-22.md. This text was
+machine-assisted by non-speakers of Western Apache under Robert
+Tilford's direction and is labelled as such. It is not
+speaker-reviewed; no native or critic review is awaited, invited, or
+chased (Robert's ruling, 2026-11-18). The Quiet Protocol for
+Indigenous North America stands: no outreach was made to any speaker,
+tribe, or community about this book. It is Western Apache in its own
+name — not Plains Apache, for which no dictionary has ever been
+published. No first-translation claim is made.
+Translated by Robert Tilford. © 2026 Robert Tilford.
+Verse-marker re-count at shelving (landing run, 2026-11-22): 6,236 of
+6,236 markers, first 1:1, last 114:6.
+Lane verification of record: independent checker PASS on all six
+checks at build (2026-11-18, CHECKER-REPORT.md in the lane folder);
+independent checker PASS on all 7 checks after Ruling 1 seated the
+sorcery family; landing verification 2026-11-22
+(verify-landing-2026-11-22.py): seat sets exactly equal across
+Master, store, built JSON, and manuscript text; per-surah grid
+matching at all 114 surahs; 0 text differences; fences clean.
+Manuscript MD5 46668484c53d7503fcb4a722ee570d57, byte-identical to
+the lane's governing built text.
+The full landing account stands in LANDING-REPORT-2026-11-22.md in
+this folder.
+
+History: the draft completed on 2026-11-18 (all 114 surahs; 6,171
+verses rendered, 65 seats held open as GAPs) and passed the
+independent checker's six checks the same day. The landing was then
+held under the Pipeline Landing Authorization's unsettled-seat
+exception, pending the Bray 1998 / Dilzhe'e pass. Robert's rulings
+closed the seats one by one on shown evidence: Ruling 1 (Choice A)
+admitted the attested -łgash sorcery family (57 seats); the Lane 2
+closure seated mba'ndeé "monkey" (Greenfeld 1999) at the three "apes"
+seats and the New Testament's envy device at 113:5; Ruling 5 and
+Ruling A seated ánolíni in the 2:69 colour clause as a flagged
+construction with Robert's help-flag in the text. The desk Bray pass
+walked every open published road for the last three words — garlic,
+lentils, and a soothsayer word (kāhin) — and found none; a published
+descriptive device for the kāhin seats exists in the New Testament
+record but its seating was reserved by Ruling 4 (2026-11-19) to a
+packet decision, which has not been given, so nothing was composed
+or seated there. On 2026-11-22 Robert lifted the hold and ordered
+the landing with the remaining gaps marked plainly, as they stand.
+
+Gift terms, as every folder on this shelf: free to read and free to
+download, never sold; attribution requested.
+
+Files:
+  1373437  4a34e22e3c892f4906af5d009e2b234b7812f12052efb09a3abd295b6467526b  ayah-companion-manuscript-APW.md
+  3675188  4d4cd4bcebcea385aef05e71c5aeb48ffa06b425ab69161be410c0c18c61ff86  Ayah_Companion_Tilford_Western_Apache_Manuscript.pdf
+  92897  d95b47c101e7a978ee44c7e2fdabfeedbba8b7c2b796f03d828918b634abade2  GLOSSARY-APW.md
+  6631  6b0d62eecd5f2b8a2c39a0bdc66a7a8c3281e25d6f5c30811e7a99b6f927e7d8  FLAGS-AND-GAPS-DISCLOSURE-2026-11-22.md
+  3571  1a03241347eceba71c06c3b806d2e55888fcd25cd9cba966195462458e5c03ae  LANDING-REPORT-2026-11-22.md
+  1775  77ea769cdcb99583277d08779719dd1ac6626a1fc8ff93452eccfe676d5eeec7  CAPTION-WESTERN-APACHE-2026-11-22.md
