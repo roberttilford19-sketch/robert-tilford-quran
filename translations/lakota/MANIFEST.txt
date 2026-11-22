@@ -5,41 +5,60 @@ which supersedes the terms of his 2026-10-05 notice letter and his
 2026-10-08 lock-away verdict (see History below).
 Built from the Locked English Master (the corrected manuscript) only.
 
-Status: an UNFINISHED SCAFFOLD — a partial, unfinished draft. This text was
-machine-assisted by a non-speaker of Lakota. It carries about 4,800 open
-translator flags (uncertain grammar, invented or unverified word forms,
-competing vocabulary choices). It is the least-settled text on this shelf,
-and it is labelled as such here and in its own head. It is not a finished
-translation. No first-translation claim is made.
+Status — updated 2026-11-22 (Lakota Completion Wave, landed on Robert
+Tilford's ruling of 2026-11-22): the grounding and concordance loop for
+this lane is COMPLETE, carried to the limit of the openly published
+record. Of the manuscript's 7,011 distinct word forms, 1,688 are
+receipted, and 1,374 of those carry published citations (Kaikki/
+Wiktionary, the Comparative Siouan Dictionary, Riggs 1892, Williamson
+1902, and others) that any checker can walk back to source; the
+receipted forms cover 77.5% of all word occurrences in the book. The
+remaining 5,323 forms were each examined and stand disclosed in
+gaps-register.json with the reason no published attestation was found;
+no form was invented and none was silently replaced. The New Lakota
+Dictionary online was out of service throughout and is not cited. The
+original translator flags stand adjudicated as far as published sources
+allow in FLAGS-ADJUDICATION-2026-11-22.md; the judgements that remain
+open are recorded there as open. This text was machine-assisted by a
+non-speaker of Lakota and is labelled as such. It is not presented as a
+finished or reviewed translation, and no first-translation claim is
+made. The manuscript itself is unchanged by the wave (MD5
+d5467e986832cc110b7dcbbae38024af).
 Translated by Robert Tilford. © 2026 Robert Tilford.
 Verse-marker re-count at shelving (2026-11-14): 6,236 of 6,236 markers,
 first 1:1, last 114:6.
 Lane verification of record: structural verification 14/14 PASS
-(~workspace/ayah-lakota/VERIFICATION-LKT.md, 2026-09-25 — surah headers,
-per-surah verse counts, Arabic lines byte-identical to master, prostration
-markers, no placeholders). The full lane record (concordance, glossary,
-flags file, verification) stands in the workspace lane folder
-~/workspace/ayah-lakota/, unrepaired.
+(~workspace/ayah-lakota/VERIFICATION-LKT.md, 2026-09-25). Completion
+wave verification 2026-11-22: independent checker PASS on all six
+checks (counts recomputed exactly; a seeded random sample of 40
+receipts verified one by one against the cited sources, 40 passed).
+The full wave account stands in WAVE-COMPLETION-REPORT-2026-11-22.md
+in this folder.
 
 History: On 2026-10-05 Robert Tilford sent a notice-first letter to the
 Standing Rock Sioux Tribe's language office (the Iyapi Director),
 announcing this scaffold before any publication and undertaking that, if
 no reply arrived by 2027-01-03, it would stay unpublished, and that any
-objection from that office or from community members would end the matter
-permanently. The only reply ever received was an auto-reply stating the
-addressee had left her post; no human response ever arrived. On
-2026-11-14 Robert Tilford ruled the letter's silence-date term superseded,
-on the ground that the invitation was sent in good faith and the chair
-stood vacant, and ordered the scaffold shelved as availability only.
+objection from that office or from community members would end the
+matter permanently. The only reply ever received was an auto-reply
+stating the addressee had left her post; no human response ever
+arrived. On 2026-11-14 Robert Tilford ruled the letter's silence-date
+term superseded, on the ground that the invitation was sent in good
+faith and the chair stood vacant, and ordered the scaffold shelved as
+availability only.
 
 Ruling — 2026-11-18: Robert Tilford ended the review-gate regime and
 lifted the availability and withdrawal undertakings that stood in this
-manifest. The scaffold stands on the shelf as what it is — an unfinished
-scaffold — so that anyone who comes looking may find it. No outreach has
-been made to any tribe about it.
+manifest. No outreach has been made to any tribe about it.
 
 Gift terms, as every folder on this shelf: free to read and free to
 download, never sold; attribution requested.
 
 Files:
   2395642  5c348fbd1232c83aedb32df999995a2efe1d45fed6fb4b2aa7fe014fe35302b8  ayah-companion-manuscript-LKT.md
+  6999  7e9195931e641667ceb33364668e45a1d7581530f639e1bc0b95ac773066ff0c  GLOSSARY-LKT.md
+  2950253  5df1b8da3903c6f940f59d7e0382acba1ea34adbf2558948138fa2d1fe8c7e75  concordance-full-wave.json
+  1119895  287b2a99b915de35a069a135fbe29477bb07d9a0c50e644d4ec44066b4c3a740  gaps-register.json
+  2541  23f9d8020eea2179206841ec725fa14e899a5ac7acf73bd1a29d9443e7da338a  PACK-MANIFEST.md
+  10755  5088c5f139be7e4501897003617af0b51bbce23553484a1f3e3356ac605920b1  WAVE-COMPLETION-REPORT-2026-11-22.md
+  9516  3abbd45e7d11eedad68356decc8fa883b62c27d378cf7399c102e4fa3bd92d96  FLAGS-ADJUDICATION-2026-11-22.md
