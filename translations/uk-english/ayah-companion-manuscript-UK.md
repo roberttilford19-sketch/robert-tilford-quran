@@ -1500,7 +1500,7 @@ Translated by Robert Tilford
 
 **5:64**  The Jews say, “God’s hand is tied.” It is their hands that are tied, and they are cursed for what they say. In fact, His hands are outstretched; He gives as He wills. Certainly, what was revealed to your from your Lord will increase many of them in defiance and blasphemy. And We placed between them enmity and hatred, until the Day of Resurrection. Whenever they kindle the fire of war, God extinguishes it. And they strive to spread corruption on earth. God does not love the corrupters.
 
-**5:65**  Had the People of the Scriputure believed and been righteous, We would have remitted their sins, and admitted them into the Gardens of Bliss.
+**5:65**  Had the People of the Scripture believed and been righteous, We would have remitted their sins, and admitted them into the Gardens of Bliss.
 
 **5:66**  Had they observed the Torah, and the Gospel, and what was revealed to them from their Lord, they would have consumed amply from above them, and from beneath their feet. Among them is a moderate community, but evil is what many of them are doing.
 
