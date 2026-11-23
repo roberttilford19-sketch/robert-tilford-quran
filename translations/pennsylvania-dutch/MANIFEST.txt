@@ -1,0 +1,21 @@
+MANIFEST — Ayah Companion Pennsylvania Dutch (Deitsch)
+
+Shelved 2026-11-23 under the Pipeline Landing Authorization (2026-11-14), on Robert Tilford's build word of 2026-11-23 (all six census-buildable lanes). Built from the Locked English Master. Robert's ground: Deitsch is the native language of his ancestors on one side of his family; the Deitsch Bible is the control, and what is built is the Quran in Deitsch.
+
+Status: a complete rendering of the Quran in Pennsylvania Dutch (Deitsch) — all 6,236 verses, the whole book, nothing left out — with the Arabic text alongside. No first-translation claim is made.
+
+Sources: CONTROL — Di Heilich Shrift, the complete Bible in Pennsylvania Dutch (Wycliffe, completed 2013, © 2016), held in full from eBible.org (USFM, 31,102 verses). DICTIONARIES — Lins, Common Sense Pennsylvania German Dictionary (1895), and Lambert, A Dictionary of the Non-English Words of the Pennsylvania-German Dialect (1924), both full text open on archive.org. Beam's Comprehensive Pennsylvania German Dictionary (2004–2011) is print only and was NOT used or claimed. Orthography: the Bible control's own English-phonemic spelling (the Buffington-Barba-Beam orthography is the named alternative, not used).
+
+Gates: count 6,236/6,236, per-surah 114/114, sequence and Arabic (6,348 lines) byte-identical to the master; Surah 9 Basmalah-free; Basmalah uniform at 112 openings; prostration notes 15/15. Independent checker: PASS WITH CORRECTIONS — language sample of 42 verses: 31 real Deitsch in the Bible's spelling and grammar, 11 Deitsch frame with spelling drift or uncertain lexis, 0 not Deitsch; zero standard-German or English leakage book-wide; fidelity spot-check clean; Quran-alone discipline PASS. All checker corrections applied and re-verified (1,525 counted replacements: nine spelling drifts conformed to the control's forms, the know-paradigm seat-classified, the coinage Mitgefeelsich and the 55:1 seat conformed to the locked da Gnaydich, five defect seats rendered on attested words). Token attestation 84.88% after corrections against the harvested Bible+dictionary lexicon (the checker judged the residual to be inflections, proper names, and harvest artifacts; attestation settles existence, not fluency). 220 translator flags stand disclosed in FLAGS-PDC.md — about 150 settled by attestation, about 65 disclosed uncertainties, 5 defects all corrected.
+
+Landed manuscript: ayah-companion-manuscript-PDC.md — 2,267,517 bytes, SHA-256 f7a894c13e4d0da7fbc84749b6fbc972e9f0494851ee1c404de12589decc47ea.
+Translated by Robert Tilford. © 2026 Robert Tilford.
+
+Files:
+  ayah-companion-manuscript-PDC.md — the translation
+  MANIFEST.txt — this file
+  BUILD-RECORD-PDC-2026-11-23.md — sources, build, gates
+  CHECKER-REPORT-PDC-2026-11-23.md — the independent checker's report
+  CORRECTIONS-PDC-2026-11-23.md — corrections applied from the checker's rulings
+  FLAGS-PDC.md — the 220 translator flags, consolidated
+  GLOSSARY-PDC.md — locked terminology with control citations
