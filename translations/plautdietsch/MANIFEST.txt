@@ -1,0 +1,41 @@
+MANIFEST — Ayah Companion Plautdietsch
+
+Built 2026-11-23 on Robert Tilford's word (main chat, 2026-11-23 01:20 CST:
+build all six census-buildable lanes concurrently, standard pipeline).
+Landed under the Pipeline Landing Authorization (2026-11-14).
+
+Status: a complete rendering of the Quran in Plautdietsch (Mennonite Low
+German) — all 6,236 verses, the whole book, nothing left out — with the
+Arabic text alongside. No first-translation claim is made. Translated by
+Robert Tilford. © 2026 Robert Tilford.
+
+Sources (gateway, held in ~/workspace/ayah-plautdietsch/sources/):
+- Dictionary: Herman Rempel, Kjenn jie noch Plautdietsch? A Mennonite Low
+  German Dictionary (1984; rev. 1995), bulk-open under CC BY-SA at
+  ereimer.net and plautdietsch.ca (pin CONFIRMED, census Addendum 3).
+- Control text: De Bibel (Kindred Productions / United Bible Societies,
+  2003), complete Bible, open text.
+- Orthography: the text is seated in the Bible's Neufeld/Zacharias
+  orthography; Rempel supplied the lexicon, not the spelling.
+
+Gates, all run 2026-11-23 (records in ~/workspace/ayah-plautdietsch/):
+- Canonical recount against the Locked English Master: 6,236 of 6,236
+  verses, per-surah 114/114, Arabic byte-identical at every seat
+  (6,348 Arabic lines, sequence-identical), Basmalah uniform at 112
+  openings, surah 9 Basmalah-free, prostration notes 15/15.
+- Independent checker: PASS WITH CORRECTIONS — language sample of 40:
+  (a) 28 real Plautdietsch faithful renderings, (b) 12 Plautdietsch frame
+  with uncertain lexis, (c) 0 not Plautdietsch; attestation 77.93% of
+  tokens against the Rempel + De Bibel lexicon (a floor: the control
+  Bible's vocabulary enters from the chapters read, not a bulk text).
+- Corrections applied and re-verified (105 verse lines, diff-classified,
+  0 unclassified): the sorcery stem unified (Towarie/Towra/Towrasch);
+  jinn unified to Jeista; the Hereafter unified to "de tokomstje Welt";
+  Schoss replaced by Schrie; the mercy noun unified to the locked Jnod;
+  ar-Rahman seated in the Jnädje forms in body text (28 lines); seat
+  fixes at 2:4, 6:13, 38:48, 40:65, 50:14, 56:92; the GAP renderings
+  (Wocha for usury among them) disclosed in the book's front matter.
+- 250 translator flags stand in the lane record (FLAGS-PDT.md), disclosed.
+
+Manuscript: ayah-companion-manuscript-PDT.md — 2,277,610 bytes,
+SHA-256 25168aab54ed038fe14fecfa8b5edd3107ea9067221f6712b4eecb4db62f9e53.
