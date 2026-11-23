@@ -1,0 +1,48 @@
+MANIFEST — Ayah Companion Bislama
+
+Landed 2026-11-23 on the GitHub shelf under Robert Tilford's
+Pipeline Landing Authorization (2026-11-14) and his explicit build
+word of 2026-11-23. Shelf folder 214 of the translations shelf
+(213 directories stood under translations/ before this landing).
+Built from the Locked English Master (the corrected manuscript) only.
+
+Status: DRAFT — landed on the shelf 2026-11-23 under the Pipeline
+Landing Authorization; NOT speaker-reviewed. A rendering of the
+Quran in Bislama — 6,236 of 6,236 verses rendered, GAP seats 0.
+This text was machine-assisted by non-speakers of Bislama under
+Robert Tilford's direction and is labelled as such. It is not
+speaker-reviewed; no native or critic review is awaited, invited,
+or chased (Robert's ruling, 2026-11-18). No outreach was made to
+any speaker or community about this book. No firstness claim
+beyond the bounded form: first complete Bislama Quran
+translation found — after research. Every declared ruling,
+judgment call, and known anomaly is named in
+FLAGS-AND-GAPS-DISCLOSURE-BIS-2026-11-23.md.
+Translated by Robert Tilford. © 2026 Robert Tilford.
+Verse-marker re-count at landing: 6,236 of 6,236 markers, first
+1:1, last 114:6 (desk battery, 2026-11-23).
+Lane verification of record: independent checker PASS WITH
+CORRECTIONS, 2026-11-23 (CHECKER-REPORT-BIS-2026-11-23.md in this
+folder): counts exact on every canonical measure (per-surah
+114/114; Arabic byte-identical 6,236/6,236; language sample 40
+verses: (a) 28, (b) 12, (c) 0; attestation 86.71% strict, 92.48%
+with core function words). All seven required corrections were
+applied to the manuscript and re-verified before landing
+(CORRECTIONS-BIS-2026-11-23.md in the lane folder
+~/workspace/ayah-bislama/).
+Manuscript SHA-256
+1550acba36a452e810c692b25bd5a439d7b1bc05632798c3335e6be286c4c33e,
+byte-identical to the lane's corrected manuscript.
+The full landing account stands in
+LANDING-REPORT-BIS-2026-11-23.md in this folder.
+
+Gift terms, as every folder on this shelf: free to read and free to
+download, never sold; attribution requested.
+
+Files:
+  2426615  1550acba36a452e810c692b25bd5a439d7b1bc05632798c3335e6be286c4c33e  ayah-companion-manuscript-BIS.md
+  248781  709579a17a6ef611f0f228ca69decd55a0ff21bd378b7e73d0667459785c6ecb  GLOSSARY-BIS.md
+  2585  4f75e155b4d7e10266c00f72dca48c59b967d1854fee499950322988a6c248c2  FLAGS-AND-GAPS-DISCLOSURE-BIS-2026-11-23.md
+  13205  9827a3b19575123d11f0c6ee90e6998c1e2e3c35d53089c1c50faaf53a74ab65  CHECKER-REPORT-BIS-2026-11-23.md
+  3468  1548226494baf258be69fd86bfa8adf7ec64dd3be268c4785bd78abc119d812a  LANDING-REPORT-BIS-2026-11-23.md
+  MANIFEST.txt (this file, listed by name without its own hash)
