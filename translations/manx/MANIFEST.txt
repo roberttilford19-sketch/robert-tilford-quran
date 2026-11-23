@@ -33,13 +33,29 @@ replaced by the Bible's "niaughyn" (61). Of the lane's 1,838 translator
 flags, 1,090 stand settled by attestation against the published sources;
 about 748 remain open and disclosed in the lane record (FLAGS-MN.md).
 
-Carried seats, disclosed for Robert Tilford's ruling (the text stands as
-built at these seats): the coined divine-name renderings yn Er-ghraihagh
-(ar-Rahman) and yn Er-chymmey (ar-Rahim), which the 1819 Bible control
-renders myghinagh / graysoil (Exodus 34:6); lag-chredjuee (hypocrites;
-Bible: crauee-foalsey); thie-padjer (mosque; Bible temple word: chiamble);
-ynnyd-maynrys (Paradise; Bible: Paradise). Full record:
-RESTART-RECONCILIATION-MN-2026-11-23.md in the lane folder.
+DIVINE-NAME CONFORMITY PASS — 2026-11-23. Robert Tilford ruled on the
+carried seats (main chat, 2026-11-23 01:03 CST, ruling A: "Conform the
+divine names to the Bible control"). Executed the same day, diff-verified
+(271 lines changed, every one explained by the replacement table, 0
+unclassified), full battery re-run clean: 6,236 of 6,236 verse markers,
+sequence and per-surah counts unchanged, Arabic byte-identical at every
+seat, Basmalah re-locked in the new form at all 112 openings. Conformed:
+yn Er-ghraihagh (ar-Rahman) -> yn Graysoil and yn Er-chymmey (ar-Rahim)
+-> yn Myghinagh — the 1819 Bible's own Exodus 34:6 pair (graysoil =
+gracious, myghinagh = merciful), seated as definite substantives on the
+Bible's own pattern for a divine epithet-name (yn Ooilley-niartal, the
+Almighty); lag-chredjuee -> crauee-foalsey (hypocrites, Matthew 6:2);
+thie-padjer -> chiamble (the Bible's temple word); ynnyd-maynrys ->
+Paradise at 36 seats, and -> y gharey at 2:221, where the Locked English
+Master reads "the Garden". 394 replacements in all.
+
+Still carried, disclosed (the text stands as built at these seats): the
+Er-ghoaill Arrys family for At-Tawwab (6 name seats in 4 coined forms —
+no attested alternative exists in the Bible control and no target form
+was specified, so the desk did not invent one) and yn Chiollagh (2 seats
+— no settled alternative; the lane's records conflict on the term it
+serves). Full record: RESTART-RECONCILIATION-MN-2026-11-23.md and
+CORRECTIONS-MN-DIVINE-NAMES-2026-11-23.md in the lane folder.
 
 Files:
-  2258718  8117a34d972fdfa6b7a89334338c9600b5e1a188e8adf2cf93cf4d25339160d5  ayah-companion-manuscript-MN.md
+  2257724  295b422b8533dbc3636aa7477dbad0a45c0f1e5df914508ccd05ca66f5c656db  ayah-companion-manuscript-MN.md

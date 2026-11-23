@@ -12,7 +12,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 *Ny shiaght rannaghyn ayns-traa ta fosley dy chooilley phadjer — moylley, stiur, as conaant lesh Hiarn ny Cruinney.*
 
-**1:1**  Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.
+**1:1**  Ayns ennym Yee, yn Graysoil, yn Myghinagh.
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -20,7 +20,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 
-**1:3**  Yn Er-ghraihagh, yn Er-chymmey.
+**1:3**  Yn Graysoil, yn Myghinagh.
 
 ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -50,7 +50,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **2:1**  Alif, laam, meem.
 
@@ -196,7 +196,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 فَأَزَلَّهُمَا ٱلشَّيْطَٰنُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ ۖ وَقُلْنَا ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّۭ ۖ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّۭ وَمَتَٰعٌ إِلَىٰ حِينٍۢ
 
-**2:37**  Eisht hooar Adam goan veih'n Hiarn echey, myr shen hyndaa eh huggey. She eshyn yn Er-chyndaa, yn Er-chymmey.
+**2:37**  Eisht hooar Adam goan veih'n Hiarn echey, myr shen hyndaa eh huggey. She eshyn yn Er-chyndaa, yn Myghinagh.
 
 فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
@@ -264,7 +264,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 وَإِذْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ وَٱلْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ
 
-**2:54**  As cooinaghtyn-jee dy dooyrt Moses rish e phobble, "O my phobble, ta shiu er n'yannoo neu-chairys riu hene liorish ooashley y chur da'n lheiy. Myr shen gow-jee arrys gys yn Er-chroo eu, as marroo-jee ny egoaghyn eu. Veagh shen share diuish marish yn Er-chroo eu." Myr shen hyndaa eh hiuish ayns arrys. She eshyn yn Er-ghoaill-arrys, yn Er-chymmey.
+**2:54**  As cooinaghtyn-jee dy dooyrt Moses rish e phobble, "O my phobble, ta shiu er n'yannoo neu-chairys riu hene liorish ooashley y chur da'n lheiy. Myr shen gow-jee arrys gys yn Er-chroo eu, as marroo-jee ny egoaghyn eu. Veagh shen share diuish marish yn Er-chroo eu." Myr shen hyndaa eh hiuish ayns arrys. She eshyn yn Er-ghoaill-arrys, yn Myghinagh.
 
 وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلْعِجْلَ فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
@@ -376,7 +376,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 بَلَىٰ مَن كَسَبَ سَيِّئَةًۭ وَأَحَٰطَتْ بِهِۦ خَطِيٓـَٔتُهُۥ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
-**2:82**  Myr son adsyn ta credjal as jannoo obbraghyn cair — t'ad shoh cummaltee yn ynnyd-maynrys, ayn nee ad tannaghtyn son dy bragh.
+**2:82**  Myr son adsyn ta credjal as jannoo obbraghyn cair — t'ad shoh cummaltee Paradise, ayn nee ad tannaghtyn son dy bragh.
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 
@@ -492,7 +492,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍۢ تَجِدُوهُ عِندَ ٱللَّهِ ۗ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌۭ
 
-**2:111**  As t'ad gra, "Cha jed unnane erbee stiagh ayns ynnyd-maynrys mannish dy vel eh ny Ewn ny ny Chreestit." T'ad shoh ny yeearreeyn oc. Abbyr: "Cur-jee lhieu yn phrowal eu, my ta shiu firrinagh."
+**2:111**  As t'ad gra, "Cha jed unnane erbee stiagh ayns Paradise mannish dy vel eh ny Ewn ny ny Chreestit." T'ad shoh ny yeearreeyn oc. Abbyr: "Cur-jee lhieu yn phrowal eu, my ta shiu firrinagh."
 
 وَقَالُوا۟ لَن يَدْخُلَ ٱلْجَنَّةَ إِلَّا مَن كَانَ هُودًا أَوْ نَصَٰرَىٰ ۗ تِلْكَ أَمَانِيُّهُمْ ۗ قُلْ هَاتُوا۟ بُرْهَٰنَكُمْ إِن كُنتُمْ صَٰدِقِينَ
 
@@ -560,7 +560,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 وَإِذْ يَرْفَعُ إِبْرَٰهِۦمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
-**2:128**  Hiarn ain, as jean shin biallagh dhyt, as veih'n heel ain pobble biallagh dhyt. As taishbyney dooin ny oardaghyn ain, as gow yn arrys ain. She uss yn Er-chyndaa, yn Er-chymmey.
+**2:128**  Hiarn ain, as jean shin biallagh dhyt, as veih'n heel ain pobble biallagh dhyt. As taishbyney dooin ny oardaghyn ain, as gow yn arrys ain. She uss yn Er-chyndaa, yn Myghinagh.
 
 رَبَّنَا وَٱجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةًۭ مُّسْلِمَةًۭ لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَآ ۖ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
@@ -688,7 +688,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلْنَا مِنَ ٱلْبَيِّنَٰتِ وَٱلْهُدَىٰ مِنۢ بَعْدِ مَا بَيَّنَّٰهُ لِلنَّاسِ فِى ٱلْكِتَٰبِ ۙ أُو۟لَٰٓئِكَ يَلْعَنُهُمُ ٱللَّهُ وَيَلْعَنُهُمُ ٱللَّٰعِنُونَ
 
-**2:160**  Faagail magh adsyn ta goaill arrys, as jannoo mie, as ginsh magh. Ad shoh — nee'm goaill yn arrys oc. She mish yn Er-ghoaill-arrys, yn Er-chymmey.
+**2:160**  Faagail magh adsyn ta goaill arrys, as jannoo mie, as ginsh magh. Ad shoh — nee'm goaill yn arrys oc. She mish yn Er-ghoaill-arrys, yn Myghinagh.
 
 إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَبَيَّنُوا۟ فَأُو۟لَٰٓئِكَ أَتُوبُ عَلَيْهِمْ ۚ وَأَنَا ٱلتَّوَّابُ ٱلرَّحِيمُ
 
@@ -700,7 +700,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 خَٰلِدِينَ فِيهَا ۖ لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ
 
-**2:163**  Ta'n Jee eu un Jee. Cha nel jee erbee agh eshyn, yn Er-ghraihagh, yn Er-chymmey.
+**2:163**  Ta'n Jee eu un Jee. Cha nel jee erbee agh eshyn, yn Graysoil, yn Myghinagh.
 
 وَإِلَٰهُكُمْ إِلَٰهٌۭ وَٰحِدٌۭ ۖ لَّآ إِلَٰهَ إِلَّا هُوَ ٱلرَّحْمَٰنُ ٱلرَّحِيمُ
 
@@ -904,7 +904,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 كَانَ ٱلنَّاسُ أُمَّةًۭ وَٰحِدَةًۭ فَبَعَثَ ٱللَّهُ ٱلنَّبِيِّۦنَ مُبَشِّرِينَ وَمُنذِرِينَ وَأَنزَلَ مَعَهُمُ ٱلْكِتَٰبَ بِٱلْحَقِّ لِيَحْكُمَ بَيْنَ ٱلنَّاسِ فِيمَا ٱخْتَلَفُوا۟ فِيهِ ۚ وَمَا ٱخْتَلَفَ فِيهِ إِلَّا ٱلَّذِينَ أُوتُوهُ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ بَغْيًۢا بَيْنَهُمْ ۖ فَهَدَى ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ لِمَا ٱخْتَلَفُوا۟ فِيهِ مِنَ ٱلْحَقِّ بِإِذْنِهِۦ ۗ وَٱللَّهُ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍ
 
-**2:214**  Ny vel shiu smooinaghtyn dy jed shiu stiagh ayns ynnyd-maynrys as foast nagh row reddyn gollrish adsyn haink roish shiu er jeet hiuish? Ren tranlaase as croshey tayrn orroo, as va ad er ny chraa, derrey dooyrt y chaghter as adsyn v'er chredjal marish, "Tra hig cooney Yee?" Ayns firrinys, ta cooney Yee faggys.
+**2:214**  Ny vel shiu smooinaghtyn dy jed shiu stiagh ayns Paradise as foast nagh row reddyn gollrish adsyn haink roish shiu er jeet hiuish? Ren tranlaase as croshey tayrn orroo, as va ad er ny chraa, derrey dooyrt y chaghter as adsyn v'er chredjal marish, "Tra hig cooney Yee?" Ayns firrinys, ta cooney Yee faggys.
 
 أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِكُم ۖ مَّسَّتْهُمُ ٱلْبَأْسَآءُ وَٱلضَّرَّآءُ وَزُلْزِلُوا۟ حَتَّىٰ يَقُولَ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ مَتَىٰ نَصْرُ ٱللَّهِ ۗ أَلَآ إِنَّ نَصْرَ ٱللَّهِ قَرِيبٌۭ
 
@@ -932,7 +932,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ ۗ وَيَسْـَٔلُونَكَ عَنِ ٱلْيَتَٰمَىٰ ۖ قُلْ إِصْلَاحٌۭ لَّهُمْ خَيْرٌۭ ۖ وَإِن تُخَالِطُوهُمْ فَإِخْوَٰنُكُمْ ۚ وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ ۚ وَلَوْ شَآءَ ٱللَّهُ لَأَعْنَتَكُمْ ۚ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌۭ
 
-**2:221**  Ny poose-jee mraane idol-ooashlee derrey t'ad credjal. S'ferr ben-vondiagh chredjal na ben idol-ooashlee, ga dy vel ee shiu y vooisal. As ny poose-jee ny inneenyn eu da deiney idol-ooashlee derrey t'ad credjal. S'ferr bondagh chredjal na dooinney idol-ooashlee, ga dy vel eh shiu y vooisal. T'ad cuirrey gys yn aine. Agh ta Jee cuirrey gys ynnyd-maynrys as gys leoddey lesh e kied. As ta eh soilshean ny cowraghyn echey da'n pobble, myr shen dy vod ad cooinaghtyn.
+**2:221**  Ny poose-jee mraane idol-ooashlee derrey t'ad credjal. S'ferr ben-vondiagh chredjal na ben idol-ooashlee, ga dy vel ee shiu y vooisal. As ny poose-jee ny inneenyn eu da deiney idol-ooashlee derrey t'ad credjal. S'ferr bondagh chredjal na dooinney idol-ooashlee, ga dy vel eh shiu y vooisal. T'ad cuirrey gys yn aine. Agh ta Jee cuirrey gys y gharey as gys leoddey lesh e kied. As ta eh soilshean ny cowraghyn echey da'n pobble, myr shen dy vod ad cooinaghtyn.
 
 وَلَا تَنكِحُوا۟ ٱلْمُشْرِكَٰتِ حَتَّىٰ يُؤْمِنَّ ۚ وَلَأَمَةٌۭ مُّؤْمِنَةٌ خَيْرٌۭ مِّن مُّشْرِكَةٍۢ وَلَوْ أَعْجَبَتْكُمْ ۗ وَلَا تُنكِحُوا۟ ٱلْمُشْرِكِينَ حَتَّىٰ يُؤْمِنُوا۟ ۚ وَلَعَبْدٌۭ مُّؤْمِنٌ خَيْرٌۭ مِّن مُّشْرِكٍۢ وَلَوْ أَعْجَبَكُمْ ۗ أُو۟لَٰٓئِكَ يَدْعُونَ إِلَى ٱلنَّارِ ۖ وَٱللَّهُ يَدْعُوٓا۟ إِلَى ٱلْجَنَّةِ وَٱلْمَغْفِرَةِ بِإِذْنِهِۦ ۖ وَيُبَيِّنُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
 
@@ -1208,7 +1208,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **3:1**  Alif, Laam, Meem.
 
@@ -1774,7 +1774,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 وَلِيُمَحِّصَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَيَمْحَقَ ٱلْكَٰفِرِينَ
 
-**3:142**  Ny ta shiu jerkal dy gholl stiagh ayns ynnyd-maynrys, roish ta Jee er scarrey adsyn ny mast'eu ta streeu, as roish t'eh er scarrey adsyn ta surranse?
+**3:142**  Ny ta shiu jerkal dy gholl stiagh ayns Paradise, roish ta Jee er scarrey adsyn ny mast'eu ta streeu, as roish t'eh er scarrey adsyn ta surranse?
 
 أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَعْلَمِ ٱللَّهُ ٱلَّذِينَ جَٰهَدُوا۟ مِنكُمْ وَيَعْلَمَ ٱلصَّٰبِرِينَ
 
@@ -1874,7 +1874,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 وَمَآ أَصَٰبَكُمْ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ فَبِإِذْنِ ٱللَّهِ وَلِيَعْلَمَ ٱلْمُؤْمِنِينَ
 
-**3:167**  As son dy vod fys ve echey er ny lag-chredjuee. As ve dooyrt roo, "Tar-jee, jean-jee caggey ayns cooish Yee, ny cur-jee cooney." Dooyrt ad, "Dy beagh fys ain kys caggey, veagh shin er n'eiyrt erriu." Er y laa shen v'ad ny sniessey da mee-chredjue na v'ad da chredjue. T'ad gra lesh nyn meealyn shen nagh vel ayns nyn greeaghyn; agh ta fys ec Jee er shen t'ad follaghey.
+**3:167**  As son dy vod fys ve echey er ny crauee-foalsey. As ve dooyrt roo, "Tar-jee, jean-jee caggey ayns cooish Yee, ny cur-jee cooney." Dooyrt ad, "Dy beagh fys ain kys caggey, veagh shin er n'eiyrt erriu." Er y laa shen v'ad ny sniessey da mee-chredjue na v'ad da chredjue. T'ad gra lesh nyn meealyn shen nagh vel ayns nyn greeaghyn; agh ta fys ec Jee er shen t'ad follaghey.
 
 وَلِيَعْلَمَ ٱلَّذِينَ نَافَقُوا۟ ۚ وَقِيلَ لَهُمْ تَعَالَوْا۟ قَٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَوِ ٱدْفَعُوا۟ ۖ قَالُوا۟ لَوْ نَعْلَمُ قِتَالًۭا لَّٱتَّبَعْنَٰكُمْ ۗ هُمْ لِلْكُفْرِ يَوْمَئِذٍ أَقْرَبُ مِنْهُمْ لِلْإِيمَٰنِ ۚ يَقُولُونَ بِأَفْوَٰهِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ ۗ وَٱللَّهُ أَعْلَمُ بِمَا يَكْتُمُونَ
 
@@ -1946,7 +1946,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 فَإِن كَذَّبُوكَ فَقَدْ كُذِّبَ رُسُلٌۭ مِّن قَبْلِكَ جَآءُو بِٱلْبَيِّنَٰتِ وَٱلزُّبُرِ وَٱلْكِتَٰبِ ٱلْمُنِيرِ
 
-**3:185**  Nee dagh annym blashtyn y vaase, as bee shiu er nyn eeck er Laa'n Vriwnys. Quoi erbee ta er ny hyndaa voish yn Aine, as er ny ghoaill stiagh ayns ynnyd-maynrys, t'eh er chosney. Cha vel bea yn theihll shoh agh soylley molteyragh.
+**3:185**  Nee dagh annym blashtyn y vaase, as bee shiu er nyn eeck er Laa'n Vriwnys. Quoi erbee ta er ny hyndaa voish yn Aine, as er ny ghoaill stiagh ayns Paradise, t'eh er chosney. Cha vel bea yn theihll shoh agh soylley molteyragh.
 
 كُلُّ نَفْسٍۢ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَٰمَةِ ۖ فَمَن زُحْزِحَ عَنِ ٱلنَّارِ وَأُدْخِلَ ٱلْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَٰعُ ٱلْغُرُورِ
 
@@ -2020,7 +2020,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **4:1**  O sleih! Gow-jee aggle roish y Hiarn eu, ren shiu y chroo veih un annym, as ren e heshey y chroo veih, as ren skeayley voue ymmodee deiney as mraane. As gow-jee aggle roish Jee liorish ta shiu geam, as ny paaryntyn. Dy jarroo, ta Jee fakin harrish shiu.
 
@@ -2262,7 +2262,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 أَلَمْ تَرَ إِلَى ٱلَّذِينَ يَزْعُمُونَ أَنَّهُمْ ءَامَنُوا۟ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ يُرِيدُونَ أَن يَتَحَاكَمُوٓا۟ إِلَى ٱلطَّٰغُوتِ وَقَدْ أُمِرُوٓا۟ أَن يَكْفُرُوا۟ بِهِۦ وَيُرِيدُ ٱلشَّيْطَٰنُ أَن يُضِلَّهُمْ ضَلَٰلًۢا بَعِيدًۭا
 
-**4:61**  As tra t'eh er ny ghra roo, "Tar-jee gys shen ta Jee er hoilshaghey, as gys y Chaghter," t'ou fakin ny lag-chredjuee çhyndaa void dy bollagh.
+**4:61**  As tra t'eh er ny ghra roo, "Tar-jee gys shen ta Jee er hoilshaghey, as gys y Chaghter," t'ou fakin ny crauee-foalsey çhyndaa void dy bollagh.
 
 وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ رَأَيْتَ ٱلْمُنَٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودًۭا
 
@@ -2274,7 +2274,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ يَعْلَمُ ٱللَّهُ مَا فِى قُلُوبِهِمْ فَأَعْرِضْ عَنْهُمْ وَعِظْهُمْ وَقُل لَّهُمْ فِىٓ أَنفُسِهِمْ قَوْلًۢا بَلِيغًۭا
 
-**4:64**  Cha ren shin coyrt chaghter erbee mannagh dy ve biallagh rish lesh kied Yee. Dy beagh ad, tra ren ad tranlaase orroo hene, er jeet hood, as er ghuee er Jee son leih, as dy beagh y Chaghter er ghuee son nyn leih, veagh ad er gheddyn Jee yn Ooilley-niartal as yn Er-chymmey.
+**4:64**  Cha ren shin coyrt chaghter erbee mannagh dy ve biallagh rish lesh kied Yee. Dy beagh ad, tra ren ad tranlaase orroo hene, er jeet hood, as er ghuee er Jee son leih, as dy beagh y Chaghter er ghuee son nyn leih, veagh ad er gheddyn Jee yn Ooilley-niartal as yn Myghinagh.
 
 وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذْنِ ٱللَّهِ ۚ وَلَوْ أَنَّهُمْ إِذ ظَّلَمُوٓا۟ أَنفُسَهُمْ جَآءُوكَ فَٱسْتَغْفَرُوا۟ ٱللَّهَ وَٱسْتَغْفَرَ لَهُمُ ٱلرَّسُولُ لَوَجَدُوا۟ ٱللَّهَ تَوَّابًۭا رَّحِيمًۭا
 
@@ -2370,7 +2370,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَا رَيْبَ فِيهِ ۗ وَمَنْ أَصْدَقُ مِنَ ٱللَّهِ حَدِيثًۭا
 
-**4:88**  Cre'n-fa ta shiuish, rheynnit ayns daa phossan mychione ny lag-chredjuee, tra ta Jee hene er nyn dooiney er-yn-oyr jeh shen ren ad? Vel shiu geamagh adsyn ta Jee er chur ershaghryn y leeideil? Quoi erbee ta Jee leeideil ershaghryn — cha vow oo raad erbee er e hon dy bragh.
+**4:88**  Cre'n-fa ta shiuish, rheynnit ayns daa phossan mychione ny crauee-foalsey, tra ta Jee hene er nyn dooiney er-yn-oyr jeh shen ren ad? Vel shiu geamagh adsyn ta Jee er chur ershaghryn y leeideil? Quoi erbee ta Jee leeideil ershaghryn — cha vow oo raad erbee er e hon dy bragh.
 
 ۞ فَمَا لَكُمْ فِى ٱلْمُنَٰفِقِينَ فِئَتَيْنِ وَٱللَّهُ أَرْكَسَهُم بِمَا كَسَبُوٓا۟ ۚ أَتُرِيدُونَ أَن تَهْدُوا۟ مَنْ أَضَلَّ ٱللَّهُ ۖ وَمَن يُضْلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلًۭا
 
@@ -2514,7 +2514,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 لَّيْسَ بِأَمَانِيِّكُمْ وَلَآ أَمَانِىِّ أَهْلِ ٱلْكِتَٰبِ ۗ مَن يَعْمَلْ سُوٓءًۭا يُجْزَ بِهِۦ وَلَا يَجِدْ لَهُۥ مِن دُونِ ٱللَّهِ وَلِيًّۭا وَلَا نَصِيرًۭا
 
-**4:124**  Agh quoi erbee ta jannoo cairys, edyr fer ny ben, as ta credjuee — hed ad shoh stiagh ayns ynnyd-maynrys, as cha bee ad tranlaasit wheesh as specc.
+**4:124**  Agh quoi erbee ta jannoo cairys, edyr fer ny ben, as ta credjuee — hed ad shoh stiagh ayns Paradise, as cha bee ad tranlaasit wheesh as specc.
 
 وَمَن يَعْمَلْ مِنَ ٱلصَّٰلِحَٰتِ مِن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌۭ فَأُو۟لَٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًۭا
 
@@ -2570,7 +2570,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ٱزْدَادُوا۟ كُفْرًۭا لَّمْ يَكُنِ ٱللَّهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ سَبِيلًۢا
 
-**4:138**  Cur-jee fys da ny lag-chredjuee dy bee piandyr gonnagh oc.
+**4:138**  Cur-jee fys da ny crauee-foalsey dy bee piandyr gonnagh oc.
 
 بَشِّرِ ٱلْمُنَٰفِقِينَ بِأَنَّ لَهُمْ عَذَابًا أَلِيمًا
 
@@ -2578,7 +2578,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 ٱلَّذِينَ يَتَّخِذُونَ ٱلْكَٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ ۚ أَيَبْتَغُونَ عِندَهُمُ ٱلْعِزَّةَ فَإِنَّ ٱلْعِزَّةَ لِلَّهِ جَمِيعًۭا
 
-**4:140**  T'eh er hoilshaghey diu ayns y Lioar tra ta shiu clashtyn soilshaghyn Yee er ny yiooldey, ny er ny gheurey, ny soie-jee marish oc derrey t'ad goll ayns cooish elley erbee. Er-nonney, veagh shiuish myr adsyn. Nee Jee ny lag-chredjuee as ny mee-chredjue y haglym, ayns niurin, ry-cheilley.
+**4:140**  T'eh er hoilshaghey diu ayns y Lioar tra ta shiu clashtyn soilshaghyn Yee er ny yiooldey, ny er ny gheurey, ny soie-jee marish oc derrey t'ad goll ayns cooish elley erbee. Er-nonney, veagh shiuish myr adsyn. Nee Jee ny crauee-foalsey as ny mee-chredjue y haglym, ayns niurin, ry-cheilley.
 
 وَقَدْ نَزَّلَ عَلَيْكُمْ فِى ٱلْكِتَٰبِ أَنْ إِذَا سَمِعْتُمْ ءَايَٰتِ ٱللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا۟ مَعَهُمْ حَتَّىٰ يَخُوضُوا۟ فِى حَدِيثٍ غَيْرِهِۦٓ ۚ إِنَّكُمْ إِذًۭا مِّثْلُهُمْ ۗ إِنَّ ٱللَّهَ جَامِعُ ٱلْمُنَٰفِقِينَ وَٱلْكَٰفِرِينَ فِى جَهَنَّمَ جَمِيعًا
 
@@ -2586,7 +2586,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 ٱلَّذِينَ يَتَرَبَّصُونَ بِكُمْ فَإِن كَانَ لَكُمْ فَتْحٌۭ مِّنَ ٱللَّهِ قَالُوٓا۟ أَلَمْ نَكُن مَّعَكُمْ وَإِن كَانَ لِلْكَٰفِرِينَ نَصِيبٌۭ قَالُوٓا۟ أَلَمْ نَسْتَحْوِذْ عَلَيْكُمْ وَنَمْنَعْكُم مِّنَ ٱلْمُؤْمِنِينَ ۚ فَٱللَّهُ يَحْكُمُ بَيْنَكُمْ يَوْمَ ٱلْقِيَٰمَةِ ۗ وَلَن يَجْعَلَ ٱللَّهُ لِلْكَٰفِرِينَ عَلَى ٱلْمُؤْمِنِينَ سَبِيلًا
 
-**4:142**  Ta ny lag-chredjuee shirrey Jee y volley, agh t'Eshyn ad y volley. As tra t'ad shassoo son padjer, t'ad shassoo dy leahsk, jeeaghyn orroo hene roish sleih, as cooinaghtyn er Jee agh tammylt beg.
+**4:142**  Ta ny crauee-foalsey shirrey Jee y volley, agh t'Eshyn ad y volley. As tra t'ad shassoo son padjer, t'ad shassoo dy leahsk, jeeaghyn orroo hene roish sleih, as cooinaghtyn er Jee agh tammylt beg.
 
 إِنَّ ٱلْمُنَٰفِقِينَ يُخَٰدِعُونَ ٱللَّهَ وَهُوَ خَٰدِعُهُمْ وَإِذَا قَامُوٓا۟ إِلَى ٱلصَّلَوٰةِ قَامُوا۟ كُسَالَىٰ يُرَآءُونَ ٱلنَّاسَ وَلَا يَذْكُرُونَ ٱللَّهَ إِلَّا قَلِيلًۭا
 
@@ -2598,7 +2598,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ ٱلْكَٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ ۚ أَتُرِيدُونَ أَن تَجْعَلُوا۟ لِلَّهِ عَلَيْكُمْ سُلْطَٰنًۭا مُّبِينًا
 
-**4:145**  Bee ny lag-chredjuee ayns y cheim s'inshley jeh'n aine, as cha vow oo coadee erbee daue.
+**4:145**  Bee ny crauee-foalsey ayns y cheim s'inshley jeh'n aine, as cha vow oo coadee erbee daue.
 
 إِنَّ ٱلْمُنَٰفِقِينَ فِى ٱلدَّرْكِ ٱلْأَسْفَلِ مِنَ ٱلنَّارِ وَلَن تَجِدَ لَهُمْ نَصِيرًا
 
@@ -2738,7 +2738,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **5:1**  O shiuish ta credjal! Cooylley-jee ny gialdynyn eu. Ta maase yn vagher lowit diu, er-lhimmey jeusyn ta soilshit diu; agh cha nee feill hellg choud as ta shiu ayns casherickys yn oiloo. Ta Jee decreil cre-erbee saillish.
 
@@ -3028,7 +3028,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَحَسِبُوٓا۟ أَلَّا تَكُونَ فِتْنَةٌۭ فَعَمُوا۟ وَصَمُّوا۟ ثُمَّ تَابَ ٱللَّهُ عَلَيْهِمْ ثُمَّ عَمُوا۟ وَصَمُّوا۟ كَثِيرٌۭ مِّنْهُمْ ۚ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ
 
-**5:72**  Ta mee-chredjuee adsyn ta gra, "Ta Jee ny Chreest mac Voirrey." Agh dooyrt y Chreest hene, "O chloan Israel, cur-jee ooashley da Jee, my Hiarn as nyn Hiarn. Quoi-erbee ta gollrish Jee rish deiney elley, ta Jee er n'yannoo ynnyd-maynrys kielleil da, as ta e ynnyd-vaghee yn aine. Cha vel saualtee erbee ec ny drogh-yantee."
+**5:72**  Ta mee-chredjuee adsyn ta gra, "Ta Jee ny Chreest mac Voirrey." Agh dooyrt y Chreest hene, "O chloan Israel, cur-jee ooashley da Jee, my Hiarn as nyn Hiarn. Quoi-erbee ta gollrish Jee rish deiney elley, ta Jee er n'yannoo Paradise kielleil da, as ta e ynnyd-vaghee yn aine. Cha vel saualtee erbee ec ny drogh-yantee."
 
 لَقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ ۖ وَقَالَ ٱلْمَسِيحُ يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱعْبُدُوا۟ ٱللَّهَ رَبِّى وَرَبَّكُمْ ۖ إِنَّهُۥ مَن يُشْرِكْ بِٱللَّهِ فَقَدْ حَرَّمَ ٱللَّهُ عَلَيْهِ ٱلْجَنَّةَ وَمَأْوَىٰهُ ٱلنَّارُ ۖ وَمَا لِلظَّٰلِمِينَ مِنْ أَنصَارٍۢ
 
@@ -3234,7 +3234,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **6:1**  Moylley da Jee, ren ny niaughyn as y thalloo y chroo, as ren y dorraghys as y soilshey. Ny yei shen, ta'n vee-chredjuee cur corrym rish y Hiarn oc.
 
@@ -3904,11 +3904,11 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 **ٱلْأَعْرَاف** · Al-A'raf · Meckaagh · 206 rannaghyn
 
-*Yn yrjid eddyr ynnyd-maynrys as yn aine — as yn arc liauyr jeh ny phadeyryn veih Adam dys Moses.*
+*Yn yrjid eddyr Paradise as yn aine — as yn arc liauyr jeh ny phadeyryn veih Adam dys Moses.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **7:1**  Alif, Laam, Meem, Saad.
 
@@ -4066,7 +4066,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَقَالَتْ أُولَىٰهُمْ لِأُخْرَىٰهُمْ فَمَا كَانَ لَكُمْ عَلَيْنَا مِن فَضْلٍۢ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْسِبُونَ
 
-**7:40**  Adsyn ta gobbal nyn gowraghyn as ta ro voyrnagh dy hummal seose ad — cha bee dorryssyn niau er ny osley daue, as cha jed ad stiagh ayns ynnyd-maynrys, derrey hed y chamel trooid sooill yn aidey. Myr shen ta shin cooilleeney ny kyndaghyn.
+**7:40**  Adsyn ta gobbal nyn gowraghyn as ta ro voyrnagh dy hummal seose ad — cha bee dorryssyn niau er ny osley daue, as cha jed ad stiagh ayns Paradise, derrey hed y chamel trooid sooill yn aidey. Myr shen ta shin cooilleeney ny kyndaghyn.
 
 إِنَّ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَٱسْتَكْبَرُوا۟ عَنْهَا لَا تُفَتَّحُ لَهُمْ أَبْوَٰبُ ٱلسَّمَآءِ وَلَا يَدْخُلُونَ ٱلْجَنَّةَ حَتَّىٰ يَلِجَ ٱلْجَمَلُ فِى سَمِّ ٱلْخِيَاطِ ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُجْرِمِينَ
 
@@ -4745,7 +4745,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **8:1**  Ta shiuish fenaght jeed bentyn rish ny spaainey. Abbyr: "Ta ny spaainey da Jee as da'n Chaghter." Myr shen gow-jee aggle Yee, as jean-jee nyn arganeyn y hoiaghey, as bee-jee biallagh da Jee as da e Haghyer, my ta shiu credjalee.
 
@@ -5470,11 +5470,11 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **9:106**  Ta sleih elley er-mayrn, farkiaght oardagh Yee, vel eh ad y cherraghey, ny goaill-rish nyn arrys. Ta Jee Toiggallagh as Creeney.
 
 وَءَاخَرُونَ مُرْجَوْنَ لِأَمْرِ ٱللَّهِ إِمَّا يُعَذِّبُهُمْ وَإِمَّا يَتُوبُ عَلَيْهِمْ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ
-**9:107**  As ta sleih elley ayn ta troggal thie-padjer dy yannoo aggair, as mee-chredjue, as scarrey mastey ny credjalee, as myr boayl-farkiaght daue-syn ta caggey noi Jee as noi e Haghyer. Nee ad breearrey: "Cha vel ainlyn ain agh vie." Agh ta Jee gymmyrkey dy vel ad breagereeyn.
+**9:107**  As ta sleih elley ayn ta troggal chiamble dy yannoo aggair, as mee-chredjue, as scarrey mastey ny credjalee, as myr boayl-farkiaght daue-syn ta caggey noi Jee as noi e Haghyer. Nee ad breearrey: "Cha vel ainlyn ain agh vie." Agh ta Jee gymmyrkey dy vel ad breagereeyn.
 
 وَٱلَّذِينَ ٱتَّخَذُوا۟ مَسْجِدًۭا ضِرَارًۭا وَكُفْرًۭا وَتَفْرِيقًۢا بَيْنَ ٱلْمُؤْمِنِينَ وَإِرْصَادًۭا لِّمَنْ حَارَبَ ٱللَّهَ وَرَسُولَهُۥ مِن قَبْلُ ۚ وَلَيَحْلِفُنَّ إِنْ أَرَدْنَآ إِلَّا ٱلْحُسْنَىٰ ۖ وَٱللَّهُ يَشْهَدُ إِنَّهُمْ لَكَٰذِبُونَ
 
-**9:108**  Ny shass ayns, rieau. Ta thie-padjer soit er craueeaght veih'n chied laa ny s'cairagh jeh dty hassoo ayn. Ayns t'ayn deiney ta graih oc er ve glennit. Ta graih Yee orroosyn ta ad hene y ghlenney.
+**9:108**  Ny shass ayns, rieau. Ta chiamble soit er craueeaght veih'n chied laa ny s'cairagh jeh dty hassoo ayn. Ayns t'ayn deiney ta graih oc er ve glennit. Ta graih Yee orroosyn ta ad hene y ghlenney.
 
 لَا تَقُمْ فِيهِ أَبَدًۭا ۚ لَّمَسْجِدٌ أُسِّسَ عَلَى ٱلتَّقْوَىٰ مِنْ أَوَّلِ يَوْمٍ أَحَقُّ أَن تَقُومَ فِيهِ ۚ فِيهِ رِجَالٌۭ يُحِبُّونَ أَن يَتَطَهَّرُوا۟ ۚ وَٱللَّهُ يُحِبُّ ٱلْمُطَّهِّرِينَ
 
@@ -5568,7 +5568,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **يُونُس** · Yunus · Meckaagh · 109 rannaghyn
 *Yonah as y pobble ren credjal roish my huitt yn kerraghey — chymmey ta çheet jeeragh ayns traa.*
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 **10:1**  Alif, Lam, Ra. Shoh raaghyn Yn Lioar Creeney.
 الٓر ۚ تِلْكَ ءَايَٰتُ ٱلْكِتَٰبِ ٱلْحَكِيمِ
 **10:2**  Nagh yindys eh da'n phobble dy ren shin soilshean da dooinney voue hene: "Cur-jee raaue da deiney, as cur-jee naight mie dauesyn ta credjal, dy vel undin lajer oc ec y Hiarn oc"? Dooyrt ny mee-chredjuee: "She obbee follit eh shoh."
@@ -5619,7 +5619,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 إِنَّمَا مَثَلُ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ بِهِۦ نَبَاتُ ٱلْأَرْضِ مِمَّا يَأْكُلُ ٱلنَّاسُ وَٱلْأَنْعَٰمُ حَتَّىٰٓ إِذَآ أَخَذَتِ ٱلْأَرْضُ زُخْرُفَهَا وَٱزَّيَّنَتْ وَظَنَّ أَهْلُهَآ أَنَّهُمْ قَٰدِرُونَ عَلَيْهَآ أَتَىٰهَآ أَمْرُنَا لَيْلًا أَوْ نَهَارًۭا فَجَعَلْنَٰهَا حَصِيدًۭا كَأَن لَّمْ تَغْنَ بِٱلْأَمْسِ ۚ كَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍۢ يَتَفَكَّرُونَ
 **10:25**  Ta Jee cur cuirrey gys Thie'n Shee, as leeideil eshyn saillish gys y raad jeeragh.
 وَٱللَّهُ يَدْعُوٓا۟ إِلَىٰ دَارِ ٱلسَّلَٰمِ وَيَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
-**10:26**  Dauesyn ta er n'yannoo mie ta mieys, as ny smoo. Cha jig dorraghys ny nearey er nyn eddin. Ad shoh cummaltee yn ynnyd-maynrys, tannaghtyn aynjee dy bragh.
+**10:26**  Dauesyn ta er n'yannoo mie ta mieys, as ny smoo. Cha jig dorraghys ny nearey er nyn eddin. Ad shoh cummaltee Paradise, tannaghtyn aynjee dy bragh.
 ۞ لِّلَّذِينَ أَحْسَنُوا۟ ٱلْحُسْنَىٰ وَزِيَادَةٌۭ ۖ وَلَا يَرْهَقُ وُجُوهَهُمْ قَتَرٌۭ وَلَا ذِلَّةٌ ۚ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 **10:27**  Agh dauesyn ta er chosney drogh-obbraghyn: cooilleeney dy olk gollrish, as nee nearey ad y choodaghey. Cha bee fendeilys erbee oc noi Jee — myr dy beagh nyn eddin coodit lesh peeshyn dorchagh yn oie. Ad shoh cummaltee yn aine, tannaghtyn aynjee dy bragh.
 وَٱلَّذِينَ كَسَبُوا۟ ٱلسَّيِّـَٔاتِ جَزَآءُ سَيِّئَةٍۭ بِمِثْلِهَا وَتَرْهَقُهُمْ ذِلَّةٌۭ ۖ مَّا لَهُم مِّنَ ٱللَّهِ مِنْ عَاصِمٍۢ ۖ كَأَنَّمَآ أُغْشِيَتْ وُجُوهُهُمْ قِطَعًۭا مِّنَ ٱلَّيْلِ مُظْلِمًا ۚ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ
@@ -5781,7 +5781,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 وَأَنْ أَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًۭا وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ
 **10:106**  As ny jean geam, cheumooie jeh Jee, er shen nagh vel jannoo mie dhyt ny olk dhyt. My nee oo shen, eisht ta oo mastey ny deiney neu-chairagh.
 وَلَا تَدْعُ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكَ وَلَا يَضُرُّكَ ۖ فَإِن فَعَلْتَ فَإِنَّكَ إِذًۭا مِّنَ ٱلظَّٰلِمِينَ
-**10:107**  My ta Jee bentyn rhyt lesh olk, cha vod peiagh erbee eh y ghoaill ersooyl agh eshyn. As my saillish eh mie dhyt, cha vod peiagh erbee e ghrayse y chur ergooyl. T'eh cur eh roshtyn huggeysyn saillish jeh ny sharvaantyn echey. She eshyn yn Er-leoddey, yn Er-chymmey.
+**10:107**  My ta Jee bentyn rhyt lesh olk, cha vod peiagh erbee eh y ghoaill ersooyl agh eshyn. As my saillish eh mie dhyt, cha vod peiagh erbee e ghrayse y chur ergooyl. T'eh cur eh roshtyn huggeysyn saillish jeh ny sharvaantyn echey. She eshyn yn Er-leoddey, yn Myghinagh.
 وَإِن يَمْسَسْكَ ٱللَّهُ بِضُرٍّۢ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَ ۖ وَإِن يُرِدْكَ بِخَيْرٍۢ فَلَا رَآدَّ لِفَضْلِهِۦ ۚ يُصِيبُ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۚ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 **10:108**  Abbyr: "O phobble, ta'n ynrickys er jeet hiuish veih'n Hiarn eu. Quoi-erbee ta goaill rish leeideil ta er ny leeideil son yn annym echey hene; as quoi-erbee ta goll er-shaghryn t'eh goll er-shaghryn agh son assee echey. Cha vel mish ny Er-freaill harrish shiuish."
 قُلْ يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُمُ ٱلْحَقُّ مِن رَّبِّكُمْ ۖ فَمَنِ ٱهْتَدَىٰ فَإِنَّمَا يَهْتَدِى لِنَفْسِهِۦ ۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۖ وَمَآ أَنَا۠ عَلَيْكُم بِوَكِيلٍۢ
@@ -5792,7 +5792,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **هُود** · Hud · Meckaagh · 123 rannaghyn
 *Hud as ny ashoonyn varroo: raaue nagh vel moyrn farraghtyn ny s'odjey na'n gheay.*
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 **11:1**  Alif, Lam, Ra. Lioar va ny raaghyn er ny yannoo slane, eisht er ny skeayley magh, veih Un ta Creeney as Fysagh.
 الٓر ۚ كِتَٰبٌ أُحْكِمَتْ ءَايَٰتُهُۥ ثُمَّ فُصِّلَتْ مِن لَّدُنْ حَكِيمٍ خَبِيرٍ
 **11:2**  Nagh jean shiu cur ooashley da peiagh erbee agh Jee. "Ta mish ny raaueyder hiuish veihsyn, as fer ta cur lhiam naight mie."
@@ -5837,7 +5837,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ
 **11:22**  Fegooish ourys, ayns y vea ry-heet, bee adsyn ny cailtee smoo.
 لَا جَرَمَ أَنَّهُمْ فِى ٱلْءَاخِرَةِ هُمُ ٱلْأَخْسَرُونَ
-**11:23**  Agh dauesyn ta credjal as jannoo obbraghyn mie, as ta injillaghey ad hene fenish y Hiarn oc — ad shoh cummaltee yn ynnyd-maynrys, raad nee ad tannaghtyn dy bragh.
+**11:23**  Agh dauesyn ta credjal as jannoo obbraghyn mie, as ta injillaghey ad hene fenish y Hiarn oc — ad shoh cummaltee Paradise, raad nee ad tannaghtyn dy bragh.
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَأَخْبَتُوٓا۟ إِلَىٰ رَبِّهِمْ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ ۖ هُمْ فِيهَا خَٰلِدُونَ
 **11:24**  Ta cosoylaght y daa phartee gollrish adsyn ta doal as adsyn ta bouyr, as adsyn ta fakin as adsyn ta clashtyn. Nee ad corrym ayns cosoylaght? Nagh jean shiu smooinaghtyn?
 ۞ مَثَلُ ٱلْفَرِيقَيْنِ كَٱلْأَعْمَىٰ وَٱلْأَصَمِّ وَٱلْبَصِيرِ وَٱلسَّمِيعِ ۚ هَلْ يَسْتَوِيَانِ مَثَلًا ۚ أَفَلَا تَذَكَّرُونَ
@@ -5873,7 +5873,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 فَسَوْفَ تَعْلَمُونَ مَن يَأْتِيهِ عَذَابٌۭ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌۭ مُّقِيمٌ
 **11:40**  Derrey, tra haink yn oardagh ain, as vrish y volcaan magh, dooyrt shin, "Gow-jee er-boord jees jeh dagh sorch, as yn vooinjer ayd — agh adsyn ta'n briwnys er jeet orroo hannah — as adsyn ta er chredjal." Agh cha v'ad syn ren credjal marish agh beggan.
 حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّۢ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ ۚ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا قَلِيلٌۭ
-**11:41**  Dooyrt eh, "Gow-jee er-boord aynjee. Ayns ennym Yee bee'n shiaull eck as yn ankerys eck. Ayns firrinys ta my Hiarn yn Er-leoddey as yn Er-chymmey."
+**11:41**  Dooyrt eh, "Gow-jee er-boord aynjee. Ayns ennym Yee bee'n shiaull eck as yn ankerys eck. Ayns firrinys ta my Hiarn yn Er-leoddey as yn Myghinagh."
 ۞ وَقَالَ ٱرْكَبُوا۟ فِيهَا بِسْمِ ٱللَّهِ مَجْر۪ىٰهَا وَمُرْسَىٰهَآ ۚ إِنَّ رَبِّى لَغَفُورٌۭ رَّحِيمٌۭ
 **11:42**  As myr shen hiaull eh lhieu maroo ayns tonnyn gollrish sleityn. As deie Noah er e vac, v'er n'gholl er-lheh, "O my vac! Gow er-boord marin, as ny bee marish ny mee-chredjuee."
 وَهِىَ تَجْرِى بِهِمْ فِى مَوْجٍۢ كَٱلْجِبَالِ وَنَادَىٰ نُوحٌ ٱبْنَهُۥ وَكَانَ فِى مَعْزِلٍۢ يَٰبُنَىَّ ٱرْكَب مَّعَنَا وَلَا تَكُن مَّعَ ٱلْكَٰفِرِينَ
@@ -5971,7 +5971,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 قَالَ يَٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَرَزَقَنِى مِنْهُ رِزْقًا حَسَنًۭا ۚ وَمَآ أُرِيدُ أَنْ أُخَالِفَكُمْ إِلَىٰ مَآ أَنْهَىٰكُمْ عَنْهُ ۚ إِنْ أُرِيدُ إِلَّا ٱلْإِصْلَٰحَ مَا ٱسْتَطَعْتُ ۚ وَمَا تَوْفِيقِىٓ إِلَّا بِٱللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ
 **11:89**  "O my phobble, ny lhig da'n noidys eu m'oi cur erriuish surranse shen ny ren pobble Noah surranse, ny pobble Hud, ny pobble Salih. Cha vel pobble Lot foddey veue."
 وَيَٰقَوْمِ لَا يَجْرِمَنَّكُمْ شِقَاقِىٓ أَن يُصِيبَكُم مِّثْلُ مَآ أَصَابَ قَوْمَ نُوحٍ أَوْ قَوْمَ هُودٍ أَوْ قَوْمَ صَٰلِحٍۢ ۚ وَمَا قَوْمُ لُوطٍۢ مِّنكُم بِبَعِيدٍۢ
-**11:90**  "As jean-jee geam er y Hiarn eu son leoddey, as gow-jee arrys huggey. Ta my Hiarn yn Er-chymmey as yn Er-ghraih."
+**11:90**  "As jean-jee geam er y Hiarn eu son leoddey, as gow-jee arrys huggey. Ta my Hiarn yn Myghinagh as yn Er-ghraih."
 وَٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ ۚ إِنَّ رَبِّى رَحِيمٌۭ وَدُودٌۭ
 **11:91**  Dooyrt ad, "O Shuayb, cha vel shin toiggal mooarane jeh shen ny t'ou gra, as ta shin fakin dy vel oo annoon nyn mast' ain. Mannagh ve son y chynney ayd, v'eh shin er chlaghey oo. Cha vel oo cooid erbee dooin."
 قَالُوا۟ يَٰشُعَيْبُ مَا نَفْقَهُ كَثِيرًۭا مِّمَّا تَقُولُ وَإِنَّا لَنَرَىٰكَ فِينَا ضَعِيفًۭا ۖ وَلَوْلَا رَهْطُكَ لَرَجَمْنَٰكَ ۖ وَمَآ أَنتَ عَلَيْنَا بِعَزِيزٍۢ
@@ -6044,7 +6044,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **يُوسُف** · Yusuf · Meckaagh · 111 rannaghyn
 *Joseph: yn skeeal s'aalin — eiyrtys magh, surranys, as çheet-ry-cheilley screeuit ro-laue.*
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 **12:1**  Alif, Lam, Ra. Ad shoh Raaghyn Yn Lioar Follit.
 الٓر ۚ تِلْكَ ءَايَٰتُ ٱلْكِتَٰبِ ٱلْمُبِينِ
 **12:2**  Ta shin er hoilshaghey eh ny Choraan Arabagh, dy vod shiu toiggal.
@@ -6149,7 +6149,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٰٔنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّٰدِقِينَ
 **12:52**  "Shoh dy vod eh toiggal nagh ren mee eh y vrah ayns folliaght, as nagh vel Jee leeideil saase ny brahderyn."
 ذَٰلِكَ لِيَعْلَمَ أَنِّى لَمْ أَخُنْهُ بِٱلْغَيْبِ وَأَنَّ ٱللَّهَ لَا يَهْدِى كَيْدَ ٱلْخَآئِنِينَ
-**12:53**  "Agh cha vel mee gra dy vel mee neu-chyndagh. Ta'n annym sarey olk, agh adsyn er ta my Hiarn er choyrt chymmey. Ayns firrinys ta my Hiarn yn Er-leoddey as yn Er-chymmey."
+**12:53**  "Agh cha vel mee gra dy vel mee neu-chyndagh. Ta'n annym sarey olk, agh adsyn er ta my Hiarn er choyrt chymmey. Ayns firrinys ta my Hiarn yn Er-leoddey as yn Myghinagh."
 ۞ وَمَآ أُبَرِّئُ نَفْسِىٓ ۚ إِنَّ ٱلنَّفْسَ لَأَمَّارَةٌۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّىٓ ۚ إِنَّ رَبِّى غَفُورٌۭ رَّحِيمٌۭ
 **12:54**  Dooyrt y ree, "Cur-jee lhiam eh hym's, as nee'm eh y hauail doo hene." As tra loayr eh rish, dooyrt eh, "Jiu t'ou marin hoiaghit as sauçhey."
 وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦٓ أَسْتَخْلِصْهُ لِنَفْسِى ۖ فَلَمَّا كَلَّمَهُۥ قَالَ إِنَّكَ ٱلْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌۭ
@@ -6239,7 +6239,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ
 **12:97**  Dooyrt ad, "Ayr, guee son leoddey ny peccaghyn ain; v'eh shin ayns failleil ayns firrinys."
 قَالُوا۟ يَٰٓأَبَانَا ٱسْتَغْفِرْ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا خَٰطِـِٔينَ
-**12:98**  Dooyrt eh, "Nee'm geam er my Hiarn dy leoddey diuish. She eshyn yn Er-leoddey, yn Er-chymmey."
+**12:98**  Dooyrt eh, "Nee'm geam er my Hiarn dy leoddey diuish. She eshyn yn Er-leoddey, yn Myghinagh."
 قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّىٓ ۖ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 **12:99**  Eisht, tra hie ad stiagh ayns enish Joseph, ghow eh e ayr as e voir ayns e roihaghyn, as dooyrt eh, "Gow-jee stiagh ayns Egypt, my saillish Jee, sauçhey as surral."
 فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ
@@ -6272,7 +6272,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **ٱلرَّعْد** · Ar-Ra'd · Medinaagh · 43 rannaghyn
 *Taarnagh ta moylley Jee — soilshean myr fliaghey, as creeaghyn ta geddyn fea ayns cooinaghtyn.*
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 **13:1**  Alif, Lam, Meem, Ra. Ad shoh cowraghyn Yn Lioar. Shen ny ta er ny hoilshaghey dhyt veih'n Hiarn ayd yn ynrickys, agh cha vel y chooid smoo dy leih credjal.
 الٓمٓر ۚ تِلْكَ ءَايَٰتُ ٱلْكِتَٰبِ ۗ وَٱلَّذِىٓ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ٱلْحَقُّ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ
 **13:2**  She Jee eshyn hrog ny niaughyn gyn pillaryn voddys shiu fakin, as eisht hoie eh er y stoyl-reeoil. As ren eh yn ghrian as yn eayst y reaghey, dagh unnane roie son traa pointit. T'eh reill ooilley ny cooishyn, as t'eh skeayley magh ny cowraghyn, dy vod shiu ve shickyr jeh'n çheet-quail lesh y Hiarn eu.
@@ -6332,7 +6332,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 ٱلَّذِينَ ءَامَنُوا۟ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ ٱللَّهِ ۗ أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ
 **13:29**  Dauesyn ta credjal as ta jannoo obbraghyn mie — daue ta sonnys as çhyndaa aalin.
 ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ طُوبَىٰ لَهُمْ وَحُسْنُ مَـَٔابٍۢ
-**13:30**  Myr shoh hug shin oo mastey ashoon roish ta ashoonyn elley er n'gholl shaghey, dy vod oo lhaih daue shen ny ren shin y hoilshaghey dhyt. Agh t'ad gobbal yn Er-ghraihagh. Abbyr, "She eshyn my Hiarn; cha vel jee erbee agh eshyn; aynjeesyn ta mee treishteil, as huggeysyn ta my arrys."
+**13:30**  Myr shoh hug shin oo mastey ashoon roish ta ashoonyn elley er n'gholl shaghey, dy vod oo lhaih daue shen ny ren shin y hoilshaghey dhyt. Agh t'ad gobbal yn Graysoil. Abbyr, "She eshyn my Hiarn; cha vel jee erbee agh eshyn; aynjeesyn ta mee treishteil, as huggeysyn ta my arrys."
 كَذَٰلِكَ أَرْسَلْنَٰكَ فِىٓ أُمَّةٍۢ قَدْ خَلَتْ مِن قَبْلِهَآ أُمَمٌۭ لِّتَتْلُوَا۟ عَلَيْهِمُ ٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَهُمْ يَكْفُرُونَ بِٱلرَّحْمَٰنِ ۚ قُلْ هُوَ رَبِّى لَآ إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ مَتَابِ
 **13:31**  Ga dy beagh Koraan ayn, liorish voddagh sleityn v'er nyn gleashagh, ny liorish voddagh y thalloo v'er ny vrishey, ny liorish voddagh ny merriu v'er ny chur dy loayrt. Ayns firrinys, ta dagh briwnys ec Jee. Nagh dug yn chredjuee seose as toiggal dy beagh toil Yee, v'eh er leeideil ooilley'n sleih? Nee seaghyn tannaghtyn bwoalley adsyn ta mee-chredjal, er-coontey jeh ny obbraghyn oc, ny tuittym ad faggys da ny thieyn oc, derrey hig gialdyn Yee ynrick. Cha vel Jee rieau brishey gialdyn.
 وَلَوْ أَنَّ قُرْءَانًۭا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ ۗ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًۭا ۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟ قَارِعَةٌ أَوْ تَحُلُّ قَرِيبًۭا مِّن دَارِهِمْ حَتَّىٰ يَأْتِىَ وَعْدُ ٱللَّهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ
@@ -6365,7 +6365,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **إِبْرَاهِيم** · Ibrahim · Meckaagh · 52 rannaghyn
 *Padjer Abraham son e chloan, as y cooinaghtyn dy vel booise cur bishaghey er y gioot.*
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 **14:1**  Alif, Lam, Ra. Lioar ren shin y hoilshaghey dhyt, dy vod oo'n sleih y chur veih dorraghys gys soilshey — lesh low y Hiarn oc — gys raad yn Ooilley-niartal, yn Moylit.
 الٓر ۚ كِتَٰبٌ أَنزَلْنَٰهُ إِلَيْكَ لِتُخْرِجَ ٱلنَّاسَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ بِإِذْنِ رَبِّهِمْ إِلَىٰ صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ
 **14:2**  Jee — dasyn ta shen ny ta ayns ny niaughyn as y thalloo. As smerg da'n vee-chredjee veih seaghyn gonnagh.
@@ -6436,7 +6436,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 وَءَاتَىٰكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ ۚ وَإِن تَعُدُّوا۟ نِعْمَتَ ٱللَّهِ لَا تُحْصُوهَآ ۗ إِنَّ ٱلْإِنسَٰنَ لَظَلُومٌۭ كَفَّارٌۭ
 **14:35**  Cooinaght dy dooyrt Abraham, "O my Hiarn, jean y çheer shoh sheeoil, as freill mish as my vec veih cur ooashley da jallooyn."
 وَإِذْ قَالَ إِبْرَٰهِيمُ رَبِّ ٱجْعَلْ هَٰذَا ٱلْبَلَدَ ءَامِنًۭا وَٱجْنُبْنِى وَبَنِىَّ أَن نَّعْبُدَ ٱلْأَصْنَامَ
-**14:36**  "My Hiarn, t'ad er leeideil ymmodee sleih er-shaghryn. Quoi-erbee ta geiyrt orrym t'eh marish; as quoi-erbee ta gobbal mish — she uss yn Er-leoddey as yn Er-chymmey.
+**14:36**  "My Hiarn, t'ad er leeideil ymmodee sleih er-shaghryn. Quoi-erbee ta geiyrt orrym t'eh marish; as quoi-erbee ta gobbal mish — she uss yn Er-leoddey as yn Myghinagh.
 رَبِّ إِنَّهُنَّ أَضْلَلْنَ كَثِيرًۭا مِّنَ ٱلنَّاسِ ۖ فَمَن تَبِعَنِى فَإِنَّهُۥ مِنِّى ۖ وَمَنْ عَصَانِى فَإِنَّكَ غَفُورٌۭ رَّحِيمٌۭ
 **14:37**  "Hiarn ain, ta mee er hoiaghey paart dy my sluight ayns glion gyn lossreeyn, ec dty Hie Casherick, Hiarn ain, dy vod ad padjer y yannoo. Shen-y-fa jean creeaghyn paart dy leih lhie huggey oc, as cur beaghey daue lesh messyn, dy vod ad booise y choyrt."
 رَّبَّنَآ إِنِّىٓ أَسْكَنتُ مِن ذُرِّيَّتِى بِوَادٍ غَيْرِ ذِى زَرْعٍ عِندَ بَيْتِكَ ٱلْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا۟ ٱلصَّلَوٰةَ فَٱجْعَلْ أَفْـِٔدَةًۭ مِّنَ ٱلنَّاسِ تَهْوِىٓ إِلَيْهِمْ وَٱرْزُقْهُم مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَشْكُرُونَ
@@ -6481,7 +6481,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **15:1**  Alif, Laam, Raa. Shoh raaghyn Yn Lioar; Koraan ta jannoo reddyn cronnal.
 
@@ -6675,7 +6675,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 لَا يَمَسُّهُمْ فِيهَا نَصَبٌۭ وَمَا هُم مِّنْهَا بِمُخْرَجِينَ
 
-**15:49**  Cur fys da my harvaantyn dy nee mish yn Fer-leoddey, yn Er-chymmey.
+**15:49**  Cur fys da my harvaantyn dy nee mish yn Fer-leoddey, yn Myghinagh.
 
 ۞ نَبِّئْ عِبَادِىٓ أَنِّىٓ أَنَا ٱلْغَفُورُ ٱلرَّحِيمُ
 
@@ -6888,7 +6888,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **16:1**  Ta sarey Yee er jeet, myr shen ny jean-jee siyr eh. Gloyr dhysyn; aarjit erskyn ny t'ad cur marish.
 
@@ -6958,7 +6958,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 أَفَمَن يَخْلُقُ كَمَن لَّا يَخْلُقُ ۗ أَفَلَا تَذَكَّرُونَ
 
-**16:18**  As dy brish shiu dy earroo foayryn Yee, cha voddish shiu ad y earroo. Ta Jee yn Fer-leoddey as yn Er-chymmey.
+**16:18**  As dy brish shiu dy earroo foayryn Yee, cha voddish shiu ad y earroo. Ta Jee yn Fer-leoddey as yn Myghinagh.
 
 وَإِن تَعُدُّوا۟ نِعْمَةَ ٱللَّهِ لَا تُحْصُوهَآ ۗ إِنَّ ٱللَّهَ لَغَفُورٌۭ رَّحِيمٌۭ
 
@@ -7014,7 +7014,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 جَنَّٰتُ عَدْنٍۢ يَدْخُلُونَهَا تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۖ لَهُمْ فِيهَا مَا يَشَآءُونَ ۚ كَذَٰلِكَ يَجْزِى ٱللَّهُ ٱلْمُتَّقِينَ
 
-**16:32**  Nyn ta ayns stayd slane tra ta ny ainlyn goaill ad — jir ad: "Shee erriu; gow-jee stiagh ayns ynnyd-maynrys, son ny va cliaghtey eu y yannoo."
+**16:32**  Nyn ta ayns stayd slane tra ta ny ainlyn goaill ad — jir ad: "Shee erriu; gow-jee stiagh ayns Paradise, son ny va cliaghtey eu y yannoo."
 
 ٱلَّذِينَ تَتَوَفَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ طَيِّبِينَ ۙ يَقُولُونَ سَلَٰمٌ عَلَيْكُمُ ٱدْخُلُوا۟ ٱلْجَنَّةَ بِمَا كُنتُمْ تَعْمَلُونَ
 
@@ -7327,7 +7327,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 لَا جَرَمَ أَنَّهُمْ فِى ٱلْءَاخِرَةِ هُمُ ٱلْخَٰسِرُونَ
 
-**16:110**  Agh eisht dty Hiarn — dasyn ren arraghey lurg ve tranlaasit, eisht ren streeu as hurrit — ta dty Hiarn lurg shen yn Fer-leoddey as yn Er-chymmey.
+**16:110**  Agh eisht dty Hiarn — dasyn ren arraghey lurg ve tranlaasit, eisht ren streeu as hurrit — ta dty Hiarn lurg shen yn Fer-leoddey as yn Myghinagh.
 
 ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ هَاجَرُوا۟ مِنۢ بَعْدِ مَا فُتِنُوا۟ ثُمَّ جَٰهَدُوا۟ وَصَبَرُوٓا۟ إِنَّ رَبَّكَ مِنۢ بَعْدِهَا لَغَفُورٌۭ رَّحِيمٌۭ
 
@@ -7347,7 +7347,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 فَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَٰلًۭا طَيِّبًۭا وَٱشْكُرُوا۟ نِعْمَتَ ٱللَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ
 
-**16:115**  T'eh er choyrley diu feill varroo, as fuill, as feill vuc, as red erbee er ny hebbal da fer elley agh Jee. Agh my ta unnane er ny eignaghey liorish feme, gyn ve kiarit ny olkyssagh, eisht ta Jee yn Fer-leoddey as yn Er-chymmey.
+**16:115**  T'eh er choyrley diu feill varroo, as fuill, as feill vuc, as red erbee er ny hebbal da fer elley agh Jee. Agh my ta unnane er ny eignaghey liorish feme, gyn ve kiarit ny olkyssagh, eisht ta Jee yn Fer-leoddey as yn Myghinagh.
 
 إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ
 
@@ -7363,7 +7363,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا مَا قَصَصْنَا عَلَيْكَ مِن قَبْلُ ۖ وَمَا ظَلَمْنَٰهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
 
-**16:119**  Agh gys ny ta jannoo olk ayns an-tushtey, as eisht jannoo arrys lurg shen as caghlaa, ta dty Hiarn lurg shen yn Fer-leoddey as yn Er-chymmey.
+**16:119**  Agh gys ny ta jannoo olk ayns an-tushtey, as eisht jannoo arrys lurg shen as caghlaa, ta dty Hiarn lurg shen yn Fer-leoddey as yn Myghinagh.
 
 ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ عَمِلُوا۟ ٱلسُّوٓءَ بِجَهَٰلَةٍۢ ثُمَّ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ وَأَصْلَحُوٓا۟ إِنَّ رَبَّكَ مِنۢ بَعْدِهَا لَغَفُورٌۭ رَّحِيمٌ
 
@@ -7412,7 +7412,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **17:1**  Gloyr dhysyn hug e harvaant er turryss ayns yn oie, veih'n Thie-padjer Casherick, gys yn Thie-padjer Sodjey-magh, ta shin er vannaghey mygeayrt echey, dy hoilshaghey da jeh nyn yindyssyn. She eshyn yn Clashtagh, yn Jeeaghagh.
 
@@ -7852,7 +7852,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 *[tuittym — coyrle]*
 
-**17:110**  Abbyr: "Eie-jee er myr Jee, ny eie-jee er myr yn Er-ghraihagh. Cre'n ennym erbee ta shiu ymmyd, lesyn ta ny Enmyn Share." As ny bee corrym ard ayns dty phadjer, as ny bee feer host, agh eiyr er coorse eddyr.
+**17:110**  Abbyr: "Eie-jee er myr Jee, ny eie-jee er myr yn Graysoil. Cre'n ennym erbee ta shiu ymmyd, lesyn ta ny Enmyn Share." As ny bee corrym ard ayns dty phadjer, as ny bee feer host, agh eiyr er coorse eddyr.
 
 قُلِ ٱدْعُوا۟ ٱللَّهَ أَوِ ٱدْعُوا۟ ٱلرَّحْمَٰنَ ۖ أَيًّۭا مَّا تَدْعُوا۟ فَلَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ ۚ وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَٱبْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًۭا
 
@@ -7869,7 +7869,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **18:1**  Moylley da Jee, hug sheese Yn Lioar da e harvaant, as cha row cammidys erbee ayn.
 
@@ -7951,7 +7951,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 إِنَّهُمْ إِن يَظْهَرُوا۟ عَلَيْكُمْ يَرْجُمُوكُمْ أَوْ يُعِيدُوكُمْ فِى مِلَّتِهِمْ وَلَن تُفْلِحُوٓا۟ إِذًا أَبَدًۭا
 
-**18:21**  Myr shen va eh, dy dug shin orroo ve er ny gheddyn magh, dy beagh fys oc dy vel gialdyn Yee firrinagh, as nagh vel ourys erbee mychione yn Oor. Myr v'ad streeu nyn gooishey mast' oc hene, dooyrt ad: "Trogg-jee harrystoo thie-troggal." Ta fys share ec nyn Hiarn mychione oc. Dooyrt ny haink er-black harrish nyn gooishey: "Nee mayd soiaghey seose harrystoo thie-padjer."
+**18:21**  Myr shen va eh, dy dug shin orroo ve er ny gheddyn magh, dy beagh fys oc dy vel gialdyn Yee firrinagh, as nagh vel ourys erbee mychione yn Oor. Myr v'ad streeu nyn gooishey mast' oc hene, dooyrt ad: "Trogg-jee harrystoo thie-troggal." Ta fys share ec nyn Hiarn mychione oc. Dooyrt ny haink er-black harrish nyn gooishey: "Nee mayd soiaghey seose harrystoo chiamble."
 
 وَكَذَٰلِكَ أَعْثَرْنَا عَلَيْهِمْ لِيَعْلَمُوٓا۟ أَنَّ وَعْدَ ٱللَّهِ حَقٌّۭ وَأَنَّ ٱلسَّاعَةَ لَا رَيْبَ فِيهَآ إِذْ يَتَنَٰزَعُونَ بَيْنَهُمْ أَمْرَهُمْ ۖ فَقَالُوا۟ ٱبْنُوا۟ عَلَيْهِم بُنْيَٰنًۭا ۖ رَّبُّهُمْ أَعْلَمُ بِهِمْ ۚ قَالَ ٱلَّذِينَ غَلَبُوا۟ عَلَىٰٓ أَمْرِهِمْ لَنَتَّخِذَنَّ عَلَيْهِم مَّسْجِدًۭا
 
@@ -8099,7 +8099,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَمَنْ أَظْلَمُ مِمَّن ذُكِّرَ بِـَٔايَٰتِ رَبِّهِۦ فَأَعْرَضَ عَنْهَا وَنَسِىَ مَا قَدَّمَتْ يَدَاهُ ۚ إِنَّا جَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًۭا ۖ وَإِن تَدْعُهُمْ إِلَى ٱلْهُدَىٰ فَلَن يَهْتَدُوٓا۟ إِذًا أَبَدًۭا
 
-**18:58**  She'n Hiarn eu yn Fer-leoddey, Er-chymmey. Dy beagh eh ad y eam gys coontey son ny t'ad er chosney, veagh eh er hiyraghey'n kerraghey daue. Agh ta çhaglym oc veih nagh vow ad çhea erbee.
+**18:58**  She'n Hiarn eu yn Fer-leoddey, Myghinagh. Dy beagh eh ad y eam gys coontey son ny t'ad er chosney, veagh eh er hiyraghey'n kerraghey daue. Agh ta çhaglym oc veih nagh vow ad çhea erbee.
 
 وَرَبُّكَ ٱلْغَفُورُ ذُو ٱلرَّحْمَةِ ۖ لَوْ يُؤَاخِذُهُم بِمَا كَسَبُوا۟ لَعَجَّلَ لَهُمُ ٱلْعَذَابَ ۚ بَل لَّهُم مَّوْعِدٌۭ لَّن يَجِدُوا۟ مِن دُونِهِۦ مَوْئِلًۭا
 
@@ -8323,7 +8323,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **19:1**  Kaf, Ha, Ya, Ayn, Saad.
 
@@ -8392,7 +8392,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **19:17**  Ren ee ee hene y ollaghey veih oc, as hug shin gys ee nyn spyrryd, as haink eh kiongoyrt r'ee myr dooinney glen.
 
 فَٱتَّخَذَتْ مِن دُونِهِمْ حِجَابًۭا فَأَرْسَلْنَآ إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًۭا سَوِيًّۭا
-**19:18**  Dooyrt ee: "Ta mee goaill fastee void ayns yn Er-ghraihagh, my t'ou cair."
+**19:18**  Dooyrt ee: "Ta mee goaill fastee void ayns yn Graysoil, my t'ou cair."
 
 قَالَتْ إِنِّىٓ أَعُوذُ بِٱلرَّحْمَٰنِ مِنكَ إِن كُنتَ تَقِيًّۭا
 
@@ -8424,7 +8424,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَهُزِّىٓ إِلَيْكِ بِجِذْعِ ٱلنَّخْلَةِ تُسَٰقِطْ عَلَيْكِ رُطَبًۭا جَنِيًّۭا
 
-**19:26**  "Ee, as iu, as bee gerjoil. As my hee oo dooinney erbee, abbyr, 'Ta mee er vreearrey trostey da'n Er-ghraihagh, my shen cha loayr-ym rish dooinney erbee jiu.'"
+**19:26**  "Ee, as iu, as bee gerjoil. As my hee oo dooinney erbee, abbyr, 'Ta mee er vreearrey trostey da'n Graysoil, my shen cha loayr-ym rish dooinney erbee jiu.'"
 
 فَكُلِى وَٱشْرَبِى وَقَرِّى عَيْنًۭا ۖ فَإِمَّا تَرَيِنَّ مِنَ ٱلْبَشَرِ أَحَدًۭا فَقُولِىٓ إِنِّى نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًۭا فَلَنْ أُكَلِّمَ ٱلْيَوْمَ إِنسِيًّۭا
 
@@ -8495,11 +8495,11 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 يَٰٓأَبَتِ إِنِّى قَدْ جَآءَنِى مِنَ ٱلْعِلْمِ مَا لَمْ يَأْتِكَ فَٱتَّبِعْنِىٓ أَهْدِكَ صِرَٰطًۭا سَوِيًّۭا
 
-**19:44**  "O my ayr, ny cur ooashley da'n drogh-spyrryd. Ta'n drogh-spyrryd mee-viallagh da'n Er-ghraihagh."
+**19:44**  "O my ayr, ny cur ooashley da'n drogh-spyrryd. Ta'n drogh-spyrryd mee-viallagh da'n Graysoil."
 
 يَٰٓأَبَتِ لَا تَعْبُدِ ٱلشَّيْطَٰنَ ۖ إِنَّ ٱلشَّيْطَٰنَ كَانَ لِلرَّحْمَٰنِ عَصِيًّۭا
 
-**19:45**  "O my ayr, ta aggle orrym dy jean kerraghey veih'n Er-ghraihagh oo y vwoalley, as dy bee oo dty charrey da'n drogh-spyrryd."
+**19:45**  "O my ayr, ta aggle orrym dy jean kerraghey veih'n Graysoil oo y vwoalley, as dy bee oo dty charrey da'n drogh-spyrryd."
 
 يَٰٓأَبَتِ إِنِّىٓ أَخَافُ أَن يَمَسَّكَ عَذَابٌۭ مِّنَ ٱلرَّحْمَٰنِ فَتَكُونَ لِلشَّيْطَٰنِ وَلِيًّۭا
 
@@ -8550,7 +8550,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَرَفَعْنَٰهُ مَكَانًا عَلِيًّا
 
-**19:58**  Ad shoh paart jeh ny phadeyryn ta Jee er vannaghey, veih sluight Adam, as veih adsyn ren shin y ymmyrkey marish Noah, as veih sluight Abraham as Israil, as veih adsyn ren shin y leeideil as y reih. Choud's vees soilshaghyn yn Er-ghraihagh er ny lhaih daue, huit ad sheese, goaill tuittym as keayney.  
+**19:58**  Ad shoh paart jeh ny phadeyryn ta Jee er vannaghey, veih sluight Adam, as veih adsyn ren shin y ymmyrkey marish Noah, as veih sluight Abraham as Israil, as veih adsyn ren shin y leeideil as y reih. Choud's vees soilshaghyn yn Graysoil er ny lhaih daue, huit ad sheese, goaill tuittym as keayney.  
 *[tuittym — coyrle]*
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩
@@ -8559,11 +8559,11 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 ۞ فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ أَضَاعُوا۟ ٱلصَّلَوٰةَ وَٱتَّبَعُوا۟ ٱلشَّهَوَٰتِ ۖ فَسَوْفَ يَلْقَوْنَ غَيًّا
 
-**19:60**  Cheu-mooie jeusyn ta goll er ash, as credjal, as jannoo obbraghyn cairagh. Hed ad shoh stiagh ayns ynnyd-maynrys, as cha bee ad er ny an-chairaghey ayns red erbee.
+**19:60**  Cheu-mooie jeusyn ta goll er ash, as credjal, as jannoo obbraghyn cairagh. Hed ad shoh stiagh ayns Paradise, as cha bee ad er ny an-chairaghey ayns red erbee.
 
 إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحًۭا فَأُو۟لَٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ شَيْـًۭٔا
 
-**19:61**  Garaghyn Eden, gialdynit liorish yn Er-ghraihagh da e harvaantyn ayns yn Neu-akin. Hig e ghialdyn dy shickyr dy ve cooilleenit.
+**19:61**  Garaghyn Eden, gialdynit liorish yn Graysoil da e harvaantyn ayns yn Neu-akin. Hig e ghialdyn dy shickyr dy ve cooilleenit.
 
 جَنَّٰتِ عَدْنٍ ٱلَّتِى وَعَدَ ٱلرَّحْمَٰنُ عِبَادَهُۥ بِٱلْغَيْبِ ۚ إِنَّهُۥ كَانَ وَعْدُهُۥ مَأْتِيًّۭا
 
@@ -8571,7 +8571,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 لَّا يَسْمَعُونَ فِيهَا لَغْوًا إِلَّا سَلَٰمًۭا ۖ وَلَهُمْ رِزْقُهُمْ فِيهَا بُكْرَةًۭ وَعَشِيًّۭا
 
-**19:63**  Lheid ynnyd-maynrys ta shin goll dy choyrt myr eiraght dauesyn jeh nyn sharvaantyn ta crauee.
+**19:63**  Lheid Paradise ta shin goll dy choyrt myr eiraght dauesyn jeh nyn sharvaantyn ta crauee.
 
 تِلْكَ ٱلْجَنَّةُ ٱلَّتِى نُورِثُ مِنْ عِبَادِنَا مَن كَانَ تَقِيًّۭا
 
@@ -8595,7 +8595,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 فَوَرَبِّكَ لَنَحْشُرَنَّهُمْ وَٱلشَّيَٰطِينَ ثُمَّ لَنُحْضِرَنَّهُمْ حَوْلَ جَهَنَّمَ جِثِيًّۭا
 
-**19:69**  Eisht, magh ass dagh partee, nee mayd adsyn y snaie ersooyl ta smoo roonagh noi'n Er-ghraihagh.
+**19:69**  Eisht, magh ass dagh partee, nee mayd adsyn y snaie ersooyl ta smoo roonagh noi'n Graysoil.
 
 ثُمَّ لَنَنزِعَنَّ مِن كُلِّ شِيعَةٍ أَيُّهُمْ أَشَدُّ عَلَى ٱلرَّحْمَٰنِ عِتِيًّۭا
 
@@ -8618,7 +8618,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَحْسَنُ أَثَٰثًۭا وَرِءْيًۭا
 
-**19:75**  Abbyr: "Quoi-erbee ta ayns shaghrynys, nee'n Er-ghraihagh eh y leeideil er oaie." Derrey, tra hee ad shen va gialdynit daue—ny kerraghey, ny'n Oor. Eisht bee fys oc quoi v'eh ayns ynnyd smessey as annoonney ayns forsaghyn.
+**19:75**  Abbyr: "Quoi-erbee ta ayns shaghrynys, nee'n Graysoil eh y leeideil er oaie." Derrey, tra hee ad shen va gialdynit daue—ny kerraghey, ny'n Oor. Eisht bee fys oc quoi v'eh ayns ynnyd smessey as annoonney ayns forsaghyn.
 
 قُلْ مَن كَانَ فِى ٱلضَّلَٰلَةِ فَلْيَمْدُدْ لَهُ ٱلرَّحْمَٰنُ مَدًّا ۚ حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ إِمَّا ٱلْعَذَابَ وَإِمَّا ٱلسَّاعَةَ فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّۭ مَّكَانًۭا وَأَضْعَفُ جُندًۭا
 
@@ -8630,7 +8630,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 أَفَرَءَيْتَ ٱلَّذِى كَفَرَ بِـَٔايَٰتِنَا وَقَالَ لَأُوتَيَنَّ مَالًۭا وَوَلَدًا
 
-**19:78**  Nagh jeeagh eh stiagh ayns y traa ry-heet, ny nagh d'ooar eh gialdyn veih'n Er-ghraihagh?
+**19:78**  Nagh jeeagh eh stiagh ayns y traa ry-heet, ny nagh d'ooar eh gialdyn veih'n Graysoil?
 
 أَطَّلَعَ ٱلْغَيْبَ أَمِ ٱتَّخَذَ عِندَ ٱلرَّحْمَٰنِ عَهْدًۭا
 
@@ -8658,7 +8658,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 فَلَا تَعْجَلْ عَلَيْهِمْ ۖ إِنَّمَا نَعُدُّ لَهُمْ عَدًّۭا
 
-**19:85**  Er y Laa nee mayd ny cairagh y haglym gys yn Er-ghraihagh, myr goaldee.
+**19:85**  Er y Laa nee mayd ny cairagh y haglym gys yn Graysoil, myr goaldee.
 
 يَوْمَ نَحْشُرُ ٱلْمُتَّقِينَ إِلَى ٱلرَّحْمَٰنِ وَفْدًۭا
 
@@ -8666,11 +8666,11 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَنَسُوقُ ٱلْمُجْرِمِينَ إِلَىٰ جَهَنَّمَ وِرْدًۭا
 
-**19:87**  Cha bee pooar eddyr-ghuie oc, cheu-mooie jeh unnane ta conaant echey lesh yn Er-ghraihagh.
+**19:87**  Cha bee pooar eddyr-ghuie oc, cheu-mooie jeh unnane ta conaant echey lesh yn Graysoil.
 
 لَّا يَمْلِكُونَ ٱلشَّفَٰعَةَ إِلَّا مَنِ ٱتَّخَذَ عِندَ ٱلرَّحْمَٰنِ عَهْدًۭا
 
-**19:88**  As t'ad gra, "Ta'n Er-ghraihagh er gheddyn mac."
+**19:88**  As t'ad gra, "Ta'n Graysoil er gheddyn mac."
 
 وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًۭا
 
@@ -8682,15 +8682,15 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 تَكَادُ ٱلسَّمَٰوَٰتُ يَتَفَطَّرْنَ مِنْهُ وَتَنشَقُّ ٱلْأَرْضُ وَتَخِرُّ ٱلْجِبَالُ هَدًّا
 
-**19:91**  Er-y-fa dy vel ad cur mac gys yn Er-ghraihagh.
+**19:91**  Er-y-fa dy vel ad cur mac gys yn Graysoil.
 
 أَن دَعَوْا۟ لِلرَّحْمَٰنِ وَلَدًۭا
 
-**19:92**  Cha vel eh corrym da'n Er-ghraihagh mac y ve echey.
+**19:92**  Cha vel eh corrym da'n Graysoil mac y ve echey.
 
 وَمَا يَنۢبَغِى لِلرَّحْمَٰنِ أَن يَتَّخِذَ وَلَدًا
 
-**19:93**  Cha vel unnane erbee ayns ny niaun as y thalloo nagh jig gys yn Er-ghraihagh myr sharvaant.
+**19:93**  Cha vel unnane erbee ayns ny niaun as y thalloo nagh jig gys yn Graysoil myr sharvaant.
 
 إِن كُلُّ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ إِلَّآ ءَاتِى ٱلرَّحْمَٰنِ عَبْدًۭا
 
@@ -8702,7 +8702,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَكُلُّهُمْ ءَاتِيهِ يَوْمَ ٱلْقِيَٰمَةِ فَرْدًا
 
-**19:96**  Adsyn ta credjal as jannoo obbraghyn cairagh, nee'n Er-ghraihagh graih y choyrt daue.
+**19:96**  Adsyn ta credjal as jannoo obbraghyn cairagh, nee'n Graysoil graih y choyrt daue.
 
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ سَيَجْعَلُ لَهُمُ ٱلرَّحْمَٰنُ وُدًّۭا
 
@@ -8723,7 +8723,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **20:1**  Ta, Ha.
 
@@ -8741,7 +8741,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 تَنزِيلًۭا مِّمَّنْ خَلَقَ ٱلْأَرْضَ وَٱلسَّمَٰوَٰتِ ٱلْعُلَى
 
-**20:5**  Yn Er-ghraihagh; er y Stoyl-reeoil hoie eh.
+**20:5**  Yn Graysoil; er y Stoyl-reeoil hoie eh.
 
 ٱلرَّحْمَٰنُ عَلَى ٱلْعَرْشِ ٱسْتَوَىٰ
 
@@ -9079,7 +9079,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًۭا وَلَا يَمْلِكُ لَهُمْ ضَرًّۭا وَلَا نَفْعًۭا
 
-**20:90**  Va Aaron er ghra roo roish, "O my phobble, ta shiu er nyn browal liorish shoh. As ta'n Hiarn eu yn Er-ghraihagh, my shen eiyr-jee orrym, as bee-jee biallagh da my harey."
+**20:90**  Va Aaron er ghra roo roish, "O my phobble, ta shiu er nyn browal liorish shoh. As ta'n Hiarn eu yn Graysoil, my shen eiyr-jee orrym, as bee-jee biallagh da my harey."
 
 وَلَقَدْ قَالَ لَهُمْ هَٰرُونُ مِن قَبْلُ يَٰقَوْمِ إِنَّمَا فُتِنتُم بِهِۦ ۖ وَإِنَّ رَبَّكُمُ ٱلرَّحْمَٰنُ فَٱتَّبِعُونِى وَأَطِيعُوٓا۟ أَمْرِى
 
@@ -9151,10 +9151,10 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 لَّا تَرَىٰ فِيهَا عِوَجًۭا وَلَآ أَمْتًۭا
 
-**20:108**  Er y Laa shen, nee ad yn eamagh y eiyrt, gyn cleayney erbee. Bee ny coraanyn er ny injillaghey roish yn Er-ghraihagh, as cha glin oo agh sannish.
+**20:108**  Er y Laa shen, nee ad yn eamagh y eiyrt, gyn cleayney erbee. Bee ny coraanyn er ny injillaghey roish yn Graysoil, as cha glin oo agh sannish.
 
 يَوْمَئِذٍۢ يَتَّبِعُونَ ٱلدَّاعِىَ لَا عِوَجَ لَهُۥ ۖ وَخَشَعَتِ ٱلْأَصْوَاتُ لِلرَّحْمَٰنِ فَلَا تَسْمَعُ إِلَّا هَمْسًۭا
-**20:109**  Er y Laa shen, cha bee eddyr-ghuie vondeishagh, cheu-mooie dasyn ta kiedit liorish yn Er-chymmey, as ny goan t'eh er hoiaghey lesh.
+**20:109**  Er y Laa shen, cha bee eddyr-ghuie vondeishagh, cheu-mooie dasyn ta kiedit liorish yn Myghinagh, as ny goan t'eh er hoiaghey lesh.
 
 يَوْمَئِذٍۢ لَّا تَنفَعُ ٱلشَّفَٰعَةُ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَٰنُ وَرَضِىَ لَهُۥ قَوْلًۭا
 
@@ -9271,7 +9271,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **21:1**  Ta coontey yn theihll er jeet er-gerrey, agh t'ad çhyndaa ersooyl neuviggal.
 
@@ -9373,7 +9373,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِىٓ إِلَيْهِ أَنَّهُۥ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعْبُدُونِ
 
-**21:26**  As t'ad gra, "Ta'n Er-ghraihagh er ghoaill mac huggey hene." Gloyr da; cha vel ad agh sharvaantyn ooashlit.
+**21:26**  As t'ad gra, "Ta'n Graysoil er ghoaill mac huggey hene." Gloyr da; cha vel ad agh sharvaantyn ooashlit.
 
 وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًۭا ۗ سُبْحَٰنَهُۥ ۚ بَلْ عِبَادٌۭ مُّكْرَمُونَ
 
@@ -9413,7 +9413,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 كُلُّ نَفْسٍۢ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةًۭ ۖ وَإِلَيْنَا تُرْجَعُونَ
 
-**21:36**  Tra ta adsyn ta mee-chredjal oo y vakin, cha vel ad oo y ghoaill agh lesh craidey: "Nagh shoh eshyn ta cur cooinaghtyn er nyn yeeghyn?" As t'ad cur cooinaghtyn yn Er-chymmey naardey.
+**21:36**  Tra ta adsyn ta mee-chredjal oo y vakin, cha vel ad oo y ghoaill agh lesh craidey: "Nagh shoh eshyn ta cur cooinaghtyn er nyn yeeghyn?" As t'ad cur cooinaghtyn yn Myghinagh naardey.
 
 وَإِذَا رَءَاكَ ٱلَّذِينَ كَفَرُوٓا۟ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِى يَذْكُرُ ءَالِهَتَكُمْ وَهُم بِذِكْرِ ٱلرَّحْمَٰنِ هُمْ كَٰفِرُونَ
 
@@ -9437,7 +9437,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍۢ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-**21:42**  Abbyr, "Quoi ta shiu y choadey noi'n Er-chymmey ayns yn oie as ayns y laa?" Agh t'ad çhyndaa ersooyl veih cooinaghtyn nyn Hiarn.
+**21:42**  Abbyr, "Quoi ta shiu y choadey noi'n Myghinagh ayns yn oie as ayns y laa?" Agh t'ad çhyndaa ersooyl veih cooinaghtyn nyn Hiarn.
 
 قُلْ مَن يَكْلَؤُكُم بِٱلَّيْلِ وَٱلنَّهَارِ مِنَ ٱلرَّحْمَٰنِ ۗ بَلْ هُمْ عَن ذِكْرِ رَبِّهِم مُّعْرِضُونَ
 
@@ -9600,7 +9600,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَمِنَ ٱلشَّيَٰطِينِ مَن يَغُوصُونَ لَهُۥ وَيَعْمَلُونَ عَمَلًۭا دُونَ ذَٰلِكَ ۖ وَكُنَّا لَهُمْ حَٰفِظِينَ
 
-**21:83**  As Job, tra d'eam eh er e Hiarn: "Ta olk mooar er ventyn rhym, as uss yn Er-smoo-chymmey jeh ooilley ny er-chymmey."
+**21:83**  As Job, tra d'eam eh er e Hiarn: "Ta olk mooar er ventyn rhym, as uss yn Myghinagh Smoo jeh ooilley ny myghinagh."
 
 ۞ وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلضُّرُّ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ
 
@@ -9715,7 +9715,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَإِنْ أَدْرِى لَعَلَّهُۥ فِتْنَةٌۭ لَّكُمْ وَمَتَٰعٌ إِلَىٰ حِينٍۢ
 
-**21:112**  Dooyrt eh, "My Hiarn, cur briwnys lesh cairys." As, "Ta'n Hiarn ain yn Er-ghraihagh, Eshyn ta cooney er ny hirrey echey noi shen ny ta shiu cur er."
+**21:112**  Dooyrt eh, "My Hiarn, cur briwnys lesh cairys." As, "Ta'n Hiarn ain yn Graysoil, Eshyn ta cooney er ny hirrey echey noi shen ny ta shiu cur er."
 
 قَٰلَ رَبِّ ٱحْكُم بِٱلْحَقِّ ۗ وَرَبُّنَا ٱلرَّحْمَٰنُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ
 
@@ -9728,7 +9728,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **22:1**  O phobble, bee-jee arrymagh roish y Hiarn eu. Ta craa'n Oor ny red atçhimagh.
 
@@ -10049,11 +10049,11 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 **ٱلْمُؤْمِنُون** · Al-Mu'minun · Meckaagh · 118 rannaghyn
 
-*Yn chredjuee ta shooyl dy ummyr, freayll ny gialdynyn oc, as geddyn eiraght ynnyd-maynrys.*
+*Yn chredjuee ta shooyl dy ummyr, freayll ny gialdynyn oc, as geddyn eiraght Paradise.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **23:1**  Raahoil ta'n chredjuee.
 
@@ -10095,7 +10095,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 أُو۟لَٰٓئِكَ هُمُ ٱلْوَٰرِثُونَ
 
-**23:11**  Adsyn nee eiraght ynnyd-maynrys, as nee ad cummal ayn dy bragh.
+**23:11**  Adsyn nee eiraght Paradise, as nee ad cummal ayn dy bragh.
 
 ٱلَّذِينَ يَرِثُونَ ٱلْفِرْدَوْسَ هُمْ فِيهَا خَٰلِدُونَ
 
@@ -10537,7 +10537,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **24:1**  Kione ta shin er hoilshaghey, as er chur shegin er, as er hoilshaghey ayn Cowraghyn hoilshagh, dy voddagh shiu goaill coyrle.
 
@@ -10805,7 +10805,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **25:1**  Bannit T'eshyn hug neose Yn Scarrey er e harvaant, dy ve raaue da'n theihll.
 
@@ -10899,7 +10899,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَقَدِمْنَآ إِلَىٰ مَا عَمِلُوا۟ مِنْ عَمَلٍۢ فَجَعَلْنَٰهُ هَبَآءًۭ مَّنثُورًا
 
-**25:24**  Bee commee ynnyd-maynrys er y Laa shen ny share soiaghit, as ny share aaghit.
+**25:24**  Bee commee Paradise er y Laa shen ny share soiaghit, as ny share aaghit.
 
 أَصْحَٰبُ ٱلْجَنَّةِ يَوْمَئِذٍ خَيْرٌۭ مُّسْتَقَرًّۭا وَأَحْسَنُ مَقِيلًۭا
 
@@ -10907,7 +10907,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَيَوْمَ تَشَقَّقُ ٱلسَّمَآءُ بِٱلْغَمَٰمِ وَنُزِّلَ ٱلْمَلَٰٓئِكَةُ تَنزِيلًا
 
-**25:26**  Er y Laa shen, bee'n reill ynrick lesh yn Er-chymmey, as bee eh Laa doillee son y mee-chredjuee.
+**25:26**  Er y Laa shen, bee'n reill ynrick lesh yn Myghinagh, as bee eh Laa doillee son y mee-chredjuee.
 
 ٱلْمُلْكُ يَوْمَئِذٍ ٱلْحَقُّ لِلرَّحْمَٰنِ ۚ وَكَانَ يَوْمًا عَلَى ٱلْكَٰفِرِينَ عَسِيرًۭا
 
@@ -11039,11 +11039,11 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَتَوَكَّلْ عَلَى ٱلْحَىِّ ٱلَّذِى لَا يَمُوتُ وَسَبِّحْ بِحَمْدِهِۦ ۚ وَكَفَىٰ بِهِۦ بِذُنُوبِ عِبَادِهِۦ خَبِيرًا
 
-**25:59**  Eshyn ren croo ny niaughyn as y thalloo as dy chooilley red eddyr oc ayns shey laaghyn, eisht hoie eh er y Stoyl. Yn Er-chymmey. Fen jeh mychione Eshyn fer ta lane-fyssagh.
+**25:59**  Eshyn ren croo ny niaughyn as y thalloo as dy chooilley red eddyr oc ayns shey laaghyn, eisht hoie eh er y Stoyl. Yn Myghinagh. Fen jeh mychione Eshyn fer ta lane-fyssagh.
 
 ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍۢ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۚ ٱلرَّحْمَٰنُ فَسْـَٔلْ بِهِۦ خَبِيرًۭا
 
-**25:60**  As tra ta eh er ny ghra roo, "Cur-jee ooashley da'n Er-chymmey," t'ad gra, "As cre ta'n Er-chymmey? Vel shin dy chur ooashley da red erbee ta oo sarey dooin?" As ta eh bishaghey yn dwoaie oc.  
+**25:60**  As tra ta eh er ny ghra roo, "Cur-jee ooashley da'n Myghinagh," t'ad gra, "As cre ta'n Myghinagh? Vel shin dy chur ooashley da red erbee ta oo sarey dooin?" As ta eh bishaghey yn dwoaie oc.  
 *[tuittym — coyrle]*
 
 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًۭا ۩
@@ -11056,7 +11056,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَهُوَ ٱلَّذِى جَعَلَ ٱلَّيْلَ وَٱلنَّهَارَ خِلْفَةًۭ لِّمَنْ أَرَادَ أَن يَذَّكَّرَ أَوْ أَرَادَ شُكُورًۭا
 
-**25:63**  Ta sharvaantyn yn Er-chymmey adsyn ta shooyl yn thalloo dy ummyr, as tra ta'n neu-hoiggalagh loayrt roo, t'ad gra, "Shee."
+**25:63**  Ta sharvaantyn yn Myghinagh adsyn ta shooyl yn thalloo dy ummyr, as tra ta'n neu-hoiggalagh loayrt roo, t'ad gra, "Shee."
 
 وَعِبَادُ ٱلرَّحْمَٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًۭا وَإِذَا خَاطَبَهُمُ ٱلْجَٰهِلُونَ قَالُوا۟ سَلَٰمًۭا
 
@@ -11126,7 +11126,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **26:1**  Ta, Seen, Meem.
 
@@ -11144,7 +11144,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 إِن نَّشَأْ نُنَزِّلْ عَلَيْهِم مِّنَ ٱلسَّمَآءِ ءَايَةًۭ فَظَلَّتْ أَعْنَٰقُهُمْ لَهَا خَٰضِعِينَ
 
-**26:5**  Cha daink cooinaghtyn oor erbee huc veih'n Er-chymmey smoo, agh t'ad çhyndaa nyn groneyn rish.
+**26:5**  Cha daink cooinaghtyn oor erbee huc veih'n Myghinagh smoo, agh t'ad çhyndaa nyn groneyn rish.
 
 وَمَا يَأْتِيهِم مِّن ذِكْرٍۢ مِّنَ ٱلرَّحْمَٰنِ مُحْدَثٍ إِلَّا كَانُوا۟ عَنْهُ مُعْرِضِينَ
 
@@ -11160,7 +11160,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ
 
-**26:9**  Son shickyrys, ta dty Hiarn yn Ooilley-niartal, yn Er-chymmey.
+**26:9**  Son shickyrys, ta dty Hiarn yn Ooilley-niartal, yn Myghinagh.
 
 وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
@@ -11396,7 +11396,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ
 
-**26:68**  Son shickyrys, ta dty Hiarn yn Ooilley-niartal, yn Er-chymmey.
+**26:68**  Son shickyrys, ta dty Hiarn yn Ooilley-niartal, yn Myghinagh.
 
 وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
@@ -11484,7 +11484,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 إِلَّا مَنْ أَتَى ٱللَّهَ بِقَلْبٍۢ سَلِيمٍۢ
 
-**26:90**  As bee ynnyd-maynrys er ny chur er-gerrey son ny fir-chair.
+**26:90**  As bee Paradise er ny chur er-gerrey son ny fir-chair.
 
 وَأُزْلِفَتِ ٱلْجَنَّةُ لِلْمُتَّقِينَ
 
@@ -11540,7 +11540,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ
 
-**26:104**  Ta dty Hiarn yn Ooilley-niartal, yn Er-chymmey.
+**26:104**  Ta dty Hiarn yn Ooilley-niartal, yn Myghinagh.
 
 وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
@@ -11612,7 +11612,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ
 
-**26:122**  Ta dty Hiarn yn Ooilley-niartal, yn Er-chymmey.
+**26:122**  Ta dty Hiarn yn Ooilley-niartal, yn Myghinagh.
 
 وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
@@ -11684,7 +11684,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 فَكَذَّبُوهُ فَأَهْلَكْنَٰهُمْ ۗ إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ
 
-**26:140**  Ta dty Hiarn yn Ooilley-niartal, yn Er-chymmey.
+**26:140**  Ta dty Hiarn yn Ooilley-niartal, yn Myghinagh.
 
 وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
@@ -11760,7 +11760,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ
 
-**26:159**  Ta dty Hiarn yn Ooilley-niartal, yn Er-chymmey.
+**26:159**  Ta dty Hiarn yn Ooilley-niartal, yn Myghinagh.
 
 وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
@@ -11824,7 +11824,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ
 
-**26:175**  Ta dty Hiarn yn Ooilley-niartal, yn Er-chymmey.
+**26:175**  Ta dty Hiarn yn Ooilley-niartal, yn Myghinagh.
 
 وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
@@ -11888,7 +11888,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ
 
-**26:191**  Ta dty Hiarn yn Ooilley-niartal, yn Er-chymmey.
+**26:191**  Ta dty Hiarn yn Ooilley-niartal, yn Myghinagh.
 
 وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
@@ -11992,7 +11992,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 فَإِنْ عَصَوْكَ فَقُلْ إِنِّى بَرِىٓءٌۭ مِّمَّا تَعْمَلُونَ
 
-**26:217**  As cur dty hreishteil ayns yn Ooilley-niartal, yn Er-chymmey.
+**26:217**  As cur dty hreishteil ayns yn Ooilley-niartal, yn Myghinagh.
 
 وَتَوَكَّلْ عَلَى ٱلْعَزِيزِ ٱلرَّحِيمِ
 
@@ -12046,7 +12046,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **27:1**  Ta, Seen. Shoh cowraghyn y Choraan — lioar ta jannoo reddyn baghtal.
 
@@ -12088,7 +12088,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَأَلْقِ عَصَاكَ ۚ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّۭ وَلَّىٰ مُدْبِرًۭا وَلَمْ يُعَقِّبْ ۚ يَٰمُوسَىٰ لَا تَخَفْ إِنِّى لَا يَخَافُ لَدَىَّ ٱلْمُرْسَلُونَ
 
-**27:11**  Agh eshyn erbee t'er n'yannoo aggair, as eisht er chur mieys ayns ynnyd olkys. Ta mee Er-leih, Er-chymmey.
+**27:11**  Agh eshyn erbee t'er n'yannoo aggair, as eisht er chur mieys ayns ynnyd olkys. Ta mee Er-leih, Myghinagh.
 
 إِلَّا مَن ظَلَمَ ثُمَّ بَدَّلَ حُسْنًۢا بَعْدَ سُوٓءٍۢ فَإِنِّى غَفُورٌۭ رَّحِيمٌۭ
 
@@ -12165,7 +12165,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 قَالَتْ يَٰٓأَيُّهَا ٱلْمَلَؤُا۟ إِنِّىٓ أُلْقِىَ إِلَىَّ كِتَٰبٌۭ كَرِيمٌ
 
-**27:30**  Te veih Solomon, as te: 'Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.
+**27:30**  Te veih Solomon, as te: 'Ayns ennym Yee, yn Graysoil, yn Myghinagh.
 
 إِنَّهُۥ مِن سُلَيْمَٰنَ وَإِنَّهُۥ بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -12431,7 +12431,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **28:1**  Ta, Seen, Meem.
 
@@ -12493,7 +12493,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَدَخَلَ ٱلْمَدِينَةَ عَلَىٰ حِينِ غَفْلَةٍۢ مِّنْ أَهْلِهَا فَوَجَدَ فِيهَا رَجُلَيْنِ يَقْتَتِلَانِ هَٰذَا مِن شِيعَتِهِۦ وَهَٰذَا مِنْ عَدُوِّهِۦ ۖ فَٱسْتَغَٰثَهُ ٱلَّذِى مِن شِيعَتِهِۦ عَلَى ٱلَّذِى مِنْ عَدُوِّهِۦ فَوَكَزَهُۥ مُوسَىٰ فَقَضَىٰ عَلَيْهِ ۖ قَالَ هَٰذَا مِنْ عَمَلِ ٱلشَّيْطَٰنِ ۖ إِنَّهُۥ عَدُوٌّۭ مُّضِلٌّۭ مُّبِينٌۭ
 
-**28:16**  Dooyrt eh: "My Hiarn, ta mee er n'yannoo aggair dou hene, er-y-fa shen leih dou." Eisht ren eh leih da. T'eh yn Er-leih, yn Er-chymmey.
+**28:16**  Dooyrt eh: "My Hiarn, ta mee er n'yannoo aggair dou hene, er-y-fa shen leih dou." Eisht ren eh leih da. T'eh yn Er-leih, yn Myghinagh.
 
 قَالَ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى فَٱغْفِرْ لِى فَغَفَرَ لَهُۥٓ ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
@@ -12795,7 +12795,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **29:1**   Alif, laam, meem.
 الٓمٓ
@@ -12827,7 +12827,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **29:10**   Mastey ny deiney ta fer ta gra, "Ta shin er chredjal ayns Jee." Agh tra t'eh gortit er coontey Yee, t'eh cur tranlaase ny deiney corrym rish kerraghey Yee. As my hig cooney voish dty Hiarn, t'eh gra, "Va shin dy firrinagh marish." Nagh vel Jee toiggal ny ta ayns creeaghyn ny sleih?
 وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ فَإِذَآ أُوذِىَ فِى ٱللَّهِ جَعَلَ فِتْنَةَ ٱلنَّاسِ كَعَذَابِ ٱللَّهِ وَلَئِن جَآءَ نَصْرٌۭ مِّن رَّبِّكَ لَيَقُولُنَّ إِنَّا كُنَّا مَعَكُمْ ۚ أَوَلَيْسَ ٱللَّهُ بِأَعْلَمَ بِمَا فِى صُدُورِ ٱلْعَٰلَمِينَ
 
-**29:11**   Nee Jee toiggal dy firrinagh ny adsyn ta credjal, as nee eh toiggal dy firrinagh ny lag-chredjuee.
+**29:11**   Nee Jee toiggal dy firrinagh ny adsyn ta credjal, as nee eh toiggal dy firrinagh ny crauee-foalsey.
 وَلَيَعْلَمَنَّ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَلَيَعْلَمَنَّ ٱلْمُنَٰفِقِينَ
 
 **29:12**   Ta ny mee-chredjuee gra rish ny chredjuee, "Eiyr-jee er y raad ainyn, as nee main lhie nyn beccaghyn." Cha vod ad lhie veg jeh'n peccaghyn oc. She breageree ad.
@@ -12968,7 +12968,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **29:57**   Nee dagh annym blashtal y baase. Eisht huginys bee shiu chyndait.
 كُلُّ نَفْسٍۢ ذَآئِقَةُ ٱلْمَوْتِ ۖ ثُمَّ إِلَيْنَا تُرْجَعُونَ
 
-**29:58**   Ny adsyn ta credjal as jannoo obbraghyn cair — nee main ad y hoiaghey ayns ynnyd-maynrys, ayns plaaseyn fo ta awinyn roie, cummal ayn dy bragh. S'mie ta'n cooilleen son ny labreeyn.
+**29:58**   Ny adsyn ta credjal as jannoo obbraghyn cair — nee main ad y hoiaghey ayns Paradise, ayns plaaseyn fo ta awinyn roie, cummal ayn dy bragh. S'mie ta'n cooilleen son ny labreeyn.
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَنُبَوِّئَنَّهُم مِّنَ ٱلْجَنَّةِ غُرَفًۭا تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا ۚ نِعْمَ أَجْرُ ٱلْعَٰمِلِينَ
 
 **29:59**   Ny adsyn ta surranse lesh foill, as ayns nyn Hiarn ta ad treishteil.
@@ -13014,7 +13014,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **30:1**   Alif, laam, meem.
 الٓمٓ
@@ -13028,7 +13028,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **30:4**   Ayns kuse bleeantyn. Ta'n chooish ec Jee, 'sy traa t'er n'gholl shaghey, as 'sy traa ry-heet. Er y laa shen, nee ny chredjuee goaill boggey.
 فِى بِضْعِ سِنِينَ ۗ لِلَّهِ ٱلْأَمْرُ مِن قَبْلُ وَمِنۢ بَعْدُ ۚ وَيَوْمَئِذٍۢ يَفْرَحُ ٱلْمُؤْمِنُونَ
 
-**30:5**   Ayns cooney Yee. T'eh cooney lesh quoi saillish. Te'n Ooilley-niartal, yn Er-chymmey.
+**30:5**   Ayns cooney Yee. T'eh cooney lesh quoi saillish. Te'n Ooilley-niartal, yn Myghinagh.
 بِنَصْرِ ٱللَّهِ ۚ يَنصُرُ مَن يَشَآءُ ۖ وَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
 **30:6**   Gialdyn Yee — cha brish Jee rieau e ghialdyn, agh cha vel fys ec y chooid smoo jeh deiney.
@@ -13206,7 +13206,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **31:1**   Alif, laam, meem.
 الٓمٓ
@@ -13320,7 +13320,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **32:1**   Alif, laam, meem.
 الٓمٓ
@@ -13337,7 +13337,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **32:5**   T'eh reaghey dy chooilley chooish, veih ny niaughyn, gys y thalloo. Eisht ta shen goll seose hucsyn er Laa ta'n lhiurid echey thousane bleeaney liorish yn earroo euish.
 يُدَبِّرُ ٱلْأَمْرَ مِنَ ٱلسَّمَآءِ إِلَى ٱلْأَرْضِ ثُمَّ يَعْرُجُ إِلَيْهِ فِى يَوْمٍۢ كَانَ مِقْدَارُهُۥٓ أَلْفَ سَنَةٍۢ مِّمَّا تَعُدُّونَ
 
-**32:6**   Shen Toiggaltagh yn follit as y cronnal, yn Pooaral, yn Er-chymmey.
+**32:6**   Shen Toiggaltagh yn follit as y cronnal, yn Pooaral, yn Myghinagh.
 ذَٰلِكَ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
 **32:7**   Eshyn ren dy chooilley red ren eh y chroo slane, as hug eh toshiaght da crootyn y dooinney veih cray.
@@ -13423,9 +13423,9 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
-**33:1**   O Phadeyr! Gow aggle roish Jee, as ny cur biallys da ny mee-chredjuee as ny lag-chredjuee. Ta Jee Tushtagh as Creeney.
+**33:1**   O Phadeyr! Gow aggle roish Jee, as ny cur biallys da ny mee-chredjuee as ny crauee-foalsey. Ta Jee Tushtagh as Creeney.
 يَٰٓأَيُّهَا ٱلنَّبِىُّ ٱتَّقِ ٱللَّهَ وَلَا تُطِعِ ٱلْكَٰفِرِينَ وَٱلْمُنَٰفِقِينَ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًۭا
 
 **33:2**   As eiyr er y red ta er ny hoilshaghey hood's veih dty Hiarn. Ta Jee dy lane tushtagh jeh'n red ta shiu jannoo.
@@ -13437,7 +13437,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **33:4**   Cha ren Jee daa chree y chur stiagh ayns corp dooinney erbee. Ny ren eh ny mraane euish ta shiu cur corrym rish nyn moir, nyn moir firrinagh. Ny ren eh ny mec doltit euish, ny mec firrinagh euish. She goan euish ad shoh çheet magh ass nyn meill. Ta Jee loayrt yn firrinys, as leeideil eh gys y raad.
 مَّا جَعَلَ ٱللَّهُ لِرَجُلٍۢ مِّن قَلْبَيْنِ فِى جَوْفِهِۦ ۚ وَمَا جَعَلَ أَزْوَٰجَكُمُ ٱلَّٰٓـِٔى تُظَٰهِرُونَ مِنْهُنَّ أُمَّهَٰتِكُمْ ۚ وَمَا جَعَلَ أَدْعِيَآءَكُمْ أَبْنَآءَكُمْ ۚ ذَٰلِكُمْ قَوْلُكُم بِأَفْوَٰهِكُمْ ۖ وَٱللَّهُ يَقُولُ ٱلْحَقَّ وَهُوَ يَهْدِى ٱلسَّبِيلَ
 
-**33:5**   Eam-jee ad lurg nyn ayraghyn; shen ny s'cair ec Jee. Agh mannagh vel fys eu er nyn ayraghyn, eisht ny braaraghyn euish ayns credjue as ny caarjyn euish. Cha vel loght erbee erriu my ta shiu goll er-shaghryn ayn, faagit magh y red ta nyn greeaghyn kiarail ro-laue. Ta Jee yn Er-leoddey as yn Er-chymmey.
+**33:5**   Eam-jee ad lurg nyn ayraghyn; shen ny s'cair ec Jee. Agh mannagh vel fys eu er nyn ayraghyn, eisht ny braaraghyn euish ayns credjue as ny caarjyn euish. Cha vel loght erbee erriu my ta shiu goll er-shaghryn ayn, faagit magh y red ta nyn greeaghyn kiarail ro-laue. Ta Jee yn Er-leoddey as yn Myghinagh.
 ٱدْعُوهُمْ لِءَابَآئِهِمْ هُوَ أَقْسَطُ عِندَ ٱللَّهِ ۚ فَإِن لَّمْ تَعْلَمُوٓا۟ ءَابَآءَهُمْ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ وَمَوَٰلِيكُمْ ۚ وَلَيْسَ عَلَيْكُمْ جُنَاحٌۭ فِيمَآ أَخْطَأْتُم بِهِۦ وَلَٰكِن مَّا تَعَمَّدَتْ قُلُوبُكُمْ ۚ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًا
 
 **33:6**   Ta'n Phadeyr ny s'moo ayns kiarail jeh ny chredjuee na adsyn jeu hene, as ta ny mraane echey moirjyn daue. As ta mooinjer-fuill ny s'niessey yn derrey yeh da'n jeh elley ayns Lioar Yee na ny chredjuee ny ny arreyderyn, ga dy lhisagh shiu jannoo mie da ny caarjyn euish. T'eh shen screeut 'sy Lioar.
@@ -13458,7 +13458,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **33:11**   Shen as shen va ny chredjuee er ny phrowal, as va ad craait dy trome.
 هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ وَزُلْزِلُوا۟ زِلْزَالًۭا شَدِيدًۭا
 
-**33:12**   Tra dooyrt ny lag-chredjuee as ny adsyn ayns nyn gree ta chingys, "Cha ren Jee as e Hagther gialdyn dooin agh fardail."
+**33:12**   Tra dooyrt ny crauee-foalsey as ny adsyn ayns nyn gree ta chingys, "Cha ren Jee as e Hagther gialdyn dooin agh fardail."
 وَإِذْ يَقُولُ ٱلْمُنَٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ مَّا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥٓ إِلَّا غُرُورًۭا
 
 **33:13**   As tra dooyrt possan jeu, "O sleih Yathrib, cha vod shiu shassoo, myr shen çhyndaa-jee ergooyl." As hir paart jeu er y Phadeyr ad y leshtal, gra, "Ta ny thieyn ain foshlit," ga nagh row ad foshlit. Cha row agh mian oc roie ersooyl.
@@ -13494,7 +13494,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **33:23**   Jeh ny chredjuee ta deiney ta firrinagh da'n red ren ad gialdyn da Jee. Ta paart jeu er chooilleeney nyn vreearraghyn; as ta paart foast farkiaght, as gyn scughey rieau.
 مِّنَ ٱلْمُؤْمِنِينَ رِجَالٌۭ صَدَقُوا۟ مَا عَٰهَدُوا۟ ٱللَّهَ عَلَيْهِ ۖ فَمِنْهُم مَّن قَضَىٰ نَحْبَهُۥ وَمِنْهُم مَّن يَنتَظِرُ ۖ وَمَا بَدَّلُوا۟ تَبْدِيلًۭا
 
-**33:24**   Myr shen dy vod Jee leagh y chur da ny firrinagh son nyn firrinys; as kerraghey y chur er ny lag-chredjuee, my saillish, ny ad y leih. Ta Jee yn Er-leoddey as yn Er-chymmey.
+**33:24**   Myr shen dy vod Jee leagh y chur da ny firrinagh son nyn firrinys; as kerraghey y chur er ny crauee-foalsey, my saillish, ny ad y leih. Ta Jee yn Er-leoddey as yn Myghinagh.
 لِّيَجْزِىَ ٱللَّهُ ٱلصَّٰدِقِينَ بِصِدْقِهِمْ وَيُعَذِّبَ ٱلْمُنَٰفِقِينَ إِن شَآءَ أَوْ يَتُوبَ عَلَيْهِمْ ۚ إِنَّ ٱللَّهَ كَانَ غَفُورًۭا رَّحِيمًۭا
 
 **33:25**   Ren Jee ny mee-chredjuee y chur ergooyl ayns nyn varg; cha daink vondeish erbee daue. Myr shen ren Jee ny chredjuee y hauail veih caggey. Ta Jee Niartal as Pooaral.
@@ -13566,13 +13566,13 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **33:47**   As cur da ny chredjuee yn naight vie dy vel er nyn son leagh mooar.
 وَبَشِّرِ ٱلْمُؤْمِنِينَ بِأَنَّ لَهُم مِّنَ ٱللَّهِ فَضْلًۭا كَبِيرًۭا
 
-**33:48**   As ny cur biallys da ny mee-chredjuee as ny lag-chredjuee, as cur nyn droch-ghoan er-çheu, as cur dty hreishteil ayns Jee. Ta Jee ny fer-coadee dy-liooar.
+**33:48**   As ny cur biallys da ny mee-chredjuee as ny crauee-foalsey, as cur nyn droch-ghoan er-çheu, as cur dty hreishteil ayns Jee. Ta Jee ny fer-coadee dy-liooar.
 وَلَا تُطِعِ ٱلْكَٰفِرِينَ وَٱلْمُنَٰفِقِينَ وَدَعْ أَذَىٰهُمْ وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًۭا
 
 **33:49**   O shiuish ta credjal! Tra ta shiu poosey mraane credjuagh, agh eisht scarrey voue roish my vel shiu bent roo, cha vel traa farkiaght erbee erriu dy freayll ayns nyn goontey; agh cur-jee cooilleen daue, as skeayl-jee ad ayns aght keain.
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نَكَحْتُمُ ٱلْمُؤْمِنَٰتِ ثُمَّ طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ فَمَا لَكُمْ عَلَيْهِنَّ مِنْ عِدَّةٍۢ تَعْتَدُّونَهَا ۖ فَمَتِّعُوهُنَّ وَسَرِّحُوهُنَّ سَرَاحًۭا جَمِيلًۭا
 
-**33:50**   O Phadeyr! Ta shin er lowal dhyt dty vraane dauesyn ta oo er choyrt nyn docher, as ny adsyn t'ayd hannah, myr er ny choyrt dhyt liorish Jee, as inneenyn braar dty ayrey, as inneenyn shuyryn dty ayrey, as inneenyn braar dty vayrey, as inneenyn shuyryn dty vayrey ren arraghey mayrt, as ben chredjuagh ta er hionney ee hene da'n Phadeyr, my saillish y Phadeyr ee y phoosee, er-lheh dhyt's, as cha nee son ny chredjuee. Ta fys ain cre ta shin er n'oardaghey er nyn son mychione nyn mraane as ny adsyn ta nyn laue yesh freayll. Shoh dy hauail doccar void. Ta Jee yn Er-leoddey as yn Er-chymmey.
+**33:50**   O Phadeyr! Ta shin er lowal dhyt dty vraane dauesyn ta oo er choyrt nyn docher, as ny adsyn t'ayd hannah, myr er ny choyrt dhyt liorish Jee, as inneenyn braar dty ayrey, as inneenyn shuyryn dty ayrey, as inneenyn braar dty vayrey, as inneenyn shuyryn dty vayrey ren arraghey mayrt, as ben chredjuagh ta er hionney ee hene da'n Phadeyr, my saillish y Phadeyr ee y phoosee, er-lheh dhyt's, as cha nee son ny chredjuee. Ta fys ain cre ta shin er n'oardaghey er nyn son mychione nyn mraane as ny adsyn ta nyn laue yesh freayll. Shoh dy hauail doccar void. Ta Jee yn Er-leoddey as yn Myghinagh.
 يَٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ أَحْلَلْنَا لَكَ أَزْوَٰجَكَ ٱلَّٰتِىٓ ءَاتَيْتَ أُجُورَهُنَّ وَمَا مَلَكَتْ يَمِينُكَ مِمَّآ أَفَآءَ ٱللَّهُ عَلَيْكَ وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّٰتِكَ وَبَنَاتِ خَالِكَ وَبَنَاتِ خَٰلَٰتِكَ ٱلَّٰتِى هَاجَرْنَ مَعَكَ وَٱمْرَأَةًۭ مُّؤْمِنَةً إِن وَهَبَتْ نَفْسَهَا لِلنَّبِىِّ إِنْ أَرَادَ ٱلنَّبِىُّ أَن يَسْتَنكِحَهَا خَالِصَةًۭ لَّكَ مِن دُونِ ٱلْمُؤْمِنِينَ ۗ قَدْ عَلِمْنَا مَا فَرَضْنَا عَلَيْهِمْ فِىٓ أَزْوَٰجِهِمْ وَمَا مَلَكَتْ أَيْمَٰنُهُمْ لِكَيْلَا يَكُونَ عَلَيْكَ حَرَجٌۭ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا
 
 **33:51**   Vod oo unnane erbee jeu y chur ergooyl my saillt, as unnane erbee jeu y ghoaill my saillt. My vees mian ayd son unnane erbee jeusyn ren oo y chur ergooyl, cha vel loght erbee ort. Shoh ny s'cooie, myr shen dy bee ad gerjit, as nagh bee ad trimshagh, as dy bee ad booiagh lesh y red ta oo er choyrt da dagh unnane jeu. Ta fys ec Jee er y red ta ayns nyn greeaghyn. Ta Jee Ooilley-hoiggal as Meein.
@@ -13599,10 +13599,10 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **33:58**   Ny adsyn ta gortaghey deiney credjuagh as mraane credjuagh, son jannooyn nagh ren ad, ta ad lhie errey breag-loo as peccah cronnal.
 وَٱلَّذِينَ يُؤْذُونَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ بِغَيْرِ مَا ٱكْتَسَبُوا۟ فَقَدِ ٱحْتَمَلُوا۟ بُهْتَٰنًۭا وَإِثْمًۭا مُّبِينًۭا
 
-**33:59**   O Phadeyr! Abbyr rish dty vraane, as dty inneenyn, as mraane ny chredjuee, nyn gharmadyn y lheedaghey. Shen ny s'cooie, myr shen dy bee ad er ny enney as nagh bee ad seaghnit. Ta Jee yn Er-leoddey as yn Er-chymmey.
+**33:59**   O Phadeyr! Abbyr rish dty vraane, as dty inneenyn, as mraane ny chredjuee, nyn gharmadyn y lheedaghey. Shen ny s'cooie, myr shen dy bee ad er ny enney as nagh bee ad seaghnit. Ta Jee yn Er-leoddey as yn Myghinagh.
 يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ وَبَنَاتِكَ وَنِسَآءِ ٱلْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَٰبِيبِهِنَّ ۚ ذَٰلِكَ أَدْنَىٰٓ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا
 
-**33:60**   Mannagh vel ny lag-chredjuee, as ny adsyn lesh chingys ayns nyn greeaghyn, as ny skeeal-skeayleyderyn 'sy Valley, scuirr, nee main oo y ghreesaghey nyn 'oi; eisht cha bee ad ny naboonyn ayd ayn agh son tammylt giare.
+**33:60**   Mannagh vel ny crauee-foalsey, as ny adsyn lesh chingys ayns nyn greeaghyn, as ny skeeal-skeayleyderyn 'sy Valley, scuirr, nee main oo y ghreesaghey nyn 'oi; eisht cha bee ad ny naboonyn ayd ayn agh son tammylt giare.
 ۞ لَّئِن لَّمْ يَنتَهِ ٱلْمُنَٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ وَٱلْمُرْجِفُونَ فِى ٱلْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ ثُمَّ لَا يُجَاوِرُونَكَ فِيهَآ إِلَّا قَلِيلًۭا
 
 **33:61**   T'ad currit fo mollaght; raad-erbee vow ad ad, lhisagh ad ve goit as varroo dy bollagh.
@@ -13641,7 +13641,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **33:72**   Ren shin Yn Churrym y hionney da ny niaughyn, as y thalloo, as ny sleityn; agh ghow ad keim ersooyl veih lhie eh, as va aggle orroo roish; agh ghow yn dooinney eh. Va eh neu-chair as antoiggalagh.
 إِنَّا عَرَضْنَا ٱلْأَمَانَةَ عَلَى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱلْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا ٱلْإِنسَٰنُ ۖ إِنَّهُۥ كَانَ ظَلُومًۭا جَهُولًۭا
 
-**33:73**   Nee Jee kerraghey y chur er ny lag-chredjuee, deiney as mraane, as ny cooidjaghee, deiney as mraane. As nee Jee ny chredjuee, deiney as mraane, y hauail. Ta Jee dy kinjagh yn Er-leoddey, yn Er-chymmey Smoo.
+**33:73**   Nee Jee kerraghey y chur er ny crauee-foalsey, deiney as mraane, as ny cooidjaghee, deiney as mraane. As nee Jee ny chredjuee, deiney as mraane, y hauail. Ta Jee dy kinjagh yn Er-leoddey, yn Myghinagh Smoo.
 لِّيُعَذِّبَ ٱللَّهُ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ وَيَتُوبَ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۢا
 
 ---
@@ -13654,12 +13654,12 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **34:1**   Moylley da Jee, lesh ta dy chooilley red ayns ny niaughyn as y thalloo; as moylley dasyn 'sy Traa Ry-heet. Te'n Creeney, yn Tushtagh.
 ٱلْحَمْدُ لِلَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَلَهُ ٱلْحَمْدُ فِى ٱلْءَاخِرَةِ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ
 
-**34:2**   Ta fys echey er y red ta goll stiagh 'sy thalloo, as y red ta çheet magh ass, as y red ta çheet sheese veih'n aer, as y red ta goll seose huggey. Te'n Er-chymmey, yn Er-leoddey.
+**34:2**   Ta fys echey er y red ta goll stiagh 'sy thalloo, as y red ta çheet magh ass, as y red ta çheet sheese veih'n aer, as y red ta goll seose huggey. Te'n Myghinagh, yn Er-leoddey.
 يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا ۚ وَهُوَ ٱلرَّحِيمُ ٱلْغَفُورُ
 
 **34:3**   Ta ny mee-chredjuee gra, "Cha jig Yn Oor orrin." Abbyr: "S'feer dy jarroo, liorish my Hiarn, hig eh erriu. She eshyn Toiggaltagh yn follit." Cha vel trimmid myn-vryn ayns ny niaughyn as y thalloo, ny red erbee sloo ny smoo, scapail veih e hushtey. Ta ooilley ayns Lioar Hoilshagh.
@@ -13828,7 +13828,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **35:1**   Moylley da Jee, Crooder ny niaughyn as y thalloo, er n'yannoo jeh ny ainlyn chaghteryn lesh skianyn — dooblit, treeilt, as kiareilt. T'eh bishaghey'n crootyn myr saillish. Ta Jee Pooaral er dy chooilley red.
 ٱلْحَمْدُ لِلَّهِ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَاعِلِ ٱلْمَلَٰٓئِكَةِ رُسُلًا أُو۟لِىٓ أَجْنِحَةٍۢ مَّثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ ۚ يَزِيدُ فِى ٱلْخَلْقِ مَا يَشَآءُ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
@@ -13975,7 +13975,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **36:1**   Ya, seen.
 يسٓ
@@ -13989,7 +13989,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **36:4**   Er raad jeeragh.
 عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
 
-**36:5**   Soilshaghey'n Ooilley-niartal, yn Er-chymmey.
+**36:5**   Soilshaghey'n Ooilley-niartal, yn Myghinagh.
 تَنزِيلَ ٱلْعَزِيزِ ٱلرَّحِيمِ
 
 **36:6**   Dy choyrt coyrle da pobble nagh row ny shenn-ayraghyn oc er ny choyrt coyrle daue, as myr shen t'ad gyn-yss.
@@ -14007,7 +14007,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **36:10**   Te'n un red daue, vel oo coyrt coyrle daue, ny nagh vel oo coyrt coyrle daue — cha bee ad credjal.
 وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ
 
-**36:11**   Cha vel oo coyrt coyrle agh dasyn ta geiyrt er y Çhaghteraght, as goaill aggle roish yn Er-ghraihagh ayns follit. Myr shen, cur dasyn naight vie jeh leoddey, as leagh flaoishagh.
+**36:11**   Cha vel oo coyrt coyrle agh dasyn ta geiyrt er y Çhaghteraght, as goaill aggle roish yn Graysoil ayns follit. Myr shen, cur dasyn naight vie jeh leoddey, as leagh flaoishagh.
 إِنَّمَا تُنذِرُ مَنِ ٱتَّبَعَ ٱلذِّكْرَ وَخَشِىَ ٱلرَّحْمَٰنَ بِٱلْغَيْبِ ۖ فَبَشِّرْهُ بِمَغْفِرَةٍۢ وَأَجْرٍۢ كَرِيمٍ
 
 **36:12**   She Shinyn ta cur bioys 'sy varroo; as ta shin screeu sheese y red t'ad er chur er oaie, as nyn gowraghyn faagit. Ta shin er earroo dy chooilley red ayns Lioar Hoilshagh.
@@ -14019,7 +14019,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **36:14**   Ren shin daa haghter y chur huc, agh ren ad ad y ghobbal ny neesht, myr shen ren shin ad y niartaghey lesh trass. Dooyrt ad, "Ta shin chaghteryn hiuish."
 إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ
 
-**36:15**   Dooyrt ad, "Cha vel shiuish agh deiney goll-rish shinyn, as cha ren yn Er-ghraihagh red erbee y chur sheese; cha vel shiu agh breag."
+**36:15**   Dooyrt ad, "Cha vel shiuish agh deiney goll-rish shinyn, as cha ren yn Graysoil red erbee y chur sheese; cha vel shiu agh breag."
 قَالُوا۟ مَآ أَنتُمْ إِلَّا بَشَرٌۭ مِّثْلُنَا وَمَآ أَنزَلَ ٱلرَّحْمَٰنُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا تَكْذِبُونَ
 
 **36:16**   Dooyrt ad, "Ta fys ec y Hiarn ain dy vel shin chaghteryn hiuish.
@@ -14043,7 +14043,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **36:22**   "As cre'n-fa nagh jinnin's ooashley y chur Dasyn ren mish y chroo, as Hucsyn bee shiu chyndait?
 وَمَا لِىَ لَآ أَعْبُدُ ٱلَّذِى فَطَرَنِى وَإِلَيْهِ تُرْجَعُونَ
 
-**36:23**   Jinn'in jeeghyn elley y ghoaill ayns ynnyd Echeysyn? My ta'n Er-chymmey geearree olk er my hon, cha bee'n aghin oc cooney erbee dooys, ny nee ad mish y hauail.
+**36:23**   Jinn'in jeeghyn elley y ghoaill ayns ynnyd Echeysyn? My ta'n Myghinagh geearree olk er my hon, cha bee'n aghin oc cooney erbee dooys, ny nee ad mish y hauail.
 ءَأَتَّخِذُ مِن دُونِهِۦٓ ءَالِهَةً إِن يُرِدْنِ ٱلرَّحْمَٰنُ بِضُرٍّۢ لَّا تُغْنِ عَنِّى شَفَٰعَتُهُمْ شَيْـًۭٔا وَلَا يُنقِذُونِ
 
 **36:24**   Ayns y chooish shen, veign's dy bollagh caillt.
@@ -14052,7 +14052,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **36:25**   Ta mee er chredjal ayns nyn Hiarn, myr shen clasht-jee rhym."
 إِنِّىٓ ءَامَنتُ بِرَبِّكُمْ فَٱسْمَعُونِ
 
-**36:26**   Va eh er ny ghra, "Gow stiagh ayns ynnyd-maynrys." Dooyrt eh, "Dy beagh fys ec my phobble.
+**36:26**   Va eh er ny ghra, "Gow stiagh ayns Paradise." Dooyrt eh, "Dy beagh fys ec my phobble.
 قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَٰلَيْتَ قَوْمِى يَعْلَمُونَ
 
 **36:27**   Kys ta'n Hiarn aym er my leih, as er my yannoo unnane jeh'n ooaslit."
@@ -14130,7 +14130,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **36:51**   Bee'n Trumpan er ny heidey, eisht cur-my-ner, nee ad roie veih ny oaiaghyn gys nyn Hiarn.
 وَنُفِخَ فِى ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ
 
-**36:52**   Jir ad, "Smerg dooin! Quoi hug bioys ayn veih'n ynnyd-fealley ain?" Shoh yn red va'n Er-ghraihagh er ghialdyn, as ta ny chaghteryn er n'insh yn firrinys."
+**36:52**   Jir ad, "Smerg dooin! Quoi hug bioys ayn veih'n ynnyd-fealley ain?" Shoh yn red va'n Graysoil er ghialdyn, as ta ny chaghteryn er n'insh yn firrinys."
 قَالُوا۟ يَٰوَيْلَنَا مَنۢ بَعَثَنَا مِن مَّرْقَدِنَا ۜ ۗ هَٰذَا مَا وَعَدَ ٱلرَّحْمَٰنُ وَصَدَقَ ٱلْمُرْسَلُونَ
 
 **36:53**   Cha bee eh agh un scretch; as cur-my-ner, bee ad ooilley er ny chur roin.
@@ -14139,7 +14139,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 **36:54**   Er y Laa shen, cha bee aggair erbee er ny yannoo er annym erbee 'sy chooid sloo, as cha bee shiu eeckit agh son y red v'ou jannoo.
 فَٱلْيَوْمَ لَا تُظْلَمُ نَفْسٌۭ شَيْـًۭٔا وَلَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ
 
-**36:55**   Bee cummaltee ynnyd-maynrys, er y Laa shen, gerrit ayns obbyr.
+**36:55**   Bee cummaltee Paradise, er y Laa shen, gerrit ayns obbyr.
 إِنَّ أَصْحَٰبَ ٱلْجَنَّةِ ٱلْيَوْمَ فِى شُغُلٍۢ فَٰكِهُونَ
 
 **36:56**   Adsyn as nyn keshi, ayns scaa, lhie er lhiabbaghyn.
@@ -14238,7 +14238,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **37:1**  Liorish adsyn ta reaghey ad-hene ayns reill.
 
@@ -14974,7 +14974,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 **38:1**  Saad. Liorish y Choraan ard-ghooagh.
 
 صٓ ۚ وَٱلْقُرْءَانِ ذِى ٱلذِّكْرِ
@@ -15331,11 +15331,11 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 **ٱلزُّمَر** · Az-Zumar · Meckaagh · 75 rannaghyn
 
-*Ny pobble goll stiagh ayns ynnyd-maynrys ayns possanyn — as raa dy hreishteil dauesyn ta er n'yannoo olk.*
+*Ny pobble goll stiagh ayns Paradise ayns possanyn — as raa dy hreishteil dauesyn ta er n'yannoo olk.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 **39:1**  Ta'n hoilshaghey jeh'n Lioar veih Jee, yn Er-niart as Creeney.
 
 تَنزِيلُ ٱلْكِتَٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ
@@ -15623,11 +15623,11 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 قِيلَ ٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَٰلِدِينَ فِيهَا ۖ فَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ
 
-**39:73**  As bee adsyn va goaill aggle roish y Chiarn oc er nyn leeideil gys ynnyd-maynrys ayns possanyn. Derrey, tra t'ad er roshtyn eh, as ta ny dorryssyn echey er nyn vosley, jir ny arreyderyn oc roo, "Shee erriu, ta shiu er ve mie, myr shen gow-jee stiagh, dy uillaghtyn ayn dy bragh."
+**39:73**  As bee adsyn va goaill aggle roish y Chiarn oc er nyn leeideil gys Paradise ayns possanyn. Derrey, tra t'ad er roshtyn eh, as ta ny dorryssyn echey er nyn vosley, jir ny arreyderyn oc roo, "Shee erriu, ta shiu er ve mie, myr shen gow-jee stiagh, dy uillaghtyn ayn dy bragh."
 
 وَسِيقَ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ إِلَى ٱلْجَنَّةِ زُمَرًا ۖ حَتَّىٰٓ إِذَا جَآءُوهَا وَفُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَا سَلَٰمٌ عَلَيْكُمْ طِبْتُمْ فَٱدْخُلُوهَا خَٰلِدِينَ
 
-**39:74**  As jir ad, "Moylley da Jee, ta er chooilleeney e ghiall dooin, as er chur dooin eiraght y çheer, goaill taitnys jeh ynnyd-maynrys myr saillmayd." Cre'n eeck share son ny obbree.
+**39:74**  As jir ad, "Moylley da Jee, ta er chooilleeney e ghiall dooin, as er chur dooin eiraght y çheer, goaill taitnys jeh Paradise myr saillmayd." Cre'n eeck share son ny obbree.
 
 وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى صَدَقَنَا وَعْدَهُۥ وَأَوْرَثَنَا ٱلْأَرْضَ نَتَبَوَّأُ مِنَ ٱلْجَنَّةِ حَيْثُ نَشَآءُ ۖ فَنِعْمَ أَجْرُ ٱلْعَٰمِلِينَ
 
@@ -15644,7 +15644,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **40:1**  Ha, Meem.
 
@@ -15801,7 +15801,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 يَٰقَوْمِ إِنَّمَا هَٰذِهِ ٱلْحَيَوٰةُ ٱلدُّنْيَا مَتَٰعٌۭ وَإِنَّ ٱلْءَاخِرَةَ هِىَ دَارُ ٱلْقَرَارِ
 
-**40:40**  Quoi-er-be ta peccah y yannoo, cha bee eh eeckit agh lesh y lheid. Agh quoi-er-be ta obbyr chair y yannoo, edyr firryn ny bwoirrin, as she credjuee t'eh — hed ad shoh stiagh ayns ynnyd-maynrys, raad bee ad er nyn goadey gyn coontey.
+**40:40**  Quoi-er-be ta peccah y yannoo, cha bee eh eeckit agh lesh y lheid. Agh quoi-er-be ta obbyr chair y yannoo, edyr firryn ny bwoirrin, as she credjuee t'eh — hed ad shoh stiagh ayns Paradise, raad bee ad er nyn goadey gyn coontey.
 
 مَنْ عَمِلَ سَيِّئَةًۭ فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا ۖ وَمَنْ عَمِلَ صَٰلِحًۭا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌۭ فَأُو۟لَٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍۢ
 **40:41**  O my phobble, kys t'eh dy vel mee geamagh erriu gys taualtys, as ta shiu geamagh orrym gys yn Aine?
@@ -15993,13 +15993,13 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **41:1**  Ha, Meem.
 
 حمٓ
 
-**41:2**  Nochtit voish yn Er-ghraihagh, yn Er-chymmey.
+**41:2**  Nochtit voish yn Graysoil, yn Myghinagh.
 
 تَنزِيلٌۭ مِّنَ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
@@ -16221,7 +16221,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **42:1**  Ha, Meem.
 
@@ -16239,7 +16239,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ
 
-**42:5**  Ta ny niaughyn harrish faggys brishey veih my heill, as ta ny ainlyn cur moylley da'n Hiarn oc, as shirrey leoddey son adsyn t'er y thalloo. Dy firrinagh she Jee yn Fer-leoddey, yn Er-chymmey.
+**42:5**  Ta ny niaughyn harrish faggys brishey veih my heill, as ta ny ainlyn cur moylley da'n Hiarn oc, as shirrey leoddey son adsyn t'er y thalloo. Dy firrinagh she Jee yn Fer-leoddey, yn Myghinagh.
 
 تَكَادُ ٱلسَّمَٰوَٰتُ يَتَفَطَّرْنَ مِن فَوْقِهِنَّ ۚ وَٱلْمَلَٰٓئِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَن فِى ٱلْأَرْضِ ۗ أَلَآ إِنَّ ٱللَّهَ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
@@ -16444,7 +16444,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **43:1**  Ha, Meem.
 
@@ -16510,7 +16510,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 أَمِ ٱتَّخَذَ مِمَّا يَخْلُقُ بَنَاتٍۢ وَأَصْفَىٰكُم بِٱلْبَنِينَ
 
-**43:17**  Foast tra ta naight er ny chur da fer jeu jeh shen ny t'eh coyrt lesh yn Er-ghraihagh, ta'n eddin echey dorraghey, as t'eh stowal e hrimshagh.
+**43:17**  Foast tra ta naight er ny chur da fer jeu jeh shen ny t'eh coyrt lesh yn Graysoil, ta'n eddin echey dorraghey, as t'eh stowal e hrimshagh.
 
 وَإِذَا بُشِّرَ أَحَدُهُم بِمَا ضَرَبَ لِلرَّحْمَٰنِ مَثَلًۭا ظَلَّ وَجْهُهُۥ مُسْوَدًّۭا وَهُوَ كَظِيمٌ
 
@@ -16518,11 +16518,11 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 أَوَمَن يُنَشَّؤُا۟ فِى ٱلْحِلْيَةِ وَهُوَ فِى ٱلْخِصَامِ غَيْرُ مُبِينٍۢ
 
-**43:19**  As t'ad jannoo ny ainlyn, ta sharvaantyn yn Er-ghraihagh, nyn mraane. V'ad ayns shen tra v'ad er ny chroo? Bee'n feanish oc er ny scrieu, as bee ad er ny hennaghey.
+**43:19**  As t'ad jannoo ny ainlyn, ta sharvaantyn yn Graysoil, nyn mraane. V'ad ayns shen tra v'ad er ny chroo? Bee'n feanish oc er ny scrieu, as bee ad er ny hennaghey.
 
 وَجَعَلُوا۟ ٱلْمَلَٰٓئِكَةَ ٱلَّذِينَ هُمْ عِبَٰدُ ٱلرَّحْمَٰنِ إِنَٰثًا ۚ أَشَهِدُوا۟ خَلْقَهُمْ ۚ سَتُكْتَبُ شَهَٰدَتُهُمْ وَيُسْـَٔلُونَ
 
-**43:20**  As t'ad gra, "My ve yn Er-ghraihagh er ve aignagh, cha beign shin er chur ooashley daue." Cha vel fys erbee oc er shen; cha nel ad agh goll er gour.
+**43:20**  As t'ad gra, "My ve yn Graysoil er ve aignagh, cha beign shin er chur ooashley daue." Cha vel fys erbee oc er shen; cha nel ad agh goll er gour.
 
 وَقَالُوا۟ لَوْ شَآءَ ٱلرَّحْمَٰنُ مَا عَبَدْنَٰهُم ۗ مَّا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَخْرُصُونَ
 
@@ -16574,7 +16574,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 أَهُمْ يَقْسِمُونَ رَحْمَتَ رَبِّكَ ۚ نَحْنُ قَسَمْنَا بَيْنَهُم مَّعِيشَتَهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۚ وَرَفَعْنَا بَعْضَهُمْ فَوْقَ بَعْضٍۢ دَرَجَٰتٍۢ لِّيَتَّخِذَ بَعْضُهُم بَعْضًۭا سُخْرِيًّۭا ۗ وَرَحْمَتُ رَبِّكَ خَيْرٌۭ مِّمَّا يَجْمَعُونَ
 
-**43:33**  Mannagh ve dy beign deiney un phobble, veign shin er chur dauesyn ta mee-chredjal ayns yn Er-ghraihagh dillidyn argid da nyn dhieyn, as greishyn liorish ta ad goll seose.
+**43:33**  Mannagh ve dy beign deiney un phobble, veign shin er chur dauesyn ta mee-chredjal ayns yn Graysoil dillidyn argid da nyn dhieyn, as greishyn liorish ta ad goll seose.
 
 وَلَوْلَآ أَن يَكُونَ ٱلنَّاسُ أُمَّةًۭ وَٰحِدَةًۭ لَّجَعَلْنَا لِمَن يَكْفُرُ بِٱلرَّحْمَٰنِ لِبُيُوتِهِمْ سُقُفًۭا مِّن فِضَّةٍۢ وَمَعَارِجَ عَلَيْهَا يَظْهَرُونَ
 
@@ -16586,7 +16586,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَزُخْرُفًۭا ۚ وَإِن كُلُّ ذَٰلِكَ لَمَّا مَتَٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۚ وَٱلْءَاخِرَةُ عِندَ رَبِّكَ لِلْمُتَّقِينَ
 
-**43:36**  Quoi-erbee ta çhyndaa ersooyl veih cooinaghtyn yn Er-ghraihagh, nee shin pointeil jouyl da, dy ve ny heshaght echey.
+**43:36**  Quoi-erbee ta çhyndaa ersooyl veih cooinaghtyn yn Graysoil, nee shin pointeil jouyl da, dy ve ny heshaght echey.
 
 وَمَن يَعْشُ عَن ذِكْرِ ٱلرَّحْمَٰنِ نُقَيِّضْ لَهُۥ شَيْطَٰنًۭا فَهُوَ لَهُۥ قَرِينٌۭ
 
@@ -16622,7 +16622,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَإِنَّهُۥ لَذِكْرٌۭ لَّكَ وَلِقَوْمِكَ ۖ وَسَوْفَ تُسْـَٔلُونَ
 
-**43:45**  Fennick adsyn jeh nyn chaghtyryn hug shin roish: "Nee shin pointeil jeeghyn cheu-mooie jeh'n Er-ghraihagh dy ve ooashlit?"
+**43:45**  Fennick adsyn jeh nyn chaghtyryn hug shin roish: "Nee shin pointeil jeeghyn cheu-mooie jeh'n Graysoil dy ve ooashlit?"
 
 وَسْـَٔلْ مَنْ أَرْسَلْنَا مِن قَبْلِكَ مِن رُّسُلِنَآ أَجَعَلْنَا مِن دُونِ ٱلرَّحْمَٰنِ ءَالِهَةًۭ يُعْبَدُونَ
 
@@ -16766,7 +16766,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 أَمْ يَحْسَبُونَ أَنَّا لَا نَسْمَعُ سِرَّهُمْ وَنَجْوَىٰهُم ۚ بَلَىٰ وَرُسُلُنَا لَدَيْهِمْ يَكْتُبُونَ
 
-**43:81**  Abbyr: "My ve mac ec yn Er-ghraihagh, veign's yn chied er dy chur ooashley."
+**43:81**  Abbyr: "My ve mac ec yn Graysoil, veign's yn chied er dy chur ooashley."
 
 قُلْ إِن كَانَ لِلرَّحْمَٰنِ وَلَدٌۭ فَأَنَا۠ أَوَّلُ ٱلْعَٰبِدِينَ
 
@@ -16811,7 +16811,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **44:1**  Ha, Meem.
 
@@ -16977,7 +16977,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 يَوْمَ لَا يُغْنِى مَوْلًى عَن مَّوْلًۭى شَيْـًۭٔا وَلَا هُمْ يُنصَرُونَ
 
-**44:42**  Agh eshyn ta chymmey Yee er. T'ehsyn Yn Ooilley-niartal, Yn Er-chymmey.
+**44:42**  Agh eshyn ta chymmey Yee er. T'ehsyn Yn Ooilley-niartal, Yn Myghinagh.
 
 إِلَّا مَن رَّحِمَ ٱللَّهُ ۚ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
@@ -17058,7 +17058,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **45:1**  Ha, Meem.
 
@@ -17217,7 +17217,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **46:1**  Ha, Meem.
 
@@ -17247,7 +17247,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلْحَقِّ لَمَّا جَآءَهُمْ هَٰذَا سِحْرٌۭ مُّبِينٌ
 
-**46:8**  Ny vel ad gra, "Ren eh eh y chummey hene"? Abbyr: "My ren mee eh y chummey hene, cha vel nane erbee ayns nyn booar dy my hauail veih Jee. Ta fys mie echey er ny ta shiu kianglt rish. T'eh lowal myr feanish eddyr mee as shiu. T'ehsyn Yn Fer-leoddey, yn Er-chymmey."
+**46:8**  Ny vel ad gra, "Ren eh eh y chummey hene"? Abbyr: "My ren mee eh y chummey hene, cha vel nane erbee ayns nyn booar dy my hauail veih Jee. Ta fys mie echey er ny ta shiu kianglt rish. T'eh lowal myr feanish eddyr mee as shiu. T'ehsyn Yn Fer-leoddey, yn Myghinagh."
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَلَا تَمْلِكُونَ لِى مِنَ ٱللَّهِ شَيْـًٔا ۖ هُوَ أَعْلَمُ بِمَا تُفِيضُونَ فِيهِ ۖ كَفَىٰ بِهِۦ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۖ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
@@ -17271,7 +17271,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَٰمُوا۟ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
-**46:14**  Ad shoh cummaltee ynnyd-maynrys, raad nee ad tannaghtyn dy bragh—leagh son ny v'ad cliaghtey jannoo.
+**46:14**  Ad shoh cummaltee Paradise, raad nee ad tannaghtyn dy bragh—leagh son ny v'ad cliaghtey jannoo.
 
 أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ خَٰلِدِينَ فِيهَا جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ
 
@@ -17279,7 +17279,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ إِحْسَٰنًا ۖ حَمَلَتْهُ أُمُّهُۥ كُرْهًۭا وَوَضَعَتْهُ كُرْهًۭا ۖ وَحَمْلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ شَهْرًا ۚ حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرْبَعِينَ سَنَةًۭ قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًۭا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ ۖ إِنِّى تُبْتُ إِلَيْكَ وَإِنِّى مِنَ ٱلْمُسْلِمِينَ
 
-**46:16**  Ad shoh adsyn veih nee shin goaill yn chooid share jeh nyn obbraghyn, as nee shin goll shaghey nyn ghrogh-yannoo, mastey cummaltee ynnyd-maynrys—gialdyn yn irriney v'er ny ghialdyn daue.
+**46:16**  Ad shoh adsyn veih nee shin goaill yn chooid share jeh nyn obbraghyn, as nee shin goll shaghey nyn ghrogh-yannoo, mastey cummaltee Paradise—gialdyn yn irriney v'er ny ghialdyn daue.
 
 أُو۟لَٰٓئِكَ ٱلَّذِينَ نَتَقَبَّلُ عَنْهُمْ أَحْسَنَ مَا عَمِلُوا۟ وَنَتَجَاوَزُ عَن سَيِّـَٔاتِهِمْ فِىٓ أَصْحَٰبِ ٱلْجَنَّةِ ۖ وَعْدَ ٱلصِّدْقِ ٱلَّذِى كَانُوا۟ يُوعَدُونَ
 
@@ -17364,11 +17364,11 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 **مُحَمَّد** · Muhammad · Medinaagh · 38 rannaghyn
 
-*Muhammad: adsyn ta credjal as jannoo cair, as awin er ny ghialdyn ayns ynnyd-maynrys.*
+*Muhammad: adsyn ta credjal as jannoo cair, as awin er ny ghialdyn ayns Paradise.*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **47:1**  Adsyn ta mee-chredjal as çhyndaa ersooyl veih raad Yee—t'eh cur naardey nyn obbraghyn.
 
@@ -17390,7 +17390,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 سَيَهْدِيهِمْ وَيُصْلِحُ بَالَهُمْ
 
-**47:6**  As nee eh ad y ghoaill stiagh ayns ynnyd-maynrys, ta eh er n'yannoo baghtal daue.
+**47:6**  As nee eh ad y ghoaill stiagh ayns Paradise, ta eh er n'yannoo baghtal daue.
 
 وَيُدْخِلُهُمُ ٱلْجَنَّةَ عَرَّفَهَا لَهُمْ
 
@@ -17531,7 +17531,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **48:1**  Ta shin er chur dhyt varriaght vaghtal.
 
@@ -17553,7 +17553,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 لِّيُدْخِلَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ ۚ وَكَانَ ذَٰلِكَ عِندَ ٱللَّهِ فَوْزًا عَظِيمًۭا
 
-**48:6**  As nee eh kerraghey ny lag-chredjuee, deiney as mraane, as ny jalloo-oashlee, deiney as mraane, adsyn ta freill smooinaghtyn olk mychione Jee. Ta'n olk mygeayrt oc; as ta Jee corree roo, as er vlowal ad, as er n'aarlaghey niurin daue—kione-çheet treih.
+**48:6**  As nee eh kerraghey ny crauee-foalsey, deiney as mraane, as ny jalloo-oashlee, deiney as mraane, adsyn ta freill smooinaghtyn olk mychione Jee. Ta'n olk mygeayrt oc; as ta Jee corree roo, as er vlowal ad, as er n'aarlaghey niurin daue—kione-çheet treih.
 
 وَيُعَذِّبَ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ ۚ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ ۖ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ ۖ وَسَآءَتْ مَصِيرًۭا
 
@@ -17585,7 +17585,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَمَن لَّمْ يُؤْمِنۢ بِٱللَّهِ وَرَسُولِهِۦ فَإِنَّآ أَعْتَدْنَا لِلْكَٰفِرِينَ سَعِيرًۭا
 
-**48:14**  Lesh Jee ta reeriaght ny niaughyn as y thalloo. T'eh leoddey quoi-erbee saillish, as t'eh kerraghey quoi-erbee saillish. Ta Jee Fer-leoddey as Er-chymmey.
+**48:14**  Lesh Jee ta reeriaght ny niaughyn as y thalloo. T'eh leoddey quoi-erbee saillish, as t'eh kerraghey quoi-erbee saillish. Ta Jee Fer-leoddey as Myghinagh.
 
 وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا
 
@@ -17658,7 +17658,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **49:1**  O shiuish ta credjal! Ny cur-jee nyn smooinaghtyn harrish shen Yee as e Haghyer, as goaill-jee aggle roish Jee. Ta Jee Clashtagh as Fyssagh.
 
@@ -17676,7 +17676,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 إِنَّ ٱلَّذِينَ يُنَادُونَكَ مِن وَرَآءِ ٱلْحُجُرَٰتِ أَكْثَرُهُمْ لَا يَعْقِلُونَ
 
-**49:5**  My ve ad er ve foilltagh derrey haink oo magh huggey, veagh eh ny share daue. Agh ta Jee Fer-leoddey as Er-chymmey.
+**49:5**  My ve ad er ve foilltagh derrey haink oo magh huggey, veagh eh ny share daue. Agh ta Jee Fer-leoddey as Myghinagh.
 
 وَلَوْ أَنَّهُمْ صَبَرُوا۟ حَتَّىٰ تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًۭا لَّهُمْ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ
 
@@ -17712,7 +17712,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَٰكُم مِّن ذَكَرٍۢ وَأُنثَىٰ وَجَعَلْنَٰكُمْ شُعُوبًۭا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۭ
 
-**49:14**  Ta ny Arabee fassagh gra, "Ta shin er chredjal." Abbyr: "Cha vel shiu er chredjal; agh abbyr-jee, "Ta shin er ghialdyn," son cha vel yn chredjue er jeet stiagh ayns nyn greeaghyn foast. Agh my ta shiu cur biallys da Jee as e Haghyer, cha jean eh veg jeh nyn obbraghyn y yannoo ny sloo. Ta Jee Fer-leoddey as Er-chymmey."
+**49:14**  Ta ny Arabee fassagh gra, "Ta shin er chredjal." Abbyr: "Cha vel shiu er chredjal; agh abbyr-jee, "Ta shin er ghialdyn," son cha vel yn chredjue er jeet stiagh ayns nyn greeaghyn foast. Agh my ta shiu cur biallys da Jee as e Haghyer, cha jean eh veg jeh nyn obbraghyn y yannoo ny sloo. Ta Jee Fer-leoddey as Myghinagh."
 
 ۞ قَالَتِ ٱلْأَعْرَابُ ءَامَنَّا ۖ قُل لَّمْ تُؤْمِنُوا۟ وَلَٰكِن قُولُوٓا۟ أَسْلَمْنَا وَلَمَّا يَدْخُلِ ٱلْإِيمَٰنُ فِى قُلُوبِكُمْ ۖ وَإِن تُطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ لَا يَلِتْكُم مِّنْ أَعْمَٰلِكُمْ شَيْـًٔا ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ
 
@@ -17741,7 +17741,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **50:1**  Qaaf. Liorish y Choraan Ard.
 
@@ -17863,7 +17863,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍۢ
 
-**50:31**  As bee ynnyd-maynrys er ny chur er-gerrey da ny fir-chair, gyn eh foddey voue.
+**50:31**  As bee Paradise er ny chur er-gerrey da ny fir-chair, gyn eh foddey voue.
 
 وَأُزْلِفَتِ ٱلْجَنَّةُ لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ
 
@@ -17871,7 +17871,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 هَٰذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٍۢ
 
-**50:33**  Eshyn va agglagh roish yn Er-ghraihagh ayns folliaght, as haink lesh cree ta çhyndaa.
+**50:33**  Eshyn va agglagh roish yn Graysoil ayns folliaght, as haink lesh cree ta çhyndaa.
 
 مَّنْ خَشِىَ ٱلرَّحْمَٰنَ بِٱلْغَيْبِ وَجَآءَ بِقَلْبٍۢ مُّنِيبٍ
 
@@ -17935,7 +17935,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **51:1**  Liorish ny skeayleyderyn skeayley.
 
@@ -18187,7 +18187,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **52:1**  Liorish yn Slieau.
 
@@ -18395,7 +18395,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **53:1**  Liorish yn rollage myr t'eh goll sheese.
 
@@ -18656,7 +18656,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **54:1**  Ta'n Oor er jeet er-gerrey, as ta'n eayst er scoltey.
 
@@ -18880,15 +18880,15 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 ---
 
-## 55. Yn Er-ghraihagh
+## 55. Yn Graysoil
 
 **ٱلرَّحْمَٰن** · Ar-Rahman · Medinaagh · 78 rannaghyn
 
-*Ren yn Er-ghraihagh gynsaghey yn Koraan — quoi jeh foayryn dty Hiarn nee oo gobbal?*
+*Ren yn Graysoil gynsaghey yn Koraan — quoi jeh foayryn dty Hiarn nee oo gobbal?*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **55:1**  Yn Er-henney.
 
@@ -19212,7 +19212,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **56:1**  Tra hig yn taghyrt gyn-shaghney.
 
@@ -19608,7 +19608,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **57:1**  Ta dy chooilley nhee ayns ny niaughyn as y thalloo cur gloyr da Jee. T'eshyn yn Ooilley-niartal, yn Er-chreeney.
 
@@ -19736,7 +19736,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **58:1**  Ta Jee er chlashtyn raa ish ren argane rhyt mychione e sheshey, as ee gaccan gys Jee. Ren Jee clashtyn y co-loayrtys eu. Ta Jee Clashtagh as Fakin.
 
@@ -19836,7 +19836,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **59:1**  Ta ooilley ny t'ayns ny niaughyn as yn halloo cur moylley da Jee. T'eh Ooilley-niartal, yn Er-creeney smoo.
 
@@ -19914,7 +19914,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَلَا تَكُونُوا۟ كَٱلَّذِينَ نَسُوا۟ ٱللَّهَ فَأَنسَىٰهُمْ أَنفُسَهُمْ ۚ أُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ
 
-**59:20**  Cha nel cummaltee yn aine as cummaltee ynnyd-maynrys corrym. She cummaltee ynnyd-maynrys adsyn ta cosney.
+**59:20**  Cha nel cummaltee yn aine as cummaltee Paradise corrym. She cummaltee Paradise adsyn ta cosney.
 
 لَا يَسْتَوِىٓ أَصْحَٰبُ ٱلنَّارِ وَأَصْحَٰبُ ٱلْجَنَّةِ ۚ أَصْحَٰبُ ٱلْجَنَّةِ هُمُ ٱلْفَآئِزُونَ
 
@@ -19922,7 +19922,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 لَوْ أَنزَلْنَا هَٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍۢ لَّرَأَيْتَهُۥ خَٰشِعًۭا مُّتَصَدِّعًۭا مِّنْ خَشْيَةِ ٱللَّهِ ۚ وَتِلْكَ ٱلْأَمْثَٰلُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ
 
-**59:22**  She Jee eh. Cha nel jee erbee agh Eshyn, yn Er-toiggal folliaght as fockle-magh. She yn Er-ghraihagh, yn Er-chymmey eh.
+**59:22**  She Jee eh. Cha nel jee erbee agh Eshyn, yn Er-toiggal folliaght as fockle-magh. She yn Graysoil, yn Myghinagh eh.
 
 هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ ۖ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ ۖ هُوَ ٱلرَّحْمَٰنُ ٱلرَّحِيمُ
 
@@ -19943,7 +19943,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **60:1**  O shiuish chredjuee! Ny gow-jee my noidjyn as nyn noidjyn son coadeyderyn, cur graih daue, tra t'ad er vee-chredjal ayns cre haink hiuish jeh'n Firrinys. T'ad er n'eeley magh y Chaghter, as shiuish, er-yn-oyr dy ren shiu credjal ayns Jee, yn Hiarn eu. My ta shiu er gholl magh dy strualtyn son my chooish, geamagh er my aitnys, kys oddys shiu graih ad dy follit? Ta fys aym cre ta shiu follaghey as cre ta shiu soilshaghey magh. Quoi erbee nyn mast' eu jannoo shen, t'eh er gholl er-shaghryn veih'n raad cair.
 
@@ -20007,7 +20007,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **61:1**  Ta dy chooilley red ayns ny niaughyn as yn halloo cur moylley da Jee. T'eh Ooilley-niartal, Feallit.
 
@@ -20075,7 +20075,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **62:1**  Ta dy chooilley red ayns ny niaughyn as yn halloo cur gloyr da Jee yn Ree, yn Casherick, yn Ooilley-niartal, yn Feallit.
 
@@ -20122,17 +20122,17 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 وَإِذَا رَأَوْا۟ تِجَٰرَةً أَوْ لَهْوًا ٱنفَضُّوٓا۟ إِلَيْهَا وَتَرَكُوكَ قَآئِمًۭا ۚ قُلْ مَا عِندَ ٱللَّهِ خَيْرٌۭ مِّنَ ٱللَّهْوِ وَمِنَ ٱلتِّجَٰرَةِ ۚ وَٱللَّهُ خَيْرُ ٱلرَّٰزِقِينَ
 
 ---
-## 63. Ny Lag-chredjuee
+## 63. Ny Crauee-foalsey
 
 **ٱلْمُنَافِقُون** · Al-Munafiqun · Medinaagh · 11 rannaghyn
 
-*Ny lag-chredjuee dooyrt: "Ny cur-jee er adsyn ta marish y Chaghter."*
+*Ny crauee-foalsey dooyrt: "Ny cur-jee er adsyn ta marish y Chaghter."*
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
-**63:1**  Tra hig ny lag-chredjuee hood, t'ad gra: "Ta shin gymmyrkey dy nee Chaghter Yee oo." Ta fys ec Jee dy nee e hagher oo, as ta Jee gymmyrkey dy vel ny lag-chredjuee breagagh.
+**63:1**  Tra hig ny crauee-foalsey hood, t'ad gra: "Ta shin gymmyrkey dy nee Chaghter Yee oo." Ta fys ec Jee dy nee e hagher oo, as ta Jee gymmyrkey dy vel ny crauee-foalsey breagagh.
 
 إِذَا جَآءَكَ ٱلْمُنَٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَٰفِقِينَ لَكَٰذِبُونَ
 
@@ -20156,11 +20156,11 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 
-**63:7**  She adsyn ta gra: "Ny cur-jee red erbee er adsyn ta marish Chaghter Yee, derrey t'ad er scarrey voish." Lesh Jee ta tashtaghyn ny niaughyn as y halloo, agh cha vel ny lag-chredjuee toiggal.
+**63:7**  She adsyn ta gra: "Ny cur-jee red erbee er adsyn ta marish Chaghter Yee, derrey t'ad er scarrey voish." Lesh Jee ta tashtaghyn ny niaughyn as y halloo, agh cha vel ny crauee-foalsey toiggal.
 
 هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُوا۟ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّوا۟ ۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَٰكِنَّ ٱلْمُنَٰفِقِينَ لَا يَفْقَهُونَ
 
-**63:8**  T'ad gra: "My hem mayd back gys y Valley, nee'n er s'niartal ayn geiyrt magh yn er s'lag." Agh ta pooar lesh Jee, as e hagher, as ny chredjuee; agh cha vel fys ec ny lag-chredjuee.
+**63:8**  T'ad gra: "My hem mayd back gys y Valley, nee'n er s'niartal ayn geiyrt magh yn er s'lag." Agh ta pooar lesh Jee, as e hagher, as ny chredjuee; agh cha vel fys ec ny crauee-foalsey.
 
 يَقُولُونَ لَئِن رَّجَعْنَآ إِلَى ٱلْمَدِينَةِ لَيُخْرِجَنَّ ٱلْأَعَزُّ مِنْهَا ٱلْأَذَلَّ ۚ وَلِلَّهِ ٱلْعِزَّةُ وَلِرَسُولِهِۦ وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ ٱلْمُنَٰفِقِينَ لَا يَعْلَمُونَ
 
@@ -20186,7 +20186,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **64:1**  Ta dy chooilley red ayns ny niaughyn as yn halloo cur moylley da Jee. Leshyn ta'n Reill, as leshyn ta dy chooilley voylley, as t'eh Abbal dy yannoo dy chooilley red.
 
@@ -20269,7 +20269,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **65:1**  O phadeyr! My ta unnane eu scarrey mraane, scar-jee ad ayns traa nyn glennid, as coontey-jee nyn emshir. As bee-jee crauee roish Jee, yn Hiarn eu. As ny geiyr-jee ad magh veih nyn dhieyn, as cha jed ad magh, mannagh vel ad er n'yannoo brishey poosey proit. Ad shoh joaraghyn Yee — quoi erbee ghoys harrish joaraghyn Yee, t'eh er n'yannoo aggair er e annym hene. Cha vel fys eu; foddee dy der Jee er-gerrey red noa.
 
@@ -20329,7 +20329,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **66:1**  O phadeyr! Cre'n-fa t'ou cur meeill er cre ta Jee er n'yannoo lowal dhyt, geamagh er aitnys dty ven cheilley? Ta Jee Leihagh as Myghinagh.
 
@@ -20363,7 +20363,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ تُوبُوٓا۟ إِلَى ٱللَّهِ تَوْبَةًۭ نَّصُوحًا عَسَىٰ رَبُّكُمْ أَن يُكَفِّرَ عَنكُمْ سَيِّـَٔاتِكُمْ وَيُدْخِلَكُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ يَوْمَ لَا يُخْزِى ٱللَّهُ ٱلنَّبِىَّ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ ۖ نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِمْ يَقُولُونَ رَبَّنَآ أَتْمِمْ لَنَا نُورَنَا وَٱغْفِرْ لَنَآ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
 
-**66:9**  O phadeyr! Strualt dy doillee noi ny mee-chredjuee as ny lag-chredjuee, as bee geyre roo. Ta'n ynnyd oc niurin. Cre'n çheet olk!
+**66:9**  O phadeyr! Strualt dy doillee noi ny mee-chredjuee as ny crauee-foalsey, as bee geyre roo. Ta'n ynnyd oc niurin. Cre'n çheet olk!
 
 يَٰٓأَيُّهَا ٱلنَّبِىُّ جَٰهِدِ ٱلْكُفَّارَ وَٱلْمُنَٰفِقِينَ وَٱغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَىٰهُمْ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ
 
@@ -20371,7 +20371,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ
 
-**66:11**  As ta Jee soilshaghey sampleyr jeh adsyn ta credjal: ben Pharaoh, tra dooyrt ee: "My Hiarn, trog dou, mayrt, thie ayns ynnyd-maynrys, as saue mee veih Pharaoh as e obbraghyn, as saue mee veih'n sleih mee-yantagh."
+**66:11**  As ta Jee soilshaghey sampleyr jeh adsyn ta credjal: ben Pharaoh, tra dooyrt ee: "My Hiarn, trog dou, mayrt, thie ayns Paradise, as saue mee veih Pharaoh as e obbraghyn, as saue mee veih'n sleih mee-yantagh."
 
 وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
 
@@ -20388,7 +20388,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **67:1**  Bannit ta Eshyn ayns e laue ta'n reill, as ta pooar echey harrish dy chooilley red.
 
@@ -20398,7 +20398,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 ٱلَّذِى خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًۭا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْغَفُورُ
 
-**67:3**  Eshyn ren shiaght niaughyn y chroo ayns stratyn. Cha vel oo fakin mee-chorrym erbee ayns croo yn Er-ghraihagh. Jeeagh reesht. Vod oo fakin scolt erbee?
+**67:3**  Eshyn ren shiaght niaughyn y chroo ayns stratyn. Cha vel oo fakin mee-chorrym erbee ayns croo yn Graysoil. Jeeagh reesht. Vod oo fakin scolt erbee?
 
 ٱلَّذِى خَلَقَ سَبْعَ سَمَٰوَٰتٍۢ طِبَاقًۭا ۖ مَّا تَرَىٰ فِى خَلْقِ ٱلرَّحْمَٰنِ مِن تَفَٰوُتٍۢ ۖ فَٱرْجِعِ ٱلْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍۢ
 
@@ -20462,11 +20462,11 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَلَقَدْ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ
 
-**67:19**  Nagh vel ad er vakin ny ushtagan harrish ad, skeayley nyn skianyn, as ad y phohllal? Cha vel unnane cummal ad agh yn Er-ghraihagh. T'eh fakin dy chooilley red.
+**67:19**  Nagh vel ad er vakin ny ushtagan harrish ad, skeayley nyn skianyn, as ad y phohllal? Cha vel unnane cummal ad agh yn Graysoil. T'eh fakin dy chooilley red.
 
 أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَٰٓفَّٰتٍۢ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا ٱلرَّحْمَٰنُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ
 
-**67:20**  Ny quoi eh shoh ta niart diuish dy choadey shiu noi yn Er-ghraihagh? Cha vel ny mee-chredjuee agh ayns moltey.
+**67:20**  Ny quoi eh shoh ta niart diuish dy choadey shiu noi yn Graysoil? Cha vel ny mee-chredjuee agh ayns moltey.
 
 أَمَّنْ هَٰذَا ٱلَّذِى هُوَ جُندٌۭ لَّكُمْ يَنصُرُكُم مِّن دُونِ ٱلرَّحْمَٰنِ ۚ إِنِ ٱلْكَٰفِرُونَ إِلَّا فِى غُرُورٍ
 
@@ -20502,7 +20502,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 قُلْ أَرَءَيْتُمْ إِنْ أَهْلَكَنِىَ ٱللَّهُ وَمَن مَّعِىَ أَوْ رَحِمَنَا فَمَن يُجِيرُ ٱلْكَٰفِرِينَ مِنْ عَذَابٍ أَلِيمٍۢ
 
-**67:29**  Abbyr: "She yn Er-ghraihagh eh. Ta shin er credjal ayn, as ayn ta shin cur nyn marrant. T'eh er-gerrey heeys shiu quoi ta ayns shaghrynys soilshey."
+**67:29**  Abbyr: "She yn Graysoil eh. Ta shin er credjal ayn, as ayn ta shin cur nyn marrant. T'eh er-gerrey heeys shiu quoi ta ayns shaghrynys soilshey."
 
 قُلْ هُوَ ٱلرَّحْمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيْهِ تَوَكَّلْنَا ۖ فَسَتَعْلَمُونَ مَنْ هُوَ فِى ضَلَٰلٍۢ مُّبِينٍۢ
 
@@ -20519,7 +20519,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **68:1**  Noon. Liorish y phenn, as liorish cre t'ad screeu.
 
@@ -20739,7 +20739,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **69:1**  Yn Firrinys.
 
@@ -20958,7 +20958,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **70:1**  Ren fer-fenish briaght jeh kerraghey ta çheet.
 
@@ -21146,7 +21146,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **71:1**  Ren shin Noah y chur gys e sleih: "Cur-jee raaue da'n sleih eu roish my hig kerraghey gonnagh orroo."
 
@@ -21268,7 +21268,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **72:1**  Abbyr: "Va eh er ny hoilshaghey dou dy ren possan dy jinn eistagh stiagh, as dooyrt ad: 'Ta shin er chlashtyn Choraan yindyssagh.
 
@@ -21391,7 +21391,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **73:1**  O uss yn Fer-follit.
 
@@ -21482,7 +21482,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **74:1**  O uss yn Fer-coodit.
 
@@ -21717,7 +21717,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **75:1**  Ta mee loo liorish Laa'n Irree-seose.
 
@@ -21889,7 +21889,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **76:1**  Vel traa er jeet er y dooinney, tra nagh row eh agh nhee erbee nagh row coontit?
 
@@ -22025,7 +22025,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **77:1**  Mish adsyn ta scailt magh ayns coardail.
 
@@ -22237,7 +22237,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **78:1**  Cre t'ad briaght jeh cheilley mychione?
 
@@ -22383,11 +22383,11 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 جَزَآءًۭ مِّن رَّبِّكَ عَطَآءً حِسَابًۭا
 
-**78:37**  Hiarn ny niaughaghyn as y thalloo, as dy chooilley nhee eddyr oc — yn Er-ghraihagh — cha nod unnane erbee argane rish.
+**78:37**  Hiarn ny niaughaghyn as y thalloo, as dy chooilley nhee eddyr oc — yn Graysoil — cha nod unnane erbee argane rish.
 
 رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًۭا
 
-**78:38**  Er y Laa tra ta'n Spyrryd as ny ainlyn shassoo ayns rheynn. Cha loayr ad, mannagh bee eh fer ta kiedit liorish yn Er-ghraihagh, as jir eh shen ta kiart.
+**78:38**  Er y Laa tra ta'n Spyrryd as ny ainlyn shassoo ayns rheynn. Cha loayr ad, mannagh bee eh fer ta kiedit liorish yn Graysoil, as jir eh shen ta kiart.
 
 يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَٰٓئِكَةُ صَفًّۭا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَٰنُ وَقَالَ صَوَابًۭا
 
@@ -22409,7 +22409,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **79:1**  Mish adsyn ta spolleih dy niartal.
 
@@ -22571,7 +22571,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفْسَ عَنِ ٱلْهَوَىٰ
 
-**79:41**  Eisht she ynnyd-maynrys yn fastee.
+**79:41**  Eisht she Paradise yn fastee.
 
 فَإِنَّ ٱلْجَنَّةَ هِىَ ٱلْمَأْوَىٰ
 
@@ -22605,7 +22605,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **80:1**  Ren eh groamey as çhyndaa ersooyl.
 
@@ -22785,7 +22785,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **81:1**  Tra ta'n ghrian er ny chrymmey seose.
 
@@ -22835,7 +22835,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ
 
-**81:13**  Tra ta ynnyd-maynrys er ny chur er-gerrey.
+**81:13**  Tra ta Paradise er ny chur er-gerrey.
 
 وَإِذَا ٱلْجَنَّةُ أُزْلِفَتْ
 
@@ -22913,7 +22913,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **82:1**  Tra ta'n aer brishtey veih cheilley.
 
@@ -23001,7 +23001,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **83:1**  Smerg da ny molteyryn.
 
@@ -23157,7 +23157,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **84:1**  Tra ta'n aer er ny raipey.
 
@@ -23270,7 +23270,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **85:1**  Mish yn aer lesh ny rollageyn.
 
@@ -23370,7 +23370,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **86:1**  Mish yn aer as at-Tariq.
 
@@ -23450,7 +23450,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **87:1**  Cur moylley da Ennym dty Hiarn, yn Er Syrjey.
 
@@ -23538,7 +23538,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **88:1**  Vel naight yn choodagh er jeet hood?
 
@@ -23654,7 +23654,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **89:1**  Mish y voirrey.
 
@@ -23772,7 +23772,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 فَٱدْخُلِى فِى عِبَٰدِى
 
-**89:30**  Gow stiagh ayns my ynnyd-maynrys.
+**89:30**  Gow stiagh ayns my Paradise.
 
 وَٱدْخُلِى جَنَّتِى
 
@@ -23786,7 +23786,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **90:1**  Ta mee loo fo'n thalloo shoh.
 
@@ -23878,7 +23878,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **91:1**  Mish y ghrian as e hoilshean.
 
@@ -23952,7 +23952,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **92:1**  Liorish yn oie myr t'ee coodaghey.
 
@@ -24047,7 +24047,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **93:1**  Liorish soilshey'n voghrey.
 
@@ -24103,7 +24103,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **94:1**  Nagh ren shin dty chree y lheeadey?
 
@@ -24146,7 +24146,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **95:1**  Liorish yn billey-fig as yn billey-olive.
 
@@ -24190,7 +24190,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **96:1**  Lhaih: Ayns Ennym dty Hiarn ren croo.
 
@@ -24278,7 +24278,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **97:1**  Ren shin eh y chur sheese er Oie'n Oardagh.
 
@@ -24310,7 +24310,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **98:1**  Cha row adsyn ren mee-chredjal mastey Sleih'n Lioar, as ny jalloo-ooashleyderyn, scarrit, derrey haink Yn Cowrey-hoalshit huc.
 
@@ -24353,7 +24353,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **99:1**  Tra ta'n thalloo craait lesh e chraa.
 
@@ -24397,7 +24397,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **100:1**  Liorish ny cabbyl ass-hoalley.
 
@@ -24452,7 +24452,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **101:1**  Yn Er-builley.
 
@@ -24508,7 +24508,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **102:1**  Ta palchey cur shaghryn erriu.
 
@@ -24551,7 +24551,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **103:1**  Liorish traa.
 
@@ -24575,7 +24575,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **104:1**  Smerg da dagh gonderagh scammyltagh.
 
@@ -24623,7 +24623,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **105:1**  Nagh vel oo er smooinaghtyn kys ren dty Hiarn dellal rish Sleih yn Elfant?
 
@@ -24654,7 +24654,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **106:1**  Son sauçhey Quraysh.
 
@@ -24682,7 +24682,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **107:1**  Vel oo er smooinaghtyn er eshyn ta gobbal yn chredjue?
 
@@ -24722,7 +24722,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **108:1**  Ta shin er choyrt dhyt palchey.
 
@@ -24745,7 +24745,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **109:1**  Abbyr: "O vee-chredjuee.
 
@@ -24781,7 +24781,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **110:1**  Tra hig barriaght Yee, as cosney.
 
@@ -24805,7 +24805,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **111:1**  Ta laueyn Abee Lahab mollit, as t'eh hene mollit.
 
@@ -24836,7 +24836,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **112:1**  Abbyr: "She Jee yn Unnan.
 
@@ -24864,7 +24864,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **113:1**  Abbyr: "Ta mee goaill fastee ayns Hiarn y Vaidjin.
 
@@ -24896,7 +24896,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-*Ayns ennym Yee, yn Er-ghraihagh, yn Er-chymmey.*
+*Ayns ennym Yee, yn Graysoil, yn Myghinagh.*
 
 **114:1**  Abbyr: "Ta mee goaill fastee ayns Hiarn ny Sleih.
 
