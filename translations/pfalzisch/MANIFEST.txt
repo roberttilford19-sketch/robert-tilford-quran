@@ -1,0 +1,59 @@
+MANIFEST — Ayah Companion Pfälzisch
+
+Built 2026-11-23 on Robert Tilford's word (main chat, 2026-11-23 01:58 CST:
+"A — Open the Pfälzisch lane now on the pins as they stand").
+Landed under the Pipeline Landing Authorization (2026-11-14).
+
+Status: a complete rendering of the Quran in Pfälzisch (Palatine) — all
+6,236 verses, the whole book, nothing left out — with the Arabic text
+alongside. DRAFT — NOT PUBLISHED. No first-translation claim is made.
+Translated by Robert Tilford. © 2026 Robert Tilford.
+
+The name, stated plainly: this book is in Pfälzisch, the ancestral tongue
+of the Ellis County, Kansas settlements of Victoria/Herzog and Catherine.
+It is NOT Volga German (Wolgadeutsch), and it is not labelled or described
+as such anywhere in the book or in this record. The Volga German lane
+stands source-stuck on its own record; this is a different book under its
+own true name. The dedication page stands as a marked empty place, by
+Robert Tilford's ruling for this lane.
+
+Sources (gateway pins in GATE-PINS-PF-2026-11-23.md; sources note in
+SOURCES-NOTE-PF-2026-11-23.md):
+- Control text: Dieter Zimmer, Es Neie Teschdament — Es lewenniche Wort
+  (ELW), text status May 2021, a complete Westpfälzisch New Testament
+  (Evangelische Kirche der Pfalz / Pfälzer Bibelverein). Two limits ride
+  with it, here and on the book's face: it is a New Testament only, and
+  its centre is West Palatine. © Dieter Zimmer, all rights reserved —
+  used as a control only: read for forms and terminology, never
+  reproduced. Orthography is seated in the control's spelling.
+- Dictionary: the Pfälzisches Wörterbuch at the Trierer Wörterbuchnetz
+  (woerterbuchnetz.de) — complete across the alphabet behind a
+  one-lemma-at-a-time interface; no bulk file exists. The interface road
+  and its limit are disclosed in the book's front matter.
+
+Gates, all run 2026-11-23 (records in this folder):
+- Canonical recount and verify against the Locked English Master:
+  6,236 of 6,236 verses in master sequence, per-surah 114/114, Arabic
+  byte-identical at every seat (6,348 Arabic lines, sequence-identical),
+  Basmalah uniform (112 openings + 1:1 + 27:30), prostration notes 15/15,
+  no zakat percentage. Battery ALL PASS, before and after corrections.
+- Independent checker (did not build the text): PASS WITH CORRECTIONS —
+  language sample of 40 verses across all 17 build chunks: (a) 19 real
+  Pfälzisch, (b) 19 Pfälzisch frame with drift or coinage, (c) 2;
+  fidelity spot-check of 10 verses found no imported doctrine;
+  attestation 83.63% of tokens against the control's lexicon, stated as
+  a floor (the lexicon was machine-tokenised from the control's text and
+  splits some of its own words).
+- All 24 required corrections applied and re-verified (2,003 counted
+  replacements, on top of 4,212 desk conform replacements seating the
+  text in the control's combined-2021 orthography): the locked mercy
+  pair corrected at 55:1; sixteen high-frequency drift forms conformed
+  book-wide to the control's attested forms; 53 bracketed seats resolved
+  to attested or book-carried forms. Full account in
+  CORRECTIONS-PF-2026-11-23.md.
+- 311 bracketed GAP seats stand open in the text, each graded a true gap
+  by the checker — no attested form found, and no word invented.
+  Disclosed devices and standing flags: FLAGS-PF.md.
+
+Manuscript: ayah-companion-manuscript-PF.md — 2,291,240 bytes,
+SHA-256 6b3a57a7c44235476ff04a772ac58e445eeb49c104ee57f71bc94d8228ff00cb.
