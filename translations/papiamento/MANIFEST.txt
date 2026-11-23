@@ -1,0 +1,25 @@
+PAPIAMENTO (Papiamentu — Curaçao/Bonaire orthography) — Ayah Companion
+Shelf folder 217 of the Quran shelf (counted 2026-11-23 at landing).
+Landed 2026-11-23 under the Pipeline Landing Authorization (2026-11-14), on Robert Tilford's build word of 2026-11-23 (build all six census-buildable lanes).
+
+STATUS: DRAFT — machine-assisted translation by non-speakers under Robert Tilford's direction, landed on the shelf 2026-11-23; NOT speaker-reviewed. No native or critic review is awaited, invited, or chased (Robert's ruling, 2026-11-18).
+
+COUNTS (all reconciled by machine count at landing):
+- Surahs 114/114; verses 6,236/6,236; per-surah counts equal at every surah; verse sequence identical to the Locked English Master.
+- Arabic identical at every seat; Arabic-bearing lines 6,348/6,348 (6,236 verse lines + 112 Basmalah lines; Surah 9 has no Basmalah; Surah 1's Basmalah is verse 1:1).
+- Prostration markers 15 (11 rekomendá + 4 obligatorio), matching the master seat for seat.
+- GAP seats: 0. Flags disclosed: 171 (FLAGS-AND-GAPS-DISCLOSURE-PAP.txt).
+- Attestation against the held sources: 96.11% exact-form / 96.90% accent-folded (lexicon 24,768 forms: complete Bible control + official wordlists).
+
+CHECKER: independent checker (built no range) — PASS WITH CORRECTIONS. Sample of 48 seats: (a) real Papiamentu 38, (b) frame with coinage/uncertain word 10, (c) effectively not Papiamentu 0. All four required fixes applied or discharged and re-verified (CORRECTIONS-PAP.txt items 2–5). One desk correction before the checker: 56:52 Zaqqum tree name unified (item 1).
+
+PURPLE SWEEP: reconciled clean — Arabic direct match 6,348/6,348; headings 114/114; slice refsets equal; G8 clean; the 5:6 note present. G7's 4,080 hits are the native Papiamentu words no/for/so, not English leakage (only two verse texts equal the English: 19:1 and 20:1, the disconnected-letter names).
+
+SOURCES: Locked English Master (source text); Aruba official wordlist dataset (16,218 lemmas, Departamento di Enseñansa Aruba 2009) + official Curaçao↔Aruba variants — dictionary pillar (the FPI Buki di Oro PDF itself could not be fetched during the build; disclosed in BUILD-RECORD-PAP.txt); control: Beibel na Papiamentu Koriente (1997, rev. 2013), complete, via YouVersion. Lago 1953 NOT relied on, not claimed as open.
+
+DECLARED RULINGS: God=Dios; Lord=Señor; ar-Rahman=e Klemente (the control's own word at Exodus 34:6); ar-Rahim=e Miserikòrdioso; Basmalah locked "Den nòmber di Dios, e Klemente, e Miserikòrdioso."; zakat as charity, no percentage; surah titles are the desk's Papiamentu renderings of the master's English titles. No first-translation claim beyond: no complete Papiamentu Quran translation found — after research (2026-11-23).
+
+CARRIED SEATS (disclosed, riding as built): the declared coinages and descriptive renderings in the flags disclosure; 5:6 "elboog"/"enkel" stand flagged — no attested Papiamentu form exists in any source held. Master defects reported, not repaired by this lane: literal <redacted> artifacts in the Locked English Master at 11:2 and 48:8.
+
+MANUSCRIPT: ayah-companion-manuscript-PAP.md — 2,234,751 bytes — SHA-256 faad84f1e626157df34e659d9a108639ae809ffbe7f0511611bb5da42033ed18
+Lane folder (full working record): ~/workspace/ayah-papiamento/

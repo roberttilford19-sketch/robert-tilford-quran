@@ -1,0 +1,27 @@
+# Corrections — Papiamento lane (PAP), 2026-11-23
+
+Corrections applied to the assembled manuscript after the build, each diff-verified against the master slices. The master itself was not touched.
+
+1. **56:52 — Zaqqum tree name unified.** Range 7 rendered the Tree of Zaqqum as "e Palu di Margura"; ranges 5 and 6 rendered the same tree at 37:62 and 44:43 as "E Palu di Amargura" (the master's "Tree of Bitterness"). 56:52 conformed to "E Palu di Amargura" for one name across the book. Diff: exactly one line changed; the full verification battery was re-run clean afterwards (6,236/6,236; Arabic identical at every seat).
+
+## Checker-required fixes (independent checker, PASS WITH CORRECTIONS — all applied and re-verified)
+
+2. **cerca → serka, book-wide.** The checker's one systematic orthography catch: the builders used the Aruba/Spanish form *cerca* where the control and the variants file (var-0084) give Curaçao *serka* (control: serka 972, cerca 0). All 90 tokens (84 lowercase + 6 capitalised) in 75 seats replaced; *cerca* now counts 0 in the manuscript. Battery re-run clean.
+3. **buig → prosterná at 16 seats** (7:11, 7:12, 7:206, 9:112, 12:4, 13:15, 15:30, 15:31, 15:32, 15:33, 15:98, 16:48, 16:49, 17:61, 18:50, 20:116), conformed to the manuscript's own adapted form (as at 22:18 and 55:6). *Buig* (a raw Dutch verb) now counts 0.
+4. **24:59 epithet collapse repaired.** The range builder printed "Dios ta Sabio i Sabio" for the master's "God is Knowledgeable and Wise". Restored: "Dios ta yen di konosementu i ta Sabio."
+5. **5:6 "elboog" — stands, explicitly flagged.** The checker required an attested substitute or a flagged seat. No attested Papiamentu form for "elbow" exists in any source held (searched: full Bible control, official wordlist, variants, verb forms — no hit); inventing one would break the lane's discipline, so the Dutch loan stands **flagged** here and in the disclosure addendum, exactly as the checker's alternative allows. The same applies to "enkel" (ankle) in the same verse, already flagged by the range builder.
+
+## A checker caveat overtaken by events
+
+The checker reported the control as "22 books, Old Testament only" — true at the hour it sampled, while the harvest was still running. The harvest has since completed: **all 66 books** of PBDC13 are held in `sources/bible-pbdc13/` (harvest log ends "ALL DONE"), and the attestation lexicon was built on the complete control. The checker's grades and fixes are unaffected; only its coverage sentence is superseded, and it is corrected here rather than in the checker's own report, which stands as written.
+
+## Items examined and deliberately NOT changed
+
+- **82:15, 82:17, 82:18 — "Dia di Hustisia" stands.** Range 8 flagged its own choice against the locked table's "Dia di Huisio". The master at these three seats reads "Day of Justice", a different English phrase from "Day of Judgment"; the locked "Dia di Huisio" governs the Judgment seats. Rendering the two phrases distinctly is fidelity to the master, not deviation. No change.
+- **19:1 and 20:1 identical to the English master.** These verses are the disconnected-letter names ("Kaf, Ha, Ya, Ayn, Saad." / "Ta, Ha."); the letter names are the same in Papiamentu transliteration. No change.
+- **Zakat seats vary between "karidat obligatorio" and "limosna"** (flagged at 2:110, 2:177, 5:12 by range 1). Both words stand in the locked table; no seat carries a percentage, which is the substantive ruling. The variation is disclosed in the flags file and rides as built.
+- **Coined "Sustentadó" at 2:255** and the other declared coinages in the flags file ride as disclosed (b)-grade seats, as in the Scots and Manx lanes; they are named in the disclosure, not hidden.
+
+## Defects found in the master itself (reported, not repaired here)
+
+- **11:2 and 48:8** — the Locked English Master carries a literal `<redacted>` artifact in the phrase "a bearer of good news" at both seats. Both ranges rendered the sense ("un portadó di bon notisia") from the witness/bearer/warner pattern of the surrounding text. The master file was not edited by this lane; the defect is reported here for the desk's own correction pass on the master.

@@ -1,0 +1,95 @@
+# Independent Checker Report — Papiamento (Papiamentu) Quran Lane
+
+**Manuscript checked:** `~/workspace/ayah-papiamento/ayah-companion-manuscript-PAP.md`
+**Date:** 2026-11-23 · **Checker:** independent (did not build this text) · **Manuscript edited:** No.
+
+**Verdict: PASS WITH CORRECTIONS** — the required fixes are listed precisely in §5. The book is complete, the locked rulings hold without exception, and no sampled verse is effectively non-Papiamentu; but a systematic Aruba-spelling leakage (`cerca` for Curaçao `serka`, 75 seats) breaks the declared "the Bible's spelling wins" norm and must be corrected before the text can be called conformant to its own declared norm.
+
+---
+
+## 0. Completeness and control coverage (same breath as the claims)
+
+- Verse lines in the manuscript: **6,236** (regex count of `**N:V**` lines), surah headers **114**. The count reconciles by count, not by sampling.
+- Control text actually found in `sources/bible-pbdc13/`: **22 books, Old Testament only** — GEN, EXO, LEV, NUM, DEU, JOS, JDG, RUT, 1SA, 2SA, 1KI, 2KI, 1CH, 2CH, EZR, NEH, EST, JOB, PSA, PRO, ECC, SNG. **No New Testament book was present.** Attestation claims below therefore rest on an OT-only control plus the Aruba wordlists; any "Bible-attested" statement in the build record that implies NT coverage is not supported by what is held.
+- Wordlists held and used: `aruba-official-words.jsonl` 16,218 lemmas (verified by line count), `aruba-official-variants.jsonl` 372 pairs, `aruba-official-verb_forms.jsonl` 1,921, `aruba-official-closed_classes.jsonl` 181, `aruba-official-numbers.jsonl` 159, `aruba-official-names.jsonl` 380.
+
+## 1. Language sample — 48 verses
+
+**Method.** Every 150th verse of the ordered 6,236 (41 seats: #150 … #6150), plus the mandated seats 2:255, 5:6, 55:13 (the Surah 55 refrain; the identical refrain text also falls at #4950 = 55:49), and 112:1–4 — 48 distinct seats. Each seat was read in full and its vocabulary checked against the Bible control vocabulary, the Curaçao forms in the variants file, and the Aruba lemma list (a lemma attested under its Aruba spelling still attests the word; only the spelling is then at issue, graded in §3, not here). Regular Papiamentu derivation (plural *-nan*, verb *-á/-é* forms, *miserikòrdia/miserikòrdioso*) was not counted against a verse — an automated unattested-token scan produced those as candidates and a contextual check cleared them.
+
+**Counts: (a) real Papiamentu 38 · (b) Papiamentu frame with a coinage or uncertain word 10 · (c) effectively not Papiamentu 0.**
+
+Every (b) seat, with the offending word:
+
+| Seat | Offending word(s) | Ground |
+|---|---|---|
+| 3:7 | **desenso**, **enraisá**, **spesífiko** | None attested in the Bible control, the variants file, or the lemma list; Spanish-shaped coinages. (The English master itself reads "seeking descent" at this seat, so *desenso* faithfully follows a master wording that itself looks corrupt for "dissension" — the fault is inherited, but the Papiamentu word is still unattested.) |
+| 5:6 | **elboog** | Raw Dutch form; found in **no** source held (0 in Bible control, 0 in all wordlists). Its pair *enkel* in the same verse **is** an attested lemma. |
+| 11:27 | **notabelnan**, **inmaduro** | Spanish-shaped loans, unattested in the sources held. |
+| 14:50 | **alkitran** | Adapted from Spanish *alquitrán*; unattested in the sources held. |
+| 16:49 | **buig** | Unadapted Dutch infinitive used as the Papiamentu verb ("Pa Dios ta buig tur kos…"). Unattested in the sources held; the manuscript itself has the adapted form *prosterná* at 55:6. Recurs at 16 seats book-wide (see §5). |
+| 24:59 | **pubertat**, **klarifiká** | Unattested in the sources held. (The same verse also carries the fidelity fault in §4.) |
+| 28:48 | **deskrendo** | Malformed gerund coinage ("Nos ta deskrendo den tur dos"); unattested. |
+| 33:67 | **superiornan**, **dignitarionan** | Spanish-shaped calques, unattested in the sources held. |
+| 40:67 | **embrion**, **beibi** | Unattested loans. The verse's *simia* is **not** a fault: lemma `simia` is attested with the gloss "seed" (pap-013854), exactly the English sense here. |
+| 45:27 | **falsifikadónan** | Coinage for the master's "falsifiers"; unattested in the sources held. |
+
+No (c) seat was found: no English function-word leftovers occur in any verse line in the book (verse-only counts for *the / educacion / gracia / cas / cielo* are all **0**; the single whole-file hits for those words are the frontmatter's own English explanation of the Aruba forms, which is correct usage).
+
+Cleared after checking, specifically: 55:13/55:49 refrain *maraviyanan* — lemma `maraviya` is attested (pap-009512), grade (a); 2:255 — real Papiamentu throughout (its *cerca* is an orthography fault, §3, not a language fault), grade (a); 112:1–4 — all grade (a) (*komparabel* at 112:4 is an ordinary international loan in a clean Papiamentu frame).
+
+## 2. Locked-term conformity
+
+All figures are whole-manuscript grep counts, run by the checker:
+
+| Check | Expected | Found | Result |
+|---|---|---|---|
+| Italic Basmalah lines `*Den nòmber di Dios, e Klemente, e Miserikòrdioso.*` | 112 | **112** | ✅ exact |
+| Basmalah as verse 1:1, same words, **not** italic | 1 | **1** (`**1:1**  Den nòmber di Dios, e Klemente, e Miserikòrdioso.`) | ✅ |
+| Surah 9 opening | NO Basmalah | **None** — Surah 9 goes from its intro line straight to 9:1; its intro even discloses "sin un basmala" | ✅ |
+| In-text Basmalah quotation at 27:30 | present, non-italic | **1**, inside single quotes in 27:30 | ✅ (this, 1:1, and the frontmatter's own quotation account for all 115 whole-file occurrences of the Basmalah string: 112 + 3) |
+| "Allah" left as a God-word | 0 | **0** in the Papiamentu text (the string occurs only inside the copied Arabic lines, which are not Papiamentu text) | ✅ |
+| `%` sign anywhere (zakat percentage fence) | 0 | **0**; also 0 for *porshento/porciento*. Zakat rendered *karidat* (42) / *limosna* (8) | ✅ |
+| Prostration notes | 11 rekomendá + 4 obligatorio | **11** × `[prostrashon — rekomendá]`, **4** × `[prostrashon — obligatorio]` | ✅ exact |
+| 5:6 translator's note with ¶ | present | **Present**: `*[¶ Algun lesamentu ta sigui e fregamentu te na e pianan; e lesamentu imprimí aki ta bisa laba.]*`, placed mid-verse exactly where the variant reading bites | ✅ |
+| God = *Dios* / Lord = *Señor* | throughout | *Dios* 2,868; *Señor* 983; *Senor* (unaccented) **0** | ✅ |
+| Surah 55 title/refrain use of the Rahman ruling | *e Klemente* | Title "## 55. E Klemente"; 55:1 "E Klemente."; refrain 31× "Pues kua di e maraviyanan di boso Señor boso lo nenga?" — matching the master's own refrain wording ("which of your Lord's marvels") | ✅ |
+
+One conformity note, not a deviation: *Klemente* is also used where the English master itself says "Clement" for the divine epithet Ḥalīm (e.g. 2:263, master: "God is Rich and Clement" → "Dios ta Riku i Klemente"). That follows the master; it does mean one Papiamentu word carries both ar-Rahman and Ḥalīm, which the desk may wish to note in the build record, but it is not a breach of the locked ruling as declared.
+
+## 3. Orthography spot check — Aruba-etymological leakage
+
+The headline Aruba forms are **absent from the verse text**: *cielo* 0 (vs *shelu* 309), *educacion* 0 in verses (*edukashon* present), *gracia* 0 in verses (vs *grasia* 47), *cas/casa* 0 in verses (vs *kas* 73). The c-before-a/o/u scan over all 6,236 verse lines returns only legitimate *ch-* words (*chikí, cherchi, chansa*…), *cerca* (below), and one loan *completo* (56:65) — there is no broad c-leakage.
+
+**One systematic leakage was found, and it is the report's main correction:**
+
+- **`cerca` for Curaçao `serka` — 84 tokens in 75 distinct verse seats.** The variants file is explicit: var-0084, Curaçao `serka` ↔ Aruba `cerca`. The Bible control is unanimous: `serka` 972 occurrences, `cerca` **0**. The manuscript itself uses the correct `serka` 397 times (398 seats), so this is an inconsistency inside the book, not a chosen norm. First seats: 2:28, 2:37, 2:38, 2:46, 2:54, 2:62, 2:85, 2:87, 2:89, 2:92, 2:94, 2:101, 2:110, 2:112, 2:118, 2:120, 2:145, 2:156, 2:187, 2:203, 2:209, 2:210, 2:213, 2:214, 2:217, 2:245, 2:253, **2:255**, 2:260, 2:262, 2:277, 2:282, 3:14, 3:15, 3:19, 3:37, 3:49, 3:50, 3:55, 3:61 (full seat list reproducible by `grep` on the word — the checker counts, not a sample: 75 seats, 84 tokens).
+- Checked and cleared: **`intenshoná`** (from lemma `intencion`, pap-008300) — 34 tokens in 31 seats (first: 2:26, 2:225, 4:26–28, 4:62, 5:3, 5:11…). A checker grep for an *s*-spelled variant (`intensioná`) returns **0**; the *sh* spelling is uniform book-wide and conforms to the declared norm. No fault.
+
+## 4. Fidelity spots — 6 verses against the English slices
+
+Compared against `work/en/surah_NNN.txt` (the Locked English Master slices):
+
+1. **2:255 — faithful.** Every clause of the master is present, in order, with no addition or softening. Only faults are orthographic (*cerca Dje* → *serka Dje*, §3) and the heavy calque *ku eksepshon di / ku eksepshon ku* ×3 for "except" — grammatical and Bible-attested as a phrase (*eksepshon* occurs 28× in the control), so noted, not failed.
+2. **5:6 — faithful, one word fails attestation.** The ablution sequence, the ¶ variant note, and the full second half of the verse (impurity, illness/travel, tayammum, "God does not intend to burden you…") are all present and accurate. Sole fault: *elboog* (§1).
+3. **24:59 — meaning drift (softening by collapse).** Master: "God is **Knowledgeable and Wise**." Manuscript: "Dios ta **Sabio i Sabio**." Two distinct epithets are collapsed into one word repeated; the "Knowledgeable" half of the meaning is lost. Required fix in §5.
+4. **40:67 — faithful.** Dust → seed → embryo → infant → maturity → old age, both purpose clauses, and the "some die sooner" parenthesis all present. *Simia* = "seed" is attested and correct (it does not mean "monkey" here). Only the (b)-grade loans *embrion/beibi* mark the verse.
+5. **55:1 — ruling-conformant, master-divergent by design.** Master slice reads "The Compassionate." The manuscript reads "E Klemente.", applying the locked ar-Rahman ruling and matching the surah title. This is the declared ruling overriding the slice's wording — recorded here so the divergence is on the record, not silent.
+6. **3:7 — faithful to the master, including the master's own suspect word.** Structure, the foundation/unspecific distinction, and both "except" clauses are preserved, with no additions. The drift risk sits in the master ("seeking descent"), which the Papiamentu mirrors as *desenso* (§1); if the master is corrected to "dissension," this seat must be re-rendered with it.
+
+No additions, omissions, or softenings were found in the other five spots.
+
+## 5. Verdict and required fixes
+
+**PASS WITH CORRECTIONS.** The manuscript is complete (6,236/6,236 verses, 114/114 surahs), every locked ruling tested holds exactly (112 italic Basmalahs + 1:1 + none at Surah 9; 0 "Allah"; 0 "%"; prostration notes 11 + 4; 5:6 ¶ note present), the language sample grades 38 (a) / 10 (b) / 0 (c), and fidelity is clean in 5 of 6 spots. It does not earn an unqualified PASS because the declared norm — "where the Bible's spelling differs, the Bible's spelling wins" — is breached systematically at one word, and one verse loses half an epithet pair.
+
+**Required fixes (precise):**
+
+1. **Global, 75 seats / 84 tokens — `cerca` → `serka`.** Current text (pattern): `… cerca Dje …` / `… a bini cerca …`. Required text: the same sentences with `serka` in every place `cerca` now stands as the preposition "with / near / to". Seats include 2:255 ("intersedé cerca Dje" → "intersedé serka Dje") and the 74 further seats listed in §3. This is a mechanical, meaning-preserving correction; after it, `cerca` must count 0 in verse text.
+2. **5:6 — `elboog`.** Current: "laba boso kara i boso man i brasa te na e **elboog**". Required: replace `elboog` with an attested Papiamentu form for "elbow" — none exists in the sources held, so the builder must either attest one from the control/wordlists and record the attestation, or flag the seat in the lane's flags file as the brief requires; the raw Dutch form may not stand unflagged.
+3. **24:59 — epithet collapse.** Current: "Dios ta Sabio i Sabio." Required: "Dios ta yen di konosementu i ta Sabio." (restores the master's two epithets, Knowledgeable and Wise, in attested words).
+4. **`buig` seats (16: 7:11, 7:12, 7:206, 9:112, 12:4, 13:15, 15:30, 15:31, 15:32, 15:33, 15:98, 16:48, 16:49, 17:61, 18:50, 20:116).** Current pattern: "ta buig". Required pattern: use the manuscript's own adapted prostration verb, as at 55:6 "ta prosterná nan mes" — e.g. 16:49 current "Pa Dios ta buig tur kos den e shelunan…" → required "Pa Dios ta prosterná tur kos den e shelunan…", and likewise at the other 15 seats, preserving each seat's word order otherwise.
+
+**Recommended, not required:** flag or replace the remaining (b)-grade unattested words in §1 (3:7 *desenso/enraisá/spesífiko*, 11:27, 14:50, 28:48, 33:67, 40:67, 45:27) through the lane's flags file, as the worker brief requires flags for unattested choices; disclose in the build record that the Bible control held is OT-only (22 books, no NT); and note the *Klemente* double duty (ar-Rahman and the master's "Clement" for Ḥalīm) in the build record.
+
+*End of checker report. The manuscript was not edited.*

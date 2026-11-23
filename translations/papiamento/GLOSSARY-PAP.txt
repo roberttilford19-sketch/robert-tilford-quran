@@ -1,0 +1,55 @@
+# Glossary — Papiamento (PAP)
+
+The locked terminology of the Papiamento Ayah Companion, with its ground. "Control" = Beibel na Papiamentu Koriente (2013), held in the lane's sources; "Wordlist" = the Aruba official wordlist dataset (Departamento di Enseñansa Aruba, 2009). Where the wordlist's Aruba etymological spelling differs from the control's Curaçao/Bonaire spelling, the control's spelling is used in the text and the Aruba form is noted here.
+
+| English (master) | Papiamentu (as printed) | Ground |
+|---|---|---|
+| God | Dios | Control passim |
+| the Lord / Master | Señor | Control prints SEÑOR for the LORD |
+| the Beneficent (ar-Rahman) | e Klemente | Control, Exodus 34:6: "un Dios generoso, klemente" |
+| the Merciful (ar-Rahim) | e Miserikòrdioso | Wordlist *misericordioso*; control's mercy vocabulary (bondat, klemente, miserikordia) |
+| Basmalah | *Den nòmber di Dios, e Klemente, e Miserikòrdioso.* | Locked form, 112 openings + 1:1 |
+| heaven / the heavens | shelu / shelunan | Control GEN 1:1 "Dios a krea shelu i tera" (Aruba wordlist: *cielo*) |
+| earth | tera | Control GEN 1:1 |
+| hell / the Blaze | fierno | Wordlist *fierno* |
+| Paradise / the Garden | paraiso / hardinnan | Wordlist *paraiso* |
+| angels | angelnan | Wordlist *angel* |
+| spirit | spiritu | Variant pair (Aruba *spirito*) |
+| soul | alma | Wordlist *alma* |
+| prayer | orashon | Control (Aruba wordlist: *oracion*) |
+| fasting | ayuno | Common usage, wordlist family |
+| zakat (charity) | karidat / karidat obligatorio / limosna | Locked ruling: charity, never a percentage |
+| sin | piká | Variant pair (Aruba *pica*) |
+| judgment / Day of Judgment | huisio / Dia di Huisio | Control usage |
+| Day of Justice (master's distinct phrase, 82:15–18) | Dia di Hustisia | Fidelity to the master's wording at those seats |
+| resurrection | resurekshon | Wordlist *resureccion* in Curaçao spelling |
+| prophet | profeta | Control |
+| messenger | mensahero | Common usage |
+| the Book | e Buki | Control usage |
+| believers | kreyentenan | Control usage |
+| those who disbelieve | esnan ku no ta kere | Descriptive, per master |
+| hypocrites | hipókritanan | Common usage |
+| Satan | Satanas | Control usage |
+| jinn | djinnan | Declared form (no control attestation; disclosed) |
+| Jesus | Hesus | Control usage |
+| Mary | Maria | Control usage |
+| Moses | Moises | Control usage |
+| Abraham | Abraham | Control usage |
+| Noah | Noé | Control usage |
+| Pharaoh | Farao | Control usage |
+| the Hereafter | e bida benidero | Descriptive, per master |
+| sign | señal | Wordlist |
+| revelation | revelashon | Curaçao spelling of wordlist *revelacion* |
+| throne | trono | Wordlist |
+| covenant | aliansa | Wordlist |
+| idol | idolo | Control usage |
+| worship | adorá | Common usage |
+| repent | repentí | Common usage |
+| punishment | kastigo | Common usage |
+| reward | rekompensa | Common usage |
+| witness | testigu | Wordlist |
+| warner | esun ku ta spierta | Descriptive ("the one who warns"), per brief |
+| Tree of Zaqqum (master: "Tree of Bitterness") | E Palu di Amargura | Descriptive; unified at 37:62, 44:43, 56:52 (see Corrections) |
+| Meccan / Medinan | Mekano / Medinano | Declared forms in surah headers |
+| prostration note (recommended) | *[prostrashon — rekomendá]* | 11 seats |
+| prostration note (obligatory) | *[prostrashon — obligatorio]* | 4 seats |

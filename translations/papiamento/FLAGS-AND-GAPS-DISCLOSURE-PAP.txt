@@ -1,0 +1,227 @@
+# Flags and gaps disclosure — Papiamento (PAP)
+
+
+---
+
+Every verse of the Locked English Master stands rendered: 6,236 of 6,236, 114 of 114 surahs. **GAP seats: 0.** No verse was omitted, merged, or left blank anywhere in the build. What follows is the full flag record of the eight range builders, consolidated without editing: seats where a word could not be attested from the control text (Beibel na Papiamentu Koriente 2013) or the official wordlists, descriptive renderings of names and terms with no attested Papiamentu form, coinages declared as coinages, and consistency notes for the desk. Flag counts by range: R1 17 · R2 13 · R3 34 · R4 29 · R5 21 · R6 20 · R7 19 · R8 18 — **171 flags in total.**
+
+
+---
+
+# Range 1 (Surahs 1–5) — Flags
+
+2:26 — "sangura" (gnat): common Papiamentu usage; not attested in the harvested Bible control files at hand (Pentateuch books only).
+2:57 — "mana" i "kwartel" (manna and quails): "mana" follows the Bible form; "kwartel" is common usage, not verified in the control files at hand.
+2:61 — food list "yerba, kòmkòmber, konoflo, lenteha, siboyo": common-usage food words; "lenteha" (lentils) not attested in the control files at hand.
+2:62 — "sabeonan" (Sabians; also 5:69): transliterated group name, no attested Papiamentu form found in the sources at hand.
+2:102 — "bruheria" (witchcraft; also 5:110): common usage; spelling follows Curaçao phonological pattern, not verified in the control files at hand.
+2:177 — zakat rendered "karidat obligatorio" per the brief's locked ruling; in 2:110 and 5:12 the English "give/pay the alms" was rendered with "limosna" — variation flagged for the desk's consistency ruling.
+2:255 — Throne Verse: "Sustentadó" for "the Sustainer" is a coined agent noun on the attested verb "sustentá"; flagged as a formation choice.
+3:103 — "pos di kandela" (pit of fire): literal rendering; no attested idiom found.
+4:23 — kinship terms "tanta paternal/maternal", "sobrina", "hijastra", "mama di kriansa" (foster-mother): common usage; the foster-nursing terms are descriptive renderings, not attested as set phrases.
+4:34 — rendered the English as printed, including "despues dal nan" for "then strike them"; no softening applied — flagged so the desk sees the seat exactly as translated from the master.
+5:2 — "esnan ku krans" (the garlanded offerings): "krans" is common usage for garland; not attested in the control files at hand.
+5:6 — "elboog" i "enkel" (elbows, ankles): Dutch loans in everyday Papiamentu use; not attested in the control files at hand. The translator's note is translated in place with its ¶ marker kept; note that the English slice itself carries the note as a separate italic line and no ¶ character — the ¶ was restored at the note per the brief's instruction that the marker at 5:6 stays.
+5:31 — "rabe" (raven): common usage; not verified in the control files at hand.
+5:52 — "wiel di destino" (wheel of fate): literal rendering of the English idiom.
+5:95 — "Kaabah" (also 5:97): proper name kept in the English master's spelling; Arabic line unchanged.
+5:103 — Bahirah, Saibah, Wasilah, Hami: proper names of the superstitions kept as printed in the English master, no Papiamentu forms attested.
+5:110–5:116 — nested direct speech in the English uses mixed quote marks; rendered with ‘...’ outer and "..." inner following the brief's Bible-style quotation rule.
+General — the harvested Bible control at hand covers only GEN/EXO/LEV/NUM/DEU/JOS, so attestation checks for New Testament vocabulary (e.g. "saserdote", "rabino", "disipulo") rest on the brief's locked table and common usage rather than the control files.
+
+---
+
+# Range 2 (surahs 6–11) — flags
+
+6:100 — English "the sprites" rendered "e djinnan" per the brief's locked jinn form; the English word is broader than jinn.
+6:125 — "Islam" kept as the proper name "Islam"; no Papiamentu equivalent attested in the control.
+6:141 — "give its due on the day of its harvest" rendered "duna su debido"; no percentage or fixed measure added, per the sacred constraint.
+7:86 — English "do not lurk on every path" rendered "no sinta na lurk riba kada kaminda"; "lurk" has no clean attested Papiamentu verb in the wordlists consulted.
+7:166 — "despicable apes" rendered "makaku despresiabel"; "makaku" is the common word for ape/monkey, not verified in the harvested Bible books (Genesis–Numbers only).
+8:26 — "sheltered" rendered with "refugio" (a duna boso refugio); verb form not directly attested in the control.
+8:41 — "its fifth" rendered "su di sinku parti"; the share is stated as the source states it, no more.
+8:60 — "cavalry" rendered "kabayeria"; attestation from common usage, not from the harvested Bible books.
+9:5 — "pay the alms" rendered "paga e limosna"; at 9:11 and 9:60 the locked "karidat obligatorio" / "karidat" forms are used for zakat contexts, per the brief.
+9:29 — "the due tax" rendered "e belasting debido"; the specific term for this levy is not attested in the control or wordlists.
+9:60 — Charities list rendered with "karidat"; "destituí" for the destitute is from common usage.
+10:1 — "Verses of the Wise Book" rendered "Versíkulonan di e Buki Sabio"; "versíkulo" follows Bible usage for scripture verses, while ayat elsewhere are rendered "señalnan" per the locked table.
+11:2 — SOURCE NOTE: the English slice itself contains a literal "<redacted>" artifact inside this verse ("a bearer <redacted> good news"). Rendered as "un portadó di bon notisia" following the evident sense; the artifact is in the source, not introduced here.
+11:40 — English "the volcano erupted" (for the oven/tannur) rendered "e volkan a erupshoná", following the English source as instructed.
+11:44 — "Judi" kept as the proper name as printed in the English source.
+
+---
+
+12:19 — "hèmber" (bucket) and "kargadó di awa" (water-carrier): common usage, not verified in the harvested Bible control books (GEN–NUM).
+12:31 — "kuchú" (knife): common usage; not verified in control.
+12:43 — "spika" (spike/ear of grain): common agricultural term; not verified in control.
+12:66 — "a ménos ku" (unless): Spanish-derived conjunction in common use; not verified in control.
+12:70 — "saku di sia" (saddlebag): rendered descriptively; exact compound unattested.
+12:88 — "karitativo" (charitable): derived from locked "karidat"; adjectival form not separately attested.
+13:4 — "palunan di datlo" (date-palms): "datlo" common loan; not verified in control.
+13:8 — "matris" (womb): common/medical term; not verified in control.
+13:13 — "strena" (thunder, locked by surah title "E Strena") and "wèrlek" (lightning): common usage; "wèrlek" not verified in control.
+13:17 — "skuma" (froth) and "kause" (riverbed): common usage; not verified in control.
+14:16 — "awa putrí" (putrid water): "putrí" common usage; not verified in control.
+14:50 — "alkitran" (tar): common loan; not verified in control.
+15:2 — "musulman" (Muslims): common usage; spelling not verified in control (alternative "moslim").
+15:18 — "proyektil" (projectile, for the visible flame/shihab): common loan; not verified in control.
+15:47 — "sofá" (couches): common usage; not verified in control.
+16:66 — "lechi" (milk): common usage; control books harvested so far are GEN–NUM only.
+16:67 — "suku" (sugar, for English "sugar" rendering of sakar): follows the English source's word choice.
+16:68 — "kasnan di abeha" (hives): descriptive rendering; compound not attested as such.
+16:80 — "pelusa" (fur) and "lana" (wool): common usage; not verified in control.
+17:1 — "moskea" (mosque): common usage for masjid; not in Bible control.
+17:34 — "wérfano" (orphan): common usage; spelling not verified in control.
+17:35 — "balansa" (scales): common usage; not verified in control.
+18:18 — "kachó" (dog), "drempel" (threshold): common usage; not verified in control.
+18:31 — "brasalèt" (bracelets), "brokado" (brocade), "seda" (silk): common loans; not verified in control.
+18:83 — "Zul-Qarnain" kept in the English source's transliteration in the text (intro uses the source's "Dhul-Qarnayn"); Arabic line unchanged.
+18:96 — "alkitran" (tar, for molten copper in the Arabic): follows 14:50 choice; English source here says "tar".
+19:7 — "Juan" (John/Yahya) and 19:56 "Enok" (Enoch): Beibel na Papiamentu name forms used for the Quranic figures.
+19:23 — "datlo" (dates): see 13:4 flag.
+19:31 — English "charity" for zakat rendered "karidat" per locked table (no percentage, per brief).
+20:10 — "torcha" (torch/brand): common loan; not verified in control.
+20:18 — "stòki" (staff) and "kolebra" (serpent): common usage; not verified in control.
+20:80 — "mana" (manna) kept as in the Bible; "kwartel" (quails): common usage; not verified in control.
+20:85 — "e Samaritano" (the Samaritan): English source reads "the Samarian"; Bible form used.
+20:88 — "biser" (calf): common usage; not verified in control.
+
+---
+
+# Flags — Range 4 (surahs 21–28)
+
+21:1 — "ora di duna kuenta" for reckoning; "kuenta" used for reckoning/account throughout, not directly attested in the control for this sense.
+21:2 — "rekordashon" for reminder (Aruba list gives recordacion-type forms); Curaçao form chosen by orthography rules, not Bible-attested.
+21:31 — "stabilisadónan" for stabilizers (mountains); coined from stabilisá, no attestation found — paraphrase may be preferable.
+21:45 — "spièrtadó" used for warner per the brief's locked paraphrase ("esun ku ta spierta" family); nominal form not Bible-attested.
+21:47 — "simia di mostaza" for mustard seed; "mostaza" from wordlist (Aruba spelling), plant name not in Bible control excerpts.
+21:85 — "Enok" for Enoch (Arabic Idris) and "Ezekiel" kept as in English for Dhu'l-Kifl; Bible form for the latter would be "Ezekiel" — followed the English source, flag for desk ruling.
+22:17 — "Sabeonan" (Sabeans) and "Zoroastriano" (Zoroastrians/Magians) transliterated from English; no Papiamentu attestation found.
+22:19 — "Kandela" capitalised for the Blaze/Fire of Hell in several places (22:19 "e Kandela", 25:11, 27:44 etc.); fierno is the locked term for Hell — desk may prefer fierno throughout.
+22:21 — "maza" for maces of iron; wordlist attestation only.
+22:25 — "Meskita Sagrá" for the Sacred Mosque; "meskita" is common usage, not in Bible control.
+22:36 — "pididó" for beggar (al-mu'tarr); common word, not control-attested in this sense.
+23:20 — "Seru Sinai" for Mount Sinai; Bible control uses "seru" for mountain (e.g. in Exodus contexts) but the pairing was not directly checked.
+23:27 — "fòrnu" for the oven (tannur) that boils over; common word, sense stretched.
+24:2 — "latigo" for lashes/whip; from wordlist, not Bible control.
+24:31 — "loke nan man drechi ta poseé" renders "what their right hands possess" literally, following the English; idiom may need a desk note.
+24:35 — "nishi" for niche; from wordlist (nishi), not control-attested. Intro line uses the same word.
+24:39 — "mirashi" for mirage; wordlist form (mirage), spelling adapted, not control-attested.
+25:53 — "margá" for bitter (of salt water); common adjective, not control-checked.
+26:155 — "kamel muhé" for she-camel; "kamel" common, gender construction is a paraphrase.
+27:18 — Surah title and verse use "fruminga/fruminganan" as assigned in the brief's title list; common word for ant.
+27:20 — "hopoe" for hoopoe; transliterated from English, no Papiamentu attestation found.
+27:22 — "Sheba" kept as in English (Saba); Bible form not checked in control excerpts.
+27:39 — "dimoni" for imp/ifrit of the jinn; chose a common word rather than a transliteration — desk may prefer "un djinn poderoso".
+28:9 — "deleite pa wowo" renders "an eye's delight" (qurrat a'yun) literally; idiom not attested.
+28:38 — "Haman" kept as in English for Hamaan; no Bible-control attestation (different figure from Esther's Haman in spelling tradition).
+28:76 — "Karun" for Qaroon (Korah); spelling follows Arabic/English transliteration, Bible form "Kora" not used — flag for desk ruling.
+28:19 — "bully" left as an English loan in "ta un bully den e tera" for tyrant/bully; no attested Papiamentu equivalent found at hand — paraphrase candidate: "un opresor".
+24:58 — "Orashon di Mainta / Orashon di Atardi" render Dawn/Evening Prayer descriptively; no locked liturgical names exist in Papiamentu for fajr/isha.
+22:41 — "karidat obligatorio" concept: 22:41 and 24:56/25 etc. render zakat contexts as "karidat regularmente" following the English "regular charity"; no percentage anywhere, per brief.
+
+---
+
+# Range 5 (surahs 29–39) — flags
+
+29:36 — "Shuaib", "Madian": names kept in the English source's form; no Beibel na Papiamentu attestation available in the harvested control (GEN–NUM only).
+29:39 — "Quaroon", "Haman", "Aad", "Thamood": proper names kept from the English source; Bible-control forms not attested in the harvested books.
+29:40 — "e Gritu" for the Blast (as-sayha): interpretive rendering; "gritu" is attested common usage but the choice for this technical term is the translator's.
+30:15 — "praderanan" for meadows (rawda): common word, not attested in the harvested Bible control.
+30:58 — "Koran": spelling used throughout the range (also 34:31, 36:2, 39:27) for Quran; standard Papiamentu usage, not attested in the harvested Bible control.
+31:2 — "versonan" used range-wide for ayat as Book-verses, "señalnan" for ayat as signs, following the English source's own word choice each time; the distinction is the source's, flagged once here.
+31:10 — "stabilisadónan" for the earth-stabilizers (rawasi): formed from attested "stabilisá"; the noun form itself is not in the control.
+31:16 — "simia di mòster" for mustard seed: "mòster" not attested in the harvested control.
+32:9 — "serebronan" for af'ida (rendered "brains" in the English source): followed the English; the Arabic denotes hearts/inner faculties.
+33:3 — "fideikomisario" for trustee (wakil): legal loanword, not attested in the harvested control.
+33:13 — "Yathrib": place name kept from the English source.
+33:37 — "Zaid": personal name kept from the English source.
+33:72 — "e Konfiansa" for the Trust (al-amana): abstract rendering of a term with no locked equivalent in the brief.
+34:12 — "breu" for the spring of tar (qitr): followed the English source's "tar"; the word is common usage, not Bible-control attested.
+35:13 — "spèk" for speck (qitmir, the membrane of a date-stone): followed the English source's "speck".
+37:49 — rendered "perlanan bon wardá" following the English source's "closely guarded pearls"; the Arabic image is guarded eggs.
+37:62 — "Palu di Amargura" for the Tree of Zaqqum, following the English source's "Tree of Bitterness"; no attested Papiamentu name for Zaqqum.
+37:146 — "palu di kalbas" for the gourd tree (yaqtin): "kalbas" is common usage, not attested in the harvested control.
+38:12 — "Farao di e Stakanan" for Pharaoh of the Stakes (dhu'l-awtad): literal rendering following the English source.
+38:48 — "Ezekiel" kept as the English source names Dhul-Kifl; "Eliseo" used for Elisha on the Bible pattern but not verified in the harvested control.
+39:63 — "reinanan" for the reins/keys of the heavens (maqalid): followed the English source's "reins".
+
+---
+
+# Flags — Range 6 (surahs 40–55)
+
+40:24 — Proper names Haman and Karun (Qarun) rendered "Haman" / "Karun"; not in the harvested Bible control books (Genesis–Numbers only), spelling follows common Papiamentu usage, unattested in control.
+40:42 — "e Poderoso Pordonadó" for "the Mighty Forgiver"; word order choice, both words attested, combination not in control.
+41:10 — "stabilisadónan" for "stabilizers" (mountains); derived agent noun, not attested in control — chosen over paraphrase for brevity.
+43:18 — Verse is a quoted fragment in the English ("Someone brought up to be beautiful, and unable to help in a fight?"); rendered as a fragment to match.
+43:38 — "e dos Ostnan" for "the distance of the two Easts"; literal rendering kept from the English, idiom not attested in control.
+44:43 — "E Palu di Amargura" for "The Tree of Bitterness" (Zaqqum); descriptive rendering, tree name not attested in control.
+46:15 — "su kita pecho" for "his weaning"; paraphrase, no single attested noun for weaning found in the wordlists consulted.
+46:21 — Surah title and verse use "serunan di santo" for sand dunes (al-Ahqaf); "seru di santo" is common usage but the plural phrase is a desk formation.
+48:8 — The English source line contains a "<redacted>" artifact ("a bearer <redacted> good news"); rendered as "un portadó di bon notisia" following the standard triad witness / bearer of good news / warner. Source defect flagged for the desk.
+48:11 — "Árabenan di Desierto" for "Desert-Arabs" (al-A'rab); common descriptive phrase, not in control.
+48:27 — "kabes feitá, òf kabei kòrtá kòrtiku" for "heads shaven, or hair cut short"; "feitá" from "feita" (to shave) attested in wordlist, participial form follows regular pattern.
+50:16 — "vena yugular" kept as a loan phrase for "jugular vein"; anatomical term not in Bible control.
+51:36 — English "Muslims" rendered "esnan ku a someté na Dios" (those who submitted to God) to avoid an unattested religious label form; consistent with 49:14 usage of "someté".
+52:20 — "kasánan bunita" for "gorgeous spouses" (hur); descriptive, no attested Papiamentu term for the Quranic companions.
+53:14 — "Palu di Lotos" for "Lotus Tree" (Sidrat al-Muntaha); "lotos" is a loan, not in control.
+53:19 — Idol names al-Lat, al-Uzza, Manat kept in their Arabic-derived forms as in the English; not attested in control.
+53:49 — "Sirius" kept as the star name as in the English; not in control.
+54:48 — "Saqar" kept as the proper name of the Fire as in the English/Arabic; not in control.
+55:31 — "O boso dos prominentenan" for "O prominent two" (al-thaqalan, jinn and humans); descriptive rendering, no attested equivalent.
+55:56 — "damanan ku ta kontené nan mirada" for "maidens restraining their glances"; descriptive rendering of the Quranic companions, no attested term.
+
+---
+
+# Range 7 (surahs 56–80) — flags
+
+56:28 — "hardinnan abundante" for "lush orchards" (the lote-tree / sidr image): rendered descriptively; "sidr" itself used only in the intro line, not attested in the Bible control consulted.
+56:52 — "e Palu di Margura" for the Tree of Zaqqum: descriptive rendering; the proper name Zaqqum was not carried over, as no attested Papiamentu form was found.
+56:58 — "loke boso ta saka for di boso kurpa" for "what you ejaculate": paraphrased in plain words; no single attested Papiamentu verb was confirmed.
+57:19 — "e Kandela grandi" for "the Blaze" (al-Jahim): descriptive; no distinct attested term separate from fierno/hel was confirmed.
+59:2 — "mobilisashon" for "first mobilization/gathering": loanword chosen; attestation from common usage only.
+60:4 — the closing quotation of Abraham's words runs across 60:4–60:5 as in the English source; quote marks follow the source's punctuation sense.
+61:6 — "Ahmad" kept as the proper name as printed in the English source.
+65:1 — "periodo di puresa" for the waiting-period purity wording, and "término" for the prescribed term throughout surah 65: legal vocabulary rendered descriptively; not verified against a Papiamentu legal text.
+65:4 — "menopousa" is a loanword from common usage; not confirmed in the Bible control.
+66:4 — "Gabriel" kept in the international form; the Beibel form was not separately verified in the harvested control books (Genesis–Numbers only).
+68:16 — "riba su nanishi" for "on the muzzle/snout": "nanishi" (nose) is attested; the animal-snout sense is extended.
+69:36 — "skuma sushi" for "scum" (ghislin): descriptive; no attested single word confirmed.
+70:30 — "esnan ku ta biba bou di nan kontrol" for "those living under their control" (ma malakat aymanuhum): rendered descriptively following the English, no traditional term introduced.
+73:20 — "karidat regular" for regular charity (zakat context): rendered per the brief's locked rule (karidat, no percentage, no transliteration).
+76:5 — "aroma" for the camphor mixture (kafur): descriptive; the substance name was not carried over.
+76:17 — "Zanjabeel" and 76:18 "Salsabeel" kept as proper names as printed in the English source; no attested Papiamentu forms exist.
+77:32 — "chispa manera kastio" for "sparks as castles": "kastio" from common usage.
+78:25 — "hagel ku ta vries" for "freezing hail" (ghassaq): descriptive rendering; the word's sense is disputed in the sources.
+79:16 — "Tuwa" kept as the proper name as printed in the English source.
+80:19 — "gota di sperma" for "sperm drop": "sperma" is a loanword from common usage.
+
+---
+
+# Range 8 (surahs 81–114) — flags
+
+81:4 — Followed the English master's "relationships" (relashonnan wòrdu suspendé); the Arabic is traditionally read as ten-month pregnant she-camels. Brief says translate from the English, so the English reading stands, but the divergence is disclosed here.
+81:15 — "galaksianan" (galaxies): modern loan, not attested in the Bible control or the Aruba wordlist; no plainer attested word carries the sense.
+82:15 — "Dia di Hustisia" used for the English "Day of Justice," rather than the locked "Dia di Huisio," to mirror the English wording of this surah; a terminology choice the desk may wish to unify.
+83:11 — "Dia di Kuenta" used for the English "Day of Reckoning," distinct from 82's "Day of Justice"; same unification question as 82:15.
+83:26 — "moskat" (musk): not attested in the Bible control or the wordlists.
+83:26 — "kompetidónan" (competitors): agent noun formed from attested "kompetí" (Bible, 1CH/2SA); the noun form itself is not in the control.
+84:16 — "atardi" renders "twilight" plainly; the red-glow nuance of the Arabic shafaq is not carried.
+85:1 — "konstelashon" is not in the wordlists; the word is carried in the assigned surah title (E Konstelashonnan), so it stands on the assignment's own authority.
+89:3 — "inpar" (the odd) formed as the pair of attested "par"; the form itself is not attested in the control.
+90:1 — The English verse reads "this land" (rendered "e pais aki") while the surah title and intro read "city" (siudat); each text was followed as given.
+93:6 — "amparo" (shelter): the noun is not in the control; the wordlist attests the family only in "desampara."
+95:1 — Source note, not a translation choice: in the English master the Arabic line of this verse itself carries the Basmalah prefixed to it; copied byte-for-byte as printed, in addition to the surah's own opening Basmalah.
+97:1 — Same source note as 95:1: the verse's Arabic line in the master carries the Basmalah prefixed; copied byte-for-byte.
+99:1 — "teremoto" is not attested in the Bible control or the wordlists; the word is also carried in the assigned surah title (E Teremoto).
+99:7 — "atom": the noun is not attested (the wordlist carries only "atomico"); kept as the plain modern word for the atom's-weight image.
+99:8 — "atom": same note as 99:7.
+110:1 — "konkista" (conquest) is not attested in the control or wordlists; "viktoria" in the same verse is attested and used for "victory."
+111:5 — The English master reads "a rope of thorns" (rendered "kuèrda di sumpiña") while the assigned surah title reads "E Kuerda di Palma" (palm). The verse follows the English text; the title is kept verbatim per the assignment.
+114:4 — "susurradó" (the sneaky whisperer): not attested in the Bible control or the wordlists; a regular formation from susurrá (Spanish susurrar family in common use).
+
+---
+
+## Addendum — 2026-11-23, after the independent checker
+
+The checker's required fixes were applied after this disclosure was consolidated (cerca→serka book-wide; buig→prosterná at 16 seats; 24:59 epithet restored) — see CORRECTIONS-PAP-2026-11-23.md items 2–5. One flag is strengthened here by name: **5:6 "elboog" (elbow) and "enkel" (ankle)** are unattested Dutch loans standing in the text because no attested Papiamentu form exists in any source held; they stand flagged, not hidden, and any future attested form Robert rules in replaces them by dated addendum. GAP seats remain 0.
