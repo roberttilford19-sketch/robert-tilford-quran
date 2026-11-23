@@ -1,0 +1,12 @@
+MANIFEST — Ayah Companion Chavacano (Zamboangueño)
+
+Shelved 2026-11-23 under the Pipeline Landing Authorization (2026-11-14), on Robert Tilford's build word of 2026-11-23 (all six census-buildable lanes). Built from the Locked English Master.
+
+Status: a complete rendering of the Quran in Chavacano (Zamboangueño) — all 6,236 verses, the whole book, nothing left out — with the Arabic text alongside. No first-translation claim is made.
+
+Sources: De Castro, Chavacano de Zamboanga (2019) — Zamboangueño mini dictionary, openly posted by the author — as primary lexicon; Riego de Dios's Composite Dictionary of Philippine Creole Spanish (1987/1989) via the SEAlang Library as supplement (its centre is Cotabato; Zamboangueño comparative). Control text: El Nuevo Testamento na Chabacano (1981, rev. 2008) — a NEW TESTAMENT ONLY; no Old Testament exists in Chavacano, and the control is named as such. Orthography: that of the control.
+
+Gates: count 6,236/6,236, sequence and per-surah counts exact against the master; all 6,462 Arabic-bearing lines byte-identical; Basmalah uniform 114; sajda notes 15/15. Independent checker: PASS WITH CORRECTIONS — language sample of 40 verses: 24 real Chavacano, 16 Chavacano frame with coinage/Spanish-substituted lexis, 0 not Chavacano; attestation 92.79% of verse tokens (desk method; checker confirmed at 92.93% by its stated method — attestation settles existence, not fluency). All 8 checker corrections applied and re-verified (two false gaps unbracketed; orphan and Sacred Mosque treatments unified; a duplicated summary line deleted; fidelity errors at 2:282 and 3:20 repaired; a disclosed Spanish-derived set bracketed). Held-open gaps stand disclosed in brackets in the text and in FLAGS-CBK.md — no word was invented.
+
+Landed manuscript: ayah-companion-manuscript-CBK.md — 2,336,922 bytes, SHA-256 833e5321a2581146db32d3ac964f8d32228146dcda1411a0d38557e4626970eb.
+Translated by Robert Tilford. © 2026 Robert Tilford.
