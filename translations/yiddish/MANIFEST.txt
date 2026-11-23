@@ -1,0 +1,17 @@
+MANIFEST — Ayah Companion Yiddish (ייִדיש)
+
+Landed 2026-11-23 on Robert Tilford's build word of 2026-11-23 (build all six census-buildable lanes concurrently), under the Pipeline Landing Authorization (2026-11-14): every gate passed clean.
+
+Built from the Locked English Master (the corrected manuscript) only.
+Gateway (seeded-lane census, 2026-11-23): dictionary — Harkavy, Yiddish-English-Hebrew Dictionary (1928) and English-Yiddish Dictionary (1898), bulk-open on archive.org / Yiddish Book Center (Weinreich 1968 is borrow-only, was NOT consulted, and is not claimed); control — Yehoash (Solomon Blumgarten), Toyre, Nevi'im, u-Ksuvim, the complete Tanakh in Yiddish (1938 printing held; the translation of 1926–1941), with the Einspruch New Testament (1941) as secondary control for the name ישוע. Orthography: standardised YIVO, Hebrew script.
+
+Status: a complete rendering of the Quran in Yiddish — all 6,236 verses, the whole book, nothing left out — with the Arabic text alongside. DRAFT — NOT PUBLISHED. No first-translation claim is made; the only prior Yiddish Quran on record is the partial Ahmadiyya selections (1987). (A relayed claim of a complete Kahan "Der Koran", Warsaw 1926, was pinned and graded NOT FOUND — census Addendum 3 — and is not cited.)
+
+Gates of record (lane folder ~/workspace/ayah-yiddish/):
+- Canonical recount vs the current master: 6,236 of 6,236 markers, sequence identical, per-surah 114 of 114 exact, Arabic byte-identical at every seat, Basmalah uniform at all 112 openings (Surah 9 none), prostration notes 15 of 15, no zakat percentage anywhere.
+- Independent checker: PASS WITH CORRECTIONS — language sample of 43 verses: (a) 28 real Yiddish, (b) 15 Yiddish frame with coinage or uncertain lexis, (c) 0 effectively not Yiddish; fidelity sample 12 of 12 carrying the English meaning, no errors. All required corrections applied and the battery re-run clean (CORRECTIONS-YI-2026-11-23.md).
+- Attestation: 87.37% of 144,587 Yiddish tokens against the held-source lexicon (Harkavy + Yehoash OCR, 187,392 forms; the archive OCR of Hebrew-script volumes is noisy and the figure is reported with that limitation).
+- Flags: 269 translator flags, all disclosed in FLAGS-YI.md; checker triage settles ≈73–78% by attestation or brief prescription; ≈60–75 remain genuinely open as desk-level choices, carried on the record, none silently settled.
+
+Manuscript: ayah-companion-manuscript-YI.md, 3,026,672 bytes, SHA-256 54a211890b62f29b39fc0e4fd21af4065a75130d3767b60b2379d7d17ab40da5.
+Translated by Robert Tilford. © 2026 Robert Tilford.
