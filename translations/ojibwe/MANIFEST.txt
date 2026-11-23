@@ -1,0 +1,51 @@
+MANIFEST — Ayah Companion Ojibwe (Anishinaabemowin)
+
+Landed 2026-11-22 on the GitHub shelf under Robert Tilford's
+Pipeline Landing Authorization (2026-11-14) and his explicit build
+release of 2026-11-22. Shelf folder 210 of the translations shelf
+(209 directories stood under translations/ before this landing).
+Built from the Locked English Master (the corrected manuscript)
+only.
+
+Status: DRAFT — landed on the shelf 2026-11-22 under the Pipeline
+Landing Authorization; NOT speaker-reviewed. A rendering of the
+Quran in Ojibwe (Anishinaabemowin) — 6,236 of 6,236 verses
+rendered, GAP seats 0. This text was machine-assisted by
+non-speakers of Ojibwe under Robert Tilford's direction and is
+labelled as such. It is not speaker-reviewed; no native or critic
+review is awaited, invited, or chased (Robert's ruling,
+2026-11-18). The Quiet Protocol for Indigenous North America
+stands: no outreach was made to any speaker, tribe, or community
+about this book. Orthography: strict double-vowel. No
+first-translation claim beyond the bounded form: first complete
+Ojibwe Quran translation found — after research. Every declared
+ruling, judgment call, and known anomaly is named in
+FLAGS-AND-GAPS-DISCLOSURE-OJ-2026-11-22.md.
+Translated by Robert Tilford. © 2026 Robert Tilford.
+Verse-marker re-count at landing: 6,236 of 6,236 markers, first
+1:1, last 114:6 (independent checker, 2026-11-22).
+Lane verification of record: independent checker PASS,
+2026-11-22 (CHECKER-REPORT-OJ-2026-11-22.md in the lane folder
+~/workspace/ayah-ojibwe/): counts exact on every canonical measure
+(per-surah 114/114; Arabic diff 0 across 6,236; 45-verse fidelity
+sample 42 PASS, 3 PARTIAL, 0 failures). The checker's one
+prescribed correction — locked proper-name spellings at 8 seats
+in surah 2, 12 substitutions — was applied to the assembled
+manuscript and re-verified before landing
+(CORRECTION-OJ-NAMES-2026-11-22.md; post-correction scan: 0
+English brief-list names remaining).
+Manuscript SHA-256
+285ed1b3a9860e5c79d00de82d697ecbd13bb347e305aef73bac1abeb89442ad,
+byte-identical to the lane's corrected manuscript.
+The full landing account stands in
+LANDING-REPORT-OJ-2026-11-22.md in this folder.
+
+Gift terms, as every folder on this shelf: free to read and free to
+download, never sold; attribution requested.
+
+Files:
+  2359833  285ed1b3a9860e5c79d00de82d697ecbd13bb347e305aef73bac1abeb89442ad  ayah-companion-manuscript-OJ.md
+  2068918  3ce11932f989c38b5cbad889c4373aa5c97eb31a985e395843e564422e35c80e  Ayah_Companion_Tilford_Ojibwe_Manuscript.pdf
+  78692  b56e5bc5f2397cbb06f4aaf2d5111541e7105d6a600f34b3871255eb23790ca9  GLOSSARY-OJ.md
+  10128  702e67aa0f740d6519bbd821ee76950d730dfb0583e4e8a0998f45557cedc1f5  FLAGS-AND-GAPS-DISCLOSURE-OJ-2026-11-22.md
+  MANIFEST.txt (this file, listed by name without its own hash)
