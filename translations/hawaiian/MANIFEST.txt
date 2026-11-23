@@ -1,0 +1,50 @@
+MANIFEST — Ayah Companion Hawaiian
+
+Landed 2026-11-22 on the GitHub shelf under Robert Tilford's
+Pipeline Landing Authorization (2026-11-14) and his explicit build
+release of 2026-11-22. Shelf folder 211 of the translations shelf
+(210 directories stood under translations/ before this landing).
+Built from the Locked English Master (the corrected manuscript)
+only.
+
+Status: DRAFT — landed on the shelf 2026-11-22 under the Pipeline
+Landing Authorization; NOT speaker-reviewed. A rendering of the
+Quran in Hawaiian — 6,236 of 6,236 verses rendered, GAP seats 0.
+This text was machine-assisted by non-speakers of Hawaiian under
+Robert Tilford's direction and is labelled as such. It is not
+speaker-reviewed; no native or critic review is awaited, invited,
+or chased (Robert's ruling, 2026-11-18). No outreach was made to
+any speaker or community about this book. No firstness claim
+beyond the bounded form: first complete Hawaiian Quran
+translation found — after research. Every declared ruling,
+judgment call, and known anomaly is named in
+FLAGS-AND-GAPS-DISCLOSURE-HAW-2026-11-22.md.
+Translated by Robert Tilford. © 2026 Robert Tilford.
+Verse-marker re-count at landing: 6,236 of 6,236 markers, first
+1:1, last 114:6 (independent checker, 2026-11-22).
+Lane verification of record: independent checker PASS,
+2026-11-22 (CHECKER-REPORT-HAW-2026-11-22.md in the lane folder
+~/workspace/ayah-hawaiian/): counts exact on every canonical
+measure (per-surah 114/114; Arabic byte-identical 6,236/6,236;
+fidelity samples 40 verses: 35 sound, 4
+sound-with-disclosed-weakness, 1 partial, 0 meaning breaks,
+0 inventions). The checker's prescribed normalization pass and
+one-seat repair were applied to the assembled manuscript and
+re-verified before landing (CORRECTION-HAW-NAMES-2026-11-22.md:
+83 name occurrences unified across 19 names to one spelling per
+name in verse bodies; the 10:62 opener repaired).
+Manuscript SHA-256
+c7680617396312265d00ccf1e977c1211827f2be5335744938f7b1ac8e2b06b9,
+byte-identical to the lane's normalized manuscript.
+The full landing account stands in
+LANDING-REPORT-HAW-2026-11-22.md in this folder.
+
+Gift terms, as every folder on this shelf: free to read and free to
+download, never sold; attribution requested.
+
+Files:
+  2439069  c7680617396312265d00ccf1e977c1211827f2be5335744938f7b1ac8e2b06b9  ayah-companion-manuscript-HAW.md
+  2124315  a9927aefb41a244e393e920a4fa5875832f05bc9f462e5e97f580cd7a71ff374  Ayah_Companion_Tilford_Hawaiian_Manuscript.pdf
+  44386  5eda335caa180b21b92d4a3f9fa6aa4d77db4415627381bafc734a94316ae7f4  GLOSSARY-HAW.md
+  9511  4152443bd8a4433a95939fcacd480e8b1ed400cec087b3e2378b49aac532f43c  FLAGS-AND-GAPS-DISCLOSURE-HAW-2026-11-22.md
+  MANIFEST.txt (this file, listed by name without its own hash)
