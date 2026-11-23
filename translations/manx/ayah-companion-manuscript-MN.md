@@ -196,7 +196,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 فَأَزَلَّهُمَا ٱلشَّيْطَٰنُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ ۖ وَقُلْنَا ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّۭ ۖ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّۭ وَمَتَٰعٌ إِلَىٰ حِينٍۢ
 
-**2:37**  Eisht hooar Adam goan veih'n Hiarn echey, myr shen hyndaa eh huggey. She eshyn yn Er-chyndaa, yn Myghinagh.
+**2:37**  Eisht hooar Adam goan veih'n Hiarn echey, myr shen hyndaa eh huggey. She eshyn yn Er-ghoaill Arrys, yn Myghinagh.
 
 فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
@@ -264,7 +264,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 وَإِذْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ وَٱلْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ
 
-**2:54**  As cooinaghtyn-jee dy dooyrt Moses rish e phobble, "O my phobble, ta shiu er n'yannoo neu-chairys riu hene liorish ooashley y chur da'n lheiy. Myr shen gow-jee arrys gys yn Er-chroo eu, as marroo-jee ny egoaghyn eu. Veagh shen share diuish marish yn Er-chroo eu." Myr shen hyndaa eh hiuish ayns arrys. She eshyn yn Er-ghoaill-arrys, yn Myghinagh.
+**2:54**  As cooinaghtyn-jee dy dooyrt Moses rish e phobble, "O my phobble, ta shiu er n'yannoo neu-chairys riu hene liorish ooashley y chur da'n lheiy. Myr shen gow-jee arrys gys yn Er-chroo eu, as marroo-jee ny egoaghyn eu. Veagh shen share diuish marish yn Er-chroo eu." Myr shen hyndaa eh hiuish ayns arrys. She eshyn yn Er-ghoaill Arrys, yn Myghinagh.
 
 وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلْعِجْلَ فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
@@ -560,7 +560,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 وَإِذْ يَرْفَعُ إِبْرَٰهِۦمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
-**2:128**  Hiarn ain, as jean shin biallagh dhyt, as veih'n heel ain pobble biallagh dhyt. As taishbyney dooin ny oardaghyn ain, as gow yn arrys ain. She uss yn Er-chyndaa, yn Myghinagh.
+**2:128**  Hiarn ain, as jean shin biallagh dhyt, as veih'n heel ain pobble biallagh dhyt. As taishbyney dooin ny oardaghyn ain, as gow yn arrys ain. She uss yn Er-ghoaill Arrys, yn Myghinagh.
 
 رَبَّنَا وَٱجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةًۭ مُّسْلِمَةًۭ لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَآ ۖ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
@@ -688,7 +688,7 @@ Translated by Robert Tilford. © 2026 Robert Tilford.
 
 إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلْنَا مِنَ ٱلْبَيِّنَٰتِ وَٱلْهُدَىٰ مِنۢ بَعْدِ مَا بَيَّنَّٰهُ لِلنَّاسِ فِى ٱلْكِتَٰبِ ۙ أُو۟لَٰٓئِكَ يَلْعَنُهُمُ ٱللَّهُ وَيَلْعَنُهُمُ ٱللَّٰعِنُونَ
 
-**2:160**  Faagail magh adsyn ta goaill arrys, as jannoo mie, as ginsh magh. Ad shoh — nee'm goaill yn arrys oc. She mish yn Er-ghoaill-arrys, yn Myghinagh.
+**2:160**  Faagail magh adsyn ta goaill arrys, as jannoo mie, as ginsh magh. Ad shoh — nee'm goaill yn arrys oc. She mish yn Er-ghoaill Arrys, yn Myghinagh.
 
 إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَبَيَّنُوا۟ فَأُو۟لَٰٓئِكَ أَتُوبُ عَلَيْهِمْ ۚ وَأَنَا ٱلتَّوَّابُ ٱلرَّحِيمُ
 
@@ -5459,7 +5459,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 خُذْ مِنْ أَمْوَٰلِهِمْ صَدَقَةًۭ تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَوٰتَكَ سَكَنٌۭ لَّهُمْ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
 
-**9:104**  Nagh vel fys oc dy vel Jee goaill-rish arrys e harvaantyn, as dy vel eh goaill ny jeirkeyn, as dy vel Jee yn Fer-goaill Arrys, yn Chymmooil?
+**9:104**  Nagh vel fys oc dy vel Jee goaill-rish arrys e harvaantyn, as dy vel eh goaill ny jeirkeyn, as dy vel Jee yn Er-ghoaill Arrys, yn Chymmooil?
 
 أَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ هُوَ يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَأْخُذُ ٱلصَّدَقَٰتِ وَأَنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
@@ -5514,7 +5514,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 لَّقَد تَّابَ ٱللَّهُ عَلَى ٱلنَّبِىِّ وَٱلْمُهَٰجِرِينَ وَٱلْأَنصَارِ ٱلَّذِينَ ٱتَّبَعُوهُ فِى سَاعَةِ ٱلْعُسْرَةِ مِنۢ بَعْدِ مَا كَادَ يَزِيغُ قُلُوبُ فَرِيقٍۢ مِّنْهُمْ ثُمَّ تَابَ عَلَيْهِمْ ۚ إِنَّهُۥ بِهِمْ رَءُوفٌۭ رَّحِيمٌۭ
 
-**9:118**  As er y three va er-mayrn. Eisht, tra va'n thalloo, ga dy vel eh feayn, er hionney stiagh orroo, as nyn anmeen hene er hionney stiagh orroo, as hoig ad dy row gyn chemmyrk veih Jee, agh aynsyn, ren eh ad y heyrey, myr shen dy vod ad jannoo arrys. Ta Jee yn Er-heyrey, yn Chymmooil.
+**9:118**  As er y three va er-mayrn. Eisht, tra va'n thalloo, ga dy vel eh feayn, er hionney stiagh orroo, as nyn anmeen hene er hionney stiagh orroo, as hoig ad dy row gyn chemmyrk veih Jee, agh aynsyn, ren eh ad y heyrey, myr shen dy vod ad jannoo arrys. Ta Jee yn Er-ghoaill Arrys, yn Chymmooil.
 
 وَعَلَى ٱلثَّلَٰثَةِ ٱلَّذِينَ خُلِّفُوا۟ حَتَّىٰٓ إِذَا ضَاقَتْ عَلَيْهِمُ ٱلْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوٓا۟ أَن لَّا مَلْجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟ ۚ إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
