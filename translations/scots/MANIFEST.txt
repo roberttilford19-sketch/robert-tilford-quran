@@ -1,0 +1,44 @@
+MANIFEST — Ayah Companion Scots
+
+Landed 2026-11-22 on the GitHub shelf under Robert Tilford's
+Pipeline Landing Authorization (2026-11-14) and his explicit build
+release of 2026-11-22. Shelf folder 209 of the translations shelf
+(208 directories stood under translations/ before this landing).
+Built from the Locked English Master (the corrected manuscript)
+only.
+
+Status: DRAFT — landed on the shelf 2026-11-22 under the Pipeline
+Landing Authorization; NOT speaker-reviewed. A rendering of the
+Quran in Scots — 6,236 of 6,236 verses rendered, GAP seats 0.
+This text was machine-assisted by non-speakers of Scots under
+Robert Tilford's direction and is labelled as such. It is not
+speaker-reviewed; no native or critic review is awaited, invited,
+or chased (Robert's ruling, 2026-11-18). Declared norm: Modern
+literary Scots, DSL-disciplined. No first-translation claim beyond
+the bounded form: first complete Scots Quran translation found —
+after research. Every declared ruling, judgment call, and known
+anomaly is named in FLAGS-AND-GAPS-DISCLOSURE-SCO-2026-11-22.md.
+Translated by Robert Tilford. © 2026 Robert Tilford.
+Verse-marker re-count at landing: 6,236 of 6,236 markers, first
+1:1, last 114:6 (independent checker, 2026-11-22).
+Lane verification of record: independent checker PASS,
+2026-11-22 (CHECKER-REPORT-SCO-2026-11-22.md in the lane folder
+~/workspace/ayah-scots/): counts exact on every canonical measure
+(per-surah 114/114; Arabic runs 6,462/6,462; prostration markers
+15/15 at the master's seats; Basmalah 112 standalone + 1:1, none
+at Surah 9; 0 [MISSING]; 0 "%"); 40-verse language sample graded
+(a) 32, (b) 7, (c) 1 — (a)-dominant.
+Manuscript SHA-256
+5126aebcfcfd1a68496e8af20b3d2736ff109f1037e9a17f73ab6a23fa076d00,
+byte-identical to the lane's governing built text.
+The full landing account stands in
+LANDING-REPORT-SCO-2026-11-22.md in this folder.
+
+Gift terms, as every folder on this shelf: free to read and free to
+download, never sold; attribution requested.
+
+Files:
+  2213312  5126aebcfcfd1a68496e8af20b3d2736ff109f1037e9a17f73ab6a23fa076d00  ayah-companion-manuscript-SCO.md
+  2014831  fa957c277ead8c60b3c594c7e9f52e1596219ee9b51a6395e8ada53063911be6  Ayah_Companion_Tilford_Scots_Manuscript.pdf
+  3933  62cc04c2a1dc32e5f5b19ebcc1d0b4fc3ee7595ed2ac27e8b65a7f2898340e38  GLOSSARY-SCO.md
+  7424  c146532314564c232205c50718d0a5d74df029f77be067320266de94bdc83086  FLAGS-AND-GAPS-DISCLOSURE-SCO-2026-11-22.md
