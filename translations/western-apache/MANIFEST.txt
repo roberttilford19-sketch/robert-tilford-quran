@@ -66,3 +66,37 @@ Files:
   6631  6b0d62eecd5f2b8a2c39a0bdc66a7a8c3281e25d6f5c30811e7a99b6f927e7d8  FLAGS-AND-GAPS-DISCLOSURE-2026-11-22.md
   3571  1a03241347eceba71c06c3b806d2e55888fcd25cd9cba966195462458e5c03ae  LANDING-REPORT-2026-11-22.md
   1775  77ea769cdcb99583277d08779719dd1ac6626a1fc8ff93452eccfe676d5eeec7  CAPTION-WESTERN-APACHE-2026-11-22.md
+
+Addendum — 2026-11-24: the concordance.
+
+Beside the book and its glossary now stands the Concordance to the
+Quran in Western Apache, commissioned by Robert Tilford on
+2026-11-24 under his 2026-11-18 completion standard (toolkits and
+concordances). It was counted mechanically from the manuscript as
+landed, including the WA-1 and WA-2 seatings of 2026-11-24, from the
+lane's own receipted grounding data only (the glossary and the
+Western Apache New Testament corpus forms table); no outside source
+was consulted, no form was added, and the manuscript was not touched.
+
+The count, reconciled: 6,236 verses; 134,890 word tokens in the
+numbered verses; less 110 tokens of the ruled 2:69 help-flag
+(apparatus, not translation), 652 punctuation-only tokens, and the
+two disclosed English substitutions at 2:61 (listed separately in
+the concordance, marked as English, not Apache forms) — 134,126
+indexed occurrences under 2,238 headwords (2,789 distinct forms as
+printed), and the entries' occurrence counts sum to exactly 134,126.
+Citations are tiered and labelled in the book itself: 808 headwords
+on a direct receipt, 44 inside a receipted phrase, 101 under a
+variant accent spelling, 714 on a receipted stem, 35 on a
+build-record mention, and 536 with no receipt for their exact form
+in the grounding files held — reported in the book, not smoothed.
+An independent spot-check (second pass over the manuscript text;
+36 entries across the alphabet, forced cases included) passed 36 of
+36 on form, counts, full coordinate lists, and citations; the check
+record stands in the lane as CONCORDANCE-CHECK-2026-11-24.md.
+
+Status, as the book: DRAFT — NOT PUBLISHED.
+
+Files added:
+  1228093  5d3a705aca5d6f15bd00a73ccec42f5ae2caeb714cafe7c5e72cdb15b445a8c3  CONCORDANCE-APW.md
+  2377942  367a421702b6e4dd004a706d9f8eb62a5fad0fdba574a245f3a9aa580e575607  Tilford_Western_Apache_Concordance.pdf
