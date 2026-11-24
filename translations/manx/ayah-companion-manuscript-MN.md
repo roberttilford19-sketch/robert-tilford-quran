@@ -14506,7 +14506,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 ثُمَّ إِنَّ لَهُمْ عَلَيْهَا لَشَوْبًۭا مِّنْ حَمِيمٍۢ
 
-**37:68**  Eisht bee yn chyndaa oc gys y Chiollagh.
+**37:68**  Eisht bee yn chyndaa oc gys yn niurin.
 
 ثُمَّ إِنَّ مَرْجِعَهُمْ لَإِلَى ٱلْجَحِيمِ
 
@@ -15670,7 +15670,7 @@ My ta shiu ayns stayd dy neu-ghlennid, glen-jee shiu hene. My ta shiu doghanit, 
 
 وَكَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ كَفَرُوٓا۟ أَنَّهُمْ أَصْحَٰبُ ٱلنَّارِ
 
-**40:7**  Adsyn ta gymmyrkey yn Stoyl-reeoil, as adsyn mygeayrt eh, ta cur moylley da'n Chiarn oc lesh moylley, as credjal ayn, as shirrey leoddey son adsyn ta credjal: "Nyn Hiarn, t'ou er hoiaghey dy chooilley nhee ayns chymmey as tushtey; myr shen leoddey dauesyn ta jannoo arrys as geiyrt er dty raad, as coad ad veih angaish y Chiollagh.
+**40:7**  Adsyn ta gymmyrkey yn Stoyl-reeoil, as adsyn mygeayrt eh, ta cur moylley da'n Chiarn oc lesh moylley, as credjal ayn, as shirrey leoddey son adsyn ta credjal: "Nyn Hiarn, t'ou er hoiaghey dy chooilley nhee ayns chymmey as tushtey; myr shen leoddey dauesyn ta jannoo arrys as geiyrt er dty raad, as coad ad veih angaish yn niurin.
 
 ٱلَّذِينَ يَحْمِلُونَ ٱلْعَرْشَ وَمَنْ حَوْلَهُۥ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِۦ وَيَسْتَغْفِرُونَ لِلَّذِينَ ءَامَنُوا۟ رَبَّنَا وَسِعْتَ كُلَّ شَىْءٍۢ رَّحْمَةًۭ وَعِلْمًۭا فَٱغْفِرْ لِلَّذِينَ تَابُوا۟ وَٱتَّبَعُوا۟ سَبِيلَكَ وَقِهِمْ عَذَابَ ٱلْجَحِيمِ
 

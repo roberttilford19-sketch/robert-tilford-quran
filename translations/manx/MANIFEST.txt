@@ -78,5 +78,22 @@ census. Still carried, disclosed: yn Chiollagh (2 seats — no settled
 alternative; awaiting its own ruling). Full record:
 CORRECTIONS-MN-TAWWAB-UNIFICATION-2026-11-23.md in the lane folder.
 
+CHIOLLAGH RULING — 2026-11-24. Robert Tilford ruled on the carried yn
+Chiollagh seats (live call, 2026-11-24 7:25 AM CST, ruling MANX-A,
+adopting Option A of the desk's evidence packet of the same date).
+Chiollagh — attested only as hearth/fireplace (Kelly, Cregeen, the 1819
+Bible's sole seat at Gen 18:6); a guardian or Hell sense is not found,
+and the lane glossary's entry of it for al-Wakil was a phantom: the
+word stood at 0 of al-Wakil's 24 seats. The Bible's own Hell word,
+niurin, already the text's working form at 91 seats, is now seated at
+the two chiollagh seats on the text's own patterns: 37:68 "gys yn
+niurin" and 40:7 "angaish yn niurin". The phantom glossary entry is
+struck and niurin entered as the citation form for Hell beside ifrin,
+with Kelly's note. Diff-verified: exactly 2 lines changed, each only
+in the Chiollagh phrase; chiollagh count 2 -> 0; niurin seats 91 ->
+93; 6,236 of 6,236 verse markers. Nothing else in the text changed.
+Full record: CORRECTIONS-MN-CHIOLLAGH-RULING-2026-11-24.md in the
+lane folder; evidence packet in Robert's files.
+
 Files:
-  2257743  f3e919037f4177c7bfe8662c2850185ecfce0ea430244f14ae170fd6a36701b2  ayah-companion-manuscript-MN.md
+  2257739  ff5bfb52e8243137ef08036fc206bc256770d6563ae14d4baea00347bfeb6e90  ayah-companion-manuscript-MN.md
