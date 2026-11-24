@@ -14,5 +14,36 @@ Lane verification of record: Lane verification stands (VERIFICATION-NV.md): stru
 The full lane record (build report, verification and checker records, flags)
 stands in the workspace lane folder ~/workspace/ayah-navajo/, unrepaired.
 
+Status — updated 2026-11-24 (Navajo Completion Wave, under Robert
+Tilford's standing three-lane completion order of 2026-11-18): the
+grounding and concordance loop for this lane is COMPLETE, carried to
+the limit of the openly published record. Of the manuscript's 10,443
+distinct word forms, 686 are receipted, and 495 of those carry
+published citations (Wiktionary Navajo as extracted by Kaikki.org;
+Young & Morgan, The Navaho Language, U.S. Office of Indian Affairs,
+1943) that any checker can walk back to source; the receipted forms
+cover 64.3% of all word occurrences in the book. The remaining 9,757
+forms were each examined and stand disclosed in gaps-register-nv.json
+with the reason: 3,826 are Arabic transliterations or proper names,
+outside the Navajo dictionary record by design, and 5,931 — the great
+mass of them inflected verb forms — found no attestation in the openly
+published record searched. No form was invented and none was silently
+replaced. The original translator flags stand adjudicated as far as
+published sources allow in FLAGS-ADJUDICATION-2026-11-24-NV.md; the
+judgements that remain open are recorded there as open. A first
+independent check failed the wave on receipt quality; the defects
+were repaired in the open and a second independent check passed on
+all six checks (counts recomputed exactly; a seeded sample of 40
+receipts verified one by one against the cited sources, 40 passed).
+The manuscript itself is unchanged by the wave (MD5
+408b7bb97269c65ce2e85d39dc886e6a). The full wave account stands in
+WAVE-COMPLETION-REPORT-2026-11-24-NV.md in this folder.
+
 Files:
   1983063  374b9a493d68e60e38698813228a514451fa0c9dd204fdca716bae700d31ce98  ayah-companion-manuscript-NV.md
+  3958  3a4eb3fc255ff8535949eefd7d59422951738881e2aaef4350278e32871d6509  GLOSSARY-NV.md
+  2175006  ecfd10288de05b960bbbef0f9791482daf8aa6379b5255cb3aeeeb31a7fd5a9b  concordance-full-wave-nv.json
+  1638713  15eb647af8306479ee72a4503c16b2bcf6421f0779f03d5c97f37a6a4c2fe2f4  gaps-register-nv.json
+  2476  4d054e3b5907905ab36c98c8a3ce394fadd52bea8fa9d58b1607f890918bc2fa  PACK-MANIFEST.md
+  8813  3e1b996e6f4f7648032191893967b1043de9383c19c816b1d21bfeffecfe9a56  WAVE-COMPLETION-REPORT-2026-11-24-NV.md
+  3378  4e03524438c41ee6a8054c53697f372a3371eccf7fb6b4c05d2e4aed3ec802ed  FLAGS-ADJUDICATION-2026-11-24-NV.md
