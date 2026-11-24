@@ -115,3 +115,35 @@ non-speakers under Robert Tilford's direction, and is labelled as such.
   front-matter sentence stating that rule.
 - **No first-translation claim is made for this book**, here or
   anywhere on this shelf.
+
+---
+
+## Addendum — 2026-11-24: the last three seats closed by Robert's rulings
+
+Dated addendum; the 2026-11-22 text above stands unrewritten, including
+its statements that the kāhin ruling "has not been given" — true when
+written, superseded by this addendum.
+
+**52:29 and 69:42 (kāhin) — closed by Robert's ruling A, 2026-11-24.**
+The Ruling 4 packet was built and served
+(WESTERN-APACHE-PACKET-KAHIN-2026-11-24.md), and Robert ruled A,
+informed, on the live call of 2026-11-24. Seated at both verses:
+*ch'iidn biyi' golį́į́go o'įįń* — a newly composed description built
+entirely from attested parts, from the New Testament's own
+spirit-indwelt seer frame at Acts 16:16. It is labelled as composed,
+not attested, in the book's closing disclosure and in the lane record
+CORRECTIONS-WA-RULINGS-2026-11-24.md.
+
+**2:61 (garlic, lentils) — closed by Robert's ruling, 2026-11-24,
+against the desk's recommendation.** Robert ruled, in his own words,
+that where no Apache word is found the English word stands in
+parentheses, because Apache readers speak English and will understand
+it. Seated: (garlic), (lentils), in the verse's list position —
+unattested English substitutions, disclosed as such under his
+substitution-with-disclosure ruling of 2026-11-21, reaffirmed
+2026-11-24.
+
+**The standing count is now: 6,236 of 6,236 verses rendered; ZERO open
+GAP seats** (6,236 markers, first 1:1, last 114:6, reconciled
+mechanically at seating). The 2:69 inline help-flag stands untouched,
+as ruled; it is not a gap.

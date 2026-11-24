@@ -5,9 +5,9 @@ translator: Robert Tilford
 copyright: © 2026 Robert Tilford
 source_text: Locked English Master — Ayah Companion manuscript (~/workspace/ayah-audit/corrected/ayah-companion-manuscript.md)
 grid: Standard 6,236-verse grid
-verses_translated: 6233
+verses_translated: 6236
 verses_total: 6236
-gap_seats: 2:61, 52:29, 69:42
+gap_seats: none — all 6,236 seats rendered; the last three seats (2:61; 52:29; 69:42) were closed by Robert Tilford's rulings of 2026-11-24, disclosed in the closing note of this book and in the lane corrections record CORRECTIONS-WA-RULINGS-2026-11-24.md
 method: Corpus-led: every word form attested in the Western Apache New Testament corpus or the UCLA Phonetics Archive lists, per glossary.md in this folder. Constructions flagged in glossary.md Section H. Rule A applied. Zakat carries no percentage.
 basmalah_note: Surah 1:1 is the Basmalah itself. For other surahs except Surah 9 the Basmalah stands as an unnumbered opening line, as in the Master.
 ---
@@ -156,7 +156,7 @@ Translated by Robert Tilford
 
 **2:60**  Ła'íí Moses hat'i'íí bá tú hádaat'įįgo okąąh n'íí baa natsídaakees le'. Gábiłnṉiidá': 'Nitsį be'idiltłishé bee tséé ńłts'in.' Áík'ehgo naakits'ádah tú hanaazlį́į́ ákú'dí' hanadáá silįį, ła'íí hat'i'íí dała'á dawa tú daadląąhíí bá bígózį silįį. 'Bik'ehgo'ihi'nań baa nné'íí da'iyąą ła'íí daahdląą le', ła'íí ni'gosdzáń biká' doo yikísk'eh ádaat'ee dahíí bee nchǫ'go ádaał'įį hela'.'
 
-**2:61**  Ła'íí gádaaṉii n'íí baa natsídaakees le': 'Moses, ba'iyąą' dała'á zhą́ doo dahiidǫ́h da. NohwiNant'a' bá okąąh le', ni'gosdzáń ádaa ádaagolį́į́ áyíílaahíí bits'ą́'dí' nohwíí ch'í'ṉah áile' le': ch'il, ishiin bilit'annii, ⟦GAP — 'garlic': no attested Western Apache form found in the published sources searched; this item stays marked, see glossary.md Section I.11⟧, ⟦GAP — 'lentils': no attested Western Apache form found in the published sources searched (beans are attested; lentils are not); this item stays marked, see glossary.md Section I.11⟧, ła'íí chewoya.' Gáṉíí: 'Nłt'ééhíí nchǫ'íí yich'į' iłk'íńadaałt'aash née? Egyptzhį' hadaahkáh le'; ákú hadíí hádaaht'įįhíí nádaałné' doleeł.' Ádaa ałts'ísę́go ábi'delzaa silįį, ła'íí ádaadinéégo ábi'delzaa, ła'íí Bik'ehgo'ihi'nań bihashke' nádaidné'. Áí Bik'ehgo'ihi'nań yisilgozohíí doo nádaidné' dahíí bighą át'éé, ła'íí Bik'ehgo'ihi'nań binkááyú na'iziidíí doo nzhǫǫgo ágot'ee da ndi daaiłtseedíí bighą. Áí doo yikísk'eh ádaat'ee da silįįhíí ła'íí dantsé nchǫ'go áda'ile'íí bighą át'éé.
+**2:61**  Ła'íí gádaaṉii n'íí baa natsídaakees le': 'Moses, ba'iyąą' dała'á zhą́ doo dahiidǫ́h da. NohwiNant'a' bá okąąh le', ni'gosdzáń ádaa ádaagolį́į́ áyíílaahíí bits'ą́'dí' nohwíí ch'í'ṉah áile' le': ch'il, ishiin bilit'annii, (garlic), (lentils), ła'íí chewoya.' Gáṉíí: 'Nłt'ééhíí nchǫ'íí yich'į' iłk'íńadaałt'aash née? Egyptzhį' hadaahkáh le'; ákú hadíí hádaaht'įįhíí nádaałné' doleeł.' Ádaa ałts'ísę́go ábi'delzaa silįį, ła'íí ádaadinéégo ábi'delzaa, ła'íí Bik'ehgo'ihi'nań bihashke' nádaidné'. Áí Bik'ehgo'ihi'nań yisilgozohíí doo nádaidné' dahíí bighą át'éé, ła'íí Bik'ehgo'ihi'nań binkááyú na'iziidíí doo nzhǫǫgo ágot'ee da ndi daaiłtseedíí bighą. Áí doo yikísk'eh ádaat'ee da silįįhíí ła'íí dantsé nchǫ'go áda'ile'íí bighą át'éé.
 
 **2:62**  Daayodlaaníí, ła'íí Jews hat'i'íí, ła'íí ínashood, ła'íí Sabeans — hadíń Bik'ehgo'ihi'nań ła'íí Nnágodzaahíí Bijįį yodlaaníí ła'íí nzhǫǫgo áyíílaahíí, biNant'a' bits'ą́'dí' bá nzhǫǫgo ábi'delzaa doleeł; doo nt'é yédaaldzid da, ła'íí doo bijíí goyéé da doleeł.
 
@@ -9746,7 +9746,7 @@ Translated by Robert Tilford
 
 **52:28**  Díí dantsé, nihíí Áń bich'į' ádaaṉii ni'. Áń Nłt'ééhíí, Yiłgoch'oba'íí nlįį.'
 
-**52:29**  Áík'ehgo ádaa ádaagolį́į́ áyíílaa le'. NiNant'a' baa gozhóni yee, nihíí ⟦GAP — 'a soothsayer': the sorcery family; see glossary.md Section I.1⟧ doo danlįį da, natsí'kees doo nłt'éé dahíí ałdó' doo.
+**52:29**  Áík'ehgo ádaa ádaagolį́į́ áyíílaa le'. NiNant'a' baa gozhóni yee, nihíí ch'iidn biyi' golį́į́go o'įįń doo danlįį da, natsí'kees doo nłt'éé dahíí ałdó' doo.
 
 **52:30**  Dagohíí dabíí gádaaṉii née: 'Hadzií ádaa ádaagolį́į́ áyíílaahíí — nihíí áń bá ádaa ádaagolį́į́híí yiba' sidaa'?
 
@@ -11016,7 +11016,7 @@ Translated by Robert Tilford
 
 **69:41**  Ła'íí áí ádaa ádaagolį́į́ áyíílaahíí bihadzií doo át'éé da — nohwíí ałts'ísę́go danohłįį.
 
-**69:42**  Ła'íí áí ⟦GAP — 'soothsayer': the sorcery family; see glossary.md Section I.1⟧ bihadzií doo át'éé da — nohwíí ałts'ísę́go ádaa ádaagolį́į́ áyíílaa.
+**69:42**  Ła'íí áí ch'iidn biyi' golį́į́go o'įįń bihadzií doo át'éé da — nohwíí ałts'ísę́go ádaa ádaagolį́į́ áyíílaa.
 
 **69:43**  Áí nkenyáá át'éé, Nṉee Dawa BiNant'a' bits'ą́'dí'.
 
@@ -12941,4 +12941,6 @@ Translated by Robert Tilford
 **114:6**  Ch'iidn itahdẹ́ẹ́'íí ła'íí nṉee itahdẹ́ẹ́'íí.
 
 ---
-Working count: 6233 verses translated of 6,236; 3 seats held open as GAP (2:61, 52:29, 69:42).
+Working count: 6,236 verses translated of 6,236; zero seats held open as GAP.
+
+Closing disclosure (2026-11-24). The last three open seats were closed by Robert Tilford's rulings of 2026-11-24. At 52:29 and 69:42 (Arabic kāhin, "soothsayer" — no published Western Apache lexeme was found on any road searched), the seated words ch'iidn biyi' golį́į́go o'įįń are a newly composed description built entirely from attested parts, taken from the Western Apache New Testament's own frame for a pagan foreteller at Acts 16:16; the description is labelled as composed, not attested, wherever it is described. At 2:61, where no attested Western Apache word for garlic or lentils was found in any published source searched, the English words (garlic) and (lentils) stand in parentheses in the text as unattested substitutions, seated under Robert Tilford's substitution-with-disclosure ruling of 2026-11-21, reaffirmed 2026-11-24. The full record stands in the lane folder: CORRECTIONS-WA-RULINGS-2026-11-24.md.
