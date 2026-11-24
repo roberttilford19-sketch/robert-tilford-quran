@@ -1,0 +1,54 @@
+MANIFEST — HAWU (HVN) LANE, 2026-11-24
+
+Item: Lii Hawu — The Quran in Hawu (Ayah Companion, HVN)
+Author: Robert Tilford. Status: DRAFT — NOT PUBLISHED (the status
+stands inside the book; no native-speaker review has been had).
+Translator credit (inside the book): Translated by Robert Tilford.
+© 2026 Robert Tilford. AI assistance labelled plainly inside the
+book.
+Completeness: 6,236 of 6,236 verses, 114 surahs; first verse 1:1,
+last verse 114:6. Lane checker: 0 problems. Canonical verify: PASS.
+Purple sweep: reconciled (PURPLE-REPORT-HVN-2026-11-24.md).
+Text rule: the Arabic stands byte-identical beside the rendering —
+6,348 Arabic runs verified against the Locked English Master
+(MD5 064ee170806bb31f5bac3e75d2aa4d94).
+Script: Latin (orthography of the designated dictionary).
+Claim boundary: no first-translation claim is made. Standing
+wording: none found after research.
+Authority: built under the Pipeline Landing Authorization
+(2026-11-14) on the lane's designated base only — Grimes, Lado, Ly
+& Tari, Lii Hawu (Sabu) online dictionary (UBB-GMIT, 2008),
+recovered in full by decrypting its banked Lexique Pro
+distribution file (gate record addendum of 2026-11-24). No other
+base was adopted or substituted. Dictionary fair-use throughout:
+form+gloss pairings and citation only; the maker's examples,
+wording and arrangement are not reproduced.
+Grounding: 751 of the 1,887 template keys grounded by the
+gloss-word method (634 strict) from the dictionary's readable
+forms — source gate PASSED against the 600 floor.
+Rendering rule: attested forms only. 51,812 GAP seats in the
+verses (52,537 with introductions) are held open in the text as
+⟦GAP — 'word'⟧ markers and listed in work/flags-hvn.txt; 70
+dictionary mappings were withheld under the disclosed
+reserved-token exclusion (see BUILD-REPORT-HVN.md).
+Keying census: Deo 2,732 = God 2,732; deo 79 = god 79;
+Muri Mone 980 = Lord + counted Master 980; muri 13 = generic
+lord + master 13; zakat 13 of 13, no percentage.
+
+Files in this lane folder:
+- ayah-companion-manuscript-HVN.md — 3,106,686 bytes —
+  sha256 155794d31a5a62e531a0c72b9e987299d742765088413b1514b8e41fdc09c9c7
+- ayah-companion-aligned-HVN.json — 4,197,882 bytes —
+  sha256 0f219f3475841bcb6e4e8a1c627fae0c3211c6a330c0bc4e63c4f795e13818e9
+- GATE-RECORD-2026-11-24.md, GATE-RECORD-EXTRACTION-2026-11-24.md,
+  BUILD-REPORT-HVN.md, CHECKER-REPORT-HVN.md,
+  PURPLE-REPORT-HVN-2026-11-24.md, MANIFEST.txt
+- work/ — make_dict, build, check, verify, assemble, finish and
+  Purple scripts; dict_hvn.json (the dictionary of record);
+  flags-hvn.txt; base/ (the banked dictionary distribution, the
+  decrypted extraction, and the grounding counts).
+
+Landing: the lane lands on the GitHub shelf under the Pipeline
+Landing Authorization on the gates above (source gate passed;
+build complete; lane checker 0 problems; canonical verify PASS;
+Purple reconciled). Nothing was posted or sent.
