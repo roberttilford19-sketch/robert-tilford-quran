@@ -6191,7 +6191,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 وَلَئِنْ أَذَقْنَا ٱلْإِنسَٰنَ مِنَّا رَحْمَةًۭ ثُمَّ نَزَعْنَٰهَا مِنْهُ إِنَّهُۥ لَيَـُٔوسٌۭ كَفُورٌۭ
 
-**11:10** Và nếu Ta cho người ấy nếm sự thịnh vượng, sau khi nghịch cảnh đã giáng xuống người ấy, người ấy sẽ nói: “Rắc rối đã rời xa tôi.” Người ấy trở nên phấn khích và tự hào.
+**11:10** Và nếu Chúng Ta cho người ấy nếm sự thịnh vượng, sau khi nghịch cảnh đã giáng xuống người ấy, người ấy sẽ nói: “Rắc rối đã rời xa tôi.” Người ấy trở nên phấn khích và tự hào.
 
 وَلَئِنْ أَذَقْنَٰهُ نَعْمَآءَ بَعْدَ ضَرَّآءَ مَسَّتْهُ لَيَقُولَنَّ ذَهَبَ ٱلسَّيِّـَٔاتُ عَنِّىٓ ۚ إِنَّهُۥ لَفَرِحٌۭ فَخُورٌ
 
@@ -6751,7 +6751,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ ۚ قَالَ مَعَاذَ ٱللَّهِ ۖ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ ۖ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
 
-**12:24** Bà ham muốn nó, và nó ham muốn bà, nếu nó không thấy bằng chứng của Đấng Chúa Tể của nó. Đó là cách Ta chuyển điều xấu và sự không đứng đắn ra khỏi nó. Nó là một trong những tôi tớ trung thành của Ta.
+**12:24** Bà ham muốn nó, và nó ham muốn bà, nếu nó không thấy bằng chứng của Đấng Chúa Tể của nó. Đó là cách Chúng Ta chuyển điều xấu và sự không đứng đắn ra khỏi nó. Nó là một trong những tôi tớ trung thành của Chúng Ta.
 
 وَلَقَدْ هَمَّتْ بِهِۦ ۖ وَهَمَّ بِهَا لَوْلَآ أَن رَّءَا بُرْهَٰنَ رَبِّهِۦ ۚ كَذَٰلِكَ لِنَصْرِفَ عَنْهُ ٱلسُّوٓءَ وَٱلْفَحْشَآءَ ۚ إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُخْلَصِينَ
 
@@ -7257,7 +7257,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 ۞ مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ ۖ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۖ أُكُلُهَا دَآئِمٌۭ وَظِلُّهَا ۚ تِلْكَ عُقْبَى ٱلَّذِينَ ٱتَّقَوا۟ ۖ وَّعُقْبَى ٱلْكَٰفِرِينَ ٱلنَّارُ
 
-**13:36** Những người mà Ta đã ban Kinh Sách vui mừng trong những gì được mặc khải cho ngươi, trong khi một số phe phái từ chối một phần của nó. Hãy nói: “Tôi được lệnh thờ phượng Allah, và không bao giờ gán ghép bất cứ thứ gì với Ngài. Tôi mời gọi đến Ngài, và về với Ngài là sự trở về của tôi.”
+**13:36** Những người mà Chúng Ta đã ban Kinh Sách vui mừng trong những gì được mặc khải cho ngươi, trong khi một số phe phái từ chối một phần của nó. Hãy nói: “Tôi được lệnh thờ phượng Allah, và không bao giờ gán ghép bất cứ thứ gì với Ngài. Tôi mời gọi đến Ngài, và về với Ngài là sự trở về của tôi.”
 
 وَٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ يَفْرَحُونَ بِمَآ أُنزِلَ إِلَيْكَ ۖ وَمِنَ ٱلْأَحْزَابِ مَن يُنكِرُ بَعْضَهُۥ ۚ قُلْ إِنَّمَآ أُمِرْتُ أَنْ أَعْبُدَ ٱللَّهَ وَلَآ أُشْرِكَ بِهِۦٓ ۚ إِلَيْهِ أَدْعُوا۟ وَإِلَيْهِ مَـَٔابِ
 
@@ -15329,7 +15329,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 لِيُوَفِّيَهُمْ أُجُورَهُمْ وَيَزِيدَهُم مِّن فَضْلِهِۦٓ ۚ إِنَّهُۥ غَفُورٌۭ شَكُورٌۭ
 
-**35:31** Những gì Ta đã truyền cảm hứng cho ngươi, từ Sách, là sự thật, xác nhận những gì đã trước nó. Allah Thông Thạo về các tôi tớ của Ngài, Thấy Tất Cả.
+**35:31** Những gì Chúng Ta đã truyền cảm hứng cho ngươi, từ Sách, là sự thật, xác nhận những gì đã trước nó. Allah Thông Thạo về các tôi tớ của Ngài, Thấy Tất Cả.
 
 وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ مِنَ ٱلْكِتَٰبِ هُوَ ٱلْحَقُّ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ ۗ إِنَّ ٱللَّهَ بِعِبَادِهِۦ لَخَبِيرٌۢ بَصِيرٌۭ
 
@@ -16065,7 +16065,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
 
-**37:81** Ông là một trong các tôi tớ có đức tin của Ta.
+**37:81** Ông là một trong các tôi tớ có đức tin của Chúng Ta.
 
 إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ
 
@@ -16185,7 +16185,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
 
-**37:111** Ông là một trong các tôi tớ có đức tin của Ta.
+**37:111** Ông là một trong các tôi tớ có đức tin của Chúng Ta.
 
 إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ
 
@@ -16269,7 +16269,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
 
-**37:132** Ông là một trong các tôi tớ có đức tin của Ta.
+**37:132** Ông là một trong các tôi tớ có đức tin của Chúng Ta.
 
 إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ
 
@@ -16425,7 +16425,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ يَعْلَمُونَ
 
-**37:171** Lời của Ta đã đi ra trước cho các sứ giả tôi tớ của Ta.
+**37:171** Lời của Chúng Ta đã đi ra trước cho các sứ giả tôi tớ của Chúng Ta.
 
 وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا ٱلْمُرْسَلِينَ
 
