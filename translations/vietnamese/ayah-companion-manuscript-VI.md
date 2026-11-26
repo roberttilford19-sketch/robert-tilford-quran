@@ -13695,7 +13695,7 @@ Nếu các ngươi đang trong trạng thái không sạch, hãy thanh tẩy ch�
 
 ۞ وَلَقَدْ وَصَّلْنَا لَهُمُ ٱلْقَوْلَ لَعَلَّهُمْ يَتَذَكَّرُونَ
 
-**28:52** Những người mà Ta đã ban Kinh Sách cho trước đó tin vào nó.
+**28:52** Những người mà Chúng Ta đã ban Kinh Sách cho trước đó tin vào nó.
 
 ٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ مِن قَبْلِهِۦ هُم بِهِۦ يُؤْمِنُونَ
 
