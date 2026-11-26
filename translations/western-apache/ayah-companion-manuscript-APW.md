@@ -12904,11 +12904,11 @@ Translated by Robert Tilford
 
 **112:1**  Gáńłṉii: Bik'ehgo'ihi'nań dała'á nlįį.
 
-**112:2**  Bik'ehgo'ihi'nań, Dahazhį' Golį́į́híí nlįį.
+**112:2**  Bik'ehgo'ihi'nań, Dahazhį' Golį́į́híí nlįį, nṉee dawa yiba' sidaahíí.
 
-**112:3**  Doo hadíń bizhaazhé áyíílaa da, doo bizhaazhé alzaa da.
+**112:3**  Doo hadíń Bik'ehgo'ihi'nań bá hizhchįį da, doo bizhaazhé alzaa da.
 
-**112:4**  Doo hadíń bik'ehgo at'éé da.
+**112:4**  Doo hadíń Bik'ehgo'ihi'nań bił dáłełt'ee da.
 
 ## 113. The Daybreak (Al-Falaq) — 5 verses
 

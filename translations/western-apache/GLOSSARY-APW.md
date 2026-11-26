@@ -1267,3 +1267,33 @@ still **0**. The landing stays HELD (Bray pass).
   leave a comment — you will become a co-contributor of this
   work, with thanks, and a certificate by email." Full
   record: RULING-A-EXECUTED-2-69-2026-11-18.md.
+
+## Section J115 — Surah 112 pivot-test seating (2026-11-26)
+
+Added under Robert Tilford's ruling of 2026-11-26, following the
+Surah 112 pivot test and precision hunt (records:
+~/workspace/.tools/pivot-audit/SURAH-112-TEST.md and
+SURAH-112-PRECISION-HUNT.md; lane errata: ERRATA-2026-11-26.md).
+One entry the hunt recovered from the concordance, where it had
+always stood receipted without ever entering this glossary:
+
+- **equal, a peer — sameness of measure, of rank, of worth** —
+  dáłełt'ee — Western Apache NT corpus, 14 occurrences, first at
+  Matt 11:17 (CONCORDANCE-APW.md, s.v.). Its equality sense is
+  fixed by the seats where nothing but equality would do:
+  Matt 20:12, "néé bił dáłełt'eego nohwich'į' naháńṉil" — "you
+  have made them equal to us" in wages, the same measure for the
+  same pay; and 2 Peter 1:1, where the Greek isotimos, "equal in
+  value," is rendered "bił dáłełt'ee," a faith of equal worth.
+  Its span reaches from likeness at its weakest seat (Luke 7:31)
+  to full equality of worth and wage at its strongest. The word
+  already stood in this lane's Quran manuscript at eight seats
+  (2:6, 2:70, 2:118, 2:165, 3:64, 3:113, 3:162, 4:42); seated at
+  Quran 112:4 by Robert's ruling of 2026-11-26, rendering the
+  Arabic kufuʾ, "an equal, a peer," in the construction
+  *Doo hadíń Bik'ehgo'ihi'nań bił dáłełt'ee da* — "No one is
+  equal with God." Recorded with the hunt's honesty note: where
+  the corpus itself renders "equal with God" as a phrase
+  (John 5:18; Phil 2:6) it uses oneness, *yił dała' nlįį*, a
+  stronger claim than the Arabic of 112:4 makes; dáłełt'ee is
+  the more precise road on the Arabic's own wording.
