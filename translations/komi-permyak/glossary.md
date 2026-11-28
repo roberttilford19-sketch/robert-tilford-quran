@@ -1,0 +1,1388 @@
+# Komi-Permyak (koi) Quran draft — glossary of seated forms
+
+Every form below traces to a harvested Komi-Permyak inventory
+(GiellaLT giella-koi stem files and dictionary XML, its
+Ponomareva-proofread paradigm test files, or English Wiktionary
+Komi-Permyak entries) — see ATTESTATION-AUDIT-2026-11-28.md.
+Flagged seats: [loan] = a loanword standing in the attested koi
+inventory; [device] = a disclosed plain-style device or regular
+derivation; [thin] = lemma attested, gloss trail thin.
+
+## A. Core religious seats (one seat per term)
+- God — **ен** 
+- Lord — **ен** [device: no separate господь seat attested in the koi inventories; сар is 'king']
+- name — **ним** 
+- mercy / merciful / beneficent / compassionate / clement / grace — **милӧсьта** [thin: lemma of the giella-koi inventory; the мил- family is gloss-attested by милуйтны 'миловать, любить']
+- heaven / sky — **енӧж** 
+- paradise — **рай** [loan]
+- hell — **ад** [loan]
+- angel — **ангел** [loan]
+- prophet — **пророк** [loan]
+- messenger — **ыстісь** [device: regular agent -ісь of ыстыны 'to send']
+- believe — **эскыны** 
+- believer — **эскісь** [device: regular agent -ісь]
+- disbeliever — **оз эскісь** [device: negated agent]
+- faith — **эскӧм** [device: regular -ӧм noun of эскыны]
+- disbelief — **оз эскӧм** [device]
+- sin — **мыж** [thin: lemma of the giella-koi inventory, gloss not carried in the XML subset]
+- sinner — **мыж морт** [device: 'sin person']
+- prayer — **келмӧм** [thin: gloss 'молитва' marked Usol. dialect in the XML]
+- pray — **кеймыны** 
+- worship — **юрбитны** 
+- book — **небӧг** 
+- scripture (generic) — **гижӧт** [flagged generic: 'writing, letter']
+- word — **кыв** 
+- sign — **пас** [thin]
+- spirit / soul — **лов** 
+- Holy Spirit — **Вежа Лов** [device]
+- heart — **сьӧлӧм** 
+- truth — **быль** 
+- true — **быль** [device]
+- righteous — **веськыт** [device: 'straight, just' — no праведный gloss attested in the koi sources]
+- righteousness — **веськытлун** [device: abstract -лун]
+- straight path — **веськыт туй** [device]
+- hereafter — **мӧд олӧм** [device: 'the other life']
+- almighty — **став вына** [device: 'all-strong']
+- forgive — **прӧститны** [loan stem, attested lemma]
+- forgiveness — **прӧститӧм** [device: regular -ӧм noun]
+- punish — **пикӧтны** 
+- punishment / Day of Judgement seat — **пикӧтӧм** [device: regular -ӧм noun]
+- fear (v) — **повны** 
+- love (v) — **радейтны** 
+- devil / Satan — **шайтан** [loan]
+- fast (v) — **видзавны** 
+- fasting — **видз** [thin: gloss 'пост' attested; homonym 'meadow']
+- sacrifice — **жертва** [loan]
+- reward — **дон** [thin: 'price']
+- witness — **адззылісь** 
+- revelation — **восьтӧм** [device: regular -ӧм noun of восьтыны 'to open']
+- refuge — **дорйӧм** 
+- protector — **дорйісь** [device: regular agent -ісь of дорйыны 'to defend']
+- promise (n) — **кӧсйӧм** 
+- temple — **храм** [loan]
+- mosque — **мечеть** [loan]
+- throne — **трон** [loan]
+- jinn — **джинн** [loan; thin: lemma without gloss in the XML subset]
+- idol — **идол** [loan]
+- religion — **религия** [loan]
+- holy — **вежа** 
+- guide (v) — **нуӧтны** 
+- knower — **тӧдісь** 
+- hearer — **кывзісь** [device: regular agent -ісь of кывзыны]
+- warner — **казьмӧтісь** [device: agent of казьмӧтны 'to remind']
+- warn — **казьмӧтны** [device: 'remind' seated for 'warn']
+- reminder — **казьмӧтӧм** 
+- remember — **касьтывны** 
+- repent — **каитчыны** 
+- save — **мезмӧтны** [device: 'free, release' seated for 'save']
+- creation — **вӧчӧм** [device: regular -ӧм noun]
+- create — **аркмӧтны** 
+- torment — **мучитӧм** [device: regular -ӧм noun]
+- alms / charity (generic) — **корӧм** [generic seat, reconciled 2026-11-28: the giella-koi dictionary gloss for корӧм includes 'милостыня, подаяние' (alms, almsgiving); the technical zakat term remains a standing GAP family — the generic seat rides корӧм exactly as the generic scripture seat rides гижӧт. See the attestation audit's addendum of 2026-11-28]
+- servant — **слуга** [loan]
+- people / mankind — **отир** 
+- king — **сар** 
+- deed — **керӧм** [device: 'what is made/done']
+
+## B. Grammar devices (BUILD-SPEC)
+- Verbs seat in the 3rd-person present (stem + **ӧ**); irregulars
+  **олӧ**, **кулӧ**, **воӧ**, **лоӧ**, **локтӧ**, **кылӧ**, **аддзӧ**.
+- Negation **оз** + verb stem; existential negation **абу**.
+- Plural: consonant doubled + **эз** (горт → **горттэз**), vowel + **эз**
+  (му → **муэз**), -й + **ез** (туй → **туйез**). Genitive **лӧн**.
+- Auxiliaries: will/shall/would ride **лоӧ** (present of лоны); can/could
+  ride **кужӧ** (кужны 'be able'); may rides **позьӧ** (позьны 'be possible');
+  have/has/had ride **кутны** 'hold'; cannot rides **оз кужӧ**; unless rides
+  **кӧ оз**; lest rides **медым оз**; let rides **позьны**.
+- 'from' rides the elative suffix **ись**, 'to/into' the illative **ӧ**,
+  'than' the comparative **жык** — each written as a separate token by the
+  plain-style device, as disclosed in BUILD-SPEC.
+- 'at' seats empty (the sibling lanes' precedent). 'out' and 'by' are
+  dropped as plain-style particles, disclosed in BUILD-SPEC's style rules
+  via the engine's DROP set.
+
+## C. Function, pronoun, and number seats
+### Function
+- and — **и**
+- or — **али**
+- but — **но**
+- if — **кӧ**
+- when — **кӧр**
+- that — **мый**
+- what — **мый**
+- who — **кин**
+- whom — **кинӧ**
+- which — **кӧда**
+- whose — **кинлӧн**
+- where — **кытӧн**
+- why — **мыйла**
+- how — **кыдз**
+- because — **сы понда**
+- so — **сідз**
+- then — **сэк**
+- now — **ӧні**
+- no — **абу**
+- yes — **да**
+- also — **тшӧтш**
+- only — **сӧмын**
+- indeed — **збыль**
+- truly — **збыль**
+- perhaps — **гашкӧ**
+- until — **кытчӧдз**
+- before — **водз**
+- after — **бӧрын**
+- from — **ись**
+- in — **ын**
+- on — **вылын**
+- with — **кӧт**
+- for — **понда**
+- to — **ӧ**
+- among — **пытшкын**
+- between — **костын**
+- over — **вылын**
+- under — **улын**
+- above — **вылын**
+- behind — **бӧрын**
+- within — **пытшкын**
+- without — **тӧг**
+- against — **паныт**
+- about — **йылісь**
+- through — **пыр**
+- upon — **вылӧ**
+- into — **ӧ**
+- up — **вылӧ**
+- down — **улӧ**
+- here — **тані**
+- there — **сэні**
+- this — **та**
+- these — **эна**
+- those — **эна**
+- all — **став**
+- every — **быд**
+- each — **быд**
+- any — **кыным**
+- some — **кыным**
+- none — **абу**
+- more — **унажык**
+- most — **медся**
+- than — **жык**
+- as — **кыдз**
+- like — **кыдз**
+- already — **нин**
+- still — **на**
+- yet — **на**
+- again — **бара**
+- ever — **век**
+- never — **некӧр**
+- always — **век**
+- often — **тшӧкыда**
+- once — **ӧтчыд**
+- twice — **кыкысь**
+- together — **ӧтлаын**
+- alone — **ӧтнас**
+- away — **ылын**
+- back — **бӧр**
+- near — **матын**
+- far — **ылын**
+- today — **талун**
+- tomorrow — **аски**
+- yesterday — **тӧрыт**
+- therefore — **сідзкӧ**
+- thus — **сідз**
+- almost — **чут**
+- nearly — **чут**
+- quite — **дзик**
+- very — **вывті**
+- too — **тшӧтш**
+- just — **сӧмын**
+- while — **дырйи**
+- whether — **али**
+- either — **али**
+- neither — **ни**
+- nor — **ни**
+- both — **кыкнан**
+- perchance — **гашкӧ**
+- since — **сянь**
+- around — **гӧгӧр**
+- towards — **лань**
+- toward — **лань**
+- beyond — **сайын**
+- besides — **ӧтдор**
+- except — **ӧтдор**
+- surely — **збыль**
+- even — **эшӧ**
+
+### Pronoun
+- i — **ме**
+- me — **менӧ**
+- my — **менам**
+- mine — **менам**
+- we — **ми**
+- us — **миянӧс**
+- our — **миян**
+- you — **тэ**
+- your — **тэнат**
+- yours — **тэнат**
+- he — **сія**
+- him — **сійӧ**
+- his — **сылӧн**
+- she — **сія**
+- her — **сійӧ**
+- it — **сія**
+- its — **сылӧн**
+- they — **нія**
+- them — **нія**
+- their — **нылӧн**
+- theirs — **нылӧн**
+- himself — **ачыс**
+- itself — **ачыс**
+- themselves — **асьныс**
+- yourself — **ачыт**
+- yourselves — **асьныт**
+- myself — **ачым**
+- ourselves — **асьным**
+- one — **ӧтік**
+- whoever — **кинкӧ**
+- whatever — **мыйкӧ**
+- whichever — **кинкӧ**
+- whomever — **кинӧкӧ**
+- everyone — **быд морт**
+- everybody — **быд морт**
+- anyone — **кинкӧ**
+- someone — **кинкӧ**
+- nobody — **некин**
+- everything — **быдӧс**
+- something — **мыйкӧ**
+- nothing — **нем**
+- anything — **мыйкӧ**
+- another — **мӧд**
+- other — **мӧд**
+- others — **мӧд**
+
+### Number
+- one — **ӧтік**
+- two — **кык**
+- three — **куим**
+- four — **нёль**
+- five — **вит**
+- six — **квать**
+- seven — **сизим**
+- eight — **кыкьямыс**
+- nine — **ӧкмыс**
+- ten — **дас**
+- eleven — **дасӧтік**
+- twelve — **даскык**
+- twenty — **кыкдас**
+- thirty — **куимдас**
+- forty — **нёльдас**
+- fifty — **витдас**
+- sixty — **кватьдас**
+- seventy — **сизимдас**
+- eighty — **кыкьямысдас**
+- ninety — **ӧкмысдас**
+- hundred — **дасдас**
+- thousand — **сюрс**
+- first — **первӧй**
+- second — **кыкӧт**
+- third — **куимӧт**
+- fourth — **нёльӧт**
+- seventh — **сизимӧт**
+- tenth — **дасӧт**
+- half — **джын**
+
+## D. Manual overrides (remainder)
+- according — **серти** (F)
+- almighty — **став вына** (A)
+- although — **но** (F)
+- am — **лоны** (V)
+- angel — **ангел** (N)
+- angels — **ангел** (NPL)
+- are — **лоны** (V)
+- arrogant — **чебер** (A)
+- ask — **юавны** (V)
+- asked — **юавны** (V)
+- asks — **юавны** (V)
+- astray — **вошны** (V)
+- bad — **лёк** (A)
+- be — **лоны** (V)
+- became — **лоны** (V)
+- become — **лоны** (V)
+- becomes — **лоны** (V)
+- been — **лоны** (V)
+- believe — **эскыны** (V)
+- believed — **эскыны** (V)
+- believer — **эскісь** (N)
+- believers — **эскісь** (NPL)
+- believes — **эскыны** (V)
+- believing — **эскыны** (V)
+- beneath — **улын** (F)
+- beneficent — **милӧсьта** (A)
+- benevolent — **милӧсьта** (A)
+- best — **медся бур** (A)
+- better — **буржык** (A)
+- big — **ыджыт** (A)
+- black — **сьӧд** (A)
+- blood — **вир** (N)
+- book — **небӧг** (N)
+- books — **небӧг** (NPL)
+- born — **чужны** (V)
+- bread — **нянь** (N)
+- bright — **югыт** (A)
+- came — **локны** (V)
+- can — **кужны** (V)
+- cannot — **оз кужӧ** (F)
+- child — **кага** (N)
+- children — **кага** (NPL)
+- city — **кар** (N)
+- clement — **милӧсьта** (A)
+- cloud — **кымӧр** (N)
+- clouds — **кымӧр** (NPL)
+- come — **локны** (V)
+- comes — **локны** (V)
+- command — **прикажитны** (V)
+- commanded — **прикажитны** (V)
+- commands — **прикажитны** (V)
+- commit — **вӧчны** (V)
+- commits — **вӧчны** (V)
+- committed — **вӧчны** (V)
+- compassion — **милӧсьта** (N)
+- compassionate — **милӧсьта** (A)
+- could — **кужны** (V)
+- cow — **мӧс** (N)
+- create — **аркмӧтны** (V)
+- created — **аркмӧтны** (V)
+- creates — **аркмӧтны** (V)
+- creation — **вӧчӧм** (N)
+- dark — **пемыт** (A)
+- darkness — **пемыт** (N)
+- daughter — **ныв** (N)
+- daughters — **ныв** (NPL)
+- day — **лун** (N)
+- days — **лун** (NPL)
+- death — **кулӧм** (N)
+- deed — **керӧм** (N)
+- deeds — **керӧм** (NPL)
+- devil — **шайтан** (N)
+- did — **вӧчны** (V)
+- die — **кувны** (V)
+- died — **кувны** (V)
+- dies — **кувны** (V)
+- disbelief — **оз эскӧм** (N)
+- disbelieve — **эскыны** (V)
+- disbeliever — **оз эскісь** (N)
+- disbelievers — **оз эскісь** (NPL)
+- do — **вӧчны** (V)
+- does — **вӧчны** (V)
+- dog — **пон** (N)
+- done — **вӧчны** (V)
+- down — **увлань** (F)
+- drink — **юны** (V)
+- drinks — **юны** (V)
+- ear — **пель** (N)
+- ears — **пель** (NPL)
+- earth — **му** (N)
+- eat — **сёйны** (V)
+- eats — **сёйны** (V)
+- enemies — **враг** (NPL)
+- enemy — **враг** (N)
+- evening — **рыт** (N)
+- evil — **лёк** (A)
+- eye — **син** (N)
+- eyes — **син** (NPL)
+- fact — **факт** (N)
+- faith — **эскӧм** (N)
+- family — **семья** (N)
+- fast — **видзавны** (V)
+- fasting — **видз** (N)
+- father — **ай** (N)
+- fear — **повны** (V)
+- feared — **повны** (V)
+- fears — **повны** (V)
+- feet — **кок** (NPL)
+- fire — **би** (N)
+- fish — **чери** (N)
+- follow — **мунны бӧрын** (V)
+- followed — **мунны бӧрын** (V)
+- following — **мунны бӧрын** (V)
+- follows — **мунны бӧрын** (V)
+- foot — **кок** (N)
+- forever — **век** (N)
+- forgave — **прӧститны** (V)
+- forget — **вунӧтны** (V)
+- forgive — **прӧститны** (V)
+- forgiveness — **прӧститӧм** (N)
+- forgives — **прӧститны** (V)
+- forgiving — **прӧститны** (V)
+- forgot — **вунӧтны** (V)
+- friend — **ёрт** (N)
+- friends — **ёрт** (NPL)
+- gave — **сетны** (V)
+- give — **сетны** (V)
+- given — **сетны** (V)
+- gives — **сетны** (V)
+- go — **мунны** (V)
+- god — **ен** (N)
+- goes — **мунны** (V)
+- gone — **мунны** (V)
+- good — **бур** (A)
+- grace — **милӧсьта** (N)
+- great — **ыджыт** (A)
+- grow — **быдмыны** (V)
+- guide — **нуӧтны** (V)
+- guided — **нуӧтны** (V)
+- guides — **нуӧтны** (V)
+- had — **кутны** (V)
+- hand — **ки** (N)
+- hands — **ки** (NPL)
+- has — **кутны** (V)
+- have — **кутны** (V)
+- head — **юр** (N)
+- hear — **кывны** (V)
+- heard — **кывны** (V)
+- hearer — **кывзісь** (N)
+- hears — **кывны** (V)
+- heart — **сьӧлӧм** (N)
+- hearts — **сьӧлӧм** (NPL)
+- heaven — **енӧж** (N)
+- heavens — **енӧж** (N)
+- heavy — **сьӧкыт** (A)
+- hell — **ад** (N)
+- hereafter — **мӧд олӧм** (N)
+- holy — **вежа** (A)
+- home — **горт** (N)
+- homes — **горт** (NPL)
+- horse — **вӧв** (N)
+- hour — **час** (N)
+- hours — **час** (NPL)
+- house — **горт** (N)
+- houses — **горт** (NPL)
+- human — **морт** (N)
+- humans — **морт** (NPL)
+- idol — **идол** (N)
+- idols — **идол** (NPL)
+- is — **лоны** (V)
+- jinn — **джинн** (N)
+- king — **сар** (N)
+- kings — **сар** (NPL)
+- knew — **тӧдны** (V)
+- know — **тӧдны** (V)
+- knower — **тӧдісь** (N)
+- knowing — **тӧдісь** (A)
+- known — **тӧдны** (V)
+- knows — **тӧдны** (V)
+- land — **му** (N)
+- laugh — **серавны** (V)
+- lest — **медым оз** (F)
+- let — **позьны** (V)
+- life — **олӧм** (N)
+- light — **югыт** (N)
+- listen — **кывзыны** (V)
+- listens — **кывзыны** (V)
+- little — **ичӧт** (A)
+- live — **овны** (V)
+- lived — **овны** (V)
+- lives — **овны** (V)
+- lord — **ен** (N)
+- love — **радейтны** (V)
+- loved — **радейтны** (V)
+- loves — **радейтны** (V)
+- made — **вӧчны** (V)
+- make — **вӧчны** (V)
+- makes — **вӧчны** (V)
+- man — **морт** (N)
+- mankind — **отир** (N)
+- many — **уна** (A)
+- matter — **дело** (N)
+- may — **позьны** (V)
+- means — **средство** (N)
+- meat — **яй** (N)
+- men — **морт** (NPL)
+- merciful — **милӧсьта** (A)
+- mercy — **милӧсьта** (N)
+- messenger — **ыстісь** (N)
+- messengers — **ыстісь** (NPL)
+- mighty — **вына** (A)
+- misguided — **вошны** (V)
+- moon — **тӧлісь** (N)
+- morning — **асыв** (N)
+- mosque — **мечеть** (N)
+- mother — **мам** (N)
+- mountain — **гӧра** (N)
+- mountains — **гӧра** (NPL)
+- much — **уна** (A)
+- name — **ним** (N)
+- new — **виль** (A)
+- night — **вой** (N)
+- old — **важ** (A)
+- open — **восьтыны** (V)
+- own — **ас** (A)
+- painful — **висян** (A)
+- paradise — **рай** (N)
+- path — **туй** (N)
+- people — **отир** (N)
+- person — **морт** (N)
+- power — **вын** (N)
+- pray — **кеймыны** (V)
+- prayed — **кеймыны** (V)
+- prayer — **келмӧм** (N)
+- prayers — **келмӧм** (NPL)
+- prays — **кеймыны** (V)
+- produce — **керны** (V)
+- produced — **керны** (V)
+- produces — **керны** (V)
+- promise — **кӧсйӧм** (N)
+- promised — **кӧсйысьны** (V)
+- promises — **кӧсйысьны** (V)
+- prophet — **пророк** (N)
+- prophets — **пророк** (NPL)
+- prostrate — **юрбитны** (V)
+- protector — **дорйісь** (N)
+- proud — **чебер** (A)
+- punish — **пикӧтны** (V)
+- punished — **пикӧтны** (V)
+- punishes — **пикӧтны** (V)
+- punishment — **пикӧтӧм** (N)
+- rain — **зэр** (N)
+- read — **лыддьыны** (V)
+- recite — **лыддьыны** (V)
+- recited — **лыддьыны** (V)
+- recites — **лыддьыны** (V)
+- red — **гӧрд** (A)
+- refuge — **дорйӧм** (N)
+- regarding — **йылісь** (F)
+- reject — **панӧвтсьывлыны** (V)
+- rejected — **панӧвтсьывлыны** (V)
+- rejects — **панӧвтсьывлыны** (V)
+- religion — **религия** (N)
+- remember — **касьтывны** (V)
+- remembered — **касьтывны** (V)
+- remembers — **касьтывны** (V)
+- reminder — **казьмӧтӧм** (N)
+- repent — **каитчыны** (V)
+- repented — **каитчыны** (V)
+- repents — **каитчыны** (V)
+- revelation — **восьтӧм** (N)
+- revelations — **восьтӧм** (NPL)
+- reward — **дон** (N)
+- righteous — **веськыт** (A)
+- righteousness — **веськытлун** (N)
+- river — **ю** (N)
+- rivers — **ю** (NPL)
+- sacrifice — **жертва** (N)
+- said — **шуны** (V)
+- satan — **шайтан** (N)
+- save — **мезмӧтны** (V)
+- saved — **мезмӧтны** (V)
+- saves — **мезмӧтны** (V)
+- saw — **адззыны** (V)
+- say — **шуны** (V)
+- says — **шуны** (V)
+- scripture — **гижӧт** (N)
+- sea — **саридз** (N)
+- see — **адззыны** (V)
+- seek — **корсьны** (V)
+- seeks — **корсьны** (V)
+- seen — **адззыны** (V)
+- sees — **адззыны** (V)
+- sell — **вузавны** (V)
+- send — **ыстыны** (V)
+- sends — **ыстыны** (V)
+- sent — **ыстыны** (V)
+- servant — **слуга** (N)
+- servants — **слуга** (NPL)
+- shall — **лоны** (V)
+- sheep — **баля** (N)
+- sign — **пас** (N)
+- signs — **пас** (NPL)
+- sin — **мыж** (N)
+- sinner — **мыж морт** (N)
+- sinners — **мыж морт** (NPL)
+- sins — **мыж** (NPL)
+- sky — **енӧж** (N)
+- sleep — **узьны** (V)
+- small — **ичӧт** (A)
+- snow — **лым** (N)
+- son — **пи** (N)
+- sons — **пи** (NPL)
+- soul — **лов** (N)
+- souls — **лов** (NPL)
+- spirit — **лов** (N)
+- star — **кодзув** (N)
+- stars — **кодзув** (NPL)
+- straight — **веськыт** (A)
+- such — **сэтшӧм** (A)
+- sun — **шонді** (N)
+- take — **босьтны** (V)
+- taken — **босьтны** (V)
+- takes — **босьтны** (V)
+- tell — **висьтавны** (V)
+- temple — **храм** (N)
+- therein — **сэні** (F)
+- though — **но** (F)
+- throne — **трон** (N)
+- time — **кад** (N)
+- told — **висьтавны** (V)
+- took — **босьтны** (V)
+- torment — **мучитӧм** (N)
+- town — **кар** (N)
+- tree — **пу** (N)
+- trees — **пу** (NPL)
+- true — **быль** (A)
+- truth — **быль** (N)
+- unjust — **невеськыт** (A)
+- unless — **кӧ оз** (F)
+- voice — **гӧлӧс** (N)
+- warn — **казьмӧтны** (V)
+- warned — **казьмӧтны** (V)
+- warner — **казьмӧтісь** (N)
+- warners — **казьмӧтісь** (NPL)
+- warns — **казьмӧтны** (V)
+- was — **лоны** (V)
+- water — **ва** (N)
+- way — **туй** (N)
+- ways — **туй** (NPL)
+- wealth — **озырлун** (N)
+- weep — **бӧрдны** (V)
+- went — **мунны** (V)
+- were — **лоны** (V)
+- whenever — **кӧр** (F)
+- white — **чочком** (A)
+- wife — **гӧтыр** (N)
+- will — **лоны** (V)
+- wind — **тӧв** (N)
+- wine — **вина** (N)
+- witness — **адззылісь** (N)
+- witnesses — **адззылісь** (NPL)
+- wives — **гӧтыр** (NPL)
+- woe — **шог** (N)
+- woman — **ань** (N)
+- women — **ань** (NPL)
+- word — **кыв** (N)
+- words — **кыв** (NPL)
+- world — **му** (N)
+- worlds — **му** (NPL)
+- worship — **юрбитны** (V)
+- worships — **юрбитны** (V)
+- would — **лоны** (V)
+- write — **гижны** (V)
+- wrong — **невеськыт** (A)
+- year — **во** (N)
+- years — **во** (NPL)
+
+## E. Dictionary seats matched from the koi glosses
+English — **Komi-Permyak** (category). Matched mechanically:
+Wiktionary Komi-Permyak English glosses first, then Russian
+gloss-head matching against the giella-koi dictionary XML
+(work/build_dict.py; unmatched keys at work/unmatched.json).
+- abide — **овны** (V)
+- able — **велалісь** (A)
+- about — **понда** (N)
+- accept — **лыддьыны** (V)
+- accepted — **лыддьыны** (V)
+- account — **лыддьӧм** (N)
+- accuse — **винитны** (V)
+- add — **содтывлыны** (V)
+- again — **бӧр** (N)
+- alive — **дюж** (A)
+- all — **быд** (N)
+- alms — **корӧм** (N)
+- alone — **паратӧм** (A)
+- ancient — **важ** (A)
+- angry — **дузгыльтчӧм** (A)
+- appear — **петны** (V)
+- appeared — **петны** (V)
+- appoint — **пуктыны** (V)
+- appointed — **пуктыны** (V)
+- approach — **локны** (V)
+- are — **ар** (N)
+- argue — **етшасьны** (V)
+- argued — **етшасьны** (V)
+- arm — **ки** (N)
+- arrive — **локны** (V)
+- ask — **юавны** (V)
+- asked — **юавны** (V)
+- ate — **сёйны** (V)
+- attack — **зырӧтны** (V)
+- aware — **тӧдісь** (A)
+- back — **бӧр** (N)
+- bad — **лёк** (A)
+- bear — **ош** (N)
+- beard — **тош** (N)
+- beautiful — **лӧсьыта** (A)
+- became — **петны** (V)
+- become — **петны** (V)
+- bee — **балямош** (N)
+- beg — **корны** (N)
+- began — **кутны** (V)
+- beggar — **абутӧм** (N)
+- begin — **кутны** (V)
+- beginning — **пондӧм** (N)
+- believe — **эскыны** (V)
+- believed — **эскыны** (V)
+- belly — **зоб** (N)
+- betray — **шедӧтлыны** (V)
+- big — **ыджыт** (A)
+- bird — **кай** (N)
+- birds — **кай-пӧтка** (N)
+- bitter — **курыт** (A)
+- black — **сьӧд** (A)
+- blame — **винитны** (V)
+- blind — **синтӧм** (A)
+- block — **джек** (N)
+- blood — **вир** (N)
+- blue — **лӧз** (A)
+- boat — **пыж** (N)
+- body — **вывтыр** (N)
+- bone — **коска** (N)
+- book — **небӧг** (N)
+- born — **чужны** (V)
+- bottom — **пыдӧс** (N)
+- bought — **босьтасьны** (V)
+- bowls — **доз** (N)
+- boy — **зонка** (N)
+- bread — **нянь** (N)
+- break — **жолльыны** (V)
+- breath — **лолалӧм** (N)
+- bright — **чочком** (A)
+- bring — **вайны** (V)
+- brings — **вайны** (V)
+- broke — **жолльыны** (V)
+- brother — **ичипиян** (N)
+- brought — **вайны** (V)
+- bucket — **ведра** (N)
+- build — **лэбтавны** (V)
+- built — **лэбтавны** (V)
+- burn — **бичирасьны** (V)
+- bury — **дзебны** (N)
+- buy — **босьтасьны** (V)
+- call — **корны** (V)
+- called — **корны** (V)
+- calls — **корны** (V)
+- came — **вовлывлыны** (V)
+- capable — **велалісь** (A)
+- carries — **вайны** (V)
+- carry — **нуны** (V)
+- catch — **кутавны** (V)
+- cause — **вундыштны** (V)
+- caused — **вундыштны** (V)
+- change — **вежны** (V)
+- changed — **вежны** (V)
+- charity — **корӧм** (N)
+- child — **кага** (N)
+- children — **гавед** (N)
+- choose — **бӧрйывлыны** (V)
+- chose — **бӧрйывлыны** (V)
+- chosen — **бӧрйывлыны** (V)
+- city — **кар** (N)
+- clay — **сёй** (N)
+- clean — **чочком** (A)
+- clear — **гажа** (A)
+- climb — **пырны** (V)
+- close — **куньны** (V)
+- closed — **игана** (A)
+- clothe — **кышавлыны** (V)
+- cloud — **кымӧр** (N)
+- cold — **кӧдзыт** (A)
+- color — **рӧм** (N)
+- come — **вовлывлыны** (V)
+- comes — **вовлывлыны** (V)
+- companion — **дружок** (N)
+- compel — **пикӧтчыны** (V)
+- complain — **бедуйтчыны** (V)
+- complete — **тыр** (A)
+- conceal — **дзебны** (V)
+- concealed — **дзебны** (V)
+- concerning — **понда** (N)
+- conscious — **тӧдісь** (A)
+- contain — **вердны** (V)
+- count — **лыддьыны** (V)
+- counted — **лыддьыны** (V)
+- cover — **шебравны** (N)
+- create — **керны** (V)
+- created — **керны** (V)
+- crooked — **невеськыт** (A)
+- cross — **вуджны** (V)
+- cry — **авзыны** (V)
+- curse — **ёрдчӧм** (N)
+- cut — **вундавлыны** (V)
+- dark — **пемыт** (A)
+- daughter — **ныв** (N)
+- dawn — **кыа** (N)
+- day — **лун** (N)
+- dead — **ловтӧм** (A)
+- deaf — **сьӧд** (A)
+- dear — **дона** (A)
+- death — **сурым** (N)
+- deceive — **вурны** (V)
+- deceived — **вурны** (V)
+- decrease — **чинтавлыны** (V)
+- deep — **джуджыт** (A)
+- defend — **дорйыны** (V)
+- denied — **соссьыллыны** (V)
+- deny — **соссьыллыны** (V)
+- desire — **гажалӧм** (N)
+- destroy — **жугдавны** (V)
+- destroyed — **жугдавны** (V)
+- devil — **куль** (N)
+- did — **керны** (V)
+- die — **кувны** (V)
+- died — **кувны** (V)
+- dies — **кувны** (V)
+- difficult — **лёк** (A)
+- disbelieve — **ентӧмавны** (V)
+- dispute — **етшасьны** (V)
+- distant — **ылын** (A)
+- divide — **торйӧтлывлыны** (V)
+- divorce — **гагсявны** (V)
+- do — **керны** (V)
+- does — **керны** (V)
+- dog — **пон** (N)
+- done — **керны** (V)
+- door — **ӧдзӧс** (N)
+- dowry — **козин** (N)
+- drank — **юны** (V)
+- dream — **он** (N)
+- drink — **юан** (N)
+- drinks — **юны** (V)
+- drown — **вӧйлыны** (V)
+- drowned — **вӧйлыны** (V)
+- dry — **кос** (A)
+- dust — **бус** (N)
+- dwell — **овны** (V)
+- each — **быд** (N)
+- ear — **пель** (N)
+- earn — **перйыны** (V)
+- earth — **му** (N)
+- earthworm — **нидзыв** (N)
+- east — **асыв** (N)
+- easy — **кокнит** (A)
+- eat — **сёйны** (V)
+- eaten — **сёйны** (V)
+- eats — **сёйны** (V)
+- eight — **кыкьямыс** (N)
+- empty — **куштыны** (V)
+- enable — **сетны** (V)
+- end — **пом** (V)
+- enter — **пырны** (V)
+- entered — **пырны** (V)
+- error — **сорасьӧм** (N)
+- establish — **лӧсьӧтлыны** (V)
+- established — **лӧсьӧтлыны** (V)
+- eternal — **векся** (A)
+- evening — **рыт** (N)
+- every — **быд** (N)
+- evil — **лёк** (A)
+- ewe — **ыж** (N)
+- exit — **петны** (V)
+- eye — **син** (N)
+- face — **бан** (N)
+- fair — **руд** (N)
+- faith — **веритӧм** (N)
+- fall — **мунны** (V)
+- fallen — **мунны** (V)
+- false — **бӧбӧтчана** (A)
+- falsehood — **бӧбӧтчӧм** (N)
+- far — **ылын** (A)
+- fast — **видзавны** (V)
+- fasting — **видз** (N)
+- fat — **сыв** (N)
+- father — **ай-мам** (N)
+- fear — **повны** (V)
+- fears — **повны** (V)
+- fed — **вердны** (V)
+- feed — **вердны** (V)
+- feel — **кывны** (V)
+- feet — **кок** (N)
+- fell — **мунны** (V)
+- female — **валюшка** (N)
+- field — **му** (N)
+- fill — **тырсьӧтлывлыны** (V)
+- find — **адззыны** (V)
+- finish — **ештӧтны** (V)
+- fire — **би** (N)
+- fish — **чери** (N)
+- five — **вит** (N)
+- flee — **больӧтны-котӧртны** (V)
+- flesh — **яй** (N)
+- flow — **петны** (V)
+- fly — **гут** (N)
+- food — **панясян** (N)
+- foot — **кок** (N)
+- for — **понда** (N)
+- forbid — **уснитлывлыны** (V)
+- forbidden — **уснитлывлыны** (V)
+- force — **пикӧтчыны** (V)
+- forget — **вунӧтны** (V)
+- forgot — **вунӧтны** (V)
+- forgotten — **вунӧтны** (V)
+- former — **важ** (A)
+- found — **адззыны** (V)
+- four — **нёль** (N)
+- free — **личыт** (A)
+- fresh — **ыркыт** (A)
+- friend — **друг** (N)
+- front — **одз** (N)
+- frosty — **кӧдзыт** (N)
+- full — **тыр** (A)
+- garden — **сад** (N)
+- gate — **ворота** (N)
+- gather — **босьтавлыны** (V)
+- gathered — **босьтавлыны** (V)
+- gave — **сетны** (V)
+- gentle — **рам** (A)
+- gift — **козин** (N)
+- girl — **ныв** (N)
+- give — **сетны** (V)
+- given — **сетны** (V)
+- gives — **сетны** (V)
+- go — **мунны** (V)
+- god — **ен** (N)
+- goes — **мунны** (V)
+- gold — **зарни** (N)
+- gone — **мунны** (V)
+- good — **бур** (A)
+- grave — **гу** (N)
+- great — **ыджыт** (A)
+- green — **веж** (A)
+- grew — **петны** (V)
+- grieve — **шогсьывлыны** (V)
+- ground — **му** (N)
+- grow — **петны** (V)
+- grown — **петны** (V)
+- guard — **смекайтлыны** (V)
+- guidance — **юралӧм** (N)
+- guide — **овны** (V)
+- guilt — **вина** (N)
+- hair — **си** (N)
+- half — **пӧв** (N)
+- hand — **ки** (N)
+- handle — **вуг** (N)
+- happen — **вӧвлывлыны** (V)
+- happiness — **лунку** (N)
+- happy — **шондіа** (A)
+- hard — **чӧрыт** (A)
+- harm — **покаститлыны** (V)
+- hatred — **лӧгалӧм** (N)
+- hay — **турун** (N)
+- he — **сія** (N)
+- head — **юр** (N)
+- headache — **юрвисянісь** (N)
+- hear — **кывны** (V)
+- heard — **кывны** (V)
+- hears — **кывны** (V)
+- heart — **сьӧлӧм** (N)
+- heaven — **енвевт** (N)
+- heavy — **курыт** (A)
+- hell — **вакрамеш** (N)
+- help — **отсавлыны** (V)
+- helped — **отсавлыны** (V)
+- hid — **дзебны** (V)
+- hidden — **дзебны** (V)
+- hide — **дзебны** (V)
+- high — **джуджыд** (A)
+- hold — **видзлывлыны** (V)
+- holy — **вежа** (A)
+- home — **горт** (N)
+- honey — **ма** (N)
+- hope — **надейтчӧм** (N)
+- horn — **сюр** (N)
+- house — **керку** (N)
+- human — **морт** (N)
+- hundred — **сё** (N)
+- hurt — **покаститлыны** (V)
+- husband — **айка** (N)
+- i — **ме** (N)
+- increase — **содтывлыны** (V)
+- increased — **содтывлыны** (V)
+- infant — **кага** (N)
+- inform — **висьтавны** (V)
+- informed — **висьтавны** (V)
+- insignificant — **абутӧм** (N)
+- invite — **корны** (V)
+- invited — **корны** (V)
+- iron — **кӧрт** (N)
+- it — **сія** (N)
+- joy — **гаж** (N)
+- judge — **винитны** (V)
+- judged — **винитны** (V)
+- just — **веськыт** (A)
+- keep — **видзлывлыны** (V)
+- kept — **видзлывлыны** (V)
+- kill — **вийлыны** (V)
+- killed — **вийлыны** (V)
+- kind — **лӧп** (N)
+- kinds — **вайӧм** (N)
+- king — **кан** (N)
+- knew — **тӧдны** (V)
+- knife — **пурт** (N)
+- know — **тӧдны** (V)
+- knowledge — **знаннё** (N)
+- known — **тӧдны** (V)
+- knows — **тӧдны** (V)
+- lame — **коктӧм** (A)
+- land — **му** (N)
+- language — **кыв** (N)
+- last — **бӧрья** (A)
+- laugh — **гильзьыны-серавны** (V)
+- laughed — **гильзьыны-серавны** (V)
+- lead — **овны** (V)
+- leader — **нуӧтісь** (N)
+- leaf — **кор** (N)
+- learn — **велавны** (V)
+- leave — **кольны** (V)
+- leaves — **кор** (N)
+- led — **овны** (V)
+- left — **кольны** (V)
+- leg — **викляч** (N)
+- lend — **сетны** (V)
+- letter — **гижӧт** (N)
+- lie — **бӧбӧтчӧм** (N)
+- lies — **бӧбӧтчӧм** (N)
+- life — **олан** (N)
+- lift — **лэбтавлыны** (V)
+- light — **би** (N)
+- lightning — **вирд** (N)
+- like — **гленитчыны** (V)
+- listen — **кывзыны** (V)
+- listens — **кывзыны** (V)
+- live — **овны** (V)
+- lived — **овны** (V)
+- lives — **овны** (V)
+- living — **дюж** (A)
+- long — **кузь** (A)
+- look — **видзӧтны** (V)
+- looked — **видзӧтны** (V)
+- lose — **ӧштавны** (V)
+- lost — **ӧштавны** (V)
+- loud — **ыджыт** (A)
+- love — **любитӧм** (N)
+- loves — **милуйтны** (V)
+- low — **кыз** (A)
+- made — **керны** (V)
+- make — **керны** (V)
+- makes — **керны** (V)
+- male — **кыр** (N)
+- man — **морт** (N)
+- many — **уна** (N)
+- married — **бордасьны** (V)
+- marry — **бордасьны** (V)
+- master — **кӧзяин** (N)
+- measure — **муртавны** (V)
+- meat — **яй** (N)
+- meet — **адззывлыны** (V)
+- message — **юӧр** (N)
+- met — **адззывлыны** (V)
+- middle — **шӧр** (N)
+- milk — **йӧв** (N)
+- mind — **вежӧр** (N)
+- miracle — **адззывтӧмтор** (N)
+- money — **сьӧм** (N)
+- month — **тӧлісь** (N)
+- moon — **тӧлісь** (N)
+- morning — **асыв** (N)
+- mother — **мам** (N)
+- mountain — **гӧра** (N)
+- mouth — **ӧм** (N)
+- move — **мунны** (V)
+- mud — **грезь** (N)
+- name — **ним** (N)
+- narrow — **векнит** (A)
+- near — **матісь** (A)
+- neck — **голя** (N)
+- needle — **ем** (N)
+- new — **виль** (A)
+- news — **юӧр** (N)
+- night — **ой** (N)
+- nine — **ӧкмыс** (N)
+- nose — **ныр** (N)
+- nothing — **абутӧм** (N)
+- obey — **кывзыны** (V)
+- obeyed — **кывзыны** (V)
+- old — **важ** (A)
+- one — **ӧтік** (N)
+- only — **ӧтка** (A)
+- open — **осьтавны** (V)
+- opened — **осьтавны** (V)
+- order — **арт** (N)
+- orphan — **ай-мамтӧм** (N)
+- other — **мукӧд** (N)
+- paid — **вештыны** (V)
+- pain — **висьӧм** (N)
+- pair — **гоз** (N)
+- parents — **ай-мам** (N)
+- part — **вонясян** (N)
+- partner — **дружок** (N)
+- pass — **мунны** (V)
+- passed — **мунны** (V)
+- pay — **мед** (V)
+- peace — **му** (N)
+- period — **кад** (N)
+- perish — **розоритчывлыны** (V)
+- perished — **розоритчывлыны** (V)
+- permit — **тшӧктыны** (V)
+- permitted — **тшӧктыны** (V)
+- person — **морт** (N)
+- place — **берд** (N)
+- placed — **вӧтявны** (V)
+- plant — **пуктыны** (V)
+- please — **гажӧтны** (V)
+- poor — **коньӧр** (N)
+- pour — **мунны** (V)
+- power — **вын** (N)
+- praise — **ошкӧм** (N)
+- pray — **кеймыны** (V)
+- prayed — **кеймыны** (V)
+- prayer — **келмӧм** (N)
+- prepare — **лӧсьӧтны** (V)
+- prepared — **лӧсьӧтны** (V)
+- price — **дон** (N)
+- pride — **чатрасьӧм** (N)
+- promise — **кӧсйисьӧм** (N)
+- promised — **кӧсйисьлыны** (V)
+- protect — **дорйыны** (V)
+- protected — **дорйыны** (V)
+- proud — **чебер** (A)
+- provide — **сетны** (V)
+- provided — **сетны** (V)
+- punish — **павкӧтлыны** (V)
+- punished — **павкӧтлыны** (V)
+- punishment — **пыркӧтӧм** (N)
+- pure — **чочком** (A)
+- put — **пуктыны** (V)
+- rain — **зэр** (N)
+- raise — **лэбтавлыны** (V)
+- raised — **лэбтавлыны** (V)
+- read — **лыддьыны** (V)
+- ready — **лӧсьӧтны** (V)
+- reap — **вундыны** (V)
+- receive — **босьтавлыны** (V)
+- received — **босьтавлыны** (V)
+- recite — **лыддьыны** (V)
+- red — **гӧрд** (A)
+- refuse — **панӧвтсьывлыны** (V)
+- region — **му** (N)
+- rejoice — **гажӧтчӧв-керны** (V)
+- remain — **кольны** (V)
+- remained — **кольны** (V)
+- remember — **забедуйтчыны** (V)
+- remembered — **забедуйтчыны** (V)
+- resurrection — **ловзьӧм** (N)
+- return — **бергӧтчыны** (V)
+- returned — **бергӧтчыны** (V)
+- reveal — **осьтавны** (V)
+- revealed — **осьтавны** (V)
+- rich — **ма** (N)
+- ridicule — **рызъявлыны** (V)
+- right — **веськыт** (A)
+- rise — **сувтлывлыны** (V)
+- river — **ю** (N)
+- road — **туй** (N)
+- roof — **юр** (N)
+- room — **жыр** (N)
+- rose — **сувтлывлыны** (V)
+- round — **викляч** (N)
+- ruin — **вӧтьны** (V)
+- run — **больӧтны-котӧртны** (V)
+- sacred — **вежа** (A)
+- said — **шуны** (V)
+- salty — **сола** (A)
+- same — **ӧткодь** (A)
+- sand — **лыа** (N)
+- sat — **пукавны** (V)
+- satan — **куль** (N)
+- saw — **адззыны** (V)
+- say — **шуны** (V)
+- says — **шуны** (V)
+- season — **кад** (N)
+- secret — **гусь** (N)
+- see — **адззыны** (V)
+- seek — **кошшыны** (V)
+- seeks — **кошшыны** (V)
+- seem — **декуйтчыны** (V)
+- seen — **адззыны** (V)
+- sees — **адззыны** (V)
+- seize — **ашнӧявны** (V)
+- seized — **ашнӧявны** (V)
+- sell — **вузавны** (V)
+- send — **иньдавны** (V)
+- sends — **иньдавны** (V)
+- sent — **иньдавны** (V)
+- separate — **торйӧтлывлыны** (V)
+- serve — **видзны** (V)
+- served — **видзны** (V)
+- set — **вӧтявны** (V)
+- seven — **сизим** (N)
+- severe — **крут** (A)
+- shade — **рӧм** (N)
+- shadow — **вуджӧр** (N)
+- shake — **бусйыны** (V)
+- shame — **яндзим** (N)
+- share — **торйӧтлывлыны** (V)
+- sharp — **лэчыт** (A)
+- she — **сія** (N)
+- sheep — **баля** (N)
+- shine — **волявны** (V)
+- ship — **судно** (N)
+- shirt — **дӧрӧм** (N)
+- short — **дженыт** (A)
+- shout — **авзыны** (V)
+- show — **зульӧтны** (V)
+- showed — **зульӧтны** (V)
+- shown — **зульӧтны** (V)
+- shut — **куньны** (V)
+- sick — **висян** (A)
+- sickness — **боль** (N)
+- silent — **небаитісь** (A)
+- silver — **эзысь** (N)
+- sing — **горавлыны** (V)
+- single — **куш** (A)
+- sit — **пукавны** (V)
+- six — **квать** (N)
+- sky — **енвевт** (N)
+- slave — **раб** (N)
+- sleep — **он** (V)
+- slept — **коркйыны-узьны** (V)
+- smooth — **гулыт** (A)
+- sold — **вузавны** (V)
+- son — **зон** (N)
+- sort — **лӧп** (N)
+- sought — **кошшыны** (V)
+- soul — **лов** (N)
+- sound — **тонгӧм** (N)
+- sow — **кӧдзлыны** (V)
+- speak — **шуны** (V)
+- speech — **кыв** (N)
+- spend — **видзлывлыны** (V)
+- spent — **видзлывлыны** (V)
+- spirit — **лов** (N)
+- spoke — **ем** (V)
+- spring — **тулыс** (N)
+- stand — **сулавны** (V)
+- star — **кӧдзыв** (N)
+- statement — **кыв** (N)
+- stay — **кольны** (V)
+- stayed — **кольны** (V)
+- steal — **гусявны** (V)
+- step — **оськӧв** (N)
+- stone — **из** (N)
+- stood — **пукавны** (V)
+- stop — **виньдавны** (V)
+- story — **висьталӧм** (N)
+- straight — **веськыт** (A)
+- stream — **шор** (N)
+- strength — **вын** (N)
+- strike — **вурны** (V)
+- strong — **вына** (A)
+- succeed — **аркмыны** (V)
+- suffer — **шогӧтны** (V)
+- suffered — **шогӧтны** (V)
+- summer — **гожум** (N)
+- sun — **шонді** (N)
+- support — **видзлывлыны** (V)
+- supported — **видзлывлыны** (V)
+- swear — **кленитчыны** (V)
+- sweet — **чӧскыт** (A)
+- swift — **чож** (A)
+- swore — **кленитчыны** (V)
+- table — **пызан** (N)
+- take — **петны** (V)
+- taken — **петны** (V)
+- takes — **петны** (V)
+- talk — **басни** (V)
+- taste — **пешлыны** (V)
+- taught — **велӧтны** (V)
+- teach — **велӧтны** (V)
+- tell — **висьтавны** (V)
+- ten — **дас** (N)
+- term — **кад** (N)
+- these — **нія** (N)
+- they — **нія** (N)
+- thick — **сука** (A)
+- thief — **гусь** (N)
+- think — **чайтны** (V)
+- those — **нія** (N)
+- thought — **чайтны** (V)
+- thousand — **сюрс** (N)
+- three — **куим** (N)
+- threw — **пачкывлыны** (V)
+- throw — **пачкывлыны** (V)
+- thrown — **пачкывлыны** (V)
+- thunder — **гым** (N)
+- time — **кад** (N)
+- tired — **атшалӧм** (A)
+- today — **талун** (N)
+- told — **висьтавны** (V)
+- tongue — **кыв** (N)
+- took — **петны** (V)
+- tooth — **пинь** (N)
+- touch — **вӧрзьӧтлыны** (V)
+- town — **кар** (N)
+- trade — **вузасьӧм** (N)
+- tree — **пу** (N)
+- trifle — **абутӧм** (N)
+- trivial — **абутӧм** (N)
+- true — **веськыт** (A)
+- trust — **эскыны** (V)
+- trusted — **эскыны** (V)
+- truth — **быль** (N)
+- truthful — **веськыт** (A)
+- try — **пондывлыны** (V)
+- turn — **бергӧтны** (V)
+- turned — **бергӧтны** (V)
+- twenty — **кызь** (N)
+- twig — **шать** (N)
+- two — **кык** (N)
+- uncle — **чож** (N)
+- understand — **артавны** (V)
+- understood — **артавны** (V)
+- urge — **тойлавны** (V)
+- valley — **кӧтас** (N)
+- valuable — **дона** (A)
+- vein — **сӧн** (N)
+- vessel — **судно** (N)
+- victory — **вермӧм** (N)
+- voice — **шы** (N)
+- wait — **видзчисьны** (V)
+- waited — **видзчисьны** (V)
+- wake — **киссьыны** (V)
+- walk — **мунны** (V)
+- wall — **берд** (N)
+- want — **гажавны** (V)
+- wants — **гажавны** (V)
+- war — **война** (N)
+- wash — **миссьӧтны** (V)
+- watch — **видзӧтны** (V)
+- water — **ва** (V)
+- way — **туй** (N)
+- we — **ми** (N)
+- weak — **вынтӧм** (A)
+- wear — **ваявлыны** (V)
+- weep — **буавны** (V)
+- well — **колодец** (N)
+- went — **мунны** (V)
+- wept — **буавны** (V)
+- west — **рытвыв** (N)
+- wet — **уль** (A)
+- white — **чочком** (A)
+- whole — **тыр** (A)
+- wicked — **лёк** (A)
+- wide — **межатӧм** (A)
+- wife — **кенак** (N)
+- wind — **тӧв** (N)
+- wine — **вина** (N)
+- wing — **борд** (N)
+- winter — **тӧв** (N)
+- wise — **мудер** (A)
+- wish — **вӧрдны** (V)
+- wishes — **вӧрдны** (V)
+- wolf — **кӧин** (N)
+- woman — **валюшка** (N)
+- word — **кыв** (N)
+- work — **удж** (V)
+- worked — **керны** (V)
+- world — **му** (N)
+- write — **гижны** (V)
+- written — **гижны** (V)
+- year — **во** (N)
+- yellow — **виж** (A)
+- youth — **ныв-зон** (N)
