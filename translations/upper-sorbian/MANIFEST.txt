@@ -1,0 +1,62 @@
+MANIFEST — Ayah Companion Upper Sorbian
+
+Shelved 2026-11-27 under the Pipeline Landing Authorization, on
+Robert Tilford's ruling of 2026-11-27 (21:16 CST) adopting the
+desk recommendations in the lane's candidate brief wholesale,
+under the brief's conditions. Built from the Locked English
+Master (the corrected manuscript) only.
+
+Status: a rendering of the Quran in Upper Sorbian
+(hornjoserbšćina) — 6,236 of 6,236 seats addressed, 6,137 verses
+fully rendered, 99 seats carrying 117 plainly marked ⟦GAP: …⟧
+markers in the text where no attested Upper Sorbian word was
+found in any source consulted. Every seating, construction,
+descriptive device, and open gap is named in
+FLAGS-AND-GAPS-DISCLOSURE-2026-11-27.md. This text was
+machine-assisted by non-speakers of Upper Sorbian under Robert
+Tilford's direction and is labelled as such. It is not
+speaker-reviewed. The base is named honestly in the book's front
+matter: the modern literary standard (orthography of 1948,
+Bautzen-based norm), on the attested lexical base recorded in
+the glossary. The Bible control was the public-domain complete
+Bibles (1728–1905), fact and citation only; the modern Catholic
+Bible (2006) is in copyright, was not consulted as a base, and
+no approach was made to its publisher. No first-translation
+claim is made.
+Translated by Robert Tilford. © 2026 Robert Tilford.
+Verse-marker re-count at shelving (landing run, 2026-11-27):
+6,236 of 6,236 markers, first 1:1, last 114:6.
+Lane verification of record: independent checker FAIL at pass 1
+(token adjudication) and pass 2 (token adjudication, second
+residue), each remediated on the checker's own prescriptions
+(268 + 80 seats, every repair re-read against the Master);
+independent checker PASS on all 7 checks at pass 3
+(CHECKER-REPORT-3.md in the lane folder): canonical clean,
+fidelity 0 losses in 140 verses, full codepoint census clean
+but for Q/V in carried names, GAP census reconciled at 117
+markers in 99 seats.
+Manuscript MD5 3cfca93bcf7b36358a000b66da6f87a4, byte-identical
+to the lane's governing built text.
+The full landing account stands in LANDING-REPORT-2026-11-27.md
+in this folder. No PDF stands in this folder (no PDF toolchain
+was present at landing; the debt is named in the landing
+report). No Drive copy was made (Drive stacking stands stopped
+under Robert's ruling).
+
+History: the lane was scouted and briefed as a PASS-CANDIDATE
+(licence verifications and the modern-Bible boundary as its
+conditions), opened by Robert's 2026-11-27 ruling, built the
+same night under the brief's conditions and the house fidelity
+protocol written against the Veps lane's checker failure, and
+landed only after the third independent checker pass returned
+a full pass.
+
+Gift terms, as every folder on this shelf: free to read and free
+to download, never sold; attribution requested.
+
+Files:
+  887132  b335c9af0abab6e2681851df390b482dd549a040a2eaaf68a02f34bc334d4014  ayah-companion-manuscript-HSB.md
+  10992  55224421dec92ccf1a665f050dcf5df07992fc2f60bb7ab18f82f96cccefc5c8  GLOSSARY-HSB.md
+  7055  22dad10536dfc85f8eb0f006e864c1a8fda3ffa26ac61be2db814b22a7003f07  FLAGS-AND-GAPS-DISCLOSURE-2026-11-27.md
+  4147  0a59bcb6a7b35d1f66a2436a2be4279fa01033241eed8fdf4a5917731c631a17  LANDING-REPORT-2026-11-27.md
+  1925  77d57997f83767072396a9269ae412700766463c07a57135b4c103383b7fa332  CAPTION-UPPER-SORBIAN-2026-11-27.md
