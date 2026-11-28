@@ -1,0 +1,367 @@
+MANIFEST — Ayah Companion Friulian
+
+Built 2026-11-27 on Robert Tilford's ruling (main chat, 2026-11-27
+21:16 CST), which adopted the desk recommendations in the lane's
+candidate brief (CANDIDATE-BRIEF-FRIULIAN.md) wholesale and opened
+the lane. Prepared for landing under the Pipeline Landing
+Authorization (2026-11-14). LANDING STATUS: the pack is built and
+staged in this folder. The desk checker pass (with its independence
+caveat) was superseded as the deciding record by a fresh-agent
+independent checker pass, which FAILED Gate 3; the remediation of
+its four verified findings has been applied and canonically
+re-verified (see the gates section below and CORRECTIONS-FUR-
+2026-11-27.md), and the commit/push step is held for the fresh
+targeted Gate 3 re-check of the remediated seats.
+
+Status: a complete rendering of the Quran in Friulian — all 6,236
+verses, the whole book, nothing left out. DRAFT — NOT PUBLISHED.
+No first-translation claim is made: no Friulian Qur'an was found in
+the catalogues searched (tier NOT FOUND, not proven non-existent).
+Translated by Robert Tilford. © 2026 Robert Tilford.
+
+The language base, stated plainly: the official Friulian coinè —
+the single official orthography (La grafie uficiâl, Decree 392 of
+25 October 1996), standard based mainly on Central Friulian. Dialect
+forms are held out. The base is named on the book's face in its
+front matter.
+
+Sources (full record in SOURCES-NOTE-FUR-2026-11-27.md):
+- Pirona, Vocabolario friulano (1871) — public domain; attestation.
+- English Wiktionary Friulian lexicon + Friulian Wikipedia corpus
+  (CC BY-SA) — attestation and frequency evidence.
+- Giacomino Culòs, Il Vanzeli di Mateo (Project Gutenberg #27460,
+  © 2007 the translator; Western Friulian) — fact/citation control
+  only; wording never reproduced beyond short cited phrases.
+- La Bibie (2nd ed. 1999, Istitût Pio Paschini, in copyright) —
+  fact/citation control only; wording never reproduced.
+- GDBTF (ARLeF) — in copyright, no open licence; fair-use
+  fact/citation only, never copied.
+
+Gates, all run 2026-11-27 (records in this folder):
+- Canonical verify against the Locked English Master (manuscript
+  MD5 ecc5b8e2848e5044186b7ad82bed9f4e): 6,236 of 6,236 verses,
+  per-surah grid clean at all 114, Basmalah 1:1 exact, no
+  "redacted" string anywhere. The Master itself carries six literal
+  <redacted> placeholders and three truncated verse-ends; they are
+  rendered for their surrounding sense and disclosed in the front
+  matter lineage.
+- Checker pass (CHECKER-REPORT-FUR-2026-11-27.md): PASS WITH
+  CORRECTIONS — canonical PASS; fidelity spot-check PASS (28 seats
+  read clause by clause, weighted to long verses and to batch I;
+  mechanical length screen over 3,835 long verses, median ratio
+  1.158, lowest 0.73 — no collapsed verse); token adjudication PASS
+  with four corrections; GAP census PASS; fences PASS. All four
+  corrections applied and re-verified (CORRECTIONS-FUR-2026-11-27.md).
+  The report carries an independence caveat at its head: the pass
+  was executed by the lane coordinator after subagent spawning
+  closed mid-task; the parent desk decides whether a fresh-agent
+  pass is re-run before the landing commit.
+- Independent checker pass (CHECKER-REPORT-INDEPENDENT-FUR-
+  2026-11-27.md), the deciding record: Gates 1, 2, 4, 5 PASS;
+  Gate 3 (token adjudication) FAIL on four unattested, undisclosed
+  families at 45 seats — avertadôr ×3, the resussit- family ×21
+  tokens at 20 seats, epure ×12, the deneg- family ×10. The pack
+  was NOT landed on that verdict.
+- Remediation (2026-11-27, under the audit-application standard):
+  all four findings desk-verified and applied, plus five sibling
+  tokens found by a sweep of the same patterns (averidôr ×2;
+  risussit- ×3) — 51 tokens at 50 seats, diff-confirmed against
+  the pre-remediation store. The resurrection verb was re-seated
+  on the Pirona resuscit- stem in coinè spelling as a disclosed
+  flagged construction (attestation audit, glossary §H, FLAGS).
+  Canonical re-verify after remediation: 6,236 = 6,236, grid
+  clean, GAP seats 58 / markers 66, Basmalah 1:1 exact, condemned
+  forms all at zero. Landing held for a fresh targeted Gate 3
+  re-check of every remediated seat plus a new adjudication band.
+- Fresh re-check (CHECKER-REPORT-RECHECK-2026-11-27.md): the
+  remediation verified in full (Checks 1, 2, 3, 5 PASS; the diff
+  confirmed at exactly the 50 seats), but Check 4 (a new
+  adjudication band) FAILED — the same unattested, undisclosed
+  class at 15 further seats (beatitudin ×5, blasfemie ×4,
+  segnôr ×4, avuartin ×2) plus the referred doublet puessedidôr
+  ×2 condemned (possedidôr and the aministradôr/amministradôr
+  doublet ruled MAY STAND). Second remediation applied the same
+  day under the audit-application standard: 18 tokens at 18
+  seats (felicitât road for beatitudin; a disclosed descriptive
+  device for blasphemy, including its agent sibling blasfemadôr
+  at 76:24; Signôr; inacuarzin; Possedidôr) — 68 seats changed
+  across both rounds, diff-confirmed. Canonical re-verify after
+  round 2: 6,236 = 6,236, grid clean, GAP 58 / 66, Basmalah
+  exact, all condemned forms at zero. LANDING STILL HELD: the
+  recheck warns that the unread remainder of the candidate band
+  cannot be treated as clean; the pack awaits a further fresh
+  re-check with a widened adjudication band, at the parent
+  desk's direction.
+- 58 GAP seats stand open in the text (66 markers): pilgrimage 15,
+  jinn 34, Sabbath 7, camel 8, musk 1, cushions 1 — each verified
+  unattested in every harvested source; no word invented.
+  Disclosed devices and standing flags: FLAGS-FUR.md.
+
+- Full band adjudication (round 3, 2026-11-27, parent-desk
+  direction): every remaining untraced candidate in the
+  recheck's frequency 2–5 band adjudicated against all harvested
+  sources — 533 tokens (459 ATTESTED-REGULAR, 73 CONDEMNED,
+  1 FLAGGED CONSTRUCTION: Dutpotent, disclosed in the
+  attestation audit, glossary §H, and FLAGS). All 73 condemned
+  tokens re-seated seat by seat against the Master (199 verses
+  changed, 247 token substitutions, diff-confirmed); a final
+  sweep confirms every condemned form at zero. Canonical
+  re-verify after round 3: 6,236 = 6,236, grid clean, GAP
+  58 / 66, Basmalah exact, "redacted" NONE. Residue outside the
+  band is flagged by name in FLAGS for a future pass. The
+  landing now waits only on a fresh deciding checker pass by
+  an agent that did none of this work.
+- Deciding checker pass (CHECKER-REPORT-DECIDING-2026-11-27.md,
+  fresh agent): FAIL — DO NOT LAND. Gates 1 (canonical),
+  3 (fidelity fresh sample) and 5 (fences) PASS. Gate 2 FAIL:
+  apresiatîfs (6:53, 7:17) and sgarpade (12:26–28) — ruled
+  CONDEMNED in round 3 — were omitted from the round-3
+  application tables and never re-seated, so the round-3
+  zero-sweep claim does not hold (71 of 73 condemned tokens
+  stand at zero); rivelaments (3:98) also still stands.
+  Gate 4 FAIL: a fresh band above the adjudicated frequency
+  range condemned capâç (7 seats), retaliazion (7 seats) and
+  consapevui (7 seats), all zero-attested and undisclosed.
+  LANDING STATUS: NOT LANDED. The pack stands staged and
+  uncommitted; remediation of the checker's findings and a
+  further fresh deciding re-check await the parent desk's
+  direction.
+
+- Round 4 (2026-11-27, later the same night, parent-desk
+  direction): the deciding checker's map applied in full
+  (apresiatîfs, sgarpade, Rivelaments, pintîs ruled and
+  re-seated; capâç on capaci; retaliazion on talion;
+  consapevui on the savê family, seat by seat), and the
+  ENTIRE remaining untraced candidate pool adjudicated in
+  one pass — 2,193 candidates against the post-round-3
+  text, 610 ruled in prior passes, 1,583 ruled in round 4
+  (1,444 ATTESTED-REGULAR, 3 FLAGGED CONSTRUCTIONS, 136
+  CONDEMNED), unadjudicated remainder ZERO. Every
+  condemnation applied: the application set was built
+  mechanically from the adjudication record (162 condemned
+  forms standing; spec coverage asserted before any swap),
+  190 verses changed, one new GAP (mustard, 31:16; census
+  now 59 seats / 67 markers: jinn 34, pilgrimage 15, camel
+  8, Sabbath 7, musk 1, cushions 1, mustard 1). Zero-check
+  over the record's full condemned set (251 tokens, all
+  passes), case-insensitive: NONE left over (quoted in the
+  attestation audit's round-4 section). Fifteen bulk-tier
+  passes on false-friend evidence were caught by the lane's
+  suspect scan and overridden to CONDEMNED in the record
+  with grounds stated. Canonical re-verify after round 4:
+  6,236 = 6,236, grid clean, GAP 59 / 67, Basmalah exact,
+  "redacted" NONE. LANDING STATUS: the pack is re-staged;
+  the landing waits on a fresh deciding checker pass by an
+  agent that did none of this work.
+
+- Deciding checker pass 2 (CHECKER-REPORT-DECIDING2-2026-11-27.md,
+  fresh agent): Gates 1 (canonical), 2 (condemned sweep), 3
+  (fidelity), 5 (fences) and the GAP census PASS; Gate 4 FAIL —
+  four ATTESTED-REGULAR rulings resting on evidence that is not
+  Friulian attestation (persistês, the involuç family,
+  strangoladis, cambarìn), three further grounds named thin.
+  LANDING STATUS: NOT LANDED on that verdict.
+- Round 5 (2026-11-27, the deciding checker's prescription):
+  an exhaustive ground-shape sweep of all 2,073 ATTESTED-REGULAR
+  rulings in the adjudication record — every cited ground tested
+  against the harvested sources, the 466 dossiers in the doubtful
+  classes ruled firsthand. Outcomes: 1,642 grounds verified as
+  cited; 322 grounds corrected with the ruling standing; 109
+  rulings overturned (106 CONDEMNED, 3 FLAGGED CONSTRUCTION);
+  73 new record entries (replacements and forms that had carried
+  none). The four Gate 4 families: persist- CONDEMNED, re-seated
+  on continuâ; involuç STANDS on three quoted Friulian corpus
+  contexts (the checker's claim not sustained firsthand), thin
+  attestation disclosed; strangoladis CONDEMNED, re-seated
+  schafojadis as a disclosed FLAGGED CONSTRUCTION on Pirona's
+  attested schafojâ; cambarìn CONDEMNED, re-seated cambiarìn.
+  The desk's own further finding: the tort family rested on
+  Pirona's tower word — tort (×114), torts (×4), tortôrs and
+  torteadôrs (16 agent seats) all CONDEMNED and re-seated on
+  the attested tuart ("fatôrs di tuart"). Application built
+  mechanically from the record (110 condemned tokens with
+  seats, spec coverage asserted before any swap); 246 verses
+  changed. Zero-check over the full updated condemned set
+  (362 tokens), case-insensitive: NONE left over. Canonical
+  re-verify after round 5: 6,236 = 6,236, grid clean, GAP
+  59 / 67 (unchanged), Basmalah exact, "redacted" NONE.
+  LANDING STATUS: the pack is re-staged; the landing waits on
+  a fresh deciding checker pass by an agent that did none of
+  this work, drawing a new adjudication spot-band weighted to
+  round-4 and round-5 rulings.
+
+- Deciding checker pass 3 (CHECKER-REPORT-DECIDING3-2026-11-27.md,
+  fresh agent): Gates 1 (canonical), 2 (condemned sweep), 3
+  (fidelity fresh sample) and 5 (fences) PASS; Gate 4 FAIL on
+  three seated ATTESTED-REGULAR rulings whose grounds rest on
+  prefix/stem-string traces that are not Friulian attestation —
+  luserès (24:35; Pirona place and plant names), ruzave (69:6;
+  a surname and a noun), rump (2:80, 2:256; the English proper
+  name in "il Rump Parliament") — with the desk's admission
+  that rumparà (3:9) cited the same false trace, and the
+  phantom entry ingenoiin (0 seats) named for striking.
+  LANDING STATUS: NOT LANDED on that verdict.
+- Round 6 (2026-11-28, the third deciding checker's
+  prescription): the named seats re-seated (lusarès on lusî;
+  bruntulave/bruntulâ, Pirona "Brontolare — Bruntulà"; romp,
+  rompin, rompis, romparà on Pirona's Rompi); ingenoiin
+  CONDEMNED as a phantom; an exhaustive targeted ground sweep
+  over the suspect class (1,621 of 2,029 ATTESTED-REGULAR
+  rulings on family/prefix cites or exact-attestation claims:
+  1,403 verified as cited under a strict verifier, 145 grounds
+  corrected with rulings standing, 73 dossiers ruled firsthand
+  — 36 stand, 37 condemned and re-seated); trace-sharing
+  propagation condemned the giud- family whole (re-seated in
+  the corpus-attested jud- spelling, ~75 seats) and, through
+  a family screen over unrecorded tokens, the litig- family
+  (20 seats, re-seated on disputâ). 59 net-new CONDEMNED
+  rulings (set 362 → 421), 167 grounds corrected, 48 new
+  ATTESTED-REGULAR entries; application built mechanically
+  from the record (58 condemned tokens with seats, spec
+  coverage asserted), 132 verses changed. Zero-check over the
+  full updated condemned set (421 tokens), case-insensitive:
+  NONE left over. Canonical re-verify after round 6:
+  6,236 = 6,236, grid clean, GAP 59 / 67 (unchanged),
+  Basmalah exact, "redacted" NONE. LANDING STATUS: the pack
+  is re-staged; the landing waits on a fresh deciding checker
+  pass by an agent that did none of this work, its
+  adjudication band weighted to family/prefix-cite and
+  exact-attestation grounds, plus the full condemned sweep.
+- Deciding checker pass 4 (CHECKER-REPORT-DECIDING4-2026-11-28.md,
+  fresh agent, lane record): Gates 1, 2, 3 and 5 PASS — canonical
+  and the 421-token condemned sweep independently re-derived at
+  zero, every round-6 re-seat confirmed firsthand, paperwork
+  consistent. Gate 4 FAIL on four rulings the round-6 sweep did
+  not reach: avvisadôr (4 seats; ground names no checkable form),
+  bracialets (22:23; cited traces are wrong lexemes), aflit
+  (3 seats; unattested, seats garbled), disfurtune (9:98; its
+  restated ground cites a different lexeme). LANDING STATUS:
+  NOT LANDED. A round-7 remediation on the checker's
+  prescription awaits the parent desk's direction.
+
+- Remediation round 7 (2026-11-28; lane record
+  work/adjudication/apply_round7.py, sweep7*.py,
+  dossiers7.txt, zero-check-round7.txt), on the fourth
+  deciding checker's prescription — the no-form-ground
+  class and the wrong-lexeme guard. The named families, seat by seat against the Locked English
+Master: avvisadôr CONDEMNED (its ground named no checkable form;
+Pirona's Friulian for the sense is the Visa family) and re-seated
+avertidôr at 67:8, 67:9, 67:26, 71:2; aflit CONDEMNED (the Italian
+afflitto stem, no cell of the lane's afligjâ) and re-seated on the
+attested patî family (Pirona part-2 L52457; corpus patît x37) —
+68:6 reworded "chel che al patìs", 43:48 reworded with fasèrin
+patî and its garbled syntax repaired, 41:50 rewritten whole
+against the Master (its English-order clauses, wrong-gender
+articles and Italian copula forms removed); bracialets (22:23)
+and its second spelling braçalets (18:31, 76:21) CONDEMNED (no
+Friulian bracelet form in any source; Pirona carries the word
+only inside Italian prose) — all three seats take GAP markers;
+disfurtune CONDEMNED (its round-6 restated ground cites disfâ, a
+different lexeme) and re-seated sfortune at 9:98, with its kin
+disfurtunât re-seated sfortunât at 22:28 and disfurtunis
+re-seated sfurtunis at 7:168 (sfortune corpus x1 in Friulian
+prose; sfortunât x5). The salviaran and mandaitlis grounds are
+restated on their true evidence (salvâ, Wiktionary lemma +
+corpus x36, the salvi exact form at x2-3 including the Friulian
+"che salvi i prâts"; mandâ corpus x31, the "mandai" cite struck
+as not re-derived).
+
+The sweep, exhaustive over the classes the earlier sweeps'
+definitions did not reach: the no-form-ground class (grounds
+naming no Pirona line, no corpus count, no lemma cite — the
+"evidence2 record" shape) held 439 ATTESTED-REGULAR rulings:
+365 grounded under a conservative verifier (the round-6 strict
+test behind a one-strip derivation, built so the disfâ
+over-strip is unreachable) and 74 went to firsthand dossiers.
+The round-6 RESTATED guard re-ran over all 145 restated grounds:
+118 pass with the cited stem verified as the token's own
+lexeme, 27 to dossiers. The cited-ground classes were re-run
+whole: of 2,035 ATTESTED-REGULAR rulings, 1,668 cited forms
+verify, and every one of the 98 cited-failed and 32
+cited-partial rulings was carried into the round-7 pools and
+resolved (no orphans). The merged dossier pool held 251 tokens;
+a lemma-derivation pass grounded 134 more, and the 117 residues
+were ruled firsthand one by one: 102 stand with restated
+checkable grounds, 14 condemned, and 1 (l'eternâl, 3:2) ruled
+FLAGGED CONSTRUCTION with its non-attestation disclosed. The
+firsthand work also condemned 27 further tokens the machine
+sweeps had passed on wrong-lexeme or fragment evidence —
+the inchin- family whole (its evidence was Pirona's Incinâ
+"to notch" and the English word "inch"; re-seated on the
+lane's prosternâsi), inciantarin/inciantânus (a strip-to-"inc"
+fragment; reworded on fature), agjut (agjî "to act"; re-seated
+aiût), cjamiei (a "cja" fragment; GAP, as the lane's camel
+ruling), deleitin (the article "del"; re-seated gjodin),
+meraveis ("mer" the sea; re-seated maraveis), bruisait ("bru";
+re-seated brusait), cative ("freq:cat"; re-seated triste), the
+adultery family (never adjudicated; its nine seats take GAP
+markers), perseverais/perseveravin/perseverât (the family's
+only corpus trace is the newspaper name "La Perseveranza";
+reworded on pazience, the book's standing word, as
+perseverin was in round 6), desiderôs (Italian meta-text
+traces; reworded on Pirona's Vèje), ciecamentri (no Pirona
+Ciec headword; reworded), fatûr (reworded "mestri di
+fature"), litigôs (the litig- family's last form; reworded on
+disputâ), sacrilegi (its claimed corpus forms occur nowhere;
+reworded on violâ), l'iresistibil (reworded "che nissun i
+pues resisti" at its three seats), stordît/stordiment
+(Pirona's Friulian for the sense is Sturnî, part-2 L106127;
+re-seated sturnît/sturniment), pançis (re-seated panzis on
+panze), dispôs (re-seated disponût), ahî (the kallā seats'
+own norm is "No!"; re-seated), antecessôrs (re-seated
+antenâts). In all: 41 new CONDEMNED rulings (set 421 -> 462),
+20 new ATTESTED-REGULAR entries for the replacement forms,
+1 new FLAGGED CONSTRUCTION, and 688 grounds restated (577 by
+the sweep machinery, the rest by hand). Application was
+mechanical from the record (spec coverage asserted: 41
+condemned tokens with seats = 41 in spec): 37 phrase swaps and
+37 token-swap occurrences; 70 verses changed. Zero-check over
+the full updated condemned set (462 tokens), case-insensitive:
+NONE left over. Canonical re-verify after round 7: 6,236 =
+6,236, per-surah grid clean at all 114, GAP census 73 seats /
+86 markers (was 59 / 67: +3 bracelets, +2 camel, +9 adultery),
+Basmalah 1:1 exact, "redacted" NONE.
+
+Coverage, stated explicitly: cited-form grounds were swept in
+rounds 5-6 and re-verified whole in round 7 (1,668 verified;
+every failure resolved); no-form grounds were swept in round 7
+(439, all resolved); round-6 RESTATED grounds were
+lexeme-guarded in round 7 (145, all resolved). Classes not
+swept by any round, named honestly: the 57 PRIOR PASS entries
+(they carry the earlier checker passes' authority and state no
+ground of their own), the 11 FLAGGED CONSTRUCTION entries
+(their grounds name their evidence and their disclosure), and
+seated base-vocabulary tokens that carry no record entry at
+all (the builder's core vocabulary, e.g. pazience, triste —
+outside the adjudication record by construction).
+  LANDING STATUS: the pack is re-staged; the landing
+  waits on a fresh deciding checker pass by an agent
+  that did none of this work, its adjudication band
+  drawn across ALL ruling classes (not weighted to
+  one), plus the full condemned sweep.
+
+Manuscript: ayah-companion-manuscript-FUR.md — 849,535 bytes,
+SHA-256 9e4b054256896841a369fa8ad5d9901b8a65c31f78e434eef4006b389aa235ed
+(post-round-7 assembly; supersedes the 849,218-byte
+post-round-6 assembly, the 849,246-byte
+post-round-5 assembly, the 848,987-byte
+post-round-4 assembly, the 849,012-byte post-round-3 assembly,
+the 849,085-byte second-remediation assembly, the 849,025-byte
+first-remediation assembly, and the pre-remediation
+849,034-byte assembly).
+
+
+Correction (dated 2026-11-28, on deciding checker pass 5's finding): the round-7 grounds-restated tally given above as 688 is corrected to 696, the fresh deciding checker's independently derived count (CHECKER-REPORT-DECIDING5-2026-11-28.md, Gate 5). The discrepancy is a descriptive tally only; it touches no seat, ruling, or ground.
+
+- Deciding checker pass 5 (CHECKER-REPORT-DECIDING5-2026-11-28.md,
+  fresh agent, lane record): ALL FIVE GATES PASS — canonical
+  (6,236 = 6,236, GAP 73/86, Basmalah exact, redacted NONE),
+  the full 462-token condemned sweep at zero, fidelity (all 70
+  round-7 verses plus a fresh 40-verse sample; the two garbled
+  Batch-I seats 41:44 and 48:25, inside the FLAGS-disclosed
+  Batch-I range, and the cative -> triste weakening are named
+  as non-blockers), an adjudication spot-band of 66 entries
+  across ALL ruling classes verified firsthand at 66/66 PASS,
+  and the fences (manuscript 849,535 bytes, SHA-256 as below,
+  matching). Verdict: LAND. LANDED as DRAFT — NOT PUBLISHED
+  under the Pipeline Landing Authorization.
