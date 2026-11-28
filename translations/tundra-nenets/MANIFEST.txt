@@ -1,0 +1,88 @@
+MANIFEST — Ayah Companion Tundra Nenets
+
+Built 2026-11-28 on Robert Tilford's ruling (2026-11-28, tap +
+typed word, on the desk's recommendation), which opened the lane
+under the conditions of CANDIDATE-BRIEF-TUNDRA-NENETS.md and fixed
+the orthography: the two glottal-stop letters seated exactly as
+the standard literary orthography writes them — ʼ (U+02BC) and
+ˮ (U+02EE) — for the whole build. Landed under the Pipeline
+Landing Authorization (2026-11-14) on the final deciding
+checker's full PASS.
+
+Status: a complete rendering of the Quran in Tundra Nenets — all
+6,236 verses, the whole book, nothing left out. DRAFT — NOT
+PUBLISHED. No first-translation claim is made. Translated by
+Robert Tilford. © 2026 Robert Tilford.
+
+The language base, stated plainly: the standard literary Tundra
+Nenets orthography (Cyrillic, initial ӈ- retained). The code yrk
+also covers Forest Nenets; this book is Tundra only, and any seat
+whose only attestation was Forest was held as a GAP. No native
+Tundra Nenets reader has reviewed this translation; the front
+matter says so.
+
+Sources (full record in SOURCES-NOTE-YRK-2026-11-28.md):
+- GiellaLT lang-yrk dictionary and analyser data (repo licence
+  file: GNU LGPL v3) — attestation; 15,864 lemmas.
+- INEL Nenets Corpus (CC BY-NC-SA 4.0), Tundra subset only:
+  56 texts / 6,545 sentences / 37,681 tokens — attestation.
+- UD Nenets-Tundra treebank (CC BY-SA 4.0) — corroboration.
+- UDHR in Nenets (OHCHR, 2009; lect verified Tundra) —
+  attestation.
+- IBT Four Gospels and Acts (Moscow, 2025; © Institute for Bible
+  Translation, 2025) — fact and citation only; wording never
+  reproduced.
+- The standard dictionaries and grammar (Tereshchenko; Pyrerka &
+  Tereshchenko; Lehtisalo; Burkova et al.; Nikolaeva; Salminen)
+  — in copyright, fact and citation only. Salminen's glossary
+  restriction ("Not to be distributed without permission")
+  recorded as it stands.
+
+Gates, all run 2026-11-28 (records in this folder):
+- Canonical verify against the Locked English Master (manuscript
+  MD5 ecc5b8e2848e5044186b7ad82bed9f4e): 6,236 of 6,236 verses,
+  per-surah grid clean at all 114, Basmalah 1:1 exact, no
+  "redacted" string anywhere. Codepoint integrity by machine
+  counts: U+02BC 21,350; U+02EE 48,644; U+0027, U+2019, U+02B9
+  all zero — no normalisation.
+- Checker 1 (independent): FAIL — fidelity confined to 7 verses,
+  attestation on a named token set, the "what" word n-initial.
+  Remediation round 1: 305 verses re-rendered, all condemned
+  tokens cleared.
+- Re-check: FAIL, narrowed — 223 batch-A verses still
+  fragmentary; золото condemned. Remediation round 2: 248 verses
+  re-rendered; gold and silver GAPped by desk ruling; book-wide
+  compression criterion at zero.
+- Deciding check: FAIL on two confined items — тэӈгы (54
+  occurrences, unattested) and names policy (Мария 11 seats,
+  Евангелие 7 seats). Remediation round 3 cleared both, including
+  19 capitalised тэӈгы seats the deciding enumeration had missed.
+- Final deciding check: PASS, all six gates — mechanical,
+  тэӈгы closure, names closure (24 name pairs swept, Russian
+  forms all zero), GAP recount, fresh fidelity sample 12/12 with
+  a 26-token attestation band (none condemned), fences.
+- GAP census: 119 seats / 146 markers — hypocrite 36, jinn 32,
+  pilgrimage 18, camel 16, adultery 15, usury 8, donkey 3,
+  pearl 3, gold 3, coral 2, ruby 1, pomegranate 1, pitcher 1,
+  polytheist 1, cucumber 1, garlic 1, lentils 1, onion 1,
+  swine 1, silver 1. Each verified unattested in every harvested
+  Tundra source; no word invented.
+
+Manuscript: ayah-companion-manuscript-YRK.md — 1,348,369 bytes,
+SHA-256 4d7537743bb4f8af3df617234743979cef62551f2d07b995fdd727a1108e5eb5
+
+Pack contents:
+- README.md
+- ayah-companion-manuscript-YRK.md (front matter + full text)
+- MANIFEST.txt (this file)
+- FLAGS-YRK.md (GAP census, lect fence, orthography ruling,
+  devices, checker history, standing caveat)
+- BUILD-RECORD-YRK-2026-11-28.md
+- SOURCES-NOTE-YRK-2026-11-28.md
+- CORRECTIONS-YRK-2026-11-28.md (the remediation log, unedited)
+- GLOSSARY-YRK.md (fixed seats with strata)
+- CHECKER-REPORT-INDEPENDENT-2026-11-28.md (FAIL)
+- CHECKER-REPORT-RECHECK-2026-11-28.md (FAIL, narrowed)
+- CHECKER-REPORT-DECIDING-2026-11-28.md (FAIL, two items)
+- CHECKER-REPORT-FINAL-2026-11-28.md (PASS — the landing verdict)
+All checker reports travel unedited, the failures included.
