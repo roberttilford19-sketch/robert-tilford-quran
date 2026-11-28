@@ -1,0 +1,96 @@
+MANIFEST — Ayah Companion Lule Sámi
+
+Built 2026-11-27 on Robert Tilford's ruling (2026-11-27 21:16 CST,
+nightly board: the desk's recommendation carries; lanes in the
+OPEN-IN-ORDER QUEUE open as crew capacity frees — Lule Sámi first
+in that queue), launched as top-up by the hourly supervision check
+of 2026-11-27 22:00 CST. Prepared under the Pipeline Landing
+Authorization (2026-11-14).
+
+LANDING STATUS: LANDED 2026-11-27 on the GitHub shelf, as DRAFT —
+NOT PUBLISHED, under the Pipeline Landing Authorization. The first
+independent checker returned FAIL and landing was held; the
+remediation pass below was then performed, a fresh independent
+re-check returned a full PASS, and only then was the pack
+committed, pushed, and origin-verified. The commit hash and the
+origin verification are recorded in the lane build record
+(~/workspace/ayah-lule-sami/BUILD-RECORD-SMJ-2026-11-27.md).
+
+Status: a complete rendering of the Quran in Lule Sámi — all
+6,236 verses, the whole book, nothing left out. DRAFT — NOT
+PUBLISHED. No first-translation claim is made: no Lule Sámi
+Qur'an was found in the searches named in the candidate brief
+(tier NOT FOUND, not proven non-existent). Translated by Robert
+Tilford. © 2026 Robert Tilford.
+
+The language base, stated plainly: the 1983 standard orthography,
+Norwegian variant (Æ, ŋ). Sources (full record in the lane folder
+~/workspace/ayah-lule-sami/, LICENCES-RECORDED-2026-11-27.md):
+- GiellaLT lang-smj lexicon and grammar infrastructure (Divvun &
+  Giellatekno, UiT / Norwegian Sámi Parliament) — GPL v3, licence
+  file read directly from the repository 2026-11-27; attestation
+  inventory of 74,178 stem/surface entries.
+- English Wiktionary Lule Sámi lexicon (CC BY-SA) — 865 lemmas.
+- SIKOR corpus (CC-BY 3.0 as a dataset) — attestation context only.
+- Lule Sámi New Testament (Bible Societies, in copyright) —
+  control by fact and citation only; wording never reproduced.
+
+Gates, all run 2026-11-27 (records in the lane folder and here):
+- Machine count: 6,236 of 6,236 verses; seat-set equality with
+  the Locked English Master (MD5 ecc5b8e2848e5044186b7ad82bed9f4e)
+  exact; per-surah grid clean at all 114; no empty seats.
+- Canonical verify: Basmalah 1:1 exact ("Jubmela namán, dat
+  Vájmodis, dat Ármmogis."); the string "redacted" appears
+  nowhere (39:7 and 48:8 rendered for their surrounding sense).
+- Purple sweep (verify.py, post-remediation): distinct tokens
+  10,579; untraced candidates 7,039 — an instrument candidate
+  list, not a verdict: the GiellaLT inventory holds underlying
+  stems, so ordinary inflected forms and function words dominate
+  the list. Both independent checkers spot-traced forms directly
+  against the cleaned stem inventory and did not count the sweep
+  list against the build.
+- Independent checker (CHECKER-REPORT-INDEPENDENT-SMJ-2026-11-27.md),
+  a fresh agent that built none of the text: FAIL.
+  * Clause sample, 72 verses across all 12 batches: 69/72 carry
+    every clause. Dropped/distorted clauses at 9:117, 17:52,
+    11:88; weakened seats at 3:123, 2:201, 22:5, 4:139.
+  * Orthography FAIL at scale: 892 forbidden characters in 630
+    seats (Swedish ä ×474, Ä ×2; Northern š ×286, đ ×100, č ×26,
+    Č ×3, ž ×1); Northern lexemes gieđa, dušše ×120, čáppis,
+    ráŋggáštus. Only batch A was clean. ń and ŧ absent, as required.
+  * GAP honesty mixed: no verse left as English anywhere; standing
+    GAP terms never invented; BUT batch I (40:28–51:5) GAP-marked
+    544 markers in 322 seats including terms attested elsewhere
+    in the book (punishment, Messenger, Hell, Paradise, prayer,
+    servants) — an undisclosed mid-book method change.
+  * Basmalah PASS. Attestation spot-check PASS (core 30, 30/30).
+- Remediation (REMEDIATION-RECORD-SMJ-2026-11-27.md), performed
+  by a crew that built none of the text:
+  * Orthography normalisation over the whole book: forbidden
+    characters 892 → 0 (ä/Ä → æ/Æ; dušše → duola; gieđa → giehta;
+    ráŋggáštus → ráŋástus; čáppis → tjáppis; čiehk → tjiehk;
+    čoahkke → tjoahkke; gáržes → gártjes; -vuođa → -vuohta;
+    ođđa/åđđå → ådås on Wiktionary's attested lemma, and the
+    remaining Northern forms likewise onto attested Lule forms).
+  * Batch I rework: 175 GAP markers re-seated on the book's own
+    attested forms and disclosed devices; notes-I's attestation
+    claim corrected by a dated correction in that file.
+  * Clause repairs at 9:117, 17:52, 11:88 and the weakened seats
+    3:123, 2:201, 22:5, 4:139.
+- Fresh independent re-check (CHECKER-REPORT-RECHECK-SMJ-2026-11-27.md),
+  an agent that built and remediated none of the text: PASS —
+  full pass on all five checks. Forbidden characters recomputed
+  at 0 in 0 seats; batch I GAP census 369 markers in 245 seats
+  with no device-available term left GAP-marked; all seven
+  repaired clause seats pass; a fresh 36-verse clause sample
+  across all 12 batches carried every clause, 36 of 36; canonical
+  checks clean.
+- GAP census (post-remediation, recomputed by the re-checker):
+  638 markers in 469 seats, 377 distinct terms — counted in the
+  same breath as the verse count, above and in FLAGS-SMJ.md.
+  Batch I alone: 369 markers in 245 seats (was 544 in 322).
+
+Manuscript: ayah-companion-manuscript-SMJ.md — 839,367 bytes,
+SHA-256 13da2b146c61a910a988fd18e608934d465e65afd47269d9d43a8f87f11778e4
+(remediated assembly, superseding the pre-remediation assembly
+of 841,230 bytes).

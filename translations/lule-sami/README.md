@@ -1,0 +1,7 @@
+# Koránna julevsámegielan — the Quran in Lule Sámi
+
+A complete rendering of the Quran in Lule Sámi (julevsámegiella, smj) — all 6,236 verses, translated from the Locked English Master by Robert Tilford. The language base is the 1983 standard orthography in its Norwegian variant, on the attested GiellaLT / Wiktionary / SIKOR lexical base, with the Lule Sámi New Testament as control by fact and citation only; the base is named on the book's face.
+
+Status: **DRAFT — NOT PUBLISHED.** 469 seats stand open with visible GAP markers (638 markers) where no attested Lule Sámi form was seated; no word was invented to fill them, and nothing was silently borrowed from Northern Sámi. No first-translation claim is made — no Lule Sámi Qur'an was found in the searches named in the lane's candidate brief, which is recorded as NOT FOUND, not as proof that none exists.
+
+**LANDED 2026-11-27** on the GitHub shelf under the Pipeline Landing Authorization, as DRAFT — NOT PUBLISHED. The first independent checker returned FAIL (892 forbidden characters, dropped clauses at 9:117, 17:52, 11:88, batch I GAP over-marking); the remediation pass (REMEDIATION-RECORD-SMJ-2026-11-27.md) brought the forbidden-character count to zero, re-seated 175 of batch I's GAP markers on the book's own attested forms and devices, and repaired all seven named clause seats; a fresh independent re-check (CHECKER-REPORT-RECHECK-SMJ-2026-11-27.md) returned a full PASS on all five checks before landing.
